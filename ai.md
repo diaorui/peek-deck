@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T23:40:18.241588+00:00'
+updated: '2026-04-27T02:52:09.896122+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 23:40 UTC  
+**Last Updated:** April 27, 2026 at 02:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[In 10 Minutes with AI, I Just Got More Closure on My Divorce than 4 Years of Therapy](https://www.reddit.com/r/artificial/comments/1swqczz/in_10_minutes_with_ai_i_just_got_more_closure_on/)**
+
+Apologies if this is rather personal for this sub but I feel a need to express how profoundly useful it was for me tonight. A Chatbot very likely just saved my life. I am positively floored by how therapeutic it was in processing the beginning and ending of my relationship with my former spouse. I feel as though I finally can give myself permission to let go and move on with my life. I don’t know what this says about technology and society, but it’s beautiful.
+
+48m ago
+
+---
+
 **[An amateur just solved a 60-year-old math problem—by asking AI](https://www.reddit.com/r/artificial/comments/1swi8f9/an_amateur_just_solved_a_60yearold_math_problemby/)**
 
 A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 3h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 6h ago
 
 ---
 
@@ -49,7 +57,7 @@ A ChatGPT AI has proved a conjecture with a method no human had thought of. Expe
 
 Federal funding for scientific research was already in turmoil.
 
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 22h ago
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 1d ago
 
 ---
 
@@ -57,7 +65,7 @@ Federal funding for scientific research was already in turmoil.
 
 I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
 
-1h ago
+4h ago
 
 ---
 
@@ -69,19 +77,27 @@ Slack messages, interviews with current and former works paint picture of compan
 
 ---
 
-**[These generated videos has ruined the fun of social media and youtube.](https://www.reddit.com/r/artificial/comments/1sw317k/these_generated_videos_has_ruined_the_fun_of/)**
-
-No more organic content or videos on the internet everything is just Ai and it made me loose the interest, now I am just reading books.
-
-14h ago
-
----
-
 **[Someone used AI to explain a Dune passage warning against using AI to do your thinking. That's the whole debate](https://www.reddit.com/r/artificial/comments/1sw9w50/someone_used_ai_to_explain_a_dune_passage_warning/)**
 
 The Globe and Mail's editorial board ran a piece in March titled "AI can be a crutch, or a springboard." To illustrate the crutch half, they offered this: someone asked AI to explain a passage from Dune that warns against delegating thinking to machines. Instead of reading the book. That anecdote is doing more work than the studies the editorial cites. But the studies are real. Researchers at MIT published a paper in June 2025 titled "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task" (Kosmyna et al., arXiv 2506.08872). The study tracked brain activity across three groups: people writing with ChatGPT, people using search engines, and people working unaided. The LLM group showed the weakest neural connectivity. Over four months, "LLM users consistently underperformed at neural, linguistic, and behavioral levels." The most striking finding: LLM users struggled to accurately quote their own work. They couldn't recall what they had just written. The Globe cites this and similar research to make a point about dependency. The implicit argument: hand enough of your thinking to a machine and you stop doing it yourself. That finding is probably accurate for the way most people use these tools. The question is whether that's the only way they can be used. The Globe's own title contains the counter-argument. Crutch or springboard. They wrote both words. They just didn't develop the second one. Ethan Mollick, a professor at Wharton who has been writing about AI use since the tools became widely available, argued in 2023 that the real challenge AI poses to education isn't that students will stop thinking, it's that the old structures assumed thinking was hard enough to enforce. ("The Homework Apocalypse," oneusefulthing.org, July 2023.) When AI can do the surface-level cognitive work, the only tasks left worth assigning are the ones that require actual judgment. The tool, in that framing, doesn't reduce the demand for thinking. It raises the floor under it. Nate B. Jones, who writes and consults on what it actually takes to work well with AI, has made a sharper version of this argument. His position: using AI effectively requires more cognitive skill, not less. Specifically, it requires the ability to translate ambiguous intent into a precise, edge-case-aware specification that an AI can execute correctly. It requires detecting errors in output that is fluent and confident-sounding but wrong. It requires recognizing when an AI has drifted from your intent, or is confirming a premise it should be challenging. These are not passive skills. They are harder versions of the same thinking the MIT study found LLM users weren't doing. The difference between the group that lost neural connectivity and the group that doesn't isn't the tool. It's what they decided to do with it. Here's my own evidence. In the past year I built a working web application. Python backend. JavaScript frontend. Deployed on two hosting platforms. Payment processing. User authentication. A full data model. I do not know how to code. Every product decision was mine. Every architectural call. Every tradeoff judgment. I defined what the system needed to do, why, and what done looked like. I reviewed every significant change before it was accepted. When something broke, I identified where the breakdown was and directed the fix. The implementation was handled by AI. The thinking was mine. This mode (call it AI-directed building) is the opposite of the Dune reader. The quality of what gets produced is entirely a function of how clearly you can think, how precisely you can specify, and how critically you can evaluate what comes back. There is no shortcut in that. A vague brief to an AI doesn't produce a confused output. It produces a confident, fluent, wrong one. The discipline that prevents that is yours to supply. Non-coders building functional software with AI is common enough now that it isn't a story. What's less visible is the specificity of judgment underneath the ones that actually work. The practices that force more thinking rather than less are not complicated, but they require a decision to use the tool differently. When I've formed a position on something, I give the AI full context and ask it to make the strongest possible case against me. Ask for the hardest opposing argument it can construct. Then I read it. Sometimes it changes nothing. Sometimes it surfaces something I had dismissed without fully examining. The AI doesn't form my view. It stress-tests one I've already formed. When I'm uncertain between options, I don't ask which is better. I ask: here are two approaches, here is my constraint, now what does each cost me, and what does each require me to give up? I make the call. The AI laid out the shape of the decision. The judgment was mine. The uncomfortable part of thinking is still yours in this mode. The tool makes the work more rigorous, not easier. The MIT researchers and the Globe editorial are almost certainly right about the majority of current use. Passive use produces passive outcomes. That's not a controversial claim. The crutch half and the springboard half use the same interface. The difference is whether the person in front of it decided to think. What are you doing with it that forces more thinking rather than less? Are you using it to skip a step, or to take a harder one? Genuinely asking.
 
-8h ago
+11h ago
+
+---
+
+**[These generated videos has ruined the fun of social media and youtube.](https://www.reddit.com/r/artificial/comments/1sw317k/these_generated_videos_has_ruined_the_fun_of/)**
+
+No more organic content or videos on the internet everything is just Ai and it made me loose the interest, now I am just reading books.
+
+17h ago
+
+---
+
+**[I built a prompt injection detector that outperforms LlamaGuard 3 on indirect/roleplay attacks](https://www.reddit.com/r/artificial/comments/1swpkvp/i_built_a_prompt_injection_detector_that/)**
+
+Been working on Arc Sentry, a whitebox prompt injection detector for self-hosted LLMs (Mistral, Llama, Qwen). Most detectors pattern-match on known attack phrases. Arc Sentry watches what the prompt does to the model’s internal representation instead, so it catches indirect, hypothetical, and roleplay-framed attacks that get through keyword filters. Benchmark on indirect/roleplay/technical prompts (40 OOD prompts): • Arc Sentry: Recall 0.80, F1 0.84 • OpenAI Moderation API: Recall 0.75, F1 0.86 • LlamaGuard 3 8B: Recall 0.55, F1 0.71 Arc Sentry has the highest recall — it catches more of the hard cases. Blocks before model.generate() is called. The lightweight pre-filter runs on CPU with no model access. pip install arc-sentry GitHub: https://github.com/9hannahnine-jpg/arc-sentry Happy to answer questions about how it works.
+
+1h ago
 
 ---
 
@@ -89,7 +105,7 @@ The Globe and Mail's editorial board ran a piece in March titled "AI can be a cr
 
 Earlier this month on Phoronix we were the first to draw attention to a new fuzzing tool / AI bot uncovering kernel bugs by Greg Kroah-Hartman, the 'second in command' for Linux kernel development and stable maintainer
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max) • 14h ago
 
 ---
 
@@ -97,23 +113,7 @@ Earlier this month on Phoronix we were the first to draw attention to a new fuzz
 
 I work in AI security and compliance. This just bothers me a little bit, putting AI systems in front of decisions that change people’s lives via insurance claims, hiring, credit, defense applications and when someone asks wait, why did the system do that? we basically have nothing that would hold up in a courtroom. The explainability tools we have right now? SHAP, LIME, attention maps but they’re research tools. They’re not evidence. Researchers have shown you can build a model that actively discriminates while producing perfectly clean looking explanations. They have unbounded error, they give you different answers on different runs, and there’s no way for the other side’s lawyer to independently check the work. That’s a problem if you’re trying to meet Daubert standards. And the regulatory side is moving just as fast. EU AI Act has record keeping requirements coming online. The FY26 NDAA has an AI cybersecurity framework provision with implementation due mid 2026. States are doing their own thing. Courts are starting to actually push back on AI evidence under FRE 702. There is a ton of AI observability tooling out there. Great for ops. There’s governance platforms. Great for policy. But when it comes to something that’s actually forensic grade where opposing counsel is actively trying to tear it apart, where a third party can independently verify what happened without just trusting the vendor,I’m not seeing it. What am I missing?
 
-2h ago
-
----
-
-**[Gen Alpha boys are preferring “AI girlfriends” over real ones](https://www.reddit.com/r/artificial/comments/1svesyt/gen_alpha_boys_are_preferring_ai_girlfriends_over/)**
-
-A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
-
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 1d ago
-
----
-
-**[Unable to make sense of my chats with Claude](https://www.reddit.com/r/artificial/comments/1swgxv4/unable_to_make_sense_of_my_chats_with_claude/)**
-
-I have been using Claude for research for building my product. I have done user research, market research, competition analysis etc But the output of it all so much that although useful I am not able to dig through the chats and make use of it. I tried turning them into book chapters but still the data is too much to consume How do you guys do research so that it is useful ?
-
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ I have been using Claude for research for building my product. I have done user 
 
 **[The Podcast Where You Can Eavesdrop on the A.I. Elite](https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html)**
 
-The New York Times • 14h ago
+The New York Times • 11h ago
 
 ---
 
@@ -131,35 +131,49 @@ The New York Times • 14h ago
 
 Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
 
-Fortune • 15h ago
+Fortune • 18h ago
 
 ---
 
-**[Economists Rethink Chinese Forecasts as AI Fires Up Import Surge](https://www.bloomberg.com/news/articles/2026-04-26/economists-rethink-chinese-forecasts-as-ai-fires-up-import-surge)**
+**[China industrial profits jump 15.8% in March, fueled by AI and chip boom despite oil shock risks](https://www.cnbc.com/2026/04/27/china-industrial-profits-march-iran-war-oil-shock.html)**
 
-Bloomberg • 40m ago
+Rising global oil prices have begun seeping into the domestic economy, squeezing margins for manufacturers dependent on imported raw materials.
 
----
-
-**[Our Principles](https://openai.com/index/our-principles/)**
-
-Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.
-
-OpenAI • 36m ago
+CNBC • 1h ago
 
 ---
 
-**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html)**
+**[Emerging Stocks Rise to Record High on AI, Iran Offer](https://www.bloomberg.com/news/articles/2026-04-27/emerging-stocks-rise-to-record-high-on-ai-iran-offer)**
 
-Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
+Bloomberg.com • 1h ago
 
-Yahoo Finance • 5h ago
+---
+
+**[TPIsoftware Wins "Taiwan SMART 50 Award" for Its FHIR-Based Medical AI Application](https://uk.finance.yahoo.com/news/tpisoftware-wins-taiwan-smart-50-021100228.html)**
+
+TPIsoftware (TPEx: 7781) was honored with the first Taiwan SMART 50 Award for creating a FHIR-based Medical AI Application.
+
+Yahoo Finance UK • 41m ago
 
 ---
 
 **[San Francisco, AI capital of the world, is an economic laggard](https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard)**
 
-The Economist • 7h ago
+The Economist • 10h ago
+
+---
+
+**[AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)**
+
+Axios • 14h ago
+
+---
+
+**[Our principles](https://openai.com/index/our-principles/)**
+
+Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.
+
+OpenAI • 3h ago
 
 ---
 
@@ -167,29 +181,15 @@ The Economist • 7h ago
 
 AI can echolocate authors through their prose. Your digital fingerprint is at risk.
 
-The Washington Post • 5h ago
+The Washington Post • 8h ago
 
 ---
 
-**[AI is making it very easy for the government to spy on you. Some lawmakers are worried.](https://www.nbcnews.com/tech/security/ai-making-easy-government-spy-lawmakers-are-worried-rcna341499)**
+**[Robot malfunction at Shaanxi university event sparks debate on AI awareness and safety in human-robot interaction](https://www.globaltimes.cn/page/202604/1359787.shtml)**
 
-AI’s increasing ability to sift through data and track Americans’ locations has some lawmakers reconsidering parts of the Foreign Intelligence Surveillance Act.
+A female student was unexpectedly embraced by a humanoid robot during a dance performance at a university sports event in Northwest China’s Shaanxi Province, sparking discussion among Chinese netizens over whether the robot may have developed autonomous awareness and prompting experts to call for enhanced safety measures in human-robot interaction scenarios.
 
-NBC News • 9h ago
-
----
-
-**[Data centers becoming ‘inescapable’ in Georgia's elections](https://www.politico.com/news/2026/04/26/ai-data-centers-georgia-midterms-00888668)**
-
-Politico • 9h ago
-
----
-
-**[New museum dedicated to AI promises an ethical approach](https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum)**
-
-As some continue to pushback on AI art, artist Refik Anadol seeks to base his new venture on ethical and environmental principles.
-
-NPR • 23h ago
+Global Times • 1d ago
 
 ---
 
@@ -199,7 +199,15 @@ NPR • 23h ago
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 375 • 💬 528 • 7h ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+⬆️ 482 • 💬 653 • 10h ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+
+---
+
+**[AI should elevate your thinking, not replace it](https://news.ycombinator.com/item?id=47913650)**
+
+Read about the .
+
+⬆️ 303 • 💬 257 • 6h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
@@ -207,7 +215,7 @@ NPR • 23h ago
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 266 • 💬 359 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 266 • 💬 361 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -219,19 +227,11 @@ The widely circulated image had prompted authorities to move their search operat
 
 ---
 
-**[AI should elevate your thinking, not replace it](https://news.ycombinator.com/item?id=47913650)**
-
-Read about the .
-
-⬆️ 215 • 💬 171 • 3h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-
----
-
 **[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://news.ycombinator.com/item?id=47897790)**
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 180 • 💬 75 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 180 • 💬 75 • 2d ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -253,13 +253,7 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
 
-⬆️ 124 • 💬 66 • 15h ago • [edenai.co](https://www.edenai.co)
-
----
-
-**[Have you tried Clean Architecture as foundation for your AI project?](https://news.ycombinator.com/item?id=47913561)**
-
-⬆️ 92 • 💬 2 • 3h ago
+⬆️ 125 • 💬 66 • 18h ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -267,7 +261,13 @@ Access 500+ LLMs and expert AI models through one unified API. Route requests by
 
 There is an implicit contract at the foundation of every database architecture decision you have ever made. You probably never wrote it down. Nobody does. It just… existed.
 
-⬆️ 89 • 💬 90 • 1d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
+⬆️ 97 • 💬 95 • 2d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
+
+---
+
+**[Have you tried Clean Architecture as foundation for your AI project?](https://news.ycombinator.com/item?id=47913561)**
+
+⬆️ 93 • 💬 1 • 6h ago
 
 ---
 
@@ -281,27 +281,25 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Really American
 
-👁️ 721K • 👍 35K • 💬 2K • ⏱️ 13:36 • 1d ago
+👁️ 791K • 👍 37K • 💬 2K • ⏱️ 13:36 • 1d ago
 
 ---
 
-**[How to Start an AI Service Business in 2026 (Full Course)](https://www.youtube.com/watch?v=McO_xcf4IYw)**
+**[TRUMP FURIOUS as EU &amp; Canada CUT US AI OUT— $20B AI DEAL, $10B SATELLITE &amp; €800B DEFENSE EXIT](https://www.youtube.com/watch?v=RcHdsNl8bw8)**
+
+📺 Fastepo 
+
+👁️ 16K • 👍 901 • 💬 152 • ⏱️ 11:38 • 12h ago
+
+---
+
+**[The Beginner’s Guide to Selling AI Services (Full Course)](https://www.youtube.com/watch?v=McO_xcf4IYw)**
 
 Join Whop Academy - https://whopacademy.com/join Student access (free with .edu email ) - https://whopacademy.com/ Free ...
 
 📺 Brett Malinowski
 
-👁️ 2K • 👍 181 • 💬 7 • ⏱️ 1:13:54 • 7h ago
-
----
-
-**[These FREE AI Image &amp; Video Generators Have ZERO Limits — Open Source, No Sign Up, No Watermark ](https://www.youtube.com/watch?v=B8ZvfpGgbec)**
-
-China is not slowing down and in this video I am breaking down some of the most powerful free unlimited and open source ...
-
-📺 Manny ai
-
-👁️ 1K • 👍 86 • 💬 7 • ⏱️ 10:31 • 8h ago
+👁️ 4K • 👍 248 • 💬 67 • ⏱️ 1:13:54 • 10h ago
 
 ---
 
@@ -309,47 +307,7 @@ China is not slowing down and in this video I am breaking down some of the most 
 
 📺 Dean Graziosi
 
-👁️ 134K • 👍 4K • 💬 39 • ⏱️ 4:36:55 • 1d ago
-
----
-
-**[Seedance 2 0 + Suno AI = Best for AI Music Videos](https://www.youtube.com/watch?v=ResdqXlwTiE)**
-
-Seedance 2.0 + Suno v5.5 = Awesome AI Music Video Best AI music video maker ✨ https://higgsfield.ai?fpr=utm&fp_sid=mira ...
-
-📺 Mira AI
-
-👁️ 8K • ⏱️ 9:36 • 8h ago
-
----
-
-**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
-
-Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
-
-📺 Carros Show
-
-👁️ 3K • 👍 89 • 💬 27 • ⏱️ 51:48 • 22h ago
-
----
-
-**[TikToker Facing 12 Years Prison for AI Prank](https://www.youtube.com/watch?v=V2Z4aSlkEYQ)**
-
-TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://mat.city/ Get a FREE Sample pack of Gamer ...
-
-📺 Atozy
-
-👁️ 187K • 👍 9K • 💬 1K • ⏱️ 8:40 • 22h ago
-
----
-
-**[The AI Question that No AI Person Asks](https://www.youtube.com/watch?v=o9Vbvp4awQU)**
-
-I don't think I said this quite clearly enough in this video but I have no idea if AI changes the structure of these problems in any ...
-
-📺 vlogbrothers
-
-👁️ 237K • 👍 15K • 💬 2K • ⏱️ 8:43 • 2d ago
+👁️ 135K • 👍 4K • 💬 43 • ⏱️ 4:36:55 • 1d ago
 
 ---
 
@@ -359,17 +317,57 @@ In this video I read the Dumbest Ai responses. This video is just for entertainm
 
 📺 MANDO
 
-👁️ 66K • 👍 6K • 💬 845 • ⏱️ 8:39 • 7h ago
+👁️ 89K • 👍 7K • 💬 933 • ⏱️ 8:39 • 11h ago
 
 ---
 
-**[AI News: The Biggest Leap We&#39;ve Seen This Year!](https://www.youtube.com/watch?v=jsP-eRriC0k)**
+**[TikToker Facing 12 Years Prison for AI Prank](https://www.youtube.com/watch?v=V2Z4aSlkEYQ)**
 
-Here's the AI News you probably missed this week. Warp is the agentic development environment born out of the terminal.
+TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://mat.city/ Get a FREE Sample pack of Gamer ...
 
-📺 Matt Wolfe
+📺 Atozy
 
-👁️ 91K • 👍 3K • 💬 227 • ⏱️ 42:57 • 2d ago
+👁️ 199K • 👍 9K • 💬 1K • ⏱️ 8:40 • 1d ago
+
+---
+
+**[These 4 AI Stocks Could Skyrocket In 19 Days (Don’t Miss It)](https://www.youtube.com/watch?v=KEF3lvBdNtE)**
+
+FREE REPORT: "3 Stocks to Double This Year" ...
+
+📺 WallStreetZen
+
+👁️ 10K • 👍 493 • 💬 104 • ⏱️ 12:41 • 15h ago
+
+---
+
+**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
+
+Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
+
+📺 Carros Show
+
+👁️ 4K • 👍 100 • 💬 29 • ⏱️ 51:48 • 1d ago
+
+---
+
+**[The AI Question that No AI Person Asks](https://www.youtube.com/watch?v=o9Vbvp4awQU)**
+
+I don't think I said this quite clearly enough in this video but I have no idea if AI changes the structure of these problems in any ...
+
+📺 vlogbrothers
+
+👁️ 247K • 👍 16K • 💬 2K • ⏱️ 8:43 • 2d ago
+
+---
+
+**[BREAKING: New AI Robots Just Crossed a TERRIFYING New Line!](https://www.youtube.com/watch?v=DdmBEDuzEcg)**
+
+You won't BELIEVE what humanoid robots just pulled off this week — and it's about to change EVERYTHING you thought you ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 84 • 💬 10 • ⏱️ 16:59 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 123,431 • ❤️ 2,830 • 2d ago
+⬇️ 123,431 • ❤️ 2,871 • 51m ago
 
 ---
 
@@ -397,7 +395,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 376,485 • ❤️ 1,054 • 3d ago
+⬇️ 376,485 • ❤️ 1,065 • 3d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 329,571 • ❤️ 854 • 2d ago
+⬇️ 329,571 • ❤️ 862 • 3d ago
 
 ---
 
@@ -421,7 +419,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 35,807 • ❤️ 839 • 4d ago
+⬇️ 35,807 • ❤️ 857 • 4d ago
 
 ---
 
@@ -433,7 +431,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 45,986 • ❤️ 727 • 2d ago
+⬇️ 45,986 • ❤️ 742 • 50m ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,181,968 • ❤️ 1,427 • 2d ago
+⬇️ 1,181,968 • ❤️ 1,434 • 2d ago
 
 ---
 
@@ -457,7 +455,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 553,179 • ❤️ 428 • 4d ago
+⬇️ 553,179 • ❤️ 431 • 4d ago
 
 ---
 
@@ -469,7 +467,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,574,581 • ❤️ 795 • 6d ago
+⬇️ 1,574,581 • ❤️ 800 • 6d ago
 
 ---
 
@@ -479,7 +477,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `1600.8B`
 
-⬇️ 1,182 • ❤️ 218 • 2d ago
+⬇️ 1,182 • ❤️ 220 • 2d ago
 
 ---
 
@@ -491,7 +489,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 460,832 • ❤️ 455 • 9d ago
+⬇️ 460,832 • ❤️ 461 • 9d ago
 
 ---
 
@@ -547,23 +545,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 78 • 💬 6 • ⭐ 18,731 • 6mo ago
+▲ 78 • 💬 6 • ⭐ 18,811 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 18 • 💬 2 • ⭐ 4,662 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -579,29 +563,29 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 18 • 💬 2 • ⭐ 4,709 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
+
+---
+
 **[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)**
 
 *Yilei Jiang, Jinyuan Hu, Qianyin Xiao et al. (11 authors)*
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 72 • 💬 7 • ⭐ 1,231 • 7d ago
+▲ 73 • 💬 7 • ⭐ 1,231 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
-
----
-
-**[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796)**
-
-*Inclusion AI, Tiwei Bie, Haoxing Chen et al. (18 authors)*
-
-🏢 inclusionAI
-
-LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
-
-▲ 229 • 💬 2 • ⭐ 500 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
 ---
 
@@ -615,6 +599,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 54 • 💬 1 • ⭐ 78,223 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796)**
+
+*Inclusion AI, Tiwei Bie, Haoxing Chen et al. (18 authors)*
+
+🏢 inclusionAI
+
+LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
+
+▲ 229 • 💬 2 • ⭐ 531 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
 ---
 
@@ -640,7 +638,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.8k • 🔱 6.5k • 1h ago
+⭐ 49.8k • 🔱 6.5k • 12m ago
 
 ---
 
@@ -650,7 +648,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 47.1k • 🔱 2.5k • 8d ago
+⭐ 47.2k • 🔱 2.5k • 8d ago
 
 ---
 
@@ -660,7 +658,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 40.0k • 🔱 8.2k • 3h ago
+⭐ 40.0k • 🔱 8.3k • 6h ago
 
 ---
 
@@ -670,7 +668,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 35.5k • 🔱 3.9k • 1d ago
+⭐ 35.6k • 🔱 4.0k • 1d ago
 
 ---
 
@@ -680,7 +678,17 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 10.6k • 🔱 2.4k • 4d ago
+⭐ 10.7k • 🔱 2.4k • 3h ago
+
+---
+
+**[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)**
+
+The headless browser for AI agents and web scraping
+
+`Rust`
+
+⭐ 6.2k • 🔱 365 • 1d ago
 
 ---
 
@@ -691,16 +699,6 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 `Python`
 
 ⭐ 6.1k • 🔱 1.0k • 3d ago
-
----
-
-**[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)**
-
-The headless browser for AI agents and web scraping
-
-`Rust`
-
-⭐ 6.0k • 🔱 348 • 1d ago
 
 ---
 
@@ -720,7 +718,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.8k • 🔱 468 • 18d ago
+⭐ 4.8k • 🔱 467 • 18d ago
 
 ---
 
@@ -730,7 +728,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.6k • 🔱 413 • 6d ago
+⭐ 4.6k • 🔱 416 • 6d ago
 
 ---
 

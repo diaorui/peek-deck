@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T23:40:18.259200+00:00'
+updated: '2026-04-27T02:52:09.911945+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 23:40 UTC  
+**Last Updated:** April 27, 2026 at 02:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich](https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/)**
 
-6h ago
+10h ago
 
 ---
 
@@ -42,25 +42,33 @@ Robotics research and industry news
 
 Robotics as a discipline is already hard enough, but what nobody ever talks about is that all these components need to be certified, not just separately but also as a whole. You need seasoned experts in each subdomain (software, electric, mechanic) that can produce components to the level that will pass OSHA, Regulation 2023/1230 etc etc. This usually requires outside labs for independent validation of safety standards, which can take years especially if humans have to get anywhere close to the device. Both companies I work for have been utterly unaware of this, and are now finding out that "4 months to market" are actually rather "1.5 years to market".
 
-6h ago
+9h ago
 
 ---
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-13h ago
+16h ago
+
+---
+
+**[I tried to build a 5 DOF robot arm](https://www.reddit.com/r/robotics/comments/1swqpml/i_tried_to_build_a_5_dof_robot_arm/)**
+
+So this is a project I built a while ago and put on hold while I plan some upgrades. I just wanted to share it with the community and some things I've learned/experienced along the way. Build details are here: https://www.hackster.io/ian-hong/completely-custom-built-5-axis-robot-arm-515001 Kinematics The frame assignment of the D-H method is quite painful and every resource online has a slightly different (and sometimes ambiguous) explanation, but none was 100% correct. To solve the inverse kinematics analytically, you can decouple the first 3 joints (responsible for position) and the wrist joints (responsible for rotation). Pure position control is not sufficient for smooth motions because each joint moves a different amount. Hardware 3D printed parts are not as accurate as I would have liked. A snug fit in the bearings would sometimes cause the joints to lock up because they rotate slightly eccentrically. The backlash in the servo gears are not to be underestimated. Turning them by hand, they feel solid, but when you have a 100mm+ lever arm to it, you really notice the backlash and it compounds. Sometimes this backlash would cause the arm to oscillate because it can't reach the target position exactly without overcompensating in the opposite direction. Communication This is where I learned about binary protocols (you might remember my article from last week). Anyway, there are more fun features to be implemented (like an actual gripper) and improvements to be made. For all of you who built your own robot arm, what do you use it for and what challenges did you run into?
+
+32m ago
 
 ---
 
 **[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
 
-13h ago
+16h ago
 
 ---
 
 **[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -68,23 +76,7 @@ Robotics as a discipline is already hard enough, but what nobody ever talks abou
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-21h ago
-
----
-
-**[UAV Swarm In Isaac Lab](https://www.reddit.com/r/robotics/comments/1sw3j46/uav_swarm_in_isaac_lab/)**
-
-I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
-
-13h ago
-
----
-
-**[Programed my android 1 to play air hockey](https://www.reddit.com/r/robotics/comments/1svxfjd/programed_my_android_1_to_play_air_hockey/)**
-
-I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
-
-19h ago
+1d ago
 
 ---
 
@@ -92,15 +84,23 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 Hey all, looking for ideas on a multi-camera RGB-D + robot arm setup. Standard CharUco calibration gives me per-camera extrinsics that look fine individually, but when I project both cameras' depth into the shared robot base frame, the point clouds disagree on the same physical surfaces. Enough to break downstream tasks. I've been running a joint optimization on top of CharUco: Frozen intrinsics, optimizing 6-DoF extrinsic + a time offset per camera Loss combines robot silhouette IoU (rendered vs segmented) with cross-camera point cloud agreement on common scene object Nelder-Mead since gradients are messy through the renderer and segmentation How does the community generally approach this Is joint optimization on top of CharUco the standard path, or do people skip CharUco entirely and go straight to scene-based registration / hand-eye-style formulations? Curious what loss structures and validation strategies have worked for others.
 
-1h ago
+4h ago
 
 ---
 
-**[A Robot Rental Platform](https://www.reddit.com/r/robotics/comments/1swczsb/a_robot_rental_platform/)**
+**[UAV Swarm In Isaac Lab](https://www.reddit.com/r/robotics/comments/1sw3j46/uav_swarm_in_isaac_lab/)**
 
-Me and a group of people have been evaluating the need for a robot rental platform, mainly starting off in the UK. We have a survey evaluating whether or not this idea is even worth working on so if you're interested in something like this, even if you're not based in the UK, your answers will be most useful.
+I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
 
-🔗 [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeE3dMuIQSPMduMnwSLAJu2yWQyyqG1GtJXIpZhjG7-r7P-qw/viewform?pli=1) • 6h ago
+16h ago
+
+---
+
+**[Programed my android 1 to play air hockey](https://www.reddit.com/r/robotics/comments/1svxfjd/programed_my_android_1_to_play_air_hockey/)**
+
+I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
+
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ Me and a group of people have been evaluating the need for a robot rental platfo
 
 Software lets robots learn from each other even if they have different hardware.
 
-Ars Technica • 12h ago
+Ars Technica • 15h ago
 
 ---
 
@@ -136,23 +136,7 @@ Business Insider • 1d ago
 
 From a humanoid robot half-marathon in Beijing to the global spotlight of the Beijing Auto Show and the debut of DeepSeek-V4, Chinese technological milestones have dominated international headlines over the past week.
 
-Global Times • 7h ago
-
----
-
-**[A robotics CEO sees a 'moral imperative' to build an army of humanoids](https://www.businessinsider.com/foundation-humanoid-robot-soldier-ukraine-testing-2026-4)**
-
-Foundation sent humanoid robots to Ukraine for a demonstration. CEO Sankaet Pathak said that in 5 to 10 years, they will be able to extract targets.
-
-Business Insider • 15h ago
-
----
-
-**[Melody: Humanoid robot masters 39 degrees of freedom to achieve lifelike presence](https://interestingengineering.com/ai-robotics/humanoid-robot-achieve-lifelike-presence)**
-
-Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
-
-Interesting Engineering • 2d ago
+Global Times • 11h ago
 
 ---
 
@@ -168,15 +152,15 @@ NPR • 2d ago
 
 Photon-driven nanorobots can steer, capture, and move bacteria with precision, enabling controlled manipulation in microscopic environments and offering new tools for microbiology.
 
-SciTechDaily • 12h ago
+SciTechDaily • 15h ago
 
 ---
 
-**[Free science and robotics event draws families at Southern Hills Hospital](https://news3lv.com/news/local/free-science-and-robotics-event-draws-families-at-southern-hills-hospital)**
+**[New AI-Powered Robot Can Destroy Human Champions at Ping Pong](https://futurism.com/robots-and-machines/ai-powered-robot-destroy-table-tennis-pros)**
 
-Kids and families got a close-up look at robotics and emergency response technology Sunday during a free science and robotics event at Southern Hills Hospital a
+Researchers used AI to teach a robot arm how to beat "elite and professional" table tennis players "under official competition rules."
 
-news3lv.com • 22m ago
+Futurism • 13h ago
 
 ---
 
@@ -188,17 +172,29 @@ Yahoo • 1d ago
 
 ---
 
+**[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
+
+Daily Nation • 20h ago
+
+---
+
+**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
+
+Tutor Intelligence in Watertown is a kind of kindergarten for robots.
+
+CBS News • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Compact Odometry Mounting by 1010g TenTon Robotics](https://www.youtube.com/watch?v=6JwRMEXqyvw)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kDgnN0TWcWU)**
 
-Pits & Parts full explanation: https://youtu.be/iKgoQ59ZiSI @1010G_TenTonRobotics Check out our robotics game and FUN ...
+📺 Robot Julie 
 
-📺 FUN Robotics Network
-
-👁️ 2K • 👍 18 • ⏱️ 0:15 • 3h ago
+👁️ 845 • 👍 2 • ⏱️ 0:25 • 2h ago
 
 ---
 
@@ -208,7 +204,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 5K • 👍 184 • 💬 29 • ⏱️ 4:53 • 11h ago
+👁️ 6K • 👍 208 • 💬 30 • ⏱️ 4:53 • 14h ago
 
 ---
 
@@ -218,47 +214,35 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 7K • 👍 277 • 💬 90 • ⏱️ 13:40 • 1d ago
+👁️ 8K • 👍 288 • 💬 90 • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[Low Goal Blocker &amp; Updates | 16610A Snacky Cakes | Robot Rundown](https://www.youtube.com/watch?v=8R9bAQNmU_c)**
+**[Compact Odometry Mounting by 1010g TenTon Robotics](https://www.youtube.com/watch?v=6JwRMEXqyvw)**
 
-Low Goal Blocker & Updates | 16610A Snacky Cakes | Robot Rundown World Finalists 16610A Snacky Cakes details some of ...
+Pits & Parts full explanation: https://youtu.be/iKgoQ59ZiSI @1010G_TenTonRobotics Check out our robotics game and FUN ...
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 124 • 💬 5 • ⏱️ 1:21 • 6h ago
+👁️ 4K • 👍 40 • ⏱️ 0:15 • 6h ago
 
 ---
 
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
+**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
 
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
+eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
 
-📺 ABC News (Australia)
+📺 Stu’s Reviews
 
-👁️ 110K • 👍 659 • ⏱️ 6:44 • 6d ago
-
----
-
-**[Russian soldiers surrender to both aerial drones and ground robots on front line](https://www.youtube.com/watch?v=aLU88wt-BTM)**
-
-Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
-
-📺 Kanal13
-
-👁️ 23K • 👍 412 • 💬 10 • ⏱️ 4:03 • 1d ago
+👁️ 2K • 👍 45 • 💬 7 • ⏱️ 16:11 • 7h ago
 
 ---
 
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+**[🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai](https://www.youtube.com/watch?v=rEB2PwhSlq0)**
 
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+📺 XRoboHub
 
-📺 AI Revolution
-
-👁️ 37K • 👍 841 • 💬 67 • ⏱️ 16:29 • 5d ago
+👁️ 172K • 👍 2K • 💬 200 • ⏱️ 0:30 • 5d ago
 
 ---
 
@@ -268,25 +252,37 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 FUN Robotics Network
 
-👁️ 188 • 👍 10 • 💬 2 • ⏱️ 9:40 • 3h ago
+👁️ 745 • 👍 44 • 💬 9 • ⏱️ 9:40 • 6h ago
 
 ---
 
-**[🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai](https://www.youtube.com/watch?v=rEB2PwhSlq0)**
+**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
 
-📺 XRoboHub
+Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
 
-👁️ 171K • 👍 2K • 💬 199 • ⏱️ 0:30 • 5d ago
+📺 EL PAÍS
+
+👁️ 55K • 👍 45 • 💬 15 • ⏱️ 1:00 • 4d ago
 
 ---
 
-**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
 
-New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
 
-📺 PREDATOR WR
+📺 AI Revolution
 
-👁️ 26K • 👍 703 • 💬 233 • ⏱️ 15:36 • 1d ago
+👁️ 37K • 👍 844 • 💬 68 • ⏱️ 16:29 • 6d ago
+
+---
+
+**[VEX V5 Robotics Competition : Override | 2026-2027 Game](https://www.youtube.com/watch?v=68NxYIAzbkY)**
+
+SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
+
+📺 VEX Robotics
+
+👁️ 129K • 👍 2K • 💬 609 • ⏱️ 5:09 • 2d ago
 
 ---
 
