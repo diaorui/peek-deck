@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-27T21:54:06.345767+00:00'
+updated: '2026-04-27T22:53:33.975535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 21:54 UTC  
+**Last Updated:** April 27, 2026 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.75B
+**Market Cap:** $276.98B
 Rank #2
 
 **Circulating Supply:** 120,688,626 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.6%
 
 **All-Time Low:** $0.43
-+529650.9%
++529886.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-1h ago
+2h ago
 
 ---
 
@@ -88,13 +88,13 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
 
-🔗 [neomist.eth](https://neomist.eth.link) • 10h ago
+🔗 [neomist.eth](https://neomist.eth.link) • 11h ago
 
 ---
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 Been trying to figure out the most cost-effective way to move ETH into USDT. Not talking huge amounts - around 0.4 ETH - but enough that fees actually matter. CEX route is obvious but the math gets annoying. Trading fee on the swap plus withdrawal fee for USDT, and depending on the network you pick for withdrawal that can be another $1–5 on top. Fine for large amounts, starts feeling wasteful under a certain threshold. Tried going through a crypto exchanger this time. Did some research - looked at operating history and reserve size, picked TRC20 on the output side to keep receiving fees low. Had a bad experience before with a newer service that stalled mid-swap so track record was the main filter. Ended up about even with what a CEX would've cost me after all fees, maybe marginally better. The main upside was speed - no withdrawal queue, funds arrived in about 20 minutes. Curious whether others have done this comparison properly. At what size does CEX actually become cheaper than the exchanger route?
 
-13h ago
+14h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 10h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 11h ago
 
 ---
 
@@ -142,7 +142,7 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 3d ago
 
 Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 10h ago
 
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
-PR Newswire • 9h ago
+PR Newswire • 10h ago
 
 ---
 
@@ -186,7 +186,7 @@ PR Newswire • 9h ago
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -194,13 +194,13 @@ CoinDesk • 8h ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 4h ago
+Coinpedia • 5h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -208,13 +208,13 @@ TipRanks • 5h ago
 
 Ether’s price action mirrors that of Bitcoin over the last few hours.Similar to Bitcoin, Ether rallied to the $2,404 level during the late hours of Sunday but failed to take out the resistance level at $2,423.The leading altcoin has been trading sideways over the past few days.With the support leve…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
 **[ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?](https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week/)**
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -230,23 +230,23 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
-
-Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
-
-📺 Paul Barron Network
-
-👁️ 7K • 👍 907 • 💬 74 • ⏱️ 21:33 • 3h ago
-
----
-
 **[🚨 BTC &amp; ETH: EMERGENCY UPDATE!!!!!! (Dont miss this one!)](https://www.youtube.com/watch?v=VB9gykEq9_I)**
 
 Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to pay attention to and what I am doing next!
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 754 • 💬 40 • ⏱️ 11:19 • 7h ago
+👁️ 12K • 👍 1K • 💬 27 • ⏱️ 11:19 • 8h ago
+
+---
+
+**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
+
+Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
+
+📺 Paul Barron Network
+
+👁️ 18K • 👍 1K • 💬 100 • ⏱️ 21:33 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 3K • 💬 723 • ⏱️ 9:47 • 1d ago
+👁️ 45K • 👍 3K • 💬 290 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 504 • 💬 43 • ⏱️ 18:46 • 1d ago
+👁️ 16K • 👍 504 • 💬 28 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -280,13 +280,13 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 ---
 
-**[ETH Ethereum Price Prediction: 27th of April](https://www.youtube.com/watch?v=m9Ty1fLlAzE)**
+**[Ethereum Bank Of Japan Crash Or Short Squeeze Today?](https://www.youtube.com/watch?v=tX0jwzauYEI)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 C-Zar Gets Crypto 
+📺 Trade Confident
 
-👁️ 51 • 👍 7 • 💬 2 • ⏱️ 9:58 • 5h ago
+👁️ 120 • 👍 6 • 💬 3 • ⏱️ 5:53 • 5h ago
 
 ---
 
@@ -296,7 +296,25 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 415 • 👍 22 • 💬 33 • ⏱️ 4:59 • 12h ago
+👁️ 472 • 👍 23 • 💬 3 • ⏱️ 4:59 • 13h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 27th of April](https://www.youtube.com/watch?v=m9Ty1fLlAzE)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 80 • 👍 8 • 💬 2 • ⏱️ 9:58 • 6h ago
+
+---
+
+**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
+
+📺 The Wolf Of All Streets
+
+👁️ 481 • 👍 4 • 💬 16 • ⏱️ 0:41 • 1h ago
 
 ---
 
@@ -306,25 +324,7 @@ Book a FREE 30 min call with us to discuss your needs: ...
 
 📺 The Bitcoin Way
 
-👁️ 102 • 👍 19 • 💬 4 • ⏱️ 3:19 • 3h ago
-
----
-
-**[Only 121 Million ETH, That’s 2 ETH For Every Millionaire on Earth](https://www.youtube.com/watch?v=DBCnU42rLq4)**
-
-📺 DeFi Dad
-
-👁️ 493 • 👍 4 • ⏱️ 1:14 • 5h ago
-
----
-
-**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 228 • 💬 18 • ⏱️ 18:14 • 1d ago
+👁️ 165 • 👍 29 • 💬 4 • ⏱️ 3:19 • 4h ago
 
 ---
 
