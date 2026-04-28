@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-28T13:13:11.311294+00:00'
+updated: '2026-04-28T15:43:55.444842+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 28, 2026 at 13:13 UTC  
+**Last Updated:** April 28, 2026 at 15:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,19 @@ Robotics research and industry news
 
 **[A robot, that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1sxxue2/a_robot_that_picks_up_balls_and_shoots_them_into/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Unitree G1’s self-balancing capabilities](https://www.reddit.com/r/robotics/comments/1sxxbby/unitree_g1s_selfbalancing_capabilities/)**
 
-2h ago
+5h ago
+
+---
+
+**[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
+
+1h ago
 
 ---
 
@@ -56,7 +62,7 @@ We're open-sourcing Asimov v1, a humanoid robot. We're releasing the mechanical 
 
 A quick look at our custom quadruped robot for industrial inspection, built on a modified wheeled-leg platform. Solved: • Stair climbing and uneven terrain stability • Custom sensor payload integration • Real-time data transmission for inspection tasks Open to questions about custom deployments or industrial use cases — feel free to DM.
 
-4h ago
+7h ago
 
 ---
 
@@ -72,7 +78,7 @@ Here is their website OpenEXO. Perhaps it can help you build your first exoskele
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/swROgW2okk8) • 7h ago
+🔗 [youtu.be](https://youtu.be/swROgW2okk8) • 9h ago
 
 ---
 
@@ -80,7 +86,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 First-time IROS submitter here. I'm curious about the typical review timeline. Has anyone already received papers to review, or is it still early? With other conferences I've submitted to, assignments usually came in pretty quickly after the submission deadline. IROS seems to work on a longer timeline (notification isn't until June 16), so I'm wondering if the reviewer assignments follow a similarly delayed schedule. Would love to hear from more experienced IROS authors/reviewers: is it normal to not hear anything on the reviewer side until May?
 
-3h ago
+5h ago
 
 ---
 
@@ -88,7 +94,7 @@ First-time IROS submitter here. I'm curious about the typical review timeline. H
 
 So I came across a screw-drive RC tank recently and it got me thinking… this idea actually isn't new at all. If you go back a bit, like Cold War era, there were already experiments with screw-propelled vehicles. One of the more well-known ones was the Soviet ZIL-2906. That thing was designed to move through really difficult terrain, snow, swamps, places where normal wheels or even tracks struggle. It looked weird, but it had a purpose. The basic idea hasn't really changed. Instead of wheels, you use these large rotating screws, almost like augers, to push the vehicle forward. Not efficient on normal ground, but in soft terrain it actually works better than expected. Fast forward to now and people are building smaller versions again, like RC tanks using the same concept. I saw one recently that used 3D printed screw drums, mirrored so they rotate in opposite directions. Pretty simple setup, but the movement in sand was surprisingly smooth. What's interesting is this feels like one of those designs that never fully failed… it just stayed niche. Every few years it shows up again in a different form. I even went down a bit of a rabbit hole looking at how these are being built now, parts, designs, different variations. Ended up on Alibaba at some point just browsing what components people are sourcing 😅. There's actually more experimentation happening than I expected. Still, same trade-offs as before. Great in sand, mud and snow. Not great on hard surfaces. Kind of inefficient overall. So I'm curious what people here think. Do you see screw-drive systems ever becoming practical beyond niche use cases? Or is this one of those ideas that's always interesting… but never really scales?
 
-9h ago
+11h ago
 
 ---
 
@@ -100,14 +106,6 @@ I’ve been experimenting with biomimetic propulsion using a soft robotic fish a
 
 ---
 
-**[Anyone else has leased a Stella robot?](https://www.reddit.com/r/robotics/comments/1sxt6jo/anyone_else_has_leased_a_stella_robot/)**
-
-I should’ve asked first before getting one which was already shipped by the company. I just assumed that it’s a good fit for my store. Well, I guess I’ll update this post once it gets delivered and be functional. https://stellabots.com?via=deere
-
-6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,7 +114,7 @@ I should’ve asked first before getting one which was already shipped by the co
 
 These robots may in future help clean cabins and operate ground support equipment.
 
-BBC • 3h ago
+BBC • 5h ago
 
 ---
 
@@ -124,7 +122,7 @@ BBC • 3h ago
 
 Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
 
-The Guardian • 9h ago
+The Guardian • 2h ago
 
 ---
 
@@ -132,7 +130,7 @@ The Guardian • 9h ago
 
 Japan Airlines Co. and GMO Internet Group Inc. said Monday they will launch a demonstration experiment using humanoid robots to move passengers' luggage at Tokyo's Haneda airport in May, to verify their potential for achieving labor efficiency in ground handling operations.
 
-english.kyodonews.net • 1d ago
+Japan Wire by Kyodo News • 1d ago
 
 ---
 
@@ -140,7 +138,7 @@ english.kyodonews.net • 1d ago
 
 Humanoid robots join Tokyo airport crews to move baggage, as Japan tests automation to tackle labour shortages through 2028.
 
-Interesting Engineering • 4h ago
+Interesting Engineering • 7h ago
 
 ---
 
@@ -152,23 +150,17 @@ JAL • 1d ago
 
 ---
 
-**[Airport to trial humanoid robots as baggage handlers](https://www.independent.co.uk/bulletin/news/japan-airlines-robots-tokyo-airport-b2966389.html)**
+**[Table tennis robot defeats some of world’s best players – why this has major implications for robotics](https://theconversation.com/table-tennis-robot-defeats-some-of-worlds-best-players-why-this-has-major-implications-for-robotics-281511)**
 
-The Independent • 1h ago
+The robot, called Ace, held its own against elite players of the sport.
 
----
-
-**[Ukraine’s killer robots show how war is changing](https://theconversation.com/ukraines-killer-robots-show-how-war-is-changing-280936)**
-
-The recent capture of a Russian position using ground robots is a milestone for the use of machines in warfare.
-
-The Conversation • 1d ago
+The Conversation • 3h ago
 
 ---
 
 **[Can automation and AI replace workers in the cannabis industry?](https://mjbizdaily.com/news/ai-and-robotics-are-taking-over-the-cannabis-industry-are-they-replacing-jobs/615663/)**
 
-MJBizDaily • 21h ago
+MJBizDaily • 23h ago
 
 ---
 
@@ -184,7 +176,15 @@ National Geographic • 1d ago
 
 Kraken Robotics' Covelya acquisition, at 9.7x 2025E adjusted EBITDA, is seen as accretive, expanding product offerings. See why KRKNF stock is a Buy.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 13h ago
+
+---
+
+**[ABB Robotics launches PoWa cobot family targeting industrial tasks](https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/)**
+
+ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.
+
+The Robot Report • 3d ago
 
 ---
 
@@ -198,17 +198,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 11K • 👍 261 • 💬 34 • ⏱️ 4:53 • 2d ago
-
----
-
-**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
-
-Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
-
-📺 Carros Show
-
-👁️ 7K • 👍 170 • 💬 24 • ⏱️ 51:48 • 2d ago
+👁️ 12K • 👍 266 • 💬 34 • ⏱️ 4:53 • 2d ago
 
 ---
 
@@ -236,7 +226,7 @@ eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/
 
 📺 Stu’s Reviews
 
-👁️ 11K • 👍 107 • 💬 24 • ⏱️ 16:11 • 1d ago
+👁️ 11K • 👍 110 • 💬 25 • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -250,13 +240,13 @@ Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organizati
 
 ---
 
-**[Manni playing CRISIS wrong but getting away with it [War Robots]](https://www.youtube.com/watch?v=_f_piJVWQ2k)**
+**[Should G.I. Robot be feeling physical pain?](https://www.youtube.com/watch?v=jngMdCHLQk4)**
 
-Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon Use code MSF8 to get Deadpool, Gwenpool, ...
+The line between codes and true sentience just got a lil' blurry here. We are looking at G.I. Robot, a machine with no flesh and no ...
 
-📺 Manni-Gaming
+📺 The pool sees
 
-👁️ 7K • 👍 375 • 💬 65 • ⏱️ 12:45 • 1d ago
+👁️ 31K • 💬 5 • ⏱️ 0:10 • 18h ago
 
 ---
 
@@ -264,7 +254,7 @@ Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon U
 
 📺 SpectreX Gaming
 
-👁️ 882K • 👍 28K • 💬 510 • ⏱️ 0:22 • 5d ago
+👁️ 901K • 👍 29K • 💬 520 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -274,17 +264,27 @@ Hawk gets good! One of the biggest upgrades I've seen for the hawk in a long tim
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 359 • 💬 38 • ⏱️ 16:12 • 1d ago
+👁️ 9K • 👍 357 • 💬 38 • ⏱️ 16:12 • 1d ago
 
 ---
 
-**[The One Strategy Video You Need (Vex Robotics 2026 World Finals)](https://www.youtube.com/watch?v=pTolenAb1L4)**
+**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
 
-Joined by both World Champions to talk about the 2026 Worlds Finals matches #override Vex Pushback World Finals #robotics ...
+Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
 
-📺 Luke does robotics
+📺 Carros Show
 
-👁️ 2K • 👍 61 • 💬 17 • ⏱️ 30:32 • 16h ago
+👁️ 7K • 👍 176 • 💬 24 • ⏱️ 51:48 • 2d ago
+
+---
+
+**[Heard some people like wheels？😁](https://www.youtube.com/watch?v=srPz8TRpZ_8)**
+
+Humanoid robots are the ideal form of general-purpose robots (perfect for general AI and human-derived data). They can work ...
+
+📺 Unitree Robotics
+
+👁️ 21.8M • 👍 9K • 💬 2K • ⏱️ 1:15 • 5d ago
 
 ---
 

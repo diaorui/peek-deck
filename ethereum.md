@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T13:13:11.308078+00:00'
+updated: '2026-04-28T15:43:55.442087+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 13:13 UTC  
+**Last Updated:** April 28, 2026 at 15:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,278.72
+### $2,275.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -4.4%  
-**30d:** +12.0%  
-**90d:** -19.6%  
-**1y:** +26.0%  
+**24h:** -0.1%  
+**7d:** -4.2%  
+**30d:** +12.3%  
+**90d:** -19.4%  
+**1y:** +26.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $274.41B
+**Market Cap:** $274.29B
 Rank #2
 
 **Circulating Supply:** 120,688,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.2%
+-54.0%
 
 **All-Time Low:** $0.43
-+522602.0%
++525244.2%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
-
----
-
-**[i mass $50k worth of trades across 4 chains last month. the amount i lost to fragmented liquidity is embarrassing.](https://www.reddit.com/r/ethereum/comments/1sy0hli/i_mass_50k_worth_of_trades_across_4_chains_last/)**
-
-so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
-
-23m ago
+10h ago
 
 ---
 
@@ -88,7 +80,15 @@ so i track my trades pretty carefully and last month i did about $50k total acro
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-16h ago
+18h ago
+
+---
+
+**[i mass $50k worth of trades across 4 chains last month. the amount i lost to fragmented liquidity is embarrassing.](https://www.reddit.com/r/ethereum/comments/1sy0hli/i_mass_50k_worth_of_trades_across_4_chains_last/)**
+
+so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
+
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -162,7 +162,23 @@ CoinDesk • 23h ago
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
+
+---
+
+**[Ten years after Ethereum’s DAO disaster, it’s time to try again](https://fortune.com/2026/04/28/ten-years-after-ethereums-dao-disaster-its-time-to-try-again/)**
+
+In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
+
+Fortune • 2h ago
+
+---
+
+**[Current price of Ethereum for April 28, 2026](https://fortune.com/article/price-of-ethereum-04-28-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
 
 ---
 
@@ -170,7 +186,7 @@ Decrypt • 22h ago
 
 Bitcoin opened at $77,368.28 on Tuesday. The value of bitcoin at 7:10 a.m. ET fell even further to $76,472.05.  Ethereum opened at $2,303.33 on Tuesday. The value of ethereum continued falling as of 7:10 a.m. ET, moving down to $2,278.56.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -179,14 +195,6 @@ Yahoo Finance • 1h ago
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
 PR Newswire • 1d ago
-
----
-
-**[Ten years after Ethereum’s DAO disaster, it’s time to try again](https://fortune.com/2026/04/28/ten-years-after-ethereums-dao-disaster-its-time-to-try-again/)**
-
-In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
-
-Fortune • 13m ago
 
 ---
 
@@ -202,13 +210,13 @@ The Motley Fool • 2d ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 19h ago
+Coinpedia • 22h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 21h ago
+TipRanks • 23h ago
 
 ---
 
@@ -220,25 +228,17 @@ TradingView • 1d ago
 
 ---
 
-**[Bitmine stakes $214M in ETH, holds 9.5% of all staked Ethereum](https://cryptobriefing.com/bitmine-stakes-214m-in-eth-holds-95-of-all-staked-ethereum/)**
-
-Bitmine staked $214M in ETH, holding 9.5% of all staked Ethereum. Ethereum above $4,000 by April 25 at 99.9% YES.
-
-Crypto Briefing • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: EMERGENCY UPDATE!!!!!! (Dont miss this one!)](https://www.youtube.com/watch?v=VB9gykEq9_I)**
+**[🚨 My Next Trades on BTC, ETH and ARB: Full Breakdown](https://www.youtube.com/watch?v=yKphb8S0Tpw)**
 
-Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to pay attention to and what I am doing next!
+The stock market is pushing to new all time highs and Nvidia just followed. But Bitcoin is still stuck around $78000. So what is the ...
 
-📺 Thomas Kralow
+📺 Chart Champions
 
-👁️ 16K • 👍 831 • 💬 30 • ⏱️ 11:19 • 22h ago
+👁️ 3K • 👍 238 • 💬 12 • ⏱️ 19:30 • 3h ago
 
 ---
 
@@ -248,7 +248,17 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 115 • ⏱️ 21:33 • 18h ago
+👁️ 47K • 👍 2K • 💬 119 • ⏱️ 21:33 • 21h ago
+
+---
+
+**[North Korea Infiltrated Ethereum And Stole Millions!](https://www.youtube.com/watch?v=-7dDRdvkx9g)**
+
+Millions were drained in minutes. North Korean state operatives weren't just hacking — they were working *inside* top crypto ...
+
+📺 Coin Bureau
+
+👁️ 2K • 👍 141 • 💬 35 • ⏱️ 15:37 • 1h ago
 
 ---
 
@@ -258,7 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 533 • 💬 33 • ⏱️ 18:46 • 1d ago
+👁️ 18K • 👍 545 • 💬 34 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -268,17 +278,27 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 291 • ⏱️ 9:47 • 1d ago
+👁️ 47K • 👍 3K • 💬 292 • ⏱️ 9:47 • 1d ago
 
 ---
 
-**[Why Bitcoin&#39;s Next 10 Weeks Decide The Cycle!](https://www.youtube.com/watch?v=H4wnliFMufc)**
+**[🚨 BTC &amp; ETH: EMERGENCY UPDATE!!!!!! (Dont miss this one!)](https://www.youtube.com/watch?v=VB9gykEq9_I)**
 
-Bitcoin #Crypto #Finance Bitcoin buying has hit overdrive! ETFs, funds, and businesses now hold over 14% of the total supply, ...
+Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to pay attention to and what I am doing next!
 
-📺 The Wolf Of All Streets
+📺 Thomas Kralow
 
-👁️ 598 • 👍 53 • 1h ago
+👁️ 17K • 👍 1K • 💬 30 • ⏱️ 11:19 • 1d ago
+
+---
+
+**[BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6nWtaK6gIYc)**
+
+BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 791 • 👍 77 • 💬 153 • ⏱️ 15:42 • 1h ago
 
 ---
 
@@ -288,45 +308,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 103 • 👍 4 • ⏱️ 4:13 • 7h ago
+👁️ 144 • 👍 5 • ⏱️ 4:13 • 9h ago
 
 ---
 
-**[BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Jk6VtzTQhAc)**
-
-BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 270 • 💬 205 • ⏱️ 18:01 • 14h ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 15K • 👍 633 • 💬 64 • ⏱️ 9:47 • 2d ago
-
----
-
-**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
-
-📺 The Wolf Of All Streets
-
-👁️ 2K • 👍 31 • 💬 19 • ⏱️ 0:41 • 16h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=1_3eT3yiJYI)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=WL7nQnPtB5U)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 86 • 💬 2 • ⏱️ 6:28 • 10h ago
+👁️ 331 • 👍 61 • ⏱️ 6:38 • 2h ago
+
+---
+
+**[Kaspa vs Bitcoin vs Ethereum! The BlockDAG Advantage Nobody Is Pricing In](https://www.youtube.com/watch?v=avcL_1ey6-w)**
+
+Tangem 20% off + UP TO $10 USD in Bitcoin ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
+
+📺 Your Crypto Crew
+
+👁️ 104 • 👍 24 • 💬 2 • ⏱️ 10:20 • 1h ago
 
 ---
 
