@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-28T17:47:40.727685+00:00'
+updated: '2026-04-28T19:42:50.040647+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 28, 2026 at 17:47 UTC  
+**Last Updated:** April 28, 2026 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,13 @@ Robotics research and industry news
 
 **[A robot, that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1sxxue2/a_robot_that_picks_up_balls_and_shoots_them_into/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Unitree G1’s self-balancing capabilities](https://www.reddit.com/r/robotics/comments/1sxxbby/unitree_g1s_selfbalancing_capabilities/)**
 
-7h ago
-
----
-
-**[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
-
-3h ago
+9h ago
 
 ---
 
@@ -54,7 +48,21 @@ Robotics research and industry news
 
 github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based motion imitation learning research benchmark specifically designed for biomechanically accurate muscle-actuated models. It focuses on advancing research in muscle-driven locomotion and manipulation through high-performance neural policy training.
 
-39m ago
+2h ago
+
+---
+
+**[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
+
+5h ago
+
+---
+
+**[Built a KUKA palletizing code generator — generates .SRC/.DAT files from a layout config](https://www.reddit.com/r/robotics/comments/1syblz0/built_a_kuka_palletizing_code_generator_generates/)**
+
+Been writing KUKA palletizing programs manually for a while and got tired of recalculating positions every time a product or pallet pattern changed. Built a web tool that takes your layout inputs, shows a 3D preview, and outputs production-ready KRL files for the KRC4. Free sample available if you want to test the code on your robot before buying — path2.io
+
+🔗 [youtube.com](http://www.youtube.com/watch?v=Ho2iKJ4GJ7Q) • 12m ago
 
 ---
 
@@ -62,7 +70,7 @@ github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based mot
 
 A quick look at our custom quadruped robot for industrial inspection, built on a modified wheeled-leg platform. Solved: • Stair climbing and uneven terrain stability • Custom sensor payload integration • Real-time data transmission for inspection tasks Open to questions about custom deployments or industrial use cases — feel free to DM.
 
-9h ago
+11h ago
 
 ---
 
@@ -78,7 +86,7 @@ We're open-sourcing Asimov v1, a humanoid robot. We're releasing the mechanical 
 
 Shipping is becoming another real-world environment where robotics has to operate outside controlled conditions. Hull inspections that used to require divers are now being handled by autonomous and remotely operated systems using cameras, sonar, and ultrasonic sensing. These robots are working in low visibility, dealing with currents, corrosion, and limited connectivity. There’s also work happening around combining multiple systems. Underwater vehicles, aerial drones, and surface robots coordinating on inspection tasks. It starts to look closer to multi-robot systems than single-purpose machines.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/maritime-automation) • 31m ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/maritime-automation) • 2h ago
 
 ---
 
@@ -94,15 +102,7 @@ Here is their website OpenEXO. Perhaps it can help you build your first exoskele
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/swROgW2okk8) • 11h ago
-
----
-
-**[IROS 2026: When do reviewer assignments typically go out?](https://www.reddit.com/r/robotics/comments/1sxwto9/iros_2026_when_do_reviewer_assignments_typically/)**
-
-First-time IROS submitter here. I'm curious about the typical review timeline. Has anyone already received papers to review, or is it still early? With other conferences I've submitted to, assignments usually came in pretty quickly after the submission deadline. IROS seems to work on a longer timeline (notification isn't until June 16), so I'm wondering if the reviewer assignments follow a similarly delayed schedule. Would love to hear from more experienced IROS authors/reviewers: is it normal to not hear anything on the reviewer side until May?
-
-7h ago
+🔗 [youtu.be](https://youtu.be/swROgW2okk8) • 13h ago
 
 ---
 
@@ -114,7 +114,15 @@ First-time IROS submitter here. I'm curious about the typical review timeline. H
 
 These robots may in future help clean cabins and operate ground support equipment.
 
-BBC • 7h ago
+BBC • 9h ago
+
+---
+
+**[Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage](https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/)**
+
+Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.
+
+Ars Technica • 1h ago
 
 ---
 
@@ -122,7 +130,7 @@ BBC • 7h ago
 
 Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
 
-The Guardian • 4h ago
+The Guardian • 3h ago
 
 ---
 
@@ -134,14 +142,6 @@ Japan Wire by Kyodo News • 1d ago
 
 ---
 
-**[Humanoid robot begins work at Japanese airport to tackle labor crisis](https://interestingengineering.com/ai-robotics/japan-humanoid-robots-haneda-airport)**
-
-Humanoid robots join Tokyo airport crews to move baggage, as Japan tests automation to tackle labour shortages through 2028.
-
-Interesting Engineering • 9h ago
-
----
-
 **[Japan's First Demonstration Experiment for Utilizing Humanoid Robots at Airports Begins](https://press.jal.co.jp/en/release/202604/009502.html)**
 
 This is JAL's (Japan Airlines) Press Release information Website. you can view corporate information, safety/flight Information, and CSR Information,etc.
@@ -150,11 +150,11 @@ JAL • 1d ago
 
 ---
 
-**[Ukraine’s killer robots show how war is changing](https://theconversation.com/ukraines-killer-robots-show-how-war-is-changing-280936)**
+**[Table tennis robot defeats some of world’s best players – why this has major implications for robotics](https://theconversation.com/table-tennis-robot-defeats-some-of-worlds-best-players-why-this-has-major-implications-for-robotics-281511)**
 
-The recent capture of a Russian position using ground robots is a milestone for the use of machines in warfare.
+The robot, called Ace, held its own against elite players of the sport.
 
-The Conversation • 1d ago
+The Conversation • 7h ago
 
 ---
 
@@ -164,11 +164,19 @@ MJBizDaily • 1d ago
 
 ---
 
+**[Naperville robotics teams qualify for world championships](https://www.nctv17.org/news/naperville-robotics-teams-qualify-for-world-championships/)**
+
+Several Naperville robotics teams are headed around the country to VEX Robotics and FIRST world championships.
+
+NCTV17 • 22h ago
+
+---
+
 **[Kraken Robotics: Tailwinds Are Too Strong To Ignore (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4894785-kraken-robotics-stock-tailwinds-are-too-strong-to-ignore)**
 
 Kraken Robotics' Covelya acquisition, at 9.7x 2025E adjusted EBITDA, is seen as accretive, expanding product offerings. See why KRKNF stock is a Buy.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -177,12 +185,6 @@ Seeking Alpha • 15h ago
 Inside the enduring appeal of machines that look, move, and increasingly think like humans.
 
 National Geographic • 1d ago
-
----
-
-**[Chinese robotics company relocates US HQ from California to Texas](https://www.bizjournals.com/dallas/news/2026/04/27/chinese-robotics-co-relocates-u-s-hq-to-dallas.html)**
-
-The Business Journals • 22h ago
 
 ---
 
@@ -206,7 +208,7 @@ override Vex override competition game rules R23 R22 sg9 SG10 R26 R11 Sg2 SC8 #r
 
 📺 Luke does robotics
 
-👁️ 6K • 👍 247 • 💬 72 • ⏱️ 18:18 • 16h ago
+👁️ 6K • 👍 247 • 💬 72 • ⏱️ 18:18 • 18h ago
 
 ---
 
@@ -226,7 +228,7 @@ eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/
 
 📺 Stu’s Reviews
 
-👁️ 12K • 👍 112 • 💬 26 • ⏱️ 16:11 • 1d ago
+👁️ 12K • 👍 112 • 💬 26 • ⏱️ 16:11 • 2d ago
 
 ---
 

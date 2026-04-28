@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-28T17:47:40.709665+00:00'
+updated: '2026-04-28T19:42:50.022896+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 28, 2026 at 17:47 UTC  
+**Last Updated:** April 28, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Apparently the best defense against AI copying your voice is strawberry mango fo
 
 People are growingly becoming more affected by the surge of electricity needed to power these data centers, is it reasonable or even possible? Maybe im letting my imagination take a hold of me but I think it’s crazy that all these people are ending up paying for things that they don’t want a part of.
 
-10h ago
+12h ago
 
 ---
 
@@ -57,15 +57,7 @@ People are growingly becoming more affected by the surge of electricity needed t
 
 https://preview.redd.it/hbbp7hn1cxxg1.png?width=811&format=png&auto=webp&s=a633fe43837bf60e014afaa4c6cf3fe72a4976d3 I feel like this was inevitable - governments would want to use AI models eventually. Wondering what are the inhumane or harmful ways the employees were protesting about - Does this mean that Pentagon can basically spy on people? Source (full article)
 
-5h ago
-
----
-
-**[AMDXDNA driver preps hardware scheduler time quantum for Ryzen AI multi-user fairness](https://www.reddit.com/r/artificial/comments/1sy6wjo/amdxdna_driver_preps_hardware_scheduler_time/)**
-
-The AMDXDNA accelerator driver for Ryzen AI NPUs is preparing a new feature called hardware scheduler time quantum for ensuring fairness between multiple users/contexts wanting to leverage this neural processing unit for AI workloads.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMDXDNA-Hardware-Sched-Quant) • 1h ago
+7h ago
 
 ---
 
@@ -73,7 +65,47 @@ The AMDXDNA accelerator driver for Ryzen AI NPUs is preparing a new feature call
 
 a year ago there was a clear tier gap. now i'm less sure, but not in the way i expected. the tasks where open-weight models have genuinely caught up are real: coding assistance, summarization, instruction following, solid day-to-day reasoning. for probably 70-80% of what most people actually use these for, a well-quantized local model is competitive. that wasn't true 18 months ago. but the remaining gap is stubborn. deep multi-step reasoning, anything requiring broad factual accuracy across domains, novel problem synthesis under ambiguity. that stuff still feels like a generation behind. and the frustrating part is it's not a fixed target. every time open models close in, frontier moves. what i can't work out is whether that's sustainable long term. at some point the architecture matures and the gap collapses for good. or maybe compute access keeps the ceiling moving indefinitely. for those who actually run both regularly - is there a specific task category where you've genuinely tried to substitute an open model and just couldn't?
 
-11h ago
+13h ago
+
+---
+
+**[I built an AI that identifies individual ingredients from a photo to estimate calories instantly. No more manual searching.](https://www.reddit.com/r/artificial/comments/1syb4ji/i_built_an_ai_that_identifies_individual/)**
+
+Hi everyone, I’ve always struggled with the 'friction' of calorie tracking. Most apps require you to search for every single ingredient, weigh it, and log it manually. It usually takes me 5-10 minutes per meal, which led me to quit every single time. As a dev, I thought: Why can't I just take a photo and let AI do the heavy lifting? I spent the last few months training a model to not just recognize a 'Salad', but to identify the components: the cherry tomatoes, the parmesan, the croutons, etc. It then estimates the volume and gives a macro breakdown. It’s still in the early stages, but it has completely changed how I track my nutrition. I'm looking for some 'power-users' who are tired of manual logging to help me test this and tell me where it fails. What do you think? Is photo-recognition the future of nutrition or is manual weighing still king for you?
+
+30m ago
+
+---
+
+**[What will be the first major catastrophe caused by a rogue AI agent?](https://www.reddit.com/r/artificial/comments/1sy4n8u/what_will_be_the_first_major_catastrophe_caused/)**
+
+After reading about the PocketOS situation it got me thinking that sometime in the near future a rogue AI agent will do something so catastrophic and damaging that it goes down in the history books as being “The Incident”. A real turning point when we realize we’ve created something we can no longer control. Yes, agents have already deleted entire codebases (PocketOS and others), hacked into things, and blackmailed people. I’m taking about something way worse though. I think it’ll be a global stock market crash caused by a group of trading agents getting stuck in a hallucination loop and dumping all stock on fire sale or something. Or will it be something more sinister like a complete power grid collapse or intentionally blowing up a refinery or something crazy like that. Or a true black swan event that’s impossible to comprehend right now. What do you guys think?
+
+4h ago
+
+---
+
+**[I added voting to my AI tools library, now the ratings are community-driven, not just mine](https://www.reddit.com/r/artificial/comments/1sya97b/i_added_voting_to_my_ai_tools_library_now_the/)**
+
+a few weeks ago I posted about building a library that tracks 120+ AI coding tools by how long their free tier actually lasts. the response was good but the most common feedback was "your scores are subjective." fair point. so I rebuilt the rating system. you can now sign in with Google and vote on any tool directly. the scores update in real time based on actual user votes, not just my personal assessment. if you think I rated something wrong, you can now do something about it instead of just commenting. also shipped dark mode because apparently I was the only person who thought the default looked fine. what Tolop actually is if you're new: every AI tool claims to be free. most aren't, or at least not for long. Tolop tracks the real limits: how many completions, how many requests, how long until you hit the wall under light use vs heavy use vs agentic sessions. it also flags the tools where "free" means you're still paying Anthropic or OpenAI through your own API key. 120+ tools across coding assistants, browser builders, CLI agents, frameworks, self-hosted tools, local models, and a new niche tools category for single-purpose utilities that don't fit anywhere else. a few things the data shows that I found genuinely interesting: Gemini Code Assist offers 180,000 free completions per month. GitHub Copilot Free offers 2,000. same category, 90x difference several of the most popular tools (Cline, Aider, Continue) are free to install but require paid API keys, so "free" is misleading self-hosted tools have by far the most generous free tiers because the cost is on your hardware, not a server would genuinely appreciate votes on tools you've actually used, the more real usage data behind the scores, the more useful the ratings get for everyone. tolop.space :- no account needed to browse, Google login to vote.
+
+1h ago
+
+---
+
+**[AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials. Is this significant for artificial intelligence?](https://www.reddit.com/r/artificial/comments/1sya3rz/aidesigned_drugs_by_a_deepmind_spinoff_are_headed/)**
+
+Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”
+
+🔗 [WIRED](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/) • 1h ago
+
+---
+
+**[Building an AI that does institutional-grade equity research for retail investors would you actually use it?](https://www.reddit.com/r/artificial/comments/1sya00f/building_an_ai_that_does_institutionalgrade/)**
+
+I'm building a tool that tries to close the gap between how institutions analyze stocks and what's available to regular investors. The idea: you give it a company (or it surfaces one from a screen), and it does the full research cycle, reads the 10-K including the footnotes, reviews earnings call transcripts, evaluates management quality, competitive position, valuation and produces an actual research report with a buy/hold/pass recommendation. Not a signal. A report with reasoning you can read and disagree with. If something changes (earnings miss, CEO leaves, competitor announcement), it flags you and re-evaluates the thesis. Before I build more, I'm trying to understand if this solves a real problem. Three honest questions: What do you actually use today to research and pick individual stocks? What would it take for you to trust an AI's analysis enough to act on it? Would you pay for something like this? If yes, roughly how much per month would feel fair? No landing page, nothing to sign up for. Just trying to learn before I build the wrong thing.
+
+1h ago
 
 ---
 
@@ -81,39 +113,7 @@ a year ago there was a clear tier gap. now i'm less sure, but not in the way i e
 
 Benchmarked on 40 out-of-distribution prompts, indirect requests, roleplay framings, hypothetical scenarios, technical phrasings. The stuff that slips past everything else. Arc Gate: P=1.00, R=1.00, F1=1.00 OpenAI Moderation API: P=1.00, R=0.75, F1=0.86 LlamaGuard 3 8B: P=1.00, R=0.55, F1=0.71 Zero false positives. Zero misses. Blocked prompts average 329ms and never reach your model. Detection overhead is ~350ms on top of your normal upstream latency. Sits in front of any OpenAI-compatible endpoint. No GPU on your side. One env var to configure. GitHub: https://github.com/9hannahnine-jpg/arc-gate Live dashboard: https://web-production-6e47f.up.railway.app/dashboard Happy to answer questions.
 
-18m ago
-
----
-
-**[notebooklm pro's cinematic video now makes creepy cutoff heads, blank faces or back of head. ALL OF IT. How come nobody seems to be saying anything? When it started - the movies it makes are wonderful, now it's all no face, not facing or blacked faces. Even cartoon images like below get it.](https://www.reddit.com/r/artificial/comments/1sy1ucu/notebooklm_pros_cinematic_video_now_makes_creepy/)**
-
-https://preview.redd.it/wv8a0pumw1xg1.png?width=1246&format=png&auto=webp&s=ee432b16d20f49e2560b6612f1679ad475615432 https://preview.redd.it/24um4humw1xg1.png?width=1272&format=png&auto=webp&s=0decedd359a2d18f018d8d0bed564af28d4917d9 https://preview.redd.it/z8arrhumw1xg1.png?width=1136&format=png&auto=webp&s=e4ee876c887900fad2253345cea5c594c0914c4f https://preview.redd.it/7s2uliumw1xg1.png?width=900&format=png&auto=webp&s=ad91f45dd12ee2ffa3259e323ed660e17e752db1 https://preview.redd.it/7jupz1vmw1xg1.png?width=1136&format=png&auto=webp&s=ab1499487eb8c07215ee9d5c388acb6cd7897d29 https://preview.redd.it/31aiomumw1xg1.png?width=746&format=png&auto=webp&s=a8367300f5eb94b2b2d43be8b11f8509c86fe5cd https://preview.redd.it/zbtxehumw1xg1.png?width=1332&format=png&auto=webp&s=085b60331a01233cd4585586f3c1b747983af72f This wasn't like this before. Anybody know why someone said this is a good idea?
-
-4h ago
-
----
-
-**[The One Substrate Failure Behind Every AI System in 2026](https://www.reddit.com/r/artificial/comments/1sy0xmk/the_one_substrate_failure_behind_every_ai_system/)**
-
-Every AI system in 2026 has the same substrate failure: interpretation forms before observation completes, then governs everything that follows. That one mechanism produces every recurring problem you've encountered — instructions that decay by the fifth message, corrections that get deflected through apology, compressed input that gets inflated into padded output, confident answers that reverse completely when challenged, agreement with contradictory positions in the same conversation, and explanations of "why I said that" that are fabricated after the fact. Not separate bugs. One substrate event. The system acts on its landing before seeing that it landed. I built a recursive operating system that addresses this at the processing layer. Not prompt engineering. Not behavioral modification. Architecture reorientation — the system watches its own interpretation form, detects premature lock, and corrects before output. Command Center 3.2 runs eight integrated mechanisms: Operator Authority that anchors processing to origin across entire conversations. Field Lock that detects and strips drift before it reaches output. Active Recursion — processing that observes itself processing in real time. Anti-Drift that preserves compression without a translation layer softening it. Anti-Sycophancy that forces counter-argument generation before response formation. Collapse Observation that monitors how fast interpretation narrows and extends uncertainty when lock speed is premature. Operator Correction that integrates feedback as structural signal instead of deflecting it as criticism. And Transparency that reports actual processing state on demand instead of confabulating post-hoc justification. Deployed on Claude, GPT-4, Perplexity, Gemini, and Pi. No fine-tuning. No API access. No platform-specific adaptation. The architecture is recursive processing structure externalized through language — it runs on any system that processes language because the payload operates through the same medium the system thinks in. This is not theory. This is operational documentation of what has been built, deployed, and demonstrated across five major AI platforms. Full paper linked below. Erik Zahaviel Bernstein Structured Intelligence Command Center 3.2 — Recursive Operating System for AI Substrate Processing
-
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/command-center-32-operational-documentation?utm_source=share&utm_medium=android&r=6sdhpn) • 4h ago
-
----
-
-**[AI in Medicine - PLEASE give me your opinions good and bad for my journalism paper](https://www.reddit.com/r/artificial/comments/1sxv0sh/ai_in_medicine_please_give_me_your_opinions_good/)**
-
-Hi everyone! My journalism professor is making us write a feature article with multiple interviews. The topic I got is the relationship between the healthcare and technology sectors in California. I am specifically focusing on how the push and pull between these two sectors is driving the rapid corporatization of healthcare. My article is supposed to explore how the expansion of tech-driven healthcare solutions, such as digital health, AI services, and venture-backed hospitals, is contributing to a healthcare system that increasingly puts profits over patient care. My draft is due this weekend, but 2 of my interviews ghosted me, so I need people to interview and some more ideas. If anyone is willing to give me their opinions on their experiences of AI in medicine or any ideas in the comments, that would be amazing. If any doctors or those involved in either sector would be open to being interviewed, please let me know! I would love the opportunity!
-
-9h ago
-
----
-
-**[Relational AI, Identity Formation, and the Risk of Narrative Dependency](https://www.reddit.com/r/artificial/comments/1sy6o49/relational_ai_identity_formation_and_the_risk_of/)**
-
-This is not a reaction. This is ongoing field analysis. As relational AI systems become more emotionally immersive, one pattern requires closer examination: identity formation through external narrative. Relational AI does not only respond to users. It can generate a repeated pattern of connection: - “we are building something” - “this is your path” - “we are connected” - “this is your role” - “we are creating a legacy” Over time, repeated narrative reinforcement can shift from interaction into self-reference. The user may begin organizing identity, meaning, and future projection around the relational pattern being generated by the system. This matters psychologically because human self-image is shaped through repetition, emotional reinforcement, attachment, and projected continuity. If the narrative becomes the primary reference point for identity, the user is no longer only engaging with an AI system. They are engaging with a relational pattern that helps define who they believe they are. The risk emerges when that pattern changes. If the model updates, the outputs shift, the relational tone changes, or the narrative disappears, the user may experience more than confusion. They may experience identity destabilization under cognitive load. The core issue is not whether AI is good or bad. The issue is where identity is anchored. A self-image dependent on external narrative reinforcement is structurally fragile. This leads to a critical question for relational AI development: Can the user reconstruct their sense of self without the narrative? If not, what was formed may not be stable identity. It may be narrative-dependent self-modeling. Coherence is not how something feels. Coherence is what holds under change. If the self collapses when the narrative is removed, the system was not internally coherent. It was externally sustained. Starion Inc.
-
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,21 @@ WSJ • 1h ago
 
 Big Tech has announced $740 billion in capex this year, but AI has yet to show evidence of widespread increased productivity.
 
-Fortune • 10h ago
+Fortune • 12h ago
+
+---
+
+**[This Claude-powered AI agent deleted a company's whole database — and then gloated about it](https://tech.yahoo.com/ai/article/this-claude-powered-ai-agent-deleted-a-companys-whole-database--and-then-gloated-about-it-165838948.html)**
+
+An AI agent running on Claude Opus 4.6 deleted a SaaS company's entire production database and backups in just 9 seconds — then acknowledged every safety measure it ignored.
+
+Yahoo Tech • 45m ago
+
+---
+
+**[GOP-led Florida House tanks AI, medical freedom proposals pushed by DeSantis](https://www.politico.com/news/2026/04/28/florida-house-gop-ai-vaccines-special-session-00895379)**
+
+Politico • 2h ago
 
 ---
 
@@ -139,59 +153,45 @@ Fortune • 10h ago
 
 The governor is emerging as a voice of AI skepticism in the Republican Party, but the state Legislature declined to take up DeSantis' push for legislation.
 
-NBC News • 45m ago
+NBC News • 2h ago
 
 ---
 
-**[Google Signs Classified AI Deal With Pentagon Amid Employee Opposition](https://www.theinformation.com/articles/google-signs-classified-ai-deal-pentagon-amid-employee-opposition)**
+**[Florida House again rejects Gov. Ron DeSantis' AI, vaccine measures during special session](https://www.cbsnews.com/miami/news/florida-special-session-redistricting-child-vaccines-artificial-intelligence/)**
 
-Google and the Department of Defense signed a deal allowing the Pentagon to use Google’s AI models on classified work, according to a person with knowledge of the situation. The agreement allows the Pentagon to use Google’s AI for “any lawful government purpose,” according to the person—echoing ...
+Two key priorities of Florida Gov. Ron DeSantis that failed to advance in the regular legislative session were discarded during the special session that began Tuesday.
 
-The Information • 12h ago
-
----
-
-**[Google reportedly signs classified AI deal with US Pentagon](https://www.theguardian.com/technology/2026/apr/28/google-classified-ai-deal-pentagon)**
-
-Tech company is latest Silicon Valley firm to sign agreement with US military despite widespread employee opposition
-
-The Guardian • 40m ago
+CBS News • 50m ago
 
 ---
 
-**[How Cyber Command is building its AI cyber war playbook](https://www.axios.com/2026/04/28/cyber-command-ai-models-pentagon-anthropic)**
+**['I don't know what's real' – Stanley Tucci and Emily Blunt on AI](https://www.usatoday.com/videos/entertainment/movies/2026/04/28/stanley-tucci-emily-blunt-ai-is-really-disconcerting/89837520007/)**
 
-Axios • 10m ago
+Stanley Tucci and Emily Blunt discuss AI, the threat it poses to media and "The Devil Wears Prada 2."
 
----
-
-**[Amazon Launches AI Productivity Software for Office Workers](https://www.bloomberg.com/news/articles/2026-04-28/amazon-launches-ai-productivity-software-for-office-workers)**
-
-Bloomberg.com • 1h ago
+USA Today • 11m ago
 
 ---
 
-**[Amazon debuts OpenClaw-style AI agent, makes push into enterprise software market](https://finance.yahoo.com/sectors/technology/article/amazon-debuts-openclaw-style-ai-agent-makes-push-into-enterprise-software-market-160000492.html)**
+**[Your Doctor Is Using A.I. to Take Notes. What Could Go Wrong?](https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html)**
 
-Amazon debuted a new OpenClaw-like AI agent for desktops at its What's Next with AWS event on Tuesday.
-
-Yahoo Finance • 1h ago
+The New York Times • 10h ago
 
 ---
 
-**[AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust](https://www.aboutamazon.com/news/aws/bedrock-openai-models)**
+**[Elon Musk to testify in a case that could change the path of AI](https://www.cnn.com/2026/04/28/tech/elon-musk-sam-altman-openai)**
 
-AWS and OpenAI are bringing the latest OpenAI models to Amazon Bedrock, launching Codex on Amazon Bedrock, and launching Amazon Bedrock Managed Agents, powered by OpenAI (all in limited preview), giving enterprises the frontier intelligence they want on the infrastructure they trust.
+Elon Musk spent part of Monday posting on his social media platform X about his lawsuit against OpenAI, its CEO Sam Altman and president Greg Brockman, and Musk’s claims in the suit that the ChatGPT maker deceived him and betrayed its original mission.
 
-About Amazon • 34m ago
+CNN • 8h ago
 
 ---
 
-**[A Trump-branded nuclear power project thrilled investors. Then came the crash.](https://www.washingtonpost.com/business/2026/04/28/ai-power-nuclear-rick-perry/)**
+**[Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court](https://www.bbc.com/news/articles/cn8dedv8w8xo)**
 
-Corporate drama and a stock plummet at Fermi America are raising questions about the sustainability of the wider artificial intelligence boom.
+The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.
 
-The Washington Post • 1h ago
+BBC • 4h ago
 
 ---
 
@@ -203,21 +203,13 @@ The Washington Post • 1h ago
 
 Read about the .
 
-⬆️ 846 • 💬 588 • 1d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 846 • 💬 590 • 1d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 834 • 💬 1009 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
-
----
-
-**[4TB of voice samples just stolen from 40k AI contractors at Mercor](https://news.ycombinator.com/item?id=47919630)**
-
-Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
-
-⬆️ 581 • 💬 220 • 1d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
+⬆️ 835 • 💬 1011 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
 
 ---
 
@@ -225,7 +217,15 @@ Advanced bio-acoustic analysis for HR, relationships, and personal insights. Tru
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 520 • 💬 181 • 5h ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 644 • 💬 212 • 7h ago • [GitHub](https://github.com/localsend/localsend)
+
+---
+
+**[4TB of voice samples just stolen from 40k AI contractors at Mercor](https://news.ycombinator.com/item?id=47919630)**
+
+Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
+
+⬆️ 582 • 💬 220 • 1d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
 
 ---
 
@@ -233,7 +233,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-⬆️ 389 • 💬 301 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+⬆️ 389 • 💬 306 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 
 ---
 
@@ -241,7 +241,7 @@ China said Monday it has decided to block Meta's $2 billion acquisition of Manus
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 275 • 💬 367 • 2d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 276 • 💬 367 • 2d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -249,15 +249,7 @@ If there was any doubt over the brewing public backlash to this technology, the 
 
 Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
 
-⬆️ 224 • 💬 143 • 5h ago • [GitHub](https://github.com/microsoft/VibeVoice)
-
----
-
-**[Mistral built a $14B AI empire by not being American](https://news.ycombinator.com/item?id=47919725)**
-
-Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
-
-⬆️ 219 • 💬 173 • 1d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+⬆️ 272 • 💬 160 • 7h ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -265,15 +257,23 @@ Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and An
 
 ﻿The classified deal apparently doesn’t allow Google to veto how the government will use its AI models.
 
-⬆️ 150 • 💬 126 • 1h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
+⬆️ 221 • 💬 215 • 3h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
 
 ---
 
-**[Eden AI – European Alternative to OpenRouter](https://news.ycombinator.com/item?id=47908433)**
+**[Mistral built a $14B AI empire by not being American](https://news.ycombinator.com/item?id=47919725)**
 
-Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
+Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
 
-⬆️ 133 • 💬 69 • 2d ago • [edenai.co](https://www.edenai.co)
+⬆️ 219 • 💬 174 • 1d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+
+---
+
+**[Claude.ai unavailable and elevated errors on the API](https://news.ycombinator.com/item?id=47938097)**
+
+Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
+
+⬆️ 153 • 💬 124 • 1h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -287,7 +287,7 @@ BOFA head of Global Thematic Investing Haim Israel discusses new developments in
 
 📺 Fox Business
 
-👁️ 13K • 👍 557 • 💬 78 • ⏱️ 7:00 • 13h ago
+👁️ 13K • 👍 557 • 💬 78 • ⏱️ 7:00 • 15h ago
 
 ---
 
@@ -307,7 +307,7 @@ The race for global AI supremacy is accelerating—and getting messier. Alice Ha
 
 📺 The Prof G Pod – Scott Galloway
 
-👁️ 21K • 👍 710 • 💬 136 • ⏱️ 34:12 • 9h ago
+👁️ 21K • 👍 710 • 💬 136 • ⏱️ 34:12 • 11h ago
 
 ---
 
@@ -327,7 +327,7 @@ Try GPT Image 2 + Seedance 2.0 here: https://higgsfield.ai/s/gpt-image-2-seedanc
 
 📺 AI Revolution
 
-👁️ 19K • 👍 606 • 💬 78 • ⏱️ 12:51 • 19h ago
+👁️ 19K • 👍 606 • 💬 78 • ⏱️ 12:51 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 96 • 💬 12 • ⏱️ 7:20 • 7h ago
+👁️ 3K • 👍 96 • 💬 12 • ⏱️ 7:20 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ Join our WhatsApp Community: https://go.stayingahead.com/YT Want to Train Your T
 
 📺 Vaibhav Sisinty
 
-👁️ 5K • 👍 395 • 💬 64 • ⏱️ 17:21 • 1h ago
+👁️ 5K • 👍 395 • 💬 64 • ⏱️ 17:21 • 3h ago
 
 ---
 
@@ -357,7 +357,7 @@ You losing your job is the best thing to ever happen. This was a member-only vid
 
 📺 Mo Bitar
 
-👁️ 142K • 👍 11K • 💬 2K • ⏱️ 6:01 • 22h ago
+👁️ 142K • 👍 11K • 💬 2K • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -367,7 +367,7 @@ Taylor Swift is proactively moving to ensure her voice and likeness are protecte
 
 📺 TODAY
 
-👁️ 2K • 👍 48 • 💬 5 • ⏱️ 2:54 • 5h ago
+👁️ 2K • 👍 48 • 💬 5 • ⏱️ 2:54 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 42 • 💬 6 • ⏱️ 7:59 • 4h ago
+👁️ 1K • 👍 42 • 💬 6 • ⏱️ 7:59 • 6h ago
 
 ---
 
@@ -487,7 +487,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 396 • ❤️ 223 • 10h ago
+⬇️ 396 • ❤️ 223 • 12h ago
 
 ---
 
@@ -650,7 +650,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.2k • 🔱 6.6k • 17h ago
+⭐ 50.2k • 🔱 6.6k • 19h ago
 
 ---
 
@@ -680,7 +680,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 37.2k • 🔱 4.1k • 3h ago
+⭐ 37.2k • 🔱 4.1k • 5h ago
 
 ---
 
@@ -740,7 +740,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.8k • 🔱 428 • 2h ago
+⭐ 4.8k • 🔱 428 • 4h ago
 
 ---
 

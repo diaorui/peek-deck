@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T17:47:40.724083+00:00'
+updated: '2026-04-28T19:42:50.037403+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 17:47 UTC  
+**Last Updated:** April 28, 2026 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -3.6%  
-**30d:** +13.0%  
-**90d:** -18.9%  
-**1y:** +27.2%  
+**24h:** +0.0%  
+**7d:** -3.4%  
+**30d:** +13.2%  
+**90d:** -18.8%  
+**1y:** +27.4%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Should I sell my ETH? (serious)](https://www.reddit.com/r/ethereum/comments/1sya9xs/should_i_sell_my_eth_serious/)**
+
+Hi guys, not particularly asking for an advice here but i've always considered myself as a diamond hand, but lately i've kinda lost faith in Ethereum, i've been holding since 2018 and i've made almost zero unrealized profits since I bought at my initial I've ended up to a deep financial crisis, I need to sell my holdings, sold my watches already but still hesitating to capitulate about ETH, if you were me, would you sell now?
+
+1h ago
+
+---
+
 **[Daily General Discussion April 28, 2026](https://www.reddit.com/r/ethereum/comments/1sxrp3o/daily_general_discussion_april_28_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
 
-27m ago
+2h ago
 
 ---
 
@@ -88,15 +96,7 @@ the whole ethereum community preaches decentralization and taking back control b
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-21h ago
-
----
-
-**[i mass $50k worth of trades across 4 chains last month. the amount i lost to fragmented liquidity is embarrassing.](https://www.reddit.com/r/ethereum/comments/1sy0hli/i_mass_50k_worth_of_trades_across_4_chains_last/)**
-
-so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
-
-4h ago
+22h ago
 
 ---
 
@@ -105,6 +105,14 @@ so i track my trades pretty carefully and last month i did about $50k total acro
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[i mass $50k worth of trades across 4 chains last month. the amount i lost to fragmented liquidity is embarrassing.](https://www.reddit.com/r/ethereum/comments/1sy0hli/i_mass_50k_worth_of_trades_across_4_chains_last/)**
+
+so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
+
+6h ago
 
 ---
 
@@ -138,23 +146,23 @@ Hey r/ethereum, I just submitted ArcWarden to a lablab.ai hackathon on Arc L1. W
 
 ---
 
-**[Daily General Discussion April 26, 2026](https://www.reddit.com/r/ethereum/comments/1svy52r/daily_general_discussion_april_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Ethereum Staking: A Quiet Generational Wealth Engine?](https://www.fool.com/investing/2026/04/28/ethereum-staking-a-quiet-wealth-engine/)**
+
+This is a tool you should be using if it's available, but it's not magic.
+
+The Motley Fool • 9m ago
+
+---
 
 **[How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum](https://finance.yahoo.com/video/how-bitmines-tom-lee-is-becoming-the-michael-saylor-of-ethereum-163024520.html)**
 
 Fundstrat co-founder Tom Lee is bullish on ethereum (ETH-USD), from his recent comments to Bitmine's (BMNR) largest ether purchase of 2026. Scott Melker discusses the details above."The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -166,11 +174,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Ethereum news: Tom Lee touts ETH as 'wartime store of value' as Bitmine (BMNR) buys more](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)**
+**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
 
-The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CoinDesk • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -182,49 +190,39 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Foundation sells nearly $24 million of ETH to Tom Lee's Bitmine](https://www.theblock.co/post/398819/ethereum-foundation-sells-nearly-24-million-of-eth-to-tom-lees-bitmine)**
-
-Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
-
-The Block • 4d ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) to buy 10,000 ETH for $23.8M from Ethereum Foundation](https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation)**
-
-The transaction brings the firm’s holdings closer to the 5% of all ETH milestone.
-
-CoinDesk • 4d ago
-
----
-
-**[Meet the Michael Saylor of ethereum](https://finance.yahoo.com/video/meet-the-michael-saylor-of-ethereum-162728527.html)**
-
-Scott Melker, the host of 'The Wolf of All Streets' podcast, discusses a Washington update on the Clarity Act's 10-week progress, why Tom Lee is being hailed as the Michael Saylor of ethereum, and other big crypto headlines. 'The Daily Wolf with Scott Melker' airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 54m ago
-
----
-
-**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
-
----
-
-**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://www.fool.com/investing/2026/04/25/better-growth-investment-to-buy-with-500-ethereum/)**
-
-These two assets take very different approaches to generating value.
-
-The Motley Fool • 2d ago
-
----
-
 **[Ethereum Teeters on a $2,200 Cliff as a $2 Billion Liquidation Trap Lurks](https://www.tipranks.com/news/ethereum-teeters-on-a-2200-cliff-as-a-2-billion-liquidation-trap-lurks)**
 
-TipRanks • 4h ago
+TipRanks • 6h ago
+
+---
+
+**[Ethereum news: Tom Lee touts ETH as 'wartime store of value' as Bitmine (BMNR) buys more](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)**
+
+The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Repeats 2021 Price Levels](https://coinpedia.org/crypto-live-news/ethereum-repeats-2021-price-levels/)**
+
+Ethereum price is near 2021 levels despite big swings, while network activity, staking, and DeFi growth continue to rise strongly.
+
+Coinpedia • 8h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Retreat As Trump Discusses Iran's 'New' Proposal: Analyst Says BTC's Bia](https://www.benzinga.com/crypto/cryptocurrency/26/04/52083332/bitcoin-ethereum-xrp-dogecoin-retreat-trump-iran-proposal-btc-upside-bias-analyst)**
+
+Leading cryptocurrencies took a U-turn on Monday, while stocks closed at new records, as the White House confirmed that President Donald Trump discussed Iran&#8217;s new proposal to end the war.
+
+Benzinga • 17h ago
+
+---
+
+**[ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?](https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week/)**
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Ethereum might finally be thawing out of its “mini winter.” The structure lo
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 182 • 💬 112 • ⏱️ 14:02 • 2h ago
+👁️ 1K • 👍 182 • 💬 112 • ⏱️ 14:02 • 3h ago
 
 ---
 
@@ -248,7 +246,7 @@ The stock market is pushing to new all time highs and Nvidia just followed. But 
 
 📺 Chart Champions
 
-👁️ 4K • 👍 294 • 💬 15 • ⏱️ 19:30 • 5h ago
+👁️ 4K • 👍 294 • 💬 15 • ⏱️ 19:30 • 7h ago
 
 ---
 
@@ -258,7 +256,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 121 • ⏱️ 21:33 • 23h ago
+👁️ 49K • 👍 2K • 💬 121 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -268,7 +266,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 —
 
 📺 Yahoo Finance
 
-👁️ 358 • 👍 40 • 💬 2 • ⏱️ 14:56 • 1h ago
+👁️ 358 • 👍 40 • 💬 2 • ⏱️ 14:56 • 3h ago
 
 ---
 
@@ -278,7 +276,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 292 • ⏱️ 9:47 • 1d ago
+👁️ 48K • 👍 3K • 💬 292 • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 2K • 👍 142 • 💬 184 • ⏱️ 15:42 • 3h ago
+👁️ 2K • 👍 142 • 💬 184 • ⏱️ 15:42 • 5h ago
 
 ---
 
@@ -318,7 +316,7 @@ In diesem Analysevideo schauen wir auf Ethereum auf Basis unserer Elliott-Wellen
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 1K • 👍 267 • 💬 15 • ⏱️ 14:37 • 1h ago
+👁️ 1K • 👍 267 • 💬 15 • ⏱️ 14:37 • 3h ago
 
 ---
 
@@ -328,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 154 • 👍 5 • ⏱️ 4:13 • 12h ago
+👁️ 154 • 👍 5 • ⏱️ 4:13 • 13h ago
 
 ---
 
