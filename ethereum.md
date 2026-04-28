@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T08:43:11.664102+00:00'
+updated: '2026-04-28T11:06:31.122095+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 08:43 UTC  
+**Last Updated:** April 28, 2026 at 11:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -3.6%  
-**30d:** +13.0%  
-**90d:** -18.9%  
-**1y:** +27.1%  
+**24h:** -1.3%  
+**7d:** -3.9%  
+**30d:** +12.7%  
+**90d:** -19.1%  
+**1y:** +26.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.22B
+**Market Cap:** $275.51B
 Rank #2
 
 **Circulating Supply:** 120,688,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.8%
+-53.9%
 
 **All-Time Low:** $0.43
-+528138.1%
++526867.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-11h ago
+14h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
 
-🔗 [neomist.eth](https://neomist.eth.link) • 21h ago
+🔗 [neomist.eth](https://neomist.eth.link) • 23h ago
 
 ---
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -142,7 +142,7 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 21h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Claude Mythos found thousands of zero-day vulnerabilities in every major browser
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -162,7 +162,15 @@ CoinDesk • 19h ago
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 18h ago
+Decrypt • 20h ago
+
+---
+
+**[A Look At Bitmine Immersion Technologies (BMNR) Valuation As It Builds A Major Ethereum Treasury And Staking Position](https://finance.yahoo.com/markets/crypto/articles/look-bitmine-immersion-technologies-bmnr-090749720.html)**
+
+Bitmine Immersion Technologies (BMNR) has quickly become a focal point after committing hundreds of millions of US dollars to Ethereum, building a treasury of more than five million ETH and expanding its staking activity. See our latest analysis for Bitmine Immersion Technologies. The latest Ethereum purchases and staking push come after a volatile period for the stock, with a 17.18% 1 month share price return following a 26.53% 3 month share price decline and a very large 1 year total...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -170,15 +178,7 @@ Decrypt • 18h ago
 
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
-PR Newswire • 20h ago
-
----
-
-**[Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html)**
-
-Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
-
-Yahoo Finance • 20h ago
+PR Newswire • 22h ago
 
 ---
 
@@ -194,13 +194,21 @@ The Motley Fool • 2d ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 15h ago
+Coinpedia • 17h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 16h ago
+TipRanks • 19h ago
+
+---
+
+**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
 
 ---
 
@@ -208,7 +216,7 @@ TipRanks • 16h ago
 
 Ether’s price action mirrors that of Bitcoin over the last few hours.Similar to Bitcoin, Ether rallied to the $2,404 level during the late hours of Sunday but failed to take out the resistance level at $2,423.The leading altcoin has been trading sideways over the past few days.With the support leve…
 
-TradingView • 22h ago
+TradingView • 1d ago
 
 ---
 
@@ -216,15 +224,7 @@ TradingView • 22h ago
 
 Cryptocurrency prices are broadly retracing on Monday as market participants digest new developments in the Middle East conflict. Bitcoin (BTC) is trading below $78,000 after a rejection at weekly highs around $79,485 earlier in the day, while Ethereum (ETH) hovers above $2,300 support.
 
-FXStreet • 20h ago
-
----
-
-**[Ethereum Foundation sells $33.5M ETH, retains $214.8M amid market skepticism](https://cryptobriefing.com/ethereum-foundation-sells-335m-eth-retains-2148m-amid-market-skepticism/)**
-
-The Ethereum Foundation sold $33.5M in ETH while holding $214.8M. Ethereum reaching $10,000 by December 31, 2026 is at 4% YES.
-
-Crypto Briefing • 21h ago
+FXStreet • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 804 • 💬 30 • ⏱️ 11:19 • 18h ago
+👁️ 16K • 👍 816 • 💬 30 • ⏱️ 11:19 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 111 • ⏱️ 21:33 • 14h ago
+👁️ 43K • 👍 2K • 💬 115 • ⏱️ 21:33 • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 525 • 💬 31 • ⏱️ 18:46 • 1d ago
+👁️ 17K • 👍 526 • 💬 32 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 292 • ⏱️ 9:47 • 1d ago
+👁️ 47K • 👍 3K • 💬 291 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 251 • 💬 188 • ⏱️ 18:01 • 9h ago
+👁️ 5K • 👍 257 • 💬 204 • ⏱️ 18:01 • 12h ago
 
 ---
 
@@ -288,25 +288,17 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 15K • 👍 627 • 💬 64 • ⏱️ 9:47 • 2d ago
+👁️ 15K • 👍 629 • 💬 64 • ⏱️ 9:47 • 2d ago
 
 ---
 
-**[ETHEREUM DUMP COMING?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vSloTo5_Bvs)**
+**[BEARISH NEWS FOR ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eu_hzdduoUI)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 576 • 👍 24 • 💬 3 • ⏱️ 4:59 • 23h ago
-
----
-
-**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
-
-📺 The Wolf Of All Streets
-
-👁️ 2K • 👍 25 • 💬 17 • ⏱️ 0:41 • 11h ago
+👁️ 60 • 👍 3 • ⏱️ 4:13 • 5h ago
 
 ---
 
@@ -316,17 +308,25 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 604 • 👍 73 • 💬 2 • ⏱️ 6:28 • 6h ago
+👁️ 848 • 👍 83 • 💬 2 • ⏱️ 6:28 • 8h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Hat der Abverkauf gestartet oder nur ein Pullback? DAS wird JETZT wichtig!](https://www.youtube.com/watch?v=MBCKZqZTQXg)**
+**[ETHEREUM DUMP COMING?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vSloTo5_Bvs)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Krypto Trading & Investing
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 472 • 💬 23 • ⏱️ 8:38 • 5h ago
+👁️ 597 • 👍 24 • 💬 3 • ⏱️ 4:59 • 1d ago
+
+---
+
+**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 26 • 💬 19 • ⏱️ 0:41 • 14h ago
 
 ---
 
