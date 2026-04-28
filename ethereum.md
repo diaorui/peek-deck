@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T15:43:55.442087+00:00'
+updated: '2026-04-28T17:47:40.724083+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 15:43 UTC  
+**Last Updated:** April 28, 2026 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,275.24
+### $2,287.05
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -4.2%  
-**30d:** +12.3%  
-**90d:** -19.4%  
-**1y:** +26.4%  
+**24h:** -0.0%  
+**7d:** -3.6%  
+**30d:** +13.0%  
+**90d:** -18.9%  
+**1y:** +27.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $274.29B
+**Market Cap:** $276.53B
 Rank #2
 
 **Circulating Supply:** 120,688,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.0%
+-53.7%
 
 **All-Time Low:** $0.43
-+525244.2%
++529110.4%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
+
+---
+
+**[we talk decentralization in ethereum but use centralized messaging](https://www.reddit.com/r/ethereum/comments/1sy7w6u/we_talk_decentralization_in_ethereum_but_use/)**
+
+the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
+
+27m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-18h ago
+21h ago
 
 ---
 
@@ -88,7 +96,7 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
 
-2h ago
+4h ago
 
 ---
 
@@ -138,17 +146,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Blockchain consulting challenges with Ethereum scaling assumptions](https://www.reddit.com/r/ethereum/comments/1swdv0u/blockchain_consulting_challenges_with_ethereum/)**
-
-Working in blockchain consulting, I’ve noticed many Ethereum-based projects still underestimate how scaling decisions impact long-term costs. Clients assume L2s will fully solve gas issues, but data availability, bridging complexity, and liquidity fragmentation often get overlooked. When designing systems, it becomes tricky balancing user experience with decentralization trade-offs, especially for financial applications. Even small architectural decisions can significantly affect transaction costs and protocol adoption later. Has anyone here built a reliable framework for evaluating Ethereum scaling strategies across different use cases?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum](https://finance.yahoo.com/video/how-bitmines-tom-lee-is-becoming-the-michael-saylor-of-ethereum-163024520.html)**
+
+Fundstrat co-founder Tom Lee is bullish on ethereum (ETH-USD), from his recent comments to Bitmine's (BMNR) largest ether purchase of 2026. Scott Melker discusses the details above."The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-unprecedented-world-record-of-5-078-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-3-billion-302753891.html)**
+
+Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
+
+PR Newswire • 1d ago
+
+---
 
 **[Ethereum news: Tom Lee touts ETH as 'wartime store of value' as Bitmine (BMNR) buys more](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)**
 
@@ -166,35 +182,35 @@ Decrypt • 1d ago
 
 ---
 
-**[Ten years after Ethereum’s DAO disaster, it’s time to try again](https://fortune.com/2026/04/28/ten-years-after-ethereums-dao-disaster-its-time-to-try-again/)**
+**[Ethereum Foundation sells nearly $24 million of ETH to Tom Lee's Bitmine](https://www.theblock.co/post/398819/ethereum-foundation-sells-nearly-24-million-of-eth-to-tom-lees-bitmine)**
 
-In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
+Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-Fortune • 2h ago
+The Block • 4d ago
 
 ---
 
-**[Current price of Ethereum for April 28, 2026](https://fortune.com/article/price-of-ethereum-04-28-2026/)**
+**[Ethereum news: Bitmine (BMNR) to buy 10,000 ETH for $23.8M from Ethereum Foundation](https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation)**
+
+The transaction brings the firm’s holdings closer to the 5% of all ETH milestone.
+
+CoinDesk • 4d ago
+
+---
+
+**[Meet the Michael Saylor of ethereum](https://finance.yahoo.com/video/meet-the-michael-saylor-of-ethereum-162728527.html)**
+
+Scott Melker, the host of 'The Wolf of All Streets' podcast, discusses a Washington update on the Clarity Act's 10-week progress, why Tom Lee is being hailed as the Michael Saylor of ethereum, and other big crypto headlines. 'The Daily Wolf with Scott Melker' airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 54m ago
+
+---
+
+**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html)**
-
-Bitcoin opened at $77,368.28 on Tuesday. The value of bitcoin at 7:10 a.m. ET fell even further to $76,472.05.  Ethereum opened at $2,303.33 on Tuesday. The value of ethereum continued falling as of 7:10 a.m. ET, moving down to $2,278.56.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-unprecedented-world-record-of-5-078-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-3-billion-302753891.html)**
-
-Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
-
-PR Newswire • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -206,25 +222,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/top-analyst-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices-2/)**
+**[Ethereum Teeters on a $2,200 Cliff as a $2 Billion Liquidation Trap Lurks](https://www.tipranks.com/news/ethereum-teeters-on-a-2200-cliff-as-a-2-billion-liquidation-trap-lurks)**
 
-Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
-
-Coinpedia • 22h ago
-
----
-
-**[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
-
-TipRanks • 23h ago
-
----
-
-**[Ethereum stalls near $2,300: is a big move brewing?](https://www.tradingview.com/news/invezz:08962401c094b:0-ethereum-stalls-near-2-300-is-a-big-move-brewing/)**
-
-Ether’s price action mirrors that of Bitcoin over the last few hours.Similar to Bitcoin, Ether rallied to the $2,404 level during the late hours of Sunday but failed to take out the resistance level at $2,423.The leading altcoin has been trading sideways over the past few days.With the support leve…
-
-TradingView • 1d ago
+TipRanks • 4h ago
 
 ---
 
@@ -232,13 +232,23 @@ TradingView • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
+
+Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
+
+📺 Crypto Capital Venture
+
+👁️ 1K • 👍 182 • 💬 112 • ⏱️ 14:02 • 2h ago
+
+---
+
 **[🚨 My Next Trades on BTC, ETH and ARB: Full Breakdown](https://www.youtube.com/watch?v=yKphb8S0Tpw)**
 
 The stock market is pushing to new all time highs and Nvidia just followed. But Bitcoin is still stuck around $78000. So what is the ...
 
 📺 Chart Champions
 
-👁️ 3K • 👍 238 • 💬 12 • ⏱️ 19:30 • 3h ago
+👁️ 4K • 👍 294 • 💬 15 • ⏱️ 19:30 • 5h ago
 
 ---
 
@@ -248,27 +258,17 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 47K • 👍 2K • 💬 119 • ⏱️ 21:33 • 21h ago
+👁️ 49K • 👍 2K • 💬 121 • ⏱️ 21:33 • 23h ago
 
 ---
 
-**[North Korea Infiltrated Ethereum And Stole Millions!](https://www.youtube.com/watch?v=-7dDRdvkx9g)**
+**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
 
-Millions were drained in minutes. North Korean state operatives weren't just hacking — they were working *inside* top crypto ...
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
 
-📺 Coin Bureau
+📺 Yahoo Finance
 
-👁️ 2K • 👍 141 • 💬 35 • ⏱️ 15:37 • 1h ago
-
----
-
-**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 545 • 💬 34 • ⏱️ 18:46 • 1d ago
+👁️ 358 • 👍 40 • 💬 2 • ⏱️ 14:56 • 1h ago
 
 ---
 
@@ -278,7 +278,27 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 292 • ⏱️ 9:47 • 1d ago
+👁️ 48K • 👍 3K • 💬 292 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 18K • 👍 548 • 💬 35 • ⏱️ 18:46 • 2d ago
+
+---
+
+**[BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6nWtaK6gIYc)**
+
+BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 142 • 💬 184 • ⏱️ 15:42 • 3h ago
 
 ---
 
@@ -292,13 +312,13 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 ---
 
-**[BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6nWtaK6gIYc)**
+**[Warum ich NICHT glaube, dass Ethereum nachhaltig steigen kann](https://www.youtube.com/watch?v=uxf-iANbaeI)**
 
-BITCOIN WARNING: WATCH BEFORE TOMORROW (Fed Meeting)!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+In diesem Analysevideo schauen wir auf Ethereum auf Basis unserer Elliott-Wellen-Analyse und zeigen, warum sich das Bild auf ...
 
-📺 Crypto World
+📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 791 • 👍 77 • 💬 153 • ⏱️ 15:42 • 1h ago
+👁️ 1K • 👍 267 • 💬 15 • ⏱️ 14:37 • 1h ago
 
 ---
 
@@ -308,27 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 144 • 👍 5 • ⏱️ 4:13 • 9h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=WL7nQnPtB5U)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 331 • 👍 61 • ⏱️ 6:38 • 2h ago
-
----
-
-**[Kaspa vs Bitcoin vs Ethereum! The BlockDAG Advantage Nobody Is Pricing In](https://www.youtube.com/watch?v=avcL_1ey6-w)**
-
-Tangem 20% off + UP TO $10 USD in Bitcoin ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
-
-📺 Your Crypto Crew
-
-👁️ 104 • 👍 24 • 💬 2 • ⏱️ 10:20 • 1h ago
+👁️ 154 • 👍 5 • ⏱️ 4:13 • 12h ago
 
 ---
 
