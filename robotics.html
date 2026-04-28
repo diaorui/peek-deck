@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-28T06:18:16.479442+00:00"
+          "dateModified": "2026-04-28T08:43:11.260015+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -684,6 +684,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sxv587/building_a_custom_quadruped_robot_solution_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/MDNoYWJpajA0d3hnMRZaEQP1k027FcCdFgPH5HvPNJXxf8Gg9om3sRbnRzkB.png?width=320&crop=smart&auto=webp&s=ae77ac2a07992a43407a1cbd25a7666cb786c076" alt="Building a custom quadruped robot solution for industrial inspection: Key design challenges & how we solved them" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sxv587/building_a_custom_quadruped_robot_solution_for/" target="_blank" onclick="event.stopPropagation();">Building a custom quadruped robot solution for industrial inspection: Key design challenges & how we solved them</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A quick look at our custom quadruped robot for industrial inspection, built on a modified wheeled-leg platform. Solved: • Stair climbing and uneven terrain stability • Custom sensor payload integration • Real-time data transmission for inspection tasks Open to questions about custom deployments or industrial use cases — feel free to DM.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777364111.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sxq93l/screwdrive_rc_tanks_this_isnt_new_but_its/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -802,6 +837,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sxt6jo/anyone_else_has_leased_a_stella_robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sxt6jo/anyone_else_has_leased_a_stella_robot/" target="_blank" onclick="event.stopPropagation();">Anyone else has leased a Stella robot?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I should’ve asked first before getting one which was already shipped by the company. I just assumed that it’s a good fit for my store. Well, I guess I’ll update this post once it gets delivered and be functional. https://stellabots.com?via=deere
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777357301.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sxrr9j/robotics_builders_fasm_is_coming_may_1st_now/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -907,72 +975,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1swqpml/i_tried_to_build_a_5_dof_robot_arm/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/c3EyYnFjcnkwbnhnMRuilKhk8ziFudRTPUgunuwfslOAuhXjJdCRgOxnfNyK.png?width=640&crop=smart&auto=webp&s=01f4e150a37e57836612e6f8f7534428b5775e89" alt="I tried to build a 5 DOF robot arm" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1swqpml/i_tried_to_build_a_5_dof_robot_arm/" target="_blank" onclick="event.stopPropagation();">I tried to build a 5 DOF robot arm</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            So this is a project I built a while ago and put on hold while I plan some upgrades. I just wanted to share it with the community and some things I've learned/experienced along the way. Build details are here: https://www.hackster.io/ian-hong/completely-custom-built-5-axis-robot-arm-515001 Kinematics The frame assignment of the D-H method is quite painful and every resource online has a slightly different (and sometimes ambiguous) explanation, but none was 100% correct. To solve the inverse kinematics analytically, you can decouple the first 3 joints (responsible for position) and the wrist joints (responsible for rotation). Pure position control is not sufficient for smooth motions because each joint moves a different amount. Hardware 3D printed parts are not as accurate as I would have liked. A snug fit in the bearings would sometimes cause the joints to lock up because they rotate slightly eccentrically. The backlash in the servo gears are not to be underestimated. Turning them by hand, they feel solid, but when you have a 100mm+ lever arm to it, you really notice the backlash and it compounds. Sometimes this backlash would cause the arm to oscillate because it can't reach the target position exactly without overcompensating in the opposite direction. Communication This is where I learned about binary protocols (you might remember my article from last week). Anyway, there are more fun features to be implemented (like an actual gripper) and improvements to be made. For all of you who built your own robot arm, what do you use it for and what challenges did you run into?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777256396.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/AOltEsCVmTHrlw_OuBUpmwi27P-k2XgsErkRTgW-vLE.png?width=640&crop=smart&auto=webp&s=033b337baa10335abbef51c83864ff23019ad152" alt="Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/" target="_blank" onclick="event.stopPropagation();">Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777221705.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -996,7 +998,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-28T06:17:49.183639+00:00">Updated 2026-04-28T06:17:49.183639+00:00</small>
+        <small data-timestamp="2026-04-28T08:42:46.403010+00:00">Updated 2026-04-28T08:42:46.403010+00:00</small>
     </div>
 </div>
 
@@ -1387,6 +1389,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences" target="_blank" onclick="event.stopPropagation();">AI Startup Sereact Raises $110 Million for Robots That Predict Consequences</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777262400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.globaltimes.cn/page/202604/1359843.shtml', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.globaltimes.cn/Portals/0/attachment/2026/2026-04-24/21434882-98bd-43dc-bd87-f8fc46d8a207.jpeg');"></div>
@@ -1421,43 +1460,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1777218360.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences" target="_blank" onclick="event.stopPropagation();">AI Startup Sereact Raises $110 Million for Robots That Predict Consequences</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777262400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1608,7 +1610,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-28T06:18:02.010947+00:00">Updated 2026-04-28T06:18:02.010947+00:00</small>
+        <small data-timestamp="2026-04-28T08:43:01.630231+00:00">Updated 2026-04-28T08:43:01.630231+00:00</small>
     </div>
 </div>
 
@@ -1844,7 +1846,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 256</span>
+                                    <span style="color: #9ca3af;">👍 257</span>
                                 </div>
                                 
                                 
@@ -1860,72 +1862,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1777204900.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=pTolenAb1L4', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/pTolenAb1L4/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">30:32</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=pTolenAb1L4" target="_blank" onclick="event.stopPropagation();">The One Strategy Video You Need (Vex Robotics 2026 World Finals)</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Joined by both World Champions to talk about the 2026 Worlds Finals matches #override Vex Pushback World Finals #robotics ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/wlCOqNaF07FqZS9kZdl7CcIjlnaPBxcWvEm4pA9q__1Pd5rralUIw8j0ApyFyU41KuPnaq5B=s88-c-k-c0x00ffffff-no-rj" alt="Luke does robotics" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC6fV8liRSA8cYi6DcJK4d8A" target="_blank" onclick="event.stopPropagation();">Luke does robotics</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 2K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 54</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 17</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777323323.0"></span>
                                 </div>
                                 
                             </div>
@@ -1972,16 +1908,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 903</span>
+                                    <span style="color: #9ca3af;">👁️ 2K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 69</span>
+                                    <span style="color: #9ca3af;">👍 178</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
+                                    <span style="color: #9ca3af;">💬 9</span>
                                 </div>
                                 
                             </div>
@@ -2042,7 +1978,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 162</span>
+                                    <span style="color: #9ca3af;">👍 163</span>
                                 </div>
                                 
                                 
@@ -2170,12 +2106,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 333</span>
+                                    <span style="color: #9ca3af;">👍 346</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 60</span>
+                                    <span style="color: #9ca3af;">💬 61</span>
                                 </div>
                                 
                             </div>
@@ -2236,7 +2172,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 53</span>
+                                    <span style="color: #9ca3af;">👍 54</span>
                                 </div>
                                 
                                 
@@ -2252,6 +2188,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1776862914.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=tA9Wm9882c0', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/tA9Wm9882c0/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">16:11</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=tA9Wm9882c0" target="_blank" onclick="event.stopPropagation();">Which Robot Lawn Mower Should You Buy in 2026?</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_kvvzFIbolezWarTVCzn1iLbq521CxNpV1d7EIT6EKD0tU=s88-c-k-c0x00ffffff-no-rj" alt="Stu’s Reviews" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC__spnljoqvOVYaMTMsSn3g" target="_blank" onclick="event.stopPropagation();">Stu’s Reviews</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 9K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 103</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 24</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777231547.0"></span>
                                 </div>
                                 
                             </div>
@@ -2298,7 +2300,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 67K</span>
+                                    <span style="color: #9ca3af;">👁️ 68K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2325,25 +2327,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=68NxYIAzbkY', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=MSZWUnNXvXQ', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/68NxYIAzbkY/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/MSZWUnNXvXQ/hqdefault.jpg');">
                         
-                        <span class="duration-badge">5:09</span>
+                        <span class="duration-badge">0:22</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=68NxYIAzbkY" target="_blank" onclick="event.stopPropagation();">VEX V5 Robotics Competition : Override | 2026-2027 Game</a>
+                            <a href="https://www.youtube.com/watch?v=MSZWUnNXvXQ" target="_blank" onclick="event.stopPropagation();">Secret robot dance interaction in Pragmata</a>
                         </div>
 
                         <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
-                        </div>
                         
 
                         <!-- Metadata (channel, engagement stats, publish date) -->
@@ -2353,9 +2351,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/5lzewzjUgaUmU6t7Ri_EhCKN5THw9Mz7gX9M3b_AgtqZiJQjoq8nFr9qzREAp8D88nNasBGafA=s88-c-k-c0x00ffffff-no-rj" alt="VEX Robotics" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/0SGwsPNZQtn7ISkm4f2r90yNQfLRnG22iyaIEAE2NHcewwAoeSK_1aNLTvep6l0lbguCgn5ggbA=s88-c-k-c0x00ffffff-no-rj" alt="SpectreX Gaming" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UC7jrVEiBjPrOM7-RZSAoebg" target="_blank" onclick="event.stopPropagation();">VEX Robotics</a>
+                                    <a href="https://www.youtube.com/channel/UCw6W2FTkxEaL_PJfvHAOQ1w" target="_blank" onclick="event.stopPropagation();">SpectreX Gaming</a>
                                 </div>
                                 
                             </div>
@@ -2364,16 +2362,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 225K</span>
+                                    <span style="color: #9ca3af;">👁️ 856K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
+                                    <span style="color: #9ca3af;">👍 27K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 607</span>
+                                    <span style="color: #9ca3af;">💬 496</span>
                                 </div>
                                 
                             </div>
@@ -2383,7 +2381,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777073429.0"></span>
+                                    <span data-timestamp="1776937820.0"></span>
                                 </div>
                                 
                             </div>
@@ -2391,24 +2389,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=TthyC8lTFWQ', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=5fRBztVTnho', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/TthyC8lTFWQ/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/5fRBztVTnho/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:19</span>
+                        <span class="duration-badge">15:48</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=TthyC8lTFWQ" target="_blank" onclick="event.stopPropagation();">This Genius Built a Robot Without a Lab 🤯</a>
+                            <a href="https://www.youtube.com/watch?v=5fRBztVTnho" target="_blank" onclick="event.stopPropagation();">War Robots - New Robot Shoggoth A New Spider Robot? WR Test Server</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Innovation doesn't need millions — just creativity and passion ⚙️ This incredible DIY project proves that anyone can build ...
+                            War Robots - New robot Shoggoth on this week's Test Server is a new spider robot with a very unique ability which allows it to ...
                         </div>
                         
 
@@ -2419,9 +2417,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/Bmj2kZEsAFPWDo19hoxpCx_oARzPU6oxc0RQ5v0RR8dEK3_o7Q1VjKl5vA7fO2El46awQabjJA=s88-c-k-c0x00ffffff-no-rj" alt="Phonix_Beats" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_lvhYH4hA1zikAgNgY9-mV-mvxzXvyZx5wNlVG581bdX7E=s88-c-k-c0x00ffffff-no-rj" alt="Adrian Chong" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCFjbscf3CejfUPQcdC94ELA" target="_blank" onclick="event.stopPropagation();">Phonix_Beats</a>
+                                    <a href="https://www.youtube.com/channel/UCk_jiByxmYqfZ11tYl0OCOw" target="_blank" onclick="event.stopPropagation();">Adrian Chong</a>
                                 </div>
                                 
                             </div>
@@ -2430,16 +2428,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 3.9M</span>
+                                    <span style="color: #9ca3af;">👁️ 3K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 71K</span>
+                                    <span style="color: #9ca3af;">👍 193</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
+                                    <span style="color: #9ca3af;">💬 60</span>
                                 </div>
                                 
                             </div>
@@ -2449,7 +2447,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1776779114.0"></span>
+                                    <span data-timestamp="1777294815.0"></span>
                                 </div>
                                 
                             </div>
@@ -2477,7 +2475,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-28T06:17:56.289382+00:00">Updated 2026-04-28T06:17:56.289382+00:00</small>
+        <small data-timestamp="2026-04-28T08:42:54.308505+00:00">Updated 2026-04-28T08:42:54.308505+00:00</small>
     </div>
 </div>
 

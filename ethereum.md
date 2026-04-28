@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T06:18:16.881154+00:00'
+updated: '2026-04-28T08:43:11.664102+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 06:18 UTC  
+**Last Updated:** April 28, 2026 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,288.98
+### $2,271.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
+**24h:** -1.5%  
 **7d:** -3.6%  
 **30d:** +13.0%  
 **90d:** -18.9%  
-**1y:** +27.2%  
+**1y:** +27.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.43B
+**Market Cap:** $276.22B
 Rank #2
 
 **Circulating Supply:** 120,688,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.7%
+-53.8%
 
 **All-Time Low:** $0.43
-+528595.4%
++528138.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-9h ago
+11h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
 
-🔗 [neomist.eth](https://neomist.eth.link) • 19h ago
+🔗 [neomist.eth](https://neomist.eth.link) • 21h ago
 
 ---
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -110,7 +110,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 Been trying to figure out the most cost-effective way to move ETH into USDT. Not talking huge amounts - around 0.4 ETH - but enough that fees actually matter. CEX route is obvious but the math gets annoying. Trading fee on the swap plus withdrawal fee for USDT, and depending on the network you pick for withdrawal that can be another $1–5 on top. Fine for large amounts, starts feeling wasteful under a certain threshold. Tried going through a crypto exchanger this time. Did some research - looked at operating history and reserve size, picked TRC20 on the output side to keep receiving fees low. Had a bad experience before with a newer service that stalled mid-swap so track record was the main filter. Ended up about even with what a CEX would've cost me after all fees, maybe marginally better. The main upside was speed - no withdrawal queue, funds arrived in about 20 minutes. Curious whether others have done this comparison properly. At what size does CEX actually become cheaper than the exchanger route?
 
-21h ago
+1d ago
 
 ---
 
@@ -130,19 +130,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Anthropic Built a Hacking AI Too Dangerous to Release. A Discord Group Got It Anyway. Experts Warn It Could Put Crypto Wallets and Blockchain Assets at Immediate Risk.](https://www.reddit.com/r/ethereum/comments/1sx0la3/anthropic_built_a_hacking_ai_too_dangerous_to/)**
-
-Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 19h ago
-
----
-
 **[Blockchain consulting challenges with Ethereum scaling assumptions](https://www.reddit.com/r/ethereum/comments/1swdv0u/blockchain_consulting_challenges_with_ethereum/)**
 
 Working in blockchain consulting, I’ve noticed many Ethereum-based projects still underestimate how scaling decisions impact long-term costs. Clients assume L2s will fully solve gas issues, but data availability, bridging complexity, and liquidity fragmentation often get overlooked. When designing systems, it becomes tricky balancing user experience with decentralization trade-offs, especially for financial applications. Even small architectural decisions can significantly affect transaction costs and protocol adoption later. Has anyone here built a reliable framework for evaluating Ethereum scaling strategies across different use cases?
 
 1d ago
+
+---
+
+**[Anthropic Built a Hacking AI Too Dangerous to Release. A Discord Group Got It Anyway. Experts Warn It Could Put Crypto Wallets and Blockchain Assets at Immediate Risk.](https://www.reddit.com/r/ethereum/comments/1sx0la3/anthropic_built_a_hacking_ai_too_dangerous_to/)**
+
+Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 16h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 16h ago
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 15h ago
+Decrypt • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 15h ago
 
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
-PR Newswire • 17h ago
+PR Newswire • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ PR Newswire • 17h ago
 
 Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -194,13 +194,13 @@ The Motley Fool • 2d ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 12h ago
+Coinpedia • 15h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 14h ago
+TipRanks • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ TipRanks • 14h ago
 
 Ether’s price action mirrors that of Bitcoin over the last few hours.Similar to Bitcoin, Ether rallied to the $2,404 level during the late hours of Sunday but failed to take out the resistance level at $2,423.The leading altcoin has been trading sideways over the past few days.With the support leve…
 
-TradingView • 19h ago
+TradingView • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 19h ago
 
 Cryptocurrency prices are broadly retracing on Monday as market participants digest new developments in the Middle East conflict. Bitcoin (BTC) is trading below $78,000 after a rejection at weekly highs around $79,485 earlier in the day, while Ethereum (ETH) hovers above $2,300 support.
 
-FXStreet • 18h ago
+FXStreet • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 18h ago
 
 The Ethereum Foundation sold $33.5M in ETH while holding $214.8M. Ethereum reaching $10,000 by December 31, 2026 is at 4% YES.
 
-Crypto Briefing • 19h ago
+Crypto Briefing • 21h ago
 
 ---
 
@@ -232,23 +232,33 @@ Crypto Briefing • 19h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
-
-Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
-
-📺 Paul Barron Network
-
-👁️ 38K • 👍 2K • 💬 110 • ⏱️ 21:33 • 12h ago
-
----
-
 **[🚨 BTC &amp; ETH: EMERGENCY UPDATE!!!!!! (Dont miss this one!)](https://www.youtube.com/watch?v=VB9gykEq9_I)**
 
 Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to pay attention to and what I am doing next!
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 781 • 💬 30 • ⏱️ 11:19 • 15h ago
+👁️ 15K • 👍 804 • 💬 30 • ⏱️ 11:19 • 18h ago
+
+---
+
+**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
+
+Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
+
+📺 Paul Barron Network
+
+👁️ 41K • 👍 2K • 💬 111 • ⏱️ 21:33 • 14h ago
+
+---
+
+**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 525 • 💬 31 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -262,23 +272,13 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 ---
 
-**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 517 • 💬 29 • ⏱️ 18:46 • 1d ago
-
----
-
 **[BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Jk6VtzTQhAc)**
 
 BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
 📺 Crypto World
 
-👁️ 4K • 👍 238 • 💬 169 • ⏱️ 18:01 • 7h ago
+👁️ 5K • 👍 251 • 💬 188 • ⏱️ 18:01 • 9h ago
 
 ---
 
@@ -288,25 +288,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 15K • 👍 626 • 💬 64 • ⏱️ 9:47 • 2d ago
-
----
-
-**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
-
-📺 The Wolf Of All Streets
-
-👁️ 1K • 👍 23 • 💬 16 • ⏱️ 0:41 • 9h ago
-
----
-
-**[Ethereum Bank Of Japan Crash Or Short Squeeze Today?](https://www.youtube.com/watch?v=tX0jwzauYEI)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 185 • 👍 6 • 💬 11 • ⏱️ 5:53 • 12h ago
+👁️ 15K • 👍 627 • 💬 64 • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -316,17 +298,35 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 531 • 👍 24 • 💬 3 • ⏱️ 4:59 • 21h ago
+👁️ 576 • 👍 24 • 💬 3 • ⏱️ 4:59 • 23h ago
 
 ---
 
-**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
+**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+📺 The Wolf Of All Streets
 
-📺 🌟yourfriendsommi
+👁️ 2K • 👍 25 • 💬 17 • ⏱️ 0:41 • 11h ago
 
-👁️ 2K • 👍 232 • 💬 18 • ⏱️ 18:14 • 1d ago
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=1_3eT3yiJYI)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 604 • 👍 73 • 💬 2 • ⏱️ 6:28 • 6h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Hat der Abverkauf gestartet oder nur ein Pullback? DAS wird JETZT wichtig!](https://www.youtube.com/watch?v=MBCKZqZTQXg)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 472 • 💬 23 • ⏱️ 8:38 • 5h ago
 
 ---
 
