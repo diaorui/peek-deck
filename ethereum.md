@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T21:08:00.565947+00:00'
+updated: '2026-04-28T22:31:33.977149+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 21:08 UTC  
+**Last Updated:** April 28, 2026 at 22:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -3.3%  
-**30d:** +13.4%  
-**90d:** -18.6%  
-**1y:** +27.6%  
+**24h:** -0.6%  
+**7d:** -3.6%  
+**30d:** +13.0%  
+**90d:** -18.9%  
+**1y:** +27.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
 
-3h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
 
-8h ago
+9h ago
 
 ---
 
@@ -154,29 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
-**[Ether Faces a Crossroad as Latest DeFi Hacks Shake Confidence](https://www.bloomberg.com/news/newsletters/2026-04-28/ether-eth-faces-a-crossroad-as-defi-hacks-shake-confidence)**
-
-Bloomberg • 7m ago
-
----
-
-**[Ethereum Staking: A Quiet Generational Wealth Engine?](https://www.fool.com/investing/2026/04/28/ethereum-staking-a-quiet-wealth-engine/)**
+**[Ethereum Staking: A Quiet Generational Wealth Engine?](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-quiet-generational-wealth-193300477.html)**
 
 This is a tool you should be using if it's available, but it's not magic.
 
-The Motley Fool • 1h ago
-
----
-
-**[Bitmine buys $294m more Ethereum ahead of Clarity Act ‘markup in May’](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-294m-more-ethereum-080615922.html)**
-
-Bitmine now owns 4.2% of total Ether supply Senate set to mark up Clarity Act in May, Senator Lummis says.
-
-Yahoo Finance • 13h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,6 +174,28 @@ PR Newswire • 1d ago
 
 ---
 
+**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html)**
+
+Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ether Faces a Crossroad as Latest DeFi Hacks Shake Confidence](https://www.bloomberg.com/news/newsletters/2026-04-28/ether-eth-faces-a-crossroad-as-defi-hacks-shake-confidence)**
+
+Bloomberg.com • 1h ago
+
+---
+
 **[Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone](https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone)**
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
@@ -196,33 +204,25 @@ Decrypt • 1d ago
 
 ---
 
+**[Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/top-analyst-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices-2/)**
+
+Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
+
+Coinpedia • 1d ago
+
+---
+
+**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://www.fool.com/investing/2026/04/25/better-growth-investment-to-buy-with-500-ethereum/)**
+
+These two assets take very different approaches to generating value.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Ethereum Teeters on a $2,200 Cliff as a $2 Billion Liquidation Trap Lurks](https://www.tipranks.com/news/ethereum-teeters-on-a-2200-cliff-as-a-2-billion-liquidation-trap-lurks)**
 
-TipRanks • 7h ago
-
----
-
-**[Ethereum Repeats 2021 Price Levels](https://coinpedia.org/crypto-live-news/ethereum-repeats-2021-price-levels/)**
-
-Ethereum price is near 2021 levels despite big swings, while network activity, staking, and DeFi growth continue to rise strongly.
-
-Coinpedia • 9h ago
-
----
-
-**[Ethereum news: Tom Lee touts ETH as 'wartime store of value' as Bitmine (BMNR) buys more](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)**
-
-The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
-
-CoinDesk • 1d ago
-
----
-
-**[New Crypto Pepeto Exchange Update Reaches Binance-Level While Ethereum Price Prediction Maps Path to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-update-reaches-binance-level-while-ethereum-price-prediction-maps-path-to-10-000-1036073831)**
-
-Dubai, UAE, April  28, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost tradin...
-
-markets.businessinsider.com • 12m ago
+TipRanks • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 492 • 💬 50 • ⏱️ 23:39 • 3h ago
+👁️ 5K • 👍 492 • 💬 50 • ⏱️ 23:39 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum might finally be thawing out of its “mini winter.” The structure lo
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 289 • 💬 183 • ⏱️ 14:02 • 5h ago
+👁️ 3K • 👍 289 • 💬 183 • ⏱️ 14:02 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 —
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 141 • 💬 11 • ⏱️ 14:56 • 4h ago
+👁️ 2K • 👍 141 • 💬 11 • ⏱️ 14:56 • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ The stock market is pushing to new all time highs and Nvidia just followed. But 
 
 📺 Chart Champions
 
-👁️ 5K • 👍 318 • 💬 16 • ⏱️ 19:30 • 8h ago
+👁️ 5K • 👍 318 • 💬 16 • ⏱️ 19:30 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 183 • 👍 6 • ⏱️ 4:13 • 15h ago
+👁️ 183 • 👍 6 • ⏱️ 4:13 • 16h ago
 
 ---
 
@@ -326,7 +326,7 @@ Millions were drained in minutes. North Korean state operatives weren't just hac
 
 📺 Coin Bureau
 
-👁️ 7K • 👍 387 • 💬 66 • ⏱️ 15:37 • 7h ago
+👁️ 7K • 👍 387 • 💬 66 • ⏱️ 15:37 • 8h ago
 
 ---
 

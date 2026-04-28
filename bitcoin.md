@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-28T21:08:00.559956+00:00'
+updated: '2026-04-28T22:31:33.971673+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 21:08 UTC  
+**Last Updated:** April 28, 2026 at 22:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -2.2%  
-**30d:** +14.5%  
-**90d:** -9.7%  
-**1y:** -18.9%  
+**24h:** -1.3%  
+**7d:** -2.4%  
+**30d:** +14.3%  
+**90d:** -9.8%  
+**1y:** -19.0%  
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 Bitcoin 2026 opened with a virtually empty main stage, speakers dialling it in, security blunders, and a decimated NAKA stock price.
 
-🔗 [Protos](https://protos.com/bitcoin-2026-opens-to-empty-seats-protests-awkward-moments/) • 4h ago
+🔗 [Protos](https://protos.com/bitcoin-2026-opens-to-empty-seats-protests-awkward-moments/) • 5h ago
+
+---
+
+**[Staking BTC](https://www.reddit.com/r/Bitcoin/comments/1syexaw/staking_btc/)**
+
+Hi everyone, I'm holding BTC for a few years now but I've heard about staking, is this safe? How does that actually work? Would you rather stake or borrow against it?
+
+1h ago
 
 ---
 
@@ -89,15 +97,7 @@ Bitcoin 2026 opened with a virtually empty main stage, speakers dialling it in, 
 
 Aven, a Silicon Valley fintech with more than 100,000 customers that offers a credit card grafted onto a home equity line of credit (HELOC), is launching a bitcoin-backed card. The new card lets consumers pledge bitcoin as collateral to access a credit line of up to $1 million over a term of up to 10 years. Its average percentage interest rates (APRs) range from 7.99% to 11.99%, notably lower than the average U.S. credit card rate of 21.52%, according to the Federal Reserve. To use Aven’s new card, which became available today, customers must agree to have their bitcoin transferred to South Dakota-based BitGo, the cryptocurrency custody company Aven partners with. Aven requires the loans to be overcollateralized–people can’t borrow more than the value of the bitcoin they pledge. Customers’ interest rates depend on how much collateral they put up. If they want a credit limit that’s capped at just 30% of their collateral’s value, they can access the lowest possible rate of 7.99%. To get a higher limit of 50% of their locked-up bitcoin, they’ll pay a 9.99% rate. And to receive the maximum limit of 70%, the interest rate is 11.99%. Each of those three rates is available regardless of a consumer’s credit score, though Aven says that condition could change in the future. Other companies have long been offering bitcoin-backed loans. Ledn, a Cayman Islands-based crypto lender, launched in 2018. It has issued $11 billion in bitcoin-backed loans and sells one-year loans at an APR of 9.99% to 11.49%, according to its website. Denver-based Salt Lending offers crypto-backed loans at a starting APR of 9.95%, while New York startup Arch begins as low as 8.49%. Publicly traded fintech Figure also offers crypto-backed loans, and in January SoFi CEO Anthony Noto said his San Francisco company will start to offer them this year. Aven cofounder and CEO Sadi Khan says his bitcoin-backed loans are more competitive than others in the market because of their low interest rates and longer, 10-year term. Typically, bitcoin-backed loans must be paid back within a year. In terms of fees, Aven’s loans don’t have origination fees, and its cards have no annual fees. To pull cash out of an Aven loan, customers pay a 1% fee. The card also has late fees and a fee to add authorized users. One watch-out: Bitcoin’s famous volatility could cause Aven to sell off your crypto and close your loan. If cardholders’ outstanding balance hits 70% of their collateral’s value, the card will lock to prevent new purchases or cash draws. If it hits 80%, they’ll have 72 hours to add more collateral or pay back some of the loan—if they don’t, Aven will sell some of their bitcoin to bring their loan-to-value ratio back down. And if their balance reaches 85%, Aven will immediately liquidate the loan. It will close the person’s credit line, seize and sell his or her bitcoin, charge a 2% liquidation fee and pay the customer back any remaining difference between the value of the collateral and the outstanding balance on the loan. Customers can’t use Aven’s HELOC or bitcoin-backed credit cards to buy items in prohibited categories such as online gambling sites, cryptocurrency exchanges or prediction markets like Kalshi or Polymarket. Khan first bought his own bitcoin in 2014 and says he had the idea to offer bitcoin-backed loans back when Aven was founded in 2019. He says that increased regulatory clarity over the past few years regarding bitcoin’s designation as a commodity (rather than a security) helped Aven get more comfortable with offering bitcoin-backed loans. He believes crypto-backed loans will eventually carry the lowest borrowing cost of any asset-backed loan that Aven offers. “If you follow the physics of this, it should rationally in the long term have the lowest cost of capital,” he says. That’s because bitcoin is a digital asset that’s cheap to move and secure, and its value is easy to verify. Since its founding, Aven has issued more than $4 billion in loans across all of its products and says it has saved consumers more than $300 million on interest payments they would have otherwise paid with traditional, standard-rate credit cards and personal loans. Aven doesn’t have a bank charter, so it partners with Washington state-based Coastal Community Bank to issue its cards. The startup borrows from financial institutions ranging from Goldman Sachs and community banks to private credit firms to fund its loans. Asked whether its lending capacity has been hurt by the recent exodus of capital out of some private credit funds, Khan says no, since Aven has a diverse set of funding sources and hasn’t borrowed from the funds that are under duress.
 
-🔗 [Forbes](https://www.forbes.com/sites/jeffkauflin/2026/04/27/for-bitcoin-holders-avens-new-credit-card-offers-799-interest-rate/) • 13h ago
-
----
-
-**[Bitcoin quantum threat contest backfires: Google pros ask organizers to “save what credibility they have left” - fake quantum results involved, lol.](https://www.reddit.com/r/Bitcoin/comments/1sxv1oc/bitcoin_quantum_threat_contest_backfires_google/)**
-
-One of the top voices in bitcoin (BTC) post-quantum cryptography, Project Eleven, found itself in hot water after its hyped contest turned out to be a nothing burger. Project Eleven's announcement on Friday regarding the winner of its contest, which was seemingly intended as a warning shot for those still dismissing a quantum computing threat to bitcoin, instead hit the startup itself. The team said that a researcher, Giancarlo Lelli, was awarded a 1 BTC bounty for breaking a 15-bit elliptic curve key on a publicly accessible quantum computer. According to Project Eleven, "the result is the largest public demonstration to date of the attack class" that threatens crypto assets. Soon, the announcement on the X platform was community-noted as readers proved that the experiment "did not demonstrate effective quantum key-breaking." "The method used to recover the 15-bit ECC [elliptic curve cryptography] key relies on classical verification of outputs indistinguishable from random noise, equivalent to classical guessing," the note reads, while other commenters have also emphasized that "the winner’s 'quantum' result works identically with a random number generator," and no quantum computer is needed here. Besides, the project was also accused by another researcher of the winner copying their code word-for-word, and the contest results were also criticized by Craig Gidney, a research scientist on Google's quantum computing team. "The ostensible goal of the QDay Prize was to raise awareness about this. Frustratingly, it has likely achieved the opposite result," Gidney said, adding that the competition failed in the way it was predictably going to fail. "Save what credibility you have left and call a duck a duck. Take it on the chin, and be more careful next time," he added. Meanwhile, Alex Pruden, the CEO of Project Eleven, which was recently valued at $120 million, admitted that Gidney is right and that the contest "was certainly imperfect." However, Pruden noted that this space still lacks clear yardsticks for the "Q-Day" and asked for feedback on “how we can better incentivize open benchmarking towards Q-Day risk." "I also want open benchmarking, and also generally agree with Project11’s mission and advocacy when it’s done well. I don’t have an idea for how to make open benchmarking a thing…for the near term, a blameless post-mortem of the competition could be a constructive next step," Gidney concluded. As reported by Cybernews earlier in April, Google and the California Institute of Technology warned that cracking cryptography used by blockchains might require far fewer resources and a less powerful cryptographically-relevant quantum computer than previously thought.
-
-🔗 [cybernews.com](https://cybernews.com/crypto/bitcoin-quantum-threat-backfire-google/) • 12h ago
+🔗 [Forbes](https://www.forbes.com/sites/jeffkauflin/2026/04/27/for-bitcoin-holders-avens-new-credit-card-offers-799-interest-rate/) • 14h ago
 
 ---
 
@@ -105,7 +105,15 @@ One of the top voices in bitcoin (BTC) post-quantum cryptography, Project Eleven
 
 Hey everyone, I just started setting up my own Bitcoin full node at home using a Raspberry Pi 5 with Umbrel OS. I’ve heard from many people that initial block download (IBD) usually takes a week or even more, but check this out: I managed to sync 516 GB in only 13 hours! (As shown in the screenshots). My Setup: • Hardware: Raspberry Pi 5. • Storage: NVMe SSD connected via an M.2 NVMe HAT. • Cooling: Official Active Cooler (stable at 50°C). • Internet: 300 Mbps Fiber connection (running over Wi-Fi). Am I on the right track? Is it the NVMe HAT + Fiber combo that made this possible, or did I just get lucky with my peers? 😅 Would love to hear your thoughts and if anyone else has achieved similar speeds with the Pi 5! 🚀🔥
 
-6h ago
+8h ago
+
+---
+
+**[Bitcoin quantum threat contest backfires: Google pros ask organizers to “save what credibility they have left” - fake quantum results involved, lol.](https://www.reddit.com/r/Bitcoin/comments/1sxv1oc/bitcoin_quantum_threat_contest_backfires_google/)**
+
+One of the top voices in bitcoin (BTC) post-quantum cryptography, Project Eleven, found itself in hot water after its hyped contest turned out to be a nothing burger. Project Eleven's announcement on Friday regarding the winner of its contest, which was seemingly intended as a warning shot for those still dismissing a quantum computing threat to bitcoin, instead hit the startup itself. The team said that a researcher, Giancarlo Lelli, was awarded a 1 BTC bounty for breaking a 15-bit elliptic curve key on a publicly accessible quantum computer. According to Project Eleven, "the result is the largest public demonstration to date of the attack class" that threatens crypto assets. Soon, the announcement on the X platform was community-noted as readers proved that the experiment "did not demonstrate effective quantum key-breaking." "The method used to recover the 15-bit ECC [elliptic curve cryptography] key relies on classical verification of outputs indistinguishable from random noise, equivalent to classical guessing," the note reads, while other commenters have also emphasized that "the winner’s 'quantum' result works identically with a random number generator," and no quantum computer is needed here. Besides, the project was also accused by another researcher of the winner copying their code word-for-word, and the contest results were also criticized by Craig Gidney, a research scientist on Google's quantum computing team. "The ostensible goal of the QDay Prize was to raise awareness about this. Frustratingly, it has likely achieved the opposite result," Gidney said, adding that the competition failed in the way it was predictably going to fail. "Save what credibility you have left and call a duck a duck. Take it on the chin, and be more careful next time," he added. Meanwhile, Alex Pruden, the CEO of Project Eleven, which was recently valued at $120 million, admitted that Gidney is right and that the contest "was certainly imperfect." However, Pruden noted that this space still lacks clear yardsticks for the "Q-Day" and asked for feedback on “how we can better incentivize open benchmarking towards Q-Day risk." "I also want open benchmarking, and also generally agree with Project11’s mission and advocacy when it’s done well. I don’t have an idea for how to make open benchmarking a thing…for the near term, a blameless post-mortem of the competition could be a constructive next step," Gidney concluded. As reported by Cybernews earlier in April, Google and the California Institute of Technology warned that cracking cryptography used by blockchains might require far fewer resources and a less powerful cryptographically-relevant quantum computer than previously thought.
+
+🔗 [cybernews.com](https://cybernews.com/crypto/bitcoin-quantum-threat-backfire-google/) • 14h ago
 
 ---
 
@@ -113,7 +121,7 @@ Hey everyone, I just started setting up my own Bitcoin full node at home using a
 
 Feels like more companies, apps, and services are slowly integrating Bitcoin, even if it’s not always in the spotlight. Do you think this kind of steady, behind-the-scenes adoption is building a stronger foundation for Bitcoin long term?
 
-4h ago
+6h ago
 
 ---
 
@@ -121,13 +129,13 @@ Feels like more companies, apps, and services are slowly integrating Bitcoin, ev
 
 Seeing more people talk about long-term holding instead of constant trading. It feels like many are focusing on patience and steady accumulation now. Do you think holding Bitcoin over time still works better than trying to trade short-term moves? Curious to hear different views.
 
-4h ago
+6h ago
 
 ---
 
 **[u/shen0800's Calculator](https://www.reddit.com/r/Bitcoin/comments/1sy0x07/ushen0800s_calculator/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +143,7 @@ Seeing more people talk about long-term holding instead of constant trading. It 
 
 Out of curiosity, what did you end up using / doing if you've needed liquidity, and have most of it locked in bitcoin.
 
-11h ago
+12h ago
 
 ---
 
@@ -143,15 +151,7 @@ Out of curiosity, what did you end up using / doing if you've needed liquidity, 
 
 Noticing that Bitcoin seems to be getting more attention from institutions and long-term holders lately. It feels like the market is slowly maturing compared to earlier cycles. Do you think Bitcoin is becoming more stable over time or is volatility still a major factor going forward? Curious to hear your thoughts.
 
-4h ago
-
----
-
-**[Colombia's largest pension fund launches portfolio with exposure to bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sxjz54/colombias_largest_pension_fund_launches_portfolio/)**
-
-La mayor administradora de fondos de pensiones de Colombia, Porvenir, ha dado un paso decisivo hacia la integración de los activos digitales en el sistema fina
-
-🔗 [Criptoinforme](https://criptoinforme.com/bitcoin/porvenir-bitcoin-pensiones-voluntarias-colombia/) • 21h ago
+6h ago
 
 ---
 
@@ -163,7 +163,7 @@ La mayor administradora de fondos de pensiones de Colombia, Porvenir, ha dado un
 
 The president’s second son pitches his bitcoin company as a money-printing machine. It’s actually an arbitrage vehicle that preys on MAGA-minded investors.
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ Forbes • 10h ago
 
 Executive Director of the President’s Council of Advisors for Digital Assets Patrick Witt said bitcoin reserve legislation is progressing.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 23h ago
 
 A "big announcement" on the U.S. Bitcoin strategic reserve could drop soon, but Treasury and a stalled Senate bill continue to set limits.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -187,7 +187,15 @@ Yahoo Finance • 7h ago
 
 Patrick Witt, executive director of the President's Council of Advisors for Digital Assets, hinted at a 'big announcement' coming in the next few weeks regarding next steps for Trump's strategic bitcoin reserve.
 
-Bitbo • 16h ago
+Bitbo • 18h ago
+
+---
+
+**[Bitcoin Touches 12-Week High as Traders Weigh Progress on Iran](https://finance.yahoo.com/markets/crypto/articles/bitcoin-touches-12-week-high-201001049.html)**
+
+(Bloomberg) -- Bitcoin touched a 12-week high before retreating slightly as traders digested conflicting signs about the progress of US-Iran talks to end the conflict in the Middle East. Most Read from BloombergSergey Brin Confronted Gavin Newsom — Then Launched a Political WarThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysOpenAI Breaks Free From Exclusive AI Pact With MicrosoftThe $1 Million Retirement Myth: Here’s What to S
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -195,43 +203,39 @@ Bitbo • 16h ago
 
 It will be "really hard to make money" in stocks over the next decade, said the billionaire investor, noting that the S&P 500's valuation reminds him of the 2000 dot-com bubble.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Czech Central Bank Chief Backs Bitcoin As 1% Investment](https://bitcoinmagazine.com/news/czech-central-bank-chief-backs-bitcoin)**
+**[Crypto Markets Today, April 28: Bitcoin Slips Slightly as Geopolitical Tensions Weigh on Risk Sentiment](https://www.fool.com/coverage/stock-market-today/2026/04/28/crypto-markets-today-april-28-bitcoin-slips-slightly-as-geopolitical-tensions-weigh-on-risk-sentiment/)**
+
+Investor caution drives crypto markets as oil prices surge and Robinhood reveals disappointing crypto trading figures, today, April 28, 2026.
+
+The Motley Fool • 27m ago
+
+---
+
+**[Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy](https://bitcoinmagazine.com/news/czech-central-bank-chief-backs-bitcoin)**
 
 Czech National Bank Governor Aleš Michl used a Bitcoin industry stage in Las Vegas to defend a reserve strategy that mixes strict inflation control with measured exposure to digital assets.
 
-Bitcoin Magazine • 2m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Billionaire investor warns ‘ugly inflation’ will hurt Bitcoin](https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-warns-ugly-inflation-195000306.html)**
+**[Bitcoin 2027 Conference Returning To Nashville, Tennessee](https://bitcoinmagazine.com/news/bitcoin-2027-conference-nashville)**
 
-Billionaire investor and Galaxy Digital Inc. (Nasdaq: GLXY) founder and CEO Michael Novogratz warned that it is going to be difficult for Bitcoin (BTC) to retake the $100,000 price level amidst the current macroeconomic conditions. A veteran investor, Novogratz said he first bought ...
+The Music City is set to host Bitcoin 2027, the world's largest Bitcoin gathering, on July 15–17, 2027
 
-Yahoo Finance • 1h ago
-
----
-
-**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
-
-Bloomberg • 1d ago
+Bitcoin Magazine • 43m ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall. What’s Holding Cryptos Back.](https://www.barrons.com/articles/bitcoin-xrp-price-ethereum-cryptos-today-6bb201ef)**
+**[New wallet offers way to tackle Bitcoin’s quantum risk without a fork](https://www.coindesk.com/tech/2026/04/28/emb-2-pm-utc-new-wallet-offers-way-to-tackle-bitcoin-s-quantum-risk-without-a-fork)**
 
-Barron's • 12h ago
+The Postquant Labs project uses Arch Network to deliver post-quantum signature protection without a Bitcoin soft fork, sidestepping both Jameson Lopp's freeze proposal and Paul Sztorc's hard fork.
 
----
-
-**[Bitcoin mining meltdown? Why IREN’s real future is in AI, according to Bernstein](https://finance.yahoo.com/markets/crypto/articles/bitcoin-mining-meltdown-why-iren-095724719.html)**
-
-IREN is pivoting from Bitcoin mining to AI infrastructure. By 2030, analysts project $5 billion in EBITDA, with margins exceeding 80%
-
-Yahoo Finance • 11h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -243,7 +247,7 @@ Yahoo Finance • 11h ago
 
 Paul Sztorc’s proposed eCash fork would give investors coins cloned from wallets believed to belong to Bitcoin creator Satoshi Nakamoto.
 
-⬆️ 5 • 💬 8 • 23h ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
+⬆️ 5 • 💬 8 • 1d ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
 
 ---
 
@@ -267,13 +271,21 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 3d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 4d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
 **[Bitcoin Is Digging Deeeeeper](https://news.ycombinator.com/item?id=47925278)**
 
 ⬆️ 3 • 💬 1 • 1d ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
+
+---
+
+**[Your Terminal Is Burning Battery Like It's Mining Bitcoin](https://news.ycombinator.com/item?id=47941517)**
+
+How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
+
+⬆️ 2 • 💬 1 • 24m ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -307,14 +319,6 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 ---
 
-**['Finding Satoshi' Makes the Case for Hal Finney, Len Sassaman as BTC Co-Creators](https://news.ycombinator.com/item?id=47864987)**
-
-A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
-
-⬆️ 2 • 💬 2 • 6d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -335,7 +339,7 @@ Some crazy crypto news today. Patrick Witt, the guy who runs the President's Cou
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 740 • 💬 296 • ⏱️ 8:10 • 20h ago
+👁️ 11K • 👍 740 • 💬 296 • ⏱️ 8:10 • 21h ago
 
 ---
 
@@ -345,7 +349,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 491 • 💬 49 • ⏱️ 23:39 • 3h ago
+👁️ 5K • 👍 491 • 💬 49 • ⏱️ 23:39 • 4h ago
 
 ---
 
@@ -365,7 +369,7 @@ Bitcoin 2026 streaming LIVE from Las Vegas. Industry Day gathers top voices from
 
 📺 HorseFolder
 
-👁️ 4K • 👍 4K • 38m ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 
@@ -375,7 +379,7 @@ Michael Saylor DOUBLES DOWN on bitcoin supply shock accelerating and lays out ho
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 285 • 💬 33 • ⏱️ 1:16:57 • 2h ago
+👁️ 4K • 👍 285 • 💬 33 • ⏱️ 1:16:57 • 4h ago
 
 ---
 
@@ -385,7 +389,7 @@ Senator Cynthia Lummis takes the Bitcoin 2026 stage to deliver a clear message: 
 
 📺 Bitcoin Magazine
 
-👁️ 18K • 👍 704 • 💬 47 • ⏱️ 8:35 • 23h ago
+👁️ 18K • 👍 704 • 💬 47 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -395,7 +399,7 @@ Michael Saylor joins Barclays' Lee Counselman for a must-watch breakdown of STRC
 
 📺 Bitcoin For Corporations
 
-👁️ 36K • 👍 1K • 💬 167 • ⏱️ 24:37 • 17h ago
+👁️ 36K • 👍 1K • 💬 167 • ⏱️ 24:37 • 19h ago
 
 ---
 
