@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-28T11:06:31.122095+00:00'
+updated: '2026-04-28T13:13:11.308078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 28, 2026 at 11:06 UTC  
+**Last Updated:** April 28, 2026 at 13:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,271.96
+### $2,278.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -3.9%  
-**30d:** +12.7%  
-**90d:** -19.1%  
-**1y:** +26.8%  
+**24h:** -2.0%  
+**7d:** -4.4%  
+**30d:** +12.0%  
+**90d:** -19.6%  
+**1y:** +26.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.51B
+**Market Cap:** $274.41B
 Rank #2
 
 **Circulating Supply:** 120,688,271 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.9%
+-54.2%
 
 **All-Time Low:** $0.43
-+526867.8%
++522602.0%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
+
+---
+
+**[i mass $50k worth of trades across 4 chains last month. the amount i lost to fragmented liquidity is embarrassing.](https://www.reddit.com/r/ethereum/comments/1sy0hli/i_mass_50k_worth_of_trades_across_4_chains_last/)**
+
+so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
+
+23m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-14h ago
+16h ago
 
 ---
 
@@ -96,13 +104,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
 
-🔗 [neomist.eth](https://neomist.eth.link) • 23h ago
+🔗 [neomist.eth](https://neomist.eth.link) • 1d ago
 
 ---
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -138,14 +146,6 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 ---
 
-**[Anthropic Built a Hacking AI Too Dangerous to Release. A Discord Group Got It Anyway. Experts Warn It Could Put Crypto Wallets and Blockchain Assets at Immediate Risk.](https://www.reddit.com/r/ethereum/comments/1sx0la3/anthropic_built_a_hacking_ai_too_dangerous_to/)**
-
-Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 23h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Claude Mythos found thousands of zero-day vulnerabilities in every major browser
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -162,13 +162,13 @@ CoinDesk • 21h ago
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 20h ago
+Decrypt • 22h ago
 
 ---
 
-**[A Look At Bitmine Immersion Technologies (BMNR) Valuation As It Builds A Major Ethereum Treasury And Staking Position](https://finance.yahoo.com/markets/crypto/articles/look-bitmine-immersion-technologies-bmnr-090749720.html)**
+**[Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html)**
 
-Bitmine Immersion Technologies (BMNR) has quickly become a focal point after committing hundreds of millions of US dollars to Ethereum, building a treasury of more than five million ETH and expanding its staking activity. See our latest analysis for Bitmine Immersion Technologies. The latest Ethereum purchases and staking push come after a volatile period for the stock, with a 17.18% 1 month share price return following a 26.53% 3 month share price decline and a very large 1 year total...
+Bitcoin opened at $77,368.28 on Tuesday. The value of bitcoin at 7:10 a.m. ET fell even further to $76,472.05.  Ethereum opened at $2,303.33 on Tuesday. The value of ethereum continued falling as of 7:10 a.m. ET, moving down to $2,278.56.
 
 Yahoo Finance • 1h ago
 
@@ -178,7 +178,15 @@ Yahoo Finance • 1h ago
 
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
-PR Newswire • 22h ago
+PR Newswire • 1d ago
+
+---
+
+**[Ten years after Ethereum’s DAO disaster, it’s time to try again](https://fortune.com/2026/04/28/ten-years-after-ethereums-dao-disaster-its-time-to-try-again/)**
+
+In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
+
+Fortune • 13m ago
 
 ---
 
@@ -194,21 +202,13 @@ The Motley Fool • 2d ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 17h ago
+Coinpedia • 19h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 19h ago
-
----
-
-**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
+TipRanks • 21h ago
 
 ---
 
@@ -220,11 +220,11 @@ TradingView • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP pull back despite renewed US-Iran peace hopes](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pull-back-despite-renewed-us-iran-peace-hopes-202604271200)**
+**[Bitmine stakes $214M in ETH, holds 9.5% of all staked Ethereum](https://cryptobriefing.com/bitmine-stakes-214m-in-eth-holds-95-of-all-staked-ethereum/)**
 
-Cryptocurrency prices are broadly retracing on Monday as market participants digest new developments in the Middle East conflict. Bitcoin (BTC) is trading below $78,000 after a rejection at weekly highs around $79,485 earlier in the day, while Ethereum (ETH) hovers above $2,300 support.
+Bitmine staked $214M in ETH, holding 9.5% of all staked Ethereum. Ethereum above $4,000 by April 25 at 99.9% YES.
 
-FXStreet • 23h ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -238,7 +238,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 816 • 💬 30 • ⏱️ 11:19 • 20h ago
+👁️ 16K • 👍 831 • 💬 30 • ⏱️ 11:19 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 43K • 👍 2K • 💬 115 • ⏱️ 21:33 • 16h ago
+👁️ 45K • 👍 2K • 💬 115 • ⏱️ 21:33 • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 526 • 💬 32 • ⏱️ 18:46 • 1d ago
+👁️ 17K • 👍 533 • 💬 33 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -272,23 +272,13 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 ---
 
-**[BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Jk6VtzTQhAc)**
+**[Why Bitcoin&#39;s Next 10 Weeks Decide The Cycle!](https://www.youtube.com/watch?v=H4wnliFMufc)**
 
-BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+Bitcoin #Crypto #Finance Bitcoin buying has hit overdrive! ETFs, funds, and businesses now hold over 14% of the total supply, ...
 
-📺 Crypto World
+📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 257 • 💬 204 • ⏱️ 18:01 • 12h ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 15K • 👍 629 • 💬 64 • ⏱️ 9:47 • 2d ago
+👁️ 598 • 👍 53 • 1h ago
 
 ---
 
@@ -298,7 +288,35 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 60 • 👍 3 • ⏱️ 4:13 • 5h ago
+👁️ 103 • 👍 4 • ⏱️ 4:13 • 7h ago
+
+---
+
+**[BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Jk6VtzTQhAc)**
+
+BITCOIN PRICE TARGET HIT (This is Coming Next)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 270 • 💬 205 • ⏱️ 18:01 • 14h ago
+
+---
+
+**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
+
+THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
+
+📺 Austin Hilton
+
+👁️ 15K • 👍 633 • 💬 64 • ⏱️ 9:47 • 2d ago
+
+---
+
+**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 31 • 💬 19 • ⏱️ 0:41 • 16h ago
 
 ---
 
@@ -308,25 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 848 • 👍 83 • 💬 2 • ⏱️ 6:28 • 8h ago
-
----
-
-**[ETHEREUM DUMP COMING?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vSloTo5_Bvs)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 597 • 👍 24 • 💬 3 • ⏱️ 4:59 • 1d ago
-
----
-
-**[$250,000 Ethereum Depends On Something Unrealistic: Total Dominance #ethereum #eth #crypto](https://www.youtube.com/watch?v=xgO5pIQI4rs)**
-
-📺 The Wolf Of All Streets
-
-👁️ 2K • 👍 26 • 💬 19 • ⏱️ 0:41 • 14h ago
+👁️ 1K • 👍 86 • 💬 2 • ⏱️ 6:28 • 10h ago
 
 ---
 
