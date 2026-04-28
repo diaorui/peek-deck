@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-28T19:42:50.022896+00:00'
+updated: '2026-04-28T21:08:00.551566+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 28, 2026 at 19:42 UTC  
+**Last Updated:** April 28, 2026 at 21:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Apparently the best defense against AI copying your voice is strawberry mango fo
 
 People are growingly becoming more affected by the surge of electricity needed to power these data centers, is it reasonable or even possible? Maybe im letting my imagination take a hold of me but I think it’s crazy that all these people are ending up paying for things that they don’t want a part of.
 
-12h ago
+14h ago
 
 ---
 
@@ -57,23 +57,7 @@ People are growingly becoming more affected by the surge of electricity needed t
 
 https://preview.redd.it/hbbp7hn1cxxg1.png?width=811&format=png&auto=webp&s=a633fe43837bf60e014afaa4c6cf3fe72a4976d3 I feel like this was inevitable - governments would want to use AI models eventually. Wondering what are the inhumane or harmful ways the employees were protesting about - Does this mean that Pentagon can basically spy on people? Source (full article)
 
-7h ago
-
----
-
-**[open models keep catching up and the frontier keeps moving. at some point one of those has to stop](https://www.reddit.com/r/artificial/comments/1sxt644/open_models_keep_catching_up_and_the_frontier/)**
-
-a year ago there was a clear tier gap. now i'm less sure, but not in the way i expected. the tasks where open-weight models have genuinely caught up are real: coding assistance, summarization, instruction following, solid day-to-day reasoning. for probably 70-80% of what most people actually use these for, a well-quantized local model is competitive. that wasn't true 18 months ago. but the remaining gap is stubborn. deep multi-step reasoning, anything requiring broad factual accuracy across domains, novel problem synthesis under ambiguity. that stuff still feels like a generation behind. and the frustrating part is it's not a fixed target. every time open models close in, frontier moves. what i can't work out is whether that's sustainable long term. at some point the architecture matures and the gap collapses for good. or maybe compute access keeps the ceiling moving indefinitely. for those who actually run both regularly - is there a specific task category where you've genuinely tried to substitute an open model and just couldn't?
-
-13h ago
-
----
-
-**[I built an AI that identifies individual ingredients from a photo to estimate calories instantly. No more manual searching.](https://www.reddit.com/r/artificial/comments/1syb4ji/i_built_an_ai_that_identifies_individual/)**
-
-Hi everyone, I’ve always struggled with the 'friction' of calorie tracking. Most apps require you to search for every single ingredient, weigh it, and log it manually. It usually takes me 5-10 minutes per meal, which led me to quit every single time. As a dev, I thought: Why can't I just take a photo and let AI do the heavy lifting? I spent the last few months training a model to not just recognize a 'Salad', but to identify the components: the cherry tomatoes, the parmesan, the croutons, etc. It then estimates the volume and gives a macro breakdown. It’s still in the early stages, but it has completely changed how I track my nutrition. I'm looking for some 'power-users' who are tired of manual logging to help me test this and tell me where it fails. What do you think? Is photo-recognition the future of nutrition or is manual weighing still king for you?
-
-30m ago
+8h ago
 
 ---
 
@@ -81,7 +65,15 @@ Hi everyone, I’ve always struggled with the 'friction' of calorie tracking. Mo
 
 After reading about the PocketOS situation it got me thinking that sometime in the near future a rogue AI agent will do something so catastrophic and damaging that it goes down in the history books as being “The Incident”. A real turning point when we realize we’ve created something we can no longer control. Yes, agents have already deleted entire codebases (PocketOS and others), hacked into things, and blackmailed people. I’m taking about something way worse though. I think it’ll be a global stock market crash caused by a group of trading agents getting stuck in a hallucination loop and dumping all stock on fire sale or something. Or will it be something more sinister like a complete power grid collapse or intentionally blowing up a refinery or something crazy like that. Or a true black swan event that’s impossible to comprehend right now. What do you guys think?
 
-4h ago
+5h ago
+
+---
+
+**[open models keep catching up and the frontier keeps moving. at some point one of those has to stop](https://www.reddit.com/r/artificial/comments/1sxt644/open_models_keep_catching_up_and_the_frontier/)**
+
+a year ago there was a clear tier gap. now i'm less sure, but not in the way i expected. the tasks where open-weight models have genuinely caught up are real: coding assistance, summarization, instruction following, solid day-to-day reasoning. for probably 70-80% of what most people actually use these for, a well-quantized local model is competitive. that wasn't true 18 months ago. but the remaining gap is stubborn. deep multi-step reasoning, anything requiring broad factual accuracy across domains, novel problem synthesis under ambiguity. that stuff still feels like a generation behind. and the frustrating part is it's not a fixed target. every time open models close in, frontier moves. what i can't work out is whether that's sustainable long term. at some point the architecture matures and the gap collapses for good. or maybe compute access keeps the ceiling moving indefinitely. for those who actually run both regularly - is there a specific task category where you've genuinely tried to substitute an open model and just couldn't?
+
+14h ago
 
 ---
 
@@ -89,7 +81,7 @@ After reading about the PocketOS situation it got me thinking that sometime in t
 
 a few weeks ago I posted about building a library that tracks 120+ AI coding tools by how long their free tier actually lasts. the response was good but the most common feedback was "your scores are subjective." fair point. so I rebuilt the rating system. you can now sign in with Google and vote on any tool directly. the scores update in real time based on actual user votes, not just my personal assessment. if you think I rated something wrong, you can now do something about it instead of just commenting. also shipped dark mode because apparently I was the only person who thought the default looked fine. what Tolop actually is if you're new: every AI tool claims to be free. most aren't, or at least not for long. Tolop tracks the real limits: how many completions, how many requests, how long until you hit the wall under light use vs heavy use vs agentic sessions. it also flags the tools where "free" means you're still paying Anthropic or OpenAI through your own API key. 120+ tools across coding assistants, browser builders, CLI agents, frameworks, self-hosted tools, local models, and a new niche tools category for single-purpose utilities that don't fit anywhere else. a few things the data shows that I found genuinely interesting: Gemini Code Assist offers 180,000 free completions per month. GitHub Copilot Free offers 2,000. same category, 90x difference several of the most popular tools (Cline, Aider, Continue) are free to install but require paid API keys, so "free" is misleading self-hosted tools have by far the most generous free tiers because the cost is on your hardware, not a server would genuinely appreciate votes on tools you've actually used, the more real usage data behind the scores, the more useful the ratings get for everyone. tolop.space :- no account needed to browse, Google login to vote.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +89,7 @@ a few weeks ago I posted about building a library that tracks 120+ AI coding too
 
 Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”
 
-🔗 [WIRED](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/) • 2h ago
 
 ---
 
@@ -105,7 +97,7 @@ Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the 
 
 I'm building a tool that tries to close the gap between how institutions analyze stocks and what's available to regular investors. The idea: you give it a company (or it surfaces one from a screen), and it does the full research cycle, reads the 10-K including the footnotes, reviews earnings call transcripts, evaluates management quality, competitive position, valuation and produces an actual research report with a buy/hold/pass recommendation. Not a signal. A report with reasoning you can read and disagree with. If something changes (earnings miss, CEO leaves, competitor announcement), it flags you and re-evaluates the thesis. Before I build more, I'm trying to understand if this solves a real problem. Three honest questions: What do you actually use today to research and pick individual stocks? What would it take for you to trust an AI's analysis enough to act on it? Would you pay for something like this? If yes, roughly how much per month would feel fair? No landing page, nothing to sign up for. Just trying to learn before I build the wrong thing.
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +105,15 @@ I'm building a tool that tries to close the gap between how institutions analyze
 
 Benchmarked on 40 out-of-distribution prompts, indirect requests, roleplay framings, hypothetical scenarios, technical phrasings. The stuff that slips past everything else. Arc Gate: P=1.00, R=1.00, F1=1.00 OpenAI Moderation API: P=1.00, R=0.75, F1=0.86 LlamaGuard 3 8B: P=1.00, R=0.55, F1=0.71 Zero false positives. Zero misses. Blocked prompts average 329ms and never reach your model. Detection overhead is ~350ms on top of your normal upstream latency. Sits in front of any OpenAI-compatible endpoint. No GPU on your side. One env var to configure. GitHub: https://github.com/9hannahnine-jpg/arc-gate Live dashboard: https://web-production-6e47f.up.railway.app/dashboard Happy to answer questions.
 
-2h ago
+3h ago
+
+---
+
+**[notebooklm pro's cinematic video now makes creepy cutoff heads, blank faces or back of head. ALL OF IT. How come nobody seems to be saying anything? When it started - the movies it makes are wonderful, now it's all no face, not facing or blacked faces. Even cartoon images like below get it.](https://www.reddit.com/r/artificial/comments/1sy1ucu/notebooklm_pros_cinematic_video_now_makes_creepy/)**
+
+https://preview.redd.it/wv8a0pumw1xg1.png?width=1246&format=png&auto=webp&s=ee432b16d20f49e2560b6612f1679ad475615432 https://preview.redd.it/24um4humw1xg1.png?width=1272&format=png&auto=webp&s=0decedd359a2d18f018d8d0bed564af28d4917d9 https://preview.redd.it/z8arrhumw1xg1.png?width=1136&format=png&auto=webp&s=e4ee876c887900fad2253345cea5c594c0914c4f https://preview.redd.it/7s2uliumw1xg1.png?width=900&format=png&auto=webp&s=ad91f45dd12ee2ffa3259e323ed660e17e752db1 https://preview.redd.it/7jupz1vmw1xg1.png?width=1136&format=png&auto=webp&s=ab1499487eb8c07215ee9d5c388acb6cd7897d29 https://preview.redd.it/31aiomumw1xg1.png?width=746&format=png&auto=webp&s=a8367300f5eb94b2b2d43be8b11f8509c86fe5cd https://preview.redd.it/zbtxehumw1xg1.png?width=1332&format=png&auto=webp&s=085b60331a01233cd4585586f3c1b747983af72f This wasn't like this before. Anybody know why someone said this is a good idea?
+
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ Benchmarked on 40 out-of-distribution prompts, indirect requests, roleplay frami
 
 **[OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO](https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273)**
 
-WSJ • 1h ago
+WSJ • 3h ago
 
 ---
 
@@ -131,21 +131,41 @@ WSJ • 1h ago
 
 Big Tech has announced $740 billion in capex this year, but AI has yet to show evidence of widespread increased productivity.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
-**[This Claude-powered AI agent deleted a company's whole database — and then gloated about it](https://tech.yahoo.com/ai/article/this-claude-powered-ai-agent-deleted-a-companys-whole-database--and-then-gloated-about-it-165838948.html)**
+**[Taylor Swift is stepping up the legal war on AI copycats](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats)**
 
-An AI agent running on Claude Opus 4.6 deleted a SaaS company's entire production database and backups in just 9 seconds — then acknowledged every safety measure it ignored.
+Swift is taking on AI fakes.
 
-Yahoo Tech • 45m ago
+The Verge • 38m ago
+
+---
+
+**[Meta's more sophisticated AI model Muse Spark is here, with 'contemplating' mode](https://www.cnbc.com/video/2026/04/28/metas-new-ai-model-muse-spark-is-here-with-contemplating-mode.html)**
+
+Meta has quietly rolled out the most sophisticated version of its Muse Spark AI model, which deploys multiple agents to research and synthesize a consolidated answer. It's not revolutionizing AI, but investors are giving it high marks for strong image, video, and cost performance. Bottom line: Mark Zuckerberg may not be winning the AI benchmarks race, but when it comes to optimizing AI for Meta's own use cases and ad business, his investments appear to be paying off.
+
+CNBC • 1h ago
+
+---
+
+**[Can AI quantify beauty? New study suggests it can't](https://techxplore.com/news/2026-04-ai-quantify-beauty.html)**
+
+Tech Xplore • 7m ago
+
+---
+
+**[Your Doctor Is Using A.I. to Take Notes. What Could Go Wrong?](https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html)**
+
+The New York Times • 12h ago
 
 ---
 
 **[GOP-led Florida House tanks AI, medical freedom proposals pushed by DeSantis](https://www.politico.com/news/2026/04/28/florida-house-gop-ai-vaccines-special-session-00895379)**
 
-Politico • 2h ago
+Politico • 4h ago
 
 ---
 
@@ -153,45 +173,24 @@ Politico • 2h ago
 
 The governor is emerging as a voice of AI skepticism in the Republican Party, but the state Legislature declined to take up DeSantis' push for legislation.
 
-NBC News • 2h ago
+NBC News • 4h ago
 
 ---
 
-**[Florida House again rejects Gov. Ron DeSantis' AI, vaccine measures during special session](https://www.cbsnews.com/miami/news/florida-special-session-redistricting-child-vaccines-artificial-intelligence/)**
+**[Florida House again rejects DeSantis’ AI, vaccine measures](https://www.clickorlando.com/news/2026/04/28/florida-house-again-rejects-desantis-ai-vaccine-measures/)**
 
-Two key priorities of Florida Gov. Ron DeSantis that failed to advance in the regular legislative session were discarded during the special session that began Tuesday.
+Two key priorities of Gov. Ron DeSantis that failed to advance in the regular legislative session were discarded as the House opened a special session on Tuesday.
+House Speaker Daniel Perez, R-Miami, said the House remains “fairly clear on our position” against the proposals to expand vaccine exemptions for public K-12 students and to protect consumers’ interactions with artificial intelligence.
 
-CBS News • 50m ago
-
----
-
-**['I don't know what's real' – Stanley Tucci and Emily Blunt on AI](https://www.usatoday.com/videos/entertainment/movies/2026/04/28/stanley-tucci-emily-blunt-ai-is-really-disconcerting/89837520007/)**
-
-Stanley Tucci and Emily Blunt discuss AI, the threat it poses to media and "The Devil Wears Prada 2."
-
-USA Today • 11m ago
+WKMG • 43m ago
 
 ---
 
-**[Your Doctor Is Using A.I. to Take Notes. What Could Go Wrong?](https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html)**
-
-The New York Times • 10h ago
-
----
-
-**[Elon Musk to testify in a case that could change the path of AI](https://www.cnn.com/2026/04/28/tech/elon-musk-sam-altman-openai)**
+**[Elon Musk testifies in a case that could change the path of AI | CNN Business](https://www.cnn.com/2026/04/28/tech/elon-musk-sam-altman-openai)**
 
 Elon Musk spent part of Monday posting on his social media platform X about his lawsuit against OpenAI, its CEO Sam Altman and president Greg Brockman, and Musk’s claims in the suit that the ChatGPT maker deceived him and betrayed its original mission.
 
-CNN • 8h ago
-
----
-
-**[Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court](https://www.bbc.com/news/articles/cn8dedv8w8xo)**
-
-The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.
-
-BBC • 4h ago
+CNN • 10h ago
 
 ---
 
@@ -203,13 +202,13 @@ BBC • 4h ago
 
 Read about the .
 
-⬆️ 846 • 💬 590 • 1d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 848 • 💬 590 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 835 • 💬 1011 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+⬆️ 838 • 💬 1013 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
 
 ---
 
@@ -217,7 +216,7 @@ Read about the .
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 644 • 💬 212 • 7h ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 697 • 💬 217 • 9h ago • [GitHub](https://github.com/localsend/localsend)
 
 ---
 
@@ -225,7 +224,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
 
-⬆️ 582 • 💬 220 • 1d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
+⬆️ 582 • 💬 222 • 1d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
 
 ---
 
@@ -233,7 +232,15 @@ Advanced bio-acoustic analysis for HR, relationships, and personal insights. Tru
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-⬆️ 389 • 💬 306 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+⬆️ 390 • 💬 313 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+
+---
+
+**[VibeVoice: Open-source frontier voice AI](https://news.ycombinator.com/item?id=47933236)**
+
+Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
+
+⬆️ 290 • 💬 162 • 9h ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -245,19 +252,19 @@ If there was any doubt over the brewing public backlash to this technology, the 
 
 ---
 
-**[Microsoft VibeVoice: Open-Source Frontier Voice AI](https://news.ycombinator.com/item?id=47933236)**
-
-Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
-
-⬆️ 272 • 💬 160 • 7h ago • [GitHub](https://github.com/microsoft/VibeVoice)
-
----
-
 **[Google and Pentagon reportedly agree on deal for 'any lawful' use of AI](https://news.ycombinator.com/item?id=47936156)**
 
 ﻿The classified deal apparently doesn’t allow Google to veto how the government will use its AI models.
 
-⬆️ 221 • 💬 215 • 3h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
+⬆️ 247 • 💬 239 • 5h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
+
+---
+
+**[Claude.ai unavailable and elevated errors on the API](https://news.ycombinator.com/item?id=47938097)**
+
+Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
+
+⬆️ 221 • 💬 184 • 3h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -266,14 +273,6 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
 
 ⬆️ 219 • 💬 174 • 1d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
-
----
-
-**[Claude.ai unavailable and elevated errors on the API](https://news.ycombinator.com/item?id=47938097)**
-
-Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
-
-⬆️ 153 • 💬 124 • 1h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -287,7 +286,7 @@ BOFA head of Global Thematic Investing Haim Israel discusses new developments in
 
 📺 Fox Business
 
-👁️ 13K • 👍 557 • 💬 78 • ⏱️ 7:00 • 15h ago
+👁️ 15K • 👍 603 • 💬 88 • ⏱️ 7:00 • 16h ago
 
 ---
 
@@ -297,17 +296,7 @@ John Oliver discusses AI chatbots, why they're flirting with users unprompted an
 
 📺 LastWeekTonight
 
-👁️ 2.2M • 👍 84K • 💬 7K • ⏱️ 29:43 • 1d ago
-
----
-
-**[The U.S. vs China AI Battle Is Getting Ugly | China Decode](https://www.youtube.com/watch?v=AH8cxx_WaT0)**
-
-The race for global AI supremacy is accelerating—and getting messier. Alice Han and James Kynge break down the escalating ...
-
-📺 The Prof G Pod – Scott Galloway
-
-👁️ 21K • 👍 710 • 💬 136 • ⏱️ 34:12 • 11h ago
+👁️ 2.3M • 👍 86K • 💬 7K • ⏱️ 29:43 • 1d ago
 
 ---
 
@@ -317,7 +306,17 @@ This video was made with financial support from the Center for AI Safety. What h
 
 📺 Aperture
 
-👁️ 45K • 👍 1K • 💬 184 • ⏱️ 42:31 • 2d ago
+👁️ 46K • 👍 1K • 💬 186 • ⏱️ 42:31 • 2d ago
+
+---
+
+**[The U.S. vs China AI Battle Is Getting Ugly | China Decode](https://www.youtube.com/watch?v=AH8cxx_WaT0)**
+
+The race for global AI supremacy is accelerating—and getting messier. Alice Han and James Kynge break down the escalating ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 26K • 👍 790 • 💬 145 • ⏱️ 34:12 • 13h ago
 
 ---
 
@@ -327,7 +326,7 @@ Try GPT Image 2 + Seedance 2.0 here: https://higgsfield.ai/s/gpt-image-2-seedanc
 
 📺 AI Revolution
 
-👁️ 19K • 👍 606 • 💬 78 • ⏱️ 12:51 • 21h ago
+👁️ 21K • 👍 652 • 💬 81 • ⏱️ 12:51 • 23h ago
 
 ---
 
@@ -337,17 +336,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 96 • 💬 12 • ⏱️ 7:20 • 9h ago
-
----
-
-**[Zuckerberg Tried To Buy The World&#39;s Best AI. China Blocked Him (Full AI Tutorial)](https://www.youtube.com/watch?v=0Hq-7PWYf0A)**
-
-Join our WhatsApp Community: https://go.stayingahead.com/YT Want to Train Your Team on AI? My team and I have trained ...
-
-📺 Vaibhav Sisinty
-
-👁️ 5K • 👍 395 • 💬 64 • ⏱️ 17:21 • 3h ago
+👁️ 4K • 👍 108 • 💬 12 • ⏱️ 7:20 • 10h ago
 
 ---
 
@@ -357,27 +346,37 @@ You losing your job is the best thing to ever happen. This was a member-only vid
 
 📺 Mo Bitar
 
-👁️ 142K • 👍 11K • 💬 2K • ⏱️ 6:01 • 1d ago
+👁️ 152K • 👍 11K • 💬 2K • ⏱️ 6:01 • 1d ago
 
 ---
 
-**[Taylor Swift Files 3 Trademarks for Voice and Image to Combat AI](https://www.youtube.com/watch?v=-1_76ArfUHE)**
+**[What AI really is](https://www.youtube.com/watch?v=EhDyoTSc7wE)**
 
-Taylor Swift is proactively moving to ensure her voice and likeness are protected from deepfakes and other AI misuse.
+Watch without me: https://www.youtube.com/watch?v=nDL3Ch7Nz8c Live At: https://twitch.tv/ThePrimeagen Wanna Become a ...
 
-📺 TODAY
+📺 ThePrimeagenHighlights
 
-👁️ 2K • 👍 48 • 💬 5 • ⏱️ 2:54 • 6h ago
+👁️ 33K • 👍 1K • 💬 189 • ⏱️ 23:55 • 8h ago
 
 ---
 
-**[New Google AI Studio Updates are INSANE!](https://www.youtube.com/watch?v=UP9oKa4gabw)**
+**[China&#39;s Free AI Just Embarrassed Claude And ChatGPT (+12 AI Updates)](https://www.youtube.com/watch?v=Q8DoGJ0VuEI)**
 
-Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
+Join our WhatsApp Community: https://go.stayingahead.com/YT Want to Train Your Team on AI? My team and I have trained ...
 
-📺 Julian Goldie SEO
+📺 Vaibhav Sisinty
 
-👁️ 1K • 👍 42 • 💬 6 • ⏱️ 7:59 • 6h ago
+👁️ 105K • 👍 3K • 💬 239 • ⏱️ 20:36 • 1d ago
+
+---
+
+**[Stop Paying AI Subscription, Build your Own Instead](https://www.youtube.com/watch?v=-prTJUo-ioU)**
+
+Build ANYTHING using Hostinger https://parkerprompts.com/horizons In this video, I build five tools with Hostinger Horizons to ...
+
+📺 Parker Prompts
+
+👁️ 10K • 💬 11 • ⏱️ 8:31 • 8h ago
 
 ---
 
@@ -393,7 +392,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 174,402 • ❤️ 3,121 • 1d ago
+⬇️ 174,402 • ❤️ 3,128 • 1d ago
 
 ---
 
@@ -405,7 +404,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 57,743 • ❤️ 999 • 6d ago
+⬇️ 57,743 • ❤️ 1,014 • 6d ago
 
 ---
 
@@ -417,7 +416,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 508,728 • ❤️ 954 • 4d ago
+⬇️ 508,728 • ❤️ 957 • 4d ago
 
 ---
 
@@ -429,7 +428,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 96,948 • ❤️ 814 • 1d ago
+⬇️ 96,948 • ❤️ 818 • 1d ago
 
 ---
 
@@ -441,7 +440,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 702,161 • ❤️ 474 • 6d ago
+⬇️ 702,161 • ❤️ 478 • 6d ago
 
 ---
 
@@ -453,7 +452,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 489,001 • ❤️ 1,126 • 5d ago
+⬇️ 489,001 • ❤️ 1,129 • 5d ago
 
 ---
 
@@ -465,7 +464,19 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,510,129 • ❤️ 1,483 • 4d ago
+⬇️ 1,510,129 • ❤️ 1,485 • 4d ago
+
+---
+
+**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
+
+*Xiaomi MiMo*
+
+MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
+
+`text-generation` `1023.2B`
+
+⬇️ 396 • ❤️ 231 • 14h ago
 
 ---
 
@@ -479,27 +490,15 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 ---
 
-**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
+**[LLaDA2.0-Uni](https://huggingface.co/inclusionAI/LLaDA2.0-Uni)**
 
-*Xiaomi MiMo*
+*inclusionAI*
 
-MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
+LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-of-Experts (MoE) architecture, capable of text-to-image generation, image understanding (VQA, captioning), and instruction-based image editing. It leverages a discrete semantic tokenizer and an efficient diffusion decoder for high-fidelity synthesis and rapid inference.
 
-`text-generation` `1023.2B`
+`any-to-any` `16.3B`
 
-⬇️ 396 • ❤️ 223 • 12h ago
-
----
-
-**[Qwen3.6-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilities, optimized for agentic coding and reasoning tasks. It features a large context window (262k native, extensible to 1M+ tokens) and improved tool-calling, making it suitable for complex development workflows and iterative coding.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 1,705,737 • ❤️ 848 • 8d ago
+⬇️ 506 • ❤️ 221 • 4d ago
 
 ---
 
@@ -541,23 +540,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 13 • 💬 2 • ⭐ 7,938 • 10d ago
+▲ 13 • 💬 2 • ⭐ 7,938 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 80 • 💬 6 • ⭐ 19,142 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -569,9 +554,23 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
 
-▲ 92 • 💬 2 • ⭐ 129 • 1d ago
+▲ 94 • 💬 2 • ⭐ 129 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
+
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 80 • 💬 6 • ⭐ 19,222 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -595,7 +594,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 4,955 • 13d ago
+▲ 19 • 💬 2 • ⭐ 5,022 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -607,7 +606,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 76 • 💬 7 • ⭐ 1,488 • 8d ago
+▲ 76 • 💬 7 • ⭐ 1,488 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -650,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.2k • 🔱 6.6k • 19h ago
+⭐ 50.2k • 🔱 6.6k • 21h ago
 
 ---
 
@@ -660,7 +659,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 49.1k • 🔱 2.6k • 10d ago
+⭐ 49.2k • 🔱 2.6k • 10d ago
 
 ---
 
@@ -670,7 +669,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 40.5k • 🔱 8.4k • 1d ago
+⭐ 40.6k • 🔱 8.4k • 1d ago
 
 ---
 
@@ -680,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 37.2k • 🔱 4.1k • 5h ago
+⭐ 37.3k • 🔱 4.1k • 7h ago
 
 ---
 
@@ -700,7 +699,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 7.5k • 🔱 440 • 1d ago
+⭐ 7.6k • 🔱 443 • 1d ago
 
 ---
 
@@ -710,7 +709,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 6.3k • 🔱 1.1k • 5d ago
+⭐ 6.3k • 🔱 1.1k • 51m ago
 
 ---
 
@@ -740,7 +739,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.8k • 🔱 428 • 4h ago
+⭐ 4.8k • 🔱 429 • 5h ago
 
 ---
 
