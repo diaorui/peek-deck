@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-28T22:31:33.980023+00:00'
+updated: '2026-04-28T23:56:03.719804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 28, 2026 at 22:31 UTC  
+**Last Updated:** April 28, 2026 at 23:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[A robot, that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1sxxue2/a_robot_that_picks_up_balls_and_shoots_them_into/)**
 
-11h ago
+13h ago
 
 ---
 
 **[Unitree G1’s self-balancing capabilities](https://www.reddit.com/r/robotics/comments/1sxxbby/unitree_g1s_selfbalancing_capabilities/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based motion imitation learning research benchmark specifically designed for biomechanically accurate muscle-actuated models. It focuses on advancing research in muscle-driven locomotion and manipulation through high-performance neural policy training.
 
-5h ago
+6h ago
 
 ---
 
 **[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based mot
 
 Been writing KUKA palletizing programs manually for a while and got tired of recalculating positions every time a product or pallet pattern changed. Built a web tool that takes your layout inputs, shows a 3D preview, and outputs production-ready KRL files for the KRC4. Free sample available if you want to test the code on your robot before buying — path2.io
 
-🔗 [youtube.com](http://www.youtube.com/watch?v=Ho2iKJ4GJ7Q) • 3h ago
+🔗 [youtube.com](http://www.youtube.com/watch?v=Ho2iKJ4GJ7Q) • 4h ago
 
 ---
 
@@ -70,7 +70,7 @@ Been writing KUKA palletizing programs manually for a while and got tired of rec
 
 A quick look at our custom quadruped robot for industrial inspection, built on a modified wheeled-leg platform. Solved: • Stair climbing and uneven terrain stability • Custom sensor payload integration • Real-time data transmission for inspection tasks Open to questions about custom deployments or industrial use cases — feel free to DM.
 
-14h ago
+15h ago
 
 ---
 
@@ -82,19 +82,19 @@ We're open-sourcing Asimov v1, a humanoid robot. We're releasing the mechanical 
 
 ---
 
-**[How do you personally track the humanoid robotics space right now?](https://www.reddit.com/r/robotics/comments/1syf02m/how_do_you_personally_track_the_humanoid_robotics/)**
-
-I’ve been deep in the humanoid robotics space lately and noticed there really isn’t a central place to track all the major companies, platforms, specs, and progress in one spot. Right now, most of my research ends up scattered across: company websites YouTube Reddit X/Twitter random articles So I’m curious how people here keep up with the industry. What do you wish existed? Better comparison tools? Manufacturing tracking? Investor-focused analysis? Technical benchmarks? Timelines/progress tracking? Something else entirely? I’ve actually been building a small project around this idea, but I’m more interested in understanding how enthusiasts and professionals here think about the space before I take it further.
-
-58m ago
-
----
-
 **[Robotics Expanding Into Maritime Environments Like Hull Inspection and Underwater Systems](https://www.reddit.com/r/robotics/comments/1sy7r0y/robotics_expanding_into_maritime_environments/)**
 
 Shipping is becoming another real-world environment where robotics has to operate outside controlled conditions. Hull inspections that used to require divers are now being handled by autonomous and remotely operated systems using cameras, sonar, and ultrasonic sensing. These robots are working in low visibility, dealing with currents, corrosion, and limited connectivity. There’s also work happening around combining multiple systems. Underwater vehicles, aerial drones, and surface robots coordinating on inspection tasks. It starts to look closer to multi-robot systems than single-purpose machines.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/maritime-automation) • 5h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/maritime-automation) • 6h ago
+
+---
+
+**[How do you personally track the humanoid robotics space right now?](https://www.reddit.com/r/robotics/comments/1syf02m/how_do_you_personally_track_the_humanoid_robotics/)**
+
+I’ve been deep in the humanoid robotics space lately and noticed there really isn’t a central place to track all the major companies, platforms, specs, and progress in one spot. Right now, most of my research ends up scattered across: company websites YouTube Reddit X/Twitter random articles So I’m curious how people here keep up with the industry. What do you wish existed? Better comparison tools? Manufacturing tracking? Investor-focused analysis? Technical benchmarks? Timelines/progress tracking? Something else entirely? I’ve actually been building a small project around this idea, but I’m more interested in understanding how enthusiasts and professionals here think about the space before I take it further.
+
+2h ago
 
 ---
 
@@ -114,7 +114,23 @@ Here is their website OpenEXO. Perhaps it can help you build your first exoskele
 
 These robots may in future help clean cabins and operate ground support equipment.
 
-BBC • 12h ago
+BBC • 13h ago
+
+---
+
+**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
+
+Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
+
+The Guardian • 7h ago
+
+---
+
+**[JAL, GMO to test using humanoid robots for airport ground operations](https://english.kyodonews.net/articles/-/74999)**
+
+Japan Airlines Co. and GMO Internet Group Inc. said Monday they will launch a demonstration experiment using humanoid robots to move passengers' luggage at Tokyo's Haneda airport in May, to verify their potential for achieving labor efficiency in ground handling operations.
+
+Japan Wire by Kyodo News • 1d ago
 
 ---
 
@@ -122,7 +138,15 @@ BBC • 12h ago
 
 The robot, called Ace, held its own against elite players of the sport.
 
-The Conversation • 10h ago
+The Conversation • 12h ago
+
+---
+
+**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
+
+Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
+
+Bessemer Venture Partners • 7h ago
 
 ---
 
@@ -134,59 +158,31 @@ National Geographic • 1d ago
 
 ---
 
-**[Naperville robotics teams qualify for world championships](https://www.nctv17.org/news/naperville-robotics-teams-qualify-for-world-championships/)**
+**[Can automation and AI replace workers in the cannabis industry?](https://mjbizdaily.com/news/ai-and-robotics-are-taking-over-the-cannabis-industry-are-they-replacing-jobs/615663/)**
 
-Several Naperville robotics teams are headed around the country to VEX Robotics and FIRST world championships.
-
-NCTV17 • 1d ago
+MJBizDaily • 1d ago
 
 ---
 
-**[Appetronix acquires salad assembly robotics co Cibotica](https://agfundernews.com/rise-of-the-machines-appetronix-acquires-salad-assembly-robotics-co-cibotica)**
+**[Kraken Robotics: Tailwinds Are Too Strong To Ignore (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4894785-kraken-robotics-stock-tailwinds-are-too-strong-to-ignore)**
 
-"We figured we could do things exponentially better and faster if we combined resources," says Appetronix founder Nipun Sharma.
+Kraken Robotics' Covelya acquisition, at 9.7x 2025E adjusted EBITDA, is seen as accretive, expanding product offerings. See why KRKNF stock is a Buy.
 
-AgFunderNews • 9h ago
-
----
-
-**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
-
-Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
-
-Bessemer Venture Partners • 6h ago
+Seeking Alpha • 21h ago
 
 ---
 
-**[South Jersey students build LEGO robots to reach world championship](https://6abc.com/videoClip/18944780/)**
+**[Chinese robotics company relocates US HQ from California to Texas](https://www.bizjournals.com/dallas/news/2026/04/27/chinese-robotics-co-relocates-u-s-hq-to-dallas.html)**
 
-Brick by brick, they've built bots worth bringing to the world stage. Now, these students are preparing for their greatest test in robotics yet.
-
-6abc Philadelphia • 5h ago
+The Business Journals • 1d ago
 
 ---
 
-**[ATU Robotics Finishes Top 2 in the World for 2026](https://www.arkansastechnews.com/atu-robotics-finishes-top-2-in-the-world-for-2026/)**
+**[Humanoid robots may be about to break the 100-metre sprint record](https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/)**
 
-Arkansas Tech University finished runner-up in the 2026 VEX U Robotics World Championship at the America’s Center Convention Complex in St. Louis, Mo., April 25-27. The No. 2 in the world finish is the latest milestone in the rapid rise of ATU robotics. The team made its first appearance in…
+Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no obvious application in homes or factories?
 
-arkansastechnews.com • 8h ago
-
----
-
-**[A3 announces winners of the 2026 Joseph F. Engelberger Robotics Awards](https://www.mmh.com/article/a3_announces_winners_of_the_2026_joseph_f_engelberger_robotics_awards)**
-
-Robotics industry’s most prestigious honor recognizes global leadership and real-world applications advancing automation
-
-Modern Materials Handling • 3h ago
-
----
-
-**[Chinese robotics company relocates US HQ from California to Texas](https://www.wfaa.com/article/tech/chinese-robotics-co-relocates-us-hq-to-dallas/287-96e32279-405c-4680-9219-7517ec24b0ad)**
-
-The Chinese robotics company raised nearly $150 million at a $1.5 billion valuation.
-
-WFAA • 5h ago
+New Scientist • 10h ago
 
 ---
 
@@ -200,47 +196,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 12K • 👍 268 • 💬 34 • ⏱️ 4:53 • 2d ago
-
----
-
-**[Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches](https://www.youtube.com/watch?v=VVEzgYxDdrc)**
-
-Sony's advanced robot Ace has gone head to head with elite athletes, showcasing incredible speed, precision and reaction times ...
-
-📺 Global Update
-
-👁️ 29K • 💬 46 • ⏱️ 4:00 • 4d ago
-
----
-
-**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
-
-📺 Fox Business
-
-👁️ 68K • 👍 2K • 💬 467 • ⏱️ 10:17 • 5d ago
-
----
-
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
-
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
-
-📺 Barrett
-
-👁️ 14K • 👍 863 • 💬 16 • ⏱️ 5:43 • 5d ago
-
----
-
-**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
-
-For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
-
-📺 nature video
-
-👁️ 123K • 👍 2K • 💬 236 • ⏱️ 13:38 • 6d ago
+👁️ 13K • 👍 270 • 💬 34 • ⏱️ 4:53 • 2d ago
 
 ---
 
@@ -250,17 +206,45 @@ override Vex override competition game rules R23 R22 sg9 SG10 R26 R11 Sg2 SC8 #r
 
 📺 Luke does robotics
 
-👁️ 7K • 👍 277 • 💬 74 • ⏱️ 18:18 • 20h ago
+👁️ 8K • 👍 289 • 💬 77 • ⏱️ 18:18 • 22h ago
 
 ---
 
-**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
+**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
 
-Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
+Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
 
-📺 Carros Show
+📺 EL PAÍS
 
-👁️ 8K • 👍 178 • 💬 25 • ⏱️ 51:48 • 2d ago
+👁️ 59K • 👍 56 • 💬 17 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[The One Strategy Video You Need (Vex Robotics 2026 World Finals)](https://www.youtube.com/watch?v=pTolenAb1L4)**
+
+Joined by both World Champions to talk about the 2026 Worlds Finals matches #override Vex Pushback World Finals #robotics ...
+
+📺 Luke does robotics
+
+👁️ 3K • 👍 71 • 💬 19 • ⏱️ 30:32 • 1d ago
+
+---
+
+**[Secret robot dance interaction in Pragmata](https://www.youtube.com/watch?v=MSZWUnNXvXQ)**
+
+📺 SpectreX Gaming
+
+👁️ 976K • 👍 31K • 💬 559 • ⏱️ 0:22 • 5d ago
+
+---
+
+**[Khan Sir On Robot Doctor 🤖.](https://www.youtube.com/watch?v=YN4NopEsEKE)**
+
+Khan sir ne kaha Robots ko log doctor ka kam karne nhi dange. Rajshamani podcast Rajshamani robot doctor Rajshamani and ...
+
+📺 Grind and growth 
+
+👁️ 38K • 💬 13 • ⏱️ 0:24 • 6d ago
 
 ---
 
@@ -270,7 +254,27 @@ eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/
 
 📺 Stu’s Reviews
 
-👁️ 13K • 👍 115 • 💬 27 • ⏱️ 16:11 • 2d ago
+👁️ 13K • 👍 116 • 💬 27 • ⏱️ 16:11 • 2d ago
+
+---
+
+**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
+
+Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
+
+📺 Fox Business
+
+👁️ 69K • 👍 2K • 💬 467 • ⏱️ 10:17 • 5d ago
+
+---
+
+**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
+
+Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
+
+📺 Carros Show
+
+👁️ 8K • 👍 183 • 💬 26 • ⏱️ 51:48 • 2d ago
 
 ---
 
@@ -280,17 +284,7 @@ SUBSCRIBE: https://www.vex.com/YouTube -----------------------------------------
 
 📺 VEX Robotics
 
-👁️ 262K • 👍 2K • 💬 605 • ⏱️ 5:09 • 3d ago
-
----
-
-**[Heard some people like wheels？😁](https://www.youtube.com/watch?v=srPz8TRpZ_8)**
-
-Humanoid robots are the ideal form of general-purpose robots (perfect for general AI and human-derived data). They can work ...
-
-📺 Unitree Robotics
-
-👁️ 21.8M • 👍 9K • 💬 2K • ⏱️ 1:15 • 5d ago
+👁️ 271K • 👍 2K • 💬 605 • ⏱️ 5:09 • 4d ago
 
 ---
 
