@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T16:28:06.169666+00:00'
+updated: '2026-04-29T17:59:00.094161+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 16:28 UTC  
+**Last Updated:** April 29, 2026 at 17:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
+
+44m ago
+
+---
+
 **[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +48,7 @@ Robotics research and industry news
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,11 +58,19 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 ---
 
+**[Built an open-source tool to make rosbag analysis as easy as pandas and with semantic search on rosbags](https://www.reddit.com/r/robotics/comments/1sz4w05/built_an_opensource_tool_to_make_rosbag_analysis/)**
+
+A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
+
+52m ago
+
+---
+
 **[All3 raises $25M seed to scale AI‑powered construction robotics](https://www.reddit.com/r/robotics/comments/1syzo7p/all3_raises_25m_seed_to_scale_aipowered/)**
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 2h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 3h ago
 
 ---
 
@@ -70,7 +84,7 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 hello i wanna make a maze solving robot i made the chase and i did the wirings but when i took the code from chatgpt it doesnt runs alright and hits the wall need help
 
-10m ago
+1h ago
 
 ---
 
@@ -78,27 +92,13 @@ hello i wanna make a maze solving robot i made the chase and i did the wirings b
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-15h ago
+16h ago
 
 ---
 
 **[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
 
-10h ago
-
----
-
-**[MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale](https://www.reddit.com/r/robotics/comments/1sy7j4g/musclemimic_unlocking_fullbody_musculoskeletal/)**
-
-github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based motion imitation learning research benchmark specifically designed for biomechanically accurate muscle-actuated models. It focuses on advancing research in muscle-driven locomotion and manipulation through high-performance neural policy training.
-
-23h ago
-
----
-
-**[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
-
-1d ago
+11h ago
 
 ---
 
@@ -130,9 +130,11 @@ JAL • 2d ago
 
 ---
 
-**[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
+**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
 
-Bloomberg • 3h ago
+Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
+
+Chicago Tribune • 23h ago
 
 ---
 
@@ -140,7 +142,7 @@ Bloomberg • 3h ago
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
@@ -152,11 +154,9 @@ The Conversation • 1d ago
 
 ---
 
-**[A North Texas high school robotics team is one of the best in the world. Now, they're heading to the World Championship to prove it](https://www.wfaa.com/article/news/local/collin-county/allen-robotics-team-heads-to-world-championship-with-top-global-ranking-and-historic-season/287-29837af8-ba67-4138-93b3-3efdf5e09bcc)**
+**[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
 
-WORLDS BEST | A North Texas high school robotics team is already ranked one of the best in the world. Now, they're ending a historic season at a World Championship.
-
-WFAA • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -164,7 +164,15 @@ WFAA • 1d ago
 
 Explore the top humanoid robots from Tesla, Unitree, Agility Robotics, UBTech, and more, ranked by momentum, real-world use, and commercial potential.
 
-eWeek • 6h ago
+eWeek • 7h ago
+
+---
+
+**[St. Louis students 'want to win' at international robotics competition held downtown](https://www.stltoday.com/news/local/education/article_cc7f237b-6194-4a53-9f16-a9b781a593af.html)**
+
+The VEX Robotics World Championship at America's Center is hosting thousands of students including six teams from Gateway Science Academy.
+
+STLtoday.com • 1h ago
 
 ---
 
@@ -173,14 +181,6 @@ eWeek • 6h ago
 Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no obvious application in homes or factories?
 
 New Scientist • 1d ago
-
----
-
-**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
-
-Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
-
-Bessemer Venture Partners • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 23K • 👍 798 • 💬 57 • ⏱️ 24:02 • 8h ago
+👁️ 41K • 👍 1K • 💬 74 • ⏱️ 24:02 • 9h ago
 
 ---
 
@@ -204,7 +204,17 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 13K • 👍 280 • 💬 37 • ⏱️ 4:53 • 3d ago
+👁️ 13K • 👍 281 • 💬 36 • ⏱️ 4:53 • 3d ago
+
+---
+
+**[Elon Musk and Mark Zuckerberg robot dogs roam around museum in Germany](https://www.youtube.com/watch?v=CM3M1oAjFnI)**
+
+Robot dogs with hyper-realistic silicone heads modeled after famous figures like Elon Musk and Mark Zuckerberg are roaming a ...
+
+📺 Associated Press
+
+👁️ 20K • 👍 575 • 💬 171 • ⏱️ 0:59 • 17h ago
 
 ---
 
@@ -214,37 +224,7 @@ ABC News' Britt Clennett explores the world's newest robot, the humanoid, which 
 
 📺 ABC News
 
-👁️ 11K • 👍 170 • 💬 68 • ⏱️ 7:55 • 13h ago
-
----
-
-**[Best Vex Override Robot Designs! (Early Season)](https://www.youtube.com/watch?v=SrxsSzHNpB0)**
-
-Early season Override is already being talked about like crazy. In this video I break down 2 robot designs that I think have serious ...
-
-📺 Luke does robotics
-
-👁️ 7K • 👍 306 • 💬 50 • ⏱️ 12:17 • 20h ago
-
----
-
-**[Sony’s Ace: Ping Pong Robot](https://www.youtube.com/watch?v=3EDxvBW-Asc)**
-
-Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rules - the first robot to do in 43 years of research.
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 12K • 👍 1K • 💬 52 • ⏱️ 2:56 • 1d ago
-
----
-
-**[Freeze Rocket Waymaker Is WAY Better Than Anyone Thought... Massive +40% Damage | War Robots](https://www.youtube.com/watch?v=L29Yz2q9E1M)**
-
-The Waymaker Brawler is terrifying. We have tried out the Waymaker as a sniper with the new weapons and it is absolutely insane ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 344 • 💬 27 • ⏱️ 14:58 • 1d ago
+👁️ 14K • 👍 201 • 💬 79 • ⏱️ 7:55 • 15h ago
 
 ---
 
@@ -254,7 +234,35 @@ Joined by both World Champions to talk about the 2026 Worlds Finals matches #ove
 
 📺 Luke does robotics
 
-👁️ 4K • 👍 76 • 💬 21 • ⏱️ 30:32 • 1d ago
+👁️ 4K • 👍 78 • 💬 21 • ⏱️ 30:32 • 1d ago
+
+---
+
+**[Sony’s Ace: Ping Pong Robot](https://www.youtube.com/watch?v=3EDxvBW-Asc)**
+
+Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rules - the first robot to do in 43 years of research.
+
+📺 ZAUEY (Claire Zau)
+
+👁️ 12K • 👍 1K • 💬 53 • ⏱️ 2:56 • 1d ago
+
+---
+
+**[Robot Vacuum Running! Dyson Edition #2](https://www.youtube.com/watch?v=Ce5Nv0cGGrs)**
+
+📺 Planet Roomba
+
+👁️ 611 • ⏱️ 13:34 • 3h ago
+
+---
+
+**[Robotics Professor Answers Robot Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=jZwuCtc2SoU)**
+
+Professor Aaron Ames of the California Institute of Technology joins WIRED to answer the internet's burning question about ...
+
+📺 WIRED
+
+👁️ 57K • 👍 2K • 💬 141 • ⏱️ 21:47 • 1d ago
 
 ---
 
@@ -264,27 +272,17 @@ War Robots - YouTubers battle each other in a friendly show match during the War
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 316 • 💬 52 • ⏱️ 23:11 • 1d ago
+👁️ 5K • 👍 328 • 💬 53 • ⏱️ 23:11 • 1d ago
 
 ---
 
-**[The Death of Manual Labor: Inside the Lights-Out Factory 🤯🤖 #shorts](https://www.youtube.com/watch?v=GTirJuXafC0)**
+**[Best Vex Override Robot Designs! (Early Season)](https://www.youtube.com/watch?v=SrxsSzHNpB0)**
 
-This Automated Shrink-Wrap System reveals the hidden reality of how 24/7 production lines operate with zero human intervention.
+Early season Override is already being talked about like crazy. In this video I break down 2 robot designs that I think have serious ...
 
-📺 CAD COMPANY
+📺 Luke does robotics
 
-👁️ 2.0M • 👍 5K • 💬 43 • ⏱️ 0:06 • 2d ago
-
----
-
-**[Japanese airport trials robot baggage handler](https://www.youtube.com/watch?v=0ylZbrKLDkA)**
-
-Japanese baggage handlers will soon be joined by robotic colleagues at Tokyo's Haneda Airport as one of the nation's biggest ...
-
-📺 ABC News
-
-👁️ 3K • 👍 80 • 💬 13 • ⏱️ 1:07 • 7h ago
+👁️ 8K • 👍 330 • 💬 53 • ⏱️ 12:17 • 22h ago
 
 ---
 
