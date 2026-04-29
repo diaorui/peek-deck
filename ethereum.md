@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-29T22:31:21.340437+00:00'
+updated: '2026-04-29T23:55:26.894536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - videos
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 22:31 UTC  
+**Last Updated:** April 29, 2026 at 23:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
+**24h:** -1.7%  
 **7d:** -3.3%  
 **30d:** +6.9%  
 **90d:** -16.8%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $270.58B
+**Market Cap:** $272.04B
 Rank #2
 
 **Circulating Supply:** 120,688,027 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.7%
+-54.4%
 
 **All-Time Low:** $0.43
-+517682.6%
++520528.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Solidity Team on April 29, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 8h ago
-
----
-
-**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
-
-Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
-
-20h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 9h ago
 
 ---
 
@@ -96,13 +88,21 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 
 What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
 
-🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 7h ago
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 8h ago
+
+---
+
+**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
+
+Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
+
+21h ago
 
 ---
 
 **[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -154,15 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
 
-The Block • 17h ago
-
----
-
-**[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://finance.yahoo.com/markets/crypto/articles/whales-selling-ethereum-10-dormant-093215239.html)**
-
-A long-dormant Ethereum ICO wallet moved 10,000 ETH after nearly 11 years. Bitmine continues aggressive ETH accumulation. Derivatives volume far exceeding spot trading suggests increased ...
-
-Yahoo Finance • 12h ago
+The Block • 18h ago
 
 ---
 
@@ -170,15 +162,15 @@ Yahoo Finance • 12h ago
 
 A wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
-**[How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum](https://finance.yahoo.com/video/how-bitmines-tom-lee-is-becoming-the-michael-saylor-of-ethereum-163024520.html)**
+**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
 
-Fundstrat co-founder Tom Lee is bullish on ethereum (ETH-USD), from his recent comments to Bitmine's (BMNR) largest ether purchase of 2026. Scott Melker discusses the details above."The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -190,19 +182,27 @@ Fortune • 1d ago
 
 ---
 
-**[Bitmine buys $294m more Ethereum ahead of Clarity Act ‘markup in May’](https://www.dlnews.com/articles/markets/bitmine-buys-294m-more-ethereum-ahead-of-clarity-act-markup-in-may/)**
-
-Bitmine now owns 4.2% of total Ether supply Senate set to mark up Clarity Act in May, Senator Lummis says.
-
-dlnews.com • 1d ago
-
----
-
 **[FOMC Meeting Today: Powell Speech and Fed Interest Rate Decision Could Move BTC, ETH, XRP and Altcoins](https://coinpedia.org/news/fed-rate-cut-news-how-powells-words-could-move-btc-eth-and-altcoins/)**
 
 Today, the Federal Reserve is set to announce its April interest rate decision, and Jerome Powell's press conference begins at 12:00 AM IST. The market
 
-Coinpedia • 12h ago
+Coinpedia • 14h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC nears key support, ETH weakens, XRP slips below key EMA](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-nears-key-support-eth-weakens-xrp-slips-below-key-ema-202604290330)**
+
+Bitcoin (BTC) price is nearing key support at $75,648 on Wednesday, after two consecutive days of pullbacks this week.
+
+FXStreet • 20h ago
+
+---
+
+**[Ethereum news: Tom Lee touts ETH as 'wartime store of value' as Bitmine (BMNR) buys more](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)**
+
+The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -214,19 +214,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[New Crypto Pepeto Exchange Update Reaches Binance-Level While Ethereum Price Prediction Maps Path to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-update-reaches-binance-level-while-ethereum-price-prediction-maps-path-to-10-000-1036073831)**
-
-Dubai, UAE, April  28, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost tradin...
-
-markets.businessinsider.com • 1d ago
-
----
-
 **[NOWPayments Boosts USDT Processing Speed 5x on BSC and Ethereum to Improve Stablecoin Settlement Efficiency](https://thedefiant.io/news/press-releases/nowpayments-boosts-usdt-processing-speed-5x-on-bsc-and-ethereum-to-improve-stablecoin-settlement-efficiency)**
 
 Amsterdam, Netherlands, April 28th, 2026, Chainwire. NOWPayments, a crypto payment gateway, has significantly improved processing speed for transactions in USDT across major blockchain networks, achieving a fivefold acceleration in payment and payout ex...
 
 thedefiant.io • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html)**
+
+Bitcoin opened at $77,368.28 on Tuesday. The value of bitcoin at 7:10 a.m. ET fell even further to $76,472.05.  Ethereum opened at $2,303.33 on Tuesday. The value of ethereum continued falling as of 7:10 a.m. ET, moving down to $2,278.56.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 3K • 💬 29 • ⏱️ 5:55 • 12h ago
+👁️ 17K • 👍 3K • 💬 29 • ⏱️ 5:55 • 13h ago
 
 ---
 
@@ -250,77 +250,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 16K • 👍 1K • 💬 119 • ⏱️ 16:31 • 5h ago
-
----
-
-**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
-
-Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
-
-📺 Digital Asset News
-
-👁️ 24K • 👍 1K • 💬 145 • ⏱️ 23:39 • 1d ago
-
----
-
-**[CRITICAL ETHEREUM LEVEL HERE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-Y11mlkRmMA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 167 • 👍 13 • ⏱️ 5:22 • 13h ago
-
----
-
-**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 318 • 💬 82 • ⏱️ 14:56 • 1d ago
-
----
-
-**[🔴 LIVE Altcoin Analysis | BTC, ETH, SOL &amp; XRP Market Breakdown FOMC + Fed Interest Decision](https://www.youtube.com/watch?v=lUp0IIQGPIg)**
-
-Live Altcoin Analysis with Severin Join us as we break down BTC, ETH, SOL, XRP and requested altcoins using market structure, ...
-
-📺 Chart Champions
-
-👁️ 4K • 👍 353 • 💬 7 • ⏱️ 1:19:41 • 2h ago
-
----
-
-**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
-
-Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 415 • 💬 261 • ⏱️ 14:02 • 1d ago
-
----
-
-**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
-
-Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 365 • 💬 32 • ⏱️ 19:23 • 23h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=qbtzJl-_gy4)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 632 • 👍 61 • ⏱️ 5:16 • 7h ago
+👁️ 27K • 👍 2K • 💬 137 • ⏱️ 16:31 • 7h ago
 
 ---
 
@@ -330,7 +260,77 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 478 • 👍 48 • 💬 17 • ⏱️ 10:21 • 10h ago
+👁️ 645 • 👍 58 • 💬 28 • ⏱️ 10:21 • 12h ago
+
+---
+
+**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
+
+Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
+
+📺 Digital Asset News
+
+👁️ 25K • 👍 1K • 💬 145 • ⏱️ 23:39 • 1d ago
+
+---
+
+**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
+
+📺 Yahoo Finance
+
+👁️ 9K • 👍 329 • 💬 83 • ⏱️ 14:56 • 1d ago
+
+---
+
+**[CRITICAL ETHEREUM LEVEL HERE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-Y11mlkRmMA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 172 • 👍 14 • ⏱️ 5:22 • 14h ago
+
+---
+
+**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
+
+Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 368 • 💬 33 • ⏱️ 19:23 • 1d ago
+
+---
+
+**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
+
+Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 417 • 💬 261 • ⏱️ 14:02 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=qbtzJl-_gy4)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 736 • 👍 62 • ⏱️ 5:16 • 8h ago
+
+---
+
+**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
+
+Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
+
+📺 Paul Barron Network
+
+👁️ 60K • 👍 2K • 💬 129 • ⏱️ 21:33 • 2d ago
 
 ---
 
