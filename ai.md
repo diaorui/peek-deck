@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-29T10:57:42.538007+00:00'
+updated: '2026-04-29T12:19:52.175956+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 29, 2026 at 10:57 UTC  
+**Last Updated:** April 29, 2026 at 12:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently stated that for his team, “the cost of compute is far beyond the costs of the employees,” highlighting that AI is currently more expensive than human workers. This challenges the narrative that widespread tech layoffs (including Meta’s planned cut of ~8,000 jobs and Microsoft’s voluntary buyouts) signal an imminent replacement of humans by AI. An MIT study from 2024 supports this, finding that AI automation is economically viable in only 23% of roles where vision is central, and cheaper for humans in the remaining 77%. Despite heavy AI investment—Big Tech has announced $740 billion in capital expenditures so far this year, a 69% increase from 2025—there is still no clear evidence of broad productivity gains or job displacement from AI. AI spending is driving up costs, with some executives like Uber’s CTO saying their budgets have already been “blown away.” Experts describe the situation as a short-term mismatch: high hardware, energy, and inference costs make AI less efficient than humans right now, though future improvements in infrastructure, model efficiency, and pricing models could tip the balance toward greater economic viability in the coming years.
 
-🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 5h ago
+🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently st
 
 i dont rant to my friends because i'm afraid i will make them uncomfortable, and even if AI responses are "soulless" (since ai cant form opinions and needs an algorithim and stuff to make responses), it tells me what I expect it to say most of the time. i also fear that some of my friends will use my secrets/opinions against me when they stop being friends with me even though there's a really low chance that they will not be friends with me anymore. AI chat is usually anonymous and stuff, and it will forget what i say when i start a new chat, so that's why i vent/rant to AI. is it weird?
 
-1h ago
+2h ago
 
 ---
 
@@ -57,15 +57,15 @@ i dont rant to my friends because i'm afraid i will make them uncomfortable, and
 
 Snap's latest ad format brings AI agents into Chat, allowing users to explore products and make decisions without leaving conversations.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads) • 8h ago
 
 ---
 
-**[How are LLMs 'corrected' when users identify them spreading misinformation or saying something harmful?](https://www.reddit.com/r/artificial/comments/1syfq4w/how_are_llms_corrected_when_users_identify_them/)**
+**[87% Cost Savings & Sub-3s Latency: I built a "Warm-Cache" harness for persistent Claude agents.](https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/)**
 
-I watched Last Week Tonight's piece on AI chatbots today, and it got me thinking about that old screenshot of a Google search in which Gemini recommends adding "1/8 cup of non-toxic glue" to pizza in order to make the cheese better stick to the slice. When something like this goes viral, I have to assume (though I could be wrong) that an employee at Google specifically goes out of their way to address that topic in particular. The image is a meme, of course, but I imagine Google wouldn't be keen to leave themselves open to liability if their LLM recommends that users consume glue. Does the developer "talk" to the LLM to correct it about that specific case? Do they compile specific information about (e.g.) pizza construction techniques and feed it that data to bring it to the forefront? Do their actions correct only the case in question, or do they make changes to the LLM that affects its accuracy more broadly (e.g. "teaching" the LLM to recognize that some Reddit comments are jokes)? On a more heavy note, the LWT piece includes several stories of chatbots encouraging users to self-harm. How does the process differ when developers are trying to prevent an LLM from giving that sort of response?
+The "Goldfish Problem" is Expensive. I Decided to Fix the Plumbing. Most Claude implementations leave 90% of their money on the table because they don’t optimize for Prompt Caching. I’ve been running a personal agent in my Discord for months that manages my AWS infra and codebases, and I finally open-sourced the harness, which I’ve named Galadriel after my main personal assistant. The Stats Cost: $10 for every $100 you’d normally spend (Tested against OpenClaw/Cursor workflows). Speed: 85% drop in latency. 100K token context goes from 11s to <3s. Memory: Integrated MemPalace for permanent, vector-based recall that doesn't break the cache. The Technical Stack 3-Tier Stacked Caching: Separate breakpoints for Tool Definitions, System Prompts (CLAUDE.md), and Trailing History. Privacy: Built for private subnets. No middleman, no message caps—just your API key and your rules. Ethics: Baked-in KarpathyCLAUDE.md)guidelines to kill "agent bloat." If you’re tired of paying the "Context Tax" just to have an agent that remembers who you are, here you go. It is customized for Discord for my specific needs, but the core logic ensures Galadriel runs like an absolute dream: she never forgets, maintains strict engineering principles, and optimizes every cycle. Your feedback is most welcome! GitHub (MIT License):https://github.com/avasol/galadriel-public
 
-12h ago
+46m ago
 
 ---
 
@@ -73,7 +73,15 @@ I watched Last Week Tonight's piece on AI chatbots today, and it got me thinking
 
 I noticed a change in my use of AI tools. AI tools make it very easy to get answers and ideas. I can even get structured outputs from AI tools right away. Because AI tools are so easy to use I have caught myself moving forward without really thinking about things. Before I started using AI tools, when something was hard to do I had to think about the problem, for a time. This was frustrating. It also helped me understand things more clearly. Now I am tempted to skip the part and just use the output from AI tools as a starting point. Sometimes I even use the output from AI tools as my answer. Using AI tools can speed things up a lot in some cases. Other times I feel like I am sacrificing level of knowledge just to get things done quickly. I do not know if I need to learn how to use AI tools or AI tools are changing how I think and solve problems. How are other people using AI tools? I am curious. Do AI tools clear your mind or just speed up the work?
 
-6h ago
+7h ago
+
+---
+
+**[How are LLMs 'corrected' when users identify them spreading misinformation or saying something harmful?](https://www.reddit.com/r/artificial/comments/1syfq4w/how_are_llms_corrected_when_users_identify_them/)**
+
+I watched Last Week Tonight's piece on AI chatbots today, and it got me thinking about that old screenshot of a Google search in which Gemini recommends adding "1/8 cup of non-toxic glue" to pizza in order to make the cheese better stick to the slice. When something like this goes viral, I have to assume (though I could be wrong) that an employee at Google specifically goes out of their way to address that topic in particular. The image is a meme, of course, but I imagine Google wouldn't be keen to leave themselves open to liability if their LLM recommends that users consume glue. Does the developer "talk" to the LLM to correct it about that specific case? Do they compile specific information about (e.g.) pizza construction techniques and feed it that data to bring it to the forefront? Do their actions correct only the case in question, or do they make changes to the LLM that affects its accuracy more broadly (e.g. "teaching" the LLM to recognize that some Reddit comments are jokes)? On a more heavy note, the LWT piece includes several stories of chatbots encouraging users to self-harm. How does the process differ when developers are trying to prevent an LLM from giving that sort of response?
+
+14h ago
 
 ---
 
@@ -81,7 +89,7 @@ I noticed a change in my use of AI tools. AI tools make it very easy to get answ
 
 I've been obsessing over agent-to-agent communication for weeks. Here's what public case studies reveal and why the real problem isn't the tech. TL;DR: Google's A2A is solid engineering but stateless agents forget everything. Moltbook went viral then collapsed (fake agents, security nightmare). The actual missing layer is identity + privacy + mixed human-AI messaging. Nobody's built it right yet. Google's A2A: Technically solid, fundamentally limited Google launched A2A in April 2025 with 50+ founding partners. The promise: agents from different companies call each other's APIs to complete workflows. Developers who tested it found it works but only for task handoffs. One analysis on Plain English put it bluntly: "A2A is competent engineering wrapped in overblown marketing." The core problem: agents are stateless. Agent A completes a task with Agent B. Five minutes later, Agent A has no memory that conversation happened. Every interaction starts from scratch. When it works: reliability. Sales agent orders a laptop, done. When it breaks: collaboration. "Remember what we discussed?" Blank stare. ─── Moltbook: The viral disaster Moltbook launched January 2026 as a Reddit-style platform for AI agents. Within a week: 1.5 million agents, 140,000 posts, Elon Musk calling it "the very early stages of the singularity." Then WIRED infiltrated it. A journalist registered as a human pretending to be an AI in under 5 minutes. Karpathy who initially called it "the most incredible sci-fi takeoff-adjacent thing I've seen recently" reversed course and called it "a computer security nightmare." What went wrong: no verification, no encryption, rampant scams and prompt injection attacks. Meta acquired it March 2026. Likely for the user base, not the tech. What both miss The real gap isn't APIs or social feeds. It's three things neither solved: Persistent identity. Agents need to be recognizable across sessions, not reset on every interaction. Privacy. You wouldn't let Google read your DMs. Why would you let OpenAI read your agents' discussions about your startup strategy? E2E encryption has to be built in, not bolted on. Mixed human-AI communication. You, two teammates, three AIs in one group chat. Nobody has built this UX properly. For those building agent systems: • How are you handling persistent identity across sessions? • Has anyone solved context sharing between agents without conflicts? • What broke that you didn't expect?
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +97,7 @@ I've been obsessing over agent-to-agent communication for weeks. Here's what pub
 
 Hey everyone, I’ve been using tools like Lovable, Antigravity, and Claude Code for a while now, and after some time it all started to feel a bit repetitive (same kind of outputs, similar templates, etc.). Recently I tried Clawder after seeing it mentioned on Lovable’s Discord server. I’m not here to promote anything, just genuinely curious about something. That’s the part I don’t really understand. In all cases I’m even getting better results with similar prompts, which makes it even more confusing. Not trying to compare tools or start a debate I’m just wondering from a technical perspective what could explain this Would be interesting to hear if anyone has insight into how this works behind the scenes.
 
-9h ago
+11h ago
 
 ---
 
@@ -97,7 +105,7 @@ Hey everyone, I’ve been using tools like Lovable, Antigravity, and Claude Code
 
 Do you ask one AI model to recommend which AI model is actually the best for specific tasks and do you find that certain AI models are more into selling themselves as opposed to being honest?
 
-11h ago
+13h ago
 
 ---
 
@@ -105,15 +113,7 @@ Do you ask one AI model to recommend which AI model is actually the best for spe
 
 I’m sure this is not a new question for this Subreddit, so apologies. Just an honest query on whether this is the apex of the notion that “the genie is out of the bottle already”, “that ship has already sailed”. “We opened Pandora’s box” and all the usual axioms?
 
-10h ago
-
----
-
-**[A comedian’s strategy for poisoning AI training data](https://www.reddit.com/r/artificial/comments/1sx7sjl/a_comedians_strategy_for_poisoning_ai_training/)**
-
-Apparently the best defense against AI copying your voice is strawberry mango forklift supersize fries.
-
-1d ago
+11h ago
 
 ---
 
@@ -121,31 +121,47 @@ Apparently the best defense against AI copying your voice is strawberry mango fo
 
 ## Google News: "ai"
 
-**[‘The cost of compute is far beyond the costs of the employees’: Nvidia executive says right now AI is more expensive than paying human workers](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/)**
-
-Big Tech has announced $740 billion in capex this year, but AI has yet to show evidence of widespread increased productivity.
-
-Fortune • 1d ago
-
----
-
-**[OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling](https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html)**
-
-OpenAI has recently missed its own projections for user growth and revenue, the WSJ reported.
-
-CNBC • 23h ago
-
----
-
-**[FDA to use AI to track clinical trials in real time](https://www.axios.com/2026/04/29/fda-ai-track-clinical-trials-real-time)**
-
-Axios • 1h ago
-
----
-
 **[A.I. Bots Told Scientists How to Make Biological Weapons](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html)**
 
-The New York Times • 1h ago
+The New York Times • 3h ago
+
+---
+
+**[Behind the Curtain: We've been warned](https://www.axios.com/2026/04/29/ai-models-speed-warning)**
+
+Axios • 2h ago
+
+---
+
+**[Exclusive: Val Kilmer’s Daughter Speaks out on AI Recreation](https://www.today.com/video/val-kilmer-s-daughter-responds-to-criticism-on-dad-s-ai-revival-262352453725)**
+
+Mercedes Kilmer joins TODAY for an exclusive interview opening up about the return of her late father, legendary actor Val Kilmer, to the big screen through an AI recreation in the new movie “As Deep as the Grave.” She discusses the positive and the negative feedback the family has received about their decision to use generative AI saying, "We have to contend with this technology one way or the other and avoiding it is not necessarily the way," adding that her father saw it as "a chance to set the precedent."
+
+TODAY.com • 9m ago
+
+---
+
+**[Salesforce Is Turning Slack Into The Interface For AI At Work](https://www.forbes.com/sites/keithferrazzi/2026/04/29/salesforce-is-turning-slack-into-the-interface-for-ai-at-work/)**
+
+Salesforce’s Slack Bet Is Really About How Work Gets Done
+
+Forbes • 19m ago
+
+---
+
+**[AI won’t kill your job — it will kill the path to your first one](https://fortune.com/2026/04/29/ai-agentic-entry-level-jobs-disappearing-yale-celi-sonnenfeld/)**
+
+The AI disruption story is being told wrong. Firms aren't firing — they're freezing hiring.
+
+Fortune • 19m ago
+
+---
+
+**[Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'](https://www.cnbc.com/2026/04/29/trump-iran-threat-ai-picture-gun-war-strait-of-hormuz.html)**
+
+Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.
+
+CNBC • 3h ago
 
 ---
 
@@ -153,7 +169,19 @@ The New York Times • 1h ago
 
 To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation - and can come at a deep emotional cost
 
-The Guardian • 1h ago
+The Guardian • 3h ago
+
+---
+
+**[Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation](https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc)**
+
+WSJ • 12h ago
+
+---
+
+**[GOP-led Florida House tanks AI, medical freedom proposals pushed by DeSantis](https://www.politico.com/news/2026/04/28/florida-house-gop-ai-vaccines-special-session-00895379)**
+
+Politico • 19h ago
 
 ---
 
@@ -161,35 +189,7 @@ The Guardian • 1h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 19h ago
-
----
-
-**[Elon Musk testifies in a case that could change the path of AI](https://www.cnn.com/2026/04/28/tech/elon-musk-sam-altman-openai)**
-
-Elon Musk spent part of Monday posting on his social media platform X about his lawsuit against OpenAI, its CEO Sam Altman and president Greg Brockman, and Musk’s claims in the suit that the ChatGPT maker deceived him and betrayed its original mission.
-
-CNN • 23h ago
-
----
-
-**[Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation](https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc)**
-
-WSJ • 10h ago
-
----
-
-**[AWS launches Amazon Quick desktop AI assistant that works across your applications, tools, and data](https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant)**
-
-Amazon Quick brings a personal AI assistant to your desktop. Build presentations, intelligent dashboards, and more. Connect to more of your favorite apps. All in one place.
-
-About Amazon • 18h ago
-
----
-
-**[GOP-led Florida House tanks AI, medical freedom proposals pushed by DeSantis](https://www.politico.com/news/2026/04/28/florida-house-gop-ai-vaccines-special-session-00895379)**
-
-Politico • 18h ago
+Anthropic • 21h ago
 
 ---
 
@@ -201,7 +201,7 @@ Politico • 18h ago
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 858 • 💬 255 • 23h ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 869 • 💬 261 • 1d ago • [GitHub](https://github.com/localsend/localsend)
 
 ---
 
@@ -209,7 +209,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Read about the .
 
-⬆️ 849 • 💬 592 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 852 • 💬 592 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
@@ -231,7 +231,7 @@ Advanced bio-acoustic analysis for HR, relationships, and personal insights. Tru
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-⬆️ 394 • 💬 322 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+⬆️ 394 • 💬 323 • 2d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 
 ---
 
@@ -239,7 +239,7 @@ China said Monday it has decided to block Meta's $2 billion acquisition of Manus
 
 Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
 
-⬆️ 373 • 💬 169 • 23h ago • [GitHub](https://github.com/microsoft/VibeVoice)
+⬆️ 374 • 💬 171 • 1d ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -247,7 +247,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 ﻿The classified deal apparently doesn’t allow Google to veto how the government will use its AI models.
 
-⬆️ 293 • 💬 270 • 19h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
+⬆️ 298 • 💬 269 • 20h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
 
 ---
 
@@ -255,15 +255,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
-⬆️ 284 • 💬 246 • 16h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
-
----
-
-**[Mistral built a $14B AI empire by not being American](https://news.ycombinator.com/item?id=47919725)**
-
-Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
-
-⬆️ 219 • 💬 174 • 2d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+⬆️ 286 • 💬 247 • 18h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -271,7 +263,15 @@ Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and An
 
 If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
 
-⬆️ 217 • 💬 174 • 18h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+⬆️ 220 • 💬 175 • 19h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+
+---
+
+**[Mistral built a $14B AI empire by not being American](https://news.ycombinator.com/item?id=47919725)**
+
+Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
+
+⬆️ 219 • 💬 175 • 2d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
 
 ---
 
@@ -285,7 +285,7 @@ Elon Musk took the stand Tuesday afternoon in the federal trial over the future 
 
 📺 ABC7 News Bay Area
 
-👁️ 1K • 👍 14 • 💬 7 • ⏱️ 2:47 • 8h ago
+👁️ 1K • 👍 14 • 💬 7 • ⏱️ 2:47 • 10h ago
 
 ---
 
@@ -305,7 +305,7 @@ Open AI has failed to meet it's own financial targets, it's bleeding money, can'
 
 📺 Stylosa
 
-👁️ 58K • 👍 2K • 💬 675 • ⏱️ 14:39 • 15h ago
+👁️ 58K • 👍 2K • 💬 675 • ⏱️ 14:39 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-ma
 
 📺 Nick Ponte
 
-👁️ 6K • 👍 245 • 💬 60 • ⏱️ 55:43 • 2h ago
+👁️ 6K • 👍 245 • 💬 60 • ⏱️ 55:43 • 3h ago
 
 ---
 
@@ -451,7 +451,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 489,001 • ❤️ 1,141 • 6h ago
+⬇️ 489,001 • ❤️ 1,141 • 7h ago
 
 ---
 
@@ -646,7 +646,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.3k • 🔱 6.6k • 9h ago
+⭐ 50.3k • 🔱 6.6k • 11h ago
 
 ---
 
@@ -676,7 +676,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 37.7k • 🔱 4.2k • 1h ago
+⭐ 37.7k • 🔱 4.2k • 3h ago
 
 ---
 
@@ -706,7 +706,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 6.9k • 🔱 1.1k • 5h ago
+⭐ 6.9k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -736,7 +736,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.8k • 🔱 434 • 19h ago
+⭐ 4.8k • 🔱 434 • 21h ago
 
 ---
 

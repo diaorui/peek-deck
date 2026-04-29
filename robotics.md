@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T10:57:42.555940+00:00'
+updated: '2026-04-29T12:19:52.193455+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 10:57 UTC  
+**Last Updated:** April 29, 2026 at 12:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
+**[A multimodal robot "testing" another one](https://www.reddit.com/r/robotics/comments/1sytxo9/a_multimodal_robot_testing_another_one/)**
 
-4h ago
+2h ago
 
 ---
 
-**[A multimodal robot "testing" another one](https://www.reddit.com/r/robotics/comments/1sytxo9/a_multimodal_robot_testing_another_one/)**
+**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
 
-1h ago
+6h ago
 
 ---
 
@@ -60,13 +60,13 @@ Robotics research and industry news
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-9h ago
+11h ago
 
 ---
 
 **[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -74,13 +74,21 @@ Most of us learned about rotation matrices (and quaternions to some extend) thro
 
 github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based motion imitation learning research benchmark specifically designed for biomechanically accurate muscle-actuated models. It focuses on advancing research in muscle-driven locomotion and manipulation through high-performance neural policy training.
 
-17h ago
+19h ago
 
 ---
 
 **[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
 
-20h ago
+22h ago
+
+---
+
+**[Looking for people going to ICRA 2026 in Vienna](https://www.reddit.com/r/robotics/comments/1syvrki/looking_for_people_going_to_icra_2026_in_vienna/)**
+
+Hey everyone :D I am a 23yo master‘s student looking for others who want to explore the conference together, grab a coffee or drink a beer afterwards. It’s my first conference so I am really looking forward to explore everything and I thought doing parts of it together would be nicer. Just hit me up if you also go and want to connect. We can exchange socials or text on Reddit. Looking forward to meeting you!
+
+1h ago
 
 ---
 
@@ -88,15 +96,7 @@ github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based mot
 
 I got frustrated with robot_localization on my outdoor robot and ended up rewriting sensor fusion from scratch. The result is FusionCore, a 22-state UKF that fuses IMU, wheel odometry, and GPS natively in ECEF coordinates. I benchmarked it against robot_localization on the NCLT dataset (6 outdoor sequences, GPS + IMU + wheels). FusionCore hit 4.2m average ATE RMSE. robot_localization with proper outlier gating averaged 21.8m. https://preview.redd.it/asonhtg9w1yg1.png?width=2475&format=png&auto=webp&s=13ff8af82fb84d0c7ba16dd1428b1588fd33730f The interesting part: when I finally got robot_localization's gating config right (the parameter is odom0_twist_rejection_threshold, not odom0_mahal_threshold which silently does nothing), it actually made RL worse on 4 out of 6 sequences. The reason: navsat_transform passes through whatever covariance the GPS receiver reports, and NCLT receivers report it way too tight. Good measurements were getting rejected. FusionCore sidesteps this by letting you set a noise floor directly. One config file, works with any IMU and GPS, drops into a Nav2 stack. No navsat_transform needed. https://github.com/manankharwar/fusioncore
 
-7h ago
-
----
-
-**[Would a follow-along robot dog actually make hiking better?](https://www.reddit.com/r/robotics/comments/1syuavi/would_a_followalong_robot_dog_actually_make/)**
-
-Hey everyone, I’m a huge outdoor fan and I work in the robotics field. I’ve been thinking a lot lately about how to make backcountry trips, hiking and wild camping less stressful and more enjoyable. I’ve been brainstorming a rugged, trail-capable four-legged robot built for outdoor life, designed around real outdoor struggles: • It could follow along and carry heavy camping gear, backpacks, water and supplies, to cut down heavy load and body fatigue. • Packed with a large battery to act as a portable power source for phones, cameras, headlamps and other gear out in the wild. • Include gentle light and sound warnings to deter small wild animals, for safer overnight camping. • Travel steadily on rough terrain, acting as a calm little companion, especially for people who hike or camp alone. I’m just curious to chat and hear real opinions from fellow outdoor lovers: Do you think this kind of follow robot would be helpful out on the trail? What’s the most annoying or tiring part of your camping and hiking trips day to day? Would you personally want a quiet, automatic robot companion joining your outdoor adventures? I also wonder what everyone would realistically expect — like how much weight you’d need it to carry, how long battery life should last, and what kind of budget and key features feel reasonable for outdoor gear like this. No sales, no polls, no data gathering. Just genuine curiosity and casual discussion. Always love hearing different perspectives, pros, cons and honest thoughts from people who spend time outdoors. Thanks everyone!
-
-59m ago
+8h ago
 
 ---
 
@@ -116,7 +116,7 @@ BBC • 1d ago
 
 Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
 
-The Guardian • 18h ago
+The Guardian • 20h ago
 
 ---
 
@@ -132,7 +132,23 @@ JAL • 2d ago
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 57m ago
+WIRED • 2h ago
+
+---
+
+**[Council bill aims to permanently disarm NYPD's robot dogs](https://gothamist.com/news/council-bill-aims-to-permanently-disarm-nypds-robot-dogs)**
+
+The bill, dubbed the ASIMOV Act, is a nod to science fiction author Isaac Asimov.
+
+Gothamist • 1h ago
+
+---
+
+**[Arrive AI is training delivery robots in simulation to cut testing time](https://www.stocktitan.net/news/ARAI/arrive-ai-deploys-nvidia-isaac-sim-and-blackwell-gpu-systems-to-dzdmvucj843s.html)**
+
+Ground-truth data from realistic digital environments speeds vision training and reduces manual labeling as its autonomous delivery network expands.
+
+Stock Titan • 51m ago
 
 ---
 
@@ -140,7 +156,7 @@ WIRED • 57m ago
 
 The robot, called Ace, held its own against elite players of the sport.
 
-The Conversation • 23h ago
+The Conversation • 1d ago
 
 ---
 
@@ -156,7 +172,7 @@ WFAA • 1d ago
 
 Inside the enduring appeal of machines that look, move, and increasingly think like humans.
 
-National Geographic • 1d ago
+National Geographic • 2d ago
 
 ---
 
@@ -164,23 +180,7 @@ National Geographic • 1d ago
 
 Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no obvious application in homes or factories?
 
-New Scientist • 21h ago
-
----
-
-**[China’s Unitree G1 Humanoid Robot Skates, Spins, and Flips in New Demo](https://www.eweek.com/news/chinese-unitree-g1-humanoid-robot-skates-spins-flips-apac/)**
-
-Unitree’s G1 humanoid robot uses wheels, roller skates, and ice skates in a new demo showing advances in robot mobility and control.
-
-eWeek • 18h ago
-
----
-
-**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
-
-Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
-
-Bessemer Venture Partners • 18h ago
+New Scientist • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 13K • 👍 278 • 💬 34 • ⏱️ 4:53 • 2d ago
+👁️ 13K • 👍 278 • 💬 34 • ⏱️ 4:53 • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ ABC News' Britt Clennett explores the world's newest robot, the humanoid, which 
 
 📺 ABC News
 
-👁️ 8K • 👍 129 • 💬 47 • ⏱️ 7:55 • 8h ago
+👁️ 8K • 👍 129 • 💬 47 • ⏱️ 7:55 • 9h ago
 
 ---
 
@@ -214,7 +214,7 @@ Early season Override is already being talked about like crazy. In this video I 
 
 📺 Luke does robotics
 
-👁️ 7K • 👍 274 • 💬 48 • ⏱️ 12:17 • 15h ago
+👁️ 7K • 👍 274 • 💬 48 • ⏱️ 12:17 • 16h ago
 
 ---
 
@@ -244,7 +244,7 @@ The Waymaker Brawler is terrifying. We have tried out the Waymaker as a sniper w
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 343 • 💬 27 • ⏱️ 14:58 • 22h ago
+👁️ 7K • 👍 343 • 💬 27 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ War Robots - YouTubers battle each other in a friendly show match during the War
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 306 • 💬 51 • ⏱️ 23:11 • 21h ago
+👁️ 4K • 👍 306 • 💬 51 • ⏱️ 23:11 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-29T10:57:42.546581+00:00'
+updated: '2026-04-29T12:19:52.184318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 10:57 UTC  
+**Last Updated:** April 29, 2026 at 12:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,590.35
+### $77,289.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -0.8%  
-**30d:** +13.6%  
-**90d:** -7.9%  
-**1y:** -17.6%  
+**24h:** +1.5%  
+**7d:** -1.1%  
+**30d:** +13.3%  
+**90d:** -8.1%  
+**1y:** -17.9%  
 
 ---
 
@@ -79,19 +79,35 @@ Rank #1
 
 **[Can't fix the world without fixing the money 🫡](https://www.reddit.com/r/Bitcoin/comments/1sykiya/cant_fix_the_world_without_fixing_the_money/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin Transparency Gets A Boost As Dorsey's Block Unveils Reserve Proof](https://www.reddit.com/r/Bitcoin/comments/1syrd33/bitcoin_transparency_gets_a_boost_as_dorseys/)**
 
-🔗 [bitcoincurate.com](https://bitcoincurate.com/go.php?id=headline&url=https%3A%2F%2Fbitcoinist.com%2Fbitcoin-transparency-gets-a-boost-as-dorseys-block-unveils-reserve-proof%2F&title=Bitcoin+Transparency+Gets+A+Boost+As+Dorsey%E2%80%99s+Block+Unveils+Reserve+Proof&source=Bitcoinist&cat=News&pos=5) • 3h ago
+🔗 [bitcoincurate.com](https://bitcoincurate.com/go.php?id=headline&url=https%3A%2F%2Fbitcoinist.com%2Fbitcoin-transparency-gets-a-boost-as-dorseys-block-unveils-reserve-proof%2F&title=Bitcoin+Transparency+Gets+A+Boost+As+Dorsey%E2%80%99s+Block+Unveils+Reserve+Proof&source=Bitcoinist&cat=News&pos=5) • 5h ago
 
 ---
 
 **[Steve Keen just went viral saying Bitcoin goes to zero. He predicted 2008 and he's no fool. But he's got this wrong.](https://www.reddit.com/r/Bitcoin/comments/1syt8ag/steve_keen_just_went_viral_saying_bitcoin_goes_to/)**
 
 Worth saying clearly before the usual dismissals start. For anyone who hasn't seen it: https://www.youtube.com/shorts/K-oX9mWYXNA Keen isn't Schiff and he doesn't have a predictable agenda. He's a complexity theorist who built dynamic models of the economy and called 2008 before almost anyone in his profession did, so his argument deserves a serious answer rather than ridicule. His case is straightforward. Bitcoin's security model requires proof-of-work to be expensive, because it has to cost more to attack the network than to defend it, and that means sustained, large-scale energy consumption. His contention is that climate policy will eventually make that politically untenable. The difficulty is that he's treating Bitcoin's energy use as though it were a fixed quantity, and it isn't. When energy becomes expensive or heavily regulated, miners operating on thin margins leave the network, hash rate falls, and the difficulty adjustment mechanism recalibrates automatically. The network reaches a new equilibrium at lower energy consumption, which is a straightforward consequence of how the protocol is designed, not a theoretical possibility. There's a second thing his argument doesn't account for. The renewable energy transition he's pointing to as the threat is simultaneously generating vast quantities of stranded power, meaning electricity produced at times or in locations where it simply cannot reach the grid, and miners are already the natural buyer of that energy. The same policy environment Keen believes will strangle Bitcoin is, through a different pathway, providing it with some of its cheapest and most abundant fuel. Keen has precisely the analytical background needed to understand Bitcoin properly, particularly feedback loops, non-linear dynamics and complex adaptive systems, and the frustrating thing is that he's applied those tools to the wrong model of what Bitcoin actually is. I've been working through this in some depth in a book published this month, The Satoshi Strategy, which applies System Dynamics formally to Bitcoin's economic architecture. Interested to hear whether anyone here has a formulation of the energy argument that actually survives this kind of analysis. (My book available in paperbook and ebook: https://www.amazon.com/Satoshi-Strategy-Bitcoin-Dynamics-Architecture/dp/B0GXSTGYTB/ref=tmm_pap_swatch_0
+
+3h ago
+
+---
+
+**[J-Pow’s Final FOMC is TODAY. BlackRock is vacuuming up the supply. Is the $80k wall finally going to break?](https://www.reddit.com/r/Bitcoin/comments/1syw2ki/jpows_final_fomc_is_today_blackrock_is_vacuuming/)**
+
+We are sitting at a historic crossroads today, April 29th. Jerome Powell is officially stepping down, and today marks his final FOMC press conference as Fed Chair. At the exact same time, we are watching BlackRock’s IBIT pull in hundreds of millions in net inflows daily, basically swallowing the daily mined supply whole. Yet, we are still bouncing between $77k and $79k, getting rejected at the $80,000 psychological barrier. With the US-Iran ceasefire calming the macro markets and the Fed transition looming, it feels like a coiled spring. Are we seeing massive OTC accumulation by institutions keeping the spot price down, or is the post-Powell era already priced in? What are your moves here? Are you front-running the new Fed Chair, or waiting for a confirmed break above $80k? Or does it not even matter to you and you just stack regardless of the fiat price?
+
+50m ago
+
+---
+
+**[COINJAR - a warning. Scam.](https://www.reddit.com/r/Bitcoin/comments/1syuoek/coinjar_a_warning_scam/)**
+
+Do NOT use CoinJar! They have my money, refuse to transfer any BitCoin into other wallets, and now, once I have converted in into GPB, are making it impossible for me to withdraw. I can't believe I got scammed by a reputable looking company - I thought I was better than that. Oh well, you live and learn.
 
 2h ago
 
@@ -101,23 +117,15 @@ Worth saying clearly before the usual dismissals start. For anyone who hasn't se
 
 Bitcoin 2026 opened with a virtually empty main stage, speakers dialling it in, security blunders, and a decimated NAKA stock price.
 
-🔗 [Protos](https://protos.com/bitcoin-2026-opens-to-empty-seats-protests-awkward-moments/) • 18h ago
-
----
-
-**[COINJAR - a warning. Scam.](https://www.reddit.com/r/Bitcoin/comments/1syuoek/coinjar_a_warning_scam/)**
-
-Do NOT use CoinJar! They have my money, refuse to transfer any BitCoin into other wallets, and now, once I have converted in into GPB, are making it impossible for me to withdraw. I can't believe I got scammed by a reputable looking company - I thought I was better than that. Oh well, you live and learn.
-
-39m ago
+🔗 [Protos](https://protos.com/bitcoin-2026-opens-to-empty-seats-protests-awkward-moments/) • 19h ago
 
 ---
 
 **[Ledger or Trezor](https://www.reddit.com/r/Bitcoin/comments/1syrbqp/ledger_or_trezor/)**
 
-i put out a thread asking for cold wallet ideas, and i got mixed responses some said trezor was the best, ledger was okay. Ive also been seeing around that ledger has some sort of a backdoor whereas trzer is completely open souse and is the best. Just wondering whaich is the best and why
+i put out a thread asking for cold wallet ideas, and i got mixed responses some said trezor was the best, ledger was okay. I've also been seeing that the ledger has some sort of a backdoor whereas trezor is completely open souse and is the best. Just wondering which is the best and why
 
-3h ago
+5h ago
 
 ---
 
@@ -125,7 +133,15 @@ i put out a thread asking for cold wallet ideas, and i got mixed responses some 
 
 Hi! Question for those who follow a “hold” strategy. If I understand correctly, the idea is simply to keep your Bitcoin long-term without selling, waiting for its value to potentially increase? So I’m wondering: do you have a specific price target where you plan to sell someday? Or is your vision more about waiting for Bitcoin to become widely adopted as an everyday currency, usable for regular purchases like any standard money?
 
-13h ago
+14h ago
+
+---
+
+**[A US Space Force officer argued Bitcoin mining is military power projection. The Pentagon quietly suppressed the book.](https://www.reddit.com/r/Bitcoin/comments/1sywifo/a_us_space_force_officer_argued_bitcoin_mining_is/)**
+
+In February 2023, Major Jason Lowery — an active US Space Force officer on a National Defense Fellowship at MIT — published a thesis called *Softwar*. His argument: Bitcoin's Proof-of-Work is not a monetary mechanism. It is a form of power projection. Whoever commands the most mining infrastructure commands the most defensible territory in the digital domain. He recommended the DoD treat Bitcoin mining as a national security priority — no differently than naval power or satellite positioning. Late 2024: the Department of Defense placed the book under retroactive security review. Commercial distribution was halted. Lowery was instructed to stop discussing Bitcoin publicly. No official statement. No denial. No explanation of any kind. The thesis is still accessible in MIT's repository. Physical copies reached $300 on the secondary market. Governments don't quietly suppress things they consider irrelevant. They ignore them. The question worth asking: if Bitcoin is just a speculative asset, why does a military thesis about it require a security review?
+
+29m ago
 
 ---
 
@@ -133,23 +149,7 @@ Hi! Question for those who follow a “hold” strategy. If I understand correct
 
 Hello everybody. Im 26M and have around 60k in my employer 401k. I make roughly 70k and i put in 7% while my employer matches 5% Im currently investing in my own brokerage in voo and btc. My thought process is my 401k is my safe money and i have cheap living expenses and currently can invest an extra $350 a week. The way i see it is i can retire in probably 10 years with btc or retire at 55 with 401k
 
-10h ago
-
----
-
-**[Does anyone try to orange pill people at work?](https://www.reddit.com/r/Bitcoin/comments/1sym2am/does_anyone_try_to_orange_pill_people_at_work/)**
-
-Or just family and friends. The few times I have tried, it was met with a lot of eye rolling, lectures on what a Ponzi scheme and bringing up the guy who lost his hard drive in the dump. It doesn’t seem worth it. But I think in other circles of people you care about, extremely important.
-
-8h ago
-
----
-
-**[Daily Discussion, April 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1syq6pl/daily_discussion_april_29_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
+12h ago
 
 ---
 
@@ -161,15 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The president’s second son pitches his bitcoin company as a money-printing machine. It’s actually an arbitrage vehicle that preys on MAGA-minded investors.
 
-Forbes • 23h ago
-
----
-
-**[Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block](https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block)**
-
-Bitcoin is sitting almost still while the rest of the majors give back gains and oil pushes above $111 on reports of an extended U.S. naval blockade against Iran.
-
-CoinDesk • 6h ago
+Forbes • 1d ago
 
 ---
 
@@ -177,15 +169,13 @@ CoinDesk • 6h ago
 
 Czech National Bank Governor Ales Michl told Bitcoin 2026 that BTC can improve reserve portfolios without materially increasing risk.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
-**[Bitcoin traders flip bullish on price ahead of Powell’s final FOMC as Fed chair](https://finance.yahoo.com/markets/crypto/articles/bitcoin-traders-flip-bullish-price-081303439.html)**
+**[Bitcoin Prices Rise. Is It Breaking Out or Topping?](https://www.barrons.com/articles/bitcoin-price-today-cryptos-xrp-ethereum-breakout-top-ceba33b2)**
 
-Traders’ risk appetite is back ahead of Powell’s last presser as Fed chair, analysts say. US spot Bitcoin ETFs drew in over $2 billion in net inflows in April
-
-Yahoo Finance • 2h ago
+Barron's • 14m ago
 
 ---
 
@@ -193,7 +183,15 @@ Yahoo Finance • 2h ago
 
 Mezo has launched institutional bitcoin yield vaults with Anchorage Digital, reflecting growing demand to generate returns on idle BTC amid evolving DeFi infrastructure.
 
-CoinDesk • 23m ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, April 29, 2026: Values continue to fall this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-29-2026-values-continue-to-fall-this-week-113845501.html)**
+
+Bitcoin opened at $76,340.38 on Wednesday, rising to $77,507.63 as of 7:24 a.m. ET. Ethereum opened at $2,289.20 on Wednesday, trading at $2,330.43 as of 7:24 a.m. ET.
+
+Yahoo Finance • 41m ago
 
 ---
 
@@ -201,7 +199,13 @@ CoinDesk • 23m ago
 
 Southington police are warning residents of a Bitcoin scam after a woman in town lost $14,000.
 
-WFSB • 13h ago
+WFSB • 14h ago
+
+---
+
+**[Novogratz’s Galaxy Digital Posts Loss as Crypto Rout Lingers](https://www.bloomberg.com/news/articles/2026-04-28/novogratz-s-galaxy-digital-posts-loss-as-crypto-rout-lingers)**
+
+Bloomberg.com • 22h ago
 
 ---
 
@@ -209,27 +213,23 @@ WFSB • 13h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 21h ago
+Fortune • 23h ago
 
 ---
 
-**[Novogratz’s Galaxy Digital Posts Loss as Crypto Rout Lingers](https://www.bloomberg.com/news/articles/2026-04-28/novogratz-s-galaxy-digital-posts-loss-as-crypto-rout-lingers)**
+**[Bitcoin is Reshaping Traditional Finance, Industry Leaders Say](https://bitcoinmagazine.com/news/bitcoin-will-reshape-traditional-finance)**
 
-Bloomberg • 21h ago
+At Bitcoin 2026, a Nakamoto Stage panel made a simple but striking point: Bitcoin’s institutional growth is being driven by competitors who are actually working together, building the tools, products, and infrastructure needed to bring the asset into mainstream finance.
 
----
-
-**[Bitcoin Is in a Funk. How the Fed, Big Tech Earnings Can Boost Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-today-ceba33b2)**
-
-Barron's • 1h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
-**[Aven Launches Bitcoin-Backed Visa Card Offering Up to $1 Million Credit Lines Without Asset Sales](https://bitcoinmagazine.com/news/aven-launches-bitcoin-backed-visa-card)**
+**[Tether Launches MDK, an Open Infrastructure Layer for Bitcoin Mining](https://tether.io/news/tether-launches-mdk-an-open-infrastructure-layer-for-bitcoin-mining/)**
 
-Aven has launched a Bitcoin Visa credit card that lets users borrow against their Bitcoin holdings — offering lines of credit up to $1 million without selling assets or triggering taxable events.
+27 April 2026 – Tether, the largest company in the digital asset industry, today launched Mining Development Kit (MDK), an open-source, full-stack development framework that gives Bitcoin mining operators and developers unified control over their entire infrastructure stack.  With its open modular architecture and agnostic interfaces, MDK pairs a JavaScript backend SDK with a React […]
 
-Bitcoin Magazine • 1d ago
+Tether.io • 2d ago
 
 ---
 
@@ -241,7 +241,7 @@ Bitcoin Magazine • 1d ago
 
 How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
 
-⬆️ 49 • 💬 31 • 12h ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
+⬆️ 58 • 💬 35 • 14h ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -265,7 +265,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -323,7 +323,7 @@ Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 61 • ⏱️ 14:13 • 13h ago
+👁️ 43K • 👍 2K • 💬 61 • ⏱️ 14:13 • 15h ago
 
 ---
 
@@ -333,7 +333,7 @@ The credit market just got a new heavyweight. In this keynote, Michael Saylor re
 
 📺 Bitcoin Magazine
 
-👁️ 40K • 👍 2K • 💬 206 • ⏱️ 47:01 • 11h ago
+👁️ 40K • 👍 2K • 💬 206 • ⏱️ 47:01 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Michael Saylor DOUBLES DOWN on bitcoin supply shock accelerating and lays out ho
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 406 • 💬 131 • ⏱️ 1:16:57 • 16h ago
+👁️ 8K • 👍 406 • 💬 131 • ⏱️ 1:16:57 • 17h ago
 
 ---
 
@@ -363,7 +363,7 @@ Subscribe for daily insights and updates for your Bitcoin journey. Follow on Fac
 
 📺 Joel Bomgar
 
-👁️ 630 • 👍 7 • 💬 15 • ⏱️ 1:48 • 11h ago
+👁️ 630 • 👍 7 • 💬 15 • ⏱️ 1:48 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 21K • 👍 1K • 💬 147 • ⏱️ 23:39 • 17h ago
+👁️ 21K • 👍 1K • 💬 147 • ⏱️ 23:39 • 18h ago
 
 ---
 
@@ -383,7 +383,7 @@ EXPOSED BlackRock and MicroStrategy Bitcoin Ponzi (All of Crypto at RISK) Michae
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 475 • 💬 7 • ⏱️ 3:59 • 13h ago
+👁️ 8K • 👍 475 • 💬 7 • ⏱️ 3:59 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 8K • 👍 207 • 💬 7 • ⏱️ 0:51 • 9h ago
+👁️ 8K • 👍 207 • 💬 7 • ⏱️ 0:51 • 11h ago
 
 ---
 
