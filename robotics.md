@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T06:11:51.482047+00:00'
+updated: '2026-04-29T08:37:53.739420+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 06:11 UTC  
+**Last Updated:** April 29, 2026 at 08:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
+
+2h ago
+
+---
+
 **[A robot, that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1sxxue2/a_robot_that_picks_up_balls_and_shoots_them_into/)**
 
-19h ago
+21h ago
 
 ---
 
 **[Unitree G1’s self-balancing capabilities](https://www.reddit.com/r/robotics/comments/1sxxbby/unitree_g1s_selfbalancing_capabilities/)**
 
-19h ago
+22h ago
+
+---
+
+**[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
+
+2h ago
 
 ---
 
@@ -48,7 +60,7 @@ Robotics research and industry news
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-5h ago
+7h ago
 
 ---
 
@@ -56,25 +68,13 @@ Most of us learned about rotation matrices (and quaternions to some extend) thro
 
 github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based motion imitation learning research benchmark specifically designed for biomechanically accurate muscle-actuated models. It focuses on advancing research in muscle-driven locomotion and manipulation through high-performance neural policy training.
 
-13h ago
+15h ago
 
 ---
 
 **[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
 
-16h ago
-
----
-
-**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
-
-1m ago
-
----
-
-**[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
-
-12m ago
+18h ago
 
 ---
 
@@ -82,7 +82,7 @@ github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based mot
 
 I got frustrated with robot_localization on my outdoor robot and ended up rewriting sensor fusion from scratch. The result is FusionCore, a 22-state UKF that fuses IMU, wheel odometry, and GPS natively in ECEF coordinates. I benchmarked it against robot_localization on the NCLT dataset (6 outdoor sequences, GPS + IMU + wheels). FusionCore hit 4.2m average ATE RMSE. robot_localization with proper outlier gating averaged 21.8m. https://preview.redd.it/asonhtg9w1yg1.png?width=2475&format=png&auto=webp&s=13ff8af82fb84d0c7ba16dd1428b1588fd33730f The interesting part: when I finally got robot_localization's gating config right (the parameter is odom0_twist_rejection_threshold, not odom0_mahal_threshold which silently does nothing), it actually made RL worse on 4 out of 6 sequences. The reason: navsat_transform passes through whatever covariance the GPS receiver reports, and NCLT receivers report it way too tight. Good measurements were getting rejected. FusionCore sidesteps this by letting you set a noise floor directly. One config file, works with any IMU and GPS, drops into a Nav2 stack. No navsat_transform needed. https://github.com/manankharwar/fusioncore
 
-2h ago
+4h ago
 
 ---
 
@@ -90,7 +90,7 @@ I got frustrated with robot_localization on my outdoor robot and ended up rewrit
 
 Been writing KUKA palletizing programs manually for a while and got tired of recalculating positions every time a product or pallet pattern changed. Built a web tool that takes your layout inputs, shows a 3D preview, and outputs production-ready KRL files for the KRC4. Free sample available if you want to test the code on your robot before buying — path2.io
 
-🔗 [youtube.com](http://www.youtube.com/watch?v=Ho2iKJ4GJ7Q) • 10h ago
+🔗 [youtube.com](http://www.youtube.com/watch?v=Ho2iKJ4GJ7Q) • 13h ago
 
 ---
 
@@ -98,7 +98,7 @@ Been writing KUKA palletizing programs manually for a while and got tired of rec
 
 A quick look at our custom quadruped robot for industrial inspection, built on a modified wheeled-leg platform. Solved: • Stair climbing and uneven terrain stability • Custom sensor payload integration • Real-time data transmission for inspection tasks Open to questions about custom deployments or industrial use cases — feel free to DM.
 
-21h ago
+1d ago
 
 ---
 
@@ -110,7 +110,7 @@ A quick look at our custom quadruped robot for industrial inspection, built on a
 
 These robots may in future help clean cabins and operate ground support equipment.
 
-BBC • 20h ago
+BBC • 22h ago
 
 ---
 
@@ -118,7 +118,7 @@ BBC • 20h ago
 
 Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
 
-The Guardian • 13h ago
+The Guardian • 16h ago
 
 ---
 
@@ -126,15 +126,35 @@ The Guardian • 13h ago
 
 Japan Airlines' trial of humanoid robots aims to address workforce shortages and improve efficiency in airport handling processes.
 
-Simple Flying • 9h ago
+Simple Flying • 12h ago
 
 ---
 
-**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
+**[JAL, GMO to test humanoid robots for airport ground operations](https://japantoday.com/category/tech/jal-gmo-to-test-using-humanoid-robots-for-airport-ground-operations)**
 
-Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
+Japan Today • 1d ago
 
-Bessemer Venture Partners • 13h ago
+---
+
+**[Future holiday horror: ‘A robot lost my luggage in Tokyo’](https://www.theregister.com/2026/04/29/japan_airport_robot_trial/)**
+
+: Haneda airport will start testing humanoid robots, because everything that gets a plane flying was designed for our species
+
+theregister.com • 6h ago
+
+---
+
+**[Japan's First Demonstration Experiment for Utilizing Humanoid Robots at Airports Begins](https://press.jal.co.jp/en/release/202604/009502.html)**
+
+This is JAL's (Japan Airlines) Press Release information Website. you can view corporate information, safety/flight Information, and CSR Information,etc.
+
+JAL • 2d ago
+
+---
+
+**[Humanoid robots take on baggage duty at Tokyo airport](https://ktla.com/news/nationworld/humanoid-robots-handling-baggage-at-japan-airport/)**
+
+KTLA • 11h ago
 
 ---
 
@@ -146,39 +166,19 @@ National Geographic • 1d ago
 
 ---
 
+**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
+
+Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
+
+Bessemer Venture Partners • 16h ago
+
+---
+
 **[Robots can run a marathon and play ping pong. But will they ever achieve true sporting greatness?](https://theconversation.com/robots-can-run-a-marathon-and-play-ping-pong-but-will-they-ever-achieve-true-sporting-greatness-281335)**
 
 The real opportunity is not to build robot champions, but to better understand human performance.
 
-The Conversation • 6h ago
-
----
-
-**[Appetronix Acquires Cibotica to Accelerate Multi-Cuisine Expansion and Elevate Food Robotics & AI Ecosystem](https://www.prnewswire.com/news-releases/appetronix-acquires-cibotica-to-accelerate-multi-cuisine-expansion-and-elevate-food-robotics--ai-ecosystem-302754636.html)**
-
-/PRNewswire/ - Appetronix, the pioneering robotics company transforming foodservice through intelligent automation, today announced it has acquired Cibotica, a...
-
-PR Newswire • 17h ago
-
----
-
-**[Kraken Robotics: Tailwinds Are Too Strong To Ignore (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4894785-kraken-robotics-stock-tailwinds-are-too-strong-to-ignore)**
-
-Kraken Robotics' Covelya acquisition, at 9.7x 2025E adjusted EBITDA, is seen as accretive, expanding product offerings. See why KRKNF stock is a Buy.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Can automation and AI replace workers in the cannabis industry?](https://mjbizdaily.com/news/ai-and-robotics-are-taking-over-the-cannabis-industry-are-they-replacing-jobs/615663/)**
-
-MJBizDaily • 1d ago
-
----
-
-**[Chinese robotics company relocates US HQ from California to Texas](https://www.bizjournals.com/dallas/news/2026/04/27/chinese-robotics-co-relocates-u-s-hq-to-dallas.html)**
-
-The Business Journals • 1d ago
+The Conversation • 8h ago
 
 ---
 
@@ -192,7 +192,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 13K • 👍 274 • 💬 34 • ⏱️ 4:53 • 2d ago
+👁️ 13K • 👍 278 • 💬 34 • ⏱️ 4:53 • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Early season Override is already being talked about like crazy. In this video I 
 
 📺 Luke does robotics
 
-👁️ 6K • 👍 259 • 💬 47 • ⏱️ 12:17 • 10h ago
+👁️ 7K • 👍 266 • 💬 47 • ⏱️ 12:17 • 13h ago
 
 ---
 
@@ -212,7 +212,7 @@ War Robots - YouTubers battle each other in a friendly show match during the War
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 286 • 💬 51 • ⏱️ 23:11 • 17h ago
+👁️ 4K • 👍 297 • 💬 51 • ⏱️ 23:11 • 19h ago
 
 ---
 
@@ -222,7 +222,7 @@ Joined by both World Champions to talk about the 2026 Worlds Finals matches #ove
 
 📺 Luke does robotics
 
-👁️ 3K • 👍 73 • 💬 20 • ⏱️ 30:32 • 1d ago
+👁️ 3K • 👍 74 • 💬 20 • ⏱️ 30:32 • 1d ago
 
 ---
 
@@ -240,17 +240,7 @@ Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugador
 
 📺 SpectreX Gaming
 
-👁️ 1.0M • 👍 33K • 💬 577 • ⏱️ 0:22 • 5d ago
-
----
-
-**[Khan Sir On Robot Doctor 🤖.](https://www.youtube.com/watch?v=YN4NopEsEKE)**
-
-Khan sir ne kaha Robots ko log doctor ka kam karne nhi dange. Rajshamani podcast Rajshamani robot doctor Rajshamani and ...
-
-📺 Grind and growth 
-
-👁️ 38K • 💬 13 • ⏱️ 0:24 • 6d ago
+👁️ 1.0M • 👍 33K • 💬 580 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -260,7 +250,7 @@ Professor Aaron Ames of the California Institute of Technology joins WIRED to an
 
 📺 WIRED
 
-👁️ 42K • 👍 2K • 💬 103 • ⏱️ 21:47 • 14h ago
+👁️ 46K • 👍 2K • 💬 110 • ⏱️ 21:47 • 16h ago
 
 ---
 
@@ -281,6 +271,16 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 📺 nature video
 
 👁️ 124K • 👍 2K • 💬 238 • ⏱️ 13:38 • 6d ago
+
+---
+
+**[Ultimate Red &amp; Green Robot Toy Box - Giant GUNDAM Smash: Tobot Carbot Constructicons &amp; OPTIMUS PRIME](https://www.youtube.com/watch?v=zDu4JPjnVkE)**
+
+Ultimate Red & Green Robot Toy Box - Giant GUNDAM Smash: Tobot Carbot Constructicons & OPTIMUS PRIME: ...
+
+📺 Bob ToysReview
+
+👁️ 13K • 👍 34 • ⏱️ 11:42 • 2d ago
 
 ---
 

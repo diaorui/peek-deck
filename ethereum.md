@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-29T06:11:51.479207+00:00'
+updated: '2026-04-29T08:37:53.736232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 06:11 UTC  
+**Last Updated:** April 29, 2026 at 08:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +0.2%  
-**30d:** +10.8%  
-**90d:** -13.7%  
-**1y:** +30.2%  
+**24h:** +2.0%  
+**7d:** -0.3%  
+**30d:** +10.2%  
+**90d:** -14.2%  
+**1y:** +29.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.14B
+**Market Cap:** $280.68B
 Rank #2
 
 **Circulating Supply:** 120,688,027 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.8%
+-53.0%
 
 **All-Time Low:** $0.43
-+538803.7%
++536364.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+3h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
 
-4h ago
+6h ago
+
+---
+
+**[we talk decentralization in ethereum but use centralized messaging](https://www.reddit.com/r/ethereum/comments/1sy7w6u/we_talk_decentralization_in_ethereum_but_use/)**
+
+the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
+
+15h ago
 
 ---
 
@@ -89,14 +97,6 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[we talk decentralization in ethereum but use centralized messaging](https://www.reddit.com/r/ethereum/comments/1sy7w6u/we_talk_decentralization_in_ethereum_but_use/)**
-
-the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
-
-12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
 
-17h ago
+19h ago
 
 ---
 
@@ -142,7 +142,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 Been trying to figure out the most cost-effective way to move ETH into USDT. Not talking huge amounts - around 0.4 ETH - but enough that fees actually matter. CEX route is obvious but the math gets annoying. Trading fee on the swap plus withdrawal fee for USDT, and depending on the network you pick for withdrawal that can be another $1–5 on top. Fine for large amounts, starts feeling wasteful under a certain threshold. Tried going through a crypto exchanger this time. Did some research - looked at operating history and reserve size, picked TRC20 on the output side to keep receiving fees low. Had a bad experience before with a newer service that stalled mid-swap so track record was the main filter. Ended up about even with what a CEX would've cost me after all fees, maybe marginally better. The main upside was speed - no withdrawal queue, funds arrived in about 20 minutes. Curious whether others have done this comparison properly. At what size does CEX actually become cheaper than the exchanger route?
 
-1d ago
+2d ago
 
 ---
 
@@ -154,15 +154,15 @@ Been trying to figure out the most cost-effective way to move ETH into USDT. Not
 
 In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
 
-Fortune • 17h ago
+Fortune • 19h ago
 
 ---
 
-**[How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum](https://finance.yahoo.com/video/how-bitmines-tom-lee-is-becoming-the-michael-saylor-of-ethereum-163024520.html)**
+**[Decade-Dormant Ethereum Whale Moves $22.88 Million in ETH to New Wallet](https://finance.yahoo.com/markets/crypto/articles/decade-dormant-ethereum-whale-moves-074859414.html)**
 
-Fundstrat co-founder Tom Lee is bullish on ethereum (ETH-USD), from his recent comments to Bitmine's (BMNR) largest ether purchase of 2026. Scott Melker discusses the details above."The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+An Ethereum ICO wallet dormant for 10.8 years moved 10,000 ETH worth $22.88M, marking a 7,381x return on a $3,100 stake.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 48m ago
 
 ---
 
@@ -178,7 +178,7 @@ PR Newswire • 1d ago
 
 Top cryptos, including Bitcoin and Ethereum are experiencing significant selling pressure, dragging the levels close to the pivotal support
 
-Coinpedia • 14h ago
+Coinpedia • 16h ago
 
 ---
 
@@ -190,11 +190,19 @@ Decrypt • 1d ago
 
 ---
 
+**[NOWPayments Boosts USDT Processing Speed 5x on BSC and Ethereum to Improve Stablecoin Settlement Efficiency](https://thedefiant.io/news/press-releases/nowpayments-boosts-usdt-processing-speed-5x-on-bsc-and-ethereum-to-improve-stablecoin-settlement-efficiency)**
+
+Amsterdam, Netherlands, April 28th, 2026, Chainwire. NOWPayments, a crypto payment gateway, has significantly improved processing speed for transactions in USDT across major blockchain networks, achieving a fivefold acceleration in payment and payout ex...
+
+thedefiant.io • 19h ago
+
+---
+
 **[New Crypto Pepeto Exchange Update Reaches Binance-Level While Ethereum Price Prediction Maps Path to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-update-reaches-binance-level-while-ethereum-price-prediction-maps-path-to-10-000-1036073831)**
 
 Dubai, UAE, April  28, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost tradin...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -208,7 +216,7 @@ CoinDesk • 1d ago
 
 **[Ethereum Teeters on a $2,200 Cliff as a $2 Billion Liquidation Trap Lurks](https://www.tipranks.com/news/ethereum-teeters-on-a-2200-cliff-as-a-2-billion-liquidation-trap-lurks)**
 
-TipRanks • 16h ago
+TipRanks • 19h ago
 
 ---
 
@@ -217,14 +225,6 @@ TipRanks • 16h ago
 These two assets take very different approaches to generating value.
 
 The Motley Fool • 3d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Retreat As Trump Discusses Iran's 'New' Proposal: Analyst Says BTC's Bia](https://www.benzinga.com/crypto/cryptocurrency/26/04/52083332/bitcoin-ethereum-xrp-dogecoin-retreat-trump-iran-proposal-btc-upside-bias-analyst)**
-
-Leading cryptocurrencies took a U-turn on Monday, while stocks closed at new records, as the White House confirmed that President Donald Trump discussed Iran&#8217;s new proposal to end the war.
-
-Benzinga • 1d ago
 
 ---
 
@@ -238,27 +238,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 18K • 👍 983 • 💬 112 • ⏱️ 23:39 • 12h ago
-
----
-
-**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 252 • 💬 59 • ⏱️ 14:56 • 13h ago
-
----
-
-**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
-
-Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 210 • 💬 22 • ⏱️ 19:23 • 6h ago
+👁️ 20K • 👍 1K • 💬 122 • ⏱️ 23:39 • 14h ago
 
 ---
 
@@ -268,7 +248,27 @@ Ethereum might finally be thawing out of its “mini winter.” The structure lo
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 381 • 💬 216 • ⏱️ 14:02 • 14h ago
+👁️ 6K • 👍 389 • 💬 258 • ⏱️ 14:02 • 16h ago
+
+---
+
+**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 265 • 💬 74 • ⏱️ 14:56 • 16h ago
+
+---
+
+**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
+
+Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 269 • 💬 29 • ⏱️ 19:23 • 9h ago
 
 ---
 
@@ -278,17 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 564 • 💬 35 • ⏱️ 18:46 • 2d ago
-
----
-
-**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
-
-Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
-
-📺 Paul Barron Network
-
-👁️ 56K • 👍 2K • 💬 126 • ⏱️ 21:33 • 1d ago
+👁️ 19K • 👍 567 • 💬 36 • ⏱️ 18:46 • 2d ago
 
 ---
 
@@ -302,13 +292,13 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 ---
 
-**[🚨 My Next Trades on BTC, ETH and ARB: Full Breakdown](https://www.youtube.com/watch?v=yKphb8S0Tpw)**
+**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
 
-The stock market is pushing to new all time highs and Nvidia just followed. But Bitcoin is still stuck around $78000. So what is the ...
+Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
 
-📺 Chart Champions
+📺 Paul Barron Network
 
-👁️ 6K • 👍 355 • 💬 19 • ⏱️ 19:30 • 17h ago
+👁️ 56K • 👍 2K • 💬 126 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -318,7 +308,17 @@ BITCOIN, ETHEREUM E SOLANA: SÓ UMA DESSAS CRIPTOS EU ESTOU COMPRANDO AGORA Come
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 281 • 💬 27 • ⏱️ 10:01 • 8h ago
+👁️ 3K • 👍 296 • 💬 28 • ⏱️ 10:01 • 10h ago
+
+---
+
+**[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
+
+The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 3K • 💬 293 • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum is sitting around $2200… and people are losing their minds. In this e
 
 📺 The Coin Zone | Ethereum & Base
 
-👁️ 29 • 👍 3 • ⏱️ 5:04 • 8h ago
+👁️ 29 • 👍 3 • ⏱️ 5:04 • 10h ago
 
 ---
 
