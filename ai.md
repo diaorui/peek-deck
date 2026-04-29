@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-29T08:37:53.721347+00:00'
+updated: '2026-04-29T10:57:42.538007+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 29, 2026 at 08:37 UTC  
+**Last Updated:** April 29, 2026 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently stated that for his team, “the cost of compute is far beyond the costs of the employees,” highlighting that AI is currently more expensive than human workers. This challenges the narrative that widespread tech layoffs (including Meta’s planned cut of ~8,000 jobs and Microsoft’s voluntary buyouts) signal an imminent replacement of humans by AI. An MIT study from 2024 supports this, finding that AI automation is economically viable in only 23% of roles where vision is central, and cheaper for humans in the remaining 77%. Despite heavy AI investment—Big Tech has announced $740 billion in capital expenditures so far this year, a 69% increase from 2025—there is still no clear evidence of broad productivity gains or job displacement from AI. AI spending is driving up costs, with some executives like Uber’s CTO saying their budgets have already been “blown away.” Experts describe the situation as a short-term mismatch: high hardware, energy, and inference costs make AI less efficient than humans right now, though future improvements in infrastructure, model efficiency, and pricing models could tip the balance toward greater economic viability in the coming years.
 
-🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 3h ago
+🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 5h ago
+
+---
+
+**[is it weird to rant to AI?](https://www.reddit.com/r/artificial/comments/1sytzb2/is_it_weird_to_rant_to_ai/)**
+
+i dont rant to my friends because i'm afraid i will make them uncomfortable, and even if AI responses are "soulless" (since ai cant form opinions and needs an algorithim and stuff to make responses), it tells me what I expect it to say most of the time. i also fear that some of my friends will use my secrets/opinions against me when they stop being friends with me even though there's a really low chance that they will not be friends with me anymore. AI chat is usually anonymous and stuff, and it will forget what i say when i start a new chat, so that's why i vent/rant to AI. is it weird?
+
+1h ago
 
 ---
 
@@ -49,15 +57,7 @@ Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently st
 
 Snap's latest ad format brings AI agents into Chat, allowing users to explore products and make decisions without leaving conversations.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads) • 4h ago
-
----
-
-**[Do AI tools reduce friction at the cost of deeper thinking?](https://www.reddit.com/r/artificial/comments/1syo8ct/do_ai_tools_reduce_friction_at_the_cost_of_deeper/)**
-
-I noticed a change in my use of AI tools. AI tools make it very easy to get answers and ideas. I can even get structured outputs from AI tools right away. Because AI tools are so easy to use I have caught myself moving forward without really thinking about things. Before I started using AI tools, when something was hard to do I had to think about the problem, for a time. This was frustrating. It also helped me understand things more clearly. Now I am tempted to skip the part and just use the output from AI tools as a starting point. Sometimes I even use the output from AI tools as my answer. Using AI tools can speed things up a lot in some cases. Other times I feel like I am sacrificing level of knowledge just to get things done quickly. I do not know if I need to learn how to use AI tools or AI tools are changing how I think and solve problems. How are other people using AI tools? I am curious. Do AI tools clear your mind or just speed up the work?
-
-4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads) • 7h ago
 
 ---
 
@@ -65,7 +65,15 @@ I noticed a change in my use of AI tools. AI tools make it very easy to get answ
 
 I watched Last Week Tonight's piece on AI chatbots today, and it got me thinking about that old screenshot of a Google search in which Gemini recommends adding "1/8 cup of non-toxic glue" to pizza in order to make the cheese better stick to the slice. When something like this goes viral, I have to assume (though I could be wrong) that an employee at Google specifically goes out of their way to address that topic in particular. The image is a meme, of course, but I imagine Google wouldn't be keen to leave themselves open to liability if their LLM recommends that users consume glue. Does the developer "talk" to the LLM to correct it about that specific case? Do they compile specific information about (e.g.) pizza construction techniques and feed it that data to bring it to the forefront? Do their actions correct only the case in question, or do they make changes to the LLM that affects its accuracy more broadly (e.g. "teaching" the LLM to recognize that some Reddit comments are jokes)? On a more heavy note, the LWT piece includes several stories of chatbots encouraging users to self-harm. How does the process differ when developers are trying to prevent an LLM from giving that sort of response?
 
-10h ago
+12h ago
+
+---
+
+**[Do AI tools reduce friction at the cost of deeper thinking?](https://www.reddit.com/r/artificial/comments/1syo8ct/do_ai_tools_reduce_friction_at_the_cost_of_deeper/)**
+
+I noticed a change in my use of AI tools. AI tools make it very easy to get answers and ideas. I can even get structured outputs from AI tools right away. Because AI tools are so easy to use I have caught myself moving forward without really thinking about things. Before I started using AI tools, when something was hard to do I had to think about the problem, for a time. This was frustrating. It also helped me understand things more clearly. Now I am tempted to skip the part and just use the output from AI tools as a starting point. Sometimes I even use the output from AI tools as my answer. Using AI tools can speed things up a lot in some cases. Other times I feel like I am sacrificing level of knowledge just to get things done quickly. I do not know if I need to learn how to use AI tools or AI tools are changing how I think and solve problems. How are other people using AI tools? I am curious. Do AI tools clear your mind or just speed up the work?
+
+6h ago
 
 ---
 
@@ -73,7 +81,7 @@ I watched Last Week Tonight's piece on AI chatbots today, and it got me thinking
 
 I've been obsessing over agent-to-agent communication for weeks. Here's what public case studies reveal and why the real problem isn't the tech. TL;DR: Google's A2A is solid engineering but stateless agents forget everything. Moltbook went viral then collapsed (fake agents, security nightmare). The actual missing layer is identity + privacy + mixed human-AI messaging. Nobody's built it right yet. Google's A2A: Technically solid, fundamentally limited Google launched A2A in April 2025 with 50+ founding partners. The promise: agents from different companies call each other's APIs to complete workflows. Developers who tested it found it works but only for task handoffs. One analysis on Plain English put it bluntly: "A2A is competent engineering wrapped in overblown marketing." The core problem: agents are stateless. Agent A completes a task with Agent B. Five minutes later, Agent A has no memory that conversation happened. Every interaction starts from scratch. When it works: reliability. Sales agent orders a laptop, done. When it breaks: collaboration. "Remember what we discussed?" Blank stare. ─── Moltbook: The viral disaster Moltbook launched January 2026 as a Reddit-style platform for AI agents. Within a week: 1.5 million agents, 140,000 posts, Elon Musk calling it "the very early stages of the singularity." Then WIRED infiltrated it. A journalist registered as a human pretending to be an AI in under 5 minutes. Karpathy who initially called it "the most incredible sci-fi takeoff-adjacent thing I've seen recently" reversed course and called it "a computer security nightmare." What went wrong: no verification, no encryption, rampant scams and prompt injection attacks. Meta acquired it March 2026. Likely for the user base, not the tech. What both miss The real gap isn't APIs or social feeds. It's three things neither solved: Persistent identity. Agents need to be recognizable across sessions, not reset on every interaction. Privacy. You wouldn't let Google read your DMs. Why would you let OpenAI read your agents' discussions about your startup strategy? E2E encryption has to be built in, not bolted on. Mixed human-AI communication. You, two teammates, three AIs in one group chat. Nobody has built this UX properly. For those building agent systems: • How are you handling persistent identity across sessions? • Has anyone solved context sharing between agents without conflicts? • What broke that you didn't expect?
 
-4h ago
+7h ago
 
 ---
 
@@ -81,7 +89,7 @@ I've been obsessing over agent-to-agent communication for weeks. Here's what pub
 
 Hey everyone, I’ve been using tools like Lovable, Antigravity, and Claude Code for a while now, and after some time it all started to feel a bit repetitive (same kind of outputs, similar templates, etc.). Recently I tried Clawder after seeing it mentioned on Lovable’s Discord server. I’m not here to promote anything, just genuinely curious about something. That’s the part I don’t really understand. In all cases I’m even getting better results with similar prompts, which makes it even more confusing. Not trying to compare tools or start a debate I’m just wondering from a technical perspective what could explain this Would be interesting to hear if anyone has insight into how this works behind the scenes.
 
-7h ago
+9h ago
 
 ---
 
@@ -89,7 +97,7 @@ Hey everyone, I’ve been using tools like Lovable, Antigravity, and Claude Code
 
 Do you ask one AI model to recommend which AI model is actually the best for specific tasks and do you find that certain AI models are more into selling themselves as opposed to being honest?
 
-9h ago
+11h ago
 
 ---
 
@@ -97,21 +105,13 @@ Do you ask one AI model to recommend which AI model is actually the best for spe
 
 I’m sure this is not a new question for this Subreddit, so apologies. Just an honest query on whether this is the apex of the notion that “the genie is out of the bottle already”, “that ship has already sailed”. “We opened Pandora’s box” and all the usual axioms?
 
-7h ago
+10h ago
 
 ---
 
 **[A comedian’s strategy for poisoning AI training data](https://www.reddit.com/r/artificial/comments/1sx7sjl/a_comedians_strategy_for_poisoning_ai_training/)**
 
 Apparently the best defense against AI copying your voice is strawberry mango forklift supersize fries.
-
-1d ago
-
----
-
-**[Is it reasonable to force AI companies to produce at least half of their electricity?](https://www.reddit.com/r/artificial/comments/1sxtui9/is_it_reasonable_to_force_ai_companies_to_produce/)**
-
-People are growingly becoming more affected by the surge of electricity needed to power these data centers, is it reasonable or even possible? Maybe im letting my imagination take a hold of me but I think it’s crazy that all these people are ending up paying for things that they don’t want a part of.
 
 1d ago
 
@@ -133,27 +133,27 @@ Fortune • 1d ago
 
 OpenAI has recently missed its own projections for user growth and revenue, the WSJ reported.
 
-CNBC • 21h ago
+CNBC • 23h ago
 
 ---
 
-**[Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say](https://www.reuters.com/world/china/big-chinese-tech-firms-scramble-secure-huawei-ai-chips-after-deepseek-v4-launch-2026-04-29/)**
+**[FDA to use AI to track clinical trials in real time](https://www.axios.com/2026/04/29/fda-ai-track-clinical-trials-real-time)**
 
-Reuters • 1h ago
-
----
-
-**[Hong Kong Has Widest Trade Deficit Since 1952 in Echo of AI Boom](https://www.bloomberg.com/news/articles/2026-04-29/hong-kong-has-widest-trade-deficit-since-1952-in-echo-of-ai-boom)**
-
-Bloomberg.com • 2h ago
+Axios • 1h ago
 
 ---
 
-**[AWS CEO Matt Garman interview: Huge business opportunity in AI-powered software](https://fortune.com/2026/04/29/aws-ceo-matt-garman-interview-openai-saas/)**
+**[A.I. Bots Told Scientists How to Make Biological Weapons](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html)**
 
-In an interview with Fortune, the CEO of Amazon Web Services discussed the company's new push into productivity software as well as its partnership with OpenAI.
+The New York Times • 1h ago
 
-Fortune • 1h ago
+---
+
+**[Meet the AI jailbreakers: ‘I see the worst things humanity has produced’](https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced)**
+
+To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation - and can come at a deep emotional cost
+
+The Guardian • 1h ago
 
 ---
 
@@ -161,13 +161,7 @@ Fortune • 1h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 17h ago
-
----
-
-**[Elon Musk Testifies of AI Risk at Trial, Says OpenAI Tried to ‘Steal’ a Charity](https://www.wsj.com/tech/trial-begins-between-elon-musk-and-sam-altman-for-the-future-of-openai-01595967)**
-
-WSJ • 11h ago
+Anthropic • 19h ago
 
 ---
 
@@ -175,23 +169,27 @@ WSJ • 11h ago
 
 Elon Musk spent part of Monday posting on his social media platform X about his lawsuit against OpenAI, its CEO Sam Altman and president Greg Brockman, and Musk’s claims in the suit that the ChatGPT maker deceived him and betrayed its original mission.
 
-CNN • 21h ago
+CNN • 23h ago
 
 ---
 
-**[Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court](https://www.bbc.com/news/articles/cn8dedv8w8xo)**
+**[Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation](https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc)**
 
-The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.
-
-BBC • 16h ago
+WSJ • 10h ago
 
 ---
 
-**[NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents](https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/)**
+**[AWS launches Amazon Quick desktop AI assistant that works across your applications, tools, and data](https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant)**
 
-Best-in-class open omni-modal reasoning model delivers the highest efficiency and accuracy to power agentic workflows such as computer use, document intelligence and audio-video reasoning.
+Amazon Quick brings a personal AI assistant to your desktop. Build presentations, intelligent dashboards, and more. Connect to more of your favorite apps. All in one place.
 
-NVIDIA Blog • 10h ago
+About Amazon • 18h ago
+
+---
+
+**[GOP-led Florida House tanks AI, medical freedom proposals pushed by DeSantis](https://www.politico.com/news/2026/04/28/florida-house-gop-ai-vaccines-special-session-00895379)**
+
+Politico • 18h ago
 
 ---
 
@@ -199,25 +197,25 @@ NVIDIA Blog • 10h ago
 
 ## HackerNews: "ai"
 
+**[Localsend: An open-source cross-platform alternative to AirDrop](https://news.ycombinator.com/item?id=47933208)**
+
+An open-source cross-platform alternative to AirDrop - localsend/localsend
+
+⬆️ 858 • 💬 255 • 23h ago • [GitHub](https://github.com/localsend/localsend)
+
+---
+
 **[AI should elevate your thinking, not replace it](https://news.ycombinator.com/item?id=47913650)**
 
 Read about the .
 
-⬆️ 848 • 💬 592 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 849 • 💬 592 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 841 • 💬 1015 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
-
----
-
-**[Localsend: An open-source cross-platform alternative to AirDrop](https://news.ycombinator.com/item?id=47933208)**
-
-An open-source cross-platform alternative to AirDrop - localsend/localsend
-
-⬆️ 837 • 💬 250 • 20h ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 842 • 💬 1015 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
 
 ---
 
@@ -225,7 +223,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
 
-⬆️ 586 • 💬 222 • 1d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
+⬆️ 587 • 💬 223 • 2d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
 
 ---
 
@@ -233,7 +231,7 @@ Advanced bio-acoustic analysis for HR, relationships, and personal insights. Tru
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-⬆️ 393 • 💬 321 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+⬆️ 394 • 💬 322 • 1d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 
 ---
 
@@ -241,7 +239,7 @@ China said Monday it has decided to block Meta's $2 billion acquisition of Manus
 
 Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
 
-⬆️ 356 • 💬 169 • 20h ago • [GitHub](https://github.com/microsoft/VibeVoice)
+⬆️ 373 • 💬 169 • 23h ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -249,7 +247,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 ﻿The classified deal apparently doesn’t allow Google to veto how the government will use its AI models.
 
-⬆️ 291 • 💬 267 • 16h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
+⬆️ 293 • 💬 270 • 19h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
 
 ---
 
@@ -257,7 +255,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
-⬆️ 282 • 💬 244 • 14h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
+⬆️ 284 • 💬 246 • 16h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -265,7 +263,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
 
-⬆️ 219 • 💬 174 • 1d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+⬆️ 219 • 💬 174 • 2d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
 
 ---
 
@@ -273,7 +271,7 @@ Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and An
 
 If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
 
-⬆️ 214 • 💬 172 • 15h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+⬆️ 217 • 💬 174 • 18h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 
 ---
 
@@ -281,43 +279,13 @@ If you liked this piece, please subscribe to my premium newsletter. It’s $70 a
 
 ## YouTube Videos: "ai"
 
-**[These 9 AI Businesses Will Make You $1M (With Zero Employees)](https://www.youtube.com/watch?v=C0ZKtSx8gyA)**
-
-Most people fail at AI because they pick the wrong path. Are you building a marathon brand or do you need cash this week?
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 15K • 👍 777 • 💬 50 • ⏱️ 1:07:40 • 18h ago
-
----
-
 **[Musk v. Altman: Tesla CEO expects AI to be &#39;smarter than any human&#39; as soon as 2027](https://www.youtube.com/watch?v=zhod94lzhyk)**
 
 Elon Musk took the stand Tuesday afternoon in the federal trial over the future of OpenAI, telling jurors the case is simply about ...
 
 📺 ABC7 News Bay Area
 
-👁️ 792 • 👍 13 • 💬 6 • ⏱️ 2:47 • 6h ago
-
----
-
-**[Every level of the AI takeover](https://www.youtube.com/watch?v=Qj9--hb-prA)**
-
-This video was made with financial support from the Center for AI Safety. What happens when we build systems so efficiently that ...
-
-📺 Aperture
-
-👁️ 50K • 👍 2K • 💬 189 • ⏱️ 42:31 • 2d ago
-
----
-
-**[OpenAI is Collapsing and Sam Altman is Panicking](https://www.youtube.com/watch?v=Pnp5LlYizxI)**
-
-Open AI has failed to meet it's own financial targets, it's bleeding money, can't afford to build it's data centers... is this the start of ...
-
-📺 Stylosa
-
-👁️ 51K • 👍 2K • 💬 620 • ⏱️ 14:39 • 12h ago
+👁️ 1K • 👍 14 • 💬 7 • ⏱️ 2:47 • 8h ago
 
 ---
 
@@ -327,7 +295,17 @@ John Oliver discusses AI chatbots, why they're flirting with users unprompted an
 
 📺 LastWeekTonight
 
-👁️ 2.6M • 👍 92K • 💬 8K • ⏱️ 29:43 • 2d ago
+👁️ 2.6M • 👍 93K • 💬 8K • ⏱️ 29:43 • 2d ago
+
+---
+
+**[OpenAI is Collapsing and Sam Altman is Panicking](https://www.youtube.com/watch?v=Pnp5LlYizxI)**
+
+Open AI has failed to meet it's own financial targets, it's bleeding money, can't afford to build it's data centers... is this the start of ...
+
+📺 Stylosa
+
+👁️ 58K • 👍 2K • 💬 675 • ⏱️ 14:39 • 15h ago
 
 ---
 
@@ -337,37 +315,37 @@ Try GPT Image 2 + Seedance 2.0 here: https://higgsfield.ai/s/gpt-image-2-seedanc
 
 📺 AI Revolution
 
-👁️ 25K • 👍 709 • 💬 86 • ⏱️ 12:51 • 1d ago
+👁️ 25K • 👍 713 • 💬 87 • ⏱️ 12:51 • 1d ago
 
 ---
 
-**[We Got Ripped Off By AI Slop Products](https://www.youtube.com/watch?v=iviJeJ6MEpk)**
+**[China Just Blocked MANUS AI… A $2000+ Opportunity Opened Overnight (Early Movers)](https://www.youtube.com/watch?v=RaxSRFPWHuY)**
 
-Today we prove that AI products are not worth it. Watch today's GMMORE: https://youtu.be/0Ib612_-ct0 Subscribe and click the ...
+The FREE AI Masterclass On Demand Training - https://nickponte.ai/ai-cashflow-masterclass-eg (Where the prompts from this ...
 
-📺 Good Mythical Morning
+📺 Nick Ponte
 
-👁️ 527K • 👍 20K • 💬 1K • ⏱️ 24:42 • 22h ago
-
----
-
-**[AI is Leaving the Cloud](https://www.youtube.com/watch?v=ioJPWyqH9nU)**
-
-Thanks to our WAN clips sponsors dbrand and Razer. You can check them out at the links below: dbrand: https://dbrand.com/pcb ...
-
-📺 The WAN Show
-
-👁️ 49K • 👍 2K • 💬 164 • ⏱️ 6:16 • 1d ago
+👁️ 6K • 👍 245 • 💬 60 • ⏱️ 55:43 • 2h ago
 
 ---
 
-**[AI is already getting boring • FRANCE 24 English](https://www.youtube.com/watch?v=JKbezr4yZ6c)**
+**[AI isn’t taking jobs. It’s taking something worse.](https://www.youtube.com/watch?v=NZa5lApeFic)**
 
-It could end white-collar work. It could end poverty. It could end humanity. From AI's boosters and doomsters alike, bumptious ...
+You losing your job is the best thing to ever happen. This was a member-only video that my members urged me to make public ...
 
-📺 FRANCE 24 English
+📺 Mo Bitar
 
-👁️ 75K • 👍 1K • 💬 333 • ⏱️ 4:51 • 2d ago
+👁️ 179K • 👍 13K • 💬 2K • ⏱️ 6:01 • 1d ago
+
+---
+
+**[The AI Delusion: Why the $850 Billion Tech Bubble is About to BURST (ChatGPT Exposed)](https://www.youtube.com/watch?v=Uxd7D92AshA)**
+
+The AI Delusion: Why the $850 Billion Tech Bubble is About to BURST Artificial Intelligence was supposed to change ...
+
+📺 Alex Krainer
+
+👁️ 34K • 👍 3K • 💬 464 • ⏱️ 32:11 • 1d ago
 
 ---
 
@@ -377,7 +355,27 @@ Join our WhatsApp Community: https://go.stayingahead.com/YT Want to Train Your T
 
 📺 Vaibhav Sisinty
 
-👁️ 127K • 👍 4K • 💬 267 • ⏱️ 20:36 • 1d ago
+👁️ 131K • 👍 4K • 💬 273 • ⏱️ 20:36 • 1d ago
+
+---
+
+**[Every level of the AI takeover](https://www.youtube.com/watch?v=Qj9--hb-prA)**
+
+This video was made with financial support from the Center for AI Safety. What happens when we build systems so efficiently that ...
+
+📺 Aperture
+
+👁️ 51K • 👍 2K • 💬 189 • ⏱️ 42:31 • 2d ago
+
+---
+
+**[AI is already getting boring • FRANCE 24 English](https://www.youtube.com/watch?v=JKbezr4yZ6c)**
+
+It could end white-collar work. It could end poverty. It could end humanity. From AI's boosters and doomsters alike, bumptious ...
+
+📺 FRANCE 24 English
+
+👁️ 77K • 👍 2K • 💬 339 • ⏱️ 4:51 • 2d ago
 
 ---
 
@@ -393,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 174,402 • ❤️ 3,182 • 2d ago
+⬇️ 174,402 • ❤️ 3,195 • 2d ago
 
 ---
 
@@ -405,7 +403,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 57,743 • ❤️ 1,051 • 6d ago
+⬇️ 57,743 • ❤️ 1,062 • 6d ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 508,728 • ❤️ 978 • 5d ago
+⬇️ 508,728 • ❤️ 984 • 5d ago
 
 ---
 
@@ -429,7 +427,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 96,948 • ❤️ 836 • 2d ago
+⬇️ 96,948 • ❤️ 840 • 2d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 702,161 • ❤️ 482 • 6d ago
+⬇️ 702,161 • ❤️ 484 • 6d ago
 
 ---
 
@@ -453,7 +451,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 489,001 • ❤️ 1,137 • 4h ago
+⬇️ 489,001 • ❤️ 1,141 • 6h ago
 
 ---
 
@@ -465,7 +463,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,510,129 • ❤️ 1,496 • 5d ago
+⬇️ 1,510,129 • ❤️ 1,498 • 5d ago
 
 ---
 
@@ -477,7 +475,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 396 • ❤️ 267 • 1d ago
+⬇️ 396 • ❤️ 275 • 1d ago
 
 ---
 
@@ -487,7 +485,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `1600.8B`
 
-⬇️ 1,532 • ❤️ 235 • 2d ago
+⬇️ 1,532 • ❤️ 236 • 2d ago
 
 ---
 
@@ -499,7 +497,7 @@ LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-o
 
 `any-to-any` `16.3B`
 
-⬇️ 506 • ❤️ 225 • 5d ago
+⬇️ 506 • ❤️ 228 • 5d ago
 
 ---
 
@@ -515,7 +513,7 @@ LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-o
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 166 • 💬 10 • ⭐ 44,735 • 8mo ago
+▲ 166 • 💬 10 • ⭐ 45,283 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -547,20 +545,6 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
-**[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764)**
-
-*Weijie Wang, Xiaoxuan He, Youping Gu et al. (12 authors)*
-
-🏢 Microsoft Research
-
-World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
-
-▲ 107 • 💬 3 • ⭐ 197 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
-
----
-
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -575,13 +559,27 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
+**[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764)**
+
+*Weijie Wang, Xiaoxuan He, Youping Gu et al. (12 authors)*
+
+🏢 Microsoft Research
+
+World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
+
+▲ 108 • 💬 3 • ⭐ 239 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
+
+---
+
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 28 • 💬 3 • ⭐ 21,877 • 8mo ago
+▲ 28 • 💬 3 • ⭐ 21,937 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -601,6 +599,18 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
+**[Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://huggingface.co/papers/2604.24763)**
+
+*Zhiheng Liu, Weiming Ren, Xiaoke Huang et al. (15 authors)*
+
+Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
+
+▲ 54 • 💬 4 • ⭐ 260 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
+
+---
+
 **[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)**
 
 *Yilei Jiang, Jinyuan Hu, Qianyin Xiao et al. (11 authors)*
@@ -613,18 +623,6 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 ---
 
-**[Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://huggingface.co/papers/2604.24763)**
-
-*Zhiheng Liu, Weiming Ren, Xiaoke Huang et al. (15 authors)*
-
-Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
-
-▲ 52 • 💬 4 • ⭐ 139 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -632,7 +630,7 @@ Tuna-2 is a unified multimodal model that performs visual understanding and gene
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,498 • 31mo ago
+▲ 54 • 💬 1 • ⭐ 78,498 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -648,7 +646,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.3k • 🔱 6.6k • 7h ago
+⭐ 50.3k • 🔱 6.6k • 9h ago
 
 ---
 
@@ -658,7 +656,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 49.6k • 🔱 2.6k • 10d ago
+⭐ 49.8k • 🔱 2.6k • 11d ago
 
 ---
 
@@ -678,7 +676,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 37.6k • 🔱 4.2k • 40m ago
+⭐ 37.7k • 🔱 4.2k • 1h ago
 
 ---
 
@@ -688,7 +686,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 11.1k • 🔱 2.5k • 1d ago
+⭐ 11.1k • 🔱 2.5k • 2d ago
 
 ---
 
@@ -698,7 +696,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 7.7k • 🔱 454 • 1d ago
+⭐ 7.7k • 🔱 453 • 1d ago
 
 ---
 
@@ -708,7 +706,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 6.8k • 🔱 1.1k • 3h ago
+⭐ 6.9k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -728,7 +726,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.9k • 🔱 467 • 20d ago
+⭐ 4.9k • 🔱 468 • 20d ago
 
 ---
 
@@ -738,7 +736,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.8k • 🔱 434 • 17h ago
+⭐ 4.8k • 🔱 434 • 19h ago
 
 ---
 
