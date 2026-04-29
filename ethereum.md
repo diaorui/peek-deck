@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-29T17:59:00.091321+00:00'
+updated: '2026-04-29T19:47:45.276009+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 17:59 UTC  
+**Last Updated:** April 29, 2026 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,270.57
+### $2,239.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -2.4%  
-**30d:** +7.9%  
-**90d:** -16.0%  
-**1y:** +26.8%  
+**24h:** -2.9%  
+**7d:** -4.4%  
+**30d:** +5.7%  
+**90d:** -17.7%  
+**1y:** +24.2%  
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
-
----
-
-**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
-
-1h ago
+14h ago
 
 ---
 
@@ -86,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
 
-15h ago
+17h ago
 
 ---
 
@@ -94,7 +88,7 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 
 What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
 
-🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 3h ago
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 4h ago
 
 ---
 
@@ -102,7 +96,7 @@ What if the final form of software development was just watching code and proof 
 
 Went through my wallet history and added it all up out of curiosity. Between MetaMask cuts, slippage I didn't notice and double fees from bridging then swapping separately, it was way more than I expected. The worst part is most of it was surely completely avoidable, I just didn't know what to look for at the time, i feel sick, same experience for you? Curious to see gas fees checker as well, where do you see it?
 
-9h ago
+10h ago
 
 ---
 
@@ -110,7 +104,13 @@ Went through my wallet history and added it all up out of curiosity. Between Met
 
 Posted by Solidity Team on April 29, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 3h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 5h ago
+
+---
+
+**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
+
+3h ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 A wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.
 
-Decrypt • 6h ago
+Decrypt • 8h ago
 
 ---
 
@@ -162,23 +162,15 @@ Decrypt • 6h ago
 
 The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
 
-The Block • 12h ago
+The Block • 14h ago
 
 ---
 
-**[Ethereum News: Consensys and Joseph Lubin Add 30,000 ETH to DeFi United](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-consensys-joseph-lubin-144259082.html)**
+**[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://finance.yahoo.com/markets/crypto/articles/whales-selling-ethereum-10-dormant-093215239.html)**
 
-AFP Protección, Colombia’s second-largest pension fund administrator, managing approximately $55Bn across more than 8.5 million clients, has launched a new portfolio product that includes Colombia Bitcoin exposure, marking the second major Colombian pension institution to make this move in under a year. The detail most headlines are missing, though, is ...
+A long-dormant Ethereum ICO wallet moved 10,000 ETH after nearly 11 years. Bitmine continues aggressive ETH accumulation. Derivatives volume far exceeding spot trading suggests increased ...
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitmine buys $294m more Ethereum ahead of Clarity Act ‘markup in May’](https://www.dlnews.com/articles/markets/bitmine-buys-294m-more-ethereum-ahead-of-clarity-act-markup-in-may/)**
-
-Bitmine now owns 4.2% of total Ether supply Senate set to mark up Clarity Act in May, Senator Lummis says.
-
-dlnews.com • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -194,13 +186,15 @@ Fortune • 1d ago
 
 Today, the Federal Reserve is set to announce its April interest rate decision, and Jerome Powell's press conference begins at 12:00 AM IST. The market
 
-Coinpedia • 8h ago
+Coinpedia • 10h ago
 
 ---
 
-**[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://www.ccn.com/news/crypto/whales-selling-ethereum-10-year-dormant-23m-tom-lees-bitmine/)**
+**[Bitmine buys $294m more Ethereum ahead of Clarity Act ‘markup in May’](https://www.dlnews.com/articles/markets/bitmine-buys-294m-more-ethereum-ahead-of-clarity-act-markup-in-may/)**
 
-CCN.com • 8h ago
+Bitmine now owns 4.2% of total Ether supply Senate set to mark up Clarity Act in May, Senator Lummis says.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -208,7 +202,7 @@ CCN.com • 8h ago
 
 Bitcoin (BTC) price is nearing key support at $75,648 on Wednesday, after two consecutive days of pullbacks this week.
 
-FXStreet • 14h ago
+FXStreet • 16h ago
 
 ---
 
@@ -216,7 +210,15 @@ FXStreet • 14h ago
 
 This is a tool you should be using if it's available, but it's not magic.
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
+
+---
+
+**[New Crypto Pepeto Exchange Update Reaches Binance-Level While Ethereum Price Prediction Maps Path to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-update-reaches-binance-level-while-ethereum-price-prediction-maps-path-to-10-000-1036073831)**
+
+Dubai, UAE, April  28, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost tradin...
+
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -238,7 +240,7 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 3K • 💬 18 • ⏱️ 5:55 • 7h ago
+👁️ 14K • 👍 3K • 💬 18 • ⏱️ 5:55 • 9h ago
 
 ---
 
@@ -248,7 +250,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 632 • 💬 123 • ⏱️ 16:31 • 1h ago
+👁️ 5K • 👍 632 • 💬 123 • ⏱️ 16:31 • 3h ago
 
 ---
 
@@ -268,7 +270,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 2K • 💬 129 • ⏱️ 21:33 • 1d ago
+👁️ 59K • 👍 2K • 💬 129 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -278,7 +280,7 @@ Ethereum has recovered 40 percent from the February lows and is now approaching 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 356 • 💬 31 • ⏱️ 19:23 • 18h ago
+👁️ 6K • 👍 356 • 💬 31 • ⏱️ 19:23 • 20h ago
 
 ---
 
@@ -298,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 120 • 👍 12 • ⏱️ 5:22 • 8h ago
+👁️ 120 • 👍 12 • ⏱️ 5:22 • 10h ago
 
 ---
 
@@ -318,7 +320,7 @@ Live Altcoin Analysis with Severin Join us as we break down BTC, ETH, SOL, XRP a
 
 📺 Chart Champions
 
-👁️ 1K • 👍 127 • 9h ago
+👁️ 1K • 👍 127 • 11h ago
 
 ---
 
@@ -328,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 357 • 👍 53 • ⏱️ 5:16 • 2h ago
+👁️ 357 • 👍 53 • ⏱️ 5:16 • 4h ago
 
 ---
 

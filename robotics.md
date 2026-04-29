@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T17:59:00.094161+00:00'
+updated: '2026-04-29T19:47:45.278990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 17:59 UTC  
+**Last Updated:** April 29, 2026 at 19:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,15 @@ Robotics research and industry news
 
 **[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-44m ago
+2h ago
 
 ---
 
-**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
+**[The capabilities of this robotic hand and dexterity of the fingers 🤯 looking like the next level in robotics!](https://www.reddit.com/r/robotics/comments/1sz76e4/the_capabilities_of_this_robotic_hand_and/)**
 
-11h ago
+This Cambridge based startup, Eka Robotics, just came out of stealth today and is promising Vision-Force-Action (VFA) model, the first of its kind that breaks the generality-speed tradeoff and the data barrier!
+
+1h ago
 
 ---
 
@@ -48,7 +50,13 @@ Robotics research and industry news
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-5h ago
+7h ago
+
+---
+
+**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
+
+13h ago
 
 ---
 
@@ -62,7 +70,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
 
-52m ago
+2h ago
 
 ---
 
@@ -70,7 +78,7 @@ A pattern I see in every robotics team I've talked to: Record terabytes of bag d
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 3h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 5h ago
 
 ---
 
@@ -84,7 +92,7 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 hello i wanna make a maze solving robot i made the chase and i did the wirings but when i took the code from chatgpt it doesnt runs alright and hits the wall need help
 
-1h ago
+3h ago
 
 ---
 
@@ -92,13 +100,7 @@ hello i wanna make a maze solving robot i made the chase and i did the wirings b
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-16h ago
-
----
-
-**[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
-
-11h ago
+18h ago
 
 ---
 
@@ -130,19 +132,11 @@ JAL • 2d ago
 
 ---
 
-**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
-
-Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
-
-Chicago Tribune • 23h ago
-
----
-
 **[I've Covered Robots for Years. This One Is Different](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)**
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 7h ago
+WIRED • 9h ago
 
 ---
 
@@ -154,17 +148,25 @@ The Conversation • 1d ago
 
 ---
 
-**[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
+**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
 
-Bloomberg.com • 4h ago
+Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
+
+Chicago Tribune • 1d ago
 
 ---
 
-**[The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More](https://www.eweek.com/news/humanoid-robot-power-rankings-list/)**
+**[Ramping Figure 03 Production](https://www.figure.ai/news/ramping-figure-03-production)**
 
-Explore the top humanoid robots from Tesla, Unitree, Agility Robotics, UBTech, and more, ranked by momentum, real-world use, and commercial potential.
+Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.
 
-eWeek • 7h ago
+Figure • 10h ago
+
+---
+
+**[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
+
+Bloomberg.com • 6h ago
 
 ---
 
@@ -172,7 +174,7 @@ eWeek • 7h ago
 
 The VEX Robotics World Championship at America's Center is hosting thousands of students including six teams from Gateway Science Academy.
 
-STLtoday.com • 1h ago
+STLtoday.com • 3h ago
 
 ---
 
@@ -194,7 +196,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 41K • 👍 1K • 💬 74 • ⏱️ 24:02 • 9h ago
+👁️ 41K • 👍 1K • 💬 74 • ⏱️ 24:02 • 11h ago
 
 ---
 
@@ -214,7 +216,7 @@ Robot dogs with hyper-realistic silicone heads modeled after famous figures like
 
 📺 Associated Press
 
-👁️ 20K • 👍 575 • 💬 171 • ⏱️ 0:59 • 17h ago
+👁️ 20K • 👍 575 • 💬 171 • ⏱️ 0:59 • 18h ago
 
 ---
 
@@ -224,7 +226,7 @@ ABC News' Britt Clennett explores the world's newest robot, the humanoid, which 
 
 📺 ABC News
 
-👁️ 14K • 👍 201 • 💬 79 • ⏱️ 7:55 • 15h ago
+👁️ 14K • 👍 201 • 💬 79 • ⏱️ 7:55 • 17h ago
 
 ---
 
@@ -252,7 +254,7 @@ Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rul
 
 📺 Planet Roomba
 
-👁️ 611 • ⏱️ 13:34 • 3h ago
+👁️ 611 • ⏱️ 13:34 • 5h ago
 
 ---
 
@@ -282,7 +284,7 @@ Early season Override is already being talked about like crazy. In this video I 
 
 📺 Luke does robotics
 
-👁️ 8K • 👍 330 • 💬 53 • ⏱️ 12:17 • 22h ago
+👁️ 8K • 👍 330 • 💬 53 • ⏱️ 12:17 • 1d ago
 
 ---
 
