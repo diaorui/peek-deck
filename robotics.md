@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T21:06:55.252634+00:00'
+updated: '2026-04-29T22:31:21.343813+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 21:06 UTC  
+**Last Updated:** April 29, 2026 at 22:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This Cambridge based startup, Eka Robotics, just came out of stealth today and is promising Vision-Force-Action (VFA) model, the first of its kind that breaks the generality-speed tradeoff and the data barrier!
 
-2h ago
+4h ago
 
 ---
 
@@ -50,13 +50,13 @@ This Cambridge based startup, Eka Robotics, just came out of stealth today and i
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-8h ago
+10h ago
 
 ---
 
 **[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -70,7 +70,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ A pattern I see in every robotics team I've talked to: Record terabytes of bag d
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 7h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 8h ago
 
 ---
 
@@ -92,13 +92,13 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-20h ago
+21h ago
 
 ---
 
 **[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -110,7 +110,7 @@ Most of us learned about rotation matrices (and quaternions to some extend) thro
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 11h ago
+WIRED • 12h ago
 
 ---
 
@@ -134,7 +134,15 @@ BBC • 1d ago
 
 Has nobody watched Terminator?
 
-Engadget • 1h ago
+Engadget • 2h ago
+
+---
+
+**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
+
+Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
+
+Chicago Tribune • 1d ago
 
 ---
 
@@ -150,21 +158,21 @@ The Conversation • 1d ago
 
 Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.
 
-Figure • 12h ago
-
----
-
-**[Central Coast robotics team headed for world championship](https://www.ksbw.com/article/central-coast-robotics-team-world-championship/71166858)**
-
-The Hephaestus Robotics advances to word championship after regional competition win
-
-KSBW • 1h ago
+Figure • 13h ago
 
 ---
 
 **[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
+
+---
+
+**[St. Louis students 'want to win' at international robotics competition held downtown](https://www.stltoday.com/news/local/education/article_cc7f237b-6194-4a53-9f16-a9b781a593af.html)**
+
+The VEX Robotics World Championship at America's Center is hosting thousands of students including six teams from Gateway Science Academy.
+
+STLtoday.com • 6h ago
 
 ---
 
@@ -173,14 +181,6 @@ Bloomberg.com • 8h ago
 Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no obvious application in homes or factories?
 
 New Scientist • 1d ago
-
----
-
-**[A North Texas high school robotics team is one of the best in the world. Now, they're heading to the World Championship to prove it](https://www.wfaa.com/article/news/local/collin-county/allen-robotics-team-heads-to-world-championship-with-top-global-ranking-and-historic-season/287-29837af8-ba67-4138-93b3-3efdf5e09bcc)**
-
-WORLDS BEST | A North Texas high school robotics team is already ranked one of the best in the world. Now, they're ending a historic season at a World Championship.
-
-WFAA • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 60K • 👍 1K • 💬 93 • ⏱️ 24:02 • 13h ago
+👁️ 60K • 👍 1K • 💬 93 • ⏱️ 24:02 • 14h ago
 
 ---
 
@@ -222,7 +222,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 Planet Roomba
 
-👁️ 1K • ⏱️ 13:34 • 7h ago
+👁️ 1K • ⏱️ 13:34 • 8h ago
 
 ---
 

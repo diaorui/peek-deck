@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-29T21:06:55.249474+00:00'
+updated: '2026-04-29T22:31:21.340437+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 21:06 UTC  
+**Last Updated:** April 29, 2026 at 22:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,239.88
+### $2,251.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -3.8%  
-**30d:** +6.4%  
-**90d:** -17.2%  
-**1y:** +24.9%  
+**24h:** -1.6%  
+**7d:** -3.3%  
+**30d:** +6.9%  
+**90d:** -16.8%  
+**1y:** +25.6%  
 
 ---
 
@@ -72,31 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
-
----
-
-**[Calculated how much I paid in swap fees last year and felt sick](https://www.reddit.com/r/ethereum/comments/1syt871/calculated_how_much_i_paid_in_swap_fees_last_year/)**
-
-Went through my wallet history and added it all up out of curiosity. Between MetaMask cuts, slippage I didn't notice and double fees from bridging then swapping separately, it was way more than I expected. The worst part is most of it was surely completely avoidable, I just didn't know what to look for at the time, i feel sick, same experience for you? Curious to see gas fees checker as well, where do you see it?
-
-12h ago
-
----
-
-**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
-
-Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
-
-19h ago
-
----
-
-**[The Final Form of Software Development](https://www.reddit.com/r/ethereum/comments/1sz19k3/the_final_form_of_software_development/)**
-
-What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
-
-🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 6h ago
+17h ago
 
 ---
 
@@ -104,13 +80,29 @@ What if the final form of software development was just watching code and proof 
 
 Posted by Solidity Team on April 29, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 6h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 8h ago
+
+---
+
+**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
+
+Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
+
+20h ago
+
+---
+
+**[The Final Form of Software Development](https://www.reddit.com/r/ethereum/comments/1sz19k3/the_final_form_of_software_development/)**
+
+What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
+
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 7h ago
 
 ---
 
 **[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -146,23 +138,31 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 ---
 
+**[Daily General Discussion April 27, 2026](https://www.reddit.com/r/ethereum/comments/1swtzvs/daily_general_discussion_april_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
-
-**[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://finance.yahoo.com/markets/crypto/articles/whales-selling-ethereum-10-dormant-093215239.html)**
-
-A long-dormant Ethereum ICO wallet moved 10,000 ETH after nearly 11 years. Bitmine continues aggressive ETH accumulation. Derivatives volume far exceeding spot trading suggests increased ...
-
-Yahoo Finance • 11h ago
-
----
 
 **[Ethereum ICO whale moves $23 million in ETH after 10-year dormancy](https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million)**
 
 The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
 
-The Block • 15h ago
+The Block • 17h ago
+
+---
+
+**[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://finance.yahoo.com/markets/crypto/articles/whales-selling-ethereum-10-dormant-093215239.html)**
+
+A long-dormant Ethereum ICO wallet moved 10,000 ETH after nearly 11 years. Bitmine continues aggressive ETH accumulation. Derivatives volume far exceeding spot trading suggests increased ...
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -170,23 +170,15 @@ The Block • 15h ago
 
 A wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.
 
-Decrypt • 9h ago
+Decrypt • 11h ago
 
 ---
 
-**[Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-dip-fed-holds-181442810.html)**
+**[How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum](https://finance.yahoo.com/video/how-bitmines-tom-lee-is-becoming-the-michael-saylor-of-ethereum-163024520.html)**
 
-Wednesday's FOMC meeting was expected to be Jerome Powell’s last as Federal Reserve chair.
+Fundstrat co-founder Tom Lee is bullish on ethereum (ETH-USD), from his recent comments to Bitmine's (BMNR) largest ether purchase of 2026. Scott Melker discusses the details above."The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
-
-Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
-
-Yahoo Finance • 40m ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,19 +190,27 @@ Fortune • 1d ago
 
 ---
 
+**[Bitmine buys $294m more Ethereum ahead of Clarity Act ‘markup in May’](https://www.dlnews.com/articles/markets/bitmine-buys-294m-more-ethereum-ahead-of-clarity-act-markup-in-may/)**
+
+Bitmine now owns 4.2% of total Ether supply Senate set to mark up Clarity Act in May, Senator Lummis says.
+
+dlnews.com • 1d ago
+
+---
+
 **[FOMC Meeting Today: Powell Speech and Fed Interest Rate Decision Could Move BTC, ETH, XRP and Altcoins](https://coinpedia.org/news/fed-rate-cut-news-how-powells-words-could-move-btc-eth-and-altcoins/)**
 
 Today, the Federal Reserve is set to announce its April interest rate decision, and Jerome Powell's press conference begins at 12:00 AM IST. The market
 
-Coinpedia • 11h ago
+Coinpedia • 12h ago
 
 ---
 
-**[Ethereum news: Tom Lee touts ETH as 'wartime store of value' as Bitmine (BMNR) buys more](https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value)**
+**[Ethereum Staking: A Quiet Generational Wealth Engine?](https://www.fool.com/investing/2026/04/28/ethereum-staking-a-quiet-wealth-engine/)**
 
-The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
+This is a tool you should be using if it's available, but it's not magic.
 
-CoinDesk • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -222,11 +222,11 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[Ethereum Staking: A Quiet Generational Wealth Engine?](https://www.fool.com/investing/2026/04/28/ethereum-staking-a-quiet-wealth-engine/)**
+**[NOWPayments Boosts USDT Processing Speed 5x on BSC and Ethereum to Improve Stablecoin Settlement Efficiency](https://thedefiant.io/news/press-releases/nowpayments-boosts-usdt-processing-speed-5x-on-bsc-and-ethereum-to-improve-stablecoin-settlement-efficiency)**
 
-This is a tool you should be using if it's available, but it's not magic.
+Amsterdam, Netherlands, April 28th, 2026, Chainwire. NOWPayments, a crypto payment gateway, has significantly improved processing speed for transactions in USDT across major blockchain networks, achieving a fivefold acceleration in payment and payout ex...
 
-The Motley Fool • 1d ago
+thedefiant.io • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 3K • 💬 29 • ⏱️ 5:55 • 10h ago
+👁️ 16K • 👍 3K • 💬 29 • ⏱️ 5:55 • 12h ago
 
 ---
 
@@ -250,7 +250,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 16K • 👍 1K • 💬 119 • ⏱️ 16:31 • 4h ago
+👁️ 16K • 👍 1K • 💬 119 • ⏱️ 16:31 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 13 • ⏱️ 5:22 • 11h ago
+👁️ 167 • 👍 13 • ⏱️ 5:22 • 13h ago
 
 ---
 
@@ -290,7 +290,7 @@ Live Altcoin Analysis with Severin Join us as we break down BTC, ETH, SOL, XRP a
 
 📺 Chart Champions
 
-👁️ 4K • 👍 353 • 💬 7 • ⏱️ 1:19:41 • 1h ago
+👁️ 4K • 👍 353 • 💬 7 • ⏱️ 1:19:41 • 2h ago
 
 ---
 
@@ -310,7 +310,7 @@ Ethereum has recovered 40 percent from the February lows and is now approaching 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 365 • 💬 32 • ⏱️ 19:23 • 21h ago
+👁️ 6K • 👍 365 • 💬 32 • ⏱️ 19:23 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 632 • 👍 61 • ⏱️ 5:16 • 5h ago
+👁️ 632 • 👍 61 • ⏱️ 5:16 • 7h ago
 
 ---
 
@@ -330,7 +330,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 478 • 👍 48 • 💬 17 • ⏱️ 10:21 • 9h ago
+👁️ 478 • 👍 48 • 💬 17 • ⏱️ 10:21 • 10h ago
 
 ---
 
