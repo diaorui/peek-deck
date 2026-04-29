@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-29T19:47:45.270639+00:00'
+updated: '2026-04-29T21:06:55.243451+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 19:47 UTC  
+**Last Updated:** April 29, 2026 at 21:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,560.51
+### $75,665.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -3.6%  
-**30d:** +10.5%  
-**90d:** -10.5%  
-**1y:** -20.0%  
+**24h:** -0.7%  
+**7d:** -3.3%  
+**30d:** +10.8%  
+**90d:** -10.2%  
+**1y:** -19.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1520.59B
+**Market Cap:** $1514.84B
 Rank #1
 
-**Circulating Supply:** 20,022,387 BTC
+**Circulating Supply:** 20,022,396 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-40.0%
 
 **All-Time Low:** $67.81
-+111874.6%
++111458.8%
 
 ---
 
@@ -81,21 +81,21 @@ Rank #1
 
 In February 2023, Major Jason Lowery — an active US Space Force officer on a National Defense Fellowship at MIT — published a thesis called *Softwar*. His argument: Bitcoin's Proof-of-Work is not a monetary mechanism. It is a form of power projection. Whoever commands the most mining infrastructure commands the most defensible territory in the digital domain. He recommended the DoD treat Bitcoin mining as a national security priority — no differently than naval power or satellite positioning. Late 2024: the Department of Defense placed the book under retroactive security review. Commercial distribution was halted. Lowery was instructed to stop discussing Bitcoin publicly. No official statement. No denial. No explanation of any kind. The thesis is still accessible in MIT's repository. Physical copies reached $300 on the secondary market. Governments don't quietly suppress things they consider irrelevant. They ignore them. The question worth asking: if Bitcoin is just a speculative asset, why does a military thesis about it require a security review?
 
-7h ago
+9h ago
+
+---
+
+**[Steak ‘n Shake Says Bitcoin Payments Cut Processing Costs by 50%, Save $6 Million Annually](https://www.reddit.com/r/Bitcoin/comments/1sza48d/steak_n_shake_says_bitcoin_payments_cut/)**
+
+Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has become central to the chain’s turnaround, driving 2 million new customers, cutting costs, and helping fund a healthier menu overhaul.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 57m ago
 
 ---
 
 **[Can't fix the world without fixing the money 🫡](https://www.reddit.com/r/Bitcoin/comments/1sykiya/cant_fix_the_world_without_fixing_the_money/)**
 
-18h ago
-
----
-
-**[J-Pow’s Final FOMC is TODAY. BlackRock is vacuuming up the supply. Is the $80k wall finally going to break?](https://www.reddit.com/r/Bitcoin/comments/1syw2ki/jpows_final_fomc_is_today_blackrock_is_vacuuming/)**
-
-We are sitting at a historic crossroads today, April 29th. Jerome Powell is officially stepping down, and today marks his final FOMC press conference as Fed Chair. At the exact same time, we are watching BlackRock’s IBIT pull in hundreds of millions in net inflows daily, basically swallowing the daily mined supply whole. Yet, we are still bouncing between $77k and $79k, getting rejected at the $80,000 psychological barrier. With the US-Iran ceasefire calming the macro markets and the Fed transition looming, it feels like a coiled spring. Are we seeing massive OTC accumulation by institutions keeping the spot price down, or is the post-Powell era already priced in? What are your moves here? Are you front-running the new Fed Chair, or waiting for a confirmed break above $80k? Or does it not even matter to you and you just stack regardless of the fiat price?
-
-8h ago
+19h ago
 
 ---
 
@@ -103,13 +103,21 @@ We are sitting at a historic crossroads today, April 29th. Jerome Powell is offi
 
 Bitcoin keeps growing with more users, better tools and wider acceptance over time. What gives you the most confidence in Bitcoin long term - scarcity, adoption or something else?
 
-4h ago
+5h ago
+
+---
+
+**[J-Pow’s Final FOMC is TODAY. BlackRock is vacuuming up the supply. Is the $80k wall finally going to break?](https://www.reddit.com/r/Bitcoin/comments/1syw2ki/jpows_final_fomc_is_today_blackrock_is_vacuuming/)**
+
+We are sitting at a historic crossroads today, April 29th. Jerome Powell is officially stepping down, and today marks his final FOMC press conference as Fed Chair. At the exact same time, we are watching BlackRock’s IBIT pull in hundreds of millions in net inflows daily, basically swallowing the daily mined supply whole. Yet, we are still bouncing between $77k and $79k, getting rejected at the $80,000 psychological barrier. With the US-Iran ceasefire calming the macro markets and the Fed transition looming, it feels like a coiled spring. Are we seeing massive OTC accumulation by institutions keeping the spot price down, or is the post-Powell era already priced in? What are your moves here? Are you front-running the new Fed Chair, or waiting for a confirmed break above $80k? Or does it not even matter to you and you just stack regardless of the fiat price?
+
+9h ago
 
 ---
 
 **[Bitcoin Transparency Gets A Boost As Dorsey's Block Unveils Reserve Proof](https://www.reddit.com/r/Bitcoin/comments/1syrd33/bitcoin_transparency_gets_a_boost_as_dorseys/)**
 
-🔗 [bitcoincurate.com](https://bitcoincurate.com/go.php?id=headline&url=https%3A%2F%2Fbitcoinist.com%2Fbitcoin-transparency-gets-a-boost-as-dorseys-block-unveils-reserve-proof%2F&title=Bitcoin+Transparency+Gets+A+Boost+As+Dorsey%E2%80%99s+Block+Unveils+Reserve+Proof&source=Bitcoinist&cat=News&pos=5) • 12h ago
+🔗 [bitcoincurate.com](https://bitcoincurate.com/go.php?id=headline&url=https%3A%2F%2Fbitcoinist.com%2Fbitcoin-transparency-gets-a-boost-as-dorseys-block-unveils-reserve-proof%2F&title=Bitcoin+Transparency+Gets+A+Boost+As+Dorsey%E2%80%99s+Block+Unveils+Reserve+Proof&source=Bitcoinist&cat=News&pos=5) • 13h ago
 
 ---
 
@@ -117,7 +125,13 @@ Bitcoin keeps growing with more users, better tools and wider acceptance over ti
 
 Worth saying clearly before the usual dismissals start. For anyone who hasn't seen it: https://www.youtube.com/shorts/K-oX9mWYXNA Keen isn't Schiff and he doesn't have a predictable agenda. He's a complexity theorist who built dynamic models of the economy and called 2008 before almost anyone in his profession did, so his argument deserves a serious answer rather than ridicule. His case is straightforward. Bitcoin's security model requires proof-of-work to be expensive, because it has to cost more to attack the network than to defend it, and that means sustained, large-scale energy consumption. His contention is that climate policy will eventually make that politically untenable. The difficulty is that he's treating Bitcoin's energy use as though it were a fixed quantity, and it isn't. When energy becomes expensive or heavily regulated, miners operating on thin margins leave the network, hash rate falls, and the difficulty adjustment mechanism recalibrates automatically. The network reaches a new equilibrium at lower energy consumption, which is a straightforward consequence of how the protocol is designed, not a theoretical possibility. There's a second thing his argument doesn't account for. The renewable energy transition he's pointing to as the threat is simultaneously generating vast quantities of stranded power, meaning electricity produced at times or in locations where it simply cannot reach the grid, and miners are already the natural buyer of that energy. The same policy environment Keen believes will strangle Bitcoin is, through a different pathway, providing it with some of its cheapest and most abundant fuel. Keen has precisely the analytical background needed to understand Bitcoin properly, particularly feedback loops, non-linear dynamics and complex adaptive systems, and the frustrating thing is that he's applied those tools to the wrong model of what Bitcoin actually is. I've been working through this in some depth in a book published this month, The Satoshi Strategy, which applies System Dynamics formally to Bitcoin's economic architecture. Interested to hear whether anyone here has a formulation of the energy argument that actually survives this kind of analysis. (My book available in paperbook and ebook: https://www.amazon.com/Satoshi-Strategy-Bitcoin-Dynamics-Architecture/dp/B0GXSTGYTB/ref=tmm_pap_swatch_0
 
-10h ago
+12h ago
+
+---
+
+**[The Balkanization of Bitcoin: How Stratum V2 and the Pleb Miner Defeat OFAC Base-Layer Censorship. The state couldn't ban the network, so they captured the corporate miners. How Stratum V2 and a decentralized army of off-grid pleb miners are mathematically destroying OFAC censorship.](https://www.reddit.com/r/Bitcoin/comments/1sz5j4t/the_balkanization_of_bitcoin_how_stratum_v2_and/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-balkanization-of-bitcoin-how) • 3h ago
 
 ---
 
@@ -125,7 +139,7 @@ Worth saying clearly before the usual dismissals start. For anyone who hasn't se
 
 1) Digital Cash to transfer people money with less fees (especially international) or for purposes banks would cause trouble with. 2) An inflation proof asset to diversify/hedge your portfolio. 3) Something else (please let me know)
 
-2h ago
+4h ago
 
 ---
 
@@ -133,21 +147,7 @@ Worth saying clearly before the usual dismissals start. For anyone who hasn't se
 
 I’ve been around crypto content since the pandemic but never actually took Bitcoin seriously back then. Now I’m seeing it again in 2026 and I can’t tell if people still treat it like something new users can slowly get into, or if it’s already at that “you either were early or you just observe now” stage. Genuinely asking, not trying to overthink it. Just curious how newer people approach it today.
 
-3h ago
-
----
-
-**[The Balkanization of Bitcoin: How Stratum V2 and the Pleb Miner Defeat OFAC Base-Layer Censorship. The state couldn't ban the network, so they captured the corporate miners. How Stratum V2 and a decentralized army of off-grid pleb miners are mathematically destroying OFAC censorship.](https://www.reddit.com/r/Bitcoin/comments/1sz5j4t/the_balkanization_of_bitcoin_how_stratum_v2_and/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-balkanization-of-bitcoin-how) • 2h ago
-
----
-
-**[Ledger or Trezor](https://www.reddit.com/r/Bitcoin/comments/1syrbqp/ledger_or_trezor/)**
-
-i put out a thread asking for cold wallet ideas, and i got mixed responses some said trezor was the best, ledger was okay. I've also been seeing that the ledger has some sort of a backdoor whereas trezor is completely open souse and is the best. Just wondering which is the best and why
-
-12h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ i put out a thread asking for cold wallet ideas, and i got mixed responses some 
 
 **[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -169,41 +169,33 @@ Forbes • 1d ago
 
 ---
 
-**[How Bitcoin Loans Are Powering New Homebuyers](https://bitcoinmagazine.com/news/how-bitcoin-backed-loans-homeownership)**
+**[Riot Platforms (RIOT) Beyond Bitcoin: You Want to Watch This Space](https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-beyond-bitcoin-203859525.html)**
 
-At the Bitcoin 2026 Conference, executives from SALT Lending and Peoples Reserve argued that Bitcoin-backed loans are emerging as a viable path to homeownership by letting holders leverage Bitcoin as collateral instead of selling it.
+Riot Platforms, Inc. (NASDAQ:RIOT) is among the best cryptocurrency stocks to buy right now. This bitcoin stock has gained almost 140% in the past 12 months. On April 21, Piper Sandler lifted its price target on Riot Platforms, Inc. (NASDAQ:RIOT) to $23 from $21 and reiterated an Overweight rating on the stock. The firm based […]
 
-Bitcoin Magazine • 44m ago
-
----
-
-**[Bitcoin Is Behind Recent Steak ‘n Shake Success, Exec Says](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback)**
-
-Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has become central to the chain’s turnaround, driving 2 million new customers, cutting costs, and helping fund a healthier menu overhaul.
-
-Bitcoin Magazine • 47m ago
+Yahoo Finance • 27m ago
 
 ---
 
-**[Peter Brandt Says Those Who Predict Bitcoin At $250,000 'Need To Stop With The Mushrooms' As Arthur Hayes Slashes Year-End Forecast](https://finance.yahoo.com/markets/crypto/articles/peter-brandt-says-those-predict-163107573.html)**
+**[Eric Trump, John Koudounis Call Bitcoin A Global Reserve Asset, Float $1M Price Target](https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset)**
 
-Veteran trader Peter Brandt on Monday urged Bitcoin bulls who are predicting $250,000 in 2026 to tone down the hype and focus on more realistic price targets. No Bullish Bottoming Pattern Yet Brandt, a technical analyst with nearly 50 years...
+American Bitcoin Co-Founder and Calamos CEO John Koudounis told attendees at Bitcoin 2026 in Las Vegas that the ownership structure of bitcoin has changed in a way that makes a price retreat less likely, and both men urged skeptics to reconsider the asset before a coming wave of institutional and generational capital arrives.
 
-Yahoo Finance • 3h ago
-
----
-
-**[$1.5M Bitcoin Price? Cathie Wood Doubles Down on Bold Prediction Amid Pushback](https://www.ccn.com/news/crypto/1-5m-bitcoin-price-cathie-wood-bold-prediction-pushback/)**
-
-CCN.com • 8h ago
+Bitcoin Magazine • 38m ago
 
 ---
 
-**[Bitcoin Price Prediction: A Wealth Manager Says BTC Will Hit $200K by 2027](https://247wallst.com/investing/2026/04/27/bitcoin-price-prediction-a-wealth-manager-says-btc-will-hit-200k-by-2027/)**
+**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
 
-A Wall Street firm managing $867B expects Bitcoin to hit $200K by 2027. Let’s see if the prediction can hold up.
+Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
 
-24/7 Wall St. • 1d ago
+Yahoo Finance • 40m ago
+
+---
+
+**[Bitcoin, XRP Prices Fall. What’s Holding Cryptos Back.](https://www.barrons.com/articles/bitcoin-xrp-price-ethereum-cryptos-today-6bb201ef)**
+
+Barron's • 1d ago
 
 ---
 
@@ -211,21 +203,31 @@ A Wall Street firm managing $867B expects Bitcoin to hit $200K by 2027. Let’s 
 
 The Federal Reserve held its benchmark interest rate steady again, a decision marked by Chair Jerome Powell's soon-to-expire tenure.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html)**
+**[Current price of Bitcoin for April 28, 2026](https://fortune.com/article/price-of-bitcoin-04-28-2026/)**
 
-Bitcoin opened at $77,368.28 on Tuesday. The value of bitcoin at 7:10 a.m. ET fell even further to $76,472.05.  Ethereum opened at $2,303.33 on Tuesday. The value of ethereum continued falling as of 7:10 a.m. ET, moving down to $2,278.56.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Yahoo Finance • 1d ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin, XRP Prices Fall. What’s Holding Cryptos Back.](https://www.barrons.com/articles/bitcoin-xrp-price-ethereum-cryptos-today-6bb201ef)**
+**[Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end](https://www.coindesk.com/coindesk-news/2026/04/29/bitcoin-etfs-fuel-institutional-surge-21shares-cio-sees-usd100k-possible-by-year-end)**
 
-Barron's • 1d ago
+Bitcoin’s growing ETF inflows and institutional adoption are reinforcing its role in portfolios, even as prices struggle below $80,000.
+
+CoinDesk • 6h ago
+
+---
+
+**[Paul Tudor Jones says bitcoin is 'unequivocally the best inflation hedge'](https://www.theblock.co/post/399374/paul-tudor-jones-bitcoin-inflation-hedge)**
+
+However, the hedge fund manager did acknowledge concerns surrounding potential cyber warfare and quantum computing risks.
+
+The Block • 7h ago
 
 ---
 
@@ -237,7 +239,7 @@ Barron's • 1d ago
 
 How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
 
-⬆️ 73 • 💬 48 • 21h ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
+⬆️ 75 • 💬 49 • 22h ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -253,7 +255,7 @@ Paul Sztorc’s proposed eCash fork would give investors coins cloned from walle
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 5 • 💬 1 • 5d ago • [Spark](https://www.spark.money)
+⬆️ 5 • 💬 1 • 6d ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -297,7 +299,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Localhost Research is excited to announce a new initiative in partnership with Benedikt Bünz and Dan Boneh. Together, we have established a Post Quantum Cryptography Group that will review, study, and design conservative cryptographic schemes that will help inform the direction and shape of Bitcoin's response to the PQP.
 
-⬆️ 1 • 💬 0 • 3h ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
+⬆️ 1 • 💬 0 • 5h ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
 
 ---
 
@@ -319,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 657 • 💬 38 • ⏱️ 45:38 • 5h ago
+👁️ 14K • 👍 730 • 💬 53 • ⏱️ 45:38 • 6h ago
 
 ---
 
@@ -329,7 +331,17 @@ Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this
 
 📺 Anthony Pompliano
 
-👁️ 56K • 👍 2K • 💬 79 • ⏱️ 14:13 • 22h ago
+👁️ 59K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
+
+---
+
+**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+
+Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+
+📺 Paul Barron Network
+
+👁️ 16K • 👍 1K • 💬 119 • ⏱️ 16:31 • 4h ago
 
 ---
 
@@ -339,47 +351,7 @@ Bitcoin is facing a potential supply shock as Michael Saylor and Strategy keep a
 
 📺 Simply Bitcoin
 
-👁️ 56K • 👍 3K • 💬 240 • ⏱️ 18:10 • 1d ago
-
----
-
-**[Michael Saylor EXPOSES How the supply shock will FORCE Bitcoin to EXPLODE!!! | EP 1492](https://www.youtube.com/watch?v=GFNMrrVT5L8)**
-
-Michael Saylor DOUBLES DOWN on bitcoin supply shock accelerating and lays out how!
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 428 • 💬 142 • ⏱️ 1:16:57 • 1d ago
-
----
-
-**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
-
-The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
-
-📺 Bitcoin Magazine
-
-👁️ 63K • 👍 3K • 💬 296 • ⏱️ 47:01 • 20h ago
-
----
-
-**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
-
-Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
-
-📺 Digital Asset News
-
-👁️ 24K • 👍 1K • 💬 141 • ⏱️ 23:39 • 1d ago
-
----
-
-**[EXPOSED BlackRock and MicroStrategy Bitcoin Ponzi (All of Crypto at RISK)](https://www.youtube.com/watch?v=LcaTiEbhzfg)**
-
-EXPOSED BlackRock and MicroStrategy Bitcoin Ponzi (All of Crypto at RISK) Michael Saylor's Strategy officially owns more ...
-
-📺 CryptoWendyO
-
-👁️ 10K • 👍 540 • 💬 48 • ⏱️ 3:59 • 22h ago
+👁️ 58K • 👍 3K • 💬 247 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -389,27 +361,57 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 3K • 💬 18 • ⏱️ 5:55 • 9h ago
+👁️ 16K • 👍 3K • 💬 29 • ⏱️ 5:55 • 10h ago
 
 ---
 
-**[Bitcoin in 2018 vs. Today](https://www.youtube.com/watch?v=ydQ0Cp6cdhM)**
+**[Bitcoin Exchange Reserves Hit 7 Year Low… Here’s Why](https://www.youtube.com/watch?v=FLXKQM-3ieQ)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+Ledger Golden Week Flash Sale – Official CryptoDad Landing Page https://shop.ledger.com/r/cryptodad?r=6057 Travel ...
 
-📺 Benjamin Cowen
+📺 The CryptoDad
 
-👁️ 12K • 👍 262 • 💬 8 • ⏱️ 0:51 • 18h ago
+👁️ 627 • 👍 82 • 💬 7 • ⏱️ 9:01 • 3h ago
 
 ---
 
-**[Bitcoin in April Changed EVERYTHING… The Truth Will Shock You ⚡️📈💥](https://www.youtube.com/watch?v=sILJeB82zZ8)**
+**[Michael Saylor EXPOSES How the supply shock will FORCE Bitcoin to EXPLODE!!! | EP 1492](https://www.youtube.com/watch?v=GFNMrrVT5L8)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
+Michael Saylor DOUBLES DOWN on bitcoin supply shock accelerating and lays out how!
 
-📺 InvestAnswers
+📺 Simply Bitcoin
 
-👁️ 48K • 👍 4K • 💬 137 • ⏱️ 22:31 • 1d ago
+👁️ 10K • 👍 438 • 💬 143 • ⏱️ 1:16:57 • 1d ago
+
+---
+
+**[Bitcoin 2026: Las Vegas Event — Michael Saylor Keynote](https://www.youtube.com/watch?v=bF8hfpPBZ7M)**
+
+Bitcoin 2026 streaming LIVE from Las Vegas. Industry Day gathers top voices from finance, technology, and public policy to ...
+
+📺 mjtanner
+
+👁️ 3K • 👍 324 • 43m ago
+
+---
+
+**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
+
+The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
+
+📺 Bitcoin Magazine
+
+👁️ 71K • 👍 3K • 💬 317 • ⏱️ 47:01 • 21h ago
+
+---
+
+**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
+
+Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
+
+📺 Digital Asset News
+
+👁️ 24K • 👍 1K • 💬 145 • ⏱️ 23:39 • 1d ago
 
 ---
 
