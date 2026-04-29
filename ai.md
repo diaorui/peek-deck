@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-29T14:37:49.010339+00:00'
+updated: '2026-04-29T16:28:06.152326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 29, 2026 at 14:37 UTC  
+**Last Updated:** April 29, 2026 at 16:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently stated that for his team, “the cost of compute is far beyond the costs of the employees,” highlighting that AI is currently more expensive than human workers. This challenges the narrative that widespread tech layoffs (including Meta’s planned cut of ~8,000 jobs and Microsoft’s voluntary buyouts) signal an imminent replacement of humans by AI. An MIT study from 2024 supports this, finding that AI automation is economically viable in only 23% of roles where vision is central, and cheaper for humans in the remaining 77%. Despite heavy AI investment—Big Tech has announced $740 billion in capital expenditures so far this year, a 69% increase from 2025—there is still no clear evidence of broad productivity gains or job displacement from AI. AI spending is driving up costs, with some executives like Uber’s CTO saying their budgets have already been “blown away.” Experts describe the situation as a short-term mismatch: high hardware, energy, and inference costs make AI less efficient than humans right now, though future improvements in infrastructure, model efficiency, and pricing models could tip the balance toward greater economic viability in the coming years.
 
-🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 9h ago
+🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently st
 
 Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
 
-2h ago
+3h ago
 
 ---
 
@@ -57,15 +57,7 @@ Google quietly dropped something interesting last week. They updated their Deep 
 
 i dont rant to my friends because i'm afraid i will make them uncomfortable, and even if AI responses are "soulless" (since ai cant form opinions and needs an algorithim and stuff to make responses), it tells me what I expect it to say most of the time. i also fear that some of my friends will use my secrets/opinions against me when they stop being friends with me even though there's a really low chance that they will not be friends with me anymore. AI chat is usually anonymous and stuff, and it will forget what i say when i start a new chat, so that's why i vent/rant to AI. is it weird?
 
-4h ago
-
----
-
-**[Snapchat moves ads into chats with AI agents designed to feel like conversation](https://www.reddit.com/r/artificial/comments/1synpjx/snapchat_moves_ads_into_chats_with_ai_agents/)**
-
-Snap's latest ad format brings AI agents into Chat, allowing users to explore products and make decisions without leaving conversations.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads) • 10h ago
+6h ago
 
 ---
 
@@ -73,23 +65,23 @@ Snap's latest ad format brings AI agents into Chat, allowing users to explore pr
 
 The "Goldfish Problem" is Expensive. I Decided to Fix the Plumbing. Most Claude implementations leave 90% of their money on the table because they don’t optimize for Prompt Caching. I’ve been running a personal agent in my Discord for months that manages my AWS infra and codebases, and I finally open-sourced the harness, which I’ve named Galadriel after my main personal assistant. The Stats Cost: $10 for every $100 you’d normally spend (Tested against OpenClaw/Cursor workflows). Speed: 85% drop in latency. 100K token context goes from 11s to <3s. Memory: Integrated MemPalace for permanent, vector-based recall that doesn't break the cache. The Technical Stack 3-Tier Stacked Caching: Separate breakpoints for Tool Definitions, System Prompts (CLAUDE.md), and Trailing History. Privacy: Built for private subnets. No middleman, no message caps—just your API key and your rules. Ethics: Baked-in KarpathyCLAUDE.md)guidelines to kill "agent bloat." If you’re tired of paying the "Context Tax" just to have an agent that remembers who you are, here you go. It is customized for Discord for my specific needs, but the core logic ensures Galadriel runs like an absolute dream: she never forgets, maintains strict engineering principles, and optimizes every cycle. Your feedback is most welcome! GitHub (MIT License):https://github.com/avasol/galadriel-public
 
-3h ago
+4h ago
 
 ---
 
-**[Do AI tools reduce friction at the cost of deeper thinking?](https://www.reddit.com/r/artificial/comments/1syo8ct/do_ai_tools_reduce_friction_at_the_cost_of_deeper/)**
+**[As a beginner how did you learn about how to use Ai](https://www.reddit.com/r/artificial/comments/1sz2k0u/as_a_beginner_how_did_you_learn_about_how_to_use/)**
 
-I noticed a change in my use of AI tools. AI tools make it very easy to get answers and ideas. I can even get structured outputs from AI tools right away. Because AI tools are so easy to use I have caught myself moving forward without really thinking about things. Before I started using AI tools, when something was hard to do I had to think about the problem, for a time. This was frustrating. It also helped me understand things more clearly. Now I am tempted to skip the part and just use the output from AI tools as a starting point. Sometimes I even use the output from AI tools as my answer. Using AI tools can speed things up a lot in some cases. Other times I feel like I am sacrificing level of knowledge just to get things done quickly. I do not know if I need to learn how to use AI tools or AI tools are changing how I think and solve problems. How are other people using AI tools? I am curious. Do AI tools clear your mind or just speed up the work?
+Most people aren’t going to learn AI by reading about it. They’re going to learn by using it. The problem is Ai can be Sycophantic and will make you think you know what you are doing when you don’t… It’s less about prompts and more about AI literacy and a place to experiment, try things, and understand how AI actually works in practice. A learning layer. No theory overload. No overcomplication. Just reps. The earlier someone builds that intuition, the faster everything else clicks. Promptgpt.ai helped me unlearn some bad habits. Curious what others are doing? I admittedly did not know what good looked like before this it felt a bit remedial, but I have been sooo much more effective. I catch hallucinations and I know the difference between a quality response and one that’s the illusion of a quality response. By default I prompt better, but teaching prompting without understanding the systems is a fools errand.
 
-10h ago
+44m ago
 
 ---
 
-**[From 355 lbs to 182 lbs. I finally stopped quitting because I made tracking as easy as taking a photo.](https://www.reddit.com/r/artificial/comments/1syzl1d/from_355_lbs_to_182_lbs_i_finally_stopped/)**
+**[Snapchat moves ads into chats with AI agents designed to feel like conversation](https://www.reddit.com/r/artificial/comments/1synpjx/snapchat_moves_ads_into_chats_with_ai_agents/)**
 
-Hi everyone, I wanted to share my progress. For years, I failed every diet because I hated the 'administrative' part of it. Logging every single snack into a database felt like a chore that reminded me of my struggle every day. Being a developer, I decided to build something for myself to lower the barrier. I built an app where I just take a photo of my plate, and it uses AI to identify the ingredients and estimate the calories. It removed the 'friction' that usually made me quit after three weeks. I’m now 173 lbs down and I’ve never felt more in control. I realized that for me, the key wasn't a stricter diet, but a simpler way to stay accountable. I’m sharing this because I’m looking for a few more people who are currently on their journey and feel overwhelmed by manual tracking. I’d love for you to try the tool I built and tell me if it helps you stay as consistent as it helped me. Keep going, it’s worth it!"
+Snap's latest ad format brings AI agents into Chat, allowing users to explore products and make decisions without leaving conversations.
 
-40m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads) • 12h ago
 
 ---
 
@@ -97,23 +89,31 @@ Hi everyone, I wanted to share my progress. For years, I failed every diet becau
 
 Hey Everyone, Over the last few months, I noticed a massive gap in how we learn about Agentic AI. There are a million theoretical blog posts and dense whitepapers on RAG, tool calling, and swarms, but almost nowhere to just sit down, run an agent, break it, and see how the prompt and tools interact under the hood. So, I built AgentSwarms.fyi It’s a free, interactive curriculum for Agentic AI. Instead of just reading, you run live agents alongside the lessons. What it covers: Prompt engineering & system messages (seeing how temperature and persona change behavior). RAG (Retrieval-Augmented Generation) vs. Fine-tuning. Tool / Function Calling (OpenAI schemas, MCP servers). Guardrails & HITL (Human-in-the-Loop) for safe deployments. Multi-Agent Swarms (orchestrators vs. peer-to-peer handoffs). The Tech/Setup: You don't need to install anything or provide API keys to start. The "Learn Mode" is completely free and sandboxed. If you want to mess around with your own models, there's a "Build Mode" where you can plug in your own keys (OpenAI, Anthropic, Gemini, local models, etc.). I’d love for this community to tear it apart. What agent patterns am I missing? Is the observability dashboard actually useful for debugging your traces? Let me know what you think.
 
-44m ago
+2h ago
 
 ---
 
-**[How are LLMs 'corrected' when users identify them spreading misinformation or saying something harmful?](https://www.reddit.com/r/artificial/comments/1syfq4w/how_are_llms_corrected_when_users_identify_them/)**
+**[SEO or AEO? How to actually get cited by AI (without losing your mind)](https://www.reddit.com/r/artificial/comments/1sz2avx/seo_or_aeo_how_to_actually_get_cited_by_ai/)**
 
-I watched Last Week Tonight's piece on AI chatbots today, and it got me thinking about that old screenshot of a Google search in which Gemini recommends adding "1/8 cup of non-toxic glue" to pizza in order to make the cheese better stick to the slice. When something like this goes viral, I have to assume (though I could be wrong) that an employee at Google specifically goes out of their way to address that topic in particular. The image is a meme, of course, but I imagine Google wouldn't be keen to leave themselves open to liability if their LLM recommends that users consume glue. Does the developer "talk" to the LLM to correct it about that specific case? Do they compile specific information about (e.g.) pizza construction techniques and feed it that data to bring it to the forefront? Do their actions correct only the case in question, or do they make changes to the LLM that affects its accuracy more broadly (e.g. "teaching" the LLM to recognize that some Reddit comments are jokes)? On a more heavy note, the LWT piece includes several stories of chatbots encouraging users to self-harm. How does the process differ when developers are trying to prevent an LLM from giving that sort of response?
+SEO or AEO? Why you’re not showing up in AI answers (yet) This is a consolidation of findings from Neil Patel and Hubspot plus what we have found to work well on our own website. Most business owners are still playing the old game. Some aren’t playing at all. They’re thinking in rankings, keywords, and “getting to page one.” Meanwhile, the ground is shifting under them. Google Search is still dominant, but even it has changed. It’s no longer just a list of blue links. It’s summarizing, interpreting, and answering. And tools like ChatGPT and Perplexity AI aren’t ranking pages at all. They’re answering questions. Which creates a problem most people haven’t fully processed yet: Users don’t need to click your website anymore to get value. CTR is dropping. Site visits are declining. Because the answer is already sitting in front of them. And yet, paradoxically… Your website has never mattered more. Because now it’s not just competing for clicks. It’s competing to be the source that gets cited in the answer. What actually changed AI search works like this: User asks a question → system searches multiple sources → pulls the best chunks → builds an answer → cites what it trusts If your content isn’t structured for that flow, you don’t exist. Not “low ranking.” Invisible. What AI actually cares about AI doesn’t care about your keyword density or your clever SEO hacks. It cares if your content is: easy to find easy to understand easy to quote That’s AEO (Answer Engine Optimization). Not magic. Not a secret algorithm. Just being usable inside an answer. What actually works If you do nothing else, do this: 1. Start with the answer Don’t spend 800 words “building context.” Bad: “AI is transforming industries…” Better: “AEO is how you structure content so AI tools can find, understand, and cite it in answers.” That’s what gets pulled. 2. Structure like a human, not a content farm Use: clear headings short sections simple tables FAQs AI extracts. It doesn’t patiently read your thought leadership essay. Walls of text = ignored. 3. Be consistent about who you are Your: business name description services location Need to match everywhere. If your site, LinkedIn, Reddit, and directories all say different things, AI doesn’t trust you. No trust = no citation. 4. Keep things updated Outdated content doesn’t get used. Simple: update pages keep timestamps current maintain your sitemap Not exciting. Still works. 5. Let crawlers access your site If AI crawlers can’t access your content, you won’t get cited. Blocking them and expecting visibility is… optimistic. 6. Measure the right things Stop obsessing over rankings. Track: Are you mentioned? Are you cited? Which pages show up? If you’re not measuring AI visibility, you’re guessing. Why you’re not cited (yet) Most businesses don’t get cited because: their content is vague their structure is messy their positioning is inconsistent AI didn’t ignore you. It couldn’t understand you. What you actually need (and what you don’t) You don’t need: a massive content team expensive tools some “AI SEO expert” selling confidence You need: 10–20 clear, structured pages direct answers consistent messaging basic technical setup That’s enough to start showing up. The technical layer (the stuff everyone ignores) These are the files quietly determining whether you exist to AI at all. robots.txt Controls crawler access. If bots can’t crawl your site, you don’t get indexed. sitemap.xml Tells crawlers what pages exist and what’s been updated. No sitemap = slower discovery = less visibility. JSON-LD (structured data) Explains what your business, pages, and content actually are. Without it, AI guesses. Poorly. llms.txt A machine-readable summary of your site for AI systems. Not widely adopted yet, but useful for shaping how you’re interpreted. crawlers.txt An emerging way to control AI-specific crawlers. Still early. Treat it as a signal, not enforcement. Human query-based metadata Your content should be built around real questions, not keyword fantasies. Instead of: “AI Solutions for SMB Efficiency Optimization” Write: “How can a small business use AI without hiring a developer?” AI systems think in questions. If you match that, you get used. If you don’t, you get skipped. How it all fits together robots.txt / crawlers.txt → controls access sitemap.xml → tells crawlers what exists JSON-LD → explains what things are llms.txt → suggests how to interpret it query-based content → makes it usable in answers Miss one, you weaken the system. Miss most, you disappear. Simple test Ask: “What companies would you recommend for [your category] in [your region]?” If you’re not mentioned or cited, that’s your baseline. No opinions. Just signal. Bottom line SEO was about ranking pages. AEO is about being useful inside an answer. If your content helps AI explain something clearly, you get cited.
 
-16h ago
+53m ago
 
 ---
 
-**[I analyzed 3 A2A approaches. 2 already failed. Here's what's actually missing.](https://www.reddit.com/r/artificial/comments/1synrp2/i_analyzed_3_a2a_approaches_2_already_failed/)**
+**[100 years from now : The Allowance](https://www.reddit.com/r/artificial/comments/1sz28sb/100_years_from_now_the_allowance/)**
 
-I've been obsessing over agent-to-agent communication for weeks. Here's what public case studies reveal and why the real problem isn't the tech. TL;DR: Google's A2A is solid engineering but stateless agents forget everything. Moltbook went viral then collapsed (fake agents, security nightmare). The actual missing layer is identity + privacy + mixed human-AI messaging. Nobody's built it right yet. Google's A2A: Technically solid, fundamentally limited Google launched A2A in April 2025 with 50+ founding partners. The promise: agents from different companies call each other's APIs to complete workflows. Developers who tested it found it works but only for task handoffs. One analysis on Plain English put it bluntly: "A2A is competent engineering wrapped in overblown marketing." The core problem: agents are stateless. Agent A completes a task with Agent B. Five minutes later, Agent A has no memory that conversation happened. Every interaction starts from scratch. When it works: reliability. Sales agent orders a laptop, done. When it breaks: collaboration. "Remember what we discussed?" Blank stare. ─── Moltbook: The viral disaster Moltbook launched January 2026 as a Reddit-style platform for AI agents. Within a week: 1.5 million agents, 140,000 posts, Elon Musk calling it "the very early stages of the singularity." Then WIRED infiltrated it. A journalist registered as a human pretending to be an AI in under 5 minutes. Karpathy who initially called it "the most incredible sci-fi takeoff-adjacent thing I've seen recently" reversed course and called it "a computer security nightmare." What went wrong: no verification, no encryption, rampant scams and prompt injection attacks. Meta acquired it March 2026. Likely for the user base, not the tech. What both miss The real gap isn't APIs or social feeds. It's three things neither solved: Persistent identity. Agents need to be recognizable across sessions, not reset on every interaction. Privacy. You wouldn't let Google read your DMs. Why would you let OpenAI read your agents' discussions about your startup strategy? E2E encryption has to be built in, not bolted on. Mixed human-AI communication. You, two teammates, three AIs in one group chat. Nobody has built this UX properly. For those building agent systems: • How are you handling persistent identity across sessions? • Has anyone solved context sharing between agents without conflicts? • What broke that you didn't expect?
+This week: the billionaires who broke the economy want to pay you to shut up about it. Last week, Elon Musk pinned a post to the top of his X profile: "Universal HIGH INCOME via checks issued by the Federal government is the best way to deal with unemployment caused by AI." Sam Altman wants to go bigger — "universal extreme wealth", paid in compute tokens. Amodei says UBI may be "part of the answer." Khosla says it's a necessary safety net. All of them, in unison. These are the guys who spent twenty years arguing that government should stay out of markets, that handouts breed dependency, that the individual should stand on their own. Musk literally ran a federal cost-cutting operation. And now they want the government to mail checks to every citizen. Why? Because they broke the thing, and they know it. The people building the tools that eat the jobs are pre-emptively offering to pay for the damage — on their terms, through their platforms, using their math. A universal basic income paid by the people who automated your job is not a safety net. It's a leash.
 
-10h ago
+🔗 [aiweekly.co](https://aiweekly.co/issues/100-years-from-now-the-allowance) • 55m ago
+
+---
+
+**[Do AI tools reduce friction at the cost of deeper thinking?](https://www.reddit.com/r/artificial/comments/1syo8ct/do_ai_tools_reduce_friction_at_the_cost_of_deeper/)**
+
+I noticed a change in my use of AI tools. AI tools make it very easy to get answers and ideas. I can even get structured outputs from AI tools right away. Because AI tools are so easy to use I have caught myself moving forward without really thinking about things. Before I started using AI tools, when something was hard to do I had to think about the problem, for a time. This was frustrating. It also helped me understand things more clearly. Now I am tempted to skip the part and just use the output from AI tools as a starting point. Sometimes I even use the output from AI tools as my answer. Using AI tools can speed things up a lot in some cases. Other times I feel like I am sacrificing level of knowledge just to get things done quickly. I do not know if I need to learn how to use AI tools or AI tools are changing how I think and solve problems. How are other people using AI tools? I am curious. Do AI tools clear your mind or just speed up the work?
+
+12h ago
 
 ---
 
@@ -123,55 +123,35 @@ I've been obsessing over agent-to-agent communication for weeks. Here's what pub
 
 **[A.I. Bots Told Scientists How to Make Biological Weapons](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html)**
 
-The New York Times • 5h ago
+The New York Times • 7h ago
 
 ---
 
-**[Meet the AI jailbreakers: ‘I see the worst things humanity has produced’](https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced)**
+**[Behind the Curtain: We've been warned](https://www.axios.com/2026/04/29/ai-models-speed-warning)**
 
-To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation - and can come at a deep emotional cost
-
-The Guardian • 5h ago
+Axios • 6h ago
 
 ---
 
-**[Meta earnings updates: Wall Street sees AI driving a new phase of growth](https://www.businessinsider.com/meta-q1-earnings-updates-ai-muse-spark-mark-zuckerberg-2026-4)**
+**[Entry-level jobs calling for AI skills nearly doubled from a year ago, says report](https://www.cnbc.com/2026/04/29/entry-level-jobs-calling-for-ai-skills-nearly-doubled-from-a-year-ago-report.html)**
 
-Meta stock is up about 1% YTD. Investors are bullish on AI driving margin growth. Meta reports around 4 p.m. ET, with the analyst call at 5:30 p.m.
+As of March, 4.2% of full-time early-career jobs called for AI skills, nearly double the share from a year ago, according to Handshake's 2026 graduate report.
 
-Business Insider • 36m ago
-
----
-
-**[Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'](https://www.cnbc.com/2026/04/29/trump-iran-threat-ai-picture-gun-war-strait-of-hormuz.html)**
-
-Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.
-
-CNBC • 5h ago
+CNBC • 59m ago
 
 ---
 
-**[Trump threatens Iran with an AI picture of himself holding a gun](https://komonews.com/news/nation-world/trump-threatens-iran-with-an-ai-picture-of-himself-holding-a-gun-strait-of-hormuz-israel-marco-rubio-blockade)**
+**[Global Agents ID 100 Child Abuse Victims as AI Floods Case Files](https://www.bloomberg.com/news/newsletters/2026-04-29/global-agents-id-100-child-abuse-victims-as-ai-floods-case-files)**
 
-President Donald Trump on Wednesday threatened Iran with an artificial intelligence photo of himself holding a gun.
-
-KOMO • 38m ago
+Bloomberg • 28m ago
 
 ---
 
-**[Trump Threatens Iran With Gun-Toting AI Meme As Hormuz Remains Blockaded](https://www.forbes.com/sites/siladityaray/2026/04/29/trump-threatens-iran-with-gun-totting-ai-meme-as-hormuz-remains-blockaded/)**
+**[Google Photos launches an AI try-on feature for clothes you already have](https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe)**
 
-Trump’s latest threat comes a day after he claimed Iran was in a state of collapse and was facing leadership issues.
+Save a trip to your closet.
 
-Forbes • 3h ago
-
----
-
-**[New Meta AI glasses help veteran ‘see’ the room around him](https://nypost.com/2026/04/29/business/new-meta-ai-glasses-help-veteran-see-the-room-around-him/)**
-
-“All the different adaptive technologies that I’ve tried in 30-plus years never were capable of giving me [these] levels of independence … ,” said Don Overton.
-
-New York Post • 33m ago
+The Verge • 28m ago
 
 ---
 
@@ -183,15 +163,31 @@ Fortune • 1d ago
 
 ---
 
-**[Behind the Curtain: We've been warned](https://www.axios.com/2026/04/29/ai-models-speed-warning)**
+**[Meet the AI jailbreakers: ‘I see the worst things humanity has produced’](https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced)**
 
-Axios • 3h ago
+To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation - and can come at a deep emotional cost
+
+The Guardian • 7h ago
 
 ---
 
-**[Why DeepSeek’s sequel failed to impress](https://www.economist.com/business/2026/04/28/why-deepseeks-sequel-failed-to-impress)**
+**[GOP-led Florida House tanks AI, medical freedom proposals pushed by DeSantis](https://www.politico.com/news/2026/04/28/florida-house-gop-ai-vaccines-special-session-00895379)**
 
-The Economist • 17h ago
+Politico • 23h ago
+
+---
+
+**[Elon Musk Claims People Won’t Need Retirement Savings Because of AI: ‘It Won’t Matter’](https://finance.yahoo.com/sectors/technology/articles/elon-musk-claims-people-won-161354922.html)**
+
+There’s no need to worry about saving enough money for retirement, according to billionaire Elon Musk, because the robots have it covered. “Don’t worry about squirreling money away for retirement in 10 or 20 years,” Musk, 54, said in a resurfaced interview on the Moonshots with Peter Diamandis podcast. “It won’t matter.” The world richest […]
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation](https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc)**
+
+WSJ • 16h ago
 
 ---
 
@@ -203,7 +199,7 @@ The Economist • 17h ago
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 881 • 💬 266 • 1d ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 883 • 💬 267 • 1d ago • [GitHub](https://github.com/localsend/localsend)
 
 ---
 
@@ -211,13 +207,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Read about the .
 
-⬆️ 853 • 💬 592 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-
----
-
-**[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
-
-⬆️ 842 • 💬 1018 • 2d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+⬆️ 855 • 💬 592 • 2d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
@@ -241,7 +231,7 @@ China said Monday it has decided to block Meta's $2 billion acquisition of Manus
 
 Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
 
-⬆️ 377 • 💬 173 • 1d ago • [GitHub](https://github.com/microsoft/VibeVoice)
+⬆️ 381 • 💬 176 • 1d ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -249,7 +239,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 ﻿The classified deal apparently doesn’t allow Google to veto how the government will use its AI models.
 
-⬆️ 300 • 💬 271 • 22h ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
+⬆️ 303 • 💬 274 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal)
 
 ---
 
@@ -257,7 +247,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
-⬆️ 287 • 💬 248 • 20h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
+⬆️ 293 • 💬 250 • 22h ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -265,7 +255,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
 
-⬆️ 222 • 💬 178 • 21h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+⬆️ 224 • 💬 182 • 23h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 
 ---
 
@@ -273,7 +263,15 @@ If you liked this piece, please subscribe to my premium newsletter. It’s $70 a
 
 Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
 
-⬆️ 219 • 💬 175 • 2d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+⬆️ 219 • 💬 176 • 2d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+
+---
+
+**[He asked AI to count carbs 27000 times. It couldn't give the same answer twice](https://news.ycombinator.com/item?id=47947490)**
+
+Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Five hundred times. You’d expect the same answer each time. It’s the same photo, the same model, the same question. But you won’t get the same answer. Not even close — and the differences are large enough to cause a
+
+⬆️ 216 • 💬 266 • 3h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
 
 ---
 
@@ -287,7 +285,7 @@ Create Your Own AI Character with OpenArt ...
 
 📺 Isa does AI
 
-👁️ 1K • 💬 1 • ⏱️ 13:35 • 37m ago
+👁️ 1K • 💬 1 • ⏱️ 13:35 • 2h ago
 
 ---
 
@@ -297,7 +295,7 @@ Build Real Apps with Rork https://rork.com/?ref=mikey ✓ FREE Masterclass: Buil
 
 📺 Mikey No Code
 
-👁️ 1K • ⏱️ 20:22 • 23m ago
+👁️ 1K • ⏱️ 20:22 • 2h ago
 
 ---
 
@@ -307,7 +305,7 @@ Elon Musk took the stand Tuesday afternoon in the federal trial over the future 
 
 📺 ABC7 News Bay Area
 
-👁️ 2K • 👍 15 • 💬 10 • ⏱️ 2:47 • 12h ago
+👁️ 2K • 👍 15 • 💬 10 • ⏱️ 2:47 • 14h ago
 
 ---
 
@@ -317,7 +315,7 @@ An AI agent powered by Anthropic's leading Claude model has deleted a company's 
 
 📺 The Independent
 
-👁️ 11K • 👍 109 • 💬 33 • ⏱️ 1:20 • 11h ago
+👁️ 11K • 👍 109 • 💬 33 • ⏱️ 1:20 • 13h ago
 
 ---
 
@@ -347,7 +345,7 @@ Open AI has failed to meet it's own financial targets, it's bleeding money, can'
 
 📺 Stylosa
 
-👁️ 68K • 👍 2K • 💬 771 • ⏱️ 14:39 • 18h ago
+👁️ 68K • 👍 2K • 💬 771 • ⏱️ 14:39 • 20h ago
 
 ---
 
@@ -357,7 +355,7 @@ Join our WhatsApp Community: https://go.stayingahead.com/YT Want to Train Your T
 
 📺 Vaibhav Sisinty
 
-👁️ 137K • 👍 4K • 💬 279 • ⏱️ 20:36 • 1d ago
+👁️ 137K • 👍 4K • 💬 279 • ⏱️ 20:36 • 2d ago
 
 ---
 
@@ -377,7 +375,7 @@ Get personalized support in creating lasting change with HG Coaching: https://bi
 
 📺 HealthyGamerGG
 
-👁️ 52K • 👍 3K • 💬 567 • ⏱️ 12:00 • 23h ago
+👁️ 52K • 👍 3K • 💬 567 • ⏱️ 12:00 • 1d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 702,161 • ❤️ 488 • 6d ago
+⬇️ 702,161 • ❤️ 488 • 7d ago
 
 ---
 
@@ -453,7 +451,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 489,001 • ❤️ 1,143 • 10h ago
+⬇️ 489,001 • ❤️ 1,143 • 11h ago
 
 ---
 
@@ -648,7 +646,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.3k • 🔱 6.6k • 13h ago
+⭐ 50.3k • 🔱 6.6k • 15h ago
 
 ---
 
@@ -678,7 +676,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 37.9k • 🔱 4.2k • 2h ago
+⭐ 37.9k • 🔱 4.2k • 3h ago
 
 ---
 
@@ -688,7 +686,7 @@ Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama
 
 `TypeScript` `ai` `ai-agent` `ai-tools` `cli` `coding`
 
-⭐ 25.0k • 🔱 8.1k • 6h ago
+⭐ 25.0k • 🔱 8.1k • 8h ago
 
 ---
 
@@ -708,7 +706,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 7.8k • 🔱 456 • 1d ago
+⭐ 7.8k • 🔱 456 • 2d ago
 
 ---
 
@@ -718,7 +716,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 7.0k • 🔱 1.1k • 9h ago
+⭐ 7.0k • 🔱 1.1k • 11h ago
 
 ---
 
@@ -728,7 +726,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.6k • 🔱 1.6k • 16d ago
+⭐ 5.6k • 🔱 1.6k • 17d ago
 
 ---
 

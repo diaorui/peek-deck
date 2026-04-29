@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-29T14:37:49.024703+00:00'
+updated: '2026-04-29T16:28:06.166557+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 14:37 UTC  
+**Last Updated:** April 29, 2026 at 16:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,321.73
+### $2,270.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -1.0%  
-**30d:** +9.5%  
-**90d:** -14.8%  
-**1y:** +28.6%  
+**24h:** -0.8%  
+**7d:** -2.5%  
+**30d:** +7.8%  
+**90d:** -16.1%  
+**1y:** +26.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Went through my wallet history and added it all up out of curiosity. Between MetaMask cuts, slippage I didn't notice and double fees from bridging then swapping separately, it was way more than I expected. The worst part is most of it was surely completely avoidable, I just didn't know what to look for at the time, i feel sick, same experience for you? Curious to see gas fees checker as well, where do you see it?
 
-5h ago
+7h ago
 
 ---
 
@@ -88,7 +88,15 @@ Went through my wallet history and added it all up out of curiosity. Between Met
 
 Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
 
-12h ago
+14h ago
+
+---
+
+**[The Final Form of Software Development](https://www.reddit.com/r/ethereum/comments/1sz19k3/the_final_form_of_software_development/)**
+
+What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
+
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 1h ago
 
 ---
 
@@ -96,7 +104,7 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 
 Posted by Solidity Team on April 29, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 11m ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 2h ago
 
 ---
 
@@ -104,7 +112,7 @@ Posted by Solidity Team on April 29, 2026
 
 the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
 
-21h ago
+23h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Access .eth websites without gateways](https://www.reddit.com/r/ethereum/comments/1sx0kg1/access_eth_websites_without_gateways/)**
-
-I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
-
-🔗 [neomist.eth](https://neomist.eth.link) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 A wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.
 
-Decrypt • 3h ago
+Decrypt • 5h ago
 
 ---
 
@@ -164,7 +164,15 @@ Decrypt • 3h ago
 
 The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
 
-The Block • 9h ago
+The Block • 11h ago
+
+---
+
+**[Current price of Ethereum for April 27, 2026](https://fortune.com/article/price-of-ethereum-04-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2d ago
 
 ---
 
@@ -172,37 +180,29 @@ The Block • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
 
 ---
 
-**[Ethereum Repeats 2021 Price Levels](https://coinpedia.org/crypto-live-news/ethereum-repeats-2021-price-levels/)**
+**[Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html)**
 
-Ethereum price is near 2021 levels despite big swings, while network activity, staking, and DeFi growth continue to rise strongly.
+Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
 
-Coinpedia • 1d ago
-
----
-
-**[Ethereum Price Surges On Shank Tank Investor's Endorsement](https://dmarketforces.com/ethereum-price-surges-on-shank-tank-investors-endorsement/)**
-
-Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
-
-MarketForces Africa • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Allocation Update - Q1 2026](https://blog.ethereum.org/2026/04/29/allocation-q1-26)**
 
-ethereum.org • 48m ago
+ethereum.org • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, April 29, 2026: Values continue to fall this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-29-2026-values-continue-to-fall-this-week-113845501.html)**
+**[Ethereum ICO-Era Whale Moves $23 Million in ETH After a Decade of Dormancy](https://finance.yahoo.com/markets/crypto/articles/ethereum-ico-era-whale-moves-132328802.html)**
 
-Bitcoin opened at $76,340.38 on Wednesday, rising to $77,507.63 as of 7:24 a.m. ET. Ethereum opened at $2,289.20 on Wednesday, trading at $2,330.43 as of 7:24 a.m. ET.
+A wallet linked to Ethereum’s 2014 ICO moved approximately $23 million in ETH last week after roughly a decade of inactivity, with blockchain monitoring service flagging the transfer from the dormant address and tracing proceeds through a multisig wallet, which has since deposited a cumulative 12,001 ETH, equivalent to approximately ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -214,17 +214,17 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-unprecedented-world-record-of-5-078-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-3-billion-302753891.html)**
+**[FOMC Meeting Today: Powell Speech and Fed Interest Rate Decision Could Move BTC, ETH, XRP and Altcoins](https://coinpedia.org/news/fed-rate-cut-news-how-powells-words-could-move-btc-eth-and-altcoins/)**
 
-Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
+Today, the Federal Reserve is set to announce its April interest rate decision, and Jerome Powell's press conference begins at 12:00 AM IST. The market
 
-PR Newswire • 2d ago
+Coinpedia • 6h ago
 
 ---
 
 **[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://www.ccn.com/news/crypto/whales-selling-ethereum-10-year-dormant-23m-tom-lees-bitmine/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 3K • 💬 10 • ⏱️ 5:55 • 4h ago
+👁️ 8K • 👍 3K • 💬 10 • ⏱️ 5:55 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 22K • 👍 1K • 💬 136 • ⏱️ 23:39 • 20h ago
+👁️ 22K • 👍 1K • 💬 136 • ⏱️ 23:39 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 —
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 290 • 💬 77 • ⏱️ 14:56 • 22h ago
+👁️ 7K • 👍 290 • 💬 77 • ⏱️ 14:56 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum has recovered 40 percent from the February lows and is now approaching 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 344 • 💬 30 • ⏱️ 19:23 • 15h ago
+👁️ 5K • 👍 344 • 💬 30 • ⏱️ 19:23 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum might finally be thawing out of its “mini winter.” The structure lo
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 403 • 💬 251 • ⏱️ 14:02 • 22h ago
+👁️ 6K • 👍 403 • 💬 251 • ⏱️ 14:02 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 91 • 👍 9 • ⏱️ 5:22 • 5h ago
+👁️ 91 • 👍 9 • ⏱️ 5:22 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 80 • 👍 15 • 💬 3 • ⏱️ 10:21 • 3h ago
+👁️ 80 • 👍 15 • 💬 3 • ⏱️ 10:21 • 4h ago
 
 ---
 

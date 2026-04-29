@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T14:37:49.027859+00:00'
+updated: '2026-04-29T16:28:06.169666+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 14:37 UTC  
+**Last Updated:** April 29, 2026 at 16:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-2h ago
+4h ago
 
 ---
 
@@ -56,7 +56,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 37m ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 2h ago
 
 ---
 
@@ -66,17 +66,25 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 ---
 
+**[tryin to make a maze solving robot](https://www.reddit.com/r/robotics/comments/1sz3iyl/tryin_to_make_a_maze_solving_robot/)**
+
+hello i wanna make a maze solving robot i made the chase and i did the wirings but when i took the code from chatgpt it doesnt runs alright and hits the wall need help
+
+10m ago
+
+---
+
 **[Rotations and Kinematics in State Estimation](https://www.reddit.com/r/robotics/comments/1syk1oy/rotations_and_kinematics_in_state_estimation/)**
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-13h ago
+15h ago
 
 ---
 
 **[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -84,21 +92,13 @@ Most of us learned about rotation matrices (and quaternions to some extend) thro
 
 github: https://github.com/amathislab/musclemimic MuscleMimic is a JAX-based motion imitation learning research benchmark specifically designed for biomechanically accurate muscle-actuated models. It focuses on advancing research in muscle-driven locomotion and manipulation through high-performance neural policy training.
 
-21h ago
+23h ago
 
 ---
 
 **[Boston Dynamics Trailer Unloading at MODEX](https://www.reddit.com/r/robotics/comments/1sy2hs7/boston_dynamics_trailer_unloading_at_modex/)**
 
 1d ago
-
----
-
-**[Looking for people going to ICRA 2026 in Vienna](https://www.reddit.com/r/robotics/comments/1syvrki/looking_for_people_going_to_icra_2026_in_vienna/)**
-
-Hey everyone :D I am a 23yo master‘s student looking for others who want to explore the conference together, grab a coffee or drink a beer afterwards. It’s my first conference so I am really looking forward to explore everything and I thought doing parts of it together would be nicer. Just hit me up if you also go and want to connect. We can exchange socials or text on Reddit. Looking forward to meeting you!
-
-3h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone :D I am a 23yo master‘s student looking for others who want to ex
 
 Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
 
-The Guardian • 22h ago
+The Guardian • 1d ago
 
 ---
 
@@ -132,7 +132,7 @@ JAL • 2d ago
 
 **[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
 
-Bloomberg.com • 1h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -140,7 +140,7 @@ Bloomberg.com • 1h ago
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 4h ago
+WIRED • 6h ago
 
 ---
 
@@ -152,22 +152,6 @@ The Conversation • 1d ago
 
 ---
 
-**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
-
-Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
-
-Chicago Tribune • 20h ago
-
----
-
-**[The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More](https://www.eweek.com/news/humanoid-robot-power-rankings-list/)**
-
-Explore the top humanoid robots from Tesla, Unitree, Agility Robotics, UBTech, and more, ranked by momentum, real-world use, and commercial potential.
-
-eWeek • 4h ago
-
----
-
 **[A North Texas high school robotics team is one of the best in the world. Now, they're heading to the World Championship to prove it](https://www.wfaa.com/article/news/local/collin-county/allen-robotics-team-heads-to-world-championship-with-top-global-ranking-and-historic-season/287-29837af8-ba67-4138-93b3-3efdf5e09bcc)**
 
 WORLDS BEST | A North Texas high school robotics team is already ranked one of the best in the world. Now, they're ending a historic season at a World Championship.
@@ -176,11 +160,27 @@ WFAA • 1d ago
 
 ---
 
+**[The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More](https://www.eweek.com/news/humanoid-robot-power-rankings-list/)**
+
+Explore the top humanoid robots from Tesla, Unitree, Agility Robotics, UBTech, and more, ranked by momentum, real-world use, and commercial potential.
+
+eWeek • 6h ago
+
+---
+
 **[Humanoid robots may be about to break the 100-metre sprint record](https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/)**
 
 Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no obvious application in homes or factories?
 
 New Scientist • 1d ago
+
+---
+
+**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
+
+Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
+
+Bessemer Venture Partners • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 23K • 👍 798 • 💬 57 • ⏱️ 24:02 • 6h ago
+👁️ 23K • 👍 798 • 💬 57 • ⏱️ 24:02 • 8h ago
 
 ---
 
@@ -214,7 +214,7 @@ ABC News' Britt Clennett explores the world's newest robot, the humanoid, which 
 
 📺 ABC News
 
-👁️ 11K • 👍 170 • 💬 68 • ⏱️ 7:55 • 12h ago
+👁️ 11K • 👍 170 • 💬 68 • ⏱️ 7:55 • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ Early season Override is already being talked about like crazy. In this video I 
 
 📺 Luke does robotics
 
-👁️ 7K • 👍 306 • 💬 50 • ⏱️ 12:17 • 19h ago
+👁️ 7K • 👍 306 • 💬 50 • ⏱️ 12:17 • 20h ago
 
 ---
 
@@ -284,7 +284,7 @@ Japanese baggage handlers will soon be joined by robotic colleagues at Tokyo's H
 
 📺 ABC News
 
-👁️ 3K • 👍 80 • 💬 13 • ⏱️ 1:07 • 5h ago
+👁️ 3K • 👍 80 • 💬 13 • ⏱️ 1:07 • 7h ago
 
 ---
 
