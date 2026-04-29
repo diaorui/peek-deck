@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-29T03:23:38.859825+00:00'
+updated: '2026-04-29T06:11:51.473989+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 29, 2026 at 03:23 UTC  
+**Last Updated:** April 29, 2026 at 06:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,56 +38,56 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,846.39
+### $77,243.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.8%  
-**30d:** +12.6%  
-**90d:** -8.7%  
-**1y:** -18.4%  
+**24h:** +0.5%  
+**7d:** -1.3%  
+**30d:** +13.1%  
+**90d:** -8.3%  
+**1y:** -18.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1535.49B
+**Market Cap:** $1546.92B
 Rank #1
 
-**Circulating Supply:** 20,022,131 BTC
+**Circulating Supply:** 20,022,165 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.1%
+-38.7%
 
 **All-Time Low:** $67.81
-+113221.0%
++113827.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 33
+### 26
 **FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[Can't fix the world without fixing the money 🫡](https://www.reddit.com/r/Bitcoin/comments/1sykiya/cant_fix_the_world_without_fixing_the_money/)**
+
+4h ago
+
+---
+
 **["Bitcoin 2026 Conference opens to empty seats, protests, awkward moments"](https://www.reddit.com/r/Bitcoin/comments/1sy6wf1/bitcoin_2026_conference_opens_to_empty_seats/)**
 
 Bitcoin 2026 opened with a virtually empty main stage, speakers dialling it in, security blunders, and a decimated NAKA stock price.
 
-🔗 [Protos](https://protos.com/bitcoin-2026-opens-to-empty-seats-protests-awkward-moments/) • 10h ago
-
----
-
-**[Can't fix the world without fixing the money 🫡](https://www.reddit.com/r/Bitcoin/comments/1sykiya/cant_fix_the_world_without_fixing_the_money/)**
-
-1h ago
+🔗 [Protos](https://protos.com/bitcoin-2026-opens-to-empty-seats-protests-awkward-moments/) • 13h ago
 
 ---
 
@@ -95,7 +95,15 @@ Bitcoin 2026 opened with a virtually empty main stage, speakers dialling it in, 
 
 Hi! Question for those who follow a “hold” strategy. If I understand correctly, the idea is simply to keep your Bitcoin long-term without selling, waiting for its value to potentially increase? So I’m wondering: do you have a specific price target where you plan to sell someday? Or is your vision more about waiting for Bitcoin to become widely adopted as an everyday currency, usable for regular purchases like any standard money?
 
-5h ago
+8h ago
+
+---
+
+**[Does anyone try to orange pill people at work?](https://www.reddit.com/r/Bitcoin/comments/1sym2am/does_anyone_try_to_orange_pill_people_at_work/)**
+
+Or just family and friends. The few times I have tried, it was met with a lot of eye rolling, lectures on what a Ponzi scheme and bringing up the guy who lost his hard drive in the dump. It doesn’t seem worth it. But I think in other circles of people you care about, extremely important.
+
+3h ago
 
 ---
 
@@ -103,15 +111,7 @@ Hi! Question for those who follow a “hold” strategy. If I understand correct
 
 Hello everybody. Im 26M and have around 60k in my employer 401k. I make roughly 70k and i put in 7% while my employer matches 5% Im currently investing in my own brokerage in voo and btc. My thought process is my 401k is my safe money and i have cheap living expenses and currently can invest an extra $350 a week. The way i see it is i can retire in probably 10 years with btc or retire at 55 with 401k
 
-3h ago
-
----
-
-**[Bitcoin backed credit card offers 7.99% rate](https://www.reddit.com/r/Bitcoin/comments/1sxutby/bitcoin_backed_credit_card_offers_799_rate/)**
-
-Aven, a Silicon Valley fintech with more than 100,000 customers that offers a credit card grafted onto a home equity line of credit (HELOC), is launching a bitcoin-backed card. The new card lets consumers pledge bitcoin as collateral to access a credit line of up to $1 million over a term of up to 10 years. Its average percentage interest rates (APRs) range from 7.99% to 11.99%, notably lower than the average U.S. credit card rate of 21.52%, according to the Federal Reserve. To use Aven’s new card, which became available today, customers must agree to have their bitcoin transferred to South Dakota-based BitGo, the cryptocurrency custody company Aven partners with. Aven requires the loans to be overcollateralized–people can’t borrow more than the value of the bitcoin they pledge. Customers’ interest rates depend on how much collateral they put up. If they want a credit limit that’s capped at just 30% of their collateral’s value, they can access the lowest possible rate of 7.99%. To get a higher limit of 50% of their locked-up bitcoin, they’ll pay a 9.99% rate. And to receive the maximum limit of 70%, the interest rate is 11.99%. Each of those three rates is available regardless of a consumer’s credit score, though Aven says that condition could change in the future. Other companies have long been offering bitcoin-backed loans. Ledn, a Cayman Islands-based crypto lender, launched in 2018. It has issued $11 billion in bitcoin-backed loans and sells one-year loans at an APR of 9.99% to 11.49%, according to its website. Denver-based Salt Lending offers crypto-backed loans at a starting APR of 9.95%, while New York startup Arch begins as low as 8.49%. Publicly traded fintech Figure also offers crypto-backed loans, and in January SoFi CEO Anthony Noto said his San Francisco company will start to offer them this year. Aven cofounder and CEO Sadi Khan says his bitcoin-backed loans are more competitive than others in the market because of their low interest rates and longer, 10-year term. Typically, bitcoin-backed loans must be paid back within a year. In terms of fees, Aven’s loans don’t have origination fees, and its cards have no annual fees. To pull cash out of an Aven loan, customers pay a 1% fee. The card also has late fees and a fee to add authorized users. One watch-out: Bitcoin’s famous volatility could cause Aven to sell off your crypto and close your loan. If cardholders’ outstanding balance hits 70% of their collateral’s value, the card will lock to prevent new purchases or cash draws. If it hits 80%, they’ll have 72 hours to add more collateral or pay back some of the loan—if they don’t, Aven will sell some of their bitcoin to bring their loan-to-value ratio back down. And if their balance reaches 85%, Aven will immediately liquidate the loan. It will close the person’s credit line, seize and sell his or her bitcoin, charge a 2% liquidation fee and pay the customer back any remaining difference between the value of the collateral and the outstanding balance on the loan. Customers can’t use Aven’s HELOC or bitcoin-backed credit cards to buy items in prohibited categories such as online gambling sites, cryptocurrency exchanges or prediction markets like Kalshi or Polymarket. Khan first bought his own bitcoin in 2014 and says he had the idea to offer bitcoin-backed loans back when Aven was founded in 2019. He says that increased regulatory clarity over the past few years regarding bitcoin’s designation as a commodity (rather than a security) helped Aven get more comfortable with offering bitcoin-backed loans. He believes crypto-backed loans will eventually carry the lowest borrowing cost of any asset-backed loan that Aven offers. “If you follow the physics of this, it should rationally in the long term have the lowest cost of capital,” he says. That’s because bitcoin is a digital asset that’s cheap to move and secure, and its value is easy to verify. Since its founding, Aven has issued more than $4 billion in loans across all of its products and says it has saved consumers more than $300 million on interest payments they would have otherwise paid with traditional, standard-rate credit cards and personal loans. Aven doesn’t have a bank charter, so it partners with Washington state-based Coastal Community Bank to issue its cards. The startup borrows from financial institutions ranging from Goldman Sachs and community banks to private credit firms to fund its loans. Asked whether its lending capacity has been hurt by the recent exodus of capital out of some private credit funds, Khan says no, since Aven has a diverse set of funding sources and hasn’t borrowed from the funds that are under duress.
-
-🔗 [Forbes](https://www.forbes.com/sites/jeffkauflin/2026/04/27/for-bitcoin-holders-avens-new-credit-card-offers-799-interest-rate/) • 19h ago
+5h ago
 
 ---
 
@@ -119,7 +119,15 @@ Aven, a Silicon Valley fintech with more than 100,000 customers that offers a cr
 
 Hey everyone, I just started setting up my own Bitcoin full node at home using a Raspberry Pi 5 with Umbrel OS. I’ve heard from many people that initial block download (IBD) usually takes a week or even more, but check this out: I managed to sync 516 GB in only 13 hours! (As shown in the screenshots). My Setup: • Hardware: Raspberry Pi 5. • Storage: NVMe SSD connected via an M.2 NVMe HAT. • Cooling: Official Active Cooler (stable at 50°C). • Internet: 300 Mbps Fiber connection (running over Wi-Fi). Am I on the right track? Is it the NVMe HAT + Fiber combo that made this possible, or did I just get lucky with my peers? 😅 Would love to hear your thoughts and if anyone else has achieved similar speeds with the Pi 5! 🚀🔥
 
-13h ago
+15h ago
+
+---
+
+**[Bitcoin backed credit card offers 7.99% rate](https://www.reddit.com/r/Bitcoin/comments/1sxutby/bitcoin_backed_credit_card_offers_799_rate/)**
+
+Aven, a Silicon Valley fintech with more than 100,000 customers that offers a credit card grafted onto a home equity line of credit (HELOC), is launching a bitcoin-backed card. The new card lets consumers pledge bitcoin as collateral to access a credit line of up to $1 million over a term of up to 10 years. Its average percentage interest rates (APRs) range from 7.99% to 11.99%, notably lower than the average U.S. credit card rate of 21.52%, according to the Federal Reserve. To use Aven’s new card, which became available today, customers must agree to have their bitcoin transferred to South Dakota-based BitGo, the cryptocurrency custody company Aven partners with. Aven requires the loans to be overcollateralized–people can’t borrow more than the value of the bitcoin they pledge. Customers’ interest rates depend on how much collateral they put up. If they want a credit limit that’s capped at just 30% of their collateral’s value, they can access the lowest possible rate of 7.99%. To get a higher limit of 50% of their locked-up bitcoin, they’ll pay a 9.99% rate. And to receive the maximum limit of 70%, the interest rate is 11.99%. Each of those three rates is available regardless of a consumer’s credit score, though Aven says that condition could change in the future. Other companies have long been offering bitcoin-backed loans. Ledn, a Cayman Islands-based crypto lender, launched in 2018. It has issued $11 billion in bitcoin-backed loans and sells one-year loans at an APR of 9.99% to 11.49%, according to its website. Denver-based Salt Lending offers crypto-backed loans at a starting APR of 9.95%, while New York startup Arch begins as low as 8.49%. Publicly traded fintech Figure also offers crypto-backed loans, and in January SoFi CEO Anthony Noto said his San Francisco company will start to offer them this year. Aven cofounder and CEO Sadi Khan says his bitcoin-backed loans are more competitive than others in the market because of their low interest rates and longer, 10-year term. Typically, bitcoin-backed loans must be paid back within a year. In terms of fees, Aven’s loans don’t have origination fees, and its cards have no annual fees. To pull cash out of an Aven loan, customers pay a 1% fee. The card also has late fees and a fee to add authorized users. One watch-out: Bitcoin’s famous volatility could cause Aven to sell off your crypto and close your loan. If cardholders’ outstanding balance hits 70% of their collateral’s value, the card will lock to prevent new purchases or cash draws. If it hits 80%, they’ll have 72 hours to add more collateral or pay back some of the loan—if they don’t, Aven will sell some of their bitcoin to bring their loan-to-value ratio back down. And if their balance reaches 85%, Aven will immediately liquidate the loan. It will close the person’s credit line, seize and sell his or her bitcoin, charge a 2% liquidation fee and pay the customer back any remaining difference between the value of the collateral and the outstanding balance on the loan. Customers can’t use Aven’s HELOC or bitcoin-backed credit cards to buy items in prohibited categories such as online gambling sites, cryptocurrency exchanges or prediction markets like Kalshi or Polymarket. Khan first bought his own bitcoin in 2014 and says he had the idea to offer bitcoin-backed loans back when Aven was founded in 2019. He says that increased regulatory clarity over the past few years regarding bitcoin’s designation as a commodity (rather than a security) helped Aven get more comfortable with offering bitcoin-backed loans. He believes crypto-backed loans will eventually carry the lowest borrowing cost of any asset-backed loan that Aven offers. “If you follow the physics of this, it should rationally in the long term have the lowest cost of capital,” he says. That’s because bitcoin is a digital asset that’s cheap to move and secure, and its value is easy to verify. Since its founding, Aven has issued more than $4 billion in loans across all of its products and says it has saved consumers more than $300 million on interest payments they would have otherwise paid with traditional, standard-rate credit cards and personal loans. Aven doesn’t have a bank charter, so it partners with Washington state-based Coastal Community Bank to issue its cards. The startup borrows from financial institutions ranging from Goldman Sachs and community banks to private credit firms to fund its loans. Asked whether its lending capacity has been hurt by the recent exodus of capital out of some private credit funds, Khan says no, since Aven has a diverse set of funding sources and hasn’t borrowed from the funds that are under duress.
+
+🔗 [Forbes](https://www.forbes.com/sites/jeffkauflin/2026/04/27/for-bitcoin-holders-avens-new-credit-card-offers-799-interest-rate/) • 22h ago
 
 ---
 
@@ -127,7 +135,7 @@ Hey everyone, I just started setting up my own Bitcoin full node at home using a
 
 Feels like more companies, apps, and services are slowly integrating Bitcoin, even if it’s not always in the spotlight. Do you think this kind of steady, behind-the-scenes adoption is building a stronger foundation for Bitcoin long term?
 
-10h ago
+13h ago
 
 ---
 
@@ -135,15 +143,7 @@ Feels like more companies, apps, and services are slowly integrating Bitcoin, ev
 
 One of the top voices in bitcoin (BTC) post-quantum cryptography, Project Eleven, found itself in hot water after its hyped contest turned out to be a nothing burger. Project Eleven's announcement on Friday regarding the winner of its contest, which was seemingly intended as a warning shot for those still dismissing a quantum computing threat to bitcoin, instead hit the startup itself. The team said that a researcher, Giancarlo Lelli, was awarded a 1 BTC bounty for breaking a 15-bit elliptic curve key on a publicly accessible quantum computer. According to Project Eleven, "the result is the largest public demonstration to date of the attack class" that threatens crypto assets. Soon, the announcement on the X platform was community-noted as readers proved that the experiment "did not demonstrate effective quantum key-breaking." "The method used to recover the 15-bit ECC [elliptic curve cryptography] key relies on classical verification of outputs indistinguishable from random noise, equivalent to classical guessing," the note reads, while other commenters have also emphasized that "the winner’s 'quantum' result works identically with a random number generator," and no quantum computer is needed here. Besides, the project was also accused by another researcher of the winner copying their code word-for-word, and the contest results were also criticized by Craig Gidney, a research scientist on Google's quantum computing team. "The ostensible goal of the QDay Prize was to raise awareness about this. Frustratingly, it has likely achieved the opposite result," Gidney said, adding that the competition failed in the way it was predictably going to fail. "Save what credibility you have left and call a duck a duck. Take it on the chin, and be more careful next time," he added. Meanwhile, Alex Pruden, the CEO of Project Eleven, which was recently valued at $120 million, admitted that Gidney is right and that the contest "was certainly imperfect." However, Pruden noted that this space still lacks clear yardsticks for the "Q-Day" and asked for feedback on “how we can better incentivize open benchmarking towards Q-Day risk." "I also want open benchmarking, and also generally agree with Project11’s mission and advocacy when it’s done well. I don’t have an idea for how to make open benchmarking a thing…for the near term, a blameless post-mortem of the competition could be a constructive next step," Gidney concluded. As reported by Cybernews earlier in April, Google and the California Institute of Technology warned that cracking cryptography used by blockchains might require far fewer resources and a less powerful cryptographically-relevant quantum computer than previously thought.
 
-🔗 [cybernews.com](https://cybernews.com/crypto/bitcoin-quantum-threat-backfire-google/) • 19h ago
-
----
-
-**[Is long-term holding (HODL) still the best strategy for Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1sy6aan/is_longterm_holding_hodl_still_the_best_strategy/)**
-
-Seeing more people talk about long-term holding instead of constant trading. It feels like many are focusing on patience and steady accumulation now. Do you think holding Bitcoin over time still works better than trying to trade short-term moves? Curious to hear different views.
-
-10h ago
+🔗 [cybernews.com](https://cybernews.com/crypto/bitcoin-quantum-threat-backfire-google/) • 22h ago
 
 ---
 
@@ -151,7 +151,7 @@ Seeing more people talk about long-term holding instead of constant trading. It 
 
 Hi everyone, I'm holding BTC for a few years now but I've heard about staking, is this safe? How does that actually work? Would you rather stake or borrow against it?
 
-5h ago
+8h ago
 
 ---
 
@@ -163,31 +163,53 @@ Hi everyone, I'm holding BTC for a few years now but I've heard about staking, i
 
 The president’s second son pitches his bitcoin company as a money-printing machine. It’s actually an arbitrage vehicle that preys on MAGA-minded investors.
 
-Forbes • 16h ago
+Forbes • 19h ago
 
 ---
 
-**[White House crypto advisor hints at ‘big announcement’ on Trump’s strategic bitcoin reserve in coming weeks](https://www.theblock.co/post/399087/white-house-crypto-advisor-trump-strategic-bitcoin-reserve-coming-weeks)**
+**[Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think](https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think)**
 
-Executive Director of the President’s Council of Advisors for Digital Assets Patrick Witt said bitcoin reserve legislation is progressing.
+The legendary cryptographer discusses institutional money flows into bitcoin.
 
-The Block • 1d ago
-
----
-
-**[White House Crypto Adviser Hints at ‘Breakthrough’ Bitcoin Reserve Move](https://finance.yahoo.com/markets/crypto/articles/white-house-crypto-adviser-hints-133024315.html)**
-
-A "big announcement" on the U.S. Bitcoin strategic reserve could drop soon, but Treasury and a stalled Senate bill continue to set limits.
-
-Yahoo Finance • 13h ago
+CoinDesk • 2h ago
 
 ---
 
-**[White House Advisor Teases Bitcoin Reserve Announcement](https://bitbo.io/news/white-house-bitcoin-reserve-announcement/)**
+**[A Big Announcement on the Strategic Bitcoin Reserve Could Be Coming Soon](https://finance.yahoo.com/markets/crypto/articles/big-announcement-strategic-bitcoin-could-053900799.html)**
 
-Patrick Witt, executive director of the President's Council of Advisors for Digital Assets, hinted at a 'big announcement' coming in the next few weeks regarding next steps for Trump's strategic bitcoin reserve.
+Crypto markets are bracing for a potentially landmark announcement. Speaking at the Bitcoin 2026 conference in Las ...
 
-Bitbo • 22h ago
+Yahoo Finance • 32m ago
+
+---
+
+**[Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block](https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block)**
+
+Bitcoin is sitting almost still while the rest of the majors give back gains and oil pushes above $111 on reports of an extended U.S. naval blockade against Iran.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Touches 12-Week High as Traders Weigh Progress on Iran](https://finance.yahoo.com/markets/crypto/articles/bitcoin-touches-12-week-high-201001049.html)**
+
+(Bloomberg) -- Bitcoin touched a 12-week high before retreating slightly as traders digested conflicting signs about the progress of US-Iran talks to end the conflict in the Middle East. Most Read from BloombergSergey Brin Confronted Gavin Newsom — Then Launched a Political WarThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysOpenAI Breaks Free From Exclusive AI Pact With MicrosoftThe $1 Million Retirement Myth: Here’s What to S
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Novogratz’s Galaxy Digital Posts Loss as Crypto Rout Lingers](https://www.bloomberg.com/news/articles/2026-04-28/novogratz-s-galaxy-digital-posts-loss-as-crypto-rout-lingers)**
+
+Bloomberg.com • 16h ago
+
+---
+
+**[Canada proposes ban on crypto ATMs as fraud cases mount](https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount)**
+
+Canada's Liberal government calls machines a “primary method” for scams as data and law enforcement link them to rising losses
+
+CoinDesk • 56m ago
 
 ---
 
@@ -195,45 +217,23 @@ Bitbo • 22h ago
 
 Southington police are warning residents of a Bitcoin scam after a woman in town lost $14,000.
 
-WFSB • 5h ago
+WFSB • 8h ago
 
 ---
 
-**[Bitcoin (BTC) price retreat deepens after repeated rejection at $80,000: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/28/crypto-traders-turn-cautious-as-bitcoin-loses-steam-below-usd80-000)**
+**[Current price of Bitcoin for April 28, 2026](https://fortune.com/article/price-of-bitcoin-04-28-2026/)**
 
-Bitcoin and ether edge lower after repeated resistance at $80,000, while derivatives and macro signals point to reduced risk appetite and subdued volatility.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-CoinDesk • 16h ago
-
----
-
-**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
-
-Bloomberg.com • 1d ago
+Fortune • 17h ago
 
 ---
 
-**[New wallet offers way to tackle Bitcoin’s quantum risk without a fork](https://www.coindesk.com/tech/2026/04/28/emb-2-pm-utc-new-wallet-offers-way-to-tackle-bitcoin-s-quantum-risk-without-a-fork)**
+**[Strategy-fueled bitcoin rally could last 'for some time to come,' Bitwise CIO says](https://www.theblock.co/post/399254/strategy-fueled-bitcoin-rally-could-last-for-some-time-to-come-bitwise-cio-says)**
 
-The Postquant Labs project uses Arch Network to deliver post-quantum signature protection without a Bitcoin soft fork, sidestepping both Jameson Lopp's freeze proposal and Paul Sztorc's hard fork.
+Strategy issuing STRC has helped the company accumulate over $7 billion worth of BTC in recent weeks, Bitwise says.
 
-CoinDesk • 13h ago
-
----
-
-**[Billionaire Tim Draper: You Should Be Scared If You Don’t Own Bitcoin](https://bitcoinmagazine.com/news/billionaire-tim-draper-scared-bitcoin)**
-
-Billionare Tim Draper said that bitcoin has gone mainstream, with growing adoption signaling the early stages of a broader shift in the global financial system.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Tether Develops New Bitcoin Mining Infrastructure with Modular Compute Systems to Control Energy, Cost, and Performance at Scale](https://tether.io/news/tether-develops-new-bitcoin-mining-infrastructure-with-modular-compute-systems-to-control-energy-cost-and-performance-at-scale/)**
-
-28 April 2026 – Tether, the largest company in the digital assets industry, is expanding its custom compute infrastructure with a new class of modular, high-density mining systems designed to improve efficiency and performance at scale. Instead of relying on fully assembled, off-the-shelf mining rigs, Tether is collaborating with Canaan Inc. (NASDAQ: CAN) and ACME […]
-
-Tether.io • 14h ago
+The Block • 11h ago
 
 ---
 
@@ -245,7 +245,7 @@ Tether.io • 14h ago
 
 How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
 
-⬆️ 13 • 💬 6 • 5h ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
+⬆️ 31 • 💬 13 • 8h ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -327,27 +327,7 @@ Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 1K • 💬 61 • ⏱️ 14:13 • 6h ago
-
----
-
-**[This Math Reveals Why Bitcoin Shorts Are About to Explode!](https://www.youtube.com/watch?v=6oBjbmzOfMQ)**
-
-Bitcoin is facing a potential supply shock as Michael Saylor and Strategy keep accumulating BTC while bears pile into record ...
-
-📺 Simply Bitcoin
-
-👁️ 48K • 👍 3K • 💬 214 • ⏱️ 18:10 • 1d ago
-
----
-
-**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
-
-Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 920 • 💬 105 • ⏱️ 23:39 • 9h ago
+👁️ 36K • 👍 1K • 💬 61 • ⏱️ 14:13 • 9h ago
 
 ---
 
@@ -357,7 +337,37 @@ The credit market just got a new heavyweight. In this keynote, Michael Saylor re
 
 📺 Bitcoin Magazine
 
-👁️ 9K • 👍 1K • 💬 100 • ⏱️ 47:01 • 3h ago
+👁️ 24K • 👍 2K • 💬 150 • ⏱️ 47:01 • 6h ago
+
+---
+
+**[This Math Reveals Why Bitcoin Shorts Are About to Explode!](https://www.youtube.com/watch?v=6oBjbmzOfMQ)**
+
+Bitcoin is facing a potential supply shock as Michael Saylor and Strategy keep accumulating BTC while bears pile into record ...
+
+📺 Simply Bitcoin
+
+👁️ 50K • 👍 3K • 💬 219 • ⏱️ 18:10 • 1d ago
+
+---
+
+**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
+
+Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
+
+📺 Digital Asset News
+
+👁️ 18K • 👍 983 • 💬 112 • ⏱️ 23:39 • 12h ago
+
+---
+
+**[EXPOSED BlackRock and MicroStrategy Bitcoin Ponzi (All of Crypto at RISK)](https://www.youtube.com/watch?v=LcaTiEbhzfg)**
+
+EXPOSED BlackRock and MicroStrategy Bitcoin Ponzi (All of Crypto at RISK) Michael Saylor's Strategy officially owns more ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 432 • 💬 4 • ⏱️ 3:59 • 9h ago
 
 ---
 
@@ -367,27 +377,17 @@ Michael Saylor DOUBLES DOWN on bitcoin supply shock accelerating and lays out ho
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 373 • 💬 102 • ⏱️ 1:16:57 • 9h ago
+👁️ 8K • 👍 390 • 💬 107 • ⏱️ 1:16:57 • 11h ago
 
 ---
 
-**[Everything Just Changed For Bitcoin &amp; Crypto (Washington Insider EXPLAINS)](https://www.youtube.com/watch?v=mjNDSeL1IpI)**
+**[Is Bitcoin going up or down from $77,500?](https://www.youtube.com/watch?v=HW84E1_7JMU)**
 
-Everything Just Changed For Bitcoin & Crypto (Washington Insider EXPLAINS) ⭐ Follow Altcoin Daily on X: ...
+Subscribe for daily insights and updates for your Bitcoin journey. Follow on Facebook for more content or to reach out directly with ...
 
-📺 Altcoin Daily
+📺 Joel Bomgar
 
-👁️ 9K • 👍 634 • 💬 61 • ⏱️ 39:41 • 5h ago
-
----
-
-**[Bitcoin Strategic Reserve &amp; Crypto &#39;Rocket Ship&#39; Moment! White House Confirms It...](https://www.youtube.com/watch?v=-4YeXcGSoog)**
-
-Some crazy crypto news today. Patrick Witt, the guy who runs the President's Council of Advisors for Digital Assets and the ...
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 754 • 💬 328 • ⏱️ 8:10 • 1d ago
+👁️ 556 • 👍 7 • 💬 11 • ⏱️ 1:48 • 6h ago
 
 ---
 
@@ -397,17 +397,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 2K • 👍 93 • 💬 3 • ⏱️ 0:51 • 2h ago
-
----
-
-**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
-
-Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
-
-📺 Paul Barron Network
-
-👁️ 55K • 👍 2K • 💬 124 • ⏱️ 21:33 • 1d ago
+👁️ 5K • 👍 149 • 💬 6 • ⏱️ 0:51 • 5h ago
 
 ---
 
@@ -417,7 +407,17 @@ Bitcoin has rallied back into a key technical zone, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 64K • 👍 4K • 💬 168 • ⏱️ 12:42 • 1d ago
+👁️ 65K • 👍 4K • 💬 171 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
+
+Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
+
+📺 Paul Barron Network
+
+👁️ 56K • 👍 2K • 💬 126 • ⏱️ 21:33 • 1d ago
 
 ---
 
