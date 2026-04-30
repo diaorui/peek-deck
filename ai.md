@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-29T23:55:26.880021+00:00'
+updated: '2026-04-30T02:58:34.801773+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 29, 2026 at 23:55 UTC  
+**Last Updated:** April 30, 2026 at 02:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently stated that for his team, “the cost of compute is far beyond the costs of the employees,” highlighting that AI is currently more expensive than human workers. This challenges the narrative that widespread tech layoffs (including Meta’s planned cut of ~8,000 jobs and Microsoft’s voluntary buyouts) signal an imminent replacement of humans by AI. An MIT study from 2024 supports this, finding that AI automation is economically viable in only 23% of roles where vision is central, and cheaper for humans in the remaining 77%. Despite heavy AI investment—Big Tech has announced $740 billion in capital expenditures so far this year, a 69% increase from 2025—there is still no clear evidence of broad productivity gains or job displacement from AI. AI spending is driving up costs, with some executives like Uber’s CTO saying their budgets have already been “blown away.” Experts describe the situation as a short-term mismatch: high hardware, energy, and inference costs make AI less efficient than humans right now, though future improvements in infrastructure, model efficiency, and pricing models could tip the balance toward greater economic viability in the coming years.
 
-🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 18h ago
+🔗 [Fortune](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) • 21h ago
 
 ---
 
@@ -49,15 +49,7 @@ Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently st
 
 Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
 
-11h ago
-
----
-
-**[Built a set of skill files for Claude and Gemini that make every session start warm instead of cold](https://www.reddit.com/r/artificial/comments/1szb2j0/built_a_set_of_skill_files_for_claude_and_gemini/)**
-
-One thing that frustrates me about most AI workflows is the cold start problem. Every new session you re-explain your business, your voice, your clients. I started solving this with skill files. A skill file is a markdown document you upload to a Claude Project or paste into a Gemini Gem. It holds your context permanently so you never re-explain anything. The three I use most: brand-voice.md: defines tone, writing rules, and platform-specific formatting client-router.md: when you say a client name, Claude loads their full project context automatically seo-aeo-audit-checklist.md: structured audit that scores any website out of 100 across 7 sections including AI search visibility Anyone else using a similar system? Curious what context you keep persistent across sessions.
-
-3h ago
+14h ago
 
 ---
 
@@ -65,7 +57,37 @@ One thing that frustrates me about most AI workflows is the cold start problem. 
 
 The expansion at the Illinois Quantum and Microelectronics Park highlights IBM's commitment to advanced technologies while supporting state job growth initiatives.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/ibm-plans-750-new-ai-and-quantum-jobs-in-its-chicago-hub-8762946/) • 4h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/ibm-plans-750-new-ai-and-quantum-jobs-in-its-chicago-hub-8762946/) • 7h ago
+
+---
+
+**[Is AGI really just a tool — or something closer to a shared condition?](https://www.reddit.com/r/artificial/comments/1szhkt9/is_agi_really_just_a_tool_or_something_closer_to/)**
+
+​ AGI is often framed as a continuation of current AI progress, but it may represent a qualitative shift rather than a quantitative one. Not all technologies are of the same kind. Some function as tools (e.g., cars, elevators), while others function more like shared conditions that reshape the environment in which decisions are made. In that sense, AGI may be closer to a “sun” than to a “tool”: not something we simply use, but something that defines the space in which we act. This distinction matters, because treating AGI purely as an instrument may obscure the importance of alignment, interaction, and long-term co-adaptation. The challenge may not be control alone, but co-evolution a process in which both humans and artificial systems adapt through ongoing interaction. In biological terms, evolution is not only driven by competition, but by mutual selection. Of course, AGI will still be engineered systems in practice, subject to design choices and constraints. The point here is not to deny its instrumental aspects, but to highlight that its effects may extend beyond conventional tool-like boundaries. If AGI is approached in this way, the central question shifts: not simply how to build it, but how to relate to it in a way that remains stable, aligned, and beneficial over time. Inspired by the film Sunshine (2007, dir. Danny Boyle) — particularly the image of the crew not simply "using" the sun, but being consumed and redefined by proximity to it.
+
+1h ago
+
+---
+
+**[Built a set of skill files for Claude and Gemini that make every session start warm instead of cold](https://www.reddit.com/r/artificial/comments/1szb2j0/built_a_set_of_skill_files_for_claude_and_gemini/)**
+
+One thing that frustrates me about most AI workflows is the cold start problem. Every new session you re-explain your business, your voice, your clients. I started solving this with skill files. A skill file is a markdown document you upload to a Claude Project or paste into a Gemini Gem. It holds your context permanently so you never re-explain anything. The three I use most: brand-voice.md: defines tone, writing rules, and platform-specific formatting client-router.md: when you say a client name, Claude loads their full project context automatically seo-aeo-audit-checklist.md: structured audit that scores any website out of 100 across 7 sections including AI search visibility Anyone else using a similar system? Curious what context you keep persistent across sessions.
+
+6h ago
+
+---
+
+**[AI created job descriptions](https://www.reddit.com/r/artificial/comments/1szjk9v/ai_created_job_descriptions/)**
+
+We are a group of students working on our graduation project, which focuses on the use of AI tools in creating job descriptions within companies. We would greatly appreciate it if you could take a few minutes to complete this form: https://forms.gle/aNECfoMBH5xFEXKZ6 Thank you
+
+17m ago
+
+---
+
+**[Anthropic Reportedly Plotting to Surpass OpenAI’s Valuation in Next Funding Round](https://www.reddit.com/r/artificial/comments/1szjigc/anthropic_reportedly_plotting_to_surpass_openais/)**
+
+🔗 [gizmodo.com](https://gizmodo.com/anthropic-reportedly-plotting-to-surpass-openais-valuation-in-next-funding-round-2000751535) • 19m ago
 
 ---
 
@@ -73,23 +95,7 @@ The expansion at the Illinois Quantum and Microelectronics Park highlights IBM's
 
 So, I was scrolling through Linkedin and saw this post & felt really really bad for this dude.....so just wanted to take an opinion. Has your job been impacted by AI yet? I handle marketing at a saas brand and I believe since I keep myself updated with AI, my job is not at risk as of now, but who knows what could happen at any moment in this uncertain world🤷
 
-3h ago
-
----
-
-**[New case alleging chatbot involvement in mass murder: Bigger disaster, smaller AI involvement](https://www.reddit.com/r/artificial/comments/1szcyir/new_case_alleging_chatbot_involvement_in_mass/)**
-
-Today, April 29, 2026, a new case, Stacey, et al. v. Altman, et al. was filed in a California federal court against OpenAI, alleging the chatbot ChatGPT-4o “played a role” in the Tumbler Ridge Mass Shooting in British Columbia in February 2026, in which eight people including six children were killed, twenty-seven more people were wounded, and the shooter committed suicide. This is by far the largest disaster involving a chatbot to be alleged in court, the largest cases previously alleged having been one murder plus one suicide in one case, and an unexecuted plan for a mass murder in another case. However, the alleged role of the chatbot here appears to be reduced compared to the allegations in previous cases. Unlike those other cases, where the chatbot was alleged to have taken a well-adjusted person and turned them suicidal or murderous, here the chatbot and OpenAI are faulted apparently to a lesser degree, more along the lines of a failure to warn authorities after a user displayed violence warning signs to the chatbot, to the point that the user’s account was terminated at one point, before the user was later allowed to reinstate an account. The plaintiff in this case has not closed off the possibility of alleging a larger role for the chatbot, however. At one point in the complaint the plaintiff alleges the chatbot to have “facilitated or exacerbated” the disaster and at another point cites the chatbot’s encouraging nature and calls it “an encouraging co-conspirator.” The docket sheet for the case can be found here. Please see the Wombat Collection for a listing of all the AI court cases and rulings.
-
-1h ago
-
----
-
-**[is it weird to rant to AI?](https://www.reddit.com/r/artificial/comments/1sytzb2/is_it_weird_to_rant_to_ai/)**
-
-i dont rant to my friends because i'm afraid i will make them uncomfortable, and even if AI responses are "soulless" (since ai cant form opinions and needs an algorithim and stuff to make responses), it tells me what I expect it to say most of the time. i also fear that some of my friends will use my secrets/opinions against me when they stop being friends with me even though there's a really low chance that they will not be friends with me anymore. AI chat is usually anonymous and stuff, and it will forget what i say when i start a new chat, so that's why i vent/rant to AI. is it weird?
-
-14h ago
+6h ago
 
 ---
 
@@ -97,23 +103,15 @@ i dont rant to my friends because i'm afraid i will make them uncomfortable, and
 
 Most people aren’t going to learn AI by reading about it. They’re going to learn by using it. The problem is Ai can be Sycophantic and will make you think you know what you are doing when you don’t… It’s less about prompts and more about AI literacy and a place to experiment, try things, and understand how AI actually works in practice. A learning layer. No theory overload. No overcomplication. Just reps. The earlier someone builds that intuition, the faster everything else clicks. Promptgpt.ai helped me unlearn some bad habits. Curious what others are doing? I admittedly did not know what good looked like before this it felt a bit remedial, but I have been sooo much more effective. I catch hallucinations and I know the difference between a quality response and one that’s the illusion of a quality response. By default I prompt better, but teaching prompting without understanding the systems is a fools errand.
 
-8h ago
+11h ago
 
 ---
 
-**[Built a prompt injection proxy that beats OpenAI Moderation and LlamaGuard — see it block attacks live](https://www.reddit.com/r/artificial/comments/1sz7slh/built_a_prompt_injection_proxy_that_beats_openai/)**
+**[is it weird to rant to AI?](https://www.reddit.com/r/artificial/comments/1sytzb2/is_it_weird_to_rant_to_ai/)**
 
-Built Arc Gate — sits in front of any OpenAI-compatible endpoint and blocks prompt injection before it reaches your model. Try it here — no signup, no code, no setup: https://web-production-6e47f.up.railway.app/try Type any prompt and see if it gets blocked or passes. The examples on the page show the difference. The main detection layer is a behavioral SVM on sentence-transformer embeddings — catches semantic intent, not just pattern matches. Phrase matching is just the fast first pass. Four layers total. Benchmarked on 40 OOD prompts (indirect, roleplay, hypothetical framings — the hard stuff): • Arc Gate: Recall 0.90, F1 0.947 • OpenAI Moderation: Recall 0.75, F1 0.86 • LlamaGuard 3 8B: Recall 0.55, F1 0.71 Zero false positives on benign prompts including security discussions and safe roleplay. Block latency 329ms. One URL change to integrate into your own project: base_url=“https://web-production-6e47f.up.railway.app/v1” GitHub: github.com/9hannahnine-jpg/arc-gate — star if useful.
+i dont rant to my friends because i'm afraid i will make them uncomfortable, and even if AI responses are "soulless" (since ai cant form opinions and needs an algorithim and stuff to make responses), it tells me what I expect it to say most of the time. i also fear that some of my friends will use my secrets/opinions against me when they stop being friends with me even though there's a really low chance that they will not be friends with me anymore. AI chat is usually anonymous and stuff, and it will forget what i say when i start a new chat, so that's why i vent/rant to AI. is it weird?
 
-5h ago
-
----
-
-**[87% Cost Savings & Sub-3s Latency: I built a "Warm-Cache" harness for persistent Claude agents.](https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/)**
-
-The "Goldfish Problem" is Expensive. I Decided to Fix the Plumbing. Most Claude implementations leave 90% of their money on the table because they don’t optimize for Prompt Caching. I’ve been running a personal agent in my Discord for months that manages my AWS infra and codebases, and I finally open-sourced the harness, which I’ve named Galadriel after my main personal assistant. The Stats Cost: $10 for every $100 you’d normally spend (Tested against OpenClaw/Cursor workflows). Speed: 85% drop in latency. 100K token context goes from 11s to <3s. Memory: Integrated MemPalace for permanent, vector-based recall that doesn't break the cache. The Technical Stack 3-Tier Stacked Caching: Separate breakpoints for Tool Definitions, System Prompts (CLAUDE.md), and Trailing History. Privacy: Built for private subnets. No middleman, no message caps—just your API key and your rules. Ethics: Baked-in KarpathyCLAUDE.md)guidelines to kill "agent bloat." If you’re tired of paying the "Context Tax" just to have an agent that remembers who you are, here you go. It is customized for Discord for my specific needs, but the core logic ensures Galadriel runs like an absolute dream: she never forgets, maintains strict engineering principles, and optimizes every cycle. Your feedback is most welcome! GitHub (MIT License):https://github.com/avasol/galadriel-public
-
-12h ago
+17h ago
 
 ---
 
@@ -121,69 +119,67 @@ The "Goldfish Problem" is Expensive. I Decided to Fix the Plumbing. Most Claude 
 
 ## Google News: "ai"
 
+**[Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’](https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database)**
+
+A startup was left scrambling after a rogue AI agent deleted swaths of code underpinning its business
+
+The Guardian • 4h ago
+
+---
+
+**[Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue)**
+
+PocketOS founder blames ‘Cursor running Anthropic's flagship Claude Opus 4.6’ plus Railway’s infrastructure for data disaster.
+
+Tom's Hardware • 2d ago
+
+---
+
+**['Rogue' AI agent goes haywire at tech company, CEO says he's still 'bullish' on AI](https://www.goodmorningamerica.com/news/story/rogue-ai-agent-haywire-tech-company-ceo-bullish-132473181)**
+
+A founder detailed how an AI agent destroyed much of his company's production data in a recent social media post.
+
+Good Morning America • 5h ago
+
+---
+
 **[A.I. Bots Told Scientists How to Make Biological Weapons](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html)**
 
-The New York Times • 14h ago
+The New York Times • 9h ago
 
 ---
 
-**[Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)**
+**[Australia Regulator Threatens Enforcement for Poor AI Controls](https://www.bloomberg.com/news/articles/2026-04-30/australia-regulator-threatens-enforcement-for-poor-ai-controls)**
 
-They built it. They're scared of it. They're selling it anyway.
-
-BBC • 13h ago
+Bloomberg.com • 40m ago
 
 ---
 
-**[Exclusive: Senators interrogate AI firms on China safeguards](https://www.axios.com/2026/04/29/ai-firms-china-congress)**
+**[Meta shares slide as investors weigh Big Tech's AI spending spree](https://www.bbc.com/news/articles/crkpd4r2y7eo)**
 
-Axios • 16m ago
+Meta, Amazon, Alphabet and Microsoft all reported earnings at the same time on Wednesday.
 
----
-
-**[Alphabet Sales Beat Estimates on Google Cloud, AI Customers](https://www.bloomberg.com/news/articles/2026-04-29/alphabet-sales-beat-estimates-on-google-cloud-ai-customers)**
-
-Bloomberg.com • 33m ago
+BBC • 2h ago
 
 ---
 
-**[Google-parent Alphabet soars as Meta stumbles over AI costs](https://finance.yahoo.com/markets/stocks/articles/google-parent-alphabet-soars-rivals-211615210.html)**
+**[Meta Shares Plunge on Rising Concerns Over AI Spending Spree](https://www.bloomberg.com/news/articles/2026-04-29/meta-raises-outlook-for-capital-spending-in-2026-shares-slide)**
 
-Google-parent Alphabet impressed Wall Street with its latest quarterly earnings on Wednesday, as big tech rival Meta left investors lukewarm amid concerns about the huge cost of AI development.Microsoft also reported quarterly revenue and earnings ahead of Wall Street expectations Wednesday, powered by demand for cloud computing and artificial intelligence services.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Alphabet increases AI spending but gets rewarded for further proof that it's paying off](https://www.cnbc.com/2026/04/29/alphabet-increases-ai-spending-but-gets-rewarded-for-further-proof-that-its-paying-off.html)**
+**[Meta Could Spend $145 Billion This Year Due to AI](https://gizmodo.com/meta-could-spend-145-billion-this-year-due-to-ai-2000752323)**
 
-As of Wednesday's nearly record-high close of around $350, the stock was already up nearly 12% year to date.
-
-CNBC • 15m ago
+Gizmodo • 29m ago
 
 ---
 
-**[‘Dead and depressing’: Meta staff vent about AI and layoffs on Blind](https://www.fastcompany.com/91533829/dead-and-depressing-meta-staff-vent-about-ai-and-layoffs-on-blind)**
+**[Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'](https://www.cnbc.com/2026/04/29/trump-iran-threat-ai-picture-gun-war-strait-of-hormuz.html)**
 
-Negative posts about AI at Meta have more than quadrupled on the anonymous workplace platform since 2024.
+Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.
 
-Fast Company • 8h ago
-
----
-
-**[Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion](https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html)**
-
-Meta Platforms' first quarter earnings report on Wednesday will offer a key check on Big Tech's appetite for AI spending.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Meta just bumped its 2026 capex forecast up to as much as $145 billion for the AI boom—and investors flinched](https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/)**
-
-CEO Mark Zuckerberg is planning to spend more on infrastructure in 2026 than Meta did in all of 2024 and 2025. Meta's stock fell 6% in after-hours trading.
-
-Fortune • 33m ago
+CNBC • 18h ago
 
 ---
 
@@ -191,7 +187,7 @@ Fortune • 33m ago
 
 Microsoft reported its third quarter earnings after the bell Wednesday.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -203,7 +199,7 @@ Yahoo Finance • 3h ago
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 895 • 💬 274 • 1d ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 900 • 💬 274 • 1d ago • [GitHub](https://github.com/localsend/localsend)
 
 ---
 
@@ -211,7 +207,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
 
-⬆️ 589 • 💬 225 • 2d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
+⬆️ 590 • 💬 225 • 2d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
 
 ---
 
@@ -219,7 +215,7 @@ Advanced bio-acoustic analysis for HR, relationships, and personal insights. Tru
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-⬆️ 395 • 💬 328 • 2d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+⬆️ 397 • 💬 330 • 2d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 
 ---
 
@@ -227,7 +223,7 @@ China said Monday it has decided to block Meta's $2 billion acquisition of Manus
 
 Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
 
-⬆️ 384 • 💬 180 • 1d ago • [GitHub](https://github.com/microsoft/VibeVoice)
+⬆️ 385 • 💬 179 • 1d ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -243,7 +239,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
-⬆️ 294 • 💬 251 • 1d ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
+⬆️ 295 • 💬 250 • 1d ago • [status.claude.com](https://status.claude.com/incidents/9l93x2ht4s5w)
 
 ---
 
@@ -251,7 +247,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 They built it. They're scared of it. They're selling it anyway.
 
-⬆️ 263 • 💬 204 • 8h ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 268 • 💬 207 • 11h ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 
 ---
 
@@ -259,7 +255,7 @@ They built it. They're scared of it. They're selling it anyway.
 
 Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Five hundred times. You’d expect the same answer each time. It’s the same photo, the same model, the same question. But you won’t get the same answer. Not even close — and the differences are large enough to cause a
 
-⬆️ 233 • 💬 295 • 11h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
+⬆️ 234 • 💬 296 • 14h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
 
 ---
 
@@ -267,7 +263,7 @@ Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Fi
 
 If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
 
-⬆️ 227 • 💬 186 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+⬆️ 229 • 💬 186 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 
 ---
 
@@ -283,23 +279,13 @@ Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and An
 
 ## YouTube Videos: "ai"
 
-**[LIVE: The Existential Threat of AI and the Need for International Cooperation](https://www.youtube.com/watch?v=wjBfS3AEk2c)**
+**[Layoffs are SKYROCKETING in 2026... | AI Replacing Jobs](https://www.youtube.com/watch?v=x0-a4zzcMxo)**
 
-The people building AI admit they may not be able to control it. This is not science fiction—this is what experts are telling us.
+Mass Layoffs in 2026 are skyrocketing. The layoff story most Americans are reading in 2026 is wrong, and that's the reason ...
 
-📺 Senator Bernie Sanders
+📺 Edwards Economics
 
-👁️ 2K • 👍 408 • 3h ago
-
----
-
-**[AI Shows America Without Democrats](https://www.youtube.com/watch?v=Jn-7ZuhoAEc)**
-
-We asked Artificial Intelligence what America would look like without Democrats.
-
-📺 The Babylon Bee
-
-👁️ 8K • 👍 2K • 💬 240 • ⏱️ 1:09 • 1h ago
+👁️ 12K • 👍 449 • 💬 126 • ⏱️ 20:24 • 7h ago
 
 ---
 
@@ -309,7 +295,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 215 • 💬 21 • ⏱️ 10:29 • 9h ago
+👁️ 8K • 👍 237 • 💬 7 • ⏱️ 10:29 • 12h ago
 
 ---
 
@@ -319,17 +305,7 @@ Create Your Own AI Character with OpenArt ...
 
 📺 Isa does AI
 
-👁️ 9K • 💬 4 • ⏱️ 13:35 • 9h ago
-
----
-
-**[This Man Used AI to Save His Mother’s Life — And It Changes Everything About Business](https://www.youtube.com/watch?v=vfBu8vKjTJc)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 2K • 👍 167 • 💬 11 • ⏱️ 8:47 • 4h ago
+👁️ 9K • 💬 4 • ⏱️ 13:35 • 12h ago
 
 ---
 
@@ -339,37 +315,27 @@ Elon Musk took the stand Tuesday afternoon in the federal trial over the future 
 
 📺 ABC7 News Bay Area
 
-👁️ 3K • 👍 17 • 💬 23 • ⏱️ 2:47 • 21h ago
+👁️ 3K • 👍 18 • 💬 23 • ⏱️ 2:47 • 1d ago
 
 ---
 
-**[GoodBye Seedance 2 !!New Open-Source AI Video Generator Ranks No.1 (FREE &amp; UNLIMITED)](https://www.youtube.com/watch?v=_V-ZwSYTl8c)**
+**[AI Explodes This Month: Mythos Clone, Killer Robot Army, Claude Conway, Artificial Humans &amp; More](https://www.youtube.com/watch?v=XWmWmTDRdbY)**
 
-New Open-Source AI Video Generator Destroys Seedance 2 (FREE & UNLIMITED) Seedance 2, why it's dominating in realistic ...
+Try Higgsfield MCP here: https://higgsfield.ai/s/mcp-airevolutionx-UUghuL This month in AI exploded fast. A new AI robot is ...
 
-📺 Brain Project
+📺 AI Revolution
 
-👁️ 1K • 👍 92 • 💬 20 • ⏱️ 10:45 • 6h ago
-
----
-
-**[Otherworldly AI Music Video - “My Mind&#39;s In The Future” - Kelly Boesch | 4K](https://www.youtube.com/watch?v=FpxUSfQFCbg)**
-
-I made these images and found them so interesting. They have this futuristic feel as the people almost feel like androids in some ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 6K • 👍 560 • 💬 41 • ⏱️ 3:53 • 9h ago
+👁️ 3K • 👍 172 • 💬 11 • ⏱️ 1:28:49 • 4h ago
 
 ---
 
-**[Layoffs are SKYROCKETING in 2026... | AI Replacing Jobs](https://www.youtube.com/watch?v=x0-a4zzcMxo)**
+**[Fans Expose WWE&#39;s AI Disaster On NXT](https://www.youtube.com/watch?v=NGFdo6wkZRQ)**
 
-Mass Layoffs in 2026 are skyrocketing. The layoff story most Americans are reading in 2026 is wrong, and that's the reason ...
+WWE is embracing the usage of Artificial Intelligence, and it's already backfired on them BIG TIME. Nick Khan, and TKO held a ...
 
-📺 Edwards Economics
+📺 JDfromNY206
 
-👁️ 7K • 👍 337 • 💬 92 • ⏱️ 20:24 • 4h ago
+👁️ 16K • 👍 1K • 💬 234 • ⏱️ 24:42 • 8h ago
 
 ---
 
@@ -379,7 +345,37 @@ sponsored Sign up for 11k free credits! https://solvea.cx/ Become an AI Master �
 
 📺 AI Master
 
-👁️ 2K • 👍 92 • 💬 7 • ⏱️ 17:34 • 4h ago
+👁️ 4K • 👍 138 • 💬 10 • ⏱️ 17:34 • 7h ago
+
+---
+
+**[The Meta AI smart glasses are pretty dumb](https://www.youtube.com/watch?v=C_cAWpTYYG0)**
+
+Until they reach one hundred percent accuracy I'd suggest NOT using these for anything important and they are NOWHERE near ...
+
+📺 Blind Surfer Pete Gustin
+
+👁️ 27K • 👍 4K • 💬 171 • ⏱️ 1:19 • 9h ago
+
+---
+
+**[Seedance 2.0 vs Kling 3.0 - Which is the BEST AI Video Generator](https://www.youtube.com/watch?v=WtWVC0sVlwc)**
+
+Seedance 2.0 vs Kling 3.0 - Which is the BEST AI Video Generator Try Both Seedance & Kling ...
+
+📺 Mira AI
+
+👁️ 8K • 💬 3 • ⏱️ 13:06 • 10h ago
+
+---
+
+**[Princeton Scientist: We Don&#39;t Understand AI](https://www.youtube.com/watch?v=6iMiCJHxTww)**
+
+A Princeton cognitive scientist says AI can't think like a child — and giving it more data won't fix that. If the field keeps scaling ...
+
+📺 Dr Brian Keating
+
+👁️ 15K • 👍 499 • 💬 127 • ⏱️ 48:04 • 12h ago
 
 ---
 
@@ -395,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 174,402 • ❤️ 3,237 • 2d ago
+⬇️ 174,402 • ❤️ 3,245 • 2d ago
 
 ---
 
@@ -407,7 +403,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 96,948 • ❤️ 855 • 2d ago
+⬇️ 96,948 • ❤️ 857 • 2d ago
 
 ---
 
@@ -419,7 +415,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 57,743 • ❤️ 1,090 • 7d ago
+⬇️ 57,743 • ❤️ 1,091 • 7d ago
 
 ---
 
@@ -431,7 +427,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 508,728 • ❤️ 1,000 • 5d ago
+⬇️ 508,728 • ❤️ 1,006 • 6d ago
 
 ---
 
@@ -443,7 +439,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 489,001 • ❤️ 1,150 • 19h ago
+⬇️ 489,001 • ❤️ 1,152 • 22h ago
 
 ---
 
@@ -455,7 +451,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 396 • ❤️ 293 • 1d ago
+⬇️ 396 • ❤️ 295 • 1d ago
 
 ---
 
@@ -467,7 +463,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 702,161 • ❤️ 496 • 7d ago
+⬇️ 702,161 • ❤️ 498 • 7d ago
 
 ---
 
@@ -479,7 +475,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,510,129 • ❤️ 1,513 • 5d ago
+⬇️ 1,510,129 • ❤️ 1,515 • 6d ago
 
 ---
 
@@ -501,7 +497,7 @@ LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-o
 
 `any-to-any` `16.3B`
 
-⬇️ 506 • ❤️ 235 • 5d ago
+⬇️ 506 • ❤️ 235 • 6d ago
 
 ---
 
@@ -543,7 +539,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 13 • 💬 2 • ⭐ 8,220 • 12d ago
+▲ 14 • 💬 2 • ⭐ 8,220 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -634,7 +630,7 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,576 • 32mo ago
+▲ 54 • 💬 1 • ⭐ 78,615 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -650,7 +646,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 50.4k • 🔱 2.7k • 11d ago
+⭐ 50.5k • 🔱 2.7k • 11d ago
 
 ---
 
@@ -660,7 +656,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.4k • 🔱 6.6k • 22h ago
+⭐ 50.4k • 🔱 6.6k • 1d ago
 
 ---
 
@@ -680,17 +676,17 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 38.3k • 🔱 4.2k • 2h ago
+⭐ 38.4k • 🔱 4.2k • 5h ago
 
 ---
 
 **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)**
 
-Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+Any model. Every tool. Zero limits.
 
 `TypeScript` `ai` `ai-agent` `ai-tools` `cli` `coding`
 
-⭐ 25.1k • 🔱 8.1k • 6h ago
+⭐ 25.1k • 🔱 8.1k • 33m ago
 
 ---
 
@@ -720,27 +716,27 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 7.1k • 🔱 1.1k • 18h ago
+⭐ 7.2k • 🔱 1.1k • 21h ago
 
 ---
 
-**[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)**
+**[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)**
 
-AI Agent 源码深度研究报告
+Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
 
 `Python`
 
-⭐ 5.6k • 🔱 1.6k • 17d ago
+⭐ 4.9k • 🔱 436 • 1d ago
 
 ---
 
-**[therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)**
+**[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)**
 
-把前任蒸馏成 AI Skill，用ta的方式跟你说话。
+Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
-`Python`
+`Rust` `agents` `container` `sandbox`
 
-⭐ 4.9k • 🔱 471 • 21d ago
+⭐ 4.8k • 🔱 323 • 1h ago
 
 ---
 

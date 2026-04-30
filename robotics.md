@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-29T23:55:26.897959+00:00'
+updated: '2026-04-30T02:58:34.819254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 29, 2026 at 23:55 UTC  
+**Last Updated:** April 30, 2026 at 02:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -42,7 +42,13 @@ Robotics research and industry news
 
 This Cambridge based startup, Eka Robotics, just came out of stealth today and is promising Vision-Force-Action (VFA) model, the first of its kind that breaks the generality-speed tradeoff and the data barrier!
 
-5h ago
+8h ago
+
+---
+
+**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
+
+20h ago
 
 ---
 
@@ -50,13 +56,7 @@ This Cambridge based startup, Eka Robotics, just came out of stealth today and i
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-11h ago
-
----
-
-**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
-
-17h ago
+14h ago
 
 ---
 
@@ -70,7 +70,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
 
-6h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ A pattern I see in every robotics team I've talked to: Record terabytes of bag d
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 9h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 12h ago
 
 ---
 
@@ -92,13 +92,13 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 Most of us learned about rotation matrices (and quaternions to some extend) through courses or textbooks, but these topics are often covered too quickly. Some robotics textbooks such as Barfoot and Solà’s technical report on quaternion-based ESEKF are excellent references. However, I personally found that many sources still leave room for ambiguity in notation, frame conventions, perturbation definitions, and the detailed relationship between different representations. This becomes especially painful when working with open-source packages, where unclear rotation and kinematics conventions become really confusing. Anyway, I've been writing about 3D rotations and kinematics for the last several months, focusing on explicit derivations and notation clarity. It's still WIP but sharing it here in case others find it useful. Feedback, corrections, and suggestions are very welcome.
 
-22h ago
+1d ago
 
 ---
 
 **[The robot dog scared the real puppy](https://www.reddit.com/r/robotics/comments/1syq4zo/the_robot_dog_scared_the_real_puppy/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -110,45 +110,31 @@ Most of us learned about rotation matrices (and quaternions to some extend) thro
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 13h ago
+WIRED • 16h ago
 
 ---
 
-**[Japan Airlines trials humanoid robots as ground handlers](https://www.bbc.com/news/articles/cpwp87j1llvo)**
-
-These robots may in future help clean cabins and operate ground support equipment.
-
-BBC • 1d ago
-
----
-
-**[Humanoid Robots Will Work As Baggage Handlers At Tokyo Airport](https://www.engadget.com/2160602/humanoid-robots-will-work-as-baggage-handlers-at-tokyo-airport/)**
-
-Has nobody watched Terminator?
-
-Engadget • 4h ago
-
----
-
-**[Japan's First Demonstration Experiment for Utilizing Humanoid Robots at Airports Begins](https://press.jal.co.jp/en/release/202604/009502.html)**
-
-This is JAL's (Japan Airlines) Press Release information Website. you can view corporate information, safety/flight Information, and CSR Information,etc.
-
-JAL • 2d ago
-
----
-
-**[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
-
-WSJ • 11m ago
-
----
-
-**[SoftBank plans to list new AI and robotics company in the US](https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16)**
+**[SoftBank plans to list new AI and robotics company in the US](https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1)**
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 27m ago
+Financial Times • 3h ago
+
+---
+
+**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
+
+Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
+
+The Guardian • 1d ago
+
+---
+
+**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
+
+Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
+
+Chicago Tribune • 1d ago
 
 ---
 
@@ -160,25 +146,39 @@ The Conversation • 1d ago
 
 ---
 
+**[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
+
+Bloomberg.com • 13h ago
+
+---
+
 **[Ramping Figure 03 Production](https://www.figure.ai/news/ramping-figure-03-production)**
 
 Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.
 
-Figure • 14h ago
+Figure • 17h ago
 
 ---
 
-**[Why Humanoid Robots Are the Ultimate AI Frontier](https://www.bloomberg.com/news/articles/2026-04-29/why-humanoid-robots-will-soon-become-the-ultimate-ai-frontier)**
+**[St. Louis students 'want to win' at international robotics competition held downtown](https://www.stltoday.com/news/local/education/article_cc7f237b-6194-4a53-9f16-a9b781a593af.html)**
 
-Bloomberg.com • 10h ago
+The VEX Robotics World Championship at America's Center is hosting thousands of students including six teams from Gateway Science Academy.
+
+STLtoday.com • 10h ago
 
 ---
 
-**[A North Texas high school robotics team is one of the best in the world. Now, they're heading to the World Championship to prove it](https://www.wfaa.com/article/news/local/collin-county/allen-robotics-team-heads-to-world-championship-with-top-global-ranking-and-historic-season/287-29837af8-ba67-4138-93b3-3efdf5e09bcc)**
+**[Humanoid robots may be about to break the 100-metre sprint record](https://www.newscientist.com/article/2523906-humanoid-robots-may-be-about-to-break-the-100-metre-sprint-record/)**
 
-WORLDS BEST | A North Texas high school robotics team is already ranked one of the best in the world. Now, they're ending a historic season at a World Championship.
+Robots can now run a half-marathon faster than humans and are rapidly homing in on the 100-metre sprint record. But why are companies so keen to create speedy robots that have no obvious application in homes or factories?
 
-WFAA • 1d ago
+New Scientist • 1d ago
+
+---
+
+**[Robot fighting league has a new home in San Francisco where you can watch — and buy — ‘humanoids’](https://www.sfchronicle.com/tech/article/buy-fighting-robots-sf-22231111.php)**
+
+San Francisco Chronicle • 7h ago
 
 ---
 
@@ -192,17 +192,17 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 73K • 👍 2K • 💬 107 • ⏱️ 24:02 • 15h ago
+👁️ 83K • 👍 2K • 💬 110 • ⏱️ 24:02 • 18h ago
 
 ---
 
-**[AI Explodes This Month: Mythos Clone, Killer Robot Army, Claude Conway, Artificial Humans &amp; More](https://www.youtube.com/watch?v=XWmWmTDRdbY)**
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
-Try Higgsfield MCP here: https://higgsfield.ai/s/mcp-airevolutionx-UUghuL This month in AI exploded fast. A new AI robot is ...
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
-📺 AI Revolution
+📺 Joanna Stern
 
-👁️ 695 • 👍 66 • 💬 4 • ⏱️ 1:28:49 • 1h ago
+👁️ 50K • 👍 3K • 💬 406 • ⏱️ 11:11 • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 13K • 👍 282 • 💬 36 • ⏱️ 4:53 • 3d ago
+👁️ 13K • 👍 283 • 💬 36 • ⏱️ 4:53 • 3d ago
 
 ---
 
@@ -222,7 +222,45 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 9K • 👍 301 • 💬 35 • ⏱️ 8:27 • 2d ago
+👁️ 10K • 👍 318 • 💬 36 • ⏱️ 8:27 • 2d ago
+
+---
+
+**[Robotics Professor Answers Robot Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=jZwuCtc2SoU)**
+
+Professor Aaron Ames of the California Institute of Technology joins WIRED to answer the internet's burning question about ...
+
+📺 WIRED
+
+👁️ 65K • 👍 2K • 💬 157 • ⏱️ 21:47 • 1d ago
+
+---
+
+**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
+
+I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
+
+📺 Barrett
+
+👁️ 14K • 👍 866 • 💬 16 • ⏱️ 5:43 • 6d ago
+
+---
+
+**[Secret robot dance interaction in Pragmata](https://www.youtube.com/watch?v=MSZWUnNXvXQ)**
+
+📺 SpectreX Gaming
+
+👁️ 1.1M • 👍 35K • 💬 617 • ⏱️ 0:22 • 6d ago
+
+---
+
+**[Amazon&#39;s GEN 3.5 AI Robot Launch (AI NEWS)](https://www.youtube.com/watch?v=dhUXlqBttw0)**
+
+NEURA Robotics has established a strategic partnership with Amazon to deploy the 4NE1 humanoid robot into logistics ...
+
+📺 AI News
+
+👁️ 5K • 👍 134 • 💬 15 • ⏱️ 8:19 • 5d ago
 
 ---
 
@@ -232,57 +270,17 @@ New Giveaway https://forms.gle/LDGgXQ2zGr4gCWMcA This makes zero sense, this bui
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 525 • 💬 61 • ⏱️ 13:49 • 11h ago
+👁️ 10K • 👍 585 • 💬 64 • ⏱️ 13:49 • 14h ago
 
 ---
 
-**[Sony’s Ace: Ping Pong Robot](https://www.youtube.com/watch?v=3EDxvBW-Asc)**
+**[Meet Ace, the robot that can beat elite ping-pong players](https://www.youtube.com/watch?v=o_01TW0jzBY)**
 
-Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rules - the first robot to do in 43 years of research.
+This robot can beat elite players in a game of table tennis. The robot, which is named Ace, uses a combination of cameras, ...
 
-📺 ZAUEY (Claire Zau)
+📺 Scientific American
 
-👁️ 13K • 👍 1K • 💬 53 • ⏱️ 2:56 • 1d ago
-
----
-
-**[Freeze Rocket Waymaker Is WAY Better Than Anyone Thought... Massive +40% Damage | War Robots](https://www.youtube.com/watch?v=L29Yz2q9E1M)**
-
-The Waymaker Brawler is terrifying. We have tried out the Waymaker as a sniper with the new weapons and it is absolutely insane ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 351 • 💬 29 • ⏱️ 14:58 • 1d ago
-
----
-
-**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=uQjIq625BqQ)**
-
-ABC News' Britt Clennett explores the world's newest robot, the humanoid, which can run, dance and fight as well, if not better ...
-
-📺 ABC News
-
-👁️ 16K • 👍 221 • 💬 89 • ⏱️ 7:55 • 21h ago
-
----
-
-**[The One Strategy Video You Need (Vex Robotics 2026 World Finals)](https://www.youtube.com/watch?v=pTolenAb1L4)**
-
-Joined by both World Champions to talk about the 2026 Worlds Finals matches #override Vex Pushback World Finals #robotics ...
-
-📺 Luke does robotics
-
-👁️ 4K • 👍 79 • 💬 21 • ⏱️ 30:32 • 2d ago
-
----
-
-**[War Robots - YouTubers Battle Each Other! WR Show Match Anniversary Event](https://www.youtube.com/watch?v=adBDfG7sSiI)**
-
-War Robots - YouTubers battle each other in a friendly show match during the War Robots 2026 Anniversary Event. WR Show ...
-
-📺 Adrian Chong
-
-👁️ 5K • 👍 339 • 💬 57 • ⏱️ 23:11 • 1d ago
+👁️ 43K • 👍 348 • 💬 26 • ⏱️ 0:31 • 6d ago
 
 ---
 
