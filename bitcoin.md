@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-30T21:57:02.610201+00:00'
+updated: '2026-04-30T22:56:01.598880+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 21:57 UTC  
+**Last Updated:** April 30, 2026 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1530.93B
+**Market Cap:** $1528.01B
 Rank #1
 
-**Circulating Supply:** 20,022,840 BTC
+**Circulating Supply:** 20,022,893 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.4%
+-39.5%
 
 **All-Time Low:** $67.81
-+112665.1%
++112362.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 A while back I met a guy on Facebook Marketplace, a tree fell on his house and he had 30× 300W solar panels he needed gone. I rented a U-Haul and bought all of them for $30 each. I had a friend Joe who works on forklift batteries help me get started. He told me anything below like 60% gets scrapped and the scrap price is dirt cheap for what you’re actually getting. He ended up hooking me up with two 500Ah 24V forklift batteries for free, which was huge. I rented a $100 truck, the company loaded it with forklifts, and then up in Maine my cousin has a Kubota so I got lucky unloading it. I also grabbed some UPS batteries that are 12V, wired them in series to get 24V and then paralleled them, and then paralleled that with the two 24V forklift batteries. Total comes out to about 1500Ah @ 24V. The UPS batteries cost me $600 for 500Ah, which is crazy cheap. I’ve got some land in Maine so I just started throwing panels out there, nothing fancy. Literally just threw everything on the ground and put as many as I could on top of a camper. This winter a bunch of them blew off so I had to go out and put them back up lol. I’m honestly lucky the camper is still there considering the wiring… and surprised I didn’t burn it down at some point. I also found 500W panels for $10 each with cracked glass. Didn’t fix anything and they still do like 400W after 4 years. Solar panels are dirt cheap right now because China overproduced like crazy, there’s just too many panels out there. Setup: ~4–5kW+ solar ~1500Ah @ 24V battery bank One 200A charge controller 4000W inverter In full daylight I could mine all day pulling like 150 amps, which is pretty wild for basically scrap parts. First time wiring it I was pushing so much current one of the cables basically caught fire… so yeah learned about wire size real quick. I also burned up a couple inverters early on pushing too many watts through them, but eventually found a couple 4000W inverters cheap on eBay and those have been working great. Only thing that sucked is I didn’t have a cutoff so I had to manually unplug the miner or it would just drain the batteries. In the end I actually stopped mining with it and just run the camper. I used to burn like 150 gallons of gas, now I use basically nothing. I run the AC, microwave, everything with no issues. It’s still half-assed, but at least I upgraded to thicker gauge wires so it’s a little less sketchy now. The pictures below are from when I first started the setup — it’s missing a ton of panels and one of the forklift batteries. From there I ended up starting ING Mining, and now we’re one of the larger retail disruptors of used miners lol. Still, for broken panels, “dead” batteries, and Facebook deals… it worked way better than it should. -Nick Squires https://preview.redd.it/hsfmphq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=7eee2bea775028182fe5c1357be14531dc96066c https://preview.redd.it/ziy3biq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=bb3d7ead92d0f7566d2a50db1ff5d06f4a23ba48 https://preview.redd.it/zokyfiq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=0709627755b9007ab03a296f49a5b890a92ea03e
 
-7h ago
+8h ago
 
 ---
 
@@ -89,13 +89,13 @@ A while back I met a guy on Facebook Marketplace, a tree fell on his house and h
 
 Been playing around with the COLDCARD Q and wanted to see how “airgapped” signing actually works in practice. Knowing that my private keys are fully Airgapped gives me a peace of mind. Would love to hear your guys’ thoughts on the ColdCard Q.
 
-2h ago
+3h ago
 
 ---
 
 **[Whales scooped up an insane 11k BTC just yesterday, supply is shrinking into long term holders](https://www.reddit.com/r/Bitcoin/comments/1t057ao/whales_scooped_up_an_insane_11k_btc_just/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Been playing around with the COLDCARD Q and wanted to see how “airgapped” si
 
 Hello there bitcoiners, i work in a small hotel in Olomouc, Czech Republic. I am considering accepting bitcoin as a payment method. Do you think it is a good idea? Are there any dangers? What do i have to do to make this happen? Can I use Revolut/Strike apps in EU to make it happen? Are there any other alternatives? Seems like a good idea to me. i think something positive should happen. Thank you guys/bitcoiners for your help.
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has 
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/powell-exit-warsh-era-bitcoin-risk-premium) • 6h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/powell-exit-warsh-era-bitcoin-risk-premium) • 7h ago
 
 ---
 
@@ -127,7 +127,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 My older brother and I have recently caught the Bitcoin bug and we both are somehow excited but also overwhelmed about the entire idea. Neither of us has any real experience with crypto, so we’re starting from zero. I’m here because we have a bunch of basic questions like How should we actually learn about Bitcoin properly, should we buy some first and where’s the best place to buy it safely as beginners? Maybe these questions are even too advanced (how can one learn about this properly) ? We really don’t want to rush in and make stupid mistakes. Any guidance would be massively appreciated.
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ My older brother and I have recently caught the Bitcoin bug and we both are some
 
 Okay, Major Lowery, you've got it.
 
-7m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Okay, Major Lowery, you've got it.
 
 Amateur hour here but how is there possibly a million dollars in this book in bitcoin?
 
-23h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Amateur hour here but how is there possibly a million dollars in this book in bi
 
 We all have our reasons. Would love to know why you invest in Bitcoin. For me, its all about owning something without the fear of inflation and getting confiscated by a bad bureaucrat.
 
-17h ago
+18h ago
 
 ---
 
@@ -163,7 +163,7 @@ We all have our reasons. Would love to know why you invest in Bitcoin. For me, i
 
 The billionaire’s thoughts on crypto came up during the OpenAI trial
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -177,13 +177,13 @@ Bloomberg.com • 1d ago
 
 Analysts warn that the Bitcoin rally was fueled by speculative futures trading, mirroring conditions that preceded the 2022 crypto crash.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Inside Bitcoin 2026: The Year the Faithful Outgrew the Price](https://www.bloomberg.com/news/newsletters/2026-04-30/inside-bitcoin-2026-the-year-the-faithful-outgrew-the-price)**
 
-Bloomberg.com • 57m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ MarketWatch • 1d ago
 
 **[MARA to buy Ohio gas plant operator Long Ridge for $1.5 billion as it pivots beyond bitcoin](https://www.reuters.com/business/energy/mara-buy-ohio-gas-plant-operator-long-ridge-15-billion-it-pivots-beyond-bitcoin-2026-04-30/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -211,7 +211,7 @@ Reuters • 7h ago
 
 Robinhood's stock closed down 13.2% after the company reported weaker first-quarter earnings the previous day.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Block • 13h ago
 
 Starting at the individual level first, the leading cryptocurrency's evolution hasn't been like typical financial assets.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Motley Fool • 21h ago
 
 Dogecoin has jumped nearly 10% to about 10.5 cents as futures open interest climbs to its highest level this year;.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -239,7 +239,7 @@ CoinDesk • 9h ago
 
 How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
 
-⬆️ 81 • 💬 54 • 1d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
+⬆️ 81 • 💬 54 • 2d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -247,7 +247,7 @@ How a 1970s-era application like a terminal emulator can consume more battery th
 
 Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
 
-⬆️ 47 • 💬 48 • 5h ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
+⬆️ 47 • 💬 48 • 6h ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
 
 ---
 
@@ -263,7 +263,7 @@ Paul Sztorc’s proposed eCash fork would give investors coins cloned from walle
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 5d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 6d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -277,7 +277,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 2 • 💬 0 • 15h ago • [satoshiguesser.com](https://satoshiguesser.com)
+⬆️ 2 • 💬 0 • 16h ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -293,7 +293,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 1 • 💬 0 • 16h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+⬆️ 1 • 💬 0 • 17h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -317,23 +317,23 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 ## YouTube Videos: "bitcoin"
 
-**[Be SCARED If You Don&#39;t Own Bitcoin | Michael Saylor’s $10M Endgame Is Here](https://www.youtube.com/watch?v=00r6gKyA_wI)**
-
-A billionaire just issued a global warning and it is not subtle. Tim Draper and Michael Saylor lay out a future where fiat breaks and ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 144 • ⏱️ 18:17 • 1d ago
-
----
-
 **[Get Ready...Bitcoin Is One Level Away From Exploding](https://www.youtube.com/watch?v=gM2kDjaJ1l4)**
 
 Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 878 • 💬 177 • ⏱️ 43:42 • 6h ago
+👁️ 15K • 👍 930 • 💬 191 • ⏱️ 43:42 • 7h ago
+
+---
+
+**[Be SCARED If You Don&#39;t Own Bitcoin | Michael Saylor’s $10M Endgame Is Here](https://www.youtube.com/watch?v=00r6gKyA_wI)**
+
+A billionaire just issued a global warning and it is not subtle. Tim Draper and Michael Saylor lay out a future where fiat breaks and ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 146 • ⏱️ 18:17 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down 
 
 📺 Verified Pro Traders
 
-👁️ 3K • 👍 438 • 💬 27 • ⏱️ 8:44 • 3h ago
+👁️ 6K • 👍 700 • 💬 49 • ⏱️ 8:44 • 4h ago
 
 ---
 
@@ -353,7 +353,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 161 • 💬 3 • ⏱️ 33:16 • 5h ago
+👁️ 3K • 👍 183 • 💬 3 • ⏱️ 33:16 • 6h ago
 
 ---
 
@@ -363,37 +363,27 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 3K • 👍 374 • 💬 45 • ⏱️ 13:02 • 4h ago
+👁️ 5K • 👍 476 • 💬 55 • ⏱️ 13:02 • 5h ago
 
 ---
 
-**[Mark Moss: Building a Personal Treasury with a Perpetual Bitcoin Machine | Bitcoin 2026](https://www.youtube.com/watch?v=eU8Q2-Q8qzk)**
+**[Eric Trump JUST LEAKED Americas Strategic Bitcoin Reserve Plan?! | EP 1494](https://www.youtube.com/watch?v=13Ek3AJjbVE)**
 
-You bought the right asset, but are you playing the wrong game? At Bitcoin Vegas 2026, Mark Moss of Market Disruptors argues ...
+Eric Trump might've had the most bullish soundclip coming out of Bitcoin 2026 Las Vegas ...
 
-📺 Bitcoin Magazine
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 887 • 💬 26 • ⏱️ 17:31 • 1d ago
-
----
-
-**[Bitcoiners Predict MASSIVE Bull Market](https://www.youtube.com/watch?v=VER8TkkZQQI)**
-
-Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this year's bitcoin Conference. In this episode, he ...
-
-📺 Anthony Pompliano
-
-👁️ 68K • 👍 2K • 💬 79 • ⏱️ 14:13 • 2d ago
+👁️ 5K • 👍 320 • 💬 17 • ⏱️ 1:26:37 • 4h ago
 
 ---
 
-**[Keynote: Jack Mallers - The Bitcoin Company | Bitcoin 2026](https://www.youtube.com/watch?v=dEsSHoHZRH0)**
+**[I’m Selling Bitcoin &amp; Buying Oil Right Now! (Here’s Why)](https://www.youtube.com/watch?v=75-H8uaFJpg)**
 
-What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 keynote, Jack Mallers CEO of Strike and Twenty One ...
+Crypto is no longer trading on its own narratives. It's tethered to oil, rates, and global risk conditions and the Middle East is driving ...
 
-📺 Bitcoin Magazine
+📺 Crypto Banter
 
-👁️ 28K • 👍 1K • 💬 141 • ⏱️ 37:06 • 21h ago
+👁️ 11K • 👍 758 • 💬 34 • ⏱️ 18:22 • 10h ago
 
 ---
 
@@ -403,7 +393,17 @@ The credit market just got a new heavyweight. In this keynote, Michael Saylor re
 
 📺 Bitcoin Magazine
 
-👁️ 98K • 👍 4K • 💬 367 • ⏱️ 47:01 • 1d ago
+👁️ 100K • 👍 4K • 💬 371 • ⏱️ 47:01 • 1d ago
+
+---
+
+**[Keynote: Jack Mallers - The Bitcoin Company | Bitcoin 2026](https://www.youtube.com/watch?v=dEsSHoHZRH0)**
+
+What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 keynote, Jack Mallers CEO of Strike and Twenty One ...
+
+📺 Bitcoin Magazine
+
+👁️ 29K • 👍 1K • 💬 147 • ⏱️ 37:06 • 22h ago
 
 ---
 
@@ -413,7 +413,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 3K • 💬 157 • ⏱️ 16:31 • 1d ago
+👁️ 52K • 👍 3K • 💬 160 • ⏱️ 16:31 • 1d ago
 
 ---
 

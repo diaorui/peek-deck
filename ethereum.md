@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T21:57:02.615407+00:00'
+updated: '2026-04-30T22:56:01.604903+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 21:57 UTC  
+**Last Updated:** April 30, 2026 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.29B
+**Market Cap:** $272.23B
 Rank #2
 
 **Circulating Supply:** 120,687,805 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.2%
+-54.4%
 
 **All-Time Low:** $0.43
-+522833.0%
++520569.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 A single trader won 93% of five-figure bets on unannounced US and Israeli military operations. The blockchain records every transaction. Nobody has been charged. Trump Jr. advises the platform.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 36m ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 1h ago
 
 ---
 
@@ -80,7 +80,7 @@ A single trader won 93% of five-figure bets on unannounced US and Israeli milita
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -168,13 +168,13 @@ Fortune • 2d ago
 
 Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -182,7 +182,7 @@ Forbes • 18h ago
 
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -214,13 +214,13 @@ Cryptonews • 1d ago
 
 The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
 
-Coinpedia • 15h ago
+Coinpedia • 16h ago
 
 ---
 
 **[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
 
-TipRanks • 10h ago
+TipRanks • 11h ago
 
 ---
 
@@ -234,7 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 133 • 💬 19 • ⏱️ 9:18 • 8h ago
+👁️ 2K • 👍 147 • 💬 19 • ⏱️ 9:18 • 9h ago
 
 ---
 
@@ -244,27 +244,7 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 32 • ⏱️ 5:55 • 1d ago
-
----
-
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
-
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
-
-📺 Paul Barron Network
-
-👁️ 51K • 👍 3K • 💬 157 • ⏱️ 16:31 • 1d ago
-
----
-
-**[The Michael Saylor Of Ethereum? BMNR Changes Everything](https://www.youtube.com/watch?v=ZokAMIiTcYs)**
-
-Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStrategy of ETH. With billions in ETH exposure, ...
-
-📺 Darren Steves
-
-👁️ 1K • 👍 69 • 💬 35 • ⏱️ 10:21 • 1d ago
+👁️ 23K • 👍 3K • 💬 32 • ⏱️ 5:55 • 1d ago
 
 ---
 
@@ -278,23 +258,33 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 ---
 
+**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+
+Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+
+📺 Paul Barron Network
+
+👁️ 52K • 👍 3K • 💬 160 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[The Michael Saylor Of Ethereum? BMNR Changes Everything](https://www.youtube.com/watch?v=ZokAMIiTcYs)**
+
+Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStrategy of ETH. With billions in ETH exposure, ...
+
+📺 Darren Steves
+
+👁️ 1K • 👍 71 • 💬 35 • ⏱️ 10:21 • 1d ago
+
+---
+
 **[Ethereum auf $250.000? Diese Prognose ändert ALLES!](https://www.youtube.com/watch?v=KP_OVaz1--E)**
 
 Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
 
 📺 Krypto Report
 
-👁️ 2K • 👍 241 • 💬 15 • ⏱️ 19:05 • 5h ago
-
----
-
-**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
-
-Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 385 • 💬 29 • ⏱️ 19:23 • 1d ago
+👁️ 3K • 👍 298 • 💬 19 • ⏱️ 19:05 • 6h ago
 
 ---
 
@@ -304,17 +294,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 318 • 👍 14 • ⏱️ 5:22 • 1d ago
+👁️ 332 • 👍 14 • ⏱️ 5:22 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dWIv9bbYLCo)**
+**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 621 • 👍 65 • ⏱️ 6:47 • 8h ago
+👁️ 7K • 👍 387 • 💬 30 • ⏱️ 19:23 • 1d ago
 
 ---
 
@@ -324,7 +314,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 228 • 👍 12 • ⏱️ 4:31 • 12h ago
+👁️ 242 • 👍 13 • ⏱️ 4:31 • 13h ago
+
+---
+
+**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
+
+Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 421 • 💬 193 • ⏱️ 14:02 • 2d ago
 
 ---
 

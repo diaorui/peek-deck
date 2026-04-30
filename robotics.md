@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T21:57:02.618217+00:00'
+updated: '2026-04-30T22:56:01.608090+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 21:57 UTC  
+**Last Updated:** April 30, 2026 at 22:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
 
-9h ago
+10h ago
 
 ---
 
@@ -44,13 +44,13 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
 
-5h ago
+6h ago
 
 ---
 
 **[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 [ Removed by Reddit in response to a copyright notice. ]
 
-15h ago
+16h ago
 
 ---
 
@@ -72,7 +72,7 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 Hello, I am new to robotics and simulation stuff. I was working on my PyBullet simulation of my robot, but the joints do not seem to be connected at all. I have tried everything from reassembling the CAD to checking if the origins are correct and even remaking some of the links, but I cannot figure it out at all any tips?
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello, I am new to robotics and simulation stuff. I was working on my PyBullet s
 
 Short-range autonomy in industrial settings gets framed differently than highway driving. The focus is on repeatable routes, low speeds, and environments where conditions stay relatively consistent. More of the challenge sits in near-field perception and precision. Tight spaces, docking, and constant start-stop movement leave less room for error, so coverage and control matter more than long-distance sensing. Autonomy also ties into a larger sequence of actions. Movement is just one step alongside loading and unloading, so timing and coordination become part of the system. It leans into a pattern where constraints make the problem more tractable early on, with reliability taking priority before expanding into less predictable environments.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 4h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Short-range autonomy in industrial settings gets framed differently than highway
 
 We've just kicked off our annual Test and Tutorial Party for ROS 2 Lyrical Luth (the next ROS release)! We need community members to run a number of integration tests and help validate our tutorials ahead of the official release on May 22nd. If you've ever wanted to contribute to an open-source project, this is one of the easiest ways to get involved. 🎁 Our top 20 testers will get free Lyrical swag or an OSRA membership! All the details are over on Open Robotics Discourse. Happy testing!
 
-18m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ We've just kicked off our annual Test and Tutorial Party for ROS 2 Lyrical Luth 
 
 Im going to a small robotics event soon so i am printing the legs to have the full body when i go. Even tho they won’t be functional
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Im going to a small robotics event soon so i am printing the legs to have the fu
 
 https://reddit.com/link/1t01qm1/video/jeupxczavcyg1/player A breakdown of how delivery robots are built and tested https://medium.com/p/aa1faad7d4a4
 
-5h ago
+6h ago
 
 ---
 
@@ -116,7 +116,7 @@ https://reddit.com/link/1t01qm1/video/jeupxczavcyg1/player A breakdown of how de
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -124,13 +124,13 @@ Financial Times • 22h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -160,7 +160,7 @@ BBC • 2d ago
 
 **[Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year](https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ darpa.mil • 1d ago
 
 A team of students from Northampton High School is taking its talents to the global stage, as Team 1908 “ShoreBots” travels to Houston this week to compete in the FIRST Robotics Competition World Championship. The team, representing Virginia’s Eastern Shore, will face off against more than 600 teams from around the world, including competitors from China, Turkey, Mexico, Canada, Israel, ... Read More
 
-Shore Daily News • 12h ago
+Shore Daily News • 13h ago
 
 ---
 
@@ -184,7 +184,7 @@ Shore Daily News • 12h ago
 
 High school robotics teams spend years trying to qualify for world competitions. Falmouth did it in just its second year.
 
-Cape Cod Times • 12h ago
+Cape Cod Times • 13h ago
 
 ---
 
@@ -192,13 +192,23 @@ Cape Cod Times • 12h ago
 
 ## YouTube Videos: "robotics"
 
+**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+
+ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+
+📺 VEX Robotics
+
+👁️ 2K • 👍 191 • ⏱️ 3:51 • 39m ago
+
+---
+
 **[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
 
 Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
 
 📺 Bloomberg Originals
 
-👁️ 132K • 👍 2K • 💬 167 • ⏱️ 24:02 • 1d ago
+👁️ 138K • 👍 2K • 💬 174 • ⏱️ 24:02 • 1d ago
 
 ---
 
@@ -208,27 +218,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 16K • 👍 112 • 4d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Curie Division - Day 2](https://www.youtube.com/watch?v=L3rKKEPwgSc)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Curie Division - Broadcast Day 2 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 14K • 👍 102 • 4d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Day 2](https://www.youtube.com/watch?v=6S3yUiqRmOg)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Broadcast Day 2 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 13K • 👍 97 • 4d ago
+👁️ 21K • 👍 127 • 4d ago
 
 ---
 
@@ -238,27 +228,7 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 Joanna Stern
 
-👁️ 95K • 👍 4K • 💬 574 • ⏱️ 11:11 • 1d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Day 2](https://www.youtube.com/watch?v=p7gihZzlGIw)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Broadcast Day 2 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 13K • 👍 102 • 4d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 2](https://www.youtube.com/watch?v=zNErTM4PsYg)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 2 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 16K • 👍 126 • 4d ago
+👁️ 102K • 👍 4K • 💬 587 • ⏱️ 11:11 • 1d ago
 
 ---
 
@@ -268,27 +238,57 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 21K • 👍 183 • 4d ago
+👁️ 26K • 👍 210 • 4d ago
 
 ---
 
-**[2026 FIRST Championship - FIRST Robotics Competition - Galileo Division - Day 2](https://www.youtube.com/watch?v=g1iPzNURUgY)**
+**[2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Day 2](https://www.youtube.com/watch?v=p7gihZzlGIw)**
 
-2026 FIRST Championship - FIRST Robotics Competition - Galileo Division - Broadcast Day 2 ...
+2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Broadcast Day 2 ...
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 14K • 👍 108 • 4d ago
+👁️ 17K • 👍 118 • 4d ago
 
 ---
 
-**[2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Day 2](https://www.youtube.com/watch?v=qez41N1qB9s)**
+**[The Pivot to Robots Has Already Begun | What The Future](https://www.youtube.com/watch?v=zw9LAjm9pso)**
 
-2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Broadcast Day 2 ...
+Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the ...
 
-📺 FIRSTRoboticsCompetition
+📺 CNET
 
-👁️ 14K • 👍 104 • 4d ago
+👁️ 14K • 👍 286 • 💬 36 • ⏱️ 4:53 • 4d ago
+
+---
+
+**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
+
+Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
+
+📺 Carros Show
+
+👁️ 17K • 👍 491 • 💬 47 • ⏱️ 8:27 • 3d ago
+
+---
+
+**[China Just Built An AI Robot Army](https://www.youtube.com/watch?v=omtM-tl1Sj8)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots China is no longer just building robots for factories ...
+
+📺 PRO ROBOTS
+
+👁️ 12K • 👍 358 • 💬 43 • ⏱️ 18:35 • 4d ago
+
+---
+
+**[Tesla Bot Gen 3: Elon Musk Plans 1 Million Units at $10K to Manage All Household Tasks by 2025](https://www.youtube.com/watch?v=8xXPTce7pLg)**
+
+What if your daily chores could disappear overnight? In this video, we dive into Elon Musk's bold vision of producing 1 million ...
+
+📺 Ai_Mobility_News
+
+👁️ 16K • 👍 182 • 💬 21 • ⏱️ 12:54 • 2d ago
 
 ---
 
