@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T19:23:38.875273+00:00'
+updated: '2026-04-30T20:39:23.490480+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 19:23 UTC  
+**Last Updated:** April 30, 2026 at 20:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
+**24h:** +0.4%  
 **7d:** -2.2%  
 **30d:** +5.8%  
 **90d:** -7.8%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.17B
+**Market Cap:** $273.29B
 Rank #2
 
 **Circulating Supply:** 120,687,805 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.4%
+-54.2%
 
 **All-Time Low:** $0.43
-+520862.9%
++522833.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -156,19 +156,41 @@ Decrypt • 1d ago
 
 ---
 
+**[Ten years after Ethereum’s DAO disaster, it’s time to try again](https://fortune.com/2026/04/28/ten-years-after-ethereums-dao-disaster-its-time-to-try-again/)**
+
+In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
+
+Fortune • 2d ago
+
+---
+
+**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
+
+Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
+
+Yahoo Finance • 1d ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 17h ago
+
+---
+
+**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
+
+Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
+
+The Motley Fool • 9h ago
+
+---
+
 **[Ethereum ICO whale moves $23 million in ETH after 10-year dormancy](https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million)**
 
 The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
 
 The Block • 1d ago
-
----
-
-**[Whales Selling Ethereum? 10-Year Dormant ETH Holder Moves $23M As Tom Lee's Bitmine Buying Continues](https://finance.yahoo.com/markets/crypto/articles/whales-selling-ethereum-10-dormant-093215239.html)**
-
-A long-dormant Ethereum ICO wallet moved 10,000 ETH after nearly 11 years. Bitmine continues aggressive ETH accumulation. Derivatives volume far exceeding spot trading suggests increased ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -180,39 +202,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
+**[A Dormant Ethereum Whale Just Woke Up After 10 Years and Dumped $23 Million in an Hour: Is $2,300 at Risk?](https://cryptonews.com/news/ethereum-ico-whale-moves-23-million-eth/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+A dormant Ethereum wallet just moved $23 million in ETH, revealing a decade-long investment journey worth exploring.
 
-Fortune • 1d ago
-
----
-
-**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
-
-Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
-
-Yahoo Finance • 22h ago
-
----
-
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 15h ago
-
----
-
-**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
-
-Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
-
-The Motley Fool • 8h ago
-
----
-
-**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
-
-TipRanks • 7h ago
+Cryptonews • 1d ago
 
 ---
 
@@ -220,7 +214,13 @@ TipRanks • 7h ago
 
 The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
 
-Coinpedia • 12h ago
+Coinpedia • 13h ago
+
+---
+
+**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
+
+TipRanks • 8h ago
 
 ---
 
@@ -234,17 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 1K • 👍 106 • 💬 139 • ⏱️ 9:18 • 5h ago
-
----
-
-**[The Michael Saylor Of Ethereum? BMNR Changes Everything](https://www.youtube.com/watch?v=ZokAMIiTcYs)**
-
-Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStrategy of ETH. With billions in ETH exposure, ...
-
-📺 Darren Steves
-
-👁️ 1K • 👍 68 • 💬 35 • ⏱️ 10:21 • 1d ago
+👁️ 2K • 👍 133 • 💬 19 • ⏱️ 9:18 • 6h ago
 
 ---
 
@@ -264,7 +254,17 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 153 • ⏱️ 16:31 • 1d ago
+👁️ 51K • 👍 3K • 💬 157 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[The Michael Saylor Of Ethereum? BMNR Changes Everything](https://www.youtube.com/watch?v=ZokAMIiTcYs)**
+
+Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStrategy of ETH. With billions in ETH exposure, ...
+
+📺 Darren Steves
+
+👁️ 1K • 👍 69 • 💬 35 • ⏱️ 10:21 • 1d ago
 
 ---
 
@@ -278,13 +278,13 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 ---
 
-**[SHOULD YOU SHORT/SELL ETH NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=U7M4qRpUKSg)**
+**[Ethereum auf $250.000? Diese Prognose ändert ALLES!](https://www.youtube.com/watch?v=KP_OVaz1--E)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
 
-📺 Cilinix Crypto
+📺 Krypto Report
 
-👁️ 177 • 👍 11 • ⏱️ 4:31 • 10h ago
+👁️ 2K • 👍 241 • 💬 15 • ⏱️ 19:05 • 4h ago
 
 ---
 
@@ -294,27 +294,7 @@ Ethereum has recovered 40 percent from the February lows and is now approaching 
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 382 • 💬 29 • ⏱️ 19:23 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dWIv9bbYLCo)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 393 • 👍 56 • ⏱️ 6:47 • 5h ago
-
----
-
-**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
-
-Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 421 • 💬 204 • ⏱️ 14:02 • 2d ago
+👁️ 7K • 👍 385 • 💬 29 • ⏱️ 19:23 • 1d ago
 
 ---
 
@@ -324,7 +304,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 308 • 👍 14 • ⏱️ 5:22 • 1d ago
+👁️ 318 • 👍 14 • ⏱️ 5:22 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dWIv9bbYLCo)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 621 • 👍 65 • ⏱️ 6:47 • 6h ago
+
+---
+
+**[SHOULD YOU SHORT/SELL ETH NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=U7M4qRpUKSg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 228 • 👍 12 • ⏱️ 4:31 • 11h ago
 
 ---
 

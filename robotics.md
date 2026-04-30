@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T19:23:38.877498+00:00'
+updated: '2026-04-30T20:39:23.493192+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 19:23 UTC  
+**Last Updated:** April 30, 2026 at 20:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
 
-7h ago
+8h ago
 
 ---
 
@@ -44,13 +44,13 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
 
-2h ago
+3h ago
 
 ---
 
 **[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 [ Removed by Reddit in response to a copyright notice. ]
 
-13h ago
+14h ago
 
 ---
 
@@ -68,11 +68,19 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 ---
 
+**[Hello! Need some help with simulations](https://www.reddit.com/r/robotics/comments/1t07o79/hello_need_some_help_with_simulations/)**
+
+Hello, I am new to robotics and simulation stuff. I was working on my PyBullet simulation of my robot, but the joints do not seem to be connected at all. I have tried everything from reassembling the CAD to checking if the origins are correct and even remaking some of the links, but I cannot figure it out at all any tips?
+
+23m ago
+
+---
+
 **[The Loneliness of the Middle Distance Trucker](https://www.reddit.com/r/robotics/comments/1t03cak/the_loneliness_of_the_middle_distance_trucker/)**
 
 Short-range autonomy in industrial settings gets framed differently than highway driving. The focus is on repeatable routes, low speeds, and environments where conditions stay relatively consistent. More of the challenge sits in near-field perception and precision. Tight spaces, docking, and constant start-stop movement leave less room for error, so coverage and control matter more than long-distance sensing. Autonomy also ties into a larger sequence of actions. Movement is just one step alongside loading and unloading, so timing and coordination become part of the system. It leans into a pattern where constraints make the problem more tractable early on, with reliability taking priority before expanding into less predictable environments.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 1h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 2h ago
 
 ---
 
@@ -80,25 +88,17 @@ Short-range autonomy in industrial settings gets framed differently than highway
 
 https://reddit.com/link/1t01qm1/video/jeupxczavcyg1/player A breakdown of how delivery robots are built and tested https://medium.com/p/aa1faad7d4a4
 
-2h ago
+3h ago
 
 ---
 
 **[Robotics founders/engineers: what actually fails in real deployments?](https://www.reddit.com/r/robotics/comments/1szy6gu/robotics_foundersengineers_what_actually_fails_in/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
-
-1d ago
-
----
-
-**[Why self-driving cars took longer than expected to reach real-world deployment](https://www.reddit.com/r/robotics/comments/1syxb98/why_selfdriving_cars_took_longer_than_expected_to/)**
-
-Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
 1d ago
 
@@ -112,7 +112,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 19h ago
+Financial Times • 21h ago
 
 ---
 
@@ -120,13 +120,13 @@ Financial Times • 19h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
 **[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -138,20 +138,6 @@ WIRED • 1d ago
 
 ---
 
-**[Chinese robotics company opens U.S. headquarters in Richardson](https://www.dallasnews.com/business/local-companies/article/pudu-major-global-robotics-company-opens-u-s-22233042.php)**
-
-Dallas News • 2h ago
-
----
-
-**[How AI Logistics Agents Are Saving Companies 600+ Hours of Labor Every Single Day](https://www.inc.com/fast-company-2/how-ai-logistics-agents-are-saving-companies-600-hours-of-labor-every-single-day/91338581)**
-
-How drones, AI agents, robotics and 'Product Passports' are slashing shipping delays and human labor costs.
-
-inc.com • 53m ago
-
----
-
 **[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
 
 Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
@@ -160,11 +146,25 @@ The Guardian • 2d ago
 
 ---
 
+**[Japan Airlines trials humanoid robots as ground handlers](https://www.bbc.com/news/articles/cpwp87j1llvo)**
+
+These robots may in future help clean cabins and operate ground support equipment.
+
+BBC • 2d ago
+
+---
+
+**[Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year](https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[Rethinking robotics with physical intelligence](https://www.darpa.mil/news/2026/rethinking-robotics)**
 
 DARPA is looking to tackle these challenges by embedding intelligence directly into the physical materials of robotic systems.
 
-darpa.mil • 23h ago
+darpa.mil • 1d ago
 
 ---
 
@@ -172,15 +172,15 @@ darpa.mil • 23h ago
 
 A team of students from Northampton High School is taking its talents to the global stage, as Team 1908 “ShoreBots” travels to Houston this week to compete in the FIRST Robotics Competition World Championship. The team, representing Virginia’s Eastern Shore, will face off against more than 600 teams from around the world, including competitors from China, Turkey, Mexico, Canada, Israel, ... Read More
 
-Shore Daily News • 9h ago
+Shore Daily News • 11h ago
 
 ---
 
-**[Falmouth robotics team - in just its 2nd year - goes to world championship](https://www.capecodtimes.com/story/news/local/2026/04/30/falmouth-ma-high-school-robotics-championship-roar-e/89774875007/)**
+**[Central Coast robotics team headed for world championship](https://www.ksbw.com/article/central-coast-robotics-team-world-championship/71166858)**
 
-High school robotics teams spend years trying to qualify for world competitions. Falmouth did it in just its second year.
+The Hephaestus Robotics advances to word championship after regional competition win
 
-Cape Cod Times • 10h ago
+KSBW • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 124K • 👍 2K • 💬 161 • ⏱️ 24:02 • 1d ago
+👁️ 132K • 👍 2K • 💬 167 • ⏱️ 24:02 • 1d ago
 
 ---
 
@@ -204,17 +204,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 10K • 👍 85 • 4d ago
-
----
-
-**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
-
-The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
-
-📺 Joanna Stern
-
-👁️ 88K • 👍 4K • 💬 554 • ⏱️ 11:11 • 1d ago
+👁️ 16K • 👍 112 • 4d ago
 
 ---
 
@@ -224,7 +214,7 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 9K • 👍 84 • 4d ago
+👁️ 14K • 👍 102 • 4d ago
 
 ---
 
@@ -234,27 +224,17 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 9K • 👍 81 • 4d ago
+👁️ 13K • 👍 97 • 4d ago
 
 ---
 
-**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 2](https://www.youtube.com/watch?v=zNErTM4PsYg)**
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
-2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 2 ...
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
-📺 FIRSTRoboticsCompetition
+📺 Joanna Stern
 
-👁️ 10K • 👍 105 • 4d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 2](https://www.youtube.com/watch?v=7ed1n2aSBlg)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 2 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 12K • 👍 149 • 4d ago
+👁️ 95K • 👍 4K • 💬 574 • ⏱️ 11:11 • 1d ago
 
 ---
 
@@ -264,7 +244,37 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 8K • 👍 82 • 4d ago
+👁️ 13K • 👍 102 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 2](https://www.youtube.com/watch?v=zNErTM4PsYg)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 16K • 👍 126 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 2](https://www.youtube.com/watch?v=7ed1n2aSBlg)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 21K • 👍 183 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Galileo Division - Day 2](https://www.youtube.com/watch?v=g1iPzNURUgY)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Galileo Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 14K • 👍 108 • 4d ago
 
 ---
 
@@ -274,17 +284,7 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 9K • 👍 83 • 4d ago
-
----
-
-**[The Pivot to Robots Has Already Begun | What The Future](https://www.youtube.com/watch?v=zw9LAjm9pso)**
-
-Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the ...
-
-📺 CNET
-
-👁️ 13K • 👍 286 • 💬 36 • ⏱️ 4:53 • 4d ago
+👁️ 14K • 👍 104 • 4d ago
 
 ---
 

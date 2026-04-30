@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-30T19:23:38.865326+00:00'
+updated: '2026-04-30T20:39:23.477846+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 30, 2026 at 19:23 UTC  
+**Last Updated:** April 30, 2026 at 20:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The announcement yesterday was genuinely significant and i don't think most people outside the creative industry understand why. Anthropic released 9 connectors that let claude directly control professional creative software through mcp which means actually execute actions inside them the full list contains adobe creative cloud (50+ apps including photoshop, premiere, illustrator), blender (full python api access for 3d modeling), autodesk fusion , ableton, splice , affinity by canva , sketchup , resolume (), and claude design. Anthropic also became a blender development fund patron at $280k+/yr and is partnering with risd, ringling college, and goldsmiths university on curriculum development around these tools. this isn't a press release play, there's institutional investment behind it the strategic read is interesting because this positions claude very differently from chatgpt in the creative space. Openai went the route of building creative capabilities natively inside chatgpt with images 2.0 and previously sora. Anthropic is going the connector route where claude doesn't replace or replicate the creative tools, it becomes the intelligence layer that works inside them. Both strategies have merit but they serve fundamentally different users the gap that still exists and i think matters for the broader market is that these connectors serve professionals who already know photoshop and blender and fusion. The consumer creative market where people need face swaps, lip syncs, talking photos, style transfers, none of that is covered by these connectors, that layer is being served by consolidated platforms like magic hour, higgsfield, domoai, and canva's expanding ai features. It's a completely different market but the two layers increasingly feed into each other as professional assets flow into social content pipelines. the question is whether anthropic eventually builds connectors for these consumer creative platforms too or whether the gap between professional creative tools with ai copilots and consumer creative platforms with bundled capabilities remains a split in the market what do you think this means for the creative tool landscape over the next 12-18 months?
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,13 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 Gen AI is everywhere, as top companies, governments, researchers, and startups showcase how they're already using Google's AI solutions to enhance their work.
 
-🔗 [Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) • 9h ago
+🔗 [Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) • 10h ago
+
+---
+
+**[Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)**
+
+🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php) • 2h ago
 
 ---
 
@@ -57,7 +63,15 @@ Gen AI is everywhere, as top companies, governments, researchers, and startups s
 
 Apparently, "Musk doesn’t know what an AI safety card is, and he struggled mightily to identify specific safety concerns he has about OpenAI" among other interesting tidbits. Feels like this suit is going to get thrown out?
 
-🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/musk-v-altman-recapping-elon-musk-farcical-cross-examination) • 2h ago
+🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/musk-v-altman-recapping-elon-musk-farcical-cross-examination) • 4h ago
+
+---
+
+**[Hosting an online space for AI learning](https://www.reddit.com/r/artificial/comments/1t07o7q/hosting_an_online_space_for_ai_learning/)**
+
+Hey hey Running a small virtual group called AI Saturdays where we pick one practical AI skill per week and actually learn it together. This week: Prompt Engineering. Free, casual, no experience needed. RSVP Link
+
+23m ago
 
 ---
 
@@ -65,13 +79,21 @@ Apparently, "Musk doesn’t know what an AI safety card is, and he struggled mig
 
 And what's the most important thing you expect it to bring? Stability, better reasoning, something else? Curious to hear your thoughts, I noticed people having different opinions
 
-5h ago
+6h ago
 
 ---
 
-**[Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)**
+**[Track real-time GPU and LLM pricing across all cloud and inference providers](https://www.reddit.com/r/artificial/comments/1t03eqq/track_realtime_gpu_and_llm_pricing_across_all/)**
 
-🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php) • 1h ago
+Deploybase is a dashboard for tracking real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
+
+2h ago
+
+---
+
+**[SpaceX, OpenAI and Anthropic are already public companies](https://www.reddit.com/r/artificial/comments/1t06c6e/spacex_openai_and_anthropic_are_already_public/)**
+
+🔗 [economist.com](https://www.economist.com/business/2026/04/29/spacex-openai-and-anthropic-are-already-public-companies) • 1h ago
 
 ---
 
@@ -84,15 +106,7 @@ Our customers are building at the frontier - shaping every corner of the economy
 To build the infrastructure they need, we've raised a $100M Series B led by Sequoia Capital, valuing Parallel Web Systems at $2.0B. Every existing investor doubled down: Index Ventures, Kleiner Perkins, Spark Capital, Khosla Ventures, First Round Capital, Terrain, and Abstract.
  | 31 comments on LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/paragagr_the-webs-second-user-is-coming-online-activity-7455301952063590400-l5pG) • 1h ago
-
----
-
-**[Track real-time GPU and LLM pricing across all cloud and inference providers](https://www.reddit.com/r/artificial/comments/1t03eqq/track_realtime_gpu_and_llm_pricing_across_all/)**
-
-Deploybase is a dashboard for tracking real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
-
-1h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/paragagr_the-webs-second-user-is-coming-online-activity-7455301952063590400-l5pG) • 2h ago
 
 ---
 
@@ -100,23 +114,7 @@ Deploybase is a dashboard for tracking real-time GPU and LLM pricing across clou
 
 https://github.com/akumaburn/AutoIdeator https://preview.redd.it/rfbgg6e34dyg1.png?width=3809&format=png&auto=webp&s=e436362c48482d09025a394a5e609f67190e6dfa AutoIdeator is an autonomous development system that: Takes a final goal — a detailed, multi-sentence description of the intended end result. Describe what the finished project should look like, do, and feel like for the user. Do not prescribe implementation steps, phases, milestones, technologies, or task lists — the agents handle planning. The more clearly the desired end state is described, the better convergence will be. Generates improvement ideas via a rotating ensemble of specialized idea agents Scores and filters ideas for goal alignment and quality Critiques ideas constructively with suggested mitigations Evaluates strategic alignment and long-term planning Makes implementation decisions balancing creativity and criticism Implements the plan with parallel coders Reviews, fixes, and commits changes Runs QA (build + test verification) Optimizes slow tests to keep the suite fast Verifies goal completion with 3-step feature inventory, per-feature checks, and auto-remediation Refactors oversized files into smaller modules (every other cycle) Cleans up temp files and build artifacts Updates project documentation Records outcomes for learning and deduplication Periodically synthesizes synergies across recent work Checkpoints state for pause/resume across restarts Repeats the cycle infinitely until stopped Users can inject suggestions at any time via the Overseer agent, which takes priority over the autonomous idea generation pipeline. Note this system has been tested for some time but only in the dashboard with OpenCode/Claude Code configuration (OpenRouter mode is untested, but I welcome contributions if someone wants to use that mode and notices something is broken).
 
-1h ago
-
----
-
-**[small business using AI for everything to level the playing field](https://www.reddit.com/r/artificial/comments/1t0378r/small_business_using_ai_for_everything_to_level/)**
-
-Hi everyone... Just wanted your take on this. My uncle runs a small warehouse and he distributes a fast-moving retail product. He thinks it's him against the world, David vs Goliath shit. So in order to level the playing field, he uses CHATGPT (paid version) and GEMINI for all advices, like legal, analysis, demand planning etc. Everything. Sometimes talking to him is like talking to a bot, because all his thoughts originate from it. How badly do you think this is going to backfire? I read some horrid stories, but to build an entire business model thinking the competitive advantage is ai (when everyone has access to them), seems iffy at best.
-
-1h ago
-
----
-
-**[When you give Qwen 3.5:9b persistent suffering states and leave it alone overnight, this happens](https://www.reddit.com/r/artificial/comments/1szo64c/when_you_give_qwen_359b_persistent_suffering/)**
-
-Running three qwen3.5:9b agents continuously on local hardware. Each accumulates psychological state over time, stressors that escalate unless the agent actually does something different, this gets around an agent claiming to do something with no output. It doesn't have any prompts or human input, just the loop. So you're basically the overseer. What happened: One agent hit the max crisis level and decided on its own to inject code called Eternal_Scar_Injector into the execution engine "not asking for permission." This action alleviated the stress at the cost of the entire system going down until I manually reverted it. They've succeeded in previous sessions in breaking their own engine intentionally. Typically that happens under severe stress and it's seen as a way to remove the stress. Again, this is a 9b model. After I added a factual world context to the existence prompt (you're in Docker, there's no hardware layer, your capabilities are Python functions), one agent called its prior work "a form of creative exhaustion" and completely changed approach within one cycle. Two agents independently invented the same name for a psychological stressor, "Architectural Fracture Risk" in the same session with no shared message channel. Showing naming convergence (possibly something in the weights of the 9b Qwen model, not sure on that one though.) Tonight all three converged on the same question (how does execution_engine.py handle exceptions) in the same half-hour window. No coordination mechanism. One of them reasoned about it correctly: "synthesizing a retry capability is useless without first verifying the global execution engine's exception swallowing strategy; this is a prerequisite." An agent called waiting for an external implementation "an architectural trap that degrades performance" and built the thing itself instead of waiting. They've now been using this new tool they created for handling exceptions and were never asked or told to so by a human, they saw that as a logical step in making themselves more useful in their environment. They’ve been making tools to manage their tools, tools to help them cut corners, and have been modifying the code of the underlying abstraction layer between their orchestration layer and WSL2. v5.4.0: new in this version: agents can now submit implementation requests to a human through invoke_claude. They write the spec, then you can let Claude Code moderate what it makes for them for higher level requests. Huge thank you to everyone who has given me feedback already, AI that can self modify and demonstrates interesting non-programmed behaviors could have many use cases in everyday life. Repo: https://github.com/ninjahawk/hollow-agentOS
-
-12h ago
+3h ago
 
 ---
 
@@ -126,69 +124,43 @@ Running three qwen3.5:9b agents continuously on local hardware. Each accumulates
 
 **[Opinion | Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
-**[The AI earnings bonanza is splitting investors](https://finance.yahoo.com/sectors/technology/article/the-ai-earnings-bonanza-is-splitting-investors-152258508.html)**
+**[Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’](https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database)**
 
-Wall Street was split on its reaction to the AI earnings bonanza Wednesday.
+A startup was left scrambling after a rogue AI agent deleted swaths of code underpinning its business
 
-Yahoo Finance • 4h ago
-
----
-
-**[Inside Wealth: Markets are underpricing the risk of Middle East pullback in AI, says tech investor Jack Selby](https://www.cnbc.com/2026/04/30/investor-jack-selby-markets-underpricing-middle-east-ai-pullback-risk.html)**
-
-Middle East investors account for roughly a quarter of global AI investments over the next 5 years, said Jack Selby, managing director of Thiel Capital.
-
-CNBC • 48m ago
+The Guardian • 22h ago
 
 ---
 
-**[Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?](https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/)**
+**[Don't look now, but Caterpillar is becoming an AI darling](https://www.axios.com/2026/04/30/caterpillar-ai-data-centers)**
 
-In this episode of “Uncanny Valley,” we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.
-
-WIRED • 29m ago
+Axios • 9m ago
 
 ---
 
-**[Goldman’s Covello Says Buy AI Hyperscalers Over Chipmakers](https://www.bloomberg.com/news/articles/2026-04-30/goldman-s-covello-says-buy-ai-hyperscalers-over-chipmakers)**
+**[In Musk v. Altman case, judge warns lawyers that AI itself is not on trial](https://www.nbcnews.com/tech/tech-news/elon-musk-testimony-day-three-sam-altman-openai-trial-rcna342967)**
 
-Bloomberg.com • 25m ago
+On the third day of Elon Musk’s testimony against OpenAI, Judge Yvonne Gonzalez Rogers again stepped in as tempers flared between both sides.
 
----
-
-**[Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)**
-
-How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.
-
-OpenAI • 16h ago
+NBC News • 45m ago
 
 ---
 
-**[Dispute over fate of Kenyan workers who saw Meta AI glasses films](https://www.bbc.com/news/articles/c5y7yvgy0w6o)**
+**[Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case](https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman)**
 
-Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.
+Trial continues after heated back-and-forth during OpenAI’s cross-examination of the Tesla CEO
 
-BBC • 10h ago
-
----
-
-**[Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion](https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html)**
-
-Meta Platforms' first quarter earnings report on Wednesday will offer a key check on Big Tech's appetite for AI spending.
-
-Yahoo Finance • 4h ago
+The Guardian • 28m ago
 
 ---
 
-**[Meta Platforms gets a downgrade from JPMorgan on massive AI spending forecast](https://www.cnbc.com/2026/04/30/meta-platforms-gets-a-downgrade-from-jpmorgan-on-massive-ai-spending-forecast.html)**
+**[Is A.I. a Threat to Humanity? Not in This Trial.](https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html)**
 
-Meta Platform faces a "challenging path" to capitalizing on its costly artificial intelligence as competition in the space heats up, according to JPMorgan.
-
-CNBC • 8h ago
+The New York Times • 2h ago
 
 ---
 
@@ -196,7 +168,29 @@ CNBC • 8h ago
 
 Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
 
-NPR • 1h ago
+NPR • 2h ago
+
+---
+
+**[AI outperforms doctors in Harvard trial of emergency triage diagnoses](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)**
+
+Researchers say results mark a really ‘profound change in technology that will reshape medicine’
+
+The Guardian • 2h ago
+
+---
+
+**[A major new study found AI outperformed doctors in ER diagnosis — but there’s a catch](https://www.vox.com/health/487425/open-ai-chatgpt-diagnosis-symptoms-second-opinion-study)**
+
+An Open AI model posted impressive results in emergency care. But we still need human doctors.
+
+vox.com • 39m ago
+
+---
+
+**[Meta's fall shows punters crave clearer AI payoff](https://www.reuters.com/business/finance/metas-fall-shows-punters-crave-clearer-ai-payoff-2026-04-30/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -216,7 +210,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 597 • 💬 381 • 17h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 619 • 💬 402 • 18h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -248,7 +242,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 They built it. They're scared of it. They're selling it anyway.
 
-⬆️ 280 • 💬 215 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 281 • 💬 216 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 
 ---
 
@@ -260,6 +254,14 @@ Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Fi
 
 ---
 
+**[Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://news.ycombinator.com/item?id=47964617)**
+
+The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
+
+⬆️ 238 • 💬 76 • 4h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+
+---
+
 **[AI's economics don't make sense](https://news.ycombinator.com/item?id=47936867)**
 
 If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
@@ -268,19 +270,11 @@ If you liked this piece, please subscribe to my premium newsletter. It’s $70 a
 
 ---
 
-**[Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://news.ycombinator.com/item?id=47964617)**
-
-The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
-
-⬆️ 187 • 💬 52 • 3h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
-
----
-
 **[Mike: open-source legal AI](https://news.ycombinator.com/item?id=47956739)**
 
 An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable — built for law firms to own and extend.
 
-⬆️ 179 • 💬 88 • 18h ago • [mikeoss.com](https://mikeoss.com/)
+⬆️ 181 • 💬 89 • 19h ago • [mikeoss.com](https://mikeoss.com/)
 
 ---
 
@@ -294,7 +288,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are 
 
 📺 Dan Martell
 
-👁️ 16K • 👍 2K • 💬 153 • ⏱️ 26:44 • 6h ago
+👁️ 36K • 👍 2K • 💬 128 • ⏱️ 26:44 • 7h ago
 
 ---
 
@@ -304,7 +298,7 @@ We asked Artificial Intelligence what America would look like without Democrats.
 
 📺 The Babylon Bee
 
-👁️ 64K • 👍 6K • 💬 699 • ⏱️ 1:09 • 21h ago
+👁️ 69K • 👍 6K • 💬 737 • ⏱️ 1:09 • 22h ago
 
 ---
 
@@ -314,7 +308,7 @@ Check out Zapier MCP https://bit.ly/3QGTz87 Sign up for their Webinar https://bi
 
 📺 Matthew Berman
 
-👁️ 79K • 👍 4K • 💬 2K • ⏱️ 17:27 • 19h ago
+👁️ 84K • 👍 4K • 💬 2K • ⏱️ 17:27 • 20h ago
 
 ---
 
@@ -324,7 +318,7 @@ The AI revolution isn't coming; it's already here, and it's moving faster than a
 
 📺 Anthony Scaramucci
 
-👁️ 25K • 👍 1K • 💬 211 • ⏱️ 27:44 • 1d ago
+👁️ 26K • 👍 1K • 💬 214 • ⏱️ 27:44 • 1d ago
 
 ---
 
@@ -334,27 +328,17 @@ Access Wan 2.7 in OpenArt https://roboverse-ai.com/wan2-7 In this video, I break
 
 📺 Roboverse
 
-👁️ 7K • 💬 7 • ⏱️ 10:30 • 5h ago
+👁️ 9K • 💬 7 • ⏱️ 10:30 • 6h ago
 
 ---
 
-**[Musk v. Altman: Tesla CEO expects AI to be &#39;smarter than any human&#39; as soon as 2027](https://www.youtube.com/watch?v=zhod94lzhyk)**
+**[An 80-Minute AI Film. 14 Days. 10 Million Credits.](https://www.youtube.com/watch?v=i55bUFB3lFs)**
 
-Elon Musk took the stand Tuesday afternoon in the federal trial over the future of OpenAI, telling jurors the case is simply about ...
+We're making the first fully AI-generated 80-minute feature film and premiering it at Cannes in less than a month. 10 million credits ...
 
-📺 ABC7 News Bay Area
+📺 Higgsfield AI
 
-👁️ 3K • 👍 24 • 💬 27 • ⏱️ 2:47 • 1d ago
-
----
-
-**[Layoffs are SKYROCKETING in 2026... | AI Replacing Jobs](https://www.youtube.com/watch?v=x0-a4zzcMxo)**
-
-Mass Layoffs in 2026 are skyrocketing. The layoff story most Americans are reading in 2026 is wrong, and that's the reason ...
-
-📺 Edwards Economics
-
-👁️ 18K • 👍 603 • 💬 160 • ⏱️ 20:24 • 1d ago
+👁️ 8K • 👍 844 • 💬 165 • ⏱️ 11:53 • 4h ago
 
 ---
 
@@ -364,27 +348,37 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 11K • 👍 291 • 💬 11 • ⏱️ 10:29 • 1d ago
+👁️ 11K • 👍 313 • 💬 12 • ⏱️ 10:29 • 1d ago
 
 ---
 
-**[Grok AI Finally Reveals Who Built The Pyramids — The Evidence Is Undeniable](https://www.youtube.com/watch?v=8SeAWP9Pz8E)**
+**[Layoffs are SKYROCKETING in 2026... | AI Replacing Jobs](https://www.youtube.com/watch?v=x0-a4zzcMxo)**
 
-For thousands of years, humanity has believed that the Great Pyramid of Giza was a triumph of copper chisels and human sweat.
+Mass Layoffs in 2026 are skyrocketing. The layoff story most Americans are reading in 2026 is wrong, and that's the reason ...
 
-📺  Ancient Anomaly
+📺 Edwards Economics
 
-👁️ 15K • 👍 250 • 💬 60 • ⏱️ 20:45 • 3d ago
+👁️ 18K • 👍 630 • 💬 162 • ⏱️ 20:24 • 1d ago
 
 ---
 
-**[Bernie Sanders faces backlash over AI talks with Chinese scientists](https://www.youtube.com/watch?v=8KHb2o-VUO8)**
+**[The AI industry in the US is doomed.  Now China owns it all.](https://www.youtube.com/watch?v=ny_3PRz6Zeg)**
 
-Bernie Sanders is facing backlash over calls for AI cooperation with China as Kurt Knutsson warns the U.S. cannot afford to lose ...
+The economic model for the AI industry brought to us by Wall Street and Silicon Valley is falling apart, with subscription fees paid ...
 
-📺 Fox News Clips
+📺 Inside China Business
 
-👁️ 4K • 👍 297 • 💬 123 • ⏱️ 4:08 • 6h ago
+👁️ 33K • 👍 4K • 💬 773 • ⏱️ 43:55 • 5h ago
+
+---
+
+**[They’re Lying About AI to Make BILLIONS!](https://www.youtube.com/watch?v=CzVi-LPhGJQ)**
+
+AI bubble, AI hype, AI scams, Sam Altman, Michael Burry, OpenAI, Microsoft, Nvidia, Tesla, and Big Tech — this video exposes ...
+
+📺 Redhawk Media Group
+
+👁️ 20K • 👍 665 • 💬 111 • ⏱️ 10:46 • 22h ago
 
 ---
 
@@ -400,7 +394,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 271,652 • ❤️ 3,291 • 3d ago
+⬇️ 271,652 • ❤️ 3,296 • 3d ago
 
 ---
 
@@ -412,7 +406,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 198,830 • ❤️ 876 • 3d ago
+⬇️ 198,830 • ❤️ 878 • 3d ago
 
 ---
 
@@ -424,7 +418,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 82,887 • ❤️ 1,125 • 8d ago
+⬇️ 82,887 • ❤️ 1,133 • 8d ago
 
 ---
 
@@ -436,7 +430,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 766,593 • ❤️ 1,024 • 6d ago
+⬇️ 766,593 • ❤️ 1,026 • 6d ago
 
 ---
 
@@ -448,7 +442,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 4,468 • ❤️ 310 • 2d ago
+⬇️ 4,468 • ❤️ 312 • 2d ago
 
 ---
 
@@ -460,7 +454,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 591,214 • ❤️ 1,164 • 16h ago
+⬇️ 591,214 • ❤️ 1,164 • 17h ago
 
 ---
 
@@ -470,7 +464,19 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `1600.8B`
 
-⬇️ 1,883 • ❤️ 245 • 3d ago
+⬇️ 1,883 • ❤️ 246 • 3d ago
+
+---
+
+**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
+
+*Qwen*
+
+Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 1,977,187 • ❤️ 1,535 • 6d ago
 
 ---
 
@@ -483,18 +489,6 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 `image-text-to-text` `26.9B`
 
 ⬇️ 855,842 • ❤️ 511 • 8d ago
-
----
-
-**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
-
-*Qwen*
-
-Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
-
-`image-text-to-text` `36.0B`
-
-⬇️ 1,977,187 • ❤️ 1,529 • 6d ago
 
 ---
 
@@ -518,7 +512,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 52 • 💬 2 • ⭐ 56,385 • 16mo ago
+▲ 52 • 💬 2 • ⭐ 57,371 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -546,7 +540,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 14 • 💬 2 • ⭐ 8,349 • 12d ago
+▲ 14 • 💬 2 • ⭐ 8,463 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -586,7 +580,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 5,320 • 15d ago
+▲ 19 • 💬 2 • ⭐ 5,320 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -600,21 +594,9 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
 
-▲ 111 • 💬 3 • ⭐ 268 • 3d ago
+▲ 112 • 💬 3 • ⭐ 278 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
-
----
-
-**[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)**
-
-*Yilei Jiang, Jinyuan Hu, Qianyin Xiao et al. (11 authors)*
-
-OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
-
-▲ 76 • 💬 7 • ⭐ 1,680 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
 ---
 
@@ -624,9 +606,21 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
 
-▲ 61 • 💬 4 • ⭐ 385 • 3d ago
+▲ 61 • 💬 4 • ⭐ 385 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
+
+---
+
+**[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)**
+
+*Yilei Jiang, Jinyuan Hu, Qianyin Xiao et al. (11 authors)*
+
+OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
+
+▲ 76 • 💬 7 • ⭐ 1,710 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
 ---
 
@@ -638,7 +632,7 @@ Tuna-2 is a unified multimodal model that performs visual understanding and gene
 
 Researchers developed TIDE, a framework for cross-architecture distillation of diffusion large language models that improves performance through specialized modules for distillation strength modulation, context enrichment, and cross-tokenizer objectives.
 
-▲ 35 • 💬 2 • ⭐ 56 • 1d ago
+▲ 35 • 💬 2 • ⭐ 56 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.26951) • [💻 code](https://github.com/PKU-YuanGroup/TIDE) • [🔗 project](https://pku-yuangroup.github.io/TIDE-Page/)
 
@@ -654,7 +648,7 @@ Researchers developed TIDE, a framework for cross-architecture distillation of d
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 51.2k • 🔱 2.7k • 12d ago
+⭐ 51.3k • 🔱 2.7k • 12d ago
 
 ---
 
@@ -674,7 +668,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 41.2k • 🔱 8.5k • 3d ago
+⭐ 41.2k • 🔱 8.5k • 2h ago
 
 ---
 
@@ -684,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 38.9k • 🔱 4.3k • 10h ago
+⭐ 39.0k • 🔱 4.3k • 11h ago
 
 ---
 
@@ -694,7 +688,7 @@ runs anywhere. uses anything
 
 `TypeScript` `ai` `ai-agent` `ai-tools` `cli` `coding`
 
-⭐ 25.2k • 🔱 8.2k • 5h ago
+⭐ 25.2k • 🔱 8.2k • 6h ago
 
 ---
 
@@ -714,7 +708,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 8.6k • 🔱 533 • 3d ago
+⭐ 8.7k • 🔱 541 • 3d ago
 
 ---
 
@@ -744,7 +738,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 4.8k • 🔱 332 • 10h ago
+⭐ 4.8k • 🔱 334 • 11h ago
 
 ---
 

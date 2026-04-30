@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-30T19:23:38.871239+00:00'
+updated: '2026-04-30T20:39:23.485273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 19:23 UTC  
+**Last Updated:** April 30, 2026 at 20:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,370.00
+### $76,479.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -1.3%  
+**24h:** +0.7%  
+**7d:** -1.2%  
 **30d:** +12.3%  
-**90d:** -3.0%  
-**1y:** -20.8%  
+**90d:** -2.9%  
+**1y:** -20.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1524.58B
+**Market Cap:** $1530.93B
 Rank #1
 
-**Circulating Supply:** 20,022,812 BTC
+**Circulating Supply:** 20,022,840 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.6%
+-39.4%
 
 **All-Time Low:** $67.81
-+112233.0%
++112665.1%
 
 ---
 
@@ -81,7 +81,21 @@ Rank #1
 
 A while back I met a guy on Facebook Marketplace, a tree fell on his house and he had 30× 300W solar panels he needed gone. I rented a U-Haul and bought all of them for $30 each. I had a friend Joe who works on forklift batteries help me get started. He told me anything below like 60% gets scrapped and the scrap price is dirt cheap for what you’re actually getting. He ended up hooking me up with two 500Ah 24V forklift batteries for free, which was huge. I rented a $100 truck, the company loaded it with forklifts, and then up in Maine my cousin has a Kubota so I got lucky unloading it. I also grabbed some UPS batteries that are 12V, wired them in series to get 24V and then paralleled them, and then paralleled that with the two 24V forklift batteries. Total comes out to about 1500Ah @ 24V. The UPS batteries cost me $600 for 500Ah, which is crazy cheap. I’ve got some land in Maine so I just started throwing panels out there, nothing fancy. Literally just threw everything on the ground and put as many as I could on top of a camper. This winter a bunch of them blew off so I had to go out and put them back up lol. I’m honestly lucky the camper is still there considering the wiring… and surprised I didn’t burn it down at some point. I also found 500W panels for $10 each with cracked glass. Didn’t fix anything and they still do like 400W after 4 years. Solar panels are dirt cheap right now because China overproduced like crazy, there’s just too many panels out there. Setup: ~4–5kW+ solar ~1500Ah @ 24V battery bank One 200A charge controller 4000W inverter In full daylight I could mine all day pulling like 150 amps, which is pretty wild for basically scrap parts. First time wiring it I was pushing so much current one of the cables basically caught fire… so yeah learned about wire size real quick. I also burned up a couple inverters early on pushing too many watts through them, but eventually found a couple 4000W inverters cheap on eBay and those have been working great. Only thing that sucked is I didn’t have a cutoff so I had to manually unplug the miner or it would just drain the batteries. In the end I actually stopped mining with it and just run the camper. I used to burn like 150 gallons of gas, now I use basically nothing. I run the AC, microwave, everything with no issues. It’s still half-assed, but at least I upgraded to thicker gauge wires so it’s a little less sketchy now. The pictures below are from when I first started the setup — it’s missing a ton of panels and one of the forklift batteries. From there I ended up starting ING Mining, and now we’re one of the larger retail disruptors of used miners lol. Still, for broken panels, “dead” batteries, and Facebook deals… it worked way better than it should. -Nick Squires https://preview.redd.it/hsfmphq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=7eee2bea775028182fe5c1357be14531dc96066c https://preview.redd.it/ziy3biq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=bb3d7ead92d0f7566d2a50db1ff5d06f4a23ba48 https://preview.redd.it/zokyfiq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=0709627755b9007ab03a296f49a5b890a92ea03e
 
-4h ago
+6h ago
+
+---
+
+**[Airgapped signing with COLDCARD Q](https://www.reddit.com/r/Bitcoin/comments/1t0682m/airgapped_signing_with_coldcard_q/)**
+
+Been playing around with the COLDCARD Q and wanted to see how “airgapped” signing actually works in practice. Knowing that my private keys are fully Airgapped gives me a peace of mind. Would love to hear your guys’ thoughts on the ColdCard Q.
+
+1h ago
+
+---
+
+**[Whales scooped up an insane 11k BTC just yesterday, supply is shrinking into long term holders](https://www.reddit.com/r/Bitcoin/comments/1t057ao/whales_scooped_up_an_insane_11k_btc_just/)**
+
+1h ago
 
 ---
 
@@ -89,15 +103,7 @@ A while back I met a guy on Facebook Marketplace, a tree fell on his house and h
 
 Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has become central to the chain’s turnaround, driving 2 million new customers, cutting costs, and helping fund a healthier menu overhaul.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 23h ago
-
----
-
-**[Jerome Powell's Final Mic Drop: How the Warsh Era Changes the Bitcoin Risk Premium](https://www.reddit.com/r/Bitcoin/comments/1szypsw/jerome_powells_final_mic_drop_how_the_warsh_era/)**
-
-Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
-
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/powell-exit-warsh-era-bitcoin-risk-premium) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 1d ago
 
 ---
 
@@ -105,7 +111,15 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Hello there bitcoiners, i work in a small hotel in Olomouc, Czech Republic. I am considering accepting bitcoin as a payment method. Do you think it is a good idea? Are there any dangers? What do i have to do to make this happen? Can I use Revolut/Strike apps in EU to make it happen? Are there any other alternatives? Seems like a good idea to me. i think something positive should happen. Thank you guys/bitcoiners for your help.
 
-3h ago
+5h ago
+
+---
+
+**[Jerome Powell's Final Mic Drop: How the Warsh Era Changes the Bitcoin Risk Premium](https://www.reddit.com/r/Bitcoin/comments/1szypsw/jerome_powells_final_mic_drop_how_the_warsh_era/)**
+
+Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
+
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/powell-exit-warsh-era-bitcoin-risk-premium) • 5h ago
 
 ---
 
@@ -113,7 +127,7 @@ Hello there bitcoiners, i work in a small hotel in Olomouc, Czech Republic. I am
 
 My older brother and I have recently caught the Bitcoin bug and we both are somehow excited but also overwhelmed about the entire idea. Neither of us has any real experience with crypto, so we’re starting from zero. I’m here because we have a bunch of basic questions like How should we actually learn about Bitcoin properly, should we buy some first and where’s the best place to buy it safely as beginners? Maybe these questions are even too advanced (how can one learn about this properly) ? We really don’t want to rush in and make stupid mistakes. Any guidance would be massively appreciated.
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +135,7 @@ My older brother and I have recently caught the Bitcoin bug and we both are some
 
 Amateur hour here but how is there possibly a million dollars in this book in bitcoin?
 
-21h ago
+22h ago
 
 ---
 
@@ -129,7 +143,7 @@ Amateur hour here but how is there possibly a million dollars in this book in bi
 
 We all have our reasons. Would love to know why you invest in Bitcoin. For me, its all about owning something without the fear of inflation and getting confiscated by a bad bureaucrat.
 
-15h ago
+16h ago
 
 ---
 
@@ -137,23 +151,7 @@ We all have our reasons. Would love to know why you invest in Bitcoin. For me, i
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
-
----
-
-**[Yes it's boring](https://www.reddit.com/r/Bitcoin/comments/1szkhmv/yes_its_boring/)**
-
-Hodling is boring, not for adhder, that's why you be so busy and living your best life while let it sit and appreciate
-
-15h ago
-
----
-
-**[Japan Bitbank Launches Crypto Card That Settles Bills in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1szbyq4/japan_bitbank_launches_crypto_card_that_settles/)**
-
-Japan crypto exchange Bitbank has launched a crypto-linked credit card that allows users to pay their bills directly in Bitcoin, the first such product from a licensed Japanese exchange to combine traditional credit functionality with BTC settlement. The move signals a meaningful shift in how Japan’s regulated crypto sector is approaching retail payment infrastructure. The card offers 0.5% cashback in cryptocurrency on all spending, layering a rewards incentive on top of the settlement mechanic. Bitcoin payments integration has never had a cleaner regulatory window in Japan than it does right now, and Bitbank is moving into that window ahead of competitors. The mechanics are straightforward, but the product structure deserves precision. Users hold a Bitbank credit card, make purchases via standard card rails, and settle the resulting bill in Bitcoin held in their Bitbank exchange account rather than Japanese yen. The 0.5% cashback reward is paid in cryptocurrency, compounding the user’s crypto exposure with everyday spending. Bitbank, which received its Financial Services Agency license in 2017 and has operated as one of Japan’s foundational crypto exchanges since 2014, is rolling the product out domestically. The card targets Japanese retail users who already maintain BTC positions on the exchange and want to bring those holdings into day-to-day financial life without liquidating to fiat first. This is not a prepaid card or a crypto debit product; it is a credit card with Bitcoin as the settlement currency, a distinction that matters for the payments architecture. Japan’s 106th credit card company had already launched a crypto Visa prepaid card in September 2024, but Bitbank’s credit-first structure represents a separate and more integrated product category.
-
-🔗 [Cryptonews](https://cryptonews.com/news/bitbank-crypto-card-settles-bills-bitcoin/) • 22h ago
+14h ago
 
 ---
 
@@ -161,37 +159,57 @@ Japan crypto exchange Bitbank has launched a crypto-linked credit card that allo
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) price analysis: Crash risk rises as bond yields surge](https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price)**
+**[Elon Musk likes Bitcoin—but he just told a jury most crypto coins are scams](https://fortune.com/2026/04/30/elon-musk-bitcoin-crypto-scams/)**
 
-Hawkish dissent within the Federal Reserve, elevated oil prices and rising long-term inflation expectations are pushing bond yields higher.
+The billionaire’s thoughts on crypto came up during the OpenAI trial
 
-CoinDesk • 12h ago
-
----
-
-**[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000)**
-
-Bloomberg.com • 1d ago
+Fortune • 4h ago
 
 ---
 
-**[How Michael Saylor (Almost) Single-Handedly Drove Bitcoin's 20% Rally](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-almost-single-handedly-180124814.html)**
+**[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://finance.yahoo.com/markets/crypto/articles/option-traders-build-electric-fence-155304836.html)**
 
-Bitcoin is up roughly 20% from its February lows, and Bitwise Chief Investment Officer Matt Hougan says Strategy Inc. chairman Michael Saylor is the single biggest factor behind the move. Strategy Added $7.2 Billion In 8 Weeks Strategy purchased $7.2...
+(Bloomberg) -- Bitcoin has been pressing toward $80,000 and struggling to get through. One reason: a hidden force in the options market is working against it.Most Read from BloombergNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions Rise80 Seconds of Big Tech Earnings Will Decide Stock Market’s FateTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysTrump Tells Aides to Prep for Lengthy Hormuz Blockade, Report SaysA clu
+
+Yahoo Finance • 1d ago
+
+---
+
+**[DOGE price: Dogecoin zooms 10% in breakaway from bitcoin as open interest hits year-high](https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high)**
+
+Dogecoin has jumped nearly 10% to about 10.5 cents as futures open interest climbs to its highest level this year;.
+
+CoinDesk • 8h ago
+
+---
+
+**[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Peter Schiff Wonders Why Bitcoin Keeps Dropping Despite Michael Saylor's Aggressive BTC Accumulation—Critics Clap Back](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-wonders-why-bitcoin-193151827.html)**
+
+Economist Peter Schiff questioned on Tuesday Bitcoin’s decline over the past year, despite Strategy Inc. substantially boosting its BTC reserves during the same time. Schiff Targets Saylor’s Strategy Again In an X post, Schiff chose the 2025 Bitcoin Conference as...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Faithful Came to Las Vegas But the Rally Didn’t Show Up](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
+**[Bitcoin’s $75K cost basis emerges as key support zone for current bull trend](https://www.tradingview.com/news/cointelegraph:31d42eee6094b:0-bitcoin-s-75k-cost-basis-emerges-as-key-support-zone-for-current-bull-trend/)**
 
-Bloomberg.com • 1h ago
+Bitcoin (BTC) is trading at $76,350, which is above several key investors' cost-basis levels. The one-to-three-month holder average sits at $75,620, placing a large share of recent buyers near breakeven, while the price sits just below the US spot exchange-traded fund (ETF) cost basis of $76,700.Th…
+
+TradingView • 1h ago
 
 ---
 
-**[Bitcoin is having its best month in a year — but the retail crowd is looking elsewhere](https://www.marketwatch.com/story/bitcoin-is-having-its-best-month-in-a-year-but-the-retail-crowd-is-looking-elsewhere-d01aa6c1)**
+**[Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn](https://finance.yahoo.com/markets/crypto/articles/bitcoin-crash-incoming-april-surge-203019058.html)**
 
-MarketWatch • 22h ago
+Analysts warn that the Bitcoin rally was fueled by speculative futures trading, mirroring conditions that preceded the 2022 crypto crash.
+
+Yahoo Finance • 9m ago
 
 ---
 
@@ -203,33 +221,17 @@ Forbes • 2d ago
 
 ---
 
-**[Eric Trump Gives His Unsurprising Bitcoin Prediction in Las Vegas](https://finance.yahoo.com/markets/crypto/articles/eric-trump-gives-unsurprising-bitcoin-174629166.html)**
-
-Eric Trump predicted Bitcoin will hit $1 million at the Bitcoin 2026 Vegas conference. The Trump family signals continued crypto support.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin's (BTC) greatest days are here, says Eric Trump](https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line)**
-
-Speaking at Bitcoin Las Vegas 2026, the American Bitcoin co-founder declared the last six months a turning point.
-
-CoinDesk • 23h ago
-
----
-
-**[Elon Musk likes Bitcoin—but he just told a jury most crypto coins are scams](https://fortune.com/2026/04/30/elon-musk-bitcoin-crypto-scams/)**
-
-The billionaire’s thoughts on crypto came up during the OpenAI trial
-
-Fortune • 3h ago
-
----
-
 **[MARA to buy Ohio gas plant operator Long Ridge for $1.5 billion as it pivots beyond bitcoin](https://www.reuters.com/business/energy/mara-buy-ohio-gas-plant-operator-long-ridge-15-billion-it-pivots-beyond-bitcoin-2026-04-30/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
+
+---
+
+**[Ark Invest buys $39 million worth of Robinhood shares, offloads $6 million of its own spot bitcoin ETF](https://www.theblock.co/post/399536/ark-invest-buys-robinhood-sells-own-spot-bitcoin-etf)**
+
+Robinhood's stock closed down 13.2% after the company reported weaker first-quarter earnings the previous day.
+
+The Block • 11h ago
 
 ---
 
@@ -249,7 +251,7 @@ How a 1970s-era application like a terminal emulator can consume more battery th
 
 Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
 
-⬆️ 46 • 💬 44 • 2h ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
+⬆️ 46 • 💬 47 • 4h ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
 
 ---
 
@@ -258,14 +260,6 @@ Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by cr
 Paul Sztorc’s proposed eCash fork would give investors coins cloned from wallets believed to belong to Bitcoin creator Satoshi Nakamoto.
 
 ⬆️ 6 • 💬 8 • 2d ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
-
----
-
-**[Spark: Bitcoin's Payment Layer for Stablecoins and Instant BTC](https://news.ycombinator.com/item?id=47880978)**
-
-Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
-
-⬆️ 5 • 💬 1 • 6d ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -287,7 +281,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 2 • 💬 0 • 13h ago • [satoshiguesser.com](https://satoshiguesser.com)
+⬆️ 2 • 💬 0 • 14h ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -303,7 +297,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 1 • 💬 0 • 14h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+⬆️ 1 • 💬 0 • 15h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -312,6 +306,14 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 Localhost Research is excited to announce a new initiative in partnership with Benedikt Bünz and Dan Boneh. Together, we have established a Post Quantum Cryptography Group that will review, study, and design conservative cryptographic schemes that will help inform the direction and shape of Bitcoin's response to the PQP.
 
 ⬆️ 1 • 💬 0 • 1d ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
+
+---
+
+**[Scam Quantum Fud Headlines](https://news.ycombinator.com/item?id=47901297)**
+
+The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
+
+⬆️ 5 • 💬 1 • 5d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -325,7 +327,7 @@ A billionaire just issued a global warning and it is not subtle. Tim Draper and 
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 239 • ⏱️ 18:17 • 22h ago
+👁️ 28K • 👍 2K • 💬 144 • ⏱️ 18:17 • 23h ago
 
 ---
 
@@ -335,67 +337,17 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 774 • 💬 145 • ⏱️ 43:42 • 4h ago
+👁️ 14K • 👍 878 • 💬 177 • ⏱️ 43:42 • 5h ago
 
 ---
 
-**[How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune](https://www.youtube.com/watch?v=nLWx4luWC-s)**
+**[Bitcoin&#39;s Bearish Pattern: Key Level to Watch Before the Next Big Move](https://www.youtube.com/watch?v=zAaoofe5f18)**
 
-The president's second son pitches his bitcoin company as a money-printing machine. It's actually an arbitrage vehicle that preys ...
+In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down the current technical structure on Bitcoin, ...
 
-📺 Forbes
+📺 Verified Pro Traders
 
-👁️ 4K • 👍 163 • 💬 17 • ⏱️ 5:51 • 6h ago
-
----
-
-**[Keynote: Jack Mallers - The Bitcoin Company | Bitcoin 2026](https://www.youtube.com/watch?v=dEsSHoHZRH0)**
-
-What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 keynote, Jack Mallers CEO of Strike and Twenty One ...
-
-📺 Bitcoin Magazine
-
-👁️ 25K • 👍 1K • 💬 131 • ⏱️ 37:06 • 18h ago
-
----
-
-**[Bitcoiners Predict MASSIVE Bull Market](https://www.youtube.com/watch?v=VER8TkkZQQI)**
-
-Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this year's bitcoin Conference. In this episode, he ...
-
-📺 Anthony Pompliano
-
-👁️ 67K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
-
----
-
-**[Mark Moss: Building a Personal Treasury with a Perpetual Bitcoin Machine | Bitcoin 2026](https://www.youtube.com/watch?v=eU8Q2-Q8qzk)**
-
-You bought the right asset, but are you playing the wrong game? At Bitcoin Vegas 2026, Mark Moss of Market Disruptors argues ...
-
-📺 Bitcoin Magazine
-
-👁️ 13K • 👍 809 • 💬 26 • ⏱️ 17:31 • 1d ago
-
----
-
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
-
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
-
-📺 Paul Barron Network
-
-👁️ 49K • 👍 2K • 💬 153 • ⏱️ 16:31 • 1d ago
-
----
-
-**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
-
-The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
-
-📺 Bitcoin Magazine
-
-👁️ 96K • 👍 4K • 💬 362 • ⏱️ 47:01 • 1d ago
+👁️ 3K • 👍 438 • 💬 27 • ⏱️ 8:44 • 2h ago
 
 ---
 
@@ -405,17 +357,67 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 129 • 💬 78 • ⏱️ 33:16 • 2h ago
+👁️ 2K • 👍 161 • 💬 3 • ⏱️ 33:16 • 4h ago
 
 ---
 
-**[Bitcoin Exchange Reserves Hit 7 Year Low… Here’s Why](https://www.youtube.com/watch?v=FLXKQM-3ieQ)**
+**[THIS chart will change your 2026 Bitcoin price prediction...](https://www.youtube.com/watch?v=iqf2RG2s7OY)**
 
-Ledger Golden Week Flash Sale – Official CryptoDad Landing Page https://shop.ledger.com/r/cryptodad?r=6057 Travel ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 The CryptoDad
+📺 Tyler S
 
-👁️ 4K • 👍 247 • 💬 30 • ⏱️ 9:01 • 1d ago
+👁️ 3K • 👍 374 • 💬 45 • ⏱️ 13:02 • 3h ago
+
+---
+
+**[Mark Moss: Building a Personal Treasury with a Perpetual Bitcoin Machine | Bitcoin 2026](https://www.youtube.com/watch?v=eU8Q2-Q8qzk)**
+
+You bought the right asset, but are you playing the wrong game? At Bitcoin Vegas 2026, Mark Moss of Market Disruptors argues ...
+
+📺 Bitcoin Magazine
+
+👁️ 15K • 👍 887 • 💬 26 • ⏱️ 17:31 • 1d ago
+
+---
+
+**[Bitcoiners Predict MASSIVE Bull Market](https://www.youtube.com/watch?v=VER8TkkZQQI)**
+
+Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this year's bitcoin Conference. In this episode, he ...
+
+📺 Anthony Pompliano
+
+👁️ 68K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
+
+---
+
+**[Keynote: Jack Mallers - The Bitcoin Company | Bitcoin 2026](https://www.youtube.com/watch?v=dEsSHoHZRH0)**
+
+What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 keynote, Jack Mallers CEO of Strike and Twenty One ...
+
+📺 Bitcoin Magazine
+
+👁️ 28K • 👍 1K • 💬 141 • ⏱️ 37:06 • 20h ago
+
+---
+
+**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
+
+The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
+
+📺 Bitcoin Magazine
+
+👁️ 98K • 👍 4K • 💬 367 • ⏱️ 47:01 • 1d ago
+
+---
+
+**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+
+Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+
+📺 Paul Barron Network
+
+👁️ 51K • 👍 3K • 💬 157 • ⏱️ 16:31 • 1d ago
 
 ---
 
