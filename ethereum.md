@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T17:50:47.890350+00:00'
+updated: '2026-04-30T19:23:38.875273+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 17:50 UTC  
+**Last Updated:** April 30, 2026 at 19:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -2.5%  
-**30d:** +5.5%  
-**90d:** -8.0%  
-**1y:** +22.8%  
+**24h:** +0.9%  
+**7d:** -2.2%  
+**30d:** +5.8%  
+**90d:** -7.8%  
+**1y:** +23.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -152,7 +152,7 @@ so i track my trades pretty carefully and last month i did about $50k total acro
 
 The Federal Reserve held its benchmark interest rate steady again, a decision marked by Chair Jerome Powell's soon-to-expire tenure.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -180,20 +180,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
-
-ethereum.org • 1h ago
-
----
-
-**[MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested](https://finance.yahoo.com/markets/crypto/articles/megaeth-token-launches-ethereum-layer-162601888.html)**
-
-Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -202,23 +188,39 @@ Fortune • 1d ago
 
 ---
 
+**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
+
+Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
+
+Yahoo Finance • 22h ago
+
+---
+
 **['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
+
+---
+
+**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
+
+Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
+
+The Motley Fool • 8h ago
 
 ---
 
 **[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
-**[Tired of Being Burned by Crypto? Consider Ethereum, Crypto's Settlement Layer.](https://www.fool.com/investing/2026/04/30/tired-of-being-burned-by-crypto-consider-ethereum/)**
+**[Exclusive: Crypto CEO Breaks Down Why Bitcoin and Ethereum Prices Fell After Fed’s Shock Decision](https://coinpedia.org/news/exclusive-crypto-ceo-breaks-down-why-bitcoin-and-ethereum-prices-fell-after-feds-shock-decision/)**
 
-A settlement layer is the base that underpins a host of blockchain activity.
+The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
 
-The Motley Fool • 7h ago
+Coinpedia • 12h ago
 
 ---
 
@@ -232,7 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 1K • 👍 106 • 💬 139 • ⏱️ 9:18 • 3h ago
+👁️ 1K • 👍 106 • 💬 139 • ⏱️ 9:18 • 5h ago
 
 ---
 
@@ -272,7 +274,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 27K • 👍 1K • 💬 147 • ⏱️ 23:39 • 1d ago
+👁️ 27K • 👍 1K • 💬 147 • ⏱️ 23:39 • 2d ago
 
 ---
 
@@ -282,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 177 • 👍 11 • ⏱️ 4:31 • 8h ago
+👁️ 177 • 👍 11 • ⏱️ 4:31 • 10h ago
 
 ---
 
@@ -302,7 +304,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 393 • 👍 56 • ⏱️ 6:47 • 4h ago
+👁️ 393 • 👍 56 • ⏱️ 6:47 • 5h ago
 
 ---
 
