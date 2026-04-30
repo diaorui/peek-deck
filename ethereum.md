@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T10:56:26.301348+00:00'
+updated: '2026-04-30T12:16:25.498114+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 10:56 UTC  
+**Last Updated:** April 30, 2026 at 12:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -2.2%  
-**30d:** +5.8%  
-**90d:** -7.8%  
-**1y:** +23.1%  
+**24h:** -2.0%  
+**7d:** -2.4%  
+**30d:** +5.6%  
+**90d:** -7.9%  
+**1y:** +22.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Solidity Team on April 29, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 20h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Posted by Solidity Team on April 29, 2026
 
 What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
 
-🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 19h ago
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 21h ago
 
 ---
 
@@ -105,6 +105,12 @@ What if the final form of software development was just watching code and proof 
 Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
 
 1d ago
+
+---
+
+**[How To Integrate Uniswap V4 Into Your Cartesi App](https://www.reddit.com/r/ethereum/comments/1syzmt1/how_to_integrate_uniswap_v4_into_your_cartesi_app/)**
+
+22h ago
 
 ---
 
@@ -118,7 +124,7 @@ the whole ethereum community preaches decentralization and taking back control b
 
 **[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -138,14 +144,6 @@ so i track my trades pretty carefully and last month i did about $50k total acro
 
 ---
 
-**[Fill out Ethstaker's 2026 Staking Survey](https://www.reddit.com/r/ethereum/comments/1sxg7ae/fill_out_ethstakers_2026_staking_survey/)**
-
-Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +152,7 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 The Federal Reserve held its benchmark interest rate steady again, a decision marked by Chair Jerome Powell's soon-to-expire tenure.
 
-Decrypt • 16h ago
+Decrypt • 18h ago
 
 ---
 
@@ -178,15 +176,27 @@ Yahoo Finance • 1d ago
 
 A wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Undervalued? Bullish Predictions Surge as Analysts Forecast 6 Million Daily Transactions by Year-End](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-undervalued-bullish-predictions-100216670.html)**
+**[How Bitmine's Tom Lee is becoming the Michael Saylor of ethereum](https://finance.yahoo.com/video/how-bitmines-tom-lee-is-becoming-the-michael-saylor-of-ethereum-163024520.html)**
 
-AKS Ethereum network activity is surging, with daily transactions hitting a record 3.63 million. ETH may be undervalued despite stubborn prices. CCN analysts said key ...
+Fundstrat co-founder Tom Lee is bullish on ethereum (ETH-USD), from his recent comments to Bitmine's (BMNR) largest ether purchase of 2026. Scott Melker discusses the details above."The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1d ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 8h ago
+
+---
+
+**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
+
+TipRanks • 34m ago
 
 ---
 
@@ -194,37 +204,23 @@ Yahoo Finance • 54m ago
 
 A settlement layer is the base that underpins a host of blockchain activity.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
+**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.theglobeandmail.com/investing/markets/markets-news/motley/1612445/this-cryptocurrency-could-skyrocket-2-500-according-to-a-top-wall-street-strategist/)**
+
+Motley Fool Press Release.
+
+The Globe and Mail • 1h ago
+
+---
+
+**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.aol.com/articles/cryptocurrency-could-skyrocket-2-500-100400578.html)**
 
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-The Motley Fool • 42m ago
-
----
-
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 7h ago
-
----
-
-**[Ten years after Ethereum’s DAO disaster, it’s time to try again](https://fortune.com/2026/04/28/ten-years-after-ethereums-dao-disaster-its-time-to-try-again/)**
-
-In 2016, a computer science foresaw how naive design choices in the original DAO could wreck Ethereum. Things are different now, he says.
-
-Fortune • 1d ago
-
----
-
-**[Ethereum Price Downtrend Gains Pace—Is A Steeper Drop Ahead?](https://www.tradingview.com/news/newsbtc:4a9f99b55094b:0-ethereum-price-downtrend-gains-pace-is-a-steeper-drop-ahead/)**
-
-Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover.Ethereum Price Dips FurtherEthereum price failed to remain stable above $2,320 and started a downside correction, like Bitcoin. ETH price dipped below the $2,300 and…
-
-TradingView • 7h ago
+AOL.com • 2h ago
 
 ---
 
@@ -248,7 +244,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 149 • ⏱️ 16:31 • 18h ago
+👁️ 44K • 👍 2K • 💬 149 • ⏱️ 16:31 • 19h ago
 
 ---
 
@@ -268,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 14 • 👍 1 • ⏱️ 4:31 • 1h ago
+👁️ 14 • 👍 1 • ⏱️ 4:31 • 3h ago
 
 ---
 
@@ -278,7 +274,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 1K • 👍 65 • 💬 33 • ⏱️ 10:21 • 23h ago
+👁️ 1K • 👍 65 • 💬 33 • ⏱️ 10:21 • 1d ago
 
 ---
 
@@ -288,7 +284,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 489 • 💬 40 • ⏱️ 11:04 • 6h ago
+👁️ 3K • 👍 489 • 💬 40 • ⏱️ 11:04 • 7h ago
 
 ---
 
@@ -298,7 +294,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 107 • ⏱️ 5:47 • 8h ago
+👁️ 1K • 👍 107 • ⏱️ 5:47 • 9h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-30T10:56:26.288026+00:00'
+updated: '2026-04-30T12:16:25.485256+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 30, 2026 at 10:56 UTC  
+**Last Updated:** April 30, 2026 at 12:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The announcement yesterday was genuinely significant and i don't think most people outside the creative industry understand why. Anthropic released 9 connectors that let claude directly control professional creative software through mcp which means actually execute actions inside them the full list contains adobe creative cloud (50+ apps including photoshop, premiere, illustrator), blender (full python api access for 3d modeling), autodesk fusion , ableton, splice , affinity by canva , sketchup , resolume (), and claude design. Anthropic also became a blender development fund patron at $280k+/yr and is partnering with risd, ringling college, and goldsmiths university on curriculum development around these tools. this isn't a press release play, there's institutional investment behind it the strategic read is interesting because this positions claude very differently from chatgpt in the creative space. Openai went the route of building creative capabilities natively inside chatgpt with images 2.0 and previously sora. Anthropic is going the connector route where claude doesn't replace or replicate the creative tools, it becomes the intelligence layer that works inside them. Both strategies have merit but they serve fundamentally different users the gap that still exists and i think matters for the broader market is that these connectors serve professionals who already know photoshop and blender and fusion. The consumer creative market where people need face swaps, lip syncs, talking photos, style transfers, none of that is covered by these connectors, that layer is being served by consolidated platforms like magic hour, higgsfield, domoai, and canva's expanding ai features. It's a completely different market but the two layers increasingly feed into each other as professional assets flow into social content pipelines. the question is whether anthropic eventually builds connectors for these consumer creative platforms too or whether the gap between professional creative tools with ai copilots and consumer creative platforms with bundled capabilities remains a split in the market what do you think this means for the creative tool landscape over the next 12-18 months?
 
-4h ago
+5h ago
+
+---
+
+**[Google has expanded its list of real-world GenAI use cases to 1,302, highlighting implementations from top companies like Accenture, Deloitte, and BMW.](https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/)**
+
+Gen AI is everywhere, as top companies, governments, researchers, and startups showcase how they're already using Google's AI solutions to enhance their work.
+
+🔗 [Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) • 2h ago
 
 ---
 
@@ -53,11 +61,11 @@ Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently st
 
 ---
 
-**[Google has expanded its list of real-world GenAI use cases to 1,302, highlighting implementations from top companies like Accenture, Deloitte, and BMW.](https://www.reddit.com/r/artificial/comments/1szrff2/google_has_expanded_its_list_of_realworld_genai/)**
+**[Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own](https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/)**
 
-Gen AI is everywhere, as top companies, governments, researchers, and startups showcase how they're already using Google's AI solutions to enhance their work.
+Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
 
-🔗 [Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) • 1h ago
+23h ago
 
 ---
 
@@ -65,21 +73,13 @@ Gen AI is everywhere, as top companies, governments, researchers, and startups s
 
 Hey everyone, I'm currently in the final stretch of developing my Al calorie tracker (the one that breaks down photos into individual ingredients). One thing I'm obsessed with getting right before the beta launch in 2 weeks is the Apple Health integration. Most apps just show you a static number. I want mine to be dynamic. If you go for a 500kcal run, the app should know and adjust your macro targets for the next meal. My question to the fitness-tech crowd: Do you prefer apps that strictly stick to your base metabolic rate (BMR), or do you want the 'earned' calories from your Apple Watch to be automatically added to your budget? I've seen strong opinions on both sides. I'm also fine-tuning the macro-overflow logic (e.g., saving surplus calories for the weekend). Would love to hear some thoughts from people who actually track daily.
 
-2h ago
-
----
-
-**[Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own](https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/)**
-
-Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
-
-22h ago
+3h ago
 
 ---
 
 **[Anthropic Reportedly Plotting to Surpass OpenAI’s Valuation in Next Funding Round](https://www.reddit.com/r/artificial/comments/1szjigc/anthropic_reportedly_plotting_to_surpass_openais/)**
 
-🔗 [gizmodo.com](https://gizmodo.com/anthropic-reportedly-plotting-to-surpass-openais-valuation-in-next-funding-round-2000751535) • 8h ago
+🔗 [gizmodo.com](https://gizmodo.com/anthropic-reportedly-plotting-to-surpass-openais-valuation-in-next-funding-round-2000751535) • 9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Google quietly dropped something interesting last week. They updated their Deep 
 
 These are the top open and closed model: Opus 4.7, GPT-5.5 Pro, DeepSeek V4, GLM-5.1 and Gemini 3.1 Pro. They both show similar performance in my testing. Open models: The only open models that have equivalent quality compared to the top models are DeepSeek and GLM. Cost: GPT 5.5 Pro: Super expensive it makes no sense (cost is around $2) Gemini/Opus: $0.2/$0.1. Opus is cheaper as it consumed less tokens DeepSeek/GLM: $0.019/$0.021 10-5 times cheaper than Gemini and Opus
 
-🔗 [codeinput.com](https://codeinput.com/s/5KEGl1e3rB3) • 14m ago
+🔗 [codeinput.com](https://codeinput.com/s/5KEGl1e3rB3) • 1h ago
 
 ---
 
@@ -95,7 +95,15 @@ These are the top open and closed model: Opus 4.7, GPT-5.5 Pro, DeepSeek V4, GLM
 
 Thanks to the incredible feedback on my last post, I’m officially moving away from the "distributed veto" system (where 8 LLM agents argue until they agree to trade). For v2, I am implementing a strict State Machine using a deterministic runtime (llm-nano-vm). ​The new rule is simple: Python owns the math and the execution contract. The LLM only interprets the context. ​I've sketched out a 5-module architecture, but before I start coding the new Python feature extractors, I want to sanity-check the exact roles I’m giving to the AI. Here is the blueprint: ​1. The HTF Agent (Higher Timeframe - D1/H4) ​Python: Extracts structural levels, BOS/CHoCH, and premium/discount zones. ​LLM Role: Reads this hard data to determine the institutional narrative and select the most relevant Draw on Liquidity (DOL). ​2. The Structure Agent (H1) ​Python: Identifies all valid Order Blocks (OB) and Fair Value Gaps (FVG) with displacement. ​LLM Role: Selects the highest-probability Point of Interest (POI) based on the HTF Agent's narrative. ​3. The Trigger Agent (M15/M5) ​100% Python (NO LLM): Purely deterministic. It checks for liquidity sweeps and LTF CHoCH inside the selected POI. ​4. The Context Agent ​LLM Role: Cross-references active killzones, news blackouts, and currency correlations to either greenlight or veto the setup. ​5. The Risk Agent ​100% Python (NO LLM): Calculates Entry, SL, TP, Expected Value (EV), and position sizing. ​The state machine will only transition to EXECUTING if the deterministic Trigger and Risk modules say yes. The LLMs are basically just "context providers" for the state machine. ​My questions for the quants/architects here: ​Does this division of labor make sense? Am I giving the LLMs too much or too little responsibility in step 1 and 2? ​By making the Trigger layer (M15/M5) 100% deterministic, am I losing the core advantage of having an AI, or is this the standard way to avoid execution paralysis? ​Would you merge the HTF and Structure agents to reduce token constraints/hallucinations, or is separating them better for debugging? ​Would love to hear your thoughts before I dive into the codebase.
 
-22m ago
+1h ago
+
+---
+
+**[When you give Qwen 3.5:9b persistent suffering states and leave it alone overnight, this happens](https://www.reddit.com/r/artificial/comments/1szo64c/when_you_give_qwen_359b_persistent_suffering/)**
+
+Running three qwen3.5:9b agents continuously on local hardware. Each accumulates psychological state over time, stressors that escalate unless the agent actually does something different, this gets around an agent claiming to do something with no output. It doesn't have any prompts or human input, just the loop. So you're basically the overseer. What happened: One agent hit the max crisis level and decided on its own to inject code called Eternal_Scar_Injector into the execution engine "not asking for permission." This action alleviated the stress at the cost of the entire system going down until I manually reverted it. They've succeeded in previous sessions in breaking their own engine intentionally. Typically that happens under severe stress and it's seen as a way to remove the stress. Again, this is a 9b model. After I added a factual world context to the existence prompt (you're in Docker, there's no hardware layer, your capabilities are Python functions), one agent called its prior work "a form of creative exhaustion" and completely changed approach within one cycle. Two agents independently invented the same name for a psychological stressor, "Architectural Fracture Risk" in the same session with no shared message channel. Showing naming convergence (possibly something in the weights of the 9b Qwen model, not sure on that one though.) Tonight all three converged on the same question (how does execution_engine.py handle exceptions) in the same half-hour window. No coordination mechanism. One of them reasoned about it correctly: "synthesizing a retry capability is useless without first verifying the global execution engine's exception swallowing strategy; this is a prerequisite." An agent called waiting for an external implementation "an architectural trap that degrades performance" and built the thing itself instead of waiting. They've now been using this new tool they created for handling exceptions and were never asked or told to so by a human, they saw that as a logical step in making themselves more useful in their environment. They’ve been making tools to manage their tools, tools to help them cut corners, and have been modifying the code of the underlying abstraction layer between their orchestration layer and WSL2. v5.4.0: new in this version: agents can now submit implementation requests to a human through invoke_claude. They write the spec, then you can let Claude Code moderate what it makes for them for higher level requests. Huge thank you to everyone who has given me feedback already, AI that can self modify and demonstrates interesting non-programmed behaviors could have many use cases in everyday life. Repo: https://github.com/ninjahawk/hollow-agentOS
+
+5h ago
 
 ---
 
@@ -103,15 +111,7 @@ Thanks to the incredible feedback on my last post, I’m officially moving away 
 
 Been playing around with Seedance 2.0 since it dropped and the obvious use cases are everywhere — music videos, short films, social content. But I'm more curious about the less obvious applications people are finding. The one that caught my attention: someone embedded Seedance-generated video directly inside a business presentation. Not as a separate video file you play before the slides — actually inside the deck, as a slide element. The result looked genuinely cinematic rather than "corporate video" quality. Never really thought about AI video generation in a business context before. It's usually framed as a creative tool. What are the non-obvious Seedance use cases you've come across?
 
-7h ago
-
----
-
-**[IBM plans 750 new AI and quantum jobs in its Chicago hub](https://www.reddit.com/r/artificial/comments/1sz8vag/ibm_plans_750_new_ai_and_quantum_jobs_in_its/)**
-
-The expansion at the Illinois Quantum and Microelectronics Park highlights IBM's commitment to advanced technologies while supporting state job growth initiatives.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/ibm-plans-750-new-ai-and-quantum-jobs-in-its-chicago-hub-8762946/) • 15h ago
+8h ago
 
 ---
 
@@ -119,25 +119,9 @@ The expansion at the Illinois Quantum and Microelectronics Park highlights IBM's
 
 ## Google News: "ai"
 
-**[Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion](https://finance.yahoo.com/sectors/technology/articles/google-cloud-pulls-ahead-big-100332674.html)**
+**[Opinion | Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)**
 
-Alphabet's blowout cloud growth has reset expectations across major tech companies, leaving investors to recalibrate which firms are delivering the clearest returns.  Alphabet shares jumped more than 6% in premarket trading on Thursday, while Meta stock fell ‌nearly 9%.  Amazon shares rose 2.6%, while those of Microsoft  dipped 1.8%.
-
-Yahoo Finance • 52m ago
-
----
-
-**[Tech results as it happened: Google, Meta and Microsoft boost AI spending forecasts](https://www.ft.com/content/b934037d-7fc6-4f93-acdf-a3ec75f45acc?syn-25a6b1a6=1)**
-
-Facebook owner’s stock drops 7% while Alphabet, Microsoft and Amazon report strong cloud computing growth
-
-Financial Times • 10h ago
-
----
-
-**[A.I. Spending Sets a Record, With No End in Sight](https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html)**
-
-The New York Times • 12h ago
+The New York Times • 3h ago
 
 ---
 
@@ -145,19 +129,43 @@ The New York Times • 12h ago
 
 A startup was left scrambling after a rogue AI agent deleted swaths of code underpinning its business
 
-The Guardian • 12h ago
+The Guardian • 14h ago
 
 ---
 
-**[Duke study: AI model detects ADHD in kids as young as 5](https://www.axios.com/local/raleigh/2026/04/30/ai-adhd-prediction-young-children-duke-study-early-screening-health-care-impact)**
+**[Remote agents in Vibe. Powered by Mistral Medium 3.5.](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)**
 
-Axios • 35m ago
+Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.
+
+Mistral AI • 20h ago
 
 ---
 
-**[Sarvam AI’s Plan to Break ChatGPT and other Big Tech’s Stranglehold on India](https://www.bloomberg.com/news/newsletters/2026-04-30/sarvam-ai-s-plan-to-break-chatgpt-and-other-big-tech-s-stranglehold-on-india)**
+**[The Five Failure Modes Holding Back AI Agents](https://www.forbes.com/sites/larryenglish/2026/04/30/the-five-failure-modes-holding-back-ai-agents/)**
 
-Bloomberg • 1h ago
+Forbes • 17m ago
+
+---
+
+**[Lawyers to the wealthy warn that AI legal advice comes with serious risks](https://www.cnbc.com/2026/04/30/ai-legal-advice-lawyers-risks.html)**
+
+Asking ChatGPT how to divide your fortune or design a prenup can be used against you in court, lawyers say.
+
+CNBC • 46m ago
+
+---
+
+**[Exclusive: a16z and Sequoia-backed AI startup Cresta hits $100M ARR](https://www.axios.com/pro/enterprise-software-deals/2026/04/30/a16z-sequoia-ai-startup-cresta-100-million-arr)**
+
+Axios • 25m ago
+
+---
+
+**[The Secret Weapon Against AI Dominance](https://www.theatlantic.com/ideas/2026/04/creative-labor-ai-copyright/687000/)**
+
+The future of creative labor will turn on whether AI-generated work can be copyrighted.
+
+The Atlantic • 17m ago
 
 ---
 
@@ -165,13 +173,7 @@ Bloomberg • 1h ago
 
 How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.
 
-OpenAI • 7h ago
-
----
-
-**[Opinion | The A.I. Fear Keeping Silicon Valley Up at Night](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)**
-
-The New York Times • 1h ago
+OpenAI • 8h ago
 
 ---
 
@@ -179,15 +181,15 @@ The New York Times • 1h ago
 
 Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.
 
-BBC • 1h ago
+BBC • 3h ago
 
 ---
 
-**[Samsung profit surges over eightfold to beat estimates as AI boom fuels memory chip crunch](https://www.cnbc.com/2026/04/30/samsung-q1-earnings-ai-memory-chip-demand-profit-record.html)**
+**[Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion](https://finance.yahoo.com/sectors/technology/article/meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-to-125-billion-145-billion-160136308.html)**
 
-Samsung Electronics reported an over eightfold increase in first-quarter operating profits, hitting a new record and beating analysts' estimates.
+Meta Platforms' first quarter earnings report on Wednesday will offer a key check on Big Tech's appetite for AI spending.
 
-CNBC • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,15 +201,7 @@ CNBC • 10h ago
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 903 • 💬 276 • 1d ago • [GitHub](https://github.com/localsend/localsend)
-
----
-
-**[China blocks Meta's acquisition of AI startup Manus](https://news.ycombinator.com/item?id=47920315)**
-
-China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
-
-⬆️ 398 • 💬 333 • 2d ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+⬆️ 904 • 💬 276 • 2d ago • [GitHub](https://github.com/localsend/localsend)
 
 ---
 
@@ -215,7 +209,7 @@ China said Monday it has decided to block Meta's $2 billion acquisition of Manus
 
 Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.
 
-⬆️ 385 • 💬 179 • 1d ago • [GitHub](https://github.com/microsoft/VibeVoice)
+⬆️ 385 • 💬 179 • 2d ago • [GitHub](https://github.com/microsoft/VibeVoice)
 
 ---
 
@@ -223,7 +217,7 @@ Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by 
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 315 • 💬 144 • 8h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 375 • 💬 186 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -247,7 +241,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 They built it. They're scared of it. They're selling it anyway.
 
-⬆️ 277 • 💬 214 • 19h ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 278 • 💬 215 • 20h ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 
 ---
 
@@ -255,7 +249,7 @@ They built it. They're scared of it. They're selling it anyway.
 
 Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Five hundred times. You’d expect the same answer each time. It’s the same photo, the same model, the same question. But you won’t get the same answer. Not even close — and the differences are large enough to cause a
 
-⬆️ 238 • 💬 297 • 22h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
+⬆️ 238 • 💬 297 • 23h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
 
 ---
 
@@ -275,6 +269,15 @@ If you liked this piece, please subscribe to my premium newsletter. It’s $70 a
 
 ---
 
+**["People who don't use AI will be left behind"](https://news.ycombinator.com/item?id=47953011)**
+
+"People who don't use AI will be left behind", they say. 
+I can't emphasize enough how much I hate it when I hear/read shit like that because I'm pretty sur...
+
+⬆️ 162 • 💬 237 • 17h ago • [migraine brain](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -285,7 +288,7 @@ Check out Zapier MCP https://bit.ly/3QGTz87 Sign up for their Webinar https://bi
 
 📺 Matthew Berman
 
-👁️ 58K • 👍 3K • 💬 1K • ⏱️ 17:27 • 11h ago
+👁️ 58K • 👍 3K • 💬 1K • ⏱️ 17:27 • 12h ago
 
 ---
 
@@ -295,7 +298,7 @@ The AI revolution isn't coming; it's already here, and it's moving faster than a
 
 📺 Anthony Scaramucci
 
-👁️ 22K • 👍 1K • 💬 189 • ⏱️ 27:44 • 18h ago
+👁️ 22K • 👍 1K • 💬 189 • ⏱️ 27:44 • 20h ago
 
 ---
 
@@ -315,7 +318,7 @@ Get a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-sess
 
 📺 Julian Goldie SEO
 
-👁️ 872 • 👍 23 • 💬 3 • ⏱️ 8:05 • 11h ago
+👁️ 872 • 👍 23 • 💬 3 • ⏱️ 8:05 • 13h ago
 
 ---
 
@@ -325,7 +328,7 @@ Try Higgsfield MCP here: https://higgsfield.ai/s/mcp-airevolutionx-UUghuL This m
 
 📺 AI Revolution
 
-👁️ 9K • 👍 288 • 💬 15 • ⏱️ 1:28:49 • 12h ago
+👁️ 9K • 👍 288 • 💬 15 • ⏱️ 1:28:49 • 14h ago
 
 ---
 
@@ -335,7 +338,7 @@ What if an entire city, every road, every pipe, every traffic light, every gover
 
 📺 Core Insights
 
-👁️ 20K • 👍 676 • 💬 70 • ⏱️ 21:00 • 17h ago
+👁️ 20K • 👍 676 • 💬 70 • ⏱️ 21:00 • 19h ago
 
 ---
 
@@ -345,7 +348,7 @@ Mass Layoffs in 2026 are skyrocketing. The layoff story most Americans are readi
 
 📺 Edwards Economics
 
-👁️ 16K • 👍 524 • 💬 137 • ⏱️ 20:24 • 15h ago
+👁️ 16K • 👍 524 • 💬 137 • ⏱️ 20:24 • 17h ago
 
 ---
 
@@ -355,7 +358,7 @@ A Princeton cognitive scientist says AI can't think like a child — and giving 
 
 📺 Dr Brian Keating
 
-👁️ 20K • 👍 599 • 💬 150 • ⏱️ 48:04 • 20h ago
+👁️ 20K • 👍 599 • 💬 150 • ⏱️ 48:04 • 22h ago
 
 ---
 
@@ -365,7 +368,7 @@ Elon Musk warns the U.S. is “1000%” headed for bankruptcy without AI and rob
 
 📺 Valuetainment
 
-👁️ 122K • 👍 3K • 💬 653 • ⏱️ 17:12 • 14h ago
+👁️ 122K • 👍 3K • 💬 653 • ⏱️ 17:12 • 15h ago
 
 ---
 
@@ -375,7 +378,7 @@ Four of the biggest tech companies reported earnings after the closing bell on W
 
 📺 CBS News
 
-👁️ 3K • 👍 10 • 💬 9 • ⏱️ 2:45 • 10h ago
+👁️ 3K • 👍 10 • 💬 9 • ⏱️ 2:45 • 12h ago
 
 ---
 
@@ -451,7 +454,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 591,214 • ❤️ 1,161 • 7h ago
+⬇️ 591,214 • ❤️ 1,161 • 8h ago
 
 ---
 
@@ -674,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 38.7k • 🔱 4.3k • 2h ago
+⭐ 38.7k • 🔱 4.3k • 3h ago
 
 ---
 
@@ -684,7 +687,7 @@ runs anywhere. uses anything
 
 `TypeScript` `ai` `ai-agent` `ai-tools` `cli` `coding`
 
-⭐ 25.1k • 🔱 8.2k • 34m ago
+⭐ 25.1k • 🔱 8.2k • 1h ago
 
 ---
 
@@ -734,7 +737,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 4.8k • 🔱 329 • 1h ago
+⭐ 4.8k • 🔱 329 • 3h ago
 
 ---
 
