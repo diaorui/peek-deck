@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T08:39:01.305660+00:00'
+updated: '2026-04-30T10:56:26.304552+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 08:39 UTC  
+**Last Updated:** April 30, 2026 at 10:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,29 +32,21 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
+**[This Toyota Walk me robotic chair looks slightly creepy](https://www.reddit.com/r/robotics/comments/1sznrkw/this_toyota_walk_me_robotic_chair_looks_slightly/)**
 
-15h ago
+4h ago
 
 ---
 
-**[This Toyota Walk me robotic chair looks slightly creepy](https://www.reddit.com/r/robotics/comments/1sznrkw/this_toyota_walk_me_robotic_chair_looks_slightly/)**
+**[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-2h ago
+17h ago
 
 ---
 
 **[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
 
-5h ago
-
----
-
-**[The capabilities of this robotic hand and dexterity of the fingers 🤯 looking like the next level in robotics!](https://www.reddit.com/r/robotics/comments/1sz76e4/the_capabilities_of_this_robotic_hand_and/)**
-
-This Cambridge based startup, Eka Robotics, just came out of stealth today and is promising Vision-Force-Action (VFA) model, the first of its kind that breaks the generality-speed tradeoff and the data barrier!
-
-14h ago
+7h ago
 
 ---
 
@@ -68,7 +60,7 @@ This Cambridge based startup, Eka Robotics, just came out of stealth today and i
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-20h ago
+22h ago
 
 ---
 
@@ -76,13 +68,13 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 posting here since ive not been able to get any leads from anywhere (or im looking in the wrong places) Hey everyone! New here, (new in general to robotics as well :D) building EZ-InMoov as my first humanoid robot project. I'm trying to avoid buying the official EZ-Robot servos since they're quite expensive (i bought most of my servos and stuff from Temu, got em for really cheap). I know the specs I need (i think): - HDD Servo: 19kg/cm @ 7.4V Width: 4.5 cm Length: 3.5 cm Height: 2.0 cm - Micro Servo: 7kg/cm @ 7.4V Width: 4.0 Length: 3.0 Height: 1.0 cm Has anyone successfully used third-party servo alternatives that fit the EZ-InMoov mounting points? I'm mainly concerned about physical dimensions and mounting tab compatibility since I know the mounts are designed around the EZ-Robot servos specifically. Any leads would be amazing thanks!﻿﻿
 
-5h ago
+7h ago
 
 ---
 
 **[A robot, that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1sxxue2/a_robot_that_picks_up_balls_and_shoots_them_into/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +82,7 @@ posting here since ive not been able to get any leads from anywhere (or im looki
 
 A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
 
-15h ago
+17h ago
 
 ---
 
@@ -98,7 +90,13 @@ A pattern I see in every robotics team I've talked to: Record terabytes of bag d
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 18h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 20h ago
+
+---
+
+**[Unitree G1’s self-balancing capabilities](https://www.reddit.com/r/robotics/comments/1sxxbby/unitree_g1s_selfbalancing_capabilities/)**
+
+2d ago
 
 ---
 
@@ -110,7 +108,7 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 22h ago
+WIRED • 1d ago
 
 ---
 
@@ -118,7 +116,7 @@ WIRED • 22h ago
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 9h ago
+Financial Times • 11h ago
 
 ---
 
@@ -126,23 +124,21 @@ Financial Times • 9h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
-**[SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)**
+**[SoftBank plans to list AI and robotics firm Roze in US, FT reports](https://www.reuters.com/business/media-telecom/softbank-plans-list-new-ai-robotics-company-us-ft-reports-2026-04-29/)**
 
-You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.
-
-TechCrunch • 4h ago
+Reuters • 11h ago
 
 ---
 
-**[Staffordshire teens become UK Lego robotics champions](https://www.bbc.com/news/articles/c2k2dj723l3o)**
+**[3 Detroit robotics teams earned a trip to Houston to take on the world](https://www.freep.com/story/news/local/detroit-is/2026/04/30/3-detroit-robotics-teams-first-championship-houston/89812037007/)**
 
-The boys now have eight weeks to raise funds to attend the international leg of the competition.
+For three Detroit robotics teams, qualifying for a world championship is a fitting reward for the teams and a host of Detroiters they represent.
 
-BBC • 3h ago
+Detroit Free Press • 53m ago
 
 ---
 
@@ -158,23 +154,7 @@ Chicago Tribune • 1d ago
 
 The VEX Robotics World Championship at America's Center is hosting thousands of students including six teams from Gateway Science Academy.
 
-STLtoday.com • 16h ago
-
----
-
-**[Calvin Christian School robotics team heads to the World Championships while building real career skills](https://www.fox17online.com/news/local-news/grandville-hudsonville-jenison/calvin-christian-school-robotics-team-heads-to-the-world-championships-while-building-real-career-skills)**
-
-Students at Calvin Christian High School are heading to a global stage after qualifying for the Robotics World Championships in Houston.
-
-FOX 17 West Michigan News • 1d ago
-
----
-
-**[Japan Airlines trials humanoid robots as ground handlers](https://www.bbc.com/news/articles/cpwp87j1llvo)**
-
-These robots may in future help clean cabins and operate ground support equipment.
-
-BBC • 1d ago
+STLtoday.com • 18h ago
 
 ---
 
@@ -186,19 +166,25 @@ The Guardian • 1d ago
 
 ---
 
+**[Japan Airlines trials humanoid robots as ground handlers](https://www.bbc.com/news/articles/cpwp87j1llvo)**
+
+These robots may in future help clean cabins and operate ground support equipment.
+
+BBC • 2d ago
+
+---
+
+**[The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More](https://www.eweek.com/news/humanoid-robot-power-rankings-list/)**
+
+Explore the top humanoid robots from Tesla, Unitree, Agility Robotics, UBTech, and more, ranked by momentum, real-world use, and commercial potential.
+
+eWeek • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
-
-The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
-
-📺 Joanna Stern
-
-👁️ 73K • 👍 3K • 💬 480 • ⏱️ 11:11 • 17h ago
-
----
 
 **[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
 
@@ -206,17 +192,17 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 99K • 👍 2K • 💬 126 • ⏱️ 24:02 • 1d ago
+👁️ 105K • 👍 2K • 💬 136 • ⏱️ 24:02 • 1d ago
 
 ---
 
-**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
-Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
-📺 Carros Show
+📺 Joanna Stern
 
-👁️ 12K • 👍 358 • 💬 41 • ⏱️ 8:27 • 2d ago
+👁️ 76K • 👍 4K • 💬 500 • ⏱️ 11:11 • 19h ago
 
 ---
 
@@ -230,23 +216,13 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 ---
 
-**[Amazon&#39;s GEN 3.5 AI Robot Launch (AI NEWS)](https://www.youtube.com/watch?v=dhUXlqBttw0)**
+**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
 
-NEURA Robotics has established a strategic partnership with Amazon to deploy the 4NE1 humanoid robot into logistics ...
+Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
 
-📺 AI News
+📺 Carros Show
 
-👁️ 5K • 👍 134 • 💬 15 • ⏱️ 8:19 • 5d ago
-
----
-
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
-
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
-
-📺 Barrett
-
-👁️ 14K • 👍 867 • 💬 16 • ⏱️ 5:43 • 6d ago
+👁️ 13K • 👍 371 • 💬 43 • ⏱️ 8:27 • 2d ago
 
 ---
 
@@ -256,27 +232,17 @@ ABC News' Britt Clennett explores the world's newest robot, the humanoid, which 
 
 📺 ABC News
 
-👁️ 23K • 👍 269 • 💬 124 • ⏱️ 7:55 • 1d ago
+👁️ 24K • 👍 275 • 💬 127 • ⏱️ 7:55 • 1d ago
 
 ---
 
-**[Robotics Professor Answers Robot Questions | Tech Support | WIRED](https://www.youtube.com/watch?v=jZwuCtc2SoU)**
+**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
 
-Professor Aaron Ames of the California Institute of Technology joins WIRED to answer the internet's burning question about ...
+I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
 
-📺 WIRED
+📺 Barrett
 
-👁️ 68K • 👍 3K • 💬 160 • ⏱️ 21:47 • 1d ago
-
----
-
-**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
-
-📺 Fox Business
-
-👁️ 70K • 👍 2K • 💬 472 • ⏱️ 10:17 • 6d ago
+👁️ 14K • 👍 866 • 💬 16 • ⏱️ 5:43 • 6d ago
 
 ---
 
@@ -286,7 +252,37 @@ We've built a surgical robot to automate key steps in the process of receiving a
 
 📺 Neuralink
 
-👁️ 97K • 👍 6K • 💬 351 • ⏱️ 4:12 • 16h ago
+👁️ 106K • 👍 6K • 💬 358 • ⏱️ 4:12 • 18h ago
+
+---
+
+**[Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches](https://www.youtube.com/watch?v=VVEzgYxDdrc)**
+
+Sony's advanced robot Ace has gone head to head with elite athletes, showcasing incredible speed, precision and reaction times ...
+
+📺 Global Update
+
+👁️ 52K • 💬 78 • ⏱️ 4:00 • 5d ago
+
+---
+
+**[There&#39;s No Way This Makes Sense... Atomizer Wiping Out Luchadors In Seconds | War Robots](https://www.youtube.com/watch?v=3uJQy9n6i9M)**
+
+New Giveaway https://forms.gle/LDGgXQ2zGr4gCWMcA This makes zero sense, this build is an absolute monster, somehow ...
+
+📺 PREDATOR WR
+
+👁️ 13K • 👍 658 • 💬 69 • ⏱️ 13:49 • 22h ago
+
+---
+
+**[Sony’s Ace: Ping Pong Robot](https://www.youtube.com/watch?v=3EDxvBW-Asc)**
+
+Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rules - the first robot to do in 43 years of research.
+
+📺 ZAUEY (Claire Zau)
+
+👁️ 14K • 👍 1K • 💬 53 • ⏱️ 2:56 • 2d ago
 
 ---
 
