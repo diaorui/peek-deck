@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-30T12:16:25.492854+00:00'
+updated: '2026-04-30T14:33:57.281549+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 12:16 UTC  
+**Last Updated:** April 30, 2026 at 14:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,934.64
+### $76,595.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.7%  
-**30d:** +11.8%  
-**90d:** -3.4%  
-**1y:** -21.1%  
+**24h:** +0.8%  
+**7d:** -1.2%  
+**30d:** +12.3%  
+**90d:** -2.9%  
+**1y:** -20.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1521.58B
+**Market Cap:** $1527.93B
 Rank #1
 
 **Circulating Supply:** 20,022,396 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.7%
+-39.4%
 
 **All-Time Low:** $67.81
-+111976.4%
++112622.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has become central to the chain’s turnaround, driving 2 million new customers, cutting costs, and helping fund a healthier menu overhaul.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 16h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 18h ago
 
 ---
 
@@ -89,13 +89,37 @@ Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has 
 
 Amateur hour here but how is there possibly a million dollars in this book in bitcoin?
 
-13h ago
+16h ago
 
 ---
 
 **[What motivates you to invest in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1szleek/what_motivates_you_to_invest_in_bitcoin/)**
 
 We all have our reasons. Would love to know why you invest in Bitcoin. For me, its all about owning something without the fear of inflation and getting confiscated by a bad bureaucrat.
+
+10h ago
+
+---
+
+**[Just got into Bitcoin, where do we even start?](https://www.reddit.com/r/Bitcoin/comments/1szsqbk/just_got_into_bitcoin_where_do_we_even_start/)**
+
+My older brother and I have recently caught the Bitcoin bug and we both are somehow excited but also overwhelmed about the entire idea. Neither of us has any real experience with crypto, so we’re starting from zero. I’m here because we have a bunch of basic questions like How should we actually learn about Bitcoin properly, should we buy some first and where’s the best place to buy it safely as beginners? Maybe these questions are even too advanced (how can one learn about this properly) ? We really don’t want to rush in and make stupid mistakes. Any guidance would be massively appreciated.
+
+3h ago
+
+---
+
+**[Yes it's boring](https://www.reddit.com/r/Bitcoin/comments/1szkhmv/yes_its_boring/)**
+
+Hodling is boring, not for adhder, that's why you be so busy and living your best life while let it sit and appreciate
+
+11h ago
+
+---
+
+**[Daily Discussion, April 30, 2026](https://www.reddit.com/r/Bitcoin/comments/1sznlue/daily_discussion_april_30_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 8h ago
 
@@ -105,23 +129,7 @@ We all have our reasons. Would love to know why you invest in Bitcoin. For me, i
 
 Japan crypto exchange Bitbank has launched a crypto-linked credit card that allows users to pay their bills directly in Bitcoin, the first such product from a licensed Japanese exchange to combine traditional credit functionality with BTC settlement. The move signals a meaningful shift in how Japan’s regulated crypto sector is approaching retail payment infrastructure. The card offers 0.5% cashback in cryptocurrency on all spending, layering a rewards incentive on top of the settlement mechanic. Bitcoin payments integration has never had a cleaner regulatory window in Japan than it does right now, and Bitbank is moving into that window ahead of competitors. The mechanics are straightforward, but the product structure deserves precision. Users hold a Bitbank credit card, make purchases via standard card rails, and settle the resulting bill in Bitcoin held in their Bitbank exchange account rather than Japanese yen. The 0.5% cashback reward is paid in cryptocurrency, compounding the user’s crypto exposure with everyday spending. Bitbank, which received its Financial Services Agency license in 2017 and has operated as one of Japan’s foundational crypto exchanges since 2014, is rolling the product out domestically. The card targets Japanese retail users who already maintain BTC positions on the exchange and want to bring those holdings into day-to-day financial life without liquidating to fiat first. This is not a prepaid card or a crypto debit product; it is a credit card with Bitcoin as the settlement currency, a distinction that matters for the payments architecture. Japan’s 106th credit card company had already launched a crypto Visa prepaid card in September 2024, but Bitbank’s credit-first structure represents a separate and more integrated product category.
 
-🔗 [Cryptonews](https://cryptonews.com/news/bitbank-crypto-card-settles-bills-bitcoin/) • 14h ago
-
----
-
-**[Yes it's boring](https://www.reddit.com/r/Bitcoin/comments/1szkhmv/yes_its_boring/)**
-
-Hodling is boring, not for adhder, that's why you be so busy and living your best life while let it sit and appreciate
-
-8h ago
-
----
-
-**[Just got into Bitcoin, where do we even start?](https://www.reddit.com/r/Bitcoin/comments/1szsqbk/just_got_into_bitcoin_where_do_we_even_start/)**
-
-My older brother and I have recently caught the Bitcoin bug and we both are somehow excited but also overwhelmed about the entire idea. Neither of us has any real experience with crypto, so we’re starting from zero. I’m here because we have a bunch of basic questions like How should we actually learn about Bitcoin properly, should we buy some first and where’s the best place to buy it safely as beginners? Maybe these questions are even too advanced (how can one learn about this properly) ? We really don’t want to rush in and make stupid mistakes. Any guidance would be massively appreciated.
-
-1h ago
+🔗 [Cryptonews](https://cryptonews.com/news/bitbank-crypto-card-settles-bills-bitcoin/) • 17h ago
 
 ---
 
@@ -129,15 +137,15 @@ My older brother and I have recently caught the Bitcoin bug and we both are some
 
 Couldn’t be happier! For me, it’s somewhat motovating to aim for round numbers like 0.01 or 0.1 when buying. They add nicely to the stack. So basically I only buy if I can buy at least 0.01. Also, what was the site where you could follow the trucks/cars filling up the next block? What about the site that let you count how many people do you equal comparing to the ownership of your sats? Thanks in advance!
 
-12h ago
+14h ago
 
 ---
 
-**[Daily Discussion, April 30, 2026](https://www.reddit.com/r/Bitcoin/comments/1sznlue/daily_discussion_april_30_2026/)**
+**[Mining dirt cheap with dead forklift batteries and busted solar panels](https://www.reddit.com/r/Bitcoin/comments/1szxlp8/mining_dirt_cheap_with_dead_forklift_batteries/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+A while back I met a guy on Facebook Marketplace, a tree fell on his house and he had 30× 300W solar panels he needed gone. I rented a U-Haul and bought all of them for $30 each. I had a friend Joe who works on forklift batteries help me get started. He told me anything below like 60% gets scrapped and the scrap price is dirt cheap for what you’re actually getting. He ended up hooking me up with two 500Ah 24V forklift batteries for free, which was huge. I rented a $100 truck, the company loaded it with forklifts, and then up in Maine my cousin has a Kubota so I got lucky unloading it. I also grabbed some UPS batteries that are 12V, wired them in series to get 24V and then paralleled them, and then paralleled that with the two 24V forklift batteries. Total comes out to about 1500Ah @ 24V. The UPS batteries cost me $600 for 500Ah, which is crazy cheap. I’ve got some land in Maine so I just started throwing panels out there, nothing fancy. Literally just threw everything on the ground and put as many as I could on top of a camper. This winter a bunch of them blew off so I had to go out and put them back up lol. I’m honestly lucky the camper is still there considering the wiring… and surprised I didn’t burn it down at some point. I also found 500W panels for $10 each with cracked glass. Didn’t fix anything and they still do like 400W after 4 years. Solar panels are dirt cheap right now because China overproduced like crazy, there’s just too many panels out there. Setup: ~4–5kW+ solar ~1500Ah @ 24V battery bank One 200A charge controller 4000W inverter In full daylight I could mine all day pulling like 150 amps, which is pretty wild for basically scrap parts. First time wiring it I was pushing so much current one of the cables basically caught fire… so yeah learned about wire size real quick. I also burned up a couple inverters early on pushing too many watts through them, but eventually found a couple 4000W inverters cheap on eBay and those have been working great. Only thing that sucked is I didn’t have a cutoff so I had to manually unplug the miner or it would just drain the batteries. In the end I actually stopped mining with it and just run the camper. I used to burn like 150 gallons of gas, now I use basically nothing. I run the AC, microwave, everything with no issues. It’s still half-assed, but at least I upgraded to thicker gauge wires so it’s a little less sketchy now. The pictures below are from when I first started the setup — it’s missing a ton of panels and one of the forklift batteries. From there I ended up starting ING Mining, and now we’re one of the larger retail disruptors of used miners lol. Still, for broken panels, “dead” batteries, and Facebook deals… it worked way better than it should. https://preview.redd.it/hsfmphq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=7eee2bea775028182fe5c1357be14531dc96066c https://preview.redd.it/ziy3biq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=bb3d7ead92d0f7566d2a50db1ff5d06f4a23ba48 https://preview.redd.it/zokyfiq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=0709627755b9007ab03a296f49a5b890a92ea03e
 
-6h ago
+8m ago
 
 ---
 
@@ -145,15 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-5h ago
-
----
-
-**[A US Space Force officer argued Bitcoin mining is military power projection. The Pentagon quietly suppressed the book.](https://www.reddit.com/r/Bitcoin/comments/1sywifo/a_us_space_force_officer_argued_bitcoin_mining_is/)**
-
-In February 2023, Major Jason Lowery — an active US Space Force officer on a National Defense Fellowship at MIT — published a thesis called *Softwar*. His argument: Bitcoin's Proof-of-Work is not a monetary mechanism. It is a form of power projection. Whoever commands the most mining infrastructure commands the most defensible territory in the digital domain. He recommended the DoD treat Bitcoin mining as a national security priority — no differently than naval power or satellite positioning. Late 2024: the Department of Defense placed the book under retroactive security review. Commercial distribution was halted. Lowery was instructed to stop discussing Bitcoin publicly. No official statement. No denial. No explanation of any kind. The thesis is still accessible in MIT's repository. Physical copies reached $300 on the secondary market. Governments don't quietly suppress things they consider irrelevant. They ignore them. The question worth asking: if Bitcoin is just a speculative asset, why does a military thesis about it require a security review?
-
-1d ago
+7h ago
 
 ---
 
@@ -165,7 +165,7 @@ In February 2023, Major Jason Lowery — an active US Space Force officer on a N
 
 Hawkish dissent within the Federal Reserve, elevated oil prices and rising long-term inflation expectations are pushing bond yields higher.
 
-CoinDesk • 5h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -173,31 +173,31 @@ CoinDesk • 5h ago
 
 Veteran trader Peter Brandt on Monday urged Bitcoin bulls who are predicting $250,000 in 2026 to tone down the hype and focus on more realistic price targets. No Bullish Bottoming Pattern Yet Brandt, a technical analyst with nearly 50 years...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Is Crystal Clear.](https://www.fool.com/investing/2026/04/30/better-buy-2026-bitcoin-gold-answer-crystal-clear/)**
+**[Bitcoin analysts explain why BTC price can’t take out $80K](https://www.tradingview.com/news/cointelegraph:734b68078094b:0-bitcoin-analysts-explain-why-btc-price-can-t-take-out-80k/)**
 
-Bitcoin is on track for its second straight year of losses.
+Bitcoin BITSTAMP:BTCUSD rebounded 32% to a 10-week high of $79,500 on April 22 from its sub-60,000 multi-year low. But recent buyers took advantage of the rally to exit as the price has since corrected to $76,000 on Thursday, with $80,000 proving a tough barrier to break.Key takeaways:Bitcoin price…
 
-The Motley Fool • 51m ago
-
----
-
-**[BTC price faces $80,000 resistance as derivatives shows signs of risk aversion: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/30/bitcoin-faces-usd80-000-resistance-as-derivatives-shows-signs-of-risk-aversion)**
-
-Bitcoin faces profit-taking pressure near $80,000, backed up by a U.S. inflation report that comes as high oil prices and rising bond yields weigh on risk assets.
-
-CoinDesk • 1h ago
+TradingView • 31m ago
 
 ---
 
-**[Bitcoin and ethereum price today, Thursday, April 30, 2026: Values moving lower each morning this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-30-2026-values-moving-lower-each-morning-this-week-113359889.html)**
+**[Bitcoin Price Prediction: Powell’s Final Fed Meeting Just Triggered the Most Dissenting Votes Since 1992 – Is BTC About to Pay the Price?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-powell-final-134158136.html)**
 
-Bitcoin opened at $75,752.12 on Thursday, the lowest opening price in over a week. The value of bitcoin rose to $76,130 by 7:18 a.m. ET. Ethereum opened at $2,252.45 on Thursday, the lowest opening price since April 13. Ethereum’s price rose to $2,268.50 by 7:18 a.m. ET.
+Bitcoin price is bleeding, BTC trades at $76,000, down 1.75% over 24 hours and 2.15% over the past week, a slide that’s accelerating bearish prediction on macro headwinds most traders didn’t fully price in. Federal Reserve Chair Jerome Powell’s final press conference Wednesday delivered the catalyst. Bitcoin dropped 2% to ...
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 51m ago
+
+---
+
+**[Tether Backs Plan to Turn Twenty-One Into a Larger Public Bitcoin Platform](https://finance.yahoo.com/markets/crypto/articles/tether-backs-plan-turn-twenty-135000780.html)**
+
+Tether Investments is pushing for a larger Bitcoin (CRYPTO: $BTC) operating platform around Twenty One Capital (NYS...
+
+Yahoo Finance • 43m ago
 
 ---
 
@@ -209,31 +209,31 @@ Forbes • 2d ago
 
 ---
 
-**[Tether Proposes Mergers Involving Bitcoin Treasury Company](https://www.bloomberg.com/news/articles/2026-04-30/tether-proposes-mergers-involving-bitcoin-treasury-company)**
-
-Bloomberg.com • 11h ago
-
----
-
-**[Current price of Bitcoin for April 29, 2026](https://fortune.com/article/price-of-bitcoin-04-29-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 22h ago
-
----
-
-**[Bitcoin slips to $75,000 as Fed holds rates, dissenters chill Warsh 'pivot party'](https://www.theblock.co/post/399465/bitcoin-slips-75000-fed-holds-rates-dissenters-chill-warsh-pivot-party)**
-
-A split 8-4 vote initially spooked markets, creating uncertainty around the Federal Reserve's future policy moves.
-
-The Block • 15h ago
-
----
-
 **[Bitcoin is having its best month in a year — but the retail crowd is looking elsewhere](https://www.marketwatch.com/story/bitcoin-is-having-its-best-month-in-a-year-but-the-retail-crowd-is-looking-elsewhere-d01aa6c1)**
 
-MarketWatch • 14h ago
+MarketWatch • 17h ago
+
+---
+
+**[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000)**
+
+Bloomberg.com • 22h ago
+
+---
+
+**[Ark Invest buys $39 million worth of Robinhood shares, offloads $6 million of its own spot bitcoin ETF](https://www.theblock.co/post/399536/ark-invest-buys-robinhood-sells-own-spot-bitcoin-etf)**
+
+Robinhood's stock closed down 13.2% after the company reported weaker first-quarter earnings the previous day.
+
+The Block • 5h ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Is Crystal Clear.](https://www.fool.com/investing/2026/04/30/better-buy-2026-bitcoin-gold-answer-crystal-clear/)**
+
+Bitcoin is on track for its second straight year of losses.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -283,13 +283,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 2 • 💬 0 • 6h ago • [satoshiguesser.com](https://satoshiguesser.com)
-
----
-
-**[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
-
-⬆️ 2 • 💬 0 • 6d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 8h ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -305,7 +299,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 1 • 💬 0 • 7h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+⬆️ 1 • 💬 0 • 9h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -313,7 +307,15 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 Localhost Research is excited to announce a new initiative in partnership with Benedikt Bünz and Dan Boneh. Together, we have established a Post Quantum Cryptography Group that will review, study, and design conservative cryptographic schemes that will help inform the direction and shape of Bitcoin's response to the PQP.
 
-⬆️ 1 • 💬 0 • 20h ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
+⬆️ 1 • 💬 0 • 22h ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
+
+---
+
+**[Scam Quantum Fud Headlines](https://news.ycombinator.com/item?id=47901297)**
+
+The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
+
+⬆️ 5 • 💬 1 • 5d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -327,17 +329,7 @@ A billionaire just issued a global warning and it is not subtle. Tim Draper and 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 125 • ⏱️ 18:17 • 15h ago
-
----
-
-**[This Math Reveals Why Bitcoin Shorts Are About to Explode!](https://www.youtube.com/watch?v=6oBjbmzOfMQ)**
-
-Bitcoin is facing a potential supply shock as Michael Saylor and Strategy keep accumulating BTC while bears pile into record ...
-
-📺 Simply Bitcoin
-
-👁️ 63K • 👍 3K • 💬 255 • ⏱️ 18:10 • 2d ago
+👁️ 25K • 👍 2K • 💬 136 • ⏱️ 18:17 • 17h ago
 
 ---
 
@@ -347,7 +339,17 @@ What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 key
 
 📺 Bitcoin Magazine
 
-👁️ 17K • 👍 832 • 💬 101 • ⏱️ 37:06 • 11h ago
+👁️ 21K • 👍 1K • 💬 119 • ⏱️ 37:06 • 14h ago
+
+---
+
+**[This Math Reveals Why Bitcoin Shorts Are About to Explode!](https://www.youtube.com/watch?v=6oBjbmzOfMQ)**
+
+Bitcoin is facing a potential supply shock as Michael Saylor and Strategy keep accumulating BTC while bears pile into record ...
+
+📺 Simply Bitcoin
+
+👁️ 64K • 👍 3K • 💬 257 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -357,7 +359,17 @@ The credit market just got a new heavyweight. In this keynote, Michael Saylor re
 
 📺 Bitcoin Magazine
 
-👁️ 90K • 👍 4K • 💬 352 • ⏱️ 47:01 • 1d ago
+👁️ 92K • 👍 4K • 💬 357 • ⏱️ 47:01 • 1d ago
+
+---
+
+**[How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune](https://www.youtube.com/watch?v=nLWx4luWC-s)**
+
+The president's second son pitches his bitcoin company as a money-printing machine. It's actually an arbitrage vehicle that preys ...
+
+📺 Forbes
+
+👁️ 787 • 👍 40 • 💬 3 • ⏱️ 5:51 • 1h ago
 
 ---
 
@@ -367,7 +379,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 149 • ⏱️ 16:31 • 19h ago
+👁️ 47K • 👍 2K • 💬 150 • ⏱️ 16:31 • 21h ago
 
 ---
 
@@ -377,27 +389,17 @@ Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this
 
 📺 Anthony Pompliano
 
-👁️ 65K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
+👁️ 66K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
 
 ---
 
-**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
+**[Multiple Paths, One Asset: Spend, Borrow, or Hodl? | Bitcoin 2026](https://www.youtube.com/watch?v=jm_PbbnUZgw)**
 
-Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
+Jack Mallers and Miles Suter rarely share a stage and when they do, the gloves come off. Danny Knowles moderates this panel ...
 
-📺 Digital Asset News
+📺 Bitcoin Magazine
 
-👁️ 26K • 👍 1K • 💬 146 • ⏱️ 23:39 • 1d ago
-
----
-
-**[LIVE: Michael Saylor on Bitcoin Bull Run - STRC &amp; MSTR Stock – BTC Analysis](https://www.youtube.com/watch?v=vbhrLxjH_e0)**
-
-Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin advocate, Saylor reveals why ...
-
-📺 Damasterstylist
-
-👁️ 3K • 👍 1K • 2h ago
+👁️ 6K • 👍 200 • 💬 7 • ⏱️ 23:41 • 17h ago
 
 ---
 
@@ -407,7 +409,7 @@ Ledger Golden Week Flash Sale – Official CryptoDad Landing Page https://shop.l
 
 📺 The CryptoDad
 
-👁️ 3K • 👍 190 • 💬 21 • ⏱️ 9:01 • 18h ago
+👁️ 3K • 👍 219 • 💬 24 • ⏱️ 9:01 • 21h ago
 
 ---
 
@@ -417,7 +419,7 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 29 • ⏱️ 5:55 • 1d ago
+👁️ 22K • 👍 3K • 💬 32 • ⏱️ 5:55 • 1d ago
 
 ---
 
