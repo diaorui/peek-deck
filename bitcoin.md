@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-30T02:58:34.810102+00:00'
+updated: '2026-04-30T06:10:09.870524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 02:58 UTC  
+**Last Updated:** April 30, 2026 at 06:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -2.2%  
-**30d:** +11.2%  
-**90d:** -3.9%  
+**24h:** -1.8%  
+**7d:** -2.3%  
+**30d:** +11.1%  
+**90d:** -4.0%  
 **1y:** -21.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1514.89B
+**Market Cap:** $1512.86B
 Rank #1
 
 **Circulating Supply:** 20,022,396 BTC
@@ -64,7 +64,7 @@ Rank #1
 -40.0%
 
 **All-Time Low:** $67.81
-+111528.1%
++111410.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has become central to the chain’s turnaround, driving 2 million new customers, cutting costs, and helping fund a healthier menu overhaul.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 6h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-is-fueling-steak-n-shake-comeback) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has 
 
 Amateur hour here but how is there possibly a million dollars in this book in bitcoin?
 
-4h ago
+7h ago
 
 ---
 
@@ -97,13 +97,29 @@ Amateur hour here but how is there possibly a million dollars in this book in bi
 
 Japan crypto exchange Bitbank has launched a crypto-linked credit card that allows users to pay their bills directly in Bitcoin, the first such product from a licensed Japanese exchange to combine traditional credit functionality with BTC settlement. The move signals a meaningful shift in how Japan’s regulated crypto sector is approaching retail payment infrastructure. The card offers 0.5% cashback in cryptocurrency on all spending, layering a rewards incentive on top of the settlement mechanic. Bitcoin payments integration has never had a cleaner regulatory window in Japan than it does right now, and Bitbank is moving into that window ahead of competitors. The mechanics are straightforward, but the product structure deserves precision. Users hold a Bitbank credit card, make purchases via standard card rails, and settle the resulting bill in Bitcoin held in their Bitbank exchange account rather than Japanese yen. The 0.5% cashback reward is paid in cryptocurrency, compounding the user’s crypto exposure with everyday spending. Bitbank, which received its Financial Services Agency license in 2017 and has operated as one of Japan’s foundational crypto exchanges since 2014, is rolling the product out domestically. The card targets Japanese retail users who already maintain BTC positions on the exchange and want to bring those holdings into day-to-day financial life without liquidating to fiat first. This is not a prepaid card or a crypto debit product; it is a credit card with Bitcoin as the settlement currency, a distinction that matters for the payments architecture. Japan’s 106th credit card company had already launched a crypto Visa prepaid card in September 2024, but Bitbank’s credit-first structure represents a separate and more integrated product category.
 
-🔗 [Cryptonews](https://cryptonews.com/news/bitbank-crypto-card-settles-bills-bitcoin/) • 5h ago
+🔗 [Cryptonews](https://cryptonews.com/news/bitbank-crypto-card-settles-bills-bitcoin/) • 8h ago
 
 ---
 
 **[Got some money today and bought 0.01 more.](https://www.reddit.com/r/Bitcoin/comments/1szg6nd/got_some_money_today_and_bought_001_more/)**
 
 Couldn’t be happier! For me, it’s somewhat motovating to aim for round numbers like 0.01 or 0.1 when buying. They add nicely to the stack. So basically I only buy if I can buy at least 0.01. Also, what was the site where you could follow the trucks/cars filling up the next block? What about the site that let you count how many people do you equal comparing to the ownership of your sats? Thanks in advance!
+
+6h ago
+
+---
+
+**[Yes it's boring](https://www.reddit.com/r/Bitcoin/comments/1szkhmv/yes_its_boring/)**
+
+Hodling is boring, not for adhder, that's why you be so busy and living your best life while let it sit and appreciate
+
+2h ago
+
+---
+
+**[What motivates you to invest in Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1szleek/what_motivates_you_to_invest_in_bitcoin/)**
+
+We all have our reasons. Would love to know why you invest in Bitcoin. For me, its all about owning something without the fear of inflation and getting confiscated by a bad bureaucrat.
 
 2h ago
 
@@ -113,41 +129,27 @@ Couldn’t be happier! For me, it’s somewhat motovating to aim for round numbe
 
 In February 2023, Major Jason Lowery — an active US Space Force officer on a National Defense Fellowship at MIT — published a thesis called *Softwar*. His argument: Bitcoin's Proof-of-Work is not a monetary mechanism. It is a form of power projection. Whoever commands the most mining infrastructure commands the most defensible territory in the digital domain. He recommended the DoD treat Bitcoin mining as a national security priority — no differently than naval power or satellite positioning. Late 2024: the Department of Defense placed the book under retroactive security review. Commercial distribution was halted. Lowery was instructed to stop discussing Bitcoin publicly. No official statement. No denial. No explanation of any kind. The thesis is still accessible in MIT's repository. Physical copies reached $300 on the secondary market. Governments don't quietly suppress things they consider irrelevant. They ignore them. The question worth asking: if Bitcoin is just a speculative asset, why does a military thesis about it require a security review?
 
-15h ago
+18h ago
+
+---
+
+**[College English Professor said I could write my argument essay on anything](https://www.reddit.com/r/Bitcoin/comments/1szj3tc/college_english_professor_said_i_could_write_my/)**
+
+https://preview.redd.it/xgh22s0dm8yg1.png?width=890&format=png&auto=webp&s=97d93158af5e17a9cd7bbc3451f1dc0e8b7974f9 So I chose Bitcoin
+
+3h ago
+
+---
+
+**[The Balkanization of Bitcoin: How Stratum V2 and the Pleb Miner Defeat OFAC Base-Layer Censorship. The state couldn't ban the network, so they captured the corporate miners. How Stratum V2 and a decentralized army of off-grid pleb miners are mathematically destroying OFAC censorship.](https://www.reddit.com/r/Bitcoin/comments/1sz5j4t/the_balkanization_of_bitcoin_how_stratum_v2_and/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-balkanization-of-bitcoin-how) • 12h ago
 
 ---
 
 **[Can't fix the world without fixing the money 🫡](https://www.reddit.com/r/Bitcoin/comments/1sykiya/cant_fix_the_world_without_fixing_the_money/)**
 
 1d ago
-
----
-
-**[The Balkanization of Bitcoin: How Stratum V2 and the Pleb Miner Defeat OFAC Base-Layer Censorship. The state couldn't ban the network, so they captured the corporate miners. How Stratum V2 and a decentralized army of off-grid pleb miners are mathematically destroying OFAC censorship.](https://www.reddit.com/r/Bitcoin/comments/1sz5j4t/the_balkanization_of_bitcoin_how_stratum_v2_and/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-balkanization-of-bitcoin-how) • 9h ago
-
----
-
-**[What makes you most confident about Bitcoin’s future?](https://www.reddit.com/r/Bitcoin/comments/1sz27tt/what_makes_you_most_confident_about_bitcoins/)**
-
-Bitcoin keeps growing with more users, better tools and wider acceptance over time. What gives you the most confidence in Bitcoin long term - scarcity, adoption or something else?
-
-11h ago
-
----
-
-**[J-Pow’s Final FOMC is TODAY. BlackRock is vacuuming up the supply. Is the $80k wall finally going to break?](https://www.reddit.com/r/Bitcoin/comments/1syw2ki/jpows_final_fomc_is_today_blackrock_is_vacuuming/)**
-
-We are sitting at a historic crossroads today, April 29th. Jerome Powell is officially stepping down, and today marks his final FOMC press conference as Fed Chair. At the exact same time, we are watching BlackRock’s IBIT pull in hundreds of millions in net inflows daily, basically swallowing the daily mined supply whole. Yet, we are still bouncing between $77k and $79k, getting rejected at the $80,000 psychological barrier. With the US-Iran ceasefire calming the macro markets and the Fed transition looming, it feels like a coiled spring. Are we seeing massive OTC accumulation by institutions keeping the spot price down, or is the post-Powell era already priced in? What are your moves here? Are you front-running the new Fed Chair, or waiting for a confirmed break above $80k? Or does it not even matter to you and you just stack regardless of the fiat price?
-
-15h ago
-
----
-
-**[Bitcoin Transparency Gets A Boost As Dorsey's Block Unveils Reserve Proof](https://www.reddit.com/r/Bitcoin/comments/1syrd33/bitcoin_transparency_gets_a_boost_as_dorseys/)**
-
-🔗 [bitcoincurate.com](https://bitcoincurate.com/go.php?id=headline&url=https%3A%2F%2Fbitcoinist.com%2Fbitcoin-transparency-gets-a-boost-as-dorseys-block-unveils-reserve-proof%2F&title=Bitcoin+Transparency+Gets+A+Boost+As+Dorsey%E2%80%99s+Block+Unveils+Reserve+Proof&source=Bitcoinist&cat=News&pos=5) • 19h ago
 
 ---
 
@@ -167,53 +169,43 @@ Forbes • 1d ago
 
 Veteran trader Peter Brandt on Monday urged Bitcoin bulls who are predicting $250,000 in 2026 to tone down the hype and focus on more realistic price targets. No Bullish Bottoming Pattern Yet Brandt, a technical analyst with nearly 50 years...
 
-Yahoo Finance • 10h ago
-
----
-
-**[XXI higher by 8% on merger plans with Strike and bitcoin miner Elektron Energy](https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger)**
-
-XXI surges 10% after-hours as Tether moves to combine bitcoin treasury, mining, and financial services under one roof.
-
-CoinDesk • 4h ago
-
----
-
-**[BlackRock Falls Flat as Bitcoin ETFs End April in Red](https://finance.yahoo.com/markets/crypto/articles/blackrock-falls-flat-bitcoin-etfs-020033785.html)**
-
-BlackRock's IBIT inflows stalled as US Bitcoin spot ETFs posted $263M in outflows, ending a nine-day inflow streak.
-
-Yahoo Finance • 58m ago
-
----
-
-**[Kevin O'Leary Once Explained Exactly When You Should Sell Bitcoin Or Stocks: 'My Mother Taught Me This Game….'](https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-once-explained-exactly-023116135.html)**
-
-Kevin O'Leary once said that investors don't need perfect timing to take profits—they just need a disciplined rule that keeps emotions out of the equation. O'Leary's Simple Rule For Big Winners Speaking during the 10X Growth Con 2021 alongside Grant Cardone, the "Shark Tank" investor explained that his strategy is built around portfolio discipline rather than prediction. "I like 5% right now… If it goes past that, I sell it down," O'Leary said, referring to how he manages concentrated positions
-
-Yahoo Finance • 27m ago
-
----
-
-**[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://finance.yahoo.com/markets/crypto/articles/option-traders-build-electric-fence-155304836.html)**
-
-(Bloomberg) -- Bitcoin has been pressing toward $80,000 and struggling to get through. One reason: a hidden force in the options market is working against it.Most Read from BloombergNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesUAE Quits OPEC as War Upends Oil Markets and Gulf Tensions Rise80 Seconds of Big Tech Earnings Will Decide Stock Market’s FateTrump Being ‘Humiliated’ in Iran Talks, German Leader SaysTrump Tells Aides to Prep for Lengthy Hormuz Blockade, Report SaysA clu
-
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000)**
 
-Bloomberg.com • 11h ago
+Bloomberg • 14h ago
 
 ---
 
-**[Bitcoin (BTC) price retreat deepens after repeated rejection at $80,000: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/28/crypto-traders-turn-cautious-as-bitcoin-loses-steam-below-usd80-000)**
+**[Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-dip-fed-holds-181442810.html)**
 
-Bitcoin and ether edge lower after repeated resistance at $80,000, while derivatives and macro signals point to reduced risk appetite and subdued volatility.
+Wednesday's FOMC meeting was expected to be Jerome Powell’s last as Federal Reserve chair.
 
-CoinDesk • 1d ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high](https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high)**
+
+Crypto sold off across the board with bitcoin down 2.1% and ether off 3.4% as Brent crude surged 7.1% to $126 a barrel on reports President Trump is being briefed on military options for Iran.
+
+CoinDesk • 5m ago
+
+---
+
+**[Bitcoin Prices Rise. Is It Breaking Out or Topping?](https://www.barrons.com/articles/bitcoin-price-today-cryptos-xrp-ethereum-breakout-top-ceba33b2)**
+
+Barron's • 18h ago
+
+---
+
+**[Tether Proposes Plan to Make Twenty One Capital “Premier Bitcoin Company”](https://finance.yahoo.com/markets/crypto/articles/tether-proposes-plan-twenty-one-054407603.html)**
+
+Tether Investments will vote to merge Twenty-One Capital with Strike and Elektron Energy, lifting XXI shares after-hours.
+
+Yahoo Finance • 26m ago
 
 ---
 
@@ -221,13 +213,23 @@ CoinDesk • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 13h ago
+Fortune • 16h ago
 
 ---
 
-**[Bitcoin is having its best month in a year — but the retail crowd is looking elsewhere](https://www.marketwatch.com/story/bitcoin-is-having-its-best-month-in-a-year-but-the-retail-crowd-is-looking-elsewhere-d01aa6c1)**
+**[Hawaii AG says man posed as state CTO at Bitcoin conference](https://www.staradvertiser.com/2026/04/29/breaking-news/hawaii-ag-says-man-posed-as-state-cto-at-bitcoin-conference/)**
 
-MarketWatch • 5h ago
+The Hawaii Department of the Attorney General is alerting the public to a man presenting himself as the state’s Chief Technology Officer at national conferences and on online platforms, according to a news release.
+
+Honolulu Star-Advertiser • 7h ago
+
+---
+
+**[Morgan Stanley Executive On Bitcoin: 'We Are Still So Early On This Journey'](https://bitcoinmagazine.com/news/morgan-stanley-executive-on-bitcoin)**
+
+Amy Oldenburg, head of digital assets at Morgan Stanley, says client education — not product design — is the central challenge facing bitcoin adoption at the firm and across the industry.
+
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -239,7 +241,7 @@ MarketWatch • 5h ago
 
 How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
 
-⬆️ 78 • 💬 52 • 1d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
+⬆️ 78 • 💬 53 • 1d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -295,19 +297,19 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 ---
 
-**[Quantum Hardening Bitcoin: Cryptographers init PQC engineering and review](https://news.ycombinator.com/item?id=47950231)**
+**[Guess at lost Bitcoin, right in the browser](https://news.ycombinator.com/item?id=47958759)**
 
-Localhost Research is excited to announce a new initiative in partnership with Benedikt Bünz and Dan Boneh. Together, we have established a Post Quantum Cryptography Group that will review, study, and design conservative cryptographic schemes that will help inform the direction and shape of Bitcoin's response to the PQP.
+A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 1 • 💬 0 • 10h ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
+⬆️ 1 • 💬 0 • 4m ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
-**[Scam Quantum Fud Headlines](https://news.ycombinator.com/item?id=47901297)**
+**[Iran Proposes Bitcoin Oil Toll](https://news.ycombinator.com/item?id=47958343)**
 
-The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
+Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 5 • 💬 1 • 4d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 1 • 💬 0 • 1h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -321,7 +323,17 @@ A billionaire just issued a global warning and it is not subtle. Tim Draper and 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 96 • ⏱️ 18:17 • 5h ago
+👁️ 18K • 👍 2K • 💬 109 • ⏱️ 18:17 • 9h ago
+
+---
+
+**[Keynote: Jack Mallers - The Bitcoin Company | Bitcoin 2026](https://www.youtube.com/watch?v=dEsSHoHZRH0)**
+
+What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 keynote, Jack Mallers CEO of Strike and Twenty One ...
+
+📺 Bitcoin Magazine
+
+👁️ 10K • 👍 570 • 💬 71 • ⏱️ 37:06 • 5h ago
 
 ---
 
@@ -331,57 +343,7 @@ Bitcoin is facing a potential supply shock as Michael Saylor and Strategy keep a
 
 📺 Simply Bitcoin
 
-👁️ 60K • 👍 3K • 💬 252 • ⏱️ 18:10 • 2d ago
-
----
-
-**[Bitcoiners Predict MASSIVE Bull Market](https://www.youtube.com/watch?v=VER8TkkZQQI)**
-
-Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this year's bitcoin Conference. In this episode, he ...
-
-📺 Anthony Pompliano
-
-👁️ 62K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
-
----
-
-**[Bitcoin Exchange Reserves Hit 7 Year Low… Here’s Why](https://www.youtube.com/watch?v=FLXKQM-3ieQ)**
-
-Ledger Golden Week Flash Sale – Official CryptoDad Landing Page https://shop.ledger.com/r/cryptodad?r=6057 Travel ...
-
-📺 The CryptoDad
-
-👁️ 2K • 👍 140 • 💬 18 • ⏱️ 9:01 • 9h ago
-
----
-
-**[🚨 BTC &amp; ETH: BOOOOOOM!!!!!!!!!!!!!](https://www.youtube.com/watch?v=t-gxT57gFjY)**
-
-These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! Here is how to prepare and what I am looking at!
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 3K • 💬 29 • ⏱️ 5:55 • 16h ago
-
----
-
-**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
-
-The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
-
-📺 Bitcoin Magazine
-
-👁️ 82K • 👍 3K • 💬 336 • ⏱️ 47:01 • 1d ago
-
----
-
-**[This Signals Bitcoin Is Ready To Rally](https://www.youtube.com/watch?v=Jlf4SibbQXU)**
-
-Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 800 • 💬 57 • ⏱️ 45:38 • 12h ago
+👁️ 61K • 👍 3K • 💬 254 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -391,7 +353,37 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 2K • 💬 133 • ⏱️ 16:31 • 10h ago
+👁️ 40K • 👍 2K • 💬 145 • ⏱️ 16:31 • 13h ago
+
+---
+
+**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
+
+The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
+
+📺 Bitcoin Magazine
+
+👁️ 86K • 👍 4K • 💬 344 • ⏱️ 47:01 • 1d ago
+
+---
+
+**[Bitcoiners Predict MASSIVE Bull Market](https://www.youtube.com/watch?v=VER8TkkZQQI)**
+
+Anthony Pompliano breaks down the biggest bitcoin predictions coming out of this year's bitcoin Conference. In this episode, he ...
+
+📺 Anthony Pompliano
+
+👁️ 64K • 👍 2K • 💬 79 • ⏱️ 14:13 • 1d ago
+
+---
+
+**[This Signals Bitcoin Is Ready To Rally](https://www.youtube.com/watch?v=Jlf4SibbQXU)**
+
+Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 811 • 💬 57 • ⏱️ 45:38 • 15h ago
 
 ---
 
@@ -401,7 +393,7 @@ Michael Saylor DOUBLES DOWN on bitcoin supply shock accelerating and lays out ho
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 443 • 💬 39 • ⏱️ 1:16:57 • 1d ago
+👁️ 10K • 👍 444 • 💬 39 • ⏱️ 1:16:57 • 1d ago
 
 ---
 
@@ -412,6 +404,16 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 📺 Digital Asset News
 
 👁️ 26K • 👍 1K • 💬 147 • ⏱️ 23:39 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: BOOOOOOM!!!!!!!!!!!!!](https://www.youtube.com/watch?v=t-gxT57gFjY)**
+
+These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! Here is how to prepare and what I am looking at!
+
+📺 Thomas Kralow
+
+👁️ 19K • 👍 3K • 💬 29 • ⏱️ 5:55 • 19h ago
 
 ---
 
