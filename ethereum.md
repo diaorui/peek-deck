@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T22:56:01.604903+00:00'
+updated: '2026-04-30T23:54:59.975889+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 22:56 UTC  
+**Last Updated:** April 30, 2026 at 23:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,265.36
+### $2,259.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -2.5%  
-**30d:** +5.5%  
-**90d:** -8.1%  
-**1y:** +22.8%  
+**24h:** -0.6%  
+**7d:** -2.4%  
+**30d:** +5.6%  
+**90d:** -7.9%  
+**1y:** +22.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 A single trader won 93% of five-figure bets on unannounced US and Israeli military operations. The blockchain records every transaction. Nobody has been charged. Trump Jr. advises the platform.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 1h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 2h ago
 
 ---
 
@@ -80,7 +80,7 @@ A single trader won 93% of five-figure bets on unannounced US and Israeli milita
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -168,13 +168,13 @@ Fortune • 2d ago
 
 Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -182,7 +182,7 @@ Forbes • 19h ago
 
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -194,33 +194,33 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum ICO Whale Who Turned $3,100 Into $23M Wakes Up After a Decade](https://decrypt.co/365926/ethereum-ico-whale-who-turned-3100-into-23m-wakes-up-after-a-decade)**
-
-A wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.
-
-Decrypt • 1d ago
-
----
-
-**[A Dormant Ethereum Whale Just Woke Up After 10 Years and Dumped $23 Million in an Hour: Is $2,300 at Risk?](https://cryptonews.com/news/ethereum-ico-whale-moves-23-million-eth/)**
-
-A dormant Ethereum wallet just moved $23 million in ETH, revealing a decade-long investment journey worth exploring.
-
-Cryptonews • 1d ago
-
----
-
 **[Exclusive: Crypto CEO Breaks Down Why Bitcoin and Ethereum Prices Fell After Fed’s Shock Decision](https://coinpedia.org/news/exclusive-crypto-ceo-breaks-down-why-bitcoin-and-ethereum-prices-fell-after-feds-shock-decision/)**
 
 The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
 
-Coinpedia • 16h ago
+Coinpedia • 17h ago
+
+---
+
+**[Wasabi Protocol drained of $4.5 million in apparent admin key compromise](https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise)**
+
+The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.
+
+CoinDesk • 9h ago
 
 ---
 
 **[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
 
-TipRanks • 11h ago
+TipRanks • 12h ago
+
+---
+
+**[Crypto hacks in April hit record high, impact Ethereum price sentiment](https://cryptobriefing.com/crypto-hacks-in-april-hit-record-high-impact-ethereum-price-sentiment/)**
+
+Crypto hacks in April hit a record high, impacting Ethereum sentiment. Ethereum dip to $1,700 from April 27 to May 3 at 0.4% YES.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -284,7 +284,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 3K • 👍 298 • 💬 19 • ⏱️ 19:05 • 6h ago
+👁️ 3K • 👍 298 • 💬 19 • ⏱️ 19:05 • 7h ago
 
 ---
 
@@ -304,7 +304,7 @@ Ethereum has recovered 40 percent from the February lows and is now approaching 
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 387 • 💬 30 • ⏱️ 19:23 • 1d ago
+👁️ 7K • 👍 387 • 💬 30 • ⏱️ 19:23 • 2d ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 242 • 👍 13 • ⏱️ 4:31 • 13h ago
+👁️ 242 • 👍 13 • ⏱️ 4:31 • 14h ago
 
 ---
 
