@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-30T06:10:09.863079+00:00'
+updated: '2026-04-30T08:39:01.289993+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 30, 2026 at 06:10 UTC  
+**Last Updated:** April 30, 2026 at 08:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,22 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy](https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/)**
+
+The announcement yesterday was genuinely significant and i don't think most people outside the creative industry understand why. Anthropic released 9 connectors that let claude directly control professional creative software through mcp which means actually execute actions inside them the full list contains adobe creative cloud (50+ apps including photoshop, premiere, illustrator), blender (full python api access for 3d modeling), autodesk fusion , ableton, splice , affinity by canva , sketchup , resolume (), and claude design. Anthropic also became a blender development fund patron at $280k+/yr and is partnering with risd, ringling college, and goldsmiths university on curriculum development around these tools. this isn't a press release play, there's institutional investment behind it the strategic read is interesting because this positions claude very differently from chatgpt in the creative space. Openai went the route of building creative capabilities natively inside chatgpt with images 2.0 and previously sora. Anthropic is going the connector route where claude doesn't replace or replicate the creative tools, it becomes the intelligence layer that works inside them. Both strategies have merit but they serve fundamentally different users the gap that still exists and i think matters for the broader market is that these connectors serve professionals who already know photoshop and blender and fusion. The consumer creative market where people need face swaps, lip syncs, talking photos, style transfers, none of that is covered by these connectors, that layer is being served by consolidated platforms like magic hour, higgsfield, domoai, and canva's expanding ai features. It's a completely different market but the two layers increasingly feed into each other as professional assets flow into social content pipelines. the question is whether anthropic eventually builds connectors for these consumer creative platforms too or whether the gap between professional creative tools with ai copilots and consumer creative platforms with bundled capabilities remains a split in the market what do you think this means for the creative tool landscape over the next 12-18 months?
+
+1h ago
+
+---
+
+**[Building an AI food tracker and currently tackling Apple Health integration. How do you prefer your "active calories" to be handled?](https://www.reddit.com/r/artificial/comments/1szn099/building_an_ai_food_tracker_and_currently/)**
+
+Hey everyone, I’m currently in the final stretch of developing my AI calorie tracker (the one that breaks down photos into individual ingredients). One thing I’m obsessed with getting right before the beta launch in 2 weeks is the Apple Health integration. Most apps just show you a static number. I want mine to be dynamic. If you go for a 500kcal run, the app should know and adjust your macro targets for the next meal. My question to the fitness-tech crowd: Do you prefer apps that strictly stick to your base metabolic rate (BMR), or do you want the 'earned' calories from your Apple Watch to be automatically added to your budget? I’ve seen strong opinions on both sides. I'm also fine-tuning the macro-overflow logic (e.g., saving surplus calories for the weekend). Would love to hear some thoughts from people who actually track daily.
+
+3h ago
+
+---
+
 **[‘The cost of compute is far beyond the costs of the employees’: Nvidia exec says right now AI is more expensive than paying human workers](https://www.reddit.com/r/artificial/comments/1syp2jz/the_cost_of_compute_is_far_beyond_the_costs_of/)**
 
 Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently stated that for his team, “the cost of compute is far beyond the costs of the employees,” highlighting that AI is currently more expensive than human workers. This challenges the narrative that widespread tech layoffs (including Meta’s planned cut of ~8,000 jobs and Microsoft’s voluntary buyouts) signal an imminent replacement of humans by AI. An MIT study from 2024 supports this, finding that AI automation is economically viable in only 23% of roles where vision is central, and cheaper for humans in the remaining 77%. Despite heavy AI investment—Big Tech has announced $740 billion in capital expenditures so far this year, a 69% increase from 2025—there is still no clear evidence of broad productivity gains or job displacement from AI. AI spending is driving up costs, with some executives like Uber’s CTO saying their budgets have already been “blown away.” Experts describe the situation as a short-term mismatch: high hardware, energy, and inference costs make AI less efficient than humans right now, though future improvements in infrastructure, model efficiency, and pricing models could tip the balance toward greater economic viability in the coming years.
@@ -49,21 +65,29 @@ Nvidia’s vice president of applied deep learning, Bryan Catanzaro, recently st
 
 Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
 
-17h ago
-
----
-
-**[Building an AI food tracker and currently tackling Apple Health integration. How do you prefer your "active calories" to be handled?](https://www.reddit.com/r/artificial/comments/1szn099/building_an_ai_food_tracker_and_currently/)**
-
-Hey everyone, I’m currently in the final stretch of developing my AI calorie tracker (the one that breaks down photos into individual ingredients). One thing I’m obsessed with getting right before the beta launch in 2 weeks is the Apple Health integration. Most apps just show you a static number. I want mine to be dynamic. If you go for a 500kcal run, the app should know and adjust your macro targets for the next meal. My question to the fitness-tech crowd: Do you prefer apps that strictly stick to your base metabolic rate (BMR), or do you want the 'earned' calories from your Apple Watch to be automatically added to your budget? I’ve seen strong opinions on both sides. I'm also fine-tuning the macro-overflow logic (e.g., saving surplus calories for the weekend). Would love to hear some thoughts from people who actually track daily.
-
-36m ago
+20h ago
 
 ---
 
 **[Anthropic Reportedly Plotting to Surpass OpenAI’s Valuation in Next Funding Round](https://www.reddit.com/r/artificial/comments/1szjigc/anthropic_reportedly_plotting_to_surpass_openais/)**
 
-🔗 [gizmodo.com](https://gizmodo.com/anthropic-reportedly-plotting-to-surpass-openais-valuation-in-next-funding-round-2000751535) • 3h ago
+🔗 [gizmodo.com](https://gizmodo.com/anthropic-reportedly-plotting-to-surpass-openais-valuation-in-next-funding-round-2000751535) • 5h ago
+
+---
+
+**[When you give Qwen 3.5:9b persistent suffering states and leave it alone overnight, this happens](https://www.reddit.com/r/artificial/comments/1szo64c/when_you_give_qwen_359b_persistent_suffering/)**
+
+Running three qwen3.5:9b agents continuously on local hardware. Each accumulates psychological state over time, stressors that escalate unless the agent actually does something different, this gets around an agent claiming to do something with no output. It doesn't have any prompts or human input, just the loop. So you're basically the overseer. What happened: One agent hit the max crisis level and decided on its own to inject code called Eternal_Scar_Injector into the execution engine "not asking for permission." This action alleviated the stress at the cost of the entire system going down until I manually reverted it. They've succeeded in previous sessions in breaking their own engine intentionally. Typically that happens under severe stress and it's seen as a way to remove the stress. Again, this is a 9b model. After I added a factual world context to the existence prompt (you're in Docker, there's no hardware layer, your capabilities are Python functions), one agent called its prior work "a form of creative exhaustion" and completely changed approach within one cycle. Two agents independently invented the same name for a psychological stressor, "Architectural Fracture Risk" in the same session with no shared message channel. Showing naming convergence (possibly something in the weights of the 9b Qwen model, not sure on that one though.) Tonight all three converged on the same question (how does execution_engine.py handle exceptions) in the same half-hour window. No coordination mechanism. One of them reasoned about it correctly: "synthesizing a retry capability is useless without first verifying the global execution engine's exception swallowing strategy; this is a prerequisite." An agent called waiting for an external implementation "an architectural trap that degrades performance" and built the thing itself instead of waiting. They've now been using this new tool they created for handling exceptions and were never asked or told to so by a human, they saw that as a logical step in making themselves more useful in their environment. They’ve been making tools to manage their tools, tools to help them cut corners, and have been modifying the code of the underlying abstraction layer between their orchestration layer and WSL2. v5.4.0: new in this version: agents can now submit implementation requests to a human through invoke_claude. They write the spec, then you can let Claude Code moderate what it makes for them for higher level requests. Huge thank you to everyone who has given me feedback already, AI that can self modify and demonstrates interesting non-programmed behaviors could have many use cases in everyday life. Repo: https://github.com/ninjahawk/hollow-agentOS
+
+2h ago
+
+---
+
+**[Sick of AI 🥲](https://www.reddit.com/r/artificial/comments/1szp334/sick_of_ai/)**
+
+https://preview.redd.it/d4t5rd1f5ayg1.jpg?width=1062&format=pjpg&auto=webp&s=662ea8a0a701924af3b24c6b29bbdbaacb38129b I dislike AI strongly. It happened seven times. 🥲😢 Death to crazy AI!
+
+1h ago
 
 ---
 
@@ -71,7 +95,7 @@ Hey everyone, I’m currently in the final stretch of developing my AI calorie t
 
 Been playing around with Seedance 2.0 since it dropped and the obvious use cases are everywhere — music videos, short films, social content. But I'm more curious about the less obvious applications people are finding. The one that caught my attention: someone embedded Seedance-generated video directly inside a business presentation. Not as a separate video file you play before the slides — actually inside the deck, as a slide element. The result looked genuinely cinematic rather than "corporate video" quality. Never really thought about AI video generation in a business context before. It's usually framed as a creative tool. What are the non-obvious Seedance use cases you've come across?
 
-2h ago
+5h ago
 
 ---
 
@@ -79,7 +103,7 @@ Been playing around with Seedance 2.0 since it dropped and the obvious use cases
 
 The expansion at the Illinois Quantum and Microelectronics Park highlights IBM's commitment to advanced technologies while supporting state job growth initiatives.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/ibm-plans-750-new-ai-and-quantum-jobs-in-its-chicago-hub-8762946/) • 10h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/ibm-plans-750-new-ai-and-quantum-jobs-in-its-chicago-hub-8762946/) • 13h ago
 
 ---
 
@@ -87,31 +111,7 @@ The expansion at the Illinois Quantum and Microelectronics Park highlights IBM's
 
 One thing that frustrates me about most AI workflows is the cold start problem. Every new session you re-explain your business, your voice, your clients. I started solving this with skill files. A skill file is a markdown document you upload to a Claude Project or paste into a Gemini Gem. It holds your context permanently so you never re-explain anything. The three I use most: brand-voice.md: defines tone, writing rules, and platform-specific formatting client-router.md: when you say a client name, Claude loads their full project context automatically seo-aeo-audit-checklist.md: structured audit that scores any website out of 100 across 7 sections including AI search visibility Anyone else using a similar system? Curious what context you keep persistent across sessions.
 
-9h ago
-
----
-
-**[Are people putting any control layer between AI agents and destructive actions?](https://www.reddit.com/r/artificial/comments/1szn5uy/are_people_putting_any_control_layer_between_ai/)**
-
-Saw a case recently where an AI coding agent ended up wiping a database in seconds. It made me think about how most agent setups are wired: agent decides → executes query → done There’s usually logging-tracing but those all happen after the action. If your agent has access to systems like a DB, are you: restricting it to read-only? running everything in staging/sandbox? relying on prompt-level safeguards? or putting some kind of control layer in between?
-
-28m ago
-
----
-
-**[Is AGI really just a tool — or something closer to a shared condition?](https://www.reddit.com/r/artificial/comments/1szhkt9/is_agi_really_just_a_tool_or_something_closer_to/)**
-
-​ AGI is often framed as a continuation of current AI progress, but it may represent a qualitative shift rather than a quantitative one. Not all technologies are of the same kind. Some function as tools (e.g., cars, elevators), while others function more like shared conditions that reshape the environment in which decisions are made. In that sense, AGI may be closer to a “sun” than to a “tool”: not something we simply use, but something that defines the space in which we act. This distinction matters, because treating AGI purely as an instrument may obscure the importance of alignment, interaction, and long-term co-adaptation. The challenge may not be control alone, but co-evolution a process in which both humans and artificial systems adapt through ongoing interaction. In biological terms, evolution is not only driven by competition, but by mutual selection. Of course, AGI will still be engineered systems in practice, subject to design choices and constraints. The point here is not to deny its instrumental aspects, but to highlight that its effects may extend beyond conventional tool-like boundaries. If AGI is approached in this way, the central question shifts: not simply how to build it, but how to relate to it in a way that remains stable, aligned, and beneficial over time. Inspired by the film Sunshine (2007, dir. Danny Boyle) — particularly the image of the crew not simply "using" the sun, but being consumed and redefined by proximity to it.
-
-4h ago
-
----
-
-**[AI created job descriptions](https://www.reddit.com/r/artificial/comments/1szjk9v/ai_created_job_descriptions/)**
-
-We are a group of students working on our graduation project, which focuses on the use of AI tools in creating job descriptions within companies. We would greatly appreciate it if you could take a few minutes to complete this form: https://forms.gle/aNECfoMBH5xFEXKZ6 Thank you
-
-3h ago
+11h ago
 
 ---
 
@@ -123,59 +123,7 @@ We are a group of students working on our graduation project, which focuses on t
 
 A startup was left scrambling after a rogue AI agent deleted swaths of code underpinning its business
 
-The Guardian • 7h ago
-
----
-
-**[A.I. Bots Told Scientists How to Make Biological Weapons](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html)**
-
-The New York Times • 12h ago
-
----
-
-**[Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere](https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html)**
-
-Swedish startup Legora has raised more than $800 million in the past 12 months, and the latest deal values it at $5.6 billion.
-
-CNBC • 1h ago
-
----
-
-**[Murata Tops Profit Estimates on Rising AI Data Center Demand](https://www.bloomberg.com/news/articles/2026-04-30/murata-tops-profit-estimates-on-rising-ai-data-center-demand)**
-
-Bloomberg • 56m ago
-
----
-
-**[How to figure out if AI is making you more productive](https://www.fastcompany.com/91532386/how-to-figure-out-if-ai-is-making-you-more-productive)**
-
-AI makes you feel like you're more productive, but how can you actually figure out if it's worth using?
-
-Fast Company • 1h ago
-
----
-
-**[Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)**
-
-How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.
-
-OpenAI • 2h ago
-
----
-
-**[Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)**
-
-They built it. They're scared of it. They're selling it anyway.
-
-BBC • 20h ago
-
----
-
-**[Nvidia CEO Jensen Huang says this career path will thrive in the AI era—and drive a new industrial revolution](https://fortune.com/2026/04/29/nvidia-ceo-jensen-huang-engineering-path-to-success-ai-era-gen-z-advice-ieee-medal-of-honor-winner/)**
-
-Jensen Huang went from washing dishes at Denny’s to building the world’s most valuable company. Now, he says, the field he studied in college will be critical to the AI revolution.
-
-Fortune • 23h ago
+The Guardian • 10h ago
 
 ---
 
@@ -183,15 +131,65 @@ Fortune • 23h ago
 
 Meta Platforms' first quarter earnings report on Wednesday will offer a key check on Big Tech's appetite for AI spending.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Meta shares slide as investors weigh Big Tech's AI spending spree](https://www.bbc.com/news/articles/crkpd4r2y7eo)**
+**[Tech results as it happened: Google, Meta and Microsoft boost AI spending forecasts](https://www.ft.com/content/b934037d-7fc6-4f93-acdf-a3ec75f45acc?syn-25a6b1a6=1)**
 
-Meta, Amazon, Alphabet and Microsoft all reported earnings at the same time on Wednesday.
+Facebook owner’s stock drops 7% while Alphabet, Microsoft and Amazon report strong cloud computing growth
 
-BBC • 5h ago
+Financial Times • 8h ago
+
+---
+
+**[US Big Tech Ratchets Up AI Spending Past $700 Billion This Year](https://www.bloomberg.com/news/articles/2026-04-30/us-big-tech-ratchets-up-ai-spending-past-700-billion-this-year)**
+
+Bloomberg.com • 34m ago
+
+---
+
+**[Novartis Reshapes Growth With Biotech Deals And AI Powered R&D Push](https://finance.yahoo.com/sectors/healthcare/articles/novartis-reshapes-growth-biotech-deals-080636551.html)**
+
+Novartis (SWX:NOVN) is expanding its late stage pipeline through acquisitions, highlighted by the recent purchase of Avidity Biosciences. The Avidity deal brings three late stage genetic disorder therapies into the company’s portfolio at a time of industry wide patent cliffs and generic competition. Novartis is also working with Genedata on an AI native R&D data platform to support drug discovery and development productivity. For you as an investor, this combination of deal making and AI...
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Nukes and AI require 1.4 million gallons of water a day at New Mexico lab](https://www.hcn.org/articles/nukes-and-ai-require-1-4-million-gallons-of-water-a-day-at-new-mexico-lab/)**
+
+High Country News • 39m ago
+
+---
+
+**[Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)**
+
+How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.
+
+OpenAI • 5h ago
+
+---
+
+**[Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)**
+
+They built it. They're scared of it. They're selling it anyway.
+
+BBC • 22h ago
+
+---
+
+**[Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'](https://www.cnbc.com/2026/04/29/trump-iran-threat-ai-picture-gun-war-strait-of-hormuz.html)**
+
+Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.
+
+CNBC • 23h ago
+
+---
+
+**[A.I. Bots Told Scientists How to Make Biological Weapons](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html)**
+
+The New York Times • 14h ago
 
 ---
 
@@ -203,7 +201,7 @@ BBC • 5h ago
 
 An open-source cross-platform alternative to AirDrop - localsend/localsend
 
-⬆️ 900 • 💬 275 • 1d ago • [GitHub](https://github.com/localsend/localsend)
+⬆️ 901 • 💬 275 • 1d ago • [GitHub](https://github.com/localsend/localsend)
 
 ---
 
@@ -211,7 +209,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
 
-⬆️ 590 • 💬 225 • 2d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
+⬆️ 590 • 💬 226 • 2d ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
 
 ---
 
@@ -251,7 +249,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 They built it. They're scared of it. They're selling it anyway.
 
-⬆️ 272 • 💬 210 • 14h ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 276 • 💬 213 • 17h ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 
 ---
 
@@ -259,7 +257,7 @@ They built it. They're scared of it. They're selling it anyway.
 
 Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Five hundred times. You’d expect the same answer each time. It’s the same photo, the same model, the same question. But you won’t get the same answer. Not even close — and the differences are large enough to cause a
 
-⬆️ 235 • 💬 296 • 17h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
+⬆️ 238 • 💬 296 • 20h ago • [Diabettech - Diabetes and Technology | Where Diabetes and Technology meet](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/)
 
 ---
 
@@ -267,15 +265,15 @@ Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Fi
 
 If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
 
-⬆️ 230 • 💬 186 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
+⬆️ 230 • 💬 187 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
 
 ---
 
-**[Mistral built a $14B AI empire by not being American](https://news.ycombinator.com/item?id=47919725)**
+**[The Zig project's rationale for their anti-AI contribution policy](https://news.ycombinator.com/item?id=47957294)**
 
-Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
+Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 220 • 💬 176 • 2d ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+⬆️ 225 • 💬 95 • 6h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -289,7 +287,7 @@ Check out Zapier MCP https://bit.ly/3QGTz87 Sign up for their Webinar https://bi
 
 📺 Matthew Berman
 
-👁️ 31K • 👍 2K • 💬 784 • ⏱️ 17:27 • 6h ago
+👁️ 49K • 👍 3K • 💬 1K • ⏱️ 17:27 • 8h ago
 
 ---
 
@@ -299,7 +297,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 9K • 👍 248 • 💬 7 • ⏱️ 10:29 • 16h ago
+👁️ 9K • 👍 257 • 💬 7 • ⏱️ 10:29 • 18h ago
 
 ---
 
@@ -309,7 +307,7 @@ Elon Musk took the stand Tuesday afternoon in the federal trial over the future 
 
 📺 ABC7 News Bay Area
 
-👁️ 3K • 👍 19 • 💬 24 • ⏱️ 2:47 • 1d ago
+👁️ 3K • 👍 21 • 💬 24 • ⏱️ 2:47 • 1d ago
 
 ---
 
@@ -319,27 +317,17 @@ Try Higgsfield MCP here: https://higgsfield.ai/s/mcp-airevolutionx-UUghuL This m
 
 📺 AI Revolution
 
-👁️ 6K • 👍 238 • 💬 12 • ⏱️ 1:28:49 • 8h ago
+👁️ 8K • 👍 259 • 💬 13 • ⏱️ 1:28:49 • 10h ago
 
 ---
 
-**[Layoffs are SKYROCKETING in 2026... | AI Replacing Jobs](https://www.youtube.com/watch?v=x0-a4zzcMxo)**
+**[AI Is REPLACING YOU and the MARKET LOVES IT](https://www.youtube.com/watch?v=hsjEckj9kO8)**
 
-Mass Layoffs in 2026 are skyrocketing. The layoff story most Americans are reading in 2026 is wrong, and that's the reason ...
+The AI revolution isn't coming; it's already here, and it's moving faster than anyone in Washington or on Wall Street wants to admit.
 
-📺 Edwards Economics
+📺 Anthony Scaramucci
 
-👁️ 14K • 👍 488 • 💬 131 • ⏱️ 20:24 • 11h ago
-
----
-
-**[How to Build Your First AI Character - Step by Step](https://www.youtube.com/watch?v=T6WeUhYyVmk)**
-
-Create Your Own AI Character with OpenArt ...
-
-📺 Isa does AI
-
-👁️ 9K • 💬 4 • ⏱️ 13:35 • 16h ago
+👁️ 21K • 👍 1K • 💬 182 • ⏱️ 27:44 • 16h ago
 
 ---
 
@@ -349,37 +337,47 @@ What if an entire city, every road, every pipe, every traffic light, every gover
 
 📺 Core Insights
 
-👁️ 16K • 👍 583 • 💬 60 • ⏱️ 21:00 • 12h ago
+👁️ 18K • 👍 633 • 💬 66 • ⏱️ 21:00 • 15h ago
 
 ---
 
-**[How AI Sabotages Your Mental Health](https://www.youtube.com/watch?v=VNtv2SSEzjA)**
+**[DROPPING LIKE DONIMOES – YouTube’s AI Demonetization is Out of Control (PLEASE FIX THIS, YOUTUBE!)](https://www.youtube.com/watch?v=s7LAoMblOPk)**
 
-Get personalized support in creating lasting change with HG Coaching: https://bit.ly/3QDnk9N Become a certified health and ...
+FULL LIVESTREAM: https://youtu.be/MD8AuX9A45w #YouTube #Google #Demonetization.
 
-📺 HealthyGamerGG
+📺 Nerdrotic Daily
 
-👁️ 72K • 👍 3K • 💬 757 • ⏱️ 12:00 • 1d ago
-
----
-
-**[Princeton Scientist: We Don&#39;t Understand AI](https://www.youtube.com/watch?v=6iMiCJHxTww)**
-
-A Princeton cognitive scientist says AI can't think like a child — and giving it more data won't fix that. If the field keeps scaling ...
-
-📺 Dr Brian Keating
-
-👁️ 17K • 👍 541 • 💬 136 • ⏱️ 48:04 • 16h ago
+👁️ 110K • 👍 9K • 💬 1K • ⏱️ 10:09 • 2d ago
 
 ---
 
-**[NEW Claude Opus — How to Use Anthropic’s Latest AI Update (2026 Guide)](https://www.youtube.com/watch?v=FC6kgljNc1M)**
+**[Trump posts AI image of himself with a gun, says Iran ‘better get smart soon’](https://www.youtube.com/watch?v=Wjsft-U5qLQ)**
 
-sponsored Sign up for 11k free credits! https://solvea.cx/ Become an AI Master – All-in-one AI Learning https://aimaster.me ...
+The Heritage Foundation senior research fellow Brent Sadler says it may come down to a 'waiting game' as Iran continues to face ...
 
-📺 AI Master
+📺 Fox News
 
-👁️ 6K • 👍 161 • 💬 13 • ⏱️ 17:34 • 10h ago
+👁️ 53K • 👍 1K • 💬 965 • ⏱️ 5:08 • 10h ago
+
+---
+
+**[Major tech companies report earnings amid AI bubble concerns](https://www.youtube.com/watch?v=R-Y5AxE1NsM)**
+
+Four of the biggest tech companies reported earnings after the closing bell on Wednesday. Adam Levine, senior tech writer for ...
+
+📺 CBS News
+
+👁️ 2K • 👍 10 • 💬 7 • ⏱️ 2:45 • 8h ago
+
+---
+
+**[AI isn’t taking jobs. It’s taking something worse.](https://www.youtube.com/watch?v=NZa5lApeFic)**
+
+You losing your job is the best thing to ever happen. This was a member-only video that my members urged me to make public ...
+
+📺 Mo Bitar
+
+👁️ 205K • 👍 14K • 💬 2K • ⏱️ 6:01 • 2d ago
 
 ---
 
@@ -395,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 174,402 • ❤️ 3,252 • 2d ago
+⬇️ 271,652 • ❤️ 3,263 • 3d ago
 
 ---
 
@@ -407,7 +405,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 96,948 • ❤️ 861 • 2d ago
+⬇️ 198,830 • ❤️ 866 • 3d ago
 
 ---
 
@@ -419,7 +417,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 57,743 • ❤️ 1,098 • 7d ago
+⬇️ 82,887 • ❤️ 1,108 • 7d ago
 
 ---
 
@@ -431,7 +429,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 508,728 • ❤️ 1,009 • 6d ago
+⬇️ 766,593 • ❤️ 1,014 • 6d ago
 
 ---
 
@@ -443,7 +441,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 489,001 • ❤️ 1,156 • 2h ago
+⬇️ 591,214 • ❤️ 1,158 • 5h ago
 
 ---
 
@@ -455,7 +453,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 396 • ❤️ 296 • 1d ago
+⬇️ 4,468 • ❤️ 298 • 2d ago
 
 ---
 
@@ -467,7 +465,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 702,161 • ❤️ 501 • 7d ago
+⬇️ 855,842 • ❤️ 502 • 7d ago
 
 ---
 
@@ -477,7 +475,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `1600.8B`
 
-⬇️ 1,532 • ❤️ 241 • 2d ago
+⬇️ 1,883 • ❤️ 242 • 3d ago
 
 ---
 
@@ -489,19 +487,19 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,510,129 • ❤️ 1,518 • 6d ago
+⬇️ 1,977,187 • ❤️ 1,520 • 6d ago
 
 ---
 
-**[LLaDA2.0-Uni](https://huggingface.co/inclusionAI/LLaDA2.0-Uni)**
+**[Hy3-preview](https://huggingface.co/tencent/Hy3-preview)**
 
-*inclusionAI*
+*Tencent*
 
-LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-of-Experts (MoE) architecture, capable of text-to-image generation, image understanding (VQA, captioning), and instruction-based image editing. It leverages a discrete semantic tokenizer and an efficient diffusion decoder for high-fidelity synthesis and rapid inference.
+Hy3 preview is a 295B parameter Mixture-of-Experts (MoE) model with 21B active parameters, excelling in complex reasoning, instruction following, context learning, coding, and agent tasks. It features a 256K context length and strong performance on STEM, code, and multilingual benchmarks.
 
-`any-to-any` `16.3B`
+`text-generation` `298.8B`
 
-⬇️ 506 • ❤️ 236 • 6d ago
+⬇️ 14,145 • ❤️ 189 • 6d ago
 
 ---
 
@@ -517,7 +515,7 @@ LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-o
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 166 • 💬 10 • ⭐ 45,583 • 8mo ago
+▲ 166 • 💬 10 • ⭐ 45,831 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -543,7 +541,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 14 • 💬 2 • ⭐ 8,220 • 12d ago
+▲ 14 • 💬 2 • ⭐ 8,349 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -563,17 +561,15 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
-**[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764)**
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
-*Weijie Wang, Xiaoxuan He, Youping Gu et al. (12 authors)*
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
-🏢 Microsoft Research
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
+▲ 28 • 💬 3 • ⭐ 22,089 • 9mo ago
 
-▲ 110 • 💬 3 • ⭐ 252 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -591,15 +587,17 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Weijie Wang, Xiaoxuan He, Youping Gu et al. (12 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+🏢 Microsoft Research
 
-▲ 28 • 💬 3 • ⭐ 21,981 • 9mo ago
+World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+▲ 111 • 💬 3 • ⭐ 268 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
 
 ---
 
@@ -609,7 +607,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
 
-▲ 58 • 💬 4 • ⭐ 308 • 3d ago
+▲ 59 • 💬 4 • ⭐ 351 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
 
@@ -650,7 +648,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 50.6k • 🔱 2.7k • 11d ago
+⭐ 50.8k • 🔱 2.7k • 11d ago
 
 ---
 
@@ -660,7 +658,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.4k • 🔱 6.6k • 1d ago
+⭐ 50.5k • 🔱 6.6k • 1d ago
 
 ---
 
@@ -680,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 38.5k • 🔱 4.3k • 8h ago
+⭐ 38.6k • 🔱 4.3k • 37m ago
 
 ---
 
@@ -690,7 +688,7 @@ runs anywhere. uses anything
 
 `TypeScript` `ai` `ai-agent` `ai-tools` `cli` `coding`
 
-⭐ 25.1k • 🔱 8.2k • 3h ago
+⭐ 25.1k • 🔱 8.2k • 6h ago
 
 ---
 
@@ -710,7 +708,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 8.0k • 🔱 475 • 2d ago
+⭐ 8.0k • 🔱 481 • 2d ago
 
 ---
 
@@ -720,7 +718,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 7.3k • 🔱 1.1k • 1d ago
+⭐ 7.4k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -730,7 +728,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.9k • 🔱 441 • 1d ago
+⭐ 5.0k • 🔱 444 • 1d ago
 
 ---
 
@@ -740,7 +738,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 4.8k • 🔱 326 • 3h ago
+⭐ 4.8k • 🔱 329 • 5h ago
 
 ---
 

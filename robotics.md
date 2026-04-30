@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T06:10:09.878541+00:00'
+updated: '2026-04-30T08:39:01.305660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 06:10 UTC  
+**Last Updated:** April 30, 2026 at 08:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,19 @@ Robotics research and industry news
 
 **[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-12h ago
+15h ago
+
+---
+
+**[This Toyota Walk me robotic chair looks slightly creepy](https://www.reddit.com/r/robotics/comments/1sznrkw/this_toyota_walk_me_robotic_chair_looks_slightly/)**
+
+2h ago
 
 ---
 
 **[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -48,7 +54,7 @@ Robotics research and industry news
 
 This Cambridge based startup, Eka Robotics, just came out of stealth today and is promising Vision-Force-Action (VFA) model, the first of its kind that breaks the generality-speed tradeoff and the data barrier!
 
-11h ago
+14h ago
 
 ---
 
@@ -62,7 +68,7 @@ This Cambridge based startup, Eka Robotics, just came out of stealth today and i
 
 Carnegie Mellon’s Martial Hebert explains that the underlying technology for self-driving cars has been in place for some time, but deployment depends on the conditions the system is operating in. Driving in heavily mapped, controlled environments with known variables is very different from operating in areas that haven’t been seen before, with changing conditions, varying pedestrian density, and unexpected scenarios. Each of those factors can require different approaches in sensing, training, and system design. On top of that, systems have to go through extensive testing and validation before they can be used around the general public. The gap between something that works technically and something that can be validated for real-world use is where most of the time has gone.
 
-17h ago
+20h ago
 
 ---
 
@@ -70,7 +76,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 posting here since ive not been able to get any leads from anywhere (or im looking in the wrong places) Hey everyone! New here, (new in general to robotics as well :D) building EZ-InMoov as my first humanoid robot project. I'm trying to avoid buying the official EZ-Robot servos since they're quite expensive (i bought most of my servos and stuff from Temu, got em for really cheap). I know the specs I need (i think): - HDD Servo: 19kg/cm @ 7.4V Width: 4.5 cm Length: 3.5 cm Height: 2.0 cm - Micro Servo: 7kg/cm @ 7.4V Width: 4.0 Length: 3.0 Height: 1.0 cm Has anyone successfully used third-party servo alternatives that fit the EZ-InMoov mounting points? I'm mainly concerned about physical dimensions and mounting tab compatibility since I know the mounts are designed around the EZ-Robot servos specifically. Any leads would be amazing thanks!﻿﻿
 
-2h ago
+5h ago
 
 ---
 
@@ -84,7 +90,7 @@ posting here since ive not been able to get any leads from anywhere (or im looki
 
 A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
 
-13h ago
+15h ago
 
 ---
 
@@ -92,13 +98,7 @@ A pattern I see in every robotics team I've talked to: Record terabytes of bag d
 
 How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 16h ago
-
----
-
-**[Unitree G1’s self-balancing capabilities](https://www.reddit.com/r/robotics/comments/1sxxbby/unitree_g1s_selfbalancing_capabilities/)**
-
-1d ago
+🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 18h ago
 
 ---
 
@@ -110,7 +110,7 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
 
-WIRED • 20h ago
+WIRED • 22h ago
 
 ---
 
@@ -118,7 +118,7 @@ WIRED • 20h ago
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 6h ago
+Financial Times • 9h ago
 
 ---
 
@@ -126,13 +126,15 @@ Financial Times • 6h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 58m ago
+CNBC • 3h ago
 
 ---
 
-**[SoftBank plans to list AI and robotics firm Roze in US, FT reports](https://www.reuters.com/business/media-telecom/softbank-plans-list-new-ai-robotics-company-us-ft-reports-2026-04-29/)**
+**[SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)**
 
-Reuters • 6h ago
+You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.
+
+TechCrunch • 4h ago
 
 ---
 
@@ -140,15 +142,31 @@ Reuters • 6h ago
 
 The boys now have eight weeks to raise funds to attend the international leg of the competition.
 
-BBC • 50m ago
+BBC • 3h ago
 
 ---
 
-**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
+**[Naperville robotics teams compete this week at FIRST World Championship](https://www.chicagotribune.com/2026/04/28/naperville-robotics-teams-world-championship/)**
 
-Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
+Multiple Naperville-based robotics teams are competing in Houston this week in one of the largest robotics competitions in the world.
 
-The Guardian • 1d ago
+Chicago Tribune • 1d ago
+
+---
+
+**[St. Louis students 'want to win' at international robotics competition held downtown](https://www.stltoday.com/news/local/education/article_cc7f237b-6194-4a53-9f16-a9b781a593af.html)**
+
+The VEX Robotics World Championship at America's Center is hosting thousands of students including six teams from Gateway Science Academy.
+
+STLtoday.com • 16h ago
+
+---
+
+**[Calvin Christian School robotics team heads to the World Championships while building real career skills](https://www.fox17online.com/news/local-news/grandville-hudsonville-jenison/calvin-christian-school-robotics-team-heads-to-the-world-championships-while-building-real-career-skills)**
+
+Students at Calvin Christian High School are heading to a global stage after qualifying for the Robotics World Championships in Houston.
+
+FOX 17 West Michigan News • 1d ago
 
 ---
 
@@ -160,27 +178,11 @@ BBC • 1d ago
 
 ---
 
-**[Ramping Figure 03 Production](https://www.figure.ai/news/ramping-figure-03-production)**
+**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
 
-Figure has cleared the gap from prototype to scalable fleet with BotQ, our high-volume manufacturing facility.
+Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
 
-Figure • 21h ago
-
----
-
-**[Ukraine’s killer robots show how war is changing](https://theconversation.com/ukraines-killer-robots-show-how-war-is-changing-280936)**
-
-The recent capture of a Russian position using ground robots is a milestone for the use of machines in warfare.
-
-The Conversation • 2d ago
-
----
-
-**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
-
-Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
-
-Bessemer Venture Partners • 1d ago
+The Guardian • 1d ago
 
 ---
 
@@ -188,23 +190,23 @@ Bessemer Venture Partners • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
-
-Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
-
-📺 Bloomberg Originals
-
-👁️ 92K • 👍 2K • 💬 120 • ⏱️ 24:02 • 22h ago
-
----
-
 **[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
 The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
 📺 Joanna Stern
 
-👁️ 66K • 👍 3K • 💬 459 • ⏱️ 11:11 • 14h ago
+👁️ 73K • 👍 3K • 💬 480 • ⏱️ 11:11 • 17h ago
+
+---
+
+**[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
+
+Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
+
+📺 Bloomberg Originals
+
+👁️ 99K • 👍 2K • 💬 126 • ⏱️ 24:02 • 1d ago
 
 ---
 
@@ -214,7 +216,7 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 11K • 👍 346 • 💬 38 • ⏱️ 8:27 • 2d ago
+👁️ 12K • 👍 358 • 💬 41 • ⏱️ 8:27 • 2d ago
 
 ---
 
@@ -238,41 +240,23 @@ NEURA Robotics has established a strategic partnership with Amazon to deploy the
 
 ---
 
-**[The One Strategy Video You Need (Vex Robotics 2026 World Finals)](https://www.youtube.com/watch?v=pTolenAb1L4)**
+**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
 
-Joined by both World Champions to talk about the 2026 Worlds Finals matches #override Vex Pushback World Finals #robotics ...
+I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
 
-📺 Luke does robotics
+📺 Barrett
 
-👁️ 4K • 👍 84 • 💬 22 • ⏱️ 30:32 • 2d ago
-
----
-
-**[War Robots - YouTubers Battle Each Other! WR Show Match Anniversary Event](https://www.youtube.com/watch?v=adBDfG7sSiI)**
-
-War Robots - YouTubers battle each other in a friendly show match during the War Robots 2026 Anniversary Event. WR Show ...
-
-📺 Adrian Chong
-
-👁️ 5K • 👍 342 • 💬 58 • ⏱️ 23:11 • 1d ago
+👁️ 14K • 👍 867 • 💬 16 • ⏱️ 5:43 • 6d ago
 
 ---
 
-**[Sony’s Ace: Ping Pong Robot](https://www.youtube.com/watch?v=3EDxvBW-Asc)**
+**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=uQjIq625BqQ)**
 
-Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rules - the first robot to do in 43 years of research.
+ABC News' Britt Clennett explores the world's newest robot, the humanoid, which can run, dance and fight as well, if not better ...
 
-📺 ZAUEY (Claire Zau)
+📺 ABC News
 
-👁️ 13K • 👍 1K • 💬 53 • ⏱️ 2:56 • 2d ago
-
----
-
-**[Robot Vacuum Running! Dyson Edition #2](https://www.youtube.com/watch?v=Ce5Nv0cGGrs)**
-
-📺 Planet Roomba
-
-👁️ 2K • ⏱️ 13:34 • 16h ago
+👁️ 23K • 👍 269 • 💬 124 • ⏱️ 7:55 • 1d ago
 
 ---
 
@@ -282,7 +266,27 @@ Professor Aaron Ames of the California Institute of Technology joins WIRED to an
 
 📺 WIRED
 
-👁️ 67K • 👍 3K • 💬 158 • ⏱️ 21:47 • 1d ago
+👁️ 68K • 👍 3K • 💬 160 • ⏱️ 21:47 • 1d ago
+
+---
+
+**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
+
+Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
+
+📺 Fox Business
+
+👁️ 70K • 👍 2K • 💬 472 • ⏱️ 10:17 • 6d ago
+
+---
+
+**[Automating Neurosurgery with Robotics | Neuralink](https://www.youtube.com/watch?v=KO53gwuqZUQ)**
+
+We've built a surgical robot to automate key steps in the process of receiving a Neuralink implant to promote safety, reliability, and ...
+
+📺 Neuralink
+
+👁️ 97K • 👍 6K • 💬 351 • ⏱️ 4:12 • 16h ago
 
 ---
 
