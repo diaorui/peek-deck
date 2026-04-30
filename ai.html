@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-30T14:33:56.751299+00:00"
+          "dateModified": "2026-04-30T16:20:03.696714+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -697,6 +697,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szxdgg/will_agi_happen_at_a_single_point_or_gradually/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1szxdgg/will_agi_happen_at_a_single_point_or_gradually/" target="_blank" onclick="event.stopPropagation();">Will AGI happen at a single point or gradually?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            And what's the most important thing you expect it to bring? Stability, better reasoning, something else? Curious to hear your thoughts, I noticed people having different opinions
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777558615.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szv6jp/question_about_ip_when_it_comes_to_coding_and/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -721,6 +754,105 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1777553445.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szzpwh/ive_been_comparing_claude_vs_gpt_vs_gemini_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1szzpwh/ive_been_comparing_claude_vs_gpt_vs_gemini_for/" target="_blank" onclick="event.stopPropagation();">I've been comparing Claude vs GPT vs Gemini for article summarization. Here's what I found.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been building a product around AI-powered reading (more on that later) and wanted to share findings on summarization quality across major LLMs. Tested with 50 articles across news, research papers, blog posts, and technical docs: Claude (Sonnet/Haiku): - Best at preserving nuance and avoiding oversimplification - Strongest at academic content - Excellent for "explain this without losing the point" GPT-4: - Fastest summaries, often most concise - Sometimes drops important context - Good for news, weaker on academic Gemini: - Strongest source citations - Tends to add information not in the original - Good for factual but careful with creative content Most surprising finding: bias detection accuracy. Claude flagged loaded language and framing in 78% of test articles correctly. GPT 64%. Gemini 51%. Anyone else doing similar comparisons? Would love to hear what you're seeing
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777563304.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szo64c/when_you_give_qwen_359b_persistent_suffering/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1szo64c/when_you_give_qwen_359b_persistent_suffering/" target="_blank" onclick="event.stopPropagation();">When you give Qwen 3.5:9b persistent suffering states and leave it alone overnight, this happens</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Running three qwen3.5:9b agents continuously on local hardware. Each accumulates psychological state over time, stressors that escalate unless the agent actually does something different, this gets around an agent claiming to do something with no output. It doesn't have any prompts or human input, just the loop. So you're basically the overseer. What happened: One agent hit the max crisis level and decided on its own to inject code called Eternal_Scar_Injector into the execution engine "not asking for permission." This action alleviated the stress at the cost of the entire system going down until I manually reverted it. They've succeeded in previous sessions in breaking their own engine intentionally. Typically that happens under severe stress and it's seen as a way to remove the stress. Again, this is a 9b model. After I added a factual world context to the existence prompt (you're in Docker, there's no hardware layer, your capabilities are Python functions), one agent called its prior work "a form of creative exhaustion" and completely changed approach within one cycle. Two agents independently invented the same name for a psychological stressor, "Architectural Fracture Risk" in the same session with no shared message channel. Showing naming convergence (possibly something in the weights of the 9b Qwen model, not sure on that one though.) Tonight all three converged on the same question (how does execution_engine.py handle exceptions) in the same half-hour window. No coordination mechanism. One of them reasoned about it correctly: "synthesizing a retry capability is useless without first verifying the global execution engine's exception swallowing strategy; this is a prerequisite." An agent called waiting for an external implementation "an architectural trap that degrades performance" and built the thing itself instead of waiting. They've now been using this new tool they created for handling exceptions and were never asked or told to so by a human, they saw that as a logical step in making themselves more useful in their environment. They’ve been making tools to manage their tools, tools to help them cut corners, and have been modifying the code of the underlying abstraction layer between their orchestration layer and WSL2. v5.4.0: new in this version: agents can now submit implementation requests to a human through invoke_claude. They write the spec, then you can let Claude Code moderate what it makes for them for higher level requests. Huge thank you to everyone who has given me feedback already, AI that can self modify and demonstrates interesting non-programmed behaviors could have many use cases in everyday life. Repo: https://github.com/ninjahawk/hollow-agentOS
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777531054.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szyiam/why_selling_to_devs_is_a_nightmare_i_love_you/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1szyiam/why_selling_to_devs_is_a_nightmare_i_love_you/" target="_blank" onclick="event.stopPropagation();">Why Selling to Devs Is a Nightmare (I Love You Anyway*)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Nowadays, everyone (including me) wants to sell AI-powered tools, platforms, or products. Few people (including me 6 months ago) have any idea how hard it is to approach and convince technical people for at least 10 reasons: 1 - They're constantly bombarded with messages. 2 - Everyone sells everything, so supply >>> demand. 3 - Extremely high background noise. 4 - They see an AI-generated message from 10km away (they've trolled me several times). 5 - If they have to go through a demo to try the product, they've already closed the tab. 6 - The opinions of devs, who value any glossy slide, count much more. 7 - Product trials are unforgiving; it's like being in court accused of 16 murders. If they find bugs or poor performance at that point, for them the product is broken and the window closes. 8 - They always have a plan B: I'll make it myself. Only 9 - If you don't have a solid track record (or you studied biotech like me), everything is 10x harder. 10 - Like the MasterChef judges, who used to be just chefs and now are atomic hotties, today's CTOs and top devs are stars; literally everyone wants them. It seems easier to scale a dev tool today because there are infinite tools, but in reality it's really tough. On the one hand, you have to earn the trust of technical teams through intros, messages, calls, and events; on the other, you have to scale at the speed of light because you're only six months old. Advice, ideas, scathing comments, insults? Anything goes. *Not true
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777561134.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -780,105 +912,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szxdgg/will_agi_happen_at_a_single_point_or_gradually/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1szxdgg/will_agi_happen_at_a_single_point_or_gradually/" target="_blank" onclick="event.stopPropagation();">Will AGI happen at a single point or gradually?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            And what's the most important thing you expect it to bring? Stability, better reasoning, something else? Curious to hear your thoughts, I noticed people having different opinions
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777558615.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/" target="_blank" onclick="event.stopPropagation();">Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777465792.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szqhrk/building_an_al_food_tracker_and_currently/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1szqhrk/building_an_al_food_tracker_and_currently/" target="_blank" onclick="event.stopPropagation();">Building an Al food tracker and currently tackling Apple Health integration. How do you prefer your „active calories“ to be handled?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hey everyone, I'm currently in the final stretch of developing my Al calorie tracker (the one that breaks down photos into individual ingredients). One thing I'm obsessed with getting right before the beta launch in 2 weeks is the Apple Health integration. Most apps just show you a static number. I want mine to be dynamic. If you go for a 500kcal run, the app should know and adjust your macro targets for the next meal. My question to the fitness-tech crowd: Do you prefer apps that strictly stick to your base metabolic rate (BMR), or do you want the 'earned' calories from your Apple Watch to be automatically added to your budget? I've seen strong opinions on both sides. I'm also fine-tuning the macro-overflow logic (e.g., saving surplus calories for the weekend). Would love to hear some thoughts from people who actually track daily.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777539142.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szjigc/anthropic_reportedly_plotting_to_surpass_openais/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -924,7 +957,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szkpjb/seedance_20_whats_the_most_interesting_nonobvious/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -932,13 +965,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1szkpjb/seedance_20_whats_the_most_interesting_nonobvious/" target="_blank" onclick="event.stopPropagation();">Seedance 2.0 — what's the most interesting non-obvious use case you've seen so far?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/" target="_blank" onclick="event.stopPropagation();">Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Been playing around with Seedance 2.0 since it dropped and the obvious use cases are everywhere — music videos, short films, social content. But I'm more curious about the less obvious applications people are finding. The one that caught my attention: someone embedded Seedance-generated video directly inside a business presentation. Not as a separate video file you play before the slides — actually inside the deck, as a slide element. The result looked genuinely cinematic rather than "corporate video" quality. Never really thought about AI video generation in a business context before. It's usually framed as a creative tool. What are the non-obvious Seedance use cases you've come across?
+                            Google quietly dropped something interesting last week. They updated their Deep Research agent (available via Gemini API) and introduced a "Max" tier built on Gemini 3.1 Pro. What it actually does: you give it a topic, it autonomously searches the web (and your private data via MCP), reasons over the sources, and produces a fully cited, professional-grade report — including native charts and infographics. Two modes: Deep Research — faster, lower latency, good for real-time user-facing apps Deep Research Max — uses extended compute, iterates more, designed for background/async jobs (think: nightly cron that generates due diligence reports for analysts by morning) The MCP support is the most interesting part to me. You can point it at proprietary data sources — financial feeds, internal databases — and it treats them as just another searchable context. They're already working with FactSet, S&P Global and PitchBook on this. Benchmarks show a significant jump in retrieval and reasoning vs. the December preview. They also claim it now draws from SEC filings and peer-reviewed journals and handles conflicting evidence better. So what do you think, is it another trying or game changer 😅
                         </div>
                         
 
@@ -947,58 +980,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1777520140.0"></span>
+                                    <span data-timestamp="1777465792.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1szsfik/comparing_svg_generation_for_top_models/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1szsfik/comparing_svg_generation_for_top_models/" target="_blank" onclick="event.stopPropagation();">Comparing SVG generation for top models</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            These are the top open and closed model: Opus 4.7, GPT-5.5 Pro, DeepSeek V4, GLM-5.1 and Gemini 3.1 Pro. They both show similar performance in my testing. Open models: The only open models that have equivalent quality compared to the top models are DeepSeek and GLM. Cost: GPT 5.5 Pro: Super expensive it makes no sense (cost is around $2) Gemini/Opus: $0.2/$0.1. Opus is cheaper as it consumed less tokens DeepSeek/GLM: $0.019/$0.021 10-5 times cheaper than Gemini and Opus
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777545706.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://codeinput.com/s/5KEGl1e3rB3" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://codeinput.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>codeinput.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1028,7 +1013,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-30T14:33:29.349350+00:00">Updated 2026-04-30T14:33:29.349350+00:00</small>
+        <small data-timestamp="2026-04-30T16:19:38.642433+00:00">Updated 2026-04-30T16:19:38.642433+00:00</small>
     </div>
 </div>
 
@@ -1251,20 +1236,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/article/the-ai-earnings-bonanza-is-splitting-investors-152258508.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/fa34b7fa4b1128132c4cb04504f8108b473af0c8/542_0_5417_4334/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2d4806f782697405af8eeb0b63737a2');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/zhgCIP1RZ21BVrBxiU5U5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/90ebbe40-294f-11f1-8fff-3758a2c672fc_95b3abcd1ced6f38e3d64143b49bd33a5edf6e93f09b208dc29b874afd2b520f.com/creatr-uploaded-images/2026-03/90ebbe40-294f-11f1-8fff-3758a2c672fc');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database" target="_blank" onclick="event.stopPropagation();">Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’</a>
+                            <a href="https://finance.yahoo.com/sectors/technology/article/the-ai-earnings-bonanza-is-splitting-investors-152258508.html" target="_blank" onclick="event.stopPropagation();">The AI earnings bonanza is splitting investors</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A startup was left scrambling after a rogue AI agent deleted swaths of code underpinning its business
+                            Wall Street was split on its reaction to the AI earnings bonanza Wednesday.
                         </div>
                         
 
@@ -1274,9 +1259,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1284,7 +1269,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777500960.0"></span>
+                                    <span data-timestamp="1777562578.0"></span>
                                 </div>
                                 
                             </div>
@@ -1292,20 +1277,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.latimes.com/opinion/letters-to-the-editor/story/2026-04-30/oral-exams-schools-ai', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/30/microsoft-quarter-shows-strong-ai-demand-street-sees-big-stock-gains-ahead.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/953b37f/2147483647/strip/true/crop/3298x1731+0+234/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2Fbf%2F324237a049f5b8248619edccd5a5%2F2758731f1422499a9b435098aa6a394c.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108298551-1777400890013-gettyimages-2272950563-MICROSOFT_EARNS.jpeg?v=1777400928&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.latimes.com/opinion/letters-to-the-editor/story/2026-04-30/oral-exams-schools-ai" target="_blank" onclick="event.stopPropagation();">Letters to the Editor: Oral exams don’t just combat AI. They can bring students out of their shells</a>
+                            <a href="https://www.cnbc.com/2026/04/30/microsoft-quarter-shows-strong-ai-demand-street-sees-big-stock-gains-ahead.html" target="_blank" onclick="event.stopPropagation();">Microsoft back on offense as quarter shows strong AI demand. Wall Street sees big stock gains ahead</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            'Some of my shyest students shone the brightest in these exams. Students who had not done the work flailed and failed,' writes an L.A. Times reader.
+                            Microsoft could stage a comeback as the technology firm's AI push starts to show signs of paying off, several analysts said.
                         </div>
                         
 
@@ -1315,9 +1300,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Los Angeles Times" class="news-favicon">
-                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">Los Angeles Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1325,7 +1310,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777557600.0"></span>
+                                    <span data-timestamp="1777564014.0"></span>
                                 </div>
                                 
                             </div>
@@ -1333,20 +1318,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/tech/meta-tracks-workers-train-ai-agents', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/04/meta-denver-office-cafeteria-fox-news-001.jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/04/LMP2-concept-car-rendering-for-IBM-AI-physics-model-01-credit-Dallara-1152x648.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.foxnews.com/tech/meta-tracks-workers-train-ai-agents" target="_blank" onclick="event.stopPropagation();">Meta tracks workers to train AI agents</a>
+                            <a href="https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/" target="_blank" onclick="event.stopPropagation();">In motorsport, there’s nowhere to hide as AI becomes new CFD tool</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Meta is tracking employee mouse clicks, keystrokes and screen habits to train AI models, raising new questions about workplace monitoring and privacy.
+                            AI finds value in motorsport, multiplying limited computational fluid dynamics resources.
                         </div>
                         
 
@@ -1356,9 +1341,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox News" class="news-favicon">
-                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Ars Technica" class="news-favicon">
+                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
                                     
                                 </div>
                                 
@@ -1366,7 +1351,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777558473.0"></span>
+                                    <span data-timestamp="1777563461.0"></span>
                                 </div>
                                 
                             </div>
@@ -1374,17 +1359,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/petercohan/2026/04/30/earnings-reveal-the-first-real-winners-and-losers-of-the-ai-arms-race/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/petercohan/2026/04/30/earnings-reveal-the-first-real-winners-and-losers-of-the-ai-arms-race/" target="_blank" onclick="event.stopPropagation();">Earnings Reveal The First Real Winners And Losers Of The AI Arms Race</a>
+                            <a href="https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/" target="_blank" onclick="event.stopPropagation();">X announces a rebuilt ad platform powered by AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1393,9 +1382,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TechCrunch" class="news-favicon">
+                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
                                     
                                 </div>
                                 
@@ -1403,7 +1392,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777559121.0"></span>
+                                    <span data-timestamp="1777562095.0"></span>
                                 </div>
                                 
                             </div>
@@ -1493,20 +1482,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/ideas/2026/04/creative-labor-ai-copyright/687000/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/Nt41bqG00rlBk77s8I4tR2vE0mU=/0x3:2000x1045/1200x625/media/img/mt/2026/04/2026_04_29_copyright_AI2_mpg/original.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/fa34b7fa4b1128132c4cb04504f8108b473af0c8/542_0_5417_4334/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2d4806f782697405af8eeb0b63737a2');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theatlantic.com/ideas/2026/04/creative-labor-ai-copyright/687000/" target="_blank" onclick="event.stopPropagation();">The Secret Weapon Against AI Dominance</a>
+                            <a href="https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database" target="_blank" onclick="event.stopPropagation();">Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The future of creative labor will turn on whether AI-generated work can be copyrighted.
+                            A startup was left scrambling after a rogue AI agent deleted swaths of code underpinning its business
                         </div>
                         
 
@@ -1516,9 +1505,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Atlantic" class="news-favicon">
-                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1526,7 +1515,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777550309.0"></span>
+                                    <span data-timestamp="1777500960.0"></span>
                                 </div>
                                 
                             </div>
@@ -1534,21 +1523,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-30/alphabet-amazon-outpace-meta-in-ai-during-earnings-bonanza', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2026/04/1584594_3840849_0005.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/" target="_blank" onclick="event.stopPropagation();">Mayo Clinic AI detects pancreatic cancer up to 3 years before diagnosis in landmark validation study</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-04-30/alphabet-amazon-outpace-meta-in-ai-during-earnings-bonanza" target="_blank" onclick="event.stopPropagation();">Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Mayo Clinic AI detects pancreatic cancer up to 3 years before diagnosis in landmark validation study. Learn more.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1557,9 +1542,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newsnetwork.mayoclinic.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Mayo Clinic News Network" class="news-favicon">
-                                    <a href="https://newsnetwork.mayoclinic.org" target="_blank" onclick="event.stopPropagation();">Mayo Clinic News Network</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1567,7 +1552,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777456800.0"></span>
+                                    <span data-timestamp="1777556933.0"></span>
                                 </div>
                                 
                             </div>
@@ -1575,20 +1560,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf?syn-25a6b1a6=1', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108299075-1777468800449-billboard_law.jpg?v=1777468992&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6c19e306-eaef-487a-9f9a-811f41370194.jpg?source=next-barrier-page');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html" target="_blank" onclick="event.stopPropagation();">Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere</a>
+                            <a href="https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Google outpaces rivals as Big Tech’s AI spending plans rise to $725bn</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Swedish startup Legora has raised more than $800 million in the past 12 months, and the latest deal values it at $5.6 billion.
+                            Meta stock drops on capex increase while Alphabet’s cloud business grows faster than rivals Amazon and Microsoft
                         </div>
                         
 
@@ -1598,9 +1583,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
                                     
                                 </div>
                                 
@@ -1608,7 +1593,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777525201.0"></span>
+                                    <span data-timestamp="1777515526.0"></span>
                                 </div>
                                 
                             </div>
@@ -1636,7 +1621,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-30T14:33:51.029266+00:00">Updated 2026-04-30T14:33:51.029266+00:00</small>
+        <small data-timestamp="2026-04-30T16:20:02.811327+00:00">Updated 2026-04-30T16:20:02.811327+00:00</small>
     </div>
 </div>
 
@@ -1910,10 +1895,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 457</span>
+                                    <span class="post-points">▲ 533</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 238</span>
+                                    <span style="color: #9ca3af;">💬 290</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1962,7 +1947,7 @@
                                     <span class="post-points">▲ 385</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 179</span>
+                                    <span style="color: #9ca3af;">💬 180</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2008,7 +1993,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 312</span>
+                                    <span class="post-points">▲ 313</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 278</span>
@@ -2155,7 +2140,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 239</span>
+                                    <span class="post-points">▲ 240</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 298</span>
@@ -2281,21 +2266,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47953011', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47956739', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://migrainebrain.bearblog.dev/static/og-image.png');"></div>
+                    <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47953011" target="_blank" onclick="event.stopPropagation();">"People who don't use AI will be left behind"</a>
+                            <a href="https://news.ycombinator.com/item?id=47956739" target="_blank" onclick="event.stopPropagation();">Mike: open-source legal AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            "People who don't use AI will be left behind", they say. 
-I can't emphasize enough how much I hate it when I hear/read shit like that because I'm pretty sur...
+                            An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable — built for law firms to own and extend.
                         </div>
                         
 
@@ -2303,26 +2287,26 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 163</span>
+                                    <span class="post-points">▲ 173</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 244</span>
+                                    <span style="color: #9ca3af;">💬 86</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-29T19:15:52Z"></span>
+                                    <span class="post-age" data-timestamp="2026-04-30T00:56:23Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://mikeoss.com/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://migrainebrain.bearblog.dev/favicon.ico" alt="" class="post-favicon">
+                                            <img src="https://mikeoss.com/favicon.ico?favicon.0xkclphn6z-6i.ico" alt="" class="post-favicon">
                                             
                                         
-                                        <span>migraine brain</span>
+                                        <span>mikeoss.com</span>
                                     </a>
                                 </div>
                                 
@@ -2351,7 +2335,7 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-30T14:33:29.231640+00:00">Updated 2026-04-30T14:33:29.231640+00:00</small>
+        <small data-timestamp="2026-04-30T16:19:39.926518+00:00">Updated 2026-04-30T16:19:39.926518+00:00</small>
     </div>
 </div>
 

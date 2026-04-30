@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T14:33:57.287716+00:00'
+updated: '2026-04-30T16:20:04.260335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 14:33 UTC  
+**Last Updated:** April 30, 2026 at 16:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,259.46
+### $2,265.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
+**24h:** -0.8%  
 **7d:** -2.2%  
 **30d:** +5.8%  
-**90d:** -7.7%  
-**1y:** +23.2%  
+**90d:** -7.8%  
+**1y:** +23.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Posted by Solidity Team on April 29, 2026
 
 What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
 
-🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 23h ago
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 1d ago
 
 ---
 
@@ -114,17 +114,17 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 
 ---
 
+**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
+
+23h ago
+
+---
+
 **[we talk decentralization in ethereum but use centralized messaging](https://www.reddit.com/r/ethereum/comments/1sy7w6u/we_talk_decentralization_in_ethereum_but_use/)**
 
 the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
 
 1d ago
-
----
-
-**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
-
-22h ago
 
 ---
 
@@ -152,7 +152,7 @@ so i track my trades pretty carefully and last month i did about $50k total acro
 
 The Federal Reserve held its benchmark interest rate steady again, a decision marked by Chair Jerome Powell's soon-to-expire tenure.
 
-Decrypt • 20h ago
+Decrypt • 22h ago
 
 ---
 
@@ -184,7 +184,27 @@ Decrypt • 1d ago
 
 Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 12h ago
+
+---
+
+**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
+
+TipRanks • 4h ago
 
 ---
 
@@ -192,37 +212,15 @@ Yahoo Finance • 1h ago
 
 A settlement layer is the base that underpins a host of blockchain activity.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
-**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.theglobeandmail.com/investing/markets/markets-news/motley/1612445/this-cryptocurrency-could-skyrocket-2-500-according-to-a-top-wall-street-strategist/)**
+**[Ethereum Price Downtrend Gains Pace—Is A Steeper Drop Ahead?](https://www.tradingview.com/news/newsbtc:4a9f99b55094b:0-ethereum-price-downtrend-gains-pace-is-a-steeper-drop-ahead/)**
 
-Motley Fool Press Release.
+Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover.Ethereum Price Dips FurtherEthereum price failed to remain stable above $2,320 and started a downside correction, like Bitcoin. ETH price dipped below the $2,300 and…
 
-The Globe and Mail • 4h ago
-
----
-
-**[Current price of Ethereum for April 30, 2026](https://fortune.com/article/price-of-ethereum-04-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, April 30, 2026: Values moving lower each morning this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-april-30-2026-values-moving-lower-each-morning-this-week-113359674.html)**
-
-Bitcoin opened at $75,752.12 on Thursday, the lowest opening price in over a week. The value of bitcoin rose to $76,130 by 7:18 a.m. ET. Ethereum opened at $2,252.45 on Thursday, the lowest opening price since April 13. Ethereum’s price rose to $2,268.50 by 7:18 a.m. ET.
-
-Yahoo Finance • 2h ago
-
----
-
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -236,7 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 281 • 👍 32 • 💬 5 • ⏱️ 9:18 • 38m ago
+👁️ 281 • 👍 32 • 💬 5 • ⏱️ 9:18 • 2h ago
 
 ---
 
@@ -256,7 +254,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 47K • 👍 2K • 💬 150 • ⏱️ 16:31 • 21h ago
+👁️ 47K • 👍 2K • 💬 150 • ⏱️ 16:31 • 23h ago
 
 ---
 
@@ -286,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 9 • ⏱️ 4:31 • 5h ago
+👁️ 108 • 👍 9 • ⏱️ 4:31 • 7h ago
 
 ---
 
@@ -316,7 +314,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 144 • 👍 31 • ⏱️ 6:47 • 50m ago
+👁️ 144 • 👍 31 • ⏱️ 6:47 • 2h ago
 
 ---
 
@@ -326,7 +324,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 500 • 💬 41 • ⏱️ 11:04 • 10h ago
+👁️ 3K • 👍 500 • 💬 41 • ⏱️ 11:04 • 12h ago
 
 ---
 

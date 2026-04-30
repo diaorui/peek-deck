@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T14:33:57.290893+00:00'
+updated: '2026-04-30T16:20:04.263584+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 14:33 UTC  
+**Last Updated:** April 30, 2026 at 16:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
 
-2h ago
+4h ago
+
+---
+
+**[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
+
+13h ago
 
 ---
 
@@ -44,19 +50,19 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 [ Removed by Reddit in response to a copyright notice. ]
 
-8h ago
-
----
-
-**[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
-
-11h ago
+10h ago
 
 ---
 
 **[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-21h ago
+23h ago
+
+---
+
+**[Robotics founders/engineers: what actually fails in real deployments?](https://www.reddit.com/r/robotics/comments/1szy6gu/robotics_foundersengineers_what_actually_fails_in/)**
+
+1h ago
 
 ---
 
@@ -78,7 +84,7 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 posting here since ive not been able to get any leads from anywhere (or im looking in the wrong places) Hey everyone! New here, (new in general to robotics as well :D) building EZ-InMoov as my first humanoid robot project. I'm trying to avoid buying the official EZ-Robot servos since they're quite expensive (i bought most of my servos and stuff from Temu, got em for really cheap). I know the specs I need (i think): - HDD Servo: 19kg/cm @ 7.4V Width: 4.5 cm Length: 3.5 cm Height: 2.0 cm - Micro Servo: 7kg/cm @ 7.4V Width: 4.0 Length: 3.0 Height: 1.0 cm Has anyone successfully used third-party servo alternatives that fit the EZ-InMoov mounting points? I'm mainly concerned about physical dimensions and mounting tab compatibility since I know the mounts are designed around the EZ-Robot servos specifically. Any leads would be amazing thanks!﻿﻿
 
-11h ago
+12h ago
 
 ---
 
@@ -92,15 +98,7 @@ posting here since ive not been able to get any leads from anywhere (or im looki
 
 A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
 
-21h ago
-
----
-
-**[All3 raises $25M seed to scale AI‑powered construction robotics](https://www.reddit.com/r/robotics/comments/1syzo7p/all3_raises_25m_seed_to_scale_aipowered/)**
-
-How fast can humanoid robitics and world models get up to speed on construction sites - chaotic, variable, risk, full of people and hazards --- its a big step up even from the production floor of car factory.
-
-🔗 [deadstack.net](https://deadstack.net/cluster/all3-raises-25m-seed-to-scale-ai-powered) • 1d ago
+23h ago
 
 ---
 
@@ -112,7 +110,7 @@ How fast can humanoid robitics and world models get up to speed on construction 
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -120,13 +118,13 @@ Financial Times • 15h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
 **[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
 
-WSJ • 14h ago
+WSJ • 16h ago
 
 ---
 
@@ -138,14 +136,6 @@ WIRED • 1d ago
 
 ---
 
-**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
-
-Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
-
-The Guardian • 1d ago
-
----
-
 **[Japan Airlines trials humanoid robots as ground handlers](https://www.bbc.com/news/articles/cpwp87j1llvo)**
 
 These robots may in future help clean cabins and operate ground support equipment.
@@ -154,9 +144,25 @@ BBC • 2d ago
 
 ---
 
+**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
+
+Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
+
+The Guardian • 2d ago
+
+---
+
 **[Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year](https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year)**
 
-Bloomberg.com • 33m ago
+Bloomberg.com • 2h ago
+
+---
+
+**[Rethinking robotics with physical intelligence](https://www.darpa.mil/news/2026/rethinking-robotics)**
+
+DARPA is looking to tackle these challenges by embedding intelligence directly into the physical materials of robotic systems.
+
+darpa.mil • 20h ago
 
 ---
 
@@ -164,15 +170,7 @@ Bloomberg.com • 33m ago
 
 A team of students from Northampton High School is taking its talents to the global stage, as Team 1908 “ShoreBots” travels to Houston this week to compete in the FIRST Robotics Competition World Championship. The team, representing Virginia’s Eastern Shore, will face off against more than 600 teams from around the world, including competitors from China, Turkey, Mexico, Canada, Israel, ... Read More
 
-Shore Daily News • 5h ago
-
----
-
-**[A North Texas high school robotics team is one of the best in the world. Now, they're heading to the World Championship to prove it](https://www.wfaa.com/article/news/local/collin-county/allen-robotics-team-heads-to-world-championship-with-top-global-ranking-and-historic-season/287-29837af8-ba67-4138-93b3-3efdf5e09bcc)**
-
-WORLDS BEST | A North Texas high school robotics team is already ranked one of the best in the world. Now, they're ending a historic season at a World Championship.
-
-WFAA • 2d ago
+Shore Daily News • 6h ago
 
 ---
 
@@ -180,7 +178,7 @@ WFAA • 2d ago
 
 For three Detroit robotics teams, qualifying for a world championship is a fitting reward for the teams and a host of Detroiters they represent.
 
-Detroit Free Press • 2h ago
+Detroit Free Press • 3h ago
 
 ---
 
@@ -204,7 +202,7 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 Joanna Stern
 
-👁️ 82K • 👍 4K • 💬 522 • ⏱️ 11:11 • 23h ago
+👁️ 82K • 👍 4K • 💬 522 • ⏱️ 11:11 • 1d ago
 
 ---
 
@@ -264,7 +262,7 @@ Sony's advanced robot Ace has gone head to head with elite athletes, showcasing 
 
 📺 Global Update
 
-👁️ 53K • 💬 79 • ⏱️ 4:00 • 5d ago
+👁️ 53K • 💬 79 • ⏱️ 4:00 • 6d ago
 
 ---
 
