@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T16:20:04.260335+00:00'
+updated: '2026-04-30T17:50:47.890350+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 16:20 UTC  
+**Last Updated:** April 30, 2026 at 17:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.2%  
-**30d:** +5.8%  
-**90d:** -7.8%  
-**1y:** +23.1%  
+**24h:** +0.8%  
+**7d:** -2.5%  
+**30d:** +5.5%  
+**90d:** -8.0%  
+**1y:** +22.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.56B
+**Market Cap:** $272.17B
 Rank #2
 
 **Circulating Supply:** 120,687,805 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.3%
+-54.4%
 
 **All-Time Low:** $0.43
-+522431.1%
++520862.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 
 **[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -124,7 +124,7 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 
 the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
 
-1d ago
+2d ago
 
 ---
 
@@ -152,7 +152,7 @@ so i track my trades pretty carefully and last month i did about $50k total acro
 
 The Federal Reserve held its benchmark interest rate steady again, a decision marked by Chair Jerome Powell's soon-to-expire tenure.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -180,11 +180,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
+**[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
 
-Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
+ethereum.org • 1h ago
 
-Yahoo Finance • 3h ago
+---
+
+**[MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested](https://finance.yahoo.com/markets/crypto/articles/megaeth-token-launches-ethereum-layer-162601888.html)**
+
+Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,13 +204,13 @@ Fortune • 1d ago
 
 **['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
-Forbes • 12h ago
+Forbes • 14h ago
 
 ---
 
 **[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
 
-TipRanks • 4h ago
+TipRanks • 6h ago
 
 ---
 
@@ -212,15 +218,7 @@ TipRanks • 4h ago
 
 A settlement layer is the base that underpins a host of blockchain activity.
 
-The Motley Fool • 6h ago
-
----
-
-**[Ethereum Price Downtrend Gains Pace—Is A Steeper Drop Ahead?](https://www.tradingview.com/news/newsbtc:4a9f99b55094b:0-ethereum-price-downtrend-gains-pace-is-a-steeper-drop-ahead/)**
-
-Ethereum price started a fresh decline and traded below $2,265. ETH is now consolidating above $2,220 and might struggle to recover.Ethereum Price Dips FurtherEthereum price failed to remain stable above $2,320 and started a downside correction, like Bitcoin. ETH price dipped below the $2,300 and…
-
-TradingView • 13h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -228,13 +226,13 @@ TradingView • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM IS DOING SOMETHING VERY UNUSUALY RIGHT NOW](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
+**[ETHEREUM IS DOING SOMETHING VERY UNUSUAL RIGHT NOW](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
 
 📺 Tyler Hill Crypto
 
-👁️ 281 • 👍 32 • 💬 5 • ⏱️ 9:18 • 2h ago
+👁️ 1K • 👍 106 • 💬 139 • ⏱️ 9:18 • 3h ago
 
 ---
 
@@ -244,17 +242,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 1K • 👍 68 • 💬 34 • ⏱️ 10:21 • 1d ago
-
----
-
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
-
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
-
-📺 Paul Barron Network
-
-👁️ 47K • 👍 2K • 💬 150 • ⏱️ 16:31 • 23h ago
+👁️ 1K • 👍 68 • 💬 35 • ⏱️ 10:21 • 1d ago
 
 ---
 
@@ -268,13 +256,23 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 ---
 
+**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+
+Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+
+📺 Paul Barron Network
+
+👁️ 49K • 👍 2K • 💬 153 • ⏱️ 16:31 • 1d ago
+
+---
+
 **[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
 
 Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
 
 📺 Digital Asset News
 
-👁️ 27K • 👍 1K • 💬 146 • ⏱️ 23:39 • 1d ago
+👁️ 27K • 👍 1K • 💬 147 • ⏱️ 23:39 • 1d ago
 
 ---
 
@@ -284,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 9 • ⏱️ 4:31 • 7h ago
+👁️ 177 • 👍 11 • ⏱️ 4:31 • 8h ago
 
 ---
 
@@ -294,17 +292,7 @@ Ethereum has recovered 40 percent from the February lows and is now approaching 
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 381 • 💬 39 • ⏱️ 19:23 • 1d ago
-
----
-
-**[CRITICAL ETHEREUM LEVEL HERE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-Y11mlkRmMA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 299 • 👍 14 • ⏱️ 5:22 • 1d ago
+👁️ 7K • 👍 382 • 💬 29 • ⏱️ 19:23 • 1d ago
 
 ---
 
@@ -314,17 +302,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 144 • 👍 31 • ⏱️ 6:47 • 2h ago
+👁️ 393 • 👍 56 • ⏱️ 6:47 • 4h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. DAS könnte uns heute explodieren oder implodieren lassen!! AUFPASSEN!](https://www.youtube.com/watch?v=g_giYxLNVtc)**
+**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
 
-📺 Krypto Trading & Investing
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 500 • 💬 41 • ⏱️ 11:04 • 12h ago
+👁️ 7K • 👍 421 • 💬 204 • ⏱️ 14:02 • 2d ago
+
+---
+
+**[CRITICAL ETHEREUM LEVEL HERE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-Y11mlkRmMA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 308 • 👍 14 • ⏱️ 5:22 • 1d ago
 
 ---
 

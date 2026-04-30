@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T16:20:04.263584+00:00'
+updated: '2026-04-30T17:50:47.894138+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 16:20 UTC  
+**Last Updated:** April 30, 2026 at 17:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
 
-4h ago
+5h ago
 
 ---
 
 **[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -50,19 +50,43 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 [ Removed by Reddit in response to a copyright notice. ]
 
-10h ago
+11h ago
 
 ---
 
 **[Robot Camera Arm on Rails Filming a Running Scene](https://www.reddit.com/r/robotics/comments/1sz54y6/robot_camera_arm_on_rails_filming_a_running_scene/)**
 
-23h ago
+1d ago
+
+---
+
+**[Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month](https://www.reddit.com/r/robotics/comments/1t021sl/japan_airlines_is_officially_deploying_humanoid/)**
+
+Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
+
+55m ago
+
+---
+
+**[Inside delivery robots factory: assembly and testing](https://www.reddit.com/r/robotics/comments/1t01qm1/inside_delivery_robots_factory_assembly_and/)**
+
+https://reddit.com/link/1t01qm1/video/jeupxczavcyg1/player A breakdown of how delivery robots are built and tested https://medium.com/p/aa1faad7d4a4
+
+1h ago
+
+---
+
+**[The Loneliness of the Middle Distance Trucker](https://www.reddit.com/r/robotics/comments/1t03cak/the_loneliness_of_the_middle_distance_trucker/)**
+
+Short-range autonomy in industrial settings gets framed differently than highway driving. The focus is on repeatable routes, low speeds, and environments where conditions stay relatively consistent. More of the challenge sits in near-field perception and precision. Tight spaces, docking, and constant start-stop movement leave less room for error, so coverage and control matter more than long-distance sensing. Autonomy also ties into a larger sequence of actions. Movement is just one step alongside loading and unloading, so timing and coordination become part of the system. It leans into a pattern where constraints make the problem more tractable early on, with reliability taking priority before expanding into less predictable environments.
+
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 9m ago
 
 ---
 
 **[Robotics founders/engineers: what actually fails in real deployments?](https://www.reddit.com/r/robotics/comments/1szy6gu/robotics_foundersengineers_what_actually_fails_in/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -80,28 +104,6 @@ Carnegie Mellon’s Martial Hebert explains that the underlying technology for s
 
 ---
 
-**[Compatible servo alternatives for EZ-Robot's HDD and Micro HDD Servos](https://www.reddit.com/r/robotics/comments/1szkld5/compatible_servo_alternatives_for_ezrobots_hdd/)**
-
-posting here since ive not been able to get any leads from anywhere (or im looking in the wrong places) Hey everyone! New here, (new in general to robotics as well :D) building EZ-InMoov as my first humanoid robot project. I'm trying to avoid buying the official EZ-Robot servos since they're quite expensive (i bought most of my servos and stuff from Temu, got em for really cheap). I know the specs I need (i think): - HDD Servo: 19kg/cm @ 7.4V Width: 4.5 cm Length: 3.5 cm Height: 2.0 cm - Micro Servo: 7kg/cm @ 7.4V Width: 4.0 Length: 3.0 Height: 1.0 cm Has anyone successfully used third-party servo alternatives that fit the EZ-InMoov mounting points? I'm mainly concerned about physical dimensions and mounting tab compatibility since I know the mounts are designed around the EZ-Robot servos specifically. Any leads would be amazing thanks!﻿﻿
-
-12h ago
-
----
-
-**[A robot, that picks up balls and shoots them into a container.](https://www.reddit.com/r/robotics/comments/1sxxue2/a_robot_that_picks_up_balls_and_shoots_them_into/)**
-
-2d ago
-
----
-
-**[Built an open-source tool to make rosbag analysis as easy as pandas and with semantic search on rosbags](https://www.reddit.com/r/robotics/comments/1sz4w05/built_an_opensource_tool_to_make_rosbag_analysis/)**
-
-A pattern I see in every robotics team I've talked to: Record terabytes of bag data. Want to analyze it later. Write a throwaway Python script. Repeat from step 3 forever. So I built RosBag Resurrector — open source, MIT, no ROS install required. Treats a bag like a pandas DataFrame so you stop writing one-off scripts. from resurrector import BagFrame bf = BagFrame("experiment.mcap") df = bf["/joint_states"].to_polars() bf.health_report() # quality score 0–100 The tool also handles: Multi-stream sync (nearest / interpolate / sample-and-hold) Health scoring (dropped messages, time gaps, anomalies) ML-ready export (Parquet, HDF5, LeRobot, RLDS) Semantic search over video frames using plain English (CLIP-powered) PlotJuggler-compatible WebSocket bridge Web dashboard with brush-zoom, annotations, cross-bag overlay Open a 100 GB bag without OOM — memory is bounded by chunk size, not bag size. pip install rosbag-resurrector resurrector demo --full GitHub: https://github.com/vikramnagashoka/rosbag-resurrector This is a fresh release and I'm actively looking for feedback. If you've ever written a "compare two runs" or "find that one weird interval" script for rosbag data, I'd love to know what you wished it could do. Compare runs across rosbags Semantic search - search your rosbags for the exact frames with just English queries
-
-23h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -110,7 +112,7 @@ A pattern I see in every robotics team I've talked to: Record terabytes of bag d
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 16h ago
+Financial Times • 18h ago
 
 ---
 
@@ -118,21 +120,19 @@ Financial Times • 16h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
 **[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
 
-WSJ • 16h ago
+WSJ • 18h ago
 
 ---
 
-**[I've Covered Robots for Years. This One Is Different](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)**
+**[Chinese robotics company opens U.S. headquarters in Richardson](https://www.dallasnews.com/business/local-companies/article/pudu-major-global-robotics-company-opens-u-s-22233042.php)**
 
-From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
-
-WIRED • 1d ago
+Dallas News • 1h ago
 
 ---
 
@@ -154,15 +154,7 @@ The Guardian • 2d ago
 
 **[Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year](https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Rethinking robotics with physical intelligence](https://www.darpa.mil/news/2026/rethinking-robotics)**
-
-DARPA is looking to tackle these challenges by embedding intelligence directly into the physical materials of robotic systems.
-
-darpa.mil • 20h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -170,7 +162,15 @@ darpa.mil • 20h ago
 
 A team of students from Northampton High School is taking its talents to the global stage, as Team 1908 “ShoreBots” travels to Houston this week to compete in the FIRST Robotics Competition World Championship. The team, representing Virginia’s Eastern Shore, will face off against more than 600 teams from around the world, including competitors from China, Turkey, Mexico, Canada, Israel, ... Read More
 
-Shore Daily News • 6h ago
+Shore Daily News • 8h ago
+
+---
+
+**[Central Coast robotics team headed for world championship](https://www.ksbw.com/article/central-coast-robotics-team-world-championship/71166858)**
+
+The Hephaestus Robotics advances to word championship after regional competition win
+
+KSBW • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ Shore Daily News • 6h ago
 
 For three Detroit robotics teams, qualifying for a world championship is a fitting reward for the teams and a host of Detroiters they represent.
 
-Detroit Free Press • 3h ago
+Detroit Free Press • 4h ago
 
 ---
 
@@ -192,7 +192,17 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 115K • 👍 2K • 💬 149 • ⏱️ 24:02 • 1d ago
+👁️ 124K • 👍 2K • 💬 161 • ⏱️ 24:02 • 1d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Johnson Division - Day 2](https://www.youtube.com/watch?v=KTlZmUXbwfA)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Johnson Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 10K • 👍 85 • 4d ago
 
 ---
 
@@ -202,7 +212,67 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 Joanna Stern
 
-👁️ 82K • 👍 4K • 💬 522 • ⏱️ 11:11 • 1d ago
+👁️ 88K • 👍 4K • 💬 554 • ⏱️ 11:11 • 1d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Curie Division - Day 2](https://www.youtube.com/watch?v=L3rKKEPwgSc)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Curie Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 9K • 👍 84 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Day 2](https://www.youtube.com/watch?v=6S3yUiqRmOg)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 9K • 👍 81 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 2](https://www.youtube.com/watch?v=zNErTM4PsYg)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 10K • 👍 105 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 2](https://www.youtube.com/watch?v=7ed1n2aSBlg)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 12K • 👍 149 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Day 2](https://www.youtube.com/watch?v=p7gihZzlGIw)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 8K • 👍 82 • 4d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Day 2](https://www.youtube.com/watch?v=qez41N1qB9s)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Broadcast Day 2 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 9K • 👍 83 • 4d ago
 
 ---
 
@@ -212,77 +282,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 13K • 👍 285 • 💬 36 • ⏱️ 4:53 • 4d ago
-
----
-
-**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
-
-Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
-
-📺 Carros Show
-
-👁️ 14K • 👍 401 • 💬 44 • ⏱️ 8:27 • 2d ago
-
----
-
-**[China Just Built An AI Robot Army](https://www.youtube.com/watch?v=omtM-tl1Sj8)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots China is no longer just building robots for factories ...
-
-📺 PRO ROBOTS
-
-👁️ 12K • 👍 354 • 💬 43 • ⏱️ 18:35 • 4d ago
-
----
-
-**[Best Vex Override Robot Designs! (Early Season)](https://www.youtube.com/watch?v=SrxsSzHNpB0)**
-
-Early season Override is already being talked about like crazy. In this video I break down 2 robot designs that I think have serious ...
-
-📺 Luke does robotics
-
-👁️ 11K • 👍 382 • 💬 64 • ⏱️ 12:17 • 1d ago
-
----
-
-**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=uQjIq625BqQ)**
-
-ABC News' Britt Clennett explores the world's newest robot, the humanoid, which can run, dance and fight as well, if not better ...
-
-📺 ABC News
-
-👁️ 26K • 👍 288 • 💬 131 • ⏱️ 7:55 • 1d ago
-
----
-
-**[Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches](https://www.youtube.com/watch?v=VVEzgYxDdrc)**
-
-Sony's advanced robot Ace has gone head to head with elite athletes, showcasing incredible speed, precision and reaction times ...
-
-📺 Global Update
-
-👁️ 53K • 💬 79 • ⏱️ 4:00 • 6d ago
-
----
-
-**[Sony’s Ace: Ping Pong Robot](https://www.youtube.com/watch?v=3EDxvBW-Asc)**
-
-Sony's Ace robot beat a top-25 world-ranked ping-pong pro under full Olympic rules - the first robot to do in 43 years of research.
-
-📺 ZAUEY (Claire Zau)
-
-👁️ 14K • 👍 1K • 💬 54 • ⏱️ 2:56 • 2d ago
-
----
-
-**[Amazon&#39;s GEN 3.5 AI Robot Launch (AI NEWS)](https://www.youtube.com/watch?v=dhUXlqBttw0)**
-
-NEURA Robotics has established a strategic partnership with Amazon to deploy the 4NE1 humanoid robot into logistics ...
-
-📺 AI News
-
-👁️ 5K • 👍 135 • 💬 15 • ⏱️ 8:19 • 6d ago
+👁️ 13K • 👍 286 • 💬 36 • ⏱️ 4:53 • 4d ago
 
 ---
 
