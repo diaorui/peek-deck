@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T20:39:23.490480+00:00'
+updated: '2026-04-30T21:57:02.615407+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 20:39 UTC  
+**Last Updated:** April 30, 2026 at 21:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -2.2%  
-**30d:** +5.8%  
-**90d:** -7.8%  
-**1y:** +23.1%  
+**24h:** -0.1%  
+**7d:** -2.5%  
+**30d:** +5.5%  
+**90d:** -8.1%  
+**1y:** +22.8%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Someone Has Been Winning 93% of Their Bets on US Military Strikes. Trump's Son Sits on Polymarket's Board](https://www.reddit.com/r/ethereum/comments/1t09f6r/someone_has_been_winning_93_of_their_bets_on_us/)**
+
+A single trader won 93% of five-figure bets on unannounced US and Israeli military operations. The blockchain records every transaction. Nobody has been charged. Trump Jr. advises the platform.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 36m ago
+
+---
+
 **[Daily General Discussion April 30, 2026](https://www.reddit.com/r/ethereum/comments/1szmeic/daily_general_discussion_april_30_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[i mass $50k worth of trades across 4 chains last month. the amount i lost to fragmented liquidity is embarrassing.](https://www.reddit.com/r/ethereum/comments/1sy0hli/i_mass_50k_worth_of_trades_across_4_chains_last/)**
-
-so i track my trades pretty carefully and last month i did about $50k total across ethereum mainnet, arbitrum, base, and polygon. mix of swaps and some perp positions. went back and compared what i actually got vs what i would have gotten if all that liquidity was in one place. rough math but the difference was somewhere around 2-3% worse execution overall. on $50k that's over a thousand dollars just gone because the same token has different prices and different depth on every chain. the problem isn't that good DEXs don't exist. uniswap on mainnet is fine. aerodrome on base is fine. the problem is that liquidity is split across all of them and none of them talk to each other at the execution layer. aggregators help but they're routing across pools, not unifying them. there's a difference. routing finds the best existing pool. unification means all orders exist in one book regardless of what chain you're on. one is a bandaid, the other is a fix. what i actually want: deposit from any chain without bridging trade against one unified order book settle on whatever chain i want verify that my order was matched fairly sounds simple but literally nobody does all four of these. some do cross-chain deposits (but through bridges which defeats the purpose). some have decent order books (but single chain only). nobody combines unified liquidity with verifiable execution across chains. anyone found a setup that actually solves this or are we all just eating the fragmentation tax and pretending it's fine
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,17 +164,17 @@ Fortune • 2d ago
 
 ---
 
-**[Bit Digital, Inc (BTBT): How’s Out With Bitcoin, in With Ethereum Going?](https://finance.yahoo.com/markets/crypto/articles/bit-digital-inc-btbt-bitcoin-202631623.html)**
+**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
 
-Bit Digital, Inc (NASDAQ:BTBT) is among the best cryptocurrency stocks to buy right now. Bit Digital, Inc (NASDAQ:BTBT) continues to build its Ethereum business as it transitions away from Bitcoin mining operations. On April 7, the company announced that its Ethereum treasury holding stood at around 155,444.4 ETH at the end of March 2026. In […]
+Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
 **['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -182,7 +182,7 @@ Forbes • 17h ago
 
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-The Motley Fool • 9h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -214,13 +214,13 @@ Cryptonews • 1d ago
 
 The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
 
-Coinpedia • 13h ago
+Coinpedia • 15h ago
 
 ---
 
 **[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
 
-TipRanks • 8h ago
+TipRanks • 10h ago
 
 ---
 
@@ -234,7 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 133 • 💬 19 • ⏱️ 9:18 • 6h ago
+👁️ 2K • 👍 133 • 💬 19 • ⏱️ 9:18 • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 2K • 👍 241 • 💬 15 • ⏱️ 19:05 • 4h ago
+👁️ 2K • 👍 241 • 💬 15 • ⏱️ 19:05 • 5h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 621 • 👍 65 • ⏱️ 6:47 • 6h ago
+👁️ 621 • 👍 65 • ⏱️ 6:47 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 228 • 👍 12 • ⏱️ 4:31 • 11h ago
+👁️ 228 • 👍 12 • ⏱️ 4:31 • 12h ago
 
 ---
 

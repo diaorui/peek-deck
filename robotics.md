@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-30T20:39:23.493192+00:00'
+updated: '2026-04-30T21:57:02.618217+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 30, 2026 at 20:39 UTC  
+**Last Updated:** April 30, 2026 at 21:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
 
-3h ago
+5h ago
 
 ---
 
 **[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 [ Removed by Reddit in response to a copyright notice. ]
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 Hello, I am new to robotics and simulation stuff. I was working on my PyBullet simulation of my robot, but the joints do not seem to be connected at all. I have tried everything from reassembling the CAD to checking if the origins are correct and even remaking some of the links, but I cannot figure it out at all any tips?
 
-23m ago
+1h ago
 
 ---
 
@@ -80,7 +80,23 @@ Hello, I am new to robotics and simulation stuff. I was working on my PyBullet s
 
 Short-range autonomy in industrial settings gets framed differently than highway driving. The focus is on repeatable routes, low speeds, and environments where conditions stay relatively consistent. More of the challenge sits in near-field perception and precision. Tight spaces, docking, and constant start-stop movement leave less room for error, so coverage and control matter more than long-distance sensing. Autonomy also ties into a larger sequence of actions. Movement is just one step alongside loading and unloading, so timing and coordination become part of the system. It leans into a pattern where constraints make the problem more tractable early on, with reliability taking priority before expanding into less predictable environments.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 2h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 4h ago
+
+---
+
+**[Help us best test the next ROS release (Lyrical Luth) and get free ROS swag!](https://www.reddit.com/r/robotics/comments/1t09vfz/help_us_best_test_the_next_ros_release_lyrical/)**
+
+We've just kicked off our annual Test and Tutorial Party for ROS 2 Lyrical Luth (the next ROS release)! We need community members to run a number of integration tests and help validate our tutorials ahead of the official release on May 22nd. If you've ever wanted to contribute to an open-source project, this is one of the easiest ways to get involved. 🎁 Our top 20 testers will get free Lyrical swag or an OSRA membership! All the details are over on Open Robotics Discourse. Happy testing!
+
+18m ago
+
+---
+
+**[Legs prototyping](https://www.reddit.com/r/robotics/comments/1t08kd9/legs_prototyping/)**
+
+Im going to a small robotics event soon so i am printing the legs to have the full body when i go. Even tho they won’t be functional
+
+1h ago
 
 ---
 
@@ -88,19 +104,7 @@ Short-range autonomy in industrial settings gets framed differently than highway
 
 https://reddit.com/link/1t01qm1/video/jeupxczavcyg1/player A breakdown of how delivery robots are built and tested https://medium.com/p/aa1faad7d4a4
 
-3h ago
-
----
-
-**[Robotics founders/engineers: what actually fails in real deployments?](https://www.reddit.com/r/robotics/comments/1szy6gu/robotics_foundersengineers_what_actually_fails_in/)**
-
 5h ago
-
----
-
-**[Walking the robot](https://www.reddit.com/r/robotics/comments/1syqbu9/walking_the_robot/)**
-
-1d ago
 
 ---
 
@@ -112,7 +116,7 @@ https://reddit.com/link/1t01qm1/video/jeupxczavcyg1/player A breakdown of how de
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 21h ago
+Financial Times • 22h ago
 
 ---
 
@@ -120,13 +124,13 @@ Financial Times • 21h ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
 **[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
 
-WSJ • 20h ago
+WSJ • 22h ago
 
 ---
 
@@ -156,7 +160,7 @@ BBC • 2d ago
 
 **[Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year](https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -172,15 +176,15 @@ darpa.mil • 1d ago
 
 A team of students from Northampton High School is taking its talents to the global stage, as Team 1908 “ShoreBots” travels to Houston this week to compete in the FIRST Robotics Competition World Championship. The team, representing Virginia’s Eastern Shore, will face off against more than 600 teams from around the world, including competitors from China, Turkey, Mexico, Canada, Israel, ... Read More
 
-Shore Daily News • 11h ago
+Shore Daily News • 12h ago
 
 ---
 
-**[Central Coast robotics team headed for world championship](https://www.ksbw.com/article/central-coast-robotics-team-world-championship/71166858)**
+**[Falmouth robotics team - in just its 2nd year - goes to world championship](https://www.capecodtimes.com/story/news/local/2026/04/30/falmouth-ma-high-school-robotics-championship-roar-e/89774875007/)**
 
-The Hephaestus Robotics advances to word championship after regional competition win
+High school robotics teams spend years trying to qualify for world competitions. Falmouth did it in just its second year.
 
-KSBW • 1d ago
+Cape Cod Times • 12h ago
 
 ---
 
