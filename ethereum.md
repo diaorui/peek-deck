@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T18:38:42.981544+00:00'
+updated: '2026-05-01T20:05:03.148118+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 18:38 UTC  
+**Last Updated:** May 01, 2026 at 20:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.5%  
-**30d:** +12.2%  
-**90d:** +1.6%  
-**1y:** +25.3%  
+**24h:** +2.1%  
+**7d:** -0.6%  
+**30d:** +12.1%  
+**90d:** +1.5%  
+**1y:** +25.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.94B
+**Market Cap:** $278.16B
 Rank #2
 
 **Circulating Supply:** 120,687,573 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.5%
+-53.4%
 
 **All-Time Low:** $0.43
-+531126.7%
++532029.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
-7h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 40m ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 9h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 8h ago
 
 ---
 
@@ -164,11 +164,27 @@ ethereum.org • 1d ago
 
 ---
 
+**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
+
+For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 20m ago
+CoinDesk • 1h ago
+
+---
+
+**[Ethereum ICO whale moves $23 million in ETH after 10-year dormancy](https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million)**
+
+The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
+
+The Block • 2d ago
 
 ---
 
@@ -176,7 +192,7 @@ CoinDesk • 20m ago
 
 Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,14 +204,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum On Path To A Continued Breakout - Will It Pull Other Altcoins? (ETH-USD)](https://seekingalpha.com/article/4897538-ethereum-path-continued-breakout-will-pull-other-altcoins)**
-
-Ethereum has slowly broken out of its October downtrend that had led to its progressive but brutal 64% correction.
-
-Seeking Alpha • 1h ago
-
----
-
 **[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -204,25 +212,17 @@ Fortune • 2d ago
 
 ---
 
+**[Ethereum On Path To A Continued Breakout - Will It Pull Other Altcoins? (ETH-USD)](https://seekingalpha.com/article/4897538-ethereum-path-continued-breakout-will-pull-other-altcoins)**
+
+Ethereum has slowly broken out of its October downtrend that had led to its progressive but brutal 64% correction.
+
+Seeking Alpha • 3h ago
+
+---
+
 **['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
 Forbes • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
-
-Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
-
-FXStreet • 15h ago
-
----
-
-**[Solana leads in quantum security with NIST-approved signatures, ahead of Ethereum](https://cryptobriefing.com/solana-leads-in-quantum-security-with-nist-approved-signatures-ahead-of-ethereum/)**
-
-Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
-
-Crypto Briefing • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 468 • 👍 43 • 💬 5 • ⏱️ 8:12 • 4h ago
+👁️ 814 • 👍 48 • 💬 7 • ⏱️ 8:12 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 113 • 💬 15 • ⏱️ 24:23 • 6h ago
+👁️ 4K • 👍 122 • 💬 18 • ⏱️ 24:23 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 173 • 💬 16 • ⏱️ 12:11 • 9h ago
+👁️ 1K • 👍 184 • 💬 18 • ⏱️ 12:11 • 11h ago
 
 ---
 
@@ -266,7 +266,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 187 • 💬 26 • ⏱️ 9:18 • 1d ago
+👁️ 4K • 👍 191 • 💬 26 • ⏱️ 9:18 • 1d ago
+
+---
+
+**[Crypto Hacks Are DESTROYING Ethereum &amp; Altcoins (Ft. Jupiter President)](https://www.youtube.com/watch?v=n4Io3PirMPA)**
+
+Ethereum and altcoins are bleeding from the largest wave of crypto hacks yet — and the timing couldn't be worse. AI is pulling ...
+
+📺 EllioTrades
+
+👁️ 1K • 👍 82 • 💬 8 • ⏱️ 1:20:25 • 34m ago
 
 ---
 
@@ -276,17 +286,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 2K • 👍 78 • 💬 36 • ⏱️ 10:21 • 2d ago
-
----
-
-**[BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v9F1_FHZCAU)**
-
-BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 270 • 💬 137 • ⏱️ 13:28 • 15h ago
+👁️ 2K • 👍 79 • 💬 36 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -296,27 +296,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 3K • 💬 169 • ⏱️ 16:31 • 2d ago
-
----
-
-**[Michael Saylor Just Admitted He Was Wrong. Bitcoin, Solana &amp; ETH.](https://www.youtube.com/watch?v=rrzcucFsbtQ)**
-
-Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelist to a crypto champion. What he said about Solana ...
-
-📺 Digital Asset News
-
-👁️ 28K • 👍 1K • 💬 149 • ⏱️ 23:39 • 3d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=nsPyRN4WPVc)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 388 • 👍 59 • ⏱️ 6:16 • 5h ago
+👁️ 60K • 👍 3K • 💬 169 • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -327,6 +307,26 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 📺 Thomas Kralow
 
 👁️ 25K • 👍 3K • 💬 33 • ⏱️ 5:55 • 2d ago
+
+---
+
+**[BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v9F1_FHZCAU)**
+
+BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 276 • 💬 199 • ⏱️ 13:28 • 16h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=nsPyRN4WPVc)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 624 • 👍 65 • ⏱️ 6:16 • 6h ago
 
 ---
 

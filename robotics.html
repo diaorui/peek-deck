@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-01T18:38:42.608636+00:00"
+          "dateModified": "2026-05-01T20:05:02.784347+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -715,6 +715,76 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NjFvcms1NXRsa3lnMVs4PlzGkmOZE1U3nRHtx_IktKq9KJ2ghMPXSRyxe_2G.png?width=640&crop=smart&auto=webp&s=6d709275c43804bbb0e5563f3f386807e7582b60" alt="Servo control jitter issues" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/" target="_blank" onclick="event.stopPropagation();">Servo control jitter issues</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- IP ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.02 rads per message. The MCU data handler triggers when new message arrives and send it to a 1 len queue so the servo tasks can go at its frequency without getting conditioned by the latency. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777660667.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t13jhs/i_designed_an_opensource_dual_brushed_dc_motor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/p5qnl0b2wkyg1.jpg?width=140&height=127&auto=webp&s=592cd481885441331cdcdc7aed142c31911a214b" alt="I Designed an Open-Source Dual Brushed DC Motor Driver around the RP2350 (4–40V, 6A Peak)" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t13jhs/i_designed_an_opensource_dual_brushed_dc_motor/" target="_blank" onclick="event.stopPropagation();">I Designed an Open-Source Dual Brushed DC Motor Driver around the RP2350 (4–40V, 6A Peak)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been working on a custom dual H-bridge brushed DC motor driver designed to replace those generic off-the-shelf motor modules for complex mobile robot platforms and robotic arms. I wanted a small all-in-one solution for robotics projects! It's built around the Raspberry Pi RP2350 (Pico 2) and the Texas Instruments DRV8412. Quick specs: Runs two brushed DC motors at up to 40 V (3A continuous, 6A peak per motor) Single wide voltage range power supply 4-40V Per bridge current sensing - ACS722 Full ASCII + binary command API over USB, UART, and I²C 4-layer 50x60mm PCB with a 3-stage clean logic power topology Closed-loop control (position/speed PIDs) at a 4 ms control period GUI for PID tuning If you want to check it out, I did a full video on it, and it is also on GitHub. Video: https://www.youtube.com/watch?v=DQ6VGJUASJw Github: https://github.com/MilosRasic98/OpenDualMotorDriver
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777664130.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0ijod/extendible_robotic_arm/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -741,6 +811,37 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1777608191.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bThtZGYyZzk0a3lnMdLh3efWEIOnog4MBgc1Em4UQkKKX9LEdTKuaiE5WD9v.png?width=320&crop=smart&auto=webp&s=9500cd153728821324ed9c0557ae6ab8d50014aa" alt="Industrial inspection!" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/" target="_blank" onclick="event.stopPropagation();">Industrial inspection!</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777654760.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -785,54 +886,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t146uu/ros_news_for_the_week_of_april_27th_2026/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/bThtZGYyZzk0a3lnMdLh3efWEIOnog4MBgc1Em4UQkKKX9LEdTKuaiE5WD9v.png?width=320&crop=smart&auto=webp&s=9500cd153728821324ed9c0557ae6ab8d50014aa" alt="Industrial inspection!" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/wG2Y2OlY3C4j53GHJFtUWrQOZvWa_AF6mdVo7OqPf1U.png?width=640&crop=smart&auto=webp&s=ad868ca372492f2bca19574a3cc7bece2f3632fc" alt="ROS News for the Week of April 27th, 2026" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/" target="_blank" onclick="event.stopPropagation();">Industrial inspection!</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777654760.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0y55i/inverse_timing_belt_diffrential_wrist_joint_2dof/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/x0inhbbqwjyg1.png?width=140&height=72&auto=webp&s=8f0c4fdec19c276c1578b361238c1af3e54907a7" alt="Inverse Timing Belt Diffrential Wrist Joint. (2-DOF)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t0y55i/inverse_timing_belt_diffrential_wrist_joint_2dof/" target="_blank" onclick="event.stopPropagation();">Inverse Timing Belt Diffrential Wrist Joint. (2-DOF)</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1t146uu/ros_news_for_the_week_of_april_27th_2026/" target="_blank" onclick="event.stopPropagation();">ROS News for the Week of April 27th, 2026</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            https://preview.redd.it/x0inhbbqwjyg1.png?width=1877&format=png&auto=webp&s=9e8eaf0c1a583647586175bcde574bd5e2e9ba97 https://preview.redd.it/xfsovxrtwjyg1.png?width=1644&format=png&auto=webp&s=0c39f6c67ad464bd7d8c3216dc277a70be7a64e4 https://preview.redd.it/ihcsypvvwjyg1.png?width=1404&format=png&auto=webp&s=0649af52eef4e0677b7da4b2fdf2d79ef6b39786 https://preview.redd.it/pcmiuv6xwjyg1.png?width=1969&format=png&auto=webp&s=af58229746460e6cfcb61145745d79e348da5a4c https://preview.redd.it/sby5io36xjyg1.png?width=1000&format=png&auto=webp&s=c8228b98f05a59a870bcfdf85b8dea4978a38fe2 A crossectional view of the belt paths
+                            ROS News for the Week of April 27th, 2026    The Lyrical Luth Test and Tutorial Party is live! We could really use your help testing this release. We’ve got over 3️⃣ 0️⃣ 0️⃣ 0️⃣ testing tickets we need to work through by May 14th, and we really need help from the community to make it happen! Up to date installation details can be found here. Our top 20 testers will get there choice of OSRA membership or ROS swag!       The ROS 2 Lyrical Luth Release Illustration and swag has been re...
                         </div>
                         
 
@@ -841,45 +911,25 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1777652495.0"></span>
+                                    <span data-timestamp="1777665582.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NjFvcms1NXRsa3lnMVs4PlzGkmOZE1U3nRHtx_IktKq9KJ2ghMPXSRyxe_2G.png?width=640&crop=smart&auto=webp&s=6d709275c43804bbb0e5563f3f386807e7582b60" alt="Servo control jitter issues" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/" target="_blank" onclick="event.stopPropagation();">Servo control jitter issues</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi, I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- 10.11.0.82 ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.01 rads per message. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777660667.0"></span>
+                                <div class="post-meta-item post-source">
+                                    <a href="https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-27th-2026/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Open Robotics Discourse</span>
+                                    </a>
                                 </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -921,41 +971,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t021sl/japan_airlines_is_officially_deploying_humanoid/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/wwT27uy3HWrNfdrDCqbiM_26hfQVZvz8iK6vHFTm54g.png?width=640&crop=smart&auto=webp&s=f160f0f438a0b55fea072a8f4447ee7fdf9ed092" alt="Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t021sl/japan_airlines_is_officially_deploying_humanoid/" target="_blank" onclick="event.stopPropagation();">Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777568095.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -979,7 +994,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-01T18:38:16.254561+00:00">Updated 2026-05-01T18:38:16.254561+00:00</small>
+        <small data-timestamp="2026-05-01T20:04:48.581609+00:00">Updated 2026-05-01T20:04:48.581609+00:00</small>
     </div>
 </div>
 
@@ -1165,96 +1180,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69f11fc37df9442e8d9b4374/191:100/w_1280,c_limit/20260320-wired-eka-robotics-0429.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/" target="_blank" onclick="event.stopPropagation();">I've Covered Robots for Years. This One Is Different</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777456800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb09e5413-2795-45e3-bb46-8dc5a8093113.jpg?source=next-barrier-page');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">SoftBank plans to list new AI and robotics company in the US</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Masayoshi Son plots IPO for business named Roze as soon as this year
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777505287.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/media-telecom/softbank-plans-list-new-ai-robotics-company-us-ft-reports-2026-04-29/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/business/media-telecom/softbank-plans-list-new-ai-robotics-company-us-ft-reports-2026-04-29/" target="_blank" onclick="event.stopPropagation();">SoftBank plans to list AI and robotics firm Roze in US, FT reports</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology" target="_blank" onclick="event.stopPropagation();">Meta Acquires Robotics AI Company to Help Build Humanoid Technology</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1266,9 +1199,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1276,44 +1209,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777506000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297" target="_blank" onclick="event.stopPropagation();">SoftBank Plots IPO for New Robotics Venture</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777506240.0"></span>
+                                    <span data-timestamp="1777654603.0"></span>
                                 </div>
                                 
                             </div>
@@ -1362,43 +1258,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology" target="_blank" onclick="event.stopPropagation();">Meta Acquires Robotics AI Company to Help Build Humanoid Technology</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777654603.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://qz.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-050126', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/api/media/file/GettyImages-2264388763-300x200.jpg');"></div>
@@ -1432,7 +1291,126 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777657317.0"></span>
+                                    <span data-timestamp="1777659215.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb09e5413-2795-45e3-bb46-8dc5a8093113.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">SoftBank plans to list new AI and robotics company in the US</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Masayoshi Son plots IPO for business named Roze as soon as this year
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777505287.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297" target="_blank" onclick="event.stopPropagation();">SoftBank Plots IPO for New Robotics Venture</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777506240.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1770697329&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html" target="_blank" onclick="event.stopPropagation();">SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777525879.0"></span>
                                 </div>
                                 
                             </div>
@@ -1559,6 +1537,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets" target="_blank" onclick="event.stopPropagation();">How Robotic Dogs are Guarding Ag Assets</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.agweb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="AgWeb" class="news-favicon">
+                                    <a href="https://www.agweb.com" target="_blank" onclick="event.stopPropagation();">AgWeb</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777591680.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1579,7 +1594,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-01T18:38:39.296118+00:00">Updated 2026-05-01T18:38:39.296118+00:00</small>
+        <small data-timestamp="2026-05-01T20:04:59.391368+00:00">Updated 2026-05-01T20:04:59.391368+00:00</small>
     </div>
 </div>
 
@@ -1811,7 +1826,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 180K</span>
+                                    <span style="color: #9ca3af;">👁️ 185K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1820,7 +1835,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 225</span>
+                                    <span style="color: #9ca3af;">💬 229</span>
                                 </div>
                                 
                             </div>
@@ -1831,66 +1846,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1777449637.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=XuQbxsAbEXg', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/XuQbxsAbEXg/hqdefault_live.jpg');">
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=XuQbxsAbEXg" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Day 3</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Broadcast Day 3 ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/KKg6rENwK37pvDMU8gJ9nS_m6laRSXrYja4YOpeWupJunNLhHJbioZT8Wrc064Px_e6OEaFYKg=s88-c-k-c0x00ffffff-no-rj" alt="FIRSTRoboticsCompetition" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCHA7zyPRS3VPDvl4ehss-zw" target="_blank" onclick="event.stopPropagation();">FIRSTRoboticsCompetition</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 6K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 50</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777223837.0"></span>
                                 </div>
                                 
                             </div>
@@ -1935,11 +1890,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 6K</span>
+                                    <span style="color: #9ca3af;">👁️ 10K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 62</span>
+                                    <span style="color: #9ca3af;">👍 76</span>
                                 </div>
                                 
                                 
@@ -1958,22 +1913,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=sK-gayyCsIk', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=mw71k7Pb33Q', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/sK-gayyCsIk/hqdefault_live.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/mw71k7Pb33Q/hqdefault_live.jpg');">
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=sK-gayyCsIk" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 3</a>
+                            <a href="https://www.youtube.com/watch?v=mw71k7Pb33Q" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Day 3</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 3 ...
+                            2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Broadcast Day 3 ...
                         </div>
                         
 
@@ -1995,11 +1950,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 6K</span>
+                                    <span style="color: #9ca3af;">👁️ 10K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 56</span>
+                                    <span style="color: #9ca3af;">👍 60</span>
                                 </div>
                                 
                                 
@@ -2010,7 +1965,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777224586.0"></span>
+                                    <span data-timestamp="1777225757.0"></span>
                                 </div>
                                 
                             </div>
@@ -2018,22 +1973,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=K4m0GSSTM18', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=XuQbxsAbEXg', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/K4m0GSSTM18/hqdefault_live.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/XuQbxsAbEXg/hqdefault_live.jpg');">
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=K4m0GSSTM18" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 3</a>
+                            <a href="https://www.youtube.com/watch?v=XuQbxsAbEXg" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Day 3</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 3 ...
+                            2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Broadcast Day 3 ...
                         </div>
                         
 
@@ -2055,11 +2010,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 7K</span>
+                                    <span style="color: #9ca3af;">👁️ 11K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 67</span>
+                                    <span style="color: #9ca3af;">👍 62</span>
                                 </div>
                                 
                                 
@@ -2070,67 +2025,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777225830.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=VqeEcZXbR5A', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/VqeEcZXbR5A/hqdefault_live.jpg');">
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=VqeEcZXbR5A" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Day 3</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Broadcast Day 3 ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/KKg6rENwK37pvDMU8gJ9nS_m6laRSXrYja4YOpeWupJunNLhHJbioZT8Wrc064Px_e6OEaFYKg=s88-c-k-c0x00ffffff-no-rj" alt="FIRSTRoboticsCompetition" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCHA7zyPRS3VPDvl4ehss-zw" target="_blank" onclick="event.stopPropagation();">FIRSTRoboticsCompetition</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 45</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777225643.0"></span>
+                                    <span data-timestamp="1777223837.0"></span>
                                 </div>
                                 
                             </div>
@@ -2177,7 +2072,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 255K</span>
+                                    <span style="color: #9ca3af;">👁️ 258K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2186,7 +2081,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 502</span>
+                                    <span style="color: #9ca3af;">💬 511</span>
                                 </div>
                                 
                             </div>
@@ -2197,6 +2092,186 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1777471289.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=K4m0GSSTM18', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/K4m0GSSTM18/hqdefault_live.jpg');">
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=K4m0GSSTM18" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 3</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 3 ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/KKg6rENwK37pvDMU8gJ9nS_m6laRSXrYja4YOpeWupJunNLhHJbioZT8Wrc064Px_e6OEaFYKg=s88-c-k-c0x00ffffff-no-rj" alt="FIRSTRoboticsCompetition" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCHA7zyPRS3VPDvl4ehss-zw" target="_blank" onclick="event.stopPropagation();">FIRSTRoboticsCompetition</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 12K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 105</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777225830.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=sK-gayyCsIk', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/sK-gayyCsIk/hqdefault_live.jpg');">
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=sK-gayyCsIk" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 3</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 3 ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/KKg6rENwK37pvDMU8gJ9nS_m6laRSXrYja4YOpeWupJunNLhHJbioZT8Wrc064Px_e6OEaFYKg=s88-c-k-c0x00ffffff-no-rj" alt="FIRSTRoboticsCompetition" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCHA7zyPRS3VPDvl4ehss-zw" target="_blank" onclick="event.stopPropagation();">FIRSTRoboticsCompetition</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 11K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 74</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777224586.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=VqeEcZXbR5A', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/VqeEcZXbR5A/hqdefault_live.jpg');">
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=VqeEcZXbR5A" target="_blank" onclick="event.stopPropagation();">2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Day 3</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Broadcast Day 3 ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/KKg6rENwK37pvDMU8gJ9nS_m6laRSXrYja4YOpeWupJunNLhHJbioZT8Wrc064Px_e6OEaFYKg=s88-c-k-c0x00ffffff-no-rj" alt="FIRSTRoboticsCompetition" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCHA7zyPRS3VPDvl4ehss-zw" target="_blank" onclick="event.stopPropagation();">FIRSTRoboticsCompetition</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 9K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 60</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777225643.0"></span>
                                 </div>
                                 
                             </div>
@@ -2243,11 +2318,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 31K</span>
+                                    <span style="color: #9ca3af;">👁️ 34K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 743</span>
+                                    <span style="color: #9ca3af;">👍 767</span>
                                 </div>
                                 
                                 
@@ -2309,16 +2384,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 28K</span>
+                                    <span style="color: #9ca3af;">👁️ 31K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 740</span>
+                                    <span style="color: #9ca3af;">👍 782</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 64</span>
+                                    <span style="color: #9ca3af;">💬 66</span>
                                 </div>
                                 
                             </div>
@@ -2329,68 +2404,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1777323508.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=ikrMt6We3gc', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ikrMt6We3gc/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:06</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=ikrMt6We3gc" target="_blank" onclick="event.stopPropagation();">This Paper-Thin Robot Lifts 70x Its Weight By Copying Human Muscles | Soft Robotics Breakthrough</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/MyvxXuUrupCZUXS0nMtM8a2gUe115OPXluxDX9lsSKxyR5StiD01XB52ksQwJCLsGaUE-0DMWOc=s88-c-k-c0x00ffffff-no-rj" alt="RiseX Venturess" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCrmHHRPZAiTIKDGZdgfM40w" target="_blank" onclick="event.stopPropagation();">RiseX Venturess</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 2K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 120</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777638786.0"></span>
                                 </div>
                                 
                             </div>
@@ -2418,7 +2431,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-01T17:06:57.384016+00:00">Updated 2026-05-01T17:06:57.384016+00:00</small>
+        <small data-timestamp="2026-05-01T20:04:53.735879+00:00">Updated 2026-05-01T20:04:53.735879+00:00</small>
     </div>
 </div>
 
