@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-01T08:30:03.442849+00:00'
+updated: '2026-05-01T10:08:42.666942+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 01, 2026 at 08:30 UTC  
+**Last Updated:** May 01, 2026 at 10:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 8h ago
+🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 10h ago
 
 ---
 
@@ -51,9 +51,25 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 ---
 
+**[Deepfakes don't have to be believed to work. They just have to consume the response budget.](https://www.reddit.com/r/artificial/comments/1t0jlc5/deepfakes_dont_have_to_be_believed_to_work_they/)**
+
+A framing I keep coming back to: a synthetic image or video can succeed even when almost nobody believes it. Not because it changes minds directly, but because it turns attention into the attacked resource. If a campaign, newsroom, platform, or company has to stop and answer the fake, the fake already got some of what it wanted: the defenders spend scarce time verifying and explaining the audience gets forced to process the claim anyway every debunk risks replaying the artifact institutions look reactive even when they are correct the attacker learns which themes reliably pull defenders into the loop So detection is necessary, but not sufficient. The second half of the system is distribution response. A few practical design questions I think matter more than the usual “can we detect it?” debate: Can we debunk without embedding, quoting, or rewarding the fake? Can provenance signals move suspicious media into slower lanes instead of binary takedown/leave-up decisions? Do newsrooms and platforms track attention budget as an operational constraint? Can response teams separate “this is false” from “this deserves broad amplification”? Can systems preserve evidence for verification while reducing replay value for the attacker? The failure mode is treating every fake as an information accuracy problem when some of them are closer to denial-of-service attacks on attention. Curious how people here would design the response layer. What should a healthy “quarantine lane” for synthetic media look like without becoming censorship-by-default?
+
+5h ago
+
+---
+
 **[Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)**
 
-🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php) • 14h ago
+🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php) • 16h ago
+
+---
+
+**[Text-to-image is easy. Chaining LLMs to generate, critique, and iterate on images autonomously is a routing nightmare. AgentSwarms now supports Image generation playground and creative media workflows!](https://www.reddit.com/r/artificial/comments/1t0ns35/texttoimage_is_easy_chaining_llms_to_generate/)**
+
+Hey everyone, If you’ve been building with AI agents, you know that orchestrating text is one thing, but stepping into multimodal workflows (Text + Image + Vision) is incredibly messy. If you want an agent to act as a "Prompt Engineer," pass that prompt to an "Image Generator," and then have a "Vision Agent" critique the output to force a re-roll—you are looking at hundreds of lines of Python boilerplate, messy API handshakes, and a terrible debugging experience when the loop breaks. I recently launched AgentSwarms, an in-browser sandbox for learning Agentic AI. Today, I am pushing a massive update: The Image Playground. What the feature actually does: Instead of fighting with code to test multimodal architectures, you can now drag, drop, and wire up text and image agents on a visual canvas to build creative workflows. Image Generation Nodes: Wire any text-output agent directly into an Image Node to autonomously generate visual assets. Vision AI Integration: Route generated images back into a Vision Node. You can instruct an agent to physically "look" at the generated image, evaluate it against your initial prompt, and trigger a loop to fix it if it hallucinated. Real-Time Data Flow: You can actually watch the payloads (the text prompts and the image outputs) flow across the node graph in real-time.
+
+1h ago
 
 ---
 
@@ -61,15 +77,15 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 I'm neither against AI nor for AI, but I'm simply trying to understand what you're looking for when you use AI (for text, images, etc.). I repeat, I am genuinely interested, i want to understand your vision as ai users. What was your vision of AI before, now, and for the future? Aren't you afraid of losing your ability to create yourself? What makes it better than learning to do things on your own (without it doing the same thing)? Do you find it inappropriate or hypocritical when someone asks you to stop using AI in artistic practice? Why? Finally, can you do without it (if tomorrow AI was gone, could you manage to do things anyway) ? Would you like to? SORRY FOR MY POOR ENGLISH (A FRENCH DUDE)
 
-7h ago
+9h ago
 
 ---
 
-**[Deepfakes don't have to be believed to work. They just have to consume the response budget.](https://www.reddit.com/r/artificial/comments/1t0jlc5/deepfakes_dont_have_to_be_believed_to_work_they/)**
+**[Is an AI SDR replacing “entry-level jobs” a feature or a bug?](https://www.reddit.com/r/artificial/comments/1t0oucl/is_an_ai_sdr_replacing_entrylevel_jobs_a_feature/)**
 
-A framing I keep coming back to: a synthetic image or video can succeed even when almost nobody believes it. Not because it changes minds directly, but because it turns attention into the attacked resource. If a campaign, newsroom, platform, or company has to stop and answer the fake, the fake already got some of what it wanted: the defenders spend scarce time verifying and explaining the audience gets forced to process the claim anyway every debunk risks replaying the artifact institutions look reactive even when they are correct the attacker learns which themes reliably pull defenders into the loop So detection is necessary, but not sufficient. The second half of the system is distribution response. A few practical design questions I think matter more than the usual “can we detect it?” debate: Can we debunk without embedding, quoting, or rewarding the fake? Can provenance signals move suspicious media into slower lanes instead of binary takedown/leave-up decisions? Do newsrooms and platforms track attention budget as an operational constraint? Can response teams separate “this is false” from “this deserves broad amplification”? Can systems preserve evidence for verification while reducing replay value for the attacker? The failure mode is treating every fake as an information accuracy problem when some of them are closer to denial-of-service attacks on attention. Curious how people here would design the response layer. What should a healthy “quarantine lane” for synthetic media look like without becoming censorship-by-default?
+Sat through a demo this week for one of these AI SDR tools and the pitch was in a nutshell: you don’t need junior sales reps anymore. (As in not even train them anymore just remove them.) To my surprise it worked. The tool was doing outbound, follow-ups, personalization, all the stuff junior SDRs grind through. Faster, cleaner, no complaints! But it did leave me feeling uneasy. That grindy, repetitive work is literally how most people get into sales. It’s where you learn how people respond, how messaging gets through, how to deal with rejection without taking it personally. That's how I got into it at least. So if AI wipes that layer out completely, what’s the path in? Are we just skipping straight to “hire experienced closers” and hoping they came from… where exactly? I’m not anti-AI (this stuff is obviously useful), but replacing enty-level humans as the first step in the process doesn't feel like a sustainable route.
 
-3h ago
+18m ago
 
 ---
 
@@ -77,7 +93,7 @@ A framing I keep coming back to: a synthetic image or video can succeed even whe
 
 Gen AI is everywhere, as top companies, governments, researchers, and startups showcase how they're already using Google's AI solutions to enhance their work.
 
-🔗 [Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) • 22h ago
+🔗 [Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) • 1d ago
 
 ---
 
@@ -85,7 +101,7 @@ Gen AI is everywhere, as top companies, governments, researchers, and startups s
 
 Zoom have just launched their Claude Connector bringing a whole host of data & information into your Claude workspace. As a Claude Cowork user, I took it for a test drive to understand where it could be utilised. There is so much data from meetings, chats, whiteboards etc. It helped identify areas where I can present better & run customer workshops more successfully! https://youtu.be/17gn-_2gbSY
 
-19m ago
+1h ago
 
 ---
 
@@ -93,23 +109,7 @@ Zoom have just launched their Claude Connector bringing a whole host of data & i
 
 A framing I keep coming back to: a synthetic image or video can succeed even when almost nobody believes it. Not because it changes minds directly, but because it turns attention into the attacked resource. If a campaign, newsroom, platform, or company has to stop and answer the fake, the fake already got some of what it wanted: the defenders spend scarce time verifying and explaining the audience gets forced to process the claim anyway every debunk risks replaying the artifact institutions look reactive even when they are correct the attacker learns which themes reliably pull defenders into the loop So detection is necessary, but not sufficient. The second half of the system is distribution response. A few practical design questions I think matter more than the usual “can we detect it?” debate: Can we debunk without embedding, quoting, or rewarding the fake? Can provenance signals move suspicious media into slower lanes instead of binary takedown/leave-up decisions? Do newsrooms and platforms track attention budget as an operational constraint? Can response teams separate “this is false” from “this deserves broad amplification”? Can systems preserve evidence for verification while reducing replay value for the attacker? The failure mode is treating every fake as an information accuracy problem when some of them are closer to denial-of-service attacks on attention. Curious how people here would design the response layer. What should a healthy “quarantine lane” for synthetic media look like without becoming censorship-by-default?
 
-4h ago
-
----
-
-**[Must your chatbot rat you out?](https://www.reddit.com/r/artificial/comments/1t0lrh1/must_your_chatbot_rat_you_out/)**
-
-New court cases may take chatbot conversations another step away from privacy You may recall that court cases have recently held users’ conversations with public “retail” chatbots like the publicly available versions of ChatGPT, Grok, Claude, etc. are not confidential, because the chatbot purveyor can look in on those conversations at will. (I have previously posted about that lack of privacy here.) However, certain private “enterprise” versions or other specially closed-off versions of chatbots may still offer confidentiality to users. Significantly in a time when many users are turning to chatbots as pseudo- or actual therapists, though, a cluster of just-brought federal court cases may have the effect of pushing users’ non-confidentiality even farther, to the point of forcing chatbots and their purveyors to affirmatively report to authorities or others when a user’s chatbot conversations credibly indicate the user plans to engage in violence against others. On April 29, 2026, three cases were filed in a California federal court against OpenAI, alleging the chatbot ChatGPT-4o “played a role” in the Tumbler Ridge Mass Shooting in British Columbia in February 2026, in which eight people including six children were killed, twenty-seven more people were wounded, and the shooter committed suicide. I recently posted about those new cases here. In previous AI cases where a chatbot company was sued for a user’s suicide, and in one case for a user committing murder, the plaintiffs alleged the chatbot took a well-adjusted person and turned them suicidal or murderous. In these new cases, however, the plaintiffs allege instead that the chatbot and its purveyor wrongly failed to carry out a legal duty to warn authorities or victims after a user displayed violence warning signs to the chatbot, to the point that the company at one point terminated the user’s account, before the user was later allowed to reinstate an account. In the law such a doctrine goes by the well-known phrase, “duty to warn.” There are currently no statutes or cases directly stating that a chatbot company has a “duty to warn,” although some pending legislation may be heading in that direction (and may do so even more in the face of these new cases). However, if in these new cases the chatbot purveyor is found liable or is forced to settle them for significant money, that would likely establish an AI duty to warn either as a point of law or at least as a practical matter. Presumably, that duty to warn would cover confidential as well as non-confidential chatbot conversations. The objection I have initially seen to such a new legal rule is that there are an awful lot of AI users engaging in roleplay, and chatbots and their purveyors have no way of telling whether the threat is real or just pretended. If these new cases succeed, that would most likely devolve to a practical risk calculation for the AI companies. If the companies believe they are on the line for failure to report actual violence risks, they would have to do the best they could to sort out the real dangers from the imagined or roleplayed ones and then act (warn) accordingly. In the situation underlying these new cases, OpenAI was concerned enough at one point to suspend the troubled user’s chatbot account. Consider, though, although self-policing might be seen as more informal and flexible than some mandatory governmental order to warn coming down, on the other hand self-policing is more likely to be amorphous and uncertain in its administration, consistency, and extent. When in the big federal OpenAI copyright case in New York it was ordered that millions of user chatbot conversations be turned over by OpenAI for keyword searching by the plaintiffs, there was some level of privacy outcry by AI users. Those millions of conversations were anonymized to remove personally identifying information, but of course an AI company’s report of violence risk would be the exact opposite. Likely not that many would object, at least in the abstract, to the reporting of actual threats of violence by dangerous, unstable AI users. However, given the potentially large margin of personal musings by users who aren’t (or don’t believe they are) dangerous, more user outcry forthcoming would not surprise. These new cases will likely take one to a few years to run their course. It will be interesting to see what will be the reaction in the meantime by AI companies and by chatbot users in general.
-
-1h ago
-
----
-
-**[Open-sourced a Lattice OS-inspired multi-sensor awareness system on commodity hardware. What's the ceiling for edge AI perception in 2025?](https://www.reddit.com/r/artificial/comments/1t0k8vt/opensourced_a_lattice_osinspired_multisensor/)**
-
-Anduril's Lattice OS concept has always fascinated me: a network of cheap heterogeneous sensors fused at the edge into a single AI-driven situational picture. The interesting question is how much of that is actually achievable today on non-classified hardware. Answer, at least at small scale: a surprising amount. I built OVERWATCH as a community reference implementation of the same idea. Multiple cameras (IP cameras + phones via browser), all feeding into a shared perception pipeline on a $500 Jetson Orin Nano. YOLOv8n TensorRT FP16 for detection, adaptive Kalman for tracking, self-calibrating cross-camera homography for fused world-model predictions. The part that surprised me most: the self-calibrating calibration. You don't tell the system anything about where cameras are. It watches for moments when two cameras see the same person simultaneously, records foot-point correspondence pairs, and computes the projective transform between camera coordinate systems on its own via RANSAC. After about 5 seconds of co-visibility it has a usable homography. It self-heals if a camera moves. In 2020 this would have required custom hardware, weeks of calibration, and a meaningful compute budget. In 2025 it runs on a dev kit. Repo: github.com/mandarwagh9/overwatch What other capabilities that were "enterprise-only" five years ago are now commoditized? Curious where people see the edge AI ceiling right now.
-
-3h ago
+5h ago
 
 ---
 
@@ -121,59 +121,49 @@ Anduril's Lattice OS concept has always fascinated me: a network of cheap hetero
 
 People describe awkward and unnatural process, as survey finds nearly half of job seekers have been interviewed by AI
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[Opinion | Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
-**[It’s a Weird Time to Be Named Claude](https://www.bloomberg.com/news/articles/2026-05-01/claude-ai-is-complicating-life-for-people-named-claude)**
+**[Exclusive: AI use booms in states, with mixed results](https://www.axios.com/2026/05/01/ai-states-mixed-results)**
 
-Bloomberg.com • 29m ago
-
----
-
-**[I Built an Agent to Do My Job. Then It Hung up on My Boss.](https://www.businessinsider.com/built-ai-agent-job-boss-replacement-2026-4)**
-
-Rather than wait to find out if AI will replace me, I built my replacement to report and write this story.
-
-Business Insider • 22m ago
+Axios • 1h ago
 
 ---
 
-**[Harvard, Jump off the AI Bandwagon](https://www.thecrimson.com/article/2026/5/1/editorial-harvard-ai-student-survery/)**
+**[Judge cuts off Musk’s AI doomsday talk as his testimony ends in OpenAI case](https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman)**
 
-To create an environment in which AI’s inevitable presence does not degrade scholarship, Harvard must incentivize students not to use AI when it’s harmful for learning.
+Trial continues after heated back-and-forth during OpenAI’s cross-examination of the Tesla CEO
 
-The Harvard Crimson • 1h ago
-
----
-
-**[How Sundar Pichai Pushed Google To the Front of the AI Race: 2026 TIME100 Most Influential Companies](https://time.com/collection/time100-most-influential-companies/2026/alphabet/)**
-
-Find out why How Sundar Pichai Pushed Google To the Front of the AI Race is on the list
-
-Time Magazine • 18h ago
+The Guardian • 13h ago
 
 ---
 
-**[Half of Google's and Amazon's 'blowout AI profits’ came from a stake in Anthropic—not from their actual business](https://fortune.com/2026/04/30/google-amazon-ai-profits-anthropic-stake-bubble-earnings-2026/)**
+**[Ready or Not, the AI Phones Are Coming](https://www.bloomberg.com/news/articles/2026-05-01/ready-or-not-the-ai-phones-are-coming)**
 
-Anthropic is the secret sauce this earnings season, as unrealized gains on the private company are so powerful they're adding billions of shareholder worth to their partners.
-
-Fortune • 15h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The AI earnings bonanza is splitting investors](https://finance.yahoo.com/sectors/technology/article/the-ai-earnings-bonanza-is-splitting-investors-152258508.html)**
+**[Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So](https://www.kqed.org/news/12081916/are-elon-musk-and-openai-fighting-an-ai-arms-race-sam-altmans-lawyers-think-so)**
 
-Wall Street was split on its reaction to the AI earnings bonanza Wednesday.
+The Tesla CEO faced more combative questions by Sam Altman’s and Microsoft’s attorneys Thursday, during the cross-examination portion of the OpenAI trial.
 
-Yahoo Finance • 17h ago
+KQED • 10h ago
+
+---
+
+**[AWS CEO dismisses AI job loss fears, says Amazon plans to hire 11,000 interns in 2026](https://www.businessinsider.com/aws-ceo-amazon-ai-coding-jobs-interns-hiring-2026-5)**
+
+The CEO said demand for software jobs is "accelerating." It comes as other AI leaders warn coding jobs are getting disrupted.
+
+Business Insider • 1h ago
 
 ---
 
@@ -189,7 +179,15 @@ OpenAI • 1d ago
 
 Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
 
-NPR • 14h ago
+NPR • 16h ago
+
+---
+
+**[How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 15h ago
 
 ---
 
@@ -209,7 +207,7 @@ An open-source cross-platform alternative to AirDrop - localsend/localsend
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 652 • 💬 434 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 655 • 💬 438 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -217,7 +215,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 389 • 💬 133 • 16h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 396 • 💬 137 • 17h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -249,7 +247,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 They built it. They're scared of it. They're selling it anyway.
 
-⬆️ 283 • 💬 217 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 283 • 💬 218 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 
 ---
 
@@ -273,7 +271,7 @@ If you liked this piece, please subscribe to my premium newsletter. It’s $70 a
 
 An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable — built for law firms to own and extend.
 
-⬆️ 198 • 💬 97 • 1d ago • [mikeoss.com](https://mikeoss.com/)
+⬆️ 199 • 💬 99 • 1d ago • [mikeoss.com](https://mikeoss.com/)
 
 ---
 
@@ -297,7 +295,7 @@ Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is re
 
 📺 TIME
 
-👁️ 51K • 👍 1K • 💬 66 • ⏱️ 6:44 • 15h ago
+👁️ 51K • 👍 1K • 💬 66 • ⏱️ 6:44 • 17h ago
 
 ---
 
@@ -307,7 +305,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are 
 
 📺 Dan Martell
 
-👁️ 87K • 👍 4K • 💬 199 • ⏱️ 26:44 • 19h ago
+👁️ 87K • 👍 4K • 💬 199 • ⏱️ 26:44 • 21h ago
 
 ---
 
@@ -327,7 +325,7 @@ Want to make your videos sound more cinematic and professional? ✓ Epidemic Sou
 
 📺 Raj Photo Editing and Much More
 
-👁️ 14K • 👍 1K • 💬 69 • ⏱️ 10:13 • 18h ago
+👁️ 14K • 👍 1K • 💬 69 • ⏱️ 10:13 • 20h ago
 
 ---
 
@@ -337,7 +335,7 @@ Access Wan 2.7 in OpenArt https://roboverse-ai.com/wan2-7 In this video, I break
 
 📺 Roboverse
 
-👁️ 10K • 💬 7 • ⏱️ 10:30 • 18h ago
+👁️ 10K • 💬 7 • ⏱️ 10:30 • 20h ago
 
 ---
 
@@ -465,7 +463,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 6,809 • ❤️ 178 • 18h ago
+⬇️ 6,809 • ❤️ 178 • 20h ago
 
 ---
 
@@ -475,7 +473,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 176 • 7d ago
+⬇️ 0 • ❤️ 176 • 8d ago
 
 ---
 
@@ -647,7 +645,7 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 51.6k • 🔱 2.7k • 7h ago
+⭐ 51.6k • 🔱 2.7k • 9h ago
 
 ---
 
@@ -657,7 +655,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.6k • 🔱 6.6k • 4h ago
+⭐ 50.6k • 🔱 6.6k • 6h ago
 
 ---
 
@@ -667,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 41.4k • 🔱 8.6k • 14h ago
+⭐ 41.4k • 🔱 8.6k • 15h ago
 
 ---
 
@@ -677,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 39.2k • 🔱 4.3k • 10h ago
+⭐ 39.2k • 🔱 4.3k • 12h ago
 
 ---
 
@@ -687,7 +685,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 11.3k • 🔱 2.5k • 3d ago
+⭐ 11.3k • 🔱 2.5k • 4d ago
 
 ---
 
@@ -727,7 +725,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 4.9k • 🔱 337 • 23h ago
+⭐ 4.9k • 🔱 337 • 1d ago
 
 ---
 
@@ -737,7 +735,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.7k • 🔱 356 • 6h ago
+⭐ 4.7k • 🔱 356 • 8h ago
 
 ---
 

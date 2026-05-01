@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T08:30:03.455734+00:00'
+updated: '2026-05-01T10:08:42.679697+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 08:30 UTC  
+**Last Updated:** May 01, 2026 at 10:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -1.4%  
-**30d:** +11.2%  
-**90d:** +0.7%  
-**1y:** +24.3%  
+**24h:** +1.0%  
+**7d:** -1.6%  
+**30d:** +11.0%  
+**90d:** +0.5%  
+**1y:** +24.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 A single trader won 93% of five-figure bets on unannounced US and Israeli military operations. The blockchain records every transaction. Nobody has been charged. Trump Jr. advises the platform.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 11h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 12h ago
 
 ---
 
@@ -80,7 +80,15 @@ A single trader won 93% of five-figure bets on unannounced US and Israeli milita
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+5h ago
+
+---
+
+**[Canada to create powerful financial crimes agency as US weakens its approach](https://www.reddit.com/r/ethereum/comments/1t0ompi/canada_to_create_powerful_financial_crimes_agency/)**
+
+Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
+
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 30m ago
 
 ---
 
@@ -138,12 +146,6 @@ the whole ethereum community preaches decentralization and taking back control b
 
 ---
 
-**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,13 +154,13 @@ the whole ethereum community preaches decentralization and taking back control b
 
 Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
 **[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
 
-ethereum.org • 16h ago
+ethereum.org • 17h ago
 
 ---
 
@@ -174,7 +176,7 @@ Fortune • 1d ago
 
 Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -182,7 +184,7 @@ Yahoo Finance • 19h ago
 
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -196,7 +198,7 @@ Forbes • 1d ago
 
 The fund, dubbed CUSHY, targets yield from onchain lending and private credit, offering tokenized access via Superstate for institutional investors.
 
-CoinDesk • 18h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -216,9 +218,9 @@ The Block • 2d ago
 
 ---
 
-**[Bitmine locks 77% of Ethereum holdings – Why $9B ETH bet matters](https://ambcrypto.com/bitmine-locks-77-of-ethereum-holdings-why-9b-eth-bet-matters/)**
+**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
 
-AMBCrypto • 1d ago
+TipRanks • 22h ago
 
 ---
 
@@ -232,7 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 180 • 💬 26 • ⏱️ 9:18 • 18h ago
+👁️ 3K • 👍 180 • 💬 26 • ⏱️ 9:18 • 20h ago
 
 ---
 
@@ -242,7 +244,7 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 2K • 👍 180 • 💬 38 • ⏱️ 13:28 • 5h ago
+👁️ 2K • 👍 180 • 💬 38 • ⏱️ 13:28 • 6h ago
 
 ---
 
@@ -292,7 +294,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 522 • 👍 61 • ⏱️ 6:51 • 5h ago
+👁️ 522 • 👍 61 • ⏱️ 6:51 • 7h ago
 
 ---
 
@@ -302,7 +304,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 334 • 💬 42 • ⏱️ 8:49 • 3h ago
+👁️ 1K • 👍 334 • 💬 42 • ⏱️ 8:49 • 5h ago
 
 ---
 
@@ -312,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 335 • 👍 15 • ⏱️ 5:22 • 1d ago
+👁️ 335 • 👍 15 • ⏱️ 5:22 • 2d ago
 
 ---
 
@@ -322,7 +324,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 5K • 👍 417 • 💬 32 • ⏱️ 19:05 • 16h ago
+👁️ 5K • 👍 417 • 💬 32 • ⏱️ 19:05 • 18h ago
 
 ---
 
