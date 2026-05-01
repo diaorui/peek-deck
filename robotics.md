@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-01T14:37:14.630264+00:00'
+updated: '2026-05-01T15:58:32.796341+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 01, 2026 at 14:37 UTC  
+**Last Updated:** May 01, 2026 at 15:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Commercial video: https://x.com/XRoboHub/status/2049373299310993869
 
-5h ago
-
----
-
-**[Extendible robotic arm](https://www.reddit.com/r/robotics/comments/1t0ijod/extendible_robotic_arm/)**
-
-Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-Tube Boom (STEM) concept. It can extend up to 5 ft. It was redesigned to be easier and more affordable to manufacture, with all parts 3D printed. The current use case is sanding large epoxy tables or plates or decks. I ran out of resources before building a more advanced version. Curious to hear what other use cases people see for something like this.
-
-10h ago
+6h ago
 
 ---
 
@@ -52,7 +44,23 @@ Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-
 
 Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog/robotera-humanoid-robots-logistics/ This was also reported by Caixing Global, a leading Chinese business outlet www.caixinglobal.com/2026-04-27/robot-era-raises-more-than-200-million-as-chinas-humanoid-robot-race-heats-up-102438549.html
 
-5h ago
+6h ago
+
+---
+
+**[Extendible robotic arm](https://www.reddit.com/r/robotics/comments/1t0ijod/extendible_robotic_arm/)**
+
+Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-Tube Boom (STEM) concept. It can extend up to 5 ft. It was redesigned to be easier and more affordable to manufacture, with all parts 3D printed. The current use case is sanding large epoxy tables or plates or decks. I ran out of resources before building a more advanced version. Curious to hear what other use cases people see for something like this.
+
+11h ago
+
+---
+
+**[Is a 30:1 metal cycloidal drive still considered QDD? Need a reality check on upgrading open-source humanoids.](https://www.reddit.com/r/robotics/comments/1t0vm6u/is_a_301_metal_cycloidal_drive_still_considered/)**
+
+Hey r/robotics, I’m trying to upgrade the joints on open-source platforms (like the Berkeley Lite and ALOHA) because I keep destroying 3D-printed plastic gears under dynamic loads. I’m currently designing a full CNC metal cycloidal drive to replace them, but I need a reality check on the physics before I spend a ton of money at the machine shop. My plan is to standardize all joints to a single size with a 30:1 gear ratio and a 48V architecture (to keep machining costs sane). Here is my main dilemma: At 30:1, is this still technically QDD (Quasi-Direct Drive)? My goal is to achieve good proprioception (sensing external forces via current changes) without expensive inline torque sensors, utilizing Dual Absolute Encoders and FOC. But I’m worried that the added friction and inertia of a 30:1 metal cycloidal will kill the back-drivability and ruin the impedance control. Has anyone successfully done sensorless force control with a 30:1 metal cycloidal? Does this actually work for humanoids, or am I just building a stiff industrial joint by accident? Also, I'm trying to use one universal actuator size for the whole robot to simplify the BOM. Is this a terrible idea for bipedal swing dynamics? Would love to hear some harsh truths before I pull the trigger on prototyping! (Exploded CAD view attached).
+
+1h ago
 
 ---
 
@@ -60,7 +68,15 @@ Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog
 
 Today is May Day. International Workers' Day. The holiday exists because in 1886, workers in Chicago went on strike demanding one thing: stop making people work 80 hours a week. Things got violent. People died. Eventually, decades later, the 8-hour workday became law. 140 years later I'm watching a robot handle a grill on that same day. The machine doesn't observe the holiday. Doesn't observe any day. It just runs. The thing those workers were actually asking for was less human suffering at machines. That kind of happened. Just not through shorter shifts. Through the machine taking the job entirely. Good outcome? Weird outcome? Genuinely no idea. Anyway, happy May Day. The robots have it covered.
 
-16h ago
+17h ago
+
+---
+
+**[Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month](https://www.reddit.com/r/robotics/comments/1t021sl/japan_airlines_is_officially_deploying_humanoid/)**
+
+Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
+
+23h ago
 
 ---
 
@@ -72,17 +88,17 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 ---
 
-**[Japan Airlines is officially deploying humanoid robots for ground operations at Haneda Airport starting next month](https://www.reddit.com/r/robotics/comments/1t021sl/japan_airlines_is_officially_deploying_humanoid/)**
+**[ros2 jazzy on rpi 5](https://www.reddit.com/r/robotics/comments/1t0xerf/ros2_jazzy_on_rpi_5/)**
 
-Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
+kira@kira-iot:~$ sudo apt install ros-jazzy-desktop Reading package lists... Done Building dependency tree... Done Reading state information... Done Some packages could not be installed. This may mean that you have requested an impossible situation or if you are using the unstable distribution that some required packages have not yet been created or been moved out of Incoming. The following information may help to resolve the situation: The following packages have unmet dependencies: dpkg-dev : Depends: bzip2 but it is not installable libbz2-dev : Depends: libbz2-1.0 (= 1.0.8-5.1) but 1.0.8-5.1build0.1 is to be installed Recommends: bzip2-doc but it is not going to be installed libdbus-1-dev : Depends: libdbus-1-3 (= 1.14.10-4ubuntu4) but 1.14.10-4ubuntu4.1 is to be installed libdrm-dev : Depends: libdrm2 (= 2.4.120-2build1) but 2.4.125-1ubuntu0.1~24.04.1 is to be installed libibverbs-dev : Depends: ibverbs-providers (= 50.0-2build2) but 50.0-2ubuntu0.2 is to be installed Depends: libibverbs1 (= 50.0-2build2) but 50.0-2ubuntu0.2 is to be installed Depends: libnl-3-dev but it is not going to be installed Depends: libnl-route-3-dev but it is not going to be installed libicu-dev : Depends: libicu74 (= 74.2-1ubuntu3) but 74.2-1ubuntu3.1 is to be installed liblz4-dev : Depends: liblz4-1 (= 1.9.4-1build1) but 1.9.4-1build1.1 is to be installed libnuma-dev : Depends: libnuma1 (= 2.0.18-1build1) but 2.0.18-1ubuntu0.24.04.1 is to be installed libpcre2-dev : Depends: libpcre2-8-0 (= 10.42-4ubuntu2) but 10.42-4ubuntu2.1 is to be installed libselinux1-dev : Depends: libselinux1 (= 3.5-2ubuntu2) but 3.5-2ubuntu2.1 is to be installed libzstd-dev : Depends: libzstd1 (= 1.5.5+dfsg2-2build1) but 1.5.5+dfsg2-2build1.1 is to be installed zlib1g-dev : Depends: zlib1g (= 1:1.3.dfsg-3.1ubuntu2) but 1:1.3.dfsg-3.1ubuntu2.1 is to be installed E: Unable to correct problems, you have held broken packages. kira@kira-iot:~$ I have been trying to download ros2 jazzy on my new rpi 5 since 2 days now. I have flashed and reflashed countless times i am making this post after my 7th attempt of reflashing and trying it again. Can someone please tell me why am i stuck on literally the step 1. I have downloaded Ubuntu 24.04 server LTS on my rpi like 7 times already and each time i try to install ros2 jazzy this is what i get. I am in a desperate need of help. Does anyone know why this issue is occuring, am i the only one suffering through this. Any solutions?? I have my entire codebase complete but this is the point that has baffled me and taken a toll on my existence since 2 days
 
-21h ago
+2m ago
 
 ---
 
 **[Geyser Interlock Schematic to prevent dry heating in Proteus](https://www.reddit.com/r/robotics/comments/1t0klqu/geyser_interlock_schematic_to_prevent_dry_heating/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -90,21 +106,7 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 Been working on a community reference implementation of the connected-sensor situational awareness concept that systems like Anduril's Lattice popularized. The idea: multiple low-cost sensors fused at the edge into a single coherent world model. What actually runs: YOLOv8n via TensorRT FP16, adaptive 6-state Kalman filter [x, y, z, vx, vy, vz] per world object, Hungarian tracking with appearance re-ID, and self-calibrating ground-plane homography between cameras. The architecture decision I think is most relevant for robotics: singleton perception pipeline. One detect-track-fuse loop runs per tick regardless of how many downstream consumers exist. State broadcasts as pre-serialized msgpack binary snapshots. This pattern maps well to robot middleware (ROS2 pub/sub) and means the edge compute budget scales with sensor count, not consumer count. Not military grade, not affiliated with Anduril. Pure research and learning project. Posting because the multi-sensor fusion patterns here (sensor trust scoring, adaptive Kalman noise, cross-camera re-ID) seem directly applicable to robotics work. Repo: github.com/mandarwagh9/overwatch. MIT license. Anyone working on similar multi-sensor fusion at the edge? Curious how people handle clock drift between sensors in practice.
 
-9h ago
-
----
-
-**[Hello! Need some help with simulations](https://www.reddit.com/r/robotics/comments/1t07o79/hello_need_some_help_with_simulations/)**
-
-Hello, I am new to robotics and simulation stuff. I was working on my PyBullet simulation of my robot, but the joints do not seem to be connected at all. I have tried everything from reassembling the CAD to checking if the origins are correct and even remaking some of the links, but I cannot figure it out at all any tips?
-
-18h ago
-
----
-
-**[Unitree G1 performing tricks with a new policy OmniXtreme](https://www.reddit.com/r/robotics/comments/1szk5va/unitree_g1_performing_tricks_with_a_new_policy/)**
-
-1d ago
+10h ago
 
 ---
 
@@ -142,11 +144,17 @@ WSJ • 1d ago
 
 ---
 
-**[Robotics startup plans to build 10,000 home robots in California in the coming year](https://www.latimes.com/business/story/2026-05-01/robotics-startup-plans-to-build-10-000-home-robots-in-california-in-coming-year)**
+**[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
 
-1X Technologies AS, the Norway-founded robotics startup backed by OpenAI, has opened a new 58,000-square-foot factory in Hayward, California, where it aims to be among the first to build humanoids for consumers at scale.
+AgWeb • 16h ago
 
-Los Angeles Times • 52m ago
+---
+
+**[US’ first integrated humanoid factory to build 100,000 NEO robots by 2027](https://interestingengineering.com/ai-robotics/1x-humanoid-robot-neo-factory-california)**
+
+Robotics firm 1X starts producing NEO humanoid robots in California, aiming for 100,000 units annually by 2027.
+
+Interesting Engineering • 21h ago
 
 ---
 
@@ -162,29 +170,23 @@ Mercator Institute for China Studies (MERICS) • 1d ago
 
 Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
-**[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
+**[3 Detroit robotics teams earned a trip to Houston to take on the world](https://www.freep.com/story/news/local/detroit-is/2026/04/30/3-detroit-robotics-teams-first-championship-houston/89812037007/)**
 
-AgWeb • 15h ago
+For three Detroit robotics teams, qualifying for a world championship is a fitting reward for the teams and a host of Detroiters they represent.
 
----
-
-**[US’ first integrated humanoid factory to build 100,000 NEO robots by 2027](https://interestingengineering.com/ai-robotics/1x-humanoid-robot-neo-factory-california)**
-
-Robotics firm 1X starts producing NEO humanoid robots in California, aiming for 100,000 units annually by 2027.
-
-Interesting Engineering • 19h ago
+Detroit Free Press • 1d ago
 
 ---
 
-**[Rethinking robotics with physical intelligence](https://www.darpa.mil/news/2026/rethinking-robotics)**
+**[Central Coast robotics team headed for world championship](https://www.ksbw.com/article/central-coast-robotics-team-world-championship/71166858)**
 
-DARPA is looking to tackle these challenges by embedding intelligence directly into the physical materials of robotic systems.
+The Hephaestus Robotics advances to word championship after regional competition win
 
-darpa.mil • 1d ago
+KSBW • 1d ago
 
 ---
 
@@ -278,7 +280,7 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 29K • 👍 721 • 💬 223 • ⏱️ 3:51 • 16h ago
+👁️ 29K • 👍 721 • 💬 223 • ⏱️ 3:51 • 17h ago
 
 ---
 

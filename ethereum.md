@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T14:37:14.626993+00:00'
+updated: '2026-05-01T15:58:32.793474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 14:37 UTC  
+**Last Updated:** May 01, 2026 at 15:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -0.5%  
-**30d:** +12.2%  
-**90d:** +1.6%  
-**1y:** +25.4%  
+**24h:** +2.1%  
+**7d:** -0.6%  
+**30d:** +12.1%  
+**90d:** +1.5%  
+**1y:** +25.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
-3h ago
-
----
-
-**[Question for experienced crypto users: does this kind of ecosystem already exist?](https://www.reddit.com/r/ethereum/comments/1t0s1oz/question_for_experienced_crypto_users_does_this/)**
-
-Is there a platform that combines: - A closed social network focused only on crypto - An educational blog for people who want to learn - A marketplace where buyers and sellers connect directly (crypto-only payments) - A community utility token Does something like this already exist in a real, working form? What do you think are the biggest challenges for a concept like this?
-
-2h ago
+4h ago
 
 ---
 
@@ -96,7 +88,7 @@ Is there a platform that combines: - A closed social network focused only on cry
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 4h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 6h ago
 
 ---
 
@@ -104,7 +96,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 4h ago
 
 ---
 
@@ -136,11 +128,19 @@ Posted by Solidity Team on April 29, 2026
 
 What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.
 
-🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 1d ago
+🔗 [ZK/SEC Quarterly](https://blog.zksecurity.xyz/posts/end-coding/) • 2d ago
 
 ---
 
 **[How To Integrate Uniswap V4 Into Your Cartesi App](https://www.reddit.com/r/ethereum/comments/1syzmt1/how_to_integrate_uniswap_v4_into_your_cartesi_app/)**
+
+2d ago
+
+---
+
+**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
+
+Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
 
 2d ago
 
@@ -154,21 +154,13 @@ What if the final form of software development was just watching code and proof 
 
 Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
 **[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
 
-ethereum.org • 22h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-morning-113211522.html)**
-
-Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
-
-Yahoo Finance • 3h ago
+ethereum.org • 23h ago
 
 ---
 
@@ -177,7 +169,15 @@ Yahoo Finance • 3h ago
 In late April 2026, Bitmine Immersion Technologies reported that its Ethereum holdings surpassed 5.078 million ETH, representing a very large share of global supply, alongside total cash and strategic investments of about US$13.30 billion and an NYSE uplisting, while also withdrawing a previously filed US$11.03 million common stock shelf registration. 
 This rapid shift from Bitcoin mining toward a digital asset treasury and Ethereum staking model, including operation of the MAVAN validator...
 
-simplywall.st • 1h ago
+simplywall.st • 3h ago
+
+---
+
+**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
+
+Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 1d ago
 
 Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
 
-FXStreet • 10h ago
+FXStreet • 12h ago
 
 ---
 
@@ -223,7 +223,7 @@ FXStreet • 10h ago
 
 Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -237,7 +237,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 186 • 👍 26 • 💬 3 • ⏱️ 8:12 • 52m ago
+👁️ 186 • 👍 26 • 💬 3 • ⏱️ 8:12 • 2h ago
 
 ---
 
@@ -247,7 +247,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 104 • 💬 14 • ⏱️ 24:23 • 2h ago
+👁️ 3K • 👍 104 • 💬 14 • ⏱️ 24:23 • 3h ago
 
 ---
 
@@ -257,7 +257,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 877 • 👍 149 • 💬 13 • ⏱️ 12:11 • 5h ago
+👁️ 877 • 👍 149 • 💬 13 • ⏱️ 12:11 • 6h ago
 
 ---
 
@@ -267,7 +267,7 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 258 • 💬 118 • ⏱️ 13:28 • 11h ago
+👁️ 5K • 👍 258 • 💬 118 • ⏱️ 13:28 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Ethereum might finally be thawing out of its “mini winter.” The structure lo
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 422 • 💬 181 • ⏱️ 14:02 • 2d ago
+👁️ 7K • 👍 422 • 💬 181 • ⏱️ 14:02 • 3d ago
 
 ---
 
