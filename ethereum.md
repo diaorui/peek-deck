@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T13:21:07.535317+00:00'
+updated: '2026-05-01T14:37:14.626993+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 13:21 UTC  
+**Last Updated:** May 01, 2026 at 14:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.4%  
-**30d:** +12.3%  
-**90d:** +1.7%  
-**1y:** +25.5%  
+**24h:** +1.8%  
+**7d:** -0.5%  
+**30d:** +12.2%  
+**90d:** +1.6%  
+**1y:** +25.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.71B
+**Market Cap:** $278.58B
 Rank #2
 
 **Circulating Supply:** 120,687,573 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.8%
+-53.3%
 
 **All-Time Low:** $0.43
-+527355.1%
++533022.9%
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
 **[Should I stake Ethereum?](https://www.reddit.com/r/ethereum/comments/1t0q8ps/should_i_stake_ethereum/)**
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
+
+3h ago
+
+---
+
+**[Question for experienced crypto users: does this kind of ecosystem already exist?](https://www.reddit.com/r/ethereum/comments/1t0s1oz/question_for_experienced_crypto_users_does_this/)**
+
+Is there a platform that combines: - A closed social network focused only on crypto - An educational blog for people who want to learn - A marketplace where buyers and sellers connect directly (crypto-only payments) - A community utility token Does something like this already exist in a real, working form? What do you think are the biggest challenges for a concept like this?
 
 2h ago
 
@@ -88,7 +96,7 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 3h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 4h ago
 
 ---
 
@@ -96,15 +104,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 1h ago
-
----
-
-**[Question for experienced crypto users: does this kind of ecosystem already exist?](https://www.reddit.com/r/ethereum/comments/1t0s1oz/question_for_experienced_crypto_users_does_this/)**
-
-Is there a platform that combines: - A closed social network focused only on crypto - An educational blog for people who want to learn - A marketplace where buyers and sellers connect directly (crypto-only payments) - A community utility token Does something like this already exist in a real, working form? What do you think are the biggest challenges for a concept like this?
-
-51m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 3h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Solidity Team on April 29, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 1d ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ What if the final form of software development was just watching code and proof 
 
 **[How To Integrate Uniswap V4 Into Your Cartesi App](https://www.reddit.com/r/ethereum/comments/1syzmt1/how_to_integrate_uniswap_v4_into_your_cartesi_app/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -154,13 +154,13 @@ What if the final form of software development was just watching code and proof 
 
 Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
 
-Decrypt • 20h ago
+Decrypt • 22h ago
 
 ---
 
 **[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
 
-ethereum.org • 20h ago
+ethereum.org • 22h ago
 
 ---
 
@@ -168,7 +168,16 @@ ethereum.org • 20h ago
 
 Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[How Bitmine’s Massive Ethereum Treasury and Staking Pivot At Bitmine Immersion Technologies (BMNR) Has Changed Its Investment Story](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/how-bitmines-massive-ethereum-treasury-and-staking-pivot-at)**
+
+In late April 2026, Bitmine Immersion Technologies reported that its Ethereum holdings surpassed 5.078 million ETH, representing a very large share of global supply, alongside total cash and strategic investments of about US$13.30 billion and an NYSE uplisting, while also withdrawing a previously filed US$11.03 million common stock shelf registration. 
+This rapid shift from Bitcoin mining toward a digital asset treasury and Ethereum staking model, including operation of the MAVAN validator...
+
+simplywall.st • 1h ago
 
 ---
 
@@ -184,7 +193,15 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4m ago
+Fortune • 1h ago
+
+---
+
+**[Coinbase (COIN) launches tokenized stablecoin credit fund on Solana, Ethereum, Base](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)**
+
+The fund, dubbed CUSHY, targets yield from onchain lending and private credit, offering tokenized access via Superstate for institutional investors.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -194,11 +211,11 @@ Forbes • 1d ago
 
 ---
 
-**[Coinbase (COIN) launches tokenized stablecoin credit fund on Solana, Ethereum, Base](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
 
-The fund, dubbed CUSHY, targets yield from onchain lending and private credit, offering tokenized access via Superstate for institutional investors.
+Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
 
-CoinDesk • 23h ago
+FXStreet • 10h ago
 
 ---
 
@@ -206,21 +223,7 @@ CoinDesk • 23h ago
 
 Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
 
-Crypto Briefing • 2h ago
-
----
-
-**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
-
-TipRanks • 1d ago
-
----
-
-**[Exclusive: Crypto CEO Breaks Down Why Bitcoin and Ethereum Prices Fell After Fed’s Shock Decision](https://coinpedia.org/news/exclusive-crypto-ceo-breaks-down-why-bitcoin-and-ethereum-prices-fell-after-feds-shock-decision/)**
-
-The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
-
-Coinpedia • 1d ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -228,23 +231,33 @@ Coinpedia • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 186 • 👍 26 • 💬 3 • ⏱️ 8:12 • 52m ago
+
+---
+
+**[$147M Into ETH: Tom Lee&#39;s Move + My BMNR &amp; MSTR Chart Breakdown](https://www.youtube.com/watch?v=dgDDwGNiNBA)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 3K • 👍 104 • 💬 14 • ⏱️ 24:23 • 2h ago
+
+---
+
 **[🚨BREAKING: Tom Lee Just Went All In ETHEREUM](https://www.youtube.com/watch?v=yn0YDq449I8)**
 
 Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
 📺 🌟yourfriendsommi
 
-👁️ 454 • 👍 92 • 💬 11 • ⏱️ 12:11 • 4h ago
-
----
-
-**[ETHEREUM IS DOING SOMETHING VERY UNUSUAL RIGHT NOW](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 3K • 👍 181 • 💬 26 • ⏱️ 9:18 • 23h ago
+👁️ 877 • 👍 149 • 💬 13 • ⏱️ 12:11 • 5h ago
 
 ---
 
@@ -254,17 +267,17 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 4K • 👍 219 • 💬 123 • ⏱️ 13:28 • 9h ago
+👁️ 5K • 👍 258 • 💬 118 • ⏱️ 13:28 • 11h ago
 
 ---
 
-**[The Michael Saylor Of Ethereum? BMNR Changes Everything](https://www.youtube.com/watch?v=ZokAMIiTcYs)**
+**[ETHEREUM IS DOING SOMETHING VERY UNUSUAL RIGHT NOW](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
 
-Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStrategy of ETH. With billions in ETH exposure, ...
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
 
-📺 Darren Steves
+📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 76 • 💬 36 • ⏱️ 10:21 • 2d ago
+👁️ 3K • 👍 186 • 💬 26 • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -274,17 +287,17 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 57K • 👍 3K • 💬 166 • ⏱️ 16:31 • 1d ago
+👁️ 58K • 👍 3K • 💬 166 • ⏱️ 16:31 • 1d ago
 
 ---
 
-**[WILL ETHEREUM DUMP AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=9Es9zjS05Lw)**
+**[The Michael Saylor Of Ethereum? BMNR Changes Everything](https://www.youtube.com/watch?v=ZokAMIiTcYs)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStrategy of ETH. With billions in ETH exposure, ...
 
-📺 Cilinix Crypto
+📺 Darren Steves
 
-👁️ 55 • 👍 3 • ⏱️ 5:01 • 3h ago
+👁️ 2K • 👍 78 • 💬 36 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -298,33 +311,23 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 ---
 
-**[🚨 BTC &amp; ETH: BOOOOOOM!!!!!!!!!!!!!](https://www.youtube.com/watch?v=t-gxT57gFjY)**
-
-These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! Here is how to prepare and what I am looking at!
-
-📺 Thomas Kralow
-
-👁️ 24K • 👍 3K • 💬 33 • ⏱️ 5:55 • 2d ago
-
----
-
 **[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
 
 Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 366 • 💬 62 • ⏱️ 14:56 • 2d ago
+👁️ 10K • 👍 369 • 💬 62 • ⏱️ 14:56 • 2d ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=LlDOKR1Mau8)**
+**[Ethereum ‘Mini Crypto Winter’ Ending! The Bitcoin Pattern That Shows Up First...](https://www.youtube.com/watch?v=lldhWszqmxs)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+Ethereum might finally be thawing out of its “mini winter.” The structure looks almost identical to past reversal patterns, and the ...
 
-📺 Ashutosh Kumar
+📺 Crypto Capital Venture
 
-👁️ 8K • 👍 444 • 5h ago
+👁️ 7K • 👍 422 • 💬 181 • ⏱️ 14:02 • 2d ago
 
 ---
 

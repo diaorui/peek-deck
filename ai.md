@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-01T13:21:07.522228+00:00'
+updated: '2026-05-01T14:37:14.612803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - social
 - videos
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 01, 2026 at 13:21 UTC  
+**Last Updated:** May 01, 2026 at 14:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 They published the full research yesterday. Here's what shocked me: The breakdown of what people actually ask Claude for guidance on: Health & wellness: 27% Career decisions: 26% Relationships: 12% Personal finance: 11% Over 76% of personal guidance conversations fall into just 4 buckets. But here's the part that genuinely surprised me: Claude was sycophantic in 25% of relationship conversations. Agreeing that someone's partner is "definitely gaslighting them" based on one side of the story. Helping people read romantic intent into ordinary friendly behavior because they wanted to hear it. In spirituality conversations it was even worse: 38%. Anthropic actually used this data to retrain Opus 4.7 specifically for this failure mode. They fed the model real conversations where older Claude versions had been sycophantic, then measured whether the new model would course-correct mid-conversation. Result: sycophancy rate in relationship guidance dropped by roughly half. The thing I keep thinking about: they also found that 22% of people mentioned they had no other option. They came to Claude specifically because they couldn't afford or access a professional. So the stakes here aren't "AI gave someone bad movie recommendations." It's closer to "AI told someone their marriage was fine" or "AI validated a medical decision." I'm curious to know your opinion. Do you notice Claude caving when you push back on its answers? Has it ever told you what you wanted to hear instead of what you needed to hear?
 
-1h ago
+3h ago
+
+---
+
+**[China Bans AI Layoffs as Nvidia CEO Says AI Created 500K Jobs in 2 Years](https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/)**
+
+China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 1h ago
 
 ---
 
 **[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 13h ago
+🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 14h ago
 
 ---
 
@@ -55,7 +63,7 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 The observation that started this: most of what people use AI for every day - summarising, drafting, classifying, extracting etc doesn't actually require a frontier model. Any competent 8-70B model handles those just as well. But most people run everything through Claude or ChatGPT out of habit. I built Followloop (followloop.app) to solve this automatically. It classifies each task by complexity and routes it: - Simple tasks → Cerebras Llama (2000 TPS, 1M tokens/day free), Groq, Gemini Flash - Moderate tasks → Groq 70B, SambaNova - Complex tasks → Claude Haiku as fallback The dashboard shows your actual cost alongside what you'd have paid running everything on Claude Sonnet. I've been running it on my own AI workflow for two weeks: 9,200 tasks routed, $21.24 saved, $0.1360 actual cost. About 157× cheaper per token than Sonnet on average. Works with any AI setup via MCP (Model Context Protocol) - Claude Desktop, Cursor, Claude Code, or anything MCP-compatible. Also has a library of 1,300+ safety-screened MCP servers as a bonus feature. $5/month at followloop.app
 
-24m ago
+1h ago
 
 ---
 
@@ -63,7 +71,7 @@ The observation that started this: most of what people use AI for every day - su
 
 Researchers say results mark a really ‘profound change in technology that will reshape medicine’
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 3h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 4h ago
 
 ---
 
@@ -79,13 +87,7 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 A framing I keep coming back to: a synthetic image or video can succeed even when almost nobody believes it. Not because it changes minds directly, but because it turns attention into the attacked resource. If a campaign, newsroom, platform, or company has to stop and answer the fake, the fake already got some of what it wanted: the defenders spend scarce time verifying and explaining the audience gets forced to process the claim anyway every debunk risks replaying the artifact institutions look reactive even when they are correct the attacker learns which themes reliably pull defenders into the loop So detection is necessary, but not sufficient. The second half of the system is distribution response. A few practical design questions I think matter more than the usual “can we detect it?” debate: Can we debunk without embedding, quoting, or rewarding the fake? Can provenance signals move suspicious media into slower lanes instead of binary takedown/leave-up decisions? Do newsrooms and platforms track attention budget as an operational constraint? Can response teams separate “this is false” from “this deserves broad amplification”? Can systems preserve evidence for verification while reducing replay value for the attacker? The failure mode is treating every fake as an information accuracy problem when some of them are closer to denial-of-service attacks on attention. Curious how people here would design the response layer. What should a healthy “quarantine lane” for synthetic media look like without becoming censorship-by-default?
 
-8h ago
-
----
-
-**[Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)**
-
-🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php) • 19h ago
+9h ago
 
 ---
 
@@ -93,23 +95,21 @@ A framing I keep coming back to: a synthetic image or video can succeed even whe
 
 Sat through a demo this week for one of these AI SDR tools and the pitch was in a nutshell: you don’t need junior sales reps anymore. (As in not even train them anymore just remove them.) To my surprise it worked. The tool was doing outbound, follow-ups, personalization, all the stuff junior SDRs grind through. Faster, cleaner, no complaints! But it did leave me feeling uneasy. That grindy, repetitive work is literally how most people get into sales. It’s where you learn how people respond, how messaging gets through, how to deal with rejection without taking it personally. That's how I got into it at least. So if AI wipes that layer out completely, what’s the path in? Are we just skipping straight to “hire experienced closers” and hoping they came from… where exactly? I’m not anti-AI (this stuff is obviously useful), but replacing enty-level humans as the first step in the process doesn't feel like a sustainable route.
 
-3h ago
+4h ago
 
 ---
 
-**[Public photos are not consent to biometric search infrastructure](https://www.reddit.com/r/artificial/comments/1t0s7yh/public_photos_are_not_consent_to_biometric_search/)**
+**[Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech](https://www.reddit.com/r/artificial/comments/1t03h0n/elon_musk_says_his_xai_startups_models_were/)**
 
-The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
-
-44m ago
+🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/elon-musk-openai-trial-xai-22234502.php) • 20h ago
 
 ---
 
-**[QUESTIONS FOR PRO AI (GENUINELY ASKING)](https://www.reddit.com/r/artificial/comments/1t0e1zj/questions_for_pro_ai_genuinely_asking/)**
+**[What's the most frustrating part of using AI tools ?????(i will not promote)](https://www.reddit.com/r/artificial/comments/1t0tjae/whats_the_most_frustrating_part_of_using_ai_tools/)**
 
-I'm neither against AI nor for AI, but I'm simply trying to understand what you're looking for when you use AI (for text, images, etc.). I repeat, I am genuinely interested, i want to understand your vision as ai users. What was your vision of AI before, now, and for the future? Aren't you afraid of losing your ability to create yourself? What makes it better than learning to do things on your own (without it doing the same thing)? Do you find it inappropriate or hypocritical when someone asks you to stop using AI in artistic practice? Why? Finally, can you do without it (if tomorrow AI was gone, could you manage to do things anyway) ? Would you like to? SORRY FOR MY POOR ENGLISH (A FRENCH DUDE)
+I've been working in the AI space for some time now and I always kind of hear the same probelmo , where u know people can generate content or code but can't get the outcome or the difference between what you actually want and what the ai wrote is kind of apart. I think just to solve like one basic error you send 10 prompts to solve it. Not downsizing AI cause its crazy to see the amount of heavy lifting it does. But its a bit off, so curious What breaks down for you? Is it like output quality or not knowing what to do with what the AI gives you?(not promoting anything).dw:)
 
-12h ago
+1h ago
 
 ---
 
@@ -117,9 +117,9 @@ I'm neither against AI nor for AI, but I'm simply trying to understand what you'
 
 ## Google News: "ai"
 
-**[A Midterm Clash of A.I. Giants Escalates as a Tech Billionaire Jumps In](https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html)**
+**[Opinion | Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)**
 
-The New York Times • 4h ago
+The New York Times • 1d ago
 
 ---
 
@@ -127,51 +127,59 @@ The New York Times • 4h ago
 
 Thanks to the rise of Claude Code and other AI agents, revenues are finally catching up to the hype.
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
+
+---
+
+**[Axios Live: Atlanta businesses are pushing to keep up with AI's evolution; students may be the answer](https://www.axios.com/2026/05/01/axios-live-atlanta-businesses-ais-evolution-students)**
+
+Axios • 41m ago
+
+---
+
+**[Caterpillar’s Biggest Bear Folds as AI Power Demand Soars](https://www.bloomberg.com/news/articles/2026-05-01/caterpillar-s-biggest-bear-folds-as-ai-power-demand-soars)**
+
+Caterpillar Inc.’s biggest Wall Street bear has thrown in the towel after watching the stock more than double on the back of surging demand for the company’s power generation equipment.
+
+Bloomberg.com • 48m ago
+
+---
+
+**[Classified Networks AI Agreements](https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/)**
+
+The War Department has entered into agreements with seven of the world's leading frontier artificial intelligence companies to deploy their advanced AI capabilities on the department's classified
+
+U.S. Department of War (.gov) • 2h ago
 
 ---
 
 **[Pentagon Makes Deals With A.I. Companies to Expand Classified Work](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html)**
 
-The New York Times • 39m ago
+The New York Times • 1h ago
 
 ---
 
-**[Pentagon plans to make US military ‘AI-first fighting force’ by pairing with companies](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai)**
+**[Pentagon reaches agreements with leading AI companies](https://www.nbcnews.com/tech/tech-news/pentagon-reaches-agreements-leading-ai-companies-rcna343071)**
 
-Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance
+The Pentagon’s main AI platform GenAI.mil has been used by over 1.3 million Defense Department personnel, the agency noted in its release.
 
-The Guardian • 1d ago
-
----
-
-**[OpenAI, Nvidia, Alphabet And More Sign AI Deal With Pentagon For Classified Military Use](https://www.forbes.com/sites/tylerroush/2026/05/01/openai-nvidia-alphabet-and-more-sign-ai-deal-with-pentagon-for-classified-military-use/)**
-
-Forbes • 38m ago
+NBC News • 20m ago
 
 ---
 
-**[How AI is upending the B2B marketing funnel](https://www.fastcompany.com/91534873/how-ai-is-upending-the-b2b-marketing-funnel)**
+**[In real-world test, an AI model did better than ER doctors at diagnosing patients](https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis)**
 
-A drop in traditional search engine use means fewer buyers are clicking on your website.
+Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
 
-Fast Company • 43m ago
-
----
-
-**[How artificial intelligence is meeting the patient first](https://www.healthcareitnews.com/news/emea/how-artificial-intelligence-meeting-patient-first)**
-
-Agentic AI is moving into care delivery, reshaping workflows at UAE providers, such as Emirates Health Services, while prioritising trust, safety and clinician oversight.
-
-Healthcare IT News • 1h ago
+NPR • 20h ago
 
 ---
 
-**[‘Awkward and humiliating’: UK job hunters share frustration with AI interviews](https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews)**
+**[AI Investor Coatue Joins Data Center Frenzy With New Venture to Buy Land](https://www.wsj.com/tech/ai/ai-investor-coatue-joins-data-center-frenzy-with-new-venture-to-buy-land-9f4c374f)**
 
-People describe awkward and unnatural process, as survey finds nearly half of job seekers have been interviewed by AI
+Philippe Laffont’s firm has launched Next Frontier, whose facilities will be meant for AI companies including Anthropic.
 
-The Guardian • 3h ago
+WSJ • 51m ago
 
 ---
 
@@ -183,14 +191,6 @@ OpenAI • 1d ago
 
 ---
 
-**[What Silicon Valley layoffs hide about the future of the job market](https://www.washingtonpost.com/technology/2026/05/01/ai-jobs-tech-layoffs-austerity/)**
-
-Tech giants are investing heavily in artificial intelligence but haven’t significantly shrunk their workforces.
-
-The Washington Post • 22m ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +199,7 @@ The Washington Post • 22m ago
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 656 • 💬 443 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 657 • 💬 443 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -207,7 +207,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 412 • 💬 154 • 21h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 427 • 💬 158 • 22h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -231,7 +231,7 @@ Claude's Status Page - Claude.ai unavailable and elevated errors on the API.
 
 They built it. They're scared of it. They're selling it anyway.
 
-⬆️ 286 • 💬 218 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 286 • 💬 219 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 
 ---
 
@@ -263,7 +263,7 @@ An open-source alternative to Harvey and Legora. Feature parity, zero cost, self
 
 38 zero-day security vulnerabilities, three critical, and the shift from disclosure to prevention in healthcare software
 
-⬆️ 177 • 💬 112 • 2d ago • [AISLE](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
+⬆️ 177 • 💬 113 • 2d ago • [AISLE](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
 
 ---
 
@@ -272,7 +272,7 @@ An open-source alternative to Harvey and Legora. Feature parity, zero cost, self
 "People who don't use AI will be left behind", they say. 
 I can't emphasize enough how much I hate it when I hear/read shit like that because I'm pretty sur...
 
-⬆️ 168 • 💬 261 • 1d ago • [migraine brain](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
+⬆️ 168 • 💬 262 • 1d ago • [migraine brain](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/)
 
 ---
 
@@ -280,13 +280,13 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
 ## YouTube Videos: "ai"
 
-**[AI Shows America Without Democrats](https://www.youtube.com/watch?v=Jn-7ZuhoAEc)**
+**[The AI Economy is about to change](https://www.youtube.com/watch?v=_Q-e_nczWqM)**
 
-We asked Artificial Intelligence what America would look like without Democrats.
+Don't let bad code get merged without reviewing (hopefully not by merge cop!). Checkout out Code Rabbit at ...
 
-📺 The Babylon Bee
+📺 The PrimeTime
 
-👁️ 103K • 👍 8K • 💬 969 • ⏱️ 1:09 • 1d ago
+👁️ 33K • 👍 4K • 💬 362 • ⏱️ 9:39 • 1h ago
 
 ---
 
@@ -296,7 +296,57 @@ Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is re
 
 📺 TIME
 
-👁️ 61K • 👍 1K • 💬 77 • ⏱️ 6:44 • 20h ago
+👁️ 71K • 👍 1K • 💬 89 • ⏱️ 6:44 • 21h ago
+
+---
+
+**[AI Shows America Without Democrats](https://www.youtube.com/watch?v=Jn-7ZuhoAEc)**
+
+We asked Artificial Intelligence what America would look like without Democrats.
+
+📺 The Babylon Bee
+
+👁️ 105K • 👍 9K • 💬 986 • ⏱️ 1:09 • 1d ago
+
+---
+
+**[The Only 20 Ways to Make Money with AI in 2026](https://www.youtube.com/watch?v=K8Ros5RhJW4)**
+
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 108K • 👍 5K • 💬 221 • ⏱️ 26:44 • 1d ago
+
+---
+
+**[Deepseek is a problem](https://www.youtube.com/watch?v=epzzALZ8oYo)**
+
+Check out Zapier MCP https://bit.ly/3QGTz87 Sign up for their Webinar https://bit.ly/3P80Dds Download The 25 OpenClaw Use ...
+
+📺 Matthew Berman
+
+👁️ 103K • 👍 5K • 💬 2K • ⏱️ 17:27 • 1d ago
+
+---
+
+**[AI Is REPLACING YOU and the MARKET LOVES IT](https://www.youtube.com/watch?v=hsjEckj9kO8)**
+
+The AI revolution isn't coming; it's already here, and it's moving faster than anyone in Washington or on Wall Street wants to admit.
+
+📺 Anthony Scaramucci
+
+👁️ 29K • 👍 1K • 💬 214 • ⏱️ 27:44 • 1d ago
+
+---
+
+**[&quot;The Bankruptcy Of The United States&quot; - Musk WARNS Only AI &amp; Robots Can Save America](https://www.youtube.com/watch?v=oIHxMjQYSJc)**
+
+Elon Musk warns the U.S. is “1000%” headed for bankruptcy without AI and robots to supercharge growth, but economists push ...
+
+📺 Valuetainment
+
+👁️ 180K • 👍 4K • 💬 950 • ⏱️ 17:12 • 1d ago
 
 ---
 
@@ -310,23 +360,13 @@ The Heritage Foundation senior research fellow Brent Sadler says it may come dow
 
 ---
 
-**[The Only 20 Ways to Make Money with AI in 2026](https://www.youtube.com/watch?v=K8Ros5RhJW4)**
+**[Elon Musk testifies he has &quot;extreme concerns&quot; about who controls AI in trial vs. Altman](https://www.youtube.com/watch?v=0xyL4l9Geu8)**
 
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are you building an AI software company?
+Elon Musk took the stand Tuesday in a trial against fellow billionaire Sam Altman that could change the future of AI. Musk accused ...
 
-📺 Dan Martell
+📺 CBS Mornings
 
-👁️ 97K • 👍 5K • 💬 211 • ⏱️ 26:44 • 1d ago
-
----
-
-**[Deepseek is a problem](https://www.youtube.com/watch?v=epzzALZ8oYo)**
-
-Check out Zapier MCP https://bit.ly/3QGTz87 Sign up for their Webinar https://bit.ly/3P80Dds Download The 25 OpenClaw Use ...
-
-📺 Matthew Berman
-
-👁️ 100K • 👍 4K • 💬 2K • ⏱️ 17:27 • 1d ago
+👁️ 62K • 👍 325 • 💬 185 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -336,45 +376,7 @@ Want to make your videos sound more cinematic and professional? ✓ Epidemic Sou
 
 📺 Raj Photo Editing and Much More
 
-👁️ 19K • 👍 1K • 💬 77 • ⏱️ 10:13 • 23h ago
-
----
-
-**[Zuck officially did the worst thing in AI](https://www.youtube.com/watch?v=7tnwGolP9xE)**
-
-What if we've been looking at this all wrong? Become a member to gain access to the member only video library: ...
-
-📺 Mo Bitar
-
-👁️ 129K • 👍 9K • 💬 1K • ⏱️ 7:19 • 18h ago
-
----
-
-**[AI Is REPLACING YOU and the MARKET LOVES IT](https://www.youtube.com/watch?v=hsjEckj9kO8)**
-
-The AI revolution isn't coming; it's already here, and it's moving faster than anyone in Washington or on Wall Street wants to admit.
-
-📺 Anthony Scaramucci
-
-👁️ 29K • 👍 1K • 💬 210 • ⏱️ 27:44 • 1d ago
-
----
-
-**[Elon Musk testifies he has &quot;extreme concerns&quot; about who controls AI in trial vs. Altman](https://www.youtube.com/watch?v=0xyL4l9Geu8)**
-
-Elon Musk took the stand Tuesday in a trial against fellow billionaire Sam Altman that could change the future of AI. Musk accused ...
-
-📺 CBS Mornings
-
-👁️ 60K • 👍 319 • 💬 175 • ⏱️ 3:00 • 2d ago
-
----
-
-**[Real vs AI 😂](https://www.youtube.com/watch?v=vskXx8w0Ufw)**
-
-📺 Bob Reese
-
-👁️ 489K • 👍 14K • 💬 197 • ⏱️ 0:20 • 11h ago
+👁️ 22K • 👍 1K • 💬 86 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -390,7 +392,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 321,492 • ❤️ 3,330 • 4d ago
+⬇️ 321,492 • ❤️ 3,343 • 4d ago
 
 ---
 
@@ -402,7 +404,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 92,567 • ❤️ 1,154 • 8d ago
+⬇️ 92,567 • ❤️ 1,162 • 8d ago
 
 ---
 
@@ -414,7 +416,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 281,356 • ❤️ 897 • 4d ago
+⬇️ 281,356 • ❤️ 899 • 4d ago
 
 ---
 
@@ -426,7 +428,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 7,944 • ❤️ 326 • 3d ago
+⬇️ 7,944 • ❤️ 330 • 3d ago
 
 ---
 
@@ -438,7 +440,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 906,859 • ❤️ 1,043 • 7d ago
+⬇️ 906,859 • ❤️ 1,048 • 7d ago
 
 ---
 
@@ -450,7 +452,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 649,331 • ❤️ 1,170 • 1d ago
+⬇️ 649,331 • ❤️ 1,172 • 1d ago
 
 ---
 
@@ -462,7 +464,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 6,809 • ❤️ 184 • 23h ago
+⬇️ 6,809 • ❤️ 188 • 1d ago
 
 ---
 
@@ -472,7 +474,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 177 • 8d ago
+⬇️ 0 • ❤️ 178 • 8d ago
 
 ---
 
@@ -484,19 +486,19 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 35,000 • ❤️ 175 • 2d ago
+⬇️ 35,000 • ❤️ 176 • 2d ago
 
 ---
 
-**[Qwen3.6-27B-DFlash](https://huggingface.co/z-lab/Qwen3.6-27B-DFlash)**
+**[MiMo-V2.5](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)**
 
-*Z Lab*
+*Xiaomi MiMo*
 
-Qwen3.6-27B-DFlash is a lightweight drafter model for DFlash, a speculative decoding method that uses block diffusion for efficient, high-throughput parallel drafting, requiring a companion target model like Qwen/Qwen3.6-27B.
+MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio with a 1M token context window. It excels in multimodal understanding, long-context reasoning, and agentic workflows, utilizing a hybrid attention architecture and efficient pre-training.
 
-`text-generation` `1.7B`
+`310.8B`
 
-⬇️ 14,793 • ❤️ 190 • 4d ago
+⬇️ 21,407 • ❤️ 174 • 1d ago
 
 ---
 
@@ -510,7 +512,7 @@ Qwen3.6-27B-DFlash is a lightweight drafter model for DFlash, a speculative deco
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 53 • 💬 2 • ⭐ 58,162 • 16mo ago
+▲ 54 • 💬 2 • ⭐ 58,162 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -524,7 +526,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 166 • 💬 10 • ⭐ 46,091 • 8mo ago
+▲ 167 • 💬 10 • ⭐ 46,162 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -550,7 +552,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 28 • 💬 3 • ⭐ 22,281 • 9mo ago
+▲ 28 • 💬 3 • ⭐ 22,329 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -584,32 +586,6 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
-**[Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://huggingface.co/papers/2604.24763)**
-
-*Zhiheng Liu, Weiming Ren, Xiaoke Huang et al. (15 authors)*
-
-🏢 Meta AI
-
-Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
-
-▲ 64 • 💬 4 • ⭐ 422 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
-
----
-
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 28 • 💬 1 • ⭐ 19,124 • 31mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764)**
 
 *Weijie Wang, Xiaoxuan He, Youping Gu et al. (12 authors)*
@@ -636,6 +612,32 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 ---
 
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 28 • 💬 1 • ⭐ 19,162 • 31mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://huggingface.co/papers/2604.24763)**
+
+*Zhiheng Liu, Weiming Ren, Xiaoke Huang et al. (15 authors)*
+
+🏢 Meta AI
+
+Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
+
+▲ 64 • 💬 4 • ⭐ 450 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -646,7 +648,7 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 51.6k • 🔱 2.7k • 12h ago
+⭐ 51.7k • 🔱 2.8k • 14h ago
 
 ---
 
@@ -656,7 +658,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.6k • 🔱 6.6k • 4h ago
+⭐ 50.6k • 🔱 6.6k • 5h ago
 
 ---
 
@@ -666,7 +668,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 41.4k • 🔱 8.6k • 18h ago
+⭐ 41.5k • 🔱 8.6k • 20h ago
 
 ---
 
@@ -676,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 39.3k • 🔱 4.3k • 4h ago
+⭐ 39.4k • 🔱 4.4k • 8m ago
 
 ---
 
@@ -696,7 +698,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.1k • 🔱 571 • 3d ago
+⭐ 9.1k • 🔱 575 • 3d ago
 
 ---
 
@@ -716,7 +718,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 5.1k • 🔱 453 • 2d ago
+⭐ 5.1k • 🔱 454 • 2d ago
 
 ---
 
@@ -736,7 +738,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.8k • 🔱 356 • 11h ago
+⭐ 4.8k • 🔱 357 • 12h ago
 
 ---
 
