@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-01T21:25:33.972515+00:00'
+updated: '2026-05-01T22:12:41.612605+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 21:25 UTC  
+**Last Updated:** May 01, 2026 at 22:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1569.26B
+**Market Cap:** $1566.80B
 Rank #1
 
-**Circulating Supply:** 20,023,312 BTC
+**Circulating Supply:** 20,023,356 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -37.9%
 
 **All-Time Low:** $67.81
-+115434.6%
++115304.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Let's go, pedal to the metal!
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Let's go, pedal to the metal!
 
 Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth told Congress that Bitcoin projects inside the Pentagon are “classified and ongoing,” while stressing that the top crypto is a tool for American power. Hegseth delivered the comments in front of the House Armed Services Committee, responding to questions about whether the US is securing a strategic advantage in technology. “I am a long enthusiast of Bitcoin and crypto potential,” he said. “A lot of the things we are doing, enabling it or defeating it, are classified efforts that are ongoing inside our department, which do provide us a lot of leverage in a lot of different scenarios.” Hegseth’s endorsement elevates Bitcoin into the realm of geopolitical strategy at a time when Russia and China are expanding their roles in mining and using digital assets to bypass US sanctions....
 
-🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 7h ago
+🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 Masood Boomgaard aka Self-Help Singh
 
-59m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Masood Boomgaard aka Self-Help Singh
 
 Fiat doesn’t just lose value. It trains you to spend. Save → lose purchasing power Spend → feel “smart” So people buy earlier. More often. Things they don’t really need. That’s not a side effect. It’s the incentive structure. Bitcoin does the opposite. Low time preference vs high time preference isn’t just theory, it shows up in everyday behavior. Do you agree that inflation quietly drives overconsumption?
 
-🔗 [Myntad](https://www.myntad.com/inflation-causes-unnecessary-consumption/) • 6h ago
+🔗 [Myntad](https://www.myntad.com/inflation-causes-unnecessary-consumption/) • 7h ago
 
 ---
 
@@ -121,7 +121,7 @@ Fiat doesn’t just lose value. It trains you to spend. Save → lose purchasing
 
 A while ago now I read Allden's "Broken Money", and it was the idea of bitcoin as an emergency fund for those without access to regular money which stuck with me the hardest. I think part of why it was so poignant for me was that it made sense regardless of how wealthy one is to keep some funds which is soley controllered by you and noone else. By extension, owning just some bitcoin, even if it is a very modest amount, is equally prudent regardless of whether you are a billionaire or just have more modest savings. The reason I decided to share this is because I rarely see this sentiment in the conversation. Most often I see the argument that bitcoin is the better alternative to fiat, that it will be future base of the financial system and so on. Don't get me wrong, I hope for this although I doubt it. But it does seem inevitable to me that most people should want to have a couple of satoshis just in case. Often billionaires gets flack for building bunkers, but I think most of us would do so. Why? Not because of "eat the rich", not because they expect the world to end, but simply because its not an expense for them anymore. Why not? I would. Ironically this it why I think Bitcoin might just increase enormously in value. People will want to own just a little of it, but for the very rich a little will comparatively mean a lot. But as long as the Bitcoin I own don't lose ALL their value (which seems improbably if not impossible) I will still be happy to own some even if it goes down quite a bit in price. And stays there. Because it is my tiny affordable bunker, which I hope to never need.
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ A while ago now I read Allden's "Broken Money", and it was the idea of bitcoin a
 
 I'm afraid that we keep waiting for some dramatic “mass adoption moment,” like a switch flipping overnight. Meanwhile, it’s already happening-quietly, unevenly, and mostly outside the bubbles that think they’re the center of the world. In countries with stable currencies, Bitcoin is a “speculative asset.” In countries with collapsing ones, it’s survival. That alone should tell us something about where this is going. We don’t notice adoption because it doesn’t need our validation. It happens when someone realizes their savings are melting. When cross-border payments are broken. When “trusted” institutions fail one too many times. And here’s the uncomfortable truth: Bitcoin isn’t waiting to be adopted by everyone. It’s being adopted first by the people who actually need it. By the time it feels obvious in the West, it won’t be early anymore-it’ll be inevitable. So the real question is: are we early or just early enough to still ignore it?
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ I'm afraid that we keep waiting for some dramatic “mass adoption moment,” li
 
 Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Core has been captured for YEARS now. READ IT
 
 Bisq v1 has experienced an exploit in its trade protocol that allowed an attacker to drain a portion of available offers.  The impact is limited to offers that were actively taken by the attacker. Funds held in users’ Bisq Bitcoin wallets are not affected.  As an immediate mitigation, an emergency mechanism was activated to disable trading by setting the required trading version to 2.0.0 — a version that does not exist. This effectively prevents the attacker from continuing the exploit.  The att...
 
-🔗 [Bisq](https://bisq.community/t/psa-trade-protocol-exploit-discovered-investigations-ongoing/13664) • 5h ago
+🔗 [Bisq](https://bisq.community/t/psa-trade-protocol-exploit-discovered-investigations-ongoing/13664) • 6h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bisq v1 has experienced an exploit in its trade protocol that allowed an attacke
 
 Bitcoin rises above $77,000 on solid volume, but rising put open interest and cautious market sentiment suggest traders are hedging against downside risk.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 1d ago
 
 This asset has a lot to offer, but its volatility is an obstacle.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 24m ago
 
 AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business.
 
-CoinDesk • 25m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 25m ago
 
 Bitcoin’s (CRYPTO: $BTC) price rose 13% in April as the “crypto winter” that began last fall star...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 1h ago
 
 Governor Mike Braun ceremonially signed an emergency declaration banning the use of bitcoin ATMS in the state of Indiana.
 
-14 News • 19h ago
+14 News • 20h ago
 
 ---
 
@@ -213,13 +213,13 @@ Governor Mike Braun ceremonially signed an emergency declaration banning the use
 
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
 **[Bitcoin Price Rallies. Why Cryptos Could Climb to Their Highest in Months.](https://www.barrons.com/articles/bitcoin-price-cryptos-xrp-solana-dogecoin-ea982c12)**
 
-Barron's • 12h ago
+Barron's • 13h ago
 
 ---
 
@@ -227,13 +227,13 @@ Barron's • 12h ago
 
 Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
 **[Inside Bitcoin 2026: The Year the Faithful Outgrew the Price](https://www.bloomberg.com/news/newsletters/2026-04-30/inside-bitcoin-2026-the-year-the-faithful-outgrew-the-price)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -245,7 +245,7 @@ Bloomberg.com • 12h ago
 
 How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
 
-⬆️ 81 • 💬 54 • 2d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
+⬆️ 81 • 💬 54 • 3d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
 
 ---
 
@@ -289,7 +289,7 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 **[U.S. Seizes $15B in Bitcoin in Crypto 'Scam' Crackdown](https://news.ycombinator.com/item?id=47971809)**
 
-⬆️ 1 • 💬 2 • 14h ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
+⬆️ 1 • 💬 2 • 15h ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
 
 ---
 
@@ -305,7 +305,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Bitcoin Monitor Widget -  Build your own real-time crypto space with price widgets, portfolio views, themes, logs, terminal, games, custom API cards, alerts.
 
-⬆️ 1 • 💬 0 • 10h ago • [Bitcoin Monitor Widget](https://btcwid.com)
+⬆️ 1 • 💬 0 • 11h ago • [Bitcoin Monitor Widget](https://btcwid.com)
 
 ---
 
@@ -321,13 +321,23 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 ## YouTube Videos: "bitcoin"
 
+**[$100B in Capital Going After $10B in Bitcoin | The Rally Is Coming!](https://www.youtube.com/watch?v=C2NmIHSouSQ)**
+
+B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply shock for the ages. Paul Tudor Jones calls Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 2K • 👍 302 • 💬 17 • ⏱️ 13:54 • 1h ago
+
+---
+
 **[The Fed Shakeup That Sets Off Bitcoin&#39;s Biggest Rally Ever!](https://www.youtube.com/watch?v=sjCHEGFDJks)**
 
 Bitcoin may be entering one of the most important macro setups in its history as AI disruption, Fed policy, negative real rates, ...
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 303 • ⏱️ 18:39 • 1d ago
+👁️ 30K • 👍 2K • 💬 305 • ⏱️ 18:39 • 1d ago
 
 ---
 
@@ -337,7 +347,7 @@ Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocke
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 715 • 💬 146 • ⏱️ 23:54 • 7h ago
+👁️ 12K • 👍 765 • 💬 153 • ⏱️ 23:54 • 8h ago
 
 ---
 
@@ -351,6 +361,16 @@ A billionaire just issued a global warning and it is not subtle. Tim Draper and 
 
 ---
 
+**[Top Economist CONFIRMS You MISSED The Best Time To Buy Bitcoin?! | EP 1495](https://www.youtube.com/watch?v=3vqCJrfhmbk)**
+
+Lyn Alden says the bitcoin bottom is passed - and YOU MISSED IT!
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 261 • 💬 153 • ⏱️ 1:17:38 • 4h ago
+
+---
+
 **[Get Ready...Bitcoin Is One Level Away From Exploding](https://www.youtube.com/watch?v=gM2kDjaJ1l4)**
 
 Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
@@ -358,36 +378,6 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 📺 CryptosRUs
 
 👁️ 20K • 👍 1K • 💬 332 • ⏱️ 43:42 • 1d ago
-
----
-
-**[BITCOIN: SELL IN MAY AND GO AWAY?](https://www.youtube.com/watch?v=F-p39gZA1cc)**
-
-DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
-
-📺 Mathieu - C₿M
-
-👁️ 4K • 👍 377 • 💬 27 • ⏱️ 13:28 • 1d ago
-
----
-
-**[Bitcoin Isn&#39;t Replacing Gold. It&#39;s Replacing THIS](https://www.youtube.com/watch?v=wESDdd9P60I)**
-
-While everyone's arguing about whether Bitcoin replaces gold. What if I told you it doesn't matter? Gold is a $30 trillion debate.
-
-📺 Mark Moss
-
-👁️ 54K • 👍 2K • 💬 335 • ⏱️ 28:23 • 1d ago
-
----
-
-**[THIS chart will change your 2026 Bitcoin price prediction...](https://www.youtube.com/watch?v=iqf2RG2s7OY)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 10K • 👍 656 • 💬 217 • ⏱️ 13:02 • 1d ago
 
 ---
 
@@ -401,23 +391,33 @@ In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down 
 
 ---
 
-**[Adam Back on Bitcoin’s Drop and the US Bitcoin Reserve](https://www.youtube.com/watch?v=NxKi9OSmXiw)**
+**[THIS chart will change your 2026 Bitcoin price prediction...](https://www.youtube.com/watch?v=iqf2RG2s7OY)**
 
-Are governments about to trigger a global Bitcoin bidding war? Blockstream CEO Adam Back breaks down the rumors of a US ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 Cointelegraph
+📺 Tyler S
 
-👁️ 7K • 👍 173 • 💬 8 • ⏱️ 19:04 • 2d ago
+👁️ 10K • 👍 664 • 💬 224 • ⏱️ 13:02 • 1d ago
 
 ---
 
-**[The Crypto Report: Bitcoin Eyes Breakout](https://www.youtube.com/watch?v=hD4fdYJy43k)**
+**[Bitcoin Isn&#39;t Replacing Gold. It&#39;s Replacing THIS](https://www.youtube.com/watch?v=wESDdd9P60I)**
 
-Adam Lynch says Bitcoin has strongly rallied off of its February lows and is up about 10% this April. He suggests that if Bitcoin ...
+While everyone's arguing about whether Bitcoin replaces gold. What if I told you it doesn't matter? Gold is a $30 trillion debate.
 
-📺 Schwab Network
+📺 Mark Moss
 
-👁️ 3K • 👍 25 • 💬 1 • ⏱️ 6:41 • 1d ago
+👁️ 56K • 👍 2K • 💬 293 • ⏱️ 28:23 • 1d ago
+
+---
+
+**[BIG DISASTER FOR BITCOIN ](https://www.youtube.com/watch?v=t1zSiLFLVLg)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+
+📺 The Moon Show
+
+👁️ 7K • 👍 391 • 💬 21 • ⏱️ 4:21 • 5h ago
 
 ---
 

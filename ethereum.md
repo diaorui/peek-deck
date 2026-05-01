@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T21:25:33.977802+00:00'
+updated: '2026-05-01T22:12:41.618632+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 21:25 UTC  
+**Last Updated:** May 01, 2026 at 22:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.16B
+**Market Cap:** $276.94B
 Rank #2
 
 **Circulating Supply:** 120,687,573 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.4%
+-53.6%
 
 **All-Time Low:** $0.43
-+532029.7%
++530004.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 3h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-18m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ I was wondering if someone has some good ideas on task of creating decentralised
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 11h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 3h ago
 
 Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1h ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ Fortune • 2d ago
 
 Ethereum has slowly broken out of its October downtrend that had led to its progressive but brutal 64% correction.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 814 • 👍 48 • 💬 7 • ⏱️ 8:12 • 7h ago
+👁️ 1K • 👍 52 • 💬 8 • ⏱️ 8:12 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 4K • 👍 122 • 💬 18 • ⏱️ 24:23 • 9h ago
+👁️ 4K • 👍 125 • 💬 18 • ⏱️ 24:23 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 184 • 💬 18 • ⏱️ 12:11 • 12h ago
+👁️ 1K • 👍 190 • 💬 39 • ⏱️ 12:11 • 13h ago
 
 ---
 
@@ -268,17 +268,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 191 • 💬 26 • ⏱️ 9:18 • 1d ago
-
----
-
-**[Crypto Hacks Are DESTROYING Ethereum &amp; Altcoins (Ft. Jupiter President)](https://www.youtube.com/watch?v=n4Io3PirMPA)**
-
-Ethereum and altcoins are bleeding from the largest wave of crypto hacks yet — and the timing couldn't be worse. AI is pulling ...
-
-📺 EllioTrades
-
-👁️ 1K • 👍 82 • 💬 8 • ⏱️ 1:20:25 • 1h ago
+👁️ 4K • 👍 192 • 💬 26 • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -288,7 +278,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 2K • 👍 79 • 💬 36 • ⏱️ 10:21 • 2d ago
+👁️ 2K • 👍 81 • 💬 36 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -298,7 +288,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 60K • 👍 3K • 💬 169 • ⏱️ 16:31 • 2d ago
+👁️ 60K • 👍 3K • 💬 158 • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -318,7 +308,17 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 276 • 💬 199 • ⏱️ 13:28 • 17h ago
+👁️ 6K • 👍 279 • 💬 300 • ⏱️ 13:28 • 18h ago
+
+---
+
+**[🚨 La fondation Ethereum implose : faut-il vendre ?](https://www.youtube.com/watch?v=n7SGKGaFkpM)**
+
+50 000 € à gagner sur Bitpanda : https://bitpanda.pxf.io/c/5654847/2334692/15871?subId1=MoneyRadar Notre Newsletter ...
+
+📺 MoneyRadar Crypto
+
+👁️ 5K • 👍 373 • 💬 27 • ⏱️ 15:24 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 624 • 👍 65 • ⏱️ 6:16 • 8h ago
+👁️ 707 • 👍 67 • ⏱️ 6:16 • 9h ago
 
 ---
 

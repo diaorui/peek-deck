@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-01T21:25:33.965057+00:00'
+updated: '2026-05-01T22:12:41.604127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 01, 2026 at 21:25 UTC  
+**Last Updated:** May 01, 2026 at 22:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 7h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ China just banned firing workers for AI while Nvidia's CEO claims AI created ove
 
 The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
 
-8h ago
+9h ago
 
 ---
 
@@ -65,13 +65,13 @@ The Clearview AI story still feels like one of the cleanest examples of the cons
 
 The observation that started this: most of what people use AI for every day - summarising, drafting, classifying, extracting etc doesn't actually require a frontier model. Any competent 8-70B model handles those just as well. But most people run everything through Claude or ChatGPT out of habit. I built Followloop (followloop.app) to solve this automatically. It classifies each task by complexity and routes it: - Simple tasks → Cerebras Llama (2000 TPS, 1M tokens/day free), Groq, Gemini Flash - Moderate tasks → Groq 70B, SambaNova - Complex tasks → Claude Haiku as fallback The dashboard shows your actual cost alongside what you'd have paid running everything on Claude Sonnet. I've been running it on my own AI workflow for two weeks: 9,200 tasks routed, $21.24 saved, $0.1360 actual cost. About 157× cheaper per token than Sonnet on average. Works with any AI setup via MCP (Model Context Protocol) - Claude Desktop, Cursor, Claude Code, or anything MCP-compatible. Also has a library of 1,300+ safety-screened MCP servers as a bonus feature. $5/month at followloop.app
 
-8h ago
+9h ago
 
 ---
 
 **[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 21h ago
+🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 22h ago
 
 ---
 
@@ -79,7 +79,7 @@ The observation that started this: most of what people use AI for every day - su
 
 Researchers say results mark a really ‘profound change in technology that will reshape medicine’
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Researchers say results mark a really ‘profound change in technology that will
 
 Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.
 
-🔗 [WIRED](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/) • 9m ago
+🔗 [WIRED](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/) • 57m ago
 
 ---
 
@@ -95,7 +95,7 @@ Build American AI, a nonprofit linked to a super PAC bankrolled by executives at
 
 We shipped iFixAi earlier this week. An open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Open source and free to run against any AI deployment. Looking forward to your feedback. https://github.com/ifixai-ai/diagnostic
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 Sat through a demo this week for one of these AI SDR tools and the pitch was in a nutshell: you don’t need junior sales reps anymore. (As in not even train them anymore just remove them.) To my surprise it worked. The tool was doing outbound, follow-ups, personalization, all the stuff junior SDRs grind through. Faster, cleaner, no complaints! But it did leave me feeling uneasy. That grindy, repetitive work is literally how most people get into sales. It’s where you learn how people respond, how messaging gets through, how to deal with rejection without taking it personally. That's how I got into it at least. So if AI wipes that layer out completely, what’s the path in? Are we just skipping straight to “hire experienced closers” and hoping they came from… where exactly? I’m not anti-AI (this stuff is obviously useful), but replacing enty-level humans as the first step in the process doesn't feel like a sustainable route.
 
-11h ago
+12h ago
 
 ---
 
@@ -131,13 +131,13 @@ CBS News • 20h ago
 
 The Pentagon has signed agreements with leading AI firms, including Microsoft, Amazon and Google, advancing military capabilities amid a dispute over safeguards.
 
-The Washington Post • 38m ago
+The Washington Post • 1h ago
 
 ---
 
 **[Pentagon Makes Deals With A.I. Companies to Expand Classified Work](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -145,13 +145,13 @@ The New York Times • 5h ago
 
 The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.
 
-BBC • 15m ago
+BBC • 1h ago
 
 ---
 
 **[Scoop: House Foreign Affairs lawmakers head to Silicon Valley to talk AI exports](https://www.axios.com/2026/05/01/house-foreign-affairs-silicon-valley-ai-exports)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -159,19 +159,19 @@ Axios • 48m ago
 
 Five of the tech stocks making up the Magnificent Seven reported earnings this week — Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT). Niles Investment Management founder and portfolio manager Dan Niles comes on Market Domination to make his case as to why Google's parent company may be Big Tech's biggest winner in AI this quarter. He goes on to share his perspective on Microsoft (MSFT) and OpenAI's (OPAI.PVT) standings in the AI race. Nvidia (NVDA) will close out the Mag 7's earnings season when it releases its first quarter 2027 results on Wednesday, May 20.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Apple just gave a clue that an AI acquisition may be in the cards](https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
 **[Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply](https://www.bloomberg.com/news/articles/2026-05-01/apple-raises-mac-mini-s-starting-price-to-799-after-ai-frenzy-drains-supply)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ TechCrunch • 23h ago
 
 **[Opinion | Trump Is the One Without the Cards at the Poker Table](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -213,7 +213,7 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 351 • 💬 395 • 5h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 351 • 💬 395 • 6h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
@@ -260,7 +260,7 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 151 • 💬 167 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 151 • 💬 167 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -276,13 +276,13 @@ Experience the real-world sounds of AI with this interactive audio generator.
 
 ## YouTube Videos: "ai"
 
-**[The AI Economy is about to change](https://www.youtube.com/watch?v=_Q-e_nczWqM)**
+**[Reacting to &quot;Why AI is so smart but also so dumb?&quot;](https://www.youtube.com/watch?v=pngC-TH8M0U)**
 
-Don't let bad code get merged without reviewing (hopefully not by merge cop!). Checkout out Code Rabbit at ...
+Automate your video workflow with WayinVideo's Clipping Skill & API https://bit.ly/WayinVideoSkillAPI Get 15% off any API ...
 
-📺 The PrimeTime
+📺 Matthew Berman
 
-👁️ 216K • 👍 12K • 💬 1K • ⏱️ 9:39 • 8h ago
+👁️ 5K • 👍 412 • 💬 66 • ⏱️ 34:51 • 1h ago
 
 ---
 
@@ -292,7 +292,7 @@ FREE GUIDE: *The Content Creator's AI Blueprint:* https://FirstMovers.ai/bluepri
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 247 • 💬 19 • ⏱️ 6:22 • 6h ago
+👁️ 7K • 👍 305 • 💬 21 • ⏱️ 6:22 • 7h ago
 
 ---
 
@@ -302,27 +302,27 @@ Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is re
 
 📺 TIME
 
-👁️ 88K • 👍 1K • 💬 98 • ⏱️ 6:44 • 1d ago
+👁️ 94K • 👍 2K • 💬 108 • ⏱️ 6:44 • 1d ago
 
 ---
 
-**[AI Shows America Without Democrats](https://www.youtube.com/watch?v=Jn-7ZuhoAEc)**
+**[The 10-Year Warning + BTC Bottom IN, Plus what else will AI Eat?  Prepare for 🚀](https://www.youtube.com/watch?v=oHLmKah6chg)**
 
-We asked Artificial Intelligence what America would look like without Democrats.
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 The Babylon Bee
+📺 InvestAnswers
 
-👁️ 113K • 👍 9K • 💬 1K • ⏱️ 1:09 • 1d ago
+👁️ 7K • 👍 952 • 💬 39 • ⏱️ 25:30 • 1h ago
 
 ---
 
-**[Harvard Just Caught AI Lying to Every Executive in America](https://www.youtube.com/watch?v=pd1Km6bT104)**
+**[The AI Economy is about to change](https://www.youtube.com/watch?v=_Q-e_nczWqM)**
 
-What 10000 readers from Coinbase, HP, and Johns Hopkins read every week → brendandell.com (Free to subscribe). A new ...
+Don't let bad code get merged without reviewing (hopefully not by merge cop!). Checkout out Code Rabbit at ...
 
-📺 Brendan Dell 
+📺 The PrimeTime
 
-👁️ 137K • 👍 7K • 💬 2K • ⏱️ 16:59 • 2d ago
+👁️ 274K • 👍 13K • 💬 1K • ⏱️ 9:39 • 9h ago
 
 ---
 
@@ -332,7 +332,7 @@ The economic model for the AI industry brought to us by Wall Street and Silicon 
 
 📺 Inside China Business
 
-👁️ 92K • 👍 8K • 💬 2K • ⏱️ 43:55 • 1d ago
+👁️ 94K • 👍 8K • 💬 2K • ⏱️ 43:55 • 1d ago
 
 ---
 
@@ -342,37 +342,37 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are 
 
 📺 Dan Martell
 
-👁️ 131K • 👍 6K • 💬 235 • ⏱️ 26:44 • 1d ago
+👁️ 141K • 👍 6K • 💬 238 • ⏱️ 26:44 • 1d ago
 
 ---
 
-**[Create Seamless AI Films of ANY Length (GPT Image 2 + Seedance 2.0)](https://www.youtube.com/watch?v=KxRR8uiex_s)**
+**[Harvard Just Caught AI Lying to Every Executive in America](https://www.youtube.com/watch?v=pd1Km6bT104)**
 
-Create Your Own Long AI Scenes in Higgsfield AI: https://higgsfield.ai/s/gpt-image-2-seedance-2-0-taoprompts-lvBjaE GPT Image ...
+What 10000 readers from Coinbase, HP, and Johns Hopkins read every week → brendandell.com (Free to subscribe). A new ...
 
-📺 Tao Prompts
+📺 Brendan Dell 
 
-👁️ 5K • 👍 420 • 💬 28 • ⏱️ 15:48 • 7h ago
-
----
-
-**[AI Is REPLACING YOU and the MARKET LOVES IT](https://www.youtube.com/watch?v=hsjEckj9kO8)**
-
-The AI revolution isn't coming; it's already here, and it's moving faster than anyone in Washington or on Wall Street wants to admit.
-
-📺 Anthony Scaramucci
-
-👁️ 30K • 👍 1K • 💬 216 • ⏱️ 27:44 • 2d ago
+👁️ 143K • 👍 8K • 💬 2K • ⏱️ 16:59 • 2d ago
 
 ---
 
-**[Trump posts AI image of himself with a gun, says Iran ‘better get smart soon’](https://www.youtube.com/watch?v=Wjsft-U5qLQ)**
+**[Why are programmers turning their backs on AI?](https://www.youtube.com/watch?v=IcAU3LerzRE)**
 
-The Heritage Foundation senior research fellow Brent Sadler says it may come down to a 'waiting game' as Iran continues to face ...
+General Translation, translate your entire app with 1 component: http://www.bigboxswe.dev/GT AI fatigue is real.
 
-📺 Fox News
+📺 bigboxSWE
 
-👁️ 62K • 👍 1K • 💬 1K • ⏱️ 5:08 • 1d ago
+👁️ 19K • 👍 1K • 💬 122 • ⏱️ 4:59 • 6h ago
+
+---
+
+**[Rezolve AI Stock dropped BIG NEWS Today...](https://www.youtube.com/watch?v=67B6M7REUmc)**
+
+aistocks #rzlv #rezolveai We are going to be going over everything you need to know about Rezolve AI Stock here in this video ...
+
+📺 The Creative Investor
+
+👁️ 3K • 👍 185 • 💬 74 • ⏱️ 21:37 • 20h ago
 
 ---
 
@@ -388,7 +388,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 321,492 • ❤️ 3,360 • 4d ago
+⬇️ 321,492 • ❤️ 3,362 • 4d ago
 
 ---
 
@@ -400,7 +400,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 92,567 • ❤️ 1,171 • 9d ago
+⬇️ 92,567 • ❤️ 1,175 • 9d ago
 
 ---
 
@@ -412,7 +412,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 7,944 • ❤️ 342 • 3d ago
+⬇️ 7,944 • ❤️ 344 • 3d ago
 
 ---
 
@@ -424,7 +424,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 281,356 • ❤️ 903 • 4d ago
+⬇️ 281,356 • ❤️ 905 • 4d ago
 
 ---
 
@@ -436,7 +436,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 906,859 • ❤️ 1,054 • 7d ago
+⬇️ 906,859 • ❤️ 1,055 • 7d ago
 
 ---
 
@@ -452,15 +452,15 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 ---
 
-**[Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**
+**[Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16)**
 
-*Moonshot AI*
+*NVIDIA*
 
-Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon coding and coding-driven design, capable of generating production-ready interfaces and workflows from prompts and visual inputs. It features an advanced agent swarm for complex task orchestration and proactive autonomous execution.
+Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, and document intelligence, capable of processing video, audio, image, and text inputs for use cases like customer service, media analysis, and GUI automation.
 
-`image-text-to-text` `1058.6B`
+`any-to-any` `33.0B`
 
-⬇️ 649,331 • ❤️ 1,173 • 1d ago
+⬇️ 35,000 • ❤️ 182 • 2d ago
 
 ---
 
@@ -474,15 +474,15 @@ talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931
 
 ---
 
-**[Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16)**
+**[Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**
 
-*NVIDIA*
+*Moonshot AI*
 
-Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, and document intelligence, capable of processing video, audio, image, and text inputs for use cases like customer service, media analysis, and GUI automation.
+Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon coding and coding-driven design, capable of generating production-ready interfaces and workflows from prompts and visual inputs. It features an advanced agent swarm for complex task orchestration and proactive autonomous execution.
 
-`any-to-any` `33.0B`
+`image-text-to-text` `1058.6B`
 
-⬇️ 35,000 • ❤️ 181 • 2d ago
+⬇️ 649,331 • ❤️ 1,173 • 1d ago
 
 ---
 
@@ -494,7 +494,7 @@ MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio wit
 
 `310.8B`
 
-⬇️ 21,407 • ❤️ 176 • 2d ago
+⬇️ 21,407 • ❤️ 177 • 2d ago
 
 ---
 
@@ -562,7 +562,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 5,449 • 17d ago
+▲ 19 • 💬 2 • ⭐ 5,499 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -576,7 +576,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 81 • 💬 6 • ⭐ 19,479 • 6mo ago
+▲ 81 • 💬 6 • ⭐ 19,499 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -643,7 +643,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 51.9k • 🔱 2.8k • 20h ago
+⭐ 52.0k • 🔱 2.8k • 21h ago
 
 ---
 
@@ -653,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 12h ago
+⭐ 50.7k • 🔱 6.7k • 13h ago
 
 ---
 
@@ -669,11 +669,11 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 **[safishamsi/graphify](https://github.com/safishamsi/graphify)**
 
-AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 39.6k • 🔱 4.4k • 3h ago
+⭐ 39.6k • 🔱 4.4k • 52m ago
 
 ---
 
@@ -693,7 +693,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.2k • 🔱 592 • 4d ago
+⭐ 9.3k • 🔱 594 • 4d ago
 
 ---
 
@@ -723,7 +723,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 4.9k • 🔱 339 • 1d ago
+⭐ 4.9k • 🔱 338 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-01T21:25:33.980559+00:00'
+updated: '2026-05-01T22:12:41.621866+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 01, 2026 at 21:25 UTC  
+**Last Updated:** May 01, 2026 at 22:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Commercial video: https://x.com/XRoboHub/status/2049373299310993869
 
-12h ago
+13h ago
 
 ---
 
@@ -44,13 +44,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 I’ve been working on a custom dual H-bridge brushed DC motor driver designed to replace those generic off-the-shelf motor modules for complex mobile robot platforms and robotic arms. I wanted a small all-in-one solution for robotics projects! It's built around the Raspberry Pi RP2350 (Pico 2) and the Texas Instruments DRV8412. Quick specs: Runs two brushed DC motors at up to 40 V (3A continuous, 6A peak per motor) Single wide voltage range power supply 4-40V Per bridge current sensing - ACS722 Full ASCII + binary command API over USB, UART, and I²C 4-layer 50x60mm PCB with a 3-stage clean logic power topology Closed-loop control (position/speed PIDs) at a 4 ms control period GUI for PID tuning If you want to check it out, I did a full video on it, and it is also on GitHub. Video: https://www.youtube.com/watch?v=DQ6VGJUASJw Github: https://github.com/MilosRasic98/OpenDualMotorDriver
 
-1h ago
+2h ago
 
 ---
 
 **[He just can’t give up](https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’ve been working on a custom dual H-bridge brushed DC motor driver designed t
 
 I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- IP ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.02 rads per message. The MCU data handler triggers when new message arrives and send it to a 1 len queue so the servo tasks can go at its frequency without getting conditioned by the latency. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The m
 
 Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog/robotera-humanoid-robots-logistics/ This was also reported by Caixing Global, a leading Chinese business outlet www.caixinglobal.com/2026-04-27/robot-era-raises-more-than-200-million-as-chinas-humanoid-robot-race-heats-up-102438549.html
 
-12h ago
+13h ago
 
 ---
 
@@ -74,13 +74,13 @@ Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog
 
 Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-Tube Boom (STEM) concept. It can extend up to 5 ft. It was redesigned to be easier and more affordable to manufacture, with all parts 3D printed. The current use case is sanding large epoxy tables or plates or decks. I ran out of resources before building a more advanced version. Curious to hear what other use cases people see for something like this.
 
-17h ago
+18h ago
 
 ---
 
 **[Industrial inspection!](https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-
 
 Hey r/robotics, I’m trying to upgrade the joints on open-source platforms (like the Berkeley Lite and ALOHA) because I keep destroying 3D-printed plastic gears under dynamic loads. I’m currently designing a full CNC metal cycloidal drive to replace them, but I need a reality check on the physics before I spend a ton of money at the machine shop. My plan is to standardize all joints to a single size with a 30:1 gear ratio and a 48V architecture (to keep machining costs sane). Here is my main dilemma: At 30:1, is this still technically QDD (Quasi-Direct Drive)? My goal is to achieve good proprioception (sensing external forces via current changes) without expensive inline torque sensors, utilizing Dual Absolute Encoders and FOC. But I’m worried that the added friction and inertia of a 30:1 metal cycloidal will kill the back-drivability and ruin the impedance control. Has anyone successfully done sensorless force control with a 30:1 metal cycloidal? Does this actually work for humanoids, or am I just building a stiff industrial joint by accident? Also, I'm trying to use one universal actuator size for the whole robot to simplify the BOM. Is this a terrible idea for bipedal swing dynamics? Would love to hear some harsh truths before I pull the trigger on prototyping! (Exploded CAD view attached).
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey r/robotics, I’m trying to upgrade the joints on open-source platforms (lik
 
 I mean, why not? Meta is certainly placing bets on a few different future directions - most curiously at the expense of their existing operations - seeing the layoffs and gutting going on everywhere else in the org.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/meta-acquires-humanoid-robotics-ai-startup-to) • 1h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/meta-acquires-humanoid-robotics-ai-startup-to) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ I mean, why not? Meta is certainly placing bets on a few different future direct
 
 ROS News for the Week of April 27th, 2026    The Lyrical Luth Test and Tutorial Party is live! We could really use your help testing this release. We’ve got over 3️⃣ 0️⃣ 0️⃣ 0️⃣ testing tickets we need to work through by May 14th, and we really need help from the community to make it happen! Up to date installation details can be found here. Our top 20 testers will get there choice of OSRA membership or ROS swag!       The ROS 2 Lyrical Luth Release Illustration and swag has been re...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-27th-2026/) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-27th-2026/) • 2h ago
 
 ---
 
@@ -114,7 +114,7 @@ ROS News for the Week of April 27th, 2026    The Lyrical Luth Test and Tutorial 
 
 **[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -122,7 +122,7 @@ Bloomberg.com • 4h ago
 
 (Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ Yahoo Finance • 3h ago
 
 The Assured Robot Intelligence team will join Meta Superintelligence Labs and work alongside Meta Robotics Studio on in-house humanoid hardware and AI
 
-qz.com • 3h ago
+qz.com • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ CNBC • 1d ago
 
 The company behind a viral humanoid robot said it plans to release 100,000 units into the consumer market by late 2027.
 
-USA Today • 14m ago
+USA Today • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ BBC • 3d ago
 
 Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ CNBC • 20h ago
 
 The next time you fly through Tokyo's Haneda Airport, your luggage might be taken care of by the dexterous hands of a humanoid robot.
 
-New Atlas • 11h ago
+New Atlas • 12h ago
 
 ---
 
@@ -198,7 +198,17 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 185K • 👍 3K • 💬 229 • ⏱️ 24:02 • 2d ago
+👁️ 188K • 👍 3K • 💬 231 • ⏱️ 24:02 • 2d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Johnson Division - Day 3](https://www.youtube.com/watch?v=skZTO76_SB4)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Johnson Division - Broadcast Day 3 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 23K • 👍 93 • 5d ago
 
 ---
 
@@ -208,7 +218,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 10K • 👍 76 • 5d ago
+👁️ 14K • 👍 89 • 5d ago
 
 ---
 
@@ -218,17 +228,17 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 10K • 👍 60 • 5d ago
+👁️ 14K • 👍 72 • 5d ago
 
 ---
 
-**[2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Day 3](https://www.youtube.com/watch?v=XuQbxsAbEXg)**
+**[US and China race to build best humanoid robots](https://www.youtube.com/watch?v=iMXb4k2b130)**
 
-2026 FIRST Championship - FIRST Robotics Competition - Archimedes Division - Broadcast Day 3 ...
+The U.S. and China are in a race to develop the next wave of mechanical helpers: humanoid robots. ABC News' Britt Clennett has ...
 
-📺 FIRSTRoboticsCompetition
+📺 ABC News
 
-👁️ 11K • 👍 62 • 5d ago
+👁️ 6K • 👍 48 • 💬 24 • ⏱️ 4:03 • 16h ago
 
 ---
 
@@ -238,27 +248,7 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 📺 War Vault
 
-👁️ 258K • 👍 5K • 💬 511 • ⏱️ 16:42 • 2d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 3](https://www.youtube.com/watch?v=K4m0GSSTM18)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 12K • 👍 105 • 5d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 3](https://www.youtube.com/watch?v=sK-gayyCsIk)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 11K • 👍 74 • 5d ago
+👁️ 261K • 👍 5K • 💬 515 • ⏱️ 16:42 • 2d ago
 
 ---
 
@@ -268,17 +258,27 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 9K • 👍 60 • 5d ago
+👁️ 13K • 👍 74 • 5d ago
 
 ---
 
-**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 3](https://www.youtube.com/watch?v=sK-gayyCsIk)**
 
-ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 3 ...
 
-📺 VEX Robotics
+📺 FIRSTRoboticsCompetition
 
-👁️ 34K • 👍 767 • 💬 223 • ⏱️ 3:51 • 23h ago
+👁️ 16K • 👍 91 • 5d ago
+
+---
+
+**[2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 3](https://www.youtube.com/watch?v=K4m0GSSTM18)**
+
+2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 3 ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 17K • 👍 131 • 5d ago
 
 ---
 
@@ -288,7 +288,7 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 31K • 👍 782 • 💬 66 • ⏱️ 8:27 • 4d ago
+👁️ 32K • 👍 811 • 💬 67 • ⏱️ 8:27 • 4d ago
 
 ---
 
