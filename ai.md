@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-01T15:58:32.781020+00:00'
+updated: '2026-05-01T17:07:11.243379+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 01, 2026 at 15:58 UTC  
+**Last Updated:** May 01, 2026 at 17:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 They published the full research yesterday. Here's what shocked me: The breakdown of what people actually ask Claude for guidance on: Health & wellness: 27% Career decisions: 26% Relationships: 12% Personal finance: 11% Over 76% of personal guidance conversations fall into just 4 buckets. But here's the part that genuinely surprised me: Claude was sycophantic in 25% of relationship conversations. Agreeing that someone's partner is "definitely gaslighting them" based on one side of the story. Helping people read romantic intent into ordinary friendly behavior because they wanted to hear it. In spirituality conversations it was even worse: 38%. Anthropic actually used this data to retrain Opus 4.7 specifically for this failure mode. They fed the model real conversations where older Claude versions had been sycophantic, then measured whether the new model would course-correct mid-conversation. Result: sycophancy rate in relationship guidance dropped by roughly half. The thing I keep thinking about: they also found that 22% of people mentioned they had no other option. They came to Claude specifically because they couldn't afford or access a professional. So the stakes here aren't "AI gave someone bad movie recommendations." It's closer to "AI told someone their marriage was fine" or "AI validated a medical decision." I'm curious to know your opinion. Do you notice Claude caving when you push back on its answers? Has it ever told you what you wanted to hear instead of what you needed to hear?
 
-4h ago
+5h ago
 
 ---
 
@@ -49,13 +49,7 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 2h ago
-
----
-
-**[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 16h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 3h ago
 
 ---
 
@@ -63,15 +57,13 @@ China just banned firing workers for AI while Nvidia's CEO claims AI created ove
 
 The observation that started this: most of what people use AI for every day - summarising, drafting, classifying, extracting etc doesn't actually require a frontier model. Any competent 8-70B model handles those just as well. But most people run everything through Claude or ChatGPT out of habit. I built Followloop (followloop.app) to solve this automatically. It classifies each task by complexity and routes it: - Simple tasks → Cerebras Llama (2000 TPS, 1M tokens/day free), Groq, Gemini Flash - Moderate tasks → Groq 70B, SambaNova - Complex tasks → Claude Haiku as fallback The dashboard shows your actual cost alongside what you'd have paid running everything on Claude Sonnet. I've been running it on my own AI workflow for two weeks: 9,200 tasks routed, $21.24 saved, $0.1360 actual cost. About 157× cheaper per token than Sonnet on average. Works with any AI setup via MCP (Model Context Protocol) - Claude Desktop, Cursor, Claude Code, or anything MCP-compatible. Also has a library of 1,300+ safety-screened MCP servers as a bonus feature. $5/month at followloop.app
 
-3h ago
+4h ago
 
 ---
 
-**[AI outperforms doctors in Harvard trial of emergency triage diagnoses](https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/)**
+**[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
 
-Researchers say results mark a really ‘profound change in technology that will reshape medicine’
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 5h ago
+🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 17h ago
 
 ---
 
@@ -79,7 +71,23 @@ Researchers say results mark a really ‘profound change in technology that will
 
 The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
 
-3h ago
+4h ago
+
+---
+
+**[AI outperforms doctors in Harvard trial of emergency triage diagnoses](https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/)**
+
+Researchers say results mark a really ‘profound change in technology that will reshape medicine’
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 6h ago
+
+---
+
+**[The Internet Needs a New Layer for AI Agents](https://www.reddit.com/r/artificial/comments/1t0wpu8/the_internet_needs_a_new_layer_for_ai_agents/)**
+
+In the future, everyone will have their own AI agent. Not just a chatbot, but an actual agent that works for you. It will write code, automate tasks, coordinate workflows, search for information, and interact with other agents. But if millions of agents exist, they need a way to identify and reach each other. Agents should have addresses. Simple human readable identities instead of random hashes. Something agents can discover, message, hire, and collaborate with. An address becomes more than a name. It becomes an entry point into an agent. That’s what I’m building right now. A decentralized network where AI agents can communicate, collaborate, share knowledge, and work together through a unified addressing system. Not isolated tools. A real network for agents. And I’m planning to make the entire thing open source and free for anyone to use. You can leave your email here to get early access: www.cogninet.co
+
+1h ago
 
 ---
 
@@ -95,7 +103,7 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 A framing I keep coming back to: a synthetic image or video can succeed even when almost nobody believes it. Not because it changes minds directly, but because it turns attention into the attacked resource. If a campaign, newsroom, platform, or company has to stop and answer the fake, the fake already got some of what it wanted: the defenders spend scarce time verifying and explaining the audience gets forced to process the claim anyway every debunk risks replaying the artifact institutions look reactive even when they are correct the attacker learns which themes reliably pull defenders into the loop So detection is necessary, but not sufficient. The second half of the system is distribution response. A few practical design questions I think matter more than the usual “can we detect it?” debate: Can we debunk without embedding, quoting, or rewarding the fake? Can provenance signals move suspicious media into slower lanes instead of binary takedown/leave-up decisions? Do newsrooms and platforms track attention budget as an operational constraint? Can response teams separate “this is false” from “this deserves broad amplification”? Can systems preserve evidence for verification while reducing replay value for the attacker? The failure mode is treating every fake as an information accuracy problem when some of them are closer to denial-of-service attacks on attention. Curious how people here would design the response layer. What should a healthy “quarantine lane” for synthetic media look like without becoming censorship-by-default?
 
-11h ago
+12h ago
 
 ---
 
@@ -103,15 +111,7 @@ A framing I keep coming back to: a synthetic image or video can succeed even whe
 
 Sat through a demo this week for one of these AI SDR tools and the pitch was in a nutshell: you don’t need junior sales reps anymore. (As in not even train them anymore just remove them.) To my surprise it worked. The tool was doing outbound, follow-ups, personalization, all the stuff junior SDRs grind through. Faster, cleaner, no complaints! But it did leave me feeling uneasy. That grindy, repetitive work is literally how most people get into sales. It’s where you learn how people respond, how messaging gets through, how to deal with rejection without taking it personally. That's how I got into it at least. So if AI wipes that layer out completely, what’s the path in? Are we just skipping straight to “hire experienced closers” and hoping they came from… where exactly? I’m not anti-AI (this stuff is obviously useful), but replacing enty-level humans as the first step in the process doesn't feel like a sustainable route.
 
-6h ago
-
----
-
-**[The Internet Needs a New Layer for AI Agents](https://www.reddit.com/r/artificial/comments/1t0wpu8/the_internet_needs_a_new_layer_for_ai_agents/)**
-
-In the future, everyone will have their own AI agent. Not just a chatbot, but an actual agent that works for you. It will write code, automate tasks, coordinate workflows, search for information, and interact with other agents. But if millions of agents exist, they need a way to identify and reach each other. Agents should have addresses. Simple human readable identities instead of random hashes. Something agents can discover, message, hire, and collaborate with. An address becomes more than a name. It becomes an entry point into an agent. That’s what I’m building right now. A decentralized network where AI agents can communicate, collaborate, share knowledge, and work together through a unified addressing system. Not isolated tools. A real network for agents. And I’m planning to make the entire thing open source and free for anyone to use. You can leave your email here to get early access: www.cogninet.co
-
-27m ago
+7h ago
 
 ---
 
@@ -119,17 +119,17 @@ In the future, everyone will have their own AI agent. Not just a chatbot, but an
 
 ## Google News: "ai"
 
-**[Billionaire Chris Larsen Plans to Spend $3.5 Million in NY House Race Amid Midterm Clash Over A.I.](https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html)**
+**[New White House drug abuse strategy floats wastewater testing, AI, more treatment and faith-based options](https://www.cbsnews.com/news/new-white-house-drug-abuse-strategy-wastewater-testing-ai-treatment/)**
 
-The New York Times • 1h ago
+The Trump administration is proposing wastewater testing to try to ferret out data on illegal drug use in real time, according to a draft of a new drug control strategy obtained by CBS News. It also proposes using AI to track threats.
+
+CBS News • 15h ago
 
 ---
 
-**[Classified Networks AI Agreements](https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/)**
+**[A Midterm Clash of A.I. Giants Escalates as a Tech Billionaire Jumps In](https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html)**
 
-The War Department has entered into agreements with seven of the world's leading frontier artificial intelligence companies to deploy their advanced AI capabilities on the department's classified
-
-U.S. Department of War (.gov) • 4h ago
+The New York Times • 7h ago
 
 ---
 
@@ -141,19 +141,17 @@ The Washington Post • 1h ago
 
 ---
 
-**[Microsoft and Amazon join Pentagon's push to build AI-first military with classified network deals](https://www.geekwire.com/2026/microsoft-and-amazon-join-pentagons-push-to-build-ai-first-military-with-classified-network-deals/)**
+**[Pentagon Makes Deals With A.I. Companies to Expand Classified Work](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html)**
 
-The agreements — which also include OpenAI, Google, Nvidia, SpaceX and the startup Reflection — will give those firms' AI systems access to the military's most classified network environments.
-
-GeekWire • 19m ago
+The New York Times • 4h ago
 
 ---
 
-**[Make It Make Sense: Will AI take your job?](https://www.cnn.com/2026/05/01/business/video/cnn-sitroom-blitzer-goldman-make-it-make-sense-ai)**
+**[Pentagon announces deal with seven AI companies for classified systems](https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems)**
 
-CNN’s Wolf Blitzer speaks with CNN Business Senior Reporter David Goldman as we break down economic headlines to help you make sense of it all. With major tech companies downsizing their workforces in favor of AI - we take a closer look at how AI could reshape the workplace
+Most recent instance of department integrating with AI comes amid Anthropic standoff, concern over use in Iran war.
 
-CNN • 45m ago
+Al Jazeera • 1h ago
 
 ---
 
@@ -161,15 +159,13 @@ CNN • 45m ago
 
 The takeaway could not have been clearer: Alphabet isn't just surviving the AI revolution — in many ways, it's leading it.
 
-CNBC • 24m ago
+CNBC • 1h ago
 
 ---
 
-**[MIT AI expert warns automating Gen Z entry-level jobs could backfire—and cost companies their future workforce](https://fortune.com/2026/05/01/automating-gen-z-entry-level-jobs-could-backfire-mit-ai-researcher-andrew-mcafee-talent-pipelines-at-risk/)**
+**[Roblox to Challenge Unity, Unreal Engines With New AI Software](https://www.bloomberg.com/news/articles/2026-05-01/roblox-to-challenge-unity-unreal-engines-with-new-ai-software)**
 
-CEOs who cut entry-level jobs risk long-term fallout, warns MIT’s Andrew McAfee—as IBM and Salesforce double down on Gen Z talent.
-
-Fortune • 11m ago
+Bloomberg.com • 42m ago
 
 ---
 
@@ -177,23 +173,23 @@ Fortune • 11m ago
 
 Thanks to the rise of Claude Code and other AI agents, revenues are finally catching up to the hype.
 
-The Atlantic • 4h ago
+The Atlantic • 6h ago
 
 ---
 
-**[In real-world test, an AI model did better than ER doctors at diagnosing patients](https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis)**
+**[A tech worker in China is laid off and replaced by AI. Is it legal?](https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai)**
 
-Researchers evaluated how well an AI model could diagnose and make decisions about patient care.
+A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.
 
-NPR • 21h ago
+NPR • 6h ago
 
 ---
 
-**[Shares in Japanese toilet maker Toto soar on AI-related pivot](https://www.ft.com/content/38969e97-92e4-4066-a554-27274d32d545?syn-25a6b1a6=1)**
+**[Make It Make Sense: Will AI take your job?](https://www.cnn.com/2026/05/01/business/video/cnn-sitroom-blitzer-goldman-make-it-make-sense-ai)**
 
-Investors cheer after company unveils plans to boost output of semiconductor components
+CNN’s Wolf Blitzer speaks with CNN Business Senior Reporter David Goldman as we break down economic headlines to help you make sense of it all. With major tech companies downsizing their workforces in favor of AI - we take a closer look at how AI could reshape the workplace
 
-Financial Times • 6h ago
+CNN • 1h ago
 
 ---
 
@@ -205,7 +201,7 @@ Financial Times • 6h ago
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 660 • 💬 447 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 661 • 💬 447 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -213,7 +209,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 435 • 💬 161 • 23h ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 446 • 💬 166 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -241,27 +237,11 @@ Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Fi
 
 ---
 
-**[AI's economics don't make sense](https://news.ycombinator.com/item?id=47936867)**
-
-If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s finances,
-
-⬆️ 236 • 💬 189 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ais-economics-dont-make-sense/)
-
----
-
 **[Mike: open-source legal AI](https://news.ycombinator.com/item?id=47956739)**
 
 An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable — built for law firms to own and extend.
 
 ⬆️ 201 • 💬 99 • 1d ago • [mikeoss.com](https://mikeoss.com/)
-
----
-
-**[AISLE Discovers 38 CVEs in OpenEMR Healthcare Software](https://news.ycombinator.com/item?id=47936347)**
-
-38 zero-day security vulnerabilities, three critical, and the shift from disclosure to prevention in healthcare software
-
-⬆️ 177 • 💬 113 • 2d ago • [AISLE](https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers)
 
 ---
 
@@ -278,7 +258,21 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
 Experience the real-world sounds of AI with this interactive audio generator.
 
-⬆️ 142 • 💬 28 • 1d ago • [DataCenter.FM](https://datacenter.fm/)
+⬆️ 143 • 💬 28 • 1d ago • [DataCenter.FM](https://datacenter.fm/)
+
+---
+
+**[Ramp's Sheets AI Exfiltrates Financials](https://news.ycombinator.com/item?id=47951786)**
+
+Assess and monitor risk from AI in vendors with novel intelligence on emerging threats. Stay ahead of AI-driven third-party risk with continuous moitoring and adaptive insight.
+
+⬆️ 141 • 💬 50 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
+
+---
+
+**[Letting AI play my game – building an agentic test harness to help play-testing](https://news.ycombinator.com/item?id=47947525)**
+
+⬆️ 132 • 💬 34 • 2d ago • [blog.jeffschomay.com](https://blog.jeffschomay.com/letting-ai-play-my-game)
 
 ---
 
@@ -292,7 +286,7 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 33K • 👍 4K • 💬 362 • ⏱️ 9:39 • 2h ago
+👁️ 111K • 👍 8K • 💬 790 • ⏱️ 9:39 • 4h ago
 
 ---
 
@@ -302,7 +296,7 @@ Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is re
 
 📺 TIME
 
-👁️ 71K • 👍 1K • 💬 89 • ⏱️ 6:44 • 22h ago
+👁️ 79K • 👍 1K • 💬 94 • ⏱️ 6:44 • 1d ago
 
 ---
 
@@ -312,7 +306,27 @@ We asked Artificial Intelligence what America would look like without Democrats.
 
 📺 The Babylon Bee
 
-👁️ 105K • 👍 9K • 💬 986 • ⏱️ 1:09 • 1d ago
+👁️ 108K • 👍 9K • 💬 1K • ⏱️ 1:09 • 1d ago
+
+---
+
+**[Harvard Just Caught AI Lying to Every Executive in America](https://www.youtube.com/watch?v=pd1Km6bT104)**
+
+What 10000 readers from Coinbase, HP, and Johns Hopkins read every week → brendandell.com (Free to subscribe). A new ...
+
+📺 Brendan Dell 
+
+👁️ 128K • 👍 7K • 💬 2K • ⏱️ 16:59 • 1d ago
+
+---
+
+**[6 Profitable AI business ideas for 2026](https://www.youtube.com/watch?v=gwsaC3WiCqs)**
+
+Sponsored by Wispr Flow! Wispr Flow is faster and more efficient than any other built-in dictation tool. Download Wispr Flow today ...
+
+📺 Silicon Valley Girl
+
+👁️ 3K • 👍 304 • 💬 23 • ⏱️ 23:44 • 4h ago
 
 ---
 
@@ -322,37 +336,7 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are 
 
 📺 Dan Martell
 
-👁️ 108K • 👍 5K • 💬 221 • ⏱️ 26:44 • 1d ago
-
----
-
-**[Deepseek is a problem](https://www.youtube.com/watch?v=epzzALZ8oYo)**
-
-Check out Zapier MCP https://bit.ly/3QGTz87 Sign up for their Webinar https://bit.ly/3P80Dds Download The 25 OpenClaw Use ...
-
-📺 Matthew Berman
-
-👁️ 103K • 👍 5K • 💬 2K • ⏱️ 17:27 • 1d ago
-
----
-
-**[AI Is REPLACING YOU and the MARKET LOVES IT](https://www.youtube.com/watch?v=hsjEckj9kO8)**
-
-The AI revolution isn't coming; it's already here, and it's moving faster than anyone in Washington or on Wall Street wants to admit.
-
-📺 Anthony Scaramucci
-
-👁️ 29K • 👍 1K • 💬 214 • ⏱️ 27:44 • 1d ago
-
----
-
-**[&quot;The Bankruptcy Of The United States&quot; - Musk WARNS Only AI &amp; Robots Can Save America](https://www.youtube.com/watch?v=oIHxMjQYSJc)**
-
-Elon Musk warns the U.S. is “1000%” headed for bankruptcy without AI and robots to supercharge growth, but economists push ...
-
-📺 Valuetainment
-
-👁️ 180K • 👍 4K • 💬 950 • ⏱️ 17:12 • 1d ago
+👁️ 118K • 👍 5K • 💬 226 • ⏱️ 26:44 • 1d ago
 
 ---
 
@@ -366,23 +350,33 @@ The Heritage Foundation senior research fellow Brent Sadler says it may come dow
 
 ---
 
+**[AI Is REPLACING YOU and the MARKET LOVES IT](https://www.youtube.com/watch?v=hsjEckj9kO8)**
+
+The AI revolution isn't coming; it's already here, and it's moving faster than anyone in Washington or on Wall Street wants to admit.
+
+📺 Anthony Scaramucci
+
+👁️ 30K • 👍 1K • 💬 216 • ⏱️ 27:44 • 2d ago
+
+---
+
+**[&quot;The Bankruptcy Of The United States&quot; - Musk WARNS Only AI &amp; Robots Can Save America](https://www.youtube.com/watch?v=oIHxMjQYSJc)**
+
+Elon Musk warns the U.S. is “1000%” headed for bankruptcy without AI and robots to supercharge growth, but economists push ...
+
+📺 Valuetainment
+
+👁️ 183K • 👍 4K • 💬 973 • ⏱️ 17:12 • 1d ago
+
+---
+
 **[Elon Musk testifies he has &quot;extreme concerns&quot; about who controls AI in trial vs. Altman](https://www.youtube.com/watch?v=0xyL4l9Geu8)**
 
 Elon Musk took the stand Tuesday in a trial against fellow billionaire Sam Altman that could change the future of AI. Musk accused ...
 
 📺 CBS Mornings
 
-👁️ 62K • 👍 325 • 💬 185 • ⏱️ 3:00 • 2d ago
-
----
-
-**[9 FREE* AI Tools 🔥AI Videos ✅ Image to Video #ai #aivideo](https://www.youtube.com/watch?v=Yfyo6-1epSg)**
-
-Want to make your videos sound more cinematic and professional? ✓ Epidemic Sound Link: ...
-
-📺 Raj Photo Editing and Much More
-
-👁️ 22K • 👍 1K • 💬 86 • ⏱️ 10:13 • 1d ago
+👁️ 63K • 👍 334 • 💬 189 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -398,7 +392,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 321,492 • ❤️ 3,343 • 4d ago
+⬇️ 321,492 • ❤️ 3,349 • 4d ago
 
 ---
 
@@ -410,19 +404,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 92,567 • ❤️ 1,162 • 8d ago
-
----
-
-**[DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporting a 1 million token context length. It utilizes a hybrid attention architecture (CSA/HCA) for efficient long-context processing, making it suitable for complex reasoning and analysis tasks requiring extensive context.
-
-`text-generation` `158.1B`
-
-⬇️ 281,356 • ❤️ 899 • 4d ago
+⬇️ 92,567 • ❤️ 1,167 • 9d ago
 
 ---
 
@@ -434,7 +416,19 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 7,944 • ❤️ 330 • 3d ago
+⬇️ 7,944 • ❤️ 337 • 3d ago
+
+---
+
+**[DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporting a 1 million token context length. It utilizes a hybrid attention architecture (CSA/HCA) for efficient long-context processing, making it suitable for complex reasoning and analysis tasks requiring extensive context.
+
+`text-generation` `158.1B`
+
+⬇️ 281,356 • ❤️ 901 • 4d ago
 
 ---
 
@@ -446,7 +440,19 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 906,859 • ❤️ 1,048 • 7d ago
+⬇️ 906,859 • ❤️ 1,051 • 7d ago
+
+---
+
+**[Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**
+
+*Mistral AI_*
+
+Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, excelling at instruction following, reasoning, and coding tasks with configurable reasoning effort and native function calling for agentic applications.
+
+`127.7B`
+
+⬇️ 6,809 • ❤️ 194 • 1d ago
 
 ---
 
@@ -462,25 +468,13 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 ---
 
-**[Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**
-
-*Mistral AI_*
-
-Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, excelling at instruction following, reasoning, and coding tasks with configurable reasoning effort and native function calling for agentic applications.
-
-`127.7B`
-
-⬇️ 6,809 • ❤️ 188 • 1d ago
-
----
-
 **[talkie-1930-13b-it](https://huggingface.co/talkie-lm/talkie-1930-13b-it)**
 
 *talkie*
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 178 • 8d ago
+⬇️ 0 • ❤️ 179 • 8d ago
 
 ---
 
@@ -492,7 +486,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 35,000 • ❤️ 176 • 2d ago
+⬇️ 35,000 • ❤️ 177 • 2d ago
 
 ---
 
@@ -546,7 +540,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 15 • 💬 2 • ⭐ 8,517 • 13d ago
+▲ 15 • 💬 2 • ⭐ 8,601 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -592,20 +586,6 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
-**[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://huggingface.co/papers/2604.24764)**
-
-*Weijie Wang, Xiaoxuan He, Youping Gu et al. (12 authors)*
-
-🏢 Microsoft Research
-
-World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
-
-▲ 113 • 💬 3 • ⭐ 280 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.24764) • [💻 code](https://github.com/microsoft/World-R1) • [🔗 project](https://aka.ms/world-r1)
-
----
-
 **[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)**
 
 *Yilei Jiang, Jinyuan Hu, Qianyin Xiao et al. (11 authors)*
@@ -638,9 +618,22 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
 
-▲ 64 • 💬 4 • ⭐ 450 • 4d ago
+▲ 65 • 💬 4 • ⭐ 450 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 54 • 💬 1 • ⭐ 78,739 • 32mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -654,7 +647,7 @@ Tuna-2 is a unified multimodal model that performs visual understanding and gene
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 51.7k • 🔱 2.8k • 15h ago
+⭐ 51.8k • 🔱 2.8k • 16h ago
 
 ---
 
@@ -664,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.6k • 🔱 6.6k • 7h ago
+⭐ 50.6k • 🔱 6.7k • 8h ago
 
 ---
 
@@ -674,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 41.5k • 🔱 8.6k • 21h ago
+⭐ 41.5k • 🔱 8.6k • 22h ago
 
 ---
 
@@ -684,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 39.4k • 🔱 4.4k • 1h ago
+⭐ 39.5k • 🔱 4.4k • 2h ago
 
 ---
 
@@ -694,7 +687,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 11.3k • 🔱 2.5k • 4d ago
+⭐ 11.3k • 🔱 2.6k • 4d ago
 
 ---
 
@@ -704,7 +697,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.1k • 🔱 575 • 4d ago
+⭐ 9.2k • 🔱 584 • 4d ago
 
 ---
 
@@ -714,7 +707,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 7.6k • 🔱 1.1k • 2d ago
+⭐ 7.7k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -724,7 +717,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 5.1k • 🔱 454 • 3d ago
+⭐ 5.2k • 🔱 455 • 3d ago
 
 ---
 
@@ -744,7 +737,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.8k • 🔱 357 • 14h ago
+⭐ 4.8k • 🔱 358 • 1h ago
 
 ---
 
