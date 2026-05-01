@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-30T23:54:59.969990+00:00'
+updated: '2026-05-01T03:30:32.581059+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 23:54 UTC  
+**Last Updated:** May 01, 2026 at 03:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,353.06
+### $77,334.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -1.4%  
-**30d:** +12.1%  
-**90d:** -3.1%  
-**1y:** -20.9%  
+**24h:** +2.2%  
+**7d:** -0.5%  
+**30d:** +15.4%  
+**90d:** +0.3%  
+**1y:** -20.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1528.01B
+**Market Cap:** $1547.20B
 Rank #1
 
-**Circulating Supply:** 20,022,893 BTC
+**Circulating Supply:** 20,022,918 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.5%
+-38.7%
 
 **All-Time Low:** $67.81
-+112362.8%
++113815.4%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Mining dirt cheap with dead forklift batteries and busted solar panels](https://www.reddit.com/r/Bitcoin/comments/1szxlp8/mining_dirt_cheap_with_dead_forklift_batteries/)**
+**[Looking for “Stone Man” — Bitcointalk user from August 2010](https://www.reddit.com/r/Bitcoin/comments/1t0bvaf/looking_for_stone_man_bitcointalk_user_from/)**
 
-A while back I met a guy on Facebook Marketplace, a tree fell on his house and he had 30× 300W solar panels he needed gone. I rented a U-Haul and bought all of them for $30 each. I had a friend Joe who works on forklift batteries help me get started. He told me anything below like 60% gets scrapped and the scrap price is dirt cheap for what you’re actually getting. He ended up hooking me up with two 500Ah 24V forklift batteries for free, which was huge. I rented a $100 truck, the company loaded it with forklifts, and then up in Maine my cousin has a Kubota so I got lucky unloading it. I also grabbed some UPS batteries that are 12V, wired them in series to get 24V and then paralleled them, and then paralleled that with the two 24V forklift batteries. Total comes out to about 1500Ah @ 24V. The UPS batteries cost me $600 for 500Ah, which is crazy cheap. I’ve got some land in Maine so I just started throwing panels out there, nothing fancy. Literally just threw everything on the ground and put as many as I could on top of a camper. This winter a bunch of them blew off so I had to go out and put them back up lol. I’m honestly lucky the camper is still there considering the wiring… and surprised I didn’t burn it down at some point. I also found 500W panels for $10 each with cracked glass. Didn’t fix anything and they still do like 400W after 4 years. Solar panels are dirt cheap right now because China overproduced like crazy, there’s just too many panels out there. Setup: ~4–5kW+ solar ~1500Ah @ 24V battery bank One 200A charge controller 4000W inverter In full daylight I could mine all day pulling like 150 amps, which is pretty wild for basically scrap parts. First time wiring it I was pushing so much current one of the cables basically caught fire… so yeah learned about wire size real quick. I also burned up a couple inverters early on pushing too many watts through them, but eventually found a couple 4000W inverters cheap on eBay and those have been working great. Only thing that sucked is I didn’t have a cutoff so I had to manually unplug the miner or it would just drain the batteries. In the end I actually stopped mining with it and just run the camper. I used to burn like 150 gallons of gas, now I use basically nothing. I run the AC, microwave, everything with no issues. It’s still half-assed, but at least I upgraded to thicker gauge wires so it’s a little less sketchy now. The pictures below are from when I first started the setup — it’s missing a ton of panels and one of the forklift batteries. From there I ended up starting ING Mining, and now we’re one of the larger retail disruptors of used miners lol. Still, for broken panels, “dead” batteries, and Facebook deals… it worked way better than it should. -Nick Squires https://preview.redd.it/hsfmphq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=7eee2bea775028182fe5c1357be14531dc96066c https://preview.redd.it/ziy3biq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=bb3d7ead92d0f7566d2a50db1ff5d06f4a23ba48 https://preview.redd.it/zokyfiq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=0709627755b9007ab03a296f49a5b890a92ea03e
+Looking for “Stone Man” — Bitcointalk user from August 2010 TL;DR: I’ve spent the past 18 months analyzing the change-address bug in Bitcoin 0.3.2 that caused the loss of 8,900 BTC by Bitcointalk user #288 (“Stone Man”) on August 9, 2010. I believe these coins can be recovered if the original owner can be found and is willing to share a few technical details. The coins remain his — I’m not asking for anything except to help return them. Background On August 9, 2010, a forum user posted about losing 8,900 BTC due to the notorious “change-address bug” in the Bitcoin 0.3.2 wallet. He had restored an older wallet.dat and made a 1 BTC self-send; the change went to a newly-generated address whose private key was lost when his Live USB system was rebooted. The transaction is on-chain: Tx: eb5b761c7380ed4c6adf688f9e5ab94953dcabeda47d9eeabd77261902fccccf Block 73272, August 9, 2010, 21:35:11 UTC Output[1]: 8,899 BTC → 167ZWTT8n6s4ya8cGjqNNQjDwDGY31vmHg (unspent for 15+ years) The user’s last message ended with “gone for good” and he never returned to the forum. What I’ve found The wallet’s private-key generation in this environment depends on a chain of weak entropy sources I’ve been able to model in detail: Linux 2.6.26 kernel seed) random.c boot-time pool seeding (Live USB, no persistent random- OpenSSL 0.9.8g-15 (Debian Lenny patched) md_rand state machine, bit-for-bit Bitcoin 0.3.2’s RAND_add and RAND_bytes call sequence in CreateTransaction I’ve built a CUDA implementation that searches the parameter space at ~2M keys/sec on a single laptop GPU. Without specific hardware/timing information from the original user, the search space is too large (~10^16 to 10^22). With his cooperation — confirming utsname, hardware, boot timing, network state, and a few session details — the search space shrinks by roughly 10 orders of magnitude. With his old wallet.dat (or the sender address private key alone), the search becomes nearly instantaneous: minutes on a laptop. The key reason cooperation is so leveraged: the same PRNG state that produced the change-address private key also produced the ECDSA signing nonce used in the transaction. If the sender’s private key is known (it’s in his old wallet.dat anyway), the nonce can be derived from the on-chain signature, providing a powerful verification channel that eliminates the most expensive part of the search. Why I’m doing this I have no claim on these coins. They belong to the original user. My goal is to return them. If a small thank-you is offered after a successful recovery, I’d accept — but it’s not a condition. What I need Just to talk. If you are this person, or you know who is, please reach out. I can run the entire recovery on your computer using your wallet.dat without it ever leaving your hands. You don’t need to trust me with anything sensitive — only confirm a few non-sensitive details about the original setup. Verification To filter out impersonators, real correspondence will include questions that only the original user would know. Please reach out via: reply to this thread / DM. This is a serious 18-month research effort. Happy to share the technical write-up with anyone qualified to evaluate it, including security researchers who can vouch for the methodology. The full analysis (CUDA code, kernel/OpenSSL state machine modeling, blockchain forensics) is available on request.
 
-9h ago
+4h ago
 
 ---
 
 **[Whales scooped up an insane 11k BTC just yesterday, supply is shrinking into long term holders](https://www.reddit.com/r/Bitcoin/comments/1t057ao/whales_scooped_up_an_insane_11k_btc_just/)**
 
-5h ago
+8h ago
 
 ---
 
@@ -95,7 +95,15 @@ A while back I met a guy on Facebook Marketplace, a tree fell on his house and h
 
 Okay, Major Lowery, you've got it.
 
-2h ago
+5h ago
+
+---
+
+**[Mining dirt cheap with dead forklift batteries and busted solar panels](https://www.reddit.com/r/Bitcoin/comments/1szxlp8/mining_dirt_cheap_with_dead_forklift_batteries/)**
+
+A while back I met a guy on Facebook Marketplace, a tree fell on his house and he had 30× 300W solar panels he needed gone. I rented a U-Haul and bought all of them for $30 each. I had a friend Joe who works on forklift batteries help me get started. He told me anything below like 60% gets scrapped and the scrap price is dirt cheap for what you’re actually getting. He ended up hooking me up with two 500Ah 24V forklift batteries for free, which was huge. I rented a $100 truck, the company loaded it with forklifts, and then up in Maine my cousin has a Kubota so I got lucky unloading it. I also grabbed some UPS batteries that are 12V, wired them in series to get 24V and then paralleled them, and then paralleled that with the two 24V forklift batteries. Total comes out to about 1500Ah @ 24V. The UPS batteries cost me $600 for 500Ah, which is crazy cheap. I’ve got some land in Maine so I just started throwing panels out there, nothing fancy. Literally just threw everything on the ground and put as many as I could on top of a camper. This winter a bunch of them blew off so I had to go out and put them back up lol. I’m honestly lucky the camper is still there considering the wiring… and surprised I didn’t burn it down at some point. I also found 500W panels for $10 each with cracked glass. Didn’t fix anything and they still do like 400W after 4 years. Solar panels are dirt cheap right now because China overproduced like crazy, there’s just too many panels out there. Setup: ~4–5kW+ solar ~1500Ah @ 24V battery bank One 200A charge controller 4000W inverter In full daylight I could mine all day pulling like 150 amps, which is pretty wild for basically scrap parts. First time wiring it I was pushing so much current one of the cables basically caught fire… so yeah learned about wire size real quick. I also burned up a couple inverters early on pushing too many watts through them, but eventually found a couple 4000W inverters cheap on eBay and those have been working great. Only thing that sucked is I didn’t have a cutoff so I had to manually unplug the miner or it would just drain the batteries. In the end I actually stopped mining with it and just run the camper. I used to burn like 150 gallons of gas, now I use basically nothing. I run the AC, microwave, everything with no issues. It’s still half-assed, but at least I upgraded to thicker gauge wires so it’s a little less sketchy now. The pictures below are from when I first started the setup — it’s missing a ton of panels and one of the forklift batteries. From there I ended up starting ING Mining, and now we’re one of the larger retail disruptors of used miners lol. Still, for broken panels, “dead” batteries, and Facebook deals… it worked way better than it should. -Nick Squires https://preview.redd.it/hsfmphq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=7eee2bea775028182fe5c1357be14531dc96066c https://preview.redd.it/ziy3biq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=bb3d7ead92d0f7566d2a50db1ff5d06f4a23ba48 https://preview.redd.it/zokyfiq06cyg1.jpg?width=4032&format=pjpg&auto=webp&s=0709627755b9007ab03a296f49a5b890a92ea03e
+
+13h ago
 
 ---
 
@@ -103,15 +111,21 @@ Okay, Major Lowery, you've got it.
 
 Been playing around with the COLDCARD Q and wanted to see how “airgapped” signing actually works in practice. Knowing that my private keys are fully Airgapped gives me a peace of mind. Would love to hear your guys’ thoughts on the ColdCard Q.
 
-4h ago
+8h ago
 
 ---
 
-**[Looking for “Stone Man” — Bitcointalk user from August 2010](https://www.reddit.com/r/Bitcoin/comments/1t0bvaf/looking_for_stone_man_bitcointalk_user_from/)**
+**[Don't Do What You Are Told](https://www.reddit.com/r/Bitcoin/comments/1t0ezkb/dont_do_what_you_are_told/)**
 
-Looking for “Stone Man” — Bitcointalk user from August 2010 TL;DR: I’ve spent the past 18 months analyzing the change-address bug in Bitcoin 0.3.2 that caused the loss of 8,900 BTC by Bitcointalk user #288 (“Stone Man”) on August 9, 2010. I believe these coins can be recovered if the original owner can be found and is willing to share a few technical details. The coins remain his — I’m not asking for anything except to help return them. Background On August 9, 2010, a forum user posted about losing 8,900 BTC due to the notorious “change-address bug” in the Bitcoin 0.3.2 wallet. He had restored an older wallet.dat and made a 1 BTC self-send; the change went to a newly-generated address whose private key was lost when his Live USB system was rebooted. The transaction is on-chain: Tx: eb5b761c7380ed4c6adf688f9e5ab94953dcabeda47d9eeabd77261902fccccf Block 73272, August 9, 2010, 21:35:11 UTC Output[1]: 8,899 BTC → 167ZWTT8n6s4ya8cGjqNNQjDwDGY31vmHg (unspent for 15+ years) The user’s last message ended with “gone for good” and he never returned to the forum. What I’ve found The wallet’s private-key generation in this environment depends on a chain of weak entropy sources I’ve been able to model in detail: Linux 2.6.26 kernel seed) random.c boot-time pool seeding (Live USB, no persistent random- OpenSSL 0.9.8g-15 (Debian Lenny patched) md_rand state machine, bit-for-bit Bitcoin 0.3.2’s RAND_add and RAND_bytes call sequence in CreateTransaction I’ve built a CUDA implementation that searches the parameter space at ~2M keys/sec on a single laptop GPU. Without specific hardware/timing information from the original user, the search space is too large (~10^16 to 10^22). With his cooperation — confirming utsname, hardware, boot timing, network state, and a few session details — the search space shrinks by roughly 10 orders of magnitude. With his old wallet.dat (or the sender address private key alone), the search becomes nearly instantaneous: minutes on a laptop. The key reason cooperation is so leveraged: the same PRNG state that produced the change-address private key also produced the ECDSA signing nonce used in the transaction. If the sender’s private key is known (it’s in his old wallet.dat anyway), the nonce can be derived from the on-chain signature, providing a powerful verification channel that eliminates the most expensive part of the search. Why I’m doing this I have no claim on these coins. They belong to the original user. My goal is to return them. If a small thank-you is offered after a successful recovery, I’d accept — but it’s not a condition. What I need Just to talk. If you are this person, or you know who is, please reach out. I can run the entire recovery on your computer using your wallet.dat without it ever leaving your hands. You don’t need to trust me with anything sensitive — only confirm a few non-sensitive details about the original setup. Verification To filter out impersonators, real correspondence will include questions that only the original user would know. Please reach out via: reply to this thread / DM. This is a serious 18-month research effort. Happy to share the technical write-up with anyone qualified to evaluate it, including security researchers who can vouch for the methodology. The full analysis (CUDA code, kernel/OpenSSL state machine modeling, blockchain forensics) is available on request.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-55m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=i6MOEWeK6QM) • 2h ago
+
+---
+
+**[Node Operators - Lightning Channel Giveaway over on r/TheLightningNetwork](https://www.reddit.com/r/Bitcoin/comments/1t07zdp/node_operators_lightning_channel_giveaway_over_on/)**
+
+7h ago
 
 ---
 
@@ -119,7 +133,7 @@ Looking for “Stone Man” — Bitcointalk user from August 2010 TL;DR: I’ve 
 
 Hello there bitcoiners, i work in a small hotel in Olomouc, Czech Republic. I am considering accepting bitcoin as a payment method. Do you think it is a good idea? Are there any dangers? What do i have to do to make this happen? Can I use Revolut/Strike apps in EU to make it happen? Are there any other alternatives? Seems like a good idea to me. i think something positive should happen. Thank you guys/bitcoiners for your help.
 
-8h ago
+11h ago
 
 ---
 
@@ -127,7 +141,7 @@ Hello there bitcoiners, i work in a small hotel in Olomouc, Czech Republic. I am
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/powell-exit-warsh-era-bitcoin-risk-premium) • 8h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/powell-exit-warsh-era-bitcoin-risk-premium) • 12h ago
 
 ---
 
@@ -139,20 +153,6 @@ Steak ‘n Shake exec Michael Boes told Bitcoin 2026 attendees that Bitcoin has 
 
 ---
 
-**["Final Exodus" from the current financial grid: Are we witnessing the inevitable shift toward Bitcoin as the ultimate logistical hedge?](https://www.reddit.com/r/Bitcoin/comments/1t05m7k/final_exodus_from_the_current_financial_grid_are/)**
-
-4h ago
-
----
-
-**[Just got into Bitcoin, where do we even start?](https://www.reddit.com/r/Bitcoin/comments/1szsqbk/just_got_into_bitcoin_where_do_we_even_start/)**
-
-My older brother and I have recently caught the Bitcoin bug and we both are somehow excited but also overwhelmed about the entire idea. Neither of us has any real experience with crypto, so we’re starting from zero. I’m here because we have a bunch of basic questions like How should we actually learn about Bitcoin properly, should we buy some first and where’s the best place to buy it safely as beginners? Maybe these questions are even too advanced (how can one learn about this properly) ? We really don’t want to rush in and make stupid mistakes. Any guidance would be massively appreciated.
-
-12h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,35 +161,45 @@ My older brother and I have recently caught the Bitcoin bug and we both are some
 
 The billionaire’s thoughts on crypto came up during the OpenAI trial
 
-Fortune • 8h ago
+Fortune • 11h ago
 
 ---
 
-**[Option Traders Build ‘Electric Fence’ Around Bitcoin at $80,000](https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000)**
+**[How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune](https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/)**
 
-Bloomberg.com • 1d ago
+The president’s second son pitches his bitcoin company as a money-printing machine. It’s actually an arbitrage vehicle that preys on MAGA-minded investors.
 
----
-
-**[Ex-PayPal president unveils bullish Bitcoin target](https://sg.finance.yahoo.com/news/ex-paypal-president-unveils-bullish-231000061.html)**
-
-David Marcus worked as the president at fintech giant PayPal (Nasdaq: PYPL) in the early 2010s before moving to Facebook as the vice president of messaging products in 2014. During his tenure at Facebook, he was the co-creator of Diem, a failed cryptocurrency project initiated by the ...
-
-Yahoo Finance Singapore • 44m ago
+Forbes • 2d ago
 
 ---
 
-**[Bitcoin Price Struggles: Resistance Near $77K Could Trigger Bearish Shift](https://www.investing.com/analysis/bitcoin-price-struggles-resistance-near-77k-could-trigger-bearish-shift-200679482)**
+**[Gov. Mike Braun signs bill banning the use of bitcoin ATMS in Indiana](https://www.14news.com/2026/05/01/gov-mike-braun-signs-bill-banning-use-bitcoin-atms-indiana/)**
 
-Investing.com • 1h ago
+Governor Mike Braun ceremonially signed an emergency declaration banning the use of bitcoin ATMS in the state of Indiana.
+
+WFIE | 14 News • 1h ago
 
 ---
 
-**[How Eric Trump's American Bitcoin Lost $500 Million In Shareholder Value In 8 Months](https://finance.yahoo.com/markets/crypto/articles/eric-trumps-american-bitcoin-lost-220112636.html)**
+**[Spot Bitcoin ETF outflows top $490M: Is BTC’s rally losing momentum?](https://www.tradingview.com/news/cointelegraph:5ffcb87a7094b:0-spot-bitcoin-etf-outflows-top-490m-is-btc-s-rally-losing-momentum/)**
 
-American Bitcoinhas torched $500 million in shareholder value since September while Eric Trump’s personal fortune jumped from $190 million to $280 million, according to a Forbes report published Tuesday. American Bitcoin Stock Down 92% From Peak When American Bitcoin hit...
+Key takeaways:Bitcoin (BTC) faced three consecutive days of outflows from US-listed spot exchange-traded funds (ETFs). The outflows coincided with a failed attempt to reclaim $78,000. Traders fear more downside, but heightened US inflation will likely act as a catalyst for further bullish momentum…
 
-Yahoo Finance • 1h ago
+TradingView • 1h ago
+
+---
+
+**[Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant](https://finance.yahoo.com/markets/crypto/articles/twenty-one-weighs-mergers-strike-154625057.html)**
+
+Tether Investments proposed a three-way merger to create a Bitcoin platform combining mining, treasury management, and financial services
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -203,21 +213,13 @@ MarketWatch • 1d ago
 
 Robinhood's stock closed down 13.2% after the company reported weaker first-quarter earnings the previous day.
 
-The Block • 15h ago
-
----
-
-**[How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune](https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/)**
-
-The president’s second son pitches his bitcoin company as a money-printing machine. It’s actually an arbitrage vehicle that preys on MAGA-minded investors.
-
-Forbes • 2d ago
+The Block • 18h ago
 
 ---
 
 **[MARA to buy Ohio gas plant operator Long Ridge for $1.5 billion as it pivots beyond bitcoin](https://www.reuters.com/business/energy/mara-buy-ohio-gas-plant-operator-long-ridge-15-billion-it-pivots-beyond-bitcoin-2026-04-30/)**
 
-Reuters • 9h ago
+Reuters • 13h ago
 
 ---
 
@@ -225,7 +227,7 @@ Reuters • 9h ago
 
 Starting at the individual level first, the leading cryptocurrency's evolution hasn't been like typical financial assets.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -245,7 +247,7 @@ How a 1970s-era application like a terminal emulator can consume more battery th
 
 Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
 
-⬆️ 48 • 💬 50 • 7h ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
+⬆️ 48 • 💬 50 • 11h ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
 
 ---
 
@@ -275,7 +277,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 2 • 💬 0 • 17h ago • [satoshiguesser.com](https://satoshiguesser.com)
+⬆️ 2 • 💬 0 • 21h ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -291,7 +293,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 1 • 💬 0 • 18h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+⬆️ 1 • 💬 0 • 22h ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -321,7 +323,7 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 930 • 💬 191 • ⏱️ 43:42 • 8h ago
+👁️ 17K • 👍 989 • 💬 231 • ⏱️ 43:42 • 12h ago
 
 ---
 
@@ -331,7 +333,7 @@ A billionaire just issued a global warning and it is not subtle. Tim Draper and 
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 146 • ⏱️ 18:17 • 1d ago
+👁️ 30K • 👍 2K • 💬 147 • ⏱️ 18:17 • 1d ago
 
 ---
 
@@ -341,17 +343,7 @@ In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down 
 
 📺 Verified Pro Traders
 
-👁️ 6K • 👍 700 • 💬 49 • ⏱️ 8:44 • 5h ago
-
----
-
-**[Bitcoin Must HOLD! - Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=Rw9LooYqgRc)**
-
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 183 • 💬 3 • ⏱️ 33:16 • 7h ago
+👁️ 12K • 👍 1K • 💬 78 • ⏱️ 8:44 • 9h ago
 
 ---
 
@@ -361,7 +353,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 5K • 👍 476 • 💬 55 • ⏱️ 13:02 • 6h ago
+👁️ 7K • 👍 577 • 💬 169 • ⏱️ 13:02 • 10h ago
 
 ---
 
@@ -371,27 +363,17 @@ Eric Trump might've had the most bullish soundclip coming out of Bitcoin 2026 La
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 320 • 💬 17 • ⏱️ 1:26:37 • 5h ago
+👁️ 7K • 👍 358 • 💬 116 • ⏱️ 1:26:37 • 9h ago
 
 ---
 
-**[I’m Selling Bitcoin &amp; Buying Oil Right Now! (Here’s Why)](https://www.youtube.com/watch?v=75-H8uaFJpg)**
+**[Bitcoin Isn&#39;t Replacing Gold. It&#39;s Replacing THIS](https://www.youtube.com/watch?v=wESDdd9P60I)**
 
-Crypto is no longer trading on its own narratives. It's tethered to oil, rates, and global risk conditions and the Middle East is driving ...
+While everyone's arguing about whether Bitcoin replaces gold. What if I told you it doesn't matter? Gold is a $30 trillion debate.
 
-📺 Crypto Banter
+📺 Mark Moss
 
-👁️ 11K • 👍 758 • 💬 34 • ⏱️ 18:22 • 11h ago
-
----
-
-**[Keynote: Michael Saylor | Bitcoin 2026](https://www.youtube.com/watch?v=_Y8HAqAYMhE)**
-
-The credit market just got a new heavyweight. In this keynote, Michael Saylor reveals how Strategy engineered STRC, ...
-
-📺 Bitcoin Magazine
-
-👁️ 100K • 👍 4K • 💬 371 • ⏱️ 47:01 • 2d ago
+👁️ 28K • 👍 1K • 💬 265 • ⏱️ 28:23 • 8h ago
 
 ---
 
@@ -401,17 +383,37 @@ What does the ideal Bitcoin company actually look like? In this Bitcoin 2026 key
 
 📺 Bitcoin Magazine
 
-👁️ 29K • 👍 1K • 💬 147 • ⏱️ 37:06 • 23h ago
+👁️ 31K • 👍 1K • 💬 161 • ⏱️ 37:06 • 1d ago
 
 ---
 
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+**[BITCOIN: SELL IN MAY AND GO AWAY?](https://www.youtube.com/watch?v=F-p39gZA1cc)**
 
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
 
-📺 Paul Barron Network
+📺 Mathieu - C₿M
 
-👁️ 52K • 👍 3K • 💬 160 • ⏱️ 16:31 • 1d ago
+👁️ 3K • 👍 320 • 💬 53 • ⏱️ 13:28 • 9h ago
+
+---
+
+**[This Signals Bitcoin Is Ready To Rally](https://www.youtube.com/watch?v=Jlf4SibbQXU)**
+
+Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 827 • 💬 69 • ⏱️ 45:38 • 1d ago
+
+---
+
+**[Mark Moss: Building a Personal Treasury with a Perpetual Bitcoin Machine | Bitcoin 2026](https://www.youtube.com/watch?v=eU8Q2-Q8qzk)**
+
+You bought the right asset, but are you playing the wrong game? At Bitcoin Vegas 2026, Mark Moss of Market Disruptors argues ...
+
+📺 Bitcoin Magazine
+
+👁️ 17K • 👍 976 • 💬 29 • ⏱️ 17:31 • 1d ago
 
 ---
 

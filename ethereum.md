@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-30T23:54:59.975889+00:00'
+updated: '2026-05-01T03:30:32.586282+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 30, 2026 at 23:54 UTC  
+**Last Updated:** May 01, 2026 at 03:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,259.47
+### $2,261.13
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -2.4%  
-**30d:** +5.6%  
-**90d:** -7.9%  
-**1y:** +22.9%  
+**24h:** +2.1%  
+**7d:** -1.4%  
+**30d:** +11.2%  
+**90d:** +0.7%  
+**1y:** +24.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.23B
+**Market Cap:** $276.10B
 Rank #2
 
-**Circulating Supply:** 120,687,805 ETH
+**Circulating Supply:** 120,687,573 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.4%
+-53.8%
 
 **All-Time Low:** $0.43
-+520569.6%
++528207.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 A single trader won 93% of five-figure bets on unannounced US and Israeli military operations. The blockchain records every transaction. Nobody has been charged. Trump Jr. advises the platform.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 2h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 6h ago
 
 ---
 
@@ -80,7 +80,7 @@ A single trader won 93% of five-figure bets on unannounced US and Israeli milita
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -118,13 +118,7 @@ What if the final form of software development was just watching code and proof 
 
 Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
 
-1d ago
-
----
-
-**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
-
-1d ago
+2d ago
 
 ---
 
@@ -133,6 +127,12 @@ Hello everyone. We are building a lending protocol with a focus on RWAs on Ether
 the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
 
 2d ago
+
+---
+
+**[“Ethereum is dead.”](https://www.reddit.com/r/ethereum/comments/1sz3wxz/ethereum_is_dead/)**
+
+1d ago
 
 ---
 
@@ -148,11 +148,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time](https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time)**
+**[MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested](https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system)**
 
-The Federal Reserve held its benchmark interest rate steady again, a decision marked by Chair Jerome Powell's soon-to-expire tenure.
+Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
 
-Decrypt • 1d ago
+Decrypt • 11h ago
 
 ---
 
@@ -164,17 +164,33 @@ Fortune • 2d ago
 
 ---
 
+**[Bitcoin Steady At US$78,000 As Ethereum Consolidates](https://www.moomoo.com/news/post/69269787/bitcoin-steady-at-us-78000-as-ethereum-consolidates)**
+
+Moomoo • 2h ago
+
+---
+
 **[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
 
 Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+**[Bitcoin and ethereum prices today, Thursday, April 30, 2026: Values moving lower each morning this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-april-30-2026-values-moving-lower-each-morning-this-week-113359674.html)**
 
-Forbes • 20h ago
+Bitcoin opened at $75,752.12 on Thursday, the lowest opening price in over a week. The value of bitcoin rose to $76,130 by 7:18 a.m. ET. Ethereum opened at $2,252.45 on Thursday, the lowest opening price since April 13. Ethereum’s price rose to $2,268.50 by 7:18 a.m. ET.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
 
 ---
 
@@ -182,7 +198,21 @@ Forbes • 20h ago
 
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-The Motley Fool • 13h ago
+The Motley Fool • 16h ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 1d ago
+
+---
+
+**[Wasabi Protocol drained of $4.5 million in apparent admin key compromise](https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise)**
+
+The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.
+
+CoinDesk • 12h ago
 
 ---
 
@@ -191,36 +221,6 @@ The Motley Fool • 13h ago
 The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
 
 The Block • 1d ago
-
----
-
-**[Exclusive: Crypto CEO Breaks Down Why Bitcoin and Ethereum Prices Fell After Fed’s Shock Decision](https://coinpedia.org/news/exclusive-crypto-ceo-breaks-down-why-bitcoin-and-ethereum-prices-fell-after-feds-shock-decision/)**
-
-The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
-
-Coinpedia • 17h ago
-
----
-
-**[Wasabi Protocol drained of $4.5 million in apparent admin key compromise](https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise)**
-
-The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.
-
-CoinDesk • 9h ago
-
----
-
-**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
-
-TipRanks • 12h ago
-
----
-
-**[Crypto hacks in April hit record high, impact Ethereum price sentiment](https://cryptobriefing.com/crypto-hacks-in-april-hit-record-high-impact-ethereum-price-sentiment/)**
-
-Crypto hacks in April hit a record high, impacting Ethereum sentiment. Ethereum dip to $1,700 from April 27 to May 3 at 0.4% YES.
-
-Crypto Briefing • 2h ago
 
 ---
 
@@ -234,17 +234,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 147 • 💬 19 • ⏱️ 9:18 • 9h ago
-
----
-
-**[🚨 BTC &amp; ETH: BOOOOOOM!!!!!!!!!!!!!](https://www.youtube.com/watch?v=t-gxT57gFjY)**
-
-These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! Here is how to prepare and what I am looking at!
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 3K • 💬 32 • ⏱️ 5:55 • 1d ago
+👁️ 3K • 👍 170 • 💬 24 • ⏱️ 9:18 • 13h ago
 
 ---
 
@@ -254,17 +244,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 27K • 👍 1K • 💬 147 • ⏱️ 23:39 • 2d ago
-
----
-
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
-
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
-
-📺 Paul Barron Network
-
-👁️ 52K • 👍 3K • 💬 160 • ⏱️ 16:31 • 1d ago
+👁️ 28K • 👍 1K • 💬 148 • ⏱️ 23:39 • 2d ago
 
 ---
 
@@ -274,7 +254,37 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 1K • 👍 71 • 💬 35 • ⏱️ 10:21 • 1d ago
+👁️ 1K • 👍 72 • 💬 35 • ⏱️ 10:21 • 1d ago
+
+---
+
+**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+
+Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+
+📺 Paul Barron Network
+
+👁️ 54K • 👍 3K • 💬 162 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: BOOOOOOM!!!!!!!!!!!!!](https://www.youtube.com/watch?v=t-gxT57gFjY)**
+
+These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! Here is how to prepare and what I am looking at!
+
+📺 Thomas Kralow
+
+👁️ 23K • 👍 3K • 💬 33 • ⏱️ 5:55 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=jCI3nYNGTGg)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 127 • 👍 19 • ⏱️ 6:51 • 51m ago
 
 ---
 
@@ -284,7 +294,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 3K • 👍 298 • 💬 19 • ⏱️ 19:05 • 7h ago
+👁️ 4K • 👍 327 • 💬 33 • ⏱️ 19:05 • 11h ago
 
 ---
 
@@ -294,27 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 332 • 👍 14 • ⏱️ 5:22 • 1d ago
-
----
-
-**[Is Ethereum About to Repeat 2022? Here&#39;s What I&#39;m Watching](https://www.youtube.com/watch?v=sDFlnZxYb0Y)**
-
-Ethereum has recovered 40 percent from the February lows and is now approaching key resistance: the descending trend line, ...
-
-📺 More Crypto Online
-
-👁️ 7K • 👍 387 • 💬 30 • ⏱️ 19:23 • 2d ago
-
----
-
-**[SHOULD YOU SHORT/SELL ETH NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=U7M4qRpUKSg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 242 • 👍 13 • ⏱️ 4:31 • 14h ago
+👁️ 334 • 👍 14 • ⏱️ 5:22 • 1d ago
 
 ---
 
@@ -324,7 +314,17 @@ Ethereum might finally be thawing out of its “mini winter.” The structure lo
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 421 • 💬 193 • ⏱️ 14:02 • 2d ago
+👁️ 7K • 👍 422 • 💬 181 • ⏱️ 14:02 • 2d ago
+
+---
+
+**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
+
+📺 Yahoo Finance
+
+👁️ 10K • 👍 362 • 💬 62 • ⏱️ 14:56 • 2d ago
 
 ---
 
