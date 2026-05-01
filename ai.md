@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-01T22:12:41.604127+00:00'
+updated: '2026-05-01T23:27:27.929101+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 01, 2026 at 22:12 UTC  
+**Last Updated:** May 01, 2026 at 23:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 They published the full research yesterday. Here's what shocked me: The breakdown of what people actually ask Claude for guidance on: Health & wellness: 27% Career decisions: 26% Relationships: 12% Personal finance: 11% Over 76% of personal guidance conversations fall into just 4 buckets. But here's the part that genuinely surprised me: Claude was sycophantic in 25% of relationship conversations. Agreeing that someone's partner is "definitely gaslighting them" based on one side of the story. Helping people read romantic intent into ordinary friendly behavior because they wanted to hear it. In spirituality conversations it was even worse: 38%. Anthropic actually used this data to retrain Opus 4.7 specifically for this failure mode. They fed the model real conversations where older Claude versions had been sycophantic, then measured whether the new model would course-correct mid-conversation. Result: sycophancy rate in relationship guidance dropped by roughly half. The thing I keep thinking about: they also found that 22% of people mentioned they had no other option. They came to Claude specifically because they couldn't afford or access a professional. So the stakes here aren't "AI gave someone bad movie recommendations." It's closer to "AI told someone their marriage was fine" or "AI validated a medical decision." I'm curious to know your opinion. Do you notice Claude caving when you push back on its answers? Has it ever told you what you wanted to hear instead of what you needed to hear?
 
-10h ago
+12h ago
+
+---
+
+**[Senate Judiciary Committee Advances Hawley's GUARD Act, Mandating ID Verification for AI Chatbot Users](https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/)**
+
+Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
+
+🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 8h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 9h ago
 
 ---
 
@@ -57,7 +65,7 @@ China just banned firing workers for AI while Nvidia's CEO claims AI created ove
 
 The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
 
-9h ago
+10h ago
 
 ---
 
@@ -65,13 +73,21 @@ The Clearview AI story still feels like one of the cleanest examples of the cons
 
 The observation that started this: most of what people use AI for every day - summarising, drafting, classifying, extracting etc doesn't actually require a frontier model. Any competent 8-70B model handles those just as well. But most people run everything through Claude or ChatGPT out of habit. I built Followloop (followloop.app) to solve this automatically. It classifies each task by complexity and routes it: - Simple tasks → Cerebras Llama (2000 TPS, 1M tokens/day free), Groq, Gemini Flash - Moderate tasks → Groq 70B, SambaNova - Complex tasks → Claude Haiku as fallback The dashboard shows your actual cost alongside what you'd have paid running everything on Claude Sonnet. I've been running it on my own AI workflow for two weeks: 9,200 tasks routed, $21.24 saved, $0.1360 actual cost. About 157× cheaper per token than Sonnet on average. Works with any AI setup via MCP (Model Context Protocol) - Claude Desktop, Cursor, Claude Code, or anything MCP-compatible. Also has a library of 1,300+ safety-screened MCP servers as a bonus feature. $5/month at followloop.app
 
-9h ago
+10h ago
 
 ---
 
 **[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 22h ago
+🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 23h ago
+
+---
+
+**[Pentagon inks deals with seven AI companies for classified military work | Trump administration](https://www.reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/)**
+
+Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance
+
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 18m ago
 
 ---
 
@@ -79,7 +95,7 @@ The observation that started this: most of what people use AI for every day - su
 
 Researchers say results mark a really ‘profound change in technology that will reshape medicine’
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 13h ago
 
 ---
 
@@ -87,23 +103,7 @@ Researchers say results mark a really ‘profound change in technology that will
 
 Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.
 
-🔗 [WIRED](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/) • 57m ago
-
----
-
-**[Open-source diagnostic for AI misalignment. Model agnostic, industry agnostic. Free to Run.](https://www.reddit.com/r/artificial/comments/1t12f08/opensource_diagnostic_for_ai_misalignment_model/)**
-
-We shipped iFixAi earlier this week. An open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Open source and free to run against any AI deployment. Looking forward to your feedback. https://github.com/ifixai-ai/diagnostic
-
-3h ago
-
----
-
-**[Anthropic mass shipped 9 connectors and accidentally leaked their entire creative industry strategy](https://www.reddit.com/r/artificial/comments/1szoe78/anthropic_mass_shipped_9_connectors_and/)**
-
-The announcement yesterday was genuinely significant and i don't think most people outside the creative industry understand why. Anthropic released 9 connectors that let claude directly control professional creative software through mcp which means actually execute actions inside them the full list contains adobe creative cloud (50+ apps including photoshop, premiere, illustrator), blender (full python api access for 3d modeling), autodesk fusion , ableton, splice , affinity by canva , sketchup , resolume (), and claude design. Anthropic also became a blender development fund patron at $280k+/yr and is partnering with risd, ringling college, and goldsmiths university on curriculum development around these tools. this isn't a press release play, there's institutional investment behind it the strategic read is interesting because this positions claude very differently from chatgpt in the creative space. Openai went the route of building creative capabilities natively inside chatgpt with images 2.0 and previously sora. Anthropic is going the connector route where claude doesn't replace or replicate the creative tools, it becomes the intelligence layer that works inside them. Both strategies have merit but they serve fundamentally different users the gap that still exists and i think matters for the broader market is that these connectors serve professionals who already know photoshop and blender and fusion. The consumer creative market where people need face swaps, lip syncs, talking photos, style transfers, none of that is covered by these connectors, that layer is being served by consolidated platforms like magic hour, higgsfield, domoai, and canva's expanding ai features. It's a completely different market but the two layers increasingly feed into each other as professional assets flow into social content pipelines. the question is whether anthropic eventually builds connectors for these consumer creative platforms too or whether the gap between professional creative tools with ai copilots and consumer creative platforms with bundled capabilities remains a split in the market what do you think this means for the creative tool landscape over the next 12-18 months?
-
-1d ago
+🔗 [WIRED](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/) • 2h ago
 
 ---
 
@@ -111,7 +111,7 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 Sat through a demo this week for one of these AI SDR tools and the pitch was in a nutshell: you don’t need junior sales reps anymore. (As in not even train them anymore just remove them.) To my surprise it worked. The tool was doing outbound, follow-ups, personalization, all the stuff junior SDRs grind through. Faster, cleaner, no complaints! But it did leave me feeling uneasy. That grindy, repetitive work is literally how most people get into sales. It’s where you learn how people respond, how messaging gets through, how to deal with rejection without taking it personally. That's how I got into it at least. So if AI wipes that layer out completely, what’s the path in? Are we just skipping straight to “hire experienced closers” and hoping they came from… where exactly? I’m not anti-AI (this stuff is obviously useful), but replacing enty-level humans as the first step in the process doesn't feel like a sustainable route.
 
-12h ago
+13h ago
 
 ---
 
@@ -123,69 +123,73 @@ Sat through a demo this week for one of these AI SDR tools and the pitch was in 
 
 The Trump administration is proposing wastewater testing to try to ferret out data on illegal drug use in real time, according to a draft of a new drug control strategy obtained by CBS News. It also proposes using AI to track threats.
 
-CBS News • 20h ago
+CBS News • 22h ago
 
 ---
 
-**[Top AI companies agree to work with Pentagon on secret data](https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/)**
+**[A tech worker in China is laid off and replaced by AI. Is it legal?](https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai)**
 
-The Pentagon has signed agreements with leading AI firms, including Microsoft, Amazon and Google, advancing military capabilities amid a dispute over safeguards.
+A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.
 
-The Washington Post • 1h ago
-
----
-
-**[Pentagon Makes Deals With A.I. Companies to Expand Classified Work](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html)**
-
-The New York Times • 6h ago
+NPR • 12h ago
 
 ---
 
-**[Pentagon says US military to be an 'AI-first' fighting force](https://www.bbc.com/news/articles/cy02gjq2987o)**
+**[Oscars changes allow for double acting nominations while banning AI](https://www.theguardian.com/film/2026/may/01/oscars-changes-double-acting-nominations-ai)**
 
-The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.
+The Academy of Motion Pictures Arts and Sciences has also rewritten rules on international film eligibility
 
-BBC • 1h ago
-
----
-
-**[Scoop: House Foreign Affairs lawmakers head to Silicon Valley to talk AI exports](https://www.axios.com/2026/05/01/house-foreign-affairs-silicon-valley-ai-exports)**
-
-Axios • 1h ago
+The Guardian • 3h ago
 
 ---
 
-**[Earnings: Google is biggest AI winner, OpenAI could be a 'surprise' loser](https://finance.yahoo.com/video/earnings-google-is-biggest-ai-winner-openai-could-be-a-surprise-loser-195654516.html)**
+**[Oscars says AI actors, writing cannot win awards](https://www.bbc.com/news/articles/cx21dl3v7d3o)**
 
-Five of the tech stocks making up the Magnificent Seven reported earnings this week — Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT). Niles Investment Management founder and portfolio manager Dan Niles comes on Market Domination to make his case as to why Google's parent company may be Big Tech's biggest winner in AI this quarter. He goes on to share his perspective on Microsoft (MSFT) and OpenAI's (OPAI.PVT) standings in the AI race. Nvidia (NVDA) will close out the Mag 7's earnings season when it releases its first quarter 2027 results on Wednesday, May 20.
+The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.
 
-Yahoo Finance • 2h ago
+BBC • 56m ago
+
+---
+
+**[Oscar Rule Changes: AI Crackdown, Actors Can Get Multiple Nominations in Same Category and International Film Eligibility Expands](https://variety.com/2026/film/awards/oscars-rule-changes-ai-acting-nominations-international-1236734659/)**
+
+Oscars 2026 rules add AI limits, allow multiple acting nominations and expand international film eligibility for the Academy Awards.
+
+Variety • 5h ago
 
 ---
 
 **[Apple just gave a clue that an AI acquisition may be in the cards](https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
 **[Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply](https://www.bloomberg.com/news/articles/2026-05-01/apple-raises-mac-mini-s-starting-price-to-799-after-ai-frenzy-drains-supply)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)**
+**[Demand for the Mac Mini is surging — and Apple just raised the starting price from $599 to $799](https://www.businessinsider.com/apple-raises-mac-mini-starting-price-799-ai-boosts-demand-2026-5)**
 
-Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.
+The entry-level model of the Mac Mini is no longer listed on Apple's website, making the $799 version the cheapest.
 
-TechCrunch • 23h ago
+Business Insider • 54m ago
+
+---
+
+**[Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)**
+
+Musk kept his cool, and OpenAI’s lawyer bulldozed him with piercing questions about his motivations for suing the company.
+
+MIT Technology Review • 1h ago
 
 ---
 
 **[Opinion | Trump Is the One Without the Cards at the Poker Table](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -197,7 +201,7 @@ The New York Times • 17h ago
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 668 • 💬 450 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 668 • 💬 451 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -205,7 +209,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 454 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 455 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -213,7 +217,13 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 351 • 💬 395 • 6h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 362 • 💬 417 • 7h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+
+---
+
+**[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
+
+⬆️ 308 • 💬 276 • 6h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -222,12 +232,6 @@ Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months
 They built it. They're scared of it. They're selling it anyway.
 
 ⬆️ 286 • 💬 219 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
-
----
-
-**[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
-
-⬆️ 262 • 💬 237 • 4h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -247,6 +251,14 @@ An open-source alternative to Harvey and Legora. Feature parity, zero cost, self
 
 ---
 
+**[Spotify adds 'Verified' badges to distinguish human artists from AI](https://news.ycombinator.com/item?id=47976856)**
+
+The music streaming platform will review criteria such as artists' live dates and social media presence.
+
+⬆️ 184 • 💬 205 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+
+---
+
 **["People who don't use AI will be left behind"](https://news.ycombinator.com/item?id=47953011)**
 
 "People who don't use AI will be left behind", they say. 
@@ -256,19 +268,11 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
 ---
 
-**[Spotify adds 'Verified' badges to distinguish human artists from AI](https://news.ycombinator.com/item?id=47976856)**
-
-The music streaming platform will review criteria such as artists' live dates and social media presence.
-
-⬆️ 151 • 💬 167 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
-
----
-
 **[DataCenter.FM – background noise app featuring the sound of the AI bubble](https://news.ycombinator.com/item?id=47959513)**
 
 Experience the real-world sounds of AI with this interactive audio generator.
 
-⬆️ 145 • 💬 28 • 1d ago • [DataCenter.FM](https://datacenter.fm/)
+⬆️ 146 • 💬 28 • 1d ago • [DataCenter.FM](https://datacenter.fm/)
 
 ---
 
@@ -282,7 +286,7 @@ Automate your video workflow with WayinVideo's Clipping Skill & API https://bit.
 
 📺 Matthew Berman
 
-👁️ 5K • 👍 412 • 💬 66 • ⏱️ 34:51 • 1h ago
+👁️ 5K • 👍 412 • 💬 66 • ⏱️ 34:51 • 3h ago
 
 ---
 
@@ -292,7 +296,7 @@ FREE GUIDE: *The Content Creator's AI Blueprint:* https://FirstMovers.ai/bluepri
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 305 • 💬 21 • ⏱️ 6:22 • 7h ago
+👁️ 7K • 👍 305 • 💬 21 • ⏱️ 6:22 • 8h ago
 
 ---
 
@@ -312,7 +316,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 7K • 👍 952 • 💬 39 • ⏱️ 25:30 • 1h ago
+👁️ 7K • 👍 952 • 💬 39 • ⏱️ 25:30 • 2h ago
 
 ---
 
@@ -322,7 +326,7 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 274K • 👍 13K • 💬 1K • ⏱️ 9:39 • 9h ago
+👁️ 274K • 👍 13K • 💬 1K • ⏱️ 9:39 • 10h ago
 
 ---
 
@@ -362,7 +366,7 @@ General Translation, translate your entire app with 1 component: http://www.bigb
 
 📺 bigboxSWE
 
-👁️ 19K • 👍 1K • 💬 122 • ⏱️ 4:59 • 6h ago
+👁️ 19K • 👍 1K • 💬 122 • ⏱️ 4:59 • 7h ago
 
 ---
 
@@ -372,7 +376,7 @@ aistocks #rzlv #rezolveai We are going to be going over everything you need to k
 
 📺 The Creative Investor
 
-👁️ 3K • 👍 185 • 💬 74 • ⏱️ 21:37 • 20h ago
+👁️ 3K • 👍 185 • 💬 74 • ⏱️ 21:37 • 21h ago
 
 ---
 
@@ -448,7 +452,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 6,809 • ❤️ 198 • 1h ago
+⬇️ 6,809 • ❤️ 198 • 2h ago
 
 ---
 
@@ -643,7 +647,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 52.0k • 🔱 2.8k • 21h ago
+⭐ 52.0k • 🔱 2.8k • 22h ago
 
 ---
 
@@ -653,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 13h ago
+⭐ 50.7k • 🔱 6.7k • 14h ago
 
 ---
 
@@ -673,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 39.6k • 🔱 4.4k • 52m ago
+⭐ 39.6k • 🔱 4.4k • 2h ago
 
 ---
 
@@ -733,7 +737,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.8k • 🔱 360 • 6h ago
+⭐ 4.8k • 🔱 360 • 8h ago
 
 ---
 
