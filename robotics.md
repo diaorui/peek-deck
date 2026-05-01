@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-01T03:30:32.589116+00:00'
+updated: '2026-05-01T06:27:35.997264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 01, 2026 at 03:30 UTC  
+**Last Updated:** May 01, 2026 at 06:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[sim: perfect backflip. real: perfect faceplant](https://www.reddit.com/r/robotics/comments/1szufp9/sim_perfect_backflip_real_perfect_faceplant/)**
+**[Extendible robotic arm](https://www.reddit.com/r/robotics/comments/1t0ijod/extendible_robotic_arm/)**
 
-the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
+Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-Tube Boom (STEM) concept. It can extend up to 5 ft. It was redesigned to be easier and more affordable to manufacture, with all parts 3D printed. The current use case is sanding large epoxy tables or plates or decks. I ran out of resources before building a more advanced version. Curious to hear what other use cases people see for something like this.
 
-15h ago
+2h ago
 
 ---
 
@@ -44,7 +44,15 @@ the flip itself actually goes through, full rotation. but the landing... face me
 
 Japan Airlines is set to begin trialing humanoid robots for ground operations at Tokyo’s Haneda Airport starting in May 2026, as part of efforts to tackle a growing labor shortage. The robots, developed in partnership with robotics firms, will assist with physically demanding tasks such as moving baggage and cargo on the tarmac. The initiative comes amid rising tourism and an aging population, which have increased pressure on airport staff. While the robots can handle repetitive manual work, key responsibilities like safety oversight will remain with human workers. The multi-year trial aims to evaluate whether humanoid machines can improve efficiency and reduce workload without requiring major infrastructure change. Source
 
-10h ago
+13h ago
+
+---
+
+**[sim: perfect backflip. real: perfect faceplant](https://www.reddit.com/r/robotics/comments/1szufp9/sim_perfect_backflip_real_perfect_faceplant/)**
+
+the flip itself actually goes through, full rotation. but the landing... face meets floor every time lol dug into it for a while. found that the damping in our sim was too high, so the joints in simulation were way smoother than the real ones. the policy just never had to deal with that kind of impact force on landing. working on dialing it down to match actual hardware now also been getting a ton of questions lately about how we do RL training, sim2real workflow, domain randomization, all that. finally put together a longer writeup covering what we've tried and where we messed up. posted it on r/MondoRobotics if anyone wants to check it out: https://www.reddit.com/r/MondoRobotics/comments/1szuepv/our_rl_journey_so_far_what_we_learned_what_broke/ happy to answer stuff here too
+
+18h ago
 
 ---
 
@@ -52,7 +60,15 @@ Japan Airlines is set to begin trialing humanoid robots for ground operations at
 
 Today is May Day. International Workers' Day. The holiday exists because in 1886, workers in Chicago went on strike demanding one thing: stop making people work 80 hours a week. Things got violent. People died. Eventually, decades later, the 8-hour workday became law. 140 years later I'm watching a robot handle a grill on that same day. The machine doesn't observe the holiday. Doesn't observe any day. It just runs. The thing those workers were actually asking for was less human suffering at machines. That kind of happened. Just not through shorter shifts. Through the machine taking the job entirely. Good outcome? Weird outcome? Genuinely no idea. Anyway, happy May Day. The robots have it covered.
 
-5h ago
+8h ago
+
+---
+
+**[Open sourced a multi-sensor fusion perception system inspired by Lattice OS architecture. Runs on Jetson Orin Nano.](https://www.reddit.com/r/robotics/comments/1t0k5ii/open_sourced_a_multisensor_fusion_perception/)**
+
+Been working on a community reference implementation of the connected-sensor situational awareness concept that systems like Anduril's Lattice popularized. The idea: multiple low-cost sensors fused at the edge into a single coherent world model. What actually runs: YOLOv8n via TensorRT FP16, adaptive 6-state Kalman filter [x, y, z, vx, vy, vz] per world object, Hungarian tracking with appearance re-ID, and self-calibrating ground-plane homography between cameras. The architecture decision I think is most relevant for robotics: singleton perception pipeline. One detect-track-fuse loop runs per tick regardless of how many downstream consumers exist. State broadcasts as pre-serialized msgpack binary snapshots. This pattern maps well to robot middleware (ROS2 pub/sub) and means the edge compute budget scales with sensor count, not consumer count. Not military grade, not affiliated with Anduril. Pure research and learning project. Posting because the multi-sensor fusion patterns here (sensor trust scoring, adaptive Kalman noise, cross-camera re-ID) seem directly applicable to robotics work. Repo: github.com/mandarwagh9/overwatch. MIT license. Anyone working on similar multi-sensor fusion at the edge? Curious how people handle clock drift between sensors in practice.
+
+1h ago
 
 ---
 
@@ -60,7 +76,13 @@ Today is May Day. International Workers' Day. The holiday exists because in 1886
 
 Hello, I am new to robotics and simulation stuff. I was working on my PyBullet simulation of my robot, but the joints do not seem to be connected at all. I have tried everything from reassembling the CAD to checking if the origins are correct and even remaking some of the links, but I cannot figure it out at all any tips?
 
-7h ago
+10h ago
+
+---
+
+**[Geyser Interlock Schematic to prevent dry heating in Proteus](https://www.reddit.com/r/robotics/comments/1t0klqu/geyser_interlock_schematic_to_prevent_dry_heating/)**
+
+38m ago
 
 ---
 
@@ -80,31 +102,7 @@ Hello, I am new to robotics and simulation stuff. I was working on my PyBullet s
 
 [ Removed by Reddit in response to a copyright notice. ]
 
-21h ago
-
----
-
-**[The Loneliness of the Middle Distance Trucker](https://www.reddit.com/r/robotics/comments/1t03cak/the_loneliness_of_the_middle_distance_trucker/)**
-
-Short-range autonomy in industrial settings gets framed differently than highway driving. The focus is on repeatable routes, low speeds, and environments where conditions stay relatively consistent. More of the challenge sits in near-field perception and precision. Tight spaces, docking, and constant start-stop movement leave less room for error, so coverage and control matter more than long-distance sensing. Autonomy also ties into a larger sequence of actions. Movement is just one step alongside loading and unloading, so timing and coordination become part of the system. It leans into a pattern where constraints make the problem more tractable early on, with reliability taking priority before expanding into less predictable environments.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/the-loneliness-of-the-middle-distance-trucker) • 9h ago
-
----
-
-**[Help us best test the next ROS release (Lyrical Luth) and get free ROS swag!](https://www.reddit.com/r/robotics/comments/1t09vfz/help_us_best_test_the_next_ros_release_lyrical/)**
-
-We've just kicked off our annual Test and Tutorial Party for ROS 2 Lyrical Luth (the next ROS release)! We need community members to run a number of integration tests and help validate our tutorials ahead of the official release on May 22nd. If you've ever wanted to contribute to an open-source project, this is one of the easiest ways to get involved. 🎁 Our top 20 testers will get free Lyrical swag or an OSRA membership! All the details are over on Open Robotics Discourse. Happy testing!
-
-5h ago
-
----
-
-**[Legs prototyping](https://www.reddit.com/r/robotics/comments/1t08kd9/legs_prototyping/)**
-
-Im going to a small robotics event soon so i am printing the legs to have the full body when i go. Even tho they won’t be functional
-
-6h ago
+1d ago
 
 ---
 
@@ -124,7 +122,7 @@ Financial Times • 1d ago
 
 SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
@@ -142,11 +140,11 @@ WIRED • 1d ago
 
 ---
 
-**[Humanoid robots to become baggage handlers in Japan airport experiment](https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports)**
+**[The robots are leaving the lab: the megatrend of automation](https://www.theguardian.com/global-x-invest-in-innovation/2026/may/01/the-robots-are-leaving-the-lab-the-megatrend-of-automation)**
 
-Japan Airlines will introduce the robots for trial run at a Tokyo airport amid country’s surge in inbound tourism and worsening labour shortages
+Until recently, humanoid robots seemed like a distant sci-fi dream. Now, they’re on the brink of driving economic transformation.
 
-The Guardian • 2d ago
+The Guardian • 2h ago
 
 ---
 
@@ -158,9 +156,17 @@ BBC • 2d ago
 
 ---
 
+**[The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More](https://www.eweek.com/news/humanoid-robot-power-rankings-list/)**
+
+Explore the top humanoid robots from Tesla, Unitree, Agility Robotics, UBTech, and more, ranked by momentum, real-world use, and commercial potential.
+
+eWeek • 1d ago
+
+---
+
 **[Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year](https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -176,15 +182,7 @@ darpa.mil • 1d ago
 
 A powerful embodied AI dataset will enable robots to perform dexterous manipulation
 
-IEEE Spectrum • 13h ago
-
----
-
-**[Seven lessons for every robotics founder from the ‘godfather of self-driving cars’](https://www.bvp.com/atlas/seven-lessons-for-every-robotics-founder-from-the-godfather-of-self-driving-cars)**
-
-Sebastian Thrun built Waymo, launched Google Glass, and founded Udacity. Here's what two decades of moonshots and a career in robotics taught him about timing, failure, and knowing when to push.
-
-Bessemer Venture Partners • 2d ago
+IEEE Spectrum • 16h ago
 
 ---
 
@@ -198,37 +196,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 152K • 👍 2K • 💬 200 • ⏱️ 24:02 • 1d ago
-
----
-
-**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
-
-ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
-
-📺 VEX Robotics
-
-👁️ 12K • 👍 576 • 💬 81 • ⏱️ 3:51 • 5h ago
-
----
-
-**[1X&#39;s New Humanoid Robot Factory to Build 10,000 NEOs #robot #robotics #humanoidrobots](https://www.youtube.com/watch?v=wIfGi3u-yl0)**
-
-1X Technologies says it built its new robot factory in just a few months to fulfill more than 10000 preorders for its NEO humanoid ...
-
-📺 Kalil 4.0
-
-👁️ 672 • 👍 22 • ⏱️ 0:44 • 6h ago
-
----
-
-**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
-
-The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
-
-📺 Joanna Stern
-
-👁️ 115K • 👍 5K • 💬 615 • ⏱️ 11:11 • 1d ago
+👁️ 161K • 👍 3K • 💬 207 • ⏱️ 24:02 • 1d ago
 
 ---
 
@@ -238,7 +206,37 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 19K • 👍 545 • 💬 50 • ⏱️ 8:27 • 3d ago
+👁️ 21K • 👍 596 • 💬 53 • ⏱️ 8:27 • 3d ago
+
+---
+
+**[Japan Airlines to replace workers with humanoid robots](https://www.youtube.com/watch?v=_Lgughpiamw)**
+
+Japan Airlines is trialling humanoid robots for luggage handling due to rising visitor numbers and a drop in the number of people ...
+
+📺 Sky News Australia
+
+👁️ 7K • 👍 116 • 💬 120 • ⏱️ 2:15 • 8h ago
+
+---
+
+**[China Just Built An AI Robot Army](https://www.youtube.com/watch?v=omtM-tl1Sj8)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots China is no longer just building robots for factories ...
+
+📺 PRO ROBOTS
+
+👁️ 13K • 👍 364 • 💬 48 • ⏱️ 18:35 • 4d ago
+
+---
+
+**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+
+ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+
+📺 VEX Robotics
+
+👁️ 21K • 👍 618 • 💬 223 • ⏱️ 3:51 • 8h ago
 
 ---
 
@@ -252,33 +250,23 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 ---
 
-**[China Just Built An AI Robot Army](https://www.youtube.com/watch?v=omtM-tl1Sj8)**
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots China is no longer just building robots for factories ...
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
-📺 PRO ROBOTS
+📺 Joanna Stern
 
-👁️ 13K • 👍 360 • 💬 43 • ⏱️ 18:35 • 4d ago
-
----
-
-**[Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches](https://www.youtube.com/watch?v=VVEzgYxDdrc)**
-
-Sony's advanced robot Ace has gone head to head with elite athletes, showcasing incredible speed, precision and reaction times ...
-
-📺 Global Update
-
-👁️ 63K • 💬 84 • ⏱️ 4:00 • 6d ago
+👁️ 124K • 👍 5K • 💬 635 • ⏱️ 11:11 • 1d ago
 
 ---
 
-**[Tesla Bot Gen 3: Elon Musk Plans 1 Million Units at $10K to Manage All Household Tasks by 2025](https://www.youtube.com/watch?v=8xXPTce7pLg)**
+**[1X&#39;s New Humanoid Robot Factory to Build 10,000 NEOs #robot #robotics #humanoidrobots](https://www.youtube.com/watch?v=wIfGi3u-yl0)**
 
-What if your daily chores could disappear overnight? In this video, we dive into Elon Musk's bold vision of producing 1 million ...
+1X Technologies says it built its new robot factory in just a few months to fulfill more than 10000 preorders for its NEO humanoid ...
 
-📺 Ai_Mobility_News
+📺 Kalil 4.0
 
-👁️ 19K • 👍 199 • 💬 22 • ⏱️ 12:54 • 2d ago
+👁️ 1K • 👍 26 • ⏱️ 0:44 • 9h ago
 
 ---
 
@@ -289,6 +277,16 @@ NEURA Robotics has established a strategic partnership with Amazon to deploy the
 📺 AI News
 
 👁️ 5K • 👍 136 • 💬 15 • ⏱️ 8:19 • 6d ago
+
+---
+
+**[1 Robot Every Hour Figure AI Is Scaling Faster Than Expected](https://www.youtube.com/watch?v=rroW6afxLgo)**
+
+Figure AI just revealed a massive production breakthrough, scaling humanoid robot output 24 times in just 120 days.
+
+📺 DPCcars
+
+👁️ 3K • 👍 71 • 💬 17 • ⏱️ 3:25 • 1d ago
 
 ---
 
