@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T10:08:42.679697+00:00'
+updated: '2026-05-01T11:39:23.764288+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 10:08 UTC  
+**Last Updated:** May 01, 2026 at 11:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -1.6%  
-**30d:** +11.0%  
-**90d:** +0.5%  
-**1y:** +24.0%  
+**24h:** +0.9%  
+**7d:** -1.5%  
+**30d:** +11.1%  
+**90d:** +0.6%  
+**1y:** +24.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.94B
+**Market Cap:** $275.71B
 Rank #2
 
 **Circulating Supply:** 120,687,573 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.8%
 
 **All-Time Low:** $0.43
-+527900.2%
++527355.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 A single trader won 93% of five-figure bets on unannounced US and Israeli military operations. The blockchain records every transaction. Nobody has been charged. Trump Jr. advises the platform.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 12h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/polymarket-insider-trading-military-bets-trump/) • 14h ago
 
 ---
 
@@ -80,7 +80,7 @@ A single trader won 93% of five-figure bets on unannounced US and Israeli milita
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 30m ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 2h ago
+
+---
+
+**[Ethereal news weekly #21 | DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack](https://www.reddit.com/r/ethereum/comments/1t0qpum/ethereal_news_weekly_21_defi_united_technical/)**
+
+DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 10m ago
+
+---
+
+**[Should I stake Ethereum?](https://www.reddit.com/r/ethereum/comments/1t0q8ps/should_i_stake_ethereum/)**
+
+I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
+
+34m ago
 
 ---
 
@@ -130,22 +146,6 @@ What if the final form of software development was just watching code and proof 
 
 ---
 
-**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
-
-Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
-
-2d ago
-
----
-
-**[we talk decentralization in ethereum but use centralized messaging](https://www.reddit.com/r/ethereum/comments/1sy7w6u/we_talk_decentralization_in_ethereum_but_use/)**
-
-the whole ethereum community preaches decentralization and taking back control but then we coordinate everything through regular messaging apps run by big companies. it’s pretty hypocritical when you step back and look at it. anyone else notice this?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,13 +154,29 @@ the whole ethereum community preaches decentralization and taking back control b
 
 Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.
 
-Decrypt • 17h ago
+Decrypt • 19h ago
 
 ---
 
 **[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
 
-ethereum.org • 17h ago
+ethereum.org • 19h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-morning-113211522.html)**
+
+Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
+
+Yahoo Finance • 7m ago
+
+---
+
+**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
+
+Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -169,22 +185,6 @@ ethereum.org • 17h ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 1d ago
-
----
-
-**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
-
-Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
-
-Yahoo Finance • 20h ago
-
----
-
-**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
-
-Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
-
-The Motley Fool • 23h ago
 
 ---
 
@@ -198,15 +198,21 @@ Forbes • 1d ago
 
 The fund, dubbed CUSHY, targets yield from onchain lending and private credit, offering tokenized access via Superstate for institutional investors.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Exclusive: Crypto CEO Breaks Down Why Bitcoin and Ethereum Prices Fell After Fed’s Shock Decision](https://coinpedia.org/news/exclusive-crypto-ceo-breaks-down-why-bitcoin-and-ethereum-prices-fell-after-feds-shock-decision/)**
+**[Solana leads in quantum security with NIST-approved signatures, ahead of Ethereum](https://cryptobriefing.com/solana-leads-in-quantum-security-with-nist-approved-signatures-ahead-of-ethereum/)**
 
-The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
+Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
 
-Coinpedia • 1d ago
+Crypto Briefing • 26m ago
+
+---
+
+**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
+
+TipRanks • 23h ago
 
 ---
 
@@ -218,15 +224,19 @@ The Block • 2d ago
 
 ---
 
-**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
-
-TipRanks • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🚨BREAKING: Tom Lee Just Went All In ETHEREUM](https://www.youtube.com/watch?v=yn0YDq449I8)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 454 • 👍 92 • 💬 11 • ⏱️ 12:11 • 2h ago
+
+---
 
 **[ETHEREUM IS DOING SOMETHING VERY UNUSUAL RIGHT NOW](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
 
@@ -234,7 +244,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 180 • 💬 26 • ⏱️ 9:18 • 20h ago
+👁️ 3K • 👍 181 • 💬 26 • ⏱️ 9:18 • 21h ago
 
 ---
 
@@ -244,7 +254,7 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 2K • 👍 180 • 💬 38 • ⏱️ 13:28 • 6h ago
+👁️ 4K • 👍 219 • 💬 123 • ⏱️ 13:28 • 8h ago
 
 ---
 
@@ -254,7 +264,7 @@ Tom Lee's BMNR is aggressively buying Ethereum and may be building the MicroStra
 
 📺 Darren Steves
 
-👁️ 1K • 👍 75 • 💬 36 • ⏱️ 10:21 • 1d ago
+👁️ 2K • 👍 76 • 💬 36 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -264,7 +274,17 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 56K • 👍 3K • 💬 165 • ⏱️ 16:31 • 1d ago
+👁️ 57K • 👍 3K • 💬 166 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[WILL ETHEREUM DUMP AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=9Es9zjS05Lw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 55 • 👍 3 • ⏱️ 5:01 • 2h ago
 
 ---
 
@@ -284,47 +304,27 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 33 • ⏱️ 5:55 • 1d ago
+👁️ 24K • 👍 3K • 💬 33 • ⏱️ 5:55 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=jCI3nYNGTGg)**
+**[This Firm Wants To Own 5% of Ethereum](https://www.youtube.com/watch?v=TwlXvFH8Qos)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #ethereum Apr. 28, 2026 — Crypto news today: The White House ...
 
-📺 Crypto Gyan
+📺 Yahoo Finance
 
-👁️ 522 • 👍 61 • ⏱️ 6:51 • 7h ago
-
----
-
-**[Bitcoin &amp; Ethereum. Sehen wir heute einen Short Squeeze? und btc auf 80k? Darauf musst du achten!](https://www.youtube.com/watch?v=XggsQVI_g-I)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 1K • 👍 334 • 💬 42 • ⏱️ 8:49 • 5h ago
+👁️ 10K • 👍 366 • 💬 62 • ⏱️ 14:56 • 2d ago
 
 ---
 
-**[CRITICAL ETHEREUM LEVEL HERE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-Y11mlkRmMA)**
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=LlDOKR1Mau8)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
 
-📺 Cilinix Crypto
+📺 Ashutosh Kumar
 
-👁️ 335 • 👍 15 • ⏱️ 5:22 • 2d ago
-
----
-
-**[Ethereum auf $250.000? Diese Prognose ändert ALLES!](https://www.youtube.com/watch?v=KP_OVaz1--E)**
-
-Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
-
-📺 Krypto Report
-
-👁️ 5K • 👍 417 • 💬 32 • ⏱️ 19:05 • 18h ago
+👁️ 8K • 👍 444 • 3h ago
 
 ---
 
