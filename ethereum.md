@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T20:05:03.148118+00:00'
+updated: '2026-05-01T21:25:33.977802+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 20:05 UTC  
+**Last Updated:** May 01, 2026 at 21:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** -0.6%  
-**30d:** +12.1%  
-**90d:** +1.5%  
-**1y:** +25.2%  
+**24h:** +1.6%  
+**7d:** -1.3%  
+**30d:** +11.4%  
+**90d:** +0.8%  
+**1y:** +24.4%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[Should I stake Ethereum?](https://www.reddit.com/r/ethereum/comments/1t0q8ps/should_i_stake_ethereum/)**
-
-I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
-
-9h ago
+16h ago
 
 ---
 
@@ -88,7 +80,23 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 2h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 3h ago
+
+---
+
+**[Should I stake Ethereum?](https://www.reddit.com/r/ethereum/comments/1t0q8ps/should_i_stake_ethereum/)**
+
+I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
+
+10h ago
+
+---
+
+**[Smart contract based project ideas](https://www.reddit.com/r/ethereum/comments/1t1605j/smart_contract_based_project_ideas/)**
+
+I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
+
+18m ago
 
 ---
 
@@ -96,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 10h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 11h ago
 
 ---
 
@@ -104,7 +112,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 9h ago
 
 ---
 
@@ -140,12 +148,6 @@ What if the final form of software development was just watching code and proof 
 
 ---
 
-**[How To Integrate Uniswap V4 Into Your Cartesi App](https://www.reddit.com/r/ethereum/comments/1syzmt1/how_to_integrate_uniswap_v4_into_your_cartesi_app/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,35 +166,27 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
+**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
 
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Dominance Nears Death Cross, Ethereum Could Trigger Altcoin Season](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dominance-nears-death-cross-200412666.html)**
+
+Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
 
-The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-CoinDesk • 1h ago
-
----
-
-**[Ethereum ICO whale moves $23 million in ETH after 10-year dormancy](https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million)**
-
-The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
-
-The Block • 2d ago
-
----
-
-**[Ethereum ETFs Shed $184M Over 4-Day Negative Streak](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-shed-184m-over-154739643.html)**
-
-Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,6 +195,12 @@ Yahoo Finance • 4h ago
 Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
 The Motley Fool • 1d ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -216,13 +216,15 @@ Fortune • 2d ago
 
 Ethereum has slowly broken out of its October downtrend that had led to its progressive but brutal 64% correction.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+**[Solana leads in quantum security with NIST-approved signatures, ahead of Ethereum](https://cryptobriefing.com/solana-leads-in-quantum-security-with-nist-approved-signatures-ahead-of-ethereum/)**
 
-Forbes • 1d ago
+Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
+
+Crypto Briefing • 10h ago
 
 ---
 
@@ -236,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 814 • 👍 48 • 💬 7 • ⏱️ 8:12 • 6h ago
+👁️ 814 • 👍 48 • 💬 7 • ⏱️ 8:12 • 7h ago
 
 ---
 
@@ -246,7 +248,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 4K • 👍 122 • 💬 18 • ⏱️ 24:23 • 8h ago
+👁️ 4K • 👍 122 • 💬 18 • ⏱️ 24:23 • 9h ago
 
 ---
 
@@ -256,7 +258,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 184 • 💬 18 • ⏱️ 12:11 • 11h ago
+👁️ 1K • 👍 184 • 💬 18 • ⏱️ 12:11 • 12h ago
 
 ---
 
@@ -276,7 +278,7 @@ Ethereum and altcoins are bleeding from the largest wave of crypto hacks yet —
 
 📺 EllioTrades
 
-👁️ 1K • 👍 82 • 💬 8 • ⏱️ 1:20:25 • 34m ago
+👁️ 1K • 👍 82 • 💬 8 • ⏱️ 1:20:25 • 1h ago
 
 ---
 
@@ -316,7 +318,7 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 276 • 💬 199 • ⏱️ 13:28 • 16h ago
+👁️ 5K • 👍 276 • 💬 199 • ⏱️ 13:28 • 17h ago
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 624 • 👍 65 • ⏱️ 6:16 • 6h ago
+👁️ 624 • 👍 65 • ⏱️ 6:16 • 8h ago
 
 ---
 

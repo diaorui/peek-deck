@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-01T20:05:03.135496+00:00'
+updated: '2026-05-01T21:25:33.965057+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 01, 2026 at 20:05 UTC  
+**Last Updated:** May 01, 2026 at 21:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 They published the full research yesterday. Here's what shocked me: The breakdown of what people actually ask Claude for guidance on: Health & wellness: 27% Career decisions: 26% Relationships: 12% Personal finance: 11% Over 76% of personal guidance conversations fall into just 4 buckets. But here's the part that genuinely surprised me: Claude was sycophantic in 25% of relationship conversations. Agreeing that someone's partner is "definitely gaslighting them" based on one side of the story. Helping people read romantic intent into ordinary friendly behavior because they wanted to hear it. In spirituality conversations it was even worse: 38%. Anthropic actually used this data to retrain Opus 4.7 specifically for this failure mode. They fed the model real conversations where older Claude versions had been sycophantic, then measured whether the new model would course-correct mid-conversation. Result: sycophancy rate in relationship guidance dropped by roughly half. The thing I keep thinking about: they also found that 22% of people mentioned they had no other option. They came to Claude specifically because they couldn't afford or access a professional. So the stakes here aren't "AI gave someone bad movie recommendations." It's closer to "AI told someone their marriage was fine" or "AI validated a medical decision." I'm curious to know your opinion. Do you notice Claude caving when you push back on its answers? Has it ever told you what you wanted to hear instead of what you needed to hear?
 
-8h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 6h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 7h ago
 
 ---
 
@@ -57,13 +57,7 @@ China just banned firing workers for AI while Nvidia's CEO claims AI created ove
 
 The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
 
-7h ago
-
----
-
-**[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 20h ago
+8h ago
 
 ---
 
@@ -71,7 +65,13 @@ The Clearview AI story still feels like one of the cleanest examples of the cons
 
 The observation that started this: most of what people use AI for every day - summarising, drafting, classifying, extracting etc doesn't actually require a frontier model. Any competent 8-70B model handles those just as well. But most people run everything through Claude or ChatGPT out of habit. I built Followloop (followloop.app) to solve this automatically. It classifies each task by complexity and routes it: - Simple tasks → Cerebras Llama (2000 TPS, 1M tokens/day free), Groq, Gemini Flash - Moderate tasks → Groq 70B, SambaNova - Complex tasks → Claude Haiku as fallback The dashboard shows your actual cost alongside what you'd have paid running everything on Claude Sonnet. I've been running it on my own AI workflow for two weeks: 9,200 tasks routed, $21.24 saved, $0.1360 actual cost. About 157× cheaper per token than Sonnet on average. Works with any AI setup via MCP (Model Context Protocol) - Claude Desktop, Cursor, Claude Code, or anything MCP-compatible. Also has a library of 1,300+ safety-screened MCP servers as a bonus feature. $5/month at followloop.app
 
-7h ago
+8h ago
+
+---
+
+**[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
+
+🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 21h ago
 
 ---
 
@@ -79,15 +79,15 @@ The observation that started this: most of what people use AI for every day - su
 
 Researchers say results mark a really ‘profound change in technology that will reshape medicine’
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 11h ago
 
 ---
 
-**[The Internet Needs a New Layer for AI Agents](https://www.reddit.com/r/artificial/comments/1t0wpu8/the_internet_needs_a_new_layer_for_ai_agents/)**
+**[A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.reddit.com/r/artificial/comments/1t167p0/a_darkmoney_campaign_is_paying_influencers_to/)**
 
-In the future, everyone will have their own AI agent. Not just a chatbot, but an actual agent that works for you. It will write code, automate tasks, coordinate workflows, search for information, and interact with other agents. But if millions of agents exist, they need a way to identify and reach each other. Agents should have addresses. Simple human readable identities instead of random hashes. Something agents can discover, message, hire, and collaborate with. An address becomes more than a name. It becomes an entry point into an agent. That’s what I’m building right now. A decentralized network where AI agents can communicate, collaborate, share knowledge, and work together through a unified addressing system. Not isolated tools. A real network for agents. And I’m planning to make the entire thing open source and free for anyone to use. You can leave your email here to get early access: www.cogninet.co
+Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.
 
-4h ago
+🔗 [WIRED](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/) • 9m ago
 
 ---
 
@@ -95,7 +95,7 @@ In the future, everyone will have their own AI agent. Not just a chatbot, but an
 
 We shipped iFixAi earlier this week. An open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Open source and free to run against any AI deployment. Looking forward to your feedback. https://github.com/ifixai-ai/diagnostic
 
-1h ago
+2h ago
 
 ---
 
@@ -107,11 +107,11 @@ The announcement yesterday was genuinely significant and i don't think most peop
 
 ---
 
-**[I built a system where senior lawyers can correct the AI's knowledge by leaving comments on documents. here's why it matters more than better embeddings](https://www.reddit.com/r/artificial/comments/1t117d5/i_built_a_system_where_senior_lawyers_can_correct/)**
+**[Is an AI SDR replacing “entry-level jobs” a feature or a bug?](https://www.reddit.com/r/artificial/comments/1t0oucl/is_an_ai_sdr_replacing_entrylevel_jobs_a_feature/)**
 
-When I built an AI research assistant for a law firm, the feature I thought would be a nice-to-have turned out to be the one they use most. The system has an annotation feature. Any user can select text in a document and leave a comment. Something like "this interpretation was overruled by ruling X in 2024" or "this applies only to NRW, not nationally" or "our firm's position differs, see internal memo Y." Technically here's what happens. Comments are stored in PostgreSQL linked to the document ID, page number, and selected text. When a query comes in, the system does two things. First it fetches comments attached to the specific documents that were retrieved by vector search. Second it fetches ALL comments across ALL documents regardless of what was retrieved. Both get injected into the LLM's context. The second part is important. If a senior lawyer annotated document A saying "this is outdated" but the query only retrieved documents B and C, the system still sees that annotation through the global comments injection. The cache refreshes every 60 seconds so new comments are picked up almost immediately. The prompt tells the model to treat these annotations as authoritative expert notes and to prioritize them when they contradict the document text. Why this matters more than I initially thought: Legal knowledge goes stale. A court ruling from 2022 might be superseded by a 2024 decision. Without the annotation system you'd need to re-ingest documents, update metadata, maybe re-chunk everything. With annotations a senior lawyer just writes "superseded by X" and the system incorporates that knowledge on the next query. No engineering work needed. It also captures institutional knowledge that doesn't exist in any document. Things like "our firm interprets this more conservatively than the standard reading" or "client X has specific requirements around this clause." That kind of knowledge lives in senior lawyers' heads and normally gets lost when they retire or leave. The legal team started using it within the first week without any training. They were already used to annotating PDFs with comments. This just made those comments searchable and part of the AI's knowledge base. If you're building RAG for any domain where expert interpretation matters (legal, medical, financial, academic), consider building an annotation layer. Better embeddings and fancier retrieval will improve your baseline. But letting domain experts directly correct and enrich the AI's knowledge is a multiplier that no amount of model improvement can replicate.
+Sat through a demo this week for one of these AI SDR tools and the pitch was in a nutshell: you don’t need junior sales reps anymore. (As in not even train them anymore just remove them.) To my surprise it worked. The tool was doing outbound, follow-ups, personalization, all the stuff junior SDRs grind through. Faster, cleaner, no complaints! But it did leave me feeling uneasy. That grindy, repetitive work is literally how most people get into sales. It’s where you learn how people respond, how messaging gets through, how to deal with rejection without taking it personally. That's how I got into it at least. So if AI wipes that layer out completely, what’s the path in? Are we just skipping straight to “hire experienced closers” and hoping they came from… where exactly? I’m not anti-AI (this stuff is obviously useful), but replacing enty-level humans as the first step in the process doesn't feel like a sustainable route.
 
-1h ago
+11h ago
 
 ---
 
@@ -123,77 +123,69 @@ When I built an AI research assistant for a law firm, the feature I thought woul
 
 The Trump administration is proposing wastewater testing to try to ferret out data on illegal drug use in real time, according to a draft of a new drug control strategy obtained by CBS News. It also proposes using AI to track threats.
 
-CBS News • 18h ago
+CBS News • 20h ago
 
 ---
 
-**[Classified Networks AI Agreements](https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/)**
+**[Top AI companies agree to work with Pentagon on secret data](https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/)**
 
-The War Department has entered into agreements with seven of the world's leading frontier artificial intelligence companies to deploy their advanced AI capabilities on the department's classified
+The Pentagon has signed agreements with leading AI firms, including Microsoft, Amazon and Google, advancing military capabilities amid a dispute over safeguards.
 
-U.S. Department of War (.gov) • 8h ago
+The Washington Post • 38m ago
 
 ---
 
 **[Pentagon Makes Deals With A.I. Companies to Expand Classified Work](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html)**
 
-The New York Times • 7h ago
+The New York Times • 5h ago
 
 ---
 
-**[Pentagon reaches deals with 7 tech companies allowing US military to use their AI to help fight wars](https://abc7.com/post/pentagon-reaches-deals-7-tech-companies-allowing-us-military-use-ai-help-fight-wars/19016125/)**
+**[Pentagon says US military to be an 'AI-first' fighting force](https://www.bbc.com/news/articles/cy02gjq2987o)**
 
-The Department of Defense is accelerating the use of AI with recent agreement allowing US military to use tech companies' AI.
+The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.
 
-ABC7 Los Angeles • 46m ago
-
----
-
-**[BlackRock says these bonds have attractive yields — and can help insulate from AI disruption](https://www.cnbc.com/2026/05/01/blackrock-says-these-bonds-have-attractive-yields-and-can-help-insulate-from-ai-disruption.html)**
-
-Investors may want to focus on bonds that are tied to the real economy, BlackRock says.
-
-CNBC • 59m ago
+BBC • 15m ago
 
 ---
 
-**[Oscars changes allow for double acting nominations while banning AI](https://www.theguardian.com/film/2026/may/01/oscars-changes-double-acting-nominations-ai)**
+**[Scoop: House Foreign Affairs lawmakers head to Silicon Valley to talk AI exports](https://www.axios.com/2026/05/01/house-foreign-affairs-silicon-valley-ai-exports)**
 
-The Academy of Motion Pictures Arts and Sciences has also rewritten rules on international film eligibility
-
-The Guardian • 52m ago
+Axios • 48m ago
 
 ---
 
-**[Oscars: Film Academy Cracks Down on AI, Opens Up International and Acting Categories](https://www.hollywoodreporter.com/movies/movie-news/oscars-rules-2027-ai-actors-screenplays-international-1236581862/)**
+**[Earnings: Google is biggest AI winner, OpenAI could be a 'surprise' loser](https://finance.yahoo.com/video/earnings-google-is-biggest-ai-winner-openai-could-be-a-surprise-loser-195654516.html)**
 
-The organization also announced changes impacting a host of other categories and its Governors Awards.
+Five of the tech stocks making up the Magnificent Seven reported earnings this week — Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT). Niles Investment Management founder and portfolio manager Dan Niles comes on Market Domination to make his case as to why Google's parent company may be Big Tech's biggest winner in AI this quarter. He goes on to share his perspective on Microsoft (MSFT) and OpenAI's (OPAI.PVT) standings in the AI race. Nvidia (NVDA) will close out the Mag 7's earnings season when it releases its first quarter 2027 results on Wednesday, May 20.
 
-The Hollywood Reporter • 2h ago
-
----
-
-**[Oscars to Screenwriters: You Gotta Be Human](https://www.rollingstone.com/tv-movies/tv-movie-news/academy-awards-oscars-ai-acting-category-rules-1235556689/)**
-
-The Motion Picture Academy has updated its rules for how AI is used for Oscar contenders, as well as rules for the acting categories.
-
-Rolling Stone • 26m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Why SoundHound AI Stock Jumped 17% Today](https://finance.yahoo.com/markets/stocks/articles/why-soundhound-ai-stock-jumped-192231368.html)**
+**[Apple just gave a clue that an AI acquisition may be in the cards](https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2)**
 
-SoundHound AI rode Twilio's coattails today. The voice AI market is heating up.
-
-Yahoo Finance • 42m ago
+MarketWatch • 1h ago
 
 ---
 
-**[So, About That AI Bubble](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)**
+**[Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply](https://www.bloomberg.com/news/articles/2026-05-01/apple-raises-mac-mini-s-starting-price-to-799-after-ai-frenzy-drains-supply)**
 
-Thanks to the rise of Claude Code and other AI agents, revenues are finally catching up to the hype.
+Bloomberg.com • 53m ago
 
-The Atlantic • 9h ago
+---
+
+**[Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)**
+
+Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.
+
+TechCrunch • 23h ago
+
+---
+
+**[Opinion | Trump Is the One Without the Cards at the Poker Table](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html)**
+
+The New York Times • 16h ago
 
 ---
 
@@ -205,7 +197,7 @@ The Atlantic • 9h ago
 
 Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …
 
-⬆️ 666 • 💬 450 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+⬆️ 668 • 💬 450 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 
 ---
 
@@ -213,7 +205,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 453 • 💬 174 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 454 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -221,7 +213,7 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 340 • 💬 376 • 3h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 351 • 💬 395 • 5h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
@@ -230,6 +222,12 @@ Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months
 They built it. They're scared of it. They're selling it anyway.
 
 ⬆️ 286 • 💬 219 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+
+---
+
+**[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
+
+⬆️ 262 • 💬 237 • 4h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -249,12 +247,6 @@ An open-source alternative to Harvey and Legora. Feature parity, zero cost, self
 
 ---
 
-**[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
-
-⬆️ 190 • 💬 161 • 2h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
-
----
-
 **["People who don't use AI will be left behind"](https://news.ycombinator.com/item?id=47953011)**
 
 "People who don't use AI will be left behind", they say. 
@@ -264,19 +256,19 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
 ---
 
+**[Spotify adds 'Verified' badges to distinguish human artists from AI](https://news.ycombinator.com/item?id=47976856)**
+
+The music streaming platform will review criteria such as artists' live dates and social media presence.
+
+⬆️ 151 • 💬 167 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+
+---
+
 **[DataCenter.FM – background noise app featuring the sound of the AI bubble](https://news.ycombinator.com/item?id=47959513)**
 
 Experience the real-world sounds of AI with this interactive audio generator.
 
 ⬆️ 145 • 💬 28 • 1d ago • [DataCenter.FM](https://datacenter.fm/)
-
----
-
-**[Ramp's Sheets AI Exfiltrates Financials](https://news.ycombinator.com/item?id=47951786)**
-
-Assess and monitor risk from AI in vendors with novel intelligence on emerging threats. Stay ahead of AI-driven third-party risk with continuous moitoring and adaptive insight.
-
-⬆️ 141 • 💬 50 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
 
 ---
 
@@ -290,7 +282,7 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 216K • 👍 12K • 💬 1K • ⏱️ 9:39 • 7h ago
+👁️ 216K • 👍 12K • 💬 1K • ⏱️ 9:39 • 8h ago
 
 ---
 
@@ -300,7 +292,7 @@ FREE GUIDE: *The Content Creator's AI Blueprint:* https://FirstMovers.ai/bluepri
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 247 • 💬 19 • ⏱️ 6:22 • 5h ago
+👁️ 4K • 👍 247 • 💬 19 • ⏱️ 6:22 • 6h ago
 
 ---
 
@@ -330,7 +322,7 @@ What 10000 readers from Coinbase, HP, and Johns Hopkins read every week → bren
 
 📺 Brendan Dell 
 
-👁️ 137K • 👍 7K • 💬 2K • ⏱️ 16:59 • 1d ago
+👁️ 137K • 👍 7K • 💬 2K • ⏱️ 16:59 • 2d ago
 
 ---
 
@@ -360,7 +352,7 @@ Create Your Own Long AI Scenes in Higgsfield AI: https://higgsfield.ai/s/gpt-ima
 
 📺 Tao Prompts
 
-👁️ 5K • 👍 420 • 💬 28 • ⏱️ 15:48 • 6h ago
+👁️ 5K • 👍 420 • 💬 28 • ⏱️ 15:48 • 7h ago
 
 ---
 
@@ -456,7 +448,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 6,809 • ❤️ 198 • 12m ago
+⬇️ 6,809 • ❤️ 198 • 1h ago
 
 ---
 
@@ -651,7 +643,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 51.9k • 🔱 2.8k • 19h ago
+⭐ 51.9k • 🔱 2.8k • 20h ago
 
 ---
 
@@ -661,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 11h ago
+⭐ 50.7k • 🔱 6.7k • 12h ago
 
 ---
 
@@ -681,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 39.6k • 🔱 4.4k • 2h ago
+⭐ 39.6k • 🔱 4.4k • 3h ago
 
 ---
 
@@ -741,7 +733,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.8k • 🔱 360 • 4h ago
+⭐ 4.8k • 🔱 360 • 6h ago
 
 ---
 

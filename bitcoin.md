@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-01T20:05:03.142940+00:00'
+updated: '2026-05-01T21:25:33.972515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 20:05 UTC  
+**Last Updated:** May 01, 2026 at 21:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,373.54
+### $77,867.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +1.0%  
-**30d:** +17.2%  
-**90d:** +1.9%  
-**1y:** -19.1%  
+**24h:** +2.3%  
+**7d:** +0.4%  
+**30d:** +16.6%  
+**90d:** +1.3%  
+**1y:** -19.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Let's go, pedal to the metal!
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Let's go, pedal to the metal!
 
 Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth told Congress that Bitcoin projects inside the Pentagon are “classified and ongoing,” while stressing that the top crypto is a tool for American power. Hegseth delivered the comments in front of the House Armed Services Committee, responding to questions about whether the US is securing a strategic advantage in technology. “I am a long enthusiast of Bitcoin and crypto potential,” he said. “A lot of the things we are doing, enabling it or defeating it, are classified efforts that are ongoing inside our department, which do provide us a lot of leverage in a lot of different scenarios.” Hegseth’s endorsement elevates Bitcoin into the realm of geopolitical strategy at a time when Russia and China are expanding their roles in mining and using digital assets to bypass US sanctions....
 
-🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 6h ago
+🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 7h ago
 
 ---
 
@@ -97,7 +97,15 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
 
-3h ago
+5h ago
+
+---
+
+**[Duck crypto, Bitcoin only!](https://www.reddit.com/r/Bitcoin/comments/1t14wyp/duck_crypto_bitcoin_only/)**
+
+Masood Boomgaard aka Self-Help Singh
+
+59m ago
 
 ---
 
@@ -105,7 +113,7 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 Fiat doesn’t just lose value. It trains you to spend. Save → lose purchasing power Spend → feel “smart” So people buy earlier. More often. Things they don’t really need. That’s not a side effect. It’s the incentive structure. Bitcoin does the opposite. Low time preference vs high time preference isn’t just theory, it shows up in everyday behavior. Do you agree that inflation quietly drives overconsumption?
 
-🔗 [Myntad](https://www.myntad.com/inflation-causes-unnecessary-consumption/) • 5h ago
+🔗 [Myntad](https://www.myntad.com/inflation-causes-unnecessary-consumption/) • 6h ago
 
 ---
 
@@ -113,7 +121,7 @@ Fiat doesn’t just lose value. It trains you to spend. Save → lose purchasing
 
 A while ago now I read Allden's "Broken Money", and it was the idea of bitcoin as an emergency fund for those without access to regular money which stuck with me the hardest. I think part of why it was so poignant for me was that it made sense regardless of how wealthy one is to keep some funds which is soley controllered by you and noone else. By extension, owning just some bitcoin, even if it is a very modest amount, is equally prudent regardless of whether you are a billionaire or just have more modest savings. The reason I decided to share this is because I rarely see this sentiment in the conversation. Most often I see the argument that bitcoin is the better alternative to fiat, that it will be future base of the financial system and so on. Don't get me wrong, I hope for this although I doubt it. But it does seem inevitable to me that most people should want to have a couple of satoshis just in case. Often billionaires gets flack for building bunkers, but I think most of us would do so. Why? Not because of "eat the rich", not because they expect the world to end, but simply because its not an expense for them anymore. Why not? I would. Ironically this it why I think Bitcoin might just increase enormously in value. People will want to own just a little of it, but for the very rich a little will comparatively mean a lot. But as long as the Bitcoin I own don't lose ALL their value (which seems improbably if not impossible) I will still be happy to own some even if it goes down quite a bit in price. And stays there. Because it is my tiny affordable bunker, which I hope to never need.
 
-3h ago
+4h ago
 
 ---
 
@@ -121,23 +129,7 @@ A while ago now I read Allden's "Broken Money", and it was the idea of bitcoin a
 
 I'm afraid that we keep waiting for some dramatic “mass adoption moment,” like a switch flipping overnight. Meanwhile, it’s already happening-quietly, unevenly, and mostly outside the bubbles that think they’re the center of the world. In countries with stable currencies, Bitcoin is a “speculative asset.” In countries with collapsing ones, it’s survival. That alone should tell us something about where this is going. We don’t notice adoption because it doesn’t need our validation. It happens when someone realizes their savings are melting. When cross-border payments are broken. When “trusted” institutions fail one too many times. And here’s the uncomfortable truth: Bitcoin isn’t waiting to be adopted by everyone. It’s being adopted first by the people who actually need it. By the time it feels obvious in the West, it won’t be early anymore-it’ll be inevitable. So the real question is: are we early or just early enough to still ignore it?
 
-5h ago
-
----
-
-**[Looking for “Stone Man” — Bitcointalk user from August 2010](https://www.reddit.com/r/Bitcoin/comments/1t0bvaf/looking_for_stone_man_bitcointalk_user_from/)**
-
-Looking for “Stone Man” — Bitcointalk user from August 2010 TL;DR: I’ve spent the past 18 months analyzing the change-address bug in Bitcoin 0.3.2 that caused the loss of 8,900 BTC by Bitcointalk user #288 (“Stone Man”) on August 9, 2010. I believe these coins can be recovered if the original owner can be found and is willing to share a few technical details. The coins remain his — I’m not asking for anything except to help return them. Background On August 9, 2010, a forum user posted about losing 8,900 BTC due to the notorious “change-address bug” in the Bitcoin 0.3.2 wallet. He had restored an older wallet.dat and made a 1 BTC self-send; the change went to a newly-generated address whose private key was lost when his Live USB system was rebooted. The transaction is on-chain: Tx: eb5b761c7380ed4c6adf688f9e5ab94953dcabeda47d9eeabd77261902fccccf Block 73272, August 9, 2010, 21:35:11 UTC Output[1]: 8,899 BTC → 167ZWTT8n6s4ya8cGjqNNQjDwDGY31vmHg (unspent for 15+ years) The user’s last message ended with “gone for good” and he never returned to the forum. What I’ve found The wallet’s private-key generation in this environment depends on a chain of weak entropy sources I’ve been able to model in detail: Linux 2.6.26 kernel seed) random.c boot-time pool seeding (Live USB, no persistent random- OpenSSL 0.9.8g-15 (Debian Lenny patched) md_rand state machine, bit-for-bit Bitcoin 0.3.2’s RAND_add and RAND_bytes call sequence in CreateTransaction I’ve built a CUDA implementation that searches the parameter space at ~2M keys/sec on a single laptop GPU. Without specific hardware/timing information from the original user, the search space is too large (~10^16 to 10^22). With his cooperation — confirming utsname, hardware, boot timing, network state, and a few session details — the search space shrinks by roughly 10 orders of magnitude. With his old wallet.dat (or the sender address private key alone), the search becomes nearly instantaneous: minutes on a laptop. The key reason cooperation is so leveraged: the same PRNG state that produced the change-address private key also produced the ECDSA signing nonce used in the transaction. If the sender’s private key is known (it’s in his old wallet.dat anyway), the nonce can be derived from the on-chain signature, providing a powerful verification channel that eliminates the most expensive part of the search. Why I’m doing this I have no claim on these coins. They belong to the original user. My goal is to return them. If a small thank-you is offered after a successful recovery, I’d accept — but it’s not a condition. What I need Just to talk. If you are this person, or you know who is, please reach out. I can run the entire recovery on your computer using your wallet.dat without it ever leaving your hands. You don’t need to trust me with anything sensitive — only confirm a few non-sensitive details about the original setup. Verification To filter out impersonators, real correspondence will include questions that only the original user would know. Please reach out via: reply to this thread / DM. This is a serious 18-month research effort. Happy to share the technical write-up with anyone qualified to evaluate it, including security researchers who can vouch for the methodology. The full analysis (CUDA code, kernel/OpenSSL state machine modeling, blockchain forensics) is available on request.
-
-21h ago
-
----
-
-**[PSA: Bisq 1 Trade protocol exploit discovered, investigations ongoing](https://www.reddit.com/r/Bitcoin/comments/1t0xgkt/psa_bisq_1_trade_protocol_exploit_discovered/)**
-
-Bisq v1 has experienced an exploit in its trade protocol that allowed an attacker to drain a portion of available offers.  The impact is limited to offers that were actively taken by the attacker. Funds held in users’ Bisq Bitcoin wallets are not affected.  As an immediate mitigation, an emergency mechanism was activated to disable trading by setting the required trading version to 2.0.0 — a version that does not exist. This effectively prevents the attacker from continuing the exploit.  The att...
-
-🔗 [Bisq](https://bisq.community/t/psa-trade-protocol-exploit-discovered-investigations-ongoing/13664) • 4h ago
+6h ago
 
 ---
 
@@ -145,7 +137,7 @@ Bisq v1 has experienced an exploit in its trade protocol that allowed an attacke
 
 Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
 
-34m ago
+1h ago
 
 ---
 
@@ -153,7 +145,15 @@ Just saw the Spiegel report yesterday that german officials have apparently fina
 
 Core has been captured for YEARS now. READ IT
 
-🔗 [Citadel21](https://www.citadel21.com/the-lever) • 49m ago
+🔗 [Citadel21](https://www.citadel21.com/the-lever) • 2h ago
+
+---
+
+**[PSA: Bisq 1 Trade protocol exploit discovered, investigations ongoing](https://www.reddit.com/r/Bitcoin/comments/1t0xgkt/psa_bisq_1_trade_protocol_exploit_discovered/)**
+
+Bisq v1 has experienced an exploit in its trade protocol that allowed an attacker to drain a portion of available offers.  The impact is limited to offers that were actively taken by the attacker. Funds held in users’ Bisq Bitcoin wallets are not affected.  As an immediate mitigation, an emergency mechanism was activated to disable trading by setting the required trading version to 2.0.0 — a version that does not exist. This effectively prevents the attacker from continuing the exploit.  The att...
+
+🔗 [Bisq](https://bisq.community/t/psa-trade-protocol-exploit-discovered-investigations-ongoing/13664) • 5h ago
 
 ---
 
@@ -165,7 +165,7 @@ Core has been captured for YEARS now. READ IT
 
 Bitcoin rises above $77,000 on solid volume, but rising put open interest and cautious market sentiment suggest traders are hedging against downside risk.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -177,19 +177,27 @@ Fortune • 1d ago
 
 ---
 
-**[Pension Giant Backs Strategy As Bitcoin Proxy After Surpassing BlackRock](https://finance.yahoo.com/markets/crypto/articles/pension-giant-backs-strategy-bitcoin-190954557.html)**
+**[Is Bitcoin a Great Investment for Retirement Savings?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-great-investment-retirement-savings-210100845.html)**
 
-Alberta Investment Management Corporation has taken its first major institutional position in Strategy Inc (NasdaqGS:MSTR), marking a new pension fund entrant into the stock. Strategy has surpassed BlackRock to become the largest corporate holder of bitcoin, reinforcing its role as a proxy for bitcoin exposure. The move reflects rising use of listed companies like Strategy by regulated funds seeking bitcoin-linked exposure within existing mandates. Strategy, trading at around $165.45, has...
+This asset has a lot to offer, but its volatility is an obstacle.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 24m ago
 
 ---
 
-**[Bitcoin surged in April, but weak buyer demand makes the rally vulnerable](https://www.cnbc.com/2026/05/01/bitcoin-surged-in-april-but-weak-buyer-demand-makes-rally-vulnerable.html)**
+**[Riot's stock rises after AMD boosts data center capacity to a potential 150 megawatts power](https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot)**
 
-Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
+AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business.
 
-CNBC • 4h ago
+CoinDesk • 25m ago
+
+---
+
+**[Weekly Wrap: Bitcoin Ends April On A High Note](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-ends-april-201100650.html)**
+
+Bitcoin’s (CRYPTO: $BTC) price rose 13% in April as the “crypto winter” that began last fall star...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,41 +205,35 @@ CNBC • 4h ago
 
 Governor Mike Braun ceremonially signed an emergency declaration banning the use of bitcoin ATMS in the state of Indiana.
 
-14 News • 18h ago
+14 News • 19h ago
+
+---
+
+**[Bitcoin surged in April, but weak buyer demand makes the rally vulnerable](https://www.cnbc.com/2026/05/01/bitcoin-surged-in-april-but-weak-buyer-demand-makes-rally-vulnerable.html)**
+
+Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
+
+CNBC • 5h ago
 
 ---
 
 **[Bitcoin Price Rallies. Why Cryptos Could Climb to Their Highest in Months.](https://www.barrons.com/articles/bitcoin-price-cryptos-xrp-solana-dogecoin-ea982c12)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
-**[Riot Platform Stock Spikes After Data Center Debut, AMD Doubles Capacity](https://www.investors.com/news/riot-platforms-stock-earnings-bitcoin-miner-data-center-amd-contract-capacity/)**
+**[Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000](https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k)**
 
-Investor's Business Daily • 6h ago
+Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
 
----
-
-**[How Eric Trump Got Rich From Bitcoin While Losing Investors A Fortune](https://www.forbes.com/sites/danalexander/2026/04/28/how-eric-trump-got-rich-from-bitcoin-while-losing-investors-a-fortune/)**
-
-The president’s second son pitches his bitcoin company as a money-printing machine. It’s actually an arbitrage vehicle that preys on MAGA-minded investors.
-
-Forbes • 3d ago
+Bitcoin Magazine • 2h ago
 
 ---
 
-**[If I Had $4,500 to Invest in Crypto, Here's What I'd Buy Today](https://www.fool.com/investing/2026/05/01/if-i-had-4500-to-invest-in-crypto-heres-what-id-bu/)**
+**[Inside Bitcoin 2026: The Year the Faithful Outgrew the Price](https://www.bloomberg.com/news/newsletters/2026-04-30/inside-bitcoin-2026-the-year-the-faithful-outgrew-the-price)**
 
-Now's a good time to be hunting for bargains.
-
-The Motley Fool • 9h ago
-
----
-
-**[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
-
-Bloomberg.com • 1d ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -259,7 +261,7 @@ Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by cr
 
 Paul Sztorc’s proposed eCash fork would give investors coins cloned from wallets believed to belong to Bitcoin creator Satoshi Nakamoto.
 
-⬆️ 6 • 💬 8 • 3d ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
+⬆️ 6 • 💬 8 • 4d ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
 
 ---
 
@@ -287,7 +289,7 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 **[U.S. Seizes $15B in Bitcoin in Crypto 'Scam' Crackdown](https://news.ycombinator.com/item?id=47971809)**
 
-⬆️ 1 • 💬 2 • 13h ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
+⬆️ 1 • 💬 2 • 14h ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
 
 ---
 
@@ -303,7 +305,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Bitcoin Monitor Widget -  Build your own real-time crypto space with price widgets, portfolio views, themes, logs, terminal, games, custom API cards, alerts.
 
-⬆️ 1 • 💬 0 • 9h ago • [Bitcoin Monitor Widget](https://btcwid.com)
+⬆️ 1 • 💬 0 • 10h ago • [Bitcoin Monitor Widget](https://btcwid.com)
 
 ---
 
@@ -325,7 +327,7 @@ Bitcoin may be entering one of the most important macro setups in its history as
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 303 • ⏱️ 18:39 • 23h ago
+👁️ 29K • 👍 2K • 💬 303 • ⏱️ 18:39 • 1d ago
 
 ---
 
@@ -335,7 +337,7 @@ Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocke
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 715 • 💬 146 • ⏱️ 23:54 • 6h ago
+👁️ 10K • 👍 715 • 💬 146 • ⏱️ 23:54 • 7h ago
 
 ---
 
@@ -345,7 +347,7 @@ A billionaire just issued a global warning and it is not subtle. Tim Draper and 
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 154 • ⏱️ 18:17 • 1d ago
+👁️ 32K • 👍 2K • 💬 154 • ⏱️ 18:17 • 2d ago
 
 ---
 
