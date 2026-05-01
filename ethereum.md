@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T17:07:11.257760+00:00'
+updated: '2026-05-01T18:38:42.981544+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 17:07 UTC  
+**Last Updated:** May 01, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -0.8%  
-**30d:** +11.9%  
-**90d:** +1.3%  
-**1y:** +25.0%  
+**24h:** +2.0%  
+**7d:** -0.5%  
+**30d:** +12.2%  
+**90d:** +1.6%  
+**1y:** +25.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
-6h ago
+7h ago
+
+---
+
+**[Doots Episode 147!](https://www.reddit.com/r/ethereum/comments/1t10ukx/doots_episode_147/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 40m ago
 
 ---
 
@@ -88,7 +96,7 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 7h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 9h ago
 
 ---
 
@@ -96,7 +104,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 7h ago
 
 ---
 
@@ -138,14 +146,6 @@ What if the final form of software development was just watching code and proof 
 
 ---
 
-**[What are the best communities for Ethereum Builders?](https://www.reddit.com/r/ethereum/comments/1syl8yt/what_are_the_best_communities_for_ethereum/)**
-
-Hello everyone. We are building a lending protocol with a focus on RWAs on Ethereum. We wonder to ask what are the best places, communities and groups to connect with other builders, stakeholders, KOLs and users on the Ethereum ecosystem. Thanks in advance!
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,11 +164,19 @@ ethereum.org • 1d ago
 
 ---
 
+**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+
+The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+
+CoinDesk • 20m ago
+
+---
+
 **[Ethereum ETFs Shed $184M Over 4-Day Negative Streak](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-shed-184m-over-154739643.html)**
 
 Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,27 +188,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Ethereum for May 1, 2026](https://fortune.com/article/price-of-ethereum-05-01-2026/)**
+**[Ethereum On Path To A Continued Breakout - Will It Pull Other Altcoins? (ETH-USD)](https://seekingalpha.com/article/4897538-ethereum-path-continued-breakout-will-pull-other-altcoins)**
+
+Ethereum has slowly broken out of its October downtrend that had led to its progressive but brutal 64% correction.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
-
----
-
-**[Coinbase (COIN) launches tokenized stablecoin credit fund on Solana, Ethereum, Base](https://www.coindesk.com/business/2026/04/30/coinbase-s-asset-manager-to-offer-stablecoin-credit-fund-with-tokenized-share-class)**
-
-The fund, dubbed CUSHY, targets yield from onchain lending and private credit, offering tokenized access via Superstate for institutional investors.
-
-CoinDesk • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
-
-Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
-
-FXStreet • 13h ago
+Fortune • 2d ago
 
 ---
 
@@ -210,19 +210,19 @@ Forbes • 1d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
+
+Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
+
+FXStreet • 15h ago
+
+---
+
 **[Solana leads in quantum security with NIST-approved signatures, ahead of Ethereum](https://cryptobriefing.com/solana-leads-in-quantum-security-with-nist-approved-signatures-ahead-of-ethereum/)**
 
 Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
 
-Crypto Briefing • 5h ago
-
----
-
-**[Exclusive: Crypto CEO Breaks Down Why Bitcoin and Ethereum Prices Fell After Fed’s Shock Decision](https://coinpedia.org/news/exclusive-crypto-ceo-breaks-down-why-bitcoin-and-ethereum-prices-fell-after-feds-shock-decision/)**
-
-The Federal Reserve left interest rates unchanged, but the decision itself was almost beside the point. What rattled crypto markets was a single phrase
-
-Coinpedia • 1d ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 468 • 👍 43 • 💬 5 • ⏱️ 8:12 • 3h ago
+👁️ 468 • 👍 43 • 💬 5 • ⏱️ 8:12 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 113 • 💬 15 • ⏱️ 24:23 • 5h ago
+👁️ 3K • 👍 113 • 💬 15 • ⏱️ 24:23 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 173 • 💬 16 • ⏱️ 12:11 • 8h ago
+👁️ 1K • 👍 173 • 💬 16 • ⏱️ 12:11 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 270 • 💬 137 • ⏱️ 13:28 • 13h ago
+👁️ 5K • 👍 270 • 💬 137 • ⏱️ 13:28 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ Michael Saylor has evolved from a non-believer of Bitcoin to a Bitcoin evangelis
 
 📺 Digital Asset News
 
-👁️ 28K • 👍 1K • 💬 149 • ⏱️ 23:39 • 2d ago
+👁️ 28K • 👍 1K • 💬 149 • ⏱️ 23:39 • 3d ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 388 • 👍 59 • ⏱️ 6:16 • 3h ago
+👁️ 388 • 👍 59 • ⏱️ 6:16 • 5h ago
 
 ---
 
