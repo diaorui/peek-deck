@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-01T23:27:27.943802+00:00'
+updated: '2026-05-02T01:12:30.292500+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 01, 2026 at 23:27 UTC  
+**Last Updated:** May 02, 2026 at 01:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.4%  
-**7d:** -1.2%  
-**30d:** +11.4%  
-**90d:** +0.9%  
-**1y:** +24.5%  
+**7d:** -2.9%  
+**30d:** +12.0%  
+**90d:** -2.0%  
+**1y:** +25.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.94B
+**Market Cap:** $277.16B
 Rank #2
 
 **Circulating Supply:** 120,687,573 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.6%
+-53.5%
 
 **All-Time Low:** $0.43
-+530004.2%
++530711.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 5h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
-12h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-2h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ I was wondering if someone has some good ideas on task of creating decentralised
 
 Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
 
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 13h ago
+🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 11h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 13h ago
 
 ---
 
@@ -152,11 +152,19 @@ What if the final form of software development was just watching code and proof 
 
 ## Google News: "ethereum"
 
+**[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
+
+EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
+
+The Block • 6h ago
+
+---
+
 **[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine)**
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Decrypt • 4h ago
+Decrypt • 6h ago
 
 ---
 
@@ -168,25 +176,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum ICO whale moves $23 million in ETH after 10-year dormancy](https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million)**
+**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
 
-The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.
+Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-The Block • 2d ago
-
----
-
-**[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
-
-ethereum.org • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Dominance Nears Death Cross, Ethereum Could Trigger Altcoin Season](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dominance-nears-death-cross-200412666.html)**
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
 
-Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
-
-Yahoo Finance • 3h ago
+Forbes • 1d ago
 
 ---
 
@@ -198,17 +198,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+**[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
 
-Forbes • 1d ago
-
----
-
-**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
+ethereum.org • 1d ago
 
 ---
 
@@ -220,11 +212,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
+**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
 
-Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-FXStreet • 19h ago
+Fortune • 2d ago
+
+---
+
+**[Solana leads in quantum security with NIST-approved signatures, ahead of Ethereum](https://cryptobriefing.com/solana-leads-in-quantum-security-with-nist-approved-signatures-ahead-of-ethereum/)**
+
+Solana advances in quantum security with NIST-approved signatures, while Ethereum's odds of reaching $10,000 by 2026 drop to 3.8% YES.
+
+Crypto Briefing • 13h ago
 
 ---
 
@@ -238,7 +238,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 52 • 💬 8 • ⏱️ 8:12 • 9h ago
+👁️ 1K • 👍 53 • 💬 9 • ⏱️ 8:12 • 11h ago
+
+---
+
+**[ETHEREUM IS MAKING A VERY RARE MOVE (HERE&#39;S MY PLAN)](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 194 • 💬 26 • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -248,7 +258,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 4K • 👍 125 • 💬 18 • ⏱️ 24:23 • 11h ago
+👁️ 4K • 👍 127 • 💬 18 • ⏱️ 24:23 • 13h ago
 
 ---
 
@@ -258,17 +268,17 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 190 • 💬 39 • ⏱️ 12:11 • 14h ago
+👁️ 2K • 👍 198 • 💬 39 • ⏱️ 12:11 • 16h ago
 
 ---
 
-**[ETHEREUM IS DOING SOMETHING VERY UNUSUAL RIGHT NOW](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
+**[Crypto Hacks Are DESTROYING Ethereum &amp; Altcoins (Ft. Jupiter President)](https://www.youtube.com/watch?v=n4Io3PirMPA)**
 
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+Ethereum and altcoins are bleeding from the largest wave of crypto hacks yet — and the timing couldn't be worse. AI is pulling ...
 
-📺 Tyler Hill Crypto
+📺 EllioTrades
 
-👁️ 4K • 👍 192 • 💬 26 • ⏱️ 9:18 • 1d ago
+👁️ 3K • 👍 148 • 💬 119 • ⏱️ 1:20:25 • 5h ago
 
 ---
 
@@ -288,7 +298,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 60K • 👍 3K • 💬 158 • ⏱️ 16:31 • 2d ago
+👁️ 61K • 👍 3K • 💬 160 • ⏱️ 16:31 • 2d ago
 
 ---
 
@@ -302,33 +312,23 @@ These 24 hours will be huge for bitcoin, ethereum and the rest of the markets! H
 
 ---
 
+**[🔴 BITCOIN DONALD TRUMP ABATE AL BTC ! ANALISIS TECNICO ETHEREUM CARDANO SOLANA XRP](https://www.youtube.com/watch?v=WmCvmpmju_g)**
+
+trading #bitcoin​​​​​​​​​​​​​​ #criptomonedas #liverpool https://t.me/+TEKPeAEGbFtkMzUx Canal de telegram del canal ...
+
+📺 IanCripto Mx
+
+👁️ 138 • 👍 37 • 💬 1 • ⏱️ 8:08 • 51m ago
+
+---
+
 **[BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v9F1_FHZCAU)**
 
 BITCOIN JUST FLIPPED: Bullish Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
 📺 Crypto World
 
-👁️ 6K • 👍 279 • 💬 300 • ⏱️ 13:28 • 19h ago
-
----
-
-**[🚨 La fondation Ethereum implose : faut-il vendre ?](https://www.youtube.com/watch?v=n7SGKGaFkpM)**
-
-50 000 € à gagner sur Bitpanda : https://bitpanda.pxf.io/c/5654847/2334692/15871?subId1=MoneyRadar Notre Newsletter ...
-
-📺 MoneyRadar Crypto
-
-👁️ 5K • 👍 373 • 💬 27 • ⏱️ 15:24 • 13h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=nsPyRN4WPVc)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 707 • 👍 67 • ⏱️ 6:16 • 10h ago
+👁️ 6K • 👍 283 • 💬 397 • ⏱️ 13:28 • 21h ago
 
 ---
 

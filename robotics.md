@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-01T23:27:27.947705+00:00'
+updated: '2026-05-02T01:12:30.362940+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 01, 2026 at 23:27 UTC  
+**Last Updated:** May 02, 2026 at 01:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Commercial video: https://x.com/XRoboHub/status/2049373299310993869
 
-14h ago
+16h ago
 
 ---
 
@@ -44,13 +44,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 I’ve been working on a custom dual H-bridge brushed DC motor driver designed to replace those generic off-the-shelf motor modules for complex mobile robot platforms and robotic arms. I wanted a small all-in-one solution for robotics projects! It's built around the Raspberry Pi RP2350 (Pico 2) and the Texas Instruments DRV8412. Quick specs: Runs two brushed DC motors at up to 40 V (3A continuous, 6A peak per motor) Single wide voltage range power supply 4-40V Per bridge current sensing - ACS722 Full ASCII + binary command API over USB, UART, and I²C 4-layer 50x60mm PCB with a 3-stage clean logic power topology Closed-loop control (position/speed PIDs) at a 4 ms control period GUI for PID tuning If you want to check it out, I did a full video on it, and it is also on GitHub. Video: https://www.youtube.com/watch?v=DQ6VGJUASJw Github: https://github.com/MilosRasic98/OpenDualMotorDriver
 
-3h ago
+5h ago
 
 ---
 
 **[He just can’t give up](https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’ve been working on a custom dual H-bridge brushed DC motor driver designed t
 
 I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- IP ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.02 rads per message. The MCU data handler triggers when new message arrives and send it to a 1 len queue so the servo tasks can go at its frequency without getting conditioned by the latency. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
 
-4h ago
+6h ago
 
 ---
 
@@ -66,13 +66,13 @@ I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The m
 
 Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog/robotera-humanoid-robots-logistics/ This was also reported by Caixing Global, a leading Chinese business outlet www.caixinglobal.com/2026-04-27/robot-era-raises-more-than-200-million-as-chinas-humanoid-robot-race-heats-up-102438549.html
 
-14h ago
+16h ago
 
 ---
 
 **[Industrial inspection!](https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog
 
 Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-Tube Boom (STEM) concept. It can extend up to 5 ft. It was redesigned to be easier and more affordable to manufacture, with all parts 3D printed. The current use case is sanding large epoxy tables or plates or decks. I ran out of resources before building a more advanced version. Curious to hear what other use cases people see for something like this.
 
-19h ago
+21h ago
 
 ---
 
@@ -88,7 +88,15 @@ Here is an extendable robotic arm I developed based on the NASA's Rollable Slit-
 
 Hey r/robotics, I’m trying to upgrade the joints on open-source platforms (like the Berkeley Lite and ALOHA) because I keep destroying 3D-printed plastic gears under dynamic loads. I’m currently designing a full CNC metal cycloidal drive to replace them, but I need a reality check on the physics before I spend a ton of money at the machine shop. My plan is to standardize all joints to a single size with a 30:1 gear ratio and a 48V architecture (to keep machining costs sane). Here is my main dilemma: At 30:1, is this still technically QDD (Quasi-Direct Drive)? My goal is to achieve good proprioception (sensing external forces via current changes) without expensive inline torque sensors, utilizing Dual Absolute Encoders and FOC. But I’m worried that the added friction and inertia of a 30:1 metal cycloidal will kill the back-drivability and ruin the impedance control. Has anyone successfully done sensorless force control with a 30:1 metal cycloidal? Does this actually work for humanoids, or am I just building a stiff industrial joint by accident? Also, I'm trying to use one universal actuator size for the whole robot to simplify the BOM. Is this a terrible idea for bipedal swing dynamics? Would love to hear some harsh truths before I pull the trigger on prototyping! (Exploded CAD view attached).
 
-8h ago
+10h ago
+
+---
+
+**[Why hexapods?](https://www.reddit.com/r/robotics/comments/1t1adtj/why_hexapods/)**
+
+So I’m working on a hexapod set rn and started to wonder what practical applications we actually have for them. Wheels are much more efficient and if the terrain’s uneven, tracks (like the ones used on tanks and construction vehicles) usually provide a sufficient replacement.
+
+1h ago
 
 ---
 
@@ -96,15 +104,7 @@ Hey r/robotics, I’m trying to upgrade the joints on open-source platforms (lik
 
 I mean, why not? Meta is certainly placing bets on a few different future directions - most curiously at the expense of their existing operations - seeing the layoffs and gutting going on everywhere else in the org.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/meta-acquires-humanoid-robotics-ai-startup-to) • 3h ago
-
----
-
-**[ROS News for the Week of April 27th, 2026](https://www.reddit.com/r/robotics/comments/1t146uu/ros_news_for_the_week_of_april_27th_2026/)**
-
-ROS News for the Week of April 27th, 2026    The Lyrical Luth Test and Tutorial Party is live! We could really use your help testing this release. We’ve got over 3️⃣ 0️⃣ 0️⃣ 0️⃣ testing tickets we need to work through by May 14th, and we really need help from the community to make it happen! Up to date installation details can be found here. Our top 20 testers will get there choice of OSRA membership or ROS swag!       The ROS 2 Lyrical Luth Release Illustration and swag has been re...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-27th-2026/) • 3h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/meta-acquires-humanoid-robotics-ai-startup-to) • 5h ago
 
 ---
 
@@ -114,7 +114,7 @@ ROS News for the Week of April 27th, 2026    The Lyrical Luth Test and Tutorial 
 
 **[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
 
-Bloomberg.com • 6h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -122,7 +122,7 @@ Bloomberg.com • 6h ago
 
 (Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -130,23 +130,7 @@ Yahoo Finance • 5h ago
 
 Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
 
-TechCrunch • 1h ago
-
----
-
-**[I've Covered Robots for Years. This One Is Different](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)**
-
-From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
-
-WIRED • 2d ago
-
----
-
-**[NEO humanoid robot company plans to release 100,000 units by late 2027](https://www.usatoday.com/story/tech/2026/05/01/neo-humanoid-robot-company-1x-releasing-100000-units-by-2027/89891813007/)**
-
-The company behind a viral humanoid robot said it plans to release 100,000 units into the consumer market by late 2027.
-
-USA Today • 2h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -162,7 +146,7 @@ BBC • 3d ago
 
 Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
@@ -170,13 +154,13 @@ CNBC • 22h ago
 
 The next time you fly through Tokyo's Haneda Airport, your luggage might be taken care of by the dexterous hands of a humanoid robot.
 
-New Atlas • 13h ago
+New Atlas • 15h ago
 
 ---
 
 **[SoftBank Plots IPO for New Robotics Venture](https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297)**
 
-WSJ • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -184,7 +168,21 @@ WSJ • 1d ago
 
 Masayoshi Son plots IPO for business named Roze as soon as this year
 
-Financial Times • 1d ago
+Financial Times • 2d ago
+
+---
+
+**[SoftBank plans to list AI and robotics firm Roze in US, FT reports](https://www.reuters.com/business/media-telecom/softbank-plans-list-new-ai-robotics-company-us-ft-reports-2026-04-29/)**
+
+Reuters • 2d ago
+
+---
+
+**[Unitree G1 humanoid robot ice skates and rollerblades](https://www.foxnews.com/tech/unitree-g1-humanoid-robot-ice-skates-rollerblades)**
+
+Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
+
+Fox News • 13h ago
 
 ---
 
@@ -198,47 +196,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 188K • 👍 3K • 💬 231 • ⏱️ 24:02 • 2d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Johnson Division - Day 3](https://www.youtube.com/watch?v=skZTO76_SB4)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Johnson Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 23K • 👍 93 • 5d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Curie Division - Day 3](https://www.youtube.com/watch?v=VQshqtBSnuk)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Curie Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 14K • 👍 89 • 5d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Day 3](https://www.youtube.com/watch?v=mw71k7Pb33Q)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Milstein Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 14K • 👍 72 • 5d ago
-
----
-
-**[US and China race to build best humanoid robots](https://www.youtube.com/watch?v=iMXb4k2b130)**
-
-The U.S. and China are in a race to develop the next wave of mechanical helpers: humanoid robots. ABC News' Britt Clennett has ...
-
-📺 ABC News
-
-👁️ 6K • 👍 48 • 💬 24 • ⏱️ 4:03 • 17h ago
+👁️ 192K • 👍 3K • 💬 234 • ⏱️ 24:02 • 2d ago
 
 ---
 
@@ -248,37 +206,17 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 📺 War Vault
 
-👁️ 261K • 👍 5K • 💬 515 • ⏱️ 16:42 • 2d ago
+👁️ 264K • 👍 5K • 💬 528 • ⏱️ 16:42 • 2d ago
 
 ---
 
-**[2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Day 3](https://www.youtube.com/watch?v=VqeEcZXbR5A)**
+**[US and China race to build best humanoid robots](https://www.youtube.com/watch?v=iMXb4k2b130)**
 
-2026 FIRST Championship - FIRST Robotics Competition - Hopper Division - Broadcast Day 3 ...
+The U.S. and China are in a race to develop the next wave of mechanical helpers: humanoid robots. ABC News' Britt Clennett has ...
 
-📺 FIRSTRoboticsCompetition
+📺 ABC News
 
-👁️ 13K • 👍 74 • 5d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Day 3](https://www.youtube.com/watch?v=sK-gayyCsIk)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Daly Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 16K • 👍 91 • 5d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Day 3](https://www.youtube.com/watch?v=K4m0GSSTM18)**
-
-2026 FIRST Championship - FIRST Robotics Competition - Newton Division - Broadcast Day 3 ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 17K • 👍 131 • 5d ago
+👁️ 7K • 👍 59 • 💬 28 • ⏱️ 4:03 • 19h ago
 
 ---
 
@@ -288,7 +226,67 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 32K • 👍 811 • 💬 67 • ⏱️ 8:27 • 4d ago
+👁️ 35K • 👍 842 • 💬 71 • ⏱️ 8:27 • 4d ago
+
+---
+
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
+
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
+
+📺 Joanna Stern
+
+👁️ 203K • 👍 6K • 💬 805 • ⏱️ 11:11 • 2d ago
+
+---
+
+**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+
+ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+
+📺 VEX Robotics
+
+👁️ 39K • 👍 803 • 💬 236 • ⏱️ 3:51 • 1d ago
+
+---
+
+**[Is my Gearbox Precise? #3dprinting #gearbox #testing #robotics](https://www.youtube.com/watch?v=8Bh0IXDBw20)**
+
+I test to see if my 3D printed gearbox is precise. I made a pointer attachment for the gearbox to see if it returns to the same position ...
+
+📺 Advanced Hobby Lab
+
+👁️ 19K • 👍 271 • 💬 7 • ⏱️ 0:28 • 12h ago
+
+---
+
+**[Robot Breaks Marathon World Record, Signaling Big Changes in Robotics | What The Future](https://www.youtube.com/watch?v=zw9LAjm9pso)**
+
+Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the ...
+
+📺 CNET
+
+👁️ 14K • 👍 291 • 💬 37 • ⏱️ 4:53 • 5d ago
+
+---
+
+**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
+
+eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
+
+📺 Stu’s Reviews
+
+👁️ 27K • 👍 152 • 💬 38 • ⏱️ 16:11 • 5d ago
+
+---
+
+**[Tesla Bot Gen 3: Elon Musk Plans 1 Million Units at $10K to Manage All Household Tasks by 2025](https://www.youtube.com/watch?v=8xXPTce7pLg)**
+
+What if your daily chores could disappear overnight? In this video, we dive into Elon Musk's bold vision of producing 1 million ...
+
+📺 Ai_Mobility_News
+
+👁️ 27K • 👍 244 • 💬 30 • ⏱️ 12:54 • 3d ago
 
 ---
 
