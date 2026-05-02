@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T13:14:25.919969+00:00'
+updated: '2026-05-02T14:30:18.263927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 13:14 UTC  
+**Last Updated:** May 02, 2026 at 14:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -2.5%  
-**30d:** +12.5%  
-**90d:** -1.5%  
-**1y:** +26.0%  
+**24h:** +0.0%  
+**7d:** -2.7%  
+**30d:** +12.3%  
+**90d:** -1.7%  
+**1y:** +25.8%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
+
+---
+
+**[Quantum Computing vs Crypto: How Real Is the Threat?](https://www.reddit.com/r/ethereum/comments/1t1puoi/quantum_computing_vs_crypto_how_real_is_the_threat/)**
+
+Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
+
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 1h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 19h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 20h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-16h ago
+17h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Solidity v0.8.35 is out!](https://www.reddit.com/r/ethereum/comments/1sz0ebj/solidity_v0835_is_out/)**
-
-Posted by Solidity Team on April 29, 2026
-
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Posted by Solidity Team on April 29, 2026
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 18h ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 18h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,15 +172,29 @@ CoinDesk • 18h ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
-**[Bitcoin Reclaims $77,000, Ethereum, XRP, Dogecoin Bump 1%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-reclaims-77-000-ethereum-100119769.html)**
+**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-Bitcoin trades above $77,000 on Friday morning as Bitcoin ETFs saw $14.8 million in net inflows on Thursday, while Ethereum ETFs reported $23.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$77,805Ethereum(CRYPTO: ETH)$2,305Solana(CRYPTO: SOL)$84.38XRP(CRYPTO: XRP)$1.39Dogecoin(CRYPTO: DOGE)$0.1081Shiba Inu(CRYPTO: SHIB)$0.056303 Meme coin market capitalization is...
+ethereum.org • 57m ago
 
-Yahoo Finance • 3h ago
+---
+
+**[Current price of Ethereum for May 1, 2026](https://fortune.com/article/price-of-ethereum-05-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-morning-113211522.html)**
+
+Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,9 +212,11 @@ Forbes • 2d ago
 
 ---
 
-**[Announcing Cohort 7 of the Ethereum Protocol Fellowship](https://blog.ethereum.org/2026/04/30/epf-7)**
+**[Bitcoin Death Cross Could Trigger an Ethereum Rally Above $3,000](https://beincrypto.com/ethereum-bull-signal-bitcoin-dominance-death-cross/)**
 
-ethereum.org • 1d ago
+Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
+
+BeInCrypto • 18h ago
 
 ---
 
@@ -208,23 +224,7 @@ ethereum.org • 1d ago
 
 OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Crypto Briefing • 10h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
-
-Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
-
-FXStreet • 1d ago
-
----
-
-**[Current price of Ethereum for April 29, 2026](https://fortune.com/article/price-of-ethereum-04-29-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 203 • 💬 37 • ⏱️ 9:18 • 1d ago
+👁️ 4K • 👍 203 • 💬 37 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 193 • 💬 9 • ⏱️ 10:19 • 9h ago
+👁️ 3K • 👍 193 • 💬 9 • ⏱️ 10:19 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 66 • 💬 14 • ⏱️ 8:12 • 23h ago
+👁️ 2K • 👍 66 • 💬 14 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 BiGB Stcok
 
-👁️ 798 • 👍 45 • 💬 1 • ⏱️ 9:26 • 15h ago
+👁️ 798 • 👍 45 • 💬 1 • ⏱️ 9:26 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 서울경제TV
 
-👁️ 2K • 👍 15 • 💬 13 • ⏱️ 2:50 • 13h ago
+👁️ 2K • 👍 15 • 💬 13 • ⏱️ 2:50 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 961 • 👍 80 • ⏱️ 6:41 • 10h ago
+👁️ 961 • 👍 80 • ⏱️ 6:41 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ This system: tapy.ws/minecore Most traders focus on charts - but automated syste
 
 📺 Gordon Web3
 
-👁️ 88 • 👍 73 • 💬 71 • ⏱️ 5:59 • 3h ago
+👁️ 88 • 👍 73 • 💬 71 • ⏱️ 5:59 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 6K • 👍 339 • 2h ago
+👁️ 6K • 👍 339 • 3h ago
 
 ---
 

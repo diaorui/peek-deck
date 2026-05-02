@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-02T13:14:25.905827+00:00'
+updated: '2026-05-02T14:30:18.250540+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 02, 2026 at 13:14 UTC  
+**Last Updated:** May 02, 2026 at 14:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,9 +39,9 @@ AI news, discussions, and developments
 
 **[Uber burned its entire 2026 AI coding budget in 4 months - $500-2k per engineer per month](https://www.reddit.com/r/artificial/comments/1t1mhx6/uber_burned_its_entire_2026_ai_coding_budget_in_4/)**
 
-Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned.The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're "back to the drawing board" on AI budgeting for next year.What's notable is what this implies for the industry. Most enterprises are still treating AI coding tools as a line item they can forecast like a SaaS seat license - fixed cost, predictable renewal. Uber's experience suggests the actual cost driver is adoption intensity, not seat count. A team that uses Claude Code heavily for multi-step agentic work generates orders of magnitude more API spend than one that uses Copilot for autocomplete.The companies that haven't hit this wall yet probably will. Uber's R&D spend is $3.4B annually, so even at the high end this is manageable for them. For a smaller engineering org, an unforecast 4x budget overrun on AI tooling could genuinely disrupt hiring or infrastructure plans.The interesting question isn't whether this is worth the cost - Uber clearly thinks it is or they'd restrict access. It's whether the productivity gains have been measured in a way that's comparable to the spend. Has your company tried to put actual numbers on the AI coding ROI, or is it mostly vibes and velocity estimates?
+Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned. The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're "back to the drawing board" on AI budgeting for next year. What's notable is what this implies for the industry. Most enterprises are still treating AI coding tools as a line item they can forecast like a SaaS seat license - fixed cost, predictable renewal. Uber's experience suggests the actual cost driver is adoption intensity, not seat count. A team that uses Claude Code heavily for multi-step agentic work generates orders of magnitude more API spend than one that uses Copilot for autocomplete. The companies that haven't hit this wall yet probably will. Uber's R&D spend is $3.4B annually, so even at the high end this is manageable for them. For a smaller engineering org, an unforecast 4x budget overrun on AI tooling could genuinely disrupt hiring or infrastructure plans. The interesting question isn't whether this is worth the cost - Uber clearly thinks it is or they'd restrict access. It's whether the productivity gains have been measured in a way that's comparable to the spend. Has your company tried to put actual numbers on the AI coding ROI, or is it mostly vibes and velocity estimates?
 
-2h ago
+3h ago
 
 ---
 
@@ -49,15 +49,7 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
 
-🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 15h ago
-
----
-
-**[Built an open-source tool to manage AI agent configs — 888 stars later, asking the AI community for feedback](https://www.reddit.com/r/artificial/comments/1t1o3qa/built_an_opensource_tool_to_manage_ai_agent/)**
-
-Hey r/artificial! If you use AI coding agents — Cursor, Claude Code, GitHub Copilot, Gemini CLI — you probably know how much those configuration files matter. The instructions you give your agent define how well it understands your project. The problem: those files (`CLAUDE.md`, `.cursor/rules`, `AGENTS.md`, etc.) are totally unmanaged. They live in random project folders with no versioning, no sharing, no discoverability. I built Caliber to fix that. It's an open-source AI agent configuration manager — a registry where you can: - Store and version your agent configs - Share configs with your team or publicly - Discover what configs other developers are using - Roll back agent instructions that aren't working We just crossed 888 GitHub stars and nearly 100 forks, which has been incredibly motivating. For those experimenting with AI agents: what does your current config setup look like? Do you actually maintain your `CLAUDE.md` / `.cursor/rules`? Would a centralized registry for these configs be useful to you? Repo: https://github.com/caliber-ai/caliber Feedback and feature requests very welcome!
-
-1h ago
+🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 16h ago
 
 ---
 
@@ -69,27 +61,27 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 ---
 
-**[The open-source AI agent config repo the community has been building just hit 888 stars — asking for feedback & feature ideas](https://www.reddit.com/r/artificial/comments/1t1kyx5/the_opensource_ai_agent_config_repo_the_community/)**
-
-Over the past year our team and community have been building an open-source collection of AI agent configs: production-ready system prompts, tool-calling schemas, RAG setups, multi-agent orchestration patterns, and model-specific tuning files. Repo: https://github.com/caliber-ai-org/ai-setup This week it crossed 888 GitHub stars and nearly 100 forks. All free, no paywall, no product to sell. What's in there: - System prompt templates across GPT-4o, Claude 3.5/3.7, Gemini 2.5 Pro - Tool-use and function calling schemas for agentic workflows - LangChain / LangGraph agent setup configs - RAG pipeline configurations with different retrieval strategies - Ollama and local model setups - CLAUDE.md / AGENTS.md templates for coding agent contexts - Multi-agent orchestration patterns We'd love to hear from this community: What AI agent patterns are you using that you'd want to see in the repo? What's missing that would make this genuinely useful to you? What setups have you found work well in production? All feedback and contributions are welcome.
-
-3h ago
-
----
-
 **[China Bans AI Layoffs as Nvidia CEO Says AI Created 500K Jobs in 2 Years](https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/)**
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 23h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 1d ago
 
 ---
 
-**["Prompt Engineering" certs are a joke. So we built a FREE Agentic AI Practitioner Exam that actually forces you to build working swarms to pass.](https://www.reddit.com/r/artificial/comments/1t1k9mr/prompt_engineering_certs_are_a_joke_so_we_built_a/)**
+**[I got tired of memory systems that break when you spin up new agents or fail to track sub-agent sessions properly.](https://www.reddit.com/r/artificial/comments/1t1qlyw/i_got_tired_of_memory_systems_that_break_when_you/)**
 
-Hey Everyone, If you look at the AI education space right now, it’s flooded with basic "Prompt Engineering" certificates that you can pass just by knowing what a system prompt is. But as anyone building in production knows, chatting with an LLM is 1% of the work. The real nightmare is orchestration, state management, tool execution, and guardrails. To create a real benchmark for developers, we just launched the Agentic AI Practitioner Exam on agentswarms.fyi. And it is completely free. Why this isn’t a standard certification: You cannot guess your way through this. To get the certification, you have to pass two phases: The Theory (50 MCQs): Covering the actual hard stuff. (e.g., Memory STM windowing, Text-to-SQL AST validation, A2A handoffs, and production tracing/evals). You need an 80% to pass. The Hands-On Evaluation: This is the gauntlet. The system physically evaluates your sandbox environment. You must successfully build and deploy 5 working agents and 2 multi-agent swarms from scratch (using templates results in an automatic fail). What the curriculum covers: All 7 Agentic Patterns: (ReAct, planner-executor, reflection, routing, parallel, HITL, RAG) Production Guardrails: (PII filtering, prompt injection defense, schema validation) Multi-Agent Swarms: (Orchestrator, peer-to-peer, and agent-to-agent handoffs) Responsible AI: (NIST AI RMF & EU AI Act compliance) If you fail, there is a 15-day cooldown, and your next attempt will draw from a completely different set of questions. If you want to get another early attempt, you can contribute to the community by publishing your agents and swarms and get free re-attempts! If you think you know how to build autonomous agents, I challenge you to take the exam and try to pass on your first attempt. Let me know which section of the exam feels the hardest! Link to take the exam: https://agentswarms.fyi/certification
+So I built heurchain—a memory layer that: - Works seamlessly with Hermes and any other agents in your stack - Persists across agent creation/destruction (no more memory amnesia) - Gives each sub-agent its own session tracking automatically - Integrates in ~5 lines of code npm i heurchain https://www.npmjs.com/package/heurchain Would love feedback from anyone working with multi-agent systems.
 
-4h ago
+33m ago
+
+---
+
+**[Built an open-source tool to manage AI agent configs — 888 stars later, asking the AI community for feedback](https://www.reddit.com/r/artificial/comments/1t1o3qa/built_an_opensource_tool_to_manage_ai_agent/)**
+
+Hey r/artificial! If you use AI coding agents — Cursor, Claude Code, GitHub Copilot, Gemini CLI — you probably know how much those configuration files matter. The instructions you give your agent define how well it understands your project. The problem: those files (`CLAUDE.md`, `.cursor/rules`, `AGENTS.md`, etc.) are totally unmanaged. They live in random project folders with no versioning, no sharing, no discoverability. I built Caliber to fix that. It's an open-source AI agent configuration manager — a registry where you can: - Store and version your agent configs - Share configs with your team or publicly - Discover what configs other developers are using - Roll back agent instructions that aren't working We just crossed 888 GitHub stars and nearly 100 forks, which has been incredibly motivating. For those experimenting with AI agents: what does your current config setup look like? Do you actually maintain your `CLAUDE.md` / `.cursor/rules`? Would a centralized registry for these configs be useful to you? Repo: https://github.com/caliber-ai/caliber Feedback and feature requests very welcome!
+
+2h ago
 
 ---
 
@@ -97,7 +89,7 @@ Hey Everyone, If you look at the AI education space right now, it’s flooded wi
 
 AI companies are subsidizing access the same way Uber subsidized rides and AWS subsidized compute in the early days - burning cash to grab market share. You're getting GPT-4 and Claude Opus level intelligence at a fraction of what it actually costs to run. That won't last. When unit economics have to work, prices go up and the cheap development era ends. So the question is: what can you build right now, while the cost of intelligence is artificially low, that becomes durable and defensible once the subsidy disappears? Edit: I copied this from my brainstorming session with AI
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +97,15 @@ AI companies are subsidizing access the same way Uber subsidized rides and AWS s
 
 We've been building Caliber to solve AI agent configuration management and released our full setup as open source. The response has been great — 888 GitHub stars and approaching 100 forks. Repo: https://github.com/caliber-ai-org/ai-setup The problem: every team integrating LLMs/AI agents ends up rebuilding the same config infrastructure — API key management, model selection logic, fallback chains, rate limiting configs. There's no standard. We tried to build that standard and open-source it. Key things in the repo: - Structured config schemas for AI agents - Multi-model fallback configuration - Environment isolation patterns - Observability and health check hooks We'd love feedback from the community: - What AI agent config challenges aren't covered here? - What features would make this genuinely useful for your projects? - Any integrations (LangChain, AutoGPT, etc.) you'd want to see? This is a community project — PRs and feature requests are very welcome.
 
-3h ago
+5h ago
+
+---
+
+**[The open-source AI agent config repo the community has been building just hit 888 stars — asking for feedback & feature ideas](https://www.reddit.com/r/artificial/comments/1t1kyx5/the_opensource_ai_agent_config_repo_the_community/)**
+
+Over the past year our team and community have been building an open-source collection of AI agent configs: production-ready system prompts, tool-calling schemas, RAG setups, multi-agent orchestration patterns, and model-specific tuning files. Repo: https://github.com/caliber-ai-org/ai-setup This week it crossed 888 GitHub stars and nearly 100 forks. All free, no paywall, no product to sell. What's in there: - System prompt templates across GPT-4o, Claude 3.5/3.7, Gemini 2.5 Pro - Tool-use and function calling schemas for agentic workflows - LangChain / LangGraph agent setup configs - RAG pipeline configurations with different retrieval strategies - Ollama and local model setups - CLAUDE.md / AGENTS.md templates for coding agent contexts - Multi-agent orchestration patterns We'd love to hear from this community: What AI agent patterns are you using that you'd want to see in the repo? What's missing that would make this genuinely useful to you? What setups have you found work well in production? All feedback and contributions are welcome.
+
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ We've been building Caliber to solve AI agent configuration management and relea
 
 Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 14h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 15h ago
 
 ---
 
@@ -121,55 +121,61 @@ Agreements with artificial intelligence firms spark concerns over public spendin
 
 ## Google News: "ai"
 
-**[AI music is flooding streaming platforms. But listeners like it less and less](https://www.npr.org/2026/05/02/nx-s1-5804489/music-listeners-dislike-ai-music-study)**
-
-Music fans are becoming increasingly uncomfortable with AI songs, according to a recent study.
-
-NPR • 4h ago
-
----
-
 **[AI finds signs of pancreatic cancer before tumors develop](https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099)**
 
 An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed. It's being evaluated in a clinical trial.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
-**[Can AI Find You Love?](https://www.theatlantic.com/ideas/2026/05/ai-matchmaker-dating-app/687038/)**
+**[A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)**
+
+Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.
+
+WIRED • 18h ago
+
+---
+
+**[Kentucky Derby prediction: We asked AI to simulate the 2026 Run for the Roses. Here's who won — and it wasn't the favorite Renegade](https://sports.yahoo.com/horse-racing/article/kentucky-derby-prediction-we-asked-ai-to-simulate-the-2026-run-for-the-roses-heres-who-won--and-it-wasnt-the-favorite-renegade-024635269.html)**
+
+We asked AI to simulate the race using the present odds, draw and potential track conditions.
+
+Yahoo Sports • 1h ago
+
+---
+
+**[My AI Matchmaker Let Me Down](https://www.theatlantic.com/ideas/2026/05/ai-matchmaker-dating-app/687038/)**
 
 Is this the future of online dating?
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
-**[How ChatGPT conversations became ‘a treasure trove’ of evidence in criminal investigations](https://www.cnn.com/2026/05/02/us/chatgpt-ai-privacy-crime)**
+**[Poll: GOP voters skeptical of AI as Trump steams ahead](https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754)**
 
-As the law stands now, your AI conversations can find their way from a computer into the courtroom.
-
-CNN • 4h ago
-
----
-
-**[AI threatens Big Law's talent pipeline](https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence)**
-
-Axios • 4h ago
-
----
-
-**[Caitlin Clark raises eyebrows with comment on team's AI post that showed her with a distorted hand](https://www.foxnews.com/outkick-sports/caitlin-clark-raises-eyebrows-comment-teams-ai-post-showed-distorted-hand)**
-
-Caitlin Clark left a comment appearing to mock a bad AI image of her hand on the Indiana Fever's Instagram, sparking funny fan reactions online.
-
-Fox News • 14h ago
+Politico • 3h ago
 
 ---
 
 **[Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
+
+---
+
+**[AI music is flooding streaming platforms. But listeners like it less and less](https://www.npr.org/2026/05/02/nx-s1-5804489/music-listeners-dislike-ai-music-study)**
+
+Music fans are becoming increasingly uncomfortable with AI songs, according to a recent study.
+
+NPR • 5h ago
+
+---
+
+**[AI threatens Big Law's talent pipeline](https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence)**
+
+Axios • 5h ago
 
 ---
 
@@ -177,23 +183,15 @@ The New York Times • 22h ago
 
 As Oracle slashes jobs, some workers say they were helping develop the AI that displaced them.
 
-Time Magazine • 20h ago
+Time Magazine • 21h ago
 
 ---
 
-**[Meet the Americans dismissing AI hype and using it with ingenuity: 'The efficiencies gained out of it have been tremendous'](https://fortune.com/2026/05/01/meet-the-americans-dismissing-ai-hype-and-using-it-with-ingenuity-the-efficiencies-gained-out-of-it-have-been-tremendous/)**
+**[Trump’s tariff-friendly White House celebrates these foreign imports](https://www.washingtonpost.com/business/2026/05/02/trump-trade-ai-foreign-imports/)**
 
-“When it first started up, I was in the camp of, ‘Oh my God, this is the end for us,'” Natalie Blythe said. Then she started learning.
+Ground zero for the artificial intelligence boom may lie in the U.S. But the gargantuan investment flows involved are spilling well beyond U.S. borders.
 
-Fortune • 23h ago
-
----
-
-**[Kentucky Derby prediction: We asked AI to simulate the 2026 Run for the Roses. Here's who won — and it wasn't the opening-line favorite Renegade](https://sports.yahoo.com/horse-racing/article/kentucky-derby-prediction-we-asked-ai-to-simulate-the-2026-run-for-the-roses-heres-who-won--and-it-wasnt-the-opening-line-favorite-renegade-024635261.html)**
-
-We asked AI to simulate the race using the present odds, draw and potential track conditions.
-
-Yahoo Sports • 14h ago
+The Washington Post • 57m ago
 
 ---
 
@@ -213,7 +211,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 459 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 460 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -221,13 +219,13 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 384 • 💬 456 • 21h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 386 • 💬 456 • 22h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
-⬆️ 378 • 💬 356 • 19h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
+⬆️ 381 • 💬 360 • 21h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -243,7 +241,7 @@ They built it. They're scared of it. They're selling it anyway.
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 248 • 💬 272 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 248 • 💬 273 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -330,7 +328,7 @@ In this video, I build a YouTube channel from scratch and take it viral in 24 ho
 
 📺 Jack Craig
 
-👁️ 25K • 👍 2K • 💬 297 • ⏱️ 27:07 • 21h ago
+👁️ 25K • 👍 2K • 💬 297 • ⏱️ 27:07 • 22h ago
 
 ---
 
@@ -360,7 +358,7 @@ LinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/
 
 📺 Eli the Computer Guy
 
-👁️ 5K • 👍 252 • 💬 80 • ⏱️ 16:48 • 20h ago
+👁️ 5K • 👍 252 • 💬 80 • ⏱️ 16:48 • 21h ago
 
 ---
 
@@ -456,7 +454,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 8,492 • ❤️ 212 • 5h ago
+⬇️ 8,492 • ❤️ 212 • 6h ago
 
 ---
 
@@ -478,7 +476,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 37,418 • ❤️ 192 • 6h ago
+⬇️ 37,418 • ❤️ 192 • 8h ago
 
 ---
 
@@ -661,7 +659,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 9h ago
+⭐ 50.7k • 🔱 6.7k • 10h ago
 
 ---
 
@@ -681,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 40.3k • 🔱 4.4k • 13m ago
+⭐ 40.3k • 🔱 4.4k • 1h ago
 
 ---
 
@@ -741,7 +739,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.9k • 🔱 363 • 12h ago
+⭐ 4.9k • 🔱 363 • 13h ago
 
 ---
 
