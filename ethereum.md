@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T11:53:28.629917+00:00'
+updated: '2026-05-02T13:14:25.919969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 11:53 UTC  
+**Last Updated:** May 02, 2026 at 13:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -2.8%  
-**30d:** +12.2%  
-**90d:** -1.8%  
-**1y:** +25.7%  
+**24h:** -0.1%  
+**7d:** -2.5%  
+**30d:** +12.5%  
+**90d:** -1.5%  
+**1y:** +26.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.17B
+**Market Cap:** $278.24B
 Rank #2
 
 **Circulating Supply:** 120,687,481 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.4%
+-53.3%
 
 **All-Time Low:** $0.43
-+532260.7%
++533256.1%
 
 ---
 
@@ -72,13 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
-**[need help with trustwallet](https://www.reddit.com/r/ethereum/comments/1t1jp9r/need_help_with_trustwallet/)**
+**[Doots Episode 147!](https://www.reddit.com/r/ethereum/comments/1t10ukx/doots_episode_147/)**
 
-3h ago
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 19h ago
 
 ---
 
@@ -90,19 +92,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Doots Episode 147!](https://www.reddit.com/r/ethereum/comments/1t10ukx/doots_episode_147/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 17h ago
-
----
-
 **[Smart contract based project ideas](https://www.reddit.com/r/ethereum/comments/1t1605j/smart_contract_based_project_ideas/)**
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-14h ago
+16h ago
 
 ---
 
@@ -146,6 +140,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Solidity v0.8.35 is out!](https://www.reddit.com/r/ethereum/comments/1sz0ebj/solidity_v0835_is_out/)**
+
+Posted by Solidity Team on April 29, 2026
+
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/04/29/solidity-0.8.35-release-announcement) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
@@ -162,7 +164,7 @@ The Block • 16h ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -170,7 +172,29 @@ CoinDesk • 17h ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Decrypt • 16h ago
+Decrypt • 18h ago
+
+---
+
+**[Bitcoin Reclaims $77,000, Ethereum, XRP, Dogecoin Bump 1%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-reclaims-77-000-ethereum-100119769.html)**
+
+Bitcoin trades above $77,000 on Friday morning as Bitcoin ETFs saw $14.8 million in net inflows on Thursday, while Ethereum ETFs reported $23.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$77,805Ethereum(CRYPTO: ETH)$2,305Solana(CRYPTO: SOL)$84.38XRP(CRYPTO: XRP)$1.39Dogecoin(CRYPTO: DOGE)$0.1081Shiba Inu(CRYPTO: SHIB)$0.056303 Meme coin market capitalization is...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Wasabi Protocol drained of $4.5 million in apparent admin key compromise](https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise)**
+
+The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.
+
+CoinDesk • 1d ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -180,19 +204,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin Reclaims $77,000, Ethereum, XRP, Dogecoin Bump 1%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-reclaims-77-000-ethereum-100119769.html)**
+**[OKX agent payments protocol launched with Ethereum, Solana backing](https://cryptobriefing.com/okx-agent-payments-protocol-launched-with-ethereum-solana-backing/)**
 
-Bitcoin trades above $77,000 on Friday morning as Bitcoin ETFs saw $14.8 million in net inflows on Thursday, while Ethereum ETFs reported $23.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$77,805Ethereum(CRYPTO: ETH)$2,305Solana(CRYPTO: SOL)$84.38XRP(CRYPTO: XRP)$1.39Dogecoin(CRYPTO: DOGE)$0.1081Shiba Inu(CRYPTO: SHIB)$0.056303 Meme coin market capitalization is...
+OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum ETFs Shed $184M Over 4-Day Negative Streak](https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak)**
-
-Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
-
-Decrypt • 20h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -201,20 +217,6 @@ Decrypt • 20h ago
 Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
 
 FXStreet • 1d ago
-
----
-
-**[OKX agent payments protocol launched with Ethereum, Solana backing](https://cryptobriefing.com/okx-agent-payments-protocol-launched-with-ethereum-solana-backing/)**
-
-OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
-
-Crypto Briefing • 9h ago
-
----
-
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 2d ago
 
 ---
 
@@ -230,13 +232,23 @@ Fortune • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Is Making A Super Rare Move - Here&#39;s My Plan](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 203 • 💬 37 • ⏱️ 9:18 • 1d ago
+
+---
+
 **[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
 
 Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 8 • ⏱️ 10:19 • 8h ago
+👁️ 3K • 👍 193 • 💬 9 • ⏱️ 10:19 • 9h ago
 
 ---
 
@@ -246,27 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 63 • 💬 13 • ⏱️ 8:12 • 22h ago
-
----
-
-**[ETHEREUM IS MAKING A VERY RARE MOVE (HERE&#39;S MY PLAN)](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 4K • 👍 202 • 💬 37 • ⏱️ 9:18 • 1d ago
-
----
-
-**[BMNR TOO BIG? Bitmine’s $13B Ethereum Strategy Explained](https://www.youtube.com/watch?v=Fw5OK47yD6c)**
-
-In this video, we break down the latest developments around Bitmine (BMNR) and its growing Ethereum position. The company ...
-
-📺 BiGB Stcok
-
-👁️ 577 • 👍 34 • 💬 1 • ⏱️ 9:26 • 13h ago
+👁️ 2K • 👍 66 • 💬 14 • ⏱️ 8:12 • 23h ago
 
 ---
 
@@ -276,17 +268,27 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 205 • 💬 40 • ⏱️ 12:11 • 1d ago
+👁️ 2K • 👍 207 • 💬 40 • ⏱️ 12:11 • 1d ago
 
 ---
 
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+**[BMNR TOO BIG? Bitmine’s $13B Ethereum Strategy Explained](https://www.youtube.com/watch?v=Fw5OK47yD6c)**
 
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+In this video, we break down the latest developments around Bitmine (BMNR) and its growing Ethereum position. The company ...
 
-📺 Paul Barron Network
+📺 BiGB Stcok
 
-👁️ 61K • 👍 3K • 💬 160 • ⏱️ 16:31 • 2d ago
+👁️ 798 • 👍 45 • 💬 1 • ⏱️ 9:26 • 15h ago
+
+---
+
+**[이더리움 4,400억 해킹…DeFi 붕괴 시작](https://www.youtube.com/watch?v=_Ts-uE90fU0)**
+
+이더리움 #ETH #디파이해킹 #KelpDAO #Aave #보안리스크 #크로스체인 #암호화폐위기 #코인시장 #투자리스크.
+
+📺 서울경제TV
+
+👁️ 2K • 👍 15 • 💬 13 • ⏱️ 2:50 • 13h ago
 
 ---
 
@@ -296,7 +298,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 4K • 👍 130 • 💬 19 • ⏱️ 24:23 • 23h ago
+👁️ 4K • 👍 132 • 💬 19 • ⏱️ 24:23 • 1d ago
 
 ---
 
@@ -306,27 +308,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 727 • 👍 75 • ⏱️ 6:41 • 9h ago
+👁️ 961 • 👍 80 • ⏱️ 6:41 • 10h ago
 
 ---
 
-**[Crypto Hacks Are DESTROYING Ethereum &amp; Altcoins (Ft. Jupiter President)](https://www.youtube.com/watch?v=n4Io3PirMPA)**
+**[How Ethereum (ETH) Is Traded by AI Bot (Crypto Trading Explained)](https://www.youtube.com/watch?v=xYX4jS_-m-o)**
 
-Ethereum and altcoins are bleeding from the largest wave of crypto hacks yet — and the timing couldn't be worse. AI is pulling ...
+This system: tapy.ws/minecore Most traders focus on charts - but automated systems approach ETH trading very differently.
 
-📺 EllioTrades
+📺 Gordon Web3
 
-👁️ 4K • 👍 171 • 💬 111 • ⏱️ 1:20:25 • 16h ago
+👁️ 88 • 👍 73 • 💬 71 • ⏱️ 5:59 • 3h ago
 
 ---
 
-**[🚨 La fondation Ethereum implose : faut-il vendre ?](https://www.youtube.com/watch?v=n7SGKGaFkpM)**
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=ZCg7QBQ5BxI)**
 
-50 000 € à gagner sur Bitpanda : https://bitpanda.pxf.io/c/5654847/2334692/15871?subId1=MoneyRadar Notre Newsletter ...
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
 
-📺 MoneyRadar Crypto
+📺 Ashutosh Kumar
 
-👁️ 6K • 👍 451 • 💬 34 • ⏱️ 15:24 • 1d ago
+👁️ 6K • 👍 339 • 2h ago
 
 ---
 
