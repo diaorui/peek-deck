@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T04:41:18.377542+00:00'
+updated: '2026-05-02T07:01:04.499551+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 04:41 UTC  
+**Last Updated:** May 02, 2026 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,487.23
+### $78,323.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.5%  
-**30d:** +16.8%  
-**90d:** -0.7%  
-**1y:** -18.5%  
+**24h:** +1.2%  
+**7d:** -0.4%  
+**30d:** +17.0%  
+**90d:** -0.6%  
+**1y:** -18.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1566.91B
+**Market Cap:** $1567.71B
 Rank #1
 
-**Circulating Supply:** 20,023,500 BTC
-95.3% of max
+**Circulating Supply:** 20,023,521 BTC
+95.4% of max
 
 **All-Time High:** $126,080.00
 -37.9%
 
 **All-Time Low:** $67.81
-+115300.4%
++115384.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Masood Boomgaard aka Self-Help Singh
 
-8h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Masood Boomgaard aka Self-Help Singh
 
 Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
 
-12h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth told Congress that Bitcoin projects inside the Pentagon are “classified and ongoing,” while stressing that the top crypto is a tool for American power. Hegseth delivered the comments in front of the House Armed Services Committee, responding to questions about whether the US is securing a strategic advantage in technology. “I am a long enthusiast of Bitcoin and crypto potential,” he said. “A lot of the things we are doing, enabling it or defeating it, are classified efforts that are ongoing inside our department, which do provide us a lot of leverage in a lot of different scenarios.” Hegseth’s endorsement elevates Bitcoin into the realm of geopolitical strategy at a time when Russia and China are expanding their roles in mining and using digital assets to bypass US sanctions....
 
-🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 14h ago
+🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 17h ago
 
 ---
 
@@ -105,21 +105,13 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 Let's go, pedal to the metal!
 
-14h ago
-
----
-
-**[River Vs Strike](https://www.reddit.com/r/Bitcoin/comments/1t19yuh/river_vs_strike/)**
-
-Hi. Does anyone know how long payments take to clear from River via bank transfer? When I do a bank transfer from strike it takes 2 weeks for the BTC to be able to be sent to cold storage which is very odd. The payment is taken from my account in 2 days but I can’t withdraw for another 2 weeks. ACH should only take about 1-3 days. Is this the same for River? Thinking about switching. Thanks!
-
-4h ago
+16h ago
 
 ---
 
 **[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -127,7 +119,7 @@ Hi. Does anyone know how long payments take to clear from River via bank transfe
 
 I'm afraid that we keep waiting for some dramatic “mass adoption moment,” like a switch flipping overnight. Meanwhile, it’s already happening-quietly, unevenly, and mostly outside the bubbles that think they’re the center of the world. In countries with stable currencies, Bitcoin is a “speculative asset.” In countries with collapsing ones, it’s survival. That alone should tell us something about where this is going. We don’t notice adoption because it doesn’t need our validation. It happens when someone realizes their savings are melting. When cross-border payments are broken. When “trusted” institutions fail one too many times. And here’s the uncomfortable truth: Bitcoin isn’t waiting to be adopted by everyone. It’s being adopted first by the people who actually need it. By the time it feels obvious in the West, it won’t be early anymore-it’ll be inevitable. So the real question is: are we early or just early enough to still ignore it?
 
-13h ago
+15h ago
 
 ---
 
@@ -135,7 +127,7 @@ I'm afraid that we keep waiting for some dramatic “mass adoption moment,” li
 
 A while ago now I read Allden's "Broken Money", and it was the idea of bitcoin as an emergency fund for those without access to regular money which stuck with me the hardest. I think part of why it was so poignant for me was that it made sense regardless of how wealthy one is to keep some funds which is soley controllered by you and noone else. By extension, owning just some bitcoin, even if it is a very modest amount, is equally prudent regardless of whether you are a billionaire or just have more modest savings. The reason I decided to share this is because I rarely see this sentiment in the conversation. Most often I see the argument that bitcoin is the better alternative to fiat, that it will be future base of the financial system and so on. Don't get me wrong, I hope for this although I doubt it. But it does seem inevitable to me that most people should want to have a couple of satoshis just in case. Often billionaires gets flack for building bunkers, but I think most of us would do so. Why? Not because of "eat the rich", not because they expect the world to end, but simply because its not an expense for them anymore. Why not? I would. Ironically this it why I think Bitcoin might just increase enormously in value. People will want to own just a little of it, but for the very rich a little will comparatively mean a lot. But as long as the Bitcoin I own don't lose ALL their value (which seems improbably if not impossible) I will still be happy to own some even if it goes down quite a bit in price. And stays there. Because it is my tiny affordable bunker, which I hope to never need.
 
-11h ago
+14h ago
 
 ---
 
@@ -143,15 +135,23 @@ A while ago now I read Allden's "Broken Money", and it was the idea of bitcoin a
 
 Crypto ticker
 
-8h ago
+11h ago
 
 ---
 
-**[Inflation Causes Unnecessary Consumption](https://www.reddit.com/r/Bitcoin/comments/1t0vn74/inflation_causes_unnecessary_consumption/)**
+**[Is the PM Merz in Germany up to something awful towards HODLers?](https://www.reddit.com/r/Bitcoin/comments/1t13el3/is_the_pm_merz_in_germany_up_to_something_awful/)**
 
-Fiat doesn’t just lose value. It trains you to spend. Save → lose purchasing power Spend → feel “smart” So people buy earlier. More often. Things they don’t really need. That’s not a side effect. It’s the incentive structure. Bitcoin does the opposite. Low time preference vs high time preference isn’t just theory, it shows up in everyday behavior. Do you agree that inflation quietly drives overconsumption?
+Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
 
-🔗 [Myntad](https://www.myntad.com/inflation-causes-unnecessary-consumption/) • 13h ago
+11h ago
+
+---
+
+**[An investigation into how informal power over Bitcoin Core was assembled, exercised, and defended](https://www.reddit.com/r/Bitcoin/comments/1t12zlb/an_investigation_into_how_informal_power_over/)**
+
+Core has been captured for YEARS now. READ IT
+
+🔗 [Citadel21](https://www.citadel21.com/the-lever) • 11h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fiat doesn’t just lose value. It trains you to spend. Save → lose purchasing
 
 Bitcoin rises above $77,000 on solid volume, but rising put open interest and cautious market sentiment suggest traders are hedging against downside risk.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -187,7 +187,31 @@ The Block • 1d ago
 
 PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-The Block • 10h ago
+The Block • 13h ago
+
+---
+
+**[London BTC’s CEO explains gold-to-bitcoin strategy - ICYMI](https://uk.finance.yahoo.com/news/london-btc-ceo-explains-gold-062300024.html)**
+
+London BTC Company Ltd (LSE:BTC, OTCQB:VINZF) is positioning itself at the intersection of digital assets and traditional resources, as it looks to use gold exploration to support its Bitcoin strategy. CEO Hewie Rattray outlined a capital-light approach aimed at generating early-stage value...
+
+Yahoo Finance UK • 38m ago
+
+---
+
+**[🚨𝗝𝗨𝗦𝗧 𝗜𝗡:🇺🇸 Bitcoin spot ETFs recorded a net inflow of $629.8M on May 1. BlackRock clients bought $284,400,000 worth of $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-spot-etfs-recorded-a-net-inflow-of-629-8m-116503194435589)**
+
+@DustyBC Crypto 7192 Views|2 Likes
+
+Moomoo • 2h ago
+
+---
+
+**[Bitcoin above $78K, ETH, SOL, DOGE higher as Senate clears Clarity Act yield hurdle](https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record)**
+
+Bitcoin recovered from a midweek dip to $75,500 to climb back above $78,000 by Saturday morning in Asia, with the Senate's stablecoin yield compromise removing a key roadblock to crypto market structure legislation.
+
+CoinDesk • 10m ago
 
 ---
 
@@ -195,15 +219,7 @@ The Block • 10h ago
 
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
-CNBC • 13h ago
-
----
-
-**[Bitcoin, ETH, XRP, DOGE, MSTR Cashtags Go Live on X Web, Musk Says Most Crypto Are Scams](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eth-xrp-doge-mstr-033831401.html)**
-
-Elon Musk’s X rolls out the Smart Cashtags feature for stocks and crypto assets on the web version today. This new feature adds interactive, real-time financial data to users’ timelines, supporting major crypto and stocks trading such as Bitcoin, ETH, XRP, SOL, DOGE, TSLA, MSTR, and COIN. Meanwhile, Bitcoin and Dogecoin-fan Elon Musk says most
-
-Yahoo Finance • 1d ago
+CNBC • 15h ago
 
 ---
 
@@ -217,21 +233,7 @@ Governor Mike Braun ceremonially signed an emergency declaration banning the use
 
 **[Bitcoin Price Rallies. Why Cryptos Could Climb to Their Highest in Months.](https://www.barrons.com/articles/bitcoin-price-cryptos-xrp-solana-dogecoin-ea982c12)**
 
-Barron's • 19h ago
-
----
-
-**[Riot Platform Stock Spikes After Data Center Debut, AMD Doubles Capacity](https://www.investors.com/news/riot-platforms-stock-earnings-bitcoin-miner-data-center-amd-contract-capacity/)**
-
-Investor's Business Daily • 8h ago
-
----
-
-**[Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000](https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k)**
-
-Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
-
-Bitcoin Magazine • 9h ago
+Barron's • 22h ago
 
 ---
 
@@ -267,7 +269,7 @@ Paul Sztorc’s proposed eCash fork would give investors coins cloned from walle
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 3 • 💬 1 • 1d ago • [satoshiguesser.com](https://satoshiguesser.com)
+⬆️ 3 • 💬 1 • 2d ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -279,7 +281,7 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 **[U.S. Seizes $15B in Bitcoin in Crypto 'Scam' Crackdown](https://news.ycombinator.com/item?id=47971809)**
 
-⬆️ 1 • 💬 2 • 22h ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
+⬆️ 1 • 💬 2 • 1d ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
 
 ---
 
@@ -295,7 +297,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 5h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 7h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -303,7 +305,7 @@ Part XIV and Finale of the Bitgenstein Serialization
 
 Bitcoin Monitor Widget -  Build your own real-time crypto space with price widgets, portfolio views, themes, logs, terminal, games, custom API cards, alerts.
 
-⬆️ 1 • 💬 0 • 17h ago • [Bitcoin Monitor Widget](https://btcwid.com)
+⬆️ 1 • 💬 0 • 20h ago • [Bitcoin Monitor Widget](https://btcwid.com)
 
 ---
 
@@ -311,7 +313,7 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 1 • 💬 0 • 1d ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+⬆️ 1 • 💬 0 • 2d ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -325,7 +327,7 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 61 • ⏱️ 13:54 • 7h ago
+👁️ 15K • 👍 1K • 💬 64 • ⏱️ 13:54 • 9h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocke
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 861 • 💬 219 • ⏱️ 23:54 • 15h ago
+👁️ 14K • 👍 870 • 💬 219 • ⏱️ 23:54 • 17h ago
 
 ---
 
@@ -355,7 +357,7 @@ Bitcoin may be entering one of the most important macro setups in its history as
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 310 • ⏱️ 18:39 • 1d ago
+👁️ 33K • 👍 2K • 💬 238 • ⏱️ 18:39 • 1d ago
 
 ---
 
@@ -365,7 +367,17 @@ Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Sa
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 193 • 💬 108 • ⏱️ 15:57 • 8h ago
+👁️ 3K • 👍 211 • 💬 110 • ⏱️ 15:57 • 10h ago
+
+---
+
+**[The Bitcoin Rally Is Turning Savage (Tim Draper, Eric Trump, XRP News)](https://www.youtube.com/watch?v=bcYKueS31ZE)**
+
+Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (no kyc) - Claim $10k bonus: ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 670 • 💬 134 • ⏱️ 9:40 • 8h ago
 
 ---
 
@@ -385,37 +397,27 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 11K • 👍 682 • 💬 267 • ⏱️ 13:02 • 1d ago
+👁️ 11K • 👍 683 • 💬 292 • ⏱️ 13:02 • 1d ago
 
 ---
 
-**[NEW Mini Home BITCOIN Miner may Earn you 3.125 BTC!](https://www.youtube.com/watch?v=YQ7gK3LAqMQ)**
+**[The Financial System Is Moving to Bitcoin | David Marcus](https://www.youtube.com/watch?v=Jccm9mQTduI)**
 
-Checkout the Bitforge Nano Ghost Edition Home Solo Miner from Today's Video! US ➡ https://geni.us/NanoGhostSoloSat EU ...
+Money on the internet is still broken.” David Marcus returns to the show to break down why moving money globally is still slow, ...
 
-📺 The Hobbyist Miner
+📺 What Bitcoin Did
 
-👁️ 2K • 👍 149 • 💬 144 • ⏱️ 19:42 • 16h ago
-
----
-
-**[The Crypto Report: Bitcoin Eyes Breakout](https://www.youtube.com/watch?v=hD4fdYJy43k)**
-
-Adam Lynch says Bitcoin has strongly rallied off of its February lows and is up about 10% this April. He suggests that if Bitcoin ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 26 • 💬 4 • ⏱️ 6:41 • 1d ago
+👁️ 3K • 👍 126 • 💬 92 • ⏱️ 57:24 • 15h ago
 
 ---
 
-**[BIG DISASTER FOR BITCOIN ](https://www.youtube.com/watch?v=t1zSiLFLVLg)**
+**[Bitcoin Drop Imminent As Oil Sky Rockets?](https://www.youtube.com/watch?v=3epLsV3KXZg)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+Bitcoin #Crypto #Finance Bitcoin is pushing toward $80000 but oil prices could be the thing that pulls it back down. With Brent ...
 
-📺 The Moon Show
+📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 458 • 💬 33 • ⏱️ 4:21 • 12h ago
+👁️ 10K • 👍 449 • 💬 187 • ⏱️ 31:59 • 1d ago
 
 ---
 
