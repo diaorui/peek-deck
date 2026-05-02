@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T21:41:19.752516+00:00'
+updated: '2026-05-02T22:42:33.137141+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 21:41 UTC  
+**Last Updated:** May 02, 2026 at 22:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -2.4%  
-**30d:** +12.6%  
-**90d:** -1.4%  
-**1y:** +26.1%  
+**24h:** +1.1%  
+**7d:** -2.0%  
+**30d:** +13.1%  
+**90d:** -1.0%  
+**1y:** +26.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 6h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 7h ago
 
 ---
 
@@ -86,15 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 8h ago
-
----
-
-**[Doots Episode 147!](https://www.reddit.com/r/ethereum/comments/1t10ukx/doots_episode_147/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 1d ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 9h ago
 
 ---
 
@@ -103,6 +95,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Doots Episode 147!](https://www.reddit.com/r/ethereum/comments/1t10ukx/doots_episode_147/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 1d ago
 
 ---
 
@@ -174,7 +174,7 @@ TipRanks • 2d ago
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 8h ago
+ethereum.org • 9h ago
 
 ---
 
@@ -202,17 +202,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[OKX agent payments protocol launched with Ethereum, Solana backing](https://cryptobriefing.com/okx-agent-payments-protocol-launched-with-ethereum-solana-backing/)**
+**[Ethereum faces downward pressure amid geopolitical, macroeconomic challenges](https://cryptobriefing.com/ethereum-faces-downward-pressure-amid-geopolitical-macroeconomic-challenges/)**
 
-OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
+Ethereum faces downward pressure due to geopolitical and macroeconomic challenges. Ethereum at $5,000 in May priced at 0.1% YES.
 
-Crypto Briefing • 19h ago
-
----
-
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 2d ago
+Crypto Briefing • 7m ago
 
 ---
 
@@ -221,6 +215,12 @@ Forbes • 2d ago
 Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
 
 BeInCrypto • 1d ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 785 • 👍 58 • 💬 26 • ⏱️ 15:10 • 7h ago
+👁️ 785 • 👍 58 • 💬 26 • ⏱️ 15:10 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 223 • 💬 10 • ⏱️ 10:19 • 18h ago
+👁️ 3K • 👍 223 • 💬 10 • ⏱️ 10:19 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 176 • 👍 10 • 💬 1 • ⏱️ 5:42 • 12h ago
+👁️ 176 • 👍 10 • 💬 1 • ⏱️ 5:42 • 13h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 BiGB Stcok
 
-👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 23h ago
+👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 1d ago
 
 ---
 
@@ -304,7 +304,7 @@ Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7
 
 📺 World View
 
-👁️ 816 • 👍 65 • 💬 20 • ⏱️ 16:59 • 8h ago
+👁️ 816 • 👍 65 • 💬 20 • ⏱️ 16:59 • 9h ago
 
 ---
 
@@ -324,7 +324,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 682 • 👍 53 • ⏱️ 6:42 • 8h ago
+👁️ 682 • 👍 53 • ⏱️ 6:42 • 9h ago
 
 ---
 
