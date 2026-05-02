@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T15:25:55.365938+00:00'
+updated: '2026-05-02T16:10:40.416523+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 15:25 UTC  
+**Last Updated:** May 02, 2026 at 16:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -2.7%  
-**30d:** +12.3%  
-**90d:** -1.7%  
-**1y:** +25.8%  
+**24h:** -0.1%  
+**7d:** -2.5%  
+**30d:** +12.5%  
+**90d:** -1.5%  
+**1y:** +26.1%  
 
 ---
 
@@ -72,7 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[Cheapest way to swap large amounts of ETH to USDC](https://www.reddit.com/r/ethereum/comments/1t1sryt/cheapest_way_to_swap_large_amounts_of_eth_to_usdc/)**
+
+Past a certain size Uniswap slippage gets bad enough that the rate difference matters more than the gas. Been looking at aggregators that split across multiple liquidity sources but not sure which ones actually deliver on that at scale. What are people using when moving anything above $2k, genuinely curious
+
+49m ago
+
+---
+
+**[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 1h ago
 
 ---
 
@@ -84,11 +98,19 @@ Not long ago, I was asked about quantum computing and the threat it could pose t
 
 ---
 
+**[Tornado Cash is sanctioned. What are people using now?](https://www.reddit.com/r/ethereum/comments/1t1t7i0/tornado_cash_is_sanctioned_what_are_people_using/)**
+
+Tornado Cash being sanctioned basically killed the main Ethereum privacy tool overnight. A lot of people moved to other mixers but most of them have the same fundamental problem, the base layer is still fully transparent.
+
+33m ago
+
+---
+
 **[Doots Episode 147!](https://www.reddit.com/r/ethereum/comments/1t10ukx/doots_episode_147/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 21h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 22h ago
 
 ---
 
@@ -104,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-18h ago
+19h ago
 
 ---
 
@@ -124,30 +146,6 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 ---
 
-**[Ethereal news weekly #21 | DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack](https://www.reddit.com/r/ethereum/comments/1t0qpum/ethereal_news_weekly_21_defi_united_technical/)**
-
-DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 1d ago
-
----
-
-**[Daily General Discussion April 30, 2026](https://www.reddit.com/r/ethereum/comments/1szmeic/daily_general_discussion_april_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[Daily General Discussion April 29, 2026](https://www.reddit.com/r/ethereum/comments/1syp1i4/daily_general_discussion_april_29_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 20h ago
+The Block • 21h ago
+
+---
+
+**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine)**
+
+For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+
+Decrypt • 21h ago
 
 ---
 
@@ -168,17 +174,9 @@ CoinDesk • 21h ago
 
 ---
 
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine)**
-
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
-
-Decrypt • 20h ago
-
----
-
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 1h ago
+ethereum.org • 2h ago
 
 ---
 
@@ -216,7 +214,7 @@ Forbes • 2d ago
 
 Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -238,7 +236,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 168 • 👍 18 • 💬 4 • ⏱️ 15:10 • 1h ago
+👁️ 168 • 👍 18 • 💬 4 • ⏱️ 15:10 • 2h ago
 
 ---
 
@@ -258,7 +256,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 10:19 • 11h ago
+👁️ 3K • 👍 203 • 💬 9 • ⏱️ 10:19 • 12h ago
 
 ---
 
@@ -298,7 +296,7 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 BiGB Stcok
 
-👁️ 939 • 👍 45 • 💬 1 • ⏱️ 9:26 • 17h ago
+👁️ 939 • 👍 45 • 💬 1 • ⏱️ 9:26 • 18h ago
 
 ---
 
@@ -328,7 +326,7 @@ This system: tapy.ws/minecore Most traders focus on charts - but automated syste
 
 📺 Gordon Web3
 
-👁️ 124 • 👍 90 • 💬 89 • ⏱️ 5:59 • 5h ago
+👁️ 124 • 👍 90 • 💬 89 • ⏱️ 5:59 • 6h ago
 
 ---
 

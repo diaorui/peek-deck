@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T15:25:55.359381+00:00'
+updated: '2026-05-02T16:10:40.411379+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 15:25 UTC  
+**Last Updated:** May 02, 2026 at 16:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.3%  
-**30d:** +17.2%  
-**90d:** -0.5%  
-**1y:** -18.3%  
+**24h:** +0.0%  
+**7d:** -0.1%  
+**30d:** +17.4%  
+**90d:** -0.3%  
+**1y:** -18.1%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[The $80K Squeeze: Why Taiwan and the Middle East Are Forcing a Bitcoin Decoupling](https://www.reddit.com/r/Bitcoin/comments/1t1sp61/the_80k_squeeze_why_taiwan_and_the_middle_east/)**
+
+Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
+
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 52m ago
+
+---
+
 **[Duck crypto, Bitcoin only!](https://www.reddit.com/r/Bitcoin/comments/1t14wyp/duck_crypto_bitcoin_only/)**
 
 Masood Boomgaard aka Self-Help Singh
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +97,21 @@ Masood Boomgaard aka Self-Help Singh
 
 I’ve invested a small amount of money in bitcoin. I would like to invest more but the capital gains tax in my country (Ireland) has kinda taken the fun out of it. We have to pay 33% and that doesn’t change no matter how many years you let your investment sit. Interested to know what others pay in their country and whether you think it’s still worthwhile for me to invest more.
 
-4h ago
+5h ago
+
+---
+
+**[Daily Discussion, May 02, 2026](https://www.reddit.com/r/Bitcoin/comments/1t1hnuj/daily_discussion_may_02_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+10h ago
+
+---
+
+**[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
+
+17h ago
 
 ---
 
@@ -101,17 +123,11 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 ---
 
-**[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
+**[Is anyone else having a problem with their account on blockchain.com?](https://www.reddit.com/r/Bitcoin/comments/1t1px0v/is_anyone_else_having_a_problem_with_their/)**
 
-16h ago
+I logged in after a few years of inactivity. It looks like it created a new WALLET ID for me. So now when I log in with this account, it looks fresh. Can't see my funds. But I can use the previous WALLET ID (the one I know is good) but it tells my password is incorrect, every time I go through the password reset flow, it creates and associates a new WALLET ID to my account. I can't contact support, because it requires logging in, which after logging in takes me to the home screen (where I can try to "contact support", but I am now in an infinite loop)
 
----
-
-**[Daily Discussion, May 02, 2026](https://www.reddit.com/r/Bitcoin/comments/1t1hnuj/daily_discussion_may_02_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
+2h ago
 
 ---
 
@@ -131,27 +147,11 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 ---
 
-**[Stephen Offman](https://www.reddit.com/r/Bitcoin/comments/1t1m37p/stephen_offman/)**
-
-Who out there had a shady dealing with this guy?
-
-5h ago
-
----
-
 **[Is the PM Merz in Germany up to something awful towards HODLers?](https://www.reddit.com/r/Bitcoin/comments/1t13el3/is_the_pm_merz_in_germany_up_to_something_awful/)**
 
 Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
 
-19h ago
-
----
-
-**[Bitcoin adoption doesn’t look like what we think it should - and that’s exactly why we’re missing it.](https://www.reddit.com/r/Bitcoin/comments/1t0vxog/bitcoin_adoption_doesnt_look_like_what_we_think/)**
-
-I'm afraid that we keep waiting for some dramatic “mass adoption moment,” like a switch flipping overnight. Meanwhile, it’s already happening-quietly, unevenly, and mostly outside the bubbles that think they’re the center of the world. In countries with stable currencies, Bitcoin is a “speculative asset.” In countries with collapsing ones, it’s survival. That alone should tell us something about where this is going. We don’t notice adoption because it doesn’t need our validation. It happens when someone realizes their savings are melting. When cross-border payments are broken. When “trusted” institutions fail one too many times. And here’s the uncomfortable truth: Bitcoin isn’t waiting to be adopted by everyone. It’s being adopted first by the people who actually need it. By the time it feels obvious in the West, it won’t be early anymore-it’ll be inevitable. So the real question is: are we early or just early enough to still ignore it?
-
-1d ago
+20h ago
 
 ---
 
@@ -159,11 +159,11 @@ I'm afraid that we keep waiting for some dramatic “mass adoption moment,” li
 
 ## Google News: "bitcoin"
 
-**[Bitcoin above $78K, ETH, SOL, DOGE higher as Senate clears Clarity Act yield hurdle](https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record)**
+**[New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC](https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc)**
 
-Bitcoin recovered from a midweek dip to $75,500 to climb back above $78,000 by Saturday morning in Asia, with the Senate's stablecoin yield compromise removing a key roadblock to crypto market structure legislation.
+A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -171,23 +171,27 @@ CoinDesk • 8h ago
 
 PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[Why Bitcoin Still Looks Like Crypto's Best Generational Wealth Bet](https://www.fool.com/investing/2026/05/02/why-bitcoin-still-looks-like-cryptos-best-generati/)**
+**[Bitcoin News Today: Bitcoin Climbs Back Above $78,000 as Senate Clears Clarity Act Hurdle and S&P 500 Sets New Record](https://www.binance.com/en/square/post/318835221709490)**
 
-If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
-
-The Motley Fool • 3h ago
+Binance • 1h ago
 
 ---
 
-**[Visa Expands Crypto Role With Lightspark Stablecoin And Bitcoin Debit Cards](https://uk.finance.yahoo.com/news/visa-expands-crypto-role-lightspark-121053493.html)**
+**[Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork](https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork)**
 
-Visa (NYSE:V) is partnering with Lightspark to roll out stablecoin and Bitcoin backed Visa debit cards across more than 100 countries. The new cards aim to let users spend digital assets or fiat directly at any merchant that accepts Visa. The partnership uses Lightspark’s blockchain infrastructure to connect crypto wallets with Visa’s global payments network. For a company already central to global payments, this move extends Visa’s role beyond traditional card processing into direct crypto...
+Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.
 
-Yahoo Finance UK • 3h ago
+CoinDesk • 9m ago
+
+---
+
+**[Bitcoin News Today: Bitcoin at Crossroads: Break Above $80,000 Could Trigger Short Squeeze to $84,000, Analyst Says](https://www.binance.com/en/square/post/318841730463345)**
+
+Binance • 1h ago
 
 ---
 
@@ -195,7 +199,7 @@ Yahoo Finance UK • 3h ago
 
 If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -203,7 +207,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -211,27 +215,19 @@ CNBC • 23h ago
 
 The billionaire’s thoughts on crypto came up during the OpenAI trial
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
 **[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
 **[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Stock Investors Are Showing an Appetite for Risk. Why That Hasn't Translated to Bitcoin](https://www.investopedia.com/stock-investors-are-showing-an-appetite-for-risk-why-that-hasn-t-translated-to-bitcoin-11964014)**
-
-Bitcoin is has shown ssigns of life after a big week of tech earnings, yet it hasn't kept up with the recovery rally in stocks.
-
-Investopedia • 19h ago
 
 ---
 
@@ -295,7 +291,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 6h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 7h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -303,7 +299,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 16h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 17h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -325,7 +321,7 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 265 • ⏱️ 13:54 • 18h ago
+👁️ 20K • 👍 1K • 💬 265 • ⏱️ 13:54 • 19h ago
 
 ---
 
@@ -335,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 704 • 💬 18 • ⏱️ 52:45 • 2h ago
+👁️ 5K • 👍 704 • 💬 18 • ⏱️ 52:45 • 3h ago
 
 ---
 
@@ -355,7 +351,7 @@ Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Sa
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 239 • 💬 139 • ⏱️ 15:57 • 18h ago
+👁️ 4K • 👍 239 • 💬 139 • ⏱️ 15:57 • 19h ago
 
 ---
 
@@ -365,7 +361,7 @@ Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (n
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 954 • 💬 260 • ⏱️ 9:40 • 16h ago
+👁️ 14K • 👍 954 • 💬 260 • ⏱️ 9:40 • 17h ago
 
 ---
 
@@ -375,7 +371,7 @@ It is once again time to dubiously speculate on the price of Bitcoin! Into The C
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 2K • 💬 133 • ⏱️ 25:43 • 3h ago
+👁️ 14K • 👍 2K • 💬 133 • ⏱️ 25:43 • 4h ago
 
 ---
 
@@ -415,7 +411,7 @@ Money on the internet is still broken.” David Marcus returns to the show to br
 
 📺 What Bitcoin Did
 
-👁️ 6K • 👍 153 • 💬 113 • ⏱️ 57:24 • 23h ago
+👁️ 6K • 👍 153 • 💬 113 • ⏱️ 57:24 • 1d ago
 
 ---
 

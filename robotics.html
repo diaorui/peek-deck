@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-02T15:25:54.936848+00:00"
+          "dateModified": "2026-05-02T16:10:40.061217+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -783,109 +783,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/" target="_blank" onclick="event.stopPropagation();">Converting a MyCobot 280 URDF to a stable USD + articulation setup in Isaac Sim</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A lot of low-cost robots come with URDFs that don’t translate well into simulation, so having a clean USD + articulation setup makes a big difference if you want reproducibility and stability. I tried importing a MyCobot 280 URDF into Isaac Sim and… it didn’t go well. Geometry was broken, shading was off, and the joints were basically unusable out of the box. Instead of fighting the importer, I ended up rebuilding it properly: – Converted the DAE/Collada assets to USD and cleaned the meshes – Rebuilt the articulation using RigidBody + RevoluteJoint – Set up DriveAPI (stiffness, damping, joint limits) – Validated everything in PhysX – Built a small extension to control the robot from the UI Now it’s a clean, stable robot that behaves correctly and can actually be controlled at joint level. The main goal was to have a proper base for RL / Isaac Lab workflows. If anyone has dealt with similar URDF → USD issues in Isaac / Omniverse, curious how you approached it. https://github.com/dorado-daniel/mycobot_280_usd_isaac_sim
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777728908.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NjFvcms1NXRsa3lnMVs4PlzGkmOZE1U3nRHtx_IktKq9KJ2ghMPXSRyxe_2G.png?width=640&crop=smart&auto=webp&s=6d709275c43804bbb0e5563f3f386807e7582b60" alt="Servo control jitter issues" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/" target="_blank" onclick="event.stopPropagation();">Servo control jitter issues</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- IP ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.02 rads per message. The MCU data handler triggers when new message arrives and send it to a 1 len queue so the servo tasks can go at its frequency without getting conditioned by the latency. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777660667.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0o5ke/thousands_of_robotera_l7_humanoids_to_enter/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/c2Zqd2EyY2hzaHlnMUhEx9OE8Bwqgw8UZlH7a7B09oAQ6LLNx5jrYyAZHtF-.png?width=640&crop=smart&auto=webp&s=f6aac5e728221f5df399237ebd85bfacdf7b64f3" alt="Thousands of RobotEra L7 humanoids to enter service across 10+ logistics centers performing sorting tasks" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t0o5ke/thousands_of_robotera_l7_humanoids_to_enter/" target="_blank" onclick="event.stopPropagation();">Thousands of RobotEra L7 humanoids to enter service across 10+ logistics centers performing sorting tasks</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog/robotera-humanoid-robots-logistics/ This was also reported by Caixing Global, a leading Chinese business outlet www.caixinglobal.com/2026-04-27/robot-era-raises-more-than-200-million-as-chinas-humanoid-robot-race-heats-up-102438549.html
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777626600.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t1j3f5/figures_first_full_hq_tour_from_the_lab_to_the/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -930,6 +827,109 @@
                                         <span>youtube.com</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NjFvcms1NXRsa3lnMVs4PlzGkmOZE1U3nRHtx_IktKq9KJ2ghMPXSRyxe_2G.png?width=640&crop=smart&auto=webp&s=6d709275c43804bbb0e5563f3f386807e7582b60" alt="Servo control jitter issues" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/" target="_blank" onclick="event.stopPropagation();">Servo control jitter issues</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- IP ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.02 rads per message. The MCU data handler triggers when new message arrives and send it to a 1 len queue so the servo tasks can go at its frequency without getting conditioned by the latency. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777660667.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/" target="_blank" onclick="event.stopPropagation();">Converting a MyCobot 280 URDF to a stable USD + articulation setup in Isaac Sim</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A lot of low-cost robots come with URDFs that don’t translate well into simulation, so having a clean USD + articulation setup makes a big difference if you want reproducibility and stability. I tried importing a MyCobot 280 URDF into Isaac Sim and… it didn’t go well. Geometry was broken, shading was off, and the joints were basically unusable out of the box. Instead of fighting the importer, I ended up rebuilding it properly: – Converted the DAE/Collada assets to USD and cleaned the meshes – Rebuilt the articulation using RigidBody + RevoluteJoint – Set up DriveAPI (stiffness, damping, joint limits) – Validated everything in PhysX – Built a small extension to control the robot from the UI Now it’s a clean, stable robot that behaves correctly and can actually be controlled at joint level. The main goal was to have a proper base for RL / Isaac Lab workflows. If anyone has dealt with similar URDF → USD issues in Isaac / Omniverse, curious how you approached it. https://github.com/dorado-daniel/mycobot_280_usd_isaac_sim
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777728908.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0o5ke/thousands_of_robotera_l7_humanoids_to_enter/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/c2Zqd2EyY2hzaHlnMUhEx9OE8Bwqgw8UZlH7a7B09oAQ6LLNx5jrYyAZHtF-.png?width=640&crop=smart&auto=webp&s=f6aac5e728221f5df399237ebd85bfacdf7b64f3" alt="Thousands of RobotEra L7 humanoids to enter service across 10+ logistics centers performing sorting tasks" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t0o5ke/thousands_of_robotera_l7_humanoids_to_enter/" target="_blank" onclick="event.stopPropagation();">Thousands of RobotEra L7 humanoids to enter service across 10+ logistics centers performing sorting tasks</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Mike Kalil a tech/robotics analyst was covering this: https://mikekalil.com/blog/robotera-humanoid-robots-logistics/ This was also reported by Caixing Global, a leading Chinese business outlet www.caixinglobal.com/2026-04-27/robot-era-raises-more-than-200-million-as-chinas-humanoid-robot-race-heats-up-102438549.html
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777626600.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -990,7 +990,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-02T14:29:57.536271+00:00">Updated 2026-05-02T14:29:57.536271+00:00</small>
+        <small data-timestamp="2026-05-02T16:10:21.992543+00:00">Updated 2026-05-02T16:10:21.992543+00:00</small>
     </div>
 </div>
 
@@ -1217,17 +1217,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology" target="_blank" onclick="event.stopPropagation();">Meta Acquires Robotics AI Company to Help Build Humanoid Technology</a>
+                            <a href="https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html" target="_blank" onclick="event.stopPropagation();">Meta acquires robotics AI company to help build humanoid technology</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            (Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1236,9 +1240,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1246,7 +1250,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777654603.0"></span>
+                                    <span data-timestamp="1777658165.0"></span>
                                 </div>
                                 
                             </div>
@@ -1325,6 +1329,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1777712866.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/22/USAT/89725978007-usatsi-25389168.jpg?crop=2800,1575,x806,y920&width=2800&height=1575&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/" target="_blank" onclick="event.stopPropagation();">Is Tesla's pivot to robotics coming at the cost of its car business?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tesla is rolling out plans to build robots and semi trucks to the delight of its investors, but analysts it may be neglecting its core car business.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777721579.0"></span>
                                 </div>
                                 
                             </div>
@@ -1525,47 +1570,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/cathie-woods-robotics-bet-dips-143106546.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/Benzinga/fb4bed497c3e15528e3f12b05c1dbf02');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/markets/stocks/articles/cathie-woods-robotics-bet-dips-143106546.html" target="_blank" onclick="event.stopPropagation();">Cathie Wood's Robotics Bet Dips After 350% Run — JPMorgan Says Buy</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Cathie Wood has a $722 million reason to pay attention to the latest move in Teradyne, Inc.. Her funds hold about 2.36 million shares, a position worth roughly $722 million and over 5% of the portfolio, with an average entry price near $87. That conviction has already paid off. The stock surged roughly 350% from $65.77 in April 2025 to a peak of $422.11 in April 2026 — before pulling back sharply in recent sessions. Now, the dip is back in focus. From Breakout To Pullback After an extended run,
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777645866.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1586,7 +1590,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-02T14:30:14.219731+00:00">Updated 2026-05-02T14:30:14.219731+00:00</small>
+        <small data-timestamp="2026-05-02T16:10:38.552282+00:00">Updated 2026-05-02T16:10:38.552282+00:00</small>
     </div>
 </div>
 

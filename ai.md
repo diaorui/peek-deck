@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-02T15:25:55.350932+00:00'
+updated: '2026-05-02T16:10:40.404079+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 02, 2026 at 15:25 UTC  
+**Last Updated:** May 02, 2026 at 16:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned. The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're "back to the drawing board" on AI budgeting for next year. What's notable is what this implies for the industry. Most enterprises are still treating AI coding tools as a line item they can forecast like a SaaS seat license - fixed cost, predictable renewal. Uber's experience suggests the actual cost driver is adoption intensity, not seat count. A team that uses Claude Code heavily for multi-step agentic work generates orders of magnitude more API spend than one that uses Copilot for autocomplete. The companies that haven't hit this wall yet probably will. Uber's R&D spend is $3.4B annually, so even at the high end this is manageable for them. For a smaller engineering org, an unforecast 4x budget overrun on AI tooling could genuinely disrupt hiring or infrastructure plans. The interesting question isn't whether this is worth the cost - Uber clearly thinks it is or they'd restrict access. It's whether the productivity gains have been measured in a way that's comparable to the spend. Has your company tried to put actual numbers on the AI coding ROI, or is it mostly vibes and velocity estimates?
 
-4h ago
+5h ago
+
+---
+
+**[Claude mythos preview GameJam contestant](https://www.reddit.com/r/artificial/comments/1t1svme/claude_mythos_preview_gamejam_contestant/)**
+
+Claude was able to create this Indie Game Jam Challenge with simple user guided prompts in the Godong engine with Mythos Preview with Zero training on the Godong engine.
+
+45m ago
 
 ---
 
@@ -49,7 +57,23 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
 
-🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 17h ago
+🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 18h ago
+
+---
+
+**[AIWire, daily AI news from trusted sources only, so the noise never reaches your feed](https://www.reddit.com/r/artificial/comments/1t1t7lq/aiwire_daily_ai_news_from_trusted_sources_only_so/)**
+
+Hello people! AI moves fast. Keeping up with it means checking Twitter, Reddit, newsletters, and a dozen tech blogs every day, most of which are noise anyway. I built AIWire to cut through that. It aggregates the most important AI stories from trusted sources across the web and updates daily, so you have one place to check instead of ten. No random blogs. No Twitter threads. No low-quality reposts. Just the stories that came from sources worth reading. What it does: - Aggregates top AI news daily from trusted, established sources - No account, no sign-up, completely free - Updates automatically, just open and read - Clean feed, no ads cluttering the content Live at aiwire.app Feedback is always welcome, always looking to improve the source list and coverage.
+
+33m ago
+
+---
+
+**[I got tired of memory systems that break when you spin up new agents or fail to track sub-agent sessions properly.](https://www.reddit.com/r/artificial/comments/1t1qlyw/i_got_tired_of_memory_systems_that_break_when_you/)**
+
+So I built heurchain—a memory layer that: - Works seamlessly with Hermes and any other agents in your stack - Persists across agent creation/destruction (no more memory amnesia) - Gives each sub-agent its own session tracking automatically - Integrates in ~5 lines of code npm i heurchain https://www.npmjs.com/package/heurchain Would love feedback from anyone working with multi-agent systems.
+
+2h ago
 
 ---
 
@@ -61,6 +85,14 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 ---
 
+**[Built an open-source runtime layer to stop AI agents before they overspend or take risky actions — looking for feedback](https://www.reddit.com/r/artificial/comments/1t1ti2x/built_an_opensource_runtime_layer_to_stop_ai/)**
+
+If you’re experimenting with AI agents, you’ve probably run into this problem: once an agent starts calling tools, APIs, models, email systems, databases, or jobs, it can become hard to control what happens next. Permissions answer: “Can this agent use this tool at all?” Rate limits answer: “How fast can it call it?” But agents fail in a different way. They retry, loop, fan out, call expensive models, send too many emails, trigger jobs or keep acting after the run has already gone off track. I built Cycles to tackle this problem. It’s an open-source runtime authority layer for AI agents. Before an agent takes a costly or risky action, Cycles checks whether that action is still within the allowed budget or policy. If yes, it reserves the allowance, the action runs, and then the agent commits what actually happened. If not, the action is blocked before execution. The goal is to make agent execution safer under: runaway retry loops unexpected model/API spend multi-step agent workflows concurrent agents sharing the same budget per-user / per-tenant limits risky actions like emails, DB writes, API calls, or job triggers This is not meant to replace observability or tracing. Those are still useful. The gap is the moment before execution, not after the bill or side effect already happened. Repo: https://github.com/runcycles Curious how others here are handling this today: Do you gate agent actions before execution? Do you rely mostly on logs / alerts after the fact? Would a reserve → execute → commit model be useful in real agent systems, or does it feel like too much infrastructure too early?
+
+21m ago
+
+---
+
 **[China Bans AI Layoffs as Nvidia CEO Says AI Created 500K Jobs in 2 Years](https://www.reddit.com/r/artificial/comments/1t0tk5q/china_bans_ai_layoffs_as_nvidia_ceo_says_ai/)**
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
@@ -69,19 +101,11 @@ China just banned firing workers for AI while Nvidia's CEO claims AI created ove
 
 ---
 
-**[I got tired of memory systems that break when you spin up new agents or fail to track sub-agent sessions properly.](https://www.reddit.com/r/artificial/comments/1t1qlyw/i_got_tired_of_memory_systems_that_break_when_you/)**
-
-So I built heurchain—a memory layer that: - Works seamlessly with Hermes and any other agents in your stack - Persists across agent creation/destruction (no more memory amnesia) - Gives each sub-agent its own session tracking automatically - Integrates in ~5 lines of code npm i heurchain https://www.npmjs.com/package/heurchain Would love feedback from anyone working with multi-agent systems.
-
-1h ago
-
----
-
 **[Built an open-source tool to manage AI agent configs — 888 stars later, asking the AI community for feedback](https://www.reddit.com/r/artificial/comments/1t1o3qa/built_an_opensource_tool_to_manage_ai_agent/)**
 
 Hey r/artificial! If you use AI coding agents — Cursor, Claude Code, GitHub Copilot, Gemini CLI — you probably know how much those configuration files matter. The instructions you give your agent define how well it understands your project. The problem: those files (`CLAUDE.md`, `.cursor/rules`, `AGENTS.md`, etc.) are totally unmanaged. They live in random project folders with no versioning, no sharing, no discoverability. I built Caliber to fix that. It's an open-source AI agent configuration manager — a registry where you can: - Store and version your agent configs - Share configs with your team or publicly - Discover what configs other developers are using - Roll back agent instructions that aren't working We just crossed 888 GitHub stars and nearly 100 forks, which has been incredibly motivating. For those experimenting with AI agents: what does your current config setup look like? Do you actually maintain your `CLAUDE.md` / `.cursor/rules`? Would a centralized registry for these configs be useful to you? Repo: https://github.com/caliber-ai/caliber Feedback and feature requests very welcome!
 
-3h ago
+4h ago
 
 ---
 
@@ -93,41 +117,9 @@ AI companies are subsidizing access the same way Uber subsidized rides and AWS s
 
 ---
 
-**[We open-sourced our AI agent config management tool — 888 stars, nearly 100 forks — requesting community feedback](https://www.reddit.com/r/artificial/comments/1t1l564/we_opensourced_our_ai_agent_config_management/)**
-
-We've been building Caliber to solve AI agent configuration management and released our full setup as open source. The response has been great — 888 GitHub stars and approaching 100 forks. Repo: https://github.com/caliber-ai-org/ai-setup The problem: every team integrating LLMs/AI agents ends up rebuilding the same config infrastructure — API key management, model selection logic, fallback chains, rate limiting configs. There's no standard. We tried to build that standard and open-source it. Key things in the repo: - Structured config schemas for AI agents - Multi-model fallback configuration - Environment isolation patterns - Observability and health check hooks We'd love feedback from the community: - What AI agent config challenges aren't covered here? - What features would make this genuinely useful for your projects? - Any integrations (LangChain, AutoGPT, etc.) you'd want to see? This is a community project — PRs and feature requests are very welcome.
-
-5h ago
-
----
-
-**[The open-source AI agent config repo the community has been building just hit 888 stars — asking for feedback & feature ideas](https://www.reddit.com/r/artificial/comments/1t1kyx5/the_opensource_ai_agent_config_repo_the_community/)**
-
-Over the past year our team and community have been building an open-source collection of AI agent configs: production-ready system prompts, tool-calling schemas, RAG setups, multi-agent orchestration patterns, and model-specific tuning files. Repo: https://github.com/caliber-ai-org/ai-setup This week it crossed 888 GitHub stars and nearly 100 forks. All free, no paywall, no product to sell. What's in there: - System prompt templates across GPT-4o, Claude 3.5/3.7, Gemini 2.5 Pro - Tool-use and function calling schemas for agentic workflows - LangChain / LangGraph agent setup configs - RAG pipeline configurations with different retrieval strategies - Ollama and local model setups - CLAUDE.md / AGENTS.md templates for coding agent contexts - Multi-agent orchestration patterns We'd love to hear from this community: What AI agent patterns are you using that you'd want to see in the repo? What's missing that would make this genuinely useful to you? What setups have you found work well in production? All feedback and contributions are welcome.
-
-6h ago
-
----
-
-**[Pentagon inks deals with seven AI companies for classified military work | Trump administration](https://www.reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/)**
-
-Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance
-
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 16h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[AI finds signs of pancreatic cancer before tumors develop](https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099)**
-
-An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed. It's being evaluated in a clinical trial.
-
-NBC News • 5h ago
-
----
 
 **[A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)**
 
@@ -137,25 +129,33 @@ WIRED • 19h ago
 
 ---
 
-**[Kentucky Derby prediction: We asked AI to simulate the 2026 Run for the Roses. Here's who won — and it wasn't the favorite Renegade](https://sports.yahoo.com/horse-racing/article/kentucky-derby-prediction-we-asked-ai-to-simulate-the-2026-run-for-the-roses-heres-who-won--and-it-wasnt-the-favorite-renegade-024635269.html)**
+**[AI music is flooding streaming platforms. But listeners like it less and less](https://www.npr.org/2026/05/02/nx-s1-5804489/music-listeners-dislike-ai-music-study)**
 
-We asked AI to simulate the race using the present odds, draw and potential track conditions.
+Music fans are becoming increasingly uncomfortable with AI songs, according to a recent study.
 
-Yahoo Sports • 2h ago
-
----
-
-**[My AI Matchmaker Let Me Down](https://www.theatlantic.com/ideas/2026/05/ai-matchmaker-dating-app/687038/)**
-
-Is this the future of online dating?
-
-The Atlantic • 4h ago
+NPR • 7h ago
 
 ---
 
-**[Poll: GOP voters skeptical of AI as Trump steams ahead](https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754)**
+**[The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)**
 
-Politico • 4h ago
+AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice
+
+TechCrunch • 10m ago
+
+---
+
+**[Warren Buffett's exit as CEO doesn't mean Berkshire is going all-in on AI, Greg Abel says](https://www.businessinsider.com/warren-buffett-greg-abel-berkshire-meeting-ai-tech-investing-says-2026-5)**
+
+Greg Abel said that Berkshire Hathaway would embrace AI judiciously, striking a different tone from many more bombastic tech CEOs.
+
+Business Insider • 25m ago
+
+---
+
+**[Physicians benefit from AI when making nuanced clinical decisions, study shows](https://medicalxpress.com/news/2026-04-physicians-benefit-ai-nuanced-clinical.html)**
+
+Medical Xpress • 10m ago
 
 ---
 
@@ -165,11 +165,19 @@ The New York Times • 1d ago
 
 ---
 
-**[AI music is flooding streaming platforms. But listeners like it less and less](https://www.npr.org/2026/05/02/nx-s1-5804489/music-listeners-dislike-ai-music-study)**
+**[Kentucky Derby prediction: We asked AI to simulate the 2026 Run for the Roses. Here's who won — and it wasn't the favorite Renegade](https://sports.yahoo.com/horse-racing/article/kentucky-derby-prediction-we-asked-ai-to-simulate-the-2026-run-for-the-roses-heres-who-won--and-it-wasnt-the-favorite-renegade-024635269.html)**
 
-Music fans are becoming increasingly uncomfortable with AI songs, according to a recent study.
+We asked AI to simulate the race using the present odds, draw and potential track conditions.
 
-NPR • 6h ago
+Yahoo Sports • 3h ago
+
+---
+
+**['Everyone’s a Line On a Spreadsheet:' Inside Oracle’s Mass Layoffs and the Workers Fighting Back](https://time.com/article/2026/04/30/oracle-layoffs-ai-tech-jobs/)**
+
+As Oracle slashes jobs, some workers say they were helping develop the AI that displaced them.
+
+Time Magazine • 23h ago
 
 ---
 
@@ -179,19 +187,11 @@ Axios • 6h ago
 
 ---
 
-**['Everyone’s a Line On a Spreadsheet:' Inside Oracle’s Mass Layoffs and the Workers Fighting Back](https://time.com/article/2026/04/30/oracle-layoffs-ai-tech-jobs/)**
+**[AI finds signs of pancreatic cancer before tumors develop](https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099)**
 
-As Oracle slashes jobs, some workers say they were helping develop the AI that displaced them.
+An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed. It's being evaluated in a clinical trial.
 
-Time Magazine • 22h ago
-
----
-
-**[Trump’s tariff-friendly White House celebrates these foreign imports](https://www.washingtonpost.com/business/2026/05/02/trump-trade-ai-foreign-imports/)**
-
-Ground zero for the artificial intelligence boom may lie in the U.S. But the gargantuan investment flows involved are spilling well beyond U.S. borders.
-
-The Washington Post • 1h ago
+NBC News • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 460 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 461 • 💬 177 • 2d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -219,21 +219,13 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 386 • 💬 456 • 23h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 390 • 💬 459 • 1d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
-⬆️ 381 • 💬 360 • 22h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
-
----
-
-**[Why AI companies want you to be afraid of them](https://news.ycombinator.com/item?id=47949750)**
-
-They built it. They're scared of it. They're selling it anyway.
-
-⬆️ 287 • 💬 220 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+⬆️ 384 • 💬 363 • 22h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -241,7 +233,7 @@ They built it. They're scared of it. They're selling it anyway.
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 248 • 💬 273 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 253 • 💬 283 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -275,6 +267,14 @@ Experience the real-world sounds of AI with this interactive audio generator.
 Assess and monitor risk from AI in vendors with novel intelligence on emerging threats. Stay ahead of AI-driven third-party risk with continuous moitoring and adaptive insight.
 
 ⬆️ 143 • 💬 50 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
+
+---
+
+**[The More Young People Use AI, the More They Hate It](https://news.ycombinator.com/item?id=47963163)**
+
+﻿Caught between fears of job loss and social stigma, Gen Z’s opinions of AI are hitting new lows.
+
+⬆️ 125 • 💬 139 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
 
 ---
 
@@ -338,7 +338,7 @@ Sen. Dave McCormick, R-Pa., condemns Sen. Bernie Sanders', I-Vt., controversial 
 
 📺 Fox Business
 
-👁️ 20K • 👍 477 • 💬 65 • ⏱️ 9:46 • 22h ago
+👁️ 20K • 👍 477 • 💬 65 • ⏱️ 9:46 • 23h ago
 
 ---
 
@@ -358,7 +358,7 @@ The AI revolution isn't coming; it's already here, and it's moving faster than a
 
 📺 Anthony Scaramucci
 
-👁️ 31K • 👍 1K • 💬 209 • ⏱️ 27:44 • 2d ago
+👁️ 31K • 👍 1K • 💬 209 • ⏱️ 27:44 • 3d ago
 
 ---
 
@@ -368,7 +368,7 @@ LinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/
 
 📺 Eli the Computer Guy
 
-👁️ 6K • 👍 260 • 💬 83 • ⏱️ 16:48 • 22h ago
+👁️ 6K • 👍 260 • 💬 83 • ⏱️ 16:48 • 23h ago
 
 ---
 
@@ -454,7 +454,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 8,492 • ❤️ 214 • 7h ago
+⬇️ 8,492 • ❤️ 214 • 8h ago
 
 ---
 
@@ -659,7 +659,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 11h ago
+⭐ 50.7k • 🔱 6.7k • 12h ago
 
 ---
 
@@ -679,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 40.4k • 🔱 4.5k • 52m ago
+⭐ 40.4k • 🔱 4.5k • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.5k • 🔱 618 • 4d ago
+⭐ 9.5k • 🔱 618 • 5d ago
 
 ---
 
@@ -739,7 +739,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.9k • 🔱 364 • 14h ago
+⭐ 4.9k • 🔱 364 • 15h ago
 
 ---
 
