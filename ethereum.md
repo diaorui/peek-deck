@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T22:42:33.137141+00:00'
+updated: '2026-05-02T23:44:42.852865+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 22:42 UTC  
+**Last Updated:** May 02, 2026 at 23:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -2.0%  
-**30d:** +13.1%  
-**90d:** -1.0%  
-**1y:** +26.7%  
+**24h:** +0.9%  
+**7d:** -2.2%  
+**30d:** +12.9%  
+**90d:** -1.2%  
+**1y:** +26.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.89B
+**Market Cap:** $279.73B
 Rank #2
 
 **Circulating Supply:** 120,687,481 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.1%
 
 **All-Time Low:** $0.43
-+533660.3%
++535198.5%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 7h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 9h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 10h ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
+
+For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
@@ -166,15 +174,29 @@ CoinDesk • 1d ago
 
 ---
 
-**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
+**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine)**
 
-TipRanks • 2d ago
+For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+
+Decrypt • 1d ago
+
+---
+
+**[Bitmine’s Record Ethereum Hoard Raises Concentration Risk And Staking Reward Questions](https://simplywall.st/stocks/us/software/nyse-bmnr/bitmine-immersion-technologies/news/bitmines-record-ethereum-hoard-raises-concentration-risk-and)**
+
+Bitmine Immersion Technologies (NYSE:BMNR) has completed a direct purchase of 10,000 ETH from the Ethereum Foundation.
+The company disclosed its largest weekly Ethereum acquisition of the year, buying more than 101,000 ETH in a single week.
+Bitmine’s treasury now holds over 5,000,000 ETH, representing more than 4% of global Ethereum supply.
+
+Bitmine Immersion Technologies operates as an institutional-scale digital asset player, and its growing Ethereum position sits at the center of that...
+
+simplywall.st • 2h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 9h ago
+ethereum.org • 10h ago
 
 ---
 
@@ -186,19 +208,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-morning-113211522.html)**
+**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
 
-Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
+Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
 
-Yahoo Finance • 1d ago
-
----
-
-**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
-
-Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
-
-The Motley Fool • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -206,7 +220,7 @@ The Motley Fool • 2d ago
 
 Ethereum faces downward pressure due to geopolitical and macroeconomic challenges. Ethereum at $5,000 in May priced at 0.1% YES.
 
-Crypto Briefing • 7m ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -218,15 +232,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 883 • 👍 67 • 💬 10 • ⏱️ 15:33 • 3h ago
+
+---
 
 **[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
 
@@ -234,37 +252,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 785 • 👍 58 • 💬 26 • ⏱️ 15:10 • 8h ago
-
----
-
-**[🚨BREAKING: Tom Lee Just Went All In ETHEREUM](https://www.youtube.com/watch?v=yn0YDq449I8)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 208 • 💬 41 • ⏱️ 12:11 • 1d ago
-
----
-
-**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 69 • 💬 17 • ⏱️ 8:12 • 1d ago
-
----
-
-**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
-
-Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 223 • 💬 10 • ⏱️ 10:19 • 19h ago
+👁️ 1K • 👍 65 • 💬 10 • ⏱️ 15:10 • 9h ago
 
 ---
 
@@ -274,7 +262,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 176 • 👍 10 • 💬 1 • ⏱️ 5:42 • 13h ago
+👁️ 210 • 👍 10 • 💬 1 • ⏱️ 5:42 • 14h ago
+
+---
+
+**[🚨BREAKING: Tom Lee Just Went All In ETHEREUM](https://www.youtube.com/watch?v=yn0YDq449I8)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 210 • 💬 41 • ⏱️ 12:11 • 1d ago
+
+---
+
+**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 70 • 💬 19 • ⏱️ 8:12 • 1d ago
+
+---
+
+**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
+
+Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 230 • 💬 10 • ⏱️ 10:19 • 20h ago
 
 ---
 
@@ -284,27 +302,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 209 • 💬 39 • ⏱️ 9:18 • 2d ago
+👁️ 4K • 👍 209 • 💬 40 • ⏱️ 9:18 • 2d ago
 
 ---
 
-**[BMNR TOO BIG? Bitmine’s $13B Ethereum Strategy Explained](https://www.youtube.com/watch?v=Fw5OK47yD6c)**
+**[$147M Into ETH: Tom Lee&#39;s Move + My BMNR &amp; MSTR Chart Breakdown](https://www.youtube.com/watch?v=dgDDwGNiNBA)**
 
-In this video, we break down the latest developments around Bitmine (BMNR) and its growing Ethereum position. The company ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 BiGB Stcok
+📺 MONEY GAME
 
-👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 1d ago
-
----
-
-**[New Ethereum Coin Annoucement, Rush In Now | Prophetic Insight | Collins Ewienose #ethereum #bullrun](https://www.youtube.com/watch?v=dheiPqeK7vI)**
-
-Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7MgY7UmUm27p Those interested in Lion ...
-
-📺 World View
-
-👁️ 816 • 👍 65 • 💬 20 • ⏱️ 16:59 • 9h ago
+👁️ 5K • 👍 137 • 💬 19 • ⏱️ 24:23 • 1d ago
 
 ---
 
@@ -314,17 +322,17 @@ Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7
 
 📺 MoneyRadar Crypto
 
-👁️ 8K • 👍 517 • 💬 37 • ⏱️ 15:24 • 1d ago
+👁️ 8K • 👍 525 • 💬 39 • ⏱️ 15:24 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opQ-6h0jiEA)**
+**[New Ethereum Coin Annoucement, Rush In Now | Prophetic Insight | Collins Ewienose #ethereum #bullrun](https://www.youtube.com/watch?v=dheiPqeK7vI)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7MgY7UmUm27p Those interested in Lion ...
 
-📺 Crypto Gyan
+📺 World View
 
-👁️ 682 • 👍 53 • ⏱️ 6:42 • 9h ago
+👁️ 989 • 👍 69 • 💬 22 • ⏱️ 16:59 • 10h ago
 
 ---
 
