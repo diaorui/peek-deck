@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T19:34:27.739573+00:00'
+updated: '2026-05-02T20:42:33.359914+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 19:34 UTC  
+**Last Updated:** May 02, 2026 at 20:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +0.9%  
 **7d:** -2.4%  
 **30d:** +12.6%  
 **90d:** -1.4%  
-**1y:** +26.2%  
+**1y:** +26.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.25B
+**Market Cap:** $278.89B
 Rank #2
 
 **Circulating Supply:** 120,687,481 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.4%
+-53.3%
 
 **All-Time Low:** $0.43
-+532177.5%
++533660.3%
 
 ---
 
@@ -72,21 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 4h ago
-
----
-
-**[Cheapest way to swap large amounts of ETH to USDC](https://www.reddit.com/r/ethereum/comments/1t1sryt/cheapest_way_to_swap_large_amounts_of_eth_to_usdc/)**
-
-Past a certain size Uniswap slippage gets bad enough that the rate difference matters more than the gas. Been looking at aggregators that split across multiple liquidity sources but not sure which ones actually deliver on that at scale. What are people using when moving anything above $2k, genuinely curious
-
-4h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 5h ago
 
 ---
 
@@ -94,7 +86,7 @@ Past a certain size Uniswap slippage gets bad enough that the rate difference ma
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 6h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 7h ago
 
 ---
 
@@ -118,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-22h ago
+23h ago
 
 ---
 
@@ -143,6 +135,14 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
 🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 1d ago
+
+---
+
+**[Daily General Discussion April 30, 2026](https://www.reddit.com/r/ethereum/comments/1szmeic/daily_general_discussion_april_30_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
 
 ---
 
@@ -174,7 +174,7 @@ TipRanks • 2d ago
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 6h ago
+ethereum.org • 7h ago
 
 ---
 
@@ -194,11 +194,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
+**[This Cryptocurrency Could Skyrocket 2,500%, According to a Top Wall Street Strategist](https://www.fool.com/investing/2026/04/30/this-cryptocurrency-could-skyrocket-2500-according/)**
 
-Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
+Can a cryptocurrency that's down 50% over the past eight months suddenly turn things around and hit a new all-time high?
 
-FXStreet • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ FXStreet • 1d ago
 
 OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Crypto Briefing • 17h ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -220,7 +220,7 @@ Forbes • 2d ago
 
 Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -234,27 +234,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 465 • 👍 47 • 💬 7 • ⏱️ 15:10 • 5h ago
-
----
-
-**[Ethereum Is Making A Super Rare Move - Here&#39;s My Plan](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 4K • 👍 208 • 💬 39 • ⏱️ 9:18 • 2d ago
-
----
-
-**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
-
-Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 215 • 💬 10 • ⏱️ 10:19 • 16h ago
+👁️ 785 • 👍 58 • 💬 26 • ⏱️ 15:10 • 6h ago
 
 ---
 
@@ -264,7 +244,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 207 • 💬 41 • ⏱️ 12:11 • 1d ago
+👁️ 2K • 👍 208 • 💬 41 • ⏱️ 12:11 • 1d ago
 
 ---
 
@@ -274,27 +254,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 69 • 💬 15 • ⏱️ 8:12 • 1d ago
+👁️ 2K • 👍 69 • 💬 17 • ⏱️ 8:12 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opQ-6h0jiEA)**
+**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 479 • 👍 51 • ⏱️ 6:42 • 6h ago
+👁️ 3K • 👍 223 • 💬 10 • ⏱️ 10:19 • 17h ago
 
 ---
 
-**[New Ethereum Coin Annoucement, Rush In Now | Prophetic Insight | Collins Ewienose #ethereum #bullrun](https://www.youtube.com/watch?v=dheiPqeK7vI)**
+**[LONG-TERM ETHEREUM PREDICTION🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xBw2I5cGf-8)**
 
-Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7MgY7UmUm27p Those interested in Lion ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 World View
+📺 Cilinix Crypto
 
-👁️ 621 • 👍 59 • 💬 20 • ⏱️ 16:59 • 6h ago
+👁️ 176 • 👍 10 • 💬 1 • ⏱️ 5:42 • 11h ago
+
+---
+
+**[Ethereum Is Making A Super Rare Move - Here&#39;s My Plan](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 209 • 💬 39 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -304,27 +294,37 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 BiGB Stcok
 
-👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 21h ago
+👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 22h ago
 
 ---
 
-**[$147M Into ETH: Tom Lee&#39;s Move + My BMNR &amp; MSTR Chart Breakdown](https://www.youtube.com/watch?v=dgDDwGNiNBA)**
+**[New Ethereum Coin Annoucement, Rush In Now | Prophetic Insight | Collins Ewienose #ethereum #bullrun](https://www.youtube.com/watch?v=dheiPqeK7vI)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7MgY7UmUm27p Those interested in Lion ...
 
-📺 MONEY GAME
+📺 World View
 
-👁️ 5K • 👍 133 • 💬 19 • ⏱️ 24:23 • 1d ago
+👁️ 816 • 👍 65 • 💬 20 • ⏱️ 16:59 • 7h ago
 
 ---
 
-**[How Ethereum (ETH) Is Traded by AI Bot (Crypto Trading Explained)](https://www.youtube.com/watch?v=xYX4jS_-m-o)**
+**[🚨 La fondation Ethereum implose : faut-il vendre ?](https://www.youtube.com/watch?v=n7SGKGaFkpM)**
 
-This system: tapy.ws/minecore Most traders focus on charts - but automated systems approach ETH trading very differently.
+50 000 € à gagner sur Bitpanda : https://bitpanda.pxf.io/c/5654847/2334692/15871?subId1=MoneyRadar Notre Newsletter ...
 
-📺 Gordon Web3
+📺 MoneyRadar Crypto
 
-👁️ 147 • 👍 90 • 💬 89 • ⏱️ 5:59 • 9h ago
+👁️ 8K • 👍 517 • 💬 37 • ⏱️ 15:24 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opQ-6h0jiEA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 682 • 👍 53 • ⏱️ 6:42 • 7h ago
 
 ---
 

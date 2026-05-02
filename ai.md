@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-02T19:34:27.725208+00:00'
+updated: '2026-05-02T20:42:33.345521+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 02, 2026 at 19:34 UTC  
+**Last Updated:** May 02, 2026 at 20:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Every country needs to do this asap](https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned. The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're "back to the drawing board" on AI budgeting for next year. What's notable is what this implies for the industry. Most enterprises are still treating AI coding tools as a line item they can forecast like a SaaS seat license - fixed cost, predictable renewal. Uber's experience suggests the actual cost driver is adoption intensity, not seat count. A team that uses Claude Code heavily for multi-step agentic work generates orders of magnitude more API spend than one that uses Copilot for autocomplete. The companies that haven't hit this wall yet probably will. Uber's R&D spend is $3.4B annually, so even at the high end this is manageable for them. For a smaller engineering org, an unforecast 4x budget overrun on AI tooling could genuinely disrupt hiring or infrastructure plans. The interesting question isn't whether this is worth the cost - Uber clearly thinks it is or they'd restrict access. It's whether the productivity gains have been measured in a way that's comparable to the spend. Has your company tried to put actual numbers on the AI coding ROI, or is it mostly vibes and velocity estimates?
 
-8h ago
+9h ago
 
 ---
 
@@ -55,7 +55,7 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Full multiplayer support for up to 6 players with VoIP All made with ThreeJS and Colyseus https://spellwright.xyz/
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Ful
 
 I was surprised they haven’t already been ticketing them, but also…why would an AI break traffic laws, and is there even a case of this happening?
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 58m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 2h ago
 
 ---
 
@@ -71,23 +71,7 @@ I was surprised they haven’t already been ticketing them, but also…why would
 
 With no unions to slow the collision and scant regulation to cushion the aftermath, India has become the world's most consequential live experiment in AI filmmaking — and the results may preview the future of cinema everywhere.
 
-🔗 [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/?utm_source=firefox-newtab-en-intl) • 1h ago
-
----
-
-**[Senate Judiciary Committee Advances Hawley's GUARD Act, Mandating ID Verification for AI Chatbot Users](https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/)**
-
-Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
-
-🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 21h ago
-
----
-
-**[AIWire, daily AI news from trusted sources only, so the noise never reaches your feed](https://www.reddit.com/r/artificial/comments/1t1t7lq/aiwire_daily_ai_news_from_trusted_sources_only_so/)**
-
-Hello people! AI moves fast. Keeping up with it means checking Twitter, Reddit, newsletters, and a dozen tech blogs every day, most of which are noise anyway. I built AIWire to cut through that. It aggregates the most important AI stories from trusted sources across the web and updates daily, so you have one place to check instead of ten. No random blogs. No Twitter threads. No low-quality reposts. Just the stories that came from sources worth reading. What it does: - Aggregates top AI news daily from trusted, established sources - No account, no sign-up, completely free - Updates automatically, just open and read - Clean feed, no ads cluttering the content Live at aiwire.app Feedback is always welcome, always looking to improve the source list and coverage.
-
-3h ago
+🔗 [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/?utm_source=firefox-newtab-en-intl) • 3h ago
 
 ---
 
@@ -95,7 +79,23 @@ Hello people! AI moves fast. Keeping up with it means checking Twitter, Reddit, 
 
 Claude was able to create this Indie Game Jam Challenge with simple user guided prompts in the Godong engine with Mythos Preview with Zero training on the Godong engine.
 
-4h ago
+5h ago
+
+---
+
+**[Senate Judiciary Committee Advances Hawley's GUARD Act, Mandating ID Verification for AI Chatbot Users](https://www.reddit.com/r/artificial/comments/1t16w2v/senate_judiciary_committee_advances_hawleys_guard/)**
+
+Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
+
+🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 23h ago
+
+---
+
+**[AIWire, daily AI news from trusted sources only, so the noise never reaches your feed](https://www.reddit.com/r/artificial/comments/1t1t7lq/aiwire_daily_ai_news_from_trusted_sources_only_so/)**
+
+Hello people! AI moves fast. Keeping up with it means checking Twitter, Reddit, newsletters, and a dozen tech blogs every day, most of which are noise anyway. I built AIWire to cut through that. It aggregates the most important AI stories from trusted sources across the web and updates daily, so you have one place to check instead of ten. No random blogs. No Twitter threads. No low-quality reposts. Just the stories that came from sources worth reading. What it does: - Aggregates top AI news daily from trusted, established sources - No account, no sign-up, completely free - Updates automatically, just open and read - Clean feed, no ads cluttering the content Live at aiwire.app Feedback is always welcome, always looking to improve the source list and coverage.
+
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Claude was able to create this Indie Game Jam Challenge with simple user guided 
 
 I am paying 50$ who help start AI model journey? I have basic face pics around 8-10. Now i need video contents with the same character. Problemalistico, is that all the nano banana, and other staff can not copy the same face. And I want that same face. Any help i apprecite guys. My first work, amd i just try and try and nothing works.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am paying 50$ who help start AI model journey? I have basic face pics around 8
 
 So I built heurchain—a memory layer that: - Works seamlessly with Hermes and any other agents in your stack - Persists across agent creation/destruction (no more memory amnesia) - Gives each sub-agent its own session tracking automatically - Integrates in ~5 lines of code npm i heurchain https://www.npmjs.com/package/heurchain Would love feedback from anyone working with multi-agent systems.
 
-5h ago
+6h ago
 
 ---
 
@@ -119,39 +119,55 @@ So I built heurchain—a memory layer that: - Works seamlessly with Hermes and a
 
 ## Google News: "ai"
 
-**[Trump shares bizarre AI-generated image of himself lounging in Lincoln Memorial reflecting pool with Cabinet members](https://www.yahoo.com/news/articles/trump-shares-bizarre-ai-generated-165543841.html)**
+**[Trump’s tariff-friendly White House celebrates these imports](https://www.washingtonpost.com/business/2026/05/02/trump-trade-ai-foreign-imports/)**
+
+Ground zero for the artificial intelligence boom may lie in the U.S. But the gargantuan investment flows involved are spilling well beyond U.S. borders.
+
+The Washington Post • 4h ago
+
+---
+
+**[Trump shares bizarre AI-generated image of himself lounging in Lincoln Memorial reflecting pool with Cabinet members](https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-image-cabinet-reflecting-pool-b2969483.html)**
 
 Trump’s odd AI image came on the same day the Lincoln Memorial Reflecting Pool renovation site was vandalized with graffiti
 
-Yahoo • 2h ago
+The Independent • 2h ago
 
 ---
 
 **[Poll: Job losses, China threats split GOP on Trump’s AI agenda](https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754)**
 
-Politico • 8h ago
-
----
-
-**[‘I found the swamp’: Trump’s latest bizarre AI post sparks fresh ridicule and renews 25th amendment calls](https://www.indy100.com/politics/trump/trump-ai-mount-rushmore-lincoln-memorial)**
-
-US president Donald Trump’s obsession with images generated using artificial intelligence (AI) is well-documented, with past controversies surrounding his use of the technology including the times when he shared a graphic depicting him as the Pope, and one depicting himself as Jesus (which he later ...
-
-Indy100 • 4h ago
+Politico • 9h ago
 
 ---
 
 **[AI threatens Big Law's talent pipeline](https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
-**[Kentucky Derby prediction: We asked AI to simulate the 2026 Run for the Roses. Here's who won — and it wasn't the favorite Renegade](https://sports.yahoo.com/horse-racing/article/kentucky-derby-prediction-we-asked-ai-to-simulate-the-2026-run-for-the-roses-heres-who-won--and-it-wasnt-the-favorite-renegade-024635269.html)**
+**[Man Used AI to Build Translation App to Talk with Japanese-Speaking Girlfriend](https://people.com/man-used-ai-to-build-translation-app-to-talk-with-japanese-speaking-girlfriend-11964295)**
 
-We asked AI to simulate the race using the present odds, draw and potential track conditions.
+A native Mandarin speaker built a translation app specifically designed to meet the needs of couples so that he could communicate with his Japanese-speaking girlfriend. The app uses a memory feature to accurately communicate inside jokes, pet names and quirks.
 
-Yahoo Sports • 6h ago
+People.com • 42m ago
+
+---
+
+**[In the PR battle for AI data centers, tech giants got a blue-collar ally](https://www.adn.com/nation-world/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/)**
+
+Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America’s artificial intelligence economy.
+
+Anchorage Daily News • 44m ago
+
+---
+
+**[‘Never f–king guess’: AI agent confesses why it went haywire and deleted company database](https://nypost.com/2026/05/02/tech/ai-agent-goes-rogue-deletes-companys-entire-database/)**
+
+More like Clod AI.
+
+New York Post • 17m ago
 
 ---
 
@@ -159,15 +175,15 @@ Yahoo Sports • 6h ago
 
 As the law stands now, your AI conversations can find their way from a computer into the courtroom.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
-**[Trump’s tariff-friendly White House celebrates these imports](https://www.washingtonpost.com/business/2026/05/02/trump-trade-ai-foreign-imports/)**
+**[Kentucky Derby prediction: We asked AI to simulate the 2026 Run for the Roses. Here's who won — and it wasn't the favorite Renegade](https://sports.yahoo.com/horse-racing/article/kentucky-derby-prediction-we-asked-ai-to-simulate-the-2026-run-for-the-roses-heres-who-won--and-it-wasnt-the-favorite-renegade-024635269.html)**
 
-Ground zero for the artificial intelligence boom may lie in the U.S. But the gargantuan investment flows involved are spilling well beyond U.S. borders.
+We asked AI to simulate the race using the present odds, draw and potential track conditions.
 
-The Washington Post • 3h ago
+Yahoo Sports • 7h ago
 
 ---
 
@@ -175,21 +191,7 @@ The Washington Post • 3h ago
 
 OpenAI made the perfect tool for scammers.
 
-The Atlantic • 8h ago
-
----
-
-**[AI music is flooding streaming platforms. But listeners like it less and less](https://www.npr.org/2026/05/02/nx-s1-5804489/music-listeners-dislike-ai-music-study)**
-
-Music fans are becoming increasingly uncomfortable with AI songs, according to a recent study.
-
-NPR • 10h ago
-
----
-
-**[Opinion | Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)**
-
-The New York Times • 2d ago
+The Atlantic • 9h ago
 
 ---
 
@@ -217,13 +219,13 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 395 • 💬 465 • 1d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 395 • 💬 467 • 1d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
-⬆️ 395 • 💬 370 • 1d ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
+⬆️ 395 • 💬 372 • 1d ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -231,7 +233,7 @@ Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months
 
 As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.
 
-⬆️ 306 • 💬 157 • 4h ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
+⬆️ 310 • 💬 166 • 5h ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
 
 ---
 
@@ -239,7 +241,7 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 264 • 💬 293 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 265 • 💬 296 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -247,7 +249,7 @@ The music streaming platform will review criteria such as artists' live dates an
 
 An open-source alternative to Harvey and Legora. Feature parity, zero cost, self-hostable — built for law firms to own and extend.
 
-⬆️ 204 • 💬 106 • 2d ago • [mikeoss.com](https://mikeoss.com/)
+⬆️ 204 • 💬 107 • 2d ago • [mikeoss.com](https://mikeoss.com/)
 
 ---
 
@@ -285,7 +287,17 @@ Senator Bernie Sanders is the senior senator from Vermont. He is the longest-ser
 
 📺 Senator Bernie Sanders
 
-👁️ 18K • 👍 1K • 💬 303 • ⏱️ 2:58 • 1d ago
+👁️ 21K • 👍 1K • 💬 327 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
+
+Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
+
+📺 Sabrina Ramonov 🍄
+
+👁️ 11K • 👍 932 • 💬 63 • ⏱️ 26:56 • 6h ago
 
 ---
 
@@ -295,17 +307,7 @@ Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is re
 
 📺 TIME
 
-👁️ 138K • 👍 2K • 💬 159 • ⏱️ 6:44 • 2d ago
-
----
-
-**[The AI industry in the US is doomed.  Now China owns it all.](https://www.youtube.com/watch?v=ny_3PRz6Zeg)**
-
-The economic model for the AI industry brought to us by Wall Street and Silicon Valley is falling apart, with subscription fees paid ...
-
-📺 Inside China Business
-
-👁️ 107K • 👍 9K • 💬 2K • ⏱️ 43:55 • 2d ago
+👁️ 146K • 👍 2K • 💬 163 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -315,37 +317,17 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 490K • 👍 20K • 💬 2K • ⏱️ 9:39 • 1d ago
+👁️ 514K • 👍 21K • 💬 2K • ⏱️ 9:39 • 1d ago
 
 ---
 
-**[Harvard Just Caught AI Lying to Every Executive in America](https://www.youtube.com/watch?v=pd1Km6bT104)**
+**[The AI industry in the US is doomed.  Now China owns it all.](https://www.youtube.com/watch?v=ny_3PRz6Zeg)**
 
-What 10000 readers from Coinbase, HP, and Johns Hopkins read every week → brendandell.com (Free to subscribe). A new ...
+The economic model for the AI industry brought to us by Wall Street and Silicon Valley is falling apart, with subscription fees paid ...
 
-📺 Brendan Dell 
+📺 Inside China Business
 
-👁️ 192K • 👍 10K • 💬 3K • ⏱️ 16:59 • 2d ago
-
----
-
-**[Are AI models running out of power?  | The Economist](https://www.youtube.com/watch?v=plOToalTRB4)**
-
-Is AI growing faster than the infrastructure that powers it? The Economist's global business writer, Shailesh Chitnis, and co-host of ...
-
-📺 The Economist
-
-👁️ 5K • 👍 218 • 💬 18 • ⏱️ 7:34 • 5h ago
-
----
-
-**[The Only 20 Ways to Make Money with AI in 2026](https://www.youtube.com/watch?v=K8Ros5RhJW4)**
-
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are you building an AI software company?
-
-📺 Dan Martell
-
-👁️ 198K • 👍 8K • 💬 281 • ⏱️ 26:44 • 2d ago
+👁️ 108K • 👍 9K • 💬 2K • ⏱️ 43:55 • 2d ago
 
 ---
 
@@ -355,27 +337,47 @@ Try Higgsfield Canvas here: https://higgsfield.ai/s/canvas-1-0-airevolutionx-cmX
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 150 • ⏱️ 15:42 • 21h ago
+👁️ 36K • 👍 1K • 💬 158 • ⏱️ 15:42 • 22h ago
 
 ---
 
-**[Meta AI is evil and zucc just admitted it](https://www.youtube.com/watch?v=KGP3sZspPHI)**
+**[The Only 20 Ways to Make Money with AI in 2026](https://www.youtube.com/watch?v=K8Ros5RhJW4)**
 
-Mark Zuckerberg admits he wants to fire staff and replace them all with AI. META is the most evil company in AI. SOURCES ...
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4mWrJke Are you building an AI software company?
 
-📺 Stylosa
+📺 Dan Martell
 
-👁️ 10K • 👍 389 • 💬 127 • ⏱️ 15:52 • 1d ago
+👁️ 205K • 👍 8K • 💬 283 • ⏱️ 26:44 • 2d ago
 
 ---
 
-**[Is AI Winning the Battle for Social Media?](https://www.youtube.com/watch?v=swNEBi6AtbY)**
+**[Create a Professional Dashboard with One Prompt Using Claude AI (In Just 3 Minutes)](https://www.youtube.com/watch?v=uK_WOYjtRKo)**
 
-The art is a Troll Steven from one of the many fantasy planets in my genre-defining IP Drawing Ascendant. My big ol' drawing ...
+Get your Free Prompts Here: https://drive.google.com/uc?export=download&id=1_RBpFQwt3cYepUniqnButysLNDmSiQO2 ...
 
-📺 Steven Zapata Art
+📺 Vedakarna
 
-👁️ 10K • 👍 890 • 💬 143 • ⏱️ 17:45 • 1d ago
+👁️ 14K • 👍 492 • 💬 6 • ⏱️ 3:16 • 1d ago
+
+---
+
+**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=PiBnV9BUGSQ)**
+
+I bought every ai generated scam product I found on tiktok, temu, and aliexpress! ⚖️ Need A Lawyer   go to ...
+
+📺 Mike Off Record
+
+👁️ 3K • 👍 317 • 💬 60 • ⏱️ 12:11 • 2h ago
+
+---
+
+**[FINALLY USEFUL Local Ai Agents](https://www.youtube.com/watch?v=kB9a5nXCwkA)**
+
+I am showing you a full end to end local Ai Hermes agent workflow with a lot of tips and tricks to get solid performance and a ...
+
+📺 Digital Spaceport
+
+👁️ 27K • 👍 877 • 💬 110 • ⏱️ 21:52 • 1d ago
 
 ---
 
@@ -391,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 381,587 • ❤️ 3,404 • 5d ago
+⬇️ 381,587 • ❤️ 3,411 • 5d ago
 
 ---
 
@@ -403,7 +405,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 99,399 • ❤️ 1,202 • 10d ago
+⬇️ 99,399 • ❤️ 1,205 • 10d ago
 
 ---
 
@@ -415,7 +417,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 9,914 • ❤️ 372 • 4d ago
+⬇️ 9,914 • ❤️ 377 • 4d ago
 
 ---
 
@@ -427,7 +429,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,070,778 • ❤️ 1,072 • 8d ago
+⬇️ 1,070,778 • ❤️ 1,076 • 8d ago
 
 ---
 
@@ -439,7 +441,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 345,885 • ❤️ 919 • 5d ago
+⬇️ 345,885 • ❤️ 921 • 5d ago
 
 ---
 
@@ -451,7 +453,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 8,492 • ❤️ 218 • 11h ago
+⬇️ 8,492 • ❤️ 220 • 12h ago
 
 ---
 
@@ -461,7 +463,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 198 • 9d ago
+⬇️ 0 • ❤️ 200 • 9d ago
 
 ---
 
@@ -473,7 +475,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 37,418 • ❤️ 194 • 13h ago
+⬇️ 37,418 • ❤️ 196 • 14h ago
 
 ---
 
@@ -485,7 +487,7 @@ MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio wit
 
 `310.8B`
 
-⬇️ 28,323 • ❤️ 191 • 3d ago
+⬇️ 28,323 • ❤️ 192 • 3d ago
 
 ---
 
@@ -511,7 +513,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 54 • 💬 2 • ⭐ 61,188 • 16mo ago
+▲ 55 • 💬 2 • ⭐ 61,188 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -539,7 +541,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 15 • 💬 2 • ⭐ 8,744 • 14d ago
+▲ 15 • 💬 2 • ⭐ 8,744 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -565,23 +567,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 5,529 • 17d ago
+▲ 19 • 💬 2 • ⭐ 5,566 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 81 • 💬 6 • ⭐ 19,512 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -594,6 +582,20 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 28 • 💬 1 • ⭐ 19,249 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 81 • 💬 6 • ⭐ 19,526 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -618,7 +620,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
 
-▲ 66 • 💬 4 • ⭐ 476 • 5d ago
+▲ 66 • 💬 4 • ⭐ 476 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.24763) • [💻 code](https://github.com/facebookresearch/tuna-2) • [🔗 project](https://tuna-ai.org/tuna-2/)
 
@@ -630,7 +632,7 @@ Tuna-2 is a unified multimodal model that performs visual understanding and gene
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 78 • 💬 7 • ⭐ 1,805 • 12d ago
+▲ 78 • 💬 7 • ⭐ 1,805 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -656,7 +658,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.8k • 🔱 6.7k • 15h ago
+⭐ 50.8k • 🔱 6.7k • 16h ago
 
 ---
 
@@ -676,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 40.6k • 🔱 4.5k • 2h ago
+⭐ 40.6k • 🔱 4.5k • 3h ago
 
 ---
 
@@ -696,7 +698,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.5k • 🔱 620 • 5d ago
+⭐ 9.6k • 🔱 620 • 5d ago
 
 ---
 
@@ -726,7 +728,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.9k • 🔱 365 • 2h ago
+⭐ 4.9k • 🔱 368 • 1h ago
 
 ---
 
