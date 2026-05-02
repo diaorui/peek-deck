@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T17:23:36.955591+00:00'
+updated: '2026-05-02T18:09:51.160510+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 17:23 UTC  
+**Last Updated:** May 02, 2026 at 18:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.22B
+**Market Cap:** $278.25B
 Rank #2
 
 **Circulating Supply:** 120,687,481 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.4%
 
 **All-Time Low:** $0.43
-+532634.8%
++532177.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Past a certain size Uniswap slippage gets bad enough that the rate difference ma
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 2h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Past a certain size Uniswap slippage gets bad enough that the rate difference ma
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 3h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Not long ago, I was asked about quantum computing and the threat it could pose t
 
 Tornado Cash being sanctioned basically killed the main Ethereum privacy tool overnight. A lot of people moved to other mixers but most of them have the same fundamental problem, the base layer is still fully transparent.
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ Tornado Cash being sanctioned basically killed the main Ethereum privacy tool ov
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 23h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-20h ago
+21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 22h ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fortune • 1d ago
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 3h ago
+ethereum.org • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 168 • 👍 18 • 💬 4 • ⏱️ 15:10 • 3h ago
+👁️ 465 • 👍 47 • 💬 7 • ⏱️ 15:10 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 204 • 💬 39 • ⏱️ 9:18 • 2d ago
+👁️ 4K • 👍 208 • 💬 39 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -256,17 +256,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 10:19 • 13h ago
-
----
-
-**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 67 • 💬 15 • ⏱️ 8:12 • 1d ago
+👁️ 3K • 👍 215 • 💬 10 • ⏱️ 10:19 • 14h ago
 
 ---
 
@@ -276,37 +266,17 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 207 • 💬 40 • ⏱️ 12:11 • 1d ago
+👁️ 2K • 👍 207 • 💬 41 • ⏱️ 12:11 • 1d ago
 
 ---
 
-**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
 
-Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Paul Barron Network
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 62K • 👍 3K • 💬 159 • ⏱️ 16:31 • 3d ago
-
----
-
-**[BMNR TOO BIG? Bitmine’s $13B Ethereum Strategy Explained](https://www.youtube.com/watch?v=Fw5OK47yD6c)**
-
-In this video, we break down the latest developments around Bitmine (BMNR) and its growing Ethereum position. The company ...
-
-📺 BiGB Stcok
-
-👁️ 939 • 👍 45 • 💬 1 • ⏱️ 9:26 • 19h ago
-
----
-
-**[$147M Into ETH: Tom Lee&#39;s Move + My BMNR &amp; MSTR Chart Breakdown](https://www.youtube.com/watch?v=dgDDwGNiNBA)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 4K • 👍 132 • 💬 19 • ⏱️ 24:23 • 1d ago
+👁️ 2K • 👍 69 • 💬 15 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -316,7 +286,37 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 257 • 👍 38 • ⏱️ 6:42 • 4h ago
+👁️ 479 • 👍 51 • ⏱️ 6:42 • 4h ago
+
+---
+
+**[New Ethereum Coin Annoucement, Rush In Now | Prophetic Insight | Collins Ewienose #ethereum #bullrun](https://www.youtube.com/watch?v=dheiPqeK7vI)**
+
+Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7MgY7UmUm27p Those interested in Lion ...
+
+📺 World View
+
+👁️ 621 • 👍 59 • 💬 20 • ⏱️ 16:59 • 5h ago
+
+---
+
+**[BMNR TOO BIG? Bitmine’s $13B Ethereum Strategy Explained](https://www.youtube.com/watch?v=Fw5OK47yD6c)**
+
+In this video, we break down the latest developments around Bitmine (BMNR) and its growing Ethereum position. The company ...
+
+📺 BiGB Stcok
+
+👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 20h ago
+
+---
+
+**[$147M Into ETH: Tom Lee&#39;s Move + My BMNR &amp; MSTR Chart Breakdown](https://www.youtube.com/watch?v=dgDDwGNiNBA)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 5K • 👍 133 • 💬 19 • ⏱️ 24:23 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ This system: tapy.ws/minecore Most traders focus on charts - but automated syste
 
 📺 Gordon Web3
 
-👁️ 124 • 👍 90 • 💬 89 • ⏱️ 5:59 • 7h ago
+👁️ 147 • 👍 90 • 💬 89 • ⏱️ 5:59 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T17:23:36.949534+00:00'
+updated: '2026-05-02T18:09:51.155234+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 17:23 UTC  
+**Last Updated:** May 02, 2026 at 18:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1568.98B
+**Market Cap:** $1569.40B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--37.8%
+-37.9%
 
 **All-Time Low:** $67.81
-+115468.5%
++115415.4%
 
 ---
 
@@ -89,7 +89,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 And when do you think that would happen?
 
-15m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ And when do you think that would happen?
 
 Masood Boomgaard aka Self-Help Singh
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Masood Boomgaard aka Self-Help Singh
 
 I’ve invested a small amount of money in bitcoin. I would like to invest more but the capital gains tax in my country (Ireland) has kinda taken the fun out of it. We have to pay 33% and that doesn’t change no matter how many years you let your investment sit. Interested to know what others pay in their country and whether you think it’s still worthwhile for me to invest more.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve invested a small amount of money in bitcoin. I would like to invest more 
 
 I logged in after a few years of inactivity. It looks like it created a new WALLET ID for me. So now when I log in with this account, it looks fresh. Can't see my funds. But I can use the previous WALLET ID (the one I know is good) but it tells my password is incorrect, every time I go through the password reset flow, it creates and associates a new WALLET ID to my account. I can't contact support, because it requires logging in, which after logging in takes me to the home screen (where I can try to "contact support", but I am now in an infinite loop)
 
-3h ago
+4h ago
 
 ---
 
@@ -121,13 +121,13 @@ I logged in after a few years of inactivity. It looks like it created a new WALL
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
 **[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 10h ago
 
 PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 23h ago
 
 Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
 
-BeInCrypto • 42m ago
+BeInCrypto • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin's 'Hazardous' Airdrop: Why Developers Are Warning Against Paul Sztorc's ECash Fork](https://www.moomoo.com/news/post/69315927/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -207,13 +207,13 @@ CNBC • 1d ago
 
 **[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
 **[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -227,7 +227,7 @@ Fortune • 2d ago
 
 **[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -291,7 +291,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 8h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 9h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -299,7 +299,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 18h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 19h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -315,23 +315,23 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 ## YouTube Videos: "bitcoin"
 
-**[$100B in Capital Going After $10B in Bitcoin | The Rally Is Coming!](https://www.youtube.com/watch?v=C2NmIHSouSQ)**
-
-B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply shock for the ages. Paul Tudor Jones calls Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 265 • ⏱️ 13:54 • 20h ago
-
----
-
 **[Why All-Time High Stocks Are Bullish for Bitcoin](https://www.youtube.com/watch?v=3JKjDK30_IE)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 704 • 💬 18 • ⏱️ 52:45 • 4h ago
+👁️ 14K • 👍 1K • 💬 19 • ⏱️ 52:45 • 5h ago
+
+---
+
+**[$100B in Capital Going After $10B in Bitcoin | The Rally Is Coming!](https://www.youtube.com/watch?v=C2NmIHSouSQ)**
+
+B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply shock for the ages. Paul Tudor Jones calls Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 307 • ⏱️ 13:54 • 21h ago
 
 ---
 
@@ -341,27 +341,7 @@ Bitcoin may be entering one of the most important macro setups in its history as
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 310 • ⏱️ 18:39 • 1d ago
-
----
-
-**[$10M Bitcoin Is Here - It’s Already Gone](https://www.youtube.com/watch?v=rJkB2tPne3A)**
-
-Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Saylor says Bitcoin could onboard 1 billion ...
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 239 • 💬 139 • ⏱️ 15:57 • 20h ago
-
----
-
-**[The Bitcoin Rally Is Turning Savage (Tim Draper, Eric Trump, XRP News)](https://www.youtube.com/watch?v=bcYKueS31ZE)**
-
-Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (no kyc) - Claim $10k bonus: ...
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 954 • 💬 260 • ⏱️ 9:40 • 18h ago
+👁️ 35K • 👍 2K • 💬 309 • ⏱️ 18:39 • 1d ago
 
 ---
 
@@ -371,27 +351,37 @@ It is once again time to dubiously speculate on the price of Bitcoin! Into The C
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 2K • 💬 133 • ⏱️ 25:43 • 5h ago
+👁️ 31K • 👍 3K • 💬 183 • ⏱️ 25:43 • 6h ago
 
 ---
 
-**[Get Ready...Bitcoin Is One Level Away From Exploding](https://www.youtube.com/watch?v=gM2kDjaJ1l4)**
+**[$10M Bitcoin Is Here - It’s Already Gone](https://www.youtube.com/watch?v=rJkB2tPne3A)**
 
-Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
+Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Saylor says Bitcoin could onboard 1 billion ...
 
-📺 CryptosRUs
+📺 Bitcoin News Alerts
 
-👁️ 21K • 👍 1K • 💬 341 • ⏱️ 43:42 • 2d ago
+👁️ 4K • 👍 249 • 💬 170 • ⏱️ 15:57 • 21h ago
 
 ---
 
-**[BIG DISASTER FOR BITCOIN ](https://www.youtube.com/watch?v=t1zSiLFLVLg)**
+**[The Bitcoin Rally Is Turning Savage (Tim Draper, Eric Trump, XRP News)](https://www.youtube.com/watch?v=bcYKueS31ZE)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (no kyc) - Claim $10k bonus: ...
 
-📺 The Moon Show
+📺 Altcoin Daily
 
-👁️ 11K • 👍 533 • 💬 16 • ⏱️ 4:21 • 1d ago
+👁️ 15K • 👍 1K • 💬 270 • ⏱️ 9:40 • 19h ago
+
+---
+
+**[Bitcoin Isn&#39;t Replacing Gold. It&#39;s Replacing THIS](https://www.youtube.com/watch?v=wESDdd9P60I)**
+
+While everyone's arguing about whether Bitcoin replaces gold. What if I told you it doesn't matter? Gold is a $30 trillion debate.
+
+📺 Mark Moss
+
+👁️ 71K • 👍 3K • 💬 306 • ⏱️ 28:23 • 1d ago
 
 ---
 
@@ -401,17 +391,27 @@ In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down 
 
 📺 Verified Pro Traders
 
-👁️ 26K • 👍 2K • 💬 86 • ⏱️ 8:44 • 1d ago
+👁️ 26K • 👍 2K • 💬 94 • ⏱️ 8:44 • 2d ago
 
 ---
 
-**[The Financial System Is Moving to Bitcoin | David Marcus](https://www.youtube.com/watch?v=Jccm9mQTduI)**
+**[THIS chart will change your 2026 Bitcoin price prediction...](https://www.youtube.com/watch?v=iqf2RG2s7OY)**
 
-Money on the internet is still broken.” David Marcus returns to the show to break down why moving money globally is still slow, ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 What Bitcoin Did
+📺 Tyler S
 
-👁️ 6K • 👍 153 • 💬 113 • ⏱️ 57:24 • 1d ago
+👁️ 11K • 👍 696 • 💬 322 • ⏱️ 13:02 • 2d ago
+
+---
+
+**[BITCOIN TRADERS: PREPARE NOW!!!!!](https://www.youtube.com/watch?v=LJWDJUvxLQc)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 9K • 👍 647 • 💬 251 • ⏱️ 7:41 • 13h ago
 
 ---
 
