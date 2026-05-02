@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T14:30:18.263927+00:00'
+updated: '2026-05-02T15:25:55.365938+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 14:30 UTC  
+**Last Updated:** May 02, 2026 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.24B
+**Market Cap:** $278.22B
 Rank #2
 
 **Circulating Supply:** 120,687,481 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.4%
 
 **All-Time Low:** $0.43
-+533256.1%
++532634.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 1h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Not long ago, I was asked about quantum computing and the threat it could pose t
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 20h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 21h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-17h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 19h ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -172,13 +172,13 @@ CoinDesk • 20h ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 57m ago
+ethereum.org • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 1d ago
 
 The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Forbes • 2d ago
 
 Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
 
-BeInCrypto • 18h ago
+BeInCrypto • 19h ago
 
 ---
 
@@ -224,7 +224,7 @@ BeInCrypto • 18h ago
 
 OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Crypto Briefing • 12h ago
+Crypto Briefing • 13h ago
 
 ---
 
@@ -232,13 +232,23 @@ Crypto Briefing • 12h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
+
+See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 168 • 👍 18 • 💬 4 • ⏱️ 15:10 • 1h ago
+
+---
+
 **[Ethereum Is Making A Super Rare Move - Here&#39;s My Plan](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 203 • 💬 37 • ⏱️ 9:18 • 2d ago
+👁️ 4K • 👍 204 • 💬 39 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -248,7 +258,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 193 • 💬 9 • ⏱️ 10:19 • 11h ago
+👁️ 3K • 👍 203 • 💬 9 • ⏱️ 10:19 • 11h ago
 
 ---
 
@@ -258,7 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 66 • 💬 14 • ⏱️ 8:12 • 1d ago
+👁️ 2K • 👍 67 • 💬 15 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -272,23 +282,23 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 ---
 
+**[Michael Saylor on Crypto SuperCycle!🚀$STRC Exploding on Solana &amp; Ethereum🔥](https://www.youtube.com/watch?v=1-2pwQA4WGA)**
+
+Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11.5% dividend and the allure of bitcoin, Michael ...
+
+📺 Paul Barron Network
+
+👁️ 62K • 👍 3K • 💬 159 • ⏱️ 16:31 • 2d ago
+
+---
+
 **[BMNR TOO BIG? Bitmine’s $13B Ethereum Strategy Explained](https://www.youtube.com/watch?v=Fw5OK47yD6c)**
 
 In this video, we break down the latest developments around Bitmine (BMNR) and its growing Ethereum position. The company ...
 
 📺 BiGB Stcok
 
-👁️ 798 • 👍 45 • 💬 1 • ⏱️ 9:26 • 16h ago
-
----
-
-**[이더리움 4,400억 해킹…DeFi 붕괴 시작](https://www.youtube.com/watch?v=_Ts-uE90fU0)**
-
-이더리움 #ETH #디파이해킹 #KelpDAO #Aave #보안리스크 #크로스체인 #암호화폐위기 #코인시장 #투자리스크.
-
-📺 서울경제TV
-
-👁️ 2K • 👍 15 • 💬 13 • ⏱️ 2:50 • 14h ago
+👁️ 939 • 👍 45 • 💬 1 • ⏱️ 9:26 • 17h ago
 
 ---
 
@@ -302,13 +312,13 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=VkSnSY_tAwk)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opQ-6h0jiEA)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 961 • 👍 80 • ⏱️ 6:41 • 11h ago
+👁️ 257 • 👍 38 • ⏱️ 6:42 • 2h ago
 
 ---
 
@@ -318,17 +328,7 @@ This system: tapy.ws/minecore Most traders focus on charts - but automated syste
 
 📺 Gordon Web3
 
-👁️ 88 • 👍 73 • 💬 71 • ⏱️ 5:59 • 4h ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=ZCg7QBQ5BxI)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
-
-📺 Ashutosh Kumar
-
-👁️ 6K • 👍 339 • 3h ago
+👁️ 124 • 👍 90 • 💬 89 • ⏱️ 5:59 • 5h ago
 
 ---
 

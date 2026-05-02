@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T14:30:18.258464+00:00'
+updated: '2026-05-02T15:25:55.359381+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 14:30 UTC  
+**Last Updated:** May 02, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1567.60B
+**Market Cap:** $1568.98B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-37.8%
 
 **All-Time Low:** $67.81
-+115431.6%
++115468.5%
 
 ---
 
@@ -89,7 +89,7 @@ Masood Boomgaard aka Self-Help Singh
 
 I’ve invested a small amount of money in bitcoin. I would like to invest more but the capital gains tax in my country (Ireland) has kinda taken the fun out of it. We have to pay 33% and that doesn’t change no matter how many years you let your investment sit. Interested to know what others pay in their country and whether you think it’s still worthwhile for me to invest more.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,13 +97,13 @@ I’ve invested a small amount of money in bitcoin. I would like to invest more 
 
 Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
 
-22h ago
+23h ago
 
 ---
 
 **[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 Who out there had a shady dealing with this guy?
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Who out there had a shady dealing with this guy?
 
 Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ Just saw the Spiegel report yesterday that german officials have apparently fina
 
 I'm afraid that we keep waiting for some dramatic “mass adoption moment,” like a switch flipping overnight. Meanwhile, it’s already happening-quietly, unevenly, and mostly outside the bubbles that think they’re the center of the world. In countries with stable currencies, Bitcoin is a “speculative asset.” In countries with collapsing ones, it’s survival. That alone should tell us something about where this is going. We don’t notice adoption because it doesn’t need our validation. It happens when someone realizes their savings are melting. When cross-border payments are broken. When “trusted” institutions fail one too many times. And here’s the uncomfortable truth: Bitcoin isn’t waiting to be adopted by everyone. It’s being adopted first by the people who actually need it. By the time it feels obvious in the West, it won’t be early anymore-it’ll be inevitable. So the real question is: are we early or just early enough to still ignore it?
 
-23h ago
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ I'm afraid that we keep waiting for some dramatic “mass adoption moment,” li
 
 Bitcoin recovered from a midweek dip to $75,500 to climb back above $78,000 by Saturday morning in Asia, with the Senate's stablecoin yield compromise removing a key roadblock to crypto market structure legislation.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 7h ago
 
 PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 20h ago
 
 If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 2h ago
 
 Visa (NYSE:V) is partnering with Lightspark to roll out stablecoin and Bitcoin backed Visa debit cards across more than 100 countries. The new cards aim to let users spend digital assets or fiat directly at any merchant that accepts Visa. The partnership uses Lightspark’s blockchain infrastructure to connect crypto wallets with Visa’s global payments network. For a company already central to global payments, this move extends Visa’s role beyond traditional card processing into direct crypto...
 
-Yahoo Finance UK • 2h ago
+Yahoo Finance UK • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance UK • 2h ago
 
 If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Fortune • 1d ago
 
 **[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
 
-Investing.com • 5h ago
+Investing.com • 6h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin is has shown ssigns of life after a big week of tech earnings, yet it hasn't kept up with the recovery rally in stocks.
 
-Investopedia • 18h ago
+Investopedia • 19h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 5h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 6h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -303,7 +303,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 15h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 16h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -325,7 +325,17 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 69 • ⏱️ 13:54 • 17h ago
+👁️ 20K • 👍 1K • 💬 265 • ⏱️ 13:54 • 18h ago
+
+---
+
+**[Why All-Time High Stocks Are Bullish for Bitcoin](https://www.youtube.com/watch?v=3JKjDK30_IE)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 5K • 👍 704 • 💬 18 • ⏱️ 52:45 • 2h ago
 
 ---
 
@@ -335,7 +345,7 @@ Bitcoin may be entering one of the most important macro setups in its history as
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 310 • ⏱️ 18:39 • 1d ago
+👁️ 35K • 👍 2K • 💬 310 • ⏱️ 18:39 • 1d ago
 
 ---
 
@@ -345,7 +355,7 @@ Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Sa
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 232 • 💬 131 • ⏱️ 15:57 • 17h ago
+👁️ 4K • 👍 239 • 💬 139 • ⏱️ 15:57 • 18h ago
 
 ---
 
@@ -355,7 +365,17 @@ Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (n
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 886 • 💬 177 • ⏱️ 9:40 • 15h ago
+👁️ 14K • 👍 954 • 💬 260 • ⏱️ 9:40 • 16h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=6RBevGGz1Pw)**
+
+It is once again time to dubiously speculate on the price of Bitcoin! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 14K • 👍 2K • 💬 133 • ⏱️ 25:43 • 3h ago
 
 ---
 
@@ -365,37 +385,7 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 341 • ⏱️ 43:42 • 1d ago
-
----
-
-**[Bitcoin&#39;s Bearish Pattern: Key Level to Watch Before the Next Big Move](https://www.youtube.com/watch?v=zAaoofe5f18)**
-
-In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down the current technical structure on Bitcoin, ...
-
-📺 Verified Pro Traders
-
-👁️ 25K • 👍 2K • 💬 86 • ⏱️ 8:44 • 1d ago
-
----
-
-**[THIS chart will change your 2026 Bitcoin price prediction...](https://www.youtube.com/watch?v=iqf2RG2s7OY)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 11K • 👍 690 • 💬 315 • ⏱️ 13:02 • 1d ago
-
----
-
-**[The Financial System Is Moving to Bitcoin | David Marcus](https://www.youtube.com/watch?v=Jccm9mQTduI)**
-
-Money on the internet is still broken.” David Marcus returns to the show to break down why moving money globally is still slow, ...
-
-📺 What Bitcoin Did
-
-👁️ 6K • 👍 152 • 💬 116 • ⏱️ 57:24 • 22h ago
+👁️ 21K • 👍 1K • 💬 341 • ⏱️ 43:42 • 2d ago
 
 ---
 
@@ -405,17 +395,27 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 11K • 👍 526 • 💬 8 • ⏱️ 4:21 • 22h ago
+👁️ 11K • 👍 533 • 💬 16 • ⏱️ 4:21 • 23h ago
 
 ---
 
-**[HUGE BITCOIN BULL TRAP NOW !!!](https://www.youtube.com/watch?v=sI6mgU8D1WY)**
+**[Bitcoin&#39;s Bearish Pattern: Key Level to Watch Before the Next Big Move](https://www.youtube.com/watch?v=zAaoofe5f18)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
+In this episode of Pro Charts: Crypto, Master Trader Gareth Soloway breaks down the current technical structure on Bitcoin, ...
 
-📺 Crypto Kid
+📺 Verified Pro Traders
 
-👁️ 2K • 👍 175 • 💬 98 • ⏱️ 9:53 • 7h ago
+👁️ 26K • 👍 2K • 💬 86 • ⏱️ 8:44 • 1d ago
+
+---
+
+**[The Financial System Is Moving to Bitcoin | David Marcus](https://www.youtube.com/watch?v=Jccm9mQTduI)**
+
+Money on the internet is still broken.” David Marcus returns to the show to break down why moving money globally is still slow, ...
+
+📺 What Bitcoin Did
+
+👁️ 6K • 👍 153 • 💬 113 • ⏱️ 57:24 • 23h ago
 
 ---
 
