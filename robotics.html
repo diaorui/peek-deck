@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-02T18:09:50.747492+00:00"
+          "dateModified": "2026-05-02T19:34:27.325461+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -719,6 +719,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/" target="_blank" onclick="event.stopPropagation();">Converting a MyCobot 280 URDF to a stable USD + articulation setup in Isaac Sim</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A lot of low-cost robots come with URDFs that don’t translate well into simulation, so having a clean USD + articulation setup makes a big difference if you want reproducibility and stability. I tried importing a MyCobot 280 URDF into Isaac Sim and… it didn’t go well. Geometry was broken, shading was off, and the joints were basically unusable out of the box. Instead of fighting the importer, I ended up rebuilding it properly: – Converted the DAE/Collada assets to USD and cleaned the meshes – Rebuilt the articulation using RigidBody + RevoluteJoint – Set up DriveAPI (stiffness, damping, joint limits) – Validated everything in PhysX – Built a small extension to control the robot from the UI Now it’s a clean, stable robot that behaves correctly and can actually be controlled at joint level. The main goal was to have a proper base for RL / Isaac Lab workflows. If anyone has dealt with similar URDF → USD issues in Isaac / Omniverse, curious how you approached it. https://github.com/dorado-daniel/mycobot_280_usd_isaac_sim
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777728908.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t1z2wl/solving_behavioral_oscillations_in_amrs_using_a/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1t1z2wl/solving_behavioral_oscillations_in_amrs_using_a/" target="_blank" onclick="event.stopPropagation();">Solving behavioral oscillations in AMRs using a phase stability regulator (ΔN–ΔD model)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I’ve been working on a deterministic approach to robot stability in crowded environments. A common issue with many AMRs is "behavioral chatter" or oscillations when the system is conflicted between its mission and environmental obstacles. My article in The Robot Report details a regulator based on two dynamic parameters. - ΔN (External uncertainty/entropy) - ΔD (Internal structural tension/duality) In my simulations, this approach allowed for a significant reduction in collisions and, more importantly, completely eliminated behavioral oscillations (dropping from 5.0 to 0.0 in our test scenarios). Link to the full article: https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/ I look forward to hearing your thoughts.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777749600.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -868,39 +934,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/" target="_blank" onclick="event.stopPropagation();">Converting a MyCobot 280 URDF to a stable USD + articulation setup in Isaac Sim</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A lot of low-cost robots come with URDFs that don’t translate well into simulation, so having a clean USD + articulation setup makes a big difference if you want reproducibility and stability. I tried importing a MyCobot 280 URDF into Isaac Sim and… it didn’t go well. Geometry was broken, shading was off, and the joints were basically unusable out of the box. Instead of fighting the importer, I ended up rebuilding it properly: – Converted the DAE/Collada assets to USD and cleaned the meshes – Rebuilt the articulation using RigidBody + RevoluteJoint – Set up DriveAPI (stiffness, damping, joint limits) – Validated everything in PhysX – Built a small extension to control the robot from the UI Now it’s a clean, stable robot that behaves correctly and can actually be controlled at joint level. The main goal was to have a proper base for RL / Isaac Lab workflows. If anyone has dealt with similar URDF → USD issues in Isaac / Omniverse, curious how you approached it. https://github.com/dorado-daniel/mycobot_280_usd_isaac_sim
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777728908.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0o5ke/thousands_of_robotera_l7_humanoids_to_enter/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -936,37 +969,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bThtZGYyZzk0a3lnMdLh3efWEIOnog4MBgc1Em4UQkKKX9LEdTKuaiE5WD9v.png?width=320&crop=smart&auto=webp&s=9500cd153728821324ed9c0557ae6ab8d50014aa" alt="Industrial inspection!" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1t0z6mx/industrial_inspection/" target="_blank" onclick="event.stopPropagation();">Industrial inspection!</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777654760.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -990,7 +992,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-02T17:23:18.687447+00:00">Updated 2026-05-02T17:23:18.687447+00:00</small>
+        <small data-timestamp="2026-05-02T19:34:13.514381+00:00">Updated 2026-05-02T19:34:13.514381+00:00</small>
     </div>
 </div>
 
@@ -1217,20 +1219,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html" target="_blank" onclick="event.stopPropagation();">Meta acquires robotics AI company to help build humanoid technology</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology" target="_blank" onclick="event.stopPropagation();">Meta Acquires Robotics AI Company to Help Build Humanoid Technology</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777654603.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/22/USAT/89725978007-usatsi-25389168.jpg?crop=2800,1575,x806,y920&width=2800&height=1575&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/" target="_blank" onclick="event.stopPropagation();">Is Tesla's pivot to robotics coming at the cost of its car business?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            (Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
+                            Tesla is rolling out plans to build robots and semi trucks to the delight of its investors, but analysts it may be neglecting its core car business.
                         </div>
                         
 
@@ -1240,9 +1279,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
                                     
                                 </div>
                                 
@@ -1250,7 +1289,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777658165.0"></span>
+                                    <span data-timestamp="1777721579.0"></span>
                                 </div>
                                 
                             </div>
@@ -1336,20 +1375,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/cathie-woods-robotics-bet-dips-143106546.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.freep.com/story/news/local/detroit-is/2026/04/30/3-detroit-robotics-teams-first-championship-houston/89812037007/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/Benzinga/fb4bed497c3e15528e3f12b05c1dbf02');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.freep.com/gcdn/authoring/authoring-images/2026/04/27/PDTF/89828545007-the-robotics-team-at-ud-jesuit-high-school-celebrating-a-recent-success-copy.jpg?crop=4031,2269,x0,y377&width=3200&height=1802&format=pjpg&auto=webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/markets/stocks/articles/cathie-woods-robotics-bet-dips-143106546.html" target="_blank" onclick="event.stopPropagation();">Cathie Wood's Robotics Bet Dips After 350% Run — JPMorgan Says Buy</a>
+                            <a href="https://www.freep.com/story/news/local/detroit-is/2026/04/30/3-detroit-robotics-teams-first-championship-houston/89812037007/" target="_blank" onclick="event.stopPropagation();">3 Detroit robotics teams earned a trip to Houston to take on the world</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Cathie Wood has a $722 million reason to pay attention to the latest move in Teradyne, Inc.. Her funds hold about 2.36 million shares, a position worth roughly $722 million and over 5% of the portfolio, with an average entry price near $87. That conviction has already paid off. The stock surged roughly 350% from $65.77 in April 2025 to a peak of $422.11 in April 2026 — before pulling back sharply in recent sessions. Now, the dip is back in focus. From Breakout To Pullback After an extended run,
+                            For three Detroit robotics teams, qualifying for a world championship is a fitting reward for the teams and a host of Detroiters they represent.
                         </div>
                         
 
@@ -1359,9 +1398,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freep.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Detroit Free Press" class="news-favicon">
+                                    <a href="https://www.freep.com" target="_blank" onclick="event.stopPropagation();">Detroit Free Press</a>
                                     
                                 </div>
                                 
@@ -1369,7 +1408,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777645866.0"></span>
+                                    <span data-timestamp="1777554780.0"></span>
                                 </div>
                                 
                             </div>
@@ -1377,17 +1416,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://shoredailynews.com/headlines/northampton-robotics-team-headed-to-world-championship-in-houston/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://shoredailynews.com/wp-content/uploads/2026/04/NHS-Shorebots-houston.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/softbank-plots-ipo-for-new-robotics-venture-c52c2297" target="_blank" onclick="event.stopPropagation();">SoftBank Plots IPO for New Robotics Venture</a>
+                            <a href="https://shoredailynews.com/headlines/northampton-robotics-team-headed-to-world-championship-in-houston/" target="_blank" onclick="event.stopPropagation();">Northampton robotics team headed to world championship in Houston</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A team of students from Northampton High School is taking its talents to the global stage, as Team 1908 “ShoreBots” travels to Houston this week to compete in the FIRST Robotics Competition World Championship. The team, representing Virginia’s Eastern Shore, will face off against more than 600 teams from around the world, including competitors from China, Turkey, Mexico, Canada, Israel, ... Read More
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1396,9 +1439,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://shoredailynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Shore Daily News" class="news-favicon">
+                                    <a href="https://shoredailynews.com" target="_blank" onclick="event.stopPropagation();">Shore Daily News</a>
                                     
                                 </div>
                                 
@@ -1406,7 +1449,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777506240.0"></span>
+                                    <span data-timestamp="1777541029.0"></span>
                                 </div>
                                 
                             </div>
@@ -1414,20 +1457,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.capecodtimes.com/story/news/local/2026/04/30/falmouth-ma-high-school-robotics-championship-roar-e/89774875007/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb09e5413-2795-45e3-bb46-8dc5a8093113.jpg?source=next-barrier-page');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.capecodtimes.com/gcdn/authoring/authoring-images/2026/04/28/NCCT/89831541007-falm-high-robotics-3-a.jpg?crop=1205,678,x0,y0&width=1205&height=678&format=pjpg&auto=webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">SoftBank plans to list new AI and robotics company in the US</a>
+                            <a href="https://www.capecodtimes.com/story/news/local/2026/04/30/falmouth-ma-high-school-robotics-championship-roar-e/89774875007/" target="_blank" onclick="event.stopPropagation();">Falmouth robotics team - in just its 2nd year - goes to world championship</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Masayoshi Son plots IPO for business named Roze as soon as this year
+                            High school robotics teams spend years trying to qualify for world competitions. Falmouth did it in just its second year.
                         </div>
                         
 
@@ -1437,9 +1480,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.capecodtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Cape Cod Times" class="news-favicon">
+                                    <a href="https://www.capecodtimes.com" target="_blank" onclick="event.stopPropagation();">Cape Cod Times</a>
                                     
                                 </div>
                                 
@@ -1447,48 +1490,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777505287.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1770697329&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html" target="_blank" onclick="event.stopPropagation();">SoftBank reportedly weighs $100 billion valuation for new AI and robotics spinout in potential U.S. IPO</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined "Roze" in the U.S.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777525879.0"></span>
+                                    <span data-timestamp="1777539840.0"></span>
                                 </div>
                                 
                             </div>
@@ -1533,21 +1535,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.dallasnews.com/business/local-companies/article/pudu-major-global-robotics-company-opens-u-s-22233042.php', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/22/USAT/89725978007-usatsi-25389168.jpg?crop=2800,1575,x806,y920&width=2800&height=1575&format=pjpg&auto=webp');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/" target="_blank" onclick="event.stopPropagation();">Is Tesla's pivot to robotics coming at the cost of its car business?</a>
+                            <a href="https://www.dallasnews.com/business/local-companies/article/pudu-major-global-robotics-company-opens-u-s-22233042.php" target="_blank" onclick="event.stopPropagation();">Chinese robotics company opens U.S. headquarters in Richardson</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Tesla is rolling out plans to build robots and semi trucks to the delight of its investors, but analysts it may be neglecting its core car business.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1556,9 +1554,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="USA Today" class="news-favicon">
-                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dallasnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Dallas News" class="news-favicon">
+                                    <a href="https://www.dallasnews.com" target="_blank" onclick="event.stopPropagation();">Dallas News</a>
                                     
                                 </div>
                                 
@@ -1566,7 +1564,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777721579.0"></span>
+                                    <span data-timestamp="1777566389.0"></span>
                                 </div>
                                 
                             </div>
@@ -1594,7 +1592,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-02T17:23:31.061109+00:00">Updated 2026-05-02T17:23:31.061109+00:00</small>
+        <small data-timestamp="2026-05-02T19:34:26.389969+00:00">Updated 2026-05-02T19:34:26.389969+00:00</small>
     </div>
 </div>
 

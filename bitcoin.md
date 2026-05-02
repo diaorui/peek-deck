@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T18:09:51.155234+00:00'
+updated: '2026-05-02T19:34:27.733692+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 18:09 UTC  
+**Last Updated:** May 02, 2026 at 19:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,474.38
+### $78,342.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** +0.7%  
 **7d:** -0.2%  
 **30d:** +17.2%  
 **90d:** -0.4%  
@@ -81,23 +81,15 @@ Rank #1
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 2h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 4h ago
 
 ---
 
 **[Do you think owning like ~ 2.5 BTC would let someone live super comfortably and without worries about work and income?](https://www.reddit.com/r/Bitcoin/comments/1t1vkc0/do_you_think_owning_like_25_btc_would_let_someone/)**
 
-And when do you think that would happen?
+And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
 
-1h ago
-
----
-
-**[Duck crypto, Bitcoin only!](https://www.reddit.com/r/Bitcoin/comments/1t14wyp/duck_crypto_bitcoin_only/)**
-
-Masood Boomgaard aka Self-Help Singh
-
-21h ago
+2h ago
 
 ---
 
@@ -105,7 +97,15 @@ Masood Boomgaard aka Self-Help Singh
 
 I’ve invested a small amount of money in bitcoin. I would like to invest more but the capital gains tax in my country (Ireland) has kinda taken the fun out of it. We have to pay 33% and that doesn’t change no matter how many years you let your investment sit. Interested to know what others pay in their country and whether you think it’s still worthwhile for me to invest more.
 
-7h ago
+8h ago
+
+---
+
+**[Duck crypto, Bitcoin only!](https://www.reddit.com/r/Bitcoin/comments/1t14wyp/duck_crypto_bitcoin_only/)**
+
+Masood Boomgaard aka Self-Help Singh
+
+23h ago
 
 ---
 
@@ -113,7 +113,15 @@ I’ve invested a small amount of money in bitcoin. I would like to invest more 
 
 I logged in after a few years of inactivity. It looks like it created a new WALLET ID for me. So now when I log in with this account, it looks fresh. Can't see my funds. But I can use the previous WALLET ID (the one I know is good) but it tells my password is incorrect, every time I go through the password reset flow, it creates and associates a new WALLET ID to my account. I can't contact support, because it requires logging in, which after logging in takes me to the home screen (where I can try to "contact support", but I am now in an infinite loop)
 
-4h ago
+6h ago
+
+---
+
+**[What was the most interesting product/service you saw at Bitcoin Vegas](https://www.reddit.com/r/Bitcoin/comments/1t1xxvt/what_was_the_most_interesting_productservice_you/)**
+
+I'm always looking to see what people are finding the most interesting in the market so we can build out things that people are excited about and want access to. We attended Bitcoin Vegas to talk about a Bitcoin SMA strategy that we launched recently and got a lot of interest, but our client minium for that product is $500,000 USD in BTC so it limits access to some people. I'd like to find more things that people would find interesting regardless of their bag size.
+
+57m ago
 
 ---
 
@@ -121,13 +129,13 @@ I logged in after a few years of inactivity. It looks like it created a new WALL
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
 **[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -147,23 +155,15 @@ Let's go, pedal to the metal!
 
 ---
 
-**[Hegseth recasts Bitcoin as national security asset amid Russia, China expansion](https://www.reddit.com/r/Bitcoin/comments/1t0u3e6/hegseth_recasts_bitcoin_as_national_security/)**
-
-Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth told Congress that Bitcoin projects inside the Pentagon are “classified and ongoing,” while stressing that the top crypto is a tool for American power. Hegseth delivered the comments in front of the House Armed Services Committee, responding to questions about whether the US is securing a strategic advantage in technology. “I am a long enthusiast of Bitcoin and crypto potential,” he said. “A lot of the things we are doing, enabling it or defeating it, are classified efforts that are ongoing inside our department, which do provide us a lot of leverage in a lot of different scenarios.” Hegseth’s endorsement elevates Bitcoin into the realm of geopolitical strategy at a time when Russia and China are expanding their roles in mining and using digital assets to bypass US sanctions....
-
-🔗 [DL News](https://www.dlnews.com/articles/markets/hegseth-recasts-bitcoin-as-national-security-asset-amid-russia-china-expansion/) • 1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC](https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc)**
+**[Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork](https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork)**
 
-A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.
+Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.
 
-CoinDesk • 11h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,25 +175,11 @@ The Block • 1d ago
 
 ---
 
-**[Berkshire Cash Hits Record $397 Billion as Abel Keeps Buffett’s Anti-Bitcoin Stance](https://beincrypto.com/berkshire-cash-record-abel-bitcoin-skepticism/)**
+**[Why Bitcoin Still Looks Like Crypto's Best Generational Wealth Bet](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-still-looks-cryptos-114200706.html)**
 
-Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
+If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
 
-BeInCrypto • 1h ago
-
----
-
-**[Strategy Becoming a Major Risk for Bitcoin, says Market Strategist Mike Green](https://finance.yahoo.com/video/strategy-becoming-major-risk-bitcoin-161100949.html)**
-
-Strategy keeps building leverage on Bitcoin that could soon fail, says Green
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin's 'Hazardous' Airdrop: Why Developers Are Warning Against Paul Sztorc's ECash Fork](https://www.moomoo.com/news/post/69315927/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul)**
-
-Moomoo • 2h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -207,13 +193,13 @@ CNBC • 1d ago
 
 **[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
 
-Forbes • 6h ago
+Forbes • 8h ago
 
 ---
 
 **[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
@@ -225,9 +211,27 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
+**[If I Had $4,500 to Invest in Crypto, Here's What I'd Buy Today](https://www.fool.com/investing/2026/05/01/if-i-had-4500-to-invest-in-crypto-heres-what-id-bu/)**
 
-Bloomberg.com • 2d ago
+Now's a good time to be hunting for bargains.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Berkshire Cash Hits Record $397 Billion as Abel Keeps Buffett’s Anti-Bitcoin Stance](https://beincrypto.com/berkshire-cash-record-abel-bitcoin-skepticism/)**
+
+Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
+
+BeInCrypto • 2h ago
+
+---
+
+**[Stock Investors Are Showing an Appetite for Risk. Why That Hasn't Translated to Bitcoin](https://www.investopedia.com/stock-investors-are-showing-an-appetite-for-risk-why-that-hasn-t-translated-to-bitcoin-11964014)**
+
+Bitcoin is has shown ssigns of life after a big week of tech earnings, yet it hasn't kept up with the recovery rally in stocks.
+
+Investopedia • 23h ago
 
 ---
 
@@ -269,7 +273,7 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 **[Bitcoin Is Digging Deeeeeper](https://news.ycombinator.com/item?id=47925278)**
 
-⬆️ 3 • 💬 1 • 4d ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
+⬆️ 3 • 💬 1 • 5d ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
 
 ---
 
@@ -291,7 +295,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 9h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 10h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -299,7 +303,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 19h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 20h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -321,7 +325,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 1K • 💬 19 • ⏱️ 52:45 • 5h ago
+👁️ 14K • 👍 1K • 💬 19 • ⏱️ 52:45 • 6h ago
 
 ---
 
@@ -331,7 +335,7 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 307 • ⏱️ 13:54 • 21h ago
+👁️ 22K • 👍 2K • 💬 307 • ⏱️ 13:54 • 22h ago
 
 ---
 
@@ -351,7 +355,7 @@ It is once again time to dubiously speculate on the price of Bitcoin! Into The C
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 3K • 💬 183 • ⏱️ 25:43 • 6h ago
+👁️ 31K • 👍 3K • 💬 183 • ⏱️ 25:43 • 7h ago
 
 ---
 
@@ -361,7 +365,7 @@ Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Sa
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 249 • 💬 170 • ⏱️ 15:57 • 21h ago
+👁️ 4K • 👍 249 • 💬 170 • ⏱️ 15:57 • 23h ago
 
 ---
 
@@ -371,7 +375,7 @@ Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (n
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 1K • 💬 270 • ⏱️ 9:40 • 19h ago
+👁️ 15K • 👍 1K • 💬 270 • ⏱️ 9:40 • 20h ago
 
 ---
 
@@ -381,7 +385,7 @@ While everyone's arguing about whether Bitcoin replaces gold. What if I told you
 
 📺 Mark Moss
 
-👁️ 71K • 👍 3K • 💬 306 • ⏱️ 28:23 • 1d ago
+👁️ 71K • 👍 3K • 💬 306 • ⏱️ 28:23 • 2d ago
 
 ---
 
@@ -411,7 +415,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 647 • 💬 251 • ⏱️ 7:41 • 13h ago
+👁️ 9K • 👍 647 • 💬 251 • ⏱️ 7:41 • 15h ago
 
 ---
 

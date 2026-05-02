@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T18:09:51.160510+00:00'
+updated: '2026-05-02T19:34:27.739573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 18:09 UTC  
+**Last Updated:** May 02, 2026 at 19:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.5%  
-**30d:** +12.5%  
-**90d:** -1.5%  
-**1y:** +26.0%  
+**24h:** +1.3%  
+**7d:** -2.4%  
+**30d:** +12.6%  
+**90d:** -1.4%  
+**1y:** +26.2%  
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 4h ago
 
 ---
 
@@ -80,13 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Past a certain size Uniswap slippage gets bad enough that the rate difference matters more than the gas. Been looking at aggregators that split across multiple liquidity sources but not sure which ones actually deliver on that at scale. What are people using when moving anything above $2k, genuinely curious
 
-2h ago
-
----
-
-**[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 3h ago
+4h ago
 
 ---
 
@@ -94,15 +94,7 @@ Past a certain size Uniswap slippage gets bad enough that the rate difference ma
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 4h ago
-
----
-
-**[Tornado Cash is sanctioned. What are people using now?](https://www.reddit.com/r/ethereum/comments/1t1t7i0/tornado_cash_is_sanctioned_what_are_people_using/)**
-
-Tornado Cash being sanctioned basically killed the main Ethereum privacy tool overnight. A lot of people moved to other mixers but most of them have the same fundamental problem, the base layer is still fully transparent.
-
-2h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 6h ago
 
 ---
 
@@ -126,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-21h ago
+22h ago
 
 ---
 
@@ -146,6 +138,14 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 ---
 
+**[Ethereal news weekly #21 | DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack](https://www.reddit.com/r/ethereum/comments/1t0qpum/ethereal_news_weekly_21_defi_united_technical/)**
+
+DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +154,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 23h ago
-
----
-
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine)**
-
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
-
-Decrypt • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -170,7 +162,19 @@ Decrypt • 23h ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[BitMine’s Tom Lee Says Ethereum Is at a Rare Entry Point Before a 3,000% Climb to $60K for Patient Holders](https://www.tipranks.com/news/bitmines-tom-lee-says-ethereum-is-at-a-rare-entry-point-before-a-3000-climb-to-60k-for-patient-holders)**
+
+TipRanks • 2d ago
+
+---
+
+**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
+
+ethereum.org • 6h ago
 
 ---
 
@@ -182,31 +186,11 @@ Fortune • 1d ago
 
 ---
 
-**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
-
-ethereum.org • 4h ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-morning-113211522.html)**
 
 Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Wasabi Protocol drained of $4.5 million in apparent admin key compromise](https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise)**
-
-The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.
-
-CoinDesk • 2d ago
-
----
-
-**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
-
-Forbes • 2d ago
 
 ---
 
@@ -222,7 +206,21 @@ FXStreet • 1d ago
 
 OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 17h ago
+
+---
+
+**['Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock](https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/)**
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin Death Cross Could Trigger an Ethereum Rally Above $3,000](https://beincrypto.com/ethereum-bull-signal-bitcoin-dominance-death-cross/)**
+
+Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
+
+BeInCrypto • 23h ago
 
 ---
 
@@ -236,7 +234,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 465 • 👍 47 • 💬 7 • ⏱️ 15:10 • 4h ago
+👁️ 465 • 👍 47 • 💬 7 • ⏱️ 15:10 • 5h ago
 
 ---
 
@@ -256,7 +254,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 215 • 💬 10 • ⏱️ 10:19 • 14h ago
+👁️ 3K • 👍 215 • 💬 10 • ⏱️ 10:19 • 16h ago
 
 ---
 
@@ -286,7 +284,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 479 • 👍 51 • ⏱️ 6:42 • 4h ago
+👁️ 479 • 👍 51 • ⏱️ 6:42 • 6h ago
 
 ---
 
@@ -296,7 +294,7 @@ Subscribe for more videos: https://youtube.com/@propheticwealthtransfer?si=-zSS7
 
 📺 World View
 
-👁️ 621 • 👍 59 • 💬 20 • ⏱️ 16:59 • 5h ago
+👁️ 621 • 👍 59 • 💬 20 • ⏱️ 16:59 • 6h ago
 
 ---
 
@@ -306,7 +304,7 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 BiGB Stcok
 
-👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 20h ago
+👁️ 1K • 👍 49 • 💬 1 • ⏱️ 9:26 • 21h ago
 
 ---
 
@@ -326,7 +324,7 @@ This system: tapy.ws/minecore Most traders focus on charts - but automated syste
 
 📺 Gordon Web3
 
-👁️ 147 • 👍 90 • 💬 89 • ⏱️ 5:59 • 8h ago
+👁️ 147 • 👍 90 • 💬 89 • ⏱️ 5:59 • 9h ago
 
 ---
 
