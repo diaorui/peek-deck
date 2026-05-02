@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T16:10:40.411379+00:00'
+updated: '2026-05-02T17:23:36.949534+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 16:10 UTC  
+**Last Updated:** May 02, 2026 at 17:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,224.69
+### $78,474.38
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.0%  
-**7d:** -0.1%  
-**30d:** +17.4%  
-**90d:** -0.3%  
-**1y:** -18.1%  
+**7d:** -0.2%  
+**30d:** +17.2%  
+**90d:** -0.4%  
+**1y:** -18.2%  
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 52m ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 2h ago
+
+---
+
+**[Do you think owning like ~ 2.5 BTC would let someone live super comfortably and without worries about work and income?](https://www.reddit.com/r/Bitcoin/comments/1t1vkc0/do_you_think_owning_like_25_btc_would_let_someone/)**
+
+And when do you think that would happen?
+
+15m ago
 
 ---
 
@@ -89,7 +97,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Masood Boomgaard aka Self-Help Singh
 
-19h ago
+20h ago
 
 ---
 
@@ -97,29 +105,7 @@ Masood Boomgaard aka Self-Help Singh
 
 I’ve invested a small amount of money in bitcoin. I would like to invest more but the capital gains tax in my country (Ireland) has kinda taken the fun out of it. We have to pay 33% and that doesn’t change no matter how many years you let your investment sit. Interested to know what others pay in their country and whether you think it’s still worthwhile for me to invest more.
 
-5h ago
-
----
-
-**[Daily Discussion, May 02, 2026](https://www.reddit.com/r/Bitcoin/comments/1t1hnuj/daily_discussion_may_02_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-10h ago
-
----
-
-**[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
-
-17h ago
-
----
-
-**[Have a question - is there enough money to push the value to 300k+](https://www.reddit.com/r/Bitcoin/comments/1t0xttw/have_a_question_is_there_enough_money_to_push_the/)**
-
-Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
-
-23h ago
+6h ago
 
 ---
 
@@ -127,7 +113,29 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 I logged in after a few years of inactivity. It looks like it created a new WALLET ID for me. So now when I log in with this account, it looks fresh. Can't see my funds. But I can use the previous WALLET ID (the one I know is good) but it tells my password is incorrect, every time I go through the password reset flow, it creates and associates a new WALLET ID to my account. I can't contact support, because it requires logging in, which after logging in takes me to the home screen (where I can try to "contact support", but I am now in an infinite loop)
 
-2h ago
+3h ago
+
+---
+
+**[Daily Discussion, May 02, 2026](https://www.reddit.com/r/Bitcoin/comments/1t1hnuj/daily_discussion_may_02_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+11h ago
+
+---
+
+**[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
+
+18h ago
+
+---
+
+**[Have a question - is there enough money to push the value to 300k+](https://www.reddit.com/r/Bitcoin/comments/1t0xttw/have_a_question_is_there_enough_money_to_push_the/)**
+
+Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
+
+1d ago
 
 ---
 
@@ -147,14 +155,6 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 ---
 
-**[Is the PM Merz in Germany up to something awful towards HODLers?](https://www.reddit.com/r/Bitcoin/comments/1t13el3/is_the_pm_merz_in_germany_up_to_something_awful/)**
-
-Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
-
-20h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,7 +163,7 @@ Just saw the Spiegel report yesterday that german officials have apparently fina
 
 A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -171,35 +171,29 @@ CoinDesk • 9h ago
 
 PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin News Today: Bitcoin Climbs Back Above $78,000 as Senate Clears Clarity Act Hurdle and S&P 500 Sets New Record](https://www.binance.com/en/square/post/318835221709490)**
+**[Berkshire Cash Hits Record $397 Billion as Abel Keeps Buffett’s Anti-Bitcoin Stance](https://beincrypto.com/berkshire-cash-record-abel-bitcoin-skepticism/)**
 
-Binance • 1h ago
+Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
 
----
-
-**[Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork](https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork)**
-
-Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.
-
-CoinDesk • 9m ago
+BeInCrypto • 42m ago
 
 ---
 
-**[Bitcoin News Today: Bitcoin at Crossroads: Break Above $80,000 Could Trigger Short Squeeze to $84,000, Analyst Says](https://www.binance.com/en/square/post/318841730463345)**
+**[Strategy Becoming a Major Risk for Bitcoin, says Market Strategist Mike Green](https://finance.yahoo.com/video/strategy-becoming-major-risk-bitcoin-161100949.html)**
 
-Binance • 1h ago
+Strategy keeps building leverage on Bitcoin that could soon fail, says Green
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Why Bitcoin Still Looks Like Crypto's Best Generational Wealth Bet](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-still-looks-cryptos-114200706.html)**
+**[Bitcoin's 'Hazardous' Airdrop: Why Developers Are Warning Against Paul Sztorc's ECash Fork](https://www.moomoo.com/news/post/69315927/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul)**
 
-If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
-
-Yahoo Finance • 4h ago
+Moomoo • 1h ago
 
 ---
 
@@ -211,17 +205,23 @@ CNBC • 1d ago
 
 ---
 
-**[Elon Musk likes Bitcoin—but he just told a jury most crypto coins are scams](https://fortune.com/2026/04/30/elon-musk-bitcoin-crypto-scams/)**
+**[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
 
-The billionaire’s thoughts on crypto came up during the OpenAI trial
-
-Fortune • 2d ago
+Forbes • 5h ago
 
 ---
 
 **[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
+
+---
+
+**[Elon Musk likes Bitcoin—but he just told a jury most crypto coins are scams](https://fortune.com/2026/04/30/elon-musk-bitcoin-crypto-scams/)**
+
+The billionaire’s thoughts on crypto came up during the OpenAI trial
+
+Fortune • 2d ago
 
 ---
 
@@ -247,7 +247,7 @@ How a 1970s-era application like a terminal emulator can consume more battery th
 
 Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
 
-⬆️ 51 • 💬 52 • 1d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
+⬆️ 51 • 💬 52 • 2d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
 
 ---
 
@@ -283,7 +283,7 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-in recovery, so you keep your private keys without losing access.
 
-⬆️ 1 • 💬 2 • 4d ago • [Bitkey](https://bitkey.world)
+⬆️ 1 • 💬 2 • 5d ago • [Bitkey](https://bitkey.world)
 
 ---
 
@@ -291,7 +291,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 7h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 8h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -299,7 +299,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 17h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 18h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -321,7 +321,7 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 265 • ⏱️ 13:54 • 19h ago
+👁️ 20K • 👍 1K • 💬 265 • ⏱️ 13:54 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 704 • 💬 18 • ⏱️ 52:45 • 3h ago
+👁️ 5K • 👍 704 • 💬 18 • ⏱️ 52:45 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Sa
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 239 • 💬 139 • ⏱️ 15:57 • 19h ago
+👁️ 4K • 👍 239 • 💬 139 • ⏱️ 15:57 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (n
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 954 • 💬 260 • ⏱️ 9:40 • 17h ago
+👁️ 14K • 👍 954 • 💬 260 • ⏱️ 9:40 • 18h ago
 
 ---
 
@@ -371,7 +371,7 @@ It is once again time to dubiously speculate on the price of Bitcoin! Into The C
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 2K • 💬 133 • ⏱️ 25:43 • 4h ago
+👁️ 14K • 👍 2K • 💬 133 • ⏱️ 25:43 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 11K • 👍 533 • 💬 16 • ⏱️ 4:21 • 23h ago
+👁️ 11K • 👍 533 • 💬 16 • ⏱️ 4:21 • 1d ago
 
 ---
 

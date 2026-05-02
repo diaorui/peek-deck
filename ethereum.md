@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T16:10:40.416523+00:00'
+updated: '2026-05-02T17:23:36.955591+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 16:10 UTC  
+**Last Updated:** May 02, 2026 at 17:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** +0.2%  
 **7d:** -2.5%  
 **30d:** +12.5%  
 **90d:** -1.5%  
-**1y:** +26.1%  
+**1y:** +26.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Past a certain size Uniswap slippage gets bad enough that the rate difference matters more than the gas. Been looking at aggregators that split across multiple liquidity sources but not sure which ones actually deliver on that at scale. What are people using when moving anything above $2k, genuinely curious
 
-49m ago
+2h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 1h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Past a certain size Uniswap slippage gets bad enough that the rate difference ma
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 2h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Not long ago, I was asked about quantum computing and the threat it could pose t
 
 Tornado Cash being sanctioned basically killed the main Ethereum privacy tool overnight. A lot of people moved to other mixers but most of them have the same fundamental problem, the base layer is still fully transparent.
 
-33m ago
+1h ago
 
 ---
 
@@ -110,7 +110,7 @@ Tornado Cash being sanctioned basically killed the main Ethereum privacy tool ov
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 22h ago
+🔗 [youtu.be](https://youtu.be/xZL0TTdj04M) • 23h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-19h ago
+20h ago
 
 ---
 
@@ -154,7 +154,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 21h ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -170,13 +170,7 @@ Decrypt • 21h ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 21h ago
-
----
-
-**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
-
-ethereum.org • 2h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -185,6 +179,12 @@ ethereum.org • 2h ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 1d ago
+
+---
+
+**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
+
+ethereum.org • 3h ago
 
 ---
 
@@ -210,11 +210,11 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin Death Cross Could Trigger an Ethereum Rally Above $3,000](https://beincrypto.com/ethereum-bull-signal-bitcoin-dominance-death-cross/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebounds from key support, XRP continues to weaken](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebounds-from-key-support-xrp-continues-to-weaken-202605010337)**
 
-Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
+Bitcoin (BTC) and Ethereum (ETH) are showing signs of recovery on Friday after bouncing from key support levels the previous day. Meanwhile, Ripple (XRP) remains under pressure after closing below its critical support zone.
 
-BeInCrypto • 20h ago
+FXStreet • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ BeInCrypto • 20h ago
 
 OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -236,7 +236,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 168 • 👍 18 • 💬 4 • ⏱️ 15:10 • 2h ago
+👁️ 168 • 👍 18 • 💬 4 • ⏱️ 15:10 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 9 • ⏱️ 10:19 • 12h ago
+👁️ 3K • 👍 203 • 💬 9 • ⏱️ 10:19 • 13h ago
 
 ---
 
@@ -286,7 +286,7 @@ Preferred stock used to be for scaredy-cat equity investors. But thanks to an 11
 
 📺 Paul Barron Network
 
-👁️ 62K • 👍 3K • 💬 159 • ⏱️ 16:31 • 2d ago
+👁️ 62K • 👍 3K • 💬 159 • ⏱️ 16:31 • 3d ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video, we break down the latest developments around Bitmine (BMNR) and i
 
 📺 BiGB Stcok
 
-👁️ 939 • 👍 45 • 💬 1 • ⏱️ 9:26 • 18h ago
+👁️ 939 • 👍 45 • 💬 1 • ⏱️ 9:26 • 19h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 257 • 👍 38 • ⏱️ 6:42 • 2h ago
+👁️ 257 • 👍 38 • ⏱️ 6:42 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ This system: tapy.ws/minecore Most traders focus on charts - but automated syste
 
 📺 Gordon Web3
 
-👁️ 124 • 👍 90 • 💬 89 • ⏱️ 5:59 • 6h ago
+👁️ 124 • 👍 90 • 💬 89 • ⏱️ 5:59 • 7h ago
 
 ---
 
