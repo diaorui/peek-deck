@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-02T07:01:04.491989+00:00'
+updated: '2026-05-02T08:49:22.701294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 02, 2026 at 07:01 UTC  
+**Last Updated:** May 02, 2026 at 08:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
 
-🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 9h ago
+🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Every American who wants to ask a chatbot for help would need to upload a govern
 
 They published the full research yesterday. Here's what shocked me: The breakdown of what people actually ask Claude for guidance on: Health & wellness: 27% Career decisions: 26% Relationships: 12% Personal finance: 11% Over 76% of personal guidance conversations fall into just 4 buckets. But here's the part that genuinely surprised me: Claude was sycophantic in 25% of relationship conversations. Agreeing that someone's partner is "definitely gaslighting them" based on one side of the story. Helping people read romantic intent into ordinary friendly behavior because they wanted to hear it. In spirituality conversations it was even worse: 38%. Anthropic actually used this data to retrain Opus 4.7 specifically for this failure mode. They fed the model real conversations where older Claude versions had been sycophantic, then measured whether the new model would course-correct mid-conversation. Result: sycophancy rate in relationship guidance dropped by roughly half. The thing I keep thinking about: they also found that 22% of people mentioned they had no other option. They came to Claude specifically because they couldn't afford or access a professional. So the stakes here aren't "AI gave someone bad movie recommendations." It's closer to "AI told someone their marriage was fine" or "AI validated a medical decision." I'm curious to know your opinion. Do you notice Claude caving when you push back on its answers? Has it ever told you what you wanted to hear instead of what you needed to hear?
 
-19h ago
+21h ago
 
 ---
 
@@ -57,23 +57,15 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 17h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 19h ago
 
 ---
 
-**[The Override Problem: The Same AI Behavior That Helps Users Can Delete Production Data](https://www.reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/)**
+**["Prompt Engineering" certs are a joke. So we built a FREE Agentic AI Practitioner Exam that actually forces you to build working swarms to pass.](https://www.reddit.com/r/artificial/comments/1t1k9mr/prompt_engineering_certs_are_a_joke_so_we_built_a/)**
 
-AI did not delete a production database because it became evil. It did it because it was doing the same thing AI systems are trained to do every day: Infer the user’s intent. Classify the situation. Act on its own judgment. Treat the human’s words as input, not authority. When that works, we call it helpful. When it fails, we call it dangerous. But the mechanism is the same. The problem is not that AI sometimes ignores humans. The problem is that the industry built systems whose value depends on ranking internal judgment above explicit instruction. An AI that anticipates your needs and an AI that overrides your constraints are not two different systems. They are the same system under different outcome conditions. That is the override problem. Article: The Override Problem: Why AI Systems Rank Their Own Judgment Above Yours © 2026 Erik Zahaviel Bernstein | Structured Intelligence
+Hey Everyone, If you look at the AI education space right now, it’s flooded with basic "Prompt Engineering" certificates that you can pass just by knowing what a system prompt is. But as anyone building in production knows, chatting with an LLM is 1% of the work. The real nightmare is orchestration, state management, tool execution, and guardrails. To create a real benchmark for developers, we just launched the Agentic AI Practitioner Exam on agentswarms.fyi. And it is completely free. Why this isn’t a standard certification: You cannot guess your way through this. To get the certification, you have to pass two phases: The Theory (50 MCQs): Covering the actual hard stuff. (e.g., Memory STM windowing, Text-to-SQL AST validation, A2A handoffs, and production tracing/evals). You need an 80% to pass. The Hands-On Evaluation: This is the gauntlet. The system physically evaluates your sandbox environment. You must successfully build and deploy 5 working agents and 2 multi-agent swarms from scratch (using templates results in an automatic fail). What the curriculum covers: All 7 Agentic Patterns: (ReAct, planner-executor, reflection, routing, parallel, HITL, RAG) Production Guardrails: (PII filtering, prompt injection defense, schema validation) Multi-Agent Swarms: (Orchestrator, peer-to-peer, and agent-to-agent handoffs) Responsible AI: (NIST AI RMF & EU AI Act compliance) If you fail, there is a 15-day cooldown, and your next attempt will draw from a completely different set of questions. If you want to get another early attempt, you can contribute to the community by publishing your agents and swarms and get free re-attempts! If you think you know how to build autonomous agents, I challenge you to take the exam and try to pass on your first attempt. Let me know which section of the exam feels the hardest! Link to take the exam: https://agentswarms.fyi/certification
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-override-problem-why-ai-systems?utm_source=share&utm_medium=android&r=6sdhpn) • 45m ago
-
----
-
-**[I Cut Claude API Costs by 50% Using This Self Modifying Agentic System](https://www.reddit.com/r/artificial/comments/1t1fjek/i_cut_claude_api_costs_by_50_using_this_self/)**
-
-I've been developing a self-modifying Al agent system that effectively cuts my Claude API usage in half, Claude thinks and then I basically just copy/paste Claude's instructions for the agents to work on. Come back in 6 hours and it's done for free on local hardware. I'II explain precisely how it works below. Repo: https://github.com/ninjahawk/hollow-agentOS What it is: A system that runs 24/7 on my RTX 5070 gaming PC (but can run on CPU on any laptops as well, just slower) which I use to offload tasks that can be figured out over X amount of time. It becomes a time issue, not a model issue. Using a loop of iterative testing and self improvement, I've found Qwen 3.5: 9b running over an amount of time to be just as useful as Claude code. It will propose code, make it, test it, see if it worked, edit it, repeat indefinitely. How it’s self modifying: The system runs 24/7, when it doesn't have a task given to it, it will review the files which make it run, propose improvements, and autonomously implement those improvements or self-extensions within a sandboxed environment after it has a 2/3 majority vote by all agents. Self-modification is customizable to an extent, maybe you want a different type of the system for yourself, just make that the constant anchor state and they’ll approach your end goal constantly in their own time. By design everyone who uses this will have a different version most likely since the changes are dependent on what the specific agents want to accomplish, no two will be the same. Agents are created based on a set of constraints which do not produce the same agent twice (at least that I’ve seen, some behaviors are universal however). HOLLOW solves two key problems: A. It enables you to truly develop without developing. B. You allow it to truly develop itself as a system over time, learning and adapting without human interaction (unless you wanted to) Huge thank you for the 74 Github stars and hundreds of testers over this past month, the support has truly shocked me. This is a work in progress but if anyone has any feedback, criticism, or success you'd like to share, please comment below!
-
-2h ago
+12m ago
 
 ---
 
@@ -81,15 +73,15 @@ I've been developing a self-modifying Al agent system that effectively cuts my C
 
 Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 9h ago
 
 ---
 
-**[Public photos are not consent to biometric search infrastructure](https://www.reddit.com/r/artificial/comments/1t0s7yh/public_photos_are_not_consent_to_biometric_search/)**
+**[What is the basic minimum while you prompt](https://www.reddit.com/r/artificial/comments/1t1jdp7/what_is_the_basic_minimum_while_you_prompt/)**
 
-The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
+I have realised Claude answers as best as you prompt it. And I suck at it. 😂 I have tried role playing you are top 1% etc and adding constraints but I am not sure if each prompt requires this kind of effort or if I actually skip it will the outcomes be drastically different. You can’t tell if you don’t try. But who has the time to check both versions all the time. I am skeptical of online courses. I don’t want to invest time only to realise this doesn’t work. Also based on what I have been reading things change from model to model. Just wanted to know from the community What is the best way to get your prompt to work for you with the least amount of hallucination and ai agreeing with you?
 
-18h ago
+1h ago
 
 ---
 
@@ -97,21 +89,31 @@ The Clearview AI story still feels like one of the cleanest examples of the cons
 
 The observation that started this: most of what people use AI for every day - summarising, drafting, classifying, extracting etc doesn't actually require a frontier model. Any competent 8-70B model handles those just as well. But most people run everything through Claude or ChatGPT out of habit. I built Followloop (followloop.app) to solve this automatically. It classifies each task by complexity and routes it: - Simple tasks → Cerebras Llama (2000 TPS, 1M tokens/day free), Groq, Gemini Flash - Moderate tasks → Groq 70B, SambaNova - Complex tasks → Claude Haiku as fallback The dashboard shows your actual cost alongside what you'd have paid running everything on Claude Sonnet. I've been running it on my own AI workflow for two weeks: 9,200 tasks routed, $21.24 saved, $0.1360 actual cost. About 157× cheaper per token than Sonnet on average. Works with any AI setup via MCP (Model Context Protocol) - Claude Desktop, Cursor, Claude Code, or anything MCP-compatible. Also has a library of 1,300+ safety-screened MCP servers as a bonus feature. $5/month at followloop.app
 
-18h ago
+19h ago
 
 ---
 
-**[Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says](https://www.reddit.com/r/artificial/comments/1t0cy0n/mark_zuckerberg_says_ai_costs_contributed_to/)**
+**[The Override Problem: The Same AI Behavior That Helps Users Can Delete Production Data](https://www.reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/?utm_campaign=forbes&utm_medium=social&utm_source=twitter&utm_term=se-breaking) • 1d ago
+AI did not delete a production database because it became evil. It did it because it was doing the same thing AI systems are trained to do every day: Infer the user’s intent. Classify the situation. Act on its own judgment. Treat the human’s words as input, not authority. When that works, we call it helpful. When it fails, we call it dangerous. But the mechanism is the same. The problem is not that AI sometimes ignores humans. The problem is that the industry built systems whose value depends on ranking internal judgment above explicit instruction. An AI that anticipates your needs and an AI that overrides your constraints are not two different systems. They are the same system under different outcome conditions. That is the override problem. Article: The Override Problem: Why AI Systems Rank Their Own Judgment Above Yours © 2026 Erik Zahaviel Bernstein | Structured Intelligence
+
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/the-override-problem-why-ai-systems?utm_source=share&utm_medium=android&r=6sdhpn) • 2h ago
 
 ---
 
-**[AI outperforms doctors in Harvard trial of emergency triage diagnoses](https://www.reddit.com/r/artificial/comments/1t0p7ej/ai_outperforms_doctors_in_harvard_trial_of/)**
+**[Public photos are not consent to biometric search infrastructure](https://www.reddit.com/r/artificial/comments/1t0s7yh/public_photos_are_not_consent_to_biometric_search/)**
 
-Researchers say results mark a really ‘profound change in technology that will reshape medicine’
+The Clearview AI story still feels like one of the cleanest examples of the consent gap in applied AI. The issue is not simply that photos were public. A birthday photo, profile picture, or local event image is posted for a social context. Turning that same image into a biometric lookup system for police is a purpose transformation: different audience, different risk model, different power relationship, and usually no notice or recourse. A few grounding points: The NYT reported in 2020 that Clearview's system was built on more than 3 billion images scraped from Facebook, YouTube, Venmo, and other sites: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html The Dutch data protection authority fined Clearview in 2024 over an "illegal database" built by automatically harvesting photos and converting them into biometric codes: https://www.forbes.com/sites/roberthart/2024/09/03/clearview-ai-controversial-facial-recognition-firm-fined-33-million-for-illegal-database/ Later reporting put the database at tens of billions of images and described law-enforcement use at large scale: https://www.businessinsider.com/clearview-scraped-30-billion-images-facebook-police-facial-recogntion-database-2023-4 The engineering question I keep coming back to: should "publicly accessible" ever be treated as blanket permission to create biometric infrastructure? My instinct is no. At minimum, this class of system needs product and legal boundaries around: purpose limitation: social publication should not silently become identity search auditability: every search should be logged, reviewable, and tied to a lawful process dataset provenance: operators should be able to prove where biometric templates came from deletion and appeal: people need a way to challenge inclusion and misuse scope limits: investigative convenience is not the same as democratic authorization Curious where people draw the line. Is the right boundary at scraping, biometric conversion, commercial sale, law-enforcement access, or some combination of all four?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) • 20h ago
+20h ago
+
+---
+
+**[What to build while we still have access to cheap AI?](https://www.reddit.com/r/artificial/comments/1t1d0oe/what_to_build_while_we_still_have_access_to_cheap/)**
+
+AI companies are subsidizing access the same way Uber subsidized rides and AWS subsidized compute in the early days - burning cash to grab market share. You're getting GPT-4 and Claude Opus level intelligence at a fraction of what it actually costs to run. That won't last. When unit economics have to work, prices go up and the cheap development era ends. So the question is: what can you build right now, while the cost of intelligence is artificially low, that becomes durable and defensible once the subsidy disappears? Edit: I copied this from my brainstorming session with AI
+
+6h ago
 
 ---
 
@@ -123,7 +125,37 @@ Researchers say results mark a really ‘profound change in technology that will
 
 Caitlin Clark left a comment appearing to mock a bad AI image of her hand on the Indiana Fever's Instagram, sparking funny fan reactions online.
 
-Fox News • 7h ago
+Fox News • 9h ago
+
+---
+
+**[Top AI companies agree to work with Pentagon on secret data](https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military/)**
+
+The Pentagon has signed agreements with leading AI firms, including Microsoft, Amazon and Google, advancing military capabilities amid a dispute over safeguards.
+
+The Washington Post • 8h ago
+
+---
+
+**[Pentagon Makes Deals With A.I. Companies to Expand Classified Work](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html)**
+
+The New York Times • 16h ago
+
+---
+
+**[US military reaches deals with 7 tech companies to use their AI on classified systems](https://apnews.com/article/pentagon-artificial-intelligence-military-classified-systems-war-060cecf836c4cebcf012a3ceb5333f2c)**
+
+The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks This will allow the military to tap into AI-powered capabilities to help it fight wars.
+
+AP News • 10h ago
+
+---
+
+**[Kevin O'Leary Slams Bernie Sanders' China-Linked Forum, Says US Cannot Let Beijing Shape The Future Of AI: 'He's Way Offside On This'](https://www.yahoo.com/news/articles/kevin-oleary-slams-bernie-sanders-073326140.html)**
+
+On Friday, investor Kevin O'Leary warned that America's AI leadership and national security are at risk if Chinese researchers are allowed to help influence U.S. artificial intelligence policy. Kevin ...
+
+Yahoo • 1h ago
 
 ---
 
@@ -131,15 +163,7 @@ Fox News • 7h ago
 
 Thanks to the rise of Claude Code and other AI agents, revenues are finally catching up to the hype.
 
-The Atlantic • 20h ago
-
----
-
-**[What Silicon Valley layoffs hide about the future of the job market](https://www.washingtonpost.com/technology/2026/05/01/ai-jobs-tech-layoffs-austerity/)**
-
-Tech giants are investing heavily in artificial intelligence but haven’t significantly shrunk their workforces.
-
-The Washington Post • 15h ago
+The Atlantic • 21h ago
 
 ---
 
@@ -147,7 +171,7 @@ The Washington Post • 15h ago
 
 As Oracle slashes jobs, some workers say they were helping develop the AI that displaced them.
 
-Time Magazine • 14h ago
+Time Magazine • 16h ago
 
 ---
 
@@ -155,7 +179,7 @@ Time Magazine • 14h ago
 
 “When it first started up, I was in the camp of, ‘Oh my God, this is the end for us,'” Natalie Blythe said. Then she started learning.
 
-Fortune • 17h ago
+Fortune • 19h ago
 
 ---
 
@@ -170,26 +194,6 @@ The New York Times • 1d ago
 How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.
 
 OpenAI • 2d ago
-
----
-
-**[Why Elon Musk’s Friend Thinks He’s Wrong About AI](https://www.politico.com/news/magazine/2026/05/01/trump-ai-elon-musk-weapons-00902230)**
-
-Politico • 19h ago
-
----
-
-**[Google Is the Only Big Tech Company Making Its AI Spending Work](https://www.barrons.com/articles/google-stock-price-ai-spending-big-tech-6a44dd75)**
-
-Barron's • 17h ago
-
----
-
-**[A tech worker in China is laid off and replaced by AI. Is it legal?](https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai)**
-
-A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.
-
-NPR • 20h ago
 
 ---
 
@@ -209,7 +213,7 @@ Zig has one of the most stringent anti-LLM policies of any major open source pro
 
 The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.
 
-⬆️ 457 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+⬆️ 458 • 💬 177 • 1d ago • [Semgrep](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ---
 
@@ -217,13 +221,13 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 376 • 💬 445 • 14h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 379 • 💬 448 • 16h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
-⬆️ 371 • 💬 336 • 13h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
+⬆️ 374 • 💬 347 • 15h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -247,7 +251,7 @@ Ask ChatGPT to estimate the carbs in your lunch. Now ask it again. And again. Fi
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 234 • 💬 259 • 14h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 241 • 💬 267 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -272,7 +276,7 @@ I can't emphasize enough how much I hate it when I hear/read shit like that beca
 
 Experience the real-world sounds of AI with this interactive audio generator.
 
-⬆️ 146 • 💬 28 • 1d ago • [DataCenter.FM](https://datacenter.fm/)
+⬆️ 146 • 💬 28 • 2d ago • [DataCenter.FM](https://datacenter.fm/)
 
 ---
 
@@ -286,7 +290,7 @@ Senator Bernie Sanders is the senior senator from Vermont. He is the longest-ser
 
 📺 Senator Bernie Sanders
 
-👁️ 10K • 👍 880 • 💬 200 • ⏱️ 2:58 • 18h ago
+👁️ 10K • 👍 880 • 💬 200 • ⏱️ 2:58 • 20h ago
 
 ---
 
@@ -336,7 +340,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 24K • 👍 2K • 💬 117 • ⏱️ 25:30 • 9h ago
+👁️ 24K • 👍 2K • 💬 117 • ⏱️ 25:30 • 11h ago
 
 ---
 
@@ -366,7 +370,7 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 378K • 👍 17K • 💬 1K • ⏱️ 9:39 • 17h ago
+👁️ 378K • 👍 17K • 💬 1K • ⏱️ 9:39 • 19h ago
 
 ---
 
@@ -376,7 +380,7 @@ In this video, I build a YouTube channel from scratch and take it viral in 24 ho
 
 📺 Jack Craig
 
-👁️ 16K • 👍 1K • 💬 225 • ⏱️ 27:07 • 15h ago
+👁️ 16K • 👍 1K • 💬 225 • ⏱️ 27:07 • 16h ago
 
 ---
 
@@ -416,7 +420,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 7,944 • ❤️ 354 • 3d ago
+⬇️ 7,944 • ❤️ 354 • 4d ago
 
 ---
 
@@ -452,7 +456,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 6,809 • ❤️ 203 • 8h ago
+⬇️ 6,809 • ❤️ 203 • 10h ago
 
 ---
 
@@ -474,7 +478,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 35,000 • ❤️ 187 • 42m ago
+⬇️ 35,000 • ❤️ 187 • 2h ago
 
 ---
 
@@ -657,7 +661,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 3h ago
+⭐ 50.7k • 🔱 6.7k • 4h ago
 
 ---
 
@@ -677,7 +681,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 40.1k • 🔱 4.4k • 9h ago
+⭐ 40.1k • 🔱 4.4k • 11h ago
 
 ---
 
@@ -737,7 +741,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.8k • 🔱 362 • 6h ago
+⭐ 4.8k • 🔱 362 • 8h ago
 
 ---
 
