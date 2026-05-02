@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-02T10:59:19.093713+00:00'
+updated: '2026-05-02T11:53:28.629917+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 10:59 UTC  
+**Last Updated:** May 02, 2026 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[need help with trustwallet](https://www.reddit.com/r/ethereum/comments/1t1jp9r/need_help_with_trustwallet/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ I was wondering if someone has some good ideas on task of creating decentralised
 
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Canada is establishing a new Financial Crimes Agency to investigate and prosecut
 
 DeFi United technical implementation plan to restore rsETH backing, Solidity 0.8.35, Status Network merging into Linea stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-21/) • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 16h ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ ethereum.org • 1d ago
 
 Bitcoin trades above $77,000 on Friday morning as Bitcoin ETFs saw $14.8 million in net inflows on Thursday, while Ethereum ETFs reported $23.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$77,805Ethereum(CRYPTO: ETH)$2,305Solana(CRYPTO: SOL)$84.38XRP(CRYPTO: XRP)$1.39Dogecoin(CRYPTO: DOGE)$0.1081Shiba Inu(CRYPTO: SHIB)$0.056303 Meme coin market capitalization is...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 58m ago
 
 Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ FXStreet • 1d ago
 
 OKX launched an agent payments protocol backed by Ethereum and Solana. Ethereum reaching $10,000 by December 31, 2026 priced at 3.7% YES.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 8 • ⏱️ 10:19 • 7h ago
+👁️ 2K • 👍 140 • 💬 8 • ⏱️ 10:19 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 63 • 💬 13 • ⏱️ 8:12 • 21h ago
+👁️ 2K • 👍 63 • 💬 13 • ⏱️ 8:12 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 727 • 👍 75 • ⏱️ 6:41 • 8h ago
+👁️ 727 • 👍 75 • ⏱️ 6:41 • 9h ago
 
 ---
 
@@ -316,7 +316,7 @@ Ethereum and altcoins are bleeding from the largest wave of crypto hacks yet —
 
 📺 EllioTrades
 
-👁️ 4K • 👍 171 • 💬 111 • ⏱️ 1:20:25 • 15h ago
+👁️ 4K • 👍 171 • 💬 111 • ⏱️ 1:20:25 • 16h ago
 
 ---
 

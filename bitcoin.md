@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-02T10:59:19.087663+00:00'
+updated: '2026-05-02T11:53:28.623808+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 02, 2026 at 10:59 UTC  
+**Last Updated:** May 02, 2026 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin at $78K, me who bought at $90K: “Not a loss, just a long-term commitment I didn’t sign up for.” 😅](https://www.reddit.com/r/Bitcoin/comments/1t1jc5s/bitcoin_at_78k_me_who_bought_at_90k_not_a_loss/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Masood Boomgaard aka Self-Help Singh
 
-14h ago
+15h ago
 
 ---
 
@@ -95,13 +95,13 @@ Masood Boomgaard aka Self-Help Singh
 
 Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and sold on the way down 2 times now. This is the first time I have held my nose on the bottom and I hope it goes higher. Caveat, I don't plan on selling my Bitcoin but I am reconsidering if I should keep investing. I guess my question is, is there enough money for us to see it go to 300k? When it was at $120K it was valued at about 2T if I am not mistaken. Is it even possible for it to go to the numbers we want it to go? Sorry not a technical person so would love some insight and opinions. For it to be at let's say 300K, would it need to be valued at around 5 trillion, is there even enough liquidity to cover it?
 
-18h ago
+19h ago
 
 ---
 
 **[Two different approaches](https://www.reddit.com/r/Bitcoin/comments/1t18xx2/two_different_approaches/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ Been a Bitcoin buyer now for about 5-6 years now, usually bought at the top and 
 
 Let's go, pedal to the metal!
 
-20h ago
+21h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoin just got a war upgrade. On Thursday, US Secretary of War Pete Hegseth to
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Who out there had a shady dealing with this guy?
 
-37m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Who out there had a shady dealing with this guy?
 
 Just saw the Spiegel report yesterday that german officials have apparently finalized a plan to abolish "§23 EStG" — the 1-year holding period that's been the foundation of how everyone I know thinks about their stack. Cabinet vote expected within days. Effective from the next tax year. EU seems to be eager to follow? What a shitshow.
 
-15h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ Just saw the Spiegel report yesterday that german officials have apparently fina
 
 I'm afraid that we keep waiting for some dramatic “mass adoption moment,” like a switch flipping overnight. Meanwhile, it’s already happening-quietly, unevenly, and mostly outside the bubbles that think they’re the center of the world. In countries with stable currencies, Bitcoin is a “speculative asset.” In countries with collapsing ones, it’s survival. That alone should tell us something about where this is going. We don’t notice adoption because it doesn’t need our validation. It happens when someone realizes their savings are melting. When cross-border payments are broken. When “trusted” institutions fail one too many times. And here’s the uncomfortable truth: Bitcoin isn’t waiting to be adopted by everyone. It’s being adopted first by the people who actually need it. By the time it feels obvious in the West, it won’t be early anymore-it’ll be inevitable. So the real question is: are we early or just early enough to still ignore it?
 
-19h ago
+20h ago
 
 ---
 
@@ -161,7 +161,7 @@ I'm afraid that we keep waiting for some dramatic “mass adoption moment,” li
 
 A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 4h ago
 
 PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 17h ago
 
 Bitcoin trades above $77,000 on Friday morning as Bitcoin ETFs saw $14.8 million in net inflows on Thursday, while Ethereum ETFs reported $23.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$77,805Ethereum(CRYPTO: ETH)$2,305Solana(CRYPTO: SOL)$84.38XRP(CRYPTO: XRP)$1.39Dogecoin(CRYPTO: DOGE)$0.1081Shiba Inu(CRYPTO: SHIB)$0.056303 Meme coin market capitalization is...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 58m ago
 
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ Barron's • 1d ago
 
 **[Riot Platform Stock Spikes After Data Center Debut, AMD Doubles Capacity](https://www.investors.com/news/riot-platforms-stock-earnings-bitcoin-miner-data-center-amd-contract-capacity/)**
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investor's Business Daily • 14h ago
 
 Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -291,7 +291,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 1h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 2h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -299,7 +299,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 11h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 12h ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -321,7 +321,7 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 66 • ⏱️ 13:54 • 13h ago
+👁️ 18K • 👍 1K • 💬 66 • ⏱️ 13:54 • 14h ago
 
 ---
 
@@ -351,7 +351,7 @@ Subscribe. Before this becomes obvious. $10M Bitcoin isn't the story. Michael Sa
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 221 • 💬 129 • ⏱️ 15:57 • 14h ago
+👁️ 4K • 👍 221 • 💬 129 • ⏱️ 15:57 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ Money on the internet is still broken.” David Marcus returns to the show to br
 
 📺 What Bitcoin Did
 
-👁️ 4K • 👍 137 • 💬 103 • ⏱️ 57:24 • 19h ago
+👁️ 4K • 👍 137 • 💬 103 • ⏱️ 57:24 • 20h ago
 
 ---
 
@@ -411,7 +411,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 502 • 💬 8 • ⏱️ 4:21 • 18h ago
+👁️ 10K • 👍 502 • 💬 8 • ⏱️ 4:21 • 19h ago
 
 ---
 

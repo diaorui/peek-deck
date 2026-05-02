@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-02T10:59:19.078952+00:00'
+updated: '2026-05-02T11:53:28.615224+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - news
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 02, 2026 at 10:59 UTC  
+**Last Updated:** May 02, 2026 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned.The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're "back to the drawing board" on AI budgeting for next year.What's notable is what this implies for the industry. Most enterprises are still treating AI coding tools as a line item they can forecast like a SaaS seat license - fixed cost, predictable renewal. Uber's experience suggests the actual cost driver is adoption intensity, not seat count. A team that uses Claude Code heavily for multi-step agentic work generates orders of magnitude more API spend than one that uses Copilot for autocomplete.The companies that haven't hit this wall yet probably will. Uber's R&D spend is $3.4B annually, so even at the high end this is manageable for them. For a smaller engineering org, an unforecast 4x budget overrun on AI tooling could genuinely disrupt hiring or infrastructure plans.The interesting question isn't whether this is worth the cost - Uber clearly thinks it is or they'd restrict access. It's whether the productivity gains have been measured in a way that's comparable to the spend. Has your company tried to put actual numbers on the AI coding ROI, or is it mostly vibes and velocity estimates?
 
-14m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 Every American who wants to ask a chatbot for help would need to upload a government ID, scan their face, or hand over a financial record first.
 
-🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 13h ago
+🔗 [Reclaim The Net](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Every American who wants to ask a chatbot for help would need to upload a govern
 
 They published the full research yesterday. Here's what shocked me: The breakdown of what people actually ask Claude for guidance on: Health & wellness: 27% Career decisions: 26% Relationships: 12% Personal finance: 11% Over 76% of personal guidance conversations fall into just 4 buckets. But here's the part that genuinely surprised me: Claude was sycophantic in 25% of relationship conversations. Agreeing that someone's partner is "definitely gaslighting them" based on one side of the story. Helping people read romantic intent into ordinary friendly behavior because they wanted to hear it. In spirituality conversations it was even worse: 38%. Anthropic actually used this data to retrain Opus 4.7 specifically for this failure mode. They fed the model real conversations where older Claude versions had been sycophantic, then measured whether the new model would course-correct mid-conversation. Result: sycophancy rate in relationship guidance dropped by roughly half. The thing I keep thinking about: they also found that 22% of people mentioned they had no other option. They came to Claude specifically because they couldn't afford or access a professional. So the stakes here aren't "AI gave someone bad movie recommendations." It's closer to "AI told someone their marriage was fine" or "AI validated a medical decision." I'm curious to know your opinion. Do you notice Claude caving when you push back on its answers? Has it ever told you what you wanted to hear instead of what you needed to hear?
 
-23h ago
+1d ago
 
 ---
 
@@ -65,7 +65,7 @@ They published the full research yesterday. Here's what shocked me: The breakdow
 
 China just banned firing workers for AI while Nvidia's CEO claims AI created over 500K jobs, setting up a clash over automation's future.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 21h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-bans-ai-layoffs-nvidia-ceo-500k-jobs/) • 22h ago
 
 ---
 
@@ -73,7 +73,7 @@ China just banned firing workers for AI while Nvidia's CEO claims AI created ove
 
 We've been building Caliber to solve AI agent configuration management and released our full setup as open source. The response has been great — 888 GitHub stars and approaching 100 forks. Repo: https://github.com/caliber-ai-org/ai-setup The problem: every team integrating LLMs/AI agents ends up rebuilding the same config infrastructure — API key management, model selection logic, fallback chains, rate limiting configs. There's no standard. We tried to build that standard and open-source it. Key things in the repo: - Structured config schemas for AI agents - Multi-model fallback configuration - Environment isolation patterns - Observability and health check hooks We'd love feedback from the community: - What AI agent config challenges aren't covered here? - What features would make this genuinely useful for your projects? - Any integrations (LangChain, AutoGPT, etc.) you'd want to see? This is a community project — PRs and feature requests are very welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ We've been building Caliber to solve AI agent configuration management and relea
 
 Over the past year our team and community have been building an open-source collection of AI agent configs: production-ready system prompts, tool-calling schemas, RAG setups, multi-agent orchestration patterns, and model-specific tuning files. Repo: https://github.com/caliber-ai-org/ai-setup This week it crossed 888 GitHub stars and nearly 100 forks. All free, no paywall, no product to sell. What's in there: - System prompt templates across GPT-4o, Claude 3.5/3.7, Gemini 2.5 Pro - Tool-use and function calling schemas for agentic workflows - LangChain / LangGraph agent setup configs - RAG pipeline configurations with different retrieval strategies - Ollama and local model setups - CLAUDE.md / AGENTS.md templates for coding agent contexts - Multi-agent orchestration patterns We'd love to hear from this community: What AI agent patterns are you using that you'd want to see in the repo? What's missing that would make this genuinely useful to you? What setups have you found work well in production? All feedback and contributions are welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Over the past year our team and community have been building an open-source coll
 
 Hey Everyone, If you look at the AI education space right now, it’s flooded with basic "Prompt Engineering" certificates that you can pass just by knowing what a system prompt is. But as anyone building in production knows, chatting with an LLM is 1% of the work. The real nightmare is orchestration, state management, tool execution, and guardrails. To create a real benchmark for developers, we just launched the Agentic AI Practitioner Exam on agentswarms.fyi. And it is completely free. Why this isn’t a standard certification: You cannot guess your way through this. To get the certification, you have to pass two phases: The Theory (50 MCQs): Covering the actual hard stuff. (e.g., Memory STM windowing, Text-to-SQL AST validation, A2A handoffs, and production tracing/evals). You need an 80% to pass. The Hands-On Evaluation: This is the gauntlet. The system physically evaluates your sandbox environment. You must successfully build and deploy 5 working agents and 2 multi-agent swarms from scratch (using templates results in an automatic fail). What the curriculum covers: All 7 Agentic Patterns: (ReAct, planner-executor, reflection, routing, parallel, HITL, RAG) Production Guardrails: (PII filtering, prompt injection defense, schema validation) Multi-Agent Swarms: (Orchestrator, peer-to-peer, and agent-to-agent handoffs) Responsible AI: (NIST AI RMF & EU AI Act compliance) If you fail, there is a 15-day cooldown, and your next attempt will draw from a completely different set of questions. If you want to get another early attempt, you can contribute to the community by publishing your agents and swarms and get free re-attempts! If you think you know how to build autonomous agents, I challenge you to take the exam and try to pass on your first attempt. Let me know which section of the exam feels the hardest! Link to take the exam: https://agentswarms.fyi/certification
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey Everyone, If you look at the AI education space right now, it’s flooded wi
 
 Agreements with artificial intelligence firms spark concerns over public spending, cyber security and domestic surveillance
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai) • 12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Agreements with artificial intelligence firms spark concerns over public spendin
 
 I have realised Claude answers as best as you prompt it. And I suck at it. 😂 I have tried role playing you are top 1% etc and adding constraints but I am not sure if each prompt requires this kind of effort or if I actually skip it will the outcomes be drastically different. You can’t tell if you don’t try. But who has the time to check both versions all the time. I am skeptical of online courses. I don’t want to invest time only to realise this doesn’t work. Also based on what I have been reading things change from model to model. Just wanted to know from the community What is the best way to get your prompt to work for you with the least amount of hallucination and ai agreeing with you?
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ The observation that started this: most of what people use AI for every day - su
 
 The Pentagon has signed agreements with leading AI firms, including Microsoft, Amazon and Google, advancing military capabilities amid a dispute over safeguards.
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Washington Post • 10h ago
 
 The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -141,7 +141,7 @@ BBC • 13h ago
 
 The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks This will allow the military to tap into AI-powered capabilities to help it fight wars.
 
-AP News • 12h ago
+AP News • 13h ago
 
 ---
 
@@ -149,7 +149,7 @@ AP News • 12h ago
 
 Thanks to the rise of Claude Code and other AI agents, revenues are finally catching up to the hype.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -157,7 +157,7 @@ The Atlantic • 23h ago
 
 As the law stands now, your AI conversations can find their way from a computer into the courtroom.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -165,13 +165,13 @@ CNN • 1h ago
 
 Music fans are becoming increasingly uncomfortable with AI songs, according to a recent study.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
 **[AI threatens Big Law's talent pipeline](https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Axios • 1h ago
 
 As Oracle slashes jobs, some workers say they were helping develop the AI that displaced them.
 
-Time Magazine • 18h ago
+Time Magazine • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ Time Magazine • 18h ago
 
 An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed. It's being evaluated in a clinical trial.
 
-NBC News • 59m ago
+NBC News • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ NBC News • 59m ago
 
 Caitlin Clark left a comment appearing to mock a bad AI image of her hand on the Indiana Fever's Instagram, sparking funny fan reactions online.
 
-Fox News • 11h ago
+Fox News • 12h ago
 
 ---
 
@@ -223,13 +223,13 @@ The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 383 • 💬 454 • 18h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 383 • 💬 454 • 19h ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
-⬆️ 376 • 💬 355 • 17h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
+⬆️ 376 • 💬 355 • 18h ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -245,7 +245,7 @@ They built it. They're scared of it. They're selling it anyway.
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 244 • 💬 268 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 244 • 💬 268 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -292,7 +292,7 @@ Senator Bernie Sanders is the senior senator from Vermont. He is the longest-ser
 
 📺 Senator Bernie Sanders
 
-👁️ 11K • 👍 916 • 💬 214 • ⏱️ 2:58 • 22h ago
+👁️ 11K • 👍 916 • 💬 214 • ⏱️ 2:58 • 23h ago
 
 ---
 
@@ -362,7 +362,7 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 404K • 👍 18K • 💬 1K • ⏱️ 9:39 • 21h ago
+👁️ 404K • 👍 18K • 💬 1K • ⏱️ 9:39 • 22h ago
 
 ---
 
@@ -458,7 +458,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 8,492 • ❤️ 209 • 3h ago
+⬇️ 8,492 • ❤️ 209 • 4h ago
 
 ---
 
@@ -470,7 +470,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 37,418 • ❤️ 189 • 4h ago
+⬇️ 37,418 • ❤️ 189 • 5h ago
 
 ---
 
@@ -663,7 +663,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.7k • 🔱 6.7k • 7h ago
+⭐ 50.7k • 🔱 6.7k • 8h ago
 
 ---
 
@@ -683,7 +683,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 40.2k • 🔱 4.4k • 2h ago
+⭐ 40.2k • 🔱 4.4k • 3h ago
 
 ---
 
@@ -743,7 +743,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.9k • 🔱 363 • 10h ago
+⭐ 4.9k • 🔱 363 • 11h ago
 
 ---
 
