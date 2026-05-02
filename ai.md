@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-02T20:42:33.345521+00:00'
+updated: '2026-05-02T21:41:19.739608+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 02, 2026 at 20:42 UTC  
+**Last Updated:** May 02, 2026 at 21:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Every country needs to do this asap](https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Uber deployed Claude Code to engineers in December 2025. By April 2026, the company had consumed its entire annual AI budget - not because the tool failed, but because adoption took off faster than anyone planned. The numbers: 95% of Uber engineers now use AI tools monthly. 70% of committed code originates from AI. Monthly costs per engineer are running $500 to $2,000, depending on usage. The company's CTO said they're "back to the drawing board" on AI budgeting for next year. What's notable is what this implies for the industry. Most enterprises are still treating AI coding tools as a line item they can forecast like a SaaS seat license - fixed cost, predictable renewal. Uber's experience suggests the actual cost driver is adoption intensity, not seat count. A team that uses Claude Code heavily for multi-step agentic work generates orders of magnitude more API spend than one that uses Copilot for autocomplete. The companies that haven't hit this wall yet probably will. Uber's R&D spend is $3.4B annually, so even at the high end this is manageable for them. For a smaller engineering org, an unforecast 4x budget overrun on AI tooling could genuinely disrupt hiring or infrastructure plans. The interesting question isn't whether this is worth the cost - Uber clearly thinks it is or they'd restrict access. It's whether the productivity gains have been measured in a way that's comparable to the spend. Has your company tried to put actual numbers on the AI coding ROI, or is it mostly vibes and velocity estimates?
 
-9h ago
+10h ago
 
 ---
 
@@ -55,7 +55,7 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Full multiplayer support for up to 6 players with VoIP All made with ThreeJS and Colyseus https://spellwright.xyz/
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Ful
 
 I was surprised they haven’t already been ticketing them, but also…why would an AI break traffic laws, and is there even a case of this happening?
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 2h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 3h ago
 
 ---
 
@@ -79,7 +79,7 @@ With no unions to slow the collision and scant regulation to cushion the afterma
 
 Claude was able to create this Indie Game Jam Challenge with simple user guided prompts in the Godong engine with Mythos Preview with Zero training on the Godong engine.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Every American who wants to ask a chatbot for help would need to upload a govern
 
 Hello people! AI moves fast. Keeping up with it means checking Twitter, Reddit, newsletters, and a dozen tech blogs every day, most of which are noise anyway. I built AIWire to cut through that. It aggregates the most important AI stories from trusted sources across the web and updates daily, so you have one place to check instead of ten. No random blogs. No Twitter threads. No low-quality reposts. Just the stories that came from sources worth reading. What it does: - Aggregates top AI news daily from trusted, established sources - No account, no sign-up, completely free - Updates automatically, just open and read - Clean feed, no ads cluttering the content Live at aiwire.app Feedback is always welcome, always looking to improve the source list and coverage.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hello people! AI moves fast. Keeping up with it means checking Twitter, Reddit, 
 
 I am paying 50$ who help start AI model journey? I have basic face pics around 8-10. Now i need video contents with the same character. Problemalistico, is that all the nano banana, and other staff can not copy the same face. And I want that same face. Any help i apprecite guys. My first work, amd i just try and try and nothing works.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am paying 50$ who help start AI model journey? I have basic face pics around 8
 
 So I built heurchain—a memory layer that: - Works seamlessly with Hermes and any other agents in your stack - Persists across agent creation/destruction (no more memory amnesia) - Gives each sub-agent its own session tracking automatically - Integrates in ~5 lines of code npm i heurchain https://www.npmjs.com/package/heurchain Would love feedback from anyone working with multi-agent systems.
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ So I built heurchain—a memory layer that: - Works seamlessly with Hermes and a
 
 Ground zero for the artificial intelligence boom may lie in the U.S. But the gargantuan investment flows involved are spilling well beyond U.S. borders.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -131,19 +131,19 @@ The Washington Post • 4h ago
 
 Trump’s odd AI image came on the same day the Lincoln Memorial Reflecting Pool renovation site was vandalized with graffiti
 
-The Independent • 2h ago
+The Independent • 3h ago
 
 ---
 
 **[Poll: Job losses, China threats split GOP on Trump’s AI agenda](https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754)**
 
-Politico • 9h ago
+Politico • 10h ago
 
 ---
 
 **[AI threatens Big Law's talent pipeline](https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence)**
 
-Axios • 11h ago
+Axios • 12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 11h ago
 
 A native Mandarin speaker built a translation app specifically designed to meet the needs of couples so that he could communicate with his Japanese-speaking girlfriend. The app uses a memory feature to accurately communicate inside jokes, pet names and quirks.
 
-People.com • 42m ago
+People.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ People.com • 42m ago
 
 Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America’s artificial intelligence economy.
 
-Anchorage Daily News • 44m ago
+Anchorage Daily News • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Anchorage Daily News • 44m ago
 
 More like Clod AI.
 
-New York Post • 17m ago
+New York Post • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ New York Post • 17m ago
 
 As the law stands now, your AI conversations can find their way from a computer into the courtroom.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNN • 11h ago
 
 We asked AI to simulate the race using the present odds, draw and potential track conditions.
 
-Yahoo Sports • 7h ago
+Yahoo Sports • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Sports • 7h ago
 
 OpenAI made the perfect tool for scammers.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -233,7 +233,7 @@ Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months
 
 As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.
 
-⬆️ 310 • 💬 166 • 5h ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
+⬆️ 310 • 💬 166 • 6h ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
 
 ---
 
@@ -297,7 +297,7 @@ Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views 
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 11K • 👍 932 • 💬 63 • ⏱️ 26:56 • 6h ago
+👁️ 11K • 👍 932 • 💬 63 • ⏱️ 26:56 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Try Higgsfield Canvas here: https://higgsfield.ai/s/canvas-1-0-airevolutionx-cmX
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 158 • ⏱️ 15:42 • 22h ago
+👁️ 36K • 👍 1K • 💬 158 • ⏱️ 15:42 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Mike Off Record
 
-👁️ 3K • 👍 317 • 💬 60 • ⏱️ 12:11 • 2h ago
+👁️ 3K • 👍 317 • 💬 60 • ⏱️ 12:11 • 3h ago
 
 ---
 
@@ -453,7 +453,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 8,492 • ❤️ 220 • 12h ago
+⬇️ 8,492 • ❤️ 220 • 13h ago
 
 ---
 
@@ -475,7 +475,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 37,418 • ❤️ 196 • 14h ago
+⬇️ 37,418 • ❤️ 196 • 15h ago
 
 ---
 
@@ -658,7 +658,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.8k • 🔱 6.7k • 16h ago
+⭐ 50.8k • 🔱 6.7k • 17h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 40.6k • 🔱 4.5k • 3h ago
+⭐ 40.6k • 🔱 4.5k • 4h ago
 
 ---
 
@@ -728,7 +728,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 4.9k • 🔱 368 • 1h ago
+⭐ 4.9k • 🔱 368 • 2h ago
 
 ---
 
