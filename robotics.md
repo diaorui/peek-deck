@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T15:23:02.196011+00:00'
+updated: '2026-05-03T16:09:14.984991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 15:23 UTC  
+**Last Updated:** May 03, 2026 at 16:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ I literally have all these pieces bought, and everything is wired together but i
 
 The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
 
-🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 1h ago
+🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 2h ago
 
 ---
 
@@ -60,19 +60,19 @@ The hidden velocity killer in robotics development isn't talent or ambition, it'
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-11h ago
+12h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -100,11 +100,11 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 ---
 
-**[Figure's First Full HQ Tour: From the Lab to the Factory Floor - YouTube](https://www.reddit.com/r/robotics/comments/1t1j3f5/figures_first_full_hq_tour_from_the_lab_to_the/)**
+**[Humanoid robots](https://www.reddit.com/r/robotics/comments/1t2bw99/humanoid_robots/)**
 
-Interview start's a little slow, but it gets pretty interesting. Brett does answer questions about teleoperating, whether you believe him or not is upto you. I would take everything with a grain of salt, but it is cool regardless. Personally, I thought the 'never fall' philosophy was quite interesting. The pricing was interesting too 'few hundred dollars per month'.
+Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ch_UM_JJU9w) • 1d ago
+11h ago
 
 ---
 
@@ -114,7 +114,7 @@ Interview start's a little slow, but it gets pretty interesting. Brett does answ
 
 **[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -126,19 +126,13 @@ Yahoo Finance UK • 1d ago
 
 ---
 
-**[Meta Acquires Robotics AI Startup As It Makes The Push Into Humanoid Machines](https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/)**
+**[Meta Acquires Robotics AI Startup](https://www.theinformation.com/briefings/meta-acquires-robotics-ai-startup)**
 
-Meta, AI, humanoid, robot
+Meta Platforms has acquired Assured Robotics Intelligence, a startup developing AI models for humanoid robots, for an undisclosed sum. 
 
-Engadget • 1d ago
+ A company spokesperson said Friday that it had acquired the startup, which focuses on developing AI models that help robots understand and adapt to human behavior across a range of environments. “This team, led by Lerrel Pinto and Xiaolong Wang, will bring a
 
----
-
-**[Robotic passenger traveling for work causes Southwest flight delay](https://www.ky3.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
-
-Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
-
-KY3 • 5h ago
+The Information • 1d ago
 
 ---
 
@@ -147,6 +141,14 @@ KY3 • 5h ago
 Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
 
 Fox News • 2d ago
+
+---
+
+**[Robotic passenger traveling for work causes Southwest flight delay](https://www.kswo.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
+
+Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
+
+KSWO 7News • 6h ago
 
 ---
 
@@ -236,7 +238,7 @@ ABC News' Sophie Flay takes a closer look at the future of humanoid robots, wher
 
 📺 ABC News
 
-👁️ 33K • 👍 1K • 💬 86 • ⏱️ 1:56 • 17h ago
+👁️ 33K • 👍 1K • 💬 86 • ⏱️ 1:56 • 18h ago
 
 ---
 
@@ -256,7 +258,7 @@ Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to 
 
 📺 Sequoia Capital
 
-👁️ 79K • 👍 1K • 💬 53 • ⏱️ 20:03 • 2d ago
+👁️ 79K • 👍 1K • 💬 53 • ⏱️ 20:03 • 3d ago
 
 ---
 

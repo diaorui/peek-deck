@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T15:23:02.192781+00:00'
+updated: '2026-05-03T16:09:14.982054+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 15:23 UTC  
+**Last Updated:** May 03, 2026 at 16:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +0.8%  
-**30d:** +12.6%  
-**90d:** +4.0%  
-**1y:** +28.5%  
+**24h:** +0.9%  
+**7d:** +1.0%  
+**30d:** +12.7%  
+**90d:** +4.1%  
+**1y:** +28.7%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
-
----
-
-**[Ethereum mainnet may get a lot more room after Glamsterdam](https://www.reddit.com/r/ethereum/comments/1t2d5mr/ethereum_mainnet_may_get_a_lot_more_room_after/)**
-
-Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
-
-9h ago
+11h ago
 
 ---
 
@@ -88,7 +80,15 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 6h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 7h ago
+
+---
+
+**[Ethereum mainnet may get a lot more room after Glamsterdam](https://www.reddit.com/r/ethereum/comments/1t2d5mr/ethereum_mainnet_may_get_a_lot_more_room_after/)**
+
+Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
+
+10h ago
 
 ---
 
@@ -150,22 +150,6 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 ## Google News: "ethereum"
 
-**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
-
-The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
-
-CoinDesk • 1d ago
-
----
-
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
-
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
@@ -182,17 +166,17 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
+**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
 
-ethereum.org • 1d ago
+Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
+
+Yahoo Finance • 3d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-morning-113211522.html)**
+**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-Bitcoin opened at $76,306.55 on Friday, and as of 7:17 a.m ET, its value was $77,376.65. Ethereum opened at $2,256.39 on Friday, and the value of ethereum as of 7:17 a.m. ET was $2,284.34.
-
-Yahoo Finance • 2d ago
+ethereum.org • 1d ago
 
 ---
 
@@ -212,19 +196,35 @@ markets.businessinsider.com • 9h ago
 
 ---
 
-**[‘Ethereum’s Price Should Have Dropped Already’ – Analyst Explains The On-Chain Signal Behind The Warning](https://www.tradingview.com/news/newsbtc:d9ab6d652094b:0-ethereum-s-price-should-have-dropped-already-analyst-explains-the-on-chain-signal-behind-the-warning/)**
-
-Ethereum has surged more than 25% since late March, pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous attempt higher. The move has been convincing enough to shift sentiment — but a CryptoQuant analyst h…
-
-TradingView • 1d ago
-
----
-
 **[BitMine’s 4.5M ETH stake strategy boosts confidence in $5,000 May target](https://cryptobriefing.com/bitmines-45m-eth-stake-strategy-boosts-confidence-in-5000-may-target/)**
 
 BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
+
+---
+
+**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+
+The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum ETFs Shed $184M Over 4-Day Negative Streak](https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak)**
+
+Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
+
+Decrypt • 2d ago
+
+---
+
+**[Best Crypto to Buy in May: 3 Cryptos to Watch as the Market Enters Its Most Catalyst-Heavy Month](https://247wallst.com/investing/2026/05/01/best-crypto-to-buy-in-may-3-cryptos-to-watch-as-the-market-enters-its-most-catalyst-heavy-month/)**
+
+Bitcoin, XRP, and Ethereum emerge as the best cryptos to buy in May, with the month loaded with catalysts that could spark explosive rallies.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:49 • 16h ago
+👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:49 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 221 • 💬 10 • ⏱️ 15:33 • 18h ago
+👁️ 5K • 👍 221 • 💬 10 • ⏱️ 15:33 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 2K • 💬 9 • ⏱️ 11:48 • 14h ago
+👁️ 2K • 💬 9 • ⏱️ 11:48 • 15h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 318 • 👍 52 • 💬 2 • ⏱️ 6:20 • 2h ago
+👁️ 318 • 👍 52 • 💬 2 • ⏱️ 6:20 • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ TheMarketTruth-89k-views Most people think Bitcoin and Ethereum are the same. Th
 
 📺 The Market Truth
 
-👁️ 1 • ⏱️ 8:28 • 6h ago
+👁️ 1 • ⏱️ 8:28 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success De
 
 📺 Reset Life
 
-👁️ 11K • 💬 4 • ⏱️ 0:20 • 2h ago
+👁️ 11K • 💬 4 • ⏱️ 0:20 • 3h ago
 
 ---
 
