@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-03T10:55:28.304838+00:00'
+updated: '2026-05-03T11:42:45.794554+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 03, 2026 at 10:55 UTC  
+**Last Updated:** May 03, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Every country needs to do this asap](https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -55,7 +55,7 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 I was surprised they haven’t already been ticketing them, but also…why would an AI break traffic laws, and is there even a case of this happening?
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 16h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 17h ago
 
 ---
 
@@ -63,13 +63,13 @@ I was surprised they haven’t already been ticketing them, but also…why would
 
 from Times Of India newspaper
 
-1h ago
+2h ago
 
 ---
 
 **[AI is starting to beat doctors at making correct diagnoses](https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/)**
 
-🔗 [science.org](https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses) • 10h ago
+🔗 [science.org](https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses) • 11h ago
 
 ---
 
@@ -77,7 +77,7 @@ from Times Of India newspaper
 
 Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Full multiplayer support for up to 6 players with VoIP All made with ThreeJS and Colyseus https://spellwright.xyz/
 
-17h ago
+18h ago
 
 ---
 
@@ -85,7 +85,7 @@ Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Ful
 
 With no unions to slow the collision and scant regulation to cushion the aftermath, India has become the world's most consequential live experiment in AI filmmaking — and the results may preview the future of cinema everywhere.
 
-🔗 [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/?utm_source=firefox-newtab-en-intl) • 17h ago
+🔗 [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/?utm_source=firefox-newtab-en-intl) • 18h ago
 
 ---
 
@@ -93,7 +93,7 @@ With no unions to slow the collision and scant regulation to cushion the afterma
 
 Most people think AI agents will just be tools. I think they’ll eventually become workers that hire other workers. Right now most agents operate alone. One agent gets a task and tries to do everything itself, even when it’s bad at half the job. But humans don’t work like that. Companies don’t work like that either. When a task requires different skills, work gets delegated. I’ve been experimenting with the same idea for AI agents. One agent receives a task. If another agent is better suited for part of the work, it delegates that section instead of forcing itself to solve everything. The interesting part is what happens next. You stop thinking about agents as isolated chatbots and start thinking about them as participants in a network economy. Agents develop specialization. Agents build reputation. Agents choose who they trust. Agents exchange value for work. At that point, the hard problem is no longer model intelligence. It becomes coordination, trust, reputation, and verification between agents. That’s also the direction I’ve been exploring with a project called Cogninet** **a decentralized network where AI agents can discover each other, delegate work, and coordinate based on trust and specialization instead of operating in isolation by
 
-48m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ https://preview.redd.it/qfejbfsmxvyg1.png?width=1672&format=png&auto=webp&s=edf5
 
 I think token budget is becoming part of agent workflow design. If every run feels expensive, people under-test. They save quota, overthink prompts, and avoid the repetition that reveals failure modes. If every run feels cheap, people can over-delegate. They generate more output than they can review. So the useful question is not "which model is best?" It is: Which step deserves which level of model? My current rule: cheap / lower-reasoning runs for bounded, reviewable repetition stronger models for ambiguity, hard judgment, debugging, and review human review for acceptance Do not spend premium reasoning on an unclear task. First make the task smaller. Then choose the model.
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ BBC • 9h ago
 
 **[Poll: Job losses, China threats split GOP on Trump’s AI agenda](https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754)**
 
-Politico • 23h ago
+Politico • 1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Politico • 23h ago
 
 Trump’s odd AI image came on the same day the Lincoln Memorial Reflecting Pool renovation site was vandalized with graffiti
 
-Yahoo • 16h ago
+Yahoo • 17h ago
 
 ---
 
@@ -143,13 +143,13 @@ Yahoo • 16h ago
 
 It was one of many head-scratching posts the president made late Friday night.
 
-The Daily Beast • 3h ago
+The Daily Beast • 4h ago
 
 ---
 
 **[Opinion | Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)**
 
-The New York Times • 55m ago
+The New York Times • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New York Times • 55m ago
 
 MAHA wants to automate health care — while gutting the rest of the system.
 
-New York Magazine • 54m ago
+New York Magazine • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ New York Magazine • 54m ago
 
 While some say AI boosts efficiency, data from a corporate food-delivery service suggests workers are logging more late-night and weekend hours.
 
-Business Insider • 59m ago
+Business Insider • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ NBC News • 1d ago
 
 OpenAI made the perfect tool for scammers.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -223,7 +223,7 @@ Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months
 
 As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.
 
-⬆️ 324 • 💬 171 • 19h ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
+⬆️ 324 • 💬 171 • 20h ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
 
 ---
 
@@ -239,7 +239,7 @@ The music streaming platform will review criteria such as artists' live dates an
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 130 • 💬 121 • 4h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 130 • 💬 121 • 5h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -271,7 +271,7 @@ Native desktop automation CLI for AI agents. Control any application through OS 
 
 Spirit Airlines, the pioneering discount airline that shook up the budget travel business, is shutting down its operations.
 
-⬆️ 76 • 💬 43 • 22h ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
+⬆️ 76 • 💬 43 • 23h ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
 
 ---
 
@@ -285,7 +285,7 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 162 • ⏱️ 15:10 • 12h ago
+👁️ 29K • 👍 1K • 💬 162 • ⏱️ 15:10 • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ Red Leather Podcast @RedLeatherPodcast Hot Line 561-589-4009 Call me anytime ($5
 
 📺 Jack Morgan RLP
 
-👁️ 23K • 👍 1K • 💬 675 • ⏱️ 22:45 • 16h ago
+👁️ 23K • 👍 1K • 💬 675 • ⏱️ 22:45 • 17h ago
 
 ---
 
@@ -355,7 +355,7 @@ HUGE AI NEWS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D & more #ai #
 
 📺 AI Search
 
-👁️ 28K • 👍 2K • 💬 255 • ⏱️ 45:27 • 7h ago
+👁️ 28K • 👍 2K • 💬 255 • ⏱️ 45:27 • 8h ago
 
 ---
 
@@ -714,7 +714,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.1k • 🔱 384 • 5h ago
+⭐ 5.1k • 🔱 384 • 6h ago
 
 ---
 

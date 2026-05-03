@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T10:55:28.322444+00:00'
+updated: '2026-05-03T11:42:45.812223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 10:55 UTC  
+**Last Updated:** May 03, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-5h ago
+6h ago
 
 ---
 
@@ -58,13 +58,13 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-5h ago
+6h ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg.com • 1d ago
 
 Meta, AI, humanoid, robot
 
-Engadget • 20h ago
+Engadget • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ CNBC • 2d ago
 
 **[From phones to humanoid robots: China’s supply chain eyes next growth curve](https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid)**
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ Eiffel is now a f2p monster. The Eiffel was of course super overpowered when it 
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 451 • 💬 91 • ⏱️ 16:17 • 22h ago
+👁️ 11K • 👍 451 • 💬 91 • ⏱️ 16:17 • 23h ago
 
 ---
 

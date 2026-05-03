@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-03T10:55:28.313325+00:00'
+updated: '2026-05-03T11:42:45.803020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 10:55 UTC  
+**Last Updated:** May 03, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 When you forget your phone’s password with 200 BTC in it
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ When you forget your phone’s password with 200 BTC in it
 
 https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acr
 
 I remember it like yesterday. I had money even as a freshman in high school from royalties for a film I worked on. I wasn’t sure what to invest in. I literallly went to the guy who I knew was brilliant. Real sharp guy. He said, and I swear to god, “buy bitcoin”. Like it was the most obvious thing. As if I was an idiot for NOT doing it. I looked at him like he was an idiot. Why would I buy bitcoin! It was a few cents, now it was almost $19. I knew I had “missed the boat” and this guy was a dumb ass. Damn. If I haven’t eaten my hat. I think about this often. I only today calculated. I bought Disney stock and… Dogecoin instead. My dogecoin profit multiplier was absurd, but nowhere near the 83.2 million I’d have made in Bitcoin. But let’s be real. I’d have sold at $89. Not $100K… Just a lesson for me. You trust your gut when it’s about trusting the people you choose to seek advice from. Not always just from yourself.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ I remember it like yesterday. I had money even as a freshman in high school from
 
 Galaxy Digital Alex Thorn says Bitcoin holders broadly agree Satoshi’s coins should remain untouched. Satoshi’s BTC spans roughly 22,000 addresses, making a full quantum attack far harder than many assume. Exchanges and active entities can upgrade to post-quantum addresses, reducing their realistic vulnerability. Developers broadly support building post-quantum cryptographic tools now and storing them for future use. The Bitcoin community is gradually forming a shared view on the risks posed by quantum computing. Alex Thorn, Research Director at Galaxy Digital, shared observations from recent discussions held in Las Vegas. He noted that both skeptics and advocates are beginning to align on key positions. The emerging agreement covers Satoshi Nakamoto’s holdings, post-quantum cryptography development, and how the broader ecosystem should respond. A central point of agreement is that Satoshi Nakamoto’s Bitcoin should remain untouched. Thorn noted that interfering with those holdings could seriously damage Bitcoin’s core value proposition around property rights. This position appears to be widely shared across different camps within the community. Thorn also pointed out that the actual risk may be lower than commonly believed. Nakamoto’s coins are spread across roughly 22,000 addresses, each holding 50 BTC. As he noted in a post on X, “a long range attack would have to crack them all,” meaning it is not a single concentrated target. The larger risks, Thorn explained, sit with exchanges and active entities holding large amounts of Bitcoin. However, those parties can upgrade to post-quantum addresses when needed, reducing their vulnerability. This makes them less of a realistic target compared to concerns raised in earlier discussions. Additionally, Thorn referenced the “hourglass proposal” as a potential measure if a long-range quantum attack ever appeared imminent. He also cited data showing that Bitcoin markets have routinely absorbed over one million BTC in sell pressure. Even a sharp drawdown from Satoshi’s coins being cracked would likely be manageable, and most Bitcoin holders would accept that trade-off to preserve property rights. The second area of emerging agreement involves post-quantum cryptographic research. Most people Thorn spoke with agree that developing new cryptographic tools for Bitcoin is a worthwhile effort. The work includes testing, signature compression, and debating how it could eventually be implemented. There are, however, recognized risks with moving too fast. Thorn outlined concerns such as diverting developer resources, introducing untested technology into the protocol, and creating consensus gridlock that could stall other upgrades. These risks make the timeline and approach important factors. A broadly accepted middle ground appears to be developing a post-quantum solution and placing it “on the shelf” for when or if it becomes necessary. This approach allows preparation without forcing premature changes to the protocol. Thorn described this as “unequivocally a good thing” based on his conversations. Thorn closed by noting that even a one percent chance of quantum computing affecting Bitcoin justifies continued work on the issue. He also acknowledged that urgent warnings about the threat have helped push these critical discussions forward within the developer community.
 
-🔗 [Blockonomi](https://blockonomi.com/bitcoin-community-reaches-early-consensus-on-quantum-computing-threat-says-galaxy-digital/) • 3h ago
+🔗 [Blockonomi](https://blockonomi.com/bitcoin-community-reaches-early-consensus-on-quantum-computing-threat-says-galaxy-digital/) • 4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Galaxy Digital Alex Thorn says Bitcoin holders broadly agree Satoshi’s coins s
 
 And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ And when do you think that would happen? Edit: 1 person (for now). A wealthy cou
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 19h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Technical analysist are bs, no one knows, if somehow, they predict, people follows, self fulfilling prophecy, and the cycles repeat.
 
-11h ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ Technical analysist are bs, no one knows, if somehow, they predict, people follo
 
 Asking for some advice. When I stay at campgrounds, sometimes the rate for the site includes water and electricity. Since it’s a flat rate, I would like to get one of those bitcoin mining rigs that also doubles as a space heater. This would be perfect for the winter. What would be a good unit that would use about 500-750 watts of electricity? Thanks in advance.
 
-10h ago
+11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1d ago
 
 **[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -179,13 +179,13 @@ Forbes • 23h ago
 
 Keel Infrastructure Corp. (NASDAQ:KEEL) is among the best fundamentally strong penny stocks to invest in now. On April 27, TheFly reported that Bill Papanastasiou from Chardan started coverage of Keel Infrastructure Corp. (NASDAQ:KEEL) with a Buy rating and a price target of $4.50. The firm noted that the company, along with Galaxy Digital and Riot […]
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin targets $80,000 amid regulatory progress and S&P 500 record](https://www.investing.com/news/cryptocurrency-news/bitcoin-targets-80000-amid-regulatory-progress-and-sp-500-record-4654822)**
 
-Investing.com • 1h ago
+Investing.com • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investing.com • 1h ago
 
 Bitcoin's price rose about 20% in April, but the rally was driven by speculative perpetual futures demand while spot demand remained weak, CryptoQuant said.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 1d ago
 
 A crypto analyst has outlined a specific period he believes could be the right time to sell Bitcoin (BTC) for the most returns. Supporting his prediction, the analyst highlighted a recurring historical pattern that has marked major bullish turning points in BTC’s market cycles. He suggested that th…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -233,7 +233,7 @@ Fortune • 2d ago
 
 Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
 
-BeInCrypto • 18h ago
+BeInCrypto • 19h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 1 • 💬 0 • 3h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 1 • 💬 0 • 4h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
@@ -327,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 58 • ⏱️ 52:45 • 21h ago
+👁️ 41K • 👍 2K • 💬 58 • ⏱️ 52:45 • 22h ago
 
 ---
 
@@ -377,7 +377,7 @@ If I could go back in time I would have just invested PRIMARILY in Bitcoin and a
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 704 • 💬 67 • ⏱️ 24:03 • 15h ago
+👁️ 11K • 👍 704 • 💬 67 • ⏱️ 24:03 • 16h ago
 
 ---
 
@@ -385,7 +385,7 @@ If I could go back in time I would have just invested PRIMARILY in Bitcoin and a
 
 📺 Power Hot Ball
 
-👁️ 12K • 👍 336 • 💬 7 • ⏱️ 1:00 • 23h ago
+👁️ 12K • 👍 336 • 💬 7 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Today, Ripple CEO Brad Garlinghouse unveiled the details of a landmark collabora
 
 📺 Authentic Benny
 
-👁️ 7K • 👍 4K • 10h ago
+👁️ 7K • 👍 4K • 11h ago
 
 ---
 
@@ -415,7 +415,7 @@ Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says t
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 198 • 💬 86 • ⏱️ 19:41 • 12h ago
+👁️ 3K • 👍 198 • 💬 86 • ⏱️ 19:41 • 13h ago
 
 ---
 
