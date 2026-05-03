@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T14:28:48.012255+00:00'
+updated: '2026-05-03T15:23:02.192781+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 14:28 UTC  
+**Last Updated:** May 03, 2026 at 15:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.66B
+**Market Cap:** $281.09B
 Rank #2
 
 **Circulating Supply:** 120,687,427 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.9%
 
 **All-Time Low:** $0.43
-+537510.4%
++537782.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 5h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 6h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 1d ago
 
 Hundreds of dormant Ethereum wallets were drained as April's crypto exploit wave exposed risks around old keys, admin powers, and bridges.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Fortune • 2d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 1d ago
 
 BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -232,53 +232,33 @@ Crypto Briefing • 2h ago
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 208 • 💬 12 • ⏱️ 15:33 • 17h ago
-
----
-
 **[Bitcoin &amp; Ethereum are about to SKYROCKET! (SERIOUSLY)](https://www.youtube.com/watch?v=jiftFdu3Apw)**
 
 Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 160 • ⏱️ 11:49 • 15h ago
+👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:49 • 16h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6_636ZmETEk)**
+**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto Gyan
+📺 Savvy Finance
 
-👁️ 104 • 👍 22 • 💬 2 • ⏱️ 6:20 • 1h ago
-
----
-
-**[Ethereum Is Making A Super Rare Move - Here&#39;s My Plan](https://www.youtube.com/watch?v=KtnsBpDP5dc)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 4K • 👍 212 • 💬 38 • ⏱️ 9:18 • 3d ago
+👁️ 5K • 👍 221 • 💬 10 • ⏱️ 15:33 • 18h ago
 
 ---
 
-**[BITCOIN &amp; ETHEREUM: TIME TO ADD MORE?](https://www.youtube.com/watch?v=5Cs4LgYUFJc)**
+**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
 
-Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 James Crypto Guru
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 💬 8 • ⏱️ 11:48 • 13h ago
+👁️ 2K • 👍 74 • 💬 21 • ⏱️ 8:12 • 2d ago
 
 ---
 
@@ -292,13 +272,23 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 ---
 
-**[Bitcoin &amp; Ethereum. Das sieht wirklich sehr gut aus für weitere Hochs in den nächsten Tagen!](https://www.youtube.com/watch?v=gcueCRKYP6U)**
+**[BITCOIN &amp; ETHEREUM: TIME TO ADD MORE?](https://www.youtube.com/watch?v=5Cs4LgYUFJc)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
 
-📺 Krypto Trading & Investing
+📺 James Crypto Guru
 
-👁️ 3K • 👍 425 • 💬 62 • ⏱️ 10:42 • 10h ago
+👁️ 2K • 💬 9 • ⏱️ 11:48 • 14h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6_636ZmETEk)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 318 • 👍 52 • 💬 2 • ⏱️ 6:20 • 2h ago
 
 ---
 
@@ -308,27 +298,37 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 2K • 👍 81 • 💬 10 • ⏱️ 15:10 • 1d ago
+👁️ 2K • 👍 83 • 💬 10 • ⏱️ 15:10 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=AFO63qM6g7g)**
+**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 1K • 👍 75 • 💬 3 • ⏱️ 6:07 • 11h ago
+👁️ 4K • 👍 248 • 💬 10 • ⏱️ 10:19 • 1d ago
 
 ---
 
-**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
+**[Bitcoin vs Ethereum — What’s the Real Difference?](https://www.youtube.com/watch?v=D5J6lNUlMBA)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+TheMarketTruth-89k-views Most people think Bitcoin and Ethereum are the same. They're not. In this video, we break down the ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 The Market Truth
 
-👁️ 2K • 👍 74 • 💬 21 • ⏱️ 8:12 • 2d ago
+👁️ 1 • ⏱️ 8:28 • 6h ago
+
+---
+
+**[Don’t Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success](https://www.youtube.com/watch?v=KFP86nhxAyU)**
+
+Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success Description: This video shares a powerful lesson ...
+
+📺 Reset Life
+
+👁️ 11K • 💬 4 • ⏱️ 0:20 • 2h ago
 
 ---
 

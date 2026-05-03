@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-03T14:28:47.997767+00:00'
+updated: '2026-05-03T15:23:02.178035+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 03, 2026 at 14:28 UTC  
+**Last Updated:** May 03, 2026 at 15:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Every country needs to do this asap](https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -55,7 +55,7 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone understand the position Anthropic and Dario are taking? If AI is capable of causing mass unemployment, then it will be powerful enough to help solve the problem of unemployment. Especially if the technology is properly diffused, it will be able to help someone make sense of how they can improve their own income (if they want to). Yes, this is optimistic, but also I don't think it is wrong and it is certainly more reasonable than AI is going to cause this massive problem because it is so good, but it won't be good enough to help fix it...
 
-48m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone unde
 
 𝕏 is now marking your photos if they are made or partially made by AI. Not sure what's the vibe here.. "losing credibility" or people appriciate "transparency". thoughts?
 
-2h ago
+3h ago
 
 ---
 
@@ -71,7 +71,7 @@ So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone unde
 
 Most people think AI agents will just be tools. I think they’ll eventually become workers that hire other workers. Right now most agents operate alone. One agent gets a task and tries to do everything itself, even when it’s bad at half the job. But humans don’t work like that. Companies don’t work like that either. When a task requires different skills, work gets delegated. I’ve been experimenting with the same idea for AI agents. One agent receives a task. If another agent is better suited for part of the work, it delegates that section instead of forcing itself to solve everything. The interesting part is what happens next. You stop thinking about agents as isolated chatbots and start thinking about them as participants in a network economy. Agents develop specialization. Agents build reputation. Agents choose who they trust. Agents exchange value for work. At that point, the hard problem is no longer model intelligence. It becomes coordination, trust, reputation, and verification between agents. That’s also the direction I’ve been exploring with a project called Cogninet** **a decentralized network where AI agents can discover each other, delegate work, and coordinate based on trust and specialization instead of operating in isolation by
 
-4h ago
+5h ago
 
 ---
 
@@ -79,13 +79,13 @@ Most people think AI agents will just be tools. I think they’ll eventually bec
 
 I was surprised they haven’t already been ticketing them, but also…why would an AI break traffic laws, and is there even a case of this happening?
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 19h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/clypjx3rg2go) • 20h ago
 
 ---
 
 **[AI is starting to beat doctors at making correct diagnoses](https://www.reddit.com/r/artificial/comments/1t26als/ai_is_starting_to_beat_doctors_at_making_correct/)**
 
-🔗 [science.org](https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses) • 14h ago
+🔗 [science.org](https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses) • 15h ago
 
 ---
 
@@ -93,7 +93,7 @@ I was surprised they haven’t already been ticketing them, but also…why would
 
 Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Full multiplayer support for up to 6 players with VoIP All made with ThreeJS and Colyseus https://spellwright.xyz/
 
-21h ago
+22h ago
 
 ---
 
@@ -101,7 +101,7 @@ Prompt any spell and use it in a 3D physics based world, powered by Gemini 3 Ful
 
 With no unions to slow the collision and scant regulation to cushion the aftermath, India has become the world's most consequential live experiment in AI filmmaking — and the results may preview the future of cinema everywhere.
 
-🔗 [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/?utm_source=firefox-newtab-en-intl) • 20h ago
+🔗 [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/?utm_source=firefox-newtab-en-intl) • 21h ago
 
 ---
 
@@ -109,7 +109,7 @@ With no unions to slow the collision and scant regulation to cushion the afterma
 
 I think token budget is becoming part of agent workflow design. If every run feels expensive, people under-test. They save quota, overthink prompts, and avoid the repetition that reveals failure modes. If every run feels cheap, people can over-delegate. They generate more output than they can review. So the useful question is not "which model is best?" It is: Which step deserves which level of model? My current rule: cheap / lower-reasoning runs for bounded, reviewable repetition stronger models for ambiguity, hard judgment, debugging, and review human review for acceptance Do not spend premium reasoning on an unclear task. First make the task smaller. Then choose the model.
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ I think token budget is becoming part of agent workflow design. If every run fee
 
 **[Opinion | Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 4h ago
 
 Several people told the BBC they experienced delusions after intense conversations with AI.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -135,7 +135,7 @@ BBC • 12h ago
 
 The quest for more training data has created a glut of low-quality junk data that could derail the promise of physical AI.
 
-Fortune • 58m ago
+Fortune • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune • 58m ago
 
 The US Department of Defence has secured deals with Nvidia, Microsoft, and Amazon to deploy artificial intelligence across its highly classified networks, aiming to enhance decision-making and establish an AI-first fighting force.
 
-NDTV • 15m ago
+NDTV • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ NDTV • 15m ago
 
 Researchers say works may have been incorrectly inscribed in 1700s, leading to centuries-long misunderstanding
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Guardian • 1h ago
 
 Which of these high-growth tech stocks has a brighter future?
 
-The Motley Fool • 50m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 50m ago
 
 (Bloomberg) -- The list of Asian stocks that benefit from business partnership with Nvidia Corp. is getting longer, as the region further integrates into the AI chip giant’s business ecosystem.Most Read from BloombergSupertanker Appears to Have Crossed the Strait of HormuzWorld’s Largest Container Carrier Plans Route Avoiding HormuzBeijing Tells China Firms to Ignore US Sanctions on RefinersPhilippines Says Thousands Evacuated as Mayon Volcano EruptsIran Juggles Oil Cuts and Storage Strain to Re
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Nebius Group (NBIS) rides booming AI infrastructure demand with Meta/Nvidia deals, Eigen AI acquisition, and 2030 visibility—see why it’s a Buy now.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Seeking Alpha • 2h ago
 
 Companies are monitoring workers not just for productivity but for agreeability.
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Atlantic • 2h ago
 
 Unionized workers have become an ally of tech giants and tech-friendly government officials.
 
-MS NOW • 5h ago
+MS NOW • 6h ago
 
 ---
 
@@ -241,7 +241,7 @@ The music streaming platform will review criteria such as artists' live dates an
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 185 • 💬 207 • 7h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 185 • 💬 207 • 8h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -249,7 +249,7 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 ﻿Caught between fears of job loss and social stigma, Gen Z’s opinions of AI are hitting new lows.
 
-⬆️ 125 • 💬 144 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
+⬆️ 125 • 💬 144 • 3d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai)
 
 ---
 
@@ -281,33 +281,23 @@ Spirit Airlines, the pioneering discount airline that shook up the budget travel
 
 ## YouTube Videos: "ai"
 
-**[The AI industry in the US is doomed.  Now China owns it all.](https://www.youtube.com/watch?v=ny_3PRz6Zeg)**
-
-The economic model for the AI industry brought to us by Wall Street and Silicon Valley is falling apart, with subscription fees paid ...
-
-📺 Inside China Business
-
-👁️ 116K • 👍 9K • 💬 2K • ⏱️ 43:55 • 2d ago
-
----
-
-**[Sundar Pichai Reveals What AI Will Do Next](https://www.youtube.com/watch?v=bxDObdH2YSc)**
-
-Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is reshaping decision-making, the rise of AI ...
-
-📺 TIME
-
-👁️ 178K • 👍 2K • 💬 186 • ⏱️ 6:44 • 2d ago
-
----
-
 **[Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](https://www.youtube.com/watch?v=7r_WJ9xpne0)**
 
 HUGE AI NEWS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D & more #ai #ainews #aitools #aivideo #agi Thanks to ...
 
 📺 AI Search
 
-👁️ 37K • 👍 2K • 💬 308 • ⏱️ 45:27 • 11h ago
+👁️ 45K • 👍 2K • 💬 348 • ⏱️ 45:27 • 11h ago
+
+---
+
+**[Best AI Gadgets in 2026 You Must See!](https://www.youtube.com/watch?v=5RvuayBxTno)**
+
+Best AI Gadgets in 2026 You Must See 00:00 - Introduction 00:37 - 1. umissfun Emotional AI Companion ...
+
+📺 TechTrends
+
+👁️ 2K • 👍 58 • 💬 3 • ⏱️ 20:10 • 14h ago
 
 ---
 
@@ -317,17 +307,7 @@ Senator Bernie Sanders is the senior senator from Vermont. He is the longest-ser
 
 📺 Senator Bernie Sanders
 
-👁️ 31K • 👍 2K • 💬 415 • ⏱️ 2:58 • 2d ago
-
----
-
-**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
-
-Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 35K • 👍 2K • 💬 122 • ⏱️ 26:56 • 1d ago
+👁️ 33K • 👍 2K • 💬 424 • ⏱️ 2:58 • 2d ago
 
 ---
 
@@ -337,17 +317,17 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 177 • ⏱️ 15:10 • 15h ago
+👁️ 35K • 👍 1K • 💬 190 • ⏱️ 15:10 • 16h ago
 
 ---
 
-**[The Ai Revolution That Nobody Asked For......](https://www.youtube.com/watch?v=_CQB0V-Sr1U)**
+**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
 
-Red Leather Podcast @RedLeatherPodcast Hot Line 561-589-4009 Call me anytime ($5 per minute) Business Email: ...
+Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
 
-📺 Jack Morgan RLP
+📺 Sabrina Ramonov 🍄
 
-👁️ 24K • 👍 1K • 💬 707 • ⏱️ 22:45 • 19h ago
+👁️ 38K • 👍 2K • 💬 132 • ⏱️ 26:56 • 1d ago
 
 ---
 
@@ -357,7 +337,27 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 609K • 👍 23K • 💬 2K • ⏱️ 9:39 • 2d ago
+👁️ 622K • 👍 24K • 💬 2K • ⏱️ 9:39 • 2d ago
+
+---
+
+**[OpenClaw 5.2 Just Changed AI Agents Forever!](https://www.youtube.com/watch?v=fxqxaiDTLZc)**
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
+
+📺 Julian Goldie SEO
+
+👁️ 4K • 👍 141 • 💬 23 • ⏱️ 12:22 • 6h ago
+
+---
+
+**[Sundar Pichai Reveals What AI Will Do Next](https://www.youtube.com/watch?v=bxDObdH2YSc)**
+
+Google CEO Sundar Pichai spoke with TIME about how artificial intelligence is reshaping decision-making, the rise of AI ...
+
+📺 TIME
+
+👁️ 182K • 👍 2K • 💬 190 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -367,7 +367,7 @@ Try Higgsfield Canvas here: https://higgsfield.ai/s/canvas-1-0-airevolutionx-cmX
 
 📺 AI Revolution
 
-👁️ 49K • 👍 1K • 💬 180 • ⏱️ 15:42 • 1d ago
+👁️ 50K • 👍 1K • 💬 186 • ⏱️ 15:42 • 1d ago
 
 ---
 
@@ -377,7 +377,7 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Mike Off Record
 
-👁️ 90K • 👍 2K • 💬 211 • ⏱️ 12:11 • 20h ago
+👁️ 105K • 👍 3K • 💬 229 • ⏱️ 12:11 • 21h ago
 
 ---
 
@@ -393,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 457,348 • ❤️ 3,442 • 6d ago
+⬇️ 457,348 • ❤️ 3,448 • 6d ago
 
 ---
 
@@ -405,7 +405,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 104,695 • ❤️ 1,219 • 10d ago
+⬇️ 104,695 • ❤️ 1,221 • 10d ago
 
 ---
 
@@ -417,7 +417,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 11,055 • ❤️ 394 • 5d ago
+⬇️ 11,055 • ❤️ 399 • 5d ago
 
 ---
 
@@ -429,7 +429,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 9,489 • ❤️ 229 • 1d ago
+⬇️ 9,489 • ❤️ 230 • 1d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,199,862 • ❤️ 1,091 • 9d ago
+⬇️ 1,199,862 • ❤️ 1,092 • 9d ago
 
 ---
 
@@ -451,19 +451,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 208 • 10d ago
-
----
-
-**[DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporting a 1 million token context length. It utilizes a hybrid attention architecture (CSA/HCA) for efficient long-context processing, making it suitable for complex reasoning and analysis tasks requiring extensive context.
-
-`text-generation` `158.1B`
-
-⬇️ 413,995 • ❤️ 921 • 6d ago
+⬇️ 0 • ❤️ 209 • 10d ago
 
 ---
 
@@ -475,7 +463,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 38,865 • ❤️ 201 • 1d ago
+⬇️ 38,865 • ❤️ 202 • 1d ago
 
 ---
 
@@ -487,7 +475,19 @@ MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio wit
 
 `310.8B`
 
-⬇️ 45,473 • ❤️ 195 • 3d ago
+⬇️ 45,473 • ❤️ 197 • 4d ago
+
+---
+
+**[DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporting a 1 million token context length. It utilizes a hybrid attention architecture (CSA/HCA) for efficient long-context processing, making it suitable for complex reasoning and analysis tasks requiring extensive context.
+
+`text-generation` `158.1B`
+
+⬇️ 413,995 • ❤️ 922 • 6d ago
 
 ---
 
@@ -499,7 +499,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 9,204 • ❤️ 195 • 1h ago
+⬇️ 9,204 • ❤️ 195 • 2h ago
 
 ---
 
@@ -567,7 +567,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 5,596 • 18d ago
+▲ 19 • 💬 2 • ⭐ 5,636 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -582,20 +582,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 28 • 💬 1 • ⭐ 19,294 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 81 • 💬 6 • ⭐ 19,537 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -624,15 +610,30 @@ Fréchet Distance can be effectively optimized as a training objective when deco
 
 ---
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 15 • 💬 2 • ⭐ 16,375 • 26mo ago
+▲ 160 • 💬 2 • ⭐ 61,828 • 7mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 81 • 💬 6 • ⭐ 19,551 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -656,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 50.8k • 🔱 6.7k • 7h ago
+⭐ 50.9k • 🔱 6.7k • 8h ago
 
 ---
 
@@ -666,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 42.0k • 🔱 8.7k • 2d ago
+⭐ 42.1k • 🔱 8.7k • 13m ago
 
 ---
 
@@ -686,7 +687,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.7k • 🔱 630 • 5d ago
+⭐ 9.8k • 🔱 633 • 38s ago
 
 ---
 
@@ -706,7 +707,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 5.3k • 🔱 470 • 4d ago
+⭐ 5.3k • 🔱 470 • 5d ago
 
 ---
 
@@ -716,7 +717,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.1k • 🔱 385 • 8h ago
+⭐ 5.1k • 🔱 387 • 9h ago
 
 ---
 
@@ -736,7 +737,7 @@ Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based 
 
 `Python` `ai` `claude-code` `claude-code-skill` `knowledge-management` `obsidian`
 
-⭐ 4.0k • 🔱 467 • 9d ago
+⭐ 4.1k • 🔱 469 • 9d ago
 
 ---
 

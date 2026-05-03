@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T14:28:48.015460+00:00'
+updated: '2026-05-03T15:23:02.196011+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 14:28 UTC  
+**Last Updated:** May 03, 2026 at 15:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ I literally have all these pieces bought, and everything is wired together but i
 
 The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
 
-🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 52m ago
+🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 1h ago
 
 ---
 
@@ -60,19 +60,19 @@ The hidden velocity killer in robotics development isn't talent or ambition, it'
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-10h ago
+11h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-9h ago
+10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Fox News • 2d ago
 
 Cathie Wood has a $722 million reason to pay attention to the latest move in Teradyne, Inc.. Her funds hold about 2.36 million shares, a position worth roughly $722 million and over 5% of the portfolio, with an average entry price near $87. That conviction has already paid off. The stock surged roughly 350% from $65.77 in April 2025 to a peak of $422.11 in April 2026 — before pulling back sharply in recent sessions. Now, the dip is back in focus. From Breakout To Pullback After an extended run,
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 229K • 👍 3K • 💬 263 • ⏱️ 24:02 • 4d ago
+👁️ 231K • 👍 3K • 💬 265 • ⏱️ 24:02 • 4d ago
 
 ---
 
@@ -206,7 +206,7 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 93K • 👍 879 • 💬 236 • ⏱️ 3:51 • 2d ago
+👁️ 132K • 👍 883 • 💬 236 • ⏱️ 3:51 • 2d ago
 
 ---
 
@@ -216,15 +216,7 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 📺 War Vault
 
-👁️ 283K • 👍 6K • 💬 592 • ⏱️ 16:42 • 4d ago
-
----
-
-**[This Paper-Thin Robot Lifts 70x Its Weight By Copying Human Muscles | Soft Robotics Breakthrough](https://www.youtube.com/watch?v=ikrMt6We3gc)**
-
-📺 RiseX Venturess
-
-👁️ 12K • 👍 2K • 💬 19 • ⏱️ 1:06 • 2d ago
+👁️ 284K • 👍 6K • 💬 592 • ⏱️ 16:42 • 4d ago
 
 ---
 
@@ -234,17 +226,7 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 54K • 👍 1K • 💬 104 • ⏱️ 8:27 • 5d ago
-
----
-
-**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
-
-The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
-
-📺 Joanna Stern
-
-👁️ 284K • 👍 7K • 💬 977 • ⏱️ 11:11 • 3d ago
+👁️ 54K • 👍 1K • 💬 105 • ⏱️ 8:27 • 5d ago
 
 ---
 
@@ -254,27 +236,17 @@ ABC News' Sophie Flay takes a closer look at the future of humanoid robots, wher
 
 📺 ABC News
 
-👁️ 32K • 👍 1K • 💬 86 • ⏱️ 1:56 • 16h ago
+👁️ 33K • 👍 1K • 💬 86 • ⏱️ 1:56 • 17h ago
 
 ---
 
-**[Secret Crocodile Robot Enters the Showdown Game Episode 1](https://www.youtube.com/watch?v=YfR4k022-R8)**
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
-Scene using artificial intelligence. #aiart #movie.
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
-📺 Miracle Animal Rescues
+📺 Joanna Stern
 
-👁️ 22K • 👍 231 • 💬 13 • ⏱️ 8:09 • 1d ago
-
----
-
-**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
-
-eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
-
-📺 Stu’s Reviews
-
-👁️ 32K • 👍 162 • 💬 41 • ⏱️ 16:11 • 6d ago
+👁️ 285K • 👍 7K • 💬 980 • ⏱️ 11:11 • 4d ago
 
 ---
 
@@ -284,7 +256,37 @@ Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to 
 
 📺 Sequoia Capital
 
-👁️ 79K • 👍 997 • 💬 53 • ⏱️ 20:03 • 2d ago
+👁️ 79K • 👍 1K • 💬 53 • ⏱️ 20:03 • 2d ago
+
+---
+
+**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
+
+eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
+
+📺 Stu’s Reviews
+
+👁️ 32K • 👍 163 • 💬 41 • ⏱️ 16:11 • 6d ago
+
+---
+
+**[These New AI Robots Just Took A Massive Leap Forward This Week](https://www.youtube.com/watch?v=mkmouIXXGTs)**
+
+You won't BELIEVE what just happened in robotics this week! The line between humans and robots is officially blurring — and ...
+
+📺 The AI Nexus
+
+👁️ 14K • 👍 279 • 💬 18 • ⏱️ 23:04 • 2d ago
+
+---
+
+**[Is my Gearbox Precise? #3dprinting #gearbox #testing #robotics](https://www.youtube.com/watch?v=8Bh0IXDBw20)**
+
+I test to see if my 3D printed gearbox is precise. I made a pointer attachment for the gearbox to see if it returns to the same position ...
+
+📺 Advanced Hobby Lab
+
+👁️ 54K • 👍 531 • 💬 10 • ⏱️ 0:28 • 2d ago
 
 ---
 
