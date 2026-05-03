@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T21:42:44.990623+00:00'
+updated: '2026-05-03T22:42:53.380158+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 21:42 UTC  
+**Last Updated:** May 03, 2026 at 22:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,309.92
+### $2,329.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.9%  
 **7d:** +1.4%  
 **30d:** +13.2%  
 **90d:** +4.6%  
-**1y:** +29.3%  
+**1y:** +29.2%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Reminder: Ethereum "Mixing" doesn't work anymore.](https://www.reddit.com/r/ethereum/comments/1t2zcwp/reminder_ethereum_mixing_doesnt_work_anymore/)**
+
+​ A quick reminder that the centralized cabal made Ethereum and Bitcoin Mixing broken for legitimate users (TornadoCash/Samourai) I learnt that the bad way. I used Railgun (the current best mixer, succeeding TornadoCash) and deposited to Coinbase, they instantly blocked my account with the WHOLE funds inside, not even only the deposit..
+
+24m ago
+
+---
+
 **[Daily General Discussion May 03, 2026](https://www.reddit.com/r/ethereum/comments/1t2c1ys/daily_general_discussion_may_03_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 12h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 13h ago
 
 ---
 
@@ -88,7 +96,15 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-15h ago
+16h ago
+
+---
+
+**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
+
+I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
+
+40m ago
 
 ---
 
@@ -130,22 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Smart contract based project ideas](https://www.reddit.com/r/ethereum/comments/1t1605j/smart_contract_based_project_ideas/)**
-
-I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
-
-2d ago
-
----
-
-**[Should I stake Ethereum?](https://www.reddit.com/r/ethereum/comments/1t0q8ps/should_i_stake_ethereum/)**
-
-I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks EDIT: Solved. I bought some stETH
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -168,7 +168,15 @@ CryptoSlate • 2d ago
 
 Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
+
+Most chains can't excel in every single potential application.
+
+The Motley Fool • 47m ago
 
 ---
 
@@ -208,7 +216,7 @@ Fortune • 2d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -217,14 +225,6 @@ markets.businessinsider.com • 15h ago
 Ethereum has surged more than 25% since late March, pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous attempt higher. The move has been convincing enough to shift sentiment — but a CryptoQuant analyst h…
 
 TradingView • 1d ago
-
----
-
-**[BitMine’s 4.5M ETH stake strategy boosts confidence in $5,000 May target](https://cryptobriefing.com/bitmines-45m-eth-stake-strategy-boosts-confidence-in-5000-may-target/)**
-
-BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
-
-Crypto Briefing • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 163 • 💬 24 • ⏱️ 20:21 • 5h ago
+👁️ 2K • 👍 163 • 💬 24 • ⏱️ 20:21 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 163 • ⏱️ 11:49 • 22h ago
+👁️ 25K • 👍 2K • 💬 163 • ⏱️ 11:49 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 188 • 👍 9 • ⏱️ 5:18 • 12h ago
+👁️ 188 • 👍 9 • ⏱️ 5:18 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d
 
 📺 David Aranzabal
 
-👁️ 3K • 👍 261 • 💬 12 • ⏱️ 8:33 • 7h ago
+👁️ 3K • 👍 261 • 💬 12 • ⏱️ 8:33 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 904 • 👍 85 • 💬 2 • ⏱️ 6:20 • 8h ago
+👁️ 904 • 👍 85 • 💬 2 • ⏱️ 6:20 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success De
 
 📺 Reset Life
 
-👁️ 290K • 💬 25 • ⏱️ 0:20 • 9h ago
+👁️ 290K • 💬 25 • ⏱️ 0:20 • 10h ago
 
 ---
 
@@ -328,7 +328,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 2K • 💬 9 • ⏱️ 11:48 • 20h ago
+👁️ 2K • 💬 9 • ⏱️ 11:48 • 21h ago
 
 ---
 
