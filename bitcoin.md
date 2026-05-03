@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-03T19:33:54.356205+00:00'
+updated: '2026-05-03T20:43:27.668872+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 19:33 UTC  
+**Last Updated:** May 03, 2026 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,777.00
+### $79,141.41
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** +1.8%  
-**30d:** +17.1%  
-**90d:** +4.0%  
-**1y:** -16.5%  
+**7d:** +2.1%  
+**30d:** +17.4%  
+**90d:** +4.3%  
+**1y:** -16.2%  
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Son](https://www.reddit.com/r/Bitcoin/comments/1t2p07z/son/)**
-
-3h ago
-
----
-
 **[A Norwegian student spent $26 on Bitcoin in 2009 and forgot the password. He "cracked" it 4 years later. His $26 was worth $886,000.](https://www.reddit.com/r/Bitcoin/comments/1t2u845/a_norwegian_student_spent_26_on_bitcoin_in_2009/)**
 
 In 2009 Kristoffer Koch was a 22-year-old student in Norway writing his thesis on encryption and digital privacy. He stumbled across Bitcoin while researching. Almost no one outside forums had heard of it. He spent 150 Norwegian kroner about $26.60 and bought 5,000 Bitcoin at less than half a cent each. Then he forgot about it entirely. Four years passed. In April 2013 Bitcoin was suddenly everywhere on the news. The price had exploded past $100. He vaguely remembered buying some once. He could not find the password. He spent weeks trying to crack it. When he finally got in he stared at the screen for a long time. His 5,000 Bitcoins were now worth $886,000. He sold exactly one fifth of them 1,000 coins for around $177,000. He used the money to buy an apartment in Toyen, one of Oslo's most sought-after neighbourhoods. He kept the other 4,000 Bitcoin. He told reporters: "It said I had 5,000 Bitcoin and I just thought oh wow." He had written a university thesis on encryption. His reward for understanding it slightly earlier than everyone else was a free apartment. The $26.60 he spent in 2009 would be worth over $450 million today.
 
-33m ago
+1h ago
+
+---
+
+**[Son](https://www.reddit.com/r/Bitcoin/comments/1t2p07z/son/)**
+
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ In 2009 Kristoffer Koch was a 22-year-old student in Norway writing his thesis o
 
 https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april
 
-12h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-mo
 
 I didn’t start as a Bitcoin maximalist. I started as a “just diversifying bro.” Then a “this alt looks promising.” Then a “okay maybe 90% BTC.” Now I’m at the point where I accidentally say “Bitcoin” when people ask me what time it is. Not sure when it happened… but my maxi-ness is stronger than ever. Anyone else just… slowly give up fighting it?
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,13 @@ I didn’t start as a Bitcoin maximalist. I started as a “just diversifying br
 
 Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acre sustainable farm and wildlife sanctuary in Bastrop, Texas. The 49-year-old now focuses on regenerative agriculture and sustainability as well as eco-conscious living. The green move came after the pandemic where he expressed a desire to get back to basics and appreciate nature’s offering. He describes his ranch as a ‘mini-community’ with a hippy holistic attitude where people are invited to come build and live there, and grow and share food together. While stepping away from the big screen, he remains on camera on Earth Speed, founded in 2021 – a regenerative lifestyle platform and docuseries where Adrien advocates for regenerative farming, permaculture workshops and conducts interviews with environmental leaders. But there’s a controversial element to his wholesome new existence in the way it is funded. Adrien is a vocal Bitcoin advocate and is exploring using cryptocurrency to run his farming community. “I like the technology – the decentralization of bitcoin, which gives more access to more people,” he told CNBC previously. “I’m also spending it and trying to use it in the real world,” he said. “Right now, bitcoin is so volatile because it’s new, and people are looking at it as a trade…Eventually, it’s going to settle down and it’s going to be the currency that we use.” Bitcoin critics often push back against the wealth disparity and the great deal of power that is used in creating new coins, in a process called ‘mining’, which involves a global network of computers working together to make them. But Bitcoin process ‘mining’ – which uses a global network of computers to create new coins – unsurprisingly carries a large carbon footprint too that arguably contrasts Adrien’s green beliefs. “Bitcoin does definitely have an environmental footprint,” he says. “But let’s not pooh-pooh efforts to try and make a technology that’s actually going to give a lot of empowerment to people around the world.” During his days in the spotlight, Adrien was known for being a bit of a playboy and dated many famous women including Australian star Isabel Lucas, Sabrina The Teenage Witch actress Melissa Joan Hart and Twilight’s Ashley Greene. He was also linked with Paris Hilton, The Bachelor winner Courtney Robertson and actress Cameron Richardson. Adrien told Fox News in 2024 that he was poly amorous and had a bit of an ‘ego’. He explained: “Growing up in New York, there’s a little bit of nihilism, Godless[ness], you know. And this was now the overlay of my ego, which was, ‘See? You know, I am the man, I, you know, I got the part.’ And people are, you know, approving of me. “I didn’t believe in God…I was open and poly and, you know, liberal and I thought I was a good person, I really did.” “It wasn’t until I was in my 40s and the love of my life who I was dating at the time, she dumped me and she, in no uncertain terms, said, ‘You’re the worst.’” The woman in question who he credits for his lifestyle transformation is his wife, Jordan Roemelle, with their relationship being the catalyst for him leaving Hollywood behind. Speaking on the Make Yourself at Home podcast, Adrian explained: “She was the first woman I perceive, that I was able to witness, as wanting more from me. “She didn’t just allow the worst parts of me, she challenged me in a powerful, powerful way, as a strong woman that she is, to be more than what I am. “I wasn’t able to do that and when I failed, she left me.” He revealed that she ended their relationship in 2020 as he was still too caught up in the “Hollywood” mindset. The “ego-shattering” moment forced him to re-evaluate his life and what was important to him. After doing significant inner work, the pair reconciled with a shared vision of a simpler life. They went on to elope in Morrocco in 2022 and now have two children, Seiko and Evren. “I told her I wanted to buy land and do nature, she sent me a picture she did an exercise where she was drawing a picture of what she wanted to manifest. “It was land and community and family and home, so it was fated,” he expressed. As for his former Hollywood life, The Devil Wears Prada 2 director David Frankel recently revealed he had planned to bring back Adrian for the sequel but timing wasn’t on his side. He told Entertainment Weekly: “I had an idea about sneaking him into a cameo, and, in the end, it was just too late in our production schedule to make it happen.” Adrian told Page Six last month that he was “disappointed” not to have been asked back. The environmentalist said: “We’re all fans of the movie, whether or not we’re in it. “Obviously, it was a disappointment that I didn’t get the call to be in the sequel, but I also understand there’s some backlash with Nate, the character, so that might have something to do with it. But I think that just leaves room for a spinoff.” Nate was considered a divisive character because he wasn’t supportive of Andy’s demanding career at Runway magazine.
 
-🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 11h ago
+🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 12h ago
+
+---
+
+**[Satsearn is about to launch soon](https://www.reddit.com/r/Bitcoin/comments/1t2qtru/satsearn_is_about_to_launch_soon/)**
+
+3h ago
 
 ---
 
@@ -119,13 +125,15 @@ Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acr
 
 Has anyone gotten refunds from Bitcoin Merch? I had "pre-ordered" some miners from them back in December. The site claimed shipping would start in 6-8 weeks. Then nothing, I sent an inquiry email and was told that it would ship in April. Well April came and went, the 120 days for a refund is void. They have not responded to my emails or updated me the whole month of April. Well, April came and went, and the 120-day refund period has expired. Like I'll eat the $800 loss, but damn. Does anyone have a similar experience with them?
 
-1h ago
+2h ago
 
 ---
 
-**[Satsearn is about to launch soon](https://www.reddit.com/r/Bitcoin/comments/1t2qtru/satsearn_is_about_to_launch_soon/)**
+**[What to do with Btc after retirement?](https://www.reddit.com/r/Bitcoin/comments/1t2r9xl/what_to_do_with_btc_after_retirement/)**
 
-2h ago
+I have some Bitcoin now. Not enough to retire solely on Btc alone, but enough to use as an added savings along with my traditional retirement accounts. Obviously after retirement, fluctuation in the market could really hurt my plans and I want to protect myself. In the 20 or so years when I retire, would it be best to sell off monthly/yearly amounts or sell it all off at once to keep my comfortable lifestyle? I am not a Btc fanatic and I do not believe it will replace today's currency in my lifetime but am using it as a hedge to compliment my already setup retirement plans.
+
+3h ago
 
 ---
 
@@ -133,7 +141,7 @@ Has anyone gotten refunds from Bitcoin Merch? I had "pre-ordered" some miners fr
 
 I initially followed the typical advice that everyone needs to have .01 BTC. I did this at $25k. I thought that was enough. There was no way a regular guy like me could EVER be a whole coiner; BTC is too expensive. That's the lie I believed. I am certain that, if the average person in the USA, with a job, who has the ability to budget, set goals, and cut back on wasteful spending (like our government fails to do), and puts their mind to it, they could eventually achieve 1 BTC. If I did it, anyone can.
 
-23h ago
+1d ago
 
 ---
 
@@ -141,15 +149,7 @@ I initially followed the typical advice that everyone needs to have .01 BTC. I d
 
 I built a simple Bitcoin paywall for digital files. Upload any file, set a BTC price, and share a payment link instantly. No signup. No KYC. Direct Bitcoin payments.
 
-6h ago
-
----
-
-**[Vegas anyone?](https://www.reddit.com/r/Bitcoin/comments/1t2uuz9/vegas_anyone/)**
-
-Did anyone stop by the Bitcoin conference in Las Vegas this past week? I had a layover in Las Vegas last year druing the conference and walked through the convention hall a bit and people watched. It was interesting but I felt it was all a bit of a dog and pony show....wondering if anyone else developped different insights?
-
-10m ago
+8h ago
 
 ---
 
@@ -171,19 +171,19 @@ Forbes • 1d ago
 
 ---
 
-**[Has bitcoin’s biggest mystery been solved?](https://edition.cnn.com/2026/05/03/business/video/bitcoin-founder-satoshi-nakamoto-investigation-digvid-vrtc)**
+**[Has bitcoin’s biggest mystery been solved?](https://www.cnn.com/2026/05/03/business/video/bitcoin-founder-satoshi-nakamoto-investigation-digvid-vrtc)**
 
 CNN’s Jim Sciutto speaks with investigators Tyler Maroney and William Cohen about their hunt to uncover the true identity behind the pseudonym used by Bitcoin founder Satoshi Nakamoto.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
-**[MicroStrategy Pauses Bitcoin Buys Ahead of May 5 Q1 Earnings](https://finance.yahoo.com/markets/crypto/articles/microstrategy-pauses-bitcoin-buys-ahead-180837543.html)**
+**[Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants](https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html)**
 
-Strategy paused Bitcoin buying ahead of its May 5 Q1 2026 earnings as Saylor signals a normal pace returns next week.
+Cipher Digital (NasdaqGS:CIFR) is shifting from Bitcoin mining to AI infrastructure services. The company has entered into multi billion dollar, long term leasing agreements with Amazon Web Services and Google. These contracts position Cipher Digital as a high performance computing data center provider to two major cloud platforms. Cipher Digital has historically operated in Bitcoin mining, a business tied closely to crypto price cycles and mining difficulty. By committing capacity to...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -191,13 +191,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin's price rose about 20% in April, but the rally was driven by speculative perpetual futures demand while spot demand remained weak, CryptoQuant said.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
 **[Bitcoin targets $80,000 amid regulatory progress and S&P 500 record](https://www.investing.com/news/cryptocurrency-news/bitcoin-targets-80000-amid-regulatory-progress-and-sp-500-record-4654822)**
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -229,7 +229,7 @@ CNBC • 2d ago
 
 Bitcoin is has shown ssigns of life after a big week of tech earnings, yet it hasn't kept up with the recovery rally in stocks.
 
-Investopedia • 1d ago
+Investopedia • 2d ago
 
 ---
 
@@ -293,7 +293,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 1 • 💬 0 • 11h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 1 • 💬 0 • 13h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin is about to take a MASSIVE step forward and the signals are stacking up 
 
 📺 Crypto Sensei
 
-👁️ 9K • 👍 489 • 💬 60 • ⏱️ 13:43 • 20h ago
+👁️ 9K • 👍 489 • 💬 60 • ⏱️ 13:43 • 21h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 159 • ⏱️ 11:49 • 20h ago
+👁️ 23K • 👍 2K • 💬 159 • ⏱️ 11:49 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 80 • 💬 134 • ⏱️ 19:13 • 13h ago
+👁️ 1K • 👍 80 • 💬 134 • ⏱️ 19:13 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ You can go to my partner https://kalshi.com/aaronbennett and use code aaronbenne
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 279 • 💬 76 • ⏱️ 12:59 • 12h ago
+👁️ 5K • 👍 279 • 💬 76 • ⏱️ 12:59 • 13h ago
 
 ---
 
@@ -403,7 +403,7 @@ Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says t
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 236 • 💬 141 • ⏱️ 19:41 • 20h ago
+👁️ 4K • 👍 236 • 💬 141 • ⏱️ 19:41 • 22h ago
 
 ---
 
@@ -413,7 +413,7 @@ CNN's Jim Sciutto speaks with investigators Tyler Maroney and William Cohen abou
 
 📺 CNN
 
-👁️ 15K • 👍 391 • 💬 43 • ⏱️ 2:05 • 2h ago
+👁️ 15K • 👍 391 • 💬 43 • ⏱️ 2:05 • 3h ago
 
 ---
 

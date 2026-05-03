@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T19:33:54.361573+00:00'
+updated: '2026-05-03T20:43:27.674281+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 19:33 UTC  
+**Last Updated:** May 03, 2026 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +1.1%  
-**30d:** +12.9%  
-**90d:** +4.3%  
-**1y:** +28.8%  
+**24h:** +0.4%  
+**7d:** +1.4%  
+**30d:** +13.2%  
+**90d:** +4.6%  
+**1y:** +29.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 10h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-13h ago
+14h ago
 
 ---
 
@@ -156,19 +156,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+**[Someone just drained long-forgotten dormant Ethereum wallets, and the cause may trace back years](https://cryptoslate.com/someone-drained-long-forgotten-ethereum-wallets-and-the-cause-may-trace-back-years/)**
 
-The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+Hundreds of dormant Ethereum wallets were drained as April's crypto exploit wave exposed risks around old keys, admin powers, and bridges.
 
-CoinDesk • 2d ago
+CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
+**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
 
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -180,11 +180,19 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum To Reach $250K, Wall Street Booster Says, Citing Criteria Laid Out By Warren Buffett](https://finance.yahoo.com/markets/crypto/articles/ethereum-reach-250k-wall-street-131604641.html)**
+**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
 
-Ethereum could capture most of the value held in Bitcoin and gold and trade as high as $250,000, according to Wall Street-focused Ethereum builder Etherealize. Etherealize in a Tuesday X post said Ethereum is "productive money," citing criteria laid out...
+For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+
+The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -200,23 +208,7 @@ Fortune • 2d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 13h ago
-
----
-
-**[Ethereum ETFs Shed $184M Over 4-Day Negative Streak](https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak)**
-
-Outflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&P 500 hit an all-time high.
-
-Decrypt • 2d ago
-
----
-
-**[BitMine’s 4.5M ETH stake strategy boosts confidence in $5,000 May target](https://cryptobriefing.com/bitmines-45m-eth-stake-strategy-boosts-confidence-in-5000-may-target/)**
-
-BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
-
-Crypto Briefing • 7h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -225,6 +217,14 @@ Crypto Briefing • 7h ago
 Ethereum has surged more than 25% since late March, pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous attempt higher. The move has been convincing enough to shift sentiment — but a CryptoQuant analyst h…
 
 TradingView • 1d ago
+
+---
+
+**[BitMine’s 4.5M ETH stake strategy boosts confidence in $5,000 May target](https://cryptobriefing.com/bitmines-45m-eth-stake-strategy-boosts-confidence-in-5000-may-target/)**
+
+BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
+
+Crypto Briefing • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 103 • 💬 13 • ⏱️ 20:21 • 3h ago
+👁️ 1K • 👍 103 • 💬 13 • ⏱️ 20:21 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 159 • ⏱️ 11:49 • 20h ago
+👁️ 23K • 👍 2K • 💬 159 • ⏱️ 11:49 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 239 • 💬 41 • ⏱️ 15:33 • 23h ago
+👁️ 5K • 👍 239 • 💬 41 • ⏱️ 15:33 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 698 • 👍 80 • 💬 2 • ⏱️ 6:20 • 6h ago
+👁️ 698 • 👍 80 • 💬 2 • ⏱️ 6:20 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d
 
 📺 David Aranzabal
 
-👁️ 2K • 👍 214 • 💬 16 • ⏱️ 8:33 • 5h ago
+👁️ 2K • 👍 214 • 💬 16 • ⏱️ 8:33 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 2K • 💬 24 • ⏱️ 11:48 • 18h ago
+👁️ 2K • 💬 24 • ⏱️ 11:48 • 19h ago
 
 ---
 
@@ -318,7 +318,7 @@ Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success De
 
 📺 Reset Life
 
-👁️ 151K • 💬 25 • ⏱️ 0:20 • 7h ago
+👁️ 151K • 💬 25 • ⏱️ 0:20 • 8h ago
 
 ---
 
