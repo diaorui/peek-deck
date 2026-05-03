@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T17:24:44.821171+00:00'
+updated: '2026-05-03T18:11:09.440223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 17:24 UTC  
+**Last Updated:** May 03, 2026 at 18:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ I literally have all these pieces bought, and everything is wired together but i
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-13h ago
+14h ago
 
 ---
 
@@ -60,19 +60,19 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
 
-🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 3h ago
+🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 4h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
 
-12h ago
+13h ago
 
 ---
 
@@ -138,7 +138,7 @@ TechCrunch • 1d ago
 
 Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
 
-KY3 • 7h ago
+KY3 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ ABC News' Sophie Flay takes a closer look at the future of humanoid robots, wher
 
 📺 ABC News
 
-👁️ 35K • 👍 1K • 💬 87 • ⏱️ 1:56 • 19h ago
+👁️ 35K • 👍 1K • 💬 87 • ⏱️ 1:56 • 20h ago
 
 ---
 

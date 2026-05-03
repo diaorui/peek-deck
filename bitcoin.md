@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-03T17:24:44.811956+00:00'
+updated: '2026-05-03T18:11:09.431235+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 17:24 UTC  
+**Last Updated:** May 03, 2026 at 18:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-mo
 
 **[Son](https://www.reddit.com/r/Bitcoin/comments/1t2p07z/son/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-mo
 
 I didn’t start as a Bitcoin maximalist. I started as a “just diversifying bro.” Then a “this alt looks promising.” Then a “okay maybe 90% BTC.” Now I’m at the point where I accidentally say “Bitcoin” when people ask me what time it is. Not sure when it happened… but my maxi-ness is stronger than ever. Anyone else just… slowly give up fighting it?
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ I didn’t start as a Bitcoin maximalist. I started as a “just diversifying br
 
 Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acre sustainable farm and wildlife sanctuary in Bastrop, Texas. The 49-year-old now focuses on regenerative agriculture and sustainability as well as eco-conscious living. The green move came after the pandemic where he expressed a desire to get back to basics and appreciate nature’s offering. He describes his ranch as a ‘mini-community’ with a hippy holistic attitude where people are invited to come build and live there, and grow and share food together. While stepping away from the big screen, he remains on camera on Earth Speed, founded in 2021 – a regenerative lifestyle platform and docuseries where Adrien advocates for regenerative farming, permaculture workshops and conducts interviews with environmental leaders. But there’s a controversial element to his wholesome new existence in the way it is funded. Adrien is a vocal Bitcoin advocate and is exploring using cryptocurrency to run his farming community. “I like the technology – the decentralization of bitcoin, which gives more access to more people,” he told CNBC previously. “I’m also spending it and trying to use it in the real world,” he said. “Right now, bitcoin is so volatile because it’s new, and people are looking at it as a trade…Eventually, it’s going to settle down and it’s going to be the currency that we use.” Bitcoin critics often push back against the wealth disparity and the great deal of power that is used in creating new coins, in a process called ‘mining’, which involves a global network of computers working together to make them. But Bitcoin process ‘mining’ – which uses a global network of computers to create new coins – unsurprisingly carries a large carbon footprint too that arguably contrasts Adrien’s green beliefs. “Bitcoin does definitely have an environmental footprint,” he says. “But let’s not pooh-pooh efforts to try and make a technology that’s actually going to give a lot of empowerment to people around the world.” During his days in the spotlight, Adrien was known for being a bit of a playboy and dated many famous women including Australian star Isabel Lucas, Sabrina The Teenage Witch actress Melissa Joan Hart and Twilight’s Ashley Greene. He was also linked with Paris Hilton, The Bachelor winner Courtney Robertson and actress Cameron Richardson. Adrien told Fox News in 2024 that he was poly amorous and had a bit of an ‘ego’. He explained: “Growing up in New York, there’s a little bit of nihilism, Godless[ness], you know. And this was now the overlay of my ego, which was, ‘See? You know, I am the man, I, you know, I got the part.’ And people are, you know, approving of me. “I didn’t believe in God…I was open and poly and, you know, liberal and I thought I was a good person, I really did.” “It wasn’t until I was in my 40s and the love of my life who I was dating at the time, she dumped me and she, in no uncertain terms, said, ‘You’re the worst.’” The woman in question who he credits for his lifestyle transformation is his wife, Jordan Roemelle, with their relationship being the catalyst for him leaving Hollywood behind. Speaking on the Make Yourself at Home podcast, Adrian explained: “She was the first woman I perceive, that I was able to witness, as wanting more from me. “She didn’t just allow the worst parts of me, she challenged me in a powerful, powerful way, as a strong woman that she is, to be more than what I am. “I wasn’t able to do that and when I failed, she left me.” He revealed that she ended their relationship in 2020 as he was still too caught up in the “Hollywood” mindset. The “ego-shattering” moment forced him to re-evaluate his life and what was important to him. After doing significant inner work, the pair reconciled with a shared vision of a simpler life. They went on to elope in Morrocco in 2022 and now have two children, Seiko and Evren. “I told her I wanted to buy land and do nature, she sent me a picture she did an exercise where she was drawing a picture of what she wanted to manifest. “It was land and community and family and home, so it was fated,” he expressed. As for his former Hollywood life, The Devil Wears Prada 2 director David Frankel recently revealed he had planned to bring back Adrian for the sequel but timing wasn’t on his side. He told Entertainment Weekly: “I had an idea about sneaking him into a cameo, and, in the end, it was just too late in our production schedule to make it happen.” Adrian told Page Six last month that he was “disappointed” not to have been asked back. The environmentalist said: “We’re all fans of the movie, whether or not we’re in it. “Obviously, it was a disappointment that I didn’t get the call to be in the sequel, but I also understand there’s some backlash with Nate, the character, so that might have something to do with it. But I think that just leaves room for a spinoff.” Nate was considered a divisive character because he wasn’t supportive of Andy’s demanding career at Runway magazine.
 
-🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 9h ago
+🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acr
 
 I initially followed the typical advice that everyone needs to have .01 BTC. I did this at $25k. I thought that was enough. There was no way a regular guy like me could EVER be a whole coiner; BTC is too expensive. That's the lie I believed. I am certain that, if the average person in the USA, with a job, who has the ability to budget, set goals, and cut back on wasteful spending (like our government fails to do), and puts their mind to it, they could eventually achieve 1 BTC. If I did it, anyone can.
 
-20h ago
+21h ago
 
 ---
 
@@ -119,7 +119,7 @@ I initially followed the typical advice that everyone needs to have .01 BTC. I d
 
 I built a simple Bitcoin paywall for digital files. Upload any file, set a BTC price, and share a payment link instantly. No signup. No KYC. Direct Bitcoin payments.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ And when do you think that would happen? Edit: 1 person (for now). A wealthy cou
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 1d ago
 
 CNN’s Jim Sciutto speaks with investigators Tyler Maroney and William Cohen about their hunt to uncover the true identity behind the pseudonym used by Bitcoin founder Satoshi Nakamoto.
 
-CNN • 22m ago
+CNN • 1h ago
 
 ---
 
@@ -193,13 +193,13 @@ Yahoo Finance • 13h ago
 
 Bitcoin's price rose about 20% in April, but the rally was driven by speculative perpetual futures demand while spot demand remained weak, CryptoQuant said.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
 **[Bitcoin targets $80,000 amid regulatory progress and S&P 500 record](https://www.investing.com/news/cryptocurrency-news/bitcoin-targets-80000-amid-regulatory-progress-and-sp-500-record-4654822)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ Investopedia • 1d ago
 
 Calamos CEO John Koudounis warns traditional bank accounts are less safe than Bitcoin and shares his vision for a digital financial future.
 
-GreekReporter.com • 7h ago
+GreekReporter.com • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 1 • 💬 0 • 9h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 1 • 💬 0 • 10h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin is about to take a MASSIVE step forward and the signals are stacking up 
 
 📺 Crypto Sensei
 
-👁️ 8K • 👍 485 • 💬 57 • ⏱️ 13:43 • 18h ago
+👁️ 8K • 👍 485 • 💬 57 • ⏱️ 13:43 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 2K • 💬 154 • ⏱️ 11:49 • 18h ago
+👁️ 21K • 👍 2K • 💬 154 • ⏱️ 11:49 • 19h ago
 
 ---
 
@@ -385,7 +385,7 @@ Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says t
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 229 • 💬 112 • ⏱️ 19:41 • 18h ago
+👁️ 4K • 👍 229 • 💬 112 • ⏱️ 19:41 • 19h ago
 
 ---
 
@@ -395,7 +395,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 69 • 💬 158 • ⏱️ 19:13 • 11h ago
+👁️ 1K • 👍 69 • 💬 158 • ⏱️ 19:13 • 12h ago
 
 ---
 
