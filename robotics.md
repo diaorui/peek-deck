@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T11:42:45.812223+00:00'
+updated: '2026-05-03T13:12:57.487712+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 11:42 UTC  
+**Last Updated:** May 03, 2026 at 13:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,19 +52,19 @@ I literally have all these pieces bought, and everything is wired together but i
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-7h ago
+9h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -72,15 +72,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-6h ago
-
----
-
-**[Humanoid robots](https://www.reddit.com/r/robotics/comments/1t2bw99/humanoid_robots/)**
-
-Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
-
-6h ago
+7h ago
 
 ---
 
@@ -97,6 +89,14 @@ I’ve been working on a custom dual H-bridge brushed DC motor driver designed t
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Commercial video: https://x.com/XRoboHub/status/2049373299310993869
 
 2d ago
+
+---
+
+**[Humanoid robots](https://www.reddit.com/r/robotics/comments/1t2bw99/humanoid_robots/)**
+
+Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
+
+8h ago
 
 ---
 
@@ -128,7 +128,15 @@ Bloomberg.com • 1d ago
 
 Meta, AI, humanoid, robot
 
-Engadget • 21h ago
+Engadget • 23h ago
+
+---
+
+**[Unitree G1 humanoid robot ice skates and rollerblades](https://www.foxnews.com/tech/unitree-g1-humanoid-robot-ice-skates-rollerblades)**
+
+Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
+
+Fox News • 2d ago
 
 ---
 
@@ -146,6 +154,14 @@ WSJ • 2d ago
 
 ---
 
+**[Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)**
+
+Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
+
+CNBC • 2d ago
+
+---
+
 **[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
 
 AgWeb • 2d ago
@@ -160,25 +176,9 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)**
-
-Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
-
-CNBC • 2d ago
-
----
-
 **[From phones to humanoid robots: China’s supply chain eyes next growth curve](https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid)**
 
-South China Morning Post • 7h ago
-
----
-
-**[Who Is Tesla Selling 1 Million Humanoid Robots A Year To?](https://cleantechnica.com/2026/05/01/who-is-tesla-selling-1-million-humanoid-robots-a-year-to/)**
-
-Support CleanTechnica's work through a Substack subscription or on Stripe. In its latest quarterly report for shareholders, Tesla mentions “robots” three times. Two of those times were in the “Robotics” paragraph/section: “Preparations for our first large-scale Optimus factory will begin shortly in Q2. The first-generation line, designed for 1 million  ... [continued]
-
-CleanTechnica • 1d ago
+South China Morning Post • 9h ago
 
 ---
 
@@ -192,17 +192,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 227K • 👍 3K • 💬 261 • ⏱️ 24:02 • 4d ago
-
----
-
-**[Ukraine UNLEASHED 25,000 Robots — Russia Has NOTHING To Stop Them](https://www.youtube.com/watch?v=u-ACdtRQ0Vc)**
-
-Ukraine is turning the battlefield into something Russia was never built to fight. In 2026, Ukraine began scaling a new kind of war: ...
-
-📺 War Vault
-
-👁️ 283K • 👍 6K • 💬 590 • ⏱️ 16:42 • 3d ago
+👁️ 229K • 👍 3K • 💬 263 • ⏱️ 24:02 • 4d ago
 
 ---
 
@@ -212,7 +202,17 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 92K • 👍 877 • 💬 236 • ⏱️ 3:51 • 2d ago
+👁️ 93K • 👍 879 • 💬 236 • ⏱️ 3:51 • 2d ago
+
+---
+
+**[Ukraine UNLEASHED 25,000 Robots — Russia Has NOTHING To Stop Them](https://www.youtube.com/watch?v=u-ACdtRQ0Vc)**
+
+Ukraine is turning the battlefield into something Russia was never built to fight. In 2026, Ukraine began scaling a new kind of war: ...
+
+📺 War Vault
+
+👁️ 283K • 👍 6K • 💬 592 • ⏱️ 16:42 • 3d ago
 
 ---
 
@@ -220,7 +220,17 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 RiseX Venturess
 
-👁️ 12K • 👍 2K • 💬 19 • ⏱️ 1:06 • 1d ago
+👁️ 12K • 👍 2K • 💬 19 • ⏱️ 1:06 • 2d ago
+
+---
+
+**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
+
+Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
+
+📺 Carros Show
+
+👁️ 54K • 👍 1K • 💬 104 • ⏱️ 8:27 • 5d ago
 
 ---
 
@@ -230,17 +240,17 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 Joanna Stern
 
-👁️ 282K • 👍 7K • 💬 972 • ⏱️ 11:11 • 3d ago
+👁️ 284K • 👍 7K • 💬 977 • ⏱️ 11:11 • 3d ago
 
 ---
 
-**[I Built an Even Better Robot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)**
+**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=TDkNRIWfaq4)**
 
-Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com/aaedmusayt Buy the CARA 2.0 project files: ...
+ABC News' Sophie Flay takes a closer look at the future of humanoid robots, where the race is on to see who gets there first.
 
-📺 Aaed Musa
+📺 ABC News
 
-👁️ 72K • 👍 8K • 💬 522 • ⏱️ 22:12 • 1d ago
+👁️ 32K • 👍 1K • 💬 86 • ⏱️ 1:56 • 15h ago
 
 ---
 
@@ -250,7 +260,7 @@ Scene using artificial intelligence. #aiart #movie.
 
 📺 Miracle Animal Rescues
 
-👁️ 15K • 👍 161 • 💬 10 • ⏱️ 8:09 • 1d ago
+👁️ 22K • 👍 231 • 💬 13 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -264,23 +274,13 @@ eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/
 
 ---
 
-**[Tesla Bot Gen 3: Elon Musk Plans 1 Million Units at $10K to Manage All Household Tasks by 2025](https://www.youtube.com/watch?v=8xXPTce7pLg)**
+**[Robotics&#39; End Game: Nvidia&#39;s Jim Fan](https://www.youtube.com/watch?v=3Y8aq_ofEVs)**
 
-What if your daily chores could disappear overnight? In this video, we dive into Elon Musk's bold vision of producing 1 million ...
+Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to AI Ascent to argue that robotics is entering its ...
 
-📺 Ai_Mobility_News
+📺 Sequoia Capital
 
-👁️ 35K • 👍 282 • 💬 35 • ⏱️ 12:54 • 4d ago
-
----
-
-**[Eiffel Is Now A F2P Monster... I Had No Idea It Was THIS Good - Eiffel Meta | War Robots](https://www.youtube.com/watch?v=9X8g08HpYh8)**
-
-Eiffel is now a f2p monster. The Eiffel was of course super overpowered when it was released and since then it has received a ...
-
-📺 PREDATOR WR
-
-👁️ 11K • 👍 451 • 💬 91 • ⏱️ 16:17 • 23h ago
+👁️ 79K • 👍 997 • 💬 53 • ⏱️ 20:03 • 2d ago
 
 ---
 
