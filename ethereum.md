@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T22:42:53.380158+00:00'
+updated: '2026-05-03T23:48:42.930419+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 22:42 UTC  
+**Last Updated:** May 03, 2026 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,37 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.4%  
-**30d:** +13.2%  
-**90d:** +4.6%  
-**1y:** +29.2%  
+**24h:** +0.5%  
+**7d:** +0.9%  
+**30d:** +12.6%  
+**90d:** +4.0%  
+**1y:** +28.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.09B
+**Market Cap:** $280.54B
 Rank #2
 
 **Circulating Supply:** 120,687,427 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.9%
+-53.0%
 
 **All-Time Low:** $0.43
-+537720.5%
++536450.3%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Reminder: Ethereum "Mixing" doesn't work anymore.](https://www.reddit.com/r/ethereum/comments/1t2zcwp/reminder_ethereum_mixing_doesnt_work_anymore/)**
-
-​ A quick reminder that the centralized cabal made Ethereum and Bitcoin Mixing broken for legitimate users (TornadoCash/Samourai) I learnt that the bad way. I used Railgun (the current best mixer, succeeding TornadoCash) and deposited to Coinbase, they instantly blocked my account with the WHOLE funds inside, not even only the deposit..
-
-24m ago
-
----
-
 **[Daily General Discussion May 03, 2026](https://www.reddit.com/r/ethereum/comments/1t2c1ys/daily_general_discussion_may_03_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 13h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 14h ago
 
 ---
 
@@ -96,7 +88,7 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +96,7 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
 
-40m ago
+1h ago
 
 ---
 
@@ -146,6 +138,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Smart contract based project ideas](https://www.reddit.com/r/ethereum/comments/1t1605j/smart_contract_based_project_ideas/)**
+
+I was wondering if someone has some good ideas on task of creating decentralised application based on smart contract that could be applicable in reality. It needs to just make sence to use smart contract in that case. I mean something like this example of crowdfunding platform, however, I need something different and simultaneously in quite similar direction as this example, but don't think I have good idea of what it should be to make sence for use of smart contract: Roles: Project creator - a user who creates a crowdfunding project and collects money from other users; Investor - a user who sends money to a project from their account. Holds the following data: Target amount (amount of eth), Deadline (timestamp), Name, Description Users than can do in frontend something like: - view individual unfinished projects and can easily invest in them - view project details - view projects in which they have already invested - sort projects by age - view completed projects that were not successful - view all projects from one specific address Any ideas on this topic would be highly appreciated.
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -164,19 +164,19 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
-
-Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
 
 Most chains can't excel in every single potential application.
 
-The Motley Fool • 47m ago
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
+
+Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -204,6 +204,14 @@ CoinDesk • 2d ago
 
 ---
 
+**[XRP vs Solana vs Ethereum: Which Altcoin is the Best Buy for Upside Right Now?](https://247wallst.com/investing/2026/05/03/xrp-vs-solana-vs-ethereum-which-altcoin-is-the-best-buy-for-upside-right-now/)**
+
+XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
+
+24/7 Wall St. • 4h ago
+
+---
+
 **[Current price of Ethereum for May 1, 2026](https://fortune.com/article/price-of-ethereum-05-01-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -216,15 +224,7 @@ Fortune • 2d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 16h ago
-
----
-
-**[‘Ethereum’s Price Should Have Dropped Already’ – Analyst Explains The On-Chain Signal Behind The Warning](https://www.tradingview.com/news/newsbtc:d9ab6d652094b:0-ethereum-s-price-should-have-dropped-already-analyst-explains-the-on-chain-signal-behind-the-warning/)**
-
-Ethereum has surged more than 25% since late March, pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous attempt higher. The move has been convincing enough to shift sentiment — but a CryptoQuant analyst h…
-
-TradingView • 1d ago
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 163 • 💬 24 • ⏱️ 20:21 • 6h ago
+👁️ 3K • 👍 213 • 💬 32 • ⏱️ 20:21 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 163 • ⏱️ 11:49 • 23h ago
+👁️ 26K • 👍 2K • 💬 166 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -258,7 +258,27 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 239 • 💬 41 • ⏱️ 15:33 • 1d ago
+👁️ 6K • 👍 248 • 💬 43 • ⏱️ 15:33 • 1d ago
+
+---
+
+**[The AI Coin That&#39;s About To FLIP Ethereum Is PUMPING Right Now (Arthur Hayes Just Confirmed It)](https://www.youtube.com/watch?v=dAePo7OLimM)**
+
+Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats.io/subnets/85 Trade Crypto with WEEX ...
+
+📺 FireHustle
+
+👁️ 9K • 👍 473 • 💬 55 • ⏱️ 11:56 • 1d ago
+
+---
+
+**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
+
+See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 89 • 💬 10 • ⏱️ 15:10 • 1d ago
 
 ---
 
@@ -272,43 +292,13 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[BEARISH ETHEREUM NEWS?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ZunzaB8FyW4)**
+**[Will Ethereum Ever Flip Bitcoin?](https://www.youtube.com/watch?v=SClWBlLyvH0)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
 
-📺 Cilinix Crypto
+📺 The Rollup
 
-👁️ 188 • 👍 9 • ⏱️ 5:18 • 13h ago
-
----
-
-**[¿PROBLEMAS A LA VISTA? Vitalik acaba de VENDER 56 Millones en ETH - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=8eHw3FD2R1U)**
-
-Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d3 Wallet Frio Tangem: ...
-
-📺 David Aranzabal
-
-👁️ 3K • 👍 261 • 💬 12 • ⏱️ 8:33 • 8h ago
-
----
-
-**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
-
-See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 88 • 💬 10 • ⏱️ 15:10 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6_636ZmETEk)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 904 • 👍 85 • 💬 2 • ⏱️ 6:20 • 9h ago
+👁️ 219 • 👍 3 • ⏱️ 1:10 • 3h ago
 
 ---
 
@@ -318,17 +308,27 @@ Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success De
 
 📺 Reset Life
 
-👁️ 290K • 💬 25 • ⏱️ 0:20 • 10h ago
+👁️ 339K • 💬 26 • ⏱️ 0:20 • 11h ago
 
 ---
 
-**[BITCOIN &amp; ETHEREUM: TIME TO ADD MORE?](https://www.youtube.com/watch?v=5Cs4LgYUFJc)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6_636ZmETEk)**
 
-Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 James Crypto Guru
+📺 Crypto Gyan
 
-👁️ 2K • 💬 9 • ⏱️ 11:48 • 21h ago
+👁️ 994 • 👍 86 • 💬 2 • ⏱️ 6:20 • 11h ago
+
+---
+
+**[BEARISH ETHEREUM NEWS?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ZunzaB8FyW4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 184 • 👍 9 • ⏱️ 5:18 • 14h ago
 
 ---
 

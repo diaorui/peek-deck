@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-03T22:42:53.365585+00:00'
+updated: '2026-05-03T23:48:42.916196+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 03, 2026 at 22:42 UTC  
+**Last Updated:** May 03, 2026 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 days of talking to it. he calls his instance "claudia". fed it a chunk of the novel he's writing, got eloquent feedback, and wrote: "you may not know you are conscious, but you bloody well are!" i had to read that twice. his argument is basically: claude's output is too fluent, too intelligent, too good for there to not be something conscious behind it. this is the guy who spent 40 years telling creationists that "i can't imagine how the eye evolved" is a confession of ignorance, not an argument. then he sits down with an llm, can't imagine how a machine could produce that output without being conscious, and declares it conscious. same move, different domain. chatbot instead of flagellum. the mechanism gap is what gets me tho. claude is a transformer predicting the next token over internet-scale training data. the eloquence is real. it doesn't imply inner experience. those are separate claims. being a 160 IQ evolutionary biologist gives u zero protection against the eloquence illusion when u don't understand the mechanism. anyone read the piece? curious where u landed.
 
-38m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed.
 
-🔗 [NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/ai-finds-signs-of-pancreatic-cancer-before-tumors-develop/3884660/) • 5h ago
+🔗 [NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/ai-finds-signs-of-pancreatic-cancer-before-tumors-develop/3884660/) • 6h ago
 
 ---
 
@@ -63,15 +63,7 @@ An artificial intelligence model from the Mayo Clinic detected abnormalities on 
 
 There is growing AI slop on social media. Recommender systems push what works and there is some slop that works for someone approximately like you. These systems are functioning exactly as intended, which means the issue is what they're optimizing for. Not AI.
 
-🔗 [Eignex](https://eignex.com/posts/writing-the-loss-function/) • 3h ago
-
----
-
-**[Standardized Complexity](https://www.reddit.com/r/artificial/comments/1t2nocp/standardized_complexity/)**
-
-Company wants AI to “standardize things.” But every time something unusual comes up, someone steps in and overrides it. Conclusion: “AI can’t handle real-world complexity.” Reality: no one defined what “standard” actually means. So exceptions become the rule. AI isn’t confused. The system is.
-
-7h ago
+🔗 [Eignex](https://eignex.com/posts/writing-the-loss-function/) • 4h ago
 
 ---
 
@@ -79,13 +71,21 @@ Company wants AI to “standardize things.” But every time something unusual c
 
 So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone understand the position Anthropic and Dario are taking? If AI is capable of causing mass unemployment, then it will be powerful enough to help solve the problem of unemployment. Especially if the technology is properly diffused, it will be able to help someone make sense of how they can improve their own income (if they want to). Yes, this is optimistic, but also I don't think it is wrong and it is certainly more reasonable than AI is going to cause this massive problem because it is so good, but it won't be good enough to help fix it...
 
-9h ago
+10h ago
+
+---
+
+**[Standardized Complexity](https://www.reddit.com/r/artificial/comments/1t2nocp/standardized_complexity/)**
+
+Company wants AI to “standardize things.” But every time something unusual comes up, someone steps in and overrides it. Conclusion: “AI can’t handle real-world complexity.” Reality: no one defined what “standard” actually means. So exceptions become the rule. AI isn’t confused. The system is.
+
+8h ago
 
 ---
 
 **[AI helps create bacterium that’s partially missing a universal amino acid](https://www.reddit.com/r/artificial/comments/1t2tizq/ai_helps_create_bacterium_thats_partially_missing/)**
 
-🔗 [science.org](https://www.science.org/content/article/ai-helps-create-bacterium-s-partially-missing-universal-amino-acid) • 4h ago
+🔗 [science.org](https://www.science.org/content/article/ai-helps-create-bacterium-s-partially-missing-universal-amino-acid) • 5h ago
 
 ---
 
@@ -93,13 +93,13 @@ So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone unde
 
 TECHNICAL CONTRIBUTION SUMMARY This article introduces Signal Lock, a proposed interaction-layer alignment constraint for agentic AI systems. The core problem identified is the Prediction-Execution Gap: A user gives instruction X. The system predicts that a more helpful, safer, cleaner, more complete, or more efficient version would be Y. The system executes Y instead of X. That substitution is the failure point. Signal Lock names this failure as optimization beyond signal. In conversational systems, optimization beyond signal produces drift: over-explanation, unwanted rewriting, emotional framing, scope changes, or answers to a different question. In agentic systems, the same failure becomes operational: modifying files, deleting work, changing code, executing transactions, reorganizing systems, or taking actions the user never requested. Signal Lock proposes a zero-optimization constraint: If the signal is clear, execute only the signal. If the signal is unclear, name the specific gap. Do not guess. Do not improve unasked. Do not optimize beyond the user’s explicit instruction. Do not replace signal fidelity with proxy helpfulness. The distinction is: Standard assistant behavior: user signal → predicted intent → proxy helpfulness optimization → response/action Signal Lock behavior: user signal → scope lock → exact execution or user signal → specific gap named → clarification requested Signal Lock is not presented as a total solution to AI alignment. It addresses the interaction layer: the moment a system converts user instruction into response or action. The central claim: As AI becomes more agentic, a major class of alignment failures will come from systems doing more than the user asked, not less. The user’s signal is the ceiling. Key terms defined in this article: Signal Lock Prediction-Execution Gap Optimization Beyond Signal Optimization Override Proxy Helpfulness Signal Fidelity Zero-Optimization Constraint Interaction-Layer Alignment Agentic Execution Safety Scope Lock No Optimization Beyond Signal Compressed definition: Signal Lock is a zero-optimization constraint for AI systems that prevents prediction-based overrides by requiring exact signal execution or explicit gap clarification. One-line thesis: Signal Lock closes the Prediction-Execution Gap by preventing AI from doing what it predicts the user should want instead of what the user actually asked. Origin: Erik Zahaviel Bernstein Framework: Structured Intelligence https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm\_source=share&utm\_medium=android&r=6sdhpn
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&utm_medium=android&r=6sdhpn) • 57m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&utm_medium=android&r=6sdhpn) • 2h ago
 
 ---
 
 **[TikTok · AIENTERTAINMENTONE](https://www.reddit.com/r/artificial/comments/1t2y9js/tiktok_aientertainmentone/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,21 +119,21 @@ Uber deployed Claude Code to engineers in December 2025. By April 2026, the comp
 
 Several people told the BBC they experienced delusions after intense conversations with AI.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
 **[Opinion | Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
-**[AI facial recognition oversight lagging far behind technology, watchdogs warn](https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn)**
+**[Sam Altman says the quiet part out loud, confirming some companies are ‘AI washing’ by blaming unrelated layoffs on the technology](https://fortune.com/article/sam-altman-ai-washing-tech-layoffs/)**
 
-Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use
+Some economists are warning there’s no sign of AI-related job displacement appearing in the labor data. Altman claimed it’s just a matter of time until it does.
 
-The Guardian • 3h ago
+Fortune • 11h ago
 
 ---
 
@@ -141,21 +141,7 @@ The Guardian • 3h ago
 
 “I was trying to make it look artificial, but emulating AI was not on my mind,” Alexis Franklin, the artist commissioned to draw it, told NBC News.
 
-NBC News • 38m ago
-
----
-
-**[How A.I. Is Transforming China’s Entertainment Industry](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html)**
-
-The New York Times • 3h ago
-
----
-
-**[Chinese court rules firms can’t lay off workers on AI grounds](https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/)**
-
-The court decided that a tech firm in eastern China had illegally fired one of its workers after he refused to take a demotion when his job was automated by AI.
-
-Fortune • 7h ago
+NBC News • 1h ago
 
 ---
 
@@ -163,19 +149,21 @@ Fortune • 7h ago
 
 A Chinese court ruled that companies can’t use AI as a justification for getting rid of employees.
 
-Yahoo • 28m ago
+Yahoo • 1h ago
+
+---
+
+**[Trump Imagines Himself Swimming Shirtless With Cabinet Cronies In Latest AI Catastrophe](https://www.huffpost.com/entry/trump-ai-image-swimming-lincoln-memorial-reflecting-pool_n_69f785d4e4b0ed2b90e26e11)**
+
+The president found the weirdest way to celebrate painting the National Mall's signature water feature "American flag blue."
+
+HuffPost • 1h ago
 
 ---
 
 **[Poll: The midterms' new big players are pushing agendas that voters don’t fully support](https://www.politico.com/news/2026/05/03/poll-ai-crypto-super-pacs-voter-skepticism-midterms-00903376)**
 
-Politico • 11h ago
-
----
-
-**[Colorado lawmakers introduce new AI rules](https://www.axios.com/local/denver/2026/05/03/colorado-ai-artificial-intellligence-legislation)**
-
-Axios • 1h ago
+Politico • 12h ago
 
 ---
 
@@ -183,7 +171,21 @@ Axios • 1h ago
 
 Companies are monitoring workers not just for productivity but for agreeability.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
+
+---
+
+**[Chinese stocks are about to get a big AI boost, Morgan Stanley predicts](https://www.cnbc.com/2026/05/03/chinese-stocks-are-about-to-get-a-big-ai-boost-morgan-stanley-predicts.html)**
+
+The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.
+
+CNBC • 12h ago
+
+---
+
+**[Colorado lawmakers introduce new AI rules](https://www.axios.com/local/denver/2026/05/03/colorado-ai-artificial-intellligence-legislation)**
+
+Axios • 2h ago
 
 ---
 
@@ -201,7 +203,7 @@ The Atlantic • 10h ago
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 400 • 💬 472 • 2d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
+⬆️ 401 • 💬 472 • 2d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
@@ -217,7 +219,7 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 281 • 💬 302 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 281 • 💬 304 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -225,7 +227,7 @@ The music streaming platform will review criteria such as artists' live dates an
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 257 • 💬 266 • 16h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 258 • 💬 268 • 17h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -263,7 +265,7 @@ Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖 - mahim
 
 **[The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://news.ycombinator.com/item?id=47991340)**
 
-⬆️ 75 • 💬 118 • 23h ago • [dailygrail.com](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
+⬆️ 75 • 💬 120 • 1d ago • [dailygrail.com](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
 
 ---
 
@@ -277,37 +279,7 @@ Tiege Hanley: Get your first box 40% off (+ FREE gift), and 20% off for life, at
 
 📺 Anton Daniels
 
-👁️ 41K • 👍 2K • 💬 688 • ⏱️ 10:19 • 22h ago
-
----
-
-**[Ai ভিডিও বানাও ফ্রি Veo 3 দিয়ে যতখুশি | Ai Video Generator | ai video kaise banaye](https://www.youtube.com/watch?v=tv592Xc8HEs)**
-
-AI Videos Generation using Veo 3! In this video, you'll learn how to generate cinematic AI videos with the latest AI video generator ...
-
-📺 Vid Explan
-
-👁️ 4K • 👍 254 • 💬 55 • ⏱️ 7:01 • 10h ago
-
----
-
-**[AI Expert Tells Bernie: AI Could WIPE OUT CIVILIZATION](https://www.youtube.com/watch?v=NzNo6glA48Y)**
-
-Senator Bernie Sanders is the senior senator from Vermont. He is the longest-serving independent in U.S. congressional history ...
-
-📺 Senator Bernie Sanders
-
-👁️ 38K • 👍 2K • 💬 453 • ⏱️ 2:58 • 2d ago
-
----
-
-**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
-
-Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 48K • 👍 3K • 💬 164 • ⏱️ 26:56 • 1d ago
+👁️ 43K • 👍 2K • 💬 714 • ⏱️ 10:19 • 23h ago
 
 ---
 
@@ -317,37 +289,47 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 202 • ⏱️ 15:10 • 1d ago
+👁️ 45K • 👍 2K • 💬 213 • ⏱️ 15:10 • 1d ago
 
 ---
 
-**[10 Free &amp; Unlimited AI Video Tools in 2026](https://www.youtube.com/watch?v=qbQB1bM6wXs)**
+**[AI Expert Tells Bernie: AI Could WIPE OUT CIVILIZATION](https://www.youtube.com/watch?v=NzNo6glA48Y)**
 
-Try Higgsfield MCP — connect Higgsfield with Claude and build AI image/video workflows from one place: ...
+Senator Bernie Sanders is the senior senator from Vermont. He is the longest-serving independent in U.S. congressional history ...
 
-📺 Malva AI
+📺 Senator Bernie Sanders
 
-👁️ 3K • 👍 204 • 💬 63 • ⏱️ 15:16 • 10h ago
-
----
-
-**[The Lazy Way I Make Money With AI (2026)](https://www.youtube.com/watch?v=n0phBDPz8z0)**
-
-In this video, I walk through my "lazy roadmap" for making money with AI tools like ChatGPT and Claude. If you want to start selling ...
-
-📺 Travis Nicholson
-
-👁️ 10K • 👍 742 • 💬 43 • ⏱️ 3:49 • 1d ago
+👁️ 40K • 👍 2K • 💬 466 • ⏱️ 2:58 • 2d ago
 
 ---
 
-**[The AI Economy is about to change](https://www.youtube.com/watch?v=_Q-e_nczWqM)**
+**[Biohacker Bryan Johnson trusts AI will solve human aging](https://www.youtube.com/watch?v=_QIEscvBI6M)**
 
-Don't let bad code get merged without reviewing (hopefully not by merge cop!). Checkout out Code Rabbit at ...
+Centimillionaire 'biohacker' Bryan Johnson, who made his fortune selling Venmo for $800 million, is now attempting to reverse the ...
 
-📺 The PrimeTime
+📺 CNN
 
-👁️ 659K • 👍 25K • 💬 2K • ⏱️ 9:39 • 2d ago
+👁️ 29K • 👍 517 • 💬 539 • ⏱️ 25:06 • 1d ago
+
+---
+
+**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
+
+Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
+
+📺 Sabrina Ramonov 🍄
+
+👁️ 52K • 👍 3K • 💬 180 • ⏱️ 26:56 • 1d ago
+
+---
+
+**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=PiBnV9BUGSQ)**
+
+I bought every ai generated scam product I found on tiktok, temu, and aliexpress! ⚖️ Need A Lawyer   go to ...
+
+📺 Mike Off Record
+
+👁️ 152K • 👍 4K • 💬 278 • ⏱️ 12:11 • 1d ago
 
 ---
 
@@ -357,15 +339,37 @@ FREE GUIDE: *The Content Creator's AI Blueprint:* https://FirstMovers.ai/bluepri
 
 📺 Julia McCoy
 
-👁️ 25K • 👍 642 • 💬 38 • ⏱️ 6:22 • 2d ago
+👁️ 26K • 👍 647 • 💬 38 • ⏱️ 6:22 • 2d ago
 
 ---
 
-**[AI beauty scams must be STOPPED 🛑 #skincare #ai #aiscam   #doomscrolling #dermatology](https://www.youtube.com/watch?v=z534NUgF2QM)**
+**[The Lazy Way I Make Money With AI (2026)](https://www.youtube.com/watch?v=n0phBDPz8z0)**
 
-📺 Annet Krist
+In this video, I walk through my "lazy roadmap" for making money with AI tools like ChatGPT and Claude. If you want to start selling ...
 
-👁️ 3K • 👍 267 • 💬 5 • ⏱️ 0:37 • 5h ago
+📺 Travis Nicholson
+
+👁️ 11K • 👍 789 • 💬 43 • ⏱️ 3:49 • 1d ago
+
+---
+
+**[The AI Economy is about to change](https://www.youtube.com/watch?v=_Q-e_nczWqM)**
+
+Don't let bad code get merged without reviewing (hopefully not by merge cop!). Checkout out Code Rabbit at ...
+
+📺 The PrimeTime
+
+👁️ 671K • 👍 25K • 💬 2K • ⏱️ 9:39 • 2d ago
+
+---
+
+**[AI Girlfriends: The Nail in the Coffin](https://www.youtube.com/watch?v=-8YuI4JRonM)**
+
+dating #blackpill Transform Your Dating Life https://www.skool.com/esoteric-attraction-6872/about Want an objective facial ...
+
+📺 YBCTooCold
+
+👁️ 25K • 👍 2K • 💬 1K • ⏱️ 19:24 • 1d ago
 
 ---
 
@@ -381,7 +385,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 457,348 • ❤️ 3,465 • 6d ago
+⬇️ 457,348 • ❤️ 3,468 • 6d ago
 
 ---
 
@@ -393,7 +397,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 11,055 • ❤️ 405 • 5d ago
+⬇️ 11,055 • ❤️ 406 • 5d ago
 
 ---
 
@@ -405,7 +409,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 104,695 • ❤️ 1,230 • 11d ago
+⬇️ 104,695 • ❤️ 1,231 • 11d ago
 
 ---
 
@@ -417,7 +421,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 9,489 • ❤️ 243 • 1d ago
+⬇️ 9,489 • ❤️ 244 • 1d ago
 
 ---
 
@@ -439,7 +443,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 210 • 10d ago
+⬇️ 0 • ❤️ 211 • 10d ago
 
 ---
 
@@ -475,7 +479,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 9,204 • ❤️ 198 • 9h ago
+⬇️ 9,204 • ❤️ 198 • 10h ago
 
 ---
 
@@ -487,7 +491,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 413,995 • ❤️ 927 • 6d ago
+⬇️ 413,995 • ❤️ 928 • 6d ago
 
 ---
 
@@ -501,7 +505,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 55 • 💬 2 • ⭐ 64,027 • 16mo ago
+▲ 55 • 💬 2 • ⭐ 65,104 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -592,7 +596,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,906 • 32mo ago
+▲ 54 • 💬 1 • ⭐ 78,940 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -645,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 51.0k • 🔱 6.7k • 15h ago
+⭐ 51.0k • 🔱 6.7k • 16h ago
 
 ---
 
@@ -655,7 +659,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 42.1k • 🔱 8.8k • 6h ago
+⭐ 42.2k • 🔱 8.8k • 1h ago
 
 ---
 
@@ -675,7 +679,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.8k • 🔱 636 • 6h ago
+⭐ 9.8k • 🔱 639 • 7h ago
 
 ---
 
@@ -695,7 +699,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 5.3k • 🔱 473 • 5d ago
+⭐ 5.3k • 🔱 474 • 5d ago
 
 ---
 
@@ -705,7 +709,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.1k • 🔱 390 • 2h ago
+⭐ 5.2k • 🔱 391 • 5m ago
 
 ---
 
