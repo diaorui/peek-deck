@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T13:12:57.487712+00:00'
+updated: '2026-05-03T14:28:48.015460+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 13:12 UTC  
+**Last Updated:** May 03, 2026 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,15 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-7h ago
+8h ago
+
+---
+
+**[A piece I wrote: Robotics startups are losing to slow feedback loops](https://www.reddit.com/r/robotics/comments/1t2lo15/a_piece_i_wrote_robotics_startups_are_losing_to/)**
+
+The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
+
+🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 52m ago
 
 ---
 
@@ -52,19 +60,19 @@ I literally have all these pieces bought, and everything is wired together but i
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-9h ago
+10h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +80,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-7h ago
+9h ago
 
 ---
 
@@ -92,17 +100,11 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 ---
 
-**[Humanoid robots](https://www.reddit.com/r/robotics/comments/1t2bw99/humanoid_robots/)**
+**[Figure's First Full HQ Tour: From the Lab to the Factory Floor - YouTube](https://www.reddit.com/r/robotics/comments/1t1j3f5/figures_first_full_hq_tour_from_the_lab_to_the/)**
 
-Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
+Interview start's a little slow, but it gets pretty interesting. Brett does answer questions about teleoperating, whether you believe him or not is upto you. I would take everything with a grain of salt, but it is cool regardless. Personally, I thought the 'never fall' philosophy was quite interesting. The pricing was interesting too 'few hundred dollars per month'.
 
-8h ago
-
----
-
-**[He just can’t give up](https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/)**
-
-1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ch_UM_JJU9w) • 1d ago
 
 ---
 
@@ -110,17 +112,17 @@ Which companies are building the best humanoid robots? My take would be Tesla, H
 
 ## Google News: "robotics"
 
-**[Meta acquires robotics AI company to help build humanoid technology](https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html)**
+**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
 
-(Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
-
-Yahoo Finance • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
+**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://uk.finance.yahoo.com/news/meta-acquires-robotics-ai-company-165643541.html)**
 
-Bloomberg.com • 1d ago
+(Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks, Says Prefers Not to StrikeTwo NJ Malls Separated by Just Four M
+
+Yahoo Finance UK • 1d ago
 
 ---
 
@@ -128,7 +130,15 @@ Bloomberg.com • 1d ago
 
 Meta, AI, humanoid, robot
 
-Engadget • 23h ago
+Engadget • 1d ago
+
+---
+
+**[Robotic passenger traveling for work causes Southwest flight delay](https://www.ky3.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
+
+Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
+
+KY3 • 5h ago
 
 ---
 
@@ -172,13 +182,7 @@ AgWeb • 2d ago
 
 A powerful embodied AI dataset will enable robots to perform dexterous manipulation
 
-IEEE Spectrum • 2d ago
-
----
-
-**[From phones to humanoid robots: China’s supply chain eyes next growth curve](https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid)**
-
-South China Morning Post • 9h ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -212,7 +216,7 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 📺 War Vault
 
-👁️ 283K • 👍 6K • 💬 592 • ⏱️ 16:42 • 3d ago
+👁️ 283K • 👍 6K • 💬 592 • ⏱️ 16:42 • 4d ago
 
 ---
 
@@ -250,7 +254,7 @@ ABC News' Sophie Flay takes a closer look at the future of humanoid robots, wher
 
 📺 ABC News
 
-👁️ 32K • 👍 1K • 💬 86 • ⏱️ 1:56 • 15h ago
+👁️ 32K • 👍 1K • 💬 86 • ⏱️ 1:56 • 16h ago
 
 ---
 

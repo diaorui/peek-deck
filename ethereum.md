@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T13:12:57.484491+00:00'
+updated: '2026-05-03T14:28:48.012255+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 13:12 UTC  
+**Last Updated:** May 03, 2026 at 14:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.0%  
-**30d:** +12.8%  
-**90d:** +4.2%  
-**1y:** +28.8%  
+**24h:** +0.6%  
+**7d:** +0.8%  
+**30d:** +12.6%  
+**90d:** +4.0%  
+**1y:** +28.5%  
 
 ---
 
@@ -72,6 +72,14 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
+9h ago
+
+---
+
+**[Ethereum mainnet may get a lot more room after Glamsterdam](https://www.reddit.com/r/ethereum/comments/1t2d5mr/ethereum_mainnet_may_get_a_lot_more_room_after/)**
+
+Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
+
 8h ago
 
 ---
@@ -80,15 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 4h ago
-
----
-
-**[Ethereum mainnet may get a lot more room after Glamsterdam](https://www.reddit.com/r/ethereum/comments/1t2d5mr/ethereum_mainnet_may_get_a_lot_more_room_after/)**
-
-Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
-
-7h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 22h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 23h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 23h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ CryptoSlate • 1d ago
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 23h ago
+ethereum.org • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Fortune • 1d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 1d ago
 
 BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 208 • 💬 12 • ⏱️ 15:33 • 16h ago
+👁️ 4K • 👍 208 • 💬 12 • ⏱️ 15:33 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 160 • ⏱️ 11:49 • 14h ago
+👁️ 17K • 👍 1K • 💬 160 • ⏱️ 11:49 • 15h ago
 
 ---
 
@@ -258,7 +258,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 104 • 👍 22 • 💬 2 • ⏱️ 6:20 • 25m ago
+👁️ 104 • 👍 22 • 💬 2 • ⏱️ 6:20 • 1h ago
 
 ---
 
@@ -268,7 +268,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 212 • 💬 38 • ⏱️ 9:18 • 2d ago
+👁️ 4K • 👍 212 • 💬 38 • ⏱️ 9:18 • 3d ago
 
 ---
 
@@ -278,7 +278,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 1K • 💬 8 • ⏱️ 11:48 • 12h ago
+👁️ 1K • 💬 8 • ⏱️ 11:48 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 425 • 💬 62 • ⏱️ 10:42 • 9h ago
+👁️ 3K • 👍 425 • 💬 62 • ⏱️ 10:42 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 2K • 👍 81 • 💬 10 • ⏱️ 15:10 • 23h ago
+👁️ 2K • 👍 81 • 💬 10 • ⏱️ 15:10 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 75 • 💬 3 • ⏱️ 6:07 • 10h ago
+👁️ 1K • 👍 75 • 💬 3 • ⏱️ 6:07 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 74 • 💬 21 • ⏱️ 8:12 • 1d ago
+👁️ 2K • 👍 74 • 💬 21 • ⏱️ 8:12 • 2d ago
 
 ---
 
