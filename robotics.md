@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T18:11:09.440223+00:00'
+updated: '2026-05-03T19:33:54.364400+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 18:11 UTC  
+**Last Updated:** May 03, 2026 at 19:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,28 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Sensor simulation device](https://www.reddit.com/r/robotics/comments/1t2s0xp/sensor_simulation_device/)**
+
+As promised in my previous post I am glad to inform you, that the pre-orders for the Loki device are now possible 😄 . We are actively looking for beta testers which will receive the device for free in exchange for feedback and cooperation. Recap: This is a sensor simulation device that allows you to create a digital twin of the sensor by simulating its registers and measurements which can be interfaced with over TWI (I2C), SPI or UART interfaces, depending on the sensor. The sensors are almost fully datasheet compliant. Kind regards and have a great day! https://vali-labs.com/
+
+1h ago
+
+---
+
+**[Experimenting with robot kinematics without destroying my robots](https://www.reddit.com/r/robotics/comments/1t2uofy/experimenting_with_robot_kinematics_without/)**
+
+For the past few months I've been studying screw theory from the book Modern Robotics by Park and Lynch. I wanted to experiment with it in a non-destructive environment before I tried it out on the robot arm that I built in my previous project. I set up a UR5e simulation in Webots to safely iterate on my kinematics implementation. Right now I use velocity inverse kinematics to get the end-effector to move in straight lines, and a simple PID control loop to help the solution converge. The next thing I'm trying out is adding a trapezoidal velocity profile for smoother motions (accelerate to a certain speed, then decelerate as the robot approaches its target). In general, is it feasible to combine PID control with speed/acceleration control, or would they fight each other? If you're interested, check out the details of my project so far! The Github and a technical document about kinematics with screw theory are attached in that article. If you have any feedback, notice any mistakes, or have any questions, please leave a comment!
+
+16m ago
+
+---
+
+**[Sensor simulation device](https://www.reddit.com/r/robotics/comments/1t2rn7l/sensor_simulation_device/)**
+
+2h ago
+
+---
+
 **[HYPRLABS tease a "Compact-Mode" on their futur robot](https://www.reddit.com/r/robotics/comments/1t1lmtr/hyprlabs_tease_a_compactmode_on_their_futur_robot/)**
 
 From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLABS website: https://hypr.co
@@ -40,11 +62,17 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 ---
 
+**[Would AI & Humanoids/Robots entrench welfare state around the world?](https://www.reddit.com/r/robotics/comments/1t2t1zc/would_ai_humanoidsrobots_entrench_welfare_state/)**
+
+1h ago
+
+---
+
 **[Currently making a Hexapod robot, help with electronics](https://www.reddit.com/r/robotics/comments/1t2ckxn/currently_making_a_hexapod_robot_help_with/)**
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-12h ago
+14h ago
 
 ---
 
@@ -52,7 +80,7 @@ I literally have all these pieces bought, and everything is wired together but i
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-14h ago
+15h ago
 
 ---
 
@@ -60,49 +88,17 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
 
-🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 4h ago
+🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 5h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
-
-12h ago
-
----
-
-**[CANopen Support Coming to CANviz - Tell Us What You Need](https://www.reddit.com/r/robotics/comments/1t2cfto/canopen_support_coming_to_canviz_tell_us_what_you/)**
-
-We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
-
-12h ago
-
----
-
-**[I Designed an Open-Source Dual Brushed DC Motor Driver around the RP2350 (4–40V, 6A Peak)](https://www.reddit.com/r/robotics/comments/1t13jhs/i_designed_an_opensource_dual_brushed_dc_motor/)**
-
-I’ve been working on a custom dual H-bridge brushed DC motor driver designed to replace those generic off-the-shelf motor modules for complex mobile robot platforms and robotic arms. I wanted a small all-in-one solution for robotics projects! It's built around the Raspberry Pi RP2350 (Pico 2) and the Texas Instruments DRV8412. Quick specs: Runs two brushed DC motors at up to 40 V (3A continuous, 6A peak per motor) Single wide voltage range power supply 4-40V Per bridge current sensing - ACS722 Full ASCII + binary command API over USB, UART, and I²C 4-layer 50x60mm PCB with a 3-stage clean logic power topology Closed-loop control (position/speed PIDs) at a 4 ms control period GUI for PID tuning If you want to check it out, I did a full video on it, and it is also on GitHub. Video: https://www.youtube.com/watch?v=DQ6VGJUASJw Github: https://github.com/MilosRasic98/OpenDualMotorDriver
-
-1d ago
-
----
-
-**[Dax Robotics just unveiled Qiji T1000 — a ton-class robot horse built to carry 1,000 kg / 2,205 lb](https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Commercial video: https://x.com/XRoboHub/status/2049373299310993869
-
-2d ago
-
----
-
-**[Humanoid robots](https://www.reddit.com/r/robotics/comments/1t2bw99/humanoid_robots/)**
-
-Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
 
 13h ago
 
@@ -112,17 +108,17 @@ Which companies are building the best humanoid robots? My take would be Tesla, H
 
 ## Google News: "robotics"
 
-**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
+**[Meta acquires robotics AI company to help build humanoid technology](https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html)**
 
-Bloomberg.com • 2d ago
+(Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
+
+Yahoo Finance • 2d ago
 
 ---
 
-**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://uk.finance.yahoo.com/news/meta-acquires-robotics-ai-company-165643541.html)**
+**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
 
-(Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks, Says Prefers Not to StrikeTwo NJ Malls Separated by Just Four M
-
-Yahoo Finance UK • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -138,7 +134,15 @@ TechCrunch • 1d ago
 
 Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
 
-KY3 • 8h ago
+KY3 • 10h ago
+
+---
+
+**[Inside the Killhouse: where Ukraine’s revolutionary military robots are developed](https://spectator.com/article/inside-killhouse-factory-building-ukraine-lethal-military-robots/)**
+
+Last November, I visited the unit behind the robotic assault, the 3rd Assault Brigade at its training and development center – the Killhouse
+
+The Spectator • 19h ago
 
 ---
 
@@ -147,6 +151,14 @@ KY3 • 8h ago
 Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
 
 Fox News • 2d ago
+
+---
+
+**[Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)**
+
+Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
+
+CNBC • 2d ago
 
 ---
 
@@ -161,22 +173,6 @@ Yahoo Finance • 2d ago
 **[How CVS Uses Robots to Keep Your Deodorant in Stock](https://www.wsj.com/logistics-report/how-cvs-uses-robots-to-keep-your-deodorant-in-stock-0237bab9)**
 
 WSJ • 2d ago
-
----
-
-**[Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)**
-
-Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
-
-CNBC • 2d ago
-
----
-
-**[DAIMON Robotics Wants to Give Robot Hands a Sense of Touch](https://spectrum.ieee.org/daimon-robotics-physical-ai)**
-
-A powerful embodied AI dataset will enable robots to perform dexterous manipulation
-
-IEEE Spectrum • 3d ago
 
 ---
 
@@ -198,7 +194,15 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 233K • 👍 3K • 💬 266 • ⏱️ 24:02 • 4d ago
+👁️ 236K • 👍 3K • 💬 269 • ⏱️ 24:02 • 4d ago
+
+---
+
+**[This Paper-Thin Robot Lifts 70x Its Weight By Copying Human Muscles | Soft Robotics Breakthrough](https://www.youtube.com/watch?v=ikrMt6We3gc)**
+
+📺 RiseX Venturess
+
+👁️ 14K • 👍 2K • 💬 23 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -208,7 +212,7 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 134K • 👍 885 • 💬 236 • ⏱️ 3:51 • 2d ago
+👁️ 137K • 👍 888 • 💬 236 • ⏱️ 3:51 • 2d ago
 
 ---
 
@@ -222,14 +226,6 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 ---
 
-**[This Paper-Thin Robot Lifts 70x Its Weight By Copying Human Muscles | Soft Robotics Breakthrough](https://www.youtube.com/watch?v=ikrMt6We3gc)**
-
-📺 RiseX Venturess
-
-👁️ 13K • 👍 2K • 💬 21 • ⏱️ 1:06 • 2d ago
-
----
-
 **[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
 
 Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
@@ -240,13 +236,13 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 ---
 
-**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
+**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
 
-The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
+That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
 
-📺 Joanna Stern
+📺 TechFrontierNow
 
-👁️ 287K • 👍 7K • 💬 991 • ⏱️ 11:11 • 4d ago
+👁️ 76K • 👍 1K • 💬 169 • ⏱️ 11:20 • 4d ago
 
 ---
 
@@ -256,27 +252,17 @@ Scene using artificial intelligence. #aiart #movie.
 
 📺 Miracle Animal Rescues
 
-👁️ 43K • 👍 394 • 💬 16 • ⏱️ 8:09 • 2d ago
+👁️ 51K • 👍 450 • 💬 17 • ⏱️ 8:09 • 2d ago
 
 ---
 
-**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=TDkNRIWfaq4)**
+**[Is my Gearbox Precise? #3dprinting #gearbox #testing #robotics](https://www.youtube.com/watch?v=8Bh0IXDBw20)**
 
-ABC News' Sophie Flay takes a closer look at the future of humanoid robots, where the race is on to see who gets there first.
+I test to see if my 3D printed gearbox is precise. I made a pointer attachment for the gearbox to see if it returns to the same position ...
 
-📺 ABC News
+📺 Advanced Hobby Lab
 
-👁️ 35K • 👍 1K • 💬 87 • ⏱️ 1:56 • 20h ago
-
----
-
-**[Robotics&#39; End Game: Nvidia&#39;s Jim Fan](https://www.youtube.com/watch?v=3Y8aq_ofEVs)**
-
-Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to AI Ascent to argue that robotics is entering its ...
-
-📺 Sequoia Capital
-
-👁️ 80K • 👍 1K • 💬 54 • ⏱️ 20:03 • 3d ago
+👁️ 57K • 👍 589 • 💬 10 • ⏱️ 0:28 • 2d ago
 
 ---
 
@@ -286,7 +272,17 @@ TienKung family gets a new member: TienKung Omni is coming — small body, serio
 
 📺 XRoboHub
 
-👁️ 41K • 👍 1K • 💬 70 • ⏱️ 0:28 • 2d ago
+👁️ 42K • 👍 1K • 💬 72 • ⏱️ 0:28 • 2d ago
+
+---
+
+**[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
+
+The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
+
+📺 Joanna Stern
+
+👁️ 290K • 👍 7K • 💬 998 • ⏱️ 11:11 • 4d ago
 
 ---
 

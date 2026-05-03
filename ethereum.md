@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T18:11:09.437121+00:00'
+updated: '2026-05-03T19:33:54.361573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 18:11 UTC  
+**Last Updated:** May 03, 2026 at 19:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +1.3%  
-**30d:** +13.1%  
-**90d:** +4.5%  
-**1y:** +29.1%  
+**24h:** +0.7%  
+**7d:** +1.1%  
+**30d:** +12.9%  
+**90d:** +4.3%  
+**1y:** +28.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.05B
+**Market Cap:** $281.01B
 Rank #2
 
 **Circulating Supply:** 120,687,427 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.9%
 
 **All-Time Low:** $0.43
-+537949.2%
++537706.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 10h ago
 
 ---
 
@@ -88,15 +88,7 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-12h ago
-
----
-
-**[2.8% daily interest - EtherHarvest](https://www.reddit.com/r/ethereum/comments/1t2poda/28_daily_interest_etherharvest/)**
-
-Is this a scam? Someone recommended it to me because they offered daily interest, but it seems like a scam to me. Has anyone tried it? Here's the website. https://gaste.one/
-
-1h ago
+13h ago
 
 ---
 
@@ -146,6 +138,14 @@ I was wondering if someone has some good ideas on task of creating decentralised
 
 ---
 
+**[Should I stake Ethereum?](https://www.reddit.com/r/ethereum/comments/1t0q8ps/should_i_stake_ethereum/)**
+
+I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks EDIT: Solved. I bought some stETH
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -160,7 +160,7 @@ ethereum.org • 1d ago
 
 The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Fortune • 2d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -216,13 +216,13 @@ Decrypt • 2d ago
 
 BitMine's 4.5 million ETH stake boosts confidence in Ethereum's price. Ethereum at $5,000 by May priced at 0.1% YES.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
-**[April’s $2B ETF Boom: Bitcoin, Ethereum, XRP Funds Post Largest Inflows In 2026](https://www.tradingview.com/news/newsbtc:3b19e2ca6094b:0-april-s-2b-etf-boom-bitcoin-ethereum-xrp-funds-post-largest-inflows-in-2026/)**
+**[‘Ethereum’s Price Should Have Dropped Already’ – Analyst Explains The On-Chain Signal Behind The Warning](https://www.tradingview.com/news/newsbtc:d9ab6d652094b:0-ethereum-s-price-should-have-dropped-already-analyst-explains-the-on-chain-signal-behind-the-warning/)**
 
-After a shaky start to the year, Bitcoin (BTC), Ethereum (ETH), and XRP Exchange-Traded Funds (ETFs) have recorded their strongest performance in months, signaling strong institutional demand despite the recent market volatility.Bitcoin Leads ETF Boom With $2B InflowsAs the crypto market recovered…
+Ethereum has surged more than 25% since late March, pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous attempt higher. The move has been convincing enough to shift sentiment — but a CryptoQuant analyst h…
 
 TradingView • 1d ago
 
@@ -232,23 +232,23 @@ TradingView • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum are about to SKYROCKET! (SERIOUSLY)](https://www.youtube.com/watch?v=jiftFdu3Apw)**
-
-Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 21K • 👍 2K • 💬 154 • ⏱️ 11:49 • 19h ago
-
----
-
 **[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=18660T9GTUY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 377 • 👍 38 • 💬 13 • ⏱️ 20:21 • 1h ago
+👁️ 1K • 👍 103 • 💬 13 • ⏱️ 20:21 • 3h ago
+
+---
+
+**[Bitcoin &amp; Ethereum are about to SKYROCKET! (SERIOUSLY)](https://www.youtube.com/watch?v=jiftFdu3Apw)**
+
+Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 23K • 👍 2K • 💬 159 • ⏱️ 11:49 • 20h ago
 
 ---
 
@@ -258,27 +258,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 229 • 💬 10 • ⏱️ 15:33 • 21h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Starting Now (GET READY)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BjN7DSMgWaI)**
-
-BITCOIN & ALTCOIN WARNING: It's Starting Now (GET READY)!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 290 • 💬 215 • ⏱️ 16:27 • 14h ago
-
----
-
-**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 74 • 💬 21 • ⏱️ 8:12 • 2d ago
+👁️ 5K • 👍 239 • 💬 41 • ⏱️ 15:33 • 23h ago
 
 ---
 
@@ -288,37 +268,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 490 • 👍 66 • 💬 2 • ⏱️ 6:20 • 5h ago
+👁️ 698 • 👍 80 • 💬 2 • ⏱️ 6:20 • 6h ago
 
 ---
 
-**[BITCOIN &amp; ETHEREUM: TIME TO ADD MORE?](https://www.youtube.com/watch?v=5Cs4LgYUFJc)**
+**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
 
-Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 James Crypto Guru
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 💬 13 • ⏱️ 11:48 • 17h ago
-
----
-
-**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
-
-Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 251 • 💬 10 • ⏱️ 10:19 • 1d ago
-
----
-
-**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
-
-See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 84 • 💬 10 • ⏱️ 15:10 • 1d ago
+👁️ 2K • 👍 75 • 💬 21 • ⏱️ 8:12 • 2d ago
 
 ---
 
@@ -328,7 +288,47 @@ Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d
 
 📺 David Aranzabal
 
-👁️ 962 • 👍 144 • 💬 4 • ⏱️ 8:33 • 3h ago
+👁️ 2K • 👍 214 • 💬 16 • ⏱️ 8:33 • 5h ago
+
+---
+
+**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
+
+See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 87 • 💬 10 • ⏱️ 15:10 • 1d ago
+
+---
+
+**[BITCOIN &amp; ETHEREUM: TIME TO ADD MORE?](https://www.youtube.com/watch?v=5Cs4LgYUFJc)**
+
+Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
+
+📺 James Crypto Guru
+
+👁️ 2K • 💬 24 • ⏱️ 11:48 • 18h ago
+
+---
+
+**[Don’t Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success](https://www.youtube.com/watch?v=KFP86nhxAyU)**
+
+Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success Description: This video shares a powerful lesson ...
+
+📺 Reset Life
+
+👁️ 151K • 💬 25 • ⏱️ 0:20 • 7h ago
+
+---
+
+**[Ethereum Price Analysis: Seasonality Shows May Top Then Decline](https://www.youtube.com/watch?v=zDV3vzodMyQ)**
+
+Ethereum is consolidating just below the orange trend line heading into the weekend. The structure has not changed since ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 254 • 💬 10 • ⏱️ 10:19 • 1d ago
 
 ---
 
