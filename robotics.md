@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T09:48:40.010706+00:00'
+updated: '2026-05-03T10:55:28.322444+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 09:48 UTC  
+**Last Updated:** May 03, 2026 at 10:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLABS website: https://hypr.co
 
-23h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,19 +52,19 @@ I literally have all these pieces bought, and everything is wired together but i
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-5h ago
+7h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-4h ago
+5h ago
 
 ---
 
@@ -80,15 +80,7 @@ We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finaliz
 
 Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
 
-4h ago
-
----
-
-**[RoboDK academy down?](https://www.reddit.com/r/robotics/comments/1t21nrs/robodk_academy_down/)**
-
-Hello guys, I have been trying to access RoboDK academy for some time now and it just keeps infinitely loading? Is anyone else experienced same problem?
-
-12h ago
+6h ago
 
 ---
 
@@ -108,15 +100,21 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 ---
 
+**[He just can’t give up](https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://uk.finance.yahoo.com/news/meta-acquires-robotics-ai-company-165643541.html)**
+**[Meta acquires robotics AI company to help build humanoid technology](https://finance.yahoo.com/sectors/technology/articles/meta-acquires-robotics-ai-company-165643541.html)**
 
-(Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks, Says Prefers Not to StrikeTwo NJ Malls Separated by Just Four M
+(Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles — and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade ‘Incredible’ as Pump Prices Keep RisingNorth Korea Confir
 
-Yahoo Finance UK • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -130,7 +128,7 @@ Bloomberg.com • 1d ago
 
 Meta, AI, humanoid, robot
 
-Engadget • 19h ago
+Engadget • 20h ago
 
 ---
 
@@ -170,11 +168,9 @@ CNBC • 2d ago
 
 ---
 
-**[Could Underwater Autonomous Robots Save Coral Reefs?](https://www.smithsonianmag.com/innovation/could-underwater-autonomous-robots-save-coral-reefs-180988626/)**
+**[From phones to humanoid robots: China’s supply chain eyes next growth curve](https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid)**
 
-Reef restoration is a slow process, with divers planting coral fragments one at a time by hand. But roboticists are now developing automated planters that could change the game
-
-Smithsonian Magazine • 2d ago
+South China Morning Post • 6h ago
 
 ---
 
@@ -196,7 +192,27 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 225K • 👍 3K • 💬 260 • ⏱️ 24:02 • 4d ago
+👁️ 227K • 👍 3K • 💬 261 • ⏱️ 24:02 • 4d ago
+
+---
+
+**[Ukraine UNLEASHED 25,000 Robots — Russia Has NOTHING To Stop Them](https://www.youtube.com/watch?v=u-ACdtRQ0Vc)**
+
+Ukraine is turning the battlefield into something Russia was never built to fight. In 2026, Ukraine began scaling a new kind of war: ...
+
+📺 War Vault
+
+👁️ 283K • 👍 6K • 💬 590 • ⏱️ 16:42 • 3d ago
+
+---
+
+**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+
+ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+
+📺 VEX Robotics
+
+👁️ 92K • 👍 877 • 💬 236 • ⏱️ 3:51 • 2d ago
 
 ---
 
@@ -208,33 +224,23 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 ---
 
-**[Ukraine UNLEASHED 25,000 Robots — Russia Has NOTHING To Stop Them](https://www.youtube.com/watch?v=u-ACdtRQ0Vc)**
-
-Ukraine is turning the battlefield into something Russia was never built to fight. In 2026, Ukraine began scaling a new kind of war: ...
-
-📺 War Vault
-
-👁️ 282K • 👍 6K • 💬 589 • ⏱️ 16:42 • 3d ago
-
----
-
-**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
-
-ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
-
-📺 VEX Robotics
-
-👁️ 87K • 👍 878 • 💬 236 • ⏱️ 3:51 • 2d ago
-
----
-
 **[Chinese Robots Are Flooding America. I Brought One Home.](https://www.youtube.com/watch?v=ucy9VTLDwPU)**
 
 The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. And they aren't just in viral videos but in major ...
 
 📺 Joanna Stern
 
-👁️ 279K • 👍 7K • 💬 966 • ⏱️ 11:11 • 3d ago
+👁️ 282K • 👍 7K • 💬 972 • ⏱️ 11:11 • 3d ago
+
+---
+
+**[I Built an Even Better Robot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)**
+
+Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com/aaedmusayt Buy the CARA 2.0 project files: ...
+
+📺 Aaed Musa
+
+👁️ 72K • 👍 8K • 💬 522 • ⏱️ 22:12 • 1d ago
 
 ---
 
@@ -244,27 +250,17 @@ Scene using artificial intelligence. #aiart #movie.
 
 📺 Miracle Animal Rescues
 
-👁️ 9K • 👍 115 • 💬 9 • ⏱️ 8:09 • 1d ago
+👁️ 15K • 👍 161 • 💬 10 • ⏱️ 8:09 • 1d ago
 
 ---
 
-**[Eiffel Is Now A F2P Monster... I Had No Idea It Was THIS Good - Eiffel Meta | War Robots](https://www.youtube.com/watch?v=9X8g08HpYh8)**
+**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
 
-Eiffel is now a f2p monster. The Eiffel was of course super overpowered when it was released and since then it has received a ...
+eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
 
-📺 PREDATOR WR
+📺 Stu’s Reviews
 
-👁️ 10K • 👍 441 • 💬 88 • ⏱️ 16:17 • 21h ago
-
----
-
-**[🔥🤖 Unitree G1 Just Got a Serious Rival—Meet TienKung Omni! #robot #humanoidrobot #robotics #ai](https://www.youtube.com/watch?v=kA_PZVSouVE)**
-
-TienKung family gets a new member: TienKung Omni is coming — small body, seriously smart. From the teaser, Omni looks built ...
-
-📺 XRoboHub
-
-👁️ 38K • 👍 945 • 💬 67 • ⏱️ 0:28 • 1d ago
+👁️ 32K • 👍 162 • 💬 41 • ⏱️ 16:11 • 6d ago
 
 ---
 
@@ -278,13 +274,13 @@ What if your daily chores could disappear overnight? In this video, we dive into
 
 ---
 
-**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
+**[Eiffel Is Now A F2P Monster... I Had No Idea It Was THIS Good - Eiffel Meta | War Robots](https://www.youtube.com/watch?v=9X8g08HpYh8)**
 
-eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
+Eiffel is now a f2p monster. The Eiffel was of course super overpowered when it was released and since then it has received a ...
 
-📺 Stu’s Reviews
+📺 PREDATOR WR
 
-👁️ 30K • 👍 160 • 💬 41 • ⏱️ 16:11 • 6d ago
+👁️ 11K • 👍 451 • 💬 91 • ⏱️ 16:17 • 22h ago
 
 ---
 

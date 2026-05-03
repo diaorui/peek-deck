@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-03T09:48:40.001327+00:00'
+updated: '2026-05-03T10:55:28.313325+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 09:48 UTC  
+**Last Updated:** May 03, 2026 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.5%  
-**30d:** +16.6%  
+**24h:** +0.4%  
+**7d:** +1.4%  
+**30d:** +16.5%  
 **90d:** +3.6%  
 **1y:** -16.8%  
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1570.92B
+**Market Cap:** $1569.86B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
@@ -64,7 +64,7 @@ Rank #1
 -37.8%
 
 **All-Time Low:** $67.81
-+115602.7%
++115517.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 When you forget your phone’s password with 200 BTC in it
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ When you forget your phone’s password with 200 BTC in it
 
 https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-mo
 
 Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acre sustainable farm and wildlife sanctuary in Bastrop, Texas. The 49-year-old now focuses on regenerative agriculture and sustainability as well as eco-conscious living. The green move came after the pandemic where he expressed a desire to get back to basics and appreciate nature’s offering. He describes his ranch as a ‘mini-community’ with a hippy holistic attitude where people are invited to come build and live there, and grow and share food together. While stepping away from the big screen, he remains on camera on Earth Speed, founded in 2021 – a regenerative lifestyle platform and docuseries where Adrien advocates for regenerative farming, permaculture workshops and conducts interviews with environmental leaders. But there’s a controversial element to his wholesome new existence in the way it is funded. Adrien is a vocal Bitcoin advocate and is exploring using cryptocurrency to run his farming community. “I like the technology – the decentralization of bitcoin, which gives more access to more people,” he told CNBC previously. “I’m also spending it and trying to use it in the real world,” he said. “Right now, bitcoin is so volatile because it’s new, and people are looking at it as a trade…Eventually, it’s going to settle down and it’s going to be the currency that we use.” Bitcoin critics often push back against the wealth disparity and the great deal of power that is used in creating new coins, in a process called ‘mining’, which involves a global network of computers working together to make them. But Bitcoin process ‘mining’ – which uses a global network of computers to create new coins – unsurprisingly carries a large carbon footprint too that arguably contrasts Adrien’s green beliefs. “Bitcoin does definitely have an environmental footprint,” he says. “But let’s not pooh-pooh efforts to try and make a technology that’s actually going to give a lot of empowerment to people around the world.” During his days in the spotlight, Adrien was known for being a bit of a playboy and dated many famous women including Australian star Isabel Lucas, Sabrina The Teenage Witch actress Melissa Joan Hart and Twilight’s Ashley Greene. He was also linked with Paris Hilton, The Bachelor winner Courtney Robertson and actress Cameron Richardson. Adrien told Fox News in 2024 that he was poly amorous and had a bit of an ‘ego’. He explained: “Growing up in New York, there’s a little bit of nihilism, Godless[ness], you know. And this was now the overlay of my ego, which was, ‘See? You know, I am the man, I, you know, I got the part.’ And people are, you know, approving of me. “I didn’t believe in God…I was open and poly and, you know, liberal and I thought I was a good person, I really did.” “It wasn’t until I was in my 40s and the love of my life who I was dating at the time, she dumped me and she, in no uncertain terms, said, ‘You’re the worst.’” The woman in question who he credits for his lifestyle transformation is his wife, Jordan Roemelle, with their relationship being the catalyst for him leaving Hollywood behind. Speaking on the Make Yourself at Home podcast, Adrian explained: “She was the first woman I perceive, that I was able to witness, as wanting more from me. “She didn’t just allow the worst parts of me, she challenged me in a powerful, powerful way, as a strong woman that she is, to be more than what I am. “I wasn’t able to do that and when I failed, she left me.” He revealed that she ended their relationship in 2020 as he was still too caught up in the “Hollywood” mindset. The “ego-shattering” moment forced him to re-evaluate his life and what was important to him. After doing significant inner work, the pair reconciled with a shared vision of a simpler life. They went on to elope in Morrocco in 2022 and now have two children, Seiko and Evren. “I told her I wanted to buy land and do nature, she sent me a picture she did an exercise where she was drawing a picture of what she wanted to manifest. “It was land and community and family and home, so it was fated,” he expressed. As for his former Hollywood life, The Devil Wears Prada 2 director David Frankel recently revealed he had planned to bring back Adrian for the sequel but timing wasn’t on his side. He told Entertainment Weekly: “I had an idea about sneaking him into a cameo, and, in the end, it was just too late in our production schedule to make it happen.” Adrian told Page Six last month that he was “disappointed” not to have been asked back. The environmentalist said: “We’re all fans of the movie, whether or not we’re in it. “Obviously, it was a disappointment that I didn’t get the call to be in the sequel, but I also understand there’s some backlash with Nate, the character, so that might have something to do with it. But I think that just leaves room for a spinoff.” Nate was considered a divisive character because he wasn’t supportive of Andy’s demanding career at Runway magazine.
 
-🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 2h ago
+🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 3h ago
 
 ---
 
@@ -105,15 +105,7 @@ Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acr
 
 I remember it like yesterday. I had money even as a freshman in high school from royalties for a film I worked on. I wasn’t sure what to invest in. I literallly went to the guy who I knew was brilliant. Real sharp guy. He said, and I swear to god, “buy bitcoin”. Like it was the most obvious thing. As if I was an idiot for NOT doing it. I looked at him like he was an idiot. Why would I buy bitcoin! It was a few cents, now it was almost $19. I knew I had “missed the boat” and this guy was a dumb ass. Damn. If I haven’t eaten my hat. I think about this often. I only today calculated. I bought Disney stock and… Dogecoin instead. My dogecoin profit multiplier was absurd, but nowhere near the 83.2 million I’d have made in Bitcoin. But let’s be real. I’d have sold at $89. Not $100K… Just a lesson for me. You trust your gut when it’s about trusting the people you choose to seek advice from. Not always just from yourself.
 
-4h ago
-
----
-
-**[Do you think owning like ~ 2.5 BTC would let someone live super comfortably and without worries about work and income?](https://www.reddit.com/r/Bitcoin/comments/1t1vkc0/do_you_think_owning_like_25_btc_would_let_someone/)**
-
-And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
-
-16h ago
+5h ago
 
 ---
 
@@ -121,15 +113,15 @@ And when do you think that would happen? Edit: 1 person (for now). A wealthy cou
 
 Galaxy Digital Alex Thorn says Bitcoin holders broadly agree Satoshi’s coins should remain untouched. Satoshi’s BTC spans roughly 22,000 addresses, making a full quantum attack far harder than many assume. Exchanges and active entities can upgrade to post-quantum addresses, reducing their realistic vulnerability. Developers broadly support building post-quantum cryptographic tools now and storing them for future use. The Bitcoin community is gradually forming a shared view on the risks posed by quantum computing. Alex Thorn, Research Director at Galaxy Digital, shared observations from recent discussions held in Las Vegas. He noted that both skeptics and advocates are beginning to align on key positions. The emerging agreement covers Satoshi Nakamoto’s holdings, post-quantum cryptography development, and how the broader ecosystem should respond. A central point of agreement is that Satoshi Nakamoto’s Bitcoin should remain untouched. Thorn noted that interfering with those holdings could seriously damage Bitcoin’s core value proposition around property rights. This position appears to be widely shared across different camps within the community. Thorn also pointed out that the actual risk may be lower than commonly believed. Nakamoto’s coins are spread across roughly 22,000 addresses, each holding 50 BTC. As he noted in a post on X, “a long range attack would have to crack them all,” meaning it is not a single concentrated target. The larger risks, Thorn explained, sit with exchanges and active entities holding large amounts of Bitcoin. However, those parties can upgrade to post-quantum addresses when needed, reducing their vulnerability. This makes them less of a realistic target compared to concerns raised in earlier discussions. Additionally, Thorn referenced the “hourglass proposal” as a potential measure if a long-range quantum attack ever appeared imminent. He also cited data showing that Bitcoin markets have routinely absorbed over one million BTC in sell pressure. Even a sharp drawdown from Satoshi’s coins being cracked would likely be manageable, and most Bitcoin holders would accept that trade-off to preserve property rights. The second area of emerging agreement involves post-quantum cryptographic research. Most people Thorn spoke with agree that developing new cryptographic tools for Bitcoin is a worthwhile effort. The work includes testing, signature compression, and debating how it could eventually be implemented. There are, however, recognized risks with moving too fast. Thorn outlined concerns such as diverting developer resources, introducing untested technology into the protocol, and creating consensus gridlock that could stall other upgrades. These risks make the timeline and approach important factors. A broadly accepted middle ground appears to be developing a post-quantum solution and placing it “on the shelf” for when or if it becomes necessary. This approach allows preparation without forcing premature changes to the protocol. Thorn described this as “unequivocally a good thing” based on his conversations. Thorn closed by noting that even a one percent chance of quantum computing affecting Bitcoin justifies continued work on the issue. He also acknowledged that urgent warnings about the threat have helped push these critical discussions forward within the developer community.
 
-🔗 [Blockonomi](https://blockonomi.com/bitcoin-community-reaches-early-consensus-on-quantum-computing-threat-says-galaxy-digital/) • 2h ago
+🔗 [Blockonomi](https://blockonomi.com/bitcoin-community-reaches-early-consensus-on-quantum-computing-threat-says-galaxy-digital/) • 3h ago
 
 ---
 
-**[The $80K Squeeze: Why Taiwan and the Middle East Are Forcing a Bitcoin Decoupling](https://www.reddit.com/r/Bitcoin/comments/1t1sp61/the_80k_squeeze_why_taiwan_and_the_middle_east/)**
+**[Do you think owning like ~ 2.5 BTC would let someone live super comfortably and without worries about work and income?](https://www.reddit.com/r/Bitcoin/comments/1t1vkc0/do_you_think_owning_like_25_btc_would_let_someone/)**
 
-Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
+And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 18h ago
+17h ago
 
 ---
 
@@ -137,7 +129,15 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
+
+---
+
+**[The $80K Squeeze: Why Taiwan and the Middle East Are Forcing a Bitcoin Decoupling](https://www.reddit.com/r/Bitcoin/comments/1t1sp61/the_80k_squeeze_why_taiwan_and_the_middle_east/)**
+
+Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
+
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 19h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Technical analysist are bs, no one knows, if somehow, they predict, people follows, self fulfilling prophecy, and the cycles repeat.
 
-10h ago
+11h ago
 
 ---
 
@@ -153,7 +153,7 @@ Technical analysist are bs, no one knows, if somehow, they predict, people follo
 
 Asking for some advice. When I stay at campgrounds, sometimes the rate for the site includes water and electricity. Since it’s a flat rate, I would like to get one of those bitcoin mining rigs that also doubles as a space heater. This would be perfect for the winter. What would be a good unit that would use about 500-750 watts of electricity? Thanks in advance.
 
-9h ago
+10h ago
 
 ---
 
@@ -171,7 +171,21 @@ CoinDesk • 1d ago
 
 **[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
+
+---
+
+**[From Bitcoin to AI: Keel Infrastructure Corp. (KEEL)’s Big Bet](https://finance.yahoo.com/markets/stocks/articles/bitcoin-ai-keel-infrastructure-corp-095530512.html)**
+
+Keel Infrastructure Corp. (NASDAQ:KEEL) is among the best fundamentally strong penny stocks to invest in now. On April 27, TheFly reported that Bill Papanastasiou from Chardan started coverage of Keel Infrastructure Corp. (NASDAQ:KEEL) with a Buy rating and a price target of $4.50. The firm noted that the company, along with Galaxy Digital and Riot […]
+
+Yahoo Finance • 59m ago
+
+---
+
+**[Bitcoin targets $80,000 amid regulatory progress and S&P 500 record](https://www.investing.com/news/cryptocurrency-news/bitcoin-targets-80000-amid-regulatory-progress-and-sp-500-record-4654822)**
+
+Investing.com • 1h ago
 
 ---
 
@@ -179,15 +193,7 @@ Forbes • 22h ago
 
 Bitcoin's price rose about 20% in April, but the rally was driven by speculative perpetual futures demand while spot demand remained weak, CryptoQuant said.
 
-The Block • 13h ago
-
----
-
-**[Why Bitcoin Still Looks Like Crypto's Best Generational Wealth Bet](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-still-looks-cryptos-114200706.html)**
-
-If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
-
-Yahoo Finance • 22h ago
+The Block • 14h ago
 
 ---
 
@@ -196,12 +202,6 @@ Yahoo Finance • 22h ago
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
 CNBC • 1d ago
-
----
-
-**[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
-
-Investing.com • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 1d ago
 
 A crypto analyst has outlined a specific period he believes could be the right time to sell Bitcoin (BTC) for the most returns. Supporting his prediction, the analyst highlighted a recurring historical pattern that has marked major bullish turning points in BTC’s market cycles. He suggested that th…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -233,7 +233,7 @@ Fortune • 2d ago
 
 Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
 
-BeInCrypto • 17h ago
+BeInCrypto • 18h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 1 • 💬 0 • 2h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 1 • 💬 0 • 3h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
@@ -321,23 +321,13 @@ Part XIV and Finale of the Bitgenstein Serialization
 
 ## YouTube Videos: "bitcoin"
 
-**[MAJOR BITCOIN BOOOOOOM!!! THIS IS HUGE!🚨](https://www.youtube.com/watch?v=2CyjjpPj680)**
-
-Bitcoin is about to take a MASSIVE step forward and the signals are stacking up across Capitol Hill AND Las Vegas. Two huge ...
-
-📺 Crypto Sensei
-
-👁️ 6K • 👍 429 • 💬 54 • ⏱️ 13:43 • 11h ago
-
----
-
 **[Why All-Time High Stocks Are Bullish for Bitcoin](https://www.youtube.com/watch?v=3JKjDK30_IE)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 58 • ⏱️ 52:45 • 20h ago
+👁️ 41K • 👍 2K • 💬 58 • ⏱️ 52:45 • 21h ago
 
 ---
 
@@ -347,7 +337,27 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 106 • ⏱️ 11:49 • 11h ago
+👁️ 15K • 👍 1K • 💬 134 • ⏱️ 11:49 • 12h ago
+
+---
+
+**[MAJOR BITCOIN BOOOOOOM!!! THIS IS HUGE!🚨](https://www.youtube.com/watch?v=2CyjjpPj680)**
+
+Bitcoin is about to take a MASSIVE step forward and the signals are stacking up across Capitol Hill AND Las Vegas. Two huge ...
+
+📺 Crypto Sensei
+
+👁️ 7K • 👍 444 • 💬 54 • ⏱️ 13:43 • 12h ago
+
+---
+
+**[Bitcoin To $200K? The White House&#39;s Rocket Ship Moment](https://www.youtube.com/watch?v=42BHXEbVABY)**
+
+Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocket ship" once the CLARITY Act passes — but will it ...
+
+📺 The Wolf Of All Streets
+
+👁️ 18K • 👍 953 • 💬 269 • ⏱️ 23:54 • 1d ago
 
 ---
 
@@ -357,17 +367,7 @@ It is once again time to dubiously speculate on the price of Bitcoin! Into The C
 
 📺 Benjamin Cowen
 
-👁️ 65K • 👍 4K • 💬 294 • ⏱️ 25:43 • 21h ago
-
----
-
-**[$100B in Capital Going After $10B in Bitcoin | The Rally Is Coming!](https://www.youtube.com/watch?v=C2NmIHSouSQ)**
-
-B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply shock for the ages. Paul Tudor Jones calls Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 214 • ⏱️ 13:54 • 1d ago
+👁️ 69K • 👍 4K • 💬 301 • ⏱️ 25:43 • 23h ago
 
 ---
 
@@ -377,27 +377,25 @@ If I could go back in time I would have just invested PRIMARILY in Bitcoin and a
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 672 • 💬 65 • ⏱️ 24:03 • 14h ago
+👁️ 11K • 👍 704 • 💬 67 • ⏱️ 24:03 • 15h ago
 
 ---
 
-**[The Fed Shakeup That Sets Off Bitcoin&#39;s Biggest Rally Ever!](https://www.youtube.com/watch?v=sjCHEGFDJks)**
+**[1000℃ Hot Metal Ball VS Salt丶Bitcoin丶Stone丶Wood#satisfying#foryou#experiment](https://www.youtube.com/watch?v=PKqF_EdCdrk)**
 
-Bitcoin may be entering one of the most important macro setups in its history as AI disruption, Fed policy, negative real rates, ...
+📺 Power Hot Ball
 
-📺 Simply Bitcoin
-
-👁️ 38K • 👍 2K • 💬 186 • ⏱️ 18:39 • 2d ago
+👁️ 12K • 👍 336 • 💬 7 • ⏱️ 1:00 • 23h ago
 
 ---
 
-**[$10M Bitcoin UNLEASHED - Institutions Are Taking It All](https://www.youtube.com/watch?v=eHpsXwubcGc)**
+**[Brad Garlinghouse: RIPPLE JUST PARTNERED WITH BLACKROCK — XRP WILL HIT $4 BY THE END OF MAY!](https://www.youtube.com/watch?v=u67c4N4Oow0)**
 
-Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says the 4-year cycle is dead. Michael Saylor ...
+Today, Ripple CEO Brad Garlinghouse unveiled the details of a landmark collaboration with BlackRock, signaling a major step ...
 
-📺 Bitcoin News Alerts
+📺 Authentic Benny
 
-👁️ 3K • 👍 189 • 💬 85 • ⏱️ 19:41 • 11h ago
+👁️ 7K • 👍 4K • 10h ago
 
 ---
 
@@ -407,17 +405,17 @@ Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (n
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 292 • ⏱️ 9:40 • 1d ago
+👁️ 19K • 👍 1K • 💬 290 • ⏱️ 9:40 • 1d ago
 
 ---
 
-**[WE LOST Banks WON on Crypto market Structure (Clarity Act)](https://www.youtube.com/watch?v=YSLjNgqo7ss)**
+**[$10M Bitcoin UNLEASHED - Institutions Are Taking It All](https://www.youtube.com/watch?v=eHpsXwubcGc)**
 
-DISGUSTING Bank Victory Crypto Bitcoin and Money is DONE FOR! Clarity Act RESOLVED! Support The O Show with Ref Links: ...
+Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says the 4-year cycle is dead. Michael Saylor ...
 
-📺 CryptoWendyO
+📺 Bitcoin News Alerts
 
-👁️ 19K • 👍 1K • 💬 36 • ⏱️ 9:21 • 16h ago
+👁️ 3K • 👍 198 • 💬 86 • ⏱️ 19:41 • 12h ago
 
 ---
 

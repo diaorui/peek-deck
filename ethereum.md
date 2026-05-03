@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T09:48:40.007483+00:00'
+updated: '2026-05-03T10:55:28.319316+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 09:48 UTC  
+**Last Updated:** May 03, 2026 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** +0.5%  
-**30d:** +12.2%  
-**90d:** +3.7%  
-**1y:** +28.1%  
+**7d:** +0.4%  
+**30d:** +12.1%  
+**90d:** +3.6%  
+**1y:** +27.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.89B
+**Market Cap:** $279.04B
 Rank #2
 
 **Circulating Supply:** 120,687,427 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.3%
 
 **All-Time Low:** $0.43
-+533579.5%
++533898.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 45m ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 20h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 20h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 21h ago
 
 ---
 
@@ -150,11 +150,11 @@ I've got a couple hundred dollars I can stake and I'm not sure if there are any 
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
+**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
 
-EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
+The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-The Block • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,11 +166,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+**[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
 
-The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
 
-CoinDesk • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ CryptoSlate • 1d ago
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 20h ago
+ethereum.org • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fortune • 1d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ markets.businessinsider.com • 3h ago
 
 Whales accumulated 140,000 Ethereum worth $322M, boosting market confidence. Ethereum above $1,900 on May 2 at 99.9% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 106 • ⏱️ 11:49 • 11h ago
+👁️ 15K • 👍 1K • 💬 134 • ⏱️ 11:49 • 12h ago
 
 ---
 
@@ -248,17 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 176 • 💬 6 • ⏱️ 15:33 • 13h ago
-
----
-
-**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
-
-See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 78 • 💬 10 • ⏱️ 15:10 • 19h ago
+👁️ 4K • 👍 191 • 💬 9 • ⏱️ 15:33 • 14h ago
 
 ---
 
@@ -278,17 +268,27 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 954 • 💬 7 • ⏱️ 11:48 • 9h ago
+👁️ 1K • 💬 8 • ⏱️ 11:48 • 10h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=AFO63qM6g7g)**
+**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
 
-📺 Crypto Gyan
+📺 Milk Road
 
-👁️ 578 • 👍 61 • ⏱️ 6:07 • 7h ago
+👁️ 2K • 👍 78 • 💬 10 • ⏱️ 15:10 • 20h ago
+
+---
+
+**[LONG-TERM ETHEREUM PREDICTION🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xBw2I5cGf-8)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 274 • 👍 12 • 💬 1 • ⏱️ 5:42 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 211 • 💬 38 • ⏱️ 9:18 • 2d ago
+👁️ 4K • 👍 212 • 💬 38 • ⏱️ 9:18 • 2d ago
 
 ---
 
@@ -308,7 +308,17 @@ Ethereum is consolidating just below the orange trend line heading into the week
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 238 • 💬 10 • ⏱️ 10:19 • 1d ago
+👁️ 4K • 👍 240 • 💬 10 • ⏱️ 10:19 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=AFO63qM6g7g)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 865 • 👍 67 • ⏱️ 6:07 • 8h ago
 
 ---
 
@@ -318,17 +328,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 332 • 💬 30 • ⏱️ 10:42 • 5h ago
-
----
-
-**[🚨BREAKING: Tom Lee Just Went All In ETHEREUM](https://www.youtube.com/watch?v=yn0YDq449I8)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 213 • 💬 40 • ⏱️ 12:11 • 2d ago
+👁️ 2K • 👍 396 • 💬 30 • ⏱️ 10:42 • 7h ago
 
 ---
 
