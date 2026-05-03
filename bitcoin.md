@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-03T16:09:14.976612+00:00'
+updated: '2026-05-03T17:24:44.811956+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 16:09 UTC  
+**Last Updated:** May 03, 2026 at 17:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.6%  
-**30d:** +16.8%  
-**90d:** +3.8%  
-**1y:** -16.6%  
+**24h:** +0.4%  
+**7d:** +1.8%  
+**30d:** +17.1%  
+**90d:** +4.0%  
+**1y:** -16.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1576.64B
+**Market Cap:** $1576.09B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
@@ -64,7 +64,7 @@ Rank #1
 -37.6%
 
 **All-Time Low:** $67.81
-+116012.7%
++115977.3%
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april
 
-8h ago
+10h ago
+
+---
+
+**[Son](https://www.reddit.com/r/Bitcoin/comments/1t2p07z/son/)**
+
+1h ago
 
 ---
 
@@ -89,7 +95,7 @@ https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-mo
 
 I didn’t start as a Bitcoin maximalist. I started as a “just diversifying bro.” Then a “this alt looks promising.” Then a “okay maybe 90% BTC.” Now I’m at the point where I accidentally say “Bitcoin” when people ask me what time it is. Not sure when it happened… but my maxi-ness is stronger than ever. Anyone else just… slowly give up fighting it?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,23 +103,7 @@ I didn’t start as a Bitcoin maximalist. I started as a “just diversifying br
 
 Adrian’s traded in the bright lights of Hollywood for Kintsugi Ranch, a 46-acre sustainable farm and wildlife sanctuary in Bastrop, Texas. The 49-year-old now focuses on regenerative agriculture and sustainability as well as eco-conscious living. The green move came after the pandemic where he expressed a desire to get back to basics and appreciate nature’s offering. He describes his ranch as a ‘mini-community’ with a hippy holistic attitude where people are invited to come build and live there, and grow and share food together. While stepping away from the big screen, he remains on camera on Earth Speed, founded in 2021 – a regenerative lifestyle platform and docuseries where Adrien advocates for regenerative farming, permaculture workshops and conducts interviews with environmental leaders. But there’s a controversial element to his wholesome new existence in the way it is funded. Adrien is a vocal Bitcoin advocate and is exploring using cryptocurrency to run his farming community. “I like the technology – the decentralization of bitcoin, which gives more access to more people,” he told CNBC previously. “I’m also spending it and trying to use it in the real world,” he said. “Right now, bitcoin is so volatile because it’s new, and people are looking at it as a trade…Eventually, it’s going to settle down and it’s going to be the currency that we use.” Bitcoin critics often push back against the wealth disparity and the great deal of power that is used in creating new coins, in a process called ‘mining’, which involves a global network of computers working together to make them. But Bitcoin process ‘mining’ – which uses a global network of computers to create new coins – unsurprisingly carries a large carbon footprint too that arguably contrasts Adrien’s green beliefs. “Bitcoin does definitely have an environmental footprint,” he says. “But let’s not pooh-pooh efforts to try and make a technology that’s actually going to give a lot of empowerment to people around the world.” During his days in the spotlight, Adrien was known for being a bit of a playboy and dated many famous women including Australian star Isabel Lucas, Sabrina The Teenage Witch actress Melissa Joan Hart and Twilight’s Ashley Greene. He was also linked with Paris Hilton, The Bachelor winner Courtney Robertson and actress Cameron Richardson. Adrien told Fox News in 2024 that he was poly amorous and had a bit of an ‘ego’. He explained: “Growing up in New York, there’s a little bit of nihilism, Godless[ness], you know. And this was now the overlay of my ego, which was, ‘See? You know, I am the man, I, you know, I got the part.’ And people are, you know, approving of me. “I didn’t believe in God…I was open and poly and, you know, liberal and I thought I was a good person, I really did.” “It wasn’t until I was in my 40s and the love of my life who I was dating at the time, she dumped me and she, in no uncertain terms, said, ‘You’re the worst.’” The woman in question who he credits for his lifestyle transformation is his wife, Jordan Roemelle, with their relationship being the catalyst for him leaving Hollywood behind. Speaking on the Make Yourself at Home podcast, Adrian explained: “She was the first woman I perceive, that I was able to witness, as wanting more from me. “She didn’t just allow the worst parts of me, she challenged me in a powerful, powerful way, as a strong woman that she is, to be more than what I am. “I wasn’t able to do that and when I failed, she left me.” He revealed that she ended their relationship in 2020 as he was still too caught up in the “Hollywood” mindset. The “ego-shattering” moment forced him to re-evaluate his life and what was important to him. After doing significant inner work, the pair reconciled with a shared vision of a simpler life. They went on to elope in Morrocco in 2022 and now have two children, Seiko and Evren. “I told her I wanted to buy land and do nature, she sent me a picture she did an exercise where she was drawing a picture of what she wanted to manifest. “It was land and community and family and home, so it was fated,” he expressed. As for his former Hollywood life, The Devil Wears Prada 2 director David Frankel recently revealed he had planned to bring back Adrian for the sequel but timing wasn’t on his side. He told Entertainment Weekly: “I had an idea about sneaking him into a cameo, and, in the end, it was just too late in our production schedule to make it happen.” Adrian told Page Six last month that he was “disappointed” not to have been asked back. The environmentalist said: “We’re all fans of the movie, whether or not we’re in it. “Obviously, it was a disappointment that I didn’t get the call to be in the sequel, but I also understand there’s some backlash with Nate, the character, so that might have something to do with it. But I think that just leaves room for a spinoff.” Nate was considered a divisive character because he wasn’t supportive of Andy’s demanding career at Runway magazine.
 
-🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 8h ago
-
----
-
-**[Do you think owning like ~ 2.5 BTC would let someone live super comfortably and without worries about work and income?](https://www.reddit.com/r/Bitcoin/comments/1t1vkc0/do_you_think_owning_like_25_btc_would_let_someone/)**
-
-And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
-
-23h ago
-
----
-
-**[⚡ LightningDrop](https://www.reddit.com/r/Bitcoin/comments/1t2kea3/lightningdrop/)**
-
-I built a simple Bitcoin paywall for digital files. Upload any file, set a BTC price, and share a payment link instantly. No signup. No KYC. Direct Bitcoin payments.
-
-3h ago
+🔗 [thesun.co.uk](https://www.thesun.co.uk/tvandshowbiz/38953426/devil-wears-prada-adrian-grenier-new-life-farm/) • 9h ago
 
 ---
 
@@ -121,7 +111,23 @@ I built a simple Bitcoin paywall for digital files. Upload any file, set a BTC p
 
 I initially followed the typical advice that everyone needs to have .01 BTC. I did this at $25k. I thought that was enough. There was no way a regular guy like me could EVER be a whole coiner; BTC is too expensive. That's the lie I believed. I am certain that, if the average person in the USA, with a job, who has the ability to budget, set goals, and cut back on wasteful spending (like our government fails to do), and puts their mind to it, they could eventually achieve 1 BTC. If I did it, anyone can.
 
-19h ago
+20h ago
+
+---
+
+**[⚡ LightningDrop](https://www.reddit.com/r/Bitcoin/comments/1t2kea3/lightningdrop/)**
+
+I built a simple Bitcoin paywall for digital files. Upload any file, set a BTC price, and share a payment link instantly. No signup. No KYC. Direct Bitcoin payments.
+
+4h ago
+
+---
+
+**[Do you think owning like ~ 2.5 BTC would let someone live super comfortably and without worries about work and income?](https://www.reddit.com/r/Bitcoin/comments/1t1vkc0/do_you_think_owning_like_25_btc_would_let_someone/)**
+
+And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
+
+1d ago
 
 ---
 
@@ -129,7 +135,7 @@ I initially followed the typical advice that everyone needs to have .01 BTC. I d
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -145,15 +151,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Technical analysist are bs, no one knows, if somehow, they predict, people follows, self fulfilling prophecy, and the cycles repeat.
 
-16h ago
-
----
-
-**[My Journey to BTC, and Why You Need to Buy It](https://www.reddit.com/r/Bitcoin/comments/1t1zzju/my_journey_to_btc_and_why_you_need_to_buy_it/)**
-
-Im an older person (mid 40s). I've been working since I was 13. My parents taught me the basics of saving $. When I was young (13-16), I would work in the summers to earn money to buy stuff for myself (radios, Super Nintendo, speakers, Michael Jordan shoes, tapes and CD players, etc). Instead of playing around all summer with my friends, I worked to earn my own money. I worked in a field cutting fruits and vegetables so the owner of the field could sell them at his roadside stand. People from all across the county would come to buy his fruits and vegetables. This was the genesis of my understanding of money. Fast forward to my 20s: I had a good work ethic I had learned from my parents, and I had a vocation that paid very well. I basically learned to be a technician for vending equipment. However, instead of investing, I simply saved money in my bank account, and then spent the rest on bills, alcohol, poker, and girls. Although I did always save like my parents taught me to do, I never was any further ahead than the next guy because I had no knowledge of investing. My parents never taught me that. Fast forward to 2021: I had a friend from High School, Jason, who hit me up out of the blue on Facebook. This was a guy that I spent my freshman year in high school with in my economics class working on a stock market investment project. Basically, our economics teacher made everyone team up with a partner to learn stock market investments. I knew Jason's older brother because we played on the football team together, so it was cool to team up with my buddy's younger brother on an academic project. Anyways, back then, you had to read the newspaper to see prices, and buying and selling took days. Well, Jason and I bought AT&T as our backbone and some other good stocks like Microsoft in our mock portfolio. We ended up coming in 1st place at the end of the year. I explain all this to explain why he randomly called me up in 2021; I guess he never forgot me from that project we did together in 1994-95. He wanted to tell me about a short squeeze he discovered about GME. I had no clue WTF he was even talking about because, like I explained, I was preoccupied by work, alcohol, poker, and girls. Anyways, I drove over to his house one night in Jan 2021 to crack a few beers and catch up on old times (he lived on the other side of town). That's when my investment "career" started. Jason showed me that it was possible to invest on a phone. Prior to that, I only thought you could do that by calling a brokerage firm and looking in the newspaper for prices. He literally showed me that he had bought GME at $10 and it was (at the time) $300. That's what got me hooked. Then, I started researching because I have a masters degree in management and administration, which forced me to learn the skill of research. That's when I found BTC. I ended up passing on GME and buying AMC. My first buy was $10 even. As soon as I bought, AMC went to like $12. So, I bought more. I could give more info about the craziness of AMC and GME back then, but this is a BTC post and I need to get to the part about BTC. So, all my friends were completely about GME and AMC (and I was in AMC), but I noticed BTC. At the time, it was around $34k or so, if I remember correctly. I waited till BTC was at $26k, and I started buying heavy. Unfortunately, it fell down to like 17k and I sold fir massive losses. This all happened because I still, at that point, did not understand what BTC is. By the time BTC went back to $25k, I knew what it was. I went all in. I took loans out, spent all my free cash, and als I DCAd every day. Then, BTC ran. I held. Then BTC fell hard again. I held. I learned to NEVER sell my main stack of BTC. NEVER! Its okay to short term trade with a side stash, but never trade your main stack of BTC. Now, 2026: Jason never bought BTC. He stayed with the bs GME play. That's the difference. 2 guys that had the same IQ, the same drive, the same goals, but not the same vision of what BTC is. This whole post can be boiled down to one very specific choice: you can either buy BTC and surpass everyone that doesn't. Or, you can keep sleeping and miss out on a new life. Don't be a Jason.
-
-20h ago
+18h ago
 
 ---
 
@@ -161,9 +159,9 @@ Im an older person (mid 40s). I've been working since I was 13. My parents taugh
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork](https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork)**
+**[New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC](https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc)**
 
-Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.
+A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.
 
 CoinDesk • 1d ago
 
@@ -175,11 +173,19 @@ Forbes • 1d ago
 
 ---
 
-**[Riot Platforms VP Calls Firm's Bitcoin Reserve 'Most Capital-Efficient Source Of Funding' For Its Data Center Business](https://finance.yahoo.com/markets/crypto/articles/riot-platforms-vp-calls-firms-133123269.html)**
+**[Has bitcoin’s biggest mystery been solved?](https://edition.cnn.com/2026/05/03/business/video/bitcoin-founder-satoshi-nakamoto-investigation-digvid-vrtc)**
 
-Riot Platforms Inc. leveraged its Bitcoin holdings to finance its data center development, the company’s Executive Vice President Jason Chung said on Thursday. RIOT Entirely Relying On Balance Sheet For CapEx Needs During Riot’s first-quarter earnings call, Chung outlined the...
+CNN’s Jim Sciutto speaks with investigators Tyler Maroney and William Cohen about their hunt to uncover the true identity behind the pseudonym used by Bitcoin founder Satoshi Nakamoto.
 
-Yahoo Finance • 2h ago
+CNN • 22m ago
+
+---
+
+**[Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants](https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html)**
+
+Cipher Digital (NasdaqGS:CIFR) is shifting from Bitcoin mining to AI infrastructure services. The company has entered into multi billion dollar, long term leasing agreements with Amazon Web Services and Google. These contracts position Cipher Digital as a high performance computing data center provider to two major cloud platforms. Cipher Digital has historically operated in Bitcoin mining, a business tied closely to crypto price cycles and mining difficulty. By committing capacity to...
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -187,13 +193,13 @@ Yahoo Finance • 2h ago
 
 Bitcoin's price rose about 20% in April, but the rally was driven by speculative perpetual futures demand while spot demand remained weak, CryptoQuant said.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
 **[Bitcoin targets $80,000 amid regulatory progress and S&P 500 record](https://www.investing.com/news/cryptocurrency-news/bitcoin-targets-80000-amid-regulatory-progress-and-sp-500-record-4654822)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -213,27 +219,19 @@ Investopedia • 1d ago
 
 ---
 
+**[John Koudounis on Bitcoin’s Future: “I’d Worry About Your Bank Account”](https://greekreporter.com/2026/05/03/john-koudounis-interview-bitcoin-bank-security/)**
+
+Calamos CEO John Koudounis warns traditional bank accounts are less safe than Bitcoin and shares his vision for a digital financial future.
+
+GreekReporter.com • 7h ago
+
+---
+
 **[Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000](https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k)**
 
 Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Berkshire Cash Hits Record $397 Billion as Abel Keeps Buffett’s Anti-Bitcoin Stance](https://beincrypto.com/berkshire-cash-record-abel-bitcoin-skepticism/)**
-
-Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
-
-BeInCrypto • 23h ago
-
----
-
-**[Gov. Mike Braun ceremonially signs bill banning the use of bitcoin ATMS in Indiana](https://www.14news.com/2026/05/01/gov-mike-braun-signs-bill-banning-use-bitcoin-atms-indiana/)**
-
-Governor Mike Braun ceremonially signed an emergency declaration banning the use of bitcoin ATMS in the state of Indiana.
-
-WFIE | 14 News • 2d ago
 
 ---
 
@@ -253,7 +251,7 @@ How a 1970s-era application like a terminal emulator can consume more battery th
 
 Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
 
-⬆️ 51 • 💬 53 • 2d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
+⬆️ 51 • 💬 53 • 3d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
 
 ---
 
@@ -289,7 +287,7 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-in recovery, so you keep your private keys without losing access.
 
-⬆️ 1 • 💬 2 • 5d ago • [Bitkey](https://bitkey.world)
+⬆️ 1 • 💬 2 • 6d ago • [Bitkey](https://bitkey.world)
 
 ---
 
@@ -297,7 +295,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 1 • 💬 0 • 8h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 1 • 💬 0 • 9h ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
@@ -327,17 +325,7 @@ Bitcoin is about to take a MASSIVE step forward and the signals are stacking up 
 
 📺 Crypto Sensei
 
-👁️ 8K • 👍 476 • 💬 56 • ⏱️ 13:43 • 17h ago
-
----
-
-**[Why All-Time High Stocks Are Bullish for Bitcoin](https://www.youtube.com/watch?v=3JKjDK30_IE)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 45K • 👍 2K • 💬 58 • ⏱️ 52:45 • 1d ago
+👁️ 8K • 👍 485 • 💬 57 • ⏱️ 13:43 • 18h ago
 
 ---
 
@@ -347,27 +335,17 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:49 • 17h ago
+👁️ 21K • 👍 2K • 💬 154 • ⏱️ 11:49 • 18h ago
 
 ---
 
-**[Only the Dumb Survive: My 3-Cycle Bitcoin Regret.](https://www.youtube.com/watch?v=ggFi9oUNInA)**
+**[Why All-Time High Stocks Are Bullish for Bitcoin](https://www.youtube.com/watch?v=3JKjDK30_IE)**
 
-If I could go back in time I would have just invested PRIMARILY in Bitcoin and a few choice altcoins and let the noise fall to the ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Digital Asset News
+📺 Anthony Pompliano
 
-👁️ 12K • 👍 760 • 💬 77 • ⏱️ 24:03 • 20h ago
-
----
-
-**[$10M Bitcoin UNLEASHED - Institutions Are Taking It All](https://www.youtube.com/watch?v=eHpsXwubcGc)**
-
-Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says the 4-year cycle is dead. Michael Saylor ...
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 221 • 💬 91 • ⏱️ 19:41 • 17h ago
+👁️ 46K • 👍 2K • 💬 58 • ⏱️ 52:45 • 1d ago
 
 ---
 
@@ -381,23 +359,43 @@ B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply 
 
 ---
 
+**[Only the Dumb Survive: My 3-Cycle Bitcoin Regret.](https://www.youtube.com/watch?v=ggFi9oUNInA)**
+
+If I could go back in time I would have just invested PRIMARILY in Bitcoin and a few choice altcoins and let the noise fall to the ...
+
+📺 Digital Asset News
+
+👁️ 13K • 👍 785 • 💬 78 • ⏱️ 24:03 • 22h ago
+
+---
+
 **[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=6RBevGGz1Pw)**
 
 It is once again time to dubiously speculate on the price of Bitcoin! Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 5K • 💬 318 • ⏱️ 25:43 • 1d ago
+👁️ 77K • 👍 5K • 💬 334 • ⏱️ 25:43 • 1d ago
 
 ---
 
-**[Bitcoin To $200K? The White House&#39;s Rocket Ship Moment](https://www.youtube.com/watch?v=42BHXEbVABY)**
+**[$10M Bitcoin UNLEASHED - Institutions Are Taking It All](https://www.youtube.com/watch?v=eHpsXwubcGc)**
 
-Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocket ship" once the CLARITY Act passes — but will it ...
+Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says the 4-year cycle is dead. Michael Saylor ...
 
-📺 The Wolf Of All Streets
+📺 Bitcoin News Alerts
 
-👁️ 18K • 👍 957 • 💬 270 • ⏱️ 23:54 • 2d ago
+👁️ 4K • 👍 229 • 💬 112 • ⏱️ 19:41 • 18h ago
+
+---
+
+**[Cathie Wood :&quot;My NEW Prediction For The 2026 Crypto Bull Run&quot; (Prepare Now) | Bitcoin Price 2026](https://www.youtube.com/watch?v=5RTDtqyYmHU)**
+
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Library Of Wealth
+
+👁️ 1K • 👍 69 • 💬 158 • ⏱️ 19:13 • 11h ago
 
 ---
 
@@ -407,17 +405,17 @@ Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (n
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 283 • ⏱️ 9:40 • 1d ago
+👁️ 20K • 👍 1K • 💬 283 • ⏱️ 9:40 • 1d ago
 
 ---
 
-**[Bitcoin Live Trading: The Next BTC Breakout Could Shock Everyone EP1987](https://www.youtube.com/watch?v=fPTnsodi1oE)**
+**[The Fed Shakeup That Sets Off Bitcoin&#39;s Biggest Rally Ever!](https://www.youtube.com/watch?v=sjCHEGFDJks)**
 
-Get a chance win a ROLEX! BTCC COMPETITION: ...
+Bitcoin may be entering one of the most important macro setups in its history as AI disruption, Fed policy, negative real rates, ...
 
-📺 Crypto Lifer
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 367 • 💬 16 • ⏱️ 1:17:51 • 14h ago
+👁️ 39K • 👍 2K • 💬 255 • ⏱️ 18:39 • 2d ago
 
 ---
 

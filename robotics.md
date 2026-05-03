@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T16:09:14.984991+00:00'
+updated: '2026-05-03T17:24:44.821171+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 16:09 UTC  
+**Last Updated:** May 03, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,15 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-10h ago
-
----
-
-**[A piece I wrote: Robotics startups are losing to slow feedback loops](https://www.reddit.com/r/robotics/comments/1t2lo15/a_piece_i_wrote_robotics_startups_are_losing_to/)**
-
-The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
-
-🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 2h ago
+11h ago
 
 ---
 
@@ -60,19 +52,27 @@ The hidden velocity killer in robotics development isn't talent or ambition, it'
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-12h ago
+13h ago
+
+---
+
+**[A piece I wrote: Robotics startups are losing to slow feedback loops](https://www.reddit.com/r/robotics/comments/1t2lo15/a_piece_i_wrote_robotics_startups_are_losing_to/)**
+
+The hidden velocity killer in robotics development isn't talent or ambition, it's the feedback loop. Why simulation CI is the strategic differentiator that nobody talks about.
+
+🔗 [Simbiotic](https://www.simbiotic.dev/blog/robotics-startup-development-speed) • 3h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-10h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
 
-11h ago
+12h ago
 
 ---
 
@@ -114,7 +114,7 @@ Which companies are building the best humanoid robots? My take would be Tesla, H
 
 **[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -122,17 +122,23 @@ Bloomberg.com • 1d ago
 
 (Bloomberg) -- Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots, as part of a major initiative to build humanoid technology. Most Read from BloombergTrump Vows 25% Tariff on European Autos in Escalating Trade RiftSpirit Bailout Talks Said to Have Ended With Closure LoomingTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Rues State of Iran Talks, Says Prefers Not to StrikeTwo NJ Malls Separated by Just Four M
 
-Yahoo Finance UK • 1d ago
+Yahoo Finance UK • 2d ago
 
 ---
 
-**[Meta Acquires Robotics AI Startup](https://www.theinformation.com/briefings/meta-acquires-robotics-ai-startup)**
+**[Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)**
 
-Meta Platforms has acquired Assured Robotics Intelligence, a startup developing AI models for humanoid robots, for an undisclosed sum. 
+Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
 
- A company spokesperson said Friday that it had acquired the startup, which focuses on developing AI models that help robots understand and adapt to human behavior across a range of environments. “This team, led by Lerrel Pinto and Xiaolong Wang, will bring a
+TechCrunch • 1d ago
 
-The Information • 1d ago
+---
+
+**[Robotic passenger traveling for work causes Southwest flight delay](https://www.ky3.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
+
+Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
+
+KY3 • 7h ago
 
 ---
 
@@ -141,14 +147,6 @@ The Information • 1d ago
 Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
 
 Fox News • 2d ago
-
----
-
-**[Robotic passenger traveling for work causes Southwest flight delay](https://www.kswo.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
-
-Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
-
-KSWO 7News • 6h ago
 
 ---
 
@@ -174,17 +172,19 @@ CNBC • 2d ago
 
 ---
 
-**[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
-
-AgWeb • 2d ago
-
----
-
 **[DAIMON Robotics Wants to Give Robot Hands a Sense of Touch](https://spectrum.ieee.org/daimon-robotics-physical-ai)**
 
 A powerful embodied AI dataset will enable robots to perform dexterous manipulation
 
 IEEE Spectrum • 3d ago
+
+---
+
+**[Could Underwater Autonomous Robots Save Coral Reefs?](https://www.smithsonianmag.com/innovation/could-underwater-autonomous-robots-save-coral-reefs-180988626/)**
+
+Reef restoration is a slow process, with divers planting coral fragments one at a time by hand. But roboticists are now developing automated planters that could change the game
+
+Smithsonian Magazine • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 231K • 👍 3K • 💬 265 • ⏱️ 24:02 • 4d ago
+👁️ 233K • 👍 3K • 💬 266 • ⏱️ 24:02 • 4d ago
 
 ---
 
@@ -208,7 +208,7 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 132K • 👍 883 • 💬 236 • ⏱️ 3:51 • 2d ago
+👁️ 134K • 👍 885 • 💬 236 • ⏱️ 3:51 • 2d ago
 
 ---
 
@@ -218,7 +218,15 @@ Ukraine is turning the battlefield into something Russia was never built to figh
 
 📺 War Vault
 
-👁️ 284K • 👍 6K • 💬 592 • ⏱️ 16:42 • 4d ago
+👁️ 284K • 👍 6K • 💬 593 • ⏱️ 16:42 • 4d ago
+
+---
+
+**[This Paper-Thin Robot Lifts 70x Its Weight By Copying Human Muscles | Soft Robotics Breakthrough](https://www.youtube.com/watch?v=ikrMt6We3gc)**
+
+📺 RiseX Venturess
+
+👁️ 13K • 👍 2K • 💬 21 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -228,17 +236,7 @@ Elon Musk presents a new AI-powered robot concept focused on pushing the limits 
 
 📺 Carros Show
 
-👁️ 54K • 👍 1K • 💬 105 • ⏱️ 8:27 • 5d ago
-
----
-
-**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=TDkNRIWfaq4)**
-
-ABC News' Sophie Flay takes a closer look at the future of humanoid robots, where the race is on to see who gets there first.
-
-📺 ABC News
-
-👁️ 33K • 👍 1K • 💬 86 • ⏱️ 1:56 • 18h ago
+👁️ 55K • 👍 1K • 💬 107 • ⏱️ 8:27 • 5d ago
 
 ---
 
@@ -248,7 +246,27 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 Joanna Stern
 
-👁️ 285K • 👍 7K • 💬 980 • ⏱️ 11:11 • 4d ago
+👁️ 287K • 👍 7K • 💬 991 • ⏱️ 11:11 • 4d ago
+
+---
+
+**[Secret Crocodile Robot Enters the Showdown Game Episode 1](https://www.youtube.com/watch?v=YfR4k022-R8)**
+
+Scene using artificial intelligence. #aiart #movie.
+
+📺 Miracle Animal Rescues
+
+👁️ 43K • 👍 394 • 💬 16 • ⏱️ 8:09 • 2d ago
+
+---
+
+**[Humanoid robots at center of U.S.-China competition](https://www.youtube.com/watch?v=TDkNRIWfaq4)**
+
+ABC News' Sophie Flay takes a closer look at the future of humanoid robots, where the race is on to see who gets there first.
+
+📺 ABC News
+
+👁️ 35K • 👍 1K • 💬 87 • ⏱️ 1:56 • 19h ago
 
 ---
 
@@ -258,37 +276,17 @@ Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to 
 
 📺 Sequoia Capital
 
-👁️ 79K • 👍 1K • 💬 53 • ⏱️ 20:03 • 3d ago
+👁️ 80K • 👍 1K • 💬 54 • ⏱️ 20:03 • 3d ago
 
 ---
 
-**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
+**[🔥🤖 Unitree G1 Just Got a Serious Rival—Meet TienKung Omni! #robot #humanoidrobot #robotics #ai](https://www.youtube.com/watch?v=kA_PZVSouVE)**
 
-eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
+TienKung family gets a new member: TienKung Omni is coming — small body, seriously smart. From the teaser, Omni looks built ...
 
-📺 Stu’s Reviews
+📺 XRoboHub
 
-👁️ 32K • 👍 163 • 💬 41 • ⏱️ 16:11 • 6d ago
-
----
-
-**[These New AI Robots Just Took A Massive Leap Forward This Week](https://www.youtube.com/watch?v=mkmouIXXGTs)**
-
-You won't BELIEVE what just happened in robotics this week! The line between humans and robots is officially blurring — and ...
-
-📺 The AI Nexus
-
-👁️ 14K • 👍 279 • 💬 18 • ⏱️ 23:04 • 2d ago
-
----
-
-**[Is my Gearbox Precise? #3dprinting #gearbox #testing #robotics](https://www.youtube.com/watch?v=8Bh0IXDBw20)**
-
-I test to see if my 3D printed gearbox is precise. I made a pointer attachment for the gearbox to see if it returns to the same position ...
-
-📺 Advanced Hobby Lab
-
-👁️ 54K • 👍 531 • 💬 10 • ⏱️ 0:28 • 2d ago
+👁️ 41K • 👍 1K • 💬 70 • ⏱️ 0:28 • 2d ago
 
 ---
 
