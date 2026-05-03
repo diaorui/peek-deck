@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-03T03:21:31.909057+00:00'
+updated: '2026-05-03T06:15:31.843335+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 03:21 UTC  
+**Last Updated:** May 03, 2026 at 06:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,766.73
+### $78,125.64
 
 ---
 
@@ -47,14 +47,14 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.1%  
 **7d:** +1.0%  
 **30d:** +16.1%  
-**90d:** +3.2%  
+**90d:** +3.1%  
 **1y:** -17.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1564.32B
+**Market Cap:** $1564.91B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
@@ -64,14 +64,14 @@ Rank #1
 -38.0%
 
 **All-Time Low:** $67.81
-+115110.1%
++115144.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 39
-**FEAR**
+### 47
+**NEUTRAL**
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 And when do you think that would happen? Edit: 1 person (for now). A wealthy country where things are expensive.
 
-10h ago
+13h ago
+
+---
+
+**[Self custody is a full time job.](https://www.reddit.com/r/Bitcoin/comments/1t2ca9k/self_custody_is_a_full_time_job/)**
+
+When you forget your phone’s password with 200 BTC in it
+
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ And when do you think that would happen? Edit: 1 person (for now). A wealthy cou
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 12h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/80k-squeeze-taiwan-hormuz-bitcoin-decoupling) • 14h ago
 
 ---
 
@@ -97,7 +105,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Technical analysist are bs, no one knows, if somehow, they predict, people follows, self fulfilling prophecy, and the cycles repeat.
 
-4h ago
+6h ago
 
 ---
 
@@ -105,15 +113,7 @@ Technical analysist are bs, no one knows, if somehow, they predict, people follo
 
 Hey everyone, I need some honest feedback on something I genuinely thought would resonate way more than it did. I've built this certificate keepsake around something I personally find extremely powerful that Bitcoin allows: for the first time in history, we can store a message in a way that is practically engraved forever. In the past, every attempt at “eternity” had flaws: Physical things decay. Even something as massive as the pyramids used to look completely different and will keep deteriorating. Historical monuments are often altered, depending on who is in currently charge. The Hagia Sophia is a good example of how meaning and purpose can be rewritten over time. Even symbolic “permanent” things like love locks get removed the moment they become inconvenient. With Bitcoin, that changes. Yes, I’m using OP_RETURN, which is obviously nothing new or magical in the bitcoin realm in 2026. I’m not pretending I invented anything here. If you’re technical, you could also absolutely do the backend part yourself. But that’s also kind of the point. Most people, even at a Bitcoin conference, are not going to sit down, figure out how to craft a transaction with embedded data, think about limits, formats, and then make it presentable in a meaningful way (a core element of my product). What I’m trying to do is take something that is technically possible but practically inaccessible for many, and turn it into a simple, tangible product. The core idea is still this: a short message, embedded into Bitcoin, that does not decay, cannot be altered, and realistically cannot be removed. Around that, I built a physical certificate as the real-world anchor. High-quality paper, gold foil, embossing, clean design, plus a QR code linking to the transaction. The goal is that it feels like something meaningful you’d actually keep or gift, not just “someone printed a transaction”. Last weekend I took this to a Bitcoin conference in Switzerland. Booth, live setup, examples, and I even gave a talk explaining the concept. Result: 2 sales out of roughly 300 attendees. That’s not a small miss. That’s something fundamentally not clicking. What confuses me is that the few people who actually engaged liked it. Price didn’t seem to be the issue either. I charged 40 CHF without a frame and 50 CHF with a frame, and almost nobody even got to the point of questioning it. So I’m trying to understand the disconnect: Does the idea of “eternalizing” a message on Bitcoin actually feel meaningful to you? Or does it come across as a gimmick? Is the value unclear or not strong enough? Would you personally even know what you’d write, or is that already a blocker? Does it feel too trivial, like “I could just do that myself”? If you were walking past that booth, what would have made you stop? Some guesses I have: Maybe people underestimate what’s actually happening and mentally file it as “just a standard transaction with a reference text”. Maybe people don’t have an immediate use case or can’t come up with something worth preserving on the spot. Maybe I’m overestimating how much people care about permanence in the first place. Also addressing a common concern: yes, I’m aware of the “blockchain spam” discussion. I use OP_RETURN so there’s no UTXO bloat, and I voluntarily limit messages to 40 bytes to keep it minimal. The intention is to use this imo groundbreaking aspect of bitcoin to store things that are actually meaningful, not noise. At this point I’m trying to understand why something that feels so powerful to me barely got any traction in a room full of Bitcoiners. I attached a couple of photos of the booth for context. I’d really appreciate honest takes, especially critical ones because I'm obviously doing something blatantly wrong, and it was a financial disaster. 🥲
 
-7h ago
-
----
-
-**[My Journey to BTC, and Why You Need to Buy It](https://www.reddit.com/r/Bitcoin/comments/1t1zzju/my_journey_to_btc_and_why_you_need_to_buy_it/)**
-
-Im an older person (mid 40s). I've been working since I was 13. My parents taught me the basics of saving $. When I was young (13-16), I would work in the summers to earn money to buy stuff for myself (radios, Super Nintendo, speakers, Michael Jordan shoes, tapes and CD players, etc). Instead of playing around all summer with my friends, I worked to earn my own money. I worked in a field cutting fruits and vegetables so the owner of the field could sell them at his roadside stand. People from all across the county would come to buy his fruits and vegetables. This was the genesis of my understanding of money. Fast forward to my 20s: I had a good work ethic I had learned from my parents, and I had a vocation that paid very well. I basically learned to be a technician for vending equipment. However, instead of investing, I simply saved money in my bank account, and then spent the rest on bills, alcohol, poker, and girls. Although I did always save like my parents taught me to do, I never was any further ahead than the next guy because I had no knowledge of investing. My parents never taught me that. Fast forward to 2021: I had a friend from High School, Jason, who hit me up out of the blue on Facebook. This was a guy that I spent my freshman year in high school with in my economics class working on a stock market investment project. Basically, our economics teacher made everyone team up with a partner to learn stock market investments. I knew Jason's older brother because we played on the football team together, so it was cool to team up with my buddy's younger brother on an academic project. Anyways, back then, you had to read the newspaper to see prices, and buying and selling took days. Well, Jason and I bought AT&T as our backbone and some other good stocks like Microsoft in our mock portfolio. We ended up coming in 1st place at the end of the year. I explain all this to explain why he randomly called me up in 2021; I guess he never forgot me from that project we did together in 1994-95. He wanted to tell me about a short squeeze he discovered about GME. I had no clue WTF he was even talking about because, like I explained, I was preoccupied by work, alcohol, poker, and girls. Anyways, I drove over to his house one night in Jan 2021 to crack a few beers and catch up on old times (he lived on the other side of town). That's when my investment "career" started. Jason showed me that it was possible to invest on a phone. Prior to that, I only thought you could do that by calling a brokerage firm and looking in the newspaper for prices. He literally showed me that he had bought GME at $10 and it was (at the time) $300. That's what got me hooked. Then, I started researching because I have a masters degree in management and administration, which forced me to learn the skill of research. That's when I found BTC. I ended up passing on GME and buying AMC. My first buy was $10 even. As soon as I bought, AMC went to like $12. So, I bought more. I could give more info about the craziness of AMC and GME back then, but this is a BTC post and I need to get to the part about BTC. So, all my friends were completely about GME and AMC (and I was in AMC), but I noticed BTC. At the time, it was around $34k or so, if I remember correctly. I waited till BTC was at $26k, and I started buying heavy. Unfortunately, it fell down to like 17k and I sold fir massive losses. This all happened because I still, at that point, did not understand what BTC is. By the time BTC went back to $25k, I knew what it was. I went all in. I took loans out, spent all my free cash, and als I DCAd every day. Then, BTC ran. I held. Then BTC fell hard again. I held. I learned to NEVER sell my main stack of BTC. NEVER! Its okay to short term trade with a side stash, but never trade your main stack of BTC. Now, 2026: Jason never bought BTC. He stayed with the bs GME play. That's the difference. 2 guys that had the same IQ, the same drive, the same goals, but not the same vision of what BTC is. This whole post can be boiled down to one very specific choice: you can either buy BTC and surpass everyone that doesn't. Or, you can keep sleeping and miss out on a new life. Don't be a Jason.
-
-7h ago
+10h ago
 
 ---
 
@@ -121,7 +121,15 @@ Im an older person (mid 40s). I've been working since I was 13. My parents taugh
 
 Asking for some advice. When I stay at campgrounds, sometimes the rate for the site includes water and electricity. Since it’s a flat rate, I would like to get one of those bitcoin mining rigs that also doubles as a space heater. This would be perfect for the winter. What would be a good unit that would use about 500-750 watts of electricity? Thanks in advance.
 
-2h ago
+5h ago
+
+---
+
+**[My Journey to BTC, and Why You Need to Buy It](https://www.reddit.com/r/Bitcoin/comments/1t1zzju/my_journey_to_btc_and_why_you_need_to_buy_it/)**
+
+Im an older person (mid 40s). I've been working since I was 13. My parents taught me the basics of saving $. When I was young (13-16), I would work in the summers to earn money to buy stuff for myself (radios, Super Nintendo, speakers, Michael Jordan shoes, tapes and CD players, etc). Instead of playing around all summer with my friends, I worked to earn my own money. I worked in a field cutting fruits and vegetables so the owner of the field could sell them at his roadside stand. People from all across the county would come to buy his fruits and vegetables. This was the genesis of my understanding of money. Fast forward to my 20s: I had a good work ethic I had learned from my parents, and I had a vocation that paid very well. I basically learned to be a technician for vending equipment. However, instead of investing, I simply saved money in my bank account, and then spent the rest on bills, alcohol, poker, and girls. Although I did always save like my parents taught me to do, I never was any further ahead than the next guy because I had no knowledge of investing. My parents never taught me that. Fast forward to 2021: I had a friend from High School, Jason, who hit me up out of the blue on Facebook. This was a guy that I spent my freshman year in high school with in my economics class working on a stock market investment project. Basically, our economics teacher made everyone team up with a partner to learn stock market investments. I knew Jason's older brother because we played on the football team together, so it was cool to team up with my buddy's younger brother on an academic project. Anyways, back then, you had to read the newspaper to see prices, and buying and selling took days. Well, Jason and I bought AT&T as our backbone and some other good stocks like Microsoft in our mock portfolio. We ended up coming in 1st place at the end of the year. I explain all this to explain why he randomly called me up in 2021; I guess he never forgot me from that project we did together in 1994-95. He wanted to tell me about a short squeeze he discovered about GME. I had no clue WTF he was even talking about because, like I explained, I was preoccupied by work, alcohol, poker, and girls. Anyways, I drove over to his house one night in Jan 2021 to crack a few beers and catch up on old times (he lived on the other side of town). That's when my investment "career" started. Jason showed me that it was possible to invest on a phone. Prior to that, I only thought you could do that by calling a brokerage firm and looking in the newspaper for prices. He literally showed me that he had bought GME at $10 and it was (at the time) $300. That's what got me hooked. Then, I started researching because I have a masters degree in management and administration, which forced me to learn the skill of research. That's when I found BTC. I ended up passing on GME and buying AMC. My first buy was $10 even. As soon as I bought, AMC went to like $12. So, I bought more. I could give more info about the craziness of AMC and GME back then, but this is a BTC post and I need to get to the part about BTC. So, all my friends were completely about GME and AMC (and I was in AMC), but I noticed BTC. At the time, it was around $34k or so, if I remember correctly. I waited till BTC was at $26k, and I started buying heavy. Unfortunately, it fell down to like 17k and I sold fir massive losses. This all happened because I still, at that point, did not understand what BTC is. By the time BTC went back to $25k, I knew what it was. I went all in. I took loans out, spent all my free cash, and als I DCAd every day. Then, BTC ran. I held. Then BTC fell hard again. I held. I learned to NEVER sell my main stack of BTC. NEVER! Its okay to short term trade with a side stash, but never trade your main stack of BTC. Now, 2026: Jason never bought BTC. He stayed with the bs GME play. That's the difference. 2 guys that had the same IQ, the same drive, the same goals, but not the same vision of what BTC is. This whole post can be boiled down to one very specific choice: you can either buy BTC and surpass everyone that doesn't. Or, you can keep sleeping and miss out on a new life. Don't be a Jason.
+
+10h ago
 
 ---
 
@@ -129,7 +137,15 @@ Asking for some advice. When I stay at campgrounds, sometimes the rate for the s
 
 I've developed a tool for analyzing Bitcoin-Core governance conversations through several lenses supported by academic literature. The link to my blog contains the output of the tool, which centers around a pull request from 2021. My question is this: is the tool accurate? I want to make sure it is calibrated correctly.
 
-🔗 [vinniefalco.com](https://www.vinniefalco.com/p/bitcoin-core-speedy-trial-vetocracy) • 5h ago
+🔗 [vinniefalco.com](https://www.vinniefalco.com/p/bitcoin-core-speedy-trial-vetocracy) • 8h ago
+
+---
+
+**[Daily Discussion, May 03, 2026](https://www.reddit.com/r/Bitcoin/comments/1t2da5d/daily_discussion_may_03_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+7m ago
 
 ---
 
@@ -137,23 +153,7 @@ I've developed a tool for analyzing Bitcoin-Core governance conversations throug
 
 My mailman tried to deliver a package to me today from River.com but it was $8 worth of postage I was suppose to pay myself so I refused it. Any idea what that would be?
 
-6h ago
-
----
-
-**[What was the most interesting product/service you saw at Bitcoin Vegas](https://www.reddit.com/r/Bitcoin/comments/1t1xxvt/what_was_the_most_interesting_productservice_you/)**
-
-I'm always looking to see what people are finding the most interesting in the market so we can build out things that people are excited about and want access to. We attended Bitcoin Vegas to talk about a Bitcoin SMA strategy that we launched recently and got a lot of interest, but our client minium for that product is $500,000 USD in BTC so it limits access to some people. I'd like to find more things that people would find interesting regardless of their bag size.
-
-8h ago
-
----
-
-**[Taxes in your country](https://www.reddit.com/r/Bitcoin/comments/1t1mu1b/taxes_in_your_country/)**
-
-I’ve invested a small amount of money in bitcoin. I would like to invest more but the capital gains tax in my country (Ireland) has kinda taken the fun out of it. We have to pay 33% and that doesn’t change no matter how many years you let your investment sit. Interested to know what others pay in their country and whether you think it’s still worthwhile for me to invest more.
-
-16h ago
+9h ago
 
 ---
 
@@ -165,21 +165,29 @@ I’ve invested a small amount of money in bitcoin. I would like to invest more 
 
 Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.
 
-CoinDesk • 11h ago
-
----
-
-**[Paradigm researcher proposes timestamp 'escape hatch' to protect Satoshi-era bitcoin from quantum threats](https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum)**
-
-PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
-
-The Block • 1d ago
+CoinDesk • 14h ago
 
 ---
 
 **[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
 
-Forbes • 15h ago
+Forbes • 18h ago
+
+---
+
+**[Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants](https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html)**
+
+Cipher Digital (NasdaqGS:CIFR) is shifting from Bitcoin mining to AI infrastructure services. The company has entered into multi billion dollar, long term leasing agreements with Amazon Web Services and Google. These contracts position Cipher Digital as a high performance computing data center provider to two major cloud platforms. Cipher Digital has historically operated in Bitcoin mining, a business tied closely to crypto price cycles and mining difficulty. By committing capacity to...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin logs best monthly performance in 12 months during April](https://www.tradingview.com/news/cointelegraph:e2fdf018e094b:0-bitcoin-logs-best-monthly-performance-in-12-months-during-april/)**
+
+Bitcoin has posted its best-performing month in a year, prompting analysts to forecast what could lie ahead for May, which has historically delivered returns of about 8%.“Long way to go back to ATHs, but good to see some green,” Coin Bureau founder Nic Puckrin said in an X post on Friday, referring…
+
+TradingView • 2h ago
 
 ---
 
@@ -193,15 +201,15 @@ CNBC • 1d ago
 
 **[Bitcoin hovers above $78,000 as ETF inflows lead to best month since April 2025](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-78000-as-etf-inflows-cement-strongest-month-in-a-year-4654748)**
 
-Investing.com • 18h ago
+Investing.com • 21h ago
 
 ---
 
-**[Eric Trump’s Bitcoin netted him $90M, but investors believing it was a ‘money-printing machine’ are out $500M](https://finance.yahoo.com/markets/crypto/articles/eric-trump-bitcoin-netted-him-151500809.html)**
+**[Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000](https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k)**
 
-How the hype around American Bitcoin turned into steep losses for late investors.
+Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -213,11 +221,11 @@ Fortune • 2d ago
 
 ---
 
-**[Gov. Mike Braun ceremonially signs bill banning the use of bitcoin ATMS in Indiana](https://www.14news.com/2026/05/01/gov-mike-braun-signs-bill-banning-use-bitcoin-atms-indiana/)**
+**[Paradigm researcher proposes timestamp 'escape hatch' to protect Satoshi-era bitcoin from quantum threats](https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum)**
 
-Governor Mike Braun ceremonially signed an emergency declaration banning the use of bitcoin ATMS in the state of Indiana.
+PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.
 
-14 News • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -225,13 +233,7 @@ Governor Mike Braun ceremonially signed an emergency declaration banning the use
 
 Berkshire Hathaway's cash pile hit a record $397B in Q1 2026 as Greg Abel held Buffett's anti-Bitcoin stance.
 
-BeInCrypto • 10h ago
-
----
-
-**[Bitcoin’s Big Boosters in Las Vegas Struggle to Engineer a Rally](https://www.bloomberg.com/news/articles/2026-04-30/bitcoin-faithful-came-to-las-vegas-but-the-price-didn-t-show-up)**
-
-Bloomberg • 2d ago
+BeInCrypto • 13h ago
 
 ---
 
@@ -267,7 +269,7 @@ Paul Sztorc’s proposed eCash fork would give investors coins cloned from walle
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 3 • 💬 1 • 2d ago • [satoshiguesser.com](https://satoshiguesser.com)
+⬆️ 3 • 💬 1 • 3d ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -295,7 +297,7 @@ Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-
 
 Production-ready Python Flask starter kit with authentication, Stripe payments, admin dashboard, and deployment setup. Stop rebuilding the foundations and start shipping.
 
-⬆️ 1 • 💬 0 • 18h ago • [PythonStarter](https://pythonstarter.co/)
+⬆️ 1 • 💬 0 • 21h ago • [PythonStarter](https://pythonstarter.co/)
 
 ---
 
@@ -325,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 2K • 💬 58 • ⏱️ 52:45 • 14h ago
+👁️ 38K • 👍 2K • 💬 58 • ⏱️ 52:45 • 17h ago
 
 ---
 
@@ -335,17 +337,7 @@ Bitcoin is about to take a MASSIVE step forward and the signals are stacking up 
 
 📺 Crypto Sensei
 
-👁️ 4K • 👍 369 • 💬 39 • ⏱️ 13:43 • 4h ago
-
----
-
-**[$100B in Capital Going After $10B in Bitcoin | The Rally Is Coming!](https://www.youtube.com/watch?v=C2NmIHSouSQ)**
-
-B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply shock for the ages. Paul Tudor Jones calls Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 312 • ⏱️ 13:54 • 1d ago
+👁️ 6K • 👍 412 • 💬 52 • ⏱️ 13:43 • 7h ago
 
 ---
 
@@ -355,47 +347,7 @@ It is once again time to dubiously speculate on the price of Bitcoin! Into The C
 
 📺 Benjamin Cowen
 
-👁️ 58K • 👍 4K • 💬 275 • ⏱️ 25:43 • 15h ago
-
----
-
-**[The Fed Shakeup That Sets Off Bitcoin&#39;s Biggest Rally Ever!](https://www.youtube.com/watch?v=sjCHEGFDJks)**
-
-Bitcoin may be entering one of the most important macro setups in its history as AI disruption, Fed policy, negative real rates, ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 2K • 💬 307 • ⏱️ 18:39 • 2d ago
-
----
-
-**[Only the Dumb Survive: My 3-Cycle Bitcoin Regret.](https://www.youtube.com/watch?v=ggFi9oUNInA)**
-
-If I could go back in time I would have just invested PRIMARILY in Bitcoin and a few choice altcoins and let the noise fall to the ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 587 • 💬 63 • ⏱️ 24:03 • 8h ago
-
----
-
-**[Billionaire Warns You Will REGRET Not Buying Bitcoin Here + XRP News](https://www.youtube.com/watch?v=bcYKueS31ZE)**
-
-Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (no kyc) - Claim $10k bonus: ...
-
-📺 Altcoin Daily
-
-👁️ 18K • 👍 1K • 💬 321 • ⏱️ 9:40 • 1d ago
-
----
-
-**[Bitcoin To $200K? The White House&#39;s Rocket Ship Moment](https://www.youtube.com/watch?v=42BHXEbVABY)**
-
-Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocket ship" once the CLARITY Act passes — but will it ...
-
-📺 The Wolf Of All Streets
-
-👁️ 17K • 👍 944 • 💬 272 • ⏱️ 23:54 • 1d ago
+👁️ 62K • 👍 4K • 💬 291 • ⏱️ 25:43 • 18h ago
 
 ---
 
@@ -405,17 +357,67 @@ Subscribe. Before it's gone. Bitcoin just entered a new phase. Samson Mow says t
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 153 • 💬 84 • ⏱️ 19:41 • 4h ago
+👁️ 3K • 👍 176 • 💬 92 • ⏱️ 19:41 • 7h ago
 
 ---
 
-**[Bitcoin Next Breakout Could Shock Everyone](https://www.youtube.com/watch?v=CyP_eAnY5bc)**
+**[Bitcoin &amp; Ethereum are about to SKYROCKET! (SERIOUSLY)](https://www.youtube.com/watch?v=jiftFdu3Apw)**
 
-Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
+Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 18K • 👍 976 • 💬 418 • ⏱️ 57:13 • 1d ago
+👁️ 10K • 👍 937 • 💬 105 • ⏱️ 11:49 • 7h ago
+
+---
+
+**[$100B in Capital Going After $10B in Bitcoin | The Rally Is Coming!](https://www.youtube.com/watch?v=C2NmIHSouSQ)**
+
+B in capital is chasing $10B worth of Bitcoin. Michael Saylor calls it a supply shock for the ages. Paul Tudor Jones calls Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 296 • ⏱️ 13:54 • 1d ago
+
+---
+
+**[The Fed Shakeup That Sets Off Bitcoin&#39;s Biggest Rally Ever!](https://www.youtube.com/watch?v=sjCHEGFDJks)**
+
+Bitcoin may be entering one of the most important macro setups in its history as AI disruption, Fed policy, negative real rates, ...
+
+📺 Simply Bitcoin
+
+👁️ 38K • 👍 2K • 💬 185 • ⏱️ 18:39 • 2d ago
+
+---
+
+**[Only the Dumb Survive: My 3-Cycle Bitcoin Regret.](https://www.youtube.com/watch?v=ggFi9oUNInA)**
+
+If I could go back in time I would have just invested PRIMARILY in Bitcoin and a few choice altcoins and let the noise fall to the ...
+
+📺 Digital Asset News
+
+👁️ 10K • 👍 641 • 💬 62 • ⏱️ 24:03 • 10h ago
+
+---
+
+**[Billionaire Warns You Will REGRET Not Buying Bitcoin Here + XRP News](https://www.youtube.com/watch?v=bcYKueS31ZE)**
+
+Tim Draper, Eric Trump, XRP CEO Gives Crypto Warning for May 2025 ✓ Bitunix (no kyc) - Claim $10k bonus: ...
+
+📺 Altcoin Daily
+
+👁️ 18K • 👍 1K • 💬 317 • ⏱️ 9:40 • 1d ago
+
+---
+
+**[Bitcoin To $200K? The White House&#39;s Rocket Ship Moment](https://www.youtube.com/watch?v=42BHXEbVABY)**
+
+Bitcoin #Crypto #Finance The White House says crypto will "take off like a rocket ship" once the CLARITY Act passes — but will it ...
+
+📺 The Wolf Of All Streets
+
+👁️ 17K • 👍 950 • 💬 269 • ⏱️ 23:54 • 1d ago
 
 ---
 
