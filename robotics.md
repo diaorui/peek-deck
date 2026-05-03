@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-03T08:19:40.244912+00:00'
+updated: '2026-05-03T09:48:40.010706+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 03, 2026 at 08:19 UTC  
+**Last Updated:** May 03, 2026 at 09:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLABS website: https://hypr.co
 
-22h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLA
 
 I literally have all these pieces bought, and everything is wired together but it’s insanely bulky. Could I put all of this into a PCB? Im very new to the electronics side of this, so sorry if this is a stupid question. Ideally, I want something just like an Arduino, a PCB, then the battery and a couple of jumper wires. What I have right now is way too bulky and annoying to deal with.
 
-2h ago
+4h ago
 
 ---
 
@@ -52,19 +52,19 @@ I literally have all these pieces bought, and everything is wired together but i
 
 Please i want a sensor for human detection to be installed on a moving vehicle ,so is there any applicability to find such a sensor ?
 
-4h ago
+5h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpxd/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Ufactory Xarm 6 robotic arm, linear motor and accessories for sale](https://www.reddit.com/r/robotics/comments/1t2cpah/ufactory_xarm_6_robotic_arm_linear_motor_and/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ Please i want a sensor for human detection to be installed on a moving vehicle ,
 
 We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finalize the feature set, we want to hear from people actually using CANopen in the field. Takes 2 minutes. Every answer shapes what we build first. What would make you use CANviz for CANopen debugging? (pick your top reason) •PDO signals by name (EDS-based decode) •CiA 402 drive state live (statusword ->named state) •SDO read/write without switching tools •NMT state per node (who’s alive) •Browser-based, no install required •Free and open source Drop a comment if any of these apply to you: •What hardware you’re using (ODrive, Maxon, Beckhoff, custom…) •What tool you use today and what’s frustrating about it •Whether you have EDS files for your devices •Whether you need SDO write / NMT commands or read-only is enough •Any specific use case (robotics, industrial, research…) Current CANviz: pip install canviz - already ships J1939 passive decode, DBC signal plotting, and bus health monitoring. GitHub: https://github.com/Chanchaldhiman/CANviz
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ We're building CANopen (CiA 301 + CiA 402) support for CANviz. Before we finaliz
 
 Which companies are building the best humanoid robots? My take would be Tesla, Hyundai (through Boston Machines), who else? What would be your estimation for when we'll get these robots in factories and houses?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Which companies are building the best humanoid robots? My take would be Tesla, H
 
 Hello guys, I have been trying to access RoboDK academy for some time now and it just keeps infinitely loading? Is anyone else experienced same problem?
 
-11h ago
+12h ago
 
 ---
 
@@ -104,27 +104,13 @@ I’ve been working on a custom dual H-bridge brushed DC motor driver designed t
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Commercial video: https://x.com/XRoboHub/status/2049373299310993869
 
-1d ago
+2d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[I've Covered Robots for Years. This One Is Different](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/)**
-
-From sorting chicken nuggets to screwing in light bulbs, Eka’s robots are eerily lifelike. But do they have real physical smarts?
-
-WIRED • 3d ago
-
----
-
-**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
-
-Bloomberg.com • 1d ago
-
----
 
 **[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://uk.finance.yahoo.com/news/meta-acquires-robotics-ai-company-165643541.html)**
 
@@ -134,11 +120,17 @@ Yahoo Finance UK • 1d ago
 
 ---
 
+**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Meta Acquires Robotics AI Startup As It Makes The Push Into Humanoid Machines](https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/)**
 
 Meta, AI, humanoid, robot
 
-Engadget • 18h ago
+Engadget • 19h ago
 
 ---
 
@@ -150,15 +142,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
+**[How CVS Uses Robots to Keep Your Deodorant in Stock](https://www.wsj.com/logistics-report/how-cvs-uses-robots-to-keep-your-deodorant-in-stock-0237bab9)**
 
-AgWeb • 2d ago
+WSJ • 2d ago
 
 ---
 
-**[How CVS Uses Robots to Keep Your Deodorant in Stock](https://www.wsj.com/logistics-report/how-cvs-uses-robots-to-keep-your-deodorant-in-stock-0237bab9)**
+**[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
 
-WSJ • 1d ago
+AgWeb • 2d ago
 
 ---
 
@@ -170,19 +162,27 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Unitree G1 humanoid robot ice skates and rollerblades](https://www.foxnews.com/tech/unitree-g1-humanoid-robot-ice-skates-rollerblades)**
-
-Watch Unitree's G1 humanoid robot glide on rollerblades and ice skates, pulling off spins and flips while staying perfectly balanced in real time.
-
-Fox News • 1d ago
-
----
-
 **[Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)**
 
 Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
 
 CNBC • 2d ago
+
+---
+
+**[Could Underwater Autonomous Robots Save Coral Reefs?](https://www.smithsonianmag.com/innovation/could-underwater-autonomous-robots-save-coral-reefs-180988626/)**
+
+Reef restoration is a slow process, with divers planting coral fragments one at a time by hand. But roboticists are now developing automated planters that could change the game
+
+Smithsonian Magazine • 2d ago
+
+---
+
+**[Who Is Tesla Selling 1 Million Humanoid Robots A Year To?](https://cleantechnica.com/2026/05/01/who-is-tesla-selling-1-million-humanoid-robots-a-year-to/)**
+
+Support CleanTechnica's work through a Substack subscription or on Stripe. In its latest quarterly report for shareholders, Tesla mentions “robots” three times. Two of those times were in the “Robotics” paragraph/section: “Preparations for our first large-scale Optimus factory will begin shortly in Q2. The first-generation line, designed for 1 million  ... [continued]
+
+CleanTechnica • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ Eiffel is now a f2p monster. The Eiffel was of course super overpowered when it 
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 441 • 💬 88 • ⏱️ 16:17 • 20h ago
+👁️ 10K • 👍 441 • 💬 88 • ⏱️ 16:17 • 21h ago
 
 ---
 

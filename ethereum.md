@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T08:19:40.242745+00:00'
+updated: '2026-05-03T09:48:40.007483+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 08:19 UTC  
+**Last Updated:** May 03, 2026 at 09:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.3%  
-**30d:** +12.0%  
-**90d:** +3.5%  
-**1y:** +27.8%  
+**24h:** +0.5%  
+**7d:** +0.5%  
+**30d:** +12.2%  
+**90d:** +3.7%  
+**1y:** +28.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-2h ago
+3h ago
+
+---
+
+**[North Korea Stole $71 Million From KelpDAO. Now a Law Firm Is Trying to Steal It From the Victims](https://www.reddit.com/r/ethereum/comments/1t2gcbc/north_korea_stole_71_million_from_kelpdao_now_a/)**
+
+Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 45m ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 17h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 19h ago
 
 ---
 
@@ -102,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Not long ago, I was asked about quantum computing and the threat it could pose to blockchain technology. It’s a question I’ve encountered…
 
-🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 18h ago
+🔗 [Medium](https://medium.com/@james_allan/quantum-computing-vs-crypto-how-real-is-the-threat-1652bda62d35) • 20h ago
 
 ---
 
@@ -135,14 +143,6 @@ I was wondering if someone has some good ideas on task of creating decentralised
 I've got a couple hundred dollars I can stake and I'm not sure if there are any risks. Apart from the unstaking process and the (low) fees, is there anything more I should take into account? I hope the price goes up in the following year or so, and I'd like to get more tokens via staking. What do you think about it? Thanks
 
 1d ago
-
----
-
-**[Canada to create powerful financial crimes agency as US weakens its approach](https://www.reddit.com/r/ethereum/comments/1t0ompi/canada_to_create_powerful_financial_crimes_agency/)**
-
-Canada is establishing a new Financial Crimes Agency to investigate and prosecute financial crimes, following a public inquiry that revealed gaps in its…
-
-🔗 [WeSearch](https://wesearch.press/s/canada-to-create-powerful-financial-crimes-agency-as-us-weak-504f02ec) • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ CryptoSlate • 1d ago
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-ethereum.org • 18h ago
+ethereum.org • 20h ago
 
 ---
 
@@ -200,31 +200,31 @@ Fortune • 1d ago
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
-**[Ethereum faces downward pressure amid geopolitical, macroeconomic challenges](https://cryptobriefing.com/ethereum-faces-downward-pressure-amid-geopolitical-macroeconomic-challenges/)**
+**[Whales accumulate 140,000 Ethereum worth $322M, boosting market confidence](https://cryptobriefing.com/whales-accumulate-140000-ethereum-worth-322m-boosting-market-confidence/)**
 
-Ethereum faces downward pressure due to geopolitical and macroeconomic challenges. Ethereum at $5,000 in May priced at 0.1% YES.
+Whales accumulated 140,000 Ethereum worth $322M, boosting market confidence. Ethereum above $1,900 on May 2 at 99.9% YES.
 
-Crypto Briefing • 9h ago
-
----
-
-**[Bitcoin Death Cross Could Trigger an Ethereum Rally Above $3,000](https://beincrypto.com/ethereum-bull-signal-bitcoin-dominance-death-cross/)**
-
-Ethereum eyes a 50% breakout to $3,430 as Bitcoin Dominance approaches a third historic dead cross. Altseason setup builds.
-
-BeInCrypto • 1d ago
+Crypto Briefing • 3h ago
 
 ---
 
-**[April’s $2B ETF Boom: Bitcoin, Ethereum, XRP Funds Post Largest Inflows In 2026](https://www.tradingview.com/news/newsbtc:3b19e2ca6094b:0-april-s-2b-etf-boom-bitcoin-ethereum-xrp-funds-post-largest-inflows-in-2026/)**
+**[‘Ethereum’s Price Should Have Dropped Already’ – Analyst Explains The On-Chain Signal Behind The Warning](https://www.tradingview.com/news/newsbtc:d9ab6d652094b:0-ethereum-s-price-should-have-dropped-already-analyst-explains-the-on-chain-signal-behind-the-warning/)**
 
-After a shaky start to the year, Bitcoin (BTC), Ethereum (ETH), and XRP Exchange-Traded Funds (ETFs) have recorded their strongest performance in months, signaling strong institutional demand despite the recent market volatility.Bitcoin Leads ETF Boom With $2B InflowsAs the crypto market recovered…
+Ethereum has surged more than 25% since late March, pushing back toward levels that have defined the upper boundary of its recent recovery range and testing resistance that has capped every previous attempt higher. The move has been convincing enough to shift sentiment — but a CryptoQuant analyst h…
 
 TradingView • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin leads recovery, while Ethereum and XRP try to shake off the bearish pressure](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-leads-recovery-while-ethereum-and-xrp-try-to-shake-off-the-bearish-pressure-202605011154)**
+
+The broader cryptocurrency market shows a mild recovery on Friday, with Bitcoin (BTC) rising above $77,000, up from Wednesday’s low of $74,937. Altcoins, including Ethereum (ETH) and Ripple (XRP), align with Bitcoin’s near-term recovery but lack momentum.
+
+FXStreet • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 106 • ⏱️ 11:49 • 9h ago
+👁️ 13K • 👍 1K • 💬 106 • ⏱️ 11:49 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 176 • 💬 6 • ⏱️ 15:33 • 11h ago
+👁️ 3K • 👍 176 • 💬 6 • ⏱️ 15:33 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 2K • 👍 78 • 💬 10 • ⏱️ 15:10 • 18h ago
+👁️ 2K • 👍 78 • 💬 10 • ⏱️ 15:10 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 954 • 💬 7 • ⏱️ 11:48 • 7h ago
+👁️ 954 • 💬 7 • ⏱️ 11:48 • 9h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 578 • 👍 61 • ⏱️ 6:07 • 5h ago
+👁️ 578 • 👍 61 • ⏱️ 6:07 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 332 • 💬 30 • ⏱️ 10:42 • 4h ago
+👁️ 1K • 👍 332 • 💬 30 • ⏱️ 10:42 • 5h ago
 
 ---
 
@@ -328,7 +328,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 213 • 💬 40 • ⏱️ 12:11 • 1d ago
+👁️ 2K • 👍 213 • 💬 40 • ⏱️ 12:11 • 2d ago
 
 ---
 
