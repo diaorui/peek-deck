@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-02T23:44:42.855721+00:00'
+updated: '2026-05-03T03:21:31.918200+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 02, 2026 at 23:44 UTC  
+**Last Updated:** May 03, 2026 at 03:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,23 @@ Robotics research and industry news
 
 From HYPRLABS Inc. on 𝕏: https://x.com/hypr/status/2050298855837839837 HYPRLABS website: https://hypr.co
 
-13h ago
+17h ago
+
+---
+
+**[High-Complexity Solo Robotics Major Project - ROS2/SLAM Focus - Low Hardware Budget](https://www.reddit.com/r/robotics/comments/1t2740q/highcomplexity_solo_robotics_major_project/)**
+
+​ Hey guys, entering my final year (Mechanical Engineering) in Hyderabad. I’ve spent the last few years working with ROS, Gazebo, and SLAM. Due to team dynamics, I am executing my major project solo. I have a limited hardware budget, but significant experience in simulation and software integration. I want to build something that pushes the limits of autonomous navigation or edge-case handling rather than just a basic chassis that follows a path. Current Skillset: ROS2, Gazebo/Ignition, SLAM (Lidar/Visual), Python/C++. Hardware on hand: just my laptop Lenovo LOQ RTX 3050 6GB VRAM 16 GB RAM Can you suggest a project that is mathematically or computationally intense but hardware-light? I’m looking for something that would impress a recruiter at a high-end robotics firm.
+
+2h ago
+
+---
+
+**[RoboDK academy down?](https://www.reddit.com/r/robotics/comments/1t21nrs/robodk_academy_down/)**
+
+Hello guys, I have been trying to access RoboDK academy for some time now and it just keeps infinitely loading? Is anyone else experienced same problem?
+
+6h ago
 
 ---
 
@@ -52,15 +68,7 @@ I’ve been working on a custom dual H-bridge brushed DC motor driver designed t
 
 Hi everyone, I’ve been working on a deterministic approach to robot stability in crowded environments. A common issue with many AMRs is "behavioral chatter" or oscillations when the system is conflicted between its mission and environmental obstacles. My article in The Robot Report details a regulator based on two dynamic parameters. - ΔN (External uncertainty/entropy) - ΔD (Internal structural tension/duality) In my simulations, this approach allowed for a significant reduction in collisions and, more importantly, completely eliminated behavioral oscillations (dropping from 5.0 to 0.0 in our test scenarios). Link to the full article: https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/ I look forward to hearing your thoughts.
 
-4h ago
-
----
-
-**[RoboDK academy down?](https://www.reddit.com/r/robotics/comments/1t21nrs/robodk_academy_down/)**
-
-Hello guys, I have been trying to access RoboDK academy for some time now and it just keeps infinitely loading? Is anyone else experienced same problem?
-
-2h ago
+8h ago
 
 ---
 
@@ -72,17 +80,17 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2049902473767473373 Comm
 
 ---
 
+**[He just can’t give up](https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/)**
+
+1d ago
+
+---
+
 **[Converting a MyCobot 280 URDF to a stable USD + articulation setup in Isaac Sim](https://www.reddit.com/r/robotics/comments/1t1q3bc/converting_a_mycobot_280_urdf_to_a_stable_usd/)**
 
 A lot of low-cost robots come with URDFs that don’t translate well into simulation, so having a clean USD + articulation setup makes a big difference if you want reproducibility and stability. I tried importing a MyCobot 280 URDF into Isaac Sim and… it didn’t go well. Geometry was broken, shading was off, and the joints were basically unusable out of the box. Instead of fighting the importer, I ended up rebuilding it properly: – Converted the DAE/Collada assets to USD and cleaned the meshes – Rebuilt the articulation using RigidBody + RevoluteJoint – Set up DriveAPI (stiffness, damping, joint limits) – Validated everything in PhysX – Built a small extension to control the robot from the UI Now it’s a clean, stable robot that behaves correctly and can actually be controlled at joint level. The main goal was to have a proper base for RL / Isaac Lab workflows. If anyone has dealt with similar URDF → USD issues in Isaac / Omniverse, curious how you approached it. https://github.com/dorado-daniel/mycobot_280_usd_isaac_sim
 
-10h ago
-
----
-
-**[He just can’t give up](https://www.reddit.com/r/robotics/comments/1t0yquv/he_just_cant_give_up/)**
-
-1d ago
+13h ago
 
 ---
 
@@ -90,21 +98,13 @@ A lot of low-cost robots come with URDFs that don’t translate well into simula
 
 Interview start's a little slow, but it gets pretty interesting. Brett does answer questions about teleoperating, whether you believe him or not is upto you. I would take everything with a grain of salt, but it is cool regardless. Personally, I thought the 'never fall' philosophy was quite interesting. The pricing was interesting too 'few hundred dollars per month'.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ch_UM_JJU9w) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ch_UM_JJU9w) • 19h ago
 
 ---
 
 **[Built a physical AI chess agent (LLM + vision + robot arm) — some unexpected challenges](https://www.reddit.com/r/robotics/comments/1t1c6x4/built_a_physical_ai_chess_agent_llm_vision_robot/)**
 
 Hi all, just wanted to share a small project I’ve been working on. About two years ago, I bought an Interbotix RX-200 robot arm (mainly for home / educational use). Originally I wanted to build something like a Jarvis-style system, but never really had the time. Earlier this year, after getting into agentic coding and LLM-based systems, I finally connected it to an LLM API and built a robot that can play chess while interacting with humans. Here are a few things I learned along the way: (1) Robot control as tools for the agent The robot arm actions (move, pick, place) are implemented as low-level ROS functions, then exposed as tools that the LLM agent can call. The agent decides which action to take based on the current context. This part actually worked quite smoothly. (2) Vision & calibration (RealSense D455) To understand the board state after a human move, I used an Intel RealSense D455. Originally, I planned to mount the camera on the arm and use hand-eye calibration to get piece coordinates. However, the RX-200 only supports ~150g payload, so it couldn’t carry the D455. I had to switch to a fixed camera setup. In the end, the camera is mainly used to detect which grid cell a piece is on, while the actual grasp points are predefined. (3) Piece detection & classification The initial plan was to use a full vision pipeline (YOLO + segmentation) to detect both position and piece type. However, segmentation accuracy was not reliable enough in practice. So I simplified the approach: – Use YOLO to detect the board and piece positions – Determine which grid cells are occupied – Assume correct initial setup – Infer game state by tracking changes between frames (4) Chess logic (LLM vs engine) There are two approaches: – Let the LLM call Stockfish (for strong play) – Let the LLM play directly In practice, general LLMs are still quite weak at chess, especially in mid-to-late game. I also tried having different LLMs play against each other (Gemini, Claude, GPT). From these informal tests, Gemini Pro performed the best overall, while Claude Opus and GPT were somewhat comparable. However, consistency was still an issue across all models, especially in longer games. (5) Personality & emotion system Using prompt engineering, I defined different personalities for the agent. Each personality reacts differently to game events. For example, an “aggressive” personality shows frustration when losing pieces. Combined with pre-recorded robot motion sequences, it creates a more human-like interaction. (6) Voice interaction To enable real interaction, I integrated STT and TTS models. There are now many good open-source options that can run on consumer GPUs. In this project I used: – Whisper Large (STT) – CosyVoice 2.0 (TTS) (Qwen3 ASR is also quite good) In terms of real-time interaction, running these models locally has a noticeable advantage in latency and responsiveness. That’s a quick summary of the experience. Demo video: https://youtu.be/741AJce6lFw Code: https://github.com/sealdad/chess_with_llm Looking ahead, if I wanted to push this further toward a more “Jarvis-like” interactive robot system, I think a few areas would be worth exploring: – Eye-on-arm setup Mounting the camera on the robot arm itself, so it can “look where it moves.” This would allow dynamic viewpoints and even zooming in when needed. – Stronger multimodal perception If multimodal LLMs can reach segmentation-level understanding, it might reduce the need for traditional CNN-based vision pipelines. – Lower-level control from LLMs Instead of relying on pre-recorded motion sequences, I’m curious whether LLMs could eventually control lower-level robot behaviors directly (e.g. generating motion primitives or trajectories). Still not sure how feasible this is yet, but it feels like an interesting direction. I’m also thinking about getting another robot arm (budget < $3000), with enough payload to mount a RealSense D455. Currently looking at AgileX Piper series — any recommendations would be appreciated!
-
-22h ago
-
----
-
-**[Servo control jitter issues](https://www.reddit.com/r/robotics/comments/1t11yc6/servo_control_jitter_issues/)**
-
-I’ve been developing the firmware on a ESP32-s3 for a quadrupedal robot. The main problem is the jitter movement i get when i launch a squats hardcoded script. The communication is done via wifi, the MCU uses zenoh and the ROS2 control script uses DDS, so i use the official zenoh-bridge-ros2dds. The servos are generical 25kg/cm stall servos from amazon. I use PCA9685 driver for sending PWM. The code uses freeRTOS for managing tasks for sending feedback and receiving angles. If i do the ping command i get: --- IP ping statistics --- 617 packets transmitted, 617 received, 0% packet loss, time 616869ms rtt min/avg/max/mdev = 2.593/28.955/367.929/42.275 ms My ros2 script publishes at 50ms. The resolution of the movement is 0.02 rads per message. The MCU data handler triggers when new message arrives and send it to a 1 len queue so the servo tasks can go at its frequency without getting conditioned by the latency. I found on another forum that sometimes is necessary to put capacitors at the input of each servo.
 
 1d ago
 
@@ -130,17 +130,39 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)**
+
+Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
+
+TechCrunch • 1d ago
+
+---
+
 **[Is Tesla's pivot to robotics coming at the cost of its car business?](https://www.usatoday.com/story/cars/news/2026/05/02/tesla-robots-semitrucks-lack-ev-demand/89889698007/)**
 
 Tesla is rolling out plans to build robots and semi trucks to the delight of its investors, but analysts it may be neglecting its core car business.
 
-USA Today • 12h ago
+USA Today • 15h ago
 
 ---
 
 **[How Robotic Dogs are Guarding Ag Assets](https://www.agweb.com/news/machinery/how-robotic-dogs-are-guarding-ag-assets)**
 
 AgWeb • 2d ago
+
+---
+
+**[Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite](https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html)**
+
+Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.
+
+CNBC • 2d ago
 
 ---
 
@@ -154,35 +176,15 @@ WSJ • 1d ago
 
 Roboticists at Harvard and the Indian Institute of Technology Madras – very smart folks indeed – somehow entirely missed the great name “antdroids” when building the insectoid drones they call RAnts (robotic ants, which do not, in fact, rant about anything – not even against a tyrannical robotic…
 
-New Atlas • 14h ago
+New Atlas • 18h ago
 
 ---
 
-**[lt walker robots 7b638c87.jpg](https://www.nola.com/lt-walker-robots-7b638c87-jpg/image_4af46068-190d-5f40-8eb4-bffd92e87c5a.html)**
+**[Who Is Tesla Selling 1 Million Humanoid Robots A Year To?](https://cleantechnica.com/2026/05/01/who-is-tesla-selling-1-million-humanoid-robots-a-year-to/)**
 
-SCALLYWAGS -- The Scallywags received the “People’s Choice Award” at the 13th Annual Northern Gulf Coast Regional MATE ROV competition. Pictured from left to right are: Cayden Cain, Oliver Koelbel,
+Support CleanTechnica's work through a Substack subscription or on Stripe. In its latest quarterly report for shareholders, Tesla mentions “robots” three times. Two of those times were in the “Robotics” paragraph/section: “Preparations for our first large-scale Optimus factory will begin shortly in Q2. The first-generation line, designed for 1 million  ... [continued]
 
-NOLA.com • 1h ago
-
----
-
-**[New, empty buildings in Berkeley shift to AI as East Bay looks for its piece of the boom](https://www.bizjournals.com/sanfrancisco/news/2026/04/29/berkeley-commons-ai-robotics-biotech-life-science.html)**
-
-The Business Journals • 3d ago
-
----
-
-**[DAIMON Robotics Wants to Give Robot Hands a Sense of Touch](https://spectrum.ieee.org/daimon-robotics-physical-ai)**
-
-A powerful embodied AI dataset will enable robots to perform dexterous manipulation
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Chinese robotics company opens U.S. headquarters in Richardson](https://www.dallasnews.com/business/local-companies/article/pudu-major-global-robotics-company-opens-u-s-22233042.php)**
-
-Dallas News • 2d ago
+CleanTechnica • 23h ago
 
 ---
 
@@ -190,63 +192,13 @@ Dallas News • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Japan &amp; Germany AI Robots | Best Tech at Global Tech Expos](https://www.youtube.com/watch?v=CkxNAAi67XQ)**
-
-The biggest robot and tech exhibitions happened almost at the same time in Japan and Germany: the Humanoid Robot EXPO at ...
-
-📺 PRO ROBOTS
-
-👁️ 4K • 👍 142 • 💬 12 • ⏱️ 20:19 • 11h ago
-
----
-
-**[Humanoid Robot Sophia Takes Center Stage With Orchestra in Hong Kong](https://www.youtube.com/watch?v=eVG8V7FESTo)**
-
-Humanoid robot Sophia made her classical music debut in Hong Kong, performing alongside the Hong Kong Baptist University ...
-
-📺 New York Post
-
-👁️ 2K • 👍 41 • 💬 34 • ⏱️ 3:00 • 5h ago
-
----
-
 **[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
 
 Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
 
 📺 Bloomberg Originals
 
-👁️ 218K • 👍 3K • 💬 250 • ⏱️ 24:02 • 3d ago
-
----
-
-**[US and China race to build best humanoid robots](https://www.youtube.com/watch?v=iMXb4k2b130)**
-
-The U.S. and China are in a race to develop the next wave of mechanical helpers: humanoid robots. ABC News' Britt Clennett has ...
-
-📺 ABC News
-
-👁️ 20K • 👍 111 • 💬 61 • ⏱️ 4:03 • 1d ago
-
----
-
-**[Ukraine UNLEASHED 25,000 Robots — Russia Has NOTHING To Stop Them](https://www.youtube.com/watch?v=u-ACdtRQ0Vc)**
-
-Ukraine is turning the battlefield into something Russia was never built to fight. In 2026, Ukraine began scaling a new kind of war: ...
-
-📺 War Vault
-
-👁️ 279K • 👍 6K • 💬 584 • ⏱️ 16:42 • 3d ago
-
----
-
-**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
-
-Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
-
-📺 Carros Show
-
-👁️ 49K • 👍 1K • 💬 99 • ⏱️ 8:27 • 5d ago
+👁️ 221K • 👍 3K • 💬 255 • ⏱️ 24:02 • 3d ago
 
 ---
 
@@ -256,7 +208,35 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 78K • 👍 862 • 💬 236 • ⏱️ 3:51 • 2d ago
+👁️ 80K • 👍 872 • 💬 236 • ⏱️ 3:51 • 2d ago
+
+---
+
+**[Ukraine UNLEASHED 25,000 Robots — Russia Has NOTHING To Stop Them](https://www.youtube.com/watch?v=u-ACdtRQ0Vc)**
+
+Ukraine is turning the battlefield into something Russia was never built to fight. In 2026, Ukraine began scaling a new kind of war: ...
+
+📺 War Vault
+
+👁️ 281K • 👍 6K • 💬 584 • ⏱️ 16:42 • 3d ago
+
+---
+
+**[This Paper-Thin Robot Lifts 70x Its Weight By Copying Human Muscles | Soft Robotics Breakthrough](https://www.youtube.com/watch?v=ikrMt6We3gc)**
+
+📺 RiseX Venturess
+
+👁️ 11K • 👍 2K • 💬 19 • ⏱️ 1:06 • 1d ago
+
+---
+
+**[Elon Musk&#39;s Smartest AI Robot Humiliates US Politicians With Its Intelligence](https://www.youtube.com/watch?v=BlOMUT2rcY0)**
+
+Elon Musk presents a new AI-powered robot concept focused on pushing the limits of machine intelligence and real-time ...
+
+📺 Carros Show
+
+👁️ 51K • 👍 1K • 💬 103 • ⏱️ 8:27 • 5d ago
 
 ---
 
@@ -266,7 +246,17 @@ The Chinese-made Unitree G1 humanoid robots are making their way into the U.S. A
 
 📺 Joanna Stern
 
-👁️ 266K • 👍 6K • 💬 937 • ⏱️ 11:11 • 3d ago
+👁️ 272K • 👍 6K • 💬 951 • ⏱️ 11:11 • 3d ago
+
+---
+
+**[US and China race to build best humanoid robots](https://www.youtube.com/watch?v=iMXb4k2b130)**
+
+The U.S. and China are in a race to develop the next wave of mechanical helpers: humanoid robots. ABC News' Britt Clennett has ...
+
+📺 ABC News
+
+👁️ 21K • 👍 117 • 💬 61 • ⏱️ 4:03 • 1d ago
 
 ---
 
@@ -276,17 +266,27 @@ Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to 
 
 📺 Sequoia Capital
 
-👁️ 51K • 👍 900 • 💬 50 • ⏱️ 20:03 • 2d ago
+👁️ 52K • 👍 928 • 💬 50 • ⏱️ 20:03 • 2d ago
 
 ---
 
-**[🔥🤖 Unitree G1 Just Got a Serious Rival—Meet TienKung Omni! #robot #humanoidrobot #robotics #ai](https://www.youtube.com/watch?v=kA_PZVSouVE)**
+**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
 
-TienKung family gets a new member: TienKung Omni is coming — small body, seriously smart. From the teaser, Omni looks built ...
+eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
 
-📺 XRoboHub
+📺 Stu’s Reviews
 
-👁️ 34K • 👍 886 • 💬 60 • ⏱️ 0:28 • 1d ago
+👁️ 30K • 👍 159 • 💬 41 • ⏱️ 16:11 • 6d ago
+
+---
+
+**[China Just Built An AI Robot Army](https://www.youtube.com/watch?v=omtM-tl1Sj8)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots China is no longer just building robots for factories ...
+
+📺 PRO ROBOTS
+
+👁️ 14K • 👍 384 • 💬 51 • ⏱️ 18:35 • 6d ago
 
 ---
 
