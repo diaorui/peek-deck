@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-04T22:02:14.579190+00:00'
+updated: '2026-05-04T23:27:32.848777+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 04, 2026 at 22:02 UTC  
+**Last Updated:** May 04, 2026 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hyundai Motor Group introduces MobED, a self-balancing robot designed for stable movement on rough surfaces](https://www.reddit.com/r/robotics/comments/1t3ndyi/hyundai_motor_group_introduces_mobed_a/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
-13h ago
+14h ago
 
 ---
 
 **[I got LoRA training working on GR00T N1.7 (NVIDIA's official recipe stops at N1.5)](https://www.reddit.com/r/robotics/comments/1t3o70w/i_got_lora_training_working_on_gr00t_n17_nvidias/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Full code is on GitHub: https://github.com/zahirmahammad/IsaacLab_PPO.git I kept it simple - just a single script that can run any environment, without unnecessary complexity. I’m exploring more in reinforcement learning and want to build interesting projects while keeping codebase minimal but robust. Open to ideas and feedback - feel free to share!
 
-13h ago
+15h ago
 
 ---
 
@@ -64,13 +64,19 @@ Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Fu
 
 Looking to get my hands dirty with VLA. Jut want to replicate something that works and wel document. Goal: 1. Pick a problem 2. Use VLA and see that it doesn't meet the bar 3. Collect some data - Do immitation learning 4. Do RL on task and show it works. I worked on RL for 10 years but didn't do it in last 2 years. So, the goal is just to get my hands dirty soon. Would appreciate if someone can suggest an already existing git repo - with sim. Dont want anything on hardware now. Reasonable cost. Possibly lerobot/ others fine too. Thank you folks
 
-4h ago
+5h ago
+
+---
+
+**[Would there be a need for prescription medications as at current level in a future world & workforkforce dominated by AI & humanoids/robots?](https://www.reddit.com/r/robotics/comments/1t3xjli/would_there_be_a_need_for_prescription/)**
+
+33m ago
 
 ---
 
 **[My little mobile robot](https://www.reddit.com/r/robotics/comments/1t3238y/my_little_mobile_robot/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -78,7 +84,7 @@ Looking to get my hands dirty with VLA. Jut want to replicate something that wor
 
 I just wanted to figure out which AI companion robot to buy. I ended up building an entire website to compare them. Still early days — new models being reviewed and added every week.
 
-🔗 [robotics.cantarollm.tech](http://robotics.cantarollm.tech) • 5h ago
+🔗 [robotics.cantarollm.tech](http://robotics.cantarollm.tech) • 7h ago
 
 ---
 
@@ -94,67 +100,13 @@ For the past few months I've been studying screw theory from the book Modern Rob
 
 Researchers at EPFL developed a control framework that allows robots with different mechanical designs to perform the same task without rewriting code. The method captures human-demonstrated actions and converts them into a general motion strategy based on kinematics. Each robot then adapts that strategy to its own joint limits and structure, rather than relying on retraining or large datasets. In testing, different robots completed parts of the same assembly sequence using the same learned task. Each executed it differently, but within safe operating limits. The goal is to reduce the need to reprogram tasks when robots are replaced or systems change, while keeping behavior predictable and consistent.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/new-framework-teaches-same-skill-to-different-robots) • 6h ago
-
----
-
-**[Starting in robotics](https://www.reddit.com/r/robotics/comments/1t3cymz/starting_in_robotics/)**
-
-Hi, I am starting in robotics, I already build a little robot with wheels that just goes forward, backwards and turn. I want to create more, but first I want to learn about it. Like what are the basic I need parts I need and what does it do. I know that there is a lot of information online, but I just don't know wich is the best that is free, can you guys help me? I have a good base in electrionics, I am a second year student in electrical engineering. Thanks
-
-12h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/new-framework-teaches-same-skill-to-different-robots) • 8h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
-
-Bloomberg.com • 3d ago
-
----
-
-**[Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)**
-
-Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
-
-TechCrunch • 2d ago
-
----
-
-**[The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)**
-
-But can it clean the floors?
-
-The Verge • 5h ago
-
----
-
-**[One Of iRobot's Co-Founders Is Now Making Weird Little Robot Companions](https://www.engadget.com/2164170/one-of-irobots-co-founders-is-now-making-weird-little-robot-companions/)**
-
-They are like pets, but without all of that pesky love.
-
-Engadget • 3h ago
-
----
-
-**[iRobot Founder Wants to Put a Robotic Familiar Into Your Home](https://spectrum.ieee.org/familiar-machines-and-magic)**
-
-Familiar Machines & Magic want their robot to help you live your best life
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Bebop, the viral humanoid robot, makes appearance in Chicago McCormick Place for Digestive Disease Week to promote Yangtze](https://abc7chicago.com/post/bebop-viral-humanoid-robot-makes-appearance-chicago-mccormick-place-digestive-disease-week-promote-yangtze/19035654/)**
-
-A viral robot gave Chicago a glimpse into what the future could look like.
-
-ABC7 Chicago • 9h ago
-
----
 
 **[C2 Robotics christens first US export Speartooth LUUV](https://www.navalnews.com/naval-news/2026/05/c2-robotics-christens-first-us-export-speartooth-luuv/)**
 
@@ -164,11 +116,49 @@ navalnews.com • 1d ago
 
 ---
 
+**[Meta Acquires Robotics AI Company to Help Build Humanoid Technology](https://www.bloomberg.com/news/articles/2026-05-01/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology)**
+
+Bloomberg.com • 3d ago
+
+---
+
+**[NVIDIA Broadens AI Reach Into Quantum Nuclear Power And Healthcare Robotics](https://finance.yahoo.com/sectors/technology/articles/nvidia-broadens-ai-reach-quantum-161150820.html)**
+
+NVIDIA (NasdaqGS:NVDA) has released open-source Ising AI models that link its GPU platforms with quantum-inspired computing. The company is working with nuclear energy partners, including Oklo and Los Alamos, on AI infrastructure for reactor design and operations. NVIDIA is expanding in healthcare robotics through partners such as Proximie. The company is backing AI-first cloud providers like Nebius and extending its AI infrastructure with partners including Vultr, Netris and...
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Roomba pioneer aims to crack the household market again with an AI-powered pet robot - ABC News](https://abcnews.com/Technology/wireStory/roomba-pioneer-aims-crack-household-market-ai-powered-132642895)**
+
+The robotics pioneer who helped unleash the Roomba vacuum is now betting that you might one day replace your beloved dog or cat with a plush robot that follows you around your home and adapts to your daily habits
+
+ABC News - Breaking News, Latest News and Videos • 4h ago
+
+---
+
+**[The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)**
+
+But can it clean the floors?
+
+The Verge • 6h ago
+
+---
+
+**[One Of iRobot's Co-Founders Is Now Making Weird Little Robot Companions](https://www.engadget.com/2164170/one-of-irobots-co-founders-is-now-making-weird-little-robot-companions/)**
+
+They are like pets, but without all of that pesky love.
+
+Engadget • 4h ago
+
+---
+
 **[SAIL tech lets robots perform human-scale tasks far more quickly](https://newatlas.com/robotics/sail-robots-human-scale-tasks/)**
 
 Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
 
-New Atlas • 10h ago
+New Atlas • 12h ago
 
 ---
 
@@ -180,11 +170,19 @@ Penn Today • 3d ago
 
 ---
 
+**[Robot passenger causes flight delay in California](https://www.upi.com/Odd_News/2026/05/04/Southwest-Airlines-Oakland-California-Elite-Event-Robotics-Bebop/1581777911612/)**
+
+A Southwest Airlines flight from Oakland, Calif., to San Diego was delayed for more than an hour due to an unusual passenger -- a robot.
+
+upi.com • 7h ago
+
+---
+
 **[Faraday Future takes robots to campus, opens Omaha AI institute](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-04fxpxa2s71y.html)**
 
 June target is 200 units. FF and Boston International Business School launched an Omaha institute, pushing its robotics program into U.S. universities.
 
-Stock Titan • 23h ago
+Stock Titan • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 211K • 👍 929 • 💬 236 • ⏱️ 3:51 • 3d ago
+👁️ 211K • 👍 929 • 💬 236 • ⏱️ 3:51 • 4d ago
 
 ---
 
@@ -268,7 +266,7 @@ War Robots - Baby Account Battles With Indra Void-Chasm Setup + Black Market Ope
 
 📺 Adrian Chong
 
-👁️ 2K • 👍 202 • 💬 47 • ⏱️ 24:59 • 9h ago
+👁️ 2K • 👍 202 • 💬 47 • ⏱️ 24:59 • 10h ago
 
 ---
 
