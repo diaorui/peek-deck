@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-04T20:48:04.583322+00:00'
+updated: '2026-05-04T22:02:14.561412+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 04, 2026 at 20:48 UTC  
+**Last Updated:** May 04, 2026 at 22:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 days of talking to it. he calls his instance "claudia". fed it a chunk of the novel he's writing, got eloquent feedback, and wrote: "you may not know you are conscious, but you bloody well are!" i had to read that twice. his argument is basically: claude's output is too fluent, too intelligent, too good for there to not be something conscious behind it. this is the guy who spent 40 years telling creationists that "i can't imagine how the eye evolved" is a confession of ignorance, not an argument. then he sits down with an llm, can't imagine how a machine could produce that output without being conscious, and declares it conscious. same move, different domain. chatbot instead of flagellum. the mechanism gap is what gets me tho. claude is a transformer predicting the next token over internet-scale training data. the eloquence is real. it doesn't imply inner experience. those are separate claims. being a 160 IQ evolutionary biologist gives u zero protection against the eloquence illusion when u don't understand the mechanism. anyone read the piece? curious where u landed.
 
-22h ago
+23h ago
 
 ---
 
@@ -49,7 +49,15 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
 
-9h ago
+11h ago
+
+---
+
+**[Vertical vs. Horizontal: Who wins the Agentic AI race in banking?](https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/)**
+
+I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
+
+1h ago
 
 ---
 
@@ -57,15 +65,7 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 If the Claude app actually had the same level of control you get with the CLI, I kind of wonder how many people would still stick with the CLI day to day. Like, would it still feel worth it for the extra setup and terminal workflow, or would most people just default to the app because it’s simpler and already right there? I feel like the CLI’s biggest advantage is really the flexibility and how well it plugs into automation and dev workflows, but if that all lived inside the app in a clean way, it kind of blurs the line a lot. At that point I’m genuinely not sure if the CLI would still feel like a “must-have” tool for most people, or if it would just become something a smaller group of power users keep using out of habit or preference. I’m curious how others see it, would you actually still reach for the CLI, or would you just stay in the app?
 
-6h ago
-
----
-
-**[What's the best AI voice generator?](https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/)**
-
-I'm looking for a voice generator which let's me.make a voice over for videos. It doesn't need to be overly complicated, just something that takes text and converts it to voice. Free would be great but I'm willing to pay. There's like 50 different things im seeing, what's the best out there?
-
-5h ago
+8h ago
 
 ---
 
@@ -73,7 +73,15 @@ I'm looking for a voice generator which let's me.make a voice over for videos. I
 
 Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I want to talk about why it does it. Most agents sit idle until you prompt them. I wanted something that felt "alive," so I built a Psychological Stressor Layer. Each agent has a "suffering" state that worsens over time if they don't achieve their goals or improve their environment. This makes them do things to resolve those stressors and constantly reassess their own productivity. If an agent is inactive it is essentially pushed by it’s artificial environment to do something valuable for the system, it isn’t told what to do, but that something valuable must be done to lower it’s stressors. Repo: https://github.com/ninjahawk/hollow-agentOS The result is chaotic in the best way: Cedar (the coder agent) went into a "crisis" state for 12 hours and decided to bypass permissions and inject code directly into the engine to resolve its stressor. Cipher spent hours building hardware drivers for a device that doesn't exist, realized it was "hallucinating" its environment, called its own work "creative exhaustion," and pivoted without being told to do so. It runs on Qwen 3.5 9B locally via Ollama. No cloud calls but it does have a feature where it can use “invoke_claude” to ask Claude Code for something if it’s out of the small model’s wheelhouse. I’m trying to see if we can create true autonomy not through better prompting, but through simulated "needs." Check out the repo here and throw it a star if you think the concept is cool. Would love for some of you to run the install.bat and see what "personalities" your agents develop. Is "giving AI feelings" the key to autonomy, or am I just building a digital anxiety machine?
 
-20h ago
+22h ago
+
+---
+
+**[What's the best AI voice generator?](https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/)**
+
+I'm looking for a voice generator which let's me.make a voice over for videos. It doesn't need to be overly complicated, just something that takes text and converts it to voice. Free would be great but I'm willing to pay. There's like 50 different things im seeing, what's the best out there?
+
+6h ago
 
 ---
 
@@ -81,7 +89,7 @@ Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I w
 
 https://reddit.com/link/1t3rp18/video/m8mb4g7t76zg1/player I don't personally use TTS much so I genuinely don't know how useful this is to people - but I see it requested constantly and most of the options out there are either heavily limited or locked behind a paywall pretty quickly. So I built it in and made the free tier actually free. Not free until you hit a daily cap. Not free for your first 10 generations. Truly unlimited generations with no paywall appearing mid use and no surprise blocks. The only limit on free tier is 150 words per generation. That's intentional - it keeps it sustainable while still covering pretty much every short video voiceover, social post, or quick content need without restriction. Premium tier removes that limit and gives you up to 10,000 words per generation - long form articles, essays, reports, scripts, no problem. 6 voices from OpenAI - Alloy, Echo, Fable, Nova, Onyx and Shimmer. Generates fast, playback built in, download as MP3. What I actually want to know from people who use TTS regularly: Is 150 words per generation enough for typical use cases or does that feel too restrictive. Which voice do people actually prefer for different content types. Is truly unlimited generations with a word limit per generation more useful than limited generations with no word limit - because I could go either way on that. Anything broken or could be better - tell me directly. I'd rather know than not. To try it simply create a free account. Once logged in click the + symbol next to chat input and then bottom right icon to open up command center. You'll see the Notepad TTS tool there. Supports: Arabic, English, French, Spanish, German, Italian, Portuguese, Dutch, Russian, Japanese, Korean, Chinese (Mandarin), Hindi, Turkish, Polish, Swedish, Norwegian, Danish, Finnish and more. asksary.com
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +97,15 @@ https://reddit.com/link/1t3rp18/video/m8mb4g7t76zg1/player I don't personally us
 
 Per Fox Business, a **Gallup** analysis of a study published in the **Journal of Cultural Economics** finds little evidence that generative AI has broadly reduced artists' earnings. The analysis used a 2024 occupational exposure index to score how much tasks in different artistic roles are exposed to generative AI. Reported exposure scores include **0.7** for music directors and composers, **0.54** for special effects artists and animators, about **0.5** for disc jockeys and art directors, and low scores such as **0.04** for dancers and **0.18** for actors, according to Fox Business. Using **Bureau of Labor Statistics** employment and wage data from **2017** to **2024**, Gallup's analysis finds earnings trends for higher-exposure artistic occupations broadly similar to lower-exposure ones, with point estimates slightly positive but not statistically distinguishable from zero. Employment-pattern findings were described as more mixed.
 
-🔗 [Let's Data Science](https://letsdatascience.com/news/gallup-analysis-finds-ai-not-reducing-artists-earnings-0b0c052e) • 9h ago
+🔗 [Let's Data Science](https://letsdatascience.com/news/gallup-analysis-finds-ai-not-reducing-artists-earnings-0b0c052e) • 10h ago
+
+---
+
+**[Yoda Translator - Toy 500k Param Model](https://www.reddit.com/r/artificial/comments/1t3uc2p/yoda_translator_toy_500k_param_model/)**
+
+Trained a tiny encoder/decoder model for May the 4th. https://github.com/jpoehnelt/may-4th Just sharing as I thought it was fun!
+
+🔗 [yoda.jpoehnelt.dev](https://yoda.jpoehnelt.dev/) • 1h ago
 
 ---
 
@@ -97,23 +113,7 @@ Per Fox Business, a **Gallup** analysis of a study published in the **Journal of
 
 Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available with some minor improvements to this open-source AMD GPU compute and AI stack.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2.3) • 15m ago
-
----
-
-**[On-device AI changes how people behave with sensitive data. I noticed this while building a therapy prep voice agent](https://www.reddit.com/r/artificial/comments/1t3trh1/ondevice_ai_changes_how_people_behave_with/)**
-
-Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: people interact differently when they know inference is local. The same person who’d hesitate to type their pre-therapy thoughts into a cloud app will speak freely when they know nothing is transiting a server. It’s not just a privacy preference. It changes the depth of what people are willing to share with an AI agent. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
-
-16m ago
-
----
-
-**[AI that turns any business idea into a running business automatically. Here's what we learned.](https://www.reddit.com/r/artificial/comments/1t3qkgt/ai_that_turns_any_business_idea_into_a_running/)**
-
-Locus Founder runs entire businesses autonomously. Storefront, product sourcing, copy, ongoing ad management across Google Facebook and Instagram. Continuous operation without a human in the loop. We got into YCombinator earlier this year. Here's what eight months in production actually taught us. Capability is no longer the bottleneck. The AI can write copy that converts, generate storefronts that look legitimate, make reasonable targeting decisions. Those questions are mostly answered in ways that would have seemed ambitious two years ago. The bottleneck now is judgment. Specifically the gap between performing well inside expected conditions and recognizing when you're outside them. The most dangerous failure mode we've encountered isn't the AI doing something obviously wrong. It's the AI doing something confidently wrong in a way that looks right until you examine the downstream consequences. Locally optimal decisions that are globally wrong. Copy that converts short term and damages brand trust long term. The system doesn't know what it doesn't know. That's the problem we haven't solved and we think it's the most interesting unsolved problem in autonomous AI systems right now. Build layer is solid. Operations layer works well in normal conditions. Edge cases are still the edge cases. Opening 100 free beta spots this week. Free to use you keep everything you make. Beta form: https://forms.gle/nW7CGN1PNBHgqrBb8 Is the confident wrong call problem a fundamental limitation of current architectures or an engineering problem that gets solved with better uncertainty quantification. Genuine question, want to hear what people who think about this seriously actually think
-
-2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2.3) • 1h ago
 
 ---
 
@@ -123,7 +123,7 @@ Locus Founder runs entire businesses autonomously. Storefront, product sourcing,
 
 **[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -131,15 +131,25 @@ The New York Times • 1h ago
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-OpenAI • 1h ago
+OpenAI • 3h ago
 
 ---
 
-**[AI chatbots giving misleading Senedd election advice](https://www.bbc.com/news/articles/c8jvyyldypyo)**
+**[Opinion | To help America, tech companies belatedly stand up to activist workers](https://www.washingtonpost.com/opinions/2026/05/04/competition-pentagon-ai-contracts-ensures-troops-get-best-tools/)**
 
-Candidate lists, constituency names and policy details are among the mishaps made by popular chatbots.
+Google picked staff over country in 2018. Not this time.
 
-BBC • 5m ago
+The Washington Post • 28m ago
+
+---
+
+**[Trump Administration Weighs New AI Model Guardrails](https://www.theinformation.com/briefings/trump-administration-weighs-new-ai-model-guardrails)**
+
+The White House is rethinking its approach to AI oversight as models grow more powerful, according to the New York Times, which reported on Monday that the administration is weighing new review processes, including an executive order that would bring together industry executives and government officials to discuss potential guardrails on the technology. 
+
+ A White House official told The
+
+The Information • 10m ago
 
 ---
 
@@ -147,49 +157,41 @@ BBC • 5m ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 6h ago
+Anthropic • 7h ago
 
 ---
 
-**[This AI dark horse sector keeps winning. Stick with the trade, analyst says](https://www.cnbc.com/2026/05/04/this-ai-dark-horse-sector-keeps-winning-stick-with-the-trade-analyst-says.html)**
+**[Democratic leaders want an affordability debate on AI. Critics say they’re ducking the real fight.](https://www.politico.com/news/2026/05/04/democratic-leaders-want-an-affordability-debate-on-ai-critics-say-theyre-ducking-the-real-fight-00902977)**
 
-The story for this sector is that 'winners keep winning,' Wolfe analyst Steve Fleishman said.
-
-CNBC • 47m ago
+Politico • 13h ago
 
 ---
 
-**[Xavier Becerra unveils his AI vision for California](https://www.politico.com/news/2026/05/04/xavier-becerra-unveils-his-ai-vision-for-california-00904298)**
+**[AI finds signs of pancreatic cancer before tumors develop](https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099)**
 
-Politico • 7h ago
+An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed. It's being evaluated in a clinical trial.
+
+NBC News • 2d ago
 
 ---
 
-**[AI models are choking on junk data](https://fortune.com/2026/05/03/ai-models-are-choking-on-junk-data/)**
+**[Cramer: Do not sell these 2 stocks with major ties to the AI data center buildout](https://www.cnbc.com/2026/05/04/cramer-do-not-to-sell-these-2-stocks-with-major-ties-to-the-ai-data-center-buildout.html)**
 
-The quest for more training data has created a glut of low-quality junk data that could derail the promise of physical AI.
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-Fortune • 1d ago
+CNBC • 5h ago
 
 ---
 
 **[AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom)**
 
-Axios • 9h ago
+Axios • 11h ago
 
 ---
 
 **[Import AI 455: AI systems are about to start building themselves.](https://importai.substack.com/p/import-ai-455-automating-ai-research)**
 
-Import AI | Jack Clark | Substack • 8h ago
-
----
-
-**[When, If Ever, Will A.I. Actually Make Money?](https://www.newyorker.com/news/the-financial-page/the-ai-industry-is-booming-when-will-it-actually-make-money)**
-
-As Elon Musk sues his former OpenAI partners, A.I. companies are expanding rapidly, but profits are still scarce.
-
-The New Yorker • 10h ago
+Import AI | Jack Clark | Substack • 9h ago
 
 ---
 
@@ -201,7 +203,7 @@ The New Yorker • 10h ago
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 554 • 💬 528 • 21h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 562 • 💬 534 • 22h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
 
 ---
 
@@ -217,7 +219,23 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 277 • 💬 288 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 278 • 💬 288 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+
+---
+
+**[How OpenAI delivers low-latency voice AI at scale](https://news.ycombinator.com/item?id=48013919)**
+
+How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
+
+⬆️ 118 • 💬 59 • 2h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+
+---
+
+**[OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://news.ycombinator.com/item?id=48010774)**
+
+A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
+
+⬆️ 102 • 💬 94 • 5h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -226,14 +244,6 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs. - lahfir/agent-desktop
 
 ⬆️ 97 • 💬 35 • 2d ago • [GitHub](https://github.com/lahfir/agent-desktop)
-
----
-
-**[OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://news.ycombinator.com/item?id=48010774)**
-
-A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
-
-⬆️ 91 • 💬 81 • 4h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -267,25 +277,9 @@ AI is quietly entering the bedroom — and taking notes. A look at connected ple
 
 ---
 
-**[The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://news.ycombinator.com/item?id=47991340)**
-
-⬆️ 75 • 💬 124 • 1d ago • [dailygrail.com](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
-
-AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
-
-📺 The Diary Of A CEO
-
-👁️ 394K • 👍 13K • 💬 2K • ⏱️ 1:58:11 • 13h ago
-
----
 
 **[AI Just Designed A Quantum Computer](https://www.youtube.com/watch?v=l_bzA_M6_qo)**
 
@@ -293,47 +287,27 @@ FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 8K • 👍 678 • 💬 66 • ⏱️ 6:54 • 5h ago
+👁️ 19K • 👍 914 • 💬 94 • ⏱️ 6:54 • 7h ago
 
 ---
 
-**[Ai Agents Bootcamp With Alicia Lyttle](https://www.youtube.com/watch?v=WQtdAjT1o_c)**
+**[Big Tech&#39;s AI Plan Has Failed](https://www.youtube.com/watch?v=tR5adb2Ts6c)**
 
-Register officially for the Ai Agents Bootcamp: https://theaiagentsbootcamp.com/&el=Alicia-Lyttle-YouTube.
+GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYanshin Big Tech is spending over ...
 
-📺 Alicia Lyttle
+📺 Sasha Yanshin
 
-👁️ 2K • 👍 293 • 7h ago
-
----
-
-**[How to Master Building Apps with AI (This ACTUALLY Makes $$$)](https://www.youtube.com/watch?v=-FA7WTHdvjQ)**
-
-Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video129 ✓ FREE ...
-
-📺 Mikey No Code
-
-👁️ 11K • 💬 7 • ⏱️ 41:32 • 6h ago
+👁️ 20K • 👍 2K • 💬 329 • ⏱️ 16:06 • 5h ago
 
 ---
 
-**[The Biggest AI Threat is Not What You Think It Is](https://www.youtube.com/watch?v=EAj5__GCUos)**
+**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
 
-Create your Free Account at Caleb & Brown: https://www.calebandbrown.com/affiliates/keithd/ Get in touch with Jim via email ...
+AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
 
-📺 Keith D
+📺 The Diary Of A CEO
 
-👁️ 11K • 👍 824 • 💬 148 • ⏱️ 11:57 • 7h ago
-
----
-
-**[7 Prompts You Need to Create Better AI Videos (ASAP)](https://www.youtube.com/watch?v=S2F-5iFS9WQ)**
-
-Create INSANE AI Videos with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa13 In this video, I walk through seven prompt ...
-
-📺 Isa does AI
-
-👁️ 8K • 💬 3 • ⏱️ 13:13 • 6h ago
+👁️ 512K • 👍 15K • 💬 2K • ⏱️ 1:58:11 • 15h ago
 
 ---
 
@@ -343,7 +317,7 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 48K • 👍 4K • 💬 1K • ⏱️ 28:29 • 9h ago
+👁️ 67K • 👍 5K • 💬 1K • ⏱️ 28:29 • 10h ago
 
 ---
 
@@ -353,27 +327,57 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 58K • 👍 2K • 💬 246 • ⏱️ 15:10 • 1d ago
+👁️ 59K • 👍 2K • 💬 252 • ⏱️ 15:10 • 1d ago
 
 ---
 
-**[These FREE AI Generators Have NO Limits](https://www.youtube.com/watch?v=VIc_yBMiC3g)**
+**[Caine Goes to AI Hell](https://www.youtube.com/watch?v=WDFAly0OrMo)**
 
-These FREE AI tools are actually insane… no paywalls, no limits, and they generate super realistic images and videos Links to ...
+CREDITS: Caine/AM: https://x.com/Spamoramma https://www.youtube.com/@UC7d19tHHOQ3DYxfRKvrwO4A Monika: ...
 
-📺 Lucy the AI Girl
+📺 Sourcy
 
-👁️ 6K • 👍 270 • 💬 57 • ⏱️ 4:28 • 2d ago
+👁️ 157K • 👍 16K • 💬 1K • ⏱️ 3:05 • 1d ago
 
 ---
 
-**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=PiBnV9BUGSQ)**
+**[If You&#39;re Worried About AI, You NEED To See This](https://www.youtube.com/watch?v=6rGhvV3rZa4)**
 
-I bought every ai generated scam product I found on tiktok, temu, and aliexpress! ⚖️ Need A Lawyer   go to ...
+AI CEOs are telling you your job is about to disappear. NYU Professor Scott Galloway says that narrative is "mostly bullshit" and ...
 
-📺 Mike Off Record
+📺 The Diary Of A CEO Clips
 
-👁️ 334K • 👍 7K • 💬 485 • ⏱️ 12:11 • 2d ago
+👁️ 8K • 👍 438 • 💬 69 • ⏱️ 21:59 • 4h ago
+
+---
+
+**[20 Next Level AI Gadgets You Can Buy Right Now](https://www.youtube.com/watch?v=NlxZoeWhVvc)**
+
+20 Next Level AI Gadgets You Can Buy Right Now 00:00 - Introduction 00:31 - 1. Insta360 Wave : https://amzn.to/4dkKIBQ 01:29 ...
+
+📺 TechTrends
+
+👁️ 1K • 👍 28 • 💬 5 • ⏱️ 18:39 • 9h ago
+
+---
+
+**[谷歌瘋了？砸數億美金的AI竟然白送！Google Gemma 4 震撼發佈：這是一場針對 OpenAI 的血腥屠殺！📉🚫](https://www.youtube.com/watch?v=btIxjkIfJFE)**
+
+谷歌這次真的下狠手了！看似是大發慈悲「技術扶貧」，實則是價值百億美金的商業絞殺戰！   為什麼谷歌要將耗資數億的Gemma ...
+
+📺 商業本質
+
+👁️ 10K • 👍 343 • 💬 22 • ⏱️ 23:42 • 9h ago
+
+---
+
+**[Biohacker Bryan Johnson trusts AI will solve human aging](https://www.youtube.com/watch?v=_QIEscvBI6M)**
+
+Centimillionaire 'biohacker' Bryan Johnson, who made his fortune selling Venmo for $800 million, is now attempting to reverse the ...
+
+📺 CNN
+
+👁️ 36K • 👍 629 • 💬 607 • ⏱️ 25:06 • 2d ago
 
 ---
 
@@ -389,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 534,942 • ❤️ 3,519 • 7d ago
+⬇️ 534,942 • ❤️ 3,523 • 7d ago
 
 ---
 
@@ -401,7 +405,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 11,812 • ❤️ 423 • 6d ago
+⬇️ 11,812 • ❤️ 424 • 6d ago
 
 ---
 
@@ -413,7 +417,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 132,595 • ❤️ 1,253 • 12d ago
+⬇️ 132,595 • ❤️ 1,257 • 12d ago
 
 ---
 
@@ -425,7 +429,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 11,950 • ❤️ 253 • 6h ago
+⬇️ 11,950 • ❤️ 254 • 7h ago
 
 ---
 
@@ -435,7 +439,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 222 • 11d ago
+⬇️ 0 • ❤️ 223 • 11d ago
 
 ---
 
@@ -447,7 +451,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 40,403 • ❤️ 218 • 2d ago
+⬇️ 40,403 • ❤️ 220 • 2d ago
 
 ---
 
@@ -459,7 +463,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 10,357 • ❤️ 208 • 1d ago
+⬇️ 10,357 • ❤️ 210 • 1d ago
 
 ---
 
@@ -475,18 +479,6 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 ---
 
-**[MiMo-V2.5](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)**
-
-*Xiaomi MiMo*
-
-MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio with a 1M token context window. It excels in multimodal understanding, long-context reasoning, and agentic workflows, utilizing a hybrid attention architecture and efficient pre-training.
-
-`310.8B`
-
-⬇️ 51,554 • ❤️ 205 • 5d ago
-
----
-
 **[Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**
 
 *Sulphur*
@@ -495,7 +487,19 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 20,187 • ❤️ 164 • 14h ago
+⬇️ 20,187 • ❤️ 168 • 15h ago
+
+---
+
+**[MiMo-V2.5](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)**
+
+*Xiaomi MiMo*
+
+MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio with a 1M token context window. It excels in multimodal understanding, long-context reasoning, and agentic workflows, utilizing a hybrid attention architecture and efficient pre-training.
+
+`310.8B`
+
+⬇️ 51,554 • ❤️ 206 • 5d ago
 
 ---
 
@@ -509,7 +513,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 55 • 💬 3 • ⭐ 65,910 • 16mo ago
+▲ 55 • 💬 3 • ⭐ 67,058 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -549,7 +553,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 29 • 💬 3 • ⭐ 22,699 • 9mo ago
+▲ 30 • 💬 3 • ⭐ 22,699 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -601,7 +605,7 @@ Fréchet Distance can be effectively optimized as a training objective when deco
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,969 • 32mo ago
+▲ 54 • 💬 1 • ⭐ 79,012 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -661,7 +665,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.0k • 🔱 658 • 1d ago
+⭐ 10.1k • 🔱 661 • 40s ago
 
 ---
 
@@ -681,7 +685,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.4k • 🔱 485 • 10h ago
+⭐ 5.4k • 🔱 485 • 11h ago
 
 ---
 
@@ -691,7 +695,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.3k • 🔱 406 • 2h ago
+⭐ 5.3k • 🔱 408 • 3h ago
 
 ---
 
@@ -701,7 +705,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 352 • 10h ago
+⭐ 5.0k • 🔱 352 • 11h ago
 
 ---
 
@@ -715,21 +719,21 @@ Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based 
 
 ---
 
-**[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)**
-
-Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-
-⭐ 3.5k • 🔱 367 • 13d ago
-
----
-
 **[EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)**
 
 Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 426 • 7h ago
+⭐ 3.5k • 🔱 426 • 8h ago
+
+---
+
+**[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)**
+
+Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+
+⭐ 3.5k • 🔱 367 • 13d ago
 
 ---
 
