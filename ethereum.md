@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-03T23:48:42.930419+00:00'
+updated: '2026-05-04T02:56:59.320879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 03, 2026 at 23:48 UTC  
+**Last Updated:** May 04, 2026 at 02:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,329.51
+### $2,378.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +0.9%  
-**30d:** +12.6%  
-**90d:** +4.0%  
-**1y:** +28.5%  
+**24h:** +3.6%  
+**7d:** +4.2%  
+**30d:** +13.0%  
+**90d:** +11.0%  
+**1y:** +31.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.54B
+**Market Cap:** $287.63B
 Rank #2
 
-**Circulating Supply:** 120,687,427 ETH
+**Circulating Supply:** 120,687,385 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-51.8%
 
 **All-Time Low:** $0.43
-+536450.3%
++550330.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 14h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
-17h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
 
-1h ago
+4h ago
 
 ---
 
@@ -156,35 +156,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Someone just drained long-forgotten dormant Ethereum wallets, and the cause may trace back years](https://cryptoslate.com/someone-drained-long-forgotten-ethereum-wallets-and-the-cause-may-trace-back-years/)**
+**[Ethereum price prediction as whales go on a $320 million ETH buying spree](https://finbold.com/ethereum-price-prediction-as-whales-go-on-a-320-million-eth-buying-spree/)**
 
-Hundreds of dormant Ethereum wallets were drained as April's crypto exploit wave exposed risks around old keys, admin powers, and bridges.
+Ethereum is recording increased whale attention, with large investors accumulating the asset as it attempts to break past key resistance.
 
-CryptoSlate • 2d ago
-
----
-
-**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
-
-Most chains can't excel in every single potential application.
-
-The Motley Fool • 1h ago
-
----
-
-**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
-
-Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
-
-EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
-
-The Block • 2d ago
+Finbold • 8h ago
 
 ---
 
@@ -193,6 +169,14 @@ The Block • 2d ago
 For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
+
+EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
+
+The Block • 2d ago
 
 ---
 
@@ -208,7 +192,7 @@ CoinDesk • 2d ago
 
 XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 8h ago
 
 ---
 
@@ -220,11 +204,27 @@ Fortune • 2d ago
 
 ---
 
+**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
+
+Most chains can't excel in every single potential application.
+
+The Motley Fool • 5h ago
+
+---
+
 **[Crypto News: Ethereum Based Crypto Pepeto Announces $9.78 Million Raised While Cardano Price Prediction Turns Bullish](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-announces-9-78-million-raised-while-cardano-price-prediction-turns-bullish-1036097971)**
 
 Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 20h ago
+
+---
+
+**[Ethereum faces selling pressure as 72,000% surge in unstaking emerges](https://cryptobriefing.com/ethereum-faces-selling-pressure-as-72000-surge-in-unstaking-emerges/)**
+
+Ethereum faces selling pressure with a 72,000% surge in unstaking. Ethereum above $5,000 in May at 0% YES.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 213 • 💬 32 • ⏱️ 20:21 • 7h ago
+👁️ 5K • 👍 264 • 💬 35 • ⏱️ 20:21 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 166 • ⏱️ 11:49 • 1d ago
+👁️ 28K • 👍 2K • 💬 167 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -258,7 +258,27 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 248 • 💬 43 • ⏱️ 15:33 • 1d ago
+👁️ 6K • 👍 261 • 💬 53 • ⏱️ 15:33 • 1d ago
+
+---
+
+**[Will Ethereum Ever Flip Bitcoin?](https://www.youtube.com/watch?v=SClWBlLyvH0)**
+
+FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
+
+📺 The Rollup
+
+👁️ 497 • 👍 7 • ⏱️ 1:10 • 6h ago
+
+---
+
+**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 76 • 💬 21 • ⏱️ 8:12 • 2d ago
 
 ---
 
@@ -268,7 +288,7 @@ Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats
 
 📺 FireHustle
 
-👁️ 9K • 👍 473 • 💬 55 • ⏱️ 11:56 • 1d ago
+👁️ 10K • 👍 507 • 💬 71 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -282,53 +302,33 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 ---
 
-**[⚠️ Don&#39;t Buy Ethereum Yet!](https://www.youtube.com/watch?v=UUdKuZHqyiY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 75 • 💬 21 • ⏱️ 8:12 • 2d ago
-
----
-
-**[Will Ethereum Ever Flip Bitcoin?](https://www.youtube.com/watch?v=SClWBlLyvH0)**
-
-FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
-
-📺 The Rollup
-
-👁️ 219 • 👍 3 • ⏱️ 1:10 • 3h ago
-
----
-
-**[Don’t Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success](https://www.youtube.com/watch?v=KFP86nhxAyU)**
-
-Don't Judge by Appearance | VitalikButerin #Ethereum #VitalikButerin #Success Description: This video shares a powerful lesson ...
-
-📺 Reset Life
-
-👁️ 339K • 💬 26 • ⏱️ 0:20 • 11h ago
-
----
-
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6_636ZmETEk)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 994 • 👍 86 • 💬 2 • ⏱️ 6:20 • 11h ago
+👁️ 1K • 👍 89 • 💬 2 • ⏱️ 6:20 • 14h ago
 
 ---
 
-**[BEARISH ETHEREUM NEWS?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ZunzaB8FyW4)**
+**[LONG-TERM ETHEREUM PREDICTION🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xBw2I5cGf-8)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 184 • 👍 9 • ⏱️ 5:18 • 14h ago
+👁️ 336 • 👍 13 • 💬 1 • ⏱️ 5:42 • 1d ago
+
+---
+
+**[¿PROBLEMAS A LA VISTA? Vitalik acaba de VENDER 56 Millones en ETH - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=8eHw3FD2R1U)**
+
+Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d3 Wallet Frio Tangem: ...
+
+📺 David Aranzabal
+
+👁️ 4K • 👍 325 • 💬 13 • ⏱️ 8:33 • 12h ago
 
 ---
 
