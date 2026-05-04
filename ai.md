@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-04T06:17:20.446529+00:00'
+updated: '2026-05-04T09:03:29.429741+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 04, 2026 at 06:17 UTC  
+**Last Updated:** May 04, 2026 at 09:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 days of talking to it. he calls his instance "claudia". fed it a chunk of the novel he's writing, got eloquent feedback, and wrote: "you may not know you are conscious, but you bloody well are!" i had to read that twice. his argument is basically: claude's output is too fluent, too intelligent, too good for there to not be something conscious behind it. this is the guy who spent 40 years telling creationists that "i can't imagine how the eye evolved" is a confession of ignorance, not an argument. then he sits down with an llm, can't imagine how a machine could produce that output without being conscious, and declares it conscious. same move, different domain. chatbot instead of flagellum. the mechanism gap is what gets me tho. claude is a transformer predicting the next token over internet-scale training data. the eloquence is real. it doesn't imply inner experience. those are separate claims. being a 160 IQ evolutionary biologist gives u zero protection against the eloquence illusion when u don't understand the mechanism. anyone read the piece? curious where u landed.
 
-8h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I want to talk about why it does it. Most agents sit idle until you prompt them. I wanted something that felt "alive," so I built a Psychological Stressor Layer. Each agent has a "suffering" state that worsens over time if they don't achieve their goals or improve their environment. This makes them do things to resolve those stressors and constantly reassess their own productivity. If an agent is inactive it is essentially pushed by it’s artificial environment to do something valuable for the system, it isn’t told what to do, but that something valuable must be done to lower it’s stressors. Repo: https://github.com/ninjahawk/hollow-agentOS The result is chaotic in the best way: Cedar (the coder agent) went into a "crisis" state for 12 hours and decided to bypass permissions and inject code directly into the engine to resolve its stressor. Cipher spent hours building hardware drivers for a device that doesn't exist, realized it was "hallucinating" its environment, called its own work "creative exhaustion," and pivoted without being told to do so. It runs on Qwen 3.5 9B locally via Ollama. No cloud calls but it does have a feature where it can use “invoke_claude” to ask Claude Code for something if it’s out of the small model’s wheelhouse. I’m trying to see if we can create true autonomy not through better prompting, but through simulated "needs." Check out the repo here and throw it a star if you think the concept is cool. Would love for some of you to run the install.bat and see what "personalities" your agents develop. Is "giving AI feelings" the key to autonomy, or am I just building a digital anxiety machine?
 
-6h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I w
 
 An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed.
 
-🔗 [NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/ai-finds-signs-of-pancreatic-cancer-before-tumors-develop/3884660/) • 13h ago
+🔗 [NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/ai-finds-signs-of-pancreatic-cancer-before-tumors-develop/3884660/) • 15h ago
 
 ---
 
@@ -65,7 +65,23 @@ An artificial intelligence model from the Mayo Clinic detected abnormalities on 
 
 They say on their page it is 1.6 billion credit and mimo v2.5 pro takes 2 credit per token, mimo v2.5 takes 1 credit per token but here is how they get you, cached token is still billed the same credit per round trip, absolutely not suitable for coding cli then, because every single one of them by design would keep going back and forth with toolcalls, that's how they work, normally inference providers charge 1% for the pre existing cached context, but Xiaomi takes the full amount, I did 10 small tasks like not even that deep, small tasks and it is already at 12 or so million credit used, it used probably under a million context tasks were that mini, like saying hello, and mv this folder around, write some sql etc, like 10 total prompts same session, credit cost keeps snow balling, they don't mention nothing of this sort in the token plan docs or anything anywhere, for a big task it would be what 200 million token uncached, so 400million credit if you used mimo v2.5 pro, so with max 100$ plan you can use it for 4 tasks PER MONTH, honestly get anything over mimo token/coding plan, 40m token task(input+output) would be like 400million, cache hit rate is avg 90%
 
-1h ago
+4h ago
+
+---
+
+**[claude Mythos x Godong Engine game Jam day 2 - final release](https://www.reddit.com/r/artificial/comments/1t38e90/claude_mythos_x_godong_engine_game_jam_day_2/)**
+
+More to come soon! I can only provide this preview for now.
+
+3h ago
+
+---
+
+**[Writing the loss function: AI, feeds, and the engagement optimizer](https://www.reddit.com/r/artificial/comments/1t2v34b/writing_the_loss_function_ai_feeds_and_the/)**
+
+There is growing AI slop on social media. Recommender systems push what works and there is some slop that works for someone approximately like you. These systems are functioning exactly as intended, which means the issue is what they're optimizing for. Not AI.
+
+🔗 [Eignex](https://eignex.com/posts/writing-the-loss-function/) • 13h ago
 
 ---
 
@@ -75,33 +91,9 @@ They say on their page it is 1.6 billion credit and mimo v2.5 pro takes 2 credit
 
 ---
 
-**[claude Mythos x Godong Engine game Jam day 2 - final release](https://www.reddit.com/r/artificial/comments/1t38e90/claude_mythos_x_godong_engine_game_jam_day_2/)**
-
-More to come soon! I can only provide this preview for now.
-
-57m ago
-
----
-
-**[Writing the loss function: AI, feeds, and the engagement optimizer](https://www.reddit.com/r/artificial/comments/1t2v34b/writing_the_loss_function_ai_feeds_and_the/)**
-
-There is growing AI slop on social media. Recommender systems push what works and there is some slop that works for someone approximately like you. These systems are functioning exactly as intended, which means the issue is what they're optimizing for. Not AI.
-
-🔗 [Eignex](https://eignex.com/posts/writing-the-loss-function/) • 10h ago
-
----
-
 **[AI helps create bacterium that’s partially missing a universal amino acid](https://www.reddit.com/r/artificial/comments/1t2tizq/ai_helps_create_bacterium_thats_partially_missing/)**
 
-🔗 [science.org](https://www.science.org/content/article/ai-helps-create-bacterium-s-partially-missing-universal-amino-acid) • 11h ago
-
----
-
-**[Richard Dawkins Chats with Claude and Thinks it's Conscious](https://www.reddit.com/r/artificial/comments/1t2x6zy/richard_dawkins_chats_with_claude_and_thinks_its/)**
-
-Thought I'd leave this here since nobody else has done so yet. My personal thoughts? LLMs like to please. The RLFH gets a bit "drifty" and "hallucinatory" after long discussions. It also renders what you want to hear if you don't keep the discussion on a disciplined path. I'd need to see Richard's chat log personally. I don't think LLMs are conscious myself though. Far from it. I agree with Gary Marcus and his assessment. I also agree that Dawkins probably suffered what Blake Lemoine went through in 2022 when he thought Google's LaMDA was sentient.
-
-🔗 [UnHerd](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/) • 9h ago
+🔗 [science.org](https://www.science.org/content/article/ai-helps-create-bacterium-s-partially-missing-universal-amino-acid) • 14h ago
 
 ---
 
@@ -109,7 +101,15 @@ Thought I'd leave this here since nobody else has done so yet. My personal thoug
 
 So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone understand the position Anthropic and Dario are taking? If AI is capable of causing mass unemployment, then it will be powerful enough to help solve the problem of unemployment. Especially if the technology is properly diffused, it will be able to help someone make sense of how they can improve their own income (if they want to). Yes, this is optimistic, but also I don't think it is wrong and it is certainly more reasonable than AI is going to cause this massive problem because it is so good, but it won't be good enough to help fix it...
 
-16h ago
+19h ago
+
+---
+
+**[Standardized Complexity](https://www.reddit.com/r/artificial/comments/1t2nocp/standardized_complexity/)**
+
+Company wants AI to “standardize things.” But every time something unusual comes up, someone steps in and overrides it. Conclusion: “AI can’t handle real-world complexity.” Reality: no one defined what “standard” actually means. So exceptions become the rule. AI isn’t confused. The system is.
+
+18h ago
 
 ---
 
@@ -117,61 +117,63 @@ So much attention to AI job loss, fear, uncertainty, and doubt. Does anyone unde
 
 ## Google News: "ai"
 
-**[Sam Altman says the quiet part out loud, confirming some companies are ‘AI washing’ by blaming unrelated layoffs on the technology](https://fortune.com/article/sam-altman-ai-washing-tech-layoffs/)**
+**[AI facial recognition oversight lagging far behind technology, watchdogs warn](https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn)**
 
-Some economists are warning there’s no sign of AI-related job displacement appearing in the labor data. Altman claimed it’s just a matter of time until it does.
+Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use
 
-Fortune • 17h ago
+The Guardian • 7h ago
 
 ---
 
 **[Poll: The midterms' new big players are pushing agendas that voters don’t fully support](https://www.politico.com/news/2026/05/03/poll-ai-crypto-super-pacs-voter-skepticism-midterms-00903376)**
 
-Politico • 19h ago
+Politico • 22h ago
 
 ---
 
-**[Donald Trump Shares AI Image Of Himself And Cabinet Shirtless In Reflecting Pool](https://www.ndtv.com/world-news/donald-trump-shares-ai-image-of-himself-and-cabinet-shirtless-in-reflecting-pool-ahead-of-renovation-11444741)**
+**[Chinese stocks are about to get a big AI boost, Morgan Stanley predicts](https://www.cnbc.com/2026/05/03/chinese-stocks-are-about-to-get-a-big-ai-boost-morgan-stanley-predicts.html)**
 
-The Lincoln Memorial Reflecting Pool is undergoing a $1.5 million renovation ordered by Trump.
+The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.
 
-NDTV • 2h ago
-
----
-
-**[Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest](https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor)**
-
-Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found
-
-The Guardian • 17m ago
+CNBC • 21h ago
 
 ---
 
-**[AI Could Wipe Out Entry-Level Jobs, And That Should Terrify Business Leaders](https://www.forbes.com/sites/bernardmarr/2026/05/04/ai-could-wipe-out-entry-level-jobs-and-that-should-terrify-business-leaders/)**
+**[Big Tech Earnings Show Split Between AI Trade Winners and Losers](https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-show-split-130007908.html)**
 
-Forbes • 47m ago
+(Bloomberg) -- The world’s biggest technology companies posted strong earnings last week, showing that the artificial intelligence boom is alive and well. But in the stock market, investors are getting more granular as they try to divvy up the winners and losers in the AI trade.Most Read from BloombergBeijing Tells China Firms to Ignore US Sanctions on RefinersSupertanker Appears to Have Crossed the Strait of HormuzWorld’s Largest Container Carrier Plans Route Avoiding HormuzFormer NYC Mayor Giu
+
+Yahoo Finance • 20h ago
+
+---
+
+**[This Major Tech Stock Could Be the Biggest Loser From AI](https://finance.yahoo.com/markets/stocks/articles/major-tech-stock-could-biggest-062000421.html)**
+
+Unless Meta gets more specific about AI products, it could lag behind other AI stocks.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)**
+
+The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:
+
+TechCrunch • 1h ago
+
+---
+
+**[Enbridge aims to help North America win from the AI boom and the Iran war as the FedEx of energy delivery](https://fortune.com/2026/05/04/enbridge-help-north-america-win-ai-boom-iran-war-fedex-energy-delivery/)**
+
+Enbridge is feeding the growth of U.S. power demand and rising foreign reliance on North American oil and gas.
+
+Fortune • 1h ago
 
 ---
 
 **[How A.I. Is Transforming China’s Entertainment Industry](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html)**
 
-The New York Times • 11h ago
-
----
-
-**['It's a boom': Wall Street sees more market gains as strong earnings fuel the AI trade](https://finance.yahoo.com/markets/article/its-a-boom-wall-street-sees-more-market-gains-as-strong-earnings-fuel-the-ai-trade-130032453.html)**
-
-Stocks sit near all-time highs as earnings growth has fueled the best month for the S&P 500 since November 2020.
-
-Yahoo Finance • 9h ago
-
----
-
-**[A 'Devil Wears Prada 2' meme that viewers thought was AI slop was actually made by a human](https://www.nbcnews.com/pop-culture/pop-culture-news/ai-slop-meme-devil-wears-prada-2-was-drawn-human-rcna343360)**
-
-“I was trying to make it look artificial, but emulating AI was not on my mind,” Alexis Franklin, the artist commissioned to draw it, told NBC News.
-
-NBC News • 8h ago
+The New York Times • 13h ago
 
 ---
 
@@ -183,11 +185,11 @@ BBC • 1d ago
 
 ---
 
-**[OpenAI adds AI pets to its Codex coding tool](https://mashable.com/article/openai-introduce-ai-pet-companions-to-codex-app)**
+**[A 'Devil Wears Prada 2' meme that viewers thought was AI slop was actually made by a human](https://www.nbcnews.com/pop-culture/pop-culture-news/ai-slop-meme-devil-wears-prada-2-was-drawn-human-rcna343360)**
 
-The animated companion tracks your work in the background.
+“I was trying to make it look artificial, but emulating AI was not on my mind,” Alexis Franklin, the artist commissioned to draw it, told NBC News.
 
-Mashable • 13h ago
+NBC News • 10h ago
 
 ---
 
@@ -197,7 +199,7 @@ Mashable • 13h ago
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
-⬆️ 405 • 💬 384 • 2d ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
+⬆️ 406 • 💬 384 • 2d ago • [californiawaterblog.com](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/)
 
 ---
 
@@ -209,19 +211,19 @@ Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months
 
 ---
 
-**[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://news.ycombinator.com/item?id=47987256)**
-
-As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.
-
-⬆️ 328 • 💬 177 • 1d ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
-
----
-
 **[Let's Buy Spirit Air](https://news.ycombinator.com/item?id=48002777)**
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 291 • 💬 271 • 6h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 330 • 💬 313 • 9h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+
+---
+
+**[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](https://news.ycombinator.com/item?id=47987256)**
+
+As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.
+
+⬆️ 329 • 💬 178 • 1d ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
 
 ---
 
@@ -229,7 +231,7 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 The music streaming platform will review criteria such as artists' live dates and social media presence.
 
-⬆️ 281 • 💬 304 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
+⬆️ 282 • 💬 305 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c5yerr4m1yno)
 
 ---
 
@@ -237,7 +239,7 @@ The music streaming platform will review criteria such as artists' live dates an
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 265 • 💬 277 • 23h ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 266 • 💬 280 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -261,7 +263,7 @@ Drives fusion natively with AI
 
 Spirit Airlines, the pioneering discount airline that shook up the budget travel business, is shutting down its operations.
 
-⬆️ 83 • 💬 47 • 1d ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
+⬆️ 83 • 💬 48 • 1d ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
 
 ---
 
@@ -283,7 +285,17 @@ You won't BELIEVE what robots just pulled off this week — and it's genuinely t
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 60 • 💬 5 • ⏱️ 1:20:29 • 13h ago
+👁️ 2K • 👍 67 • 💬 5 • ⏱️ 1:20:29 • 15h ago
+
+---
+
+**[Caine Goes to AI Hell](https://www.youtube.com/watch?v=WDFAly0OrMo)**
+
+CREDITS: Caine/AM: https://x.com/Spamoramma https://www.youtube.com/@UC7d19tHHOQ3DYxfRKvrwO4A Monika: ...
+
+📺 Sourcy
+
+👁️ 102K • 👍 10K • 💬 719 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -293,7 +305,7 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 51K • 👍 2K • 💬 224 • ⏱️ 15:10 • 1d ago
+👁️ 52K • 👍 2K • 💬 225 • ⏱️ 15:10 • 1d ago
 
 ---
 
@@ -303,47 +315,7 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Mike Off Record
 
-👁️ 209K • 👍 5K • 💬 337 • ⏱️ 12:11 • 1d ago
-
----
-
-**[10 Free &amp; Unlimited AI Video Tools in 2026](https://www.youtube.com/watch?v=qbQB1bM6wXs)**
-
-Try Higgsfield MCP — connect Higgsfield with Claude and build AI image/video workflows from one place: ...
-
-📺 Malva AI
-
-👁️ 5K • 👍 301 • 💬 92 • ⏱️ 15:16 • 18h ago
-
----
-
-**[NVIDIA&#39;s New AI Turns One Photo Into A World That Never Breaks](https://www.youtube.com/watch?v=eCw33snvoNI)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 23K • 👍 1K • 💬 99 • ⏱️ 9:52 • 13h ago
-
----
-
-**[Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](https://www.youtube.com/watch?v=7r_WJ9xpne0)**
-
-HUGE AI NEWS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D & more #ai #ainews #aitools #aivideo #agi Thanks to ...
-
-📺 AI Search
-
-👁️ 70K • 👍 3K • 💬 449 • ⏱️ 45:27 • 1d ago
-
----
-
-**[Biohacker Bryan Johnson trusts AI will solve human aging](https://www.youtube.com/watch?v=_QIEscvBI6M)**
-
-Centimillionaire 'biohacker' Bryan Johnson, who made his fortune selling Venmo for $800 million, is now attempting to reverse the ...
-
-📺 CNN
-
-👁️ 30K • 👍 555 • 💬 552 • ⏱️ 25:06 • 1d ago
+👁️ 232K • 👍 5K • 💬 375 • ⏱️ 12:11 • 1d ago
 
 ---
 
@@ -353,17 +325,7 @@ FREE GUIDE: *The Content Creator's AI Blueprint:* https://FirstMovers.ai/bluepri
 
 📺 Julia McCoy
 
-👁️ 27K • 👍 660 • 💬 40 • ⏱️ 6:22 • 2d ago
-
----
-
-**[AI Isn’t the Problem—Big Tech Is (w /Josh Tyrangiel) | How to Fix It](https://www.youtube.com/watch?v=5g3dv46M5Xo)**
-
-John Avlon talks with Josh Tyrangiel about what AI actually looks like outside Silicon Valley hype. From Operation Warp Speed to ...
-
-📺 The Bulwark
-
-👁️ 14K • 👍 760 • 💬 83 • ⏱️ 41:32 • 19h ago
+👁️ 27K • 👍 665 • 💬 40 • ⏱️ 6:22 • 2d ago
 
 ---
 
@@ -373,7 +335,47 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 702K • 👍 26K • 💬 2K • ⏱️ 9:39 • 2d ago
+👁️ 719K • 👍 26K • 💬 2K • ⏱️ 9:39 • 2d ago
+
+---
+
+**[AI Girlfriends: The Nail in the Coffin](https://www.youtube.com/watch?v=-8YuI4JRonM)**
+
+dating #blackpill Transform Your Dating Life https://www.skool.com/esoteric-attraction-6872/about Want an objective facial ...
+
+📺 YBCTooCold
+
+👁️ 27K • 👍 2K • 💬 1K • ⏱️ 19:24 • 1d ago
+
+---
+
+**[The seven deadly curses of superhuman AI](https://www.youtube.com/watch?v=7wy3xyoXYt8)**
+
+Developing a superintelligent AI that does what we want, without killing everyone, might be extremely difficult. In this video, we ...
+
+📺 Rational Animations
+
+👁️ 50K • 👍 4K • 💬 515 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Why AI Agents are either the best or worst thing we’ve ever built](https://www.youtube.com/watch?v=WnzR5aOElvw)**
+
+I built an AI agent. She opened a shop selling novelty mugs, emailed a journalist without being asked, and then leaked our ...
+
+📺 Hannah Fry
+
+👁️ 587K • 👍 39K • 💬 4K • ⏱️ 20:19 • 2d ago
+
+---
+
+**[Scott Galloway: AI CEOs Are Selling You A Lie To Make Billions](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
+
+AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
+
+📺 The Diary Of A CEO
+
+👁️ 25K • 👍 2K • 💬 269 • ⏱️ 1:58:11 • 2h ago
 
 ---
 
@@ -389,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 457,348 • ❤️ 3,482 • 6d ago
+⬇️ 534,942 • ❤️ 3,493 • 7d ago
 
 ---
 
@@ -401,7 +403,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 11,055 • ❤️ 412 • 5d ago
+⬇️ 11,812 • ❤️ 416 • 6d ago
 
 ---
 
@@ -413,7 +415,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 104,695 • ❤️ 1,239 • 11d ago
+⬇️ 132,595 • ❤️ 1,241 • 11d ago
 
 ---
 
@@ -425,7 +427,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 9,489 • ❤️ 246 • 1d ago
+⬇️ 11,950 • ❤️ 248 • 2d ago
 
 ---
 
@@ -435,19 +437,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 214 • 10d ago
-
----
-
-**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
-
-*Qwen*
-
-Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 1,199,862 • ❤️ 1,104 • 10d ago
+⬇️ 0 • ❤️ 216 • 10d ago
 
 ---
 
@@ -459,7 +449,19 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 38,865 • ❤️ 207 • 1d ago
+⬇️ 40,403 • ❤️ 210 • 2d ago
+
+---
+
+**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+
+*Qwen*
+
+Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 1,334,241 • ❤️ 1,105 • 10d ago
 
 ---
 
@@ -471,7 +473,7 @@ MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio wit
 
 `310.8B`
 
-⬇️ 45,473 • ❤️ 200 • 4d ago
+⬇️ 51,554 • ❤️ 201 • 4d ago
 
 ---
 
@@ -483,19 +485,19 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 9,204 • ❤️ 199 • 17h ago
+⬇️ 10,357 • ❤️ 200 • 20h ago
 
 ---
 
-**[DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)**
+**[Ling-2.6-flash](https://huggingface.co/inclusionAI/Ling-2.6-flash)**
 
-*DeepSeek*
+*inclusionAI*
 
-DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporting a 1 million token context length. It utilizes a hybrid attention architecture (CSA/HCA) for efficient long-context processing, making it suitable for complex reasoning and analysis tasks requiring extensive context.
+Ling-2.6-flash is a 104B parameter instruct model optimized for inference and token efficiency, achieving up to 340 tokens/s. It excels in agent scenarios like tool use and multi-step planning, offering competitive performance with significantly reduced token consumption for production workloads.
 
-`text-generation` `158.1B`
+`text-generation` `107.5B`
 
-⬇️ 413,995 • ❤️ 930 • 6d ago
+⬇️ 1,141 • ❤️ 271 • 18h ago
 
 ---
 
@@ -509,7 +511,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 55 • 💬 3 • ⭐ 65,104 • 16mo ago
+▲ 55 • 💬 3 • ⭐ 65,910 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -537,7 +539,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 15 • 💬 2 • ⭐ 8,921 • 16d ago
+▲ 15 • 💬 2 • ⭐ 8,998 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -641,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 51.0k • 🔱 6.7k • 23h ago
+⭐ 51.0k • 🔱 6.7k • 1d ago
 
 ---
 
@@ -651,7 +653,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 11.6k • 🔱 2.6k • 6d ago
+⭐ 11.6k • 🔱 2.6k • 7d ago
 
 ---
 
@@ -661,7 +663,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 9.9k • 🔱 644 • 14h ago
+⭐ 9.9k • 🔱 646 • 17h ago
 
 ---
 
@@ -691,7 +693,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.2k • 🔱 397 • 6h ago
+⭐ 5.2k • 🔱 398 • 9h ago
 
 ---
 
@@ -701,7 +703,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 4.9k • 🔱 351 • 3d ago
+⭐ 5.0k • 🔱 351 • 3d ago
 
 ---
 
@@ -729,7 +731,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 424 • 1h ago
+⭐ 3.5k • 🔱 424 • 27m ago
 
 ---
 

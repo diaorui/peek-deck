@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-04T06:17:20.460751+00:00'
+updated: '2026-05-04T09:03:29.444627+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 06:17 UTC  
+**Last Updated:** May 04, 2026 at 09:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,378.93
+### $2,361.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** +3.6%  
-**30d:** +12.4%  
-**90d:** +10.4%  
-**1y:** +30.4%  
+**24h:** +2.0%  
+**7d:** +3.1%  
+**30d:** +11.9%  
+**90d:** +9.9%  
+**1y:** +29.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.26B
+**Market Cap:** $284.87B
 Rank #2
 
 **Circulating Supply:** 120,687,385 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.0%
+-52.3%
 
 **All-Time Low:** $0.43
-+547734.9%
++544720.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+4h ago
 
 ---
 
@@ -84,11 +84,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
+
+I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
+
+11h ago
+
+---
+
 **[North Korea Stole $71 Million From KelpDAO. Now a Law Firm Is Trying to Steal It From the Victims](https://www.reddit.com/r/ethereum/comments/1t2gcbc/north_korea_stole_71_million_from_kelpdao_now_a/)**
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 21h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 1d ago
 
 ---
 
@@ -97,14 +105,6 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
 
 1d ago
-
----
-
-**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
-
-I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
-
-8h ago
 
 ---
 
@@ -154,13 +154,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
 
-24/7 Wall St. • 11h ago
+24/7 Wall St. • 14h ago
 
 ---
 
 **[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
 ethereum.org • 1d ago
+
+---
+
+**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
+
+Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -188,6 +196,14 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum Price Tracks Bitcoin Rally, Targets Crucial Break Higher](https://www.tradingview.com/news/newsbtc:bc2c05c5b094b:0-ethereum-price-tracks-bitcoin-rally-targets-crucial-break-higher/)**
+
+Ethereum price started a fresh increase and remained stable above $2,350. ETH is now consolidating and might aim for more gains if it clears $2,400.Ethereum Price Aims for Fresh GainsEthereum price managed to stay above the $2,300 support and started a fresh increase, like Bitcoin. ETH price gained…
+
+TradingView • 5h ago
+
+---
+
 **[Current price of Ethereum for May 1, 2026](https://fortune.com/article/price-of-ethereum-05-01-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -196,19 +212,11 @@ Fortune • 2d ago
 
 ---
 
-**[Crypto News: Ethereum Based Crypto Pepeto Announces $9.78 Million Raised While Cardano Price Prediction Turns Bullish](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-announces-9-78-million-raised-while-cardano-price-prediction-turns-bullish-1036097971)**
-
-Dubai, UAE, May  03, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just crossed $9,782,000 in presale funding, the fastest fill of any to...
-
-markets.businessinsider.com • 23h ago
-
----
-
 **[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
 
 Most chains can't excel in every single potential application.
 
-The Motley Fool • 7h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -216,15 +224,7 @@ The Motley Fool • 7h ago
 
 Ethereum faces selling pressure with a 72,000% surge in unstaking. Ethereum above $5,000 in May at 0% YES.
 
-Crypto Briefing • 5h ago
-
----
-
-**[Ethereum price prediction as whales go on a $320 million ETH buying spree](https://finbold.com/ethereum-price-prediction-as-whales-go-on-a-320-million-eth-buying-spree/)**
-
-Ethereum is recording increased whale attention, with large investors accumulating the asset as it attempts to break past key resistance.
-
-Finbold • 12h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 308 • 💬 37 • ⏱️ 20:21 • 14h ago
+👁️ 7K • 👍 330 • 💬 37 • ⏱️ 20:21 • 16h ago
 
 ---
 
@@ -248,27 +248,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 171 • ⏱️ 11:49 • 1d ago
-
----
-
-**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 264 • 💬 54 • ⏱️ 15:33 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Geht es weiter in Richtung 85 - 86k oder jetzt Abverkauf?](https://www.youtube.com/watch?v=2yq-dnf1ft8)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 1K • 👍 373 • 💬 35 • ⏱️ 10:37 • 1h ago
+👁️ 30K • 👍 2K • 💬 173 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -278,27 +258,27 @@ Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats
 
 📺 FireHustle
 
-👁️ 10K • 👍 532 • 💬 72 • ⏱️ 11:56 • 1d ago
+👁️ 11K • 👍 542 • 💬 72 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[Will Ethereum Ever Flip Bitcoin?](https://www.youtube.com/watch?v=SClWBlLyvH0)**
+**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
 
-FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 The Rollup
+📺 Savvy Finance
 
-👁️ 603 • 👍 7 • ⏱️ 1:10 • 10h ago
+👁️ 6K • 👍 272 • 💬 54 • ⏱️ 15:33 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=zvRWh-h6Z0A)**
+**[Bitcoin &amp; Ethereum. Geht es weiter in Richtung 85 - 86k oder jetzt Abverkauf?](https://www.youtube.com/watch?v=2yq-dnf1ft8)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
 
-📺 Crypto Gyan
+📺 Krypto Trading & Investing
 
-👁️ 454 • 👍 73 • 💬 5 • ⏱️ 7:56 • 3h ago
+👁️ 3K • 👍 505 • 💬 87 • ⏱️ 10:37 • 4h ago
 
 ---
 
@@ -308,7 +288,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 669 • 👍 85 • 💬 7 • ⏱️ 9:42 • 4h ago
+👁️ 1K • 👍 93 • 💬 7 • ⏱️ 9:42 • 7h ago
 
 ---
 
@@ -318,17 +298,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 76 • 💬 21 • ⏱️ 8:12 • 2d ago
+👁️ 2K • 👍 77 • 💬 21 • ⏱️ 8:12 • 2d ago
 
 ---
 
-**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
+**[¿PROBLEMAS A LA VISTA? Vitalik acaba de VENDER 56 Millones en ETH - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=8eHw3FD2R1U)**
 
-See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
+Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d3 Wallet Frio Tangem: ...
 
-📺 Milk Road
+📺 David Aranzabal
 
-👁️ 2K • 👍 89 • 💬 10 • ⏱️ 15:10 • 1d ago
+👁️ 5K • 👍 352 • 💬 13 • ⏱️ 8:33 • 18h ago
+
+---
+
+**[LONG-TERM ETHEREUM PREDICTION🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xBw2I5cGf-8)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 370 • 👍 13 • 💬 1 • ⏱️ 5:42 • 1d ago
+
+---
+
+**[Will Ethereum Ever Flip Bitcoin?](https://www.youtube.com/watch?v=SClWBlLyvH0)**
+
+FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
+
+📺 The Rollup
+
+👁️ 634 • 👍 7 • ⏱️ 1:10 • 13h ago
 
 ---
 
