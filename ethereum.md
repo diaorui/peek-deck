@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-04T15:30:32.070965+00:00'
+updated: '2026-05-04T17:14:47.612535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 15:30 UTC  
+**Last Updated:** May 04, 2026 at 17:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,361.37
+### $2,358.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +2.6%  
-**30d:** +11.3%  
-**90d:** +9.3%  
-**1y:** +29.1%  
+**24h:** +1.4%  
+**7d:** +3.3%  
+**30d:** +12.1%  
+**90d:** +10.1%  
+**1y:** +30.0%  
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
-
----
-
-**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
-
-1m ago
+12h ago
 
 ---
 
@@ -86,7 +80,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 4h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 6h ago
+
+---
+
+**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
+
+1h ago
+
+---
+
+**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
+
+I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
+
+19h ago
 
 ---
 
@@ -95,14 +103,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
-
-I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
-
-17h ago
 
 ---
 
@@ -158,15 +158,7 @@ ethereum.org • 2d ago
 
 XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
 
-24/7 Wall St. • 20h ago
-
----
-
-**[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether)**
-
-Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
-
-CoinDesk • 1h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -174,7 +166,15 @@ CoinDesk • 1h ago
 
 Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether)**
+
+Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
@@ -196,29 +196,29 @@ Yahoo Finance • 2d ago
 
 **[Tom Lee’s BitMine Swallows $23 Million in Ethereum as Foundation Sells 10,000 More Coins to Fund Development](https://www.tipranks.com/news/tom-lees-bitmine-swallows-23-million-in-ethereum-as-foundation-sells-10000-more-coins-to-fund-development)**
 
-TipRanks • 1h ago
+TipRanks • 3h ago
 
 ---
 
-**[Ethereum Foundation's recent ETH sales to Tom Lee's Bitmine hit $47 million after latest deal](https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal)**
+**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
 
-EF said the funds will go towards operations, activities, protocol R&D, ecosystem development, community grant funding and more.
+The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
 
-The Block • 2d ago
+CoinDesk • 2d ago
+
+---
+
+**[Market Analyst Predicts Bitcoin And Ethereum Prices For The Next 3 Quarters](https://www.tradingview.com/news/newsbtc:b3799c4b4094b:0-market-analyst-predicts-bitcoin-and-ethereum-prices-for-the-next-3-quarters/)**
+
+Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
+
+TradingView • 44m ago
 
 ---
 
 **[Ethereum Whale Buying at $322M Points to Accumulation Phase](https://www.investing.com/analysis/ethereum-whale-buying-at-322m-points-to-accumulation-phase-200679628)**
 
-Investing.com • 1h ago
-
----
-
-**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
-
-Most chains can't excel in every single potential application.
-
-The Motley Fool • 17h ago
+Investing.com • 3h ago
 
 ---
 
@@ -232,7 +232,7 @@ This new data is huge for bitcoin, for ethereum and for the rest of crypto! A vi
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 498 • 💬 75 • ⏱️ 14:06 • 4h ago
+👁️ 5K • 👍 498 • 💬 75 • ⏱️ 14:06 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 385 • 💬 51 • ⏱️ 20:21 • 23h ago
+👁️ 9K • 👍 385 • 💬 51 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 194 • 👍 12 • 💬 2 • ⏱️ 4:53 • 6h ago
+👁️ 194 • 👍 12 • 💬 2 • ⏱️ 4:53 • 8h ago
 
 ---
 
@@ -292,7 +292,7 @@ crypto crashed = cheap GPUs for everyone #gaming #crypto #ethereum #pcgaming #Sh
 
 📺 The Insight Capsule
 
-👁️ 549 • 👍 25 • 💬 2 • ⏱️ 1:20 • 6h ago
+👁️ 549 • 👍 25 • 💬 2 • ⏱️ 1:20 • 8h ago
 
 ---
 
@@ -312,7 +312,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 350 • 👍 55 • ⏱️ 7:47 • 3h ago
+👁️ 350 • 👍 55 • ⏱️ 7:47 • 4h ago
 
 ---
 
@@ -322,7 +322,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 553 • 💬 104 • ⏱️ 10:37 • 11h ago
+👁️ 3K • 👍 553 • 💬 104 • ⏱️ 10:37 • 12h ago
 
 ---
 
