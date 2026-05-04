@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-04T11:22:13.482934+00:00'
+updated: '2026-05-04T13:07:45.740465+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 11:22 UTC  
+**Last Updated:** May 04, 2026 at 13:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.3%  
-**30d:** +10.9%  
-**90d:** +8.9%  
-**1y:** +28.6%  
+**24h:** +0.1%  
+**7d:** +1.9%  
+**30d:** +10.5%  
+**90d:** +8.6%  
+**1y:** +28.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 10m ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 1h ago
 
 ---
 
@@ -92,19 +92,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
-
-I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
-
-13h ago
-
----
-
 **[North Korea Stole $71 Million From KelpDAO. Now a Law Firm Is Trying to Steal It From the Victims](https://www.reddit.com/r/ethereum/comments/1t2gcbc/north_korea_stole_71_million_from_kelpdao_now_a/)**
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
 🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 1d ago
+
+---
+
+**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
+
+I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
+
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
 
-24/7 Wall St. • 16h ago
+24/7 Wall St. • 18h ago
 
 ---
 
@@ -164,17 +164,25 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
+**[Bitcoin and ethereum prices today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-4-2026-bitcoin-tops-80000-then-pulls-back-114547251.html)**
 
-Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
+Bitcoin opened at $78,543.43 on Monday, 0.1% lower than Sunday’s opening price of $78,656.73. Ethereum opened at $2,322.49 on Monday, 0.3% higher than Sunday’s opening price of $2,316.21.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum devs huddled in the Arctic Circle to fix the network. Here’s what to know](https://www.dlnews.com/articles/markets/ethereum-devs-huddled-in-the-arctic-circle-to-fix-the-network-heres-what-to-know/)**
+
+Developers spent a week above the Arctic Circle fixing Ethereum's biggest bottleneck. The Ethereum Foundation sold $23 million worth of tokens last week to Bitmine in an OTC deal. Ether is still down more than 50% from its peak last August.
+
+dlnews.com • 1h ago
 
 ---
 
 **[Ethereum Investors Flee in Terror as a 72,000% Exit Line Explosion Follows a Massive Digital Crime Spree](https://www.tipranks.com/news/ethereum-investors-flee-in-terror-as-a-72000-exit-line-explosion-follows-a-massive-digital-crime-spree)**
 
-TipRanks • 36m ago
+TipRanks • 2h ago
 
 ---
 
@@ -186,19 +194,27 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
+**[Ethereum whales accumulate $322M in 96 hours, boosting market confidence](https://cryptobriefing.com/ethereum-whales-accumulate-322m-in-96-hours-boosting-market-confidence/)**
 
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
+Ethereum whales accumulated $322M in 96 hours. ETH above $1,800 on May 5 at 99.9% YES.
 
-Yahoo Finance • 2d ago
+Crypto Briefing • 1h ago
 
 ---
 
-**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
+**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
 
-The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
+Most chains can't excel in every single potential application.
 
-CoinDesk • 2d ago
+The Motley Fool • 14h ago
+
+---
+
+**[Ethereum Price Tracks Bitcoin Rally, Targets Crucial Break Higher](https://www.tradingview.com/news/newsbtc:bc2c05c5b094b:0-ethereum-price-tracks-bitcoin-rally-targets-crucial-break-higher/)**
+
+Ethereum price started a fresh increase and remained stable above $2,350. ETH is now consolidating and might aim for more gains if it clears $2,400.Ethereum Price Aims for Fresh GainsEthereum price managed to stay above the $2,300 support and started a fresh increase, like Bitcoin. ETH price gained…
+
+TradingView • 9h ago
 
 ---
 
@@ -207,22 +223,6 @@ CoinDesk • 2d ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 2d ago
-
----
-
-**[Ethereum Price Tracks Bitcoin Rally, Targets Crucial Break Higher](https://www.tradingview.com/news/newsbtc:bc2c05c5b094b:0-ethereum-price-tracks-bitcoin-rally-targets-crucial-break-higher/)**
-
-Ethereum price started a fresh increase and remained stable above $2,350. ETH is now consolidating and might aim for more gains if it clears $2,400.Ethereum Price Aims for Fresh GainsEthereum price managed to stay above the $2,300 support and started a fresh increase, like Bitcoin. ETH price gained…
-
-TradingView • 7h ago
-
----
-
-**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
-
-Most chains can't excel in every single potential application.
-
-The Motley Fool • 13h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 350 • 💬 39 • ⏱️ 20:21 • 19h ago
+👁️ 8K • 👍 350 • 💬 39 • ⏱️ 20:21 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 97 • 👍 9 • 💬 1 • ⏱️ 4:53 • 2h ago
+👁️ 97 • 👍 9 • 💬 1 • ⏱️ 4:53 • 3h ago
 
 ---
 
@@ -286,7 +286,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 533 • 💬 118 • ⏱️ 10:37 • 6h ago
+👁️ 3K • 👍 533 • 💬 118 • ⏱️ 10:37 • 8h ago
 
 ---
 
@@ -296,7 +296,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 97 • 💬 7 • ⏱️ 9:42 • 10h ago
+👁️ 1K • 👍 97 • 💬 7 • ⏱️ 9:42 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Usamos en Money Club: Wallet Frio Ledger: https://shop.ledger.com/?r=fa6b273bd5d
 
 📺 David Aranzabal
 
-👁️ 5K • 👍 363 • 💬 13 • ⏱️ 8:33 • 21h ago
+👁️ 5K • 👍 363 • 💬 13 • ⏱️ 8:33 • 22h ago
 
 ---
 

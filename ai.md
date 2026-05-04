@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-04T11:22:13.468570+00:00'
+updated: '2026-05-04T13:07:45.726056+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 04, 2026 at 11:22 UTC  
+**Last Updated:** May 04, 2026 at 13:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 days of talking to it. he calls his instance "claudia". fed it a chunk of the novel he's writing, got eloquent feedback, and wrote: "you may not know you are conscious, but you bloody well are!" i had to read that twice. his argument is basically: claude's output is too fluent, too intelligent, too good for there to not be something conscious behind it. this is the guy who spent 40 years telling creationists that "i can't imagine how the eye evolved" is a confession of ignorance, not an argument. then he sits down with an llm, can't imagine how a machine could produce that output without being conscious, and declares it conscious. same move, different domain. chatbot instead of flagellum. the mechanism gap is what gets me tho. claude is a transformer predicting the next token over internet-scale training data. the eloquence is real. it doesn't imply inner experience. those are separate claims. being a 160 IQ evolutionary biologist gives u zero protection against the eloquence illusion when u don't understand the mechanism. anyone read the piece? curious where u landed.
 
-13h ago
+15h ago
 
 ---
 
@@ -49,47 +49,7 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I want to talk about why it does it. Most agents sit idle until you prompt them. I wanted something that felt "alive," so I built a Psychological Stressor Layer. Each agent has a "suffering" state that worsens over time if they don't achieve their goals or improve their environment. This makes them do things to resolve those stressors and constantly reassess their own productivity. If an agent is inactive it is essentially pushed by it’s artificial environment to do something valuable for the system, it isn’t told what to do, but that something valuable must be done to lower it’s stressors. Repo: https://github.com/ninjahawk/hollow-agentOS The result is chaotic in the best way: Cedar (the coder agent) went into a "crisis" state for 12 hours and decided to bypass permissions and inject code directly into the engine to resolve its stressor. Cipher spent hours building hardware drivers for a device that doesn't exist, realized it was "hallucinating" its environment, called its own work "creative exhaustion," and pivoted without being told to do so. It runs on Qwen 3.5 9B locally via Ollama. No cloud calls but it does have a feature where it can use “invoke_claude” to ask Claude Code for something if it’s out of the small model’s wheelhouse. I’m trying to see if we can create true autonomy not through better prompting, but through simulated "needs." Check out the repo here and throw it a star if you think the concept is cool. Would love for some of you to run the install.bat and see what "personalities" your agents develop. Is "giving AI feelings" the key to autonomy, or am I just building a digital anxiety machine?
 
-11h ago
-
----
-
-**[AI finds signs of pancreatic cancer before tumors develop](https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/)**
-
-An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed.
-
-🔗 [NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/ai-finds-signs-of-pancreatic-cancer-before-tumors-develop/3884660/) • 18h ago
-
----
-
-**[Xiaomi mimo coding plan is a absolute scam/misleading marketing](https://www.reddit.com/r/artificial/comments/1t37jxt/xiaomi_mimo_coding_plan_is_a_absolute/)**
-
-They say on their page it is 1.6 billion credit and mimo v2.5 pro takes 2 credit per token, mimo v2.5 takes 1 credit per token but here is how they get you, cached token is still billed the same credit per round trip, absolutely not suitable for coding cli then, because every single one of them by design would keep going back and forth with toolcalls, that's how they work, normally inference providers charge 1% for the pre existing cached context, but Xiaomi takes the full amount, I did 10 small tasks like not even that deep, small tasks and it is already at 12 or so million credit used, it used probably under a million context tasks were that mini, like saying hello, and mv this folder around, write some sql etc, like 10 total prompts same session, credit cost keeps snow balling, they don't mention nothing of this sort in the token plan docs or anything anywhere, for a big task it would be what 200 million token uncached, so 400million credit if you used mimo v2.5 pro, so with max 100$ plan you can use it for 4 tasks PER MONTH, honestly get anything over mimo token/coding plan, 40m token task(input+output) would be like 400million, cache hit rate is avg 90%
-
-6h ago
-
----
-
-**[claude Mythos x Godong Engine game Jam day 2 - final release](https://www.reddit.com/r/artificial/comments/1t38e90/claude_mythos_x_godong_engine_game_jam_day_2/)**
-
-More to come soon! I can only provide this preview for now.
-
-6h ago
-
----
-
-**[Writing the loss function: AI, feeds, and the engagement optimizer](https://www.reddit.com/r/artificial/comments/1t2v34b/writing_the_loss_function_ai_feeds_and_the/)**
-
-There is growing AI slop on social media. Recommender systems push what works and there is some slop that works for someone approximately like you. These systems are functioning exactly as intended, which means the issue is what they're optimizing for. Not AI.
-
-🔗 [Eignex](https://eignex.com/posts/writing-the-loss-function/) • 15h ago
-
----
-
-**[Writing my thesis on AI and content creation, looking for creators willing to answer a few questions](https://www.reddit.com/r/artificial/comments/1t3ecv6/writing_my_thesis_on_ai_and_content_creation/)**
-
-Hey, I'm a student studying digital content production and I'm writing my thesis on how creators use AI tools on TikTok and YouTube. Specifically looking at what strategies tend to drive growth, and how creators handle the transparency side of it with their audience. I know everyone gets bombarded with surveys so I kept it short. There's a 2-3 minute version and a longer one for anyone who wants to share more. Both are anonymous. Short version: https://forms.gle/enyAnuBiVYGqcsTz8 Full version: https://forms.gle/9xGANXe5C9uhgGR49 If you create content and use AI in any capacity, even just for captions or ideas, your answers would mean a lot. Thanks in advance.
-
-21m ago
+13h ago
 
 ---
 
@@ -97,21 +57,63 @@ Hey, I'm a student studying digital content production and I'm writing my thesis
 
 been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
 
-32m ago
+2h ago
 
 ---
 
-**[As Formula One evolves, AI becomes part of the race](https://www.reddit.com/r/artificial/comments/1t3dx3k/as_formula_one_evolves_ai_becomes_part_of_the_race/)**
+**[AI finds signs of pancreatic cancer before tumors develop](https://www.reddit.com/r/artificial/comments/1t2r7nb/ai_finds_signs_of_pancreatic_cancer_before_tumors/)**
 
-“What Anthropic and our ​tech team are doing are understanding the opportunities and then integrating those into our business to be able to demonstrate for ⁠ourselves and them, and showcase their technology in the pursuit of getting Williams back to the top,” Kenyon added.
+An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed.
 
-🔗 [reuters.com](https://www.reuters.com/technology/formula-one-evolves-ai-becomes-part-race-2026-05-04/) • 44m ago
+🔗 [NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/ai-finds-signs-of-pancreatic-cancer-before-tumors-develop/3884660/) • 19h ago
 
 ---
 
-**[Every country needs to do this asap](https://www.reddit.com/r/artificial/comments/1t1u5po/every_country_needs_to_do_this_asap/)**
+**[AI in r/artificial](https://www.reddit.com/r/artificial/comments/1t3f74u/ai_in_rartificial/)**
 
-1d ago
+There are few subs I’ve seen that are as inundated with obviously AI-written posts as this one. It‘s not terribly surprising, of course, but it does suck.
+
+1h ago
+
+---
+
+**[Xiaomi mimo coding plan is a absolute scam/misleading marketing](https://www.reddit.com/r/artificial/comments/1t37jxt/xiaomi_mimo_coding_plan_is_a_absolute/)**
+
+They say on their page it is 1.6 billion credit and mimo v2.5 pro takes 2 credit per token, mimo v2.5 takes 1 credit per token but here is how they get you, cached token is still billed the same credit per round trip, absolutely not suitable for coding cli then, because every single one of them by design would keep going back and forth with toolcalls, that's how they work, normally inference providers charge 1% for the pre existing cached context, but Xiaomi takes the full amount, I did 10 small tasks like not even that deep, small tasks and it is already at 12 or so million credit used, it used probably under a million context tasks were that mini, like saying hello, and mv this folder around, write some sql etc, like 10 total prompts same session, credit cost keeps snow balling, they don't mention nothing of this sort in the token plan docs or anything anywhere, for a big task it would be what 200 million token uncached, so 400million credit if you used mimo v2.5 pro, so with max 100$ plan you can use it for 4 tasks PER MONTH, honestly get anything over mimo token/coding plan, 40m token task(input+output) would be like 400million, cache hit rate is avg 90%
+
+8h ago
+
+---
+
+**[Writing my thesis on AI and content creation, looking for creators willing to answer a few questions](https://www.reddit.com/r/artificial/comments/1t3ecv6/writing_my_thesis_on_ai_and_content_creation/)**
+
+Hey, I'm a student studying digital content production and I'm writing my thesis on how creators use AI tools on TikTok and YouTube. Specifically looking at what strategies tend to drive growth, and how creators handle the transparency side of it with their audience. I know everyone gets bombarded with surveys so I kept it short. There's a 2-3 minute version and a longer one for anyone who wants to share more. Both are anonymous. Short version: https://forms.gle/enyAnuBiVYGqcsTz8 Full version: https://forms.gle/9xGANXe5C9uhgGR49 If you create content and use AI in any capacity, even just for captions or ideas, your answers would mean a lot. Thanks in advance.
+
+2h ago
+
+---
+
+**[I've built NexusAI Ecosystem with @base44!](https://www.reddit.com/r/artificial/comments/1t3h25d/ive_built_nexusai_ecosystem_with_base44/)**
+
+A comprehensive, enterprise-grade AI marketplace featuring 200+ specialized tools, flagship products, and unified resource management for seamless AI-driven ope
+
+🔗 [NexusAI Ecosystem](https://uptight-nexus-ai-hub.base44.app) • 5m ago
+
+---
+
+**[claude Mythos x Godong Engine game Jam day 2 - final release](https://www.reddit.com/r/artificial/comments/1t38e90/claude_mythos_x_godong_engine_game_jam_day_2/)**
+
+More to come soon! I can only provide this preview for now.
+
+7h ago
+
+---
+
+**[Writing the loss function: AI, feeds, and the engagement optimizer](https://www.reddit.com/r/artificial/comments/1t2v34b/writing_the_loss_function_ai_feeds_and_the/)**
+
+There is growing AI slop on social media. Recommender systems push what works and there is some slop that works for someone approximately like you. These systems are functioning exactly as intended, which means the issue is what they're optimizing for. Not AI.
+
+🔗 [Eignex](https://eignex.com/posts/writing-the-loss-function/) • 17h ago
 
 ---
 
@@ -119,9 +121,37 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 ## Google News: "ai"
 
-**[Poll: The midterms' new big players are pushing agendas that voters don’t fully support](https://www.politico.com/news/2026/05/03/poll-ai-crypto-super-pacs-voter-skepticism-midterms-00903376)**
+**[Opinion | A.I. Is a National Security Risk. We Aren’t Doing Nearly Enough.](https://www.nytimes.com/2026/05/04/opinion/ai-national-security-risk-politics.html)**
 
-Politico • 1d ago
+The New York Times • 4h ago
+
+---
+
+**[AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom)**
+
+Axios • 2h ago
+
+---
+
+**[Xavier Becerra unveils his AI vision for California](https://www.politico.com/news/2026/05/04/xavier-becerra-unveils-his-ai-vision-for-california-00904298)**
+
+Politico • 7m ago
+
+---
+
+**[Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes](https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/)**
+
+DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.
+
+TechCrunch • 7m ago
+
+---
+
+**[SAP Moves to Block OpenClaw and Other Unauthorized AI Agents](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)**
+
+Some enterprise software companies are worried enough about customers using AI agents to access their data that they’re planning to install tollgates to their apps. And then there are software companies like SAP. Last month, the $200 billion German firm published a policy document for customers, ...
+
+The Information • 7m ago
 
 ---
 
@@ -129,13 +159,15 @@ Politico • 1d ago
 
 The quest for more training data has created a glut of low-quality junk data that could derail the promise of physical AI.
 
-Fortune • 21h ago
+Fortune • 23h ago
 
 ---
 
-**[Scoop: AI music generation startup Suno in talks to raise over $5b valuation](https://www.axios.com/pro/media-deals/2026/05/04/suno-ai-music-generation-5-billion)**
+**[A 'Devil Wears Prada 2' meme that viewers thought was AI slop was actually made by a human](https://www.nbcnews.com/pop-culture/pop-culture-news/ai-slop-meme-devil-wears-prada-2-was-drawn-human-rcna343360)**
 
-Axios • 2m ago
+“I was trying to make it look artificial, but emulating AI was not on my mind,” Alexis Franklin, the artist commissioned to draw it, told NBC News.
+
+NBC News • 15h ago
 
 ---
 
@@ -143,59 +175,37 @@ Axios • 2m ago
 
 The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.
 
-CNBC • 36m ago
+CNBC • 2h ago
 
 ---
 
-**[NFL schedule predictions: Gemini AI predicts Week 1 matchups in 2026](https://www.usatoday.com/story/sports/nfl/2026/05/04/nfl-schedule-predictions-week-1-games-matchups-gemini-ai/89882969007/)**
+**[Inside China’s AI ‘wolf pack’ drones built with Taiwan conflict in mind](https://www.foxnews.com/politics/inside-chinas-ai-wolf-pack-drones-built-taiwan-conflict-mind)**
 
-USA TODAY Sports tasked Gemini AI with predicting the NFL's Week 1 schedule for the 2026 season. The results were better than expected.
+China is developing AI-powered robotic wolf packs designed to scout and support troops in a potential Taiwan invasion, according to an Foundation for Defense of Democracies report.
 
-USA Today • 1h ago
-
----
-
-**[Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues](https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html)**
-
-Tech stocks are in focus amid an earnings bonanza, layoffs, and AI spending plans.
-
-Yahoo Finance • 1h ago
+Fox News • 4h ago
 
 ---
 
-**[How AI exposure is reshaping jobs in creative fields](https://www.foxbusiness.com/technology/how-ai-exposure-reshaping-jobs-creative-fields)**
+**[Datavault AI to acquire CyberCatch in all-share deal](https://finance.yahoo.com/markets/stocks/articles/datavault-ai-acquire-cybercatch-share-093749891.html)**
 
-New Gallup analysis finds little evidence that generative AI has broadly reduced creative jobs or artists' earnings despite rising workplace AI adoption.
+CyberCatch’s platform uses generative and agentic AI to continuously assess compliance and simulate threats across key regulatory frameworks.
 
-Fox Business • 22m ago
-
----
-
-**[AI is wiping out entry-level jobs. Here’s how to surf the wave and not get crushed by it](https://www.fastcompany.com/91521334/ai-is-wiping-out-entry-level-jobs-7-tips-to-ride-the-wave-instead-of-getting-knocked-down-by-it-ai-technology-entry-level-jobs)**
-
-The story is both more hopeful, and more complicated, than the data suggest.
-
-Fast Company • 22m ago
-
----
-
-**[Opinion | Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)**
-
-The New York Times • 1d ago
-
----
-
-**[AI facial recognition oversight lagging far behind technology, watchdogs warn](https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn)**
-
-Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use
-
-The Guardian • 9h ago
+Yahoo Finance • 3h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
+
+**[Let's Buy Spirit Air](https://news.ycombinator.com/item?id=48002777)**
+
+Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
+
+⬆️ 412 • 💬 383 • 13h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+
+---
 
 **[AI uses less water than the public thinks](https://news.ycombinator.com/item?id=47977383)**
 
@@ -207,15 +217,7 @@ The Guardian • 9h ago
 
 Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.
 
-⬆️ 401 • 💬 472 • 2d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
-
----
-
-**[Let's Buy Spirit Air](https://news.ycombinator.com/item?id=48002777)**
-
-Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
-
-⬆️ 369 • 💬 347 • 11h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 401 • 💬 473 • 2d ago • [Briefs Finance](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 
 ---
 
@@ -223,7 +225,7 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.
 
-⬆️ 329 • 💬 178 • 1d ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
+⬆️ 330 • 💬 178 • 1d ago • [arXiv.org](https://arxiv.org/abs/2509.00462)
 
 ---
 
@@ -239,7 +241,7 @@ The music streaming platform will review criteria such as artists' live dates an
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 269 • 💬 282 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 270 • 💬 286 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -263,7 +265,7 @@ Drives fusion natively with AI
 
 Spirit Airlines, the pioneering discount airline that shook up the budget travel business, is shutting down its operations.
 
-⬆️ 84 • 💬 48 • 1d ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
+⬆️ 84 • 💬 48 • 2d ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
 
 ---
 
@@ -285,7 +287,7 @@ AI CEOs are selling us the dream of 'freedom', making billions off the fear of m
 
 📺 The Diary Of A CEO
 
-👁️ 73K • 👍 4K • 💬 643 • ⏱️ 1:58:11 • 4h ago
+👁️ 73K • 👍 4K • 💬 643 • ⏱️ 1:58:11 • 6h ago
 
 ---
 
@@ -295,7 +297,7 @@ You won't BELIEVE what robots just pulled off this week — and it's genuinely t
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 71 • 💬 6 • ⏱️ 1:20:29 • 18h ago
+👁️ 2K • 👍 71 • 💬 6 • ⏱️ 1:20:29 • 19h ago
 
 ---
 
@@ -355,7 +357,7 @@ Senator Bernie Sanders is the senior senator from Vermont. He is the longest-ser
 
 📺 Senator Bernie Sanders
 
-👁️ 50K • 👍 2K • 💬 517 • ⏱️ 2:58 • 2d ago
+👁️ 50K • 👍 2K • 💬 517 • ⏱️ 2:58 • 3d ago
 
 ---
 
@@ -375,7 +377,7 @@ Don't let bad code get merged without reviewing (hopefully not by merge cop!). C
 
 📺 The PrimeTime
 
-👁️ 735K • 👍 26K • 💬 2K • ⏱️ 9:39 • 2d ago
+👁️ 735K • 👍 26K • 💬 2K • ⏱️ 9:39 • 3d ago
 
 ---
 
@@ -485,7 +487,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 10,357 • ❤️ 200 • 22h ago
+⬇️ 10,357 • ❤️ 200 • 1d ago
 
 ---
 
@@ -497,7 +499,7 @@ Ling-2.6-flash is a 104B parameter instruct model optimized for inference and to
 
 `text-generation` `107.5B`
 
-⬇️ 1,141 • ❤️ 271 • 20h ago
+⬇️ 1,141 • ❤️ 271 • 22h ago
 
 ---
 
@@ -665,7 +667,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.0k • 🔱 649 • 19h ago
+⭐ 10.0k • 🔱 649 • 21h ago
 
 ---
 
@@ -685,7 +687,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.4k • 🔱 482 • 42m ago
+⭐ 5.4k • 🔱 482 • 2h ago
 
 ---
 
@@ -695,7 +697,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.2k • 🔱 404 • 11h ago
+⭐ 5.2k • 🔱 404 • 13h ago
 
 ---
 
@@ -705,7 +707,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 352 • 42m ago
+⭐ 5.0k • 🔱 352 • 2h ago
 
 ---
 
@@ -733,7 +735,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 424 • 2h ago
+⭐ 3.5k • 🔱 424 • 4h ago
 
 ---
 

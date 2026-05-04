@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-04T11:22:13.486120+00:00'
+updated: '2026-05-04T13:07:45.743636+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 04, 2026 at 11:22 UTC  
+**Last Updated:** May 04, 2026 at 13:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
-2h ago
+4h ago
 
 ---
 
@@ -44,21 +44,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Full code is on GitHub: https://github.com/zahirmahammad/IsaacLab_PPO.git I kept it simple - just a single script that can run any environment, without unnecessary complexity. I’m exploring more in reinforcement learning and want to build interesting projects while keeping codebase minimal but robust. Open to ideas and feedback - feel free to share!
 
-3h ago
+4h ago
 
 ---
 
 **[My little mobile robot](https://www.reddit.com/r/robotics/comments/1t3238y/my_little_mobile_robot/)**
 
-11h ago
-
----
-
-**[Starting in robotics](https://www.reddit.com/r/robotics/comments/1t3cymz/starting_in_robotics/)**
-
-Hi, I am starting in robotics, I already build a little robot with wheels that just goes forward, backwards and turn. I want to create more, but first I want to learn about it. Like what are the basic I need parts I need and what does it do. I know that there is a lot of information online, but I just don't know wich is the best that is free, can you guys help me? I have a good base in electrionics, I am a second year student in electrical engineering. Thanks
-
-1h ago
+12h ago
 
 ---
 
@@ -66,7 +58,15 @@ Hi, I am starting in robotics, I already build a little robot with wheels that j
 
 For the past few months I've been studying screw theory from the book Modern Robotics by Park and Lynch. I wanted to experiment with it in a non-destructive environment before I tried it out on the robot arm that I built in my previous project. I set up a UR5e simulation in Webots to safely iterate on my kinematics implementation. Right now I use velocity inverse kinematics to get the end-effector to move in straight lines, and a simple PID control loop to help the solution converge. The next thing I'm trying out is adding a trapezoidal velocity profile for smoother motions (accelerate to a certain speed, then decelerate as the robot approaches its target). In general, is it feasible to combine PID control with speed/acceleration control, or would they fight each other? If you're interested, check out the details of my project so far! The Github and a technical document about kinematics with screw theory are attached in that article. If you have any feedback, notice any mistakes, or have any questions, please leave a comment!
 
-16h ago
+17h ago
+
+---
+
+**[Starting in robotics](https://www.reddit.com/r/robotics/comments/1t3cymz/starting_in_robotics/)**
+
+Hi, I am starting in robotics, I already build a little robot with wheels that just goes forward, backwards and turn. I want to create more, but first I want to learn about it. Like what are the basic I need parts I need and what does it do. I know that there is a lot of information online, but I just don't know wich is the best that is free, can you guys help me? I have a good base in electrionics, I am a second year student in electrical engineering. Thanks
+
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ For the past few months I've been studying screw theory from the book Modern Rob
 
 Been reading more Physical AI/robotics case studies lately, and one thing that keeps standing out is how much of the challenge is actually around data collection rather than the models themselves. A lot of the work seems to involve: collecting multimodal real-world data handling edge cases synchronizing sensor/video streams annotation consistency feedback loops after deployment Interesting to see how different teams are approaching this compared to traditional ML pipelines. I came across a case study recently around Physical AI data workflows that touched on some of these issues: [https://www.shaip.com/scaling-physical-ai-and-humanoid-robotics-case-study/\] Curious whether people here think simulation will eventually reduce the need for large-scale real-world collection, or if real-world data remains the long-term moat.
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Been reading more Physical AI/robotics case studies lately, and one thing that k
 
 What do you think is the most efficient form factor for robots across various sectors and how do you back up that claim. The humanoid design serves a purpose, but, in my mind, it’s mostly lazy design, some decent engineering, inefficient (some possibly using up to 40% of power just to maintain balance), and mostly a marketing ploy. Consider the following fields: Restaurants. Hospitals. Transportation. Disaster response. Farming. Construction. That’s just a few sectors. What kinds of designs do you think will be the most durable over time?
 
-9h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ What do you think is the most efficient form factor for robots across various se
 
 As promised in my previous post I am glad to inform you, that the pre-orders for the Loki device are now possible 😄 . We are actively looking for beta testers which will receive the device for free in exchange for feedback and cooperation. Recap: This is a sensor simulation device that allows you to create a digital twin of the sensor by simulating its registers and measurements which can be interfaced with over TWI (I2C), SPI or UART interfaces, depending on the sensor. The sensors are almost fully datasheet compliant. Kind regards and have a great day! https://vali-labs.com/
 
-17h ago
+19h ago
 
 ---
 
@@ -98,13 +98,13 @@ As promised in my previous post I am glad to inform you, that the pre-orders for
 
 Hey everyone, ​I’m working on a 6-wheeled Rover project and I’m having some really frustrating issues with the ESP32-CAM modules. I’ve gone through 2 boards so far and I can’t pin down the exact root cause. ​My Setup: ​Module: ESP32-CAM (AI-Thinker). ​Power: Dedicated Buck Converter set to 5V, supplying the 5V and GND pins. ​Network Mode: I'm using the module as the Access Point (SoftAP mode) for live video streaming. ​Hardware Context: The camera is part of a rover with 6 DC motors. The camera and motors are on separate power rails (separate Buck converters), but they share the same battery. ​The History of Failures: ​Board #1: Worked perfectly for a while as a SoftAP. Then, it suddenly stopped broadcasting the SSID. I couldn't find the AP on any device. After that, it wouldn't even take a code upload and seems completely fried now. ​Board #2 (Current): This one is very unstable: ​It boots up and the Access Point works fine initially. ​Suddenly, the SSID disappears from the WiFi list and the connection drops. ​When I try to re-flash the code immediately after it vanishes, I often get the "Failed to connect to ESP32: Timed out waiting for packet header" error. ​Interestingly, if I try to flash it again (sometimes after a quick power cycle), it succeeds, the AP becomes visible again, but then it disappears after an hour or two of operation. ​What I’ve checked: ​The Buck Converter output is a steady 5V when measured. ​I suspect either EMI (Electromagnetic Interference) from the 6 motors is crashing the WiFi stack, or perhaps the onboard LDO is overheating due to the high current draw of the SoftAP mode and the camera sensor. ​Questions: * Is it common for the SoftAP to just "vanish" while the board still accepts code (sometimes)? ​Could the motors be inducing enough noise on the GND plane to cause this, even with isolated power rails? ​Should I add a large decoupling capacitor (like 1000uF) directly across the 5V/GND pins to handle the current spikes? ​Any insights from someone who’s dealt with these "moody" ESP32-CAM modules would be a life saver!
 
-7h ago
+9h ago
 
 ---
 
 **[Sensor simulation device](https://www.reddit.com/r/robotics/comments/1t2rn7l/sensor_simulation_device/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -120,7 +120,15 @@ Bloomberg.com • 2d ago
 
 **[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914)**
 
-Gizmodo • 2h ago
+Gizmodo • 4h ago
+
+---
+
+**[Bebop, the viral humanoid robot, makes appearance in Chicago McCormick Place for Digestive Disease Week to promote Yangtze](https://abc7chicago.com/post/bebop-viral-humanoid-robot-makes-appearance-chicago-mccormick-place-digestive-disease-week-promote-yangtze/19035654/)**
+
+A viral robot gave Chicago a glimpse into what the future could look like.
+
+ABC7 Chicago • 22m ago
 
 ---
 
@@ -128,7 +136,7 @@ Gizmodo • 2h ago
 
 C2 Robotics has today marked a significant milestone with the commissioning and christening of its Speartooth Large Uncrewed Undersea Vehicle (LUUV), the first to be delivered to the United States.
 
-navalnews.com • 13h ago
+navalnews.com • 15h ago
 
 ---
 
@@ -136,7 +144,15 @@ navalnews.com • 13h ago
 
 Flying under the radar of robot hype, Sony AI's Ace has shown off its rapid-speed learning abilities that are seriously remarkable, displaying powerful split-second decision-making while taking on some of the best table tennis players – and winning.
 
-New Atlas • 11h ago
+New Atlas • 12h ago
+
+---
+
+**[Faraday Future takes robots to campus, opens Omaha AI institute](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-04fxpxa2s71y.html)**
+
+June target is 200 units. FF and Boston International Business School launched an Omaha institute, pushing its robotics program into U.S. universities.
+
+Stock Titan • 14h ago
 
 ---
 
@@ -146,27 +162,11 @@ WSJ • 3d ago
 
 ---
 
-**[Faraday Future takes robots to campus, opens Omaha AI institute](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-04fxpxa2s71y.html)**
-
-June target is 200 units. FF and Boston International Business School launched an Omaha institute, pushing its robotics program into U.S. universities.
-
-Stock Titan • 12h ago
-
----
-
 **[Video Friday: Figure, 1X Ramp Up Humanoid Robot Production](https://spectrum.ieee.org/video-friday-humanoid-robot-production)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 4d ago
-
----
-
-**[Robotic passenger traveling for work causes Southwest flight delay](https://www.kctv5.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
-
-Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
-
-KCTV • 1d ago
+IEEE Spectrum • 4h ago
 
 ---
 
@@ -178,11 +178,11 @@ The Korea Herald • 1d ago
 
 ---
 
-**[Joanna Stern takes one of the viral dancing humanoid robots home](https://www.nbcnews.com/video/joanna-stern-takes-one-of-the-viral-dancing-humanoid-robots-home-262572613691)**
+**[Robotic passenger traveling for work causes Southwest flight delay](https://www.kctv5.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
 
-Dancing robots went viral but what would happen if you took one of them home? NBC News' Joanna Stern decided to find out.
+Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
 
-NBC News • 2d ago
+KCTV • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ I test to see if my 3D printed gearbox is precise. I made a pointer attachment f
 
 📺 Advanced Hobby Lab
 
-👁️ 93K • 👍 918 • 💬 12 • ⏱️ 0:28 • 2d ago
+👁️ 93K • 👍 918 • 💬 12 • ⏱️ 0:28 • 3d ago
 
 ---
 
@@ -246,7 +246,7 @@ War Robots Gameplay: Opening Data Pads for the Ultimate Hawk My War Robots Creat
 
 📺 Manni-Gaming
 
-👁️ 10K • 👍 612 • 💬 90 • ⏱️ 21:17 • 18h ago
+👁️ 10K • 👍 612 • 💬 90 • ⏱️ 21:17 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ War Robots Gameplay: Opening Data Pads for the Ultimate Hawk My War Robots Creat
 
 📺 RiseX Venturess
 
-👁️ 14K • 👍 2K • 💬 23 • ⏱️ 1:06 • 2d ago
+👁️ 14K • 👍 2K • 💬 23 • ⏱️ 1:06 • 3d ago
 
 ---
 
