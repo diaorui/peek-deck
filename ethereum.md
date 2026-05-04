@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-04T17:14:47.612535+00:00'
+updated: '2026-05-04T19:04:50.705479+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 17:14 UTC  
+**Last Updated:** May 04, 2026 at 19:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +3.3%  
-**30d:** +12.1%  
-**90d:** +10.1%  
-**1y:** +30.0%  
+**24h:** +1.3%  
+**7d:** +3.2%  
+**30d:** +11.9%  
+**90d:** +9.9%  
+**1y:** +29.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.94B
+**Market Cap:** $284.92B
 Rank #2
 
 **Circulating Supply:** 120,687,385 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-52.3%
 
 **All-Time Low:** $0.43
-+542459.8%
++544963.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 6h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 7h ago
 
 ---
 
 **[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
 
-19h ago
+21h ago
 
 ---
 
@@ -148,9 +148,11 @@ Not long ago, I was asked about quantum computing and the threat it could pose t
 
 ## Google News: "ethereum"
 
-**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
+**[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether)**
 
-ethereum.org • 2d ago
+Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -158,53 +160,21 @@ ethereum.org • 2d ago
 
 XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 1d ago
 
 ---
 
-**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
+**[Bitcoin and ethereum prices today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-4-2026-bitcoin-tops-80000-then-pulls-back-114547251.html)**
 
-Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
+Bitcoin opened at $78,543.43 on Monday, 0.1% lower than Sunday’s opening price of $78,656.73. Ethereum opened at $2,322.49 on Monday, 0.3% higher than Sunday’s opening price of $2,316.21.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether)**
-
-Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
-
-CoinDesk • 2h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Current price of Ethereum for May 4, 2026](https://fortune.com/article/price-of-ethereum-05-04-2026/)**
+**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
-**[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-sells-23-million-185521639.html)**
-
-For the second straight week, the Ethereum Foundation has unloaded 10,000 ETH—about $23 million worth—to top treasury firm, BitMine.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Tom Lee’s BitMine Swallows $23 Million in Ethereum as Foundation Sells 10,000 More Coins to Fund Development](https://www.tipranks.com/news/tom-lees-bitmine-swallows-23-million-in-ethereum-as-foundation-sells-10000-more-coins-to-fund-development)**
-
-TipRanks • 3h ago
-
----
-
-**[Ethereum news (ETH): Tom Lee's BitMine secures another 10,000 ether from Ethereum Foundation](https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy)**
-
-The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine at about $2,042 per ETH, raising roughly $10.2 million.
-
-CoinDesk • 2d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -212,13 +182,43 @@ CoinDesk • 2d ago
 
 Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
 
-TradingView • 44m ago
+TradingView • 2h ago
+
+---
+
+**[Ethereum Investors Flee in Terror as a 72,000% Exit Line Explosion Follows a Massive Digital Crime Spree](https://www.tipranks.com/news/ethereum-investors-flee-in-terror-as-a-72000-exit-line-explosion-follows-a-massive-digital-crime-spree)**
+
+TipRanks • 8h ago
+
+---
+
+**[Current price of Ethereum for May 4, 2026](https://fortune.com/article/price-of-ethereum-05-04-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
 
 ---
 
 **[Ethereum Whale Buying at $322M Points to Accumulation Phase](https://www.investing.com/analysis/ethereum-whale-buying-at-322m-points-to-accumulation-phase-200679628)**
 
-Investing.com • 3h ago
+Investing.com • 4h ago
+
+---
+
+**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
+
+Most chains can't excel in every single potential application.
+
+The Motley Fool • 20h ago
+
+---
+
+**[Bitmine Adds 101,745 ETH: How High Can Ethereum Go?](https://www.benzinga.com/crypto/cryptocurrency/26/05/52256677/bitmine-adds-101745-eth-how-high-can-ethereum-go)**
+
+Bitmine Immersion Technologies (NYSE:BMNR) acquired 101,745 Ethereum
+
+Benzinga • 2h ago
 
 ---
 
@@ -226,13 +226,23 @@ Investing.com • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 BTC &amp; ETH: DONT MISS THIS DATA!!! NEW &amp; CRITICAL!!!!](https://www.youtube.com/watch?v=773C8uXOEYs)**
+**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
+
+Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 2K • 👍 125 • 💬 13 • ⏱️ 10:34 • 4h ago
+
+---
+
+**[🚨 BTC &amp; ETH: CRITICAL!!!!](https://www.youtube.com/watch?v=773C8uXOEYs)**
 
 This new data is huge for bitcoin, for ethereum and for the rest of crypto! A video worth watching! Markets are not what they seem ...
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 498 • 💬 75 • ⏱️ 14:06 • 6h ago
+👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:06 • 8h ago
 
 ---
 
@@ -242,7 +252,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 385 • 💬 51 • ⏱️ 20:21 • 1d ago
+👁️ 10K • 👍 418 • 💬 45 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -252,7 +262,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 179 • ⏱️ 11:49 • 1d ago
+👁️ 32K • 👍 2K • 💬 180 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -262,17 +272,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 194 • 👍 12 • 💬 2 • ⏱️ 4:53 • 8h ago
+👁️ 232 • 👍 12 • 💬 2 • ⏱️ 4:53 • 9h ago
 
 ---
 
-**[The AI Coin That&#39;s About To FLIP Ethereum Is PUMPING Right Now (Arthur Hayes Just Confirmed It)](https://www.youtube.com/watch?v=dAePo7OLimM)**
+**[Ethereum BREAKDOWN Before Next Major Entry?](https://www.youtube.com/watch?v=_0A4yRcSIPY)**
 
-Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats.io/subnets/85 Trade Crypto with WEEX ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 FireHustle
+📺 Trade Confident
 
-👁️ 12K • 👍 589 • 💬 76 • ⏱️ 11:56 • 1d ago
+👁️ 47 • 💬 1 • ⏱️ 5:14 • 44m ago
 
 ---
 
@@ -282,27 +292,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 282 • 💬 55 • ⏱️ 15:33 • 1d ago
+👁️ 7K • 👍 285 • 💬 41 • ⏱️ 15:33 • 1d ago
 
 ---
 
-**[How Ethereum Accidentally Made Gaming PCs Affordable Again](https://www.youtube.com/watch?v=5tJWuhO5C14)**
+**[Ethereum Could Be the World’s Most Valuable Asset w/ Etherealize](https://www.youtube.com/watch?v=4dKF1Fr1RGE)**
 
-crypto crashed = cheap GPUs for everyone #gaming #crypto #ethereum #pcgaming #Shorts.
+See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
 
-📺 The Insight Capsule
+📺 Milk Road
 
-👁️ 549 • 👍 25 • 💬 2 • ⏱️ 1:20 • 8h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Starting Now (GET READY)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BjN7DSMgWaI)**
-
-BITCOIN & ALTCOIN WARNING: It's Starting Now (GET READY)!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 330 • 💬 221 • ⏱️ 16:27 • 1d ago
+👁️ 2K • 👍 92 • 💬 14 • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -312,17 +312,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 350 • 👍 55 • ⏱️ 7:47 • 4h ago
+👁️ 633 • 👍 73 • ⏱️ 7:47 • 6h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Geht es weiter in Richtung 85 - 86k oder jetzt Abverkauf?](https://www.youtube.com/watch?v=2yq-dnf1ft8)**
+**[The AI Coin That&#39;s About To FLIP Ethereum Is PUMPING Right Now (Arthur Hayes Just Confirmed It)](https://www.youtube.com/watch?v=dAePo7OLimM)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats.io/subnets/85 Trade Crypto with WEEX ...
 
-📺 Krypto Trading & Investing
+📺 FireHustle
 
-👁️ 3K • 👍 553 • 💬 104 • ⏱️ 10:37 • 12h ago
+👁️ 13K • 👍 611 • 💬 80 • ⏱️ 11:56 • 1d ago
 
 ---
 

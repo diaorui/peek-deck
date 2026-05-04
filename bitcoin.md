@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-04T17:14:47.606602+00:00'
+updated: '2026-05-04T19:04:50.699457+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 17:14 UTC  
+**Last Updated:** May 04, 2026 at 19:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,331.84
+### $80,066.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +5.3%  
-**30d:** +16.5%  
-**90d:** +9.9%  
-**1y:** -15.2%  
+**24h:** +1.5%  
+**7d:** +4.9%  
+**30d:** +16.0%  
+**90d:** +9.5%  
+**1y:** -15.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1593.11B
+**Market Cap:** $1603.52B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.8%
+-36.5%
 
 **All-Time Low:** $67.81
-+117465.3%
++117997.6%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Been in the Bitcoin space for years and just now fully understood the (US) 0% capital gains bracket.](https://www.reddit.com/r/Bitcoin/comments/1t3aheg/been_in_the_bitcoin_space_for_years_and_just_now/)**
+
+If your taxable income is low enough, you pay zero federal tax on long-term Bitcoin gains. It’s just how the brackets work. Long-term gains (held 12+ months) get taxed at 0%, 15%, or 20% depending on your income. In 2024 the 0% threshold is ~$47k for single filers, ~$94k married. That’s taxable income too, so after the standard deduction ($14,600 single). A single person could have $61k in gross income and still land in the 0% bracket. So if you ever have a low income year, sabbatical, between jobs, slow freelance year, early retirement, you might be able to sell appreciated BTC and owe nothing federally. Sell, rebuy, reset your cost basis. People do this with stocks all the time. It’s called tax gain harvesting and works the same with crypto. State taxes vary a lot so factor that in depending on where you live. Worth running the numbers before year end if you’re ever in a lean year.
+
+11h ago
+
+---
+
 **[Today we celebrate the birthday of Hal Finney, one of the most important figures in Bitcoin’s history.](https://www.reddit.com/r/Bitcoin/comments/1t3j7dv/today_we_celebrate_the_birthday_of_hal_finney_one/)**
 
 He was the first recipient of BTC, one of its earliest developers, and above all, a true believer in the technology when it was still just an idea. His famous phrase, “Running Bitcoin,” wasn’t just technical… it was a statement of principles. Today, millions of people around the world continue that path. Thank you for opening the door. 🧡 Thank you for running first.
 
-2h ago
+4h ago
 
 ---
 
@@ -89,29 +97,13 @@ He was the first recipient of BTC, one of its earliest developers, and above all
 
 In 2009 Kristoffer Koch was a 22-year-old student in Norway writing his thesis on encryption and digital privacy. He stumbled across Bitcoin while researching. Almost no one outside forums had heard of it. He spent 150 Norwegian kroner about $26.60 and bought 5,000 Bitcoin at less than half a cent each. Then he forgot about it entirely. Four years passed. In April 2013 Bitcoin was suddenly everywhere on the news. The price had exploded past $100. He vaguely remembered buying some once. He could not find the password. He spent weeks trying to crack it. When he finally got in he stared at the screen for a long time. His 5,000 Bitcoins were now worth $886,000. He sold exactly one fifth of them 1,000 coins for around $177,000. He used the money to buy an apartment in Toyen, one of Oslo's most sought-after neighbourhoods. He kept the other 4,000 Bitcoin. He told reporters: "It said I had 5,000 Bitcoin and I just thought oh wow." He had written a university thesis on encryption. His reward for understanding it slightly earlier than everyone else was a free apartment. The $26.60 he spent in 2009 would be worth over $450 million today.
 
-22h ago
-
----
-
-**[Been in the Bitcoin space for years and just now fully understood the (US) 0% capital gains bracket.](https://www.reddit.com/r/Bitcoin/comments/1t3aheg/been_in_the_bitcoin_space_for_years_and_just_now/)**
-
-If your taxable income is low enough, you pay zero federal tax on long-term Bitcoin gains. It’s just how the brackets work. Long-term gains (held 12+ months) get taxed at 0%, 15%, or 20% depending on your income. In 2024 the 0% threshold is ~$47k for single filers, ~$94k married. That’s taxable income too, so after the standard deduction ($14,600 single). A single person could have $61k in gross income and still land in the 0% bracket. So if you ever have a low income year, sabbatical, between jobs, slow freelance year, early retirement, you might be able to sell appreciated BTC and owe nothing federally. Sell, rebuy, reset your cost basis. People do this with stocks all the time. It’s called tax gain harvesting and works the same with crypto. State taxes vary a lot so factor that in depending on where you live. Worth running the numbers before year end if you’re ever in a lean year.
-
-9h ago
+1d ago
 
 ---
 
 **[It shall never be enough!](https://www.reddit.com/r/Bitcoin/comments/1t389lj/it_shall_never_be_enough/)**
 
-12h ago
-
----
-
-**[Got my first $50 worth of bitcoin today](https://www.reddit.com/r/Bitcoin/comments/1t39tl4/got_my_first_50_worth_of_bitcoin_today/)**
-
-I know it aint much but i have been meaning to start for s long time and this was not easy to figure out self custody, peer to peer and storing it in wallet that never touched the internet. Am i one of you now?
-
-10h ago
+13h ago
 
 ---
 
@@ -119,7 +111,37 @@ I know it aint much but i have been meaning to start for s long time and this wa
 
 Its one thing to own an asset like bitcoin but its a completely different thing to receive cash flow every month from an asset. I feel like diversifying into other liquid assets that produce income should be wise, for example T-bills. But my mind says that goes against the entire premise of bitcoin and sound money. Treasuries are fiat, they are just IOUs for fiat meaning they devalue just as much as fiat. So why would I hold T-bills if they constantly devalue while also bringing sovereign and political risk into the mix. You make a yield on the T-bill but for the most part that yield is just compensating for the devaluation of the purchasing power of the T-bills. Realestate isnt liquid and has its own issues like maintence etc. Stocks come with dilution risk and corporate risk. So my question is, how can I derive yield from my bitcoin without having to diversify into other assets?
 
-6h ago
+7h ago
+
+---
+
+**[Got my first $50 worth of bitcoin today](https://www.reddit.com/r/Bitcoin/comments/1t39tl4/got_my_first_50_worth_of_bitcoin_today/)**
+
+I know it aint much but i have been meaning to start for s long time and this was not easy to figure out self custody, peer to peer and storing it in wallet that never touched the internet. Am i one of you now?
+
+12h ago
+
+---
+
+**[Safest way to store seedphrases?](https://www.reddit.com/r/Bitcoin/comments/1t3l7vx/safest_way_to_store_seedphrases/)**
+
+​ Just got into BTC a couple months ago, and right now I have my seed phrase stamped on a metal plate stored in a home safe. My main worry is: what’s the absolute safest way to keep these words so no third party—like a thief, a family member, or even a contractor in the house—could ever get them? I’ve thought about splitting the phrase into parts and storing them in different locations (bank deposit box, relative’s house, etc.), but doesn’t that just create more points of failure or risk someone finding a partial phrase? Curious how you veterans handle this without overcomplicating things.
+
+3h ago
+
+---
+
+**[Bitcoin Back to the 80s](https://www.reddit.com/r/Bitcoin/comments/1t3qzvc/bitcoin_back_to_the_80s/)**
+
+9m ago
+
+---
+
+**[What’s one crypto mistake you learned the hard way?](https://www.reddit.com/r/Bitcoin/comments/1t3hm2u/whats_one_crypto_mistake_you_learned_the_hard_way/)**
+
+I feel like everyone in crypto has that one mistake they'll never repeat - buying at the top, trusting the wrong project, or panic selling.
+
+5h ago
 
 ---
 
@@ -129,45 +151,29 @@ Its one thing to own an asset like bitcoin but its a completely different thing 
 
 ---
 
-**[What’s one crypto mistake you learned the hard way?](https://www.reddit.com/r/Bitcoin/comments/1t3hm2u/whats_one_crypto_mistake_you_learned_the_hard_way/)**
-
-I feel like everyone in crypto has that one mistake they'll never repeat - buying at the top, trusting the wrong project, or panic selling.
-
-3h ago
-
----
-
-**[Safest way to store seedphrases?](https://www.reddit.com/r/Bitcoin/comments/1t3l7vx/safest_way_to_store_seedphrases/)**
-
-​ Just got into BTC a couple months ago, and right now I have my seed phrase stamped on a metal plate stored in a home safe. My main worry is: what’s the absolute safest way to keep these words so no third party—like a thief, a family member, or even a contractor in the house—could ever get them? I’ve thought about splitting the phrase into parts and storing them in different locations (bank deposit box, relative’s house, etc.), but doesn’t that just create more points of failure or risk someone finding a partial phrase? Curious how you veterans handle this without overcomplicating things.
-
-1h ago
-
----
-
-**[Daily Discussion, May 04, 2026](https://www.reddit.com/r/Bitcoin/comments/1t39b5x/daily_discussion_may_04_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise](https://www.bloomberg.com/news/articles/2026-05-04/bitcoin-btc-tops-80-000-for-three-month-high-as-asian-stocks-rise)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Eric Trump’s Bitcoin netted him $90M, but investors believing it was a ‘money-printing machine’ are out $500M](https://finance.yahoo.com/markets/crypto/articles/eric-trump-bitcoin-netted-him-151500809.html)**
+**[Hut 8 cuts bitcoin credit costs with FalconX refinancing, freeing 3,300 BTC from collateral](https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai)**
 
-How the hype around American Bitcoin turned into steep losses for late investors.
+A new $200 million, 364-day bitcoin-backed facility replaces Coinbase Credit arrangement, cutting debt costs by 200 basis points.
 
-Yahoo Finance • 3d ago
+CoinDesk • 30m ago
+
+---
+
+**[Bitcoin realized profits hit 1-month high—analysts weigh in](https://www.tradingview.com/news/invezz:7738b1260094b:0-bitcoin-realized-profits-hit-1-month-high-analysts-weigh-in/)**
+
+Bitcoin price surged to a four-month high above $80,600 on Monday, May 4, with the benchmark crypto asset breaching the $80k supply wall amid a broader uptick for risk assets.Most of the intraday gains came after President Donald Trump announced Project Freedom, an effort aimed at escorting foreign…
+
+TradingView • 55m ago
 
 ---
 
@@ -175,13 +181,29 @@ Yahoo Finance • 3d ago
 
 ‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
 
-Fortune • 1h ago
+Fortune • 3h ago
+
+---
+
+**[Morgan Stanley: Bitcoin on Bank Balance Sheets Is Coming](https://bitbo.io/news/morgan-stanley-bitcoin-bank-balance-sheets/)**
+
+Morgan Stanley's head of digital asset strategy Amy Oldenburg says bitcoin will eventually reach U.S. bank balance sheets, but regulatory hurdles from the Fed, Basel rules, and global regulators still stand in the way.
+
+Bitbo • 3h ago
 
 ---
 
 **[Bitcoin surge above $80K fuels rally in cryptocurrency-linked stocks (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4584498-bitcoin-tops-80000-to-hit-three-month-high-ether-advances)**
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 9h ago
+
+---
+
+**[Texas Residents Sue MARA Holdings Over Bitcoin Mining Noise](https://decrypt.co/366654/texas-lawsuit-mara-holdings-bitcoin-mining-noise)**
+
+The new lawsuit targets MARA’s Granbury site as Bitcoin mining companies pivot to providing AI infrastructure.
+
+Decrypt • 2h ago
 
 ---
 
@@ -189,39 +211,15 @@ Seeking Alpha • 7h ago
 
 Trump said the US will guide stranded ships through the Strait of Hormuz, while an Iranian official warned that this could violate ceasefire.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[MicroStrategy Pauses Bitcoin Buys Ahead of May 5 Q1 Earnings](https://finance.yahoo.com/markets/crypto/articles/microstrategy-pauses-bitcoin-buys-ahead-180837543.html)**
+**[Bitcoin surged in April, but weak buyer demand makes the rally vulnerable](https://www.cnbc.com/2026/05/01/bitcoin-surged-in-april-but-weak-buyer-demand-makes-rally-vulnerable.html)**
 
-Strategy paused Bitcoin buying ahead of its May 5 Q1 2026 earnings as Saylor signals a normal pace returns next week.
+Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Strategy Pauses Bitcoin Buys Ahead of Q1 Earnings](https://bitbo.io/news/strategy-pauses-bitcoin-buys-earnings/)**
-
-Strategy has halted its weekly bitcoin purchases this week, with Chairman Michael Saylor citing a return to buying next week, as the firm prepares to release its first-quarter earnings report on Tuesday.
-
-Bitbo • 12h ago
-
----
-
-**[Strategy (MSTR) Stock Pops 9% As Bitcoin Price Pumps Back to $78,000](https://bitcoinmagazine.com/news/strategy-mstr-stock-bitcoin-price-back-78k)**
-
-Shares of Strategy (NASDAQ: MSTR) surged roughly 9% on Friday as Bitcoin clawed back to the $78,000 level.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Strategy Skips Bitcoin Buy as BTC Hits $80K for First Time Since January](https://decrypt.co/366624/strategy-skips-bitcoin-buy-btc-80k-first-time-since-january)**
-
-Bitcoin just hit its highest price in months, right as $65 billion treasury firm Strategy took a rare week off from BTC accumulation.
-
-Decrypt • 2h ago
+CNBC • 3d ago
 
 ---
 
@@ -269,12 +267,6 @@ A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomica
 
 ---
 
-**[Bitcoin Is Digging Deeeeeper](https://news.ycombinator.com/item?id=47925278)**
-
-⬆️ 3 • 💬 1 • 6d ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
-
----
-
 **[BTC Pulse – 4-factor composite model · Bitcoin Real-time macro signals](https://news.ycombinator.com/item?id=47994391)**
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
@@ -313,9 +305,27 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 ---
 
+**[Iran Proposes Bitcoin Oil Toll](https://news.ycombinator.com/item?id=47958343)**
+
+Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
+
+⬆️ 1 • 💬 0 • 4d ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Bitcoin Is Reclaiming The Bull Market](https://www.youtube.com/watch?v=N75mkQs3BVU)**
+
+Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 793 • 💬 71 • ⏱️ 1:00:32 • 4h ago
+
+---
 
 **[Bitcoin Breakout! The CRYPTO TRAP Is OFFICIALLY SET](https://www.youtube.com/watch?v=HMwxTxTxhLo)**
 
@@ -323,17 +333,7 @@ Doesn't matter which crypto charts you have open. Bitcoin, Ethereum, Sui, Cardan
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 673 • 💬 288 • ⏱️ 19:42 • 12h ago
-
----
-
-**[How Much Bitcoin Do You Really Need to Retire? | Bitcoin 2026](https://www.youtube.com/watch?v=Cq_IqjdmZ4Y)**
-
-How much Bitcoin do you actually need to retire? At Bitcoin 2026, moderator Brandon Keys of Green Candle sits down with ...
-
-📺 Bitcoin Magazine
-
-👁️ 10K • 👍 295 • 💬 42 • ⏱️ 29:00 • 14h ago
+👁️ 14K • 👍 760 • 💬 360 • ⏱️ 19:42 • 14h ago
 
 ---
 
@@ -343,7 +343,27 @@ In this tactical market update, Kyle Doops analyzes the current Bitcoin short sq
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 36 • ⏱️ 28:41 • 9h ago
+👁️ 14K • 👍 1K • 💬 40 • ⏱️ 28:41 • 11h ago
+
+---
+
+**[Bitcoin: First Target Reached! Here&#39;s What&#39;s Next](https://www.youtube.com/watch?v=a0D9YWSkCi0)**
+
+Bitcoin: First Target Reached! Here's What's Next Cycles are in control Bitcoin soon to make new lows? TA & Live Trades Get the ...
+
+📺 Camel Finance
+
+👁️ 7K • 👍 515 • 💬 84 • ⏱️ 14:53 • 7h ago
+
+---
+
+**[Trump&#39;s Final Move (Bitcoin Reacts)](https://www.youtube.com/watch?v=r97oOoMUsMg)**
+
+Trump to open Hormuz, BTC, SOL, ETH, AMD, GLXY, and Humanoid robots BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 10K • 👍 601 • 💬 38 • ⏱️ 21:06 • 8h ago
 
 ---
 
@@ -353,7 +373,17 @@ Crypto News: Bitcoin fakes out bears and pumps to over $80K with the potential t
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 457 • 💬 67 • ⏱️ 19:58 • 14h ago
+👁️ 6K • 👍 463 • 💬 62 • ⏱️ 19:58 • 15h ago
+
+---
+
+**[THIS CHANGES EVERYTHING FOR BITCOIN !!!](https://www.youtube.com/watch?v=jDIoabR0r4M)**
+
+Yubit: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 WEEX: https://themoon.co/WEEXwelcome ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 485 • 💬 69 • ⏱️ 6:43 • 5h ago
 
 ---
 
@@ -363,7 +393,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 179 • ⏱️ 11:49 • 1d ago
+👁️ 32K • 👍 2K • 💬 180 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -373,47 +403,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 323 • 💬 49 • ⏱️ 16:59 • 23h ago
+👁️ 8K • 👍 343 • 💬 44 • ⏱️ 16:59 • 1d ago
 
 ---
 
-**[Pure Technical Analysis: Bitcoin at a Tipping Point, Altcoins Hanging By A Thread](https://www.youtube.com/watch?v=n0y51qT2SeA)**
+**[Bitcoin Price Pump - This Is Just The Start Of A Much BIGGER Move For Crypto](https://www.youtube.com/watch?v=nc9YW30ffZU)**
 
-Download Rumble Wallet now and enjoy the benefits of financial and personal freedom!
+Bitcoin Returns To $80000 For the First Time In 3 Months. When Can We Expect To See $90000? Yubit - Trade Crypto, Gold, ...
 
-📺 Gareth Soloway
+📺 The House Of Crypto
 
-👁️ 47K • 👍 3K • 💬 282 • ⏱️ 11:27 • 23h ago
-
----
-
-**[Is Crypto Really a Ponzi Scheme?](https://www.youtube.com/watch?v=9E7YPUr14-Y)**
-
-Why is the President of the United States shilling so hard for cryptocurrency? Because the entire industry is a Ponzi scheme ...
-
-📺 Robert Reich
-
-👁️ 93K • 👍 6K • 💬 268 • ⏱️ 1:46 • 1d ago
-
----
-
-**[Has bitcoin’s biggest mystery been solved?](https://www.youtube.com/watch?v=cJ7j3niU3Mw)**
-
-CNN's Jim Sciutto speaks with investigators Tyler Maroney and William Cohen about their hunt to uncover the true identity behind ...
-
-📺 CNN
-
-👁️ 94K • 👍 2K • 💬 145 • ⏱️ 2:05 • 1d ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=6RBevGGz1Pw)**
-
-It is once again time to dubiously speculate on the price of Bitcoin! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 98K • 👍 6K • 💬 382 • ⏱️ 25:43 • 2d ago
+👁️ 8K • 👍 765 • 💬 75 • ⏱️ 12:29 • 6h ago
 
 ---
 
