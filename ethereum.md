@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-04T19:04:50.705479+00:00'
+updated: '2026-05-04T20:48:04.598118+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 19:04 UTC  
+**Last Updated:** May 04, 2026 at 20:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,358.77
+### $2,350.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +3.2%  
-**30d:** +11.9%  
-**90d:** +9.9%  
-**1y:** +29.8%  
+**24h:** +1.1%  
+**7d:** +2.7%  
+**30d:** +11.4%  
+**90d:** +9.4%  
+**1y:** +29.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 7h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 9h ago
 
 ---
 
 **[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
 
-21h ago
+22h ago
 
 ---
 
@@ -152,7 +152,7 @@ Not long ago, I was asked about quantum computing and the threat it could pose t
 
 Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -164,11 +164,27 @@ XRP, Solana, and Ethereum all recorded losses in the past week. Despite the down
 
 ---
 
+**[Does The Ethereum 300% Boost In Capacity Mean Price Can Rise 3x To $6,000?](https://www.tradingview.com/news/newsbtc:ce0408c15094b:0-does-the-ethereum-300-boost-in-capacity-mean-price-can-rise-3x-to-6-000/)**
+
+The upcoming Ethereum scaling upgrade is drawing attention across the market, raising a critical question about whether a major leap in network capacity can translate into equally strong price growth. The idea sounds straightforward, but the relationship between infrastructure and valuation is rare…
+
+TradingView • 1h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-4-2026-bitcoin-tops-80000-then-pulls-back-114547251.html)**
 
 Bitcoin opened at $78,543.43 on Monday, 0.1% lower than Sunday’s opening price of $78,656.73. Ethereum opened at $2,322.49 on Monday, 0.3% higher than Sunday’s opening price of $2,316.21.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.18 Million Tokens, and Total Crypto and Total Cash Holdings of $13.1 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-18-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-1-billion-302760926.html)**
+
+Bitmine owns more than 4.29% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 10 months Crypto Spring has...
+
+PR Newswire • 8h ago
 
 ---
 
@@ -178,17 +194,9 @@ ethereum.org • 2d ago
 
 ---
 
-**[Market Analyst Predicts Bitcoin And Ethereum Prices For The Next 3 Quarters](https://www.tradingview.com/news/newsbtc:b3799c4b4094b:0-market-analyst-predicts-bitcoin-and-ethereum-prices-for-the-next-3-quarters/)**
+**[Tom Lee’s BitMine Swallows $23 Million in Ethereum as Foundation Sells 10,000 More Coins to Fund Development](https://www.tipranks.com/news/tom-lees-bitmine-swallows-23-million-in-ethereum-as-foundation-sells-10000-more-coins-to-fund-development)**
 
-Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
-
-TradingView • 2h ago
-
----
-
-**[Ethereum Investors Flee in Terror as a 72,000% Exit Line Explosion Follows a Massive Digital Crime Spree](https://www.tipranks.com/news/ethereum-investors-flee-in-terror-as-a-72000-exit-line-explosion-follows-a-massive-digital-crime-spree)**
-
-TipRanks • 8h ago
+TipRanks • 6h ago
 
 ---
 
@@ -196,13 +204,7 @@ TipRanks • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Ethereum Whale Buying at $322M Points to Accumulation Phase](https://www.investing.com/analysis/ethereum-whale-buying-at-322m-points-to-accumulation-phase-200679628)**
-
-Investing.com • 4h ago
+Fortune • 7h ago
 
 ---
 
@@ -210,7 +212,7 @@ Investing.com • 4h ago
 
 Most chains can't excel in every single potential application.
 
-The Motley Fool • 20h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -218,7 +220,7 @@ The Motley Fool • 20h ago
 
 Bitmine Immersion Technologies (NYSE:BMNR) acquired 101,745 Ethereum
 
-Benzinga • 2h ago
+Benzinga • 4h ago
 
 ---
 
@@ -232,7 +234,7 @@ Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-gra
 
 📺 Crossroads
 
-👁️ 2K • 👍 125 • 💬 13 • ⏱️ 10:34 • 4h ago
+👁️ 2K • 👍 125 • 💬 13 • ⏱️ 10:34 • 6h ago
 
 ---
 
@@ -242,7 +244,7 @@ This new data is huge for bitcoin, for ethereum and for the rest of crypto! A vi
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:06 • 8h ago
+👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:06 • 9h ago
 
 ---
 
@@ -272,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 232 • 👍 12 • 💬 2 • ⏱️ 4:53 • 9h ago
+👁️ 232 • 👍 12 • 💬 2 • ⏱️ 4:53 • 11h ago
 
 ---
 
@@ -282,7 +284,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 47 • 💬 1 • ⏱️ 5:14 • 44m ago
+👁️ 47 • 💬 1 • ⏱️ 5:14 • 2h ago
 
 ---
 
@@ -292,7 +294,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 285 • 💬 41 • ⏱️ 15:33 • 1d ago
+👁️ 7K • 👍 285 • 💬 41 • ⏱️ 15:33 • 2d ago
 
 ---
 
@@ -312,7 +314,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 633 • 👍 73 • ⏱️ 7:47 • 6h ago
+👁️ 633 • 👍 73 • ⏱️ 7:47 • 8h ago
 
 ---
 

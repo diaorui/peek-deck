@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-04T19:04:50.699457+00:00'
+updated: '2026-05-04T20:48:04.591776+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 19:04 UTC  
+**Last Updated:** May 04, 2026 at 20:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,066.76
+### $80,118.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +4.9%  
-**30d:** +16.0%  
-**90d:** +9.5%  
-**1y:** -15.5%  
+**24h:** +1.4%  
+**7d:** +4.8%  
+**30d:** +15.9%  
+**90d:** +9.3%  
+**1y:** -15.6%  
 
 ---
 
@@ -77,19 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Been in the Bitcoin space for years and just now fully understood the (US) 0% capital gains bracket.](https://www.reddit.com/r/Bitcoin/comments/1t3aheg/been_in_the_bitcoin_space_for_years_and_just_now/)**
-
-If your taxable income is low enough, you pay zero federal tax on long-term Bitcoin gains. It’s just how the brackets work. Long-term gains (held 12+ months) get taxed at 0%, 15%, or 20% depending on your income. In 2024 the 0% threshold is ~$47k for single filers, ~$94k married. That’s taxable income too, so after the standard deduction ($14,600 single). A single person could have $61k in gross income and still land in the 0% bracket. So if you ever have a low income year, sabbatical, between jobs, slow freelance year, early retirement, you might be able to sell appreciated BTC and owe nothing federally. Sell, rebuy, reset your cost basis. People do this with stocks all the time. It’s called tax gain harvesting and works the same with crypto. State taxes vary a lot so factor that in depending on where you live. Worth running the numbers before year end if you’re ever in a lean year.
-
-11h ago
-
----
-
 **[Today we celebrate the birthday of Hal Finney, one of the most important figures in Bitcoin’s history.](https://www.reddit.com/r/Bitcoin/comments/1t3j7dv/today_we_celebrate_the_birthday_of_hal_finney_one/)**
 
 He was the first recipient of BTC, one of its earliest developers, and above all, a true believer in the technology when it was still just an idea. His famous phrase, “Running Bitcoin,” wasn’t just technical… it was a statement of principles. Today, millions of people around the world continue that path. Thank you for opening the door. 🧡 Thank you for running first.
 
-4h ago
+6h ago
+
+---
+
+**[Bitcoin Back to the 80s](https://www.reddit.com/r/Bitcoin/comments/1t3qzvc/bitcoin_back_to_the_80s/)**
+
+1h ago
+
+---
+
+**[Been in the Bitcoin space for years and just now fully understood the (US) 0% capital gains bracket.](https://www.reddit.com/r/Bitcoin/comments/1t3aheg/been_in_the_bitcoin_space_for_years_and_just_now/)**
+
+If your taxable income is low enough, you pay zero federal tax on long-term Bitcoin gains. It’s just how the brackets work. Long-term gains (held 12+ months) get taxed at 0%, 15%, or 20% depending on your income. In 2024 the 0% threshold is ~$47k for single filers, ~$94k married. That’s taxable income too, so after the standard deduction ($14,600 single). A single person could have $61k in gross income and still land in the 0% bracket. So if you ever have a low income year, sabbatical, between jobs, slow freelance year, early retirement, you might be able to sell appreciated BTC and owe nothing federally. Sell, rebuy, reset your cost basis. People do this with stocks all the time. It’s called tax gain harvesting and works the same with crypto. State taxes vary a lot so factor that in depending on where you live. Worth running the numbers before year end if you’re ever in a lean year.
+
+13h ago
 
 ---
 
@@ -103,7 +109,7 @@ In 2009 Kristoffer Koch was a 22-year-old student in Norway writing his thesis o
 
 **[It shall never be enough!](https://www.reddit.com/r/Bitcoin/comments/1t389lj/it_shall_never_be_enough/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -111,15 +117,7 @@ In 2009 Kristoffer Koch was a 22-year-old student in Norway writing his thesis o
 
 Its one thing to own an asset like bitcoin but its a completely different thing to receive cash flow every month from an asset. I feel like diversifying into other liquid assets that produce income should be wise, for example T-bills. But my mind says that goes against the entire premise of bitcoin and sound money. Treasuries are fiat, they are just IOUs for fiat meaning they devalue just as much as fiat. So why would I hold T-bills if they constantly devalue while also bringing sovereign and political risk into the mix. You make a yield on the T-bill but for the most part that yield is just compensating for the devaluation of the purchasing power of the T-bills. Realestate isnt liquid and has its own issues like maintence etc. Stocks come with dilution risk and corporate risk. So my question is, how can I derive yield from my bitcoin without having to diversify into other assets?
 
-7h ago
-
----
-
-**[Got my first $50 worth of bitcoin today](https://www.reddit.com/r/Bitcoin/comments/1t39tl4/got_my_first_50_worth_of_bitcoin_today/)**
-
-I know it aint much but i have been meaning to start for s long time and this was not easy to figure out self custody, peer to peer and storing it in wallet that never touched the internet. Am i one of you now?
-
-12h ago
+9h ago
 
 ---
 
@@ -127,13 +125,15 @@ I know it aint much but i have been meaning to start for s long time and this wa
 
 ​ Just got into BTC a couple months ago, and right now I have my seed phrase stamped on a metal plate stored in a home safe. My main worry is: what’s the absolute safest way to keep these words so no third party—like a thief, a family member, or even a contractor in the house—could ever get them? I’ve thought about splitting the phrase into parts and storing them in different locations (bank deposit box, relative’s house, etc.), but doesn’t that just create more points of failure or risk someone finding a partial phrase? Curious how you veterans handle this without overcomplicating things.
 
-3h ago
+5h ago
 
 ---
 
-**[Bitcoin Back to the 80s](https://www.reddit.com/r/Bitcoin/comments/1t3qzvc/bitcoin_back_to_the_80s/)**
+**[Got my first $50 worth of bitcoin today](https://www.reddit.com/r/Bitcoin/comments/1t39tl4/got_my_first_50_worth_of_bitcoin_today/)**
 
-9m ago
+I know it aint much but i have been meaning to start for s long time and this was not easy to figure out self custody, peer to peer and storing it in wallet that never touched the internet. Am i one of you now?
+
+14h ago
 
 ---
 
@@ -141,13 +141,15 @@ I know it aint much but i have been meaning to start for s long time and this wa
 
 I feel like everyone in crypto has that one mistake they'll never repeat - buying at the top, trusting the wrong project, or panic selling.
 
-5h ago
+7h ago
 
 ---
 
-**[Son](https://www.reddit.com/r/Bitcoin/comments/1t2p07z/son/)**
+**[Strive's Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://www.reddit.com/r/Bitcoin/comments/1t3u3hb/strives_bitcoin_treasury_crosses_15000_btc_after/)**
 
-1d ago
+Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treasury has crossed the 15,000 BTC threshold, following the purchase of 444 bitcoin for $33.9 million at an average cost of $76,307 per coin. CEO Matt Cole announced the acquisition on X, and the company filed an 8-K with the SEC confirming the details. The purchase extends a string of accumulation moves that have positioned Strive as one of the more active corporate Bitcoin buyers in the market. As of April 24, Strive held 14,557 BTC after a separate purchase of 789 bitcoin at $77,890 per coin. The latest transaction pushes the total stack past 15,000 BTC, a holding valued at around $1.2 billion at current prices. The SEC filing detailed the company’s balance sheet as of May 1: $97.9 million in cash and cash equivalents, and $50.4 million in the Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) of Strategy — Michael Saylor’s firm, which rebranded from MicroStrategy. Strive reported 63,129,587 shares of Class A common stock and 9,893,844 shares of Class B common stock outstanding, together with 4,959,536 shares of its Variable Rate Series A Perpetual Preferred Stock, traded under the ticker SATA. The milestone follows Strive’s completion of its acquisition of Semler Scientific in January 2026, which brought the medical technology firm into Strive as a subsidiary. At the close of that deal, Strive held 12,798 BTC and ranked as the 11th largest public corporate Bitcoin holder in the world. The company has added more than 2,200 BTC to its treasury since that transaction. Strive as the first public asset management Bitcoin treasury corporation Strive describes itself as the first public asset management Bitcoin treasury corporation. Its strategy centers on growth in Bitcoin per share, treating Bitcoin as the hurdle rate for all capital allocation decisions. CEO Matt Cole, who has led the company since April 2023 and has served as Chairman since September 2025, has steered the company toward what he terms “digital credit” — structured finance products that generate yield through Bitcoin exposure. The SATA preferred stock stands at the center of that strategy. Strive raised $225 million in an oversubscribed SATA offering in January 2026, with investor demand exceeding $600 million. The stock carries an annualized yield near 13%, and the product held its peg through Bitcoin’s recent 50% drawdown. Strive’s $50.4 million position in Strategy’s STRC preferred stock reflects a parallel bet on Bitcoin-backed structured products across the corporate treasury space.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000) • 4m ago
 
 ---
 
@@ -155,25 +157,27 @@ I feel like everyone in crypto has that one mistake they'll never repeat - buyin
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise](https://www.bloomberg.com/news/articles/2026-05-04/bitcoin-btc-tops-80-000-for-three-month-high-as-asian-stocks-rise)**
+**[Bitcoin and ethereum prices today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-4-2026-bitcoin-tops-80000-then-pulls-back-114547251.html)**
 
-Bloomberg.com • 2h ago
+Bitcoin opened at $78,543.43 on Monday, 0.1% lower than Sunday’s opening price of $78,656.73. Ethereum opened at $2,322.49 on Monday, 0.3% higher than Sunday’s opening price of $2,316.21.
+
+Yahoo Finance • 9h ago
 
 ---
 
-**[Hut 8 cuts bitcoin credit costs with FalconX refinancing, freeing 3,300 BTC from collateral](https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai)**
+**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs)**
 
-A new $200 million, 364-day bitcoin-backed facility replaces Coinbase Credit arrangement, cutting debt costs by 200 basis points.
+The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
 
 CoinDesk • 30m ago
 
 ---
 
-**[Bitcoin realized profits hit 1-month high—analysts weigh in](https://www.tradingview.com/news/invezz:7738b1260094b:0-bitcoin-realized-profits-hit-1-month-high-analysts-weigh-in/)**
+**[Has bitcoin’s biggest mystery been solved?](https://www.cnn.com/2026/05/03/business/video/bitcoin-founder-satoshi-nakamoto-investigation-digvid-vrtc)**
 
-Bitcoin price surged to a four-month high above $80,600 on Monday, May 4, with the benchmark crypto asset breaching the $80k supply wall amid a broader uptick for risk assets.Most of the intraday gains came after President Donald Trump announced Project Freedom, an effort aimed at escorting foreign…
+CNN’s Jim Sciutto speaks with investigators Tyler Maroney and William Cohen about their hunt to uncover the true identity behind the pseudonym used by Bitcoin founder Satoshi Nakamoto.
 
-TradingView • 55m ago
+CNN • 1d ago
 
 ---
 
@@ -181,21 +185,7 @@ TradingView • 55m ago
 
 ‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
 
-Fortune • 3h ago
-
----
-
-**[Morgan Stanley: Bitcoin on Bank Balance Sheets Is Coming](https://bitbo.io/news/morgan-stanley-bitcoin-bank-balance-sheets/)**
-
-Morgan Stanley's head of digital asset strategy Amy Oldenburg says bitcoin will eventually reach U.S. bank balance sheets, but regulatory hurdles from the Fed, Basel rules, and global regulators still stand in the way.
-
-Bitbo • 3h ago
-
----
-
-**[Bitcoin surge above $80K fuels rally in cryptocurrency-linked stocks (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4584498-bitcoin-tops-80000-to-hit-three-month-high-ether-advances)**
-
-Seeking Alpha • 9h ago
+Fortune • 5h ago
 
 ---
 
@@ -203,7 +193,21 @@ Seeking Alpha • 9h ago
 
 The new lawsuit targets MARA’s Granbury site as Bitcoin mining companies pivot to providing AI infrastructure.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
+
+---
+
+**[Morgan Stanley: Bitcoin on Bank Balance Sheets Is Coming](https://bitbo.io/news/morgan-stanley-bitcoin-bank-balance-sheets/)**
+
+Morgan Stanley's head of digital asset strategy Amy Oldenburg says bitcoin will eventually reach U.S. bank balance sheets, but regulatory hurdles from the Fed, Basel rules, and global regulators still stand in the way.
+
+Bitbo • 4h ago
+
+---
+
+**[Bitcoin surge above $80K fuels rally in cryptocurrency-linked stocks (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4584498-bitcoin-tops-80000-to-hit-three-month-high-ether-advances)**
+
+Seeking Alpha • 11h ago
 
 ---
 
@@ -211,7 +215,13 @@ Decrypt • 2h ago
 
 Trump said the US will guide stranded ships through the Strait of Hormuz, while an Iranian official warned that this could violate ceasefire.
 
-The Block • 15h ago
+The Block • 16h ago
+
+---
+
+**[Strategy Pauses Bitcoin Buys Before Q1 2026 Results — What To Watch](https://www.ccn.com/news/crypto/strategy-pauses-bitcoin-buys-before-q1-2026-results-what-to-watch/)**
+
+CCN.com • 12h ago
 
 ---
 
@@ -220,14 +230,6 @@ The Block • 15h ago
 Bitcoin surged in April, but its run could be on shaky ground, according to CryptoQuant.
 
 CNBC • 3d ago
-
----
-
-**[Is Bitcoin a Great Investment for Retirement Savings?](https://www.fool.com/investing/2026/05/01/is-bitcoin-a-great-buy-for-retirement-savings/)**
-
-This asset has a lot to offer, but its volatility is an obstacle.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -323,7 +325,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 793 • 💬 71 • ⏱️ 1:00:32 • 4h ago
+👁️ 13K • 👍 793 • 💬 71 • ⏱️ 1:00:32 • 5h ago
 
 ---
 
@@ -333,7 +335,7 @@ Doesn't matter which crypto charts you have open. Bitcoin, Ethereum, Sui, Cardan
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 760 • 💬 360 • ⏱️ 19:42 • 14h ago
+👁️ 14K • 👍 760 • 💬 360 • ⏱️ 19:42 • 16h ago
 
 ---
 
@@ -343,7 +345,7 @@ In this tactical market update, Kyle Doops analyzes the current Bitcoin short sq
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 40 • ⏱️ 28:41 • 11h ago
+👁️ 14K • 👍 1K • 💬 40 • ⏱️ 28:41 • 13h ago
 
 ---
 
@@ -353,7 +355,7 @@ Bitcoin: First Target Reached! Here's What's Next Cycles are in control Bitcoin 
 
 📺 Camel Finance
 
-👁️ 7K • 👍 515 • 💬 84 • ⏱️ 14:53 • 7h ago
+👁️ 7K • 👍 515 • 💬 84 • ⏱️ 14:53 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ Trump to open Hormuz, BTC, SOL, ETH, AMD, GLXY, and Humanoid robots BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 10K • 👍 601 • 💬 38 • ⏱️ 21:06 • 8h ago
+👁️ 10K • 👍 601 • 💬 38 • ⏱️ 21:06 • 9h ago
 
 ---
 
@@ -373,7 +375,7 @@ Crypto News: Bitcoin fakes out bears and pumps to over $80K with the potential t
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 463 • 💬 62 • ⏱️ 19:58 • 15h ago
+👁️ 6K • 👍 463 • 💬 62 • ⏱️ 19:58 • 17h ago
 
 ---
 
@@ -383,7 +385,7 @@ Yubit: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 WEEX: h
 
 📺 The Moon Show
 
-👁️ 6K • 👍 485 • 💬 69 • ⏱️ 6:43 • 5h ago
+👁️ 6K • 👍 485 • 💬 69 • ⏱️ 6:43 • 6h ago
 
 ---
 
@@ -413,7 +415,7 @@ Bitcoin Returns To $80000 For the First Time In 3 Months. When Can We Expect To 
 
 📺 The House Of Crypto
 
-👁️ 8K • 👍 765 • 💬 75 • ⏱️ 12:29 • 6h ago
+👁️ 8K • 👍 765 • 💬 75 • ⏱️ 12:29 • 8h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-04T19:04:50.708692+00:00'
+updated: '2026-05-04T20:48:04.601450+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 04, 2026 at 19:04 UTC  
+**Last Updated:** May 04, 2026 at 20:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
-10h ago
+11h ago
 
 ---
 
 **[Hyundai Motor Group introduces MobED, a self-balancing robot designed for stable movement on rough surfaces](https://www.reddit.com/r/robotics/comments/1t3ndyi/hyundai_motor_group_introduces_mobed_a/)**
 
-2h ago
+3h ago
 
 ---
 
 **[I got LoRA training working on GR00T N1.7 (NVIDIA's official recipe stops at N1.5)](https://www.reddit.com/r/robotics/comments/1t3o70w/i_got_lora_training_working_on_gr00t_n17_nvidias/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -56,13 +56,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Full code is on GitHub: https://github.com/zahirmahammad/IsaacLab_PPO.git I kept it simple - just a single script that can run any environment, without unnecessary complexity. I’m exploring more in reinforcement learning and want to build interesting projects while keeping codebase minimal but robust. Open to ideas and feedback - feel free to share!
 
-10h ago
+12h ago
 
 ---
 
 **[My little mobile robot](https://www.reddit.com/r/robotics/comments/1t3238y/my_little_mobile_robot/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -70,7 +70,7 @@ Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Fu
 
 Looking to get my hands dirty with VLA. Jut want to replicate something that works and wel document. Goal: 1. Pick a problem 2. Use VLA and see that it doesn't meet the bar 3. Collect some data - Do immitation learning 4. Do RL on task and show it works. I worked on RL for 10 years but didn't do it in last 2 years. So, the goal is just to get my hands dirty soon. Would appreciate if someone can suggest an already existing git repo - with sim. Dont want anything on hardware now. Reasonable cost. Possibly lerobot/ others fine too. Thank you folks
 
-1h ago
+3h ago
 
 ---
 
@@ -78,7 +78,7 @@ Looking to get my hands dirty with VLA. Jut want to replicate something that wor
 
 I just wanted to figure out which AI companion robot to buy. I ended up building an entire website to compare them. Still early days — new models being reviewed and added every week.
 
-🔗 [robotics.cantarollm.tech](http://robotics.cantarollm.tech) • 2h ago
+🔗 [robotics.cantarollm.tech](http://robotics.cantarollm.tech) • 4h ago
 
 ---
 
@@ -86,15 +86,7 @@ I just wanted to figure out which AI companion robot to buy. I ended up building
 
 For the past few months I've been studying screw theory from the book Modern Robotics by Park and Lynch. I wanted to experiment with it in a non-destructive environment before I tried it out on the robot arm that I built in my previous project. I set up a UR5e simulation in Webots to safely iterate on my kinematics implementation. Right now I use velocity inverse kinematics to get the end-effector to move in straight lines, and a simple PID control loop to help the solution converge. The next thing I'm trying out is adding a trapezoidal velocity profile for smoother motions (accelerate to a certain speed, then decelerate as the robot approaches its target). In general, is it feasible to combine PID control with speed/acceleration control, or would they fight each other? If you're interested, check out the details of my project so far! The Github and a technical document about kinematics with screw theory are attached in that article. If you have any feedback, notice any mistakes, or have any questions, please leave a comment!
 
-23h ago
-
----
-
-**[Starting in robotics](https://www.reddit.com/r/robotics/comments/1t3cymz/starting_in_robotics/)**
-
-Hi, I am starting in robotics, I already build a little robot with wheels that just goes forward, backwards and turn. I want to create more, but first I want to learn about it. Like what are the basic I need parts I need and what does it do. I know that there is a lot of information online, but I just don't know wich is the best that is free, can you guys help me? I have a good base in electrionics, I am a second year student in electrical engineering. Thanks
-
-9h ago
+1d ago
 
 ---
 
@@ -102,7 +94,15 @@ Hi, I am starting in robotics, I already build a little robot with wheels that j
 
 Researchers at EPFL developed a control framework that allows robots with different mechanical designs to perform the same task without rewriting code. The method captures human-demonstrated actions and converts them into a general motion strategy based on kinematics. Each robot then adapts that strategy to its own joint limits and structure, rather than relying on retraining or large datasets. In testing, different robots completed parts of the same assembly sequence using the same learned task. Each executed it differently, but within safe operating limits. The goal is to reduce the need to reprogram tasks when robots are replaced or systems change, while keeping behavior predictable and consistent.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/new-framework-teaches-same-skill-to-different-robots) • 3h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/new-framework-teaches-same-skill-to-different-robots) • 5h ago
+
+---
+
+**[Starting in robotics](https://www.reddit.com/r/robotics/comments/1t3cymz/starting_in_robotics/)**
+
+Hi, I am starting in robotics, I already build a little robot with wheels that just goes forward, backwards and turn. I want to create more, but first I want to learn about it. Like what are the basic I need parts I need and what does it do. I know that there is a lot of information online, but I just don't know wich is the best that is free, can you guys help me? I have a good base in electrionics, I am a second year student in electrical engineering. Thanks
+
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Researchers at EPFL developed a control framework that allows robots with differ
 
 **[Meta Buys Robotics Startup ARI in Push Toward ‘Physical AGI’](https://www.eweek.com/news/meta-acquires-ari-humanoid-robotics-ai/)**
 
-eWeek • 5h ago
+eWeek • 7h ago
 
 ---
 
@@ -120,7 +120,15 @@ eWeek • 5h ago
 
 But can it clean the floors?
 
-The Verge • 2h ago
+The Verge • 3h ago
+
+---
+
+**[One Of iRobot's Co-Founders Is Now Making Weird Little Robot Companions](https://www.engadget.com/2164170/one-of-irobots-co-founders-is-now-making-weird-little-robot-companions/)**
+
+They are like pets, but without all of that pesky love.
+
+Engadget • 2h ago
 
 ---
 
@@ -132,23 +140,19 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[iRobot's founder is back with a robot that doesn't clean, doesn't talk and might become your best friend](https://www.masslive.com/news/2026/05/after-selling-50-million-robot-vacuums-irobots-founder-has-a-new-mission.html)**
+**[C2 Robotics christens first US export Speartooth LUUV](https://www.navalnews.com/naval-news/2026/05/c2-robotics-christens-first-us-export-speartooth-luuv/)**
 
-MassLive • 2h ago
+C2 Robotics has today marked a significant milestone with the commissioning and christening of its Speartooth Large Uncrewed Undersea Vehicle (LUUV), the first to be delivered to the United States.
 
----
-
-**[One Of iRobot's Co-Founders Is Now Making Weird Little Robot Companions](https://www.engadget.com/2164170/one-of-irobots-co-founders-is-now-making-weird-little-robot-companions/)**
-
-They are like pets, but without all of that pesky love.
-
-Engadget • 28m ago
+navalnews.com • 22h ago
 
 ---
 
-**[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914)**
+**[SAIL tech lets robots perform human-scale tasks far more quickly](https://newatlas.com/robotics/sail-robots-human-scale-tasks/)**
 
-Gizmodo • 10h ago
+Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
+
+New Atlas • 9h ago
 
 ---
 
@@ -160,27 +164,25 @@ Penn Today • 3d ago
 
 ---
 
-**[SAIL tech lets robots perform human-scale tasks far more quickly](https://newatlas.com/robotics/sail-robots-human-scale-tasks/)**
-
-Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
-
-New Atlas • 7h ago
-
----
-
-**[C2 Robotics christens first US export Speartooth LUUV](https://www.navalnews.com/naval-news/2026/05/c2-robotics-christens-first-us-export-speartooth-luuv/)**
-
-C2 Robotics has today marked a significant milestone with the commissioning and christening of its Speartooth Large Uncrewed Undersea Vehicle (LUUV), the first to be delivered to the United States.
-
-navalnews.com • 21h ago
-
----
-
 **[Faraday Future takes robots to campus, opens Omaha AI institute](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-04fxpxa2s71y.html)**
 
 June target is 200 units. FF and Boston International Business School launched an Omaha institute, pushing its robotics program into U.S. universities.
 
-Stock Titan • 20h ago
+Stock Titan • 21h ago
+
+---
+
+**[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914)**
+
+Gizmodo • 11h ago
+
+---
+
+**[Robotic passenger traveling for work causes Southwest flight delay](https://www.kctv5.com/2026/05/03/robotic-passenger-traveling-work-causes-southwest-flight-delay/)**
+
+Passengers on a Southwest Airlines flight arrived late after a humanoid robot prompted a runway delay.
+
+KCTV • 1d ago
 
 ---
 
