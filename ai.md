@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-05T01:12:23.380951+00:00'
+updated: '2026-05-05T04:41:54.076073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 05, 2026 at 01:12 UTC  
+**Last Updated:** May 05, 2026 at 04:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 ---
 
-**[am I the only one whose friends are completely divided on AI?](https://www.reddit.com/r/artificial/comments/1t3e57u/am_i_the_only_one_whose_friends_are_completely/)**
+**[Anthropic Launches Enterprise AI Firm With Wall Street Giants](https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/)**
 
-been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
+Anthropic is launching a new venture focused on selling AI tools to enterprise companies. This effort is being launched in partnership with Goldman Sachs, the Wall Street bank said Monday (May 4), in conjunction with investment firm Blackstone, and private equity group Hellman & Friedman, and will help companies embed Anthropic’s Claude artificial intelligence (AI) model into their businessses. “Enterprise demand for Claude is significantly outpacing any single delivery model,” Krishna Rao, Anthropic’s finance chief, said in a news release provided to PYMNTS. “Our partnerships with the world’s leading systems integrators are central to how Claude reaches large enterprises. This new firm brings additional operating capability to the ecosystem and capital from leading alternative asset managers.” Marc Nachmann, global head of asset and wealth management at Goldman Sachs, said the partnership will allow mid-market companies to employ Anthropic’s tech to bolster their businesses. “By democratizing access to forward-deployed engineers, the new company can help the expansive network of portfolio companies in our Asset Management business and other companies of similar sizes accelerate AI adoption to grow and scale their operations,” he added.
 
-14h ago
+1h ago
+
+---
+
+**[Chinese court sides with worker who was replaced by AI](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)**
+
+Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 8h ago
+
+---
+
+**[The case for AI increasing your salary](https://www.reddit.com/r/artificial/comments/1t3wueu/the_case_for_ai_increasing_your_salary/)**
+
+Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
+
+6h ago
 
 ---
 
@@ -57,7 +73,15 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
 
-4h ago
+7h ago
+
+---
+
+**[am I the only one whose friends are completely divided on AI?](https://www.reddit.com/r/artificial/comments/1t3e57u/am_i_the_only_one_whose_friends_are_completely/)**
+
+been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
+
+17h ago
 
 ---
 
@@ -65,7 +89,7 @@ I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic"
 
 If the Claude app actually had the same level of control you get with the CLI, I kind of wonder how many people would still stick with the CLI day to day. Like, would it still feel worth it for the extra setup and terminal workflow, or would most people just default to the app because it’s simpler and already right there? I feel like the CLI’s biggest advantage is really the flexibility and how well it plugs into automation and dev workflows, but if that all lived inside the app in a clean way, it kind of blurs the line a lot. At that point I’m genuinely not sure if the CLI would still feel like a “must-have” tool for most people, or if it would just become something a smaller group of power users keep using out of habit or preference. I’m curious how others see it, would you actually still reach for the CLI, or would you just stay in the app?
 
-11h ago
+14h ago
 
 ---
 
@@ -77,27 +101,11 @@ Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I w
 
 ---
 
-**[Chinese court sides with worker who was replaced by AI](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)**
-
-Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 4h ago
-
----
-
 **[On-device AI changes how people behave with sensitive data. I noticed this while building a therapy prep voice agent](https://www.reddit.com/r/artificial/comments/1t3trh1/ondevice_ai_changes_how_people_behave_with/)**
 
 Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: the on-device constraint made the product better. Tighter context forced cleaner prompting. The brief that comes out is more focused than early versions built with more headroom. Sometimes the limitation shapes the design in ways you wouldn’t choose intentionally. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
 
-4h ago
-
----
-
-**[The case for AI increasing your salary](https://www.reddit.com/r/artificial/comments/1t3wueu/the_case_for_ai_increasing_your_salary/)**
-
-Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
-
-2h ago
+8h ago
 
 ---
 
@@ -105,15 +113,7 @@ Here me out because I know there's a lot of doom and gloom, and believe me, I un
 
 I'm looking for a voice generator which let's me.make a voice over for videos. It doesn't need to be overly complicated, just something that takes text and converts it to voice. Free would be great but I'm willing to pay. There's like 50 different things im seeing, what's the best out there?
 
-9h ago
-
----
-
-**[ROCm 7.2.3 brings minor updates, ROCm XIO documentation](https://www.reddit.com/r/artificial/comments/1t3tsj8/rocm_723_brings_minor_updates_rocm_xio/)**
-
-Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available with some minor improvements to this open-source AMD GPU compute and AI stack.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2.3) • 4h ago
+13h ago
 
 ---
 
@@ -123,7 +123,21 @@ Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available 
 
 **[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-The New York Times • 2h ago
+The New York Times • 6h ago
+
+---
+
+**[Trump administration considering safety review for new AI models after Mythos](https://www.axios.com/2026/05/04/trump-white-house-ai-safety-tests-mythos)**
+
+Axios • 7h ago
+
+---
+
+**[President Trump Could Vet AI Models Before Public Release](https://www.yahoo.com/news/articles/president-trump-could-vet-ai-020814284.html)**
+
+Trump’s White House is reportedly considering pre-release reviews for powerful AI models amid growing cyber and security concerns.
+
+Yahoo • 1h ago
 
 ---
 
@@ -131,29 +145,29 @@ The New York Times • 2h ago
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-OpenAI • 6h ago
+OpenAI • 9h ago
 
 ---
 
-**[AI’s Hottest Private Companies Have Booming Crypto Shadow Market](https://www.bloomberg.com/news/articles/2026-05-05/ai-s-hottest-private-companies-have-booming-crypto-shadow-market)**
+**[As workers worry about AI, Nvidia's Jensen Huang says AI is 'creating an enormous number of jobs'](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)**
 
-Bloomberg.com • 42m ago
+The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.
 
----
-
-**[Putting educators at the center of AI learning](https://blog.google/company-news/inside-google/around-the-globe/google-asia/putting-educators-at-the-center-of-ai-learning/)**
-
-We are adding $10 million to the AI Opportunity Fund to help students, educators and workers learn essential AI skills.
-
-blog.google • 5m ago
+TechCrunch • 1h ago
 
 ---
 
-**[Andy Jassy says Amazon investors will be rewarded by all its AI spending](https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html)**
+**[AI Threatens Private Debt Recovery in Software: Davidson Kempner](https://www.bloomberg.com/news/articles/2026-05-05/ai-threatens-private-debt-recovery-in-software-davidson-kempner)**
 
-CEO Andy Jassy said Amazon’s massive AI spending reflects a once-in-a-generation opportunity and will ultimately reward investors.
+Bloomberg.com • 41m ago
 
-CNBC • 2h ago
+---
+
+**[Viral female history influencer turns out to be British male using AI](https://www.yahoo.com/entertainment/celebrity/articles/viral-female-history-influencer-turns-040000905.html)**
+
+"Having a personality always helps on social media."
+
+Yahoo • 41m ago
 
 ---
 
@@ -161,35 +175,21 @@ CNBC • 2h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 10h ago
+Anthropic • 14h ago
 
 ---
 
-**[Import AI 455: AI systems are about to start building themselves.](https://importai.substack.com/p/import-ai-455-automating-ai-research)**
+**[Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms](https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html)**
 
-Import AI | Jack Clark | Substack • 12h ago
+The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI
 
----
-
-**[Democratic leaders want an affordability debate on AI. Critics say they’re ducking the real fight.](https://www.politico.com/news/2026/05/04/democratic-leaders-want-an-affordability-debate-on-ai-critics-say-theyre-ducking-the-real-fight-00902977)**
-
-Politico • 16h ago
+CNBC • 11h ago
 
 ---
 
-**[AI models are choking on junk data](https://fortune.com/2026/05/03/ai-models-are-choking-on-junk-data/)**
+**[Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html)**
 
-The quest for more training data has created a glut of low-quality junk data that could derail the promise of physical AI.
-
-Fortune • 1d ago
-
----
-
-**[Roomba pioneer aims to crack the household market again with an AI-powered pet robot](https://apnews.com/article/ai-pet-robot-familiar-machines-irobot-roomba-da873ddff1ebcc95f793852b8e53d2d2)**
-
-The robotics pioneer who helped unleash the Roomba vacuum is now betting that you might one day replace your beloved dog or cat with a plush robot that follows you around your home and adapts to your daily habits.
-
-AP News • 4h ago
+The New York Times • 11h ago
 
 ---
 
@@ -201,7 +201,15 @@ AP News • 4h ago
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 571 • 💬 542 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 580 • 💬 548 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+
+---
+
+**[How OpenAI delivers low-latency voice AI at scale](https://news.ycombinator.com/item?id=48013919)**
+
+How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
+
+⬆️ 334 • 💬 110 • 8h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -217,15 +225,7 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 280 • 💬 289 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
-
----
-
-**[How OpenAI delivers low-latency voice AI at scale](https://news.ycombinator.com/item?id=48013919)**
-
-How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
-
-⬆️ 266 • 💬 96 • 5h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 281 • 💬 291 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -233,15 +233,7 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 109 • 💬 96 • 8h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
-
----
-
-**[Show HN: Agent-desktop – Native desktop automation CLI for AI agents](https://news.ycombinator.com/item?id=47982708)**
-
-Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs. - lahfir/agent-desktop
-
-⬆️ 98 • 💬 35 • 2d ago • [GitHub](https://github.com/lahfir/agent-desktop)
+⬆️ 115 • 💬 106 • 12h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -265,13 +257,19 @@ Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖 - mahim
 
 AI is quietly entering the bedroom — and taking notes. A look at connected pleasure devices, biometric data, and the privacy questions nobody is asking.
 
-⬆️ 81 • 💬 6 • 1d ago • [fshot.org](https://fshot.org/techzone/the-algorithm-knows.php)
+⬆️ 81 • 💬 6 • 2d ago • [fshot.org](https://fshot.org/techzone/the-algorithm-knows.php)
 
 ---
 
 **[The Oscars just banned AI from winning acting and writing awards](https://news.ycombinator.com/item?id=47999346)**
 
 ⬆️ 76 • 💬 62 • 1d ago • [gizmodo.com](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)
+
+---
+
+**[The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://news.ycombinator.com/item?id=47991340)**
+
+⬆️ 75 • 💬 124 • 2d ago • [dailygrail.com](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
 
 ---
 
@@ -285,17 +283,7 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 22K • 👍 991 • 💬 163 • ⏱️ 21:59 • 7h ago
-
----
-
-**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
-
-AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
-
-📺 The Diary Of A CEO
-
-👁️ 616K • 👍 17K • 💬 3K • ⏱️ 1:58:11 • 18h ago
+👁️ 44K • 👍 1K • 💬 232 • ⏱️ 21:59 • 10h ago
 
 ---
 
@@ -305,7 +293,57 @@ FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 26K • 👍 1K • 💬 96 • ⏱️ 6:54 • 10h ago
+👁️ 32K • 👍 1K • 💬 115 • ⏱️ 6:54 • 13h ago
+
+---
+
+**[Big Tech&#39;s AI Plan Has Failed](https://www.youtube.com/watch?v=tR5adb2Ts6c)**
+
+GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYanshin Big Tech is spending over ...
+
+📺 Sasha Yanshin
+
+👁️ 56K • 👍 3K • 💬 466 • ⏱️ 16:06 • 12h ago
+
+---
+
+**[We Asked AI To Show America Without Republicans](https://www.youtube.com/watch?v=jAcxE5w52vI)**
+
+We asked AI to show America without any Republicans.
+
+📺 The Babylon Bee
+
+👁️ 59K • 👍 5K • 💬 416 • ⏱️ 1:25 • 6h ago
+
+---
+
+**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
+
+AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
+
+📺 The Diary Of A CEO
+
+👁️ 718K • 👍 19K • 💬 3K • ⏱️ 1:58:11 • 21h ago
+
+---
+
+**[Stop Paying For ChatGPT | Meta AI Already Does Everything I Pay For](https://www.youtube.com/watch?v=84YOGkVfF1g)**
+
+I tested the new Meta AI app for a full week and it replaced four AI tools I was paying for. Image generation. Vibe coding.
+
+📺 Nicky Saunders
+
+👁️ 1K • 👍 151 • 💬 1 • ⏱️ 2:33:36 • 59m ago
+
+---
+
+**[‘Weird even for HIM’: Nicolle on Trump’s BIZARRE string of posts, AI photo of himself with abs](https://www.youtube.com/watch?v=8Tdv9csTYcg)**
+
+Questions about Donald Trump's mental fitness are growing louder after the president went on another late night posting spree, ...
+
+📺 MS NOW
+
+👁️ 32K • 👍 2K • 💬 374 • ⏱️ 10:43 • 1h ago
 
 ---
 
@@ -315,17 +353,17 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 83K • 👍 6K • 💬 2K • ⏱️ 28:29 • 13h ago
+👁️ 101K • 👍 7K • 💬 2K • ⏱️ 28:29 • 17h ago
 
 ---
 
-**[7 Prompts You Need to Create Better AI Videos (ASAP)](https://www.youtube.com/watch?v=S2F-5iFS9WQ)**
+**[The Most Underrated Layer Inside Every AI Model](https://www.youtube.com/watch?v=JHl_gwVoh-k)**
 
-Create INSANE AI Videos with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa13 In this video, I walk through seven prompt ...
+Why does every AI model use normalization? Normalization layers are hidden inside every transformer model. In this video, we ...
 
-📺 Isa does AI
+📺 Jia-Bin Huang
 
-👁️ 9K • 💬 7 • ⏱️ 13:13 • 11h ago
+👁️ 7K • 👍 522 • 💬 77 • ⏱️ 13:25 • 13h ago
 
 ---
 
@@ -335,47 +373,7 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 61K • 👍 2K • 💬 256 • ⏱️ 15:10 • 2d ago
-
----
-
-**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=PiBnV9BUGSQ)**
-
-I bought every ai generated scam product I found on tiktok, temu, and aliexpress! ⚖️ Need A Lawyer   go to ...
-
-📺 Mike Off Record
-
-👁️ 400K • 👍 8K • 💬 547 • ⏱️ 12:11 • 2d ago
-
----
-
-**[AI is getting too realistic](https://www.youtube.com/watch?v=_kP2ax2tudk)**
-
-How can you spot AI photos now that the new GPT Image 2 AI image model is really strong? I'm looking at background details, ...
-
-📺 Jeremy Carrasco
-
-👁️ 1.1M • 👍 90K • 💬 1K • ⏱️ 1:01 • 2d ago
-
----
-
-**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
-
-Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
-
-📺 Sabrina Ramonov 🍄
-
-👁️ 81K • 👍 4K • 💬 222 • ⏱️ 26:56 • 2d ago
-
----
-
-**[How to Make a Full AI Music Video for Suno AI Songs (in 12 Min)](https://www.youtube.com/watch?v=FChKficdq5o)**
-
-Make Your Own Music Video with OpenArt ...
-
-📺 Roboverse
-
-👁️ 10K • 💬 8 • ⏱️ 12:24 • 12h ago
+👁️ 62K • 👍 2K • 💬 257 • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 534,942 • ❤️ 3,528 • 7d ago
+⬇️ 534,942 • ❤️ 3,532 • 7d ago
 
 ---
 
@@ -403,7 +401,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 132,595 • ❤️ 1,260 • 12d ago
+⬇️ 132,595 • ❤️ 1,266 • 12d ago
 
 ---
 
@@ -427,17 +425,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 11,950 • ❤️ 256 • 10h ago
-
----
-
-**[talkie-1930-13b-it](https://huggingface.co/talkie-lm/talkie-1930-13b-it)**
-
-*talkie*
-
-talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
-
-⬇️ 0 • ❤️ 224 • 11d ago
+⬇️ 11,950 • ❤️ 257 • 14h ago
 
 ---
 
@@ -449,7 +437,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 40,403 • ❤️ 223 • 2d ago
+⬇️ 40,403 • ❤️ 226 • 2d ago
 
 ---
 
@@ -465,15 +453,13 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 ---
 
-**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+**[talkie-1930-13b-it](https://huggingface.co/talkie-lm/talkie-1930-13b-it)**
 
-*Qwen*
+*talkie*
 
-Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-`image-text-to-text` `27.8B`
-
-⬇️ 1,334,241 • ❤️ 1,108 • 10d ago
+⬇️ 0 • ❤️ 227 • 11d ago
 
 ---
 
@@ -485,7 +471,19 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 20,187 • ❤️ 174 • 18h ago
+⬇️ 20,187 • ❤️ 180 • 22h ago
+
+---
+
+**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+
+*Qwen*
+
+Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 1,334,241 • ❤️ 1,108 • 11d ago
 
 ---
 
@@ -497,7 +495,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 489,465 • ❤️ 940 • 7d ago
+⬇️ 489,465 • ❤️ 943 • 7d ago
 
 ---
 
@@ -525,7 +523,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 168 • 💬 10 • ⭐ 46,473 • 8mo ago
+▲ 168 • 💬 10 • ⭐ 46,519 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -539,7 +537,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 15 • 💬 3 • ⭐ 9,072 • 17d ago
+▲ 15 • 💬 3 • ⭐ 9,113 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -551,7 +549,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 30 • 💬 3 • ⭐ 22,699 • 9mo ago
+▲ 30 • 💬 3 • ⭐ 22,753 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -609,15 +607,17 @@ Fréchet Distance can be effectively optimized as a training objective when deco
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
 
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+🏢 Data Intelligence Lab@HKU
 
-▲ 28 • 💬 1 • ⭐ 19,361 • 31mo ago
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+▲ 81 • 💬 6 • ⭐ 19,619 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -627,7 +627,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 52 • 💬 2 • ⭐ 54,750 • 12mo ago
+▲ 52 • 💬 2 • ⭐ 54,766 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -653,7 +653,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.1k • 🔱 664 • 3h ago
+⭐ 10.1k • 🔱 670 • 6h ago
 
 ---
 
@@ -673,7 +673,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.4k • 🔱 486 • 14h ago
+⭐ 5.4k • 🔱 487 • 18h ago
 
 ---
 
@@ -683,7 +683,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.3k • 🔱 409 • 6m ago
+⭐ 5.3k • 🔱 409 • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 354 • 14h ago
+⭐ 5.0k • 🔱 357 • 18h ago
 
 ---
 
@@ -703,7 +703,7 @@ Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based 
 
 `Python` `ai` `claude-code` `claude-code-skill` `knowledge-management` `obsidian`
 
-⭐ 4.2k • 🔱 471 • 10d ago
+⭐ 4.2k • 🔱 472 • 10d ago
 
 ---
 
@@ -713,7 +713,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 427 • 16m ago
+⭐ 3.5k • 🔱 429 • 56m ago
 
 ---
 
@@ -731,7 +731,7 @@ MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M
 
 `Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
 
-⭐ 2.7k • 🔱 344 • 5d ago
+⭐ 2.7k • 🔱 345 • 5d ago
 
 ---
 

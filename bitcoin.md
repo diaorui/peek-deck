@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T01:12:23.391311+00:00'
+updated: '2026-05-05T04:41:54.082075+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 01:12 UTC  
+**Last Updated:** May 05, 2026 at 04:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,70 +38,48 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,128.80
+### $80,860.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +5.9%  
-**30d:** +16.5%  
-**90d:** +27.9%  
-**1y:** -17.1%  
+**24h:** +0.9%  
+**7d:** +6.6%  
+**30d:** +17.3%  
+**90d:** +28.7%  
+**1y:** -16.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1605.02B
+**Market Cap:** $1617.34B
 Rank #1
 
 **Circulating Supply:** 20,023,521 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.4%
+-35.9%
 
 **All-Time Low:** $67.81
-+118140.7%
++119072.7%
 
 ---
 
 ## Fear & Greed Index
 
-### 40
-**FEAR**
+### 50
+**NEUTRAL**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Today we celebrate the birthday of Hal Finney, one of the most important figures in Bitcoin’s history.](https://www.reddit.com/r/Bitcoin/comments/1t3j7dv/today_we_celebrate_the_birthday_of_hal_finney_one/)**
-
-He was the first recipient of BTC, one of its earliest developers, and above all, a true believer in the technology when it was still just an idea. His famous phrase, “Running Bitcoin,” wasn’t just technical… it was a statement of principles. Today, millions of people around the world continue that path. Thank you for opening the door. 🧡 Thank you for running first.
-
-10h ago
-
----
-
 **[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
 
-3h ago
-
----
-
-**[Strive's Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://www.reddit.com/r/Bitcoin/comments/1t3u3hb/strives_bitcoin_treasury_crosses_15000_btc_after/)**
-
-Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treasury has crossed the 15,000 BTC threshold, following the purchase of 444 bitcoin for $33.9 million at an average cost of $76,307 per coin. CEO Matt Cole announced the acquisition on X, and the company filed an 8-K with the SEC confirming the details. The purchase extends a string of accumulation moves that have positioned Strive as one of the more active corporate Bitcoin buyers in the market. As of April 24, Strive held 14,557 BTC after a separate purchase of 789 bitcoin at $77,890 per coin. The latest transaction pushes the total stack past 15,000 BTC, a holding valued at around $1.2 billion at current prices. The SEC filing detailed the company’s balance sheet as of May 1: $97.9 million in cash and cash equivalents, and $50.4 million in the Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) of Strategy — Michael Saylor’s firm, which rebranded from MicroStrategy. Strive reported 63,129,587 shares of Class A common stock and 9,893,844 shares of Class B common stock outstanding, together with 4,959,536 shares of its Variable Rate Series A Perpetual Preferred Stock, traded under the ticker SATA. The milestone follows Strive’s completion of its acquisition of Semler Scientific in January 2026, which brought the medical technology firm into Strive as a subsidiary. At the close of that deal, Strive held 12,798 BTC and ranked as the 11th largest public corporate Bitcoin holder in the world. The company has added more than 2,200 BTC to its treasury since that transaction. Strive as the first public asset management Bitcoin treasury corporation Strive describes itself as the first public asset management Bitcoin treasury corporation. Its strategy centers on growth in Bitcoin per share, treating Bitcoin as the hurdle rate for all capital allocation decisions. CEO Matt Cole, who has led the company since April 2023 and has served as Chairman since September 2025, has steered the company toward what he terms “digital credit” — structured finance products that generate yield through Bitcoin exposure. The SATA preferred stock stands at the center of that strategy. Strive raised $225 million in an oversubscribed SATA offering in January 2026, with investor demand exceeding $600 million. The stock carries an annualized yield near 13%, and the product held its peg through Bitcoin’s recent 50% drawdown. Strive’s $50.4 million position in Strategy’s STRC preferred stock reflects a parallel bet on Bitcoin-backed structured products across the corporate treasury space.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000) • 4h ago
-
----
-
-**[Bitcoin Back to the 80s](https://www.reddit.com/r/Bitcoin/comments/1t3qzvc/bitcoin_back_to_the_80s/)**
-
-6h ago
+7h ago
 
 ---
 
@@ -109,13 +87,43 @@ Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treas
 
 After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
 
-37m ago
+4h ago
+
+---
+
+**[Strive's Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://www.reddit.com/r/Bitcoin/comments/1t3u3hb/strives_bitcoin_treasury_crosses_15000_btc_after/)**
+
+Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treasury has crossed the 15,000 BTC threshold, following the purchase of 444 bitcoin for $33.9 million at an average cost of $76,307 per coin. CEO Matt Cole announced the acquisition on X, and the company filed an 8-K with the SEC confirming the details. The purchase extends a string of accumulation moves that have positioned Strive as one of the more active corporate Bitcoin buyers in the market. As of April 24, Strive held 14,557 BTC after a separate purchase of 789 bitcoin at $77,890 per coin. The latest transaction pushes the total stack past 15,000 BTC, a holding valued at around $1.2 billion at current prices. The SEC filing detailed the company’s balance sheet as of May 1: $97.9 million in cash and cash equivalents, and $50.4 million in the Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) of Strategy — Michael Saylor’s firm, which rebranded from MicroStrategy. Strive reported 63,129,587 shares of Class A common stock and 9,893,844 shares of Class B common stock outstanding, together with 4,959,536 shares of its Variable Rate Series A Perpetual Preferred Stock, traded under the ticker SATA. The milestone follows Strive’s completion of its acquisition of Semler Scientific in January 2026, which brought the medical technology firm into Strive as a subsidiary. At the close of that deal, Strive held 12,798 BTC and ranked as the 11th largest public corporate Bitcoin holder in the world. The company has added more than 2,200 BTC to its treasury since that transaction. Strive as the first public asset management Bitcoin treasury corporation Strive describes itself as the first public asset management Bitcoin treasury corporation. Its strategy centers on growth in Bitcoin per share, treating Bitcoin as the hurdle rate for all capital allocation decisions. CEO Matt Cole, who has led the company since April 2023 and has served as Chairman since September 2025, has steered the company toward what he terms “digital credit” — structured finance products that generate yield through Bitcoin exposure. The SATA preferred stock stands at the center of that strategy. Strive raised $225 million in an oversubscribed SATA offering in January 2026, with investor demand exceeding $600 million. The stock carries an annualized yield near 13%, and the product held its peg through Bitcoin’s recent 50% drawdown. Strive’s $50.4 million position in Strategy’s STRC preferred stock reflects a parallel bet on Bitcoin-backed structured products across the corporate treasury space.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000) • 7h ago
+
+---
+
+**[Today we celebrate the birthday of Hal Finney, one of the most important figures in Bitcoin’s history.](https://www.reddit.com/r/Bitcoin/comments/1t3j7dv/today_we_celebrate_the_birthday_of_hal_finney_one/)**
+
+He was the first recipient of BTC, one of its earliest developers, and above all, a true believer in the technology when it was still just an idea. His famous phrase, “Running Bitcoin,” wasn’t just technical… it was a statement of principles. Today, millions of people around the world continue that path. Thank you for opening the door. 🧡 Thank you for running first.
+
+14h ago
+
+---
+
+**[Bitcoin Back to the 80s](https://www.reddit.com/r/Bitcoin/comments/1t3qzvc/bitcoin_back_to_the_80s/)**
+
+9h ago
+
+---
+
+**[If you DCA $1,000/month for 20 years… you get ~1 BTC](https://www.reddit.com/r/Bitcoin/comments/1t3yyrl/if_you_dca_1000month_for_20_years_you_get_1_btc/)**
+
+That’s it. That’s how scarce this asset actually is. Now ask yourself: how many people can realistically sustain that for two decades? There will only ever be 21 million and most people won’t even get close to owning 1. I built a tool to show exactly how long it takes (and how much it really costs) to hit your BTC goal. Reality check yourself and let me know what you think: https://satoshivision.based21.com/ https://preview.redd.it/esrz7y5qk7zg1.png?width=3538&format=png&auto=webp&s=d13957518d385b89a0bc916972072e515891d078 Edit: not mobile friendly yet
+
+4h ago
 
 ---
 
 **[Happy Birthday Hal](https://www.reddit.com/r/Bitcoin/comments/1t3qyba/happy_birthday_hal/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -123,7 +131,15 @@ After way too long saying “I’ll start soon” I finally did it. Bought my fi
 
 If your taxable income is low enough, you pay zero federal tax on long-term Bitcoin gains. It’s just how the brackets work. Long-term gains (held 12+ months) get taxed at 0%, 15%, or 20% depending on your income. In 2024 the 0% threshold is ~$47k for single filers, ~$94k married. That’s taxable income too, so after the standard deduction ($14,600 single). A single person could have $61k in gross income and still land in the 0% bracket. So if you ever have a low income year, sabbatical, between jobs, slow freelance year, early retirement, you might be able to sell appreciated BTC and owe nothing federally. Sell, rebuy, reset your cost basis. People do this with stocks all the time. It’s called tax gain harvesting and works the same with crypto. State taxes vary a lot so factor that in depending on where you live. Worth running the numbers before year end if you’re ever in a lean year.
 
-17h ago
+21h ago
+
+---
+
+**[May the 4th Be With Us](https://www.reddit.com/r/Bitcoin/comments/1t44s0k/may_the_4th_be_with_us/)**
+
+May the 4th be with us us.
+
+28m ago
 
 ---
 
@@ -135,20 +151,6 @@ In 2009 Kristoffer Koch was a 22-year-old student in Norway writing his thesis o
 
 ---
 
-**[If you DCA $1,000/month for 20 years… you get ~1 BTC](https://www.reddit.com/r/Bitcoin/comments/1t3yyrl/if_you_dca_1000month_for_20_years_you_get_1_btc/)**
-
-That’s it. That’s how scarce this asset actually is. Now ask yourself: how many people can realistically sustain that for two decades? There will only ever be 21 million and most people won’t even get close to owning 1. I built a tool to show exactly how long it takes (and how much it really costs) to hit your BTC goal. Reality check yourself and let me know what you think: https://satoshivision.based21.com/ https://preview.redd.it/esrz7y5qk7zg1.png?width=3538&format=png&auto=webp&s=d13957518d385b89a0bc916972072e515891d078 Edit: not mobile friendly yet
-
-1h ago
-
----
-
-**[It shall never be enough!](https://www.reddit.com/r/Bitcoin/comments/1t389lj/it_shall_never_be_enough/)**
-
-19h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,27 +159,7 @@ That’s it. That’s how scarce this asset actually is. Now ask yourself: how m
 
 The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
 
-CoinDesk • 4h ago
-
----
-
-**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
-
-Investor's Business Daily • 4h ago
-
----
-
-**[Key facts: Bitcoin Rally; CLARITY Act Nears Markup; 2.69M BTC](https://www.tradingview.com/news/tradingview:48dd6cc97d408:0-key-facts-bitcoin-rally-clarity-act-nears-markup-2-69m-btc/)**
-
-TradingView • 1h ago
-
----
-
-**[Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News](https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000)**
-
-The bitcoin price broke $80,000 as ETF inflows surged and a golden cross nears, signaling renewed bullish momentum.
-
-Bitcoin Magazine • 4h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -185,7 +167,35 @@ Bitcoin Magazine • 4h ago
 
 ‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
 
-Fortune • 9h ago
+Fortune • 13h ago
+
+---
+
+**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
+
+Investor's Business Daily • 7h ago
+
+---
+
+**[Why is crypto up today: Circle (CRCL), Coinbase (COIN) lead crypto stocks rally amid Clarity Act progress](https://www.coindesk.com/markets/2026/05/04/circle-coinbase-lead-crypto-stock-rally-amid-clarity-act-progress-bitcoin-above-usd80-000)**
+
+The market is starting to price in potential winners as stablecoin yield compromise opens path for passing key U.S. digital asset regulation, one analyst said.
+
+CoinDesk • 11h ago
+
+---
+
+**[‘Go Time’—White House Quietly Confirms ‘Imminent’ May Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/05/02/go-time-white-house-quietly-confirms-may-bitcoin-price-bombshell/)**
+
+Forbes • 2d ago
+
+---
+
+**[Is the MicroStrategy Bitcoin Binge Over? What Saylor’s Pause Means](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-binge-over-saylor-191404021.html)**
+
+The latest in the MicroStrategy Bitcoin saga has Michael Saylor pausing BTC purchases ahead of its Q1 earnings release, with the CEO confirming “No buys this week” in a Sunday post on X, breaking a pattern of near-continuous accumulation that made the company the world’s largest corporate Bitcoin holder. Bitcoin ...
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -193,7 +203,7 @@ Fortune • 9h ago
 
 NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -201,29 +211,23 @@ Seeking Alpha • 14h ago
 
 K Wave Media is shifting $485 million in funding from its Bitcoin treasury strategy towards an AI infrastructure play.
 
-Decrypt • 3h ago
+Decrypt • 7h ago
 
 ---
 
-**[MicroStrategy Pauses Bitcoin Buys Ahead of May 5 Q1 Earnings](https://finance.yahoo.com/markets/crypto/articles/microstrategy-pauses-bitcoin-buys-ahead-180837543.html)**
+**[Morgan Stanley: Bitcoin on Bank Balance Sheets Is Coming](https://bitbo.io/news/morgan-stanley-bitcoin-bank-balance-sheets/)**
 
-Strategy paused Bitcoin buying ahead of its May 5 Q1 2026 earnings as Saylor signals a normal pace returns next week.
+Morgan Stanley's head of digital asset strategy Amy Oldenburg says bitcoin will eventually reach U.S. bank balance sheets, but regulatory hurdles from the Fed, Basel rules, and global regulators still stand in the way.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy Pauses Bitcoin Buys Ahead of Q1 Earnings](https://bitbo.io/news/strategy-pauses-bitcoin-buys-earnings/)**
-
-Strategy has halted its weekly bitcoin purchases this week, with Chairman Michael Saylor citing a return to buying next week, as the firm prepares to release its first-quarter earnings report on Tuesday.
-
-Bitbo • 20h ago
+Bitbo • 12h ago
 
 ---
 
-**[Why Saylor skipped Bitcoin buy this week](https://www.thestreet.com/crypto/markets/why-saylor-skipped-bitcoin-buy-this-week)**
+**[Why Bitcoin Still Looks Like Crypto's Best Generational Wealth Bet](https://www.fool.com/investing/2026/05/02/why-bitcoin-still-looks-like-cryptos-best-generati/)**
 
-thestreet.com • 10h ago
+If there's one cryptocurrency that investors can trust to build long-term wealth, it's Bitcoin.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -313,13 +317,13 @@ Localhost Research is excited to announce a new initiative in partnership with B
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Bullish Setup Just Got MUCH Bigger!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
+**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
 
 Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 698 • 💬 79 • ⏱️ 19:25 • 4h ago
+👁️ 11K • 👍 1K • 💬 43 • ⏱️ 19:25 • 7h ago
 
 ---
 
@@ -329,7 +333,27 @@ I built a Bitcoin forecast model that pulls from over 1300 sources to predict wh
 
 📺 Jesse Eckel
 
-👁️ 2K • 👍 158 • 💬 22 • ⏱️ 9:38 • 3h ago
+👁️ 3K • 👍 221 • 💬 39 • ⏱️ 9:38 • 7h ago
+
+---
+
+**[Bitcoin Leading Crypto Spring...](https://www.youtube.com/watch?v=Rwy8mOAmeRI)**
+
+Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+
+📺 CryptosRUs
+
+👁️ 7K • 👍 602 • 💬 36 • ⏱️ 11:44 • 4h ago
+
+---
+
+**[LIVE: Michael Saylor Confirms Massive Bitcoin Move! This Changes Everything for BTC Price!](https://www.youtube.com/watch?v=D3Bt4cW49zI)**
+
+BTC #Bitcoin #Cryptocurrency Join me, Michael Saylor, LIVE as I reveal a massive move for Bitcoin that could change everything ...
+
+📺 Jamie Icepick
+
+👁️ 3K • 👍 1K • 35m ago
 
 ---
 
@@ -339,77 +363,57 @@ Great day with bitcoin at 80K but there are some MAJOR negative forces at play t
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 330 • 💬 28 • ⏱️ 34:33 • 5h ago
+👁️ 5K • 👍 399 • 💬 39 • ⏱️ 34:33 • 9h ago
 
 ---
 
-**[Bitcoin Is Reclaiming The Bull Market](https://www.youtube.com/watch?v=N75mkQs3BVU)**
+**[BITCOIN: QUICK MARKET UPDATE!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=nx56SMC4_IY)**
 
-Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 CryptosRUs
+📺 Road To $1 Million USD
 
-👁️ 17K • 👍 897 • 💬 51 • ⏱️ 1:00:32 • 10h ago
-
----
-
-**[Bitcoin Breakout! The CRYPTO TRAP Is OFFICIALLY SET](https://www.youtube.com/watch?v=HMwxTxTxhLo)**
-
-Doesn't matter which crypto charts you have open. Bitcoin, Ethereum, Sui, Cardano are all testing a key resistance that if broken ...
-
-📺 Crypto Capital Venture
-
-👁️ 16K • 👍 818 • 💬 300 • ⏱️ 19:42 • 20h ago
+👁️ 2K • 👍 160 • 💬 17 • ⏱️ 6:02 • 6h ago
 
 ---
 
-**[ENORMOUS BITCOIN BREAKOUT! BULL MARKET?- Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=PLpXYh7k1Es)**
+**[Bitcoin Bull Market STARTING SOON?! Realistic Bull Market CONFIRMATION AROUND THE CORNER?](https://www.youtube.com/watch?v=nHfibQG0lWc)**
 
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+Subscribe to our new channel @jebbmcafeeinvests: https://www.youtube.com/@jebbmcafeeinvests David Nicholas Interview: ...
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 308 • 💬 7 • ⏱️ 43:41 • 9h ago
+👁️ 4K • 👍 273 • 💬 59 • ⏱️ 11:45 • 9h ago
 
 ---
 
-**[How Much Bitcoin Do You Really Need to Retire? | Bitcoin 2026](https://www.youtube.com/watch?v=Cq_IqjdmZ4Y)**
+**[You&#39;re Being Purposely Lied To About Where Bitcoin Is Going.....](https://www.youtube.com/watch?v=eocl6yUvKvA)**
 
-How much Bitcoin do you actually need to retire? At Bitcoin 2026, moderator Brandon Keys of Green Candle sits down with ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 Bitcoin Magazine
+📺 Tyler S
 
-👁️ 15K • 👍 403 • 💬 45 • ⏱️ 29:00 • 22h ago
-
----
-
-**[Why I decided to buy Bitcoin](https://www.youtube.com/watch?v=6c50V1WaXUw)**
-
-Subscribe for daily insights and updates for your Bitcoin journey. Follow on Facebook for more content or to reach out directly with ...
-
-📺 Joel Bomgar
-
-👁️ 179 • 👍 3 • ⏱️ 3:00 • 42m ago
+👁️ 5K • 👍 449 • 💬 45 • ⏱️ 15:36 • 6h ago
 
 ---
 
-**[🚨 BITCOIN: NOW NOW NOW !!!!!](https://www.youtube.com/watch?v=GemNmxh33bI)**
+**[WHY BITCOIN IS PUMPING LIKE CRAZY... What Comes Next??](https://www.youtube.com/watch?v=t9fhhBCtydk)**
 
-BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/DailyWEEX UP TO ...
-
-📺 The Moon Show
-
-👁️ 4K • 👍 246 • 💬 12 • ⏱️ 8:26 • 6h ago
-
----
-
-**[Bitcoin &amp; Ethereum are about to SKYROCKET! (SERIOUSLY)](https://www.youtube.com/watch?v=jiftFdu3Apw)**
-
-Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+WHY BITCOIN IS PUMPING LIKE CRAZY... What Comes Next?? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 176 • ⏱️ 11:49 • 2d ago
+👁️ 20K • 👍 1K • 💬 77 • ⏱️ 8:10 • 10h ago
+
+---
+
+**[Is This Bitcoin Pump A TRAP?? [ACT FAST]](https://www.youtube.com/watch?v=j-ZNUrJicvw)**
+
+Bitcoin is moving quietly and that is exactly when the biggest opportunities start to form. In this video, Sheldon breaks down why ...
+
+📺 Crypto Banter
+
+👁️ 8K • 👍 588 • 💬 13 • ⏱️ 39:18 • 18h ago
 
 ---
 
