@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-05T09:27:42.651486+00:00'
+updated: '2026-05-05T11:03:08.958691+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 05, 2026 at 09:27 UTC  
+**Last Updated:** May 05, 2026 at 11:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Anthropic is launching a new venture focused on selling AI tools to enterprise companies. This effort is being launched in partnership with Goldman Sachs, the Wall Street bank said Monday (May 4), in conjunction with investment firm Blackstone, and private equity group Hellman & Friedman, and will help companies embed Anthropic’s Claude artificial intelligence (AI) model into their businessses. “Enterprise demand for Claude is significantly outpacing any single delivery model,” Krishna Rao, Anthropic’s finance chief, said in a news release provided to PYMNTS. “Our partnerships with the world’s leading systems integrators are central to how Claude reaches large enterprises. This new firm brings additional operating capability to the ecosystem and capital from leading alternative asset managers.” Marc Nachmann, global head of asset and wealth management at Goldman Sachs, said the partnership will allow mid-market companies to employ Anthropic’s tech to bolster their businesses. “By democratizing access to forward-deployed engineers, the new company can help the expansive network of portfolio companies in our Asset Management business and other companies of similar sizes accelerate AI adoption to grow and scale their operations,” he added.
 
-6h ago
+8h ago
+
+---
+
+**[How accurate is AI at general knowledge?](https://www.reddit.com/r/artificial/comments/1t4asbk/how_accurate_is_ai_at_general_knowledge/)**
+
+I was recently reading an article about Jimmy Wales, the founder of Wikipedia. Here's a quote from the article: "when people use AI to answer questions on a topic, it frequently makes mistakes. “That’s especially true the more obscure the topic, the more likely it is to just make random stuff up – that’s not the case for Wikipedia,” he said. “Obscure topics tend to be quite researched by super nerds.”" Is it true that AI continues to frequently make mistakes on random general knowledge questions? My subjective feeling is that it's pretty good nowadays, or at least as good as Wikipedia (given it was presumably trained on Wikipedia in the first place). Is there a paper or benchmark someone could link me to regarding AI performance at general knowledge questions?
+
+1h ago
 
 ---
 
@@ -57,15 +65,7 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 12h ago
-
----
-
-**[Uber Shares What Happens When 1.500 AI Agents Hit Production](https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/)**
-
-Learn how Uber manages over 1.500 AI agents in production, tackling challenges in MCP infrastructure, security, and tool discovery at scale.
-
-🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 1h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 14h ago
 
 ---
 
@@ -73,7 +73,15 @@ Learn how Uber manages over 1.500 AI agents in production, tackling challenges i
 
 Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
 
-11h ago
+12h ago
+
+---
+
+**[Uber Shares What Happens When 1.500 AI Agents Hit Production](https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/)**
+
+Learn how Uber manages over 1.500 AI agents in production, tackling challenges in MCP infrastructure, security, and tool discovery at scale.
+
+🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 3h ago
 
 ---
 
@@ -81,7 +89,7 @@ Here me out because I know there's a lot of doom and gloom, and believe me, I un
 
 been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
 
-22h ago
+1d ago
 
 ---
 
@@ -89,15 +97,7 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
 
-12h ago
-
----
-
-**[What I’m Hearing About Cognitive Debt (So Far)](https://www.reddit.com/r/artificial/comments/1t45r37/what_im_hearing_about_cognitive_debt_so_far/)**
-
-A week ago, I wrote about how Generative and Agentic AI may be amplifying what I’ve been calling cognitive debt: the accumulated gap between a system’s evolving structure and a team’s shared unders...
-
-🔗 [Margaret-Anne Storey](http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) • 4h ago
+14h ago
 
 ---
 
@@ -105,7 +105,7 @@ A week ago, I wrote about how Generative and Agentic AI may be amplifying what I
 
 If the Claude app actually had the same level of control you get with the CLI, I kind of wonder how many people would still stick with the CLI day to day. Like, would it still feel worth it for the extra setup and terminal workflow, or would most people just default to the app because it’s simpler and already right there? I feel like the CLI’s biggest advantage is really the flexibility and how well it plugs into automation and dev workflows, but if that all lived inside the app in a clean way, it kind of blurs the line a lot. At that point I’m genuinely not sure if the CLI would still feel like a “must-have” tool for most people, or if it would just become something a smaller group of power users keep using out of habit or preference. I’m curious how others see it, would you actually still reach for the CLI, or would you just stay in the app?
 
-19h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ If the Claude app actually had the same level of control you get with the CLI, I
 
 Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: the on-device constraint made the product better. Tighter context forced cleaner prompting. The brief that comes out is more focused than early versions built with more headroom. Sometimes the limitation shapes the design in ways you wouldn’t choose intentionally. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
 
-12h ago
+14h ago
 
 ---
 
@@ -123,23 +123,7 @@ Something worth discussing in the context of where AI is heading. I built a voic
 
 **[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-The New York Times • 14h ago
-
----
-
-**[Barack Obama Speaks Out Against Trump and AI Ape Video](https://variety.com/2026/politics/news/barack-obama-donald-trump-ai-ape-video-speak-out-1236736966/)**
-
-Barack Obama explained his reaction to the AI video posted to Donald Trump‘s Truth Social account in February that depicted the Obamas as apes.
-
-Variety • 15h ago
-
----
-
-**[Donald Trump Trolled for Posting AI Photo of Himself Holding Uno Cards](https://www.yahoo.com/news/articles/donald-trump-trolled-posting-ai-072250683.html)**
-
-Donald Trump got roasted this week, and this time the culprit wasn’t a political rival but a classic card game. The president shared an AI-generated photo of himself clutching a hand of Uno cards. The...
-
-Yahoo • 2h ago
+The New York Times • 12h ago
 
 ---
 
@@ -147,13 +131,13 @@ Yahoo • 2h ago
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-OpenAI • 14h ago
+OpenAI • 16h ago
 
 ---
 
-**[The death of AI idealism](https://www.axios.com/2026/05/05/musk-open-ai-idealism)**
+**[AI's $1 trillion risk keeps growing](https://www.axios.com/2026/05/05/ai-spending-stocks-economy)**
 
-Axios • 17m ago
+Axios • 1m ago
 
 ---
 
@@ -161,13 +145,23 @@ Axios • 17m ago
 
 Since independent vehicle crash testing began in the mid-1990s, automakers have been incentivized to make safety changes that have saved thousands of lives each year.
 
-CNN • 26m ago
+CNN • 2h ago
 
 ---
 
-**[Hon Hai Sales Grow 30% With Expansion of AI Server Business](https://www.bloomberg.com/news/articles/2026-05-05/hon-hai-sales-grow-30-with-expansion-of-ai-server-business)**
+**[He Couldn’t Land a Job Interview. Was AI to Blame?](https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/)**
 
-Bloomberg.com • 1h ago
+Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.
+
+WIRED • 1h ago
+
+---
+
+**[Opinion | To help America, tech companies belatedly stand up to activist workers](https://www.washingtonpost.com/opinions/2026/05/04/competition-pentagon-ai-contracts-ensures-troops-get-best-tools/)**
+
+Google picked staff over country in 2018. Not this time.
+
+The Washington Post • 6h ago
 
 ---
 
@@ -175,7 +169,7 @@ Bloomberg.com • 1h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 19h ago
+Anthropic • 20h ago
 
 ---
 
@@ -183,13 +177,21 @@ Anthropic • 19h ago
 
 The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
 **[Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html)**
 
-The New York Times • 7h ago
+The New York Times • 17h ago
+
+---
+
+**[An AI version of Milton’s Paradise Lost is fundamentally unworthy of one of the great works of art](https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary)**
+
+Pulp Fiction co-writer Roger Avary wants to bring the epic poem to the big screen using the power of artificial intelligence. It can’t be any good
+
+The Guardian • 1h ago
 
 ---
 
@@ -201,7 +203,7 @@ The New York Times • 7h ago
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 589 • 💬 556 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 589 • 💬 558 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
 
 ---
 
@@ -209,7 +211,7 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 402 • 💬 123 • 13h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 410 • 💬 129 • 15h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -221,6 +223,14 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 ---
 
+**[Google Chrome silently installs a 4 GB AI model on your device without consent](https://news.ycombinator.com/item?id=48019219)**
+
+Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
+
+⬆️ 288 • 💬 289 • 3h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+
+---
+
 **[Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://news.ycombinator.com/item?id=47994012)**
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
@@ -229,19 +239,11 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 ---
 
-**[Google Chrome silently installs a 4 GB AI model on your device without consent](https://news.ycombinator.com/item?id=48019219)**
-
-Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
-
-⬆️ 151 • 💬 167 • 1h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
-
----
-
 **[OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://news.ycombinator.com/item?id=48010774)**
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 116 • 💬 108 • 17h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 117 • 💬 109 • 18h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -271,7 +273,7 @@ AI is quietly entering the bedroom — and taking notes. A look at connected ple
 
 **[The Oscars just banned AI from winning acting and writing awards](https://news.ycombinator.com/item?id=47999346)**
 
-⬆️ 76 • 💬 65 • 1d ago • [gizmodo.com](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)
+⬆️ 76 • 💬 66 • 1d ago • [gizmodo.com](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)
 
 ---
 
@@ -285,7 +287,7 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 62K • 👍 2K • 💬 273 • ⏱️ 21:59 • 15h ago
+👁️ 62K • 👍 2K • 💬 273 • ⏱️ 21:59 • 17h ago
 
 ---
 
@@ -295,7 +297,7 @@ FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 39K • 👍 1K • 💬 124 • ⏱️ 6:54 • 18h ago
+👁️ 39K • 👍 1K • 💬 124 • ⏱️ 6:54 • 20h ago
 
 ---
 
@@ -305,7 +307,7 @@ GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYansh
 
 📺 Sasha Yanshin
 
-👁️ 65K • 👍 3K • 💬 502 • ⏱️ 16:06 • 17h ago
+👁️ 65K • 👍 3K • 💬 502 • ⏱️ 16:06 • 18h ago
 
 ---
 
@@ -345,7 +347,7 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 125K • 👍 8K • 💬 2K • ⏱️ 28:29 • 22h ago
+👁️ 125K • 👍 8K • 💬 2K • ⏱️ 28:29 • 23h ago
 
 ---
 
@@ -415,7 +417,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 15,024 • ❤️ 260 • 19h ago
+⬇️ 15,024 • ❤️ 260 • 20h ago
 
 ---
 
@@ -655,7 +657,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.2k • 🔱 672 • 11h ago
+⭐ 10.2k • 🔱 672 • 13h ago
 
 ---
 
@@ -675,7 +677,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.5k • 🔱 489 • 22h ago
+⭐ 5.5k • 🔱 489 • 1d ago
 
 ---
 
@@ -685,7 +687,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.4k • 🔱 411 • 3h ago
+⭐ 5.4k • 🔱 411 • 4h ago
 
 ---
 
@@ -695,7 +697,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 358 • 22h ago
+⭐ 5.0k • 🔱 358 • 1d ago
 
 ---
 
@@ -705,7 +707,7 @@ Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based 
 
 `Python` `ai` `claude-code` `claude-code-skill` `knowledge-management` `obsidian`
 
-⭐ 4.2k • 🔱 472 • 10d ago
+⭐ 4.2k • 🔱 472 • 11d ago
 
 ---
 
@@ -715,7 +717,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.6k • 🔱 433 • 20m ago
+⭐ 3.6k • 🔱 433 • 1h ago
 
 ---
 

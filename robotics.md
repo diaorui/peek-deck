@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-05T09:27:42.669072+00:00'
+updated: '2026-05-05T11:03:08.975909+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 05, 2026 at 09:27 UTC  
+**Last Updated:** May 05, 2026 at 11:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Autonomous solar panel installation: Crawler base, robotic arm, suction system, AI vision, and 3D sensors — placing ~30 kg panels with ±1–2 mm precision. At about 1 panel every 30 seconds.](https://www.reddit.com/r/robotics/comments/1t4alwf/autonomous_solar_panel_installation_crawler_base/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
+
+1h ago
+
+---
+
 **[Hyundai Motor Group introduces MobED, a self-balancing robot designed for stable movement on rough surfaces](https://www.reddit.com/r/robotics/comments/1t3ndyi/hyundai_motor_group_introduces_mobed_a/)**
 
-16h ago
+18h ago
+
+---
+
+**[Presenting the XR-4 „Rehbar“ („Pioneer“ in Urdu 🇵🇰)](https://www.reddit.com/r/robotics/comments/1t4au4m/presenting_the_xr4_rehbar_pioneer_in_urdu/)**
+
+I wanted to showcase a personal project that I had been working on for around a year. As a graduate student in EE and embedded engineer working in Industrial IoT, I have wanted to pivot to robotics and autonomous mobility for a long time. With simulation and virtual environments not being possible for technical reasons and on account of being a very hands-on kind of learner and with the goal of going through a process of building something from scratch, I decided to build a test platform in the form of a rover which I can modify, upgrade and build upon. I also researched similar open-source, hobbyist and professional projects to draw inspiration. Several projects on Instructables and Reddit helped me in refining my ideas and the LeoRover platform from FictionLab was something which made me go: „this is it, this is what my rover should be like“. With that, I present the XR-4 Rehbar (lit. „Pioneer“ in Urdu) GitHub: rover-xr4 The GitHub repo and documentation is not up to date at this point, I will be updating them and this post in the near future. A note on future work: I am working on upgrading the platform with autonomous navigation and driving and currently looking at architectural options for that I.e. options for hardware and sensors, communication and control architectures. Cost is obviously a concern and I want to limit it by using as much of the hardware I already have since I am funding this project myself. Lastly, I will welcome any and all questions, comments, opinions, criticism and ideas about anything - the design, electronics and the future work options (guidance, inspiration and ideas are badly needed :)) Thank you :)
+
+1h ago
 
 ---
 
 **[Robot Wall E , parte 1](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -54,13 +70,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 **[I got LoRA training working on GR00T N1.7 (NVIDIA's official recipe stops at N1.5)](https://www.reddit.com/r/robotics/comments/1t3o70w/i_got_lora_training_working_on_gr00t_n17_nvidias/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Simulation of the two-stage Stewart platform in a new robotic solver](https://www.reddit.com/r/robotics/comments/1t43ta0/simulation_of_the_twostage_stewart_platform_in_a/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +84,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 Finally got the 4WD movement logic sorted! Hours of troubleshooting the L298N and jumper wires paid off. Phase one of this obstacle-avoiding robot is complete. It moves forward, backward, and turns exactly as it should. The next step is mounting the ultrasonic sensor and the servo to give it some "eyes."
 
-5h ago
+6h ago
 
 ---
 
@@ -82,21 +98,7 @@ Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Fu
 
 **[My Robot Was Working… Now It Won’t Connect no worry got it in hand](https://www.reddit.com/r/robotics/comments/1t42ae7/my_robot_was_working_now_it_wont_connect_no_worry/)**
 
-7h ago
-
----
-
-**[Looking for good robotics companies in India to start a career (need honest insights)](https://www.reddit.com/r/robotics/comments/1t46kxu/looking_for_good_robotics_companies_in_india_to/)**
-
-3h ago
-
----
-
-**[Building an Operating System for Physical AI. Looking for Feedback](https://www.reddit.com/r/robotics/comments/1t43od3/building_an_operating_system_for_physical_ai/)**
-
-Hi everyone, I’m building Geodesic, an operating system for physical AI. Physical AI development today is fragmented across heavy simulators, models, robotics frameworks, cloud compute, and messy setup workflows. We’re starting with two products: Run on Geodesic: run heavy physical AI codebases, simulators, training jobs, and inference from any laptop using cloud compute. Geodesic OS: a modular environment to work across tools like Isaac, ROS, Gazebo, MuJoCo, models, datasets, and agentic workflows. We’re early and would really appreciate feedback from people working in robotics, embodied AI, simulation, controls, or RL. Website / waitlist: https://www.geodesicos.com/ I’m attaching a short video as well. Would love your thoughts, and please join the waitlist if this seems useful.
-
-6h ago
+8h ago
 
 ---
 
@@ -106,7 +108,7 @@ Hi everyone, I’m building Geodesic, an operating system for physical AI. Physi
 
 **[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-WSJ • 8h ago
+WSJ • 10h ago
 
 ---
 
@@ -118,19 +120,35 @@ navalnews.com • 1d ago
 
 ---
 
+**[Underwater robotics expert reveals 'shipwreck city' hiding beneath major urban lake](https://www.foxnews.com/travel/underwater-robotics-expert-reveals-shipwreck-city-hiding-beneath-major-urban-lake)**
+
+An underwater robotics expert is exploring nearly 100 targets in Seattle's Lake Union, calling the area a "shipwreck city" full of hidden maritime history.
+
+Fox News • 1h ago
+
+---
+
+**[Massachusetts company aims to crack the household market with an AI-powered pet robot](https://www.wbur.org/news/2026/05/05/roomba-ai-robot-pet-familiar-machines-woburn)**
+
+The robotics pioneer who helped unleash the Roomba vacuum is now betting that you might one day replace your beloved dog or cat with a plush robot that follows you around your home and adapts to your daily habits. Colin Angle unveiled a four-legged prototype of that artificial pet at his Woburn startup on Monday.
+
+WBUR • 58m ago
+
+---
+
 **[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
 
 Humanoid robots are being added to the automation of waste sorting.
 
-BBC • 9h ago
+BBC • 11h ago
 
 ---
 
-**[Madera Unified robotics team repeats as world champions for 4th title](https://abc30.com/post/madera-unified-robotics-team-repeats-world-champions-4th-title/19036013/)**
+**[An underdog story: The Gow School's inspiring robotics competition win](https://buffalonews.com/news/local/education/article_a516181e-1fec-4450-a604-2600debdd036.html)**
 
-The team made of students from Madera High, Madera South High and Matilda Torres High battled it out against 600 teams from around the world.
+Ten seniors from The Gow School used hands-on skills, 3D visualization and automated machinery to power past several Pittsburgh-based schools in robotics battles.
 
-ABC30 Fresno • 19h ago
+Buffalo News • 16h ago
 
 ---
 
@@ -146,7 +164,7 @@ IEEE Spectrum • 2d ago
 
 Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
 
-New Atlas • 9h ago
+New Atlas • 10h ago
 
 ---
 
@@ -154,7 +172,7 @@ New Atlas • 9h ago
 
 A Southwest Airlines flight from Oakland, Calif., to San Diego was delayed for more than an hour due to an unusual passenger -- a robot.
 
-upi.com • 17h ago
+upi.com • 18h ago
 
 ---
 
@@ -162,19 +180,7 @@ upi.com • 17h ago
 
 NVIDIA (NasdaqGS:NVDA) has released open-source Ising AI models that link its GPU platforms with quantum-inspired computing. The company is working with nuclear energy partners, including Oklo and Los Alamos, on AI infrastructure for reactor design and operations. NVIDIA is expanding in healthcare robotics through partners such as Proximie. The company is backing AI-first cloud providers like Nebius and extending its AI infrastructure with partners including Vultr, Netris and...
 
-Yahoo Finance • 17h ago
-
----
-
-**[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914)**
-
-Gizmodo • 1d ago
-
----
-
-**[Meta Buys Robotics Startup ARI in Push Toward ‘Physical AGI’](https://www.eweek.com/news/meta-acquires-ari-humanoid-robotics-ai/)**
-
-eWeek • 20h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -188,7 +194,7 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 The AI Nexus
 
-👁️ 859 • 👍 47 • 💬 3 • ⏱️ 20:22 • 6h ago
+👁️ 859 • 👍 47 • 💬 3 • ⏱️ 20:22 • 8h ago
 
 ---
 
@@ -198,7 +204,7 @@ This humanoid robot just did something most machines cannot do. After being push
 
 📺 DPCcars
 
-👁️ 4K • 👍 37 • 💬 9 • ⏱️ 3:09 • 13h ago
+👁️ 4K • 👍 37 • 💬 9 • ⏱️ 3:09 • 14h ago
 
 ---
 
@@ -218,7 +224,7 @@ War Robots - Baby Account Battles With Indra Void-Chasm Setup + Black Market Ope
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 259 • 💬 59 • ⏱️ 24:59 • 20h ago
+👁️ 4K • 👍 259 • 💬 59 • ⏱️ 24:59 • 22h ago
 
 ---
 
