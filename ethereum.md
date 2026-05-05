@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-05T15:09:35.490162+00:00'
+updated: '2026-05-05T17:04:48.106473+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 15:09 UTC  
+**Last Updated:** May 05, 2026 at 17:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +5.5%  
-**30d:** +12.9%  
-**90d:** +30.3%  
-**1y:** +31.1%  
+**24h:** +0.4%  
+**7d:** +5.0%  
+**30d:** +12.3%  
+**90d:** +29.6%  
+**1y:** +30.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
 
-12h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ I live in a country where cryptocurrency is somewhat illegal. I would like to pu
 
 **[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -138,11 +138,9 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 ---
 
-**[Daily General Discussion May 02, 2026](https://www.reddit.com/r/ethereum/comments/1t1gey5/daily_general_discussion_may_02_2026/)**
+**[Soldøgn Interop Recap ☀️ | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1t1rw3z/soldøgn_interop_recap_ethereum_foundation_blog/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap) • 3d ago
 
 ---
 
@@ -156,27 +154,19 @@ ethereum.org • 3d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin reaches over $81,000, hitting a high last seen in January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-5-2026-bitcoin-reaches-over-81000-hitting-a-high-last-seen-in-january-113951442.html)**
+
+Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.
+
+Yahoo Finance • 5h ago
+
+---
+
 **[South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support](https://www.theblock.co/post/399935/south-koreas-largest-crypto-exchange-upbit-launches-ethereum-blockchain-with-optimism-foundation-support)**
 
 Upbit is the Optimism Foundation's first client on its "self-managed" enterprise tier, giving it control over its core rollup architecture.
 
-The Block • 20h ago
-
----
-
-**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
-
-Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Current price of Ethereum for May 5, 2026](https://fortune.com/article/price-of-ethereum-05-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+The Block • 22h ago
 
 ---
 
@@ -184,7 +174,7 @@ Fortune • 2h ago
 
 Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -212,17 +202,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Breaks Back Above $80,000. Why the Crypto Winter Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
-
-Barron's • 2h ago
-
----
-
 **[Ethereum at a Make-or-Break Level — Will May Trigger Another Explosive Rally?](https://www.tradingview.com/news/coinpedia:f60d22a9d094b:0-ethereum-at-a-make-or-break-level-will-may-trigger-another-explosive-rally/)**
 
 Ethereum ended April on a solid note, posting a 7.3% gain and marking its second consecutive green month. This steady recovery is now drawing attention to May, historically one of Ethereum’s strongest months. In 2024, ETH surged 25%, followed by an even sharper 41% rally in 2025.Resistance at $2,37…
 
-TradingView • 11h ago
+TradingView • 13h ago
+
+---
+
+**[Current price of Ethereum for May 5, 2026](https://fortune.com/article/price-of-ethereum-05-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+
+Barron's • 4h ago
 
 ---
 
@@ -236,7 +234,7 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 737 • 👍 105 • 💬 13 • ⏱️ 14:49 • 26m ago
+👁️ 737 • 👍 105 • 💬 13 • ⏱️ 14:49 • 2h ago
 
 ---
 
@@ -246,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 506 • 💬 47 • ⏱️ 20:21 • 1d ago
+👁️ 13K • 👍 506 • 💬 47 • ⏱️ 20:21 • 2d ago
 
 ---
 
@@ -256,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 244 • 👍 17 • ⏱️ 4:32 • 5h ago
+👁️ 244 • 👍 17 • ⏱️ 4:32 • 7h ago
 
 ---
 
@@ -296,7 +294,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 87 • ⏱️ 7:13 • 12h ago
+👁️ 1K • 👍 87 • ⏱️ 7:13 • 14h ago
 
 ---
 
@@ -306,7 +304,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 772 • 👍 107 • 💬 131 • ⏱️ 31:48 • 3h ago
+👁️ 772 • 👍 107 • 💬 131 • ⏱️ 31:48 • 5h ago
 
 ---
 
@@ -316,7 +314,7 @@ BITCOIN $80K SQUEEZE: IT'S CONFIRMED (This is Next)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 317 • 💬 284 • ⏱️ 17:03 • 11h ago
+👁️ 8K • 👍 317 • 💬 284 • ⏱️ 17:03 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T15:09:35.484844+00:00'
+updated: '2026-05-05T17:04:48.100289+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 15:09 UTC  
+**Last Updated:** May 05, 2026 at 17:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,198.75
+### $81,320.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +7.4%  
-**30d:** +18.2%  
-**90d:** +29.8%  
-**1y:** -15.9%  
+**24h:** +1.5%  
+**7d:** +7.3%  
+**30d:** +18.1%  
+**90d:** +29.6%  
+**1y:** -16.0%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
-
-Who’s with me??😂😂
-
-9h ago
-
----
-
 **[Is it happening boys?](https://www.reddit.com/r/Bitcoin/comments/1t4cw6o/is_it_happening_boys/)**
 
 Are we ready to buy when it hits 100k?!
 
-3h ago
+5h ago
+
+---
+
+**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
+
+Who’s with me??😂😂
+
+11h ago
 
 ---
 
@@ -97,29 +97,7 @@ Are we ready to buy when it hits 100k?!
 
 Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
 
-2h ago
-
----
-
-**[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
-
-17h ago
-
----
-
-**[I finally pulled the trigger](https://www.reddit.com/r/Bitcoin/comments/1t3zy78/i_finally_pulled_the_trigger/)**
-
-After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
-
-14h ago
-
----
-
-**[is Bitcoin the asset… or the main character?](https://www.reddit.com/r/Bitcoin/comments/1t4dk6j/is_bitcoin_the_asset_or_the_main_character/)**
-
-Why do some communities spend so much time talking about Bitcoin…even when they’re not into Bitcoin? Not trying to stir anything up — I’m actually curious what the psychology is there. The longer I’m around, the more it feels like: Bitcoiners ignore everything else… while everything else can’t ignore Bitcoin. What am I missing?
-
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +105,29 @@ Why do some communities spend so much time talking about Bitcoin…even when the
 
 Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
 
-1h ago
+3h ago
+
+---
+
+**[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
+
+19h ago
+
+---
+
+**[I finally pulled the trigger](https://www.reddit.com/r/Bitcoin/comments/1t3zy78/i_finally_pulled_the_trigger/)**
+
+After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
+
+16h ago
+
+---
+
+**[is Bitcoin the asset… or the main character?](https://www.reddit.com/r/Bitcoin/comments/1t4dk6j/is_bitcoin_the_asset_or_the_main_character/)**
+
+Why do some communities spend so much time talking about Bitcoin…even when they’re not into Bitcoin? Not trying to stir anything up — I’m actually curious what the psychology is there. The longer I’m around, the more it feels like: Bitcoiners ignore everything else… while everything else can’t ignore Bitcoin. What am I missing?
+
+4h ago
 
 ---
 
@@ -135,15 +135,15 @@ Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite w
 
 May the 4th be with us us.
 
-10h ago
+12h ago
 
 ---
 
-**[Strive's Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://www.reddit.com/r/Bitcoin/comments/1t3u3hb/strives_bitcoin_treasury_crosses_15000_btc_after/)**
+**[Don't use such brain wallets: SHA256 (passphrase) -> private key !!](https://www.reddit.com/r/Bitcoin/comments/1t49x4r/dont_use_such_brain_wallets_sha256_passphrase/)**
 
-Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treasury has crossed the 15,000 BTC threshold, following the purchase of 444 bitcoin for $33.9 million at an average cost of $76,307 per coin. CEO Matt Cole announced the acquisition on X, and the company filed an 8-K with the SEC confirming the details. The purchase extends a string of accumulation moves that have positioned Strive as one of the more active corporate Bitcoin buyers in the market. As of April 24, Strive held 14,557 BTC after a separate purchase of 789 bitcoin at $77,890 per coin. The latest transaction pushes the total stack past 15,000 BTC, a holding valued at around $1.2 billion at current prices. The SEC filing detailed the company’s balance sheet as of May 1: $97.9 million in cash and cash equivalents, and $50.4 million in the Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) of Strategy — Michael Saylor’s firm, which rebranded from MicroStrategy. Strive reported 63,129,587 shares of Class A common stock and 9,893,844 shares of Class B common stock outstanding, together with 4,959,536 shares of its Variable Rate Series A Perpetual Preferred Stock, traded under the ticker SATA. The milestone follows Strive’s completion of its acquisition of Semler Scientific in January 2026, which brought the medical technology firm into Strive as a subsidiary. At the close of that deal, Strive held 12,798 BTC and ranked as the 11th largest public corporate Bitcoin holder in the world. The company has added more than 2,200 BTC to its treasury since that transaction. Strive as the first public asset management Bitcoin treasury corporation Strive describes itself as the first public asset management Bitcoin treasury corporation. Its strategy centers on growth in Bitcoin per share, treating Bitcoin as the hurdle rate for all capital allocation decisions. CEO Matt Cole, who has led the company since April 2023 and has served as Chairman since September 2025, has steered the company toward what he terms “digital credit” — structured finance products that generate yield through Bitcoin exposure. The SATA preferred stock stands at the center of that strategy. Strive raised $225 million in an oversubscribed SATA offering in January 2026, with investor demand exceeding $600 million. The stock carries an annualized yield near 13%, and the product held its peg through Bitcoin’s recent 50% drawdown. Strive’s $50.4 million position in Strategy’s STRC preferred stock reflects a parallel bet on Bitcoin-backed structured products across the corporate treasury space.
+During my Bitcoin analysis, I stumbled upon something I found quite intriguing: I discovered approximately 20,000 private keys that were apparently generated according to an extremely simple pattern-in simplified terms: SHA256 (passphrase) -> private key. The passphrases included not only a single word, but also entire sentences (in different languages), simple number sequences, leet-speak, and even hex-speak. These are precisely the kinds of things that people can easily remember-and therefore, precisely why they are anything but secure. The SHA256 (passphrase) -> private key method is called "brain wallet" and was used in the early days of Bitcoin. Today, in contrast, HD wallets with 12 or 24 word seed phrases are used. What I found particularly interesting was that the corresponding addresses no longer held any Bitcoins. The coins had apparently been transferred at some point, either by the original user or by someone else. I then tried sending a few satoshis to such a brain wallet and discovered that within seconds to minutes another transaction was generated by a different Bitcoin user (probably a bot) who immediately transferred my satoshis to his wallet ;-) For me, this once again clearly demonstrates how risky it is to rely on "self-invented" or somehow memorable keys when it comes to Bitcoin. What seems clever or practical to humans is often simply predictable from a security perspective. I would be interested to know if anyone else has observed such patterns or has generally dealt with weakly generated keys or brain wallets.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000) • 18h ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treas
 
 Hi everyone, I'm holding BTC for a few years now but I've heard about staking, is this safe? How does that actually work? Would you rather stake or borrow against it?
 
-1h ago
+3h ago
 
 ---
 
@@ -159,33 +159,61 @@ Hi everyone, I'm holding BTC for a few years now but I've heard about staking, i
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Surges Past $80,000 Following CLARITY Act Compromise](https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-042800285.html)**
-
-Bitcoin (CRYPTO: $BTC) recently experienced a notable resurgence, rallying in recent days to top the $80,000 mark f...
-
-Yahoo Finance • 10h ago
-
----
-
 **[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 20h ago
 
 ---
 
-**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
+**[GameStop's $55B eBay bid could liquidate its bitcoin | CoinDesk Videos](https://www.coindesk.com/video/gamestops-55b-ebay-bid-could-liquidate-its-bitcoin)**
 
-‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
+GameStop submitted an unsolicited $55.5 billion offer to buy eBay, and CEO Ryan Cohen hasn't ruled out selling the company's $368 million bitcoin treasury to fund it. If the deal closes, eBay's 135 million active buyers would be inside a company that holds bitcoin. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily." | CoinDesk Videos
 
-Fortune • 23h ago
+CoinDesk • 26m ago
 
 ---
 
-**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs)**
+**[GameStop's $55B eBay bid could liquidate its bitcoin](https://finance.yahoo.com/video/gamestops-55b-ebay-bid-could-163826550.html)**
 
-The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
+GameStop submitted an unsolicited $55.5 billion offer to buy eBay, and CEO Ryan Cohen hasn't ruled out selling the company's $368 million bitcoin treasury to fund it. If the deal closes, eBay's 135 million active buyers would be inside a company that holds bitcoin. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
 
-CoinDesk • 18h ago
+Yahoo Finance • 26m ago
+
+---
+
+**[GameStop's $55.5B eBay Bid Could Test Bitcoin Payments](https://bitbo.io/news/gamestop-ebay-bid-bitcoin/)**
+
+GameStop has made an unsolicited $55.5 billion offer to acquire eBay, raising questions about whether the BTC-holding retailer could eventually integrate Bitcoin payments into a marketplace with 135 million active buyers.
+
+Bitbo • 12h ago
+
+---
+
+**[Is the MicroStrategy Bitcoin Binge Over? What Saylor’s Pause Means](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-binge-over-saylor-191404021.html)**
+
+The latest in the MicroStrategy Bitcoin saga has Michael Saylor pausing BTC purchases ahead of its Q1 earnings release, with the CEO confirming “No buys this week” in a Sunday post on X, breaking a pattern of near-continuous accumulation that made the company the world’s largest corporate Bitcoin holder. Bitcoin ...
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Strategy Survives Another Bitcoin Crash With More Alchemy](https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin upbeat near $81k with Iran tensions, Strategy earnings in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-upbeat-near-81k-with-iran-tensions-strategy-earnings-in-focus-4657857)**
+
+Investing.com • 9h ago
+
+---
+
+**[Crypto's value is from being outside regulatory apparatus, says Arthur Hayes](https://www.coindesk.com/business/2026/05/05/crypto-doesn-t-need-regulation-its-value-is-being-outside-regulatory-apparatus-says-arthur-hayes)**
+
+All that matters for bitcoin’s value proposition is fiat liquidity, said Arthur Hayes, CIO of Maelstrom, at Consensus Miami 2026.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -193,29 +221,7 @@ CoinDesk • 18h ago
 
 Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
 
-Fast Company • 2h ago
-
----
-
-**[Is Bitcoin More Likely to Hit $50,000 or $100,000?](https://www.fool.com/investing/2026/05/05/is-bitcoin-more-likely-to-hit-50000-or-100000/)**
-
-Bitcoin has been rallying recently, but it's still down around 35% from the highs it reached last year.
-
-The Motley Fool • 56m ago
-
----
-
-**[Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount](https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings)**
-
-Sequans Communications sold 1,025 bitcoin during the first quarter of 2026, cutting its digital asset reserves nearly in half.
-
-Bitcoin Magazine • 6m ago
-
----
-
-**[Coinbase Stock, Strategy Gain. It’s Not Just Rising Bitcoin Lifting Crypto Companies.](https://www.barrons.com/articles/coinbase-stock-strategy-robinhood-crypto-c97d863f)**
-
-Barron's • 1d ago
+Fast Company • 4h ago
 
 ---
 
@@ -224,12 +230,6 @@ Barron's • 1d ago
 NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[Bitcoin rises past $80k on ETF inflows; Strategy earnings on tap](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-etf-inflows-strategy-earnings-on-tap-4654984)**
-
-Investing.com • 1d ago
 
 ---
 
@@ -249,7 +249,7 @@ How a 1970s-era application like a terminal emulator can consume more battery th
 
 Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
 
-⬆️ 52 • 💬 54 • 4d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
+⬆️ 52 • 💬 54 • 5d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
 
 ---
 
@@ -272,6 +272,14 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 **[U.S. Seizes $15B in Bitcoin in Crypto 'Scam' Crackdown](https://news.ycombinator.com/item?id=47971809)**
 
 ⬆️ 1 • 💬 2 • 4d ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
+
+---
+
+**[ArkTunnel, censorship-resistant tunnel that hides behind a real Bitcoin node](https://news.ycombinator.com/item?id=48024070)**
+
+ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
+
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -307,14 +315,6 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 ---
 
-**[Quantum Hardening Bitcoin: Cryptographers init PQC engineering and review](https://news.ycombinator.com/item?id=47950231)**
-
-Localhost Research is excited to announce a new initiative in partnership with Benedikt Bünz and Dan Boneh. Together, we have established a Post Quantum Cryptography Group that will review, study, and design conservative cryptographic schemes that will help inform the direction and shape of Bitcoin's response to the PQP.
-
-⬆️ 1 • 💬 0 • 5d ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,7 +325,7 @@ Bitcoin is back above $80000, the four-year cycle debate is alive again, and a m
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 204 • ⏱️ 19:25 • 18h ago
+👁️ 20K • 👍 2K • 💬 204 • ⏱️ 19:25 • 20h ago
 
 ---
 
@@ -335,7 +335,7 @@ I built a Bitcoin forecast model that pulls from over 1300 sources to predict wh
 
 📺 Jesse Eckel
 
-👁️ 7K • 👍 404 • 💬 194 • ⏱️ 9:38 • 17h ago
+👁️ 7K • 👍 404 • 💬 194 • ⏱️ 9:38 • 19h ago
 
 ---
 
@@ -345,7 +345,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: ht
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 259 • 💬 116 • ⏱️ 8:45 • 5h ago
+👁️ 3K • 👍 259 • 💬 116 • ⏱️ 8:45 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Great day with bitcoin at 80K but there are some MAJOR negative forces at play t
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 506 • 💬 54 • ⏱️ 34:33 • 19h ago
+👁️ 7K • 👍 506 • 💬 54 • ⏱️ 34:33 • 21h ago
 
 ---
 
@@ -365,7 +365,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 846 • 💬 252 • ⏱️ 11:44 • 14h ago
+👁️ 14K • 👍 846 • 💬 252 • ⏱️ 11:44 • 16h ago
 
 ---
 
@@ -385,7 +385,7 @@ Subscribe for daily insights and updates for your Bitcoin journey. Follow on Fac
 
 📺 Joel Bomgar
 
-👁️ 752 • 👍 13 • 💬 2 • ⏱️ 3:00 • 14h ago
+👁️ 752 • 👍 13 • 💬 2 • ⏱️ 3:00 • 16h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin is pushing toward a breakout while holding strong around $80K, even as g
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 645 • 💬 12 • ⏱️ 28:59 • 1h ago
+👁️ 5K • 👍 645 • 💬 12 • ⏱️ 28:59 • 2h ago
 
 ---
 
@@ -415,7 +415,7 @@ Subscribe to our new channel @jebbmcafeeinvests: https://www.youtube.com/@jebbmc
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 338 • 💬 64 • ⏱️ 11:45 • 20h ago
+👁️ 6K • 👍 338 • 💬 64 • ⏱️ 11:45 • 22h ago
 
 ---
 
