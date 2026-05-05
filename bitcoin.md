@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T17:04:48.100289+00:00'
+updated: '2026-05-05T18:54:22.230625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 17:04 UTC  
+**Last Updated:** May 05, 2026 at 18:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,320.52
+### $81,303.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +7.3%  
-**30d:** +18.1%  
-**90d:** +29.6%  
-**1y:** -16.0%  
+**24h:** +1.8%  
+**7d:** +7.6%  
+**30d:** +18.4%  
+**90d:** +29.9%  
+**1y:** -15.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1629.40B
+**Market Cap:** $1632.55B
 Rank #1
 
-**Circulating Supply:** 20,024,934 BTC
+**Circulating Supply:** 20,025,131 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.3%
 
 **All-Time Low:** $67.81
-+119959.0%
++120128.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Are we ready to buy when it hits 100k?!
 
-5h ago
+7h ago
 
 ---
 
@@ -89,15 +89,7 @@ Are we ready to buy when it hits 100k?!
 
 Who’s with me??😂😂
 
-11h ago
-
----
-
-**[Me doubling my $25 weekly buy to $50 thinking I just triggered the next bull run](https://www.reddit.com/r/Bitcoin/comments/1t4e91e/me_doubling_my_25_weekly_buy_to_50_thinking_i/)**
-
-Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
-
-4h ago
+13h ago
 
 ---
 
@@ -105,13 +97,29 @@ Me: doubles investment Market: instantly prepares a historic rally Correlation =
 
 Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
 
-3h ago
+5h ago
+
+---
+
+**[This John Stewart Interview is so embarrassing. These counterpoints are from like 10 years ago. It's still early...](https://www.reddit.com/r/Bitcoin/comments/1t4l41p/this_john_stewart_interview_is_so_embarrassing/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 2h ago
+
+---
+
+**[Me doubling my $25 weekly buy to $50 thinking I just triggered the next bull run](https://www.reddit.com/r/Bitcoin/comments/1t4e91e/me_doubling_my_25_weekly_buy_to_50_thinking_i/)**
+
+Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
+
+6h ago
 
 ---
 
 **[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -119,7 +127,7 @@ Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite w
 
 After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
 
-16h ago
+18h ago
 
 ---
 
@@ -127,15 +135,7 @@ After way too long saying “I’ll start soon” I finally did it. Bought my fi
 
 Why do some communities spend so much time talking about Bitcoin…even when they’re not into Bitcoin? Not trying to stir anything up — I’m actually curious what the psychology is there. The longer I’m around, the more it feels like: Bitcoiners ignore everything else… while everything else can’t ignore Bitcoin. What am I missing?
 
-4h ago
-
----
-
-**[May the 4th Be With Us](https://www.reddit.com/r/Bitcoin/comments/1t44s0k/may_the_4th_be_with_us/)**
-
-May the 4th be with us us.
-
-12h ago
+6h ago
 
 ---
 
@@ -143,15 +143,15 @@ May the 4th be with us us.
 
 During my Bitcoin analysis, I stumbled upon something I found quite intriguing: I discovered approximately 20,000 private keys that were apparently generated according to an extremely simple pattern-in simplified terms: SHA256 (passphrase) -> private key. The passphrases included not only a single word, but also entire sentences (in different languages), simple number sequences, leet-speak, and even hex-speak. These are precisely the kinds of things that people can easily remember-and therefore, precisely why they are anything but secure. The SHA256 (passphrase) -> private key method is called "brain wallet" and was used in the early days of Bitcoin. Today, in contrast, HD wallets with 12 or 24 word seed phrases are used. What I found particularly interesting was that the corresponding addresses no longer held any Bitcoins. The coins had apparently been transferred at some point, either by the original user or by someone else. I then tried sending a few satoshis to such a brain wallet and discovered that within seconds to minutes another transaction was generated by a different Bitcoin user (probably a bot) who immediately transferred my satoshis to his wallet ;-) For me, this once again clearly demonstrates how risky it is to rely on "self-invented" or somehow memorable keys when it comes to Bitcoin. What seems clever or practical to humans is often simply predictable from a security perspective. I would be interested to know if anyone else has observed such patterns or has generally dealt with weakly generated keys or brain wallets.
 
-8h ago
+9h ago
 
 ---
 
-**[Staking BTC](https://www.reddit.com/r/Bitcoin/comments/1t4fndy/staking_btc/)**
+**[Milestones](https://www.reddit.com/r/Bitcoin/comments/1t4lp62/milestones/)**
 
-Hi everyone, I'm holding BTC for a few years now but I've heard about staking, is this safe? How does that actually work? Would you rather stake or borrow against it?
+Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between this and living the rest of your life from converting btc to fiat ? Thank you
 
-3h ago
+1h ago
 
 ---
 
@@ -159,17 +159,11 @@ Hi everyone, I'm holding BTC for a few years now but I've heard about staking, i
 
 ## Google News: "bitcoin"
 
-**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
+**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
 
-Investor's Business Daily • 20h ago
+‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
 
----
-
-**[GameStop's $55B eBay bid could liquidate its bitcoin | CoinDesk Videos](https://www.coindesk.com/video/gamestops-55b-ebay-bid-could-liquidate-its-bitcoin)**
-
-GameStop submitted an unsolicited $55.5 billion offer to buy eBay, and CEO Ryan Cohen hasn't ruled out selling the company's $368 million bitcoin treasury to fund it. If the deal closes, eBay's 135 million active buyers would be inside a company that holds bitcoin. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily." | CoinDesk Videos
-
-CoinDesk • 26m ago
+Fortune • 1d ago
 
 ---
 
@@ -177,7 +171,15 @@ CoinDesk • 26m ago
 
 GameStop submitted an unsolicited $55.5 billion offer to buy eBay, and CEO Ryan Cohen hasn't ruled out selling the company's $368 million bitcoin treasury to fund it. If the deal closes, eBay's 135 million active buyers would be inside a company that holds bitcoin. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs)**
+
+The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
+
+CoinDesk • 22h ago
 
 ---
 
@@ -185,43 +187,31 @@ Yahoo Finance • 26m ago
 
 GameStop has made an unsolicited $55.5 billion offer to acquire eBay, raising questions about whether the BTC-holding retailer could eventually integrate Bitcoin payments into a marketplace with 135 million active buyers.
 
-Bitbo • 12h ago
+Bitbo • 14h ago
 
 ---
 
-**[Is the MicroStrategy Bitcoin Binge Over? What Saylor’s Pause Means](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-binge-over-saylor-191404021.html)**
+**[French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality](https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin)**
 
-The latest in the MicroStrategy Bitcoin saga has Michael Saylor pausing BTC purchases ahead of its Q1 earnings release, with the CEO confirming “No buys this week” in a Sunday post on X, breaking a pattern of near-continuous accumulation that made the company the world’s largest corporate Bitcoin holder. Bitcoin ...
+Sequans Communications liquidated nearly half its Bitcoin treasury as mounting losses and debt obligations forced a strategic reversal.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Strategy Survives Another Bitcoin Crash With More Alchemy](https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy)**
-
-Bloomberg.com • 1h ago
+Decrypt • 1h ago
 
 ---
 
-**[Bitcoin upbeat near $81k with Iran tensions, Strategy earnings in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-upbeat-near-81k-with-iran-tensions-strategy-earnings-in-focus-4657857)**
+**[Should You Buy Bitcoin Before the Next Halving?](https://www.fool.com/investing/2026/05/05/should-you-buy-bitcoin-before-the-next-halving/)**
 
-Investing.com • 9h ago
+The world's top cryptocurrency will become even tougher to mine in 2028.
 
----
-
-**[Crypto's value is from being outside regulatory apparatus, says Arthur Hayes](https://www.coindesk.com/business/2026/05/05/crypto-doesn-t-need-regulation-its-value-is-being-outside-regulatory-apparatus-says-arthur-hayes)**
-
-All that matters for bitcoin’s value proposition is fiat liquidity, said Arthur Hayes, CIO of Maelstrom, at Consensus Miami 2026.
-
-CoinDesk • 1h ago
+The Motley Fool • 57m ago
 
 ---
 
-**[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
+**[Bitcoin Won't Crack $100K This Year, Galaxy Digital CEO Mike Novogratz Says, Warning Of 'Ugly Inflation'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-wont-crack-100k-galaxy-180001827.html)**
 
-Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
+Conditions are not right for Bitcoin to mount a recovery above $100,000, according to Galaxy Digital Inc. (NASDAQ:GLXY) CEO Mike Novogratz. "It’s not my prediction that we break [$100,000] this year," Novogratz said on Galaxy Digital’s Q1 earnings call on...
 
-Fast Company • 4h ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -230,6 +220,20 @@ Fast Company • 4h ago
 NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Why bitcoin still looks like crypto's best generational wealth bet](https://www.msn.com/en-us/money/savingandinvesting/why-bitcoin-still-looks-like-cryptos-best-generational-wealth-bet/ar-AA22esIq)**
+
+MSN • 59m ago
+
+---
+
+**[Blockmate Ventures Portfolio Update on AI, Bitcoin and Website Relaunch](https://investingnews.com/blockmate-ventures-portfolio-update-on-ai-bitcoin-and-website-relaunch/)**
+
+Blockmate Ventures Inc. (TSXV: MATE,OTC:MATEF) (OTCQB: MATEF) (FSE: 8MH) ("Blockmate" or the "Company"), a venture builder focused on AI, Bitcoin, and digital infrastructure, is pleased to provide an update across several of its key initiatives, including progress relating to its Wyoming AI infrastr...
+
+Investing News Network • 5h ago
 
 ---
 
@@ -279,7 +283,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -319,83 +323,13 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 ## YouTube Videos: "bitcoin"
 
-**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
+**[Bitcoin Just Flashed A Massive $100K Signal](https://www.youtube.com/watch?v=Rg47vPctFBw)**
 
-Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 2K • 💬 204 • ⏱️ 19:25 • 20h ago
-
----
-
-**[1,300 Experts Just Predicted Bitcoin’s Price](https://www.youtube.com/watch?v=47VJwPNTi3c)**
-
-I built a Bitcoin forecast model that pulls from over 1300 sources to predict where BTC could be in the next 30 days. Instead of ...
-
-📺 Jesse Eckel
-
-👁️ 7K • 👍 404 • 💬 194 • ⏱️ 9:38 • 19h ago
-
----
-
-**[Bitcoin Holders: Market Updates (&amp; Fidelity&#39;s New Recommendation)](https://www.youtube.com/watch?v=MELeOLVMsIM)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: https://kalshi.com/aaronbennett Into The Cryptoverse ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 259 • 💬 116 • ⏱️ 8:45 • 6h ago
-
----
-
-**[The Bitcoin Trap: Why the $80K Pump is Fake](https://www.youtube.com/watch?v=6eOHqHxOTc4)**
-
-Great day with bitcoin at 80K but there are some MAJOR negative forces at play throughout 2026 Andrew A.I. ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 506 • 💬 54 • ⏱️ 34:33 • 21h ago
-
----
-
-**[Bitcoin Leading Crypto Spring...](https://www.youtube.com/watch?v=Rwy8mOAmeRI)**
-
-Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 846 • 💬 252 • ⏱️ 11:44 • 16h ago
-
----
-
-**[Bitcoin Breakout! The CRYPTO TRAP Is OFFICIALLY SET](https://www.youtube.com/watch?v=HMwxTxTxhLo)**
-
-Doesn't matter which crypto charts you have open. Bitcoin, Ethereum, Sui, Cardano are all testing a key resistance that if broken ...
-
-📺 Crypto Capital Venture
-
-👁️ 18K • 👍 855 • 💬 365 • ⏱️ 19:42 • 1d ago
-
----
-
-**[Why I decided to buy Bitcoin](https://www.youtube.com/watch?v=6c50V1WaXUw)**
-
-Subscribe for daily insights and updates for your Bitcoin journey. Follow on Facebook for more content or to reach out directly with ...
-
-📺 Joel Bomgar
-
-👁️ 752 • 👍 13 • 💬 2 • ⏱️ 3:00 • 16h ago
-
----
-
-**[The Bitcoin Pump Won’t End Until You See THIS Price!](https://www.youtube.com/watch?v=lY7OKnBnZXI)**
-
-In this tactical market update, Kyle Doops analyzes the current Bitcoin short squeeze and why the Monday pump pattern is ...
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 1K • 💬 32 • ⏱️ 28:41 • 1d ago
+👁️ 14K • 👍 984 • 💬 115 • ⏱️ 46:55 • 4h ago
 
 ---
 
@@ -405,17 +339,87 @@ Bitcoin is pushing toward a breakout while holding strong around $80K, even as g
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 645 • 💬 12 • ⏱️ 28:59 • 2h ago
+👁️ 14K • 👍 1K • 💬 33 • ⏱️ 28:59 • 4h ago
 
 ---
 
-**[Bitcoin Bull Market STARTING SOON?! Realistic Bull Market CONFIRMATION AROUND THE CORNER?](https://www.youtube.com/watch?v=nHfibQG0lWc)**
+**[1,300 Experts Just Predicted Bitcoin’s Price](https://www.youtube.com/watch?v=47VJwPNTi3c)**
 
-Subscribe to our new channel @jebbmcafeeinvests: https://www.youtube.com/@jebbmcafeeinvests David Nicholas Interview: ...
+I built a Bitcoin forecast model that pulls from over 1300 sources to predict where BTC could be in the next 30 days. Instead of ...
 
-📺 Crypto Jebb
+📺 Jesse Eckel
 
-👁️ 6K • 👍 338 • 💬 64 • ⏱️ 11:45 • 22h ago
+👁️ 8K • 👍 448 • 💬 211 • ⏱️ 9:38 • 21h ago
+
+---
+
+**[Bitcoin Holders: Market Updates (&amp; Fidelity&#39;s New Recommendation)](https://www.youtube.com/watch?v=MELeOLVMsIM)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: https://kalshi.com/aaronbennett Into The Cryptoverse ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 336 • 💬 190 • ⏱️ 8:45 • 8h ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 618 • 👍 72 • 💬 4 • ⏱️ 19:21 • 2h ago
+
+---
+
+**[Crypto Bull Market Doors Opening! Bitcoin, Ethereum &amp; Altcoins Breaking Out NOW](https://www.youtube.com/watch?v=lIEj81JuNaw)**
+
+Crypto bull market signals are waking up, and these are very macro indicators aligning. Short term bitcoin and ethereum price ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 596 • 💬 229 • ⏱️ 14:49 • 4h ago
+
+---
+
+**[Live Coverage: Strategy Q1 Results with Michael Saylor and Bitcoin (BTC) Outlook](https://www.youtube.com/watch?v=iR5W5WmoQp0)**
+
+Strategy (MSTR) reports Q1 2026 earnings on May 5, with analysts expecting roughly $120–$121 million in revenue and a ...
+
+📺 Strategy₿
+
+👁️ 4K • 👍 4K • 1h ago
+
+---
+
+**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
+
+Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 208 • ⏱️ 19:25 • 21h ago
+
+---
+
+**[You&#39;re Being Purposely Lied To About Where Bitcoin Is Going.....](https://www.youtube.com/watch?v=eocl6yUvKvA)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 10K • 👍 694 • 💬 402 • ⏱️ 15:36 • 20h ago
+
+---
+
+**[Coinbase&#39;s Legal Chief Just Made This Prediction About Crypto Regulation](https://www.youtube.com/watch?v=Etk6U9amKl4)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO on Clarity Act, Prediction Markets ...
+
+📺 Yahoo Finance
+
+👁️ 2K • 👍 198 • 💬 4 • ⏱️ 14:59 • 2h ago
 
 ---
 

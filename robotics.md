@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-05T17:04:48.109714+00:00'
+updated: '2026-05-05T18:54:22.238818+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 05, 2026 at 17:04 UTC  
+**Last Updated:** May 05, 2026 at 18:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
 
-7h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
 
 XR-4 Rehbar I wanted to showcase a personal project that I had been working on for around a year. As a graduate student in EE and embedded engineer working in Industrial IoT, I have wanted to pivot to robotics and autonomous mobility for a long time. With simulation and virtual environments not being possible for technical reasons and on account of being a very hands-on kind of learner and with the goal of going through a process of building something from scratch, I decided to build a test platform in the form of a rover which I can modify, upgrade and build upon. I also researched similar open-source, hobbyist and professional projects to draw inspiration. Several projects on Instructables and Reddit helped me in refining my ideas and the LeoRover platform from FictionLab was something which made me go: „this is it, this is what my rover should be like“. I want this platform to be easily reconfigurable and upgradeable. It is definitely not meant to be a hobby project, it is intended to stand somewhere between a hobby/DIY project and a high end platform like the LeoRover which is not for the average engineer looking to upskill in his home lab or develop and test out some stuff on his own, only being affordable if you’re a university lab or a government funded research institution. With that, I present the XR-4 Rehbar (lit. „Pioneer“ in Urdu) GitHub: rover-xr4 The GitHub repo and documentation is not up to date at this point, I will be updating them and this post in the near future. Electronics and Software CTU - Control and Telemetry Unit: sends telecommands to the OBC i.e. steering commands, lights and peripherals and receives telemetry (voltage and current, GPS data, IMU data, temperature and statuses) over the ESP-NOW protocol. Tested outdoors LoS range was 100-120m OBC - Onboard Controller: motor and steering control, power monitoring, safety related functionality. Sends telemetry to CTU and receives telecommands from CTU over ESP-NOW. Lower level controller which can interface with a SBC based mission computer on the future for autonomous operations The software for both CTU and OBC is written using a mix of Arduino and ESPIDF toolkits in VSCode and is available in the GitHub repo linked above. Mechanical and Structures Modified 4-wheel rocker suspension with differential drive/skid steering. Each wheel is driven by an independent 12V 100RPM Brushed DC motor without encoders (motors with encoders were just too expensive, sadly). The structure is 3D printed in its entirety except the rocker arms which are extruded Aluminium profiles. I am currently cleaning up and standardizing the naming convention of my CAD so that I can open source it. It will be up soon. A note on future work: I am working on upgrading the platform with autonomous navigation and driving and currently looking at architectural options for that I.e. options for hardware and sensors, communication and control architectures. Cost is obviously a concern and I want to limit it by using as much of the hardware I already have since I am funding this project myself. Lastly, I will welcome any and all questions, comments, opinions, criticism and ideas about anything - the design, electronics and the future work options (guidance, inspiration and ideas are badly needed :)) Thank you :)
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ XR-4 Rehbar I wanted to showcase a personal project that I had been working on f
 
 Went to a robotics event last month. Lost count of how many booths said "AI-powered" on the banner lol Asked a few engineers what was actually running – classical controllers, pre-trained detection models, one guy who genuinely couldn't explain what the AI part was doing. The collateral damage is what bugs me most. When everything gets the same sticker, the projects that actually did something novel get lumped in with the ones that slapped "AI" on a PID loop. Buyers get burned, the whole category pays for it. Filter I've been using: take the AI component out. Does the thing stop working, or just get slightly worse? "Slightly worse" is a feature, not a foundation. Maybe I'm just getting cynical... do you still find the label useful when evaluating something, or do you just go straight to asking the engineers?
 
-3h ago
+5h ago
 
 ---
 
@@ -70,13 +70,21 @@ Went to a robotics event last month. Lost count of how many booths said "AI-powe
 
 **[Robot Wall E , parte 1](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)**
 
-12h ago
+14h ago
 
 ---
 
-**[Figure just posted this with caption “robot fashion”, do you think we are getting robot clothing next?](https://www.reddit.com/r/robotics/comments/1t4j7te/figure_just_posted_this_with_caption_robot/)**
+**[Over time and as my robot has progressed, many user interfaces have been added for reading and visualizing data and controlling the robot; here they are.](https://www.reddit.com/r/robotics/comments/1t4ixy2/over_time_and_as_my_robot_has_progressed_many/)**
 
-1h ago
+3h ago
+
+---
+
+**[Electric wagon. I’m not sure if this is the right place for this..](https://www.reddit.com/r/robotics/comments/1t4odio/electric_wagon_im_not_sure_if_this_is_the_right/)**
+
+I built a wagon and want to power it with motors from an electric wheelchair, the chair I found uses (2) 12v 35ah batteries. My question, what are my options for a more compact/low profile battery? Do I have to stick with 12v? I’m unsure of the specs on the motors, would they be 12v or are they 24v? The wagon has a matching trailer that has the same red tub and tires, the electronics will be mounted to the trailer with control wires to the front handle and a finger throttle. I want to mount the batteries underneath the red tub so the tub is still open for cargo (aka my children). Ideally the battery would be fairly flat to maintain ground clearance.
+
+13m ago
 
 ---
 
@@ -84,7 +92,7 @@ Went to a robotics event last month. Lost count of how many booths said "AI-powe
 
 Finally got the 4WD movement logic sorted! Hours of troubleshooting the L298N and jumper wires paid off. Phase one of this obstacle-avoiding robot is complete. It moves forward, backward, and turns exactly as it should. The next step is mounting the ultrasonic sensor and the servo to give it some "eyes."
 
-12h ago
+14h ago
 
 ---
 
@@ -96,19 +104,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 ---
 
-**[I got LoRA training working on GR00T N1.7 (NVIDIA's official recipe stops at N1.5)](https://www.reddit.com/r/robotics/comments/1t3o70w/i_got_lora_training_working_on_gr00t_n17_nvidias/)**
-
-23h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -120,19 +122,19 @@ navalnews.com • 4d ago
 
 ---
 
-**[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
-
-Humanoid robots are being added to the automation of waste sorting.
-
-BBC • 17h ago
-
----
-
 **[Underwater robotics expert reveals 'shipwreck city' hiding beneath major urban lake](https://www.foxnews.com/travel/underwater-robotics-expert-reveals-shipwreck-city-hiding-beneath-major-urban-lake)**
 
 An underwater robotics expert is exploring nearly 100 targets in Seattle's Lake Union, calling the area a "shipwreck city" full of hidden maritime history.
 
-Fox News • 7h ago
+Fox News • 8h ago
+
+---
+
+**[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
+
+Humanoid robots are being added to the automation of waste sorting.
+
+BBC • 19h ago
 
 ---
 
@@ -140,7 +142,7 @@ Fox News • 7h ago
 
 Schaeffler expects its humanoid robotics business to build an order book in the hundreds of millions of euros by 2030, ‌the chief executive of the German machine and car parts maker said ‌on Tuesday.  CEO Klaus Rosenfeld, talking to Reuters after the company's first-quarter results, did not give a more ​specific estimate for the potential order book.  "We have been investing significantly in the humanoid robotics area and at the moment we are collaborating with around 45 humanoid robotics players globally," Rosenfeld said.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -156,7 +158,7 @@ Tufts Now • 1d ago
 
 Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced the integration of its new Rev8 ...
 
-Business Wire • 7h ago
+Business Wire • 8h ago
 
 ---
 
@@ -174,11 +176,9 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[An underdog story: The Gow School's inspiring robotics competition win](https://buffalonews.com/news/local/education/article_a516181e-1fec-4450-a604-2600debdd036.html)**
+**[Tiny insect brain discovery offers a blueprint for faster and more efficient AI and robots](https://phys.org/news/2026-05-tiny-insect-brain-discovery-blueprint.html)**
 
-Ten seniors from The Gow School used hands-on skills, 3D visualization and automated machinery to power past several Pittsburgh-based schools in robotics battles.
-
-Buffalo News • 22h ago
+Phys.org • 5h ago
 
 ---
 
@@ -186,23 +186,43 @@ Buffalo News • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[AI ROBOTS Ready to TAKE OVER — Figure 03 + 1X NEO Just Shocked the World](https://www.youtube.com/watch?v=FspQyTAvJTU)**
-
-The humanoid robot revolution just kicked into HYPER-SPEED — and you're not ready for what's coming! Figure AI and 1X just ...
-
-📺 The AI Nexus
-
-👁️ 2K • 👍 78 • 💬 9 • ⏱️ 20:22 • 14h ago
-
----
-
 **[Humanoid Robot Gets Pushed and Instantly Recovers Like a Human](https://www.youtube.com/watch?v=9XmCqkHRT0I)**
 
 This humanoid robot just did something most machines cannot do. After being pushed, it instantly recovers and keeps moving like ...
 
 📺 DPCcars
 
-👁️ 8K • 👍 69 • 💬 32 • ⏱️ 3:09 • 20h ago
+👁️ 10K • 👍 84 • 💬 40 • ⏱️ 3:09 • 22h ago
+
+---
+
+**[AI ROBOTS Ready to TAKE OVER — Figure 03 + 1X NEO Just Shocked the World](https://www.youtube.com/watch?v=FspQyTAvJTU)**
+
+The humanoid robot revolution just kicked into HYPER-SPEED — and you're not ready for what's coming! Figure AI and 1X just ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 88 • 💬 9 • ⏱️ 20:22 • 16h ago
+
+---
+
+**[Building a Robot Dog](https://www.youtube.com/watch?v=yIYb0EdqA9c)**
+
+Watch the full video on my channel now. #shorts #robotics #engineering #technology #robotdog #3dprinting #gear #diy ...
+
+📺 Aaed Musa
+
+👁️ 429 • 👍 28 • ⏱️ 1:22 • 22m ago
+
+---
+
+**[Is my Gearbox Precise? #3dprinting #gearbox #testing #robotics](https://www.youtube.com/watch?v=8Bh0IXDBw20)**
+
+I test to see if my 3D printed gearbox is precise. I made a pointer attachment for the gearbox to see if it returns to the same position ...
+
+📺 Advanced Hobby Lab
+
+👁️ 131K • 👍 1K • 💬 14 • ⏱️ 0:28 • 4d ago
 
 ---
 
@@ -212,7 +232,17 @@ Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com
 
 📺 Aaed Musa
 
-👁️ 104K • 👍 11K • 💬 667 • ⏱️ 22:12 • 4d ago
+👁️ 105K • 👍 11K • 💬 675 • ⏱️ 22:12 • 4d ago
+
+---
+
+**[Somehow Imugi Is BETTER Than Ever Right Now... Speed Imugi Crushing Meta Bots | War Robots](https://www.youtube.com/watch?v=qnMscNA6rOY)**
+
+Imugi is awesome. The imugi feels like it's as good as ever. We're loading 3 Imugis up and testing them in champion league.
+
+📺 PREDATOR WR
+
+👁️ 4K • 👍 242 • 💬 44 • ⏱️ 15:23 • 6h ago
 
 ---
 
@@ -222,27 +252,17 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 245K • 👍 946 • 💬 236 • ⏱️ 3:51 • 4d ago
+👁️ 270K • 👍 946 • 💬 236 • ⏱️ 3:51 • 4d ago
 
 ---
 
-**[War Robots - Baby Account Battles With Indra Void-Chasm Setup + Black Market Opening WR Baby Account](https://www.youtube.com/watch?v=SyPTj1VxW10)**
+**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
 
-War Robots - Baby Account Battles With Indra Void-Chasm Setup + Black Market Opening WR Baby Account Gameplay War ...
+That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
 
-📺 Adrian Chong
+📺 TechFrontierNow
 
-👁️ 4K • 👍 271 • 💬 60 • ⏱️ 24:59 • 1d ago
-
----
-
-**[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
-
-Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
-
-📺 Bloomberg Originals
-
-👁️ 265K • 👍 4K • 💬 278 • ⏱️ 24:02 • 6d ago
+👁️ 91K • 👍 2K • 💬 197 • ⏱️ 11:20 • 6d ago
 
 ---
 
@@ -256,33 +276,13 @@ ABC News' Sophie Flay takes a closer look at the future of humanoid robots, wher
 
 ---
 
-**[Robots are building clay homes in Central Texas using dirt from the ground](https://www.youtube.com/watch?v=bsNTv8t239Y)**
+**[Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](https://www.youtube.com/watch?v=7r_WJ9xpne0)**
 
-A startup south of Austin is using robots to build homes out of clay pulled directly from the ground — a new approach aimed at ...
+HUGE AI NEWS: Happy Horse, SenseNova U1, Talkie, Grok 4.3, Vista 4D & more #ai #ainews #aitools #aivideo #agi Thanks to ...
 
-📺 KXAN
+📺 AI Search
 
-👁️ 160K • 👍 3K • 💬 859 • ⏱️ 2:21 • 3d ago
-
----
-
-**[This Robot Looks Right Out of Star Wars](https://www.youtube.com/watch?v=hI1wbdkfaMs)**
-
-The $25000 Tron 1 from LimX Dynamics looks like a mini AT-ST from Star Wars: here's what it actually can do. Read more about it ...
-
-📺 CNET
-
-👁️ 8K • 👍 242 • 💬 21 • ⏱️ 2:12 • 2d ago
-
----
-
-**[Secret Crocodile Robot Enters the Showdown Game Episode 1](https://www.youtube.com/watch?v=YfR4k022-R8)**
-
-Scene using artificial intelligence. #aiart #movie.
-
-📺 Miracle Animal Rescues
-
-👁️ 612K • 👍 4K • 💬 148 • ⏱️ 8:09 • 4d ago
+👁️ 91K • 👍 4K • 💬 496 • ⏱️ 45:27 • 2d ago
 
 ---
 
