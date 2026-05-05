@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-04T23:27:32.845844+00:00'
+updated: '2026-05-05T01:12:23.397350+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 04, 2026 at 23:27 UTC  
+**Last Updated:** May 05, 2026 at 01:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +2.7%  
-**30d:** +11.4%  
-**90d:** +9.4%  
-**1y:** +29.2%  
+**24h:** -0.6%  
+**7d:** +4.7%  
+**30d:** +12.0%  
+**90d:** +29.3%  
+**1y:** +30.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.07B
+**Market Cap:** $284.66B
 Rank #2
 
 **Circulating Supply:** 120,687,385 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.2%
+-52.3%
 
 **All-Time Low:** $0.43
-+545362.9%
++544725.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 12h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 14h ago
+
+---
+
+**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
+
+9h ago
 
 ---
 
@@ -89,12 +95,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
 
 1d ago
-
----
-
-**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
-
-7h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1d ago
 
 Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 8h ago
 
 Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -190,23 +190,7 @@ CoinDesk • 9h ago
 
 Bitmine owns more than 4.29% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 10 months Crypto Spring has...
 
-PR Newswire • 10h ago
-
----
-
-**[Market Analyst Predicts Bitcoin And Ethereum Prices For The Next 3 Quarters](https://www.tradingview.com/news/newsbtc:b3799c4b4094b:0-market-analyst-predicts-bitcoin-and-ethereum-prices-for-the-next-3-quarters/)**
-
-Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
-
-TradingView • 6h ago
-
----
-
-**[Ethereum gas limit increased 3.3x for Glamsterdam upgrade, boosting scalability](https://cryptobriefing.com/ethereum-gas-limit-increased-33x-for-glamsterdam-upgrade-boosting-scalability/)**
-
-Ethereum increased its gas limit by 3.3x for the Glamsterdam upgrade. Ethereum reaching $10,000 by December 31, 2026 priced at 3.9% YES.
-
-Crypto Briefing • 2h ago
+PR Newswire • 12h ago
 
 ---
 
@@ -218,11 +202,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin At $79,000 As Ethereum, XRP, Dogecoin Gain 1%](https://www.benzinga.com/crypto/cryptocurrency/26/05/52242939/bitcoin-at-79000-as-ethereum-xrp-dogecoin-gain-1)**
+**[Market Analyst Predicts Bitcoin And Ethereum Prices For The Next 3 Quarters](https://www.tradingview.com/news/newsbtc:b3799c4b4094b:0-market-analyst-predicts-bitcoin-and-ethereum-prices-for-the-next-3-quarters/)**
 
-Bitcoin trades around $79,000 as Bitcoin ETFs saw $629.7 million in net inflows on Friday, while Ethereum ETFs reported $101.22million in net outflows.
+Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
 
-Benzinga • 12h ago
+TradingView • 8h ago
+
+---
+
+**[Tom Lee’s BitMine Swallows $23 Million in Ethereum as Foundation Sells 10,000 More Coins to Fund Development](https://www.tipranks.com/news/tom-lees-bitmine-swallows-23-million-in-ethereum-as-foundation-sells-10000-more-coins-to-fund-development)**
+
+TipRanks • 11h ago
+
+---
+
+**[Ethereum gas limit increased 3.3x for Glamsterdam upgrade, boosting scalability](https://cryptobriefing.com/ethereum-gas-limit-increased-33x-for-glamsterdam-upgrade-boosting-scalability/)**
+
+Ethereum increased its gas limit by 3.3x for the Glamsterdam upgrade. Ethereum reaching $10,000 by December 31, 2026 priced at 3.9% YES.
+
+Crypto Briefing • 4h ago
 
 ---
 
@@ -230,23 +228,23 @@ Benzinga • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
-
-Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
-
-📺 Crossroads
-
-👁️ 3K • 👍 170 • 💬 33 • ⏱️ 10:34 • 8h ago
-
----
-
 **[🚨 BTC &amp; ETH: CRITICAL!!!!](https://www.youtube.com/watch?v=773C8uXOEYs)**
 
 This new data is huge for bitcoin, for ethereum and for the rest of crypto! A video worth watching! Markets are not what they seem ...
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 606 • 💬 12 • ⏱️ 14:06 • 12h ago
+👁️ 10K • 👍 617 • 💬 13 • ⏱️ 14:06 • 14h ago
+
+---
+
+**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
+
+Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 4K • 👍 205 • 💬 39 • ⏱️ 10:34 • 10h ago
 
 ---
 
@@ -256,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 433 • 💬 44 • ⏱️ 20:21 • 1d ago
+👁️ 11K • 👍 456 • 💬 45 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -266,7 +264,7 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 173 • ⏱️ 11:49 • 2d ago
+👁️ 33K • 👍 2K • 💬 176 • ⏱️ 11:49 • 2d ago
 
 ---
 
@@ -276,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 325 • 👍 12 • 💬 2 • ⏱️ 4:53 • 14h ago
+👁️ 326 • 👍 12 • 💬 2 • ⏱️ 4:53 • 15h ago
 
 ---
 
@@ -286,7 +284,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 285 • 💬 40 • ⏱️ 15:33 • 2d ago
+👁️ 7K • 👍 286 • 💬 40 • ⏱️ 15:33 • 2d ago
 
 ---
 
@@ -296,7 +294,7 @@ Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats
 
 📺 FireHustle
 
-👁️ 13K • 👍 629 • 💬 80 • ⏱️ 11:56 • 1d ago
+👁️ 14K • 👍 652 • 💬 81 • ⏱️ 11:56 • 2d ago
 
 ---
 
@@ -310,23 +308,23 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=-XnmjA0j9YM)**
+**[Ethereum BREAKDOWN Before Next Major Entry?](https://www.youtube.com/watch?v=_0A4yRcSIPY)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Crypto Gyan
+📺 Trade Confident
 
-👁️ 781 • 👍 74 • ⏱️ 7:47 • 11h ago
+👁️ 102 • 👍 1 • 💬 1 • ⏱️ 5:14 • 6h ago
 
 ---
 
-**[BITCOIN, STOCK &amp; ETHEREUM OPPORTUNITIES... YOU NEED TO SEE THESE CHARTS](https://www.youtube.com/watch?v=q1eqqU0H7Ns)**
+**[Bitcoin and Ethereum shift to ownership #bitcoin #ethereum #digitalassets](https://www.youtube.com/watch?v=xGr74riL1tc)**
 
-My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
+Bitcoin and Ethereum are framed as digital businesses that can generate long-term wealth without trading more time for income.
 
-📺 Satoshi Stacker
+📺 Loki Chain
 
-👁️ 5K • 👍 333 • 💬 10 • ⏱️ 10:17 • 15h ago
+👁️ 413 • 👍 7 • ⏱️ 0:43 • 4h ago
 
 ---
 

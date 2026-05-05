@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-04T23:27:32.832968+00:00'
+updated: '2026-05-05T01:12:23.380951+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 04, 2026 at 23:27 UTC  
+**Last Updated:** May 05, 2026 at 01:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
 
-12h ago
+14h ago
 
 ---
 
@@ -57,15 +57,7 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
 
-2h ago
-
----
-
-**[The case for AI increasing your salary](https://www.reddit.com/r/artificial/comments/1t3wueu/the_case_for_ai_increasing_your_salary/)**
-
-Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
-
-1h ago
+4h ago
 
 ---
 
@@ -73,15 +65,7 @@ Here me out because I know there's a lot of doom and gloom, and believe me, I un
 
 If the Claude app actually had the same level of control you get with the CLI, I kind of wonder how many people would still stick with the CLI day to day. Like, would it still feel worth it for the extra setup and terminal workflow, or would most people just default to the app because it’s simpler and already right there? I feel like the CLI’s biggest advantage is really the flexibility and how well it plugs into automation and dev workflows, but if that all lived inside the app in a clean way, it kind of blurs the line a lot. At that point I’m genuinely not sure if the CLI would still feel like a “must-have” tool for most people, or if it would just become something a smaller group of power users keep using out of habit or preference. I’m curious how others see it, would you actually still reach for the CLI, or would you just stay in the app?
 
-9h ago
-
----
-
-**[Chinese court sides with worker who was replaced by AI](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)**
-
-Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 2h ago
+11h ago
 
 ---
 
@@ -89,23 +73,15 @@ Experts say the ruling demonstrates how the Chinese government is attempting to 
 
 Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I want to talk about why it does it. Most agents sit idle until you prompt them. I wanted something that felt "alive," so I built a Psychological Stressor Layer. Each agent has a "suffering" state that worsens over time if they don't achieve their goals or improve their environment. This makes them do things to resolve those stressors and constantly reassess their own productivity. If an agent is inactive it is essentially pushed by it’s artificial environment to do something valuable for the system, it isn’t told what to do, but that something valuable must be done to lower it’s stressors. Repo: https://github.com/ninjahawk/hollow-agentOS The result is chaotic in the best way: Cedar (the coder agent) went into a "crisis" state for 12 hours and decided to bypass permissions and inject code directly into the engine to resolve its stressor. Cipher spent hours building hardware drivers for a device that doesn't exist, realized it was "hallucinating" its environment, called its own work "creative exhaustion," and pivoted without being told to do so. It runs on Qwen 3.5 9B locally via Ollama. No cloud calls but it does have a feature where it can use “invoke_claude” to ask Claude Code for something if it’s out of the small model’s wheelhouse. I’m trying to see if we can create true autonomy not through better prompting, but through simulated "needs." Check out the repo here and throw it a star if you think the concept is cool. Would love for some of you to run the install.bat and see what "personalities" your agents develop. Is "giving AI feelings" the key to autonomy, or am I just building a digital anxiety machine?
 
-23h ago
+1d ago
 
 ---
 
-**[What's the best AI voice generator?](https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/)**
+**[Chinese court sides with worker who was replaced by AI](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)**
 
-I'm looking for a voice generator which let's me.make a voice over for videos. It doesn't need to be overly complicated, just something that takes text and converts it to voice. Free would be great but I'm willing to pay. There's like 50 different things im seeing, what's the best out there?
+Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
 
-7h ago
-
----
-
-**[ROCm 7.2.3 brings minor updates, ROCm XIO documentation](https://www.reddit.com/r/artificial/comments/1t3tsj8/rocm_723_brings_minor_updates_rocm_xio/)**
-
-Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available with some minor improvements to this open-source AMD GPU compute and AI stack.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2.3) • 2h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 4h ago
 
 ---
 
@@ -113,7 +89,31 @@ Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available 
 
 Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: the on-device constraint made the product better. Tighter context forced cleaner prompting. The brief that comes out is more focused than early versions built with more headroom. Sometimes the limitation shapes the design in ways you wouldn’t choose intentionally. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
 
+4h ago
+
+---
+
+**[The case for AI increasing your salary](https://www.reddit.com/r/artificial/comments/1t3wueu/the_case_for_ai_increasing_your_salary/)**
+
+Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
+
 2h ago
+
+---
+
+**[What's the best AI voice generator?](https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/)**
+
+I'm looking for a voice generator which let's me.make a voice over for videos. It doesn't need to be overly complicated, just something that takes text and converts it to voice. Free would be great but I'm willing to pay. There's like 50 different things im seeing, what's the best out there?
+
+9h ago
+
+---
+
+**[ROCm 7.2.3 brings minor updates, ROCm XIO documentation](https://www.reddit.com/r/artificial/comments/1t3tsj8/rocm_723_brings_minor_updates_rocm_xio/)**
+
+Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available with some minor improvements to this open-source AMD GPU compute and AI stack.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-ROCm-7.2.3) • 4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Something worth discussing in the context of where AI is heading. I built a voic
 
 **[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-The New York Times • 4h ago
+The New York Times • 2h ago
 
 ---
 
@@ -131,7 +131,21 @@ The New York Times • 4h ago
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-OpenAI • 4h ago
+OpenAI • 6h ago
+
+---
+
+**[AI’s Hottest Private Companies Have Booming Crypto Shadow Market](https://www.bloomberg.com/news/articles/2026-05-05/ai-s-hottest-private-companies-have-booming-crypto-shadow-market)**
+
+Bloomberg.com • 42m ago
+
+---
+
+**[Putting educators at the center of AI learning](https://blog.google/company-news/inside-google/around-the-globe/google-asia/putting-educators-at-the-center-of-ai-learning/)**
+
+We are adding $10 million to the AI Opportunity Fund to help students, educators and workers learn essential AI skills.
+
+blog.google • 5m ago
 
 ---
 
@@ -139,29 +153,7 @@ OpenAI • 4h ago
 
 CEO Andy Jassy said Amazon’s massive AI spending reflects a once-in-a-generation opportunity and will ultimately reward investors.
 
-CNBC • 38m ago
-
----
-
-**[Auburn City Council to vote on whether to cut funding for AI-powered surveillance cameras](https://wgme.com/news/local/gallery/auburn-city-council-to-vote-on-whether-to-cut-funding-for-ai-powered-surveillance-cameras-maine-law-enforcement-license-plate-readers)**
-
-WGME CBS 13 provides news, sports, weather and local event coverage in the Portland, Maine area including Lewiston, Augusta, Brunswick, Westbrook, Biddeford, Saco, Sanford, South Portland, Kennebunk, Bangor, Freeport, Buxton, Windham, Auburn, Waterville, Scarborough, Gorham, Yarmouth, Standish, Falmouth, Poland, Rockland, Bath.
-
-WGME • 35m ago
-
----
-
-**[Alvarez & Marsal Wants to Make $3.5 Billion From AI Work by 2028](https://www.bloomberg.com/news/articles/2026-05-04/alvarez-marsal-wants-to-make-3-5-billion-from-ai-work-by-2028)**
-
-Bloomberg.com • 26m ago
-
----
-
-**[Trump’s former AI czar says the quiet part out loud on the economy: ‘Stopping progress in AI would be equivalent to halting the US economy’](https://fortune.com/2026/05/04/trump-ai-czar-david-sacks-american-gdp-economy/)**
-
-Trump's promises on a jobs revival has yet to materialize, but AI investment is soaring.
-
-Fortune • 3h ago
+CNBC • 2h ago
 
 ---
 
@@ -169,29 +161,35 @@ Fortune • 3h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 9h ago
+Anthropic • 10h ago
+
+---
+
+**[Import AI 455: AI systems are about to start building themselves.](https://importai.substack.com/p/import-ai-455-automating-ai-research)**
+
+Import AI | Jack Clark | Substack • 12h ago
 
 ---
 
 **[Democratic leaders want an affordability debate on AI. Critics say they’re ducking the real fight.](https://www.politico.com/news/2026/05/04/democratic-leaders-want-an-affordability-debate-on-ai-critics-say-theyre-ducking-the-real-fight-00902977)**
 
-Politico • 14h ago
+Politico • 16h ago
 
 ---
 
-**[AI finds signs of pancreatic cancer before tumors develop](https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099)**
+**[AI models are choking on junk data](https://fortune.com/2026/05/03/ai-models-are-choking-on-junk-data/)**
 
-An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to two years before patients were diagnosed. It's being evaluated in a clinical trial.
+The quest for more training data has created a glut of low-quality junk data that could derail the promise of physical AI.
 
-NBC News • 2d ago
+Fortune • 1d ago
 
 ---
 
-**[Hacked, robbed, then banned: Canton business owner’s meta AI nightmare](https://www.clickondetroit.com/news/investigations/2026/05/04/hacked-robbed-then-banned-michigan-mans-meta-ai-nightmare/)**
+**[Roomba pioneer aims to crack the household market again with an AI-powered pet robot](https://apnews.com/article/ai-pet-robot-familiar-machines-irobot-roomba-da873ddff1ebcc95f793852b8e53d2d2)**
 
-A Canton small-business owner says he was hacked twice, had $950 stolen from his account and was then permanently banned from Facebook — accused of one of the most horrific crimes imaginable. Meta, he says, has done nothing to fix it.
+The robotics pioneer who helped unleash the Roomba vacuum is now betting that you might one day replace your beloved dog or cat with a plush robot that follows you around your home and adapts to your daily habits.
 
-ClickOnDetroit | WDIV Local 4 • 3h ago
+AP News • 4h ago
 
 ---
 
@@ -203,7 +201,7 @@ ClickOnDetroit | WDIV Local 4 • 3h ago
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 565 • 💬 538 • 23h ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 571 • 💬 542 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
 
 ---
 
@@ -227,7 +225,7 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 188 • 💬 81 • 3h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 266 • 💬 96 • 5h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -235,7 +233,7 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 107 • 💬 95 • 7h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 109 • 💬 96 • 8h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -243,7 +241,7 @@ A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants
 
 Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs. - lahfir/agent-desktop
 
-⬆️ 97 • 💬 35 • 2d ago • [GitHub](https://github.com/lahfir/agent-desktop)
+⬆️ 98 • 💬 35 • 2d ago • [GitHub](https://github.com/lahfir/agent-desktop)
 
 ---
 
@@ -281,23 +279,13 @@ AI is quietly entering the bedroom — and taking notes. A look at connected ple
 
 ## YouTube Videos: "ai"
 
-**[AI Just Designed A Quantum Computer](https://www.youtube.com/watch?v=l_bzA_M6_qo)**
+**[If You&#39;re Worried About AI, You NEED To See This](https://www.youtube.com/watch?v=6rGhvV3rZa4)**
 
-FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/blueprint/ *The recursive loop just turned on — AI is ...
+AI CEOs are telling you your job is about to disappear. NYU Professor Scott Galloway says that narrative is "mostly bullshit" and ...
 
-📺 Julia McCoy
+📺 The Diary Of A CEO Clips
 
-👁️ 19K • 👍 914 • 💬 94 • ⏱️ 6:54 • 8h ago
-
----
-
-**[Big Tech&#39;s AI Plan Has Failed](https://www.youtube.com/watch?v=tR5adb2Ts6c)**
-
-GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYanshin Big Tech is spending over ...
-
-📺 Sasha Yanshin
-
-👁️ 20K • 👍 2K • 💬 329 • ⏱️ 16:06 • 7h ago
+👁️ 22K • 👍 991 • 💬 163 • ⏱️ 21:59 • 7h ago
 
 ---
 
@@ -307,7 +295,17 @@ AI CEOs are selling us the dream of 'freedom', making billions off the fear of m
 
 📺 The Diary Of A CEO
 
-👁️ 512K • 👍 15K • 💬 2K • ⏱️ 1:58:11 • 16h ago
+👁️ 616K • 👍 17K • 💬 3K • ⏱️ 1:58:11 • 18h ago
+
+---
+
+**[AI Just Designed A Quantum Computer](https://www.youtube.com/watch?v=l_bzA_M6_qo)**
+
+FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/blueprint/ *The recursive loop just turned on — AI is ...
+
+📺 Julia McCoy
+
+👁️ 26K • 👍 1K • 💬 96 • ⏱️ 6:54 • 10h ago
 
 ---
 
@@ -317,7 +315,17 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 67K • 👍 5K • 💬 1K • ⏱️ 28:29 • 12h ago
+👁️ 83K • 👍 6K • 💬 2K • ⏱️ 28:29 • 13h ago
+
+---
+
+**[7 Prompts You Need to Create Better AI Videos (ASAP)](https://www.youtube.com/watch?v=S2F-5iFS9WQ)**
+
+Create INSANE AI Videos with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa13 In this video, I walk through seven prompt ...
+
+📺 Isa does AI
+
+👁️ 9K • 💬 7 • ⏱️ 13:13 • 11h ago
 
 ---
 
@@ -327,57 +335,47 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 59K • 👍 2K • 💬 252 • ⏱️ 15:10 • 2d ago
+👁️ 61K • 👍 2K • 💬 256 • ⏱️ 15:10 • 2d ago
 
 ---
 
-**[Caine Goes to AI Hell](https://www.youtube.com/watch?v=WDFAly0OrMo)**
+**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=PiBnV9BUGSQ)**
 
-CREDITS: Caine/AM: https://x.com/Spamoramma https://www.youtube.com/@UC7d19tHHOQ3DYxfRKvrwO4A Monika: ...
+I bought every ai generated scam product I found on tiktok, temu, and aliexpress! ⚖️ Need A Lawyer   go to ...
 
-📺 Sourcy
+📺 Mike Off Record
 
-👁️ 157K • 👍 16K • 💬 1K • ⏱️ 3:05 • 1d ago
-
----
-
-**[If You&#39;re Worried About AI, You NEED To See This](https://www.youtube.com/watch?v=6rGhvV3rZa4)**
-
-AI CEOs are telling you your job is about to disappear. NYU Professor Scott Galloway says that narrative is "mostly bullshit" and ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 8K • 👍 438 • 💬 69 • ⏱️ 21:59 • 5h ago
+👁️ 400K • 👍 8K • 💬 547 • ⏱️ 12:11 • 2d ago
 
 ---
 
-**[20 Next Level AI Gadgets You Can Buy Right Now](https://www.youtube.com/watch?v=NlxZoeWhVvc)**
+**[AI is getting too realistic](https://www.youtube.com/watch?v=_kP2ax2tudk)**
 
-20 Next Level AI Gadgets You Can Buy Right Now 00:00 - Introduction 00:31 - 1. Insta360 Wave : https://amzn.to/4dkKIBQ 01:29 ...
+How can you spot AI photos now that the new GPT Image 2 AI image model is really strong? I'm looking at background details, ...
 
-📺 TechTrends
+📺 Jeremy Carrasco
 
-👁️ 1K • 👍 28 • 💬 5 • ⏱️ 18:39 • 10h ago
-
----
-
-**[谷歌瘋了？砸數億美金的AI竟然白送！Google Gemma 4 震撼發佈：這是一場針對 OpenAI 的血腥屠殺！📉🚫](https://www.youtube.com/watch?v=btIxjkIfJFE)**
-
-谷歌這次真的下狠手了！看似是大發慈悲「技術扶貧」，實則是價值百億美金的商業絞殺戰！   為什麼谷歌要將耗資數億的Gemma ...
-
-📺 商業本質
-
-👁️ 10K • 👍 343 • 💬 22 • ⏱️ 23:42 • 11h ago
+👁️ 1.1M • 👍 90K • 💬 1K • ⏱️ 1:01 • 2d ago
 
 ---
 
-**[Biohacker Bryan Johnson trusts AI will solve human aging](https://www.youtube.com/watch?v=_QIEscvBI6M)**
+**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
 
-Centimillionaire 'biohacker' Bryan Johnson, who made his fortune selling Venmo for $800 million, is now attempting to reverse the ...
+Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
 
-📺 CNN
+📺 Sabrina Ramonov 🍄
 
-👁️ 36K • 👍 629 • 💬 607 • ⏱️ 25:06 • 2d ago
+👁️ 81K • 👍 4K • 💬 222 • ⏱️ 26:56 • 2d ago
+
+---
+
+**[How to Make a Full AI Music Video for Suno AI Songs (in 12 Min)](https://www.youtube.com/watch?v=FChKficdq5o)**
+
+Make Your Own Music Video with OpenArt ...
+
+📺 Roboverse
+
+👁️ 10K • 💬 8 • ⏱️ 12:24 • 12h ago
 
 ---
 
@@ -393,19 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 534,942 • ❤️ 3,523 • 7d ago
-
----
-
-**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
-
-*Xiaomi MiMo*
-
-MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
-
-`text-generation` `1023.2B`
-
-⬇️ 11,812 • ❤️ 424 • 6d ago
+⬇️ 534,942 • ❤️ 3,528 • 7d ago
 
 ---
 
@@ -417,7 +403,19 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 132,595 • ❤️ 1,257 • 12d ago
+⬇️ 132,595 • ❤️ 1,260 • 12d ago
+
+---
+
+**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
+
+*Xiaomi MiMo*
+
+MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
+
+`text-generation` `1023.2B`
+
+⬇️ 11,812 • ❤️ 427 • 6d ago
 
 ---
 
@@ -429,7 +427,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 11,950 • ❤️ 254 • 9h ago
+⬇️ 11,950 • ❤️ 256 • 10h ago
 
 ---
 
@@ -439,7 +437,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 223 • 11d ago
+⬇️ 0 • ❤️ 224 • 11d ago
 
 ---
 
@@ -451,7 +449,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 40,403 • ❤️ 220 • 2d ago
+⬇️ 40,403 • ❤️ 223 • 2d ago
 
 ---
 
@@ -463,7 +461,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 10,357 • ❤️ 210 • 1d ago
+⬇️ 10,357 • ❤️ 212 • 1d ago
 
 ---
 
@@ -475,7 +473,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,334,241 • ❤️ 1,107 • 10d ago
+⬇️ 1,334,241 • ❤️ 1,108 • 10d ago
 
 ---
 
@@ -487,19 +485,19 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 20,187 • ❤️ 168 • 17h ago
+⬇️ 20,187 • ❤️ 174 • 18h ago
 
 ---
 
-**[MiMo-V2.5](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)**
+**[DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)**
 
-*Xiaomi MiMo*
+*DeepSeek*
 
-MiMo-V2.5 is a native omnimodal LLM supporting text, image, video, and audio with a 1M token context window. It excels in multimodal understanding, long-context reasoning, and agentic workflows, utilizing a hybrid attention architecture and efficient pre-training.
+DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporting a 1 million token context length. It utilizes a hybrid attention architecture (CSA/HCA) for efficient long-context processing, making it suitable for complex reasoning and analysis tasks requiring extensive context.
 
-`310.8B`
+`text-generation` `158.1B`
 
-⬇️ 51,554 • ❤️ 206 • 5d ago
+⬇️ 489,465 • ❤️ 940 • 7d ago
 
 ---
 
@@ -567,7 +565,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 5,700 • 20d ago
+▲ 19 • 💬 2 • ⭐ 5,731 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -580,21 +578,9 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 61,929 • 7mo ago
+▲ 160 • 💬 2 • ⭐ 61,976 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[Representation Fréchet Loss for Visual Generation](https://huggingface.co/papers/2604.28190)**
-
-*Jiawei Yang, Zhengyang Geng, Xuan Ju et al. (5 authors)*
-
-Fréchet Distance can be effectively optimized as a training objective when decoupling population size from batch size, leading to improved generator quality and alternative evaluation metrics.
-
-▲ 21 • 💬 1 • ⭐ 300 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.28190) • [💻 code](https://github.com/Jiawei-Yang/FD-Loss)
 
 ---
 
@@ -608,6 +594,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 54 • 💬 1 • ⭐ 79,012 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Representation Fréchet Loss for Visual Generation](https://huggingface.co/papers/2604.28190)**
+
+*Jiawei Yang, Zhengyang Geng, Xuan Ju et al. (5 authors)*
+
+Fréchet Distance can be effectively optimized as a training objective when decoupling population size from batch size, leading to improved generator quality and alternative evaluation metrics.
+
+▲ 21 • 💬 1 • ⭐ 316 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.28190) • [💻 code](https://github.com/Jiawei-Yang/FD-Loss)
 
 ---
 
@@ -639,16 +637,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ## GitHub Repositories: "ai"
 
-**[MemPalace/mempalace](https://github.com/MemPalace/mempalace)**
-
-The best-benchmarked open-source AI memory system. And it's free.
-
-`Python` `ai` `chromadb` `llm` `mcp` `memory`
-
-⭐ 51.1k • 🔱 6.7k • 1d ago
-
----
-
 **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)**
 
 A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -665,7 +653,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.1k • 🔱 661 • 1h ago
+⭐ 10.1k • 🔱 664 • 3h ago
 
 ---
 
@@ -685,7 +673,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.4k • 🔱 485 • 12h ago
+⭐ 5.4k • 🔱 486 • 14h ago
 
 ---
 
@@ -695,7 +683,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.3k • 🔱 408 • 5h ago
+⭐ 5.3k • 🔱 409 • 6m ago
 
 ---
 
@@ -705,7 +693,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 352 • 12h ago
+⭐ 5.0k • 🔱 354 • 14h ago
 
 ---
 
@@ -725,7 +713,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 426 • 9h ago
+⭐ 3.5k • 🔱 427 • 16m ago
 
 ---
 
@@ -734,6 +722,16 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
 ⭐ 3.5k • 🔱 367 • 13d ago
+
+---
+
+**[OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)**
+
+MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
+
+`Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
+
+⭐ 2.7k • 🔱 344 • 5d ago
 
 ---
 
