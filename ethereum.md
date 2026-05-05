@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-05T18:54:22.235961+00:00'
+updated: '2026-05-05T20:08:03.593668+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 18:54 UTC  
+**Last Updated:** May 05, 2026 at 20:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +5.3%  
-**30d:** +12.6%  
-**90d:** +30.0%  
-**1y:** +30.7%  
+**24h:** +0.6%  
+**7d:** +5.4%  
+**30d:** +12.8%  
+**90d:** +30.2%  
+**1y:** +30.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
 
-16h ago
+17h ago
 
 ---
 
@@ -158,7 +158,13 @@ ethereum.org • 3d ago
 
 Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+
+Barron's • 7h ago
 
 ---
 
@@ -206,7 +212,7 @@ The Motley Fool • 1d ago
 
 Ethereum ended April on a solid note, posting a 7.3% gain and marking its second consecutive green month. This steady recovery is now drawing attention to May, historically one of Ethereum’s strongest months. In 2024, ETH surged 25%, followed by an even sharper 41% rally in 2025.Resistance at $2,37…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -214,15 +220,7 @@ TradingView • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Ethereum solidifies institutional role, price likely above $1,800 by May 5](https://cryptobriefing.com/ethereum-solidifies-institutional-role-price-likely-above-1800-by-may-5/)**
-
-Ethereum's price is likely to remain above $1,800 by May 5. Market at 99.9% YES.
-
-Crypto Briefing • 3h ago
+Fortune • 7h ago
 
 ---
 
@@ -236,7 +234,7 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 596 • 💬 229 • ⏱️ 14:49 • 4h ago
+👁️ 6K • 👍 596 • 💬 229 • ⏱️ 14:49 • 5h ago
 
 ---
 
@@ -246,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 618 • 👍 72 • 💬 4 • ⏱️ 19:21 • 2h ago
+👁️ 618 • 👍 72 • 💬 4 • ⏱️ 19:21 • 3h ago
 
 ---
 
@@ -266,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 384 • 👍 21 • ⏱️ 4:32 • 9h ago
+👁️ 384 • 👍 21 • ⏱️ 4:32 • 10h ago
 
 ---
 
@@ -316,7 +314,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 150 • 💬 54 • ⏱️ 31:48 • 6h ago
+👁️ 2K • 👍 150 • 💬 54 • ⏱️ 31:48 • 8h ago
 
 ---
 
@@ -326,7 +324,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 92 • ⏱️ 7:13 • 16h ago
+👁️ 1K • 👍 92 • ⏱️ 7:13 • 17h ago
 
 ---
 

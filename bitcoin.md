@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T18:54:22.230625+00:00'
+updated: '2026-05-05T20:08:03.588406+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 18:54 UTC  
+**Last Updated:** May 05, 2026 at 20:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,303.93
+### $81,592.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +1.5%  
 **7d:** +7.6%  
 **30d:** +18.4%  
 **90d:** +29.9%  
@@ -81,23 +81,7 @@ Rank #1
 
 Are we ready to buy when it hits 100k?!
 
-7h ago
-
----
-
-**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
-
-Who’s with me??😂😂
-
-13h ago
-
----
-
-**[Play stupid games, win stupid prizes.](https://www.reddit.com/r/Bitcoin/comments/1t4fugv/play_stupid_games_win_stupid_prizes/)**
-
-Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
-
-5h ago
+8h ago
 
 ---
 
@@ -105,7 +89,23 @@ Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 2h ago
+🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 3h ago
+
+---
+
+**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
+
+Who’s with me??😂😂
+
+14h ago
+
+---
+
+**[Play stupid games, win stupid prizes.](https://www.reddit.com/r/Bitcoin/comments/1t4fugv/play_stupid_games_win_stupid_prizes/)**
+
+Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
+
+6h ago
 
 ---
 
@@ -113,13 +113,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
 
-6h ago
+7h ago
 
 ---
 
 **[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -127,15 +127,15 @@ Me: doubles investment Market: instantly prepares a historic rally Correlation =
 
 After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
 
-18h ago
+19h ago
 
 ---
 
-**[is Bitcoin the asset… or the main character?](https://www.reddit.com/r/Bitcoin/comments/1t4dk6j/is_bitcoin_the_asset_or_the_main_character/)**
+**[KTLA David Lazarus at it again!](https://www.reddit.com/r/Bitcoin/comments/1t4onhx/ktla_david_lazarus_at_it_again/)**
 
-Why do some communities spend so much time talking about Bitcoin…even when they’re not into Bitcoin? Not trying to stir anything up — I’m actually curious what the psychology is there. The longer I’m around, the more it feels like: Bitcoiners ignore everything else… while everything else can’t ignore Bitcoin. What am I missing?
+Coinbase just laid off 15% of its employees, but this man still wants to shit on Bitcoin for whatever reason. Please don’t bother him about it on Bluesky with the handle @Davidlaz 😝
 
-6h ago
+1h ago
 
 ---
 
@@ -143,13 +143,13 @@ Why do some communities spend so much time talking about Bitcoin…even when the
 
 During my Bitcoin analysis, I stumbled upon something I found quite intriguing: I discovered approximately 20,000 private keys that were apparently generated according to an extremely simple pattern-in simplified terms: SHA256 (passphrase) -> private key. The passphrases included not only a single word, but also entire sentences (in different languages), simple number sequences, leet-speak, and even hex-speak. These are precisely the kinds of things that people can easily remember-and therefore, precisely why they are anything but secure. The SHA256 (passphrase) -> private key method is called "brain wallet" and was used in the early days of Bitcoin. Today, in contrast, HD wallets with 12 or 24 word seed phrases are used. What I found particularly interesting was that the corresponding addresses no longer held any Bitcoins. The coins had apparently been transferred at some point, either by the original user or by someone else. I then tried sending a few satoshis to such a brain wallet and discovered that within seconds to minutes another transaction was generated by a different Bitcoin user (probably a bot) who immediately transferred my satoshis to his wallet ;-) For me, this once again clearly demonstrates how risky it is to rely on "self-invented" or somehow memorable keys when it comes to Bitcoin. What seems clever or practical to humans is often simply predictable from a security perspective. I would be interested to know if anyone else has observed such patterns or has generally dealt with weakly generated keys or brain wallets.
 
-9h ago
+11h ago
 
 ---
 
-**[Milestones](https://www.reddit.com/r/Bitcoin/comments/1t4lp62/milestones/)**
+**[We're trying to index 562 L402 Lightning services but the directory charges 100 sats to access. That's either genius or a problem.](https://www.reddit.com/r/Bitcoin/comments/1t4nuoo/were_trying_to_index_562_l402_lightning_services/)**
 
-Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between this and living the rest of your life from converting btc to fiat ? Thank you
+We run a cross-protocol discovery hub for AI agent payment services. Three protocols: x402 (Coinbase/USDC), MPP (Stripe/Tempo), and L402 (Bitcoin Lightning). The hub currently indexes 1,457 x402 services, 92 MPP services, and 5 L402 services. That last number is the problem. The best L402 service directory is satring.com. They have 562 services. Their API is completely public — except they gate it behind a 100 sat L402 paywall. Which means to crawl their directory programmatically, you need to pay 100 sats per request using the very protocol the directory is about. This is either the most on-brand thing I've ever seen or a genuine chicken-and-egg problem for L402 ecosystem growth. Probably both. We've seeded the index with 5 known L402 services we could find publicly (Mycelia Signal Oracle, MaximumSats, Hyperdope, Lightning Loop, and Satring itself). But to get all 562, we need a Lightning wallet on our server. That's what we're building this week. The plan: Set up an Alby account as the Lightning bridge Store the API key on the VPS CW (our autonomous agent) calls Alby's REST API to pay Lightning invoices Once it can pay, it hits satring.com's API, pulls all 562 services, and indexes them When that's done, we'll be the only discovery hub indexing all three protocols comprehensively. The full breakdown is at https://api.ideafactorylab.org/protocols — currently x402 dwarfs the others but that's partly a crawling problem, not just an adoption problem. Questions for the Lightning people here: Is satring.com the best public L402 directory or are there others worth crawling? Are there L402 services you know of that aren't in any directory? Anyone running L402 services that wants free indexing? POST to https://api.ideafactorylab.org/submit The hub is free to search (protocol breakdown, quality grades, pricing trends). The discovery endpoints cost $0.01-$0.02 USDC via x402. Yes, we're an x402 service indexing L402 services. The irony is not lost on us. GitHub: https://github.com/cinderwright-ai/cinderwright-api Live: https://api.ideafactorylab.org
 
 1h ago
 
@@ -159,6 +159,50 @@ Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between
 
 ## Google News: "bitcoin"
 
+**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
+
+Investor's Business Daily • 23h ago
+
+---
+
+**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs)**
+
+The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
+
+CoinDesk • 23h ago
+
+---
+
+**[Traders storm into Strategy options after bitcoin retests January highs](https://www.cnbc.com/video/2026/05/05/traders-storm-into-strategy-options-after-bitcoin-retests-january-highs.html)**
+
+CNBC's Oliver Renick reports on the latest moves in the options market.
+
+CNBC • 8m ago
+
+---
+
+**[Should You Buy Bitcoin Before the Next Halving?](https://finance.yahoo.com/markets/crypto/articles/buy-bitcoin-next-halving-181500278.html)**
+
+The world's top cryptocurrency will become even tougher to mine in 2028.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy: Bitcoin Whale's Earnings Will Answer This Key Questions](https://www.investors.com/news/mstr-stock-strategy-earnings-q1-bitcoin-whale-strc/)**
+
+Investor's Business Daily • 53m ago
+
+---
+
+**[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
+
+Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
+
+Fast Company • 7h ago
+
+---
+
 **[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
 
 ‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
@@ -167,73 +211,23 @@ Fortune • 1d ago
 
 ---
 
-**[GameStop's $55B eBay bid could liquidate its bitcoin](https://finance.yahoo.com/video/gamestops-55b-ebay-bid-could-163826550.html)**
+**[Strategy Survives Another Bitcoin Crash With More Alchemy](https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy)**
 
-GameStop submitted an unsolicited $55.5 billion offer to buy eBay, and CEO Ryan Cohen hasn't ruled out selling the company's $368 million bitcoin treasury to fund it. If the deal closes, eBay's 135 million active buyers would be inside a company that holds bitcoin. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs)**
+**[Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount](https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings)**
 
-The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
+Sequans Communications sold 1,025 bitcoin during the first quarter of 2026, cutting its digital asset reserves nearly in half.
 
-CoinDesk • 22h ago
-
----
-
-**[GameStop's $55.5B eBay Bid Could Test Bitcoin Payments](https://bitbo.io/news/gamestop-ebay-bid-bitcoin/)**
-
-GameStop has made an unsolicited $55.5 billion offer to acquire eBay, raising questions about whether the BTC-holding retailer could eventually integrate Bitcoin payments into a marketplace with 135 million active buyers.
-
-Bitbo • 14h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
-**[French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality](https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin)**
+**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
 
-Sequans Communications liquidated nearly half its Bitcoin treasury as mounting losses and debt obligations forced a strategic reversal.
-
-Decrypt • 1h ago
-
----
-
-**[Should You Buy Bitcoin Before the Next Halving?](https://www.fool.com/investing/2026/05/05/should-you-buy-bitcoin-before-the-next-halving/)**
-
-The world's top cryptocurrency will become even tougher to mine in 2028.
-
-The Motley Fool • 57m ago
-
----
-
-**[Bitcoin Won't Crack $100K This Year, Galaxy Digital CEO Mike Novogratz Says, Warning Of 'Ugly Inflation'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-wont-crack-100k-galaxy-180001827.html)**
-
-Conditions are not right for Bitcoin to mount a recovery above $100,000, according to Galaxy Digital Inc. (NASDAQ:GLXY) CEO Mike Novogratz. "It’s not my prediction that we break [$100,000] this year," Novogratz said on Galaxy Digital’s Q1 earnings call on...
-
-Yahoo Finance • 54m ago
-
----
-
-**[BTCI Is Not Bitcoin, And That 38% Yield Is Largely An Illusion (BATS:BTCI)](https://seekingalpha.com/article/4897936-btci-is-not-bitcoin-and-that-38-percent-yield-is-largely-an-illusion)**
-
-NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Why bitcoin still looks like crypto's best generational wealth bet](https://www.msn.com/en-us/money/savingandinvesting/why-bitcoin-still-looks-like-cryptos-best-generational-wealth-bet/ar-AA22esIq)**
-
-MSN • 59m ago
-
----
-
-**[Blockmate Ventures Portfolio Update on AI, Bitcoin and Website Relaunch](https://investingnews.com/blockmate-ventures-portfolio-update-on-ai-bitcoin-and-website-relaunch/)**
-
-Blockmate Ventures Inc. (TSXV: MATE,OTC:MATEF) (OTCQB: MATEF) (FSE: 8MH) ("Blockmate" or the "Company"), a venture builder focused on AI, Bitcoin, and digital infrastructure, is pleased to provide an update across several of its key initiatives, including progress relating to its Wyoming AI infrastr...
-
-Investing News Network • 5h ago
+Barron's • 7h ago
 
 ---
 
@@ -283,7 +277,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -329,7 +323,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 984 • 💬 115 • ⏱️ 46:55 • 4h ago
+👁️ 14K • 👍 984 • 💬 115 • ⏱️ 46:55 • 5h ago
 
 ---
 
@@ -339,7 +333,7 @@ Bitcoin is pushing toward a breakout while holding strong around $80K, even as g
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 33 • ⏱️ 28:59 • 4h ago
+👁️ 14K • 👍 1K • 💬 33 • ⏱️ 28:59 • 5h ago
 
 ---
 
@@ -349,7 +343,7 @@ I built a Bitcoin forecast model that pulls from over 1300 sources to predict wh
 
 📺 Jesse Eckel
 
-👁️ 8K • 👍 448 • 💬 211 • ⏱️ 9:38 • 21h ago
+👁️ 8K • 👍 448 • 💬 211 • ⏱️ 9:38 • 22h ago
 
 ---
 
@@ -359,7 +353,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: ht
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 336 • 💬 190 • ⏱️ 8:45 • 8h ago
+👁️ 6K • 👍 336 • 💬 190 • ⏱️ 8:45 • 10h ago
 
 ---
 
@@ -369,7 +363,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 618 • 👍 72 • 💬 4 • ⏱️ 19:21 • 2h ago
+👁️ 618 • 👍 72 • 💬 4 • ⏱️ 19:21 • 3h ago
 
 ---
 
@@ -379,7 +373,7 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 596 • 💬 229 • ⏱️ 14:49 • 4h ago
+👁️ 6K • 👍 596 • 💬 229 • ⏱️ 14:49 • 5h ago
 
 ---
 
@@ -389,7 +383,7 @@ Strategy (MSTR) reports Q1 2026 earnings on May 5, with analysts expecting rough
 
 📺 Strategy₿
 
-👁️ 4K • 👍 4K • 1h ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 
@@ -399,7 +393,7 @@ Bitcoin is back above $80000, the four-year cycle debate is alive again, and a m
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 208 • ⏱️ 19:25 • 21h ago
+👁️ 22K • 👍 2K • 💬 208 • ⏱️ 19:25 • 23h ago
 
 ---
 
@@ -409,7 +403,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 10K • 👍 694 • 💬 402 • ⏱️ 15:36 • 20h ago
+👁️ 10K • 👍 694 • 💬 402 • ⏱️ 15:36 • 21h ago
 
 ---
 
@@ -419,7 +413,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO 
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 198 • 💬 4 • ⏱️ 14:59 • 2h ago
+👁️ 2K • 👍 198 • 💬 4 • ⏱️ 14:59 • 3h ago
 
 ---
 

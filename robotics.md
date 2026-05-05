@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-05T18:54:22.238818+00:00'
+updated: '2026-05-05T20:08:03.596551+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 05, 2026 at 18:54 UTC  
+**Last Updated:** May 05, 2026 at 20:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
 
 XR-4 Rehbar I wanted to showcase a personal project that I had been working on for around a year. As a graduate student in EE and embedded engineer working in Industrial IoT, I have wanted to pivot to robotics and autonomous mobility for a long time. With simulation and virtual environments not being possible for technical reasons and on account of being a very hands-on kind of learner and with the goal of going through a process of building something from scratch, I decided to build a test platform in the form of a rover which I can modify, upgrade and build upon. I also researched similar open-source, hobbyist and professional projects to draw inspiration. Several projects on Instructables and Reddit helped me in refining my ideas and the LeoRover platform from FictionLab was something which made me go: „this is it, this is what my rover should be like“. I want this platform to be easily reconfigurable and upgradeable. It is definitely not meant to be a hobby project, it is intended to stand somewhere between a hobby/DIY project and a high end platform like the LeoRover which is not for the average engineer looking to upskill in his home lab or develop and test out some stuff on his own, only being affordable if you’re a university lab or a government funded research institution. With that, I present the XR-4 Rehbar (lit. „Pioneer“ in Urdu) GitHub: rover-xr4 The GitHub repo and documentation is not up to date at this point, I will be updating them and this post in the near future. Electronics and Software CTU - Control and Telemetry Unit: sends telecommands to the OBC i.e. steering commands, lights and peripherals and receives telemetry (voltage and current, GPS data, IMU data, temperature and statuses) over the ESP-NOW protocol. Tested outdoors LoS range was 100-120m OBC - Onboard Controller: motor and steering control, power monitoring, safety related functionality. Sends telemetry to CTU and receives telecommands from CTU over ESP-NOW. Lower level controller which can interface with a SBC based mission computer on the future for autonomous operations The software for both CTU and OBC is written using a mix of Arduino and ESPIDF toolkits in VSCode and is available in the GitHub repo linked above. Mechanical and Structures Modified 4-wheel rocker suspension with differential drive/skid steering. Each wheel is driven by an independent 12V 100RPM Brushed DC motor without encoders (motors with encoders were just too expensive, sadly). The structure is 3D printed in its entirety except the rocker arms which are extruded Aluminium profiles. I am currently cleaning up and standardizing the naming convention of my CAD so that I can open source it. It will be up soon. A note on future work: I am working on upgrading the platform with autonomous navigation and driving and currently looking at architectural options for that I.e. options for hardware and sensors, communication and control architectures. Cost is obviously a concern and I want to limit it by using as much of the hardware I already have since I am funding this project myself. Lastly, I will welcome any and all questions, comments, opinions, criticism and ideas about anything - the design, electronics and the future work options (guidance, inspiration and ideas are badly needed :)) Thank you :)
 
-8h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ XR-4 Rehbar I wanted to showcase a personal project that I had been working on f
 
 Went to a robotics event last month. Lost count of how many booths said "AI-powered" on the banner lol Asked a few engineers what was actually running – classical controllers, pre-trained detection models, one guy who genuinely couldn't explain what the AI part was doing. The collateral damage is what bugs me most. When everything gets the same sticker, the projects that actually did something novel get lumped in with the ones that slapped "AI" on a PID loop. Buyers get burned, the whole category pays for it. Filter I've been using: take the AI component out. Does the thing stop working, or just get slightly worse? "Slightly worse" is a feature, not a foundation. Maybe I'm just getting cynical... do you still find the label useful when evaluating something, or do you just go straight to asking the engineers?
 
-5h ago
+6h ago
 
 ---
 
@@ -70,13 +70,13 @@ Went to a robotics event last month. Lost count of how many booths said "AI-powe
 
 **[Robot Wall E , parte 1](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Over time and as my robot has progressed, many user interfaces have been added for reading and visualizing data and controlling the robot; here they are.](https://www.reddit.com/r/robotics/comments/1t4ixy2/over_time_and_as_my_robot_has_progressed_many/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -84,7 +84,7 @@ Went to a robotics event last month. Lost count of how many booths said "AI-powe
 
 I built a wagon and want to power it with motors from an electric wheelchair, the chair I found uses (2) 12v 35ah batteries. My question, what are my options for a more compact/low profile battery? Do I have to stick with 12v? I’m unsure of the specs on the motors, would they be 12v or are they 24v? The wagon has a matching trailer that has the same red tub and tires, the electronics will be mounted to the trailer with control wires to the front handle and a finger throttle. I want to mount the batteries underneath the red tub so the tub is still open for cargo (aka my children). Ideally the battery would be fairly flat to maintain ground clearance.
 
-13m ago
+1h ago
 
 ---
 
@@ -92,7 +92,7 @@ I built a wagon and want to power it with motors from an electric wheelchair, th
 
 Finally got the 4WD movement logic sorted! Hours of troubleshooting the L298N and jumper wires paid off. Phase one of this obstacle-avoiding robot is complete. It moves forward, backward, and turns exactly as it should. The next step is mounting the ultrasonic sensor and the servo to give it some "eyes."
 
-14h ago
+16h ago
 
 ---
 
@@ -110,7 +110,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 **[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-WSJ • 17h ago
+WSJ • 19h ago
 
 ---
 
@@ -126,7 +126,7 @@ navalnews.com • 4d ago
 
 An underwater robotics expert is exploring nearly 100 targets in Seattle's Lake Union, calling the area a "shipwreck city" full of hidden maritime history.
 
-Fox News • 8h ago
+Fox News • 10h ago
 
 ---
 
@@ -134,15 +134,15 @@ Fox News • 8h ago
 
 Humanoid robots are being added to the automation of waste sorting.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
-**[Schaeffler sees humanoid robotics orders in three-digit million euros by 2030](https://finance.yahoo.com/sectors/technology/articles/schaeffler-sees-humanoid-robotics-orders-112441111.html)**
+**[MolmoAct 2: An open foundation for robots that work in the real world](https://allenai.org/blog/molmoact2)**
 
-Schaeffler expects its humanoid robotics business to build an order book in the hundreds of millions of euros by 2030, ‌the chief executive of the German machine and car parts maker said ‌on Tuesday.  CEO Klaus Rosenfeld, talking to Reuters after the company's first-quarter results, did not give a more ​specific estimate for the potential order book.  "We have been investing significantly in the humanoid robotics area and at the moment we are collaborating with around 45 humanoid robotics players globally," Rosenfeld said.
+MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
 
-Yahoo Finance • 7h ago
+Allen AI • 4h ago
 
 ---
 
@@ -154,11 +154,19 @@ Tufts Now • 1d ago
 
 ---
 
+**[Schaeffler sees humanoid robotics orders in three-digit million euros by 2030](https://finance.yahoo.com/sectors/technology/articles/schaeffler-sees-humanoid-robotics-orders-112441111.html)**
+
+Schaeffler expects its humanoid robotics business to build an order book in the hundreds of millions of euros by 2030, ‌the chief executive of the German machine and car parts maker said ‌on Tuesday.  CEO Klaus Rosenfeld, talking to Reuters after the company's first-quarter results, did not give a more ​specific estimate for the potential order book.  "We have been investing significantly in the humanoid robotics area and at the moment we are collaborating with around 45 humanoid robotics players globally," Rosenfeld said.
+
+Yahoo Finance • 8h ago
+
+---
+
 **[Ouster Brings Support for REV8 Digital Lidar to Robotics and Edge AI Ecosystem](https://www.businesswire.com/news/home/20260505024034/en/Ouster-Brings-Support-for-REV8-Digital-Lidar-to-Robotics-and-Edge-AI-Ecosystem)**
 
 Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced the integration of its new Rev8 ...
 
-Business Wire • 8h ago
+Business Wire • 10h ago
 
 ---
 
@@ -176,12 +184,6 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Tiny insect brain discovery offers a blueprint for faster and more efficient AI and robots](https://phys.org/news/2026-05-tiny-insect-brain-discovery-blueprint.html)**
-
-Phys.org • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,7 +194,7 @@ This humanoid robot just did something most machines cannot do. After being push
 
 📺 DPCcars
 
-👁️ 10K • 👍 84 • 💬 40 • ⏱️ 3:09 • 22h ago
+👁️ 10K • 👍 84 • 💬 40 • ⏱️ 3:09 • 23h ago
 
 ---
 
@@ -202,7 +204,7 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 88 • 💬 9 • ⏱️ 20:22 • 16h ago
+👁️ 2K • 👍 88 • 💬 9 • ⏱️ 20:22 • 17h ago
 
 ---
 
@@ -212,7 +214,7 @@ Watch the full video on my channel now. #shorts #robotics #engineering #technolo
 
 📺 Aaed Musa
 
-👁️ 429 • 👍 28 • ⏱️ 1:22 • 22m ago
+👁️ 429 • 👍 28 • ⏱️ 1:22 • 1h ago
 
 ---
 
@@ -242,7 +244,7 @@ Imugi is awesome. The imugi feels like it's as good as ever. We're loading 3 Imu
 
 📺 PREDATOR WR
 
-👁️ 4K • 👍 242 • 💬 44 • ⏱️ 15:23 • 6h ago
+👁️ 4K • 👍 242 • 💬 44 • ⏱️ 15:23 • 8h ago
 
 ---
 
