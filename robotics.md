@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-05T07:18:12.700733+00:00'
+updated: '2026-05-05T09:27:42.669072+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 05, 2026 at 07:18 UTC  
+**Last Updated:** May 05, 2026 at 09:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Hyundai Motor Group introduces MobED, a self-balancing robot designed for stable movement on rough surfaces](https://www.reddit.com/r/robotics/comments/1t3ndyi/hyundai_motor_group_introduces_mobed_a/)**
 
-14h ago
+16h ago
+
+---
+
+**[Robot Wall E , parte 1](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)**
+
+4h ago
 
 ---
 
@@ -42,25 +48,19 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
-22h ago
+1d ago
 
 ---
 
 **[I got LoRA training working on GR00T N1.7 (NVIDIA's official recipe stops at N1.5)](https://www.reddit.com/r/robotics/comments/1t3o70w/i_got_lora_training_working_on_gr00t_n17_nvidias/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Simulation of the two-stage Stewart platform in a new robotic solver](https://www.reddit.com/r/robotics/comments/1t43ta0/simulation_of_the_twostage_stewart_platform_in_a/)**
 
-3h ago
-
----
-
-**[Robot Wall E , parte 1](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)**
-
-2h ago
+6h ago
 
 ---
 
@@ -68,13 +68,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2051113484784472159
 
 Finally got the 4WD movement logic sorted! Hours of troubleshooting the L298N and jumper wires paid off. Phase one of this obstacle-avoiding robot is complete. It moves forward, backward, and turns exactly as it should. The next step is mounting the ultrasonic sensor and the servo to give it some "eyes."
 
-3h ago
-
----
-
-**[Looking for good robotics companies in India to start a career (need honest insights)](https://www.reddit.com/r/robotics/comments/1t46kxu/looking_for_good_robotics_companies_in_india_to/)**
-
-1h ago
+5h ago
 
 ---
 
@@ -82,13 +76,19 @@ Finally got the 4WD movement logic sorted! Hours of troubleshooting the L298N an
 
 Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Full code is on GitHub: https://github.com/zahirmahammad/IsaacLab_PPO.git I kept it simple - just a single script that can run any environment, without unnecessary complexity. I’m exploring more in reinforcement learning and want to build interesting projects while keeping codebase minimal but robust. Open to ideas and feedback - feel free to share!
 
-22h ago
+1d ago
 
 ---
 
 **[My Robot Was Working… Now It Won’t Connect no worry got it in hand](https://www.reddit.com/r/robotics/comments/1t42ae7/my_robot_was_working_now_it_wont_connect_no_worry/)**
 
-5h ago
+7h ago
+
+---
+
+**[Looking for good robotics companies in India to start a career (need honest insights)](https://www.reddit.com/r/robotics/comments/1t46kxu/looking_for_good_robotics_companies_in_india_to/)**
+
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Check out my implementation of PPO in PyTorch using IsaacLab RL environments. Fu
 
 Hi everyone, I’m building Geodesic, an operating system for physical AI. Physical AI development today is fragmented across heavy simulators, models, robotics frameworks, cloud compute, and messy setup workflows. We’re starting with two products: Run on Geodesic: run heavy physical AI codebases, simulators, training jobs, and inference from any laptop using cloud compute. Geodesic OS: a modular environment to work across tools like Isaac, ROS, Gazebo, MuJoCo, models, datasets, and agentic workflows. We’re early and would really appreciate feedback from people working in robotics, embodied AI, simulation, controls, or RL. Website / waitlist: https://www.geodesicos.com/ I’m attaching a short video as well. Would love your thoughts, and please join the waitlist if this seems useful.
 
-3h ago
+6h ago
 
 ---
 
@@ -106,31 +106,7 @@ Hi everyone, I’m building Geodesic, an operating system for physical AI. Physi
 
 **[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-WSJ • 6h ago
-
----
-
-**[SAIL tech lets robots perform human-scale tasks far more quickly](https://newatlas.com/robotics/sail-robots-human-scale-tasks/)**
-
-Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
-
-New Atlas • 20h ago
-
----
-
-**[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
-
-Humanoid robots are being added to the automation of waste sorting.
-
-BBC • 7h ago
-
----
-
-**[iRobot Founder Wants to Put a Robotic Familiar Into Your Home](https://spectrum.ieee.org/familiar-machines-and-magic)**
-
-Familiar Machines & Magic want their robot to help you live your best life
-
-IEEE Spectrum • 2d ago
+WSJ • 8h ago
 
 ---
 
@@ -142,11 +118,35 @@ navalnews.com • 1d ago
 
 ---
 
-**[NVIDIA Broadens AI Reach Into Quantum Nuclear Power And Healthcare Robotics](https://finance.yahoo.com/sectors/technology/articles/nvidia-broadens-ai-reach-quantum-161150820.html)**
+**[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
 
-NVIDIA (NasdaqGS:NVDA) has released open-source Ising AI models that link its GPU platforms with quantum-inspired computing. The company is working with nuclear energy partners, including Oklo and Los Alamos, on AI infrastructure for reactor design and operations. NVIDIA is expanding in healthcare robotics through partners such as Proximie. The company is backing AI-first cloud providers like Nebius and extending its AI infrastructure with partners including Vultr, Netris and...
+Humanoid robots are being added to the automation of waste sorting.
 
-Yahoo Finance • 15h ago
+BBC • 9h ago
+
+---
+
+**[Madera Unified robotics team repeats as world champions for 4th title](https://abc30.com/post/madera-unified-robotics-team-repeats-world-champions-4th-title/19036013/)**
+
+The team made of students from Madera High, Madera South High and Matilda Torres High battled it out against 600 teams from around the world.
+
+ABC30 Fresno • 19h ago
+
+---
+
+**[iRobot Founder Wants to Put a Robotic Familiar Into Your Home](https://spectrum.ieee.org/familiar-machines-and-magic)**
+
+Familiar Machines & Magic want their robot to help you live your best life
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[SAIL tech lets robots perform human-scale tasks far more quickly](https://newatlas.com/robotics/sail-robots-human-scale-tasks/)**
+
+Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
+
+New Atlas • 9h ago
 
 ---
 
@@ -154,27 +154,27 @@ Yahoo Finance • 15h ago
 
 A Southwest Airlines flight from Oakland, Calif., to San Diego was delayed for more than an hour due to an unusual passenger -- a robot.
 
-upi.com • 14h ago
+upi.com • 17h ago
 
 ---
 
-**[Roomba pioneer aims to crack the household market again with an AI-powered pet robot - ABC News](https://abcnews.com/Technology/wireStory/roomba-pioneer-aims-crack-household-market-ai-powered-132642895)**
+**[NVIDIA Broadens AI Reach Into Quantum Nuclear Power And Healthcare Robotics](https://finance.yahoo.com/sectors/technology/articles/nvidia-broadens-ai-reach-quantum-161150820.html)**
 
-The robotics pioneer who helped unleash the Roomba vacuum is now betting that you might one day replace your beloved dog or cat with a plush robot that follows you around your home and adapts to your daily habits
+NVIDIA (NasdaqGS:NVDA) has released open-source Ising AI models that link its GPU platforms with quantum-inspired computing. The company is working with nuclear energy partners, including Oklo and Los Alamos, on AI infrastructure for reactor design and operations. NVIDIA is expanding in healthcare robotics through partners such as Proximie. The company is backing AI-first cloud providers like Nebius and extending its AI infrastructure with partners including Vultr, Netris and...
 
-ABC News - Breaking News, Latest News and Videos • 5h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914)**
 
-Gizmodo • 22h ago
+Gizmodo • 1d ago
 
 ---
 
 **[Meta Buys Robotics Startup ARI in Push Toward ‘Physical AGI’](https://www.eweek.com/news/meta-acquires-ari-humanoid-robotics-ai/)**
 
-eWeek • 18h ago
+eWeek • 20h ago
 
 ---
 
@@ -182,23 +182,23 @@ eWeek • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robot Gets Pushed and Instantly Recovers Like a Human](https://www.youtube.com/watch?v=9XmCqkHRT0I)**
-
-This humanoid robot just did something most machines cannot do. After being pushed, it instantly recovers and keeps moving like ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 31 • 💬 8 • ⏱️ 3:09 • 10h ago
-
----
-
 **[AI ROBOTS Ready to TAKE OVER — Figure 03 + 1X NEO Just Shocked the World](https://www.youtube.com/watch?v=FspQyTAvJTU)**
 
 The humanoid robot revolution just kicked into HYPER-SPEED — and you're not ready for what's coming! Figure AI and 1X just ...
 
 📺 The AI Nexus
 
-👁️ 494 • 👍 37 • 💬 1 • ⏱️ 20:22 • 4h ago
+👁️ 859 • 👍 47 • 💬 3 • ⏱️ 20:22 • 6h ago
+
+---
+
+**[Humanoid Robot Gets Pushed and Instantly Recovers Like a Human](https://www.youtube.com/watch?v=9XmCqkHRT0I)**
+
+This humanoid robot just did something most machines cannot do. After being pushed, it instantly recovers and keeps moving like ...
+
+📺 DPCcars
+
+👁️ 4K • 👍 37 • 💬 9 • ⏱️ 3:09 • 13h ago
 
 ---
 
@@ -208,17 +208,7 @@ Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com
 
 📺 Aaed Musa
 
-👁️ 101K • 👍 11K • 💬 650 • ⏱️ 22:12 • 3d ago
-
----
-
-**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
-
-That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
-
-📺 TechFrontierNow
-
-👁️ 87K • 👍 2K • 💬 191 • ⏱️ 11:20 • 5d ago
+👁️ 102K • 👍 11K • 💬 655 • ⏱️ 22:12 • 3d ago
 
 ---
 
@@ -228,7 +218,27 @@ War Robots - Baby Account Battles With Indra Void-Chasm Setup + Black Market Ope
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 250 • 💬 57 • ⏱️ 24:59 • 18h ago
+👁️ 4K • 👍 259 • 💬 59 • ⏱️ 24:59 • 20h ago
+
+---
+
+**[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
+
+Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
+
+📺 Bloomberg Originals
+
+👁️ 263K • 👍 4K • 💬 276 • ⏱️ 24:02 • 6d ago
+
+---
+
+**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+
+ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+
+📺 VEX Robotics
+
+👁️ 240K • 👍 936 • 💬 236 • ⏱️ 3:51 • 4d ago
 
 ---
 
@@ -242,43 +252,33 @@ ABC News' Sophie Flay takes a closer look at the future of humanoid robots, wher
 
 ---
 
-**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
-
-ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
-
-📺 VEX Robotics
-
-👁️ 239K • 👍 933 • 💬 236 • ⏱️ 3:51 • 4d ago
-
----
-
-**[Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer](https://www.youtube.com/watch?v=UQZooauU-FQ)**
-
-Humanoid robots that use AI are moving from viral videos to real-world work. From artificial intelligence training and data gaps to ...
-
-📺 Bloomberg Originals
-
-👁️ 262K • 👍 4K • 💬 276 • ⏱️ 24:02 • 5d ago
-
----
-
 **[Robots are building clay homes in Central Texas using dirt from the ground](https://www.youtube.com/watch?v=bsNTv8t239Y)**
 
 A startup south of Austin is using robots to build homes out of clay pulled directly from the ground — a new approach aimed at ...
 
 📺 KXAN
 
-👁️ 152K • 👍 3K • 💬 810 • ⏱️ 2:21 • 3d ago
+👁️ 154K • 👍 3K • 💬 818 • ⏱️ 2:21 • 3d ago
 
 ---
 
-**[🔥🤖 Unitree G1 Just Got a Serious Rival—Meet TienKung Omni! #robot #humanoidrobot #robotics #ai](https://www.youtube.com/watch?v=kA_PZVSouVE)**
+**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
 
-TienKung family gets a new member: TienKung Omni is coming — small body, seriously smart. From the teaser, Omni looks built ...
+That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
 
-📺 XRoboHub
+📺 TechFrontierNow
 
-👁️ 51K • 👍 1K • 💬 96 • ⏱️ 0:28 • 3d ago
+👁️ 87K • 👍 2K • 💬 192 • ⏱️ 11:20 • 5d ago
+
+---
+
+**[Secret Crocodile Robot Enters the Showdown Game Episode 1](https://www.youtube.com/watch?v=YfR4k022-R8)**
+
+Scene using artificial intelligence. #aiart #movie.
+
+📺 Miracle Animal Rescues
+
+👁️ 501K • 👍 3K • 💬 113 • ⏱️ 8:09 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-05T07:18:12.685213+00:00'
+updated: '2026-05-05T09:27:42.651486+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 05, 2026 at 07:18 UTC  
+**Last Updated:** May 05, 2026 at 09:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is launching a new venture focused on selling AI tools to enterprise companies. This effort is being launched in partnership with Goldman Sachs, the Wall Street bank said Monday (May 4), in conjunction with investment firm Blackstone, and private equity group Hellman & Friedman, and will help companies embed Anthropic’s Claude artificial intelligence (AI) model into their businessses. “Enterprise demand for Claude is significantly outpacing any single delivery model,” Krishna Rao, Anthropic’s finance chief, said in a news release provided to PYMNTS. “Our partnerships with the world’s leading systems integrators are central to how Claude reaches large enterprises. This new firm brings additional operating capability to the ecosystem and capital from leading alternative asset managers.” Marc Nachmann, global head of asset and wealth management at Goldman Sachs, said the partnership will allow mid-market companies to employ Anthropic’s tech to bolster their businesses. “By democratizing access to forward-deployed engineers, the new company can help the expansive network of portfolio companies in our Asset Management business and other companies of similar sizes accelerate AI adoption to grow and scale their operations,” he added.
 
-4h ago
+6h ago
 
 ---
 
@@ -57,7 +57,15 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 10h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 12h ago
+
+---
+
+**[Uber Shares What Happens When 1.500 AI Agents Hit Production](https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/)**
+
+Learn how Uber manages over 1.500 AI agents in production, tackling challenges in MCP infrastructure, security, and tool discovery at scale.
+
+🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 1h ago
 
 ---
 
@@ -65,7 +73,7 @@ Experts say the ruling demonstrates how the Chinese government is attempting to 
 
 Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
 
-8h ago
+11h ago
 
 ---
 
@@ -73,7 +81,7 @@ Here me out because I know there's a lot of doom and gloom, and believe me, I un
 
 been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
 
-20h ago
+22h ago
 
 ---
 
@@ -81,7 +89,7 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
 
-10h ago
+12h ago
 
 ---
 
@@ -89,7 +97,7 @@ I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic"
 
 A week ago, I wrote about how Generative and Agentic AI may be amplifying what I’ve been calling cognitive debt: the accumulated gap between a system’s evolving structure and a team’s shared unders...
 
-🔗 [Margaret-Anne Storey](http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) • 2h ago
+🔗 [Margaret-Anne Storey](http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) • 4h ago
 
 ---
 
@@ -97,7 +105,7 @@ A week ago, I wrote about how Generative and Agentic AI may be amplifying what I
 
 If the Claude app actually had the same level of control you get with the CLI, I kind of wonder how many people would still stick with the CLI day to day. Like, would it still feel worth it for the extra setup and terminal workflow, or would most people just default to the app because it’s simpler and already right there? I feel like the CLI’s biggest advantage is really the flexibility and how well it plugs into automation and dev workflows, but if that all lived inside the app in a clean way, it kind of blurs the line a lot. At that point I’m genuinely not sure if the CLI would still feel like a “must-have” tool for most people, or if it would just become something a smaller group of power users keep using out of habit or preference. I’m curious how others see it, would you actually still reach for the CLI, or would you just stay in the app?
 
-17h ago
+19h ago
 
 ---
 
@@ -105,15 +113,7 @@ If the Claude app actually had the same level of control you get with the CLI, I
 
 Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: the on-device constraint made the product better. Tighter context forced cleaner prompting. The brief that comes out is more focused than early versions built with more headroom. Sometimes the limitation shapes the design in ways you wouldn’t choose intentionally. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
 
-10h ago
-
----
-
-**[I gave my local LLM a "suffering" meter, and now it won’t stop self-modifying to fix its own stress.](https://www.reddit.com/r/artificial/comments/1t31ghg/i_gave_my_local_llm_a_suffering_meter_and_now_it/)**
-
-Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I want to talk about why it does it. Most agents sit idle until you prompt them. I wanted something that felt "alive," so I built a Psychological Stressor Layer. Each agent has a "suffering" state that worsens over time if they don't achieve their goals or improve their environment. This makes them do things to resolve those stressors and constantly reassess their own productivity. If an agent is inactive it is essentially pushed by it’s artificial environment to do something valuable for the system, it isn’t told what to do, but that something valuable must be done to lower it’s stressors. Repo: https://github.com/ninjahawk/hollow-agentOS The result is chaotic in the best way: Cedar (the coder agent) went into a "crisis" state for 12 hours and decided to bypass permissions and inject code directly into the engine to resolve its stressor. Cipher spent hours building hardware drivers for a device that doesn't exist, realized it was "hallucinating" its environment, called its own work "creative exhaustion," and pivoted without being told to do so. It runs on Qwen 3.5 9B locally via Ollama. No cloud calls but it does have a feature where it can use “invoke_claude” to ask Claude Code for something if it’s out of the small model’s wheelhouse. I’m trying to see if we can create true autonomy not through better prompting, but through simulated "needs." Check out the repo here and throw it a star if you think the concept is cool. Would love for some of you to run the install.bat and see what "personalities" your agents develop. Is "giving AI feelings" the key to autonomy, or am I just building a digital anxiety machine?
-
-1d ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I w
 
 **[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
@@ -131,15 +131,15 @@ The New York Times • 12h ago
 
 Barack Obama explained his reaction to the AI video posted to Donald Trump‘s Truth Social account in February that depicted the Obamas as apes.
 
-Variety • 12h ago
+Variety • 15h ago
 
 ---
 
-**[‘Weird even for him’: Nicolle on Trump’s bizarre string of posts, AI photo of himself with abs](https://www.ms.now/deadline-white-house/watch/weird-even-for-him-nicolle-on-trump-s-bizarre-string-of-posts-ai-photo-of-himself-with-abs-2498847811642)**
+**[Donald Trump Trolled for Posting AI Photo of Himself Holding Uno Cards](https://www.yahoo.com/news/articles/donald-trump-trolled-posting-ai-072250683.html)**
 
-Questions about Donald Trump's mental fitness are growing louder after the president went on another late night posting spree, which included an AI photo of himself shirtless at the Lincoln Memorial. Nicolle Wallace is joined by Adam Kinzinger for analysis and reaction on Deadline White House.
+Donald Trump got roasted this week, and this time the culprit wasn’t a political rival but a classic card game. The president shared an AI-generated photo of himself clutching a hand of Uno cards. The...
 
-MS NOW • 4h ago
+Yahoo • 2h ago
 
 ---
 
@@ -147,29 +147,27 @@ MS NOW • 4h ago
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-OpenAI • 12h ago
+OpenAI • 14h ago
 
 ---
 
-**[Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong](https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong)**
+**[The death of AI idealism](https://www.axios.com/2026/05/05/musk-open-ai-idealism)**
 
-In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguards
-
-The Guardian • 1h ago
+Axios • 17m ago
 
 ---
 
-**[States across the wildfire-prone Western US are using AI for early detection](https://katu.com/news/nation-world/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection-05-05-2026)**
+**[Child safety lab launching ‘independent crash testing’ for AI tools](https://www.cnn.com/2026/05/05/tech/ai-youth-safety-independent-testing-lab)**
 
-On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona’s Coconino National Forest.
+Since independent vehicle crash testing began in the mid-1990s, automakers have been incentivized to make safety changes that have saved thousands of lives each year.
 
-KATU • 52m ago
+CNN • 26m ago
 
 ---
 
-**[AI And The Future Of Work: No Skill Is Robot-Proof](https://www.forbes.com/sites/rodgerdeanduncan/2026/05/05/ai-and-the-future-of-work-no-skill-is-robot-proof/)**
+**[Hon Hai Sales Grow 30% With Expansion of AI Server Business](https://www.bloomberg.com/news/articles/2026-05-05/hon-hai-sales-grow-30-with-expansion-of-ai-server-business)**
 
-Forbes • 18m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,7 +175,7 @@ Forbes • 18m ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 17h ago
+Anthropic • 19h ago
 
 ---
 
@@ -185,13 +183,13 @@ Anthropic • 17h ago
 
 The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI
 
-CNBC • 14h ago
+CNBC • 16h ago
 
 ---
 
 **[Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html)**
 
-The New York Times • 13h ago
+The New York Times • 7h ago
 
 ---
 
@@ -203,7 +201,7 @@ The New York Times • 13h ago
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 588 • 💬 556 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 589 • 💬 556 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
 
 ---
 
@@ -211,7 +209,7 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 381 • 💬 120 • 11h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 402 • 💬 123 • 13h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -227,7 +225,15 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 281 • 💬 292 • 2d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 281 • 💬 293 • 2d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+
+---
+
+**[Google Chrome silently installs a 4 GB AI model on your device without consent](https://news.ycombinator.com/item?id=48019219)**
+
+Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
+
+⬆️ 151 • 💬 167 • 1h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -235,7 +241,7 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 116 • 💬 106 • 14h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 116 • 💬 108 • 17h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -243,7 +249,7 @@ A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants
 
 Spirit Airlines, the pioneering discount airline that shook up the budget travel business, is shutting down its operations.
 
-⬆️ 84 • 💬 48 • 2d ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
+⬆️ 85 • 💬 48 • 2d ago • [CNN](https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights)
 
 ---
 
@@ -269,12 +275,6 @@ AI is quietly entering the bedroom — and taking notes. A look at connected ple
 
 ---
 
-**[The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://news.ycombinator.com/item?id=47991340)**
-
-⬆️ 75 • 💬 124 • 2d ago • [dailygrail.com](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -285,7 +285,7 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 54K • 👍 2K • 💬 259 • ⏱️ 21:59 • 13h ago
+👁️ 62K • 👍 2K • 💬 273 • ⏱️ 21:59 • 15h ago
 
 ---
 
@@ -295,17 +295,7 @@ FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 36K • 👍 1K • 💬 120 • ⏱️ 6:54 • 16h ago
-
----
-
-**[We Asked AI To Show America Without Republicans](https://www.youtube.com/watch?v=jAcxE5w52vI)**
-
-We asked AI to show America without any Republicans.
-
-📺 The Babylon Bee
-
-👁️ 71K • 👍 6K • 💬 465 • ⏱️ 1:25 • 8h ago
+👁️ 39K • 👍 1K • 💬 124 • ⏱️ 6:54 • 18h ago
 
 ---
 
@@ -315,37 +305,7 @@ GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYansh
 
 📺 Sasha Yanshin
 
-👁️ 61K • 👍 3K • 💬 487 • ⏱️ 16:06 • 15h ago
-
----
-
-**[The Lazy Way I Make Money With AI (2026)](https://www.youtube.com/watch?v=n0phBDPz8z0)**
-
-In this video, I walk through my "lazy roadmap" for making money with AI tools like ChatGPT and Claude. If you want to start selling ...
-
-📺 Travis Nicholson
-
-👁️ 39K • 👍 2K • 💬 113 • ⏱️ 3:49 • 2d ago
-
----
-
-**[Passive Income: I Tried AI Dropshipping For a Week (RAW RESULTS)](https://www.youtube.com/watch?v=rhuYy9LP72M)**
-
-Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS here for just $1 - https://www.autods.com/il38 ...
-
-📺 Mark Tilbury
-
-👁️ 113K • 👍 8K • 💬 2K • ⏱️ 28:29 • 19h ago
-
----
-
-**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
-
-AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
-
-📺 The Diary Of A CEO
-
-👁️ 786K • 👍 20K • 💬 3K • ⏱️ 1:58:11 • 1d ago
+👁️ 65K • 👍 3K • 💬 502 • ⏱️ 16:06 • 17h ago
 
 ---
 
@@ -355,7 +315,37 @@ I bought every ai generated scam product I found on tiktok, temu, and aliexpress
 
 📺 Mike Off Record
 
-👁️ 468K • 👍 10K • 💬 611 • ⏱️ 12:11 • 2d ago
+👁️ 494K • 👍 10K • 💬 637 • ⏱️ 12:11 • 2d ago
+
+---
+
+**[The Lazy Way I Make Money With AI (2026)](https://www.youtube.com/watch?v=n0phBDPz8z0)**
+
+In this video, I walk through my "lazy roadmap" for making money with AI tools like ChatGPT and Claude. If you want to start selling ...
+
+📺 Travis Nicholson
+
+👁️ 40K • 👍 2K • 💬 116 • ⏱️ 3:49 • 2d ago
+
+---
+
+**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
+
+AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
+
+📺 The Diary Of A CEO
+
+👁️ 837K • 👍 21K • 💬 3K • ⏱️ 1:58:11 • 1d ago
+
+---
+
+**[Passive Income: I Tried AI Dropshipping For a Week (RAW RESULTS)](https://www.youtube.com/watch?v=rhuYy9LP72M)**
+
+Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS here for just $1 - https://www.autods.com/il38 ...
+
+📺 Mark Tilbury
+
+👁️ 125K • 👍 8K • 💬 2K • ⏱️ 28:29 • 22h ago
 
 ---
 
@@ -365,7 +355,7 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 260 • ⏱️ 15:10 • 2d ago
+👁️ 63K • 👍 2K • 💬 260 • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -375,7 +365,17 @@ Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views 
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 85K • 👍 4K • 💬 229 • ⏱️ 26:56 • 2d ago
+👁️ 87K • 👍 4K • 💬 231 • ⏱️ 26:56 • 2d ago
+
+---
+
+**[AI is getting too realistic](https://www.youtube.com/watch?v=_kP2ax2tudk)**
+
+How can you spot AI photos now that the new GPT Image 2 AI image model is really strong? I'm looking at background details, ...
+
+📺 Jeremy Carrasco
+
+👁️ 1.2M • 👍 92K • 💬 1K • ⏱️ 1:01 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 534,942 • ❤️ 3,536 • 8d ago
+⬇️ 631,499 • ❤️ 3,538 • 8d ago
 
 ---
 
@@ -403,7 +403,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 132,595 • ❤️ 1,270 • 12d ago
+⬇️ 141,317 • ❤️ 1,274 • 12d ago
 
 ---
 
@@ -415,7 +415,7 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 11,950 • ❤️ 258 • 17h ago
+⬇️ 15,024 • ❤️ 260 • 19h ago
 
 ---
 
@@ -427,7 +427,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 11,812 • ❤️ 429 • 7d ago
+⬇️ 13,317 • ❤️ 430 • 7d ago
 
 ---
 
@@ -439,7 +439,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 40,403 • ❤️ 231 • 3d ago
+⬇️ 44,631 • ❤️ 231 • 3d ago
 
 ---
 
@@ -451,17 +451,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 10,357 • ❤️ 214 • 1d ago
-
----
-
-**[talkie-1930-13b-it](https://huggingface.co/talkie-lm/talkie-1930-13b-it)**
-
-*talkie*
-
-talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
-
-⬇️ 0 • ❤️ 229 • 11d ago
+⬇️ 12,027 • ❤️ 215 • 1d ago
 
 ---
 
@@ -473,7 +463,17 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 20,187 • ❤️ 187 • 1d ago
+⬇️ 37,897 • ❤️ 193 • 1d ago
+
+---
+
+**[talkie-1930-13b-it](https://huggingface.co/talkie-lm/talkie-1930-13b-it)**
+
+*talkie*
+
+talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
+
+⬇️ 0 • ❤️ 230 • 12d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,334,241 • ❤️ 1,113 • 11d ago
+⬇️ 1,458,973 • ❤️ 1,115 • 11d ago
 
 ---
 
@@ -497,7 +497,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 489,465 • ❤️ 946 • 8d ago
+⬇️ 560,958 • ❤️ 946 • 8d ago
 
 ---
 
@@ -565,7 +565,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 5,731 • 20d ago
+▲ 19 • 💬 2 • ⭐ 5,754 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -578,7 +578,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 61,976 • 7mo ago
+▲ 160 • 💬 2 • ⭐ 62,020 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -603,23 +603,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Fréchet Distance can be effectively optimized as a training objective when decoupling population size from batch size, leading to improved generator quality and alternative evaluation metrics.
 
-▲ 21 • 💬 1 • ⭐ 316 • 5d ago
+▲ 23 • 💬 1 • ⭐ 316 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.28190) • [💻 code](https://github.com/Jiawei-Yang/FD-Loss)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 81 • 💬 6 • ⭐ 19,619 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -635,6 +621,20 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 81 • 💬 6 • ⭐ 19,647 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +645,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 11.7k • 🔱 2.7k • 7d ago
+⭐ 11.7k • 🔱 2.7k • 8d ago
 
 ---
 
@@ -655,7 +655,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.2k • 🔱 670 • 9h ago
+⭐ 10.2k • 🔱 672 • 11h ago
 
 ---
 
@@ -675,7 +675,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.4k • 🔱 487 • 20h ago
+⭐ 5.5k • 🔱 489 • 22h ago
 
 ---
 
@@ -685,7 +685,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.4k • 🔱 411 • 1h ago
+⭐ 5.4k • 🔱 411 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 358 • 20h ago
+⭐ 5.0k • 🔱 358 • 22h ago
 
 ---
 
@@ -715,7 +715,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 431 • 1h ago
+⭐ 3.6k • 🔱 433 • 20m ago
 
 ---
 
@@ -723,7 +723,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-⭐ 3.5k • 🔱 367 • 14d ago
+⭐ 3.5k • 🔱 368 • 14d ago
 
 ---
 

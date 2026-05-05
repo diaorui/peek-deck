@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-05T07:18:12.697917+00:00'
+updated: '2026-05-05T09:27:42.665886+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 07:18 UTC  
+**Last Updated:** May 05, 2026 at 09:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,380.00
+### $2,386.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +5.7%  
-**30d:** +13.1%  
-**90d:** +30.5%  
-**1y:** +31.2%  
+**24h:** +1.4%  
+**7d:** +5.1%  
+**30d:** +12.5%  
+**90d:** +29.9%  
+**1y:** +30.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $287.27B
+**Market Cap:** $285.83B
 Rank #2
 
 **Circulating Supply:** 120,687,267 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.9%
+-52.1%
 
 **All-Time Low:** $0.43
-+549640.3%
++547012.0%
 
 ---
 
@@ -71,14 +71,6 @@ No max supply
 **[Daily General Discussion May 05, 2026](https://www.reddit.com/r/ethereum/comments/1t45q0i/daily_general_discussion_may_05_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2h ago
-
----
-
-**[I fine-tuned a Vision-Language Model on AMD MI300X to protect AI Agents from being drained](https://www.reddit.com/r/ethereum/comments/1t42vj8/i_finetuned_a_visionlanguage_model_on_amd_mi300x/)**
-
-Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
 
 4h ago
 
@@ -92,17 +84,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[I fine-tuned a Vision-Language Model on AMD MI300X to protect AI Agents from being drained](https://www.reddit.com/r/ethereum/comments/1t42vj8/i_finetuned_a_visionlanguage_model_on_amd_mi300x/)**
+
+Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
+
+6h ago
+
+---
+
 **[Dev Tools Guild April 2026 update](https://www.reddit.com/r/ethereum/comments/1t3ekon/dev_tools_guild_april_2026_update/)**
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 20h ago
-
----
-
-**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
-
-15h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 22h ago
 
 ---
 
@@ -111,6 +105,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
 
 1d ago
+
+---
+
+**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
+
+17h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to claim those funds using a 2015 court judgment against North Korea. ZachXBT named them. The actual victims are still waiting.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 1d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelpdao-dprk-law-firm-frozen-funds-gerstein-harrow/) • 2d ago
 
 ---
 
@@ -168,7 +168,21 @@ XRP, Solana, and Ethereum all recorded losses in the past week. Despite the down
 
 Upbit is the Optimism Foundation's first client on its "self-managed" enterprise tier, giving it control over its core rollup architecture.
 
-The Block • 12h ago
+The Block • 15h ago
+
+---
+
+**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
+
+Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Prices Rise. Why Oil Will Still Hold Cryptos Back.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+
+Barron's • 6m ago
 
 ---
 
@@ -176,7 +190,7 @@ The Block • 12h ago
 
 Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -184,7 +198,7 @@ Yahoo Finance • 15h ago
 
 Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
 
-CoinDesk • 16h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -192,7 +206,7 @@ CoinDesk • 16h ago
 
 Bitmine owns more than 4.29% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 10 months Crypto Spring has...
 
-PR Newswire • 18h ago
+PR Newswire • 20h ago
 
 ---
 
@@ -208,23 +222,7 @@ The Motley Fool • 1d ago
 
 Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
 
-TradingView • 14h ago
-
----
-
-**[Ethereum gas limit increased 3.3x for Glamsterdam upgrade, boosting scalability](https://cryptobriefing.com/ethereum-gas-limit-increased-33x-for-glamsterdam-upgrade-boosting-scalability/)**
-
-Ethereum increased its gas limit by 3.3x for the Glamsterdam upgrade. Ethereum reaching $10,000 by December 31, 2026 priced at 3.9% YES.
-
-Crypto Briefing • 10h ago
-
----
-
-**[Current price of Ethereum for May 4, 2026](https://fortune.com/article/price-of-ethereum-05-04-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
+TradingView • 16h ago
 
 ---
 
@@ -238,7 +236,7 @@ Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-gra
 
 📺 Crossroads
 
-👁️ 6K • 👍 251 • 💬 50 • ⏱️ 10:34 • 16h ago
+👁️ 6K • 👍 255 • 💬 50 • ⏱️ 10:34 • 18h ago
 
 ---
 
@@ -248,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 482 • 💬 46 • ⏱️ 20:21 • 1d ago
+👁️ 12K • 👍 485 • 💬 46 • ⏱️ 20:21 • 1d ago
 
 ---
 
@@ -258,7 +256,7 @@ This new data is huge for bitcoin, for ethereum and for the rest of crypto! A vi
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 637 • 💬 15 • ⏱️ 14:06 • 20h ago
+👁️ 11K • 👍 642 • 💬 159 • ⏱️ 14:06 • 22h ago
 
 ---
 
@@ -278,7 +276,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 508 • 👍 57 • ⏱️ 7:13 • 4h ago
+👁️ 750 • 👍 76 • ⏱️ 7:13 • 6h ago
 
 ---
 
@@ -288,7 +286,7 @@ Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 htt
 
 📺 James Crypto Guru
 
-👁️ 822 • 👍 87 • 💬 4 • ⏱️ 8:07 • 6h ago
+👁️ 1K • 👍 100 • 💬 6 • ⏱️ 8:07 • 8h ago
 
 ---
 
@@ -298,7 +296,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 474 • 💬 61 • ⏱️ 10:14 • 3h ago
+👁️ 3K • 👍 534 • 💬 96 • ⏱️ 10:14 • 5h ago
 
 ---
 
@@ -308,7 +306,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 289 • 💬 40 • ⏱️ 15:33 • 2d ago
+👁️ 7K • 👍 291 • 💬 40 • ⏱️ 15:33 • 2d ago
+
+---
+
+**[The AI Coin That&#39;s About To FLIP Ethereum Is PUMPING Right Now (Arthur Hayes Just Confirmed It)](https://www.youtube.com/watch?v=dAePo7OLimM)**
+
+Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats.io/subnets/85 Trade Crypto with WEEX ...
+
+📺 FireHustle
+
+👁️ 15K • 👍 676 • 💬 82 • ⏱️ 11:56 • 2d ago
 
 ---
 
@@ -318,17 +326,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 155 • 👍 2 • 💬 1 • ⏱️ 5:14 • 12h ago
-
----
-
-**[CAN ETHEREUM BREAKOUT NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xXiyIrsvXz0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 406 • 👍 12 • 💬 2 • ⏱️ 4:53 • 22h ago
+👁️ 155 • 👍 2 • 💬 1 • ⏱️ 5:14 • 15h ago
 
 ---
 
