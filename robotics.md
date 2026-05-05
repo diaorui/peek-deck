@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-05T22:56:46.650781+00:00'
+updated: '2026-05-05T23:52:31.400342+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 05, 2026 at 22:56 UTC  
+**Last Updated:** May 05, 2026 at 23:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ XR-4 Rehbar I wanted to showcase a personal project that I had been working on f
 
 Went to a robotics event last month. Lost count of how many booths said "AI-powered" on the banner lol Asked a few engineers what was actually running – classical controllers, pre-trained detection models, one guy who genuinely couldn't explain what the AI part was doing. The collateral damage is what bugs me most. When everything gets the same sticker, the projects that actually did something novel get lumped in with the ones that slapped "AI" on a PID loop. Buyers get burned, the whole category pays for it. Filter I've been using: take the AI component out. Does the thing stop working, or just get slightly worse? "Slightly worse" is a feature, not a foundation. Maybe I'm just getting cynical... do you still find the label useful when evaluating something, or do you just go straight to asking the engineers?
 
-9h ago
+10h ago
 
 ---
 
@@ -70,7 +70,7 @@ Went to a robotics event last month. Lost count of how many booths said "AI-powe
 
 **[Robot Wall E , parte 1](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ Went to a robotics event last month. Lost count of how many booths said "AI-powe
 
 I built a wagon and want to power it with motors from an electric wheelchair, the chair I found uses (2) 12v 35ah batteries. My question, what are my options for a more compact/low profile battery? Do I have to stick with 12v? I’m unsure of the specs on the motors, would they be 12v or are they 24v? The wagon has a matching trailer that has the same red tub and tires, the electronics will be mounted to the trailer with control wires to the front handle and a finger throttle. I want to mount the batteries underneath the red tub so the tub is still open for cargo (aka my children). Ideally the battery would be fairly flat to maintain ground clearance.
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ I built a wagon and want to power it with motors from an electric wheelchair, th
 
 I keep seeing the demo videos. Figure, Apptronik, Agility, Tesla Optimus, impressive in controlled settings. But I work in human motion research for robot training, and I spend a lot of time thinking about the gap between what these robots can do in a lab and what a real warehouse floor actually demands. Wanted to hear from people closer to the ops or integration side: What task in your operation would you actually trust (and want) a humanoid to do first, not eventually, but in the next 2-3 years with current trajectory? What's the motion or physical interaction problem that nobody's solved yet? Deformable items, unpredictable humans nearby, awkward reach, and load scenarios? Where does simulation training break down? If you work on the robotics side, what does sim-to-real failure actually look like in practice? What does the humanoid need to understand about human movement to work safely alongside people, not just avoid collisions, but actually *behave* predictably? For context: I work in Embodied AI: how robots can be trained on realistic human motion physics rather than synthetic or oversimplified data. Trying to figure out where higher-fidelity human motion understanding actually moves the needle for real-world deployment. Candid takes welcome and appreciated.
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I’m an independent developer with a background in algorithms, HPC
 
 **[Over time and as my robot has progressed, many user interfaces have been added for reading and visualizing data and controlling the robot; here they are.](https://www.reddit.com/r/robotics/comments/1t4ixy2/over_time_and_as_my_robot_has_progressed_many/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -110,13 +110,13 @@ Hi everyone, I’m an independent developer with a background in algorithms, HPC
 
 **[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
 **[Local high school wins robotics world championship](https://fox5sandiego.com/news/local-news/holy-cows-robotics-championship/)**
 
-fox5sandiego.com • 19h ago
+fox5sandiego.com • 20h ago
 
 ---
 
@@ -138,7 +138,7 @@ Buffalo News • 1d ago
 
 **[This Southern California city has an issue with food delivery robots](https://ktla.com/news/local-news/this-southern-california-city-has-an-issue-with-food-delivery-robots/)**
 
-KTLA • 3h ago
+KTLA • 4h ago
 
 ---
 
@@ -146,7 +146,7 @@ KTLA • 3h ago
 
 An underwater robotics expert is exploring nearly 100 targets in Seattle's Lake Union, calling the area a "shipwreck city" full of hidden maritime history.
 
-Fox News • 12h ago
+Fox News • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Fox News • 12h ago
 
 Humanoid robots are being added to the automation of waste sorting.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ BBC • 23h ago
 
 MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
 
-Allen AI • 7h ago
+Allen AI • 8h ago
 
 ---
 
@@ -178,7 +178,7 @@ Tufts Now • 1d ago
 
 Schaeffler expects its humanoid robotics business to build an order book in the hundreds of millions of euros by 2030, ‌the chief executive of the German machine and car parts maker said ‌on Tuesday.  CEO Klaus Rosenfeld, talking to Reuters after the company's first-quarter results, did not give a more ​specific estimate for the potential order book.  "We have been investing significantly in the humanoid robotics area and at the moment we are collaborating with around 45 humanoid robotics players globally," Rosenfeld said.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -186,13 +186,23 @@ Yahoo Finance • 11h ago
 
 ## YouTube Videos: "robotics"
 
+**[Elon Musk&#39;s Cheapest $500 Optimus Robot Version Finally Hitting the Market](https://www.youtube.com/watch?v=4pq8KuycgDM)**
+
+Elon Musk's more affordable version of the Optimus robot is being discussed as a step toward making humanoid robotics ...
+
+📺 Carros Show
+
+👁️ 306 • 👍 33 • 💬 3 • ⏱️ 8:07 • 6h ago
+
+---
+
 **[Humanoid Robot Gets Pushed and Instantly Recovers Like a Human](https://www.youtube.com/watch?v=9XmCqkHRT0I)**
 
 This humanoid robot just did something most machines cannot do. After being pushed, it instantly recovers and keeps moving like ...
 
 📺 DPCcars
 
-👁️ 11K • 👍 99 • 💬 52 • ⏱️ 3:09 • 1d ago
+👁️ 11K • 👍 102 • 💬 54 • ⏱️ 3:09 • 1d ago
 
 ---
 
@@ -202,17 +212,7 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 91 • 💬 9 • ⏱️ 20:22 • 20h ago
-
----
-
-**[AI Robots Are Building Their Own Datacenters😭 Is This The End? #construction #tech #ai #news](https://www.youtube.com/watch?v=CDPY86wzNh0)**
-
-Masayoshi Son's Softbank just announced Roze AI, a company that builds AI robots to construct AI datacenters. With an $100 ...
-
-📺 GroundFloorBoss
-
-👁️ 23K • 👍 457 • 💬 31 • ⏱️ 0:41 • 4d ago
+👁️ 3K • 👍 101 • 💬 10 • ⏱️ 20:22 • 21h ago
 
 ---
 
@@ -222,7 +222,7 @@ War Robots - Baby Account Battles With Indra Void-Chasm Setup + Black Market Ope
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 278 • 💬 61 • ⏱️ 24:59 • 1d ago
+👁️ 4K • 👍 281 • 💬 62 • ⏱️ 24:59 • 1d ago
 
 ---
 
@@ -232,27 +232,7 @@ Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com
 
 📺 Aaed Musa
 
-👁️ 107K • 👍 11K • 💬 678 • ⏱️ 22:12 • 4d ago
-
----
-
-**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
-
-ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
-
-📺 VEX Robotics
-
-👁️ 274K • 👍 952 • 💬 236 • ⏱️ 3:51 • 5d ago
-
----
-
-**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
-
-That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
-
-📺 TechFrontierNow
-
-👁️ 92K • 👍 2K • 💬 201 • ⏱️ 11:20 • 6d ago
+👁️ 107K • 👍 11K • 💬 682 • ⏱️ 22:12 • 4d ago
 
 ---
 
@@ -262,17 +242,27 @@ I test to see if my 3D printed gearbox is precise. I made a pointer attachment f
 
 📺 Advanced Hobby Lab
 
-👁️ 135K • 👍 1K • 💬 14 • ⏱️ 0:28 • 4d ago
+👁️ 139K • 👍 2K • 💬 14 • ⏱️ 0:28 • 4d ago
 
 ---
 
-**[Humanoid robot trials as baggage handler at Tokyo airport](https://www.youtube.com/watch?v=SNnSOO11KFU)**
+**[Building a Robot Dog](https://www.youtube.com/watch?v=yIYb0EdqA9c)**
 
-Japan Airlines will trial humanoid robots for baggage handling and aircraft cleaning at Tokyo's Haneda Airport starting in May, ...
+Watch the full video on my channel now. #shorts #robotics #engineering #technology #robotdog #3dprinting #gear #diy ...
 
-📺 Reuters
+📺 Aaed Musa
 
-👁️ 21K • 👍 137 • 💬 23 • ⏱️ 0:33 • 6d ago
+👁️ 2K • 👍 161 • 💬 9 • ⏱️ 1:22 • 5h ago
+
+---
+
+**[VEX IQ Robotics Competition : Level Up | 2026-2027 Game](https://www.youtube.com/watch?v=KP0FYPW604E)**
+
+ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- Official Game ...
+
+📺 VEX Robotics
+
+👁️ 277K • 👍 955 • 💬 236 • ⏱️ 3:51 • 5d ago
 
 ---
 
@@ -282,7 +272,17 @@ Humanoid robots that use AI are moving from viral videos to real-world work. Fro
 
 📺 Bloomberg Originals
 
-👁️ 268K • 👍 4K • 💬 278 • ⏱️ 24:02 • 6d ago
+👁️ 269K • 👍 4K • 💬 278 • ⏱️ 24:02 • 6d ago
+
+---
+
+**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
+
+That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
+
+📺 TechFrontierNow
+
+👁️ 92K • 👍 2K • 💬 204 • ⏱️ 11:20 • 6d ago
 
 ---
 

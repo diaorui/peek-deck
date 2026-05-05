@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T22:56:46.641408+00:00'
+updated: '2026-05-05T23:52:31.390887+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 22:56 UTC  
+**Last Updated:** May 05, 2026 at 23:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1631.16B
+**Market Cap:** $1619.71B
 Rank #1
 
-**Circulating Supply:** 20,025,190 BTC
+**Circulating Supply:** 20,025,243 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.8%
 
 **All-Time Low:** $67.81
-+119928.0%
++119226.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 Are we ready to buy when it hits 100k?!
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Are we ready to buy when it hits 100k?!
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 6h ago
+🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Who’s with me??😂😂
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Who’s with me??😂😂
 
 Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite w
 
 Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Me: doubles investment Market: instantly prepares a historic rally Correlation =
 
 Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between this and living the rest of your life from converting btc to fiat ? Thank you
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between
 
 This is not news but I find it interesting that there are not that many comments regarding this topic. The earliest mention was from 1year ago. At the current rate and based on how things work in Germany with it's current coalition in power, it seems like the abolishment of the tax exemption is just a matter of when and not if. If I'm not mistaken, proposals can be presented during summer and would go into law the following year. I don't mean to fear monger but what are your plans if the tax exemption abolishment would come into effect in 2027? Is everyone moving to Portugal or we just don't care? I'm curious on everyone's (mostly germans I guess) thoughts. https://bitcoin-bundesverband.de/en/tax-exemption-after-one-year-to-be-abolished/
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ This is not news but I find it interesting that there are not that many comments
 
 After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
 
-22h ago
+23h ago
 
 ---
 
@@ -163,7 +163,7 @@ After way too long saying “I’ll start soon” I finally did it. Bought my fi
 
 The price of bitcoin fell from about $87,000 to $68,000 during the first three months of 2026.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investor's Business Daily • 1d ago
 
 CME's upcoming futures product will track whether the market thinks the price of Bitcoin is about to swing wildly or stay steady.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 55m ago
 
 Strong early demand highlights how investors are driving crypto adoption, even without support from Morgan Stanley’s vast advisor network.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 1h ago
 
 Crypto treasury firm Strategy (NASDAQ: $MSTR) has reported a net loss of $12.54 billion U.S. for this year’s ...
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 34m ago
 
 CNBC's Oliver Renick reports on the latest moves in the options market.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 2h ago
 
 Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
 
-Fast Company • 10h ago
+Fast Company • 11h ago
 
 ---
 
@@ -231,7 +231,7 @@ Fortune • 1d ago
 
 **[Strategy Survives Another Bitcoin Crash With More Alchemy](https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -289,7 +289,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 3d ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 4d ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -327,37 +327,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 312 • ⏱️ 46:55 • 8h ago
-
----
-
-**[Coinbase&#39;s Legal Chief Just Made This Prediction About Crypto Regulation](https://www.youtube.com/watch?v=Etk6U9amKl4)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO on Clarity Act, Prediction Markets ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 344 • 💬 101 • ⏱️ 14:59 • 6h ago
-
----
-
-**[IT&#39;S HAPPENING! This Is the EXACT Reason Why BTC Is Ripping Massively - Jack Mallers](https://www.youtube.com/watch?v=-sB1V__623Q)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 145 • 💬 4 • ⏱️ 16:46 • 5h ago
-
----
-
-**[BITCOIN WIZARD LIVE - Strategy Q1 2026 Earnings Call](https://www.youtube.com/watch?v=LtINvufhbZk)**
-
-My coverage of Strategy's Q1 2026 Earnings Call.
-
-📺 Adam Livingston
-
-👁️ 2K • 👍 188 • 2h ago
+👁️ 19K • 👍 1K • 💬 297 • ⏱️ 46:55 • 9h ago
 
 ---
 
@@ -367,7 +337,17 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Paul Barron Network
 
-👁️ 14K • 👍 1K • 💬 77 • ⏱️ 12:02 • 5h ago
+👁️ 23K • 👍 1K • 💬 71 • ⏱️ 12:02 • 6h ago
+
+---
+
+**[Coinbase&#39;s Legal Chief Just Made This Prediction About Crypto Regulation](https://www.youtube.com/watch?v=Etk6U9amKl4)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO on Clarity Act, Prediction Markets ...
+
+📺 Yahoo Finance
+
+👁️ 9K • 👍 427 • 💬 95 • ⏱️ 14:59 • 7h ago
 
 ---
 
@@ -377,37 +357,7 @@ Bitcoin is pushing toward a breakout while holding strong around $80K, even as g
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 39 • ⏱️ 28:59 • 8h ago
-
----
-
-**[Bitcoin and Crypto Is About To Get Extremely Messy...](https://www.youtube.com/watch?v=uxT3WkocBcQ)**
-
-Things are about to get complicated in the Bitcoin and crypto space — and three storylines are colliding at once. Saylor is making ...
-
-📺 BTC Sessions
-
-👁️ 2K • 👍 114 • 💬 59 • ⏱️ 35:55 • 3h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 2K • 👍 137 • 💬 82 • ⏱️ 19:21 • 6h ago
-
----
-
-**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
-
-Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 401 • ⏱️ 19:25 • 1d ago
+👁️ 20K • 👍 1K • 💬 41 • ⏱️ 28:59 • 9h ago
 
 ---
 
@@ -417,7 +367,57 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 745 • 💬 334 • ⏱️ 14:49 • 8h ago
+👁️ 11K • 👍 814 • 💬 357 • ⏱️ 14:49 • 9h ago
+
+---
+
+**[1,300 Experts Just Predicted Bitcoin’s Price](https://www.youtube.com/watch?v=47VJwPNTi3c)**
+
+I built a Bitcoin forecast model that pulls from over 1300 sources to predict where BTC could be in the next 30 days. Instead of ...
+
+📺 Jesse Eckel
+
+👁️ 10K • 👍 479 • 💬 282 • ⏱️ 9:38 • 1d ago
+
+---
+
+**[Bitcoin Holders: Market Updates (&amp; Fidelity&#39;s New Recommendation)](https://www.youtube.com/watch?v=MELeOLVMsIM)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: https://kalshi.com/aaronbennett Into The Cryptoverse ...
+
+📺 Aaron Bennett
+
+👁️ 8K • 👍 374 • 💬 175 • ⏱️ 8:45 • 13h ago
+
+---
+
+**[IT&#39;S HAPPENING! This Is the EXACT Reason Why BTC Is Ripping Massively - Jack Mallers](https://www.youtube.com/watch?v=-sB1V__623Q)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 180 • 💬 40 • ⏱️ 16:46 • 6h ago
+
+---
+
+**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
+
+Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 396 • ⏱️ 19:25 • 1d ago
+
+---
+
+**[WHY BITCOIN IS PUMPING LIKE CRAZY... What Comes Next??](https://www.youtube.com/watch?v=t9fhhBCtydk)**
+
+WHY BITCOIN IS PUMPING LIKE CRAZY... What Comes Next?? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 29K • 👍 2K • 💬 244 • ⏱️ 8:10 • 1d ago
 
 ---
 

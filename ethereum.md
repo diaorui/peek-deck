@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-05T22:56:46.647579+00:00'
+updated: '2026-05-05T23:52:31.397133+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 22:56 UTC  
+**Last Updated:** May 05, 2026 at 23:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.68B
+**Market Cap:** $284.73B
 Rank #2
 
 **Circulating Supply:** 120,687,267 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.0%
+-52.2%
 
 **All-Time Low:** $0.43
-+548055.9%
++545399.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
 
-20h ago
+21h ago
 
 ---
 
@@ -158,7 +158,7 @@ ethereum.org • 3d ago
 
 The Consensys CEO and founder said tokenization can be traced by to Ethereum, the blockchain he helped co-found.
 
-CoinDesk • 48m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -166,13 +166,13 @@ CoinDesk • 48m ago
 
 Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Motley Fool • 2d ago
 
 Ethereum ended April on a solid note, posting a 7.3% gain and marking its second consecutive green month. This steady recovery is now drawing attention to May, historically one of Ethereum’s strongest months. In 2024, ETH surged 25%, followed by an even sharper 41% rally in 2025.Resistance at $2,37…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 137 • 💬 82 • ⏱️ 19:21 • 6h ago
+👁️ 3K • 👍 166 • 💬 75 • ⏱️ 19:21 • 7h ago
 
 ---
 
@@ -244,7 +244,17 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 745 • 💬 334 • ⏱️ 14:49 • 8h ago
+👁️ 11K • 👍 814 • 💬 357 • ⏱️ 14:49 • 9h ago
+
+---
+
+**[ETHEREUM ABOUT TO BREAKOUT?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=GPjXfu5M0PY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 454 • 👍 22 • ⏱️ 4:32 • 14h ago
 
 ---
 
@@ -258,13 +268,13 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 ---
 
-**[ETHEREUM ABOUT TO BREAKOUT?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=GPjXfu5M0PY)**
+**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
 
-📺 Cilinix Crypto
+📺 Crossroads
 
-👁️ 454 • 👍 22 • ⏱️ 4:32 • 13h ago
+👁️ 7K • 👍 285 • 💬 61 • ⏱️ 10:34 • 1d ago
 
 ---
 
@@ -274,27 +284,37 @@ This new data is huge for bitcoin, for ethereum and for the rest of crypto! A vi
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 661 • 💬 139 • ⏱️ 14:06 • 1d ago
+👁️ 12K • 👍 662 • 💬 139 • ⏱️ 14:06 • 1d ago
 
 ---
 
-**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
+**[XRP Summer Prediction and Trajectory for SOL, HBAR, ETH](https://www.youtube.com/watch?v=j2ubQ1g8YDE)**
 
-Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+FEATURED PARTNER: ▻ Earn rewards when you get started on OKX | Use code: paulbarron for OKX US - Sign up and log in to ...
 
-📺 Crossroads
+📺 Paul Barron Podcast
 
-👁️ 7K • 👍 278 • 💬 61 • ⏱️ 10:34 • 1d ago
+👁️ 1K • 👍 201 • 💬 44 • ⏱️ 7:05 • 1h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum are about to SKYROCKET! (SERIOUSLY)](https://www.youtube.com/watch?v=jiftFdu3Apw)**
+**[Bitcoin Rallies to $81K! Will Altcoins Follow? BTC, Ethereum, XRP, Solana Analysis!](https://www.youtube.com/watch?v=Ob6xjYw73tE)**
 
-Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, Ethereum, XRP, and Solana. 🖥️ Sign up with ...
 
-📺 Altcoin Daily
+📺 Thinking Crypto
 
-👁️ 34K • 👍 2K • 💬 177 • ⏱️ 11:49 • 3d ago
+👁️ 2K • 👍 172 • 💬 78 • ⏱️ 31:48 • 11h ago
+
+---
+
+**[BITCOIN 80K: ETH AND TON EXPLODE](https://www.youtube.com/watch?v=vMOIYYP0PhY)**
+
+Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
+
+📺 James Crypto Guru
+
+👁️ 2K • 👍 112 • 💬 7 • ⏱️ 8:07 • 23h ago
 
 ---
 
@@ -305,26 +325,6 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 📺 Crypto Gyan
 
 👁️ 1K • 👍 94 • ⏱️ 7:13 • 20h ago
-
----
-
-**[Bitcoin Rallies to $81K! Will Altcoins Follow? BTC, Ethereum, XRP, Solana Analysis!](https://www.youtube.com/watch?v=Ob6xjYw73tE)**
-
-Brian from Santiment joined me to review the crypto market metrics for Bitcoin, Ethereum, XRP, and Solana. 🖥️ Sign up with ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 163 • 💬 85 • ⏱️ 31:48 • 10h ago
-
----
-
-**[The AI Coin That&#39;s About To FLIP Ethereum Is PUMPING Right Now (Arthur Hayes Just Confirmed It)](https://www.youtube.com/watch?v=dAePo7OLimM)**
-
-Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats.io/subnets/85 Trade Crypto with WEEX ...
-
-📺 FireHustle
-
-👁️ 16K • 👍 691 • 💬 83 • ⏱️ 11:56 • 2d ago
 
 ---
 
