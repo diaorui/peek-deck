@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-05T04:41:54.076073+00:00'
+updated: '2026-05-05T07:18:12.685213+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 05, 2026 at 04:41 UTC  
+**Last Updated:** May 05, 2026 at 07:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic Launches Enterprise AI Firm With Wall Street Giants](https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/)**
+
+Anthropic is launching a new venture focused on selling AI tools to enterprise companies. This effort is being launched in partnership with Goldman Sachs, the Wall Street bank said Monday (May 4), in conjunction with investment firm Blackstone, and private equity group Hellman & Friedman, and will help companies embed Anthropic’s Claude artificial intelligence (AI) model into their businessses. “Enterprise demand for Claude is significantly outpacing any single delivery model,” Krishna Rao, Anthropic’s finance chief, said in a news release provided to PYMNTS. “Our partnerships with the world’s leading systems integrators are central to how Claude reaches large enterprises. This new firm brings additional operating capability to the ecosystem and capital from leading alternative asset managers.” Marc Nachmann, global head of asset and wealth management at Goldman Sachs, said the partnership will allow mid-market companies to employ Anthropic’s tech to bolster their businesses. “By democratizing access to forward-deployed engineers, the new company can help the expansive network of portfolio companies in our Asset Management business and other companies of similar sizes accelerate AI adoption to grow and scale their operations,” he added.
+
+4h ago
+
+---
+
 **[Richard Dawkins spent 3 days with Claude and named her "Claudia." what he concluded after is hard to defend.](https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/)**
 
 dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 days of talking to it. he calls his instance "claudia". fed it a chunk of the novel he's writing, got eloquent feedback, and wrote: "you may not know you are conscious, but you bloody well are!" i had to read that twice. his argument is basically: claude's output is too fluent, too intelligent, too good for there to not be something conscious behind it. this is the guy who spent 40 years telling creationists that "i can't imagine how the eye evolved" is a confession of ignorance, not an argument. then he sits down with an llm, can't imagine how a machine could produce that output without being conscious, and declares it conscious. same move, different domain. chatbot instead of flagellum. the mechanism gap is what gets me tho. claude is a transformer predicting the next token over internet-scale training data. the eloquence is real. it doesn't imply inner experience. those are separate claims. being a 160 IQ evolutionary biologist gives u zero protection against the eloquence illusion when u don't understand the mechanism. anyone read the piece? curious where u landed.
@@ -45,19 +53,11 @@ dawkins dropped a piece on unherd yesterday declaring claude conscious after 3 d
 
 ---
 
-**[Anthropic Launches Enterprise AI Firm With Wall Street Giants](https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/)**
-
-Anthropic is launching a new venture focused on selling AI tools to enterprise companies. This effort is being launched in partnership with Goldman Sachs, the Wall Street bank said Monday (May 4), in conjunction with investment firm Blackstone, and private equity group Hellman & Friedman, and will help companies embed Anthropic’s Claude artificial intelligence (AI) model into their businessses. “Enterprise demand for Claude is significantly outpacing any single delivery model,” Krishna Rao, Anthropic’s finance chief, said in a news release provided to PYMNTS. “Our partnerships with the world’s leading systems integrators are central to how Claude reaches large enterprises. This new firm brings additional operating capability to the ecosystem and capital from leading alternative asset managers.” Marc Nachmann, global head of asset and wealth management at Goldman Sachs, said the partnership will allow mid-market companies to employ Anthropic’s tech to bolster their businesses. “By democratizing access to forward-deployed engineers, the new company can help the expansive network of portfolio companies in our Asset Management business and other companies of similar sizes accelerate AI adoption to grow and scale their operations,” he added.
-
-1h ago
-
----
-
 **[Chinese court sides with worker who was replaced by AI](https://www.reddit.com/r/artificial/comments/1t3txpn/chinese_court_sides_with_worker_who_was_replaced/)**
 
 Experts say the ruling demonstrates how the Chinese government is attempting to stabilize the domestic labor market even in the midst of a global AI race.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 8h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/courts-grapple-with-worker-protections-in-the-age-of-ai-7249932/) • 10h ago
 
 ---
 
@@ -65,15 +65,7 @@ Experts say the ruling demonstrates how the Chinese government is attempting to 
 
 Here me out because I know there's a lot of doom and gloom, and believe me, I understand and feel it around job loss. Return to supply and demand with me. Today in the world, there is a certain amount of human processing power and a certain amount of AI processing power. One of these is increasing exponentially, and the other's growth rate is in decline... AI processing will then compete with AI processing for value creation (ultimately judged by humans). Human processing power will be more scarce and thus more valuable. This assumes that you are not one of those crazies who believe that the human brain is perfectly reproducible in bits and bytes, and thus there is no difference between human and AI processing power. To whom I remind that Humans are the result of an 800MB file (human genome) that builds a conscious machine. It wires 100 trillion nerve links across 37 trillion nodes, live-patches its code, runs a 20-watt exaFLOP supercomputer on the caloric intake of a sandwich, and packs 215 petabytes of data into a single gram. Human labor FTW
 
-6h ago
-
----
-
-**[Vertical vs. Horizontal: Who wins the Agentic AI race in banking?](https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/)**
-
-I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
-
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +73,23 @@ I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic"
 
 been noticing a pretty clear split in my social circle around AI and I'm curious if others are seeing the same. Roughly three camps: The excited ones: Mostly people who are naturally curious, into tech, willing to tinker. They're genuinely getting value and it shows. Not because they're smarter, just more willing to experiment. The skeptics: Interesting group. A lot of them are in corporate jobs where they don't have access to the latest tools. They're using 1 year old tools and can't figure out real value outside from chatting with chatgpt outside their job. Their companies just aren't moving fast enough (and they aren't early adopters). The resistant ones: Some are afraid of what it means for their jobs. But honestly, a big chunk of this group is technical people who just don't want to change their workflows, learn new tools, or rethink how they work. Which I get, it's uncomfortable, but it reads as anger more than fear. Im trying to understand if the same thing is happening outside my circle. what's your experience? Which camp are your people in, and do you think it's mostly about access, mindset, or something else?
 
-17h ago
+20h ago
+
+---
+
+**[Vertical vs. Horizontal: Who wins the Agentic AI race in banking?](https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/)**
+
+I’m seeing tons of horizontal AI tools, but very few domain-specific "Agentic" solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automate their specific processes: What is the role of the Product Company (the tool builders)? What is the role of the IT Service Provider (the implementers)? Apologies if this has been covered, but I'd love to hear your thoughts on where the real value lies.
+
+10h ago
+
+---
+
+**[What I’m Hearing About Cognitive Debt (So Far)](https://www.reddit.com/r/artificial/comments/1t45r37/what_im_hearing_about_cognitive_debt_so_far/)**
+
+A week ago, I wrote about how Generative and Agentic AI may be amplifying what I’ve been calling cognitive debt: the accumulated gap between a system’s evolving structure and a team’s shared unders...
+
+🔗 [Margaret-Anne Storey](http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) • 2h ago
 
 ---
 
@@ -89,7 +97,15 @@ been noticing a pretty clear split in my social circle around AI and I'm curious
 
 If the Claude app actually had the same level of control you get with the CLI, I kind of wonder how many people would still stick with the CLI day to day. Like, would it still feel worth it for the extra setup and terminal workflow, or would most people just default to the app because it’s simpler and already right there? I feel like the CLI’s biggest advantage is really the flexibility and how well it plugs into automation and dev workflows, but if that all lived inside the app in a clean way, it kind of blurs the line a lot. At that point I’m genuinely not sure if the CLI would still feel like a “must-have” tool for most people, or if it would just become something a smaller group of power users keep using out of habit or preference. I’m curious how others see it, would you actually still reach for the CLI, or would you just stay in the app?
 
-14h ago
+17h ago
+
+---
+
+**[On-device AI changes how people behave with sensitive data. I noticed this while building a therapy prep voice agent](https://www.reddit.com/r/artificial/comments/1t3trh1/ondevice_ai_changes_how_people_behave_with/)**
+
+Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: the on-device constraint made the product better. Tighter context forced cleaner prompting. The brief that comes out is more focused than early versions built with more headroom. Sometimes the limitation shapes the design in ways you wouldn’t choose intentionally. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
+
+10h ago
 
 ---
 
@@ -101,43 +117,29 @@ Yesterday I posted about my Agent OS (Hollow) building its own tools. Today, I w
 
 ---
 
-**[On-device AI changes how people behave with sensitive data. I noticed this while building a therapy prep voice agent](https://www.reddit.com/r/artificial/comments/1t3trh1/ondevice_ai_changes_how_people_behave_with/)**
-
-Something worth discussing in the context of where AI is heading. I built a voice agent for therapy prep. It runs a conversation before your session, surfaces what’s on your mind, generates a brief. The entire stack runs on-device using Apple Intelligence. No cloud inference, no data leaving the phone. What I didn’t expect: the on-device constraint made the product better. Tighter context forced cleaner prompting. The brief that comes out is more focused than early versions built with more headroom. Sometimes the limitation shapes the design in ways you wouldn’t choose intentionally. Curious whether others building AI products have noticed behavioral differences based on where inference happens. App is called Prelude if anyone wants context: https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576
-
-8h ago
-
----
-
-**[What's the best AI voice generator?](https://www.reddit.com/r/artificial/comments/1t3l8pa/whats_the_best_ai_voice_generator/)**
-
-I'm looking for a voice generator which let's me.make a voice over for videos. It doesn't need to be overly complicated, just something that takes text and converts it to voice. Free would be great but I'm willing to pay. There's like 50 different things im seeing, what's the best out there?
-
-13h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-The New York Times • 6h ago
+The New York Times • 12h ago
 
 ---
 
-**[Trump administration considering safety review for new AI models after Mythos](https://www.axios.com/2026/05/04/trump-white-house-ai-safety-tests-mythos)**
+**[Barack Obama Speaks Out Against Trump and AI Ape Video](https://variety.com/2026/politics/news/barack-obama-donald-trump-ai-ape-video-speak-out-1236736966/)**
 
-Axios • 7h ago
+Barack Obama explained his reaction to the AI video posted to Donald Trump‘s Truth Social account in February that depicted the Obamas as apes.
+
+Variety • 12h ago
 
 ---
 
-**[President Trump Could Vet AI Models Before Public Release](https://www.yahoo.com/news/articles/president-trump-could-vet-ai-020814284.html)**
+**[‘Weird even for him’: Nicolle on Trump’s bizarre string of posts, AI photo of himself with abs](https://www.ms.now/deadline-white-house/watch/weird-even-for-him-nicolle-on-trump-s-bizarre-string-of-posts-ai-photo-of-himself-with-abs-2498847811642)**
 
-Trump’s White House is reportedly considering pre-release reviews for powerful AI models amid growing cyber and security concerns.
+Questions about Donald Trump's mental fitness are growing louder after the president went on another late night posting spree, which included an AI photo of himself shirtless at the Lincoln Memorial. Nicolle Wallace is joined by Adam Kinzinger for analysis and reaction on Deadline White House.
 
-Yahoo • 1h ago
+MS NOW • 4h ago
 
 ---
 
@@ -145,29 +147,29 @@ Yahoo • 1h ago
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-OpenAI • 9h ago
+OpenAI • 12h ago
 
 ---
 
-**[As workers worry about AI, Nvidia's Jensen Huang says AI is 'creating an enormous number of jobs'](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)**
+**[Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong](https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong)**
 
-The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.
+In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguards
 
-TechCrunch • 1h ago
-
----
-
-**[AI Threatens Private Debt Recovery in Software: Davidson Kempner](https://www.bloomberg.com/news/articles/2026-05-05/ai-threatens-private-debt-recovery-in-software-davidson-kempner)**
-
-Bloomberg.com • 41m ago
+The Guardian • 1h ago
 
 ---
 
-**[Viral female history influencer turns out to be British male using AI](https://www.yahoo.com/entertainment/celebrity/articles/viral-female-history-influencer-turns-040000905.html)**
+**[States across the wildfire-prone Western US are using AI for early detection](https://katu.com/news/nation-world/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection-05-05-2026)**
 
-"Having a personality always helps on social media."
+On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona’s Coconino National Forest.
 
-Yahoo • 41m ago
+KATU • 52m ago
+
+---
+
+**[AI And The Future Of Work: No Skill Is Robot-Proof](https://www.forbes.com/sites/rodgerdeanduncan/2026/05/05/ai-and-the-future-of-work-no-skill-is-robot-proof/)**
+
+Forbes • 18m ago
 
 ---
 
@@ -175,7 +177,7 @@ Yahoo • 41m ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 14h ago
+Anthropic • 17h ago
 
 ---
 
@@ -183,13 +185,13 @@ Anthropic • 14h ago
 
 The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI
 
-CNBC • 11h ago
+CNBC • 14h ago
 
 ---
 
 **[Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
@@ -201,7 +203,7 @@ The New York Times • 11h ago
 
 Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.
 
-⬆️ 580 • 💬 548 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
+⬆️ 588 • 💬 556 • 1d ago • [letsbuyspiritair.com](https://letsbuyspiritair.com/)
 
 ---
 
@@ -209,7 +211,7 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 334 • 💬 110 • 8h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 381 • 💬 120 • 11h ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -225,7 +227,7 @@ As artificial intelligence (AI) tools become widely adopted, large language mode
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 281 • 💬 291 • 1d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 281 • 💬 292 • 2d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -233,7 +235,7 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 115 • 💬 106 • 12h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 116 • 💬 106 • 14h ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -263,7 +265,7 @@ AI is quietly entering the bedroom — and taking notes. A look at connected ple
 
 **[The Oscars just banned AI from winning acting and writing awards](https://news.ycombinator.com/item?id=47999346)**
 
-⬆️ 76 • 💬 62 • 1d ago • [gizmodo.com](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)
+⬆️ 76 • 💬 65 • 1d ago • [gizmodo.com](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740)
 
 ---
 
@@ -283,7 +285,7 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 44K • 👍 1K • 💬 232 • ⏱️ 21:59 • 10h ago
+👁️ 54K • 👍 2K • 💬 259 • ⏱️ 21:59 • 13h ago
 
 ---
 
@@ -293,17 +295,7 @@ FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 32K • 👍 1K • 💬 115 • ⏱️ 6:54 • 13h ago
-
----
-
-**[Big Tech&#39;s AI Plan Has Failed](https://www.youtube.com/watch?v=tR5adb2Ts6c)**
-
-GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYanshin Big Tech is spending over ...
-
-📺 Sasha Yanshin
-
-👁️ 56K • 👍 3K • 💬 466 • ⏱️ 16:06 • 12h ago
+👁️ 36K • 👍 1K • 💬 120 • ⏱️ 6:54 • 16h ago
 
 ---
 
@@ -313,37 +305,27 @@ We asked AI to show America without any Republicans.
 
 📺 The Babylon Bee
 
-👁️ 59K • 👍 5K • 💬 416 • ⏱️ 1:25 • 6h ago
+👁️ 71K • 👍 6K • 💬 465 • ⏱️ 1:25 • 8h ago
 
 ---
 
-**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
+**[Big Tech&#39;s AI Plan Has Failed](https://www.youtube.com/watch?v=tR5adb2Ts6c)**
 
-AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
+GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYanshin Big Tech is spending over ...
 
-📺 The Diary Of A CEO
+📺 Sasha Yanshin
 
-👁️ 718K • 👍 19K • 💬 3K • ⏱️ 1:58:11 • 21h ago
-
----
-
-**[Stop Paying For ChatGPT | Meta AI Already Does Everything I Pay For](https://www.youtube.com/watch?v=84YOGkVfF1g)**
-
-I tested the new Meta AI app for a full week and it replaced four AI tools I was paying for. Image generation. Vibe coding.
-
-📺 Nicky Saunders
-
-👁️ 1K • 👍 151 • 💬 1 • ⏱️ 2:33:36 • 59m ago
+👁️ 61K • 👍 3K • 💬 487 • ⏱️ 16:06 • 15h ago
 
 ---
 
-**[‘Weird even for HIM’: Nicolle on Trump’s BIZARRE string of posts, AI photo of himself with abs](https://www.youtube.com/watch?v=8Tdv9csTYcg)**
+**[The Lazy Way I Make Money With AI (2026)](https://www.youtube.com/watch?v=n0phBDPz8z0)**
 
-Questions about Donald Trump's mental fitness are growing louder after the president went on another late night posting spree, ...
+In this video, I walk through my "lazy roadmap" for making money with AI tools like ChatGPT and Claude. If you want to start selling ...
 
-📺 MS NOW
+📺 Travis Nicholson
 
-👁️ 32K • 👍 2K • 💬 374 • ⏱️ 10:43 • 1h ago
+👁️ 39K • 👍 2K • 💬 113 • ⏱️ 3:49 • 2d ago
 
 ---
 
@@ -353,17 +335,27 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 101K • 👍 7K • 💬 2K • ⏱️ 28:29 • 17h ago
+👁️ 113K • 👍 8K • 💬 2K • ⏱️ 28:29 • 19h ago
 
 ---
 
-**[The Most Underrated Layer Inside Every AI Model](https://www.youtube.com/watch?v=JHl_gwVoh-k)**
+**[Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!](https://www.youtube.com/watch?v=NdU6UdUKaYc)**
 
-Why does every AI model use normalization? Normalization layers are hidden inside every transformer model. In this video, we ...
+AI CEOs are selling us the dream of 'freedom', making billions off the fear of mass job loss! Scott Galloway reveals the truth is ...
 
-📺 Jia-Bin Huang
+📺 The Diary Of A CEO
 
-👁️ 7K • 👍 522 • 💬 77 • ⏱️ 13:25 • 13h ago
+👁️ 786K • 👍 20K • 💬 3K • ⏱️ 1:58:11 • 1d ago
+
+---
+
+**[I Bought EVERY AI Scam Ad...](https://www.youtube.com/watch?v=PiBnV9BUGSQ)**
+
+I bought every ai generated scam product I found on tiktok, temu, and aliexpress! ⚖️ Need A Lawyer   go to ...
+
+📺 Mike Off Record
+
+👁️ 468K • 👍 10K • 💬 611 • ⏱️ 12:11 • 2d ago
 
 ---
 
@@ -373,7 +365,17 @@ Scientists are warning that the next big AI threat may not look like AGI, ASI, o
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 257 • ⏱️ 15:10 • 2d ago
+👁️ 62K • 👍 2K • 💬 260 • ⏱️ 15:10 • 2d ago
+
+---
+
+**[5 Ways to Make Money in 2026 (with AI)](https://www.youtube.com/watch?v=Xl57Pki6ChE)**
+
+Steal my best AI secret codes & automations free https://sabrina.dev 33M+ views last month with Blotato https://blotato.com ...
+
+📺 Sabrina Ramonov 🍄
+
+👁️ 85K • 👍 4K • 💬 229 • ⏱️ 26:56 • 2d ago
 
 ---
 
@@ -389,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 534,942 • ❤️ 3,532 • 7d ago
+⬇️ 534,942 • ❤️ 3,536 • 8d ago
 
 ---
 
@@ -401,19 +403,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 132,595 • ❤️ 1,266 • 12d ago
-
----
-
-**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
-
-*Xiaomi MiMo*
-
-MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
-
-`text-generation` `1023.2B`
-
-⬇️ 11,812 • ❤️ 427 • 6d ago
+⬇️ 132,595 • ❤️ 1,270 • 12d ago
 
 ---
 
@@ -425,7 +415,19 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 11,950 • ❤️ 257 • 14h ago
+⬇️ 11,950 • ❤️ 258 • 17h ago
+
+---
+
+**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
+
+*Xiaomi MiMo*
+
+MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
+
+`text-generation` `1023.2B`
+
+⬇️ 11,812 • ❤️ 429 • 7d ago
 
 ---
 
@@ -437,7 +439,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 40,403 • ❤️ 226 • 2d ago
+⬇️ 40,403 • ❤️ 231 • 3d ago
 
 ---
 
@@ -449,7 +451,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 `text-generation` `33.4B`
 
-⬇️ 10,357 • ❤️ 212 • 1d ago
+⬇️ 10,357 • ❤️ 214 • 1d ago
 
 ---
 
@@ -459,7 +461,7 @@ Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic co
 
 talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931 English text, excelling at generating responses in a vintage style for applications like historical chatbots or creative writing.
 
-⬇️ 0 • ❤️ 227 • 11d ago
+⬇️ 0 • ❤️ 229 • 11d ago
 
 ---
 
@@ -471,7 +473,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 20,187 • ❤️ 180 • 22h ago
+⬇️ 20,187 • ❤️ 187 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,334,241 • ❤️ 1,108 • 11d ago
+⬇️ 1,334,241 • ❤️ 1,113 • 11d ago
 
 ---
 
@@ -495,7 +497,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 489,465 • ❤️ 943 • 7d ago
+⬇️ 489,465 • ❤️ 946 • 8d ago
 
 ---
 
@@ -509,7 +511,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 55 • 💬 3 • ⭐ 67,058 • 16mo ago
+▲ 56 • 💬 3 • ⭐ 67,921 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -523,7 +525,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 168 • 💬 10 • ⭐ 46,519 • 8mo ago
+▲ 169 • 💬 10 • ⭐ 46,519 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -537,7 +539,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 15 • 💬 3 • ⭐ 9,113 • 17d ago
+▲ 16 • 💬 3 • ⭐ 9,113 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -589,7 +591,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 79,012 • 32mo ago
+▲ 54 • 💬 1 • ⭐ 79,044 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -653,7 +655,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.1k • 🔱 670 • 6h ago
+⭐ 10.2k • 🔱 670 • 9h ago
 
 ---
 
@@ -663,7 +665,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 8.0k • 🔱 1.2k • 5d ago
+⭐ 8.0k • 🔱 1.2k • 6d ago
 
 ---
 
@@ -673,7 +675,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.4k • 🔱 487 • 18h ago
+⭐ 5.4k • 🔱 487 • 20h ago
 
 ---
 
@@ -683,7 +685,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.3k • 🔱 409 • 1h ago
+⭐ 5.4k • 🔱 411 • 1h ago
 
 ---
 
@@ -693,7 +695,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 357 • 18h ago
+⭐ 5.0k • 🔱 358 • 20h ago
 
 ---
 
@@ -713,7 +715,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.5k • 🔱 429 • 56m ago
+⭐ 3.5k • 🔱 431 • 1h ago
 
 ---
 
@@ -721,7 +723,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-⭐ 3.5k • 🔱 367 • 13d ago
+⭐ 3.5k • 🔱 367 • 14d ago
 
 ---
 
@@ -731,7 +733,7 @@ MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M
 
 `Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
 
-⭐ 2.7k • 🔱 345 • 5d ago
+⭐ 2.7k • 🔱 346 • 5d ago
 
 ---
 
