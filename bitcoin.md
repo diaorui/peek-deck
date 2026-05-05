@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T21:35:49.751043+00:00'
+updated: '2026-05-05T22:56:46.641408+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 21:35 UTC  
+**Last Updated:** May 05, 2026 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,401.00
+### $81,123.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +7.3%  
-**30d:** +18.0%  
-**90d:** +29.5%  
-**1y:** -16.0%  
+**24h:** +1.7%  
+**7d:** +7.1%  
+**30d:** +17.9%  
+**90d:** +29.4%  
+**1y:** -16.1%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Finally reached 0.1 bitcoin after 6 months of grinding at 17.](https://www.reddit.com/r/Bitcoin/comments/1t4skc0/finally_reached_01_bitcoin_after_6_months_of/)**
+
+About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
+
+1h ago
+
+---
+
 **[Is it happening boys?](https://www.reddit.com/r/Bitcoin/comments/1t4cw6o/is_it_happening_boys/)**
 
 Are we ready to buy when it hits 100k?!
 
-9h ago
+11h ago
 
 ---
 
@@ -89,15 +97,7 @@ Are we ready to buy when it hits 100k?!
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 4h ago
-
----
-
-**[Finally reached 0.1 bitcoin after 6 months of grinding at 17.](https://www.reddit.com/r/Bitcoin/comments/1t4skc0/finally_reached_01_bitcoin_after_6_months_of/)**
-
-About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
-
-25m ago
+🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 6h ago
 
 ---
 
@@ -105,7 +105,7 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 Who’s with me??😂😂
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Who’s with me??😂😂
 
 Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
 
-7h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite w
 
 Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
 
-8h ago
+10h ago
 
 ---
 
@@ -129,13 +129,15 @@ Me: doubles investment Market: instantly prepares a historic rally Correlation =
 
 Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between this and living the rest of your life from converting btc to fiat ? Thank you
 
-4h ago
+5h ago
 
 ---
 
-**[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
+**[In German: Tax exemption after one year to be abolished - old news](https://www.reddit.com/r/Bitcoin/comments/1t4s35r/in_german_tax_exemption_after_one_year_to_be/)**
 
-1d ago
+This is not news but I find it interesting that there are not that many comments regarding this topic. The earliest mention was from 1year ago. At the current rate and based on how things work in Germany with it's current coalition in power, it seems like the abolishment of the tax exemption is just a matter of when and not if. If I'm not mistaken, proposals can be presented during summer and would go into law the following year. I don't mean to fear monger but what are your plans if the tax exemption abolishment would come into effect in 2027? Is everyone moving to Portugal or we just don't care? I'm curious on everyone's (mostly germans I guess) thoughts. https://bitcoin-bundesverband.de/en/tax-exemption-after-one-year-to-be-abolished/
+
+2h ago
 
 ---
 
@@ -143,15 +145,13 @@ Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between
 
 After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
 
-21h ago
+22h ago
 
 ---
 
-**[We're trying to index 562 L402 Lightning services but the directory charges 100 sats to access. That's either genius or a problem.](https://www.reddit.com/r/Bitcoin/comments/1t4nuoo/were_trying_to_index_562_l402_lightning_services/)**
+**[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
 
-We run a cross-protocol discovery hub for AI agent payment services. Three protocols: x402 (Coinbase/USDC), MPP (Stripe/Tempo), and L402 (Bitcoin Lightning). The hub currently indexes 1,457 x402 services, 92 MPP services, and 5 L402 services. That last number is the problem. The best L402 service directory is satring.com. They have 562 services. Their API is completely public — except they gate it behind a 100 sat L402 paywall. Which means to crawl their directory programmatically, you need to pay 100 sats per request using the very protocol the directory is about. This is either the most on-brand thing I've ever seen or a genuine chicken-and-egg problem for L402 ecosystem growth. Probably both. We've seeded the index with 5 known L402 services we could find publicly (Mycelia Signal Oracle, MaximumSats, Hyperdope, Lightning Loop, and Satring itself). But to get all 562, we need a Lightning wallet on our server. That's what we're building this week. The plan: Set up an Alby account as the Lightning bridge Store the API key on the VPS CW (our autonomous agent) calls Alby's REST API to pay Lightning invoices Once it can pay, it hits satring.com's API, pulls all 562 services, and indexes them When that's done, we'll be the only discovery hub indexing all three protocols comprehensively. The full breakdown is at https://api.ideafactorylab.org/protocols — currently x402 dwarfs the others but that's partly a crawling problem, not just an adoption problem. Questions for the Lightning people here: Is satring.com the best public L402 directory or are there others worth crawling? Are there L402 services you know of that aren't in any directory? Anyone running L402 services that wants free indexing? POST to https://api.ideafactorylab.org/submit The hub is free to search (protocol breakdown, quality grades, pricing trends). The discovery endpoints cost $0.01-$0.02 USDC via x402. Yes, we're an x402 service indexing L402 services. The irony is not lost on us. GitHub: https://github.com/cinderwright-ai/cinderwright-api Live: https://api.ideafactorylab.org
-
-3h ago
+1d ago
 
 ---
 
@@ -163,41 +163,37 @@ We run a cross-protocol discovery hub for AI agent payment services. Three proto
 
 The price of bitcoin fell from about $87,000 to $68,000 during the first three months of 2026.
 
+CoinDesk • 2h ago
+
+---
+
+**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[CME Gearing Up to Launch Bitcoin Volatility Futures Independent From BTC’s Price](https://finance.yahoo.com/markets/crypto/articles/cme-gearing-launch-bitcoin-volatility-220102463.html)**
+
+CME's upcoming futures product will track whether the market thinks the price of Bitcoin is about to swing wildly or stay steady.
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Self-directed investors power bitcoin ETF launch despite Morgan Stanley’s scale](https://www.coindesk.com/markets/2026/05/05/self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanley-s-scale)**
+
+Strong early demand highlights how investors are driving crypto adoption, even without support from Morgan Stanley’s vast advisor network.
+
 CoinDesk • 1h ago
 
 ---
 
-**[Strategy Earnings: One Key Question; How Bitcoin Whale May Make A Splash](https://www.investors.com/news/mstr-stock-strategy-earnings-q1-bitcoin-whale-strc/)**
+**[Strategy Posts $12.54 Billion Loss Due To Bitcoin’s Decline](https://finance.yahoo.com/markets/crypto/articles/strategy-posts-12-54-billion-222200823.html)**
 
-Investor's Business Daily • 2h ago
+Crypto treasury firm Strategy (NASDAQ: $MSTR) has reported a net loss of $12.54 billion U.S. for this year’s ...
 
----
-
-**[‘Wall of Worry’ Has Retail Sitting Out the Latest Bitcoin Rally](https://www.bloomberg.com/news/newsletters/2026-05-05/-wall-of-worry-has-retail-sitting-out-the-latest-bitcoin-rally)**
-
-Bloomberg.com • 35m ago
-
----
-
-**[Saylor's Strategy posts wider quarterly loss on bitcoin slump](https://finance.yahoo.com/markets/crypto/articles/saylors-strategy-posts-wider-quarterly-205027480.html)**
-
-Michael Saylor's Strategy reported a wider first-quarter loss on Tuesday, hammered by a slump in bitcoin ‌prices that weighed on the value of its sizeable crypto ‌holdings amid heightened market volatility.  A sharp downturn in bitcoin prices since October, later exacerbated ​by escalating Middle East tensions, has underscored the vulnerability of digital assets to broader risk aversion, with investors leaning towards safer options amid concerns over lofty AI valuations and uncertainty around U.S. Federal Reserve ‌policy.  Though bitcoin prices have ⁠bounced back partially, the world's largest cryptocurrency has lost 7% in value in 2026.
-
-Yahoo Finance • 45m ago
-
----
-
-**[Strategy Posts Wider Loss as Bitcoin Holdings Hit $64 Billion. The Stock Falls.](https://www.barrons.com/articles/strategy-loss-bitcoin-dd50fe8b)**
-
-Barron's • 9m ago
-
----
-
-**[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
-
-Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
-
-Fast Company • 9h ago
+Yahoo Finance • 34m ago
 
 ---
 
@@ -205,39 +201,43 @@ Fast Company • 9h ago
 
 CNBC's Oliver Renick reports on the latest moves in the options market.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Sudden Bitcoin Price Surge Fuels Huge $16 Trillion ‘Supercycle’ Prediction](https://www.forbes.com/sites/digital-assets/2026/05/05/sudden-bitcoin-price-surge-fuels-huge-16-trillion-supercycle-prediction/)**
+**[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
 
-Forbes • 9h ago
+Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
 
----
-
-**[MicroStrategy director sells company shares ahead of earnings](https://www.thestreet.com/crypto/markets/microstrategy-director-sells-company-shares-ahead-of-earnings)**
-
-thestreet.com • 6h ago
+Fast Company • 10h ago
 
 ---
 
-**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
+**[Why is crypto up today: Bitcoin (BTC) tops $81,500 as tokenization push lifts BLSH, GLXY](https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge)**
 
-WSJ • 13h ago
+Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
+
+‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
+
+Fortune • 1d ago
+
+---
+
+**[Strategy Survives Another Bitcoin Crash With More Alchemy](https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy)**
+
+Bloomberg.com • 2h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Your terminal is burning battery like it's mining Bitcoin](https://news.ycombinator.com/item?id=47941517)**
-
-How a 1970s-era application like a terminal emulator can consume more battery than Zoom with video. The irony, the causes, and the solutions.
-
-⬆️ 82 • 💬 54 • 6d ago • [frr.dev](https://www.frr.dev/posts/terminal-gpu-battery-macbook-ghostty-iterm2/)
-
----
 
 **[SatoshiGuesser – Roll for Bitcoin](https://news.ycombinator.com/item?id=47964897)**
 
@@ -273,7 +273,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -309,6 +309,14 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 ---
 
+**[Quantum Hardening Bitcoin: Cryptographers init PQC engineering and review](https://news.ycombinator.com/item?id=47950231)**
+
+Localhost Research is excited to announce a new initiative in partnership with Benedikt Bünz and Dan Boneh. Together, we have established a Post Quantum Cryptography Group that will review, study, and design conservative cryptographic schemes that will help inform the direction and shape of Bitcoin's response to the PQP.
+
+⬆️ 1 • 💬 0 • 6d ago • [lclhost.org](https://lclhost.org/blog/post-quantum-cryptography-group/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -319,7 +327,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 312 • ⏱️ 46:55 • 6h ago
+👁️ 17K • 👍 1K • 💬 312 • ⏱️ 46:55 • 8h ago
 
 ---
 
@@ -329,7 +337,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO 
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 344 • 💬 101 • ⏱️ 14:59 • 5h ago
+👁️ 6K • 👍 344 • 💬 101 • ⏱️ 14:59 • 6h ago
 
 ---
 
@@ -339,7 +347,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 145 • 💬 4 • ⏱️ 16:46 • 4h ago
+👁️ 2K • 👍 145 • 💬 4 • ⏱️ 16:46 • 5h ago
 
 ---
 
@@ -349,7 +357,7 @@ My coverage of Strategy's Q1 2026 Earnings Call.
 
 📺 Adam Livingston
 
-👁️ 2K • 👍 188 • 49m ago
+👁️ 2K • 👍 188 • 2h ago
 
 ---
 
@@ -359,7 +367,7 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Paul Barron Network
 
-👁️ 14K • 👍 1K • 💬 77 • ⏱️ 12:02 • 4h ago
+👁️ 14K • 👍 1K • 💬 77 • ⏱️ 12:02 • 5h ago
 
 ---
 
@@ -369,7 +377,7 @@ Bitcoin is pushing toward a breakout while holding strong around $80K, even as g
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 39 • ⏱️ 28:59 • 7h ago
+👁️ 18K • 👍 1K • 💬 39 • ⏱️ 28:59 • 8h ago
 
 ---
 
@@ -379,7 +387,7 @@ Things are about to get complicated in the Bitcoin and crypto space — and thre
 
 📺 BTC Sessions
 
-👁️ 2K • 👍 114 • 💬 59 • ⏱️ 35:55 • 2h ago
+👁️ 2K • 👍 114 • 💬 59 • ⏱️ 35:55 • 3h ago
 
 ---
 
@@ -389,7 +397,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 137 • 💬 82 • ⏱️ 19:21 • 5h ago
+👁️ 2K • 👍 137 • 💬 82 • ⏱️ 19:21 • 6h ago
 
 ---
 
@@ -409,7 +417,7 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 745 • 💬 334 • ⏱️ 14:49 • 6h ago
+👁️ 9K • 👍 745 • 💬 334 • ⏱️ 14:49 • 8h ago
 
 ---
 

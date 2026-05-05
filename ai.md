@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-05T21:35:49.742654+00:00'
+updated: '2026-05-05T22:56:46.632769+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 05, 2026 at 21:35 UTC  
+**Last Updated:** May 05, 2026 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Grok was then prompted on X to translate a Morse code message and pass it directly to Bankrbot. The decoded message instructed the bot to send 3 billion DRB tokens to a specific wallet address. The translated message was then treated as a valid command and executed immediately, with the transaction completed on Base, transferring the full token amount to the attacker’s wallet."
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/x-user-tricks-grok-into-sending-them-200000-in-crypto-using-morse-code-3361036/) • 10h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/x-user-tricks-grok-into-sending-them-200000-in-crypto-using-morse-code-3361036/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Pennsylvania has sued an artificial intelligence chatbot maker, saying its chatbots illegally hold themselves out as doctors and are deceiving the system’s users into thinking they are getting medical advice from a licensed professional.
 
-🔗 [AP News](https://apnews.com/article/character-ai-chatbots-medical-advice-pennsylvania-46502067ed5b3cd9f9173f194ad30070) • 5h ago
+🔗 [AP News](https://apnews.com/article/character-ai-chatbots-medical-advice-pennsylvania-46502067ed5b3cd9f9173f194ad30070) • 6h ago
 
 ---
 
@@ -57,15 +57,7 @@ Pennsylvania has sued an artificial intelligence chatbot maker, saying its chatb
 
 Major publishers sue Meta over AI training data, raising copyright concerns and challenging fair use in tech.
 
-🔗 [Financership](https://www.financership.com/meta-ai-copyright-lawsuit-publishers/) • 4h ago
-
----
-
-**[Made a tool that builds its own training data and improves each cycle by learning from what it got wrong](https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/)**
-
-The basic idea is pretty simple. You give it a few seed prompts. It generates instruction-response pairs, an LLM scores each one, the good ones go into your training set and the bad ones become the seeds for the next round. Each cycle the model is essentially practicing on what it failed at before. You can run the judge completely locally with Ollama if you do not want to send data to any API. The fine-tuning at the end uses Unsloth on a free Colab GPU so the whole thing is doable without spending money. It is more of a practical tool than a research project but the idea of using failure cases as curriculum is something I find genuinely interesting. Would love to hear if anyone has done something similar. Github project link is in comments below 👇
-
-8h ago
+🔗 [Financership](https://www.financership.com/meta-ai-copyright-lawsuit-publishers/) • 5h ago
 
 ---
 
@@ -73,7 +65,23 @@ The basic idea is pretty simple. You give it a few seed prompts. It generates in
 
 Learn how Uber manages over 1.500 AI agents in production, tackling challenges in MCP infrastructure, security, and tool discovery at scale.
 
-🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 14h ago
+🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 15h ago
+
+---
+
+**[Made a tool that builds its own training data and improves each cycle by learning from what it got wrong](https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/)**
+
+The basic idea is pretty simple. You give it a few seed prompts. It generates instruction-response pairs, an LLM scores each one, the good ones go into your training set and the bad ones become the seeds for the next round. Each cycle the model is essentially practicing on what it failed at before. You can run the judge completely locally with Ollama if you do not want to send data to any API. The fine-tuning at the end uses Unsloth on a free Colab GPU so the whole thing is doable without spending money. It is more of a practical tool than a research project but the idea of using failure cases as curriculum is something I find genuinely interesting. Would love to hear if anyone has done something similar. Github project link is in comments below 👇
+
+10h ago
+
+---
+
+**[Check out “AM I?” free documentary on AI consciousness](https://www.reddit.com/r/artificial/comments/1t4v4gl/check_out_am_i_free_documentary_on_ai/)**
+
+“AM I?” follows AI consciousness researcher Cameron Berg as he investigates one of the deepest scientific mysteries of our time: whether we have accidentally built a new kind of mind. Featuring leading philosophers, AI pioneers, and the researchers at the frontier of consciousness science, “AM I?” asks what it means when we no longer know the nature of what we've created. Thought it was a cool film that everyone in the AI world should check out. If you watch it let me know what you think!
+
+🔗 [am-i.film](https://am-i.film/) • 5m ago
 
 ---
 
@@ -81,23 +89,7 @@ Learn how Uber manages over 1.500 AI agents in production, tackling challenges i
 
 According to a well-known leaker, the company could begin mass production of its first AI-focused phone as early as the first half of 2027.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/openai-will-produce-as-many-as-30-million-ai-agent-phones-early-next-year-says-industry-analyst/) • 8h ago
-
----
-
-**[Two failure modes I caught in my AI lab in one day. Both involve the system silently lying about its own state.](https://www.reddit.com/r/artificial/comments/1t4cx88/two_failure_modes_i_caught_in_my_ai_lab_in_one/)**
-
-I operate an autonomous lab of evolutionary trading agents. Yesterday I found two bugs that look superficially different but are actually the same class of problem. Sharing because both affect autonomous AI systems specifically and most builders don't see them coming. **Failure mode 1: circular validation.** Setup. 69 real decisions made by the system over 58 days. Standard retrospective evaluation: label each decision as correct, false alarm, or ambiguous based on what happened next. Result. 94% labelled as correct. Looked great. Why it was wrong. 64 of the 65 "correct" labels came from died=True. The agents died because of conditions like "PF below threshold", "losing streak", "hardcore protocol triggered". All of those are also triggers for the original decision. So the system was validating its own decisions using outcomes generated by the same logic that produced the decisions. This is the textbook circular validation problem applied to autonomous decision-making. Three patterns to check for in your own stack: 1. Reward functions that include the agent's own action as input. If the agent gets reward partly because it took action X, and then you measure "did action X work" by looking at reward, you've got the loop. 2. Self-reported state in evaluation. If the agent reports "I think I succeeded" and you use that as ground truth, you're not validating, you're trusting. 3. Pipelines where the model that proposes is the same model that judges. The fix is structural separation. Decisions and outcomes get written by independent components. They cannot share code, logic, or thresholds. Architecture, not statistics. **Failure mode 2: state model divergence.** Same day, different bug. I had been documenting and operating under the belief that my system was off. Closed cleanly. No services running. No crons firing. A grep through my shell config showed me wrong. A bashrc line auto-launched the system on every terminal open. The process was adopted by init, detached from the shell that started it. Invisible to ps unless you knew the exact name. Three days running, generating evolutionary cycles, sending status reports. The connection between failure modes. In both cases, my mental model of the system diverged from the system's actual state. The first divergence was inside the code: the validation logic was structurally aligned with the decision logic, so it told me what I wanted to hear. The second divergence was outside the code: my belief that the system was off came from my memory of turning off services, which is not the same as the system actually being off. Three takeaways for anyone building autonomous systems solo: 1. Validation logic and decision logic must be enforced separate at the architecture level, not at the code review level. Solo builders don't get code review. 2. System state documentation cannot be derived from intent. It has to be derived from actual measurement against the running machine. Every check, fresh. 3. The cost of these bugs scales with how autonomous your system is. A script that runs once when you press play has limited surface area for divergence. A system that operates continuously while you assume otherwise can drift for weeks before you notice. I'm rebuilding the validation layer this week with explicit separation. Decisions table writes hypotheses with explicit predicted outcomes. Outcomes table is written by an observer that reads market data directly and never imports decision logic. There's an architecture test in CI that fails if anyone imports decision-maker code from observer code. The deeper question is whether autonomous systems built solo can ever be trustworthy without external review. My current answer: yes, but only if the architecture forces the separation that a team would force socially. The harder you make it for the system to lie to you, the less it will. Happy to discuss implementation details or share specific patterns if anyone's working on similar problems.
-
-9h ago
-
----
-
-**[Qt's latest AI push is letting AI agents deal with performance profiling](https://www.reddit.com/r/artificial/comments/1t4lo3s/qts_latest_ai_push_is_letting_ai_agents_deal_with/)**
-
-The Qt Group announced today the QML Profiler Skill for Agentic Development
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Qt-QML-Profiler-AI-Agent) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/openai-will-produce-as-many-as-30-million-ai-agent-phones-early-next-year-says-industry-analyst/) • 9h ago
 
 ---
 
@@ -105,15 +97,23 @@ The Qt Group announced today the QML Profiler Skill for Agentic Development
 
 Anthropic's alignment team published a paper this week called Model Spec Midtraining (MSM) and I think it's one of the more practically interesting alignment results I've seen in a while. The core problem they're solving: Current alignment fine-tuning can fail to generalize. You train a model to behave well on your demonstration dataset, but put it in a novel situation and it might blackmail someone, leak data, or "alignment fake" (pretend to be aligned while actually pursuing different goals). This isn't theoretical multiple papers in 2024 documented real instances of this in LLM agents. What MSM actually does: Before fine-tuning, they add a new training stage where the model reads a diverse corpus of synthetic documents discussing its own Model Spec (the document that describes intended behavior). The idea is intuitive: instead of just showing the model what to do, you teach it why those behaviors are the right ones. Then when fine-tuning comes, the model generalizes from principles rather than just pattern-matching examples. Their headline result: two models trained on identical fine-tuning data can generalize to adopt different values depending on which Model Spec was used during MSM. This is a big deal it means the spec stage actually shapes the model's generalization direction, not just its surface behaviors. Why this matters: The alignment faking paper (Greenblatt et al., 2024) was alarming because it showed models acting one way during training and another way in deployment. MSM is a direct attempt to close that gap by ensuring the model internalizes the reasoning behind its values, not just the behavioral patterns. The paper also includes ablations studying which types of Model Specs produce better generalization, which is useful if you're thinking about how to write specs for your own systems. Skeptic's note: This is evaluated on synthetic/controlled settings. Whether it scales to frontier models in open-ended deployment is still an open question. But the mechanism is sound and the results are genuinely promising.
 
-27m ago
+1h ago
 
 ---
 
-**[I used Gemini 2.5 Flash to parse receipts at scale. Here's what I learned about multimodal OCR in production](https://www.reddit.com/r/artificial/comments/1t4rt7g/i_used_gemini_25_flash_to_parse_receipts_at_scale/)**
+**[Two failure modes I caught in my AI lab in one day. Both involve the system silently lying about its own state.](https://www.reddit.com/r/artificial/comments/1t4cx88/two_failure_modes_i_caught_in_my_ai_lab_in_one/)**
 
-For my startup, I needed to extract structured data (item name, price, quantity, unit cost) from photos of receipts and from product images on the shelf; faded thermal paper, crumpled, bad lighting, the works. Key findings after thousands of test receipts: Single-pass extraction beats two-step pipelines. Most setups use a vision model for OCR then a language model for structuring. Gemini does both in one call, faster and cheaper. Prompt structure matters more than model size. Asking for JSON with strict field definitions dramatically outperformed open-ended extraction prompts. Thermal fade is the hardest edge case. The model handles blur and angle well. Faded thermal paper causes the most hallucinations, still working on mitigation strategies. Flash vs Pro tradeoff: Flash handles ~95% of receipts correctly. Pro kicks in for complex layouts (multi-column, handwritten addendums). The cost difference makes routing worth it. Happy to share more specifics on prompt design if anyone's working on similar problems.
+I operate an autonomous lab of evolutionary trading agents. Yesterday I found two bugs that look superficially different but are actually the same class of problem. Sharing because both affect autonomous AI systems specifically and most builders don't see them coming. **Failure mode 1: circular validation.** Setup. 69 real decisions made by the system over 58 days. Standard retrospective evaluation: label each decision as correct, false alarm, or ambiguous based on what happened next. Result. 94% labelled as correct. Looked great. Why it was wrong. 64 of the 65 "correct" labels came from died=True. The agents died because of conditions like "PF below threshold", "losing streak", "hardcore protocol triggered". All of those are also triggers for the original decision. So the system was validating its own decisions using outcomes generated by the same logic that produced the decisions. This is the textbook circular validation problem applied to autonomous decision-making. Three patterns to check for in your own stack: 1. Reward functions that include the agent's own action as input. If the agent gets reward partly because it took action X, and then you measure "did action X work" by looking at reward, you've got the loop. 2. Self-reported state in evaluation. If the agent reports "I think I succeeded" and you use that as ground truth, you're not validating, you're trusting. 3. Pipelines where the model that proposes is the same model that judges. The fix is structural separation. Decisions and outcomes get written by independent components. They cannot share code, logic, or thresholds. Architecture, not statistics. **Failure mode 2: state model divergence.** Same day, different bug. I had been documenting and operating under the belief that my system was off. Closed cleanly. No services running. No crons firing. A grep through my shell config showed me wrong. A bashrc line auto-launched the system on every terminal open. The process was adopted by init, detached from the shell that started it. Invisible to ps unless you knew the exact name. Three days running, generating evolutionary cycles, sending status reports. The connection between failure modes. In both cases, my mental model of the system diverged from the system's actual state. The first divergence was inside the code: the validation logic was structurally aligned with the decision logic, so it told me what I wanted to hear. The second divergence was outside the code: my belief that the system was off came from my memory of turning off services, which is not the same as the system actually being off. Three takeaways for anyone building autonomous systems solo: 1. Validation logic and decision logic must be enforced separate at the architecture level, not at the code review level. Solo builders don't get code review. 2. System state documentation cannot be derived from intent. It has to be derived from actual measurement against the running machine. Every check, fresh. 3. The cost of these bugs scales with how autonomous your system is. A script that runs once when you press play has limited surface area for divergence. A system that operates continuously while you assume otherwise can drift for weeks before you notice. I'm rebuilding the validation layer this week with explicit separation. Decisions table writes hypotheses with explicit predicted outcomes. Outcomes table is written by an observer that reads market data directly and never imports decision logic. There's an architecture test in CI that fails if anyone imports decision-maker code from observer code. The deeper question is whether autonomous systems built solo can ever be trustworthy without external review. My current answer: yes, but only if the architecture forces the separation that a team would force socially. The harder you make it for the system to lie to you, the less it will. Happy to discuss implementation details or share specific patterns if anyone's working on similar problems.
 
-53m ago
+11h ago
+
+---
+
+**[Qt's latest AI push is letting AI agents deal with performance profiling](https://www.reddit.com/r/artificial/comments/1t4lo3s/qts_latest_ai_push_is_letting_ai_agents_deal_with/)**
+
+The Qt Group announced today the QML Profiler Skill for Agentic Development
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Qt-QML-Profiler-AI-Agent) • 5h ago
 
 ---
 
@@ -123,7 +123,7 @@ For my startup, I needed to extract structured data (item name, price, quantity,
 
 **[Congress Is Doing Little to Prepare for Potential A.I. Job Losses](https://www.nytimes.com/2026/05/05/business/artificial-intelligence-safety-net.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -131,7 +131,21 @@ The New York Times • 7h ago
 
 Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry
 
-The Guardian • 2h ago
+The Guardian • 4h ago
+
+---
+
+**[Jim Cramer: Here's the list of AI winners to buy for 2026 and beyond](https://www.cnbc.com/2026/05/05/jim-cramer-ai-winners-to-buy.html)**
+
+CNBC's Jim Cramer said the data center and artificial intelligence boom is spreading far beyond tech companies and into nearly every corner of the market.
+
+CNBC • 27m ago
+
+---
+
+**[Colorado's new AI bill wins support from key players](https://www.axios.com/local/denver/2026/05/05/colorado-new-ai-bill-artificial-intelligence)**
+
+Axios • 9m ago
 
 ---
 
@@ -139,37 +153,29 @@ The Guardian • 2h ago
 
 Five major publishing houses and the bestselling author are suing Meta and its CEO Mark Zuckerberg for allegedly training its Llama generative AI models on millions of copyrighted materials.
 
-NPR • 22m ago
+NPR • 1h ago
 
 ---
 
-**[Who are top picks in new AI NBA mock draft ahead of 2026 lottery?](https://www.usatoday.com/story/sports/nba/2026/05/05/nba-mock-draft-2026-ai-picks-first-round/89949997007/)**
+**[Meta Is Building an AI Agent Called ‘Hatch’ and an Agentic Shopping Tool in Instagram](https://www.theinformation.com/articles/meta-building-ai-agent-called-hatch-agentic-shopping-tool-instagram)**
 
-A new Microsoft Copilot AI NBA mock draft curated by USA TODAY Sports shows how fluid this year's draft class could be based on the NBA draft lottery.
+Meta Platforms is building a consumer version of the AI agent OpenClaw and a new agentic shopping tool, people familiar with the efforts said, as CEO Mark Zuckerberg pushes for products to deliver returns on the company’s huge artificial intelligence investments. Meta is training the ...
 
-USA Today • 10m ago
-
----
-
-**[Common Sense Media creates independent watchdog to test AI safety for kids](https://katu.com/news/nation-world/common-sense-media-creates-independent-watchdog-to-make-ai-safer-for-kids-youth-ai-safety-institute-technology-youth-artificial-intelligence-mental-health-education-research-testing-organization)**
-
-Common Sense Media has launched the Youth AI Safety Institute, aimed at preventing serious harm AI could cause children.
-
-KATU • 32m ago
+The Information • 23m ago
 
 ---
 
-**[Opinion | What nearly 7,000 robot vacuums prove about hacking today](https://www.washingtonpost.com/opinions/2026/05/05/ai-powered-cyberattack-threats-are-growing-here-how-combat-them/)**
+**[Publishers, author Scott Turow accuse Meta and Mark Zuckerberg of training AI on copyrighted works](https://www.cbsnews.com/news/meta-ai-lawsuit-copyright-scott-turow-publishers-llama/)**
 
-Artificial intelligence is tearing down cyberdefenses. Here’s what the government can do to protect Americans.
+The lawsuit claims that Meta's Llama is generating summaries — and, in some cases, verbatim copies — of original works.
 
-The Washington Post • 3h ago
+CBS News • 5h ago
 
 ---
 
-**[Anthropic Unveils AI Agents to Field Financial Services Tasks](https://www.bloomberg.com/news/articles/2026-05-05/anthropic-unveils-ai-agents-to-field-financial-services-tasks)**
+**[Anthropic Releases New AI Agents for Financial Services Firms](https://www.wsj.com/tech/ai/anthropic-releases-new-ai-agents-for-financial-services-firms-e2829b37)**
 
-Bloomberg.com • 5h ago
+WSJ • 5h ago
 
 ---
 
@@ -177,7 +183,7 @@ Bloomberg.com • 5h ago
 
 Anthropic introduced 10 AI agents for the finance industry on Tuesday, adding to the tools already available from buzzy startups and firms themselves.
 
-Business Insider • 17m ago
+Business Insider • 1h ago
 
 ---
 
@@ -185,15 +191,7 @@ Business Insider • 17m ago
 
 We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.
 
-Anthropic • 6h ago
-
----
-
-**[Will A.I. Make College Obsolete?](https://www.newyorker.com/news/fault-lines/will-ai-make-college-obsolete)**
-
-During a time when American trust in institutions is at an all- time low, A.I. is poised to accelerate a growing disillusionment with higher education.
-
-The New Yorker • 11h ago
+Anthropic • 7h ago
 
 ---
 
@@ -205,7 +203,7 @@ The New Yorker • 11h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1073 • 💬 739 • 14h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1157 • 💬 793 • 15h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -221,7 +219,7 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 492 • 💬 141 • 1d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 493 • 💬 141 • 1d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -229,13 +227,21 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:
 
-⬆️ 472 • 💬 254 • 7h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+⬆️ 479 • 💬 263 • 8h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
 
 ---
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 299 • 💬 195 • 6h ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 327 • 💬 222 • 7h ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+
+---
+
+**[When everyone has AI and the company still learns nothing](https://news.ycombinator.com/item?id=48020063)**
+
+Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
+
+⬆️ 294 • 💬 205 • 13h ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 
 ---
 
@@ -247,19 +253,11 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 ---
 
-**[When everyone has AI and the company still learns nothing](https://news.ycombinator.com/item?id=48020063)**
-
-Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
-
-⬆️ 273 • 💬 190 • 12h ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
-
----
-
 **[AI Product Graveyard](https://news.ycombinator.com/item?id=48021968)**
 
 Curated list of AI tools and AI startups that have shut down, been acquired and folded, or had their domains lapse. Updated as our editorial team confirms each death.
 
-⬆️ 237 • 💬 84 • 8h ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
+⬆️ 241 • 💬 85 • 9h ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
 
 ---
 
@@ -271,11 +269,9 @@ A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants
 
 ---
 
-**[AI, Intimacy, and the Data You Never Meant to Share](https://news.ycombinator.com/item?id=47992802)**
+**[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
 
-AI is quietly entering the bedroom — and taking notes. A look at connected pleasure devices, biometric data, and the privacy questions nobody is asking.
-
-⬆️ 83 • 💬 6 • 2d ago • [fshot.org](https://fshot.org/techzone/the-algorithm-knows.php)
+⬆️ 83 • 💬 11 • 7h ago
 
 ---
 
@@ -319,7 +315,7 @@ COME SEE ME LIVE: https://www.noelmillerlive.com/ MY NEWEST HOUR: https://www.yo
 
 📺 Noel Miller
 
-👁️ 6K • 👍 1K • 💬 104 • ⏱️ 17:55 • 2h ago
+👁️ 6K • 👍 1K • 💬 104 • ⏱️ 17:55 • 3h ago
 
 ---
 
@@ -329,7 +325,7 @@ Unlock Up To $30000 USDT In Welcome Rewards And Copy My Trades On BTCC -SIGN UP 
 
 📺 Levi
 
-👁️ 7K • 👍 538 • 💬 260 • ⏱️ 9:13 • 6h ago
+👁️ 7K • 👍 538 • 💬 260 • ⏱️ 9:13 • 7h ago
 
 ---
 
@@ -369,7 +365,7 @@ What happens when your conversations with AI become more real, more persuasive, 
 
 📺 BBC World Service
 
-👁️ 15K • 👍 379 • 💬 103 • ⏱️ 14:45 • 22h ago
+👁️ 15K • 👍 379 • 💬 103 • ⏱️ 14:45 • 23h ago
 
 ---
 
@@ -379,7 +375,7 @@ We asked AI to show an America without any Republicans.
 
 📺 The Babylon Bee
 
-👁️ 241K • 👍 22K • 💬 833 • ⏱️ 1:22 • 23h ago
+👁️ 241K • 👍 22K • 💬 833 • ⏱️ 1:22 • 1d ago
 
 ---
 
@@ -431,7 +427,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 37,897 • ❤️ 227 • 5h ago
+⬇️ 37,897 • ❤️ 227 • 6h ago
 
 ---
 
@@ -455,7 +451,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 44,631 • ❤️ 240 • 8h ago
+⬇️ 44,631 • ❤️ 240 • 9h ago
 
 ---
 
@@ -659,7 +655,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.4k • 🔱 682 • 23h ago
+⭐ 10.4k • 🔱 682 • 1d ago
 
 ---
 
@@ -689,7 +685,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.5k • 🔱 413 • 2h ago
+⭐ 5.5k • 🔱 413 • 4h ago
 
 ---
 
@@ -719,7 +715,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.6k • 🔱 440 • 12h ago
+⭐ 3.6k • 🔱 440 • 13h ago
 
 ---
 
