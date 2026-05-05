@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-05T11:03:08.966917+00:00'
+updated: '2026-05-05T12:48:03.037897+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 11:03 UTC  
+**Last Updated:** May 05, 2026 at 12:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,824.40
+### $81,270.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +6.7%  
-**30d:** +17.4%  
-**90d:** +28.8%  
-**1y:** -16.5%  
+**24h:** +3.2%  
+**7d:** +7.3%  
+**30d:** +18.0%  
+**90d:** +29.6%  
+**1y:** -16.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1613.86B
+**Market Cap:** $1627.33B
 Rank #1
 
-**Circulating Supply:** 20,023,521 BTC
+**Circulating Supply:** 20,023,771 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.1%
+-35.5%
 
 **All-Time Low:** $67.81
-+118791.0%
++119758.4%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Who’s with me??😂😂
 
-5h ago
+7h ago
 
 ---
 
 **[Jack Mallers explains how Bitcoin demonetizes housing and drives prices back down](https://www.reddit.com/r/Bitcoin/comments/1t3uz4q/jack_mallers_explains_how_bitcoin_demonetizes/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -95,15 +95,15 @@ Who’s with me??😂😂
 
 After way too long saying “I’ll start soon” I finally did it. Bought my first amount of Bitcoin today, learned self custody, and picked up a cold wallet. Now I’m DCA’ing a small amount daily. Not much yet but it’s a start.
 
-10h ago
+12h ago
 
 ---
 
-**[Strive's Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://www.reddit.com/r/Bitcoin/comments/1t3u3hb/strives_bitcoin_treasury_crosses_15000_btc_after/)**
+**[Is it happening boys?](https://www.reddit.com/r/Bitcoin/comments/1t4cw6o/is_it_happening_boys/)**
 
-Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treasury has crossed the 15,000 BTC threshold, following the purchase of 444 bitcoin for $33.9 million at an average cost of $76,307 per coin. CEO Matt Cole announced the acquisition on X, and the company filed an 8-K with the SEC confirming the details. The purchase extends a string of accumulation moves that have positioned Strive as one of the more active corporate Bitcoin buyers in the market. As of April 24, Strive held 14,557 BTC after a separate purchase of 789 bitcoin at $77,890 per coin. The latest transaction pushes the total stack past 15,000 BTC, a holding valued at around $1.2 billion at current prices. The SEC filing detailed the company’s balance sheet as of May 1: $97.9 million in cash and cash equivalents, and $50.4 million in the Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) of Strategy — Michael Saylor’s firm, which rebranded from MicroStrategy. Strive reported 63,129,587 shares of Class A common stock and 9,893,844 shares of Class B common stock outstanding, together with 4,959,536 shares of its Variable Rate Series A Perpetual Preferred Stock, traded under the ticker SATA. The milestone follows Strive’s completion of its acquisition of Semler Scientific in January 2026, which brought the medical technology firm into Strive as a subsidiary. At the close of that deal, Strive held 12,798 BTC and ranked as the 11th largest public corporate Bitcoin holder in the world. The company has added more than 2,200 BTC to its treasury since that transaction. Strive as the first public asset management Bitcoin treasury corporation Strive describes itself as the first public asset management Bitcoin treasury corporation. Its strategy centers on growth in Bitcoin per share, treating Bitcoin as the hurdle rate for all capital allocation decisions. CEO Matt Cole, who has led the company since April 2023 and has served as Chairman since September 2025, has steered the company toward what he terms “digital credit” — structured finance products that generate yield through Bitcoin exposure. The SATA preferred stock stands at the center of that strategy. Strive raised $225 million in an oversubscribed SATA offering in January 2026, with investor demand exceeding $600 million. The stock carries an annualized yield near 13%, and the product held its peg through Bitcoin’s recent 50% drawdown. Strive’s $50.4 million position in Strategy’s STRC preferred stock reflects a parallel bet on Bitcoin-backed structured products across the corporate treasury space.
+Are we ready to buy when it hits 100k?!
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000) • 14h ago
+1h ago
 
 ---
 
@@ -111,7 +111,15 @@ Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treas
 
 May the 4th be with us us.
 
-6h ago
+8h ago
+
+---
+
+**[Strive's Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://www.reddit.com/r/Bitcoin/comments/1t3u3hb/strives_bitcoin_treasury_crosses_15000_btc_after/)**
+
+Dallas-based Strive, Inc. (Nasdaq: ASST) disclosed Monday that its Bitcoin treasury has crossed the 15,000 BTC threshold, following the purchase of 444 bitcoin for $33.9 million at an average cost of $76,307 per coin. CEO Matt Cole announced the acquisition on X, and the company filed an 8-K with the SEC confirming the details. The purchase extends a string of accumulation moves that have positioned Strive as one of the more active corporate Bitcoin buyers in the market. As of April 24, Strive held 14,557 BTC after a separate purchase of 789 bitcoin at $77,890 per coin. The latest transaction pushes the total stack past 15,000 BTC, a holding valued at around $1.2 billion at current prices. The SEC filing detailed the company’s balance sheet as of May 1: $97.9 million in cash and cash equivalents, and $50.4 million in the Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) of Strategy — Michael Saylor’s firm, which rebranded from MicroStrategy. Strive reported 63,129,587 shares of Class A common stock and 9,893,844 shares of Class B common stock outstanding, together with 4,959,536 shares of its Variable Rate Series A Perpetual Preferred Stock, traded under the ticker SATA. The milestone follows Strive’s completion of its acquisition of Semler Scientific in January 2026, which brought the medical technology firm into Strive as a subsidiary. At the close of that deal, Strive held 12,798 BTC and ranked as the 11th largest public corporate Bitcoin holder in the world. The company has added more than 2,200 BTC to its treasury since that transaction. Strive as the first public asset management Bitcoin treasury corporation Strive describes itself as the first public asset management Bitcoin treasury corporation. Its strategy centers on growth in Bitcoin per share, treating Bitcoin as the hurdle rate for all capital allocation decisions. CEO Matt Cole, who has led the company since April 2023 and has served as Chairman since September 2025, has steered the company toward what he terms “digital credit” — structured finance products that generate yield through Bitcoin exposure. The SATA preferred stock stands at the center of that strategy. Strive raised $225 million in an oversubscribed SATA offering in January 2026, with investor demand exceeding $600 million. The stock carries an annualized yield near 13%, and the product held its peg through Bitcoin’s recent 50% drawdown. Strive’s $50.4 million position in Strategy’s STRC preferred stock reflects a parallel bet on Bitcoin-backed structured products across the corporate treasury space.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000) • 16h ago
 
 ---
 
@@ -119,7 +127,7 @@ May the 4th be with us us.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+6h ago
 
 ---
 
@@ -127,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 He was the first recipient of BTC, one of its earliest developers, and above all, a true believer in the technology when it was still just an idea. His famous phrase, “Running Bitcoin,” wasn’t just technical… it was a statement of principles. Today, millions of people around the world continue that path. Thank you for opening the door. 🧡 Thank you for running first.
 
-20h ago
+22h ago
 
 ---
 
@@ -135,19 +143,13 @@ He was the first recipient of BTC, one of its earliest developers, and above all
 
 That’s it. That’s how scarce this asset actually is. Now ask yourself: how many people can realistically sustain that for two decades? There will only ever be 21 million and most people won’t even get close to owning 1. I built a tool to show exactly how long it takes (and how much it really costs) to hit your BTC goal. Reality check yourself and let me know what you think: https://satoshivision.based21.com/ https://preview.redd.it/esrz7y5qk7zg1.png?width=3538&format=png&auto=webp&s=d13957518d385b89a0bc916972072e515891d078 Edit: not mobile friendly yet
 
-11h ago
-
----
-
-**[Bitcoin Back to the 80s](https://www.reddit.com/r/Bitcoin/comments/1t3qzvc/bitcoin_back_to_the_80s/)**
-
-16h ago
+12h ago
 
 ---
 
 **[Happy Birthday Hal](https://www.reddit.com/r/Bitcoin/comments/1t3qyba/happy_birthday_hal/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -155,77 +157,63 @@ That’s it. That’s how scarce this asset actually is. Now ask yourself: how m
 
 ## Google News: "bitcoin"
 
-**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs)**
+**[BTC, GME news: GameStop eBay bid puts $368M bitcoin stash's future in question](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTFpR05VTFRvbWpwTVR3bHMta1BpNHl6UC11T3B0cjNtWlJuTVZzYjlOd0xyT2lRSFZFWEg4dWFxTDB5RmNXWDhBX0xwOXIzOC15Z04ybkJzLWF4Tmk1R3pMbHlTN3R2QW5LRFdkVm9lUHFCaVdrY3pncExWV09pN05CWDh3b1E2WWROQzVFakhIUG9YQUU3U1c0UEZ0WnhjVEV3SXN4ZERuWkphTUlCQmZvQ28zajE0anIyb1F4RXJGSVBzZDhEcUJwVmtWNU90MHYtUkVQWWE2d0RzOHc?oc=5)**
 
-The video game retailer’s proposed acquisition plan revives question on whether its $370 million bitcoin stash could be sold to fund the expansion.
-
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
+**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUS01QzNNSTJ5ZHk1SkV4Qm14ajE4UEdzaDNCM0l0QXlnMGJuQml4U2VYeVVVVUdlWlZoWlVycFI0MV9lUmRidTJvb0dOQnBvUkxVcHlHQWdjenhPSFI0YVMwbkFkeHFudU9Wa1VGYWZnbklvX2pCY0tFVktPdVRCTC1QX2ZFU3Z4SGx5eGFzd0g1SEVPSzVMVHp6UDNFOGpUZkpsREY0S3BkVjF0T2xlQWFVU1E?oc=5)**
 
-‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
-
-Fortune • 19h ago
+Investor's Business Daily • 15h ago
 
 ---
 
-**[Clarity Act Compromise Sparks Crypto Stock Rally; Bitcoin Briefly Tops $80,000](https://www.investors.com/news/bitcoin-price-clarity-act-compromise-stablecoin-yield-circle-internet-crypto-stock/)**
+**[Bitcoin briefly tops $80,000, the highest level since January](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEEyU19xQ1dwUFVvNlVJSFdGSVRYYUQ4TGxvUkM4S3FyNVJHSmtxUmJmMGthd3ItQnY0dW5Sc2FNSHJrclVtZEtsTVdpYWN6NGZ6T05EU0I0Rk5vcEdfMllyWm5yRnUyVUxMNjRjZ2dtRURaMmhQNC1xU0tEWThjXzRpZG1FbE1HazgyR1R2SUxqbmt3c1QyM0h3N25XRVQ1YXgzT1Y1ZGNEY1JaOUt5NjhQTUVYZw?oc=5)**
 
-Investor's Business Daily • 14h ago
-
----
-
-**[Circle stock surges on two key announcements](https://www.thestreet.com/crypto/markets/circle-stock-surges-on-two-key-announcements)**
-
-thestreet.com • 15h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[The Smarter Web Company tops up Bitcoin position, shares gain](https://uk.finance.yahoo.com/news/smarter-company-tops-bitcoin-position-095100121.html)**
-
-The Smarter Web Company (AQSE:SWC) has added another 27 Bitcoin to its treasury, taking total holdings to 2,805 Bitcoin as it continues its “10 Year Plan” strategy of acquiring the cryptocurrency. The latest purchase cost £1.53 million, with the company paying an average of £56,799 per...
-
-Yahoo Finance UK • 1h ago
-
----
-
-**[Bitcoin Price Hits $80K: We Asked Grok If BTC Could Hold $80K in May](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hits-80k-asked-092639434.html)**
-
-Bitcoin (CRYPTO: BTC) briefly cleared $80,000 in early hours today, hitting an intraday high around $80,500 before pulling back to $79,770. That’s the first time BTC has traded above $80,000 since January 31, and it follows a 14.7% recovery since early April that took the coin from $68,000 to today’s level. The move came after ... Bitcoin Price Hits $80K: We Asked Grok If BTC Could Hold $80K in May
-
-Yahoo Finance • 1d ago
-
----
-
-**[Hut 8’s Bitcoin-Backed Debt Refi and AI Pivot Might Change The Case For Investing In HUT](https://finance.yahoo.com/markets/stocks/articles/hut-8-bitcoin-backed-debt-080840535.html)**
-
-In recent days, Hut 8 refinanced its Bitcoin-backed credit line, replacing a prior Coinbase facility with a new US$200 million, 364-day loan from FalconX at a fixed 7.0% interest rate that also released about 3,300 BTC from collateral. This shift gives Hut 8 lower debt servicing costs and more unencumbered Bitcoin on its balance sheet, potentially broadening how it funds its transition toward AI and data center infrastructure. We’ll now explore how lowering its borrowing rate while freeing...
+**[Cardano Hoskinson’s Called Bitcoin Dumb: His Rants Don’t Move ADA](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXBILVlid0JBaFA0aGRGaWtLTnkyQUtWc2pDc0liOUFRXzVDNE9MTGt4MncyNTZBUVlLdjQwenBndEpPaDJLUUUwai1mX3ZrS01BcGVLQ1p0TDNiVjhGUWM4YV9iU0s1UlF6LWRaUUpZakNpaG1PVHNnQjhIOUpRSTk2Z3NpUzhESlAzQmcxc2F6YkE5VHZiLU50S0hvRUVLZlFlSg?oc=5)**
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Coinbase Stock, Strategy Gain. It’s Not Just Rising Bitcoin Lifting Crypto Companies.](https://www.barrons.com/articles/coinbase-stock-strategy-robinhood-crypto-c97d863f)**
+**[Strategy Just Gobbled Up 0.5% of the Bitcoin Supply in 90 Days. Here's What Could Happen Next.](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHRwa3EyaTFscktVdGNlWTlMRXczZGMzYTFVWDhnZWFoeUlfR1lwLTgwb0ZTRFJqNXpjdTdDSmw0ZmN2LU5kMnJQYVVVelpVbmNncmt6U2dMVXpsTDNjc2h5M2Npd1JkTllfcDd6MWxGX0N1WFhPNWp0STdkSWJ4VF9wNzZ4bW0tVmZxTnlGWGdJeUhPY0Zn?oc=5)**
 
-Barron's • 22h ago
-
----
-
-**[BTCI Is Not Bitcoin, And That 38% Yield Is Largely An Illusion (BATS:BTCI)](https://seekingalpha.com/article/4897936-btci-is-not-bitcoin-and-that-38-percent-yield-is-largely-an-illusion)**
-
-NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
-
-Seeking Alpha • 23h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Strive’s (ASST) Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000)**
+**[Current price of Bitcoin for May 4, 2026](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYVA3c1hRZzlJVDVjQXh2OGlWUEZTYTBsenlzWHVRVExvVF83TEFhTkpjcHpmLUZtVUV1bkFGRXRUZkItOFFVRVE5UFVxZzVHT01kbTA2T1ExN3ZnRFVEX0h3b1RNaWc?oc=5)**
 
-Strive, Inc. (Nasdaq: ASST) said Monday its Bitcoin treasury has topped 15,000 BTC after it acquired 444 bitcoin for $33.9 million at an average price of $76,307 per coin.
+Fortune • 23h ago
 
-Bitcoin Magazine • 18h ago
+---
+
+**[Coinbase Stock, Strategy Gain. It’s Not Just Rising Bitcoin Lifting Crypto Companies.](https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3RfWnI4ZGxITGJjb0dWSHNVenJVcXA4TmM3UHFnUllQQXAyTU5zaHRVVnp2dkVtbWNHZmlyMWhDdDVGXzVmT3JSVjIweGdlMDNXVTFNR3RuOENCMjNIQktUQmJQU3hyZU9PNjlXRVlrQjJSVUd4ZHVfZjg2bWp4YXAxVmRBYUdCanc?oc=5)**
+
+Barron's • 1d ago
+
+---
+
+**[Hut 8 Advances Capital Strategy with Refinancing of Bitcoin-Backed Credit Facility](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTl2UmxSMXljWWs1d1FPWVZTYW9NWE5weDNCYjJVcHpQR2MyamlnTjJlbk9nMGUwbkVYbU9FN2JVUXBPVEVhRkVrVEZ3b084VDFwcktGSGRjczRxRFNteWo0aTVBaC1vYmQ3ci1MZElDOXYzeUNPTnlmdXVvcDZFNWhFZWVGQkNNQ1lfN2JDc1pVRmx3MVlQY3hyV24xU1lvZ1ZjdVRYTld6NHNKZExFMmEtZndHdDhlU1IyUTJDaWJiM2RnLTVRY0k2S1lXMlhSclp5Mg?oc=5)**
+
+PR Newswire • 1d ago
+
+---
+
+**[BTCI Is Not Bitcoin, And That 38% Yield Is Largely An Illusion (BATS:BTCI)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXpvcGM1Q2dvLW9ybUlYcXdKaTdRTndmcThVTW1mUF9PZFZISTJHNi1CalhJcUljcGk4c3FLRFBONEtRcVU2REFacE9nODN1Z1RfN3M2WUZCNlJRRmN4dWpoemw0c1lTTGRGLXhSUlljVmhRRUZRX3ROcUJSM05TY2lCWE9qNzRaejdDcWdLNGo0WjFZZmVSRUxrQ0NuNFIxMFoxNHRPdVNvMS03eVE?oc=5)**
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Strive’s (ASST) Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase](https://news.google.com/rss/articles/CBMicEFVX3lxTE1uOWJsTFRVSW1jeWZiS2xlWmljYUJVM0laRGN1WllMUTdsWjhsLXBvZkhZY0lKbmYwYmpsblRBUk5vNWpiODVtbC1LU0UzeXZGUHlqQmhPMTh2WTZkNTNQV1lqTVV6ZWxieG5zaWFBYS0?oc=5)**
+
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -321,7 +309,7 @@ I built a Bitcoin forecast model that pulls from over 1300 sources to predict wh
 
 📺 Jesse Eckel
 
-👁️ 5K • 👍 301 • 💬 228 • ⏱️ 9:38 • 13h ago
+👁️ 6K • 👍 364 • 💬 199 • ⏱️ 9:38 • 15h ago
 
 ---
 
@@ -331,17 +319,7 @@ Bitcoin is back above $80000, the four-year cycle debate is alive again, and a m
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 227 • ⏱️ 19:25 • 14h ago
-
----
-
-**[The Bitcoin Trap: Why the $80K Pump is Fake](https://www.youtube.com/watch?v=6eOHqHxOTc4)**
-
-Great day with bitcoin at 80K but there are some MAJOR negative forces at play throughout 2026 Andrew A.I. ...
-
-📺 Digital Asset News
-
-👁️ 6K • 👍 448 • 💬 44 • ⏱️ 34:33 • 15h ago
+👁️ 18K • 👍 1K • 💬 218 • ⏱️ 19:25 • 15h ago
 
 ---
 
@@ -351,17 +329,37 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 754 • 💬 168 • ⏱️ 11:44 • 10h ago
+👁️ 13K • 👍 822 • 💬 262 • ⏱️ 11:44 • 12h ago
 
 ---
 
-**[BITCOIN $80K SQUEEZE: IT&#39;S CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QmNyAGbATEM)**
+**[The Bitcoin Trap: Why the $80K Pump is Fake](https://www.youtube.com/watch?v=6eOHqHxOTc4)**
 
-BITCOIN $80K SQUEEZE: IT'S CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Great day with bitcoin at 80K but there are some MAJOR negative forces at play throughout 2026 Andrew A.I. ...
 
-📺 Crypto World
+📺 Digital Asset News
 
-👁️ 4K • 👍 236 • 💬 148 • ⏱️ 17:03 • 7h ago
+👁️ 6K • 👍 480 • 💬 49 • ⏱️ 34:33 • 17h ago
+
+---
+
+**[Bitcoin Bull Market STARTING SOON?! Realistic Bull Market CONFIRMATION AROUND THE CORNER?](https://www.youtube.com/watch?v=nHfibQG0lWc)**
+
+Subscribe to our new channel @jebbmcafeeinvests: https://www.youtube.com/@jebbmcafeeinvests David Nicholas Interview: ...
+
+📺 Crypto Jebb
+
+👁️ 5K • 👍 311 • 💬 63 • ⏱️ 11:45 • 17h ago
+
+---
+
+**[Bitcoin Holders: Market Updates (&amp; Fidelity&#39;s New Recommendation)](https://www.youtube.com/watch?v=MELeOLVMsIM)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: https://kalshi.com/aaronbennett Into The Cryptoverse ...
+
+📺 Aaron Bennett
+
+👁️ 1K • 👍 157 • 💬 18 • ⏱️ 8:45 • 2h ago
 
 ---
 
@@ -371,37 +369,17 @@ Subscribe for daily insights and updates for your Bitcoin journey. Follow on Fac
 
 📺 Joel Bomgar
 
-👁️ 647 • 👍 11 • 💬 2 • ⏱️ 3:00 • 10h ago
+👁️ 702 • 👍 13 • 💬 2 • ⏱️ 3:00 • 12h ago
 
 ---
 
-**[You&#39;re Being Purposely Lied To About Where Bitcoin Is Going.....](https://www.youtube.com/watch?v=eocl6yUvKvA)**
+**[BITCOIN $80K SQUEEZE: IT&#39;S CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QmNyAGbATEM)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+BITCOIN $80K SQUEEZE: IT'S CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Tyler S
+📺 Crypto World
 
-👁️ 7K • 👍 563 • 💬 140 • ⏱️ 15:36 • 12h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=6RBevGGz1Pw)**
-
-It is once again time to dubiously speculate on the price of Bitcoin! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 108K • 👍 6K • 💬 398 • ⏱️ 25:43 • 2d ago
-
----
-
-**[Has bitcoin’s biggest mystery been solved?](https://www.youtube.com/watch?v=cJ7j3niU3Mw)**
-
-CNN's Jim Sciutto speaks with investigators Tyler Maroney and William Cohen about their hunt to uncover the true identity behind ...
-
-📺 CNN
-
-👁️ 126K • 👍 2K • 💬 172 • ⏱️ 2:05 • 1d ago
+👁️ 7K • 👍 298 • 💬 192 • ⏱️ 17:03 • 8h ago
 
 ---
 
@@ -411,7 +389,17 @@ Doesn't matter which crypto charts you have open. Bitcoin, Ethereum, Sui, Cardan
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 845 • 💬 343 • ⏱️ 19:42 • 1d ago
+👁️ 18K • 👍 850 • 💬 371 • ⏱️ 19:42 • 1d ago
+
+---
+
+**[How Much Bitcoin Do You Really Need to Retire? | Bitcoin 2026](https://www.youtube.com/watch?v=Cq_IqjdmZ4Y)**
+
+How much Bitcoin do you actually need to retire? At Bitcoin 2026, moderator Brandon Keys of Green Candle sits down with ...
+
+📺 Bitcoin Magazine
+
+👁️ 18K • 👍 443 • 💬 48 • ⏱️ 29:00 • 1d ago
 
 ---
 

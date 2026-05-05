@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-05T11:03:08.972787+00:00'
+updated: '2026-05-05T12:48:03.043941+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 11:03 UTC  
+**Last Updated:** May 05, 2026 at 12:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +5.5%  
-**30d:** +12.9%  
-**90d:** +30.2%  
-**1y:** +31.0%  
+**24h:** +2.3%  
+**7d:** +6.0%  
+**30d:** +13.4%  
+**90d:** +30.9%  
+**1y:** +31.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.83B
+**Market Cap:** $288.21B
 Rank #2
 
 **Circulating Supply:** 120,687,267 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.1%
+-51.7%
 
 **All-Time Low:** $0.43
-+547012.0%
++551501.8%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
 **[Crypto noob looking for a guide (and maybe a tiny first step)](https://www.reddit.com/r/ethereum/comments/1t4bff1/crypto_noob_looking_for_a_guide_and_maybe_a_tiny/)**
 
-35m ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
 
-8h ago
+10h ago
 
 ---
 
@@ -98,11 +98,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[If you have $10 in crypto, you owe Ethereum security exactly $1. I don't make the rules](https://www.reddit.com/r/ethereum/comments/1t4dc7l/if_you_have_10_in_crypto_you_owe_ethereum/)**
+
+500 ETH will be matched between Zach, AI-slop sec cowboys, risk score for every shitcoin, and gazilion dashboards. Your candidates: ZachXBT + four other detectives with cryptoslop PFPs. The man personally accounts for like 40% of all stolen funds ever recovered in Web3. And also conspiracies. Rekt News. Documents every hack so your favorite KOL can confidently tweet "$10 GAZILLION lost in April". Revoke.cash. Stops Lazarus Group from spending the $3 in DOGE you forgot about in a wallet from 2021. Blockthread. AI generated cowboys protecting Web3. I'm not joking, look it up. Nihilum. "What if we made wallets where there's no password to forget?" Sir this is the entire point of self custody. ETH Institute. Still operating under the theory that the biggest security problem in crypto is that users haven't read enough PDFs. GL LFG. Wallet Security Ranking (name). Name tells it: ranks wallets by security. We've played these games in 2020. CORE3. Assigns a risk score based on data to every project. Will it stop you from aping into "bro this one is built different"? Statistically no. But at least when you get rugged you'll be able to point at the dashboard and say "well it DID say high risk." Anyway, however unhinged the candidates are, there are more even better ones. Lookup GIVETH quadratic funding and donate - quadratic matching means your $1 hits like $700. Pick your favorite flavor of trying to fix this circus.
+
+48m ago
+
+---
+
 **[Dev Tools Guild April 2026 update](https://www.reddit.com/r/ethereum/comments/1t3ekon/dev_tools_guild_april_2026_update/)**
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 23h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 1d ago
 
 ---
 
@@ -116,7 +124,7 @@ I live in a country where cryptocurrency is somewhat illegal. I would like to pu
 
 **[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -136,91 +144,67 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 ---
 
-**[Ethereum mainnet may get a lot more room after Glamsterdam](https://www.reddit.com/r/ethereum/comments/1t2d5mr/ethereum_mainnet_may_get_a_lot_more_room_after/)**
-
-Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum’s gas limit could go from around 60M to roughly 200M. What’s interesting is that this is not just “raise the limit and hope nodes survive” — ePBS gives payloads more time, BALs help clients prefetch/parallelize execution work, and gas repricing is supposed to keep state growth from getting reckless. If demand does not grow at the same pace, L1 fees could stay very low for a while. I don’t think this kills L2s, but it does challenge the old idea that Ethereum mainnet has to stay painfully expensive forever. Wrote a longer breakdown here: [https://btcusa.com/ethereums-glamsterdam-upgrade-could-push-gas-limit-to-200m-and-reprice-the-l1-scaling-debate/]() Curious what people think: does 200M gas make L1 more important again, or mostly just make the rollup roadmap stronger?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
+**[Soldøgn Interop Recap ☀️](https://news.google.com/rss/articles/CBMiakFVX3lxTE5NNG0yYnd0OWNDd193VU9maHVKVFhNY2czUGhVMXM3aVJrZEc5WVdKemFRcW5tY1hkR3NoTThIYzJjNE5WNDZobDNXMDZpUWVPTl9IeFNrS1lqb1JrV250X21xbURkUEtXUWc?oc=5)**
 
 ethereum.org • 2d ago
 
 ---
 
-**[XRP vs Solana vs Ethereum: Which Altcoin is the Best Buy for Upside Right Now?](https://247wallst.com/investing/2026/05/03/xrp-vs-solana-vs-ethereum-which-altcoin-is-the-best-buy-for-upside-right-now/)**
+**[Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin reaches over $81,000, hitting a high last seen in January](https://news.google.com/rss/articles/CBMimwJBVV95cUxNczNGbmo5NVVmd2FSU09TWWhKbGZIYzJnbWhLdC1Xb0xwVGJVZlNOdS1VcmNfdHNVSHFPSkxhY0lTY0tMRXBwX082aUh1aDdMVXQ3bXdzSHpPRFJZMzZua2dOVWpkdW5wS1JEN3EwZmduRmlNdWxmZW41ZW9Jd2ZXUm1IRVU1cXVncWZFbW41bEhIMF9OZ2x1SU5PZ3JLd2VWOFQzWTQ5ZFNRX1dKWkR3bURNSzdlR092MmxWNnJ5eWplalBEVDBlM0N1Ti1yNFk0SXEzaFlrUGpqU3FOcUhaRjh2OFhwdzB1SUhieG1qMFAyeVBHLXZnd3FxOWVHZlJPVGcyYWRLMUhPUDZWYkJGUExZd1ItOFlFOE04?oc=5)**
 
-XRP, Solana, and Ethereum all recorded losses in the past week. Despite the downturn, one of these coins could be the best buy right now.
-
-24/7 Wall St. • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support](https://www.theblock.co/post/399935/south-koreas-largest-crypto-exchange-upbit-launches-ethereum-blockchain-with-optimism-foundation-support)**
+**[South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODBuWnhmZk1fMExRbV9BZEZXVmM3M1FmeXl3YmU3NGs2V0FVdy13dzdVMXJUeXg4bURmSllJTDUzMlhFVXQ4cVVuX2VHaFJQa0J5VUpQMmVHQVd0Q2JZd3NqUFZpM0l3MzlGa05CX1FUN2ZaWF9iZmttVXJFYS1xRUF5dENwdXFfTW9PcklVemlWYnRnQ1Q0cGJFT1JCUnVOMHV5S0ZDaUJtTDhxdENWZDNzT09LTjg0WmtOVk51TEE4T2xuV04wZG8wNHZrdk01WTFNTTdoTQ?oc=5)**
 
-Upbit is the Optimism Foundation's first client on its "self-managed" enterprise tier, giving it control over its core rollup architecture.
-
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
-**[Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave](https://finance.yahoo.com/markets/crypto/articles/ethereum-exit-queue-explodes-72-195942953.html)**
+**[BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkRYbldPRUpISWFEYXl0T2JiM1d4V2UyV1BLX2dtSTVaNG05RTZjaGhFRThkNGMwS1RDZl9qSmlvS0VxQUhTV2FKNWw2dHQ5aDZCeXFoWGpmMHdvSl9IZlhaejF1LWV1dF84YlVFd3paX2ZmVi1tMHk3RkZ4VXREWUIzOWNqVFdINDVsZEg3ZC1kLUxHc0tCRWM2NnFYcEk?oc=5)**
 
-Ethereum's exit queue jumped to 433,158 ETH after April DeFi exploits scared restakers, while entry demand stays strong.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Prices Rise. Why Oil Will Still Hold Cryptos Back.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+**[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUzRnWWkwcE9MWVNwZ1J5SGtfb3ZJd09qTDR2dUpxZjlEWTA3SFZET1ZjWWhsVTBIbGpvNGlUSTNPbjhDS1R6Yzd3OHQzaTJ6dXJyc0ZqMnFud0dLUk00WDVpUzdfVkJsbE1OQlVLMGYzc1cydkJ0eXZtcHVNZ093RTV6UGFzOXNMOUdaMTVoTDRNWDg2QzAweUtyanJVZDJGV2YzRVh0bHBJY0pQVmcwLUVQZ29TUjdMTUxTckZhMTczQlRla2V0MGVyVDZWdDRhZ2RZ?oc=5)**
 
-Barron's • 1h ago
-
----
-
-**[BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-240-million-ethereum-151959747.html)**
-
-Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
-
-Yahoo Finance • 19h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.18 Million Tokens, and Total Crypto and Total Cash Holdings of $13.1 Billion](https://news.google.com/rss/articles/CBMiowJBVV95cUxQSTFYMUJ3SG5BLVlNczlLVWNNQ3gyMFkycGsxYVNzZE9ZcXZzOHpLYUFPemNBWDFEcGdhVHN0QTgzSy16Unc5VWNjLUhpVG9TSG4xemVHLXZzam4wOXJwam5PdXh2WGcwTUR4NGZ4QlJUSkJPZURHbkJkUHdJZ0Z4ejEyVnFfNHNwSl9UODRZNHNQdjZPbmw4aXU0UGUwQnBKbDBHd1lQdmFMUVhTc0hYMTNMdkRfUmdScFU5WHhXU29EN1RSSmVTOWRjU2FMemRxb3VTLXRDc0JTTmZIYUdBbC1vMVg3WDlOcE9zWUpkT1FJY3FrU3VsTGdoMEJoLXpOREdoODAzMnJwRElmdmZjNDhWQTJjNGVYNXZrVjB6QkNvVGs?oc=5)**
 
-Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
-
-CoinDesk • 20h ago
+PR Newswire • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.18 Million Tokens, and Total Crypto and Total Cash Holdings of $13.1 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-18-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-1-billion-302760926.html)**
+**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHQ2LWZJdE1XS0dSXzVVclk4TEl0MTVKbGVFWUJZMkNRcW01azFkN3kxVHI4akl6SUZUZjhuYVJpMlVMVzRPUXQxUlBqNVdPUTBlOWpXcXNXaGNKWV9zVkFGcGo0SW5TbjI2UVhXVzQ1U2NQeldaWUM0Q1R0dUVOdmVNLXNnaXZM?oc=5)**
 
-Bitmine owns more than 4.29% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 10 months Crypto Spring has...
-
-PR Newswire • 22h ago
+Barron's • 37m ago
 
 ---
 
-**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://www.fool.com/investing/2026/05/03/is-ethereum-the-generational-wealth-pick-for-realw/)**
-
-Most chains can't excel in every single potential application.
+**[Is Ethereum the Generational Wealth Pick for Real‑World Crypto Use?](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkRTNGxHaV9oaWU1Qy1IT0NsSXdfMnZrWnltQkhYSzlYTlAySXpoWFdjbTJ4Y21PQnFxTXBHYjA0U3NpZmdHbzg1M2owRVVIVjRJRnR1ZkNoaDQ0YXIzV0lIMFRqTlFZRXVrM1UxZ3d3Q3czTlNjQXRITGo4NklrWHpSX3pQX1hpU1NISmQ0MVFWYXBaWFdPWQ?oc=5)**
 
 The Motley Fool • 1d ago
 
 ---
 
-**[Market Analyst Predicts Bitcoin And Ethereum Prices For The Next 3 Quarters](https://www.tradingview.com/news/newsbtc:b3799c4b4094b:0-market-analyst-predicts-bitcoin-and-ethereum-prices-for-the-next-3-quarters/)**
+**[Ethereum at a Make-or-Break Level — Will May Trigger Another Explosive Rally?](https://news.google.com/rss/articles/CBMizwFBVV95cUxNSEVaRTVTVXBBNExnM3BMZ185OS0yUU5LMzYzX2ZqRUlQLXZ0NExrSFA0ZUZtT2M5dHcyRTd3Ni16ZjI1NTgweDFEUlBmSHg3S1I2Qk1mUXgxeEI2cXM5YmxEZERBZms5QzNra3RiUWtZTTRSaEF4c0pEX1o5aUtzazU2c3M1bllFNVlLTHNXTnhJNXMzQ3I2ZW1tSGphY2dZRms0QjZ0M3JobTJDZ0pXVVNBeWJDUEpBQ3Jnd3BXSEdWYlBtZVdfWHRCTmZ2ck0?oc=5)**
 
-Bitcoin is trading close to $80,000 in the first week of May; Jerome Powell is weeks away from stepping down as Federal Reserve chair; the S&P 500 is at an all-time high; and sentiment across crypto markets is slowly turning positive.Crypto trader and market analyst Aralez has stepped forward with…
+TradingView • 9h ago
 
-TradingView • 18h ago
+---
+
+**[Ethereum outperforms S&P 500, seen as top wartime store of value](https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1lmdDNtaHVlV1hPZlB5c2FTODM2a2Zzci1UNGk5T2tlZDl5UzZuVFJPQUhQUEgxY2lDU21kNWVzdmpLM1g3Q3hLVXIzUUF6Sk1tWkEyb0w5ZWJhWS1CRXRlNjVYZHcySUJlVU9xR2lNSjlkdkY5VkdKaVJELTdUTVZqb2VVV1AzZVdkd2U1SFRIWnZJ?oc=5)**
+
+Crypto Briefing • 1h ago
 
 ---
 
@@ -228,23 +212,43 @@ TradingView • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
-
-Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
-
-📺 Crossroads
-
-👁️ 6K • 👍 255 • 💬 50 • ⏱️ 10:34 • 20h ago
-
----
-
 **[Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=18660T9GTUY)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 485 • 💬 46 • ⏱️ 20:21 • 1d ago
+👁️ 12K • 👍 496 • 💬 47 • ⏱️ 20:21 • 1d ago
+
+---
+
+**[Bitcoin Rallies to $81K! Will Altcoins Follow? BTC, Ethereum, XRP, Solana Analysis!](https://www.youtube.com/watch?v=Ob6xjYw73tE)**
+
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, Ethereum, XRP, and Solana. 🖥️ Sign up with ...
+
+📺 Thinking Crypto
+
+👁️ 290 • 👍 32 • 💬 12 • ⏱️ 31:48 • 50m ago
+
+---
+
+**[THIS change is HUGE for ETH / Bitmine (BMNR Stock), but I have concerns.](https://www.youtube.com/watch?v=u_JXJRLK8Ms)**
+
+Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+
+📺 Crossroads
+
+👁️ 6K • 👍 267 • 💬 51 • ⏱️ 10:34 • 22h ago
+
+---
+
+**[ETHEREUM ABOUT TO BREAKOUT?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=GPjXfu5M0PY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 161 • 👍 11 • ⏱️ 4:32 • 3h ago
 
 ---
 
@@ -254,7 +258,47 @@ This new data is huge for bitcoin, for ethereum and for the rest of crypto! A vi
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 642 • 💬 159 • ⏱️ 14:06 • 23h ago
+👁️ 11K • 👍 647 • 💬 156 • ⏱️ 14:06 • 1d ago
+
+---
+
+**[Ethereum (ETH) - Análise de hoje, 05/05/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=HdQJJ2OC_Mc)**
+
+ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
+
+📺 Trade with Renato Ulianov
+
+👁️ 195 • 👍 48 • 💬 1 • ⏱️ 2:25 • 1h ago
+
+---
+
+**[BITCOIN $80K SQUEEZE: IT&#39;S CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QmNyAGbATEM)**
+
+BITCOIN $80K SQUEEZE: IT'S CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 298 • 💬 192 • ⏱️ 17:03 • 8h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=NG3G9PcDJfU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 85 • ⏱️ 7:13 • 9h ago
+
+---
+
+**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 292 • 💬 40 • ⏱️ 15:33 • 2d ago
 
 ---
 
@@ -265,66 +309,6 @@ Bitcoin Holders: “Sell in May and go away” Should You? ⭐ Follow Altcoin Da
 📺 Altcoin Daily
 
 👁️ 33K • 👍 2K • 💬 176 • ⏱️ 11:49 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=NG3G9PcDJfU)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 750 • 👍 76 • ⏱️ 7:13 • 8h ago
-
----
-
-**[BITCOIN 80K: ETH AND TON EXPLODE](https://www.youtube.com/watch?v=vMOIYYP0PhY)**
-
-Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
-
-📺 James Crypto Guru
-
-👁️ 1K • 👍 100 • 💬 6 • ⏱️ 8:07 • 10h ago
-
----
-
-**[Bitcoin &amp; Ethereum. JETZT kann es schnell gehen 84 bis 86k incoming??](https://www.youtube.com/watch?v=yU5dO2wl_9s)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 534 • 💬 96 • ⏱️ 10:14 • 6h ago
-
----
-
-**[&quot;TROUBLE AHEAD?! Vitalik Just DUMPED $56 Million in ETH&quot; - Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=e2xwB0CgCwY)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 291 • 💬 40 • ⏱️ 15:33 • 2d ago
-
----
-
-**[The AI Coin That&#39;s About To FLIP Ethereum Is PUMPING Right Now (Arthur Hayes Just Confirmed It)](https://www.youtube.com/watch?v=dAePo7OLimM)**
-
-Check out Vidaio here https://vidaio.io/ Subnet 85 on TAO Stats https://taostats.io/subnets/85 Trade Crypto with WEEX ...
-
-📺 FireHustle
-
-👁️ 15K • 👍 676 • 💬 82 • ⏱️ 11:56 • 2d ago
-
----
-
-**[Ethereum BREAKDOWN Before Next Major Entry?](https://www.youtube.com/watch?v=_0A4yRcSIPY)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 155 • 👍 2 • 💬 1 • ⏱️ 5:14 • 16h ago
 
 ---
 
