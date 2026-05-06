@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-06T15:41:21.474059+00:00'
+updated: '2026-05-06T17:41:53.221546+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 06, 2026 at 15:41 UTC  
+**Last Updated:** May 06, 2026 at 17:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,27 @@ Robotics research and industry news
 
 Well, what good is designing a hand if it can't actually do anything, so here's a couple actions (all in real time) I was able to achieve with my hand & wrist combo! Surprising just how many more poses and gestures having a wrist allows for vs just a hand. Design wise, not much has changed since my last post, aside from a few tolerance and material improvements. Instead, I've been putting it through its paces, making sure it can work decently accurately, reliably, and safely. Maybe v21 a little bit later...
 
-12h ago
+14h ago
+
+---
+
+**[Roomba co-founder says practical home robots may matter more than humanoids](https://www.reddit.com/r/robotics/comments/1t5hkkc/roomba_cofounder_says_practical_home_robots_may/)**
+
+Colin Angle, Roomba co-founder and former iRobot CEO, has launched a new company called Familiar Machines & Magic focused on home robotics. His view is that humanoids are not the obvious starting point for robots in the home. A home robot should be designed around the job it is meant to do, not around copying the human body. A $20,000 humanoid pushing an upright vacuum is not a practical use case when robot vacuums already exist. For home robotics, Angle points toward robots built around routine, interaction, wellness, and companionship rather than general-purpose humanoids trying to handle household chores.
+
+1h ago
+
+---
+
+**[Mantis by All3 autonomous construction robot with 4m reach, 100kg payload that builds on real construction sites](https://www.reddit.com/r/robotics/comments/1t5ihmn/mantis_by_all3_autonomous_construction_robot_with/)**
+
+54m ago
 
 ---
 
 **[Testing cingoli di Wall-E](https://www.reddit.com/r/robotics/comments/1t52tyl/testing_cingoli_di_walle/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -50,7 +64,7 @@ Well, what good is designing a hand if it can't actually do anything, so here's 
 
 Designed the chassis in Fusion 360, exported to URDF, and built the full stack using ROS 2. Stack: Nav2 for navigation & path planning ArUco-based visual docking for precise alignment Custom waypoint sequencing for multi-shelf tasks Gazebo + RViz for simulation & visualization Challenge: LiDAR point cloud rotated with the robot in RViz, breaking the mapping and navigation. Root cause: odom/TF mismatch during turns. Fix: Developed a GroundTruthOdom node using Gazebo pose data to publish stable /odom and consistent TF, including handling ROS-Gazebo timestamp issues. In the video: robot autonomously services requests for Shelf B and Shelf C and delivers them to the drop-off zone. Happy to discuss the system or challenges!
 
-4h ago
+6h ago
 
 ---
 
@@ -64,7 +78,7 @@ Designed the chassis in Fusion 360, exported to URDF, and built the full stack u
 
 Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use to do visual SLAM, but the raw video itself was too distorted for it to be good, so I vibecoded a toolkit to figure out the intrinsic parameters of my camera and be able to undistort the footage. It took me some time, at first the distortion was still there, so I went ahead and created a program that helped me sample ~60 frames with a mini guide on which positions I should record for best results, and yeah it worked, I was able to undistort my video from my 160deg camera, so I figured to share if anyone is also using wide cameras on their robots. I know this ain't nothing new or ground breaking, there are probably tools out there that already do this and I was just too lazy to look them up and set them up, but hey if this turns out helpful for someone besides just me, I'm happy with that. REPO LINK: https://github.com/L42ARO/Fisheye-Calibration
 
-6h ago
+8h ago
 
 ---
 
@@ -72,7 +86,15 @@ Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use
 
 Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with gemeni who in addition to being able to respond to you like Rocky would, in Rockys voice, also used tool calling to control the body
 
-🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 3h ago
+🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 5h ago
+
+---
+
+**[Are hands-on EE and embedded robotics engineers basically impossible to hire now?](https://www.reddit.com/r/robotics/comments/1t5i340/are_handson_ee_and_embedded_robotics_engineers/)**
+
+I recruit in robotics / physical AI and the market for certain engineering profiles has gotten completely absurd over the last year. The hardest profiles by far right now: Hands-on Electrical Engineers Not people who only do schematic/layout work. I mean engineers who have actually: debugged robots in the lab worked on motor control + power systems integrated sensors/comms/compute dealt with EMI issues survived hardware bring-up before demos or deployments A lot of resumes say “robotics.” Very few people have actually lived through shipping hardware. Hardware Embedded Engineers There are tons of software-heavy embedded candidates. Way fewer who can: work directly with hardware do board bring-up debug real systems understand timing/RT constraints handle cameras/sensors/edge compute operate close to production hardware The best ones usually came from AV, drones, robotics, aerospace, or defense. World model / Physical AI people This one is completely detached from reality now. Every robotics startup suddenly wants: embodied AI VLM/VLA world models robotics foundation models sim + real deployment But the pool of people who have actually deployed this stuff on real robots is tiny. Most of them already have 5 companies trying to hire them. What’s interesting is comp alone doesn’t seem to win anymore either. The best candidates care a lot about: technical credibility speed of execution whether leadership actually understands robotics whether the company is truly building/deploying real systems Curious if other robotics people are seeing the same thing or if this is just the current Bay Area bubble. If you know the best Engineers i offer generous referral fees. wallace0713@gmail.com
+
+1h ago
 
 ---
 
@@ -80,31 +102,7 @@ Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with g
 
 Blog: https://allenai.org/blog/molmoact2 Models: https://huggingface.co/collections/allenai/molmoact2-models Training dataset: https://huggingface.co/collections/allenai/molmoact2-datasets From Ai2 on 𝕏 (long thread): https://x.com/allen_ai/status/2051708880455868501
 
-7h ago
-
----
-
-**[Harvard engineers built ant-like robots that work together without central control](https://www.reddit.com/r/robotics/comments/1t4xl9d/harvard_engineers_built_antlike_robots_that_work/)**
-
-Researchers from the Harvard John A. Paulson School of Engineering and Applied Sciences and the Faculty of Arts and Sciences developed small cooperative robots that can organize themselves to either build structures or dismantle them, using only simple rules and changes in their surroundings.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/harvard-engineers-built-ant-like-robots-that-work-together-without-central-control) • 15h ago
-
----
-
-**[Autonomous solar panel installation: Crawler base, robotic arm, suction system, AI vision, and 3D sensors — placing ~30 kg panels with ±1–2 mm precision. At about 1 panel every 30 seconds.](https://www.reddit.com/r/robotics/comments/1t4alwf/autonomous_solar_panel_installation_crawler_base/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
-
-1d ago
-
----
-
-**[Looking for a used Pepper robot (SoftBank/Aldebaran)](https://www.reddit.com/r/robotics/comments/1t5fntc/looking_for_a_used_pepper_robot_softbankaldebaran/)**
-
-I would like to buy a used Pepper robot in Europe, preferably within the EU. Non-working ok if it not completely trashed. My plan is to improve Pepper with a modern CPU, AI, and better wrists. It’s just such a nicely designed robot to have around :-) I have seen the one on E-Bay, looking for alternatives.
-
-33m ago
+9h ago
 
 ---
 
@@ -112,29 +110,27 @@ I would like to buy a used Pepper robot in Europe, preferably within the EU. Non
 
 ## Google News: "robotics"
 
-**[MolmoAct 2: An open foundation for robots that work in the real world](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YSFRfd2xqcHhSNE5nUmdWZkRQMFprQi1FdDFXUVh0ODY5dEpjQjZPQjJ3UUQyUlRUal9tWE9YOWp1X2d3OWlXdjVR?oc=5)**
+**[MolmoAct 2: An open foundation for robots that work in the real world](https://allenai.org/blog/molmoact2)**
+
+MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
 
 Allen AI • 1d ago
 
 ---
 
-**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
+**[Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows](https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/)**
 
-WSJ • 1d ago
+Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.
 
----
-
-**[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
-
-Reuters • 1h ago
+TechCrunch • 1h ago
 
 ---
 
-**[Take a look at these hands: Genesis AI says it taught a robot to cook and play piano close to human-level performance](https://www.businessinsider.com/genesis-ai-robot-cook-play-piano-human-level-performance-2026-5)**
+**[New AI brain lets robots move like humans](https://www.foxnews.com/tech/new-ai-brain-lets-robots-move-like-humans)**
 
-Genesis AI CEO Zhou Xian said the company has built robot hands with dexterity and performance close to human levels.
+Genesis AI unveils GENE-26.5, a robotic brain it says enables general-purpose robots to perform complex physical tasks with human-level dexterity.
 
-Business Insider • 2h ago
+Fox News • 41m ago
 
 ---
 
@@ -146,33 +142,15 @@ BBC • 1d ago
 
 ---
 
-**[Underwater robotics expert reveals 'shipwreck city' hiding beneath major urban lake](https://www.foxnews.com/travel/underwater-robotics-expert-reveals-shipwreck-city-hiding-beneath-major-urban-lake)**
+**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-An underwater robotics expert is exploring nearly 100 targets in Seattle's Lake Union, calling the area a "shipwreck city" full of hidden maritime history.
-
-Fox News • 1d ago
+WSJ • 1d ago
 
 ---
 
-**[Glendale takes steps to regulate delivery robots as Serve Robotics fleet expands across Los Angeles area](https://abc7.com/post/glendale-takes-steps-regulate-delivery-robots-serve-robotics-fleet-expands-los-angeles-area/19048747/)**
+**[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
 
-While many residents believe the AI delivery robots offer a convenient service, some city councilmembers are questioning the rapid growth in the number of robots now sharing local sidewalks.
-
-ABC7 Los Angeles • 9h ago
-
----
-
-**[Local high school wins robotics world championship](https://fox5sandiego.com/news/local-news/holy-cows-robotics-championship/)**
-
-fox5sandiego.com • 1d ago
-
----
-
-**[Schaeffler sees humanoid robotics orders in three-digit million euros by 2030](https://finance.yahoo.com/sectors/technology/articles/schaeffler-sees-humanoid-robotics-orders-112441111.html)**
-
-Schaeffler expects its humanoid robotics business to build an order book in the hundreds of millions of euros by 2030, ‌the chief executive of the German machine and car parts maker said ‌on Tuesday.  CEO Klaus Rosenfeld, talking to Reuters after the company's first-quarter results, did not give a more ​specific estimate for the potential order book.  "We have been investing significantly in the humanoid robotics area and at the moment we are collaborating with around 45 humanoid robotics players globally," Rosenfeld said.
-
-Yahoo Finance • 1d ago
+Reuters • 3h ago
 
 ---
 
@@ -181,6 +159,28 @@ Yahoo Finance • 1d ago
 Aubie2, a team representing the Auburn Robotics Club, recently won the 2026 VEX Robotics World Championships in St. Louis. Squaring off against top teams from around the world, the squad of freshmen and sophomores emerged on top of what Guinness World Records calls the largest robotics competition on the planet — and inspiring the next generation of robotics enthusiasts in the process.
 
 Auburn University • 3d ago
+
+---
+
+**[Ouster Brings Support for REV8 Digital Lidar to Robotics and Edge AI Ecosystem](https://finance.yahoo.com/sectors/technology/articles/ouster-brings-support-rev8-digital-100000725.html)**
+
+SAN FRANCISCO, May 05, 2026--Ouster, Inc. (Nasdaq: OUST) ("Ouster" or the "Company"), a leader in sensing and perception for Physical AI, today announced the integration of its new Rev8 OS family of digital lidar sensors across the NVIDIA Jetson platform.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tennant counting on big growth in commercial floor-cleaning robotics, despite competition](https://www.startribune.com/robots-robotic-venture-tennant-floor-cleaners-partnership-brain-corp/601837097)**
+
+Star Tribune • 1h ago
+
+---
+
+**[Glendale takes steps to regulate delivery robots as Serve Robotics fleet expands across Los Angeles area](https://abc7.com/post/glendale-takes-steps-regulate-delivery-robots-serve-robotics-fleet-expands-los-angeles-area/19048747/)**
+
+While many residents believe the AI delivery robots offer a convenient service, some city councilmembers are questioning the rapid growth in the number of robots now sharing local sidewalks.
+
+ABC7 Los Angeles • 11h ago
 
 ---
 
@@ -194,7 +194,7 @@ Elon Musk's more affordable version of the Optimus robot is being discussed as a
 
 📺 Carros Show
 
-👁️ 2K • 👍 46 • 💬 15 • ⏱️ 8:07 • 22h ago
+👁️ 2K • 👍 48 • 💬 15 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ AI robots are moving from labs into real streets. China has already shown humano
 
 📺 AI Revolution
 
-👁️ 9K • 👍 378 • 💬 52 • ⏱️ 13:16 • 16h ago
+👁️ 10K • 👍 391 • 💬 54 • ⏱️ 13:16 • 18h ago
 
 ---
 
@@ -214,67 +214,7 @@ This humanoid robot just did something most machines cannot do. After being push
 
 📺 DPCcars
 
-👁️ 12K • 👍 127 • 💬 58 • ⏱️ 3:09 • 1d ago
-
----
-
-**[The Engineering Reason this Robot Feels Human | 1X Neo Factory](https://www.youtube.com/watch?v=Uh1bj4nZvXg)**
-
-I walked into this factory expecting to be impressed by the robots. What I wasn't expecting was to find one quietly sorting parts in ...
-
-📺 Tiff In Tech
-
-👁️ 48K • 👍 1K • 💬 111 • ⏱️ 11:06 • 5d ago
-
----
-
-**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
-
-You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
-
-📺 KTLA 5
-
-👁️ 14K • 👍 122 • 💬 58 • ⏱️ 2:14 • 20h ago
-
----
-
-**[Japan Airlines to replace workers with humanoid robots](https://www.youtube.com/watch?v=_Lgughpiamw)**
-
-Japan Airlines is trialling humanoid robots for luggage handling due to rising visitor numbers and a drop in the number of people ...
-
-📺 Sky News Australia
-
-👁️ 64K • 👍 818 • 💬 375 • ⏱️ 2:15 • 5d ago
-
----
-
-**[AI ROBOTS Ready to TAKE OVER — Figure 03 + 1X NEO Just Shocked the World](https://www.youtube.com/watch?v=FspQyTAvJTU)**
-
-The humanoid robot revolution just kicked into HYPER-SPEED — and you're not ready for what's coming! Figure AI and 1X just ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 116 • 💬 13 • ⏱️ 20:22 • 1d ago
-
----
-
-**[Noetix Xiao Yue Is Here.. The Robot Head That Feels Too Real](https://www.youtube.com/watch?v=-2VizRPwnDE)**
-
-humanoidrobot #robot #usa The Noetix Xiao Yue, developed by Noetix Robotics, represents a leap in biomimetic engineering, ...
-
-📺 OTOFOOTAGE
-
-👁️ 15K • 👍 350 • 💬 100 • ⏱️ 2:07 • 1d ago
-
----
-
-**[Is my Gearbox Precise? #3dprinting #gearbox #testing #robotics](https://www.youtube.com/watch?v=8Bh0IXDBw20)**
-
-I test to see if my 3D printed gearbox is precise. I made a pointer attachment for the gearbox to see if it returns to the same position ...
-
-📺 Advanced Hobby Lab
-
-👁️ 160K • 👍 2K • 💬 14 • ⏱️ 0:28 • 5d ago
+👁️ 13K • 👍 132 • 💬 59 • ⏱️ 3:09 • 1d ago
 
 ---
 
@@ -284,7 +224,67 @@ Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com
 
 📺 Aaed Musa
 
-👁️ 112K • 👍 11K • 💬 705 • ⏱️ 22:12 • 4d ago
+👁️ 113K • 👍 12K • 💬 709 • ⏱️ 22:12 • 5d ago
+
+---
+
+**[China&#39;s Robots Are Beating Humans on Ice. This Is Just the Beginning.](https://www.youtube.com/watch?v=azECs1IBdH0)**
+
+That robot is not CGI. It's the Unitree G1 — a commercially available humanoid robot from Shenzhen, China — gliding across a ...
+
+📺 TechFrontierNow
+
+👁️ 95K • 👍 2K • 💬 215 • ⏱️ 11:20 • 6d ago
+
+---
+
+**[The Engineering Reason this Robot Feels Human | 1X Neo Factory](https://www.youtube.com/watch?v=Uh1bj4nZvXg)**
+
+I walked into this factory expecting to be impressed by the robots. What I wasn't expecting was to find one quietly sorting parts in ...
+
+📺 Tiff In Tech
+
+👁️ 49K • 👍 1K • 💬 115 • ⏱️ 11:06 • 6d ago
+
+---
+
+**[Japan Airlines to replace workers with humanoid robots](https://www.youtube.com/watch?v=_Lgughpiamw)**
+
+Japan Airlines is trialling humanoid robots for luggage handling due to rising visitor numbers and a drop in the number of people ...
+
+📺 Sky News Australia
+
+👁️ 65K • 👍 830 • 💬 382 • ⏱️ 2:15 • 5d ago
+
+---
+
+**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
+
+You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
+
+📺 KTLA 5
+
+👁️ 14K • 👍 122 • 💬 58 • ⏱️ 2:14 • 22h ago
+
+---
+
+**[US and China race to build best humanoid robots](https://www.youtube.com/watch?v=iMXb4k2b130)**
+
+The U.S. and China are in a race to develop the next wave of mechanical helpers: humanoid robots. ABC News' Britt Clennett has ...
+
+📺 ABC News
+
+👁️ 26K • 👍 157 • 💬 109 • ⏱️ 4:03 • 5d ago
+
+---
+
+**[Noetix Xiao Yue Is Here.. The Robot Head That Feels Too Real](https://www.youtube.com/watch?v=-2VizRPwnDE)**
+
+humanoidrobot #robot #usa The Noetix Xiao Yue, developed by Noetix Robotics, represents a leap in biomimetic engineering, ...
+
+📺 OTOFOOTAGE
+
+👁️ 15K • 👍 369 • 💬 107 • ⏱️ 2:07 • 1d ago
 
 ---
 
