@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-06T13:13:33.930273+00:00'
+updated: '2026-05-06T15:41:21.474059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 06, 2026 at 13:13 UTC  
+**Last Updated:** May 06, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,13 @@ Robotics research and industry news
 
 Well, what good is designing a hand if it can't actually do anything, so here's a couple actions (all in real time) I was able to achieve with my hand & wrist combo! Surprising just how many more poses and gestures having a wrist allows for vs just a hand. Design wise, not much has changed since my last post, aside from a few tolerance and material improvements. Instead, I've been putting it through its paces, making sure it can work decently accurately, reliably, and safely. Maybe v21 a little bit later...
 
-9h ago
+12h ago
 
 ---
 
 **[Testing cingoli di Wall-E](https://www.reddit.com/r/robotics/comments/1t52tyl/testing_cingoli_di_walle/)**
 
-8h ago
-
----
-
-**[Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)**
-
-22h ago
+10h ago
 
 ---
 
@@ -56,15 +50,13 @@ Well, what good is designing a hand if it can't actually do anything, so here's 
 
 Designed the chassis in Fusion 360, exported to URDF, and built the full stack using ROS 2. Stack: Nav2 for navigation & path planning ArUco-based visual docking for precise alignment Custom waypoint sequencing for multi-shelf tasks Gazebo + RViz for simulation & visualization Challenge: LiDAR point cloud rotated with the robot in RViz, breaking the mapping and navigation. Root cause: odom/TF mismatch during turns. Fix: Developed a GroundTruthOdom node using Gazebo pose data to publish stable /odom and consistent TF, including handling ROS-Gazebo timestamp issues. In the video: robot autonomously services requests for Shelf B and Shelf C and delivers them to the drop-off zone. Happy to discuss the system or challenges!
 
-1h ago
+4h ago
 
 ---
 
-**[Ai2 released MolmoAct 2: a fully open-source action reasoning model for real-world robotics (with MolmoAct 2-Bimanual YAM dataset)](https://www.reddit.com/r/robotics/comments/1t56zqa/ai2_released_molmoact_2_a_fully_opensource_action/)**
+**[Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)**
 
-Blog: https://allenai.org/blog/molmoact2 Models: https://huggingface.co/collections/allenai/molmoact2-models Training dataset: https://huggingface.co/collections/allenai/molmoact2-datasets From Ai2 on 𝕏 (long thread): https://x.com/allen_ai/status/2051708880455868501
-
-4h ago
+1d ago
 
 ---
 
@@ -72,7 +64,7 @@ Blog: https://allenai.org/blog/molmoact2 Models: https://huggingface.co/collecti
 
 Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use to do visual SLAM, but the raw video itself was too distorted for it to be good, so I vibecoded a toolkit to figure out the intrinsic parameters of my camera and be able to undistort the footage. It took me some time, at first the distortion was still there, so I went ahead and created a program that helped me sample ~60 frames with a mini guide on which positions I should record for best results, and yeah it worked, I was able to undistort my video from my 160deg camera, so I figured to share if anyone is also using wide cameras on their robots. I know this ain't nothing new or ground breaking, there are probably tools out there that already do this and I was just too lazy to look them up and set them up, but hey if this turns out helpful for someone besides just me, I'm happy with that. REPO LINK: https://github.com/L42ARO/Fisheye-Calibration
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +72,15 @@ Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use
 
 Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with gemeni who in addition to being able to respond to you like Rocky would, in Rockys voice, also used tool calling to control the body
 
-🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 1h ago
+🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 3h ago
+
+---
+
+**[Ai2 released MolmoAct 2: a fully open-source action reasoning model for real-world robotics (with MolmoAct 2-Bimanual YAM dataset)](https://www.reddit.com/r/robotics/comments/1t56zqa/ai2_released_molmoact_2_a_fully_opensource_action/)**
+
+Blog: https://allenai.org/blog/molmoact2 Models: https://huggingface.co/collections/allenai/molmoact2-models Training dataset: https://huggingface.co/collections/allenai/molmoact2-datasets From Ai2 on 𝕏 (long thread): https://x.com/allen_ai/status/2051708880455868501
+
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with g
 
 Researchers from the Harvard John A. Paulson School of Engineering and Applied Sciences and the Faculty of Arts and Sciences developed small cooperative robots that can organize themselves to either build structures or dismantle them, using only simple rules and changes in their surroundings.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/harvard-engineers-built-ant-like-robots-that-work-together-without-central-control) • 12h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/harvard-engineers-built-ant-like-robots-that-work-together-without-central-control) • 15h ago
 
 ---
 
@@ -100,11 +100,11 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2051330286190035151
 
 ---
 
-**[Presenting the XR-4 „Rehbar“ („Pioneer“ in Urdu 🇵🇰)](https://www.reddit.com/r/robotics/comments/1t4au4m/presenting_the_xr4_rehbar_pioneer_in_urdu/)**
+**[Looking for a used Pepper robot (SoftBank/Aldebaran)](https://www.reddit.com/r/robotics/comments/1t5fntc/looking_for_a_used_pepper_robot_softbankaldebaran/)**
 
-XR-4 Rehbar I wanted to showcase a personal project that I had been working on for around a year. As a graduate student in EE and embedded engineer working in Industrial IoT, I have wanted to pivot to robotics and autonomous mobility for a long time. With simulation and virtual environments not being possible for technical reasons and on account of being a very hands-on kind of learner and with the goal of going through a process of building something from scratch, I decided to build a test platform in the form of a rover which I can modify, upgrade and build upon. I also researched similar open-source, hobbyist and professional projects to draw inspiration. Several projects on Instructables and Reddit helped me in refining my ideas and the LeoRover platform from FictionLab was something which made me go: „this is it, this is what my rover should be like“. I want this platform to be easily reconfigurable and upgradeable. It is definitely not meant to be a hobby project, it is intended to stand somewhere between a hobby/DIY project and a high end platform like the LeoRover which is not for the average engineer looking to upskill in his home lab or develop and test out some stuff on his own, only being affordable if you’re a university lab or a government funded research institution. With that, I present the XR-4 Rehbar (lit. „Pioneer“ in Urdu) GitHub: rover-xr4 The GitHub repo and documentation is not up to date at this point, I will be updating them and this post in the near future. Electronics and Software CTU - Control and Telemetry Unit: sends telecommands to the OBC i.e. steering commands, lights and peripherals and receives telemetry (voltage and current, GPS data, IMU data, temperature and statuses) over the ESP-NOW protocol. Tested outdoors LoS range was 100-120m OBC - Onboard Controller: motor and steering control, power monitoring, safety related functionality. Sends telemetry to CTU and receives telecommands from CTU over ESP-NOW. Lower level controller which can interface with a SBC based mission computer on the future for autonomous operations The software for both CTU and OBC is written using a mix of Arduino and ESPIDF toolkits in VSCode and is available in the GitHub repo linked above. Mechanical and Structures Modified 4-wheel rocker suspension with differential drive/skid steering. Each wheel is driven by an independent 12V 100RPM Brushed DC motor without encoders (motors with encoders were just too expensive, sadly). The structure is 3D printed in its entirety except the rocker arms which are extruded Aluminium profiles. I am currently cleaning up and standardizing the naming convention of my CAD so that I can open source it. It will be up soon. A note on future work: I am working on upgrading the platform with autonomous navigation and driving and currently looking at architectural options for that I.e. options for hardware and sensors, communication and control architectures. Cost is obviously a concern and I want to limit it by using as much of the hardware I already have since I am funding this project myself. Lastly, I will welcome any and all questions, comments, opinions, criticism and ideas about anything - the design, electronics and the future work options (guidance, inspiration and ideas are badly needed :)) Thank you :)
+I would like to buy a used Pepper robot in Europe, preferably within the EU. Non-working ok if it not completely trashed. My plan is to improve Pepper with a modern CPU, AI, and better wrists. It’s just such a nicely designed robot to have around :-) I have seen the one on E-Bay, looking for alternatives.
 
-1d ago
+33m ago
 
 ---
 
@@ -112,11 +112,9 @@ XR-4 Rehbar I wanted to showcase a personal project that I had been working on f
 
 ## Google News: "robotics"
 
-**[MolmoAct 2: An open foundation for robots that work in the real world](https://allenai.org/blog/molmoact2)**
+**[MolmoAct 2: An open foundation for robots that work in the real world](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YSFRfd2xqcHhSNE5nUmdWZkRQMFprQi1FdDFXUVh0ODY5dEpjQjZPQjJ3UUQyUlRUal9tWE9YOWp1X2d3OWlXdjVR?oc=5)**
 
-MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
-
-Allen AI • 21h ago
+Allen AI • 1d ago
 
 ---
 
@@ -126,11 +124,25 @@ WSJ • 1d ago
 
 ---
 
-**[Delivery robots still learning from 'edge cases,' scientists say](https://chicago.suntimes.com/news/2026/05/06/delivery-robots-chicago-crashes-damage)**
+**[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
 
-Engineering experts who were part of a University of Pennsylvania study offer some solutions: Improve the robots' complex internal sensors and address the problem of clean glass being harder to see than a dirty surface.
+Reuters • 1h ago
 
-Chicago Sun-Times • 2h ago
+---
+
+**[Take a look at these hands: Genesis AI says it taught a robot to cook and play piano close to human-level performance](https://www.businessinsider.com/genesis-ai-robot-cook-play-piano-human-level-performance-2026-5)**
+
+Genesis AI CEO Zhou Xian said the company has built robot hands with dexterity and performance close to human levels.
+
+Business Insider • 2h ago
+
+---
+
+**[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
+
+Humanoid robots are being added to the automation of waste sorting.
+
+BBC • 1d ago
 
 ---
 
@@ -142,11 +154,17 @@ Fox News • 1d ago
 
 ---
 
-**[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
+**[Glendale takes steps to regulate delivery robots as Serve Robotics fleet expands across Los Angeles area](https://abc7.com/post/glendale-takes-steps-regulate-delivery-robots-serve-robotics-fleet-expands-los-angeles-area/19048747/)**
 
-Humanoid robots are being added to the automation of waste sorting.
+While many residents believe the AI delivery robots offer a convenient service, some city councilmembers are questioning the rapid growth in the number of robots now sharing local sidewalks.
 
-BBC • 1d ago
+ABC7 Los Angeles • 9h ago
+
+---
+
+**[Local high school wins robotics world championship](https://fox5sandiego.com/news/local-news/holy-cows-robotics-championship/)**
+
+fox5sandiego.com • 1d ago
 
 ---
 
@@ -166,30 +184,6 @@ Auburn University • 3d ago
 
 ---
 
-**[SAIL tech lets robots perform human-scale tasks far more quickly](https://newatlas.com/robotics/sail-robots-human-scale-tasks/)**
-
-Thanks to researchers at Georgia Tech, robots have taken several new steps towards replacing human labor – and not simply for dangerous tasks such as mining the depths of the Earth and exploring the Moon, or difficult tasks such as high-speed mass-assembly of thousands of cars.
-
-New Atlas • 1d ago
-
----
-
-**[C2 Robotics christens first US export Speartooth LUUV](https://www.navalnews.com/naval-news/2026/05/c2-robotics-christens-first-us-export-speartooth-luuv/)**
-
-C2 Robotics has today marked a significant milestone with the commissioning and christening of its Speartooth Large Uncrewed Undersea Vehicle (LUUV), the first to be delivered to the United States.
-
-navalnews.com • 5d ago
-
----
-
-**[A Battle of the Robots](https://now.tufts.edu/2026/05/04/battle-robots)**
-
-On a Monday afternoon in the Tsungming Tu Complex, a flurry of small robots battled each other. No, this wasn’t an invasion straight out of sci-fi—it was
-
-Tufts Now • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +194,7 @@ Elon Musk's more affordable version of the Optimus robot is being discussed as a
 
 📺 Carros Show
 
-👁️ 1K • 👍 45 • 💬 15 • ⏱️ 8:07 • 19h ago
+👁️ 2K • 👍 46 • 💬 15 • ⏱️ 8:07 • 22h ago
 
 ---
 
@@ -210,7 +204,7 @@ AI robots are moving from labs into real streets. China has already shown humano
 
 📺 AI Revolution
 
-👁️ 8K • 👍 327 • 💬 49 • ⏱️ 13:16 • 14h ago
+👁️ 9K • 👍 378 • 💬 52 • ⏱️ 13:16 • 16h ago
 
 ---
 
@@ -220,7 +214,7 @@ This humanoid robot just did something most machines cannot do. After being push
 
 📺 DPCcars
 
-👁️ 12K • 👍 120 • 💬 55 • ⏱️ 3:09 • 1d ago
+👁️ 12K • 👍 127 • 💬 58 • ⏱️ 3:09 • 1d ago
 
 ---
 
@@ -230,7 +224,7 @@ I walked into this factory expecting to be impressed by the robots. What I wasn'
 
 📺 Tiff In Tech
 
-👁️ 47K • 👍 1K • 💬 111 • ⏱️ 11:06 • 5d ago
+👁️ 48K • 👍 1K • 💬 111 • ⏱️ 11:06 • 5d ago
 
 ---
 
@@ -240,7 +234,7 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 📺 KTLA 5
 
-👁️ 14K • 👍 120 • 💬 58 • ⏱️ 2:14 • 17h ago
+👁️ 14K • 👍 122 • 💬 58 • ⏱️ 2:14 • 20h ago
 
 ---
 
@@ -250,17 +244,7 @@ Japan Airlines is trialling humanoid robots for luggage handling due to rising v
 
 📺 Sky News Australia
 
-👁️ 62K • 👍 794 • 💬 362 • ⏱️ 2:15 • 5d ago
-
----
-
-**[CHEATER in War Robots - REALTALK](https://www.youtube.com/watch?v=KzpE5llTDVY)**
-
-War Robots Gameplay about different cases of Cheating - WR My War Robots Creator Link: https://wr.my.games/manni - Code: ...
-
-📺 Manni-Gaming
-
-👁️ 16K • 👍 1K • 💬 370 • ⏱️ 19:36 • 23h ago
+👁️ 64K • 👍 818 • 💬 375 • ⏱️ 2:15 • 5d ago
 
 ---
 
@@ -270,17 +254,17 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 114 • 💬 13 • ⏱️ 20:22 • 1d ago
+👁️ 3K • 👍 116 • 💬 13 • ⏱️ 20:22 • 1d ago
 
 ---
 
-**[I Built an Even Better Robot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)**
+**[Noetix Xiao Yue Is Here.. The Robot Head That Feels Too Real](https://www.youtube.com/watch?v=-2VizRPwnDE)**
 
-Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com/aaedmusayt Buy the CARA 2.0 project files: ...
+humanoidrobot #robot #usa The Noetix Xiao Yue, developed by Noetix Robotics, represents a leap in biomimetic engineering, ...
 
-📺 Aaed Musa
+📺 OTOFOOTAGE
 
-👁️ 111K • 👍 11K • 💬 696 • ⏱️ 22:12 • 4d ago
+👁️ 15K • 👍 350 • 💬 100 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -290,7 +274,17 @@ I test to see if my 3D printed gearbox is precise. I made a pointer attachment f
 
 📺 Advanced Hobby Lab
 
-👁️ 151K • 👍 2K • 💬 14 • ⏱️ 0:28 • 5d ago
+👁️ 160K • 👍 2K • 💬 14 • ⏱️ 0:28 • 5d ago
+
+---
+
+**[I Built an Even Better Robot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)**
+
+Let's make another Ropebot dog! Subscribe to my Patreon: https://www.patreon.com/aaedmusayt Buy the CARA 2.0 project files: ...
+
+📺 Aaed Musa
+
+👁️ 112K • 👍 11K • 💬 705 • ⏱️ 22:12 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-06T13:13:33.921075+00:00'
+updated: '2026-05-06T15:41:21.466024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 13:13 UTC  
+**Last Updated:** May 06, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,026.60
+### $81,689.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +7.6%  
-**30d:** +14.2%  
-**90d:** +16.4%  
-**1y:** -15.3%  
+**24h:** +0.3%  
+**7d:** +6.8%  
+**30d:** +13.3%  
+**90d:** +15.5%  
+**1y:** -16.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1652.84B
+**Market Cap:** $1635.25B
 Rank #1
 
-**Circulating Supply:** 20,025,375 BTC
+**Circulating Supply:** 20,025,506 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--34.4%
+-35.3%
 
 **All-Time Low:** $67.81
-+121927.7%
++120141.9%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Finally reached 0.1 bitcoin after 6 months of grinding at 17.](https://www.reddit.com/r/Bitcoin/comments/1t4skc0/finally_reached_01_bitcoin_after_6_months_of/)**
-
-About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
-
-16h ago
-
----
-
 **[What’s causing BTC to rally upwards now?](https://www.reddit.com/r/Bitcoin/comments/1t5afmh/whats_causing_btc_to_rally_upwards_now/)**
 
 Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
 
-1h ago
+3h ago
+
+---
+
+**[Finally reached 0.1 bitcoin after 6 months of grinding at 17.](https://www.reddit.com/r/Bitcoin/comments/1t4skc0/finally_reached_01_bitcoin_after_6_months_of/)**
+
+About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
+
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello all, been away for the past week or so and just checked the pricing. What�
 
 as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
-3h ago
+5h ago
 
 ---
 
@@ -105,39 +105,7 @@ as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
 The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest country by Bitcoin mining hashrate. Colombian President Gustavo Petro said the nation’s Caribbean coast has the potential to become a Bitcoin mining hub, leveraging its surplus renewable energy to attract foreign investment and spur economic development. In a post on X on Tuesday, Petro said the Caribbean cities of Barranquilla, Santa Marta and Riohacha could host Bitcoin (BTC) mining facilities and tap the country’s clean energy sources, following a similar path to Venezuela and Paraguay in recent years. “It’s an immense boost to the development of the Caribbean,” Petro said, proposing that the Wayúu community — Colombia’s largest Indigenous community, which mainly resides on the Caribbean coast — could be co-owners of the project. Bitcoin mining analysts such as Hashlabs managing partner Jaran Mellerud have said the industry can have a sizable economic impact on emerging countries looking to convert otherwise unused electricity into cash flow. There’s also an opening for countries with low electricity costs to capture a larger share of the Bitcoin network hashrate as US commercial miners continue expanding into AI and high-performance computing in pursuit of higher-margin opportunities. Petro’s remarks were made in response to a post from Luxor Technology’s Alessandro Cecere, who noted that Paraguay’s share of Bitcoin hashrate has risen to 4.3% since tapping into hydroelectric energy at its Itaipu dam. The small, landlocked South American country is now the fourth-largest Bitcoin miner behind the US, Russia and China. A World Bank report published in April 2024 found that Colombia generates as much as 75% of its electricity from renewable energy — more than twice the global average. Tapping these renewable sources would mitigate concerns flagged by Petro that Bitcoin mined with fossil fuels contributes to global warming and potential “climate collapse.” Petro has served as Colombia’s president since August 2022 and has adopted a relatively neutral stance on Bitcoin and the crypto industry. Petro would only have another three months to lead the Bitcoin mining initiative as his presidential term comes to an end in August. He is not running in Colombia’s upcoming presidential election on May 31 due to constitutional limits. Data from prediction market Kalshi suggests that left-leaning Senator Iván Cepeda Castro and Abelardo de la Espriella, a conservative lawyer and free-market advocate, are the clear front-runners to replace Petro. Neither candidate has made significant public comments on Bitcoin or digital assets to date.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 6h ago
-
----
-
-**[Doing nothing is 2nd best thing for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t589pi/doing_nothing_is_2nd_best_thing_for_bitcoin/)**
-
-Hodling, or simply dca, or putting lump sum. But never do something else other than that.
-
-3h ago
-
----
-
-**[Daily Discussion, May 06, 2026](https://www.reddit.com/r/Bitcoin/comments/1t54cy0/daily_discussion_may_06_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
-
----
-
-**[I ran the numbers on Coinbase One for DCA buyers, there's a specific range where the subscription costs more than no subscription.](https://www.reddit.com/r/Bitcoin/comments/1t4u8jz/i_ran_the_numbers_on_coinbase_one_for_dca_buyers/)**
-
-I've been DCA'ing BTC on Coinbase Advanced Trade and got curious whether Coinbase One was actually worth it. I expected a clean "yes if you trade more than X" answer. Turned out there are four different zones depending on your daily DCA amount, and one of them is a trap where the subscription costs you $0.99/year MORE than just not subscribing. All numbers below verified via the public Coinbase API + manual calculation. USD figures throughout. The default (no subscription) Coinbase Advanced Trade charges: Taker fee (market orders): 1.20% Minimum order via API: $1.00 USDC Real order I made today: $1.67 BTC purchase → $0.02 fee → 1.20% exactly. The free reduction most people don't know about Coinbase automatically lowers your taker fee based on your rolling 30-day volume. No forms, no requests, recalculated daily: 30-day volume Taker fee < $1K 1.20% $1K – $10K 0.75% $10K – $50K 0.40% $50K – $100K 0.25% At ~$33/day DCA you cross $1K/month and drop to 0.75% automatically — for free. Coinbase One Basic — $39.99/year (renews $49.99) Replaces your taker fee with ~0.10% spread, but only on the first $500/month traded. Above that cap, your regular rate applies. Zone 1: under $10/day → don't subscribe Annual No sub (1.20%) $43.20 With Basic $43.59 Break-even at exactly $10/day. Below it, no sub is cheaper. Zone 2: $10–$30/day → Basic wins Daily DCA No sub (1.20%) With Basic Savings $15 $64.80 $45.39 $19 $20 $86.40 $60.39 $26 $25 $108.00 $81.99 $26 Once you cross the $500/month cap, Basic saves exactly $26.01/year, always. Zone 3: $30–$82/day → the trap At ~$33/day, your volume crosses $1K/month and Coinbase drops you to 0.75% for free. Now the comparison is Basic vs 0.75% — not Basic vs 1.20%. At $33/day ($990/month): Annual No sub (0.75% auto) $89.10 With Basic $90.09 Basic costs $0.99/year MORE than no subscription. This isn't coincidence — it's algebraic: Cap saves: $500 × 12 × 0.65% = $39.00 Subscription costs: $39.99 Net: −$0.99/year, at any volume in this zone. Coinbase One Preferred — $191.99/year Same ~0.10% spread, but no cap. Beats the 0.75% auto-tier above ~$82/day. At $82/day: No sub (0.75%): $221.40/year With Preferred: $221.51/year → break-even Above $82/day, Preferred starts saving real money. TL;DR / Decision tree Daily DCA Best option Annual fee level < $10 No sub ~$43 $10 – $30 Basic One saves $19–26/yr $30 – $82 No sub (0.75% auto) $0.99 cheaper than Basic > $82 Preferred One saves vs auto-tier Caveats Tier thresholds are evaluated on a 30-day rolling basis, so the $33/day boundary shifts slightly depending on the exact number of days in the month. Coinbase One spread is ~0.10% in my testing but varies 0.05–0.20% with market conditions. Pricing shown is first-year promo. Basic renews at $49.99, Preferred at $239.99 — that shifts the break-even points. This is fee math only. Doesn't factor spread quality on larger orders, slippage, or USDC vs USD funding costs. Not financial advice, not affiliated with Coinbase. Just math.
-
-14h ago
-
----
-
-**[Lessons from a Bitcoin Whale: Interview with Sheldon Weisfeld | Bitcoin Conference 2026](https://www.reddit.com/r/Bitcoin/comments/1t59d9r/lessons_from_a_bitcoin_whale_interview_with/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=_9y169eYEsM) • 2h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 9h ago
 
 ---
 
@@ -145,7 +113,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
 
-54m ago
+3h ago
+
+---
+
+**[Doing nothing is 2nd best thing for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t589pi/doing_nothing_is_2nd_best_thing_for_bitcoin/)**
+
+Hodling, or simply dca, or putting lump sum. But never do something else other than that.
+
+5h ago
 
 ---
 
@@ -153,7 +129,31 @@ For those of you that waited for a drop to $40 000 - $50 000, that never came, a
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=6P2pThP-88A) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=6P2pThP-88A) • 3h ago
+
+---
+
+**[Daily Discussion, May 06, 2026](https://www.reddit.com/r/Bitcoin/comments/1t54cy0/daily_discussion_may_06_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
+
+---
+
+**[I ran the numbers on Coinbase One for DCA buyers, there's a specific range where the subscription costs more than no subscription.](https://www.reddit.com/r/Bitcoin/comments/1t4u8jz/i_ran_the_numbers_on_coinbase_one_for_dca_buyers/)**
+
+I've been DCA'ing BTC on Coinbase Advanced Trade and got curious whether Coinbase One was actually worth it. I expected a clean "yes if you trade more than X" answer. Turned out there are four different zones depending on your daily DCA amount, and one of them is a trap where the subscription costs you $0.99/year MORE than just not subscribing. All numbers below verified via the public Coinbase API + manual calculation. USD figures throughout. The default (no subscription) Coinbase Advanced Trade charges: Taker fee (market orders): 1.20% Minimum order via API: $1.00 USDC Real order I made today: $1.67 BTC purchase → $0.02 fee → 1.20% exactly. The free reduction most people don't know about Coinbase automatically lowers your taker fee based on your rolling 30-day volume. No forms, no requests, recalculated daily: 30-day volume Taker fee < $1K 1.20% $1K – $10K 0.75% $10K – $50K 0.40% $50K – $100K 0.25% At ~$33/day DCA you cross $1K/month and drop to 0.75% automatically — for free. Coinbase One Basic — $39.99/year (renews $49.99) Replaces your taker fee with ~0.10% spread, but only on the first $500/month traded. Above that cap, your regular rate applies. Zone 1: under $10/day → don't subscribe Annual No sub (1.20%) $43.20 With Basic $43.59 Break-even at exactly $10/day. Below it, no sub is cheaper. Zone 2: $10–$30/day → Basic wins Daily DCA No sub (1.20%) With Basic Savings $15 $64.80 $45.39 $19 $20 $86.40 $60.39 $26 $25 $108.00 $81.99 $26 Once you cross the $500/month cap, Basic saves exactly $26.01/year, always. Zone 3: $30–$82/day → the trap At ~$33/day, your volume crosses $1K/month and Coinbase drops you to 0.75% for free. Now the comparison is Basic vs 0.75% — not Basic vs 1.20%. At $33/day ($990/month): Annual No sub (0.75% auto) $89.10 With Basic $90.09 Basic costs $0.99/year MORE than no subscription. This isn't coincidence — it's algebraic: Cap saves: $500 × 12 × 0.65% = $39.00 Subscription costs: $39.99 Net: −$0.99/year, at any volume in this zone. Coinbase One Preferred — $191.99/year Same ~0.10% spread, but no cap. Beats the 0.75% auto-tier above ~$82/day. At $82/day: No sub (0.75%): $221.40/year With Preferred: $221.51/year → break-even Above $82/day, Preferred starts saving real money. TL;DR / Decision tree Daily DCA Best option Annual fee level < $10 No sub ~$43 $10 – $30 Basic One saves $19–26/yr $30 – $82 No sub (0.75% auto) $0.99 cheaper than Basic > $82 Preferred One saves vs auto-tier Caveats Tier thresholds are evaluated on a 30-day rolling basis, so the $33/day boundary shifts slightly depending on the exact number of days in the month. Coinbase One spread is ~0.10% in my testing but varies 0.05–0.20% with market conditions. Pricing shown is first-year promo. Basic renews at $49.99, Preferred at $239.99 — that shifts the break-even points. This is fee math only. Doesn't factor spread quality on larger orders, slippage, or USDC vs USD funding costs. Not financial advice, not affiliated with Coinbase. Just math.
+
+17h ago
+
+---
+
+**[Freedom Through vs. Freedom Within](https://www.reddit.com/r/Bitcoin/comments/1t58cyo/freedom_through_vs_freedom_within/)**
+
+Fiat currencies offer freedom through money: deposited in a bank account, accumulated so that we’re free in spending. With Bitcoin we have freedom within its system, through self-custody, P2P deposits and settlements. Money is freedom. Bitcoin is the currency of it. Not all money is free.
+
+5h ago
 
 ---
 
@@ -165,7 +165,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-CNBC • 13h ago
+CNBC • 15h ago
+
+---
+
+**[The New Rules of Bitcoin - Sponsor Content - Unchained](https://www.theatlantic.com/sponsored/unchained-2026/new-rules-of-bitcoin/4095/)**
+
+A different way to understand bitcoin
+
+The Atlantic • 58m ago
 
 ---
 
@@ -173,7 +181,7 @@ CNBC • 13h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 28m ago
+Fortune • 2h ago
 
 ---
 
@@ -181,29 +189,27 @@ Fortune • 28m ago
 
 May 5, 2026
 
-Strategy • 16h ago
+Strategy • 19h ago
 
 ---
 
-**[Strategy Posts Wider Loss as Bitcoin Holdings Hit $64 Billion. The Stock Rises Anyway.](https://www.barrons.com/articles/strategy-loss-bitcoin-dd50fe8b)**
+**[Strategy Posts $14.5 Billion Loss on Bitcoin Holdings. The ‘Never Sell’ Mantra Fades.](https://www.barrons.com/articles/strategy-loss-bitcoin-dd50fe8b)**
 
-Barron's • 2h ago
-
----
-
-**[Bitcoin's price rally has a hidden rhythm. Here are the hours and days driving gains.](https://www.coindesk.com/markets/2026/05/06/bitcoin-s-price-rally-has-a-hidden-rhythm-here-are-the-hours-and-days-driving-gains)**
-
-Bitcoin’s three-month rally shows a clear internal structure than most traders might expect, with performance clustering around specific trading windows across global sessions.
-
-CoinDesk • 4h ago
+Barron's • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html)**
+**[Michael Saylor finally wants to sell Bitcoin](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWhwZVVvOUo3VkhMaUpLR0NEOGRtRVRMRE9FWGlyR0pkbngtY0NTMGZ5dzV0R3h3b2F2M1JYODIxY0twQzNUNUctZFdkeUVyLTNtSnFYTl9oZDlSQm5Oemx2NkdITUxOZFJzc1RsSU9pazYxUTlqQnAxZGdEQXN2ZktWOVJQT1QtSVE?oc=5)**
 
-Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
+Yahoo Finance Singapore • 3h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[BTC climbs, ETH lags as investors pile into altcoins: Crypto Markets Today](https://www.coindesk.com/markets/2026/05/06/bitcoin-holds-gains-while-zec-and-dash-post-double-digit-rallies)**
+
+BTC climbed above $82,000 as a weaker dollar lifted crypto markets, while privacy coins and AI-linked tokens led an altcoin rally.
+
+CoinDesk • 5h ago
 
 ---
 
@@ -211,13 +217,13 @@ Yahoo Finance • 1h ago
 
 Strategy just opened the door to tactical Bitcoin sales in a major treasury pivot. Executives signaled they will consider selling BTC to optimize capital allocation, fund dividends, and boost Bitcoin per share, while remaining a net accumulator long-term.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
-**[Strategy’s Saylor Signals Potential Shift to Bitcoin Sales](https://www.bloomberg.com/news/articles/2026-05-06/bitcoin-btc-holder-strategy-will-never-say-never-to-selling-reserves)**
+**[Cryptocurrencies: Bitcoin Breaks Through $80K](https://www.advisorperspectives.com/dshort/updates/2026/05/06/cryptocurrencies-bitcoin-breaks-through-80k)**
 
-Bloomberg.com • 5h ago
+Advisor Perspectives • 1h ago
 
 ---
 
@@ -225,15 +231,7 @@ Bloomberg.com • 5h ago
 
 Traders will be able to invest or hedge against the future volatility of bitcoin.
 
-Markets Media • 3h ago
-
----
-
-**[Here's What Pete Hegseth Just Said About Bitcoin and Why It Matters](https://www.fool.com/investing/2026/05/06/heres-what-pete-hegseth-just-said-about-bitcoin-an/)**
-
-Bitcoin may now be a venue where countries compete with each other.
-
-The Motley Fool • 2h ago
+Markets Media • 6h ago
 
 ---
 
@@ -275,7 +273,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -323,23 +321,23 @@ Localhost Research is excited to announce a new initiative in partnership with B
 
 ## YouTube Videos: "bitcoin"
 
-**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
-
-The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 2K • 💬 284 • ⏱️ 25:32 • 13h ago
-
----
-
 **[STRATEGY IS CONSIDERING SELLING BITCOIN!!](https://www.youtube.com/watch?v=saX1BdMx-7c)**
 
 CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 250 • 💬 69 • ⏱️ 13:16 • 10h ago
+👁️ 7K • 👍 295 • 💬 99 • ⏱️ 13:16 • 13h ago
+
+---
+
+**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
+
+The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 396 • ⏱️ 25:32 • 16h ago
 
 ---
 
@@ -349,37 +347,7 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 82 • ⏱️ 12:02 • 20h ago
-
----
-
-**[Benjamin Cowen’s Warning: Bitcoin’s Bear Market Likely Isn’t Over Yet](https://www.youtube.com/watch?v=9OFGzpRVg2o)**
-
-In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that the four-year cycle remains intact and that the market ...
-
-📺 Cointelegraph
-
-👁️ 6K • 👍 237 • 💬 81 • ⏱️ 23:59 • 16h ago
-
----
-
-**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
-
-Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 365 • ⏱️ 19:25 • 1d ago
-
----
-
-**[Bitcoin Just Flashed A Massive $100K Signal](https://www.youtube.com/watch?v=Rg47vPctFBw)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 22K • 👍 1K • 💬 503 • ⏱️ 46:55 • 22h ago
+👁️ 44K • 👍 2K • 💬 89 • ⏱️ 12:02 • 22h ago
 
 ---
 
@@ -389,7 +357,47 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 260 • 💬 37 • ⏱️ 16:46 • 20h ago
+👁️ 6K • 👍 282 • 💬 38 • ⏱️ 16:46 • 22h ago
+
+---
+
+**[Benjamin Cowen’s Warning: Bitcoin’s Bear Market Likely Isn’t Over Yet](https://www.youtube.com/watch?v=9OFGzpRVg2o)**
+
+In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that the four-year cycle remains intact and that the market ...
+
+📺 Cointelegraph
+
+👁️ 7K • 👍 292 • 💬 98 • ⏱️ 23:59 • 18h ago
+
+---
+
+**[Bitcoin Just Flashed A Massive $100K Signal](https://www.youtube.com/watch?v=Rg47vPctFBw)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 594 • ⏱️ 46:55 • 1d ago
+
+---
+
+**[The Most Unexpected Bitcoin Seller Appears](https://www.youtube.com/watch?v=-SIBTffHWEk)**
+
+BTC charts, Saylor to sell, ETH, SOL, PEPE, AMD, GME, MARA and more! BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 8K • 👍 564 • 💬 57 • ⏱️ 18:32 • 4h ago
+
+---
+
+**[Why AI &amp; Bitcoin Will Melt Faces 🚀](https://www.youtube.com/watch?v=9QJ4PS4SSWg)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 36K • 👍 3K • 💬 93 • ⏱️ 26:11 • 19h ago
 
 ---
 
@@ -399,27 +407,17 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Kalshi: ht
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 422 • 💬 174 • ⏱️ 8:45 • 1d ago
+👁️ 9K • 👍 428 • 💬 167 • ⏱️ 8:45 • 1d ago
 
 ---
 
-**[1,300 Experts Just Predicted Bitcoin’s Price](https://www.youtube.com/watch?v=47VJwPNTi3c)**
+**[Why Bitcoin is About to Print A God Candle](https://www.youtube.com/watch?v=1dI70qdyFeg)**
 
-I built a Bitcoin forecast model that pulls from over 1300 sources to predict where BTC could be in the next 30 days. Instead of ...
+In this video I update you all on my STRC thesis and why I think BTC continues to climb a wall of worry. I also attempt to escape ...
 
-📺 Jesse Eckel
+📺 Taiki Maeda
 
-👁️ 11K • 👍 520 • 💬 283 • ⏱️ 9:38 • 1d ago
-
----
-
-**[DON&#39;T BUY BITCOIN NOW!](https://www.youtube.com/watch?v=Fy4XAQiCMPk)**
-
-Bitcoin is pushing toward a breakout while holding strong around $80K, even as geopolitical tensions rise and macro conditions ...
-
-📺 Crypto Banter
-
-👁️ 25K • 👍 2K • 💬 46 • ⏱️ 28:59 • 23h ago
+👁️ 15K • 👍 646 • 💬 579 • ⏱️ 41:05 • 1d ago
 
 ---
 
