@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-06T09:12:40.296335+00:00'
+updated: '2026-05-06T11:24:52.738252+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 09:12 UTC  
+**Last Updated:** May 06, 2026 at 11:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,692.66
+### $82,650.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +7.3%  
-**30d:** +13.8%  
-**90d:** +16.0%  
-**1y:** -15.6%  
+**24h:** +1.9%  
+**7d:** +8.5%  
+**30d:** +15.0%  
+**90d:** +17.3%  
+**1y:** -14.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1639.56B
+**Market Cap:** $1652.84B
 Rank #1
 
 **Circulating Supply:** 20,025,375 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.1%
+-34.4%
 
 **All-Time Low:** $67.81
-+120599.0%
++121927.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
 
-12h ago
+14h ago
 
 ---
 
@@ -89,7 +89,23 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest country by Bitcoin mining hashrate. Colombian President Gustavo Petro said the nation’s Caribbean coast has the potential to become a Bitcoin mining hub, leveraging its surplus renewable energy to attract foreign investment and spur economic development. In a post on X on Tuesday, Petro said the Caribbean cities of Barranquilla, Santa Marta and Riohacha could host Bitcoin (BTC) mining facilities and tap the country’s clean energy sources, following a similar path to Venezuela and Paraguay in recent years. “It’s an immense boost to the development of the Caribbean,” Petro said, proposing that the Wayúu community — Colombia’s largest Indigenous community, which mainly resides on the Caribbean coast — could be co-owners of the project. Bitcoin mining analysts such as Hashlabs managing partner Jaran Mellerud have said the industry can have a sizable economic impact on emerging countries looking to convert otherwise unused electricity into cash flow. There’s also an opening for countries with low electricity costs to capture a larger share of the Bitcoin network hashrate as US commercial miners continue expanding into AI and high-performance computing in pursuit of higher-margin opportunities. Petro’s remarks were made in response to a post from Luxor Technology’s Alessandro Cecere, who noted that Paraguay’s share of Bitcoin hashrate has risen to 4.3% since tapping into hydroelectric energy at its Itaipu dam. The small, landlocked South American country is now the fourth-largest Bitcoin miner behind the US, Russia and China. A World Bank report published in April 2024 found that Colombia generates as much as 75% of its electricity from renewable energy — more than twice the global average. Tapping these renewable sources would mitigate concerns flagged by Petro that Bitcoin mined with fossil fuels contributes to global warming and potential “climate collapse.” Petro has served as Colombia’s president since August 2022 and has adopted a relatively neutral stance on Bitcoin and the crypto industry. Petro would only have another three months to lead the Bitcoin mining initiative as his presidential term comes to an end in August. He is not running in Colombia’s upcoming presidential election on May 31 due to constitutional limits. Data from prediction market Kalshi suggests that left-leaning Senator Iván Cepeda Castro and Abelardo de la Espriella, a conservative lawyer and free-market advocate, are the clear front-runners to replace Petro. Neither candidate has made significant public comments on Bitcoin or digital assets to date.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 2h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 5h ago
+
+---
+
+**[This was the second Bitcoin logo created by Satoshi Nakamoto in mid 2010, and used in Bitcoin node software (commit 86). Surprisingly, before yesterday, this logo found in the original Sourceforge Bitcoin repo, was not saved to the waybackmachine archive. So I took a snapshot for history.](https://www.reddit.com/r/Bitcoin/comments/1t58jbc/this_was_the_second_bitcoin_logo_created_by/)**
+
+as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
+
+1h ago
+
+---
+
+**[Doing nothing is 2nd best thing for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t589pi/doing_nothing_is_2nd_best_thing_for_bitcoin/)**
+
+Hodling, or simply dca, or putting lump sum. But never do something else other than that.
+
+1h ago
 
 ---
 
@@ -97,23 +113,7 @@ The Colombian president pointed to the impact Bitcoin mining has had in Paraguay
 
 I've been DCA'ing BTC on Coinbase Advanced Trade and got curious whether Coinbase One was actually worth it. I expected a clean "yes if you trade more than X" answer. Turned out there are four different zones depending on your daily DCA amount, and one of them is a trap where the subscription costs you $0.99/year MORE than just not subscribing. All numbers below verified via the public Coinbase API + manual calculation. USD figures throughout. The default (no subscription) Coinbase Advanced Trade charges: Taker fee (market orders): 1.20% Minimum order via API: $1.00 USDC Real order I made today: $1.67 BTC purchase → $0.02 fee → 1.20% exactly. The free reduction most people don't know about Coinbase automatically lowers your taker fee based on your rolling 30-day volume. No forms, no requests, recalculated daily: 30-day volume Taker fee < $1K 1.20% $1K – $10K 0.75% $10K – $50K 0.40% $50K – $100K 0.25% At ~$33/day DCA you cross $1K/month and drop to 0.75% automatically — for free. Coinbase One Basic — $39.99/year (renews $49.99) Replaces your taker fee with ~0.10% spread, but only on the first $500/month traded. Above that cap, your regular rate applies. Zone 1: under $10/day → don't subscribe Annual No sub (1.20%) $43.20 With Basic $43.59 Break-even at exactly $10/day. Below it, no sub is cheaper. Zone 2: $10–$30/day → Basic wins Daily DCA No sub (1.20%) With Basic Savings $15 $64.80 $45.39 $19 $20 $86.40 $60.39 $26 $25 $108.00 $81.99 $26 Once you cross the $500/month cap, Basic saves exactly $26.01/year, always. Zone 3: $30–$82/day → the trap At ~$33/day, your volume crosses $1K/month and Coinbase drops you to 0.75% for free. Now the comparison is Basic vs 0.75% — not Basic vs 1.20%. At $33/day ($990/month): Annual No sub (0.75% auto) $89.10 With Basic $90.09 Basic costs $0.99/year MORE than no subscription. This isn't coincidence — it's algebraic: Cap saves: $500 × 12 × 0.65% = $39.00 Subscription costs: $39.99 Net: −$0.99/year, at any volume in this zone. Coinbase One Preferred — $191.99/year Same ~0.10% spread, but no cap. Beats the 0.75% auto-tier above ~$82/day. At $82/day: No sub (0.75%): $221.40/year With Preferred: $221.51/year → break-even Above $82/day, Preferred starts saving real money. TL;DR / Decision tree Daily DCA Best option Annual fee level < $10 No sub ~$43 $10 – $30 Basic One saves $19–26/yr $30 – $82 No sub (0.75% auto) $0.99 cheaper than Basic > $82 Preferred One saves vs auto-tier Caveats Tier thresholds are evaluated on a 30-day rolling basis, so the $33/day boundary shifts slightly depending on the exact number of days in the month. Coinbase One spread is ~0.10% in my testing but varies 0.05–0.20% with market conditions. Pricing shown is first-year promo. Basic renews at $49.99, Preferred at $239.99 — that shifts the break-even points. This is fee math only. Doesn't factor spread quality on larger orders, slippage, or USDC vs USD funding costs. Not financial advice, not affiliated with Coinbase. Just math.
 
-10h ago
-
----
-
-**[Is it happening boys?](https://www.reddit.com/r/Bitcoin/comments/1t4cw6o/is_it_happening_boys/)**
-
-Are we ready to buy when it hits 100k?!
-
-21h ago
-
----
-
-**[This John Stewart Interview is so embarrassing. These counterpoints are from like 10 years ago. It's still early...](https://www.reddit.com/r/Bitcoin/comments/1t4l41p/this_john_stewart_interview_is_so_embarrassing/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 16h ago
+13h ago
 
 ---
 
@@ -121,39 +121,39 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+5h ago
 
 ---
 
-**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1t56q3b/removed_by_reddit/)**
+**[This John Stewart Interview is so embarrassing. These counterpoints are from like 10 years ago. It's still early...](https://www.reddit.com/r/Bitcoin/comments/1t4l41p/this_john_stewart_interview_is_so_embarrassing/)**
 
-[ Removed by Reddit on account of violating the content policy. ]
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-49m ago
-
----
-
-**[In German: Tax exemption after one year to be abolished - old news](https://www.reddit.com/r/Bitcoin/comments/1t4s35r/in_german_tax_exemption_after_one_year_to_be/)**
-
-This is not news but I find it interesting that there are not that many comments regarding this topic. The earliest mention was from 1year ago. At the current rate and based on how things work in Germany with it's current coalition in power, it seems like the abolishment of the tax exemption is just a matter of when and not if. If I'm not mistaken, proposals can be presented during summer and would go into law the following year. I don't mean to fear monger but what are your plans if the tax exemption abolishment would come into effect in 2027? Is everyone moving to Portugal or we just don't care? I'm curious on everyone's (mostly germans I guess) thoughts. https://bitcoin-bundesverband.de/en/tax-exemption-after-one-year-to-be-abolished/
-
-12h ago
+🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 18h ago
 
 ---
 
-**[Play stupid games, win stupid prizes.](https://www.reddit.com/r/Bitcoin/comments/1t4fugv/play_stupid_games_win_stupid_prizes/)**
+**[Is it happening boys?](https://www.reddit.com/r/Bitcoin/comments/1t4cw6o/is_it_happening_boys/)**
 
-Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
+Are we ready to buy when it hits 100k?!
 
-19h ago
+23h ago
 
 ---
 
-**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
+**[Lessons from a Bitcoin Whale: Interview with Sheldon Weisfeld | Bitcoin Conference 2026](https://www.reddit.com/r/Bitcoin/comments/1t59d9r/lessons_from_a_bitcoin_whale_interview_with/)**
 
-Who’s with me??😂😂
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=_9y169eYEsM) • 30m ago
+
+---
+
+**[Freedom Through vs. Freedom Within](https://www.reddit.com/r/Bitcoin/comments/1t58cyo/freedom_through_vs_freedom_within/)**
+
+Fiat currencies offer freedom through money: deposited in a bank account, accumulated so that we’re free in spending. With Bitcoin we have freedom within its system, through self-custody, P2P deposits and settlements. Money is freedom. Bitcoin is the currency of it. Not all money is free.
+
+1h ago
 
 ---
 
@@ -165,21 +165,29 @@ Who’s with me??😂😂
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
+**[Here's What Pete Hegseth Just Said About Bitcoin and Why It Matters](https://www.fool.com/investing/2026/05/06/heres-what-pete-hegseth-just-said-about-bitcoin-an/)**
 
-Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
+Bitcoin may now be a venue where countries compete with each other.
 
-Fast Company • 20h ago
+The Motley Fool • 23m ago
 
 ---
 
-**[Bitcoin Falls Slightly But Stays Above $80K -- Market Talk](https://www.moomoo.com/news/post/69441919/bitcoin-falls-slightly-but-stays-above-80k-market-talk)**
+**[Bitcoin Price Prediction: Data Shows Bitcoin’s Entire Recovery Is Happening During ETF Trading Hours — What Does That Mean for Retail Traders?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-data-shows-103038804.html)**
 
-Moomoo • 2h ago
+Bitcoin price 31% recovery from under $63,000 to over $80,000 is not distributed evenly across the clock; roughly 65% of the alpha prediction is concentrated in a tight band of hours tied directly to Bitcoin ETF creation and redemption windows.Three months of price data from Velo shows APAC hours delivering ...
+
+Yahoo Finance • 54m ago
+
+---
+
+**[Bitcoin Hits Fresh 3-Month High on U.S.-Iran Peace Deal Hopes -- Market Talk](https://www.moomoo.com/news/post/69457704/bitcoin-hits-fresh-3-month-high-on-us-iran-peace)**
+
+Moomoo • 1h ago
 
 ---
 
@@ -187,15 +195,15 @@ Moomoo • 2h ago
 
 A proposed Senate draft of the Clarity Act, key crypto legislation that some market experts said would boost coin prices once passed, shows a compromise on stablecoin rewards.
 
-Investopedia • 16h ago
+Investopedia • 18h ago
 
 ---
 
-**[CME Group to launch cash-settled bitcoin volatility futures](https://www.theblock.co/post/400121/cme-group-to-launch-cash-settled-bitcoin-volatility-futures)**
+**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
 
-Traders use volatility products to speculate on or hedge against swings without having to take a directional bet on prices.
+‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
 
-The Block • 12h ago
+Fortune • 1d ago
 
 ---
 
@@ -205,35 +213,27 @@ Barron's • 1d ago
 
 ---
 
+**[CME Group to launch cash-settled bitcoin volatility futures](https://www.theblock.co/post/400121/cme-group-to-launch-cash-settled-bitcoin-volatility-futures)**
+
+Traders use volatility products to speculate on or hedge against swings without having to take a directional bet on prices.
+
+The Block • 14h ago
+
+---
+
+**[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
+
+Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
+
+Fast Company • 23h ago
+
+---
+
 **[Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount](https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings)**
 
 Sequans Communications sold 1,025 bitcoin during the first quarter of 2026, cutting its digital asset reserves nearly in half.
 
-Bitcoin Magazine • 18h ago
-
----
-
-**[BTCI Is Not Bitcoin, And That 38% Yield Is Largely An Illusion (BATS:BTCI)](https://seekingalpha.com/article/4897936-btci-is-not-bitcoin-and-that-38-percent-yield-is-largely-an-illusion)**
-
-NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Bitcoin bug allowed miners to run code on other people’s nodes](https://protos.com/bitcoin-bug-allowed-miners-to-run-code-on-other-peoples-nodes/)**
-
-A Bitcoin Core validation bug could have let miners remotely crash and execute operations on other people’s full nodes.
-
-Protos | Informed crypto news • 13h ago
-
----
-
-**[Crypto News Today: AlphaPepe Presale Announces $1.08M Raised Whilst Bitcoin Price Prediction Eyes $100,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-announces-1-08m-raised-whilst-bitcoin-price-prediction-eyes-100-000-1036109483)**
-
-MONACO, May  05, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale announced more than $1.08 million raise...
-
-markets.businessinsider.com • 8h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -275,7 +275,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -299,7 +299,7 @@ Part XIV and Finale of the Bitgenstein Serialization
 
 Bitcoin Monitor Widget -  Build your own real-time crypto space with price widgets, portfolio views, themes, logs, terminal, games, custom API cards, alerts.
 
-⬆️ 1 • 💬 0 • 4d ago • [Bitcoin Monitor Widget](https://btcwid.com)
+⬆️ 1 • 💬 0 • 5d ago • [Bitcoin Monitor Widget](https://btcwid.com)
 
 ---
 
@@ -323,23 +323,13 @@ Localhost Research is excited to announce a new initiative in partnership with B
 
 ## YouTube Videos: "bitcoin"
 
-**[Benjamin Cowen’s Warning: Bitcoin’s Bear Market Likely Isn’t Over Yet](https://www.youtube.com/watch?v=9OFGzpRVg2o)**
+**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
 
-In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that the four-year cycle remains intact and that the market ...
+The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
 
-📺 Cointelegraph
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 200 • 💬 70 • ⏱️ 23:59 • 12h ago
-
----
-
-**[Cathie Wood Loads Up🚨Michael Saylor&#39;s &quot;Crypto Reactor&quot; Pumping Altcoins!?🔥](https://www.youtube.com/watch?v=LBryoVmo5DY)**
-
-ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its three ETFs on Apr. 29. At the same time, ARK ...
-
-📺 Paul Barron Network
-
-👁️ 39K • 👍 2K • 💬 92 • ⏱️ 12:02 • 16h ago
+👁️ 19K • 👍 2K • 💬 284 • ⏱️ 25:32 • 11h ago
 
 ---
 
@@ -349,27 +339,37 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 211 • 💬 36 • ⏱️ 13:16 • 6h ago
+👁️ 5K • 👍 250 • 💬 69 • ⏱️ 13:16 • 9h ago
 
 ---
 
-**[How much Bitcoin do you need to retire? Wrong question...](https://www.youtube.com/watch?v=HVrmH_h-hLA)**
+**[Cathie Wood Loads Up🚨Michael Saylor&#39;s &quot;Crypto Reactor&quot; Pumping Altcoins!?🔥](https://www.youtube.com/watch?v=LBryoVmo5DY)**
 
-Join me LIVE for a free 90 minute masterclass where I'll help you build your own wealth layering system to build, protect and ...
+ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its three ETFs on Apr. 29. At the same time, ARK ...
 
-📺 Mark Moss
+📺 Paul Barron Network
 
-👁️ 13K • 👍 697 • 💬 209 • ⏱️ 18:48 • 11h ago
+👁️ 40K • 👍 2K • 💬 82 • ⏱️ 12:02 • 18h ago
 
 ---
 
-**[DON&#39;T BUY BITCOIN NOW!](https://www.youtube.com/watch?v=Fy4XAQiCMPk)**
+**[Benjamin Cowen’s Warning: Bitcoin’s Bear Market Likely Isn’t Over Yet](https://www.youtube.com/watch?v=9OFGzpRVg2o)**
 
-Bitcoin is pushing toward a breakout while holding strong around $80K, even as geopolitical tensions rise and macro conditions ...
+In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that the four-year cycle remains intact and that the market ...
 
-📺 Crypto Banter
+📺 Cointelegraph
 
-👁️ 25K • 👍 2K • 💬 45 • ⏱️ 28:59 • 19h ago
+👁️ 6K • 👍 237 • 💬 81 • ⏱️ 23:59 • 14h ago
+
+---
+
+**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
+
+Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 365 • ⏱️ 19:25 • 1d ago
 
 ---
 
@@ -379,17 +379,17 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 512 • ⏱️ 46:55 • 18h ago
+👁️ 22K • 👍 1K • 💬 503 • ⏱️ 46:55 • 20h ago
 
 ---
 
-**[Coinbase&#39;s Legal Chief Just Made This Prediction About Crypto Regulation](https://www.youtube.com/watch?v=Etk6U9amKl4)**
+**[IT&#39;S HAPPENING! This Is the EXACT Reason Why BTC Is Ripping Massively - Jack Mallers](https://www.youtube.com/watch?v=-sB1V__623Q)**
 
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO on Clarity Act, Prediction Markets ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Yahoo Finance
+📺 Savvy Finance
 
-👁️ 17K • 👍 541 • 💬 115 • ⏱️ 14:59 • 16h ago
+👁️ 5K • 👍 260 • 💬 37 • ⏱️ 16:46 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Kalshi: ht
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 420 • 💬 166 • ⏱️ 8:45 • 23h ago
+👁️ 9K • 👍 422 • 💬 174 • ⏱️ 8:45 • 1d ago
 
 ---
 
@@ -409,17 +409,17 @@ I built a Bitcoin forecast model that pulls from over 1300 sources to predict wh
 
 📺 Jesse Eckel
 
-👁️ 11K • 👍 513 • 💬 283 • ⏱️ 9:38 • 1d ago
+👁️ 11K • 👍 520 • 💬 283 • ⏱️ 9:38 • 1d ago
 
 ---
 
-**[Bitcoin Leading Crypto Spring...](https://www.youtube.com/watch?v=Rwy8mOAmeRI)**
+**[DON&#39;T BUY BITCOIN NOW!](https://www.youtube.com/watch?v=Fy4XAQiCMPk)**
 
-Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+Bitcoin is pushing toward a breakout while holding strong around $80K, even as geopolitical tensions rise and macro conditions ...
 
-📺 CryptosRUs
+📺 Crypto Banter
 
-👁️ 16K • 👍 877 • 💬 868 • ⏱️ 11:44 • 1d ago
+👁️ 25K • 👍 2K • 💬 46 • ⏱️ 28:59 • 21h ago
 
 ---
 
