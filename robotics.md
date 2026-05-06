@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-06T11:24:52.746423+00:00'
+updated: '2026-05-06T13:13:33.930273+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 06, 2026 at 11:24 UTC  
+**Last Updated:** May 06, 2026 at 13:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,27 @@ Robotics research and industry news
 
 Well, what good is designing a hand if it can't actually do anything, so here's a couple actions (all in real time) I was able to achieve with my hand & wrist combo! Surprising just how many more poses and gestures having a wrist allows for vs just a hand. Design wise, not much has changed since my last post, aside from a few tolerance and material improvements. Instead, I've been putting it through its paces, making sure it can work decently accurately, reliably, and safely. Maybe v21 a little bit later...
 
-7h ago
+9h ago
 
 ---
 
 **[Testing cingoli di Wall-E](https://www.reddit.com/r/robotics/comments/1t52tyl/testing_cingoli_di_walle/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)**
 
-20h ago
+22h ago
+
+---
+
+**[Built an Autonomous Mobile Robot (AMR) for warehouse automation - from CAD to code.](https://www.reddit.com/r/robotics/comments/1t5a31j/built_an_autonomous_mobile_robot_amr_for/)**
+
+Designed the chassis in Fusion 360, exported to URDF, and built the full stack using ROS 2. Stack: Nav2 for navigation & path planning ArUco-based visual docking for precise alignment Custom waypoint sequencing for multi-shelf tasks Gazebo + RViz for simulation & visualization Challenge: LiDAR point cloud rotated with the robot in RViz, breaking the mapping and navigation. Root cause: odom/TF mismatch during turns. Fix: Developed a GroundTruthOdom node using Gazebo pose data to publish stable /odom and consistent TF, including handling ROS-Gazebo timestamp issues. In the video: robot autonomously services requests for Shelf B and Shelf C and delivers them to the drop-off zone. Happy to discuss the system or challenges!
+
+1h ago
 
 ---
 
@@ -56,7 +64,7 @@ Well, what good is designing a hand if it can't actually do anything, so here's 
 
 Blog: https://allenai.org/blog/molmoact2 Models: https://huggingface.co/collections/allenai/molmoact2-models Training dataset: https://huggingface.co/collections/allenai/molmoact2-datasets From Ai2 on 𝕏 (long thread): https://x.com/allen_ai/status/2051708880455868501
 
-2h ago
+4h ago
 
 ---
 
@@ -64,7 +72,15 @@ Blog: https://allenai.org/blog/molmoact2 Models: https://huggingface.co/collecti
 
 Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use to do visual SLAM, but the raw video itself was too distorted for it to be good, so I vibecoded a toolkit to figure out the intrinsic parameters of my camera and be able to undistort the footage. It took me some time, at first the distortion was still there, so I went ahead and created a program that helped me sample ~60 frames with a mini guide on which positions I should record for best results, and yeah it worked, I was able to undistort my video from my 160deg camera, so I figured to share if anyone is also using wide cameras on their robots. I know this ain't nothing new or ground breaking, there are probably tools out there that already do this and I was just too lazy to look them up and set them up, but hey if this turns out helpful for someone besides just me, I'm happy with that. REPO LINK: https://github.com/L42ARO/Fisheye-Calibration
 
-2h ago
+4h ago
+
+---
+
+**[I Built Rocky from project hail Mary as a walking talking robot](https://www.reddit.com/r/robotics/comments/1t5aqw6/i_built_rocky_from_project_hail_mary_as_a_walking/)**
+
+Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with gemeni who in addition to being able to respond to you like Rocky would, in Rockys voice, also used tool calling to control the body
+
+🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 1h ago
 
 ---
 
@@ -72,7 +88,7 @@ Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use
 
 Researchers from the Harvard John A. Paulson School of Engineering and Applied Sciences and the Faculty of Arts and Sciences developed small cooperative robots that can organize themselves to either build structures or dismantle them, using only simple rules and changes in their surroundings.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/harvard-engineers-built-ant-like-robots-that-work-together-without-central-control) • 10h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/harvard-engineers-built-ant-like-robots-that-work-together-without-central-control) • 12h ago
 
 ---
 
@@ -92,35 +108,29 @@ XR-4 Rehbar I wanted to showcase a personal project that I had been working on f
 
 ---
 
-**[Is "AI-powered robotics" just a marketing term at this point?](https://www.reddit.com/r/robotics/comments/1t4frai/is_aipowered_robotics_just_a_marketing_term_at/)**
-
-Went to a robotics event last month. Lost count of how many booths said "AI-powered" on the banner lol Asked a few engineers what was actually running – classical controllers, pre-trained detection models, one guy who genuinely couldn't explain what the AI part was doing. The collateral damage is what bugs me most. When everything gets the same sticker, the projects that actually did something novel get lumped in with the ones that slapped "AI" on a PID loop. Buyers get burned, the whole category pays for it. Filter I've been using: take the AI component out. Does the thing stop working, or just get slightly worse? "Slightly worse" is a feature, not a foundation. Maybe I'm just getting cynical... do you still find the label useful when evaluating something, or do you just go straight to asking the engineers?
-
-21h ago
-
----
-
-**[Humanoid Robotics: are humanoid robots actually going to work in the warehouse, and if so doing what first?](https://www.reddit.com/r/robotics/comments/1t4tjzh/humanoid_robotics_are_humanoid_robots_actually/)**
-
-I keep seeing the demo videos. Figure, Apptronik, Agility, Tesla Optimus, impressive in controlled settings. But I work in human motion research for robot training, and I spend a lot of time thinking about the gap between what these robots can do in a lab and what a real warehouse floor actually demands. Wanted to hear from people closer to the ops or integration side: What task in your operation would you actually trust (and want) a humanoid to do first, not eventually, but in the next 2-3 years with current trajectory? What's the motion or physical interaction problem that nobody's solved yet? Deformable items, unpredictable humans nearby, awkward reach, and load scenarios? Where does simulation training break down? If you work on the robotics side, what does sim-to-real failure actually look like in practice? What does the humanoid need to understand about human movement to work safely alongside people, not just avoid collisions, but actually *behave* predictably? For context: I work in Embodied AI: how robots can be trained on realistic human motion physics rather than synthetic or oversimplified data. Trying to figure out where higher-fidelity human motion understanding actually moves the needle for real-world deployment. Candid takes welcome and appreciated.
-
-13h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Schaeffler sees humanoid robotics orders in three-digit million euros by 2030](https://www.reuters.com/business/schaeffler-sees-humanoid-robotics-orders-three-digit-million-euros-by-2030-2026-05-05/)**
+**[MolmoAct 2: An open foundation for robots that work in the real world](https://allenai.org/blog/molmoact2)**
 
-Reuters • 23h ago
+MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
+
+Allen AI • 21h ago
 
 ---
 
 **[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
 WSJ • 1d ago
+
+---
+
+**[Delivery robots still learning from 'edge cases,' scientists say](https://chicago.suntimes.com/news/2026/05/06/delivery-robots-chicago-crashes-damage)**
+
+Engineering experts who were part of a University of Pennsylvania study offer some solutions: Improve the robots' complex internal sensors and address the problem of clean glass being harder to see than a dirty surface.
+
+Chicago Sun-Times • 2h ago
 
 ---
 
@@ -132,14 +142,6 @@ Fox News • 1d ago
 
 ---
 
-**[MolmoAct 2: An open foundation for robots that work in the real world](https://allenai.org/blog/molmoact2)**
-
-MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
-
-Allen AI • 19h ago
-
----
-
 **[Robots move in as waste firms struggle to find staff](https://www.bbc.com/news/articles/cvg0w84q1wyo)**
 
 Humanoid robots are being added to the automation of waste sorting.
@@ -148,9 +150,9 @@ BBC • 1d ago
 
 ---
 
-**[Ouster Brings Support for REV8 Digital Lidar to Robotics and Edge AI Ecosystem](https://finance.yahoo.com/sectors/technology/articles/ouster-brings-support-rev8-digital-100000725.html)**
+**[Schaeffler sees humanoid robotics orders in three-digit million euros by 2030](https://finance.yahoo.com/sectors/technology/articles/schaeffler-sees-humanoid-robotics-orders-112441111.html)**
 
-SAN FRANCISCO, May 05, 2026--Ouster, Inc. (Nasdaq: OUST) ("Ouster" or the "Company"), a leader in sensing and perception for Physical AI, today announced the integration of its new Rev8 OS family of digital lidar sensors across the NVIDIA Jetson platform.
+Schaeffler expects its humanoid robotics business to build an order book in the hundreds of millions of euros by 2030, ‌the chief executive of the German machine and car parts maker said ‌on Tuesday.  CEO Klaus Rosenfeld, talking to Reuters after the company's first-quarter results, did not give a more ​specific estimate for the potential order book.  "We have been investing significantly in the humanoid robotics area and at the moment we are collaborating with around 45 humanoid robotics players globally," Rosenfeld said.
 
 Yahoo Finance • 1d ago
 
@@ -184,7 +186,7 @@ navalnews.com • 5d ago
 
 On a Monday afternoon in the Tsungming Tu Complex, a flurry of small robots battled each other. No, this wasn’t an invasion straight out of sci-fi—it was
 
-Tufts Now • 1d ago
+Tufts Now • 2d ago
 
 ---
 
@@ -198,7 +200,7 @@ Elon Musk's more affordable version of the Optimus robot is being discussed as a
 
 📺 Carros Show
 
-👁️ 1K • 👍 45 • 💬 15 • ⏱️ 8:07 • 18h ago
+👁️ 1K • 👍 45 • 💬 15 • ⏱️ 8:07 • 19h ago
 
 ---
 
@@ -208,7 +210,7 @@ AI robots are moving from labs into real streets. China has already shown humano
 
 📺 AI Revolution
 
-👁️ 8K • 👍 327 • 💬 49 • ⏱️ 13:16 • 12h ago
+👁️ 8K • 👍 327 • 💬 49 • ⏱️ 13:16 • 14h ago
 
 ---
 
@@ -238,7 +240,7 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 📺 KTLA 5
 
-👁️ 14K • 👍 120 • 💬 58 • ⏱️ 2:14 • 15h ago
+👁️ 14K • 👍 120 • 💬 58 • ⏱️ 2:14 • 17h ago
 
 ---
 
@@ -258,7 +260,7 @@ War Robots Gameplay about different cases of Cheating - WR My War Robots Creator
 
 📺 Manni-Gaming
 
-👁️ 16K • 👍 1K • 💬 370 • ⏱️ 19:36 • 21h ago
+👁️ 16K • 👍 1K • 💬 370 • ⏱️ 19:36 • 23h ago
 
 ---
 
@@ -288,7 +290,7 @@ I test to see if my 3D printed gearbox is precise. I made a pointer attachment f
 
 📺 Advanced Hobby Lab
 
-👁️ 151K • 👍 2K • 💬 14 • ⏱️ 0:28 • 4d ago
+👁️ 151K • 👍 2K • 💬 14 • ⏱️ 0:28 • 5d ago
 
 ---
 

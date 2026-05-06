@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-06T11:24:52.743512+00:00'
+updated: '2026-05-06T13:13:33.927068+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 11:24 UTC  
+**Last Updated:** May 06, 2026 at 13:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +7.1%  
-**30d:** +8.0%  
-**90d:** +17.2%  
-**1y:** +33.6%  
+**24h:** +0.7%  
+**7d:** +6.0%  
+**30d:** +6.8%  
+**90d:** +16.0%  
+**1y:** +32.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Couldn't really find it,most of what's out there is press release language or token price commentary, neither of which tells me if the liquidity is sticky or if it's farmers waiting for the next chain. So genuine question for anyone whos actually on katana or providing liquidity on Sushi there ,what's the lp experience like, what are fees doing, and is there organic swap demand or is volume mostly aggregator routing? Not trying to make a thesis post, I just can't tell from the outside and figured someone here would actually know.
 
-5h ago
+7h ago
 
 ---
 
@@ -150,25 +150,17 @@ Arbitrum froze $71 million from the KelpDAO hack. A US law firm is now trying to
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin reaches over $81,000, hitting a high last seen in January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-5-2026-bitcoin-reaches-over-81000-hitting-a-high-last-seen-in-january-113951442.html)**
+**[Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html)**
 
-Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.
+Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
 
-Barron's • 23h ago
-
----
-
-**[The world's entire economy will be tokenized, says Consensys’ Joseph Lubin](https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin)**
-
-The Consensys CEO and founder said tokenization can be traced by to Ethereum, the blockchain he helped co-found.
-
-CoinDesk • 13h ago
+Barron's • 1d ago
 
 ---
 
@@ -176,7 +168,7 @@ CoinDesk • 13h ago
 
 Bitmine owns more than 4.29% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 10 months Crypto Spring has...
 
-PR Newswire • 1d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -194,11 +186,33 @@ TipRanks • 1d ago
 
 ---
 
+**[The world's entire economy will be tokenized, says Consensys’ Joseph Lubin](https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin)**
+
+The Consensys CEO and founder said tokenization can be traced by to Ethereum, the blockchain he helped co-found.
+
+CoinDesk • 15h ago
+
+---
+
+**[Current price of Ethereum for May 6, 2026](https://fortune.com/article/price-of-ethereum-05-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 28m ago
+
+---
+
 **[How high can Bitcoin, Ethereum and XRP go?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-set-to-extend-rebound-attracting-capital-through-etfs-202605051200)**
 
 Cryptocurrency prices are broadly rising on Tuesday, as observed with Bitcoin (BTC) steadying near $81,000 after reclaiming the pivotal $80,000 level as immediate support. Ethereum (ETH) is similarly in bullish hands, pushing into the $2,400 supply zone while Ripple (XRP) gains momentum above $1.41.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
+
+---
+
+**[Ethereum (ETH) Just Changed How It Makes Money. The Market Hasn’t Caught On Yet](https://www.tipranks.com/news/ethereum-eth-just-changed-how-it-makes-money-the-market-hasnt-caught-on-yet)**
+
+TipRanks • 1h ago
 
 ---
 
@@ -207,22 +221,6 @@ FXStreet • 23h ago
 Upbit is the Optimism Foundation's first client on its "self-managed" enterprise tier, giving it control over its core rollup architecture.
 
 The Block • 1d ago
-
----
-
-**[Ethereum Price On Verge Of Breakout, Can Bulls Seize Control?](https://www.tradingview.com/news/newsbtc:e9c97ab7c094b:0-ethereum-price-on-verge-of-breakout-can-bulls-seize-control/)**
-
-Ethereum price started a fresh increase and remained stable above $2,360. ETH is now consolidating and might aim for more gains if it clears $2,400.Ethereum Price Aims for Fresh SurgeEthereum price managed to stay above the $2,300 support and started a fresh increase, like Bitcoin. ETH price gained…
-
-TradingView • 7h ago
-
----
-
-**[Old School RuneScape coal has outperformed one of the world's most popular cryptocurrencies](https://www.eurogamer.net/old-school-runescape-coal-ethereum)**
-
-Ethereum, one of the world's most popular cryptocurrencies, has been outperformed in terms of yearly growth by OldSchool RuneScape coal.
-
-Eurogamer.net • 20h ago
 
 ---
 
@@ -236,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 231 • 💬 87 • ⏱️ 19:21 • 19h ago
+👁️ 5K • 👍 231 • 💬 87 • ⏱️ 19:21 • 20h ago
 
 ---
 
@@ -246,7 +244,7 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 15K • 👍 953 • 💬 363 • ⏱️ 14:49 • 20h ago
+👁️ 15K • 👍 953 • 💬 363 • ⏱️ 14:49 • 22h ago
 
 ---
 
@@ -256,7 +254,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 247 • 💬 18 • ⏱️ 12:48 • 1h ago
+👁️ 2K • 👍 247 • 💬 18 • ⏱️ 12:48 • 3h ago
 
 ---
 
@@ -266,7 +264,7 @@ FEATURED PARTNER: ▻ Earn rewards when you get started on OKX | Use code: paulb
 
 📺 Paul Barron Podcast
 
-👁️ 4K • 👍 440 • 💬 67 • ⏱️ 7:05 • 13h ago
+👁️ 4K • 👍 440 • 💬 67 • ⏱️ 7:05 • 15h ago
 
 ---
 
@@ -276,7 +274,7 @@ BITCOIN HOLDERS: DON'T BE FOOLED (Price Target)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 260 • 💬 192 • ⏱️ 18:34 • 7h ago
+👁️ 5K • 👍 260 • 💬 192 • ⏱️ 18:34 • 9h ago
 
 ---
 
@@ -286,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 119 • 👍 10 • ⏱️ 4:19 • 2h ago
+👁️ 119 • 👍 10 • ⏱️ 4:19 • 4h ago
 
 ---
 
@@ -306,7 +304,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 495 • 💬 79 • ⏱️ 9:16 • 6h ago
+👁️ 3K • 👍 495 • 💬 79 • ⏱️ 9:16 • 8h ago
 
 ---
 
