@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-05T23:52:31.397133+00:00'
+updated: '2026-05-06T02:55:06.053062+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 05, 2026 at 23:52 UTC  
+**Last Updated:** May 06, 2026 at 02:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +5.2%  
-**30d:** +12.5%  
-**90d:** +29.9%  
-**1y:** +30.6%  
+**24h:** -0.8%  
+**7d:** +4.7%  
+**30d:** +5.5%  
+**90d:** +14.5%  
+**1y:** +30.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.73B
+**Market Cap:** $285.44B
 Rank #2
 
-**Circulating Supply:** 120,687,267 ETH
+**Circulating Supply:** 120,687,222 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -52.2%
 
 **All-Time Low:** $0.43
-+545399.9%
++546196.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
 
-21h ago
+1d ago
 
 ---
 
@@ -148,9 +148,9 @@ Hasu pointed out something pretty under-discussed: after Glamsterdam, Ethereum�
 
 ## Google News: "ethereum"
 
-**[Soldøgn Interop Recap ☀️](https://blog.ethereum.org/2026/05/02/soldogn-interop-recap)**
+**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
 
-ethereum.org • 3d ago
+Barron's • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ ethereum.org • 3d ago
 
 The Consensys CEO and founder said tokenization can be traced by to Ethereum, the blockchain he helped co-found.
 
-CoinDesk • 1h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -166,13 +166,7 @@ CoinDesk • 1h ago
 
 Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.
 
-Yahoo Finance • 12h ago
-
----
-
-**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
-
-Barron's • 11h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -192,19 +186,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-240-million-ethereum-151959747.html)**
-
-Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Tom Lee says 'crypto spring' started as largest Ethereum treasury buys $238 million in ether](https://www.coindesk.com/business/2026/05/04/tom-lee-says-crypto-spring-started-as-largest-ethereum-treasury-buys-usd238-million-in-ether)**
 
 Bitmine's latest ETH purchase comes as Lee cited progress on digital asset regulation CLARITY Act as a key catalyst for crypto markets.
 
 CoinDesk • 1d ago
+
+---
+
+**[BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-240-million-ethereum-151959747.html)**
+
+Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,7 +214,15 @@ The Motley Fool • 2d ago
 
 Ethereum ended April on a solid note, posting a 7.3% gain and marking its second consecutive green month. This steady recovery is now drawing attention to May, historically one of Ethereum’s strongest months. In 2024, ETH surged 25%, followed by an even sharper 41% rally in 2025.Resistance at $2,37…
 
-TradingView • 20h ago
+TradingView • 23h ago
+
+---
+
+**[Ethereum solidifies institutional role, price likely above $1,800 by May 5](https://cryptobriefing.com/ethereum-solidifies-institutional-role-price-likely-above-1800-by-may-5/)**
+
+Ethereum's price is likely to remain above $1,800 by May 5. Market at 99.9% YES.
+
+Crypto Briefing • 11h ago
 
 ---
 
@@ -234,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 166 • 💬 75 • ⏱️ 19:21 • 7h ago
+👁️ 4K • 👍 194 • 💬 78 • ⏱️ 19:21 • 10h ago
 
 ---
 
@@ -244,7 +246,7 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 814 • 💬 357 • ⏱️ 14:49 • 9h ago
+👁️ 13K • 👍 868 • 💬 366 • ⏱️ 14:49 • 12h ago
 
 ---
 
@@ -254,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 454 • 👍 22 • ⏱️ 4:32 • 14h ago
+👁️ 571 • 👍 25 • ⏱️ 4:32 • 17h ago
 
 ---
 
@@ -264,7 +266,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 522 • 💬 47 • ⏱️ 20:21 • 2d ago
+👁️ 14K • 👍 523 • 💬 46 • ⏱️ 20:21 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=TsNDigEcZ7w)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 104 • 👍 23 • ⏱️ 7:38 • 27m ago
 
 ---
 
@@ -274,7 +286,7 @@ Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-gra
 
 📺 Crossroads
 
-👁️ 7K • 👍 285 • 💬 61 • ⏱️ 10:34 • 1d ago
+👁️ 7K • 👍 288 • 💬 61 • ⏱️ 10:34 • 1d ago
 
 ---
 
@@ -284,7 +296,7 @@ This new data is huge for bitcoin, for ethereum and for the rest of crypto! A vi
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 662 • 💬 139 • ⏱️ 14:06 • 1d ago
+👁️ 12K • 👍 661 • 💬 139 • ⏱️ 14:06 • 1d ago
 
 ---
 
@@ -294,7 +306,17 @@ FEATURED PARTNER: ▻ Earn rewards when you get started on OKX | Use code: paulb
 
 📺 Paul Barron Podcast
 
-👁️ 1K • 👍 201 • 💬 44 • ⏱️ 7:05 • 1h ago
+👁️ 3K • 👍 334 • 💬 66 • ⏱️ 7:05 • 4h ago
+
+---
+
+**[Crypto - it’s coming? (Ethereum bitcoin PulseChain hex)](https://www.youtube.com/watch?v=qdkLlKOluBc)**
+
+how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
+
+📺 Crypto Coffee
+
+👁️ 1K • 👍 190 • 💬 31 • ⏱️ 13:53 • 8h ago
 
 ---
 
@@ -304,27 +326,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 172 • 💬 78 • ⏱️ 31:48 • 11h ago
-
----
-
-**[BITCOIN 80K: ETH AND TON EXPLODE](https://www.youtube.com/watch?v=vMOIYYP0PhY)**
-
-Daily BTC, ETH, NVDA, GOOG, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, ...
-
-📺 James Crypto Guru
-
-👁️ 2K • 👍 112 • 💬 7 • ⏱️ 8:07 • 23h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=NG3G9PcDJfU)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 94 • ⏱️ 7:13 • 20h ago
+👁️ 2K • 👍 181 • 💬 79 • ⏱️ 31:48 • 14h ago
 
 ---
 

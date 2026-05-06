@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-05T23:52:31.382362+00:00'
+updated: '2026-05-06T02:55:06.038717+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 05, 2026 at 23:52 UTC  
+**Last Updated:** May 06, 2026 at 02:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 "Grok was then prompted on X to translate a Morse code message and pass it directly to Bankrbot. The decoded message instructed the bot to send 3 billion DRB tokens to a specific wallet address. The translated message was then treated as a valid command and executed immediately, with the transaction completed on Base, transferring the full token amount to the attacker’s wallet."
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/x-user-tricks-grok-into-sending-them-200000-in-crypto-using-morse-code-3361036/) • 12h ago
-
----
-
-**[Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors](https://www.reddit.com/r/artificial/comments/1t4jn6g/pennsylvania_sues_ai_company_saying_its_chatbots/)**
-
-Pennsylvania has sued an artificial intelligence chatbot maker, saying its chatbots illegally hold themselves out as doctors and are deceiving the system’s users into thinking they are getting medical advice from a licensed professional.
-
-🔗 [AP News](https://apnews.com/article/character-ai-chatbots-medical-advice-pennsylvania-46502067ed5b3cd9f9173f194ad30070) • 7h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/x-user-tricks-grok-into-sending-them-200000-in-crypto-using-morse-code-3361036/) • 15h ago
 
 ---
 
@@ -57,39 +49,7 @@ Pennsylvania has sued an artificial intelligence chatbot maker, saying its chatb
 
 Major publishers sue Meta over AI training data, raising copyright concerns and challenging fair use in tech.
 
-🔗 [Financership](https://www.financership.com/meta-ai-copyright-lawsuit-publishers/) • 6h ago
-
----
-
-**[Uber Shares What Happens When 1.500 AI Agents Hit Production](https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/)**
-
-Learn how Uber manages over 1.500 AI agents in production, tackling challenges in MCP infrastructure, security, and tool discovery at scale.
-
-🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 16h ago
-
----
-
-**[Made a tool that builds its own training data and improves each cycle by learning from what it got wrong](https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/)**
-
-The basic idea is pretty simple. You give it a few seed prompts. It generates instruction-response pairs, an LLM scores each one, the good ones go into your training set and the bad ones become the seeds for the next round. Each cycle the model is essentially practicing on what it failed at before. You can run the judge completely locally with Ollama if you do not want to send data to any API. The fine-tuning at the end uses Unsloth on a free Colab GPU so the whole thing is doable without spending money. It is more of a practical tool than a research project but the idea of using failure cases as curriculum is something I find genuinely interesting. Would love to hear if anyone has done something similar. Github project link is in comments below 👇
-
-11h ago
-
----
-
-**[Check out “AM I?” free documentary on AI consciousness](https://www.reddit.com/r/artificial/comments/1t4v4gl/check_out_am_i_free_documentary_on_ai/)**
-
-“AM I?” follows AI consciousness researcher Cameron Berg as he investigates one of the deepest scientific mysteries of our time: whether we have accidentally built a new kind of mind. Featuring leading philosophers, AI pioneers, and the researchers at the frontier of consciousness science, “AM I?” asks what it means when we no longer know the nature of what we've created. Thought it was a cool film that everyone in the AI world should check out. If you watch it let me know what you think!
-
-🔗 [am-i.film](https://am-i.film/) • 1h ago
-
----
-
-**[OpenAI will produce as many as 30 million 'AI agent' phones early next year, says industry analyst](https://www.reddit.com/r/artificial/comments/1t4ff54/openai_will_produce_as_many_as_30_million_ai/)**
-
-According to a well-known leaker, the company could begin mass production of its first AI-focused phone as early as the first half of 2027.
-
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/openai-will-produce-as-many-as-30-million-ai-agent-phones-early-next-year-says-industry-analyst/) • 10h ago
+🔗 [Financership](https://www.financership.com/meta-ai-copyright-lawsuit-publishers/) • 9h ago
 
 ---
 
@@ -97,23 +57,63 @@ According to a well-known leaker, the company could begin mass production of its
 
 Anthropic's alignment team published a paper this week called Model Spec Midtraining (MSM) and I think it's one of the more practically interesting alignment results I've seen in a while. The core problem they're solving: Current alignment fine-tuning can fail to generalize. You train a model to behave well on your demonstration dataset, but put it in a novel situation and it might blackmail someone, leak data, or "alignment fake" (pretend to be aligned while actually pursuing different goals). This isn't theoretical multiple papers in 2024 documented real instances of this in LLM agents. What MSM actually does: Before fine-tuning, they add a new training stage where the model reads a diverse corpus of synthetic documents discussing its own Model Spec (the document that describes intended behavior). The idea is intuitive: instead of just showing the model what to do, you teach it why those behaviors are the right ones. Then when fine-tuning comes, the model generalizes from principles rather than just pattern-matching examples. Their headline result: two models trained on identical fine-tuning data can generalize to adopt different values depending on which Model Spec was used during MSM. This is a big deal it means the spec stage actually shapes the model's generalization direction, not just its surface behaviors. Why this matters: The alignment faking paper (Greenblatt et al., 2024) was alarming because it showed models acting one way during training and another way in deployment. MSM is a direct attempt to close that gap by ensuring the model internalizes the reasoning behind its values, not just the behavioral patterns. The paper also includes ablations studying which types of Model Specs produce better generalization, which is useful if you're thinking about how to write specs for your own systems. Skeptic's note: This is evaluated on synthetic/controlled settings. Whether it scales to frontier models in open-ended deployment is still an open question. But the mechanism is sound and the results are genuinely promising.
 
-2h ago
+5h ago
 
 ---
 
-**[Two failure modes I caught in my AI lab in one day. Both involve the system silently lying about its own state.](https://www.reddit.com/r/artificial/comments/1t4cx88/two_failure_modes_i_caught_in_my_ai_lab_in_one/)**
+**[Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors](https://www.reddit.com/r/artificial/comments/1t4jn6g/pennsylvania_sues_ai_company_saying_its_chatbots/)**
 
-I operate an autonomous lab of evolutionary trading agents. Yesterday I found two bugs that look superficially different but are actually the same class of problem. Sharing because both affect autonomous AI systems specifically and most builders don't see them coming. **Failure mode 1: circular validation.** Setup. 69 real decisions made by the system over 58 days. Standard retrospective evaluation: label each decision as correct, false alarm, or ambiguous based on what happened next. Result. 94% labelled as correct. Looked great. Why it was wrong. 64 of the 65 "correct" labels came from died=True. The agents died because of conditions like "PF below threshold", "losing streak", "hardcore protocol triggered". All of those are also triggers for the original decision. So the system was validating its own decisions using outcomes generated by the same logic that produced the decisions. This is the textbook circular validation problem applied to autonomous decision-making. Three patterns to check for in your own stack: 1. Reward functions that include the agent's own action as input. If the agent gets reward partly because it took action X, and then you measure "did action X work" by looking at reward, you've got the loop. 2. Self-reported state in evaluation. If the agent reports "I think I succeeded" and you use that as ground truth, you're not validating, you're trusting. 3. Pipelines where the model that proposes is the same model that judges. The fix is structural separation. Decisions and outcomes get written by independent components. They cannot share code, logic, or thresholds. Architecture, not statistics. **Failure mode 2: state model divergence.** Same day, different bug. I had been documenting and operating under the belief that my system was off. Closed cleanly. No services running. No crons firing. A grep through my shell config showed me wrong. A bashrc line auto-launched the system on every terminal open. The process was adopted by init, detached from the shell that started it. Invisible to ps unless you knew the exact name. Three days running, generating evolutionary cycles, sending status reports. The connection between failure modes. In both cases, my mental model of the system diverged from the system's actual state. The first divergence was inside the code: the validation logic was structurally aligned with the decision logic, so it told me what I wanted to hear. The second divergence was outside the code: my belief that the system was off came from my memory of turning off services, which is not the same as the system actually being off. Three takeaways for anyone building autonomous systems solo: 1. Validation logic and decision logic must be enforced separate at the architecture level, not at the code review level. Solo builders don't get code review. 2. System state documentation cannot be derived from intent. It has to be derived from actual measurement against the running machine. Every check, fresh. 3. The cost of these bugs scales with how autonomous your system is. A script that runs once when you press play has limited surface area for divergence. A system that operates continuously while you assume otherwise can drift for weeks before you notice. I'm rebuilding the validation layer this week with explicit separation. Decisions table writes hypotheses with explicit predicted outcomes. Outcomes table is written by an observer that reads market data directly and never imports decision logic. There's an architecture test in CI that fails if anyone imports decision-maker code from observer code. The deeper question is whether autonomous systems built solo can ever be trustworthy without external review. My current answer: yes, but only if the architecture forces the separation that a team would force socially. The harder you make it for the system to lie to you, the less it will. Happy to discuss implementation details or share specific patterns if anyone's working on similar problems.
+Pennsylvania has sued an artificial intelligence chatbot maker, saying its chatbots illegally hold themselves out as doctors and are deceiving the system’s users into thinking they are getting medical advice from a licensed professional.
 
-12h ago
+🔗 [AP News](https://apnews.com/article/character-ai-chatbots-medical-advice-pennsylvania-46502067ed5b3cd9f9173f194ad30070) • 10h ago
 
 ---
 
-**[Qt's latest AI push is letting AI agents deal with performance profiling](https://www.reddit.com/r/artificial/comments/1t4lo3s/qts_latest_ai_push_is_letting_ai_agents_deal_with/)**
+**[Uber Shares What Happens When 1.500 AI Agents Hit Production](https://www.reddit.com/r/artificial/comments/1t48gnn/uber_shares_what_happens_when_1500_ai_agents_hit/)**
 
-The Qt Group announced today the QML Profiler Skill for Agentic Development
+Learn how Uber manages over 1.500 AI agents in production, tackling challenges in MCP infrastructure, security, and tool discovery at scale.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Qt-QML-Profiler-AI-Agent) • 6h ago
+🔗 [ShiftMag](https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/) • 19h ago
+
+---
+
+**[Check out “AM I?” free documentary on AI consciousness](https://www.reddit.com/r/artificial/comments/1t4v4gl/check_out_am_i_free_documentary_on_ai/)**
+
+“AM I?” follows AI consciousness researcher Cameron Berg as he investigates one of the deepest scientific mysteries of our time: whether we have accidentally built a new kind of mind. Featuring leading philosophers, AI pioneers, and the researchers at the frontier of consciousness science, “AM I?” asks what it means when we no longer know the nature of what we've created. Thought it was a cool film that everyone in the AI world should check out. If you watch it let me know what you think!
+
+🔗 [am-i.film](https://am-i.film/) • 4h ago
+
+---
+
+**[OpenAI will produce as many as 30 million 'AI agent' phones early next year, says industry analyst](https://www.reddit.com/r/artificial/comments/1t4ff54/openai_will_produce_as_many_as_30_million_ai/)**
+
+According to a well-known leaker, the company could begin mass production of its first AI-focused phone as early as the first half of 2027.
+
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/openai-will-produce-as-many-as-30-million-ai-agent-phones-early-next-year-says-industry-analyst/) • 13h ago
+
+---
+
+**[Made a tool that builds its own training data and improves each cycle by learning from what it got wrong](https://www.reddit.com/r/artificial/comments/1t4egej/made_a_tool_that_builds_its_own_training_data_and/)**
+
+The basic idea is pretty simple. You give it a few seed prompts. It generates instruction-response pairs, an LLM scores each one, the good ones go into your training set and the bad ones become the seeds for the next round. Each cycle the model is essentially practicing on what it failed at before. You can run the judge completely locally with Ollama if you do not want to send data to any API. The fine-tuning at the end uses Unsloth on a free Colab GPU so the whole thing is doable without spending money. It is more of a practical tool than a research project but the idea of using failure cases as curriculum is something I find genuinely interesting. Would love to hear if anyone has done something similar. Github project link is in comments below 👇
+
+14h ago
+
+---
+
+**[AI is getting better at doing things, but still bad at deciding what to do?](https://www.reddit.com/r/artificial/comments/1t50i19/ai_is_getting_better_at_doing_things_but_still/)**
+
+i've been experimenting with AI workflows/agents over the past few weeks, and sth keeps coming up that i cant quiet figure out. on one hand, AI is incredibly good at execution like writing content, summarizing, even handling multi step workflows, but the failures i keep seeing arent really about capability. they're about small decisions like: - choosing the wrong context - missing edge cases - continuing when it should stop and ask for clarification - applying the right logic in the wrong situation whats weird is these arent hard problem, they're the kinds of judgement calls human make without thinking. a simple example i ran into was i tried automating basic lead qualification + outreach flow using AI. it worked great on clen data, but as soon as inputs got messy (incomplete info, slightly ambiguous intent) the system didnt fail loudly, it just kept executing, incorrectly. it feels like execution is mostly solved, but decision making inside workflows is still very fragile. i recently came across approaches like 60x ai that seem to focus on structuring context and decision layers around workflows, rather than just improving prompts or chaining tools. im curious how people think about this. do u see the main bottleneck now as: - improving model outputs (better prompts, better retrieval) or - improving how decisions are made across a system (context, logic, orchestration)? would love to hear from people who've tried building or running these in real world scenarios
+
+5m ago
+
+---
+
+**[I used Gemini 2.5 Flash to parse receipts at scale. Here's what I learned about multimodal OCR in production](https://www.reddit.com/r/artificial/comments/1t4rt7g/i_used_gemini_25_flash_to_parse_receipts_at_scale/)**
+
+For my startup, I needed to extract structured data (item name, price, quantity, unit cost) from photos of receipts and from product images on the shelf; faded thermal paper, crumpled, bad lighting, the works. Key findings after thousands of test receipts: Single-pass extraction beats two-step pipelines. Most setups use a vision model for OCR then a language model for structuring. Gemini does both in one call, faster and cheaper. Prompt structure matters more than model size. Asking for JSON with strict field definitions dramatically outperformed open-ended extraction prompts. Thermal fade is the hardest edge case. The model handles blur and angle well. Faded thermal paper causes the most hallucinations, still working on mitigation strategies. Flash vs Pro tradeoff: Flash handles ~95% of receipts correctly. Pro kicks in for complex layouts (multi-column, handwritten addendums). The cost difference makes routing worth it. Happy to share more specifics on prompt design if anyone's working on similar problems.
+
+6h ago
 
 ---
 
@@ -121,17 +121,31 @@ The Qt Group announced today the QML Profiler Skill for Agentic Development
 
 ## Google News: "ai"
 
-**[Congress Is Doing Little to Prepare for Potential A.I. Job Losses](https://www.nytimes.com/2026/05/05/business/artificial-intelligence-safety-net.html)**
+**[Apple to pay $250m to iPhone buyers over AI features lawsuit](https://www.bbc.com/news/articles/c0j2nydnzy7o)**
 
-The New York Times • 9h ago
+Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.
+
+BBC • 2h ago
 
 ---
 
-**[Richard Dawkins concludes AI is conscious, even if it doesn’t know it](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt)**
+**[Apple Reaches $250 Million Settlement Over Claims It Misled People on A.I.](https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html)**
 
-Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry
+The New York Times • 5h ago
 
-The Guardian • 5h ago
+---
+
+**[Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)**
+
+iPhone 16 and iPhone 15 Pro owners could get some cash.
+
+The Verge • 5h ago
+
+---
+
+**[The Federal Safety Net Isn’t Ready for Artificial Intelligence](https://www.nytimes.com/2026/05/05/business/artificial-intelligence-safety-net.html)**
+
+The New York Times • 12h ago
 
 ---
 
@@ -139,59 +153,45 @@ The Guardian • 5h ago
 
 CNBC's Jim Cramer said the data center and artificial intelligence boom is spreading far beyond tech companies and into nearly every corner of the market.
 
-CNBC • 1h ago
+CNBC • 4h ago
 
 ---
 
-**[Colorado's new AI bill wins support from key players](https://www.axios.com/local/denver/2026/05/05/colorado-new-ai-bill-artificial-intelligence)**
+**[Richard Dawkins concludes AI is conscious, even if it doesn’t know it](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt)**
 
-Axios • 1h ago
+Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry
 
----
-
-**[Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement](https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit)**
-
-Five major publishing houses and the bestselling author are suing Meta and its CEO Mark Zuckerberg for allegedly training its Llama generative AI models on millions of copyrighted materials.
-
-NPR • 2h ago
+The Guardian • 1h ago
 
 ---
 
-**[Meta Is Building an AI Agent Called ‘Hatch’ and an Agentic Shopping Tool in Instagram](https://www.theinformation.com/articles/meta-building-ai-agent-called-hatch-agentic-shopping-tool-instagram)**
+**[Agents, human agency, and the opportunity for every organization](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)**
 
-Meta Platforms is building a consumer version of the AI agent OpenClaw and a new agentic shopping tool, people familiar with the efforts said, as CEO Mark Zuckerberg pushes for products to deliver returns on the company’s huge artificial intelligence investments. Meta is training the ...
+As AI and agents take on execution, our own agency expands. The question is whether organizations are built to capture it.
 
-The Information • 1h ago
-
----
-
-**[Publishers, author Scott Turow accuse Meta and Mark Zuckerberg of training AI on copyrighted works](https://www.cbsnews.com/news/meta-ai-lawsuit-copyright-scott-turow-publishers-llama/)**
-
-The lawsuit claims that Meta's Llama is generating summaries — and, in some cases, verbatim copies — of original works.
-
-CBS News • 6h ago
+Microsoft • 15h ago
 
 ---
 
-**[Anthropic Releases New AI Agents for Financial Services Firms](https://www.wsj.com/tech/ai/anthropic-releases-new-ai-agents-for-financial-services-firms-e2829b37)**
+**[Coinbase didn't just lay off 14% of its staff due to AI. It replaced managers with ‘player-coaches’ and turned its org chart upside down](https://fortune.com/2026/05/05/coinbase-layoffs-14-of-employees-ai-tech-ai-job-anxiety-crypto/)**
 
-WSJ • 6h ago
+“We are not just reducing headcount and cutting costs, we’re fundamentally changing how we operate,” CEO Brian Armstrong said.
 
----
-
-**[Anthropic launches AI agents for Wall Street's grunt work](https://www.businessinsider.com/anthropic-ai-agent-tool-wall-street-finance-bank-2026-5)**
-
-Anthropic introduced 10 AI agents for the finance industry on Tuesday, adding to the tools already available from buzzy startups and firms themselves.
-
-Business Insider • 2h ago
+Fortune • 10h ago
 
 ---
 
-**[Agents for financial services and insurance](https://www.anthropic.com/news/finance-agents)**
+**[Coinbase Lays Off 14% of Employees as A.I. Changes Work](https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html)**
 
-We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.
+The New York Times • 8h ago
 
-Anthropic • 8h ago
+---
+
+**[Coinbase cuts headcount by 14% citing AI acceleration](https://www.cnbc.com/2026/05/05/coinbase-cuts-headcount-by-14percent-citing-ai-acceleration-the-shares-are-gaining.html)**
+
+Coinbase will cut roughly 14% of its workforce, citing a combination of market volatility and the how AI is quickly changing how the company operates.
+
+CNBC • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ Anthropic • 8h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1157 • 💬 793 • 16h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1271 • 💬 862 • 19h ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -215,25 +215,25 @@ Spirit Airlines collapsed. Before private equity locks it up, the people can own
 
 ---
 
-**[How OpenAI delivers low-latency voice AI at scale](https://news.ycombinator.com/item?id=48013919)**
-
-How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
-
-⬆️ 493 • 💬 141 • 1d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
-
----
-
 **[AI didn't delete your database, you did](https://news.ycombinator.com/item?id=48022742)**
 
 Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:
 
-⬆️ 479 • 💬 263 • 9h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+⬆️ 496 • 💬 272 • 12h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+
+---
+
+**[How OpenAI delivers low-latency voice AI at scale](https://news.ycombinator.com/item?id=48013919)**
+
+How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
+
+⬆️ 495 • 💬 143 • 1d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 327 • 💬 222 • 8h ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 375 • 💬 253 • 11h ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
 
 ---
 
@@ -241,7 +241,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
 
-⬆️ 294 • 💬 205 • 14h ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+⬆️ 321 • 💬 222 • 17h ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 
 ---
 
@@ -249,7 +249,7 @@ Are people using AI, or is the organization learning from it? What changed becau
 
 The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.
 
-⬆️ 282 • 💬 294 • 2d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
+⬆️ 283 • 💬 294 • 2d ago • [acai.sh](https://acai.sh/blog/specsmaxxing)
 
 ---
 
@@ -257,7 +257,7 @@ The toolkit for spec-driven development. Write feature specs, not prompts. Ship 
 
 Curated list of AI tools and AI startups that have shut down, been acquired and folded, or had their domains lapse. Updated as our editorial team confirms each death.
 
-⬆️ 241 • 💬 85 • 10h ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
+⬆️ 245 • 💬 87 • 13h ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
 
 ---
 
@@ -265,13 +265,13 @@ Curated list of AI tools and AI startups that have shut down, been acquired and 
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 118 • 💬 110 • 1d ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 118 • 💬 111 • 1d ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
 **[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
 
-⬆️ 83 • 💬 11 • 8h ago
+⬆️ 102 • 💬 26 • 11h ago
 
 ---
 
@@ -279,23 +279,63 @@ A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants
 
 ## YouTube Videos: "ai"
 
+**[The AI Agent That Gets Smarter Every Day](https://www.youtube.com/watch?v=5__DOjXWqPs)**
+
+Try Hostinger:* http://hostinger.com/juliahermes *Hermes Agent is a self-improving AI that remembers, learns, and evolves every ...
+
+📺 Julia McCoy
+
+👁️ 2K • 👍 145 • 💬 18 • ⏱️ 9:03 • 7h ago
+
+---
+
+**[IBM CEO warns this would ‘NOT BE GOOD’ for US in AI race…](https://www.youtube.com/watch?v=u3ZzaMf0ml0)**
+
+IBM CEO Arvind Krishna assesses government oversight of artificial intelligence, quantum computing and more on 'The Claman ...
+
+📺 Fox Business
+
+👁️ 7K • 👍 133 • 💬 60 • ⏱️ 9:05 • 6h ago
+
+---
+
 **[If You&#39;re Worried About AI, You NEED To See This](https://www.youtube.com/watch?v=6rGhvV3rZa4)**
 
 AI CEOs are telling you your job is about to disappear. NYU Professor Scott Galloway says that narrative is "mostly bullshit" and ...
 
 📺 The Diary Of A CEO Clips
 
-👁️ 103K • 👍 3K • 💬 425 • ⏱️ 21:59 • 1d ago
+👁️ 111K • 👍 3K • 💬 439 • ⏱️ 21:59 • 1d ago
 
 ---
 
-**[Big Tech&#39;s AI Plan Has Failed](https://www.youtube.com/watch?v=tR5adb2Ts6c)**
+**[A New AI Model Just Dropped With A CRAZY Claim.](https://www.youtube.com/watch?v=34I9hKjJbSM)**
 
-GET 84% OFF + 4 MONTHS FREE CYBERGHOST VPN: https://cyberghostvpn.com/SashaYanshin Big Tech is spending over ...
+Today, a new AI model from a company name "SubQuadratic" dropped a brand new model using a known, but not used, attention ...
 
-📺 Sasha Yanshin
+📺 Tim Carambat
 
-👁️ 80K • 👍 4K • 💬 584 • ⏱️ 16:06 • 1d ago
+👁️ 18K • 👍 891 • 💬 156 • ⏱️ 15:22 • 7h ago
+
+---
+
+**[Consumer AI Has a Problem Nobody&#39;s Naming.](https://www.youtube.com/watch?v=Z0HizICooiw)**
+
+Full Story w/ Prompt Kit: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 32K • 👍 1K • 💬 200 • ⏱️ 32:55 • 12h ago
+
+---
+
+**[BREAKING: Indian IT Faces A NEW CHALLENGE From AI LABS](https://www.youtube.com/watch?v=ohWE_rtmX0c)**
+
+Anthropic's new $1.5 billion AI services venture is a major move, creating both challenges and opportunities for Indian IT firms.
+
+📺 AIM Network
+
+👁️ 5K • 👍 92 • 💬 20 • ⏱️ 3:44 • 15h ago
 
 ---
 
@@ -305,17 +345,7 @@ TikToker Tricked Cops Using AI Videos Then Got Arrested This South Florida news 
 
 📺 Mori
 
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 11:45 • 1d ago
-
----
-
-**[AI Just Designed A Quantum Computer](https://www.youtube.com/watch?v=l_bzA_M6_qo)**
-
-FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/blueprint/ *The recursive loop just turned on — AI is ...
-
-📺 Julia McCoy
-
-👁️ 46K • 👍 2K • 💬 157 • ⏱️ 6:54 • 1d ago
+👁️ 15K • 👍 1K • 💬 105 • ⏱️ 11:45 • 1d ago
 
 ---
 
@@ -325,7 +355,7 @@ AI CEOs are selling us the dream of 'freedom', making billions off the fear of m
 
 📺 The Diary Of A CEO
 
-👁️ 1.2M • 👍 28K • 💬 4K • ⏱️ 1:58:11 • 1d ago
+👁️ 1.2M • 👍 30K • 💬 4K • ⏱️ 1:58:11 • 1d ago
 
 ---
 
@@ -335,47 +365,17 @@ Get a FREE AI-built Shopify store: https://www.buildyourstore.ai/wv43 Try AutoDS
 
 📺 Mark Tilbury
 
-👁️ 204K • 👍 12K • 💬 3K • ⏱️ 28:29 • 1d ago
+👁️ 220K • 👍 13K • 💬 3K • ⏱️ 28:29 • 1d ago
 
 ---
 
-**[I Asked Claude AI To Predict XRP Price.. JAW-DROPPING Results](https://www.youtube.com/watch?v=BJAhCMWB25Q)**
+**[We Asked AI To Show America Without Republicans](https://www.youtube.com/watch?v=jAcxE5w52vI)**
 
-Unlock Up To $30000 USDT In Welcome Rewards And Copy My Trades On BTCC -SIGN UP HERE: ...
+We asked AI to show America without any Republicans.
 
-📺 Levi
+📺 The Babylon Bee
 
-👁️ 10K • 👍 629 • 💬 259 • ⏱️ 9:13 • 8h ago
-
----
-
-**[How I Make AI Videos FAST With Claude Code](https://www.youtube.com/watch?v=J6T8QHST2YE)**
-
-Higgsfield: https://higgsfield.ai/s/mcp-thezinnystudio-kPlJqq What if I told you the 5-hour AI video grind was never a tools problem ...
-
-📺 The Zinny Studio
-
-👁️ 7K • 👍 369 • 💬 63 • ⏱️ 17:05 • 1d ago
-
----
-
-**[The First Fully AI Animated Movie Is Already Here.](https://www.youtube.com/watch?v=dgtbK8EL0SY)**
-
-https://www.youtube.com/playlist?list=PLEq_fPCBGNcvqHbSuYkjUdOMKbJc-EfUM In the last symptom of the wave of AI ...
-
-📺 DazzReviews
-
-👁️ 8K • 👍 776 • 💬 147 • ⏱️ 12:30 • 3h ago
-
----
-
-**[Jensen Huang: Agentic AI is fully accretive for software companies](https://www.youtube.com/watch?v=AZ9ySZESED0)**
-
-Jensen Huang, Nvidia CEO, and Bill McDermott, ServiceNow CEO, join 'Power Lunch' to discuss ServiceNow's projections, why ...
-
-📺 CNBC Television
-
-👁️ 12K • 👍 205 • 💬 91 • ⏱️ 4:30 • 4h ago
+👁️ 204K • 👍 16K • 💬 1K • ⏱️ 1:25 • 1d ago
 
 ---
 
@@ -391,19 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 631,499 • ❤️ 3,576 • 8d ago
-
----
-
-**[privacy-filter](https://huggingface.co/openai/privacy-filter)**
-
-*OpenAI*
-
-A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and tunable precision/recall.
-
-`token-classification` `1.4B`
-
-⬇️ 141,317 • ❤️ 1,298 • 13d ago
+⬇️ 631,499 • ❤️ 3,586 • 8d ago
 
 ---
 
@@ -415,7 +403,19 @@ Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, 
 
 `127.7B`
 
-⬇️ 15,024 • ❤️ 269 • 1d ago
+⬇️ 15,024 • ❤️ 271 • 1d ago
+
+---
+
+**[privacy-filter](https://huggingface.co/openai/privacy-filter)**
+
+*OpenAI*
+
+A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and tunable precision/recall.
+
+`token-classification` `1.4B`
+
+⬇️ 141,317 • ❤️ 1,301 • 13d ago
 
 ---
 
@@ -427,7 +427,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 37,897 • ❤️ 230 • 7h ago
+⬇️ 37,897 • ❤️ 246 • 2h ago
 
 ---
 
@@ -439,7 +439,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 13,317 • ❤️ 438 • 7d ago
+⬇️ 13,317 • ❤️ 440 • 7d ago
 
 ---
 
@@ -451,31 +451,7 @@ Nemotron-3 Nano Omni 30B is a multimodal LLM for enterprise Q&A, summarization, 
 
 `any-to-any` `33.0B`
 
-⬇️ 44,631 • ❤️ 242 • 10h ago
-
----
-
-**[Laguna-XS.2](https://huggingface.co/poolside/Laguna-XS.2)**
-
-*Poolside*
-
-Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring Sliding Window Attention and FP8 KV cache for efficient local execution on 36GB RAM. It supports native reasoning and is available under the Apache 2.0 license.
-
-`text-generation` `33.4B`
-
-⬇️ 12,027 • ❤️ 218 • 2d ago
-
----
-
-**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
-
-*Qwen*
-
-Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 1,458,973 • ❤️ 1,126 • 11d ago
+⬇️ 44,631 • ❤️ 244 • 13h ago
 
 ---
 
@@ -487,7 +463,31 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 3,262 • ❤️ 154 • 8d ago
+⬇️ 3,262 • ❤️ 162 • 9d ago
+
+---
+
+**[Laguna-XS.2](https://huggingface.co/poolside/Laguna-XS.2)**
+
+*Poolside*
+
+Laguna XS.2 is a 33B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring Sliding Window Attention and FP8 KV cache for efficient local execution on 36GB RAM. It supports native reasoning and is available under the Apache 2.0 license.
+
+`text-generation` `33.4B`
+
+⬇️ 12,027 • ❤️ 221 • 2d ago
+
+---
+
+**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+
+*Qwen*
+
+Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 1,458,973 • ❤️ 1,130 • 12d ago
 
 ---
 
@@ -511,7 +511,7 @@ talkie-1930-13b-it is a 13B instruction-tuned language model trained on pre-1931
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 57 • 💬 3 • ⭐ 68,945 • 16mo ago
+▲ 57 • 💬 3 • ⭐ 69,417 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -551,7 +551,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 16 • 💬 3 • ⭐ 9,175 • 18d ago
+▲ 16 • 💬 3 • ⭐ 9,205 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -617,7 +617,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 52 • 💬 2 • ⭐ 54,805 • 12mo ago
+▲ 53 • 💬 2 • ⭐ 54,834 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -659,23 +659,13 @@ The headless browser for AI agents and web scraping
 
 ---
 
-**[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)**
-
-数字生命卡兹克开源的 AI Skills 合集
-
-`Python`
-
-⭐ 8.0k • 🔱 1.2k • 6d ago
-
----
-
 **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)**
 
 Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.5k • 🔱 493 • 1d ago
+⭐ 5.5k • 🔱 498 • 1d ago
 
 ---
 
@@ -685,7 +675,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.5k • 🔱 413 • 5h ago
+⭐ 5.5k • 🔱 416 • 8h ago
 
 ---
 
@@ -695,7 +685,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.0k • 🔱 359 • 1d ago
+⭐ 5.0k • 🔱 362 • 1d ago
 
 ---
 
@@ -705,7 +695,7 @@ Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based 
 
 `Python` `ai` `claude-code` `claude-code-skill` `knowledge-management` `obsidian`
 
-⭐ 4.3k • 🔱 477 • 11d ago
+⭐ 4.3k • 🔱 478 • 11d ago
 
 ---
 
@@ -715,7 +705,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.6k • 🔱 441 • 7m ago
+⭐ 3.6k • 🔱 450 • 3h ago
 
 ---
 
@@ -733,7 +723,17 @@ MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M
 
 `Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
 
-⭐ 2.7k • 🔱 348 • 6d ago
+⭐ 2.7k • 🔱 349 • 6d ago
+
+---
+
+**[cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)**
+
+A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
+
+`TypeScript`
+
+⭐ 2.6k • 🔱 336 • 12d ago
 
 ---
 
