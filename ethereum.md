@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-06T17:41:53.218669+00:00'
+updated: '2026-05-06T19:47:27.190951+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 17:41 UTC  
+**Last Updated:** May 06, 2026 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,359.23
+### $2,343.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +4.1%  
-**30d:** +4.9%  
-**90d:** +13.9%  
-**1y:** +29.8%  
+**24h:** -1.5%  
+**7d:** +3.9%  
+**30d:** +4.7%  
+**90d:** +13.7%  
+**1y:** +29.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.77B
+**Market Cap:** $283.01B
 Rank #2
 
 **Circulating Supply:** 120,687,222 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-52.6%
 
 **All-Time Low:** $0.43
-+542790.1%
++541713.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-37m ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ anyone ever think about how fragile their access to their traditional bank accou
 
 Couldn't really find it,most of what's out there is press release language or token price commentary, neither of which tells me if the liquidity is sticky or if it's farmers waiting for the next chain. So genuine question for anyone whos actually on katana or providing liquidity on Sushi there ,what's the lp experience like, what are fees doing, and is there organic swap demand or is volume mostly aggregator routing? Not trying to make a thesis post, I just can't tell from the outside and figured someone here would actually know.
 
-12h ago
+14h ago
 
 ---
 
@@ -154,15 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
 
-The Block • 7h ago
-
----
-
-**[Crypto blossoming with green shoots as ethereum and altcoins surge](https://sherwood.news/crypto/spring-is-springing-for-the-crypto-industry/)**
-
-Zcash, often referred to as private digital money, has  increased more than 31.3% in the last 24 hours....
-
-Sherwood News • 2h ago
+theblock.co • 9h ago
 
 ---
 
@@ -170,13 +162,7 @@ Sherwood News • 2h ago
 
 Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
-
-Barron's • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -202,17 +188,31 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum (ETH) Just Changed How It Makes Money. The Market Hasn’t Caught On Yet](https://www.tipranks.com/news/ethereum-eth-just-changed-how-it-makes-money-the-market-hasnt-caught-on-yet)**
+**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
 
-TipRanks • 5h ago
+Barron's • 1d ago
 
 ---
 
-**[How high can Bitcoin, Ethereum and XRP go?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-set-to-extend-rebound-attracting-capital-through-etfs-202605051200)**
+**[Ethereum (ETH) Just Changed How It Makes Money. The Market Hasn’t Caught On Yet](https://www.tipranks.com/news/ethereum-eth-just-changed-how-it-makes-money-the-market-hasnt-caught-on-yet)**
 
-Cryptocurrency prices are broadly rising on Tuesday, as observed with Bitcoin (BTC) steadying near $81,000 after reclaiming the pivotal $80,000 level as immediate support. Ethereum (ETH) is similarly in bullish hands, pushing into the $2,400 supply zone while Ripple (XRP) gains momentum above $1.41.
+TipRanks • 7h ago
 
-FXStreet • 1d ago
+---
+
+**[Ethereum Founder Vitalik Says Five Banks on One Chain Is Not a Blockchain Solution](https://coinpedia.org/news/ethereum-founder-vitalik-says-five-banks-on-one-chain-is-not-a-blockchain-solution/)**
+
+Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
+
+Coinpedia • 11h ago
+
+---
+
+**[Coal in Old School RuneScape has, in theory, outperformed cryptocurrency Ethereum this year](https://www.pcgamer.com/games/mmo/coal-in-old-school-runescape-has-in-theory-outperformed-cryptocurrency-ethereum-this-year/)**
+
+Big, beautiful, coal.
+
+PC Gamer • 8h ago
 
 ---
 
@@ -234,7 +234,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 985 • 👍 63 • 💬 4 • ⏱️ 7:39 • 6h ago
+👁️ 1K • 👍 74 • 💬 5 • ⏱️ 7:39 • 8h ago
+
+---
+
+**[Ethereum MAJOR Sell Volume Confirms Rejection And Crash?](https://www.youtube.com/watch?v=9CQfOiya1cA)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 99 • 👍 9 • 💬 2 • ⏱️ 5:21 • 1h ago
 
 ---
 
@@ -244,27 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 328 • 👍 20 • 💬 1 • ⏱️ 4:19 • 8h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 254 • 💬 117 • ⏱️ 19:21 • 1d ago
-
----
-
-**[BITCOIN HOLDERS: DON&#39;T BE FOOLED (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Dljhxeklfz0)**
-
-BITCOIN HOLDERS: DON'T BE FOOLED (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 315 • 💬 303 • ⏱️ 18:34 • 14h ago
+👁️ 382 • 👍 21 • 💬 1 • ⏱️ 4:19 • 10h ago
 
 ---
 
@@ -274,7 +264,37 @@ Crypto bull market signals are waking up, and these are very macro indicators al
 
 📺 Crypto Capital Venture
 
-👁️ 16K • 👍 986 • 💬 451 • ⏱️ 14:49 • 1d ago
+👁️ 16K • 👍 990 • 💬 419 • ⏱️ 14:49 • 1d ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 256 • 💬 117 • ⏱️ 19:21 • 1d ago
+
+---
+
+**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
+
+In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
+
+📺 The Value Thinker
+
+👁️ 4K • 👍 314 • 💬 94 • ⏱️ 17:39 • 6h ago
+
+---
+
+**[BITCOIN HOLDERS: DON&#39;T BE FOOLED (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Dljhxeklfz0)**
+
+BITCOIN HOLDERS: DON'T BE FOOLED (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 323 • 💬 321 • ⏱️ 18:34 • 16h ago
 
 ---
 
@@ -284,17 +304,7 @@ FEATURED PARTNER: ▻ Earn rewards when you get started on OKX | Use code: paulb
 
 📺 Paul Barron Podcast
 
-👁️ 5K • 👍 494 • 💬 71 • ⏱️ 7:05 • 19h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=D0-FmALSdZ4)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 538 • 👍 70 • ⏱️ 6:43 • 4h ago
+👁️ 5K • 👍 498 • 💬 72 • ⏱️ 7:05 • 21h ago
 
 ---
 
@@ -304,7 +314,7 @@ Follow me on X: @dr_crossroads 15% Off Fiscal.ai Plans! Unlock institutional-gra
 
 📺 Crossroads
 
-👁️ 8K • 👍 300 • 💬 53 • ⏱️ 10:34 • 2d ago
+👁️ 8K • 👍 301 • 💬 53 • ⏱️ 10:34 • 2d ago
 
 ---
 
@@ -314,17 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 740 • 👍 28 • ⏱️ 4:32 • 1d ago
-
----
-
-**[UPDATE: XRP on Pace to SURPASS ETH IN 2026 (IM LOADING UP)](https://www.youtube.com/watch?v=eS33KH8koKI)**
-
-Get Funded. Trade Like FireHustle. BREAKOUT PROP Sign up here ▻ https://www.breakoutprop.com/kol/firehustle/ ...
-
-📺 FireHustle
-
-👁️ 5K • 👍 369 • 💬 113 • ⏱️ 10:20 • 22h ago
+👁️ 759 • 👍 29 • ⏱️ 4:32 • 1d ago
 
 ---
 
