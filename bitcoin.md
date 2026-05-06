@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-06T22:14:27.924613+00:00'
+updated: '2026-05-06T23:27:01.625840+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 22:14 UTC  
+**Last Updated:** May 06, 2026 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** +6.6%  
 **30d:** +13.1%  
 **90d:** +15.3%  
@@ -77,17 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
+
+6h ago
+
+---
+
 **[What’s causing BTC to rally upwards now?](https://www.reddit.com/r/Bitcoin/comments/1t5afmh/whats_causing_btc_to_rally_upwards_now/)**
 
 Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
 
-10h ago
+11h ago
 
 ---
 
-**[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
+**[FIRE with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t5q08f/fire_with_bitcoin/)**
 
-4h ago
+Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
+
+2h ago
 
 ---
 
@@ -95,7 +103,7 @@ Hello all, been away for the past week or so and just checked the pricing. What�
 
 as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
-12h ago
+13h ago
 
 ---
 
@@ -111,13 +119,13 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
 
-9h ago
+11h ago
 
 ---
 
 **[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,15 +133,15 @@ For those of you that waited for a drop to $40 000 - $50 000, that never came, a
 
 So, if someone in Florence could check if this sticker is still up there, that would be nice. (ps, I highly doubt it lol)
 
-8h ago
+9h ago
 
 ---
 
-**[Colombian President Proposes Building a Bitcoin Mining Hub](https://www.reddit.com/r/Bitcoin/comments/1t54q64/colombian_president_proposes_building_a_bitcoin/)**
+**[If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?](https://www.reddit.com/r/Bitcoin/comments/1t5rcmy/if_i_buy_bitcoin_or_any_crypto_on_coinbase_with_a/)**
 
-The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest country by Bitcoin mining hashrate. Colombian President Gustavo Petro said the nation’s Caribbean coast has the potential to become a Bitcoin mining hub, leveraging its surplus renewable energy to attract foreign investment and spur economic development. In a post on X on Tuesday, Petro said the Caribbean cities of Barranquilla, Santa Marta and Riohacha could host Bitcoin (BTC) mining facilities and tap the country’s clean energy sources, following a similar path to Venezuela and Paraguay in recent years. “It’s an immense boost to the development of the Caribbean,” Petro said, proposing that the Wayúu community — Colombia’s largest Indigenous community, which mainly resides on the Caribbean coast — could be co-owners of the project. Bitcoin mining analysts such as Hashlabs managing partner Jaran Mellerud have said the industry can have a sizable economic impact on emerging countries looking to convert otherwise unused electricity into cash flow. There’s also an opening for countries with low electricity costs to capture a larger share of the Bitcoin network hashrate as US commercial miners continue expanding into AI and high-performance computing in pursuit of higher-margin opportunities. Petro’s remarks were made in response to a post from Luxor Technology’s Alessandro Cecere, who noted that Paraguay’s share of Bitcoin hashrate has risen to 4.3% since tapping into hydroelectric energy at its Itaipu dam. The small, landlocked South American country is now the fourth-largest Bitcoin miner behind the US, Russia and China. A World Bank report published in April 2024 found that Colombia generates as much as 75% of its electricity from renewable energy — more than twice the global average. Tapping these renewable sources would mitigate concerns flagged by Petro that Bitcoin mined with fossil fuels contributes to global warming and potential “climate collapse.” Petro has served as Colombia’s president since August 2022 and has adopted a relatively neutral stance on Bitcoin and the crypto industry. Petro would only have another three months to lead the Bitcoin mining initiative as his presidential term comes to an end in August. He is not running in Colombia’s upcoming presidential election on May 31 due to constitutional limits. Data from prediction market Kalshi suggests that left-leaning Senator Iván Cepeda Castro and Abelardo de la Espriella, a conservative lawyer and free-market advocate, are the clear front-runners to replace Petro. Neither candidate has made significant public comments on Bitcoin or digital assets to date.
+If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 15h ago
+1h ago
 
 ---
 
@@ -141,15 +149,7 @@ The Colombian president pointed to the impact Bitcoin mining has had in Paraguay
 
 Should I buy more now or just hold what I have?
 
-1h ago
-
----
-
-**[Kraken and MoneyGram partner to turn crypto into cash at global scale](https://www.reddit.com/r/Bitcoin/comments/1t5o6ck/kraken_and_moneygram_partner_to_turn_crypto_into/)**
-
-Independent coverage says the network could reach nearly 500,000 locations globally, though Kraken’s own blog emphasizes “hundreds of fiat currencies” and “more than 100 countries” rather than that exact count. The main benefit is better access to cash off-ramps, especially in places where bank rails are limited or bitcoin ATMs face restrictions. It also shows that crypto usability is increasingly tied to regulated payment infrastructure rather than purely peer-to-peer transfers The service is being rolled out in phases across the United States, Europe, Latin America, Africa, and parts of Asia Pacific. Kraken says the broader partnership may later expand into local bank deposits and remittance-style flows. This is the biggest news we've got so far
-
-2h ago
+3h ago
 
 ---
 
@@ -161,41 +161,49 @@ Independent coverage says the network could reach nearly 500,000 locations globa
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-CNBC • 22h ago
+CNBC • 23h ago
+
+---
+
+**[U.S. Bitcoin Reserve update coming in 'next few weeks," White House adviser says](https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says)**
+
+White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding.
+
+CoinDesk • 1h ago
+
+---
+
+**[Michael Saylor’s Bitcoin Treasury Company Posts $12.5 Billion Loss, Boasts That People Are Still Giving It Money](https://gizmodo.com/michael-saylors-bitcoin-treasury-company-posts-12-5-billion-loss-boasts-that-people-are-still-giving-it-money-2000755338)**
+
+Gizmodo • 10m ago
+
+---
+
+**[American Bitcoin Q1 Earnings Call Highlights](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-q1-earnings-call-225737430.html)**
+
+American Bitcoin (NASDAQ:ABTC) reported first-quarter fiscal 2026 results highlighting higher Bitcoin production, lower unit mining costs, and continued growth in its Bitcoin reserve, even as Bitcoin prices declined during the quarter and created significant non-cash accounting losses under fair val
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says](https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says)**
+
+Alex Pruden said the asymmetry between acting on a post-quantum signature scheme today and waiting for certainty about quantum-computing hardware timelines means Bitcoin developers should move from research into production.
+
+CoinDesk • 1h ago
 
 ---
 
 **[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Hut 8 Surges 35%, Riot Platforms Climbs 13% as Bitcoin Miners Become AI Infrastructure Plays](https://finance.yahoo.com/markets/crypto/articles/hut-8-surges-35-riot-170013599.html)**
-
-Shares of Hut 8 (NASDAQ:HUT) are surging 35% in midday trading Wednesday. Riot Platforms (NASDAQ:RIOT) stock is climbing 13% in tandem, as investors reprice former Bitcoin mining pure-plays as AI data center landlords. HUT stock changed hands near $109 after opening at $80.51, extending a one-month rally of 67% and a one-year gain of 531%. ... Hut 8 Surges 35%, Riot Platforms Climbs 13% as Bitcoin Miners Become AI Infrastructure Plays
-
-Yahoo Finance • 5h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading](https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/)**
 
-Investor's Business Daily • 1h ago
-
----
-
-**[Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say](https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say)**
-
-Senior figures from CoinShares, Calamos, ProShares and Flow Traders flagged Coinbase-heavy custody concentration, modest advisor uptake and creation-flow inefficiency as being among the next set of problems to solve.
-
-CoinDesk • 14m ago
-
----
-
-**[Trump brothers-backed American Bitcoin narrows loss on stronger mining revenue](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-narrows-loss-stronger-mining-revenue-2026-05-06/)**
-
-Reuters • 22m ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -203,7 +211,7 @@ Reuters • 22m ago
 
 Petro pointed to Venezuela and Paraguay as countries that managed to attract investment in bitcoin mining with abundant clean energy.
 
-theblock.co • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -219,15 +227,7 @@ Investopedia • 1d ago
 
 A different way to understand bitcoin
 
-The Atlantic • 7h ago
-
----
-
-**[Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030)**
-
-By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
-
-Decrypt • 1h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -269,7 +269,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 4h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 5h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -293,7 +293,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Part XIV and Finale of the Bitgenstein Serialization
 
-⬆️ 1 • 💬 0 • 4d ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
+⬆️ 1 • 💬 0 • 5d ago • [Medium](https://allenfarrington.medium.com/bitcoin-is-venice-bitcoin-is-741cc7d22e9)
 
 ---
 
@@ -323,7 +323,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 365 • ⏱️ 47:26 • 7h ago
+👁️ 18K • 👍 1K • 💬 365 • ⏱️ 47:26 • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ The system is cracking while surveillance expands at full speed. From AI threats
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 511 • ⏱️ 25:32 • 22h ago
+👁️ 28K • 👍 2K • 💬 511 • ⏱️ 25:32 • 23h ago
 
 ---
 
@@ -343,7 +343,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 319 • 💬 250 • ⏱️ 13:16 • 19h ago
+👁️ 8K • 👍 319 • 💬 250 • ⏱️ 13:16 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ BTC charts, Saylor to sell, ETH, SOL, PEPE, AMD, GME, MARA and more! BITUNIX TRA
 
 📺 Lark Davis
 
-👁️ 15K • 👍 760 • 💬 79 • ⏱️ 18:32 • 11h ago
+👁️ 15K • 👍 760 • 💬 79 • ⏱️ 18:32 • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ Hal Finney saw the endgame before almost everyone. Before Wall Street cared. Bef
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 799 • 💬 280 • ⏱️ 19:08 • 21h ago
+👁️ 13K • 👍 799 • 💬 280 • ⏱️ 19:08 • 22h ago
 
 ---
 
@@ -403,7 +403,7 @@ Three honest questions about buying Bitcoin and altcoins this month, and what I'
 
 📺 VirtualBacon
 
-👁️ 25K • 👍 906 • 💬 747 • ⏱️ 12:29 • 18h ago
+👁️ 25K • 👍 906 • 💬 747 • ⏱️ 12:29 • 20h ago
 
 ---
 
@@ -411,7 +411,7 @@ Three honest questions about buying Bitcoin and altcoins this month, and what I'
 
 📺 True North
 
-👁️ 545 • 👍 7 • ⏱️ 0:38 • 2h ago
+👁️ 545 • 👍 7 • ⏱️ 0:38 • 3h ago
 
 ---
 

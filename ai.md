@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-06T22:14:27.918653+00:00'
+updated: '2026-05-06T23:27:01.618337+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 06, 2026 at 22:14 UTC  
+**Last Updated:** May 06, 2026 at 23:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
 
-3h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic just partnered with SpaceX and doubled Claude Code rate limits effecti
 
 One speaker (a VC) said his number for evaluating AI-native startups is ARR per engineer, and that the number ought to be going up. Almost every talk and every booth at the AI Agents Conference was selling a fix for something that broke this year when agents hit production. Observability, governance, supervisor agents, data substrates, "someone's gotta babysit the bots." But what's actually still going to be around in a couple years? What's defensible and durable? The old SaaS pitch was simple. We bundle the expensive engineering investments and domain expertise into a tool. You'd pay for the tool and generate outcomes, but it would be rare for the software company to have real alignment to the actual value created from those outcomes. That's breaking from two ends at once. In the direct-from-imagination era we're moving towards, engineering labor is approaching free. One of the most telling trends is the shift from companies bragging about the size of their engineering teams, towards how much ARR they can generate per engineer. You can vibe-code much of what those booths were selling in a few days or weeks if you have the domain knowledge. The old software model was actually based on under-utilization; the most profitable SaaS companies are frequently those whose customers underuse it (fixed price for the customer, but variable cloud costs for the vendor). Pricing is moving to "token markup." Maybe we'll get to 2-4x revenue for the software, because outcomes are more valuable; but margin compresses because transactional intelligence (i.e., the cost of running the LLMs that power many systems) is basically arbitraging token costs against outcome value. So everyone on that floor was implicitly betting on a new moat to replace the old one. I'm not too confident that these will hold... The most popular bet was on encoded domain expertise (e.g., the sales engineers at Harvey, a legal AI platform, are actually lawyers). I think this works *now* because we're still in the phase of "wow, this technology works like magic." I'm less convinced this is actually durable. Why: Prompt architecture is text. It's portable. The expertise underneath it is often abundant (e.g., there are over a million lawyers in the USA). The righteous destiny for this category ought to be open marketplaces of prompt architecture and/or crowdsourced best-practices. Not trade secrets. The companies trying to build closed prompt moats are going to lose to open ones that iterate faster (which simply parallels the fact that much software engineering is rapidly becoming commoditized to agentic engineering and the burgeoning quantity of ready-made GitHub repos). There are many people pursuing the data substrate; in short, this mirrors the early days of the Web when everyone scrambled to open up legacy data to dynamic standards-based Web UI. Agents will have 100-1000x the data demands of these Web apps, so it makes sense that we need tools to connect them, govern them and comply with regulatory obligations. Newer entrants extend this further, wiring up databases, pipelines, Slack threads, and tickets into context graphs agents can reason over. As I noted above, all this still seems magical. Connect a database, watch an agent crawl the schema and produce a chatbot interface and easy-to-change dashboards. But strip the magic away and most of these are prompt architectures on top of LLMs plus a data-ingestion layer. Once data-access standards mature (MCP is already doing this) and prompt architectures go open-source (alongside much of this wisdom increasingly getting pretrained into the LLMs themselves), that magic stops being proprietary. You'll be defending yourself against the same architecture built internally by your customer's eng team, or against an open-source version that's objectively better. The observability incumbents: these might do better but only at Stripe-like ubiquity where trust is the overriding value (who doesn't trust Stripe at this point?). The ones who survive are probably going to fuse with the audit and compliance function rather than stay pure observability. That's why I keep coming back to one arbitrage that seems critical: trust. This will be especially important in regulated industries, but it reminds me of the old (albeit now hilariously outdated) adage about "nobody ever got fired for choosing IBM." If your competitor can be vibe-coded over a weekend and your customer is a bank, why do they pay you 50x more? It isn't the engineering, it probably isn't even the expertise. The data plumbing will get commoditized, so it can't be that either... It's that you've shifted the risk to a third party who can actually price and defend against risk: SOC2, the named CEO who testifies in court and Congress, a legal team that takes calls, an indemnity wrapper for underwriters. Maybe this means that things actually get commodified into a financialization wrapper, rather than a way to package R&D (FinTech startups back to the front?!) The version of this future I'd actually bet on: a commodity substrate (LLMs plus open prompt architectures plus standardized data access), topped by a thin layer of regulated insurance companies that price the risk of agent failure in compliance-driven industries. The middle layer (prompt-architecture-as-product vendors) is vulnerable to an awful lot of margin-squeeze. Most of the floor was trying to build that middle layer.
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,23 @@ One speaker (a VC) said his number for evaluating AI-native startups is ARR per 
 
 Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake credentials and mental health advice.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/pennsylvania-sues-character-ai-chatbot) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/pennsylvania-sues-character-ai-chatbot) • 8h ago
+
+---
+
+**[AI Podcasts made learning economics way less painful for me](https://www.reddit.com/r/artificial/comments/1t5q6pd/ai_podcasts_made_learning_economics_way_less/)**
+
+I’m basically a total beginner when it comes to finance and economics maybe 2 or 3 months ago, and honestly trying to learn from reports or books used to completely destroy me. Too many charts, numbers, random terms I have to Google every 2 minutes. And I started using AI Podcast to kind of brute force my way into learning this stuff, and I’m honestly surprised by how much it helped. Instead of sitting there suffering through a 70-page report, I can turn it into conversational audio and just listen while driving or walking around. But those tools actually feel slightly different. Like NotebookLM feels more “AI teacher explains the document to you.” It’s really good at organizing information and walking through the important points clearly. And I enjoy Genspark AI Pods more because it feels more like an actual show or podcast episode. The tone feels lighter, less dry, less like I’m studying for an exam. Sometimes it genuinely just sounds like casually discussing the topic instead of reading a report at me. Not saying this magically turned me into some economics genius lol. But it definitely made learning feel way less painful and boring.
+
+2h ago
+
+---
+
+**[Average Claude experience:](https://www.reddit.com/r/artificial/comments/1t5rfqc/average_claude_experience/)**
+
+Me: Sup? Claude: Good Also Claude: Upgrade to keep chatting, you hit your message limit. It resets at 5:10 pm, or you can upgrade for higher limits.
+
+1h ago
 
 ---
 
@@ -65,7 +81,7 @@ Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake 
 
 I see people claiming Claude Mythos is the "final form" of LLM creativity, but I’m struggling to see the actual reach it might have. What does it do that a well-crafted system prompt on base Claude can't? Do you actually believe it will change your workflow? Is the "impact" real, or are we just seeing a vocal minority of power users?
 
-5h ago
+6h ago
 
 ---
 
@@ -77,19 +93,11 @@ I see people claiming Claude Mythos is the "final form" of LLM creativity, but I
 
 ---
 
-**[AI Podcasts made learning economics way less painful for me](https://www.reddit.com/r/artificial/comments/1t5q6pd/ai_podcasts_made_learning_economics_way_less/)**
-
-I’m basically a total beginner when it comes to finance and economics maybe 2 or 3 months ago, and honestly trying to learn from reports or books used to completely destroy me. Too many charts, numbers, random terms I have to Google every 2 minutes. And I started using AI Podcast to kind of brute force my way into learning this stuff, and I’m honestly surprised by how much it helped. Instead of sitting there suffering through a 70-page report, I can turn it into conversational audio and just listen while driving or walking around. But those tools actually feel slightly different. Like NotebookLM feels more “AI teacher explains the document to you.” It’s really good at organizing information and walking through the important points clearly. And I enjoy Genspark AI Pods more because it feels more like an actual show or podcast episode. The tone feels lighter, less dry, less like I’m studying for an exam. Sometimes it genuinely just sounds like casually discussing the topic instead of reading a report at me. Not saying this magically turned me into some economics genius lol. But it definitely made learning feel way less painful and boring.
-
-57m ago
-
----
-
 **[How can I set up an LLM with voice chat. So I can talk to the LLM or ask it questions when working?](https://www.reddit.com/r/artificial/comments/1t5iyjm/how_can_i_set_up_an_llm_with_voice_chat_so_i_can/)**
 
 How can I set up an LLM with voice chat. So I can talk to the LLM or ask it questions when working? Is there a special program or something that I can connect to an llm?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +105,7 @@ How can I set up an LLM with voice chat. So I can talk to the LLM or ask it ques
 
 Google says this update aims to address that “people are increasingly seeking out advice from others” when searching for information online. This will be relatable for anyone who’s added “Reddit” to the end of Google Search terms to find experiences from real humans instead of SEO-optimized web results. It also backs up claims made by Reddit CEO Steve Huffman last year that “just about anybody using Google at this point will end up on Reddit.”
 
-🔗 [The Verge](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links) • 8h ago
+🔗 [The Verge](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links) • 10h ago
 
 ---
 
@@ -105,15 +113,7 @@ Google says this update aims to address that “people are increasingly seeking 
 
 Hey, I was wondering if I could build my own AI Assistant that would act as (J.A.R.V.I.S) from IRON MAN. An AI that I can ask to do literally anything (within its capabilities) and just do it with no need to buy any subscriptions or tokens and all that stuff. I am an Electrical engineer so I have a little bit of knowledge that I could use to that, the problem is I still don't have a blueprint and I don't know what I should start with first. If anyone tied this before I will be happy to get some information about how it went and maybe a lot of advice.
 
-8h ago
-
----
-
-**[Average Claude experience:](https://www.reddit.com/r/artificial/comments/1t5rfqc/average_claude_experience/)**
-
-Me: Sup? Claude: Good Also Claude: Upgrade to keep chatting, you hit your message limit. It resets at 5:10 pm, or you can upgrade for higher limits.
-
-11m ago
+9h ago
 
 ---
 
@@ -125,7 +125,51 @@ Me: Sup? Claude: Good Also Claude: Upgrade to keep chatting, you hit your messag
 
 Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.
 
-CNBC • 10h ago
+CNBC • 11h ago
+
+---
+
+**[5 new ways to explore the web with generative AI in Search](https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/)**
+
+New updates to AI Mode and AI Overviews in Google Search make it easier for you to dive deeper online.
+
+blog.google • 10h ago
+
+---
+
+**[Google updates AI search to include quotes from Reddit and other sources](https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/)**
+
+While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.
+
+TechCrunch • 7h ago
+
+---
+
+**[Google’s AI search summaries will now quote Reddit](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links)**
+
+You know, that thing many of us were already looking for manually.
+
+The Verge • 10h ago
+
+---
+
+**[AI-generated video supporting Spencer Pratt for mayor of L.A. goes viral adding to concern over fake campaign ads](https://www.nbcnews.com/video/ai-video-supporting-spencer-pratt-s-l-a-mayoral-campaign-goes-viral-262877765550)**
+
+NBC News • 26m ago
+
+---
+
+**[AI Models Lose Money in Trading Contests](https://www.bloomberg.com/news/newsletters/2026-05-06/why-ai-may-not-be-wall-street-ready-evening-briefing-americas)**
+
+Bloomberg.com • 45m ago
+
+---
+
+**[Jim Cramer says Big Tech cannot afford to be cheap on AI spending](https://www.cnbc.com/2026/05/06/jim-cramer-big-tech-cannot-afford-to-be-cheap-on-ai-spending.html)**
+
+Cloud computing giants cannot afford to pinch pennies on the artificial intelligence buildout, CNBC's Jim Cramer argued Wednesday.
+
+CNBC • 1h ago
 
 ---
 
@@ -133,7 +177,7 @@ CNBC • 10h ago
 
 xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.
 
-xAI • 5h ago
+xAI • 7h ago
 
 ---
 
@@ -141,7 +185,7 @@ xAI • 5h ago
 
 Anthropic says it will rent all of the compute capacity from SpaceX's massive Colossus 1 data center.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -149,49 +193,7 @@ Yahoo Finance • 4h ago
 
 We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.
 
-Anthropic • 5h ago
-
----
-
-**[Here’s how far the Trump administration’s ‘startling turn’ on AI regulation might go](https://www.marketwatch.com/story/heres-how-far-the-trump-administrations-startling-turn-on-ai-regulation-might-go-15ce46be)**
-
-MarketWatch • 1h ago
-
----
-
-**[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Everything that could go wrong with Trump's AI safety tests, according to experts](https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/)**
-
-Trump forced to admit Biden was right on AI safety testing.
-
-Ars Technica • 54m ago
-
----
-
-**[Pentagon Hands Meta-Backed Scale AI $500 Million Contract, 5 Times Last Year's Deal, Report Says](https://www.forbes.com/sites/aliciapark/2026/05/06/pentagon-hands-meta-backed-scale-ai-500-million-contract-5-times-last-years-deal-report-says/)**
-
-Forbes • 18m ago
-
----
-
-**[‘Your craft is obsolete’: WiseTech staff in limbo as AI touted as better than humans](https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans)**
-
-The software company said in February it would cut 7,000 jobs but, as it touts new technology, workers are still waiting to hear which roles will go
-
-The Guardian • 7h ago
-
----
-
-**[Dario Amodei spent last year warning of an AI white-collar bloodbath. Now he's changing the narrative](https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/)**
-
-The Anthropic CEO is sounding more open to the idea that Jevons Paradox—new technology creating more demand and more jobs—is possible with AI.
-
-Fortune • 1d ago
+Anthropic • 7h ago
 
 ---
 
@@ -203,7 +205,7 @@ Fortune • 1d ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1637 • 💬 1086 • 1d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1643 • 💬 1089 • 1d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -225,7 +227,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 523 • 💬 342 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 523 • 💬 344 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
 
 ---
 
@@ -241,7 +243,7 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
 
-⬆️ 374 • 💬 260 • 1d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+⬆️ 375 • 💬 264 • 1d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 
 ---
 
@@ -257,7 +259,7 @@ Curated list of AI tools and AI startups that have shut down, been acquired and 
 
 According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
 
-⬆️ 224 • 💬 205 • 20h ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+⬆️ 226 • 💬 205 • 21h ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
 
 ---
 
@@ -295,7 +297,7 @@ CNBC's Andrew Ross Sorkin discusses key takeaways from his conversation with Ant
 
 📺 CNBC Television
 
-👁️ 20K • 👍 263 • 💬 36 • ⏱️ 5:23 • 11h ago
+👁️ 20K • 👍 263 • 💬 36 • ⏱️ 5:23 • 12h ago
 
 ---
 
@@ -315,7 +317,7 @@ The economy is sending clear warning signs, and today we break down the real sto
 
 📺 I Allegedly
 
-👁️ 12K • 👍 1K • 💬 190 • ⏱️ 10:43 • 22h ago
+👁️ 12K • 👍 1K • 💬 190 • ⏱️ 10:43 • 23h ago
 
 ---
 
@@ -335,7 +337,7 @@ Make Your Own Realistic AI Avatars with Heygen ...
 
 📺 Isa does AI
 
-👁️ 11K • 💬 2 • ⏱️ 8:01 • 9h ago
+👁️ 11K • 💬 2 • ⏱️ 8:01 • 10h ago
 
 ---
 
@@ -391,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 786,631 • ❤️ 3,650 • 17h ago
+⬇️ 786,631 • ❤️ 3,650 • 19h ago
 
 ---
 
@@ -403,7 +405,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 55,461 • ❤️ 290 • 22h ago
+⬇️ 55,461 • ❤️ 290 • 23h ago
 
 ---
 
@@ -667,7 +669,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.6k • 🔱 427 • 2h ago
+⭐ 5.6k • 🔱 427 • 3h ago
 
 ---
 
@@ -687,7 +689,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 364 • 4h ago
+⭐ 5.1k • 🔱 364 • 5h ago
 
 ---
 
@@ -707,7 +709,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.7k • 🔱 462 • 8h ago
+⭐ 3.7k • 🔱 462 • 9h ago
 
 ---
 
@@ -725,7 +727,7 @@ MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M
 
 `Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
 
-⭐ 2.8k • 🔱 355 • 15h ago
+⭐ 2.8k • 🔱 355 • 16h ago
 
 ---
 

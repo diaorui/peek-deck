@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-06T22:14:27.930940+00:00'
+updated: '2026-05-06T23:27:01.633957+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 06, 2026 at 22:14 UTC  
+**Last Updated:** May 06, 2026 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Mantis by All3 autonomous construction robot with 4m reach, 100kg payload that builds on real construction sites](https://www.reddit.com/r/robotics/comments/1t5ihmn/mantis_by_all3_autonomous_construction_robot_with/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Colin Angle, Roomba co-founder and former iRobot CEO, has launched a new company called Familiar Machines & Magic focused on home robotics. His view is that humanoids are not the obvious starting point for robots in the home. A home robot should be designed around the job it is meant to do, not around copying the human body. A $20,000 humanoid pushing an upright vacuum is not a practical use case when robot vacuums already exist. For home robotics, Angle points toward robots built around routine, interaction, wellness, and companionship rather than general-purpose humanoids trying to handle household chores.
 
-5h ago
+7h ago
 
 ---
 
@@ -50,19 +50,19 @@ Colin Angle, Roomba co-founder and former iRobot CEO, has launched a new company
 
 Well, what good is designing a hand if it can't actually do anything, so here's a couple actions (all in real time) I was able to achieve with my hand & wrist combo! Surprising just how many more poses and gestures having a wrist allows for vs just a hand. Design wise, not much has changed since my last post, aside from a few tolerance and material improvements. Instead, I've been putting it through its paces, making sure it can work decently accurately, reliably, and safely. Maybe v21 a little bit later...
 
-18h ago
-
----
-
-**[Testing cingoli di Wall-E](https://www.reddit.com/r/robotics/comments/1t52tyl/testing_cingoli_di_walle/)**
-
-17h ago
+19h ago
 
 ---
 
 **[Genesis AI's Gene'26.5](https://www.reddit.com/r/robotics/comments/1t5lzo1/genesis_ais_gene265/)**
 
-3h ago
+4h ago
+
+---
+
+**[Testing cingoli di Wall-E](https://www.reddit.com/r/robotics/comments/1t52tyl/testing_cingoli_di_walle/)**
+
+18h ago
 
 ---
 
@@ -70,7 +70,15 @@ Well, what good is designing a hand if it can't actually do anything, so here's 
 
 Hi, I’m starting my Bachelor’s Thesis for mechatronics engineering and i want to do a low cost collaborative SCARA robot. I found a library to implement a simple FOC control brushless motors and it accepts steppers (generating waves on only two coils). This is the link to the library wiki: https://docs.simplefoc.com/supported_hardware. It has an extended list of compatible hardware. I choosed an L298 standard driver for each coil and a generic incremental optic encoder with 2400 counts/rev. I am using a nema23 stepper and i came across with the following issue: When applying a torque on the axis, this changes rotation direction. That means I cannot ensure the motor will follow the order. Moreover, the stepper can only operate between 550 and 700 rpm with accel stepper library. I’m using a simple AccelStepper code for testing with setSpeed and runSpeed. The stepper is feed with 12V 2A. I’ve tested several frequencies and this range was the only in which the stepper doesn’t loose steps. What are your thoughts on this?
 
-2h ago
+3h ago
+
+---
+
+**[Will this rotate 20lbs?](https://www.reddit.com/r/robotics/comments/1t5sz75/will_this_rotate_20lbs/)**
+
+This is the panoramic rotating system for a turret. The top is the part that’s rotated. I’m wondering if it can hold and rotate 20lbs, dimensions are in cm.
+
+22m ago
 
 ---
 
@@ -78,7 +86,7 @@ Hi, I’m starting my Bachelor’s Thesis for mechatronics engineering and i wan
 
 Designed the chassis in Fusion 360, exported to URDF, and built the full stack using ROS 2. Stack: Nav2 for navigation & path planning ArUco-based visual docking for precise alignment Custom waypoint sequencing for multi-shelf tasks Gazebo + RViz for simulation & visualization Challenge: LiDAR point cloud rotated with the robot in RViz, breaking the mapping and navigation. Root cause: odom/TF mismatch during turns. Fix: Developed a GroundTruthOdom node using Gazebo pose data to publish stable /odom and consistent TF, including handling ROS-Gazebo timestamp issues. In the video: robot autonomously services requests for Shelf B and Shelf C and delivers them to the drop-off zone. Happy to discuss the system or challenges!
 
-10h ago
+11h ago
 
 ---
 
@@ -86,7 +94,7 @@ Designed the chassis in Fusion 360, exported to URDF, and built the full stack u
 
 Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with gemeni who in addition to being able to respond to you like Rocky would, in Rockys voice, also used tool calling to control the body
 
-🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 10h ago
+🔗 [youtu.be](https://youtu.be/FG5cwNxvOp8) • 11h ago
 
 ---
 
@@ -94,15 +102,7 @@ Basically I had a raspberry pi 5, connected to 7 servos, the pi connected with g
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=0YZjvAEFQ5w) • 5h ago
-
----
-
-**[Open Source Simple Software to Calibrate Fisheye Cameras](https://www.reddit.com/r/robotics/comments/1t57fd6/open_source_simple_software_to_calibrate_fisheye/)**
-
-Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use to do visual SLAM, but the raw video itself was too distorted for it to be good, so I vibecoded a toolkit to figure out the intrinsic parameters of my camera and be able to undistort the footage. It took me some time, at first the distortion was still there, so I went ahead and created a program that helped me sample ~60 frames with a mini guide on which positions I should record for best results, and yeah it worked, I was able to undistort my video from my 160deg camera, so I figured to share if anyone is also using wide cameras on their robots. I know this ain't nothing new or ground breaking, there are probably tools out there that already do this and I was just too lazy to look them up and set them up, but hey if this turns out helpful for someone besides just me, I'm happy with that. REPO LINK: https://github.com/L42ARO/Fisheye-Calibration
-
-13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=0YZjvAEFQ5w) • 6h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi, so I got stuck with a 160deg wide camera for my robot, which I wanted to use
 
 Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -132,9 +132,11 @@ Allen AI • 1d ago
 
 ---
 
-**[Tennant counting on big growth in commercial floor-cleaning robotics, despite competition](https://www.startribune.com/robots-robotic-venture-tennant-floor-cleaners-partnership-brain-corp/601837097)**
+**[Richtech Robotics and SoundHound AI to Debut Live, Voice-Enabled Robotic Beverage Experience at Joint Showcase During 2026 National Restaurant Association Show in Chicago](https://finance.yahoo.com/sectors/technology/articles/richtech-robotics-soundhound-ai-debut-120000963.html)**
 
-Star Tribune • 5h ago
+LAS VEGAS, May 06, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics Inc. (Nasdaq: RR) (“Richtech Robotics”), a Nevada-based provider of AI-driven robotic solutions, today announces a prospective partnership with SoundHound AI, Inc. (Nasdaq: SOUN) (“SoundHound”), a global leader in voice and agentic AI. The parties have entered into a non-binding letter of intent regarding a proposed strategic partnership involving the integration of SoundHound’s advanced agentic voice AI capabilities into Richtech Rob
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -146,11 +148,17 @@ BBC • 1d ago
 
 ---
 
-**[QNX to Showcase Safe, Deterministic Foundations for Physical AI at Robotics Summit & Expo](https://finance.yahoo.com/sectors/technology/articles/qnx-showcase-safe-deterministic-foundations-120000877.html)**
+**[Tennant counting on big growth in commercial floor-cleaning robotics, despite competition](https://www.startribune.com/robots-robotic-venture-tennant-floor-cleaners-partnership-brain-corp/601837097)**
 
-QNX brings hands‑on demos, conference keynote, and new industry research to the world's leading commercial robotics event WATERLOO, ON / ACCESS Newswire / May 6, 2026 /QNX, a division of BlackBerry Limited (NYSE:BB)(TSX:BB), today announced a major ...
+Star Tribune • 7h ago
 
-Yahoo Finance • 10h ago
+---
+
+**[Glendale takes steps to regulate delivery robots as Serve Robotics fleet expands across Los Angeles area](https://abc7.com/post/glendale-takes-steps-regulate-delivery-robots-serve-robotics-fleet-expands-los-angeles-area/19048747/)**
+
+While many residents believe the AI delivery robots offer a convenient service, some city councilmembers are questioning the rapid growth in the number of robots now sharing local sidewalks.
+
+ABC7 Los Angeles • 17h ago
 
 ---
 
@@ -160,27 +168,15 @@ Reuters • 1d ago
 
 ---
 
-**[Glendale takes steps to regulate delivery robots as Serve Robotics fleet expands across Los Angeles area](https://abc7.com/post/glendale-takes-steps-regulate-delivery-robots-serve-robotics-fleet-expands-los-angeles-area/19048747/)**
+**[This Southern California city has an issue with food delivery robots](https://ktla.com/news/local-news/this-southern-california-city-has-an-issue-with-food-delivery-robots/)**
 
-While many residents believe the AI delivery robots offer a convenient service, some city councilmembers are questioning the rapid growth in the number of robots now sharing local sidewalks.
-
-ABC7 Los Angeles • 16h ago
+KTLA • 1d ago
 
 ---
 
-**[Ouster Brings Support for REV8 Digital Lidar to Robotics and Edge AI Ecosystem](https://www.businesswire.com/news/home/20260505024034/en/Ouster-Brings-Support-for-REV8-Digital-Lidar-to-Robotics-and-Edge-AI-Ecosystem)**
+**[Local high school wins robotics world championship](https://fox5sandiego.com/news/local-news/holy-cows-robotics-championship/)**
 
-Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, today announced the integration of its new Rev8 ...
-
-Business Wire • 1d ago
-
----
-
-**[Underwater robotics expert reveals 'shipwreck city' hiding beneath major urban lake](https://www.foxnews.com/travel/underwater-robotics-expert-reveals-shipwreck-city-hiding-beneath-major-urban-lake)**
-
-An underwater robotics expert is exploring nearly 100 targets in Seattle's Lake Union, calling the area a "shipwreck city" full of hidden maritime history.
-
-Fox News • 1d ago
+fox5sandiego.com • 1d ago
 
 ---
 
@@ -272,7 +268,7 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 Planet Roomba
 
-👁️ 5K • ⏱️ 14:47 • 23h ago
+👁️ 5K • ⏱️ 14:47 • 1d ago
 
 ---
 
@@ -282,7 +278,7 @@ ORDER HERE: SUBSCRIBE: https://www.vex.com/YouTube -----------------------------
 
 📺 VEX Robotics
 
-👁️ 341K • 👍 981 • 💬 236 • ⏱️ 3:51 • 5d ago
+👁️ 341K • 👍 981 • 💬 236 • ⏱️ 3:51 • 6d ago
 
 ---
 
