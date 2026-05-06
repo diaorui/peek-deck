@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-06T19:47:27.184912+00:00'
+updated: '2026-05-06T21:11:50.680517+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 19:47 UTC  
+**Last Updated:** May 06, 2026 at 21:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** +0.4%  
 **7d:** +6.7%  
-**30d:** +13.1%  
-**90d:** +15.3%  
-**1y:** -16.1%  
+**30d:** +13.2%  
+**90d:** +15.4%  
+**1y:** -16.0%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
 
-8h ago
+9h ago
+
+---
+
+**[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
+
+3h ago
 
 ---
 
@@ -89,7 +95,7 @@ Hello all, been away for the past week or so and just checked the pricing. What�
 
 as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
-9h ago
+11h ago
 
 ---
 
@@ -97,7 +103,7 @@ as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
 About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
 
-22h ago
+1d ago
 
 ---
 
@@ -105,7 +111,7 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +119,13 @@ For those of you that waited for a drop to $40 000 - $50 000, that never came, a
 
 So, if someone in Florence could check if this sticker is still up there, that would be nice. (ps, I highly doubt it lol)
 
-5h ago
+7h ago
+
+---
+
+**[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
+
+7h ago
 
 ---
 
@@ -121,37 +133,23 @@ So, if someone in Florence could check if this sticker is still up there, that w
 
 The Colombian president pointed to the impact Bitcoin mining has had in Paraguay, which is now the fourth-largest country by Bitcoin mining hashrate. Colombian President Gustavo Petro said the nation’s Caribbean coast has the potential to become a Bitcoin mining hub, leveraging its surplus renewable energy to attract foreign investment and spur economic development. In a post on X on Tuesday, Petro said the Caribbean cities of Barranquilla, Santa Marta and Riohacha could host Bitcoin (BTC) mining facilities and tap the country’s clean energy sources, following a similar path to Venezuela and Paraguay in recent years. “It’s an immense boost to the development of the Caribbean,” Petro said, proposing that the Wayúu community — Colombia’s largest Indigenous community, which mainly resides on the Caribbean coast — could be co-owners of the project. Bitcoin mining analysts such as Hashlabs managing partner Jaran Mellerud have said the industry can have a sizable economic impact on emerging countries looking to convert otherwise unused electricity into cash flow. There’s also an opening for countries with low electricity costs to capture a larger share of the Bitcoin network hashrate as US commercial miners continue expanding into AI and high-performance computing in pursuit of higher-margin opportunities. Petro’s remarks were made in response to a post from Luxor Technology’s Alessandro Cecere, who noted that Paraguay’s share of Bitcoin hashrate has risen to 4.3% since tapping into hydroelectric energy at its Itaipu dam. The small, landlocked South American country is now the fourth-largest Bitcoin miner behind the US, Russia and China. A World Bank report published in April 2024 found that Colombia generates as much as 75% of its electricity from renewable energy — more than twice the global average. Tapping these renewable sources would mitigate concerns flagged by Petro that Bitcoin mined with fossil fuels contributes to global warming and potential “climate collapse.” Petro has served as Colombia’s president since August 2022 and has adopted a relatively neutral stance on Bitcoin and the crypto industry. Petro would only have another three months to lead the Bitcoin mining initiative as his presidential term comes to an end in August. He is not running in Colombia’s upcoming presidential election on May 31 due to constitutional limits. Data from prediction market Kalshi suggests that left-leaning Senator Iván Cepeda Castro and Abelardo de la Espriella, a conservative lawyer and free-market advocate, are the clear front-runners to replace Petro. Neither candidate has made significant public comments on Bitcoin or digital assets to date.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 13h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast) • 14h ago
 
 ---
 
-**[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
+**[A real story of one laptop, some curiosity, and a deep dive into how Bitcoin private keys are born](https://www.reddit.com/r/Bitcoin/comments/1t5hhns/a_real_story_of_one_laptop_some_curiosity_and_a/)**
 
-6h ago
+What Is This? In 2015, someone created the "Bitcoin Puzzle" — 160 Bitcoin addresses, each holding a little more BTC than the last. The first ones got cracked quickly. Then more. Today, 69 puzzles have been solved, and Puzzle #71 still holds 7.1 BTC (over $580,000). This repository is my attempt to find the key. I didn't succeed — but I learned things most people never discover about how wallets work under the hood. Everything here runs on a standard laptop. No GPU farms. No rented cloud servers. Just an i5 with 8 GB of RAM and a lot of patience. The Puzzle, Explained Simply The creator left one big clue: "It is just consecutive keys from a deterministic wallet (masked with leading 000...0001 to set difficulty)." What does that mean? Imagine you have a wallet that spits out private keys one after another — like a really fancy random number generator that always gives the same sequence if you start it with the same seed. For each puzzle number n, the creator took the n-th key from that wallet, then applied a simple mask: set the first (n‑1) bits to 000...0001, and keep the lower bits from the wallet key. This made early puzzles easy (few bits to guess) and later puzzles hard (many bits). The formula is: Private Key = 2^(n-1) + (wallet_key_n & (2^(n-1) - 1)) Puzzle Range Start Private Key (example) #1 1 (1 bit) 1 #5 16 (5 bits) 21 #33 2^32 (33 bits) 7137437912 #71 2^70 (71 bits) ??? The wallet key is the same for all puzzles — only the mask changes. So if I could find the master seed that generates the wallet, I would get every remaining key at once. How I Tried to Find the Seed I took the 69 already-solved puzzles and used them as a "truth test." If I guessed a seed (or passphrase, or random generator setting), I could generate all 69 keys and check: do they match the known ones? If yes, I found the seed. This turns an impossible search (2^70 possible keys for puzzle #71) into "just" finding the seed. The Tools I Built link to repo ; https://github.com/mlartab/bitcoin-puzzle-systematic-analysis Here is every tool in this repo, and what it does. Tool Language What It Does seed_hunt_all.py Python Tests passphrases against BIP32 wallets (4 different derivation paths) seed_hunt_sha256.py Python Tests passphrases against old-school SHA256 brainwallets z3_crack.py Python Uses Z3 SAT solver to try to reverse-engineer the Mersenne Twister state gen_observed.py Python Generates partial output lists for the untwister state-recovery tool mt_brute.cpp C++ Scans ALL 4 billion possible 32-bit seeds for Python's random module rand_brute.cpp C++ Scans ALL 4 billion possible seeds for C's rand() java_crack.cpp C++ Tries to recover Java's Random seed using modular arithmetic (no brute force!) scanner.py Python A custom range scanner I built to sweep through key ranges
 
----
-
-**[Doing nothing is 2nd best thing for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t589pi/doing_nothing_is_2nd_best_thing_for_bitcoin/)**
-
-Hodling, or simply dca, or putting lump sum. But never do something else other than that.
-
-9h ago
+4h ago
 
 ---
 
-**[Free Lightning Address on your own domain — lnalias.com](https://www.reddit.com/r/Bitcoin/comments/1t5d9f6/free_lightning_address_on_your_own_domain/)**
+**[I have 1 bitcoin way back.](https://www.reddit.com/r/Bitcoin/comments/1t5oia1/i_have_1_bitcoin_way_back/)**
 
-Just launched a free service that lets you set up a Lightning Address like [you@yourdomain.com](mailto:you@yourdomain.com) in minutes. How it works: Login with your Lightning wallet (LNURL-auth) — no email, no password, no KYC Claim a free address on lnalias.com, or bring your own domain Payments go straight to your wallet — we never touch your funds Why I built it: Every existing solution either requires KYC, charges a subscription, or is custodial. This is non-custodial, free, and open to anyone with a Lightning wallet. Wallets that work: Phoenix, Zeus, Alby Hub Still early — would love feedback from the community. What's missing? What would make you switch from your current setup?
+Should I buy more now or just hold what I have?
 
-🔗 [lnalias.com](https://lnalias.com) • 6h ago
-
----
-
-**[Bitcoin Whitepaper ("Audiobook")](https://www.reddit.com/r/Bitcoin/comments/1t5av6y/bitcoin_whitepaper_audiobook/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=6P2pThP-88A) • 7h ago
+56m ago
 
 ---
 
@@ -163,13 +161,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-CNBC • 19h ago
+CNBC • 21h ago
 
 ---
 
 **[Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading](https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -177,7 +175,7 @@ Investor's Business Daily • 5h ago
 
 Shares of Hut 8 (NASDAQ:HUT) are surging 35% in midday trading Wednesday. Riot Platforms (NASDAQ:RIOT) stock is climbing 13% in tandem, as investors reprice former Bitcoin mining pure-plays as AI data center landlords. HUT stock changed hands near $109 after opening at $80.51, extending a one-month rally of 67% and a one-year gain of 531%. ... Hut 8 Surges 35%, Riot Platforms Climbs 13% as Bitcoin Miners Become AI Infrastructure Plays
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -185,7 +183,23 @@ Yahoo Finance • 2h ago
 
 Polaris’ 40-acre campus is energized and actively operating with 40 megawatts of contracted power through Oklahoma Gas & Electric.
 
-theblock.co • 5h ago
+theblock.co • 6h ago
+
+---
+
+**[Saylor’s Strategy Built a Bitcoin Empire… and Now He’s Selling](https://finance.yahoo.com/markets/crypto/articles/saylor-strategy-built-bitcoin-empire-204348821.html)**
+
+Strategy reported a $12.54 billion Q1 loss and now Saylor is floating selling some Bitcoin to cover mounting dividend obligations to STRC holders.
+
+Yahoo Finance • 28m ago
+
+---
+
+**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games?utm_source=markets.xml&utm_medium=rss)**
+
+The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
+
+theblock.co • 1h ago
 
 ---
 
@@ -193,15 +207,7 @@ theblock.co • 5h ago
 
 The U.S. president's son, who co-founded American Bitcoin, said there's been a turnaround from traditional institutional firms now embracing bitcoin.
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Price Prediction: We Asked ChatGPT About Bitcoin’s Realistic Price by Year-End](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-asked-chatgpt-191021320.html)**
-
-Bitcoin (CRYPTO: BTC) peaked at $126,000 in October 2025 and had been declining ever since, dropping to as low as $60,000 in February. The Bitcoin price recovery so far has been steady rather than explosive, but the buying behind it is starting to look serious. ETF inflows just had their strongest month of 2026, signaling ... Bitcoin Price Prediction: We Asked ChatGPT About Bitcoin’s Realistic Price by Year-End
-
-Yahoo Finance • 37m ago
+CoinDesk • 3h ago
 
 ---
 
@@ -209,23 +215,7 @@ Yahoo Finance • 37m ago
 
 A different way to understand bitcoin
 
-The Atlantic • 5h ago
-
----
-
-**[BTC climbs, ETH lags as investors pile into altcoins: Crypto Markets Today](https://www.coindesk.com/markets/2026/05/06/bitcoin-holds-gains-while-zec-and-dash-post-double-digit-rallies)**
-
-BTC climbed above $82,000 as a weaker dollar lifted crypto markets, while privacy coins and AI-linked tokens led an altcoin rally.
-
-CoinDesk • 9h ago
-
----
-
-**[Will Bitcoin Reclaim $85,000 Next? Daily Chart Confirms Breakout](https://finance.yahoo.com/markets/crypto/articles/bitcoin-reclaim-85-000-next-015001414.html)**
-
-Bitcoin reclaims $80,000 first time since January, yet a 4-hour channel breakdown could still pull BTC back to $75,000.
-
-Yahoo Finance • 1d ago
+The Atlantic • 6h ago
 
 ---
 
@@ -234,6 +224,12 @@ Yahoo Finance • 1d ago
 A proposed Senate draft of the Clarity Act, key crypto legislation that some market experts said would boost coin prices once passed, shows a compromise on stablecoin rewards.
 
 Investopedia • 1d ago
+
+---
+
+**[Coinbase Stock, Strategy Gain. It’s Not Just Rising Bitcoin Lifting Crypto Companies.](https://www.barrons.com/articles/coinbase-stock-strategy-robinhood-crypto-c97d863f)**
+
+Barron's • 2d ago
 
 ---
 
@@ -275,7 +271,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 1h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -329,7 +325,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 987 • 💬 274 • ⏱️ 47:26 • 5h ago
+👁️ 16K • 👍 987 • 💬 274 • ⏱️ 47:26 • 6h ago
 
 ---
 
@@ -339,7 +335,7 @@ The system is cracking while surveillance expands at full speed. From AI threats
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 485 • ⏱️ 25:32 • 20h ago
+👁️ 27K • 👍 2K • 💬 485 • ⏱️ 25:32 • 21h ago
 
 ---
 
@@ -359,7 +355,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 313 • 💬 218 • ⏱️ 13:16 • 17h ago
+👁️ 8K • 👍 313 • 💬 218 • ⏱️ 13:16 • 18h ago
 
 ---
 
@@ -389,7 +385,7 @@ In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that th
 
 📺 Cointelegraph
 
-👁️ 8K • 👍 320 • 💬 106 • ⏱️ 23:59 • 22h ago
+👁️ 8K • 👍 320 • 💬 106 • ⏱️ 23:59 • 1d ago
 
 ---
 
@@ -399,7 +395,7 @@ MILLIONS OF PEOPLE WILL START BUYING BITCOIN FROM MORGAN STANLEY! PAY ATTENTION 
 
 📺 Randi Hipper
 
-👁️ 465 • 👍 32 • 💬 49 • ⏱️ 1:17 • 4h ago
+👁️ 465 • 👍 32 • 💬 49 • ⏱️ 1:17 • 5h ago
 
 ---
 
@@ -409,7 +405,7 @@ Three honest questions about buying Bitcoin and altcoins this month, and what I'
 
 📺 VirtualBacon
 
-👁️ 23K • 👍 900 • 💬 723 • ⏱️ 12:29 • 16h ago
+👁️ 23K • 👍 900 • 💬 723 • ⏱️ 12:29 • 17h ago
 
 ---
 
@@ -419,7 +415,7 @@ BTC charts, Saylor to sell, ETH, SOL, PEPE, AMD, GME, MARA and more! BITUNIX TRA
 
 📺 Lark Davis
 
-👁️ 14K • 👍 713 • 💬 73 • ⏱️ 18:32 • 8h ago
+👁️ 14K • 👍 713 • 💬 73 • ⏱️ 18:32 • 10h ago
 
 ---
 

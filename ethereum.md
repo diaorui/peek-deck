@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-06T19:47:27.190951+00:00'
+updated: '2026-05-06T21:11:50.685690+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 19:47 UTC  
+**Last Updated:** May 06, 2026 at 21:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,343.44
+### $2,347.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +3.9%  
-**30d:** +4.7%  
-**90d:** +13.7%  
-**1y:** +29.5%  
+**24h:** -0.7%  
+**7d:** +4.1%  
+**30d:** +4.9%  
+**90d:** +13.9%  
+**1y:** +29.8%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion May 06, 2026](https://www.reddit.com/r/ethereum/comments/1t537c3/daily_general_discussion_may_06_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-14h ago
-
----
-
 **[he got debanked. so he's building the fix.](https://www.reddit.com/r/ethereum/comments/1t5iz3j/he_got_debanked_so_hes_building_the_fix/)**
 
 anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-2h ago
+4h ago
+
+---
+
+**[Daily General Discussion May 06, 2026](https://www.reddit.com/r/ethereum/comments/1t537c3/daily_general_discussion_may_06_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ anyone ever think about how fragile their access to their traditional bank accou
 
 Couldn't really find it,most of what's out there is press release language or token price commentary, neither of which tells me if the liquidity is sticky or if it's farmers waiting for the next chain. So genuine question for anyone whos actually on katana or providing liquidity on Sushi there ,what's the lp experience like, what are fees doing, and is there organic swap demand or is volume mostly aggregator routing? Not trying to make a thesis post, I just can't tell from the outside and figured someone here would actually know.
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
 
-theblock.co • 9h ago
+theblock.co • 10h ago
 
 ---
 
@@ -162,7 +162,7 @@ theblock.co • 9h ago
 
 Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -196,7 +196,7 @@ Barron's • 1d ago
 
 **[Ethereum (ETH) Just Changed How It Makes Money. The Market Hasn’t Caught On Yet](https://www.tipranks.com/news/ethereum-eth-just-changed-how-it-makes-money-the-market-hasnt-caught-on-yet)**
 
-TipRanks • 7h ago
+TipRanks • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ TipRanks • 7h ago
 
 Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
 
-Coinpedia • 11h ago
+Coinpedia • 13h ago
 
 ---
 
@@ -212,7 +212,7 @@ Coinpedia • 11h ago
 
 Big, beautiful, coal.
 
-PC Gamer • 8h ago
+PC Gamer • 9h ago
 
 ---
 
@@ -234,7 +234,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 74 • 💬 5 • ⏱️ 7:39 • 8h ago
+👁️ 1K • 👍 74 • 💬 5 • ⏱️ 7:39 • 9h ago
 
 ---
 
@@ -244,7 +244,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 99 • 👍 9 • 💬 2 • ⏱️ 5:21 • 1h ago
+👁️ 99 • 👍 9 • 💬 2 • ⏱️ 5:21 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 382 • 👍 21 • 💬 1 • ⏱️ 4:19 • 10h ago
+👁️ 382 • 👍 21 • 💬 1 • ⏱️ 4:19 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ In this video we review BMNR's May holdings. We will break down the latest holdi
 
 📺 The Value Thinker
 
-👁️ 4K • 👍 314 • 💬 94 • ⏱️ 17:39 • 6h ago
+👁️ 4K • 👍 314 • 💬 94 • ⏱️ 17:39 • 7h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN HOLDERS: DON'T BE FOOLED (Price Target)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 323 • 💬 321 • ⏱️ 18:34 • 16h ago
+👁️ 7K • 👍 323 • 💬 321 • ⏱️ 18:34 • 17h ago
 
 ---
 
@@ -304,7 +304,7 @@ FEATURED PARTNER: ▻ Earn rewards when you get started on OKX | Use code: paulb
 
 📺 Paul Barron Podcast
 
-👁️ 5K • 👍 498 • 💬 72 • ⏱️ 7:05 • 21h ago
+👁️ 5K • 👍 498 • 💬 72 • ⏱️ 7:05 • 23h ago
 
 ---
 
