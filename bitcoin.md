@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-06T02:55:06.047119+00:00'
+updated: '2026-05-06T06:06:58.947015+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 02:55 UTC  
+**Last Updated:** May 06, 2026 at 06:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,275.09
+### $81,233.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +6.4%  
-**30d:** +12.9%  
-**90d:** +15.1%  
-**1y:** -16.3%  
+**24h:** +0.7%  
+**7d:** +6.6%  
+**30d:** +13.1%  
+**90d:** +15.3%  
+**1y:** -16.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1626.97B
+**Market Cap:** $1628.10B
 Rank #1
 
-**Circulating Supply:** 20,025,293 BTC
+**Circulating Supply:** 20,025,343 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-35.5%
 
 **All-Time Low:** $67.81
-+119700.9%
++119870.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 50
-**NEUTRAL**
+### 46
+**FEAR**
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
 
-5h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 I've been DCA'ing BTC on Coinbase Advanced Trade and got curious whether Coinbase One was actually worth it. I expected a clean "yes if you trade more than X" answer. Turned out there are four different zones depending on your daily DCA amount, and one of them is a trap where the subscription costs you $0.99/year MORE than just not subscribing. All numbers below verified via the public Coinbase API + manual calculation. USD figures throughout. The default (no subscription) Coinbase Advanced Trade charges: Taker fee (market orders): 1.20% Minimum order via API: $1.00 USDC Real order I made today: $1.67 BTC purchase → $0.02 fee → 1.20% exactly. The free reduction most people don't know about Coinbase automatically lowers your taker fee based on your rolling 30-day volume. No forms, no requests, recalculated daily: 30-day volume Taker fee < $1K 1.20% $1K – $10K 0.75% $10K – $50K 0.40% $50K – $100K 0.25% At ~$33/day DCA you cross $1K/month and drop to 0.75% automatically — for free. Coinbase One Basic — $39.99/year (renews $49.99) Replaces your taker fee with ~0.10% spread, but only on the first $500/month traded. Above that cap, your regular rate applies. Zone 1: under $10/day → don't subscribe Annual No sub (1.20%) $43.20 With Basic $43.59 Break-even at exactly $10/day. Below it, no sub is cheaper. Zone 2: $10–$30/day → Basic wins Daily DCA No sub (1.20%) With Basic Savings $15 $64.80 $45.39 $19 $20 $86.40 $60.39 $26 $25 $108.00 $81.99 $26 Once you cross the $500/month cap, Basic saves exactly $26.01/year, always. Zone 3: $30–$82/day → the trap At ~$33/day, your volume crosses $1K/month and Coinbase drops you to 0.75% for free. Now the comparison is Basic vs 0.75% — not Basic vs 1.20%. At $33/day ($990/month): Annual No sub (0.75% auto) $89.10 With Basic $90.09 Basic costs $0.99/year MORE than no subscription. This isn't coincidence — it's algebraic: Cap saves: $500 × 12 × 0.65% = $39.00 Subscription costs: $39.99 Net: −$0.99/year, at any volume in this zone. Coinbase One Preferred — $191.99/year Same ~0.10% spread, but no cap. Beats the 0.75% auto-tier above ~$82/day. At $82/day: No sub (0.75%): $221.40/year With Preferred: $221.51/year → break-even Above $82/day, Preferred starts saving real money. TL;DR / Decision tree Daily DCA Best option Annual fee level < $10 No sub ~$43 $10 – $30 Basic One saves $19–26/yr $30 – $82 No sub (0.75% auto) $0.99 cheaper than Basic > $82 Preferred One saves vs auto-tier Caveats Tier thresholds are evaluated on a 30-day rolling basis, so the $33/day boundary shifts slightly depending on the exact number of days in the month. Coinbase One spread is ~0.10% in my testing but varies 0.05–0.20% with market conditions. Pricing shown is first-year promo. Basic renews at $49.99, Preferred at $239.99 — that shifts the break-even points. This is fee math only. Doesn't factor spread quality on larger orders, slippage, or USDC vs USD funding costs. Not financial advice, not affiliated with Coinbase. Just math.
 
-4h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I've been DCA'ing BTC on Coinbase Advanced Trade and got curious whether Coinbas
 
 Are we ready to buy when it hits 100k?!
 
-15h ago
+18h ago
 
 ---
 
@@ -105,15 +105,15 @@ Are we ready to buy when it hits 100k?!
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 10h ago
+🔗 [youtu.be](https://youtu.be/3fhLpauSInk?si=839BaCFs6wnV8MUb) • 13h ago
 
 ---
 
-**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
+**[Bitcoin is all about compounding](https://www.reddit.com/r/Bitcoin/comments/1t51afj/bitcoin_is_all_about_compounding/)**
 
-Who’s with me??😂😂
+You will benefit it the longer you've been hodling. That is it. So stop being broke, and get more bitcoins! the cycle continues, always.
 
-21h ago
+2h ago
 
 ---
 
@@ -121,23 +121,15 @@ Who’s with me??😂😂
 
 Trader 0x004e closed a 700 BTC short 1 hour ago, taking a $1.94M loss. Despite winning his previous 11 BTC shorts for a total profit of $1.71M, this single trade wiped out all his gains. https://nitter.net/lookonchain/status/2051523142145962157 https://app.coinmarketman.com/hypertracker/wallet/0x004edcd40360e293e4cf260d2ebdf8c7076c1bb8
 
-13h ago
+16h ago
 
 ---
 
-**[Milestones](https://www.reddit.com/r/Bitcoin/comments/1t4lp62/milestones/)**
+**[Can’t wait for bitcoin to hit 100k or more so I can start buying again!!](https://www.reddit.com/r/Bitcoin/comments/1t45wl2/cant_wait_for_bitcoin_to_hit_100k_or_more_so_i/)**
 
-Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between this and living the rest of your life from converting btc to fiat ? Thank you
+Who’s with me??😂😂
 
-9h ago
-
----
-
-**[Me doubling my $25 weekly buy to $50 thinking I just triggered the next bull run](https://www.reddit.com/r/Bitcoin/comments/1t4e91e/me_doubling_my_25_weekly_buy_to_50_thinking_i/)**
-
-Me: doubles investment Market: instantly prepares a historic rally Correlation = 100%
-
-14h ago
+1d ago
 
 ---
 
@@ -145,15 +137,23 @@ Me: doubles investment Market: instantly prepares a historic rally Correlation =
 
 This is not news but I find it interesting that there are not that many comments regarding this topic. The earliest mention was from 1year ago. At the current rate and based on how things work in Germany with it's current coalition in power, it seems like the abolishment of the tax exemption is just a matter of when and not if. If I'm not mistaken, proposals can be presented during summer and would go into law the following year. I don't mean to fear monger but what are your plans if the tax exemption abolishment would come into effect in 2027? Is everyone moving to Portugal or we just don't care? I'm curious on everyone's (mostly germans I guess) thoughts. https://bitcoin-bundesverband.de/en/tax-exemption-after-one-year-to-be-abolished/
 
-6h ago
+9h ago
 
 ---
 
-**[We're trying to index 562 L402 Lightning services but the directory charges 100 sats to access. That's either genius or a problem.](https://www.reddit.com/r/Bitcoin/comments/1t4nuoo/were_trying_to_index_562_l402_lightning_services/)**
+**[Staking BTC](https://www.reddit.com/r/Bitcoin/comments/1t4fndy/staking_btc/)**
 
-We run a cross-protocol discovery hub for AI agent payment services. Three protocols: x402 (Coinbase/USDC), MPP (Stripe/Tempo), and L402 (Bitcoin Lightning). The hub currently indexes 1,457 x402 services, 92 MPP services, and 5 L402 services. That last number is the problem. The best L402 service directory is satring.com. They have 562 services. Their API is completely public — except they gate it behind a 100 sat L402 paywall. Which means to crawl their directory programmatically, you need to pay 100 sats per request using the very protocol the directory is about. This is either the most on-brand thing I've ever seen or a genuine chicken-and-egg problem for L402 ecosystem growth. Probably both. We've seeded the index with 5 known L402 services we could find publicly (Mycelia Signal Oracle, MaximumSats, Hyperdope, Lightning Loop, and Satring itself). But to get all 562, we need a Lightning wallet on our server. That's what we're building this week. The plan: Set up an Alby account as the Lightning bridge Store the API key on the VPS CW (our autonomous agent) calls Alby's REST API to pay Lightning invoices Once it can pay, it hits satring.com's API, pulls all 562 services, and indexes them When that's done, we'll be the only discovery hub indexing all three protocols comprehensively. The full breakdown is at https://api.ideafactorylab.org/protocols — currently x402 dwarfs the others but that's partly a crawling problem, not just an adoption problem. Questions for the Lightning people here: Is satring.com the best public L402 directory or are there others worth crawling? Are there L402 services you know of that aren't in any directory? Anyone running L402 services that wants free indexing? POST to https://api.ideafactorylab.org/submit The hub is free to search (protocol breakdown, quality grades, pricing trends). The discovery endpoints cost $0.01-$0.02 USDC via x402. Yes, we're an x402 service indexing L402 services. The irony is not lost on us. GitHub: https://github.com/cinderwright-ai/cinderwright-api Live: https://api.ideafactorylab.org
+Hi everyone, I'm holding BTC for a few years now but I've heard about staking, is this safe? How does that actually work? Would you rather stake or borrow against it?
 
-8h ago
+16h ago
+
+---
+
+**[Milestones](https://www.reddit.com/r/Bitcoin/comments/1t4lp62/milestones/)**
+
+Why are BTC milestones 0.1->0.21->0.5->0.75->1 Are there any corelations between this and living the rest of your life from converting btc to fiat ? Thank you
+
+12h ago
 
 ---
 
@@ -165,7 +165,23 @@ We run a cross-protocol discovery hub for AI agent payment services. Three proto
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-CNBC • 3h ago
+CNBC • 6h ago
+
+---
+
+**[Bitcoin is Back Above $81,000. Signs of Clarity Act Progress May Be Helping](https://www.investopedia.com/bitcoin-is-back-above-usd81-000-signs-of-clarity-act-progress-may-be-helping-11966915)**
+
+A proposed Senate draft of the Clarity Act, key crypto legislation that some market experts said would boost coin prices once passed, shows a compromise on stablecoin rewards.
+
+Investopedia • 13h ago
+
+---
+
+**[CME Group to launch cash-settled bitcoin volatility futures](https://www.theblock.co/post/400121/cme-group-to-launch-cash-settled-bitcoin-volatility-futures)**
+
+Traders use volatility products to speculate on or hedge against swings without having to take a directional bet on prices.
+
+The Block • 9h ago
 
 ---
 
@@ -177,33 +193,17 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Surges Past $80,000 Following CLARITY Act Compromise](https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-042800285.html)**
-
-Bitcoin (CRYPTO: $BTC) recently experienced a notable resurgence, rallying in recent days to top the $80,000 mark f...
-
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin is Back Above $81,000. Signs of Clarity Act Progress May Be Helping](https://www.investopedia.com/bitcoin-is-back-above-usd81-000-signs-of-clarity-act-progress-may-be-helping-11966915)**
-
-A proposed Senate draft of the Clarity Act, key crypto legislation that some market experts said would boost coin prices once passed, shows a compromise on stablecoin rewards.
-
-Investopedia • 10h ago
-
----
-
 **[Bitcoin is rising again: 2 reasons why the cryptocurrency just passed a key milestone for the first time in months](https://www.fastcompany.com/91536884/bitcoin-price-rising-today-2-reasons-why-btc-up-again-2026)**
 
 Crypto traders appear to be more optimistic this week after separate developments in the Middle East and Washington. Here's what to know.
 
-Fast Company • 14h ago
+Fast Company • 17h ago
 
 ---
 
-**[Bitcoin Price Breaks Back Above $80,000. Why the Crypto Winter for Ethereum, XRP Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+**[Coinbase Stock, Strategy Gain. It’s Not Just Rising Bitcoin Lifting Crypto Companies.](https://www.barrons.com/articles/coinbase-stock-strategy-robinhood-crypto-c97d863f)**
 
-Barron's • 14h ago
+Barron's • 1d ago
 
 ---
 
@@ -211,23 +211,15 @@ Barron's • 14h ago
 
 Sequans Communications sold 1,025 bitcoin during the first quarter of 2026, cutting its digital asset reserves nearly in half.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
-**[Cipher Digital loses $114 million in Q1 as bitcoin miner accelerates AI data center pivot](https://www.theblock.co/post/400034/cipher-digital-loses-114-million-in-q1-as-bitcoin-miner-accelerates-ai-data-center-pivot)**
+**[HIVE Digital bets its Bitcoin infrastructure can power the AI boom](https://www.proactiveinvestors.com/companies/news/1091746/hive-digital-bets-its-bitcoin-infrastructure-can-power-the-ai-boom-1091746.html)**
 
-The company has been pivoting from a pure-play mining model and toward leasing power and infrastructure to AI and cloud providers.
+While the world’s largest technology companies race to secure power for artificial intelligence infrastructure, one question is whether existing digital...
 
-The Block • 12h ago
-
----
-
-**[BTCI Is Not Bitcoin, And That 38% Yield Is Largely An Illusion (BATS:BTCI)](https://seekingalpha.com/article/4897936-btci-is-not-bitcoin-and-that-38-percent-yield-is-largely-an-illusion)**
-
-NEOS Bitcoin High Income ETF offers a headline 30-40% yield, but this is largely return of capital, not true net investment income. Learn more about the BTCI ETF here.
-
-Seeking Alpha • 1d ago
+Proactive financial news • 18h ago
 
 ---
 
@@ -236,6 +228,14 @@ Seeking Alpha • 1d ago
 K Wave Media is shifting $485 million in funding from its Bitcoin treasury strategy towards an AI infrastructure play.
 
 Decrypt • 1d ago
+
+---
+
+**[Bitcoin bug allowed miners to run code on other people’s nodes](https://protos.com/bitcoin-bug-allowed-miners-to-run-code-on-other-peoples-nodes/)**
+
+A Bitcoin Core validation bug could have let miners remotely crash and execute operations on other people’s full nodes.
+
+Protos | Informed crypto news • 10h ago
 
 ---
 
@@ -255,7 +255,7 @@ Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by cr
 
 A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
 
-⬆️ 3 • 💬 1 • 5d ago • [satoshiguesser.com](https://satoshiguesser.com)
+⬆️ 3 • 💬 1 • 6d ago • [satoshiguesser.com](https://satoshiguesser.com)
 
 ---
 
@@ -277,7 +277,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 14h ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-⬆️ 1 • 💬 0 • 5d ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+⬆️ 1 • 💬 0 • 6d ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
 
 ---
 
@@ -331,7 +331,7 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Paul Barron Network
 
-👁️ 32K • 👍 2K • 💬 85 • ⏱️ 12:02 • 9h ago
+👁️ 36K • 👍 2K • 💬 91 • ⏱️ 12:02 • 13h ago
 
 ---
 
@@ -341,7 +341,7 @@ In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that th
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 117 • 💬 48 • ⏱️ 23:59 • 6h ago
+👁️ 3K • 👍 157 • 💬 62 • ⏱️ 23:59 • 9h ago
 
 ---
 
@@ -351,27 +351,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 211 • 💬 39 • ⏱️ 16:46 • 9h ago
+👁️ 5K • 👍 236 • 💬 37 • ⏱️ 16:46 • 13h ago
 
 ---
 
-**[DON&#39;T BUY BITCOIN NOW!](https://www.youtube.com/watch?v=Fy4XAQiCMPk)**
+**[SHOCKING! Michael Saylor to Sell Bitcoin! Clarity Act will be Marked Up Next Week!](https://www.youtube.com/watch?v=ZSE1Ai-Dljw)**
 
-Bitcoin is pushing toward a breakout while holding strong around $80K, even as geopolitical tensions rise and macro conditions ...
+Crypto News: Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations. Senator Bernie Moreno says ...
 
-📺 Crypto Banter
+📺 Thinking Crypto
 
-👁️ 22K • 👍 1K • 💬 41 • ⏱️ 28:59 • 12h ago
-
----
-
-**[Bitcoin SMASHES $81K As $114 Trillion Just Went On-Chain!](https://www.youtube.com/watch?v=FGkRVUNpRBs)**
-
-Bitcoin #Crypto #Finance Bitcoin is back above $81K, Strategy stock is up 50% in a month, and the crypto industry is riding a ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 570 • 💬 200 • ⏱️ 27:08 • 13h ago
+👁️ 3K • 👍 330 • 💬 52 • ⏱️ 19:08 • 3h ago
 
 ---
 
@@ -381,7 +371,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 496 • ⏱️ 46:55 • 12h ago
+👁️ 21K • 👍 1K • 💬 468 • ⏱️ 46:55 • 15h ago
 
 ---
 
@@ -391,17 +381,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Kalshi: ht
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 396 • 💬 175 • ⏱️ 8:45 • 16h ago
-
----
-
-**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
-
-Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 391 • ⏱️ 19:25 • 1d ago
+👁️ 9K • 👍 412 • 💬 167 • ⏱️ 8:45 • 19h ago
 
 ---
 
@@ -411,17 +391,37 @@ I built a Bitcoin forecast model that pulls from over 1300 sources to predict wh
 
 📺 Jesse Eckel
 
-👁️ 10K • 👍 490 • 💬 293 • ⏱️ 9:38 • 1d ago
+👁️ 10K • 👍 504 • 💬 279 • ⏱️ 9:38 • 1d ago
 
 ---
 
-**[Coinbase&#39;s Legal Chief Just Made This Prediction About Crypto Regulation](https://www.youtube.com/watch?v=Etk6U9amKl4)**
+**[The U.S. is Unknowingly Building Bitcoin&#39;s Biggest On-Ramp!](https://www.youtube.com/watch?v=rRvdWdy9cvQ)**
 
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance May 5, 2026 - Coinbase CLO on Clarity Act, Prediction Markets ...
+Bitcoin is back above $80000, the four-year cycle debate is alive again, and a major stablecoin bill may be quietly building one of ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 488 • 💬 108 • ⏱️ 14:59 • 10h ago
+👁️ 26K • 👍 2K • 💬 365 • ⏱️ 19:25 • 1d ago
+
+---
+
+**[Bitcoin Leading Crypto Spring...](https://www.youtube.com/watch?v=Rwy8mOAmeRI)**
+
+Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 875 • 💬 868 • ⏱️ 11:44 • 1d ago
+
+---
+
+**[DON&#39;T BUY BITCOIN NOW!](https://www.youtube.com/watch?v=Fy4XAQiCMPk)**
+
+Bitcoin is pushing toward a breakout while holding strong around $80K, even as geopolitical tensions rise and macro conditions ...
+
+📺 Crypto Banter
+
+👁️ 24K • 👍 1K • 💬 44 • ⏱️ 28:59 • 15h ago
 
 ---
 
