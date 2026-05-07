@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-07T17:16:23.054116+00:00'
+updated: '2026-05-07T19:14:14.899964+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 07, 2026 at 17:16 UTC  
+**Last Updated:** May 07, 2026 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 3h ago
-
----
-
-**[Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today](https://www.reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/)**
-
-Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
-
-22h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 5h ago
 
 ---
 
@@ -57,21 +49,43 @@ Anthropic just partnered with SpaceX and doubled Claude Code rate limits effecti
 
 Coinbase is cutting 700 jobs, or 14% of its staff, as CEO Brian Armstrong warns every company will follow. Q1 earnings drop today.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 19m ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 2h ago
 
 ---
 
-**[AI uses less water than the public thinks, Job Postings for Software Engineers Are Rapidly Rising and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1t6c3tr/ai_uses_less_water_than_the_public_thinks_job/)**
+**[Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today](https://www.reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/)**
 
-Hey everyone, I just sent issue #31 of the AI Hacker Newsletter, a weekly roundup of the best AI links from Hacker News. Here are some title examples: Three Inverse Laws of AI Vibe coding and agentic engineering are getting closer than I'd like AI Product Graveyard Telus Uses AI to Alter Call-Agent Accents Lessons for Agentic Coding: What should we do when code is cheap? If you enjoy such content, please consider subscribing here: https://hackernewsai.com/
+Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
 
-2h ago
+1d ago
+
+---
+
+**[English Centric AI Is Merging Unrelated Communities and Distorting Identities](https://www.reddit.com/r/artificial/comments/1t6ipmk/english_centric_ai_is_merging_unrelated/)**
+
+I’ve been noticing a serious problem in AI generated knowledge systems, especially Grokipedia, and even in normal AI search responses. Different communities, identities, and historical groups are sometimes being merged together simply because their names sound similar in English. A lot of these mistakes begin with humans first. Someone makes an incorrect assumption, mixes up two groups, or writes an oversimplified explanation online. That mistake then gets copied across websites and repeated by other people until it starts looking credible. After that, AI systems absorb those mistakes from training data and begin repeating them at massive scale with an appearance of authority. The deeper issue is that many AI systems rely heavily on English language sources and English transliterations, even when discussing cultures and histories that do not originate in English. But English letters cannot fully represent many sounds from other languages. Once names are flattened into English spellings, unrelated words can suddenly appear connected even when they are completely different in their original languages. What makes this worse is that even when you directly ask AI systems questions about these topics, they often continue searching mostly in English instead of checking sources in the original language that would provide proper context and distinctions. So the AI keeps reinforcing distorted connections instead of correcting them. Eventually two unrelated groups become linked across websites, AI answers, Wikipedia pages, and Grokipedia articles, and the mistake starts looking authoritative simply because it is repeated everywhere. This is not just about hallucinations. It is about how digital systems slowly erase distinctions between cultures through simplification, transliteration, repetition, and inherited human mistakes.
+
+58m ago
+
+---
+
+**[Most “agentic AI” conversations feel too abstract. Here is how my agentic research system looks like](https://www.reddit.com/r/artificial/comments/1t6iiqr/most_agentic_ai_conversations_feel_too_abstract/)**
+
+hey there I've seen plenty of demos and frameworks, but not many practical examples of agentic systems in action. So I wrote a breakdown of the agentic system I built to hear thoughts and potential improvements. It finds cases of AI being used inside companies, then break them down by outcomes, tools, vendors, and industries. Six agents help with finding and evaluating use cases, extracting key details, adding context, and matching them to users’ interests. They also report back (in research logs) when they hit a wall. I'm not using anything fancy for orchestration yet. They share a living map of cases (db), research logs, and human decisions where it matters (me). I think this is where many useful agentic systems will start, not replacing human judgment, but making it much easier to scale. Thoughts? Full read here. PS: I also included a few areas where this same setup could work like competitor research, real estate, supply chain, and more.
+
+1h ago
 
 ---
 
 **[Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training](https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/)**
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 13h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 15h ago
+
+---
+
+**[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
+
+17h ago
 
 ---
 
@@ -79,13 +93,7 @@ Hey everyone, I just sent issue #31 of the AI Hacker Newsletter, a weekly roundu
 
 A humanoid robot named Gabi joined the Buddhist faith in South Korea on Wednesday, as the country strives to create co-existence between robots and society
 
-🔗 [Daily Express US](http://the-express.com/tech/tech-news/206676/south-korea-first-robot-monk) • 14m ago
-
----
-
-**[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
-
-15h ago
+🔗 [Daily Express US](http://the-express.com/tech/tech-news/206676/south-korea-first-robot-monk) • 2h ago
 
 ---
 
@@ -101,15 +109,7 @@ One speaker (a VC) said his number for evaluating AI-native startups is ARR per 
 
 So I signed up for the 30 day trial. The trial was available for either business or standard/plus plan. As far as I could see the standard/plus plan includes everything in the business plan but more, so it made sense to go with that one. Plus, when I tried to select the business plan it asked for a business email but when I selected the standard/plus plan, it allowed me to sign up using my regular email address. So I didn't need a business email but got everything in the business plan + standard/plus plan. The issue I am having is, it asked me to add a payment method, which I did, but I can't find anywhere where it says I am on a free trial apart from when I click on the app it had me create. Once I click on that, there's a small banner that says I am on a trial. It's not under subscriptions or anywhere else. So I don't know how I am meant to cancel it before the end of the trial if I do not want to use it. Also, how do I use Veo 3 with this? I went to Agent platform / studio / generate media / video. I think this is the Vertex AI or something? I've never used this before, so it's a little confusing. But under the model settings, it says task > text-to-video and then it says model > veo 3.1 but it says charged will apply for video + audio generation. $0.40/second. This leads me to believe, if I generate media, it will charge my payment method instead of using the trial? Have I done this incorrectly or something? How do I check my trial is being used and I'm not outside of my trial using something that will charge me? Thanks
 
-8h ago
-
----
-
-**[Robert Evans on AI psychosis](https://www.reddit.com/r/artificial/comments/1t6f19i/robert_evans_on_ai_psychosis/)**
-
-Surprised it took this long!
-
-🔗 [open.spotify.com](https://open.spotify.com/episode/0gr3uXLFSlVYADPFQ0J9OK?si=d1d8eab26d6d474c) • 1h ago
+9h ago
 
 ---
 
@@ -117,81 +117,81 @@ Surprised it took this long!
 
 ## Google News: "ai"
 
+**[Apple’s Camera-Equipped AirPods Reach Advanced Testing Stage in AI Device Push](https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push)**
+
+Bloomberg.com • 53m ago
+
+---
+
+**[Apple to pay $250m to iPhone buyers over AI features lawsuit](https://www.bbc.com/news/articles/c0j2nydnzy7o)**
+
+Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.
+
+BBC • 1d ago
+
+---
+
+**[AI meets accessibility in this year’s Swift Student Challenge](https://www.apple.com/newsroom/2026/05/ai-meets-accessibility-in-this-years-swift-student-challenge/)**
+
+Meet four Swift Student Challenge winners who are creating innovative apps that leverage AI and focus on accessibility.
+
+Apple • 5h ago
+
+---
+
 **[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
 
 The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
 
-CNBC • 2h ago
+CNBC • 4h ago
 
 ---
 
-**[‘No one has done this in the wild’: study observes AI replicate itself](https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself)**
+**[Can AI Tollgates Become the New SaaS Model?](https://www.theinformation.com/articles/can-ai-tollgates-become-new-saas-model)**
 
-World is approaching point where no one can shut down a rogue AI, says director of body behind study
+AI agents are forcing enterprise software companies to defend the business model that made them rich: charging for every human user. Companies like ServiceNow and SAP are starting to redraw the boundaries around their software, with some restricting how outside agents get in. Others are testing ...
 
-The Guardian • 8h ago
-
----
-
-**[U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70)**
-
-WSJ • 17h ago
+The Information • 25m ago
 
 ---
 
-**[Trump posts wild new AI meme trolling Biden, Obama and Clinton with autopen, ice cream and cocaine references](https://ca.news.yahoo.com/trump-posts-wild-ai-meme-124020807.html)**
+**[Richard Dawkins concludes AI is conscious, even if it doesn’t know it](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt)**
 
-Trump has used AI images to bolster theories or controversies about his political opponents, despite the images being fake
+Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry
 
-Yahoo News Canada • 4h ago
-
----
-
-**[Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips](https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html)**
-
-The rocket company’s new semiconductor factory, called Terafab, is part of the billionaire’s increasing efforts to dominate artificial intelligence.
-
-The New York Times • 1h ago
+The Guardian • 2d ago
 
 ---
 
-**[Anthropic’s new SpaceX compute deal comes as anger—and conspiracy theories—spread around AI data centers](https://fortune.com/2026/05/07/big-tech-will-spend-nearly-700-billion-on-ai-this-year-no-one-knows-where-the-buildout-ends/)**
+**[No, AI Isn’t Conscious … Yet](https://www.theatlantic.com/technology/2026/05/dawkins-claude-ai-consciousness/687093/)**
 
-The scramble to build ever-larger AI campuses is fueling both legitimate community concerns and increasingly bizarre online fears
+Richard Dawkins caught hell on social media for suggesting otherwise.
 
-Fortune • 34m ago
-
----
-
-**[Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)**
-
-We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.
-
-Anthropic • 1d ago
+The Atlantic • 9m ago
 
 ---
 
-**[Parental controls are not the answer to the AI slop spamming our kids](https://www.seattletimes.com/opinion/parental-controls-are-not-the-answer-to-the-ai-slop-spamming-our-kids/)**
+**[Is AI Conscious? One Famous Scientist Says It Could Be](https://www.sciencealert.com/is-ai-conscious-one-famous-scientist-says-it-could-be)**
 
-We don’t outsource public health to individual families. And make no mistake: The potential developmental harms of AI slop are a public health concern.
+In recent days, evolutionary biologist Richard Dawkins wrote an op-ed suggesting AI chatbot Claude may be conscious.
 
-The Seattle Times • 40m ago
-
----
-
-**[Why “AI-Powered” thinking will leave your company behind](https://www.fastcompany.com/91538585/why-ai-powered-thinking-will-leave-your-company-behind)**
-
-AI success comes from redesigning processes from scratch rather than automating old habits.
-
-Fast Company • 22m ago
+ScienceAlert • 1h ago
 
 ---
 
-**[Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast](https://finance.yahoo.com/sectors/technology/articles/arm-stock-slides-as-chip-supply-worries-overshadow-upbeat-ai-fueled-revenue-forecast-200744323.html)**
+**[Allen Institute for AI launches big computing cluster for $152M project backed by Nvidia and NSF](https://www.geekwire.com/2026/allen-institute-for-ai-brings-152m-federally-backed-computing-project-online/)**
 
-Arm Holdings forecast first-quarter revenue above Wall Street expectations on Wednesday, benefiting from higher adoption of its chip technology as tech companies spend heavily on artificial intelligence compute.  Arm shares jumped 12% in after-hours trading, but reversed course ‌to drop 5.49% after executives told analysts on a conference call that they have not yet secured supplies to meet ‌the demand for a new chip and after analysts probed about the costs of getting into the business of making its own chips.  The company expects quarterly revenue of $1.26 ​billion, compared with analysts' estimates of $1.25 billion, according to data compiled by LSEG.
+Ai2 says it has started using a new Nvidia-powered computing system funded through a $152 million NSF and Nvidia project to build open AI models for scientific research. The milestone comes as the Seattle nonprofit works to regain its footing after losing key researchers to Microsoft.
 
-Yahoo Finance • 7h ago
+GeekWire • 24m ago
+
+---
+
+**[AI exposes hidden risks in US military supply chain tied to China](https://www.foxbusiness.com/media/ai-exposes-hidden-risks-us-military-supply-chain-tied-china)**
+
+The Trump admin is using AI to expose vulnerabilities in the U.S. military supply chain tied to what experts describe as China’s decades-long economic warfare strategy.
+
+Fox Business • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 7h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1694 • 💬 1113 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1700 • 💬 1117 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -253,9 +253,17 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 ---
 
+**[Motherboard sales 'collapse' amid unprecedented shortages fueled by AI](https://news.ycombinator.com/item?id=48050540)**
+
+Fewer people are buying parts and building new PCs from scratch.
+
+⬆️ 154 • 💬 153 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+
+---
+
 **[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
 
-⬆️ 142 • 💬 45 • 2d ago
+⬆️ 143 • 💬 45 • 2d ago
 
 ---
 
@@ -264,14 +272,6 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the division looks to reverse declining revenue.
 
 ⬆️ 110 • 💬 40 • 1d ago • [Dexerto](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
-
----
-
-**[Motherboard sales are now collapsing amid unprecedented shortages fueled by AI](https://news.ycombinator.com/item?id=48050540)**
-
-Fewer people are buying parts and building new PCs from scratch.
-
-⬆️ 93 • 💬 58 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -285,7 +285,7 @@ Check out tastytrade here: https://tastytrade.com/unleashed. My Links ➡️ Twi
 
 📺 Wes Roth
 
-👁️ 16K • 👍 402 • 💬 158 • ⏱️ 1:29:12 • 13h ago
+👁️ 16K • 👍 402 • 💬 158 • ⏱️ 1:29:12 • 15h ago
 
 ---
 
@@ -295,7 +295,7 @@ Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60 Are y
 
 📺 Dan Martell
 
-👁️ 9K • 👍 777 • 💬 81 • ⏱️ 22:46 • 4h ago
+👁️ 9K • 👍 777 • 💬 81 • ⏱️ 22:46 • 6h ago
 
 ---
 
@@ -305,7 +305,7 @@ Make AI Videos with Yourself using OpenArt https://youricreates.com/realistic-AI
 
 📺 Youri van Hofwegen
 
-👁️ 5K • ⏱️ 13:14 • 2h ago
+👁️ 5K • ⏱️ 13:14 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 55 • ⏱️ 13:34 • 18h ago
+👁️ 42K • 👍 1K • 💬 55 • ⏱️ 13:34 • 20h ago
 
 ---
 
@@ -325,7 +325,7 @@ The biggest U.S. banks are quietly dumping their AI debt — a massive red flag 
 
 📺 Steven Van Metre
 
-👁️ 45K • 👍 2K • 💬 215 • ⏱️ 16:12 • 17h ago
+👁️ 45K • 👍 2K • 💬 215 • ⏱️ 16:12 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 152K • 👍 4K • 💬 508 • ⏱️ 21:59 • 2d ago
+👁️ 152K • 👍 4K • 💬 508 • ⏱️ 21:59 • 3d ago
 
 ---
 
@@ -345,7 +345,7 @@ Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots
 
 📺 ejunky66
 
-👁️ 6K • 👍 241 • 💬 12 • ⏱️ 1:00 • 4h ago
+👁️ 6K • 👍 241 • 💬 12 • ⏱️ 1:00 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 244,168 • ❤️ 552 • 17h ago
+⬇️ 244,168 • ❤️ 552 • 19h ago
 
 ---
 
@@ -439,7 +439,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 539 • ❤️ 166 • 15h ago
+⬇️ 539 • ❤️ 166 • 17h ago
 
 ---
 
@@ -463,7 +463,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 28,215 • ❤️ 147 • 15h ago
+⬇️ 28,215 • ❤️ 147 • 17h ago
 
 ---
 
@@ -671,7 +671,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.7k • 🔱 444 • 27m ago
+⭐ 5.7k • 🔱 444 • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 368 • 5h ago
+⭐ 5.1k • 🔱 368 • 7h ago
 
 ---
 
@@ -701,7 +701,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.9k • 🔱 477 • 2h ago
+⭐ 3.9k • 🔱 477 • 4h ago
 
 ---
 
@@ -739,7 +739,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 662 • 7d ago
+⭐ 2.4k • 🔱 662 • 8d ago
 
 ---
 

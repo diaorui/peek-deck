@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-07T17:16:23.071869+00:00'
+updated: '2026-05-07T19:14:14.917925+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 07, 2026 at 17:16 UTC  
+**Last Updated:** May 07, 2026 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,25 +36,45 @@ Robotics research and industry news
 
 Recently had a technical interview with Peer Robotics for a robotics engineering role. Sharing the structure in case it helps others preparing for AMR / mobile robotics interviews. My background project was around LiDAR + IMU-based navigation for a scaled autonomous vehicle, so the discussion naturally went deep into mobile robot navigation. The main areas asked were: End-to-end navigation stack: sensors → localization/odometry → TF → costmaps → planner/controller → /cmd_vel Difference between odometry, localization, and SLAM Why LiDAR and IMU are fused, and how odometry drift is handled TF/frame understanding and what breaks if transforms are wrong Global planner vs local planner Global costmap vs local costmap How a robot behaves when a sudden obstacle appears Why a robot may oscillate, get stuck, or fail to plan How to debug navigation issues using topics, TF, RViz, logs, and replayed data Since my profile also includes AI work, there was some discussion on how LLMs/AI can fit into robotics. The important takeaway was that real robotics companies are cautious about black-box systems. AI can help with high-level reasoning, diagnostics, operator interaction, perception support, or log analysis, but safety-critical planning and control still need to be deterministic, testable, and reliable. There was also a short discussion about AI coding tools. The focus was not whether someone uses them, but whether they can validate the code, test edge cases, debug runtime behavior, and avoid blindly trusting generated output. Overall takeaway: for robotics interviews, especially AMR roles, don’t just prepare definitions. Be ready to explain how the full robot stack behaves in real-world conditions and how you would debug failures. Enjoy
 
-11h ago
+13h ago
+
+---
+
+**[Neuralink Is Building a Surgical Robot Designed to Reach Any Brain Region](https://www.reddit.com/r/robotics/comments/1t6h9zg/neuralink_is_building_a_surgical_robot_designed/)**
+
+1h ago
 
 ---
 
 **[Selfmade Robot Project status now](https://www.reddit.com/r/robotics/comments/1t68mql/selfmade_robot_project_status_now/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://www.reddit.com/r/robotics/comments/1t6311q/hyundai_reportedly_demanding_tens_of_thousands_of/)**
 
-🔗 [gizmodo.com](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914) • 10h ago
+🔗 [gizmodo.com](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914) • 12h ago
 
 ---
 
 **[Mantis by All3 autonomous construction robot with 4m reach, 100kg payload that builds on real construction sites](https://www.reddit.com/r/robotics/comments/1t5ihmn/mantis_by_all3_autonomous_construction_robot_with/)**
 
 1d ago
+
+---
+
+**[100-Link chaotic pendulum solved with my new implicit DAE robotic solver.](https://www.reddit.com/r/robotics/comments/1t5zpme/100link_chaotic_pendulum_solved_with_my_new/)**
+
+15h ago
+
+---
+
+**[Looking for Freelance job](https://www.reddit.com/r/robotics/comments/1t6jksr/looking_for_freelance_job/)**
+
+Hello...I'm a mechanical graduate from India (from a tier 1 college CGPA:9 pointer) and I've won 4 hackathons . i particularly work in mobile robots/ROS2... If anyone has any connection or if anybody is looking for someone to do a project...and is willing to pay according to normal standards (we can discuss it later) Please let me know... Please note: I'm not looking for daily regular job or internship as that will hamper my daily schedule ...just need you to assign a project , a timeline I'll do that and deliver it to you..if that works for you , else it's fine
+
+28m ago
 
 ---
 
@@ -66,11 +86,11 @@ Colin Angle, Roomba co-founder and former iRobot CEO, has launched a new company
 
 ---
 
-**[What kind of real-world robotics data is hardest to collect today?](https://www.reddit.com/r/robotics/comments/1t6c0f7/what_kind_of_realworld_robotics_data_is_hardest/)**
+**[Legs prototype](https://www.reddit.com/r/robotics/comments/1t6igpw/legs_prototype/)**
 
-I’ve been following progress in physical AI, warehouse robotics, and manipulation systems, and one bottleneck keeps coming up: real-world data collection still seems slow, expensive, and difficult to scale. Simulation has improved a lot, but for many tasks teams still need real demonstrations, teleoperation traces, or contact-rich interaction data. From your experience, which data category is currently the hardest to collect at scale? For example: - warehouse picking trajectories - dexterous hand manipulation - human-to-robot teleoperation demonstrations - industrial assembly workflows - edge-case failure recovery data Curious what people here think is the biggest bottleneck.
+Prototyping the legs, now that i have printed i can to tests and note down what needs to change so i cand make the final version
 
-2h ago
+1h ago
 
 ---
 
@@ -78,29 +98,7 @@ I’ve been following progress in physical AI, warehouse robotics, and manipulat
 
 Hey guys! I’ve been working on my own, completely custom robot (not anything super crazy; I’m new to robotics) but I figured that instead of wasting money on bad 3-d printed designs I should waste less money this way. I am nearly ready to actually integrate motors and such.
 
-3h ago
-
----
-
-**[100-Link chaotic pendulum solved with my new implicit DAE robotic solver.](https://www.reddit.com/r/robotics/comments/1t5zpme/100link_chaotic_pendulum_solved_with_my_new/)**
-
-13h ago
-
----
-
-**[Native URDF+SRDF Editor for iOS, with MuJoCo Simulation: AR Mobile Robotics](https://www.reddit.com/r/robotics/comments/1t62r6e/native_urdfsrdf_editor_for_ios_with_mujoco/)**
-
-Full blog post here https://dc-engineer.com/native-srdf-editing-on-ios-and-robot-xml-export-armor-v0-10-release-notes/ AR Mobile Robotics is my personal project to bring a professional-grade robotics simulation to iPhone and iPad. https://armor.dc-engineer.com The latest update includes a semantics structure and editor to create joint groups and states, setting initial values for the MuJoCo simulation. Existing features include a loader and editor for the unified robot description format, URDF, which is standard in ROS, and can be used in simulators like Gazebo and Drake. ARMOR will also export in URDF and MJCF, with assets organized into a robot archive. I’m also open-sourcing a few of the components of the app as I go along. I hope these will be useful to others who are building engineering tools into mobile apps, particularly with the capability to handle standard file formats used in multiple industries. https://armor.dc-engineer.com/open-source/ What would you like to see me add?
-
-10h ago
-
----
-
-**[Student highlight reel, evolutionary robotics course.](https://www.reddit.com/r/robotics/comments/1t6gp6m/student_highlight_reel_evolutionary_robotics/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/34WwH1SRIfQ) • 9m ago
+4h ago
 
 ---
 
@@ -110,7 +108,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
 
-Reuters • 22h ago
+Reuters • 1d ago
 
 ---
 
@@ -124,21 +122,19 @@ TechCrunch • 1d ago
 
 **[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
 
-Bloomberg.com • 11h ago
-
----
-
-**[Humanoid robots to power next leg of China’s export dominance](https://www.businesstimes.com.sg/international/global/humanoid-robots-power-next-leg-chinas-export-dominance)**
-
-Like with EVs, the Asian nation is building out capacity across the robotics supply chain Read more at The Business Times.
-
-The Business Times • 11h ago
+Bloomberg.com • 13h ago
 
 ---
 
 **[One Year Later, Robots Outrace Humans](https://newsforkids.net/articles/2026/05/07/one-year-later-robots-outrace-humans/)**
 
-NewsForKids.net • 3h ago
+NewsForKids.net • 4h ago
+
+---
+
+**[Schaeffler sees humanoid robotics orders in three-digit million euros by 2030](https://www.reuters.com/business/schaeffler-sees-humanoid-robotics-orders-three-digit-million-euros-by-2030-2026-05-05/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -150,17 +146,17 @@ BBC • 2d ago
 
 ---
 
-**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
-
-WSJ • 2d ago
-
----
-
 **[MolmoAct 2: An open foundation for robots that work in the real world](https://allenai.org/blog/molmoact2)**
 
 MolmoAct 2 is a fully open robotics foundation model that brings faster, stronger 3D action reasoning to real-world robot tasks, alongside a major new bimanual manipulation dataset for researchers to study, reproduce, and build on.
 
 Allen AI • 2d ago
+
+---
+
+**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
+
+WSJ • 2d ago
 
 ---
 
@@ -200,7 +196,7 @@ Elon Musk's more affordable version of the Optimus robot is being discussed as a
 
 📺 Carros Show
 
-👁️ 2K • 👍 61 • 💬 17 • ⏱️ 8:07 • 1d ago
+👁️ 2K • 👍 61 • 💬 17 • ⏱️ 8:07 • 2d ago
 
 ---
 
@@ -220,7 +216,7 @@ China Robot Dance is an amazing display of artificial intelligence and robotics 
 
 📺 Naa Anveshana
 
-👁️ 199K • 👍 15K • 💬 1K • ⏱️ 16:03 • 14h ago
+👁️ 199K • 👍 15K • 💬 1K • ⏱️ 16:03 • 16h ago
 
 ---
 
@@ -230,7 +226,7 @@ Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots
 
 📺 ejunky66
 
-👁️ 6K • 👍 241 • 💬 12 • ⏱️ 1:00 • 4h ago
+👁️ 6K • 👍 241 • 💬 12 • ⏱️ 1:00 • 6h ago
 
 ---
 
