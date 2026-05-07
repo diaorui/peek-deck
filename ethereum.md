@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T10:24:56.934333+00:00'
+updated: '2026-05-07T12:16:42.889771+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 10:24 UTC  
+**Last Updated:** May 07, 2026 at 12:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** +1.4%  
-**30d:** +6.4%  
-**90d:** +11.1%  
-**1y:** +5.5%  
+**24h:** -1.4%  
+**7d:** +1.7%  
+**30d:** +6.7%  
+**90d:** +11.5%  
+**1y:** +5.8%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
-
----
-
-**[he got debanked. so he's building the fix.](https://www.reddit.com/r/ethereum/comments/1t5iz3j/he_got_debanked_so_hes_building_the_fix/)**
-
-anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
-
-17h ago
+7h ago
 
 ---
 
@@ -96,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
 
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 4h ago
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 5h ago
+
+---
+
+**[he got debanked. so he's building the fix.](https://www.reddit.com/r/ethereum/comments/1t5iz3j/he_got_debanked_so_hes_building_the_fix/)**
+
+anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
+
+19h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 2d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 3d ago
 
 ---
 
@@ -164,19 +164,21 @@ The Block • 1d ago
 
 By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
 
-Decrypt • 13h ago
+Decrypt • 15h ago
 
 ---
 
 **[Bitcoin Price, Ethereum, XRP Fall. Iran Peace Hopes Can’t Break Crypto Crisis.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-9e5461dd)**
 
-Barron's • 1h ago
+Barron's • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall. Why Even Iran Peace Hopes Can’t Break the Crypto Crisis.](https://www.barrons.com/livecoverage/stock-market-news-today-050726/card/bitcoin-ethereum-xrp-fall-why-even-iran-peace-hopes-can-t-break-the-crypto-crisis--O6pjf6yyhWsqWu4BwBRz)**
+**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
 
-Barron's • 2h ago
+The longer time horizon you consider, the more one of these assets stands out.
+
+The Motley Fool • 30m ago
 
 ---
 
@@ -184,23 +186,15 @@ Barron's • 2h ago
 
 Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE](https://finance.yahoo.com/markets/crypto/articles/bny-mellon-launch-bitcoin-ethereum-080633939.html)**
+**[Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html)**
 
-Wall Street giant BNY Mellon (now BNY) will offer crypto asset custody in Abu Dhabi, the UAE, the global financial services company announced on Thursday. It will initially launch Bitcoin and Ethereum crypto custody services, with plans of expanding to stablecoins, tokenized real-world assets, and other regulated digital instruments. Ad Ad BNY Mellon Expands Crypto
+Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
 
-Yahoo Finance • 2h ago
-
----
-
-**[The world's entire economy will be tokenized, says Consensys’ Joseph Lubin](https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin)**
-
-The Consensys CEO and founder said tokenization can be traced by to Ethereum, the blockchain he helped co-found.
-
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -208,7 +202,15 @@ CoinDesk • 1d ago
 
 Ethereum (ETH) is seeing a return of institutional interest after US spot ETH exchange-traded funds (ETFs) posted $97.5 million in net inflows on Tuesday.
 
-FXStreet • 13h ago
+FXStreet • 15h ago
+
+---
+
+**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
+
+MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
+
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -220,11 +222,11 @@ Coinpedia • 1d ago
 
 ---
 
-**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
+**[BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-240-million-ethereum-151959747.html)**
 
-MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
+Tom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.
 
-markets.businessinsider.com • 8h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -238,7 +240,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 150 • 💬 31 • ⏱️ 18:13 • 17h ago
+👁️ 4K • 👍 150 • 💬 31 • ⏱️ 18:13 • 19h ago
 
 ---
 
@@ -248,7 +250,7 @@ Ethereum is currently fighting with a major trend line after breaking above resi
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 240 • 💬 61 • ⏱️ 8:18 • 11h ago
+👁️ 3K • 👍 240 • 💬 61 • ⏱️ 8:18 • 13h ago
 
 ---
 
@@ -258,7 +260,7 @@ BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 233 • 💬 192 • ⏱️ 16:18 • 7h ago
+👁️ 4K • 👍 233 • 💬 192 • ⏱️ 16:18 • 9h ago
 
 ---
 
@@ -268,7 +270,7 @@ Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Et
 
 📺 The Block
 
-👁️ 2K • 👍 67 • 💬 4 • ⏱️ 22:10 • 16h ago
+👁️ 2K • 👍 67 • 💬 4 • ⏱️ 22:10 • 17h ago
 
 ---
 
@@ -278,7 +280,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 91 • 💬 8 • ⏱️ 7:39 • 23h ago
+👁️ 2K • 👍 91 • 💬 8 • ⏱️ 7:39 • 1d ago
 
 ---
 
@@ -288,7 +290,7 @@ In this video we review BMNR's May holdings. We will break down the latest holdi
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 544 • 💬 117 • ⏱️ 17:39 • 20h ago
+👁️ 8K • 👍 544 • 💬 117 • ⏱️ 17:39 • 22h ago
 
 ---
 
@@ -318,7 +320,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 340 • 👍 13 • 💬 3 • ⏱️ 5:21 • 15h ago
+👁️ 340 • 👍 13 • 💬 3 • ⏱️ 5:21 • 17h ago
 
 ---
 

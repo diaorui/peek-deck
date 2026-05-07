@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-07T10:24:56.928331+00:00'
+updated: '2026-05-07T12:16:42.884204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 10:24 UTC  
+**Last Updated:** May 07, 2026 at 12:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,912.95
+### $81,050.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +3.4%  
-**30d:** +13.8%  
-**90d:** +16.7%  
-**1y:** -21.6%  
+**24h:** -0.7%  
+**7d:** +3.6%  
+**30d:** +14.1%  
+**90d:** +17.0%  
+**1y:** -21.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
 
-11h ago
+12h ago
 
 ---
 
@@ -95,31 +95,13 @@ I’ve been posting bullish for over a month now. Everyone here was soooo bearis
 
 Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
 
-13h ago
+15h ago
 
 ---
 
-**[What’s causing BTC to rally upwards now?](https://www.reddit.com/r/Bitcoin/comments/1t5afmh/whats_causing_btc_to_rally_upwards_now/)**
+**[BLOOMBERG: "Morgan Stanley is rolling out crypto trading on its E*Trade platform for 50bps/trade, undercutting Schwab's 75bps (who undercut Coinbase)". Soon, it'll be pretty dirt cheap to trade Bitcoin everywhere- just was we saw with btc ETF exp ratios prior to launch.](https://www.reddit.com/r/Bitcoin/comments/1t5xz1u/bloomberg_morgan_stanley_is_rolling_out_crypto/)**
 
-Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
-
-22h ago
-
----
-
-**[⚡ Lightning Thursday! May 07, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1t62zzo/lightning_thursday_may_07_2026_explore_the/)**
-
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
-
-3h ago
-
----
-
-**[Daily Discussion, May 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1t61xj6/daily_discussion_may_07_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
+9h ago
 
 ---
 
@@ -127,7 +109,31 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 “‘Would it matter to you if I told you I’m Pope Leo?’” the pope asked his bank, according to the Rev. Tom McCarthy, a longtime friend of the Chicago-born pontiff.
 
-🔗 [Chicago Sun-Times](https://chicago.suntimes.com/pope-leo-xiv/2026/05/06/pope-leo-bank-phone-call-address-change) • 5h ago
+🔗 [Chicago Sun-Times](https://chicago.suntimes.com/pope-leo-xiv/2026/05/06/pope-leo-bank-phone-call-address-change) • 7h ago
+
+---
+
+**[Daily Discussion, May 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1t61xj6/daily_discussion_may_07_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+6h ago
+
+---
+
+**[What’s causing BTC to rally upwards now?](https://www.reddit.com/r/Bitcoin/comments/1t5afmh/whats_causing_btc_to_rally_upwards_now/)**
+
+Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
+
+1d ago
+
+---
+
+**[⚡ Lightning Thursday! May 07, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1t62zzo/lightning_thursday_may_07_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+5h ago
 
 ---
 
@@ -135,21 +141,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?
 
-12h ago
-
----
-
-**[This was the second Bitcoin logo created by Satoshi Nakamoto in mid 2010, and used in Bitcoin node software (commit 86). Surprisingly, before yesterday, this logo found in the original Sourceforge Bitcoin repo, was not saved to the waybackmachine archive. So I took a snapshot for history.](https://www.reddit.com/r/Bitcoin/comments/1t58jbc/this_was_the_second_bitcoin_logo_created_by/)**
-
-as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
-
-1d ago
+14h ago
 
 ---
 
 **[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -165,35 +163,47 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Eric Trump's American Bitcoin reports $82 million loss in Q1 amid 'record' mining production](https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1)**
+**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games)**
 
-American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly production on record.
+The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
 
-The Block • 8h ago
-
----
-
-**[Core Scientific sold $208 million of bitcoin in Q1 as AI pivot continues](https://www.coindesk.com/business/2026/05/07/core-scientific-sold-usd208-million-of-bitcoin-in-q1-as-ai-pivot-continues)**
-
-The firm's AI pivot relies on a 590 MW contract expansion with CoreWeave, projected for $10.2B in revenue over 12 years.
-
-CoinDesk • 14m ago
+The Block • 16h ago
 
 ---
 
-**[BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE](https://finance.yahoo.com/markets/crypto/articles/bny-mellon-launch-bitcoin-ethereum-080633939.html)**
+**[Safety first: Why Adam Back says Bitcoin is winning the 'DeFi security war'](https://www.coindesk.com/tech/2026/05/07/safety-first-why-adam-back-says-bitcoin-is-winning-the-defi-security-war)**
 
-Wall Street giant BNY Mellon (now BNY) will offer crypto asset custody in Abu Dhabi, the UAE, the global financial services company announced on Thursday. It will initially launch Bitcoin and Ethereum crypto custody services, with plans of expanding to stablecoins, tokenized real-world assets, and other regulated digital instruments. Ad Ad BNY Mellon Expands Crypto
+Blockstream CEO Adam Back said at Consensus Miami 2026 that sovereigns and pension funds will drive the next bitcoin adoption wave.
 
-Yahoo Finance • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[VanEck Joins Bitwise in Forecasting $1 Million Bitcoin Price Target](https://finance.yahoo.com/markets/crypto/articles/vaneck-joins-bitwise-forecasting-1-075009811.html)**
+**[Bitcoin’s rare technical action points to a crypto bull market, says Fundstrat’s Tom Lee](https://www.marketwatch.com/story/bitcoins-rare-technical-action-points-to-a-crypto-bull-market-says-fundstrats-tom-lee-4e44bfb7)**
 
-VanEck's Matthew Sigel projects Bitcoin will reach $1 million, echoing similar forecasts from Bitwise and Jan3.
+MarketWatch • 1h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Better Store of Value: Bitcoin vs. Gold-Backed Stablecoins](https://www.fool.com/investing/2026/05/07/better-store-of-value-crypto-vs-crypto/)**
+
+The debate over whether Bitcoin is digital gold is more relevant than ever.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Bitcoin rallies above $82K as Michael Saylor considers selling](https://finance.yahoo.com/video/bitcoin-rallies-above-82k-as-michael-saylor-considers-selling-161437060.html)**
+
+Scott Melker and OKX Global Managing Partner Haider Rafique discuss bitcoin's (BTC-USD) climb back above $82,000 per token — marking a major milestone in the cryptocurrency's recovery from its sell-off sparked in late 2025 — as long-time bitcoin bull and Strategy (MSTR) co-founder Michael Saylor's considers selling his company's bitcoin holdings."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
+
+Bloomberg.com • 14h ago
 
 ---
 
@@ -205,21 +215,9 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Price, Ethereum, XRP Fall. Iran Peace Hopes Can’t Break Crypto Crisis.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-9e5461dd)**
-
-Barron's • 1h ago
-
----
-
-**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
-
-Bloomberg • 12h ago
-
----
-
 **[Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading](https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -261,7 +259,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -293,7 +291,7 @@ Part XIV and Finale of the Bitgenstein Serialization
 
 Bitcoin Monitor Widget -  Build your own real-time crypto space with price widgets, portfolio views, themes, logs, terminal, games, custom API cards, alerts.
 
-⬆️ 1 • 💬 0 • 5d ago • [Bitcoin Monitor Widget](https://btcwid.com)
+⬆️ 1 • 💬 0 • 6d ago • [Bitcoin Monitor Widget](https://btcwid.com)
 
 ---
 
@@ -307,7 +305,7 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
-⬆️ 1 • 💬 0 • 5h ago • [ABG](https://abg-discord.vercel.app/)
+⬆️ 1 • 💬 0 • 7h ago • [ABG](https://abg-discord.vercel.app/)
 
 ---
 
@@ -321,7 +319,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 919 • 💬 319 • ⏱️ 9:29 • 9h ago
+👁️ 16K • 👍 919 • 💬 319 • ⏱️ 9:29 • 11h ago
 
 ---
 
@@ -331,7 +329,7 @@ Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 524 • ⏱️ 13:36 • 13h ago
+👁️ 34K • 👍 2K • 💬 524 • ⏱️ 13:36 • 15h ago
 
 ---
 
@@ -341,7 +339,7 @@ Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion do
 
 📺 Valuetainment
 
-👁️ 71K • 👍 2K • 💬 622 • ⏱️ 11:41 • 15h ago
+👁️ 71K • 👍 2K • 💬 622 • ⏱️ 11:41 • 17h ago
 
 ---
 
@@ -361,7 +359,7 @@ Ran dives into the latest Strategy headlines and explains why the market's react
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 856 • 💬 28 • ⏱️ 28:01 • 17h ago
+👁️ 15K • 👍 856 • 💬 28 • ⏱️ 28:01 • 19h ago
 
 ---
 
@@ -369,7 +367,7 @@ Ran dives into the latest Strategy headlines and explains why the market's react
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 157 • 💬 55 • ⏱️ 1:34 • 11h ago
+👁️ 4K • 👍 157 • 💬 55 • ⏱️ 1:34 • 13h ago
 
 ---
 
@@ -389,7 +387,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 8K • 👍 613 • ⏱️ 38:20 • 16h ago
+👁️ 8K • 👍 613 • ⏱️ 38:20 • 18h ago
 
 ---
 
@@ -397,7 +395,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 True North
 
-👁️ 975 • 👍 29 • 💬 2 • ⏱️ 0:59 • 12h ago
+👁️ 975 • 👍 29 • 💬 2 • ⏱️ 0:59 • 14h ago
 
 ---
 
@@ -407,7 +405,7 @@ Bitcoin Is About To Get MUCH Bigger Than People Realize And it's costing you opp
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 6K • 👍 721 • 💬 179 • ⏱️ 20:32 • 6h ago
+👁️ 6K • 👍 721 • 💬 179 • ⏱️ 20:32 • 8h ago
 
 ---
 

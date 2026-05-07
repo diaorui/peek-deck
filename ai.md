@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-07T10:24:56.919908+00:00'
+updated: '2026-05-07T12:16:42.876727+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 07, 2026 at 10:24 UTC  
+**Last Updated:** May 07, 2026 at 12:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,7 @@ AI news, discussions, and developments
 
 Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
 
-16h ago
-
----
-
-**[Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.](https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/)**
-
-One speaker (a VC) said his number for evaluating AI-native startups is ARR per engineer, and that the number ought to be going up. Almost every talk and every booth at the AI Agents Conference was selling a fix for something that broke this year when agents hit production. Observability, governance, supervisor agents, data substrates, "someone's gotta babysit the bots." But what's actually still going to be around in a couple years? What's defensible and durable? The old SaaS pitch was simple. We bundle the expensive engineering investments and domain expertise into a tool. You'd pay for the tool and generate outcomes, but it would be rare for the software company to have real alignment to the actual value created from those outcomes. That's breaking from two ends at once. In the direct-from-imagination era we're moving towards, engineering labor is approaching free. One of the most telling trends is the shift from companies bragging about the size of their engineering teams, towards how much ARR they can generate per engineer. You can vibe-code much of what those booths were selling in a few days or weeks if you have the domain knowledge. The old software model was actually based on under-utilization; the most profitable SaaS companies are frequently those whose customers underuse it (fixed price for the customer, but variable cloud costs for the vendor). Pricing is moving to "token markup." Maybe we'll get to 2-4x revenue for the software, because outcomes are more valuable; but margin compresses because transactional intelligence (i.e., the cost of running the LLMs that power many systems) is basically arbitraging token costs against outcome value. So everyone on that floor was implicitly betting on a new moat to replace the old one. I'm not too confident that these will hold... The most popular bet was on encoded domain expertise (e.g., the sales engineers at Harvey, a legal AI platform, are actually lawyers). I think this works *now* because we're still in the phase of "wow, this technology works like magic." I'm less convinced this is actually durable. Why: Prompt architecture is text. It's portable. The expertise underneath it is often abundant (e.g., there are over a million lawyers in the USA). The righteous destiny for this category ought to be open marketplaces of prompt architecture and/or crowdsourced best-practices. Not trade secrets. The companies trying to build closed prompt moats are going to lose to open ones that iterate faster (which simply parallels the fact that much software engineering is rapidly becoming commoditized to agentic engineering and the burgeoning quantity of ready-made GitHub repos). There are many people pursuing the data substrate; in short, this mirrors the early days of the Web when everyone scrambled to open up legacy data to dynamic standards-based Web UI. Agents will have 100-1000x the data demands of these Web apps, so it makes sense that we need tools to connect them, govern them and comply with regulatory obligations. Newer entrants extend this further, wiring up databases, pipelines, Slack threads, and tickets into context graphs agents can reason over. As I noted above, all this still seems magical. Connect a database, watch an agent crawl the schema and produce a chatbot interface and easy-to-change dashboards. But strip the magic away and most of these are prompt architectures on top of LLMs plus a data-ingestion layer. Once data-access standards mature (MCP is already doing this) and prompt architectures go open-source (alongside much of this wisdom increasingly getting pretrained into the LLMs themselves), that magic stops being proprietary. You'll be defending yourself against the same architecture built internally by your customer's eng team, or against an open-source version that's objectively better. The observability incumbents: these might do better but only at Stripe-like ubiquity where trust is the overriding value (who doesn't trust Stripe at this point?). The ones who survive are probably going to fuse with the audit and compliance function rather than stay pure observability. That's why I keep coming back to one arbitrage that seems critical: trust. This will be especially important in regulated industries, but it reminds me of the old (albeit now hilariously outdated) adage about "nobody ever got fired for choosing IBM." If your competitor can be vibe-coded over a weekend and your customer is a bank, why do they pay you 50x more? It isn't the engineering, it probably isn't even the expertise. The data plumbing will get commoditized, so it can't be that either... It's that you've shifted the risk to a third party who can actually price and defend against risk: SOC2, the named CEO who testifies in court and Congress, a legal team that takes calls, an indemnity wrapper for underwriters. Maybe this means that things actually get commodified into a financialization wrapper, rather than a way to package R&D (FinTech startups back to the front?!) The version of this future I'd actually bet on: a commodity substrate (LLMs plus open prompt architectures plus standardized data access), topped by a thin layer of regulated insurance companies that price the risk of agent failure in compliance-driven industries. The middle layer (prompt-architecture-as-product vendors) is vulnerable to an awful lot of margin-squeeze. Most of the floor was trying to build that middle layer.
-
-19h ago
-
----
-
-**[Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training](https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/)**
-
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 6h ago
+17h ago
 
 ---
 
@@ -63,13 +49,27 @@ One speaker (a VC) said his number for evaluating AI-native startups is ARR per 
 
 So I signed up for the 30 day trial. The trial was available for either business or standard/plus plan. As far as I could see the standard/plus plan includes everything in the business plan but more, so it made sense to go with that one. Plus, when I tried to select the business plan it asked for a business email but when I selected the standard/plus plan, it allowed me to sign up using my regular email address. So I didn't need a business email but got everything in the business plan + standard/plus plan. The issue I am having is, it asked me to add a payment method, which I did, but I can't find anywhere where it says I am on a free trial apart from when I click on the app it had me create. Once I click on that, there's a small banner that says I am on a trial. It's not under subscriptions or anywhere else. So I don't know how I am meant to cancel it before the end of the trial if I do not want to use it. Also, how do I use Veo 3 with this? I went to Agent platform / studio / generate media / video. I think this is the Vertex AI or something? I've never used this before, so it's a little confusing. But under the model settings, it says task > text-to-video and then it says model > veo 3.1 but it says charged will apply for video + audio generation. $0.40/second. This leads me to believe, if I generate media, it will charge my payment method instead of using the trial? Have I done this incorrectly or something? How do I check my trial is being used and I'm not outside of my trial using something that will charge me? Thanks
 
-1h ago
+3h ago
+
+---
+
+**[Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.](https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/)**
+
+One speaker (a VC) said his number for evaluating AI-native startups is ARR per engineer, and that the number ought to be going up. Almost every talk and every booth at the AI Agents Conference was selling a fix for something that broke this year when agents hit production. Observability, governance, supervisor agents, data substrates, "someone's gotta babysit the bots." But what's actually still going to be around in a couple years? What's defensible and durable? The old SaaS pitch was simple. We bundle the expensive engineering investments and domain expertise into a tool. You'd pay for the tool and generate outcomes, but it would be rare for the software company to have real alignment to the actual value created from those outcomes. That's breaking from two ends at once. In the direct-from-imagination era we're moving towards, engineering labor is approaching free. One of the most telling trends is the shift from companies bragging about the size of their engineering teams, towards how much ARR they can generate per engineer. You can vibe-code much of what those booths were selling in a few days or weeks if you have the domain knowledge. The old software model was actually based on under-utilization; the most profitable SaaS companies are frequently those whose customers underuse it (fixed price for the customer, but variable cloud costs for the vendor). Pricing is moving to "token markup." Maybe we'll get to 2-4x revenue for the software, because outcomes are more valuable; but margin compresses because transactional intelligence (i.e., the cost of running the LLMs that power many systems) is basically arbitraging token costs against outcome value. So everyone on that floor was implicitly betting on a new moat to replace the old one. I'm not too confident that these will hold... The most popular bet was on encoded domain expertise (e.g., the sales engineers at Harvey, a legal AI platform, are actually lawyers). I think this works *now* because we're still in the phase of "wow, this technology works like magic." I'm less convinced this is actually durable. Why: Prompt architecture is text. It's portable. The expertise underneath it is often abundant (e.g., there are over a million lawyers in the USA). The righteous destiny for this category ought to be open marketplaces of prompt architecture and/or crowdsourced best-practices. Not trade secrets. The companies trying to build closed prompt moats are going to lose to open ones that iterate faster (which simply parallels the fact that much software engineering is rapidly becoming commoditized to agentic engineering and the burgeoning quantity of ready-made GitHub repos). There are many people pursuing the data substrate; in short, this mirrors the early days of the Web when everyone scrambled to open up legacy data to dynamic standards-based Web UI. Agents will have 100-1000x the data demands of these Web apps, so it makes sense that we need tools to connect them, govern them and comply with regulatory obligations. Newer entrants extend this further, wiring up databases, pipelines, Slack threads, and tickets into context graphs agents can reason over. As I noted above, all this still seems magical. Connect a database, watch an agent crawl the schema and produce a chatbot interface and easy-to-change dashboards. But strip the magic away and most of these are prompt architectures on top of LLMs plus a data-ingestion layer. Once data-access standards mature (MCP is already doing this) and prompt architectures go open-source (alongside much of this wisdom increasingly getting pretrained into the LLMs themselves), that magic stops being proprietary. You'll be defending yourself against the same architecture built internally by your customer's eng team, or against an open-source version that's objectively better. The observability incumbents: these might do better but only at Stripe-like ubiquity where trust is the overriding value (who doesn't trust Stripe at this point?). The ones who survive are probably going to fuse with the audit and compliance function rather than stay pure observability. That's why I keep coming back to one arbitrage that seems critical: trust. This will be especially important in regulated industries, but it reminds me of the old (albeit now hilariously outdated) adage about "nobody ever got fired for choosing IBM." If your competitor can be vibe-coded over a weekend and your customer is a bank, why do they pay you 50x more? It isn't the engineering, it probably isn't even the expertise. The data plumbing will get commoditized, so it can't be that either... It's that you've shifted the risk to a third party who can actually price and defend against risk: SOC2, the named CEO who testifies in court and Congress, a legal team that takes calls, an indemnity wrapper for underwriters. Maybe this means that things actually get commodified into a financialization wrapper, rather than a way to package R&D (FinTech startups back to the front?!) The version of this future I'd actually bet on: a commodity substrate (LLMs plus open prompt architectures plus standardized data access), topped by a thin layer of regulated insurance companies that price the risk of agent failure in compliance-driven industries. The middle layer (prompt-architecture-as-product vendors) is vulnerable to an awful lot of margin-squeeze. Most of the floor was trying to build that middle layer.
+
+21h ago
+
+---
+
+**[Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training](https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/)**
+
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 8h ago
 
 ---
 
 **[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -77,7 +77,7 @@ So I signed up for the 30 day trial. The trial was available for either business
 
 (Posting Here because removed by Chatgpt Complaints moderators because the model here is 4o, and refuse to believe there were any safety issues about that model)He started off with claiming to chat was the smartest baby born and faked evidence he was. Then just continued and did what chat told him to do to see when would get push back or fact checked. Warning: ⚠️ Does bash on AI use and AI users, that is kind of harsh and I don't agree about towards the end. But a fascinating experiment.
 
-🔗 [youtu.be](https://youtu.be/VRjgNgJms3Q?si=gmieHy8i1EOIaL6M) • 3h ago
+🔗 [youtu.be](https://youtu.be/VRjgNgJms3Q?si=gmieHy8i1EOIaL6M) • 5h ago
 
 ---
 
@@ -85,7 +85,7 @@ So I signed up for the 30 day trial. The trial was available for either business
 
 I’m basically a total beginner when it comes to finance and economics maybe 2 or 3 months ago, and honestly trying to learn from reports or books used to completely destroy me. Too many charts, numbers, random terms I have to Google every 2 minutes. And I started using AI Podcast to kind of brute force my way into learning this stuff, and I’m honestly surprised by how much it helped. Instead of sitting there suffering through a 70-page report, I can turn it into conversational audio and just listen while driving or walking around. But those tools actually feel slightly different. Like NotebookLM feels more “AI teacher explains the document to you.” It’s really good at organizing information and walking through the important points clearly. And I enjoy Genspark AI Pods more because it feels more like an actual show or podcast episode. The tone feels lighter, less dry, less like I’m studying for an exam. Sometimes it genuinely just sounds like casually discussing the topic instead of reading a report at me. Not saying this magically turned me into some economics genius lol. But it definitely made learning feel way less painful and boring.
 
-13h ago
+14h ago
 
 ---
 
@@ -93,15 +93,15 @@ I’m basically a total beginner when it comes to finance and economics maybe 2 
 
 Investors | Founders | Operators It's tricky when you're responsible for people, especially in the healthcare sector, and you include AI into the infrastructure in a way that puts the livelihood of those people at risk. One of the more recent developments did exactly that. If there's no one else speaking on it, there should be. Because not only do you have a system that takes a lot of the knowledge and know-how of the ones who were once running things and hands it over to a system that is far from perfect and is known to error and fault. We now also have a situation where, depending on how serious those failures may present themselves, the people supposedly being served are now at an even greater risk of exposure. So what happens when the water runs out. Anthropic | Blackstone | Healthcare
 
-7h ago
+9h ago
 
 ---
 
-**[Month later, qubic still reads to me like an unresolved compute-access experiment](https://www.reddit.com/r/artificial/comments/1t62qw6/month_later_qubic_still_reads_to_me_like_an/)**
+**[Launched an open source preflight billing guard for AI agents 3 days ago. 560 downloads and counting. [apparently I'm not the only one who got burned.]](https://www.reddit.com/r/artificial/comments/1t67kt0/launched_an_open_source_preflight_billing_guard/)**
 
-A month back i was trying to figure out whether qubic was doing something genuinely novel or just wrapping distributed hardware incentives in a more interesting story. After sitting with it longer, one side of that question has gotten clearer. the other hasnt. The operator side is at least legible. participation numbers, throughput, economic behavior - enough is visible (doge-stats.qubic.org tracks some of it) to evaluate whether the incentive structure actually functions. by that read, it seems to work. getting heterogeneous hardware to show up reliably and stay is a real coordination problem, and they've made real progress on it. The side i still can't resolve is useful-work quality. Routing compute toward something is not the same as routing it toward something that matters. the harder question - whether the outputs qubic is actually computing can withstand external scrutiny for quality and significance - i haven't seen that interrogated rigorously from outside the project. Aaybe that evidence exists and i've missed it. maybe the infrastructure genuinely had to come first. but this is also where projects in this category tend to quietly stall: incentive wrapper functions, useful-work claim drifts, and nobody formally closes the loop. Genuinely curious if anyone here has looked at the output side more carefully than i have
+The pattern I kept seeing: monthly caps are useless for agents. One misconfigured loop can exhaust a monthly budget in hours. A per-request ceiling that blocks BEFORE compute starts is the actual fix. Comment "Repo" to get a free access. Curious what others are using for agent spend control.
 
-3h ago
+54m ago
 
 ---
 
@@ -109,7 +109,7 @@ A month back i was trying to figure out whether qubic was doing something genuin
 
 Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake credentials and mental health advice.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/pennsylvania-sues-character-ai-chatbot) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/pennsylvania-sues-character-ai-chatbot) • 21h ago
 
 ---
 
@@ -121,37 +121,37 @@ Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake 
 
 A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims.
 
-BBC • 5h ago
+BBC • 7h ago
 
 ---
 
-**[Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html)**
+**[U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70)**
 
-Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.
-
-CNBC • 22h ago
+WSJ • 12h ago
 
 ---
 
-**[Behind the Curtain: Intelligence explosion](https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion)**
+**[The mysterious $53bn ‘other income’ boost to AI hyperscaler earnings](https://www.ft.com/content/be97df0a-76b1-4cb0-9ba4-d1117d8d1450)**
 
-Axios • 20m ago
+Quantum entanglement
 
----
-
-**[How a Congressional Primary Became a Proxy Battle Over A.I.](https://www.newyorker.com/news/our-local-correspondents/how-a-congressional-primary-became-a-proxy-battle-over-ai)**
-
-Alex Bores, a New York Democratic candidate for Congress, has put forward a platform to regulate A.I. In recent months, his campaign has become an arena of proxy battle between OpenAI and Anthropic.
-
-The New Yorker • 24m ago
+Financial Times • 56m ago
 
 ---
 
-**[How AI is changing the grocery store](https://finance.yahoo.com/video/ai-changing-grocery-store-100000202.html)**
+**[Why banning kids from AI isn’t the answer](https://www.vox.com/life/487845/ai-ban-kids-manitoba-social-media-education-schools)**
 
-Thrive Market Founder and CEO Nick Green explains how his company is using AI to make healthy living more accessible.
+What kids really need in the age of artificial intelligence.
 
-Yahoo Finance • 24m ago
+vox.com • 31m ago
+
+---
+
+**[Snap ends $400 million Perplexity AI deal in Q1 2026](https://qz.com/snap-perplexity-ai-deal-ended-400-million-050726)**
+
+The two companies "amicably ended the relationship" in the first quarter, Snap disclosed in its earnings report Wednesday
+
+qz.com • 17m ago
 
 ---
 
@@ -159,37 +159,35 @@ Yahoo Finance • 24m ago
 
 We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.
 
-Anthropic • 18h ago
+Anthropic • 19h ago
 
 ---
 
-**[The Pentagon keeps promising to follow the law when using AI, but what are the limits?](https://www.cnn.com/2026/05/07/politics/us-military-ai-law-iran)**
+**[Thousands of AI-built apps exposed sensitive corporate and personal data, researchers found](https://www.axios.com/2026/05/07/loveable-replit-vibe-coding-privacy)**
 
-The Pentagon keeps promising to follow the law when using AI, but what are the limits?
-
-CNN • 1h ago
+Axios • 1h ago
 
 ---
 
-**[AI could solve America's $39 trillion debt crisis—but only if U.S. abandons displaced workers: Yale](https://fortune.com/2026/05/06/39-trillion-national-debt-fix-ai-productivity-yale-budget-lab/)**
+**[‘No one has done this in the wild’: study observes AI replicate itself](https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself)**
 
-A Yale Budget Lab report suggests AI-driven productivity gains could reverse the national debt's upward trajectory. But what about the workers?
+World is approaching point where no one can shut down a rogue AI, says director of body behind study
 
-Fortune • 17h ago
-
----
-
-**[U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70)**
-
-WSJ • 10h ago
+The Guardian • 3h ago
 
 ---
 
-**[Europe’s AI translation industry told it risks reputation by partnering with US firms](https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms)**
+**[Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html)**
 
-Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure
+Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.
 
-The Guardian • 4h ago
+CNBC • 1d ago
+
+---
+
+**[Five Ways A.I. Search Beats an Old-School Google Search](https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Guardian • 4h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1675 • 💬 1105 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1679 • 💬 1106 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -215,7 +213,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 530 • 💬 348 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 532 • 💬 348 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
 
 ---
 
@@ -223,7 +221,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 502 • 💬 144 • 2d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 503 • 💬 144 • 2d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -231,7 +229,7 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
 
-⬆️ 379 • 💬 267 • 2d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+⬆️ 380 • 💬 268 • 2d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 
 ---
 
@@ -247,7 +245,7 @@ Curated list of AI tools and AI startups that have shut down, been acquired and 
 
 According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
 
-⬆️ 232 • 💬 209 • 1d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+⬆️ 233 • 💬 209 • 1d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
 
 ---
 
@@ -283,7 +281,7 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 32K • 👍 938 • 💬 48 • ⏱️ 13:34 • 11h ago
+👁️ 32K • 👍 938 • 💬 48 • ⏱️ 13:34 • 13h ago
 
 ---
 
@@ -313,7 +311,7 @@ Stop generating random clips. Start building real videos Try Smart Shot : https:
 
 📺 Vaibhav Sisinty
 
-👁️ 37K • 👍 1K • 💬 90 • ⏱️ 19:24 • 19h ago
+👁️ 37K • 👍 1K • 💬 90 • ⏱️ 19:24 • 20h ago
 
 ---
 
@@ -323,7 +321,7 @@ CNBC's Andrew Ross Sorkin discusses key takeaways from his conversation with Ant
 
 📺 CNBC Television
 
-👁️ 38K • 👍 404 • 💬 50 • ⏱️ 5:23 • 23h ago
+👁️ 38K • 👍 404 • 💬 50 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -333,7 +331,7 @@ In this Truth B Told video, Jeremiah reacts to Professor John Lennox speaking ab
 
 📺 Truth B Told
 
-👁️ 79K • 👍 4K • 💬 546 • ⏱️ 15:15 • 17h ago
+👁️ 79K • 👍 4K • 💬 546 • ⏱️ 15:15 • 19h ago
 
 ---
 
@@ -461,7 +459,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 28,215 • ❤️ 141 • 9h ago
+⬇️ 28,215 • ❤️ 141 • 10h ago
 
 ---
 
@@ -667,7 +665,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.7k • 🔱 437 • 4h ago
+⭐ 5.7k • 🔱 437 • 5h ago
 
 ---
 
@@ -677,7 +675,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.6k • 🔱 509 • 2d ago
+⭐ 5.6k • 🔱 509 • 3d ago
 
 ---
 
@@ -687,7 +685,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 367 • 1h ago
+⭐ 5.1k • 🔱 367 • 2h ago
 
 ---
 
@@ -697,7 +695,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.8k • 🔱 471 • 4h ago
+⭐ 3.8k • 🔱 471 • 6h ago
 
 ---
 
