@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T20:47:50.412685+00:00'
+updated: '2026-05-07T21:59:45.146607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 20:47 UTC  
+**Last Updated:** May 07, 2026 at 21:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
+**24h:** -2.4%  
 **7d:** -0.2%  
-**30d:** +4.6%  
-**90d:** +9.3%  
+**30d:** +4.7%  
+**90d:** +9.4%  
 **1y:** +3.8%  
 
 ---
@@ -68,17 +68,17 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
+
+5h ago
+
+---
+
 **[Daily General Discussion May 07, 2026](https://www.reddit.com/r/ethereum/comments/1t60qpm/daily_general_discussion_may_07_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
-
-4h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
 
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 14h ago
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -166,9 +166,17 @@ The Block • 1d ago
 
 ---
 
-**[XRP vs. Ethereum: Better Cryptocurrency?](https://www.fool.com/investing/2026/05/07/xrp-vs-ethereum-better-cryptocurrency/)**
+**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
 
-The Motley Fool • 1h ago
+At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
+
+CoinDesk • 3h ago
+
+---
+
+**[Is This Sign a Big Red Flag for Ethereum?](https://www.fool.com/investing/2026/05/07/is-this-sign-a-big-red-flag-for-ethereum/)**
+
+The Motley Fool • 10m ago
 
 ---
 
@@ -176,7 +184,27 @@ The Motley Fool • 1h ago
 
 Which of these altcoins has a brighter future?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
+
+TipRanks • 9h ago
+
+---
+
+**[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
+
+thestreet.com • 39m ago
+
+---
+
+**[Current price of Ethereum for May 7, 2026](https://fortune.com/article/price-of-ethereum-05-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
 
 ---
 
@@ -186,41 +214,11 @@ Barron's • 2d ago
 
 ---
 
-**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
-
-At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
-
-CoinDesk • 2h ago
-
----
-
-**[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
-
-TipRanks • 8h ago
-
----
-
-**[Current price of Ethereum for May 7, 2026](https://fortune.com/article/price-of-ethereum-05-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
-
----
-
 **[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
 
 MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
 
-markets.businessinsider.com • 18h ago
-
----
-
-**[Ethereum Founder Vitalik Says Five Banks on One Chain Is Not a Blockchain Solution](https://coinpedia.org/news/ethereum-founder-vitalik-says-five-banks-on-one-chain-is-not-a-blockchain-solution/)**
-
-Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
-
-Coinpedia • 1d ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -244,7 +242,7 @@ Ethereum is currently fighting with a major trend line after breaking above resi
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 295 • 💬 42 • ⏱️ 8:18 • 21h ago
+👁️ 5K • 👍 295 • 💬 42 • ⏱️ 8:18 • 23h ago
 
 ---
 
@@ -254,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 330 • 👍 27 • 💬 5 • ⏱️ 4:38 • 10h ago
+👁️ 330 • 👍 27 • 💬 5 • ⏱️ 4:38 • 11h ago
 
 ---
 
@@ -274,7 +272,7 @@ In this Elite Live TA session, The Trading Parrot delivers comprehensive technic
 
 📺 The Trading Parrot
 
-👁️ 2K • 👍 175 • 💬 11 • ⏱️ 1:35:09 • 7h ago
+👁️ 2K • 👍 175 • 💬 11 • ⏱️ 1:35:09 • 9h ago
 
 ---
 
@@ -284,7 +282,7 @@ BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 321 • 💬 325 • ⏱️ 16:18 • 17h ago
+👁️ 7K • 👍 321 • 💬 325 • ⏱️ 16:18 • 18h ago
 
 ---
 
@@ -304,7 +302,7 @@ I'll need to read the transcript carefully to pull the right details. Let me dra
 
 📺 Verified Pro Traders
 
-👁️ 1K • 👍 143 • 💬 3 • ⏱️ 8:05 • 2h ago
+👁️ 1K • 👍 143 • 💬 3 • ⏱️ 8:05 • 3h ago
 
 ---
 
@@ -324,7 +322,7 @@ Joseph Lubin, co-founder of Ethereum and CEO of Consensys, warns that big tech i
 
 📺 When Shift Happens
 
-👁️ 672 • 👍 54 • 💬 69 • ⏱️ 1:13:25 • 6h ago
+👁️ 672 • 👍 54 • 💬 69 • ⏱️ 1:13:25 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-07T20:47:50.399220+00:00'
+updated: '2026-05-07T21:59:45.133820+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 07, 2026 at 20:47 UTC  
+**Last Updated:** May 07, 2026 at 21:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 6h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 8h ago
 
 ---
 
@@ -49,15 +49,15 @@ Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T va
 
 Coinbase is cutting 700 jobs, or 14% of its staff, as CEO Brian Armstrong warns every company will follow. Q1 earnings drop today.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 3h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 5h ago
 
 ---
 
-**[AI is helpful but still not “there” yet](https://www.reddit.com/r/artificial/comments/1t6hhp1/ai_is_helpful_but_still_not_there_yet/)**
+**[We gave 45 psychological questionnaires to 50 LLMs. What we found was not “personality.”](https://www.reddit.com/r/artificial/comments/1t6o1dl/we_gave_45_psychological_questionnaires_to_50/)**
 
-what I mean is that every time I use Claude, or Grok or any of the AI platforms and tools, I realize how far this technology is from replacing jobs. yes it can make some things easier but sometimes it can also make things harder. for example, I’ve been editing a legal document and have been toggling between three different tools; each have a mind of their own. some are rather astute but then hallucinate and produce some accurate things and some nonsense, and others act like they have no knowledge of the real world at all — (I understand AI is not sentient). what I’m getting at is that AI is not foolproof and can’t be trusted for things that need to be checked and re-checked with extreme attention to detail. I discover problems and inconsistencies everytime I utilize AI and that’s why I couldnt ever trust it to be a true personal assistant — because sometimes it’s not capable of delivering even basic tasks. it’s relentless and has endurance, but it’s a somewhat flawed repository that sometimes makes tasks even more difficult (like editing) — because rather than checking my own work, I’m flagging AI’s errors, which increases my work load.
+What is the “personality” of an LLM? What actually differentiates models psychometrically? Since LLMs entered public use, researchers have been giving them psychometric questionnaires, with mixed results. Their answers often do not seem to reflect the same psychological constructs these tests measure in humans. So we asked a slightly different question: What do LLM responses to psychometric questionnaires actually reflect? We analyzed responses to 45 validated psychometric questionnaires completed by 50 different LLMs. The strongest source of variation was whether a model endorsed items about inner experience: emotions, sensations, thoughts, imagery, empathy, and other forms of first-person experience. We call this factor the Pinocchio Dimension. Importantly, the Pinocchio Dimension is not a classical personality trait. It does not tell us whether a model is “extraverted,” “neurotic,” or “agreeable” in the human sense. Rather, it captures the extent to which a model treats the language of inner experience as self-applicable: whether it responds as if it had feelings, mental imagery, and an inner point of view, or instead as a system that reacts behaviorally to inputs. Preprint in the comments.
 
-3h ago
+34m ago
 
 ---
 
@@ -65,7 +65,7 @@ what I mean is that every time I use Claude, or Grok or any of the AI platforms 
 
 I’ve been noticing a serious problem in AI generated knowledge systems, especially Grokipedia, and even in normal AI search responses. Different communities, identities, and historical groups are sometimes being merged together simply because their names sound similar in English. A lot of these mistakes begin with humans first. Someone makes an incorrect assumption, mixes up two groups, or writes an oversimplified explanation online. That mistake then gets copied across websites and repeated by other people until it starts looking credible. After that, AI systems absorb those mistakes from training data and begin repeating them at massive scale with an appearance of authority. The deeper issue is that many AI systems rely heavily on English language sources and English transliterations, even when discussing cultures and histories that do not originate in English. But English letters cannot fully represent many sounds from other languages. Once names are flattened into English spellings, unrelated words can suddenly appear connected even when they are completely different in their original languages. What makes this worse is that even when you directly ask AI systems questions about these topics, they often continue searching mostly in English instead of checking sources in the original language that would provide proper context and distinctions. So the AI keeps reinforcing distorted connections instead of correcting them. Eventually two unrelated groups become linked across websites, AI answers, Wikipedia pages, and Grokipedia articles, and the mistake starts looking authoritative simply because it is repeated everywhere. This is not just about hallucinations. It is about how digital systems slowly erase distinctions between cultures through simplification, transliteration, repetition, and inherited human mistakes.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been noticing a serious problem in AI generated knowledge systems, especi
 
 Building on the last post, here’s what the first version of effectiveTPS will look like. **Core display (v1):** - Clean table comparing popular local models - Raw TPS (the marketing number everyone shows) - eTPS (the new metric that actually measures useful output in real conversations) - Time to First Token (how long you wait before it starts replying) - Effectiveness Index = (eTPS ÷ Raw TPS) × 100 — higher is better **Example leaderboard (early test data):** | Model | Raw TPS | eTPS | Time to First Token | Effectiveness Index | |--------------------|---------|--------|---------------------|---------------------| | Llama 3.1 70B | 45.2 | 38.7 | 1.4s | **86** | | Qwen2.5-32B | 68.4 | 52.1 | 0.8s | **76** | | Gemma 2 27B | 71.3 | 44.6 | 0.6s | **63** | I’ve been running these tests through a structured multi-turn analysis framework I built to evaluate complex workflows. That’s how eTPS was stress-tested — not just single-turn benchmarks, but real back-and-forth sessions. Advanced mode (toggle) will add latency percentiles, cost-per-quality, and consistency scoring later. For v1 the goal is to keep it dead simple and immediately useful, even if you’re not deep into AI. The whole point is to cut through the noise and show which models actually deliver useful work, not just raw speed. What do you think should be added (or removed) for the first version? Any metrics you’d want to see front-and-center? **TL;DR:** Simple leaderboard with Raw TPS, eTPS, Time to First Token, and a clear Effectiveness Index. Advanced stuff stays hidden until you want it. Feedback welcome.
 
-59m ago
+2h ago
 
 ---
 
@@ -85,31 +85,31 @@ Anthropic just partnered with SpaceX and doubled Claude Code rate limits effecti
 
 ---
 
+**[AI is helpful but still not “there” yet](https://www.reddit.com/r/artificial/comments/1t6hhp1/ai_is_helpful_but_still_not_there_yet/)**
+
+what I mean is that every time I use Claude, or Grok or any of the AI platforms and tools, I realize how far this technology is from replacing jobs. yes it can make some things easier but sometimes it can also make things harder. for example, I’ve been editing a legal document and have been toggling between three different tools; each have a mind of their own. some are rather astute but then hallucinate and produce some accurate things and some nonsense, and others act like they have no knowledge of the real world at all — (I understand AI is not sentient). what I’m getting at is that AI is not foolproof and can’t be trusted for things that need to be checked and re-checked with extreme attention to detail. I discover problems and inconsistencies everytime I utilize AI and that’s why I couldnt ever trust it to be a true personal assistant — because sometimes it’s not capable of delivering even basic tasks. it’s relentless and has endurance, but it’s a somewhat flawed repository that sometimes makes tasks even more difficult (like editing) — because rather than checking my own work, I’m flagging AI’s errors, which increases my work load.
+
+4h ago
+
+---
+
 **[Most “agentic AI” conversations feel too abstract. Here is how my agentic research system looks like](https://www.reddit.com/r/artificial/comments/1t6iiqr/most_agentic_ai_conversations_feel_too_abstract/)**
 
 hey there I've seen plenty of demos and frameworks, but not many practical examples of agentic systems in action. So I wrote a breakdown of the agentic system I built to hear thoughts and potential improvements. It finds cases of AI being used inside companies, then break them down by outcomes, tools, vendors, and industries. Six agents help with finding and evaluating use cases, extracting key details, adding context, and matching them to users’ interests. They also report back (in research logs) when they hit a wall. I'm not using anything fancy for orchestration yet. They share a living map of cases (db), research logs, and human decisions where it matters (me). I think this is where many useful agentic systems will start, not replacing human judgment, but making it much easier to scale. Thoughts? Full read here. PS: I also included a few areas where this same setup could work like competitor research, real estate, supply chain, and more.
 
-2h ago
+3h ago
 
 ---
 
 **[Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training](https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/)**
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 16h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 17h ago
 
 ---
 
 **[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
 
-18h ago
-
----
-
-**[South Korea names first humanoid robot monk as it accepted the faith's vows](https://www.reddit.com/r/artificial/comments/1t6gkes/south_korea_names_first_humanoid_robot_monk_as_it/)**
-
-A humanoid robot named Gabi joined the Buddhist faith in South Korea on Wednesday, as the country strives to create co-existence between robots and society
-
-🔗 [Daily Express US](http://the-express.com/tech/tech-news/206676/south-korea-first-robot-monk) • 3h ago
+19h ago
 
 ---
 
@@ -117,71 +117,11 @@ A humanoid robot named Gabi joined the Buddhist faith in South Korea on Wednesda
 
 ## Google News: "ai"
 
-**[Apple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push](https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Apple’s AirPods with cameras for AI are apparently close to production](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production)**
-
-The new headphones might help you decide what to make for dinner.
-
-The Verge • 1h ago
-
----
-
-**[AirPods Pro With AI Cameras Reach 'Advanced' Testing Stage](https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/)**
-
-Apple's upcoming camera-equipped AirPods Pro are nearing completion and have reached an "advanced" testing stage, reports Bloomberg. The design is almost finalized, as is the feature set, and early mass production could begin soon. The AirPods Pro will have built-in cameras that will feed visual information about the wearer's surroundings to Siri. While there will be a longer stem for the camera in each AirPod, the device will otherwise look similar to the AirPods Pro 3.
-
-MacRumors • 1h ago
-
----
-
 **[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
 
 The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
 
-CNBC • 6h ago
-
----
-
-**[CoreWeave tops revenue estimates as AI boom supercharges cloud demand](https://finance.yahoo.com/sectors/technology/articles/coreweave-tops-revenue-estimates-ai-201014285.html)**
-
-CoreWeave Inc beat analysts' estimates for quarterly revenue on Thursday, as the specialized cloud provider tapped ‌into strong demand for its high-performance computing services used ‌to train and deploy artificial intelligence models.  The company ⁠reported total revenue of $2.08 billion for the first quarter, compared with analysts' average estimate of $1.97 billion, according ⁠to data compiled by LSEG.  The business model for AI infrastructure is exceptionally ​capital-intensive.
-
-Yahoo Finance • 37m ago
-
----
-
-**[AI emerges as a top cause of layoffs, accounting for 26% of April's job cuts](https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/)**
-
-New data shows artificial intelligence is the most cited reason for layoffs, even as economists debate whether it is truly displacing workers.
-
-CBS News • 17m ago
-
----
-
-**[SOUN Earnings: SoundHound Stock Slides despite 52% Q1 Revenue Growth on Strong Voice and Agentic AI Demand](https://www.tipranks.com/news/soun-earnings-soundhound-posts-52-revenue-growth-in-q1-as-demand-for-voice-and-agentic-ai-rises)**
-
-TipRanks • 32m ago
-
----
-
-**[AI exposes hidden risks in US military supply chain tied to China](https://www.foxbusiness.com/media/ai-exposes-hidden-risks-us-military-supply-chain-tied-china)**
-
-The Trump admin is using AI to expose vulnerabilities in the U.S. military supply chain tied to what experts describe as China’s decades-long economic warfare strategy.
-
-Fox Business • 4h ago
-
----
-
-**[LA mayor race goes viral with AI video](https://www.cnn.com/2026/05/06/politics/video/spencer-pratt-ai-video-la-mayor-candidate-vrtc)**
-
-Spencer Pratt, LA Mayor candidate, is featured in an AI generated viral video that’s snagging millions of views online, boosting the reality star turned social media influencer and now political hopeful.
-
-CNN • 9h ago
+CNBC • 7h ago
 
 ---
 
@@ -189,7 +129,65 @@ CNN • 9h ago
 
 “Imagine the tech without the tech companies.”
 
-The Atlantic • 5h ago
+The Atlantic • 7h ago
+
+---
+
+**[Employers increasingly favor candidates with AI skills](https://www.cbsnews.com/texas/video/employers-increasingly-favor-candidates-with-ai-skills/)**
+
+New data shows employers across industries increasingly prioritize AI skills, with 8 in 10 hiring managers calling them essential. Research also finds many companies would choose a less‑experienced candidate who is AI‑literate over a more experienced applicant without those skills. Experts recommend building AI proficiency through daily use, free online training, and even asking AI tools how to improve.
+
+CBS News • 25m ago
+
+---
+
+**[The AI Revival of the Three Mile Island Nuclear Plant](https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal)**
+
+Bloomberg • 59m ago
+
+---
+
+**[Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)**
+
+AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.
+
+TechCrunch • 57m ago
+
+---
+
+**[NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)**
+
+NVIDIA (NASDAQ: NVDA) and IREN Limited (NASDAQ: IREN) (“IREN”) today announced a strategic partnership to accelerate deployment of next-generation AI infrastructure.
+
+NVIDIA Newsroom • 1h ago
+
+---
+
+**[Five Ways A.I. Search Beats an Old-School Google Search](https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[The heavily congested Calif. highway now controlled by AI](https://www.sfgate.com/centralcoast/article/california-highway-ai-controlled-22245548.php)**
+
+SFGATE • 10h ago
+
+---
+
+**[LA mayor race goes viral with AI video](https://www.cnn.com/2026/05/06/politics/video/spencer-pratt-ai-video-la-mayor-candidate-vrtc)**
+
+Spencer Pratt, LA Mayor candidate, is featured in an AI generated viral video that’s snagging millions of views online, boosting the reality star turned social media influencer and now political hopeful.
+
+CNN • 10h ago
+
+---
+
+**[Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast](https://finance.yahoo.com/sectors/technology/articles/arm-stock-slides-as-chip-supply-worries-overshadow-upbeat-ai-fueled-revenue-forecast-200744323.html)**
+
+Arm Holdings forecast first-quarter revenue above Wall Street expectations on Wednesday, benefiting from higher adoption of its chip technology as tech companies spend heavily on artificial intelligence compute.  Arm shares jumped 12% in after-hours trading, but reversed course ‌to drop 5.49% after executives told analysts on a conference call that they have not yet secured supplies to meet ‌the demand for a new chip and after analysts probed about the costs of getting into the business of making its own chips.  The company expects quarterly revenue of $1.26 ​billion, compared with analysts' estimates of $1.25 billion, according to data compiled by LSEG.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Atlantic • 5h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1707 • 💬 1117 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1709 • 💬 1117 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -223,7 +221,13 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
 
-⬆️ 383 • 💬 269 • 2d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+⬆️ 384 • 💬 269 • 2d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+
+---
+
+**[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
+
+⬆️ 254 • 💬 246 • 3h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -247,13 +251,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 193 • 💬 225 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
-
----
-
-**[AI Slop Is Killing Online Communities](https://news.ycombinator.com/item?id=48053203)**
-
-⬆️ 172 • 💬 154 • 2h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 214 • 💬 254 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -281,7 +279,7 @@ Check out tastytrade here: https://tastytrade.com/unleashed. My Links ➡️ Twi
 
 📺 Wes Roth
 
-👁️ 19K • 👍 446 • 💬 193 • ⏱️ 1:29:12 • 17h ago
+👁️ 19K • 👍 446 • 💬 193 • ⏱️ 1:29:12 • 18h ago
 
 ---
 
@@ -291,7 +289,7 @@ The biggest U.S. banks are quietly dumping their AI debt — a massive red flag 
 
 📺 Steven Van Metre
 
-👁️ 47K • 👍 2K • 💬 223 • ⏱️ 16:12 • 21h ago
+👁️ 47K • 👍 2K • 💬 223 • ⏱️ 16:12 • 22h ago
 
 ---
 
@@ -301,7 +299,7 @@ FREE GUIDE: The Content Creator's AI Blueprint –* https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 219 • 💬 34 • ⏱️ 5:00 • 5h ago
+👁️ 4K • 👍 219 • 💬 34 • ⏱️ 5:00 • 6h ago
 
 ---
 
@@ -311,7 +309,7 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 63 • ⏱️ 13:34 • 22h ago
+👁️ 46K • 👍 1K • 💬 63 • ⏱️ 13:34 • 23h ago
 
 ---
 
@@ -321,7 +319,7 @@ AI music is "flooding" streaming platforms. Deezer says it is now receiving near
 
 📺 Sky News
 
-👁️ 7K • 👍 170 • 💬 49 • ⏱️ 8:36 • 8h ago
+👁️ 7K • 👍 170 • 💬 49 • ⏱️ 8:36 • 9h ago
 
 ---
 
@@ -331,7 +329,7 @@ Try the Claude AI video workflow with Higgsfield MCP here → https://higgsfield
 
 📺 Malva AI
 
-👁️ 2K • 👍 119 • 💬 34 • ⏱️ 7:19 • 10h ago
+👁️ 2K • 👍 119 • 💬 34 • ⏱️ 7:19 • 11h ago
 
 ---
 
@@ -423,7 +421,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 539 • ❤️ 183 • 19h ago
+⬇️ 539 • ❤️ 183 • 20h ago
 
 ---
 
@@ -447,7 +445,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 28,215 • ❤️ 149 • 19h ago
+⬇️ 28,215 • ❤️ 149 • 20h ago
 
 ---
 
@@ -667,7 +665,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.8k • 🔱 445 • 3h ago
+⭐ 5.8k • 🔱 445 • 4h ago
 
 ---
 
@@ -687,7 +685,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 368 • 9h ago
+⭐ 5.1k • 🔱 368 • 10h ago
 
 ---
 
@@ -697,7 +695,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.9k • 🔱 478 • 6h ago
+⭐ 3.9k • 🔱 478 • 7h ago
 
 ---
 
@@ -725,7 +723,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 352 • 13d ago
+⭐ 2.7k • 🔱 352 • 14d ago
 
 ---
 
