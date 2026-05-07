@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-07T01:16:24.786470+00:00'
+updated: '2026-05-07T04:56:32.898794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 01:16 UTC  
+**Last Updated:** May 07, 2026 at 04:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,106.75
+### $81,083.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +3.7%  
-**30d:** +14.2%  
-**90d:** +17.1%  
-**1y:** -21.3%  
+**24h:** -0.4%  
+**7d:** +3.5%  
+**30d:** +13.9%  
+**90d:** +16.8%  
+**1y:** -21.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1621.76B
+**Market Cap:** $1620.71B
 Rank #1
 
-**Circulating Supply:** 20,025,718 BTC
+**Circulating Supply:** 20,025,734 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.7%
+-35.8%
 
 **All-Time Low:** $67.81
-+119476.8%
++119276.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 46
-**FEAR**
+### 47
+**NEUTRAL**
 
 ---
 
@@ -79,23 +79,7 @@ Rank #1
 
 **[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
 
-7h ago
-
----
-
-**[What’s causing BTC to rally upwards now?](https://www.reddit.com/r/Bitcoin/comments/1t5afmh/whats_causing_btc_to_rally_upwards_now/)**
-
-Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
-
-13h ago
-
----
-
-**[Wouldn’t it be crazy if we keep going up 🌝](https://www.reddit.com/r/Bitcoin/comments/1t5takr/wouldnt_it_be_crazy_if_we_keep_going_up/)**
-
-I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
-
-1h ago
+11h ago
 
 ---
 
@@ -103,15 +87,23 @@ I’ve been posting bullish for over a month now. Everyone here was soooo bearis
 
 Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
 
-4h ago
+7h ago
 
 ---
 
-**[This was the second Bitcoin logo created by Satoshi Nakamoto in mid 2010, and used in Bitcoin node software (commit 86). Surprisingly, before yesterday, this logo found in the original Sourceforge Bitcoin repo, was not saved to the waybackmachine archive. So I took a snapshot for history.](https://www.reddit.com/r/Bitcoin/comments/1t58jbc/this_was_the_second_bitcoin_logo_created_by/)**
+**[Wouldn’t it be crazy if we keep going up 🌝](https://www.reddit.com/r/Bitcoin/comments/1t5takr/wouldnt_it_be_crazy_if_we_keep_going_up/)**
 
-as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
+I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
 
-15h ago
+5h ago
+
+---
+
+**[What’s causing BTC to rally upwards now?](https://www.reddit.com/r/Bitcoin/comments/1t5afmh/whats_causing_btc_to_rally_upwards_now/)**
+
+Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
+
+17h ago
 
 ---
 
@@ -119,7 +111,29 @@ as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
 If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?
 
-3h ago
+6h ago
+
+---
+
+**[This was the second Bitcoin logo created by Satoshi Nakamoto in mid 2010, and used in Bitcoin node software (commit 86). Surprisingly, before yesterday, this logo found in the original Sourceforge Bitcoin repo, was not saved to the waybackmachine archive. So I took a snapshot for history.](https://www.reddit.com/r/Bitcoin/comments/1t58jbc/this_was_the_second_bitcoin_logo_created_by/)**
+
+as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
+
+18h ago
+
+---
+
+**[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
+
+15h ago
+
+---
+
+**[Where do you draw the line ?](https://www.reddit.com/r/Bitcoin/comments/1t5b7mu/where_do_you_draw_the_line/)**
+
+For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
+
+16h ago
 
 ---
 
@@ -131,25 +145,11 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 ---
 
-**[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
-
-12h ago
-
----
-
-**[Where do you draw the line ?](https://www.reddit.com/r/Bitcoin/comments/1t5b7mu/where_do_you_draw_the_line/)**
-
-For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
-
-12h ago
-
----
-
 **[I have 1 bitcoin way back.](https://www.reddit.com/r/Bitcoin/comments/1t5oia1/i_have_1_bitcoin_way_back/)**
 
 Should I buy more now or just hold what I have?
 
-5h ago
+8h ago
 
 ---
 
@@ -157,43 +157,65 @@ Should I buy more now or just hold what I have?
 
 ## Google News: "bitcoin"
 
-**[Strategy Survives Another Bitcoin Crash With More Alchemy](https://finance.yahoo.com/markets/crypto/articles/strategy-survives-another-bitcoin-crash-002705401.html)**
+**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
 
-(Bloomberg) -- Michael Saylor’s Bitcoin accumulation firm Strategy Inc. has survived yet another crypto market meltdown with some fresh financial engineering. Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysAnthropic Unveils AI Agents to Field Financial Services TasksUS Says Offensive Phase of Iran War Over as Ship Hit in StraitTrump Pauses Plan to Guide Ships While Seeking Iran DealWhite House Weighs AI Working Group, Model Testing, NYT ReportsThe outlook cou
+Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-Yahoo Finance • 1d ago
-
----
-
-**[U.S. Bitcoin Reserve update coming in 'next few weeks," White House adviser says](https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says)**
-
-White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding.
-
-CoinDesk • 3h ago
+CNBC • 1d ago
 
 ---
 
-**[Bitcoin At $81,000, Ethereum, XRP, Dogecoin Consolidate As Trump Seeks Iran Progress](https://finance.yahoo.com/markets/crypto/articles/bitcoin-81-000-ethereum-xrp-233005212.html)**
+**[Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury](https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury)**
 
-Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
+challenges traditional real estate structures.
 
-Yahoo Finance • 1h ago
+CoinDesk • 6h ago
 
 ---
 
-**[American Bitcoin Q1 Earnings Call Highlights](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-q1-earnings-call-225737430.html)**
+**[Bitcoin 'Materially Undervalued,' Coinbase Report Says—But What About ETH?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-materially-undervalued-coinbase-report-023103728.html)**
 
-American Bitcoin (NASDAQ:ABTC) reported first-quarter fiscal 2026 results highlighting higher Bitcoin production, lower unit mining costs, and continued growth in its Bitcoin reserve, even as Bitcoin prices declined during the quarter and created significant non-cash accounting losses under fair val
+Coinbase has maintained a neutral outlook for the crypto market in Q2, citing persistent macroeconomic uncertainty while pointing to early signs of stabilization across major digital assets. Macro Forces Dominate Near-Term Outlook In its latest Charting Crypto report, Coinbase said...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[American Bitcoin Reports Record Q1 Production as BTC Reserve Climbs 30%](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-reports-record-q1-004900570.html)**
+**[Dogecoin slides 4%, bitcoin rally pauses as Iran ceasefire optimism lifts equities](https://www.coindesk.com/markets/2026/05/07/dogecoin-slides-4-bitcoin-rally-pauses-as-iran-ceasefire-optimism-lifts-equities)**
 
-American Bitcoin (NASDAQ: $ABTC) said its strategic reserve grew to 7,021 BTC at the end of the first quarter, up f...
+Crypto majors took a breather Thursday after a strong run, with bitcoin holding around $81,000 and ether slipping below $2,330 as global equities pushed to fresh records on hopes of a US-Iran deal.
 
-Yahoo Finance • 27m ago
+CoinDesk • 21m ago
+
+---
+
+**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Eric Trump's American Bitcoin reports $82 million loss in Q1 amid 'record' mining production](https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1)**
+
+American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly production on record.
+
+The Block • 2h ago
+
+---
+
+**[Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset](https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset)**
+
+The U.S. president's son, who co-founded American Bitcoin, said there's been a turnaround from traditional institutional firms now embracing bitcoin.
+
+CoinDesk • 10h ago
+
+---
+
+**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games)**
+
+The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
+
+The Block • 9h ago
 
 ---
 
@@ -205,33 +227,9 @@ Investopedia • 1d ago
 
 ---
 
-**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games)**
+**[White House official reveals new details on Bitcoin reserve](https://www.thestreet.com/crypto/markets/white-house-official-reveals-new-details-on-bitcoin-reserve-)**
 
-The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
-
-The Block • 5h ago
-
----
-
-**[Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading](https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/)**
-
-Investor's Business Daily • 4h ago
-
----
-
-**[Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030)**
-
-By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
-
-Decrypt • 4h ago
-
----
-
-**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
-
-‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
-
-Fortune • 2d ago
+thestreet.com • 6h ago
 
 ---
 
@@ -273,7 +271,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 10h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -327,7 +325,17 @@ Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 9K • 👍 1K • 💬 300 • ⏱️ 13:36 • 4h ago
+👁️ 24K • 👍 2K • 💬 453 • ⏱️ 13:36 • 7h ago
+
+---
+
+**[Massive Bitcoin Run Incoming...](https://www.youtube.com/watch?v=8nT2I-5R-UY)**
+
+Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 715 • 💬 407 • ⏱️ 9:29 • 4h ago
 
 ---
 
@@ -337,17 +345,25 @@ Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion do
 
 📺 Valuetainment
 
-👁️ 41K • 👍 1K • 💬 462 • ⏱️ 11:41 • 6h ago
+👁️ 61K • 👍 2K • 💬 556 • ⏱️ 11:41 • 9h ago
 
 ---
 
-**[Cathie Wood Loads Up🚨Michael Saylor&#39;s &quot;Crypto Reactor&quot; Pumping Altcoins!?🔥](https://www.youtube.com/watch?v=LBryoVmo5DY)**
+**[SAYLOR SELLING BITCOIN? MSTR DEATH SPIRAL? IS THIS GOOD OR BAD?](https://www.youtube.com/watch?v=pEBVd3ENQNA)**
 
-ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its three ETFs on Apr. 29. At the same time, ARK ...
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
 
-📺 Paul Barron Network
+📺 Adam Livingston
 
-👁️ 48K • 👍 2K • 💬 100 • ⏱️ 12:02 • 1d ago
+👁️ 4K • 👍 587 • 💬 88 • ⏱️ 27:28 • 7h ago
+
+---
+
+**[“I’ll keep this stupid Bitcoin.” Famous last words in divorce court. — James Sexton](https://www.youtube.com/watch?v=ay2oigb9KoQ)**
+
+📺 Natalie Brunell
+
+👁️ 3K • 👍 123 • 💬 68 • ⏱️ 1:34 • 6h ago
 
 ---
 
@@ -357,7 +373,7 @@ The system is cracking while surveillance expands at full speed. From AI threats
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 515 • ⏱️ 25:32 • 1d ago
+👁️ 30K • 👍 2K • 💬 507 • ⏱️ 25:32 • 1d ago
 
 ---
 
@@ -367,15 +383,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 322 • 💬 272 • ⏱️ 13:16 • 22h ago
+👁️ 8K • 👍 322 • 💬 271 • ⏱️ 13:16 • 1d ago
 
 ---
 
-**[“I’ll keep this stupid Bitcoin.” Famous last words in divorce court. — James Sexton](https://www.youtube.com/watch?v=ay2oigb9KoQ)**
+**[Cathie Wood Loads Up🚨Michael Saylor&#39;s &quot;Crypto Reactor&quot; Pumping Altcoins!?🔥](https://www.youtube.com/watch?v=LBryoVmo5DY)**
 
-📺 Natalie Brunell
+ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its three ETFs on Apr. 29. At the same time, ARK ...
 
-👁️ 1K • 👍 66 • 💬 92 • ⏱️ 1:34 • 2h ago
+📺 Paul Barron Network
+
+👁️ 49K • 👍 2K • 💬 101 • ⏱️ 12:02 • 1d ago
 
 ---
 
@@ -383,35 +401,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 True North
 
-👁️ 479 • 👍 14 • 💬 1 • ⏱️ 0:59 • 3h ago
+👁️ 777 • 👍 27 • 💬 2 • ⏱️ 0:59 • 6h ago
 
 ---
 
-**[The Trillion Dollar Bet on Bitcoin. #bitcoin #money #marketcap #investing](https://www.youtube.com/watch?v=ipbf2i2HNls)**
+**[Jack Mallers | Wall Street Is Rebuilding Around Bitcoin](https://www.youtube.com/watch?v=sXrtngH1pxk)**
 
-📺 True North
+Bitcoin can change the world because the world can't change Bitcoin.” Jack Mallers is back on the show to break down his vision ...
 
-👁️ 1K • 👍 10 • ⏱️ 0:38 • 5h ago
+📺 What Bitcoin Did
 
----
-
-**[The Most Unexpected Bitcoin Seller Appears](https://www.youtube.com/watch?v=-SIBTffHWEk)**
-
-BTC charts, Saylor to sell, ETH, SOL, PEPE, AMD, GME, MARA and more! BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 17K • 👍 778 • 💬 129 • ⏱️ 18:32 • 14h ago
-
----
-
-**[Bitcoin is Gambling (And You Can Win Big)](https://www.youtube.com/watch?v=CybqqO4I_C4)**
-
-1. Join Us for a Small Gathering at the Intersection of Financial Wellness and Physical Wellness November 3-5, 2026 at Murrieta ...
-
-📺 Brian Harrington
-
-👁️ 985 • 👍 81 • 💬 10 • ⏱️ 6:00 • 9h ago
+👁️ 9K • 👍 445 • 💬 81 • ⏱️ 1:48:20 • 10h ago
 
 ---
 
