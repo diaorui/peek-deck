@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T04:56:32.904781+00:00'
+updated: '2026-05-07T07:43:26.616868+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 04:56 UTC  
+**Last Updated:** May 07, 2026 at 07:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +1.3%  
-**30d:** +6.3%  
-**90d:** +11.0%  
-**1y:** +5.4%  
+**24h:** -1.9%  
+**7d:** +2.2%  
+**30d:** +7.2%  
+**90d:** +12.0%  
+**1y:** +6.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.68B
+**Market Cap:** $283.05B
 Rank #2
 
 **Circulating Supply:** 120,687,104 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.6%
 
 **All-Time Low:** $0.43
-+537196.3%
++541584.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 07, 2026](https://www.reddit.com/r/ethereum/comments/1t60qpm/daily_general_discussion_may_07_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2h ago
+
+---
+
 **[he got debanked. so he's building the fix.](https://www.reddit.com/r/ethereum/comments/1t5iz3j/he_got_debanked_so_hes_building_the_fix/)**
 
 anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-11h ago
+14h ago
 
 ---
 
@@ -80,7 +88,15 @@ anyone ever think about how fragile their access to their traditional bank accou
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
+
+---
+
+**[An immutable L2 where *you* decide what is legal :)](https://www.reddit.com/r/ethereum/comments/1t628fw/an_immutable_l2_where_you_decide_what_is_legal/)**
+
+To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
+
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 1h ago
 
 ---
 
@@ -88,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Couldn't really find it,most of what's out there is press release language or token price commentary, neither of which tells me if the liquidity is sticky or if it's farmers waiting for the next chain. So genuine question for anyone whos actually on katana or providing liquidity on Sushi there ,what's the lp experience like, what are fees doing, and is there organic swap demand or is volume mostly aggregator routing? Not trying to make a thesis post, I just can't tell from the outside and figured someone here would actually know.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +112,7 @@ Couldn't really find it,most of what's out there is press release language or to
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +128,7 @@ Hey everyone! I’ve been working on a security layer for the Agentic Economy du
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -132,20 +148,6 @@ I live in a country where cryptocurrency is somewhat illegal. I would like to pu
 
 ---
 
-**[Banks just won. Passive yield is dead in 8 days.](https://www.reddit.com/r/ethereum/comments/1t3l1zc/banks_just_won_passive_yield_is_dead_in_8_days/)**
-
-2d ago
-
----
-
-**[Daily General Discussion May 03, 2026](https://www.reddit.com/r/ethereum/comments/1t2c1ys/daily_general_discussion_may_03_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
 
-The Block • 18h ago
+The Block • 21h ago
 
 ---
 
@@ -162,7 +164,7 @@ The Block • 18h ago
 
 By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
 
-Decrypt • 7h ago
+Decrypt • 10h ago
 
 ---
 
@@ -170,7 +172,7 @@ Decrypt • 7h ago
 
 Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -192,15 +194,7 @@ Barron's • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
-
----
-
-**[Ethereum Founder Vitalik Says Five Banks on One Chain Is Not a Blockchain Solution](https://coinpedia.org/news/ethereum-founder-vitalik-says-five-banks-on-one-chain-is-not-a-blockchain-solution/)**
-
-Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
-
-Coinpedia • 20h ago
+Fortune • 18h ago
 
 ---
 
@@ -208,13 +202,21 @@ Coinpedia • 20h ago
 
 MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 5h ago
+
+---
+
+**[Ethereum Founder Vitalik Says Five Banks on One Chain Is Not a Blockchain Solution](https://coinpedia.org/news/ethereum-founder-vitalik-says-five-banks-on-one-chain-is-not-a-blockchain-solution/)**
+
+Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
+
+Coinpedia • 23h ago
 
 ---
 
 **[Ethereum (ETH) Just Changed How It Makes Money. The Market Hasn’t Caught On Yet](https://www.tipranks.com/news/ethereum-eth-just-changed-how-it-makes-money-the-market-hasnt-caught-on-yet)**
 
-TipRanks • 17h ago
+TipRanks • 19h ago
 
 ---
 
@@ -230,23 +232,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 273 • 💬 110 • ⏱️ 19:21 • 1d ago
+
+---
+
 **[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
 
 Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 75 • ⏱️ 8:18 • 6h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4eO23rYUsYY)**
-
-BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 107 • 💬 138 • ⏱️ 16:18 • 1h ago
+👁️ 3K • 👍 222 • 💬 66 • ⏱️ 8:18 • 8h ago
 
 ---
 
@@ -256,37 +258,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 142 • 💬 43 • ⏱️ 18:13 • 11h ago
-
----
-
-**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
-
-Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
-
-📺 The Block
-
-👁️ 818 • 👍 47 • 💬 2 • ⏱️ 22:10 • 10h ago
-
----
-
-**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
-
-In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
-
-📺 The Value Thinker
-
-👁️ 7K • 👍 519 • 💬 111 • ⏱️ 17:39 • 15h ago
-
----
-
-**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 272 • 💬 111 • ⏱️ 19:21 • 1d ago
+👁️ 4K • 👍 148 • 💬 36 • ⏱️ 18:13 • 14h ago
 
 ---
 
@@ -296,27 +268,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 90 • 💬 8 • ⏱️ 7:39 • 17h ago
+👁️ 2K • 👍 90 • 💬 8 • ⏱️ 7:39 • 20h ago
 
 ---
 
-**[Ethereum MAJOR Sell Volume Confirms Rejection And Crash?](https://www.youtube.com/watch?v=9CQfOiya1cA)**
+**[BITCOIN &amp; ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4eO23rYUsYY)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Trade Confident
+📺 Crypto World
 
-👁️ 308 • 👍 13 • 💬 3 • ⏱️ 5:21 • 10h ago
+👁️ 3K • 👍 182 • 💬 122 • ⏱️ 16:18 • 4h ago
 
 ---
 
-**[Crypto Bull Market Doors Opening! Bitcoin, Ethereum &amp; Altcoins Breaking Out NOW](https://www.youtube.com/watch?v=lIEj81JuNaw)**
+**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
 
-Crypto bull market signals are waking up, and these are very macro indicators aligning. Short term bitcoin and ethereum price ...
+Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
 
-📺 Crypto Capital Venture
+📺 The Block
 
-👁️ 17K • 👍 1K • 💬 406 • ⏱️ 14:49 • 1d ago
+👁️ 1K • 👍 56 • 💬 2 • ⏱️ 22:10 • 13h ago
+
+---
+
+**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
+
+In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
+
+📺 The Value Thinker
+
+👁️ 8K • 👍 536 • 💬 112 • ⏱️ 17:39 • 18h ago
 
 ---
 
@@ -326,7 +308,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 579 • 👍 24 • 💬 1 • ⏱️ 4:19 • 19h ago
+👁️ 601 • 👍 26 • 💬 1 • ⏱️ 4:19 • 22h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Haben wir getoppt oder gehen wir noch höher?? Wir warten auf DAS](https://www.youtube.com/watch?v=aT1Sb6Kx9Bg)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 421 • 💬 41 • ⏱️ 10:18 • 3h ago
+
+---
+
+**[Ethereum MAJOR Sell Volume Confirms Rejection And Crash?](https://www.youtube.com/watch?v=9CQfOiya1cA)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 340 • 👍 13 • 💬 3 • ⏱️ 5:21 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-07T04:56:32.898794+00:00'
+updated: '2026-05-07T07:43:26.611673+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 04:56 UTC  
+**Last Updated:** May 07, 2026 at 07:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,083.63
+### $81,687.84
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** +3.5%  
-**30d:** +13.9%  
-**90d:** +16.8%  
-**1y:** -21.5%  
+**7d:** +4.4%  
+**30d:** +14.9%  
+**90d:** +17.8%  
+**1y:** -20.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1620.71B
+**Market Cap:** $1634.16B
 Rank #1
 
-**Circulating Supply:** 20,025,734 BTC
+**Circulating Supply:** 20,025,843 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-35.3%
 
 **All-Time Low:** $67.81
-+119276.2%
++120230.3%
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
 
-11h ago
-
----
-
-**[FIRE with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t5q08f/fire_with_bitcoin/)**
-
-Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
-
-7h ago
+14h ago
 
 ---
 
@@ -95,7 +87,15 @@ Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Wo
 
 I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
 
-5h ago
+8h ago
+
+---
+
+**[FIRE with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t5q08f/fire_with_bitcoin/)**
+
+Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
+
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’ve been posting bullish for over a month now. Everyone here was soooo bearis
 
 Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
 
-17h ago
+19h ago
 
 ---
 
@@ -111,7 +111,23 @@ Hello all, been away for the past week or so and just checked the pricing. What�
 
 If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?
 
-6h ago
+9h ago
+
+---
+
+**[Daily Discussion, May 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1t61xj6/daily_discussion_may_07_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
+
+---
+
+**[⚡ Lightning Thursday! May 07, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1t62zzo/lightning_thursday_may_07_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+37m ago
 
 ---
 
@@ -119,29 +135,13 @@ If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit c
 
 as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
-18h ago
+21h ago
 
 ---
 
 **[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
 
-15h ago
-
----
-
-**[Where do you draw the line ?](https://www.reddit.com/r/Bitcoin/comments/1t5b7mu/where_do_you_draw_the_line/)**
-
-For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
-
-16h ago
-
----
-
-**[Finally reached 0.1 bitcoin after 6 months of grinding at 17.](https://www.reddit.com/r/Bitcoin/comments/1t4skc0/finally_reached_01_bitcoin_after_6_months_of/)**
-
-About 8 months ago I started to learn about the causes of inflation and money supply, read the bitcoin standard and never looked back. Now I guess I’m a full blown bitcoin maxi with bitcoin now being 100% of my portfolio. I may also add that I own strategy stock and strive common stock so I’m practically 110% allocated. My dad calls me nuts but I know why I’m doing this, keeping stacking lads 💶 For people wondering where I got the money, I work 26 hours a week in a shop after school and on weekends. So no I’m not spoiled guys.
-
-1d ago
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 Should I buy more now or just hold what I have?
 
-8h ago
+11h ago
 
 ---
 
@@ -157,65 +157,63 @@ Should I buy more now or just hold what I have?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
+**[Strategy: Bitcoin Whale's Earnings Will Answer This Key Questions](https://www.investors.com/news/mstr-stock-strategy-earnings-q1-bitcoin-whale-strc/)**
 
-Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
-
-CNBC • 1d ago
+Investor's Business Daily • 21h ago
 
 ---
 
-**[Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury](https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury)**
+**[U.S. Bitcoin Reserve update coming in 'next few weeks," White House adviser says](https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says)**
 
-challenges traditional real estate structures.
+White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin 'Materially Undervalued,' Coinbase Report Says—But What About ETH?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-materially-undervalued-coinbase-report-023103728.html)**
-
-Coinbase has maintained a neutral outlook for the crypto market in Q2, citing persistent macroeconomic uncertainty while pointing to early signs of stabilization across major digital assets. Macro Forces Dominate Near-Term Outlook In its latest Charting Crypto report, Coinbase said...
-
-Yahoo Finance • 2h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Dogecoin slides 4%, bitcoin rally pauses as Iran ceasefire optimism lifts equities](https://www.coindesk.com/markets/2026/05/07/dogecoin-slides-4-bitcoin-rally-pauses-as-iran-ceasefire-optimism-lifts-equities)**
+**[Bitcoin (BTC) price prediction: Three signals pointing to a possible jump to $85,000](https://www.coindesk.com/markets/2026/05/07/three-signals-pointing-to-a-possible-bitcoin-move-to-usd85-000)**
 
-Crypto majors took a breather Thursday after a strong run, with bitcoin holding around $81,000 and ether slipping below $2,330 as global equities pushed to fresh records on hopes of a US-Iran deal.
+Bitcoin has broken key cost basis levels, funding rates have flipped neutral, and options positioning is turning supportive. The three signals that suggest further gains may be ahead.
 
-CoinDesk • 21m ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin lenders say institutions want crypto credit to look more like TradFi](https://www.coindesk.com/markets/2026/05/07/bitcoin-lenders-say-institutions-want-crypto-credit-to-look-more-like-tradfi)**
+
+At Consensus 2026 in Miami, executives from Two Prime, Ledn and Lygos Finance said institutional borrowers increasingly prioritize custody, transparency and standardized lending structures over complex DeFi products after the crypto credit collapses of 2022.
+
+CoinDesk • 1h ago
+
+---
+
+**[Wall Street's BNY expands crypto custody in Abu Dhabi, starting with bitcoin, ether](https://www.coindesk.com/business/2026/05/07/bny-world-s-largest-custody-bank-expands-crypto-services-in-abu-dhabi)**
+
+The Wall Street giant, which oversees $59 trillion in client assets, teamed up with Finstreet and ADI Foundation for digital asset infrastructure.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin rallies above $82K as Michael Saylor considers selling](https://finance.yahoo.com/video/bitcoin-rallies-above-82k-as-michael-saylor-considers-selling-161437060.html)**
+
+Scott Melker and OKX Global Managing Partner Haider Rafique discuss bitcoin's (BTC-USD) climb back above $82,000 per token — marking a major milestone in the cryptocurrency's recovery from its sell-off sparked in late 2025 — as long-time bitcoin bull and Strategy (MSTR) co-founder Michael Saylor's considers selling his company's bitcoin holdings."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 14h ago
 
 ---
 
 **[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[Eric Trump's American Bitcoin reports $82 million loss in Q1 amid 'record' mining production](https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1)**
+**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
 
-American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly production on record.
+‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
 
-The Block • 2h ago
-
----
-
-**[Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset](https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset)**
-
-The U.S. president's son, who co-founded American Bitcoin, said there's been a turnaround from traditional institutional firms now embracing bitcoin.
-
-CoinDesk • 10h ago
-
----
-
-**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games)**
-
-The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
-
-The Block • 9h ago
+Fortune • 2d ago
 
 ---
 
@@ -227,9 +225,11 @@ Investopedia • 1d ago
 
 ---
 
-**[White House official reveals new details on Bitcoin reserve](https://www.thestreet.com/crypto/markets/white-house-official-reveals-new-details-on-bitcoin-reserve-)**
+**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games)**
 
-thestreet.com • 6h ago
+The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
+
+The Block • 11h ago
 
 ---
 
@@ -245,25 +245,17 @@ Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by cr
 
 ---
 
-**[Guess at lost Bitcoin, right in the browser](https://news.ycombinator.com/item?id=47958759)**
-
-A slot machine that guesses Satoshi Nakamoto's Bitcoin private keys. Astronomically unlikely. Mathematically non-zero.
-
-⬆️ 3 • 💬 1 • 6d ago • [satoshiguesser.com](https://satoshiguesser.com)
-
----
-
 **[BTC Pulse – 4-factor composite model · Bitcoin Real-time macro signals](https://news.ycombinator.com/item?id=47994391)**
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 2 • 💬 0 • 3d ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 2 • 💬 0 • 4d ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
 **[U.S. Seizes $15B in Bitcoin in Crypto 'Scam' Crackdown](https://news.ycombinator.com/item?id=47971809)**
 
-⬆️ 1 • 💬 2 • 5d ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
+⬆️ 1 • 💬 2 • 6d ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
 
 ---
 
@@ -271,7 +263,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 10h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 13h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -307,11 +299,17 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 ---
 
-**[Iran Proposes Bitcoin Oil Toll](https://news.ycombinator.com/item?id=47958343)**
+**[The wild life and brutal death of a crypto hustler](https://news.ycombinator.com/item?id=48006567)**
 
-Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
+⬆️ 4 • 💬 0 • 2d ago • [thelogic.co](https://thelogic.co/news/the-big-read/kevin-mirshahi-bitcoin-cryptocurrency-influencer-murder/)
 
-⬆️ 1 • 💬 0 • 6d ago • [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage)
+---
+
+**[ABG – An Online Bioinformatics Lab](https://news.ycombinator.com/item?id=48045643)**
+
+Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
+
+⬆️ 1 • 💬 0 • 2h ago • [ABG](https://abg-discord.vercel.app/)
 
 ---
 
@@ -325,7 +323,7 @@ Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 24K • 👍 2K • 💬 453 • ⏱️ 13:36 • 7h ago
+👁️ 30K • 👍 2K • 💬 511 • ⏱️ 13:36 • 10h ago
 
 ---
 
@@ -335,7 +333,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 715 • 💬 407 • ⏱️ 9:29 • 4h ago
+👁️ 14K • 👍 845 • 💬 352 • ⏱️ 9:29 • 7h ago
 
 ---
 
@@ -345,25 +343,7 @@ Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion do
 
 📺 Valuetainment
 
-👁️ 61K • 👍 2K • 💬 556 • ⏱️ 11:41 • 9h ago
-
----
-
-**[SAYLOR SELLING BITCOIN? MSTR DEATH SPIRAL? IS THIS GOOD OR BAD?](https://www.youtube.com/watch?v=pEBVd3ENQNA)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 4K • 👍 587 • 💬 88 • ⏱️ 27:28 • 7h ago
-
----
-
-**[“I’ll keep this stupid Bitcoin.” Famous last words in divorce court. — James Sexton](https://www.youtube.com/watch?v=ay2oigb9KoQ)**
-
-📺 Natalie Brunell
-
-👁️ 3K • 👍 123 • 💬 68 • ⏱️ 1:34 • 6h ago
+👁️ 67K • 👍 2K • 💬 595 • ⏱️ 11:41 • 12h ago
 
 ---
 
@@ -373,17 +353,17 @@ The system is cracking while surveillance expands at full speed. From AI threats
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 507 • ⏱️ 25:32 • 1d ago
+👁️ 31K • 👍 2K • 💬 500 • ⏱️ 25:32 • 1d ago
 
 ---
 
-**[STRATEGY IS CONSIDERING SELLING BITCOIN!!](https://www.youtube.com/watch?v=saX1BdMx-7c)**
+**[This Bitcoin Rally has Convinced me That the BTC Bear Market is Officially Over! I&#39;m Now Bullish!](https://www.youtube.com/watch?v=uPZGeNZjQnA)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 My Financial Friend
+📺 Doctor of Pump & Dump
 
-👁️ 8K • 👍 322 • 💬 271 • ⏱️ 13:16 • 1d ago
+👁️ 7K • 👍 600 • ⏱️ 38:20 • 14h ago
 
 ---
 
@@ -393,25 +373,45 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 101 • ⏱️ 12:02 • 1d ago
+👁️ 49K • 👍 2K • 💬 102 • ⏱️ 12:02 • 1d ago
 
 ---
 
-**[What happens if $MSTR sells Bitcoin? #bitcoin #mstr #strategy #investing](https://www.youtube.com/watch?v=MNJe3wInwpo)**
+**[“I’ll keep this stupid Bitcoin.” Famous last words in divorce court. — James Sexton](https://www.youtube.com/watch?v=ay2oigb9KoQ)**
 
-📺 True North
+📺 Natalie Brunell
 
-👁️ 777 • 👍 27 • 💬 2 • ⏱️ 0:59 • 6h ago
+👁️ 4K • 👍 144 • 💬 62 • ⏱️ 1:34 • 9h ago
 
 ---
 
-**[Jack Mallers | Wall Street Is Rebuilding Around Bitcoin](https://www.youtube.com/watch?v=sXrtngH1pxk)**
+**[BITCOIN: WARNING SIGNAL CONFIRMED?!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=AlQFW1LiOIQ)**
 
-Bitcoin can change the world because the world can't change Bitcoin.” Jack Mallers is back on the show to break down his vision ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 What Bitcoin Did
+📺 Road To $1 Million USD
 
-👁️ 9K • 👍 445 • 💬 81 • ⏱️ 1:48:20 • 10h ago
+👁️ 4K • 👍 294 • 💬 47 • ⏱️ 9:45 • 9h ago
+
+---
+
+**[SAYLOR SELLING BITCOIN? MSTR DEATH SPIRAL? IS THIS GOOD OR BAD?](https://www.youtube.com/watch?v=pEBVd3ENQNA)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 5K • 👍 655 • 💬 93 • ⏱️ 27:28 • 10h ago
+
+---
+
+**[Eric Trump: Bitcoin Will Go to &quot;More Than a Million Dollars&quot;](https://www.youtube.com/watch?v=9GINxw-QKiQ)**
+
+Eric Trump believes Bitcoin is gonna go to more than a million dollars. "We're in the heyday of this industry," he says on the ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 30 • 💬 5 • ⏱️ 0:14 • 13h ago
 
 ---
 
