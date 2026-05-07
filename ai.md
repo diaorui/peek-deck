@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-07T15:12:52.834920+00:00'
+updated: '2026-05-07T17:16:23.054116+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 07, 2026 at 15:12 UTC  
+**Last Updated:** May 07, 2026 at 17:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 1h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 3h ago
 
 ---
 
@@ -49,7 +49,15 @@ Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T va
 
 Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
 
-20h ago
+22h ago
+
+---
+
+**[Coinbase Cuts 700 Jobs and CEO Warns Every Company Will Do the Same](https://www.reddit.com/r/artificial/comments/1t6gf3v/coinbase_cuts_700_jobs_and_ceo_warns_every/)**
+
+Coinbase is cutting 700 jobs, or 14% of its staff, as CEO Brian Armstrong warns every company will follow. Q1 earnings drop today.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 19m ago
 
 ---
 
@@ -57,21 +65,27 @@ Anthropic just partnered with SpaceX and doubled Claude Code rate limits effecti
 
 Hey everyone, I just sent issue #31 of the AI Hacker Newsletter, a weekly roundup of the best AI links from Hacker News. Here are some title examples: Three Inverse Laws of AI Vibe coding and agentic engineering are getting closer than I'd like AI Product Graveyard Telus Uses AI to Alter Call-Agent Accents Lessons for Agentic Coding: What should we do when code is cheap? If you enjoy such content, please consider subscribing here: https://hackernewsai.com/
 
-47m ago
+2h ago
 
 ---
 
 **[Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training](https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/)**
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 11h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 13h ago
 
 ---
 
-**[I got the Enterprise Standard/Plus 30 day trial but I'm not sure if it activated properly? How do I used it for video generation](https://www.reddit.com/r/artificial/comments/1t656i2/i_got_the_enterprise_standardplus_30_day_trial/)**
+**[South Korea names first humanoid robot monk as it accepted the faith's vows](https://www.reddit.com/r/artificial/comments/1t6gkes/south_korea_names_first_humanoid_robot_monk_as_it/)**
 
-So I signed up for the 30 day trial. The trial was available for either business or standard/plus plan. As far as I could see the standard/plus plan includes everything in the business plan but more, so it made sense to go with that one. Plus, when I tried to select the business plan it asked for a business email but when I selected the standard/plus plan, it allowed me to sign up using my regular email address. So I didn't need a business email but got everything in the business plan + standard/plus plan. The issue I am having is, it asked me to add a payment method, which I did, but I can't find anywhere where it says I am on a free trial apart from when I click on the app it had me create. Once I click on that, there's a small banner that says I am on a trial. It's not under subscriptions or anywhere else. So I don't know how I am meant to cancel it before the end of the trial if I do not want to use it. Also, how do I use Veo 3 with this? I went to Agent platform / studio / generate media / video. I think this is the Vertex AI or something? I've never used this before, so it's a little confusing. But under the model settings, it says task > text-to-video and then it says model > veo 3.1 but it says charged will apply for video + audio generation. $0.40/second. This leads me to believe, if I generate media, it will charge my payment method instead of using the trial? Have I done this incorrectly or something? How do I check my trial is being used and I'm not outside of my trial using something that will charge me? Thanks
+A humanoid robot named Gabi joined the Buddhist faith in South Korea on Wednesday, as the country strives to create co-existence between robots and society
 
-5h ago
+🔗 [Daily Express US](http://the-express.com/tech/tech-news/206676/south-korea-first-robot-monk) • 14m ago
+
+---
+
+**[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
+
+15h ago
 
 ---
 
@@ -83,33 +97,19 @@ One speaker (a VC) said his number for evaluating AI-native startups is ARR per 
 
 ---
 
-**[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
+**[I got the Enterprise Standard/Plus 30 day trial but I'm not sure if it activated properly? How do I used it for video generation](https://www.reddit.com/r/artificial/comments/1t656i2/i_got_the_enterprise_standardplus_30_day_trial/)**
 
-12h ago
+So I signed up for the 30 day trial. The trial was available for either business or standard/plus plan. As far as I could see the standard/plus plan includes everything in the business plan but more, so it made sense to go with that one. Plus, when I tried to select the business plan it asked for a business email but when I selected the standard/plus plan, it allowed me to sign up using my regular email address. So I didn't need a business email but got everything in the business plan + standard/plus plan. The issue I am having is, it asked me to add a payment method, which I did, but I can't find anywhere where it says I am on a free trial apart from when I click on the app it had me create. Once I click on that, there's a small banner that says I am on a trial. It's not under subscriptions or anywhere else. So I don't know how I am meant to cancel it before the end of the trial if I do not want to use it. Also, how do I use Veo 3 with this? I went to Agent platform / studio / generate media / video. I think this is the Vertex AI or something? I've never used this before, so it's a little confusing. But under the model settings, it says task > text-to-video and then it says model > veo 3.1 but it says charged will apply for video + audio generation. $0.40/second. This leads me to believe, if I generate media, it will charge my payment method instead of using the trial? Have I done this incorrectly or something? How do I check my trial is being used and I'm not outside of my trial using something that will charge me? Thanks
 
----
-
-**[Pre-Deployment AI Evaluations](https://www.reddit.com/r/artificial/comments/1t6al9u/predeployment_ai_evaluations/)**
-
-The US government signed agreements with Google DeepMind, Microsoft, and xAI to evaluate frontier AI models before public release. China's 2023 Generative AI rules already require pre-release security assessments and model registration with the Cyberspace Administration of China. China's approach is tied directly to content control and state supervision, while the U.S. approach is framed around national security and cybersecurity. Most importantly, in China, there is a mandatory registration requirement and, in the US, at least for now, this is a voluntary effort. Will the pre-release review mechanism stay narrow and technical or grow into something closer to a licensing regime? Will it remain voluntary? Link here.
-
-1h ago
+8h ago
 
 ---
 
-**[AI Podcasts made learning economics way less painful for me](https://www.reddit.com/r/artificial/comments/1t5q6pd/ai_podcasts_made_learning_economics_way_less/)**
+**[Robert Evans on AI psychosis](https://www.reddit.com/r/artificial/comments/1t6f19i/robert_evans_on_ai_psychosis/)**
 
-I’m basically a total beginner when it comes to finance and economics maybe 2 or 3 months ago, and honestly trying to learn from reports or books used to completely destroy me. Too many charts, numbers, random terms I have to Google every 2 minutes. And I started using AI Podcast to kind of brute force my way into learning this stuff, and I’m honestly surprised by how much it helped. Instead of sitting there suffering through a 70-page report, I can turn it into conversational audio and just listen while driving or walking around. But those tools actually feel slightly different. Like NotebookLM feels more “AI teacher explains the document to you.” It’s really good at organizing information and walking through the important points clearly. And I enjoy Genspark AI Pods more because it feels more like an actual show or podcast episode. The tone feels lighter, less dry, less like I’m studying for an exam. Sometimes it genuinely just sounds like casually discussing the topic instead of reading a report at me. Not saying this magically turned me into some economics genius lol. But it definitely made learning feel way less painful and boring.
+Surprised it took this long!
 
-17h ago
-
----
-
-**[Healthcare AI Is Absorbing Institutional Knowledge It Can't Actually Hold](https://www.reddit.com/r/artificial/comments/1t5y2bc/healthcare_ai_is_absorbing_institutional/)**
-
-Investors | Founders | Operators It's tricky when you're responsible for people, especially in the healthcare sector, and you include AI into the infrastructure in a way that puts the livelihood of those people at risk. One of the more recent developments did exactly that. If there's no one else speaking on it, there should be. Because not only do you have a system that takes a lot of the knowledge and know-how of the ones who were once running things and hands it over to a system that is far from perfect and is known to error and fault. We now also have a situation where, depending on how serious those failures may present themselves, the people supposedly being served are now at an even greater risk of exposure. So what happens when the water runs out. Anthropic | Blackstone | Healthcare
-
-12h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/0gr3uXLFSlVYADPFQ0J9OK?si=d1d8eab26d6d474c) • 1h ago
 
 ---
 
@@ -117,79 +117,81 @@ Investors | Founders | Operators It's tricky when you're responsible for people,
 
 ## Google News: "ai"
 
-**[‘No one has done this in the wild’: study observes AI replicate itself](https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself)**
-
-World is approaching point where no one can shut down a rogue AI, says director of body behind study
-
-The Guardian • 6h ago
-
----
-
-**[The AI fitness instructors selling unreal gains](https://www.bbc.com/sport/articles/c5ye7dnxv86o)**
-
-A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims.
-
-BBC • 9h ago
-
----
-
 **[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
 
 The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
 
-CNBC • 45m ago
+CNBC • 2h ago
 
 ---
 
-**[Core Scientific Bets on 1.5 GW AI Campus in Oklahoma](https://www.datacenterknowledge.com/build-design/core-scientific-bets-on-1-5-gw-ai-campus-in-oklahoma)**
+**[‘No one has done this in the wild’: study observes AI replicate itself](https://www.theguardian.com/technology/2026/may/07/no-one-has-done-this-in-the-wild-study-observes-ai-replicate-itself)**
 
-Acquisition, behind-the-meter power strategy push Muskogee toward hyperscale territory.
+World is approaching point where no one can shut down a rogue AI, says director of body behind study
 
-Data Center Knowledge • 12m ago
-
----
-
-**[John Ternus on AI said exactly what I wanted to hear](https://9to5mac.com/2026/05/07/john-ternus-on-ai-said-exactly-what-i-wanted-to-hear/)**
-
-Apple’s incoming CEO John Ternus recently explained his and Apple’s view of AI, and said exactly what I was hoping to hear.
-
-9to5Mac • 32m ago
-
----
-
-**[Five Ways A.I. Search Beats an Old-School Google Search](https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html)**
-
-The New York Times • 6h ago
-
----
-
-**[Google’s plan to win the AI health race? Play nice with Apple and other rivals](https://www.cnn.com/2026/05/07/tech/google-ai-health-fitbit)**
-
-Google wants to be your go-to fitness coach and wellness adviser… even if you have an Apple Watch.
-
-CNN • 1h ago
-
----
-
-**[Focus areas for The Anthropic Institute](https://www.anthropic.com/research/anthropic-institute-agenda)**
-
-At The Anthropic Institute (TAI), we’ll be using the information we can access from within a frontier lab to investigate AI’s impact on the world, and sharing our learnings with the public. Here, we’re sharing the questions that drive our research agenda.
-
-Anthropic • 4h ago
+The Guardian • 8h ago
 
 ---
 
 **[U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70)**
 
-WSJ • 15h ago
+WSJ • 17h ago
 
 ---
 
-**[Tony Robbins on AI taking jobs: You need to have an honest chat with yourself](https://finance.yahoo.com/news/tony-robbins-on-ai-taking-jobs-you-need-to-have-an-honest-chat-with-yourself-215251987.html)**
+**[Trump posts wild new AI meme trolling Biden, Obama and Clinton with autopen, ice cream and cocaine references](https://ca.news.yahoo.com/trump-posts-wild-ai-meme-124020807.html)**
 
-Bestselling author, entrepreneur, and philanthropist Tony Robbins says it's time to take a hard look at your chosen profession.
+Trump has used AI images to bolster theories or controversies about his political opponents, despite the images being fake
 
-Yahoo Finance • 17h ago
+Yahoo News Canada • 4h ago
+
+---
+
+**[Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips](https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html)**
+
+The rocket company’s new semiconductor factory, called Terafab, is part of the billionaire’s increasing efforts to dominate artificial intelligence.
+
+The New York Times • 1h ago
+
+---
+
+**[Anthropic’s new SpaceX compute deal comes as anger—and conspiracy theories—spread around AI data centers](https://fortune.com/2026/05/07/big-tech-will-spend-nearly-700-billion-on-ai-this-year-no-one-knows-where-the-buildout-ends/)**
+
+The scramble to build ever-larger AI campuses is fueling both legitimate community concerns and increasingly bizarre online fears
+
+Fortune • 34m ago
+
+---
+
+**[Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)**
+
+We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.
+
+Anthropic • 1d ago
+
+---
+
+**[Parental controls are not the answer to the AI slop spamming our kids](https://www.seattletimes.com/opinion/parental-controls-are-not-the-answer-to-the-ai-slop-spamming-our-kids/)**
+
+We don’t outsource public health to individual families. And make no mistake: The potential developmental harms of AI slop are a public health concern.
+
+The Seattle Times • 40m ago
+
+---
+
+**[Why “AI-Powered” thinking will leave your company behind](https://www.fastcompany.com/91538585/why-ai-powered-thinking-will-leave-your-company-behind)**
+
+AI success comes from redesigning processes from scratch rather than automating old habits.
+
+Fast Company • 22m ago
+
+---
+
+**[Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast](https://finance.yahoo.com/sectors/technology/articles/arm-stock-slides-as-chip-supply-worries-overshadow-upbeat-ai-fueled-revenue-forecast-200744323.html)**
+
+Arm Holdings forecast first-quarter revenue above Wall Street expectations on Wednesday, benefiting from higher adoption of its chip technology as tech companies spend heavily on artificial intelligence compute.  Arm shares jumped 12% in after-hours trading, but reversed course ‌to drop 5.49% after executives told analysts on a conference call that they have not yet secured supplies to meet ‌the demand for a new chip and after analysts probed about the costs of getting into the business of making its own chips.  The company expects quarterly revenue of $1.26 ​billion, compared with analysts' estimates of $1.25 billion, according to data compiled by LSEG.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -201,7 +203,7 @@ Yahoo Finance • 17h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1690 • 💬 1111 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1694 • 💬 1113 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -209,13 +211,13 @@ Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines witho
 
 Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:
 
-⬆️ 538 • 💬 299 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+⬆️ 539 • 💬 299 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
 
 ---
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 534 • 💬 349 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 537 • 💬 349 • 2d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
 
 ---
 
@@ -253,15 +255,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 **[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
 
-⬆️ 142 • 💬 42 • 2d ago
-
----
-
-**[OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://news.ycombinator.com/item?id=48010774)**
-
-A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
-
-⬆️ 119 • 💬 113 • 2d ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 142 • 💬 45 • 2d ago
 
 ---
 
@@ -273,19 +267,17 @@ Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the divi
 
 ---
 
+**[Motherboard sales are now collapsing amid unprecedented shortages fueled by AI](https://news.ycombinator.com/item?id=48050540)**
+
+Fewer people are buying parts and building new PCs from scratch.
+
+⬆️ 93 • 💬 58 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[Google’s New AI Is The OpenClaw Killer](https://www.youtube.com/watch?v=nov9uoIQt6g)**
-
-Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1-0-airevolutionx-lVqpUi Google is testing Remy, ...
-
-📺 AI Revolution
-
-👁️ 39K • 👍 1K • 💬 55 • ⏱️ 13:34 • 16h ago
-
----
 
 **[Google&#39;s INSANE new AI Agent](https://www.youtube.com/watch?v=vqBSNTZeLsg)**
 
@@ -293,17 +285,7 @@ Check out tastytrade here: https://tastytrade.com/unleashed. My Links ➡️ Twi
 
 📺 Wes Roth
 
-👁️ 14K • 👍 372 • 💬 136 • ⏱️ 1:29:12 • 11h ago
-
----
-
-**[OH SH*T! The Banks are Dumping AI Loans!](https://www.youtube.com/watch?v=eIz2MrR5xMQ)**
-
-The biggest U.S. banks are quietly dumping their AI debt — a massive red flag that the AI bubble and credit cycle are about to ...
-
-📺 Steven Van Metre
-
-👁️ 43K • 👍 2K • 💬 212 • ⏱️ 16:12 • 15h ago
+👁️ 16K • 👍 402 • 💬 158 • ⏱️ 1:29:12 • 13h ago
 
 ---
 
@@ -313,7 +295,37 @@ Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60 Are y
 
 📺 Dan Martell
 
-👁️ 4K • 👍 429 • 💬 60 • ⏱️ 22:46 • 2h ago
+👁️ 9K • 👍 777 • 💬 81 • ⏱️ 22:46 • 4h ago
+
+---
+
+**[How to Make AI Videos That Really Look Like You (Full Guide)](https://www.youtube.com/watch?v=st7NRTxeKC8)**
+
+Make AI Videos with Yourself using OpenArt https://youricreates.com/realistic-AI In this video, I show the full workflow I used to ...
+
+📺 Youri van Hofwegen
+
+👁️ 5K • ⏱️ 13:14 • 2h ago
+
+---
+
+**[Google’s New AI Is The OpenClaw Killer](https://www.youtube.com/watch?v=nov9uoIQt6g)**
+
+Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1-0-airevolutionx-lVqpUi Google is testing Remy, ...
+
+📺 AI Revolution
+
+👁️ 42K • 👍 1K • 💬 55 • ⏱️ 13:34 • 18h ago
+
+---
+
+**[OH SH*T! The Banks are Dumping AI Loans!](https://www.youtube.com/watch?v=eIz2MrR5xMQ)**
+
+The biggest U.S. banks are quietly dumping their AI debt — a massive red flag that the AI bubble and credit cycle are about to ...
+
+📺 Steven Van Metre
+
+👁️ 45K • 👍 2K • 💬 215 • ⏱️ 16:12 • 17h ago
 
 ---
 
@@ -323,7 +335,7 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 151K • 👍 4K • 💬 507 • ⏱️ 21:59 • 2d ago
+👁️ 152K • 👍 4K • 💬 508 • ⏱️ 21:59 • 2d ago
 
 ---
 
@@ -333,7 +345,7 @@ Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots
 
 📺 ejunky66
 
-👁️ 2K • 👍 78 • 💬 8 • ⏱️ 1:00 • 2h ago
+👁️ 6K • 👍 241 • 💬 12 • ⏱️ 1:00 • 4h ago
 
 ---
 
@@ -343,7 +355,7 @@ IBM CEO Arvind Krishna assesses government oversight of artificial intelligence,
 
 📺 Fox Business
 
-👁️ 13K • 👍 197 • 💬 107 • ⏱️ 9:05 • 1d ago
+👁️ 13K • 👍 199 • 💬 108 • ⏱️ 9:05 • 1d ago
 
 ---
 
@@ -353,33 +365,35 @@ The economy is sending clear warning signs, and today we break down the real sto
 
 📺 I Allegedly
 
-👁️ 13K • 👍 1K • 💬 213 • ⏱️ 10:43 • 1d ago
+👁️ 13K • 👍 1K • 💬 214 • ⏱️ 10:43 • 1d ago
 
 ---
 
-**[Teaching Senior Citizens How to Spot AI](https://www.youtube.com/watch?v=nehTMYzpGYE)**
+**[The Only 5 Ways To Make Money With AI In 2026](https://www.youtube.com/watch?v=0UACvpDYEBk)**
 
-COME SEE ME LIVE: https://www.noelmillerlive.com/ MY NEWEST HOUR: https://www.youtube.com/watch?v=N3eLoqfUNu4 ...
+FREE Startup Playbook: https://www.wearenocode.com/free-playbook 🎖️ FREE Community: ...
 
-📺 Noel Miller
+📺 Christian Peverelli - WeAreNoCode
 
-👁️ 138K • 👍 12K • 💬 739 • ⏱️ 17:55 • 1d ago
-
----
-
-**[Anthropic&#39;s Dario Amodei and JPMorgan&#39;s Jamie Dimon on AI boom, AI regulation &amp; impact on jobs](https://www.youtube.com/watch?v=FG5JsLHPW_I)**
-
-CNBC's Andrew Ross Sorkin discusses key takeaways from his conversation with Anthropic CEO Dario Amodei and JPMorgan ...
-
-📺 CNBC Television
-
-👁️ 41K • 👍 453 • 💬 55 • ⏱️ 5:23 • 1d ago
+👁️ 5K • 👍 201 • 💬 13 • ⏱️ 12:03 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
+
+**[privacy-filter](https://huggingface.co/Open-OSS/privacy-filter)**
+
+*Open OSS*
+
+A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and runtime control over precision/recall.
+
+`token-classification` `1.4B`
+
+⬇️ 244,168 • ❤️ 552 • 17h ago
+
+---
 
 **[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
 
@@ -389,7 +403,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 946,264 • ❤️ 3,707 • 1d ago
+⬇️ 946,264 • ❤️ 3,709 • 1d ago
 
 ---
 
@@ -401,7 +415,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 71,149 • ❤️ 339 • 1d ago
+⬇️ 71,149 • ❤️ 354 • 1d ago
 
 ---
 
@@ -413,7 +427,19 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 165,240 • ❤️ 1,337 • 14d ago
+⬇️ 165,240 • ❤️ 1,337 • 15d ago
+
+---
+
+**[ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**
+
+*Zyphra*
+
+ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling in mathematical and coding tasks, competitive with larger models. It's suitable for on-device deployment and high-performance inference.
+
+`8.8B`
+
+⬇️ 539 • ❤️ 166 • 15h ago
 
 ---
 
@@ -429,30 +455,6 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 ---
 
-**[privacy-filter](https://huggingface.co/Open-OSS/privacy-filter)**
-
-*Open OSS*
-
-A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and runtime control over precision/recall.
-
-`token-classification` `1.4B`
-
-⬇️ 244,168 • ❤️ 153 • 15h ago
-
----
-
-**[ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**
-
-*Zyphra*
-
-ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling in mathematical and coding tasks, competitive with larger models. It's suitable for on-device deployment and high-performance inference.
-
-`8.8B`
-
-⬇️ 539 • ❤️ 153 • 13h ago
-
----
-
 **[LTX2.3-10Eros](https://huggingface.co/TenStrip/LTX2.3-10Eros)**
 
 *TenStrip*
@@ -461,7 +463,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 28,215 • ❤️ 146 • 13h ago
+⬇️ 28,215 • ❤️ 147 • 15h ago
 
 ---
 
@@ -477,15 +479,15 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 ---
 
-**[Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**
+**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
 
-*Mistral AI_*
+*Google*
 
-Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, excelling at instruction following, reasoning, and coding tasks with configurable reasoning effort and native function calling for agentic applications.
+Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
 
-`127.7B`
+`any-to-any` `469.5M`
 
-⬇️ 18,272 • ❤️ 293 • 3d ago
+⬇️ 19,908 • ❤️ 136 • 2d ago
 
 ---
 
@@ -497,7 +499,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,771,851 • ❤️ 1,169 • 13d ago
+⬇️ 1,771,851 • ❤️ 1,171 • 13d ago
 
 ---
 
@@ -511,7 +513,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 59 • 💬 3 • ⭐ 70,738 • 16mo ago
+▲ 60 • 💬 3 • ⭐ 70,738 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -525,7 +527,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 72 • 💬 6 • ⭐ 3,151 • 3mo ago
+▲ 73 • 💬 6 • ⭐ 3,374 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -537,23 +539,9 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 31 • 💬 3 • ⭐ 23,270 • 9mo ago
+▲ 31 • 💬 3 • ⭐ 23,370 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 169 • 💬 10 • ⭐ 46,723 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -568,6 +556,20 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 ▲ 16 • 💬 3 • ⭐ 9,413 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 169 • 💬 10 • ⭐ 46,758 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -592,7 +594,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 RLDX-1 is a general-purpose robotic policy for dexterous manipulation that integrates heterogeneous modalities through a Multi-Stream Action Transformer architecture, demonstrating superior performance in complex real-world tasks compared to existing vision-language-action models.
 
-▲ 80 • 💬 1 • ⭐ 70 • 2d ago
+▲ 83 • 💬 1 • ⭐ 70 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03269) • [💻 code](https://github.com/RLWRLD/RLDX-1) • [🔗 project](http://rlwrld.ai/rldx-1)
 
@@ -606,7 +608,7 @@ RLDX-1 is a general-purpose robotic policy for dexterous manipulation that integ
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 89 • 💬 10 • ⭐ 8,215 • 3d ago
+▲ 90 • 💬 10 • ⭐ 8,215 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -659,7 +661,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.8k • 🔱 702 • 2d ago
+⭐ 10.9k • 🔱 703 • 2d ago
 
 ---
 
@@ -669,7 +671,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.7k • 🔱 441 • 8h ago
+⭐ 5.7k • 🔱 444 • 27m ago
 
 ---
 
@@ -689,7 +691,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 367 • 3h ago
+⭐ 5.1k • 🔱 368 • 5h ago
 
 ---
 
@@ -699,7 +701,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.9k • 🔱 473 • 32m ago
+⭐ 3.9k • 🔱 477 • 2h ago
 
 ---
 
@@ -717,7 +719,7 @@ MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M
 
 `Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
 
-⭐ 2.8k • 🔱 358 • 1d ago
+⭐ 2.8k • 🔱 359 • 1d ago
 
 ---
 
@@ -727,7 +729,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 350 • 13d ago
+⭐ 2.7k • 🔱 351 • 13d ago
 
 ---
 
@@ -737,7 +739,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 660 • 7d ago
+⭐ 2.4k • 🔱 662 • 7d ago
 
 ---
 

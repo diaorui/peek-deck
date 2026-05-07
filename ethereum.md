@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T15:12:52.847723+00:00'
+updated: '2026-05-07T17:16:23.068701+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 15:12 UTC  
+**Last Updated:** May 07, 2026 at 17:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -2.3%  
-**7d:** +0.4%  
-**30d:** +5.2%  
-**90d:** +10.0%  
-**1y:** +4.4%  
+**7d:** -0.1%  
+**30d:** +4.7%  
+**90d:** +9.4%  
+**1y:** +3.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.61B
+**Market Cap:** $276.87B
 Rank #2
 
 **Circulating Supply:** 120,687,104 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.5%
+-53.6%
 
 **All-Time Low:** $0.43
-+531651.0%
++529463.8%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
+
+---
+
+**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
+
+1h ago
 
 ---
 
@@ -84,19 +90,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[An immutable L2 where *you* decide what is legal :)](https://www.reddit.com/r/ethereum/comments/1t628fw/an_immutable_l2_where_you_decide_what_is_legal/)**
-
-To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
-
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 8h ago
-
----
-
 **[he got debanked. so he's building the fix.](https://www.reddit.com/r/ethereum/comments/1t5iz3j/he_got_debanked_so_hes_building_the_fix/)**
 
 anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-22h ago
+1d ago
+
+---
+
+**[An immutable L2 where *you* decide what is legal :)](https://www.reddit.com/r/ethereum/comments/1t628fw/an_immutable_l2_where_you_decide_what_is_legal/)**
+
+To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
+
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 10h ago
 
 ---
 
@@ -140,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Crypto is more or less illegal in my country. How can I hide it legally?](https://www.reddit.com/r/ethereum/comments/1t2yz4h/crypto_is_more_or_less_illegal_in_my_country_how/)**
-
-I live in a country where cryptocurrency is somewhat illegal. I would like to purchase crypto on a centralized exchange and withdraw it to my wallet. Then, I want to hide the funds from the public. I am not looking for mixers or tumblers. Instead, I need a method or strategy that would allow me to later prove the source of funds to exchanges and banks. Is there a protocol, exchange, tool, coin, or token that would let me do this? Being able to link the wallet of origin to exchanges and banks later is a must. Edit: What kind of anti-crypto person would downvote this question?
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +154,7 @@ I live in a country where cryptocurrency is somewhat illegal. I would like to pu
 
 By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
 
-Decrypt • 18h ago
+Decrypt • 20h ago
 
 ---
 
@@ -172,15 +170,7 @@ The Block • 1d ago
 
 The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
 
-CoinDesk • 44m ago
-
----
-
-**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
-
-The longer time horizon you consider, the more one of these assets stands out.
-
-The Motley Fool • 3h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -188,7 +178,7 @@ The Motley Fool • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 4h ago
 
 ---
 
@@ -196,7 +186,23 @@ Fortune • 1h ago
 
 Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
+
+MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
+
+markets.businessinsider.com • 15h ago
+
+---
+
+**[Ethereum Price Struggles To Hold Strength, Downside Risks Build](https://www.tradingview.com/news/newsbtc:67db13768094b:0-ethereum-price-struggles-to-hold-strength-downside-risks-build/)**
+
+Ethereum price started a fresh increase and remained stable above $2,380. ETH is now correcting gains and might decline if it trades below $2,300.Ethereum Price Trims GainsEthereum price managed to stay above the $2,320 support and started a fresh increase, like Bitcoin. ETH price gained pace for a…
+
+TradingView • 12h ago
 
 ---
 
@@ -206,27 +212,19 @@ Barron's • 2d ago
 
 ---
 
-**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
-
-MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
-
-markets.businessinsider.com • 13h ago
-
----
-
-**[Ethereum Price Struggles To Hold Strength, Downside Risks Build](https://www.tradingview.com/news/newsbtc:67db13768094b:0-ethereum-price-struggles-to-hold-strength-downside-risks-build/)**
-
-Ethereum price started a fresh increase and remained stable above $2,380. ETH is now correcting gains and might decline if it trades below $2,300.Ethereum Price Trims GainsEthereum price managed to stay above the $2,320 support and started a fresh increase, like Bitcoin. ETH price gained pace for a…
-
-TradingView • 10h ago
-
----
-
 **[Ethereum Founder Vitalik Says Five Banks on One Chain Is Not a Blockchain Solution](https://coinpedia.org/news/ethereum-founder-vitalik-says-five-banks-on-one-chain-is-not-a-blockchain-solution/)**
 
 Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
 
 Coinpedia • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH challenge resistance, XRP shows strength](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-challenge-resistance-xrp-shows-strength-202605060355)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extend gains on Wednesday, rising over 3.4%, 2%, and 2%, respectively, so far this week. BTC and ETH are approaching their key resistance zones that could determine their next directional move.
+
+FXStreet • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ Ethereum is currently fighting with a major trend line after breaking above resi
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 277 • 💬 60 • ⏱️ 8:18 • 16h ago
+👁️ 5K • 👍 282 • 💬 60 • ⏱️ 8:18 • 18h ago
 
 ---
 
@@ -250,17 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 166 • 💬 30 • ⏱️ 18:13 • 21h ago
-
----
-
-**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vw2uR2gQs-Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 190 • 👍 25 • 💬 5 • ⏱️ 4:38 • 4h ago
+👁️ 4K • 👍 171 • 💬 30 • ⏱️ 18:13 • 1d ago
 
 ---
 
@@ -270,17 +258,17 @@ Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Et
 
 📺 The Block
 
-👁️ 2K • 👍 84 • 💬 17 • ⏱️ 22:10 • 20h ago
+👁️ 2K • 👍 84 • 💬 17 • ⏱️ 22:10 • 22h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4eO23rYUsYY)**
+**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vw2uR2gQs-Y)**
 
-BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 6K • 👍 293 • 💬 299 • ⏱️ 16:18 • 12h ago
+👁️ 250 • 👍 26 • 💬 5 • ⏱️ 4:38 • 6h ago
 
 ---
 
@@ -290,17 +278,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 95 • 💬 8 • ⏱️ 7:39 • 1d ago
+👁️ 2K • 👍 95 • 💬 10 • ⏱️ 7:39 • 1d ago
 
 ---
 
-**[Ethereum Co-Founder: How Big Tech Will Use AI To Control You (And How Crypto Stops It) | E170](https://www.youtube.com/watch?v=j4_MME6O9Cs)**
+**[BITCOIN &amp; ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4eO23rYUsYY)**
 
-Joseph Lubin, co-founder of Ethereum and CEO of Consensys, warns that big tech is racing to build centralized AI systems that ...
+BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 When Shift Happens
+📺 Crypto World
 
-👁️ 161 • 👍 32 • 💬 13 • ⏱️ 1:13:25 • 1h ago
+👁️ 7K • 👍 301 • 💬 301 • ⏱️ 16:18 • 14h ago
+
+---
+
+**[ETH, ZEC, TRUMP, BTC, LINK, SOL, DOT, TON, NEAR, SKYAI, INJ, VVV, XRP, DEEP, SNDK: Live TA](https://www.youtube.com/watch?v=HlfLAFoztc8)**
+
+In this Elite Live TA session, The Trading Parrot delivers comprehensive technical analysis on Bitcoin at $83K, plus ETH, ZEC, ...
+
+📺 The Trading Parrot
+
+👁️ 1K • 👍 160 • 💬 8 • ⏱️ 1:35:09 • 4h ago
+
+---
+
+**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
+
+In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
+
+📺 The Value Thinker
+
+👁️ 9K • 👍 583 • 💬 140 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -310,27 +318,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 280 • 💬 104 • ⏱️ 19:21 • 1d ago
+👁️ 7K • 👍 281 • 💬 104 • ⏱️ 19:21 • 2d ago
 
 ---
 
-**[Crypto Psychological Trading 7 May ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=iTc2F8RSUaY)**
+**[Ethereum MAJOR Sell Volume Confirms Rejection And Crash?](https://www.youtube.com/watch?v=9CQfOiya1cA)**
 
-TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Vibe With Sahil
+📺 Trade Confident
 
-👁️ 1K • 👍 149 • 40m ago
-
----
-
-**[🎯 Ethereum Could Beat Altcoins By 18% This Year](https://www.youtube.com/watch?v=w5r0Fft-1Mw)**
-
-Everyone exits crypto in a bear market. But there's a quiet pattern that keeps paying out. This one number changes how you think ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 10 • 💬 1 • ⏱️ 0:57 • 36m ago
+👁️ 384 • 👍 14 • 💬 4 • ⏱️ 5:21 • 22h ago
 
 ---
 

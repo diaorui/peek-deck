@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-07T15:12:52.842455+00:00'
+updated: '2026-05-07T17:16:23.062627+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 15:12 UTC  
+**Last Updated:** May 07, 2026 at 17:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,634.28
+### $79,900.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +2.6%  
-**30d:** +12.9%  
-**90d:** +15.8%  
-**1y:** -22.2%  
+**24h:** -1.8%  
+**7d:** +2.1%  
+**30d:** +12.4%  
+**90d:** +15.2%  
+**1y:** -22.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1605.09B
+**Market Cap:** $1599.93B
 Rank #1
 
-**Circulating Supply:** 20,025,993 BTC
+**Circulating Supply:** 20,026,021 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.4%
+-36.7%
 
 **All-Time Low:** $67.81
-+118212.9%
++117664.3%
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 Once a legacy cross-border payments firm, MoneyGram has revamped itself to become more crypto-native over the past three years.
 
-🔗 [Fortune](https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/) • 1h ago
-
----
-
-**[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
-
-21h ago
+🔗 [Fortune](https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/) • 3h ago
 
 ---
 
@@ -95,37 +89,7 @@ Once a legacy cross-border payments firm, MoneyGram has revamped itself to becom
 
 Remember: 1 BTC = 1 BTC
 
-1h ago
-
----
-
-**[BLOOMBERG: "Morgan Stanley is rolling out crypto trading on its E*Trade platform for 50bps/trade, undercutting Schwab's 75bps (who undercut Coinbase)". Soon, it'll be pretty dirt cheap to trade Bitcoin everywhere- just was we saw with btc ETF exp ratios prior to launch.](https://www.reddit.com/r/Bitcoin/comments/1t5xz1u/bloomberg_morgan_stanley_is_rolling_out_crypto/)**
-
-12h ago
-
----
-
-**[Daily Discussion, May 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1t61xj6/daily_discussion_may_07_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
-
----
-
-**[Wouldn’t it be crazy if we keep going up 🌝](https://www.reddit.com/r/Bitcoin/comments/1t5takr/wouldnt_it_be_crazy_if_we_keep_going_up/)**
-
-I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
-
-15h ago
-
----
-
-**[FIRE with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t5q08f/fire_with_bitcoin/)**
-
-Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
-
-18h ago
+3h ago
 
 ---
 
@@ -133,29 +97,73 @@ Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Wo
 
 Morgan Stanley holds $269.9 million in Spot Bitcoin ETF positions, with the bulk of that exposure sitting in GBTC – the Grayscale Bitcoin Trust – according to recent 13F filings submitted to the SEC. The bank’s own Spot Bitcoin ETF, trading under the ticker MSBT, pulled in over $200 million in assets within weeks of its May 2026 launch, placing it ahead of most traditional ETF debuts by any measure. Here is the detail that reframes the entire story: Morgan Stanley’s 15,000-plus financial advisors were not cleared to recommend these products. Every dollar that came in during those first weeks arrived because clients asked for it themselves. That is not a distribution success story. That is a demand signal, and it raises a structural question worth sitting with: what does it mean when high-net-worth clients are pulling toward Bitcoin before advisors are permitted to push it? In the broker-dealer world, ‘unsolicited’ has a specific regulatory meaning. Think of it like a restaurant where the waiter is not allowed to recommend the steak, but you can still order it if you ask. FINRA’s suitability rules require advisors to have formal internal approval before proactively pitching any investment product to clients. Without that approval, the product sits on the menu with no one allowed to describe it. Morgan Stanley’s advisors are currently in that position with Spot Bitcoin ETFs. They cannot bring up MSBT or GBTC in a client meeting unprompted. But if a client walks in and says, ‘I want Bitcoin exposure through a regulated product,’ the advisor can execute that trade – and it gets logged as an unsolicited order. That is precisely what happened during MSBT’s first two weeks. Amy Oldenburg, head of digital assets at Morgan Stanley, confirmed it directly at the Consensus conference in Miami Beach: ‘Almost all of that first week or two of activity was self-directed. It was not our advisors that were selling this.’ GBTC, the Grayscale Bitcoin Trust that forms the core of Morgan Stanley’s $269.9 million position, has historically been the vehicle institutional-grade investors reached for when they wanted regulated Bitcoin exposure before newer Spot Bitcoin ETF structures became available. Morgan Stanley clients seeking that exposure were not waiting for permission – they were finding the path themselves. The $269.9 million position disclosed in Morgan Stanley’s 13F filings is concentrated heavily in GBTC, making the firm one of the largest institutional holders of that fund. Layered on top of that existing position, the newly launched MSBT gathered $200 million in assets under management within its opening weeks, a pace that puts it in rare company among ETF launches across any asset class. To calibrate the scale: total Spot Bitcoin ETF assets under management across all U.S.-listed products have grown significantly since the January 2024 approval wave, with cumulative net inflows reaching $59.6 billion as Wall Street’s institutional appetite has proven more durable than many skeptics expected. Morgan Stanley’s combined position remains a fraction of that total – but the structural significance is not the dollar size. It is who is holding it and under what conditions. MSBT launched with a 0.14% sponsor fee, the lowest among Bitcoin ETPs at launch – a deliberate pricing move that signals Morgan Stanley is competing for long-term market share, not simply checking a product box. Custody sits with Coinbase for Bitcoin cold storage and BNY Mellon for cash administration, a dual-custody model that the bank has positioned as a security differentiator. BlackRock’s IBIT remains the dominant fund by assets, but the institutional permission dynamic that drove IBIT’s early growth is now playing out in parallel at Morgan Stanley – with one key difference: this time, the bank controls the product directly. The tension at the center of this story is structural. Morgan Stanley is simultaneously a holder of Bitcoin ETF positions, an issuer of a Bitcoin ETF product, and a firm whose advisor network is currently restricted from actively marketing that product. That is not a contradiction; it is a sequencing strategy, and it is how large institutions have historically managed regulatory exposure when entering new asset classes. The institutional adoption pattern here mirrors what played out with BlackRock and Fidelity’s ETF launches in 2024: proprietary and client positions accumulate quietly through unsolicited channels while the compliance and internal approval infrastructure catches up. Advisor channel dynamics have consistently lagged institutional positioning across the ETF landscape, Morgan Stanley is not an outlier; it is following the same playbook at larger scale. Oldenburg framed the longer arc clearly: ‘We’ll live in a hybrid world for quite some time.’ The bank is simultaneously building out spot crypto trading through its E*TRADE platform – expected to launch in the first half of 2026 with Bitcoin, Ethereum, and Solana – while studying tokenized financial instruments as a decade-long infrastructure project. That is not a firm hedging its bets. That is a firm building a vertically integrated crypto stack.
 
-🔗 [99Bitcoins](https://99bitcoins.com/news/bitcoin-btc/morgan-stanley-spot-bitcoin-etf-bet-explained/) • 25m ago
+🔗 [99Bitcoins](https://99bitcoins.com/news/bitcoin-btc/morgan-stanley-spot-bitcoin-etf-bet-explained/) • 2h ago
 
 ---
 
-**[Does the Pope know this wouldn't have happened with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t60xo3/does_the_pope_know_this_wouldnt_have_happened/)**
+**[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
 
-“‘Would it matter to you if I told you I’m Pope Leo?’” the pope asked his bank, according to the Rev. Tom McCarthy, a longtime friend of the Chicago-born pontiff.
-
-🔗 [Chicago Sun-Times](https://chicago.suntimes.com/pope-leo-xiv/2026/05/06/pope-leo-bank-phone-call-address-change) • 10h ago
+23h ago
 
 ---
 
-**[⚡ Lightning Thursday! May 07, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1t62zzo/lightning_thursday_may_07_2026_explore_the/)**
+**[Bitcoin changed my mindset](https://www.reddit.com/r/Bitcoin/comments/1t6579y/bitcoin_changed_my_mindset/)**
 
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+I still remember back in the days, I had FOMO if Bitcoin was pumping. I needed to buy more because it was going “tO tHe mOoN”. Back when I still was watching videos on youtube. You know, the guys with ridiculous thumbnails? Back then, I had no clue of what Bitcoin actually was, how it worked and why it had value. Now, I believe I can say I know a lot more about it. But I’m still not an expert (and probably never will be). But I do know that I don’t have FOMO anymore, not one bit. Setting up a DCA plan (thanks Relai) helped me a lot, but studying Bitcoin helped me even more. I know it’s a scarce asset, I know why it has value and I’m pretty sure that more and more people will see this too. Sure, it’s nice if the price goes up. But I’m also glad to buy cheap(ish) sats. So yeah, now I’m glad if there is a price drop, I’m not saying that I won’t panic if it goes back down to 10K, But even then I will buy some sats for sure! Overall it’s just nice to have some peace of mind. And in hindsight, it’s ridiculous to have watched those youtubers, but it’s all a part of growing and learning I guess. ✌🏻
 
-8h ago
+7h ago
+
+---
+
+**[BLOOMBERG: "Morgan Stanley is rolling out crypto trading on its E*Trade platform for 50bps/trade, undercutting Schwab's 75bps (who undercut Coinbase)". Soon, it'll be pretty dirt cheap to trade Bitcoin everywhere- just was we saw with btc ETF exp ratios prior to launch.](https://www.reddit.com/r/Bitcoin/comments/1t5xz1u/bloomberg_morgan_stanley_is_rolling_out_crypto/)**
+
+14h ago
+
+---
+
+**[Daily Discussion, May 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1t61xj6/daily_discussion_may_07_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+11h ago
+
+---
+
+**[What use cases do you think BTC will have in the coming years?](https://www.reddit.com/r/Bitcoin/comments/1t6gmzw/what_use_cases_do_you_think_btc_will_have_in_the/)**
+
+We’re already seeing BTC slowly move beyond simple holding. • Store of value • Collateral in DeFi • Cross-border settlements • Institutional reserve asset • Self-custodial yield strategies • AI + machine payments eventually? Or will BTC mainly become an asset that big players keep accumulating for decades?
+
+11m ago
+
+---
+
+**[Wouldn’t it be crazy if we keep going up 🌝](https://www.reddit.com/r/Bitcoin/comments/1t5takr/wouldnt_it_be_crazy_if_we_keep_going_up/)**
+
+I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
+
+17h ago
+
+---
+
+**[FIRE with Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t5q08f/fire_with_bitcoin/)**
+
+Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
+
+20h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin (BTC) price prediction: Three signals pointing to a possible jump to $85,000](https://www.coindesk.com/markets/2026/05/07/three-signals-pointing-to-a-possible-bitcoin-move-to-usd85-000)**
+
+Bitcoin has broken key cost basis levels, funding rates have flipped neutral, and options positioning is turning supportive. The three signals that suggest further gains may be ahead.
+
+CoinDesk • 11h ago
+
+---
 
 **[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
 
@@ -165,47 +173,27 @@ CNBC • 1d ago
 
 ---
 
-**[U.S. Bitcoin Reserve update coming in 'next few weeks," White House adviser says](https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says)**
+**[The great derivatives disconnect: Why 'negative' funding is actually a bullish signal for Bitcoin](https://www.coindesk.com/business/2026/05/07/the-great-derivatives-disconnect-why-negative-funding-is-actually-a-bullish-signal-for-bitcoin)**
 
-White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding.
-
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin Price Surge Incoming? Tom Lee Says 'Crypto Spring' Is Here Amid 2027 'Biggest Rally Ever' Prediction](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-surge-incoming-tom-143215537.html)**
-
-Tom Lee says a new “crypto spring” may be underway. Lee ties crypto optimism to the AI-driven stock market rally. Despite bullish calls, Lee’s crypto ...
-
-Yahoo Finance • 40m ago
-
----
-
-**[Bitcoin Tests Bollinger Bands Breakout as Creator Flips Bullish on BTC](https://www.moomoo.com/news/post/69573632/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on)**
-
-Moomoo • 1h ago
-
----
-
-**[CoinDesk 20 performance update: Bitcoin Cash (BCH) drops 1.2%, leading index lower](https://www.coindesk.com/coindesk-indices/2026/05/07/coindesk-20-performance-update-bitcoin-cash-bch-drops-1-2-leading-index-lower)**
-
-Near Protocol (NEAR), down 1% from Wednesday, was also an underperformer.
+Panelists are split on the four-year cycle's relevance, with year-end price targets varying widely from potentially not reaching a new high to possible targets of $150k or $250k.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin’s unusual technical action points to a crypto bull market, says Fundstrat’s Tom Lee](https://www.marketwatch.com/story/bitcoins-rare-technical-action-points-to-a-crypto-bull-market-says-fundstrats-tom-lee-4e44bfb7)**
+**[VanEck’s Matthew Sigel Says Bitcoin Could Hit $1 Million in Five Years](https://finance.yahoo.com/markets/crypto/articles/vaneck-matthew-sigel-says-bitcoin-151800942.html)**
 
-MarketWatch • 4h ago
+VanEck’s head of digital assets research, Matthew Sigel, says bitcoin (CRYPTO: $BTC) could reach $1 million w...
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin hits longest negative funding streak this decade as K33 flags short squeeze risk](https://www.theblock.co/post/400182/bitcoin-longest-negative-funding-streak-this-decade-k33-flags-short-squeeze-risk)**
+**[Bitcoin ending May above $76,000 would confirm new bull market, Tom Lee says](https://www.coindesk.com/markets/2026/05/07/bitcoin-ending-may-above-usd76-000-would-confirm-new-bull-market-tom-lee-says)**
 
-Buying bitcoin during such negative funding regimes has consistently led to strong forward returns, Head of Research Vetle Lunde said.
+Tokenization and AI agentic finance are the main narratives driving the next bull cycle in crypto, Lee said at Consensus 2026.
 
-The Block • 1d ago
+CoinDesk • 30m ago
 
 ---
 
@@ -213,13 +201,29 @@ The Block • 1d ago
 
 Learn how selling or using Bitcoin impacts your IRS tax bill and discover tips for record keeping to minimize what you owe.
 
-New York Post • 6h ago
+New York Post • 8h ago
 
 ---
 
-**[Bitcoin pulls back as markets eye Iran progress, Strategy sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-81k-as-markets-watch-iran-progress-strategy-sales-4666250)**
+**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
 
-Investing.com • 1h ago
+Bloomberg.com • 19h ago
+
+---
+
+**[Eric Trump's American Bitcoin reports $82 million loss in Q1 amid 'record' mining production](https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1)**
+
+American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly production on record.
+
+The Block • 15h ago
+
+---
+
+**[Trump Bitcoin Crypto Mining Company Just Lost $45 Million While BTC Trades Above $80,000 — What Went Wrong?](https://finance.yahoo.com/markets/crypto/articles/trump-bitcoin-crypto-mining-company-094759365.html)**
+
+Trump American Bitcoin crypto posted a $45.2 million loss in Q1 2026 while BTC held above $80,000, and that contradiction is the story.The Trump crypto venture, backed publicly by Donald Trump Jr. and flush with $250 million in political-adjacent capital, is bleeding cash in an epoch where mining profitability demands ...
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -227,21 +231,13 @@ Investing.com • 1h ago
 
 A proposed Senate draft of the Clarity Act, key crypto legislation that some market experts said would boost coin prices once passed, shows a compromise on stablecoin rewards.
 
-Investopedia • 1d ago
+Investopedia • 2d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[SatoshiGuesser – Roll for Bitcoin](https://news.ycombinator.com/item?id=47964897)**
-
-Roll for lost bitcoin. Contribute to Pathos0925/SatoshiGuesser development by creating an account on GitHub.
-
-⬆️ 52 • 💬 54 • 6d ago • [GitHub](https://github.com/Pathos0925/SatoshiGuesser)
-
----
 
 **[BTC Pulse – 4-factor composite model · Bitcoin Real-time macro signals](https://news.ycombinator.com/item?id=47994391)**
 
@@ -261,7 +257,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 23h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -269,7 +265,7 @@ Strategy is shifting from passive bitcoin accumulation to actively managing bala
 
 ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P2P (BIP 324) or Ethereum P2P (RLPx) so that deep packet inspection (DPI) sees a connection that is indistinguishable ...
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/st-hannibal/ArkTunnel)
 
 ---
 
@@ -307,7 +303,7 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
-⬆️ 1 • 💬 0 • 10h ago • [ABG](https://abg-discord.vercel.app/)
+⬆️ 1 • 💬 0 • 12h ago • [ABG](https://abg-discord.vercel.app/)
 
 ---
 
@@ -321,7 +317,17 @@ Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 563 • ⏱️ 13:36 • 18h ago
+👁️ 45K • 👍 3K • 💬 584 • ⏱️ 13:36 • 20h ago
+
+---
+
+**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
+
+My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 2K • 👍 250 • 💬 139 • ⏱️ 13:40 • 1h ago
 
 ---
 
@@ -331,7 +337,7 @@ Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion do
 
 📺 Valuetainment
 
-👁️ 78K • 👍 2K • 💬 695 • ⏱️ 11:41 • 20h ago
+👁️ 80K • 👍 2K • 💬 724 • ⏱️ 11:41 • 22h ago
 
 ---
 
@@ -341,17 +347,17 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 324 • ⏱️ 9:29 • 14h ago
+👁️ 19K • 👍 1K • 💬 329 • ⏱️ 9:29 • 16h ago
 
 ---
 
-**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
+**[BREAKING: Leaked Iran Deal Sends Bitcoin &amp; Crypto SOARING | Tom Lee’s Big Warning](https://www.youtube.com/watch?v=zCxKwUvHeGE)**
 
-The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Simply Bitcoin
+📺 Savvy Finance
 
-👁️ 31K • 👍 2K • 💬 465 • ⏱️ 25:32 • 1d ago
+👁️ 4K • 👍 171 • 💬 30 • ⏱️ 18:13 • 1d ago
 
 ---
 
@@ -361,27 +367,17 @@ Michael Saylor just shook the entire Bitcoin market with one sentence: “we wil
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 298 • ⏱️ 18:24 • 16h ago
+👁️ 27K • 👍 2K • 💬 306 • ⏱️ 18:24 • 18h ago
 
 ---
 
-**[This Bitcoin Rally has Convinced me That the BTC Bear Market is Officially Over! I&#39;m Now Bullish!](https://www.youtube.com/watch?v=uPZGeNZjQnA)**
+**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
 
-📺 Doctor of Pump & Dump
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 631 • ⏱️ 38:20 • 21h ago
-
----
-
-**[Cathie Wood Loads Up🚨Michael Saylor&#39;s &quot;Crypto Reactor&quot; Pumping Altcoins!?🔥](https://www.youtube.com/watch?v=LBryoVmo5DY)**
-
-ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its three ETFs on Apr. 29. At the same time, ARK ...
-
-📺 Paul Barron Network
-
-👁️ 50K • 👍 2K • 💬 97 • ⏱️ 12:02 • 1d ago
+👁️ 32K • 👍 2K • 💬 464 • ⏱️ 25:32 • 1d ago
 
 ---
 
@@ -389,27 +385,27 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 176 • 💬 76 • ⏱️ 1:34 • 16h ago
+👁️ 6K • 👍 184 • 💬 76 • ⏱️ 1:34 • 18h ago
 
 ---
 
-**[Bitcoin Bear Goggles](https://www.youtube.com/watch?v=C5Y4zGO4Gxs)**
+**[BITCOIN: The $250,000 Secret They DON&#39;T Want You To Know 🤯₿](https://www.youtube.com/watch?v=Sa4GJa0PfT0)**
 
-Is it worthwhile to keep the Bitcoin bear goggles on? Let's talk about it! Into The Cryptoverse Premium SALE: ...
+Everyone's asking: Have we seen the generational bottom in Bitcoin? What does that even mean? It means that after every ...
 
-📺 Benjamin Cowen
+📺 FORGED IN AMERICA PODCAST
 
-👁️ 112K • 👍 7K • 💬 555 • ⏱️ 21:51 • 1d ago
+👁️ 374 • 👍 7 • ⏱️ 0:44 • 4h ago
 
 ---
 
-**[BITCOIN DUMP ALERT! Will BTC Hit $60k Again?](https://www.youtube.com/watch?v=nsJrG9eUlu8)**
+**[CRYPTO TRADING: Bitcoin’s Going Higher, Ignore The Bull Trap](https://www.youtube.com/watch?v=DeP3TPwzMbU)**
 
-Buy, Sell, Trade Crypto: ✓ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Buy ...
+Bitcoin is showing no signs of slowing down, continuing to push higher while fear and “bull trap” calls spread across the market.
 
-📺 Altcoin Daily
+📺 Chart Hackers
 
-👁️ 3K • 👍 128 • 💬 2 • ⏱️ 1:03 • 3h ago
+👁️ 2K • 👍 307 • 💬 1 • ⏱️ 1:02:10 • 3h ago
 
 ---
 
