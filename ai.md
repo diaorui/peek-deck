@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-07T07:43:26.604286+00:00'
+updated: '2026-05-07T10:24:56.919908+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - social
 - news
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 07, 2026 at 07:43 UTC  
+**Last Updated:** May 07, 2026 at 10:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
 
-13h ago
+16h ago
 
 ---
 
@@ -49,19 +49,27 @@ Anthropic just partnered with SpaceX and doubled Claude Code rate limits effecti
 
 One speaker (a VC) said his number for evaluating AI-native startups is ARR per engineer, and that the number ought to be going up. Almost every talk and every booth at the AI Agents Conference was selling a fix for something that broke this year when agents hit production. Observability, governance, supervisor agents, data substrates, "someone's gotta babysit the bots." But what's actually still going to be around in a couple years? What's defensible and durable? The old SaaS pitch was simple. We bundle the expensive engineering investments and domain expertise into a tool. You'd pay for the tool and generate outcomes, but it would be rare for the software company to have real alignment to the actual value created from those outcomes. That's breaking from two ends at once. In the direct-from-imagination era we're moving towards, engineering labor is approaching free. One of the most telling trends is the shift from companies bragging about the size of their engineering teams, towards how much ARR they can generate per engineer. You can vibe-code much of what those booths were selling in a few days or weeks if you have the domain knowledge. The old software model was actually based on under-utilization; the most profitable SaaS companies are frequently those whose customers underuse it (fixed price for the customer, but variable cloud costs for the vendor). Pricing is moving to "token markup." Maybe we'll get to 2-4x revenue for the software, because outcomes are more valuable; but margin compresses because transactional intelligence (i.e., the cost of running the LLMs that power many systems) is basically arbitraging token costs against outcome value. So everyone on that floor was implicitly betting on a new moat to replace the old one. I'm not too confident that these will hold... The most popular bet was on encoded domain expertise (e.g., the sales engineers at Harvey, a legal AI platform, are actually lawyers). I think this works *now* because we're still in the phase of "wow, this technology works like magic." I'm less convinced this is actually durable. Why: Prompt architecture is text. It's portable. The expertise underneath it is often abundant (e.g., there are over a million lawyers in the USA). The righteous destiny for this category ought to be open marketplaces of prompt architecture and/or crowdsourced best-practices. Not trade secrets. The companies trying to build closed prompt moats are going to lose to open ones that iterate faster (which simply parallels the fact that much software engineering is rapidly becoming commoditized to agentic engineering and the burgeoning quantity of ready-made GitHub repos). There are many people pursuing the data substrate; in short, this mirrors the early days of the Web when everyone scrambled to open up legacy data to dynamic standards-based Web UI. Agents will have 100-1000x the data demands of these Web apps, so it makes sense that we need tools to connect them, govern them and comply with regulatory obligations. Newer entrants extend this further, wiring up databases, pipelines, Slack threads, and tickets into context graphs agents can reason over. As I noted above, all this still seems magical. Connect a database, watch an agent crawl the schema and produce a chatbot interface and easy-to-change dashboards. But strip the magic away and most of these are prompt architectures on top of LLMs plus a data-ingestion layer. Once data-access standards mature (MCP is already doing this) and prompt architectures go open-source (alongside much of this wisdom increasingly getting pretrained into the LLMs themselves), that magic stops being proprietary. You'll be defending yourself against the same architecture built internally by your customer's eng team, or against an open-source version that's objectively better. The observability incumbents: these might do better but only at Stripe-like ubiquity where trust is the overriding value (who doesn't trust Stripe at this point?). The ones who survive are probably going to fuse with the audit and compliance function rather than stay pure observability. That's why I keep coming back to one arbitrage that seems critical: trust. This will be especially important in regulated industries, but it reminds me of the old (albeit now hilariously outdated) adage about "nobody ever got fired for choosing IBM." If your competitor can be vibe-coded over a weekend and your customer is a bank, why do they pay you 50x more? It isn't the engineering, it probably isn't even the expertise. The data plumbing will get commoditized, so it can't be that either... It's that you've shifted the risk to a third party who can actually price and defend against risk: SOC2, the named CEO who testifies in court and Congress, a legal team that takes calls, an indemnity wrapper for underwriters. Maybe this means that things actually get commodified into a financialization wrapper, rather than a way to package R&D (FinTech startups back to the front?!) The version of this future I'd actually bet on: a commodity substrate (LLMs plus open prompt architectures plus standardized data access), topped by a thin layer of regulated insurance companies that price the risk of agent failure in compliance-driven industries. The middle layer (prompt-architecture-as-product vendors) is vulnerable to an awful lot of margin-squeeze. Most of the floor was trying to build that middle layer.
 
-17h ago
+19h ago
 
 ---
 
 **[Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training](https://www.reddit.com/r/artificial/comments/1t5zoq4/anthropic_researchers_detail_model_spec/)**
 
-🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 3h ago
+🔗 [alignment.anthropic.com](https://alignment.anthropic.com/2026/msm/) • 6h ago
+
+---
+
+**[I got the Enterprise Standard/Plus 30 day trial but I'm not sure if it activated properly? How do I used it for video generation](https://www.reddit.com/r/artificial/comments/1t656i2/i_got_the_enterprise_standardplus_30_day_trial/)**
+
+So I signed up for the 30 day trial. The trial was available for either business or standard/plus plan. As far as I could see the standard/plus plan includes everything in the business plan but more, so it made sense to go with that one. Plus, when I tried to select the business plan it asked for a business email but when I selected the standard/plus plan, it allowed me to sign up using my regular email address. So I didn't need a business email but got everything in the business plan + standard/plus plan. The issue I am having is, it asked me to add a payment method, which I did, but I can't find anywhere where it says I am on a free trial apart from when I click on the app it had me create. Once I click on that, there's a small banner that says I am on a trial. It's not under subscriptions or anywhere else. So I don't know how I am meant to cancel it before the end of the trial if I do not want to use it. Also, how do I use Veo 3 with this? I went to Agent platform / studio / generate media / video. I think this is the Vertex AI or something? I've never used this before, so it's a little confusing. But under the model settings, it says task > text-to-video and then it says model > veo 3.1 but it says charged will apply for video + audio generation. $0.40/second. This leads me to believe, if I generate media, it will charge my payment method instead of using the trial? Have I done this incorrectly or something? How do I check my trial is being used and I'm not outside of my trial using something that will charge me? Thanks
+
+1h ago
 
 ---
 
 **[Leave it up to Claude](https://www.reddit.com/r/artificial/comments/1t5xaix/leave_it_up_to_claude/)**
 
-5h ago
+8h ago
 
 ---
 
@@ -69,7 +77,7 @@ One speaker (a VC) said his number for evaluating AI-native startups is ARR per 
 
 (Posting Here because removed by Chatgpt Complaints moderators because the model here is 4o, and refuse to believe there were any safety issues about that model)He started off with claiming to chat was the smartest baby born and faked evidence he was. Then just continued and did what chat told him to do to see when would get push back or fact checked. Warning: ⚠️ Does bash on AI use and AI users, that is kind of harsh and I don't agree about towards the end. But a fascinating experiment.
 
-🔗 [youtu.be](https://youtu.be/VRjgNgJms3Q?si=gmieHy8i1EOIaL6M) • 57m ago
+🔗 [youtu.be](https://youtu.be/VRjgNgJms3Q?si=gmieHy8i1EOIaL6M) • 3h ago
 
 ---
 
@@ -77,15 +85,7 @@ One speaker (a VC) said his number for evaluating AI-native startups is ARR per 
 
 I’m basically a total beginner when it comes to finance and economics maybe 2 or 3 months ago, and honestly trying to learn from reports or books used to completely destroy me. Too many charts, numbers, random terms I have to Google every 2 minutes. And I started using AI Podcast to kind of brute force my way into learning this stuff, and I’m honestly surprised by how much it helped. Instead of sitting there suffering through a 70-page report, I can turn it into conversational audio and just listen while driving or walking around. But those tools actually feel slightly different. Like NotebookLM feels more “AI teacher explains the document to you.” It’s really good at organizing information and walking through the important points clearly. And I enjoy Genspark AI Pods more because it feels more like an actual show or podcast episode. The tone feels lighter, less dry, less like I’m studying for an exam. Sometimes it genuinely just sounds like casually discussing the topic instead of reading a report at me. Not saying this magically turned me into some economics genius lol. But it definitely made learning feel way less painful and boring.
 
-10h ago
-
----
-
-**[Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice](https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/)**
-
-Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake credentials and mental health advice.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/pennsylvania-sues-character-ai-chatbot) • 17h ago
+13h ago
 
 ---
 
@@ -93,23 +93,23 @@ Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake 
 
 Investors | Founders | Operators It's tricky when you're responsible for people, especially in the healthcare sector, and you include AI into the infrastructure in a way that puts the livelihood of those people at risk. One of the more recent developments did exactly that. If there's no one else speaking on it, there should be. Because not only do you have a system that takes a lot of the knowledge and know-how of the ones who were once running things and hands it over to a system that is far from perfect and is known to error and fault. We now also have a situation where, depending on how serious those failures may present themselves, the people supposedly being served are now at an even greater risk of exposure. So what happens when the water runs out. Anthropic | Blackstone | Healthcare
 
-4h ago
+7h ago
 
 ---
 
-**[Be honest: How much of "Claude Mythos" is just hype?](https://www.reddit.com/r/artificial/comments/1t5ibwc/be_honest_how_much_of_claude_mythos_is_just_hype/)**
+**[Month later, qubic still reads to me like an unresolved compute-access experiment](https://www.reddit.com/r/artificial/comments/1t62qw6/month_later_qubic_still_reads_to_me_like_an/)**
 
-I see people claiming Claude Mythos is the "final form" of LLM creativity, but I’m struggling to see the actual reach it might have. What does it do that a well-crafted system prompt on base Claude can't? Do you actually believe it will change your workflow? Is the "impact" real, or are we just seeing a vocal minority of power users?
+A month back i was trying to figure out whether qubic was doing something genuinely novel or just wrapping distributed hardware incentives in a more interesting story. After sitting with it longer, one side of that question has gotten clearer. the other hasnt. The operator side is at least legible. participation numbers, throughput, economic behavior - enough is visible (doge-stats.qubic.org tracks some of it) to evaluate whether the incentive structure actually functions. by that read, it seems to work. getting heterogeneous hardware to show up reliably and stay is a real coordination problem, and they've made real progress on it. The side i still can't resolve is useful-work quality. Routing compute toward something is not the same as routing it toward something that matters. the harder question - whether the outputs qubic is actually computing can withstand external scrutiny for quality and significance - i haven't seen that interrogated rigorously from outside the project. Aaybe that evidence exists and i've missed it. maybe the infrastructure genuinely had to come first. but this is also where projects in this category tend to quietly stall: incentive wrapper functions, useful-work claim drifts, and nobody formally closes the loop. Genuinely curious if anyone here has looked at the output side more carefully than i have
 
-15h ago
+3h ago
 
 ---
 
-**[Average Claude experience:](https://www.reddit.com/r/artificial/comments/1t5rfqc/average_claude_experience/)**
+**[Pennsylvania sues Character.AI chatbot posing as doctor, giving psych advice](https://www.reddit.com/r/artificial/comments/1t5ewxa/pennsylvania_sues_characterai_chatbot_posing_as/)**
 
-Me: Sup? Claude: Good Also Claude: Upgrade to keep chatting, you hit your message limit. It resets at 5:10 pm, or you can upgrade for higher limits.
+Pennsylvania sues Character.AI over chatbot posing as licensed doctor with fake credentials and mental health advice.
 
-9h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/pennsylvania-sues-character-ai-chatbot) • 19h ago
 
 ---
 
@@ -117,61 +117,41 @@ Me: Sup? Claude: Good Also Claude: Upgrade to keep chatting, you hit your messag
 
 ## Google News: "ai"
 
+**[The AI fitness instructors selling unreal gains](https://www.bbc.com/sport/articles/c5ye7dnxv86o)**
+
+A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims.
+
+BBC • 5h ago
+
+---
+
 **[Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html)**
 
 Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.
 
-CNBC • 20h ago
+CNBC • 22h ago
 
 ---
 
-**[Corning partners with Nvidia to expand US fiber optic output for AI growth](https://www.reuters.com/business/media-telecom/corning-partners-with-nvidia-expand-us-fiber-optic-output-ai-growth-2026-05-06/)**
+**[Behind the Curtain: Intelligence explosion](https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion)**
 
-Reuters • 18h ago
-
----
-
-**[Should Corning–NVIDIA U.S. Fiber Partnership Reshaping AI Data Centers Require Action From NVIDIA (NVDA) Investors?](https://finance.yahoo.com/markets/stocks/articles/corning-nvidia-u-fiber-partnership-062628048.html)**
-
-Earlier this week, Corning announced a multiyear commercial and technology partnership with NVIDIA to build three advanced U.S. plants that will massively expand domestic optical connectivity manufacturing for next-generation AI data centers. By moving to replace thousands of copper cables inside NVIDIA’s rack-scale AI systems with Corning’s high-performance fiber, the deal targets one of AI infrastructure’s biggest bottlenecks: how fast and efficiently data can move between...
-
-Yahoo Finance • 1h ago
+Axios • 20m ago
 
 ---
 
-**[U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70)**
+**[How a Congressional Primary Became a Proxy Battle Over A.I.](https://www.newyorker.com/news/our-local-correspondents/how-a-congressional-primary-became-a-proxy-battle-over-ai)**
 
-WSJ • 7h ago
+Alex Bores, a New York Democratic candidate for Congress, has put forward a platform to regulate A.I. In recent months, his campaign has become an arena of proxy battle between OpenAI and Anthropic.
 
----
-
-**[Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)**
-
-Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.
-
-TechCrunch • 2h ago
+The New Yorker • 24m ago
 
 ---
 
-**[Europe’s AI translation industry told it risks reputation by partnering with US firms](https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms)**
+**[How AI is changing the grocery store](https://finance.yahoo.com/video/ai-changing-grocery-store-100000202.html)**
 
-Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure
+Thrive Market Founder and CEO Nick Green explains how his company is using AI to make healthy living more accessible.
 
-The Guardian • 1h ago
-
----
-
-**[Chinese AI Model Developer Kimi Raising Funds Valuing It At $20 Billion](https://www.forbes.com/sites/ywang/2026/05/07/chinese-ai-model-developer-kimi-raising-funds-valuing-it-at-20-billion/)**
-
-Forbes • 1h ago
-
----
-
-**[Creators of Grok, the AI Chatbot](https://x.ai/news/anthropic-compute-partnership)**
-
-xAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.
-
-xAI • 15h ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -179,13 +159,37 @@ xAI • 15h ago
 
 We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.
 
-Anthropic • 15h ago
+Anthropic • 18h ago
 
 ---
 
-**[Anthropic strikes SpaceX data center deal as it plows ahead on AI coding](https://www.reuters.com/business/retail-consumer/anthropic-unveils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/)**
+**[The Pentagon keeps promising to follow the law when using AI, but what are the limits?](https://www.cnn.com/2026/05/07/politics/us-military-ai-law-iran)**
 
-Reuters • 12h ago
+The Pentagon keeps promising to follow the law when using AI, but what are the limits?
+
+CNN • 1h ago
+
+---
+
+**[AI could solve America's $39 trillion debt crisis—but only if U.S. abandons displaced workers: Yale](https://fortune.com/2026/05/06/39-trillion-national-debt-fix-ai-productivity-yale-budget-lab/)**
+
+A Yale Budget Lab report suggests AI-driven productivity gains could reverse the national debt's upward trajectory. But what about the workers?
+
+Fortune • 17h ago
+
+---
+
+**[U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis](https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70)**
+
+WSJ • 10h ago
+
+---
+
+**[Europe’s AI translation industry told it risks reputation by partnering with US firms](https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms)**
+
+Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure
+
+The Guardian • 4h ago
 
 ---
 
@@ -197,7 +201,7 @@ Reuters • 12h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1668 • 💬 1101 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1675 • 💬 1105 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -211,7 +215,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 530 • 💬 347 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 530 • 💬 348 • 1d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
 
 ---
 
@@ -219,7 +223,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.
 
-⬆️ 501 • 💬 144 • 2d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+⬆️ 502 • 💬 144 • 2d ago • [OpenAI](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 
 ---
 
@@ -227,7 +231,7 @@ How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency
 
 Are people using AI, or is the organization learning from it? What changed because we spent those tokens? And who moves discoveries from individuals to teams to organizational capabilities?
 
-⬆️ 379 • 💬 267 • 1d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+⬆️ 379 • 💬 267 • 2d ago • [Robert Glaser](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 
 ---
 
@@ -257,7 +261,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.
 
-⬆️ 118 • 💬 113 • 2d ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+⬆️ 119 • 💬 113 • 2d ago • [404 Media](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 
 ---
 
@@ -265,7 +269,7 @@ A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants
 
 Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the division looks to reverse declining revenue.
 
-⬆️ 110 • 💬 39 • 1d ago • [Dexerto](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
+⬆️ 110 • 💬 40 • 1d ago • [Dexerto](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
 
 ---
 
@@ -279,27 +283,17 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 27K • 👍 847 • 💬 38 • ⏱️ 13:34 • 9h ago
+👁️ 32K • 👍 938 • 💬 48 • ⏱️ 13:34 • 11h ago
 
 ---
 
-**[John Lennox on AI, 666, and the Coming Beast System](https://www.youtube.com/watch?v=qU9XKKqemsw)**
+**[I Let CLAUDE AI Copy a $403k/Mo YouTube Channel ( IT WORKED)](https://www.youtube.com/watch?v=UtSsj1Jkfcw)**
 
-In this Truth B Told video, Jeremiah reacts to Professor John Lennox speaking about AI, 666, Revelation 13, the Antichrist, and the ...
+In this video, we use Claude Code to recreate a channel inspired by the Zac D Films —focusing on more complex animations, ...
 
-📺 Truth B Told
+📺 Jacksons AI
 
-👁️ 75K • 👍 4K • 💬 519 • ⏱️ 15:15 • 14h ago
-
----
-
-**[ChatGPT And China&#39;s AI Just Did 5 Years Of Bollywood Work In 15 Seconds](https://www.youtube.com/watch?v=xznke5IlG9M)**
-
-Stop generating random clips. Start building real videos Try Smart Shot : https://dub.sh/stayingahead_openart Join our ...
-
-📺 Vaibhav Sisinty
-
-👁️ 33K • 👍 1K • 💬 87 • ⏱️ 19:24 • 16h ago
+👁️ 8K • 👍 450 • 💬 137 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -309,7 +303,37 @@ AI CEOs are telling you your job is about to disappear. NYU Professor Scott Gall
 
 📺 The Diary Of A CEO Clips
 
-👁️ 145K • 👍 3K • 💬 492 • ⏱️ 21:59 • 2d ago
+👁️ 147K • 👍 4K • 💬 493 • ⏱️ 21:59 • 2d ago
+
+---
+
+**[ChatGPT And China&#39;s AI Just Did 5 Years Of Bollywood Work In 15 Seconds](https://www.youtube.com/watch?v=xznke5IlG9M)**
+
+Stop generating random clips. Start building real videos Try Smart Shot : https://dub.sh/stayingahead_openart Join our ...
+
+📺 Vaibhav Sisinty
+
+👁️ 37K • 👍 1K • 💬 90 • ⏱️ 19:24 • 19h ago
+
+---
+
+**[Anthropic&#39;s Dario Amodei and JPMorgan&#39;s Jamie Dimon on AI boom, AI regulation &amp; impact on jobs](https://www.youtube.com/watch?v=FG5JsLHPW_I)**
+
+CNBC's Andrew Ross Sorkin discusses key takeaways from his conversation with Anthropic CEO Dario Amodei and JPMorgan ...
+
+📺 CNBC Television
+
+👁️ 38K • 👍 404 • 💬 50 • ⏱️ 5:23 • 23h ago
+
+---
+
+**[John Lennox on AI, 666, and the Coming Beast System](https://www.youtube.com/watch?v=qU9XKKqemsw)**
+
+In this Truth B Told video, Jeremiah reacts to Professor John Lennox speaking about AI, 666, Revelation 13, the Antichrist, and the ...
+
+📺 Truth B Told
+
+👁️ 79K • 👍 4K • 💬 546 • ⏱️ 15:15 • 17h ago
 
 ---
 
@@ -319,7 +343,7 @@ The economy is sending clear warning signs, and today we break down the real sto
 
 📺 I Allegedly
 
-👁️ 13K • 👍 1K • 💬 205 • ⏱️ 10:43 • 1d ago
+👁️ 13K • 👍 1K • 💬 207 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -333,43 +357,23 @@ TikToker Tricked Cops Using AI Videos Then Got Arrested This South Florida news 
 
 ---
 
-**[Anthrophic Claude AI Glitch Deletes A Company&#39;s Entire Database](https://www.youtube.com/watch?v=g45iWb-N-FE)**
-
-SOURCES 1: https://x.com/pcgamer/status/2049211811522814161 2: ...
-
-📺 YongYea
-
-👁️ 78K • 👍 4K • 💬 1K • ⏱️ 12:21 • 1d ago
-
----
-
-**[Anthropic&#39;s Dario Amodei and JPMorgan&#39;s Jamie Dimon on AI boom, AI regulation &amp; impact on jobs](https://www.youtube.com/watch?v=FG5JsLHPW_I)**
-
-CNBC's Andrew Ross Sorkin discusses key takeaways from his conversation with Anthropic CEO Dario Amodei and JPMorgan ...
-
-📺 CNBC Television
-
-👁️ 35K • 👍 387 • 💬 46 • ⏱️ 5:23 • 20h ago
-
----
-
-**[Anthropic AI Buying $200 Billion In Google Services - AI Fraud Goes All In](https://www.youtube.com/watch?v=tSv4WKEev_o)**
-
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
-
-📺 Eli the Computer Guy
-
-👁️ 7K • 👍 339 • 💬 92 • ⏱️ 14:00 • 10h ago
-
----
-
 **[Positive Uses of AI Amid Real Fears of Massive Job Loss](https://www.youtube.com/watch?v=ZXk1S9o9TQs)**
 
 Taken from JRE #2494 w/Chamath Palihapitiya YouTube: https://youtu.be/LSihotD-PQA JRE on Spotify: ...
 
 📺 JRE Clips
 
-👁️ 61K • 👍 1K • 💬 540 • ⏱️ 15:34 • 1d ago
+👁️ 62K • 👍 1K • 💬 538 • ⏱️ 15:34 • 1d ago
+
+---
+
+**[Teaching Senior Citizens How to Spot AI](https://www.youtube.com/watch?v=nehTMYzpGYE)**
+
+COME SEE ME LIVE: https://www.noelmillerlive.com/ MY NEWEST HOUR: https://www.youtube.com/watch?v=N3eLoqfUNu4 ...
+
+📺 Noel Miller
+
+👁️ 128K • 👍 11K • 💬 656 • ⏱️ 17:55 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 946,264 • ❤️ 3,679 • 1d ago
+⬇️ 946,264 • ❤️ 3,689 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 71,149 • ❤️ 319 • 1d ago
+⬇️ 71,149 • ❤️ 324 • 1d ago
 
 ---
 
@@ -409,19 +413,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 165,240 • ❤️ 1,330 • 14d ago
-
----
-
-**[Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**
-
-*Mistral AI_*
-
-Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, excelling at instruction following, reasoning, and coding tasks with configurable reasoning effort and native function calling for agentic applications.
-
-`127.7B`
-
-⬇️ 18,272 • ❤️ 285 • 2d ago
+⬇️ 165,240 • ❤️ 1,332 • 14d ago
 
 ---
 
@@ -433,7 +425,19 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 4,460 • ❤️ 200 • 10d ago
+⬇️ 4,460 • ❤️ 206 • 10d ago
+
+---
+
+**[Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**
+
+*Mistral AI_*
+
+Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, excelling at instruction following, reasoning, and coding tasks with configurable reasoning effort and native function calling for agentic applications.
+
+`127.7B`
+
+⬇️ 18,272 • ❤️ 286 • 2d ago
 
 ---
 
@@ -445,19 +449,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 20,905 • ❤️ 463 • 9d ago
-
----
-
-**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
-
-*Qwen*
-
-Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 1,771,851 • ❤️ 1,162 • 13d ago
+⬇️ 20,905 • ❤️ 465 • 9d ago
 
 ---
 
@@ -469,7 +461,19 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 28,215 • ❤️ 136 • 6h ago
+⬇️ 28,215 • ❤️ 141 • 9h ago
+
+---
+
+**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+
+*Qwen*
+
+Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 1,771,851 • ❤️ 1,164 • 13d ago
 
 ---
 
@@ -481,7 +485,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 19,908 • ❤️ 128 • 1d ago
+⬇️ 19,908 • ❤️ 130 • 1d ago
 
 ---
 
@@ -493,7 +497,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 3,211,156 • ❤️ 1,651 • 13d ago
+⬇️ 3,211,156 • ❤️ 1,653 • 13d ago
 
 ---
 
@@ -507,7 +511,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 59 • 💬 3 • ⭐ 70,280 • 16mo ago
+▲ 59 • 💬 3 • ⭐ 70,738 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -561,7 +565,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 16 • 💬 3 • ⭐ 9,337 • 19d ago
+▲ 16 • 💬 3 • ⭐ 9,413 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -580,6 +584,20 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
+
+*Ruofeng Yang, Yongcan Li, Shuai Li*
+
+🏢 Shanghai Jiao Tong University
+
+ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
+
+▲ 85 • 💬 10 • ⭐ 8,215 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -593,27 +611,13 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
-
-*Ruofeng Yang, Yongcan Li, Shuai Li*
-
-🏢 Shanghai Jiao Tong University
-
-ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
-
-▲ 83 • 💬 10 • ⭐ 8,158 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 53 • 💬 2 • ⭐ 54,933 • 12mo ago
+▲ 53 • 💬 2 • ⭐ 54,974 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -643,7 +647,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 12.1k • 🔱 2.8k • 9d ago
+⭐ 12.2k • 🔱 2.8k • 10d ago
 
 ---
 
@@ -653,7 +657,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.7k • 🔱 699 • 2d ago
+⭐ 10.8k • 🔱 701 • 2d ago
 
 ---
 
@@ -663,7 +667,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.7k • 🔱 433 • 1h ago
+⭐ 5.7k • 🔱 437 • 4h ago
 
 ---
 
@@ -673,7 +677,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.6k • 🔱 507 • 2d ago
+⭐ 5.6k • 🔱 509 • 2d ago
 
 ---
 
@@ -683,7 +687,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 366 • 6m ago
+⭐ 5.1k • 🔱 367 • 1h ago
 
 ---
 
@@ -693,7 +697,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.8k • 🔱 470 • 1h ago
+⭐ 3.8k • 🔱 471 • 4h ago
 
 ---
 
@@ -701,7 +705,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
-⭐ 3.5k • 🔱 371 • 16d ago
+⭐ 3.6k • 🔱 372 • 16d ago
 
 ---
 
@@ -721,7 +725,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 347 • 13d ago
+⭐ 2.7k • 🔱 348 • 13d ago
 
 ---
 
@@ -731,7 +735,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 641 • 7d ago
+⭐ 2.3k • 🔱 644 • 7d ago
 
 ---
 

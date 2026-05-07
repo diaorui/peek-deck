@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T07:43:26.616868+00:00'
+updated: '2026-05-07T10:24:56.934333+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 07:43 UTC  
+**Last Updated:** May 07, 2026 at 10:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +2.2%  
-**30d:** +7.2%  
-**90d:** +12.0%  
-**1y:** +6.3%  
+**24h:** -3.4%  
+**7d:** +1.4%  
+**30d:** +6.4%  
+**90d:** +11.1%  
+**1y:** +5.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.05B
+**Market Cap:** $280.64B
 Rank #2
 
 **Circulating Supply:** 120,687,104 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.6%
+-53.0%
 
 **All-Time Low:** $0.43
-+541584.5%
++536926.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 anyone ever think about how fragile their access to their traditional bank accounts really is? zy0n has been debanked multiple times. not for some nefarious reason, mind you. but at least on one of the occasions, on the wrong side of a little thing called the SVB bank run. the bank decided, and the money was rate-limited. finance is often used as a weapon. visibility makes you a target. that's why he builds in privacy. "I'm selfish. I'm doing it for myself." and in the process, he made it available for everyone. now, zy0n is a core contributor to railgun — ethereum's privacy layer. he's done everything from building the railgun CLI, to implementing railgun's compliance tooling called private proofs of innocence (PPOI), to tinkering with the cookbook SDK that allows any dApp to integrate railgun's privacy features. and railgun WORKS. last year during the zklend hack, the hacker tried to feed $9.5m into the railgun anonymity pool, the PPOI system zy0n helped bring to life was watching. for one hour, the team waited, and when the funds showed up blocked, that was the proof. the shield held. perhaps nothing was more validating than when the ethereum foundation decided to bake railgun in at the protocol level via its kohaku privacy SDK. it is a signpost from ethereum that privacy is no longer an option. zy0n: "without privacy, institutions are just not going to adopt ethereum and blockchain writ large." the numbers tell-all: when zy0n first started contributing, there was perhaps $20m in the shared "happy" pool. today, it approaches $100m. it just crossed $5b in volume. work is advancing on all fronts, including the aforementioned kohaku as well as soon™ ledger hardware wallet support for the zero-knowledge cryptography railgun extensively uses. we are at the inflection point for ethereum privacy. and i couldnt be more proud to share this piece that ive created with someone i can now call a dear friend. here's the full 48 minute interview: https://youtu.be/zVsqSJX_slY --- if we're meeting for the first time, hi 👋. i find crypto youtube to be a giant cesspool. as a result, i started building my own channel to spread the good word on good work in crypto — something with substance and humanity. dropping a like, sub, and comment goes a long way to supporting me, so please consider doing so!
 
-14h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
 
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 1h ago
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 4h ago
 
 ---
 
@@ -156,7 +156,7 @@ I live in a country where cryptocurrency is somewhat illegal. I would like to pu
 
 Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
 
-The Block • 21h ago
+The Block • 1d ago
 
 ---
 
@@ -164,7 +164,19 @@ The Block • 21h ago
 
 By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
 
-Decrypt • 10h ago
+Decrypt • 13h ago
+
+---
+
+**[Bitcoin Price, Ethereum, XRP Fall. Iran Peace Hopes Can’t Break Crypto Crisis.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-iran-9e5461dd)**
+
+Barron's • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall. Why Even Iran Peace Hopes Can’t Break the Crypto Crisis.](https://www.barrons.com/livecoverage/stock-market-news-today-050726/card/bitcoin-ethereum-xrp-fall-why-even-iran-peace-hopes-can-t-break-the-crypto-crisis--O6pjf6yyhWsqWu4BwBRz)**
+
+Barron's • 2h ago
 
 ---
 
@@ -172,7 +184,15 @@ Decrypt • 10h ago
 
 Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE](https://finance.yahoo.com/markets/crypto/articles/bny-mellon-launch-bitcoin-ethereum-080633939.html)**
+
+Wall Street giant BNY Mellon (now BNY) will offer crypto asset custody in Abu Dhabi, the UAE, the global financial services company announced on Thursday. It will initially launch Bitcoin and Ethereum crypto custody services, with plans of expanding to stablecoins, tokenized real-world assets, and other regulated digital instruments. Ad Ad BNY Mellon Expands Crypto
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -184,25 +204,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Breaks Back Above $80,000. Why the Crypto Winter Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+**[Ethereum Price Forecast: Institutional buying improves, but native crypto interest weakens](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-institutional-buying-improves-but-native-crypto-interest-weakens-202605062028)**
 
-Barron's • 1d ago
+Ethereum (ETH) is seeing a return of institutional interest after US spot ETH exchange-traded funds (ETFs) posted $97.5 million in net inflows on Tuesday.
 
----
-
-**[Current price of Ethereum for May 6, 2026](https://fortune.com/article/price-of-ethereum-05-06-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
-
----
-
-**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
-
-MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
-
-markets.businessinsider.com • 5h ago
+FXStreet • 13h ago
 
 ---
 
@@ -210,21 +216,15 @@ markets.businessinsider.com • 5h ago
 
 Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
 
-Coinpedia • 23h ago
+Coinpedia • 1d ago
 
 ---
 
-**[Ethereum (ETH) Just Changed How It Makes Money. The Market Hasn’t Caught On Yet](https://www.tipranks.com/news/ethereum-eth-just-changed-how-it-makes-money-the-market-hasnt-caught-on-yet)**
+**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
 
-TipRanks • 19h ago
+MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
 
----
-
-**[How high can Bitcoin, Ethereum and XRP go?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-set-to-extend-rebound-attracting-capital-through-etfs-202605051200)**
-
-Cryptocurrency prices are broadly rising on Tuesday, as observed with Bitcoin (BTC) steadying near $81,000 after reclaiming the pivotal $80,000 level as immediate support. Ethereum (ETH) is similarly in bullish hands, pushing into the $2,400 supply zone while Ripple (XRP) gains momentum above $1.41.
-
-FXStreet • 1d ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -232,13 +232,13 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+**[BREAKING: Leaked Iran Deal Sends Bitcoin &amp; Crypto SOARING | Tom Lee’s Big Warning](https://www.youtube.com/watch?v=zCxKwUvHeGE)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto Nutshell
+📺 Savvy Finance
 
-👁️ 7K • 👍 273 • 💬 110 • ⏱️ 19:21 • 1d ago
+👁️ 4K • 👍 150 • 💬 31 • ⏱️ 18:13 • 17h ago
 
 ---
 
@@ -248,27 +248,7 @@ Ethereum is currently fighting with a major trend line after breaking above resi
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 222 • 💬 66 • ⏱️ 8:18 • 8h ago
-
----
-
-**[BREAKING: Leaked Iran Deal Sends Bitcoin &amp; Crypto SOARING | Tom Lee’s Big Warning](https://www.youtube.com/watch?v=zCxKwUvHeGE)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 148 • 💬 36 • ⏱️ 18:13 • 14h ago
-
----
-
-**[Ethereum Mid-Year ☠ Shocker](https://www.youtube.com/watch?v=3L4tcsFB0Hw)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 90 • 💬 8 • ⏱️ 7:39 • 20h ago
+👁️ 3K • 👍 240 • 💬 61 • ⏱️ 8:18 • 11h ago
 
 ---
 
@@ -278,7 +258,7 @@ BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 182 • 💬 122 • ⏱️ 16:18 • 4h ago
+👁️ 4K • 👍 233 • 💬 192 • ⏱️ 16:18 • 7h ago
 
 ---
 
@@ -288,7 +268,17 @@ Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Et
 
 📺 The Block
 
-👁️ 1K • 👍 56 • 💬 2 • ⏱️ 22:10 • 13h ago
+👁️ 2K • 👍 67 • 💬 4 • ⏱️ 22:10 • 16h ago
+
+---
+
+**[Ethereum Mid-Year ☠ Shocker](https://www.youtube.com/watch?v=3L4tcsFB0Hw)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 91 • 💬 8 • ⏱️ 7:39 • 23h ago
 
 ---
 
@@ -298,7 +288,17 @@ In this video we review BMNR's May holdings. We will break down the latest holdi
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 536 • 💬 112 • ⏱️ 17:39 • 18h ago
+👁️ 8K • 👍 544 • 💬 117 • ⏱️ 17:39 • 20h ago
+
+---
+
+**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 276 • 💬 106 • ⏱️ 19:21 • 1d ago
 
 ---
 
@@ -308,17 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 601 • 👍 26 • 💬 1 • ⏱️ 4:19 • 22h ago
-
----
-
-**[Bitcoin &amp; Ethereum. Haben wir getoppt oder gehen wir noch höher?? Wir warten auf DAS](https://www.youtube.com/watch?v=aT1Sb6Kx9Bg)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 421 • 💬 41 • ⏱️ 10:18 • 3h ago
+👁️ 607 • 👍 27 • 💬 1 • ⏱️ 4:19 • 1d ago
 
 ---
 
@@ -328,7 +318,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 340 • 👍 13 • 💬 3 • ⏱️ 5:21 • 13h ago
+👁️ 340 • 👍 13 • 💬 3 • ⏱️ 5:21 • 15h ago
+
+---
+
+**[XRP Summer Prediction and Trajectory for SOL, HBAR, ETH](https://www.youtube.com/watch?v=j2ubQ1g8YDE)**
+
+FEATURED PARTNER: ▻ Earn rewards when you get started on OKX | Use code: paulbarron for OKX US - Sign up and log in to ...
+
+📺 Paul Barron Podcast
+
+👁️ 6K • 👍 531 • 💬 69 • ⏱️ 7:05 • 1d ago
 
 ---
 
