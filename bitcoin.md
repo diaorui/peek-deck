@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-06T23:27:01.625840+00:00'
+updated: '2026-05-07T01:16:24.786470+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 06, 2026 at 23:27 UTC  
+**Last Updated:** May 07, 2026 at 01:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,471.44
+### $81,106.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +6.6%  
-**30d:** +13.1%  
-**90d:** +15.3%  
-**1y:** -16.1%  
+**24h:** -0.2%  
+**7d:** +3.7%  
+**30d:** +14.2%  
+**90d:** +17.1%  
+**1y:** -21.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1630.70B
+**Market Cap:** $1621.76B
 Rank #1
 
-**Circulating Supply:** 20,025,653 BTC
+**Circulating Supply:** 20,025,718 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.5%
+-35.7%
 
 **All-Time Low:** $67.81
-+119910.3%
++119476.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[this might as well be a billboard that says "buy bitcoin!"](https://www.reddit.com/r/Bitcoin/comments/1t5jfsb/this_might_as_well_be_a_billboard_that_says_buy/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,15 @@ Rank #1
 
 Hello all, been away for the past week or so and just checked the pricing. What’s causing it to rally so high up rn? I believe there is the financial officer Powell stepping down and a new one coming in soon, is it related to that? Genuinely curious, won’t be putting in more for the time being to understand if it’s over selling atm but just would like to know what’s causing such rapid growth in it.
 
-11h ago
+13h ago
+
+---
+
+**[Wouldn’t it be crazy if we keep going up 🌝](https://www.reddit.com/r/Bitcoin/comments/1t5takr/wouldnt_it_be_crazy_if_we_keep_going_up/)**
+
+I’ve been posting bullish for over a month now. Everyone here was soooo bearish lmao. I literally said multiple times to gauge retail sentiment based on comments, bunch of downvotes everytime I said there’s nothing to be bearish about as long as we r over 73-75k. Retail shorts r still majority, over 60%. Yes there’s liquidity below now but if we drop to grab it we will just pump right back up. I called 80s while everyone shorting. Yk the crazy thing? We still have more upside. I told u not to short. Bears r fkd. Watch us pump to 90s an 100k while everyone that thought they were smart shorting gets absolutely shafted. Funding rates still negative, bears gonna go broke. DCA and hold was always the wayy. Buying a 750s with the money I made from buying in the 60s. U should’ve followed simple investment rules instead of shorting lmao. To the moon boys, see u at 86k next stop
+
+1h ago
 
 ---
 
@@ -95,7 +103,7 @@ Hello all, been away for the past week or so and just checked the pricing. What�
 
 Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Would love to hear your stories.
 
-2h ago
+4h ago
 
 ---
 
@@ -103,7 +111,15 @@ Have any non-OGs since 2020 achieved FIRE with Bitcoin stacking and just DCA. Wo
 
 as seen here: https://x.com/BITCOINALLCAPS/status/2051653388161704206
 
-13h ago
+15h ago
+
+---
+
+**[If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?](https://www.reddit.com/r/Bitcoin/comments/1t5rcmy/if_i_buy_bitcoin_or_any_crypto_on_coinbase_with_a/)**
+
+If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?
+
+3h ago
 
 ---
 
@@ -115,33 +131,17 @@ About 8 months ago I started to learn about the causes of inflation and money su
 
 ---
 
+**[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
+
+12h ago
+
+---
+
 **[Where do you draw the line ?](https://www.reddit.com/r/Bitcoin/comments/1t5b7mu/where_do_you_draw_the_line/)**
 
 For those of you that waited for a drop to $40 000 - $50 000, that never came, are you still waiting or at what point will you eventually buy back in if Bitcoin keeps going up, $85 000, $90 000, $95 000 or are you willing to miss the bus entirely ? Just curious.
 
-11h ago
-
----
-
-**[My bitcoin strategy, explained in one image](https://www.reddit.com/r/Bitcoin/comments/1t5ckg3/my_bitcoin_strategy_explained_in_one_image/)**
-
-10h ago
-
----
-
-**[Study Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t5dpfq/study_bitcoin/)**
-
-So, if someone in Florence could check if this sticker is still up there, that would be nice. (ps, I highly doubt it lol)
-
-9h ago
-
----
-
-**[If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?](https://www.reddit.com/r/Bitcoin/comments/1t5rcmy/if_i_buy_bitcoin_or_any_crypto_on_coinbase_with_a/)**
-
-If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit card company treat it as a “cash advance” or regular purchase?
-
-1h ago
+12h ago
 
 ---
 
@@ -149,7 +149,7 @@ If I buy Bitcoin or any crypto on Coinbase with a credit card, will the credit c
 
 Should I buy more now or just hold what I have?
 
-3h ago
+5h ago
 
 ---
 
@@ -157,11 +157,11 @@ Should I buy more now or just hold what I have?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
+**[Strategy Survives Another Bitcoin Crash With More Alchemy](https://finance.yahoo.com/markets/crypto/articles/strategy-survives-another-bitcoin-crash-002705401.html)**
 
-Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
+(Bloomberg) -- Michael Saylor’s Bitcoin accumulation firm Strategy Inc. has survived yet another crypto market meltdown with some fresh financial engineering. Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysAnthropic Unveils AI Agents to Field Financial Services TasksUS Says Offensive Phase of Iran War Over as Ship Hit in StraitTrump Pauses Plan to Guide Ships While Seeking Iran DealWhite House Weighs AI Working Group, Model Testing, NYT ReportsThe outlook cou
 
-CNBC • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -169,13 +169,15 @@ CNBC • 23h ago
 
 White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Treasury Company Posts $12.5 Billion Loss, Boasts That People Are Still Giving It Money](https://gizmodo.com/michael-saylors-bitcoin-treasury-company-posts-12-5-billion-loss-boasts-that-people-are-still-giving-it-money-2000755338)**
+**[Bitcoin At $81,000, Ethereum, XRP, Dogecoin Consolidate As Trump Seeks Iran Progress](https://finance.yahoo.com/markets/crypto/articles/bitcoin-81-000-ethereum-xrp-233005212.html)**
 
-Gizmodo • 10m ago
+Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,35 +185,15 @@ Gizmodo • 10m ago
 
 American Bitcoin (NASDAQ:ABTC) reported first-quarter fiscal 2026 results highlighting higher Bitcoin production, lower unit mining costs, and continued growth in its Bitcoin reserve, even as Bitcoin prices declined during the quarter and created significant non-cash accounting losses under fair val
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says](https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says)**
+**[American Bitcoin Reports Record Q1 Production as BTC Reserve Climbs 30%](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-reports-record-q1-004900570.html)**
 
-Alex Pruden said the asymmetry between acting on a post-quantum signature scheme today and waiting for certainty about quantum-computing hardware timelines means Bitcoin developers should move from research into production.
+American Bitcoin (NASDAQ: $ABTC) said its strategic reserve grew to 7,021 BTC at the end of the first quarter, up f...
 
-CoinDesk • 1h ago
-
----
-
-**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading](https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/)**
-
-Investor's Business Daily • 2h ago
-
----
-
-**[Colombian president seeks to transform the Caribbean into bitcoin mining hub](https://www.theblock.co/post/400162/colombias-president-bitcoin-mining)**
-
-Petro pointed to Venezuela and Paraguay as countries that managed to attract investment in bitcoin mining with abundant clean energy.
-
-The Block • 15h ago
+Yahoo Finance • 27m ago
 
 ---
 
@@ -223,11 +205,33 @@ Investopedia • 1d ago
 
 ---
 
-**[The New Rules of Bitcoin - Sponsor Content - Unchained](https://www.theatlantic.com/sponsored/unchained-2026/new-rules-of-bitcoin/4095/)**
+**[VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games](https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games)**
 
-A different way to understand bitcoin
+The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.
 
-The Atlantic • 8h ago
+The Block • 5h ago
+
+---
+
+**[Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading](https://www.investors.com/news/bitcoin-miner-hut-8-ai-data-center-deal-earnings-morgan-stanley-crypto-debut-bitcoin-price/)**
+
+Investor's Business Daily • 4h ago
+
+---
+
+**[Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030)**
+
+By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
+
+Decrypt • 4h ago
+
+---
+
+**[Bitcoin breaks $80k as long-awaited CLARITY Act approaches finish line](https://fortune.com/2026/05/04/bitcoin-80k-clarity-act/)**
+
+‘We’re in the red zone,” Senate Banking Committee chairman Tim Scott said
+
+Fortune • 2d ago
 
 ---
 
@@ -269,7 +273,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 5h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -317,33 +321,23 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is About To Trigger a MASSIVE Short Squeeze](https://www.youtube.com/watch?v=aJt-Ge0oOaY)**
+**[This Is The End Of The Crypto Industry](https://www.youtube.com/watch?v=nZzOyNGkiXQ)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say, but it's the truth and in this episode, I explain in ...
 
-📺 CryptosRUs
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 18K • 👍 1K • 💬 365 • ⏱️ 47:26 • 8h ago
-
----
-
-**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
-
-The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 511 • ⏱️ 25:32 • 23h ago
+👁️ 9K • 👍 1K • 💬 300 • ⏱️ 13:36 • 4h ago
 
 ---
 
-**[STRATEGY IS CONSIDERING SELLING BITCOIN!!](https://www.youtube.com/watch?v=saX1BdMx-7c)**
+**[&quot;Are The Cracks Starting To Show?&quot; - Michael Saylor SHOCKING Rumor Of Selling Bitcoin](https://www.youtube.com/watch?v=GYJWnSJrthk)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion dollar Q1 loss and playing down talk of distress, even ...
 
-📺 My Financial Friend
+📺 Valuetainment
 
-👁️ 8K • 👍 319 • 💬 250 • ⏱️ 13:16 • 21h ago
+👁️ 41K • 👍 1K • 💬 462 • ⏱️ 11:41 • 6h ago
 
 ---
 
@@ -353,7 +347,51 @@ ARK Invest reportedly added nearly ~$39M worth of Robinhood shares across its th
 
 📺 Paul Barron Network
 
-👁️ 47K • 👍 2K • 💬 119 • ⏱️ 12:02 • 1d ago
+👁️ 48K • 👍 2K • 💬 100 • ⏱️ 12:02 • 1d ago
+
+---
+
+**[Everything Edward Snowden Predicted Is Happening RIGHT NOW](https://www.youtube.com/watch?v=O1QK72cOO08)**
+
+The system is cracking while surveillance expands at full speed. From AI threats to bank accounts to collapsing bond markets and ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 515 • ⏱️ 25:32 • 1d ago
+
+---
+
+**[STRATEGY IS CONSIDERING SELLING BITCOIN!!](https://www.youtube.com/watch?v=saX1BdMx-7c)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 8K • 👍 322 • 💬 272 • ⏱️ 13:16 • 22h ago
+
+---
+
+**[“I’ll keep this stupid Bitcoin.” Famous last words in divorce court. — James Sexton](https://www.youtube.com/watch?v=ay2oigb9KoQ)**
+
+📺 Natalie Brunell
+
+👁️ 1K • 👍 66 • 💬 92 • ⏱️ 1:34 • 2h ago
+
+---
+
+**[What happens if $MSTR sells Bitcoin? #bitcoin #mstr #strategy #investing](https://www.youtube.com/watch?v=MNJe3wInwpo)**
+
+📺 True North
+
+👁️ 479 • 👍 14 • 💬 1 • ⏱️ 0:59 • 3h ago
+
+---
+
+**[The Trillion Dollar Bet on Bitcoin. #bitcoin #money #marketcap #investing](https://www.youtube.com/watch?v=ipbf2i2HNls)**
+
+📺 True North
+
+👁️ 1K • 👍 10 • ⏱️ 0:38 • 5h ago
 
 ---
 
@@ -363,55 +401,17 @@ BTC charts, Saylor to sell, ETH, SOL, PEPE, AMD, GME, MARA and more! BITUNIX TRA
 
 📺 Lark Davis
 
-👁️ 15K • 👍 760 • 💬 79 • ⏱️ 18:32 • 12h ago
+👁️ 17K • 👍 778 • 💬 129 • ⏱️ 18:32 • 14h ago
 
 ---
 
-**[Bitcoin Just Flashed A Massive $100K Signal](https://www.youtube.com/watch?v=Rg47vPctFBw)**
+**[Bitcoin is Gambling (And You Can Win Big)](https://www.youtube.com/watch?v=CybqqO4I_C4)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+1. Join Us for a Small Gathering at the Intersection of Financial Wellness and Physical Wellness November 3-5, 2026 at Murrieta ...
 
-📺 CryptosRUs
+📺 Brian Harrington
 
-👁️ 22K • 👍 1K • 💬 589 • ⏱️ 46:55 • 1d ago
-
----
-
-**[Benjamin Cowen’s Warning: Bitcoin’s Bear Market Likely Isn’t Over Yet](https://www.youtube.com/watch?v=9OFGzpRVg2o)**
-
-In this interview, Benjamin Cowen shares his outlook on Bitcoin, arguing that the four-year cycle remains intact and that the market ...
-
-📺 Cointelegraph
-
-👁️ 9K • 👍 327 • 💬 105 • ⏱️ 23:59 • 1d ago
-
----
-
-**[Bitcoin $1 Million: The Finney Prophecy Unfolds](https://www.youtube.com/watch?v=K7TdiLDpH_Y)**
-
-Hal Finney saw the endgame before almost everyone. Before Wall Street cared. Before ETFs. Before sovereigns. Before public ...
-
-📺 Swan Bitcoin
-
-👁️ 13K • 👍 799 • 💬 280 • ⏱️ 19:08 • 22h ago
-
----
-
-**[My Honest Take on Buying Bitcoin and Altcoins in May 2026](https://www.youtube.com/watch?v=AMs94pcIuGc)**
-
-Three honest questions about buying Bitcoin and altcoins this month, and what I's_actual_ly doing with my own portfolio. First: is ...
-
-📺 VirtualBacon
-
-👁️ 25K • 👍 906 • 💬 747 • ⏱️ 12:29 • 20h ago
-
----
-
-**[The Trillion Dollar Bet on Bitcoin. #bitcoin #money #marketcap #investing](https://www.youtube.com/watch?v=ipbf2i2HNls)**
-
-📺 True North
-
-👁️ 545 • 👍 7 • ⏱️ 0:38 • 3h ago
+👁️ 985 • 👍 81 • 💬 10 • ⏱️ 6:00 • 9h ago
 
 ---
 
