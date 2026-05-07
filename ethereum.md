@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T19:14:14.914669+00:00'
+updated: '2026-05-07T20:47:50.412685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 19:14 UTC  
+**Last Updated:** May 07, 2026 at 20:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,301.69
+### $2,294.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +0.0%  
-**30d:** +4.9%  
-**90d:** +9.6%  
-**1y:** +4.1%  
+**24h:** -2.7%  
+**7d:** -0.2%  
+**30d:** +4.6%  
+**90d:** +9.3%  
+**1y:** +3.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.87B
+**Market Cap:** $276.33B
 Rank #2
 
 **Circulating Supply:** 120,687,104 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.6%
+-53.7%
 
 **All-Time Low:** $0.43
-+529463.8%
++528526.1%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
 **[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
 
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 12h ago
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 14h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 **[XRP vs. Ethereum: Better Cryptocurrency?](https://www.fool.com/investing/2026/05/07/xrp-vs-ethereum-better-cryptocurrency/)**
 
-The Motley Fool • 14m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -176,31 +176,7 @@ The Motley Fool • 14m ago
 
 Which of these altcoins has a brighter future?
 
-Yahoo Finance • 34m ago
-
----
-
-**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/1768914/better-long-term-crypto-hold-xrp-or-ethereum/)**
-
-Motley Fool Press Release.
-
-The Globe and Mail • 7h ago
-
----
-
-**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
-
-At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
-
-CoinDesk • 53m ago
-
----
-
-**[Current price of Ethereum for May 7, 2026](https://fortune.com/article/price-of-ethereum-05-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -210,9 +186,25 @@ Barron's • 2d ago
 
 ---
 
+**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
+
+At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
+
+CoinDesk • 2h ago
+
+---
+
 **[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
 
-TipRanks • 6h ago
+TipRanks • 8h ago
+
+---
+
+**[Current price of Ethereum for May 7, 2026](https://fortune.com/article/price-of-ethereum-05-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7h ago
 
 ---
 
@@ -220,7 +212,15 @@ TipRanks • 6h ago
 
 MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
+
+---
+
+**[Ethereum Founder Vitalik Says Five Banks on One Chain Is Not a Blockchain Solution](https://coinpedia.org/news/ethereum-founder-vitalik-says-five-banks-on-one-chain-is-not-a-blockchain-solution/)**
+
+Vitalik Buterin has delivered a verdict on consortium blockchains, calling them a failure of their original vision. Speaking during an Arbitrum Day
+
+Coinpedia • 1d ago
 
 ---
 
@@ -228,33 +228,23 @@ markets.businessinsider.com • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
-
-Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 282 • 💬 60 • ⏱️ 8:18 • 20h ago
-
----
-
 **[BREAKING: Leaked Iran Deal Sends Bitcoin &amp; Crypto SOARING | Tom Lee’s Big Warning](https://www.youtube.com/watch?v=zCxKwUvHeGE)**
 
 Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 171 • 💬 30 • ⏱️ 18:13 • 1d ago
+👁️ 5K • 👍 175 • 💬 27 • ⏱️ 18:13 • 1d ago
 
 ---
 
-**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
+**[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
 
-Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
+Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
 
-📺 The Block
+📺 More Crypto Online
 
-👁️ 2K • 👍 84 • 💬 17 • ⏱️ 22:10 • 1d ago
+👁️ 5K • 👍 295 • 💬 42 • ⏱️ 8:18 • 21h ago
 
 ---
 
@@ -264,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 250 • 👍 26 • 💬 5 • ⏱️ 4:38 • 8h ago
+👁️ 330 • 👍 27 • 💬 5 • ⏱️ 4:38 • 10h ago
 
 ---
 
@@ -274,7 +264,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 95 • 💬 10 • ⏱️ 7:39 • 1d ago
+👁️ 2K • 👍 96 • 💬 17 • ⏱️ 7:39 • 1d ago
+
+---
+
+**[BTC, ETH, ZEC, TRUMP, BTC, LINK, SOL, DOT, TON, NEAR, SKYAI, INJ, VVV, XRP, DEEP, SNDK: Live TA](https://www.youtube.com/watch?v=HlfLAFoztc8)**
+
+In this Elite Live TA session, The Trading Parrot delivers comprehensive technical analysis on Bitcoin at $83K, plus ETH, ZEC, ...
+
+📺 The Trading Parrot
+
+👁️ 2K • 👍 175 • 💬 11 • ⏱️ 1:35:09 • 7h ago
 
 ---
 
@@ -284,27 +284,27 @@ BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 301 • 💬 301 • ⏱️ 16:18 • 16h ago
+👁️ 7K • 👍 321 • 💬 325 • ⏱️ 16:18 • 17h ago
 
 ---
 
-**[ETH, ZEC, TRUMP, BTC, LINK, SOL, DOT, TON, NEAR, SKYAI, INJ, VVV, XRP, DEEP, SNDK: Live TA](https://www.youtube.com/watch?v=HlfLAFoztc8)**
+**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
 
-In this Elite Live TA session, The Trading Parrot delivers comprehensive technical analysis on Bitcoin at $83K, plus ETH, ZEC, ...
+Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
 
-📺 The Trading Parrot
+📺 The Block
 
-👁️ 1K • 👍 160 • 💬 8 • ⏱️ 1:35:09 • 6h ago
+👁️ 2K • 👍 91 • 💬 17 • ⏱️ 22:10 • 1d ago
 
 ---
 
-**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
+**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
 
-In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
+I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
 
-📺 The Value Thinker
+📺 Verified Pro Traders
 
-👁️ 9K • 👍 583 • 💬 140 • ⏱️ 17:39 • 1d ago
+👁️ 1K • 👍 143 • 💬 3 • ⏱️ 8:05 • 2h ago
 
 ---
 
@@ -314,17 +314,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 281 • 💬 104 • ⏱️ 19:21 • 2d ago
+👁️ 7K • 👍 281 • 💬 65 • ⏱️ 19:21 • 2d ago
 
 ---
 
-**[Ethereum MAJOR Sell Volume Confirms Rejection And Crash?](https://www.youtube.com/watch?v=9CQfOiya1cA)**
+**[Ethereum Co-Founder: How Big Tech Will Use AI To Control You (And How Crypto Stops It) | E170](https://www.youtube.com/watch?v=j4_MME6O9Cs)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+Joseph Lubin, co-founder of Ethereum and CEO of Consensys, warns that big tech is racing to build centralized AI systems that ...
 
-📺 Trade Confident
+📺 When Shift Happens
 
-👁️ 384 • 👍 14 • 💬 4 • ⏱️ 5:21 • 1d ago
+👁️ 672 • 👍 54 • 💬 69 • ⏱️ 1:13:25 • 6h ago
 
 ---
 
