@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-08T04:36:56.064847+00:00'
+updated: '2026-05-08T06:52:28.766149+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 04:36 UTC  
+**Last Updated:** May 08, 2026 at 06:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,41 +36,49 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,291.33
+### $2,276.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -1.6%  
-**30d:** +4.1%  
-**90d:** +9.1%  
-**1y:** -2.8%  
+**24h:** -2.9%  
+**7d:** -1.8%  
+**30d:** +3.9%  
+**90d:** +8.9%  
+**1y:** -3.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.29B
+**Market Cap:** $274.44B
 Rank #2
 
 **Circulating Supply:** 120,686,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.9%
+-54.0%
 
 **All-Time Low:** $0.43
-+526338.9%
++525271.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 08, 2026](https://www.reddit.com/r/ethereum/comments/1t6y2s1/daily_general_discussion_may_08_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -78,7 +86,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
 
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 22h ago
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 1d ago
 
 ---
 
@@ -110,7 +118,7 @@ anyone ever think about how fragile their access to their traditional bank accou
 
 Couldn't really find it,most of what's out there is press release language or token price commentary, neither of which tells me if the liquidity is sticky or if it's farmers waiting for the next chain. So genuine question for anyone whos actually on katana or providing liquidity on Sushi there ,what's the lp experience like, what are fees doing, and is there organic swap demand or is volume mostly aggregator routing? Not trying to make a thesis post, I just can't tell from the outside and figured someone here would actually know.
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +126,7 @@ Couldn't really find it,most of what's out there is press release language or to
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,15 +142,7 @@ Hey everyone! I’ve been working on a security layer for the Agentic Economy du
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
-
----
-
-**[Dev Tools Guild April 2026 update](https://www.reddit.com/r/ethereum/comments/1t3ekon/dev_tools_guild_april_2026_update/)**
-
-**TL;DR**: Support Vyper & Sourcify in Ethereum security QF round, Solidity 0.8.35 and Foundry 1.7.0.
-
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-april-2026-update) • 3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 9h ago
 
 The longer time horizon you consider, the more one of these assets stands out.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -186,19 +186,19 @@ Yahoo Finance • 1d ago
 
 Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
 
-Decrypt • 7h ago
+Decrypt • 9h ago
 
 ---
 
 **[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
 
-TipRanks • 16h ago
+TipRanks • 18h ago
 
 ---
 
 **[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
 
-thestreet.com • 7h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -206,15 +206,13 @@ thestreet.com • 7h ago
 
 Cryptocurrency prices are showing broad weakness on Thursday, following a widespread rally this week that saw Bitcoin (BTC) rise to $82,850 for the first time in three months. The Crypto King is now trading above $81,000, with its upside seemingly capped as retail and institutional demand cools.
 
-FXStreet • 16h ago
+FXStreet • 18h ago
 
 ---
 
-**[Is This Sign a Big Red Flag for Ethereum?](https://www.aol.com/articles/sign-big-red-flag-ethereum-215700177.html)**
+**[Bitcoin Breaks Back Above $80,000. Why the Crypto Winter Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
 
-Some concerned investors are pulling their capital from the network's staking ecosystem.
-
-AOL.com • 6h ago
+Barron's • 2d ago
 
 ---
 
@@ -222,7 +220,7 @@ AOL.com • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 17h ago
 
 ---
 
@@ -236,7 +234,7 @@ MASSIVE XRP CALL: 2026 Crypto Bull Market Is Here? MAJOR Bitcoin & Ethereum Upda
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 407 • 💬 8 • ⏱️ 28:08 • 10h ago
+👁️ 5K • 👍 420 • 💬 8 • ⏱️ 28:08 • 12h ago
 
 ---
 
@@ -246,7 +244,7 @@ I'll need to read the transcript carefully to pull the right details. Let me dra
 
 📺 Verified Pro Traders
 
-👁️ 3K • 👍 252 • 💬 5 • ⏱️ 8:05 • 10h ago
+👁️ 3K • 👍 259 • 💬 5 • ⏱️ 8:05 • 12h ago
 
 ---
 
@@ -256,17 +254,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 182 • 💬 27 • ⏱️ 18:13 • 1d ago
-
----
-
-**[Ethereum Co-Founder: How Big Tech&#39;s AI Push Threatens Freedom - And What Stops It | E170](https://www.youtube.com/watch?v=j4_MME6O9Cs)**
-
-Joseph Lubin, co-founder of a major open-source technology platform and CEO of Consensys, warns that big tech is racing to ...
-
-📺 When Shift Happens
-
-👁️ 1K • 👍 69 • 💬 86 • ⏱️ 1:13:25 • 14h ago
+👁️ 5K • 👍 186 • 💬 27 • ⏱️ 18:13 • 1d ago
 
 ---
 
@@ -276,37 +264,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 99 • 💬 10 • ⏱️ 7:39 • 1d ago
-
----
-
-**[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
-
-Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 296 • 💬 42 • ⏱️ 8:18 • 1d ago
-
----
-
-**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
-
-In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
-
-📺 The Value Thinker
-
-👁️ 10K • 👍 607 • 💬 146 • ⏱️ 17:39 • 1d ago
-
----
-
-**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 282 • 💬 65 • ⏱️ 19:21 • 2d ago
+👁️ 2K • 👍 100 • 💬 10 • ⏱️ 7:39 • 1d ago
 
 ---
 
@@ -316,7 +274,47 @@ Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Et
 
 📺 The Block
 
-👁️ 3K • 👍 100 • 💬 17 • ⏱️ 22:10 • 1d ago
+👁️ 3K • 👍 102 • 💬 18 • ⏱️ 22:10 • 1d ago
+
+---
+
+**[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
+
+Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 299 • 💬 41 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[BMNR May Update: Staking 88% of ETH Bag, ISM PMI pushing higher](https://www.youtube.com/watch?v=zWFmgo5_mOw)**
+
+In this video we review BMNR's May holdings. We will break down the latest holdings, mNAV, staking revenue potential, cash ...
+
+📺 The Value Thinker
+
+👁️ 10K • 👍 610 • 💬 146 • ⏱️ 17:39 • 1d ago
+
+---
+
+**[Ethereum Co-Founder: How Big Tech&#39;s AI Push Threatens Freedom - And What Stops It | E170](https://www.youtube.com/watch?v=j4_MME6O9Cs)**
+
+Joseph Lubin, co-founder of a major open-source technology platform and CEO of Consensys, warns that big tech is racing to ...
+
+📺 When Shift Happens
+
+👁️ 1K • 👍 76 • 💬 87 • ⏱️ 1:13:25 • 16h ago
+
+---
+
+**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 282 • 💬 64 • ⏱️ 19:21 • 2d ago
 
 ---
 
@@ -326,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 431 • 👍 30 • 💬 5 • ⏱️ 4:38 • 18h ago
+👁️ 470 • 👍 30 • 💬 5 • ⏱️ 4:38 • 20h ago
 
 ---
 

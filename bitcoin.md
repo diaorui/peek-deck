@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-08T04:36:56.058854+00:00'
+updated: '2026-05-08T06:52:28.760177+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 04:36 UTC  
+**Last Updated:** May 08, 2026 at 06:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,657.60
+### $79,598.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +1.2%  
-**30d:** +10.8%  
-**90d:** +13.2%  
-**1y:** -22.7%  
+**24h:** -2.5%  
+**7d:** +1.0%  
+**30d:** +10.7%  
+**90d:** +13.1%  
+**1y:** -22.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1595.84B
+**Market Cap:** $1591.96B
 Rank #1
 
-**Circulating Supply:** 20,026,218 BTC
+**Circulating Supply:** 20,026,262 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.8%
+-36.9%
 
 **All-Time Low:** $67.81
-+117376.8%
++117137.9%
 
 ---
 
@@ -81,63 +81,7 @@ Rank #1
 
 Morgan Stanley holds $269.9 million in Spot Bitcoin ETF positions, with the bulk of that exposure sitting in GBTC – the Grayscale Bitcoin Trust – according to recent 13F filings submitted to the SEC. The bank’s own Spot Bitcoin ETF, trading under the ticker MSBT, pulled in over $200 million in assets within weeks of its May 2026 launch, placing it ahead of most traditional ETF debuts by any measure. Here is the detail that reframes the entire story: Morgan Stanley’s 15,000-plus financial advisors were not cleared to recommend these products. Every dollar that came in during those first weeks arrived because clients asked for it themselves. That is not a distribution success story. That is a demand signal, and it raises a structural question worth sitting with: what does it mean when high-net-worth clients are pulling toward Bitcoin before advisors are permitted to push it? In the broker-dealer world, ‘unsolicited’ has a specific regulatory meaning. Think of it like a restaurant where the waiter is not allowed to recommend the steak, but you can still order it if you ask. FINRA’s suitability rules require advisors to have formal internal approval before proactively pitching any investment product to clients. Without that approval, the product sits on the menu with no one allowed to describe it. Morgan Stanley’s advisors are currently in that position with Spot Bitcoin ETFs. They cannot bring up MSBT or GBTC in a client meeting unprompted. But if a client walks in and says, ‘I want Bitcoin exposure through a regulated product,’ the advisor can execute that trade – and it gets logged as an unsolicited order. That is precisely what happened during MSBT’s first two weeks. Amy Oldenburg, head of digital assets at Morgan Stanley, confirmed it directly at the Consensus conference in Miami Beach: ‘Almost all of that first week or two of activity was self-directed. It was not our advisors that were selling this.’ GBTC, the Grayscale Bitcoin Trust that forms the core of Morgan Stanley’s $269.9 million position, has historically been the vehicle institutional-grade investors reached for when they wanted regulated Bitcoin exposure before newer Spot Bitcoin ETF structures became available. Morgan Stanley clients seeking that exposure were not waiting for permission – they were finding the path themselves. The $269.9 million position disclosed in Morgan Stanley’s 13F filings is concentrated heavily in GBTC, making the firm one of the largest institutional holders of that fund. Layered on top of that existing position, the newly launched MSBT gathered $200 million in assets under management within its opening weeks, a pace that puts it in rare company among ETF launches across any asset class. To calibrate the scale: total Spot Bitcoin ETF assets under management across all U.S.-listed products have grown significantly since the January 2024 approval wave, with cumulative net inflows reaching $59.6 billion as Wall Street’s institutional appetite has proven more durable than many skeptics expected. Morgan Stanley’s combined position remains a fraction of that total – but the structural significance is not the dollar size. It is who is holding it and under what conditions. MSBT launched with a 0.14% sponsor fee, the lowest among Bitcoin ETPs at launch – a deliberate pricing move that signals Morgan Stanley is competing for long-term market share, not simply checking a product box. Custody sits with Coinbase for Bitcoin cold storage and BNY Mellon for cash administration, a dual-custody model that the bank has positioned as a security differentiator. BlackRock’s IBIT remains the dominant fund by assets, but the institutional permission dynamic that drove IBIT’s early growth is now playing out in parallel at Morgan Stanley – with one key difference: this time, the bank controls the product directly. The tension at the center of this story is structural. Morgan Stanley is simultaneously a holder of Bitcoin ETF positions, an issuer of a Bitcoin ETF product, and a firm whose advisor network is currently restricted from actively marketing that product. That is not a contradiction; it is a sequencing strategy, and it is how large institutions have historically managed regulatory exposure when entering new asset classes. The institutional adoption pattern here mirrors what played out with BlackRock and Fidelity’s ETF launches in 2024: proprietary and client positions accumulate quietly through unsolicited channels while the compliance and internal approval infrastructure catches up. Advisor channel dynamics have consistently lagged institutional positioning across the ETF landscape, Morgan Stanley is not an outlier; it is following the same playbook at larger scale. Oldenburg framed the longer arc clearly: ‘We’ll live in a hybrid world for quite some time.’ The bank is simultaneously building out spot crypto trading through its E*TRADE platform – expected to launch in the first half of 2026 with Bitcoin, Ethereum, and Solana – while studying tokenized financial instruments as a decade-long infrastructure project. That is not a firm hedging its bets. That is a firm building a vertically integrated crypto stack.
 
-🔗 [99Bitcoins](https://99bitcoins.com/news/bitcoin-btc/morgan-stanley-spot-bitcoin-etf-bet-explained/) • 13h ago
-
----
-
-**[Do you feel like people don’t care about the founding principles of Bitcoin anymore and fighting the system?](https://www.reddit.com/r/Bitcoin/comments/1t6tade/do_you_feel_like_people_dont_care_about_the/)**
-
-Bitcoin was created to go against traditional finance so people would have a free monetary system. But it seems these days everyone cheers on the government and big banks as they infiltrate and control our ecosystem. It seems that people in the space now only care about money and not about going against the grain like we did in the old days.
-
-3h ago
-
----
-
-**[Kraken to let customers cash out crypto at MoneyGram locations in more than 100 countries | Fortune](https://www.reddit.com/r/Bitcoin/comments/1t6ayvs/kraken_to_let_customers_cash_out_crypto_at/)**
-
-Once a legacy cross-border payments firm, MoneyGram has revamped itself to become more crypto-native over the past three years.
-
-🔗 [Fortune](https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/) • 14h ago
-
----
-
-**[You don’t lose anything until you sell.](https://www.reddit.com/r/Bitcoin/comments/1t6bi29/you_dont_lose_anything_until_you_sell/)**
-
-Remember: 1 BTC = 1 BTC
-
-14h ago
-
----
-
-**[Has anyone here actually used Bitcoin/Lightning payments at a real store through Square yet?](https://www.reddit.com/r/Bitcoin/comments/1t6mx4q/has_anyone_here_actually_used_bitcoinlightning/)**
-
-I keep seeing news about Square enabling BTC payments and I’m curious how practical it is right now in the real world. Do you need Cash App/Strike specifically? Do merchants usually know they even have it enabled? Can you just scan and pay instantly or do you still have to awkwardly ask the cashier first? Would love to hear some real experiences from people who’ve actually bought coffee/food/etc using Lightning at checkout.
-
-7h ago
-
----
-
-**[Do I sell stock or Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t6mi5p/do_i_sell_stock_or_bitcoin/)**
-
-I'm in a financial pinch and need to liquidate somewhere I have 0.105 Bitcoin and my Avg Cost is $101k (my dumbass bought at the peak) I also have $21k in a Taxable Brokerage Acct in Index Funds I need around $10k, which is exactly how much Bitcoin I have. Should I take the L and sell the Bitcoin or should I sell the Stock? Also planning on buying back in once my work picks back up again.
-
-8h ago
-
----
-
-**[Bitcoin changed my mindset](https://www.reddit.com/r/Bitcoin/comments/1t6579y/bitcoin_changed_my_mindset/)**
-
-I still remember back in the days, I had FOMO if Bitcoin was pumping. I needed to buy more because it was going “tO tHe mOoN”. Back when I still was watching videos on youtube. You know, the guys with ridiculous thumbnails? Back then, I had no clue of what Bitcoin actually was, how it worked and why it had value. Now, I believe I can say I know a lot more about it. But I’m still not an expert (and probably never will be). But I do know that I don’t have FOMO anymore, not one bit. Setting up a DCA plan (thanks Relai) helped me a lot, but studying Bitcoin helped me even more. I know it’s a scarce asset, I know why it has value and I’m pretty sure that more and more people will see this too. Sure, it’s nice if the price goes up. But I’m also glad to buy cheap(ish) sats. So yeah, now I’m glad if there is a price drop, I’m not saying that I won’t panic if it goes back down to 10K, But even then I will buy some sats for sure! Overall it’s just nice to have some peace of mind. And in hindsight, it’s ridiculous to have watched those youtubers, but it’s all a part of growing and learning I guess. ✌🏻
-
-19h ago
-
----
-
-**[Respone To Casual Finance's "Bitcoin is a Scam" Claim](https://www.reddit.com/r/Bitcoin/comments/1t6rzoa/respone_to_casual_finances_bitcoin_is_a_scam_claim/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=Yjknkadc4jQ) • 4h ago
+🔗 [99Bitcoins](https://99bitcoins.com/news/bitcoin-btc/morgan-stanley-spot-bitcoin-etf-bet-explained/) • 16h ago
 
 ---
 
@@ -145,15 +89,71 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from now, 0.1 Bitcoin will be a year's living expenses.
 
-7m ago
+2h ago
 
 ---
 
-**[Is bitcoin changing the power dynamics of capital?](https://www.reddit.com/r/Bitcoin/comments/1t6fbe6/is_bitcoin_changing_the_power_dynamics_of_capital/)**
+**[Kraken to let customers cash out crypto at MoneyGram locations in more than 100 countries | Fortune](https://www.reddit.com/r/Bitcoin/comments/1t6ayvs/kraken_to_let_customers_cash_out_crypto_at/)**
 
-I’ve long been thinking about how an individual should build different forms of capital to future-proof themselves as financial and political uncertainty rises. To evaluate resilience, I’ve found it useful to think about capital in four forms, inspired by Bourdieu: Cultural capital – what you know: skills, knowledge, education Social capital – who you know: relationships and networks Symbolic capital – how you’re perceived: status, legitimacy, reputation, influence Financial capital – what you own: money, assets, property What stands out to me is that financial capital has historically been more vulnerable than the other forms to confiscation and theft. Compared with money or property, it is much harder to steal someone’s skills, reputation, or social network. Bitcoin seems to change that dynamic. If stored properly, Bitcoin is also extremely hard to confiscate or steal. In that sense, it appears to make financial capital more competitive with the other forms of capital from a resilience perspective. At the same time, cultural capital may be becoming less secure in an AI-driven world, since many forms of knowledge work and skill can now be replicated or diluted more quickly. That is a separate discussion, but it adds to the broader question of how individuals should think about future-proofing themselves. Do you agree with this framing? And if so, what do you think this shift implies for individuals, institutions, and states?
+Once a legacy cross-border payments firm, MoneyGram has revamped itself to become more crypto-native over the past three years.
 
-🔗 [Myntad](https://www.myntad.com/how-bitcoin-changes-the-power-dynamics-of-capital/) • 12h ago
+🔗 [Fortune](https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/) • 17h ago
+
+---
+
+**[You don’t lose anything until you sell.](https://www.reddit.com/r/Bitcoin/comments/1t6bi29/you_dont_lose_anything_until_you_sell/)**
+
+Remember: 1 BTC = 1 BTC
+
+16h ago
+
+---
+
+**[Respone To Casual Finance's "Bitcoin is a Scam" Claim](https://www.reddit.com/r/Bitcoin/comments/1t6rzoa/respone_to_casual_finances_bitcoin_is_a_scam_claim/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=Yjknkadc4jQ) • 6h ago
+
+---
+
+**[Has anyone here actually used Bitcoin/Lightning payments at a real store through Square yet?](https://www.reddit.com/r/Bitcoin/comments/1t6mx4q/has_anyone_here_actually_used_bitcoinlightning/)**
+
+I keep seeing news about Square enabling BTC payments and I’m curious how practical it is right now in the real world. Do you need Cash App/Strike specifically? Do merchants usually know they even have it enabled? Can you just scan and pay instantly or do you still have to awkwardly ask the cashier first? Would love to hear some real experiences from people who’ve actually bought coffee/food/etc using Lightning at checkout.
+
+10h ago
+
+---
+
+**[Do I sell stock or Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t6mi5p/do_i_sell_stock_or_bitcoin/)**
+
+I'm in a financial pinch and need to liquidate somewhere I have 0.105 Bitcoin and my Avg Cost is $101k (my dumbass bought at the peak) I also have $21k in a Taxable Brokerage Acct in Index Funds I need around $10k, which is exactly how much Bitcoin I have. Should I take the L and sell the Bitcoin or should I sell the Stock? Also planning on buying back in once my work picks back up again.
+
+10h ago
+
+---
+
+**[Bitcoin changed my mindset](https://www.reddit.com/r/Bitcoin/comments/1t6579y/bitcoin_changed_my_mindset/)**
+
+I still remember back in the days, I had FOMO if Bitcoin was pumping. I needed to buy more because it was going “tO tHe mOoN”. Back when I still was watching videos on youtube. You know, the guys with ridiculous thumbnails? Back then, I had no clue of what Bitcoin actually was, how it worked and why it had value. Now, I believe I can say I know a lot more about it. But I’m still not an expert (and probably never will be). But I do know that I don’t have FOMO anymore, not one bit. Setting up a DCA plan (thanks Relai) helped me a lot, but studying Bitcoin helped me even more. I know it’s a scarce asset, I know why it has value and I’m pretty sure that more and more people will see this too. Sure, it’s nice if the price goes up. But I’m also glad to buy cheap(ish) sats. So yeah, now I’m glad if there is a price drop, I’m not saying that I won’t panic if it goes back down to 10K, But even then I will buy some sats for sure! Overall it’s just nice to have some peace of mind. And in hindsight, it’s ridiculous to have watched those youtubers, but it’s all a part of growing and learning I guess. ✌🏻
+
+21h ago
+
+---
+
+**[Elixir-based blockchain explorer](https://www.reddit.com/r/Bitcoin/comments/1t6tmky/elixirbased_blockchain_explorer/)**
+
+I built a block explorer (also has nice lightning network info) and decoder to provide info about addresses, lightning invoices, etc (mostly to practice using Elixir) -- check it out. https://hromp.com/btcexp/ -- live app https://hromp.com/bitcoinex-explorer/ -- info about it
+
+5h ago
+
+---
+
+**[Ways to earn extra income with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t6wvd8/ways_to_earn_extra_income_with_bitcoin/)**
+
+Hi everyone, I'd like to know how I can offer a service using Bitcoin. I work in programming and develop systems in Python. Does anyone know of any ways to earn Bitcoin by offering this kind of service? If you're interested in something, I'm available too. Thanks!
+
+2h ago
 
 ---
 
@@ -161,61 +161,59 @@ I’ve long been thinking about how an individual should build different forms o
 
 ## Google News: "bitcoin"
 
-**[JPMorgan says bitcoin is gaining over gold as debasement trade after Iran conflict](https://www.theblock.co/post/400486/jpmorgan-bitcoin-over-gold-debasement-trade-iran-conflict)**
+**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
 
-Investors are increasingly choosing bitcoin over gold as a debasement trade since the Iran conflict began, JPMorgan analysts said.
+Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-The Block • 8h ago
-
----
-
-**[Billionaire Michael Saylor said he would never sell bitcoin. After 3 straight quarterly losses, he's changing his mind](https://finance.yahoo.com/markets/crypto/articles/billionaire-michael-saylor-said-never-170500436.html)**
-
-Cash would be used to fund dividend payments, after Strategy reported a first-quarter loss of $12.5 billion.
-
-Yahoo Finance • 11h ago
+CNBC • 2d ago
 
 ---
 
-**[🤖 I Asked 3 AIs to Predict Bitcoin's Price. Here's Why You Should Be Worried.](https://www.moomoo.com/community/feed/i-asked-3-ais-to-predict-bitcoin-s-price-here-116536585617814)**
+**[Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record](https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record)**
 
-We're living in the age of AI hype — and crypto is right in the middle of it. $Bitcoin (BTC.CC)$ hits $250,000 this cycle. ChatGPT is more conservative. Gemini is actually calling for a drop. Three of the most advanced AI models on the planet, looking at the same asset, on the same date — and they can't even agree on the direction. So what's really going on? The Grok Case Study Nobody's Talking About Earlier this cycle, ...
+Bitcoin pulled back from this week's $81,500 high after U.S. forces fired on Iranian targets, while crypto futures markets logged their 67th straight day of negative funding rates, the longest streak in a decade per K33 Research.
 
-Moomoo • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[IREN Shares Jump as Nvidia Deal Sharpens Bitcoin Miner’s AI Pivot](https://finance.yahoo.com/markets/stocks/articles/iren-shares-jump-nvidia-deal-022000427.html)**
+**[Bitcoin Falls as U.S. and Iran Trade Attacks -- Market Talk](https://www.moomoo.com/news/post/69627684/bitcoin-falls-as-us-and-iran-trade-attacks-market-talk)**
 
-IREN Limited (NASDAQ: $IREN) shares jumped in after-hours trading on Thursday after the company announced a new Nvi...
+Moomoo • 23m ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Bitcoin Slips to $79,000, DOGE Leads Majors Losses as Negative Funding Rates Set 10-year Record](https://www.moomoo.com/news/post/69623621/bitcoin-slips-to-79000-doge-leads-majors-losses-as-negative)**
+
+Moomoo • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html)**
+
+Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin (BTC) price prediction: Three signals pointing to a possible jump to $85,000](https://www.coindesk.com/markets/2026/05/07/three-signals-pointing-to-a-possible-bitcoin-move-to-usd85-000)**
+
+Bitcoin has broken key cost basis levels, funding rates have flipped neutral, and options positioning is turning supportive. The three signals that suggest further gains may be ahead.
+
+CoinDesk • 1d ago
 
 ---
 
 **[Bitcoin’s unusual technical action points to a crypto bull market, says Fundstrat’s Tom Lee](https://www.marketwatch.com/story/bitcoins-rare-technical-action-points-to-a-crypto-bull-market-says-fundstrats-tom-lee-4e44bfb7)**
 
-MarketWatch • 17h ago
+MarketWatch • 19h ago
 
 ---
 
 **[IREN focuses on its expansion plans as Q3 revenue misses on weaker bitcoin price (IREN:NASDAQ)](https://seekingalpha.com/news/4589259-iren-focuses-on-its-expansion-plans-as-q3-revenue-misses-on-weaker-bitcoin-price)**
 
-Seeking Alpha • 6h ago
-
----
-
-**[Bitcoin stalls below $83K while altcoins flash bullish rotation: Crypto Markets Today](https://www.coindesk.com/markets/2026/05/07/altcoins-climb-as-bitcoin-and-ether-retreat-from-weekly-highs)**
-
-Altcoins outperformed bitcoin and ether on Thursday as traders rotated into higher-risk assets amid improving market sentiment.
-
-CoinDesk • 18h ago
-
----
-
-**[Sudden Bitcoin Price Surge Fuels Huge $16 Trillion ‘Supercycle’ Prediction](https://www.forbes.com/sites/digital-assets/2026/05/05/sudden-bitcoin-price-surge-fuels-huge-16-trillion-supercycle-prediction/)**
-
-Forbes • 2d ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -223,7 +221,7 @@ Forbes • 2d ago
 
 Learn how selling or using Bitcoin impacts your IRS tax bill and discover tips for record keeping to minimize what you owe.
 
-New York Post • 19h ago
+New York Post • 21h ago
 
 ---
 
@@ -244,12 +242,6 @@ Investopedia • 2d ago
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 ⬆️ 2 • 💬 0 • 4d ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
-
----
-
-**[U.S. Seizes $15B in Bitcoin in Crypto 'Scam' Crackdown](https://news.ycombinator.com/item?id=47971809)**
-
-⬆️ 1 • 💬 2 • 6d ago • [forbes.com](https://www.forbes.com/sites/martinacastellanos/2025/10/14/us-seizes-15-billion-in-bitcoin-sanctions-cambodias-prince-group-in-global-crypto-scam-crackdown/)
 
 ---
 
@@ -303,7 +295,7 @@ Bitcoin Monitor Widget -  Build your own real-time crypto space with price widge
 
 Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
-⬆️ 1 • 💬 0 • 23h ago • [ABG](https://abg-discord.vercel.app/)
+⬆️ 1 • 💬 0 • 1d ago • [ABG](https://abg-discord.vercel.app/)
 
 ---
 
@@ -311,7 +303,15 @@ Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
 China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
 
-⬆️ 3 • 💬 2 • 6h ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+⬆️ 4 • 💬 2 • 8h ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+
+---
+
+**[McDonald's is quietly ending the era of self-serve soda fountains nationwide](https://news.ycombinator.com/item?id=48005909)**
+
+McDonald's is quietly ending self-serve soda fountains nationwide, shifting drink prep behind the counter as it modernizes restaurants across the country.
+
+⬆️ 11 • 💬 20 • 3d ago • [Fox Business](https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-quietly-ditching-popular-in-store-feature-nationwide)
 
 ---
 
@@ -325,37 +325,7 @@ Michael Saylor just announced on Strategy's Q1 2026 earnings call that the compa
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 287 • ⏱️ 15:19 • 7h ago
-
----
-
-**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 627 • 💬 333 • ⏱️ 13:40 • 12h ago
-
----
-
-**[This Is The End Of The Crypto Industry](https://www.youtube.com/watch?v=nZzOyNGkiXQ)**
-
-Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say, but it's the truth and in this episode, I explain in ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 55K • 👍 3K • 💬 645 • ⏱️ 13:36 • 1d ago
-
----
-
-**[&quot;Are The Cracks Starting To Show?&quot; - Michael Saylor SHOCKING Rumor Of Selling Bitcoin](https://www.youtube.com/watch?v=GYJWnSJrthk)**
-
-Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion dollar Q1 loss and playing down talk of distress, even ...
-
-📺 Valuetainment
-
-👁️ 93K • 👍 2K • 💬 835 • ⏱️ 11:41 • 1d ago
+👁️ 41K • 👍 2K • 💬 332 • ⏱️ 15:19 • 10h ago
 
 ---
 
@@ -365,7 +335,37 @@ It is once again time for another update on our "Bitcoin: The Beauty of Mathemat
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 100 • ⏱️ 4:32 • 16h ago
+👁️ 38K • 👍 2K • 💬 103 • ⏱️ 4:32 • 18h ago
+
+---
+
+**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
+
+My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 653 • 💬 335 • ⏱️ 13:40 • 14h ago
+
+---
+
+**[This Is The End Of The Crypto Industry](https://www.youtube.com/watch?v=nZzOyNGkiXQ)**
+
+Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say, but it's the truth and in this episode, I explain in ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 55K • 👍 3K • 💬 646 • ⏱️ 13:36 • 1d ago
+
+---
+
+**[BITCOIN: LIQUIDATIONS COMING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=T37goZfzSe4)**
+
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 230 • 💬 35 • ⏱️ 8:12 • 8h ago
 
 ---
 
@@ -375,17 +375,35 @@ Subscribe. Before there's no way in. The four-year Bitcoin cycle may already be 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 246 • 💬 90 • ⏱️ 18:21 • 1d ago
+👁️ 4K • 👍 248 • 💬 90 • ⏱️ 18:21 • 1d ago
 
 ---
 
-**[Bitcoin Now Compared To Major Assets (Chart Shown: Crypto Market Cap &amp; Trendline)](https://www.youtube.com/watch?v=PnveYgxtd1w)**
+**[BITCOIN DUMP ALERT! Will BTC Hit $60k Again?](https://www.youtube.com/watch?v=nsJrG9eUlu8)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+Buy, Sell, Trade Crypto: ✓ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Buy ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 6K • 👍 129 • 💬 2 • ⏱️ 0:32 • 13h ago
+👁️ 9K • 👍 240 • 💬 133 • ⏱️ 1:03 • 18h ago
+
+---
+
+**[HUGE 2021 BULLRUN COMING?! NASDAQ IS BULLISH ON CRYPTO #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=UzICyyOGPSY)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 339 • 💬 5 • ⏱️ 2:08 • 5h ago
+
+---
+
+**[This Bitcoin Rally has Convinced me That the BTC Bear Market is Officially Over! I&#39;m Now Bullish!](https://www.youtube.com/watch?v=uPZGeNZjQnA)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 9K • 👍 658 • ⏱️ 38:20 • 1d ago
 
 ---
 
@@ -395,25 +413,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 330 • 💬 200 • ⏱️ 13:16 • 2d ago
-
----
-
-**[HUGE 2021 BULLRUN COMING?! NASDAQ IS BULLISH ON CRYPTO #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=UzICyyOGPSY)**
-
-📺 CryptoWendyO
-
-👁️ 2K • 👍 272 • 💬 3 • ⏱️ 2:08 • 3h ago
-
----
-
-**[‘Everyone Is Lying to You for Money’ — Ben McKenzie on Crypto](https://www.youtube.com/watch?v=gaV1x7s1MpQ)**
-
-This episode is sponsored by Incogni. For 60% off your first order, go to https://incogni.com/mehdi Would you be surprised to find ...
-
-📺 Zeteo
-
-👁️ 20K • 👍 2K • 💬 191 • ⏱️ 57:12 • 15h ago
+👁️ 9K • 👍 330 • 💬 197 • ⏱️ 13:16 • 2d ago
 
 ---
 
