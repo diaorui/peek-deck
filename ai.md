@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-08T18:11:01.191530+00:00'
+updated: '2026-05-08T19:54:31.918396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 08, 2026 at 18:11 UTC  
+**Last Updated:** May 08, 2026 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 11h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 2h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 4h ago
 
 ---
 
@@ -57,7 +57,15 @@ A new AI tool finds early hints of pancreatic cancer in CT scans that doctors wo
 
 CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp [Recall@10](mailto:Recall@10). Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
 
-🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 57m ago
+🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 2h ago
+
+---
+
+**[AI tooling is starting to feel like PC modding culture](https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/)**
+
+I think local AI setups are about to split into two completely different communities. One side cares about actual production workflows: agents automation APIs inference efficiency data quality reproducibility The other side mostly treats it like PC modding: model collecting benchmark screenshots “look how many params I run” endless UI tweaking generating the same test prompts forever Not even judging either side honestly. I just think it explains why AI discussions online feel so weird lately. Two people can both be “into local AI” and barely even be talking about the same thing anymore.
+
+1h ago
 
 ---
 
@@ -65,23 +73,15 @@ CFS selects relevant candidates by penalizing regions already covered by previou
 
 AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 6h ago
 
 ---
 
-**[**Built my own model-agnostic AI workstation because I was tired of platform lock-in — free, BYOAK, open source**](https://www.reddit.com/r/artificial/comments/1t7ai7r/built_my_own_modelagnostic_ai_workstation_because/)**
+**[Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights](https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/)**
 
-Tired of rebuilding context every time I switched models. Tired of my personas living inside OpenAI's walled garden. Built something to fix it. **Architect's Domain**, a workstation UI that sits on top of any provider. Core features: - **Workspace system**, persistent environments with pinned context, imported files, notes. Think Claude Projects but provider-agnostic - **Manual memory curation**, fragments surface during chat, you approve or reject what gets remembered. No silent auto-memory - **Character/persona system via file injection**, load .txt files as system context. Works with character cards, lorebooks, personality files, anything - **Provider switching**, OpenRouter, Venice.ai, DeepSeek. Swap models without losing your setup - **BYOAK**, your keys, your data, runs fully static No React, no framework bloat. Vanilla JS + CSS + HTML. Deployable anywhere. I use it daily for prompt engineering and RP character testing across different frontier models. The workspace + memory combo is what makes it actually useful vs just another chat wrapper. Open source: https://github.com/HactoriXD/architects-domainv1 Feedback welcome! especially from people who've tried similar setups.
+Compiled a tracker of every national AI strategy in Asia. Headline is that ten major Asian economies now have dedicated AI legislation or comprehensive national strategies, and they're all quite distinct from Western legislation like the EU AI Act or US executive orders. Clear that Asian governments treat AI as infrastructure, not a sector to regulate from a distance. Most national approaches lean promotional (incentives, sandboxes, sovereign LLM funding) rather than punitive (bans, heavy compliance). The exceptions are Vietnam (first standalone AI law in Asia, Dec 2025) and South Korea (Framework AI Act with high-risk-system rules). The major markets that stood out to me: China's open-source-as-industrial-policy framework. ~$98B committed to AI development. Premier Li Qiang declared at WEF 2025 that China's innovation is "open and open-source" and the country is "willing to share indigenous technologies with the world." Derivatives of Alibaba's Qwen are now the largest open-weight model ecosystem on Hugging Face — over 100,000 derivatives (USCC 2026). This is industrial policy through model release, not regulation. Two-tier system: research labs (DeepSeek-style) operate with light governance, consumer-facing apps face stricter rules. Japan's AI Promotion Act (May 2025). No penalties. It's a promotional framework — establishes the AI Strategic Headquarters as a cabinet-level body, mandates a National AI Basic Plan, aligns deployment with "Human-Centred AI Society Principles." Japan's structural problem: only 9% of individuals and 47% of companies were using gen AI as of 2024. The legislation is trying to close adoption gaps via incentives rather than gate behaviour. December 2025 commitment of ¥1 trillion (~$7B) over five years to AI + semiconductors backs it up. Vietnam's AI Law (effective March 2026). Most comprehensive standalone AI law anywhere — 36 articles, three-tier risk classification (low/medium/high), foreign AI providers must appoint a legal representative in Vietnam, max admin fines reach VNĐ 2 billion (~$76K) for orgs with serious violations capped at 2% of preceding year revenue. Plus a National AI Development Fund offering grants/loans/preferential financing, plus regulatory sandboxes for startups. Combined with the Law on Digital Technology Industry covering semiconductors and digital assets, Vietnam now has the most legible AI legal architecture in SEA. What I'm not sure about: how sustainable the "promotional, not punitive" approach is when the next major AI safety incident happens. Japan's framework explicitly has no penalties, and I think that only holds up until something goes wrong. Vietnam's law has teeth but limited enforcement bandwidth. Korea's is the only framework that has both tools and resources to enforce. For people closer to AI policy work — does the Asia approach seem more or less likely to scale globally than EU-style ex-ante rule-making? My read: Asia's bet on incentives + sandboxes + sovereign capability is more aligned with how AI is actually deploying in 2026 than EU rules-based approaches, but the governance gap shows up in the next 24 months. Fuller tracker with country-by-country breakdown: https://digitalinasia.com/2026/04/08/asia-ai-policy-tracker/
 
-3h ago
-
----
-
-**[What's the best AI video generator for long videos?](https://www.reddit.com/r/artificial/comments/1t78zcm/whats_the_best_ai_video_generator_for_long_videos/)**
-
-I'd like to test the waters with what's out there in order to make longer videos. Something like 5-20 minutes, probably wouldn't need anything longer than that. I realize it's probably not going to be free, which is fine as I'm going to be using it as a business. It'll also be prompt based instead of image based. What's out there, I'm sort of new to this.
-
-4h ago
+54m ago
 
 ---
 
@@ -89,7 +89,7 @@ I'd like to test the waters with what's out there in order to make longer videos
 
 It feels like a lot of AI discussion is still cloud-first, but some of the most interesting shifts seem to be happening at the edge. A few areas that seem especially important: - autonomy and robotics - low-power always-on vision systems - private local LLMs and on-device inference - bandwidth-constrained industrial deployments Curious how people here see it: Over the next few years, where do you think edge AI matters most, and which hardware/software stacks actually win in practice?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,15 +97,7 @@ It feels like a lot of AI discussion is still cloud-first, but some of the most 
 
 Hey everyone 👋 AI moves fast. Keeping up means checking Twitter, YouTube, newsletters, and a dozen tech sites every day. None of it in one place. I built AIWire to fix that. One clean feed. 20+ trusted sources. Updates every 30 minutes. Completely free, no account needed. Just the stories that came from sources worth reading, open it and you're caught up. **Sources include:** * OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI * MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica * YouTube: Andrej Karpathy, AI Explained, Two Minute Papers * Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites **Features:** * Auto-refreshes every 30 minutes, always current * Top Stories from the last 24h pinned at the top * Filter by source, date, and category * Bookmarks to save articles for later Built for people who want to stay current, not just scroll. 🔗 aiwire.app Full source list at aiwire.app/sources Feedback is very welcome; what sources are missing, and what would make this more useful for you?
 
-8h ago
-
----
-
-**[UC Berkeley AI Research Seminar: Supply Chain & Manufacturing](https://www.reddit.com/r/artificial/comments/1t7agbe/uc_berkeley_ai_research_seminar_supply_chain/)**
-
-UC Berkeley AI Research Seminar: Supply Chain & Manufacturing AI in supply chain is moving fast, but most of the conversation is still too abstract. I’m helping host a research seminar on how AI can actually be used across sourcing, procurement, BOM review, supplier risk, inventory, and manufacturing operations. Not a hype event. The goal is to bring together people in supply chain, manufacturing, procurement, consulting, and operations who want to discuss where AI is useful, where it is not, and what real workflows are worth automating. If you work in this space and want to join the conversation, sign up here: Would love to have operators, builders, and skeptics in the to attend — RSVP here: https://luma.com/4pio4rbm
-
-3h ago
+9h ago
 
 ---
 
@@ -113,7 +105,15 @@ UC Berkeley AI Research Seminar: Supply Chain & Manufacturing AI in supply chain
 
 There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of them have fallen into homelessness. We investigated America’s AI sweatshops, and found a new gig economy run by Big Tech. https://www.youtube.com/watch?v=aooiDA-AsNo
 
-3h ago
+4h ago
+
+---
+
+**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/)**
+
+“The smart home is getting kind of boring.”
+
+🔗 [The Verge](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness) • 7h ago
 
 ---
 
@@ -121,63 +121,33 @@ There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of 
 
 ## Google News: "ai"
 
-**[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
-
-The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
-
-CNBC • 1d ago
-
----
-
 **[Meta’s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
 
-The New York Times • 3h ago
+The New York Times • 5h ago
 
 ---
 
-**[Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing'](https://www.cnbc.com/2026/05/07/nvidia-ceo-ai-partnership-corning-revitalize-american-manufacturing.html)**
+**[Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here](https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html)**
 
-Nvidia CEO Jensen Huang highlighted his company's partnership with Corning as an opportunity to reinvest in American manufacturing.
+The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.
 
-CNBC • 19h ago
-
----
-
-**[Is Nvidia (NVDA) The Best AI Stock Pick of Cathie Wood in 2026?](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html)**
-
-We just covered Cathie Wood’s 11 Biggest AI and Data Center Stock Picks. Nvidia Corp (NASDAQ:NVDA) ranks #7 (see Cathie Wood’s 5 Biggest AI and Data Center Stock Picks). Nvidia Corp (NASDAQ:NVDA) is up about 15% so far this year, but bulls believe the stock has more upside potential. Its gains have been capped amid the […]
-
-Yahoo Finance • 4h ago
+CNBC • 6h ago
 
 ---
 
-**[NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)**
+**[The University of Michigan may have landed the steal of the AI era](https://www.businessinsider.com/michigan-early-openai-investment-yield-billions-2026-5)**
 
-NVIDIA (NASDAQ: NVDA) and IREN Limited (NASDAQ: IREN) (“IREN”) today announced a strategic partnership to accelerate deployment of next-generation AI infrastructure.
+The University of Michigan's early stake in OpenAI, before Microsoft's massive investment, could yield $2 billion.
 
-NVIDIA Newsroom • 13h ago
-
----
-
-**[Scoop: Pro-AI super PAC Leading the Future endorses three Dems](https://www.axios.com/2026/05/08/ai-super-pac-endorsement-democrats)**
-
-Axios • 40m ago
+Business Insider • 49m ago
 
 ---
 
-**[Pa. education secretary, Lancaster County educators talk risk, benefits of AI at Hourglass Forum](https://lancasteronline.com/news/local/pa-education-secretary-lancaster-county-educators-talk-risk-benefits-of-ai-at-hourglass-forum/article_e8be0181-4454-42e5-984e-6956583b76ca.html)**
+**[Are AI Neoclouds Rewiring Data Center Traffic Patterns?](https://www.datacenterknowledge.com/infrastructure/are-ai-neoclouds-rewiring-data-center-traffic-patterns-)**
 
-Artificial intelligence, AI, is not a future issue; it’s a today issue. It is here right now, the Pennsylvania secretary of education said to a room full of educators Thursday
+Neocloud-driven workloads are shifting data movement toward sustained, high-bandwidth transfers between storage and AI compute, according to a report.
 
-LancasterOnline • 12m ago
-
----
-
-**[The $42 billion auto giant you've never heard of is building AI into its factories](https://www.businessinsider.com/auto-giant-magna-ai-factories-2026-5)**
-
-Magna builds parts for some of the world's biggest automakers, like BYD, Ford, and Toyota. It has a five-pronged AI strategy for its plants.
-
-Business Insider • 38m ago
+Data Center Knowledge • 17m ago
 
 ---
 
@@ -185,13 +155,43 @@ Business Insider • 38m ago
 
 Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
-**[What's behind Washington's AI safety pivot](https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china)**
+**[White House distances itself from tighter AI regulation](https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837)**
 
-Axios • 3h ago
+Politico • 20h ago
+
+---
+
+**[US Prepares AI Security Order That Omits Mandatory Model Tests](https://www.bloomberg.com/news/articles/2026-05-08/us-prepares-ai-security-order-that-omits-mandatory-model-tests)**
+
+Bloomberg.com • 31m ago
+
+---
+
+**[Why the White House zeroed in on 'nonresidential specialty trade contractors' after Friday's jobs report. (Spoiler: It's about AI.)](https://finance.yahoo.com/economy/policy/article/why-the-white-house-zeroed-in-on-nonresidential-specialty-trade-contractors-after-fridays-jobs-report-spoiler-its-about-ai-183156902.html)**
+
+Can AI data center construction lead a revival in factory jobs down the road? The White House offered an answer of yes of sorts on Friday.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Celebrities are filing trademarks to combat AI clones. Should you?](https://www.washingtonpost.com/entertainment/2026/05/08/taylor-swift-trademark-ai-misuse/)**
+
+Taylor Swift and Matthew McConaughey have filed trademarks, apparently to protect their likenesses from AI misuse. Still, the strategy’s effectiveness is untested.
+
+The Washington Post • 3h ago
+
+---
+
+**[Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags](https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html)**
+
+Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI
+
+CNBC • 31m ago
 
 ---
 
@@ -201,7 +201,7 @@ Axios • 3h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 774 • 💬 679 • 23h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 785 • 💬 683 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -217,7 +217,7 @@ Fewer people are buying parts and building new PCs from scratch.
 
 According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
 
-⬆️ 235 • 💬 211 • 2d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+⬆️ 235 • 💬 213 • 2d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
 
 ---
 
@@ -225,7 +225,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
 
-⬆️ 131 • 💬 33 • 22h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+⬆️ 134 • 💬 34 • 1d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
@@ -249,7 +249,15 @@ Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 52 • 💬 31 • 3h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 71 • 💬 41 • 5h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+
+---
+
+**[AI Is Breaking Two Vulnerability Cultures](https://news.ycombinator.com/item?id=48066524)**
+
+A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
+
+⬆️ 65 • 💬 19 • 1h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -269,25 +277,17 @@ Our AI started a cafe in Stockholm
 
 ---
 
-**[Show HN: Stage CLI – An easier way of reading your AI generated changes locally](https://news.ycombinator.com/item?id=48050732)**
-
-A viewer for reviewing local code changes in small individual chapters. Works with any AI agent. - ReviewStage/stage-cli
-
-⬆️ 42 • 💬 31 • 1d ago • [GitHub](https://github.com/ReviewStage/stage-cli)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI Didn’t Run Out of Data - It Ran Out of Reality](https://www.youtube.com/watch?v=ms6P8b1cM9M)**
+**[AI News: OpenAI Absolutely Cooked This Week!](https://www.youtube.com/watch?v=SXneZ3bRKO4)**
 
-Physical AI is not failing because models are choking on “junk data.” It is hitting a deeper constraint: the real world has not been ...
+Here's the AI News you probably missed this week. Try HubSpot AEO on your brand free for 28 days here ...
 
-📺 House of El - AI
+📺 Matt Wolfe
 
-👁️ 6K • 👍 858 • 💬 243 • ⏱️ 32:02 • 5h ago
+👁️ 16K • 👍 1K • 💬 92 • ⏱️ 34:30 • 4h ago
 
 ---
 
@@ -297,17 +297,37 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 6K • 💬 7 • ⏱️ 29:57 • 3h ago
+👁️ 13K • 💬 7 • ⏱️ 29:57 • 5h ago
 
 ---
 
-**[Google’s New AI Is The OpenClaw Killer](https://www.youtube.com/watch?v=nov9uoIQt6g)**
+**[I’ve Tested 500+ AI Tools, These Will Make You Rich](https://www.youtube.com/watch?v=np6CwvTYTAM)**
 
-Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1-0-airevolutionx-lVqpUi Google is testing Remy, ...
+Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60 Are you building an AI software company? Partner ...
 
-📺 AI Revolution
+📺 Dan Martell
 
-👁️ 60K • 👍 2K • 💬 78 • ⏱️ 13:34 • 1d ago
+👁️ 52K • 👍 3K • 💬 263 • ⏱️ 22:46 • 1d ago
+
+---
+
+**[New ChatGPT Model &amp; Memory Features Explained (AI News You Can Use)](https://www.youtube.com/watch?v=ltw8PE_uILw)**
+
+Subscribe for more weekly updates on the AI news you'll actually use! In this video, Igor breaks down the big updates from OpenAI ...
+
+📺 The AI Advantage
+
+👁️ 2K • 👍 142 • 💬 7 • ⏱️ 11:02 • 3h ago
+
+---
+
+**[NYT&#39;s Tom Friedman on regulating AI: Something bad is going to happen at some point](https://www.youtube.com/watch?v=65JQWtIv5Ng)**
+
+Tom Friedman, The New York Times opinion columnist, joins 'Squawk Box' to discuss state of AI development, moving from the ...
+
+📺 CNBC Television
+
+👁️ 10K • 👍 143 • 💬 60 • ⏱️ 10:28 • 6h ago
 
 ---
 
@@ -317,7 +337,17 @@ Apparently AI is way easier to break than I thought. Subscribe for more! https:/
 
 📺 Austin Evans
 
-👁️ 69K • 👍 3K • 💬 252 • ⏱️ 13:06 • 1d ago
+👁️ 70K • 👍 3K • 💬 256 • ⏱️ 13:06 • 1d ago
+
+---
+
+**[Google’s New AI Is The OpenClaw Killer](https://www.youtube.com/watch?v=nov9uoIQt6g)**
+
+Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1-0-airevolutionx-lVqpUi Google is testing Remy, ...
+
+📺 AI Revolution
+
+👁️ 62K • 👍 2K • 💬 79 • ⏱️ 13:34 • 1d ago
 
 ---
 
@@ -327,37 +357,17 @@ Grok AI FREE Trick Nobody Is Talking About (Unlimited Videos) Discover the SECRE
 
 📺 AI Man 
 
-👁️ 4K • 👍 362 • 💬 186 • ⏱️ 7:47 • 7h ago
+👁️ 7K • 👍 439 • 💬 216 • ⏱️ 7:47 • 9h ago
 
 ---
 
-**[Ozzy Man Reviews: AI Slop (PART 3)](https://www.youtube.com/watch?v=sz8T6lYxhUw)**
+**[This helps with the sentiment around AI, expert says](https://www.youtube.com/watch?v=GHCMqlkPuW4)**
 
-Welcome back to another overwhelming day on the internet. Send ya non-ai videos ya shot yourselves into: ...
+'The Big Money Show' panelists discuss Fla. Gov. Ron DeSantis saying utility firms can't pass on AI costs. #fox #media ...
 
-📺 Ozzy Man Reviews
+📺 Fox Business
 
-👁️ 150K • 👍 9K • 💬 521 • ⏱️ 6:45 • 1d ago
-
----
-
-**[The Only AI Tools You’ll Ever Need to Get Rich in 2026](https://www.youtube.com/watch?v=np6CwvTYTAM)**
-
-Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60 Are you building an AI software company? Partner ...
-
-📺 Dan Martell
-
-👁️ 48K • 👍 2K • 💬 246 • ⏱️ 22:46 • 1d ago
-
----
-
-**[OH SH*T! The Banks are Dumping AI Loans!](https://www.youtube.com/watch?v=eIz2MrR5xMQ)**
-
-The biggest U.S. banks are quietly dumping their AI debt — a massive red flag that the AI bubble and credit cycle are about to ...
-
-📺 Steven Van Metre
-
-👁️ 52K • 👍 2K • 💬 233 • ⏱️ 16:12 • 1d ago
+👁️ 5K • 👍 100 • 💬 26 • ⏱️ 8:02 • 16h ago
 
 ---
 
@@ -367,17 +377,7 @@ Sherlock is back and this time he's better than ever, all thanks to A.I.!!!... N
 
 📺 Foil Arms and Hog
 
-👁️ 96K • 👍 10K • 💬 700 • ⏱️ 4:56 • 1d ago
-
----
-
-**[IBM CEO warns this would ‘NOT BE GOOD’ for US in AI race…](https://www.youtube.com/watch?v=u3ZzaMf0ml0)**
-
-IBM CEO Arvind Krishna assesses government oversight of artificial intelligence, quantum computing and more on 'The Claman ...
-
-📺 Fox Business
-
-👁️ 15K • 👍 223 • 💬 65 • ⏱️ 9:05 • 2d ago
+👁️ 100K • 👍 10K • 💬 703 • ⏱️ 4:56 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 92,968 • ❤️ 435 • 17h ago
+⬇️ 92,968 • ❤️ 440 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 1,061,344 • ❤️ 3,750 • 2d ago
+⬇️ 1,061,344 • ❤️ 3,754 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 6,810 • ❤️ 267 • 10h ago
+⬇️ 6,810 • ❤️ 275 • 11h ago
 
 ---
 
@@ -429,7 +429,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 173,110 • ❤️ 1,360 • 16d ago
+⬇️ 173,110 • ❤️ 1,366 • 16d ago
 
 ---
 
@@ -441,7 +441,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 5,077 • ❤️ 236 • 11d ago
+⬇️ 5,077 • ❤️ 238 • 11d ago
 
 ---
 
@@ -453,7 +453,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 42,529 • ❤️ 160 • 1d ago
+⬇️ 42,529 • ❤️ 164 • 1d ago
 
 ---
 
@@ -465,19 +465,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 33,314 • ❤️ 156 • 3d ago
-
----
-
-**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
-
-*Xiaomi MiMo*
-
-MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
-
-`text-generation` `1023.2B`
-
-⬇️ 26,600 • ❤️ 482 • 10h ago
+⬇️ 33,314 • ❤️ 158 • 3d ago
 
 ---
 
@@ -489,7 +477,19 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,958,217 • ❤️ 1,187 • 14d ago
+⬇️ 1,958,217 • ❤️ 1,190 • 14d ago
+
+---
+
+**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
+
+*Xiaomi MiMo*
+
+MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
+
+`text-generation` `1023.2B`
+
+⬇️ 26,600 • ❤️ 484 • 11h ago
 
 ---
 
@@ -501,7 +501,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 3,363,621 • ❤️ 1,671 • 14d ago
+⬇️ 3,363,621 • ❤️ 1,676 • 14d ago
 
 ---
 
@@ -515,7 +515,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 60 • 💬 3 • ⭐ 71,336 • 16mo ago
+▲ 60 • 💬 3 • ⭐ 71,669 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -561,6 +561,18 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
+**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
+
+*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
+
+AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
+
+▲ 4 • 💬 0 • ⭐ 14,515 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
+
+---
+
 **[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
 
 *Ruofeng Yang, Yongcan Li, Shuai Li*
@@ -569,7 +581,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 96 • 💬 10 • ⭐ 8,464 • 4d ago
+▲ 97 • 💬 10 • ⭐ 8,464 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -602,6 +614,19 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 54 • 💬 1 • ⭐ 79,406 • 32mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -611,33 +636,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 ▲ 53 • 💬 2 • ⭐ 55,117 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 54 • 💬 1 • ⭐ 79,353 • 32mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 124 • 💬 8 • ⭐ 77,393 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -661,7 +659,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.1k • 🔱 719 • 3d ago
+⭐ 11.1k • 🔱 722 • 3d ago
 
 ---
 
@@ -671,7 +669,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 450 • 8h ago
+⭐ 5.9k • 🔱 451 • 10h ago
 
 ---
 
@@ -691,7 +689,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 371 • 4h ago
+⭐ 5.2k • 🔱 371 • 6h ago
 
 ---
 
@@ -701,7 +699,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.0k • 🔱 495 • 3h ago
+⭐ 4.0k • 🔱 494 • 4h ago
 
 ---
 
@@ -721,7 +719,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 359 • 14d ago
+⭐ 2.7k • 🔱 360 • 14d ago
 
 ---
 
@@ -731,7 +729,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 702 • 3h ago
+⭐ 2.5k • 🔱 708 • 4h ago
 
 ---
 
@@ -741,7 +739,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.3k • 🔱 213 • 4h ago
+⭐ 2.4k • 🔱 213 • 6h ago
 
 ---
 
