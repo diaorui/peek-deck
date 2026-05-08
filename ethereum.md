@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-08T10:03:25.041486+00:00'
+updated: '2026-05-08T11:54:18.700143+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 10:03 UTC  
+**Last Updated:** May 08, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -1.2%  
-**30d:** +4.4%  
-**90d:** +9.5%  
-**1y:** -2.5%  
+**24h:** -1.6%  
+**7d:** -0.9%  
+**30d:** +4.8%  
+**90d:** +9.9%  
+**1y:** -2.1%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
+
+---
+
+**[Clarity Act](https://www.reddit.com/r/ethereum/comments/1t75ei4/clarity_act/)**
+
+Regulatory bans on stablecoin yields are expected to positively impact Ethereum's value and network activity. Shift to Staking: With the CLARITY Act and similar regulations preventing issuers from paying direct yield on stablecoins, investors are predicted to move capital into Ethereum staking as an alternative source of passive income. Supply Shock: This migration could lock up significant amounts of ETH, with analysts noting a potential $6 billion staking queue and reduced exchange liquidity, which supports price appreciation. Increased Network Usage: As stablecoins are used more for transactions rather than idle holding, gas fees and ETH burn rates (via EIP-1559) may rise, further benefiting the token's economic model.
+
+13m ago
 
 ---
 
@@ -80,13 +88,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs and roadmap changes for the upcoming Hegotá fork.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 3h ago
+
+---
+
+**[Senate Banking Committee is scheduling a CLARITY Act markup as soon as this week. Crypto's biggest regulatory bill is finally moving](https://www.reddit.com/r/ethereum/comments/1t75dwh/senate_banking_committee_is_scheduling_a_clarity/)**
+
+The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon as Thursday, as a new poll shows 52% of voters back the landmark crypto legislation.
+
+🔗 [DailyCoin Post](https://dailycoinpost.com/clarity-act-markup-senate-vote/) • 14m ago
+
+---
+
+**[Fresh solidity developer looking for experience opportunities](https://www.reddit.com/r/ethereum/comments/1t755jt/fresh_solidity_developer_looking_for_experience/)**
+
+Hi guys, I recently finished a web3 bootcamp at metana, and am now looking for a jobs in this space. So far I have had little luck, as most of you are probably familiar with the current state of the job market. I want to at least start gaining some experience but most opensource projects don't really have any opentasks to contribute with that are beginner friendly, so I am asking if anyone knows of any opportunities for a beginner, or if someone has a project they are working on and willing to take me on. Thanks.
+
+25m ago
 
 ---
 
 **[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -122,30 +146,6 @@ anyone ever think about how fragile their access to their traditional bank accou
 
 ---
 
-**[Anyone here actually using SushiSwap on Katana?](https://www.reddit.com/r/ethereum/comments/1t53qqp/anyone_here_actually_using_sushiswap_on_katana/)**
-
-Couldn't really find it,most of what's out there is press release language or token price commentary, neither of which tells me if the liquidity is sticky or if it's farmers waiting for the next chain. So genuine question for anyone whos actually on katana or providing liquidity on Sushi there ,what's the lp experience like, what are fees doing, and is there organic swap demand or is volume mostly aggregator routing? Not trying to make a thesis post, I just can't tell from the outside and figured someone here would actually know.
-
-2d ago
-
----
-
-**[Daily General Discussion May 05, 2026](https://www.reddit.com/r/ethereum/comments/1t45q0i/daily_general_discussion_may_05_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[I fine-tuned a Vision-Language Model on AMD MI300X to protect AI Agents from being drained](https://www.reddit.com/r/ethereum/comments/1t42vj8/i_finetuned_a_visionlanguage_model_on_amd_mi300x/)**
-
-Hey everyone! I’ve been working on a security layer for the Agentic Economy during a hackathon, and I just hit a major milestone. The problem: As AI agents start handling real money, they are becoming prime targets for "drainers" and sophisticated splitting attacks that traditional rule-based security misses. The solution: ArcWarden & Imina Na. I’ve developed a vision-language security oracle. Instead of just looking at raw data, it "sees" transaction patterns. The Tech Stack: Model: Fine-tuned Qwen2-VL (Vision-Language Model). Hardware: Trained on the beast AMD MI300X (ROCm). Dataset: 10,000+ transaction graph patterns (Dogon Dataset). Platform: Live dashboard (Sigui) connected to the Arc Testnet. I just pushed the trained LoRA weights to Hugging Face! 🥇 I need your feedback! I’m looking for testers and devs to check out the dashboard and tell me what you think about using Vision AI for blockchain security. Can an AI "Oracle" actually stop the next big drainer? 🔗 Check the model on Hugging Face: https://huggingface.co/Ibonon/imina_na_lora
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Hey everyone! I’ve been working on a security layer for the Agentic Economy du
 
 Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -162,7 +162,23 @@ Decrypt • 13h ago
 
 The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding with jobs report on deck](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-with-jobs-report-on-deck-113214455.html)**
+
+Bitcoin opened at $80,015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80,206.01 by 7:18 a.m ET. Ethereum opened at $2,290.98 on Friday, down 2.5% from Thursday's opening price. The value of ethereum was steady as of 7:18 a.m. ET..
+
+Yahoo Finance • 22m ago
+
+---
+
+**[BitMine May Slow Ethereum Buying as $12 Billion Stash Nears 5% Supply Goal, Tom Lee Says](https://unchainedcrypto.com/bitmine-may-slow-ethereum-buying-as-12-billion-stash-nears-5-supply-goal-tom-lee-says/)**
+
+BitMine Chairman Tom Lee said the firm may ease off its weekly ETH purchases as its 5.18 million ETH stash, worth roughly $12 billion, brings the company within six weeks of its 5% supply target.
+
+unchainedcrypto.com • 2h ago
 
 ---
 
@@ -170,15 +186,7 @@ CoinDesk • 14h ago
 
 Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
 
-The Block • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html)**
-
-Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
-
-Yahoo Finance • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -186,7 +194,7 @@ Yahoo Finance • 1d ago
 
 The longer time horizon you consider, the more one of these assets stands out.
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -194,19 +202,19 @@ The Motley Fool • 21h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
 
-FXStreet • 6h ago
+FXStreet • 8h ago
 
 ---
 
 **[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
 
-thestreet.com • 12h ago
+thestreet.com • 14h ago
 
 ---
 
 **[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
 
-TipRanks • 21h ago
+TipRanks • 23h ago
 
 ---
 
@@ -214,15 +222,7 @@ TipRanks • 21h ago
 
 Ethereum (CRYPTO: ETH) is caught between heavy whale selling and rising institutional adoption, according to fresh expert analysis.
 
-Benzinga • 16h ago
-
----
-
-**[Current price of Ethereum for May 7, 2026](https://fortune.com/article/price-of-ethereum-05-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
+Benzinga • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ MASSIVE XRP CALL: 2026 Crypto Bull Market Is Here? MAJOR Bitcoin & Ethereum Upda
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 425 • 💬 8 • ⏱️ 28:08 • 15h ago
+👁️ 6K • 👍 425 • 💬 8 • ⏱️ 28:08 • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ I'll need to read the transcript carefully to pull the right details. Let me dra
 
 📺 Verified Pro Traders
 
-👁️ 4K • 👍 270 • 💬 5 • ⏱️ 8:05 • 16h ago
+👁️ 4K • 👍 270 • 💬 5 • ⏱️ 8:05 • 17h ago
 
 ---
 
@@ -286,7 +286,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 100 • 💬 10 • ⏱️ 7:39 • 1d ago
+👁️ 2K • 👍 100 • 💬 10 • ⏱️ 7:39 • 2d ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN WARNING: Bearish Price Target Revealed!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 242 • 💬 143 • ⏱️ 16:53 • 8h ago
+👁️ 5K • 👍 242 • 💬 143 • ⏱️ 16:53 • 10h ago
 
 ---
 
@@ -326,7 +326,7 @@ Joseph Lubin, co-founder of a major open-source technology platform and CEO of C
 
 📺 When Shift Happens
 
-👁️ 2K • 👍 78 • 💬 86 • ⏱️ 1:13:25 • 19h ago
+👁️ 2K • 👍 78 • 💬 86 • ⏱️ 1:13:25 • 21h ago
 
 ---
 

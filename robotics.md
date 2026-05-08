@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-08T10:03:25.044623+00:00'
+updated: '2026-05-08T11:54:18.703307+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 08, 2026 at 10:03 UTC  
+**Last Updated:** May 08, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,25 +36,33 @@ Robotics research and industry news
 
 Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100 kilo lifting force. My instructor shown for scale. The red railing is to keep students alive. The tool swished past my face once when I pressed Go Back, instead of Go Forward. Simple mistake? Centennial College Ashtonbee Campus, Scarborough Ontario.
 
-13h ago
+15h ago
 
 ---
 
 **[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
 
-3h ago
+4h ago
+
+---
+
+**[Incredibly fast recovery of a Unitree G1 robot.](https://www.reddit.com/r/robotics/comments/1t74nli/incredibly_fast_recovery_of_a_unitree_g1_robot/)**
+
+From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
+
+50m ago
 
 ---
 
 **[Neuralink Is Building a Surgical Robot Designed to Reach Any Brain Region](https://www.reddit.com/r/robotics/comments/1t6h9zg/neuralink_is_building_a_surgical_robot_designed/)**
 
-16h ago
+18h ago
 
 ---
 
 **[How Many Robot Monks Does It Take to Screw in the Light of Enlightenment?](https://www.reddit.com/r/robotics/comments/1t71avu/how_many_robot_monks_does_it_take_to_screw_in_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -66,11 +74,19 @@ Recently had a technical interview with Peer Robotics for a robotics engineering
 
 ---
 
-**[BTT Octopus for robot arm?](https://www.reddit.com/r/robotics/comments/1t72qts/btt_octopus_for_robot_arm/)**
+**[Resources to practice DH convention](https://www.reddit.com/r/robotics/comments/1t75hps/resources_to_practice_dh_convention/)**
 
-I am thinking of purchasing the BTT octopus. It’s not for a 3-D printer, but for a six axis robot arm. I was wondering, if controlling steppers with it by writing my own code is straightforward? Like with an ESP it’s pretty easy and there are libraries to do it as well. Good libraries like fast accel stepper, which use the hardware interrupts and timers for the pulses instead of polling the CPU. Are there libraries for that specific STM32 as well? I don’t want to deal with complicated timers and interrupt setup on an STM32 coz im not here for learning embedded programming too much but more for the robotics aspect.
+Where to practice DH convention from ? (I needs solved examples) I have seen some youtube videos but they are simple.. I have also followed J.J Craig there also simple questions are there
 
-41m ago
+9m ago
+
+---
+
+**[Control Engineering survey](https://www.reddit.com/r/robotics/comments/1t74zp9/control_engineering_survey/)**
+
+Hey guys, I'm doing a survey to ascertain the dominance of different control engineering paradigms in the industry, to ascertain whether there has been a noticeable shift from classical controls to more modern algorithms, or whether modern algorithms, while looking good on paper, are stuck on research papers for the most part. I would love everyone's inputs, from student to seasoned researcher. Your still welcome to contribute if you don't work directly in controls, or if your work is controls-adjacent, like SWE or mechanical design.
+
+🔗 [Google Docs](https://forms.gle/euvuR2Niee3KmZmVA) • 33m ago
 
 ---
 
@@ -78,29 +94,15 @@ I am thinking of purchasing the BTT octopus. It’s not for a 3-D printer, but f
 
 Prototyping the legs, now that i have printed i can to tests and note down what needs to change so i cand make the final version
 
-15h ago
+17h ago
 
 ---
 
-**[Selfmade Robot Project status now](https://www.reddit.com/r/robotics/comments/1t68mql/selfmade_robot_project_status_now/)**
+**[BTT Octopus for robot arm?](https://www.reddit.com/r/robotics/comments/1t72qts/btt_octopus_for_robot_arm/)**
 
-21h ago
+I am thinking of purchasing the BTT octopus. It’s not for a 3-D printer, but for a six axis robot arm. I was wondering, if controlling steppers with it by writing my own code is straightforward? Like with an ESP it’s pretty easy and there are libraries to do it as well. Good libraries like fast accel stepper, which use the hardware interrupts and timers for the pulses instead of polling the CPU. Are there libraries for that specific STM32 as well? I don’t want to deal with complicated timers and interrupt setup on an STM32 coz im not here for learning embedded programming too much but more for the robotics aspect.
 
----
-
-**[VLA RL based on π0.5](https://www.reddit.com/r/robotics/comments/1t6hp2d/vla_rl_based_on_π05/)**
-
-🚀 I’ve successfully implemented the RL pipeline introduced in the π0.6 RECAP paper, and fully brought VLA RL onto the π0.5 stack. Our current pipeline now supports: • End-to-end VLA RL training & inference • RECAP-style advantage-conditioned policy training • QLoRA fine-tuning optimization • Unified PyTorch + JAX execution paths On the systems side, I also optimized the full RL runtime stack: ⚡ Up to 5× faster RL inference ⚡ Up to 2.2× faster QLoRA fine-tuning ⚡ Full pipeline running in only ~10GB VRAM This includes: • value function training • ACP annotation • RL policy fine-tuning • CFG-guided inference Made real VLA RL experimentation practical on consumer GPUs instead of requiring multi-H100 setups. Would love for more people in the VLA / robotics community to try it out and give feedback. https://github.com/LiangSu8899/FlashRT https://preview.redd.it/gri1pmjo4rzg1.png?width=1201&format=png&auto=webp&s=61bf0bebbfbbd119dac5914a9d921aee206cfc6b
-
-16h ago
-
----
-
-**[When would you use a 24×24 LiDAR depth sensor instead of stereo vision?](https://www.reddit.com/r/robotics/comments/1t6olie/when_would_you_use_a_2424_lidar_depth_sensor/)**
-
-I’ve been looking at compact LiDAR options for embedded vision and robotics applications, and the Sony AS-DT1 is interesting because it is not really meant to be a high-resolution 3D mapping sensor. It seems better suited for obstacle detection, proximity sensing, navigation, and spatial awareness. Key specs that stand out: dToF SPAD distance sensing 24 × 24 depth grid / 576 ranging points Up to 30 fps in standard modes Up to 40m indoor range, with shorter outdoor range 940 nm VCSEL USB-C host connection UART and external trigger support Compact 29 × 29 × 31 mm housing My take is that this type of sensor makes sense when you need compact, low-overhead distance data rather than dense 3D reconstruction. For robotics or UAVs, it could be useful as a lightweight obstacle/proximity sensor alongside cameras or other perception hardware. Spec/source page I was looking at: https://aegis-elec.com/sony-as-dt1-lidar-depth-sensor.html Curious how others here would compare this kind of compact dToF module against stereo vision or higher-density LiDAR for robotics navigation.
-
-12h ago
+2h ago
 
 ---
 
@@ -108,41 +110,15 @@ I’ve been looking at compact LiDAR options for embedded vision and robotics ap
 
 ## Google News: "robotics"
 
-**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
-
-WSJ • 3d ago
-
----
-
 **[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
 
 Reuters • 1d ago
 
 ---
 
-**[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
+**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
 
-South China Morning Post • 8h ago
-
----
-
-**[Humanoid Robots Are the Next Phase of the AI Hype Cycle](https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[One Year Later, Robots Outrace Humans](https://newsforkids.net/articles/2026/05/07/one-year-later-robots-outrace-humans/)**
-
-NewsForKids.net • 19h ago
-
----
-
-**[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
-
-America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
-
-The Washington Post • 16h ago
+WSJ • 3d ago
 
 ---
 
@@ -150,7 +126,13 @@ The Washington Post • 16h ago
 
 Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
+
+SpaceNews • 14m ago
 
 ---
 
@@ -158,15 +140,23 @@ Yahoo Finance • 10h ago
 
 The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
 
-Rocket Lab • 10h ago
+Rocket Lab • 12h ago
 
 ---
 
-**[Mars rover robotics are headed to Rocket Lab in Motiv deal](https://www.stocktitan.net/news/RKLB/rocket-lab-to-acquire-robotics-leader-motiv-space-d4u8iu14p9zb.html)**
+**[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
 
-The deal brings solar array drive assemblies and other supply-constrained parts in house, a move Rocket Lab says can cut costs before a Q2 close.
+America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
 
-Stock Titan • 1h ago
+The Washington Post • 18h ago
+
+---
+
+**[Faraday Future and BIBS plan US robotics institute built around real robots](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-partnership-between-ff-ai-0ko06z0kwsbn.html)**
+
+The planned institute targets AI and robotics training, certifications and internships. The Omaha launch starts a global partner search, pending board approval.
+
+Stock Titan • 7h ago
 
 ---
 
@@ -178,6 +168,20 @@ VentureBeat • 1d ago
 
 ---
 
+**[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
+
+South China Morning Post • 10h ago
+
+---
+
+**[Genesis AI Unveils GENE-26.5, the First AI Brain to Enable Robots with Human-Level Physical Manipulation Capabilities](https://www.prnewswire.com/news-releases/genesis-ai-unveils-gene-26-5--the-first-ai-brain-to-enable-robots-with-human-level-physical-manipulation-capabilities-302763638.html)**
+
+/PRNewswire/ -- Genesis AI, a global full-stack robotics company, today announced GENE-26.5, the first robotic brain to give robots human-level physical...
+
+PR Newswire • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -186,7 +190,7 @@ VentureBeat • 1d ago
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 627 • 👍 10 • ⏱️ 0:14 • 40m ago
+👁️ 627 • 👍 10 • ⏱️ 0:14 • 2h ago
 
 ---
 
@@ -196,7 +200,7 @@ Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots
 
 📺 ejunky66
 
-👁️ 18K • 👍 361 • 💬 21 • ⏱️ 1:00 • 21h ago
+👁️ 18K • 👍 361 • 💬 21 • ⏱️ 1:00 • 23h ago
 
 ---
 
@@ -236,7 +240,7 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 Kashtman Expo
 
-👁️ 27K • ⏱️ 0:34 • 23h ago
+👁️ 27K • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -274,7 +278,7 @@ This is a high-speed industrial automation system using two different robots wor
 
 📺 Unova
 
-👁️ 29K • 👍 94 • 💬 6 • ⏱️ 0:06 • 10h ago
+👁️ 29K • 👍 94 • 💬 6 • ⏱️ 0:06 • 12h ago
 
 ---
 
