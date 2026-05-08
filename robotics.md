@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-08T06:52:28.769356+00:00'
+updated: '2026-05-08T08:21:28.166161+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 08, 2026 at 06:52 UTC  
+**Last Updated:** May 08, 2026 at 08:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100 kilo lifting force. My instructor shown for scale. The red railing is to keep students alive. The tool swished past my face once when I pressed Go Back, instead of Go Forward. Simple mistake? Centennial College Ashtonbee Campus, Scarborough Ontario.
 
-10h ago
+11h ago
 
 ---
 
 **[Neuralink Is Building a Surgical Robot Designed to Reach Any Brain Region](https://www.reddit.com/r/robotics/comments/1t6h9zg/neuralink_is_building_a_surgical_robot_designed/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -54,17 +54,29 @@ Recently had a technical interview with Peer Robotics for a robotics engineering
 
 ---
 
+**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
+
+1h ago
+
+---
+
+**[How Many Robot Monks Does It Take to Screw in the Light of Enlightenment?](https://www.reddit.com/r/robotics/comments/1t71avu/how_many_robot_monks_does_it_take_to_screw_in_the/)**
+
+22m ago
+
+---
+
 **[Legs prototype](https://www.reddit.com/r/robotics/comments/1t6igpw/legs_prototype/)**
 
 Prototyping the legs, now that i have printed i can to tests and note down what needs to change so i cand make the final version
 
-12h ago
+14h ago
 
 ---
 
 **[Selfmade Robot Project status now](https://www.reddit.com/r/robotics/comments/1t68mql/selfmade_robot_project_status_now/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -72,7 +84,7 @@ Prototyping the legs, now that i have printed i can to tests and note down what 
 
 🚀 I’ve successfully implemented the RL pipeline introduced in the π0.6 RECAP paper, and fully brought VLA RL onto the π0.5 stack. Our current pipeline now supports: • End-to-end VLA RL training & inference • RECAP-style advantage-conditioned policy training • QLoRA fine-tuning optimization • Unified PyTorch + JAX execution paths On the systems side, I also optimized the full RL runtime stack: ⚡ Up to 5× faster RL inference ⚡ Up to 2.2× faster QLoRA fine-tuning ⚡ Full pipeline running in only ~10GB VRAM This includes: • value function training • ACP annotation • RL policy fine-tuning • CFG-guided inference Made real VLA RL experimentation practical on consumer GPUs instead of requiring multi-H100 setups. Would love for more people in the VLA / robotics community to try it out and give feedback. https://github.com/LiangSu8899/FlashRT https://preview.redd.it/gri1pmjo4rzg1.png?width=1201&format=png&auto=webp&s=61bf0bebbfbbd119dac5914a9d921aee206cfc6b
 
-13h ago
+14h ago
 
 ---
 
@@ -80,13 +92,7 @@ Prototyping the legs, now that i have printed i can to tests and note down what 
 
 I’ve been looking at compact LiDAR options for embedded vision and robotics applications, and the Sony AS-DT1 is interesting because it is not really meant to be a high-resolution 3D mapping sensor. It seems better suited for obstacle detection, proximity sensing, navigation, and spatial awareness. Key specs that stand out: dToF SPAD distance sensing 24 × 24 depth grid / 576 ranging points Up to 30 fps in standard modes Up to 40m indoor range, with shorter outdoor range 940 nm VCSEL USB-C host connection UART and external trigger support Compact 29 × 29 × 31 mm housing My take is that this type of sensor makes sense when you need compact, low-overhead distance data rather than dense 3D reconstruction. For robotics or UAVs, it could be useful as a lightweight obstacle/proximity sensor alongside cameras or other perception hardware. Spec/source page I was looking at: https://aegis-elec.com/sony-as-dt1-lidar-depth-sensor.html Curious how others here would compare this kind of compact dToF module against stereo vision or higher-density LiDAR for robotics navigation.
 
-9h ago
-
----
-
-**[Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP](https://www.reddit.com/r/robotics/comments/1t6311q/hyundai_reportedly_demanding_tens_of_thousands_of/)**
-
-🔗 [gizmodo.com](https://gizmodo.com/hyundai-reportedly-demanding-tens-of-thousands-of-boston-dynamics-robots-asap-2000753914) • 23h ago
+10h ago
 
 ---
 
@@ -94,37 +100,13 @@ I’ve been looking at compact LiDAR options for embedded vision and robotics ap
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=83YcsIVBEEk) • 7h ago
-
----
-
-**[Looking for Freelance job](https://www.reddit.com/r/robotics/comments/1t6jksr/looking_for_freelance_job/)**
-
-Hello...I'm a mechanical graduate from India (from a tier 1 college CGPA:9 pointer) and I've won 4 hackathons . i particularly work in mobile robots/ROS2... If anyone has any connection or if anybody is looking for someone to do a project...and is willing to pay according to normal standards (we can discuss it later) Please let me know... Please note: I'm not looking for daily regular job or internship as that will hamper my daily schedule ...just need you to assign a project , a timeline I'll do that and deliver it to you..if that works for you , else it's fine
-
-12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=83YcsIVBEEk) • 9h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Genesis AI Unveils GENE-26.5, the First AI Brain to Enable Robots with Human-Level Physical Manipulation Capabilities](https://www.prnewswire.com/news-releases/genesis-ai-unveils-gene-26-5--the-first-ai-brain-to-enable-robots-with-human-level-physical-manipulation-capabilities-302763638.html)**
-
-/PRNewswire/ -- Genesis AI, a global full-stack robotics company, today announced GENE-26.5, the first robotic brain to give robots human-level physical...
-
-PR Newswire • 1d ago
-
----
-
-**[Sheffield researchers say insect brains could transform AI technology](https://www.bbc.com/news/articles/c775r7vp11xo)**
-
-Insects' lightning-fast reactions could transform AI and robotics, Sheffield researchers say.
-
-BBC • 1d ago
-
----
 
 **[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
 
@@ -138,11 +120,29 @@ WSJ • 3d ago
 
 ---
 
+**[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Humanoid Robots Are the Next Phase of the AI Hype Cycle](https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[One Year Later, Robots Outrace Humans](https://newsforkids.net/articles/2026/05/07/one-year-later-robots-outrace-humans/)**
+
+NewsForKids.net • 18h ago
+
+---
+
 **[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
 
 America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -150,7 +150,23 @@ The Washington Post • 13h ago
 
 Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
+
+The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
+
+Rocket Lab • 9h ago
+
+---
+
+**[Mars rover robotics are headed to Rocket Lab in Motiv deal](https://www.stocktitan.net/news/RKLB/rocket-lab-to-acquire-robotics-leader-motiv-space-d4u8iu14p9zb.html)**
+
+The deal brings solar array drive assemblies and other supply-constrained parts in house, a move Rocket Lab says can cut costs before a Q2 close.
+
+Stock Titan • 17m ago
 
 ---
 
@@ -158,25 +174,7 @@ Yahoo Finance • 7h ago
 
 The new Hugging Face Reachy Mini App Store already hosts a library of over 200 community-built applications, and Reachy Mini owners will be able to download any of these free of charge to start
 
-VentureBeat • 1d ago
-
----
-
-**[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[One Year Later, Robots Outrace Humans](https://newsforkids.net/articles/2026/05/07/one-year-later-robots-outrace-humans/)**
-
-NewsForKids.net • 16h ago
-
----
-
-**[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
-
-South China Morning Post • 5h ago
+Venturebeat • 1d ago
 
 ---
 
@@ -190,7 +188,7 @@ Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots
 
 📺 ejunky66
 
-👁️ 17K • 👍 348 • 💬 21 • ⏱️ 1:00 • 18h ago
+👁️ 17K • 👍 348 • 💬 21 • ⏱️ 1:00 • 19h ago
 
 ---
 

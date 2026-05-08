@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-08T06:52:28.766149+00:00'
+updated: '2026-05-08T08:21:28.162986+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 06:52 UTC  
+**Last Updated:** May 08, 2026 at 08:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -1.8%  
-**30d:** +3.9%  
-**90d:** +8.9%  
-**1y:** -3.0%  
+**24h:** -2.1%  
+**7d:** -1.5%  
+**30d:** +4.1%  
+**90d:** +9.2%  
+**1y:** -2.8%  
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+3h ago
 
 ---
 
 **[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
 
-14h ago
+16h ago
+
+---
+
+**[Highlights from the All Core Developers Execution (ACDE) Call #236](https://www.reddit.com/r/ethereum/comments/1t71fcz/highlights_from_the_all_core_developers_execution/)**
+
+Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs and roadmap changes for the upcoming Hegotá fork.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 16m ago
 
 ---
 
@@ -138,14 +146,6 @@ Hey everyone! I’ve been working on a security layer for the Agentic Economy du
 
 ---
 
-**[Daily General Discussion May 04, 2026](https://www.reddit.com/r/ethereum/comments/1t381zi/daily_general_discussion_may_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
+**[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
 
-The longer time horizon you consider, the more one of these assets stands out.
+Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
 
-The Motley Fool • 18h ago
+Decrypt • 11h ago
 
 ---
 
@@ -182,31 +182,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
+**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
 
-Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
+The longer time horizon you consider, the more one of these assets stands out.
 
-Decrypt • 9h ago
+The Motley Fool • 20h ago
 
 ---
 
-**[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rejection sparks pullback, ETH at risk of breakdown, XRP hints at deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rejection-sparks-pullback-eth-at-risk-of-breakdown-xrp-hints-at-deeper-losses-202605080344)**
 
-TipRanks • 18h ago
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
+
+FXStreet • 4h ago
 
 ---
 
 **[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
 
-thestreet.com • 9h ago
+thestreet.com • 11h ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP rally pauses amid broadly cooling demand](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rally-pauses-amid-broadly-cooling-demand-202605071200)**
+**[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
 
-Cryptocurrency prices are showing broad weakness on Thursday, following a widespread rally this week that saw Bitcoin (BTC) rise to $82,850 for the first time in three months. The Crypto King is now trading above $81,000, with its upside seemingly capped as retail and institutional demand cools.
-
-FXStreet • 18h ago
+TipRanks • 20h ago
 
 ---
 
@@ -220,7 +220,7 @@ Barron's • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 19h ago
 
 ---
 
@@ -234,7 +234,7 @@ MASSIVE XRP CALL: 2026 Crypto Bull Market Is Here? MAJOR Bitcoin & Ethereum Upda
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 420 • 💬 8 • ⏱️ 28:08 • 12h ago
+👁️ 5K • 👍 420 • 💬 8 • ⏱️ 28:08 • 14h ago
 
 ---
 
@@ -244,7 +244,7 @@ I'll need to read the transcript carefully to pull the right details. Let me dra
 
 📺 Verified Pro Traders
 
-👁️ 3K • 👍 259 • 💬 5 • ⏱️ 8:05 • 12h ago
+👁️ 3K • 👍 259 • 💬 5 • ⏱️ 8:05 • 14h ago
 
 ---
 
@@ -304,7 +304,7 @@ Joseph Lubin, co-founder of a major open-source technology platform and CEO of C
 
 📺 When Shift Happens
 
-👁️ 1K • 👍 76 • 💬 87 • ⏱️ 1:13:25 • 16h ago
+👁️ 1K • 👍 76 • 💬 87 • ⏱️ 1:13:25 • 18h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 470 • 👍 30 • 💬 5 • ⏱️ 4:38 • 20h ago
+👁️ 470 • 👍 30 • 💬 5 • ⏱️ 4:38 • 21h ago
 
 ---
 
