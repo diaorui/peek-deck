@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-07T23:06:31.237322+00:00'
+updated: '2026-05-08T01:17:03.210903+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 07, 2026 at 23:06 UTC  
+**Last Updated:** May 08, 2026 at 01:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 9h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 11h ago
 
 ---
 
@@ -49,7 +49,15 @@ Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T va
 
 What is the “personality” of an LLM? What actually differentiates models psychometrically? Since LLMs entered public use, researchers have been giving them psychometric questionnaires, with mixed results. Their answers often do not seem to reflect the same psychological constructs these tests measure in humans. So we asked a slightly different question: What do LLM responses to psychometric questionnaires actually reflect? We analyzed responses to 45 validated psychometric questionnaires completed by 50 different LLMs. The strongest source of variation was whether a model endorsed items about inner experience: emotions, sensations, thoughts, imagery, empathy, and other forms of first-person experience. We call this factor the Pinocchio Dimension. Importantly, the Pinocchio Dimension is not a classical personality trait. It does not tell us whether a model is “extraverted,” “neurotic,” or “agreeable” in the human sense. Rather, it captures the extent to which a model treats the language of inner experience as self-applicable: whether it responds as if it had feelings, mental imagery, and an inner point of view, or instead as a system that reacts behaviorally to inputs. Preprint in the comments.
 
-1h ago
+3h ago
+
+---
+
+**[Governor Walz sings first-of-its-kind law to stop AI being used for CSAM](https://www.reddit.com/r/artificial/comments/1t6rmvc/governor_walz_sings_firstofitskind_law_to_stop_ai/)**
+
+Governor Walz sings first-of-its-kind law to stop AI being used for CSAM.
+
+🔗 [cbsnews.com](https://www.cbsnews.com/minnesota/video/governor-walz-sings-first-of-its-kind-law-to-stop-ai-being-used-for-csam/) • 1h ago
 
 ---
 
@@ -57,47 +65,7 @@ What is the “personality” of an LLM? What actually differentiates models psy
 
 Coinbase is cutting 700 jobs, or 14% of its staff, as CEO Brian Armstrong warns every company will follow. Q1 earnings drop today.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 6h ago
-
----
-
-**[Artificial Intelligence will save entertainment production in the future](https://www.reddit.com/r/artificial/comments/1t6q8mk/artificial_intelligence_will_save_entertainment/)**
-
-https://preview.redd.it/spzys3y8oszg1.png?width=735&format=png&auto=webp&s=24974b9fd17c0fcfd318349ef2913476d71aa079 Today there is strong opposition against AI in the industry, they say that AI will make everything generic and soulless, that this would kill the artistic creativity in pol of the product. Honestly, this is stupid, because this has already happened and didn't even need AI. The vast majority of works, be it anime, series, films, manga, are extremely generic and made only as fast food products, and when a slightly different work appears, it is sabotaged. So no, AI won't hinder artistic creativity, but rather give authors the opportunity to give the middle finger to these industries that destroy our works.
-
-12m ago
-
----
-
-**[English Centric AI Is Merging Unrelated Communities and Distorting Identities](https://www.reddit.com/r/artificial/comments/1t6ipmk/english_centric_ai_is_merging_unrelated/)**
-
-I’ve been noticing a serious problem in AI generated knowledge systems, especially Grokipedia, and even in normal AI search responses. Different communities, identities, and historical groups are sometimes being merged together simply because their names sound similar in English. A lot of these mistakes begin with humans first. Someone makes an incorrect assumption, mixes up two groups, or writes an oversimplified explanation online. That mistake then gets copied across websites and repeated by other people until it starts looking credible. After that, AI systems absorb those mistakes from training data and begin repeating them at massive scale with an appearance of authority. The deeper issue is that many AI systems rely heavily on English language sources and English transliterations, even when discussing cultures and histories that do not originate in English. But English letters cannot fully represent many sounds from other languages. Once names are flattened into English spellings, unrelated words can suddenly appear connected even when they are completely different in their original languages. What makes this worse is that even when you directly ask AI systems questions about these topics, they often continue searching mostly in English instead of checking sources in the original language that would provide proper context and distinctions. So the AI keeps reinforcing distorted connections instead of correcting them. Eventually two unrelated groups become linked across websites, AI answers, Wikipedia pages, and Grokipedia articles, and the mistake starts looking authoritative simply because it is repeated everywhere. This is not just about hallucinations. It is about how digital systems slowly erase distinctions between cultures through simplification, transliteration, repetition, and inherited human mistakes.
-
-4h ago
-
----
-
-**[eTPS Site Plan – Simple Leaderboard + What You’ll Actually See](https://www.reddit.com/r/artificial/comments/1t6lbj5/etps_site_plan_simple_leaderboard_what_youll/)**
-
-Building on the last post, here’s what the first version of effectiveTPS will look like. **Core display (v1):** - Clean table comparing popular local models - Raw TPS (the marketing number everyone shows) - eTPS (the new metric that actually measures useful output in real conversations) - Time to First Token (how long you wait before it starts replying) - Effectiveness Index = (eTPS ÷ Raw TPS) × 100 — higher is better **Example leaderboard (early test data):** | Model | Raw TPS | eTPS | Time to First Token | Effectiveness Index | |--------------------|---------|--------|---------------------|---------------------| | Llama 3.1 70B | 45.2 | 38.7 | 1.4s | **86** | | Qwen2.5-32B | 68.4 | 52.1 | 0.8s | **76** | | Gemma 2 27B | 71.3 | 44.6 | 0.6s | **63** | I’ve been running these tests through a structured multi-turn analysis framework I built to evaluate complex workflows. That’s how eTPS was stress-tested — not just single-turn benchmarks, but real back-and-forth sessions. Advanced mode (toggle) will add latency percentiles, cost-per-quality, and consistency scoring later. For v1 the goal is to keep it dead simple and immediately useful, even if you’re not deep into AI. The whole point is to cut through the noise and show which models actually deliver useful work, not just raw speed. What do you think should be added (or removed) for the first version? Any metrics you’d want to see front-and-center? **TL;DR:** Simple leaderboard with Raw TPS, eTPS, Time to First Token, and a clear Effectiveness Index. Advanced stuff stays hidden until you want it. Feedback welcome.
-
-3h ago
-
----
-
-**[Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today](https://www.reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/)**
-
-Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today Big news dropped this morning. Anthropic signed a deal to use all compute capacity at SpaceX's Colossus 1 data center. That's 300+ megawatts and over 220,000 NVIDIA GPUs coming online within the month. But the part that actually matters to developers right now: What changed today: - Claude Code 5-hour rate limits are doubled (Pro, Max, Team, Enterprise) - Peak hours limit reduction on Claude Code is removed for Pro and Max - API rate limits for Claude Opus models raised considerably This is on top of their existing compute deals 5 GW with Amazon, 5 GW with Google/Broadcom, $30B of Azure capacity with Microsoft and NVIDIA, and $50B in infrastructure with Fluidstack. They also mentioned interest in developing orbital AI compute with SpaceX. Which is a sentence I did not expect to read in 2026. For those of us building with Claude Code daily, the doubled limits + no more peak hour throttling is the headline. Rate limits have been the most frustrating bottleneck when you're deep in a long coding session. Anyone else noticing a difference already?
-
-1d ago
-
----
-
-**[Robert Evans on AI psychosis](https://www.reddit.com/r/artificial/comments/1t6f19i/robert_evans_on_ai_psychosis/)**
-
-Surprised it took this long!
-
-🔗 [open.spotify.com](https://open.spotify.com/episode/0gr3uXLFSlVYADPFQ0J9OK?si=d1d8eab26d6d474c) • 6h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 8h ago
 
 ---
 
@@ -105,15 +73,47 @@ Surprised it took this long!
 
 A year ago, most discussions were about which model was smartest. Now it increasingly feels like the bigger differentiators are becoming: latency orchestration context handling reliability inference economics developer workflow deployment flexibility The interesting shift is that model quality is improving across the board fast enough that “best benchmark” doesn’t automatically translate into “best real-world experience” anymore. We’re seeing more teams optimize around: workload routing hybrid local/cloud setups smaller specialized models faster iteration cycles predictable scaling costs In a weird way, AI feels like it’s maturing into a systems/infrastructure problem almost as much as a model problem. Curious if others are seeing the same shift or if frontier model capability still dominates most decisions for your workflows.
 
-1h ago
+3h ago
 
 ---
 
-**[AI is helpful but still not “there” yet](https://www.reddit.com/r/artificial/comments/1t6hhp1/ai_is_helpful_but_still_not_there_yet/)**
+**[Artificial Intelligence will save entertainment production in the future](https://www.reddit.com/r/artificial/comments/1t6q8mk/artificial_intelligence_will_save_entertainment/)**
 
-what I mean is that every time I use Claude, or Grok or any of the AI platforms and tools, I realize how far this technology is from replacing jobs. yes it can make some things easier but sometimes it can also make things harder. for example, I’ve been editing a legal document and have been toggling between three different tools; each have a mind of their own. some are rather astute but then hallucinate and produce some accurate things and some nonsense, and others act like they have no knowledge of the real world at all — (I understand AI is not sentient). what I’m getting at is that AI is not foolproof and can’t be trusted for things that need to be checked and re-checked with extreme attention to detail. I discover problems and inconsistencies everytime I utilize AI and that’s why I couldnt ever trust it to be a true personal assistant — because sometimes it’s not capable of delivering even basic tasks. it’s relentless and has endurance, but it’s a somewhat flawed repository that sometimes makes tasks even more difficult (like editing) — because rather than checking my own work, I’m flagging AI’s errors, which increases my work load.
+https://preview.redd.it/spzys3y8oszg1.png?width=735&format=png&auto=webp&s=24974b9fd17c0fcfd318349ef2913476d71aa079 Today there is strong opposition against AI in the industry, they say that AI will make everything generic and soulless, that this would kill the artistic creativity in pol of the product. Honestly, this is stupid, because this has already happened and didn't even need AI. The vast majority of works, be it anime, series, films, manga, are extremely generic and made only as fast food products, and when a slightly different work appears, it is sabotaged. So no, AI won't hinder artistic creativity, but rather give authors the opportunity to give the middle finger to these industries that destroy our works.
+
+2h ago
+
+---
+
+**[Robert Evans on AI psychosis](https://www.reddit.com/r/artificial/comments/1t6f19i/robert_evans_on_ai_psychosis/)**
+
+Surprised it took this long!
+
+🔗 [open.spotify.com](https://open.spotify.com/episode/0gr3uXLFSlVYADPFQ0J9OK?si=d1d8eab26d6d474c) • 9h ago
+
+---
+
+**[English Centric AI Is Merging Unrelated Communities and Distorting Identities](https://www.reddit.com/r/artificial/comments/1t6ipmk/english_centric_ai_is_merging_unrelated/)**
+
+I’ve been noticing a serious problem in AI generated knowledge systems, especially Grokipedia, and even in normal AI search responses. Different communities, identities, and historical groups are sometimes being merged together simply because their names sound similar in English. A lot of these mistakes begin with humans first. Someone makes an incorrect assumption, mixes up two groups, or writes an oversimplified explanation online. That mistake then gets copied across websites and repeated by other people until it starts looking credible. After that, AI systems absorb those mistakes from training data and begin repeating them at massive scale with an appearance of authority. The deeper issue is that many AI systems rely heavily on English language sources and English transliterations, even when discussing cultures and histories that do not originate in English. But English letters cannot fully represent many sounds from other languages. Once names are flattened into English spellings, unrelated words can suddenly appear connected even when they are completely different in their original languages. What makes this worse is that even when you directly ask AI systems questions about these topics, they often continue searching mostly in English instead of checking sources in the original language that would provide proper context and distinctions. So the AI keeps reinforcing distorted connections instead of correcting them. Eventually two unrelated groups become linked across websites, AI answers, Wikipedia pages, and Grokipedia articles, and the mistake starts looking authoritative simply because it is repeated everywhere. This is not just about hallucinations. It is about how digital systems slowly erase distinctions between cultures through simplification, transliteration, repetition, and inherited human mistakes.
+
+7h ago
+
+---
+
+**[eTPS Site Plan – Simple Leaderboard + What You’ll Actually See](https://www.reddit.com/r/artificial/comments/1t6lbj5/etps_site_plan_simple_leaderboard_what_youll/)**
+
+Building on the last post, here’s what the first version of effectiveTPS will look like. **Core display (v1):** - Clean table comparing popular local models - Raw TPS (the marketing number everyone shows) - eTPS (the new metric that actually measures useful output in real conversations) - Time to First Token (how long you wait before it starts replying) - Effectiveness Index = (eTPS ÷ Raw TPS) × 100 — higher is better **Example leaderboard (early test data):** | Model | Raw TPS | eTPS | Time to First Token | Effectiveness Index | |--------------------|---------|--------|---------------------|---------------------| | Llama 3.1 70B | 45.2 | 38.7 | 1.4s | **86** | | Qwen2.5-32B | 68.4 | 52.1 | 0.8s | **76** | | Gemma 2 27B | 71.3 | 44.6 | 0.6s | **63** | I’ve been running these tests through a structured multi-turn analysis framework I built to evaluate complex workflows. That’s how eTPS was stress-tested — not just single-turn benchmarks, but real back-and-forth sessions. Advanced mode (toggle) will add latency percentiles, cost-per-quality, and consistency scoring later. For v1 the goal is to keep it dead simple and immediately useful, even if you’re not deep into AI. The whole point is to cut through the noise and show which models actually deliver useful work, not just raw speed. What do you think should be added (or removed) for the first version? Any metrics you’d want to see front-and-center? **TL;DR:** Simple leaderboard with Raw TPS, eTPS, Time to First Token, and a clear Effectiveness Index. Advanced stuff stays hidden until you want it. Feedback welcome.
 
 5h ago
+
+---
+
+**[Created a LinkedIn group for people discussing AI + supply chain](https://www.reddit.com/r/artificial/comments/1t6qva0/created_a_linkedin_group_for_people_discussing_ai/)**
+
+I recently created a LinkedIn group for people interested in AI, supply chain, manufacturing, procurement, sourcing, logistics, and operations. The goal is pretty simple: share cool research, practical use cases, articles, examples, and discussions around how AI is actually being used in supply chain, not just the usual hype. I know LinkedIn groups are hit or miss, but I figured it could be useful to have a focused place for people working on or curious about this space. No need to hate if it’s not your thing. If you want to discuss cool new research, tools, ideas, or real-world applications, feel free to join. Link: https://www.linkedin.com/groups/20850019/
+
+1h ago
 
 ---
 
@@ -121,41 +121,51 @@ what I mean is that every time I use Claude, or Grok or any of the AI platforms 
 
 ## Google News: "ai"
 
+**[Apple’s Camera-Equipped AirPods Reach Late Testing in AI Device Push](https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
 
 The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
-**[The Secret to Understanding AI](https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/)**
+**[Walz signs AI nudification ban in Minnesota law](https://www.fox9.com/news/walz-signs-ai-nudification-ban-minnesota-law)**
 
-“Imagine the tech without the tech companies.”
+Minnesota Gov. Tim Walz signed the AI nudification ban into law Thursday.
 
-The Atlantic • 8h ago
-
----
-
-**[Nursing survey flags care quality, safety, AI concerns](https://www.bostonglobe.com/2026/05/07/business/nursing-survey-care-quality-safety-ai/)**
-
-Some 71 percent of nurses say the quality of care has worsened in the past two years, the Massachusetts Nurses Association survey found.
-
-The Boston Globe • 51m ago
+FOX 9 Minneapolis-St. Paul • 16m ago
 
 ---
 
-**[Third Way offers game plan for AI job disruption](https://thehill.com/newsletters/technology/5868835-third-way-offers-game-plan-for-ai-job-disruption/)**
+**[AI Is Distorting Practically Everything About the Economy](https://www.wsj.com/tech/ai/ai-is-distorting-practically-everything-about-the-economy-4ca6fcff)**
 
-The Hill • 51m ago
+WSJ • 17m ago
 
 ---
 
-**[Increasing number or employers seek job candidates with AI skills, survey finds](https://www.cbsnews.com/video/increasing-number-employers-seek-job-candidates-ai-skills-survey-finds/)**
+**[White House distances itself from tighter AI regulation](https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837)**
 
-As jobs evolve with the use of artificial intelligence, more employers want workers who are familiar with the technology. Eight in 10 hiring managers considered AI skills a priority in 2025, according to Resume Genius research. CBS News MoneyWatch reporter Megan Cerullo has more.
+Politico • 2h ago
 
-CBS News • 39m ago
+---
+
+**[White House Lashes Out At Obama After Mark Hamill Posts AI Image Of Trump In Grave](https://www.forbes.com/sites/asia-alexander/2026/05/07/white-house-lashes-out-at-obama-after-mark-hamill-posts-ai-image-of-trump-in-grave/)**
+
+White House Calls AI Image Of Trump In Grave A ‘Disgusting Call To Violence’
+
+Forbes • 2h ago
+
+---
+
+**[How Anthropic’s Mythos Threw the White House AI Strategy Into Chaos](https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f)**
+
+WSJ • 17m ago
 
 ---
 
@@ -169,29 +179,13 @@ blog.google • 1d ago
 
 **[Five Ways A.I. Search Beats an Old-School Google Search](https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html)**
 
-The New York Times • 14h ago
+nytimes.com • 16h ago
 
 ---
 
 **[Google Unveils 5 New AI Search Features to Push Users Deeper Into the Web](https://www.eweek.com/news/google-ai-search-links-source-previews/)**
 
-eWeek • 9h ago
-
----
-
-**[NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)**
-
-NVIDIA (NASDAQ: NVDA) and IREN Limited (NASDAQ: IREN) (“IREN”) today announced a strategic partnership to accelerate deployment of next-generation AI infrastructure.
-
-NVIDIA Newsroom • 2h ago
-
----
-
-**[IREN shares pop 13% on AI infrastructure deal with Nvidia](https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html)**
-
-Data center operator IREN announced a partnership with semiconductor giant Nvidia.
-
-CNBC • 1h ago
+eWeek • 11h ago
 
 ---
 
@@ -203,7 +197,7 @@ CNBC • 1h ago
 
 Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines without consent, with no opt-in, no opt-out short of enterprise tooling, and an automatic re-download every time the user deletes it. The pattern is identical to the Anthropic Claude Desktop case I wrote about last month, but the scale is between two and three orders of magnitude larger. This article does the legal analysis and, for the first time, the environmental analysis. The numbers are not small.
 
-⬆️ 1711 • 💬 1119 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+⬆️ 1715 • 💬 1120 • 2d ago • [That Privacy Guy!](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 
 ---
 
@@ -211,13 +205,19 @@ Google Chrome is downloading a 4 GB Gemini Nano model onto users' machines witho
 
 Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:
 
-⬆️ 540 • 💬 301 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+⬆️ 541 • 💬 301 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
 
 ---
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
 ⬆️ 539 • 💬 349 • 2d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+
+---
+
+**[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
+
+⬆️ 432 • 💬 419 • 6h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -229,25 +229,11 @@ Are people using AI, or is the organization learning from it? What changed becau
 
 ---
 
-**[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
-
-⬆️ 345 • 💬 325 • 4h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
-
----
-
 **[AI Product Graveyard](https://news.ycombinator.com/item?id=48021968)**
 
 Curated list of AI tools and AI startups that have shut down, been acquired and folded, or had their domains lapse. Updated as our editorial team confirms each death.
 
-⬆️ 253 • 💬 89 • 2d ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
-
----
-
-**[Telus Uses AI to Alter Call-Agent Accents](https://news.ycombinator.com/item?id=48031109)**
-
-According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
-
-⬆️ 233 • 💬 210 • 1d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+⬆️ 254 • 💬 89 • 2d ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
 
 ---
 
@@ -255,13 +241,21 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 230 • 💬 272 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 244 • 💬 287 • 9h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+
+---
+
+**[Telus Uses AI to Alter Call-Agent Accents](https://news.ycombinator.com/item?id=48031109)**
+
+According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
+
+⬆️ 234 • 💬 210 • 1d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
 
 ---
 
 **[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
 
-⬆️ 143 • 💬 45 • 2d ago
+⬆️ 144 • 💬 45 • 2d ago
 
 ---
 
@@ -283,17 +277,7 @@ Check out tastytrade here: https://tastytrade.com/unleashed. My Links ➡️ Twi
 
 📺 Wes Roth
 
-👁️ 20K • 👍 466 • 💬 199 • ⏱️ 1:29:12 • 19h ago
-
----
-
-**[How to Make AI Videos That Really Look Like You (Full Guide)](https://www.youtube.com/watch?v=st7NRTxeKC8)**
-
-Make AI Videos with Yourself using OpenArt https://youricreates.com/realistic-AI In this video, I show the full workflow I used to ...
-
-📺 Youri van Hofwegen
-
-👁️ 10K • 💬 6 • ⏱️ 13:14 • 8h ago
+👁️ 21K • 👍 477 • 💬 207 • ⏱️ 1:29:12 • 21h ago
 
 ---
 
@@ -303,7 +287,17 @@ The biggest U.S. banks are quietly dumping their AI debt — a massive red flag 
 
 📺 Steven Van Metre
 
-👁️ 47K • 👍 2K • 💬 226 • ⏱️ 16:12 • 23h ago
+👁️ 48K • 👍 2K • 💬 229 • ⏱️ 16:12 • 1d ago
+
+---
+
+**[How to Make AI Videos That Really Look Like You (Full Guide)](https://www.youtube.com/watch?v=st7NRTxeKC8)**
+
+Make AI Videos with Yourself using OpenArt https://youricreates.com/realistic-AI In this video, I show the full workflow I used to ...
+
+📺 Youri van Hofwegen
+
+👁️ 10K • 💬 6 • ⏱️ 13:14 • 10h ago
 
 ---
 
@@ -313,17 +307,7 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 49K • 👍 1K • 💬 62 • ⏱️ 13:34 • 1d ago
-
----
-
-**[Generate FREE &amp; UNLIMITED AI Videos With Claude](https://www.youtube.com/watch?v=m0RiHpyyAis)**
-
-Try the Claude AI video workflow with Higgsfield MCP here → https://higgsfield.ai/s/mcp-malvaai-EDNKNW Download the ...
-
-📺 Malva AI
-
-👁️ 3K • 👍 134 • 💬 41 • ⏱️ 7:19 • 12h ago
+👁️ 51K • 👍 1K • 💬 64 • ⏱️ 13:34 • 1d ago
 
 ---
 
@@ -333,27 +317,7 @@ AI music is "flooding" streaming platforms. Deezer says it is now receiving near
 
 📺 Sky News
 
-👁️ 9K • 👍 202 • 💬 64 • ⏱️ 8:36 • 11h ago
-
----
-
-**[AI, Layoffs and War - It’s Getting Worse Fast](https://www.youtube.com/watch?v=90vpbHjMNNg)**
-
-The economy is sending clear warning signs, and today we break down the real story behind layoffs, inflation, and global conflict.
-
-📺 I Allegedly
-
-👁️ 14K • 👍 1K • 💬 214 • ⏱️ 10:43 • 1d ago
-
----
-
-**[Unreal Hyper Realistic AI Humanoid | Android Robots Ready for Purchase #cybergirl #Robotics](https://www.youtube.com/watch?v=G3U7aHvFRyM)**
-
-Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots Unveiled at 2026? These Robotics ...
-
-📺 ejunky66
-
-👁️ 15K • 👍 307 • 💬 21 • ⏱️ 1:00 • 10h ago
+👁️ 10K • 👍 202 • 💬 65 • ⏱️ 8:36 • 13h ago
 
 ---
 
@@ -363,7 +327,27 @@ IBM CEO Arvind Krishna assesses government oversight of artificial intelligence,
 
 📺 Fox Business
 
-👁️ 14K • 👍 211 • 💬 85 • ⏱️ 9:05 • 2d ago
+👁️ 14K • 👍 213 • 💬 85 • ⏱️ 9:05 • 2d ago
+
+---
+
+**[Unreal Hyper Realistic AI Humanoid | Android Robots Ready for Purchase #cybergirl #Robotics](https://www.youtube.com/watch?v=G3U7aHvFRyM)**
+
+Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots Unveiled at 2026? These Robotics ...
+
+📺 ejunky66
+
+👁️ 16K • 👍 323 • 💬 21 • ⏱️ 1:00 • 12h ago
+
+---
+
+**[The Only 5 Ways To Make Money With AI In 2026](https://www.youtube.com/watch?v=0UACvpDYEBk)**
+
+FREE Startup Playbook: https://www.wearenocode.com/free-playbook 🎖️ FREE Community: ...
+
+📺 Christian Peverelli - WeAreNoCode
+
+👁️ 6K • 👍 225 • 💬 13 • ⏱️ 12:03 • 2d ago
 
 ---
 
@@ -373,25 +357,23 @@ CNBC's Andrew Ross Sorkin discusses key takeaways from his conversation with Ant
 
 📺 CNBC Television
 
-👁️ 50K • 👍 518 • 💬 66 • ⏱️ 5:23 • 1d ago
+👁️ 51K • 👍 530 • 💬 66 • ⏱️ 5:23 • 1d ago
+
+---
+
+**[AI Fatigue Is Getting Worse](https://www.youtube.com/watch?v=UcM5vTe5l1I)**
+
+My Patreon tutorials, breakdowns, & community: https://patreon.com/skymography My brother's essays on AI: ...
+
+📺 Skymography
+
+👁️ 12K • 👍 1K • 💬 227 • ⏱️ 16:42 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
-
-*DeepSeek*
-
-DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, aiming to bridge the gap with closed-source models.
-
-`text-generation` `861.6B`
-
-⬇️ 946,264 • ❤️ 3,722 • 1d ago
-
----
 
 **[Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**
 
@@ -401,7 +383,19 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 71,149 • ❤️ 368 • 1d ago
+⬇️ 71,149 • ❤️ 379 • 35m ago
+
+---
+
+**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, aiming to bridge the gap with closed-source models.
+
+`text-generation` `861.6B`
+
+⬇️ 946,264 • ❤️ 3,724 • 1d ago
 
 ---
 
@@ -413,7 +407,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 165,240 • ❤️ 1,342 • 15d ago
+⬇️ 165,240 • ❤️ 1,343 • 15d ago
 
 ---
 
@@ -425,7 +419,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 539 • ❤️ 191 • 1h ago
+⬇️ 539 • ❤️ 196 • 1h ago
 
 ---
 
@@ -437,7 +431,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 4,460 • ❤️ 216 • 10d ago
+⬇️ 4,460 • ❤️ 218 • 11d ago
 
 ---
 
@@ -449,19 +443,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 28,215 • ❤️ 150 • 21h ago
-
----
-
-**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
-
-*Xiaomi MiMo*
-
-MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
-
-`text-generation` `1023.2B`
-
-⬇️ 20,905 • ❤️ 469 • 9d ago
+⬇️ 28,215 • ❤️ 152 • 23h ago
 
 ---
 
@@ -473,7 +455,19 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 19,908 • ❤️ 136 • 2d ago
+⬇️ 19,908 • ❤️ 140 • 2d ago
+
+---
+
+**[MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**
+
+*Xiaomi MiMo*
+
+MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters, featuring a hybrid attention architecture and Multi-Token Prediction for up to 1M token context length. It excels in agentic tasks, complex software engineering, and long-horizon reasoning, with advanced capabilities in instruction following and coherence over extended contexts.
+
+`text-generation` `1023.2B`
+
+⬇️ 20,905 • ❤️ 470 • 9d ago
 
 ---
 
@@ -485,7 +479,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,771,851 • ❤️ 1,174 • 13d ago
+⬇️ 1,771,851 • ❤️ 1,176 • 13d ago
 
 ---
 
@@ -592,7 +586,7 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 62,274 • 7mo ago
+▲ 160 • 💬 2 • ⭐ 62,301 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -611,20 +605,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[RLDX-1 Technical Report](https://huggingface.co/papers/2605.03269)**
-
-*Dongyoung Kim, Huiwon Jang, Myungkyu Koo et al. (68 authors)*
-
-🏢 RLWRLD
-
-RLDX-1 is a general-purpose robotic policy for dexterous manipulation that integrates heterogeneous modalities through a Multi-Stream Action Transformer architecture, demonstrating superior performance in complex real-world tasks compared to existing vision-language-action models.
-
-▲ 85 • 💬 1 • ⭐ 70 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.03269) • [💻 code](https://github.com/RLWRLD/RLDX-1) • [🔗 project](http://rlwrld.ai/rldx-1)
-
----
-
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -633,9 +613,23 @@ RLDX-1 is a general-purpose robotic policy for dexterous manipulation that integ
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 81 • 💬 6 • ⭐ 19,862 • 6mo ago
+▲ 81 • 💬 6 • ⭐ 19,894 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
+**[RLDX-1 Technical Report](https://huggingface.co/papers/2605.03269)**
+
+*Dongyoung Kim, Huiwon Jang, Myungkyu Koo et al. (68 authors)*
+
+🏢 RLWRLD
+
+RLDX-1 is a general-purpose robotic policy for dexterous manipulation that integrates heterogeneous modalities through a Multi-Stream Action Transformer architecture, demonstrating superior performance in complex real-world tasks compared to existing vision-language-action models.
+
+▲ 87 • 💬 1 • ⭐ 77 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.03269) • [💻 code](https://github.com/RLWRLD/RLDX-1) • [🔗 project](http://rlwrld.ai/rldx-1)
 
 ---
 
@@ -659,7 +653,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 10.9k • 🔱 705 • 3d ago
+⭐ 10.9k • 🔱 707 • 3d ago
 
 ---
 
@@ -669,7 +663,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.8k • 🔱 447 • 5h ago
+⭐ 5.8k • 🔱 447 • 8h ago
 
 ---
 
@@ -689,7 +683,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.1k • 🔱 369 • 11h ago
+⭐ 5.1k • 🔱 369 • 13h ago
 
 ---
 
@@ -699,15 +693,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.9k • 🔱 479 • 8h ago
-
----
-
-**[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)**
-
-Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-
-⭐ 3.6k • 🔱 373 • 16d ago
+⭐ 3.9k • 🔱 480 • 10h ago
 
 ---
 
@@ -727,7 +713,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 352 • 14d ago
+⭐ 2.7k • 🔱 353 • 14d ago
 
 ---
 
@@ -737,7 +723,17 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 675 • 8d ago
+⭐ 2.4k • 🔱 677 • 8d ago
+
+---
+
+**[Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)**
+
+Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
+
+`JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
+
+⭐ 2.3k • 🔱 208 • 16h ago
 
 ---
 

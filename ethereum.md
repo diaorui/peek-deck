@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-07T23:06:31.251789+00:00'
+updated: '2026-05-08T01:17:03.231458+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 07, 2026 at 23:06 UTC  
+**Last Updated:** May 08, 2026 at 01:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,294.25
+### $2,291.33
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -1.7%  
-**7d:** -0.3%  
-**30d:** +4.6%  
-**90d:** +9.3%  
-**1y:** +3.7%  
+**7d:** -1.5%  
+**30d:** +4.1%  
+**90d:** +9.2%  
+**1y:** -2.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.02B
+**Market Cap:** $275.73B
 Rank #2
 
 **Circulating Supply:** 120,687,104 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.7%
+-53.8%
 
 **All-Time Low:** $0.43
-+528272.0%
++527211.9%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To expand: Initial immutable setups become sovereign "constitution" based L2s that allow their citizens to layer their own "laws" on top to control allowed behaviors. Will deploy on testnet sometime in coming days. Been a fun experiment :)
 
-🔗 [GitHub](https://github.com/hatter6822/Canon) • 16h ago
+🔗 [GitHub](https://github.com/hatter6822/Canon) • 18h ago
 
 ---
 
@@ -154,7 +154,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The longer time horizon you consider, the more one of these assets stands out.
 
-The Motley Fool • 10h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH challenge resistance, XRP shows strength](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-challenge-resistance-xrp-shows-strength-202605060355)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extend gains on Wednesday, rising over 3.4%, 2%, and 2%, respectively, so far this week. BTC and ETH are approaching their key resistance zones that could determine their next directional move.
+
+FXStreet • 1d ago
+
+---
+
+**[Bitcoin At $81,000, Ethereum, XRP, Dogecoin Consolidate As Trump Seeks Iran Progress](https://finance.yahoo.com/markets/crypto/articles/bitcoin-81-000-ethereum-xrp-233005212.html)**
+
+Bitcoin is consolidating around $81,000, showing limited short-term momentum as institutional demand supports price stability despite ongoing geopolitical uncertainty. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$81,423.88Ethereum(CRYPTO: ETH)$2,366.83Solana(CRYPTO: SOL)$85.49XRP(CRYPTO: XRP)$1.40Dogecoin(CRYPTO: DOGE)$0.1139Shiba Inu(CRYPTO: SHIB)$0.056290 Don't Miss: A single bad hire can set a startup back years. Here...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -166,25 +182,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-may-205420192.html)**
-
-Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Is This Sign a Big Red Flag for Ethereum?](https://www.fool.com/investing/2026/05/07/is-this-sign-a-big-red-flag-for-ethereum/)**
-
-The Motley Fool • 1h ago
-
----
-
 **[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
 
 At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html)**
+
+Bitcoin opened at $80,900.77 on Wednesday and moved higher in early trading, surpassing the $82,000 mark as of 7:03 a.m. ET. Ethereum opened at $2,360.65 on Wednesday, and rose this morning to $2,412.01 as of 7:03 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,27 +208,21 @@ The Block • 1d ago
 
 **[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
 
-TipRanks • 10h ago
+TipRanks • 13h ago
 
 ---
 
 **[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
 
-thestreet.com • 1h ago
+thestreet.com • 3h ago
 
 ---
 
-**[Bitcoin Breaks Back Above $80,000. Why the Crypto Winter Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+**[Is This Sign a Big Red Flag for Ethereum?](https://www.aol.com/articles/sign-big-red-flag-ethereum-215700177.html)**
 
-Barron's • 2d ago
+Some concerned investors are pulling their capital from the network's staking ecosystem.
 
----
-
-**[Crypto Market News: AlphaPepe Presale Stages Sell Out Fast Whilst Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-market-news-alphapepe-presale-stages-sell-out-fast-whilst-ethereum-price-prediction-eyes-10-000-1036116087)**
-
-MONACO, May  06, 2026  (GLOBE NEWSWIRE) -- Crypto Market News is turning toward AlphaPepe as the presale continues selling through stages at speed...
-
-markets.businessinsider.com • 21h ago
+AOL.com • 3h ago
 
 ---
 
@@ -226,33 +230,23 @@ markets.businessinsider.com • 21h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
-
-I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
-
-📺 Verified Pro Traders
-
-👁️ 2K • 👍 199 • 💬 5 • ⏱️ 8:05 • 5h ago
-
----
-
 **[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
 
 Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 294 • 💬 42 • ⏱️ 8:18 • 1d ago
+👁️ 5K • 👍 295 • 💬 42 • ⏱️ 8:18 • 1d ago
 
 ---
 
-**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vw2uR2gQs-Y)**
+**[MASSIVE CRYPTO REVERSAL INCOMING IT&#39;S ALL LINING UP! XRP BTC ETH ONDO](https://www.youtube.com/watch?v=l68PohRUcMg)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+MASSIVE XRP CALL: 2026 Crypto Bull Market Is Here? MAJOR Bitcoin & Ethereum Updates iTrustCapital (Partner) ...
 
-📺 Cilinix Crypto
+📺 CryptoWendyO
 
-👁️ 372 • 👍 28 • 💬 5 • ⏱️ 4:38 • 12h ago
+👁️ 5K • 👍 383 • 💬 8 • ⏱️ 28:08 • 6h ago
 
 ---
 
@@ -262,7 +256,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 175 • 💬 27 • ⏱️ 18:13 • 1d ago
+👁️ 5K • 👍 180 • 💬 27 • ⏱️ 18:13 • 1d ago
+
+---
+
+**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vw2uR2gQs-Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 406 • 👍 29 • 💬 5 • ⏱️ 4:38 • 14h ago
 
 ---
 
@@ -272,7 +276,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 97 • 💬 10 • ⏱️ 7:39 • 1d ago
+👁️ 2K • 👍 98 • 💬 10 • ⏱️ 7:39 • 1d ago
+
+---
+
+**[Ethereum Co-Founder: How Big Tech Will Use AI To Control You (And How Crypto Stops It) | E170](https://www.youtube.com/watch?v=j4_MME6O9Cs)**
+
+Joseph Lubin, co-founder of Ethereum and CEO of Consensys, warns that big tech is racing to build centralized AI systems that ...
+
+📺 When Shift Happens
+
+👁️ 1K • 👍 64 • 💬 85 • ⏱️ 1:13:25 • 11h ago
 
 ---
 
@@ -282,7 +296,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 281 • 💬 66 • ⏱️ 19:21 • 2d ago
+👁️ 7K • 👍 282 • 💬 66 • ⏱️ 19:21 • 2d ago
 
 ---
 
@@ -292,7 +306,7 @@ In this Elite Live TA session, The Trading Parrot delivers comprehensive technic
 
 📺 The Trading Parrot
 
-👁️ 2K • 👍 181 • 💬 13 • ⏱️ 1:35:09 • 10h ago
+👁️ 2K • 👍 181 • 💬 14 • ⏱️ 1:35:09 • 12h ago
 
 ---
 
@@ -302,7 +316,7 @@ BITCOIN & ALTCOIN WARNING SIGNAL JUST CONFIRMED!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 332 • 💬 368 • ⏱️ 16:18 • 19h ago
+👁️ 8K • 👍 336 • 💬 464 • ⏱️ 16:18 • 22h ago
 
 ---
 
@@ -312,17 +326,7 @@ Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Et
 
 📺 The Block
 
-👁️ 3K • 👍 92 • 💬 17 • ⏱️ 22:10 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Apmb-GY-cPc)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Ferran Exceso
-
-👁️ 3K • 👍 771 • 53m ago
+👁️ 3K • 👍 96 • 💬 17 • ⏱️ 22:10 • 1d ago
 
 ---
 
