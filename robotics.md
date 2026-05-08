@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-08T21:01:47.069558+00:00'
+updated: '2026-05-08T22:30:41.775233+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 08, 2026 at 21:01 UTC  
+**Last Updated:** May 08, 2026 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
-9h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
 The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
 
-7h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 4h ago
 
 ---
 
@@ -66,7 +66,21 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Custom Pan Tilt mechanism I put together for a teleop robot. The motor choice was somewhat arbitrary, I have had them on my shelf for a while and wanted to try them on a project. I love the speed and responsiveness and the ease of setup/ integration. One slight downside is that since I am using the secondary encoder for closed loop control, there is a slight audible chatter from the planetary gears in a balanced system. I think I could fix it with a slight spring bias, but haven't tried. Target speed of the system was 720 deg/sec for each axis which these motors provide. Admittedly I am running these motors at 10% power as they are way overkill for this application (that being said, this design should allow heavier payloads pretty easily without dropping rate). The pan wiring is supported with a 6mm nylon strip to control bending, the tilt wiring is just a bend rated usb3 cable loop. The wiring allows for 360 degrees pan, 180 degrees tilt (but for this robot I have it limited to 180, 180) The camera is streaming to a meta quest3s and tracking its motion. Hardware: Motor: SteadyWin GIM6010-8, Camera: OakD-LR
 
-5h ago
+7h ago
+
+---
+
+**[Multi agent robots for cooperative game research](https://www.reddit.com/r/robotics/comments/1t7f1sk/multi_agent_robots_for_cooperative_game_research/)**
+
+Hey everyone, sharing an early stage project I've been working on as part of a research project about studying cooperation through games played by simple agents. The goal is to build a small fleet of robots that play cooperative games together, where each robot has different "senses";one can only see, one can only hear, one may have proximity sensing, etc. The question is what kinds of cooperative strategies emerge when agents have to share information across asymmetric sensing. Eventually I want to put a larger language model (something like Gemma) in the loop as a strategist, with smaller, faster models handling execution on each robot. But that's far down the road. Where it is now: The chassis is a modified Bambu CyberBrick model, redesigned to fit a custom ESP32-S3 with a camera module Each robot streams video over Wifi to a PC, where ArUco markers are detected for positioning. Doing the CV offboard to save battery on the robot Right now I'm using 4 big ArUco markers as a proof of concept, but for a real arena I'd put many more on the walls for proper coverage Motors are driven through a small motor driver and voltage monitoring board I wired up on perfboard Powered by a drone battery, which has way more current than the motors actually need, but interestingly the ESP32 can still charge from it What i still need to figure out for the future Autonomous charging stations (the dream: robots that go dock themselves when low) More markers and a properly controlled arena The actual cooperative game design and the asymmetric-sense layer and Putting AI in the control loop Very much work in progress. I'd genuinely value any thoughts on the localization side (is ArUco the right call or should I be looking at something else?) and on the multi-agent side if anyone's worked on similar setups.
+
+4h ago
+
+---
+
+**[Arm robot](https://www.reddit.com/r/robotics/comments/1t775x7/arm_robot/)**
+
+9h ago
 
 ---
 
@@ -78,9 +92,9 @@ Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100
 
 ---
 
-**[Arm robot](https://www.reddit.com/r/robotics/comments/1t775x7/arm_robot/)**
+**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
 
-8h ago
+15h ago
 
 ---
 
@@ -88,21 +102,7 @@ Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100
 
 Meta Quest3s streams head orientation over wifi to raspi which talks over uart to an arduino controlling the pan tilt motors over CAN. Motors are GIM6010-8 running at 10% power. The oakD-LR is streaming the central cam at 1280x720, 20 fps with MJPEG hardware encoding on oakD. The oakD is also using its built in ROI depth estimator with the two outside cameras with valid ranging between 1.5m and 25m. Initially I locked the camera display to the headset frame but found the motion lag of the motors actually driving the pan tilt nauseating. By delinking the display from the headset and instead having it track returned motor angles from the PT system, it decouples the instantaneous head motion from the camera and makes the experience much more comfortable (even though it looks more chaotic in the playback).
 
-5h ago
-
----
-
-**[Multi agent robots for cooperative game research](https://www.reddit.com/r/robotics/comments/1t7f1sk/multi_agent_robots_for_cooperative_game_research/)**
-
-Hey everyone, sharing an early stage project I've been working on as part of a research project about studying cooperation through games played by simple agents. The goal is to build a small fleet of robots that play cooperative games together, where each robot has different "senses";one can only see, one can only hear, one may have proximity sensing, etc. The question is what kinds of cooperative strategies emerge when agents have to share information across asymmetric sensing. Eventually I want to put a larger language model (something like Gemma) in the loop as a strategist, with smaller, faster models handling execution on each robot. But that's far down the road. Where it is now: The chassis is a modified Bambu CyberBrick model, redesigned to fit a custom ESP32-S3 with a camera module Each robot streams video over Wifi to a PC, where ArUco markers are detected for positioning. Doing the CV offboard to save battery on the robot Right now I'm using 4 big ArUco markers as a proof of concept, but for a real arena I'd put many more on the walls for proper coverage Motors are driven through a small motor driver and voltage monitoring board I wired up on perfboard Powered by a drone battery, which has way more current than the motors actually need, but interestingly the ESP32 can still charge from it What i still need to figure out for the future Autonomous charging stations (the dream: robots that go dock themselves when low) More markers and a properly controlled arena The actual cooperative game design and the asymmetric-sense layer and Putting AI in the control loop Very much work in progress. I'd genuinely value any thoughts on the localization side (is ArUco the right call or should I be looking at something else?) and on the multi-agent side if anyone's worked on similar setups.
-
-3h ago
-
----
-
-**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
-
-14h ago
+6h ago
 
 ---
 
@@ -124,28 +124,6 @@ CBC • 1d ago
 
 ---
 
-**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
-
-SpaceNews • 9h ago
-
----
-
-**[Rocket Lab Expands Launch Backlog And Robotics Capabilities With Motiv Deal](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-expands-launch-backlog-231818792.html)**
-
-Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
-
-Yahoo Finance • 21h ago
-
----
-
-**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
-
-The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
-
-Rocket Lab • 21h ago
-
----
-
 **[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
 
 America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
@@ -154,19 +132,33 @@ The Washington Post • 1d ago
 
 ---
 
+**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
+
+SpaceNews • 10h ago
+
+---
+
+**[Rocket Lab Expands Launch Backlog And Robotics Capabilities With Motiv Deal](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-expands-launch-backlog-231818792.html)**
+
+Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
+
+The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
+
+Rocket Lab • 23h ago
+
+---
+
 **[A Look At Richtech Robotics (RR) Valuation After SoundHound AI Partnership And Hospitality Robot Showcases](https://finance.yahoo.com/markets/stocks/articles/look-richtech-robotics-rr-valuation-152228053.html)**
 
 Richtech Robotics (RR) stock is back in focus after the company signed a non binding letter of intent with SoundHound AI to integrate voice AI into its service robots for upcoming hospitality focused demonstrations. See our latest analysis for Richtech Robotics. Those upcoming hospitality demos and recent high profile showcases, such as ADAM serving fans at Vegas Golden Knights games, come after a 30 day share price return of 39.58% and a 1 year total shareholder return of 30.73%, even though...
 
-Yahoo Finance • 5h ago
-
----
-
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
-
-“The smart home is getting kind of boring.”
-
-The Verge • 8h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -176,11 +168,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Faraday Future and BIBS plan US robotics institute built around real robots](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-partnership-between-ff-ai-0ko06z0kwsbn.html)**
+**[Robot Outruns Humans In Beijing Half Marathon](https://www.dogonews.com/2026/5/8/robot-outruns-humans-in-beijing-half-marathon)**
 
-The planned institute targets AI and robotics training, certifications and internships. The Omaha launch starts a global partner search, pending board approval.
+Robot Outruns Humans In Beijing Half Marathon has 19 comments.
 
-Stock Titan • 12h ago
+DOGO News • 4h ago
+
+---
+
+**[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
+
+South China Morning Post • 21h ago
 
 ---
 
@@ -188,11 +186,21 @@ Stock Titan • 12h ago
 
 ## YouTube Videos: "robotics"
 
+**[Forget About Any Job Forever With This $5,000 AI Robot - It Will Do Everything For You](https://www.youtube.com/watch?v=GBlCDrN7t2s)**
+
+A new generation of AI robots is being designed to handle everyday tasks with minimal human involvement, from communication ...
+
+📺 Carros Show
+
+👁️ 209 • 👍 15 • ⏱️ 20:56 • 2h ago
+
+---
+
 **[#factory #robot #industrial #robotics #spraying #borunte](https://www.youtube.com/watch?v=YT09DS2VUEw)**
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 4K • 👍 34 • 💬 1 • ⏱️ 0:14 • 11h ago
+👁️ 9K • 👍 48 • 💬 1 • ⏱️ 0:14 • 13h ago
 
 ---
 
@@ -202,7 +210,7 @@ In April, Ukrainian President Volodymr Zelensky claimed that Ukrainian-made robo
 
 📺 BBC World Service
 
-👁️ 51K • 👍 864 • 💬 146 • ⏱️ 7:35 • 2d ago
+👁️ 55K • 👍 904 • 💬 150 • ⏱️ 7:35 • 2d ago
 
 ---
 
@@ -212,57 +220,7 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 130 • 💬 17 • ⏱️ 20:22 • 3d ago
-
----
-
-**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
-
-You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
-
-📺 KTLA 5
-
-👁️ 24K • 👍 223 • 💬 90 • ⏱️ 2:14 • 3d ago
-
----
-
-**[EVERYONE needs to know about this DIRTY TRICK in War Robots](https://www.youtube.com/watch?v=hfSecKnnta0)**
-
-War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 16K • 👍 763 • 💬 104 • ⏱️ 11:18 • 1d ago
-
----
-
-**[Einstein Final Tiebreaker - FIRST Championship - FIRST Robotics Competition](https://www.youtube.com/watch?v=j8wz5vw5XfE)**
-
-Einstein Final Tiebreaker - FIRST Championship - FIRST Robotics Competition Red (Teams 4065, 4414, 1323) - 712 Blue (Teams ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 20K • 👍 215 • 💬 23 • ⏱️ 3:35 • 5d ago
-
----
-
-**[2026 FIRST Championship - FIRST Robotics Competition Finale](https://www.youtube.com/watch?v=cqLLqH7lr1E)**
-
-2026 FIRST Championship - FIRST Robotics Competition Finale https://frc-events.firstinspires.org/2026/CMPTX (c) 2026 FIRST ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 107K • 👍 1K • ⏱️ 5:10:36 • 5d ago
-
----
-
-**[These Robots Sort Batteries With Perfect Timing 🤖⚡](https://www.youtube.com/watch?v=KRxSqhRZUTA)**
-
-This is a high-speed industrial automation system using two different robots working together in perfect synchronization. The fast ...
-
-📺 Unova
-
-👁️ 33K • 👍 122 • 💬 6 • ⏱️ 0:06 • 21h ago
+👁️ 4K • 👍 132 • 💬 17 • ⏱️ 20:22 • 3d ago
 
 ---
 
@@ -272,7 +230,37 @@ China Robot Dance is an amazing display of artificial intelligence and robotics 
 
 📺 Naa Anveshana
 
-👁️ 315K • 👍 19K • 💬 2K • ⏱️ 16:03 • 1d ago
+👁️ 321K • 👍 19K • 💬 2K • ⏱️ 16:03 • 1d ago
+
+---
+
+**[EVERYONE needs to know about this DIRTY TRICK in War Robots](https://www.youtube.com/watch?v=hfSecKnnta0)**
+
+War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 17K • 👍 783 • 💬 107 • ⏱️ 11:18 • 1d ago
+
+---
+
+**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
+
+You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
+
+📺 KTLA 5
+
+👁️ 24K • 👍 225 • 💬 90 • ⏱️ 2:14 • 3d ago
+
+---
+
+**[Robot Movie Funny Mistakes 💩 #shorts #youtubeshorts](https://www.youtube.com/watch?v=7qWh__khI3U)**
+
+5 Biggest Mistakes In Robot Movie #shorts #youtubeshorts #robot #movie #mistakes #robot2.
+
+📺 Kashtman Expo
+
+👁️ 29K • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -282,7 +270,15 @@ Control a Robot Arm with One Joystick using Arduino! code link ...
 
 📺 MW Electronics Lab
 
-👁️ 171K • 💬 32 • ⏱️ 0:05 • 2d ago
+👁️ 172K • 💬 32 • ⏱️ 0:05 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=cjS1xtwUAis)**
+
+📺 Robot Julie 
+
+👁️ 29K • 👍 138 • ⏱️ 0:25 • 2d ago
 
 ---
 
