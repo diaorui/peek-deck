@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-08T13:50:15.679062+00:00'
+updated: '2026-05-08T15:23:38.820338+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 08, 2026 at 13:50 UTC  
+**Last Updated:** May 08, 2026 at 15:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,6 +36,14 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
+4h ago
+
+---
+
+**[Any strategies to achieve straight line motion on my 6-axis robot?](https://www.reddit.com/r/robotics/comments/1t77mw6/any_strategies_to_achieve_straight_line_motion_on/)**
+
+The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
+
 2h ago
 
 ---
@@ -44,39 +52,25 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
 Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100 kilo lifting force. My instructor shown for scale. The red railing is to keep students alive. The tool swished past my face once when I pressed Go Back, instead of Go Forward. Simple mistake? Centennial College Ashtonbee Campus, Scarborough Ontario.
 
-17h ago
-
----
-
-**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
-
-6h ago
-
----
-
-**[Any strategies to achieve straight line motion on my 6-axis robot?](https://www.reddit.com/r/robotics/comments/1t77mw6/any_strategies_to_achieve_straight_line_motion_on/)**
-
-The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
-
-35m ago
+18h ago
 
 ---
 
 **[Arm robot](https://www.reddit.com/r/robotics/comments/1t775x7/arm_robot/)**
 
-52m ago
+2h ago
+
+---
+
+**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
+
+8h ago
 
 ---
 
 **[Neuralink Is Building a Surgical Robot Designed to Reach Any Brain Region](https://www.reddit.com/r/robotics/comments/1t6h9zg/neuralink_is_building_a_surgical_robot_designed/)**
 
-20h ago
-
----
-
-**[How Many Robot Monks Does It Take to Screw in the Light of Enlightenment?](https://www.reddit.com/r/robotics/comments/1t71avu/how_many_robot_monks_does_it_take_to_screw_in_the/)**
-
-5h ago
+21h ago
 
 ---
 
@@ -88,19 +82,25 @@ Recently had a technical interview with Peer Robotics for a robotics engineering
 
 ---
 
-**[Resources to practice DH convention](https://www.reddit.com/r/robotics/comments/1t75hps/resources_to_practice_dh_convention/)**
+**[How Many Robot Monks Does It Take to Screw in the Light of Enlightenment?](https://www.reddit.com/r/robotics/comments/1t71avu/how_many_robot_monks_does_it_take_to_screw_in_the/)**
 
-Where to practice DH convention from ? (I needs solved examples) I have seen some youtube videos but they are simple.. I have also followed J.J Craig there also simple questions are there
-
-2h ago
+7h ago
 
 ---
 
-**[Control Engineering survey](https://www.reddit.com/r/robotics/comments/1t74zp9/control_engineering_survey/)**
+**[BTT Octopus for robot arm?](https://www.reddit.com/r/robotics/comments/1t72qts/btt_octopus_for_robot_arm/)**
 
-Hey guys, I'm doing a survey to ascertain the dominance of different control engineering paradigms in the industry, to ascertain whether there has been a noticeable shift from classical controls to more modern algorithms, or whether modern algorithms, while looking good on paper, are stuck on research papers for the most part. I would love everyone's inputs, from student to seasoned researcher. Your still welcome to contribute if you don't work directly in controls, or if your work is controls-adjacent, like SWE or mechanical design.
+I am thinking of purchasing the BTT octopus. It’s not for a 3-D printer, but for a six axis robot arm. I was wondering, if controlling steppers with it by writing my own code is straightforward? Like with an ESP it’s pretty easy and there are libraries to do it as well. Good libraries like fast accel stepper, which use the hardware interrupts and timers for the pulses instead of polling the CPU. Are there libraries for that specific STM32 as well? I don’t want to deal with complicated timers and interrupt setup on an STM32 coz im not here for learning embedded programming too much but more for the robotics aspect.
 
-🔗 [Google Docs](https://forms.gle/euvuR2Niee3KmZmVA) • 2h ago
+6h ago
+
+---
+
+**[Camera module suggestion and Discussion](https://www.reddit.com/r/robotics/comments/1t7awcg/camera_module_suggestion_and_discussion/)**
+
+Help me out guys. I need your suggestions before i make the decision. So read the post out and give your suggestions
+
+8m ago
 
 ---
 
@@ -114,35 +114,17 @@ Reuters • 1d ago
 
 ---
 
-**[Khosla-backed robotics startup Genesis AI has gone full stack, demo shows](https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/)**
+**[Vancouver approves 6-month delivery robot pilot program](https://www.cbc.ca/news/canada/british-columbia/delivery-robot-pilot-program-vancouver-9.7190729)**
 
-Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.
+Serve Robotics, a U.S.-based company, will run the pilot program in the downtown and Kitsilano neighbourhoods, starting this fall.
 
-TechCrunch • 1d ago
-
----
-
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
-
-“The smart home is getting kind of boring.”
-
-The Verge • 1h ago
+CBC • 1d ago
 
 ---
 
-**[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
+**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
 
-America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
-
-The Washington Post • 20h ago
-
----
-
-**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
-
-The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
-
-Rocket Lab • 14h ago
+SpaceNews • 3h ago
 
 ---
 
@@ -150,13 +132,31 @@ Rocket Lab • 14h ago
 
 Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
+**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
 
-SpaceNews • 2h ago
+The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
+
+Rocket Lab • 16h ago
+
+---
+
+**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
+
+“The smart home is getting kind of boring.”
+
+The Verge • 3h ago
+
+---
+
+**[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
+
+America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
+
+The Washington Post • 21h ago
 
 ---
 
@@ -164,19 +164,21 @@ SpaceNews • 2h ago
 
 The planned institute targets AI and robotics training, certifications and internships. The Omaha launch starts a global partner search, pending board approval.
 
-Stock Titan • 5h ago
+Stock Titan • 7h ago
 
 ---
 
 **[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
 
-South China Morning Post • 12h ago
+South China Morning Post • 14h ago
 
 ---
 
-**[Humanoid Robots Are the Next Phase of the AI Hype Cycle](https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests)**
+**[Brownell Talbot robotics team wins world championship](https://www.wowt.com/2026/05/08/brownell-talbot-robotics-team-wins-world-championship/)**
 
-Bloomberg.com • 7h ago
+A Nebraska high school robotics team won the most prestigious title in the world after spending a year building and perfecting their robot.
+
+WOWT • 11h ago
 
 ---
 
@@ -188,7 +190,7 @@ Bloomberg.com • 7h ago
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 2K • 👍 21 • ⏱️ 0:14 • 4h ago
+👁️ 2K • 👍 21 • ⏱️ 0:14 • 6h ago
 
 ---
 
@@ -266,7 +268,7 @@ TienKung family gets a new member: TienKung Omni is coming — small body, serio
 
 📺 XRoboHub
 
-👁️ 61K • 👍 1K • 💬 101 • ⏱️ 0:28 • 6d ago
+👁️ 61K • 👍 1K • 💬 101 • ⏱️ 0:28 • 7d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-08T13:50:15.655094+00:00'
+updated: '2026-05-08T15:23:38.801978+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 08, 2026 at 13:50 UTC  
+**Last Updated:** May 08, 2026 at 15:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,31 @@ AI news, discussions, and developments
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 7h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 9h ago
 
 ---
 
-**[We gave 45 psychological questionnaires to 50 LLMs. What we found was not “personality.”](https://www.reddit.com/r/artificial/comments/1t6o1dl/we_gave_45_psychological_questionnaires_to_50/)**
+**[What's the best AI video generator for long videos?](https://www.reddit.com/r/artificial/comments/1t78zcm/whats_the_best_ai_video_generator_for_long_videos/)**
 
-What is the “personality” of an LLM? What actually differentiates models psychometrically? Since LLMs entered public use, researchers have been giving them psychometric questionnaires, with mixed results. Their answers often do not seem to reflect the same psychological constructs these tests measure in humans. So we asked a slightly different question: What do LLM responses to psychometric questionnaires actually reflect? We analyzed responses to 45 validated psychometric questionnaires completed by 50 different LLMs. The strongest source of variation was whether a model endorsed items about inner experience: emotions, sensations, thoughts, imagery, empathy, and other forms of first-person experience. We call this factor the Pinocchio Dimension. Importantly, the Pinocchio Dimension is not a classical personality trait. It does not tell us whether a model is “extraverted,” “neurotic,” or “agreeable” in the human sense. Rather, it captures the extent to which a model treats the language of inner experience as self-applicable: whether it responds as if it had feelings, mental imagery, and an inner point of view, or instead as a system that reacts behaviorally to inputs. Preprint in the comments.
+I'd like to test the waters with what's out there in order to make longer videos. Something like 5-20 minutes, probably wouldn't need anything longer than that. I realize it's probably not going to be free, which is fine as I'm going to be using it as a business. It'll also be prompt based instead of image based. What's out there, I'm sort of new to this.
 
-16h ago
+1h ago
+
+---
+
+**[New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test](https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/)**
+
+A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
+
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 11m ago
+
+---
+
+**[Do you think edge AI ends up mattering more for autonomy, robotics, or local private inference?](https://www.reddit.com/r/artificial/comments/1t78u2r/do_you_think_edge_ai_ends_up_mattering_more_for/)**
+
+It feels like a lot of AI discussion is still cloud-first, but some of the most interesting shifts seem to be happening at the edge. A few areas that seem especially important: - autonomy and robotics - low-power always-on vision systems - private local LLMs and on-device inference - bandwidth-constrained industrial deployments Curious how people here see it: Over the next few years, where do you think edge AI matters most, and which hardware/software stacks actually win in practice?
+
+1h ago
 
 ---
 
@@ -57,23 +73,7 @@ What is the “personality” of an LLM? What actually differentiates models psy
 
 AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 34m ago
-
----
-
-**[Stop using USE.AI](https://www.reddit.com/r/artificial/comments/1t76vtf/stop_using_useai/)**
-
-Just a heads up for anyone using Use.AI — double check your billing after cancellation. I canceled my 7-day trial subscription mid april, but I still received another charge on May 7. Not saying it’s a scam(?) or anything, but make sure you: check if cancellation is immediate or only stops renewal; mine was fully cancelled but still charging me remove payment methods if possible monitor your bank statements after canceling keep screenshots/emails of your cancellation Also, if you paid using PayPal, email them right away so they can process the refund faster. In my experience, the PayPal-related support email responded more helpfully compared to the other customer service emails. Emails I contacted: [paypal@use.ai](mailto:paypal@use.ai) [help@use.ai](mailto:help@use.ai) Hopefully this helps someone avoid confusion or unexpected charges.
-
-1h ago
-
----
-
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/)**
-
-“The smart home is getting kind of boring.”
-
-🔗 [The Verge](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 2h ago
 
 ---
 
@@ -81,39 +81,39 @@ Just a heads up for anyone using Use.AI — double check your billing after canc
 
 Hey everyone 👋 AI moves fast. Keeping up means checking Twitter, YouTube, newsletters, and a dozen tech sites every day. None of it in one place. I built AIWire to fix that. One clean feed. 20+ trusted sources. Updates every 30 minutes. Completely free, no account needed. Just the stories that came from sources worth reading, open it and you're caught up. **Sources include:** * OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI * MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica * YouTube: Andrej Karpathy, AI Explained, Two Minute Papers * Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites **Features:** * Auto-refreshes every 30 minutes, always current * Top Stories from the last 24h pinned at the top * Filter by source, date, and category * Bookmarks to save articles for later Built for people who want to stay current, not just scroll. 🔗 aiwire.app Full source list at aiwire.app/sources Feedback is very welcome; what sources are missing, and what would make this more useful for you?
 
-3h ago
+5h ago
 
 ---
 
-**[Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation](https://www.reddit.com/r/artificial/comments/1t6b6uz/anthropic_secures_spacex_colossus_1_after_growing/)**
+**[Inside the AI Sweatshops Powering ChatGPT](https://www.reddit.com/r/artificial/comments/1t7aejp/inside_the_ai_sweatshops_powering_chatgpt/)**
 
-Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
+There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of them have fallen into homelessness. We investigated America’s AI sweatshops, and found a new gig economy run by Big Tech. https://www.youtube.com/watch?v=aooiDA-AsNo
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 23h ago
-
----
-
-**[Feels like AI is entering its “infrastructure matters” phase](https://www.reddit.com/r/artificial/comments/1t6p2ln/feels_like_ai_is_entering_its_infrastructure/)**
-
-A year ago, most discussions were about which model was smartest. Now it increasingly feels like the bigger differentiators are becoming: latency orchestration context handling reliability inference economics developer workflow deployment flexibility The interesting shift is that model quality is improving across the board fast enough that “best benchmark” doesn’t automatically translate into “best real-world experience” anymore. We’re seeing more teams optimize around: workload routing hybrid local/cloud setups smaller specialized models faster iteration cycles predictable scaling costs In a weird way, AI feels like it’s maturing into a systems/infrastructure problem almost as much as a model problem. Curious if others are seeing the same shift or if frontier model capability still dominates most decisions for your workflows.
-
-15h ago
+26m ago
 
 ---
 
-**[Google enterprise business trial, Just started and it's already stopped making images after 3?](https://www.reddit.com/r/artificial/comments/1t74v5n/google_enterprise_business_trial_just_started_and/)**
+**[We gave 45 psychological questionnaires to 50 LLMs. What we found was not “personality.”](https://www.reddit.com/r/artificial/comments/1t6o1dl/we_gave_45_psychological_questionnaires_to_50/)**
 
-So I just got the trial, wanted to finally test it out. I got the business enterprise trial and went to test out nano banana and after 3 images, it now seems to not be generating anything... Hasn't told me I have reached a limit or a time out. There's nothing. It's just the little blue symbol doing nothing. Is that it? That's what the trial offers? 3 images. I only did 3 images because the first image wasn't good enough lol. I imagine I would need to do 10 images to get the 1 image I wanted. So am I doing something wrong? Where do I check the quota? There's hardly any information on the business.gemini dashboard. Can't see quote, can't even see it says I'm on a trial although I know I went through the purchasing for it where it was 0 cost. How am I meant to give it a proper go if it limits me like this?
+What is the “personality” of an LLM? What actually differentiates models psychometrically? Since LLMs entered public use, researchers have been giving them psychometric questionnaires, with mixed results. Their answers often do not seem to reflect the same psychological constructs these tests measure in humans. So we asked a slightly different question: What do LLM responses to psychometric questionnaires actually reflect? We analyzed responses to 45 validated psychometric questionnaires completed by 50 different LLMs. The strongest source of variation was whether a model endorsed items about inner experience: emotions, sensations, thoughts, imagery, empathy, and other forms of first-person experience. We call this factor the Pinocchio Dimension. Importantly, the Pinocchio Dimension is not a classical personality trait. It does not tell us whether a model is “extraverted,” “neurotic,” or “agreeable” in the human sense. Rather, it captures the extent to which a model treats the language of inner experience as self-applicable: whether it responds as if it had feelings, mental imagery, and an inner point of view, or instead as a system that reacts behaviorally to inputs. Preprint in the comments.
+
+17h ago
+
+---
+
+**[Stop using USE.AI](https://www.reddit.com/r/artificial/comments/1t76vtf/stop_using_useai/)**
+
+Just a heads up for anyone using Use.AI — double check your billing after cancellation. I canceled my 7-day trial subscription mid april, but I still received another charge on May 7. Not saying it’s a scam(?) or anything, but make sure you: check if cancellation is immediate or only stops renewal; mine was fully cancelled but still charging me remove payment methods if possible monitor your bank statements after canceling keep screenshots/emails of your cancellation Also, if you paid using PayPal, email them right away so they can process the refund faster. In my experience, the PayPal-related support email responded more helpfully compared to the other customer service emails. Emails I contacted: [paypal@use.ai](mailto:paypal@use.ai) [help@use.ai](mailto:help@use.ai) Hopefully this helps someone avoid confusion or unexpected charges.
 
 2h ago
 
 ---
 
-**[I built a local AI companion with GWT, IIT proxy, ChromaDB hybrid retrieval, and Ollama fallback — here's every architectural decision I made and why](https://www.reddit.com/r/artificial/comments/1t6v8rw/i_built_a_local_ai_companion_with_gwt_iit_proxy/)**
+**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/)**
 
-Been building this for a while. Sharing now because it's past the point where I'm embarrassed by the code. **The stack:** * Python 3.12, 18k+ lines, 470+ tests passing * Gemini 2.5 Flash (primary) + Ollama qwen3:4b (local fallback via circuit breaker) * ChromaDB for persistence — hybrid retrieval weighted at 55% semantic / 25% importance / 20% recency * `sentence-transformers all-MiniLM-L6-v2` (384-dim) for local embeddings — fully offline, no API call needed for retrieval * SQLite for cognitive state * FastAPI web UI at `localhost:8765` plus Rich TUI and CLI modes **The part I want feedback on — the cognitive architecture:** The processing pipeline runs in phases: Perception → Reflection → Integration → Aspiration → Expression. 22 self-registering plugins compete for attention through a Global Workspace Theory implementation — capacity limit 5, competitive scoring, spotlight mechanism. There's also an IIT consciousness proxy (Φ approximation across a 7-dimension qualia space). I want to be upfront: this is a *proxy*, not a real Φ calculation. Full IIT computation is intractable at this scale. What it does is give the system a coherence signal it can actually respond to. **Modules worth looking at:** * [`being.py`](http://being.py/) — live mood, energy, curiosity, attachment, agency state. Affects downstream processing, not just output text. * [`homeostasis.py`](http://homeostasis.py/) — 7 survival needs that create internal pressure. When "coherence" is low the system responds differently than when it's high. * `self_modify.py` — assessment, lesson extraction, meta-learning loop. The model improves its own behavior patterns over time. * [`intuition.py`](http://intuition.py/) — 5 hunch types, felt-sense modeling, pattern validation history **Resilience:** Per-module circuit breakers, health monitor, 120s watchdog. The Ollama fallback kicks in if Gemini goes down mid-session — the user barely notices. **Why I gave it an INFJ personality model:** Honest answer — the cognitive stack (Ni/Fe/Ti/Se) mapped cleanly to architectural decisions I was already making. Ni = long-horizon retrieval weighting. Fe = relational context weighting. Ti = the internal critic pass. Se = the embodiment layer grounding abstract processing in a live body schema. Personality typing gave me a coherent *constraint system* to design against. It's not aesthetic, it's functional. Repo: [github.com/timeless-hayoka/infj-bot](https://github.com/timeless-hayoka/infj-bot) Specific things I want feedback on: the GWT scoring implementation, whether the IIT proxy framing is defensible, and whether the hybrid retrieval weights make sense.
+“The smart home is getting kind of boring.”
 
-11h ago
+🔗 [The Verge](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness) • 2h ago
 
 ---
 
@@ -125,73 +125,73 @@ Been building this for a while. Sharing now because it's past the point where I'
 
 The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Cloudflare to cut about 20% workforce as AI adoption reshapes operations](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
-**[Cloudflare stock sinks 16% after earnings as company cuts 1,100 employees due to AI changes](https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html)**
+**[Cloudflare stock sinks as company slashes 20% of its workforce, citing AI](https://finance.yahoo.com/markets/article/cloudflare-stock-sinks-as-company-slashes-20-of-its-workforce-citing-ai-134338851.html)**
 
-The cloud provider announced it is laying off 20% of its workforce as agentic artificial intelligence "fundamentally changes" the company's work.
-
-CNBC • 15h ago
-
----
-
-**[Cloudflare's slowing growth disappoints investors betting on AI boost](https://finance.yahoo.com/markets/stocks/articles/cloudflares-slowing-growth-disappoints-investors-121445808.html)**
-
-Cloudflare shares tumbled more than 15% in premarket trading on Friday, after its quarterly revenue forecast disappointed investors who ‌had bet the stock would be a major beneficiary in the ‌race to adopt artificial intelligence.  The networking and cybersecurity services provider will also lay off about 20% ​of staff due to greater use of AI tools, a move that Jefferies said could hurt near-term growth.  Following a 43% rally since its last quarterly results in February, analysts said expectations were high for the company, only for its ‌forecast to flag slower growth ⁠as rising AI infrastructure costs squeeze margins.
+Cloudfare issued a Q2 sales forecast on Thursday that fell short of analyst expectations and said it would slash roughly 1,100 jobs, or about a fifth of its workforce, as it adopts artificial intelligence tools in its operating model.
 
 Yahoo Finance • 1h ago
 
 ---
 
+**[Cloudflare shares tumble on weak guidance, AI-driven restructuring](https://www.proactiveinvestors.com/companies/news/1091978/cloudflare-shares-tumble-on-weak-guidance-ai-driven-restructuring-1091978.html)**
+
+Cloudflare (NYSE:NET) reported first-quarter 2026 results on May 7, beating analyst expectations for both revenue and earnings, but shares fell sharply...
+
+Proactive financial news • 1h ago
+
+---
+
 **[A.I. Populism Is Here. And No One Is Ready.](https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html)**
 
-The New York Times • 4h ago
+The New York Times • 6h ago
 
 ---
 
-**[How a new breed of hacking tools is forcing a White House reset](https://www.washingtonpost.com/technology/2026/05/08/trump-white-house-ai-regulation-mythos/)**
+**[Jim Cramer Lists Alphabet and Other Key Players in the AI Interface and Cloud Services Market](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lists-alphabet-other-150713046.html)**
 
-As AI systems like Anthropic’s Mythos expose hidden security flaws, Trump officials are starting to rethink their hands-off approach to the technology.
+Alphabet Inc. (NASDAQ:GOOGL) was one of the stocks on Jim Cramer’s radar as he highlighted AI winners to buy for 2026. Cramer mentioned the company during the episode and said: What else? You need to have a cloud infrastructure to run the models. Think Google Cloud, Microsoft’s Azure, Amazon Web Services. You also got that […]
 
-The Washington Post • 5m ago
-
----
-
-**[The Secret to Understanding AI](https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/)**
-
-“Imagine the tech without the tech companies.”
-
-The Atlantic • 22h ago
+Yahoo Finance • 16m ago
 
 ---
 
-**[What's behind Washington's AI safety pivot](https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china)**
+**[Is AI Going To Take Retail Jobs? Maybe, But Not The Ones You Expect](https://www.forbes.com/sites/catherineerdly/2026/05/08/is-ai-going-to-take-retail-jobs-maybe-but-not-the-ones-you-expect/)**
 
-Axios • 49m ago
+As debate over the impact of AI on jobs intensifies, one new store opening in particular has shone a spotlight on what AI's impact on retail jobs could be.
+
+Forbes • 25m ago
 
 ---
 
-**[How dangerous is Anthropic’s Mythos AI? | Bruce Schneier](https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai)**
+**[There's a Long Shot Proposal to Protect California Workers From AI](https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/)**
 
-The system’s power is comparable to others – but it still has frightening implications for the future of hacking
+California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.
+
+WIRED • 23m ago
+
+---
+
+**[White House calls Mark Hamill ‘sick’ after his post with AI image of Trump in a grave](https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post)**
+
+Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
 
 The Guardian • 1h ago
 
 ---
 
-**[CarPlay now works with three top AI chatbot apps](https://9to5mac.com/2026/05/08/carplay-now-works-with-three-top-ai-chatbot-apps/)**
+**[What's behind Washington's AI safety pivot](https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china)**
 
-CarPlay continues to give drivers more choice than ever when it comes to which services to use on the road....
-
-9to5Mac • 39m ago
+Axios • 2h ago
 
 ---
 
@@ -201,21 +201,13 @@ CarPlay continues to give drivers more choice than ever when it comes to which s
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 738 • 💬 630 • 19h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
-
----
-
-**[AI didn't delete your database, you did](https://news.ycombinator.com/item?id=48022742)**
-
-Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:
-
-⬆️ 542 • 💬 302 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+⬆️ 758 • 💬 654 • 20h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
 **[Three Inverse Laws of AI](https://news.ycombinator.com/item?id=48023861)**
 
-⬆️ 541 • 💬 349 • 2d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
+⬆️ 542 • 💬 349 • 2d ago • [susam.net](https://susam.net/inverse-laws-of-robotics.html)
 
 ---
 
@@ -223,7 +215,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 282 • 💬 331 • 22h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 284 • 💬 338 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -235,17 +227,11 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 ---
 
-**[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
-
-⬆️ 146 • 💬 45 • 2d ago
-
----
-
 **[Two Home Affairs officials suspended after AI 'hallucinations' found](https://news.ycombinator.com/item?id=48053842)**
 
 AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
 
-⬆️ 118 • 💬 27 • 18h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+⬆️ 126 • 💬 30 • 19h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
@@ -253,7 +239,7 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the division looks to reverse declining revenue.
 
-⬆️ 110 • 💬 41 • 2d ago • [Dexerto](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
+⬆️ 111 • 💬 41 • 2d ago • [Dexerto](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
 
 ---
 
@@ -273,6 +259,22 @@ How aviation companies (fail to) make a profit
 
 ---
 
+**[Canadian fiddler sues Google after AI Overview claimed he was a sex offender](https://news.ycombinator.com/item?id=48037923)**
+
+Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation
+
+⬆️ 49 • 💬 21 • 1d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
+
+---
+
+**[Our AI started a cafe in Stockholm](https://news.ycombinator.com/item?id=48028289)**
+
+Our AI started a cafe in Stockholm
+
+⬆️ 48 • 💬 48 • 2d ago • [andonlabs.com](https://andonlabs.com/blog/ai-cafe-stockholm)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -283,7 +285,7 @@ Grok AI FREE Trick Nobody Is Talking About (Unlimited Videos) Discover the SECRE
 
 📺 AI Man 
 
-👁️ 1K • 👍 183 • 💬 127 • ⏱️ 7:47 • 3h ago
+👁️ 1K • 👍 183 • 💬 127 • ⏱️ 7:47 • 4h ago
 
 ---
 
@@ -303,7 +305,7 @@ Apparently AI is way easier to break than I thought. Subscribe for more! https:/
 
 📺 Austin Evans
 
-👁️ 66K • 👍 2K • 💬 245 • ⏱️ 13:06 • 22h ago
+👁️ 66K • 👍 2K • 💬 245 • ⏱️ 13:06 • 1d ago
 
 ---
 
@@ -343,7 +345,7 @@ Learn to code - https://www.boot.dev?promo=BOOTSTUBE AI companies aren't just co
 
 📺 Boot dev
 
-👁️ 18K • 👍 952 • 💬 88 • ⏱️ 19:43 • 21h ago
+👁️ 18K • 👍 952 • 💬 88 • ⏱️ 19:43 • 23h ago
 
 ---
 
@@ -373,7 +375,7 @@ Students at Georgia Tech had three hours to build an app using Claude AI. What d
 
 📺 NBC News
 
-👁️ 35K • 👍 587 • 💬 118 • ⏱️ 2:42 • 11h ago
+👁️ 35K • 👍 587 • 💬 118 • ⏱️ 2:42 • 13h ago
 
 ---
 
@@ -389,7 +391,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 92,968 • ❤️ 422 • 13h ago
+⬇️ 92,968 • ❤️ 422 • 14h ago
 
 ---
 
@@ -413,7 +415,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 6,810 • ❤️ 251 • 5h ago
+⬇️ 6,810 • ❤️ 251 • 7h ago
 
 ---
 
@@ -473,7 +475,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 26,600 • ❤️ 482 • 5h ago
+⬇️ 26,600 • ❤️ 482 • 7h ago
 
 ---
 
@@ -669,7 +671,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.8k • 🔱 450 • 4h ago
+⭐ 5.8k • 🔱 450 • 5h ago
 
 ---
 
@@ -689,7 +691,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 371 • 21m ago
+⭐ 5.2k • 🔱 371 • 1h ago
 
 ---
 
@@ -699,7 +701,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.0k • 🔱 493 • 1h ago
+⭐ 4.0k • 🔱 493 • 2h ago
 
 ---
 
@@ -729,7 +731,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 698 • 38m ago
+⭐ 2.5k • 🔱 698 • 2h ago
 
 ---
 
@@ -739,7 +741,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.3k • 🔱 212 • 29m ago
+⭐ 2.3k • 🔱 212 • 2h ago
 
 ---
 
