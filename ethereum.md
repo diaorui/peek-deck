@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-08T08:21:28.162986+00:00'
+updated: '2026-05-08T10:03:25.041486+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 08:21 UTC  
+**Last Updated:** May 08, 2026 at 10:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,276.56
+### $2,284.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -1.5%  
-**30d:** +4.1%  
-**90d:** +9.2%  
-**1y:** -2.8%  
+**24h:** -1.9%  
+**7d:** -1.2%  
+**30d:** +4.4%  
+**90d:** +9.5%  
+**1y:** -2.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $274.44B
+**Market Cap:** $275.52B
 Rank #2
 
 **Circulating Supply:** 120,686,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.0%
+-53.8%
 
 **All-Time Low:** $0.43
-+525271.9%
++527613.8%
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
-
----
-
-**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
-
-16h ago
+5h ago
 
 ---
 
@@ -86,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs and roadmap changes for the upcoming Hegotá fork.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 16m ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 1h ago
+
+---
+
+**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
+
+17h ago
 
 ---
 
@@ -150,19 +150,19 @@ Hey everyone! I’ve been working on a security layer for the Agentic Economy du
 
 ## Google News: "ethereum"
 
-**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
-
-The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
-
-CoinDesk • 12h ago
-
----
-
 **[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
 
 Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
 
-Decrypt • 11h ago
+Decrypt • 13h ago
+
+---
+
+**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
+
+The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
+
+CoinDesk • 14h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 The longer time horizon you consider, the more one of these assets stands out.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -194,25 +194,27 @@ The Motley Fool • 20h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
 
-FXStreet • 4h ago
+FXStreet • 6h ago
 
 ---
 
 **[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
 
-thestreet.com • 11h ago
+thestreet.com • 12h ago
 
 ---
 
 **[Ethereum Bulls Prepare for a 9% Price Jump to $2,642 as Market Sellers Suddenly Disappear](https://www.tipranks.com/news/ethereum-bulls-prepare-for-a-9-price-jump-to-2642-as-market-sellers-suddenly-disappear)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
 
 ---
 
-**[Bitcoin Breaks Back Above $80,000. Why the Crypto Winter Is Not Over.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-1f2f391f)**
+**[Ethereum's Quagmire: Institutions Buy, But Why Is The Selling Pressure Relentless?](https://www.benzinga.com/crypto/cryptocurrency/26/05/52381146/ethereums-quagmire-institutions-buy-but-why-is-the-selling-pressure-relentless)**
 
-Barron's • 2d ago
+Ethereum (CRYPTO: ETH) is caught between heavy whale selling and rising institutional adoption, according to fresh expert analysis.
+
+Benzinga • 16h ago
 
 ---
 
@@ -220,7 +222,7 @@ Barron's • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -234,17 +236,7 @@ MASSIVE XRP CALL: 2026 Crypto Bull Market Is Here? MAJOR Bitcoin & Ethereum Upda
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 420 • 💬 8 • ⏱️ 28:08 • 14h ago
-
----
-
-**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
-
-I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
-
-📺 Verified Pro Traders
-
-👁️ 3K • 👍 259 • 💬 5 • ⏱️ 8:05 • 14h ago
+👁️ 6K • 👍 425 • 💬 8 • ⏱️ 28:08 • 15h ago
 
 ---
 
@@ -254,7 +246,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 186 • 💬 27 • ⏱️ 18:13 • 1d ago
+👁️ 5K • 👍 188 • 💬 24 • ⏱️ 18:13 • 1d ago
+
+---
+
+**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
+
+I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
+
+📺 Verified Pro Traders
+
+👁️ 4K • 👍 270 • 💬 5 • ⏱️ 8:05 • 16h ago
+
+---
+
+**[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
+
+Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 303 • 💬 41 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 284 • 💬 62 • ⏱️ 19:21 • 2d ago
 
 ---
 
@@ -268,23 +290,23 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
+**[BITCOIN WARNING: Bearish Price Target Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2GL52TnTMBg)**
+
+BITCOIN WARNING: Bearish Price Target Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 242 • 💬 143 • ⏱️ 16:53 • 8h ago
+
+---
+
 **[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
 
 Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
 
 📺 The Block
 
-👁️ 3K • 👍 102 • 💬 18 • ⏱️ 22:10 • 1d ago
-
----
-
-**[Ethereum Could Rally Into June… Before the Next Major Drop](https://www.youtube.com/watch?v=21SLMEtO1GM)**
-
-Ethereum is currently fighting with a major trend line after breaking above resistance and coming back for a retest. In this video ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 299 • 💬 41 • ⏱️ 8:18 • 1d ago
+👁️ 3K • 👍 105 • 💬 18 • ⏱️ 22:10 • 1d ago
 
 ---
 
@@ -294,7 +316,7 @@ In this video we review BMNR's May holdings. We will break down the latest holdi
 
 📺 The Value Thinker
 
-👁️ 10K • 👍 610 • 💬 146 • ⏱️ 17:39 • 1d ago
+👁️ 10K • 👍 614 • 💬 145 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -304,27 +326,7 @@ Joseph Lubin, co-founder of a major open-source technology platform and CEO of C
 
 📺 When Shift Happens
 
-👁️ 1K • 👍 76 • 💬 87 • ⏱️ 1:13:25 • 18h ago
-
----
-
-**[Samson Mow Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=g4VdctJHpyA)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 282 • 💬 64 • ⏱️ 19:21 • 2d ago
-
----
-
-**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vw2uR2gQs-Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 470 • 👍 30 • 💬 5 • ⏱️ 4:38 • 21h ago
+👁️ 2K • 👍 78 • 💬 86 • ⏱️ 1:13:25 • 19h ago
 
 ---
 
