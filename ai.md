@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-08T22:30:41.757820+00:00'
+updated: '2026-05-08T23:31:49.642975+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 08, 2026 at 22:30 UTC  
+**Last Updated:** May 08, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 16h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 17h ago
 
 ---
 
 **[I like ChatGPT, I like AI](https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 7h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 8h ago
 
 ---
 
@@ -63,7 +63,7 @@ A new AI tool finds early hints of pancreatic cancer in CT scans that doctors wo
 
 CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp Recall@10. Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
 
-🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 5h ago
+🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 6h ago
 
 ---
 
@@ -71,7 +71,7 @@ CFS selects relevant candidates by penalizing regions already covered by previou
 
 I think local AI setups are about to split into two completely different communities. One side cares about actual production workflows: agents automation APIs inference efficiency data quality reproducibility The other side mostly treats it like PC modding: model collecting benchmark screenshots “look how many params I run” endless UI tweaking generating the same test prompts forever Not even judging either side honestly. I just think it explains why AI discussions online feel so weird lately. Two people can both be “into local AI” and barely even be talking about the same thing anymore.
 
-4h ago
+5h ago
 
 ---
 
@@ -79,15 +79,7 @@ I think local AI setups are about to split into two completely different communi
 
 AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 9h ago
-
----
-
-**[Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights](https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/)**
-
-Compiled a tracker of every national AI strategy in Asia. Headline is that ten major Asian economies now have dedicated AI legislation or comprehensive national strategies, and they're all quite distinct from Western legislation like the EU AI Act or US executive orders. Clear that Asian governments treat AI as infrastructure, not a sector to regulate from a distance. Most national approaches lean promotional (incentives, sandboxes, sovereign LLM funding) rather than punitive (bans, heavy compliance). The exceptions are Vietnam (first standalone AI law in Asia, Dec 2025) and South Korea (Framework AI Act with high-risk-system rules). The major markets that stood out to me: China's open-source-as-industrial-policy framework. ~$98B committed to AI development. Premier Li Qiang declared at WEF 2025 that China's innovation is "open and open-source" and the country is "willing to share indigenous technologies with the world." Derivatives of Alibaba's Qwen are now the largest open-weight model ecosystem on Hugging Face — over 100,000 derivatives (USCC 2026). This is industrial policy through model release, not regulation. Two-tier system: research labs (DeepSeek-style) operate with light governance, consumer-facing apps face stricter rules. Japan's AI Promotion Act (May 2025). No penalties. It's a promotional framework — establishes the AI Strategic Headquarters as a cabinet-level body, mandates a National AI Basic Plan, aligns deployment with "Human-Centred AI Society Principles." Japan's structural problem: only 9% of individuals and 47% of companies were using gen AI as of 2024. The legislation is trying to close adoption gaps via incentives rather than gate behaviour. December 2025 commitment of ¥1 trillion (~$7B) over five years to AI + semiconductors backs it up. Vietnam's AI Law (effective March 2026). Most comprehensive standalone AI law anywhere — 36 articles, three-tier risk classification (low/medium/high), foreign AI providers must appoint a legal representative in Vietnam, max admin fines reach VNĐ 2 billion (~$76K) for orgs with serious violations capped at 2% of preceding year revenue. Plus a National AI Development Fund offering grants/loans/preferential financing, plus regulatory sandboxes for startups. Combined with the Law on Digital Technology Industry covering semiconductors and digital assets, Vietnam now has the most legible AI legal architecture in SEA. What I'm not sure about: how sustainable the "promotional, not punitive" approach is when the next major AI safety incident happens. Japan's framework explicitly has no penalties, and I think that only holds up until something goes wrong. Vietnam's law has teeth but limited enforcement bandwidth. Korea's is the only framework that has both tools and resources to enforce. For people closer to AI policy work — does the Asia approach seem more or less likely to scale globally than EU-style ex-ante rule-making? My read: Asia's bet on incentives + sandboxes + sovereign capability is more aligned with how AI is actually deploying in 2026 than EU rules-based approaches, but the governance gap shows up in the next 24 months. Fuller tracker with country-by-country breakdown: https://digitalinasia.com/2026/04/08/asia-ai-policy-tracker/
-
-3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 10h ago
 
 ---
 
@@ -95,7 +87,7 @@ Compiled a tracker of every national AI strategy in Asia. Headline is that ten m
 
 It feels like a lot of AI discussion is still cloud-first, but some of the most interesting shifts seem to be happening at the edge. A few areas that seem especially important: - autonomy and robotics - low-power always-on vision systems - private local LLMs and on-device inference - bandwidth-constrained industrial deployments Curious how people here see it: Over the next few years, where do you think edge AI matters most, and which hardware/software stacks actually win in practice?
 
-8h ago
+9h ago
 
 ---
 
@@ -103,15 +95,23 @@ It feels like a lot of AI discussion is still cloud-first, but some of the most 
 
 There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of them have fallen into homelessness. We investigated America’s AI sweatshops, and found a new gig economy run by Big Tech. https://www.youtube.com/watch?v=aooiDA-AsNo
 
-7h ago
+8h ago
 
 ---
 
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/)**
+**[Is this as unnerving as it sounds?](https://www.reddit.com/r/artificial/comments/1t7nvn9/is_this_as_unnerving_as_it_sounds/)**
 
-“The smart home is getting kind of boring.”
+I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just now, and in the "how do they work" section, he explains that while we know exactly how the LLM is trained by iterative updates, we don't understand why certain circuits emerge or why the parameter structures end up the way they do. i.e. there is highly complex emergent learning going on by this optimization of parameter relationships but we don't know how the LLM does it or why. This is apparently a well known problem in the AI space. To my untrained ear, this sounds like a red flag. It should be fully understood before we go any further. Here's the video: https://www.youtube.com/watch?v=zjkBMFhNj_g
 
-🔗 [The Verge](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness) • 9h ago
+18m ago
+
+---
+
+**[Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights](https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/)**
+
+Compiled a tracker of every national AI strategy in Asia. Headline is that ten major Asian economies now have dedicated AI legislation or comprehensive national strategies, and they're all quite distinct from Western legislation like the EU AI Act or US executive orders. Clear that Asian governments treat AI as infrastructure, not a sector to regulate from a distance. Most national approaches lean promotional (incentives, sandboxes, sovereign LLM funding) rather than punitive (bans, heavy compliance). The exceptions are Vietnam (first standalone AI law in Asia, Dec 2025) and South Korea (Framework AI Act with high-risk-system rules). The major markets that stood out to me: China's open-source-as-industrial-policy framework. ~$98B committed to AI development. Premier Li Qiang declared at WEF 2025 that China's innovation is "open and open-source" and the country is "willing to share indigenous technologies with the world." Derivatives of Alibaba's Qwen are now the largest open-weight model ecosystem on Hugging Face — over 100,000 derivatives (USCC 2026). This is industrial policy through model release, not regulation. Two-tier system: research labs (DeepSeek-style) operate with light governance, consumer-facing apps face stricter rules. Japan's AI Promotion Act (May 2025). No penalties. It's a promotional framework — establishes the AI Strategic Headquarters as a cabinet-level body, mandates a National AI Basic Plan, aligns deployment with "Human-Centred AI Society Principles." Japan's structural problem: only 9% of individuals and 47% of companies were using gen AI as of 2024. The legislation is trying to close adoption gaps via incentives rather than gate behaviour. December 2025 commitment of ¥1 trillion (~$7B) over five years to AI + semiconductors backs it up. Vietnam's AI Law (effective March 2026). Most comprehensive standalone AI law anywhere — 36 articles, three-tier risk classification (low/medium/high), foreign AI providers must appoint a legal representative in Vietnam, max admin fines reach VNĐ 2 billion (~$76K) for orgs with serious violations capped at 2% of preceding year revenue. Plus a National AI Development Fund offering grants/loans/preferential financing, plus regulatory sandboxes for startups. Combined with the Law on Digital Technology Industry covering semiconductors and digital assets, Vietnam now has the most legible AI legal architecture in SEA. What I'm not sure about: how sustainable the "promotional, not punitive" approach is when the next major AI safety incident happens. Japan's framework explicitly has no penalties, and I think that only holds up until something goes wrong. Vietnam's law has teeth but limited enforcement bandwidth. Korea's is the only framework that has both tools and resources to enforce. For people closer to AI policy work — does the Asia approach seem more or less likely to scale globally than EU-style ex-ante rule-making? My read: Asia's bet on incentives + sandboxes + sovereign capability is more aligned with how AI is actually deploying in 2026 than EU rules-based approaches, but the governance gap shows up in the next 24 months. Fuller tracker with country-by-country breakdown: https://digitalinasia.com/2026/04/08/asia-ai-policy-tracker/
+
+4h ago
 
 ---
 
@@ -121,55 +121,7 @@ There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of 
 
 **[Meta’s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
 
-The New York Times • 8h ago
-
----
-
-**[Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags](https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html)**
-
-Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI
-
-CNBC • 3h ago
-
----
-
-**[White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave](https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post)**
-
-Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
-
-The Guardian • 8h ago
-
----
-
-**[White House distances itself from tighter AI regulation](https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837)**
-
-Politico • 23h ago
-
----
-
-**[White House’s ‘lack of organization’ has AI lobbyists fretting](https://www.politico.com/news/2026/05/08/trump-white-house-ai-confusion-00913092)**
-
-Politico • 33m ago
-
----
-
-**[Forget Nvidia (NVDA), Focus on This “Agentic AI” Winner Instead](https://www.tipranks.com/news/forget-nvidia-nvda-focus-on-this-agentic-ai-winner-instead)**
-
-TipRanks • 40m ago
-
----
-
-**[Tech Unemployment Ticks Up to 3.8% in April Amid AI-Driven Layoffs](https://www.wsj.com/cio-journal/tech-unemployment-ticks-up-to-3-8-in-april-amid-ai-driven-layoffs-214b0ca4)**
-
-WSJ • 32m ago
-
----
-
-**[Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)**
-
-New research on how we've reduced agentic misalignment
-
-Anthropic • 4h ago
+The New York Times • 9h ago
 
 ---
 
@@ -177,15 +129,65 @@ Anthropic • 4h ago
 
 Western Digital and Seagate have overtaken Nividia and Micron since the ChatGPT launch.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[The Secret to Understanding AI](https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/)**
+**[Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing'](https://www.cnbc.com/2026/05/07/nvidia-ceo-ai-partnership-corning-revitalize-american-manufacturing.html)**
 
-“Imagine the tech without the tech companies.”
+Nvidia CEO Jensen Huang highlighted his company's partnership with Corning as an opportunity to reinvest in American manufacturing.
 
-The Atlantic • 1d ago
+CNBC • 1d ago
+
+---
+
+**[Nvidia Stock Heads for Record as AI Push Expands](https://www.barrons.com/articles/nvidia-stock-price-iren-ai-deal-bdfabcae)**
+
+Barron's • 8h ago
+
+---
+
+**[White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave](https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post)**
+
+Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
+
+The Guardian • 7h ago
+
+---
+
+**[White House distances itself from tighter AI regulation](https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837)**
+
+Politico • 1d ago
+
+---
+
+**[White House scrambles to tame AI fears](https://thehill.com/newsletters/technology/5870586-white-house-ai-policy-rethink/)**
+
+The Hill • 1h ago
+
+---
+
+**[Personal Perspective: Why 300,000 years of social cognition will prevail.](https://www.psychologytoday.com/us/blog/tech-happy-life/202605/we-will-treat-ai-as-conscious-regardless-of-whether-it-is)**
+
+Personal Perspective: One of the world's most rigorous skeptics spent a day with an AI and concluded it was conscious. If Richard Dawkins responds this way, what chance do we have?
+
+Psychology Today • 34m ago
+
+---
+
+**[Jim Cramer says 'it's not to late' to own AI winners powering the market](https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html)**
+
+CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.
+
+CNBC • 1h ago
+
+---
+
+**[Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)**
+
+New research on how we've reduced agentic misalignment
+
+Anthropic • 5h ago
 
 ---
 
@@ -195,7 +197,7 @@ The Atlantic • 1d ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 795 • 💬 690 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 797 • 💬 692 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -203,7 +205,7 @@ The Atlantic • 1d ago
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 288 • 💬 339 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 290 • 💬 340 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -219,7 +221,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 156 • 💬 66 • 4h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 184 • 💬 79 • 5h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -227,15 +229,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
 
-⬆️ 134 • 💬 36 • 1d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
-
----
-
-**[Xbox CEO ends Copilot AI development and overhauls leadership](https://news.ycombinator.com/item?id=48029753)**
-
-Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the division looks to reverse declining revenue.
-
-⬆️ 111 • 💬 41 • 2d ago • [Dexerto](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
+⬆️ 135 • 💬 36 • 1d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
@@ -243,7 +237,7 @@ Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the divi
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 87 • 💬 44 • 8h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 92 • 💬 44 • 9h ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
@@ -259,7 +253,7 @@ Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
 
 Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation
 
-⬆️ 53 • 💬 24 • 2d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
+⬆️ 53 • 💬 25 • 2d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
 
 ---
 
@@ -267,7 +261,15 @@ Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate informat
 
 A viewer for reviewing local code changes in small individual chapters. Works with any AI agent. - ReviewStage/stage-cli
 
-⬆️ 43 • 💬 31 • 1d ago • [GitHub](https://github.com/ReviewStage/stage-cli)
+⬆️ 44 • 💬 31 • 1d ago • [GitHub](https://github.com/ReviewStage/stage-cli)
+
+---
+
+**[Richard Dawkins concludes AI is conscious, even if it doesn't know it](https://news.ycombinator.com/item?id=48042911)**
+
+Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry
+
+⬆️ 30 • 💬 43 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt)
 
 ---
 
@@ -281,7 +283,7 @@ Here's the AI News you probably missed this week. Try HubSpot AEO on your brand 
 
 📺 Matt Wolfe
 
-👁️ 28K • 👍 1K • 💬 121 • ⏱️ 34:30 • 7h ago
+👁️ 28K • 👍 1K • 💬 121 • ⏱️ 34:30 • 8h ago
 
 ---
 
@@ -301,7 +303,7 @@ Dan Ives, Wedbush Securities, joins 'Closing Bell' to discuss Ives' investing vi
 
 📺 CNBC Television
 
-👁️ 6K • 👍 162 • 💬 16 • ⏱️ 4:50 • 2h ago
+👁️ 6K • 👍 162 • 💬 16 • ⏱️ 4:50 • 3h ago
 
 ---
 
@@ -311,7 +313,7 @@ Subscribe for more weekly updates on the AI news you'll actually use! In this vi
 
 📺 The AI Advantage
 
-👁️ 4K • 👍 203 • 💬 11 • ⏱️ 11:02 • 6h ago
+👁️ 4K • 👍 203 • 💬 11 • ⏱️ 11:02 • 7h ago
 
 ---
 
@@ -321,7 +323,7 @@ Every time you look for the supposed gold mine, you find someone just handing so
 
 📺 The Tech Report
 
-👁️ 39K • 👍 3K • 💬 649 • ⏱️ 36:35 • 3h ago
+👁️ 39K • 👍 3K • 💬 649 • ⏱️ 36:35 • 4h ago
 
 ---
 
@@ -341,7 +343,7 @@ PDF Download: https://summit-metals.myklpages.com/l/WgvArZ Our latest analysis e
 
 📺 Summit Metals
 
-👁️ 8K • 👍 622 • 💬 85 • ⏱️ 15:01 • 23h ago
+👁️ 8K • 👍 622 • 💬 85 • ⏱️ 15:01 • 1d ago
 
 ---
 
@@ -351,7 +353,7 @@ Tom Friedman, The New York Times opinion columnist, joins 'Squawk Box' to discus
 
 📺 CNBC Television
 
-👁️ 13K • 👍 156 • 💬 59 • ⏱️ 10:28 • 9h ago
+👁️ 13K • 👍 156 • 💬 59 • ⏱️ 10:28 • 10h ago
 
 ---
 
@@ -361,7 +363,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 15K • 💬 7 • ⏱️ 29:57 • 8h ago
+👁️ 15K • 💬 7 • ⏱️ 29:57 • 9h ago
 
 ---
 
@@ -371,7 +373,7 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 63K • 👍 2K • 💬 81 • ⏱️ 13:34 • 1d ago
+👁️ 63K • 👍 2K • 💬 81 • ⏱️ 13:34 • 2d ago
 
 ---
 
@@ -387,7 +389,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 92,968 • ❤️ 446 • 21h ago
+⬇️ 92,968 • ❤️ 446 • 22h ago
 
 ---
 
@@ -411,7 +413,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 6,810 • ❤️ 279 • 47m ago
+⬇️ 6,810 • ❤️ 279 • 1h ago
 
 ---
 
@@ -483,7 +485,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 26,600 • ❤️ 485 • 14h ago
+⬇️ 26,600 • ❤️ 485 • 15h ago
 
 ---
 
@@ -663,7 +665,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 453 • 2h ago
+⭐ 5.9k • 🔱 453 • 3h ago
 
 ---
 
@@ -683,7 +685,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 371 • 8h ago
+⭐ 5.2k • 🔱 371 • 9h ago
 
 ---
 
@@ -693,7 +695,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.0k • 🔱 493 • 7h ago
+⭐ 4.0k • 🔱 493 • 8h ago
 
 ---
 
@@ -723,7 +725,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 709 • 7h ago
+⭐ 2.5k • 🔱 709 • 8h ago
 
 ---
 
@@ -733,7 +735,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 215 • 9h ago
+⭐ 2.4k • 🔱 215 • 10h ago
 
 ---
 

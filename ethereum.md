@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-08T22:30:41.772076+00:00'
+updated: '2026-05-08T23:31:49.655692+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 22:30 UTC  
+**Last Updated:** May 08, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.0%  
-**7d:** -0.1%  
-**30d:** +5.6%  
-**90d:** +10.7%  
-**1y:** -1.4%  
+**7d:** -0.4%  
+**30d:** +5.3%  
+**90d:** +10.4%  
+**1y:** -1.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Regulatory bans on stablecoin yields are expected to positively impact Ethereum's value and network activity. Shift to Staking: With the CLARITY Act and similar regulations preventing issuers from paying direct yield on stablecoins, investors are predicted to move capital into Ethereum staking as an alternative source of passive income. Supply Shock: This migration could lock up significant amounts of ETH, with analysts noting a potential $6 billion staking queue and reduced exchange liquidity, which supports price appreciation. Increased Network Usage: As stablecoins are used more for transactions rather than idle holding, gas fees and ETH burn rates (via EIP-1559) may rise, further benefiting the token's economic model.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 200M+ gas limit target post-Glamsterdam, 25M blocks on mainnet, Arbitrum DAO voted to release frozen ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 Hi guys, I recently finished a web3 bootcamp at metana, and am now looking for a jobs in this space. So far I have had little luck, as most of you are probably familiar with the current state of the job market. I want to at least start gaining some experience but most opensource projects don't really have any opentasks to contribute with that are beginner friendly, so I am asking if anyone knows of any opportunities for a beginner, or if someone has a project they are working on and willing to take me on. Thanks.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi guys, I recently finished a web3 bootcamp at metana, and am now looking for a
 
 Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs and roadmap changes for the upcoming Hegotá fork.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs
 
 The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon as Thursday, as a new poll shows 52% of voters back the landmark crypto legislation.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/clarity-act-markup-senate-vote/) • 10h ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/clarity-act-markup-senate-vote/) • 11h ago
 
 ---
 
@@ -150,22 +150,6 @@ To expand: Initial immutable setups become sovereign "constitution" based L2s th
 
 ## Google News: "ethereum"
 
-**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
-
-At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
-
-CoinDesk • 1d ago
-
----
-
-**[BitMine Stock Faces Risk as Tom Lee Cools on Ethereum Buying](https://finance.yahoo.com/markets/stocks/articles/bitmine-stock-faces-risk-tom-195616576.html)**
-
-BMNR stock price falls 4% as Tom Lee signals slower ETH buying, with bearish chart signals pointing to a possible 9% drop.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
 
 Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
@@ -186,15 +170,7 @@ CoinDesk • 1d ago
 
 Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
 
-Yahoo Finance • 1h ago
-
----
-
-**[Solana Passes Ethereum In New Developer Signups](https://finance.yahoo.com/markets/crypto/articles/solana-passes-ethereum-developer-signups-185500092.html)**
-
-The Solana (CRYPTO: $SOL) network now has a 23% market share when it comes to blockchain developers.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -214,19 +190,41 @@ The Block • 2d ago
 
 ---
 
+**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
+
+Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
+
+TradingView • 11h ago
+
+---
+
 **[Current price of Ethereum for May 8, 2026](https://fortune.com/article/price-of-ethereum-05-08-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
-**[Four signs that show Ethereum's rally is exhausted at $2.4K](https://www.tradingview.com/news/cointelegraph:034aad30c094b:0-four-signs-that-show-ethereum-s-rally-is-exhausted-at-2-4k/)**
+**[Report finds Solana developer share jumps to 23% as Ethereum weakens](https://www.thestreet.com/crypto/markets/report-finds-solana-developer-share-jumps-to-23-as-ethereum-weakens)**
 
-Ether’s (ETH) price has retraced by over 5.6% to $2,275 after being rejected by resistance at $2,400. Now, multiple data points suggest BITSTAMP:ETHUSD may drop below $2,000.Key takeaways:Ether’s total value locked hits 12-month lowsEthereum’s network fundamentals are weakening, with weekly average…
+thestreet.com • 1d ago
 
-TradingView • 10h ago
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rejection sparks pullback, ETH at risk of breakdown, XRP hints at deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rejection-sparks-pullback-eth-at-risk-of-breakdown-xrp-hints-at-deeper-losses-202605080344)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
+
+FXStreet • 19h ago
+
+---
+
+**[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
+
+Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
+
+CryptoSlate • 7h ago
 
 ---
 
@@ -240,7 +238,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 9K • 👍 734 • 💬 85 • ⏱️ 14:48 • 3h ago
+👁️ 9K • 👍 734 • 💬 85 • ⏱️ 14:48 • 4h ago
 
 ---
 
@@ -250,7 +248,7 @@ Canada just launched its first regulated digital dollar — and it's running on 
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 235 • 💬 19 • ⏱️ 29:16 • 3h ago
+👁️ 2K • 👍 235 • 💬 19 • ⏱️ 29:16 • 4h ago
 
 ---
 
@@ -260,7 +258,7 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 313 • 💬 36 • ⏱️ 12:24 • 8h ago
+👁️ 6K • 👍 313 • 💬 36 • ⏱️ 12:24 • 9h ago
 
 ---
 
@@ -270,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 224 • 👍 10 • 💬 1 • ⏱️ 4:16 • 13h ago
+👁️ 224 • 👍 10 • 💬 1 • ⏱️ 4:16 • 14h ago
 
 ---
 
@@ -290,7 +288,7 @@ Ethereum is currently fighting with a major trend line after breaking above resi
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 310 • 💬 14 • ⏱️ 8:18 • 1d ago
+👁️ 6K • 👍 310 • 💬 14 • ⏱️ 8:18 • 2d ago
 
 ---
 
@@ -330,7 +328,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 2K • 👍 250 • 💬 72 • ⏱️ 12:29 • 10h ago
+👁️ 2K • 👍 250 • 💬 72 • ⏱️ 12:29 • 11h ago
 
 ---
 
