@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-08T16:51:24.549289+00:00'
+updated: '2026-05-08T18:11:01.191530+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 08, 2026 at 16:51 UTC  
+**Last Updated:** May 08, 2026 at 18:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 10h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 11h ago
 
 ---
 
@@ -49,7 +49,15 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 1h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 2h ago
+
+---
+
+**[CFS - Conditional Field Subtraction](https://www.reddit.com/r/artificial/comments/1t7e8eu/cfs_conditional_field_subtraction/)**
+
+CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp [Recall@10](mailto:Recall@10). Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
+
+🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 57m ago
 
 ---
 
@@ -57,15 +65,15 @@ A new AI tool finds early hints of pancreatic cancer in CT scans that doctors wo
 
 AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 4h ago
 
 ---
 
-**[Inside the AI Sweatshops Powering ChatGPT](https://www.reddit.com/r/artificial/comments/1t7aejp/inside_the_ai_sweatshops_powering_chatgpt/)**
+**[**Built my own model-agnostic AI workstation because I was tired of platform lock-in — free, BYOAK, open source**](https://www.reddit.com/r/artificial/comments/1t7ai7r/built_my_own_modelagnostic_ai_workstation_because/)**
 
-There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of them have fallen into homelessness. We investigated America’s AI sweatshops, and found a new gig economy run by Big Tech. https://www.youtube.com/watch?v=aooiDA-AsNo
+Tired of rebuilding context every time I switched models. Tired of my personas living inside OpenAI's walled garden. Built something to fix it. **Architect's Domain**, a workstation UI that sits on top of any provider. Core features: - **Workspace system**, persistent environments with pinned context, imported files, notes. Think Claude Projects but provider-agnostic - **Manual memory curation**, fragments surface during chat, you approve or reject what gets remembered. No silent auto-memory - **Character/persona system via file injection**, load .txt files as system context. Works with character cards, lorebooks, personality files, anything - **Provider switching**, OpenRouter, Venice.ai, DeepSeek. Swap models without losing your setup - **BYOAK**, your keys, your data, runs fully static No React, no framework bloat. Vanilla JS + CSS + HTML. Deployable anywhere. I use it daily for prompt engineering and RP character testing across different frontier models. The workspace + memory combo is what makes it actually useful vs just another chat wrapper. Open source: https://github.com/HactoriXD/architects-domainv1 Feedback welcome! especially from people who've tried similar setups.
 
-1h ago
+3h ago
 
 ---
 
@@ -73,7 +81,7 @@ There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of 
 
 I'd like to test the waters with what's out there in order to make longer videos. Something like 5-20 minutes, probably wouldn't need anything longer than that. I realize it's probably not going to be free, which is fine as I'm going to be using it as a business. It'll also be prompt based instead of image based. What's out there, I'm sort of new to this.
 
-2h ago
+4h ago
 
 ---
 
@@ -81,7 +89,7 @@ I'd like to test the waters with what's out there in order to make longer videos
 
 It feels like a lot of AI discussion is still cloud-first, but some of the most interesting shifts seem to be happening at the edge. A few areas that seem especially important: - autonomy and robotics - low-power always-on vision systems - private local LLMs and on-device inference - bandwidth-constrained industrial deployments Curious how people here see it: Over the next few years, where do you think edge AI matters most, and which hardware/software stacks actually win in practice?
 
-2h ago
+4h ago
 
 ---
 
@@ -89,31 +97,23 @@ It feels like a lot of AI discussion is still cloud-first, but some of the most 
 
 Hey everyone 👋 AI moves fast. Keeping up means checking Twitter, YouTube, newsletters, and a dozen tech sites every day. None of it in one place. I built AIWire to fix that. One clean feed. 20+ trusted sources. Updates every 30 minutes. Completely free, no account needed. Just the stories that came from sources worth reading, open it and you're caught up. **Sources include:** * OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI * MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica * YouTube: Andrej Karpathy, AI Explained, Two Minute Papers * Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites **Features:** * Auto-refreshes every 30 minutes, always current * Top Stories from the last 24h pinned at the top * Filter by source, date, and category * Bookmarks to save articles for later Built for people who want to stay current, not just scroll. 🔗 aiwire.app Full source list at aiwire.app/sources Feedback is very welcome; what sources are missing, and what would make this more useful for you?
 
-6h ago
+8h ago
 
 ---
 
-**[We gave 45 psychological questionnaires to 50 LLMs. What we found was not “personality.”](https://www.reddit.com/r/artificial/comments/1t6o1dl/we_gave_45_psychological_questionnaires_to_50/)**
+**[UC Berkeley AI Research Seminar: Supply Chain & Manufacturing](https://www.reddit.com/r/artificial/comments/1t7agbe/uc_berkeley_ai_research_seminar_supply_chain/)**
 
-What is the “personality” of an LLM? What actually differentiates models psychometrically? Since LLMs entered public use, researchers have been giving them psychometric questionnaires, with mixed results. Their answers often do not seem to reflect the same psychological constructs these tests measure in humans. So we asked a slightly different question: What do LLM responses to psychometric questionnaires actually reflect? We analyzed responses to 45 validated psychometric questionnaires completed by 50 different LLMs. The strongest source of variation was whether a model endorsed items about inner experience: emotions, sensations, thoughts, imagery, empathy, and other forms of first-person experience. We call this factor the Pinocchio Dimension. Importantly, the Pinocchio Dimension is not a classical personality trait. It does not tell us whether a model is “extraverted,” “neurotic,” or “agreeable” in the human sense. Rather, it captures the extent to which a model treats the language of inner experience as self-applicable: whether it responds as if it had feelings, mental imagery, and an inner point of view, or instead as a system that reacts behaviorally to inputs. Preprint in the comments.
+UC Berkeley AI Research Seminar: Supply Chain & Manufacturing AI in supply chain is moving fast, but most of the conversation is still too abstract. I’m helping host a research seminar on how AI can actually be used across sourcing, procurement, BOM review, supplier risk, inventory, and manufacturing operations. Not a hype event. The goal is to bring together people in supply chain, manufacturing, procurement, consulting, and operations who want to discuss where AI is useful, where it is not, and what real workflows are worth automating. If you work in this space and want to join the conversation, sign up here: Would love to have operators, builders, and skeptics in the to attend — RSVP here: https://luma.com/4pio4rbm
 
-19h ago
-
----
-
-**[Stop using USE.AI](https://www.reddit.com/r/artificial/comments/1t76vtf/stop_using_useai/)**
-
-Just a heads up for anyone using Use.AI — double check your billing after cancellation. I canceled my 7-day trial subscription mid april, but I still received another charge on May 7. Not saying it’s a scam(?) or anything, but make sure you: check if cancellation is immediate or only stops renewal; mine was fully cancelled but still charging me remove payment methods if possible monitor your bank statements after canceling keep screenshots/emails of your cancellation Also, if you paid using PayPal, email them right away so they can process the refund faster. In my experience, the PayPal-related support email responded more helpfully compared to the other customer service emails. Emails I contacted: [paypal@use.ai](mailto:paypal@use.ai) [help@use.ai](mailto:help@use.ai) Hopefully this helps someone avoid confusion or unexpected charges.
-
-4h ago
+3h ago
 
 ---
 
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/)**
+**[Inside the AI Sweatshops Powering ChatGPT](https://www.reddit.com/r/artificial/comments/1t7aejp/inside_the_ai_sweatshops_powering_chatgpt/)**
 
-“The smart home is getting kind of boring.”
+There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of them have fallen into homelessness. We investigated America’s AI sweatshops, and found a new gig economy run by Big Tech. https://www.youtube.com/watch?v=aooiDA-AsNo
 
-🔗 [The Verge](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness) • 4h ago
+3h ago
 
 ---
 
@@ -121,9 +121,17 @@ Just a heads up for anyone using Use.AI — double check your billing after canc
 
 ## Google News: "ai"
 
-**[A.I. Populism Is Here. And No One Is Ready.](https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html)**
+**[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
 
-The New York Times • 7h ago
+The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
+
+CNBC • 1d ago
+
+---
+
+**[Meta’s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -131,29 +139,45 @@ The New York Times • 7h ago
 
 Nvidia CEO Jensen Huang highlighted his company's partnership with Corning as an opportunity to reinvest in American manufacturing.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
-**[Schumer presses DHS to help local governments defend against AI cyber risks](https://thehill.com/policy/technology/5869830-schumer-dhs-ai-cyberattacks/)**
+**[Is Nvidia (NVDA) The Best AI Stock Pick of Cathie Wood in 2026?](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html)**
 
-The Hill • 22m ago
+We just covered Cathie Wood’s 11 Biggest AI and Data Center Stock Picks. Nvidia Corp (NASDAQ:NVDA) ranks #7 (see Cathie Wood’s 5 Biggest AI and Data Center Stock Picks). Nvidia Corp (NASDAQ:NVDA) is up about 15% so far this year, but bulls believe the stock has more upside potential. Its gains have been capped amid the […]
 
----
-
-**[How Vertus Fits a Broader Shift in Advanced AI Access](https://www.usatoday.com/story/special/contributor-content/2026/05/08/how-vertus-fits-a-broader-shift-in-advanced-ai-access/89995231007/)**
-
-Vertus processes a large volume of trading strategies each day. The point is that markets impose consequences, and technology has to do more than look smart in a controlled demo.
-
-USA Today • 17m ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Video: How Prepared Are We for A.I. Layoffs?](https://www.nytimes.com/video/business/100000010887206/artificial-intelligence-layoffs-unemployment-benefits.html)**
+**[NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)**
 
-Our chief economics correspondent, Ben Casselman, describes how A.I.-related layoffs are testing the resilience of the government’s safety net programs.
+NVIDIA (NASDAQ: NVDA) and IREN Limited (NASDAQ: IREN) (“IREN”) today announced a strategic partnership to accelerate deployment of next-generation AI infrastructure.
 
-The New York Times • 32m ago
+NVIDIA Newsroom • 13h ago
+
+---
+
+**[Scoop: Pro-AI super PAC Leading the Future endorses three Dems](https://www.axios.com/2026/05/08/ai-super-pac-endorsement-democrats)**
+
+Axios • 40m ago
+
+---
+
+**[Pa. education secretary, Lancaster County educators talk risk, benefits of AI at Hourglass Forum](https://lancasteronline.com/news/local/pa-education-secretary-lancaster-county-educators-talk-risk-benefits-of-ai-at-hourglass-forum/article_e8be0181-4454-42e5-984e-6956583b76ca.html)**
+
+Artificial intelligence, AI, is not a future issue; it’s a today issue. It is here right now, the Pennsylvania secretary of education said to a room full of educators Thursday
+
+LancasterOnline • 12m ago
+
+---
+
+**[The $42 billion auto giant you've never heard of is building AI into its factories](https://www.businessinsider.com/auto-giant-magna-ai-factories-2026-5)**
+
+Magna builds parts for some of the world's biggest automakers, like BYD, Ford, and Toyota. It has a five-pronged AI strategy for its plants.
+
+Business Insider • 38m ago
 
 ---
 
@@ -167,27 +191,7 @@ The Guardian • 1h ago
 
 **[What's behind Washington's AI safety pivot](https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china)**
 
-Axios • 2h ago
-
----
-
-**[Trump’s Border Spending Spurs Boom in AI-Infused Surveillance](https://www.wsj.com/tech/trumps-border-spending-spurs-boom-in-ai-infused-surveillance-4714521b)**
-
-WSJ • 1h ago
-
----
-
-**[Cloudflare to cut about 20% workforce as AI adoption reshapes operations](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)**
-
-Reuters • 20h ago
-
----
-
-**[Cloudflare stock sinks 24% after earnings as company cuts 1,100 employees due to AI changes](https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html)**
-
-The cloud provider announced it is laying off 20% of its workforce as agentic artificial intelligence "fundamentally changes" the company's work.
-
-CNBC • 18h ago
+Axios • 3h ago
 
 ---
 
@@ -197,7 +201,7 @@ CNBC • 18h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 765 • 💬 663 • 22h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 774 • 💬 679 • 23h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -205,7 +209,7 @@ CNBC • 18h ago
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 285 • 💬 338 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 286 • 💬 339 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -221,7 +225,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
 
-⬆️ 128 • 💬 30 • 21h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+⬆️ 131 • 💬 33 • 22h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
@@ -241,11 +245,11 @@ Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
 
 ---
 
-**[Why airlines are always going bankrupt](https://news.ycombinator.com/item?id=48025282)**
+**[Show HN: Git for AI Agents](https://news.ycombinator.com/item?id=48063548)**
 
-How aviation companies (fail to) make a profit
+Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 72 • 💬 72 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-airlines-are-always-going-bankrupt)
+⬆️ 52 • 💬 31 • 3h ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
@@ -253,7 +257,7 @@ How aviation companies (fail to) make a profit
 
 Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation
 
-⬆️ 50 • 💬 23 • 2d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
+⬆️ 51 • 💬 23 • 2d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
 
 ---
 
@@ -283,7 +287,7 @@ Physical AI is not failing because models are choking on “junk data.” It is 
 
 📺 House of El - AI
 
-👁️ 6K • 👍 858 • 💬 243 • ⏱️ 32:02 • 4h ago
+👁️ 6K • 👍 858 • 💬 243 • ⏱️ 32:02 • 5h ago
 
 ---
 
@@ -293,7 +297,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 6K • 💬 7 • ⏱️ 29:57 • 2h ago
+👁️ 6K • 💬 7 • ⏱️ 29:57 • 3h ago
 
 ---
 
@@ -323,7 +327,7 @@ Grok AI FREE Trick Nobody Is Talking About (Unlimited Videos) Discover the SECRE
 
 📺 AI Man 
 
-👁️ 4K • 👍 362 • 💬 186 • ⏱️ 7:47 • 6h ago
+👁️ 4K • 👍 362 • 💬 186 • ⏱️ 7:47 • 7h ago
 
 ---
 
@@ -389,7 +393,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 92,968 • ❤️ 435 • 16h ago
+⬇️ 92,968 • ❤️ 435 • 17h ago
 
 ---
 
@@ -413,7 +417,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 6,810 • ❤️ 267 • 8h ago
+⬇️ 6,810 • ❤️ 267 • 10h ago
 
 ---
 
@@ -473,7 +477,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 26,600 • ❤️ 482 • 8h ago
+⬇️ 26,600 • ❤️ 482 • 10h ago
 
 ---
 
@@ -667,7 +671,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 450 • 7h ago
+⭐ 5.9k • 🔱 450 • 8h ago
 
 ---
 
@@ -687,7 +691,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 371 • 3h ago
+⭐ 5.2k • 🔱 371 • 4h ago
 
 ---
 
@@ -697,7 +701,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.0k • 🔱 495 • 1h ago
+⭐ 4.0k • 🔱 495 • 3h ago
 
 ---
 
@@ -727,7 +731,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 702 • 1h ago
+⭐ 2.5k • 🔱 702 • 3h ago
 
 ---
 
@@ -737,7 +741,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.3k • 🔱 213 • 3h ago
+⭐ 2.3k • 🔱 213 • 4h ago
 
 ---
 

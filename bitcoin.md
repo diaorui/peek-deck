@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-08T16:51:24.557482+00:00'
+updated: '2026-05-08T18:11:01.199221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 16:51 UTC  
+**Last Updated:** May 08, 2026 at 18:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,815.31
+### $80,202.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +1.4%  
-**30d:** +11.1%  
-**90d:** +13.5%  
-**1y:** -22.5%  
+**24h:** +0.1%  
+**7d:** +1.9%  
+**30d:** +11.6%  
+**90d:** +14.1%  
+**1y:** -22.1%  
 
 ---
 
@@ -77,51 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I thought I wanted “more Bitcoin”. Turns out I just wanted more time.](https://www.reddit.com/r/Bitcoin/comments/1t77uqw/i_thought_i_wanted_more_bitcoin_turns_out_i_just/)**
-
-The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
-
-3h ago
-
----
-
 **[Me, buying bitcoin anytime I have some extra cash, ignoring the market "timers".](https://www.reddit.com/r/Bitcoin/comments/1t7bfct/me_buying_bitcoin_anytime_i_have_some_extra_cash/)**
 
 If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-rare-bottom-signal-holders-not-selling/
 
-1h ago
+2h ago
 
 ---
 
-**[Orbital data center company to start mining Bitcoin in space](https://www.reddit.com/r/Bitcoin/comments/1t71ntl/orbital_data_center_company_to_start_mining/)**
+**[I thought I wanted “more Bitcoin”. Turns out I just wanted more time.](https://www.reddit.com/r/Bitcoin/comments/1t77uqw/i_thought_i_wanted_more_bitcoin_turns_out_i_just/)**
 
-Starcloud, an Nvidia-backed orbital data center startup, said it will start mining Bitcoin from space later this year when its second spacecraft is launched, positioning it to become the first company to mine Bitcoin off Earth.Starcloud “will be the first to mine Bitcoin in space,” the startup’s CE…
+The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 8h ago
-
----
-
-**[I've said many times that I will never sell Bitcoin, but I recently sold 0.1 of it.](https://www.reddit.com/r/Bitcoin/comments/1t6xhfc/ive_said_many_times_that_i_will_never_sell/)**
-
-Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from now, 0.1 Bitcoin will be a year's living expenses.
-
-12h ago
-
----
-
-**[Built a real-time Bitcoin network globe — watch every block propagate from pools to nodes](https://www.reddit.com/r/Bitcoin/comments/1t77880/built_a_realtime_bitcoin_network_globe_watch/)**
-
-Wanted to actually *see* the network breathe instead of refreshing mempool.space tabs, so I built this. When a pool mines a block, rays fire from that pool's location outward to every full node tracked (~120 visible). **What's shown** - Live block propagation (mempool.space WS) - Pool locations + last-30 share (Foundry, MARA, AntPool, ViaBTC, etc.) - Full nodes by country (Bitnodes) - Time since last block — turns red past 10 min avg - Halving countdown — block 1,050,000, ~April 2028, next reward 1.5625 BTC - Median fee sat/vB sparkline (last 30 blocks) - Click any block in the feed → full metadata + mempool.space explorer link - Click any pool/node on the globe → tooltip with details All public free data — no auth, no signup, no ads, no tracking. Not affiliated with mempool.space or Bitnodes; just consuming their open data. Personal side project, not a service. Desktop is intended view; mobile works (cards stack vertically) but less immersive.
-
-🔗 [Bitcoin Globe](https://bitcoin.gofire.info) • 3h ago
-
----
-
-**[FINALLY!!! - ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum V2 Working Group](https://www.reddit.com/r/Bitcoin/comments/1t76ccv/finally_antpool_block_inc_f2pool_foundry/)**
-
-The Stratum v2 Working Group announces today that ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, and DMND have joined the working group to advance the adoption of the Stratum v2 protocol. The working group was founded in 2022 by Braiins and Spiral to develop and maintain the Stratum v2 protocol as an open and vendor-neutral specification usable by the Bitcoin mining ecosystem. The protocol is an upgrade to the original Stratum mining protocol, bringing massive efficiency gains, privacy, security, and functionality that can be used to improve overall mining decentralization. The onboarding of the new members, all substantial players in the mining ecosystem, represents a big leap forward for the working group’s progress in ensuring proper functioning and compatibility across real-world mining operations at scale. It also shows a growing consensus in the mining ecosystem that Stratum v2 is the direction to take going into the future. “We’re proud to support the broader adoption of Stratum V2. Aligning around an open, interoperable standard enables the industry to collaborate more effectively and drive improvements in efficiency, security and decentralization,” said Andy Zhou, CEO of ANTPOOL. Stratum v2 supports mechanisms for more efficient management of large fleets of miners, is end-to-end encrypted, and allows individual miners to produce their own block templates with supporting pools (among other features). Kenway Wang, CTO of Spiderpool had this to say: “Decentralization is core to our mission. Stratum V2 supports this by enabling miner-constructed templates, while also improving efficiency, especially for miners in bandwidth-constrained environments.”
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group) • 4h ago
+4h ago
 
 ---
 
@@ -129,7 +97,39 @@ The Stratum v2 Working Group announces today that ANTPOOL, Block Inc, F2Pool, Fo
 
 All jokes aside, when I saw the notification I jumped to the app to see if I could stack some sats on discount but I missed my chance…
 
-8h ago
+10h ago
+
+---
+
+**[Orbital data center company to start mining Bitcoin in space](https://www.reddit.com/r/Bitcoin/comments/1t71ntl/orbital_data_center_company_to_start_mining/)**
+
+Starcloud, an Nvidia-backed orbital data center startup, said it will start mining Bitcoin from space later this year when its second spacecraft is launched, positioning it to become the first company to mine Bitcoin off Earth.Starcloud “will be the first to mine Bitcoin in space,” the startup’s CE…
+
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 9h ago
+
+---
+
+**[Built a real-time Bitcoin network globe — watch every block propagate from pools to nodes](https://www.reddit.com/r/Bitcoin/comments/1t77880/built_a_realtime_bitcoin_network_globe_watch/)**
+
+Wanted to actually *see* the network breathe instead of refreshing mempool.space tabs, so I built this. When a pool mines a block, rays fire from that pool's location outward to every full node tracked (~120 visible). **What's shown** - Live block propagation (mempool.space WS) - Pool locations + last-30 share (Foundry, MARA, AntPool, ViaBTC, etc.) - Full nodes by country (Bitnodes) - Time since last block — turns red past 10 min avg - Halving countdown — block 1,050,000, ~April 2028, next reward 1.5625 BTC - Median fee sat/vB sparkline (last 30 blocks) - Click any block in the feed → full metadata + mempool.space explorer link - Click any pool/node on the globe → tooltip with details All public free data — no auth, no signup, no ads, no tracking. Not affiliated with mempool.space or Bitnodes; just consuming their open data. Personal side project, not a service. Desktop is intended view; mobile works (cards stack vertically) but less immersive.
+
+🔗 [Bitcoin Globe](https://bitcoin.gofire.info) • 5h ago
+
+---
+
+**[I've said many times that I will never sell Bitcoin, but I recently sold 0.1 of it.](https://www.reddit.com/r/Bitcoin/comments/1t6xhfc/ive_said_many_times_that_i_will_never_sell/)**
+
+Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from now, 0.1 Bitcoin will be a year's living expenses.
+
+13h ago
+
+---
+
+**[FINALLY!!! - ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum V2 Working Group](https://www.reddit.com/r/Bitcoin/comments/1t76ccv/finally_antpool_block_inc_f2pool_foundry/)**
+
+The Stratum v2 Working Group announces today that ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, and DMND have joined the working group to advance the adoption of the Stratum v2 protocol. The working group was founded in 2022 by Braiins and Spiral to develop and maintain the Stratum v2 protocol as an open and vendor-neutral specification usable by the Bitcoin mining ecosystem. The protocol is an upgrade to the original Stratum mining protocol, bringing massive efficiency gains, privacy, security, and functionality that can be used to improve overall mining decentralization. The onboarding of the new members, all substantial players in the mining ecosystem, represents a big leap forward for the working group’s progress in ensuring proper functioning and compatibility across real-world mining operations at scale. It also shows a growing consensus in the mining ecosystem that Stratum v2 is the direction to take going into the future. “We’re proud to support the broader adoption of Stratum V2. Aligning around an open, interoperable standard enables the industry to collaborate more effectively and drive improvements in efficiency, security and decentralization,” said Andy Zhou, CEO of ANTPOOL. Stratum v2 supports mechanisms for more efficient management of large fleets of miners, is end-to-end encrypted, and allows individual miners to produce their own block templates with supporting pools (among other features). Kenway Wang, CTO of Spiderpool had this to say: “Decentralization is core to our mission. Stratum V2 supports this by enabling miner-constructed templates, while also improving efficiency, especially for miners in bandwidth-constrained environments.”
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group) • 5h ago
 
 ---
 
@@ -137,15 +137,7 @@ All jokes aside, when I saw the notification I jumped to the app to see if I cou
 
 Hello guys, im freshly 25 in France and i ive stacked up 10k€ in my bank working as a helping nurse, along with an appartment. Now im wondering if i should invest into bitcoin because i dont know anything about investing as im new into adult life and everyone is telling me to not invest anywhere in crypto only in « physical ». How much should i invest into btc out of the 10k€ i have in your opinion ? And at what frequency ?
 
-6h ago
-
----
-
-**[Should I use limit or market order?](https://www.reddit.com/r/Bitcoin/comments/1t75lw8/should_i_use_limit_or_market_order/)**
-
-Okay I might be doing this wrong but I just clicked buy and it filled instantly. Then someone said I should use limit orders to save money. I don't really get the difference. Is market order that bad? I'm confused lol help
-
-5h ago
+7h ago
 
 ---
 
@@ -153,7 +145,15 @@ Okay I might be doing this wrong but I just clicked buy and it filled instantly.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+12h ago
+
+---
+
+**[Should I use limit or market order?](https://www.reddit.com/r/Bitcoin/comments/1t75lw8/should_i_use_limit_or_market_order/)**
+
+Okay I might be doing this wrong but I just clicked buy and it filled instantly. Then someone said I should use limit orders to save money. I don't really get the difference. Is market order that bad? I'm confused lol help
+
+6h ago
 
 ---
 
@@ -161,11 +161,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[S&P 500 call options volume surges to record $2.6 trillion. Here's what it means for bitcoin](https://www.coindesk.com/markets/2026/05/08/s-and-p-500-call-options-volume-surges-to-record-usd2-6-trillion-here-s-what-it-means-for-bitcoin)**
+**[Crypto traders rush to hedge after bitcoin drops below $80,000: Crypto Markets Today](https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets)**
 
-As Wall Street chases upside in stocks like never before, the implications for bitcoin appear bullish, though with an important caveat.
+BTC fell under $80,000 after U.S. strikes in Iran sent oil briefly above $100, triggering liquidations and a shift toward bearish positioning.
 
 CoinDesk • 7h ago
+
+---
+
+**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
+
+Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
+
+CNBC • 2d ago
 
 ---
 
@@ -173,15 +181,21 @@ CoinDesk • 7h ago
 
 Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
-**[SEC Crypto Task Force Chief Counsel: 'I bought my first Bitcoin in 2013'](https://www.coindesk.com/ja/video/sec-crypto-task-force-chief-counsel-i-bought-my-first-bitcoin-in-2013)**
+**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
 
-Taylor Lindman, chief counsel of the SEC Crypto Task Force, joins CoinDesk Live at Consensus 2026 in Miami to outline the agency's two-bucket approach to crypto regulation, why the CLARITY Act will "supercharge" the SEC, and the open questions around tokenized securities. Plus, the chief counsel's personal crypto origin story: buying Bitcoin in Korea in 2013 and learning self-custody after his exchange went bust. | CoinDesk Videos
+WSJ • 2d ago
 
-CoinDesk • 47m ago
+---
+
+**[Why bitcoin prices above $76K by June would signal a bull market](https://ca.finance.yahoo.com/video/why-bitcoin-prices-above-76k-by-june-would-signal-a-bull-market-180000300.html)**
+
+Fundstrat co-founder Tom Lee, or the "Michael Saylor of ethereum (ETH-USD)," said that bitcoin (BTC-USD) prices above $76,000 by the end of May would indicate that we're in a bull market. Scott Melker explains more in the video above. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo! Finance Canada • 10m ago
 
 ---
 
@@ -189,49 +203,35 @@ CoinDesk • 47m ago
 
 Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.
 
-CNBC • 3h ago
-
----
-
-**[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Donald Trump Could Help Bitcoin Price Recover Quicker, CZ Predicts, as He Rejects Starting New Business](https://finance.yahoo.com/markets/crypto/articles/donald-trump-could-help-bitcoin-100215154.html)**
-
-Zhao said Donald Trump’s focus on strengthening US financial markets could help accelerate Bitcoin’s price recovery. CZ argued that Bitcoin and other blockchains can upgrade ...
-
-Yahoo Finance • 6h ago
-
----
-
-**[Bitcoin And Crypto Are Suddenly Braced For Two Major Price Earthquakes](https://www.forbes.com/sites/digital-assets/2026/05/07/bitcoin-and-crypto-are-suddenly-braced-for-two-major-price-earthquakes/)**
-
-The bitcoin price has climbed back over $80,000 per bitcoin, up 30% since its February lows after wild swings...
-
-Forbes • 1d ago
-
----
-
-**[IREN focuses on its expansion plans as Q3 revenue misses on weaker bitcoin price (IREN:NASDAQ)](https://seekingalpha.com/news/4589259-iren-focuses-on-its-expansion-plans-as-q3-revenue-misses-on-weaker-bitcoin-price)**
-
-Seeking Alpha • 18h ago
-
----
-
-**[Quantum Computing Is Testing Bitcoin’s Most Important Assumption](https://observer.com/2026/05/bitcoin-quantum-computing-governance-problem/)**
-
-While post-quantum security standards and technical solutions are rapidly advancing, Quantus’ Chris Smith argues that Bitcoin’s network still lacks a clear path for coordinating a migration across …
-
-observer.com • 1h ago
+CNBC • 4h ago
 
 ---
 
 **[Campaigners drop bid to make Swiss National Bank hold bitcoin](https://www.reuters.com/sustainability/boards-policy-regulation/campaigners-drop-bid-make-swiss-national-bank-hold-bitcoin-2026-05-08/)**
 
-Reuters • 5h ago
+Reuters • 7h ago
+
+---
+
+**[IREN Q1: Nvidia Turned A Bitcoin Miner Into A Neocloud Bet (NASDAQ:IREN)](https://seekingalpha.com/article/4901385-iren-q1-nvidia-turned-a-bitcoin-miner-into-a-neocloud-bet)**
+
+Seeking Alpha • 3h ago
+
+---
+
+**[TeraWulf’s $21 million HPC revenue surpasses bitcoin mining for first time in Q1](https://www.theblock.co/post/400578/terawulfs-21-million-hpc-revenue-surpasses-bitcoin-mining-first-time-q1)**
+
+Former pure-play bitcoin miners like TeraWulf are starting to report AI and HPC revenue overtaking their mining segments.
+
+The Block • 2h ago
+
+---
+
+**[Bach and Bitcoin](https://www.counterpunch.org/2026/05/08/bach-and-bitcoin-2/)**
+
+Cryptocurrency is the new alchemy. You can’t hold Ethereum or bite into a Bitcoin. Modern miners create virtual gold out of nothing. While the alchemists
+
+CounterPunch.org • 56m ago
 
 ---
 
@@ -251,7 +251,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -297,7 +297,7 @@ Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
 China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
 
-⬆️ 4 • 💬 2 • 18h ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+⬆️ 4 • 💬 2 • 19h ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
 
 ---
 
@@ -319,7 +319,7 @@ Michael Saylor just announced on Strategy's Q1 2026 earnings call that the compa
 
 📺 Simply Bitcoin
 
-👁️ 63K • 👍 3K • 💬 529 • ⏱️ 15:19 • 19h ago
+👁️ 63K • 👍 3K • 💬 529 • ⏱️ 15:19 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 104 • ⏱️ 9:53 • 17h ago
+👁️ 31K • 👍 2K • 💬 104 • ⏱️ 9:53 • 18h ago
 
 ---
 
@@ -377,7 +377,7 @@ It is once again time for another update on our "Bitcoin: The Beauty of Mathemat
 
 📺 True North
 
-👁️ 351 • 👍 11 • 💬 5 • ⏱️ 0:48 • 2h ago
+👁️ 351 • 👍 11 • 💬 5 • ⏱️ 0:48 • 3h ago
 
 ---
 
@@ -405,7 +405,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 262 • 💬 41 • ⏱️ 8:12 • 18h ago
+👁️ 4K • 👍 262 • 💬 41 • ⏱️ 8:12 • 20h ago
 
 ---
 
