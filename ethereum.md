@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-08T19:54:31.932744+00:00'
+updated: '2026-05-08T21:01:47.066425+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 19:54 UTC  
+**Last Updated:** May 08, 2026 at 21:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -0.0%  
-**30d:** +5.7%  
-**90d:** +10.8%  
-**1y:** -1.3%  
+**24h:** +0.9%  
+**7d:** -0.3%  
+**30d:** +5.4%  
+**90d:** +10.5%  
+**1y:** -1.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Regulatory bans on stablecoin yields are expected to positively impact Ethereum's value and network activity. Shift to Staking: With the CLARITY Act and similar regulations preventing issuers from paying direct yield on stablecoins, investors are predicted to move capital into Ethereum staking as an alternative source of passive income. Supply Shock: This migration could lock up significant amounts of ETH, with analysts noting a potential $6 billion staking queue and reduced exchange liquidity, which supports price appreciation. Increased Network Usage: As stablecoins are used more for transactions rather than idle holding, gas fees and ETH burn rates (via EIP-1559) may rise, further benefiting the token's economic model.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 200M+ gas limit target post-Glamsterdam, 25M blocks on mainnet, Arbitrum DAO voted to release frozen ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 Hi guys, I recently finished a web3 bootcamp at metana, and am now looking for a jobs in this space. So far I have had little luck, as most of you are probably familiar with the current state of the job market. I want to at least start gaining some experience but most opensource projects don't really have any opentasks to contribute with that are beginner friendly, so I am asking if anyone knows of any opportunities for a beginner, or if someone has a project they are working on and willing to take me on. Thanks.
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi guys, I recently finished a web3 bootcamp at metana, and am now looking for a
 
 Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs and roadmap changes for the upcoming Hegotá fork.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 11h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-236/) • 12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs
 
 The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon as Thursday, as a new poll shows 52% of voters back the landmark crypto legislation.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/clarity-act-markup-senate-vote/) • 8h ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/clarity-act-markup-senate-vote/) • 9h ago
 
 ---
 
@@ -154,7 +154,15 @@ To expand: Initial immutable setups become sovereign "constitution" based L2s th
 
 Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[BitMine Stock Faces Risk as Tom Lee Cools on Ethereum Buying](https://finance.yahoo.com/markets/stocks/articles/bitmine-stock-faces-risk-tom-195616576.html)**
+
+BMNR stock price falls 4% as Tom Lee signals slower ETH buying, with bearish chart signals pointing to a possible 9% drop.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -163,12 +171,6 @@ Yahoo Finance • 23h ago
 At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
 
 CoinDesk • 1d ago
-
----
-
-**[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
-
-TipRanks • 5h ago
 
 ---
 
@@ -184,13 +186,7 @@ CoinDesk • 1d ago
 
 The Solana (CRYPTO: $SOL) network now has a 23% market share when it comes to blockchain developers.
 
-Yahoo Finance • 59m ago
-
----
-
-**[Will Ethereum (ETH) Hit $22K as Tom Lee Predicts?](https://www.disruptionbanking.com/2026/05/08/will-ethereum-eth-hit-22k-as-tom-lee-predicts/)**
-
-Disruption Banking • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -214,7 +210,15 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
+
+---
+
+**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
+
+Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
+
+TradingView • 8h ago
 
 ---
 
@@ -222,7 +226,7 @@ Fortune • 6h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
@@ -236,7 +240,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 1K • 👍 132 • 💬 31 • ⏱️ 14:48 • 28m ago
+👁️ 1K • 👍 132 • 💬 31 • ⏱️ 14:48 • 1h ago
 
 ---
 
@@ -246,7 +250,7 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 4K • 👍 270 • 💬 33 • ⏱️ 12:24 • 5h ago
+👁️ 4K • 👍 270 • 💬 33 • ⏱️ 12:24 • 7h ago
 
 ---
 
@@ -256,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 224 • 👍 10 • 💬 1 • ⏱️ 4:16 • 11h ago
+👁️ 224 • 👍 10 • 💬 1 • ⏱️ 4:16 • 12h ago
 
 ---
 
@@ -276,7 +280,7 @@ BITCOIN WARNING: Bearish Price Target Revealed!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 299 • 💬 409 • ⏱️ 16:53 • 18h ago
+👁️ 6K • 👍 299 • 💬 409 • ⏱️ 16:53 • 19h ago
 
 ---
 
@@ -326,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 733 • 👍 80 • ⏱️ 6:25 • 6h ago
+👁️ 733 • 👍 80 • ⏱️ 6:25 • 7h ago
 
 ---
 

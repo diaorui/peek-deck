@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-08T19:54:31.935916+00:00'
+updated: '2026-05-08T21:01:47.069558+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 08, 2026 at 19:54 UTC  
+**Last Updated:** May 08, 2026 at 21:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
 
-3h ago
-
----
-
-**[Any strategies to achieve straight line motion on my 6-axis robot?](https://www.reddit.com/r/robotics/comments/1t77mw6/any_strategies_to_achieve_straight_line_motion_on/)**
-
-The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
-
-6h ago
+4h ago
 
 ---
 
@@ -50,7 +42,15 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
-8h ago
+9h ago
+
+---
+
+**[Any strategies to achieve straight line motion on my 6-axis robot?](https://www.reddit.com/r/robotics/comments/1t77mw6/any_strategies_to_achieve_straight_line_motion_on/)**
+
+The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
+
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Custom Pan Tilt mechanism I put together for a teleop robot. The motor choice was somewhat arbitrary, I have had them on my shelf for a while and wanted to try them on a project. I love the speed and responsiveness and the ease of setup/ integration. One slight downside is that since I am using the secondary encoder for closed loop control, there is a slight audible chatter from the planetary gears in a balanced system. I think I could fix it with a slight spring bias, but haven't tried. Target speed of the system was 720 deg/sec for each axis which these motors provide. Admittedly I am running these motors at 10% power as they are way overkill for this application (that being said, this design should allow heavier payloads pretty easily without dropping rate). The pan wiring is supported with a 6mm nylon strip to control bending, the tilt wiring is just a bend rated usb3 cable loop. The wiring allows for 360 degrees pan, 180 degrees tilt (but for this robot I have it limited to 180, 180) The camera is streaming to a meta quest3s and tracking its motion. Hardware: Motor: SteadyWin GIM6010-8, Camera: OakD-LR
 
-4h ago
+5h ago
 
 ---
 
@@ -74,19 +74,13 @@ Custom Pan Tilt mechanism I put together for a teleop robot. The motor choice wa
 
 Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100 kilo lifting force. My instructor shown for scale. The red railing is to keep students alive. The tool swished past my face once when I pressed Go Back, instead of Go Forward. Simple mistake? Centennial College Ashtonbee Campus, Scarborough Ontario.
 
-23h ago
+1d ago
 
 ---
 
 **[Arm robot](https://www.reddit.com/r/robotics/comments/1t775x7/arm_robot/)**
 
-6h ago
-
----
-
-**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
-
-12h ago
+8h ago
 
 ---
 
@@ -94,7 +88,7 @@ Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100
 
 Meta Quest3s streams head orientation over wifi to raspi which talks over uart to an arduino controlling the pan tilt motors over CAN. Motors are GIM6010-8 running at 10% power. The oakD-LR is streaming the central cam at 1280x720, 20 fps with MJPEG hardware encoding on oakD. The oakD is also using its built in ROI depth estimator with the two outside cameras with valid ranging between 1.5m and 25m. Initially I locked the camera display to the headset frame but found the motion lag of the motors actually driving the pan tilt nauseating. By delinking the display from the headset and instead having it track returned motor angles from the PT system, it decouples the instantaneous head motion from the camera and makes the experience much more comfortable (even though it looks more chaotic in the playback).
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +96,13 @@ Meta Quest3s streams head orientation over wifi to raspi which talks over uart t
 
 Hey everyone, sharing an early stage project I've been working on as part of a research project about studying cooperation through games played by simple agents. The goal is to build a small fleet of robots that play cooperative games together, where each robot has different "senses";one can only see, one can only hear, one may have proximity sensing, etc. The question is what kinds of cooperative strategies emerge when agents have to share information across asymmetric sensing. Eventually I want to put a larger language model (something like Gemma) in the loop as a strategist, with smaller, faster models handling execution on each robot. But that's far down the road. Where it is now: The chassis is a modified Bambu CyberBrick model, redesigned to fit a custom ESP32-S3 with a camera module Each robot streams video over Wifi to a PC, where ArUco markers are detected for positioning. Doing the CV offboard to save battery on the robot Right now I'm using 4 big ArUco markers as a proof of concept, but for a real arena I'd put many more on the walls for proper coverage Motors are driven through a small motor driver and voltage monitoring board I wired up on perfboard Powered by a drone battery, which has way more current than the motors actually need, but interestingly the ESP32 can still charge from it What i still need to figure out for the future Autonomous charging stations (the dream: robots that go dock themselves when low) More markers and a properly controlled arena The actual cooperative game design and the asymmetric-sense layer and Putting AI in the control loop Very much work in progress. I'd genuinely value any thoughts on the localization side (is ArUco the right call or should I be looking at something else?) and on the multi-agent side if anyone's worked on similar setups.
 
-2h ago
+3h ago
+
+---
+
+**[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
+
+14h ago
 
 ---
 
@@ -126,7 +126,7 @@ CBC • 1d ago
 
 **[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
 
-SpaceNews • 8h ago
+SpaceNews • 9h ago
 
 ---
 
@@ -134,7 +134,7 @@ SpaceNews • 8h ago
 
 Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 20h ago
 
 The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
 
-Rocket Lab • 20h ago
+Rocket Lab • 21h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Washington Post • 1d ago
 
 Richtech Robotics (RR) stock is back in focus after the company signed a non binding letter of intent with SoundHound AI to integrate voice AI into its service robots for upcoming hospitality focused demonstrations. See our latest analysis for Richtech Robotics. Those upcoming hospitality demos and recent high profile showcases, such as ADAM serving fans at Vegas Golden Knights games, come after a 30 day share price return of 39.58% and a 1 year total shareholder return of 30.73%, even though...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 4h ago
 
 “The smart home is getting kind of boring.”
 
-The Verge • 7h ago
+The Verge • 8h ago
 
 ---
 
@@ -176,11 +176,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Brownell Talbot robotics team wins world championship](https://www.wowt.com/2026/05/08/brownell-talbot-robotics-team-wins-world-championship/)**
+**[Faraday Future and BIBS plan US robotics institute built around real robots](https://www.stocktitan.net/news/FFAI/faraday-future-announces-strategic-partnership-between-ff-ai-0ko06z0kwsbn.html)**
 
-A Nebraska high school robotics team won the most prestigious title in the world after spending a year building and perfecting their robot.
+The planned institute targets AI and robotics training, certifications and internships. The Omaha launch starts a global partner search, pending board approval.
 
-WOWT • 16h ago
+Stock Titan • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ WOWT • 16h ago
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 4K • 👍 34 • 💬 1 • ⏱️ 0:14 • 10h ago
+👁️ 4K • 👍 34 • 💬 1 • ⏱️ 0:14 • 11h ago
 
 ---
 
@@ -262,7 +262,7 @@ This is a high-speed industrial automation system using two different robots wor
 
 📺 Unova
 
-👁️ 33K • 👍 122 • 💬 6 • ⏱️ 0:06 • 20h ago
+👁️ 33K • 👍 122 • 💬 6 • ⏱️ 0:06 • 21h ago
 
 ---
 
