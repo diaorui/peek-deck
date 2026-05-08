@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-08T11:54:18.694117+00:00'
+updated: '2026-05-08T13:50:15.666016+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 11:54 UTC  
+**Last Updated:** May 08, 2026 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,862.00
+### $79,900.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +1.9%  
-**30d:** +11.6%  
-**90d:** +14.0%  
-**1y:** -22.2%  
+**24h:** -0.7%  
+**7d:** +1.3%  
+**30d:** +10.9%  
+**90d:** +13.3%  
+**1y:** -22.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1599.04B
+**Market Cap:** $1594.14B
 Rank #1
 
-**Circulating Supply:** 20,026,353 BTC
+**Circulating Supply:** 20,026,412 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.6%
+-36.9%
 
 **All-Time Low:** $67.81
-+117727.8%
++117241.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from now, 0.1 Bitcoin will be a year's living expenses.
 
-7h ago
+9h ago
 
 ---
 
@@ -89,23 +89,15 @@ Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from no
 
 Starcloud, an Nvidia-backed orbital data center startup, said it will start mining Bitcoin from space later this year when its second spacecraft is launched, positioning it to become the first company to mine Bitcoin off Earth.Starcloud “will be the first to mine Bitcoin in space,” the startup’s CE…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 3h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 5h ago
 
 ---
 
-**[Morgan Stanley's $269M Spot Bitcoin ETF Bet: Why Wall Street is Buying Even if Your Advisor Isn't](https://www.reddit.com/r/Bitcoin/comments/1t6cprn/morgan_stanleys_269m_spot_bitcoin_etf_bet_why/)**
+**[FINALLY!!! - ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum V2 Working Group](https://www.reddit.com/r/Bitcoin/comments/1t76ccv/finally_antpool_block_inc_f2pool_foundry/)**
 
-Morgan Stanley holds $269.9 million in Spot Bitcoin ETF positions, with the bulk of that exposure sitting in GBTC – the Grayscale Bitcoin Trust – according to recent 13F filings submitted to the SEC. The bank’s own Spot Bitcoin ETF, trading under the ticker MSBT, pulled in over $200 million in assets within weeks of its May 2026 launch, placing it ahead of most traditional ETF debuts by any measure. Here is the detail that reframes the entire story: Morgan Stanley’s 15,000-plus financial advisors were not cleared to recommend these products. Every dollar that came in during those first weeks arrived because clients asked for it themselves. That is not a distribution success story. That is a demand signal, and it raises a structural question worth sitting with: what does it mean when high-net-worth clients are pulling toward Bitcoin before advisors are permitted to push it? In the broker-dealer world, ‘unsolicited’ has a specific regulatory meaning. Think of it like a restaurant where the waiter is not allowed to recommend the steak, but you can still order it if you ask. FINRA’s suitability rules require advisors to have formal internal approval before proactively pitching any investment product to clients. Without that approval, the product sits on the menu with no one allowed to describe it. Morgan Stanley’s advisors are currently in that position with Spot Bitcoin ETFs. They cannot bring up MSBT or GBTC in a client meeting unprompted. But if a client walks in and says, ‘I want Bitcoin exposure through a regulated product,’ the advisor can execute that trade – and it gets logged as an unsolicited order. That is precisely what happened during MSBT’s first two weeks. Amy Oldenburg, head of digital assets at Morgan Stanley, confirmed it directly at the Consensus conference in Miami Beach: ‘Almost all of that first week or two of activity was self-directed. It was not our advisors that were selling this.’ GBTC, the Grayscale Bitcoin Trust that forms the core of Morgan Stanley’s $269.9 million position, has historically been the vehicle institutional-grade investors reached for when they wanted regulated Bitcoin exposure before newer Spot Bitcoin ETF structures became available. Morgan Stanley clients seeking that exposure were not waiting for permission – they were finding the path themselves. The $269.9 million position disclosed in Morgan Stanley’s 13F filings is concentrated heavily in GBTC, making the firm one of the largest institutional holders of that fund. Layered on top of that existing position, the newly launched MSBT gathered $200 million in assets under management within its opening weeks, a pace that puts it in rare company among ETF launches across any asset class. To calibrate the scale: total Spot Bitcoin ETF assets under management across all U.S.-listed products have grown significantly since the January 2024 approval wave, with cumulative net inflows reaching $59.6 billion as Wall Street’s institutional appetite has proven more durable than many skeptics expected. Morgan Stanley’s combined position remains a fraction of that total – but the structural significance is not the dollar size. It is who is holding it and under what conditions. MSBT launched with a 0.14% sponsor fee, the lowest among Bitcoin ETPs at launch – a deliberate pricing move that signals Morgan Stanley is competing for long-term market share, not simply checking a product box. Custody sits with Coinbase for Bitcoin cold storage and BNY Mellon for cash administration, a dual-custody model that the bank has positioned as a security differentiator. BlackRock’s IBIT remains the dominant fund by assets, but the institutional permission dynamic that drove IBIT’s early growth is now playing out in parallel at Morgan Stanley – with one key difference: this time, the bank controls the product directly. The tension at the center of this story is structural. Morgan Stanley is simultaneously a holder of Bitcoin ETF positions, an issuer of a Bitcoin ETF product, and a firm whose advisor network is currently restricted from actively marketing that product. That is not a contradiction; it is a sequencing strategy, and it is how large institutions have historically managed regulatory exposure when entering new asset classes. The institutional adoption pattern here mirrors what played out with BlackRock and Fidelity’s ETF launches in 2024: proprietary and client positions accumulate quietly through unsolicited channels while the compliance and internal approval infrastructure catches up. Advisor channel dynamics have consistently lagged institutional positioning across the ETF landscape, Morgan Stanley is not an outlier; it is following the same playbook at larger scale. Oldenburg framed the longer arc clearly: ‘We’ll live in a hybrid world for quite some time.’ The bank is simultaneously building out spot crypto trading through its E*TRADE platform – expected to launch in the first half of 2026 with Bitcoin, Ethereum, and Solana – while studying tokenized financial instruments as a decade-long infrastructure project. That is not a firm hedging its bets. That is a firm building a vertically integrated crypto stack.
+The Stratum v2 Working Group announces today that ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, and DMND have joined the working group to advance the adoption of the Stratum v2 protocol. The working group was founded in 2022 by Braiins and Spiral to develop and maintain the Stratum v2 protocol as an open and vendor-neutral specification usable by the Bitcoin mining ecosystem. The protocol is an upgrade to the original Stratum mining protocol, bringing massive efficiency gains, privacy, security, and functionality that can be used to improve overall mining decentralization. The onboarding of the new members, all substantial players in the mining ecosystem, represents a big leap forward for the working group’s progress in ensuring proper functioning and compatibility across real-world mining operations at scale. It also shows a growing consensus in the mining ecosystem that Stratum v2 is the direction to take going into the future. “We’re proud to support the broader adoption of Stratum V2. Aligning around an open, interoperable standard enables the industry to collaborate more effectively and drive improvements in efficiency, security and decentralization,” said Andy Zhou, CEO of ANTPOOL. Stratum v2 supports mechanisms for more efficient management of large fleets of miners, is end-to-end encrypted, and allows individual miners to produce their own block templates with supporting pools (among other features). Kenway Wang, CTO of Spiderpool had this to say: “Decentralization is core to our mission. Stratum V2 supports this by enabling miner-constructed templates, while also improving efficiency, especially for miners in bandwidth-constrained environments.”
 
-🔗 [99Bitcoins](https://99bitcoins.com/news/bitcoin-btc/morgan-stanley-spot-bitcoin-etf-bet-explained/) • 21h ago
-
----
-
-**[Respone To Casual Finance's "Bitcoin is a Scam" Claim](https://www.reddit.com/r/Bitcoin/comments/1t6rzoa/respone_to_casual_finances_bitcoin_is_a_scam_claim/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=Yjknkadc4jQ) • 11h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group) • 1h ago
 
 ---
 
@@ -113,15 +105,31 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello guys, im freshly 25 in France and i ive stacked up 10k€ in my bank working as a helping nurse, along with an appartment. Now im wondering if i should invest into bitcoin because i dont know anything about investing as im new into adult life and everyone is telling me to not invest anywhere in crypto only in « physical ». How much should i invest into btc out of the 10k€ i have in your opinion ? And at what frequency ?
 
-1h ago
+3h ago
 
 ---
 
-**[Kraken to let customers cash out crypto at MoneyGram locations in more than 100 countries | Fortune](https://www.reddit.com/r/Bitcoin/comments/1t6ayvs/kraken_to_let_customers_cash_out_crypto_at/)**
+**[I thought I wanted “more Bitcoin”. Turns out I just wanted more time.](https://www.reddit.com/r/Bitcoin/comments/1t77uqw/i_thought_i_wanted_more_bitcoin_turns_out_i_just/)**
 
-Once a legacy cross-border payments firm, MoneyGram has revamped itself to become more crypto-native over the past three years.
+The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
 
-🔗 [Fortune](https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/) • 22h ago
+26m ago
+
+---
+
+**[Morgan Stanley's $269M Spot Bitcoin ETF Bet: Why Wall Street is Buying Even if Your Advisor Isn't](https://www.reddit.com/r/Bitcoin/comments/1t6cprn/morgan_stanleys_269m_spot_bitcoin_etf_bet_why/)**
+
+Morgan Stanley holds $269.9 million in Spot Bitcoin ETF positions, with the bulk of that exposure sitting in GBTC – the Grayscale Bitcoin Trust – according to recent 13F filings submitted to the SEC. The bank’s own Spot Bitcoin ETF, trading under the ticker MSBT, pulled in over $200 million in assets within weeks of its May 2026 launch, placing it ahead of most traditional ETF debuts by any measure. Here is the detail that reframes the entire story: Morgan Stanley’s 15,000-plus financial advisors were not cleared to recommend these products. Every dollar that came in during those first weeks arrived because clients asked for it themselves. That is not a distribution success story. That is a demand signal, and it raises a structural question worth sitting with: what does it mean when high-net-worth clients are pulling toward Bitcoin before advisors are permitted to push it? In the broker-dealer world, ‘unsolicited’ has a specific regulatory meaning. Think of it like a restaurant where the waiter is not allowed to recommend the steak, but you can still order it if you ask. FINRA’s suitability rules require advisors to have formal internal approval before proactively pitching any investment product to clients. Without that approval, the product sits on the menu with no one allowed to describe it. Morgan Stanley’s advisors are currently in that position with Spot Bitcoin ETFs. They cannot bring up MSBT or GBTC in a client meeting unprompted. But if a client walks in and says, ‘I want Bitcoin exposure through a regulated product,’ the advisor can execute that trade – and it gets logged as an unsolicited order. That is precisely what happened during MSBT’s first two weeks. Amy Oldenburg, head of digital assets at Morgan Stanley, confirmed it directly at the Consensus conference in Miami Beach: ‘Almost all of that first week or two of activity was self-directed. It was not our advisors that were selling this.’ GBTC, the Grayscale Bitcoin Trust that forms the core of Morgan Stanley’s $269.9 million position, has historically been the vehicle institutional-grade investors reached for when they wanted regulated Bitcoin exposure before newer Spot Bitcoin ETF structures became available. Morgan Stanley clients seeking that exposure were not waiting for permission – they were finding the path themselves. The $269.9 million position disclosed in Morgan Stanley’s 13F filings is concentrated heavily in GBTC, making the firm one of the largest institutional holders of that fund. Layered on top of that existing position, the newly launched MSBT gathered $200 million in assets under management within its opening weeks, a pace that puts it in rare company among ETF launches across any asset class. To calibrate the scale: total Spot Bitcoin ETF assets under management across all U.S.-listed products have grown significantly since the January 2024 approval wave, with cumulative net inflows reaching $59.6 billion as Wall Street’s institutional appetite has proven more durable than many skeptics expected. Morgan Stanley’s combined position remains a fraction of that total – but the structural significance is not the dollar size. It is who is holding it and under what conditions. MSBT launched with a 0.14% sponsor fee, the lowest among Bitcoin ETPs at launch – a deliberate pricing move that signals Morgan Stanley is competing for long-term market share, not simply checking a product box. Custody sits with Coinbase for Bitcoin cold storage and BNY Mellon for cash administration, a dual-custody model that the bank has positioned as a security differentiator. BlackRock’s IBIT remains the dominant fund by assets, but the institutional permission dynamic that drove IBIT’s early growth is now playing out in parallel at Morgan Stanley – with one key difference: this time, the bank controls the product directly. The tension at the center of this story is structural. Morgan Stanley is simultaneously a holder of Bitcoin ETF positions, an issuer of a Bitcoin ETF product, and a firm whose advisor network is currently restricted from actively marketing that product. That is not a contradiction; it is a sequencing strategy, and it is how large institutions have historically managed regulatory exposure when entering new asset classes. The institutional adoption pattern here mirrors what played out with BlackRock and Fidelity’s ETF launches in 2024: proprietary and client positions accumulate quietly through unsolicited channels while the compliance and internal approval infrastructure catches up. Advisor channel dynamics have consistently lagged institutional positioning across the ETF landscape, Morgan Stanley is not an outlier; it is following the same playbook at larger scale. Oldenburg framed the longer arc clearly: ‘We’ll live in a hybrid world for quite some time.’ The bank is simultaneously building out spot crypto trading through its E*TRADE platform – expected to launch in the first half of 2026 with Bitcoin, Ethereum, and Solana – while studying tokenized financial instruments as a decade-long infrastructure project. That is not a firm hedging its bets. That is a firm building a vertically integrated crypto stack.
+
+🔗 [99Bitcoins](https://99bitcoins.com/news/bitcoin-btc/morgan-stanley-spot-bitcoin-etf-bet-explained/) • 23h ago
+
+---
+
+**[Respone To Casual Finance's "Bitcoin is a Scam" Claim](https://www.reddit.com/r/Bitcoin/comments/1t6rzoa/respone_to_casual_finances_bitcoin_is_a_scam_claim/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=Yjknkadc4jQ) • 13h ago
 
 ---
 
@@ -129,31 +137,23 @@ Once a legacy cross-border payments firm, MoneyGram has revamped itself to becom
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=_PXU0thDHCU) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=_PXU0thDHCU) • 5h ago
 
 ---
 
-**[You don’t lose anything until you sell.](https://www.reddit.com/r/Bitcoin/comments/1t6bi29/you_dont_lose_anything_until_you_sell/)**
+**[Daily Discussion, May 08, 2026](https://www.reddit.com/r/Bitcoin/comments/1t6z9zq/daily_discussion_may_08_2026/)**
 
-Remember: 1 BTC = 1 BTC
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-21h ago
-
----
-
-**[Fingerprinting, JIT fraud proofs - Bitcoin Optech Newsletter #404](https://www.reddit.com/r/Bitcoin/comments/1t70jsn/fingerprinting_jit_fraud_proofs_bitcoin_optech/)**
-
-Bitcoin Optech newsletter #404 is here: - describes possible solutions to node fingerprinting - links to discussion of using public fraud proofs to improve incentives around just-in-time channels - Optech Newsletter #404 Podcast https://bitcoinops.org/en/newsletters/2026/05/08/ Naiyoma posted to Delving Bitcoin about possible solutions to the node fingerprinting issue that uses the addr message timestamp to identify the same node on multiple networks... https://bitcoinops.org/en/newsletters/2026/05/08/#possible-solutions-to-node-fingerprinting Thomas Voegtlin posted to Delving Bitcoin about a new proposal for improving the game theory behind just-in-time (JIT) channels by using public fraud proofs to demonstrate that an LSP is misbehaving... https://bitcoinops.org/en/newsletters/2026/05/08/#public-fraud-proof-for-just-in-time-channels Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
-
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/05/08/) • 4h ago
+7h ago
 
 ---
 
-**[Do I sell stock or Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1t6mi5p/do_i_sell_stock_or_bitcoin/)**
+**[Kraken to let customers cash out crypto at MoneyGram locations in more than 100 countries | Fortune](https://www.reddit.com/r/Bitcoin/comments/1t6ayvs/kraken_to_let_customers_cash_out_crypto_at/)**
 
-I'm in a financial pinch and need to liquidate somewhere I have 0.105 Bitcoin and my Avg Cost is $101k (my dumbass bought at the peak) I also have $21k in a Taxable Brokerage Acct in Index Funds I need around $10k, which is exactly how much Bitcoin I have. Should I take the L and sell the Bitcoin or should I sell the Stock? Also planning on buying back in once my work picks back up again.
+Once a legacy cross-border payments firm, MoneyGram has revamped itself to become more crypto-native over the past three years.
 
-15h ago
+🔗 [Fortune](https://fortune.com/2026/05/05/kraken-moneygram-partnership-crypto-cash-off-ramp/) • 1d ago
 
 ---
 
@@ -161,11 +161,11 @@ I'm in a financial pinch and need to liquidate somewhere I have 0.105 Bitcoin an
 
 ## Google News: "bitcoin"
 
-**[Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record](https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record)**
+**[Bitcoin (BTC) price just plunged to 2-cents for some Revolut users](https://www.coindesk.com/markets/2026/05/08/bitcoin-shows-2-cent-price-on-revolut-as-users-report-apparent-btc-display-glitch)**
 
-Bitcoin pulled back from this week's $81,500 high after U.S. forces fired on Iranian targets, while crypto futures markets logged their 67th straight day of negative funding rates, the longest streak in a decade per K33 Research.
+Screenshots showed BTC briefly far below global market prices, though it remains unclear whether any trades were executed at those levels or whether the move was a display issue.
 
-CoinDesk • 54m ago
+CoinDesk • 4h ago
 
 ---
 
@@ -177,23 +177,25 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Dives Below $80,000. Why the Jobs Report Could Give Cryptos a Boost.](https://www.barrons.com/articles/bitcoin-price-crypto-jobs-report-ce56c0d9)**
+**[Billionaire Michael Saylor said he would never sell bitcoin. After 3 straight quarterly losses, he's changing his mind](https://finance.yahoo.com/markets/crypto/articles/billionaire-michael-saylor-said-never-170500436.html)**
 
-Barron's • 28m ago
+Cash would be used to fund dividend payments, after Strategy reported a first-quarter loss of $12.5 billion.
 
----
-
-**[Campaigners drop bid to make Swiss National Bank hold bitcoin](https://www.reuters.com/sustainability/boards-policy-regulation/campaigners-drop-bid-make-swiss-national-bank-hold-bitcoin-2026-05-08/)**
-
-Reuters • 54m ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding with jobs report on deck](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-with-jobs-report-on-deck-113214455.html)**
+**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
 
-Bitcoin opened at $80,015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80,206.01 by 7:18 a.m ET. Ethereum opened at $2,290.98 on Friday, down 2.5% from Thursday's opening price. The value of ethereum was steady as of 7:18 a.m. ET..
+WSJ • 2d ago
 
-Yahoo Finance • 22m ago
+---
+
+**[The hottest ETF since bitcoin-mania just added $1 billion in a day](https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html)**
+
+Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.
+
+CNBC • 26m ago
 
 ---
 
@@ -203,31 +205,31 @@ MarketWatch • 1d ago
 
 ---
 
+**[Current price of Bitcoin for MM-DD-YYYY](https://fortune.com/article/price-of-bitcoin-05-08-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 20m ago
+
+---
+
+**[Crypto traders rush to hedge after bitcoin drops below $80,000: Crypto Markets Today](https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets)**
+
+BTC fell under $80,000 after U.S. strikes in Iran sent oil briefly above $100, triggering liquidations and a shift toward bearish positioning.
+
+CoinDesk • 3h ago
+
+---
+
 **[Better Crypto for New Investors: Bitcoin vs. XRP](https://www.fool.com/investing/2026/05/07/better-crypto-for-new-investors-bitcoin-vs-xrp/)**
 
-The Motley Fool • 9h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[IREN focuses on its expansion plans as Q3 revenue misses on weaker bitcoin price (IREN:NASDAQ)](https://seekingalpha.com/news/4589259-iren-focuses-on-its-expansion-plans-as-q3-revenue-misses-on-weaker-bitcoin-price)**
+**[Campaigners drop bid to make Swiss National Bank hold bitcoin](https://www.reuters.com/sustainability/boards-policy-regulation/campaigners-drop-bid-make-swiss-national-bank-hold-bitcoin-2026-05-08/)**
 
-Seeking Alpha • 13h ago
-
----
-
-**[Bitcoin And Crypto Are Suddenly Braced For Two Major Price Earthquakes](https://www.forbes.com/sites/digital-assets/2026/05/07/bitcoin-and-crypto-are-suddenly-braced-for-two-major-price-earthquakes/)**
-
-The bitcoin price has climbed back over $80,000 per bitcoin, up 30% since its February lows after wild swings...
-
-Forbes • 23h ago
-
----
-
-**[Bitcoin (BTC) price prediction: Three signals pointing to a possible jump to $85,000](https://www.coindesk.com/markets/2026/05/07/three-signals-pointing-to-a-possible-bitcoin-move-to-usd85-000)**
-
-Bitcoin has broken key cost basis levels, funding rates have flipped neutral, and options positioning is turning supportive. The three signals that suggest further gains may be ahead.
-
-CoinDesk • 1d ago
+Reuters • 2h ago
 
 ---
 
@@ -293,7 +295,7 @@ Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
 China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
 
-⬆️ 4 • 💬 2 • 13h ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+⬆️ 4 • 💬 2 • 15h ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
 
 ---
 
@@ -315,17 +317,7 @@ Michael Saylor just announced on Strategy's Q1 2026 earnings call that the compa
 
 📺 Simply Bitcoin
 
-👁️ 49K • 👍 2K • 💬 417 • ⏱️ 15:19 • 15h ago
-
----
-
-**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 673 • 💬 318 • ⏱️ 13:40 • 20h ago
+👁️ 57K • 👍 3K • 💬 495 • ⏱️ 15:19 • 16h ago
 
 ---
 
@@ -335,17 +327,17 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 67 • ⏱️ 9:53 • 12h ago
+👁️ 28K • 👍 2K • 💬 108 • ⏱️ 9:53 • 14h ago
 
 ---
 
-**[Bitcoin Just Hit The Tipping Point - Here&#39;s What Happens Next](https://www.youtube.com/watch?v=5GEXC4hUWmA)**
+**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
 
-In today's YouTube video, Kyledoops shows you why this is officially the tipping point for Bitcoin. It all comes down to this date ...
+My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 Crypto Banter
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 588 • 💬 8 • ⏱️ 24:36 • 4h ago
+👁️ 12K • 👍 695 • 💬 371 • ⏱️ 13:40 • 21h ago
 
 ---
 
@@ -355,35 +347,7 @@ Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 56K • 👍 3K • 💬 651 • ⏱️ 13:36 • 1d ago
-
----
-
-**[BITCOIN: LIQUIDATIONS COMING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=T37goZfzSe4)**
-
-My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 240 • 💬 39 • ⏱️ 8:12 • 13h ago
-
----
-
-**[HUGE 2021 BULLRUN COMING?! NASDAQ IS BULLISH ON CRYPTO #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=UzICyyOGPSY)**
-
-📺 CryptoWendyO
-
-👁️ 4K • 👍 396 • 💬 5 • ⏱️ 2:08 • 10h ago
-
----
-
-**[BITCOIN DUMP ALERT! Will BTC Hit $60k Again?](https://www.youtube.com/watch?v=nsJrG9eUlu8)**
-
-Buy, Sell, Trade Crypto: ✓ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Buy ...
-
-📺 Altcoin Daily
-
-👁️ 9K • 👍 252 • 💬 133 • ⏱️ 1:03 • 23h ago
+👁️ 58K • 👍 3K • 💬 662 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -393,17 +357,57 @@ Subscribe. Before there's no way in. The four-year Bitcoin cycle may already be 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 248 • 💬 91 • ⏱️ 18:21 • 1d ago
+👁️ 5K • 👍 250 • 💬 91 • ⏱️ 18:21 • 1d ago
 
 ---
 
-**[Banks Froze $10 Million Overnight! Here&#39;s Why Bitcoin Exists.](https://www.youtube.com/watch?v=WczLMu2Lpkw)**
+**[BITCOIN: LIQUIDATIONS COMING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=T37goZfzSe4)**
 
-Something changed in the financial system and most people can feel it. Banks, payment processors, and governments now have ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 Simply Bitcoin
+📺 Road To $1 Million USD
 
-👁️ 8K • 👍 762 • 💬 215 • ⏱️ 13:35 • 22h ago
+👁️ 4K • 👍 258 • 💬 39 • ⏱️ 8:12 • 15h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 70)](https://www.youtube.com/watch?v=E6xmZR6HRGw)**
+
+It is once again time for another update on our "Bitcoin: The Beauty of Mathematics" series! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 43K • 👍 3K • 💬 109 • ⏱️ 4:32 • 1d ago
+
+---
+
+**[&quot;Are The Cracks Starting To Show?&quot; - Michael Saylor SHOCKING Rumor Of Selling Bitcoin](https://www.youtube.com/watch?v=GYJWnSJrthk)**
+
+Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion dollar Q1 loss and playing down talk of distress, even ...
+
+📺 Valuetainment
+
+👁️ 98K • 👍 2K • 💬 839 • ⏱️ 11:41 • 1d ago
+
+---
+
+**[Bitcoin Now Compared To Major Assets (Chart Shown: Crypto Market Cap &amp; Trendline)](https://www.youtube.com/watch?v=PnveYgxtd1w)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+
+📺 Benjamin Cowen
+
+👁️ 8K • 👍 155 • 💬 2 • ⏱️ 0:32 • 23h ago
+
+---
+
+**[Bitcoin: It’s Closer Than Ever Before (Most Aren&#39;t Ready!)](https://www.youtube.com/watch?v=1LD0z_n58B8)**
+
+TIA PRO LIFETIME DISCOUNT - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ($1000 OFF WITH THIS ...
+
+📺 Jason Pizzino
+
+👁️ 10K • 👍 743 • 💬 414 • ⏱️ 29:29 • 8h ago
 
 ---
 

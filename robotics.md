@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-08T11:54:18.703307+00:00'
+updated: '2026-05-08T13:50:15.679062+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 08, 2026 at 11:54 UTC  
+**Last Updated:** May 08, 2026 at 13:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,37 +32,51 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Incredibly fast recovery of a Unitree G1 robot.](https://www.reddit.com/r/robotics/comments/1t74nli/incredibly_fast_recovery_of_a_unitree_g1_robot/)**
+
+From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
+
+2h ago
+
+---
+
 **[I learned robot programming on this Cincinnati Milacron T3 in 1984](https://www.reddit.com/r/robotics/comments/1t6mmp1/i_learned_robot_programming_on_this_cincinnati/)**
 
 Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100 kilo lifting force. My instructor shown for scale. The red railing is to keep students alive. The tool swished past my face once when I pressed Go Back, instead of Go Forward. Simple mistake? Centennial College Ashtonbee Campus, Scarborough Ontario.
 
-15h ago
+17h ago
 
 ---
 
 **[I created a gesture recognition Bionic Hand!](https://www.reddit.com/r/robotics/comments/1t707kc/i_created_a_gesture_recognition_bionic_hand/)**
 
-4h ago
+6h ago
 
 ---
 
-**[Incredibly fast recovery of a Unitree G1 robot.](https://www.reddit.com/r/robotics/comments/1t74nli/incredibly_fast_recovery_of_a_unitree_g1_robot/)**
+**[Any strategies to achieve straight line motion on my 6-axis robot?](https://www.reddit.com/r/robotics/comments/1t77mw6/any_strategies_to_achieve_straight_line_motion_on/)**
 
-From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
+The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
 
-50m ago
+35m ago
+
+---
+
+**[Arm robot](https://www.reddit.com/r/robotics/comments/1t775x7/arm_robot/)**
+
+52m ago
 
 ---
 
 **[Neuralink Is Building a Surgical Robot Designed to Reach Any Brain Region](https://www.reddit.com/r/robotics/comments/1t6h9zg/neuralink_is_building_a_surgical_robot_designed/)**
 
-18h ago
+20h ago
 
 ---
 
 **[How Many Robot Monks Does It Take to Screw in the Light of Enlightenment?](https://www.reddit.com/r/robotics/comments/1t71avu/how_many_robot_monks_does_it_take_to_screw_in_the/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -78,7 +92,7 @@ Recently had a technical interview with Peer Robotics for a robotics engineering
 
 Where to practice DH convention from ? (I needs solved examples) I have seen some youtube videos but they are simple.. I have also followed J.J Craig there also simple questions are there
 
-9m ago
+2h ago
 
 ---
 
@@ -86,23 +100,7 @@ Where to practice DH convention from ? (I needs solved examples) I have seen som
 
 Hey guys, I'm doing a survey to ascertain the dominance of different control engineering paradigms in the industry, to ascertain whether there has been a noticeable shift from classical controls to more modern algorithms, or whether modern algorithms, while looking good on paper, are stuck on research papers for the most part. I would love everyone's inputs, from student to seasoned researcher. Your still welcome to contribute if you don't work directly in controls, or if your work is controls-adjacent, like SWE or mechanical design.
 
-🔗 [Google Docs](https://forms.gle/euvuR2Niee3KmZmVA) • 33m ago
-
----
-
-**[Legs prototype](https://www.reddit.com/r/robotics/comments/1t6igpw/legs_prototype/)**
-
-Prototyping the legs, now that i have printed i can to tests and note down what needs to change so i cand make the final version
-
-17h ago
-
----
-
-**[BTT Octopus for robot arm?](https://www.reddit.com/r/robotics/comments/1t72qts/btt_octopus_for_robot_arm/)**
-
-I am thinking of purchasing the BTT octopus. It’s not for a 3-D printer, but for a six axis robot arm. I was wondering, if controlling steppers with it by writing my own code is straightforward? Like with an ESP it’s pretty easy and there are libraries to do it as well. Good libraries like fast accel stepper, which use the hardware interrupts and timers for the pulses instead of polling the CPU. Are there libraries for that specific STM32 as well? I don’t want to deal with complicated timers and interrupt setup on an STM32 coz im not here for learning embedded programming too much but more for the robotics aspect.
-
-2h ago
+🔗 [Google Docs](https://forms.gle/euvuR2Niee3KmZmVA) • 2h ago
 
 ---
 
@@ -116,31 +114,19 @@ Reuters • 1d ago
 
 ---
 
-**[Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions](https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706)**
+**[Khosla-backed robotics startup Genesis AI has gone full stack, demo shows](https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/)**
 
-WSJ • 3d ago
+Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.
 
----
-
-**[Rocket Lab Expands Launch Backlog And Robotics Capabilities With Motiv Deal](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-expands-launch-backlog-231818792.html)**
-
-Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
-
-Yahoo Finance • 12h ago
+TechCrunch • 1d ago
 
 ---
 
-**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
+**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
 
-SpaceNews • 14m ago
+“The smart home is getting kind of boring.”
 
----
-
-**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
-
-The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
-
-Rocket Lab • 12h ago
+The Verge • 1h ago
 
 ---
 
@@ -148,7 +134,29 @@ Rocket Lab • 12h ago
 
 America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
 
-The Washington Post • 18h ago
+The Washington Post • 20h ago
+
+---
+
+**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
+
+The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
+
+Rocket Lab • 14h ago
+
+---
+
+**[Rocket Lab Expands Launch Backlog And Robotics Capabilities With Motiv Deal](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-expands-launch-backlog-231818792.html)**
+
+Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
+
+SpaceNews • 2h ago
 
 ---
 
@@ -156,29 +164,19 @@ The Washington Post • 18h ago
 
 The planned institute targets AI and robotics training, certifications and internships. The Omaha launch starts a global partner search, pending board approval.
 
-Stock Titan • 7h ago
-
----
-
-**[The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps](https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps)**
-
-The new Hugging Face Reachy Mini App Store already hosts a library of over 200 community-built applications, and Reachy Mini owners will be able to download any of these free of charge to start
-
-VentureBeat • 1d ago
+Stock Titan • 5h ago
 
 ---
 
 **[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
 
-South China Morning Post • 10h ago
+South China Morning Post • 12h ago
 
 ---
 
-**[Genesis AI Unveils GENE-26.5, the First AI Brain to Enable Robots with Human-Level Physical Manipulation Capabilities](https://www.prnewswire.com/news-releases/genesis-ai-unveils-gene-26-5--the-first-ai-brain-to-enable-robots-with-human-level-physical-manipulation-capabilities-302763638.html)**
+**[Humanoid Robots Are the Next Phase of the AI Hype Cycle](https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests)**
 
-/PRNewswire/ -- Genesis AI, a global full-stack robotics company, today announced GENE-26.5, the first robotic brain to give robots human-level physical...
-
-PR Newswire • 1d ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -190,7 +188,7 @@ PR Newswire • 1d ago
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 627 • 👍 10 • ⏱️ 0:14 • 2h ago
+👁️ 2K • 👍 21 • ⏱️ 0:14 • 4h ago
 
 ---
 
@@ -200,7 +198,7 @@ Would You Dare to Date This Hyper Realistic Humanoid AI Android Cybergirl Robots
 
 📺 ejunky66
 
-👁️ 18K • 👍 361 • 💬 21 • ⏱️ 1:00 • 23h ago
+👁️ 19K • 👍 366 • 💬 21 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -210,17 +208,7 @@ In April, Ukrainian President Volodymr Zelensky claimed that Ukrainian-made robo
 
 📺 BBC World Service
 
-👁️ 37K • 👍 682 • 💬 121 • ⏱️ 7:35 • 1d ago
-
----
-
-**[Humanoid robot becomes buddhist monk in ceremony at Seoul temple](https://www.youtube.com/watch?v=GNqfdXKQPvo)**
-
-Watch as a humanoid robot professes that it will “devote himself” as it becomes a buddhist monk. Gabi, a 4.3 feet robot monk, ...
-
-📺 The Independent
-
-👁️ 14K • 👍 418 • 💬 227 • ⏱️ 1:59 • 1d ago
+👁️ 42K • 👍 772 • 💬 130 • ⏱️ 7:35 • 2d ago
 
 ---
 
@@ -234,23 +222,33 @@ The humanoid robot revolution just kicked into HYPER-SPEED — and you're not re
 
 ---
 
-**[Robot Movie Funny Mistakes 💩 #shorts #youtubeshorts](https://www.youtube.com/watch?v=7qWh__khI3U)**
-
-5 Biggest Mistakes In Robot Movie #shorts #youtubeshorts #robot #movie #mistakes #robot2.
-
-📺 Kashtman Expo
-
-👁️ 27K • ⏱️ 0:34 • 1d ago
-
----
-
 **[China Robot Dance ](https://www.youtube.com/watch?v=RODOkrw4UVM)**
 
 China Robot Dance is an amazing display of artificial intelligence and robotics from China, showcasing the country's ...
 
 📺 Naa Anveshana
 
-👁️ 270K • 👍 18K • 💬 1K • ⏱️ 16:03 • 1d ago
+👁️ 289K • 👍 18K • 💬 2K • ⏱️ 16:03 • 1d ago
+
+---
+
+**[Robot Movie Funny Mistakes 💩 #shorts #youtubeshorts](https://www.youtube.com/watch?v=7qWh__khI3U)**
+
+5 Biggest Mistakes In Robot Movie #shorts #youtubeshorts #robot #movie #mistakes #robot2.
+
+📺 Kashtman Expo
+
+👁️ 29K • ⏱️ 0:34 • 1d ago
+
+---
+
+**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
+
+You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
+
+📺 KTLA 5
+
+👁️ 24K • 👍 218 • 💬 88 • ⏱️ 2:14 • 2d ago
 
 ---
 
@@ -258,27 +256,27 @@ China Robot Dance is an amazing display of artificial intelligence and robotics 
 
 📺 Robot Julie 
 
-👁️ 24K • 👍 127 • ⏱️ 0:25 • 2d ago
+👁️ 28K • 👍 137 • ⏱️ 0:25 • 2d ago
+
+---
+
+**[🔥🤖 Unitree G1 Just Got a Serious Rival—Meet TienKung Omni! #robot #humanoidrobot #robotics #ai](https://www.youtube.com/watch?v=kA_PZVSouVE)**
+
+TienKung family gets a new member: TienKung Omni is coming — small body, seriously smart. From the teaser, Omni looks built ...
+
+📺 XRoboHub
+
+👁️ 61K • 👍 1K • 💬 101 • ⏱️ 0:28 • 6d ago
 
 ---
 
 **[🤖 Control a Robot Arm with Joystick!](https://www.youtube.com/watch?v=Z3UCTCq5OJ8)**
 
-Control a Robot Arm with One Joystick using Arduino! In this project, I built a simple DIY robot arm controller using an Arduino, ...
+Control a Robot Arm with One Joystick using Arduino! code link ...
 
 📺 MW Electronics Lab
 
-👁️ 163K • 💬 30 • ⏱️ 0:05 • 1d ago
-
----
-
-**[These Robots Sort Batteries With Perfect Timing 🤖⚡](https://www.youtube.com/watch?v=KRxSqhRZUTA)**
-
-This is a high-speed industrial automation system using two different robots working together in perfect synchronization. The fast ...
-
-📺 Unova
-
-👁️ 29K • 👍 94 • 💬 6 • ⏱️ 0:06 • 12h ago
+👁️ 167K • 💬 30 • ⏱️ 0:05 • 2d ago
 
 ---
 

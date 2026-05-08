@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-08T11:54:18.685557+00:00'
+updated: '2026-05-08T13:50:15.655094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 08, 2026 at 11:54 UTC  
+**Last Updated:** May 08, 2026 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 5h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 7h ago
 
 ---
 
@@ -49,31 +49,31 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 What is the “personality” of an LLM? What actually differentiates models psychometrically? Since LLMs entered public use, researchers have been giving them psychometric questionnaires, with mixed results. Their answers often do not seem to reflect the same psychological constructs these tests measure in humans. So we asked a slightly different question: What do LLM responses to psychometric questionnaires actually reflect? We analyzed responses to 45 validated psychometric questionnaires completed by 50 different LLMs. The strongest source of variation was whether a model endorsed items about inner experience: emotions, sensations, thoughts, imagery, empathy, and other forms of first-person experience. We call this factor the Pinocchio Dimension. Importantly, the Pinocchio Dimension is not a classical personality trait. It does not tell us whether a model is “extraverted,” “neurotic,” or “agreeable” in the human sense. Rather, it captures the extent to which a model treats the language of inner experience as self-applicable: whether it responds as if it had feelings, mental imagery, and an inner point of view, or instead as a system that reacts behaviorally to inputs. Preprint in the comments.
 
-14h ago
+16h ago
 
 ---
 
-**[Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation](https://www.reddit.com/r/artificial/comments/1t6b6uz/anthropic_secures_spacex_colossus_1_after_growing/)**
+**[AMD's local, open-source AI can now easily interact with your Gmail](https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/)**
 
-Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
+AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 22h ago
-
----
-
-**[Feels like AI is entering its “infrastructure matters” phase](https://www.reddit.com/r/artificial/comments/1t6p2ln/feels_like_ai_is_entering_its_infrastructure/)**
-
-A year ago, most discussions were about which model was smartest. Now it increasingly feels like the bigger differentiators are becoming: latency orchestration context handling reliability inference economics developer workflow deployment flexibility The interesting shift is that model quality is improving across the board fast enough that “best benchmark” doesn’t automatically translate into “best real-world experience” anymore. We’re seeing more teams optimize around: workload routing hybrid local/cloud setups smaller specialized models faster iteration cycles predictable scaling costs In a weird way, AI feels like it’s maturing into a systems/infrastructure problem almost as much as a model problem. Curious if others are seeing the same shift or if frontier model capability still dominates most decisions for your workflows.
-
-13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 34m ago
 
 ---
 
-**[Google enterprise business trial, Just started and it's already stopped making images after 3?](https://www.reddit.com/r/artificial/comments/1t74v5n/google_enterprise_business_trial_just_started_and/)**
+**[Stop using USE.AI](https://www.reddit.com/r/artificial/comments/1t76vtf/stop_using_useai/)**
 
-So I just got the trial, wanted to finally test it out. I got the business enterprise trial and went to test out nano banana and after 3 images, it now seems to not be generating anything... Hasn't told me I have reached a limit or a time out. There's nothing. It's just the little blue symbol doing nothing. Is that it? That's what the trial offers? 3 images. I only did 3 images because the first image wasn't good enough lol. I imagine I would need to do 10 images to get the 1 image I wanted. So am I doing something wrong? Where do I check the quota? There's hardly any information on the business.gemini dashboard. Can't see quote, can't even see it says I'm on a trial although I know I went through the purchasing for it where it was 0 cost. How am I meant to give it a proper go if it limits me like this?
+Just a heads up for anyone using Use.AI — double check your billing after cancellation. I canceled my 7-day trial subscription mid april, but I still received another charge on May 7. Not saying it’s a scam(?) or anything, but make sure you: check if cancellation is immediate or only stops renewal; mine was fully cancelled but still charging me remove payment methods if possible monitor your bank statements after canceling keep screenshots/emails of your cancellation Also, if you paid using PayPal, email them right away so they can process the refund faster. In my experience, the PayPal-related support email responded more helpfully compared to the other customer service emails. Emails I contacted: [paypal@use.ai](mailto:paypal@use.ai) [help@use.ai](mailto:help@use.ai) Hopefully this helps someone avoid confusion or unexpected charges.
 
-39m ago
+1h ago
+
+---
+
+**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.reddit.com/r/artificial/comments/1t76r14/nanoleaf_bets_its_future_on_robots_red_light/)**
+
+“The smart home is getting kind of boring.”
+
+🔗 [The Verge](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness) • 1h ago
 
 ---
 
@@ -81,31 +81,31 @@ So I just got the trial, wanted to finally test it out. I got the business enter
 
 Hey everyone 👋 AI moves fast. Keeping up means checking Twitter, YouTube, newsletters, and a dozen tech sites every day. None of it in one place. I built AIWire to fix that. One clean feed. 20+ trusted sources. Updates every 30 minutes. Completely free, no account needed. Just the stories that came from sources worth reading, open it and you're caught up. **Sources include:** * OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI * MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica * YouTube: Andrej Karpathy, AI Explained, Two Minute Papers * Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites **Features:** * Auto-refreshes every 30 minutes, always current * Top Stories from the last 24h pinned at the top * Filter by source, date, and category * Bookmarks to save articles for later Built for people who want to stay current, not just scroll. 🔗 aiwire.app Full source list at aiwire.app/sources Feedback is very welcome; what sources are missing, and what would make this more useful for you?
 
-1h ago
+3h ago
 
 ---
 
-**[Anthropic Eyes $50B as JD Vance Quietly Calls Musk and Altman on US Banks](https://www.reddit.com/r/artificial/comments/1t7322r/anthropic_eyes_50b_as_jd_vance_quietly_calls_musk/)**
+**[Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation](https://www.reddit.com/r/artificial/comments/1t6b6uz/anthropic_secures_spacex_colossus_1_after_growing/)**
 
-Anthropic is reportedly nearing a $1 trillion valuation as JD Vance privately discusses AI risks with Musk, Altman, and AI leaders.
+Anthropic grew 80x in Q1 2026, crossed a $30B revenue run rate, & hit a $1.2T valuation. Bank of America warns its IPO could end stock market bull run.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-1-trillion-valuation-jd-vance-ai-call/) • 2h ago
-
----
-
-**[Coinbase Cuts 700 Jobs and CEO Warns Every Company Will Do the Same](https://www.reddit.com/r/artificial/comments/1t6gf3v/coinbase_cuts_700_jobs_and_ceo_warns_every/)**
-
-Coinbase is cutting 700 jobs, or 14% of its staff, as CEO Brian Armstrong warns every company will follow. Q1 earnings drop today.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/) • 18h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/) • 23h ago
 
 ---
 
-**[Tried the Seedance-in-presentation use case I mentioned awhile ago — here's the actual workflow](https://www.reddit.com/r/artificial/comments/1t6w7ll/tried_the_seedanceinpresentation_use_case_i/)**
+**[Feels like AI is entering its “infrastructure matters” phase](https://www.reddit.com/r/artificial/comments/1t6p2ln/feels_like_ai_is_entering_its_infrastructure/)**
 
-Hey it's me again, I posted a week or two ago about the non-obvious application of Seedance 2.0. You can view the original thread here: https://www.reddit.com/r/artificial/comments/1szkpjb/seedance_20_whats_the_most_interesting_nonobvious/ The reason why I'm so interested in this scenario is because both my parents are teachers and I have seen them waste away countless hours in building slide decks for their students. More often then not, they have supplementary material to show the class so they do a lot of switching back and forth between sources, videos, etc. When I first saw the use case of embedding a Seedance video in a presentation my first thoughts were: this will greatly reduce students' attention lost from switching between teaching materials. So I did some searching and gave the web-app a test. If anyone is interested in trying it out yourself here is the link: pi.inc Conclusion: The end product is 9/0. The workflow however is about 7/10. The problem lies in the fact that you have to generate your video and your deck in two different interfaces. And you have to download your video first and then upload it back into your deck. Pi does give you a workspace, one for your decks and another for your video, but it can't pull video from said workspace. So it takes a minimum of 2 prompts and downloading/uploading to get everything done: generate video and download it generate slide and upload video What I think would be better: generate slide generate video and embed It also has GPT-image2 and you can directly create in the slide deck interface. Now why can't I do the same with Seedance 2.0? I'm not a tech person, is there an underlying difference between generating a video vs an image post process? I'm going to try out some other AI presentation tools soon, if I find anything interesting maybe I'll post again!
+A year ago, most discussions were about which model was smartest. Now it increasingly feels like the bigger differentiators are becoming: latency orchestration context handling reliability inference economics developer workflow deployment flexibility The interesting shift is that model quality is improving across the board fast enough that “best benchmark” doesn’t automatically translate into “best real-world experience” anymore. We’re seeing more teams optimize around: workload routing hybrid local/cloud setups smaller specialized models faster iteration cycles predictable scaling costs In a weird way, AI feels like it’s maturing into a systems/infrastructure problem almost as much as a model problem. Curious if others are seeing the same shift or if frontier model capability still dominates most decisions for your workflows.
 
-8h ago
+15h ago
+
+---
+
+**[Google enterprise business trial, Just started and it's already stopped making images after 3?](https://www.reddit.com/r/artificial/comments/1t74v5n/google_enterprise_business_trial_just_started_and/)**
+
+So I just got the trial, wanted to finally test it out. I got the business enterprise trial and went to test out nano banana and after 3 images, it now seems to not be generating anything... Hasn't told me I have reached a limit or a time out. There's nothing. It's just the little blue symbol doing nothing. Is that it? That's what the trial offers? 3 images. I only did 3 images because the first image wasn't good enough lol. I imagine I would need to do 10 images to get the 1 image I wanted. So am I doing something wrong? Where do I check the quota? There's hardly any information on the business.gemini dashboard. Can't see quote, can't even see it says I'm on a trial although I know I went through the purchasing for it where it was 0 cost. How am I meant to give it a proper go if it limits me like this?
+
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey it's me again, I posted a week or two ago about the non-obvious application 
 
 Been building this for a while. Sharing now because it's past the point where I'm embarrassed by the code. **The stack:** * Python 3.12, 18k+ lines, 470+ tests passing * Gemini 2.5 Flash (primary) + Ollama qwen3:4b (local fallback via circuit breaker) * ChromaDB for persistence — hybrid retrieval weighted at 55% semantic / 25% importance / 20% recency * `sentence-transformers all-MiniLM-L6-v2` (384-dim) for local embeddings — fully offline, no API call needed for retrieval * SQLite for cognitive state * FastAPI web UI at `localhost:8765` plus Rich TUI and CLI modes **The part I want feedback on — the cognitive architecture:** The processing pipeline runs in phases: Perception → Reflection → Integration → Aspiration → Expression. 22 self-registering plugins compete for attention through a Global Workspace Theory implementation — capacity limit 5, competitive scoring, spotlight mechanism. There's also an IIT consciousness proxy (Φ approximation across a 7-dimension qualia space). I want to be upfront: this is a *proxy*, not a real Φ calculation. Full IIT computation is intractable at this scale. What it does is give the system a coherence signal it can actually respond to. **Modules worth looking at:** * [`being.py`](http://being.py/) — live mood, energy, curiosity, attachment, agency state. Affects downstream processing, not just output text. * [`homeostasis.py`](http://homeostasis.py/) — 7 survival needs that create internal pressure. When "coherence" is low the system responds differently than when it's high. * `self_modify.py` — assessment, lesson extraction, meta-learning loop. The model improves its own behavior patterns over time. * [`intuition.py`](http://intuition.py/) — 5 hunch types, felt-sense modeling, pattern validation history **Resilience:** Per-module circuit breakers, health monitor, 120s watchdog. The Ollama fallback kicks in if Gemini goes down mid-session — the user barely notices. **Why I gave it an INFJ personality model:** Honest answer — the cognitive stack (Ni/Fe/Ti/Se) mapped cleanly to architectural decisions I was already making. Ni = long-horizon retrieval weighting. Fe = relational context weighting. Ti = the internal critic pass. Se = the embodiment layer grounding abstract processing in a live body schema. Personality typing gave me a coherent *constraint system* to design against. It's not aesthetic, it's functional. Repo: [github.com/timeless-hayoka/infj-bot](https://github.com/timeless-hayoka/infj-bot) Specific things I want feedback on: the GWT scoring implementation, whether the IIT proxy framing is defensible, and whether the hybrid retrieval weights make sense.
 
-9h ago
+11h ago
 
 ---
 
@@ -121,53 +121,39 @@ Been building this for a while. Sharing now because it's past the point where I'
 
 ## Google News: "ai"
 
-**[Cloudflare to cut about 20% workforce as AI adoption reshapes operations](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)**
+**[France is fan favorite for the FIFA World Cup — but AI is backing another nation for glory, says BofA](https://www.cnbc.com/2026/05/07/france-is-world-cup-favorite-but-ai-is-backing-another-winner.html)**
 
-Reuters • 15h ago
+The 2026 FIFA World Cup is expected to add over $40 billion to the global GDP with its most lucrative edition ever.
+
+CNBC • 23h ago
 
 ---
 
-**[Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes](https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html)**
+**[Cloudflare to cut about 20% workforce as AI adoption reshapes operations](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)**
+
+Reuters • 17h ago
+
+---
+
+**[Cloudflare stock sinks 16% after earnings as company cuts 1,100 employees due to AI changes](https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html)**
 
 The cloud provider announced it is laying off 20% of its workforce as agentic artificial intelligence "fundamentally changes" the company's work.
 
-CNBC • 13h ago
+CNBC • 15h ago
 
 ---
 
-**[Apple AirPods with cameras are coming](https://fortune.com/2026/05/08/apple-airpods-cameras-cloudflare-agentic-ai-layoffs-google-fitbit-air/)**
+**[Cloudflare's slowing growth disappoints investors betting on AI boost](https://finance.yahoo.com/markets/stocks/articles/cloudflares-slowing-growth-disappoints-investors-121445808.html)**
 
-Plus: Airbnb, Coinbase, CoreWeave, EU, Kalshi, Lyft, Ramp.
+Cloudflare shares tumbled more than 15% in premarket trading on Friday, after its quarterly revenue forecast disappointed investors who ‌had bet the stock would be a major beneficiary in the ‌race to adopt artificial intelligence.  The networking and cybersecurity services provider will also lay off about 20% ​of staff due to greater use of AI tools, a move that Jefferies said could hurt near-term growth.  Following a 43% rally since its last quarterly results in February, analysts said expectations were high for the company, only for its ‌forecast to flag slower growth ⁠as rising AI infrastructure costs squeeze margins.
 
-Fortune • 1h ago
-
----
-
-**[‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?](https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators)**
-
-A booming tech sector has disrupted translation jobs in publishing – but they could be needed for a while longer yet
-
-The Guardian • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[A cloud computing stock is soaring more than 25%. Here’s what’s driving the rally](https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html)**
+**[A.I. Populism Is Here. And No One Is Ready.](https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html)**
 
-Cybersecurity and cloud computing firm Akamai reported first-quarter earnings on Thursday and saw its cloud infrastructure business grow 40% year-on-year.
-
-CNBC • 27m ago
-
----
-
-**[White House distances itself from tighter AI regulation](https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837)**
-
-Politico • 12h ago
-
----
-
-**[AI’s Promise, Concern Puts Trump Administration in Bind](https://www.bloomberg.com/news/newsletters/2026-05-08/ai-s-promise-concern-puts-trump-administration-in-bind)**
-
-Bloomberg.com • 24m ago
+The New York Times • 4h ago
 
 ---
 
@@ -175,23 +161,37 @@ Bloomberg.com • 24m ago
 
 As AI systems like Anthropic’s Mythos expose hidden security flaws, Trump officials are starting to rethink their hands-off approach to the technology.
 
-The Washington Post • 22m ago
+The Washington Post • 5m ago
 
 ---
 
-**[The New Wild West of AI Kids’ Toys](https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/)**
+**[The Secret to Understanding AI](https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/)**
 
-These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
+“Imagine the tech without the tech companies.”
 
-WIRED • 1h ago
+The Atlantic • 22h ago
 
 ---
 
-**[NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)**
+**[What's behind Washington's AI safety pivot](https://www.axios.com/2026/05/08/ai-safety-pivot-trump-administration-china)**
 
-NVIDIA (NASDAQ: NVDA) and IREN Limited (NASDAQ: IREN) (“IREN”) today announced a strategic partnership to accelerate deployment of next-generation AI infrastructure.
+Axios • 49m ago
 
-NVIDIA Newsroom • 7h ago
+---
+
+**[How dangerous is Anthropic’s Mythos AI? | Bruce Schneier](https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai)**
+
+The system’s power is comparable to others – but it still has frightening implications for the future of hacking
+
+The Guardian • 1h ago
+
+---
+
+**[CarPlay now works with three top AI chatbot apps](https://9to5mac.com/2026/05/08/carplay-now-works-with-three-top-ai-chatbot-apps/)**
+
+CarPlay continues to give drivers more choice than ever when it comes to which services to use on the road....
+
+9to5Mac • 39m ago
 
 ---
 
@@ -201,7 +201,7 @@ NVIDIA Newsroom • 7h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 695 • 💬 599 • 17h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 738 • 💬 630 • 19h ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -209,7 +209,7 @@ NVIDIA Newsroom • 7h ago
 
 Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:
 
-⬆️ 542 • 💬 301 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+⬆️ 542 • 💬 302 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
 
 ---
 
@@ -223,15 +223,7 @@ Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent 
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 277 • 💬 327 • 20h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
-
----
-
-**[AI Product Graveyard](https://news.ycombinator.com/item?id=48021968)**
-
-Curated list of AI tools and AI startups that have shut down, been acquired and folded, or had their domains lapse. Updated as our editorial team confirms each death.
-
-⬆️ 254 • 💬 89 • 2d ago • [tooldirectory.ai](https://tooldirectory.ai/ai-graveyard)
+⬆️ 282 • 💬 331 • 22h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -239,13 +231,21 @@ Curated list of AI tools and AI startups that have shut down, been acquired and 
 
 According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
 
-⬆️ 235 • 💬 210 • 2d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+⬆️ 235 • 💬 211 • 2d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
 
 ---
 
 **[Show HN: Airbyte Agents – context for agents across multiple data sources](https://news.ycombinator.com/item?id=48023496)**
 
-⬆️ 145 • 💬 45 • 2d ago
+⬆️ 146 • 💬 45 • 2d ago
+
+---
+
+**[Two Home Affairs officials suspended after AI 'hallucinations' found](https://news.ycombinator.com/item?id=48053842)**
+
+AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
+
+⬆️ 118 • 💬 27 • 18h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
@@ -257,14 +257,6 @@ Xbox CEO Asha Sharma reshuffled leadership and axed Copilot features as the divi
 
 ---
 
-**[Two Home Affairs officials suspended after AI 'hallucinations' found](https://news.ycombinator.com/item?id=48053842)**
-
-AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
-
-⬆️ 108 • 💬 23 • 16h ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
-
----
-
 **[FFmpeg developer calls out OxideAV for AI license laundering of his code](https://news.ycombinator.com/item?id=48031185)**
 
 Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
@@ -273,9 +265,27 @@ Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
 
 ---
 
+**[Why airlines are always going bankrupt](https://news.ycombinator.com/item?id=48025282)**
+
+How aviation companies (fail to) make a profit
+
+⬆️ 72 • 💬 72 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-airlines-are-always-going-bankrupt)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
+
+**[Grok AI FREE Trick Nobody Is Talking About (Unlimited Videos)](https://www.youtube.com/watch?v=F_FBCvz-Y_4)**
+
+Grok AI FREE Trick Nobody Is Talking About (Unlimited Videos) Discover the SECRET way to use Grok AI for FREE and create ...
+
+📺 AI Man 
+
+👁️ 1K • 👍 183 • 💬 127 • ⏱️ 7:47 • 3h ago
+
+---
 
 **[OH SH*T! The Banks are Dumping AI Loans!](https://www.youtube.com/watch?v=eIz2MrR5xMQ)**
 
@@ -283,67 +293,7 @@ The biggest U.S. banks are quietly dumping their AI debt — a massive red flag 
 
 📺 Steven Van Metre
 
-👁️ 51K • 👍 2K • 💬 232 • ⏱️ 16:12 • 1d ago
-
----
-
-**[Google’s New AI Is The OpenClaw Killer](https://www.youtube.com/watch?v=nov9uoIQt6g)**
-
-Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1-0-airevolutionx-lVqpUi Google is testing Remy, ...
-
-📺 AI Revolution
-
-👁️ 56K • 👍 1K • 💬 75 • ⏱️ 13:34 • 1d ago
-
----
-
-**[How to Make AI Videos That Really Look Like You (Full Guide)](https://www.youtube.com/watch?v=st7NRTxeKC8)**
-
-Make AI Videos with Yourself using OpenArt https://youricreates.com/realistic-AI In this video, I show the full workflow I used to ...
-
-📺 Youri van Hofwegen
-
-👁️ 12K • 💬 13 • ⏱️ 13:14 • 20h ago
-
----
-
-**[The hidden fraud behind the AI music boom](https://www.youtube.com/watch?v=7xkZDgMPgVI)**
-
-AI music is "flooding" streaming platforms. Deezer says it is now receiving nearly 75000 fully AI-generated tracks a day, which ...
-
-📺 Sky News
-
-👁️ 12K • 👍 244 • 💬 80 • ⏱️ 8:36 • 23h ago
-
----
-
-**[LTX 2.3 Sneaky Drop! Plus: A New AI Video Model!](https://www.youtube.com/watch?v=MEfNJA5qhXc)**
-
-AI Video moves fast — and LTX 2.3 just quietly added some very interesting new video-to-video controls inside LTX Studio and ...
-
-📺 Theoretically Media
-
-👁️ 11K • 👍 591 • 💬 72 • ⏱️ 18:43 • 12h ago
-
----
-
-**[The AI Land Grab is Just Getting Started](https://www.youtube.com/watch?v=QlKWVTZ-W1E)**
-
-Learn to code - https://www.boot.dev?promo=BOOTSTUBE AI companies aren't just competing on models anymore. Over the last ...
-
-📺 Boot dev
-
-👁️ 17K • 👍 894 • 💬 77 • ⏱️ 19:43 • 19h ago
-
----
-
-**[Ozzy Man Reviews: AI Slop (PART 3)](https://www.youtube.com/watch?v=sz8T6lYxhUw)**
-
-Welcome back to another overwhelming day on the internet. Send ya non-ai videos ya shot yourselves into: ...
-
-📺 Ozzy Man Reviews
-
-👁️ 127K • 👍 8K • 💬 468 • ⏱️ 6:45 • 1d ago
+👁️ 51K • 👍 2K • 💬 233 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -353,17 +303,57 @@ Apparently AI is way easier to break than I thought. Subscribe for more! https:/
 
 📺 Austin Evans
 
-👁️ 64K • 👍 2K • 💬 232 • ⏱️ 13:06 • 20h ago
+👁️ 66K • 👍 2K • 💬 245 • ⏱️ 13:06 • 22h ago
 
 ---
 
-**[I Asked AI to Calculate How Much Damage Trump Has Done to the US](https://www.youtube.com/watch?v=Rek6C_43SAg)**
+**[Google’s New AI Is The OpenClaw Killer](https://www.youtube.com/watch?v=nov9uoIQt6g)**
 
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
+Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1-0-airevolutionx-lVqpUi Google is testing Remy, ...
 
-📺 I Ask AI
+📺 AI Revolution
 
-👁️ 168K • 👍 8K • 💬 1K • ⏱️ 32:43 • 1d ago
+👁️ 58K • 👍 1K • 💬 77 • ⏱️ 13:34 • 1d ago
+
+---
+
+**[The Only AI Tools You’ll Ever Need to Get Rich in 2026](https://www.youtube.com/watch?v=np6CwvTYTAM)**
+
+Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60 Are you building an AI software company? Partner ...
+
+📺 Dan Martell
+
+👁️ 44K • 👍 2K • 💬 231 • ⏱️ 22:46 • 1d ago
+
+---
+
+**[The hidden fraud behind the AI music boom](https://www.youtube.com/watch?v=7xkZDgMPgVI)**
+
+AI music is "flooding" streaming platforms. Deezer says it is now receiving nearly 75000 fully AI-generated tracks a day, which ...
+
+📺 Sky News
+
+👁️ 12K • 👍 259 • 💬 85 • ⏱️ 8:36 • 1d ago
+
+---
+
+**[The AI Land Grab is Just Getting Started](https://www.youtube.com/watch?v=QlKWVTZ-W1E)**
+
+Learn to code - https://www.boot.dev?promo=BOOTSTUBE AI companies aren't just competing on models anymore. Over the last ...
+
+📺 Boot dev
+
+👁️ 18K • 👍 952 • 💬 88 • ⏱️ 19:43 • 21h ago
+
+---
+
+**[Ozzy Man Reviews: AI Slop (PART 3)](https://www.youtube.com/watch?v=sz8T6lYxhUw)**
+
+Welcome back to another overwhelming day on the internet. Send ya non-ai videos ya shot yourselves into: ...
+
+📺 Ozzy Man Reviews
+
+👁️ 140K • 👍 8K • 💬 508 • ⏱️ 6:45 • 1d ago
 
 ---
 
@@ -373,7 +363,17 @@ IBM CEO Arvind Krishna assesses government oversight of artificial intelligence,
 
 📺 Fox Business
 
-👁️ 14K • 👍 214 • 💬 81 • ⏱️ 9:05 • 2d ago
+👁️ 15K • 👍 219 • 💬 80 • ⏱️ 9:05 • 2d ago
+
+---
+
+**[Georgia Tech get three hours to build an app using Claude AI](https://www.youtube.com/watch?v=I3NGtWZTGGg)**
+
+Students at Georgia Tech had three hours to build an app using Claude AI. What did the come up with? NBC News' Kathy Park ...
+
+📺 NBC News
+
+👁️ 35K • 👍 587 • 💬 118 • ⏱️ 2:42 • 11h ago
 
 ---
 
@@ -389,7 +389,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 92,968 • ❤️ 407 • 11h ago
+⬇️ 92,968 • ❤️ 422 • 13h ago
 
 ---
 
@@ -401,7 +401,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 1,061,344 • ❤️ 3,738 • 2d ago
+⬇️ 1,061,344 • ❤️ 3,744 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 6,810 • ❤️ 234 • 3h ago
+⬇️ 6,810 • ❤️ 251 • 5h ago
 
 ---
 
@@ -425,7 +425,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 173,110 • ❤️ 1,357 • 15d ago
+⬇️ 173,110 • ❤️ 1,360 • 15d ago
 
 ---
 
@@ -437,7 +437,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 5,077 • ❤️ 231 • 11d ago
+⬇️ 5,077 • ❤️ 234 • 11d ago
 
 ---
 
@@ -449,7 +449,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 42,529 • ❤️ 154 • 1d ago
+⬇️ 42,529 • ❤️ 159 • 1d ago
 
 ---
 
@@ -461,7 +461,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 33,314 • ❤️ 150 • 2d ago
+⬇️ 33,314 • ❤️ 154 • 2d ago
 
 ---
 
@@ -473,7 +473,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 26,600 • ❤️ 481 • 3h ago
+⬇️ 26,600 • ❤️ 482 • 5h ago
 
 ---
 
@@ -485,19 +485,19 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,958,217 • ❤️ 1,183 • 14d ago
+⬇️ 1,958,217 • ❤️ 1,184 • 14d ago
 
 ---
 
-**[Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**
+**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
 
-*Mistral AI_*
+*Qwen*
 
-Mistral Medium 3.5 is a dense 128B multimodal model with a 256k context window, excelling at instruction following, reasoning, and coding tasks with configurable reasoning effort and native function calling for agentic applications.
+Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
 
-`127.7B`
+`image-text-to-text` `36.0B`
 
-⬇️ 21,300 • ❤️ 297 • 3d ago
+⬇️ 3,363,621 • ❤️ 1,667 • 14d ago
 
 ---
 
@@ -579,7 +579,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 92 • 💬 10 • ⭐ 8,389 • 4d ago
+▲ 95 • 💬 10 • ⭐ 8,389 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -592,7 +592,7 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 62,301 • 7mo ago
+▲ 161 • 💬 2 • ⭐ 62,374 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -611,15 +611,17 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
+🏢 PaddlePaddle
 
-▲ 4 • 💬 0 • ⭐ 14,265 • 5mo ago
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
+▲ 124 • 💬 8 • ⭐ 77,393 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -631,7 +633,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 81 • 💬 6 • ⭐ 19,894 • 6mo ago
+▲ 81 • 💬 6 • ⭐ 19,936 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -647,7 +649,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 12.2k • 🔱 2.8k • 11d ago
+⭐ 12.3k • 🔱 2.8k • 11d ago
 
 ---
 
@@ -657,7 +659,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.0k • 🔱 716 • 3d ago
+⭐ 11.1k • 🔱 717 • 3d ago
 
 ---
 
@@ -667,7 +669,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.8k • 🔱 450 • 2h ago
+⭐ 5.8k • 🔱 450 • 4h ago
 
 ---
 
@@ -677,7 +679,7 @@ Generate production-quality SVG+PNG technical diagrams from natural language. 7 
 
 `Python` `agent-workflows` `ai` `claude-code` `developer-tools` `diagrams`
 
-⭐ 5.7k • 🔱 519 • 4d ago
+⭐ 5.7k • 🔱 520 • 4d ago
 
 ---
 
@@ -687,7 +689,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 372 • 2h ago
+⭐ 5.2k • 🔱 371 • 21m ago
 
 ---
 
@@ -697,7 +699,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 3.9k • 🔱 491 • 4h ago
+⭐ 4.0k • 🔱 493 • 1h ago
 
 ---
 
@@ -707,7 +709,7 @@ MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M
 
 `Python` `audio-tokenizer` `chinese` `english` `multi-modality` `multilingual`
 
-⭐ 2.8k • 🔱 362 • 2d ago
+⭐ 2.8k • 🔱 364 • 2d ago
 
 ---
 
@@ -717,7 +719,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 354 • 14d ago
+⭐ 2.7k • 🔱 357 • 14d ago
 
 ---
 
@@ -727,7 +729,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 688 • 8d ago
+⭐ 2.5k • 🔱 698 • 38m ago
 
 ---
 
@@ -737,7 +739,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.3k • 🔱 211 • 2h ago
+⭐ 2.3k • 🔱 212 • 29m ago
 
 ---
 
