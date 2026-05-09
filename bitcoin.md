@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-08T23:31:49.650502+00:00'
+updated: '2026-05-09T02:53:42.580583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 08, 2026 at 23:31 UTC  
+**Last Updated:** May 09, 2026 at 02:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,138.20
+### $80,193.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.9%  
-**30d:** +11.6%  
-**90d:** +14.0%  
-**1y:** -22.1%  
+**24h:** +1.0%  
+**7d:** +2.3%  
+**30d:** +10.2%  
+**90d:** +14.6%  
+**1y:** -23.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1608.87B
+**Market Cap:** $1609.94B
 Rank #1
 
-**Circulating Supply:** 20,026,571 BTC
+**Circulating Supply:** 20,026,637 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.3%
+-36.2%
 
 **All-Time Low:** $67.81
-+118372.2%
++118453.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-rare-bottom-signal-holders-not-selling/
 
-7h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-r
 
 Taken these S21 back from the grave and giving them life again. They told me $250 to fix this I said I’ll do it myself. YouTube !!!!!
 
-4h ago
+8h ago
 
 ---
 
@@ -105,15 +105,7 @@ Taken these S21 back from the grave and giving them life again. They told me $25
 
 The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
 
-10h ago
-
----
-
-**[The truth behind panic selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t7n5uw/the_truth_behind_panic_selling_bitcoin/)**
-
-Is because they don't understand it in a first place. Never buy something you don't understand.
-
-48m ago
+13h ago
 
 ---
 
@@ -121,7 +113,15 @@ Is because they don't understand it in a first place. Never buy something you do
 
 All jokes aside, when I saw the notification I jumped to the app to see if I could stack some sats on discount but I missed my chance…
 
-15h ago
+18h ago
+
+---
+
+**[The truth behind panic selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1t7n5uw/the_truth_behind_panic_selling_bitcoin/)**
+
+Is because they don't understand it in a first place. Never buy something you don't understand.
+
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ All jokes aside, when I saw the notification I jumped to the app to see if I cou
 
 Wanted to actually *see* the network breathe instead of refreshing mempool.space tabs, so I built this. When a pool mines a block, rays fire from that pool's location outward to every full node tracked (~120 visible). **What's shown** - Live block propagation (mempool.space WS) - Pool locations + last-30 share (Foundry, MARA, AntPool, ViaBTC, etc.) - Full nodes by country (Bitnodes) - Time since last block — turns red past 10 min avg - Halving countdown — block 1,050,000, ~April 2028, next reward 1.5625 BTC - Median fee sat/vB sparkline (last 30 blocks) - Click any block in the feed → full metadata + mempool.space explorer link - Click any pool/node on the globe → tooltip with details All public free data — no auth, no signup, no ads, no tracking. Not affiliated with mempool.space or Bitnodes; just consuming their open data. Personal side project, not a service. Desktop is intended view; mobile works (cards stack vertically) but less immersive.
 
-🔗 [Bitcoin Globe](https://bitcoin.gofire.info) • 10h ago
+🔗 [Bitcoin Globe](https://bitcoin.gofire.info) • 13h ago
 
 ---
 
@@ -137,7 +137,7 @@ Wanted to actually *see* the network breathe instead of refreshing mempool.space
 
 Starcloud, an Nvidia-backed orbital data center startup, said it will start mining Bitcoin from space later this year when its second spacecraft is launched, positioning it to become the first company to mine Bitcoin off Earth.Starcloud “will be the first to mine Bitcoin in space,” the startup’s CE…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 15h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Starcloud, an Nvidia-backed orbital data center startup, said it will start mini
 
 The Stratum v2 Working Group announces today that ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation, and DMND have joined the working group to advance the adoption of the Stratum v2 protocol. The working group was founded in 2022 by Braiins and Spiral to develop and maintain the Stratum v2 protocol as an open and vendor-neutral specification usable by the Bitcoin mining ecosystem. The protocol is an upgrade to the original Stratum mining protocol, bringing massive efficiency gains, privacy, security, and functionality that can be used to improve overall mining decentralization. The onboarding of the new members, all substantial players in the mining ecosystem, represents a big leap forward for the working group’s progress in ensuring proper functioning and compatibility across real-world mining operations at scale. It also shows a growing consensus in the mining ecosystem that Stratum v2 is the direction to take going into the future. “We’re proud to support the broader adoption of Stratum V2. Aligning around an open, interoperable standard enables the industry to collaborate more effectively and drive improvements in efficiency, security and decentralization,” said Andy Zhou, CEO of ANTPOOL. Stratum v2 supports mechanisms for more efficient management of large fleets of miners, is end-to-end encrypted, and allows individual miners to produce their own block templates with supporting pools (among other features). Kenway Wang, CTO of Spiderpool had this to say: “Decentralization is core to our mission. Stratum V2 supports this by enabling miner-constructed templates, while also improving efficiency, especially for miners in bandwidth-constrained environments.”
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group) • 11h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group) • 14h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Stratum v2 Working Group announces today that ANTPOOL, Block Inc, F2Pool, Fo
 
 Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from now, 0.1 Bitcoin will be a year's living expenses.
 
-19h ago
+22h ago
 
 ---
 
@@ -161,33 +161,19 @@ Perhaps 0.1 Bitcoin is just a month's living expenses now, but ten years from no
 
 ## Google News: "bitcoin"
 
+**[CryptoQuant says bitcoin profit-taking could increase further amid 'bear market rally'](https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally)**
+
+Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
+
+The Block • 6h ago
+
+---
+
 **[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
 
 Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
-Fortune • 7h ago
-
----
-
-**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
-
-Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
-
-CNBC • 2d ago
-
----
-
-**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
-
-WSJ • 3d ago
-
----
-
-**[Crypto traders rush to hedge after bitcoin drops below $80,000: Crypto Markets Today](https://www.coindesk.com/markets/2026/05/08/bitcoin-retreats-below-usd80-000-liquidating-usd300-million-in-futures-bets)**
-
-BTC fell under $80,000 after U.S. strikes in Iran sent oil briefly above $100, triggering liquidations and a shift toward bearish positioning.
-
-CoinDesk • 12h ago
+Fortune • 11h ago
 
 ---
 
@@ -195,27 +181,43 @@ CoinDesk • 12h ago
 
 Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.
 
-CNBC • 10h ago
+CNBC • 13h ago
 
 ---
 
-**[Bitcoin Price $0.02 Drop Scare — Revolut Glitch Gives Users Nightmare Scenario](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-0-02-drop-110215897.html)**
+**[The Easiest Way to Get Bitcoin Exposure Without Buying It Directly](https://finance.yahoo.com/markets/crypto/articles/easiest-way-bitcoin-exposure-without-213300089.html)**
 
-Revolut users panicked after a glitch displayed Bitcoin crashing to $0.02. Users flocked to X to share screenshots. The incident echoes previous crypto pricing glitches ...
+More than a dozen different spot Bitcoin ETFs now offer easy 1-to-1 exposure to the price of the cryptocurrency.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
 
-Bloomberg.com • 8h ago
+Bloomberg • 11h ago
 
 ---
 
-**[JPMorgan predicts a $30B Bitcoin buy is happening this year](https://www.thestreet.com/crypto/markets/jpmorgan-predicts-a-30b-bitcoin-buy-is-happening-this-year)**
+**[Coinbase (COIN) bounces 10%, Solana, LINK, SUI outperform as bitcoin (BTC) holds $80K](https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000)**
 
-thestreet.com • 11h ago
+Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules.
+
+CoinDesk • 5h ago
+
+---
+
+**[Why The U.S. Military Just Turned On A Bitcoin Node — And What “Power Projection” Really Means](https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military)**
+
+“Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
+
+WSJ • 3d ago
 
 ---
 
@@ -227,11 +229,11 @@ Forbes • 1d ago
 
 ---
 
-**[TeraWulf’s $21 million HPC revenue surpasses bitcoin mining for first time in Q1](https://www.theblock.co/post/400578/terawulfs-21-million-hpc-revenue-surpasses-bitcoin-mining-first-time-q1)**
+**[IREN Shares Jump as Nvidia Deal Sharpens Bitcoin Miner’s AI Pivot](https://finance.yahoo.com/markets/stocks/articles/iren-shares-jump-nvidia-deal-022000427.html)**
 
-Former pure-play bitcoin miners like TeraWulf are starting to report AI and HPC revenue overtaking their mining segments.
+IREN Limited (NASDAQ: $IREN) shares jumped in after-hours trading on Thursday after the company announced a new Nvi...
 
-The Block • 7h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -243,7 +245,7 @@ The Block • 7h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 2 • 💬 1 • 3h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 6h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -279,17 +281,17 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 ---
 
-**[The wild life and brutal death of a crypto hustler](https://news.ycombinator.com/item?id=48006567)**
-
-⬆️ 4 • 💬 0 • 4d ago • [thelogic.co](https://thelogic.co/news/the-big-read/kevin-mirshahi-bitcoin-cryptocurrency-influencer-murder/)
-
----
-
 **[Why Tennessee just banned cryptocurrency ATMs](https://news.ycombinator.com/item?id=48067524)**
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 3 • 💬 0 • 4h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 7h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+
+---
+
+**[The wild life and brutal death of a crypto hustler](https://news.ycombinator.com/item?id=48006567)**
+
+⬆️ 4 • 💬 0 • 4d ago • [thelogic.co](https://thelogic.co/news/the-big-read/kevin-mirshahi-bitcoin-cryptocurrency-influencer-murder/)
 
 ---
 
@@ -305,7 +307,7 @@ Accelerated Bioinformatics Group is an experimental online bioinformatics lab.
 
 China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
 
-⬆️ 4 • 💬 2 • 1d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+⬆️ 5 • 💬 2 • 1d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
 
 ---
 
@@ -321,13 +323,13 @@ McDonald's is quietly ending self-serve soda fountains nationwide, shifting drin
 
 ## YouTube Videos: "bitcoin"
 
-**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
+**[Strategy CEO on selling bitcoin: When it&#39;s better than issuing equity to pay dividends, we&#39;ll do it](https://www.youtube.com/watch?v=qpkvpSp-wBY)**
 
-Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 68K • 👍 3K • 💬 482 • ⏱️ 15:19 • 1d ago
+👁️ 7K • 👍 81 • 💬 79 • ⏱️ 4:14 • 6h ago
 
 ---
 
@@ -337,47 +339,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 110 • ⏱️ 9:53 • 23h ago
-
----
-
-**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 716 • 💬 357 • ⏱️ 13:40 • 1d ago
-
----
-
-**[Massive Bitcoin Run Incoming...](https://www.youtube.com/watch?v=8nT2I-5R-UY)**
-
-Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 276 • ⏱️ 9:29 • 1d ago
-
----
-
-**[Clarity Act could expedite the institutional adoption of crypto investing, say ETF managers](https://www.youtube.com/watch?v=qb6KzhpBPCI)**
-
-Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief Executive Officer, President, and Chief Investment ...
-
-📺 CNBC Television
-
-👁️ 606 • 👍 21 • 💬 4 • ⏱️ 9:09 • 2h ago
-
----
-
-**[This Is The End Of The Crypto Industry](https://www.youtube.com/watch?v=nZzOyNGkiXQ)**
-
-Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say, but it's the truth and in this episode, I explain in ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 63K • 👍 3K • 💬 697 • ⏱️ 13:36 • 2d ago
+👁️ 37K • 👍 2K • 💬 112 • ⏱️ 9:53 • 1d ago
 
 ---
 
@@ -387,7 +349,37 @@ Bitcoin #Crypto #Finance Bitcoin is entering a new phase where the biggest moves
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 620 • 💬 168 • ⏱️ 25:23 • 9h ago
+👁️ 11K • 👍 678 • 💬 181 • ⏱️ 25:23 • 13h ago
+
+---
+
+**[3 Experts DEBATE Crypto Price Predictions (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
+
+Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 673 • 💬 54 • ⏱️ 11:32 • 3h ago
+
+---
+
+**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
+
+Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
+
+📺 Simply Bitcoin
+
+👁️ 71K • 👍 3K • 💬 473 • ⏱️ 15:19 • 1d ago
+
+---
+
+**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
+
+My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 721 • 💬 341 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -397,27 +389,33 @@ It is once again time for another update on our "Bitcoin: The Beauty of Mathemat
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 118 • ⏱️ 4:32 • 1d ago
+👁️ 47K • 👍 3K • 💬 119 • ⏱️ 4:32 • 1d ago
 
 ---
 
-**[CRYPTO TRADING: Bitcoin&#39;s About to Squeeze!](https://www.youtube.com/watch?v=YfgRxFvPCSQ)**
+**[Who is actually trading MSTR? #bitcoin #mstr #trading #coffeezilla](https://www.youtube.com/watch?v=jdK-E5yoHqI)**
 
-Bitcoin is showing no signs of slowing down as price continues pushing higher while fear and “bull trap” calls spread across the ...
+📺 True North
 
-📺 Chart Hackers
-
-👁️ 4K • 👍 345 • 💬 9 • ⏱️ 58:11 • 6h ago
+👁️ 1K • 👍 31 • 💬 3 • ⏱️ 0:48 • 19h ago
 
 ---
 
-**[&quot;Are The Cracks Starting To Show?&quot; - Michael Saylor SHOCKING Rumor Of Selling Bitcoin](https://www.youtube.com/watch?v=GYJWnSJrthk)**
+**[Jeff explains to CoffeeZilla why Bitcoin will hit $1.5 Million #mstr #bitcoin #coffeezilla](https://www.youtube.com/watch?v=TgwBmHHC71g)**
 
-Patrick Bet David reacts to Michael Saylor's company reporting a 12.5 billion dollar Q1 loss and playing down talk of distress, even ...
+📺 True North
 
-📺 Valuetainment
+👁️ 932 • 👍 28 • 💬 28 • ⏱️ 0:48 • 12h ago
 
-👁️ 102K • 👍 2K • 💬 869 • ⏱️ 11:41 • 2d ago
+---
+
+**[Massive Bitcoin Run Incoming...](https://www.youtube.com/watch?v=8nT2I-5R-UY)**
+
+Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 272 • ⏱️ 9:29 • 2d ago
 
 ---
 

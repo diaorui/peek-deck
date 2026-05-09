@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-08T23:31:49.642975+00:00'
+updated: '2026-05-09T02:53:42.572143+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 08, 2026 at 23:31 UTC  
+**Last Updated:** May 09, 2026 at 02:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 17h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 20h ago
 
 ---
 
 **[I like ChatGPT, I like AI](https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/)**
 
-2h ago
+5h ago
 
 ---
 
@@ -55,47 +55,15 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 8h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 11h ago
 
 ---
 
-**[CFS - Conditional Field Subtraction](https://www.reddit.com/r/artificial/comments/1t7e8eu/cfs_conditional_field_subtraction/)**
+**[I made a desktop crab that bullies you back](https://www.reddit.com/r/artificial/comments/1t7scgr/i_made_a_desktop_crab_that_bullies_you_back/)**
 
-CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp Recall@10. Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
+He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
 
-🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 6h ago
-
----
-
-**[AI tooling is starting to feel like PC modding culture](https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/)**
-
-I think local AI setups are about to split into two completely different communities. One side cares about actual production workflows: agents automation APIs inference efficiency data quality reproducibility The other side mostly treats it like PC modding: model collecting benchmark screenshots “look how many params I run” endless UI tweaking generating the same test prompts forever Not even judging either side honestly. I just think it explains why AI discussions online feel so weird lately. Two people can both be “into local AI” and barely even be talking about the same thing anymore.
-
-5h ago
-
----
-
-**[AMD's local, open-source AI can now easily interact with your Gmail](https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/)**
-
-AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 10h ago
-
----
-
-**[Do you think edge AI ends up mattering more for autonomy, robotics, or local private inference?](https://www.reddit.com/r/artificial/comments/1t78u2r/do_you_think_edge_ai_ends_up_mattering_more_for/)**
-
-It feels like a lot of AI discussion is still cloud-first, but some of the most interesting shifts seem to be happening at the edge. A few areas that seem especially important: - autonomy and robotics - low-power always-on vision systems - private local LLMs and on-device inference - bandwidth-constrained industrial deployments Curious how people here see it: Over the next few years, where do you think edge AI matters most, and which hardware/software stacks actually win in practice?
-
-9h ago
-
----
-
-**[Inside the AI Sweatshops Powering ChatGPT](https://www.reddit.com/r/artificial/comments/1t7aejp/inside_the_ai_sweatshops_powering_chatgpt/)**
-
-There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of them have fallen into homelessness. We investigated America’s AI sweatshops, and found a new gig economy run by Big Tech. https://www.youtube.com/watch?v=aooiDA-AsNo
-
-8h ago
+17m ago
 
 ---
 
@@ -103,15 +71,47 @@ There’s a hidden workforce powering the rise of ChatGPT, and nearly 1 in 5 of 
 
 I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just now, and in the "how do they work" section, he explains that while we know exactly how the LLM is trained by iterative updates, we don't understand why certain circuits emerge or why the parameter structures end up the way they do. i.e. there is highly complex emergent learning going on by this optimization of parameter relationships but we don't know how the LLM does it or why. This is apparently a well known problem in the AI space. To my untrained ear, this sounds like a red flag. It should be fully understood before we go any further. Here's the video: https://www.youtube.com/watch?v=zjkBMFhNj_g
 
-18m ago
+3h ago
 
 ---
 
-**[Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights](https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/)**
+**[CFS - Conditional Field Subtraction](https://www.reddit.com/r/artificial/comments/1t7e8eu/cfs_conditional_field_subtraction/)**
 
-Compiled a tracker of every national AI strategy in Asia. Headline is that ten major Asian economies now have dedicated AI legislation or comprehensive national strategies, and they're all quite distinct from Western legislation like the EU AI Act or US executive orders. Clear that Asian governments treat AI as infrastructure, not a sector to regulate from a distance. Most national approaches lean promotional (incentives, sandboxes, sovereign LLM funding) rather than punitive (bans, heavy compliance). The exceptions are Vietnam (first standalone AI law in Asia, Dec 2025) and South Korea (Framework AI Act with high-risk-system rules). The major markets that stood out to me: China's open-source-as-industrial-policy framework. ~$98B committed to AI development. Premier Li Qiang declared at WEF 2025 that China's innovation is "open and open-source" and the country is "willing to share indigenous technologies with the world." Derivatives of Alibaba's Qwen are now the largest open-weight model ecosystem on Hugging Face — over 100,000 derivatives (USCC 2026). This is industrial policy through model release, not regulation. Two-tier system: research labs (DeepSeek-style) operate with light governance, consumer-facing apps face stricter rules. Japan's AI Promotion Act (May 2025). No penalties. It's a promotional framework — establishes the AI Strategic Headquarters as a cabinet-level body, mandates a National AI Basic Plan, aligns deployment with "Human-Centred AI Society Principles." Japan's structural problem: only 9% of individuals and 47% of companies were using gen AI as of 2024. The legislation is trying to close adoption gaps via incentives rather than gate behaviour. December 2025 commitment of ¥1 trillion (~$7B) over five years to AI + semiconductors backs it up. Vietnam's AI Law (effective March 2026). Most comprehensive standalone AI law anywhere — 36 articles, three-tier risk classification (low/medium/high), foreign AI providers must appoint a legal representative in Vietnam, max admin fines reach VNĐ 2 billion (~$76K) for orgs with serious violations capped at 2% of preceding year revenue. Plus a National AI Development Fund offering grants/loans/preferential financing, plus regulatory sandboxes for startups. Combined with the Law on Digital Technology Industry covering semiconductors and digital assets, Vietnam now has the most legible AI legal architecture in SEA. What I'm not sure about: how sustainable the "promotional, not punitive" approach is when the next major AI safety incident happens. Japan's framework explicitly has no penalties, and I think that only holds up until something goes wrong. Vietnam's law has teeth but limited enforcement bandwidth. Korea's is the only framework that has both tools and resources to enforce. For people closer to AI policy work — does the Asia approach seem more or less likely to scale globally than EU-style ex-ante rule-making? My read: Asia's bet on incentives + sandboxes + sovereign capability is more aligned with how AI is actually deploying in 2026 than EU rules-based approaches, but the governance gap shows up in the next 24 months. Fuller tracker with country-by-country breakdown: https://digitalinasia.com/2026/04/08/asia-ai-policy-tracker/
+CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp Recall@10. Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
+
+🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 9h ago
+
+---
+
+**[AI tooling is starting to feel like PC modding culture](https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/)**
+
+I think local AI setups are about to split into two completely different communities. One side cares about actual production workflows: agents automation APIs inference efficiency data quality reproducibility The other side mostly treats it like PC modding: model collecting benchmark screenshots “look how many params I run” endless UI tweaking generating the same test prompts forever Not even judging either side honestly. I just think it explains why AI discussions online feel so weird lately. Two people can both be “into local AI” and barely even be talking about the same thing anymore.
+
+8h ago
+
+---
+
+**[I built a benchmark for AI “memory” in coding agents. looking for others to beat it.](https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/)**
+
+Most AI memory benchmarks test semantic recall. But coding agents don't really fail like that. They don't just "forget", they break their own earlier decisions while they're still in the code. So I built a benchmark for that. It checks if an agent can actually stay consistent with project rules WHILE it's working, not just after the fact. It looks at things like: whether edits actually respect earlier architectural decisions if behavior stays consistent across multiple sessions (even when you throw noise at it) whether retrieval kicks in at the right moment — not just "yeah it's in memory somewhere" Repo (full harness + dataset + scoring): https://github.com/Alienfader/continuity-benchmarks Early numbers vs baseline + the usual RAG-style memory setups: ~3× better action alignment way stronger multi-session consistency retrieval timing matters way more than retrieval just being there I'm not saying this is the final word on agent memory. But it's exposing a failure mode most benchmarks aren't even looking at. So heres the challenge If you're building an agent memory system, RAG for code, long-context coding agents, persistent state / memory layers, run it on this benchmark. Drop your results, your setup, your comparisons. I really wanna see how tools like LangChain, LlamaIndex, and custom RAG stacks hold up in mutation-heavy workflows. We need memory systems we can actually compare, not just ones that sound good on paper. https://preview.redd.it/dkm2ulxsyzzg1.png?width=2624&format=png&auto=webp&s=67f0299395708818aa3d7346ddae2ad0c5c4a6ba
 
 4h ago
+
+---
+
+**[AMD's local, open-source AI can now easily interact with your Gmail](https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/)**
+
+AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
+
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 13h ago
+
+---
+
+**[What's the best AI video generator for long videos?](https://www.reddit.com/r/artificial/comments/1t78zcm/whats_the_best_ai_video_generator_for_long_videos/)**
+
+I'd like to test the waters with what's out there in order to make longer videos. Something like 5-20 minutes, probably wouldn't need anything longer than that. I realize it's probably not going to be free, which is fine as I'm going to be using it as a business. It'll also be prompt based instead of image based. What's out there, I'm sort of new to this.
+
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ Compiled a tracker of every national AI strategy in Asia. Headline is that ten m
 
 **[Meta’s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
 
-The New York Times • 9h ago
+The New York Times • 12h ago
 
 ---
 
@@ -129,57 +129,51 @@ The New York Times • 9h ago
 
 Western Digital and Seagate have overtaken Nividia and Micron since the ChatGPT launch.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Nvidia CEO says AI partnership with Corning will 'revitalize American manufacturing'](https://www.cnbc.com/2026/05/07/nvidia-ceo-ai-partnership-corning-revitalize-american-manufacturing.html)**
+**[Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags](https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html)**
 
-Nvidia CEO Jensen Huang highlighted his company's partnership with Corning as an opportunity to reinvest in American manufacturing.
+Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI
 
-CNBC • 1d ago
-
----
-
-**[Nvidia Stock Heads for Record as AI Push Expands](https://www.barrons.com/articles/nvidia-stock-price-iren-ai-deal-bdfabcae)**
-
-Barron's • 8h ago
+CNBC • 7h ago
 
 ---
 
-**[White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave](https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post)**
+**[Nvidia’s AI dominance faces uncomfortable new reality](https://www.thestreet.com/investing/nvidias-ai-dominance-faces-an-uncomfortable-new-reality)**
 
-Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
-
-The Guardian • 7h ago
+thestreet.com • 11h ago
 
 ---
 
-**[White House distances itself from tighter AI regulation](https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837)**
+**[Build an App in 2 Hours? AI ‘Vibe Coding’ Is Changing Everything](https://cbsaustin.com/news/local/build-an-app-in-2-hours-ai-vibe-coding-is-changing-everything)**
 
-Politico • 1d ago
+The biggest tech story these days isn’t just a new product or funding round, it’s a shift in how software itself is created.From AI-generated apps to faster sta
 
----
-
-**[White House scrambles to tame AI fears](https://thehill.com/newsletters/technology/5870586-white-house-ai-policy-rethink/)**
-
-The Hill • 1h ago
+KEYE • 10m ago
 
 ---
 
-**[Personal Perspective: Why 300,000 years of social cognition will prevail.](https://www.psychologytoday.com/us/blog/tech-happy-life/202605/we-will-treat-ai-as-conscious-regardless-of-whether-it-is)**
+**[Akamai stock soars 20% on earnings, $1.8 billion AI infrastructure deal](https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html)**
 
-Personal Perspective: One of the world's most rigorous skeptics spent a day with an AI and concluded it was conscious. If Richard Dawkins responds this way, what chance do we have?
+Cybersecurity and cloud computing firm Akamai reported first-quarter earnings on Thursday and saw its cloud infrastructure business grow 40% year-on-year.
 
-Psychology Today • 34m ago
+CNBC • 15h ago
 
 ---
 
-**[Jim Cramer says 'it's not to late' to own AI winners powering the market](https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html)**
+**[Akamai Lands $1.8 Billion Anthropic Deal As CDN Becomes AI Cloud](https://www.forbes.com/sites/janakirammsv/2026/05/08/akamai-lands-18-billion-anthropic-deal-as-cdn-becomes-ai-cloud/)**
 
-CNBC's Jim Cramer said the AI-driven rally has dominated the market, and next week will test whether investors keep rewarding the winners.
+Akamai signed a $1.8 billion seven-year cloud deal with Anthropic, the largest in its history, signaling that frontier AI compute now extends well beyond hyperscalers.
 
-CNBC • 1h ago
+Forbes • 29m ago
+
+---
+
+**[Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports](https://www.reuters.com/business/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports-2026-05-08/)**
+
+Reuters • 8h ago
 
 ---
 
@@ -187,7 +181,15 @@ CNBC • 1h ago
 
 New research on how we've reduced agentic misalignment
 
-Anthropic • 5h ago
+Anthropic • 8h ago
+
+---
+
+**[White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave](https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post)**
+
+Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
+
+The Guardian • 1h ago
 
 ---
 
@@ -197,7 +199,7 @@ Anthropic • 5h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 797 • 💬 692 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 805 • 💬 696 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -205,15 +207,7 @@ Anthropic • 5h ago
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 290 • 💬 340 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
-
----
-
-**[Telus Uses AI to Alter Call-Agent Accents](https://news.ycombinator.com/item?id=48031109)**
-
-According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents' accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents' voices to reduce what Telus reportedly calls "accent-related friction." Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.
-
-⬆️ 235 • 💬 213 • 2d ago • [Let's Data Science](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+⬆️ 291 • 💬 341 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -221,7 +215,7 @@ According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is 
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 184 • 💬 79 • 5h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 262 • 💬 113 • 8h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -229,7 +223,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
 
-⬆️ 135 • 💬 36 • 1d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+⬆️ 136 • 💬 36 • 1d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
@@ -237,15 +231,13 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 92 • 💬 44 • 9h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 93 • 💬 45 • 12h ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
-**[FFmpeg developer calls out OxideAV for AI license laundering of his code](https://news.ycombinator.com/item?id=48031185)**
+**[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
-
-⬆️ 81 • 💬 6 • 2d ago • [GitHub](https://github.com/OxideAV/oxideav-magicyuv/issues/3)
+⬆️ 73 • 💬 50 • 2h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -253,7 +245,7 @@ Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?
 
 Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation
 
-⬆️ 53 • 💬 25 • 2d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
+⬆️ 54 • 💬 25 • 2d ago • [the Guardian](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb)
 
 ---
 
@@ -273,27 +265,35 @@ Chats with AI bots have convinced evolutionary biologist but most experts say he
 
 ---
 
+**[Academics Need to Wake Up on AI](https://news.ycombinator.com/item?id=48032990)**
+
+Ten theses for folks who haven't noticed the ground shifting under their feet
+
+⬆️ 27 • 💬 26 • 2d ago • [popularbydesign.org](https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI News: OpenAI Absolutely Cooked This Week!](https://www.youtube.com/watch?v=SXneZ3bRKO4)**
+**[OpenAI Just Dropped The Biggest Voice AI Upgrade Yet](https://www.youtube.com/watch?v=o_igSi-ED6s)**
 
-Here's the AI News you probably missed this week. Try HubSpot AEO on your brand free for 28 days here ...
+Try CodeRabbit here: https://coderabbit.link/ai-revolution OpenAI just launched new real-time voice AI that can talk, translate, ...
 
-📺 Matt Wolfe
+📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 121 • ⏱️ 34:30 • 8h ago
+👁️ 4K • 👍 227 • 💬 15 • ⏱️ 15:52 • 4h ago
 
 ---
 
-**[I’ve Tested 500+ AI Tools, These Will Make You Rich](https://www.youtube.com/watch?v=np6CwvTYTAM)**
+**[The AI Gold Rush Is Dead. Corporate AI Is A DELUSION.](https://www.youtube.com/watch?v=5yohuMdhUcs)**
 
-Want my full AI Tech Stack? Get it here: https://go.danmartell.com/4tlas60 Are you building an AI software company? Partner ...
+AI was supposed to make companies more efficient. Instead, it may be creating one of the biggest financial delusions in modern ...
 
-📺 Dan Martell
+📺 The Infographics Show
 
-👁️ 55K • 👍 3K • 💬 217 • ⏱️ 22:46 • 1d ago
+👁️ 94K • 👍 4K • 💬 754 • ⏱️ 17:39 • 6h ago
 
 ---
 
@@ -303,17 +303,17 @@ Dan Ives, Wedbush Securities, joins 'Closing Bell' to discuss Ives' investing vi
 
 📺 CNBC Television
 
-👁️ 6K • 👍 162 • 💬 16 • ⏱️ 4:50 • 3h ago
+👁️ 32K • 👍 336 • 💬 54 • ⏱️ 4:50 • 6h ago
 
 ---
 
-**[New ChatGPT Model &amp; Memory Features Explained (AI News You Can Use)](https://www.youtube.com/watch?v=ltw8PE_uILw)**
+**[AI News: OpenAI Absolutely Cooked This Week!](https://www.youtube.com/watch?v=SXneZ3bRKO4)**
 
-Subscribe for more weekly updates on the AI news you'll actually use! In this video, Igor breaks down the big updates from OpenAI ...
+Here's the AI News you probably missed this week. Try HubSpot AEO on your brand free for 28 days here ...
 
-📺 The AI Advantage
+📺 Matt Wolfe
 
-👁️ 4K • 👍 203 • 💬 11 • ⏱️ 11:02 • 7h ago
+👁️ 40K • 👍 2K • 💬 147 • ⏱️ 34:30 • 11h ago
 
 ---
 
@@ -323,47 +323,17 @@ Every time you look for the supposed gold mine, you find someone just handing so
 
 📺 The Tech Report
 
-👁️ 39K • 👍 3K • 💬 649 • ⏱️ 36:35 • 4h ago
+👁️ 93K • 👍 4K • 💬 939 • ⏱️ 36:35 • 8h ago
 
 ---
 
-**[We Can&#39;t Ignore AI Anymore...](https://www.youtube.com/watch?v=HY930a15Fs8)**
+**[I tested 3 local AI models. The smallest one won.](https://www.youtube.com/watch?v=f7Ax2NGqRrQ)**
 
-Apparently AI is way easier to break than I thought. Subscribe for more! https://www.youtube.com/austinevans Check out our ...
+The #1 AI models are all locked behind APIs. So I tested the best ones you can actually run locally — on a Mac Mini, no cloud, ...
 
-📺 Austin Evans
+📺 Joyce Lin
 
-👁️ 72K • 👍 3K • 💬 262 • ⏱️ 13:06 • 1d ago
-
----
-
-**[The AI Bubble Is Worse Than You Think](https://www.youtube.com/watch?v=ZB-xWFCcHFE)**
-
-PDF Download: https://summit-metals.myklpages.com/l/WgvArZ Our latest analysis explores the recent quiet rebalancing, which is ...
-
-📺 Summit Metals
-
-👁️ 8K • 👍 622 • 💬 85 • ⏱️ 15:01 • 1d ago
-
----
-
-**[NYT&#39;s Tom Friedman on regulating AI: Something bad is going to happen at some point](https://www.youtube.com/watch?v=65JQWtIv5Ng)**
-
-Tom Friedman, The New York Times opinion columnist, joins 'Squawk Box' to discuss state of AI development, moving from the ...
-
-📺 CNBC Television
-
-👁️ 13K • 👍 156 • 💬 59 • ⏱️ 10:28 • 10h ago
-
----
-
-**[Claude Code: Build Your First AI Agent Better Than 99% of People](https://www.youtube.com/watch?v=XASPkhYLtnk)**
-
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video131 ✓ FREE ...
-
-📺 Mikey No Code
-
-👁️ 15K • 💬 7 • ⏱️ 29:57 • 9h ago
+👁️ 9K • 👍 374 • 💬 65 • ⏱️ 8:06 • 13h ago
 
 ---
 
@@ -373,7 +343,37 @@ Try Higgsfield Marketing Studio here: https://higgsfield.ai/s/marketing-studio-1
 
 📺 AI Revolution
 
-👁️ 63K • 👍 2K • 💬 81 • ⏱️ 13:34 • 2d ago
+👁️ 65K • 👍 2K • 💬 83 • ⏱️ 13:34 • 2d ago
+
+---
+
+**[Claude Code: Build Your First AI Agent Better Than 99% of People](https://www.youtube.com/watch?v=XASPkhYLtnk)**
+
+Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video131 ✓ FREE ...
+
+📺 Mikey No Code
+
+👁️ 17K • 💬 7 • ⏱️ 29:57 • 12h ago
+
+---
+
+**[New ChatGPT Model &amp; Memory Features Explained (AI News You Can Use)](https://www.youtube.com/watch?v=ltw8PE_uILw)**
+
+Subscribe for more weekly updates on the AI news you'll actually use! In this video, Igor breaks down the big updates from OpenAI ...
+
+📺 The AI Advantage
+
+👁️ 6K • 👍 260 • 💬 14 • ⏱️ 11:02 • 10h ago
+
+---
+
+**[Peter Diamandis: AI Will Cure All Disease, Reverse Aging, and You Have to Prepare](https://www.youtube.com/watch?v=ioxShQ-UTXY)**
+
+Peter Diamandis is one of the most extraordinary minds I've ever had the privilege of calling a friend, a man who doesn't just ...
+
+📺 Anthony Scaramucci
+
+👁️ 21K • 👍 862 • 💬 269 • ⏱️ 28:47 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 92,968 • ❤️ 446 • 22h ago
+⬇️ 92,968 • ❤️ 449 • 3h ago
 
 ---
 
@@ -401,7 +401,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 1,061,344 • ❤️ 3,755 • 2d ago
+⬇️ 1,061,344 • ❤️ 3,759 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 6,810 • ❤️ 279 • 1h ago
+⬇️ 6,810 • ❤️ 287 • 5h ago
 
 ---
 
@@ -425,7 +425,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 173,110 • ❤️ 1,366 • 16d ago
+⬇️ 173,110 • ❤️ 1,371 • 16d ago
 
 ---
 
@@ -437,7 +437,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 5,077 • ❤️ 239 • 11d ago
+⬇️ 5,077 • ❤️ 239 • 12d ago
 
 ---
 
@@ -449,7 +449,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 42,529 • ❤️ 166 • 1d ago
+⬇️ 42,529 • ❤️ 169 • 2d ago
 
 ---
 
@@ -461,7 +461,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 33,314 • ❤️ 161 • 3d ago
+⬇️ 33,314 • ❤️ 166 • 3d ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 1,958,217 • ❤️ 1,191 • 14d ago
+⬇️ 1,958,217 • ❤️ 1,193 • 15d ago
 
 ---
 
@@ -485,7 +485,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 26,600 • ❤️ 485 • 15h ago
+⬇️ 26,600 • ❤️ 487 • 18h ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 3,363,621 • ❤️ 1,676 • 14d ago
+⬇️ 3,363,621 • ❤️ 1,677 • 15d ago
 
 ---
 
@@ -525,21 +525,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 76 • 💬 6 • ⭐ 3,693 • 3mo ago
+▲ 76 • 💬 6 • ⭐ 3,851 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 32 • 💬 3 • ⭐ 23,606 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -554,6 +542,18 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 ▲ 18 • 💬 3 • ⭐ 9,752 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 32 • 💬 3 • ⭐ 23,670 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -577,7 +577,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 97 • 💬 10 • ⭐ 8,464 • 5d ago
+▲ 99 • 💬 10 • ⭐ 8,486 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -591,7 +591,7 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 169 • 💬 10 • ⭐ 46,817 • 8mo ago
+▲ 169 • 💬 10 • ⭐ 46,835 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -629,7 +629,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 53 • 💬 2 • ⭐ 55,117 • 12mo ago
+▲ 53 • 💬 2 • ⭐ 55,156 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -655,7 +655,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.1k • 🔱 723 • 4d ago
+⭐ 11.1k • 🔱 726 • 4d ago
 
 ---
 
@@ -665,7 +665,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 453 • 3h ago
+⭐ 5.9k • 🔱 454 • 6h ago
 
 ---
 
@@ -685,7 +685,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 371 • 9h ago
+⭐ 5.2k • 🔱 372 • 19m ago
 
 ---
 
@@ -695,7 +695,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.0k • 🔱 493 • 8h ago
+⭐ 4.0k • 🔱 495 • 1h ago
 
 ---
 
@@ -715,7 +715,7 @@ A self-hosted email client with an AI agent, running entirely on Cloudflare Work
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 361 • 15d ago
+⭐ 2.8k • 🔱 363 • 15d ago
 
 ---
 
@@ -725,7 +725,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 709 • 8h ago
+⭐ 2.5k • 🔱 716 • 11h ago
 
 ---
 
@@ -735,7 +735,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 215 • 10h ago
+⭐ 2.4k • 🔱 215 • 13h ago
 
 ---
 
