@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T11:51:45.121787+00:00'
+updated: '2026-05-09T13:19:59.901800+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 11:51 UTC  
+**Last Updated:** May 09, 2026 at 13:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.3%  
-**7d:** -0.4%  
+**7d:** -0.3%  
 **30d:** +3.1%  
-**90d:** +9.9%  
+**90d:** +10.0%  
 **1y:** -10.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.01B
+**Market Cap:** $279.46B
 Rank #2
 
 **Circulating Supply:** 120,686,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.2%
 
 **All-Time Low:** $0.43
-+533752.7%
++534655.7%
 
 ---
 
@@ -72,7 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
+
+---
+
+**[Je viens d'entraîner un modèle de vision de 7B sur 100 000 graphiques de transactions DeFi/DePIN en utilisant un AMD MI300X. Il détecte les exploits en 35 ms.[P]](https://www.reddit.com/r/ethereum/comments/1t84tjd/je_viens_dentraîner_un_modèle_de_vision_de_7b_sur/)**
+
+just now
+
+---
+
+**[I just generated 1,000,000 transaction graph visualizations from real Ethereum/Arbitrum/Polygon data — now training a Vision-Language model to detect DeFi attacks](https://www.reddit.com/r/ethereum/comments/1t7v7wm/i_just_generated_1000000_transaction_graph/)**
+
+Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
+
+8h ago
 
 ---
 
@@ -92,19 +106,11 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 ---
 
-**[I just generated 1,000,000 transaction graph visualizations from real Ethereum/Arbitrum/Polygon data — now training a Vision-Language model to detect DeFi attacks](https://www.reddit.com/r/ethereum/comments/1t7v7wm/i_just_generated_1000000_transaction_graph/)**
-
-Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
-
-6h ago
-
----
-
 **[Ethereal news weekly #22 | 200M+ gas limit target post-Glamsterdam, 25M blocks on mainnet, Arbitrum DAO voted to release frozen ETH](https://www.reddit.com/r/ethereum/comments/1t772gl/ethereal_news_weekly_22_200m_gas_limit_target/)**
 
 200M+ gas limit target post-Glamsterdam, 25M blocks on mainnet, Arbitrum DAO voted to release frozen ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 1d ago
 
 ---
 
@@ -138,29 +144,21 @@ The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon
 
 ---
 
-**[Daily General Discussion May 07, 2026](https://www.reddit.com/r/ethereum/comments/1t60qpm/daily_general_discussion_may_07_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
+**[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
 
-The longer time horizon you consider, the more one of these assets stands out.
-
-The Motley Fool • 1d ago
+TipRanks • 22h ago
 
 ---
 
-**[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
+**[Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030)**
 
-TipRanks • 21h ago
+By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
+
+Decrypt • 2d ago
 
 ---
 
@@ -168,7 +166,7 @@ TipRanks • 21h ago
 
 Bitcoin opened at $80,015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80,206.01 by 7:18 a.m ET. Ethereum opened at $2,290.98 on Friday, down 2.5% from Thursday's opening price. The value of ethereum was steady as of 7:18 a.m. ET..
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -180,19 +178,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
+
+The longer time horizon you consider, the more one of these assets stands out.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
 
 Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
 
-CryptoSlate • 20h ago
-
----
-
-**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
-
-Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
-
-TradingView • 23h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -200,7 +198,15 @@ TradingView • 23h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
+
+---
+
+**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
+
+Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
+
+TradingView • 1d ago
 
 ---
 
@@ -212,19 +218,11 @@ Cryptonews • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rejection sparks pullback, ETH at risk of breakdown, XRP hints at deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rejection-sparks-pullback-eth-at-risk-of-breakdown-xrp-hints-at-deeper-losses-202605080344)**
+**[Ethereum co-founder Lubin backs ETH treasury firms, calls DATs 'profound innovation'](https://www.theblock.co/post/400171/ethereum-co-founder-lubin-backs-eth-treasury-firms-calls-dats-profound-innovation)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
+Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
 
-FXStreet • 1d ago
-
----
-
-**[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
-
-Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
-
-Decrypt • 1d ago
+The Block • 3d ago
 
 ---
 
@@ -238,7 +236,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 36K • 👍 1K • 💬 179 • ⏱️ 14:48 • 16h ago
+👁️ 38K • 👍 2K • 💬 167 • ⏱️ 14:48 • 17h ago
 
 ---
 
@@ -248,7 +246,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 123 • ⏱️ 11:32 • 12h ago
+👁️ 26K • 👍 1K • 💬 108 • ⏱️ 11:32 • 14h ago
 
 ---
 
@@ -256,17 +254,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 316 • 💬 26 • ⏱️ 2:31 • 10h ago
-
----
-
-**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
-
-Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
-
-📺 The Block
-
-👁️ 3K • 👍 114 • 💬 26 • ⏱️ 22:10 • 2d ago
+👁️ 5K • 👍 363 • 💬 29 • ⏱️ 2:31 • 12h ago
 
 ---
 
@@ -276,27 +264,7 @@ Canada just launched its first regulated digital dollar — and it's running on 
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 413 • 💬 50 • ⏱️ 29:16 • 16h ago
-
----
-
-**[Ethereum Co-Founder: How Big Tech&#39;s AI Push Threatens Freedom - And What Stops It | E170](https://www.youtube.com/watch?v=j4_MME6O9Cs)**
-
-Joseph Lubin, co-founder of a major open-source technology platform and CEO of Consensys, warns that big tech is racing to ...
-
-📺 When Shift Happens
-
-👁️ 9K • 👍 366 • 💬 92 • ⏱️ 1:13:25 • 1d ago
-
----
-
-**[ETH: The Next Bitcoin?](https://www.youtube.com/watch?v=bKM5-jJICHo)**
-
-Bitcoin made its way into corporate treasuries. Will Ethereum follow? In this episode, Vivek Raman of Etherealize explains how ...
-
-📺 Smart Economy Network
-
-👁️ 57 • 👍 4 • ⏱️ 1:01 • 1d ago
+👁️ 6K • 👍 428 • 💬 50 • ⏱️ 29:16 • 18h ago
 
 ---
 
@@ -306,7 +274,7 @@ BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 324 • 💬 212 • ⏱️ 18:14 • 15h ago
+👁️ 8K • 👍 341 • 💬 220 • ⏱️ 18:14 • 17h ago
 
 ---
 
@@ -316,7 +284,27 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 390 • 💬 51 • ⏱️ 12:24 • 21h ago
+👁️ 9K • 👍 393 • 💬 51 • ⏱️ 12:24 • 23h ago
+
+---
+
+**[ETH: The Next Bitcoin?](https://www.youtube.com/watch?v=bKM5-jJICHo)**
+
+Bitcoin made its way into corporate treasuries. Will Ethereum follow? In this episode, Vivek Raman of Etherealize explains how ...
+
+📺 Smart Economy Network
+
+👁️ 61 • 👍 4 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
+
+Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
+
+📺 The Block
+
+👁️ 4K • 👍 115 • 💬 26 • ⏱️ 22:10 • 2d ago
 
 ---
 
@@ -326,7 +314,17 @@ BMNR is staking over 75% of its massive Ethereum holdings, locking up supply and
 
 📺 MONEY GAME
 
-👁️ 695 • 👍 23 • 💬 5 • ⏱️ 1:40 • 2d ago
+👁️ 700 • 👍 23 • 💬 5 • ⏱️ 1:40 • 2d ago
+
+---
+
+**[BREAKING: Leaked Iran Deal Sends Bitcoin &amp; Crypto SOARING | Tom Lee’s Big Warning](https://www.youtube.com/watch?v=zCxKwUvHeGE)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 201 • 💬 9 • ⏱️ 18:13 • 2d ago
 
 ---
 
