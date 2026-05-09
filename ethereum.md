@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T16:56:35.951263+00:00'
+updated: '2026-05-09T17:52:35.692221+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 16:56 UTC  
+**Last Updated:** May 09, 2026 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-37m ago
+1h ago
 
 ---
 
 **[Je viens d'entraîner un modèle de vision de 7B sur 100 000 graphiques de transactions DeFi/DePIN en utilisant un AMD MI300X. Il détecte les exploits en 35 ms.[P]](https://www.reddit.com/r/ethereum/comments/1t84tjd/je_viens_dentraîner_un_modèle_de_vision_de_7b_sur/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
 
-11h ago
+12h ago
 
 ---
 
@@ -174,7 +174,7 @@ Binance • 3h ago
 
 Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -190,7 +190,7 @@ CoinDesk • 1d ago
 
 Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 8h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 174 • ⏱️ 14:48 • 21h ago
+👁️ 40K • 👍 2K • 💬 174 • ⏱️ 14:48 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 17h ago
+👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -254,7 +254,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 415 • 💬 26 • ⏱️ 2:31 • 15h ago
+👁️ 6K • 👍 415 • 💬 26 • ⏱️ 2:31 • 16h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 345 • 💬 236 • ⏱️ 18:14 • 20h ago
+👁️ 8K • 👍 345 • 💬 236 • ⏱️ 18:14 • 21h ago
 
 ---
 
@@ -314,7 +314,7 @@ Thanks for watching!! Timestamps below! Like Comment Subscribe! PLS & TY! TWITCH
 
 📺 Yammus
 
-👁️ 254 • 👍 11 • 💬 4 • ⏱️ 15:56 • 2h ago
+👁️ 254 • 👍 11 • 💬 4 • ⏱️ 15:56 • 3h ago
 
 ---
 
@@ -324,7 +324,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 203 • 💬 37 • ⏱️ 12:01 • 2h ago
+👁️ 3K • 👍 203 • 💬 37 • ⏱️ 12:01 • 3h ago
 
 ---
 

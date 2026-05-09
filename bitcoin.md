@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T16:56:35.944887+00:00'
+updated: '2026-05-09T17:52:35.686162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 16:56 UTC  
+**Last Updated:** May 09, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-14h ago
+15h ago
 
 ---
 
@@ -89,13 +89,13 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 Let get the BITCOIN
 
-10h ago
+11h ago
 
 ---
 
 **[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ Let get the BITCOIN
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 22h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 If you use a cold storage device without airgapping, is your BTC potentially forever compromised? Or is it only a risk while connected to the computer during the transaction? Thank you in advance
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ If you use a cold storage device without airgapping, is your BTC potentially for
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-r
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
-8m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Taken these S21 back from the grave and giving them life again. They told me $25
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 46m ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fortune • 1d ago
 
 “Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bitcoin Magazine • 19h ago
 
 CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,13 +187,13 @@ CoinDesk • 1h ago
 
 Spot Bitcoin ETFs notched six straight weeks of inflows totaling $3.4 billion, the longest streak since July 2025.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Trader Eugene Ng Ah Sio: Bitcoin Near Key Breakout Level as Altcoins Show Bottoming Signals](https://www.binance.com/en/square/post/321307624836818)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 1d ago
 
 Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
 
-New York Post • 6h ago
+New York Post • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ New York Post • 6h ago
 
 Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Block • 20h ago
 
 Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -233,7 +233,7 @@ Forbes • 5h ago
 
 If Bitcoin grows at the same pace as it has for the past 15 years, it will continue to mint new millionaires.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -245,7 +245,7 @@ The Motley Fool • 9h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 20h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 21h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -277,7 +277,7 @@ ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 21h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 22h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -297,7 +297,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 17h ago
+👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ Jp Morgan report explains what investors are thinking about bitcoin since the wa
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 351 • 💬 91 • ⏱️ 1:18:33 • 22h ago
+👁️ 7K • 👍 351 • 💬 91 • ⏱️ 1:18:33 • 23h ago
 
 ---
 
@@ -327,7 +327,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 13K • 👍 123 • 💬 104 • ⏱️ 4:14 • 20h ago
+👁️ 13K • 👍 123 • 💬 104 • ⏱️ 4:14 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 236 • 💬 40 • ⏱️ 8:08 • 17h ago
+👁️ 5K • 👍 236 • 💬 40 • ⏱️ 8:08 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief 
 
 📺 CNBC Television
 
-👁️ 8K • 👍 132 • 💬 114 • ⏱️ 9:09 • 20h ago
+👁️ 8K • 👍 132 • 💬 114 • ⏱️ 9:09 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ Welcome back to Verified Investing! In today's video, Chief Market Strategist Ga
 
 📺 Gareth Soloway
 
-👁️ 8K • 👍 1K • 💬 67 • ⏱️ 10:40 • 3h ago
+👁️ 8K • 👍 1K • 💬 67 • ⏱️ 10:40 • 4h ago
 
 ---
 

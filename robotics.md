@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T16:56:35.954707+00:00'
+updated: '2026-05-09T17:52:35.695401+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 16:56 UTC  
+**Last Updated:** May 09, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,13 +52,13 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-58m ago
+1h ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -80,13 +80,13 @@ I’m currently learning the maths foundations behind kinematics so I built this
 
 I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
 
-4h ago
+5h ago
 
 ---
 
 **[Best methods for online tuning of MPC parameters in the real world?](https://www.reddit.com/r/robotics/comments/1t882w4/best_methods_for_online_tuning_of_mpc_parameters/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -114,7 +114,7 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 52m ago
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -122,7 +122,7 @@ IEEE Spectrum • 52m ago
 
 America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
 
-The Washington Post • 1d ago
+The Washington Post • 2d ago
 
 ---
 
@@ -152,7 +152,7 @@ Rocket Lab • 1d ago
 
 Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -160,7 +160,7 @@ Business Insider • 7h ago
 
 Western Pennsylvania School for the Deaf wins national robotics championship
 
-Yahoo • 13h ago
+Yahoo • 14h ago
 
 ---
 
@@ -176,7 +176,7 @@ Global Times • 1d ago
 
 A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
@@ -196,7 +196,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 1K • 👍 41 • 💬 18 • ⏱️ 2:19 • 19h ago
+👁️ 1K • 👍 41 • 💬 18 • ⏱️ 2:19 • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 3K • 👍 42 • 💬 3 • ⏱️ 20:56 • 20h ago
+👁️ 3K • 👍 42 • 💬 3 • ⏱️ 20:56 • 21h ago
 
 ---
 
@@ -234,7 +234,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Existenzia
 
-👁️ 28K • 👍 234 • 💬 4 • ⏱️ 0:07 • 18h ago
+👁️ 28K • 👍 234 • 💬 4 • ⏱️ 0:07 • 19h ago
 
 ---
 
@@ -242,7 +242,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Hawks Robotics
 
-👁️ 7K • 👍 50 • 💬 2 • ⏱️ 0:05 • 15h ago
+👁️ 7K • 👍 50 • 💬 2 • ⏱️ 0:05 • 16h ago
 
 ---
 
