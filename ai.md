@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-09T07:57:50.621069+00:00'
+updated: '2026-05-09T09:25:32.220245+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 09, 2026 at 07:57 UTC  
+**Last Updated:** May 09, 2026 at 09:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 **[Joscha Bach: Mapping Every Neuron Won't Give You a Mind](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -55,13 +55,13 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
 
-5h ago
+6h ago
 
 ---
 
 **[I like ChatGPT, I like AI](https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -69,7 +69,7 @@ He lives on your desktop as a transparent overlay and does whatever he wants. Yo
 
 A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 16h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 18h ago
 
 ---
 
@@ -77,7 +77,7 @@ A new AI tool finds early hints of pancreatic cancer in CT scans that doctors wo
 
 I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just now, and in the "how do they work" section, he explains that while we know exactly how the LLM is trained by iterative updates, we don't understand why certain circuits emerge or why the parameter structures end up the way they do. i.e. there is highly complex emergent learning going on by this optimization of parameter relationships but we don't know how the LLM does it or why. This is apparently a well known problem in the AI space. To my untrained ear, this sounds like a red flag. It should be fully understood before we go any further. Here's the video: https://www.youtube.com/watch?v=zjkBMFhNj_g
 
-8h ago
+10h ago
 
 ---
 
@@ -85,7 +85,7 @@ I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just
 
 CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp Recall@10. Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
 
-🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 14h ago
+🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 16h ago
 
 ---
 
@@ -93,15 +93,7 @@ CFS selects relevant candidates by penalizing regions already covered by previou
 
 Most AI memory benchmarks test semantic recall. But coding agents don't really fail like that. They don't just "forget", they break their own earlier decisions while they're still in the code. So I built a benchmark for that. It checks if an agent can actually stay consistent with project rules WHILE it's working, not just after the fact. It looks at things like: whether edits actually respect earlier architectural decisions if behavior stays consistent across multiple sessions (even when you throw noise at it) whether retrieval kicks in at the right moment — not just "yeah it's in memory somewhere" Repo (full harness + dataset + scoring): https://github.com/Alienfader/continuity-benchmarks Early numbers vs baseline + the usual RAG-style memory setups: ~3× better action alignment way stronger multi-session consistency retrieval timing matters way more than retrieval just being there I'm not saying this is the final word on agent memory. But it's exposing a failure mode most benchmarks aren't even looking at. So heres the challenge If you're building an agent memory system, RAG for code, long-context coding agents, persistent state / memory layers, run it on this benchmark. Drop your results, your setup, your comparisons. I really wanna see how tools like LangChain, LlamaIndex, and custom RAG stacks hold up in mutation-heavy workflows. We need memory systems we can actually compare, not just ones that sound good on paper. https://preview.redd.it/dkm2ulxsyzzg1.png?width=2624&format=png&auto=webp&s=67f0299395708818aa3d7346ddae2ad0c5c4a6ba
 
-9h ago
-
----
-
-**[AI tooling is starting to feel like PC modding culture](https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/)**
-
-I think local AI setups are about to split into two completely different communities. One side cares about actual production workflows: agents automation APIs inference efficiency data quality reproducibility The other side mostly treats it like PC modding: model collecting benchmark screenshots “look how many params I run” endless UI tweaking generating the same test prompts forever Not even judging either side honestly. I just think it explains why AI discussions online feel so weird lately. Two people can both be “into local AI” and barely even be talking about the same thing anymore.
-
-13h ago
+11h ago
 
 ---
 
@@ -109,7 +101,15 @@ I think local AI setups are about to split into two completely different communi
 
 AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 20h ago
+
+---
+
+**[AI tooling is starting to feel like PC modding culture](https://www.reddit.com/r/artificial/comments/1t7gfud/ai_tooling_is_starting_to_feel_like_pc_modding/)**
+
+I think local AI setups are about to split into two completely different communities. One side cares about actual production workflows: agents automation APIs inference efficiency data quality reproducibility The other side mostly treats it like PC modding: model collecting benchmark screenshots “look how many params I run” endless UI tweaking generating the same test prompts forever Not even judging either side honestly. I just think it explains why AI discussions online feel so weird lately. Two people can both be “into local AI” and barely even be talking about the same thing anymore.
+
+14h ago
 
 ---
 
@@ -117,39 +117,47 @@ AMD software engineers continue rapidly advancing their open-source software eff
 
 ## Google News: "ai"
 
-**[This new AI trade is leaving Nvidia and Micron in the dust](https://finance.yahoo.com/markets/article/this-new-ai-trade-is-leaving-nvidia-and-micron-in-the-dust-204250157.html)**
-
-Western Digital and Seagate have overtaken Nividia and Micron since the ChatGPT launch.
-
-Yahoo Finance • 11h ago
-
----
-
 **[Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags](https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html)**
 
 Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI
 
-CNBC • 12h ago
-
----
-
-**[Nvidia Stock Heads for Record as AI Push Expands](https://www.barrons.com/articles/nvidia-stock-price-iren-ai-deal-bdfabcae)**
-
-Barron's • 16h ago
+CNBC • 14h ago
 
 ---
 
 **[Meta’s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
 
-The New York Times • 17h ago
+The New York Times • 19h ago
 
 ---
 
-**[Defunct Hoku plant could become AI data center under new proposal](https://www.idahostatejournal.com/news/local/defunct-hoku-plant-could-become-ai-data-center-under-new-proposal/article_0e7c1dfb-abea-4557-9c9f-b6149f7292fe.html)**
+**[Scammers Can Use AI to Apply for Loans in Your Name](https://www.bloomberg.com/news/newsletters/2026-05-09/scammers-can-use-ai-to-apply-for-loans-in-your-name)**
 
-POCATELLO — A site that has spent nearly two decades as a symbol of the Gate City's frustrated ambitions may be on the verge of its most transformative chapter yet.
+Bloomberg • 1h ago
 
-Idaho State Journal • 7h ago
+---
+
+**[How nonprofits are leveraging AI to better serve people and communities in need](https://www.post-gazette.com/business/tech-news/2026/05/09/nonprofits-artificial-intelligence-ai-nova-place/stories/202605100050)**
+
+The AI conversation breeds a tension that Fred Brown, CEO of the North Shore-based Forbes Funds and Adam Paulisick, CEO of East Liberty-based Skilly AI, want nonprofits to wrestle with, because no one else is coming “to save us.”
+
+Pittsburgh Post-Gazette • 1h ago
+
+---
+
+**[Why an AI Insurance Unicorn Opened a 24/7 Café to Win Customers](https://www.inc.com/bruce-crumley/how-ai-unicorn-corgi-hopes-boost-its-insurance-business-with-a-24-7-neighborhood-cafe/91342353)**
+
+The newly valued unicorn is blending café culture with customer acquisition as it scales.
+
+inc.com • 16m ago
+
+---
+
+**[Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)**
+
+New research on how we've reduced agentic misalignment
+
+Anthropic • 15h ago
 
 ---
 
@@ -157,7 +165,15 @@ Idaho State Journal • 7h ago
 
 A group of rural Utah residents wants a chance to vote in November to oppose a massive AI data center development — the latest example of Americans resisting new data center projects over fears they’ll disrupt the environment and their communities.
 
-CNN • 56m ago
+CNN • 2h ago
+
+---
+
+**[Defunct Hoku plant could become AI data center under new proposal](https://www.idahostatejournal.com/news/local/defunct-hoku-plant-could-become-ai-data-center-under-new-proposal/article_0e7c1dfb-abea-4557-9c9f-b6149f7292fe.html)**
+
+POCATELLO — A site that has spent nearly two decades as a symbol of the Gate City's frustrated ambitions may be on the verge of its most transformative chapter yet.
+
+Idaho State Journal • 8h ago
 
 ---
 
@@ -165,29 +181,13 @@ CNN • 56m ago
 
 Claims of nimbyism are a misunderstanding: the movement is about whether regular people have a say in fundamental decisions
 
-The Guardian • 16h ago
+The Guardian • 18h ago
 
 ---
 
-**[Companies are abandoning ‘peanut butter’ raises as pay-for-performance takes over the workplace in the AI era](https://fortune.com/2026/05/09/companies-abandoning-peanut-butter-raises-future-of-work-american-workers/)**
+**[White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)**
 
-Only 4% of employers still spread raises equally across the board, according to Mercer.
-
-Fortune • 16m ago
-
----
-
-**[ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP](https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp)**
-
-Bloomberg.com • 33m ago
-
----
-
-**[Claude, brought to you by Elon Musk](https://www.businessinsider.com/claude-elon-musk-anthropic-ai-compute-2026-5)**
-
-Anthropic now relies on  a huge SpaceX data center for AI compute, tying Claude's rapid growth and reliability to Elon Musk.
-
-Business Insider • 13h ago
+The New York Times • 4d ago
 
 ---
 
@@ -197,7 +197,7 @@ Business Insider • 13h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 810 • 💬 705 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 811 • 💬 707 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -205,7 +205,7 @@ Business Insider • 13h ago
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 315 • 💬 130 • 14h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 328 • 💬 132 • 15h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -213,7 +213,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 292 • 💬 339 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 292 • 💬 340 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -227,7 +227,7 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 **[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-⬆️ 110 • 💬 127 • 7h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 114 • 💬 130 • 8h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -235,7 +235,15 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 100 • 💬 46 • 17h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 100 • 💬 46 • 19h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+
+---
+
+**[All my clients wanted a carousel, now it's an AI chatbot](https://news.ycombinator.com/item?id=48072720)**
+
+Posts about SmolWeb, Gemini protocol and LowTech
+
+⬆️ 75 • 💬 27 • 2h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
@@ -247,25 +255,17 @@ Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate informat
 
 ---
 
+**[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
+
+⬆️ 45 • 💬 53 • 3h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
+
+---
+
 **[Show HN: Stage CLI – An easier way of reading your AI generated changes locally](https://news.ycombinator.com/item?id=48050732)**
 
 A viewer for reviewing local code changes in small individual chapters. Works with any AI agent. - ReviewStage/stage-cli
 
 ⬆️ 44 • 💬 31 • 1d ago • [GitHub](https://github.com/ReviewStage/stage-cli)
-
----
-
-**[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
-
-⬆️ 42 • 💬 43 • 1h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
-
----
-
-**[Richard Dawkins concludes AI is conscious, even if it doesn't know it](https://news.ycombinator.com/item?id=48042911)**
-
-Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry
-
-⬆️ 30 • 💬 43 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt)
 
 ---
 
@@ -279,7 +279,7 @@ Try CodeRabbit here: https://coderabbit.link/ai-revolution OpenAI just launched 
 
 📺 AI Revolution
 
-👁️ 9K • 👍 340 • 💬 22 • ⏱️ 15:52 • 9h ago
+👁️ 9K • 👍 340 • 💬 22 • ⏱️ 15:52 • 10h ago
 
 ---
 
@@ -299,7 +299,7 @@ AI was supposed to make companies more efficient. Instead, it may be creating on
 
 📺 The Infographics Show
 
-👁️ 163K • 👍 6K • 💬 1K • ⏱️ 17:39 • 11h ago
+👁️ 163K • 👍 6K • 💬 1K • ⏱️ 17:39 • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ Here's the AI News you probably missed this week. Try HubSpot AEO on your brand 
 
 📺 Matt Wolfe
 
-👁️ 48K • 👍 2K • 💬 161 • ⏱️ 34:30 • 16h ago
+👁️ 48K • 👍 2K • 💬 161 • ⏱️ 34:30 • 18h ago
 
 ---
 
@@ -319,7 +319,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 18K • 💬 17 • ⏱️ 29:57 • 17h ago
+👁️ 18K • 💬 17 • ⏱️ 29:57 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Every time you look for the supposed gold mine, you find someone just handing so
 
 📺 The Tech Report
 
-👁️ 120K • 👍 5K • 💬 1K • ⏱️ 36:35 • 13h ago
+👁️ 120K • 👍 5K • 💬 1K • ⏱️ 36:35 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ Subscribe for more weekly updates on the AI news you'll actually use! In this vi
 
 📺 The AI Advantage
 
-👁️ 7K • 👍 309 • 💬 17 • ⏱️ 11:02 • 15h ago
+👁️ 7K • 👍 309 • 💬 17 • ⏱️ 11:02 • 17h ago
 
 ---
 
@@ -349,7 +349,7 @@ Grok AI FREE Trick Nobody Is Talking About (Unlimited Videos) Discover the SECRE
 
 📺 AI Man 
 
-👁️ 11K • 👍 590 • 💬 262 • ⏱️ 7:47 • 21h ago
+👁️ 11K • 👍 590 • 💬 262 • ⏱️ 7:47 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 115,477 • ❤️ 458 • 9h ago
+⬇️ 115,477 • ❤️ 458 • 10h ago
 
 ---
 
@@ -409,7 +409,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 23,620 • ❤️ 294 • 10h ago
+⬇️ 23,620 • ❤️ 294 • 11h ago
 
 ---
 
@@ -481,7 +481,7 @@ MiMo-V2.5-Pro is a 1.02T parameter MoE language model with 42B active parameters
 
 `text-generation` `1023.2B`
 
-⬇️ 31,447 • ❤️ 489 • 23h ago
+⬇️ 31,447 • ❤️ 489 • 1d ago
 
 ---
 
@@ -641,7 +641,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 12.3k • 🔱 2.8k • 11d ago
+⭐ 12.3k • 🔱 2.8k • 12d ago
 
 ---
 
@@ -661,7 +661,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 457 • 1h ago
+⭐ 5.9k • 🔱 457 • 2h ago
 
 ---
 
@@ -681,7 +681,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 373 • 26m ago
+⭐ 5.2k • 🔱 373 • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.1k • 🔱 501 • 3h ago
+⭐ 4.1k • 🔱 501 • 4h ago
 
 ---
 
@@ -721,7 +721,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 724 • 49m ago
+⭐ 2.6k • 🔱 724 • 2h ago
 
 ---
 
@@ -731,7 +731,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 216 • 1h ago
+⭐ 2.4k • 🔱 216 • 2h ago
 
 ---
 
