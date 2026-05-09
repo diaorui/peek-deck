@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T13:19:59.901800+00:00'
+updated: '2026-05-09T14:34:29.631029+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 13:19 UTC  
+**Last Updated:** May 09, 2026 at 14:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -0.3%  
-**30d:** +3.1%  
-**90d:** +10.0%  
-**1y:** -10.4%  
+**24h:** +0.6%  
+**7d:** -0.6%  
+**30d:** +2.8%  
+**90d:** +9.6%  
+**1y:** -10.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
 **[Je viens d'entraîner un modèle de vision de 7B sur 100 000 graphiques de transactions DeFi/DePIN en utilisant un AMD MI300X. Il détecte les exploits en 35 ms.[P]](https://www.reddit.com/r/ethereum/comments/1t84tjd/je_viens_dentraîner_un_modèle_de_vision_de_7b_sur/)**
 
-just now
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ just now
 
 Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
 
-8h ago
+9h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon
 
 **[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
 
-TipRanks • 22h ago
+TipRanks • 1d ago
 
 ---
 
@@ -162,11 +162,17 @@ Decrypt • 2d ago
 
 ---
 
+**[U.S. Bitcoin ETFs Bleed $145.7 Million as Ethereum ETFs See Rare Inflow Day](https://www.binance.com/en/square/post/321305630204305)**
+
+Binance • 38m ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding following strong jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-strong-jobs-report-113214250.html)**
 
 Bitcoin opened at $80,015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80,206.01 by 7:18 a.m ET. Ethereum opened at $2,290.98 on Friday, down 2.5% from Thursday's opening price. The value of ethereum was steady as of 7:18 a.m. ET..
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -190,7 +196,7 @@ The Motley Fool • 2d ago
 
 Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -198,7 +204,7 @@ CryptoSlate • 21h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -210,19 +216,11 @@ TradingView • 1d ago
 
 ---
 
-**[Solana Just Overtook Ethereum in New Developer Signups — Biggest News Shift for Solana?](https://cryptonews.com/news/solana-news-developer-share-23-percent-ethereum-drops/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rejection sparks pullback, ETH at risk of breakdown, XRP hints at deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rejection-sparks-pullback-eth-at-risk-of-breakdown-xrp-hints-at-deeper-losses-202605080344)**
 
-Explore the significant shift in Solana News, revealing a 45% increase in active developers and a new competitive landscape.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
 
-Cryptonews • 1d ago
-
----
-
-**[Ethereum co-founder Lubin backs ETH treasury firms, calls DATs 'profound innovation'](https://www.theblock.co/post/400171/ethereum-co-founder-lubin-backs-eth-treasury-firms-calls-dats-profound-innovation)**
-
-Joseph Lubin backed ETH treasury firms, confirmed Linea's Linux Foundation move, and highlighted Ethereum's quantum-safe roadmap.
-
-The Block • 3d ago
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 167 • ⏱️ 14:48 • 17h ago
+👁️ 38K • 👍 2K • 💬 167 • ⏱️ 14:48 • 19h ago
 
 ---
 
@@ -246,7 +244,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 108 • ⏱️ 11:32 • 14h ago
+👁️ 26K • 👍 1K • 💬 108 • ⏱️ 11:32 • 15h ago
 
 ---
 
@@ -254,7 +252,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 363 • 💬 29 • ⏱️ 2:31 • 12h ago
+👁️ 5K • 👍 363 • 💬 29 • ⏱️ 2:31 • 13h ago
 
 ---
 
@@ -264,7 +262,7 @@ Canada just launched its first regulated digital dollar — and it's running on 
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 428 • 💬 50 • ⏱️ 29:16 • 18h ago
+👁️ 6K • 👍 428 • 💬 50 • ⏱️ 29:16 • 19h ago
 
 ---
 
@@ -274,7 +272,7 @@ BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 341 • 💬 220 • ⏱️ 18:14 • 17h ago
+👁️ 8K • 👍 341 • 💬 220 • ⏱️ 18:14 • 18h ago
 
 ---
 
@@ -284,7 +282,7 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 393 • 💬 51 • ⏱️ 12:24 • 23h ago
+👁️ 9K • 👍 393 • 💬 51 • ⏱️ 12:24 • 1d ago
 
 ---
 

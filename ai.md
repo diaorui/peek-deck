@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-09T13:19:59.889248+00:00'
+updated: '2026-05-09T14:34:29.617578+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 09, 2026 at 13:19 UTC  
+**Last Updated:** May 09, 2026 at 14:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Joscha Bach: Mapping Every Neuron Won't Give You a Mind](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)**
 
-10h ago
+11h ago
+
+---
+
+**[I made a desktop crab that bullies you back](https://www.reddit.com/r/artificial/comments/1t7scgr/i_made_a_desktop_crab_that_bullies_you_back/)**
+
+He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
+
+11h ago
 
 ---
 
@@ -51,19 +59,11 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 ---
 
-**[I made a desktop crab that bullies you back](https://www.reddit.com/r/artificial/comments/1t7scgr/i_made_a_desktop_crab_that_bullies_you_back/)**
+**[Tech is turning increasingly to religion in a quest to create ethical AI](https://www.reddit.com/r/artificial/comments/1t82imt/tech_is_turning_increasingly_to_religion_in_a/)**
 
-He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
+Leaders from various religious groups met last week with representatives from companies including Anthropic and OpenAI for the inaugural “Faith-AI Covenant” roundtable in New York to discuss how best to infuse morality and ethics into the fast-developing technology. It was organized by the Geneva-based Interfaith Alliance for Safer Communities, which seeks to take on issues such as extremism, radicalization and human trafficking. The roundtable is expected to be the first of several around the globe, including in Beijing, Nairobi and Abu Dhabi.
 
-10h ago
-
----
-
-**[8 minute survey for college/univeristy students about AI](https://www.reddit.com/r/artificial/comments/1t843p7/8_minute_survey_for_collegeuniveristy_students/)**
-
-I am doing a research with my professor about the use of AI in college. Anyone who is aged 18 and older, and is currently in any level of study can take part. All instructions are provided in the survey. Please note you may be required to login in the software 'google forms' to access it, this was done in order to reduce spam. We need 300 responses, so far we only a third of the way there, so help me out :). Link: https://forms.gle/SZjWckXaSBrfjJjNA I appericate taking your time to do this survey.
-
-31m ago
+🔗 [AP News](https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea) • 3h ago
 
 ---
 
@@ -71,23 +71,15 @@ I am doing a research with my professor about the use of AI in college. Anyone w
 
 It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing too
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 3h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 4h ago
 
 ---
 
-**[Tech is turning increasingly to religion in a quest to create ethical AI](https://www.reddit.com/r/artificial/comments/1t82imt/tech_is_turning_increasingly_to_religion_in_a/)**
+**[5 enterprise AI agent swarms (Lemonade, CrowdStrike, Siemens) reverse-engineered into runnable browser templates.](https://www.reddit.com/r/artificial/comments/1t84u9c/5_enterprise_ai_agent_swarms_lemonade_crowdstrike/)**
 
-Leaders from various religious groups met last week with representatives from companies including Anthropic and OpenAI for the inaugural “Faith-AI Covenant” roundtable in New York to discuss how best to infuse morality and ethics into the fast-developing technology. It was organized by the Geneva-based Interfaith Alliance for Safer Communities, which seeks to take on issues such as extremism, radicalization and human trafficking. The roundtable is expected to be the first of several around the globe, including in Beijing, Nairobi and Abu Dhabi.
+Hey everyone, There is a massive disconnect right now between what indie devs are building with AI (mostly simple customer support chatbots) and what enterprise companies are actually deploying in production (complex, multi-agent swarms). I wanted to bridge this gap, so I spent the last few weeks analyzing case studies from massive tech companies to understand their multi-agent routing logic. Then, I recreated their architectures as runnable visual node-graphs inside agentswarms.fyi (an in-browser agent sandbox I’ve been building). If you want to see how the big players orchestrate agents without having to write 1,000 lines of Python, I just published 5 new industry templates you can run in your browser right now: 1. 🛡️ Insurance: Auto-Claims FNOL Triage Swarm Inspired by: Lemonade’s AI Jim, Tractable AI (Tokio Marine), and Zurich GenAI Claims. The Architecture: A multimodal swarm where a Vision Agent assesses uploaded images of car damage, a Policy Agent cross-references the user's coverage database, and a Fraud-Detection Agent flags inconsistencies before routing to a human adjuster. 2. ⚙️ Manufacturing: Quality / Root-Cause Analysis Swarm Inspired by: Siemens Industrial Copilot, BMW iFactory, Foxconn-NVIDIA Omniverse. The Architecture: A sensor-data ingest node triggers a diagnostic swarm. One agent pulls historical maintenance logs via RAG, while a SQL Agent queries the parts database to identify failure patterns on the assembly line. 3. 🔒 Cybersecurity: SOC Alert Triage & Response Inspired by: Microsoft Security Copilot, CrowdStrike Charlotte AI, Google Sec-Gemini. The Architecture: The ultimate high-speed parallel routing swarm. When an anomaly is detected, specialized sub-agents simultaneously investigate IP reputation, analyze the malicious payload, and draft an incident response ticket for the human SOC analyst to approve. 4. 📚 Education: Adaptive Socratic Tutor & Auto-Grader Inspired by: Khan Academy Khanmigo, Duolingo Max, Carnegie Learning LiveHint. The Architecture: A strict "No-Direct-Answers" routing loop. The Student Agent interacts with the user, but its output is constantly evaluated by a hidden "Pedagogy Agent" that ensures the AI is guiding the student to the answer via Socratic questioning rather than just giving away the solution. 5. 📦 Retail/E-commerce: Returns & Reverse-Logistics Swarm Inspired by: Walmart Sparky, Mercado Libre, Shopify Sidekick. The Architecture: A logistics orchestration loop that analyzes a customer return request, checks inventory levels in real-time, determines if the item should be restocked or liquidated (based on shipping costs vs. item value), and autonomously issues the refund. How to play with them: You don't need to spin up Docker containers or wrangle API keys to test these architectures. You can load any of these 5 templates directly into the visual canvas, see how the data flows between the specialized nodes, and try to break the routing logic yourself. Link: https://agentswarms.fyi/templates
 
-🔗 [AP News](https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea) • 1h ago
-
----
-
-**[New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test](https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/)**
-
-A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
-
-🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 22h ago
+1h ago
 
 ---
 
@@ -95,21 +87,31 @@ A new AI tool finds early hints of pancreatic cancer in CT scans that doctors wo
 
 I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just now, and in the "how do they work" section, he explains that while we know exactly how the LLM is trained by iterative updates, we don't understand why certain circuits emerge or why the parameter structures end up the way they do. i.e. there is highly complex emergent learning going on by this optimization of parameter relationships but we don't know how the LLM does it or why. This is apparently a well known problem in the AI space. To my untrained ear, this sounds like a red flag. It should be fully understood before we go any further. Here's the video: https://www.youtube.com/watch?v=zjkBMFhNj_g
 
-14h ago
+15h ago
 
 ---
 
-**[I like ChatGPT, I like AI](https://www.reddit.com/r/artificial/comments/1t7kzq1/i_like_chatgpt_i_like_ai/)**
+**[New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test](https://www.reddit.com/r/artificial/comments/1t7au63/new_ai_model_spots_pancreatic_cancer_up_to_3/)**
+
+A new AI tool finds early hints of pancreatic cancer in CT scans that doctors would otherwise miss, an early test found.
+
+🔗 [Live Science](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test) • 23h ago
+
+---
+
+**[I built a benchmark for AI “memory” in coding agents. looking for others to beat it.](https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/)**
+
+Most AI memory benchmarks test semantic recall. But coding agents don't really fail like that. They don't just "forget", they break their own earlier decisions while they're still in the code. So I built a benchmark for that. It checks if an agent can actually stay consistent with project rules WHILE it's working, not just after the fact. It looks at things like: whether edits actually respect earlier architectural decisions if behavior stays consistent across multiple sessions (even when you throw noise at it) whether retrieval kicks in at the right moment — not just "yeah it's in memory somewhere" Repo (full harness + dataset + scoring): https://github.com/Alienfader/continuity-benchmarks Early numbers vs baseline + the usual RAG-style memory setups: ~3× better action alignment way stronger multi-session consistency retrieval timing matters way more than retrieval just being there I'm not saying this is the final word on agent memory. But it's exposing a failure mode most benchmarks aren't even looking at. So heres the challenge If you're building an agent memory system, RAG for code, long-context coding agents, persistent state / memory layers, run it on this benchmark. Drop your results, your setup, your comparisons. I really wanna see how tools like LangChain, LlamaIndex, and custom RAG stacks hold up in mutation-heavy workflows. We need memory systems we can actually compare, not just ones that sound good on paper. https://preview.redd.it/dkm2ulxsyzzg1.png?width=2624&format=png&auto=webp&s=67f0299395708818aa3d7346ddae2ad0c5c4a6ba
 
 16h ago
 
 ---
 
-**[CFS - Conditional Field Subtraction](https://www.reddit.com/r/artificial/comments/1t7e8eu/cfs_conditional_field_subtraction/)**
+**[AMD's local, open-source AI can now easily interact with your Gmail](https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/)**
 
-CFS selects relevant candidates by penalizing regions already covered by previous picks. Results on retrieval ranking: baseline cosine top-K: NDCG@10 0.5123, Recall@10 0.6924 mem0 additive fusion: NDCG@10 0.4903, Recall@10 0.6625 rrf(cosine, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cosine, cos2, BM25): NDCG@10 0.5278, Recall@10 0.7060 rrf(cosine, BM25, CFS): NDCG@10 0.5311, Recall@10 0.7168 Against mem0’s additive fusion, rrf(cosine, BM25, CFS) improves retrieval ranking by +4.08 pp NDCG@10 and +5.43 pp Recall@10. Against rrf(cosine, BM25), adding CFS contributes +1.15 pp NDCG@10 and +1.79 pp Recall@10. https://gist.github.com/M-Garcia22/ff4ec80f5a08ca2fd9234bcc35804d1c
+AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
 
-🔗 [Medium](https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 1d ago
 
 ---
 
@@ -117,47 +119,9 @@ CFS selects relevant candidates by penalizing regions already covered by previou
 
 ## Google News: "ai"
 
-**[Meta’s Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**
+**[All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
 
-The New York Times • 23h ago
-
----
-
-**[Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags](https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html)**
-
-Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI
-
-CNBC • 17h ago
-
----
-
-**[Is an AI chatbot your BFF? Going analog may be the best bet at deeper relationships](https://www.cnn.com/2026/05/09/health/ai-loneliness-kara-swisher-wellness)**
-
-Stories abound of people falling in love or developing friendship with a chatbot. But that doesn’t actually solve the loneliness problem.
-
-CNN • 19m ago
-
----
-
-**[The Army is rolling AI out fast, but its former CIO says the real challenge isn't the tools — it's people](https://www.businessinsider.com/army-pushes-ai-but-getting-troops-to-adapt-is-harder-2026-5)**
-
-The Army is deploying digital tools across the force. Its former CIO says the biggest challenge isn't technology — it's getting people to adopt it.
-
-Business Insider • 1h ago
-
----
-
-**[I went seeking AI optimism at a federal lab in WA. Here's what I found.](https://www.seattletimes.com/pacific-nw-magazine/seeking-reassurance-at-a-federal-lab-in-richland-where-ai-is-booming/)**
-
-The Seattle Times • 19m ago
-
----
-
-**[Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)**
-
-New research on how we've reduced agentic misalignment
-
-Anthropic • 19h ago
+The New York Times • 2h ago
 
 ---
 
@@ -165,7 +129,29 @@ Anthropic • 19h ago
 
 Western Digital and Seagate have overtaken Nividia and Micron since the ChatGPT launch.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year](https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html)**
+
+Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.
+
+CNBC • 2h ago
+
+---
+
+**[Cathie Wood buys $14.9 million of tumbling AI stock](https://www.thestreet.com/investing/stocks/cathie-wood-buys-14-9-million-of-tumbling-ai-stock-tempus-ai-tem)**
+
+thestreet.com • 22h ago
+
+---
+
+**[Is an AI chatbot your BFF? Going analog may be the best bet at deeper relationships](https://www.cnn.com/2026/05/09/health/ai-loneliness-kara-swisher-wellness)**
+
+Stories abound of people falling in love or developing friendship with a chatbot. But that doesn’t actually solve the loneliness problem.
+
+CNN • 1h ago
 
 ---
 
@@ -173,19 +159,35 @@ Yahoo Finance • 16h ago
 
 Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’
 
-The Guardian • 11h ago
+The Guardian • 13h ago
 
 ---
 
-**[‘Real, lasting harm’: After AI image shared, Fayetteville-Manlius schools urge families to talk to students](https://www.localsyr.com/news/local-news/real-lasting-harm-after-ai-image-shared-fayetteville-manlius-schools-urge-families-to-talk-to-students/)**
+**[White House scrambles to tame AI fears](https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/)**
 
-WSYR • 3h ago
+The Hill • 4h ago
 
 ---
 
-**[White House’s ‘lack of organization’ has AI lobbyists fretting](https://www.politico.com/news/2026/05/08/trump-white-house-ai-confusion-00913092)**
+**[Companies name AI as top reason for job cuts for second straight month: Analysis](https://thehill.com/policy/technology/5870898-ai-job-cuts-analysis-trump-admin/)**
 
-Politico • 15h ago
+The Hill • 48m ago
+
+---
+
+**[Can AI Really Plan Your Vacation as Well as a Person?](https://www.travelandleisure.com/ai-trip-planning-tools-11968277)**
+
+Many of us are using AI these days. But for all the promise of the tech, these powerful tools are still coming into their own.
+
+Travel + Leisure • 34m ago
+
+---
+
+**[Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)**
+
+New research on how we've reduced agentic misalignment
+
+Anthropic • 20h ago
 
 ---
 
@@ -195,7 +197,7 @@ Politico • 15h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 816 • 💬 707 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 818 • 💬 707 • 1d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -203,7 +205,7 @@ Politico • 15h ago
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 358 • 💬 142 • 19h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 364 • 💬 144 • 20h ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -225,7 +227,7 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 **[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-⬆️ 122 • 💬 141 • 12h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 124 • 💬 146 • 13h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -233,7 +235,7 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 114 • 💬 52 • 5h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 119 • 💬 54 • 7h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
@@ -241,7 +243,7 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 108 • 💬 47 • 23h ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 110 • 💬 61 • 1d ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
@@ -255,7 +257,7 @@ Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate informat
 
 **[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
 
-⬆️ 50 • 💬 59 • 7h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
+⬆️ 51 • 💬 61 • 8h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
 
 ---
 
@@ -277,7 +279,7 @@ Try CodeRabbit here: https://coderabbit.link/ai-revolution OpenAI just launched 
 
 📺 AI Revolution
 
-👁️ 11K • 👍 398 • 💬 24 • ⏱️ 15:52 • 14h ago
+👁️ 11K • 👍 398 • 💬 24 • ⏱️ 15:52 • 16h ago
 
 ---
 
@@ -287,7 +289,7 @@ AI was supposed to make companies more efficient. Instead, it may be creating on
 
 📺 The Infographics Show
 
-👁️ 223K • 👍 7K • 💬 1K • ⏱️ 17:39 • 17h ago
+👁️ 223K • 👍 7K • 💬 1K • ⏱️ 17:39 • 18h ago
 
 ---
 
@@ -297,7 +299,7 @@ In this video, we look at John Lennox's warning about artificial intelligence, R
 
 📺 Lion of Judah
 
-👁️ 6K • 👍 478 • 💬 47 • ⏱️ 23:52 • 16h ago
+👁️ 6K • 👍 478 • 💬 47 • ⏱️ 23:52 • 17h ago
 
 ---
 
@@ -307,7 +309,7 @@ Here's the AI News you probably missed this week. Try HubSpot AEO on your brand 
 
 📺 Matt Wolfe
 
-👁️ 54K • 👍 2K • 💬 168 • ⏱️ 34:30 • 22h ago
+👁️ 54K • 👍 2K • 💬 168 • ⏱️ 34:30 • 23h ago
 
 ---
 
@@ -327,7 +329,7 @@ Dan Ives, Wedbush Securities, joins 'Closing Bell' to discuss Ives' investing vi
 
 📺 CNBC Television
 
-👁️ 49K • 👍 438 • 💬 97 • ⏱️ 4:50 • 16h ago
+👁️ 49K • 👍 438 • 💬 97 • ⏱️ 4:50 • 18h ago
 
 ---
 
@@ -337,7 +339,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 20K • 💬 26 • ⏱️ 29:57 • 23h ago
+👁️ 20K • 💬 26 • ⏱️ 29:57 • 1d ago
 
 ---
 
@@ -367,7 +369,7 @@ Follow me on IG, DM me "RABBIT" and I'll send you the free 1-hour AI monetizatio
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 13K • 👍 1K • 💬 229 • ⏱️ 1:28 • 16h ago
+👁️ 13K • 👍 1K • 💬 229 • ⏱️ 1:28 • 17h ago
 
 ---
 
@@ -383,7 +385,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 115,477 • ❤️ 472 • 14h ago
+⬇️ 115,477 • ❤️ 472 • 15h ago
 
 ---
 
@@ -407,7 +409,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 23,620 • ❤️ 306 • 15h ago
+⬇️ 23,620 • ❤️ 306 • 16h ago
 
 ---
 
@@ -659,7 +661,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 459 • 6h ago
+⭐ 5.9k • 🔱 459 • 8h ago
 
 ---
 
@@ -679,7 +681,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 373 • 5h ago
+⭐ 5.2k • 🔱 373 • 7h ago
 
 ---
 
@@ -689,7 +691,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.1k • 🔱 504 • 1h ago
+⭐ 4.1k • 🔱 504 • 2h ago
 
 ---
 
@@ -719,7 +721,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 734 • 6h ago
+⭐ 2.6k • 🔱 734 • 7h ago
 
 ---
 
@@ -729,7 +731,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 217 • 3h ago
+⭐ 2.4k • 🔱 217 • 4h ago
 
 ---
 

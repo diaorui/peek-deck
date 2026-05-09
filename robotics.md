@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T13:19:59.904555+00:00'
+updated: '2026-05-09T14:34:29.633957+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 13:19 UTC  
+**Last Updated:** May 09, 2026 at 14:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,13 @@ Robotics research and industry news
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-9h ago
+10h ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-12h ago
-
----
-
-**[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
-
-20h ago
+14h ago
 
 ---
 
@@ -56,7 +50,21 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
 
-39m ago
+1h ago
+
+---
+
+**[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
+
+21h ago
+
+---
+
+**[The UX of Robotics - The Door Test](https://www.reddit.com/r/robotics/comments/1t86424/the_ux_of_robotics_the_door_test/)**
+
+How to tell if a humanoid robot is ready to live in your home, or is it just an expensive toy? The Door Test. Can a Robot live in my home? I love the idea of robots. At the moment though, I think there’s far too much “Wizard of Oz” marketing around consumer robots. Great work is being done in non-humanoid robotics, with machines running tirelessly in “lights-out” factories. But humanoid robotics are a unique and complex thing. Watching Elon Musk “dance” with his robots is a pure Wizard of Oz spectacle. Robotics is full of demo theatrics. Seeing robots do backflips and run (pre-selected videos often shown when the robot didn’t face-plant), is at best an omission of the truth. Standing up and opening doors in uncontrolled, varied home environments is a much harder generalization problem than choreographed stunts in a known environment. However, the simple things in life, like standing up from a chair, or opening a door, are incredibly complex. To stand up from a chair requires a delicate balancing act of a multitude of factors — like the height and type of the chair (for example, armrests or swivel), the angle and weight of the body. Consider whether you have a robot in your home. In your house, you have many doors. We as humans effortlessly go in and out of rooms through doors. But doors are complex things in themselves. Here is a list of possibilities to be considered when going through a door. Is the door locked? Does the door open outward or inward? On which side of the door has the knob, left or right? What type of knob is it — twist, pull, push? Does the robot have the hand dexterity to do this? Is it open already, or ajar? Does the door open and close on its own, or need to be pushed? Is it heavy or light? Is it a sliding door, a double door, a garage door or even maybe a swinging door. What about rotating doors? Is there anyone coming through the other way? Do you close it after you? Is there a door threshold to trip over? Are there steps going up to or down from the door? Do you give the robot a set of keys? Will the robot know which key to use for which door? If it was locked, will it lock it after it, or leave it open if it was unlocked? If you are to welcome a robot into your house, you don’t want to spend all your time opening and closing doors for it. I tried to find a video of a robot opening a door, but I couldn’t find any convincing home door-opening demos in unconstrained settings outside of highly staged lab demos. Help me if you know of something. So, like the Turing Test, I'm opening up the Door Test: a simple, everyday feat. The Door Test: A humanoid robot should be able to approach an unfamiliar household door, infer how it works, open it safely, pass through, and close it appropriately (leaving it locked or open) without human assistance or per-door programming. I’m not opening the door of my house to any robot until it can do it itself.
+
+21m ago
 
 ---
 
@@ -76,17 +84,9 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 ---
 
-**[How to make my first robot?](https://www.reddit.com/r/robotics/comments/1t7vyta/how_to_make_my_first_robot/)**
-
-Hello, I am an engineering student, and I have an interest in making a robot with Arduino, but I've never made one before. Could I know what kind of resources to use to learn about this? I would like to follow tutorials to make a robot.
-
-7h ago
-
----
-
 **[CASE STUDY: Bonding CFRP to Stainless Steel in Food-Grade Automation](https://www.reddit.com/r/robotics/comments/1t7zyal/case_study_bonding_cfrp_to_stainless_steel_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello, I am an engineering student, and I have an interest in making a robot wit
 
 I just wanted to figure out which AI companion robot to buy. I ended up building an entire website to compare them. https://robotics.cantarollm.tech Still early days — new models being reviewed and added every week.
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ I just wanted to figure out which AI companion robot to buy. I ended up building
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 19h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 20h ago
 
 ---
 
@@ -121,22 +121,6 @@ The Washington Post • 1d ago
 **[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
 
 Reuters • 2d ago
-
----
-
-**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
-
-Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
-
-Business Insider • 4h ago
-
----
-
-**[SOUTH KOREA Robots and AI in S Korean nursing homes to address care crisis](https://www.asianews.it/news-en/Robots-and-AI-in-S-Korean-nursing-homes-to-address-care-crisis-65411.html)**
-
-The Seoul Welfare Foundation is launching a digital transformation programme in six facilities, introducing artificial intelligence and robotic assistance to reduce staff workload and improve elderly
-
-AsiaNews • 1h ago
 
 ---
 
@@ -162,6 +146,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+
+Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
+
+Business Insider • 5h ago
+
+---
+
 **[Falling prices, broad use scenarios fuel Chinese adoption of humanoid robots](https://www.globaltimes.cn/page/202605/1360578.shtml)**
 
 Driven by constant tech breakthroughs and growing market adoption, humanoid robots in China are undergoing a notable wave of price cuts this year.
@@ -172,7 +164,15 @@ Global Times • 1d ago
 
 **[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
+
+---
+
+**[Hacker Takes Over Robot Lawnmower, Runs Over Innocent Man](https://futurism.com/robots-and-machines/hacker-robot-lawnmower-runs-over-man)**
+
+A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
+
+Futurism • 20h ago
 
 ---
 
@@ -180,7 +180,7 @@ Bloomberg.com • 2d ago
 
 SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 1K • 👍 33 • 💬 17 • ⏱️ 2:19 • 16h ago
+👁️ 1K • 👍 33 • 💬 17 • ⏱️ 2:19 • 17h ago
 
 ---
 
@@ -204,7 +204,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 2K • 👍 38 • 💬 3 • ⏱️ 20:56 • 17h ago
+👁️ 2K • 👍 38 • 💬 3 • ⏱️ 20:56 • 18h ago
 
 ---
 
@@ -232,7 +232,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Existenzia
 
-👁️ 26K • 👍 206 • 💬 3 • ⏱️ 0:07 • 14h ago
+👁️ 26K • 👍 206 • 💬 3 • ⏱️ 0:07 • 16h ago
 
 ---
 

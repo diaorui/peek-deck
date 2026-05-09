@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T13:19:59.896603+00:00'
+updated: '2026-05-09T14:34:29.625186+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 13:19 UTC  
+**Last Updated:** May 09, 2026 at 14:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** +10.2%  
-**90d:** +14.7%  
-**1y:** -23.2%  
+**24h:** +0.2%  
+**7d:** +2.2%  
+**30d:** +10.1%  
+**90d:** +14.5%  
+**1y:** -23.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 Let get the BITCOIN
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Let get the BITCOIN
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 19h ago
 
 ---
 
@@ -105,7 +105,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 If you use a cold storage device without airgapping, is your BTC potentially forever compromised? Or is it only a risk while connected to the computer during the transaction? Thank you in advance
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,13 @@ If you use a cold storage device without airgapping, is your BTC potentially for
 
 If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-rare-bottom-signal-holders-not-selling/
 
-21h ago
+23h ago
+
+---
+
+**[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
+
+9h ago
 
 ---
 
@@ -121,15 +127,7 @@ If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-r
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
-
----
-
-**[BitPay now requires KYC for any amount](https://www.reddit.com/r/Bitcoin/comments/1t84hay/bitpay_now_requires_kyc_for_any_amount/)**
-
-Unfortunately a lot of online merchants who used to accept Bitcoin with BitPay, are not accepting btc anymore for me 💩
-
-15m ago
+8h ago
 
 ---
 
@@ -137,7 +135,7 @@ Unfortunately a lot of online merchants who used to accept Bitcoin with BitPay, 
 
 Taken these S21 back from the grave and giving them life again. They told me $250 to fix this I said I’ll do it myself. YouTube !!!!!
 
-18h ago
+19h ago
 
 ---
 
@@ -145,7 +143,7 @@ Taken these S21 back from the grave and giving them life again. They told me $25
 
 The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
 
-23h ago
+1d ago
 
 ---
 
@@ -165,7 +163,7 @@ All jokes aside, when I saw the notification I jumped to the app to see if I cou
 
 Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -173,7 +171,29 @@ Fortune • 21h ago
 
 “Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
+
+---
+
+**[Trader Eugene Ng Ah Sio: Bitcoin Near Key Breakout Level as Altcoins Show Bottoming Signals](https://www.binance.com/en/square/post/321307624836818)**
+
+Binance • 30m ago
+
+---
+
+**[Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-peter-brandt-130955200.html)**
+
+Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
+
+Yahoo Finance • 1h ago
+
+---
+
+**[US Bitcoin ETFs See $3.4 Billion Inflow Since April, Longest in 9 Months](https://finance.yahoo.com/markets/crypto/articles/us-bitcoin-etfs-see-3-132258081.html)**
+
+Spot Bitcoin ETFs notched six straight weeks of inflows totaling $3.4 billion, the longest streak since July 2025.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,31 +201,7 @@ Bitcoin Magazine • 15h ago
 
 Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.
 
-CNBC • 23h ago
-
----
-
-**[Revolut Confirms Bitcoin Price Glitch After App Briefly Shows BTC Near Zero](https://finance.yahoo.com/markets/crypto/articles/revolut-confirms-bitcoin-price-glitch-123339143.html)**
-
-Revolut confirmed a Bitcoin price glitch after its app briefly showed BTC at $0.02 while markets held near $79,000.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin (BTC) price just plunged to 2-cents for some Revolut users](https://www.coindesk.com/markets/2026/05/08/bitcoin-shows-2-cent-price-on-revolut-as-users-report-apparent-btc-display-glitch)**
-
-Screenshots showed BTC briefly far below global market prices, though it remains unclear whether any trades were executed at those levels or whether the move was a display issue.
-
-CoinDesk • 1d ago
-
----
-
-**[Revolut users report Bitcoin price glitch showing BTC at 2 cents](https://www.tradingview.com/news/cointelegraph:829676cca094b:0-revolut-users-report-bitcoin-price-glitch-showing-btc-at-2-cents/)**
-
-Revolut users reported that the app briefly displayed Bitcoin prices plunging to around $39,900 on Friday, while some traders also received notifications suggesting extreme price moves, including that BTC had reached a 52-week low of 2 cents.Users further reported on X apparent simultaneous price d…
-
-TradingView • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -213,13 +209,13 @@ TradingView • 1d ago
 
 Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
 
-Bloomberg.com • 22h ago
+Bloomberg • 23h ago
 
 ---
 
@@ -227,15 +223,15 @@ Bloomberg.com • 22h ago
 
 Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
+**[How Buying Bitcoin Today Could Help You Retire a Millionaire](https://www.fool.com/investing/2026/05/09/buying-bitcoin-could-help-you-retire-a-millionaire/)**
 
-Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
+If Bitcoin grows at the same pace as it has for the past 15 years, it will continue to mint new millionaires.
 
-Forbes • 1h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -247,7 +243,7 @@ Forbes • 1h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 17h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 18h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -279,7 +275,7 @@ ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 17h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 19h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -299,7 +295,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 108 • ⏱️ 11:32 • 14h ago
+👁️ 26K • 👍 1K • 💬 108 • ⏱️ 11:32 • 15h ago
 
 ---
 
@@ -309,7 +305,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 12K • 👍 120 • 💬 99 • ⏱️ 4:14 • 17h ago
+👁️ 12K • 👍 120 • 💬 99 • ⏱️ 4:14 • 18h ago
 
 ---
 
@@ -319,7 +315,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 228 • 💬 47 • ⏱️ 8:08 • 13h ago
+👁️ 4K • 👍 228 • 💬 47 • ⏱️ 8:08 • 15h ago
 
 ---
 
@@ -349,7 +345,7 @@ Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief 
 
 📺 CNBC Television
 
-👁️ 8K • 👍 125 • 💬 85 • ⏱️ 9:09 • 16h ago
+👁️ 8K • 👍 125 • 💬 85 • ⏱️ 9:09 • 17h ago
 
 ---
 
@@ -359,7 +355,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 667 • 💬 89 • ⏱️ 3:55 • 9h ago
+👁️ 8K • 👍 667 • 💬 89 • ⏱️ 3:55 • 10h ago
 
 ---
 
@@ -379,7 +375,7 @@ Bitcoin #Crypto #Finance Bitcoin is entering a new phase where the biggest moves
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 720 • 💬 284 • ⏱️ 25:23 • 23h ago
+👁️ 12K • 👍 720 • 💬 284 • ⏱️ 25:23 • 1d ago
 
 ---
 
