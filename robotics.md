@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T02:53:42.589796+00:00'
+updated: '2026-05-09T05:50:06.364552+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 02:53 UTC  
+**Last Updated:** May 09, 2026 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-2h ago
+5h ago
+
+---
+
+**[A hobby engineer builds a fully automated wheelchair for his wife](https://www.reddit.com/r/robotics/comments/1t7tyw5/a_hobby_engineer_builds_a_fully_automated/)**
+
+The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
+
+1h ago
 
 ---
 
 **[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -48,7 +56,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
-15h ago
+18h ago
 
 ---
 
@@ -56,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
 
 The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
 
-13h ago
+16h ago
 
 ---
 
@@ -64,7 +72,7 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=8xEuFQz4E4A) • 12h ago
 
 ---
 
@@ -72,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Custom Pan Tilt mechanism I put together for a teleop robot. The motor choice was somewhat arbitrary, I have had them on my shelf for a while and wanted to try them on a project. I love the speed and responsiveness and the ease of setup/ integration. One slight downside is that since I am using the secondary encoder for closed loop control, there is a slight audible chatter from the planetary gears in a balanced system. I think I could fix it with a slight spring bias, but haven't tried. Target speed of the system was 720 deg/sec for each axis which these motors provide. Admittedly I am running these motors at 10% power as they are way overkill for this application (that being said, this design should allow heavier payloads pretty easily without dropping rate). The pan wiring is supported with a 6mm nylon strip to control bending, the tilt wiring is just a bend rated usb3 cable loop. The wiring allows for 360 degrees pan, 180 degrees tilt (but for this robot I have it limited to 180, 180) The camera is streaming to a meta quest3s and tracking its motion. Hardware: Motor: SteadyWin GIM6010-8, Camera: OakD-LR
 
-11h ago
+14h ago
 
 ---
 
@@ -80,29 +88,21 @@ Custom Pan Tilt mechanism I put together for a teleop robot. The motor choice wa
 
 Hey everyone, sharing an early stage project I've been working on as part of a research project about studying cooperation through games played by simple agents. The goal is to build a small fleet of robots that play cooperative games together, where each robot has different "senses";one can only see, one can only hear, one may have proximity sensing, etc. The question is what kinds of cooperative strategies emerge when agents have to share information across asymmetric sensing. Eventually I want to put a larger language model (something like Gemma) in the loop as a strategist, with smaller, faster models handling execution on each robot. But that's far down the road. Where it is now: The chassis is a modified Bambu CyberBrick model, redesigned to fit a custom ESP32-S3 with a camera module Each robot streams video over Wifi to a PC, where ArUco markers are detected for positioning. Doing the CV offboard to save battery on the robot Right now I'm using 4 big ArUco markers as a proof of concept, but for a real arena I'd put many more on the walls for proper coverage Motors are driven through a small motor driver and voltage monitoring board I wired up on perfboard Powered by a drone battery, which has way more current than the motors actually need, but interestingly the ESP32 can still charge from it What i still need to figure out for the future Autonomous charging stations (the dream: robots that go dock themselves when low) More markers and a properly controlled arena The actual cooperative game design and the asymmetric-sense layer and Putting AI in the control loop Very much work in progress. I'd genuinely value any thoughts on the localization side (is ArUco the right call or should I be looking at something else?) and on the multi-agent side if anyone's worked on similar setups.
 
-9h ago
+12h ago
+
+---
+
+**[How to make my first robot?](https://www.reddit.com/r/robotics/comments/1t7vyta/how_to_make_my_first_robot/)**
+
+Hello, I am an engineering student, and I have an interest in making a robot with Arduino, but I've never made one before. Could I know what kind of resources to use to learn about this? I would like to follow tutorials to make a robot.
+
+14m ago
 
 ---
 
 **[Arm robot](https://www.reddit.com/r/robotics/comments/1t775x7/arm_robot/)**
 
-13h ago
-
----
-
-**[I learned robot programming on this Cincinnati Milacron T3 in 1984](https://www.reddit.com/r/robotics/comments/1t6mmp1/i_learned_robot_programming_on_this_cincinnati/)**
-
-Hydraulic power pack is in a soundproofed enclosure next door. Approximately 100 kilo lifting force. My instructor shown for scale. The red railing is to keep students alive. The tool swished past my face once when I pressed Go Back, instead of Go Forward. Simple mistake? Centennial College Ashtonbee Campus, Scarborough Ontario.
-
-1d ago
-
----
-
-**[Open-source React component library for robotics telemetry dashboards — Altara](https://www.reddit.com/r/robotics/comments/1t7mo6i/opensource_react_component_library_for_robotics/)**
-
-Built a library of real-time UI components specifically for robotics and telemetry — things like attitude indicators, LiDAR point cloud viewers, occupancy grids, and time-series charts. Works with ROS2 via rosbridge and MQTT out of the box. Live demo: https://jayasaikishanchapparam.github.io/altara/demo/ GitHub: https://github.com/JayaSaiKishanChapparam/altara Looking for honest feedback from people building real systems.
-
-4h ago
+16h ago
 
 ---
 
@@ -124,17 +124,17 @@ Reuters • 2d ago
 
 ---
 
-**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
-
-SpaceNews • 15h ago
-
----
-
 **[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
 
 The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
 
 Rocket Lab • 1d ago
+
+---
+
+**[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
+
+SpaceNews • 18h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo Finance • 1d ago
 
 **[Humanoid Robots Are the Next Phase of the AI Hype Cycle](https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests)**
 
-Bloomberg • 20h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Bloomberg • 20h ago
 
 Driven by constant tech breakthroughs and growing market adoption, humanoid robots in China are undergoing a notable wave of price cuts this year.
 
-Global Times • 13h ago
+Global Times • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ South China Morning Post • 1d ago
 
 SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 8h ago
 
 “The smart home is getting kind of boring.”
 
-The Verge • 14h ago
+The Verge • 17h ago
 
 ---
 
@@ -186,23 +186,23 @@ The Verge • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[Forget About Any Job Forever With This $5,000 AI Robot - It Will Do Everything For You](https://www.youtube.com/watch?v=GBlCDrN7t2s)**
-
-A new generation of AI robots is being designed to handle everyday tasks with minimal human involvement, from communication ...
-
-📺 Carros Show
-
-👁️ 902 • 👍 22 • 💬 2 • ⏱️ 20:56 • 6h ago
-
----
-
 **[Figure Helix 02 Humanoid Robot Cleans Bedroom Like a Human](https://www.youtube.com/watch?v=xsLOYZxIUqc)**
 
 Figure AI just revealed one of the most realistic humanoid robot demonstrations yet. The new Helix 02 robot cleaned and ...
 
 📺 DPCcars
 
-👁️ 418 • 👍 17 • 💬 7 • ⏱️ 2:19 • 5h ago
+👁️ 561 • 👍 21 • 💬 7 • ⏱️ 2:19 • 8h ago
+
+---
+
+**[Forget About Any Job Forever With This $5,000 AI Robot - It Will Do Everything For You](https://www.youtube.com/watch?v=GBlCDrN7t2s)**
+
+A new generation of AI robots is being designed to handle everyday tasks with minimal human involvement, from communication ...
+
+📺 Carros Show
+
+👁️ 1K • 👍 27 • 💬 3 • ⏱️ 20:56 • 9h ago
 
 ---
 
@@ -210,7 +210,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 13K • 👍 58 • 💬 3 • ⏱️ 0:14 • 17h ago
+👁️ 17K • 👍 79 • 💬 3 • ⏱️ 0:14 • 20h ago
 
 ---
 
@@ -220,7 +220,7 @@ In April, Ukrainian President Volodymr Zelensky claimed that Ukrainian-made robo
 
 📺 BBC World Service
 
-👁️ 60K • 👍 967 • 💬 161 • ⏱️ 7:35 • 2d ago
+👁️ 64K • 👍 1K • 💬 170 • ⏱️ 7:35 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Existenzia
 
-👁️ 4K • 👍 92 • 💬 1 • ⏱️ 0:07 • 4h ago
+👁️ 14K • 👍 141 • 💬 2 • ⏱️ 0:07 • 7h ago
 
 ---
 
@@ -240,35 +240,7 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 📺 KTLA 5
 
-👁️ 25K • 👍 228 • 💬 91 • ⏱️ 2:14 • 3d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=odFrssrLHSM)**
-
-📺 Robot Julie 
-
-👁️ 12K • 👍 96 • 💬 5 • ⏱️ 0:25 • 1d ago
-
----
-
-**[Scientists Built a Robot With Living Skin That Heals Itself!!](https://www.youtube.com/watch?v=PjnIlC2OGyI)**
-
-Scientists at the University of Tokyo created a robotic face covered with living cultured skin by developing perforation-type anchors ...
-
-📺 Science Daily
-
-👁️ 2K • 💬 4 • ⏱️ 0:23 • 7h ago
-
----
-
-**[Einstein Final Tiebreaker - FIRST Championship - FIRST Robotics Competition](https://www.youtube.com/watch?v=j8wz5vw5XfE)**
-
-Einstein Final Tiebreaker - FIRST Championship - FIRST Robotics Competition Red (Teams 4065, 4414, 1323) - 712 Blue (Teams ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 20K • 👍 216 • 💬 23 • ⏱️ 3:35 • 6d ago
+👁️ 25K • 👍 231 • 💬 91 • ⏱️ 2:14 • 3d ago
 
 ---
 
@@ -278,7 +250,35 @@ War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 17K • 👍 788 • 💬 108 • ⏱️ 11:18 • 1d ago
+👁️ 18K • 👍 797 • 💬 109 • ⏱️ 11:18 • 1d ago
+
+---
+
+**[China Robot Dance ](https://www.youtube.com/watch?v=RODOkrw4UVM)**
+
+China Robot Dance is an amazing display of artificial intelligence and robotics from China, showcasing the country's ...
+
+📺 Naa Anveshana
+
+👁️ 332K • 👍 20K • 💬 2K • ⏱️ 16:03 • 2d ago
+
+---
+
+**[Humanoid robot becomes buddhist monk in ceremony at Seoul temple](https://www.youtube.com/watch?v=GNqfdXKQPvo)**
+
+Watch as a humanoid robot professes that it will “devote himself” as it becomes a buddhist monk. Gabi, a 4.3 feet robot monk, ...
+
+📺 The Independent
+
+👁️ 23K • 👍 675 • 💬 377 • ⏱️ 1:59 • 2d ago
+
+---
+
+**[VEX OVERRIDE MEGA TOWER #robotics #vex #vexrobotics #robot #override #pushback](https://www.youtube.com/watch?v=JmpESyBlXps)**
+
+📺 Hawks Robotics
+
+👁️ 3K • 👍 37 • 💬 2 • ⏱️ 0:05 • 4h ago
 
 ---
 
