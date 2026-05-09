@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T20:08:23.053999+00:00'
+updated: '2026-05-09T21:09:48.457935+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 20:08 UTC  
+**Last Updated:** May 09, 2026 at 21:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,028.30
+### $80,744.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +3.0%  
-**30d:** +10.9%  
-**90d:** +15.4%  
-**1y:** -22.7%  
+**24h:** +0.7%  
+**7d:** +2.9%  
+**30d:** +10.8%  
+**90d:** +15.3%  
+**1y:** -22.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1620.06B
+**Market Cap:** $1618.66B
 Rank #1
 
-**Circulating Supply:** 20,027,003 BTC
+**Circulating Supply:** 20,027,037 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-35.9%
 
 **All-Time Low:** $67.81
-+119196.6%
++119115.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,21 +87,13 @@ Rank #1
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
-3h ago
-
----
-
-**[Once Bitcoin cracks $120k again, it’ll never dip below six figures for the rest of its history](https://www.reddit.com/r/Bitcoin/comments/1t7sljd/once_bitcoin_cracks_120k_again_itll_never_dip/)**
-
-It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
-
-17h ago
+4h ago
 
 ---
 
 **[The Millionaire I Could Have Been](https://www.reddit.com/r/Bitcoin/comments/1t8ayo5/the_millionaire_i_could_have_been/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +101,15 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 Bitcoin feels less like a revolution and more like a pressure valve. Governments print massive amounts of money → inflation risk rises → trust in fiat weakens. Instead of letting that fully collapse currencies, capital flows into Bitcoin. Result: excess liquidity gets “absorbed” into a digital asset, while fiat systems stay intact a bit longer. Not saying it’s the original intent—but the effect is the same: a buffer that helps preserve the current monetary system.
 
-1h ago
+2h ago
+
+---
+
+**[Once Bitcoin cracks $120k again, it’ll never dip below six figures for the rest of its history](https://www.reddit.com/r/Bitcoin/comments/1t7sljd/once_bitcoin_cracks_120k_again_itll_never_dip/)**
+
+It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
+
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ Bitcoin feels less like a revolution and more like a pressure valve. Governments
 
 This is the era of native machine-to-machine payments: autonomous AI agents that don't just consume information, but pay for it, on the spot, without human intervention, using the internet's own protocol.
 
-🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 2h ago
+🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 3h ago
 
 ---
 
@@ -125,7 +125,7 @@ This is the era of native machine-to-machine payments: autonomous AI agents that
 
 Hi guys, was wanting to see if anyone could tell me the difference between these and what the pros and cons are of each? Im wanting to withdraw crypto from kraken but I need an address to send it to and so on. Any insight would be helpful and any personal experiences. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -133,13 +133,13 @@ Hi guys, was wanting to see if anyone could tell me the difference between these
 
 Let get the BITCOIN
 
-13h ago
+14h ago
 
 ---
 
 **[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Let get the BITCOIN
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 3h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 4h ago
 
 ---
 
@@ -155,27 +155,11 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
+**[Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns](https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns)**
 
-Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
+The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-Fortune • 1d ago
-
----
-
-**[Why The U.S. Military Just Turned On A Bitcoin Node — And What “Power Projection” Really Means](https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military)**
-
-“Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
-
-Bitcoin Magazine • 22h ago
-
----
-
-**[Trump-Backed American Bitcoin Shares Fall After $82 Million Q1 Loss](https://finance.yahoo.com/markets/crypto/articles/trump-backed-american-bitcoin-shares-173556892.html)**
-
-Shares in Eric Trump's mining firm American Bitcoin have fallen more than 9% after reporting a quarterly loss of nearly $82 million.
-
-Yahoo Finance • 2d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,19 +169,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns](https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns)**
+**[American Bitcoin revenue falls 21% in Q1 as strategic reserve grows 30% to 7,021 bitcoin: Q1 Earnings](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-revenue-falls-21-132444802.html)**
 
-The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
+The company said it mined a record 817 bitcoin in the quarter, up from about 783 in Q4 2025, and purchased an additional 803 bitcoin through treasury operations. Mining gross…
 
-CoinDesk • 2h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Miners Bag Profit: 3,400 BTC Flow Out Of Reserves Since April](https://www.tradingview.com/news/newsbtc:90468224b094b:0-bitcoin-miners-bag-profit-3-400-btc-flow-out-of-reserves-since-april/)**
+**[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
 
-The price of Bitcoin has been relatively stable since the start of April, showing strong efforts to reclaim former highs. In its latest recovery attempt, the premier cryptocurrency finally returned above $80,000 for the first time since early February.Unsurprisingly, a relevant group of network par…
+Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
-TradingView • 3h ago
+Fortune • 1d ago
 
 ---
 
@@ -213,15 +197,13 @@ CNBC • 1d ago
 
 Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Is now the time to get back into Bitcoin?](https://nypost.com/business/is-bitcoin-a-good-investment-right-now-what-to-know/)**
+**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
 
-Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
-
-New York Post • 10h ago
+WSJ • 3d ago
 
 ---
 
@@ -229,7 +211,21 @@ New York Post • 10h ago
 
 Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
 
-Forbes • 8h ago
+Forbes • 9h ago
+
+---
+
+**[CryptoQuant says bitcoin profit-taking could increase further amid 'bear market rally'](https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally)**
+
+Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -241,7 +237,7 @@ Forbes • 8h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 23h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 1d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -285,7 +281,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 1h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 2h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -315,7 +311,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 21h ago
+👁️ 35K • 👍 2K • 💬 220 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -325,7 +321,7 @@ Welcome back to Verified Investing! In today's video, Chief Market Strategist Ga
 
 📺 Gareth Soloway
 
-👁️ 19K • 👍 2K • 💬 152 • ⏱️ 10:40 • 6h ago
+👁️ 25K • 👍 2K • 💬 169 • ⏱️ 10:40 • 7h ago
 
 ---
 
@@ -335,17 +331,7 @@ Jp Morgan report explains what investors are thinking about bitcoin since the wa
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 357 • 💬 94 • ⏱️ 1:18:33 • 1d ago
-
----
-
-**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
-
-Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
-
-📺 Simply Bitcoin
-
-👁️ 78K • 👍 3K • 💬 448 • ⏱️ 15:19 • 1d ago
+👁️ 8K • 👍 360 • 💬 85 • ⏱️ 1:18:33 • 1d ago
 
 ---
 
@@ -355,7 +341,17 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 106 • ⏱️ 9:53 • 1d ago
+👁️ 39K • 👍 2K • 💬 105 • ⏱️ 9:53 • 1d ago
+
+---
+
+**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
+
+Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
+
+📺 Simply Bitcoin
+
+👁️ 79K • 👍 3K • 💬 453 • ⏱️ 15:19 • 2d ago
 
 ---
 
@@ -365,17 +361,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 241 • 💬 40 • ⏱️ 8:08 • 20h ago
-
----
-
-**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
-
-My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 743 • 💬 310 • ⏱️ 13:40 • 2d ago
+👁️ 5K • 👍 243 • 💬 40 • ⏱️ 8:08 • 21h ago
 
 ---
 
@@ -385,7 +371,17 @@ Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 152 • 💬 104 • ⏱️ 9:09 • 23h ago
+👁️ 10K • 👍 158 • 💬 137 • ⏱️ 9:09 • 1d ago
+
+---
+
+**[Bitcoin Is About To Break Its Most Important Crypto Pattern Ever](https://www.youtube.com/watch?v=U5e0xdFYtb0)**
+
+My Links: ▻ Get the risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 14K • 👍 743 • 💬 321 • ⏱️ 13:40 • 2d ago
 
 ---
 
@@ -395,17 +391,17 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 14K • 👍 131 • 💬 112 • ⏱️ 4:14 • 1d ago
+👁️ 14K • 👍 134 • 💬 113 • ⏱️ 4:14 • 1d ago
 
 ---
 
-**[Bitcoin: The Beauty of Mathematics (Part 70)](https://www.youtube.com/watch?v=E6xmZR6HRGw)**
+**[BITCOIN: Don&#39;t Take The BAIT! (it’s a trap) - BTC Price Prediction Today](https://www.youtube.com/watch?v=fFsKawYob8E)**
 
-It is once again time for another update on our "Bitcoin: The Beauty of Mathematics" series! Into The Cryptoverse Premium SALE: ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Benjamin Cowen
+📺 BitcoinHyper
 
-👁️ 49K • 👍 3K • 💬 121 • ⏱️ 4:32 • 2d ago
+👁️ 9K • 👍 587 • 💬 36 • ⏱️ 15:25 • 11h ago
 
 ---
 
