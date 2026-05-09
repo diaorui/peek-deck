@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T17:52:35.695401+00:00'
+updated: '2026-05-09T19:03:33.062256+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 17:52 UTC  
+**Last Updated:** May 09, 2026 at 19:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-13h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,13 +52,19 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
+3h ago
+
+---
+
+**[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
+
 1h ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +72,15 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
 
-2h ago
+4h ago
+
+---
+
+**[3D Depth Camera Test](https://www.reddit.com/r/robotics/comments/1t83x6r/3d_depth_camera_test/)**
+
+I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
+
+6h ago
 
 ---
 
@@ -76,33 +90,17 @@ I’m currently learning the maths foundations behind kinematics so I built this
 
 ---
 
-**[3D Depth Camera Test](https://www.reddit.com/r/robotics/comments/1t83x6r/3d_depth_camera_test/)**
+**[Semantic similarity metrics](https://www.reddit.com/r/robotics/comments/1t8cgi9/semantic_similarity_metrics/)**
 
-I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
-
-5h ago
+49m ago
 
 ---
 
-**[Best methods for online tuning of MPC parameters in the real world?](https://www.reddit.com/r/robotics/comments/1t882w4/best_methods_for_online_tuning_of_mpc_parameters/)**
+**[Robot Helps Man Cook](https://www.reddit.com/r/robotics/comments/1t8c0vx/robot_helps_man_cook/)**
 
-2h ago
+Made a fun video exploring integrating a robot arm into the kitchen... It was actually quite challenging to maneuver around! Set quite a few way points using MoveIt2, but it's motion planning is decent if you map out the kitchen shelf and counter. Enjoy!
 
----
-
-**[Incredibly fast recovery of a Unitree G1 robot.](https://www.reddit.com/r/robotics/comments/1t74nli/incredibly_fast_recovery_of_a_unitree_g1_robot/)**
-
-From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2052704316981481505
-
-1d ago
-
----
-
-**[Any strategies to achieve straight line motion on my 6-axis robot?](https://www.reddit.com/r/robotics/comments/1t77mw6/any_strategies_to_achieve_straight_line_motion_on/)**
-
-The limitation of the hardaware is that I'm communicating to each joint over CAN from my laptop, which I found to be slow. It seems I cannot go over 20 Hz before finding comm issues. As I see it, the only solution is to use a microcontroller and control the stepper motors with Pulse/Direction commands. Or is there an alternative solution? Motors: Nema17 stepper Driver: Closed-Loop SERVO42D CAN driver Another issue: When sending position commands, the driver implements a trapezoidal, so naturally, with continuous small commands, the motion will be jerky. I've tried streaming velocity commands instead, which works a bit better, but still unable to achieve smooth motion, as seen in the video. For more details about the robot, feel free to check the YT video: https://youtu.be/eowXnKFP63c?si=vKJIxuGsIe-FVQj2
-
-1d ago
+🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 1h ago
 
 ---
 
@@ -110,19 +108,19 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 ## Google News: "robotics"
 
-**[Video Friday: AI Gives Robot Hands Human-Like Dexterity](https://spectrum.ieee.org/video-friday-robotic-hand-dexterity)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1h ago
-
----
-
 **[Opinion | An American industrial revolution is brewing. I saw it in Pittsburgh.](https://www.washingtonpost.com/opinions/2026/05/07/us-robotics-firm-tech-innovators-modernize-manufacturing-defense/)**
 
 America isn't ready for "Day 30." Companies like Pittsburgh's Gecko Robotics are working to change that.
 
 The Washington Post • 2d ago
+
+---
+
+**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+
+Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
+
+Business Insider • 10h ago
 
 ---
 
@@ -148,19 +146,11 @@ Rocket Lab • 1d ago
 
 ---
 
-**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+**[Bixby 8th graders place top five in world robotics championship](https://www.newson6.com/tulsa-oklahoma-news/bixby-8th-graders-place-top-five-in-world-robotics-championship)**
 
-Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
+A Bixby Middle School robotics team became the first in state history to reach the championship dome at the VEX IQ World Championship, finishing fifth against teams from 54 countries.
 
-Business Insider • 8h ago
-
----
-
-**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.yahoo.com/news/videos/western-pennsylvania-school-deaf-wins-025715606.html)**
-
-Western Pennsylvania School for the Deaf wins national robotics championship
-
-Yahoo • 14h ago
+News On 6 • 15h ago
 
 ---
 
@@ -176,13 +166,21 @@ Global Times • 1d ago
 
 A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
 **[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
+
+---
+
+**[SoundHound AI Robotics Deal Tests Voice Platform Against Analyst Optimism](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-robotics-deal-tests-181946271.html)**
+
+SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +194,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 1K • 👍 41 • 💬 18 • ⏱️ 2:19 • 20h ago
+👁️ 2K • 👍 50 • 💬 23 • ⏱️ 2:19 • 22h ago
 
 ---
 
@@ -206,7 +204,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 3K • 👍 42 • 💬 3 • ⏱️ 20:56 • 21h ago
+👁️ 3K • 👍 43 • 💬 3 • ⏱️ 20:56 • 23h ago
 
 ---
 
@@ -214,7 +212,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 BORUNTE-Robot-Messi
 
-👁️ 26K • 👍 95 • 💬 3 • ⏱️ 0:14 • 1d ago
+👁️ 27K • 👍 95 • 💬 3 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -224,17 +222,17 @@ Across the frontline, unmanned ground vehicles, or UGVs, are taking on some of t
 
 📺 UNITED24
 
-👁️ 70K • 👍 2K • 💬 114 • ⏱️ 11:56 • 1d ago
+👁️ 75K • 👍 2K • 💬 119 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[MIT Created Shape Shifting Robots That Reshape Themselves](https://www.youtube.com/watch?v=MXZBYAHdhBs)**
+**[EVERYONE needs to know about this DIRTY TRICK in War Robots](https://www.youtube.com/watch?v=hfSecKnnta0)**
 
-Researchers at MIT (Massachusetts Institute of Technology), including students and faculty in the Computer Science and Artificial ...
+War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Existenzia
+📺 Manni-Gaming
 
-👁️ 28K • 👍 234 • 💬 4 • ⏱️ 0:07 • 19h ago
+👁️ 20K • 👍 840 • 💬 116 • ⏱️ 11:18 • 2d ago
 
 ---
 
@@ -242,7 +240,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Hawks Robotics
 
-👁️ 7K • 👍 50 • 💬 2 • ⏱️ 0:05 • 16h ago
+👁️ 8K • 👍 56 • 💬 2 • ⏱️ 0:05 • 17h ago
 
 ---
 
@@ -252,7 +250,17 @@ China Robot Dance is an amazing display of artificial intelligence and robotics 
 
 📺 Naa Anveshana
 
-👁️ 380K • 👍 22K • 💬 2K • ⏱️ 16:03 • 2d ago
+👁️ 397K • 👍 22K • 💬 2K • ⏱️ 16:03 • 2d ago
+
+---
+
+**[MIT Created Shape Shifting Robots That Reshape Themselves](https://www.youtube.com/watch?v=MXZBYAHdhBs)**
+
+Researchers at MIT (Massachusetts Institute of Technology), including students and faculty in the Computer Science and Artificial ...
+
+📺 Existenzia
+
+👁️ 38K • 👍 276 • 💬 7 • ⏱️ 0:07 • 20h ago
 
 ---
 
@@ -272,17 +280,7 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 📺 KTLA 5
 
-👁️ 26K • 👍 238 • 💬 92 • ⏱️ 2:14 • 3d ago
-
----
-
-**[EVERYONE needs to know about this DIRTY TRICK in War Robots](https://www.youtube.com/watch?v=hfSecKnnta0)**
-
-War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 19K • 👍 832 • 💬 115 • ⏱️ 11:18 • 2d ago
+👁️ 26K • 👍 238 • 💬 93 • ⏱️ 2:14 • 3d ago
 
 ---
 

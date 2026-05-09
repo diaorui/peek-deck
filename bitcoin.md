@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T17:52:35.686162+00:00'
+updated: '2026-05-09T19:03:33.054124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 17:52 UTC  
+**Last Updated:** May 09, 2026 at 19:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,660.73
+### $81,028.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +2.6%  
-**30d:** +10.5%  
-**90d:** +15.0%  
-**1y:** -23.0%  
+**24h:** +1.0%  
+**7d:** +3.0%  
+**30d:** +10.9%  
+**90d:** +15.4%  
+**1y:** -22.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1612.50B
+**Market Cap:** $1620.06B
 Rank #1
 
-**Circulating Supply:** 20,026,934 BTC
+**Circulating Supply:** 20,027,003 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.1%
+-35.8%
 
 **All-Time Low:** $67.81
-+118630.3%
++119196.6%
 
 ---
 
@@ -77,57 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Once Bitcoin cracks $120k again, it’ll never dip below six figures for the rest of its history](https://www.reddit.com/r/Bitcoin/comments/1t7sljd/once_bitcoin_cracks_120k_again_itll_never_dip/)**
+**[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
-
-15h ago
-
----
-
-**[BTC The more you guys sell the more we buy](https://www.reddit.com/r/Bitcoin/comments/1t7x808/btc_the_more_you_guys_sell_the_more_we_buy/)**
-
-Let get the BITCOIN
-
-11h ago
-
----
-
-**[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
-
-12h ago
-
----
-
-**[Netherlands moves closer to taxing unrealized gains](https://www.reddit.com/r/Bitcoin/comments/1t7i4yw/netherlands_moves_closer_to_taxing_unrealized/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 22h ago
-
----
-
-**[Cold storage airgapping question](https://www.reddit.com/r/Bitcoin/comments/1t7v7um/cold_storage_airgapping_question/)**
-
-If you use a cold storage device without airgapping, is your BTC potentially forever compromised? Or is it only a risk while connected to the computer during the transaction? Thank you in advance
-
-12h ago
-
----
-
-**[Daily Discussion, May 09, 2026](https://www.reddit.com/r/Bitcoin/comments/1t7wim8/daily_discussion_may_09_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
-
----
-
-**[Me, buying bitcoin anytime I have some extra cash, ignoring the market "timers".](https://www.reddit.com/r/Bitcoin/comments/1t7bfct/me_buying_bitcoin_anytime_i_have_some_extra_cash/)**
-
-If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-rare-bottom-signal-holders-not-selling/
-
-1d ago
+1h ago
 
 ---
 
@@ -135,15 +87,51 @@ If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-r
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
+2h ago
+
+---
+
+**[Once Bitcoin cracks $120k again, it’ll never dip below six figures for the rest of its history](https://www.reddit.com/r/Bitcoin/comments/1t7sljd/once_bitcoin_cracks_120k_again_itll_never_dip/)**
+
+It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
+
+16h ago
+
+---
+
+**[BTC The more you guys sell the more we buy](https://www.reddit.com/r/Bitcoin/comments/1t7x808/btc_the_more_you_guys_sell_the_more_we_buy/)**
+
+Let get the BITCOIN
+
+12h ago
+
+---
+
+**[Differnce between hot wallet and cold wallets](https://www.reddit.com/r/Bitcoin/comments/1t8ayty/differnce_between_hot_wallet_and_cold_wallets/)**
+
+Hi guys, was wanting to see if anyone could tell me the difference between these and what the pros and cons are of each? Im wanting to withdraw crypto from kraken but I need an address to send it to and so on. Any insight would be helpful and any personal experiences. Thanks!
+
 1h ago
 
 ---
 
-**[Call me Mr. Fix ASIC lmao 🤣](https://www.reddit.com/r/Bitcoin/comments/1t7h29n/call_me_mr_fix_asic_lmao/)**
+**[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
 
-Taken these S21 back from the grave and giving them life again. They told me $250 to fix this I said I’ll do it myself. YouTube !!!!!
+13h ago
 
-22h ago
+---
+
+**[The Millionaire I Could Have Been](https://www.reddit.com/r/Bitcoin/comments/1t8ayo5/the_millionaire_i_could_have_been/)**
+
+1h ago
+
+---
+
+**[How a $15 RISC-V Device Built Its Own Lightning Wallet and Learned to Pay the Internet](https://www.reddit.com/r/Bitcoin/comments/1t8b4l1/how_a_15_riscv_device_built_its_own_lightning/)**
+
+This is the era of native machine-to-machine payments: autonomous AI agents that don't just consume information, but pay for it, on the spot, without human intervention, using the internet's own protocol.
+
+🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 1h ago
 
 ---
 
@@ -151,7 +139,15 @@ Taken these S21 back from the grave and giving them life again. They told me $25
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 1h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 2h ago
+
+---
+
+**[Netherlands moves closer to taxing unrealized gains](https://www.reddit.com/r/Bitcoin/comments/1t7i4yw/netherlands_moves_closer_to_taxing_unrealized/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 23h ago
 
 ---
 
@@ -171,29 +167,45 @@ Fortune • 1d ago
 
 “Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
-**[Soon, traders will be able to bet on bitcoin volatility, not just price, on CME](https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme)**
+**[It might be too late for bitcoin’s quantum migration, Project Eleven report argues](https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues)**
 
-CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.
+The quantum computing advent does not only threaten blockchains, it also poses huge risks to banking systems, military communications, digital identities and more, Project Eleven’s report warns.
 
-CoinDesk • 2h ago
-
----
-
-**[US Bitcoin ETFs See $3.4 Billion Inflow Since April, Longest in 9 Months](https://finance.yahoo.com/markets/crypto/articles/us-bitcoin-etfs-see-3-132258081.html)**
-
-Spot Bitcoin ETFs notched six straight weeks of inflows totaling $3.4 billion, the longest streak since July 2025.
-
-Yahoo Finance • 4h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Trader Eugene Ng Ah Sio: Bitcoin Near Key Breakout Level as Altcoins Show Bottoming Signals](https://www.binance.com/en/square/post/321307624836818)**
+**[Bitcoin Miners Bag Profit: 3,400 BTC Flow Out Of Reserves Since April](https://www.tradingview.com/news/newsbtc:90468224b094b:0-bitcoin-miners-bag-profit-3-400-btc-flow-out-of-reserves-since-april/)**
 
-Binance • 3h ago
+The price of Bitcoin has been relatively stable since the start of April, showing strong efforts to reclaim former highs. In its latest recovery attempt, the premier cryptocurrency finally returned above $80,000 for the first time since early February.Unsurprisingly, a relevant group of network par…
+
+TradingView • 2h ago
+
+---
+
+**[Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns](https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns)**
+
+The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
+
+CoinDesk • 1h ago
+
+---
+
+**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
+
+Bloomberg • 2d ago
+
+---
+
+**[Bitcoin Miners’ Q1 Losses Mount as AI Pivots Accelerate](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-q1-losses-mount-082921845.html)**
+
+Top Bitcoin miners booked Q1 2026 net losses as crypto prices slumped, even as AI data center pivots accelerated.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -205,35 +217,19 @@ CNBC • 1d ago
 
 ---
 
+**[Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-peter-brandt-130955200.html)**
+
+Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
+
+Yahoo Finance • 5h ago
+
+---
+
 **[Is now the time to get back into Bitcoin?](https://nypost.com/business/is-bitcoin-a-good-investment-right-now-what-to-know/)**
 
 Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
 
-New York Post • 7h ago
-
----
-
-**[CryptoQuant says bitcoin profit-taking could increase further amid 'bear market rally'](https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally)**
-
-Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
-
-The Block • 21h ago
-
----
-
-**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
-
-Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
-
-Forbes • 6h ago
-
----
-
-**[How Buying Bitcoin Today Could Help You Retire a Millionaire](https://www.fool.com/investing/2026/05/09/buying-bitcoin-could-help-you-retire-a-millionaire/)**
-
-If Bitcoin grows at the same pace as it has for the past 15 years, it will continue to mint new millionaires.
-
-The Motley Fool • 10h ago
+New York Post • 8h ago
 
 ---
 
@@ -245,7 +241,7 @@ The Motley Fool • 10h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 21h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 22h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -261,7 +257,7 @@ BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -277,13 +273,27 @@ ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 22h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 23h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
 **[The wild life and brutal death of a crypto hustler](https://news.ycombinator.com/item?id=48006567)**
 
 ⬆️ 4 • 💬 0 • 5d ago • [thelogic.co](https://thelogic.co/news/the-big-read/kevin-mirshahi-bitcoin-cryptocurrency-influencer-murder/)
+
+---
+
+**[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
+
+⬆️ 1 • 💬 0 • 40m ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+
+---
+
+**[McDonald's is quietly ending the era of self-serve soda fountains nationwide](https://news.ycombinator.com/item?id=48005909)**
+
+McDonald's is quietly ending self-serve soda fountains nationwide, shifting drink prep behind the counter as it modernizes restaurants across the country.
+
+⬆️ 11 • 💬 20 • 5d ago • [Fox Business](https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-quietly-ditching-popular-in-store-feature-nationwide)
 
 ---
 
@@ -297,7 +307,17 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 18h ago
+👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 20h ago
+
+---
+
+**[Major Crypto Chart Deep Dive: Bitcoin Into Resistance Zone As Altcoins Breakout!](https://www.youtube.com/watch?v=k6-Qat-QzQQ)**
+
+Welcome back to Verified Investing! In today's video, Chief Market Strategist Gareth Soloway takes a deep dive into the recent ...
+
+📺 Gareth Soloway
+
+👁️ 19K • 👍 2K • 💬 152 • ⏱️ 10:40 • 5h ago
 
 ---
 
@@ -307,7 +327,17 @@ Jp Morgan report explains what investors are thinking about bitcoin since the wa
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 351 • 💬 91 • ⏱️ 1:18:33 • 23h ago
+👁️ 7K • 👍 357 • 💬 94 • ⏱️ 1:18:33 • 1d ago
+
+---
+
+**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
+
+Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
+
+📺 Simply Bitcoin
+
+👁️ 78K • 👍 3K • 💬 448 • ⏱️ 15:19 • 1d ago
 
 ---
 
@@ -321,43 +351,13 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 ---
 
-**[Strategy CEO on selling bitcoin: When it&#39;s better than issuing equity to pay dividends, we&#39;ll do it](https://www.youtube.com/watch?v=qpkvpSp-wBY)**
-
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
-
-📺 CNBC Television
-
-👁️ 13K • 👍 123 • 💬 104 • ⏱️ 4:14 • 21h ago
-
----
-
 **[Bitcoin Reserves Hit Historic Lows as Institutions Load Up](https://www.youtube.com/watch?v=hiExL7NRz3U)**
 
 Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 236 • 💬 40 • ⏱️ 8:08 • 18h ago
-
----
-
-**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
-
-Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
-
-📺 Simply Bitcoin
-
-👁️ 76K • 👍 3K • 💬 444 • ⏱️ 15:19 • 1d ago
-
----
-
-**[Clarity Act could expedite the institutional adoption of crypto investing, say ETF managers](https://www.youtube.com/watch?v=qb6KzhpBPCI)**
-
-Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief Executive Officer, President, and Chief Investment ...
-
-📺 CNBC Television
-
-👁️ 8K • 👍 132 • 💬 114 • ⏱️ 9:09 • 21h ago
+👁️ 5K • 👍 241 • 💬 40 • ⏱️ 8:08 • 19h ago
 
 ---
 
@@ -367,17 +367,27 @@ My Links: ▻ Get the risk models I use to track accumulation and distribution z
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 741 • 💬 311 • ⏱️ 13:40 • 2d ago
+👁️ 14K • 👍 743 • 💬 310 • ⏱️ 13:40 • 2d ago
 
 ---
 
-**[Major Crypto Chart Deep Dive: Bitcoin Into Resistance Zone As Altcoins Breakout!](https://www.youtube.com/watch?v=k6-Qat-QzQQ)**
+**[Clarity Act could expedite the institutional adoption of crypto investing, say ETF managers](https://www.youtube.com/watch?v=qb6KzhpBPCI)**
 
-Welcome back to Verified Investing! In today's video, Chief Market Strategist Gareth Soloway takes a deep dive into the recent ...
+Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief Executive Officer, President, and Chief Investment ...
 
-📺 Gareth Soloway
+📺 CNBC Television
 
-👁️ 8K • 👍 1K • 💬 67 • ⏱️ 10:40 • 4h ago
+👁️ 9K • 👍 152 • 💬 104 • ⏱️ 9:09 • 22h ago
+
+---
+
+**[Strategy CEO on selling bitcoin: When it&#39;s better than issuing equity to pay dividends, we&#39;ll do it](https://www.youtube.com/watch?v=qpkvpSp-wBY)**
+
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
+
+📺 CNBC Television
+
+👁️ 14K • 👍 131 • 💬 112 • ⏱️ 4:14 • 22h ago
 
 ---
 

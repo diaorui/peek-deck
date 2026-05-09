@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T17:52:35.692221+00:00'
+updated: '2026-05-09T19:03:33.059349+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 17:52 UTC  
+**Last Updated:** May 09, 2026 at 19:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.9%  
-**7d:** -0.0%  
-**30d:** +3.4%  
-**90d:** +10.3%  
-**1y:** -10.1%  
+**7d:** +0.3%  
+**30d:** +3.8%  
+**90d:** +10.7%  
+**1y:** -9.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.42B
+**Market Cap:** $281.19B
 Rank #2
 
 **Circulating Supply:** 120,686,648 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.2%
+-52.9%
 
 **All-Time Low:** $0.43
-+534577.2%
++538004.6%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
+
+---
+
+**[Ethereum Economic Zone Community Call #1](https://www.reddit.com/r/ethereum/comments/1t8cay6/ethereum_economic_zone_community_call_1/)**
+
+Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
+
+55m ago
 
 ---
 
@@ -80,21 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-1h ago
-
----
-
-**[Je viens d'entraîner un modèle de vision de 7B sur 100 000 graphiques de transactions DeFi/DePIN en utilisant un AMD MI300X. Il détecte les exploits en 35 ms.[P]](https://www.reddit.com/r/ethereum/comments/1t84tjd/je_viens_dentraîner_un_modèle_de_vision_de_7b_sur/)**
-
-4h ago
-
----
-
-**[I just generated 1,000,000 transaction graph visualizations from real Ethereum/Arbitrum/Polygon data — now training a Vision-Language model to detect DeFi attacks](https://www.reddit.com/r/ethereum/comments/1t7v7wm/i_just_generated_1000000_transaction_graph/)**
-
-Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
-
-12h ago
+2h ago
 
 ---
 
@@ -146,6 +140,12 @@ The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon
 
 ---
 
+**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -164,17 +164,11 @@ TipRanks • 1d ago
 
 ---
 
-**[U.S. Bitcoin ETFs Bleed $145.7 Million as Ethereum ETFs See Rare Inflow Day](https://www.binance.com/en/square/post/321305630204305)**
-
-Binance • 3h ago
-
----
-
 **[Ethereum Price Braces For a Major $260 Million Shock](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-braces-major-260-205800671.html)**
 
 Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -182,7 +176,7 @@ Yahoo Finance • 20h ago
 
 At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -190,7 +184,15 @@ CoinDesk • 1d ago
 
 Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
 
-TradingView • 9h ago
+TradingView • 11h ago
+
+---
+
+**[Aave v4 deposits on Ethereum surpass $50M, doubling in just one month](https://cryptobriefing.com/aave-v4-deposits-ethereum-50m/)**
+
+Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
+
+Crypto Briefing • 55m ago
 
 ---
 
@@ -198,7 +200,7 @@ TradingView • 9h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -218,11 +220,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
+**[Blackrock to Launch Tokenized Money-Market Funds on Ethereum](https://news.bitcoin.com/blackrock-tokenized-money-market-funds-ethereum/)**
 
-Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
+Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
 
-Decrypt • 1d ago
+Bitcoin News • 5h ago
 
 ---
 
@@ -236,7 +238,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 174 • ⏱️ 14:48 • 22h ago
+👁️ 42K • 👍 2K • 💬 184 • ⏱️ 14:48 • 23h ago
 
 ---
 
@@ -246,7 +248,17 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 18h ago
+👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 20h ago
+
+---
+
+**[Is Ethereum STILL Undervalued? (Deep Explanation)](https://www.youtube.com/watch?v=Li55ZmSjE8U)**
+
+If you're concerned about scams or want to keep an eye on your credit, check out https://OmniWatch.com/iced for 50% off your first ...
+
+📺 The Iced Coffee Hour Clips
+
+👁️ 3K • 👍 107 • 💬 21 • ⏱️ 9:26 • 3h ago
 
 ---
 
@@ -254,7 +266,17 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 415 • 💬 26 • ⏱️ 2:31 • 16h ago
+👁️ 6K • 👍 439 • 💬 38 • ⏱️ 2:31 • 18h ago
+
+---
+
+**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+
+A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+
+📺 Coin Bureau
+
+👁️ 8K • 👍 401 • 💬 69 • ⏱️ 12:01 • 5h ago
 
 ---
 
@@ -264,7 +286,7 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 410 • 💬 51 • ⏱️ 12:24 • 1d ago
+👁️ 9K • 👍 428 • 💬 58 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -278,23 +300,23 @@ Bitcoin made its way into corporate treasuries. Will Ethereum follow? In this ep
 
 ---
 
-**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
-
-I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
-
-📺 Verified Pro Traders
-
-👁️ 4K • 👍 301 • 💬 6 • ⏱️ 8:05 • 1d ago
-
----
-
 **[BITCOIN &amp; ALTCOINS FLIPPED (But There&#39;s a Catch) - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zPOokb9EwLs)**
 
 BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 8K • 👍 345 • 💬 236 • ⏱️ 18:14 • 21h ago
+👁️ 9K • 👍 352 • 💬 233 • ⏱️ 18:14 • 22h ago
+
+---
+
+**[Ethereum: Neutral Blockchain for Global Finance](https://www.youtube.com/watch?v=_umpUVOvxdw)**
+
+Finance runs on shared systems. So neutrality matters. In this episode, Vivek Raman of Etherealize explains why Ethereum's ...
+
+📺 Smart Economy Network
+
+👁️ 9 • 👍 1 • ⏱️ 1:21 • 4h ago
 
 ---
 
@@ -304,27 +326,7 @@ BMNR is staking over 75% of its massive Ethereum holdings, locking up supply and
 
 📺 MONEY GAME
 
-👁️ 705 • 👍 23 • 💬 5 • ⏱️ 1:40 • 2d ago
-
----
-
-**[Coal OUTPERFORMED Ethereum | MarketScape](https://www.youtube.com/watch?v=jgSfdcywJRE)**
-
-Thanks for watching!! Timestamps below! Like Comment Subscribe! PLS & TY! TWITCH https://www.twitch.tv/yammushammus ...
-
-📺 Yammus
-
-👁️ 254 • 👍 11 • 💬 4 • ⏱️ 15:56 • 3h ago
-
----
-
-**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
-
-A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
-
-📺 Coin Bureau
-
-👁️ 3K • 👍 203 • 💬 37 • ⏱️ 12:01 • 3h ago
+👁️ 718 • 👍 23 • 💬 5 • ⏱️ 1:40 • 2d ago
 
 ---
 
