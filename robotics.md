@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T15:53:48.337198+00:00'
+updated: '2026-05-09T16:56:35.954707+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 15:53 UTC  
+**Last Updated:** May 09, 2026 at 16:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-11h ago
+13h ago
 
 ---
 
@@ -44,13 +44,21 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-1h ago
+2h ago
+
+---
+
+**[Glavenus 3d printed robot arm](https://www.reddit.com/r/robotics/comments/1t88tba/glavenus_3d_printed_robot_arm/)**
+
+I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
+
+58m ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +66,13 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
 
-58m ago
+2h ago
+
+---
+
+**[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
+
+1d ago
 
 ---
 
@@ -66,19 +80,13 @@ I’m currently learning the maths foundations behind kinematics so I built this
 
 I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
 
-3h ago
-
----
-
-**[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
-
-23h ago
+4h ago
 
 ---
 
 **[Best methods for online tuning of MPC parameters in the real world?](https://www.reddit.com/r/robotics/comments/1t882w4/best_methods_for_online_tuning_of_mpc_parameters/)**
 
-23m ago
+1h ago
 
 ---
 
@@ -98,19 +106,15 @@ The limitation of the hardaware is that I'm communicating to each joint over CAN
 
 ---
 
-**[CASE STUDY: Bonding CFRP to Stainless Steel in Food-Grade Automation](https://www.reddit.com/r/robotics/comments/1t7zyal/case_study_bonding_cfrp_to_stainless_steel_in/)**
-
-6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[French startup unveils AI model for robots and human-like hand](https://www.reuters.com/world/china/french-startup-unveils-ai-model-robots-human-like-hand-2026-05-06/)**
+**[Video Friday: AI Gives Robot Hands Human-Like Dexterity](https://spectrum.ieee.org/video-friday-robotic-hand-dexterity)**
 
-Reuters • 2d ago
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 52m ago
 
 ---
 
@@ -148,7 +152,15 @@ Rocket Lab • 1d ago
 
 Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
+
+---
+
+**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.yahoo.com/news/videos/western-pennsylvania-school-deaf-wins-025715606.html)**
+
+Western Pennsylvania School for the Deaf wins national robotics championship
+
+Yahoo • 13h ago
 
 ---
 
@@ -160,25 +172,17 @@ Global Times • 1d ago
 
 ---
 
-**[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[Hacker Takes Over Robot Lawnmower, Runs Over Innocent Man](https://futurism.com/robots-and-machines/hacker-robot-lawnmower-runs-over-man)**
 
 A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
 
-Futurism • 21h ago
+Futurism • 22h ago
 
 ---
 
-**[SoundHound AI Robotics Deal Tests Voice Platform Against Analyst Optimism](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-robotics-deal-tests-181946271.html)**
+**[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
 
-SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
-
-Yahoo Finance • 21h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -192,7 +196,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 1K • 👍 41 • 💬 18 • ⏱️ 2:19 • 18h ago
+👁️ 1K • 👍 41 • 💬 18 • ⏱️ 2:19 • 19h ago
 
 ---
 
@@ -202,7 +206,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 3K • 👍 42 • 💬 3 • ⏱️ 20:56 • 19h ago
+👁️ 3K • 👍 42 • 💬 3 • ⏱️ 20:56 • 20h ago
 
 ---
 
@@ -230,7 +234,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Existenzia
 
-👁️ 28K • 👍 234 • 💬 4 • ⏱️ 0:07 • 17h ago
+👁️ 28K • 👍 234 • 💬 4 • ⏱️ 0:07 • 18h ago
 
 ---
 
@@ -238,7 +242,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Hawks Robotics
 
-👁️ 7K • 👍 50 • 💬 2 • ⏱️ 0:05 • 14h ago
+👁️ 7K • 👍 50 • 💬 2 • ⏱️ 0:05 • 15h ago
 
 ---
 

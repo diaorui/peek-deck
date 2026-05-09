@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T15:53:48.334048+00:00'
+updated: '2026-05-09T16:56:35.951263+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 15:53 UTC  
+**Last Updated:** May 09, 2026 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -0.3%  
-**30d:** +3.1%  
-**90d:** +10.0%  
-**1y:** -10.4%  
+**24h:** +0.9%  
+**7d:** -0.0%  
+**30d:** +3.4%  
+**90d:** +10.3%  
+**1y:** -10.1%  
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[Used Claude Code + Blender MCP to visualize my Supply Chain dApp](https://www.reddit.com/r/ethereum/comments/1t89d1y/used_claude_code_blender_mcp_to_visualize_my/)**
+
+I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
+
+37m ago
 
 ---
 
 **[Je viens d'entraîner un modèle de vision de 7B sur 100 000 graphiques de transactions DeFi/DePIN en utilisant un AMD MI300X. Il détecte les exploits en 35 ms.[P]](https://www.reddit.com/r/ethereum/comments/1t84tjd/je_viens_dentraîner_un_modèle_de_vision_de_7b_sur/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
 
-10h ago
+11h ago
 
 ---
 
@@ -138,51 +146,9 @@ The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon
 
 ---
 
-**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
-
-TipRanks • 1d ago
-
----
-
-**[Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030)**
-
-By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.
-
-Decrypt • 2d ago
-
----
-
-**[U.S. Bitcoin ETFs Bleed $145.7 Million as Ethereum ETFs See Rare Inflow Day](https://www.binance.com/en/square/post/321305630204305)**
-
-Binance • 1h ago
-
----
-
-**[Ethereum Price Braces For a Major $260 Million Shock](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-braces-major-260-205800671.html)**
-
-Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
-
-Yahoo Finance • 18h ago
-
----
-
-**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
-
-The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
-
-CoinDesk • 1d ago
-
----
 
 **[Better Long-Term Crypto Hold: XRP or Ethereum?](https://www.fool.com/investing/2026/05/07/better-long-term-crypto-hold-xrp-or-ethereum/)**
 
@@ -192,11 +158,39 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Sees Sharp Decline In High-Leverage Long Positions — See What Happens Next](https://www.tradingview.com/news/newsbtc:beddfed57094b:0-ethereum-sees-sharp-decline-in-high-leverage-long-positions-see-what-happens-next/)**
+**[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
 
-Ethereum is experiencing a notable shift in derivatives positioning as high-leverage long positions decline sharply across the market. The reduction suggests that many overly aggressive bullish trades have either been closed voluntarily or forced out through recent liquidation events.Could Ethereum…
+TipRanks • 1d ago
 
-TradingView • 19h ago
+---
+
+**[U.S. Bitcoin ETFs Bleed $145.7 Million as Ethereum ETFs See Rare Inflow Day](https://www.binance.com/en/square/post/321305630204305)**
+
+Binance • 3h ago
+
+---
+
+**[Ethereum Price Braces For a Major $260 Million Shock](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-braces-major-260-205800671.html)**
+
+Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
+
+At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Is Going Up While Shorts Are Piling In: Find Out What Usually Follows](https://www.tradingview.com/news/newsbtc:1278524b0094b:0-ethereum-is-going-up-while-shorts-are-piling-in-find-out-what-usually-follows/)**
+
+Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
+
+TradingView • 8h ago
 
 ---
 
@@ -204,7 +198,15 @@ TradingView • 19h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 10h ago
+
+---
+
+**[Solana Just Overtook Ethereum in New Developer Signups — Biggest News Shift for Solana?](https://cryptonews.com/news/solana-news-developer-share-23-percent-ethereum-drops/)**
+
+Explore the significant shift in Solana News, revealing a 45% increase in active developers and a new competitive landscape.
+
+Cryptonews • 1d ago
 
 ---
 
@@ -216,11 +218,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rejection sparks pullback, ETH at risk of breakdown, XRP hints at deeper losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rejection-sparks-pullback-eth-at-risk-of-breakdown-xrp-hints-at-deeper-losses-202605080344)**
+**[Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH](https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are showing signs of near-term weakness as key technical resistance comes into play. BTC faced rejection at its 200-day EMA earlier this week and has slipped below the $80,000 mark on Friday.
+Leading Ethereum treasury firm BitMine Immersion Technologies may start slowing its ETH purchases as it approaches its 5% supply goal.
 
-FXStreet • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 174 • ⏱️ 14:48 • 20h ago
+👁️ 40K • 👍 2K • 💬 174 • ⏱️ 14:48 • 21h ago
 
 ---
 
@@ -244,7 +246,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 16h ago
+👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 17h ago
 
 ---
 
@@ -252,7 +254,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 415 • 💬 26 • ⏱️ 2:31 • 14h ago
+👁️ 6K • 👍 415 • 💬 26 • ⏱️ 2:31 • 15h ago
 
 ---
 
@@ -292,7 +294,7 @@ BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 345 • 💬 236 • ⏱️ 18:14 • 19h ago
+👁️ 8K • 👍 345 • 💬 236 • ⏱️ 18:14 • 20h ago
 
 ---
 
@@ -312,7 +314,7 @@ Thanks for watching!! Timestamps below! Like Comment Subscribe! PLS & TY! TWITCH
 
 📺 Yammus
 
-👁️ 254 • 👍 11 • 💬 4 • ⏱️ 15:56 • 1h ago
+👁️ 254 • 👍 11 • 💬 4 • ⏱️ 15:56 • 2h ago
 
 ---
 
@@ -322,7 +324,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 203 • 💬 37 • ⏱️ 12:01 • 1h ago
+👁️ 3K • 👍 203 • 💬 37 • ⏱️ 12:01 • 2h ago
 
 ---
 

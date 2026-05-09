@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T15:53:48.328123+00:00'
+updated: '2026-05-09T16:56:35.944887+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 15:53 UTC  
+**Last Updated:** May 09, 2026 at 16:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,493.08
+### $80,660.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +2.5%  
-**30d:** +10.4%  
-**90d:** +14.8%  
-**1y:** -23.1%  
+**24h:** +0.8%  
+**7d:** +2.6%  
+**30d:** +10.5%  
+**90d:** +15.0%  
+**1y:** -23.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-13h ago
+14h ago
 
 ---
 
@@ -89,13 +89,13 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 Let get the BITCOIN
 
-9h ago
+10h ago
 
 ---
 
 **[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Let get the BITCOIN
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 21h ago
 
 ---
 
@@ -111,7 +111,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 If you use a cold storage device without airgapping, is your BTC potentially forever compromised? Or is it only a risk while connected to the computer during the transaction? Thank you in advance
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ If you use a cold storage device without airgapping, is your BTC potentially for
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -131,27 +131,27 @@ If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-r
 
 ---
 
+**[The ultimate trap of CBDCs isn't just surveillance. It's the "Expiration Date" on your money](https://www.reddit.com/r/Bitcoin/comments/1t8a500/the_ultimate_trap_of_cbdcs_isnt_just_surveillance/)**
+
+Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
+
+8m ago
+
+---
+
 **[Call me Mr. Fix ASIC lmao 🤣](https://www.reddit.com/r/Bitcoin/comments/1t7h29n/call_me_mr_fix_asic_lmao/)**
 
 Taken these S21 back from the grave and giving them life again. They told me $250 to fix this I said I’ll do it myself. YouTube !!!!!
 
-21h ago
+22h ago
 
 ---
 
-**[I thought I wanted “more Bitcoin”. Turns out I just wanted more time.](https://www.reddit.com/r/Bitcoin/comments/1t77uqw/i_thought_i_wanted_more_bitcoin_turns_out_i_just/)**
+**[Kevin Warsh's First 30 Days: The Bitcoin Playbook](https://www.reddit.com/r/Bitcoin/comments/1t894lm/kevin_warshs_first_30_days_the_bitcoin_playbook/)**
 
-The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
+Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-1d ago
-
----
-
-**[Revolut, go home, you’re drunk](https://www.reddit.com/r/Bitcoin/comments/1t71ehw/revolut_go_home_youre_drunk/)**
-
-All jokes aside, when I saw the notification I jumped to the app to see if I could stack some sats on discount but I missed my chance…
-
-1d ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 46m ago
 
 ---
 
@@ -171,15 +171,15 @@ Fortune • 1d ago
 
 “Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[Swiss central bank bitcoin reserve push fails over signature shortfall](https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall)**
+**[Soon, traders will be able to bet on bitcoin volatility, not just price, on CME](https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme)**
 
-The initiative sought to amend Switzerland's constitution, requiring the Swiss National Bank (SNB) to hold BTC alongside gold and foreign-currency reserves.
+CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.
 
-CoinDesk • 24m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -187,13 +187,13 @@ CoinDesk • 24m ago
 
 Spot Bitcoin ETFs notched six straight weeks of inflows totaling $3.4 billion, the longest streak since July 2025.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Trader Eugene Ng Ah Sio: Bitcoin Near Key Breakout Level as Altcoins Show Bottoming Signals](https://www.binance.com/en/square/post/321307624836818)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 1d ago
 
 Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
 
-New York Post • 5h ago
+New York Post • 6h ago
 
 ---
 
@@ -217,7 +217,15 @@ New York Post • 5h ago
 
 Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
 
-The Block • 19h ago
+The Block • 20h ago
+
+---
+
+**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
+
+Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
+
+Forbes • 5h ago
 
 ---
 
@@ -225,13 +233,7 @@ The Block • 19h ago
 
 If Bitcoin grows at the same pace as it has for the past 15 years, it will continue to mint new millionaires.
 
-The Motley Fool • 8h ago
-
----
-
-**[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
-
-Bloomberg.com • 1d ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -243,7 +245,7 @@ Bloomberg.com • 1d ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 19h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 20h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -275,7 +277,7 @@ ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 20h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 21h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -295,7 +297,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 16h ago
+👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 17h ago
 
 ---
 
@@ -305,7 +307,7 @@ Jp Morgan report explains what investors are thinking about bitcoin since the wa
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 351 • 💬 91 • ⏱️ 1:18:33 • 21h ago
+👁️ 7K • 👍 351 • 💬 91 • ⏱️ 1:18:33 • 22h ago
 
 ---
 
@@ -325,7 +327,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 13K • 👍 123 • 💬 104 • ⏱️ 4:14 • 19h ago
+👁️ 13K • 👍 123 • 💬 104 • ⏱️ 4:14 • 20h ago
 
 ---
 
@@ -335,7 +337,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 236 • 💬 40 • ⏱️ 8:08 • 16h ago
+👁️ 5K • 👍 236 • 💬 40 • ⏱️ 8:08 • 17h ago
 
 ---
 
@@ -355,7 +357,7 @@ Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief 
 
 📺 CNBC Television
 
-👁️ 8K • 👍 132 • 💬 114 • ⏱️ 9:09 • 19h ago
+👁️ 8K • 👍 132 • 💬 114 • ⏱️ 9:09 • 20h ago
 
 ---
 
@@ -375,7 +377,7 @@ Welcome back to Verified Investing! In today's video, Chief Market Strategist Ga
 
 📺 Gareth Soloway
 
-👁️ 8K • 👍 1K • 💬 67 • ⏱️ 10:40 • 2h ago
+👁️ 8K • 👍 1K • 💬 67 • ⏱️ 10:40 • 3h ago
 
 ---
 
