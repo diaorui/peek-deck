@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T21:09:48.467277+00:00'
+updated: '2026-05-09T22:06:58.642983+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 21:09 UTC  
+**Last Updated:** May 09, 2026 at 22:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-17h ago
+18h ago
 
 ---
 
@@ -52,13 +52,13 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-6h ago
+7h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -66,13 +66,13 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-1h ago
+2h ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel
 
 This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,13 +88,13 @@ This is the current status of BB1 .. I can’t seem to post it much anymore beca
 
 I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
 
-6h ago
+7h ago
 
 ---
 
 **[built a native ROS 2 MCP Server for AI Agents (No rosbridge/WebSockets required)](https://www.reddit.com/r/robotics/comments/1t8gwro/built_a_native_ros_2_mcp_server_for_ai_agents_no/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’m currently learning the maths foundations behind kinematics so I built this
 
 I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
 
-8h ago
+9h ago
 
 ---
 
@@ -130,7 +130,7 @@ Global Times • 1d ago
 
 Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -204,7 +204,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 Hawks Robotics
 
-👁️ 9K • 👍 64 • 💬 3 • ⏱️ 0:05 • 19h ago
+👁️ 9K • 👍 64 • 💬 3 • ⏱️ 0:05 • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ Scorpion is back and actually good. The meta is all over the place right now but
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 371 • 💬 36 • ⏱️ 16:03 • 9h ago
+👁️ 6K • 👍 371 • 💬 36 • ⏱️ 16:03 • 10h ago
 
 ---
 

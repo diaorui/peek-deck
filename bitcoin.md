@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T21:09:48.457935+00:00'
+updated: '2026-05-09T22:06:58.633725+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 21:09 UTC  
+**Last Updated:** May 09, 2026 at 22:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
-4h ago
+5h ago
 
 ---
 
 **[The Millionaire I Could Have Been](https://www.reddit.com/r/Bitcoin/comments/1t8ayo5/the_millionaire_i_could_have_been/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track
 
 Bitcoin feels less like a revolution and more like a pressure valve. Governments print massive amounts of money → inflation risk rises → trust in fiat weakens. Instead of letting that fully collapse currencies, capital flows into Bitcoin. Result: excess liquidity gets “absorbed” into a digital asset, while fiat systems stay intact a bit longer. Not saying it’s the original intent—but the effect is the same: a buffer that helps preserve the current monetary system.
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Bitcoin feels less like a revolution and more like a pressure valve. Governments
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-18h ago
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 This is the era of native machine-to-machine payments: autonomous AI agents that don't just consume information, but pay for it, on the spot, without human intervention, using the internet's own protocol.
 
-🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 3h ago
+🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 4h ago
 
 ---
 
@@ -125,7 +125,7 @@ This is the era of native machine-to-machine payments: autonomous AI agents that
 
 Hi guys, was wanting to see if anyone could tell me the difference between these and what the pros and cons are of each? Im wanting to withdraw crypto from kraken but I need an address to send it to and so on. Any insight would be helpful and any personal experiences. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +133,13 @@ Hi guys, was wanting to see if anyone could tell me the difference between these
 
 Let get the BITCOIN
 
-14h ago
+15h ago
 
 ---
 
 **[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -147,7 +147,7 @@ Let get the BITCOIN
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 4h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 5h ago
 
 ---
 
@@ -159,13 +159,13 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -197,13 +197,13 @@ CNBC • 1d ago
 
 Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
 
-WSJ • 3d ago
+WSJ • 4d ago
 
 ---
 
@@ -211,7 +211,7 @@ WSJ • 3d ago
 
 Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -281,7 +281,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 2h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 3h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -311,7 +311,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 220 • ⏱️ 11:32 • 22h ago
+👁️ 35K • 👍 2K • 💬 220 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -321,7 +321,7 @@ Welcome back to Verified Investing! In today's video, Chief Market Strategist Ga
 
 📺 Gareth Soloway
 
-👁️ 25K • 👍 2K • 💬 169 • ⏱️ 10:40 • 7h ago
+👁️ 25K • 👍 2K • 💬 169 • ⏱️ 10:40 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 243 • 💬 40 • ⏱️ 8:08 • 21h ago
+👁️ 5K • 👍 243 • 💬 40 • ⏱️ 8:08 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 587 • 💬 36 • ⏱️ 15:25 • 11h ago
+👁️ 9K • 👍 587 • 💬 36 • ⏱️ 15:25 • 12h ago
 
 ---
 

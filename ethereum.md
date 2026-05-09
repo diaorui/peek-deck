@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T21:09:48.464055+00:00'
+updated: '2026-05-09T22:06:58.639786+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 21:09 UTC  
+**Last Updated:** May 09, 2026 at 22:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-4h ago
+5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Crypto Briefing • 3h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -208,7 +208,7 @@ markets.businessinsider.com • 14h ago
 
 Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
 
-Bitcoin News • 3h ago
+Bitcoin News • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 220 • ⏱️ 11:32 • 22h ago
+👁️ 35K • 👍 2K • 💬 220 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 6K • 👍 196 • 💬 64 • ⏱️ 9:26 • 5h ago
+👁️ 6K • 👍 196 • 💬 64 • ⏱️ 9:26 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 449 • 💬 38 • ⏱️ 2:31 • 20h ago
+👁️ 7K • 👍 449 • 💬 38 • ⏱️ 2:31 • 21h ago
 
 ---
 
@@ -276,7 +276,7 @@ KBW2026 tickets available now ...
 
 📺 Korea Blockchain Week
 
-👁️ 680 • 👍 44 • 💬 4 • ⏱️ 21:18 • 6h ago
+👁️ 680 • 👍 44 • 💬 4 • ⏱️ 21:18 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 493 • 💬 77 • ⏱️ 12:01 • 7h ago
+👁️ 12K • 👍 493 • 💬 77 • ⏱️ 12:01 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 104 • 👍 13 • 💬 2 • ⏱️ 1:00 • 9m ago
+👁️ 104 • 👍 13 • 💬 2 • ⏱️ 1:00 • 1h ago
 
 ---
 
