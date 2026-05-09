@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T14:34:29.631029+00:00'
+updated: '2026-05-09T15:53:48.334048+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 14:34 UTC  
+**Last Updated:** May 09, 2026 at 15:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -0.6%  
-**30d:** +2.8%  
-**90d:** +9.6%  
-**1y:** -10.7%  
+**24h:** +1.1%  
+**7d:** -0.3%  
+**30d:** +3.1%  
+**90d:** +10.0%  
+**1y:** -10.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.46B
+**Market Cap:** $279.42B
 Rank #2
 
 **Circulating Supply:** 120,686,648 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.2%
 
 **All-Time Low:** $0.43
-+534655.7%
++534577.2%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Je viens d'entraîner un modèle de vision de 7B sur 100 000 graphiques de transactions DeFi/DePIN en utilisant un AMD MI300X. Il détecte les exploits en 35 ms.[P]](https://www.reddit.com/r/ethereum/comments/1t84tjd/je_viens_dentraîner_un_modèle_de_vision_de_7b_sur/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I'm building Sigui, a DePIN security oracle for AI agents. Today I hit a milestone I'm proud of: Dataset: https://huggingface.co/datasets/Ibonon/sigui-depin-1m What's in it: 1,000,000 visual transaction graph images generated from 1.87M real on-chain transactions (Ethereum, Arbitrum, Polygon) Each graph is annotated with attack topology labels: DRAIN_STAR, MIXING_CHAIN, NORMAL Generated in ~1h15 using 20-core parallel processing on AMD MI300X What I'm doing with it: I'm currently fine-tuning Qwen2-VL-7B via LoRA on this dataset using AMD ROCm. The goal is a model that sees attack patterns in transaction graphs instead of relying on static rules. This will power Imina-Na V2, the vision brain of my security oracle. If you want to try V1 right now: https://huggingface.co/Ibonon/imina_na_lora — the first vision model trained on DePIN transaction graphs. Feedback welcome. The standard behind this: I also co-authored ERC-8259, a proposed Ethereum standard for AI Agent Identity & Threat Registry. https://ethereum-magicians.org/t/erc-8259-ai-agent-identity-threat-registry/28473 https://github.com/ibonon/ERCs The dataset is fully open (MIT license). Would love feedback on the graph generation approach, annotation quality, or the ERC proposal.
 
-9h ago
+10h ago
 
 ---
 
@@ -164,15 +164,15 @@ Decrypt • 2d ago
 
 **[U.S. Bitcoin ETFs Bleed $145.7 Million as Ethereum ETFs See Rare Inflow Day](https://www.binance.com/en/square/post/321305630204305)**
 
-Binance • 38m ago
+Binance • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding following strong jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-strong-jobs-report-113214250.html)**
+**[Ethereum Price Braces For a Major $260 Million Shock](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-braces-major-260-205800671.html)**
 
-Bitcoin opened at $80,015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80,206.01 by 7:18 a.m ET. Ethereum opened at $2,290.98 on Friday, down 2.5% from Thursday's opening price. The value of ethereum was steady as of 7:18 a.m. ET..
+Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -192,11 +192,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
+**[Ethereum Sees Sharp Decline In High-Leverage Long Positions — See What Happens Next](https://www.tradingview.com/news/newsbtc:beddfed57094b:0-ethereum-sees-sharp-decline-in-high-leverage-long-positions-see-what-happens-next/)**
 
-Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
+Ethereum is experiencing a notable shift in derivatives positioning as high-leverage long positions decline sharply across the market. The reduction suggests that many overly aggressive bullish trades have either been closed voluntarily or forced out through recent liquidation events.Could Ethereum…
 
-CryptoSlate • 22h ago
+TradingView • 19h ago
 
 ---
 
@@ -204,15 +204,15 @@ CryptoSlate • 22h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
-**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
+**[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
 
-Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
+Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
 
-TradingView • 1d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 167 • ⏱️ 14:48 • 19h ago
+👁️ 40K • 👍 2K • 💬 174 • ⏱️ 14:48 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 108 • ⏱️ 11:32 • 15h ago
+👁️ 30K • 👍 2K • 💬 118 • ⏱️ 11:32 • 16h ago
 
 ---
 
@@ -252,27 +252,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 363 • 💬 29 • ⏱️ 2:31 • 13h ago
-
----
-
-**[Canada Is Attacking the US Stablecoin Market. CANUCK BUCK =  ETH &amp; SOLANA.](https://www.youtube.com/watch?v=8a4j_5y43vA)**
-
-Canada just launched its first regulated digital dollar — and it's running on Ethereum, Solana, and Base. Stablecoin card spend is ...
-
-📺 Digital Asset News
-
-👁️ 6K • 👍 428 • 💬 50 • ⏱️ 29:16 • 19h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS FLIPPED (But There&#39;s a Catch) - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zPOokb9EwLs)**
-
-BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 341 • 💬 220 • ⏱️ 18:14 • 18h ago
+👁️ 6K • 👍 415 • 💬 26 • ⏱️ 2:31 • 14h ago
 
 ---
 
@@ -282,7 +262,7 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 393 • 💬 51 • ⏱️ 12:24 • 1d ago
+👁️ 9K • 👍 410 • 💬 51 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -292,17 +272,27 @@ Bitcoin made its way into corporate treasuries. Will Ethereum follow? In this ep
 
 📺 Smart Economy Network
 
-👁️ 61 • 👍 4 • ⏱️ 1:01 • 1d ago
+👁️ 62 • 👍 5 • ⏱️ 1:01 • 2d ago
 
 ---
 
-**[Ethereum cofounder explains why ETH DATs are built to last](https://www.youtube.com/watch?v=OzbBazTtio0)**
+**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
 
-Joseph Lubin, co-founder of Ethereum and CEO of ConsenSys, shares insights on Ethereum's ecosystem, innovation, Layer 2 ...
+I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
 
-📺 The Block
+📺 Verified Pro Traders
 
-👁️ 4K • 👍 115 • 💬 26 • ⏱️ 22:10 • 2d ago
+👁️ 4K • 👍 301 • 💬 6 • ⏱️ 8:05 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS FLIPPED (But There&#39;s a Catch) - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zPOokb9EwLs)**
+
+BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 345 • 💬 236 • ⏱️ 18:14 • 19h ago
 
 ---
 
@@ -312,17 +302,27 @@ BMNR is staking over 75% of its massive Ethereum holdings, locking up supply and
 
 📺 MONEY GAME
 
-👁️ 700 • 👍 23 • 💬 5 • ⏱️ 1:40 • 2d ago
+👁️ 705 • 👍 23 • 💬 5 • ⏱️ 1:40 • 2d ago
 
 ---
 
-**[BREAKING: Leaked Iran Deal Sends Bitcoin &amp; Crypto SOARING | Tom Lee’s Big Warning](https://www.youtube.com/watch?v=zCxKwUvHeGE)**
+**[Coal OUTPERFORMED Ethereum | MarketScape](https://www.youtube.com/watch?v=jgSfdcywJRE)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Thanks for watching!! Timestamps below! Like Comment Subscribe! PLS & TY! TWITCH https://www.twitch.tv/yammushammus ...
 
-📺 Savvy Finance
+📺 Yammus
 
-👁️ 6K • 👍 201 • 💬 9 • ⏱️ 18:13 • 2d ago
+👁️ 254 • 👍 11 • 💬 4 • ⏱️ 15:56 • 1h ago
+
+---
+
+**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+
+A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+
+📺 Coin Bureau
+
+👁️ 3K • 👍 203 • 💬 37 • ⏱️ 12:01 • 1h ago
 
 ---
 
