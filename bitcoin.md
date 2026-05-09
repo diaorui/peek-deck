@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T19:03:33.054124+00:00'
+updated: '2026-05-09T20:08:23.053999+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 19:03 UTC  
+**Last Updated:** May 09, 2026 at 20:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
+**24h:** +0.8%  
 **7d:** +3.0%  
 **30d:** +10.9%  
 **90d:** +15.4%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
-2h ago
+3h ago
 
 ---
 
@@ -95,33 +95,19 @@ Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-16h ago
-
----
-
-**[BTC The more you guys sell the more we buy](https://www.reddit.com/r/Bitcoin/comments/1t7x808/btc_the_more_you_guys_sell_the_more_we_buy/)**
-
-Let get the BITCOIN
-
-12h ago
-
----
-
-**[Differnce between hot wallet and cold wallets](https://www.reddit.com/r/Bitcoin/comments/1t8ayty/differnce_between_hot_wallet_and_cold_wallets/)**
-
-Hi guys, was wanting to see if anyone could tell me the difference between these and what the pros and cons are of each? Im wanting to withdraw crypto from kraken but I need an address to send it to and so on. Any insight would be helpful and any personal experiences. Thanks!
-
-1h ago
-
----
-
-**[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
-
-13h ago
+17h ago
 
 ---
 
 **[The Millionaire I Could Have Been](https://www.reddit.com/r/Bitcoin/comments/1t8ayo5/the_millionaire_i_could_have_been/)**
+
+2h ago
+
+---
+
+**[Bitcoin usage](https://www.reddit.com/r/Bitcoin/comments/1t8cq8w/bitcoin_usage/)**
+
+Bitcoin feels less like a revolution and more like a pressure valve. Governments print massive amounts of money → inflation risk rises → trust in fiat weakens. Instead of letting that fully collapse currencies, capital flows into Bitcoin. Result: excess liquidity gets “absorbed” into a digital asset, while fiat systems stay intact a bit longer. Not saying it’s the original intent—but the effect is the same: a buffer that helps preserve the current monetary system.
 
 1h ago
 
@@ -131,7 +117,29 @@ Hi guys, was wanting to see if anyone could tell me the difference between these
 
 This is the era of native machine-to-machine payments: autonomous AI agents that don't just consume information, but pay for it, on the spot, without human intervention, using the internet's own protocol.
 
-🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 1h ago
+🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 2h ago
+
+---
+
+**[Differnce between hot wallet and cold wallets](https://www.reddit.com/r/Bitcoin/comments/1t8ayty/differnce_between_hot_wallet_and_cold_wallets/)**
+
+Hi guys, was wanting to see if anyone could tell me the difference between these and what the pros and cons are of each? Im wanting to withdraw crypto from kraken but I need an address to send it to and so on. Any insight would be helpful and any personal experiences. Thanks!
+
+2h ago
+
+---
+
+**[BTC The more you guys sell the more we buy](https://www.reddit.com/r/Bitcoin/comments/1t7x808/btc_the_more_you_guys_sell_the_more_we_buy/)**
+
+Let get the BITCOIN
+
+13h ago
+
+---
+
+**[Can you imagine…](https://www.reddit.com/r/Bitcoin/comments/1t7vrla/can_you_imagine/)**
+
+14h ago
 
 ---
 
@@ -139,15 +147,7 @@ This is the era of native machine-to-machine payments: autonomous AI agents that
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 2h ago
-
----
-
-**[Netherlands moves closer to taxing unrealized gains](https://www.reddit.com/r/Bitcoin/comments/1t7i4yw/netherlands_moves_closer_to_taxing_unrealized/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 23h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/warsh-first-30-days-bitcoin-playbook) • 3h ago
 
 ---
 
@@ -167,23 +167,21 @@ Fortune • 1d ago
 
 “Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[It might be too late for bitcoin’s quantum migration, Project Eleven report argues](https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues)**
+**[Trump-Backed American Bitcoin Shares Fall After $82 Million Q1 Loss](https://finance.yahoo.com/markets/crypto/articles/trump-backed-american-bitcoin-shares-173556892.html)**
 
-The quantum computing advent does not only threaten blockchains, it also poses huge risks to banking systems, military communications, digital identities and more, Project Eleven’s report warns.
+Shares in Eric Trump's mining firm American Bitcoin have fallen more than 9% after reporting a quarterly loss of nearly $82 million.
 
-CoinDesk • 3h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Miners Bag Profit: 3,400 BTC Flow Out Of Reserves Since April](https://www.tradingview.com/news/newsbtc:90468224b094b:0-bitcoin-miners-bag-profit-3-400-btc-flow-out-of-reserves-since-april/)**
+**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
 
-The price of Bitcoin has been relatively stable since the start of April, showing strong efforts to reclaim former highs. In its latest recovery attempt, the premier cryptocurrency finally returned above $80,000 for the first time since early February.Unsurprisingly, a relevant group of network par…
-
-TradingView • 2h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -191,21 +189,15 @@ TradingView • 2h ago
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Trump Family-Linked Bitcoin Miner Posts Second Consecutive Quarterly Loss](https://www.bloomberg.com/news/articles/2026-05-06/trump-family-linked-bitcoin-miner-posts-second-consecutive-quarterly-loss)**
+**[Bitcoin Miners Bag Profit: 3,400 BTC Flow Out Of Reserves Since April](https://www.tradingview.com/news/newsbtc:90468224b094b:0-bitcoin-miners-bag-profit-3-400-btc-flow-out-of-reserves-since-april/)**
 
-Bloomberg • 2d ago
+The price of Bitcoin has been relatively stable since the start of April, showing strong efforts to reclaim former highs. In its latest recovery attempt, the premier cryptocurrency finally returned above $80,000 for the first time since early February.Unsurprisingly, a relevant group of network par…
 
----
-
-**[Bitcoin Miners’ Q1 Losses Mount as AI Pivots Accelerate](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-q1-losses-mount-082921845.html)**
-
-Top Bitcoin miners booked Q1 2026 net losses as crypto prices slumped, even as AI data center pivots accelerated.
-
-Yahoo Finance • 2d ago
+TradingView • 3h ago
 
 ---
 
@@ -221,7 +213,7 @@ CNBC • 1d ago
 
 Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -229,7 +221,15 @@ Yahoo Finance • 5h ago
 
 Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
 
-New York Post • 8h ago
+New York Post • 10h ago
+
+---
+
+**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
+
+Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
+
+Forbes • 8h ago
 
 ---
 
@@ -241,7 +241,7 @@ New York Post • 8h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 22h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 23h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -273,7 +273,7 @@ ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 23h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 1d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -285,7 +285,15 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 0 • 40m ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 1h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+
+---
+
+**[China's youth are ditching the rat race](https://news.ycombinator.com/item?id=48055996)**
+
+China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
+
+⬆️ 5 • 💬 2 • 1d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
 
 ---
 
@@ -307,7 +315,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 20h ago
+👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 21h ago
 
 ---
 
@@ -317,7 +325,7 @@ Welcome back to Verified Investing! In today's video, Chief Market Strategist Ga
 
 📺 Gareth Soloway
 
-👁️ 19K • 👍 2K • 💬 152 • ⏱️ 10:40 • 5h ago
+👁️ 19K • 👍 2K • 💬 152 • ⏱️ 10:40 • 6h ago
 
 ---
 
@@ -357,7 +365,7 @@ Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pre
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 241 • 💬 40 • ⏱️ 8:08 • 19h ago
+👁️ 5K • 👍 241 • 💬 40 • ⏱️ 8:08 • 20h ago
 
 ---
 
@@ -377,7 +385,7 @@ Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 152 • 💬 104 • ⏱️ 9:09 • 22h ago
+👁️ 9K • 👍 152 • 💬 104 • ⏱️ 9:09 • 23h ago
 
 ---
 
@@ -387,7 +395,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 14K • 👍 131 • 💬 112 • ⏱️ 4:14 • 22h ago
+👁️ 14K • 👍 131 • 💬 112 • ⏱️ 4:14 • 1d ago
 
 ---
 

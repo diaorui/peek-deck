@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T19:03:33.059349+00:00'
+updated: '2026-05-09T20:08:23.058231+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 19:03 UTC  
+**Last Updated:** May 09, 2026 at 20:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
+**24h:** +0.7%  
 **7d:** +0.3%  
 **30d:** +3.8%  
 **90d:** +10.7%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-55m ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-2h ago
+3h ago
 
 ---
 
@@ -168,7 +168,7 @@ TipRanks • 1d ago
 
 Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 2d ago
 
 Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView • 11h ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 55m ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -200,7 +200,15 @@ Crypto Briefing • 55m ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 13h ago
+
+---
+
+**[Blackrock to Launch Tokenized Money-Market Funds on Ethereum](https://news.bitcoin.com/blackrock-tokenized-money-market-funds-ethereum/)**
+
+Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
+
+Bitcoin News • 2h ago
 
 ---
 
@@ -220,14 +228,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Blackrock to Launch Tokenized Money-Market Funds on Ethereum](https://news.bitcoin.com/blackrock-tokenized-money-market-funds-ethereum/)**
-
-Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
-
-Bitcoin News • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 184 • ⏱️ 14:48 • 23h ago
+👁️ 42K • 👍 2K • 💬 184 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 20h ago
+👁️ 33K • 👍 2K • 💬 220 • ⏱️ 11:32 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 3K • 👍 107 • 💬 21 • ⏱️ 9:26 • 3h ago
+👁️ 3K • 👍 107 • 💬 21 • ⏱️ 9:26 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 439 • 💬 38 • ⏱️ 2:31 • 18h ago
+👁️ 6K • 👍 439 • 💬 38 • ⏱️ 2:31 • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 401 • 💬 69 • ⏱️ 12:01 • 5h ago
+👁️ 8K • 👍 401 • 💬 69 • ⏱️ 12:01 • 6h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 9K • 👍 352 • 💬 233 • ⏱️ 18:14 • 22h ago
+👁️ 9K • 👍 352 • 💬 233 • ⏱️ 18:14 • 1d ago
 
 ---
 
@@ -316,7 +316,7 @@ Finance runs on shared systems. So neutrality matters. In this episode, Vivek Ra
 
 📺 Smart Economy Network
 
-👁️ 9 • 👍 1 • ⏱️ 1:21 • 4h ago
+👁️ 9 • 👍 1 • ⏱️ 1:21 • 5h ago
 
 ---
 

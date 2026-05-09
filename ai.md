@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-09T19:03:33.046532+00:00'
+updated: '2026-05-09T20:08:23.047921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 09, 2026 at 19:03 UTC  
+**Last Updated:** May 09, 2026 at 20:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[23 years ago this Matrix scene took $40M and almost a year to make. Today some kid with AI could try it over a weekend.](https://www.reddit.com/r/artificial/comments/1t8fytl/23_years_ago_this_matrix_scene_took_40m_and/)**
+
+We are living through some wild times.
+
+41m ago
+
+---
+
 **[Joscha Bach: Mapping Every Neuron Won't Give You a Mind](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
 
-16h ago
+17h ago
 
 ---
 
@@ -63,7 +71,7 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing too
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 9h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 10h ago
 
 ---
 
@@ -71,7 +79,7 @@ It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing t
 
 Hey everyone, There is a massive disconnect right now between what indie devs are building with AI (mostly simple customer support chatbots) and what enterprise companies are actually deploying in production (complex, multi-agent swarms). I wanted to bridge this gap, so I spent the last few weeks analyzing case studies from massive tech companies to understand their multi-agent routing logic. Then, I recreated their architectures as runnable visual node-graphs inside agentswarms.fyi (an in-browser agent sandbox I’ve been building). If you want to see how the big players orchestrate agents without having to write 1,000 lines of Python, I just published 5 new industry templates you can run in your browser right now: 1. 🛡️ Insurance: Auto-Claims FNOL Triage Swarm Inspired by: Lemonade’s AI Jim, Tractable AI (Tokio Marine), and Zurich GenAI Claims. The Architecture: A multimodal swarm where a Vision Agent assesses uploaded images of car damage, a Policy Agent cross-references the user's coverage database, and a Fraud-Detection Agent flags inconsistencies before routing to a human adjuster. 2. ⚙️ Manufacturing: Quality / Root-Cause Analysis Swarm Inspired by: Siemens Industrial Copilot, BMW iFactory, Foxconn-NVIDIA Omniverse. The Architecture: A sensor-data ingest node triggers a diagnostic swarm. One agent pulls historical maintenance logs via RAG, while a SQL Agent queries the parts database to identify failure patterns on the assembly line. 3. 🔒 Cybersecurity: SOC Alert Triage & Response Inspired by: Microsoft Security Copilot, CrowdStrike Charlotte AI, Google Sec-Gemini. The Architecture: The ultimate high-speed parallel routing swarm. When an anomaly is detected, specialized sub-agents simultaneously investigate IP reputation, analyze the malicious payload, and draft an incident response ticket for the human SOC analyst to approve. 4. 📚 Education: Adaptive Socratic Tutor & Auto-Grader Inspired by: Khan Academy Khanmigo, Duolingo Max, Carnegie Learning LiveHint. The Architecture: A strict "No-Direct-Answers" routing loop. The Student Agent interacts with the user, but its output is constantly evaluated by a hidden "Pedagogy Agent" that ensures the AI is guiding the student to the answer via Socratic questioning rather than just giving away the solution. 5. 📦 Retail/E-commerce: Returns & Reverse-Logistics Swarm Inspired by: Walmart Sparky, Mercado Libre, Shopify Sidekick. The Architecture: A logistics orchestration loop that analyzes a customer return request, checks inventory levels in real-time, determines if the item should be restocked or liquidated (based on shipping costs vs. item value), and autonomously issues the refund. How to play with them: You don't need to spin up Docker containers or wrangle API keys to test these architectures. You can load any of these 5 templates directly into the visual canvas, see how the data flows between the specialized nodes, and try to break the routing logic yourself. Link: https://agentswarms.fyi/templates
 
-5h ago
+6h ago
 
 ---
 
@@ -79,7 +87,7 @@ Hey everyone, There is a massive disconnect right now between what indie devs ar
 
 Leaders from various religious groups met last week with representatives from companies including Anthropic and OpenAI for the inaugural “Faith-AI Covenant” roundtable in New York to discuss how best to infuse morality and ethics into the fast-developing technology. It was organized by the Geneva-based Interfaith Alliance for Safer Communities, which seeks to take on issues such as extremism, radicalization and human trafficking. The roundtable is expected to be the first of several around the globe, including in Beijing, Nairobi and Abu Dhabi.
 
-🔗 [AP News](https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea) • 7h ago
+🔗 [AP News](https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea) • 8h ago
 
 ---
 
@@ -95,7 +103,7 @@ A new AI tool finds early hints of pancreatic cancer in CT scans that doctors wo
 
 I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just now, and in the "how do they work" section, he explains that while we know exactly how the LLM is trained by iterative updates, we don't understand why certain circuits emerge or why the parameter structures end up the way they do. i.e. there is highly complex emergent learning going on by this optimization of parameter relationships but we don't know how the LLM does it or why. This is apparently a well known problem in the AI space. To my untrained ear, this sounds like a red flag. It should be fully understood before we go any further. Here's the video: https://www.youtube.com/watch?v=zjkBMFhNj_g
 
-19h ago
+20h ago
 
 ---
 
@@ -103,15 +111,7 @@ I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just
 
 Most AI memory benchmarks test semantic recall. But coding agents don't really fail like that. They don't just "forget", they break their own earlier decisions while they're still in the code. So I built a benchmark for that. It checks if an agent can actually stay consistent with project rules WHILE it's working, not just after the fact. It looks at things like: whether edits actually respect earlier architectural decisions if behavior stays consistent across multiple sessions (even when you throw noise at it) whether retrieval kicks in at the right moment — not just "yeah it's in memory somewhere" Repo (full harness + dataset + scoring): https://github.com/Alienfader/continuity-benchmarks Early numbers vs baseline + the usual RAG-style memory setups: ~3× better action alignment way stronger multi-session consistency retrieval timing matters way more than retrieval just being there I'm not saying this is the final word on agent memory. But it's exposing a failure mode most benchmarks aren't even looking at. So heres the challenge If you're building an agent memory system, RAG for code, long-context coding agents, persistent state / memory layers, run it on this benchmark. Drop your results, your setup, your comparisons. I really wanna see how tools like LangChain, LlamaIndex, and custom RAG stacks hold up in mutation-heavy workflows. We need memory systems we can actually compare, not just ones that sound good on paper. https://preview.redd.it/dkm2ulxsyzzg1.png?width=2624&format=png&auto=webp&s=67f0299395708818aa3d7346ddae2ad0c5c4a6ba
 
-20h ago
-
----
-
-**[AMD's local, open-source AI can now easily interact with your Gmail](https://www.reddit.com/r/artificial/comments/1t77n9a/amds_local_opensource_ai_can_now_easily_interact/)**
-
-AMD software engineers continue rapidly advancing their open-source software efforts around local AI/LLM use on consumer-class Radeon and Ryzen hardware
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration) • 1d ago
+22h ago
 
 ---
 
@@ -121,39 +121,7 @@ AMD software engineers continue rapidly advancing their open-source software eff
 
 **[All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
 
-The New York Times • 7h ago
-
----
-
-**[The New Wild West of AI Kids’ Toys](https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/)**
-
-These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
-
-WIRED • 1d ago
-
----
-
-**[Richard Dawkins met an AI and didn't let go.](https://www.psychologytoday.com/us/blog/the-digital-self/202605/ai-and-the-infinite-loop)**
-
-AI generates the questions it cannot feel, and leaves us alone with the ones we cannot answer.
-
-Psychology Today • 50m ago
-
----
-
-**[AI air traffic system promises fewer flight delays](https://www.foxnews.com/tech/ai-air-traffic-system-promises-fewer-flight-delays)**
-
-The FAA's new SMART system uses AI to predict air traffic congestion and adjust flight schedules early, but experts question if it can deliver results.
-
-Fox News • 25m ago
-
----
-
-**[This new AI trade is leaving Nvidia and Micron in the dust](https://finance.yahoo.com/markets/article/this-new-ai-trade-is-leaving-nvidia-and-micron-in-the-dust-204250157.html)**
-
-Western Digital and Seagate have overtaken Nividia and Micron since the ChatGPT launch.
-
-Yahoo Finance • 22h ago
+The New York Times • 1h ago
 
 ---
 
@@ -161,7 +129,7 @@ Yahoo Finance • 22h ago
 
 A group of rural Utah residents wants a chance to vote in November to oppose a massive AI data center development — the latest example of Americans resisting new data center projects over fears they’ll disrupt the environment and their communities.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
@@ -169,13 +137,51 @@ CNN • 12h ago
 
 As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming.
 
-CNBC • 6h ago
+CNBC • 8h ago
 
 ---
 
 **[Chaos erupts at heated N.J. meeting about AI data center as cops forcibly remove speaker](https://www.nj.com/business/2026/05/chaos-erupts-at-heated-nj-meeting-about-ai-data-center-as-cops-forcibly-remove-speaker.html)**
 
-NJ.com • 22h ago
+NJ.com • 23h ago
+
+---
+
+**[How the FAA wants to use artificial intelligence](https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097)**
+
+Politico • 8m ago
+
+---
+
+**[AI air traffic system promises fewer flight delays](https://www.foxnews.com/tech/ai-air-traffic-system-promises-fewer-flight-delays)**
+
+The FAA's new SMART system uses AI to predict air traffic congestion and adjust flight schedules early, but experts question if it can deliver results.
+
+Fox News • 1h ago
+
+---
+
+**[This new AI trade is leaving Nvidia and Micron in the dust](https://finance.yahoo.com/markets/article/this-new-ai-trade-is-leaving-nvidia-and-micron-in-the-dust-204250157.html)**
+
+Western Digital and Seagate have overtaken Nividia and Micron since the ChatGPT launch.
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year](https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html)**
+
+Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.
+
+CNBC • 8h ago
+
+---
+
+**[Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger?](https://www.fool.com/investing/2026/05/09/is-nvidia-still-the-best-ai-stock-to-buy-in-2026/)**
+
+Another company is also excelling in the AI chips business.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -187,21 +193,13 @@ Business Insider • 1d ago
 
 ---
 
-**[Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year](https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html)**
-
-Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.
-
-CNBC • 7h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 819 • 💬 709 • 2d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 820 • 💬 709 • 2d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -209,7 +207,7 @@ CNBC • 7h ago
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 397 • 💬 160 • 1d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 403 • 💬 160 • 1d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -217,7 +215,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 293 • 💬 340 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 293 • 💬 341 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -225,13 +223,13 @@ Fewer people are buying parts and building new PCs from scratch.
 
 AI hallucinations were found in the Department of Home Affairs' revised white paper on citizenship, immigration and refugee protection.
 
-⬆️ 139 • 💬 39 • 1d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+⬆️ 139 • 💬 39 • 2d ago • [The Citizen](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 
 ---
 
 **[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-⬆️ 130 • 💬 162 • 18h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 131 • 💬 164 • 19h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -239,7 +237,7 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 130 • 💬 59 • 11h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 131 • 💬 59 • 12h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
@@ -247,19 +245,19 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 113 • 💬 63 • 1d ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 113 • 💬 64 • 1d ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
 **[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
 
-⬆️ 58 • 💬 72 • 12h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
+⬆️ 59 • 💬 74 • 13h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
 
 ---
 
 **[Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance](https://news.ycombinator.com/item?id=48073978)**
 
-⬆️ 47 • 💬 16 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
+⬆️ 47 • 💬 16 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
 
 ---
 
@@ -281,7 +279,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 47K • 👍 2K • 💬 462 • ⏱️ 19:33 • 13h ago
+👁️ 47K • 👍 2K • 💬 462 • ⏱️ 19:33 • 14h ago
 
 ---
 
@@ -291,7 +289,7 @@ Try CodeRabbit here: https://coderabbit.link/ai-revolution OpenAI just launched 
 
 📺 AI Revolution
 
-👁️ 13K • 👍 441 • 💬 26 • ⏱️ 15:52 • 20h ago
+👁️ 13K • 👍 441 • 💬 26 • ⏱️ 15:52 • 21h ago
 
 ---
 
@@ -311,7 +309,7 @@ AI was supposed to make companies more efficient. Instead, it may be creating on
 
 📺 The Infographics Show
 
-👁️ 280K • 👍 8K • 💬 1K • ⏱️ 17:39 • 22h ago
+👁️ 280K • 👍 8K • 💬 1K • ⏱️ 17:39 • 23h ago
 
 ---
 
@@ -341,7 +339,7 @@ In this video, we look at John Lennox's warning about artificial intelligence, R
 
 📺 Lion of Judah
 
-👁️ 7K • 👍 533 • 💬 58 • ⏱️ 23:52 • 22h ago
+👁️ 7K • 👍 533 • 💬 58 • ⏱️ 23:52 • 23h ago
 
 ---
 
@@ -361,7 +359,7 @@ Dan Ives, Wedbush Securities, joins 'Closing Bell' to discuss Ives' investing vi
 
 📺 CNBC Television
 
-👁️ 52K • 👍 455 • 💬 100 • ⏱️ 4:50 • 22h ago
+👁️ 52K • 👍 455 • 💬 100 • ⏱️ 4:50 • 23h ago
 
 ---
 
@@ -387,7 +385,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 115,477 • ❤️ 482 • 20h ago
+⬇️ 115,477 • ❤️ 482 • 21h ago
 
 ---
 
@@ -411,7 +409,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 23,620 • ❤️ 319 • 21h ago
+⬇️ 23,620 • ❤️ 319 • 22h ago
 
 ---
 
@@ -523,7 +521,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 18 • 💬 3 • ⭐ 10,222 • 21d ago
+▲ 18 • 💬 3 • ⭐ 10,222 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -575,7 +573,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 99 • 💬 10 • ⭐ 8,547 • 5d ago
+▲ 99 • 💬 10 • ⭐ 8,547 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -653,7 +651,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.3k • 🔱 734 • 2h ago
+⭐ 11.3k • 🔱 734 • 3h ago
 
 ---
 
@@ -663,7 +661,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 459 • 12h ago
+⭐ 5.9k • 🔱 459 • 13h ago
 
 ---
 
@@ -683,7 +681,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 374 • 11h ago
+⭐ 5.2k • 🔱 374 • 12h ago
 
 ---
 
@@ -693,7 +691,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.2k • 🔱 506 • 13m ago
+⭐ 4.2k • 🔱 506 • 1h ago
 
 ---
 
@@ -723,7 +721,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 739 • 11h ago
+⭐ 2.6k • 🔱 739 • 13h ago
 
 ---
 
@@ -733,7 +731,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 217 • 8h ago
+⭐ 2.4k • 🔱 217 • 9h ago
 
 ---
 

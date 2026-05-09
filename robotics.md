@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T19:03:33.062256+00:00'
+updated: '2026-05-09T20:08:23.060988+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 19:03 UTC  
+**Last Updated:** May 09, 2026 at 20:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Glavenus 3d printed robot arm](https://www.reddit.com/r/robotics/comments/1t88tba/glavenus_3d_printed_robot_arm/)**
+
+I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
+
+4h ago
+
+---
+
 **[A hobby engineer builds a fully automated wheelchair for his wife](https://www.reddit.com/r/robotics/comments/1t7tyw5/a_hobby_engineer_builds_a_fully_automated/)**
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-15h ago
+16h ago
 
 ---
 
@@ -44,27 +52,35 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-4h ago
-
----
-
-**[Glavenus 3d printed robot arm](https://www.reddit.com/r/robotics/comments/1t88tba/glavenus_3d_printed_robot_arm/)**
-
-I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
-
-3h ago
+5h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-1h ago
+2h ago
+
+---
+
+**[Cubic Doggo Update: phew, it finally walks like it's walking](https://www.reddit.com/r/robotics/comments/1t8gf5q/cubic_doggo_update_phew_it_finally_walks_like_its/)**
+
+Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
+
+35m ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-18h ago
+19h ago
+
+---
+
+**[BB1 Robot Project Status](https://www.reddit.com/r/robotics/comments/1t8feqw/bb1_robot_project_status/)**
+
+This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
+
+48m ago
 
 ---
 
@@ -72,7 +88,7 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,27 +96,13 @@ I’m currently learning the maths foundations behind kinematics so I built this
 
 I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
 
-6h ago
+7h ago
 
 ---
 
 **[📢First Native Color Lidar Sensor by Ouster (REV8), where color and 3D data are fused in silicon and not in software.✨](https://www.reddit.com/r/robotics/comments/1t7dj3v/first_native_color_lidar_sensor_by_ouster_rev8/)**
 
 1d ago
-
----
-
-**[Semantic similarity metrics](https://www.reddit.com/r/robotics/comments/1t8cgi9/semantic_similarity_metrics/)**
-
-49m ago
-
----
-
-**[Robot Helps Man Cook](https://www.reddit.com/r/robotics/comments/1t8c0vx/robot_helps_man_cook/)**
-
-Made a fun video exploring integrating a robot arm into the kitchen... It was actually quite challenging to maneuver around! Set quite a few way points using MoveIt2, but it's motion planning is decent if you map out the kitchen shelf and counter. Enjoy!
-
-🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 1h ago
 
 ---
 
@@ -116,11 +118,19 @@ The Washington Post • 2d ago
 
 ---
 
+**[Falling prices, broad use scenarios fuel Chinese adoption of humanoid robots](https://www.globaltimes.cn/page/202605/1360578.shtml)**
+
+Driven by constant tech breakthroughs and growing market adoption, humanoid robots in China are undergoing a notable wave of price cuts this year.
+
+Global Times • 1d ago
+
+---
+
 **[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
 
 Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -146,22 +156,6 @@ Rocket Lab • 1d ago
 
 ---
 
-**[Bixby 8th graders place top five in world robotics championship](https://www.newson6.com/tulsa-oklahoma-news/bixby-8th-graders-place-top-five-in-world-robotics-championship)**
-
-A Bixby Middle School robotics team became the first in state history to reach the championship dome at the VEX IQ World Championship, finishing fifth against teams from 54 countries.
-
-News On 6 • 15h ago
-
----
-
-**[Falling prices, broad use scenarios fuel Chinese adoption of humanoid robots](https://www.globaltimes.cn/page/202605/1360578.shtml)**
-
-Driven by constant tech breakthroughs and growing market adoption, humanoid robots in China are undergoing a notable wave of price cuts this year.
-
-Global Times • 1d ago
-
----
-
 **[Hacker Takes Over Robot Lawnmower, Runs Over Innocent Man](https://futurism.com/robots-and-machines/hacker-robot-lawnmower-runs-over-man)**
 
 A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
@@ -170,17 +164,25 @@ Futurism • 1d ago
 
 ---
 
-**[Humanoid Robots to Drive Next Leg of China Export Dominance](https://www.bloomberg.com/news/articles/2026-05-07/humanoid-robots-to-power-next-leg-of-china-s-export-dominance)**
-
-Bloomberg • 2d ago
-
----
-
 **[SoundHound AI Robotics Deal Tests Voice Platform Against Analyst Optimism](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-robotics-deal-tests-181946271.html)**
 
 SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bixby 8th graders place top five in world robotics championship](https://www.newson6.com/tulsa-oklahoma-news/bixby-8th-graders-place-top-five-in-world-robotics-championship)**
+
+A Bixby Middle School robotics team became the first in state history to reach the championship dome at the VEX IQ World Championship, finishing fifth against teams from 54 countries.
+
+News On 6 • 16h ago
+
+---
+
+**[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 2K • 👍 50 • 💬 23 • ⏱️ 2:19 • 22h ago
+👁️ 2K • 👍 50 • 💬 23 • ⏱️ 2:19 • 23h ago
 
 ---
 
@@ -204,7 +206,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 3K • 👍 43 • 💬 3 • ⏱️ 20:56 • 23h ago
+👁️ 3K • 👍 43 • 💬 3 • ⏱️ 20:56 • 1d ago
 
 ---
 
@@ -240,7 +242,7 @@ War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Cre
 
 📺 Hawks Robotics
 
-👁️ 8K • 👍 56 • 💬 2 • ⏱️ 0:05 • 17h ago
+👁️ 8K • 👍 56 • 💬 2 • ⏱️ 0:05 • 18h ago
 
 ---
 
@@ -260,7 +262,7 @@ Researchers at MIT (Massachusetts Institute of Technology), including students a
 
 📺 Existenzia
 
-👁️ 38K • 👍 276 • 💬 7 • ⏱️ 0:07 • 20h ago
+👁️ 38K • 👍 276 • 💬 7 • ⏱️ 0:07 • 21h ago
 
 ---
 
@@ -280,7 +282,7 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 📺 KTLA 5
 
-👁️ 26K • 👍 238 • 💬 93 • ⏱️ 2:14 • 3d ago
+👁️ 26K • 👍 238 • 💬 93 • ⏱️ 2:14 • 4d ago
 
 ---
 
