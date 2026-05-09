@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T05:50:06.355395+00:00'
+updated: '2026-05-09T07:57:50.629574+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 05:50 UTC  
+**Last Updated:** May 09, 2026 at 07:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,438.43
+### $80,278.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +2.3%  
-**30d:** +10.2%  
-**90d:** +14.7%  
-**1y:** -23.2%  
+**24h:** +0.3%  
+**7d:** +2.1%  
+**30d:** +9.9%  
+**90d:** +14.3%  
+**1y:** -23.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1610.96B
+**Market Cap:** $1606.31B
 Rank #1
 
-**Circulating Supply:** 20,026,715 BTC
+**Circulating Supply:** 20,026,753 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.2%
+-36.4%
 
 **All-Time Low:** $67.81
-+118496.1%
++118193.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-3h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=93Q_IZ3EZYw) • 12h ago
 
 ---
 
@@ -97,7 +97,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-rare-bottom-signal-holders-not-selling/
 
-14h ago
+16h ago
+
+---
+
+**[BTC The more you guys sell the more we buy](https://www.reddit.com/r/Bitcoin/comments/1t7x808/btc_the_more_you_guys_sell_the_more_we_buy/)**
+
+Let get the BITCOIN
+
+1h ago
 
 ---
 
@@ -105,7 +113,7 @@ If you're waiting until October, you might NGMI https://beincrypto.com/bitcoin-r
 
 Taken these S21 back from the grave and giving them life again. They told me $250 to fix this I said I’ll do it myself. YouTube !!!!!
 
-10h ago
+13h ago
 
 ---
 
@@ -113,7 +121,7 @@ Taken these S21 back from the grave and giving them life again. They told me $25
 
 The weird thing about Bitcoin isn’t the price anymore. It’s how holding even a small amount changes the way you think about the future. You stop buying random stuff. You think longer term. You become more patient. 0.05 BTC used to sound meaningless to me. Now it feels like something I probably shouldn’t underestimate.
 
-16h ago
+18h ago
 
 ---
 
@@ -121,7 +129,7 @@ The weird thing about Bitcoin isn’t the price anymore. It’s how holding even
 
 All jokes aside, when I saw the notification I jumped to the app to see if I could stack some sats on discount but I missed my chance…
 
-21h ago
+23h ago
 
 ---
 
@@ -129,15 +137,15 @@ All jokes aside, when I saw the notification I jumped to the app to see if I cou
 
 Is because they don't understand it in a first place. Never buy something you don't understand.
 
-7h ago
+9h ago
 
 ---
 
-**[Built a real-time Bitcoin network globe — watch every block propagate from pools to nodes](https://www.reddit.com/r/Bitcoin/comments/1t77880/built_a_realtime_bitcoin_network_globe_watch/)**
+**[Daily Discussion, May 09, 2026](https://www.reddit.com/r/Bitcoin/comments/1t7wim8/daily_discussion_may_09_2026/)**
 
-Wanted to actually *see* the network breathe instead of refreshing mempool.space tabs, so I built this. When a pool mines a block, rays fire from that pool's location outward to every full node tracked (~120 visible). **What's shown** - Live block propagation (mempool.space WS) - Pool locations + last-30 share (Foundry, MARA, AntPool, ViaBTC, etc.) - Full nodes by country (Bitnodes) - Time since last block — turns red past 10 min avg - Halving countdown — block 1,050,000, ~April 2028, next reward 1.5625 BTC - Median fee sat/vB sparkline (last 30 blocks) - Click any block in the feed → full metadata + mempool.space explorer link - Click any pool/node on the globe → tooltip with details All public free data — no auth, no signup, no ads, no tracking. Not affiliated with mempool.space or Bitnodes; just consuming their open data. Personal side project, not a service. Desktop is intended view; mobile works (cards stack vertically) but less immersive.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-🔗 [Bitcoin Globe](https://bitcoin.gofire.info) • 16h ago
+1h ago
 
 ---
 
@@ -145,15 +153,7 @@ Wanted to actually *see* the network breathe instead of refreshing mempool.space
 
 If you use a cold storage device without airgapping, is your BTC potentially forever compromised? Or is it only a risk while connected to the computer during the transaction? Thank you in advance
 
-53m ago
-
----
-
-**[Orbital data center company to start mining Bitcoin in space](https://www.reddit.com/r/Bitcoin/comments/1t71ntl/orbital_data_center_company_to_start_mining/)**
-
-Starcloud, an Nvidia-backed orbital data center startup, said it will start mining Bitcoin from space later this year when its second spacecraft is launched, positioning it to become the first company to mine Bitcoin off Earth.Starcloud “will be the first to mine Bitcoin in space,” the startup’s CE…
-
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:53ae8118e094b:0-orbital-data-center-company-to-start-mining-bitcoin-in-space/) • 21h ago
+3h ago
 
 ---
 
@@ -161,19 +161,19 @@ Starcloud, an Nvidia-backed orbital data center startup, said it will start mini
 
 ## Google News: "bitcoin"
 
-**[CryptoQuant says bitcoin profit-taking could increase further amid 'bear market rally'](https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally)**
-
-Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
-
-The Block • 9h ago
-
----
-
 **[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
 
 Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
-Fortune • 14h ago
+Fortune • 16h ago
+
+---
+
+**[CryptoQuant says bitcoin profit-taking could increase further amid 'bear market rally'](https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally)**
+
+Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.
+
+The Block • 11h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 14h ago
 
 Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
@@ -189,21 +189,13 @@ CNBC • 16h ago
 
 Bitcoin opened at $80,015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80,206.01 by 7:18 a.m ET. Ethereum opened at $2,290.98 on Friday, down 2.5% from Thursday's opening price. The value of ethereum was steady as of 7:18 a.m. ET..
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
+**[Bitcoin Price Dives Below $80,000. This Jobs Report Could End the Crypto Slump.](https://www.barrons.com/articles/bitcoin-price-crypto-jobs-report-ce56c0d9)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[Why The U.S. Military Just Turned On A Bitcoin Node — And What “Power Projection” Really Means](https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military)**
-
-“Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
-
-Bitcoin Magazine • 8h ago
+Barron's • 19h ago
 
 ---
 
@@ -211,7 +203,21 @@ Bitcoin Magazine • 8h ago
 
 Tokenization and digital asset-infrastructure stocks climbed as SEC Chair Paul Atkins signaled support for onchain finance rules.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
+
+---
+
+**[Why The U.S. Military Just Turned On A Bitcoin Node — And What “Power Projection” Really Means](https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military)**
+
+“Jason Lowery’s once-banned book is influencing top brass. Here’s how Bitcoin’s ‘Electro-Cyber Dome’ could stop spam, DDoS, and disinformation by making attacks physically expensive.”
+
+Bitcoin Magazine • 10h ago
+
+---
+
+**[Bitcoin Campaign to Force SNB Holdings Has Failed, Reuters Says](https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says)**
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -229,14 +235,6 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin's Biggest Buyer Just Said He Might Sell It. Should You?](https://www.fool.com/investing/2026/05/08/bitcoins-biggest-buyer-just-said-he-might-sell-it/)**
-
-One of the coin's biggest evangelists could become a (small) seller soon.
-
-The Motley Fool • 18h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -245,7 +243,7 @@ The Motley Fool • 18h ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 9h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 11h ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -253,7 +251,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 BTC Pulse — 4-factor composite model for BTC macro direction assessment.
 
-⬆️ 2 • 💬 0 • 5d ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
+⬆️ 2 • 💬 0 • 6d ago • [btcpulse.vercel.app](https://btcpulse.vercel.app/)
 
 ---
 
@@ -285,7 +283,7 @@ Production-ready Python Flask starter kit with authentication, Stripe payments, 
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 10h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 12h ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -305,27 +303,35 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 9K • 👍 94 • 💬 91 • ⏱️ 4:14 • 9h ago
+👁️ 10K • 👍 104 • 💬 95 • ⏱️ 4:14 • 11h ago
 
 ---
 
-**[3 Experts DEBATE Crypto Price Predictions (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
+**[I will delete this video in 24 hours (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
 
 Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 895 • 💬 71 • ⏱️ 11:32 • 6h ago
+👁️ 17K • 👍 1K • 💬 82 • ⏱️ 11:32 • 9h ago
 
 ---
 
-**[Bitcoin Just Got A $30 Billion Buyer -  JPMorgan Confirms](https://www.youtube.com/watch?v=tRP6ey_cErQ)**
+**[Clarity Act could expedite the institutional adoption of crypto investing, say ETF managers](https://www.youtube.com/watch?v=qb6KzhpBPCI)**
 
-Bitcoin #Crypto #Finance Bitcoin is entering a new phase where the biggest moves are no longer driven by retail hype but by ...
+Matthew Sigel, VanEck head of digital assets research, and Sal Gilbertie, Chief Executive Officer, President, and Chief Investment ...
 
-📺 The Wolf Of All Streets
+📺 CNBC Television
 
-👁️ 11K • 👍 694 • 💬 184 • ⏱️ 25:23 • 16h ago
+👁️ 6K • 👍 103 • 💬 62 • ⏱️ 9:09 • 11h ago
+
+---
+
+**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 279 • 💬 16 • ⏱️ 2:31 • 6h ago
 
 ---
 
@@ -335,7 +341,27 @@ Michael Saylor just announced on Strategy's Q1 2026 earnings call that the compa
 
 📺 Simply Bitcoin
 
-👁️ 72K • 👍 3K • 💬 469 • ⏱️ 15:19 • 1d ago
+👁️ 73K • 👍 3K • 💬 468 • ⏱️ 15:19 • 1d ago
+
+---
+
+**[Is this a coordinated attack on the Bitcoin standard? The market structure war is real.](https://www.youtube.com/watch?v=T5IoeF0RQ-s)**
+
+Crypto Casey dives into the escalating battle between traditional banking giants and the growing Bitcoin ecosystem. The analysis ...
+
+📺 Chain Signal Lab
+
+👁️ 716 • 👍 15 • 💬 1 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[Bitcoin Just Got A $30 Billion Buyer -  JPMorgan Confirms](https://www.youtube.com/watch?v=tRP6ey_cErQ)**
+
+Bitcoin #Crypto #Finance Bitcoin is entering a new phase where the biggest moves are no longer driven by retail hype but by ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 705 • 💬 290 • ⏱️ 25:23 • 18h ago
 
 ---
 
@@ -345,45 +371,17 @@ My Links: ▻ Get the risk models I use to track accumulation and distribution z
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 721 • 💬 335 • ⏱️ 13:40 • 1d ago
+👁️ 14K • 👍 724 • 💬 332 • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[BITCOIN: IT&#39;S STARTING...](https://www.youtube.com/watch?v=NDdpJ4AMUDY)**
+**[Bitcoin: The Beauty of Mathematics (Part 70)](https://www.youtube.com/watch?v=E6xmZR6HRGw)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+It is once again time for another update on our "Bitcoin: The Beauty of Mathematics" series! Into The Cryptoverse Premium SALE: ...
 
-📺 Crypto Rover
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 266 • 💬 32 • ⏱️ 3:55 • 2h ago
-
----
-
-**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 234 • 💬 6 • ⏱️ 2:31 • 4h ago
-
----
-
-**[Bitcoin Is About To Trigger a MASSIVE Short Squeeze](https://www.youtube.com/watch?v=aJt-Ge0oOaY)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 403 • ⏱️ 47:26 • 2d ago
-
----
-
-**[Massive Bitcoin Run Incoming...](https://www.youtube.com/watch?v=8nT2I-5R-UY)**
-
-Your AI analyst for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries, Real ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 271 • ⏱️ 9:29 • 2d ago
+👁️ 48K • 👍 3K • 💬 121 • ⏱️ 4:32 • 1d ago
 
 ---
 
@@ -393,7 +391,7 @@ Most of the cryptocurrency industry is dead. Forever. I know that's harsh to say
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 65K • 👍 3K • 💬 712 • ⏱️ 13:36 • 2d ago
+👁️ 65K • 👍 3K • 💬 715 • ⏱️ 13:36 • 2d ago
 
 ---
 
