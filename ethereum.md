@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T22:06:58.639786+00:00'
+updated: '2026-05-09T23:13:08.217204+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 22:06 UTC  
+**Last Updated:** May 09, 2026 at 23:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.9%  
-**7d:** +0.3%  
-**30d:** +3.8%  
-**90d:** +10.7%  
-**1y:** -9.8%  
+**7d:** +0.2%  
+**30d:** +3.7%  
+**90d:** +10.6%  
+**1y:** -9.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.14B
+**Market Cap:** $281.13B
 Rank #2
 
 **Circulating Supply:** 120,686,648 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.9%
 
 **All-Time Low:** $0.43
-+538099.3%
++537501.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-3h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-5h ago
+6h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView • 1d ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Crypto Briefing • 3h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ markets.businessinsider.com • 15h ago
 
 Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
 
-Bitcoin News • 4h ago
+Bitcoin News • 5h ago
 
 ---
 
@@ -220,11 +220,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Solana Just Overtook Ethereum in New Developer Signups — Biggest News Shift for Solana?](https://cryptonews.com/news/solana-news-developer-share-23-percent-ethereum-drops/)**
+**[Will Ethereum (ETH) Hit $22K as Tom Lee Predicts?](https://www.disruptionbanking.com/2026/05/08/will-ethereum-eth-hit-22k-as-tom-lee-predicts/)**
 
-Explore the significant shift in Solana News, revealing a 45% increase in active developers and a new competitive landscape.
-
-Cryptonews • 1d ago
+Disruption Banking • 1d ago
 
 ---
 
@@ -238,17 +236,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 170 • ⏱️ 14:48 • 1d ago
-
----
-
-**[I will delete this video in 24 hours (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
-
-Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 220 • ⏱️ 11:32 • 23h ago
+👁️ 45K • 👍 2K • 💬 170 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -258,15 +246,17 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 6K • 👍 196 • 💬 64 • ⏱️ 9:26 • 6h ago
+👁️ 10K • 👍 252 • 💬 74 • ⏱️ 9:26 • 7h ago
 
 ---
 
-**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
+**[I will delete this video in 24 hours (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
 
-📺 CryptoWendyO
+Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
 
-👁️ 7K • 👍 449 • 💬 38 • ⏱️ 2:31 • 21h ago
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 220 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -276,7 +266,15 @@ KBW2026 tickets available now ...
 
 📺 Korea Blockchain Week
 
-👁️ 680 • 👍 44 • 💬 4 • ⏱️ 21:18 • 7h ago
+👁️ 1K • 👍 70 • 💬 17 • ⏱️ 21:18 • 8h ago
+
+---
+
+**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 457 • 💬 38 • ⏱️ 2:31 • 22h ago
 
 ---
 
@@ -286,7 +284,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 493 • 💬 77 • ⏱️ 12:01 • 8h ago
+👁️ 14K • 👍 549 • 💬 81 • ⏱️ 12:01 • 9h ago
 
 ---
 
@@ -294,7 +292,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 104 • 👍 13 • 💬 2 • ⏱️ 1:00 • 1h ago
+👁️ 2K • 👍 110 • 💬 8 • ⏱️ 1:00 • 2h ago
 
 ---
 
@@ -304,7 +302,7 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 437 • 💬 57 • ⏱️ 12:24 • 1d ago
+👁️ 10K • 👍 445 • 💬 60 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -314,17 +312,17 @@ Bitcoin made its way into corporate treasuries. Will Ethereum follow? In this ep
 
 📺 Smart Economy Network
 
-👁️ 68 • 👍 5 • ⏱️ 1:01 • 2d ago
+👁️ 72 • 👍 5 • ⏱️ 1:01 • 2d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOINS FLIPPED (But There&#39;s a Catch) - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zPOokb9EwLs)**
+**[WHY ETHEREUM CAN BOUNCE NOW!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=NK91lDAVaWU)**
 
-BITCOIN & ALTCOINS FLIPPED (But There's a Catch) - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 9K • 👍 353 • 💬 246 • ⏱️ 18:14 • 1d ago
+👁️ 415 • 👍 14 • 💬 1 • ⏱️ 4:16 • 1d ago
 
 ---
 

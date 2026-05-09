@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T22:06:58.642983+00:00'
+updated: '2026-05-09T23:13:08.220395+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 22:06 UTC  
+**Last Updated:** May 09, 2026 at 23:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-6h ago
-
----
-
-**[A hobby engineer builds a fully automated wheelchair for his wife](https://www.reddit.com/r/robotics/comments/1t7tyw5/a_hobby_engineer_builds_a_fully_automated/)**
-
-The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
-
-18h ago
+7h ago
 
 ---
 
@@ -52,13 +44,21 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-7h ago
+8h ago
+
+---
+
+**[A hobby engineer builds a fully automated wheelchair for his wife](https://www.reddit.com/r/robotics/comments/1t7tyw5/a_hobby_engineer_builds_a_fully_automated/)**
+
+The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
+
+19h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -66,13 +66,7 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-2h ago
-
----
-
-**[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
-
-21h ago
+3h ago
 
 ---
 
@@ -80,7 +74,21 @@ Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel
 
 This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
 
-2h ago
+3h ago
+
+---
+
+**[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
+
+22h ago
+
+---
+
+**[Robot Helps Man Cook](https://www.reddit.com/r/robotics/comments/1t8c0vx/robot_helps_man_cook/)**
+
+Made a fun video exploring integrating a robot arm into the kitchen... It was actually quite challenging to maneuver around! Set quite a few way points using MoveIt2, but it's motion planning is decent if you map out the kitchen shelf and counter. Enjoy!
+
+🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 5h ago
 
 ---
 
@@ -88,21 +96,13 @@ This is the current status of BB1 .. I can’t seem to post it much anymore beca
 
 I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
 
-7h ago
+8h ago
 
 ---
 
 **[built a native ROS 2 MCP Server for AI Agents (No rosbridge/WebSockets required)](https://www.reddit.com/r/robotics/comments/1t8gwro/built_a_native_ros_2_mcp_server_for_ai_agents_no/)**
 
-2h ago
-
----
-
-**[3D Depth Camera Test](https://www.reddit.com/r/robotics/comments/1t83x6r/3d_depth_camera_test/)**
-
-I gave the P100R a try and took a preliminary look at its depth imaging. I'm not entirely sure about its effective measurement range, though. The product documentation claims it can reach up to 8 meters at maximum, which I'll test in my next session. Has anyone else here used it? I also came across someone on GitHub running YOLO object detection with it.
-
-9h ago
+3h ago
 
 ---
 
@@ -126,14 +126,6 @@ Global Times • 1d ago
 
 ---
 
-**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
-
-Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
-
-Business Insider • 13h ago
-
----
-
 **[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
 
 SpaceNews • 1d ago
@@ -152,7 +144,15 @@ Yahoo Finance • 1d ago
 
 The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
 
-Rocket Lab • 1d ago
+Rocket Lab • 2d ago
+
+---
+
+**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+
+Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
+
+Business Insider • 14h ago
 
 ---
 
@@ -164,11 +164,11 @@ Futurism • 1d ago
 
 ---
 
-**[SoundHound AI Robotics Deal Tests Voice Platform Against Analyst Optimism](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-robotics-deal-tests-181946271.html)**
+**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
 
-SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
+“The smart home is getting kind of boring.”
 
-Yahoo Finance • 1d ago
+The Verge • 1d ago
 
 ---
 
@@ -178,11 +178,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
+**[Bixby 8th graders place top five in world robotics championship](https://www.newson6.com/tulsa-oklahoma-news/bixby-8th-graders-place-top-five-in-world-robotics-championship)**
 
-“The smart home is getting kind of boring.”
+A Bixby Middle School robotics team became the first in state history to reach the championship dome at the VEX IQ World Championship, finishing fifth against teams from 54 countries.
 
-The Verge • 1d ago
+News On 6 • 19h ago
 
 ---
 
@@ -190,31 +190,21 @@ The Verge • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[#factory #robot #industrial #robotics #spraying #borunte](https://www.youtube.com/watch?v=YT09DS2VUEw)**
+
+📺 BORUNTE-Robot-Messi
+
+👁️ 28K • 👍 95 • 💬 3 • ⏱️ 0:14 • 1d ago
+
+---
+
 **[Figure Helix 02 Humanoid Robot Cleans Bedroom Like a Human](https://www.youtube.com/watch?v=xsLOYZxIUqc)**
 
 Figure AI just revealed one of the most realistic humanoid robot demonstrations yet. The new Helix 02 robot cleaned and ...
 
 📺 DPCcars
 
-👁️ 2K • 👍 53 • 💬 26 • ⏱️ 2:19 • 1d ago
-
----
-
-**[VEX OVERRIDE MEGA TOWER #robotics #vex #vexrobotics #robot #override #pushback](https://www.youtube.com/watch?v=JmpESyBlXps)**
-
-📺 Hawks Robotics
-
-👁️ 9K • 👍 64 • 💬 3 • ⏱️ 0:05 • 20h ago
-
----
-
-**[Scorpion Is The Perfect Meta Counter Somehow... Scorpion vs Vector | War Robots](https://www.youtube.com/watch?v=IR5mchA_r0Y)**
-
-Scorpion is back and actually good. The meta is all over the place right now but the scorpion can fit in perfectly, getting in and out.
-
-📺 PREDATOR WR
-
-👁️ 6K • 👍 371 • 💬 36 • ⏱️ 16:03 • 10h ago
+👁️ 2K • 👍 57 • 💬 28 • ⏱️ 2:19 • 1d ago
 
 ---
 
@@ -224,45 +214,17 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 3K • 👍 44 • 💬 3 • ⏱️ 20:56 • 1d ago
+👁️ 3K • 👍 45 • 💬 3 • ⏱️ 20:56 • 1d ago
 
 ---
 
-**[#factory #robot #industrial #robotics #spraying #borunte](https://www.youtube.com/watch?v=YT09DS2VUEw)**
+**[Bot Shovel by CPSLO Cal Poly Gear Slingers](https://www.youtube.com/watch?v=DSJB1q0wJK0)**
 
-📺 BORUNTE-Robot-Messi
+Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearslingers Check out our robotics game and FUN ...
 
-👁️ 27K • 👍 95 • 💬 3 • ⏱️ 0:14 • 1d ago
+📺 FUN Robotics Network
 
----
-
-**[EVERYONE needs to know about this DIRTY TRICK in War Robots](https://www.youtube.com/watch?v=hfSecKnnta0)**
-
-War Robots Gameplay: The unbeatable Combo in WR - dirty tricks My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 20K • 👍 849 • 💬 116 • ⏱️ 11:18 • 2d ago
-
----
-
-**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
-
-You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
-
-📺 KTLA 5
-
-👁️ 26K • 👍 240 • 💬 93 • ⏱️ 2:14 • 4d ago
-
----
-
-**[China Robot Dance ](https://www.youtube.com/watch?v=RODOkrw4UVM)**
-
-China Robot Dance is an amazing display of artificial intelligence and robotics from China, showcasing the country's ...
-
-📺 Naa Anveshana
-
-👁️ 407K • 👍 22K • 💬 2K • ⏱️ 16:03 • 2d ago
+👁️ 975 • 👍 15 • ⏱️ 0:14 • 1h ago
 
 ---
 
@@ -276,13 +238,53 @@ Meet Bebop! Passengers on a Southwest Airlines flight from Oakland to San Diego 
 
 ---
 
-**[Robot Movie Funny Mistakes 💩 #shorts #youtubeshorts](https://www.youtube.com/watch?v=7qWh__khI3U)**
+**[MIT Created Shape Shifting Robots That Reshape Themselves](https://www.youtube.com/watch?v=MXZBYAHdhBs)**
 
-5 Biggest Mistakes In Robot Movie #shorts #youtubeshorts #robot #movie #mistakes #robot2.
+Researchers at MIT (Massachusetts Institute of Technology), including students and faculty in the Computer Science and Artificial ...
 
-📺 Kashtman Expo
+📺 Existenzia
 
-👁️ 30K • ⏱️ 0:34 • 2d ago
+👁️ 52K • 👍 306 • 💬 9 • ⏱️ 0:07 • 1d ago
+
+---
+
+**[Scorpion Is The Perfect Meta Counter Somehow... Scorpion vs Vector | War Robots](https://www.youtube.com/watch?v=IR5mchA_r0Y)**
+
+Scorpion is back and actually good. The meta is all over the place right now but the scorpion can fit in perfectly, getting in and out.
+
+📺 PREDATOR WR
+
+👁️ 7K • 👍 394 • 💬 37 • ⏱️ 16:03 • 11h ago
+
+---
+
+**[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
+
+You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
+
+📺 KTLA 5
+
+👁️ 26K • 👍 242 • 💬 93 • ⏱️ 2:14 • 4d ago
+
+---
+
+**[This Is The Moment Elon Warned About](https://www.youtube.com/watch?v=FI-xNk-hjjE)**
+
+The humanoid race just stopped being demo videos – it's now a manufacturing war. Some viewers ask where they can learn more ...
+
+📺 Brighter with Herbert
+
+👁️ 96K • 👍 3K • 💬 341 • ⏱️ 1:09:54 • 6d ago
+
+---
+
+**[🤖 Control a Robot Arm with Joystick!](https://www.youtube.com/watch?v=Z3UCTCq5OJ8)**
+
+Control a Robot Arm with One Joystick using Arduino! code link ...
+
+📺 MW Electronics Lab
+
+👁️ 186K • 💬 33 • ⏱️ 0:05 • 3d ago
 
 ---
 
