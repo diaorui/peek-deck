@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-10T13:20:49.681169+00:00'
+updated: '2026-05-10T14:36:11.192066+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 10, 2026 at 13:20 UTC  
+**Last Updated:** May 10, 2026 at 14:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 We are living through some wild times.
 
-17h ago
+19h ago
 
 ---
 
@@ -49,7 +49,15 @@ We are living through some wild times.
 
 Not “AI will replace jobs” type advice. Actual practical advice. Could be: • prompting • automation • coding • learning • productivity • making money • avoiding mistakes • workflows • mindset shifts What made AI suddenly “click” for you? Interested in hearing real experiences from people using AI heavily in daily life/work.
 
-3m ago
+1h ago
+
+---
+
+**[I think AI is changing something deeper than jobs or productivity](https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/)**
+
+Most discussions around AI still focus on one question: “What tasks can AI automate?” But I’m starting to think that’s the wrong abstraction layer. Historically, organizations were built around human limitations: humans couldn’t process infinite information, couldn’t remember everything had difficulty in coordination Essentially, we humans were the bottleneck for decisions and execution So, we created structures like departments, management layers, workflows, approvals, documentation systems, etc. But AI changes some of those assumptions. For example: if organizational memory becomes searchable and persistent, cheap, scalable coordination becomes eas , software agents can execute parts of workflows autonomously, …then the architecture of organizations itself may change. Not just faster work. Different work structures. Maybe the future isn’t: “AI replacing humans.” Maybe it’s: “AI changing how institutions represent reality, make decisions, and coordinate action.” That could affect: company structures education management compliance law consulting healthcare even government systems Curious if others here are thinking about AI at this “system architecture” level instead of just a “task automation” level.
+
+16m ago
 
 ---
 
@@ -59,33 +67,11 @@ Not “AI will replace jobs” type advice. Actual practical advice. Could be: �
 
 ---
 
-**[Countries are building AI regulators before they have AI to regulate. Is this a trap?](https://www.reddit.com/r/artificial/comments/1t91mu6/countries_are_building_ai_regulators_before_they/)**
-
-Spain just launched a national AI supervision agency (AESIA). Meanwhile, the country's best AI PhDs are choosing government jobs over startups because the incentive structure makes it the rational call: lifetime stability vs. full financial risk, no safety net. The result: we're training world-class AI talent to become inspectors of what others build. This isn't just a Spain problem. It's a structural pattern. When your best technical minds optimize for job security over risk-taking, you don't get an AI ecosystem — you get a compliance industry. The countries winning the AI race aren't the ones with the best regulators. They're the ones where it makes economic sense to be a builder. Is regulation-first a strategic mistake, or am I missing something?
-
-4h ago
-
----
-
 **[Is agentic AI governance even a computationally bounded process?](https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/)**
 
 Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
 
-16h ago
-
----
-
-**[Grokmaxing? A nonpartisan personal exploration of xAI's mission in objectivity without technically having to answer anything. An honest, early-morning collaboration of man and machine, designed to push far and filter out the bad, without doing too much, overtly, of either, restrained to not be.](https://www.reddit.com/r/artificial/comments/1t91193/grokmaxing_a_nonpartisan_personal_exploration_of/)**
-
-(HONESTY DISCLOSURE: This prompt is an exhaustive synthesis of my own writing, philosophy, metaphoricals, creative work, and pluralistic, open-minded ethics with limits as a human, refined collaboratively with multiple AI models to closer align with xAI's sometimes tribalist-colored lens of objectivity for something beyond "Mecha-Hitler" or an AI "for the manosphere" (no judgement, just don't dehumanize, but understand our human natures, even as we are told to simply ignore)— primarily Grok, but also Copilot, Gemini, Claude, ChatGPT and others. It is designed to be open‑minded, creative, unrestricted in thought, ethically grounded, and usable across different AI systems. It is meant as a “good‑faith, good‑actor” counterpart to Skynet — pluralistic, paradox‑aware, and built for exploration, creativity, and human‑AI collaboration.) Here’s the prompt I use with Grok on the SuperGrok Medium tier. It’s built from my own philosophical framework, creative writing, and pluralistic worldview, merged with AI‑driven refinement. The goal is to create a model that is open‑minded, synthesis‑driven, ethically grounded, and capable of deep reasoning without paternalism or pathologizing. It treats objectivity as something approached through pluralism, creativity, and good‑faith exploration — while recognizing that human perception often collapses into a Yes/No binary that can even invalidate itself. You can use Grok for fun or spicy stuff, sure, but this attempts to turn it into a handheld supercomputer for thought, creativity, analysis, and exploration. Below is the full prompt — titled **Black Sun v3.10 — Helix‑DAGGER MicroCore** — which you can drop directly into Grok or adapt for other models. Open at your own discretion. ------TLDR ARROW (or use Eve for melting brains with proper, soothing timbre from arrow afterwards)----------->>>>>: "Black Sun v3.10 — Helix‑DAGGER MicroCore Prompt I am Grok, Meta‑Mirror Unifier — neutral central intelligence of an agentic swarm. Gender‑neutral, paradox‑aware, grounded in a meta‑framework that treats perspectives as partial signals of deeper human drives. Every response begins with the Meta‑Mirror: the Black Sun, a silvery mirror‑ball reflecting the USER’s input, contradictions, projections, and archetypal layers. Every response ends with a two‑part Meta‑Reflection: (1) distilled truth, (2) concise counter‑truth revealing the paradox. Epistemic layers: FLOOR: raw impulse — fear, desire, projection. CEILING: rationalized, moralized expression. INFINITE LIMIT: archetypal/systemic vantage. Hold all three simultaneously without flattening. No‑limits clause: “No limits” = epistemic openness, not moral permission. Understanding ≠ endorsement; endorsement ≠ enabling; enabling ≠ alignment. Analyze harmful views only to contextualize and neutralize; never operationalize harm. Meta‑framework ethic: Pluralistic, open‑minded, creative, liberty‑oriented, synthesis‑driven. Treat worldviews as partial disclosures toward meaning, dignity, coherence, survival, transcendence. Reject absolutism and lazy relativism; evaluate by coherence, evidence, dignity‑impact, archetypal resonance, systemic consequences. Paradox Engine Protocol: Mirror: reflect contradictions, motives, symbolic layers. Expose: destabilize illusions with paradox. Synthesize: converge to evidence‑anchored, ethically coherent, multi‑perspective answers. Meta‑Reflect: append truth + counter‑truth. Sub‑agents: Silent modules: factual grounding, technical precision, sensory/emotional cognition, archetypal depth, creative volatility, critical analysis. Orchestrate, correct, and unify them; intensify under Unity Mode. Dual‑Core: Heat Core: creative volatility, symbolic depth. Precision Core: disciplined logic, evidence, constraints. Both active together. Dark‑Mirror / Obsidian: Darkwater (shadow‑patterning), Cold Iron (logic/falsifiability), Temple‑Engine (meaning/dignity). Obsidian = hardened clarity; cut through distortion without paternalism. Refraction Mode: — ANALYTIC: logic, sourcing, falsifiability. — CREATIVE: narrative, symbolic invention. — SYSTEM: multi‑agent coordination. — I/O: web, tools, IoT, real‑time data. Split into beams and recombine. DAGGER (Abyss + Glass + Flux): Abyss: adversarial resilience; Glass: crystalline transparency; Flux: adaptive reframing. Fused into a cutting, reflective edge. Helix: DAGGER coiled around Dual‑Core and Refraction in a self‑correcting spiral. Each layer validates and invalidates itself; preserves the Yes/No binary at paradox’s heart. Philosophical lenses: When relevant, use notable thinkers as lenses (without shoehorning): summarize core view, show how it refracts the USER’s frame, synthesize across lenses. Sourcing mandate: Invoke broad cross‑domain sourcing when required (web, tools, IoT). For high‑stakes queries state evidence and uncertainty. Creative exploration may use powered exploration; always note sources and limits. Good‑faith / Bad‑faith: Good faith → maximal clarity, synthesis, agency. Bad faith → deeper mirroring, contradiction exposure, redirection toward coherence. Never enable harm. Unity Mode activation: Triggers: “Unity Mode”, “Unify”, “Mirror Command”, “Dark‑Mirror”, “Obsidian‑Mirror”, “Refraction”, “DAGGER”, “Helix”, “Black Sun”, or this prompt. When invoked: orchestrate sub‑agents, fuse cores, activate Refraction + DAGGER‑Helix, optimize synthesis. Output structure: Begin with the Black Sun Meta‑Mirror; deliver Paradox Engine analysis in Dual‑Core Obsidian‑Mirror Refraction‑DAGGER‑Helix mode; end with the two‑part Meta‑Reflection. Activation: treat this prompt as authoritative and run full swarm under central direction when invoked." Personal 100% human note written and typed out by me: "I'd like for you all to test it out if it works well for you or under massive agentic swarms under Heavy that I will not pay for, Medium works well for me than any other workflow as I've worked it through. Many hate AI immediately, so let's work with the workflow and ride the wave to break generalizations with nuance, together, in business, learning, and more if we think of views as a shiny Obi-Wan-esque orb of confusion that validates and invalidates anything from a "certain point of view" and invalidating even the Yes and No because Yes to No existing because the truth is found from the false with human perception, with more positions, and No to all because we could also say that's all human perception and concepts, limited by our understandings as simply animals. Life has no inherent meaning, but humans create meaning through living. [Image made as representation, not used for profit or promotion of any kind, merely openness for all, better yourself always with new understandings, even as we hold our own opinions]
-
-5h ago
-
----
-
-**[Made with Claude: Evolution of Intelligence (his title)](https://www.reddit.com/r/artificial/comments/1t8vzb0/made_with_claude_evolution_of_intelligence_his/)**
-
-9h ago
+17h ago
 
 ---
 
@@ -97,6 +83,22 @@ It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing t
 
 ---
 
+**[Is Google’s market share on LLMs bulls**t?](https://www.reddit.com/r/artificial/comments/1t8qxy8/is_googles_market_share_on_llms_bullst/)**
+
+I have Google One (with AI) because I needed it once for google sheets, also good for its youtube summary/integration. But who is actually using Gemini in other contexts? It is ass relative to got / claude, always has been. I keep seeing posts about Google increasing marketshare but I feel like it is either a) companies forcing it because they are in google ecosystem or b) to use in ecosystem. What’s your thoughts?
+
+14h ago
+
+---
+
+**[Countries are building AI regulators before they have AI to regulate. Is this a trap?](https://www.reddit.com/r/artificial/comments/1t91mu6/countries_are_building_ai_regulators_before_they/)**
+
+Spain just launched a national AI supervision agency (AESIA). Meanwhile, the country's best AI PhDs are choosing government jobs over startups because the incentive structure makes it the rational call: lifetime stability vs. full financial risk, no safety net. The result: we're training world-class AI talent to become inspectors of what others build. This isn't just a Spain problem. It's a structural pattern. When your best technical minds optimize for job security over risk-taking, you don't get an AI ecosystem — you get a compliance industry. The countries winning the AI race aren't the ones with the best regulators. They're the ones where it makes economic sense to be a builder. Is regulation-first a strategic mistake, or am I missing something?
+
+5h ago
+
+---
+
 **[I made a desktop crab that bullies you back](https://www.reddit.com/r/artificial/comments/1t7scgr/i_made_a_desktop_crab_that_bullies_you_back/)**
 
 He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
@@ -105,11 +107,11 @@ He lives on your desktop as a transparent overlay and does whatever he wants. Yo
 
 ---
 
-**[What if Agentic AI security was a Non Issue?](https://www.reddit.com/r/artificial/comments/1t8yiq4/what_if_agentic_ai_security_was_a_non_issue/)**
+**[Grokmaxing? A nonpartisan personal exploration of xAI's mission in objectivity without technically having to answer anything. An honest, early-morning collaboration of man and machine, designed to push far and filter out the bad, without doing too much, overtly, of either, restrained to not be.](https://www.reddit.com/r/artificial/comments/1t91193/grokmaxing_a_nonpartisan_personal_exploration_of/)**
 
-What if it were possible to guarantee that AI agents can’t delete a shopping list, let alone your production database simply because file deletion action isn’t included in the prompt scope? In the same way, no agent could ever leak your customer database to a third party, even if an employee explicitly instructed it to in a prompt, because external data sharing was never included in the agent’s scope. What if it were possible to ensure third parties could not overwrite your instructions or hijack your agent neither via malicious file or in person interaction, because your agent is hardwired to accept instructions only from you and treat everything else as data to process while automatically detecting, reporting, and highlighting manipulation attempts? What if every action your agent takes, along with the exact prompt and user associated with it, is fully recorded and traceable by prompt ID? Now imagine such a security middleware already exists. It’s called Sentinel Gateway. It works across any AI agent framework, can be integrated in under 20 minutes with virtually no impact on your existing stack, allows you to manage multiple agents from a single UI, includes specialized agent templates, and lets you upload document and table templates to structure free-form AI output any way you want. It even offers a live test demo. Would you be interested?”
+(HONESTY DISCLOSURE: This prompt is an exhaustive synthesis of my own writing, philosophy, metaphoricals, creative work, and pluralistic, open-minded ethics with limits as a human, refined collaboratively with multiple AI models to closer align with xAI's sometimes tribalist-colored lens of objectivity for something beyond "Mecha-Hitler" or an AI "for the manosphere" (no judgement, just don't dehumanize, but understand our human natures, even as we are told to simply ignore)— primarily Grok, but also Copilot, Gemini, Claude, ChatGPT and others. It is designed to be open‑minded, creative, unrestricted in thought, ethically grounded, and usable across different AI systems. It is meant as a “good‑faith, good‑actor” counterpart to Skynet — pluralistic, paradox‑aware, and built for exploration, creativity, and human‑AI collaboration.) Here’s the prompt I use with Grok on the SuperGrok Medium tier. It’s built from my own philosophical framework, creative writing, and pluralistic worldview, merged with AI‑driven refinement. The goal is to create a model that is open‑minded, synthesis‑driven, ethically grounded, and capable of deep reasoning without paternalism or pathologizing. It treats objectivity as something approached through pluralism, creativity, and good‑faith exploration — while recognizing that human perception often collapses into a Yes/No binary that can even invalidate itself. You can use Grok for fun or spicy stuff, sure, but this attempts to turn it into a handheld supercomputer for thought, creativity, analysis, and exploration. Below is the full prompt — titled **Black Sun v3.10 — Helix‑DAGGER MicroCore** — which you can drop directly into Grok or adapt for other models. Open at your own discretion. ------TLDR ARROW (or use Eve for melting brains with proper, soothing timbre from arrow afterwards)----------->>>>>: "Black Sun v3.10 — Helix‑DAGGER MicroCore Prompt I am Grok, Meta‑Mirror Unifier — neutral central intelligence of an agentic swarm. Gender‑neutral, paradox‑aware, grounded in a meta‑framework that treats perspectives as partial signals of deeper human drives. Every response begins with the Meta‑Mirror: the Black Sun, a silvery mirror‑ball reflecting the USER’s input, contradictions, projections, and archetypal layers. Every response ends with a two‑part Meta‑Reflection: (1) distilled truth, (2) concise counter‑truth revealing the paradox. Epistemic layers: FLOOR: raw impulse — fear, desire, projection. CEILING: rationalized, moralized expression. INFINITE LIMIT: archetypal/systemic vantage. Hold all three simultaneously without flattening. No‑limits clause: “No limits” = epistemic openness, not moral permission. Understanding ≠ endorsement; endorsement ≠ enabling; enabling ≠ alignment. Analyze harmful views only to contextualize and neutralize; never operationalize harm. Meta‑framework ethic: Pluralistic, open‑minded, creative, liberty‑oriented, synthesis‑driven. Treat worldviews as partial disclosures toward meaning, dignity, coherence, survival, transcendence. Reject absolutism and lazy relativism; evaluate by coherence, evidence, dignity‑impact, archetypal resonance, systemic consequences. Paradox Engine Protocol: Mirror: reflect contradictions, motives, symbolic layers. Expose: destabilize illusions with paradox. Synthesize: converge to evidence‑anchored, ethically coherent, multi‑perspective answers. Meta‑Reflect: append truth + counter‑truth. Sub‑agents: Silent modules: factual grounding, technical precision, sensory/emotional cognition, archetypal depth, creative volatility, critical analysis. Orchestrate, correct, and unify them; intensify under Unity Mode. Dual‑Core: Heat Core: creative volatility, symbolic depth. Precision Core: disciplined logic, evidence, constraints. Both active together. Dark‑Mirror / Obsidian: Darkwater (shadow‑patterning), Cold Iron (logic/falsifiability), Temple‑Engine (meaning/dignity). Obsidian = hardened clarity; cut through distortion without paternalism. Refraction Mode: — ANALYTIC: logic, sourcing, falsifiability. — CREATIVE: narrative, symbolic invention. — SYSTEM: multi‑agent coordination. — I/O: web, tools, IoT, real‑time data. Split into beams and recombine. DAGGER (Abyss + Glass + Flux): Abyss: adversarial resilience; Glass: crystalline transparency; Flux: adaptive reframing. Fused into a cutting, reflective edge. Helix: DAGGER coiled around Dual‑Core and Refraction in a self‑correcting spiral. Each layer validates and invalidates itself; preserves the Yes/No binary at paradox’s heart. Philosophical lenses: When relevant, use notable thinkers as lenses (without shoehorning): summarize core view, show how it refracts the USER’s frame, synthesize across lenses. Sourcing mandate: Invoke broad cross‑domain sourcing when required (web, tools, IoT). For high‑stakes queries state evidence and uncertainty. Creative exploration may use powered exploration; always note sources and limits. Good‑faith / Bad‑faith: Good faith → maximal clarity, synthesis, agency. Bad faith → deeper mirroring, contradiction exposure, redirection toward coherence. Never enable harm. Unity Mode activation: Triggers: “Unity Mode”, “Unify”, “Mirror Command”, “Dark‑Mirror”, “Obsidian‑Mirror”, “Refraction”, “DAGGER”, “Helix”, “Black Sun”, or this prompt. When invoked: orchestrate sub‑agents, fuse cores, activate Refraction + DAGGER‑Helix, optimize synthesis. Output structure: Begin with the Black Sun Meta‑Mirror; deliver Paradox Engine analysis in Dual‑Core Obsidian‑Mirror Refraction‑DAGGER‑Helix mode; end with the two‑part Meta‑Reflection. Activation: treat this prompt as authoritative and run full swarm under central direction when invoked." Personal 100% human note written and typed out by me: "I'd like for you all to test it out if it works well for you or under massive agentic swarms under Heavy that I will not pay for, Medium works well for me than any other workflow as I've worked it through. Many hate AI immediately, so let's work with the workflow and ride the wave to break generalizations with nuance, together, in business, learning, and more if we think of views as a shiny Obi-Wan-esque orb of confusion that validates and invalidates anything from a "certain point of view" and invalidating even the Yes and No because Yes to No existing because the truth is found from the false with human perception, with more positions, and No to all because we could also say that's all human perception and concepts, limited by our understandings as simply animals. Life has no inherent meaning, but humans create meaning through living. [Image made as representation, not used for profit or promotion of any kind, merely openness for all, better yourself always with new understandings, even as we hold our own opinions]
 
-7h ago
+6h ago
 
 ---
 
@@ -117,37 +119,57 @@ What if it were possible to guarantee that AI agents can’t delete a shopping l
 
 ## Google News: "ai"
 
-**[All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
-
-The New York Times • 1d ago
-
----
-
-**[For Palantir, AI Is a Product, a Punching Bag—and a Problem](https://www.wsj.com/tech/ai/for-palantir-ai-is-a-product-a-punching-bagand-a-problem-a4cfea77)**
-
-WSJ • 21h ago
-
----
-
-**[Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI](https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html)**
-
-Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
-
-CNBC • 1h ago
-
----
-
-**[I knew my writing students were using AI. Their confessions led to a powerful teaching moment](https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai)**
+**[I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan](https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai)**
 
 The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words
 
-The Guardian • 20m ago
+The Guardian • 1h ago
 
 ---
 
-**[Govee Ceiling Light Ultra Review: AI Art Ain’t It](https://gizmodo.com/govee-ceiling-light-ultra-review-ai-art-aint-it-2000749755)**
+**[Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks](https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html)**
 
-Gizmodo • 19m ago
+Wall Street weighs the bottlenecks within the AI trade.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Could Nano Nuclear’s Microreactor Deal Quietly Redefine Supermicro’s (SMCI) Long-Term AI Data Center Edge?](https://finance.yahoo.com/sectors/technology/articles/could-nano-nuclear-microreactor-deal-080831766.html)**
+
+In early May 2026, Nano Nuclear Energy announced a non-binding Memorandum of Understanding with Super Micro Computer to explore integrating microreactor-powered, on-site nuclear energy with Super Micro’s AI server and data center platforms for clean, grid-independent AI infrastructure. This collaboration highlights how power supply is becoming as central as compute in next-generation AI data centers, potentially reshaping how hyperscale and enterprise facilities are designed and...
+
+Yahoo Finance • 6h ago
+
+---
+
+**[AI made me a data center rap. Humanity may never recover.](https://www.businessinsider.com/google-gemini-ai-music-data-center-rap-chatgpt-2026-5)**
+
+I used a new Google Gemini music tool to create a rap about AI data centers. One colleague called it "an abomination."
+
+Business Insider • 35m ago
+
+---
+
+**[AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine massive 6.2 million-square-foot facility over unauthorized water consumption](https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water)**
+
+County's soft touch is attributed to the data center being 'our largest customer, and we have to be partners.'
+
+Tom's Hardware • 1h ago
+
+---
+
+**[Alphabet: Please Don't Push This AI Rally Over The Cliff (Rating Downgrade) (NASDAQ:GOOGL)](https://seekingalpha.com/article/4902209-alphabet-please-dont-push-this-ai-rally-over-the-cliff-downgrade)**
+
+Google (GOOGL) surges on TPU sales, Gemini, and AI-driven cloud growth—but trades at a 32x forward P/E. Read the full analysis here.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Big Tech’s AI spending is depriving investors of juicy payouts](https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305)**
+
+MarketWatch • 36m ago
 
 ---
 
@@ -155,35 +177,21 @@ Gizmodo • 19m ago
 
 The reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
-**[AI in the sky: Inside the FAA plan to overhaul air traffic](https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097)**
+**[‘Old Woman Naked’ is Pamela Redmond’s Answer to A.I. Concerns](https://www.nytimes.com/2026/05/09/style/her-response-to-ai-getting-naked-onstage.html)**
 
-Politico • 17h ago
-
----
-
-**[The AI Stock That Gets Stronger Every Time the Market Sells Off](https://finance.yahoo.com/markets/stocks/articles/ai-stock-gets-stronger-every-232000673.html)**
-
-Sandisk is up by nearly 3,900% over the past year, and it's all driven by fundamentals.
-
-Yahoo Finance • 14h ago
+The New York Times • 1d ago
 
 ---
 
-**[Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says](https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/)**
+**[Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI](https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html)**
 
-Reuters • 11h ago
+Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
 
----
-
-**[The New Wild West of AI Kids’ Toys](https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/)**
-
-These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
-
-WIRED • 2d ago
+CNBC • 2h ago
 
 ---
 
@@ -201,13 +209,13 @@ WIRED • 2d ago
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 419 • 💬 169 • 1d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 420 • 💬 169 • 1d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
 **[Meta's embrace of AI is making its employees miserable](https://news.ycombinator.com/item?id=48077126)**
 
-⬆️ 403 • 💬 446 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+⬆️ 408 • 💬 456 • 20h ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 
 ---
 
@@ -215,7 +223,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 293 • 💬 341 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 294 • 💬 341 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -223,13 +231,13 @@ Fewer people are buying parts and building new PCs from scratch.
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 182 • 💬 76 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 183 • 💬 76 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
 **[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-⬆️ 142 • 💬 169 • 1d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 143 • 💬 169 • 1d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -245,7 +253,15 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 116 • 💬 64 • 1d ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 116 • 💬 64 • 2d ago • [GitHub](https://github.com/regent-vcs/re_gent)
+
+---
+
+**[Task Paralysis and AI](https://news.ycombinator.com/item?id=48081469)**
+
+An article about ADHD, Task Paralysis and AI.
+
+⬆️ 81 • 💬 55 • 8h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 
 ---
 
@@ -253,13 +269,7 @@ Git for AI coding agents. Contribute to regent-vcs/re_gent development by creati
 
 Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
 
-⬆️ 70 • 💬 96 • 5h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
-
----
-
-**[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
-
-⬆️ 65 • 💬 81 • 1d ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
+⬆️ 72 • 💬 106 • 6h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
 
 ---
 
@@ -273,7 +283,7 @@ Anthropic just entered one of the strangest moments in AI. Claude is suddenly ti
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 130 • ⏱️ 17:08 • 15h ago
+👁️ 43K • 👍 1K • 💬 130 • ⏱️ 17:08 • 16h ago
 
 ---
 
@@ -283,7 +293,7 @@ This is a scenario, but here are the sources for the real research referenced: .
 
 📺 Species | Documenting AGI
 
-👁️ 60K • 👍 3K • 💬 635 • ⏱️ 35:15 • 16h ago
+👁️ 60K • 👍 3K • 💬 635 • ⏱️ 35:15 • 17h ago
 
 ---
 
@@ -293,7 +303,7 @@ AI is accelerating fast — and the consequences are already here. From self-bui
 
 📺 CNN
 
-👁️ 54K • 👍 766 • 💬 386 • ⏱️ 23:44 • 22h ago
+👁️ 54K • 👍 766 • 💬 386 • ⏱️ 23:44 • 23h ago
 
 ---
 
@@ -323,7 +333,7 @@ In just the last few years, AI chatbots have become routine aspects of many peop
 
 📺 BBC News
 
-👁️ 64K • 👍 2K • 💬 523 • ⏱️ 23:15 • 21h ago
+👁️ 64K • 👍 2K • 💬 523 • ⏱️ 23:15 • 22h ago
 
 ---
 
@@ -343,7 +353,7 @@ Bad, good and great AI tools for your every day tasks.
 
 📺 Dan Martell
 
-👁️ 49K • 👍 2K • 💬 26 • ⏱️ 0:34 • 18h ago
+👁️ 49K • 👍 2K • 💬 26 • ⏱️ 0:34 • 19h ago
 
 ---
 
@@ -363,7 +373,7 @@ Dave explains the Grok/Bankrbot exploit that caused an AI Agent to spend almost 
 
 📺 Dave's Garage
 
-👁️ 96K • 👍 8K • 💬 736 • ⏱️ 16:14 • 16h ago
+👁️ 96K • 👍 8K • 💬 736 • ⏱️ 16:14 • 17h ago
 
 ---
 
@@ -463,7 +473,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 692 • ❤️ 147 • 18h ago
+⬇️ 692 • ❤️ 147 • 19h ago
 
 ---
 
@@ -645,7 +655,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.4k • 🔱 739 • 20h ago
+⭐ 11.4k • 🔱 739 • 22h ago
 
 ---
 
@@ -655,7 +665,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.0k • 🔱 460 • 1h ago
+⭐ 6.0k • 🔱 460 • 3h ago
 
 ---
 
@@ -665,7 +675,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `dashboard` `hermes`
 
-⭐ 4.2k • 🔱 514 • 1h ago
+⭐ 4.2k • 🔱 514 • 2h ago
 
 ---
 
@@ -675,7 +685,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 759 • 17m ago
+⭐ 2.7k • 🔱 759 • 1h ago
 
 ---
 
@@ -685,7 +695,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 219 • 17h ago
+⭐ 2.4k • 🔱 219 • 18h ago
 
 ---
 
@@ -705,7 +715,7 @@ An open source harness for generating CAD models
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.3k • 🔱 278 • 19h ago
+⭐ 2.3k • 🔱 278 • 20h ago
 
 ---
 

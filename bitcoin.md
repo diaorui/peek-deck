@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T13:20:49.686983+00:00'
+updated: '2026-05-10T14:36:11.199640+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 13:20 UTC  
+**Last Updated:** May 10, 2026 at 14:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.3%  
-**30d:** +10.8%  
+**24h:** +0.6%  
+**7d:** +1.4%  
+**30d:** +10.9%  
 **90d:** +17.6%  
 **1y:** -22.2%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
 
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 7h ago
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 Except girls
 
-27m ago
+1h ago
 
 ---
 
@@ -97,27 +97,13 @@ Except girls
 
 Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
 
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 15h ago
+🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 17h ago
 
 ---
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-19h ago
-
----
-
-**[Jordi Visser: The AI Build Makes the Bitcoin Argument](https://www.reddit.com/r/Bitcoin/comments/1t8rndr/jordi_visser_the_ai_build_makes_the_bitcoin/)**
-
-🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-the-ai-build-makes-the) • 12h ago
-
----
-
-**[Daily Discussion, May 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1t8yp7l/daily_discussion_may_10_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
+20h ago
 
 ---
 
@@ -125,7 +111,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
 
-2h ago
+3h ago
+
+---
+
+**[Jordi Visser: The AI Build Makes the Bitcoin Argument](https://www.reddit.com/r/Bitcoin/comments/1t8rndr/jordi_visser_the_ai_build_makes_the_bitcoin/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-the-ai-build-makes-the) • 14h ago
 
 ---
 
@@ -133,15 +125,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Featuring full-page artwork from more than thirty-five of the world’s leading Bitcoin Artists. Adam Kadmon, 5Ksana, Alex Schaefer, Anik Malcolm, Ariel Birdie, Bitcoin Trading Cards, Bitcoin Apex, Bitko Yinowsky, Brekkie Von Bitcoin, Chiefmonkey, CypherpunkNow, Dustin Trammell, Gareth Eckley, George Bodine, Gus Grillasca, FractalEncrypt, Kanuto, Madex, MadMunky, Marcus Connor, Maxis Club, MEAR ONE, Missatoshi_girl, mx12Art, Modeotec, Pepenardo, Psyfer, Puzzle, Rare Scrilla, RYR, Sea is Medicine, Studio Zeitwerk, Tommy, Yonat Vaks, Zetra, and Asanoha. A gallery in the palm of your hand. • Cover art: The Bitcoin Full Node Sculpture by FractalEncrypt. • Includes a /121 signed and numbered archival serigraph print from Asanoha. • Individually serialized. • Over 121 pages. • Over 60 pages of full-page art. • High quality print. • Smyth sewn binding. • Includes artist statements and descriptions. • Ad free. • Includes one complimentary Genesis Edition /1720 magazine. • 8.5 x 11”
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=2tHiPZXlEh4&pp=ygUWQml0Y29pbmFydG1hZ2F6aW5lLmNvbdIHCQkDCwGHKiGM7w%3D%3D&ra=m) • 2h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=2tHiPZXlEh4&pp=ygUWQml0Y29pbmFydG1hZ2F6aW5lLmNvbdIHCQkDCwGHKiGM7w%3D%3D&ra=m) • 3h ago
 
 ---
 
-**[Buying BTC with lowest spread](https://www.reddit.com/r/Bitcoin/comments/1t8sp8r/buying_btc_with_lowest_spread/)**
+**[Daily Discussion, May 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1t8yp7l/daily_discussion_may_10_2026/)**
 
-Assuming you don’t pay fees with the membership. Is losing ~1% via spread pretty standard among all the exchanges? I found crypto.com and Coinbase, I end lose 1% whatever I buy even with no fees. Is it cheaper anywhere else? I did limit order and it didn’t execute for days even after the target price was reached, so not really interested in limit order.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+8h ago
+
+---
+
+**[Btc by Christmas 2026](https://www.reddit.com/r/Bitcoin/comments/1t97xag/btc_by_christmas_2026/)**
+
+What do you think of the BTC price would be by xmas this year?
+
+28m ago
 
 ---
 
@@ -149,7 +149,7 @@ Assuming you don’t pay fees with the membership. Is losing ~1% via spread pret
 
 I’m optimistic about Bitcoin’s future. I think decentralized blockchains have strong potential to meaningfully interconnect future internet services. Once AI agents advance to the point where people can confidently trust them to manage funds on their behalf, web services will likely begin to operate with one another through some form of negotiated fees. I hope Bitcoin stays the leading decentralized blockchain. I dont think it will be used directly for these transactions, however, its scarcity and fundamentals position it as the perfect backbone for pure digital value.
 
-9h ago
+10h ago
 
 ---
 
@@ -161,21 +161,7 @@ I’m optimistic about Bitcoin’s future. I think decentralized blockchains hav
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-CoinDesk • 19h ago
-
----
-
-**[Trump family-linked stock falls on $82 million loss](https://www.thestreet.com/crypto/markets/trump-family-linked-stock-falls-on-82-million-loss)**
-
-thestreet.com • 2d ago
-
----
-
-**[Nothing Going Trump’s Way: His Bitcoin Firm Posts $406M Loss](https://www.chosun.com/english/industry-en/2026/05/10/6PIKXLHYMFBBND5WSQJJZ6SETE/)**
-
-Nothing Going Trumps Way: His Bitcoin Firm Posts $406M Loss Trump Media Stock Now One-Tenth Its 2022 Value
-
-조선일보 • 7h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -191,23 +177,7 @@ Forbes • 1d ago
 
 The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
-CNBC • 58m ago
-
----
-
-**[Bitcoin price may dip toward $70K as Fed estimates hotter inflation print](https://www.tradingview.com/news/cointelegraph:cb8d669ef094b:0-bitcoin-price-may-dip-toward-70k-as-fed-estimates-hotter-inflation-print/)**
-
-Bitcoin (BTC) may head into next week’s US inflation report with less support than it had during the last two CPI releases, raising the risk of a pullback toward $70,000.Key takeaways:Fed estimates 0.26% rise in headline inflationThe Cleveland Fed’s latest inflation nowcast estimates April CPI at 3…
-
-TradingView • 2h ago
-
----
-
-**[MicroStrategy Reveals It Will Sell Bitcoin Under These Conditions](https://finance.yahoo.com/markets/crypto/articles/microstrategy-reveals-sell-bitcoin-under-110002397.html)**
-
-MicroStrategy CEO Phong Le sets two conditions for selling Bitcoin to fund Stretch dividends and offset taxes.
-
-Yahoo Finance • 2h ago
+CNBC • 2h ago
 
 ---
 
@@ -219,9 +189,39 @@ Fortune • 1d ago
 
 ---
 
+**[Billionaire Michael Saylor said he would never sell bitcoin. After 3 straight quarterly losses, he's changing his mind](https://finance.yahoo.com/markets/crypto/articles/billionaire-michael-saylor-said-never-170500436.html)**
+
+Cash would be used to fund dividend payments, after Strategy reported a first-quarter loss of $12.5 billion.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Strategy CEO on selling bitcoin: When it's better than issuing equity to pay dividends, we'll do it](https://www.cnbc.com/video/2026/05/08/strategy-ceo-on-selling-bitcoin-when-its-better-than-issuing-equity-to-pay-dividends-well-do-it.html)**
+
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
+
+CNBC • 1d ago
+
+---
+
+**[Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-peter-brandt-130955200.html)**
+
+Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin climbs near $81k on institutional adoption boost; Iran response looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-80000-as-institutional-adoption-signals-global-finance-shift-4674598)**
 
 Investing.com • 1d ago
+
+---
+
+**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
+
+WSJ • 4d ago
 
 ---
 
@@ -275,9 +275,17 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 ---
 
+**[Warning: Quantum Advances Are Compressing Timeline for Network Upgrades](https://news.ycombinator.com/item?id=48083876)**
+
+A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
+
+⬆️ 1 • 💬 0 • 59m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+
+---
+
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 18h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 20h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -307,7 +315,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 234 • 💬 12 • ⏱️ 14:18 • 21h ago
+👁️ 6K • 👍 234 • 💬 12 • ⏱️ 14:18 • 22h ago
 
 ---
 
@@ -327,7 +335,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 642 • 👍 59 • 💬 35 • ⏱️ 7:45 • 1h ago
+👁️ 642 • 👍 59 • 💬 35 • ⏱️ 7:45 • 3h ago
 
 ---
 
@@ -347,7 +355,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 60K • 👍 2K • 💬 1K • ⏱️ 26:40 • 20h ago
+👁️ 60K • 👍 2K • 💬 1K • ⏱️ 26:40 • 22h ago
 
 ---
 
@@ -357,7 +365,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Cap
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 539 • 💬 131 • ⏱️ 9:05 • 16h ago
+👁️ 12K • 👍 539 • 💬 131 • ⏱️ 9:05 • 17h ago
 
 ---
 
@@ -377,7 +385,7 @@ Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak 
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 657 • 💬 57 • ⏱️ 35:29 • 18h ago
+👁️ 10K • 👍 657 • 💬 57 • ⏱️ 35:29 • 19h ago
 
 ---
 
@@ -397,7 +405,7 @@ Governments worldwide are quietly securing their future through Bitcoin, turning
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 773 • 👍 7 • 💬 1 • ⏱️ 1:01 • 17h ago
+👁️ 773 • 👍 7 • 💬 1 • ⏱️ 1:01 • 19h ago
 
 ---
 
