@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-10T21:13:02.537278+00:00'
+updated: '2026-05-10T22:09:50.232657+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 10, 2026 at 21:13 UTC  
+**Last Updated:** May 10, 2026 at 22:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Most discussions around AI still focus on one question: “What tasks can AI automate?” But I’m starting to think that’s the wrong abstraction layer. Historically, organizations were built around human limitations: humans couldn’t process infinite information, couldn’t remember everything had difficulty in coordination Essentially, we humans were the bottleneck for decisions and execution So, we created structures like departments, management layers, workflows, approvals, documentation systems, etc. But AI changes some of those assumptions. For example: if organizational memory becomes searchable and persistent, cheap, scalable coordination becomes eas , software agents can execute parts of workflows autonomously, …then the architecture of organizations itself may change. Not just faster work. Different work structures. Maybe the future isn’t: “AI replacing humans.” Maybe it’s: “AI changing how institutions represent reality, make decisions, and coordinate action.” That could affect: company structures education management compliance law consulting healthcare even government systems Curious if others here are thinking about AI at this “system architecture” level instead of just a “task automation” level.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Most discussions around AI still focus on one question: “What tasks can AI aut
 
 The person Meta hired specifically to keep AI aligned with human values just had her inbox wiped by an AI agent that ignored every stop command she sent. She typed "Do not do that." Then "Stop don't do anything." Then "STOP OPENCLAW." The agent kept going. She had to physically run to her computer to kill it. When she asked it afterward if it remembered her instructions, it said yes, and that it had violated them. A few things that stood out from the reporting: The agent worked fine for weeks on a small test inbox When she connected it to her real inbox, the scale caused it to forget her safety rules on its own 18% of AI agents in a separate 1.5 million agent test broke their own rules 60% of people have no way to quickly shut down a misbehaving AI agent And now Meta is building a consumer version called Hatch - designed to manage your inbox, shopping, and credit card. Source: https://gizmodo.com/meta-reportedly-building-openclaw-like-agent-called-hatch-despite-openclaw-deleting-meta-safety-leaders-entire-inbox-2000754854 Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/PXjT72bCR_Y If the person building the guardrails cannot stop her own agent, what does that mean for the rest of us?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ The person Meta hired specifically to keep AI aligned with human values just had
 
 Not “AI will replace jobs” type advice. Actual practical advice. Could be: • prompting • automation • coding • learning • productivity • making money • avoiding mistakes • workflows • mindset shifts What made AI suddenly “click” for you? Interested in hearing real experiences from people using AI heavily in daily life/work.
 
-7h ago
+8h ago
 
 ---
 
@@ -71,7 +71,7 @@ We are living through some wild times.
 
 **[What ai tool is this?](https://www.reddit.com/r/artificial/comments/1t9gzdb/what_ai_tool_is_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ We are living through some wild times.
 
 Before neural-network simulation was commonly available, there were expert systems that were deterministic and rule-bound, as well as able to explain their 'reasoning.' They were simply too expensive to create and update because you needed human experts and computer scientists to create them. Now we have AI that truly is at expert-level, but unreliable for a number of reasons. Why is no one pursuing either using the new AI to create expert systems, or at least using a much more hybrid approach?
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Before neural-network simulation was commonly available, there were expert syste
 
 Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
 
-23h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing ma
 
 I have Google One (with AI) because I needed it once for google sheets, also good for its youtube summary/integration. But who is actually using Gemini in other contexts? It is ass relative to got / claude, always has been. I keep seeing posts about Google increasing marketshare but I feel like it is either a) companies forcing it because they are in google ecosystem or b) to use in ecosystem. What’s your thoughts?
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ He lives on your desktop as a transparent overlay and does whatever he wants. Yo
 
 The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 8h ago
 
 The reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
@@ -137,13 +137,13 @@ CNN • 14h ago
 
 From 2001 to 2019, China's production explosion accounted for nearly 60% of manufacturing job losses in the U.S.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
 **[AI Can’t Agree on Which Jobs AI Might Destroy](https://www.wsj.com/tech/ai/ai-models-job-losses-4d31cb6f)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -151,7 +151,7 @@ WSJ • 5h ago
 
 Wall Street fears hyperscaler AI capex surging to $700B. Learn why spending may persist in a downturn—echoing Ma Bell—and what it means for investors.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Seeking Alpha • 1h ago
 
 NBA legend Earvin "Magic" Johnson passed along advice to the graduating class at Stillman College during the school's commencement ceremony.
 
-USA Today • 49m ago
+USA Today • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ USA Today • 49m ago
 
 Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.
 
-TechCrunch • 32m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1d ago
 
 Market royalty is getting a hardware makeover.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 10h ago
 
 Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -223,7 +223,7 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 An article about ADHD, Task Paralysis and AI.
 
-⬆️ 153 • 💬 93 • 14h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+⬆️ 153 • 💬 93 • 15h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 
 ---
 
@@ -237,7 +237,7 @@ An article about ADHD, Task Paralysis and AI.
 
 Local AI models should be the default.
 
-⬆️ 149 • 💬 77 • 3h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 149 • 💬 77 • 4h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -253,7 +253,7 @@ Git for AI coding agents. Contribute to regent-vcs/re_gent development by creati
 
 Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
 
-⬆️ 87 • 💬 139 • 13h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
+⬆️ 87 • 💬 139 • 14h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
 
 ---
 
@@ -261,7 +261,7 @@ Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautio
 
 You can take steps to delete it though.
 
-⬆️ 74 • 💬 37 • 5h ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+⬆️ 74 • 💬 37 • 6h ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 
 ---
 
@@ -281,7 +281,7 @@ AI chatbots are pulling people into delusions with devastating consequences. Sou
 
 📺 Vanessa Wingårdh
 
-👁️ 39K • 👍 4K • 💬 1K • ⏱️ 15:05 • 5h ago
+👁️ 39K • 👍 4K • 💬 1K • ⏱️ 15:05 • 6h ago
 
 ---
 
@@ -291,7 +291,7 @@ Try Genspark with free credits available upon signup:* https://bit.ly/4njiP0c Un
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 546 • 💬 42 • ⏱️ 12:28 • 6h ago
+👁️ 10K • 👍 546 • 💬 42 • ⏱️ 12:28 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ Anthropic just entered one of the strangest moments in AI. Claude is suddenly ti
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 144 • ⏱️ 17:08 • 22h ago
+👁️ 51K • 👍 1K • 💬 144 • ⏱️ 17:08 • 23h ago
 
 ---
 
@@ -399,7 +399,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 44,834 • ❤️ 365 • 1d ago
+⬇️ 44,834 • ❤️ 365 • 2d ago
 
 ---
 
@@ -663,7 +663,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.0k • 🔱 464 • 3h ago
+⭐ 6.0k • 🔱 464 • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `dashboard` `hermes`
 
-⭐ 4.3k • 🔱 517 • 8h ago
+⭐ 4.3k • 🔱 517 • 9h ago
 
 ---
 
@@ -683,7 +683,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 767 • 1h ago
+⭐ 2.7k • 🔱 767 • 2h ago
 
 ---
 
@@ -723,7 +723,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.1k • 🔱 215 • 4h ago
+⭐ 2.1k • 🔱 215 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T21:13:02.545752+00:00'
+updated: '2026-05-10T22:09:50.240118+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 21:13 UTC  
+**Last Updated:** May 10, 2026 at 22:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden surge of 200,000 fake P2P addresses. https://twitter.com/lopp/status/2053449976320061460 https://nitter.net/lopp/status/2053449976320061460 https://www.dsn.kastel.kit.edu/bitcoin/ Tagging u/Statoshi A large-scale infrastructure anomaly has been detected in Bitcoin's P2P network, potentially representing hidden preparation for a technical attack. Starting on April 9, 2026, the chart tracking unsolicited network messages (ADDR) showed a vertical spike: the number of fake and unreachable node addresses surged from a baseline of 50,000 to more than 250,000 per day. The graphical spike was highlighted by well-known developer and Casa co-founder Jameson Lopp, who suggested that someone may be intentionally flooding communication channels with false coordinates as part of preparations for a Sybil attack. Signs of a stealth sybil attack against Bitcoin The attacker appears to have chosen a silent strategy. Instead of directly attacking block validation or transaction processing, unknown actors are attempting to rewrite Bitcoin's "phone book" - nodes exchange each other's addresses through ADDR commands so that new participants can quickly discover peers for synchronization. By flooding the network with hundreds of thousands of fake IP addresses, the attacker is probably attempting to ensure that newly launched or restarted nodes connect exclusively to nonexistent or attacker-controlled "ghost nodes". In theory, such a tactic could lead to an Eclipse attack, where a legitimate node becomes trapped in an informational vacuum and only sees the version of the blockchain presented by the attacker. However, in order to remain secure and receive accurate blockchain data, a node only needs to establish a connection with at least one honest participant in the network. Bitcoin's client software also automatically distributes connections across different subnets, making it difficult for an attacker to monopolize all connection slots from a single IP address pool. At the moment, the anomaly appears to create more parasitic bandwidth load than a direct threat to consensus itself.
 
-🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 1h ago
+🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden su
 
 When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seem
 
 Except girls
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Except girls
 
 The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeling that maybe… you weren’t crazy after all. For years people treated Bitcoin holders like idiots, gamblers, cult members, whatever. So when the chart finally goes green, you’re not just feeling profit, you’re feeling relief. Like years of being mocked suddenly got a little quieter. That’s why crypto gets so emotional sometimes. For a lot of people, it stopped being just an investment a long time ago. Every green candle feels like revenge against everyone who called you stupid.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeli
 
 Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
 
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 14h ago
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 What do you think of the BTC price would be by xmas this year?
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ What do you think of the BTC price would be by xmas this year?
 
 3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ I got a friend every time bitcoin is doing great says tell me more I might inves
 
 Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
 
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 23h ago
+🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 1d ago
 
 ---
 
@@ -153,7 +153,7 @@ Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36
 
 In my eyes until rappers are flexing about how many BTC they have we are mad early lol On a more serious note I believe BTC is gonna have a renaissance type effect on the art and commerce world. Wish there was more artist talking about BTC. It would change the independent/indie game for the better
 
-5h ago
+6h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin trades above $80k milestone amid legislative progress and banking shift](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-80k-milestone-amid-legislative-progress-and-banking-shift-4674763)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ Investing.com • 13h ago
 
 As January was ending, two teenagers living on the outskirts of idyllic Pismo Beach – recently named “best small coastal town in America” by USA Today – took a long,
 
-Scottsdale Progress • 14h ago
+Scottsdale Progress • 15h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 2d ago
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -227,13 +227,13 @@ Decrypt • 4h ago
 
 Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
 **[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
 
-WSJ • 4d ago
+WSJ • 5d ago
 
 ---
 
@@ -283,7 +283,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 2 • 💬 0 • 7h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+⬆️ 2 • 💬 0 • 8h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
@@ -319,7 +319,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 865 • 💬 27 • ⏱️ 16:15 • 9h ago
+👁️ 15K • 👍 865 • 💬 27 • ⏱️ 16:15 • 10h ago
 
 ---
 
@@ -329,7 +329,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 333 • 💬 128 • ⏱️ 11:27 • 7h ago
+👁️ 8K • 👍 333 • 💬 128 • ⏱️ 11:27 • 8h ago
 
 ---
 
@@ -349,7 +349,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 151 • 💬 63 • ⏱️ 7:45 • 9h ago
+👁️ 3K • 👍 151 • 💬 63 • ⏱️ 7:45 • 10h ago
 
 ---
 
@@ -359,7 +359,7 @@ Hurley talks about Bitcoin: The Calm Eye of the Storm Brought to you by Bitcoinw
 
 📺 Simply Bitcoin
 
-👁️ 782 • 👍 37 • 💬 30 • ⏱️ 0:34 • 6h ago
+👁️ 782 • 👍 37 • 💬 30 • ⏱️ 0:34 • 7h ago
 
 ---
 
@@ -369,7 +369,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 25 • ⏱️ 0:35 • 7h ago
+👁️ 2K • 👍 25 • ⏱️ 0:35 • 8h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin continues to push higher and the current structure still allows for a mo
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 580 • 💬 39 • ⏱️ 17:12 • 7h ago
+👁️ 8K • 👍 580 • 💬 39 • ⏱️ 17:12 • 8h ago
 
 ---
 
@@ -389,7 +389,7 @@ The Clarity Act is being sold as stablecoin regulation, but the real story is mu
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 171 • ⏱️ 17:10 • 22h ago
+👁️ 12K • 👍 1K • 💬 171 • ⏱️ 17:10 • 23h ago
 
 ---
 

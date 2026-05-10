@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T21:13:02.552274+00:00'
+updated: '2026-05-10T22:09:50.245481+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 21:13 UTC  
+**Last Updated:** May 10, 2026 at 22:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-7h ago
+8h ago
 
 ---
 
@@ -88,13 +88,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-5h ago
+6h ago
 
 ---
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -126,7 +126,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
-19h ago
+20h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 3d ago
 
 Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 10h ago
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -178,13 +178,13 @@ Decrypt • 4h ago
 
 Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
 **[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ CryptoSlate • 2d ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ DailyCoin • 2d ago
 
 Ethereum whale 0x674 spends $17M USDC on 7,284 ETH at $2,334, stakes with LidoFinance, holds $10M more USDC for potential buys amid ETH price prediction trends.
 
-blockchain.news • 19h ago
+blockchain.news • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 7K • 👍 1K • 💬 20 • ⏱️ 37:29 • 1h ago
+👁️ 7K • 👍 1K • 💬 20 • ⏱️ 37:29 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 322 • 👍 13 • 💬 1 • ⏱️ 4:55 • 11h ago
+👁️ 322 • 👍 13 • 💬 1 • ⏱️ 4:55 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 273 • ⏱️ 10:13 • 22h ago
+👁️ 32K • 👍 2K • 💬 273 • ⏱️ 10:13 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin continues to push higher and the current structure still allows for a mo
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 580 • 💬 39 • ⏱️ 17:12 • 7h ago
+👁️ 8K • 👍 580 • 💬 39 • ⏱️ 17:12 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 333 • 💬 128 • ⏱️ 11:27 • 7h ago
+👁️ 8K • 👍 333 • 💬 128 • ⏱️ 11:27 • 8h ago
 
 ---
 
