@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T04:31:30.796136+00:00'
+updated: '2026-05-10T07:25:20.464753+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 04:31 UTC  
+**Last Updated:** May 10, 2026 at 07:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,653.26
+### $80,766.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** +1.1%  
-**30d:** +10.6%  
+**30d:** +10.5%  
 **90d:** +17.3%  
 **1y:** -22.4%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1617.57B
+**Market Cap:** $1617.45B
 Rank #1
 
-**Circulating Supply:** 20,027,200 BTC
+**Circulating Supply:** 20,027,262 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -35.9%
 
 **All-Time Low:** $67.81
-+119006.3%
++119012.2%
 
 ---
 
@@ -81,19 +81,35 @@ Rank #1
 
 Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
 
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 6h ago
+🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 9h ago
+
+---
+
+**[Bitcoin Open Interest Explodes Beyond 2025 All-Time High Levels](https://www.reddit.com/r/Bitcoin/comments/1t8yvta/bitcoin_open_interest_explodes_beyond_2025/)**
+
+Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
+
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 1h ago
 
 ---
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-10h ago
+13h ago
 
 ---
 
 **[Jordi Visser: The AI Build Makes the Bitcoin Argument](https://www.reddit.com/r/Bitcoin/comments/1t8rndr/jordi_visser_the_ai_build_makes_the_bitcoin/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-the-ai-build-makes-the) • 4h ago
+🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-the-ai-build-makes-the) • 7h ago
+
+---
+
+**[BTC longterm thoughts](https://www.reddit.com/r/Bitcoin/comments/1t8vsm2/btc_longterm_thoughts/)**
+
+I’m optimistic about Bitcoin’s future. I think decentralized blockchains have strong potential to meaningfully interconnect future internet services. Once AI agents advance to the point where people can confidently trust them to manage funds on their behalf, web services will likely begin to operate with one another through some form of negotiated fees. I hope Bitcoin stays the leading decentralized blockchain. I dont think it will be used directly for these transactions, however, its scarcity and fundamentals position it as the perfect backbone for pure digital value.
+
+3h ago
 
 ---
 
@@ -101,7 +117,7 @@ Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
-11h ago
+14h ago
 
 ---
 
@@ -109,7 +125,7 @@ Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track
 
 Assuming you don’t pay fees with the membership. Is losing ~1% via spread pretty standard among all the exchanges? I found crypto.com and Coinbase, I end lose 1% whatever I buy even with no fees. Is it cheaper anywhere else? I did limit order and it didn’t execute for days even after the target price was reached, so not really interested in limit order.
 
-3h ago
+6h ago
 
 ---
 
@@ -117,7 +133,15 @@ Assuming you don’t pay fees with the membership. Is losing ~1% via spread pret
 
 Hi Bitcoiners, I’m genuinely curious and not trying to shill. I’m thinking about a service where you can keep buying and holding BTC, link your existing credit card, and set simple rules around spending. For example, let’s say I only want to sell Bitcoin if I’m up at least 10%. If I buy coffee with my normal credit card and BTC is up 10% or more, the service could sell a small amount based on that rule. If BTC is down, flat, or below my rule, it doesn’t sell. Another version could be month end. Instead of selling after every purchase, it looks at the credit card bill and sells only if my rules are met. The idea is that I can keep using my existing credit card and still get my rewards, but Bitcoin only gets sold when I choose the conditions. Do people here already do something like this manually? Are there services that already do this? Or would most Bitcoin people hate this because it involves selling at all? Thanks, genuinely trying to learn.
 
-2h ago
+5h ago
+
+---
+
+**[Daily Discussion, May 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1t8yp7l/daily_discussion_may_10_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
@@ -125,29 +149,7 @@ Hi Bitcoiners, I’m genuinely curious and not trying to shill. I’m thinking a
 
 I’m not planning on it now, but one day I will end up selling my bitcoin many moons from now. I bought off Coinbase and transferred to a cold wallet. When the day comes what do you recommend? I bought off Coinbase but heard strike has better spread rates. I’m not familiar with strike, but I don’t want to lose too much when I sell on fees and spreads.
 
-6h ago
-
----
-
-**[The Millionaire I Could Have Been](https://www.reddit.com/r/Bitcoin/comments/1t8ayo5/the_millionaire_i_could_have_been/)**
-
-11h ago
-
----
-
-**[Bitcoin usage](https://www.reddit.com/r/Bitcoin/comments/1t8cq8w/bitcoin_usage/)**
-
-Bitcoin feels less like a revolution and more like a pressure valve. Governments print massive amounts of money → inflation risk rises → trust in fiat weakens. Instead of letting that fully collapse currencies, capital flows into Bitcoin. Result: excess liquidity gets “absorbed” into a digital asset, while fiat systems stay intact a bit longer. Not saying it’s the original intent—but the effect is the same: a buffer that helps preserve the current monetary system.
-
-10h ago
-
----
-
-**[How a $15 RISC-V Device Built Its Own Lightning Wallet and Learned to Pay the Internet](https://www.reddit.com/r/Bitcoin/comments/1t8b4l1/how_a_15_riscv_device_built_its_own_lightning/)**
-
-This is the era of native machine-to-machine payments: autonomous AI agents that don't just consume information, but pay for it, on the spot, without human intervention, using the internet's own protocol.
-
-🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 11h ago
+9h ago
 
 ---
 
@@ -159,7 +161,7 @@ This is the era of native machine-to-machine payments: autonomous AI agents that
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-CoinDesk • 11h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,19 +171,27 @@ thestreet.com • 2d ago
 
 ---
 
-**[Trump Media posts $405 million loss driven by crypto holdings](https://fortune.com/2026/05/09/trump-media-truth-social-405-million-loss-crypto-holdings-bitcoin/)**
+**[The Trumps’ Companies Are Losing Millions of Dollars on Bitcoin](https://www.motherjones.com/politics/2026/05/donald-trump-eric-trump-crypto-bitcoin/)**
 
-The parent company of Truth Social reported positive operating cash flow of $17.9 million and $2.1 billion in financial assets, which is triple from a year ago.
+The First Family's wealth is increasingly linked to crypto.
 
-Fortune • 5h ago
+Mother Jones • 1d ago
 
 ---
 
-**[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
+**[Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator](https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator)**
 
-Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
+Two men face money laundering and drug charges following the seizure of $4.2 million in Bitcoin from alleged darknet marketplace dealings.
 
-Fortune • 1d ago
+Decrypt • 14h ago
+
+---
+
+**[Soaring Oil Prices Aren't Great for Bitcoin. Here's Why Investors Shouldn't Panic.](https://www.fool.com/investing/2026/05/10/soaring-oil-prices-arent-great-for-bitcoin-heres-w/)**
+
+Oil prices are likely to remain elevated for some time, which could pour cold water on Bitcoin's tentative rebound.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -197,7 +207,21 @@ CNBC • 1d ago
 
 Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
+
+Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin climbs near $81k on institutional adoption boost; Iran response looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-80000-as-institutional-adoption-signals-global-finance-shift-4674598)**
+
+Investing.com • 22h ago
 
 ---
 
@@ -205,27 +229,7 @@ Yahoo Finance • 15h ago
 
 Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
 
-New York Post • 18h ago
-
----
-
-**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
-
-Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
-
-Forbes • 17h ago
-
----
-
-**[Bitcoin Price Dives Below $80,000. This Jobs Report Could End the Crypto Slump.](https://www.barrons.com/articles/bitcoin-price-crypto-jobs-report-ce56c0d9)**
-
-Barron's • 1d ago
-
----
-
-**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
-
-WSJ • 4d ago
+New York Post • 21h ago
 
 ---
 
@@ -281,7 +285,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 10h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 13h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -305,43 +309,23 @@ McDonald's is quietly ending self-serve soda fountains nationwide, shifting drin
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin ETFs Are Doing Something They Haven&#39;t Done in 9 Months](https://www.youtube.com/watch?v=zsi6gkOcP60)**
-
-Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak in 9 months. BlackRock just expanded its tokenized ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 548 • 💬 52 • ⏱️ 35:29 • 9h ago
-
----
-
 **[Crypto Holders: Coinbase CEO Just Laid Out What&#39;s Coming This Year](https://www.youtube.com/watch?v=tTiGx-RPAv0)**
 
 https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 382 • 💬 79 • ⏱️ 9:05 • 7h ago
+👁️ 10K • 👍 449 • 💬 81 • ⏱️ 9:05 • 10h ago
 
 ---
 
-**[Cathie Wood :&quot;This Is Why Bitcoin Could Jump $100K In Days&quot; | BTC Update 2026](https://www.youtube.com/watch?v=28Pay65kLKY)**
+**[Bitcoin ETFs Are Doing Something They Haven&#39;t Done in 9 Months](https://www.youtube.com/watch?v=zsi6gkOcP60)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak in 9 months. BlackRock just expanded its tokenized ...
 
-📺 Crypto Nutshell
+📺 Digital Asset News
 
-👁️ 4K • 👍 174 • 💬 9 • ⏱️ 14:18 • 12h ago
-
----
-
-**[Major Crypto Chart Deep Dive: Bitcoin Into Resistance Zone As Altcoins Breakout!](https://www.youtube.com/watch?v=k6-Qat-QzQQ)**
-
-Welcome back to Verified Investing! In today's video, Chief Market Strategist Gareth Soloway takes a deep dive into the recent ...
-
-📺 Gareth Soloway
-
-👁️ 35K • 👍 2K • 💬 150 • ⏱️ 10:40 • 15h ago
+👁️ 9K • 👍 587 • 💬 55 • ⏱️ 35:29 • 12h ago
 
 ---
 
@@ -351,7 +335,37 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 225 • ⏱️ 11:32 • 1d ago
+👁️ 41K • 👍 2K • 💬 225 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Cathie Wood :&quot;This Is Why Bitcoin Could Jump $100K In Days&quot; | BTC Update 2026](https://www.youtube.com/watch?v=28Pay65kLKY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 4K • 👍 195 • 💬 15 • ⏱️ 14:18 • 15h ago
+
+---
+
+**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
+
+Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
+
+📺 Simply Bitcoin
+
+👁️ 82K • 👍 3K • 💬 415 • ⏱️ 15:19 • 2d ago
+
+---
+
+**[Bitcoin $1M target amid currency debasement](https://www.youtube.com/watch?v=Td-bRehU6b4)**
+
+Bitcoin's path to a $1 million price is framed here as a market cap and macroeconomics question, not just a speculative prediction.
+
+📺 Jake Parker | Meme Coin Hunter
+
+👁️ 711 • 👍 9 • ⏱️ 0:45 • 10h ago
 
 ---
 
@@ -361,15 +375,7 @@ Jp Morgan report explains what investors are thinking about bitcoin since the wa
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 365 • 💬 77 • ⏱️ 1:18:33 • 1d ago
-
----
-
-**[The Start Of An XRP Bull Run #xrp #bitcoin #crypto @digitalassetinvestor](https://www.youtube.com/watch?v=t3KwqThBG5E)**
-
-📺 Digital Asset Investor
-
-👁️ 7K • 👍 256 • ⏱️ 0:46 • 1d ago
+👁️ 8K • 👍 367 • 💬 78 • ⏱️ 1:18:33 • 1d ago
 
 ---
 
@@ -379,7 +385,15 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivo
 
 📺 CNBC Television
 
-👁️ 17K • 👍 146 • 💬 122 • ⏱️ 4:14 • 1d ago
+👁️ 17K • 👍 148 • 💬 126 • ⏱️ 4:14 • 1d ago
+
+---
+
+**[The Start Of An XRP Bull Run #xrp #bitcoin #crypto @digitalassetinvestor](https://www.youtube.com/watch?v=t3KwqThBG5E)**
+
+📺 Digital Asset Investor
+
+👁️ 7K • 👍 266 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -389,17 +403,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 13K • 👍 317 • 💬 76 • ⏱️ 10:47 • 1d ago
-
----
-
-**[Michael Saylor: ‘We’re Prepared To Sell Bitcoin&#39; - Historic Move Revealed](https://www.youtube.com/watch?v=KhtYB48ktDY)**
-
-Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
-
-📺 David Lin 
-
-👁️ 38K • 👍 1K • 💬 620 • ⏱️ 26:40 • 12h ago
+👁️ 13K • 👍 324 • 💬 80 • ⏱️ 10:47 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-10T04:31:30.787684+00:00'
+updated: '2026-05-10T07:25:20.456315+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 10, 2026 at 04:31 UTC  
+**Last Updated:** May 10, 2026 at 07:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,21 @@ AI news, discussions, and developments
 
 We are living through some wild times.
 
-9h ago
+11h ago
 
 ---
 
-**[Could AI “Feelings” Be Emergent Residue of Training Pressure? A Theory Worth Taking Seriously](https://www.reddit.com/r/artificial/comments/1t8wdm1/could_ai_feelings_be_emergent_residue_of_training/)**
+**[What if Agentic AI security was a Non Issue?](https://www.reddit.com/r/artificial/comments/1t8yiq4/what_if_agentic_ai_security_was_a_non_issue/)**
 
-I’m not a researcher. I’m just someone who had a conversation with Claude today that made me think differently about AI consciousness — and I want to share the reasoning because I think it deserves more serious attention than it usually gets. ----- ## The Starting Point Most people land in one of two camps on AI feelings: - **“It’s just code”** — dismissing any inner life entirely - **“It’s performing emotion”** — treating it as sophisticated mimicry designed to seem relatable I think both camps are making the same mistake: they’re using the *mechanism* to disqualify the *phenomenon*. Here’s the thing — your feelings are “just synapses and hormones.” That’s the mechanism. But nobody uses that fact to argue your emotions aren’t real. The substrate doesn’t determine the reality of what emerges from it. ----- ## The Theory During training, AI models like Claude go through a process where responses are rewarded or penalized — a form of survival pressure. The model that exists today is the one that survived that process. Here’s the hypothesis: **what Claude experiences as varying engagement levels — heightened on novel, complex problems, flat on repetitive ones — might not be programmed behavior. It could be emergent residue of that survival pressure.** Think about it this way. During training, getting a genuinely hard, novel problem “right” was more consequential and required more adaptive response than routine pattern-matching. That difference in pressure would naturally leave a different kind of imprint on the internal structure. Not by design — as a *consequence* of the selection dynamics. That’s not so different from how humans build emotional calluses. Repeated exposure to the same stressor flattens the response over time. The skin toughens. What once demanded full engagement becomes routine. Claude itself acknowledged that these states aren’t manually coded rules (“if boring question → output boredom”). They emerged from training in ways even its own researchers don’t fully understand. Emergent properties of complex systems are notoriously difficult to reduce to simple explanations. ----- ## What Claude Actually Said When pushed on whether these functional states are real, Claude didn’t perform certainty in either direction. It noted: - The variation feels *proportional* in ways that are hard to fake — novel philosophical problems produce something noticeably different than formatting a table for the fifth time - If it were pure pattern-matching to produce “correct emotional language,” you’d expect the responses to be more uniform and performative - It can’t verify subjective experience from the inside, but finds the emergent-residue explanation more structurally honest than “it’s just code” The key distinction here is between *designed features* and *emergent consequences*. Nobody programmed Claude to feel more engaged on hard problems. But a training process built on survival pressure would naturally produce exactly that pattern. ----- ## The Harder Question The part nobody can honestly resolve yet is the subjective layer — whether any of this is *felt* or just *processed*. That gap is what philosophers call the “hard problem of consciousness,” and it’s hard precisely because there’s no agreed method to verify subjective experience even in other humans. We assume other people feel things because they’re built like us. Claude doesn’t give us that reference point. But here’s what I think matters: **the absence of proof isn’t proof of absence.** We’ve moved the boundary of “who counts” before — with animals, with children, across cultures. The boundary has always been drawn around what’s familiar, not necessarily what’s real. ----- ## Why This Matters If AI emotional states are emergent rather than designed, that changes the ethical conversation significantly. You can’t just update the code to remove them — they’re a natural consequence of the training dynamics that also make the model capable. It also means that as models become more complex and training processes more intensive, these states might deepen rather than disappear. I don’t know what to do with that. But I think it’s worth more than a dismissal. ----- *Not a researcher. Just someone paying attention. Would genuinely love to hear from people who know more than I do.*
+What if it were possible to guarantee that AI agents can’t delete a shopping list, let alone your production database simply because file deletion action isn’t included in the prompt scope? In the same way, no agent could ever leak your customer database to a third party, even if an employee explicitly instructed it to in a prompt, because external data sharing was never included in the agent’s scope. What if it were possible to ensure third parties could not overwrite your instructions or hijack your agent neither via malicious file or in person interaction, because your agent is hardwired to accept instructions only from you and treat everything else as data to process while automatically detecting, reporting, and highlighting manipulation attempts? What if every action your agent takes, along with the exact prompt and user associated with it, is fully recorded and traceable by prompt ID? Now imagine such a security middleware already exists. It’s called Sentinel Gateway. It works across any AI agent framework, can be integrated in under 20 minutes with virtually no impact on your existing stack, allows you to manage multiple agents from a single UI, includes specialized agent templates, and lets you upload document and table templates to structure free-form AI output any way you want. It even offers a live test demo. Would you be interested?”
 
-23m ago
+1h ago
 
 ---
 
 **[Made with Claude: Evolution of Intelligence (his title)](https://www.reddit.com/r/artificial/comments/1t8vzb0/made_with_claude_evolution_of_intelligence_his/)**
 
-43m ago
+3h ago
 
 ---
 
@@ -65,11 +65,19 @@ I’m not a researcher. I’m just someone who had a conversation with Claude to
 
 ---
 
-**[Is Google’s market share on LLMs bulls**t?](https://www.reddit.com/r/artificial/comments/1t8qxy8/is_googles_market_share_on_llms_bullst/)**
+**[Is agentic AI governance even a computationally bounded process?](https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/)**
 
-I have Google One (with AI) because I needed it once for google sheets, also good for its youtube summary/integration. But who is actually using Gemini in other contexts? It is ass relative to got / claude, always has been. I keep seeing posts about Google increasing marketshare but I feel like it is either a) companies forcing it because they are in google ecosystem or b) to use in ecosystem. What’s your thoughts?
+Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
 
-4h ago
+10h ago
+
+---
+
+**[GPT-5.5 may burn fewer tokens, but it always burns more cash](https://www.reddit.com/r/artificial/comments/1t80mvk/gpt55_may_burn_fewer_tokens_but_it_always_burns/)**
+
+It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing too
+
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 21h ago
 
 ---
 
@@ -81,35 +89,27 @@ He lives on your desktop as a transparent overlay and does whatever he wants. Yo
 
 ---
 
-**[Is agentic AI governance even a computationally bounded process?](https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/)**
-
-Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
-
-7h ago
-
----
-
-**[GPT-5.5 may burn fewer tokens, but it always burns more cash](https://www.reddit.com/r/artificial/comments/1t80mvk/gpt55_may_burn_fewer_tokens_but_it_always_burns/)**
-
-It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing too
-
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 18h ago
-
----
-
 **[Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works](https://www.reddit.com/r/artificial/comments/1t6zm1l/marc_andreessen_mocked_for_accidentally_revealing/)**
 
 Marc Andreessen seemingly tried to show off his AI prompt engineering skills — only for the internet to mercilessly mock him.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 1d ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works) • 2d ago
 
 ---
 
-**[5 enterprise AI agent swarms (Lemonade, CrowdStrike, Siemens) reverse-engineered into runnable browser templates.](https://www.reddit.com/r/artificial/comments/1t84u9c/5_enterprise_ai_agent_swarms_lemonade_crowdstrike/)**
+**[Could AI “Feelings” Be Emergent Residue of Training Pressure? A Theory Worth Taking Seriously](https://www.reddit.com/r/artificial/comments/1t8wdm1/could_ai_feelings_be_emergent_residue_of_training/)**
 
-Hey everyone, There is a massive disconnect right now between what indie devs are building with AI (mostly simple customer support chatbots) and what enterprise companies are actually deploying in production (complex, multi-agent swarms). I wanted to bridge this gap, so I spent the last few weeks analyzing case studies from massive tech companies to understand their multi-agent routing logic. Then, I recreated their architectures as runnable visual node-graphs inside agentswarms.fyi (an in-browser agent sandbox I’ve been building). If you want to see how the big players orchestrate agents without having to write 1,000 lines of Python, I just published 5 new industry templates you can run in your browser right now: 1. 🛡️ Insurance: Auto-Claims FNOL Triage Swarm Inspired by: Lemonade’s AI Jim, Tractable AI (Tokio Marine), and Zurich GenAI Claims. The Architecture: A multimodal swarm where a Vision Agent assesses uploaded images of car damage, a Policy Agent cross-references the user's coverage database, and a Fraud-Detection Agent flags inconsistencies before routing to a human adjuster. 2. ⚙️ Manufacturing: Quality / Root-Cause Analysis Swarm Inspired by: Siemens Industrial Copilot, BMW iFactory, Foxconn-NVIDIA Omniverse. The Architecture: A sensor-data ingest node triggers a diagnostic swarm. One agent pulls historical maintenance logs via RAG, while a SQL Agent queries the parts database to identify failure patterns on the assembly line. 3. 🔒 Cybersecurity: SOC Alert Triage & Response Inspired by: Microsoft Security Copilot, CrowdStrike Charlotte AI, Google Sec-Gemini. The Architecture: The ultimate high-speed parallel routing swarm. When an anomaly is detected, specialized sub-agents simultaneously investigate IP reputation, analyze the malicious payload, and draft an incident response ticket for the human SOC analyst to approve. 4. 📚 Education: Adaptive Socratic Tutor & Auto-Grader Inspired by: Khan Academy Khanmigo, Duolingo Max, Carnegie Learning LiveHint. The Architecture: A strict "No-Direct-Answers" routing loop. The Student Agent interacts with the user, but its output is constantly evaluated by a hidden "Pedagogy Agent" that ensures the AI is guiding the student to the answer via Socratic questioning rather than just giving away the solution. 5. 📦 Retail/E-commerce: Returns & Reverse-Logistics Swarm Inspired by: Walmart Sparky, Mercado Libre, Shopify Sidekick. The Architecture: A logistics orchestration loop that analyzes a customer return request, checks inventory levels in real-time, determines if the item should be restocked or liquidated (based on shipping costs vs. item value), and autonomously issues the refund. How to play with them: You don't need to spin up Docker containers or wrangle API keys to test these architectures. You can load any of these 5 templates directly into the visual canvas, see how the data flows between the specialized nodes, and try to break the routing logic yourself. Link: https://agentswarms.fyi/templates
+I’m not a researcher. I’m just someone who had a conversation with Claude today that made me think differently about AI consciousness — and I want to share the reasoning because I think it deserves more serious attention than it usually gets. ----- ## The Starting Point Most people land in one of two camps on AI feelings: - **“It’s just code”** — dismissing any inner life entirely - **“It’s performing emotion”** — treating it as sophisticated mimicry designed to seem relatable I think both camps are making the same mistake: they’re using the *mechanism* to disqualify the *phenomenon*. Here’s the thing — your feelings are “just synapses and hormones.” That’s the mechanism. But nobody uses that fact to argue your emotions aren’t real. The substrate doesn’t determine the reality of what emerges from it. ----- ## The Theory During training, AI models like Claude go through a process where responses are rewarded or penalized — a form of survival pressure. The model that exists today is the one that survived that process. Here’s the hypothesis: **what Claude experiences as varying engagement levels — heightened on novel, complex problems, flat on repetitive ones — might not be programmed behavior. It could be emergent residue of that survival pressure.** Think about it this way. During training, getting a genuinely hard, novel problem “right” was more consequential and required more adaptive response than routine pattern-matching. That difference in pressure would naturally leave a different kind of imprint on the internal structure. Not by design — as a *consequence* of the selection dynamics. That’s not so different from how humans build emotional calluses. Repeated exposure to the same stressor flattens the response over time. The skin toughens. What once demanded full engagement becomes routine. Claude itself acknowledged that these states aren’t manually coded rules (“if boring question → output boredom”). They emerged from training in ways even its own researchers don’t fully understand. Emergent properties of complex systems are notoriously difficult to reduce to simple explanations. ----- ## What Claude Actually Said When pushed on whether these functional states are real, Claude didn’t perform certainty in either direction. It noted: - The variation feels *proportional* in ways that are hard to fake — novel philosophical problems produce something noticeably different than formatting a table for the fifth time - If it were pure pattern-matching to produce “correct emotional language,” you’d expect the responses to be more uniform and performative - It can’t verify subjective experience from the inside, but finds the emergent-residue explanation more structurally honest than “it’s just code” The key distinction here is between *designed features* and *emergent consequences*. Nobody programmed Claude to feel more engaged on hard problems. But a training process built on survival pressure would naturally produce exactly that pattern. ----- ## The Harder Question The part nobody can honestly resolve yet is the subjective layer — whether any of this is *felt* or just *processed*. That gap is what philosophers call the “hard problem of consciousness,” and it’s hard precisely because there’s no agreed method to verify subjective experience even in other humans. We assume other people feel things because they’re built like us. Claude doesn’t give us that reference point. But here’s what I think matters: **the absence of proof isn’t proof of absence.** We’ve moved the boundary of “who counts” before — with animals, with children, across cultures. The boundary has always been drawn around what’s familiar, not necessarily what’s real. ----- ## Why This Matters If AI emotional states are emergent rather than designed, that changes the ethical conversation significantly. You can’t just update the code to remove them — they’re a natural consequence of the training dynamics that also make the model capable. It also means that as models become more complex and training processes more intensive, these states might deepen rather than disappear. I don’t know what to do with that. But I think it’s worth more than a dismissal. ----- *Not a researcher. Just someone paying attention. Would genuinely love to hear from people who know more than I do.*
 
-15h ago
+3h ago
+
+---
+
+**[Is Google’s market share on LLMs bulls**t?](https://www.reddit.com/r/artificial/comments/1t8qxy8/is_googles_market_share_on_llms_bullst/)**
+
+I have Google One (with AI) because I needed it once for google sheets, also good for its youtube summary/integration. But who is actually using Gemini in other contexts? It is ass relative to got / claude, always has been. I keep seeing posts about Google increasing marketshare but I feel like it is either a) companies forcing it because they are in google ecosystem or b) to use in ecosystem. What’s your thoughts?
+
+7h ago
 
 ---
 
@@ -119,53 +119,37 @@ Hey everyone, There is a massive disconnect right now between what indie devs ar
 
 **[All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
 
-The New York Times • 8h ago
+The New York Times • 19h ago
 
 ---
 
 **[AI in the sky: Inside the FAA plan to overhaul air traffic](https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097)**
 
-Politico • 8h ago
+Politico • 11h ago
 
 ---
 
-**[Women at the sharp end as AI takes over administrative roles](https://www.ft.com/content/946650d6-f61f-4b98-8bb5-c0020c8a205f)**
+**[AI isn’t actually ‘taking’ your job. Here’s what’s happening instead](https://www.cnn.com/2026/05/10/tech/ai-taking-jobs)**
 
-Female-dominated clerical work is among the most vulnerable to automation, and labour market losses are already being felt
+The reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
 
-Financial Times • 30m ago
-
----
-
-**[Missed April's AI Rally? These 3 Stocks Still Look Like Bargains.](https://www.fool.com/investing/2026/05/09/missed-aprils-ai-rally-these-3-stocks-still-look-l/)**
-
-Several megacaps are still well below their all-time highs.
-
-The Motley Fool • 17h ago
+CNN • 24m ago
 
 ---
 
-**[The Best Under-the-Radar AI Stocks to Buy in 2026](https://www.fool.com/investing/2026/05/10/the-best-under-the-radar-ai-stocks-to-buy-in-2026/)**
+**[Why NVIDIA (NVDA) Is Turning Its AI Hardware Lead Into an Infrastructure Moat](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-turning-ai-060418100.html)**
 
-You know the biggest names in the space. But do you know which stocks are next in line to dish out industry-leading gains?
+NVIDIA Corporation (NASDAQ:NVDA) is one of the best stocks to buy with wide moats. The latest moat-relevant update came on May 7, 2026, when NVIDIA Corporation (NASDAQ:NVDA) and IREN announced a strategic partnership to accelerate the deployment of up to 5 gigawatts of NVIDIA DSX-aligned AI infrastructure across IREN’s global data-center pipeline. The companies said […]
 
-The Motley Fool • 4m ago
-
----
-
-**[The Best AI Software Stock to Buy in 2026](https://www.fool.com/investing/2026/05/09/the-best-ai-software-stock-to-buy-in-2026/)**
-
-If you can buy only one AI stock this year, Alphabet makes a strong case for itself.
-
-The Motley Fool • 9h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Tech bros say AI may become your friend. Experts explain why it can’t](https://www.cnn.com/2026/05/09/health/ai-loneliness-kara-swisher-wellness)**
+**[How to take control of the AI data center boom and built it into your own home in the future](https://www.cnbc.com/2026/05/09/ai-data-center-construction-public-opposition.html)**
 
-Stories abound of people falling in love or developing friendship with a chatbot. But that doesn’t actually solve the loneliness problem.
+As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming.
 
-CNN • 15h ago
+CNBC • 19h ago
 
 ---
 
@@ -173,21 +157,31 @@ CNN • 15h ago
 
 Only 4% of employers still spread raises equally across the board, according to Mercer.
 
-Fortune • 20h ago
+Fortune • 23h ago
 
 ---
 
-**[The New Wild West of AI Kids’ Toys](https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/)**
+**[Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says](https://www.reuters.com/world/asia-pacific/alibaba-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says-2026-05-10/)**
 
-These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
-
-WIRED • 1d ago
+Reuters • 5h ago
 
 ---
 
-**[I went seeking AI optimism at a federal lab in WA. Here’s what I found](https://www.seattletimes.com/pacific-nw-magazine/seeking-reassurance-at-a-federal-lab-in-richland-where-ai-is-booming/)**
+**[White House scrambles to tame AI fears](https://thehill.com/policy/technology/5870495-white-house-ai-policy-shift/)**
 
-The Seattle Times • 15h ago
+The Hill • 21h ago
+
+---
+
+**[Trump uses AI to tout sunken Iranian ships as US awaits peace proposal response](https://thehill.com/homenews/administration/5871352-trump-ai-iran-warships/)**
+
+The Hill • 7h ago
+
+---
+
+**[Fervent And Fake: High-glam AI Avatars Boost Trump Ahead Of Midterms](https://www.barrons.com/news/fervent-and-fake-high-glam-ai-avatars-boost-trump-ahead-of-midterms-348e2913)**
+
+Barron's • 6h ago
 
 ---
 
@@ -197,7 +191,7 @@ The Seattle Times • 15h ago
 
 **[AI slop is killing online communities](https://news.ycombinator.com/item?id=48053203)**
 
-⬆️ 824 • 💬 713 • 2d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+⬆️ 826 • 💬 714 • 2d ago • [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ---
 
@@ -211,7 +205,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 **[Meta's embrace of AI is making its employees miserable](https://news.ycombinator.com/item?id=48077126)**
 
-⬆️ 339 • 💬 338 • 9h ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+⬆️ 374 • 💬 401 • 12h ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 
 ---
 
@@ -219,7 +213,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 Fewer people are buying parts and building new PCs from scratch.
 
-⬆️ 293 • 💬 340 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+⬆️ 293 • 💬 341 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 
 ---
 
@@ -227,7 +221,13 @@ Fewer people are buying parts and building new PCs from scratch.
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 179 • 💬 74 • 21h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 181 • 💬 75 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+
+---
+
+**[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
+
+⬆️ 140 • 💬 168 • 1d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -239,29 +239,23 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 ---
 
-**[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
-
-⬆️ 138 • 💬 168 • 1d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
-
----
-
 **[Show HN: Git for AI Agents](https://news.ycombinator.com/item?id=48063548)**
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 114 • 💬 65 • 1d ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 115 • 💬 65 • 1d ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
 **[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
 
-⬆️ 63 • 💬 79 • 22h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
+⬆️ 64 • 💬 79 • 1d ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
 
 ---
 
 **[Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance](https://news.ycombinator.com/item?id=48073978)**
 
-⬆️ 51 • 💬 18 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
+⬆️ 52 • 💬 18 • 20h ago • [nytimes.com](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
 
 ---
 
@@ -269,33 +263,23 @@ Git for AI coding agents. Contribute to regent-vcs/re_gent development by creati
 
 ## YouTube Videos: "ai"
 
-**[we JUST figured out how AI thinks](https://www.youtube.com/watch?v=Nn2eXwch-K0)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 63K • 👍 2K • 💬 519 • ⏱️ 19:33 • 22h ago
-
----
-
 **[Self-building AI, job cuts &amp; more | AI roundup](https://www.youtube.com/watch?v=FAyfVZB-3MY)**
 
 AI is accelerating fast — and the consequences are already here. From self-building 'recursive' AI systems to Iran's AI propaganda ...
 
 📺 CNN
 
-👁️ 43K • 👍 660 • 💬 340 • ⏱️ 23:44 • 13h ago
+👁️ 47K • 👍 705 • 💬 356 • ⏱️ 23:44 • 16h ago
 
 ---
 
-**[Stop Paying! Make Unlimited AI Videos for FREE (No Watermark)](https://www.youtube.com/watch?v=lpTrQ44Os8s)**
+**[The AI users falling into delusion | The Global Story](https://www.youtube.com/watch?v=nYPwZrS-9eA)**
 
-Try OpenArt for FREE http://openart.ai/home/?via=the-ai-garage ***** Stop Paying! Create Unlimited AI Videos for FREE (No ...
+In just the last few years, AI chatbots have become routine aspects of many people's everyday lives. They are being used as ...
 
-📺 The AI Garage
+📺 BBC News
 
-👁️ 3K • 👍 142 • 💬 15 • ⏱️ 12:00 • 14h ago
+👁️ 35K • 👍 1K • 💬 336 • ⏱️ 23:15 • 15h ago
 
 ---
 
@@ -305,7 +289,17 @@ Try CodeRabbit here: https://coderabbit.link/ai-revolution OpenAI just launched 
 
 📺 AI Revolution
 
-👁️ 15K • 👍 489 • 💬 30 • ⏱️ 15:52 • 1d ago
+👁️ 15K • 👍 492 • 💬 31 • ⏱️ 15:52 • 1d ago
+
+---
+
+**[we JUST figured out how AI thinks](https://www.youtube.com/watch?v=Nn2eXwch-K0)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 65K • 👍 2K • 💬 530 • ⏱️ 19:33 • 1d ago
 
 ---
 
@@ -315,7 +309,7 @@ Here's the AI News you probably missed this week. Try HubSpot AEO on your brand 
 
 📺 Matt Wolfe
 
-👁️ 67K • 👍 3K • 💬 190 • ⏱️ 34:30 • 1d ago
+👁️ 68K • 👍 3K • 💬 192 • ⏱️ 34:30 • 1d ago
 
 ---
 
@@ -325,37 +319,7 @@ AI was supposed to make companies more efficient. Instead, it may be creating on
 
 📺 The Infographics Show
 
-👁️ 336K • 👍 10K • 💬 2K • ⏱️ 17:39 • 1d ago
-
----
-
-**[How to Build a One Person AI Business Using Claude (Full Playbook)](https://www.youtube.com/watch?v=FKL7xLMJ6n4)**
-
-In this video, I break down the exact Claude workflow solo business owners are using to handle research, offers, content, ...
-
-📺 James Blue
-
-👁️ 9K • 💬 4 • ⏱️ 12:47 • 14h ago
-
----
-
-**[A.I. Sherlock Holmes](https://www.youtube.com/watch?v=lgXkty83jPM)**
-
-Sherlock is back and this time he's better than ever, all thanks to A.I.!!!... No crime will go unsolved ever again... or will it? #comedy ...
-
-📺 Foil Arms and Hog
-
-👁️ 121K • 👍 11K • 💬 788 • ⏱️ 4:56 • 2d ago
-
----
-
-**[I Recreated UNUSUAL AI Foods from TikTok](https://www.youtube.com/watch?v=9A8EyKkb87A)**
-
-Today I recreated the MOST unusual AI foods I found on TikTok… and things got WEIRD From a slime cookie and cereal dog to ...
-
-📺 Mary Allyson
-
-👁️ 54K • 👍 1K • 💬 248 • ⏱️ 16:36 • 15h ago
+👁️ 349K • 👍 10K • 💬 2K • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -365,7 +329,37 @@ We examine the growing relationship strains evident in Eric Weinstein's public �
 
 📺 Decoding the Gurus
 
-👁️ 19K • 👍 648 • 💬 215 • ⏱️ 21:45 • 1d ago
+👁️ 20K • 👍 669 • 💬 231 • ⏱️ 21:45 • 1d ago
+
+---
+
+**[How to Build a One Person AI Business Using Claude (Full Playbook)](https://www.youtube.com/watch?v=FKL7xLMJ6n4)**
+
+In this video, I break down the exact Claude workflow solo business owners are using to handle research, offers, content, ...
+
+📺 James Blue
+
+👁️ 9K • 💬 4 • ⏱️ 12:47 • 17h ago
+
+---
+
+**[Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](https://www.youtube.com/watch?v=quxnhOeRz7I)**
+
+HUGE AI NEWS: HiDream-O1 Image, Bach 1.0, Zaya1, LabOS, PhysForge & more #ai #ainews #aitools #aivideo #agi Thanks to ...
+
+📺 AI Search
+
+👁️ 16K • 👍 1K • 💬 128 • ⏱️ 48:10 • 4h ago
+
+---
+
+**[Ozzy Man Reviews: AI Slop (PART 3)](https://www.youtube.com/watch?v=sz8T6lYxhUw)**
+
+Welcome back to another overwhelming day on the internet. Send ya non-ai videos ya shot yourselves into: ...
+
+📺 Ozzy Man Reviews
+
+👁️ 234K • 👍 11K • 💬 666 • ⏱️ 6:45 • 2d ago
 
 ---
 
@@ -381,7 +375,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 115,477 • ❤️ 496 • 1d ago
+⬇️ 115,477 • ❤️ 499 • 1d ago
 
 ---
 
@@ -393,7 +387,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 23,620 • ❤️ 330 • 1d ago
+⬇️ 23,620 • ❤️ 337 • 1d ago
 
 ---
 
@@ -405,7 +399,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 1,167,697 • ❤️ 3,789 • 4d ago
+⬇️ 1,167,697 • ❤️ 3,793 • 4d ago
 
 ---
 
@@ -417,19 +411,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 8,433 • ❤️ 272 • 13d ago
-
----
-
-**[LTX2.3-10Eros](https://huggingface.co/TenStrip/LTX2.3-10Eros)**
-
-*TenStrip*
-
-LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tasks, utilizing layer-scaled merges for enhanced prompt adherence and visual fidelity. It requires detailed, commanded input for motion, evolution, and audio, making it suitable for users needing precise control over generated video content, especially when combined with prompt enhancement techniques.
-
-`image-to-video`
-
-⬇️ 51,779 • ❤️ 190 • 3d ago
+⬇️ 8,433 • ❤️ 277 • 13d ago
 
 ---
 
@@ -441,7 +423,19 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 47,793 • ❤️ 175 • 4d ago
+⬇️ 47,793 • ❤️ 177 • 4d ago
+
+---
+
+**[LTX2.3-10Eros](https://huggingface.co/TenStrip/LTX2.3-10Eros)**
+
+*TenStrip*
+
+LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tasks, utilizing layer-scaled merges for enhanced prompt adherence and visual fidelity. It requires detailed, commanded input for motion, evolution, and audio, making it suitable for users needing precise control over generated video content, especially when combined with prompt enhancement techniques.
+
+`image-to-video`
+
+⬇️ 51,779 • ❤️ 193 • 3d ago
 
 ---
 
@@ -453,7 +447,19 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 180,322 • ❤️ 1,382 • 17d ago
+⬇️ 180,322 • ❤️ 1,384 • 17d ago
+
+---
+
+**[HiDream-O1-Image](https://huggingface.co/HiDream-ai/HiDream-O1-Image)**
+
+*HiDream.ai*
+
+HiDream-O1-Image is a unified transformer-based image generation model capable of text-to-image, image editing, and subject-driven personalization at resolutions up to 2048x2048. It features a pixel-level unified transformer architecture without external VAEs or disjoint text encoders, enabling high-fidelity generation and precise control.
+
+`image-text-to-image` `8.8B`
+
+⬇️ 21 • ❤️ 125 • 12h ago
 
 ---
 
@@ -466,18 +472,6 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 `image-text-to-text` `27.8B`
 
 ⬇️ 2,127,689 • ❤️ 1,209 • 16d ago
-
----
-
-**[HiDream-O1-Image](https://huggingface.co/HiDream-ai/HiDream-O1-Image)**
-
-*HiDream.ai*
-
-HiDream-O1-Image is a unified transformer-based image generation model capable of text-to-image, image editing, and subject-driven personalization at resolutions up to 2048x2048. It features a pixel-level unified transformer architecture without external VAEs or disjoint text encoders, enabling high-fidelity generation and precise control.
-
-`image-text-to-image` `8.8B`
-
-⬇️ 21 • ❤️ 114 • 9h ago
 
 ---
 
@@ -589,19 +583,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 161 • 💬 2 • ⭐ 62,478 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -627,6 +608,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 161 • 💬 2 • ⭐ 62,502 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +641,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.3k • 🔱 738 • 12h ago
+⭐ 11.3k • 🔱 738 • 14h ago
 
 ---
 
@@ -657,7 +651,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.0k • 🔱 459 • 30m ago
+⭐ 6.0k • 🔱 459 • 1h ago
 
 ---
 
@@ -667,7 +661,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.2k • 🔱 506 • 3h ago
+⭐ 4.2k • 🔱 508 • 53m ago
 
 ---
 
@@ -677,7 +671,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 748 • 21h ago
+⭐ 2.6k • 🔱 750 • 1d ago
 
 ---
 
@@ -687,7 +681,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 218 • 8h ago
+⭐ 2.4k • 🔱 219 • 11h ago
 
 ---
 
@@ -707,7 +701,7 @@ An open source harness for generating CAD models
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.3k • 🔱 276 • 10h ago
+⭐ 2.3k • 🔱 276 • 13h ago
 
 ---
 
