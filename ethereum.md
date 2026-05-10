@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T15:55:23.911113+00:00'
+updated: '2026-05-10T16:57:17.203471+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 15:55 UTC  
+**Last Updated:** May 10, 2026 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,327.37
+### $2,348.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -0.1%  
-**30d:** +2.6%  
-**90d:** +16.1%  
-**1y:** -6.6%  
+**24h:** +0.9%  
+**7d:** +0.1%  
+**30d:** +2.8%  
+**90d:** +16.3%  
+**1y:** -6.5%  
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
+
+2h ago
 
 ---
 
@@ -80,13 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-2h ago
-
----
-
-**[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
-
-1h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-14m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ I have learned the following: solidity basics using cryptozombies smart contract
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-21h ago
+22h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
-14h ago
+15h ago
 
 ---
 
@@ -170,13 +170,13 @@ CryptoSlate • 2d ago
 
 Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ AMBCrypto • 6h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -192,15 +192,15 @@ markets.businessinsider.com • 12h ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 21h ago
+Crypto Briefing • 22h ago
 
 ---
 
-**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
+**[Ethereum Sees Sharp Decline In High-Leverage Long Positions — See What Happens Next](https://www.tradingview.com/news/newsbtc:beddfed57094b:0-ethereum-sees-sharp-decline-in-high-leverage-long-positions-see-what-happens-next/)**
 
-Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
+Ethereum is experiencing a notable shift in derivatives positioning as high-leverage long positions decline sharply across the market. The reduction suggests that many overly aggressive bullish trades have either been closed voluntarily or forced out through recent liquidation events.Could Ethereum…
 
-TradingView • 2d ago
+TradingView • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 381 • 💬 13 • ⏱️ 1:00 • 18h ago
+👁️ 9K • 👍 381 • 💬 13 • ⏱️ 1:00 • 19h ago
 
 ---
 
@@ -292,7 +292,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 166 • ⏱️ 10:13 • 17h ago
+👁️ 28K • 👍 2K • 💬 166 • ⏱️ 10:13 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ Ethereum is often treated like one of the “safe” crypto investments, but I t
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 712 • 👍 78 • 💬 54 • ⏱️ 12:08 • 19h ago
+👁️ 712 • 👍 78 • 💬 54 • ⏱️ 12:08 • 20h ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 179 • 💬 181 • ⏱️ 11:27 • 2h ago
+👁️ 2K • 👍 179 • 💬 181 • ⏱️ 11:27 • 3h ago
 
 ---
 

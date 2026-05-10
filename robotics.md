@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-10T15:55:23.914267+00:00'
+updated: '2026-05-10T16:57:17.206268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 10, 2026 at 15:55 UTC  
+**Last Updated:** May 10, 2026 at 16:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 This is Bimo walking completely standalone: no data cable, no external compute, just a battery and an RP2040 (custom board) running the walking policy natively at ~5.2ms inference time. The main walking model trains on thousands of parallel environments in Isaac Lab. That policy gets distilled down to a tiny student network and compiled directly into the MCU firmware. Here's the pipeline: Train a standard 256×128×64 teacher model in Isaac Lab (~5min on an RTX 4080) Distill it into a 64×32 student network (~30s, yep, I was surprised too) Export as pure C using onnx2c Compile into the RP2040 firmware via Arduino IDE Inference runs at 5.0-5.2ms, comfortably within the 50ms control loop The full distillation pipeline, the standalone MCU inference code, and the Bimo API ported to ROS2 nodes are all coming in the next update (v1.1). ROS2 was a direct request from the last Reddit post, so that's in. Has anyone else run RL locomotion policies natively on an MCU? How small have you made the student network before significantly degrading performance? If you want to follow the development, join the Discord server, all updates go there first. Code update to v1.1 will be available on GitHub soon.
 
-2h ago
+3h ago
+
+---
+
+**[look at this neat little feature in development for humanoid robots](https://www.reddit.com/r/robotics/comments/1t9a67c/look_at_this_neat_little_feature_in_development/)**
+
+1h ago
 
 ---
 
@@ -44,7 +50,7 @@ This is Bimo walking completely standalone: no data cable, no external compute, 
 
 Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I first got into robotics, the biggest frustration I faced was that I couldn't just test real hardware in a simulation. Most simulators aren't built around prefabs, and the ones that are usually just give you 3D visual assets with zero actual behavior attached to them. So.... I built this simulator as a proof of concept to fix that. The focus here is strictly on beginners and creating an educational sandbox. You just drag and drop parts to build the robot, and then jump straight into scripting. The features: Prefab Assembly Built-in JS Editor (arduino like) Live Telemetry Note: As i was the only dev, to speed up, I leaned heavily on AI for coding assistance (used as a copilot, no autonomous agents were used).
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +58,15 @@ Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I
 
 Someone else has received them Stackchan? I received this week. It is a pretty funny robot. Not too useful and a bit slowly sometimes but for 75 dollars is a good starting point in robotics. And open source too. When I have some time I would try to make some coding with claude code. Lets see if it works.
 
-1h ago
+2h ago
+
+---
+
+**[Police Robots Are a Security Nightmare- YouTube](https://www.reddit.com/r/robotics/comments/1t9b3bx/police_robots_are_a_security_nightmare_youtube/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=lA8WuXDXfcI) • 46m ago
 
 ---
 
@@ -60,13 +74,7 @@ Someone else has received them Stackchan? I received this week. It is a pretty f
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-23h ago
-
----
-
-**[look at this neat little feature in development for humanoid robots](https://www.reddit.com/r/robotics/comments/1t9a67c/look_at_this_neat_little_feature_in_development/)**
-
-20m ago
+1d ago
 
 ---
 
@@ -74,35 +82,27 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-20h ago
+21h ago
 
 ---
 
 **[Convex MPC for humanoid locomotion](https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-22h ago
+23h ago
 
 ---
 
-**[Air Gesture Control, Zero Touch ✋🤖](https://www.reddit.com/r/robotics/comments/1t86tif/air_gesture_control_zero_touch/)**
+**[rbot: an open-source AMR simulation stack for ROS 2 Jazzy and Gazebo Harmonic](https://www.reddit.com/r/robotics/comments/1t92d8q/rbot_an_opensource_amr_simulation_stack_for_ros_2/)**
 
-Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
+We are releasing rbot, an open-source Autonomous Mobile Robot simulation stack for ROS 2 Jazzy and Gazebo Harmonic. The project is built for teams, students, and ROS users who want a practical AMR baseline they can run, study, and adapt. It packages the core simulation workflow into one ROS 2 workspace: robot description, Gazebo simulation, ros2_control, teleoperation, sensors, localization, mapping, and Nav2 navigation. What is included: Gazebo Harmonic worlds and robot model URDF/Xacro description with generated mesh assets ros2_control differential-drive setup 2-D LiDAR, IMU, depth camera, stereo camera, GPS, and optional 3-D LiDAR paths EKF localization, SLAM Toolbox mapping, AMCL, and saved-map workflow Nav2 with MPPI controller and SMAC Hybrid-A* planner Docker, Docker Compose, VS Code Dev Container, CI, and tests The quick workflow follows the same path a user would take with a real AMR project: map the environment, save the map, localize against it, and send navigation goals in RViz. Gazebo Harmonic is the supported simulator today. Isaac Sim integration is planned. Repository: https://github.com/rlxai/rbot Demo video: YouTube Link We would welcome feedback from the ROS and robotics community, especially around navigation tuning, reproducible simulation scenarios, launch validation, and teaching workflows.
 
-1d ago
-
----
-
-**[A hobby engineer builds a fully automated wheelchair for his wife](https://www.reddit.com/r/robotics/comments/1t7tyw5/a_hobby_engineer_builds_a_fully_automated/)**
-
-The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
-
-1d ago
+7h ago
 
 ---
 
@@ -122,7 +122,7 @@ The Washington Post • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 23h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -134,17 +134,9 @@ Oregon Public Broadcasting - OPB • 1d ago
 
 ---
 
-**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.wtae.com/article/western-pennsylvania-school-for-deaf-robotics-championship/71257710)**
-
-Western Pennsylvania School for the Deaf is celebrating a big win: A national title for the school's robotics team.
-
-WTAE • 1d ago
-
----
-
 **[MDA Space continues work on Gateway robotic arm](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)**
 
-SpaceNews • 16h ago
+SpaceNews • 17h ago
 
 ---
 
@@ -172,11 +164,11 @@ Rocket Lab • 2d ago
 
 ---
 
-**[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
+**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.wtae.com/article/western-pennsylvania-school-for-deaf-robotics-championship/71257710)**
 
-“The smart home is getting kind of boring.”
+Western Pennsylvania School for the Deaf is celebrating a big win: A national title for the school's robotics team.
 
-The Verge • 2d ago
+WTAE • 1d ago
 
 ---
 
@@ -185,6 +177,14 @@ The Verge • 2d ago
 A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
 
 Futurism • 1d ago
+
+---
+
+**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+
+Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
+
+Business Insider • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearsl
 
 📺 FUN Robotics Network
 
-👁️ 6K • 👍 65 • 💬 4 • ⏱️ 0:14 • 18h ago
+👁️ 6K • 👍 65 • 💬 4 • ⏱️ 0:14 • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Control a Robot Arm using just hand movement! In this project, I used an Arduino
 
 📺 MW Electronics Lab
 
-👁️ 7K • 💬 7 • ⏱️ 0:05 • 3h ago
+👁️ 7K • 💬 7 • ⏱️ 0:05 • 5h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video showcases a sophisticated robot vacuum cleaner equipped with a functi
 
 📺 Just A Dad Approved
 
-👁️ 594 • 👍 16 • 💬 3 • ⏱️ 1:10 • 2h ago
+👁️ 594 • 👍 16 • 💬 3 • ⏱️ 1:10 • 3h ago
 
 ---
 
