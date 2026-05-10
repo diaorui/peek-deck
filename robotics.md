@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-10T07:25:20.473890+00:00'
+updated: '2026-05-10T09:12:53.714529+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 10, 2026 at 07:25 UTC  
+**Last Updated:** May 10, 2026 at 09:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-15h ago
+17h ago
 
 ---
 
@@ -44,13 +44,13 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I first got into robotics, the biggest frustration I faced was that I couldn't just test real hardware in a simulation. Most simulators aren't built around prefabs, and the ones that are usually just give you 3D visual assets with zero actual behavior attached to them. So.... I built this simulator as a proof of concept to fix that. The focus here is strictly on beginners and creating an educational sandbox. You just drag and drop parts to build the robot, and then jump straight into scripting. The features: Prefab Assembly Built-in JS Editor (arduino like) Live Telemetry Note: As i was the only dev, to speed up, I leaned heavily on AI for coding assistance (used as a copilot, no autonomous agents were used).
 
-1h ago
+3h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,13 @@ Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-11h ago
+13h ago
+
+---
+
+**[Convex MPC for humanoid locomotion](https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/)**
+
+4h ago
 
 ---
 
@@ -74,13 +80,7 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-16h ago
-
----
-
-**[Convex MPC for humanoid locomotion](https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/)**
-
-2h ago
+18h ago
 
 ---
 
@@ -88,21 +88,19 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
 
-12h ago
+13h ago
 
 ---
 
-**[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
+**[Linux Native CAN Viewer](https://www.reddit.com/r/robotics/comments/1t912ws/linux_native_can_viewer/)**
 
-1d ago
+51m ago
 
 ---
 
-**[Robot Helps Man Cook](https://www.reddit.com/r/robotics/comments/1t8c0vx/robot_helps_man_cook/)**
+**[Why your CFRP structure fails before the fiber does](https://www.reddit.com/r/robotics/comments/1t918af/why_your_cfrp_structure_fails_before_the_fiber/)**
 
-Made a fun video exploring integrating a robot arm into the kitchen... It was actually quite challenging to maneuver around! Set quite a few way points using MoveIt2, but it's motion planning is decent if you map out the kitchen shelf and counter. Enjoy!
-
-🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 13h ago
+42m ago
 
 ---
 
@@ -118,11 +116,27 @@ The Washington Post • 2d ago
 
 ---
 
+**[Warrenton students gear up for another run at the world championships in underwater robotics - Oregon Public Broadcasting](https://www.opb.org/article/2026/05/09/warrenton-oregon-aquatic-robotics-team-mate-rov-competition/)**
+
+Regional qualifying competition in Newport this weekend could send an Oregon underwater robots team to the world championships.
+
+Oregon Public Broadcasting - OPB • 18h ago
+
+---
+
+**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.wtae.com/article/western-pennsylvania-school-for-deaf-robotics-championship/71257710)**
+
+Western Pennsylvania School for the Deaf is celebrating a big win: A national title for the school's robotics team.
+
+WTAE • 1d ago
+
+---
+
 **[Video Friday: AI Gives Robot Hands Human-Like Dexterity](https://spectrum.ieee.org/video-friday-robotic-hand-dexterity)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 15h ago
+IEEE Spectrum • 17h ago
 
 ---
 
@@ -156,35 +170,19 @@ Global Times • 1d ago
 
 ---
 
-**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
-
-Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
-
-Business Insider • 22h ago
-
----
-
-**[Hacker Takes Over Robot Lawnmower, Runs Over Innocent Man](https://futurism.com/robots-and-machines/hacker-robot-lawnmower-runs-over-man)**
-
-A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
-
-Futurism • 1d ago
-
----
-
-**[SoundHound AI Robotics Deal Tests Voice Platform Against Analyst Optimism](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-robotics-deal-tests-181946271.html)**
-
-SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
 
 “The smart home is getting kind of boring.”
 
 The Verge • 1d ago
+
+---
+
+**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+
+Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
+
+Business Insider • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearsl
 
 📺 FUN Robotics Network
 
-👁️ 4K • 👍 45 • 💬 3 • ⏱️ 0:14 • 9h ago
+👁️ 4K • 👍 45 • 💬 3 • ⏱️ 0:14 • 11h ago
 
 ---
 
@@ -226,7 +224,7 @@ Qualcomm sees robotics as its next major frontier. Cristiano Amon, CEO and Presi
 
 📺 A Bit Personal with Jodi Shelton
 
-👁️ 558 • 👍 9 • 💬 1 • ⏱️ 1:08 • 12h ago
+👁️ 558 • 👍 9 • 💬 1 • ⏱️ 1:08 • 14h ago
 
 ---
 
@@ -274,7 +272,7 @@ Scorpion is back and actually good. The meta is all over the place right now but
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 476 • 💬 44 • ⏱️ 16:03 • 19h ago
+👁️ 10K • 👍 476 • 💬 44 • ⏱️ 16:03 • 21h ago
 
 ---
 
