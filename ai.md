@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-09T23:13:08.203979+00:00'
+updated: '2026-05-10T00:10:57.783912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 09, 2026 at 23:13 UTC  
+**Last Updated:** May 10, 2026 at 00:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 We are living through some wild times.
 
-3h ago
+4h ago
 
 ---
 
 **[Joscha Bach: Mapping Every Neuron Won't Give You a Mind](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -55,7 +55,7 @@ We are living through some wild times.
 
 Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing ma
 
 He lives on your desktop as a transparent overlay and does whatever he wants. You can try to talk to him, throw him across the screen, or deploy mobs on him, he has opinions about all of it. Powered by a local Ollama model so everything runs on your machine. The personality is done with completion-format prompting instead of instruction following, which works way better on small models so he actually stays in character. Some things he does: - Wanders around and generates unprompted thoughts about your files, consciousness, and why he keeps running in circles - Notices when you follow him with your cursor and escalates from "i see you" to "i will remember this" - Fights enemies, rides vehicles, explores castles - Writes a journal to your desktop of everything he thinks and does - Gets existential He also has an XP system and levels up, which he is indifferent about. GitHub: https://github.com/ninjahawk/KillClawd
 
-20h ago
+21h ago
 
 ---
 
@@ -79,13 +79,13 @@ Marc Andreessen seemingly tried to show off his AI prompt engineering skills —
 
 It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing too
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 13h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498) • 14h ago
 
 ---
 
 **[Locally running Mistral on an i7 from 2017 so I don't waste water or ram](https://www.reddit.com/r/artificial/comments/1t8nwhc/locally_running_mistral_on_an_i7_from_2017_so_i/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ It’s not just gas prices skyrocketing. Frontier-model pricing keeps climbing t
 
 Hey everyone, There is a massive disconnect right now between what indie devs are building with AI (mostly simple customer support chatbots) and what enterprise companies are actually deploying in production (complex, multi-agent swarms). I wanted to bridge this gap, so I spent the last few weeks analyzing case studies from massive tech companies to understand their multi-agent routing logic. Then, I recreated their architectures as runnable visual node-graphs inside agentswarms.fyi (an in-browser agent sandbox I’ve been building). If you want to see how the big players orchestrate agents without having to write 1,000 lines of Python, I just published 5 new industry templates you can run in your browser right now: 1. 🛡️ Insurance: Auto-Claims FNOL Triage Swarm Inspired by: Lemonade’s AI Jim, Tractable AI (Tokio Marine), and Zurich GenAI Claims. The Architecture: A multimodal swarm where a Vision Agent assesses uploaded images of car damage, a Policy Agent cross-references the user's coverage database, and a Fraud-Detection Agent flags inconsistencies before routing to a human adjuster. 2. ⚙️ Manufacturing: Quality / Root-Cause Analysis Swarm Inspired by: Siemens Industrial Copilot, BMW iFactory, Foxconn-NVIDIA Omniverse. The Architecture: A sensor-data ingest node triggers a diagnostic swarm. One agent pulls historical maintenance logs via RAG, while a SQL Agent queries the parts database to identify failure patterns on the assembly line. 3. 🔒 Cybersecurity: SOC Alert Triage & Response Inspired by: Microsoft Security Copilot, CrowdStrike Charlotte AI, Google Sec-Gemini. The Architecture: The ultimate high-speed parallel routing swarm. When an anomaly is detected, specialized sub-agents simultaneously investigate IP reputation, analyze the malicious payload, and draft an incident response ticket for the human SOC analyst to approve. 4. 📚 Education: Adaptive Socratic Tutor & Auto-Grader Inspired by: Khan Academy Khanmigo, Duolingo Max, Carnegie Learning LiveHint. The Architecture: A strict "No-Direct-Answers" routing loop. The Student Agent interacts with the user, but its output is constantly evaluated by a hidden "Pedagogy Agent" that ensures the AI is guiding the student to the answer via Socratic questioning rather than just giving away the solution. 5. 📦 Retail/E-commerce: Returns & Reverse-Logistics Swarm Inspired by: Walmart Sparky, Mercado Libre, Shopify Sidekick. The Architecture: A logistics orchestration loop that analyzes a customer return request, checks inventory levels in real-time, determines if the item should be restocked or liquidated (based on shipping costs vs. item value), and autonomously issues the refund. How to play with them: You don't need to spin up Docker containers or wrangle API keys to test these architectures. You can load any of these 5 templates directly into the visual canvas, see how the data flows between the specialized nodes, and try to break the routing logic yourself. Link: https://agentswarms.fyi/templates
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ I was watching Andrej Karpathy's excellent "Intro to Large Language Models" just
 
 **[All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 11h ago
 
 A group of rural Utah residents wants a chance to vote in November to oppose a massive AI data center development — the latest example of Americans resisting new data center projects over fears they’ll disrupt the environment and their communities.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNN • 16h ago
 
 As public support for large-scale data center buildouts declines across the U.S., a new type designed to operate inside individual homes is coming.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 11h ago
 
 Aren't AI hyperscalers supposed to pay for these upgrades?
 
-Tom's Hardware • 7h ago
+Tom's Hardware • 8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Tom's Hardware • 7h ago
 
 Sandisk stock has gained more than 557% so far just in 2026 and recently eclipsed $1,500 per share.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 1h ago
 
 Graduates across the Triangle turned their tassels. Many of them are preparing to enter a job market now shaped by artificial intelligence. WRAL News spoke with grads at NC State about their outlook on a future molded by technology.
 
-WRAL • 32m ago
+WRAL • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ WRAL • 32m ago
 
 The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
 **[AI in the sky: Inside the FAA plan to overhaul air traffic](https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097)**
 
-Politico • 3h ago
+Politico • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Politico • 3h ago
 
 Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 11h ago
 
 Another company is also excelling in the AI chips business.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ Fewer people are buying parts and building new PCs from scratch.
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 150 • 💬 64 • 15h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 150 • 💬 64 • 16h ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
@@ -237,7 +237,7 @@ AI hallucinations were found in the Department of Home Affairs' revised white pa
 
 **[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-⬆️ 135 • 💬 166 • 22h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 135 • 💬 166 • 23h ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
 
 ---
 
@@ -251,13 +251,13 @@ Git for AI coding agents. Contribute to regent-vcs/re_gent development by creati
 
 **[I Will Never Use AI to Code](https://news.ycombinator.com/item?id=48072319)**
 
-⬆️ 61 • 💬 74 • 16h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
+⬆️ 61 • 💬 74 • 17h ago • [antman-does-software.com](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)
 
 ---
 
 **[Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance](https://news.ycombinator.com/item?id=48073978)**
 
-⬆️ 49 • 💬 18 • 11h ago • [nytimes.com](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
+⬆️ 49 • 💬 18 • 12h ago • [nytimes.com](https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html)
 
 ---
 
@@ -279,7 +279,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 56K • 👍 2K • 💬 502 • ⏱️ 19:33 • 17h ago
+👁️ 56K • 👍 2K • 💬 502 • ⏱️ 19:33 • 18h ago
 
 ---
 
@@ -309,7 +309,7 @@ AI is accelerating fast — and the consequences are already here. From self-bui
 
 📺 CNN
 
-👁️ 32K • 👍 553 • 💬 294 • ⏱️ 23:44 • 8h ago
+👁️ 32K • 👍 553 • 💬 294 • ⏱️ 23:44 • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ Get a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-sess
 
 📺 Julian Goldie SEO
 
-👁️ 550 • 👍 42 • 💬 6 • ⏱️ 7:55 • 5h ago
+👁️ 550 • 👍 42 • 💬 6 • ⏱️ 7:55 • 6h ago
 
 ---
 
@@ -651,7 +651,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.3k • 🔱 735 • 6h ago
+⭐ 11.3k • 🔱 735 • 7h ago
 
 ---
 
@@ -661,7 +661,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 5.9k • 🔱 459 • 1h ago
+⭐ 5.9k • 🔱 459 • 2h ago
 
 ---
 
@@ -681,7 +681,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 5.2k • 🔱 374 • 15h ago
+⭐ 5.2k • 🔱 374 • 16h ago
 
 ---
 
@@ -691,7 +691,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `chatbot` `claude`
 
-⭐ 4.2k • 🔱 507 • 3h ago
+⭐ 4.2k • 🔱 507 • 4h ago
 
 ---
 
@@ -721,7 +721,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 744 • 16h ago
+⭐ 2.6k • 🔱 744 • 17h ago
 
 ---
 
@@ -731,7 +731,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 218 • 3h ago
+⭐ 2.4k • 🔱 218 • 4h ago
 
 ---
 

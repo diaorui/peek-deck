@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-09T23:13:08.220395+00:00'
+updated: '2026-05-10T00:10:57.803300+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 09, 2026 at 23:13 UTC  
+**Last Updated:** May 10, 2026 at 00:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
 
-8h ago
+9h ago
 
 ---
 
@@ -52,13 +52,13 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-19h ago
+20h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-3h ago
+4h ago
 
 ---
 
@@ -74,13 +74,13 @@ Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel
 
 This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
 
-3h ago
+4h ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is the current status of BB1 .. I can’t seem to post it much anymore beca
 
 Made a fun video exploring integrating a robot arm into the kitchen... It was actually quite challenging to maneuver around! Set quite a few way points using MoveIt2, but it's motion planning is decent if you map out the kitchen shelf and counter. Enjoy!
 
-🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 5h ago
+🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 6h ago
 
 ---
 
@@ -96,13 +96,13 @@ Made a fun video exploring integrating a robot arm into the kitchen... It was ac
 
 I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
 
-8h ago
+9h ago
 
 ---
 
 **[built a native ROS 2 MCP Server for AI Agents (No rosbridge/WebSockets required)](https://www.reddit.com/r/robotics/comments/1t8gwro/built_a_native_ros_2_mcp_server_for_ai_agents_no/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -136,7 +136,7 @@ SpaceNews • 1d ago
 
 Rocket Lab (NasdaqCM:RKLB) has signed the largest launch contract in its history, covering multiple Neutron and Electron missions with a confidential customer. The company has agreed to acquire Motiv Space Systems, a specialist in advanced space robotics used on NASA Mars rover missions. Together, these moves expand Rocket Lab's launch backlog and bring robotics capabilities in house for planetary exploration and national security programs. For readers tracking the space sector, Rocket Lab...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -152,7 +152,7 @@ Rocket Lab • 2d ago
 
 Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -182,7 +182,7 @@ South China Morning Post • 1d ago
 
 A Bixby Middle School robotics team became the first in state history to reach the championship dome at the VEX IQ World Championship, finishing fifth against teams from 54 countries.
 
-News On 6 • 19h ago
+News On 6 • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearsl
 
 📺 FUN Robotics Network
 
-👁️ 975 • 👍 15 • ⏱️ 0:14 • 1h ago
+👁️ 975 • 👍 15 • ⏱️ 0:14 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ Scorpion is back and actually good. The meta is all over the place right now but
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 394 • 💬 37 • ⏱️ 16:03 • 11h ago
+👁️ 7K • 👍 394 • 💬 37 • ⏱️ 16:03 • 12h ago
 
 ---
 

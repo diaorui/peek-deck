@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-09T23:13:08.217204+00:00'
+updated: '2026-05-10T00:10:57.799893+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 23:13 UTC  
+**Last Updated:** May 10, 2026 at 00:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-6h ago
+7h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView • 1d ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Crypto Briefing • 5h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -208,7 +208,7 @@ markets.businessinsider.com • 16h ago
 
 Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
 
-Bitcoin News • 5h ago
+Bitcoin News • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 10K • 👍 252 • 💬 74 • ⏱️ 9:26 • 7h ago
+👁️ 10K • 👍 252 • 💬 74 • ⏱️ 9:26 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ KBW2026 tickets available now ...
 
 📺 Korea Blockchain Week
 
-👁️ 1K • 👍 70 • 💬 17 • ⏱️ 21:18 • 8h ago
+👁️ 1K • 👍 70 • 💬 17 • ⏱️ 21:18 • 9h ago
 
 ---
 
@@ -274,7 +274,7 @@ KBW2026 tickets available now ...
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 457 • 💬 38 • ⏱️ 2:31 • 22h ago
+👁️ 7K • 👍 457 • 💬 38 • ⏱️ 2:31 • 23h ago
 
 ---
 
@@ -284,7 +284,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 549 • 💬 81 • ⏱️ 12:01 • 9h ago
+👁️ 14K • 👍 549 • 💬 81 • ⏱️ 12:01 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 110 • 💬 8 • ⏱️ 1:00 • 2h ago
+👁️ 2K • 👍 110 • 💬 8 • ⏱️ 1:00 • 3h ago
 
 ---
 

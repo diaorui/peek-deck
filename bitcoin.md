@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-09T23:13:08.211833+00:00'
+updated: '2026-05-10T00:10:57.793284+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 09, 2026 at 23:13 UTC  
+**Last Updated:** May 10, 2026 at 00:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,8 +70,8 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 38
-**FEAR**
+### 47
+**NEUTRAL**
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
 
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 1h ago
+🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 2h ago
 
 ---
 
@@ -95,13 +95,13 @@ Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36
 
 Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track what we buy. But surveillance is just phase one. The real architecture of programmable money is about behavioral control through expiration dates and geofencing. Think about it: during high inflation, they want you to spend. With a CBDC, they can program a negative interest rate or an expiration date on your balance. "Spend your digital dollars within 30 days, or they disappear." It forces consumption. During a crisis or a "climate lockdown," they can geofence your wallet. Your money simply won't work more than 15 miles from your home. The transition to this digital prison is happening right now. This is exactly why Bitcoin was created. The only logical exit is physical and digital sovereignty—holding your own Bitcoin offline in cold storage where their code cannot reach your energy. Bitcoin isn't just an investment anymore; it is the ultimate firewall against programmable fiat. I just spent weeks researching and putting together a deep-dive documentary on the exact architecture of this digital prison and why decentralized networks are our only way out. If you want the full breakdown, I dropped it here: https://www.youtube.com/watch?v=W12J3A4cYMI
 
-6h ago
+7h ago
 
 ---
 
 **[The Millionaire I Could Have Been](https://www.reddit.com/r/Bitcoin/comments/1t8ayo5/the_millionaire_i_could_have_been/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Everyone is talking about how Central Bank Digital Currencies (CBDCs) will track
 
 Bitcoin feels less like a revolution and more like a pressure valve. Governments print massive amounts of money → inflation risk rises → trust in fiat weakens. Instead of letting that fully collapse currencies, capital flows into Bitcoin. Result: excess liquidity gets “absorbed” into a digital asset, while fiat systems stay intact a bit longer. Not saying it’s the original intent—but the effect is the same: a buffer that helps preserve the current monetary system.
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ Bitcoin feels less like a revolution and more like a pressure valve. Governments
 
 It’ll likely run up to $180-200k after hitting 120, but then crash back to 110 thousand or so. Which will be the absolute floor before the next cycle. On and on we go. Just my high guy guesstimate for what’s next
 
-20h ago
+21h ago
 
 ---
 
@@ -125,7 +125,7 @@ It’ll likely run up to $180-200k after hitting 120, but then crash back to 110
 
 This is the era of native machine-to-machine payments: autonomous AI agents that don't just consume information, but pay for it, on the spot, without human intervention, using the internet's own protocol.
 
-🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 5h ago
+🔗 [Privacy. Cryptography. Freedom.](https://www.eddieoz.com/how-a-15-risc-v-device-built-its-own-lightning-wallet-and-learned-to-pay-the-internet/) • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ This is the era of native machine-to-machine payments: autonomous AI agents that
 
 I’m not planning on it now, but one day I will end up selling my bitcoin many moons from now. I bought off Coinbase and transferred to a cold wallet. When the day comes what do you recommend? I bought off Coinbase but heard strike has better spread rates. I’m not familiar with strike, but I don’t want to lose too much when I sell on fees and spreads.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ I’m not planning on it now, but one day I will end up selling my bitcoin many 
 
 Hi guys, was wanting to see if anyone could tell me the difference between these and what the pros and cons are of each? Im wanting to withdraw crypto from kraken but I need an address to send it to and so on. Any insight would be helpful and any personal experiences. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ Hi guys, was wanting to see if anyone could tell me the difference between these
 
 Let get the BITCOIN
 
-16h ago
+17h ago
 
 ---
 
@@ -161,7 +161,7 @@ Let get the BITCOIN
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 3d ago
 
 The parent company of Truth Social reported positive operating cash flow of $17.9 million and $2.1 billion in financial assets, which is triple from a year ago.
 
-Fortune • 17m ago
+Fortune • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 1d ago
 
 Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 10h ago
 
 Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -283,7 +283,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 4h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 5h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -313,7 +313,7 @@ Welcome back to Verified Investing! In today's video, Chief Market Strategist Ga
 
 📺 Gareth Soloway
 
-👁️ 28K • 👍 2K • 💬 178 • ⏱️ 10:40 • 9h ago
+👁️ 28K • 👍 2K • 💬 178 • ⏱️ 10:40 • 10h ago
 
 ---
 
@@ -333,7 +333,7 @@ Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak 
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 411 • 💬 36 • ⏱️ 35:29 • 3h ago
+👁️ 4K • 👍 411 • 💬 36 • ⏱️ 35:29 • 4h ago
 
 ---
 
@@ -343,7 +343,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 106 • ⏱️ 9:53 • 1d ago
+👁️ 39K • 👍 2K • 💬 106 • ⏱️ 9:53 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 True North
 
-👁️ 188 • 👍 1 • ⏱️ 0:36 • 58m ago
+👁️ 188 • 👍 1 • ⏱️ 0:36 • 1h ago
 
 ---
 
@@ -401,7 +401,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code 
 
 📺 David Lin 
 
-👁️ 17K • 👍 776 • 💬 463 • ⏱️ 26:40 • 6h ago
+👁️ 17K • 👍 776 • 💬 463 • ⏱️ 26:40 • 7h ago
 
 ---
 
