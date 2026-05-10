@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T10:45:18.825894+00:00'
+updated: '2026-05-10T11:52:47.499099+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 10:45 UTC  
+**Last Updated:** May 10, 2026 at 11:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -0.9%  
-**30d:** +1.7%  
-**90d:** +15.1%  
-**1y:** -7.5%  
+**24h:** +0.2%  
+**7d:** -1.1%  
+**30d:** +1.6%  
+**90d:** +14.9%  
+**1y:** -7.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-18h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
-9h ago
+10h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Regulatory bans on stablecoin yields are expected to positively impact Ethereum's value and network activity. Shift to Staking: With the CLARITY Act and similar regulations preventing issuers from paying direct yield on stablecoins, investors are predicted to move capital into Ethereum staking as an alternative source of passive income. Supply Shock: This migration could lock up significant amounts of ETH, with analysts noting a potential $6 billion staking queue and reduced exchange liquidity, which supports price appreciation. Increased Network Usage: As stablecoins are used more for transactions rather than idle holding, gas fees and ETH burn rates (via EIP-1559) may rise, further benefiting the token's economic model.
 
-1d ago
+2d ago
 
 ---
 
@@ -136,7 +136,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 Hi guys, I recently finished a web3 bootcamp at metana, and am now looking for a jobs in this space. So far I have had little luck, as most of you are probably familiar with the current state of the job market. I want to at least start gaining some experience but most opensource projects don't really have any opentasks to contribute with that are beginner friendly, so I am asking if anyone knows of any opportunities for a beginner, or if someone has a project they are working on and willing to take me on. Thanks.
 
-1d ago
+2d ago
 
 ---
 
@@ -168,17 +168,17 @@ CryptoSlate • 1d ago
 
 ---
 
-**[BitMine Stock Faces Risk as Tom Lee Cools on Ethereum Buying](https://finance.yahoo.com/markets/stocks/articles/bitmine-stock-faces-risk-tom-195616576.html)**
+**[Bitmine’s Tom Lee Bets Big On Ethereum With New 2026 Prediction](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-bets-big-102958467.html)**
 
-BMNR stock price falls 4% as Tom Lee signals slower ETH buying, with bearish chart signals pointing to a possible 9% drop.
+Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-AMBCrypto • 1h ago
+AMBCrypto • 2h ago
 
 ---
 
@@ -186,15 +186,7 @@ AMBCrypto • 1h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
 
-markets.businessinsider.com • 7h ago
-
----
-
-**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
-
-The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
-
-CoinDesk • 2d ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -202,7 +194,7 @@ CoinDesk • 2d ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 17h ago
 
 ---
 
@@ -214,15 +206,25 @@ TradingView • 1d ago
 
 ---
 
-**[Will Ethereum (ETH) Hit $22K as Tom Lee Predicts?](https://www.disruptionbanking.com/2026/05/08/will-ethereum-eth-hit-22k-as-tom-lee-predicts/)**
+**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
 
-Disruption Banking • 1d ago
+The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
+
+CoinDesk • 2d ago
 
 ---
 
 **[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
 
 TipRanks • 1d ago
+
+---
+
+**[Crypto markets predict Ethereum price for May 31, 2026](https://finbold.com/crypto-markets-predict-ethereum-price-for-may-31-2026/)**
+
+Prediction market traders are increasingly positioning for Ethereum (ETH) to remain above the $2,200 level by the end of May 2026.
+
+Finbold • 20h ago
 
 ---
 
@@ -246,7 +248,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 16K • 👍 336 • 💬 93 • ⏱️ 9:26 • 19h ago
+👁️ 16K • 👍 336 • 💬 93 • ⏱️ 9:26 • 20h ago
 
 ---
 
@@ -266,7 +268,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 699 • 💬 84 • ⏱️ 12:01 • 20h ago
+👁️ 19K • 👍 699 • 💬 84 • ⏱️ 12:01 • 21h ago
 
 ---
 
@@ -282,7 +284,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 349 • 💬 12 • ⏱️ 1:00 • 13h ago
+👁️ 8K • 👍 349 • 💬 12 • ⏱️ 1:00 • 14h ago
 
 ---
 
@@ -292,7 +294,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 186 • ⏱️ 10:13 • 11h ago
+👁️ 23K • 👍 1K • 💬 186 • ⏱️ 10:13 • 13h ago
 
 ---
 
@@ -302,7 +304,7 @@ KBW2026 tickets available now ...
 
 📺 Korea Blockchain Week
 
-👁️ 5K • 👍 146 • 💬 58 • ⏱️ 21:18 • 19h ago
+👁️ 5K • 👍 146 • 💬 58 • ⏱️ 21:18 • 20h ago
 
 ---
 
@@ -312,7 +314,7 @@ Ethereum is often treated like one of the “safe” crypto investments, but I t
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 556 • 👍 72 • 💬 44 • ⏱️ 12:08 • 14h ago
+👁️ 556 • 👍 72 • 💬 44 • ⏱️ 12:08 • 15h ago
 
 ---
 

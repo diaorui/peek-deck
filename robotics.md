@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-10T10:45:18.828735+00:00'
+updated: '2026-05-10T11:52:47.502329+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 10, 2026 at 10:45 UTC  
+**Last Updated:** May 10, 2026 at 11:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I first got into robotics, the biggest frustration I faced was that I couldn't just test real hardware in a simulation. Most simulators aren't built around prefabs, and the ones that are usually just give you 3D visual assets with zero actual behavior attached to them. So.... I built this simulator as a proof of concept to fix that. The focus here is strictly on beginners and creating an educational sandbox. You just drag and drop parts to build the robot, and then jump straight into scripting. The features: Prefab Assembly Built-in JS Editor (arduino like) Live Telemetry Note: As i was the only dev, to speed up, I leaned heavily on AI for coding assistance (used as a copilot, no autonomous agents were used).
 
-4h ago
+6h ago
 
 ---
 
@@ -44,13 +44,13 @@ Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-18h ago
+19h ago
 
 ---
 
 **[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -58,13 +58,21 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-15h ago
+16h ago
 
 ---
 
 **[Convex MPC for humanoid locomotion](https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/)**
 
-6h ago
+7h ago
+
+---
+
+**[Air Gesture Control, Zero Touch ✋🤖](https://www.reddit.com/r/robotics/comments/1t86tif/air_gesture_control_zero_touch/)**
+
+Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
+
+21h ago
 
 ---
 
@@ -76,31 +84,25 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 ---
 
-**[Air Gesture Control, Zero Touch ✋🤖](https://www.reddit.com/r/robotics/comments/1t86tif/air_gesture_control_zero_touch/)**
-
-Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
-
-20h ago
-
----
-
 **[BB1 Robot Project Status](https://www.reddit.com/r/robotics/comments/1t8feqw/bb1_robot_project_status/)**
 
 This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
 
-15h ago
+16h ago
+
+---
+
+**[rbot: an open-source AMR simulation stack for ROS 2 Jazzy and Gazebo Harmonic](https://www.reddit.com/r/robotics/comments/1t92d8q/rbot_an_opensource_amr_simulation_stack_for_ros_2/)**
+
+We are releasing rbot, an open-source Autonomous Mobile Robot simulation stack for ROS 2 Jazzy and Gazebo Harmonic. The project is built for teams, students, and ROS users who want a practical AMR baseline they can run, study, and adapt. It packages the core simulation workflow into one ROS 2 workspace: robot description, Gazebo simulation, ros2_control, teleoperation, sensors, localization, mapping, and Nav2 navigation. What is included: Gazebo Harmonic worlds and robot model URDF/Xacro description with generated mesh assets ros2_control differential-drive setup 2-D LiDAR, IMU, depth camera, stereo camera, GPS, and optional 3-D LiDAR paths EKF localization, SLAM Toolbox mapping, AMCL, and saved-map workflow Nav2 with MPPI controller and SMAC Hybrid-A* planner Docker, Docker Compose, VS Code Dev Container, CI, and tests The quick workflow follows the same path a user would take with a real AMR project: map the environment, save the map, localize against it, and send navigation goals in RViz. Gazebo Harmonic is the supported simulator today. Isaac Sim integration is planned. Repository: https://github.com/rlxai/rbot Demo video: YouTube Link We would welcome feedback from the ROS and robotics community, especially around navigation tuning, reproducible simulation scenarios, launch validation, and teaching workflows.
+
+2h ago
 
 ---
 
 **[Why your CFRP structure fails before the fiber does](https://www.reddit.com/r/robotics/comments/1t918af/why_your_cfrp_structure_fails_before_the_fiber/)**
 
-2h ago
-
----
-
-**[Linux Native CAN Viewer](https://www.reddit.com/r/robotics/comments/1t912ws/linux_native_can_viewer/)**
-
-2h ago
+3h ago
 
 ---
 
@@ -120,7 +122,7 @@ The Washington Post • 2d ago
 
 Regional qualifying competition in Newport this weekend could send an Oregon underwater robots team to the world championships.
 
-Oregon Public Broadcasting - OPB • 20h ago
+Oregon Public Broadcasting - OPB • 21h ago
 
 ---
 
@@ -128,7 +130,7 @@ Oregon Public Broadcasting - OPB • 20h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 19h ago
 
 ---
 
@@ -142,7 +144,7 @@ Rocket Lab • 2d ago
 
 **[Rocket Lab announces large launch contract and plans to acquire space robotics company](https://spacenews.com/rocket-lab-announces-large-launch-contract-and-plans-to-acquire-space-robotics-company/)**
 
-SpaceNews • 1d ago
+SpaceNews • 2d ago
 
 ---
 
@@ -162,19 +164,19 @@ Global Times • 1d ago
 
 ---
 
+**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.wtae.com/article/western-pennsylvania-school-for-deaf-robotics-championship/71257710)**
+
+Western Pennsylvania School for the Deaf is celebrating a big win: A national title for the school's robotics team.
+
+WTAE • 1d ago
+
+---
+
 **[Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)**
 
 “The smart home is getting kind of boring.”
 
 The Verge • 1d ago
-
----
-
-**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
-
-Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
-
-Business Insider • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearsl
 
 📺 FUN Robotics Network
 
-👁️ 5K • 👍 51 • 💬 3 • ⏱️ 0:14 • 13h ago
+👁️ 5K • 👍 51 • 💬 3 • ⏱️ 0:14 • 14h ago
 
 ---
 
@@ -282,7 +284,7 @@ Scorpion is back and actually good. The meta is all over the place right now but
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 495 • 💬 44 • ⏱️ 16:03 • 22h ago
+👁️ 11K • 👍 495 • 💬 44 • ⏱️ 16:03 • 23h ago
 
 ---
 
