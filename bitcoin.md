@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T17:54:58.150296+00:00'
+updated: '2026-05-10T19:05:51.270614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 17:54 UTC  
+**Last Updated:** May 10, 2026 at 19:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,450.00
+### $82,126.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +1.8%  
-**30d:** +11.3%  
-**90d:** +18.2%  
-**1y:** -21.9%  
+**24h:** +0.5%  
+**7d:** +1.6%  
+**30d:** +11.1%  
+**90d:** +17.9%  
+**1y:** -22.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1629.45B
+**Market Cap:** $1625.71B
 Rank #1
 
-**Circulating Supply:** 20,027,437 BTC
+**Circulating Supply:** 20,027,521 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.5%
+-35.6%
 
 **All-Time Low:** $67.81
-+119889.7%
++119616.9%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Nothing beats bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1t965b4/nothing_beats_bitcoin/)**
-
-Except girls
-
-5h ago
-
----
-
 **[Where the doom and gloomers from February?](https://www.reddit.com/r/Bitcoin/comments/1t99xay/where_the_doom_and_gloomers_from_february/)**
 
 When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
 
-2h ago
+3h ago
+
+---
+
+**[Nothing beats bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1t965b4/nothing_beats_bitcoin/)**
+
+Except girls
+
+6h ago
 
 ---
 
@@ -97,7 +97,15 @@ When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seem
 
 Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
 
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 11h ago
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 12h ago
+
+---
+
+**[The psychological revenge of the green candle: Why Bitcoin is more than just an investment for many.](https://www.reddit.com/r/Bitcoin/comments/1t9djvx/the_psychological_revenge_of_the_green_candle_why/)**
+
+The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeling that maybe… you weren’t crazy after all. For years people treated Bitcoin holders like idiots, gamblers, cult members, whatever. So when the chart finally goes green, you’re not just feeling profit, you’re feeling relief. Like years of being mocked suddenly got a little quieter. That’s why crypto gets so emotional sometimes. For a lot of people, it stopped being just an investment a long time ago. Every green candle feels like revenge against everyone who called you stupid.
+
+1h ago
 
 ---
 
@@ -105,7 +113,7 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 What do you think of the BTC price would be by xmas this year?
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +121,7 @@ What do you think of the BTC price would be by xmas this year?
 
 3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
 
-6h ago
+7h ago
 
 ---
 
@@ -121,21 +129,7 @@ What do you think of the BTC price would be by xmas this year?
 
 Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
 
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 20h ago
-
----
-
-**[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
-
-1d ago
-
----
-
-**[BTC & Music Industry](https://www.reddit.com/r/Bitcoin/comments/1t9a5r1/btc_music_industry/)**
-
-In my eyes until rappers are flexing about how many BTC they have we are mad early lol On a more serious note I believe BTC is gonna have a renaissance type effect on the art and commerce world. Wish there was more artist talking about BTC. It would change the independent/indie game for the better
-
-2h ago
+🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 21h ago
 
 ---
 
@@ -143,15 +137,21 @@ In my eyes until rappers are flexing about how many BTC they have we are mad ear
 
 I got a friend every time bitcoin is doing great says tell me more I might invest, when its down he just makes fun of me like its going to zero and I'm still in the green. He's not a retard but wow he's a ******* retard
 
-2h ago
+3h ago
 
 ---
 
-**[Bitcoin Art: Genesis Edition Hardcover Book /121](https://www.reddit.com/r/Bitcoin/comments/1t93jfy/bitcoin_art_genesis_edition_hardcover_book_121/)**
+**[BTC & Music Industry](https://www.reddit.com/r/Bitcoin/comments/1t9a5r1/btc_music_industry/)**
 
-Featuring full-page artwork from more than thirty-five of the world’s leading Bitcoin Artists. Adam Kadmon, 5Ksana, Alex Schaefer, Anik Malcolm, Ariel Birdie, Bitcoin Trading Cards, Bitcoin Apex, Bitko Yinowsky, Brekkie Von Bitcoin, Chiefmonkey, CypherpunkNow, Dustin Trammell, Gareth Eckley, George Bodine, Gus Grillasca, FractalEncrypt, Kanuto, Madex, MadMunky, Marcus Connor, Maxis Club, MEAR ONE, Missatoshi_girl, mx12Art, Modeotec, Pepenardo, Psyfer, Puzzle, Rare Scrilla, RYR, Sea is Medicine, Studio Zeitwerk, Tommy, Yonat Vaks, Zetra, and Asanoha. A gallery in the palm of your hand. • Cover art: The Bitcoin Full Node Sculpture by FractalEncrypt. • Includes a /121 signed and numbered archival serigraph print from Asanoha. • Individually serialized. • Over 121 pages. • Over 60 pages of full-page art. • High quality print. • Smyth sewn binding. • Includes artist statements and descriptions. • Ad free. • Includes one complimentary Genesis Edition /1720 magazine. • 8.5 x 11”
+In my eyes until rappers are flexing about how many BTC they have we are mad early lol On a more serious note I believe BTC is gonna have a renaissance type effect on the art and commerce world. Wish there was more artist talking about BTC. It would change the independent/indie game for the better
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=2tHiPZXlEh4&pp=ygUWQml0Y29pbmFydG1hZ2F6aW5lLmNvbdIHCQkDCwGHKiGM7w%3D%3D&ra=m) • 7h ago
+3h ago
+
+---
+
+**[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
+
+1d ago
 
 ---
 
@@ -175,11 +175,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over](https://www.tradingview.com/news/cointelegraph:306f9e98d094b:0-bitcoin-holds-80k-into-weekly-close-as-traders-say-btc-price-dip-not-yet-over/)**
+**[Bitcoin Price To $1M? VanEck Makes Bullish Five Year Prediction, Joining BitWise and Others](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-1m-vaneck-makes-180215173.html)**
 
-Bitcoin (BTC) eyed $81,000 into Sunday’s weekly close as traders saw a fresh support retest next.Key points:Bitcoin traders: Sub-$80,000 retest nextData from TradingView showed BTC price action trending higher after a mostly flat weekend, avoiding a return below $80,000.BITSTAMP:BTCUSD one-hour cha…
+Bitwise CIO Matt Hougan says Bitcoin could reach $1 million in about 10 years. Bitcoin ETFs have returned to net inflows. Some analysts project major ...
 
-TradingView • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,43 +187,21 @@ TradingView • 2h ago
 
 The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-peter-brandt-130955200.html)**
+**[Bitcoin trades above $80k milestone amid legislative progress and banking shift](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-80k-milestone-amid-legislative-progress-and-banking-shift-4674763)**
 
-Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
-
-Yahoo Finance • 1d ago
+Investing.com • 11h ago
 
 ---
 
-**[Strategy CEO Outlines When It Will Sell Bitcoin](https://bitbo.io/news/strategy-ceo-bitcoin-sell-conditions/)**
+**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
 
-Strategy CEO Phong Le says the company will sell bitcoin only when doing so is more accretive to shareholders than issuing equity, primarily to fund preferred stock dividends.
+Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Bitbo • 11h ago
-
----
-
-**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
-
-WSJ • 4d ago
-
----
-
-**[Bitcoin climbs near $81k on institutional adoption boost; Iran response looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-80000-as-institutional-adoption-signals-global-finance-shift-4674598)**
-
-Investing.com • 1d ago
-
----
-
-**[Is now the time to get back into Bitcoin?](https://nypost.com/business/is-bitcoin-a-good-investment-right-now-what-to-know/)**
-
-Bitcoin’s price has dropped 50% from its 2025 peak. Explore the risks and opportunities before you get back in.
-
-New York Post • 1d ago
+Decrypt • 2h ago
 
 ---
 
@@ -232,6 +210,28 @@ New York Post • 1d ago
 Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
 Fortune • 2d ago
+
+---
+
+**[Strategy CEO Outlines When It Will Sell Bitcoin](https://bitbo.io/news/strategy-ceo-bitcoin-sell-conditions/)**
+
+Strategy CEO Phong Le says the company will sell bitcoin only when doing so is more accretive to shareholders than issuing equity, primarily to fund preferred stock dividends.
+
+Bitbo • 12h ago
+
+---
+
+**[Strategy CEO on selling bitcoin: When it's better than issuing equity to pay dividends, we'll do it](https://www.cnbc.com/video/2026/05/08/strategy-ceo-on-selling-bitcoin-when-its-better-than-issuing-equity-to-pay-dividends-well-do-it.html)**
+
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
+
+CNBC • 2d ago
+
+---
+
+**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
+
+WSJ • 4d ago
 
 ---
 
@@ -251,7 +251,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -281,13 +281,13 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 1 • 💬 0 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+⬆️ 2 • 💬 0 • 5h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 23h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 1d ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -317,17 +317,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 249 • 💬 13 • ⏱️ 14:18 • 1d ago
-
----
-
-**[⚠️ Bitcoin May Fall to $40,000](https://www.youtube.com/watch?v=G15aM4MbBgw)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 1K • 👍 115 • 💬 54 • ⏱️ 7:45 • 6h ago
+👁️ 7K • 👍 261 • 💬 153 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -337,17 +327,37 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 178 • 💬 181 • ⏱️ 11:27 • 4h ago
+👁️ 6K • 👍 288 • 💬 142 • ⏱️ 11:27 • 5h ago
 
 ---
 
-**[US Bitcoin Reserve: Innovative Funding Revealed! 💰 | Cody Carbone](https://www.youtube.com/watch?v=08JXx7FnQUI)**
+**[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
 
-Cody Carbone, CEO at The Digital Chamber, shares his thoughts on the upcoming Strategic Bitcoin Reserve announcement and ...
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
 
-📺 Thinking Crypto
+📺 Crypto Banter
 
-👁️ 213 • 👍 15 • 💬 8 • ⏱️ 2:02 • 2h ago
+👁️ 12K • 👍 757 • 💬 24 • ⏱️ 16:15 • 7h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Weekly Outlook: Bullish Short Term, Bearish Bigger Picture](https://www.youtube.com/watch?v=Gy3JR-dcb1g)**
+
+Bitcoin continues to push higher and the current structure still allows for a move toward the $90K to $95K region before a larger ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 509 • 💬 47 • ⏱️ 17:12 • 5h ago
+
+---
+
+**[⚠️ Bitcoin May Fall to $40,000](https://www.youtube.com/watch?v=G15aM4MbBgw)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 144 • 💬 62 • ⏱️ 7:45 • 7h ago
 
 ---
 
@@ -357,57 +367,45 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Cap
 
 📺 Aaron Bennett
 
-👁️ 13K • 👍 566 • 💬 146 • ⏱️ 9:05 • 20h ago
+👁️ 14K • 👍 592 • 💬 268 • ⏱️ 9:05 • 21h ago
 
 ---
 
-**[I will delete this video in 24 hours (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
+**[Bitcoin ETFs Are Doing Something They Haven&#39;t Done in 9 Months](https://www.youtube.com/watch?v=zsi6gkOcP60)**
+
+Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak in 9 months. BlackRock just expanded its tokenized ...
+
+📺 Digital Asset News
+
+👁️ 11K • 👍 700 • 💬 57 • ⏱️ 35:29 • 23h ago
+
+---
+
+**[Bitcoin ecosystem is growing. #bitcoin #mstr #investing #coffeezilla](https://www.youtube.com/watch?v=Bhalas2pnXE)**
+
+📺 True North
+
+👁️ 237 • 👍 11 • ⏱️ 0:37 • 50m ago
+
+---
+
+**[3 Experts DEBATE Crypto Price Predictions (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
 
 Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 231 • ⏱️ 11:32 • 1d ago
+👁️ 44K • 👍 2K • 💬 231 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Saylor Just Broke Bitcoin’s Golden Rule, Here&#39;s Why It&#39;s Genius!](https://www.youtube.com/watch?v=eNfxKvPTs8A)**
+**[BITCOIN: Don&#39;t Take The BAIT! (it’s a trap) - BTC Price Prediction Today](https://www.youtube.com/watch?v=fFsKawYob8E)**
 
-Michael Saylor just announced on Strategy's Q1 2026 earnings call that the company is willing to sell Bitcoin — after years of ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Simply Bitcoin
+📺 BitcoinHyper
 
-👁️ 83K • 👍 3K • 💬 412 • ⏱️ 15:19 • 2d ago
-
----
-
-**[What Happens If MicroStrategy Sells Bitcoin The Next Few Weeks Are Going To Be INTENSE For Crypto](https://www.youtube.com/watch?v=FOHlAZfaCl4)**
-
-It looks like we're coming to the convergence point my friends. Bitcoin and the wider cryptocurrency space are showing signals ...
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 384 • 💬 102 • ⏱️ 32:03 • 7h ago
-
----
-
-**[You Wont believe what JP Morgan Says WILL Drive Bitcoins NEXT MOVE! | EP 1500](https://www.youtube.com/watch?v=yz7DViZB5eg)**
-
-Jp Morgan report explains what investors are thinking about bitcoin since the war in Iran started .
-
-📺 Simply Bitcoin
-
-👁️ 8K • 👍 375 • 💬 76 • ⏱️ 1:18:33 • 1d ago
-
----
-
-**[Michael Saylor: ‘We’re Prepared To Sell Bitcoin&#39; - Historic Move Revealed](https://www.youtube.com/watch?v=KhtYB48ktDY)**
-
-Get 20% off DeleteMe by going to https://joindeleteme.com/DAVIDLIN and use code DAVIDLIN to protect your privacy!
-
-📺 David Lin 
-
-👁️ 65K • 👍 2K • 💬 1K • ⏱️ 26:40 • 1d ago
+👁️ 12K • 👍 661 • 💬 66 • ⏱️ 15:25 • 1d ago
 
 ---
 

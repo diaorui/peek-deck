@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T17:54:58.154395+00:00'
+updated: '2026-05-10T19:05:51.275805+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 17:54 UTC  
+**Last Updated:** May 10, 2026 at 19:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +0.1%  
-**30d:** +2.8%  
-**90d:** +16.3%  
-**1y:** -6.5%  
+**24h:** +1.0%  
+**7d:** +0.3%  
+**30d:** +2.9%  
+**90d:** +16.5%  
+**1y:** -6.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.24B
+**Market Cap:** $283.87B
 Rank #2
 
 **Circulating Supply:** 120,686,604 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.6%
+-52.4%
 
 **All-Time Low:** $0.43
-+541803.9%
++543194.2%
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
-
----
-
-**[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
-
-3h ago
+14h ago
 
 ---
 
@@ -86,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +88,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-2h ago
+3h ago
+
+---
+
+**[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
+
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ I have learned the following: solidity basics using cryptozombies smart contract
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
-16h ago
+17h ago
 
 ---
 
@@ -158,6 +158,22 @@ The Motley Fool • 3d ago
 
 ---
 
+**[Bitmine’s Tom Lee Bets Big On Ethereum With New 2026 Prediction](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-bets-big-102958467.html)**
+
+Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
+
+Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
+
+Decrypt • 2h ago
+
+---
+
 **[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
 
 Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
@@ -166,17 +182,9 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Bitmine’s Tom Lee Bets Big On Ethereum With New 2026 Prediction](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-bets-big-102958467.html)**
-
-Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
-
-Yahoo Finance • 7h ago
-
----
-
 **[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -184,7 +192,7 @@ AMBCrypto • 8h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -192,15 +200,7 @@ markets.businessinsider.com • 14h ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 23h ago
-
----
-
-**[Ethereum Sees Sharp Decline In High-Leverage Long Positions — See What Happens Next](https://www.tradingview.com/news/newsbtc:beddfed57094b:0-ethereum-sees-sharp-decline-in-high-leverage-long-positions-see-what-happens-next/)**
-
-Ethereum is experiencing a notable shift in derivatives positioning as high-leverage long positions decline sharply across the market. The reduction suggests that many overly aggressive bullish trades have either been closed voluntarily or forced out through recent liquidation events.Could Ethereum…
-
-TradingView • 1d ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -220,9 +220,11 @@ DailyCoin • 2d ago
 
 ---
 
-**[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
+**[Ethereum Is Going Up While Shorts Are Piling In: Find Out What Usually Follows](https://www.tradingview.com/news/newsbtc:1278524b0094b:0-ethereum-is-going-up-while-shorts-are-piling-in-find-out-what-usually-follows/)**
 
-TipRanks • 1d ago
+Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
+
+TradingView • 1d ago
 
 ---
 
@@ -230,33 +232,33 @@ TipRanks • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETH Becoming Institutional MONEY🚀Ethereum Staking Skyrockets](https://www.youtube.com/watch?v=E--gw7SQuK4)**
-
-Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growing role in digital finance. Speaking at the ...
-
-📺 Paul Barron Network
-
-👁️ 50K • 👍 2K • 💬 178 • ⏱️ 14:48 • 1d ago
-
----
-
 **[Is Ethereum STILL Undervalued? (Deep Explanation)](https://www.youtube.com/watch?v=Li55ZmSjE8U)**
 
 If you're concerned about scams or want to keep an eye on your credit, check out https://OmniWatch.com/iced for 50% off your first ...
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 17K • 👍 344 • 💬 97 • ⏱️ 9:26 • 1d ago
+👁️ 17K • 👍 349 • 💬 97 • ⏱️ 9:26 • 1d ago
 
 ---
 
-**[I will delete this video in 24 hours (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
+**[BULLISH NEWS FOR ETHEREUM🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7qwXBdr4mRM)**
 
-Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Altcoin Daily
+📺 Cilinix Crypto
 
-👁️ 43K • 👍 2K • 💬 231 • ⏱️ 11:32 • 1d ago
+👁️ 247 • 👍 12 • 💬 1 • ⏱️ 4:55 • 9h ago
+
+---
+
+**[ETH Becoming Institutional MONEY🚀Ethereum Staking Skyrockets](https://www.youtube.com/watch?v=E--gw7SQuK4)**
+
+Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growing role in digital finance. Speaking at the ...
+
+📺 Paul Barron Network
+
+👁️ 51K • 👍 2K • 💬 180 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -266,23 +268,27 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 749 • 💬 89 • ⏱️ 12:01 • 1d ago
+👁️ 21K • 👍 760 • 💬 93 • ⏱️ 12:01 • 1d ago
 
 ---
 
-**[MY TOP 3 CRYPTOS I WOULD START RESEARCHING NOW #xrp #ethereum #ondo #bitcoin](https://www.youtube.com/watch?v=LiIdBY7BGN0)**
+**[Bitcoin &amp; Ethereum Weekly Outlook: Bullish Short Term, Bearish Bigger Picture](https://www.youtube.com/watch?v=Gy3JR-dcb1g)**
 
-📺 CryptoWendyO
+Bitcoin continues to push higher and the current structure still allows for a move toward the $90K to $95K region before a larger ...
 
-👁️ 9K • 👍 381 • 💬 13 • ⏱️ 1:00 • 20h ago
+📺 More Crypto Online
+
+👁️ 6K • 👍 509 • 💬 47 • ⏱️ 17:12 • 5h ago
 
 ---
 
-**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
+**[3 Experts DEBATE Crypto Price Predictions (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
 
-📺 CryptoWendyO
+Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
 
-👁️ 8K • 👍 495 • 💬 38 • ⏱️ 2:31 • 1d ago
+📺 Altcoin Daily
+
+👁️ 44K • 👍 2K • 💬 231 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -292,27 +298,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 166 • ⏱️ 10:13 • 19h ago
-
----
-
-**[Tom Lee: Strategic Ethereum Accumulation and BitMine at KBW2025](https://www.youtube.com/watch?v=aMaYRXYPhjA)**
-
-KBW2026 tickets available now ...
-
-📺 Korea Blockchain Week
-
-👁️ 6K • 👍 165 • 💬 75 • ⏱️ 21:18 • 1d ago
-
----
-
-**[Ethereum’s Price Can Easily Collapse](https://www.youtube.com/watch?v=upfjbIP7liE)**
-
-Ethereum is often treated like one of the “safe” crypto investments, but I think ETH is sitting on a dangerous house of cards.
-
-📺 Jerry Banfield Crypto Reviews
-
-👁️ 712 • 👍 78 • 💬 54 • ⏱️ 12:08 • 21h ago
+👁️ 30K • 👍 2K • 💬 276 • ⏱️ 10:13 • 20h ago
 
 ---
 
@@ -322,7 +308,25 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 179 • 💬 181 • ⏱️ 11:27 • 4h ago
+👁️ 6K • 👍 288 • 💬 142 • ⏱️ 11:27 • 5h ago
+
+---
+
+**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 509 • 💬 43 • ⏱️ 2:31 • 1d ago
+
+---
+
+**[Crypto Exchanges Don&#39;t Want You to See This (ETH Fees Trick)](https://www.youtube.com/watch?v=7SNQS9u4rlc)**
+
+You don't have to pay $42 to send $30 in crypto! This video rips the lid off Ethereum's hidden fee structure and reveals the three ...
+
+📺 Coin Bureau
+
+👁️ 11K • 👍 474 • 💬 63 • ⏱️ 12:24 • 2d ago
 
 ---
 
