@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T22:09:50.240118+00:00'
+updated: '2026-05-10T23:26:19.749053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 22:09 UTC  
+**Last Updated:** May 10, 2026 at 23:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,840.26
+### $82,314.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.9%  
-**30d:** +10.3%  
-**90d:** +17.1%  
-**1y:** -22.6%  
+**24h:** +2.0%  
+**7d:** +3.0%  
+**30d:** +12.6%  
+**90d:** +19.5%  
+**1y:** -21.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1618.60B
+**Market Cap:** $1647.35B
 Rank #1
 
-**Circulating Supply:** 20,027,568 BTC
+**Circulating Supply:** 20,027,587 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.9%
+-34.8%
 
 **All-Time Low:** $67.81
-+119052.0%
++121212.5%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden surge of 200,000 fake P2P addresses. https://twitter.com/lopp/status/2053449976320061460 https://nitter.net/lopp/status/2053449976320061460 https://www.dsn.kastel.kit.edu/bitcoin/ Tagging u/Statoshi A large-scale infrastructure anomaly has been detected in Bitcoin's P2P network, potentially representing hidden preparation for a technical attack. Starting on April 9, 2026, the chart tracking unsolicited network messages (ADDR) showed a vertical spike: the number of fake and unreachable node addresses surged from a baseline of 50,000 to more than 250,000 per day. The graphical spike was highlighted by well-known developer and Casa co-founder Jameson Lopp, who suggested that someone may be intentionally flooding communication channels with false coordinates as part of preparations for a Sybil attack. Signs of a stealth sybil attack against Bitcoin The attacker appears to have chosen a silent strategy. Instead of directly attacking block validation or transaction processing, unknown actors are attempting to rewrite Bitcoin's "phone book" - nodes exchange each other's addresses through ADDR commands so that new participants can quickly discover peers for synchronization. By flooding the network with hundreds of thousands of fake IP addresses, the attacker is probably attempting to ensure that newly launched or restarted nodes connect exclusively to nonexistent or attacker-controlled "ghost nodes". In theory, such a tactic could lead to an Eclipse attack, where a legitimate node becomes trapped in an informational vacuum and only sees the version of the blockchain presented by the attacker. However, in order to remain secure and receive accurate blockchain data, a node only needs to establish a connection with at least one honest participant in the network. Bitcoin's client software also automatically distributes connections across different subnets, making it difficult for an attacker to monopolize all connection slots from a single IP address pool. At the moment, the anomaly appears to create more parasitic bandwidth load than a direct threat to consensus itself.
 
-🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 2h ago
+🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 3h ago
+
+---
+
+**[What would you do if Bitcoin hit 1 million?](https://www.reddit.com/r/Bitcoin/comments/1t9jlmf/what_would_you_do_if_bitcoin_hit_1_million/)**
+
+Like anybody else probably, retire by dca, live life as usual
+
+1h ago
 
 ---
 
@@ -89,7 +97,15 @@ Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden su
 
 When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
 
-6h ago
+8h ago
+
+---
+
+**[The funniest thing about Bitcoin is that the people who told you it was “too late” at $1k are now saying it’s too late at $100k](https://www.reddit.com/r/Bitcoin/comments/1t9k1k2/the_funniest_thing_about_bitcoin_is_that_the/)**
+
+I swear every single time Bitcoin goes up people suddenly act like nobody can ever make money from it again 😭 people said it was “too late” at 1k, then 10k, then 30k and now at 100k+ too But whenever it crashes those same people call it a dead scam and say it’s over forever, and at this point I honestly think most people don’t actually have an opinion on Bitcoin, they just react emotionally to whatever the price is that week lol
+
+1h ago
 
 ---
 
@@ -97,7 +113,7 @@ When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seem
 
 Except girls
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +121,7 @@ Except girls
 
 The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeling that maybe… you weren’t crazy after all. For years people treated Bitcoin holders like idiots, gamblers, cult members, whatever. So when the chart finally goes green, you’re not just feeling profit, you’re feeling relief. Like years of being mocked suddenly got a little quieter. That’s why crypto gets so emotional sometimes. For a lot of people, it stopped being just an investment a long time ago. Every green candle feels like revenge against everyone who called you stupid.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +129,15 @@ The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeli
 
 Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
 
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 15h ago
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 17h ago
+
+---
+
+**[Whats that?](https://www.reddit.com/r/Bitcoin/comments/1t9lxbc/whats_that/)**
+
+Anyone else hearing that sound? Because for the last few days it’s been getting louder: the train leaving the station. Every cycle has the same crowd standing on the platform yelling “bottom not in yet” while the market quietly starts front-running them. Same script, different candles. They wait for the perfect entry, then wait for confirmation, then wait for a pullback, then suddenly they’re buying higher and calling it “risk management.” Not financial advice. Just the sound of steel on rails 👋
+
+15m ago
 
 ---
 
@@ -121,7 +145,7 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 What do you think of the BTC price would be by xmas this year?
 
-8h ago
+9h ago
 
 ---
 
@@ -129,31 +153,7 @@ What do you think of the BTC price would be by xmas this year?
 
 3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
 
-10h ago
-
----
-
-**[That one friend](https://www.reddit.com/r/Bitcoin/comments/1t99jon/that_one_friend/)**
-
-I got a friend every time bitcoin is doing great says tell me more I might invest, when its down he just makes fun of me like its going to zero and I'm still in the green. He's not a retard but wow he's a ******* retard
-
-6h ago
-
----
-
-**[Bitcoin outperforms gold by roughly 36% since Iran war began](https://www.reddit.com/r/Bitcoin/comments/1t8ntj4/bitcoin_outperforms_gold_by_roughly_36_since_iran/)**
-
-Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
-
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 1d ago
-
----
-
-**[BTC & Music Industry](https://www.reddit.com/r/Bitcoin/comments/1t9a5r1/btc_music_industry/)**
-
-In my eyes until rappers are flexing about how many BTC they have we are mad early lol On a more serious note I believe BTC is gonna have a renaissance type effect on the art and commerce world. Wish there was more artist talking about BTC. It would change the independent/indie game for the better
-
-6h ago
+12h ago
 
 ---
 
@@ -169,6 +169,22 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-peter-brandt-130955200.html)**
+
+Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin news: Soon, traders will be able to bet on BTC volatility, not just price, on CME](https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme)**
+
+CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.
+
+CoinDesk • 1d ago
+
+---
+
 **[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
 
 Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
@@ -177,25 +193,19 @@ Forbes • 1d ago
 
 ---
 
-**[The hottest ETF since bitcoin-mania just added $1 billion in a day](https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html)**
+**[SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle](https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html)**
 
-Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.
+The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
-CNBC • 2d ago
-
----
-
-**[Why bitcoin prices above $76K by June would signal a bull market](https://finance.yahoo.com/video/why-bitcoin-prices-above-76k-180000208.html)**
-
-Fundstrat co-founder Tom Lee, or the "Michael Saylor of ethereum (ETH-USD)," said that bitcoin (BTC-USD) prices above $76,000 by the end of May would indicate that we're in a bull market. Scott Melker explains more in the video above. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
+CNBC • 11h ago
 
 ---
 
-**[Bitcoin trades above $80k milestone amid legislative progress and banking shift](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-80k-milestone-amid-legislative-progress-and-banking-shift-4674763)**
+**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
 
-Investing.com • 14h ago
+Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
+
+Decrypt • 6h ago
 
 ---
 
@@ -203,7 +213,13 @@ Investing.com • 14h ago
 
 As January was ending, two teenagers living on the outskirts of idyllic Pismo Beach – recently named “best small coastal town in America” by USA Today – took a long,
 
-Scottsdale Progress • 15h ago
+Scottsdale Progress • 16h ago
+
+---
+
+**[Bitcoin trades above $80k milestone amid legislative progress and banking shift](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-80k-milestone-amid-legislative-progress-and-banking-shift-4674763)**
+
+Investing.com • 15h ago
 
 ---
 
@@ -212,22 +228,6 @@ Scottsdale Progress • 15h ago
 Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
 
 Fortune • 2d ago
-
----
-
-**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
-
-Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
-
-Decrypt • 5h ago
-
----
-
-**[Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?](https://www.tradingview.com/news/cointelegraph:54e14fee7094b:0-ethereum-down-35-versus-bitcoin-in-a-year-will-the-eth-price-downtrend-continue/)**
-
-Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
-
-TradingView • 5h ago
 
 ---
 
@@ -283,7 +283,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 2 • 💬 0 • 8h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+⬆️ 2 • 💬 0 • 9h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
@@ -297,7 +297,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
 
-⬆️ 5 • 💬 2 • 2d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+⬆️ 5 • 💬 2 • 3d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
 
 ---
 
@@ -319,37 +319,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 865 • 💬 27 • ⏱️ 16:15 • 10h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZIJUh-L4gWM)**
-
-BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 333 • 💬 128 • ⏱️ 11:27 • 8h ago
-
----
-
-**[Cathie Wood :&quot;This Is Why Bitcoin Could Jump $100K In Days&quot; | BTC Update 2026](https://www.youtube.com/watch?v=28Pay65kLKY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 275 • 💬 130 • ⏱️ 14:18 • 1d ago
-
----
-
-**[⚠️ Bitcoin May Fall to $40,000](https://www.youtube.com/watch?v=G15aM4MbBgw)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 151 • 💬 63 • ⏱️ 7:45 • 10h ago
+👁️ 18K • 👍 949 • 💬 44 • ⏱️ 16:15 • 11h ago
 
 ---
 
@@ -359,27 +329,7 @@ Hurley talks about Bitcoin: The Calm Eye of the Storm Brought to you by Bitcoinw
 
 📺 Simply Bitcoin
 
-👁️ 782 • 👍 37 • 💬 30 • ⏱️ 0:34 • 7h ago
-
----
-
-**[Bitcoin&#39;s Bottom Was $60K - Anthony Pompiliano](https://www.youtube.com/watch?v=Qh5YmtYGG00)**
-
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
-
-📺 Crypto Banter
-
-👁️ 2K • 👍 25 • ⏱️ 0:35 • 8h ago
-
----
-
-**[Bitcoin &amp; Ethereum Weekly Outlook: Bullish Short Term, Bearish Bigger Picture](https://www.youtube.com/watch?v=Gy3JR-dcb1g)**
-
-Bitcoin continues to push higher and the current structure still allows for a move toward the $90K to $95K region before a larger ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 580 • 💬 39 • ⏱️ 17:12 • 8h ago
+👁️ 970 • 👍 45 • 💬 29 • ⏱️ 0:34 • 8h ago
 
 ---
 
@@ -389,17 +339,47 @@ The Clarity Act is being sold as stablecoin regulation, but the real story is mu
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 171 • ⏱️ 17:10 • 23h ago
+👁️ 12K • 👍 1K • 💬 171 • ⏱️ 17:10 • 1d ago
 
 ---
 
-**[Strategy CEO on selling bitcoin: When it&#39;s better than issuing equity to pay dividends, we&#39;ll do it](https://www.youtube.com/watch?v=qpkvpSp-wBY)**
+**[Bitcoin&#39;s Bottom Was $60K - Anthony Pompiliano](https://www.youtube.com/watch?v=Qh5YmtYGG00)**
 
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
 
-📺 CNBC Television
+📺 Crypto Banter
 
-👁️ 19K • 👍 159 • 💬 133 • ⏱️ 4:14 • 2d ago
+👁️ 3K • 👍 27 • ⏱️ 0:35 • 9h ago
+
+---
+
+**[US Bitcoin Reserve: Innovative Funding Revealed! 💰 | Cody Carbone](https://www.youtube.com/watch?v=08JXx7FnQUI)**
+
+Cody Carbone, CEO at The Digital Chamber, shares his thoughts on the upcoming Strategic Bitcoin Reserve announcement and ...
+
+📺 Thinking Crypto
+
+👁️ 698 • 👍 39 • 💬 11 • ⏱️ 2:02 • 8h ago
+
+---
+
+**[⚠️ Bitcoin May Fall to $40,000](https://www.youtube.com/watch?v=G15aM4MbBgw)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 157 • 💬 26 • ⏱️ 7:45 • 11h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZIJUh-L4gWM)**
+
+BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 9h ago
 
 ---
 
@@ -409,7 +389,27 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Cap
 
 📺 Aaron Bennett
 
-👁️ 14K • 👍 613 • 💬 259 • ⏱️ 9:05 • 1d ago
+👁️ 15K • 👍 626 • 💬 259 • ⏱️ 9:05 • 1d ago
+
+---
+
+**[Bitcoin ETFs Are Doing Something They Haven&#39;t Done in 9 Months](https://www.youtube.com/watch?v=zsi6gkOcP60)**
+
+Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak in 9 months. BlackRock just expanded its tokenized ...
+
+📺 Digital Asset News
+
+👁️ 11K • 👍 714 • 💬 57 • ⏱️ 35:29 • 1d ago
+
+---
+
+**[Michael Saylor - &quot;This Is EXACTLY Why We Are Preparing to Sell Bitcoin Before June&quot;](https://www.youtube.com/watch?v=Viqn1MpJc7w)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 85 • 💬 24 • ⏱️ 16:52 • 6h ago
 
 ---
 
