@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-10T19:05:51.278664+00:00'
+updated: '2026-05-10T20:09:57.645652+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 10, 2026 at 19:05 UTC  
+**Last Updated:** May 10, 2026 at 20:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 This is Bimo walking completely standalone: no data cable, no external compute, just a battery and an RP2040 (custom board) running the walking policy natively at ~5.2ms inference time. The main walking model trains on thousands of parallel environments in Isaac Lab. That policy gets distilled down to a tiny student network and compiled directly into the MCU firmware. Here's the pipeline: Train a standard 256×128×64 teacher model in Isaac Lab (~5min on an RTX 4080) Distill it into a 64×32 student network (~30s, yep, I was surprised too) Export as pure C using onnx2c Compile into the RP2040 firmware via Arduino IDE Inference runs at 5.0-5.2ms, comfortably within the 50ms control loop The full distillation pipeline, the standalone MCU inference code, and the Bimo API ported to ROS2 nodes are all coming in the next update (v1.1). ROS2 was a direct request from the last Reddit post, so that's in. Has anyone else run RL locomotion policies natively on an MCU? How small have you made the student network before significantly degrading performance? If you want to follow the development, join the Discord server, all updates go there first. Code update to v1.1 will be available on GitHub soon.
 
-6h ago
+7h ago
 
 ---
 
 **[A custom lego robot taking a beer up some stairs without spilling](https://www.reddit.com/r/robotics/comments/1t9cmc4/a_custom_lego_robot_taking_a_beer_up_some_stairs/)**
 
-1h ago
+3h ago
 
 ---
 
 **[look at this neat little feature in development for humanoid robots](https://www.reddit.com/r/robotics/comments/1t9a67c/look_at_this_neat_little_feature_in_development/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -56,7 +56,7 @@ This is Bimo walking completely standalone: no data cable, no external compute, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lA8WuXDXfcI) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lA8WuXDXfcI) • 3h ago
 
 ---
 
@@ -64,7 +64,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I first got into robotics, the biggest frustration I faced was that I couldn't just test real hardware in a simulation. Most simulators aren't built around prefabs, and the ones that are usually just give you 3D visual assets with zero actual behavior attached to them. So.... I built this simulator as a proof of concept to fix that. The focus here is strictly on beginners and creating an educational sandbox. You just drag and drop parts to build the robot, and then jump straight into scripting. The features: Prefab Assembly Built-in JS Editor (arduino like) Live Telemetry Note: As i was the only dev, to speed up, I leaned heavily on AI for coding assistance (used as a copilot, no autonomous agents were used).
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ Check it out:: https://github.com/alfaiajanon/RoboticsStudio The problem: When I
 
 Someone else has received them Stackchan? I received this week. It is a pretty funny robot. Not too useful and a bit slowly sometimes but for 75 dollars is a good starting point in robotics. And open source too. When I have some time I would try to make some coding with claude code. Lets see if it works.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve made a few posts of my arm while it was still in development, though that
 
 We are releasing rbot, an open-source Autonomous Mobile Robot simulation stack for ROS 2 Jazzy and Gazebo Harmonic. The project is built for teams, students, and ROS users who want a practical AMR baseline they can run, study, and adapt. It packages the core simulation workflow into one ROS 2 workspace: robot description, Gazebo simulation, ros2_control, teleoperation, sensors, localization, mapping, and Nav2 navigation. What is included: Gazebo Harmonic worlds and robot model URDF/Xacro description with generated mesh assets ros2_control differential-drive setup 2-D LiDAR, IMU, depth camera, stereo camera, GPS, and optional 3-D LiDAR paths EKF localization, SLAM Toolbox mapping, AMCL, and saved-map workflow Nav2 with MPPI controller and SMAC Hybrid-A* planner Docker, Docker Compose, VS Code Dev Container, CI, and tests The quick workflow follows the same path a user would take with a real AMR project: map the environment, save the map, localize against it, and send navigation goals in RViz. Gazebo Harmonic is the supported simulator today. Isaac Sim integration is planned. Repository: https://github.com/rlxai/rbot Demo video: YouTube Link We would welcome feedback from the ROS and robotics community, especially around navigation tuning, reproducible simulation scenarios, launch validation, and teaching workflows.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ We are releasing rbot, an open-source Autonomous Mobile Robot simulation stack f
 
 目前还在概念与设计阶段，但我已经搭建了一个简单的演示网站，用来展示整体流程和技术路线： https://www.caelexten.com 项目目标是结合视觉识别、路径规划和机械臂控制，实现对蘑菇的自动化采摘。 现在我正在探索机械结构、视觉模型以及手眼标定方案。 如果你在机器人、农业自动化、AI 视觉、ROS2 等方向有经验，非常欢迎给我一些建议或交流想法。
 
-44m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ We are releasing rbot, an open-source Autonomous Mobile Robot simulation stack f
 
 hey guys what do you think about creating a group chat for robotics lovers on Instagram . . . . . roboticsroboticsroboticsroboticsroboticsroboticsroboticsroboticsroboticsroboticsroboticsroboticsroboticsrobotics
 
-1h ago
+2h ago
 
 ---
 
@@ -128,6 +128,12 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[MDA Space continues work on Gateway robotic arm](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)**
+
+SpaceNews • 20h ago
+
+---
+
 **[Warrenton students gear up for another run at the world championships in underwater robotics - Oregon Public Broadcasting](https://www.opb.org/article/2026/05/09/warrenton-oregon-aquatic-robotics-team-mate-rov-competition/)**
 
 Regional qualifying competition in Newport this weekend could send an Oregon underwater robots team to the world championships.
@@ -141,12 +147,6 @@ Oregon Public Broadcasting - OPB • 1d ago
 Western Pennsylvania School for the Deaf is celebrating a big win: A national title for the school's robotics team.
 
 WTAE • 1d ago
-
----
-
-**[MDA Space continues work on Gateway robotic arm](https://spacenews.com/mda-space-continues-work-on-gateway-robotic-arm/)**
-
-SpaceNews • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearsl
 
 📺 FUN Robotics Network
 
-👁️ 7K • 👍 83 • 💬 5 • ⏱️ 0:14 • 21h ago
+👁️ 7K • 👍 83 • 💬 5 • ⏱️ 0:14 • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 96K • 👍 15K • 💬 2K • ⏱️ 23:53 • 4h ago
+👁️ 96K • 👍 15K • 💬 2K • ⏱️ 23:53 • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ Mender returns to face the meta. We need to make the most powerful Mender possib
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 297 • 💬 48 • ⏱️ 14:24 • 7h ago
+👁️ 5K • 👍 297 • 💬 48 • ⏱️ 14:24 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ Control a Robot Arm using just hand movement! In this project, I used an Arduino
 
 📺 MW Electronics Lab
 
-👁️ 13K • 💬 7 • ⏱️ 0:05 • 7h ago
+👁️ 13K • 💬 7 • ⏱️ 0:05 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 4K • 👍 56 • 💬 11 • ⏱️ 20:56 • 1d ago
+👁️ 4K • 👍 56 • 💬 11 • ⏱️ 20:56 • 2d ago
 
 ---
 

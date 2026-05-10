@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T19:05:51.275805+00:00'
+updated: '2026-05-10T20:09:57.642775+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 19:05 UTC  
+**Last Updated:** May 10, 2026 at 20:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.3%  
-**30d:** +2.9%  
-**90d:** +16.5%  
-**1y:** -6.3%  
+**24h:** +1.6%  
+**7d:** +0.9%  
+**30d:** +3.6%  
+**90d:** +17.2%  
+**1y:** -5.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-5h ago
+6h ago
 
 ---
 
@@ -88,13 +88,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-3h ago
+4h ago
 
 ---
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -126,7 +126,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
-17h ago
+18h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 3d ago
 
 Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 8h ago
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ CryptoSlate • 2d ago
 
 **[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-AMBCrypto • 9h ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -192,15 +192,7 @@ AMBCrypto • 9h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
 
-markets.businessinsider.com • 15h ago
-
----
-
-**[Aave v4 deposits on Ethereum surpass $50M, doubling in just one month](https://cryptobriefing.com/aave-v4-deposits-ethereum-50m/)**
-
-Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
-
-Crypto Briefing • 1d ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -208,7 +200,7 @@ Crypto Briefing • 1d ago
 
 The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -225,6 +217,12 @@ DailyCoin • 2d ago
 Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
 
 TradingView • 1d ago
+
+---
+
+**[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 247 • 👍 12 • 💬 1 • ⏱️ 4:55 • 9h ago
+👁️ 247 • 👍 12 • 💬 1 • ⏱️ 4:55 • 10h ago
 
 ---
 
@@ -258,7 +256,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 2K • 💬 180 • ⏱️ 14:48 • 1d ago
+👁️ 51K • 👍 2K • 💬 180 • ⏱️ 14:48 • 2d ago
 
 ---
 
@@ -278,7 +276,7 @@ Bitcoin continues to push higher and the current structure still allows for a mo
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 509 • 💬 47 • ⏱️ 17:12 • 5h ago
+👁️ 6K • 👍 509 • 💬 47 • ⏱️ 17:12 • 6h ago
 
 ---
 
@@ -298,7 +296,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 276 • ⏱️ 10:13 • 20h ago
+👁️ 30K • 👍 2K • 💬 276 • ⏱️ 10:13 • 21h ago
 
 ---
 
@@ -308,7 +306,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 288 • 💬 142 • ⏱️ 11:27 • 5h ago
+👁️ 6K • 👍 288 • 💬 142 • ⏱️ 11:27 • 6h ago
 
 ---
 
