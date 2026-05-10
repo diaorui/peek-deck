@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T11:52:47.499099+00:00'
+updated: '2026-05-10T13:20:49.691052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 11:52 UTC  
+**Last Updated:** May 10, 2026 at 13:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.1%  
-**30d:** +1.6%  
-**90d:** +14.9%  
-**1y:** -7.6%  
+**24h:** +0.8%  
+**7d:** -0.7%  
+**30d:** +1.9%  
+**90d:** +15.3%  
+**1y:** -7.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.57B
+**Market Cap:** $280.87B
 Rank #2
 
 **Circulating Supply:** 120,686,604 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.9%
 
 **All-Time Low:** $0.43
-+536628.1%
++537762.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-17h ago
+19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-19h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
-10h ago
+11h ago
 
 ---
 
@@ -128,7 +128,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 200M+ gas limit target post-Glamsterdam, 25M blocks on mainnet, Arbitrum DAO voted to release frozen ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-22/) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Ethereum developers advanced Glamsterdam Devnet testing while proposing new EIPs
 
 The longer time horizon you consider, the more one of these assets stands out.
 
-The Motley Fool • 2d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -172,13 +172,15 @@ CryptoSlate • 1d ago
 
 Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
+**[Ethereum Is Going Up While Shorts Are Piling In: Find Out What Usually Follows](https://www.tradingview.com/news/newsbtc:1278524b0094b:0-ethereum-is-going-up-while-shorts-are-piling-in-find-out-what-usually-follows/)**
 
-AMBCrypto • 2h ago
+Ethereum has lost ground below $2,300 as the market cools after weeks of cautious recovery. The price is retreating — but a CryptoQuant report tracking Binance derivatives activity has identified a dynamic beneath the surface that complicates the bearish reading considerably.The data shows that der…
+
+TradingView • 1d ago
 
 ---
 
@@ -186,7 +188,7 @@ AMBCrypto • 2h ago
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -194,15 +196,7 @@ markets.businessinsider.com • 8h ago
 
 Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Crypto Briefing • 17h ago
-
----
-
-**[Ethereum To $10,000? Analyst Says ETH Must Clear This Level First](https://www.tradingview.com/news/newsbtc:02427c2bb094b:0-ethereum-to-10-000-analyst-says-eth-must-clear-this-level-first/)**
-
-Ethereum’s latest rebound has brought the $10,000 bull-market debate back into focus, but crypto analyst Kevin (Kev Capital TA) says ETH has not yet confirmed a higher-timeframe trend reversal. In a May 7 market update, the analyst argued that Ethereum remains trapped below major resistance until i…
-
-TradingView • 1d ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -214,17 +208,23 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum’s No. 2 Spot No Longer Untouchable As XRP Closes In](https://dailycoin.com/ethereums-no-2-spot-no-longer-untouchable-as-xrp-closes-in/)**
+
+Explore the challenges Ethereum faces as XRP, BNB, and Solana vie for market dominance in the crypto landscape.
+
+DailyCoin • 1d ago
+
+---
+
 **[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
 
 TipRanks • 1d ago
 
 ---
 
-**[Crypto markets predict Ethereum price for May 31, 2026](https://finbold.com/crypto-markets-predict-ethereum-price-for-may-31-2026/)**
+**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-Prediction market traders are increasingly positioning for Ethereum (ETH) to remain above the $2,200 level by the end of May 2026.
-
-Finbold • 20h ago
+AMBCrypto • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 173 • ⏱️ 14:48 • 1d ago
+👁️ 49K • 👍 2K • 💬 175 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 16K • 👍 336 • 💬 93 • ⏱️ 9:26 • 20h ago
+👁️ 17K • 👍 340 • 💬 95 • ⏱️ 9:26 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 226 • ⏱️ 11:32 • 1d ago
+👁️ 42K • 👍 2K • 💬 229 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 699 • 💬 84 • ⏱️ 12:01 • 21h ago
+👁️ 20K • 👍 729 • 💬 87 • ⏱️ 12:01 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 472 • 💬 38 • ⏱️ 2:31 • 1d ago
+👁️ 8K • 👍 484 • 💬 38 • ⏱️ 2:31 • 1d ago
 
 ---
 
@@ -284,7 +284,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 349 • 💬 12 • ⏱️ 1:00 • 14h ago
+👁️ 8K • 👍 361 • 💬 13 • ⏱️ 1:00 • 16h ago
 
 ---
 
@@ -294,7 +294,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 186 • ⏱️ 10:13 • 13h ago
+👁️ 26K • 👍 1K • 💬 160 • ⏱️ 10:13 • 14h ago
 
 ---
 
@@ -304,7 +304,7 @@ KBW2026 tickets available now ...
 
 📺 Korea Blockchain Week
 
-👁️ 5K • 👍 146 • 💬 58 • ⏱️ 21:18 • 20h ago
+👁️ 5K • 👍 153 • 💬 66 • ⏱️ 21:18 • 22h ago
 
 ---
 
@@ -314,7 +314,7 @@ Ethereum is often treated like one of the “safe” crypto investments, but I t
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 556 • 👍 72 • 💬 44 • ⏱️ 12:08 • 15h ago
+👁️ 683 • 👍 77 • 💬 48 • ⏱️ 12:08 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 288 • 👍 19 • 💬 4 • ⏱️ 4:48 • 1d ago
+👁️ 303 • 👍 20 • 💬 4 • ⏱️ 4:48 • 1d ago
 
 ---
 
