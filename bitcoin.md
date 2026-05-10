@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T16:57:17.198217+00:00'
+updated: '2026-05-10T17:54:58.150296+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 16:57 UTC  
+**Last Updated:** May 10, 2026 at 17:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Except girls
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Except girls
 
 When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seem
 
 Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
 
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 10h ago
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 What do you think of the BTC price would be by xmas this year?
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ What do you think of the BTC price would be by xmas this year?
 
 3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
 
-5h ago
+6h ago
 
 ---
 
@@ -121,13 +121,13 @@ What do you think of the BTC price would be by xmas this year?
 
 Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36% on a relative basis, as the BTC/gold ratio surged. BTC is up roughly 7–10% over the conflict period, while gold has been flat to down, a sharp reversal of the traditional “gold as safe haven” pattern. Analysts say ETF inflows, the “digital gold” narrative, and macro positioning helped Bitcoin behave more like a risk‑sensitive alternative store of value than a classic crisis hedge.
 
-🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 19h ago
+🔗 [crypto.news](https://crypto.news/bitcoin-outperforms-gold-by-roughly-36-since-iran-war-began/) • 20h ago
 
 ---
 
 **[If you held Bitcoin for over 3 years, your odds of losing money were basically 0%](https://www.reddit.com/r/Bitcoin/comments/1t8biov/if_you_held_bitcoin_for_over_3_years_your_odds_of/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Since the start of the 2026 Iran war, Bitcoin has outpaced gold by about 35–36
 
 In my eyes until rappers are flexing about how many BTC they have we are mad early lol On a more serious note I believe BTC is gonna have a renaissance type effect on the art and commerce world. Wish there was more artist talking about BTC. It would change the independent/indie game for the better
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ In my eyes until rappers are flexing about how many BTC they have we are mad ear
 
 I got a friend every time bitcoin is doing great says tell me more I might invest, when its down he just makes fun of me like its going to zero and I'm still in the green. He's not a retard but wow he's a ******* retard
 
-1h ago
+2h ago
 
 ---
 
@@ -151,7 +151,7 @@ I got a friend every time bitcoin is doing great says tell me more I might inves
 
 Featuring full-page artwork from more than thirty-five of the world’s leading Bitcoin Artists. Adam Kadmon, 5Ksana, Alex Schaefer, Anik Malcolm, Ariel Birdie, Bitcoin Trading Cards, Bitcoin Apex, Bitko Yinowsky, Brekkie Von Bitcoin, Chiefmonkey, CypherpunkNow, Dustin Trammell, Gareth Eckley, George Bodine, Gus Grillasca, FractalEncrypt, Kanuto, Madex, MadMunky, Marcus Connor, Maxis Club, MEAR ONE, Missatoshi_girl, mx12Art, Modeotec, Pepenardo, Psyfer, Puzzle, Rare Scrilla, RYR, Sea is Medicine, Studio Zeitwerk, Tommy, Yonat Vaks, Zetra, and Asanoha. A gallery in the palm of your hand. • Cover art: The Bitcoin Full Node Sculpture by FractalEncrypt. • Includes a /121 signed and numbered archival serigraph print from Asanoha. • Individually serialized. • Over 121 pages. • Over 60 pages of full-page art. • High quality print. • Smyth sewn binding. • Includes artist statements and descriptions. • Ad free. • Includes one complimentary Genesis Edition /1720 magazine. • 8.5 x 11”
 
-🔗 [m.youtube.com](https://m.youtube.com/watch?v=2tHiPZXlEh4&pp=ygUWQml0Y29pbmFydG1hZ2F6aW5lLmNvbdIHCQkDCwGHKiGM7w%3D%3D&ra=m) • 6h ago
+🔗 [m.youtube.com](https://m.youtube.com/watch?v=2tHiPZXlEh4&pp=ygUWQml0Y29pbmFydG1hZ2F6aW5lLmNvbdIHCQkDCwGHKiGM7w%3D%3D&ra=m) • 7h ago
 
 ---
 
@@ -163,7 +163,7 @@ Featuring full-page artwork from more than thirty-five of the world’s leading 
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView • 2h ago
 
 The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1d ago
 
 Strategy CEO Phong Le says the company will sell bitcoin only when doing so is more accretive to shareholders than issuing equity, primarily to fund preferred stock dividends.
 
-Bitbo • 10h ago
+Bitbo • 11h ago
 
 ---
 
@@ -281,13 +281,13 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 1 • 💬 0 • 3h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+⬆️ 1 • 💬 0 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
 **[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
 
-⬆️ 1 • 💬 1 • 22h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
+⬆️ 1 • 💬 1 • 23h ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ---
 
@@ -327,7 +327,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 115 • 💬 54 • ⏱️ 7:45 • 5h ago
+👁️ 1K • 👍 115 • 💬 54 • ⏱️ 7:45 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 178 • 💬 181 • ⏱️ 11:27 • 3h ago
+👁️ 2K • 👍 178 • 💬 181 • ⏱️ 11:27 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ Cody Carbone, CEO at The Digital Chamber, shares his thoughts on the upcoming St
 
 📺 Thinking Crypto
 
-👁️ 213 • 👍 15 • 💬 8 • ⏱️ 2:02 • 1h ago
+👁️ 213 • 👍 15 • 💬 8 • ⏱️ 2:02 • 2h ago
 
 ---
 
@@ -357,7 +357,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Cap
 
 📺 Aaron Bennett
 
-👁️ 13K • 👍 566 • 💬 146 • ⏱️ 9:05 • 19h ago
+👁️ 13K • 👍 566 • 💬 146 • ⏱️ 9:05 • 20h ago
 
 ---
 
@@ -387,7 +387,7 @@ It looks like we're coming to the convergence point my friends. Bitcoin and the 
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 384 • 💬 102 • ⏱️ 32:03 • 6h ago
+👁️ 2K • 👍 384 • 💬 102 • ⏱️ 32:03 • 7h ago
 
 ---
 
