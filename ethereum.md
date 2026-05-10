@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T00:10:57.799893+00:00'
+updated: '2026-05-10T04:31:30.802074+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 00:10 UTC  
+**Last Updated:** May 10, 2026 at 04:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +0.2%  
-**30d:** +3.7%  
-**90d:** +10.6%  
-**1y:** -9.9%  
+**24h:** +0.5%  
+**7d:** -0.8%  
+**30d:** +1.8%  
+**90d:** +15.2%  
+**1y:** -7.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.13B
+**Market Cap:** $280.94B
 Rank #2
 
-**Circulating Supply:** 120,686,648 ETH
+**Circulating Supply:** 120,686,604 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -52.9%
 
 **All-Time Low:** $0.43
-+537501.1%
++537508.1%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion May 09, 2026](https://www.reddit.com/r/ethereum/comments/1t7vb03/daily_general_discussion_may_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-19h ago
-
----
-
 **[Ethereum Economic Zone Community Call #1](https://www.reddit.com/r/ethereum/comments/1t8cay6/ethereum_economic_zone_community_call_1/)**
 
 Hey all! Our next EEZ Community Call is just around the corner. You can secure your spot by registering here. What we'll cover: ​• The technical architecture of EEZ framework, Rollup 0 and how it's implemented on Ethereum • Zisk and the real time proving stack • What this means for Ethereum builders day one Featuring with Jordi Baylina, Friederike Ernst, Martin Koppelmann, Philippe Schommers To ensure we cover the topics that matter most to you, we’re collecting questions in advance via this form. Selected questions will be answered live during the call, and every other question will receive a written reply in a follow-up post within a week. Please note that we will share the livestream link next week. In the meantime, feel free to share this with your network!
 
-6h ago
+10h ago
+
+---
+
+**[Daily General Discussion May 09, 2026](https://www.reddit.com/r/ethereum/comments/1t7vb03/daily_general_discussion_may_09_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
 
 ---
 
@@ -88,7 +88,15 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-7h ago
+12h ago
+
+---
+
+**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
+
+I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
+
+2h ago
 
 ---
 
@@ -140,12 +148,6 @@ The Senate Banking Committee is preparing to notice a CLARITY Act markup as soon
 
 ---
 
-**[Today marks exactly one year since the historic activation of the Pectra upgrade on Ethereum, one of the most important moments for the network since The Merge.](https://www.reddit.com/r/ethereum/comments/1t6ey59/today_marks_exactly_one_year_since_the_historic/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,23 +160,25 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BitMine’s Tom Lee Predicts a $22,000 Ethereum Price as AI Grows Blockchain Use](https://www.tipranks.com/news/bitmines-tom-lee-predicts-a-22000-ethereum-price-as-ai-grows-blockchain-use)**
+**[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
 
-TipRanks • 1d ago
+Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
+
+CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum Price Braces For a Major $260 Million Shock](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-braces-major-260-205800671.html)**
+**[BitMine Stock Faces Risk as Tom Lee Cools on Ethereum Buying](https://finance.yahoo.com/markets/stocks/articles/bitmine-stock-faces-risk-tom-195616576.html)**
 
-Ethereum whale Garrett Jin sent $178M to Binance as BlackRock and Fidelity moved ETH to Coinbase Prime. Are the big players selling?
+BMNR stock price falls 4% as Tom Lee signals slower ETH buying, with bearish chart signals pointing to a possible 9% drop.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
+**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
 
-At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
+The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
 
 CoinDesk • 2d ago
 
@@ -188,35 +192,19 @@ TradingView • 1d ago
 
 ---
 
-**[Aave v4 deposits on Ethereum surpass $50M, doubling in just one month](https://cryptobriefing.com/aave-v4-deposits-ethereum-50m/)**
-
-Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
-
-Crypto Briefing • 6h ago
-
----
-
 **[New Crypto Pepeto Exchange Upgrade Reaches Binance Level While Ethereum Price Prediction Asks if ETH Can Hit $3,000 This Month](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-upgrade-reaches-binance-level-while-ethereum-price-prediction-asks-if-eth-can-hit-3-000-this-month-1036133074)**
 
 Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
-**[Blackrock to Launch Tokenized Money-Market Funds on Ethereum](https://news.bitcoin.com/blackrock-tokenized-money-market-funds-ethereum/)**
+**[Aave v4 deposits on Ethereum surpass $50M, doubling in just one month](https://cryptobriefing.com/aave-v4-deposits-ethereum-50m/)**
 
-Blackrock has filed to launch two tokenized money-market funds on Ethereum, targeting stablecoin investors with its $6.1B BSTBL fund.
+Aave v4 deposits on Ethereum surpassed $50M, doubling in one month after the DAO approved activation on May 4. Here's what it means for DeFi investors.
 
-Bitcoin News • 6h ago
-
----
-
-**[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
-
-Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
-
-CryptoSlate • 1d ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -226,19 +214,21 @@ Disruption Banking • 1d ago
 
 ---
 
+**[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
+
+TipRanks • 21h ago
+
+---
+
+**[Bitcoin, Ethereum, and Solana Hit Decisive Levels as $495B Returns to Crypto](https://financefeeds.com/crypto-market-outlook-bitcoin-ethereum-solana/)**
+
+FinanceFeeds • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[ETH Becoming Institutional MONEY🚀Ethereum Staking Skyrockets](https://www.youtube.com/watch?v=E--gw7SQuK4)**
-
-Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growing role in digital finance. Speaking at the ...
-
-📺 Paul Barron Network
-
-👁️ 45K • 👍 2K • 💬 170 • ⏱️ 14:48 • 1d ago
-
----
 
 **[Is Ethereum STILL Undervalued? (Deep Explanation)](https://www.youtube.com/watch?v=Li55ZmSjE8U)**
 
@@ -246,7 +236,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 10K • 👍 252 • 💬 74 • ⏱️ 9:26 • 8h ago
+👁️ 14K • 👍 312 • 💬 90 • ⏱️ 9:26 • 13h ago
 
 ---
 
@@ -256,7 +246,33 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 220 • ⏱️ 11:32 • 1d ago
+👁️ 40K • 👍 2K • 💬 225 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[ETH Becoming Institutional MONEY🚀Ethereum Staking Skyrockets](https://www.youtube.com/watch?v=E--gw7SQuK4)**
+
+Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growing role in digital finance. Speaking at the ...
+
+📺 Paul Barron Network
+
+👁️ 47K • 👍 2K • 💬 164 • ⏱️ 14:48 • 1d ago
+
+---
+
+**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 466 • 💬 38 • ⏱️ 2:31 • 1d ago
+
+---
+
+**[MY TOP 3 CRYPTOS I WOULD START RESEARCHING NOW #xrp #ethereum #ondo #bitcoin](https://www.youtube.com/watch?v=LiIdBY7BGN0)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 289 • 💬 11 • ⏱️ 1:00 • 7h ago
 
 ---
 
@@ -266,15 +282,7 @@ KBW2026 tickets available now ...
 
 📺 Korea Blockchain Week
 
-👁️ 1K • 👍 70 • 💬 17 • ⏱️ 21:18 • 9h ago
-
----
-
-**[3700% STOCK GAINS After Bitcoin Bottom! $22K Ethereum Coming?! #xrp #bitcoin #ethereum #crypto](https://www.youtube.com/watch?v=s5FurW1eCII)**
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 457 • 💬 38 • ⏱️ 2:31 • 23h ago
+👁️ 4K • 👍 120 • 💬 40 • ⏱️ 21:18 • 13h ago
 
 ---
 
@@ -284,15 +292,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 549 • 💬 81 • ⏱️ 12:01 • 10h ago
-
----
-
-**[MY TOP 3 CRYPTOS I WOULD START RESEARCHING NOW #xrp #ethereum #ondo #bitcoin](https://www.youtube.com/watch?v=LiIdBY7BGN0)**
-
-📺 CryptoWendyO
-
-👁️ 2K • 👍 110 • 💬 8 • ⏱️ 1:00 • 3h ago
+👁️ 17K • 👍 649 • 💬 90 • ⏱️ 12:01 • 14h ago
 
 ---
 
@@ -302,27 +302,27 @@ You don't have to pay $42 to send $30 in crypto! This video rips the lid off Eth
 
 📺 Coin Bureau
 
-👁️ 10K • 👍 445 • 💬 60 • ⏱️ 12:24 • 1d ago
+👁️ 10K • 👍 451 • 💬 60 • ⏱️ 12:24 • 1d ago
 
 ---
 
-**[ETH: The Next Bitcoin?](https://www.youtube.com/watch?v=bKM5-jJICHo)**
+**[Ethereum as “Productive Money”: Vivek Raman of Etherealize Breaks Down the Institutional Thesis](https://www.youtube.com/watch?v=mlaLJDVrb6Q)**
 
-Bitcoin made its way into corporate treasuries. Will Ethereum follow? In this episode, Vivek Raman of Etherealize explains how ...
+In this episode of The Smart Economy Podcast, host Dylan Grabowski sits down with Vivek Raman, co-founder and CEO of ...
 
 📺 Smart Economy Network
 
-👁️ 72 • 👍 5 • ⏱️ 1:01 • 2d ago
+👁️ 127 • 👍 9 • 💬 1 • ⏱️ 1:06:47 • 2d ago
 
 ---
 
-**[WHY ETHEREUM CAN BOUNCE NOW!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=NK91lDAVaWU)**
+**[Bitcoin Rejects $80K: How to Trade the BTC Pullback + ETH, SOL &amp; SUI Setups](https://www.youtube.com/watch?v=C5zH6az8z4Y)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+I'll need to read the transcript carefully to pull the right details. Let me draft this for you. The episode covers BTC, ETH, SOL, and ...
 
-📺 Cilinix Crypto
+📺 Verified Pro Traders
 
-👁️ 415 • 👍 14 • 💬 1 • ⏱️ 4:16 • 1d ago
+👁️ 4K • 👍 304 • 💬 6 • ⏱️ 8:05 • 2d ago
 
 ---
 

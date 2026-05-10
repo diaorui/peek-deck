@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-10T00:10:57.803300+00:00'
+updated: '2026-05-10T04:31:30.805218+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 10, 2026 at 00:10 UTC  
+**Last Updated:** May 10, 2026 at 04:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,13 @@ Robotics research and industry news
 
 I’ve made a few posts of my arm while it was still in development, though that account was banned/deleted for unknown reasons. Here is my finished build, the arm design was made in freecad and uses nema17 and nema28 motors with some high precision planetary and a few harmonic drives for the joints. Firmware and software is custom and I can freely control the arm then place points to make joint, continuous joint, and linear moves then play through them like a very crude version of pendant software. I can’t take too much credit for the firmware/software as ChatGPT was a huge crutch but regardless of I’m very happy with the end results. I still want to implement a gripper and possibly figure out controlling it through a vr controller but I’m glad to have brought this project to a finished state after such a long time.
 
-8h ago
+12h ago
 
 ---
 
-**[Air Gesture Control, Zero Touch ✋🤖](https://www.reddit.com/r/robotics/comments/1t86tif/air_gesture_control_zero_touch/)**
+**[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
 
-Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
-
-9h ago
+11h ago
 
 ---
 
@@ -52,13 +50,15 @@ Our AI quadruped robot now understands your hand movements. 👏 Command, naviga
 
 The project video is sourced from Magic Smoke Engineer. The creator is a photographer whose wife has a congenital condition and is unable to walk. He built a remote-controlled wheelchair for her, with over 10 km range and fast charging. The video shows how he designed and built it step by step.
 
-20h ago
+1d ago
 
 ---
 
-**[Industrial Robotics in Action at Volkswagen’s EV Factory](https://www.reddit.com/r/robotics/comments/1t8b1dp/industrial_robotics_in_action_at_volkswagens_ev/)**
+**[Air Gesture Control, Zero Touch ✋🤖](https://www.reddit.com/r/robotics/comments/1t86tif/air_gesture_control_zero_touch/)**
 
-6h ago
+Our AI quadruped robot now understands your hand movements. 👏 Command, navigate, interact—wireless, effortless, extraordinary. Perfect for education, research, and showcasing cutting-edge robotics.
+
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ The project video is sourced from Magic Smoke Engineer. The creator is a photogr
 
 Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel/ Actually inspired by the walking gait in this post :D https://www.reddit.com/r/robotics/comments/1t0o42c/dax_robotics_just_unveiled_qiji_t1000_a_tonclass/ Next up will be implementing direction control (yes yes, still manual gait. AI told me to do manual ones first before using AI), and hopefully tidying up the GitHub page for those who are interested. Full ROS2 + all commercial/3D-print part: https://github.com/SphericalCowww/CubicDoggo
 
-4h ago
+8h ago
 
 ---
 
@@ -74,13 +74,13 @@ Update since: https://www.reddit.com/r/robotics/comments/1sq4rip/comment/oioxsel
 
 This is the current status of BB1 .. I can’t seem to post it much anymore because it just trips the Moderation bots do some reason. Either way , this is my learning work in progress . It’s arm is acting a bit goofy right now , haven’t fired it up in awhile but I wanna get back into it if life settles down.
 
-4h ago
+9h ago
 
 ---
 
 **[A desktop-class multi-modal robots (quadruped, bipedal, and wheeled-legged)](https://www.reddit.com/r/robotics/comments/1t7pgln/a_desktopclass_multimodal_robots_quadruped/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -88,21 +88,21 @@ This is the current status of BB1 .. I can’t seem to post it much anymore beca
 
 Made a fun video exploring integrating a robot arm into the kitchen... It was actually quite challenging to maneuver around! Set quite a few way points using MoveIt2, but it's motion planning is decent if you map out the kitchen shelf and counter. Enjoy!
 
-🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 6h ago
+🔗 [youtu.be](https://youtu.be/tcKRBKju4v4?si=mFLCVKSK64a8JKSU) • 10h ago
 
 ---
 
-**[Visualizing Transformations Matrices and Local Frames in Real Time](https://www.reddit.com/r/robotics/comments/1t8763d/visualizing_transformations_matrices_and_local/)**
+**[Convex MPC for humanoid locomotion](https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/)**
 
-I’m currently learning the maths foundations behind kinematics so I built this small project to visualize the transformation matrices of each local frame directly on the robot while it transitions between different poses. https://github.com/dorado-daniel/bot_transform_matrix_visualizer https://reddit.com/link/1t8763d/video/kpjznl4cl40h1/player Visualizing things has always helped me understand concepts much better than just reading equations, so I thought it would be interesting to explore forward kinematics this way.
-
-9h ago
+1m ago
 
 ---
 
-**[built a native ROS 2 MCP Server for AI Agents (No rosbridge/WebSockets required)](https://www.reddit.com/r/robotics/comments/1t8gwro/built_a_native_ros_2_mcp_server_for_ai_agents_no/)**
+**[CANviz update: CANopen (CiA 301 +CiA 402) decode shipped (v0.3.2) - drive state without an EDS file](https://www.reddit.com/r/robotics/comments/1t8w9y9/canviz_update_canopen_cia_301_cia_402_decode/)**
 
-4h ago
+Posted about CANviz a few months back - open source browser-based CAN analyzer. Just shipped v0.3.2 with a full CANopen decoder - figured the robotics crowd would want to know. The part most relevant here: CiA 402 drive state without loading an EDS. Standard TPDO1 puts Statusword in bytes 0-1, so as soon as heartbeat and PDO frames come in you get Operation Enabled / Fault / Quick Stop / Ready to Switch On per node. Upload an EDS and PDO signals get named and feed into the signal plot. Without any config at all: frame type labeling from COB-ID, node discovery from heartbeat traffic, NMT state per node, EMCY decode to error code and register flags, SDO request/response pairing with object names from a built-in 180-entry CiA 301/402 dictionary. There are also NMT command buttons (Operational, Pre-Op, Stop, Reset) and CiA 402 Controlword shortcuts (Enable, Switch On, Shutdown, Quick Stop, Fault Reset) with a confirm step before sending. I haven't personally tested this against an ODrive or Maxon EPOS. Would like to know what breaks - particularly whether the default TPDO1 assumption holds on drives that use non-standard PDO mappings. pip install --upgrade canviz GitHub: https://github.com/Chanchaldhiman/CANviz
+
+28m ago
 
 ---
 
@@ -118,11 +118,17 @@ The Washington Post • 2d ago
 
 ---
 
-**[Falling prices, broad use scenarios fuel Chinese adoption of humanoid robots](https://www.globaltimes.cn/page/202605/1360578.shtml)**
+**[Humanoid Robots Are the Next Phase of the AI Hype Cycle](https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests)**
 
-Driven by constant tech breakthroughs and growing market adoption, humanoid robots in China are undergoing a notable wave of price cuts this year.
+Bloomberg.com • 1d ago
 
-Global Times • 1d ago
+---
+
+**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
+
+The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
+
+Rocket Lab • 2d ago
 
 ---
 
@@ -140,11 +146,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Rocket Lab To Acquire Robotics Leader Motiv Space Systems](https://rocketlabcorp.com/updates/rocket-lab-to-acquire-robotics-leader-motiv-space-systems/)**
+**[Falling prices, broad use scenarios fuel Chinese adoption of humanoid robots](https://www.globaltimes.cn/page/202605/1360578.shtml)**
 
-The acquisition will add proven robotics technology used in Mars rovers and also insources precision space mechanisms such as solar array drive assemblies, one of the critical components needed for satellite constellation manufacturing.
+Driven by constant tech breakthroughs and growing market adoption, humanoid robots in China are undergoing a notable wave of price cuts this year.
 
-Rocket Lab • 2d ago
+Global Times • 1d ago
+
+---
+
+**[Western Pennsylvania School for the Deaf wins national robotics championship](https://www.wtae.com/article/western-pennsylvania-school-for-deaf-robotics-championship/71257710)**
+
+Western Pennsylvania School for the Deaf is celebrating a big win: A national title for the school's robotics team.
+
+WTAE • 1d ago
 
 ---
 
@@ -152,15 +166,15 @@ Rocket Lab • 2d ago
 
 Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
 
-Business Insider • 15h ago
+Business Insider • 19h ago
 
 ---
 
-**[Hacker Takes Over Robot Lawnmower, Runs Over Innocent Man](https://futurism.com/robots-and-machines/hacker-robot-lawnmower-runs-over-man)**
+**[SoundHound AI Robotics Deal Tests Voice Platform Against Analyst Optimism](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-robotics-deal-tests-181946271.html)**
 
-A reporter for The Verge was thankfully unharmed after a white hat hacker seized control of a Yarbo lawnmower robot.
+SoundHound AI (NasdaqGM:SOUN) and Richtech Robotics plan to integrate agentic voice AI into robotic systems. The partnership includes a live demonstration at the 2026 National Restaurant Association Show. The collaboration brings SoundHound AI's voice technology into physical service environments, starting with hospitality robotics. SoundHound AI, trading at $9.63, is extending its voice AI beyond digital channels and into real world service roles through this partnership. The move follows...
 
-Futurism • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -172,29 +186,17 @@ The Verge • 1d ago
 
 ---
 
-**[China robotics to drive next chapter of manufacturing dominance: Morgan Stanley](https://www.scmp.com/economy/global-economy/article/3352781/humanoids-robots-drive-next-chapter-chinas-manufacturing-dominance-morgan-stanley)**
-
-South China Morning Post • 1d ago
-
----
-
-**[Bixby 8th graders place top five in world robotics championship](https://www.newson6.com/tulsa-oklahoma-news/bixby-8th-graders-place-top-five-in-world-robotics-championship)**
-
-A Bixby Middle School robotics team became the first in state history to reach the championship dome at the VEX IQ World Championship, finishing fifth against teams from 54 countries.
-
-News On 6 • 20h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[#factory #robot #industrial #robotics #spraying #borunte](https://www.youtube.com/watch?v=YT09DS2VUEw)**
+**[Bot Shovel by CPSLO Cal Poly Gear Slingers](https://www.youtube.com/watch?v=DSJB1q0wJK0)**
 
-📺 BORUNTE-Robot-Messi
+Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearslingers Check out our robotics game and FUN ...
 
-👁️ 28K • 👍 95 • 💬 3 • ⏱️ 0:14 • 1d ago
+📺 FUN Robotics Network
+
+👁️ 3K • 👍 35 • 💬 3 • ⏱️ 0:14 • 6h ago
 
 ---
 
@@ -204,7 +206,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 2K • 👍 57 • 💬 28 • ⏱️ 2:19 • 1d ago
+👁️ 3K • 👍 69 • 💬 35 • ⏱️ 2:19 • 1d ago
 
 ---
 
@@ -214,47 +216,17 @@ A new generation of AI robots is being designed to handle everyday tasks with mi
 
 📺 Carros Show
 
-👁️ 3K • 👍 45 • 💬 3 • ⏱️ 20:56 • 1d ago
+👁️ 3K • 👍 48 • 💬 4 • ⏱️ 20:56 • 1d ago
 
 ---
 
-**[Bot Shovel by CPSLO Cal Poly Gear Slingers](https://www.youtube.com/watch?v=DSJB1q0wJK0)**
+**[Will AI robots on the frontline mark the end of human soldiers? - BBC World Service](https://www.youtube.com/watch?v=l-XpuKcIlV8)**
 
-Pits & Parts full robot explanation: https://youtu.be/Ed37xibjqNE @calpolygearslingers Check out our robotics game and FUN ...
+In April, Ukrainian President Volodymr Zelensky claimed that Ukrainian-made robots and drones carried out what's thought to be a ...
 
-📺 FUN Robotics Network
+📺 BBC World Service
 
-👁️ 975 • 👍 15 • ⏱️ 0:14 • 2h ago
-
----
-
-**[Humanoid robot delays flight out of California airport](https://www.youtube.com/watch?v=pHeSZUkQeMo)**
-
-Meet Bebop! Passengers on a Southwest Airlines flight from Oakland to San Diego arrived more than an hour late Thursday after ...
-
-📺 ABC7
-
-👁️ 93K • 👍 791 • 💬 95 • ⏱️ 1:27 • 6d ago
-
----
-
-**[MIT Created Shape Shifting Robots That Reshape Themselves](https://www.youtube.com/watch?v=MXZBYAHdhBs)**
-
-Researchers at MIT (Massachusetts Institute of Technology), including students and faculty in the Computer Science and Artificial ...
-
-📺 Existenzia
-
-👁️ 52K • 👍 306 • 💬 9 • ⏱️ 0:07 • 1d ago
-
----
-
-**[Scorpion Is The Perfect Meta Counter Somehow... Scorpion vs Vector | War Robots](https://www.youtube.com/watch?v=IR5mchA_r0Y)**
-
-Scorpion is back and actually good. The meta is all over the place right now but the scorpion can fit in perfectly, getting in and out.
-
-📺 PREDATOR WR
-
-👁️ 7K • 👍 394 • 💬 37 • ⏱️ 16:03 • 12h ago
+👁️ 92K • 👍 1K • 💬 226 • ⏱️ 7:35 • 3d ago
 
 ---
 
@@ -264,17 +236,25 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 📺 KTLA 5
 
-👁️ 26K • 👍 242 • 💬 93 • ⏱️ 2:14 • 4d ago
+👁️ 27K • 👍 247 • 💬 93 • ⏱️ 2:14 • 4d ago
 
 ---
 
-**[This Is The Moment Elon Warned About](https://www.youtube.com/watch?v=FI-xNk-hjjE)**
+**[Why Qualcomm Is Betting Big on Robotics](https://www.youtube.com/watch?v=c2Klj9JyjSs)**
 
-The humanoid race just stopped being demo videos – it's now a manufacturing war. Some viewers ask where they can learn more ...
+Qualcomm sees robotics as its next major frontier. Cristiano Amon, CEO and President of Qualcomm, explains why the company ...
 
-📺 Brighter with Herbert
+📺 A Bit Personal with Jodi Shelton
 
-👁️ 96K • 👍 3K • 💬 341 • ⏱️ 1:09:54 • 6d ago
+👁️ 532 • 👍 7 • 💬 1 • ⏱️ 1:08 • 9h ago
+
+---
+
+**[VEX OVERRIDE MEGA TOWER #robotics #vex #vexrobotics #robot #override #pushback](https://www.youtube.com/watch?v=JmpESyBlXps)**
+
+📺 Hawks Robotics
+
+👁️ 14K • 👍 79 • 💬 5 • ⏱️ 0:05 • 1d ago
 
 ---
 
@@ -284,7 +264,27 @@ Control a Robot Arm with One Joystick using Arduino! code link ...
 
 📺 MW Electronics Lab
 
-👁️ 186K • 💬 33 • ⏱️ 0:05 • 3d ago
+👁️ 189K • 💬 33 • ⏱️ 0:05 • 3d ago
+
+---
+
+**[Scorpion Is The Perfect Meta Counter Somehow... Scorpion vs Vector | War Robots](https://www.youtube.com/watch?v=IR5mchA_r0Y)**
+
+Scorpion is back and actually good. The meta is all over the place right now but the scorpion can fit in perfectly, getting in and out.
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 444 • 💬 42 • ⏱️ 16:03 • 16h ago
+
+---
+
+**[China Robot Dance ](https://www.youtube.com/watch?v=RODOkrw4UVM)**
+
+China Robot Dance is an amazing display of artificial intelligence and robotics from China, showcasing the country's ...
+
+📺 Naa Anveshana
+
+👁️ 415K • 👍 23K • 💬 2K • ⏱️ 16:03 • 3d ago
 
 ---
 
