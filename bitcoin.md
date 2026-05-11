@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-11T17:55:13.106449+00:00'
+updated: '2026-05-11T19:49:03.092069+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 17:55 UTC  
+**Last Updated:** May 11, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,917.30
+### $81,969.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +1.4%  
-**30d:** +16.0%  
-**90d:** +22.3%  
+**24h:** +1.6%  
+**7d:** +1.3%  
+**30d:** +15.9%  
+**90d:** +22.2%  
 **1y:** -20.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1627.43B
+**Market Cap:** $1642.09B
 Rank #1
 
-**Circulating Supply:** 20,027,962 BTC
+**Circulating Supply:** 20,028,028 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-35.0%
 
 **All-Time Low:** $67.81
-+119720.1%
++120796.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
 
-5h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standar
 
 After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
 
-2h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ After watching or listening to bitcoin podcasts, I finally made the decision to 
 
 Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
 
-1h ago
+3h ago
 
 ---
 
@@ -105,7 +105,15 @@ Had to sell last fall due to divorce. It wasn't a lot but still... Just now star
 
 He sold early for a profit, watched everyone else get richer, then jumped back in near the top with basically everything he had. Absolute classic. The funniest part is that the term “Bear Market” comes from this same era. “Bear-skin jobbers” were basically the 1700s version of naked short sellers, selling skins before they even caught the bear. 300 years later and we’re still destroying ourselves the exact same way, regards.
 
-3h ago
+5h ago
+
+---
+
+**[Why do so many people reject Bitcoin for having no cash flow?](https://www.reddit.com/r/Bitcoin/comments/1tadpt2/why_do_so_many_people_reject_bitcoin_for_having/)**
+
+People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
+
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 20m ago
 
 ---
 
@@ -113,7 +121,7 @@ He sold early for a profit, watched everyone else get richer, then jumped back i
 
 Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden surge of 200,000 fake P2P addresses. https://twitter.com/lopp/status/2053449976320061460 https://nitter.net/lopp/status/2053449976320061460 https://www.dsn.kastel.kit.edu/bitcoin/ Tagging u/Statoshi A large-scale infrastructure anomaly has been detected in Bitcoin's P2P network, potentially representing hidden preparation for a technical attack. Starting on April 9, 2026, the chart tracking unsolicited network messages (ADDR) showed a vertical spike: the number of fake and unreachable node addresses surged from a baseline of 50,000 to more than 250,000 per day. The graphical spike was highlighted by well-known developer and Casa co-founder Jameson Lopp, who suggested that someone may be intentionally flooding communication channels with false coordinates as part of preparations for a Sybil attack. Signs of a stealth sybil attack against Bitcoin The attacker appears to have chosen a silent strategy. Instead of directly attacking block validation or transaction processing, unknown actors are attempting to rewrite Bitcoin's "phone book" - nodes exchange each other's addresses through ADDR commands so that new participants can quickly discover peers for synchronization. By flooding the network with hundreds of thousands of fake IP addresses, the attacker is probably attempting to ensure that newly launched or restarted nodes connect exclusively to nonexistent or attacker-controlled "ghost nodes". In theory, such a tactic could lead to an Eclipse attack, where a legitimate node becomes trapped in an informational vacuum and only sees the version of the blockchain presented by the attacker. However, in order to remain secure and receive accurate blockchain data, a node only needs to establish a connection with at least one honest participant in the network. Bitcoin's client software also automatically distributes connections across different subnets, making it difficult for an attacker to monopolize all connection slots from a single IP address pool. At the moment, the anomaly appears to create more parasitic bandwidth load than a direct threat to consensus itself.
 
-🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 22h ago
+🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 1d ago
 
 ---
 
@@ -121,7 +129,7 @@ Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden su
 
 I swear every single time Bitcoin goes up people suddenly act like nobody can ever make money from it again 😭 people said it was “too late” at 1k, then 10k, then 30k and now at 100k+ too But whenever it crashes those same people call it a dead scam and say it’s over forever, and at this point I honestly think most people don’t actually have an opinion on Bitcoin, they just react emotionally to whatever the price is that week lol
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +137,7 @@ I swear every single time Bitcoin goes up people suddenly act like nobody can ev
 
 Like anybody else probably, retire by dca, live life as usual
 
-20h ago
+22h ago
 
 ---
 
@@ -137,7 +145,7 @@ Like anybody else probably, retire by dca, live life as usual
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+13h ago
 
 ---
 
@@ -145,15 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Anyone else hearing that sound? Because for the last few days it’s been getting louder: the train leaving the station. Every cycle has the same crowd standing on the platform yelling “bottom not in yet” while the market quietly starts front-running them. Same script, different candles. They wait for the perfect entry, then wait for confirmation, then wait for a pullback, then suddenly they’re buying higher and calling it “risk management.” Not financial advice. Just the sound of steel on rails 👋
 
-18h ago
-
----
-
-**[I need some help](https://www.reddit.com/r/Bitcoin/comments/1t9z2p7/i_need_some_help/)**
-
-So i have my bitcoin i Onion wallet and call me stupid for putting them there ik there is no need for unnecesary comments but i need help getting my btc out of that wallet i can se the btc and acsess them at any time but i cant take them out when i do it says error 500 internal server issue i am wonering what should i do in this situation its arround 50 dollars in btc
-
-7h ago
+20h ago
 
 ---
 
@@ -161,57 +161,55 @@ So i have my bitcoin i Onion wallet and call me stupid for putting them there ik
 
 ## Google News: "bitcoin"
 
+**[Bitcoin mining pools with 75% of BTC hashrate join open standard for block construction](https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction)**
+
+Foundry, AntPool, F2Pool, SpiderPool, and MARA Pool are among seven pools joining the Stratum V2 working group, putting nearly three-quarters of global bitcoin hashrate behind a protocol that returns block construction decisions to individual miners.
+
+CoinDesk • 13h ago
+
+---
+
 **[Michael Saylor says Strategy would buy '10 to 20' bitcoin for every one it sells: report](https://www.theblock.co/post/400671/strategy-michael-saylor-buy-more-bitcoin)**
 
 During Strategy's earnings call last week, Saylor said the firm will consider tapping its bitcoin holdings to fund STRC dividends.
 
-The Block • 11h ago
+The Block • 13h ago
 
 ---
 
-**[Strategy has already sold bitcoin before for tax loss harvesting in December 2022](https://www.coindesk.com/markets/2026/05/11/michael-saylor-s-latest-tax-strategy-echoes-strategy-s-2022-bitcoin-sale)**
+**[Strategy’s Michael Saylor raps about how he gets shareholders to pay for bitcoin buys](https://www.marketwatch.com/story/strategys-michael-saylor-raps-about-how-he-gets-shareholders-to-pay-for-bitcoin-buys-479e0011)**
 
-Michael Saylor confirmed the company was prepared to sell bitcoin, reviving a tax loss harvesting strategy first used in 2022.
-
-CoinDesk • 6h ago
+MarketWatch • 1h ago
 
 ---
 
-**[Michael Saylor Reveals Bitcoin's Magic Number: Here's How Much Yield He Needs For Strategy's Model To Work Forever](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-bitcoins-magic-120027688.html)**
+**[MicroStrategy’s Latest Bitcoin Buy Is Its Smallest of 2026, and the Slowdown May Be Structural](https://finance.yahoo.com/markets/crypto/articles/microstrategy-latest-bitcoin-buy-smallest-130955882.html)**
 
-Strategy Inc. executive chairman Michael Saylor has said that Bitcoin needs to appreciate by only 2.3% annually for the company to fund its STRC dividends indefinitely by selling small portions of its holdings. The 2.3% Breakeven Threshold Strategy posted a...
+Strategy's 535 BTC buy is the smallest weekly purchase of 2026, with sale conditions hinting at a balance-sheet shift.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin, Nasdaq investors are celebrating, while U.S. consumers turn gloomy.](https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking)**
-
-Here's what the widening Wall Street–Main Street divide is telling us about the state of the economy.
-
-CoinDesk • 9h ago
-
----
-
-**[Strategy just hit a new high for the year. Should you buy the comeback in bitcoin stocks?](https://www.cnbc.com/2026/05/11/strategy-just-hit-a-new-high-for-the-year-should-you-buy-the-comeback-in-bitcoin-stocks.html)**
-
-Katie Stockton of Fairlead Strategies breaks down the charts on this crypto-tied names.
-
-CNBC • 25m ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
 
-Investor's Business Daily • 48m ago
+Investor's Business Daily • 2h ago
 
 ---
 
-**[Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI](https://finance.yahoo.com/markets/stocks/articles/keel-infrastructure-posts-145-million-172541502.html)**
+**[Bitcoin Price To $1M? VanEck Makes Bullish Five Year Prediction, Joining BitWise and Others](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-1m-vaneck-makes-180215173.html)**
 
-Formerly known as Bitfarms, the newly rebranded Keel touted a $533 million war chest to fund AI infrastructure buildout.
+Bitwise CIO Matt Hougan says Bitcoin could reach $1 million in about 10 years. Bitcoin ETFs have returned to net inflows. Some analysts project major ...
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 1d ago
+
+---
+
+**[SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle](https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html)**
+
+The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
+
+CNBC • 1d ago
 
 ---
 
@@ -219,21 +217,21 @@ Yahoo Finance • 29m ago
 
 After nearly a year of delays, the Senate Banking Committee scheduled a markup of the CLARITY Act for May 14.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
-**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
+**[Bitcoin flat at $81k with Iran tensions, US regulations in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-near-81k-with-iran-tensions-us-regulations-in-focus-4675014)**
 
-WSJ • 5d ago
+Investing.com • 13h ago
 
 ---
 
-**[Stuck in Scottsdale, alleged ‘bitcoin boy bandits’ dream of California return](https://www.scottsdale.org/city_news/stuck-in-scottsdale-alleged-bitcoin-boy-bandits-dream-of-california-return/article_50090fa2-287c-4cdf-b8f3-48b619806eca.html)**
+**[Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI](https://decrypt.co/367447/keel-infrastructure-posts-145-million-loss-pivot-bitcoin-miner-ai)**
 
-As January was ending, two teenagers living on the outskirts of idyllic Pismo Beach – recently named “best small coastal town in America” by USA Today – took a long,
+Formerly known as Bitfarms, the newly rebranded Keel touted a $533 million war chest to fund AI infrastructure buildout.
 
-Scottsdale Progress • 1d ago
+Decrypt • 2h ago
 
 ---
 
@@ -253,7 +251,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -269,7 +267,7 @@ ArkTunnel is a transport-layer protocol. It disguises proxy traffic as Bitcoin P
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 2d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 3d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -293,13 +291,13 @@ China’s top spy agency has come out of the shadows to warn that its young peop
 
 ## YouTube Videos: "bitcoin"
 
-**[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
+**[Bitcoin Is Close To a Massive Breakout](https://www.youtube.com/watch?v=dahX7KnKuB4)**
 
 Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 987 • 💬 164 • ⏱️ 8:11 • 15h ago
+👁️ 14K • 👍 907 • 💬 231 • ⏱️ 51:34 • 5h ago
 
 ---
 
@@ -309,57 +307,7 @@ The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 13K • 👍 2K • 💬 219 • ⏱️ 9:29 • 4h ago
-
----
-
-**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
-
-Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 1K • 💬 140 • ⏱️ 16:50 • 19h ago
-
----
-
-**[Bitcoin Is Close To a Massive Breakout](https://www.youtube.com/watch?v=dahX7KnKuB4)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 7K • 👍 653 • 💬 135 • ⏱️ 51:34 • 3h ago
-
----
-
-**[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
-
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
-
-📺 Crypto Banter
-
-👁️ 33K • 👍 1K • 💬 46 • ⏱️ 16:15 • 1d ago
-
----
-
-**[BIG WEEK AHEAD FOR BITCOIN &amp; ALTCOINS WITH BTC RESERVE NEWS &amp; CLARITY ACT MARKUP!](https://www.youtube.com/watch?v=y_iLGOFh9kE)**
-
-Crypto News: Bitcoin has a strong weekly close and Altcoin such as SUI, ONDO, and Solana are breaking out. US Bitcoin Reserve ...
-
-📺 Thinking Crypto
-
-👁️ 7K • 👍 571 • 💬 61 • ⏱️ 17:06 • 14h ago
-
----
-
-**[URGENT: Here’s Why Bitcoin’s Next Move Will Surprise You!](https://www.youtube.com/watch?v=sasOvLDBT_c)**
-
-In today's video Kyledoops shows you how things are shifting quickly in the crypto landscape & how most are not ready for what ...
-
-📺 Crypto Banter
-
-👁️ 14K • 👍 1K • 💬 17 • ⏱️ 40:35 • 10h ago
+👁️ 38K • 👍 4K • 💬 363 • ⏱️ 9:29 • 5h ago
 
 ---
 
@@ -369,7 +317,67 @@ Bitcoin #Crypto #Finance Bitcoin is testing its 200-day SMA near $82K as $858M f
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 532 • 💬 131 • ⏱️ 1:01:36 • 3h ago
+👁️ 13K • 👍 763 • 💬 213 • ⏱️ 1:01:36 • 5h ago
+
+---
+
+**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
+
+Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
+
+📺 Swan Bitcoin
+
+👁️ 2K • 👍 241 • 💬 45 • ⏱️ 15:52 • 3h ago
+
+---
+
+**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
+
+Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 2K • 💬 143 • ⏱️ 16:50 • 21h ago
+
+---
+
+**[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 1K • 💬 168 • ⏱️ 8:11 • 17h ago
+
+---
+
+**[🚨 Bitcoin Just Closed Its Most Bullish Weekly Candle of 2026 And Nobody Believes It](https://www.youtube.com/watch?v=yDpnZBMi4Vg)**
+
+Bitcoin just closed one of the strongest weekly candles of 2026 — and yet the majority of the market remains cautious, skeptical, ...
+
+📺 DataDash
+
+👁️ 1K • 👍 148 • 💬 28 • ⏱️ 17:11 • 4h ago
+
+---
+
+**[ONCE IN A LIFETIME BITCOIN SIGNAL FLASHING NOW!](https://www.youtube.com/watch?v=dbUY3Bv3WMQ)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 348 • 💬 128 • ⏱️ 9:53 • 3h ago
+
+---
+
+**[URGENT: Here’s Why Bitcoin’s Next Move Will Surprise You!](https://www.youtube.com/watch?v=sasOvLDBT_c)**
+
+In today's video Kyledoops shows you how things are shifting quickly in the crypto landscape & how most are not ready for what ...
+
+📺 Crypto Banter
+
+👁️ 16K • 👍 1K • 💬 17 • ⏱️ 40:35 • 12h ago
 
 ---
 
@@ -379,17 +387,7 @@ Rustin talks Michael Saylor's SHOCKING Bitcoin Sell Off Plan Revealed! Brought t
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 68 • 💬 94 • ⏱️ 0:51 • 16h ago
-
----
-
-**[Are They Hiding a CBDC in the Crypto Clarity Act?](https://www.youtube.com/watch?v=UAe-A5A-6EA)**
-
-The Clarity Act is being sold as stablecoin regulation, but the real story is much bigger. This breaks down how the US could use ...
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 1K • 💬 169 • ⏱️ 17:10 • 1d ago
+👁️ 3K • 👍 75 • 💬 94 • ⏱️ 0:51 • 18h ago
 
 ---
 
