@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-11T19:49:03.098512+00:00'
+updated: '2026-05-11T21:18:12.721197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 19:49 UTC  
+**Last Updated:** May 11, 2026 at 21:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** -1.4%  
 **7d:** -0.9%  
 **30d:** +7.0%  
 **90d:** +20.5%  
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
-**[Can stablecoins alone take ETH to $10,000+?](https://www.reddit.com/r/ethereum/comments/1ta6xfv/can_stablecoins_alone_take_eth_to_10000/)**
+**[Protocol Cluster Updates: May 2026](https://www.reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/)**
 
-4h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 1h ago
 
 ---
 
@@ -148,35 +148,11 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 ## Google News: "ethereum"
 
-**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
-
-Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
-
-Decrypt • 1d ago
-
----
-
 **[Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-slows-ethereum-150328315.html)**
 
 Ethereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-21-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-4-billion-302767816.html)**
-
-Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
-
-PR Newswire • 7h ago
-
----
-
-**[Ethereum, BMNR news: Bitmine buys 26K ether (ETH) after Tom Lee said to slow down accumulation](https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year)**
-
-The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
-
-CoinDesk • 6h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -184,7 +160,7 @@ CoinDesk • 6h ago
 
 Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
 
-Forbes • 7h ago
+Forbes • 9h ago
 
 ---
 
@@ -192,13 +168,21 @@ Forbes • 7h ago
 
 The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
 
-Gizmodo • 3h ago
+Gizmodo • 4h ago
+
+---
+
+**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
+
+Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
+
+Decrypt • 1d ago
 
 ---
 
@@ -212,7 +196,7 @@ Bloomberg.com • 2d ago
 
 Ronin migrates from an Ethereum sidechain to an OP Stack Layer 2 on May 12, four years after Lazarus hackers stole over $600M in crypto.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -220,7 +204,23 @@ The Block • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
+
+---
+
+**[Ethereum Analyst Sets $24,000 Full Parabolic Target, Here’s The Roadmap](https://www.tradingview.com/news/newsbtc:53e67a9b7094b:0-ethereum-analyst-sets-24-000-full-parabolic-target-here-s-the-roadmap/)**
+
+A crypto analyst has just predicted multiple bullish price targets for Ethereum (ETH), but expecting a major dip to critical support levels first before a sharp rally toward $6,000. From there, he outlines a roadmap to much higher targets, with $24,000 set as the ultimate parabolic zone. The analys…
+
+TradingView • 10h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH closes above key resistance, XRP eyes bullish channel breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-closes-above-key-resistance-xrp-eyes-bullish-channel-breakout-202605110327)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after surging nearly 5%, 2% and 6%, respectively, in the previous week. BTC holds above $81,000 while ETH closes above the key resistance zone.
+
+FXStreet • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 2K • 👍 119 • 💬 147 • ⏱️ 8:44 • 9h ago
+👁️ 2K • 👍 119 • 💬 147 • ⏱️ 8:44 • 10h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the 
 
 📺 Cointelegraph
 
-👁️ 356 • 👍 24 • 💬 3 • ⏱️ 9:08 • 2h ago
+👁️ 356 • 👍 24 • 💬 3 • ⏱️ 9:08 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 348 • 💬 19 • ⏱️ 8:43 • 11h ago
+👁️ 6K • 👍 348 • 💬 19 • ⏱️ 8:43 • 13h ago
 
 ---
 
@@ -264,7 +264,7 @@ ONDO Finance is moving into a new era with XRP and Ethereum as the entire world 
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 147 • 💬 64 • ⏱️ 9:34 • 2h ago
+👁️ 1K • 👍 147 • 💬 64 • ⏱️ 9:34 • 4h ago
 
 ---
 
@@ -304,7 +304,7 @@ Thank you for your support and your support with likes and subscriptions. Trade 
 
 📺 KE Crypto
 
-👁️ 4 • 💬 1 • ⏱️ 14:07 • 2h ago
+👁️ 4 • 💬 1 • ⏱️ 14:07 • 4h ago
 
 ---
 
@@ -324,7 +324,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 67 • 💬 19 • ⏱️ 0:44 • 2h ago
+👁️ 1K • 👍 67 • 💬 19 • ⏱️ 0:44 • 4h ago
 
 ---
 
