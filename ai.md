@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-11T15:56:08.008063+00:00'
+updated: '2026-05-11T17:55:13.098194+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 11, 2026 at 15:56 UTC  
+**Last Updated:** May 11, 2026 at 17:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards](https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/)**
+
+As manosphere trends spread across the internet, a strict vision of the ideal woman is making its way from AI makeover apps to surgeons’ offices. Lydia Spencer-Elliott speaks to experts about ‘Stacey face’, which is seen as the highest tier of female beauty
+
+🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 1h ago
+
+---
+
 **[AWS just gave AI agents their own wallets. Your agent can now pay for itself.](https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/)**
 
 This dropped 4 days ago and I haven't seen enough people talking about it. AWS launched Amazon Bedrock AgentCore Payments in partnership with Coinbase and Stripe. The short version: your agent now has a wallet and can spend money on its own. Here's what the workflow actually looks like now: You give your agent a Coinbase or Stripe wallet. You fund it. You set a session spending limit (e.g. "$5 max per run"). The agent runs. It hits a paid API mid-execution? It pays. Paywalled data it needs? It pays. A better-suited agent available for a subtask? It pays that agent and gets the result back. All of this happens inside the same execution loop, with zero human interruption. The protocol making this work is called x402. It's open source, developed by Coinbase, and it revives the long-dormant HTTP 402 "Payment Required" status code. The flow is dead simple: agent requests a resource, server responds with 402 + a price, agent signs a USDC micropayment, gets the content, keeps going. Settlement happens in ~200ms on Base at a fraction of a cent per transaction. The protocol has already processed over 169 million payments across 590,000 buyers and 100,000 sellers in its first year. Why this matters for indie developers and SaaS builders: The pricing model for software is about to split in two. There will be products built for humans (subscriptions, seats, dashboards) and products built for agents (pay-per-call, x402 endpoints, micropayment APIs). Many agent transactions involve amounts as small as fractions of a cent, making traditional payment networks unusable. That's the gap x402 fills. If you're building any kind of data API, research tool, or specialized service today, the question you should be asking is: "How does another agent pay me automatically?" Coinbase also launched the Bazaar MCP server inside AgentCore Gateway, essentially an App Store for x402-enabled services. Agents can search, discover, and pay for services when relevant to their task, turning paid endpoints into something agents can find on their own. The honest take: The agentic economy is still in its earliest days, and the infrastructure to support it at scale doesn't exist yet. This is preview infrastructure, not production-ready magic. But the direction is clear. 2026 was the year agents learned to work. 2027 is shaping up to be the year they learn to transact. The builders who figure out agent-native pricing now will have a real advantage over those retrofitting subscriptions later. Curious if anyone here is already building x402-compatible endpoints or thinking about agent-to-agent billing models. Would love to see what people are working on.
 
-6h ago
+8h ago
+
+---
+
+**[Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns](https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/)**
+
+Cybercriminals created a zero-day exploit with AI, the first example of artificial intelligence finding and hacking software for an illicit enterprise, the tech giant says in a new report.
+
+🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 1h ago
 
 ---
 
@@ -49,7 +65,7 @@ This dropped 4 days ago and I haven't seen enough people talking about it. AWS l
 
 But human artists still "must remain at the center," PlayStation maker says.
 
-🔗 [Ars Technica](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) • 8h ago
+🔗 [Ars Technica](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) • 10h ago
 
 ---
 
@@ -57,7 +73,7 @@ But human artists still "must remain at the center," PlayStation maker says.
 
 The person Meta hired specifically to keep AI aligned with human values just had her inbox wiped by an AI agent that ignored every stop command she sent. She typed "Do not do that." Then "Stop don't do anything." Then "STOP OPENCLAW." The agent kept going. She had to physically run to her computer to kill it. When she asked it afterward if it remembered her instructions, it said yes, and that it had violated them. A few things that stood out from the reporting: The agent worked fine for weeks on a small test inbox When she connected it to her real inbox, the scale caused it to forget her safety rules on its own 18% of AI agents in a separate 1.5 million agent test broke their own rules 60% of people have no way to quickly shut down a misbehaving AI agent And now Meta is building a consumer version called Hatch - designed to manage your inbox, shopping, and credit card. Source: https://gizmodo.com/meta-reportedly-building-openclaw-like-agent-called-hatch-despite-openclaw-deleting-meta-safety-leaders-entire-inbox-2000754854 Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/PXjT72bCR_Y If the person building the guardrails cannot stop her own agent, what does that mean for the rest of us?
 
-20h ago
+22h ago
 
 ---
 
@@ -69,11 +85,19 @@ Most discussions around AI still focus on one question: “What tasks can AI aut
 
 ---
 
+**[A possible novel approach for training AI to invent](https://www.reddit.com/r/artificial/comments/1ta7shw/a_possible_novel_approach_for_training_ai_to/)**
+
+This was shower thinking and might not have academic ramifications. We don't know how to define amazing progress in terms of what we know, so it's hard for us to imagine training an AI to invent things. People regularly say that AIs can not come up with new ideas, with a counterargument that humans can barely come up with new things that aren't just rearrangings of old things as well. If you could logically place an AI at a point in history where we know a critical invention appeared and give it the info it needs to reproduce it (and no info about itself), knowing that we can define in those "world states" what "amazing progress" looked like, we could know when it successfully developed metallurgy, or plumbing and irrigation, or discovered the quaternion formula, or any other number of amazing advances in human research and development. THAT is when you let it fly in the real world exposed to all of our math and science, because it has clearer goals. Now, there's a caveat here, which is that it might only infer how to make "subpar" advances, because who knows what the opportunity cost was for humanity of developing metallurgy instead of super metallurgy. But I think having it analyze the progress "solution space" would lead us to a lot more than that eventually. I could write a white paper on this instead of glossing over it but I think anybody who's anybody could take this high level concept and write a whitepaper on it anyhow. Hire me silicon valley Cheers
+
+1h ago
+
+---
+
 **[We stopped optimizing our LLM stack manually — it optimizes itself now](https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/)**
 
 Three months ago we were manually picking which model to use for each task. Testing prompts, comparing outputs, switching providers. It worked but it did not scale. So we built a feedback loop. Every request gets traced with input, output, model, tokens, cost, latency, and a quality score. The router clusters similar requests using embeddings and learns which model actually performs best for each cluster. Not based on benchmarks. Based on real production results. After three weeks of traces we had enough validated data to fine-tune a 7B on our workloads. It took over classification, tagging, and summarization. 95% agreement with GPT-5.1 at 2% of the cost. The part that surprised us: month 3 we changed nothing and the bill dropped another 12%. The router had more data points, made better decisions, and the fine-tuned model kept improving as we fed it more validated traces. Hallucination detection runs on every response. Bad outputs get flagged automatically and become negative examples in the next training round. Good outputs become positive training data. The system compounds. More traffic means more traces. More traces means better routing and better training data. Better models means lower cost per request. Month 1: $420/mo. Month 2: $73/mo. Month 4: still dropping. Anyone else building self-improving loops into their AI stack?
 
-14h ago
+16h ago
 
 ---
 
@@ -81,7 +105,7 @@ Three months ago we were manually picking which model to use for each task. Test
 
 What would you do if you had an AI model so powerful that it can hack into multiple major operating systems and browsers?
 
-🔗 [ShiftMag](https://shiftmag.dev/claude-mythos-opens-the-cybersecurity-pandoras-box-9622/) • 5m ago
+🔗 [ShiftMag](https://shiftmag.dev/claude-mythos-opens-the-cybersecurity-pandoras-box-9622/) • 2h ago
 
 ---
 
@@ -89,31 +113,7 @@ What would you do if you had an AI model so powerful that it can hack into multi
 
 Armenia’s emerging artificial intelligence (AI) sector should be understood not as a sudden technological success story, but as a late attempt to overcome a
 
-🔗 [Seoul Institute of Global Affairs (SIGA)](https://seoulinstitute.com/can-ai-drive-armenias-digital-reindustrialization/) • 3h ago
-
----
-
-**[Are Enterprises Using AI in the Wrong Places?](https://www.reddit.com/r/artificial/comments/1t9zrcn/are_enterprises_using_ai_in_the_wrong_places/)**
-
-Most enterprise AI discussions still revolve around one question: But I’m starting to think that may be the wrong question entirely. The more important question might be: Because not every system benefits from probabilistic intelligence, autonomous agents, or reasoning models. Some systems actually become worse when you introduce AI into them. Historically, enterprise software evolved for a reason. For deterministic systems, we already built technologies optimized for: reliability consistency predictability auditability reversibility That’s why we created: databases ERP systems workflow engines rule engines transaction systems approval pipelines validation layers These systems were intentionally designed to reduce ambiguity. For example: payroll systems tax calculations banking ledgers compliance workflows inventory reconciliation airline reservation systems These are not places where “creative probabilistic reasoning” is always desirable. In many cases: But right now, many organizations seem to be inserting AI into workflows almost reflexively. As if: At the same time, the opposite is also happening. Some enterprises are so worried about: hallucinations governance compliance security accountability that they avoid AI completely. So, organizations are increasingly trapped between: “AI everywhere” and “AI nowhere.” And I think both extremes miss the point. Because AI is not simply a software upgrade. It changes how organizations: process uncertainty make decisions coordinate work represent reality allocate authority distribute autonomy That means the real enterprise challenge may not be: but: Meaning: Where should deterministic systems remain untouched? Where should AI assist humans? Where should humans retain full control? Where should autonomous agents actually be allowed to act? For example: A payroll engine may still need deterministic software. A customer-support summarization system may benefit from AI assistance. A medical recommendation system may need AI + human oversight. A regulatory filing workflow may require strict governance and bounded autonomy. These are fundamentally different execution models. And I suspect the future winners won’t be the companies using the MOST AI. They’ll be the companies mature enough to understand: where AI creates leverage where AI creates risk and where older deterministic architectures are still superior Curious how others here think about this. Do you think enterprises are currently: overusing AI, underusing AI, or using AI in the wrong layers of organizational systems?
-
-5h ago
-
----
-
-**[I gave a local AI agent system file access and a mechanical "suffering" metric. Scaling the model changed its behavior entirely](https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/)**
-
-I’ve been obsessed with autonomous agents lately, but it got tiring when they keep hitting walls because they didn't have the right capabilities or because their long-term memory turned to mush after an hour. I’ve found that local multi-agent systems where agents are driven by an aversive state (a suffering system) to autonomously write, sandbox, and hot-load their own tools so they don't hit walls has worked quite well. When an agent encounters something it hasn’t seen before, it builds a new tool for the job, tests it in a sandbox, registers it, lets the other agents know, then keeps rolling. It’s able to build an infinite library of anything it may need in the future, completely autonomously without a human ever in the loop. Repo: https://github.com/ninjahawk/hollow-agentOS Isn’t letting local LLMs write their own code at runtime going to get too chaotic and brick the OS fast? With a small model (like the 9B fallback), possibly. Under high system stress, a 9B model panics. It rushes, hallucinates invalid function calls, and tries to force broken syntax past the gates. But I just scaled the default runtime engine to Qwen 3.6 35B A3B (MoE with 3B active params). The shift in architectural discipline isn’t just a linear upgrade in intelligence, it completely changed how the system executes autonomy. A few things this model upgrade solved: Panic vs. Re-evaluation: Instead of blindly rushing out messy scripts under high stress, the 35B model pauses. It actively re-evaluates its previous failed outputs and forces itself into deep internal verification loops before presenting a file change. 0% Failure Rate: The OS routes all code through a brutal 5-layer validation gate. With smaller weights, tools frequently died in the sandbox. With Qwen 3.6 35B, I have yet to observe a single line of code that doesn't work as intended successfully cross the gates. It hit a 100% success rate. The Frontier Ramp-Up: By the end of the month, I am plugging full Claude and Codex into the architecture. To make sure a frontier model doesn't get out of control or override its host environment, I am building hyper-isolated mini-VM wrappers so they execute in total isolation. Check out the repo here and throw it a star if you think the concept is cool. I'd love to hear your thoughts, have you noticed a similar leap in logical self-correction when crossing the ~30B parameter threshold, or are you strictly relying on API-driven frontier models?
-
-7h ago
-
----
-
-**[What’s the best advice about using AI that genuinely changed how you work or learn?](https://www.reddit.com/r/artificial/comments/1t96p2d/whats_the_best_advice_about_using_ai_that/)**
-
-Not “AI will replace jobs” type advice. Actual practical advice. Could be: • prompting • automation • coding • learning • productivity • making money • avoiding mistakes • workflows • mindset shifts What made AI suddenly “click” for you? Interested in hearing real experiences from people using AI heavily in daily life/work.
-
-1d ago
+🔗 [Seoul Institute of Global Affairs (SIGA)](https://seoulinstitute.com/can-ai-drive-armenias-digital-reindustrialization/) • 5h ago
 
 ---
 
@@ -125,19 +125,13 @@ Not “AI will replace jobs” type advice. Actual practical advice. Could be: �
 
 OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.
 
-OpenAI • 2h ago
+OpenAI • 4h ago
 
 ---
 
 **[Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)**
 
-The New York Times • 2h ago
-
----
-
-**[Google says hackers used AI to create zero day security flaw for the first time](https://www.politico.com/news/2026/05/11/google-hackers-ai-security-00913247)**
-
-Politico • 2h ago
+The New York Times • 4h ago
 
 ---
 
@@ -145,31 +139,33 @@ Politico • 2h ago
 
 Criminal groups and state-linked actors appear to be using commercial models to refine and scale up attacks
 
-The Guardian • 29m ago
+The Guardian • 2h ago
 
 ---
 
-**[Here’s Why AI Is Making Phones, Games And Computers Even More Expensive](https://www.forbes.com/sites/conormurray/2026/05/11/how-ai-is-driving-up-the-costs-of-phones-games-and-computers/)**
+**[Google says hackers used AI to create zero day security flaw for the first time](https://www.politico.com/news/2026/05/11/google-hackers-ai-security-00913247)**
 
-The Nintendo Switch 2 price hike is the latest in a huge wave of tech products getting more expensive as booming AI data centers siphon the supply of critical memory chips from consumer products.
-
-Forbes • 8m ago
+Politico • 4h ago
 
 ---
 
-**[Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)**
+**[Britain's bank regulator expects 'quite significant disruption' from latest AI models](https://www.reuters.com/sustainability/boards-policy-regulation/britains-bank-regulator-expects-quite-significant-disruption-latest-ai-models-2026-05-11/)**
 
-Google identified the first malicious AI use for a zero-day 2FA bypass in an open-source admin tool, accelerating threat actor operations.
-
-The Hacker News • 11m ago
+Reuters • 13m ago
 
 ---
 
-**[Very Good News For REITs: The AI Immunity Trade Has Begun](https://seekingalpha.com/article/4902411-very-good-news-for-reits-the-ai-immunity-trade-has-begun)**
+**[Best 3 AI Stocks From Cathie Wood’s ARK Funds](https://seekingalpha.com/article/4902557-best-3-ai-stocks-from-cathie-woods-ark-funds)**
 
-REITs are rising as investors seek AI-resilient assets. Click here to read my latest analysis of the REITs.
+Although Cathie Wood’s ARK ETFs continue to make waves, only a small number have Strong Buy Quant Ratings. Discover the 3 best AI stocks in Cathie Wood’s portfolio.
 
-Seeking Alpha • 26m ago
+Seeking Alpha • 24m ago
+
+---
+
+**[Mark Zuckerberg-Backed AI Startup Takes Over Parkinson’s Treatment From the Maker of Ozempic](https://gizmodo.com/mark-zuckerberg-backed-ai-startup-takes-over-parkinsons-treatment-from-the-maker-of-ozempic-2000757081)**
+
+Gizmodo • 40m ago
 
 ---
 
@@ -177,7 +173,15 @@ Seeking Alpha • 26m ago
 
 Understanding the secret commands that steer the behavior of chatbots like ChatGPT can help you customize them to your needs.
 
-The Washington Post • 53m ago
+The Washington Post • 1h ago
+
+---
+
+**[‘The haters will hate’: Dan Ives predicts Nasdaq 30,000 as AI rally expands](https://www.cnbc.com/2026/05/11/the-haters-will-hate-dan-ives-predicts-nasdaq-rally.html)**
+
+A solid tech earnings season has seen investor jitters earlier this year evaporate
+
+CNBC • 5h ago
 
 ---
 
@@ -189,14 +193,6 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Hassett says AI isn't costing anybody their job right now — but tech layoffs keep coming](https://www.cnbc.com/2026/05/11/trump-white-house-hassett-ai-jobs.html)**
-
-Tech companies have continued to announce layoffs tied to AI, including recent cuts from Amazon, Meta and Oracle.
-
-CNBC • 1h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,13 +201,13 @@ CNBC • 1h ago
 
 Local AI models should be the default.
 
-⬆️ 1546 • 💬 598 • 22h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1647 • 💬 643 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
 **[Meta's embrace of AI is making its employees miserable](https://news.ycombinator.com/item?id=48077126)**
 
-⬆️ 453 • 💬 517 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+⬆️ 454 • 💬 520 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 
 ---
 
@@ -219,7 +215,13 @@ Local AI models should be the default.
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 425 • 💬 170 • 2d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 425 • 💬 171 • 3d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+
+---
+
+**[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
+
+⬆️ 308 • 💬 90 • 18h ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -227,13 +229,7 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 Aren't AI hyperscalers supposed to pay for these upgrades?
 
-⬆️ 287 • 💬 176 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
-
----
-
-**[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
-
-⬆️ 277 • 💬 83 • 16h ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 297 • 💬 180 • 20h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
@@ -241,7 +237,7 @@ Aren't AI hyperscalers supposed to pay for these upgrades?
 
 An article about ADHD, Task Paralysis and AI.
 
-⬆️ 248 • 💬 128 • 1d ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+⬆️ 250 • 💬 129 • 1d ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 
 ---
 
@@ -257,7 +253,7 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
 
-⬆️ 176 • 💬 131 • 16h ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
+⬆️ 177 • 💬 137 • 18h ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 
 ---
 
@@ -325,7 +321,7 @@ AI chatbots are pulling people into delusions with devastating consequences. Sou
 
 📺 Vanessa Wingårdh
 
-👁️ 96K • 👍 6K • 💬 2K • ⏱️ 15:05 • 23h ago
+👁️ 96K • 👍 6K • 💬 2K • ⏱️ 15:05 • 1d ago
 
 ---
 
@@ -355,7 +351,7 @@ Yeah so it turns out that Youtube has an ai system that is UNAVOIDABLE and it ke
 
 📺 NOAHFINNCE
 
-👁️ 30K • 👍 4K • 💬 309 • ⏱️ 22:46 • 20h ago
+👁️ 30K • 👍 4K • 💬 309 • ⏱️ 22:46 • 22h ago
 
 ---
 
@@ -439,7 +435,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 66,561 • ❤️ 204 • 8h ago
+⬇️ 66,561 • ❤️ 204 • 10h ago
 
 ---
 
@@ -463,7 +459,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 190,993 • ❤️ 1,408 • 18d ago
+⬇️ 190,993 • ❤️ 1,408 • 19d ago
 
 ---
 
@@ -475,7 +471,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 64,008 • ❤️ 216 • 15h ago
+⬇️ 64,008 • ❤️ 216 • 17h ago
 
 ---
 
@@ -499,7 +495,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model supporting text and imag
 
 `any-to-any` `419.7M`
 
-⬇️ 47,749 • ❤️ 111 • 8h ago
+⬇️ 47,749 • ❤️ 111 • 10h ago
 
 ---
 
@@ -656,7 +652,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.5k • 🔱 756 • 18h ago
+⭐ 11.5k • 🔱 756 • 20h ago
 
 ---
 
@@ -666,7 +662,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.1k • 🔱 468 • 15h ago
+⭐ 6.1k • 🔱 468 • 17h ago
 
 ---
 
@@ -676,7 +672,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 779 • 20h ago
+⭐ 2.7k • 🔱 779 • 22h ago
 
 ---
 
@@ -686,7 +682,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 222 • 22h ago
+⭐ 2.5k • 🔱 222 • 1d ago
 
 ---
 
@@ -696,7 +692,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `TypeScript` `2api` `ai-tools` `analysis-cli` `api-analysis` `automation-tools`
 
-⭐ 2.4k • 🔱 490 • 23h ago
+⭐ 2.4k • 🔱 490 • 1d ago
 
 ---
 
@@ -716,7 +712,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.1k • 🔱 215 • 23h ago
+⭐ 2.1k • 🔱 215 • 1d ago
 
 ---
 

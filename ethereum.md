@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-11T15:56:08.021022+00:00'
+updated: '2026-05-11T17:55:13.112613+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 15:56 UTC  
+**Last Updated:** May 11, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.3%  
-**30d:** +6.5%  
-**90d:** +20.1%  
-**1y:** -6.4%  
+**24h:** -1.0%  
+**7d:** -1.0%  
+**30d:** +6.8%  
+**90d:** +20.4%  
+**1y:** -6.1%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
 **[Can stablecoins alone take ETH to $10,000+?](https://www.reddit.com/r/ethereum/comments/1ta6xfv/can_stablecoins_alone_take_eth_to_10000/)**
 
-19m ago
+2h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
-1d ago
+2d ago
 
 ---
 
@@ -152,31 +152,37 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-slows-ethereum-150328315.html)**
+**[BitMine Slows Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-171700536.html)**
 
-Ethereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.
+BitMine Immersion Technologies (NYSE: $BMNR) has slowed its Ethereum (CRYPTO: $ETH) purchases over the past week.&n...
 
-Yahoo Finance • 52m ago
-
----
-
-**[Investor Relations Leadership Change Highlights Bit Digital’s (BTBT) Ethereum and AI Strategy Push](https://finance.yahoo.com/markets/crypto/articles/investor-relations-leadership-change-highlights-145747877.html)**
-
-Bit Digital appointed a new Head of Investor Relations as the company continues expanding its Ethereum infrastructure and AI/HPC positioning in public markets. Key Investor TakeawaysBit Digital (NASDAQ:BTBT) named Daniel Kennedy as Head of Investor Relations, replacing Cameron Schnier.
-
-Yahoo Finance • 58m ago
+Yahoo Finance • 38m ago
 
 ---
 
-**[Ronin set to transition to Ethereum layer 2 from independent sidechain](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
+**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
+
+Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
+
+Forbes • 5h ago
+
+---
+
+**[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
+
+Gizmodo • 1h ago
+
+---
+
+**[Ronin gaming sidechain gets ready to transition to Ethereum layer 2](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
 
 The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -184,7 +190,7 @@ CoinDesk • 3h ago
 
 Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
 
-PR Newswire • 3h ago
+PR Newswire • 5h ago
 
 ---
 
@@ -194,11 +200,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
+**[From hack to OP Stack: Ronin to migrate from gaming sidechain to Ethereum Layer 2 four years after Lazarus attack](https://www.theblock.co/post/400732/from-hack-to-op-stack-ronin-to-migrate-from-gaming-sidechain-to-ethereum-layer-2-four-years-after-lazarus-attack)**
 
-Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
+Ronin migrates from an Ethereum sidechain to an OP Stack Layer 2 on May 12, four years after Lazarus hackers stole over $600M in crypto.
 
-Forbes • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -206,21 +212,15 @@ Forbes • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
-**[Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?](https://www.tradingview.com/news/cointelegraph:54e14fee7094b:0-ethereum-down-35-versus-bitcoin-in-a-year-will-the-eth-price-downtrend-continue/)**
+**[Ethereum Analyst Sets $24,000 Full Parabolic Target, Here’s The Roadmap](https://www.tradingview.com/news/newsbtc:53e67a9b7094b:0-ethereum-analyst-sets-24-000-full-parabolic-target-here-s-the-roadmap/)**
 
-Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
+A crypto analyst has just predicted multiple bullish price targets for Ethereum (ETH), but expecting a major dip to critical support levels first before a sharp rally toward $6,000. From there, he outlines a roadmap to much higher targets, with $24,000 set as the ultimate parabolic zone. The analys…
 
-TradingView • 23h ago
-
----
-
-**[Ethereum under pressure after 577K ETH transfer – Will ETH price slide?](https://ambcrypto.com/ethereum-under-pressure-after-577k-eth-transfer-will-eth-price-slide/)**
-
-AMBCrypto • 5h ago
+TradingView • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 922 • 👍 95 • 💬 150 • ⏱️ 8:44 • 5h ago
+👁️ 922 • 👍 95 • 💬 150 • ⏱️ 8:44 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 Satoshi Stacker
 
-👁️ 5K • 👍 332 • 💬 18 • ⏱️ 8:43 • 7h ago
+👁️ 5K • 👍 332 • 💬 18 • ⏱️ 8:43 • 9h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 176 • 👍 14 • ⏱️ 4:34 • 7h ago
+👁️ 176 • 👍 14 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 106 • 💬 4 • ⏱️ 6:59 • 13h ago
+👁️ 1K • 👍 106 • 💬 4 • ⏱️ 6:59 • 15h ago
 
 ---
 
@@ -324,7 +324,7 @@ Trade with Toobit (Recommended Exchange)➡️ Deposit and Trade to Get Up to 10
 
 📺 Evan Aldo
 
-👁️ 524 • 👍 49 • 💬 2 • ⏱️ 10:06 • 17h ago
+👁️ 524 • 👍 49 • 💬 2 • ⏱️ 10:06 • 19h ago
 
 ---
 
