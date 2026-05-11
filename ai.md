@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-11T22:33:05.291464+00:00'
+updated: '2026-05-11T23:59:32.105014+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 11, 2026 at 22:33 UTC  
+**Last Updated:** May 11, 2026 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.
 
-🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 3h ago
+🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 5h ago
 
 ---
 
@@ -49,15 +49,7 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 As manosphere trends spread across the internet, a strict vision of the ideal woman is making its way from AI makeover apps to surgeons’ offices. Lydia Spencer-Elliott speaks to experts about ‘Stacey face’, which is seen as the highest tier of female beauty
 
-🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 5h ago
-
----
-
-**[AWS just gave AI agents their own wallets. Your agent can now pay for itself.](https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/)**
-
-This dropped 4 days ago and I haven't seen enough people talking about it. AWS launched Amazon Bedrock AgentCore Payments in partnership with Coinbase and Stripe. The short version: your agent now has a wallet and can spend money on its own. Here's what the workflow actually looks like now: You give your agent a Coinbase or Stripe wallet. You fund it. You set a session spending limit (e.g. "$5 max per run"). The agent runs. It hits a paid API mid-execution? It pays. Paywalled data it needs? It pays. A better-suited agent available for a subtask? It pays that agent and gets the result back. All of this happens inside the same execution loop, with zero human interruption. The protocol making this work is called x402. It's open source, developed by Coinbase, and it revives the long-dormant HTTP 402 "Payment Required" status code. The flow is dead simple: agent requests a resource, server responds with 402 + a price, agent signs a USDC micropayment, gets the content, keeps going. Settlement happens in ~200ms on Base at a fraction of a cent per transaction. The protocol has already processed over 169 million payments across 590,000 buyers and 100,000 sellers in its first year. Why this matters for indie developers and SaaS builders: The pricing model for software is about to split in two. There will be products built for humans (subscriptions, seats, dashboards) and products built for agents (pay-per-call, x402 endpoints, micropayment APIs). Many agent transactions involve amounts as small as fractions of a cent, making traditional payment networks unusable. That's the gap x402 fills. If you're building any kind of data API, research tool, or specialized service today, the question you should be asking is: "How does another agent pay me automatically?" Coinbase also launched the Bazaar MCP server inside AgentCore Gateway, essentially an App Store for x402-enabled services. Agents can search, discover, and pay for services when relevant to their task, turning paid endpoints into something agents can find on their own. The honest take: The agentic economy is still in its earliest days, and the infrastructure to support it at scale doesn't exist yet. This is preview infrastructure, not production-ready magic. But the direction is clear. 2026 was the year agents learned to work. 2027 is shaping up to be the year they learn to transact. The builders who figure out agent-native pricing now will have a real advantage over those retrofitting subscriptions later. Curious if anyone here is already building x402-compatible endpoints or thinking about agent-to-agent billing models. Would love to see what people are working on.
-
-12h ago
+🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 7h ago
 
 ---
 
@@ -65,15 +57,23 @@ This dropped 4 days ago and I haven't seen enough people talking about it. AWS l
 
 Cybercriminals created a zero-day exploit with AI, the first example of artificial intelligence finding and hacking software for an illicit enterprise, the tech giant says in a new report.
 
-🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 5h ago
+🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 7h ago
 
 ---
 
-**[Sony says "efficient" AI tools will lead to even more games flooding the market](https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/)**
+**[AWS just gave AI agents their own wallets. Your agent can now pay for itself.](https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/)**
 
-But human artists still "must remain at the center," PlayStation maker says.
+This dropped 4 days ago and I haven't seen enough people talking about it. AWS launched Amazon Bedrock AgentCore Payments in partnership with Coinbase and Stripe. The short version: your agent now has a wallet and can spend money on its own. Here's what the workflow actually looks like now: You give your agent a Coinbase or Stripe wallet. You fund it. You set a session spending limit (e.g. "$5 max per run"). The agent runs. It hits a paid API mid-execution? It pays. Paywalled data it needs? It pays. A better-suited agent available for a subtask? It pays that agent and gets the result back. All of this happens inside the same execution loop, with zero human interruption. The protocol making this work is called x402. It's open source, developed by Coinbase, and it revives the long-dormant HTTP 402 "Payment Required" status code. The flow is dead simple: agent requests a resource, server responds with 402 + a price, agent signs a USDC micropayment, gets the content, keeps going. Settlement happens in ~200ms on Base at a fraction of a cent per transaction. The protocol has already processed over 169 million payments across 590,000 buyers and 100,000 sellers in its first year. Why this matters for indie developers and SaaS builders: The pricing model for software is about to split in two. There will be products built for humans (subscriptions, seats, dashboards) and products built for agents (pay-per-call, x402 endpoints, micropayment APIs). Many agent transactions involve amounts as small as fractions of a cent, making traditional payment networks unusable. That's the gap x402 fills. If you're building any kind of data API, research tool, or specialized service today, the question you should be asking is: "How does another agent pay me automatically?" Coinbase also launched the Bazaar MCP server inside AgentCore Gateway, essentially an App Store for x402-enabled services. Agents can search, discover, and pay for services when relevant to their task, turning paid endpoints into something agents can find on their own. The honest take: The agentic economy is still in its earliest days, and the infrastructure to support it at scale doesn't exist yet. This is preview infrastructure, not production-ready magic. But the direction is clear. 2026 was the year agents learned to work. 2027 is shaping up to be the year they learn to transact. The builders who figure out agent-native pricing now will have a real advantage over those retrofitting subscriptions later. Curious if anyone here is already building x402-compatible endpoints or thinking about agent-to-agent billing models. Would love to see what people are working on.
 
-🔗 [Ars Technica](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) • 15h ago
+14h ago
+
+---
+
+**[Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense](https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/)**
+
+Google shared limited information about the attackers and the target, but John Hultquist, chief analyst at the tech giant’s threat intelligence arm, said it represents a moment cybersecurity experts have warned about for years: malicious hackers arming themselves with AI to supercharge their ability to break into the world’s computers. “It’s here,” Hultquist said. “The era of AI-driven vulnerability and exploitation is already here.”
+
+🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 28m ago
 
 ---
 
@@ -81,7 +81,23 @@ But human artists still "must remain at the center," PlayStation maker says.
 
 When Trump last visited China in 2017, artificial intelligence was not yet the centre of global power. Now it is.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link) • 2h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link) • 3h ago
+
+---
+
+**[[Virtual] AI Saturdays - Learn how to setup a local LLM (16th May, 6 PM ET)](https://www.reddit.com/r/artificial/comments/1tah71r/virtual_ai_saturdays_learn_how_to_setup_a_local/)**
+
+Hey folks This Saturday, May 16 at 6:00 PM ET, we're covering how to set up a local language model: running an LLM on your own machine instead of a private provider. RSVP here: https://www.meetup.com/chillnskill/events/314498136/
+
+2h ago
+
+---
+
+**[Sony says "efficient" AI tools will lead to even more games flooding the market](https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/)**
+
+But human artists still "must remain at the center," PlayStation maker says.
+
+🔗 [Ars Technica](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) • 17h ago
 
 ---
 
@@ -93,27 +109,11 @@ The person Meta hired specifically to keep AI aligned with human values just had
 
 ---
 
-**[[Virtual] AI Saturdays - Learn how to setup a local LLM (16th May, 6 PM ET)](https://www.reddit.com/r/artificial/comments/1tah71r/virtual_ai_saturdays_learn_how_to_setup_a_local/)**
+**[Are we finally getting to the point where AI agents can actually do tasks instead of just chatting?](https://www.reddit.com/r/artificial/comments/1tadu47/are_we_finally_getting_to_the_point_where_ai/)**
 
-Hey folks This Saturday, May 16 at 6:00 PM ET, we're covering how to set up a local language model: running an LLM on your own machine instead of a private provider. RSVP here: https://www.meetup.com/chillnskill/events/314498136/
+Most AI tools today are great at giving answers, writing content, or helping with coding, but they still feel limited to conversation. What I’m more curious about is whether we’re starting to see systems that can actually carry out real world tasks from start to finish without constant human involvement. Things like dealing with customer support, cancelling subscriptions, requesting refunds, or even navigating websites and filling out forms automatically still feel surprisingly manual in 2026. I keep wondering if the shift from AI that talks to AI that does is actually happening in practice, or if we’re still mostly in the demo and early adoption phase.
 
-1h ago
-
----
-
-**[I think AI is changing something deeper than jobs or productivity](https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/)**
-
-Most discussions around AI still focus on one question: “What tasks can AI automate?” But I’m starting to think that’s the wrong abstraction layer. Historically, organizations were built around human limitations: humans couldn’t process infinite information, couldn’t remember everything had difficulty in coordination Essentially, we humans were the bottleneck for decisions and execution So, we created structures like departments, management layers, workflows, approvals, documentation systems, etc. But AI changes some of those assumptions. For example: if organizational memory becomes searchable and persistent, cheap, scalable coordination becomes eas , software agents can execute parts of workflows autonomously, …then the architecture of organizations itself may change. Not just faster work. Different work structures. Maybe the future isn’t: “AI replacing humans.” Maybe it’s: “AI changing how institutions represent reality, make decisions, and coordinate action.” That could affect: company structures education management compliance law consulting healthcare even government systems Curious if others here are thinking about AI at this “system architecture” level instead of just a “task automation” level.
-
-1d ago
-
----
-
-**[We stopped optimizing our LLM stack manually — it optimizes itself now](https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/)**
-
-Three months ago we were manually picking which model to use for each task. Testing prompts, comparing outputs, switching providers. It worked but it did not scale. So we built a feedback loop. Every request gets traced with input, output, model, tokens, cost, latency, and a quality score. The router clusters similar requests using embeddings and learns which model actually performs best for each cluster. Not based on benchmarks. Based on real production results. After three weeks of traces we had enough validated data to fine-tune a 7B on our workloads. It took over classification, tagging, and summarization. 95% agreement with GPT-5.1 at 2% of the cost. The part that surprised us: month 3 we changed nothing and the bill dropped another 12%. The router had more data points, made better decisions, and the fine-tuned model kept improving as we fed it more validated traces. Hallucination detection runs on every response. Bad outputs get flagged automatically and become negative examples in the next training round. Good outputs become positive training data. The system compounds. More traffic means more traces. More traces means better routing and better training data. Better models means lower cost per request. Month 1: $420/mo. Month 2: $73/mo. Month 4: still dropping. Anyone else building self-improving loops into their AI stack?
-
-21h ago
+4h ago
 
 ---
 
@@ -121,11 +121,19 @@ Three months ago we were manually picking which model to use for each task. Test
 
 ## Google News: "ai"
 
+**[In turf battle over AI, U.S. spy agencies vie for more sway than Commerce](https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/)**
+
+As the White House grapples with cybersecurity threats from advanced artificial intelligence models, national security officials want more sway in AI regulation.
+
+The Washington Post • 2m ago
+
+---
+
 **[OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company/)**
 
 OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.
 
-OpenAI • 9h ago
+OpenAI • 10h ago
 
 ---
 
@@ -133,67 +141,59 @@ OpenAI • 9h ago
 
 The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.
 
-CNBC • 3h ago
-
----
-
-**[Here’s what Mira Murati’s AI company is up to](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)**
-
-Thinking Machines is showing off something called “interaction models.”
-
-The Verge • 13m ago
-
----
-
-**[Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)**
-
-The New York Times • 9h ago
-
----
-
-**[Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'](https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html)**
-
-Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.
-
 CNBC • 4h ago
 
 ---
 
-**[Hackers pushing innovation in AI-enabled hacking operations, Google says](https://www.reuters.com/legal/litigation/hackers-pushing-innovation-ai-enabled-hacking-operations-google-says-2026-05-11/)**
+**[AMD MI450 AI Deals With Meta And OpenAI Test Rich Valuation](https://finance.yahoo.com/markets/stocks/articles/amd-mi450-ai-deals-meta-231108165.html)**
 
-Reuters • 1h ago
+Advanced Micro Devices (NasdaqGS:AMD) has announced major customer deals for its new MI450 AI chips with Meta Platforms and OpenAI. The company plans to ramp MI450 shipments into 2027 as part of these long-term agreements. The deals are focused on AMD's Data Center segment, with an emphasis on AI accelerator deployments. The agreements indicate committed demand from large AI customers for AMD's next-generation data center hardware. For you as an investor, this news sits at the intersection...
 
----
-
-**[Students Boo Commencement Speaker After She Calls AI the ‘Next Industrial Revolution’](https://www.404media.co/ucf-ai-commencement-speaker-booed/)**
-
-A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
-
-404 Media • 9h ago
+Yahoo Finance • 48m ago
 
 ---
 
-**[Commencement Speaker Stunned When Her Remarks About AI Draw Boos from Crowd: 'What Happened?'](https://people.com/commencement-speaker-stunned-remarks-about-ai-draw-boos-11972049)**
+**[CNBC's The China Connection newsletter: Trump and Xi face a test over AI control](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html)**
 
-A real estate development executive received an unexpected jolt when her remarks about artificial intelligence (AI) during a Florida university’s commencement ceremony were met with boos from the audience.
+The stakes for AI security have risen sharply in the runup to the first trip to China by a sitting U.S. president in nearly a decade.
 
-People.com • 59m ago
-
----
-
-**[Graduation Speaker Shocked When She’s Loudly Booed by Students for Saying AI Is the Future](https://futurism.com/artificial-intelligence/graduation-speaker-booed-ai)**
-
-UCF's commencement speaker was visibly shocked when graduating students booed AI as the "next Industrial Revolution."
-
-Futurism • 4h ago
+CNBC • 59m ago
 
 ---
 
-**[Will AI Produce the Next Great Divergence?](https://www.lawfaremedia.org/article/will-ai-produce-the-next-great-divergence)**
+**[Iran, China and AI collide in Trump's legacy-defining week](https://www.axios.com/2026/05/11/trump-china-summit-iran-ai-xi-jinping)**
 
-An analysis of AI and institutions.
+Axios • 14h ago
 
-Lawfare • 48m ago
+---
+
+**[Ex-White House 'AI czar' says US, China could find AI common ground despite fierce rivalry](https://www.foxbusiness.com/media/ex-white-house-ai-czar-says-us-china-could-find-ai-common-ground-despite-fierce-rivalry)**
+
+David Sacks predicts potential outcomes of Trump's meeting with Xi Jinping, saying the U.S. and China could agree on new cyber standards while warning of advancing AI threats.
+
+Fox Business • 1h ago
+
+---
+
+**[Forget the AI job apocalypse. AI’s real threat is worker control and surveillance](https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance)**
+
+A new divide is emerging: between workers who use AI at work and those who are managed by it
+
+The Guardian • 1h ago
+
+---
+
+**[Fidelity is growing its work force by thousands. Blame AI.](https://www.bostonglobe.com/2026/05/11/business/fidelity-ai-hiring-job-cuts/)**
+
+The Boston financial services giant is cutting about 1,000 jobs, but it's adding more. The company needs real-world techies and other hands-on workers to roll out key products and services right now.
+
+The Boston Globe • 2h ago
+
+---
+
+**[Opinion | This Is Why You’re Drowning in Busywork](https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html)**
+
+The New York Times • 14h ago
 
 ---
 
@@ -205,7 +205,7 @@ Lawfare • 48m ago
 
 Local AI models should be the default.
 
-⬆️ 1740 • 💬 689 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1751 • 💬 693 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -217,7 +217,7 @@ Local AI models should be the default.
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 341 • 💬 100 • 22h ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 347 • 💬 101 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -225,7 +225,7 @@ Local AI models should be the default.
 
 Aren't AI hyperscalers supposed to pay for these upgrades?
 
-⬆️ 308 • 💬 192 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+⬆️ 311 • 💬 194 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
@@ -249,7 +249,7 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
 
-⬆️ 180 • 💬 142 • 22h ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
+⬆️ 181 • 💬 142 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 
 ---
 
@@ -263,7 +263,7 @@ The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" in
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 142 • 💬 174 • 6h ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 149 • 💬 176 • 8h ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 
 ---
 
@@ -285,7 +285,7 @@ Get 20% off DeleteMe by going to https://joindeleteme.com/coldfusion and use cod
 
 📺 ColdFusion
 
-👁️ 50K • 👍 4K • 💬 479 • ⏱️ 20:19 • 7h ago
+👁️ 50K • 👍 4K • 💬 479 • ⏱️ 20:19 • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ Patrick Bet-David covers Utah residents revolting against Kevin O'Leary's 40000�
 
 📺 Valuetainment
 
-👁️ 20K • 👍 664 • 💬 354 • ⏱️ 16:53 • 3h ago
+👁️ 20K • 👍 664 • 💬 354 • ⏱️ 16:53 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ The MOST INSANE AI Video Yet? Robot & Mannequin Love Story in a Zombie Apocalyps
 
 📺 What If Wildlife
 
-👁️ 1K • 👍 73 • 💬 8 • ⏱️ 3:34 • 14h ago
+👁️ 1K • 👍 73 • 💬 8 • ⏱️ 3:34 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ Learn more about Predictive AI vs Generative AI here → https://ibm.biz/BdpPNf 
 
 📺 IBM Technology
 
-👁️ 10K • 👍 847 • 💬 36 • ⏱️ 11:59 • 11h ago
+👁️ 10K • 👍 847 • 💬 36 • ⏱️ 11:59 • 12h ago
 
 ---
 
@@ -389,7 +389,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 157,648 • ❤️ 620 • 2d ago
+⬇️ 157,648 • ❤️ 620 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 66,561 • ❤️ 207 • 14h ago
+⬇️ 66,561 • ❤️ 207 • 16h ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 0 • ❤️ 166 • 6h ago
+⬇️ 0 • ❤️ 166 • 8h ago
 
 ---
 
@@ -485,7 +485,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 64,008 • ❤️ 219 • 22h ago
+⬇️ 64,008 • ❤️ 219 • 23h ago
 
 ---
 
@@ -665,7 +665,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.1k • 🔱 469 • 4h ago
+⭐ 6.1k • 🔱 469 • 5h ago
 
 ---
 
@@ -705,7 +705,7 @@ Open source CAD skills and harnesses for generating 3D models with your favorite
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.4k • 🔱 282 • 34m ago
+⭐ 2.4k • 🔱 282 • 2h ago
 
 ---
 
@@ -725,7 +725,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 1.9k • 🔱 120 • 17m ago
+⭐ 1.9k • 🔱 120 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 1.9k • 🔱 203 • 3h ago
+⭐ 1.9k • 🔱 203 • 4h ago
 
 ---
 
