@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-11T12:39:47.918597+00:00'
+updated: '2026-05-11T15:56:08.023835+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 11, 2026 at 12:39 UTC  
+**Last Updated:** May 11, 2026 at 15:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[I Built Disney’s BD-X Star Wars Robot](https://www.reddit.com/r/robotics/comments/1ta3ynw/i_built_disneys_bdx_star_wars_robot/)**
+
+Over the past year, I’ve been recreating Disney’s BD-X Star Wars Robot :) it’s hard itself to walk using reinforcement learning in mjlab and then was able to walk in the real world. I recently uploaded a video on my YouTube explaining the full build process and how I brought it to life :) Feel free to ask me anything!
+
+2h ago
+
+---
+
 **[A custom lego robot taking a beer up some stairs without spilling](https://www.reddit.com/r/robotics/comments/1t9cmc4/a_custom_lego_robot_taking_a_beer_up_some_stairs/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -42,7 +50,15 @@ Robotics research and industry news
 
 ROS 2 based Two LeRobot arms Pan & Tilt with Realsense depth camera Diff drive with ros2_control Next I want to pick socks and put them into washing machine, or open 3D printer and take out finished prints. Let me know if you have some cool ideas! I want to make a sim either in Gazebo or Isaac so people can try it out and/or do something useful in simulation.
 
-3h ago
+7h ago
+
+---
+
+**[RLDX-1 just dropped, claims dexterity needs missing modalities not more scale](https://www.reddit.com/r/robotics/comments/1ta4eik/rldx1_just_dropped_claims_dexterity_needs_missing/)**
+
+RLWRLD dropped RLDX-1 last week (https://www.rlwrld.ai/en/rldx-1). Their pitch goes against the current GR00T/π₀ consensus that scaling VLAs eventually gives you dexterity. Their argument: scale can't recover a modality the model was never given. So they built MSAT, each modality (tactile, torque, vision, memory) gets its own stream and fuses late. Sympathetic to the thesis. We've all watched robots fail at basic physical intuition from vision alone. But the way they scale data is via Cosmos-Predict2, which is itself a video world model, so the synthetic pipeline only stretches the vision modality. Tactile and torque still depend on real teleop, which is the actual bottleneck. Wonder how they're handling data curation for the modalities that synthetic can't easily reach. Architecture intuition checks out. Forcing torque and 4-frame video through one trunk means whichever has stronger gradients eats the capacity. But one thing nags me: humans use vision to predict touch before contact. If you train each modality as its own stream, do you lose the cross-modal priors that would help on vision-only hardware? Or does the joint self-attention recover that? The 3DGS-based human data pipeline is the part I'd actually push more people to read. Reconstruct the workspace with Gaussian Splatting, track bare human hands, retarget onto robot hands, roll out in sim. 200+ demos per hour and no awkward DexUMI-style hand-strap rigs. This is where the data engine for dexterity quietly wins or loses. On the "SOTA at 20% of GR00T's compute" claim, grain of salt. Different data mixes, different VLM backbones, tech report not a controlled ablation. Still, 87.5 vs 50 on real conveyor pick-and-place is hard to wave away.
+
+🔗 [youtu.be](https://youtu.be/xh8UaGT4J5s) • 1h ago
 
 ---
 
@@ -50,7 +66,7 @@ ROS 2 based Two LeRobot arms Pan & Tilt with Realsense depth camera Diff drive w
 
 So I've always argued that Physical AI for robotics need actionable outputs like 3D coordinates, not bullet points or nice paragraphs. So decided to experiment by combining a VLM with Monocular Depth Estimation, essentially projecting 2D reasoning into 3D, I called it Odyseus - Spatial VLM Tech Stack: - VLM: Qwen 3.6 - Depth Estimation: Depth Anything 3 - Metric Large Worked pretty well, figured to share, check repo: https://github.com/MercuriusTech/Odyseus-Spatial-VLM
 
-7h ago
+10h ago
 
 ---
 
@@ -58,7 +74,13 @@ So I've always argued that Physical AI for robotics need actionable outputs like
 
 This is Bimo walking completely standalone: no data cable, no external compute, just a battery and an RP2040 (custom board) running the walking policy natively at ~5.2ms inference time. The main walking model trains on thousands of parallel environments in Isaac Lab. That policy gets distilled down to a tiny student network and compiled directly into the MCU firmware. Here's the pipeline: Train a standard 256×128×64 teacher model in Isaac Lab (~5min on an RTX 4080) Distill it into a 64×32 student network (~30s, yep, I was surprised too) Export as pure C using onnx2c Compile into the RP2040 firmware via Arduino IDE Inference runs at 5.0-5.2ms, comfortably within the 50ms control loop The full distillation pipeline, the standalone MCU inference code, and the Bimo API ported to ROS2 nodes are all coming in the next update (v1.1). ROS2 was a direct request from the last Reddit post, so that's in. Has anyone else run RL locomotion policies natively on an MCU? How small have you made the student network before significantly degrading performance? If you want to follow the development, join the Discord server, all updates go there first. Code update to v1.1 will be available on GitHub soon.
 
-23h ago
+1d ago
+
+---
+
+**[Live 'Violence' Testing: Little Guy Has a Good Temper – Doesn’t Get Mad No Matter How Many Times He’s Kicked, Just Dusts Himself Off and Gets Back Up. #Reinforcement Learning.](https://www.reddit.com/r/robotics/comments/1ta6h64/live_violence_testing_little_guy_has_a_good/)**
+
+34m ago
 
 ---
 
@@ -66,41 +88,19 @@ This is Bimo walking completely standalone: no data cable, no external compute, 
 
 Been building this harvesting robot (made for glasshouses with pipe rails) for the last 2 years. Prototype almost ready
 
-11h ago
-
----
-
-**[BS path to robotics](https://www.reddit.com/r/robotics/comments/1ta0z87/bs_path_to_robotics/)**
-
-Hey everyone, ​I’m currently looking at my options for a Bachelor's degree and I know for a fact that I want to work in the Robotics industry. However, I’m stuck between five different majors and I’m not sure which one provides the best foundation or the most flexibility. ​I’m trying to decide between: ​Computer Science (CS) ​Data Science (DS) ​Artificial Intelligence (AI) ​Electrical Engineering (EE) ​Mechatronics ​My goal is to eventually work on the "intelligence" side of things—making machines perceive and interact with the world—but I also want to make sure I have the physical/hardware understanding necessary to be effective. ​For those of you already in the industry: ​Which degree is the most "future-proof" for robotics? ​If I want to specialize in the AI/Software layer, is a Mechatronics degree too broad, or is it better to have that mechanical foundation? ​How much does a Data Science degree actually translate to Robotics compared to a pure CS or AI track? ​Is it easier to learn the hardware (EE) and pick up coding later, or vice versa? ​I’d love to hear from anyone working in R&D, manufacturing, or automation. Which path did you take and would you recommend it today? ​Thanks in advance!
-
-47m ago
+14h ago
 
 ---
 
 **[look at this neat little feature in development for humanoid robots](https://www.reddit.com/r/robotics/comments/1t9a67c/look_at_this_neat_little_feature_in_development/)**
 
-21h ago
+1d ago
 
 ---
 
 **[Isaac Lab VSCode Extension](https://www.reddit.com/r/robotics/comments/1t9ysxy/isaac_lab_vscode_extension/)**
 
-2h ago
-
----
-
-**[Gabi the robot was ordained as a monk in a special ceremony in South Korea](https://www.reddit.com/r/robotics/comments/1t9t5np/gabi_the_robot_was_ordained_as_a_monk_in_a/)**
-
-7h ago
-
----
-
-**[Police Robots Are a Security Nightmare- YouTube](https://www.reddit.com/r/robotics/comments/1t9b3bx/police_robots_are_a_security_nightmare_youtube/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=lA8WuXDXfcI) • 20h ago
+5h ago
 
 ---
 
@@ -108,11 +108,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Video Friday: AI Gives Robot Hands Human-Like Dexterity](https://spectrum.ieee.org/video-friday-robotic-hand-dexterity)**
+**[Humanoid robots enter the classroom in Classover’s new K-12 AI program](https://www.stocktitan.net/news/KIDZ/classover-launches-embodied-ai-robotics-education-platform-featuring-mt6iq5bqgao9.html)**
 
-Your weekly selection of awesome robot videos
+Humanoid and robotic dog systems from Unitree power Classover’s proprietary K-12 AI curriculum, aimed at hands-on coding and robotics training for classrooms.
 
-IEEE Spectrum • 1d ago
+Stock Titan • 4h ago
 
 ---
 
@@ -120,23 +120,19 @@ IEEE Spectrum • 1d ago
 
 ﻿AI is making them better — but they’re not going to be doing your chores anytime soon.
 
-vox.com • 1h ago
+vox.com • 4h ago
 
 ---
 
-**[Figure AI's robots can make a bed faster than you](https://www.businessinsider.com/figure-ai-robots-humanoids-make-a-bed-video-2026-5)**
+**[Unmanned lab opens with robots at work as researchers push AI, automation](https://japantoday.com/category/tech/unmanned-lab-opens-with-robots-at-work-as-researchers-push-ai-automation)**
 
-Figure AI release a video of two humanoid robots making a bed together — a deceptively hard task that tests coordination, vision, and dexterity.
-
-Business Insider • 2d ago
+Japan Today • 8h ago
 
 ---
 
-**[Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)**
+**[South Korea Exploring Using Hyundai Robots as Army Numbers Fall](https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall)**
 
-Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.
-
-TechCrunch • 1h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -144,13 +140,21 @@ TechCrunch • 1h ago
 
 Alibaba Group Holding (NYSE:BABA) is preparing to roll out Qwen powered conversational AI shopping on its Taobao marketplace, shifting the experience from keyword search to interactive agent based journeys. The company is also introducing advanced robotics through its Amap unit and logistics arm Cainiao, including humanoid and warehouse automation robots. These AI and robotics deployments extend Alibaba’s commercialization of its in house models beyond cloud into consumer retail and...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[South Korea Exploring Using Hyundai Robots as Army Numbers Fall](https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall)**
+**[Germany to Flood Ukraine’s Front Lines With Hundreds of New GEREON Combat Robots](https://united24media.com/war-in-ukraine/germany-to-flood-ukraines-front-lines-with-hundreds-of-new-gereon-combat-robots-18653)**
 
-Bloomberg • 8h ago
+Germany's ARX Robotics will supply hundreds of GEREON UGVs to Ukraine, enhancing frontline logistics and casualty evacuation with advanced robotic systems.
+
+UNITED24 Media • 7h ago
+
+---
+
+**[Artificial muscle merges sensing and movement in one structure for humanoid robots](https://techxplore.com/news/2026-05-artificial-muscle-merges-movement-humanoid.html)**
+
+Tech Xplore • 15h ago
 
 ---
 
@@ -160,27 +164,19 @@ SpaceNews • 1d ago
 
 ---
 
-**[China unveils 220-pound robot ‘construction worker’ to use human tools on moon](https://interestingengineering.com/ai-robotics/china-unveils-robot-construction-worker)**
+**[Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)**
 
-The upcoming Chang’e-8 mission may showcase China’s first AI-assisted humanoid-style robot on the lunar surface.
+Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.
 
-Interesting Engineering • 23h ago
-
----
-
-**[Warrenton students gear up for another run at the world championships in underwater robotics - Oregon Public Broadcasting](https://www.opb.org/article/2026/05/09/warrenton-oregon-aquatic-robotics-team-mate-rov-competition/)**
-
-Regional qualifying competition in Newport this weekend could send an Oregon underwater robots team to the world championships.
-
-Oregon Public Broadcasting - OPB • 1d ago
+TechCrunch • 4h ago
 
 ---
 
-**[WATCH: Surprise robotics team wins international award for expanding STEM access](https://www.abc15.com/news/uplifting-arizona/watch-surprise-robotics-team-wins-international-award-for-expanding-stem-access)**
+**[Video Friday: AI Gives Robot Hands Human-Like Dexterity](https://spectrum.ieee.org/video-friday-robotic-hand-dexterity)**
 
-Launch Team Robotics, founded by former Paradise Honors student Stephen Robertson, was created to remove barriers and give kids across the Valley free access to hands-on STEM education.
+Your weekly selection of awesome robot videos
 
-ABC15 Arizona • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -188,13 +184,23 @@ ABC15 Arizona • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid robots engage in full tea-making process](https://www.youtube.com/watch?v=73dGNetDtj4)**
+
+Robots that ran a half-marathon in Beijing in April have swapped the track for a tea production base in Fujian Province — picking ...
+
+📺 CGTN Europe
+
+👁️ 1K • 👍 66 • 💬 7 • ⏱️ 0:56 • 5h ago
+
+---
+
 **[Robot Dogs Are A Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)**
 
 Go to https://ground.news/benn for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
 
 📺 Benn Jordan
 
-👁️ 387K • 👍 36K • 💬 3K • ⏱️ 23:53 • 22h ago
+👁️ 432K • 👍 41K • 💬 4K • ⏱️ 23:53 • 1d ago
 
 ---
 
@@ -204,17 +210,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 7K • 👍 131 • 💬 55 • ⏱️ 2:19 • 2d ago
-
----
-
-**[Forget About Any Job Forever With This $5,000 AI Robot - It Will Do Everything For You](https://www.youtube.com/watch?v=GBlCDrN7t2s)**
-
-A new generation of AI robots is being designed to handle everyday tasks with minimal human involvement, from communication ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 63 • 💬 11 • ⏱️ 20:56 • 2d ago
+👁️ 8K • 👍 136 • 💬 58 • ⏱️ 2:19 • 2d ago
 
 ---
 
@@ -224,17 +220,15 @@ Balancing commercial goals and robotics research can be tricky, but with Atlas w
 
 📺 Boston Dynamics
 
-👁️ 372K • 👍 21K • 💬 1K • ⏱️ 0:44 • 5d ago
+👁️ 374K • 👍 21K • 💬 1K • ⏱️ 0:44 • 6d ago
 
 ---
 
-**[Humanoid Robot Gets Pushed and Instantly Recovers Like a Human](https://www.youtube.com/watch?v=9XmCqkHRT0I)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=2UUaZy4cWHw)**
 
-This humanoid robot just did something most machines cannot do. After being pushed, it instantly recovers and keeps moving like ...
+📺 Robot Julie 
 
-📺 DPCcars
-
-👁️ 14K • 👍 156 • 💬 76 • ⏱️ 3:09 • 6d ago
+👁️ 30K • 👍 199 • 💬 2 • ⏱️ 0:26 • 2d ago
 
 ---
 
@@ -248,11 +242,21 @@ Elon Musk's more affordable version of the Optimus robot is being discussed as a
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=2UUaZy4cWHw)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=A8sENgAxZbw)**
 
 📺 Robot Julie 
 
-👁️ 30K • 👍 199 • 💬 2 • ⏱️ 0:26 • 2d ago
+👁️ 217K • 👍 2K • 💬 47 • ⏱️ 0:27 • 2d ago
+
+---
+
+**[🤖 Control a Robot Arm with Joystick!](https://www.youtube.com/watch?v=Z3UCTCq5OJ8)**
+
+Control a Robot Arm with One Joystick using Arduino! code link ...
+
+📺 MW Electronics Lab
+
+👁️ 211K • 👍 1K • 💬 34 • ⏱️ 0:05 • 5d ago
 
 ---
 
@@ -266,23 +270,13 @@ You've probably seen them before: those little four-wheeled robots delivering fo
 
 ---
 
-**[Paralyzed graduate defies odds and walks stage with robotics](https://www.youtube.com/watch?v=uFeuE_8cCZA)**
+**[Kai Cenat bought a $70,000 robot, and it keeps shocking them 💀😭 #kaicenat #kaicenatstream #shorts](https://www.youtube.com/watch?v=xy5p1EimPXc)**
 
-A Virginia Union University graduate, paralyzed from the chest down, walked with a robotic exoskeleton to receive his master's ...
+kaicenat #kaicenatstream #fanum #robot.
 
-📺 ABC News
+📺 StreamGenius
 
-👁️ 16K • 👍 449 • 💬 22 • ⏱️ 0:39 • 14h ago
-
----
-
-**[Atlas&#39; Balancing Act](https://www.youtube.com/watch?v=x4WRa1DDl5E)**
-
-Balancing commercial goals and robotics research is tough, but Atlas makes it work.
-
-📺 HyundaiWorldwide
-
-👁️ 3.7M • 👍 9K • 💬 27 • ⏱️ 0:44 • 5d ago
+👁️ 458K • 💬 103 • ⏱️ 0:44 • 2d ago
 
 ---
 

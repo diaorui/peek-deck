@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-11T12:39:47.915745+00:00'
+updated: '2026-05-11T15:56:08.021022+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 12:39 UTC  
+**Last Updated:** May 11, 2026 at 15:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,336.47
+### $2,331.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.1%  
-**30d:** +6.7%  
-**90d:** +20.3%  
-**1y:** -6.2%  
+**24h:** -0.8%  
+**7d:** -1.3%  
+**30d:** +6.5%  
+**90d:** +20.1%  
+**1y:** -6.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.93B
+**Market Cap:** $280.87B
 Rank #2
 
 **Circulating Supply:** 120,686,531 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.8%
+-52.9%
 
 **All-Time Low:** $0.43
-+539404.2%
++538288.7%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+10h ago
+
+---
+
+**[Can stablecoins alone take ETH to $10,000+?](https://www.reddit.com/r/ethereum/comments/1ta6xfv/can_stablecoins_alone_take_eth_to_10000/)**
+
+19m ago
 
 ---
 
@@ -88,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-23h ago
+1d ago
 
 ---
 
@@ -96,13 +102,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-20h ago
+1d ago
 
 ---
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -138,14 +144,6 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 ---
 
-**[Daily General Discussion May 08, 2026](https://www.reddit.com/r/ethereum/comments/1t6y2s1/daily_general_discussion_may_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +152,45 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 19h ago
+Decrypt • 23h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-11-2026-bitcoins-strongest-opening-in-months-113216131.html)**
+**[Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-slows-ethereum-150328315.html)**
 
-Bitcoin opened at $82,164.43 on Monday, the strongest opening price since January 31. Ethereum opened at $2,369.40 on Monday, the highest opening price since April 27.
+Ethereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 52m ago
+
+---
+
+**[Investor Relations Leadership Change Highlights Bit Digital’s (BTBT) Ethereum and AI Strategy Push](https://finance.yahoo.com/markets/crypto/articles/investor-relations-leadership-change-highlights-145747877.html)**
+
+Bit Digital appointed a new Head of Investor Relations as the company continues expanding its Ethereum infrastructure and AI/HPC positioning in public markets. Key Investor TakeawaysBit Digital (NASDAQ:BTBT) named Daniel Kennedy as Head of Investor Relations, replacing Cameron Schnier.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Ronin set to transition to Ethereum layer 2 from independent sidechain](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
+
+The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-21-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-4-billion-302767816.html)**
+
+Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
+
+PR Newswire • 3h ago
+
+---
+
+**[BlackRock Readies Launch of Two Tokenized Money-Market Funds](https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -170,21 +198,15 @@ Yahoo Finance • 1h ago
 
 Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
 
-Forbes • 38m ago
+Forbes • 3h ago
 
 ---
 
-**[BlackRock Readies Launch of Two Tokenized Money-Market Funds](https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds)**
+**[Current price of Ethereum for May 11, 2026](https://fortune.com/article/price-of-ethereum-05-11-2026/)**
 
-Bloomberg • 2d ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
----
-
-**[Ronin gaming sidechain gets ready to transition to Ethereum layer 2](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
-
-The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
-
-CoinDesk • 27m ago
+Fortune • 2h ago
 
 ---
 
@@ -192,33 +214,13 @@ CoinDesk • 27m ago
 
 Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
 
-TradingView • 20h ago
+TradingView • 23h ago
 
 ---
 
-**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
+**[Ethereum under pressure after 577K ETH transfer – Will ETH price slide?](https://ambcrypto.com/ethereum-under-pressure-after-577k-eth-transfer-will-eth-price-slide/)**
 
-AMBCrypto • 1d ago
-
----
-
-**[Here’s Where Bitcoin and Ethereum Could Be Headed Next](https://www.investing.com/analysis/heres-where-bitcoin-and-ethereum-could-be-headed-next-200680010)**
-
-Investing.com • 2d ago
-
----
-
-**[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
-
-TipRanks • 2d ago
-
----
-
-**[Ethereum loses 10% of its DeFi market share as rival chains close in](https://cryptoslate.com/ethereum-loses-10-of-its-defi-market-share-as-rival-chains-close-in/)**
-
-Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
-
-CryptoSlate • 2d ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -226,23 +228,23 @@ CryptoSlate • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[THIS INSIDER WHALE JUST CHANGED HIS MIND... ETHEREUM DANGER?](https://www.youtube.com/watch?v=6I2dhThR5SU)**
-
-My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
-
-📺 Satoshi Stacker
-
-👁️ 3K • 👍 277 • 💬 18 • ⏱️ 8:43 • 4h ago
-
----
-
 **[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
 
 Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
 
 📺 CoinGecko
 
-👁️ 316 • 👍 45 • 💬 82 • ⏱️ 8:44 • 1h ago
+👁️ 922 • 👍 95 • 💬 150 • ⏱️ 8:44 • 5h ago
+
+---
+
+**[THIS INSIDER WHALE JUST CHANGED HIS MIND... ETHEREUM DANGER?](https://www.youtube.com/watch?v=6I2dhThR5SU)**
+
+My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
+
+📺 Satoshi Stacker
+
+👁️ 5K • 👍 332 • 💬 18 • ⏱️ 8:43 • 7h ago
 
 ---
 
@@ -252,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 98 • 👍 14 • ⏱️ 4:34 • 3h ago
+👁️ 176 • 👍 14 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -262,27 +264,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 19K • 👍 375 • 💬 140 • ⏱️ 9:26 • 1d ago
-
----
-
-**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
-
-A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
-
-📺 Coin Bureau
-
-👁️ 23K • 👍 832 • 💬 85 • ⏱️ 12:01 • 1d ago
-
----
-
-**[3 Experts DEBATE Crypto Price Predictions (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
-
-Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 2K • 💬 232 • ⏱️ 11:32 • 2d ago
+👁️ 19K • 👍 379 • 💬 142 • ⏱️ 9:26 • 2d ago
 
 ---
 
@@ -292,7 +274,7 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 55K • 👍 2K • 💬 166 • ⏱️ 14:48 • 2d ago
+👁️ 56K • 👍 2K • 💬 166 • ⏱️ 14:48 • 2d ago
 
 ---
 
@@ -302,7 +284,37 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 265 • ⏱️ 10:13 • 1d ago
+👁️ 36K • 👍 2K • 💬 263 • ⏱️ 10:13 • 1d ago
+
+---
+
+**[3 Experts DEBATE Crypto Price Predictions (Bitcoin, Ethereum, Solana)](https://www.youtube.com/watch?v=KX-xC15Yr-0)**
+
+Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 2K • 💬 232 • ⏱️ 11:32 • 2d ago
+
+---
+
+**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+
+A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+
+📺 Coin Bureau
+
+👁️ 24K • 👍 851 • 💬 86 • ⏱️ 12:01 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=BcAz3qAmNug)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 106 • 💬 4 • ⏱️ 6:59 • 13h ago
 
 ---
 
@@ -312,17 +324,7 @@ Trade with Toobit (Recommended Exchange)➡️ Deposit and Trade to Get Up to 10
 
 📺 Evan Aldo
 
-👁️ 478 • 👍 48 • 💬 2 • ⏱️ 10:06 • 14h ago
-
----
-
-**[Bitcoin &amp; Ethereum Weekly Outlook: Bullish Short Term, Bearish Bigger Picture](https://www.youtube.com/watch?v=Gy3JR-dcb1g)**
-
-Bitcoin continues to push higher and the current structure still allows for a move toward the $90K to $95K region before a larger ...
-
-📺 More Crypto Online
-
-👁️ 12K • 👍 694 • 💬 46 • ⏱️ 17:12 • 23h ago
+👁️ 524 • 👍 49 • 💬 2 • ⏱️ 10:06 • 17h ago
 
 ---
 
