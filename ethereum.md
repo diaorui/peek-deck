@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-11T01:23:39.243284+00:00'
+updated: '2026-05-11T05:33:17.555127+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 01:23 UTC  
+**Last Updated:** May 11, 2026 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,348.03
+### $2,333.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +0.0%  
-**30d:** +8.0%  
-**90d:** +21.7%  
-**1y:** -5.1%  
+**24h:** +0.4%  
+**7d:** -1.0%  
+**30d:** +6.9%  
+**90d:** +20.4%  
+**1y:** -6.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.51B
+**Market Cap:** $282.13B
 Rank #2
 
-**Circulating Supply:** 120,686,604 ETH
+**Circulating Supply:** 120,686,531 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.1%
+-52.7%
 
 **All-Time Low:** $0.43
-+547626.3%
++539833.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 11, 2026](https://www.reddit.com/r/ethereum/comments/1t9tdqb/daily_general_discussion_may_11_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+31m ago
+
+---
+
 **[Daily General Discussion May 10, 2026](https://www.reddit.com/r/ethereum/comments/1t8xf85/daily_general_discussion_may_10_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-11h ago
+16h ago
 
 ---
 
@@ -88,13 +96,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-9h ago
+13h ago
 
 ---
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -106,19 +114,19 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 ---
 
-**[Daily General Discussion May 09, 2026](https://www.reddit.com/r/ethereum/comments/1t7vb03/daily_general_discussion_may_09_2026/)**
+**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
 
 1d ago
 
 ---
 
-**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
+**[Daily General Discussion May 09, 2026](https://www.reddit.com/r/ethereum/comments/1t7vb03/daily_general_discussion_may_09_2026/)**
 
-I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+2d ago
 
 ---
 
@@ -134,15 +142,7 @@ I connected Claude Code to Blender via MCP and had it help visualize how my Supp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
-
----
-
-**[Clarity Act](https://www.reddit.com/r/ethereum/comments/1t75ei4/clarity_act/)**
-
-Regulatory bans on stablecoin yields are expected to positively impact Ethereum's value and network activity. Shift to Staking: With the CLARITY Act and similar regulations preventing issuers from paying direct yield on stablecoins, investors are predicted to move capital into Ethereum staking as an alternative source of passive income. Supply Shock: This migration could lock up significant amounts of ETH, with analysts noting a potential $6 billion staking queue and reduced exchange liquidity, which supports price appreciation. Increased Network Usage: As stablecoins are used more for transactions rather than idle holding, gas fees and ETH burn rates (via EIP-1559) may rise, further benefiting the token's economic model.
-
-2d ago
+3d ago
 
 ---
 
@@ -150,19 +150,19 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 ## Google News: "ethereum"
 
-**[Bitmine’s Tom Lee Bets Big On Ethereum With New 2026 Prediction](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-bets-big-102958467.html)**
-
-Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
-
-Yahoo Finance • 14h ago
-
----
-
 **[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 8h ago
+Decrypt • 12h ago
+
+---
+
+**[Ethereum Faces Sell-Off Risk as Whale Moves $1.35 Billion in ETH to Binance](https://finance.yahoo.com/markets/crypto/articles/ethereum-faces-sell-off-risk-045752578.html)**
+
+Whale Garrett Jin moved $1.35 billion in Ethereum to Binance over four days as exchange reserves climbed to 14.95 million ETH.
+
+Yahoo Finance • 35m ago
 
 ---
 
@@ -170,13 +170,7 @@ Decrypt • 8h ago
 
 Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
 
-TradingView • 9h ago
-
----
-
-**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
-
-AMBCrypto • 15h ago
+TradingView • 13h ago
 
 ---
 
@@ -186,11 +180,25 @@ TipRanks • 1d ago
 
 ---
 
-**[New Crypto Pepeto Presale Nears $10 Million While Ethereum Price Prediction Charts a $4,900 Target as Bitmine Loads 5.18 Million ETH](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-nears-10-million-while-ethereum-price-prediction-charts-a-4-900-target-as-bitmine-loads-5-18-million-eth-1036133533)**
+**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
 
-Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
+AMBCrypto • 20h ago
 
-markets.businessinsider.com • 21h ago
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Rally Even As Trump Flays Iran's Response To Proposal: Analyst Says It's](https://www.benzinga.com/crypto/cryptocurrency/26/05/52438533/bitcoin-ethereum-xrp-dogecoin-rally-trump-iran-btc-analyst)**
+
+Leading cryptocurrencies spiked while stock futures fell Sunday evening as investors reacted to President Donald Trump&#8217;s scathing statement on Iran.
+
+Benzinga • 3h ago
+
+---
+
+**[New Crypto Pepeto Exchange Upgrade Reaches Binance Level While Ethereum Price Prediction Asks if ETH Can Hit $3,000 This Month](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-upgrade-reaches-binance-level-while-ethereum-price-prediction-asks-if-eth-can-hit-3-000-this-month-1036133074)**
+
+Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
+
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -202,27 +210,17 @@ CryptoSlate • 2d ago
 
 ---
 
-**['JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume)**
+**[Ethereum, BMNR news: ETH may lose its biggest buyer as Bitmine mulls slowing down purchases](https://www.coindesk.com/business/2026/05/07/bitmine-to-slow-down-ether-purchases-as-it-nears-accumulation-goal-tom-lee-says)**
 
-The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.
+At the current pace of purchases, Lee said his Ethereum treasury giant would reach its 5% ether accumulation goal in six weeks, then shift its focus to staking and share buybacks.
 
 CoinDesk • 3d ago
 
 ---
 
-**[Ethereum’s No. 2 Spot No Longer Untouchable As XRP Closes In](https://dailycoin.com/ethereums-no-2-spot-no-longer-untouchable-as-xrp-closes-in/)**
+**[Will Ethereum (ETH) Hit $22K as Tom Lee Predicts?](https://www.disruptionbanking.com/2026/05/08/will-ethereum-eth-hit-22k-as-tom-lee-predicts/)**
 
-Explore the challenges Ethereum faces as XRP, BNB, and Solana vie for market dominance in the crypto landscape.
-
-DailyCoin • 2d ago
-
----
-
-**[Ethereum Whale Buys $17M ETH for Staking](https://blockchain.news/flashnews/ethereum-whale-buys-17m-eth-staking)**
-
-Ethereum whale 0x674 spends $17M USDC on 7,284 ETH at $2,334, stakes with LidoFinance, holds $10M more USDC for potential buys amid ETH price prediction trends.
-
-blockchain.news • 23h ago
+Disruption Banking • 2d ago
 
 ---
 
@@ -236,27 +234,17 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 18K • 👍 354 • 💬 123 • ⏱️ 9:26 • 1d ago
+👁️ 19K • 👍 365 • 💬 124 • ⏱️ 9:26 • 1d ago
 
 ---
 
-**[BULLISH NEWS FOR ETHEREUM🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7qwXBdr4mRM)**
+**[Market Update: Is Ethereum in Trouble, Or Will it See a Big Pump Against BTC?](https://www.youtube.com/watch?v=RAAaZux-xxg)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Trade with Toobit (Recommended Exchange)➡️ Deposit and Trade to Get Up to 10000 USDT!
 
-📺 Cilinix Crypto
+📺 Evan Aldo
 
-👁️ 361 • 👍 14 • 💬 1 • ⏱️ 4:55 • 15h ago
-
----
-
-**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
-
-A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
-
-📺 Coin Bureau
-
-👁️ 22K • 👍 774 • 💬 98 • ⏱️ 12:01 • 1d ago
+👁️ 310 • 👍 39 • 💬 2 • ⏱️ 10:06 • 7h ago
 
 ---
 
@@ -266,7 +254,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 295 • ⏱️ 10:13 • 1d ago
+👁️ 34K • 👍 2K • 💬 268 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -276,17 +264,27 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 231 • ⏱️ 11:32 • 2d ago
+👁️ 46K • 👍 2K • 💬 232 • ⏱️ 11:32 • 2d ago
 
 ---
 
-**[Math Behind the Fastest Horses: SOL vs ETH, AI Bubbles &amp; Mortgage Traps 🐎📉](https://www.youtube.com/watch?v=XnAmTWWDepc)**
+**[BULLISH NEWS FOR ETHEREUM🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7qwXBdr4mRM)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 InvestAnswers
+📺 Cilinix Crypto
 
-👁️ 14K • 👍 2K • 💬 82 • ⏱️ 37:29 • 5h ago
+👁️ 437 • 👍 17 • 💬 1 • ⏱️ 4:55 • 19h ago
+
+---
+
+**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+
+A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+
+📺 Coin Bureau
+
+👁️ 22K • 👍 800 • 💬 83 • ⏱️ 12:01 • 1d ago
 
 ---
 
@@ -296,7 +294,27 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 52K • 👍 2K • 💬 167 • ⏱️ 14:48 • 2d ago
+👁️ 54K • 👍 2K • 💬 167 • ⏱️ 14:48 • 2d ago
+
+---
+
+**[$BMNR is part of the HUGE $62,500 $ETH Bull case](https://www.youtube.com/watch?v=pxmLgTcbBPw)**
+
+http://www.x10daytrading.com/?video=pxmLgTcbBPw TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
+
+📺 Wolf Of Dubai 2 - X10 DAY TRADING
+
+👁️ 731 • 👍 59 • 💬 7 • ⏱️ 11:37 • 5h ago
+
+---
+
+**[Math Behind the Fastest Horses: SOL vs ETH, AI Bubbles &amp; Mortgage Traps 🐎📉](https://www.youtube.com/watch?v=XnAmTWWDepc)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 26K • 👍 2K • 💬 117 • ⏱️ 37:29 • 9h ago
 
 ---
 
@@ -306,25 +324,7 @@ Bitcoin continues to push higher and the current structure still allows for a mo
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 611 • 💬 45 • ⏱️ 17:12 • 11h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZIJUh-L4gWM)**
-
-BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 11h ago
-
----
-
-**[MY TOP 3 CRYPTOS I WOULD START RESEARCHING NOW #xrp #ethereum #ondo #bitcoin](https://www.youtube.com/watch?v=LiIdBY7BGN0)**
-
-📺 CryptoWendyO
-
-👁️ 10K • 👍 420 • 💬 21 • ⏱️ 1:00 • 1d ago
+👁️ 11K • 👍 658 • 💬 45 • ⏱️ 17:12 • 15h ago
 
 ---
 

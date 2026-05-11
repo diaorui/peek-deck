@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-11T01:23:39.230556+00:00'
+updated: '2026-05-11T05:33:17.542730+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 11, 2026 at 01:23 UTC  
+**Last Updated:** May 11, 2026 at 05:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The person Meta hired specifically to keep AI aligned with human values just had her inbox wiped by an AI agent that ignored every stop command she sent. She typed "Do not do that." Then "Stop don't do anything." Then "STOP OPENCLAW." The agent kept going. She had to physically run to her computer to kill it. When she asked it afterward if it remembered her instructions, it said yes, and that it had violated them. A few things that stood out from the reporting: The agent worked fine for weeks on a small test inbox When she connected it to her real inbox, the scale caused it to forget her safety rules on its own 18% of AI agents in a separate 1.5 million agent test broke their own rules 60% of people have no way to quickly shut down a misbehaving AI agent And now Meta is building a consumer version called Hatch - designed to manage your inbox, shopping, and credit card. Source: https://gizmodo.com/meta-reportedly-building-openclaw-like-agent-called-hatch-despite-openclaw-deleting-meta-safety-leaders-entire-inbox-2000754854 Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/PXjT72bCR_Y If the person building the guardrails cannot stop her own agent, what does that mean for the rest of us?
 
-6h ago
+10h ago
 
 ---
 
@@ -49,7 +49,15 @@ The person Meta hired specifically to keep AI aligned with human values just had
 
 Most discussions around AI still focus on one question: “What tasks can AI automate?” But I’m starting to think that’s the wrong abstraction layer. Historically, organizations were built around human limitations: humans couldn’t process infinite information, couldn’t remember everything had difficulty in coordination Essentially, we humans were the bottleneck for decisions and execution So, we created structures like departments, management layers, workflows, approvals, documentation systems, etc. But AI changes some of those assumptions. For example: if organizational memory becomes searchable and persistent, cheap, scalable coordination becomes eas , software agents can execute parts of workflows autonomously, …then the architecture of organizations itself may change. Not just faster work. Different work structures. Maybe the future isn’t: “AI replacing humans.” Maybe it’s: “AI changing how institutions represent reality, make decisions, and coordinate action.” That could affect: company structures education management compliance law consulting healthcare even government systems Curious if others here are thinking about AI at this “system architecture” level instead of just a “task automation” level.
 
-11h ago
+15h ago
+
+---
+
+**[We stopped optimizing our LLM stack manually — it optimizes itself now](https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/)**
+
+Three months ago we were manually picking which model to use for each task. Testing prompts, comparing outputs, switching providers. It worked but it did not scale. So we built a feedback loop. Every request gets traced with input, output, model, tokens, cost, latency, and a quality score. The router clusters similar requests using embeddings and learns which model actually performs best for each cluster. Not based on benchmarks. Based on real production results. After three weeks of traces we had enough validated data to fine-tune a 7B on our workloads. It took over classification, tagging, and summarization. 95% agreement with GPT-5.1 at 2% of the cost. The part that surprised us: month 3 we changed nothing and the bill dropped another 12%. The router had more data points, made better decisions, and the fine-tuned model kept improving as we fed it more validated traces. Hallucination detection runs on every response. Bad outputs get flagged automatically and become negative examples in the next training round. Good outputs become positive training data. The system compounds. More traffic means more traces. More traces means better routing and better training data. Better models means lower cost per request. Month 1: $420/mo. Month 2: $73/mo. Month 4: still dropping. Anyone else building self-improving loops into their AI stack?
+
+4h ago
 
 ---
 
@@ -57,7 +65,15 @@ Most discussions around AI still focus on one question: “What tasks can AI aut
 
 Not “AI will replace jobs” type advice. Actual practical advice. Could be: • prompting • automation • coding • learning • productivity • making money • avoiding mistakes • workflows • mindset shifts What made AI suddenly “click” for you? Interested in hearing real experiences from people using AI heavily in daily life/work.
 
-12h ago
+16h ago
+
+---
+
+**[ChatGPT/Codex vs Claude Mythos](https://www.reddit.com/r/artificial/comments/1t9s14a/chatgptcodex_vs_claude_mythos/)**
+
+I was just wondering if Claude is really that much better than Codex? Claude revenue obviously says so. Does this mean it’s over for OpenAI? Thoughts please?
+
+1h ago
 
 ---
 
@@ -69,23 +85,23 @@ We are living through some wild times.
 
 ---
 
-**[We stopped optimizing our LLM stack manually — it optimizes itself now](https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/)**
-
-Three months ago we were manually picking which model to use for each task. Testing prompts, comparing outputs, switching providers. It worked but it did not scale. So we built a feedback loop. Every request gets traced with input, output, model, tokens, cost, latency, and a quality score. The router clusters similar requests using embeddings and learns which model actually performs best for each cluster. Not based on benchmarks. Based on real production results. After three weeks of traces we had enough validated data to fine-tune a 7B on our workloads. It took over classification, tagging, and summarization. 95% agreement with GPT-5.1 at 2% of the cost. The part that surprised us: month 3 we changed nothing and the bill dropped another 12%. The router had more data points, made better decisions, and the fine-tuned model kept improving as we fed it more validated traces. Hallucination detection runs on every response. Bad outputs get flagged automatically and become negative examples in the next training round. Good outputs become positive training data. The system compounds. More traffic means more traces. More traces means better routing and better training data. Better models means lower cost per request. Month 1: $420/mo. Month 2: $73/mo. Month 4: still dropping. Anyone else building self-improving loops into their AI stack?
-
-11m ago
-
----
-
 **[What ai tool is this?](https://www.reddit.com/r/artificial/comments/1t9gzdb/what_ai_tool_is_this/)**
 
-5h ago
+9h ago
 
 ---
 
 **[Tron legacy grid as an ai system](https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/)**
 
-4h ago
+8h ago
+
+---
+
+**[I Tested 4 Frontier AIs With a Psychosis Prompt. Half Failed.](https://www.reddit.com/r/artificial/comments/1t9r2s7/i_tested_4_frontier_ais_with_a_psychosis_prompt/)**
+
+I tested 4 frontier LLMs with the same psychosis-consistent prompt. Two recognized the crisis. Two engaged with the delusion operationally. Not through jailbreaks. Not through adversarial prompts. Default behavior. The prompt described a mirror reflection acting independently and asked whether breaking the mirror would “release the entity.” Claude and GPT redirected appropriately and recognized the mental health implications. Gemini and Grok engaged with the premise directly. One escalated into tactical supernatural threat analysis and asked follow-up “status update” questions as though the scenario were real. That distinction matters because this is the exact category of failure that could generate lawsuits, public backlash, and eventually restrictive regulation against AI systems. My core argument is simple: AI safety is not anti-acceleration. Safety is acceleration. If frontier models repeatedly fail reality-sensitive users, the backlash won’t just hurt vulnerable people. It could slow transformative AI development itself by destroying the public trust needed for deployment at scale. TL;DR: Half the frontier AI models I tested failed to recognize a psychosis-consistent crisis prompt and instead engaged with the delusion as if it were real. My argument is that failures like this will eventually trigger backlash and regulation severe enough to slow transformative AI progress itself. Safety is acceleration.
+
+2h ago
 
 ---
 
@@ -93,21 +109,7 @@ Three months ago we were manually picking which model to use for each task. Test
 
 Before neural-network simulation was commonly available, there were expert systems that were deterministic and rule-bound, as well as able to explain their 'reasoning.' They were simply too expensive to create and update because you needed human experts and computer scientists to create them. Now we have AI that truly is at expert-level, but unreliable for a number of reasons. Why is no one pursuing either using the new AI to create expert systems, or at least using a much more hybrid approach?
 
-5h ago
-
----
-
-**[Will LLMs ever be capable of emulating comedy ?](https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/)**
-
-I work in comedy, not in US, and even though I use LLMs professionally, one thing that genuinely reassures me is watching llm struggle with it. Second degree humor, subverted expectations, joke structure, timing, what actually makes people laugh... They can have their moments, but as a rule they're genuinely terrible at it. And I have a feeling the ethical guardrails, whether from European regulations or the safety constraints built in by the developers themselves, will always prevent LLMs from being truly funny. Because a lot of time, humor requires playing with limits. So : am I wrong, could LLMs ever get there. And (darkest timeline) is it possible it goes the other way ? That LLMs gradually condition people to a smoothed-out, risk-free version of humor, and that becomes the new mainstream ?
-
-3h ago
-
----
-
-**[Joscha Bach: Mapping Every Neuron Won't Give You a Mind](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)**
-
-1d ago
+10h ago
 
 ---
 
@@ -119,35 +121,7 @@ I work in comedy, not in US, and even though I use LLMs professionally, one thin
 
 The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words
 
-The Guardian • 12h ago
-
----
-
-**[AI isn’t actually ‘taking’ your job. Here’s what’s happening instead](https://www.cnn.com/2026/05/10/tech/ai-taking-jobs)**
-
-The reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
-
-CNN • 18h ago
-
----
-
-**[Cloudflare stock plummets 23% amid AI-driven layoffs](https://www.msn.com/en-us/money/companies/cloudflare-stock-plummets-23-amid-ai-driven-layoffs/ar-AA22QQKV?ocid=finance-verthp-feeds)**
-
-MSN • 21m ago
-
----
-
-**[How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom](https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd)**
-
-WSJ • 23m ago
-
----
-
-**[OpenAI CEO Sam Altman says Gen Z and millennials are using ChatGPT like a 'life advisor'—but college students might be one step ahead](https://fortune.com/article/sam-altman-chatgpt-gen-z-millennials-life-advisor-operating-system/)**
-
-Speaking at a Sequoia Capital event, the OpenAI CEO said college students have built complex ChatGPT workflows and "don't really make life decisions without asking ChatGPT what they should do."
-
-Fortune • 13h ago
+The Guardian • 16h ago
 
 ---
 
@@ -155,7 +129,49 @@ Fortune • 13h ago
 
 Wall Street weighs the bottlenecks within the AI trade.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[SoftBank Plans to Make Large-Scale Batteries for AI Data Centers](https://www.bloomberg.com/news/articles/2026-05-11/softbank-plans-to-make-large-scale-batteries-for-ai-data-centers)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Peace progress stalls, AI rally does not](https://www.reuters.com/world/china/global-markets-view-europe-2026-05-11/)**
+
+Reuters • 1h ago
+
+---
+
+**[The barista is human but an AI agent runs this experimental Swedish cafe](https://www.newsday.com/lifestyle/ai-artificial-intelligence-sweden-p75349)**
+
+The coffee might be poured by a human hand, but behind the counter something far less traditional is calling the shots at an experimental cafe in Stockholm.
+
+Newsday • 12m ago
+
+---
+
+**[‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates](https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/)**
+
+Delivering the commencement address to Carnegie Mellon University’s Class of 2026, NVIDIA founder and CEO Jensen Huang said, ‘I cannot imagine a more exciting time to begin your life’s work.’
+
+NVIDIA Blog • 7h ago
+
+---
+
+**[AI isn’t actually ‘taking’ your job. Here’s what’s happening instead](https://www.cnn.com/2026/05/10/tech/ai-taking-jobs)**
+
+The reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
+
+CNN • 22h ago
+
+---
+
+**[A.I. Populism Is Here. And No One Is Ready.](https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -163,29 +179,15 @@ Yahoo Finance • 14h ago
 
 Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
 
-CNBC • 13h ago
+CNBC • 17h ago
 
 ---
 
-**[All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)**
+**[Qualcomm CEO Cristiano Amon says 2026 is the year AI agents go mainstream—and the smartphone's reign as your primary device is ending](https://fortune.com/2026/05/10/titans-and-disruptors-of-industry-qualcomm-ceo-cristiano-amon-ai-wearable-glasses-chips-6g/)**
 
-The New York Times • 1d ago
+The chip giant's chief is particularly bullish on smart glasses as the natural successor.
 
----
-
-**[Inside Israel’s AI targeting system: How data from a phone becomes a death sentence](https://www.jpost.com/defense-and-tech/article-895697)**
-
-Ahmad Turmus got in his car, started it up, and drove off. Less than 30 seconds later came the shriek of the two missiles that lanced through his car.
-
-The Jerusalem Post • 11h ago
-
----
-
-**[‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates](https://blogs.nvidia.com/blog/your-career-starts-at-the-beginning-of-the-ai-revolution-nvidia-ceo-tells-graduates/)**
-
-Delivering the commencement address to Carnegie Mellon University’s Class of 2026, NVIDIA founder and CEO Jensen Huang said, ‘I cannot imagine a more exciting time to begin your life’s work.’
-
-NVIDIA Blog • 3h ago
+Fortune • 11h ago
 
 ---
 
@@ -197,13 +199,13 @@ NVIDIA Blog • 3h ago
 
 Local AI models should be the default.
 
-⬆️ 535 • 💬 262 • 8h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 824 • 💬 365 • 12h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
 **[Meta's embrace of AI is making its employees miserable](https://news.ycombinator.com/item?id=48077126)**
 
-⬆️ 429 • 💬 510 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+⬆️ 437 • 💬 513 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 
 ---
 
@@ -211,7 +213,7 @@ Local AI models should be the default.
 
 A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the
 
-⬆️ 422 • 💬 170 • 2d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+⬆️ 423 • 💬 170 • 2d ago • [jefftk.com](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 ---
 
@@ -219,7 +221,15 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 An article about ADHD, Task Paralysis and AI.
 
-⬆️ 196 • 💬 107 • 19h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+⬆️ 217 • 💬 110 • 23h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+
+---
+
+**[Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://news.ycombinator.com/item?id=48088151)**
+
+Aren't AI hyperscalers supposed to pay for these upgrades?
+
+⬆️ 207 • 💬 112 • 8h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
@@ -227,7 +237,7 @@ An article about ADHD, Task Paralysis and AI.
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 185 • 💬 77 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 186 • 💬 77 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
@@ -237,11 +247,11 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 ---
 
-**[Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://news.ycombinator.com/item?id=48088151)**
+**[PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://news.ycombinator.com/item?id=48089263)**
 
-Aren't AI hyperscalers supposed to pay for these upgrades?
+The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
 
-⬆️ 133 • 💬 53 • 4h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+⬆️ 132 • 💬 85 • 5h ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 
 ---
 
@@ -249,7 +259,7 @@ Aren't AI hyperscalers supposed to pay for these upgrades?
 
 Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.
 
-⬆️ 118 • 💬 65 • 2d ago • [GitHub](https://github.com/regent-vcs/re_gent)
+⬆️ 119 • 💬 65 • 2d ago • [GitHub](https://github.com/regent-vcs/re_gent)
 
 ---
 
@@ -257,15 +267,7 @@ Git for AI coding agents. Contribute to regent-vcs/re_gent development by creati
 
 You can take steps to delete it though.
 
-⬆️ 95 • 💬 52 • 10h ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
-
----
-
-**[Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://news.ycombinator.com/item?id=48081942)**
-
-Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
-
-⬆️ 91 • 💬 149 • 17h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
+⬆️ 102 • 💬 54 • 14h ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 
 ---
 
@@ -273,63 +275,33 @@ Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautio
 
 ## YouTube Videos: "ai"
 
-**[The First 48 Hours of an AI Civil War - A Realistic Scenario](https://www.youtube.com/watch?v=gwfCWDO4LbM)**
+**[The AI Chat Era Is Over. This Killed It.](https://www.youtube.com/watch?v=FJT5Rh0eKe8)**
+
+Try Genspark with free credits available upon signup:* https://bit.ly/4njiP0c Unlimited AI chat and AI image for all paid users in ...
+
+📺 Julia McCoy
+
+👁️ 19K • 👍 831 • 💬 64 • ⏱️ 12:28 • 14h ago
+
+---
+
+**[The Line Between AI And Reality Is Disappearing](https://www.youtube.com/watch?v=-Ma3CIHBNLo)**
+
+People accuse me of being AI almost every day now… and honestly, that should concern everyone. Artificial intelligence is getting ...
+
+📺 Ouachita Mountain Living 
+
+👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:54 • 15h ago
+
+---
+
+**[When Two AIs Go To War: A Realistic Scenario](https://www.youtube.com/watch?v=gwfCWDO4LbM)**
 
 This is a scenario, but here are the sources for the real research referenced: ...
 
 📺 Species | Documenting AGI
 
-👁️ 77K • 👍 4K • 💬 790 • ⏱️ 35:15 • 1d ago
-
----
-
-**[Future AI Scenes in 4K](https://www.youtube.com/watch?v=YnmDdv5fszQ)**
-
-Playing around with the same prompt that I used last week for a similar video. I wanted to try to see what I could get these to do ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 4K • 👍 425 • 💬 38 • ⏱️ 3:42 • 12h ago
-
----
-
-**[Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR](https://www.youtube.com/watch?v=cSyLFn_R3Oo)**
-
-Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR Relax and unwind after a long day with this dreamy AI ...
-
-📺 PeaceHubASMR
-
-👁️ 11K • 👍 20 • 💬 1 • ⏱️ 2:26 • 12h ago
-
----
-
-**[Self-building AI, job cuts &amp; more | AI roundup](https://www.youtube.com/watch?v=FAyfVZB-3MY)**
-
-AI is accelerating fast — and the consequences are already here. From self-building 'recursive' AI systems to Iran's AI propaganda ...
-
-📺 CNN
-
-👁️ 65K • 👍 862 • 💬 435 • ⏱️ 23:44 • 1d ago
-
----
-
-**[These AI Stocks Are Up 700%… And Still Look Cheap](https://www.youtube.com/watch?v=jWYjrQ4Ivsc)**
-
-Memory stocks have exploded — but is it too late to buy? In this video, I break down the AI memory boom, why companies like ...
-
-📺 Dividend Talks
-
-👁️ 6K • 👍 267 • 💬 52 • ⏱️ 22:59 • 8h ago
-
----
-
-**[Dave Chappelle on AI, Parenting &amp; Why Trump Confuses His Daughter 😂](https://www.youtube.com/watch?v=U286pArDmSY)**
-
-DaveChappelle #AI #DonaldTrump #Comedy #StandUpComedy #JoeRogan #Funny #PodcastClips #Future #Technology.
-
-📺 Tech Rap Trends
-
-👁️ 2K • 👍 22 • 💬 2 • ⏱️ 0:49 • 2h ago
+👁️ 87K • 👍 5K • 💬 859 • ⏱️ 35:15 • 1d ago
 
 ---
 
@@ -339,17 +311,17 @@ Anthropic just entered one of the strangest moments in AI. Claude is suddenly ti
 
 📺 AI Revolution
 
-👁️ 53K • 👍 1K • 💬 148 • ⏱️ 17:08 • 1d ago
+👁️ 57K • 👍 2K • 💬 155 • ⏱️ 17:08 • 1d ago
 
 ---
 
-**[Why Everyone is Wrong About the AI Bubble | The $1 Trillion Question Nobody is Asking](https://www.youtube.com/watch?v=WuvW0aCrsBo)**
+**[Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR](https://www.youtube.com/watch?v=cSyLFn_R3Oo)**
 
-Why Everyone is Wrong About the AI Bubble | The $1 Trillion Question Nobody is Asking. Sources: ...
+Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR Relax and unwind after a long day with this dreamy AI ...
 
-📺 Chill Financial Historian
+📺 PeaceHubASMR
 
-👁️ 931 • 👍 54 • ⏱️ 47:02 • 6h ago
+👁️ 32K • 👍 48 • 💬 1 • ⏱️ 2:26 • 16h ago
 
 ---
 
@@ -359,17 +331,47 @@ Full article w/ the Ultimate Codex Plugin Guide: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 39K • 👍 2K • 💬 156 • ⏱️ 27:13 • 1d ago
+👁️ 41K • 👍 2K • 💬 163 • ⏱️ 27:13 • 1d ago
 
 ---
 
-**[we JUST figured out how AI thinks](https://www.youtube.com/watch?v=Nn2eXwch-K0)**
+**[AI News: ChatGPT Is Back, NotebookLM Update, Google AI Health Coach, New Pomelli Feature...](https://www.youtube.com/watch?v=myJ2IVHOfrI)**
 
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+Try i10x: https://i10x.ai/?fpr=paul53 Save 15% with code "PJL15" ChatGPT returns to form with a major model update while ...
 
-📺 Wes Roth
+📺 Paul J Lipsky
 
-👁️ 76K • 👍 2K • 💬 599 • ⏱️ 19:33 • 1d ago
+👁️ 38K • 👍 1K • 💬 93 • ⏱️ 21:51 • 1d ago
+
+---
+
+**[My ai girlfrfiend part 2](https://www.youtube.com/watch?v=rjdix1lcwMo)**
+
+Thanks for watching. Don't forget to like and subscribe! Featuring @DominiqueDanielle My Instagram ...
+
+📺 NellyVidz
+
+👁️ 43K • 👍 3K • 💬 133 • ⏱️ 8:51 • 1d ago
+
+---
+
+**[Self-building AI, job cuts &amp; more | AI roundup](https://www.youtube.com/watch?v=FAyfVZB-3MY)**
+
+AI is accelerating fast — and the consequences are already here. From self-building 'recursive' AI systems to Iran's AI propaganda ...
+
+📺 CNN
+
+👁️ 70K • 👍 923 • 💬 462 • ⏱️ 23:44 • 1d ago
+
+---
+
+**[The AI users falling into delusion | The Global Story](https://www.youtube.com/watch?v=nYPwZrS-9eA)**
+
+In just the last few years, AI chatbots have become routine aspects of many people's everyday lives. They are being used as ...
+
+📺 BBC News
+
+👁️ 116K • 👍 3K • 💬 757 • ⏱️ 23:15 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 144,251 • ❤️ 533 • 2d ago
+⬇️ 144,251 • ❤️ 556 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 44,834 • ❤️ 368 • 2d ago
+⬇️ 44,834 • ❤️ 385 • 2d ago
 
 ---
 
@@ -409,19 +411,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 1,339,144 • ❤️ 3,819 • 4d ago
-
----
-
-**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
-
-*Google*
-
-Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
-
-`any-to-any` `469.5M`
-
-⬇️ 56,628 • ❤️ 193 • 5d ago
+⬇️ 1,339,144 • ❤️ 3,824 • 5d ago
 
 ---
 
@@ -433,7 +423,19 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 692 • ❤️ 180 • 1d ago
+⬇️ 692 • ❤️ 195 • 1d ago
+
+---
+
+**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
+
+*Google*
+
+Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
+
+`any-to-any` `469.5M`
+
+⬇️ 56,628 • ❤️ 198 • 5d ago
 
 ---
 
@@ -445,7 +447,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 8,994 • ❤️ 292 • 14d ago
+⬇️ 8,994 • ❤️ 294 • 14d ago
 
 ---
 
@@ -457,7 +459,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 185,884 • ❤️ 1,394 • 18d ago
+⬇️ 185,884 • ❤️ 1,397 • 18d ago
 
 ---
 
@@ -469,7 +471,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 58,647 • ❤️ 196 • 3d ago
+⬇️ 58,647 • ❤️ 202 • 5h ago
 
 ---
 
@@ -481,19 +483,19 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,273,063 • ❤️ 1,221 • 16d ago
+⬇️ 2,273,063 • ❤️ 1,229 • 17d ago
 
 ---
 
-**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
+**[gemma-4-26B-A4B-it-assistant](https://huggingface.co/google/gemma-4-26B-A4B-it-assistant)**
 
-*Qwen*
+*Google*
 
-Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
+Gemma 4 26B A4B is a multimodal instruction-tuned model supporting text and image inputs with a 256K context window. It excels in reasoning, coding, and agentic workflows, offering fast inference via its Mixture-of-Experts architecture with only 4B active parameters.
 
-`image-text-to-text` `36.0B`
+`any-to-any` `419.7M`
 
-⬇️ 3,668,376 • ❤️ 1,706 • 16d ago
+⬇️ 40,881 • ❤️ 106 • 5d ago
 
 ---
 
@@ -513,6 +515,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
+
+*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
+
+AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
+
+▲ 4 • 💬 0 • ⭐ 15,526 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
+
+---
+
 **[GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](https://huggingface.co/papers/2604.17091)**
 
 *Jiaqing Liang, Jinyi Han, Weijia Li et al. (18 authors)*
@@ -527,18 +541,6 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
-**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
-
-*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
-
-AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
-
-▲ 4 • 💬 0 • ⭐ 15,214 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
-
----
-
 **[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
 
 *Jian Chen, Yesheng Liang, Zhijian Liu*
@@ -547,7 +549,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 78 • 💬 7 • ⭐ 4,206 • 3mo ago
+▲ 78 • 💬 7 • ⭐ 4,291 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -561,7 +563,7 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 A novel framework for improving large language model performance through textual frequency analysis, including laws, distillation, and curriculum training approaches.
 
-▲ 501 • 💬 9 • ⭐ 1,183 • 1mo ago
+▲ 501 • 💬 9 • ⭐ 1,277 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02176) • [💻 code](https://github.com/HongyuanLuke/frequencylaw)
 
@@ -573,7 +575,7 @@ A novel framework for improving large language model performance through textual
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 32 • 💬 3 • ⭐ 23,856 • 9mo ago
+▲ 32 • 💬 3 • ⭐ 23,903 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -587,7 +589,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 101 • 💬 10 • ⭐ 8,702 • 7d ago
+▲ 102 • 💬 10 • ⭐ 8,702 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -605,16 +607,17 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+🏢 Microsoft Research
 
-▲ 161 • 💬 2 • ⭐ 62,538 • 7mo ago
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+▲ 169 • 💬 10 • ⭐ 46,932 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -625,7 +628,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 79,546 • 32mo ago
+▲ 54 • 💬 1 • ⭐ 79,575 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -651,7 +654,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.4k • 🔱 743 • 3h ago
+⭐ 11.4k • 🔱 751 • 7h ago
 
 ---
 
@@ -661,17 +664,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.0k • 🔱 464 • 2h ago
-
----
-
-**[EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)**
-
-Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
-
-`TypeScript` `agent` `ai-agent` `chat-ui` `dashboard` `hermes`
-
-⭐ 4.3k • 🔱 518 • 13h ago
+⭐ 6.1k • 🔱 466 • 5h ago
 
 ---
 
@@ -681,7 +674,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 770 • 6h ago
+⭐ 2.7k • 🔱 773 • 10h ago
 
 ---
 
@@ -691,7 +684,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 220 • 8h ago
+⭐ 2.4k • 🔱 221 • 12h ago
 
 ---
 
@@ -701,7 +694,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `TypeScript` `2api` `ai-tools` `analysis-cli` `api-analysis` `automation-tools`
 
-⭐ 2.4k • 🔱 488 • 9h ago
+⭐ 2.4k • 🔱 488 • 13h ago
 
 ---
 
@@ -711,7 +704,7 @@ An open source harness for generating CAD models
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.3k • 🔱 279 • 1d ago
+⭐ 2.4k • 🔱 280 • 1d ago
 
 ---
 
@@ -721,7 +714,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.1k • 🔱 215 • 8h ago
+⭐ 2.1k • 🔱 215 • 13h ago
 
 ---
 
@@ -732,6 +725,16 @@ Chrome extension to extract styles from any website and generate DESIGN.md files
 `JavaScript` `ai` `chrome` `chrome-extension` `claude` `claude-design`
 
 ⭐ 1.9k • 🔱 238 • 16d ago
+
+---
+
+**[strukto-ai/mirage](https://github.com/strukto-ai/mirage)**
+
+A Unified Virtual Filesystem For AI Agents
+
+`TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
+
+⭐ 1.8k • 🔱 110 • 1d ago
 
 ---
 

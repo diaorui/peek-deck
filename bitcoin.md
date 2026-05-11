@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-11T01:23:39.238078+00:00'
+updated: '2026-05-11T05:33:17.550006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 01:23 UTC  
+**Last Updated:** May 11, 2026 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,474.83
+### $80,887.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +0.8%  
-**30d:** +15.4%  
-**90d:** +21.7%  
-**1y:** -20.6%  
+**24h:** +0.2%  
+**7d:** +0.0%  
+**30d:** +14.5%  
+**90d:** +20.7%  
+**1y:** -21.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1647.35B
+**Market Cap:** $1621.10B
 Rank #1
 
-**Circulating Supply:** 20,027,587 BTC
+**Circulating Supply:** 20,027,700 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--34.8%
+-35.8%
 
 **All-Time Low:** $67.81
-+121212.5%
++119260.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 47
+### 48
 **NEUTRAL**
 
 ---
@@ -81,15 +81,7 @@ Rank #1
 
 Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden surge of 200,000 fake P2P addresses. https://twitter.com/lopp/status/2053449976320061460 https://nitter.net/lopp/status/2053449976320061460 https://www.dsn.kastel.kit.edu/bitcoin/ Tagging u/Statoshi A large-scale infrastructure anomaly has been detected in Bitcoin's P2P network, potentially representing hidden preparation for a technical attack. Starting on April 9, 2026, the chart tracking unsolicited network messages (ADDR) showed a vertical spike: the number of fake and unreachable node addresses surged from a baseline of 50,000 to more than 250,000 per day. The graphical spike was highlighted by well-known developer and Casa co-founder Jameson Lopp, who suggested that someone may be intentionally flooding communication channels with false coordinates as part of preparations for a Sybil attack. Signs of a stealth sybil attack against Bitcoin The attacker appears to have chosen a silent strategy. Instead of directly attacking block validation or transaction processing, unknown actors are attempting to rewrite Bitcoin's "phone book" - nodes exchange each other's addresses through ADDR commands so that new participants can quickly discover peers for synchronization. By flooding the network with hundreds of thousands of fake IP addresses, the attacker is probably attempting to ensure that newly launched or restarted nodes connect exclusively to nonexistent or attacker-controlled "ghost nodes". In theory, such a tactic could lead to an Eclipse attack, where a legitimate node becomes trapped in an informational vacuum and only sees the version of the blockchain presented by the attacker. However, in order to remain secure and receive accurate blockchain data, a node only needs to establish a connection with at least one honest participant in the network. Bitcoin's client software also automatically distributes connections across different subnets, making it difficult for an attacker to monopolize all connection slots from a single IP address pool. At the moment, the anomaly appears to create more parasitic bandwidth load than a direct threat to consensus itself.
 
-🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 5h ago
-
----
-
-**[What would you do if Bitcoin hit 1 million?](https://www.reddit.com/r/Bitcoin/comments/1t9jlmf/what_would_you_do_if_bitcoin_hit_1_million/)**
-
-Like anybody else probably, retire by dca, live life as usual
-
-3h ago
+🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 10h ago
 
 ---
 
@@ -97,7 +89,15 @@ Like anybody else probably, retire by dca, live life as usual
 
 I swear every single time Bitcoin goes up people suddenly act like nobody can ever make money from it again 😭 people said it was “too late” at 1k, then 10k, then 30k and now at 100k+ too But whenever it crashes those same people call it a dead scam and say it’s over forever, and at this point I honestly think most people don’t actually have an opinion on Bitcoin, they just react emotionally to whatever the price is that week lol
 
-3h ago
+7h ago
+
+---
+
+**[What would you do if Bitcoin hit 1 million?](https://www.reddit.com/r/Bitcoin/comments/1t9jlmf/what_would_you_do_if_bitcoin_hit_1_million/)**
+
+Like anybody else probably, retire by dca, live life as usual
+
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ I swear every single time Bitcoin goes up people suddenly act like nobody can ev
 
 Anyone else hearing that sound? Because for the last few days it’s been getting louder: the train leaving the station. Every cycle has the same crowd standing on the platform yelling “bottom not in yet” while the market quietly starts front-running them. Same script, different candles. They wait for the perfect entry, then wait for confirmation, then wait for a pullback, then suddenly they’re buying higher and calling it “risk management.” Not financial advice. Just the sound of steel on rails 👋
 
-2h ago
+6h ago
 
 ---
 
@@ -113,15 +113,7 @@ Anyone else hearing that sound? Because for the last few days it’s been gettin
 
 When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
 
-9h ago
-
----
-
-**[Nothing beats bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1t965b4/nothing_beats_bitcoin/)**
-
-Except girls
-
-12h ago
+14h ago
 
 ---
 
@@ -129,7 +121,15 @@ Except girls
 
 The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeling that maybe… you weren’t crazy after all. For years people treated Bitcoin holders like idiots, gamblers, cult members, whatever. So when the chart finally goes green, you’re not just feeling profit, you’re feeling relief. Like years of being mocked suddenly got a little quieter. That’s why crypto gets so emotional sometimes. For a lot of people, it stopped being just an investment a long time ago. Every green candle feels like revenge against everyone who called you stupid.
 
-7h ago
+11h ago
+
+---
+
+**[Nothing beats bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1t965b4/nothing_beats_bitcoin/)**
+
+Except girls
+
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeli
 
 Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
 
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 19h ago
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 23h ago
 
 ---
 
@@ -145,13 +145,13 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 What do you think of the BTC price would be by xmas this year?
 
-11h ago
+15h ago
 
 ---
 
-**[Some new Physical Bitcoin Cold storage pieces added to the collection](https://www.reddit.com/r/Bitcoin/comments/1t9455x/some_new_physical_bitcoin_cold_storage_pieces/)**
+**[That one friend](https://www.reddit.com/r/Bitcoin/comments/1t99jon/that_one_friend/)**
 
-3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
+I got a friend every time bitcoin is doing great says tell me more I might invest, when its down he just makes fun of me like its going to zero and I'm still in the green. He's not a retard but wow he's a ******* retard
 
 14h ago
 
@@ -161,6 +161,14 @@ What do you think of the BTC price would be by xmas this year?
 
 ## Google News: "bitcoin"
 
+**[Bitcoin briefly tops $82,000 on improving macro conditions; Sui jumps 25%](https://www.theblock.co/post/400663/bitcoin-briefly-tops-82000-sui-jumps-25)**
+
+Sui surged 25% over the last 24 hours, as analysts pointed to Sui Group Holdings' decision to stake 108.7 million SUI.
+
+The Block • 2h ago
+
+---
+
 **[Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns](https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns)**
 
 The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.
@@ -169,19 +177,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
+**[Bitcoin rallies 2.3% after Trump calls Iran peace proposal ‘totally unacceptable’](https://www.tradingview.com/news/cointelegraph:683dde5ad094b:0-bitcoin-rallies-2-3-after-trump-calls-iran-peace-proposal-totally-unacceptable/)**
 
-Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
+Bitcoin briefly dipped before surging over $82,000 on Sunday as US President Donald Trump rejected Iran’s counteroffer to a peace deal, which could prolong tension in the Middle East.“I don’t like it — TOTALLY UNACCEPTABLE, Trump said in a post to Truth Social on Sunday after reading Iran’s proposa…
 
-Forbes • 1d ago
+TradingView • 1h ago
 
 ---
 
-**[Global Bitcoin Holdings Surge 60% as South Korea Restricts Trading](https://www.chosun.com/english/market-money-en/2026/05/11/B3T6VI2UD5DYXF63TNIGNWG5PA/)**
+**[A bitcoin whale that went silent in 2013 moves $40 million in BTC](https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc)**
 
-Global Bitcoin Holdings Surge 60% as South Korea Restricts Trading South Korea Debates Corporate Bitcoin Trading Amid Global Surge, Market Volatility
+A long-dormant whale woke up Sunday, moving millions worth of bitcoin on-chain. here's is what it means for BTC.
 
-조선일보 • 1h ago
+CoinDesk • 1h ago
+
+---
+
+**[Ripple-linked XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45](https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45)**
+
+Sharp move through resistance came with one of the biggest volume spikes in weeks, though profit-taking quickly emerged near session highs.
+
+CoinDesk • 22m ago
 
 ---
 
@@ -189,7 +205,7 @@ Global Bitcoin Holdings Surge 60% as South Korea Restricts Trading South Korea D
 
 The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
-CNBC • 13h ago
+CNBC • 17h ago
 
 ---
 
@@ -197,7 +213,23 @@ CNBC • 13h ago
 
 MicroStrategy CEO Phong Le sets two conditions for selling Bitcoin to fund Stretch dividends and offset taxes.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
+
+Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
+
+Fortune • 2d ago
+
+---
+
+**[Bitcoin treasury firm Strategy breaks from 'never sell' approach to the flagship crypto](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)**
+
+Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
+
+CNBC • 5d ago
 
 ---
 
@@ -205,35 +237,7 @@ Yahoo Finance • 14h ago
 
 As January was ending, two teenagers living on the outskirts of idyllic Pismo Beach – recently named “best small coastal town in America” by USA Today – took a long,
 
-Scottsdale Progress • 18h ago
-
----
-
-**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
-
-Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
-
-Decrypt • 8h ago
-
----
-
-**[Bitcoin trades above $80k milestone amid legislative progress and banking shift](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-80k-milestone-amid-legislative-progress-and-banking-shift-4674763)**
-
-Investing.com • 17h ago
-
----
-
-**[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
-
-WSJ • 5d ago
-
----
-
-**[Can Bitcoin Fix the US Housing Market? Fannie Mae Is Finding Out](https://www.thedailyupside.com/investments/cryptocurrency/can-bitcoin-fix-the-us-housing-market-fannie-mae-is-finding-out/)**
-
-Fannie Mae is buying mortgages backed by cryptocurrency holdings. Is it the start of a housing renaissance or a new market crisis?
-
-The Daily Upside • 21h ago
+Scottsdale Progress • 22h ago
 
 ---
 
@@ -283,29 +287,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 2 • 💬 0 • 11h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
-
----
-
-**[Long short-term memory (1997) [pdf]](https://news.ycombinator.com/item?id=48077040)**
-
-⬆️ 1 • 💬 1 • 1d ago • [bioinf.jku.at](https://www.bioinf.jku.at/publications/older/2604.pdf)
-
----
-
-**[China's youth are ditching the rat race](https://news.ycombinator.com/item?id=48055996)**
-
-China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
-
-⬆️ 5 • 💬 2 • 3d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
-
----
-
-**[McDonald's is quietly ending the era of self-serve soda fountains nationwide](https://news.ycombinator.com/item?id=48005909)**
-
-McDonald's is quietly ending self-serve soda fountains nationwide, shifting drink prep behind the counter as it modernizes restaurants across the country.
-
-⬆️ 11 • 💬 20 • 6d ago • [Fox Business](https://www.foxbusiness.com/fox-news-food-drink/mcdonalds-quietly-ditching-popular-in-store-feature-nationwide)
+⬆️ 2 • 💬 0 • 15h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
@@ -313,23 +295,53 @@ McDonald's is quietly ending self-serve soda fountains nationwide, shifting drin
 
 ## YouTube Videos: "bitcoin"
 
+**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
+
+Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 1K • 💬 102 • ⏱️ 16:50 • 7h ago
+
+---
+
 **[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
 
 Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 949 • 💬 44 • ⏱️ 16:15 • 13h ago
+👁️ 24K • 👍 1K • 💬 38 • ⏱️ 16:15 • 17h ago
 
 ---
 
-**[Bitcoin: The Calm Eye of the Storm](https://www.youtube.com/watch?v=U3z5G7ASyh8)**
+**[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
 
-Hurley talks about Bitcoin: The Calm Eye of the Storm Brought to you by Bitcoinwell.com a bitcoin-only platform on a mission to ...
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 970 • 👍 45 • 💬 29 • ⏱️ 0:34 • 10h ago
+👁️ 8K • 👍 646 • 💬 17 • ⏱️ 8:11 • 3h ago
+
+---
+
+**[Strategy CEO on selling bitcoin: When it&#39;s better than issuing equity to pay dividends, we&#39;ll do it](https://www.youtube.com/watch?v=qpkvpSp-wBY)**
+
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss Strategy's strategic pivot, the company's new product and much more.
+
+📺 CNBC Television
+
+👁️ 20K • 👍 162 • 💬 150 • ⏱️ 4:14 • 2d ago
+
+---
+
+**[Cathie Wood :&quot;This Is Why Bitcoin Could Jump $100K In Days&quot; | BTC Update 2026](https://www.youtube.com/watch?v=28Pay65kLKY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 298 • 💬 125 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -339,7 +351,7 @@ The Clarity Act is being sold as stablecoin regulation, but the real story is mu
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 171 • ⏱️ 17:10 • 1d ago
+👁️ 13K • 👍 1K • 💬 173 • ⏱️ 17:10 • 1d ago
 
 ---
 
@@ -349,37 +361,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 27 • ⏱️ 0:35 • 11h ago
-
----
-
-**[US Bitcoin Reserve: Innovative Funding Revealed! 💰 | Cody Carbone](https://www.youtube.com/watch?v=08JXx7FnQUI)**
-
-Cody Carbone, CEO at The Digital Chamber, shares his thoughts on the upcoming Strategic Bitcoin Reserve announcement and ...
-
-📺 Thinking Crypto
-
-👁️ 698 • 👍 39 • 💬 11 • ⏱️ 2:02 • 10h ago
-
----
-
-**[⚠️ Bitcoin May Fall to $40,000](https://www.youtube.com/watch?v=G15aM4MbBgw)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 157 • 💬 26 • ⏱️ 7:45 • 13h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZIJUh-L4gWM)**
-
-BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 11h ago
+👁️ 4K • 👍 35 • 💬 1 • ⏱️ 0:35 • 15h ago
 
 ---
 
@@ -389,27 +371,27 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Cap
 
 📺 Aaron Bennett
 
-👁️ 15K • 👍 626 • 💬 259 • ⏱️ 9:05 • 1d ago
+👁️ 15K • 👍 643 • 💬 257 • ⏱️ 9:05 • 1d ago
 
 ---
 
-**[Bitcoin ETFs Are Doing Something They Haven&#39;t Done in 9 Months](https://www.youtube.com/watch?v=zsi6gkOcP60)**
+**[Bitcoin Bombshell: Saylor Reveals When He Would Sell - EXCLUSIVE](https://www.youtube.com/watch?v=noC7pqm5Wus)**
 
-Six straight weeks of net inflows into spot Bitcoin ETFs — the longest streak in 9 months. BlackRock just expanded its tokenized ...
+Bitcoin #Crypto #Finance Michael Saylor has said "never sell your Bitcoin" for years — but in this exclusive interview at ...
 
-📺 Digital Asset News
+📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 714 • 💬 57 • ⏱️ 35:29 • 1d ago
+👁️ 22K • 👍 996 • 💬 363 • ⏱️ 36:58 • 16h ago
 
 ---
 
-**[Michael Saylor - &quot;This Is EXACTLY Why We Are Preparing to Sell Bitcoin Before June&quot;](https://www.youtube.com/watch?v=Viqn1MpJc7w)**
+**[BITCOIN &amp; CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZIJUh-L4gWM)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
 
-📺 Savvy Finance
+📺 Crypto World
 
-👁️ 2K • 👍 85 • 💬 24 • ⏱️ 16:52 • 8h ago
+👁️ 12K • 👍 405 • 💬 133 • ⏱️ 11:27 • 16h ago
 
 ---
 
