@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-10T23:26:19.755051+00:00'
+updated: '2026-05-11T01:23:39.243284+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 23:26 UTC  
+**Last Updated:** May 11, 2026 at 01:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +1.1%  
-**30d:** +3.8%  
-**90d:** +17.5%  
-**1y:** -5.5%  
+**24h:** +1.6%  
+**7d:** +0.0%  
+**30d:** +8.0%  
+**90d:** +21.7%  
+**1y:** -5.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-9h ago
+11h ago
 
 ---
 
@@ -88,13 +88,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-7h ago
+9h ago
 
 ---
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -114,19 +114,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
+
+I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
+
+23h ago
+
+---
+
 **[Used Claude Code + Blender MCP to visualize my Supply Chain dApp](https://www.reddit.com/r/ethereum/comments/1t89d1y/used_claude_code_blender_mcp_to_visualize_my/)**
 
 I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
 
 1d ago
-
----
-
-**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
-
-I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
-
-21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Regulatory bans on stablecoin yields are expected to positively impact Ethereum'
 
 Bitmine Chairman Tom Lee predicts a new bullish target for Ethereum as on-chain selling signals fragility among large holders.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 12h ago
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 6h ago
+Decrypt • 8h ago
 
 ---
 
@@ -170,7 +170,13 @@ Decrypt • 6h ago
 
 Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
 
-TradingView • 7h ago
+TradingView • 9h ago
+
+---
+
+**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
+
+AMBCrypto • 15h ago
 
 ---
 
@@ -180,9 +186,11 @@ TipRanks • 1d ago
 
 ---
 
-**[3.62M ETH hits Binance – Here’s why Ethereum’s Q2 rally looks weak](https://ambcrypto.com/3-62m-eth-hits-binance-heres-why-ethereums-q2-rally-looks-weak/)**
+**[New Crypto Pepeto Presale Nears $10 Million While Ethereum Price Prediction Charts a $4,900 Target as Bitmine Loads 5.18 Million ETH](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-nears-10-million-while-ethereum-price-prediction-charts-a-4-900-target-as-bitmine-loads-5-18-million-eth-1036133533)**
 
-AMBCrypto • 13h ago
+Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
+
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -191,14 +199,6 @@ AMBCrypto • 13h ago
 Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
 
 CryptoSlate • 2d ago
-
----
-
-**[New Crypto Pepeto Presale Nears $10 Million While Ethereum Price Prediction Charts a $4,900 Target as Bitmine Loads 5.18 Million ETH](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-nears-10-million-while-ethereum-price-prediction-charts-a-4-900-target-as-bitmine-loads-5-18-million-eth-1036133533)**
-
-Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto just crossed $9.92 million raised after the latest presale stage sold out fas...
-
-markets.businessinsider.com • 19h ago
 
 ---
 
@@ -222,7 +222,7 @@ DailyCoin • 2d ago
 
 Ethereum whale 0x674 spends $17M USDC on 7,284 ETH at $2,334, stakes with LidoFinance, holds $10M more USDC for potential buys amid ETH price prediction trends.
 
-blockchain.news • 21h ago
+blockchain.news • 23h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 361 • 👍 14 • 💬 1 • ⏱️ 4:55 • 13h ago
+👁️ 361 • 👍 14 • 💬 1 • ⏱️ 4:55 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 14K • 👍 2K • 💬 82 • ⏱️ 37:29 • 3h ago
+👁️ 14K • 👍 2K • 💬 82 • ⏱️ 37:29 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin continues to push higher and the current structure still allows for a mo
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 611 • 💬 45 • ⏱️ 17:12 • 9h ago
+👁️ 10K • 👍 611 • 💬 45 • ⏱️ 17:12 • 11h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 9h ago
+👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 11h ago
 
 ---
 

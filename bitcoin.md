@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-10T23:26:19.749053+00:00'
+updated: '2026-05-11T01:23:39.238078+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 10, 2026 at 23:26 UTC  
+**Last Updated:** May 11, 2026 at 01:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,314.66
+### $81,474.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +3.0%  
-**30d:** +12.6%  
-**90d:** +19.5%  
-**1y:** -21.0%  
+**24h:** +1.1%  
+**7d:** +0.8%  
+**30d:** +15.4%  
+**90d:** +21.7%  
+**1y:** -20.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden surge of 200,000 fake P2P addresses. https://twitter.com/lopp/status/2053449976320061460 https://nitter.net/lopp/status/2053449976320061460 https://www.dsn.kastel.kit.edu/bitcoin/ Tagging u/Statoshi A large-scale infrastructure anomaly has been detected in Bitcoin's P2P network, potentially representing hidden preparation for a technical attack. Starting on April 9, 2026, the chart tracking unsolicited network messages (ADDR) showed a vertical spike: the number of fake and unreachable node addresses surged from a baseline of 50,000 to more than 250,000 per day. The graphical spike was highlighted by well-known developer and Casa co-founder Jameson Lopp, who suggested that someone may be intentionally flooding communication channels with false coordinates as part of preparations for a Sybil attack. Signs of a stealth sybil attack against Bitcoin The attacker appears to have chosen a silent strategy. Instead of directly attacking block validation or transaction processing, unknown actors are attempting to rewrite Bitcoin's "phone book" - nodes exchange each other's addresses through ADDR commands so that new participants can quickly discover peers for synchronization. By flooding the network with hundreds of thousands of fake IP addresses, the attacker is probably attempting to ensure that newly launched or restarted nodes connect exclusively to nonexistent or attacker-controlled "ghost nodes". In theory, such a tactic could lead to an Eclipse attack, where a legitimate node becomes trapped in an informational vacuum and only sees the version of the blockchain presented by the attacker. However, in order to remain secure and receive accurate blockchain data, a node only needs to establish a connection with at least one honest participant in the network. Bitcoin's client software also automatically distributes connections across different subnets, making it difficult for an attacker to monopolize all connection slots from a single IP address pool. At the moment, the anomaly appears to create more parasitic bandwidth load than a direct threat to consensus itself.
 
-🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 3h ago
+🔗 [U.Today](https://u.today/bitcoin-network-flooded-with-200000-ghosts-core-dev-jameson-lopp-warns-about-stealth-sybil-attack) • 5h ago
 
 ---
 
@@ -89,15 +89,7 @@ Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden su
 
 Like anybody else probably, retire by dca, live life as usual
 
-1h ago
-
----
-
-**[Where the doom and gloomers from February?](https://www.reddit.com/r/Bitcoin/comments/1t99xay/where_the_doom_and_gloomers_from_february/)**
-
-When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
-
-8h ago
+3h ago
 
 ---
 
@@ -105,31 +97,7 @@ When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seem
 
 I swear every single time Bitcoin goes up people suddenly act like nobody can ever make money from it again 😭 people said it was “too late” at 1k, then 10k, then 30k and now at 100k+ too But whenever it crashes those same people call it a dead scam and say it’s over forever, and at this point I honestly think most people don’t actually have an opinion on Bitcoin, they just react emotionally to whatever the price is that week lol
 
-1h ago
-
----
-
-**[Nothing beats bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1t965b4/nothing_beats_bitcoin/)**
-
-Except girls
-
-10h ago
-
----
-
-**[The psychological revenge of the green candle: Why Bitcoin is more than just an investment for many.](https://www.reddit.com/r/Bitcoin/comments/1t9djvx/the_psychological_revenge_of_the_green_candle_why/)**
-
-The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeling that maybe… you weren’t crazy after all. For years people treated Bitcoin holders like idiots, gamblers, cult members, whatever. So when the chart finally goes green, you’re not just feeling profit, you’re feeling relief. Like years of being mocked suddenly got a little quieter. That’s why crypto gets so emotional sometimes. For a lot of people, it stopped being just an investment a long time ago. Every green candle feels like revenge against everyone who called you stupid.
-
-5h ago
-
----
-
-**[Bitcoin Open Interest Explodes Beyond 2025 All-Time High Levels](https://www.reddit.com/r/Bitcoin/comments/1t8yvta/bitcoin_open_interest_explodes_beyond_2025/)**
-
-Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
-
-🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 17h ago
+3h ago
 
 ---
 
@@ -137,7 +105,39 @@ Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity 
 
 Anyone else hearing that sound? Because for the last few days it’s been getting louder: the train leaving the station. Every cycle has the same crowd standing on the platform yelling “bottom not in yet” while the market quietly starts front-running them. Same script, different candles. They wait for the perfect entry, then wait for confirmation, then wait for a pullback, then suddenly they’re buying higher and calling it “risk management.” Not financial advice. Just the sound of steel on rails 👋
 
-15m ago
+2h ago
+
+---
+
+**[Where the doom and gloomers from February?](https://www.reddit.com/r/Bitcoin/comments/1t99xay/where_the_doom_and_gloomers_from_february/)**
+
+When bitcoin was at $64,000 and claiming it'd go down to less than $10,000? Seems like the price has stabilized quite a bit and will steadily go up. Now the 125k peak was that too high at the time? Yes, and the market corrected and found the medium. Now it'll eventually return to that 125k peak and it'll waffle there before making a new high. Just like it always does.
+
+9h ago
+
+---
+
+**[Nothing beats bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1t965b4/nothing_beats_bitcoin/)**
+
+Except girls
+
+12h ago
+
+---
+
+**[The psychological revenge of the green candle: Why Bitcoin is more than just an investment for many.](https://www.reddit.com/r/Bitcoin/comments/1t9djvx/the_psychological_revenge_of_the_green_candle_why/)**
+
+The weirdest part of a Bitcoin bull run isn’t even the money. It’s the feeling that maybe… you weren’t crazy after all. For years people treated Bitcoin holders like idiots, gamblers, cult members, whatever. So when the chart finally goes green, you’re not just feeling profit, you’re feeling relief. Like years of being mocked suddenly got a little quieter. That’s why crypto gets so emotional sometimes. For a lot of people, it stopped being just an investment a long time ago. Every green candle feels like revenge against everyone who called you stupid.
+
+7h ago
+
+---
+
+**[Bitcoin Open Interest Explodes Beyond 2025 All-Time High Levels](https://www.reddit.com/r/Bitcoin/comments/1t8yvta/bitcoin_open_interest_explodes_beyond_2025/)**
+
+Bitcoin is seeing an explosive rise in Open Interest, with derivatives activity now surpassing peak session levels recorded during the 2025 all-time high.
+
+🔗 [NewsBTC](https://www.newsbtc.com/news/bitcoin/bitcoin-open-interest-explodes-beyond-2025-all-time-high-session-levels/) • 19h ago
 
 ---
 
@@ -145,7 +145,7 @@ Anyone else hearing that sound? Because for the last few days it’s been gettin
 
 What do you think of the BTC price would be by xmas this year?
 
-9h ago
+11h ago
 
 ---
 
@@ -153,7 +153,7 @@ What do you think of the BTC price would be by xmas this year?
 
 3 Funded physical bitcoin pieces added to the collection. -2x 1/10oz 999 Silver BTC bars: 1 funded with 5000 Sats, the other funded with 4000 Sats -1 Caribbean Treasures Bitcoin relic card. Coin inside card is funded with 31,250 Sats (.0003125 BTC). Def some smaller, fractional pieces with relatively low funding amounts but still cool pieces to add to the stack. Plus, every tiny amount of bitcoin owned is a step in the right direction! Now bring on the awful comments
 
-12h ago
+14h ago
 
 ---
 
@@ -169,22 +169,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-peter-brandt-130955200.html)**
-
-Most people who bought Bitcoin (CRYPTO: BTC) in the last year are currently underwater and the mood around the market is cautious. The Bitcoin price is hovering above $80,000 today, but BTC is still down 36% from its $126K all-time high. Despite the OG crypto’s price action, veteran trader Peter Brandt has made an ambitious ... Bitcoin Price Prediction: Peter Brandt Says Bitcoin Could Hit $300K–$500K by 2029
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin news: Soon, traders will be able to bet on BTC volatility, not just price, on CME](https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme)**
-
-CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.
-
-CoinDesk • 1d ago
-
----
-
 **[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/09/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
 
 Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
@@ -193,19 +177,27 @@ Forbes • 1d ago
 
 ---
 
+**[Global Bitcoin Holdings Surge 60% as South Korea Restricts Trading](https://www.chosun.com/english/market-money-en/2026/05/11/B3T6VI2UD5DYXF63TNIGNWG5PA/)**
+
+Global Bitcoin Holdings Surge 60% as South Korea Restricts Trading South Korea Debates Corporate Bitcoin Trading Amid Global Surge, Market Volatility
+
+조선일보 • 1h ago
+
+---
+
 **[SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle](https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html)**
 
 The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
-CNBC • 11h ago
+CNBC • 13h ago
 
 ---
 
-**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
+**[MicroStrategy Reveals It Will Sell Bitcoin Under These Conditions](https://finance.yahoo.com/markets/crypto/articles/microstrategy-reveals-sell-bitcoin-under-110002397.html)**
 
-Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
+MicroStrategy CEO Phong Le sets two conditions for selling Bitcoin to fund Stretch dividends and offset taxes.
 
-Decrypt • 6h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -213,27 +205,35 @@ Decrypt • 6h ago
 
 As January was ending, two teenagers living on the outskirts of idyllic Pismo Beach – recently named “best small coastal town in America” by USA Today – took a long,
 
-Scottsdale Progress • 16h ago
+Scottsdale Progress • 18h ago
+
+---
+
+**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
+
+Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
+
+Decrypt • 8h ago
 
 ---
 
 **[Bitcoin trades above $80k milestone amid legislative progress and banking shift](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-80k-milestone-amid-legislative-progress-and-banking-shift-4674763)**
 
-Investing.com • 15h ago
-
----
-
-**[Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’](https://fortune.com/2026/05/08/michael-saylor-mstr-strategy-microstrategy-bitcoin-sales-short-sellers-haters/)**
-
-Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.
-
-Fortune • 2d ago
+Investing.com • 17h ago
 
 ---
 
 **[Strategy Records Loss of Nearly $13 Billion as Bitcoin Continues Decline](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/strategy-records-loss-of-nearly-13-billion-as-bitcoin-continues-decline-w0wGoCWyy79Wo4XYxn8m)**
 
 WSJ • 5d ago
+
+---
+
+**[Can Bitcoin Fix the US Housing Market? Fannie Mae Is Finding Out](https://www.thedailyupside.com/investments/cryptocurrency/can-bitcoin-fix-the-us-housing-market-fannie-mae-is-finding-out/)**
+
+Fannie Mae is buying mortgages backed by cryptocurrency holdings. Is it the start of a housing renaissance or a new market crisis?
+
+The Daily Upside • 21h ago
 
 ---
 
@@ -283,7 +283,7 @@ Tennessee became the second state in the United States to ban convertible virtua
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 2 • 💬 0 • 9h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+⬆️ 2 • 💬 0 • 11h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
@@ -319,7 +319,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 949 • 💬 44 • ⏱️ 16:15 • 11h ago
+👁️ 18K • 👍 949 • 💬 44 • ⏱️ 16:15 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ Hurley talks about Bitcoin: The Calm Eye of the Storm Brought to you by Bitcoinw
 
 📺 Simply Bitcoin
 
-👁️ 970 • 👍 45 • 💬 29 • ⏱️ 0:34 • 8h ago
+👁️ 970 • 👍 45 • 💬 29 • ⏱️ 0:34 • 10h ago
 
 ---
 
@@ -349,7 +349,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 27 • ⏱️ 0:35 • 9h ago
+👁️ 3K • 👍 27 • ⏱️ 0:35 • 11h ago
 
 ---
 
@@ -359,7 +359,7 @@ Cody Carbone, CEO at The Digital Chamber, shares his thoughts on the upcoming St
 
 📺 Thinking Crypto
 
-👁️ 698 • 👍 39 • 💬 11 • ⏱️ 2:02 • 8h ago
+👁️ 698 • 👍 39 • 💬 11 • ⏱️ 2:02 • 10h ago
 
 ---
 
@@ -369,7 +369,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 157 • 💬 26 • ⏱️ 7:45 • 11h ago
+👁️ 3K • 👍 157 • 💬 26 • ⏱️ 7:45 • 13h ago
 
 ---
 
@@ -379,7 +379,7 @@ BITCOIN & CRYPTO: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 9h ago
+👁️ 10K • 👍 360 • 💬 130 • ⏱️ 11:27 • 11h ago
 
 ---
 
@@ -409,7 +409,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 85 • 💬 24 • ⏱️ 16:52 • 6h ago
+👁️ 2K • 👍 85 • 💬 24 • ⏱️ 16:52 • 8h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-10T23:26:19.250600+00:00"
+          "dateModified": "2026-05-11T01:23:38.751747+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -748,7 +748,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -756,13 +756,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/" target="_blank" onclick="event.stopPropagation();">Will LLMs ever be capable of emulating comedy ?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/" target="_blank" onclick="event.stopPropagation();">We stopped optimizing our LLM stack manually — it optimizes itself now</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I work in comedy, not in US, and even though I use LLMs professionally, one thing that genuinely reassures me is watching llm struggle with it. Second degree humor, subverted expectations, joke structure, timing, what actually makes people laugh... They can have their moments, but as a rule they're genuinely terrible at it. And I have a feeling the ethical guardrails, whether from European regulations or the safety constraints built in by the developers themselves, will always prevent LLMs from being truly funny. Because a lot of time, humor requires playing with limits. So : am I wrong, could LLMs ever get there. And (darkest timeline) is it possible it goes the other way ? That LLMs gradually condition people to a smoothed-out, risk-free version of humor, and that becomes the new mainstream ?
+                            Three months ago we were manually picking which model to use for each task. Testing prompts, comparing outputs, switching providers. It worked but it did not scale. So we built a feedback loop. Every request gets traced with input, output, model, tokens, cost, latency, and a quality score. The router clusters similar requests using embeddings and learns which model actually performs best for each cluster. Not based on benchmarks. Based on real production results. After three weeks of traces we had enough validated data to fine-tune a 7B on our workloads. It took over classification, tagging, and summarization. 95% agreement with GPT-5.1 at 2% of the cost. The part that surprised us: month 3 we changed nothing and the bill dropped another 12%. The router had more data points, made better decisions, and the fine-tuned model kept improving as we fed it more validated traces. Hallucination detection runs on every response. Bad outputs get flagged automatically and become negative examples in the next training round. Good outputs become positive training data. The system compounds. More traffic means more traces. More traces means better routing and better training data. Better models means lower cost per request. Month 1: $420/mo. Month 2: $73/mo. Month 4: still dropping. Anyone else building self-improving loops into their AI stack?
                         </div>
                         
 
@@ -771,7 +771,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1778449659.0"></span>
+                                    <span data-timestamp="1778461944.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -803,6 +803,37 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1778442592.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/1zmzrqiqld0h1.jpeg?width=640&crop=smart&auto=webp&s=7f40135e0c0644508ecf4058272b92a09c38cdc6" alt="Tron legacy grid as an ai system" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/" target="_blank" onclick="event.stopPropagation();">Tron legacy grid as an ai system</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1778447580.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -845,20 +876,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/1zmzrqiqld0h1.jpeg?width=640&crop=smart&auto=webp&s=7f40135e0c0644508ecf4058272b92a09c38cdc6" alt="Tron legacy grid as an ai system" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/" target="_blank" onclick="event.stopPropagation();">Tron legacy grid as an ai system</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/" target="_blank" onclick="event.stopPropagation();">Will LLMs ever be capable of emulating comedy ?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I work in comedy, not in US, and even though I use LLMs professionally, one thing that genuinely reassures me is watching llm struggle with it. Second degree humor, subverted expectations, joke structure, timing, what actually makes people laugh... They can have their moments, but as a rule they're genuinely terrible at it. And I have a feeling the ethical guardrails, whether from European regulations or the safety constraints built in by the developers themselves, will always prevent LLMs from being truly funny. Because a lot of time, humor requires playing with limits. So : am I wrong, could LLMs ever get there. And (darkest timeline) is it possible it goes the other way ? That LLMs gradually condition people to a smoothed-out, risk-free version of humor, and that becomes the new mainstream ?
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -866,7 +899,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1778447580.0"></span>
+                                    <span data-timestamp="1778449659.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -907,39 +940,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/" target="_blank" onclick="event.stopPropagation();">Is agentic AI governance even a computationally bounded process?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1778361410.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -963,7 +963,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-10T23:25:57.373736+00:00">Updated 2026-05-10T23:25:57.373736+00:00</small>
+        <small data-timestamp="2026-05-11T01:22:58.118751+00:00">Updated 2026-05-11T01:22:58.118751+00:00</small>
     </div>
 </div>
 
@@ -1231,6 +1231,80 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.msn.com/en-us/money/companies/cloudflare-stock-plummets-23-amid-ai-driven-layoffs/ar-AA22QQKV?ocid=finance-verthp-feeds', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.msn.com/en-us/money/companies/cloudflare-stock-plummets-23-amid-ai-driven-layoffs/ar-AA22QQKV?ocid=finance-verthp-feeds" target="_blank" onclick="event.stopPropagation();">Cloudflare stock plummets 23% amid AI-driven layoffs</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MSN" class="news-favicon">
+                                    <a href="https://www.msn.com" target="_blank" onclick="event.stopPropagation();">MSN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778461357.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd" target="_blank" onclick="event.stopPropagation();">How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778461200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://fortune.com/article/sam-altman-chatgpt-gen-z-millennials-life-advisor-operating-system/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/05/GettyImages-2198379348_f961a4-e1747153702785.jpg?resize=1200,600');"></div>
@@ -1313,6 +1387,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108198795-1770239751664-108198795-1757946595578-gettyimages-2218001070-BLOOMBERG_TECH.jpeg?v=1770239806&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html" target="_blank" onclick="event.stopPropagation();">Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778414401.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1343,43 +1458,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1778357708.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company" target="_blank" onclick="event.stopPropagation();">AI Wins Have Alphabet Poised to Become World’s Biggest Company</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778418007.0"></span>
                                 </div>
                                 
                             </div>
@@ -1428,20 +1506,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://blogs.nvidia.com/blog/your-career-starts-at-the-beginning-of-the-ai-revolution-nvidia-ceo-tells-graduates/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108198795-1770239751664-108198795-1757946595578-gettyimages-2218001070-BLOOMBERG_TECH.jpeg?v=1770239806&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-KL_-13_16x9-scaled.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html" target="_blank" onclick="event.stopPropagation();">Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI</a>
+                            <a href="https://blogs.nvidia.com/blog/your-career-starts-at-the-beginning-of-the-ai-revolution-nvidia-ceo-tells-graduates/" target="_blank" onclick="event.stopPropagation();">‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
+                            Delivering the commencement address to Carnegie Mellon University’s Class of 2026, NVIDIA founder and CEO Jensen Huang said, ‘I cannot imagine a more exciting time to begin your life’s work.’
                         </div>
                         
 
@@ -1451,9 +1529,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NVIDIA Blog" class="news-favicon">
+                                    <a href="https://blogs.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Blog</a>
                                     
                                 </div>
                                 
@@ -1461,89 +1539,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1778414401.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2274051725.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition" target="_blank" onclick="event.stopPropagation();">Why Utah residents are protesting a massive AI data center project backed by Kevin O’Leary</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A group of rural Utah residents wants a chance to vote in November to oppose a massive AI data center development — the latest example of Americans resisting new data center projects over fears they’ll disrupt the environment and their communities.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778310051.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.civilbeat.org/2026/05/ai-data-centers-are-the-new-plantations-unless-we-build-them-differently/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://d1l18ops95qbzp.cloudfront.net/wp-content/2021/11/21105257/iStock-1236683058.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.civilbeat.org/2026/05/ai-data-centers-are-the-new-plantations-unless-we-build-them-differently/" target="_blank" onclick="event.stopPropagation();">AI Data Centers Are The New Plantations Unless We Build Them Differently</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI can support livelihoods, prosperity and culture, but only if island communities have a real say in how it is built and governed.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.civilbeat.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Honolulu Civil Beat" class="news-favicon">
-                                    <a href="https://www.civilbeat.org" target="_blank" onclick="event.stopPropagation();">Honolulu Civil Beat</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778410287.0"></span>
+                                    <span data-timestamp="1778451249.0"></span>
                                 </div>
                                 
                             </div>
@@ -1571,7 +1567,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-10T23:26:13.332951+00:00">Updated 2026-05-10T23:26:13.332951+00:00</small>
+        <small data-timestamp="2026-05-11T01:23:17.053258+00:00">Updated 2026-05-11T01:23:17.053258+00:00</small>
     </div>
 </div>
 
@@ -1775,6 +1771,55 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="hn-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48085821', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=48085821" target="_blank" onclick="event.stopPropagation();">Local AI needs to be the norm</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Local AI models should be the default.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 535</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 262</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-05-10T17:19:28Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://unix.foo/posts/local-ai-needs-to-be-norm/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://unix.foo/favicon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>unix.foo</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48077126', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -1792,10 +1837,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 427</span>
+                                    <span class="post-points">▲ 429</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 508</span>
+                                    <span style="color: #9ca3af;">💬 510</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1872,20 +1917,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48085821', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48081469', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48085821" target="_blank" onclick="event.stopPropagation();">Local AI needs to be the norm</a>
+                            <a href="https://news.ycombinator.com/item?id=48081469" target="_blank" onclick="event.stopPropagation();">Task Paralysis and AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Local AI models should be the default.
+                            An article about ADHD, Task Paralysis and AI.
                         </div>
                         
 
@@ -1893,26 +1938,26 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 396</span>
+                                    <span class="post-points">▲ 196</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 208</span>
+                                    <span style="color: #9ca3af;">💬 107</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-10T17:19:28Z"></span>
+                                    <span class="post-age" data-timestamp="2026-05-10T06:20:50Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://unix.foo/posts/local-ai-needs-to-be-norm/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://unix.foo/favicon.png" alt="" class="post-favicon">
+                                            <img src="https://g5t.de/favicon.ico" alt="" class="post-favicon">
                                             
                                         
-                                        <span>unix.foo</span>
+                                        <span>g5t.de</span>
                                     </a>
                                 </div>
                                 
@@ -1942,7 +1987,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 184</span>
+                                    <span class="post-points">▲ 185</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 77</span>
@@ -1962,55 +2007,6 @@
                                             
                                         
                                         <span>Adële's blog</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48081469', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48081469" target="_blank" onclick="event.stopPropagation();">Task Paralysis and AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            An article about ADHD, Task Paralysis and AI.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 178</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 101</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-10T06:20:50Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://g5t.de/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>g5t.de</span>
                                     </a>
                                 </div>
                                 
@@ -2056,6 +2052,55 @@
                                             
                                         
                                         <span>mccue.dev</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48088151', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=48088151" target="_blank" onclick="event.stopPropagation();">Maryland citizens hit with $2B power grid upgrade for out-of-state AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Aren't AI hyperscalers supposed to pay for these upgrades?
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 133</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 53</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-05-10T21:16:58Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://vanilla.futurecdn.net/tomshardware/1626534/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Tom's Hardware</span>
                                     </a>
                                 </div>
                                 
@@ -2113,55 +2158,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48081942', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://dims.waltonfamilyfoundation.org/dims4/default/fdce3f6/2147483647/strip/true/crop/2121x1114+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fstatic.waltonfamilyfoundation.org%2F1b%2Fe2%2Fd498202c4f80877e774f3bef0b86%2Fistock-1340096416-1.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48081942" target="_blank" onclick="event.stopPropagation();">Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 91</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 145</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-10T08:03:15Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.waltonfamilyfoundation.org/apple-touch-icon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Walton Family Foundation</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48084710', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
@@ -2183,10 +2179,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 90</span>
+                                    <span class="post-points">▲ 95</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 49</span>
+                                    <span style="color: #9ca3af;">💬 52</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2211,20 +2207,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48088151', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48081942', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://dims.waltonfamilyfoundation.org/dims4/default/fdce3f6/2147483647/strip/true/crop/2121x1114+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fstatic.waltonfamilyfoundation.org%2F1b%2Fe2%2Fd498202c4f80877e774f3bef0b86%2Fistock-1340096416-1.jpg');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48088151" target="_blank" onclick="event.stopPropagation();">Maryland citizens hit with $2B power grid upgrade for out-of-state AI</a>
+                            <a href="https://news.ycombinator.com/item?id=48081942" target="_blank" onclick="event.stopPropagation();">Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Aren't AI hyperscalers supposed to pay for these upgrades?
+                            Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
                         </div>
                         
 
@@ -2232,26 +2228,26 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 77</span>
+                                    <span class="post-points">▲ 91</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 26</span>
+                                    <span style="color: #9ca3af;">💬 149</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-10T21:16:58Z"></span>
+                                    <span class="post-age" data-timestamp="2026-05-10T08:03:15Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://vanilla.futurecdn.net/tomshardware/1626534/apple-touch-icon.png" alt="" class="post-favicon">
+                                            <img src="https://www.waltonfamilyfoundation.org/apple-touch-icon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>Tom's Hardware</span>
+                                        <span>Walton Family Foundation</span>
                                     </a>
                                 </div>
                                 
@@ -2280,7 +2276,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-10T23:25:57.450327+00:00">Updated 2026-05-10T23:25:57.450327+00:00</small>
+        <small data-timestamp="2026-05-11T01:22:58.081301+00:00">Updated 2026-05-11T01:22:58.081301+00:00</small>
     </div>
 </div>
 

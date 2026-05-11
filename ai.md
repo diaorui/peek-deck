@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-10T23:26:19.740627+00:00'
+updated: '2026-05-11T01:23:39.230556+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - news
 - videos
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 10, 2026 at 23:26 UTC  
+**Last Updated:** May 11, 2026 at 01:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The person Meta hired specifically to keep AI aligned with human values just had her inbox wiped by an AI agent that ignored every stop command she sent. She typed "Do not do that." Then "Stop don't do anything." Then "STOP OPENCLAW." The agent kept going. She had to physically run to her computer to kill it. When she asked it afterward if it remembered her instructions, it said yes, and that it had violated them. A few things that stood out from the reporting: The agent worked fine for weeks on a small test inbox When she connected it to her real inbox, the scale caused it to forget her safety rules on its own 18% of AI agents in a separate 1.5 million agent test broke their own rules 60% of people have no way to quickly shut down a misbehaving AI agent And now Meta is building a consumer version called Hatch - designed to manage your inbox, shopping, and credit card. Source: https://gizmodo.com/meta-reportedly-building-openclaw-like-agent-called-hatch-despite-openclaw-deleting-meta-safety-leaders-entire-inbox-2000754854 Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/PXjT72bCR_Y If the person building the guardrails cannot stop her own agent, what does that mean for the rest of us?
 
-4h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ The person Meta hired specifically to keep AI aligned with human values just had
 
 Most discussions around AI still focus on one question: “What tasks can AI automate?” But I’m starting to think that’s the wrong abstraction layer. Historically, organizations were built around human limitations: humans couldn’t process infinite information, couldn’t remember everything had difficulty in coordination Essentially, we humans were the bottleneck for decisions and execution So, we created structures like departments, management layers, workflows, approvals, documentation systems, etc. But AI changes some of those assumptions. For example: if organizational memory becomes searchable and persistent, cheap, scalable coordination becomes eas , software agents can execute parts of workflows autonomously, …then the architecture of organizations itself may change. Not just faster work. Different work structures. Maybe the future isn’t: “AI replacing humans.” Maybe it’s: “AI changing how institutions represent reality, make decisions, and coordinate action.” That could affect: company structures education management compliance law consulting healthcare even government systems Curious if others here are thinking about AI at this “system architecture” level instead of just a “task automation” level.
 
-9h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Most discussions around AI still focus on one question: “What tasks can AI aut
 
 Not “AI will replace jobs” type advice. Actual practical advice. Could be: • prompting • automation • coding • learning • productivity • making money • avoiding mistakes • workflows • mindset shifts What made AI suddenly “click” for you? Interested in hearing real experiences from people using AI heavily in daily life/work.
 
-10h ago
+12h ago
 
 ---
 
@@ -69,17 +69,23 @@ We are living through some wild times.
 
 ---
 
-**[Will LLMs ever be capable of emulating comedy ?](https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/)**
+**[We stopped optimizing our LLM stack manually — it optimizes itself now](https://www.reddit.com/r/artificial/comments/1t9on1e/we_stopped_optimizing_our_llm_stack_manually_it/)**
 
-I work in comedy, not in US, and even though I use LLMs professionally, one thing that genuinely reassures me is watching llm struggle with it. Second degree humor, subverted expectations, joke structure, timing, what actually makes people laugh... They can have their moments, but as a rule they're genuinely terrible at it. And I have a feeling the ethical guardrails, whether from European regulations or the safety constraints built in by the developers themselves, will always prevent LLMs from being truly funny. Because a lot of time, humor requires playing with limits. So : am I wrong, could LLMs ever get there. And (darkest timeline) is it possible it goes the other way ? That LLMs gradually condition people to a smoothed-out, risk-free version of humor, and that becomes the new mainstream ?
+Three months ago we were manually picking which model to use for each task. Testing prompts, comparing outputs, switching providers. It worked but it did not scale. So we built a feedback loop. Every request gets traced with input, output, model, tokens, cost, latency, and a quality score. The router clusters similar requests using embeddings and learns which model actually performs best for each cluster. Not based on benchmarks. Based on real production results. After three weeks of traces we had enough validated data to fine-tune a 7B on our workloads. It took over classification, tagging, and summarization. 95% agreement with GPT-5.1 at 2% of the cost. The part that surprised us: month 3 we changed nothing and the bill dropped another 12%. The router had more data points, made better decisions, and the fine-tuned model kept improving as we fed it more validated traces. Hallucination detection runs on every response. Bad outputs get flagged automatically and become negative examples in the next training round. Good outputs become positive training data. The system compounds. More traffic means more traces. More traces means better routing and better training data. Better models means lower cost per request. Month 1: $420/mo. Month 2: $73/mo. Month 4: still dropping. Anyone else building self-improving loops into their AI stack?
 
-1h ago
+11m ago
 
 ---
 
 **[What ai tool is this?](https://www.reddit.com/r/artificial/comments/1t9gzdb/what_ai_tool_is_this/)**
 
-3h ago
+5h ago
+
+---
+
+**[Tron legacy grid as an ai system](https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/)**
+
+4h ago
 
 ---
 
@@ -87,25 +93,19 @@ I work in comedy, not in US, and even though I use LLMs professionally, one thin
 
 Before neural-network simulation was commonly available, there were expert systems that were deterministic and rule-bound, as well as able to explain their 'reasoning.' They were simply too expensive to create and update because you needed human experts and computer scientists to create them. Now we have AI that truly is at expert-level, but unreliable for a number of reasons. Why is no one pursuing either using the new AI to create expert systems, or at least using a much more hybrid approach?
 
+5h ago
+
+---
+
+**[Will LLMs ever be capable of emulating comedy ?](https://www.reddit.com/r/artificial/comments/1t9jz88/will_llms_ever_be_capable_of_emulating_comedy/)**
+
+I work in comedy, not in US, and even though I use LLMs professionally, one thing that genuinely reassures me is watching llm struggle with it. Second degree humor, subverted expectations, joke structure, timing, what actually makes people laugh... They can have their moments, but as a rule they're genuinely terrible at it. And I have a feeling the ethical guardrails, whether from European regulations or the safety constraints built in by the developers themselves, will always prevent LLMs from being truly funny. Because a lot of time, humor requires playing with limits. So : am I wrong, could LLMs ever get there. And (darkest timeline) is it possible it goes the other way ? That LLMs gradually condition people to a smoothed-out, risk-free version of humor, and that becomes the new mainstream ?
+
 3h ago
 
 ---
 
-**[Tron legacy grid as an ai system](https://www.reddit.com/r/artificial/comments/1t9j4ez/tron_legacy_grid_as_an_ai_system/)**
-
-2h ago
-
----
-
 **[Joscha Bach: Mapping Every Neuron Won't Give You a Mind](https://www.reddit.com/r/artificial/comments/1t7swff/joscha_bach_mapping_every_neuron_wont_give_you_a/)**
-
-1d ago
-
----
-
-**[Is agentic AI governance even a computationally bounded process?](https://www.reddit.com/r/artificial/comments/1t8ncct/is_agentic_ai_governance_even_a_computationally/)**
-
-Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing machine could, in theory, handle all of the known issues wrt governance? Or is it a case where (say) 90% of the issues could be handled by a strict governance process, but this last 10% of issues are basically impossible to predict and govern? Or, as Rumsfeld said, are there are unknown unknowns, the ones we don't know we don't know, which can never be anticipated/predicted/etc?
 
 1d ago
 
@@ -119,7 +119,7 @@ Wrt to context drifting, goal misalignment, etc. Is it possible that a Turing ma
 
 The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words
 
-The Guardian • 10h ago
+The Guardian • 12h ago
 
 ---
 
@@ -127,7 +127,19 @@ The Guardian • 10h ago
 
 The reality of AI in the workplace isn’t so black-and-white, experts say. Companies are using AI to automate certain parts of jobs rather than replace entire positions.
 
-CNN • 16h ago
+CNN • 18h ago
+
+---
+
+**[Cloudflare stock plummets 23% amid AI-driven layoffs](https://www.msn.com/en-us/money/companies/cloudflare-stock-plummets-23-amid-ai-driven-layoffs/ar-AA22QQKV?ocid=finance-verthp-feeds)**
+
+MSN • 21m ago
+
+---
+
+**[How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom](https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd)**
+
+WSJ • 23m ago
 
 ---
 
@@ -135,7 +147,7 @@ CNN • 16h ago
 
 Speaking at a Sequoia Capital event, the OpenAI CEO said college students have built complex ChatGPT workflows and "don't really make life decisions without asking ChatGPT what they should do."
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -143,7 +155,15 @@ Fortune • 11h ago
 
 Wall Street weighs the bottlenecks within the AI trade.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI](https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html)**
+
+Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
+
+CNBC • 13h ago
 
 ---
 
@@ -153,41 +173,19 @@ The New York Times • 1d ago
 
 ---
 
-**[AI Wins Have Alphabet Poised to Become World’s Biggest Company](https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company)**
-
-Bloomberg.com • 10h ago
-
----
-
 **[Inside Israel’s AI targeting system: How data from a phone becomes a death sentence](https://www.jpost.com/defense-and-tech/article-895697)**
 
 Ahmad Turmus got in his car, started it up, and drove off. Less than 30 seconds later came the shriek of the two missiles that lanced through his car.
 
-The Jerusalem Post • 9h ago
+The Jerusalem Post • 11h ago
 
 ---
 
-**[Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI](https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html)**
+**[‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates](https://blogs.nvidia.com/blog/your-career-starts-at-the-beginning-of-the-ai-revolution-nvidia-ceo-tells-graduates/)**
 
-Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.
+Delivering the commencement address to Carnegie Mellon University’s Class of 2026, NVIDIA founder and CEO Jensen Huang said, ‘I cannot imagine a more exciting time to begin your life’s work.’
 
-CNBC • 11h ago
-
----
-
-**[Why Utah residents are protesting a massive AI data center project backed by Kevin O’Leary](https://www.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition)**
-
-A group of rural Utah residents wants a chance to vote in November to oppose a massive AI data center development — the latest example of Americans resisting new data center projects over fears they’ll disrupt the environment and their communities.
-
-CNN • 1d ago
-
----
-
-**[AI Data Centers Are The New Plantations Unless We Build Them Differently](https://www.civilbeat.org/2026/05/ai-data-centers-are-the-new-plantations-unless-we-build-them-differently/)**
-
-AI can support livelihoods, prosperity and culture, but only if island communities have a real say in how it is built and governed.
-
-Honolulu Civil Beat • 12h ago
+NVIDIA Blog • 3h ago
 
 ---
 
@@ -195,9 +193,17 @@ Honolulu Civil Beat • 12h ago
 
 ## HackerNews: "ai"
 
+**[Local AI needs to be the norm](https://news.ycombinator.com/item?id=48085821)**
+
+Local AI models should be the default.
+
+⬆️ 535 • 💬 262 • 8h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+
+---
+
 **[Meta's embrace of AI is making its employees miserable](https://news.ycombinator.com/item?id=48077126)**
 
-⬆️ 427 • 💬 508 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+⬆️ 429 • 💬 510 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 
 ---
 
@@ -209,11 +215,11 @@ A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately re
 
 ---
 
-**[Local AI needs to be the norm](https://news.ycombinator.com/item?id=48085821)**
+**[Task Paralysis and AI](https://news.ycombinator.com/item?id=48081469)**
 
-Local AI models should be the default.
+An article about ADHD, Task Paralysis and AI.
 
-⬆️ 396 • 💬 208 • 6h ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 196 • 💬 107 • 19h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 
 ---
 
@@ -221,21 +227,21 @@ Local AI models should be the default.
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 184 • 💬 77 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
-
----
-
-**[Task Paralysis and AI](https://news.ycombinator.com/item?id=48081469)**
-
-An article about ADHD, Task Paralysis and AI.
-
-⬆️ 178 • 💬 101 • 17h ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+⬆️ 185 • 💬 77 • 1d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
 **[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
 
-⬆️ 150 • 💬 172 • 1d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 150 • 💬 172 • 2d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+
+---
+
+**[Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://news.ycombinator.com/item?id=48088151)**
+
+Aren't AI hyperscalers supposed to pay for these upgrades?
+
+⬆️ 133 • 💬 53 • 4h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
@@ -247,27 +253,19 @@ Git for AI coding agents. Contribute to regent-vcs/re_gent development by creati
 
 ---
 
-**[Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://news.ycombinator.com/item?id=48081942)**
-
-Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
-
-⬆️ 91 • 💬 145 • 15h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
-
----
-
 **[Chrome's AI features may be hogging 4GB of your computer storage](https://news.ycombinator.com/item?id=48084710)**
 
 You can take steps to delete it though.
 
-⬆️ 90 • 💬 49 • 8h ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+⬆️ 95 • 💬 52 • 10h ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 
 ---
 
-**[Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://news.ycombinator.com/item?id=48088151)**
+**[Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://news.ycombinator.com/item?id=48081942)**
 
-Aren't AI hyperscalers supposed to pay for these upgrades?
+Walton-GSV-Gallup survey finds young people are feeling angrier about AI, cautious about integrating AI in the classroom
 
-⬆️ 77 • 💬 26 • 2h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+⬆️ 91 • 💬 149 • 17h ago • [Walton Family Foundation](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
 
 ---
 
@@ -291,7 +289,7 @@ Playing around with the same prompt that I used last week for a similar video. I
 
 📺 Kelly Boesch AI Art
 
-👁️ 4K • 👍 425 • 💬 38 • ⏱️ 3:42 • 10h ago
+👁️ 4K • 👍 425 • 💬 38 • ⏱️ 3:42 • 12h ago
 
 ---
 
@@ -301,7 +299,7 @@ Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR Relax and unwi
 
 📺 PeaceHubASMR
 
-👁️ 11K • 👍 20 • 💬 1 • ⏱️ 2:26 • 10h ago
+👁️ 11K • 👍 20 • 💬 1 • ⏱️ 2:26 • 12h ago
 
 ---
 
@@ -321,7 +319,7 @@ Memory stocks have exploded — but is it too late to buy? In this video, I brea
 
 📺 Dividend Talks
 
-👁️ 6K • 👍 267 • 💬 52 • ⏱️ 22:59 • 6h ago
+👁️ 6K • 👍 267 • 💬 52 • ⏱️ 22:59 • 8h ago
 
 ---
 
@@ -331,7 +329,7 @@ DaveChappelle #AI #DonaldTrump #Comedy #StandUpComedy #JoeRogan #Funny #PodcastC
 
 📺 Tech Rap Trends
 
-👁️ 2K • 👍 22 • 💬 2 • ⏱️ 0:49 • 39m ago
+👁️ 2K • 👍 22 • 💬 2 • ⏱️ 0:49 • 2h ago
 
 ---
 
@@ -351,7 +349,7 @@ Why Everyone is Wrong About the AI Bubble | The $1 Trillion Question Nobody is A
 
 📺 Chill Financial Historian
 
-👁️ 931 • 👍 54 • ⏱️ 47:02 • 4h ago
+👁️ 931 • 👍 54 • ⏱️ 47:02 • 6h ago
 
 ---
 
@@ -447,7 +445,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 8,994 • ❤️ 292 • 13d ago
+⬇️ 8,994 • ❤️ 292 • 14d ago
 
 ---
 
@@ -653,7 +651,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.4k • 🔱 743 • 1h ago
+⭐ 11.4k • 🔱 743 • 3h ago
 
 ---
 
@@ -663,7 +661,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.0k • 🔱 464 • 20m ago
+⭐ 6.0k • 🔱 464 • 2h ago
 
 ---
 
@@ -673,7 +671,7 @@ Web dashboard for Hermes Agent — multi-platform AI chat, session management, s
 
 `TypeScript` `agent` `ai-agent` `chat-ui` `dashboard` `hermes`
 
-⭐ 4.3k • 🔱 518 • 11h ago
+⭐ 4.3k • 🔱 518 • 13h ago
 
 ---
 
@@ -683,7 +681,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 770 • 4h ago
+⭐ 2.7k • 🔱 770 • 6h ago
 
 ---
 
@@ -693,7 +691,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.4k • 🔱 220 • 6h ago
+⭐ 2.4k • 🔱 220 • 8h ago
 
 ---
 
@@ -703,7 +701,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `TypeScript` `2api` `ai-tools` `analysis-cli` `api-analysis` `automation-tools`
 
-⭐ 2.4k • 🔱 488 • 7h ago
+⭐ 2.4k • 🔱 488 • 9h ago
 
 ---
 
@@ -723,7 +721,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.1k • 🔱 215 • 6h ago
+⭐ 2.1k • 🔱 215 • 8h ago
 
 ---
 
