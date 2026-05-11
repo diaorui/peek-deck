@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-11T09:41:17.364219+00:00'
+updated: '2026-05-11T12:39:47.915745+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 09:41 UTC  
+**Last Updated:** May 11, 2026 at 12:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -1.0%  
-**30d:** +6.8%  
-**90d:** +20.4%  
-**1y:** -6.1%  
+**24h:** +0.3%  
+**7d:** -1.1%  
+**30d:** +6.7%  
+**90d:** +20.3%  
+**1y:** -6.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.78B
+**Market Cap:** $281.93B
 Rank #2
 
 **Circulating Supply:** 120,686,531 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.8%
 
 **All-Time Low:** $0.43
-+538967.7%
++539404.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-20h ago
+23h ago
 
 ---
 
@@ -96,13 +96,13 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
 
-18h ago
+20h ago
 
 ---
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -154,15 +154,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
 
-Decrypt • 16h ago
+Decrypt • 19h ago
 
 ---
 
-**[Ethereum Faces Sell-Off Risk as Whale Moves $1.35 Billion in ETH to Binance](https://finance.yahoo.com/markets/crypto/articles/ethereum-faces-sell-off-risk-045752578.html)**
+**[Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-11-2026-bitcoins-strongest-opening-in-months-113216131.html)**
 
-Whale Garrett Jin moved $1.35 billion in Ethereum to Binance over four days as exchange reserves climbed to 14.95 million ETH.
+Bitcoin opened at $82,164.43 on Monday, the strongest opening price since January 31. Ethereum opened at $2,369.40 on Monday, the highest opening price since April 27.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
+
+Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
+
+Forbes • 38m ago
+
+---
+
+**[BlackRock Readies Launch of Two Tokenized Money-Market Funds](https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds)**
+
+Bloomberg • 2d ago
+
+---
+
+**[Ronin gaming sidechain gets ready to transition to Ethereum layer 2](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
+
+The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
+
+CoinDesk • 27m ago
 
 ---
 
@@ -170,13 +192,7 @@ Yahoo Finance • 4h ago
 
 Ethereum’s native token, Ether (ETH), has fallen more than 35% against Bitcoin (BTC) over the past year, and the downtrend may still have further to go.Key takeaways:ETH risks 40% decline after topping near multi-year trend lineETH/BTC remains stuck below a multi-year descending trend line that has…
 
-TradingView • 17h ago
-
----
-
-**[Here’s Where Bitcoin and Ethereum Could Be Headed Next](https://www.investing.com/analysis/heres-where-bitcoin-and-ethereum-could-be-headed-next-200680010)**
-
-Investing.com • 2d ago
+TradingView • 20h ago
 
 ---
 
@@ -186,25 +202,15 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Here’s Where Bitcoin and Ethereum Could Be Headed Next](https://www.investing.com/analysis/heres-where-bitcoin-and-ethereum-could-be-headed-next-200680010)**
+
+Investing.com • 2d ago
+
+---
+
 **[XRP or Ethereum: Which Crypto Is a Better Buy? Two Investors Weigh In](https://www.tipranks.com/news/xrp-or-ethereum-which-crypto-is-a-better-buy-two-investors-weigh-in)**
 
 TipRanks • 2d ago
-
----
-
-**[New Crypto Pepeto Exchange Upgrade Reaches Binance Level While Ethereum Price Prediction Asks if ETH Can Hit $3,000 This Month](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-exchange-upgrade-reaches-binance-level-while-ethereum-price-prediction-asks-if-eth-can-hit-3-000-this-month-1036133074)**
-
-Dubai, UAE, May  09, 2026  (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and list...
-
-markets.businessinsider.com • 2d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rally Even As Trump Flays Iran's Response To Proposal: Analyst Says It's](https://www.benzinga.com/crypto/cryptocurrency/26/05/52438533/bitcoin-ethereum-xrp-dogecoin-rally-trump-iran-btc-analyst)**
-
-Leading cryptocurrencies spiked while stock futures fell Sunday evening as investors reacted to President Donald Trump&#8217;s scathing statement on Iran.
-
-Benzinga • 7h ago
 
 ---
 
@@ -213,12 +219,6 @@ Benzinga • 7h ago
 Ethereum's lead is being chipped away by chains winning specific markets, such as BSC in DEX flow, Tron in stablecoins, Bitcoin in collateral, Base in L2 activity, and Hyperliquid in perps.
 
 CryptoSlate • 2d ago
-
----
-
-**[Will Ethereum (ETH) Hit $22K as Tom Lee Predicts?](https://www.disruptionbanking.com/2026/05/08/will-ethereum-eth-hit-22k-as-tom-lee-predicts/)**
-
-Disruption Banking • 2d ago
 
 ---
 
@@ -232,7 +232,27 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 Satoshi Stacker
 
-👁️ 1K • 👍 108 • 💬 11 • ⏱️ 8:43 • 1h ago
+👁️ 3K • 👍 277 • 💬 18 • ⏱️ 8:43 • 4h ago
+
+---
+
+**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
+
+Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
+
+📺 CoinGecko
+
+👁️ 316 • 👍 45 • 💬 82 • ⏱️ 8:44 • 1h ago
+
+---
+
+**[WHEN WILL ETHEREUM BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ppZbpHpJ_mY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 98 • 👍 14 • ⏱️ 4:34 • 3h ago
 
 ---
 
@@ -242,27 +262,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 19K • 👍 372 • 💬 124 • ⏱️ 9:26 • 1d ago
-
----
-
-**[Larry Fink - Most Powerful Man In Finance Buying These Crypto Coins (Like Buying OpenAI at $1)](https://www.youtube.com/watch?v=AyBHQ0a2YFM)**
-
-Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 267 • ⏱️ 10:13 • 1d ago
-
----
-
-**[Market Update: Is Ethereum in Trouble, Or Will it See a Big Pump Against BTC?](https://www.youtube.com/watch?v=RAAaZux-xxg)**
-
-Trade with Toobit (Recommended Exchange)➡️ Deposit and Trade to Get Up to 10000 USDT!
-
-📺 Evan Aldo
-
-👁️ 439 • 👍 46 • 💬 2 • ⏱️ 10:06 • 11h ago
+👁️ 19K • 👍 375 • 💬 140 • ⏱️ 9:26 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 818 • 💬 84 • ⏱️ 12:01 • 1d ago
+👁️ 23K • 👍 832 • 💬 85 • ⏱️ 12:01 • 1d ago
 
 ---
 
@@ -292,35 +292,37 @@ Fundstrat strategist Tom Lee says Ethereum remains undervalued despite its growi
 
 📺 Paul Barron Network
 
-👁️ 54K • 👍 2K • 💬 167 • ⏱️ 14:48 • 2d ago
+👁️ 55K • 👍 2K • 💬 166 • ⏱️ 14:48 • 2d ago
 
 ---
 
-**[BULLISH NEWS FOR ETHEREUM🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=7qwXBdr4mRM)**
+**[Larry Fink - Most Powerful Man In Finance Buying These Crypto Coins (Like Buying OpenAI at $1)](https://www.youtube.com/watch?v=AyBHQ0a2YFM)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
 
-📺 Cilinix Crypto
+📺 Altcoin Daily
 
-👁️ 470 • 👍 18 • 💬 1 • ⏱️ 4:55 • 1d ago
-
----
-
-**[Crypto Exchanges Don&#39;t Want You to See This (ETH Fees Trick)](https://www.youtube.com/watch?v=7SNQS9u4rlc)**
-
-You don't have to pay $42 to send $30 in crypto! This video rips the lid off Ethereum's hidden fee structure and reveals the three ...
-
-📺 Coin Bureau
-
-👁️ 11K • 👍 491 • 💬 64 • ⏱️ 12:24 • 2d ago
+👁️ 35K • 👍 2K • 💬 265 • ⏱️ 10:13 • 1d ago
 
 ---
 
-**[MY TOP 3 CRYPTOS I WOULD START RESEARCHING NOW #xrp #ethereum #ondo #bitcoin](https://www.youtube.com/watch?v=LiIdBY7BGN0)**
+**[Market Update: Is Ethereum in Trouble, Or Will it See a Big Pump Against BTC?](https://www.youtube.com/watch?v=RAAaZux-xxg)**
 
-📺 CryptoWendyO
+Trade with Toobit (Recommended Exchange)➡️ Deposit and Trade to Get Up to 10000 USDT!
 
-👁️ 11K • 👍 441 • 💬 21 • ⏱️ 1:00 • 1d ago
+📺 Evan Aldo
+
+👁️ 478 • 👍 48 • 💬 2 • ⏱️ 10:06 • 14h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Weekly Outlook: Bullish Short Term, Bearish Bigger Picture](https://www.youtube.com/watch?v=Gy3JR-dcb1g)**
+
+Bitcoin continues to push higher and the current structure still allows for a move toward the $90K to $95K region before a larger ...
+
+📺 More Crypto Online
+
+👁️ 12K • 👍 694 • 💬 46 • ⏱️ 17:12 • 23h ago
 
 ---
 
