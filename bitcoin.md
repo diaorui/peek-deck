@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-11T21:18:12.715901+00:00'
+updated: '2026-05-11T22:33:05.298934+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 21:18 UTC  
+**Last Updated:** May 11, 2026 at 22:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.5%  
 **7d:** +1.0%  
 **30d:** +15.6%  
-**90d:** +21.8%  
+**90d:** +21.9%  
 **1y:** -20.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1642.09B
+**Market Cap:** $1636.98B
 Rank #1
 
-**Circulating Supply:** 20,028,028 BTC
+**Circulating Supply:** 20,028,103 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.0%
+-35.2%
 
 **All-Time Low:** $67.81
-+120796.6%
++120423.5%
 
 ---
 
@@ -77,27 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
-
-On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
-
-8h ago
-
----
-
 **[Why do so many people reject Bitcoin for having no cash flow?](https://www.reddit.com/r/Bitcoin/comments/1tadpt2/why_do_so_many_people_reject_bitcoin_for_having/)**
 
 People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
 
-🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 1h ago
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 3h ago
 
 ---
 
-**[I just started buying bitcoin this 2026](https://www.reddit.com/r/Bitcoin/comments/1ta6buv/i_just_started_buying_bitcoin_this_2026/)**
+**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
 
-After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
+On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
 
-6h ago
+10h ago
 
 ---
 
@@ -105,7 +97,15 @@ After watching or listening to bitcoin podcasts, I finally made the decision to 
 
 Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
 
-5h ago
+6h ago
+
+---
+
+**[I just started buying bitcoin this 2026](https://www.reddit.com/r/Bitcoin/comments/1ta6buv/i_just_started_buying_bitcoin_this_2026/)**
+
+After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
+
+7h ago
 
 ---
 
@@ -113,7 +113,31 @@ Had to sell last fall due to divorce. It wasn't a lot but still... Just now star
 
 He sold early for a profit, watched everyone else get richer, then jumped back in near the top with basically everything he had. Absolute classic. The funniest part is that the term “Bear Market” comes from this same era. “Bear-skin jobbers” were basically the 1700s version of naked short sellers, selling skins before they even caught the bear. 300 years later and we’re still destroying ourselves the exact same way, regards.
 
-7h ago
+8h ago
+
+---
+
+**[How do you deal with Inheritance with crypto?](https://www.reddit.com/r/Bitcoin/comments/1taehls/how_do_you_deal_with_inheritance_with_crypto/)**
+
+Anyone having tips?
+
+2h ago
+
+---
+
+**[Best/Notable Bitcoin Books](https://www.reddit.com/r/Bitcoin/comments/1tad0gl/bestnotable_bitcoin_books/)**
+
+Hey everyone! Brian with the Bitcoin Conference here 🙂 I want to use the knowledge of the whole here from those new and veterans of the space to ideate on which books helped you most when learning about Bitcoin, macroeconomics, sovereignty, or the Bitcoin journey itself. Hoping this will be useful to those exploring Bitcoin for the first time, getting a refresher, or those who haven't read many of the new books being written about Bitcoin in its present era! Looking forward to all your thoughts and commentary 📚 - Brian
+
+3h ago
+
+---
+
+**[Bitcoin pizza day](https://www.reddit.com/r/Bitcoin/comments/1taieft/bitcoin_pizza_day/)**
+
+Bitcoin pizza day, a staple of Bitcoin culture is in 11 days. Never forget your roots, remember your elders. That is all.
+
+15m ago
 
 ---
 
@@ -125,35 +149,11 @@ Jameson Lopp warns of a potential Sybil attack against Bitcoin after a sudden su
 
 ---
 
-**[Best/Notable Bitcoin Books](https://www.reddit.com/r/Bitcoin/comments/1tad0gl/bestnotable_bitcoin_books/)**
-
-Hey everyone! Brian with the Bitcoin Conference here 🙂 I want to use the knowledge of the whole here from those new and veterans of the space to ideate on which books helped you most when learning about Bitcoin, macroeconomics, sovereignty, or the Bitcoin journey itself. Hoping this will be useful to those exploring Bitcoin for the first time, getting a refresher, or those who haven't read many of the new books being written about Bitcoin in its present era! Looking forward to all your thoughts and commentary 📚 - Brian
-
-2h ago
-
----
-
 **[What would you do if Bitcoin hit 1 million?](https://www.reddit.com/r/Bitcoin/comments/1t9jlmf/what_would_you_do_if_bitcoin_hit_1_million/)**
 
 Like anybody else probably, retire by dca, live life as usual
 
-23h ago
-
----
-
-**[The funniest thing about Bitcoin is that the people who told you it was “too late” at $1k are now saying it’s too late at $100k](https://www.reddit.com/r/Bitcoin/comments/1t9k1k2/the_funniest_thing_about_bitcoin_is_that_the/)**
-
-I swear every single time Bitcoin goes up people suddenly act like nobody can ever make money from it again 😭 people said it was “too late” at 1k, then 10k, then 30k and now at 100k+ too But whenever it crashes those same people call it a dead scam and say it’s over forever, and at this point I honestly think most people don’t actually have an opinion on Bitcoin, they just react emotionally to whatever the price is that week lol
-
-23h ago
-
----
-
-**[How do you deal with Inheritance with crypto?](https://www.reddit.com/r/Bitcoin/comments/1taehls/how_do_you_deal_with_inheritance_with_crypto/)**
-
-Anyone having tips?
-
-1h ago
+1d ago
 
 ---
 
@@ -165,7 +165,7 @@ Anyone having tips?
 
 Foundry, AntPool, F2Pool, SpiderPool, and MARA Pool are among seven pools joining the Stratum V2 working group, putting nearly three-quarters of global bitcoin hashrate behind a protocol that returns block construction decisions to individual miners.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -173,13 +173,13 @@ CoinDesk • 15h ago
 
 Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.
 
-CoinDesk • 55m ago
+CoinDesk • 2h ago
 
 ---
 
 **[Strategy’s Michael Saylor raps about how he gets shareholders to pay for bitcoin buys](https://www.marketwatch.com/story/strategys-michael-saylor-raps-about-how-he-gets-shareholders-to-pay-for-bitcoin-buys-479e0011)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -187,45 +187,29 @@ MarketWatch • 3h ago
 
 Strategy (NASDAQ: $MSTR) has continued to purchase Bitcoin (CRYPTO: $BTC) despite signalling in recent days that it...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin Price Holds Near $82,000 As ETF Inflows Surge And CLARITY Act Battle Intensifies](https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000)**
+**[Can Bitcoin Price Cross $200,000? Pundit Reveals 3-Year Roadmap For Success](https://www.tradingview.com/news/newsbtc:4bc32420a094b:0-can-bitcoin-price-cross-200-000-pundit-reveals-3-year-roadmap-for-success/)**
 
-Bitcoin price is trading around $82,000, moving in a narrow range as strong ETF inflows and regulatory uncertainty dominate market sentiment.
+A crypto analyst has laid out a bold Bitcoin price forecast for the next three years, predicting an ultimate target above $200,000 by 2028. In the analysis, he outlines several key catalysts expected to drive BTC toward these projected milestones each year. These catalysts include a range of drivin…
 
-Bitcoin Magazine • 55m ago
-
----
-
-**[CLSK: Revenue declined 24.9% and net loss widened, but Bitcoin holdings and hashrate increased](https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3311561:0-clsk-revenue-declined-24-9-and-net-loss-widened-but-bitcoin-holdings-and-hashrate-increased/)**
-
-Revenue fell 24.9% year-over-year to $136.4 million, with net loss widening to $378.3 million as Bitcoin holdings and hashrate grew. The company doubled contracted MW and is expanding into AI/HPC, maintaining strong liquidity amid industry volatility.Original document: CleanSpark, Inc. [CLSK] SEC 8…
-
-TradingView • 57m ago
+TradingView • 32m ago
 
 ---
 
-**["We're the biggest buyer of bitcoin in the world": Michael Saylor's infinite vision](https://sg.finance.yahoo.com/video/were-biggest-buyer-bitcoin-world-202704375.html)**
+**[Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI](https://finance.yahoo.com/markets/stocks/articles/keel-infrastructure-posts-145-million-172541502.html)**
 
-In a CoinDesk interview following Consensus Miami 2026, Strategy Founder, Michael Saylor, discusses being the world’s largest bitcoin buyer with $62B purchased. In this interview, Saylor describes the convergence of TradFi and DeFi via their digital credit product Stretch (STRC), which has rapidly grown and helps fund bitcoin accumulation.
+Formerly known as Bitfarms, the newly rebranded Keel touted a $533 million war chest to fund AI infrastructure buildout.
 
-Yahoo Finance Singapore • 51m ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
 
-Investor's Business Daily • 4h ago
-
----
-
-**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/11/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
-
-Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
-
-Forbes • 8h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -234,6 +218,22 @@ Forbes • 8h ago
 The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
 
 CNBC • 1d ago
+
+---
+
+**[U.S. Dollar ‘Collapse’—A $39 Trillion Debt ‘Crisis’ Is Quietly Predicted To Trigger A Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/05/11/us-dollar-collapse-a-39-trillion-debt-crisis-quietly-predicted-to-trigger-a-bitcoin-price-boom-to-rival-gold/)**
+
+Legendary billionaire Ray Dalio has warned the U.S. dollar is teetering on the brink of collapse...
+
+Forbes • 9h ago
+
+---
+
+**[Senate Schedules CLARITY Act Markup As Banking Lobby, Democrats Mount Resistance](https://bitcoinmagazine.com/news/senate-schedules-clarity-act-markup)**
+
+After nearly a year of delays, the Senate Banking Committee scheduled a markup of the CLARITY Act for May 14.
+
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -285,7 +285,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.
 
-⬆️ 5 • 💬 2 • 3d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
+⬆️ 5 • 💬 2 • 4d ago • [CNN](https://www.cnn.com/2026/05/06/china/china-spies-lying-flat-intl-hnk)
 
 ---
 
@@ -293,23 +293,23 @@ China’s top spy agency has come out of the shadows to warn that its young peop
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is Close To a Massive Breakout](https://www.youtube.com/watch?v=dahX7KnKuB4)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 907 • 💬 231 • ⏱️ 51:34 • 6h ago
-
----
-
 **[Bitcoin Approaches an Important Level](https://www.youtube.com/watch?v=Ox0mi5n3Ju4)**
 
 The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Premium SALE: https://intothecryptoverse.com ...
 
 📺 Benjamin Cowen
 
-👁️ 38K • 👍 4K • 💬 363 • ⏱️ 9:29 • 7h ago
+👁️ 53K • 👍 4K • 💬 424 • ⏱️ 9:29 • 8h ago
+
+---
+
+**[Bitcoin Is Close To a Massive Breakout](https://www.youtube.com/watch?v=dahX7KnKuB4)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 987 • 💬 266 • ⏱️ 51:34 • 7h ago
 
 ---
 
@@ -319,27 +319,7 @@ Bitcoin #Crypto #Finance Bitcoin is testing its 200-day SMA near $82K as $858M f
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 763 • 💬 213 • ⏱️ 1:01:36 • 6h ago
-
----
-
-**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
-
-Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 241 • 💬 45 • ⏱️ 15:52 • 4h ago
-
----
-
-**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
-
-Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
-
-📺 Simply Bitcoin
-
-👁️ 32K • 👍 2K • 💬 143 • ⏱️ 16:50 • 23h ago
+👁️ 16K • 👍 845 • 💬 263 • ⏱️ 1:01:36 • 8h ago
 
 ---
 
@@ -349,7 +329,37 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 168 • ⏱️ 8:11 • 19h ago
+👁️ 21K • 👍 1K • 💬 170 • ⏱️ 8:11 • 20h ago
+
+---
+
+**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
+
+Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
+
+📺 Simply Bitcoin
+
+👁️ 33K • 👍 2K • 💬 143 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
+
+Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
+
+📺 Swan Bitcoin
+
+👁️ 4K • 👍 377 • 💬 79 • ⏱️ 15:52 • 5h ago
+
+---
+
+**[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
+
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
+
+📺 Crypto Banter
+
+👁️ 37K • 👍 2K • 💬 53 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -359,17 +369,17 @@ Bitcoin just closed one of the strongest weekly candles of 2026 — and yet the 
 
 📺 DataDash
 
-👁️ 1K • 👍 148 • 💬 28 • ⏱️ 17:11 • 5h ago
+👁️ 2K • 👍 186 • 💬 34 • ⏱️ 17:11 • 7h ago
 
 ---
 
-**[ONCE IN A LIFETIME BITCOIN SIGNAL FLASHING NOW!](https://www.youtube.com/watch?v=dbUY3Bv3WMQ)**
+**[Michael Saylor Selling Bitcoin?🔥$STRC Dividend Day Incoming](https://www.youtube.com/watch?v=bFaPdwqozjA)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
+Michael Saylor is the world's foremost Bitcoin buyer. “You do not sell your Bitcoin,” wrote the crypto billionaire in October. But, on a ...
 
-📺 Crypto Kid
+📺 Paul Barron Network
 
-👁️ 3K • 👍 348 • 💬 128 • ⏱️ 9:53 • 5h ago
+👁️ 9K • 👍 671 • 💬 141 • ⏱️ 20:15 • 3h ago
 
 ---
 
@@ -379,17 +389,7 @@ In today's video Kyledoops shows you how things are shifting quickly in the cryp
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 17 • ⏱️ 40:35 • 13h ago
-
----
-
-**[Michael Saylor&#39;s SHOCKING Bitcoin Sell Off Plan Revealed!](https://www.youtube.com/watch?v=HzCZzhaHzIw)**
-
-Rustin talks Michael Saylor's SHOCKING Bitcoin Sell Off Plan Revealed! Brought to you by Bitcoinwell.com a bitcoin-only platform ...
-
-📺 Simply Bitcoin
-
-👁️ 3K • 👍 75 • 💬 94 • ⏱️ 0:51 • 20h ago
+👁️ 17K • 👍 1K • 💬 17 • ⏱️ 40:35 • 14h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-11T21:18:12.721197+00:00'
+updated: '2026-05-11T22:33:05.304149+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 11, 2026 at 21:18 UTC  
+**Last Updated:** May 11, 2026 at 22:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
+**24h:** -1.3%  
 **7d:** -0.9%  
-**30d:** +7.0%  
+**30d:** +6.9%  
 **90d:** +20.5%  
 **1y:** -6.0%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.54B
+**Market Cap:** $282.23B
 Rank #2
 
 **Circulating Supply:** 120,686,531 ETH
@@ -62,23 +62,31 @@ No max supply
 -52.7%
 
 **All-Time Low:** $0.43
-+540489.7%
++539990.9%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion May 11, 2026](https://www.reddit.com/r/ethereum/comments/1t9tdqb/daily_general_discussion_may_11_2026/)**
+**[$14 Trillion BlackRock Picks Ethereum for Tokenized Funds](https://www.reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
 
-16h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 31m ago
 
 ---
 
 **[Protocol Cluster Updates: May 2026](https://www.reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 1h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 2h ago
+
+---
+
+**[Daily General Discussion May 11, 2026](https://www.reddit.com/r/ethereum/comments/1t9tdqb/daily_general_discussion_may_11_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+17h ago
 
 ---
 
@@ -136,47 +144,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Used Claude Code + Blender MCP to visualize my Supply Chain dApp](https://www.reddit.com/r/ethereum/comments/1t89d1y/used_claude_code_blender_mcp_to_visualize_my/)**
-
-I connected Claude Code to Blender via MCP and had it help visualize how my Supply Chain dApp works. The process: Fed my dApp source code into Claude It comprehended the functionality (transaction lifecycle, multi-node coordination) Suggested animation sequences and composition Iterated on clarity and visual flow. Video is here. What the animation shows: Federated smart contract nodes (like ERP instances) coordinating trades. Each cube is an autonomous node where companies can trade internally OR with other nodes. Functionally, nodes are similar to Credit Unions. Transaction lifecycle visualized as pulses: Red = Purchase Order Yellow = Shipment Green = Payment (stablecoin) The key property of this concept is that there is only ever one copy of a transaction that resides in the originating node. All parties access the transactions via pointers at their addresses. The node manages workflow (To Approve, To Ship, To Receive, To Pay). The grid seen in each node represents the itemized ledger. It also supports fully recursive batch traceability. A video explaining this functionality can be found here.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-slows-ethereum-150328315.html)**
-
-Ethereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
-
-Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
-
-Forbes • 9h ago
-
----
-
-**[Ronin gaming sidechain gets ready to transition to Ethereum layer 2](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
-
-The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
-
-CoinDesk • 9h ago
-
----
-
-**[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
-
-Gizmodo • 4h ago
-
----
 
 **[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
 
@@ -186,9 +156,39 @@ Decrypt • 1d ago
 
 ---
 
+**[Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-slows-ethereum-150328315.html)**
+
+Ethereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
+
+Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
+
+Forbes • 10h ago
+
+---
+
+**[Ronin gaming sidechain gets ready to transition to Ethereum layer 2](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
+
+The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
+
+CoinDesk • 10h ago
+
+---
+
+**[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
+
+Gizmodo • 5h ago
+
+---
+
 **[BlackRock Readies Launch of Two Tokenized Money-Market Funds](https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds)**
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ Bloomberg.com • 2d ago
 
 Ronin migrates from an Ethereum sidechain to an OP Stack Layer 2 on May 12, four years after Lazarus hackers stole over $600M in crypto.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -212,7 +212,7 @@ Fortune • 8h ago
 
 A crypto analyst has just predicted multiple bullish price targets for Ethereum (ETH), but expecting a major dip to critical support levels first before a sharp rally toward $6,000. From there, he outlines a roadmap to much higher targets, with $24,000 set as the ultimate parabolic zone. The analys…
 
-TradingView • 10h ago
+TradingView • 12h ago
 
 ---
 
@@ -220,7 +220,7 @@ TradingView • 10h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) hover around key levels on Monday after surging nearly 5%, 2% and 6%, respectively, in the previous week. BTC holds above $81,000 while ETH closes above the key resistance zone.
 
-FXStreet • 17h ago
+FXStreet • 19h ago
 
 ---
 
@@ -228,23 +228,23 @@ FXStreet • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
-
-Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
-
-📺 CoinGecko
-
-👁️ 2K • 👍 119 • 💬 147 • ⏱️ 8:44 • 10h ago
-
----
-
 **[Why Crypto May Be Entering a New Bull Market](https://www.youtube.com/watch?v=HZ6b_i9Ce3U)**
 
 Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the next major crypto bull market. From Ethereum's ...
 
 📺 Cointelegraph
 
-👁️ 356 • 👍 24 • 💬 3 • ⏱️ 9:08 • 3h ago
+👁️ 979 • 👍 48 • 💬 23 • ⏱️ 9:08 • 5h ago
+
+---
+
+**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
+
+Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
+
+📺 CoinGecko
+
+👁️ 2K • 👍 121 • 💬 148 • ⏱️ 8:44 • 11h ago
 
 ---
 
@@ -254,17 +254,7 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 348 • 💬 19 • ⏱️ 8:43 • 13h ago
-
----
-
-**[ONDO Finance Finally Meeting XRP &amp; ETH In A Tokenized Economy](https://www.youtube.com/watch?v=BzKNjrkqy6w)**
-
-ONDO Finance is moving into a new era with XRP and Ethereum as the entire world is getting tokenized. The crypto market is ...
-
-📺 Zach Humphries
-
-👁️ 1K • 👍 147 • 💬 64 • ⏱️ 9:34 • 4h ago
+👁️ 6K • 👍 346 • 💬 21 • ⏱️ 8:43 • 14h ago
 
 ---
 
@@ -274,7 +264,7 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 19K • 👍 383 • 💬 143 • ⏱️ 9:26 • 2d ago
+👁️ 19K • 👍 385 • 💬 143 • ⏱️ 9:26 • 2d ago
 
 ---
 
@@ -284,27 +274,17 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 264 • ⏱️ 10:13 • 1d ago
+👁️ 38K • 👍 2K • 💬 267 • ⏱️ 10:13 • 1d ago
 
 ---
 
-**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+**[WHEN WILL ETHEREUM BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ppZbpHpJ_mY)**
 
-A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Coin Bureau
+📺 Cilinix Crypto
 
-👁️ 24K • 👍 858 • 💬 88 • ⏱️ 12:01 • 2d ago
-
----
-
-**[The Collapse of Ethereum! Massive ETH Sell-off Weighs on the Chart! Only One Company Still Believes!](https://www.youtube.com/watch?v=v0kakQ18raI)**
-
-Thank you for your support and your support with likes and subscriptions. Trade Cryptos on MEXC: https://tinyurl.com/mexc-ke1 ...
-
-📺 KE Crypto
-
-👁️ 4 • 💬 1 • ⏱️ 14:07 • 4h ago
+👁️ 302 • 👍 16 • ⏱️ 4:34 • 13h ago
 
 ---
 
@@ -314,7 +294,17 @@ Crypto Price Predictions - 3 Experts DEBATE!! ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 235 • ⏱️ 11:32 • 2d ago
+👁️ 47K • 👍 2K • 💬 236 • ⏱️ 11:32 • 2d ago
+
+---
+
+**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+
+A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+
+📺 Coin Bureau
+
+👁️ 24K • 👍 860 • 💬 88 • ⏱️ 12:01 • 2d ago
 
 ---
 
@@ -324,7 +314,17 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 67 • 💬 19 • ⏱️ 0:44 • 4h ago
+👁️ 3K • 👍 116 • 💬 21 • ⏱️ 0:44 • 5h ago
+
+---
+
+**[ONDO Finance Finally Meeting XRP &amp; ETH In A Tokenized Economy](https://www.youtube.com/watch?v=BzKNjrkqy6w)**
+
+ONDO Finance is moving into a new era with XRP and Ethereum as the entire world is getting tokenized. The crypto market is ...
+
+📺 Zach Humphries
+
+👁️ 2K • 👍 177 • 💬 87 • ⏱️ 9:34 • 5h ago
 
 ---
 
