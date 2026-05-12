@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-11T23:59:32.105014+00:00'
+updated: '2026-05-12T03:59:35.567453+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 11, 2026 at 23:59 UTC  
+**Last Updated:** May 12, 2026 at 03:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.
 
-🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 5h ago
+🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 As manosphere trends spread across the internet, a strict vision of the ideal woman is making its way from AI makeover apps to surgeons’ offices. Lydia Spencer-Elliott speaks to experts about ‘Stacey face’, which is seen as the highest tier of female beauty
 
-🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 7h ago
+🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ As manosphere trends spread across the internet, a strict vision of the ideal wo
 
 Cybercriminals created a zero-day exploit with AI, the first example of artificial intelligence finding and hacking software for an illicit enterprise, the tech giant says in a new report.
 
-🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 7h ago
+🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Cybercriminals created a zero-day exploit with AI, the first example of artifici
 
 This dropped 4 days ago and I haven't seen enough people talking about it. AWS launched Amazon Bedrock AgentCore Payments in partnership with Coinbase and Stripe. The short version: your agent now has a wallet and can spend money on its own. Here's what the workflow actually looks like now: You give your agent a Coinbase or Stripe wallet. You fund it. You set a session spending limit (e.g. "$5 max per run"). The agent runs. It hits a paid API mid-execution? It pays. Paywalled data it needs? It pays. A better-suited agent available for a subtask? It pays that agent and gets the result back. All of this happens inside the same execution loop, with zero human interruption. The protocol making this work is called x402. It's open source, developed by Coinbase, and it revives the long-dormant HTTP 402 "Payment Required" status code. The flow is dead simple: agent requests a resource, server responds with 402 + a price, agent signs a USDC micropayment, gets the content, keeps going. Settlement happens in ~200ms on Base at a fraction of a cent per transaction. The protocol has already processed over 169 million payments across 590,000 buyers and 100,000 sellers in its first year. Why this matters for indie developers and SaaS builders: The pricing model for software is about to split in two. There will be products built for humans (subscriptions, seats, dashboards) and products built for agents (pay-per-call, x402 endpoints, micropayment APIs). Many agent transactions involve amounts as small as fractions of a cent, making traditional payment networks unusable. That's the gap x402 fills. If you're building any kind of data API, research tool, or specialized service today, the question you should be asking is: "How does another agent pay me automatically?" Coinbase also launched the Bazaar MCP server inside AgentCore Gateway, essentially an App Store for x402-enabled services. Agents can search, discover, and pay for services when relevant to their task, turning paid endpoints into something agents can find on their own. The honest take: The agentic economy is still in its earliest days, and the infrastructure to support it at scale doesn't exist yet. This is preview infrastructure, not production-ready magic. But the direction is clear. 2026 was the year agents learned to work. 2027 is shaping up to be the year they learn to transact. The builders who figure out agent-native pricing now will have a real advantage over those retrofitting subscriptions later. Curious if anyone here is already building x402-compatible endpoints or thinking about agent-to-agent billing models. Would love to see what people are working on.
 
-14h ago
+18h ago
 
 ---
 
@@ -73,7 +73,7 @@ This dropped 4 days ago and I haven't seen enough people talking about it. AWS l
 
 Google shared limited information about the attackers and the target, but John Hultquist, chief analyst at the tech giant’s threat intelligence arm, said it represents a moment cybersecurity experts have warned about for years: malicious hackers arming themselves with AI to supercharge their ability to break into the world’s computers. “It’s here,” Hultquist said. “The era of AI-driven vulnerability and exploitation is already here.”
 
-🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 28m ago
+🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 4h ago
 
 ---
 
@@ -81,15 +81,7 @@ Google shared limited information about the attackers and the target, but John H
 
 When Trump last visited China in 2017, artificial intelligence was not yet the centre of global power. Now it is.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link) • 3h ago
-
----
-
-**[[Virtual] AI Saturdays - Learn how to setup a local LLM (16th May, 6 PM ET)](https://www.reddit.com/r/artificial/comments/1tah71r/virtual_ai_saturdays_learn_how_to_setup_a_local/)**
-
-Hey folks This Saturday, May 16 at 6:00 PM ET, we're covering how to set up a local language model: running an LLM on your own machine instead of a private provider. RSVP here: https://www.meetup.com/chillnskill/events/314498136/
-
-2h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link) • 7h ago
 
 ---
 
@@ -97,7 +89,15 @@ Hey folks This Saturday, May 16 at 6:00 PM ET, we're covering how to set up a lo
 
 But human artists still "must remain at the center," PlayStation maker says.
 
-🔗 [Ars Technica](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) • 17h ago
+🔗 [Ars Technica](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) • 21h ago
+
+---
+
+**[[Virtual] AI Saturdays - Learn how to setup a local LLM (16th May, 6 PM ET)](https://www.reddit.com/r/artificial/comments/1tah71r/virtual_ai_saturdays_learn_how_to_setup_a_local/)**
+
+Hey folks This Saturday, May 16 at 6:00 PM ET, we're covering how to set up a local language model: running an LLM on your own machine instead of a private provider. RSVP here: https://www.meetup.com/chillnskill/events/314498136/
+
+6h ago
 
 ---
 
@@ -109,11 +109,11 @@ The person Meta hired specifically to keep AI aligned with human values just had
 
 ---
 
-**[Are we finally getting to the point where AI agents can actually do tasks instead of just chatting?](https://www.reddit.com/r/artificial/comments/1tadu47/are_we_finally_getting_to_the_point_where_ai/)**
+**[I think AI is changing something deeper than jobs or productivity](https://www.reddit.com/r/artificial/comments/1t987td/i_think_ai_is_changing_something_deeper_than_jobs/)**
 
-Most AI tools today are great at giving answers, writing content, or helping with coding, but they still feel limited to conversation. What I’m more curious about is whether we’re starting to see systems that can actually carry out real world tasks from start to finish without constant human involvement. Things like dealing with customer support, cancelling subscriptions, requesting refunds, or even navigating websites and filling out forms automatically still feel surprisingly manual in 2026. I keep wondering if the shift from AI that talks to AI that does is actually happening in practice, or if we’re still mostly in the demo and early adoption phase.
+Most discussions around AI still focus on one question: “What tasks can AI automate?” But I’m starting to think that’s the wrong abstraction layer. Historically, organizations were built around human limitations: humans couldn’t process infinite information, couldn’t remember everything had difficulty in coordination Essentially, we humans were the bottleneck for decisions and execution So, we created structures like departments, management layers, workflows, approvals, documentation systems, etc. But AI changes some of those assumptions. For example: if organizational memory becomes searchable and persistent, cheap, scalable coordination becomes eas , software agents can execute parts of workflows autonomously, …then the architecture of organizations itself may change. Not just faster work. Different work structures. Maybe the future isn’t: “AI replacing humans.” Maybe it’s: “AI changing how institutions represent reality, make decisions, and coordinate action.” That could affect: company structures education management compliance law consulting healthcare even government systems Curious if others here are thinking about AI at this “system architecture” level instead of just a “task automation” level.
 
-4h ago
+1d ago
 
 ---
 
@@ -121,19 +121,11 @@ Most AI tools today are great at giving answers, writing content, or helping wit
 
 ## Google News: "ai"
 
-**[In turf battle over AI, U.S. spy agencies vie for more sway than Commerce](https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/)**
-
-As the White House grapples with cybersecurity threats from advanced artificial intelligence models, national security officials want more sway in AI regulation.
-
-The Washington Post • 2m ago
-
----
-
 **[OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company/)**
 
 OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.
 
-OpenAI • 10h ago
+OpenAI • 14h ago
 
 ---
 
@@ -141,37 +133,13 @@ OpenAI • 10h ago
 
 The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.
 
-CNBC • 4h ago
+CNBC • 8h ago
 
 ---
 
-**[AMD MI450 AI Deals With Meta And OpenAI Test Rich Valuation](https://finance.yahoo.com/markets/stocks/articles/amd-mi450-ai-deals-meta-231108165.html)**
+**[Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty](https://www.reuters.com/business/former-openai-executive-sutskever-discloses-nearly-7-billion-stake-ai-firm-2026-05-11/)**
 
-Advanced Micro Devices (NasdaqGS:AMD) has announced major customer deals for its new MI450 AI chips with Meta Platforms and OpenAI. The company plans to ramp MI450 shipments into 2027 as part of these long-term agreements. The deals are focused on AMD's Data Center segment, with an emphasis on AI accelerator deployments. The agreements indicate committed demand from large AI customers for AMD's next-generation data center hardware. For you as an investor, this news sits at the intersection...
-
-Yahoo Finance • 48m ago
-
----
-
-**[CNBC's The China Connection newsletter: Trump and Xi face a test over AI control](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html)**
-
-The stakes for AI security have risen sharply in the runup to the first trip to China by a sitting U.S. president in nearly a decade.
-
-CNBC • 59m ago
-
----
-
-**[Iran, China and AI collide in Trump's legacy-defining week](https://www.axios.com/2026/05/11/trump-china-summit-iran-ai-xi-jinping)**
-
-Axios • 14h ago
-
----
-
-**[Ex-White House 'AI czar' says US, China could find AI common ground despite fierce rivalry](https://www.foxbusiness.com/media/ex-white-house-ai-czar-says-us-china-could-find-ai-common-ground-despite-fierce-rivalry)**
-
-David Sacks predicts potential outcomes of Trump's meeting with Xi Jinping, saying the U.S. and China could agree on new cyber standards while warning of advancing AI threats.
-
-Fox Business • 1h ago
+Reuters • 8h ago
 
 ---
 
@@ -179,21 +147,47 @@ Fox Business • 1h ago
 
 A new divide is emerging: between workers who use AI at work and those who are managed by it
 
-The Guardian • 1h ago
+The Guardian • 5h ago
 
 ---
 
-**[Fidelity is growing its work force by thousands. Blame AI.](https://www.bostonglobe.com/2026/05/11/business/fidelity-ai-hiring-job-cuts/)**
+**[Google says hackers used AI to develop a major security flaw](https://www.politico.com/news/2026/05/11/google-hackers-ai-security-00913247)**
 
-The Boston financial services giant is cutting about 1,000 jobs, but it's adding more. The company needs real-world techies and other hands-on workers to roll out key products and services right now.
-
-The Boston Globe • 2h ago
+Politico • 7h ago
 
 ---
 
-**[Opinion | This Is Why You’re Drowning in Busywork](https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html)**
+**[Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)**
 
 The New York Times • 14h ago
+
+---
+
+**[Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'](https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html)**
+
+Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.
+
+CNBC • 9h ago
+
+---
+
+**[Dow Jones Futures: Techs Fall As South Korea Eyes Excess AI Profits; CPI Inflation Due](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-chip-stocks-oil-prices-trump-iran-comments-cpi-inflation/)**
+
+Investor's Business Daily • 49m ago
+
+---
+
+**[AI deepfake pornography targeting teens is rising, new survey warns](https://www.fox13news.com/news/ai-deepfake-pornography-teens-survey)**
+
+A disturbing new report is shedding light on just how widespread AI-generated deepfake pornography has become among teenagers.
+
+FOX 13 Tampa Bay • 35m ago
+
+---
+
+**[Australia Watchdog Says Money Launderers Ramping Up AI for Scams](https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams)**
+
+Bloomberg.com • 53m ago
 
 ---
 
@@ -205,7 +199,7 @@ The New York Times • 14h ago
 
 Local AI models should be the default.
 
-⬆️ 1751 • 💬 693 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1775 • 💬 705 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -217,7 +211,7 @@ Local AI models should be the default.
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 347 • 💬 101 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 351 • 💬 101 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -225,7 +219,7 @@ Local AI models should be the default.
 
 Aren't AI hyperscalers supposed to pay for these upgrades?
 
-⬆️ 311 • 💬 194 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+⬆️ 312 • 💬 196 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
@@ -233,7 +227,15 @@ Aren't AI hyperscalers supposed to pay for these upgrades?
 
 An article about ADHD, Task Paralysis and AI.
 
-⬆️ 253 • 💬 129 • 1d ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+⬆️ 254 • 💬 129 • 1d ago • [g5t.de](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+
+---
+
+**[If AI writes your code, why use Python?](https://news.ycombinator.com/item?id=48100433)**
+
+For the last decade, fast-to-ship beat fast-to-run. Not anymore.
+
+⬆️ 251 • 💬 265 • 7h ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
@@ -241,7 +243,7 @@ An article about ADHD, Task Paralysis and AI.
 
 Posts about SmolWeb, Gemini protocol and LowTech
 
-⬆️ 188 • 💬 78 • 2d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
+⬆️ 189 • 💬 78 • 2d ago • [Adële's blog](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 
 ---
 
@@ -249,13 +251,7 @@ Posts about SmolWeb, Gemini protocol and LowTech
 
 The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
 
-⬆️ 181 • 💬 142 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
-
----
-
-**[People Hate AI Art](https://news.ycombinator.com/item?id=48070548)**
-
-⬆️ 151 • 💬 172 • 2d ago • [mccue.dev](https://mccue.dev/pages/5-8-26-ai-art)
+⬆️ 184 • 💬 142 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 
 ---
 
@@ -263,15 +259,13 @@ The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" in
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 149 • 💬 176 • 8h ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 154 • 💬 185 • 12h ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 
 ---
 
-**[Chrome's AI features may be hogging 4GB of your computer storage](https://news.ycombinator.com/item?id=48084710)**
+**[Google says criminal hackers used AI to find a major software flaw](https://news.ycombinator.com/item?id=48094641)**
 
-You can take steps to delete it though.
-
-⬆️ 113 • 💬 58 • 1d ago • [The Verge](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+⬆️ 133 • 💬 107 • 14h ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
 
 ---
 
@@ -279,33 +273,23 @@ You can take steps to delete it though.
 
 ## YouTube Videos: "ai"
 
-**[AI Music Scammer Gets Caught Then Hires Real Humans](https://www.youtube.com/watch?v=g4Gb6viwsnQ)**
+**[AI is Sending People into Psychosis](https://www.youtube.com/watch?v=LxmIIYj5FQE)**
 
-Get 20% off DeleteMe by going to https://joindeleteme.com/coldfusion and use code COLDFUSION to protect your privacy!
+AI chatbots are pulling people into delusions with devastating consequences. Sources: The Dark Addiction Patterns of Current AI ...
 
-📺 ColdFusion
+📺 Vanessa Wingårdh
 
-👁️ 50K • 👍 4K • 💬 479 • ⏱️ 20:19 • 8h ago
-
----
-
-**[&quot;Three Times BIGGER Than Manhattan&quot; - MEGA AI Data Center Sparks Tech War With Americans](https://www.youtube.com/watch?v=KZyAO-uYJg0)**
-
-Patrick Bet-David covers Utah residents revolting against Kevin O'Leary's 40000‑acre AI data center that's three times the size of ...
-
-📺 Valuetainment
-
-👁️ 20K • 👍 664 • 💬 354 • ⏱️ 16:53 • 4h ago
+👁️ 119K • 👍 8K • 💬 3K • ⏱️ 15:05 • 1d ago
 
 ---
 
-**[When Two AIs Go To War: A Realistic Scenario](https://www.youtube.com/watch?v=gwfCWDO4LbM)**
+**[AI layoffs are here. This is how you keep your job.](https://www.youtube.com/watch?v=JgVBqcqUGE0)**
 
-This is a scenario, but here are the sources for the real research referenced: ...
+If you're an AI contrarian at your company, resign. Become a member to gain access to the member-only video library!
 
-📺 Species | Documenting AGI
+📺 Mo Bitar
 
-👁️ 106K • 👍 5K • 💬 991 • ⏱️ 35:15 • 2d ago
+👁️ 97K • 👍 8K • 💬 1K • ⏱️ 6:12 • 14h ago
 
 ---
 
@@ -315,27 +299,17 @@ The MOST INSANE AI Video Yet? Robot & Mannequin Love Story in a Zombie Apocalyps
 
 📺 What If Wildlife
 
-👁️ 1K • 👍 73 • 💬 8 • ⏱️ 3:34 • 15h ago
+👁️ 2K • 👍 100 • 💬 16 • ⏱️ 3:34 • 19h ago
 
 ---
 
-**[AI is Sending People into Psychosis](https://www.youtube.com/watch?v=LxmIIYj5FQE)**
+**[When Two AIs Go To War: A Realistic Scenario](https://www.youtube.com/watch?v=gwfCWDO4LbM)**
 
-AI chatbots are pulling people into delusions with devastating consequences. Sources: The Dark Addiction Patterns of Current AI ...
+This is a scenario, but here are the sources for the real research referenced: ...
 
-📺 Vanessa Wingårdh
+📺 Species | Documenting AGI
 
-👁️ 112K • 👍 7K • 💬 3K • ⏱️ 15:05 • 1d ago
-
----
-
-**[My ai girlfrfiend part 2](https://www.youtube.com/watch?v=rjdix1lcwMo)**
-
-Thanks for watching. Don't forget to like and subscribe! Featuring @DominiqueDanielle My Instagram ...
-
-📺 NellyVidz
-
-👁️ 49K • 👍 3K • 💬 147 • ⏱️ 8:51 • 2d ago
+👁️ 111K • 👍 6K • 💬 1K • ⏱️ 35:15 • 2d ago
 
 ---
 
@@ -345,7 +319,37 @@ Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR Relax and unwi
 
 📺 PeaceHubASMR
 
-👁️ 257K • 👍 257 • 💬 6 • ⏱️ 2:26 • 1d ago
+👁️ 261K • 👍 265 • 💬 6 • ⏱️ 2:26 • 1d ago
+
+---
+
+**[Self-building AI, job cuts &amp; more | AI roundup](https://www.youtube.com/watch?v=FAyfVZB-3MY)**
+
+AI is accelerating fast — and the consequences are already here. From self-building 'recursive' AI systems to Iran's AI propaganda ...
+
+📺 CNN
+
+👁️ 85K • 👍 1K • 💬 515 • ⏱️ 23:44 • 2d ago
+
+---
+
+**[&quot;Three Times BIGGER Than Manhattan&quot; - MEGA AI Data Center Sparks Tech War With Americans](https://www.youtube.com/watch?v=KZyAO-uYJg0)**
+
+Patrick Bet-David covers Utah residents revolting against Kevin O'Leary's 40000‑acre AI data center that's three times the size of ...
+
+📺 Valuetainment
+
+👁️ 49K • 👍 1K • 💬 519 • ⏱️ 16:53 • 8h ago
+
+---
+
+**[My ai girlfrfiend part 2](https://www.youtube.com/watch?v=rjdix1lcwMo)**
+
+Thanks for watching. Don't forget to like and subscribe! Featuring @DominiqueDanielle My Instagram ...
+
+📺 NellyVidz
+
+👁️ 51K • 👍 3K • 💬 157 • ⏱️ 8:51 • 2d ago
 
 ---
 
@@ -355,25 +359,17 @@ Anthropic just entered one of the strangest moments in AI. Claude is suddenly ti
 
 📺 AI Revolution
 
-👁️ 65K • 👍 2K • 💬 168 • ⏱️ 17:08 • 2d ago
+👁️ 66K • 👍 2K • 💬 170 • ⏱️ 17:08 • 2d ago
 
 ---
 
-**[Predictive vs Generative AI: How They Work and When to Use Each](https://www.youtube.com/watch?v=phOhGqpXss4)**
+**[Your $20 AI Subscription is a Trap. (The Local Solution)](https://www.youtube.com/watch?v=r5nqzRNrmpM)**
 
-Learn more about Predictive AI vs Generative AI here → https://ibm.biz/BdpPNf Predictive AI asks what will happen, while ...
+Join the Inner Circle: https://discord.gg/MRESQnf4R4 Companion Substack Post to this video: ...
 
-📺 IBM Technology
+📺 Manolo Remiddi
 
-👁️ 10K • 👍 847 • 💬 36 • ⏱️ 11:59 • 12h ago
-
----
-
-**[Joe Rogan Watches Scary Conversation Between AI and Human](https://www.youtube.com/watch?v=Wufz842vFUg)**
-
-📺 The Union Brief
-
-👁️ 592K • 👍 12K • 💬 236 • ⏱️ 0:57 • 1d ago
+👁️ 5K • 👍 314 • 💬 35 • ⏱️ 20:36 • 9h ago
 
 ---
 
@@ -389,7 +385,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 157,648 • ❤️ 620 • 3d ago
+⬇️ 157,648 • ❤️ 644 • 3d ago
 
 ---
 
@@ -401,7 +397,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 66,119 • ❤️ 416 • 3d ago
+⬇️ 66,119 • ❤️ 426 • 5h ago
 
 ---
 
@@ -413,7 +409,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,017,835 • ❤️ 3,855 • 5d ago
+⬇️ 2,017,835 • ❤️ 3,858 • 5d ago
 
 ---
 
@@ -425,31 +421,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 3,418 • ❤️ 236 • 2d ago
-
----
-
-**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
-
-*Google*
-
-Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
-
-`any-to-any` `469.5M`
-
-⬇️ 66,561 • ❤️ 207 • 16h ago
-
----
-
-**[Z-Anime](https://huggingface.co/SeeSee21/Z-Anime)**
-
-*Sebastian Böhnke*
-
-Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base for generating high-quality, diverse anime-style visuals. It offers multiple variants optimized for speed, quality, and low-resource environments, supporting natural language prompts and full negative prompt capabilities.
-
-`text-to-image` `6.2B`
-
-⬇️ 9,477 • ❤️ 308 • 14d ago
+⬇️ 3,418 • ❤️ 244 • 2d ago
 
 ---
 
@@ -461,7 +433,31 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 0 • ❤️ 166 • 8h ago
+⬇️ 0 • ❤️ 273 • 12h ago
+
+---
+
+**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
+
+*Google*
+
+Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
+
+`any-to-any` `469.5M`
+
+⬇️ 66,561 • ❤️ 210 • 20h ago
+
+---
+
+**[Z-Anime](https://huggingface.co/SeeSee21/Z-Anime)**
+
+*Sebastian Böhnke*
+
+Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base for generating high-quality, diverse anime-style visuals. It offers multiple variants optimized for speed, quality, and low-resource environments, supporting natural language prompts and full negative prompt capabilities.
+
+`text-to-image` `6.2B`
+
+⬇️ 9,477 • ❤️ 308 • 15d ago
 
 ---
 
@@ -473,7 +469,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 190,993 • ❤️ 1,409 • 19d ago
+⬇️ 190,993 • ❤️ 1,413 • 19d ago
 
 ---
 
@@ -485,7 +481,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 64,008 • ❤️ 219 • 23h ago
+⬇️ 64,008 • ❤️ 223 • 1d ago
 
 ---
 
@@ -497,7 +493,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,446,478 • ❤️ 1,239 • 17d ago
+⬇️ 2,446,478 • ❤️ 1,241 • 18d ago
 
 ---
 
@@ -551,23 +547,9 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 79 • 💬 7 • ⭐ 4,362 • 3mo ago
+▲ 79 • 💬 7 • ⭐ 4,401 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
-
----
-
-**[Adam's Law: Textual Frequency Law on Large Language Models](https://huggingface.co/papers/2604.02176)**
-
-*Hongyuan Adam Lu, Z. L., Victor Wei et al. (8 authors)*
-
-🏢 FaceMind
-
-A novel framework for improving large language model performance through textual frequency analysis, including laws, distillation, and curriculum training approaches.
-
-▲ 501 • 💬 9 • ⭐ 1,286 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02176) • [💻 code](https://github.com/HongyuanLuke/frequencylaw)
 
 ---
 
@@ -577,7 +559,7 @@ A novel framework for improving large language model performance through textual
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 32 • 💬 3 • ⭐ 23,958 • 9mo ago
+▲ 32 • 💬 3 • ⭐ 23,992 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -597,27 +579,29 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 ---
 
+**[Adam's Law: Textual Frequency Law on Large Language Models](https://huggingface.co/papers/2604.02176)**
+
+*Hongyuan Adam Lu, Z. L., Victor Wei et al. (8 authors)*
+
+🏢 FaceMind
+
+A novel framework for improving large language model performance through textual frequency analysis, including laws, distillation, and curriculum training approaches.
+
+▲ 501 • 💬 9 • ⭐ 1,297 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.02176) • [💻 code](https://github.com/HongyuanLuke/frequencylaw)
+
+---
+
 **[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063)**
 
 *Zhen Fang, Wenxuan Huang, Yu Zeng et al. (11 authors)*
 
 Flow-OPD addresses limitations in Flow Matching text-to-image models through a two-stage alignment approach combining on-policy distillation and manifold anchor regularization, achieving significant improvements in generation quality and alignment metrics.
 
-▲ 73 • 💬 1 • ⭐ 67 • 4d ago
+▲ 79 • 💬 1 • ⭐ 80 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.08063) • [💻 code](https://github.com/CostaliyA/Flow-OPD) • [🔗 project](https://costaliya.github.io/Flow-OPD/)
-
----
-
-**[HumanNet: Scaling Human-centric Video Learning to One Million Hours](https://huggingface.co/papers/2605.06747)**
-
-*Yufan Deng, Daquan Zhou*
-
-HumanNet presents a large-scale human-centric video dataset with rich annotations for embodied intelligence, demonstrating that egocentric human video can effectively replace robot data for training vision-language-action models.
-
-▲ 40 • 💬 0 • ⭐ 58 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.06747) • [💻 code](https://github.com/DAGroup-PKU/HumanNet) • [🔗 project](https://dagroup-pku.github.io/HumanNet/)
 
 ---
 
@@ -629,9 +613,21 @@ HumanNet presents a large-scale human-centric video dataset with rich annotation
 
 MACE-Dance is a music-driven dance video generation framework that combines cascaded Mixture-of-Experts with diffusion models and specialized training strategies to achieve high-quality visual appearance and realistic human motion.
 
-▲ 80 • 💬 1 • ⭐ 82 • 5d ago
+▲ 80 • 💬 2 • ⭐ 82 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.18181) • [💻 code](https://github.com/AMAP-ML/MACE-Dance)
+
+---
+
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 54 • 💬 2 • ⭐ 55,411 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -655,7 +651,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.7k • 🔱 763 • 1d ago
+⭐ 11.8k • 🔱 767 • 1d ago
 
 ---
 
@@ -665,7 +661,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.1k • 🔱 469 • 5h ago
+⭐ 6.2k • 🔱 470 • 5m ago
 
 ---
 
@@ -675,7 +671,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 794 • 1d ago
+⭐ 2.8k • 🔱 803 • 1d ago
 
 ---
 
@@ -685,17 +681,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 224 • 1d ago
-
----
-
-**[Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)**
-
-全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
-
-`TypeScript` `2api` `ai-tools` `analysis-cli` `api-analysis` `automation-tools`
-
-⭐ 2.4k • 🔱 490 • 1d ago
+⭐ 2.5k • 🔱 225 • 1d ago
 
 ---
 
@@ -705,7 +691,17 @@ Open source CAD skills and harnesses for generating 3D models with your favorite
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.4k • 🔱 282 • 2h ago
+⭐ 2.4k • 🔱 283 • 6h ago
+
+---
+
+**[crynta/terax-ai](https://github.com/crynta/terax-ai)**
+
+Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+
+`TypeScript` `agents` `ai` `code-editor` `linux` `macos`
+
+⭐ 2.1k • 🔱 213 • 8h ago
 
 ---
 
@@ -725,17 +721,17 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 1.9k • 🔱 120 • 1h ago
+⭐ 2.0k • 🔱 125 • 2h ago
 
 ---
 
-**[crynta/terax-ai](https://github.com/crynta/terax-ai)**
+**[bergside/design-md-chrome](https://github.com/bergside/design-md-chrome)**
 
-Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
 
-`TypeScript` `agents` `ai` `code-editor` `linux` `macos`
+`JavaScript` `ai` `chrome` `chrome-extension` `claude` `claude-design`
 
-⭐ 1.9k • 🔱 203 • 4h ago
+⭐ 1.9k • 🔱 240 • 17d ago
 
 ---
 
