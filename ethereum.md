@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-12T06:44:04.379334+00:00'
+updated: '2026-05-12T09:41:00.860931+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 06:44 UTC  
+**Last Updated:** May 12, 2026 at 09:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,57 +36,57 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,317.03
+### $2,284.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -1.8%  
-**30d:** -2.6%  
-**90d:** +18.5%  
-**1y:** -14.1%  
+**24h:** -1.6%  
+**7d:** -2.5%  
+**30d:** -3.2%  
+**90d:** +17.7%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.36B
+**Market Cap:** $276.60B
 Rank #2
 
 **Circulating Supply:** 120,686,358 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.4%
+-53.7%
 
 **All-Time Low:** $0.43
-+532528.6%
++529172.8%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[$14 Trillion BlackRock Picks Ethereum for Tokenized Funds](https://www.reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/)**
-
-BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
-
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 8h ago
-
----
-
 **[Daily General Discussion May 12, 2026](https://www.reddit.com/r/ethereum/comments/1tariy9/daily_general_discussion_may_12_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+4h ago
+
+---
+
+**[$14 Trillion BlackRock Picks Ethereum for Tokenized Funds](https://www.reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/)**
+
+BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
+
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 11h ago
 
 ---
 
 **[Protocol Cluster Updates: May 2026](https://www.reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 10h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 13h ago
 
 ---
 
@@ -148,49 +148,33 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 ## Google News: "ethereum"
 
+**[Protocol Cluster Updates: May 2026](https://blog.ethereum.org/2026/05/11/protocol-update-may-26)**
+
+ethereum.org • 17h ago
+
+---
+
 **[Ethereum Foundation names three new co-leads to major Protocol cluster](https://www.theblock.co/post/400835/ethereum-foundation-names-three-new-co-leads-major-protocol-cluster)**
 
 The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer.
 
-The Block • 9h ago
+The Block • 12h ago
 
 ---
 
-**[Protocol Cluster Updates: May 2026](https://blog.ethereum.org/2026/05/11/protocol-update-may-26)**
+**[Whales Just Bet $832 Million on the Ethereum Price Dip, Here’s Why](https://finance.yahoo.com/markets/crypto/articles/whales-just-bet-832-million-080000368.html)**
 
-ethereum.org • 14h ago
+Ethereum price slid 3.6% as whales bought $832 million in ETH while hodlers cut accumulation 80% and derivatives showed healthy optimism.
 
----
-
-**[XRP, Bitcoin and Ethereum as Institutional Collateral Is the Next Step Says Ripple Prime CEO](https://www.tradingview.com/news/coinpedia:fd107dce6094b:0-xrp-bitcoin-and-ethereum-as-institutional-collateral-is-the-next-step-says-ripple-prime-ceo/)**
-
-Ripple Prime CEO Mike Higgins says cryptocurrencies like XRP, Bitcoin, Ethereum, and Solana could soon play a much larger role in institutional finance through cross-margining and collateral systems.Speaking about the future of tokenized finance, Higgins explained that institutions may eventually u…
-
-TradingView • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitmine slows Ethereum buys, targets December to own 5% of supply](https://www.tradingview.com/news/cointelegraph:198cc4e6c094b:0-bitmine-slows-ethereum-buys-targets-december-to-own-5-of-supply/)**
+**[Ethereum Foundation hits ‘Glamsterdam’ milestones, names new protocol leads](https://www.tradingview.com/news/cointelegraph:58e40e7f4094b:0-ethereum-foundation-hits-glamsterdam-milestones-names-new-protocol-leads/)**
 
-Ether treasury company Bitmine Immersion Technologies has slowed the pace of its Ether purchases after previously increasing its buying rate and acquiring more than 100,000 tokens over the last three weeks.Bitmine said on Monday that it purchased 26,659 ETH over the last week, down from the over 10…
+The Ethereum Foundation has reached several progress milestones on the next Ethereum upgrade called “Glamsterdam” and has named three new leads for its Protocol team.The Ethereum Foundation said in a blog post on Monday that it had achieved a “credible post-Glamsterdam target,” establishing a 200 m…
 
-TradingView • 1h ago
-
----
-
-**[Tom Lee Floats $22,000 Ethereum Target: What Has to Be True?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-floats-22-000-155849139.html)**
-
-BitMine Immersion Technologies chairman Tom Lee put a $22,000 Ethereum target on the table at a Miami event this week, with ETH trading at $2,280.70, a nearly 10x call from current levels. The mechanism is a two-part thesis: ETH/BTC ratio reversion toward historical averages applied against a $250,000 Bitcoin fair ...
-
-Yahoo Finance • 14h ago
-
----
-
-**[Ronin set to transition to Ethereum layer 2 from independent sidechain](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
-
-The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
-
-CoinDesk • 18h ago
+TradingView • 2h ago
 
 ---
 
@@ -198,27 +182,43 @@ CoinDesk • 18h ago
 
 Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
 
-Forbes • 18h ago
+Forbes • 21h ago
+
+---
+
+**[Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-slows-ethereum-150328315.html)**
+
+Ethereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Ronin set to transition to Ethereum layer 2 from independent sidechain](https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain)**
+
+The purpose behind the migration is to enhance security, tokenomics and scalability, said Ronin, which suffered the largest DeFi bridge exploit on record in 2022.
+
+CoinDesk • 21h ago
 
 ---
 
 **[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
 
-Gizmodo • 14h ago
+Gizmodo • 17h ago
 
 ---
 
-**[BitMine Slows Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-171700536.html)**
+**[Bitcoin Price Treads Water, XRP and Ethereum Fall. The Crypto Bill May Cause a Rift This Week.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-crypto-markets-today-782d1fc5)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) has slowed its Ethereum (CRYPTO: $ETH) purchases over the past week.&n...
-
-Yahoo Finance • 13h ago
+Barron's • 1d ago
 
 ---
 
-**[BlackRock Readies Launch of Two Tokenized Money-Market Funds](https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds)**
+**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
 
-Bloomberg.com • 3d ago
+Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
+
+Decrypt • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the 
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 77 • 💬 14 • ⏱️ 9:08 • 13h ago
+👁️ 2K • 👍 83 • 💬 15 • ⏱️ 9:08 • 16h ago
 
 ---
 
@@ -242,37 +242,7 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 2K • 👍 137 • 💬 40 • ⏱️ 8:44 • 20h ago
-
----
-
-**[Bitcoin&#39;s Next 3 Resistance Levels — Plus Ethereum &amp; XRP Setups](https://www.youtube.com/watch?v=DHlcVNS8sPQ)**
-
-In today's Pro Charts: Crypto update, verified pro trader Lawton Ho breaks down the key technical levels to watch across Bitcoin, ...
-
-📺 Verified Pro Traders
-
-👁️ 1K • 👍 110 • 💬 3 • ⏱️ 8:56 • 8h ago
-
----
-
-**[THIS INSIDER WHALE JUST CHANGED HIS MIND... ETHEREUM DANGER?](https://www.youtube.com/watch?v=6I2dhThR5SU)**
-
-My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
-
-📺 Satoshi Stacker
-
-👁️ 7K • 👍 356 • 💬 38 • ⏱️ 8:43 • 22h ago
-
----
-
-**[Is Ethereum STILL Undervalued? (Deep Explanation)](https://www.youtube.com/watch?v=Li55ZmSjE8U)**
-
-If you're concerned about scams or want to keep an eye on your credit, check out https://OmniWatch.com/iced for 50% off your first ...
-
-📺 The Iced Coffee Hour Clips
-
-👁️ 20K • 👍 394 • 💬 144 • ⏱️ 9:26 • 2d ago
+👁️ 2K • 👍 144 • 💬 40 • ⏱️ 8:44 • 22h ago
 
 ---
 
@@ -286,13 +256,33 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 ---
 
+**[Bitcoin&#39;s Next 3 Resistance Levels — Plus Ethereum &amp; XRP Setups](https://www.youtube.com/watch?v=DHlcVNS8sPQ)**
+
+In today's Pro Charts: Crypto update, verified pro trader Lawton Ho breaks down the key technical levels to watch across Bitcoin, ...
+
+📺 Verified Pro Traders
+
+👁️ 1K • 👍 119 • 💬 4 • ⏱️ 8:56 • 11h ago
+
+---
+
+**[Is Ethereum STILL Undervalued? (Deep Explanation)](https://www.youtube.com/watch?v=Li55ZmSjE8U)**
+
+If you're concerned about scams or want to keep an eye on your credit, check out https://OmniWatch.com/iced for 50% off your first ...
+
+📺 The Iced Coffee Hour Clips
+
+👁️ 20K • 👍 396 • 💬 144 • ⏱️ 9:26 • 2d ago
+
+---
+
 **[BULL MARKET STARTS RIGHT NOW? #crypto #ethereum #bitcoin #solana #bitcoincrashing](https://www.youtube.com/watch?v=a5FTAl1XbbU)**
 
 Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 160 • 💬 23 • ⏱️ 0:44 • 13h ago
+👁️ 6K • 👍 166 • 💬 67 • ⏱️ 0:44 • 16h ago
 
 ---
 
@@ -302,17 +292,27 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 866 • 💬 89 • ⏱️ 12:01 • 2d ago
+👁️ 24K • 👍 869 • 💬 89 • ⏱️ 12:01 • 2d ago
 
 ---
 
-**[WHEN WILL ETHEREUM BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ppZbpHpJ_mY)**
+**[THIS INSIDER WHALE JUST CHANGED HIS MIND... ETHEREUM DANGER?](https://www.youtube.com/watch?v=6I2dhThR5SU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
 
-📺 Cilinix Crypto
+📺 Satoshi Stacker
 
-👁️ 421 • 👍 17 • ⏱️ 4:34 • 21h ago
+👁️ 7K • 👍 361 • 💬 38 • ⏱️ 8:43 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ibdBKnxKKko)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 740 • 👍 82 • ⏱️ 6:16 • 6h ago
 
 ---
 

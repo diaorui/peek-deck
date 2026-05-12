@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-12T06:44:04.374100+00:00'
+updated: '2026-05-12T09:41:00.855090+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 06:44 UTC  
+**Last Updated:** May 12, 2026 at 09:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,164.93
+### $80,938.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.4%  
-**30d:** +8.9%  
-**90d:** +22.4%  
-**1y:** -22.2%  
+**24h:** -0.1%  
+**7d:** -0.6%  
+**30d:** +8.7%  
+**90d:** +22.2%  
+**1y:** -22.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1624.46B
+**Market Cap:** $1620.09B
 Rank #1
 
-**Circulating Supply:** 20,028,212 BTC
+**Circulating Supply:** 20,028,259 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.7%
+-35.8%
 
 **All-Time Low:** $67.81
-+119476.8%
++119181.8%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 I have one BTC. I have a minivan. I've been thinking of selling my house paying off bills and living in my van for two years and taking the money to buy two more BTC. Has anyone done this?
 
-1h ago
-
----
-
-**[You don't have enough Bitcoins](https://www.reddit.com/r/Bitcoin/comments/1tal6fl/you_dont_have_enough_bitcoins/)**
-
-Stay humble stack sats
-
-6h ago
+4h ago
 
 ---
 
@@ -97,7 +89,15 @@ Stay humble stack sats
 
 The Best crypto out there 😉
 
-1h ago
+4h ago
+
+---
+
+**[You don't have enough Bitcoins](https://www.reddit.com/r/Bitcoin/comments/1tal6fl/you_dont_have_enough_bitcoins/)**
+
+Stay humble stack sats
+
+9h ago
 
 ---
 
@@ -105,47 +105,7 @@ The Best crypto out there 😉
 
 People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
 
-🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 11h ago
-
----
-
-**[$21K of Bitcoin through moonpay](https://www.reddit.com/r/Bitcoin/comments/1taivct/21k_of_bitcoin_through_moonpay/)**
-
-Hey, so my friend has sent me 21k dollars in bitcoin via moonpay to my moonpay bitcoin wallet , the problem is we didnt take a screenshot and we cant find any evidence that we have sent the bitcoin, and it has been deducted from his account, it is not registered on bitcoin has or the bitcoin detector thingy, what could it be? We cant extract the transaction number as well, my account is new, it has only 700 dollars of transactions, can it somehow be a problem?? Thanks
-
-8h ago
-
----
-
-**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
-
-On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
-
-18h ago
-
----
-
-**[Starting over](https://www.reddit.com/r/Bitcoin/comments/1ta82rw/starting_over/)**
-
-Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
-
-14h ago
-
----
-
-**[I just started buying bitcoin this 2026](https://www.reddit.com/r/Bitcoin/comments/1ta6buv/i_just_started_buying_bitcoin_this_2026/)**
-
-After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
-
-15h ago
-
----
-
-**[What’s the most painful trading lesson you learned too late?](https://www.reddit.com/r/Bitcoin/comments/1tat7yx/whats_the_most_painful_trading_lesson_you_learned/)**
-
-For me it was realizing that protecting your capital is more important than chasing fast profits. One bad emotional trade can erase weeks of good decisions. Curious what lesson hit everyone else the hardest.
-
-14m ago
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 14h ago
 
 ---
 
@@ -153,7 +113,45 @@ For me it was realizing that protecting your capital is more important than chas
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-40m ago
+3h ago
+
+---
+
+**[Bitcoin Knots 29.3.knots20260508 released with RDTS support (and 20260507 without) 🎉](https://www.reddit.com/r/Bitcoin/comments/1tawcxj/bitcoin_knots_293knots20260508_released_with_rdts/)**
+
+🔗 [bitcoinknots.org](https://bitcoinknots.org/?29.3.20260508?reddit) • 14m ago
+
+---
+
+**[$21K of Bitcoin through moonpay](https://www.reddit.com/r/Bitcoin/comments/1taivct/21k_of_bitcoin_through_moonpay/)**
+
+Hey, so my friend has sent me 21k dollars in bitcoin via moonpay to my moonpay bitcoin wallet , the problem is we didnt take a screenshot and we cant find any evidence that we have sent the bitcoin, and it has been deducted from his account, it is not registered on bitcoin has or the bitcoin detector thingy, what could it be? We cant extract the transaction number as well, my account is new, it has only 700 dollars of transactions, can it somehow be a problem?? Thanks
+
+11h ago
+
+---
+
+**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
+
+On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
+
+21h ago
+
+---
+
+**[Starting over](https://www.reddit.com/r/Bitcoin/comments/1ta82rw/starting_over/)**
+
+Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
+
+17h ago
+
+---
+
+**[I just started buying bitcoin this 2026](https://www.reddit.com/r/Bitcoin/comments/1ta6buv/i_just_started_buying_bitcoin_this_2026/)**
+
+After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
+
+18h ago
 
 ---
 
@@ -161,11 +159,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash](https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash)**
+**['Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC](https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc)**
 
-Bitcoin held above $81,000 after touching $82,026 overnight, while solana led the major altcoins on the week as The Big Short investor warned the Nasdaq 100 had reached dot-com bubble territory and oil zoomed past $105 on fresh Iran ceasefire doubts.
+Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -173,29 +171,31 @@ CoinDesk • 2h ago
 
 MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and improve liquidity.
 
-The Block • 9h ago
+The Block • 12h ago
 
 ---
 
-**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
+**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-150-000-092000271.html)**
 
-Bloomberg.com • 1h ago
+This asset is increasingly in demand, and that'll likely push prices up eventually.
 
----
-
-**[XRP, Bitcoin and Ethereum as Institutional Collateral Is the Next Step Says Ripple Prime CEO](https://www.tradingview.com/news/coinpedia:fd107dce6094b:0-xrp-bitcoin-and-ethereum-as-institutional-collateral-is-the-next-step-says-ripple-prime-ceo/)**
-
-Ripple Prime CEO Mike Higgins says cryptocurrencies like XRP, Bitcoin, Ethereum, and Solana could soon play a much larger role in institutional finance through cross-margining and collateral systems.Speaking about the future of tokenized finance, Higgins explained that institutions may eventually u…
-
-TradingView • 1h ago
+Yahoo Finance • 21m ago
 
 ---
 
-**['Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC](https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc)**
+**[Bitcoin miner MARA sold $1.5 billion of bitcoin as it shifts toward AI infrastructure](https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure)**
 
-Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.
+While the miner said bitcoin remains its operational foundation, first-quarter results point to a company increasingly built around power, data centers and AI demand.
 
-CoinDesk • 57m ago
+CoinDesk • 49m ago
+
+---
+
+**[Strategy just hit a new high for the year. Should you buy the comeback in bitcoin stocks?](https://www.cnbc.com/2026/05/11/strategy-just-hit-a-new-high-for-the-year-should-you-buy-the-comeback-in-bitcoin-stocks.html)**
+
+Katie Stockton of Fairlead Strategies breaks down the charts on this crypto-tied names.
+
+CNBC • 16h ago
 
 ---
 
@@ -203,21 +203,25 @@ CoinDesk • 57m ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 10h ago
+Fortune • 20h ago
 
 ---
 
-**[Bitcoin Whales Have Stacked 270K BTC in 30 Days: Could It Be a Bottom Signal?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-stacked-270k-btc-183410096.html)**
+**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
 
-Bitcoin’s (CRYPTO: BTC) biggest holders just made their largest move in 13 years. In the 30 days ending April 20, wallets holding at least 1,000 BTC quietly bought 270,000 BTC, roughly $23 billion, while most retail investors were panic-selling or staying on the sidelines. At the same time, the amount of Bitcoin held on exchanges ... Bitcoin Whales Have Stacked 270K BTC in 30 Days: Could It Be a Bottom Signal?
-
-Yahoo Finance • 12h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 16h ago
+
+---
+
+**[Bitcoin Falls as Fragile U.S.-Iran Cease-Fire Weighs](https://www.barrons.com/livecoverage/stock-market-news-today-051226/card/bitcoin-falls-as-fragile-u-s-iran-cease-fire-weighs-PhyGkHq7pTOxX1ZfB4yc)**
+
+Barron's • 1h ago
 
 ---
 
@@ -225,15 +229,7 @@ Investor's Business Daily • 13h ago
 
 Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.
 
-CoinDesk • 10h ago
-
----
-
-**[Strategy (MSTR) Buys $43 Million More Bitcoin After Saylor Defends Potential BTC Sales](https://bitcoinmagazine.com/news/strategy-mstr-buys-43-million-more-bitcoin)**
-
-Strategy added 535 more BTC for $43 million days after Michael Saylor said the company may consider selling part of its bitcoin holdings for the first time.
-
-Bitcoin Magazine • 18h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -251,7 +247,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 **[Thomas Massie for Congress accepts Bitcoin donations](https://news.ycombinator.com/item?id=48104204)**
 
-⬆️ 2 • 💬 1 • 2h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
+⬆️ 2 • 💬 1 • 5h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
 
 ---
 
@@ -259,7 +255,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 How Deblock integrated instant, non-custodial bitcoin into their neobank using the Breez SDK, serving 300,000 users across Europe.
 
-⬆️ 1 • 💬 0 • 4m ago • [breez.technology](https://breez.technology/case-studies/deblock/)
+⬆️ 1 • 💬 0 • 3h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
 
 ---
 
@@ -313,7 +309,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 2K • 💬 70 • ⏱️ 16:20 • 9h ago
+👁️ 35K • 👍 2K • 💬 70 • ⏱️ 16:20 • 12h ago
 
 ---
 
@@ -323,47 +319,7 @@ EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade cr
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 89 • ⏱️ 10:40 • 7h ago
-
----
-
-**[Bitcoin Approaches an Important Level](https://www.youtube.com/watch?v=Ox0mi5n3Ju4)**
-
-The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Premium SALE: https://intothecryptoverse.com ...
-
-📺 Benjamin Cowen
-
-👁️ 73K • 👍 5K • 💬 486 • ⏱️ 9:29 • 16h ago
-
----
-
-**[Inside Michael Saylor&#39;s Most Dangerous Bitcoin Move Yet!](https://www.youtube.com/watch?v=nkUSrjyeeZc)**
-
-Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all colliding in one of the most important Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 1K • 💬 135 • ⏱️ 15:10 • 9h ago
-
----
-
-**[Bitcoin Is Close To a Massive Breakout](https://www.youtube.com/watch?v=dahX7KnKuB4)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 1K • 💬 247 • ⏱️ 51:34 • 16h ago
-
----
-
-**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
-
-Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 2K • 💬 147 • ⏱️ 16:50 • 1d ago
+👁️ 33K • 👍 2K • 💬 172 • ⏱️ 10:40 • 10h ago
 
 ---
 
@@ -373,7 +329,37 @@ Bitcoin will win because it has to. Every monetary system in history has eventua
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 503 • 💬 73 • ⏱️ 15:52 • 14h ago
+👁️ 7K • 👍 523 • 💬 77 • ⏱️ 15:52 • 16h ago
+
+---
+
+**[Bitcoin Approaches an Important Level](https://www.youtube.com/watch?v=Ox0mi5n3Ju4)**
+
+The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Premium SALE: https://intothecryptoverse.com ...
+
+📺 Benjamin Cowen
+
+👁️ 79K • 👍 6K • 💬 498 • ⏱️ 9:29 • 19h ago
+
+---
+
+**[Bitcoin Is Close To a Massive Breakout](https://www.youtube.com/watch?v=dahX7KnKuB4)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 1K • 💬 247 • ⏱️ 51:34 • 19h ago
+
+---
+
+**[They Called Saylor&#39;s Bitcoin Strategy a Ponzi | Here&#39;s The Math That Proves Them Wrong](https://www.youtube.com/watch?v=HxkGyZgvkKk)**
+
+Michael Saylor finally explains what he actually meant by “never sell your Bitcoin” and why Strategy may still sell portions of its ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 2K • 💬 153 • ⏱️ 16:50 • 1d ago
 
 ---
 
@@ -383,17 +369,27 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 39K • 👍 2K • 💬 54 • ⏱️ 16:15 • 1d ago
+👁️ 40K • 👍 2K • 💬 54 • ⏱️ 16:15 • 1d ago
 
 ---
 
-**[Hackers Stole $4 5B in Bitcoin and Hid for 6 Years   Then This Happened](https://www.youtube.com/watch?v=mSrC2qfTaK8)**
+**[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
 
-biggest crypto heist ever #crypto #bitcoin #crime #scam.
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
-📺 Motive and Malice
+📺 CryptosRUs
 
-👁️ 843 • 👍 47 • ⏱️ 1:02 • 10h ago
+👁️ 21K • 👍 1K • 💬 185 • ⏱️ 8:11 • 1d ago
+
+---
+
+**[Inside Michael Saylor&#39;s Most Dangerous Bitcoin Move Yet!](https://www.youtube.com/watch?v=nkUSrjyeeZc)**
+
+Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all colliding in one of the most important Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 265 • ⏱️ 15:10 • 12h ago
 
 ---
 
@@ -403,7 +399,7 @@ Bitcoin just closed one of the strongest weekly candles of 2026 — and yet the 
 
 📺 DataDash
 
-👁️ 3K • 👍 229 • 💬 43 • ⏱️ 17:11 • 15h ago
+👁️ 3K • 👍 230 • 💬 43 • ⏱️ 17:11 • 18h ago
 
 ---
 
