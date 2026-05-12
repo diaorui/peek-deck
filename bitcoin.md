@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-12T03:59:35.575829+00:00'
+updated: '2026-05-12T06:44:04.374100+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 03:59 UTC  
+**Last Updated:** May 12, 2026 at 06:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.5%  
-**30d:** +8.8%  
-**90d:** +22.3%  
+**24h:** +0.4%  
+**7d:** -0.4%  
+**30d:** +8.9%  
+**90d:** +22.4%  
 **1y:** -22.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1622.85B
+**Market Cap:** $1624.46B
 Rank #1
 
-**Circulating Supply:** 20,028,190 BTC
+**Circulating Supply:** 20,028,212 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -35.7%
 
 **All-Time Low:** $67.81
-+119388.3%
++119476.8%
 
 ---
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Why do so many people reject Bitcoin for having no cash flow?](https://www.reddit.com/r/Bitcoin/comments/1tadpt2/why_do_so_many_people_reject_bitcoin_for_having/)**
+**[1 BTC](https://www.reddit.com/r/Bitcoin/comments/1tarap2/1_btc/)**
 
-People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
+I have one BTC. I have a minivan. I've been thinking of selling my house paying off bills and living in my van for two years and taking the money to buy two more BTC. Has anyone done this?
 
-🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 8h ago
-
----
-
-**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
-
-On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
-
-15h ago
+1h ago
 
 ---
 
@@ -97,23 +89,23 @@ On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standar
 
 Stay humble stack sats
 
-3h ago
+6h ago
 
 ---
 
-**[Starting over](https://www.reddit.com/r/Bitcoin/comments/1ta82rw/starting_over/)**
+**[You just need Bitcoin ✨👑](https://www.reddit.com/r/Bitcoin/comments/1taricr/you_just_need_bitcoin/)**
 
-Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
+The Best crypto out there 😉
 
-11h ago
+1h ago
 
 ---
 
-**[I just started buying bitcoin this 2026](https://www.reddit.com/r/Bitcoin/comments/1ta6buv/i_just_started_buying_bitcoin_this_2026/)**
+**[Why do so many people reject Bitcoin for having no cash flow?](https://www.reddit.com/r/Bitcoin/comments/1tadpt2/why_do_so_many_people_reject_bitcoin_for_having/)**
 
-After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
+People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
 
-12h ago
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 11h ago
 
 ---
 
@@ -121,39 +113,47 @@ After watching or listening to bitcoin podcasts, I finally made the decision to 
 
 Hey, so my friend has sent me 21k dollars in bitcoin via moonpay to my moonpay bitcoin wallet , the problem is we didnt take a screenshot and we cant find any evidence that we have sent the bitcoin, and it has been deducted from his account, it is not registered on bitcoin has or the bitcoin detector thingy, what could it be? We cant extract the transaction number as well, my account is new, it has only 700 dollars of transactions, can it somehow be a problem?? Thanks
 
-5h ago
+8h ago
 
 ---
 
-**[Worth buying 2k now?](https://www.reddit.com/r/Bitcoin/comments/1taikcq/worth_buying_2k_now/)**
+**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
 
-Hi, I’ve had £2,000 physical cash on hand for a little over a year now not touched from inheritance. I’m a bit late to the game as could’ve invested back then but thought having the cash spare would be handy so I had kept it out of sight and mind. I started investing in February this year around £150 on a Ledger device and kept that and the words safe but now I’m wondering is it worth putting that spare cash into Bitcoin? I don’t have any plans to need it in the short term. What might be my expected returns? Thanks
+On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
 
-5h ago
-
----
-
-**[Even Isaac Newton got wrecked by a bubble. The brutal 1700s origin of Short Selling and Bear Markets.](https://www.reddit.com/r/Bitcoin/comments/1ta4bxy/even_isaac_newton_got_wrecked_by_a_bubble_the/)**
-
-He sold early for a profit, watched everyone else get richer, then jumped back in near the top with basically everything he had. Absolute classic. The funniest part is that the term “Bear Market” comes from this same era. “Bear-skin jobbers” were basically the 1700s version of naked short sellers, selling skins before they even caught the bear. 300 years later and we’re still destroying ourselves the exact same way, regards.
-
-13h ago
+18h ago
 
 ---
 
-**[What would happen when EU fuel shortages start next week?](https://www.reddit.com/r/Bitcoin/comments/1taik2x/what_would_happen_when_eu_fuel_shortages_start/)**
+**[Starting over](https://www.reddit.com/r/Bitcoin/comments/1ta82rw/starting_over/)**
 
-Would love to hear different opinions on this? How would it affect bitcoin?
+Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
 
-5h ago
+14h ago
 
 ---
 
-**[Bitcoin pizza day](https://www.reddit.com/r/Bitcoin/comments/1taieft/bitcoin_pizza_day/)**
+**[I just started buying bitcoin this 2026](https://www.reddit.com/r/Bitcoin/comments/1ta6buv/i_just_started_buying_bitcoin_this_2026/)**
 
-Bitcoin pizza day, a staple of Bitcoin culture is in 11 days. Never forget your roots, remember your elders. That is all.
+After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
 
-5h ago
+15h ago
+
+---
+
+**[What’s the most painful trading lesson you learned too late?](https://www.reddit.com/r/Bitcoin/comments/1tat7yx/whats_the_most_painful_trading_lesson_you_learned/)**
+
+For me it was realizing that protecting your capital is more important than chasing fast profits. One bad emotional trade can erase weeks of good decisions. Curious what lesson hit everyone else the hardest.
+
+14m ago
+
+---
+
+**[Daily Discussion, May 12, 2026](https://www.reddit.com/r/Bitcoin/comments/1tasq4q/daily_discussion_may_12_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+40m ago
 
 ---
 
@@ -161,41 +161,11 @@ Bitcoin pizza day, a staple of Bitcoin culture is in 11 days. Never forget your 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin mining pools with 75% of BTC hashrate join open standard for block construction](https://www.coindesk.com/markets/2026/05/11/bitcoin-mining-pools-with-75-of-btc-hashrate-join-open-standard-for-block-construction)**
+**[Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash](https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash)**
 
-Foundry, AntPool, F2Pool, SpiderPool, and MARA Pool are among seven pools joining the Stratum V2 working group, putting nearly three-quarters of global bitcoin hashrate behind a protocol that returns block construction decisions to individual miners.
+Bitcoin held above $81,000 after touching $82,026 overnight, while solana led the major altcoins on the week as The Big Short investor warned the Nasdaq 100 had reached dot-com bubble territory and oil zoomed past $105 on fresh Iran ceasefire doubts.
 
-CoinDesk • 21h ago
-
----
-
-**[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
-
-Investor's Business Daily • 10h ago
-
----
-
-**[Bitcoin funding rates turn positive: Is a BTC rally to $85K next?](https://www.tradingview.com/news/cointelegraph:3e7492896094b:0-bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next/)**
-
-Key takeaways:Bitcoin (BTC) flirted with the $82,000 level on Monday, sparking a brief surge in demand for bullish leverage. Bitcoin has held near $80,000 for over a week, prompting many traders to bet on further upside. However, derivative metrics show that professional players remain skeptical, l…
-
-TradingView • 1h ago
-
----
-
-**[American Bitcoin Deepens Bitcoin Reserves With Collateralized Bitmain Miner Deal](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-deepens-bitcoin-reserves-020905899.html)**
-
-American Bitcoin (NasdaqCM:ABTC) is expanding its Bitcoin holdings alongside sizable direct purchases of Bitcoin. The company has agreed to acquire a large fleet of Bitmain miners using Bitcoin as collateral, securing hardware at discounted pricing. These moves increase ABTC's institutional profile as a Bitcoin holder and adjust its capital structure around its digital asset reserves. American Bitcoin focuses on Bitcoin mining and balance sheet exposure to the asset, which places it in the...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price Eyes $82K Break, Bulls Prepare For Bigger Rally](https://www.tradingview.com/news/newsbtc:00905112b094b:0-bitcoin-price-eyes-82k-break-bulls-prepare-for-bigger-rally/)**
-
-Bitcoin price started a downside correction from the $82,000 zone. BTC is consolidating and might aim for a fresh increase if it clears $82,000.Bitcoin Price Dips AgainBitcoin price failed to clear the $82,000 resistance zone. BTC started a downside correction below the $81,500 and $81,200 levels t…
-
-TradingView • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +173,51 @@ TradingView • 1h ago
 
 MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and improve liquidity.
 
-The Block • 6h ago
+The Block • 9h ago
+
+---
+
+**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[XRP, Bitcoin and Ethereum as Institutional Collateral Is the Next Step Says Ripple Prime CEO](https://www.tradingview.com/news/coinpedia:fd107dce6094b:0-xrp-bitcoin-and-ethereum-as-institutional-collateral-is-the-next-step-says-ripple-prime-ceo/)**
+
+Ripple Prime CEO Mike Higgins says cryptocurrencies like XRP, Bitcoin, Ethereum, and Solana could soon play a much larger role in institutional finance through cross-margining and collateral systems.Speaking about the future of tokenized finance, Higgins explained that institutions may eventually u…
+
+TradingView • 1h ago
+
+---
+
+**['Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC](https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc)**
+
+Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.
+
+CoinDesk • 57m ago
+
+---
+
+**[Current price of Bitcoin for May 11, 2026](https://fortune.com/article/price-of-bitcoin-05-11-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 10h ago
+
+---
+
+**[Bitcoin Whales Have Stacked 270K BTC in 30 Days: Could It Be a Bottom Signal?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-stacked-270k-btc-183410096.html)**
+
+Bitcoin’s (CRYPTO: BTC) biggest holders just made their largest move in 13 years. In the 30 days ending April 20, wallets holding at least 1,000 BTC quietly bought 270,000 BTC, roughly $23 billion, while most retail investors were panic-selling or staying on the sidelines. At the same time, the amount of Bitcoin held on exchanges ... Bitcoin Whales Have Stacked 270K BTC in 30 Days: Could It Be a Bottom Signal?
+
+Yahoo Finance • 12h ago
+
+---
+
+**[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
+
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -211,29 +225,15 @@ The Block • 6h ago
 
 Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Strategy’s Michael Saylor raps about how he gets shareholders to pay for bitcoin buys](https://www.marketwatch.com/story/strategys-michael-saylor-raps-about-how-he-gets-shareholders-to-pay-for-bitcoin-buys-479e0011)**
+**[Strategy (MSTR) Buys $43 Million More Bitcoin After Saylor Defends Potential BTC Sales](https://bitcoinmagazine.com/news/strategy-mstr-buys-43-million-more-bitcoin)**
 
-MarketWatch • 9h ago
+Strategy added 535 more BTC for $43 million days after Michael Saylor said the company may consider selling part of its bitcoin holdings for the first time.
 
----
-
-**[Strategy buys 535 bitcoin, opens vote on STRC semi-monthly dividend change](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-535-bitcoin-opens-132831234.html)**
-
-Strategy acquired 535 bitcoin for $43 million, bringing total holdings to 818,869 bitcoin. The company also opened shareholder voting on a proposal to shift STRC dividend payments from monthly to…
-
-Yahoo Finance • 14h ago
-
----
-
-**[SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle](https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html)**
-
-The Securities and Exchange Commission has delayed approval for prediction markets ETFs, bringing up memories of the long battle over bitcoin funds.
-
-CNBC • 1d ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -246,6 +246,20 @@ CNBC • 1d ago
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
 ⬆️ 3 • 💬 2 • 3d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+
+---
+
+**[Thomas Massie for Congress accepts Bitcoin donations](https://news.ycombinator.com/item?id=48104204)**
+
+⬆️ 2 • 💬 1 • 2h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
+
+---
+
+**[Breez SDK Case Study: Deblock, Instant Bitcoin at Scale](https://news.ycombinator.com/item?id=48104974)**
+
+How Deblock integrated instant, non-custodial bitcoin into their neobank using the Breez SDK, serving 300,000 users across Europe.
+
+⬆️ 1 • 💬 0 • 4m ago • [breez.technology](https://breez.technology/case-studies/deblock/)
 
 ---
 
@@ -299,7 +313,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 1K • 💬 70 • ⏱️ 16:20 • 6h ago
+👁️ 30K • 👍 2K • 💬 70 • ⏱️ 16:20 • 9h ago
 
 ---
 
@@ -309,17 +323,7 @@ EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade cr
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 74 • ⏱️ 10:40 • 4h ago
-
----
-
-**[Inside Michael Saylor&#39;s Most Dangerous Bitcoin Move Yet!](https://www.youtube.com/watch?v=nkUSrjyeeZc)**
-
-Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all colliding in one of the most important Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 121 • ⏱️ 15:10 • 6h ago
+👁️ 25K • 👍 2K • 💬 89 • ⏱️ 10:40 • 7h ago
 
 ---
 
@@ -329,7 +333,17 @@ The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 5K • 💬 472 • ⏱️ 9:29 • 14h ago
+👁️ 73K • 👍 5K • 💬 486 • ⏱️ 9:29 • 16h ago
+
+---
+
+**[Inside Michael Saylor&#39;s Most Dangerous Bitcoin Move Yet!](https://www.youtube.com/watch?v=nkUSrjyeeZc)**
+
+Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all colliding in one of the most important Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 1K • 💬 135 • ⏱️ 15:10 • 9h ago
 
 ---
 
@@ -339,17 +353,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 253 • ⏱️ 51:34 • 13h ago
-
----
-
-**[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 180 • ⏱️ 8:11 • 1d ago
+👁️ 19K • 👍 1K • 💬 247 • ⏱️ 51:34 • 16h ago
 
 ---
 
@@ -363,6 +367,16 @@ Michael Saylor finally explains what he actually meant by “never sell your Bit
 
 ---
 
+**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
+
+Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
+
+📺 Swan Bitcoin
+
+👁️ 6K • 👍 503 • 💬 73 • ⏱️ 15:52 • 14h ago
+
+---
+
 **[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
 
 Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
@@ -373,23 +387,23 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 ---
 
-**[Bitcoin EXPLODES To $82K As BlackRock And Apollo Go All-In](https://www.youtube.com/watch?v=X-tT0k68TV4)**
+**[Hackers Stole $4 5B in Bitcoin and Hid for 6 Years   Then This Happened](https://www.youtube.com/watch?v=mSrC2qfTaK8)**
 
-Bitcoin #Crypto #Finance Bitcoin is testing its 200-day SMA near $82K as $858M floods into crypto funds and Wall Street's biggest ...
+biggest crypto heist ever #crypto #bitcoin #crime #scam.
 
-📺 The Wolf Of All Streets
+📺 Motive and Malice
 
-👁️ 19K • 👍 922 • 💬 307 • ⏱️ 1:01:36 • 13h ago
+👁️ 843 • 👍 47 • ⏱️ 1:02 • 10h ago
 
 ---
 
-**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
+**[🚨 Bitcoin Just Closed Its Most Bullish Weekly Candle of 2026 And Nobody Believes It](https://www.youtube.com/watch?v=yDpnZBMi4Vg)**
 
-Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
+Bitcoin just closed one of the strongest weekly candles of 2026 — and yet the majority of the market remains cautious, skeptical, ...
 
-📺 Swan Bitcoin
+📺 DataDash
 
-👁️ 6K • 👍 476 • 💬 75 • ⏱️ 15:52 • 11h ago
+👁️ 3K • 👍 229 • 💬 43 • ⏱️ 17:11 • 15h ago
 
 ---
 
