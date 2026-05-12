@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-12T09:41:00.855090+00:00'
+updated: '2026-05-12T11:57:43.451076+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 09:41 UTC  
+**Last Updated:** May 12, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,938.74
+### $80,621.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.6%  
-**30d:** +8.7%  
-**90d:** +22.2%  
-**1y:** -22.3%  
+**24h:** -0.4%  
+**7d:** -0.8%  
+**30d:** +8.4%  
+**90d:** +21.9%  
+**1y:** -22.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1620.09B
+**Market Cap:** $1617.00B
 Rank #1
 
-**Circulating Supply:** 20,028,259 BTC
+**Circulating Supply:** 20,028,312 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-36.0%
 
 **All-Time Low:** $67.81
-+119181.8%
++118962.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I have one BTC. I have a minivan. I've been thinking of selling my house paying off bills and living in my van for two years and taking the money to buy two more BTC. Has anyone done this?
 
-4h ago
+7h ago
 
 ---
 
@@ -89,23 +89,7 @@ I have one BTC. I have a minivan. I've been thinking of selling my house paying 
 
 The Best crypto out there 😉
 
-4h ago
-
----
-
-**[You don't have enough Bitcoins](https://www.reddit.com/r/Bitcoin/comments/1tal6fl/you_dont_have_enough_bitcoins/)**
-
-Stay humble stack sats
-
-9h ago
-
----
-
-**[Why do so many people reject Bitcoin for having no cash flow?](https://www.reddit.com/r/Bitcoin/comments/1tadpt2/why_do_so_many_people_reject_bitcoin_for_having/)**
-
-People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
-
-🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 14h ago
+6h ago
 
 ---
 
@@ -113,21 +97,31 @@ People keep saying Bitcoin has no cash flow. That is true. But why assume cash f
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+5h ago
 
 ---
 
-**[Bitcoin Knots 29.3.knots20260508 released with RDTS support (and 20260507 without) 🎉](https://www.reddit.com/r/Bitcoin/comments/1tawcxj/bitcoin_knots_293knots20260508_released_with_rdts/)**
+**[You don't have enough Bitcoins](https://www.reddit.com/r/Bitcoin/comments/1tal6fl/you_dont_have_enough_bitcoins/)**
 
-🔗 [bitcoinknots.org](https://bitcoinknots.org/?29.3.20260508?reddit) • 14m ago
-
----
-
-**[$21K of Bitcoin through moonpay](https://www.reddit.com/r/Bitcoin/comments/1taivct/21k_of_bitcoin_through_moonpay/)**
-
-Hey, so my friend has sent me 21k dollars in bitcoin via moonpay to my moonpay bitcoin wallet , the problem is we didnt take a screenshot and we cant find any evidence that we have sent the bitcoin, and it has been deducted from his account, it is not registered on bitcoin has or the bitcoin detector thingy, what could it be? We cant extract the transaction number as well, my account is new, it has only 700 dollars of transactions, can it somehow be a problem?? Thanks
+Stay humble stack sats
 
 11h ago
+
+---
+
+**[Why do so many people reject Bitcoin for having no cash flow?](https://www.reddit.com/r/Bitcoin/comments/1tadpt2/why_do_so_many_people_reject_bitcoin_for_having/)**
+
+People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
+
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 16h ago
+
+---
+
+**[A generation that grew up with Bitcoin will eventually hold power](https://www.reddit.com/r/Bitcoin/comments/1tawxfd/a_generation_that_grew_up_with_bitcoin_will/)**
+
+There are teenagers and pre-teens today who are growing into a world where Bitcoin has always existed, for them. For them, bitcoin is not some strange new experiment. It is more like the internet was for many of us: something that was already there, already part of the world, and already understood at a basic level. Our generation grew up with the internet as something that increasingly felt normal. Then, over time, we helped digitize almost everything that had not been digital before: communication, media, shopping, work, banking, money, and now even intelligence. That makes the next generation exciting to think about. If they grow up with bitcoin and blockchain as part of the basic digital landscape, what will they eventually make mainstream? What systems will they rebuild, simplify, or replace once they are the ones leading companies, governments, financial institutions, and communities? Bitcoin does not need everyone to understand it perfectly today. It just needs time to form the sea where oceans, whales, and every living organism can thrive. Because in the end, the sea is more powerful and lasting than any whale living in it.
+
+1h ago
 
 ---
 
@@ -135,7 +129,7 @@ Hey, so my friend has sent me 21k dollars in bitcoin via moonpay to my moonpay b
 
 On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
 
-21h ago
+23h ago
 
 ---
 
@@ -143,7 +137,7 @@ On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standar
 
 Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
 
-17h ago
+19h ago
 
 ---
 
@@ -151,7 +145,15 @@ Had to sell last fall due to divorce. It wasn't a lot but still... Just now star
 
 After watching or listening to bitcoin podcasts, I finally made the decision to buy Bitcoin, like doing a DCA. I'm buying on what I can and it is not too much. I'm thinking long term, Is it too late for me?
 
-18h ago
+20h ago
+
+---
+
+**[Worth buying 2k now?](https://www.reddit.com/r/Bitcoin/comments/1taikcq/worth_buying_2k_now/)**
+
+Hi, I’ve had £2,000 physical cash on hand for a little over a year now not touched from inheritance. I’m a bit late to the game as could’ve invested back then but thought having the cash spare would be handy so I had kept it out of sight and mind. I started investing in February this year around £150 on a Ledger device and kept that and the words safe but now I’m wondering is it worth putting that spare cash into Bitcoin? I don’t have any plans to need it in the short term. What might be my expected returns? Thanks
+
+13h ago
 
 ---
 
@@ -163,31 +165,39 @@ After watching or listening to bitcoin podcasts, I finally made the decision to 
 
 Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.
 
-CoinDesk • 3h ago
+CoinDesk • 6h ago
 
 ---
 
-**[MARA Q1 revenue drops 18%, says bitcoin mining remains 'operational foundation'](https://www.theblock.co/post/400824/mara-q1-revenue-drops-18-bitcoin-mining-operational-foundation)**
+**[Bitcoin miner CleanSpark's Q2 losses swell after losing $224 million on BTC holdings](https://www.theblock.co/post/400823/bitcoin-miner-cleansparks-q2-losses-swell-after-losing-224-million-on-btc-holdings)**
 
-MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and improve liquidity.
+CleanSpark said Q2 bitcoin mining revenue came in at $136.4 million, a 25% decrease from a year ago when it posted $181.7 million.
 
-The Block • 12h ago
-
----
-
-**[Prediction: Bitcoin Will Hit $150,000 in 2026](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-150-000-092000271.html)**
-
-This asset is increasingly in demand, and that'll likely push prices up eventually.
-
-Yahoo Finance • 21m ago
+The Block • 14h ago
 
 ---
 
-**[Bitcoin miner MARA sold $1.5 billion of bitcoin as it shifts toward AI infrastructure](https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure)**
+**[Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices backing off](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-backing-off-113324298.html)**
 
-While the miner said bitcoin remains its operational foundation, first-quarter results point to a company increasingly built around power, data centers and AI demand.
+Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday’s opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from Monday’s opening price.
 
-CoinDesk • 49m ago
+Yahoo Finance • 24m ago
+
+---
+
+**[Exodus dumps 1,000 bitcoin: Why the crypto wallet is cashing out to fund a payments empire](https://www.coindesk.com/business/2026/05/12/exodus-dumps-1-000-bitcoin-why-the-crypto-wallet-is-cashing-out-to-fund-a-payments-empire)**
+
+Exodus sold $73.2M in crypto, causing cash, cash equivalents, and stablecoins to jump from $5.2M to $74.4M by the end of Q1 2026.
+
+CoinDesk • 14m ago
+
+---
+
+**[Bitcoin, ether fall as traders react to rising Middle East tensions](https://www.coindesk.com/markets/2026/05/12/bitcoin-hovers-above-key-support-as-equities-and-crypto-retreat)**
+
+Bitcoin and ether fell as escalating Middle East tensions lifted oil and the dollar, though BTC continued to hold above a key bull market level.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -195,7 +205,7 @@ CoinDesk • 49m ago
 
 Katie Stockton of Fairlead Strategies breaks down the charts on this crypto-tied names.
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
@@ -203,33 +213,27 @@ CNBC • 16h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 20h ago
-
----
-
-**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
-
-Bloomberg.com • 4h ago
+Fortune • 22h ago
 
 ---
 
 **[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 18h ago
 
 ---
 
-**[Bitcoin Falls as Fragile U.S.-Iran Cease-Fire Weighs](https://www.barrons.com/livecoverage/stock-market-news-today-051226/card/bitcoin-falls-as-fragile-u-s-iran-cease-fire-weighs-PhyGkHq7pTOxX1ZfB4yc)**
+**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
 
-Barron's • 1h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**['A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin](https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin)**
+**[Bitcoin Price Holds Near $82,000 As ETF Inflows Surge And CLARITY Act Battle Intensifies](https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000)**
 
-Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.
+Bitcoin price is trading around $82,000, moving in a narrow range as strong ETF inflows and regulatory uncertainty dominate market sentiment.
 
-CoinDesk • 13h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -247,7 +251,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 **[Thomas Massie for Congress accepts Bitcoin donations](https://news.ycombinator.com/item?id=48104204)**
 
-⬆️ 2 • 💬 1 • 5h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
+⬆️ 2 • 💬 1 • 7h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
 
 ---
 
@@ -255,7 +259,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 How Deblock integrated instant, non-custodial bitcoin into their neobank using the Breez SDK, serving 300,000 users across Europe.
 
-⬆️ 1 • 💬 0 • 3h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
+⬆️ 2 • 💬 0 • 5h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
 
 ---
 
@@ -309,7 +313,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 2K • 💬 70 • ⏱️ 16:20 • 12h ago
+👁️ 38K • 👍 2K • 💬 70 • ⏱️ 16:20 • 14h ago
 
 ---
 
@@ -319,17 +323,7 @@ EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade cr
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 172 • ⏱️ 10:40 • 10h ago
-
----
-
-**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
-
-Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
-
-📺 Swan Bitcoin
-
-👁️ 7K • 👍 523 • 💬 77 • ⏱️ 15:52 • 16h ago
+👁️ 36K • 👍 2K • 💬 284 • ⏱️ 10:40 • 12h ago
 
 ---
 
@@ -339,7 +333,17 @@ The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 79K • 👍 6K • 💬 498 • ⏱️ 9:29 • 19h ago
+👁️ 82K • 👍 6K • 💬 518 • ⏱️ 9:29 • 22h ago
+
+---
+
+**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
+
+Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
+
+📺 Swan Bitcoin
+
+👁️ 7K • 👍 554 • 💬 126 • ⏱️ 15:52 • 19h ago
 
 ---
 
@@ -349,7 +353,17 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 247 • ⏱️ 51:34 • 19h ago
+👁️ 19K • 👍 1K • 💬 268 • ⏱️ 51:34 • 21h ago
+
+---
+
+**[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
+
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
+
+📺 Crypto Banter
+
+👁️ 41K • 👍 2K • 💬 55 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -363,23 +377,13 @@ Michael Saylor finally explains what he actually meant by “never sell your Bit
 
 ---
 
-**[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
-
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
-
-📺 Crypto Banter
-
-👁️ 40K • 👍 2K • 💬 54 • ⏱️ 16:15 • 1d ago
-
----
-
 **[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
 
 Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 185 • ⏱️ 8:11 • 1d ago
+👁️ 21K • 👍 1K • 💬 184 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -389,17 +393,17 @@ Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all 
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 265 • ⏱️ 15:10 • 12h ago
+👁️ 31K • 👍 2K • 💬 440 • ⏱️ 15:10 • 14h ago
 
 ---
 
-**[🚨 Bitcoin Just Closed Its Most Bullish Weekly Candle of 2026 And Nobody Believes It](https://www.youtube.com/watch?v=yDpnZBMi4Vg)**
+**[Bitcoin: Comparing Cycles, What&#39;s Been Difficult...](https://www.youtube.com/watch?v=Li3m6eEWECA)**
 
-Bitcoin just closed one of the strongest weekly candles of 2026 — and yet the majority of the market remains cautious, skeptical, ...
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
 
-📺 DataDash
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 230 • 💬 43 • ⏱️ 17:11 • 18h ago
+👁️ 6K • 👍 159 • 💬 2 • ⏱️ 1:00 • 19h ago
 
 ---
 

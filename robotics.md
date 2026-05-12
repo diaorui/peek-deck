@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-12T09:41:00.864086+00:00'
+updated: '2026-05-12T11:57:43.460183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 12, 2026 at 09:41 UTC  
+**Last Updated:** May 12, 2026 at 11:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announced the world’s first mass-produced manned mecha meant for civilian travel. Weight: ~500kg (with pilot). Feature: It actually transforms from bipedal to quadruped. Price: starting at 3.95 million in Chinese RMB (around 581.3k USD)
 
-5h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announce
 
 Ok so I was debugging someone's code last week. They replaced PID loop with neural network. Why?? It was slower, harder to debug, and not even better. I think just looked cool in the presentation lol I get it, ML is great for perception, manipulation, stuff you can't just write rules for. But for control loop? Come on. PID, LQR, MPC – predictable, you know what they do, you can fix them at 3am when everything is on fire. Also somebody will need to maintain this code in 3 years. Good luck explaining neural network to that person:) But maybe I am missing something here. Anyone actually replaced classical control with ML and was happy with result?
 
-2h ago
+4h ago
 
 ---
 
@@ -52,7 +52,15 @@ Ok so I was debugging someone's code last week. They replaced PID loop with neur
 
 Over the past year, I’ve been recreating Disney’s BD-X Star Wars Robot :) it’s hard itself to walk using reinforcement learning in mjlab and then was able to walk in the real world. I recently uploaded a video on my YouTube explaining the full build process and how I brought it to life :) Feel free to ask me anything!
 
-19h ago
+22h ago
+
+---
+
+**[Low-latency (5 ms) and high update rate (500 Hz) precise (±2cm) indoor positioning solution based on Ultrasound + IMU sensor fusion](https://www.reddit.com/r/robotics/comments/1taww3r/lowlatency_5_ms_and_high_update_rate_500_hz/)**
+
+It is possible to achieve a latency of 5 ms with a location update rate of up to 500 Hz and no drift with the latest Ultrasound + IMU sensor fusion solution, while maintaining ±2cm accuracy. On top, the IMU sensor fusion improves the resilience of the precise indoor positioning system to short occlusions. Here are details and test results: Low-latency real-time IMU sensor fusion for precise indoor positioning systems. Your questions (and criticisms ;-) are highly appreciated.
+
+2h ago
 
 ---
 
@@ -60,13 +68,13 @@ Over the past year, I’ve been recreating Disney’s BD-X Star Wars Robot :) it
 
 Been quietly swapping our usual perception/planning/control stack for an end to end VLA model on a UR style arm + parallel gripper setup. Mostly because my advisor wanted to see if the hype was real, and because two of the open weights releases this spring (pi0.6 and the WALL OSS drop from X Square Robot) actually run on a single 4090 without too much pain. Some stuff that genuinely caught me off guard, in no particular order. The good. Recovery behavior is weirdly fluent. With our old stack, if the grasp slipped we hit a planning re-call and the arm would just stop for ~400ms and then redo the whole motion. The VLA just adjusts mid trajectory the way a person would, it doesnt look like a state machine recovering, it looks like a hand. I have no good explanation for why this is the part that surprised me most, but it is. The annoying. Latency variance is awful at the start. First few hundred episodes of fine tuning, we were seeing 80 to 240 ms inference jitter on the same hardware. Turns out a lot of that was us still feeding it preprocessed depth from our old pipeline, which the model didnt want. Once we just gave it raw RGB and proprio it stabilized. The unexpected. Language conditioning is not magic. "pick up the red one" works. "pick up the red one and put it on the cloth, not the plate" is a coin flip in our setup. Multi clause instructions still fall apart in ways that feel very 2022. I think people see the demos and assume natural langauge is solved, it is very much not, at least not at our scale. The philosophical one. After a while it becomes hard to tell what the model is "doing wrong". With a modular stack, when something fails you can point at it: localization drifted, the planner chose a bad pose, the controller overshot. With end to end you just get a worse rollout and a vague feeling. The interpretability story for VLAs is going to be a real problem for anyone shipping this in safety critical contexts. Not selling anything, not affiliated with the labs releasing these weights. Honestly the main reason I am writing this up is because all the public discourse is either "lab demo of the century" or "it is all teleop", and the actual day to day experience of running one of these things is much more boring and much more interesting than either. If you have run pi0.6, WALL OSS, OpenVLA or anything in that family on real hardware (not sim), drop your weirdest observation. I will collect them and post a follow up if there is enough material.
 
-13h ago
+16h ago
 
 ---
 
 **[Live 'Violence' Testing: Little Guy Has a Good Temper – Doesn’t Get Mad No Matter How Many Times He’s Kicked, Just Dusts Himself Off and Gets Back Up. #Reinforcement Learning.](https://www.reddit.com/r/robotics/comments/1ta6h64/live_violence_testing_little_guy_has_a_good/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -74,15 +82,7 @@ Been quietly swapping our usual perception/planning/control stack for an end to 
 
 Interesting talk by Jim Fan regarding the current trends in general purpose robotics and the types of data / training methods which have led up to now. I think he hit some of the main points regarding the data collection methods (teleop -> glove) and training methodology pretty well. I do think his overall prediction about solving robotics by 2040 is far-fetched. I suppose everyone is a hype man to an extent. His lab does produce some great research work though.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=3Y8aq_ofEVs&list=WL&index=5) • 4h ago
-
----
-
-**[Struggling with high-bandwidth control loops in space-constrained joints. Is there a physical limit?](https://www.reddit.com/r/robotics/comments/1tatnqv/struggling_with_highbandwidth_control_loops_in/)**
-
-I'm working on a 6-DOF slave manipulator for a micro-surgery application. The footprint for the motor controllers is incredibly tight—basically, I need to fit the drive inside a 30mm diameter tube along with the cabling. The issue isn't just the size, though. To get the haptic transparency we need, I'm looking at a 100kHz current loop and at least a 4kHz position loop over EtherCAT. Most of the nano drives I've tested so far start to jitter or show significant phase lag when I push the sampling rates that high, or they just melt because they can't handle the switching losses in such a small enclosure. Has anyone found a drive that actually delivers on high performance claims at this scale?
-
-2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=3Y8aq_ofEVs&list=WL&index=5) • 7h ago
 
 ---
 
@@ -90,23 +90,23 @@ I'm working on a 6-DOF slave manipulator for a micro-surgery application. The fo
 
 3D Visual Servoing Grasping | Full-stack solution launched by PNP Robotics From vision-robot calibration → target recognition → pixel-to-robot coordinate conversion → precise servo control. We build a complete closed-loop pipeline for 3D vision grasping, perfectly suitable for precision assembly, flexible loading & unloading and more industrial scenarios.
 
-8h ago
+10h ago
 
 ---
 
-**[RLDX-1 just dropped, claims dexterity needs missing modalities not more scale](https://www.reddit.com/r/robotics/comments/1ta4eik/rldx1_just_dropped_claims_dexterity_needs_missing/)**
+**[Neuromorphic prediction machine.](https://www.reddit.com/r/robotics/comments/1taysem/neuromorphic_prediction_machine/)**
 
-RLWRLD dropped RLDX-1 last week (https://www.rlwrld.ai/en/rldx-1). Their pitch goes against the current GR00T/π₀ consensus that scaling VLAs eventually gives you dexterity. Their argument: scale can't recover a modality the model was never given. So they built MSAT, each modality (tactile, torque, vision, memory) gets its own stream and fuses late. Sympathetic to the thesis. We've all watched robots fail at basic physical intuition from vision alone. But the way they scale data is via Cosmos-Predict2, which is itself a video world model, so the synthetic pipeline only stretches the vision modality. Tactile and torque still depend on real teleop, which is the actual bottleneck. Wonder how they're handling data curation for the modalities that synthetic can't easily reach. Architecture intuition checks out. Forcing torque and 4-frame video through one trunk means whichever has stronger gradients eats the capacity. But one thing nags me: humans use vision to predict touch before contact. If you train each modality as its own stream, do you lose the cross-modal priors that would help on vision-only hardware? Or does the joint self-attention recover that? The 3DGS-based human data pipeline is the part I'd actually push more people to read. Reconstruct the workspace with Gaussian Splatting, track bare human hands, retarget onto robot hands, roll out in sim. 200+ demos per hour and no awkward DexUMI-style hand-strap rigs. This is where the data engine for dexterity quietly wins or loses. On the "SOTA at 20% of GR00T's compute" claim, grain of salt. Different data mixes, different VLM backbones, tech report not a controlled ablation. Still, 87.5 vs 50 on real conveyor pick-and-place is hard to wave away.
+I am building that, would like your advice on that, what mistakes can I prevent. It’s more about neuromorphic predictions. Identified 8 layers of prediction & error mechanism. Going to engineered in a year. Looking forward for your advice P.S looking for cofounder too.
 
-🔗 [youtu.be](https://youtu.be/xh8UaGT4J5s) • 19h ago
+27m ago
 
 ---
 
-**[Update on the robot game thing... actually help me name this.](https://www.reddit.com/r/robotics/comments/1tab1pu/update_on_the_robot_game_thing_actually_help_me/)**
+**[Struggling with high-bandwidth control loops in space-constrained joints. Is there a physical limit?](https://www.reddit.com/r/robotics/comments/1tatnqv/struggling_with_highbandwidth_control_loops_in/)**
 
-It needs a name, somebody help me make a name for this thing. When it's all said and done , the robotic arm will pick up the ball and put it into a launcher that will then launch it to hit a target and then collect it in the funnel and bring it back to the original point. What would you name something like that? Also,The theme is that you're going to be on the moon.
+I'm working on a 6-DOF slave manipulator for a micro-surgery application. The footprint for the motor controllers is incredibly tight—basically, I need to fit the drive inside a 30mm diameter tube along with the cabling. The issue isn't just the size, though. To get the haptic transparency we need, I'm looking at a 100kHz current loop and at least a 4kHz position loop over EtherCAT. Most of the nano drives I've tested so far start to jitter or show significant phase lag when I push the sampling rates that high, or they just melt because they can't handle the switching losses in such a small enclosure. Has anyone found a drive that actually delivers on high performance claims at this scale?
 
-15h ago
+5h ago
 
 ---
 
@@ -114,9 +114,23 @@ It needs a name, somebody help me make a name for this thing. When it's all said
 
 ## Google News: "robotics"
 
+**[Unitree debuts US$574,000 ‘mecha’ robot that ‘transforms’ from 2 legs to 4](https://www.scmp.com/tech/tech-trends/article/3353262/real-life-transformers-chinas-unitree-debuts-mecha-robot-shifts-2-legs-4)**
+
+South China Morning Post • 3h ago
+
+---
+
+**[RoboStrategy, Inc. Lists on NASDAQ Under Ticker “BOT”, Enabling Investors to Access a Portfolio of Robotics and Physical AI Companies in a Single Stock](https://finance.yahoo.com/markets/stocks/articles/robostrategy-inc-lists-nasdaq-under-110000888.html)**
+
+NEW YORK, May 11, 2026 (GLOBE NEWSWIRE) -- RoboStrategy, Inc. (Nasdaq: BOT), a dedicated investment fund providing concentrated exposure to robotics and physical AI, today announced that its common stock has begun trading on the NASDAQ under the ticker symbol “BOT”. Prior to listing, RoboStrategy’s common stock had not previously traded on a public exchange. The listing became effective following approval by NASDAQ and marks a significant milestone in the fund’s mission to bring institutional-st
+
+Yahoo Finance • 1d ago
+
+---
+
 **[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
 
-The Economist • 16h ago
+The Economist • 18h ago
 
 ---
 
@@ -124,23 +138,15 @@ The Economist • 16h ago
 
 Workers at a five-star hotel fold napkins and wipe silverware with body cameras recording their every move.
 
-AP News • 9h ago
+AP News • 3h ago
 
 ---
 
-**[Robots for America Launches National Coalition to Advance U.S. Robotics Deployment Policy](https://www.businesswire.com/news/home/20260511908908/en/Robots-for-America-Launches-National-Coalition-to-Advance-U.S.-Robotics-Deployment-Policy)**
+**[Video: Figure’s humanoid robots organize room, hang clothes, and make bed without humans](https://interestingengineering.com/ai-robotics/humanoids-team-up-to-make-a-bed)**
 
-In a move to strengthen long-term manufacturing productivity, U.S. government officials asked the robotics industry to organize and deliver a unified plan to...
+Figure humanoids cleaned and organized a bedroom together, completing coordinated tasks in under two minutes.
 
-Business Wire • 19h ago
-
----
-
-**[Are humanoid robots all hype?](https://www.vox.com/podcasts/488050/humanoid-robots-ai-us-china-tesla-hype)**
-
-﻿AI is making them better — but they’re not going to be doing your chores anytime soon.
-
-vox.com • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -148,15 +154,23 @@ vox.com • 22h ago
 
 Unitree aims to go public later this year in a crucial test for android industry
 
-Financial Times • 7h ago
+Financial Times • 9h ago
 
 ---
 
-**[Figure’s Humanoid Robots Tidy a Bedroom, Hinting at Bigger Home Automation Leap](https://www.eweek.com/news/figure-ai-humanoid-robots-bedroom-demo/)**
+**[Are humanoid robots all hype?](https://www.vox.com/podcasts/488050/humanoid-robots-ai-us-china-tesla-hype)**
 
-Figure AI’s latest humanoid robot demo shows two machines tidying a bedroom and making a bed without direct communication.
+﻿AI is making them better — but they’re not going to be doing your chores anytime soon.
 
-eWeek • 17h ago
+vox.com • 1d ago
+
+---
+
+**[Robots for America Launches National Coalition to Advance U.S. Robotics Deployment Policy](https://www.businesswire.com/news/home/20260511908908/en/Robots-for-America-Launches-National-Coalition-to-Advance-U.S.-Robotics-Deployment-Policy)**
+
+In a move to strengthen long-term manufacturing productivity, U.S. government officials asked the robotics industry to organize and deliver a unified plan to...
+
+Business Wire • 21h ago
 
 ---
 
@@ -164,29 +178,13 @@ eWeek • 17h ago
 
 NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
 
-NASA (.gov) • 14h ago
-
----
-
-**[What Serve Robotics (SERV)'s Rapid Q1 Revenue Surge And Wider Losses Mean For Shareholders](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-serv-rapid-q1-200754214.html)**
-
-In early May 2026, Serve Robotics Inc. reported first-quarter 2026 revenue of about US$2.98 million versus US$0.44 million a year earlier, while its net loss widened to roughly US$49.0 million from US$13.22 million and it reaffirmed full-year 2026 revenue guidance of approximately US$26.0 million. The quarter also marked a step change in scale and scope, as Serve expanded to 44 cities across 14 states, grew its robot fleet to around 2,000 units, and moved into healthcare robotics through the...
-
-Yahoo Finance • 1d ago
+NASA (.gov) • 16h ago
 
 ---
 
 **[South Korea Exploring Using Hyundai Robots as Army Numbers Fall](https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)**
-
-Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.
-
-TechCrunch • 22h ago
 
 ---
 
@@ -200,15 +198,17 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 611K • 👍 52K • 💬 5K • ⏱️ 23:53 • 1d ago
+👁️ 617K • 👍 52K • 💬 5K • ⏱️ 23:53 • 1d ago
 
 ---
 
-**[#factory #robot #industrial #robotics #spraying #borunte](https://www.youtube.com/watch?v=YT09DS2VUEw)**
+**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000](https://www.youtube.com/watch?v=oWOyUMJWptc)**
 
-📺 BORUNTE-Robot-Messi
+The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please ...
 
-👁️ 27K • 👍 94 • 💬 3 • ⏱️ 0:14 • 4d ago
+📺 Unitree Robotics
+
+👁️ 71K • 👍 4K • 💬 1K • ⏱️ 1:15 • 6h ago
 
 ---
 
@@ -218,7 +218,7 @@ Balancing commercial goals and robotics research can be tricky, but with Atlas w
 
 📺 Boston Dynamics
 
-👁️ 382K • 👍 21K • 💬 1K • ⏱️ 0:44 • 6d ago
+👁️ 383K • 👍 21K • 💬 1K • ⏱️ 0:44 • 6d ago
 
 ---
 
@@ -228,17 +228,15 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 8K • 👍 149 • 💬 61 • ⏱️ 2:19 • 3d ago
+👁️ 9K • 👍 149 • 💬 61 • ⏱️ 2:19 • 3d ago
 
 ---
 
-**[Building a Running Robot Day 2](https://www.youtube.com/watch?v=apkXoc_MlfI)**
+**[#factory #robot #industrial #robotics #spraying #borunte](https://www.youtube.com/watch?v=YT09DS2VUEw)**
 
-Day 2 of building my first robot, we're looking at the servo for the neck. It's quite large, will have to think how I can fit it in my design.
+📺 BORUNTE-Robot-Messi
 
-📺 Kevin Jeffries
-
-👁️ 7K • 👍 194 • 💬 1 • ⏱️ 0:23 • 23h ago
+👁️ 27K • 👍 94 • 💬 3 • ⏱️ 0:14 • 4d ago
 
 ---
 
@@ -252,43 +250,43 @@ Elon Musk's more affordable version of the Optimus robot is being discussed as a
 
 ---
 
-**[MIT Revived A 40-Year-Old Y-Zipper That Transforms Into Robotic Structures 🔥](https://www.youtube.com/watch?v=PKzfBrq_R64)**
-
-MIT Engineers Revived A 40-Year-Old Y-Zipper That Can Bend Split And Transform Into Robotic Structures Researchers at MIT ...
-
-📺 Techie Sapien
-
-👁️ 157K • 👍 1K • 💬 8 • ⏱️ 0:07 • 8h ago
-
----
-
 **[This Southern California city has an issue with food delivery robots](https://www.youtube.com/watch?v=O7dLeFqZLic)**
 
 You've probably seen them before: those little four-wheeled robots delivering food along sidewalks in communities across SoCal.
 
 📺 KTLA 5
 
-👁️ 31K • 👍 264 • 💬 96 • ⏱️ 2:14 • 6d ago
+👁️ 31K • 👍 265 • 💬 96 • ⏱️ 2:14 • 6d ago
 
 ---
 
-**[Atlas&#39; Balancing Act](https://www.youtube.com/watch?v=nVINf4TWODc)**
+**[Forget About Any Job Forever With This $5,000 AI Robot - It Will Do Everything For You](https://www.youtube.com/watch?v=GBlCDrN7t2s)**
 
-Balancing commercial goals and robotics research can be tricky, but with Atlas we're making it work.
+A new generation of AI robots is being designed to handle everyday tasks with minimal human involvement, from communication ...
 
-📺 Hyundai Motor Group
+📺 Carros Show
 
-👁️ 29K • 👍 76 • 💬 3 • ⏱️ 0:44 • 6d ago
+👁️ 5K • 👍 80 • 💬 15 • ⏱️ 20:56 • 3d ago
 
 ---
 
-**[🤖 Control a Robot Arm with Hand Gesture](https://www.youtube.com/watch?v=FXRmCmsIXwI)**
+**[Atlas&#39; Balancing Act](https://www.youtube.com/watch?v=x4WRa1DDl5E)**
 
-Control a Robot Arm using just hand movement! In this project, I used an Arduino UNO, MPU6050 gyroscope sensor, and servo ...
+Balancing commercial goals and robotics research is tough, but Atlas makes it work.
 
-📺 MW Electronics Lab
+📺 HyundaiWorldwide
 
-👁️ 30K • 💬 7 • ⏱️ 0:05 • 1d ago
+👁️ 5.0M • 👍 13K • 💬 29 • ⏱️ 0:44 • 6d ago
+
+---
+
+**[Building a Running Robot Day 2](https://www.youtube.com/watch?v=apkXoc_MlfI)**
+
+Day 2 of building my first robot, we're looking at the servo for the neck. It's quite large, will have to think how I can fit it in my design.
+
+📺 Kevin Jeffries
+
+👁️ 7K • 👍 202 • 💬 2 • ⏱️ 0:23 • 1d ago
 
 ---
 

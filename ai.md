@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-12T09:41:00.846809+00:00'
+updated: '2026-05-12T11:57:43.442845+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - repositories
 - social
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 12, 2026 at 09:41 UTC  
+**Last Updated:** May 12, 2026 at 11:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[My god there is an enormous crash just waiting to happen](https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/)**
+
+I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compute cost was about 100 dollars. There's something seriously wrong there. It's going to crash and crash HARD.
+
+1h ago
+
+---
+
 **[Palantir to be granted ‘unlimited access’ to NHS patient data](https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/)**
 
 The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.
 
-🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 14h ago
+🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 17h ago
 
 ---
 
@@ -49,23 +57,7 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 As manosphere trends spread across the internet, a strict vision of the ideal woman is making its way from AI makeover apps to surgeons’ offices. Lydia Spencer-Elliott speaks to experts about ‘Stacey face’, which is seen as the highest tier of female beauty
 
-🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 16h ago
-
----
-
-**[Second mass-shooting AI chatbot court case arrives](https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/)**
-
-The court cases alleging AI psychological harm have progressed from originally teen suicide, to adult suicide, to one adult murder-suicide, and most recently in the coordinated set of Stacey v. Altman / M.G. v. Altman / Younge v. Altman cases to adult mass shootings. I recently posted about that set of cases regarding the Tumbler Ridge Mass Shooting in Canada, and you can find that post here. Now another mass-shooting AI chatbot federal case has been brought. On May 10, 2026 the case of Joshi v. OpenAI Foundation, et al. was filed in the Northern District of Florida, concerning the Florida State University shooting in April 2025 in which two were killed and six were wounded. Like the Stacy/M.G./Younge mass-shooting cases, this new case steps back from the more aggressive allegations of earlier chatbot-user-suicide cases that charge the chatbot with taking a well-adjusted user and turning him or her suicidal. All of Stacy/M.G./Younge and now Joshi avoid alleging the chatbot was the instigator of the mass shooting. Instead, they claim the chatbot and the AI company had a “duty to warn,” that they should have detected from the nature of the chatbot communications that the user was troubled and might be planning violence. The Joshi case does go a little further, suggesting that the chatbot in responding to the user’s questions about topics like gun operation and publicity from past shootings, did aid in the planning of the attack, although it is not alleged that the chatbot suggested the user carry out the attack. Because of the less aggressive nature of the claims in all the Stacy/M.G./Younge/Joshi cases, in some ways the farthest case toward chatbot-inspired murder of others is still the case of Lyons v. OpenAI Foundation, et al., now pending in the Northern District of California (with a parallel case pending in state court). Although the plaintiff there concedes the chatbot user was already mentally ill, the plaintiff alleges that user’s interactions with the chatbot is what directly led him to kill his mother and then himself. All these mass-shootings AI cases have just started, and it will likely be a while before anything substantial comes out of them. I will keep you posted. ~~~~~~~~~ Please see the Wombat Collection for a listing of all the AI court cases and rulings.
-
-5h ago
-
----
-
-**[AI turning aggressive generalists into fucking institutions](https://www.reddit.com/r/artificial/comments/1tawkkc/ai_turning_aggressive_generalists_into_fucking/)**
-
-bro this AI coding shit is actually insane. today i spent hours rebuilding the architecture for the Institute for AI Economics website with Codex. and i’m not talking about fake “vibe coding” nonsense. actual architecture: branches PRs Vercel deployments sitemap report infrastructure SEO structure research hub future intelligence pipeline and i fucked it up multiple times lol merged the wrong branch accidentally restored old content basically nuked phase 1 had no clue what was happening for like 20 mins then fixed it rebuilt it merged correctly pushed to production what’s crazy is not the coding part it’s the leverage like… i’m literally building an AI economics think tank while learning software deployment mechanics in real time 5 years ago this would’ve needed: frontend dev backend dev PM SEO person infra guy content strategist now it’s just: me + AI + enough willingness to break shit publicly people still think AI is about “helping developers code faster” nah it’s turning aggressive generalists into fucking institutions the scariest people over the next 5 years are gonna be operators who: think clearly move fast learn publicly tolerate chaos and don’t wait for permission because the cost of building has collapsed so hard it’s almost absurd
-
-2m ago
+🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 19h ago
 
 ---
 
@@ -73,7 +65,7 @@ bro this AI coding shit is actually insane. today i spent hours rebuilding the a
 
 Cybercriminals created a zero-day exploit with AI, the first example of artificial intelligence finding and hacking software for an illicit enterprise, the tech giant says in a new report.
 
-🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 16h ago
+🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 19h ago
 
 ---
 
@@ -89,7 +81,7 @@ This dropped 4 days ago and I haven't seen enough people talking about it. AWS l
 
 Google shared limited information about the attackers and the target, but John Hultquist, chief analyst at the tech giant’s threat intelligence arm, said it represents a moment cybersecurity experts have warned about for years: malicious hackers arming themselves with AI to supercharge their ability to break into the world’s computers. “It’s here,” Hultquist said. “The era of AI-driven vulnerability and exploitation is already here.”
 
-🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 10h ago
+🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 12h ago
 
 ---
 
@@ -97,7 +89,15 @@ Google shared limited information about the attackers and the target, but John H
 
 When Trump last visited China in 2017, artificial intelligence was not yet the centre of global power. Now it is.
 
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link) • 13h ago
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link) • 15h ago
+
+---
+
+**[Second mass-shooting AI chatbot court case arrives](https://www.reddit.com/r/artificial/comments/1taqiby/second_massshooting_ai_chatbot_court_case_arrives/)**
+
+The court cases alleging AI psychological harm have progressed from originally teen suicide, to adult suicide, to one adult murder-suicide, and most recently in the coordinated set of Stacey v. Altman / M.G. v. Altman / Younge v. Altman cases to adult mass shootings. I recently posted about that set of cases regarding the Tumbler Ridge Mass Shooting in Canada, and you can find that post here. Now another mass-shooting AI chatbot federal case has been brought. On May 10, 2026 the case of Joshi v. OpenAI Foundation, et al. was filed in the Northern District of Florida, concerning the Florida State University shooting in April 2025 in which two were killed and six were wounded. Like the Stacy/M.G./Younge mass-shooting cases, this new case steps back from the more aggressive allegations of earlier chatbot-user-suicide cases that charge the chatbot with taking a well-adjusted user and turning him or her suicidal. All of Stacy/M.G./Younge and now Joshi avoid alleging the chatbot was the instigator of the mass shooting. Instead, they claim the chatbot and the AI company had a “duty to warn,” that they should have detected from the nature of the chatbot communications that the user was troubled and might be planning violence. The Joshi case does go a little further, suggesting that the chatbot in responding to the user’s questions about topics like gun operation and publicity from past shootings, did aid in the planning of the attack, although it is not alleged that the chatbot suggested the user carry out the attack. Because of the less aggressive nature of the claims in all the Stacy/M.G./Younge/Joshi cases, in some ways the farthest case toward chatbot-inspired murder of others is still the case of Lyons v. OpenAI Foundation, et al., now pending in the Northern District of California (with a parallel case pending in state court). Although the plaintiff there concedes the chatbot user was already mentally ill, the plaintiff alleges that user’s interactions with the chatbot is what directly led him to kill his mother and then himself. All these mass-shootings AI cases have just started, and it will likely be a while before anything substantial comes out of them. I will keep you posted. ~~~~~~~~~ Please see the Wombat Collection for a listing of all the AI court cases and rulings.
+
+7h ago
 
 ---
 
@@ -125,13 +125,13 @@ The person Meta hired specifically to keep AI aligned with human values just had
 
 OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.
 
-OpenAI • 20h ago
+OpenAI • 22h ago
 
 ---
 
-**[Korea Roils Markets by Floating ‘Citizen Dividend’ From AI Tax](https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls)**
+**[China Seeks A.I. Independence, Weakening Trump’s Leverage](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)**
 
-Bloomberg.com • 1h ago
+The New York Times • 6h ago
 
 ---
 
@@ -139,25 +139,25 @@ Bloomberg.com • 1h ago
 
 Tim Cook and Elon Musk, among other tech CEOS, will accompany the US president on a trip to China
 
-The Guardian • 2h ago
+The Guardian • 4h ago
 
 ---
 
-**[China Seeks A.I. Independence, Weakening Trump’s Leverage](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)**
+**[China Earns $500 Million an Hour From Exports Supercharged by AI](https://www.bloomberg.com/news/articles/2026-05-12/china-earns-500-million-per-hour-from-export-supercharged-by-ai)**
 
-The New York Times • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Investors say they want Trump and Xi to stay out of AI's way](https://www.reuters.com/world/china/investors-say-they-want-trump-xi-stay-out-ais-way-2026-05-12/)**
+**[AI-assisted hacking is already here, Google warns](https://www.axios.com/2026/05/12/ai-hacking-found-google-report)**
 
-Reuters • 1h ago
+Axios • 2h ago
 
 ---
 
 **[Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)**
 
-The New York Times • 20h ago
+The New York Times • 22h ago
 
 ---
 
@@ -165,29 +165,29 @@ The New York Times • 20h ago
 
 Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
-**[AI-assisted hacking is already here, Google warns](https://www.axios.com/2026/05/12/ai-hacking-found-google-report)**
+**[US workers overwhelmingly support union-backed policies on AI, poll says](https://www.theguardian.com/us-news/2026/may/12/workers-ai-policy-unions)**
 
-Axios • 9m ago
+Nine out of 10 workers express support for policies on artificial intelligence that labor unions may fight for
 
----
-
-**[Amazon's race to 'future-proof' AI data centers for power-hungry new tech](https://www.businessinsider.com/amazon-titus-future-proof-ai-data-centers-nvidia-gpus-servers-2026-5)**
-
-Amazon plans $200 billion in capex this year. A chunk of that is being spent on AI data centers. Titus is a plan to 'future proof' these facilities.
-
-Business Insider • 40m ago
+The Guardian • 56m ago
 
 ---
 
-**[AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds](https://fortune.com/2026/05/11/ai-automation-layoffs-gartner-study-roi/)**
+**[Trump and Kennedy Seek to Relax Safeguards for AI Healthcare Tools](https://www.usnews.com/news/health-news/articles/2026-05-12/trump-and-kennedy-seek-to-relax-safeguards-for-ai-healthcare-tools)**
 
-A Gartner study found that while 80% of companies surveyed reported workforce reductions, there was no correlation to higher ROI.
+For years, the Department of Health and Human Services built standards to make sure electronic health records were user-friendly and offered transparent advice to doctors.
 
-Fortune • 17h ago
+U.S. News & World Report • 52m ago
+
+---
+
+**[Korea Roils Markets by Floating ‘Citizen Dividend’ From AI Tax](https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 17h ago
 
 Local AI models should be the default.
 
-⬆️ 1803 • 💬 717 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1810 • 💬 721 • 1d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -207,7 +207,7 @@ Local AI models should be the default.
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 488 • 💬 537 • 12h ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 562 • 💬 603 • 15h ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
@@ -219,7 +219,7 @@ For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 356 • 💬 101 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 359 • 💬 101 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -227,7 +227,7 @@ For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
 Aren't AI hyperscalers supposed to pay for these upgrades?
 
-⬆️ 314 • 💬 200 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+⬆️ 315 • 💬 200 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
 ---
 
@@ -239,27 +239,27 @@ An article about ADHD, Task Paralysis and AI.
 
 ---
 
-**[PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://news.ycombinator.com/item?id=48089263)**
-
-The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
-
-⬆️ 184 • 💬 141 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
-
----
-
-**[Google says criminal hackers used AI to find a major software flaw](https://news.ycombinator.com/item?id=48094641)**
-
-⬆️ 181 • 💬 138 • 20h ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
-
----
-
 **[I let AI build a tool to help me figure out what was waking me up at night](https://news.ycombinator.com/item?id=48100662)**
 
 I try to pay attention to the small things that affect my quality of life. When something keeps bothering me, I want to investigate, find a likely cause, and act on it.
 
 What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
 
-⬆️ 178 • 💬 188 • 12h ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 199 • 💬 210 • 14h ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+
+---
+
+**[Google says criminal hackers used AI to find a major software flaw](https://news.ycombinator.com/item?id=48094641)**
+
+⬆️ 199 • 💬 145 • 22h ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
+
+---
+
+**[PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://news.ycombinator.com/item?id=48089263)**
+
+The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
+
+⬆️ 184 • 💬 142 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 
 ---
 
@@ -267,7 +267,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 161 • 💬 190 • 17h ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 165 • 💬 195 • 20h ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 
 ---
 
@@ -281,7 +281,7 @@ AI chatbots are pulling people into delusions with devastating consequences. Sou
 
 📺 Vanessa Wingårdh
 
-👁️ 124K • 👍 8K • 💬 3K • ⏱️ 15:05 • 1d ago
+👁️ 125K • 👍 8K • 💬 3K • ⏱️ 15:05 • 1d ago
 
 ---
 
@@ -291,7 +291,37 @@ This is a scenario, but here are the sources for the real research referenced: .
 
 📺 Species | Documenting AGI
 
-👁️ 115K • 👍 6K • 💬 1K • ⏱️ 35:15 • 2d ago
+👁️ 116K • 👍 6K • 💬 1K • ⏱️ 35:15 • 2d ago
+
+---
+
+**[Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR](https://www.youtube.com/watch?v=cSyLFn_R3Oo)**
+
+Which Bed Would You Choose for a Dreamy Sleep? 🛏️✨ AI ASMR Relax and unwind after a long day with this dreamy AI ...
+
+📺 PeaceHubASMR
+
+👁️ 282K • 👍 293 • 💬 7 • ⏱️ 2:26 • 1d ago
+
+---
+
+**[I Gave AI Full Control Over the Democrats. Here&#39;s How It BEATS Trump](https://www.youtube.com/watch?v=zX2S7lJs68M)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://links.outskill.com/IAAI 100% Discount for the first 1000 people Dive ...
+
+📺 I Ask AI
+
+👁️ 11K • 👍 1K • 💬 245 • ⏱️ 46:35 • 14h ago
+
+---
+
+**[Self-building AI, job cuts &amp; more | AI roundup](https://www.youtube.com/watch?v=FAyfVZB-3MY)**
+
+AI is accelerating fast — and the consequences are already here. From self-building 'recursive' AI systems to Iran's AI propaganda ...
+
+📺 CNN
+
+👁️ 87K • 👍 1K • 💬 524 • ⏱️ 23:44 • 2d ago
 
 ---
 
@@ -301,17 +331,7 @@ If you're an AI contrarian at your company, resign. Become a member to gain acce
 
 📺 Mo Bitar
 
-👁️ 110K • 👍 9K • 💬 1K • ⏱️ 6:12 • 20h ago
-
----
-
-**[&quot;Three Times BIGGER Than Manhattan&quot; - MEGA AI Data Center Sparks Tech War With Americans](https://www.youtube.com/watch?v=KZyAO-uYJg0)**
-
-Patrick Bet-David covers Utah residents revolting against Kevin O'Leary's 40000‑acre AI data center that's three times the size of ...
-
-📺 Valuetainment
-
-👁️ 60K • 👍 1K • 💬 564 • ⏱️ 16:53 • 14h ago
+👁️ 114K • 👍 9K • 💬 1K • ⏱️ 6:12 • 22h ago
 
 ---
 
@@ -325,53 +345,33 @@ Thanks for watching. Don't forget to like and subscribe! Featuring @DominiqueDan
 
 ---
 
-**[Self-building AI, job cuts &amp; more | AI roundup](https://www.youtube.com/watch?v=FAyfVZB-3MY)**
-
-AI is accelerating fast — and the consequences are already here. From self-building 'recursive' AI systems to Iran's AI propaganda ...
-
-📺 CNN
-
-👁️ 87K • 👍 1K • 💬 517 • ⏱️ 23:44 • 2d ago
-
----
-
-**[Transphobic AI is taking over Youtube...](https://www.youtube.com/watch?v=A-K_VXXnXnk)**
-
-Yeah so it turns out that Youtube has an ai system that is UNAVOIDABLE and it keeps generating transphobic video ideas for ...
-
-📺 NOAHFINNCE
-
-👁️ 40K • 👍 5K • 💬 393 • ⏱️ 22:46 • 1d ago
-
----
-
 **[Anthropic Situation Just Got Even More INSANE](https://www.youtube.com/watch?v=Pf7Y6Tu-Pzc)**
 
 Anthropic just entered one of the strangest moments in AI. Claude is suddenly tied to SpaceX compute, Google Cloud, Amazon, ...
 
 📺 AI Revolution
 
-👁️ 68K • 👍 2K • 💬 171 • ⏱️ 17:08 • 2d ago
+👁️ 68K • 👍 2K • 💬 172 • ⏱️ 17:08 • 2d ago
 
 ---
 
-**[Can I Animate Better Than The World&#39;s Best AI?](https://www.youtube.com/watch?v=_NXVATqxxxs)**
+**[Some AI tools are getting dumber and more expensive](https://www.youtube.com/watch?v=jhTKfzxw3yk)**
 
-Go to https://buyraycon.com/bunayeopen to get 15% off. Thanks to Raycon for sponsoring! In this video, I finish a Jujutsu Kaisen ...
+In recent weeks, AI companies have either tightened up or hiked prices on their subscription services—or throttled access to the ...
 
-📺 Bunaye
+📺 Dave Jorgenson
 
-👁️ 60K • 👍 3K • 💬 566 • ⏱️ 18:37 • 11h ago
+👁️ 448K • 👍 35K • 💬 793 • ⏱️ 3:00 • 12h ago
 
 ---
 
-**[Why You Should Bet On Local AI Fine-Tuning](https://www.youtube.com/watch?v=rOOhe1_ZfD0)**
+**[f*ck it. ZERO to $1,000/day Dropshipping Using AI (copy me)](https://www.youtube.com/watch?v=W1xTBkGt0VA)**
 
-Get my FREE local AI projects: https://zenvanriel.com/open-source ⚡ Become a high-earning AI engineer: ...
+f*ck it. ZERO to $1000/day Dropshipping Using AI (copy me) Work With Me 1-on-1 (Serious Only): ...
 
-📺 Zen van Riel
+📺 Sharif Mohsin
 
-👁️ 3K • 👍 110 • 💬 7 • ⏱️ 6:53 • 21h ago
+👁️ 9K • 👍 561 • 💬 65 • ⏱️ 18:42 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 157,648 • ❤️ 669 • 3d ago
+⬇️ 157,648 • ❤️ 677 • 3d ago
 
 ---
 
@@ -399,7 +399,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 66,119 • ❤️ 436 • 10h ago
+⬇️ 66,119 • ❤️ 438 • 13h ago
 
 ---
 
@@ -411,7 +411,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 0 • ❤️ 338 • 3h ago
+⬇️ 0 • ❤️ 355 • 5h ago
 
 ---
 
@@ -423,7 +423,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,017,835 • ❤️ 3,870 • 6d ago
+⬇️ 2,017,835 • ❤️ 3,875 • 6d ago
 
 ---
 
@@ -435,7 +435,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 3,418 • ❤️ 256 • 2d ago
+⬇️ 3,418 • ❤️ 259 • 2d ago
 
 ---
 
@@ -459,19 +459,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 9,477 • ❤️ 314 • 15d ago
-
----
-
-**[privacy-filter](https://huggingface.co/openai/privacy-filter)**
-
-*OpenAI*
-
-A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and tunable precision/recall.
-
-`token-classification` `1.4B`
-
-⬇️ 190,993 • ❤️ 1,417 • 19d ago
+⬇️ 9,477 • ❤️ 315 • 15d ago
 
 ---
 
@@ -483,7 +471,19 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 64,008 • ❤️ 227 • 1d ago
+⬇️ 64,008 • ❤️ 228 • 1d ago
+
+---
+
+**[privacy-filter](https://huggingface.co/openai/privacy-filter)**
+
+*OpenAI*
+
+A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and tunable precision/recall.
+
+`token-classification` `1.4B`
+
+⬇️ 190,993 • ❤️ 1,418 • 19d ago
 
 ---
 
@@ -495,7 +495,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,446,478 • ❤️ 1,245 • 18d ago
+⬇️ 2,446,478 • ❤️ 1,246 • 18d ago
 
 ---
 
@@ -581,18 +581,6 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 ---
 
-**[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063)**
-
-*Zhen Fang, Wenxuan Huang, Yu Zeng et al. (11 authors)*
-
-Flow-OPD addresses limitations in Flow Matching text-to-image models through a two-stage alignment approach combining on-policy distillation and manifold anchor regularization, achieving significant improvements in generation quality and alignment metrics.
-
-▲ 81 • 💬 1 • ⭐ 80 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.08063) • [💻 code](https://github.com/CostaliyA/Flow-OPD) • [🔗 project](https://costaliya.github.io/Flow-OPD/)
-
----
-
 **[Adam's Law: Textual Frequency Law on Large Language Models](https://huggingface.co/papers/2604.02176)**
 
 *Hongyuan Adam Lu, Z. L., Victor Wei et al. (8 authors)*
@@ -607,6 +595,31 @@ A novel framework for improving large language model performance through textual
 
 ---
 
+**[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://huggingface.co/papers/2605.08063)**
+
+*Zhen Fang, Wenxuan Huang, Yu Zeng et al. (11 authors)*
+
+Flow-OPD addresses limitations in Flow Matching text-to-image models through a two-stage alignment approach combining on-policy distillation and manifold anchor regularization, achieving significant improvements in generation quality and alignment metrics.
+
+▲ 82 • 💬 1 • ⭐ 101 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.08063) • [💻 code](https://github.com/CostaliyA/Flow-OPD) • [🔗 project](https://costaliya.github.io/Flow-OPD/)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 161 • 💬 2 • ⭐ 62,736 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -617,18 +630,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 54 • 💬 1 • ⭐ 79,741 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[HumanNet: Scaling Human-centric Video Learning to One Million Hours](https://huggingface.co/papers/2605.06747)**
-
-*Yufan Deng, Daquan Zhou*
-
-HumanNet presents a large-scale human-centric video dataset with rich annotations for embodied intelligence, demonstrating that egocentric human video can effectively replace robot data for training vision-language-action models.
-
-▲ 44 • 💬 1 • ⭐ 69 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.06747) • [💻 code](https://github.com/DAGroup-PKU/HumanNet) • [🔗 project](https://dagroup-pku.github.io/HumanNet/)
 
 ---
 
@@ -652,7 +653,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 11.8k • 🔱 770 • 1d ago
+⭐ 11.9k • 🔱 772 • 1d ago
 
 ---
 
@@ -662,7 +663,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.2k • 🔱 470 • 4h ago
+⭐ 6.2k • 🔱 472 • 6h ago
 
 ---
 
@@ -672,7 +673,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 813 • 3h ago
+⭐ 2.8k • 🔱 814 • 6h ago
 
 ---
 
@@ -682,17 +683,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 226 • 8m ago
-
----
-
-**[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)**
-
-Open source CAD skills and harnesses for generating 3D models with your favorite coding agent
-
-`JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
-
-⭐ 2.4k • 🔱 285 • 11h ago
+⭐ 2.5k • 🔱 227 • 2h ago
 
 ---
 
@@ -702,7 +693,17 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.4k • 🔱 234 • 1m ago
+⭐ 2.5k • 🔱 239 • 2h ago
+
+---
+
+**[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)**
+
+Open source CAD skills and harnesses for generating 3D models with your favorite coding agent
+
+`JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
+
+⭐ 2.5k • 🔱 285 • 13h ago
 
 ---
 
@@ -712,7 +713,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.1k • 🔱 219 • 1d ago
+⭐ 2.1k • 🔱 220 • 1d ago
 
 ---
 
@@ -722,7 +723,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.0k • 🔱 129 • 4h ago
+⭐ 2.0k • 🔱 129 • 1m ago
 
 ---
 
@@ -732,7 +733,7 @@ Chrome extension to extract styles from any website and generate DESIGN.md files
 
 `JavaScript` `ai` `chrome` `chrome-extension` `claude` `claude-design`
 
-⭐ 1.9k • 🔱 240 • 17d ago
+⭐ 1.9k • 🔱 241 • 18d ago
 
 ---
 
