@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-12T19:17:47.079536+00:00'
+updated: '2026-05-12T20:58:50.823515+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 19:17 UTC  
+**Last Updated:** May 12, 2026 at 20:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,260.95
+### $2,282.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
+**24h:** -2.5%  
 **7d:** -2.8%  
 **30d:** -3.6%  
 **90d:** +17.3%  
-**1y:** -14.9%  
+**1y:** -15.0%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[eth conferences are getting way too exhausting](https://www.reddit.com/r/ethereum/comments/1tbc0uf/eth_conferences_are_getting_way_too_exhausting/)**
+
+I dont know if anyone else went to any of the big eth events this year but my god the burnout is real. it feels like the whole culture shifted from actually discussing smart contract architecture and scaling solutions to just... massive loud warehouse parties where you cant even hear the person next to you you spend thousands on flights and hotels just to get pitched some vaporware L2 by a guy screaming over a dj set. its honestly just sad. I miss the days when you could just sit down with a few people and geek out over zero knowledge proofs without being treated like exit liquidity Im noticing some groups are finally catching on and ditching the mega-event format entirely. Stumbled across this article the other day about stratosphere and pudgys doing these small private dinners for builders instead of massive convention booths. makes so much more sense tbh. when did our ecosystem become more about throwing the biggest party instead of actually building good infra? kinda hoping the whole space moves back toward smaller curated dinners and meetups because my social battery is completely fried. just wanted to vent because the signal to noise ratio right now is terrible.
+
+1h ago
+
+---
+
 **[Daily General Discussion May 12, 2026](https://www.reddit.com/r/ethereum/comments/1tariy9/daily_general_discussion_may_12_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 2h ago
+🔗 [Clear Signing](https://clearsigning.org/) • 4h ago
 
 ---
 
@@ -88,13 +96,13 @@ The open standard for human-readable transaction signing.
 
 BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 21h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 22h ago
 
 ---
 
 **[Protocol Cluster Updates: May 2026](https://www.reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 1d ago
 
 ---
 
@@ -136,14 +144,6 @@ I have learned the following: solidity basics using cryptozombies smart contract
 
 ---
 
-**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
-
-I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -176,7 +176,23 @@ PR Newswire • 1d ago
 
 The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer.
 
-The Block • 21h ago
+The Block • 23h ago
+
+---
+
+**[Sharplink (SBET) Valuation After Ethereum Treasury Gains And Galaxy Digital On Chain Yield Fund News](https://finance.yahoo.com/news/sharplink-sbet-valuation-ethereum-treasury-201854792.html)**
+
+Sharplink (SBET) has drawn fresh attention after reporting first quarter revenue of US$12.06 million alongside a net loss of US$685.56 million, and outlining an on-chain yield fund partnership with Galaxy Digital centered on its Ethereum treasury. See our latest analysis for Sharplink. At a share price of US$7.76, Sharplink’s recent 30 day share price return of 19.02% and 90 day gain of 16.69% contrast with a year to date decline of 19.92% and a three year total shareholder return that is...
+
+Yahoo Finance • 39m ago
+
+---
+
+**[JPMorgan launching tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=markets.xml&utm_medium=rss)**
+
+The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
+
+The Block • 58m ago
 
 ---
 
@@ -184,23 +200,7 @@ The Block • 21h ago
 
 The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
 
-CoinDesk • 1h ago
-
----
-
-**[Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next?](https://www.tradingview.com/news/cointelegraph:3e997fb7c094b:0-ethereum-derivatives-unfazed-by-defi-hacks-can-eth-hit-2-6k-next/)**
-
-Key takeaways:Ether price rally stalls, but ETH futures far from bearishEther (ETH) price failed to sustain bullish momentum after peaking near $2,380 on Sunday. Repeated failures to break the $2,400 mark over the past four weeks have gradually drained confidence, suggesting professional ETH trader…
-
-TradingView • 2h ago
-
----
-
-**[Ethereum Foundation rolls out support for Clear Signing crypto security solution](https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution)**
-
-Clear Signing is a crypto security feature that aims to simplify transaction descriptions so humans can understand what they're approving.
-
-The Block • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum keeps failing at the $2400 resistance level, and the data shows why: we
 
 📺 Coin Bureau Podcast
 
-👁️ 480 • 👍 20 • ⏱️ 1:11 • 3h ago
+👁️ 480 • 👍 20 • ⏱️ 1:11 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks d
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 268 • 💬 29 • ⏱️ 23:49 • 12h ago
+👁️ 4K • 👍 268 • 💬 29 • ⏱️ 23:49 • 14h ago
 
 ---
 
@@ -264,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 350 • 👍 12 • 💬 18 • ⏱️ 4:54 • 10h ago
+👁️ 350 • 👍 12 • 💬 18 • ⏱️ 4:54 • 12h ago
 
 ---
 
@@ -274,7 +274,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 236 • 💬 26 • ⏱️ 14:41 • 13h ago
+👁️ 2K • 👍 236 • 💬 26 • ⏱️ 14:41 • 14h ago
 
 ---
 
@@ -294,7 +294,7 @@ In today's Pro Charts: Crypto update, verified pro trader Lawton Ho breaks down 
 
 📺 Verified Pro Traders
 
-👁️ 2K • 👍 142 • 💬 4 • ⏱️ 8:56 • 21h ago
+👁️ 2K • 👍 142 • 💬 4 • ⏱️ 8:56 • 22h ago
 
 ---
 
@@ -322,7 +322,7 @@ TOP 3 COINS going to ZERO before 2030.
 
 📺 Cointalkpodcast
 
-👁️ 128 • 👍 6 • 💬 1 • ⏱️ 0:54 • 52m ago
+👁️ 128 • 👍 6 • 💬 1 • ⏱️ 0:54 • 2h ago
 
 ---
 

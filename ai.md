@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-12T19:17:47.064269+00:00'
+updated: '2026-05-12T20:58:50.810763+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 12, 2026 at 19:17 UTC  
+**Last Updated:** May 12, 2026 at 20:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,17 +39,9 @@ AI news, discussions, and developments
 
 **[My god there is an enormous crash just waiting to happen](https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/)**
 
-I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compute cost was about 100 dollars. There's something seriously wrong there. It's going to crash and crash HARD.
+I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compute cost was about 100 dollars. There's something seriously wrong there. It's going to crash and crash HARD. EDIT: cause people think i'm lying or are just interested. The spreadsheet had 45 sheets. Each sheet had roughly 500 x 50 populated cells. Formatting was not exactly standard across all sheets. The prompt was something like "there is labelled column in each sheet, give me a simple list of all the items from all the sheets in that column and ignore duplicates." We can chose which model to use. The model I chose was one of the newer ones, I honestly can't remember which one, possibly GPT 5.3. It took 5 minutes or more to so and the stated cost for the task was 10 dollars, possibly even more. I can't recall the token amount. EDIT 2: I just asked web GPT to estimate the cost of the above on a newer version of GPT and it came back with 17 dollars for GPT 4 and above. Try it yourself.
 
-9h ago
-
----
-
-**[Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability](https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/)**
-
-AI is quickly becoming a major tool in the world of cybersecurity, and a new report from Google suggests things are getting more serious.
-
-🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 3h ago
+10h ago
 
 ---
 
@@ -57,7 +49,15 @@ AI is quickly becoming a major tool in the world of cybersecurity, and a new rep
 
 What it does: Agents gather and curate data and send to a wifi-enabled receipt printer (phenol-free paper) At 1:00am a cron triggers generation of data for all 3 kids (unique data sources per kid where applicable). A sidecar web service renders the data to templates, screenshots it, converts it to 1-bit with dithering and saves it back to the agent’s thread filesystem. Button presses (one per kid) then find a matching report for today's date (and trigger a generation if it's missing for some reason) and send it to the printer. Delay between button press and print is between 2-5 seconds. Morning daily briefs per kid at the press of a button! Fun, and the kids love it! (This demo print is using mock child data — not real information).
 
-31m ago
+2h ago
+
+---
+
+**[Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability](https://www.reddit.com/r/artificial/comments/1tb5quh/google_detects_hackers_using_aigenerated_code_to/)**
+
+AI is quickly becoming a major tool in the world of cybersecurity, and a new report from Google suggests things are getting more serious.
+
+🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 5h ago
 
 ---
 
@@ -69,25 +69,27 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 ---
 
+**[AI May Reshape Institutions More Than It Replaces Jobs](https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/)**
+
+I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
+
+7h ago
+
+---
+
+**[Anti-AI Workplaces](https://www.reddit.com/r/artificial/comments/1tbczco/antiai_workplaces/)**
+
+Question for those of you who use AI: How do you handle bosses who hate AI? Or workplaces that show strong AI bias? Are those workplaces making any efforts to make processes less complicated so people won't feel the need to use AI to keep up with demands? This could be things like creating templates and workflows. I think AI wouldn't have as strong of a grip if companies actually spent time on information architecture, but they didn't and now SOME want to complain about workers adapting to the lack of structure. Edited to add: I am pro-AI, but just speaking to why I think there's so much push back from some companies.
+
+56m ago
+
+---
+
 **[The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards](https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/)**
 
 As manosphere trends spread across the internet, a strict vision of the ideal woman is making its way from AI makeover apps to surgeons’ offices. Lydia Spencer-Elliott speaks to experts about ‘Stacey face’, which is seen as the highest tier of female beauty
 
 🔗 [The Independent](https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial) • 1d ago
-
----
-
-**[AI May Reshape Institutions More Than It Replaces Jobs](https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/)**
-
-I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
-
-6h ago
-
----
-
-**[China Sought Access to Anthropic’s Newest A.I. The Answer Was No.](https://www.reddit.com/r/artificial/comments/1tb3kzh/china_sought_access_to_anthropics_newest_ai_the/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html) • 4h ago
 
 ---
 
@@ -103,15 +105,13 @@ Cybercriminals created a zero-day exploit with AI, the first example of artifici
 
 Google shared limited information about the attackers and the target, but John Hultquist, chief analyst at the tech giant’s threat intelligence arm, said it represents a moment cybersecurity experts have warned about for years: malicious hackers arming themselves with AI to supercharge their ability to break into the world’s computers. “It’s here,” Hultquist said. “The era of AI-driven vulnerability and exploitation is already here.”
 
-🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 19h ago
+🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 21h ago
 
 ---
 
-**[Which "personality" should I give Claude?](https://www.reddit.com/r/artificial/comments/1tb6mna/which_personality_should_i_give_claude/)**
+**[China Sought Access to Anthropic’s Newest A.I. The Answer Was No.](https://www.reddit.com/r/artificial/comments/1tb3kzh/china_sought_access_to_anthropics_newest_ai_the/)**
 
-I've been using Claude Pro for about a month now, and I now want to try and assign it a "personality". I've narrowed it down to 4 pop-culture characters that have artificial intelligence as a central aspect of their identity, having chosen these because this fact would theoretically make these easiest for Claude to adopt: -Cortana from the *Halo* franchise -Data from the *Star Trek* franchise -HK47 from the *Star Wars* franchise -Jarvis from the *Marvel* franchise Optimally, I'd go for a combination of all 4, but in the community's experience and/or opinion, which ought I choose?
-
-2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html) • 6h ago
 
 ---
 
@@ -119,33 +119,19 @@ I've been using Claude Pro for about a month now, and I now want to try and assi
 
 ## Google News: "ai"
 
-**[Opinion | The Shared Feeling of Being Harvested by the Future](https://www.nytimes.com/2026/05/12/opinion/us-china-ai-future.html)**
-
-The New York Times • 10h ago
-
----
-
-**[Introducing Googlebook, designed for Gemini Intelligence](https://blog.google/products-and-platforms/platforms/android/meet-googlebook/)**
-
-We’re introducing Googlebook, a new category of laptops designed for Gemini Intelligence and perfectly in sync with your Android phone.
-
-blog.google • 2h ago
-
----
-
 **[AI coders are carrying half-open laptops through airports, offices, and ice rinks](https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5)**
 
 Techies are walking with their laptops open to keep their agents running. They told Business Insider their stories, from offices to school halls.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
-**[Googlebook Is Google’s New AI-Powered Laptop Platform Built on Android](https://www.wired.com/story/googlebook-laptop-platform/)**
+**[Laid off GM employees describe ominous meeting, AI and severance](https://www.cnbc.com/2026/05/12/gm-layoffs-ai-severance.html)**
 
-They won’t replace Chromebooks, but Googlebooks have an Android-centered operating system, AI-first features like the Magic Pointer, and a promise of desktop-grade apps.
+General Motors employees who were laid off Monday described their job terminations to CNBC.
 
-WIRED • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -153,7 +139,15 @@ WIRED • 2h ago
 
 UCF graduation speaker Gloria Caulfield was booed offstage after making comments about artificial intelligence at an arts and humanities ceremony.
 
-Fox News • 38m ago
+Fox News • 2h ago
+
+---
+
+**[Florida students boo graduation speaker who called AI ‘next Industrial Revolution’](https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai)**
+
+Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’
+
+The Guardian • 22m ago
 
 ---
 
@@ -161,33 +155,45 @@ Fox News • 38m ago
 
 A University of Central Florida graduation speaker was booed by students after calling the AI boom “the next Industrial Revolution.”
 
-The Cut • 4h ago
+The Cut • 5h ago
 
 ---
 
-**[UCF grads boo commencement speaker who praised AI](https://www.wfla.com/news/florida/ucf-grads-boo-commencement-speaker-who-praised-ai/)**
+**[Wall Street’s record-setting run halts as AI stocks slump and oil prices rise](https://www.latimes.com/business/story/2026-05-12/wall-streets-record-setting-run-halts-as-ai-stocks-slump-oil-prices-rise)**
 
-WFLA • 1h ago
+A sudden halt for technology stocks put the brakes on Wall Street's record-setting run.
 
----
-
-**[Anthropic expands Claude's AI tools for law firms, lawyers](https://www.reuters.com/legal/litigation/anthropic-expands-claudes-ai-tools-law-firms-lawyers-2026-05-12/)**
-
-Reuters • 1h ago
+Los Angeles Times • 32m ago
 
 ---
 
-**[Anthropic expands Claude legal AI tools for law firms](https://qz.com/anthropic-claude-legal-ai-tools-law-firms-051226)**
+**[Swap Storefront Delivers 2X Conversion Rates As Brands Embrace AI-Powered Commerce](https://www.forbes.com/sites/sharonedelson/2026/05/12/swap-storefront-delivers-2x-conversion-rates-as-brands-embrace-ai-powered-commerce/)**
 
-The company launched 12 new plugins and a set of MCP connectors linking Claude to Thomson Reuters, Harvey, DocuSign, and other legal platforms
+Swap launched the first agentic storefront, a new AI-powered sales channel that lives separately from a brand’s existing website and converts shoppers more effectively.
 
-qz.com • 4m ago
+Forbes • 8m ago
+
+---
+
+**[How AI Killed a 133-Year-Old Princeton Tradition](https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/)**
+
+The school’s famous Honor Code was no match for chatbot-enabled cheating.
+
+The Atlantic • 4h ago
 
 ---
 
 **[Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?](https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
+
+---
+
+**[Google races to put Gemini at the center of Android before Apple’s AI reboot](https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html)**
+
+Google is using its latest Android rollout to position Gemini as the AI layer across phones, Chrome, laptops and cars.
+
+CNBC • 1h ago
 
 ---
 
@@ -199,7 +205,7 @@ The New York Times • 3h ago
 
 Local AI models should be the default.
 
-⬆️ 1835 • 💬 729 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1836 • 💬 731 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -207,13 +213,13 @@ Local AI models should be the default.
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 812 • 💬 852 • 22h ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 831 • 💬 883 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 363 • 💬 107 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 364 • 💬 107 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -231,7 +237,7 @@ I try to pay attention to the small things that affect my quality of life. When 
 
 What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
 
-⬆️ 259 • 💬 274 • 22h ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 260 • 💬 273 • 23h ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
 
 ---
 
@@ -245,7 +251,15 @@ An article about ADHD, Task Paralysis and AI.
 
 **[Google says criminal hackers used AI to find a major software flaw](https://news.ycombinator.com/item?id=48094641)**
 
-⬆️ 231 • 💬 172 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
+⬆️ 233 • 💬 171 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
+
+---
+
+**[Amazon employees are "tokenmaxxing" due to pressure to use AI tools](https://news.ycombinator.com/item?id=48110529)**
+
+Workers are using an internal AI tool to automate non-essential tasks.
+
+⬆️ 196 • 💬 196 • 4h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -254,14 +268,6 @@ An article about ADHD, Task Paralysis and AI.
 The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
 
 ⬆️ 184 • 💬 142 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
-
----
-
-**[Amazon employees are "tokenmaxxing" due to pressure to use AI tools](https://news.ycombinator.com/item?id=48110529)**
-
-Workers are using an internal AI tool to automate non-essential tasks.
-
-⬆️ 177 • 💬 157 • 2h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -283,7 +289,7 @@ This is a scenario, but here are the sources for the real research referenced: .
 
 📺 Species | Documenting AGI
 
-👁️ 122K • 👍 6K • 💬 1K • ⏱️ 35:15 • 2d ago
+👁️ 122K • 👍 6K • 💬 1K • ⏱️ 35:15 • 3d ago
 
 ---
 
@@ -293,7 +299,7 @@ Google Chrome apparently installs a 4GB AI agent on your computer without explic
 
 📺 Clownfish TV
 
-👁️ 32K • 👍 3K • 💬 679 • ⏱️ 17:46 • 15h ago
+👁️ 32K • 👍 3K • 💬 679 • ⏱️ 17:46 • 17h ago
 
 ---
 
@@ -303,7 +309,7 @@ Wanna get ALL free resources from this video? Go here: https://davidondrej.com/u
 
 📺 David Ondrej
 
-👁️ 50K • 👍 2K • 💬 174 • ⏱️ 22:54 • 22h ago
+👁️ 50K • 👍 2K • 💬 174 • ⏱️ 22:54 • 1d ago
 
 ---
 
@@ -313,7 +319,7 @@ Create Your Own Fashion AI Ads with OpenArt ...
 
 📺 Isa does AI
 
-👁️ 8K • ⏱️ 9:47 • 7h ago
+👁️ 8K • ⏱️ 9:47 • 8h ago
 
 ---
 
@@ -333,7 +339,7 @@ Gemini vs Claude is finally settled with Google Stitch and Claude Design going h
 
 📺 AI LABS
 
-👁️ 2K • 👍 74 • 💬 7 • ⏱️ 10:46 • 5h ago
+👁️ 2K • 👍 74 • 💬 7 • ⏱️ 10:46 • 6h ago
 
 ---
 
@@ -401,7 +407,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 66,119 • ❤️ 447 • 20h ago
+⬇️ 66,119 • ❤️ 447 • 22h ago
 
 ---
 
@@ -413,7 +419,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 0 • ❤️ 387 • 12h ago
+⬇️ 0 • ❤️ 387 • 14h ago
 
 ---
 
@@ -537,7 +543,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 15 • 💬 3 • ⭐ 149 • 1d ago
+▲ 15 • 💬 3 • ⭐ 149 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -551,7 +557,7 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 19 • 💬 3 • ⭐ 11,053 • 24d ago
+▲ 19 • 💬 3 • ⭐ 11,053 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -579,7 +585,7 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 107 • 💬 10 • ⭐ 8,969 • 8d ago
+▲ 107 • 💬 10 • ⭐ 8,969 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -617,7 +623,7 @@ A novel framework for improving large language model performance through textual
 
 Flow-OPD addresses limitations in Flow Matching text-to-image models through a two-stage alignment approach combining on-policy distillation and manifold anchor regularization, achieving significant improvements in generation quality and alignment metrics.
 
-▲ 83 • 💬 1 • ⭐ 101 • 4d ago
+▲ 83 • 💬 1 • ⭐ 101 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.08063) • [💻 code](https://github.com/CostaliyA/Flow-OPD) • [🔗 project](https://costaliya.github.io/Flow-OPD/)
 
@@ -666,7 +672,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.2k • 🔱 473 • 13h ago
+⭐ 6.2k • 🔱 473 • 15h ago
 
 ---
 
@@ -676,7 +682,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 826 • 39m ago
+⭐ 2.9k • 🔱 826 • 2h ago
 
 ---
 
@@ -686,7 +692,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.6k • 🔱 251 • 2h ago
+⭐ 2.6k • 🔱 251 • 3h ago
 
 ---
 
@@ -696,7 +702,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 228 • 6h ago
+⭐ 2.5k • 🔱 228 • 8h ago
 
 ---
 
@@ -706,7 +712,7 @@ Open source CAD skills and harnesses for generating 3D models with your favorite
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.5k • 🔱 286 • 21h ago
+⭐ 2.5k • 🔱 286 • 23h ago
 
 ---
 
@@ -726,7 +732,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.0k • 🔱 131 • 5h ago
+⭐ 2.0k • 🔱 131 • 7h ago
 
 ---
 

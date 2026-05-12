@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-12T19:17:47.073351+00:00'
+updated: '2026-05-12T20:58:50.818321+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 19:17 UTC  
+**Last Updated:** May 12, 2026 at 20:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,798.96
+### $80,655.57
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.3%  
-**7d:** -0.8%  
-**30d:** +8.5%  
-**90d:** +22.0%  
-**1y:** -22.5%  
+**7d:** -0.9%  
+**30d:** +8.4%  
+**90d:** +21.8%  
+**1y:** -22.6%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Square Crosses 1 Million Bitcoin-Enabled Merchants As Real-World Adoption Continues To Grow](https://www.reddit.com/r/Bitcoin/comments/1tbbj35/square_crosses_1_million_bitcoinenabled_merchants/)**
+
+Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchants now enabled to accept Bitcoin payments. The figure, cited by a member of Block’s team, reflects a wave of auto-enrollment that began March 30, when Square automatically switched on BTC payments by default for eligible U.S. sellers. At its peak pace, a new business was activating the feature every eight seconds. The rollout is powered by the Lightning Network, enabling near-instant settlement while merchants receive U.S. dollars by default, removing currency risk from the equation. In other words, customers can pay in Bitcoin via Lightning while merchants still receive USD settlements, with the system handling conversion in the background and allowing sellers to opt out if needed. At the Bitcoin Conference in Las Vegas, Block outlined an expanded push to make bitcoin usable as everyday money rather than simply a long-term investment. Speaking on the Nakamoto Stage, Bitcoin Product Lead Miles Suter said BTC “must circulate, not just sit still,” arguing that the cryptocurrency loses its transformational value if it does not function as peer-to-peer cash. Suter highlighted Block’s growing adoption metrics, revealing at the time that there were more than 800,000 Square merchants who now have BTC payments auto-enrollment enabled. This number seems to be above According to Suter, a new business activates the feature every eight seconds. The company is also rolling out a tap-to-pay BTC feature using NFC hardware and the Lightning Network, eliminating QR codes and offering zero processing fees through 2026. The company’s broader strategy centers on integrating bitcoin across its ecosystem. Cash App users can now automatically convert peer-to-peer payments into BTC, earn 5% Bitcoin Back rewards at Square merchants, and withdraw up to $10,000 per day and $25,000 per week. Block also introduced an updated Bitkey hardware wallet featuring a touchscreen and 2-of-3 multisig security model designed to simplify self-custody. Alongside the product announcements, Block released its Q1 2026 proof-of-reserves report showing holdings of 28,355.05 BTC worth roughly $2.2 billion.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants) • 1h ago
+
+---
+
 **[You just need Bitcoin ✨👑](https://www.reddit.com/r/Bitcoin/comments/1taricr/you_just_need_bitcoin/)**
 
 The Best crypto out there 😉
 
-14h ago
+15h ago
 
 ---
 
@@ -89,7 +97,7 @@ The Best crypto out there 😉
 
 My son deposited 42 BTC at MtGox in 2012 and subsequently became disabled. We are now caring for him and started to communicate with Gox last year. They told us we missed the filing deadline, but not to worry… “there’s only dust left in the account”. No accounting, no detailed explanation as a bank would do. Now we finally get his old email back and come to find some Gox confirmations with block chain address references, but not all the deposits have email confirmations. The address was swept clean after each deposit. There’s only 2 email withdrawal confirms, and those are prior to actual deposits into the blockchain address. I am convinced Gox’s ledger balance is wrong. My son who is now disabled did not have access to his email account and never was aware of the restructuring. Even if he would have received legal notices, he did not have the mental capacity to understand it. I’ve tried to convey all these things to Mt Gox, but their response is basically “sorry, we can’t do anything after the deadline, go see a lawyer” Are there Mt Gox experienced lawyers that work on a contingent basis. We don’t have the means to hire an hourly Japanese lawyer.
 
-6h ago
+8h ago
 
 ---
 
@@ -97,7 +105,15 @@ My son deposited 42 BTC at MtGox in 2012 and subsequently became disabled. We ar
 
 I have one BTC. I have a minivan. I've been thinking of selling my house paying off bills and living in my van for two years and taking the money to buy two more BTC. Has anyone done this?
 
-14h ago
+16h ago
+
+---
+
+**[Stripe is becoming a centralized platform](https://www.reddit.com/r/Bitcoin/comments/1tbbqmf/stripe_is_becoming_a_centralized_platform/)**
+
+If you look at Stripe's acquisition spree over the last year you might think it’s just good business but if you dig into it it’s not really that good for the builders. They bought Bridge for stablecoin infrastructure then Privy for embedded wallets and then built Tempo their own Layer 1 blockchain because existing chains according to them weren't optimized for their volume. Every layer of the crypto payments stack is now owned by Stripe or controlled by them. That's not a diversified infrastructure that's an entire platform. The concern I have is that it seems the more you integrate the harder it is to leave. Your stablecoin rails, your wallet custody or your settlement chain, all the same vendor. If I wanted a centralized platform I’d never get into stablecoin or crypto at all. Even Tempo's testnet launched with four validators run by the Tempo team. Right now it's a private chain with a public-sounding name. Builders who prioritized flexibility and chain-agnosticism two years ago look pretty smart today.
+
+1h ago
 
 ---
 
@@ -105,7 +121,7 @@ I have one BTC. I have a minivan. I've been thinking of selling my house paying 
 
 There are teenagers and pre-teens today who are growing into a world where Bitcoin has always existed, for them. For them, bitcoin is not some strange new experiment. It is more like the internet was for many of us: something that was already there, already part of the world, and already understood at a basic level. Our generation grew up with the internet as something that increasingly felt normal. Then, over time, we helped digitize almost everything that had not been digital before: communication, media, shopping, work, banking, money, and now even intelligence. That makes the next generation exciting to think about. If they grow up with bitcoin and blockchain as part of the basic digital landscape, what will they eventually make mainstream? What systems will they rebuild, simplify, or replace once they are the ones leading companies, governments, financial institutions, and communities? Bitcoin does not need everyone to understand it perfectly today. It just needs time to form the sea where oceans, whales, and every living organism can thrive. Because in the end, the sea is more powerful and lasting than any whale living in it.
 
-9h ago
+11h ago
 
 ---
 
@@ -113,15 +129,7 @@ There are teenagers and pre-teens today who are growing into a world where Bitco
 
 came across a few updates recently in the US there are talks in congress about crypto tax rules n the senate banking committee has a draft crypto clarity act out in the UAE residents can now use crypto for some gov payments looks like we’re slowly seeing more structure on the regulation side n more real world use cases at the same time what do u think this actually changes for crypto long term does it speed up adoption or is it mostly just policy noise?
 
-7h ago
-
----
-
-**[Square Crosses 1 Million Bitcoin-Enabled Merchants As Real-World Adoption Continues To Grow](https://www.reddit.com/r/Bitcoin/comments/1tbbj35/square_crosses_1_million_bitcoinenabled_merchants/)**
-
-Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchants now enabled to accept Bitcoin payments. The figure, cited by a member of Block’s team, reflects a wave of auto-enrollment that began March 30, when Square automatically switched on BTC payments by default for eligible U.S. sellers. At its peak pace, a new business was activating the feature every eight seconds. The rollout is powered by the Lightning Network, enabling near-instant settlement while merchants receive U.S. dollars by default, removing currency risk from the equation. In other words, customers can pay in Bitcoin via Lightning while merchants still receive USD settlements, with the system handling conversion in the background and allowing sellers to opt out if needed. At the Bitcoin Conference in Las Vegas, Block outlined an expanded push to make bitcoin usable as everyday money rather than simply a long-term investment. Speaking on the Nakamoto Stage, Bitcoin Product Lead Miles Suter said BTC “must circulate, not just sit still,” arguing that the cryptocurrency loses its transformational value if it does not function as peer-to-peer cash. Suter highlighted Block’s growing adoption metrics, revealing at the time that there were more than 800,000 Square merchants who now have BTC payments auto-enrollment enabled. This number seems to be above According to Suter, a new business activates the feature every eight seconds. The company is also rolling out a tap-to-pay BTC feature using NFC hardware and the Lightning Network, eliminating QR codes and offering zero processing fees through 2026. The company’s broader strategy centers on integrating bitcoin across its ecosystem. Cash App users can now automatically convert peer-to-peer payments into BTC, earn 5% Bitcoin Back rewards at Square merchants, and withdraw up to $10,000 per day and $25,000 per week. Block also introduced an updated Bitkey hardware wallet featuring a touchscreen and 2-of-3 multisig security model designed to simplify self-custody. Alongside the product announcements, Block released its Q1 2026 proof-of-reserves report showing holdings of 28,355.05 BTC worth roughly $2.2 billion.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants) • 5m ago
+9h ago
 
 ---
 
@@ -129,7 +137,7 @@ Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchan
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -137,15 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Stay humble stack sats
 
-19h ago
-
----
-
-**[The #1 thing Coffeezilla gets wrong about Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tbba7m/the_1_thing_coffeezilla_gets_wrong_about_bitcoin/)**
-
-In this video I break down the biggest flaw in Coffeezilla’s argument against Bitcoin and why I believe we are still insanely early
-
-🔗 [youtu.be](https://youtu.be/llvm7RUcFqI) • 14m ago
+20h ago
 
 ---
 
@@ -153,7 +153,7 @@ In this video I break down the biggest flaw in Coffeezilla’s argument against 
 
 People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
 
-🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 23h ago
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 1d ago
 
 ---
 
@@ -165,15 +165,67 @@ People keep saying Bitcoin has no cash flow. That is true. But why assume cash f
 
 Inflation rose to a three-year high in April, according to this morning's Consumer Price Index report.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bhutan government moves another 100 BTC as 2026 bitcoin outflows top $230 million: Arkham](https://www.theblock.co/post/400888/bhutan-government-moves-100-btc-arkham)**
+**[Starknet launches strkBTC to bring ZK-powered shielded bitcoin to its Layer 2 network](https://www.theblock.co/post/400903/starknet-launches-strkbtc-to-bring-zk-powered-shielded-bitcoin-to-its-layer-2-network)**
 
-Bhutan appears to have sold around $50 million in BTC per month this year, Arkham said, but still has $252 million in bitcoin remaining.
+The asset functions as a shielded bitcoin wrapper operating on Starknet rather than on the Bitcoin base layer itself.
 
-The Block • 9h ago
+The Block • 8h ago
+
+---
+
+**[Bitcoin miner MARA sold $1.5 billion of bitcoin as it shifts toward AI infrastructure](https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure)**
+
+While the miner said bitcoin remains its operational foundation, first-quarter results point to a company increasingly built around power, data centers and AI demand.
+
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin Miner MARA Sells $1.5 Billion in BTC, Reports $1.26 Billion Q1 Loss](https://finance.yahoo.com/news/bitcoin-miner-mara-sells-1-194502788.html)**
+
+MARA liquidated Bitcoin holdings to fund debt buybacks and acquire a power plant as it joins the industry shift to AI infrastructure.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin miner CleanSpark's Q2 losses swell after losing $224 million on BTC holdings](https://www.theblock.co/post/400823/bitcoin-miner-cleansparks-q2-losses-swell-after-losing-224-million-on-btc-holdings)**
+
+CleanSpark said Q2 bitcoin mining revenue came in at $136.4 million, a 25% decrease from a year ago when it posted $181.7 million.
+
+The Block • 23h ago
+
+---
+
+**[Fold Holdings Q1 revenue falls on lower Bitcoin prices and transactions](https://www.tradingview.com/news/reuters.com,2026:newsml_L1N41P1G5:0-fold-holdings-q1-revenue-falls-on-lower-bitcoin-prices-and-transactions/)**
+
+OverviewOutlookResult DriversCompany press release:Key DetailsAnalyst CoverageFor questions concerning the data in this report, contact Estimates.Support@lseg.com. For any other questions or feedback, contact reuters.support@thomsonreuters.com.
+
+TradingView • 16m ago
+
+---
+
+**[The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first](https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7)**
+
+MarketWatch • 8h ago
+
+---
+
+**[‘Full Panic Mode’—‘Urgent’ $6.6 Trillion Crypto Warning Issued As Bitcoin Braces For Price Shock](https://www.forbes.com/sites/digital-assets/2026/05/12/full-panic-mode-urgent-66-trillion-crypto-warning-issued-as-bitcoin-braces-for-price-shock/)**
+
+The bitcoin price has topped $82,000 per bitcoin, up from lows of $60,000 in early February...
+
+Forbes • 8h ago
+
+---
+
+**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -181,57 +233,7 @@ The Block • 9h ago
 
 Michael Saylor says the next major step in U.S. crypto legislation could give Bitcoin and digital-asset finance a c...
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Bulls Awaken As Rare Golden Cross Signal Flashes On Charts](https://www.tradingview.com/news/newsbtc:5c3ca6882094b:0-bitcoin-bulls-awaken-as-rare-golden-cross-signal-flashes-on-charts/)**
-
-Analysts believe Bitcoin may still have significant upside ahead, pointing out that a rare signal has appeared on a key valuation metric for the first time in roughly two years — and history suggests it could mark the start of a major price run.A Critical Level In PlayAt around $82,500, Bitcoin is…
-
-TradingView • 4h ago
-
----
-
-**[MARA Dumps $1.5B In Bitcoin As Miner Trades Treasury Hoard For AI Power Bet](https://bitcoinmagazine.com/news/mara-dumps-1-5b-in-bitcoin)**
-
-MARA is cashing in its bitcoin treasury to fund a massive AI and power infrastructure pivot, selling $1.5 billion in BTC as the miner bets its future on data centers and energy assets over pure hashrate expansion.
-
-Bitcoin Magazine • 3h ago
-
----
-
-**[The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first](https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7)**
-
-MarketWatch • 7h ago
-
----
-
-**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
-
-Bloomberg.com • 14h ago
-
----
-
-**[This Bitcoin Price Engine Just Turned Back On](https://www.investors.com/news/bitcoin-price-engine-strategy-mstr-stock-strc-preferred-stock-reclaims-par-value/)**
-
-Investor's Business Daily • 1d ago
-
----
-
-**[Current price of Bitcoin for May 11, 2026](https://fortune.com/article/price-of-bitcoin-05-11-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Strategy just hit a new high for the year. Should you buy the comeback in bitcoin stocks?](https://www.cnbc.com/2026/05/11/strategy-just-hit-a-new-high-for-the-year-should-you-buy-the-comeback-in-bitcoin-stocks.html)**
-
-Katie Stockton of Fairlead Strategies breaks down the charts on this crypto-tied names.
-
-CNBC • 1d ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -243,13 +245,13 @@ CNBC • 1d ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 3d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 4d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
 **[Thomas Massie for Congress accepts Bitcoin donations](https://news.ycombinator.com/item?id=48104204)**
 
-⬆️ 2 • 💬 1 • 14h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
+⬆️ 2 • 💬 1 • 16h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
 
 ---
 
@@ -257,7 +259,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 How Deblock integrated instant, non-custodial bitcoin into their neobank using the Breez SDK, serving 300,000 users across Europe.
 
-⬆️ 2 • 💬 0 • 12h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
+⬆️ 2 • 💬 0 • 14h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
 
 ---
 
@@ -273,7 +275,7 @@ Strategy is shifting from passive bitcoin accumulation to actively managing bala
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 3d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 4d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -303,7 +305,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 76 • ⏱️ 16:20 • 22h ago
+👁️ 48K • 👍 2K • 💬 76 • ⏱️ 16:20 • 23h ago
 
 ---
 
@@ -313,7 +315,7 @@ EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade cr
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 470 • ⏱️ 10:40 • 19h ago
+👁️ 45K • 👍 2K • 💬 470 • ⏱️ 10:40 • 21h ago
 
 ---
 
@@ -323,7 +325,7 @@ Is Bitcoin's price actually predictable? Physicist Giovanni Santostasi, Director
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 398 • 💬 104 • ⏱️ 1:05:20 • 4h ago
+👁️ 4K • 👍 398 • 💬 104 • ⏱️ 1:05:20 • 6h ago
 
 ---
 
@@ -333,7 +335,7 @@ Bitcoin #Crypto #Finance Bitcoin is testing its 200-day SMA near $82K as the Sen
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 436 • 💬 152 • ⏱️ 59:34 • 4h ago
+👁️ 8K • 👍 436 • 💬 152 • ⏱️ 59:34 • 6h ago
 
 ---
 
@@ -343,7 +345,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 843 • 💬 212 • ⏱️ 46:14 • 4h ago
+👁️ 13K • 👍 843 • 💬 212 • ⏱️ 46:14 • 6h ago
 
 ---
 
@@ -353,7 +355,7 @@ THIS Just Shook The Entire Crypto Market! Crypto News You Need To Know! GET AUST
 
 📺 Austin Hilton
 
-👁️ 3K • 👍 211 • 💬 26 • ⏱️ 5:25 • 4h ago
+👁️ 3K • 👍 211 • 💬 26 • ⏱️ 5:25 • 6h ago
 
 ---
 
@@ -393,7 +395,7 @@ Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all 
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 451 • ⏱️ 15:10 • 21h ago
+👁️ 36K • 👍 2K • 💬 451 • ⏱️ 15:10 • 23h ago
 
 ---
 

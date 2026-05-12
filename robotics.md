@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-12T19:17:47.082842+00:00'
+updated: '2026-05-12T20:58:50.826411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 12, 2026 at 19:17 UTC  
+**Last Updated:** May 12, 2026 at 20:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announced the world’s first mass-produced manned mecha meant for civilian travel. Weight: ~500kg (with pilot). Feature: It actually transforms from bipedal to quadruped. Price: starting at 3.95 million in Chinese RMB (around 581.3k USD)
 
-14h ago
+16h ago
 
 ---
 
 **[Made a 3D-Printed 6-Axis Robot Arm from scratch. Autonomous pick and place with OpenCV AI Object Detection, ROS2 and MoveIt2.](https://www.reddit.com/r/robotics/comments/1tb493a/made_a_3dprinted_6axis_robot_arm_from_scratch/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announce
 
 Zach Jackowski, GM of Atlas at Boston Dynamics, talks about how getting humanoids into real environments matters, but running the same behavior at scale is not enough. If a fleet is only doing automotive part sequencing, the resulting dataset will mostly improve performance on that task family. It does not automatically produce broad manipulation generalization. That is why he pushes back on the idea that the path is simply “deploy robots, collect lots of data, and generalization follows.” The harder part is collecting varied, useful data while still operating in controlled enough settings to make the robot commercially useful.
 
-7h ago
+8h ago
 
 ---
 
@@ -58,19 +58,29 @@ Zach Jackowski, GM of Atlas at Boston Dynamics, talks about how getting humanoid
 
 Ok so I was debugging someone's code last week. They replaced PID loop with neural network. Why?? It was slower, harder to debug, and not even better. I think just looked cool in the presentation lol I get it, ML is great for perception, manipulation, stuff you can't just write rules for. But for control loop? Come on. PID, LQR, MPC – predictable, you know what they do, you can fix them at 3am when everything is on fire. Also somebody will need to maintain this code in 3 years. Good luck explaining neural network to that person:) But maybe I am missing something here. Anyone actually replaced classical control with ML and was happy with result?
 
-12h ago
+13h ago
 
 ---
 
 **[Fun with AgenticROS (ROS + OpenClaw + Claude Code)](https://www.reddit.com/r/robotics/comments/1tb3zo3/fun_with_agenticros_ros_openclaw_claude_code/)**
 
-4h ago
+6h ago
 
 ---
 
-**[Due to RAM costs & tariffs, robot prices going up!](https://www.reddit.com/r/robotics/comments/1tb6d5o/due_to_ram_costs_tariffs_robot_prices_going_up/)**
+**[Our 11.5-ton autonomous excavator can now open beers](https://www.reddit.com/r/robotics/comments/1tbb0uc/our_115ton_autonomous_excavator_can_now_open_beers/)**
 
-3h ago
+With some new, hydraulics aware formulation, sub-cm shovel tracking can be achieved in-air and about 1.8cm in soil contact. I guess this makes it a strong contestant for the heaviest bottle opener :D Check out the full video: https://youtu.be/bCOMYbRWv5I And our publication: https://arxiv.org/abs/2605.09465
+
+2h ago
+
+---
+
+**[SO-101 single arm build - how to train ACT without a second leader arm + best CPU simulation alternatives to Isaac Lab?](https://www.reddit.com/r/robotics/comments/1tbdyzr/so101_single_arm_build_how_to_train_act_without_a/)**
+
+​ Hey everyone, Building a SO-101 6-DOF arm for autonomous pick and place with drop recovery. Using LeRobot + ACT policy + ROS2 Jazzy on Ubuntu 24.04. my setup - - Single SO-101 follower arm (can't afford the leader arm) - Lenovo i3 laptop, Intel UHD only, no NVIDIA GPU - PyBullet and MuJoCo working, Isaac Lab is out for me wanted to know - 1.Single arm training : LeRobot normally needs leader + follower. Has anyone trained ACT with just one arm? Keyboard teleoperation? Gamepad? Sim-to-real from MuJoCo? Simulation without GPU— Isaac Lab is unusable on my machine. Is Webots or Genesis viable on Intel UHD? Any ROS2-friendly sim that actually works on CPU? Virtual demo collection — any tool or GitHub repo that lets you move a virtual arm with keyboard/mouse and export as LeRobot-compatible dataset? Drop recovery— using STS3215 servo load register + YOLOv8 wrist camera fusion to detect drops, then FoundationPose for re-grasp. Has anyone done anything similar on cheap hardware? Any gotchas? Any GitHub repos, Discord servers, or tips appreciated 🙏 Stack: ROS2 Jazzy | LeRobot | ACT | PyBullet | MuJoCo | YOLOv8 | FoundationPose | MoveIt2
+
+21m ago
 
 ---
 
@@ -82,27 +92,17 @@ Over the past year, I’ve been recreating Disney’s BD-X Star Wars Robot :) it
 
 ---
 
+**[Due to RAM costs & tariffs, robot prices going up!](https://www.reddit.com/r/robotics/comments/1tb6d5o/due_to_ram_costs_tariffs_robot_prices_going_up/)**
+
+4h ago
+
+---
+
 **[Are robots as good as this dog already?](https://www.reddit.com/r/robotics/comments/1tbb2ru/are_robots_as_good_as_this_dog_already/)**
 
 I found this post incredibly impressive! The amount of commands he understands, his speed, and of course the physical abilities. Do you think it would be possible to train a robot dog that can do these things? I doubt it, because I'm pretty sure the dog would be able to easily transfer his skills to any environment, not just the garage. But I'm also not a robotics expert, so no idea really how good the state of the art is at this point. Certainly the way you would train it would be very different, lol :)
 
-21m ago
-
----
-
-**[Our 11.5-ton autonomous excavator can now open beers](https://www.reddit.com/r/robotics/comments/1tbb0uc/our_115ton_autonomous_excavator_can_now_open_beers/)**
-
-With some new, hydraulics aware formulation, sub-cm shovel tracking can be achieved in-air and about 1.8cm in soil contact. I guess this makes it a strong contestant for the heaviest bottle opener :D Check out the full video: https://youtu.be/bCOMYbRWv5I And our publication: https://arxiv.org/abs/2605.09465
-
-23m ago
-
----
-
-**[Low-latency (5 ms) and high update rate (500 Hz) precise (±2cm) indoor positioning solution based on Ultrasound + IMU sensor fusion](https://www.reddit.com/r/robotics/comments/1taww3r/lowlatency_5_ms_and_high_update_rate_500_hz/)**
-
-It is possible to achieve a latency of 5 ms with a location update rate of up to 500 Hz and no drift with the latest Ultrasound + IMU sensor fusion solution, while maintaining ±2cm accuracy. On top, the IMU sensor fusion improves the resilience of the precise indoor positioning system to short occlusions. Here are details and test results: Low-latency real-time IMU sensor fusion for precise indoor positioning systems. Your questions (and criticisms ;-) are highly appreciated.
-
-9h ago
+2h ago
 
 ---
 
@@ -114,7 +114,59 @@ It is possible to achieve a latency of 5 ms with a location update rate of up to
 
 Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
 
-Global Times • 7h ago
+Global Times • 9h ago
+
+---
+
+**[NASA Invites Media to Annual Lunabotics Robotics Competition](https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/)**
+
+NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
+
+NASA (.gov) • 1d ago
+
+---
+
+**[Olympus’ Bob White on AI, robotics and ambulatory surgery centers](https://www.modernhealthcare.com/medical-devices/mh-olympus-bob-white-ai-robotics-asc/)**
+
+Olympus CEO Bob White said the company is working on different business models for ambulatory surgery center customers.
+
+Modern Healthcare News • 10h ago
+
+---
+
+**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
+
+The Economist • 1d ago
+
+---
+
+**[A South Korean startup captures workers’ techniques to develop AI brains for robots](https://apnews.com/article/south-korea-ai-robots-rlwrld-c3e00f5264e109b8b767559e9e09c3dc)**
+
+Workers at a five-star hotel fold napkins and wipe silverware with body cameras recording their every move.
+
+AP News • 12h ago
+
+---
+
+**[Arbe Robotics (ARBE) Expands Beyond Automotive Into Defense and Robotics Markets](https://finance.yahoo.com/markets/stocks/articles/arbe-robotics-arbe-expands-beyond-062439743.html)**
+
+Arbe Robotics Ltd. (NASDAQ:ARBE) earns a place on our list of the most popular AI penny stocks to buy. Arbe Robotics Ltd. (NASDAQ:ARBE) is pivoting its commercialization focus toward defense, robotics, and off-road markets, beyond traditional automotive programs. In its FY2025 results, Arbe Robotics Ltd. (NASDAQ:ARBE) said it is moving away from relying primarily on […]
+
+Yahoo Finance • 14h ago
+
+---
+
+**[South Korea Exploring Using Hyundai Robots as Army Numbers Fall](https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Ouster: Ride Robotics Wave (NASDAQ:OUST)](https://seekingalpha.com/article/4903033-ouster-ride-robotics-wave)**
+
+Ouster, Inc. delivered a 49% YoY revenue jump in Q1'26, driven by record LiDAR sensor shipments and Stereolabs integration. Read the latest analysis on the stock here.
+
+Seeking Alpha • 6h ago
 
 ---
 
@@ -130,59 +182,7 @@ Interesting Engineering • 1d ago
 
 Unitree aims to go public later this year in a crucial test for android industry
 
-Financial Times • 17h ago
-
----
-
-**[NASA Invites Media to Annual Lunabotics Robotics Competition](https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/)**
-
-NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
-
-NASA (.gov) • 23h ago
-
----
-
-**[RoboStrategy, Inc. Lists on NASDAQ Under Ticker “BOT”, Enabling Investors to Access a Portfolio of Robotics and Physical AI Companies in a Single Stock](https://finance.yahoo.com/markets/stocks/articles/robostrategy-inc-lists-nasdaq-under-110000888.html)**
-
-NEW YORK, May 11, 2026 (GLOBE NEWSWIRE) -- RoboStrategy, Inc. (Nasdaq: BOT), a dedicated investment fund providing concentrated exposure to robotics and physical AI, today announced that its common stock has begun trading on the NASDAQ under the ticker symbol “BOT”. Prior to listing, RoboStrategy’s common stock had not previously traded on a public exchange. The listing became effective following approval by NASDAQ and marks a significant milestone in the fund’s mission to bring institutional-st
-
-Yahoo Finance • 1d ago
-
----
-
-**[A South Korean startup captures workers’ techniques to develop AI brains for robots](https://apnews.com/article/south-korea-ai-robots-rlwrld-c3e00f5264e109b8b767559e9e09c3dc)**
-
-Workers at a five-star hotel fold napkins and wipe silverware with body cameras recording their every move.
-
-AP News • 11h ago
-
----
-
-**[Olympus’ Bob White on AI, robotics and ambulatory surgery centers](https://www.modernhealthcare.com/medical-devices/mh-olympus-bob-white-ai-robotics-asc/)**
-
-Olympus CEO Bob White said the company is working on different business models for ambulatory surgery center customers.
-
-Modern Healthcare News • 9h ago
-
----
-
-**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
-
-The Economist • 1d ago
-
----
-
-**[South Korea Exploring Using Hyundai Robots as Army Numbers Fall](https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Ouster: Ride Robotics Wave (NASDAQ:OUST)](https://seekingalpha.com/article/4903033-ouster-ride-robotics-wave)**
-
-Ouster, Inc. delivered a 49% YoY revenue jump in Q1'26, driven by record LiDAR sensor shipments and Stereolabs integration. Read the latest analysis on the stock here.
-
-Seeking Alpha • 5h ago
+Financial Times • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world's first production-ready manned mecha. It can transform. It's a civili
 
 📺 Unitree Robotics
 
-👁️ 228K • 👍 7K • 💬 2K • ⏱️ 1:15 • 14h ago
+👁️ 228K • 👍 7K • 💬 2K • ⏱️ 1:15 • 15h ago
 
 ---
 
@@ -206,7 +206,7 @@ Unitree Robotics just introduced what it calls the world's first production-read
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 60 • ⏱️ 0:41 • 4h ago
+👁️ 1K • 👍 60 • ⏱️ 0:41 • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 PRO ROBOTS
 
-👁️ 276 • 👍 10 • 💬 2 • ⏱️ 0:39 • 1h ago
+👁️ 276 • 👍 10 • 💬 2 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -234,7 +234,7 @@ MIT Engineers Revived A 40-Year-Old Y-Zipper That Can Bend Split And Transform I
 
 📺 Techie Sapien
 
-👁️ 328K • 👍 2K • 💬 20 • ⏱️ 0:07 • 17h ago
+👁️ 328K • 👍 2K • 💬 20 • ⏱️ 0:07 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ Disney just reinvented motion capture for robots using AI and physics. Disney Re
 
 📺 Guide2WDW
 
-👁️ 4K • 👍 572 • 💬 12 • ⏱️ 1:46 • 19h ago
+👁️ 4K • 👍 572 • 💬 12 • ⏱️ 1:46 • 21h ago
 
 ---
 
