@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-12T17:11:57.421161+00:00'
+updated: '2026-05-12T19:17:47.079536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 17:11 UTC  
+**Last Updated:** May 12, 2026 at 19:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -3.5%  
-**30d:** -4.3%  
-**90d:** +16.5%  
-**1y:** -15.5%  
+**24h:** -2.3%  
+**7d:** -2.8%  
+**30d:** -3.6%  
+**90d:** +17.3%  
+**1y:** -14.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.73B
+**Market Cap:** $275.30B
 Rank #2
 
 **Circulating Supply:** 120,686,358 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.2%
+-53.8%
 
 **All-Time Low:** $0.43
-+523380.4%
++527461.4%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
-
----
-
-**[$14 Trillion BlackRock Picks Ethereum for Tokenized Funds](https://www.reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/)**
-
-BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
-
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 19h ago
+14h ago
 
 ---
 
@@ -88,13 +80,21 @@ BlackRock filed for tokenized money-market fund shares on Ethereum, adding press
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 49m ago
+🔗 [Clear Signing](https://clearsigning.org/) • 2h ago
+
+---
+
+**[$14 Trillion BlackRock Picks Ethereum for Tokenized Funds](https://www.reddit.com/r/ethereum/comments/1tahzx0/14_trillion_blackrock_picks_ethereum_for/)**
+
+BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
+
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 21h ago
 
 ---
 
 **[Protocol Cluster Updates: May 2026](https://www.reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 21h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 23h ago
 
 ---
 
@@ -152,7 +152,23 @@ I would like to know if Credit Scoring on chains would be a thing in the future 
 
 BitMine Immersion Technologies (NYSE: $BMNR) has slowed its Ethereum (CRYPTO: $ETH) purchases over the past week.&n...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum, BMNR news: Bitmine buys 26K ether (ETH) after Tom Lee said to slow down accumulation](https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year)**
+
+The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-21-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-4-billion-302767816.html)**
+
+Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -160,29 +176,37 @@ Yahoo Finance • 23h ago
 
 The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
-**[Clear Signing: Making Transaction Approvals Safer on Ethereum](https://blog.ethereum.org/2026/05/12/clear-signing-announcement)**
+**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
 
-ethereum.org • 1h ago
+The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
 
----
-
-**[Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices move l](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-mv-113324235.html)**
-
-Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday's opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from Monday's opening price.
-
-Yahoo Finance • 1h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Tom Lee Says Ethereum Could Reach $62,000 as Bitmine Nears 5% ETH Goal](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-could-143217064.html)**
+**[Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next?](https://www.tradingview.com/news/cointelegraph:3e997fb7c094b:0-ethereum-derivatives-unfazed-by-defi-hacks-can-eth-hit-2-6k-next/)**
 
-Tom Lee sees Ethereum's price potentially reaching $62,000. Bitmine now owns 4.31% of Ethereum’s total supply and aims to reach 5% by the end of ...
+Key takeaways:Ether price rally stalls, but ETH futures far from bearishEther (ETH) price failed to sustain bullish momentum after peaking near $2,380 on Sunday. Repeated failures to break the $2,400 mark over the past four weeks have gradually drained confidence, suggesting professional ETH trader…
 
-Yahoo Finance • 2h ago
+TradingView • 2h ago
+
+---
+
+**[Ethereum Foundation rolls out support for Clear Signing crypto security solution](https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution)**
+
+Clear Signing is a crypto security feature that aims to simplify transaction descriptions so humans can understand what they're approving.
+
+The Block • 1h ago
+
+---
+
+**[Protocol Cluster Updates: May 2026](https://blog.ethereum.org/2026/05/11/protocol-update-may-26)**
+
+ethereum.org • 1d ago
 
 ---
 
@@ -200,39 +224,17 @@ Gizmodo • 1d ago
 
 ---
 
-**[XRP, Bitcoin and Ethereum as Institutional Collateral Is the Next Step Says Ripple Prime CEO](https://www.tradingview.com/news/coinpedia:fd107dce6094b:0-xrp-bitcoin-and-ethereum-as-institutional-collateral-is-the-next-step-says-ripple-prime-ceo/)**
-
-Ripple Prime CEO Mike Higgins says cryptocurrencies like XRP, Bitcoin, Ethereum, and Solana could soon play a much larger role in institutional finance through cross-margining and collateral systems.Speaking about the future of tokenized finance, Higgins explained that institutions may eventually u…
-
-TradingView • 12h ago
-
----
-
-**[Bitcoin Price Treads Water, XRP and Ethereum Fall. The Crypto Bill May Cause a Rift This Week.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-crypto-markets-today-782d1fc5)**
-
-Barron's • 1d ago
-
----
-
-**[Current price of Ethereum for May 12, 2026](https://fortune.com/article/price-of-ethereum-05-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Why Crypto May Be Entering a New Bull Market](https://www.youtube.com/watch?v=HZ6b_i9Ce3U)**
+**[Why Ethereum is Stuck Under $2.4K](https://www.youtube.com/watch?v=8TUiX3l06XM)**
 
-Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the next major crypto bull market. From Ethereum's ...
+Ethereum keeps failing at the $2400 resistance level, and the data shows why: weak ETF inflows, falling leverage, and rising ETH ...
 
-📺 Cointelegraph
+📺 Coin Bureau Podcast
 
-👁️ 3K • 👍 105 • 💬 44 • ⏱️ 9:08 • 23h ago
+👁️ 480 • 👍 20 • ⏱️ 1:11 • 3h ago
 
 ---
 
@@ -242,47 +244,17 @@ Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks d
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 253 • 💬 29 • ⏱️ 23:49 • 10h ago
+👁️ 4K • 👍 268 • 💬 29 • ⏱️ 23:49 • 12h ago
 
 ---
 
-**[Why Ethereum is Stuck Under $2.4K](https://www.youtube.com/watch?v=8TUiX3l06XM)**
+**[Why Crypto May Be Entering a New Bull Market](https://www.youtube.com/watch?v=HZ6b_i9Ce3U)**
 
-Ethereum keeps failing at the $2400 resistance level, and the data shows why: weak ETF inflows, falling leverage, and rising ETH ...
+Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the next major crypto bull market. From Ethereum's ...
 
-📺 Coin Bureau Podcast
+📺 Cointelegraph
 
-👁️ 146 • 👍 11 • ⏱️ 1:11 • 1h ago
-
----
-
-**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
-
-Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
-
-📺 CoinGecko
-
-👁️ 3K • 👍 154 • 💬 55 • ⏱️ 8:44 • 1d ago
-
----
-
-**[Larry Fink - Most Powerful Man In Finance Buying These Crypto Coins (Like Buying SpaceX at $1)](https://www.youtube.com/watch?v=AyBHQ0a2YFM)**
-
-Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 262 • ⏱️ 10:13 • 2d ago
-
----
-
-**[🚨 Ethereum BOTTOM Signal?](https://www.youtube.com/watch?v=RIUfiK--W4I)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 228 • 💬 26 • ⏱️ 14:41 • 11h ago
+👁️ 3K • 👍 112 • 💬 11 • ⏱️ 9:08 • 1d ago
 
 ---
 
@@ -292,7 +264,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 264 • 👍 11 • 💬 18 • ⏱️ 4:54 • 8h ago
+👁️ 350 • 👍 12 • 💬 18 • ⏱️ 4:54 • 10h ago
+
+---
+
+**[🚨 Ethereum BOTTOM Signal?](https://www.youtube.com/watch?v=RIUfiK--W4I)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 236 • 💬 26 • ⏱️ 14:41 • 13h ago
+
+---
+
+**[Larry Fink - Most Powerful Man In Finance Buying These Crypto Coins (Like Buying SpaceX at $1)](https://www.youtube.com/watch?v=AyBHQ0a2YFM)**
+
+Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 39K • 👍 2K • 💬 258 • ⏱️ 10:13 • 2d ago
 
 ---
 
@@ -302,7 +294,7 @@ In today's Pro Charts: Crypto update, verified pro trader Lawton Ho breaks down 
 
 📺 Verified Pro Traders
 
-👁️ 2K • 👍 142 • 💬 4 • ⏱️ 8:56 • 19h ago
+👁️ 2K • 👍 142 • 💬 4 • ⏱️ 8:56 • 21h ago
 
 ---
 
@@ -312,7 +304,7 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 367 • 💬 30 • ⏱️ 8:43 • 1d ago
+👁️ 7K • 👍 367 • 💬 31 • ⏱️ 8:43 • 1d ago
 
 ---
 
@@ -320,7 +312,17 @@ My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up T
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 470 • 💬 24 • ⏱️ 1:00 • 2d ago
+👁️ 12K • 👍 471 • 💬 24 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[TOP 3 COINS going to ZERO before 2030 📉 #ethereum #crypto](https://www.youtube.com/watch?v=9yq3hxOSL4Y)**
+
+TOP 3 COINS going to ZERO before 2030.
+
+📺 Cointalkpodcast
+
+👁️ 128 • 👍 6 • 💬 1 • ⏱️ 0:54 • 52m ago
 
 ---
 

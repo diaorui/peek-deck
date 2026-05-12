@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-12T17:11:57.415170+00:00'
+updated: '2026-05-12T19:17:47.073351+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 17:11 UTC  
+**Last Updated:** May 12, 2026 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,000.00
+### $80,798.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -1.6%  
-**30d:** +7.6%  
-**90d:** +21.0%  
-**1y:** -23.1%  
+**24h:** -1.3%  
+**7d:** -0.8%  
+**30d:** +8.5%  
+**90d:** +22.0%  
+**1y:** -22.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1604.23B
+**Market Cap:** $1617.12B
 Rank #1
 
-**Circulating Supply:** 20,028,418 BTC
+**Circulating Supply:** 20,028,453 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.5%
+-35.9%
 
 **All-Time Low:** $67.81
-+117950.4%
++119049.1%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 The Best crypto out there 😉
 
-12h ago
-
----
-
-**[1 BTC](https://www.reddit.com/r/Bitcoin/comments/1tarap2/1_btc/)**
-
-I have one BTC. I have a minivan. I've been thinking of selling my house paying off bills and living in my van for two years and taking the money to buy two more BTC. Has anyone done this?
-
-12h ago
+14h ago
 
 ---
 
@@ -97,15 +89,15 @@ I have one BTC. I have a minivan. I've been thinking of selling my house paying 
 
 My son deposited 42 BTC at MtGox in 2012 and subsequently became disabled. We are now caring for him and started to communicate with Gox last year. They told us we missed the filing deadline, but not to worry… “there’s only dust left in the account”. No accounting, no detailed explanation as a bank would do. Now we finally get his old email back and come to find some Gox confirmations with block chain address references, but not all the deposits have email confirmations. The address was swept clean after each deposit. There’s only 2 email withdrawal confirms, and those are prior to actual deposits into the blockchain address. I am convinced Gox’s ledger balance is wrong. My son who is now disabled did not have access to his email account and never was aware of the restructuring. Even if he would have received legal notices, he did not have the mental capacity to understand it. I’ve tried to convey all these things to Mt Gox, but their response is basically “sorry, we can’t do anything after the deadline, go see a lawyer” Are there Mt Gox experienced lawyers that work on a contingent basis. We don’t have the means to hire an hourly Japanese lawyer.
 
-4h ago
+6h ago
 
 ---
 
-**[US and UAE crypto updates on tax regulation and adoption](https://www.reddit.com/r/Bitcoin/comments/1taz1nc/us_and_uae_crypto_updates_on_tax_regulation_and/)**
+**[1 BTC](https://www.reddit.com/r/Bitcoin/comments/1tarap2/1_btc/)**
 
-came across a few updates recently in the US there are talks in congress about crypto tax rules n the senate banking committee has a draft crypto clarity act out in the UAE residents can now use crypto for some gov payments looks like we’re slowly seeing more structure on the regulation side n more real world use cases at the same time what do u think this actually changes for crypto long term does it speed up adoption or is it mostly just policy noise?
+I have one BTC. I have a minivan. I've been thinking of selling my house paying off bills and living in my van for two years and taking the money to buy two more BTC. Has anyone done this?
 
-5h ago
+14h ago
 
 ---
 
@@ -113,7 +105,23 @@ came across a few updates recently in the US there are talks in congress about c
 
 There are teenagers and pre-teens today who are growing into a world where Bitcoin has always existed, for them. For them, bitcoin is not some strange new experiment. It is more like the internet was for many of us: something that was already there, already part of the world, and already understood at a basic level. Our generation grew up with the internet as something that increasingly felt normal. Then, over time, we helped digitize almost everything that had not been digital before: communication, media, shopping, work, banking, money, and now even intelligence. That makes the next generation exciting to think about. If they grow up with bitcoin and blockchain as part of the basic digital landscape, what will they eventually make mainstream? What systems will they rebuild, simplify, or replace once they are the ones leading companies, governments, financial institutions, and communities? Bitcoin does not need everyone to understand it perfectly today. It just needs time to form the sea where oceans, whales, and every living organism can thrive. Because in the end, the sea is more powerful and lasting than any whale living in it.
 
+9h ago
+
+---
+
+**[US and UAE crypto updates on tax regulation and adoption](https://www.reddit.com/r/Bitcoin/comments/1taz1nc/us_and_uae_crypto_updates_on_tax_regulation_and/)**
+
+came across a few updates recently in the US there are talks in congress about crypto tax rules n the senate banking committee has a draft crypto clarity act out in the UAE residents can now use crypto for some gov payments looks like we’re slowly seeing more structure on the regulation side n more real world use cases at the same time what do u think this actually changes for crypto long term does it speed up adoption or is it mostly just policy noise?
+
 7h ago
+
+---
+
+**[Square Crosses 1 Million Bitcoin-Enabled Merchants As Real-World Adoption Continues To Grow](https://www.reddit.com/r/Bitcoin/comments/1tbbj35/square_crosses_1_million_bitcoinenabled_merchants/)**
+
+Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchants now enabled to accept Bitcoin payments. The figure, cited by a member of Block’s team, reflects a wave of auto-enrollment that began March 30, when Square automatically switched on BTC payments by default for eligible U.S. sellers. At its peak pace, a new business was activating the feature every eight seconds. The rollout is powered by the Lightning Network, enabling near-instant settlement while merchants receive U.S. dollars by default, removing currency risk from the equation. In other words, customers can pay in Bitcoin via Lightning while merchants still receive USD settlements, with the system handling conversion in the background and allowing sellers to opt out if needed. At the Bitcoin Conference in Las Vegas, Block outlined an expanded push to make bitcoin usable as everyday money rather than simply a long-term investment. Speaking on the Nakamoto Stage, Bitcoin Product Lead Miles Suter said BTC “must circulate, not just sit still,” arguing that the cryptocurrency loses its transformational value if it does not function as peer-to-peer cash. Suter highlighted Block’s growing adoption metrics, revealing at the time that there were more than 800,000 Square merchants who now have BTC payments auto-enrollment enabled. This number seems to be above According to Suter, a new business activates the feature every eight seconds. The company is also rolling out a tap-to-pay BTC feature using NFC hardware and the Lightning Network, eliminating QR codes and offering zero processing fees through 2026. The company’s broader strategy centers on integrating bitcoin across its ecosystem. Cash App users can now automatically convert peer-to-peer payments into BTC, earn 5% Bitcoin Back rewards at Square merchants, and withdraw up to $10,000 per day and $25,000 per week. Block also introduced an updated Bitkey hardware wallet featuring a touchscreen and 2-of-3 multisig security model designed to simplify self-custody. Alongside the product announcements, Block released its Q1 2026 proof-of-reserves report showing holdings of 28,355.05 BTC worth roughly $2.2 billion.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants) • 5m ago
 
 ---
 
@@ -121,7 +129,7 @@ There are teenagers and pre-teens today who are growing into a world where Bitco
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+13h ago
 
 ---
 
@@ -129,7 +137,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Stay humble stack sats
 
-17h ago
+19h ago
+
+---
+
+**[The #1 thing Coffeezilla gets wrong about Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tbba7m/the_1_thing_coffeezilla_gets_wrong_about_bitcoin/)**
+
+In this video I break down the biggest flaw in Coffeezilla’s argument against Bitcoin and why I believe we are still insanely early
+
+🔗 [youtu.be](https://youtu.be/llvm7RUcFqI) • 14m ago
 
 ---
 
@@ -137,23 +153,7 @@ Stay humble stack sats
 
 People keep saying Bitcoin has no cash flow. That is true. But why assume cash flow is the right test in the first place? A monetary asset is not supposed to look like a business. The real question is whether it can preserve purchasing power better than the alternatives.
 
-🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 21h ago
-
----
-
-**[A truly legendary milestone happened exactly 16 years ago today!](https://www.reddit.com/r/Bitcoin/comments/1ta1t0n/a_truly_legendary_milestone_happened_exactly_16/)**
-
-On May 11 2010 the Bitcoin community realized that GPUs absolutely crush standard CPUs in mining power. That single forum post sparked a completely new era and caused the network hashrate to skyrocket by a staggering 130,000 percent. This was the exact moment that built the modern crypto mining infrastructure. Pure history and unbelievable growth!
-
-1d ago
-
----
-
-**[Starting over](https://www.reddit.com/r/Bitcoin/comments/1ta82rw/starting_over/)**
-
-Had to sell last fall due to divorce. It wasn't a lot but still... Just now starting to buy again. I have a long road ahead.
-
-1d ago
+🔗 [Myntad](https://www.myntad.com/stop-asking-bitcoin-for-a-dividend/) • 23h ago
 
 ---
 
@@ -161,11 +161,11 @@ Had to sell last fall due to divorce. It wasn't a lot but still... Just now star
 
 ## Google News: "bitcoin"
 
-**[Live markets: Bitcoin holds $80,000 as stocks sink, yields rise on ugly inflation print](https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print)**
+**[Live markets: Bitcoin briefly falls below $80,000, as stocks tumble, yields rise on ugly inflation print](https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print)**
 
 Inflation rose to a three-year high in April, according to this morning's Consumer Price Index report.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -173,15 +173,15 @@ CoinDesk • 2h ago
 
 Bhutan appears to have sold around $50 million in BTC per month this year, Arkham said, but still has $252 million in bitcoin remaining.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices move l](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-mv-113324235.html)**
+**[Michael Saylor Sees CLARITY Act as a Turning Point for Bitcoin Adoption](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-sees-clarity-act-152700894.html)**
 
-Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday's opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from Monday's opening price.
+Michael Saylor says the next major step in U.S. crypto legislation could give Bitcoin and digital-asset finance a c...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -189,19 +189,27 @@ Yahoo Finance • 1h ago
 
 Analysts believe Bitcoin may still have significant upside ahead, pointing out that a rare signal has appeared on a key valuation metric for the first time in roughly two years — and history suggests it could mark the start of a major price run.A Critical Level In PlayAt around $82,500, Bitcoin is…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
-**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+**[MARA Dumps $1.5B In Bitcoin As Miner Trades Treasury Hoard For AI Power Bet](https://bitcoinmagazine.com/news/mara-dumps-1-5b-in-bitcoin)**
 
-Disruption Banking • 3h ago
+MARA is cashing in its bitcoin treasury to fund a massive AI and power infrastructure pivot, selling $1.5 billion in BTC as the miner bets its future on data centers and energy assets over pure hashrate expansion.
+
+Bitcoin Magazine • 3h ago
 
 ---
 
 **[The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first](https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7)**
 
-MarketWatch • 5h ago
+MarketWatch • 7h ago
+
+---
+
+**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
+
+Bloomberg.com • 14h ago
 
 ---
 
@@ -211,9 +219,11 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Crypto Firm Backed by French NBA Star Halts Plan to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-05-12/crypto-firm-backed-by-french-nba-star-halts-plan-to-buy-bitcoin)**
+**[Current price of Bitcoin for May 11, 2026](https://fortune.com/article/price-of-bitcoin-05-11-2026/)**
 
-Bloomberg.com • 11h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -221,15 +231,7 @@ Bloomberg.com • 11h ago
 
 Katie Stockton of Fairlead Strategies breaks down the charts on this crypto-tied names.
 
-CNBC • 23h ago
-
----
-
-**[Current price of Bitcoin for May 11, 2026](https://fortune.com/article/price-of-bitcoin-05-11-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -247,7 +249,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 **[Thomas Massie for Congress accepts Bitcoin donations](https://news.ycombinator.com/item?id=48104204)**
 
-⬆️ 2 • 💬 1 • 12h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
+⬆️ 2 • 💬 1 • 14h ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
 
 ---
 
@@ -255,7 +257,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 How Deblock integrated instant, non-custodial bitcoin into their neobank using the Breez SDK, serving 300,000 users across Europe.
 
-⬆️ 2 • 💬 0 • 10h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
+⬆️ 2 • 💬 0 • 12h ago • [breez.technology](https://breez.technology/case-studies/deblock/)
 
 ---
 
@@ -263,7 +265,7 @@ How Deblock integrated instant, non-custodial bitcoin into their neobank using t
 
 Strategy is shifting from passive bitcoin accumulation to actively managing balance sheet to boost bitcoin per share value.
 
-⬆️ 1 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
+⬆️ 1 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/05/05/strategy-breaks-from-never-sell-bitcoin-approach.html)
 
 ---
 
@@ -301,7 +303,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 70 • ⏱️ 16:20 • 20h ago
+👁️ 48K • 👍 2K • 💬 76 • ⏱️ 16:20 • 22h ago
 
 ---
 
@@ -311,7 +313,7 @@ EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade cr
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 359 • ⏱️ 10:40 • 17h ago
+👁️ 45K • 👍 2K • 💬 470 • ⏱️ 10:40 • 19h ago
 
 ---
 
@@ -321,7 +323,37 @@ Is Bitcoin's price actually predictable? Physicist Giovanni Santostasi, Director
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 225 • 💬 39 • ⏱️ 1:05:20 • 2h ago
+👁️ 4K • 👍 398 • 💬 104 • ⏱️ 1:05:20 • 4h ago
+
+---
+
+**[Bitcoin Can’t Break $82K -  Will CLARITY Change That Thursday?](https://www.youtube.com/watch?v=44A3ZEQr0-M)**
+
+Bitcoin #Crypto #Finance Bitcoin is testing its 200-day SMA near $82K as the Senate Banking Committee drops a 309-page ...
+
+📺 The Wolf Of All Streets
+
+👁️ 8K • 👍 436 • 💬 152 • ⏱️ 59:34 • 4h ago
+
+---
+
+**[Bitcoin Just Flashed Its First Bull Signal Since 2023](https://www.youtube.com/watch?v=d2ReE1FaqVc)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 843 • 💬 212 • ⏱️ 46:14 • 4h ago
+
+---
+
+**[THIS Just Shook The Entire Crypto Market! Crypto News You Need To Know!](https://www.youtube.com/watch?v=vv1ZlaFlL78)**
+
+THIS Just Shook The Entire Crypto Market! Crypto News You Need To Know! GET AUSTIN'S X1 ALGO TRADING INDICATOR!
+
+📺 Austin Hilton
+
+👁️ 3K • 👍 211 • 💬 26 • ⏱️ 5:25 • 4h ago
 
 ---
 
@@ -331,7 +363,7 @@ The price of Bitcoin approaches the 200D SMA. What now? Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 6K • 💬 536 • ⏱️ 9:29 • 1d ago
+👁️ 89K • 👍 6K • 💬 539 • ⏱️ 9:29 • 1d ago
 
 ---
 
@@ -341,7 +373,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 335 • ⏱️ 51:34 • 1d ago
+👁️ 20K • 👍 1K • 💬 328 • ⏱️ 51:34 • 1d ago
 
 ---
 
@@ -355,43 +387,13 @@ Michael Saylor finally explains what he actually meant by “never sell your Bit
 
 ---
 
-**[Bitcoin Will WIN Simply Because It Has To](https://www.youtube.com/watch?v=SFo4D2BjkiI)**
+**[Inside Michael Saylor&#39;s Most Dangerous Bitcoin Move Yet!](https://www.youtube.com/watch?v=nkUSrjyeeZc)**
 
-Bitcoin will win because it has to. Every monetary system in history has eventually run into the same fatal problem: someone ...
+Michael Saylor, Strategy, Bitcoin, STRC, DeFi leverage, and the S&P 500 are all colliding in one of the most important Bitcoin ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 9K • 👍 600 • 💬 121 • ⏱️ 15:52 • 1d ago
-
----
-
-**[The Next Bitcoin Move Will Be MASSIVE… But 99.5% Won’t Survive | Anthony Pompliano](https://www.youtube.com/watch?v=A2Al7ABT7qA)**
-
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
-
-📺 Crypto Banter
-
-👁️ 43K • 👍 2K • 💬 56 • ⏱️ 16:15 • 2d ago
-
----
-
-**[HUGE Week Ahead for Bitcoin...](https://www.youtube.com/watch?v=tLlcRWnZx4E)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 184 • ⏱️ 8:11 • 1d ago
-
----
-
-**[$630,000,000 of Bitcoin Bought in ONE Day](https://www.youtube.com/watch?v=oHoiLhvY_tM)**
-
-On May 1, 2026, Bitcoin ETFs bought $630 million of BTC in a single day, the strongest single-day inflow of the year. BlackRock ...
-
-📺 Glider
-
-👁️ 948 • 👍 13 • ⏱️ 0:40 • 5h ago
+👁️ 36K • 👍 2K • 💬 451 • ⏱️ 15:10 • 21h ago
 
 ---
 
