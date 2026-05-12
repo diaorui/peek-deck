@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-12T22:19:08.883524+00:00'
+updated: '2026-05-12T23:36:15.861724+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 12, 2026 at 22:19 UTC  
+**Last Updated:** May 12, 2026 at 23:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announced the world’s first mass-produced manned mecha meant for civilian travel. Weight: ~500kg (with pilot). Feature: It actually transforms from bipedal to quadruped. Price: starting at 3.95 million in Chinese RMB (around 581.3k USD)
 
-17h ago
+19h ago
 
 ---
 
 **[Made a 3D-Printed 6-Axis Robot Arm from scratch. Autonomous pick and place with OpenCV AI Object Detection, ROS2 and MoveIt2.](https://www.reddit.com/r/robotics/comments/1tb493a/made_a_3dprinted_6axis_robot_arm_from_scratch/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announce
 
 Zach Jackowski, GM of Atlas at Boston Dynamics, talks about how getting humanoids into real environments matters, but running the same behavior at scale is not enough. If a fleet is only doing automotive part sequencing, the resulting dataset will mostly improve performance on that task family. It does not automatically produce broad manipulation generalization. That is why he pushes back on the idea that the path is simply “deploy robots, collect lots of data, and generalization follows.” The harder part is collecting varied, useful data while still operating in controlled enough settings to make the robot commercially useful.
 
-10h ago
+11h ago
 
 ---
 
@@ -58,13 +58,13 @@ Zach Jackowski, GM of Atlas at Boston Dynamics, talks about how getting humanoid
 
 Ok so I was debugging someone's code last week. They replaced PID loop with neural network. Why?? It was slower, harder to debug, and not even better. I think just looked cool in the presentation lol I get it, ML is great for perception, manipulation, stuff you can't just write rules for. But for control loop? Come on. PID, LQR, MPC – predictable, you know what they do, you can fix them at 3am when everything is on fire. Also somebody will need to maintain this code in 3 years. Good luck explaining neural network to that person:) But maybe I am missing something here. Anyone actually replaced classical control with ML and was happy with result?
 
-15h ago
+16h ago
 
 ---
 
 **[Fun with AgenticROS (ROS + OpenClaw + Claude Code)](https://www.reddit.com/r/robotics/comments/1tb3zo3/fun_with_agenticros_ros_openclaw_claude_code/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,19 @@ Ok so I was debugging someone's code last week. They replaced PID loop with neur
 
 With some new, hydraulics aware formulation, sub-cm shovel tracking can be achieved in-air and about 1.8cm in soil contact. I guess this makes it a strong contestant for the heaviest bottle opener :D Check out the full video: https://youtu.be/bCOMYbRWv5I And our publication: https://arxiv.org/abs/2605.09465
 
-3h ago
+4h ago
+
+---
+
+**[My third hexapof build 👀](https://www.reddit.com/r/robotics/comments/1tbignp/my_third_hexapof_build/)**
+
+4m ago
+
+---
+
+**[Due to RAM costs & tariffs, robot prices going up!](https://www.reddit.com/r/robotics/comments/1tb6d5o/due_to_ram_costs_tariffs_robot_prices_going_up/)**
+
+7h ago
 
 ---
 
@@ -80,7 +92,7 @@ With some new, hydraulics aware formulation, sub-cm shovel tracking can be achie
 
 ​ Hey everyone, Building a SO-101 6-DOF arm for autonomous pick and place with drop recovery. Using LeRobot + ACT policy + ROS2 Jazzy on Ubuntu 24.04. my setup - - Single SO-101 follower arm (can't afford the leader arm) - Lenovo i3 laptop, Intel UHD only, no NVIDIA GPU - PyBullet and MuJoCo working, Isaac Lab is out for me wanted to know - 1.Single arm training : LeRobot normally needs leader + follower. Has anyone trained ACT with just one arm? Keyboard teleoperation? Gamepad? Sim-to-real from MuJoCo? Simulation without GPU— Isaac Lab is unusable on my machine. Is Webots or Genesis viable on Intel UHD? Any ROS2-friendly sim that actually works on CPU? Virtual demo collection — any tool or GitHub repo that lets you move a virtual arm with keyboard/mouse and export as LeRobot-compatible dataset? Drop recovery— using STS3215 servo load register + YOLOv8 wrist camera fusion to detect drops, then FoundationPose for re-grasp. Has anyone done anything similar on cheap hardware? Any gotchas? Any GitHub repos, Discord servers, or tips appreciated 🙏 Stack: ROS2 Jazzy | LeRobot | ACT | PyBullet | MuJoCo | YOLOv8 | FoundationPose | MoveIt2
 
-1h ago
+2h ago
 
 ---
 
@@ -92,20 +104,6 @@ Over the past year, I’ve been recreating Disney’s BD-X Star Wars Robot :) it
 
 ---
 
-**[Due to RAM costs & tariffs, robot prices going up!](https://www.reddit.com/r/robotics/comments/1tb6d5o/due_to_ram_costs_tariffs_robot_prices_going_up/)**
-
-6h ago
-
----
-
-**[Are robots as good as this dog already?](https://www.reddit.com/r/robotics/comments/1tbb2ru/are_robots_as_good_as_this_dog_already/)**
-
-I found this post incredibly impressive! The amount of commands he understands, his speed, and of course the physical abilities. Do you think it would be possible to train a robot dog that can do these things? I doubt it, because I'm pretty sure the dog would be able to easily transfer his skills to any environment, not just the garage. But I'm also not a robotics expert, so no idea really how good the state of the art is at this point. Certainly the way you would train it would be very different, lol :)
-
-3h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +112,7 @@ I found this post incredibly impressive! The amount of commands he understands, 
 
 Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
 
-Global Times • 11h ago
+Global Times • 12h ago
 
 ---
 
@@ -130,7 +128,7 @@ NASA (.gov) • 1d ago
 
 Olympus CEO Bob White said the company is working on different business models for ambulatory surgery center customers.
 
-Modern Healthcare News • 12h ago
+Modern Healthcare News • 13h ago
 
 ---
 
@@ -144,7 +142,7 @@ The Economist • 1d ago
 
 Workers at a five-star hotel fold napkins and wipe silverware with body cameras recording their every move.
 
-AP News • 14h ago
+AP News • 15h ago
 
 ---
 
@@ -152,7 +150,7 @@ AP News • 14h ago
 
 Roomba creator Colin Angle's Familiar Machines debuted a cuddly, pet-like robot for companionship, focusing on AI-driven emotional support.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -160,13 +158,23 @@ Business Insider • 13h ago
 
 Arbe Robotics Ltd. (NASDAQ:ARBE) earns a place on our list of the most popular AI penny stocks to buy. Arbe Robotics Ltd. (NASDAQ:ARBE) is pivoting its commercialization focus toward defense, robotics, and off-road markets, beyond traditional automotive programs. In its FY2025 results, Arbe Robotics Ltd. (NASDAQ:ARBE) said it is moving away from relying primarily on […]
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[South Korea Exploring Using Hyundai Robots as Army Numbers Fall](https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall)**
+**[Ouster: Ride Robotics Wave (NASDAQ:OUST)](https://seekingalpha.com/article/4903033-ouster-ride-robotics-wave)**
 
-Bloomberg.com • 1d ago
+Ouster, Inc. delivered a 49% YoY revenue jump in Q1'26, driven by record LiDAR sensor shipments and Stereolabs integration. Read the latest analysis on the stock here.
+
+Seeking Alpha • 9h ago
+
+---
+
+**[Will investors embrace China’s humanoid robot champion?](https://www.ft.com/content/721e3bed-285b-46d4-8151-8cf28cb5ef50?syn-25a6b1a6=1)**
+
+Unitree aims to go public later this year in a crucial test for android industry
+
+Financial Times • 21h ago
 
 ---
 
@@ -175,14 +183,6 @@ Bloomberg.com • 1d ago
 Figure humanoids cleaned and organized a bedroom together, completing coordinated tasks in under two minutes.
 
 Interesting Engineering • 1d ago
-
----
-
-**[Will investors embrace China’s humanoid robot champion?](https://www.ft.com/content/721e3bed-285b-46d4-8151-8cf28cb5ef50?syn-25a6b1a6=1)**
-
-Unitree aims to go public later this year in a crucial test for android industry
-
-Financial Times • 20h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world's first production-ready manned mecha. It can transform. It's a civili
 
 📺 Unitree Robotics
 
-👁️ 278K • 👍 8K • 💬 2K • ⏱️ 1:15 • 17h ago
+👁️ 278K • 👍 8K • 💬 2K • ⏱️ 1:15 • 18h ago
 
 ---
 
@@ -204,7 +204,7 @@ The world's first production-ready manned mecha. It can transform. It's a civili
 
 📺 PRO ROBOTS
 
-👁️ 2K • 👍 70 • 💬 5 • ⏱️ 0:39 • 4h ago
+👁️ 2K • 👍 70 • 💬 5 • ⏱️ 0:39 • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ Unitree Robotics just introduced what it calls the world's first production-read
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 89 • 💬 1 • ⏱️ 0:41 • 7h ago
+👁️ 2K • 👍 89 • 💬 1 • ⏱️ 0:41 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ MIT Engineers Revived A 40-Year-Old Y-Zipper That Can Bend Split And Transform I
 
 📺 Techie Sapien
 
-👁️ 359K • 👍 2K • 💬 20 • ⏱️ 0:07 • 20h ago
+👁️ 359K • 👍 2K • 💬 20 • ⏱️ 0:07 • 21h ago
 
 ---
 
@@ -272,7 +272,7 @@ War Robots Gameplay: Ravana Vs Raptor - The difference in Power is crazy My War 
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 312 • 💬 68 • ⏱️ 17:05 • 6h ago
+👁️ 5K • 👍 312 • 💬 68 • ⏱️ 17:05 • 8h ago
 
 ---
 
@@ -280,7 +280,7 @@ War Robots Gameplay: Ravana Vs Raptor - The difference in Power is crazy My War 
 
 📺 XRoboHub
 
-👁️ 86K • 👍 2K • 💬 320 • ⏱️ 0:44 • 15h ago
+👁️ 86K • 👍 2K • 💬 320 • ⏱️ 0:44 • 17h ago
 
 ---
 

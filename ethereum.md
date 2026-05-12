@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-12T22:19:08.880711+00:00'
+updated: '2026-05-12T23:36:15.858516+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 22:19 UTC  
+**Last Updated:** May 12, 2026 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -2.7%  
-**30d:** -3.4%  
-**90d:** +17.5%  
-**1y:** -14.8%  
+**24h:** -2.4%  
+**7d:** -3.0%  
+**30d:** -3.8%  
+**90d:** +17.0%  
+**1y:** -15.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 5h ago
+🔗 [Clear Signing](https://clearsigning.org/) • 7h ago
 
 ---
 
@@ -184,15 +184,7 @@ The Block • 1d ago
 
 Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
 
-Yahoo Finance • 47m ago
-
----
-
-**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
-
-The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
-
-CoinDesk • 9h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -202,9 +194,17 @@ ethereum.org • 1d ago
 
 ---
 
+**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
+
+The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
+
+CoinDesk • 11h ago
+
+---
+
 **[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
 
-Disruption Banking • 9h ago
+Disruption Banking • 10h ago
 
 ---
 
@@ -232,7 +232,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 108 • ⏱️ 17:25 • 3h ago
+👁️ 1K • 👍 108 • ⏱️ 17:25 • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ Ethereum keeps failing at the $2400 resistance level, and the data shows why: we
 
 📺 Coin Bureau Podcast
 
-👁️ 765 • 👍 26 • 💬 1 • ⏱️ 1:11 • 6h ago
+👁️ 765 • 👍 26 • 💬 1 • ⏱️ 1:11 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks d
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 280 • 💬 30 • ⏱️ 23:49 • 15h ago
+👁️ 4K • 👍 280 • 💬 30 • ⏱️ 23:49 • 17h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 406 • 👍 13 • 💬 15 • ⏱️ 4:54 • 13h ago
+👁️ 406 • 👍 13 • 💬 15 • ⏱️ 4:54 • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 86 • 💬 1 • ⏱️ 5:36 • 9h ago
+👁️ 1K • 👍 86 • 💬 1 • ⏱️ 5:36 • 10h ago
 
 ---
 
@@ -302,7 +302,7 @@ TOP 3 COINS going to ZERO before 2030.
 
 📺 Cointalkpodcast
 
-👁️ 604 • 👍 28 • 💬 1 • ⏱️ 0:54 • 3h ago
+👁️ 604 • 👍 28 • 💬 1 • ⏱️ 0:54 • 5h ago
 
 ---
 
@@ -322,7 +322,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 252 • 💬 26 • ⏱️ 14:41 • 16h ago
+👁️ 2K • 👍 252 • 💬 26 • ⏱️ 14:41 • 17h ago
 
 ---
 

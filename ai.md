@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-12T22:19:08.867848+00:00'
+updated: '2026-05-12T23:36:15.844086+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 12, 2026 at 22:19 UTC  
+**Last Updated:** May 12, 2026 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What it does: Agents gather and curate data and send to a wifi-enabled receipt printer (phenol-free paper) At 1:00am a cron triggers generation of data for all 3 kids (unique data sources per kid where applicable). A sidecar web service renders the data to templates, screenshots it, converts it to 1-bit with dithering and saves it back to the agent’s thread filesystem. Button presses (one per kid) then find a matching report for today's date (and trigger a generation if it's missing for some reason) and send it to the printer. Delay between button press and print is between 2-5 seconds. Morning daily briefs per kid at the press of a button! Fun, and the kids love it! (This demo print is using mock child data — not real information).
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ What it does: Agents gather and curate data and send to a wifi-enabled receipt p
 
 I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compute cost was about 100 dollars. There's something seriously wrong there. It's going to crash and crash HARD. EDIT: cause people think i'm lying or are just interested. The spreadsheet had 45 sheets. Each sheet had roughly 500 x 50 populated cells. Formatting was not exactly standard across all sheets. The prompt was something like "there is labelled column in each sheet, give me a simple list of all the items from all the sheets in that column and ignore duplicates." We can chose which model to use. The model I chose was one of the newer ones, I honestly can't remember which one, possibly GPT 5.3. It took 5 minutes or more to so and the stated cost for the task was 10 dollars, possibly even more. I can't recall the token amount. EDIT 2: I just asked web GPT to estimate the cost of the above on a newer version of GPT and it came back with 17 dollars for GPT 4 and above. Try it yourself.
 
-12h ago
+13h ago
 
 ---
 
@@ -57,7 +57,7 @@ I had a work version of GPT do a very simple spreadsheet summary task for me yes
 
 AI is quickly becoming a major tool in the world of cybersecurity, and a new report from Google suggests things are getting more serious.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 6h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 7h ago
 
 ---
 
@@ -73,7 +73,15 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
 
-9h ago
+10h ago
+
+---
+
+**[Created a free tool to check what PII your LLM prompts are leaking before they hit the provider](https://www.reddit.com/r/artificial/comments/1tbhvlq/created_a_free_tool_to_check_what_pii_your_llm/)**
+
+Most people don't realize how much personal data ends up in their AI prompts without thinking about it. Customer names, medical details, internal company info. It all goes to the provider's servers. Free to use. Let me know how well this works. aisecuritygateway.ai/ai-leak-checker
+
+28m ago
 
 ---
 
@@ -81,7 +89,7 @@ I think the next big AI debate won’t be about intelligence. It will be about r
 
 This piece lays out a pretty dark cycle that goes way beyond "fake videos." AI companies are running a feedback loop where their tools destroy public trust in reality, and then they use that collapse to sell AI governance as the "objective" replacement for a broken democracy. Essentially: (OpenAI, Anthropic) make truth impossible to verify. - The exhaustion makes voters give up on human leaders. - The pivot is these same companies signing massive military and government contracts to run the state. The "Singularity" isn't a machine waking up; it’s a tired civilization handing the keys to a black box because we’re too burnt out to govern ourselves. Happy to hear your thoughts : https://aiweekly.co/issues/100-years-from-now-the-last-election Alexis
 
-1h ago
+2h ago
 
 ---
 
@@ -93,27 +101,15 @@ As manosphere trends spread across the internet, a strict vision of the ideal wo
 
 ---
 
-**[Anti-AI Workplaces](https://www.reddit.com/r/artificial/comments/1tbczco/antiai_workplaces/)**
+**[Will AI turn us all into hipsters and artisans?](https://www.reddit.com/r/artificial/comments/1tbgt7k/will_ai_turn_us_all_into_hipsters_and_artisans/)**
 
-Question for those of you who use AI: How do you handle bosses who hate AI? Or workplaces that show strong AI bias? Are those workplaces making any efforts to make processes less complicated so people won't feel the need to use AI to keep up with demands? This could be things like creating templates and workflows. I think AI wouldn't have as strong of a grip if companies actually spent time on information architecture, but they didn't and now SOME want to complain about workers adapting to the lack of structure. Edited to add: I am pro-AI, but just speaking to why I think there's so much push back from some companies.
-
-2h ago
+🔗 [archive.md](https://archive.md/TGEXd) • 1h ago
 
 ---
 
-**[Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns](https://www.reddit.com/r/artificial/comments/1ta92pt/cybercriminals_are_making_powerful_hacking_tools/)**
+**[China Sought Access to Anthropic’s Newest A.I. The Answer Was No.](https://www.reddit.com/r/artificial/comments/1tb3kzh/china_sought_access_to_anthropics_newest_ai_the/)**
 
-Cybercriminals created a zero-day exploit with AI, the first example of artificial intelligence finding and hacking software for an illicit enterprise, the tech giant says in a new report.
-
-🔗 [Forbes](https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit) • 1d ago
-
----
-
-**[Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense](https://www.reddit.com/r/artificial/comments/1tak7x9/google_disrupts_hackers_using_ai_to_exploit_an/)**
-
-Google shared limited information about the attackers and the target, but John Hultquist, chief analyst at the tech giant’s threat intelligence arm, said it represents a moment cybersecurity experts have warned about for years: malicious hackers arming themselves with AI to supercharge their ability to break into the world’s computers. “It’s here,” Hultquist said. “The era of AI-driven vulnerability and exploitation is already here.”
-
-🔗 [AP News](https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4) • 22h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html) • 8h ago
 
 ---
 
@@ -125,39 +121,47 @@ Google shared limited information about the attackers and the target, but John H
 
 Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
 
-Google DeepMind • 5h ago
+Google DeepMind • 6h ago
 
 ---
 
-**[China Sought Access to Anthropic’s Newest A.I. The Answer Was No.](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html)**
+**[Laid-off GM employees tell of ominous email, severance and role of AI](https://www.cnbc.com/2026/05/12/gm-layoffs-ai-severance.html)**
 
-The New York Times • 13h ago
+General Motors employees who were laid off Monday described their job terminations to CNBC.
 
----
-
-**[US workers overwhelmingly support union-backed policies on AI, poll says](https://www.theguardian.com/us-news/2026/may/12/workers-ai-policy-unions)**
-
-Nine out of 10 workers express support for policies on artificial intelligence that labor unions may fight for
-
-The Guardian • 6h ago
+CNBC • 5h ago
 
 ---
 
-**[Opinion | The Shared Feeling of Being Harvested by the Future](https://www.nytimes.com/2026/05/12/opinion/us-china-ai-future.html)**
+**[Princeton Mandates Exam Proctors After Fears of ‘Widespread’ AI-Fueled Cheating](https://www.wsj.com/us-news/education/princeton-cheating-ai-proctors-2a1cf62e)**
 
-The New York Times • 13h ago
-
----
-
-**[YouTube Promises All Things to All Advertisers, With Some Help from AI](https://www.wsj.com/cmo-today/youtube-promises-all-things-to-all-advertisers-with-some-help-from-ai-46f2e43c)**
-
-WSJ • 19m ago
+WSJ • 45m ago
 
 ---
 
-**[Copper prices are now at their highest level on record. AI is only part of the story.](https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443)**
+**[China’s AI Suppliers Can’t Keep Up as Component Shortages Bite](https://www.bloomberg.com/news/articles/2026-05-12/china-s-ai-suppliers-can-t-keep-up-as-component-shortages-bite)**
 
-MarketWatch • 36m ago
+Bloomberg.com • 36m ago
+
+---
+
+**[China Seeks A.I. Independence, Weakening Trump’s Leverage](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)**
+
+The New York Times • 19h ago
+
+---
+
+**[Trump readies for Beijing summit with Xi as AI chip sales, farm goods top agenda](https://www.foxbusiness.com/economy/trump-readies-beijing-summit-xi-ai-chip-sales-farm-goods-top-agenda)**
+
+President Trump travels to China for a summit with Xi Jinping as trade tensions, AI chip restrictions and the Iran war reshape U.S.-China relations.
+
+Fox Business • 13h ago
+
+---
+
+**[Trump, Xi to huddle in China as AI race heats up](https://thehill.com/newsletters/technology/5875166-trump-xi-ai-talks-china/)**
+
+The Hill • 37m ago
 
 ---
 
@@ -165,7 +169,7 @@ MarketWatch • 36m ago
 
 Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
@@ -173,23 +177,15 @@ The Guardian • 1h ago
 
 UCF graduation speaker Gloria Caulfield was booed offstage after making comments about artificial intelligence at an arts and humanities ceremony.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
-**[What made UCF graduates boo a commencement speaker talking AI? Job concerns, students say](https://www.clickorlando.com/news/local/2026/05/12/what-made-ucf-graduates-boo-a-commencement-speaker-talking-ai-job-concerns-students-say/)**
+**[Maybe Don’t Praise AI in Your Commencement Speech](https://www.thecut.com/article/ucf-ai-commencement-speech-controversy-explained.html)**
 
-A commencement speech at the University of Central Florida is sparking debate online after comments about artificial intelligence drew boos from graduates during a recent ceremony for arts and humanities students.
+A University of Central Florida graduation speaker was booed by students after calling the AI boom “the next Industrial Revolution.”
 
-WKMG • 19m ago
-
----
-
-**[How AI Killed a 133-Year-Old Princeton Tradition](https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/)**
-
-The school’s famous Honor Code was no match for chatbot-enabled cheating.
-
-The Atlantic • 5h ago
+The Cut • 8h ago
 
 ---
 
@@ -201,7 +197,7 @@ The Atlantic • 5h ago
 
 Local AI models should be the default.
 
-⬆️ 1838 • 💬 733 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1839 • 💬 734 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -209,13 +205,13 @@ Local AI models should be the default.
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 841 • 💬 894 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 845 • 💬 902 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 366 • 💬 107 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 366 • 💬 106 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -255,7 +251,7 @@ An article about ADHD, Task Paralysis and AI.
 
 Workers are using an internal AI tool to automate non-essential tasks.
 
-⬆️ 199 • 💬 211 • 5h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+⬆️ 204 • 💬 214 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -271,7 +267,7 @@ The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" in
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 171 • 💬 209 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 171 • 💬 208 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 
 ---
 
@@ -285,7 +281,7 @@ Gemini vs Claude is finally settled with Google Stitch and Claude Design going h
 
 📺 AI LABS
 
-👁️ 4K • 👍 95 • 💬 11 • ⏱️ 10:46 • 8h ago
+👁️ 4K • 👍 95 • 💬 11 • ⏱️ 10:46 • 9h ago
 
 ---
 
@@ -295,7 +291,7 @@ Get started with Greptile today https://greptile.com/go/berman 14 Day Free Trial
 
 📺 Matthew Berman
 
-👁️ 17K • 👍 767 • 💬 189 • ⏱️ 16:53 • 3h ago
+👁️ 17K • 👍 767 • 💬 189 • ⏱️ 16:53 • 4h ago
 
 ---
 
@@ -325,7 +321,7 @@ Claude Mythos may have just crossed one of the strangest lines in AI. A new METR
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 141 • ⏱️ 15:57 • 23h ago
+👁️ 38K • 👍 1K • 💬 141 • ⏱️ 15:57 • 1d ago
 
 ---
 
@@ -335,7 +331,7 @@ Google Chrome apparently installs a 4GB AI agent on your computer without explic
 
 📺 Clownfish TV
 
-👁️ 34K • 👍 3K • 💬 699 • ⏱️ 17:46 • 18h ago
+👁️ 34K • 👍 3K • 💬 699 • ⏱️ 17:46 • 20h ago
 
 ---
 
@@ -345,7 +341,7 @@ Should we think of AI as a co-intelligence and digital coworker rather than just
 
 📺 MS NOW
 
-👁️ 3K • 👍 131 • 💬 80 • ⏱️ 58:06 • 9h ago
+👁️ 3K • 👍 131 • 💬 80 • ⏱️ 58:06 • 10h ago
 
 ---
 
@@ -355,7 +351,7 @@ Create Your Own Fashion AI Ads with OpenArt ...
 
 📺 Isa does AI
 
-👁️ 9K • ⏱️ 9:47 • 10h ago
+👁️ 9K • ⏱️ 9:47 • 11h ago
 
 ---
 
@@ -363,7 +359,7 @@ Create Your Own Fashion AI Ads with OpenArt ...
 
 📺 Merriam Faith
 
-👁️ 8K • 👍 578 • 💬 16 • ⏱️ 0:19 • 5h ago
+👁️ 8K • 👍 578 • 💬 16 • ⏱️ 0:19 • 6h ago
 
 ---
 
@@ -389,7 +385,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 157,648 • ❤️ 721 • 3d ago
+⬇️ 157,648 • ❤️ 721 • 4d ago
 
 ---
 
@@ -401,7 +397,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 66,119 • ❤️ 449 • 23h ago
+⬇️ 66,119 • ❤️ 449 • 1d ago
 
 ---
 
@@ -413,7 +409,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 0 • ❤️ 390 • 15h ago
+⬇️ 0 • ❤️ 390 • 16h ago
 
 ---
 
@@ -667,7 +663,7 @@ See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C
 
 `TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
 
-⭐ 6.2k • 🔱 475 • 16h ago
+⭐ 6.2k • 🔱 475 • 18h ago
 
 ---
 
@@ -677,7 +673,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 830 • 3h ago
+⭐ 2.9k • 🔱 830 • 4h ago
 
 ---
 
@@ -687,7 +683,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.6k • 🔱 256 • 1h ago
+⭐ 2.6k • 🔱 256 • 2h ago
 
 ---
 
@@ -697,7 +693,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 229 • 9h ago
+⭐ 2.5k • 🔱 229 • 10h ago
 
 ---
 
@@ -727,7 +723,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.1k • 🔱 131 • 8h ago
+⭐ 2.1k • 🔱 131 • 9h ago
 
 ---
 
