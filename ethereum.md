@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-12T11:57:43.457027+00:00'
+updated: '2026-05-12T14:37:30.966807+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 11:57 UTC  
+**Last Updated:** May 12, 2026 at 14:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,292.76
+### $2,275.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -2.8%  
-**30d:** -3.5%  
-**90d:** +17.4%  
-**1y:** -14.9%  
+**24h:** -2.8%  
+**7d:** -3.5%  
+**30d:** -4.3%  
+**90d:** +16.4%  
+**1y:** -15.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.81B
+**Market Cap:** $273.96B
 Rank #2
 
 **Circulating Supply:** 120,686,358 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.8%
+-54.2%
 
 **All-Time Low:** $0.43
-+527720.1%
++523542.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+9h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock filed for tokenized money-market fund shares on Ethereum, adding pressure to the chain race for real-world asset settlement.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 13h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/blackrock-picks-ethereum-tokenized-funds/) • 16h ago
 
 ---
 
 **[Protocol Cluster Updates: May 2026](https://www.reddit.com/r/ethereum/comments/1taex6u/protocol_cluster_updates_may_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 15h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/05/11/protocol-update-may-26) • 18h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
 
-1d ago
+2d ago
 
 ---
 
@@ -124,7 +124,7 @@ I have learned the following: solidity basics using cryptozombies smart contract
 
 **[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -150,7 +150,7 @@ Hey all! Our next EEZ Community Call is just around the corner. You can secure y
 
 **[Protocol Cluster Updates: May 2026](https://blog.ethereum.org/2026/05/11/protocol-update-may-26)**
 
-ethereum.org • 19h ago
+ethereum.org • 22h ago
 
 ---
 
@@ -158,7 +158,21 @@ ethereum.org • 19h ago
 
 The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer.
 
-The Block • 14h ago
+The Block • 17h ago
+
+---
+
+**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+
+Disruption Banking • 1h ago
+
+---
+
+**[Ethereum/Bitcoin Ratio Falls To 10-Month Low](https://finance.yahoo.com/markets/crypto/articles/ethereum-bitcoin-ratio-falls-10-134700826.html)**
+
+The closely watched Ethereum-to-Bitcoin (ETH/BTC) ratio has fallen to a 10-month low.
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -166,7 +180,7 @@ The Block • 14h ago
 
 Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday’s opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from Monday’s opening price.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -174,7 +188,7 @@ Yahoo Finance • 24m ago
 
 The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -182,13 +196,21 @@ CoinDesk • 22h ago
 
 Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
 **[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
 
-Gizmodo • 19h ago
+Gizmodo • 21h ago
+
+---
+
+**[Current price of Ethereum for May 12, 2026](https://fortune.com/article/price-of-ethereum-05-12-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -196,29 +218,7 @@ Gizmodo • 19h ago
 
 Ripple Prime CEO Mike Higgins says cryptocurrencies like XRP, Bitcoin, Ethereum, and Solana could soon play a much larger role in institutional finance through cross-margining and collateral systems.Speaking about the future of tokenized finance, Higgins explained that institutions may eventually u…
 
-TradingView • 7h ago
-
----
-
-**[Bitcoin Price Treads Water, XRP and Ethereum Fall. The Crypto Bill May Cause a Rift This Week.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-crypto-markets-today-782d1fc5)**
-
-Barron's • 1d ago
-
----
-
-**[Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up](https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum)**
-
-Crypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.
-
-Decrypt • 1d ago
-
----
-
-**['Wartime Store Of Value': Tom Lee Sees Ethereum At $62K](https://stocktwits.com/news-articles/markets/equity/tom-lee-drops-new-ethereum-target/cZXaQPvRehA)**
-
-On Monday, BitMine increased its Ethereum holdings to 5.2 million ETH but slowed its weekly buying, reducing it from over 100,000 to 26,659 ETH.
-
-Stocktwits • 21h ago
+TradingView • 9h ago
 
 ---
 
@@ -232,17 +232,17 @@ Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the 
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 87 • 💬 16 • ⏱️ 9:08 • 18h ago
+👁️ 3K • 👍 94 • 💬 43 • ⏱️ 9:08 • 21h ago
 
 ---
 
-**[🚨 Ethereum BOTTOM Signal?](https://www.youtube.com/watch?v=RIUfiK--W4I)**
+**[ETH Deep Dive (bullish and bearish projections)](https://www.youtube.com/watch?v=S1e5MeaFoSg)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks down why ETH still looks weaker even after its ...
 
-📺 🌟yourfriendsommi
+📺 Coin Bureau Trading
 
-👁️ 926 • 👍 164 • 💬 23 • ⏱️ 14:41 • 5h ago
+👁️ 3K • 👍 230 • 💬 27 • ⏱️ 23:49 • 8h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 7 • ⏱️ 4:54 • 3h ago
+👁️ 151 • 👍 10 • ⏱️ 4:54 • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 2K • 👍 145 • 💬 56 • ⏱️ 8:44 • 1d ago
+👁️ 3K • 👍 149 • 💬 55 • ⏱️ 8:44 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 266 • ⏱️ 10:13 • 2d ago
+👁️ 39K • 👍 2K • 💬 265 • ⏱️ 10:13 • 2d ago
 
 ---
 
@@ -282,17 +282,17 @@ If you're concerned about scams or want to keep an eye on your credit, check out
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 20K • 👍 397 • 💬 144 • ⏱️ 9:26 • 2d ago
+👁️ 20K • 👍 396 • 💬 118 • ⏱️ 9:26 • 2d ago
 
 ---
 
-**[BitMine’s Collapse: Ethereum Holders Beware](https://www.youtube.com/watch?v=9sVnDqksMwE)**
+**[🚨 Ethereum BOTTOM Signal?](https://www.youtube.com/watch?v=RIUfiK--W4I)**
 
-A gigantic Ethereum holder is about to test the entire crypto market. BitMine once soared as 'the safest bet on ETH'—now its ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Coin Bureau
+📺 🌟yourfriendsommi
 
-👁️ 25K • 👍 870 • 💬 89 • ⏱️ 12:01 • 2d ago
+👁️ 1K • 👍 204 • 💬 24 • ⏱️ 14:41 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ A gigantic Ethereum holder is about to test the entire crypto market. BitMine on
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 464 • 💬 24 • ⏱️ 1:00 • 2d ago
+👁️ 12K • 👍 465 • 💬 24 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -310,7 +310,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 171 • 💬 280 • ⏱️ 0:44 • 18h ago
+👁️ 7K • 👍 176 • 💬 284 • ⏱️ 0:44 • 21h ago
 
 ---
 
@@ -320,7 +320,7 @@ In today's Pro Charts: Crypto update, verified pro trader Lawton Ho breaks down 
 
 📺 Verified Pro Traders
 
-👁️ 1K • 👍 128 • 💬 4 • ⏱️ 8:56 • 13h ago
+👁️ 2K • 👍 137 • 💬 4 • ⏱️ 8:56 • 16h ago
 
 ---
 
