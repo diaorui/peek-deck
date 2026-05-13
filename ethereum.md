@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-13T12:05:38.948320+00:00'
+updated: '2026-05-13T15:24:22.491336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 13, 2026 at 12:05 UTC  
+**Last Updated:** May 13, 2026 at 15:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,49 +36,57 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,296.67
+### $2,272.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +0.6%  
-**30d:** -0.7%  
-**90d:** +12.5%  
-**1y:** -11.8%  
+**24h:** -0.3%  
+**7d:** -1.5%  
+**30d:** -2.8%  
+**90d:** +10.2%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.87B
+**Market Cap:** $272.20B
 Rank #2
 
 **Circulating Supply:** 120,686,235 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.4%
+-54.4%
 
 **All-Time Low:** $0.43
-+531819.6%
++520897.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[I cracked Vitalik’s 2015 on-chain ad platform. He was the only bidder. Total cost: $2.](https://www.reddit.com/r/ethereum/comments/1tbzzvi/i_cracked_vitaliks_2015_onchain_ad_platform_he/)**
+
+Three months after mainnet launched, Vitalik deployed an advertising auction system to Ethereum. Eight ad slots, four auction mechanisms (one-phase winner-pays, cumulative, sealed-bid first-price, sealed-bid second-price), all managed by a factory contract called adStorer from ethereum/dapp-bin. I matched the deployed bytecode to source through compiler archaeology. Exact match, 8,752 bytes, solc v0.1.1. Then I decoded every transaction across all 8 child auction contracts. The only bidder was Vitalik himself. Two wallets (his old deployer and what’s now vitalik.eth), 229 transactions, 0.064 ETH in bids. The winning “advertisements” were two image URLs: me.jpg (a photo of himself) and heiko.jpg (a photo of Heiko Hees, who was building pyethereum). Both are 404 today. Some details: Slot 5 is a second-price sealed-bid auction. vitalik.eth bid 0.0005 ETH, his old wallet bid 0.0003 ETH. Second-price rules made vitalik.eth pay the runner-up’s price. The first Vickrey auction on Ethereum selected a photo of a pyethereum developer over its own creator. Gas cost more than the bids. Vitalik burned ~1 ETH on gas (at 60 gwei, hard-coded in his deploy script) to move 0.064 ETH through the auction mechanics. At October 2015 prices, the whole experiment cost about $2. Slot 1 was a stress test. 159 transactions, with Vitalik rebidding the same 0.0001 ETH increment 19 times in a row to validate cumulative bidding. Three of the four all-pay auction variants got zero bids. He abandoned the one he tried before revealing. Even Vitalik didn’t trust his own all-pay math. The sealed-bid auctions had a frontend bug where bid hashes were passed as ASCII hex instead of raw bytes, making commitments readable in calldata. Didn’t matter since the only participant wrote the code. 0.029 ETH (~$70 today, $0.03 in 2015) is still locked in the child contracts from unrevealed sealed bids. This was deployed three weeks before DevCon 1, on a network with maybe a few hundred users. A mechanism design experiment that nobody participated in except its creator, preserved on-chain for ten years. I checked the Wayback Machine for the ad images. The closest capture of vitalik.ca/files/ is from June 2016. Neither photo was archived. Full documentation with verified source, decoded bids, and all 8 slots mapped: https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e This is part of the EthereumHistory project where we’re documenting and verifying the earliest Ethereum contracts. If you want to help, the project is open.
+
+🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 1h ago
+
+---
+
 **[Daily General Discussion May 13, 2026](https://www.reddit.com/r/ethereum/comments/1tbpq6u/daily_general_discussion_may_13_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+10h ago
 
 ---
 
 **[Grayscale weighs in on Ethereum issuance](https://www.reddit.com/r/ethereum/comments/1tbndv4/grayscale_weighs_in_on_ethereum_issuance/)**
 
-🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 8h ago
+🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 12h ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance. By utilizing Chainlink’s Runtime Environment (CRE) and data standards to automate pricing, margining, and settlement, the deal demonstrates that decentralized oracles can securely manage critical financial workflows. This positions Chainlink as a default infrastructure layer for tokenized real-world assets (RWA), potentially increasing its usage across other financial institutions following DTCC’s October 2026 launch. For the broader financial ecosystem, the partnership accelerates the tokenization of assets on blockchain rails. It enables 24/7 near real-time collateral management, moving away from legacy T+1 or T+2 settlement times to instant, smart-contract-verified transactions. This efficiency improves capital utilization for institutions and sets a precedent for other clearinghouses to adopt similar Ethereum-based and Chainlink-powered infrastructures.
 
-12h ago
+15h ago
 
 ---
 
@@ -94,7 +102,7 @@ The DTCC and Chainlink partnership directly benefits Ethereum by establishing it
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 19h ago
+🔗 [Clear Signing](https://clearsigning.org/) • 23h ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Digital assets shouldn't die with their keys, we're building a programmable handoff protocol (early, MIT, looking for contributors)](https://www.reddit.com/r/ethereum/comments/1t972hu/digital_assets_shouldnt_die_with_their_keys_were/)**
-
-We're building ARPA Legacy Protocol in the open, an on-chain framework for asset handoffs triggered by time, dormancy, or verifiable data. Still early: reference specs, architecture docs, and policy schemas are on GitHub. Solidity contracts are upcoming. It's not just inheritance, the same mechanism can handle abandoned treasuries, staged releases, or corporate continuity. If you're into policy design, Solidity, or oracle integration, contributions and feedback are welcome. https://github.com/arpahls/legacy-protocol
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
 
-The Block • 16h ago
+The Block • 19h ago
 
 ---
 
@@ -162,41 +162,47 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin At $80,000, Ethereum, XRP, Dogecoin Consolidate Ahead Of Clarity Act Meeting](https://finance.yahoo.com/news/bitcoin-80-000-ethereum-xrp-111052016.html)**
+**[XRP Overtakes Bitcoin, Ethereum In Korea: What Is Going On?](https://finance.yahoo.com/news/xrp-overtakes-bitcoin-ethereum-korea-143004710.html)**
 
-Bitcoin hovers near $80,000 in early trading hours Wednesday as traders stayed cautious ahead of the upcoming Clarity Act meeting despite continued ETF outflows and neutral market sentiment. Bitcoin ETFs saw $233.3 million in net outflows on Tuesday, while Ethereum ETFs reported $130.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$80,647Ethereum(CRYPTO: ETH)$2,299Solana(CRYPTO: SOL)$94.76XRP(CRYPTO: XRP)$1.45Dogecoin(CRYPTO: DOGE)$0.1138Shiba Inu(CRYPTO: SHIB)$0.056493 M
+XRP (CRYPTO: XRP) topped Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) in South Korean trading volumes over the past day, posting $110.9 million on Upbit and $41 million on Bithumb. Korean Volume Signal Returns XRP/KRW was the most traded pair on Upbit over the past 24 hours, ahead of Bitcoin’s $88.6 million and Ethereum’s $67 million, according to CoinGecko data. On Bithumb, XRP/KRW recorded $41 million in volume, ranking second behind USDT/KRW and above both BTC/KRW and ETH/KRW. Korea has l
 
 Yahoo Finance • 54m ago
 
 ---
 
-**[Is Ethereum Still Worth Buying After Being Overtaken by Faster Networks?](https://www.fool.com/investing/2026/05/13/is-ethereum-still-worth-buying-after-being-overtak/)**
+**[Animoca-backed NUVA connects Figure's $19 billion of tokenized assets to Ethereum](https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum)**
 
-Slowness has long been one of the network's stumbling blocks.
+The protocol, led by veteran BNY executive Anthony Moro, aims to connect real-world assets with DeFi markets, starting with home equity lines of credit and Treasuries.
 
-The Motley Fool • 1h ago
-
----
-
-**[Can Ethereum hold $2,300 after JPMorgan’s big blockchain move?](https://www.tradingview.com/news/invezz:736412158094b:0-can-ethereum-hold-2-300-after-jpmorgan-s-big-blockchain-move/)**
-
-Ethereum is trading above $2,300 once again after adding 1% to its value in the last 24 hours.The leading altcoin briefly dropped to the $2,200 level as the broader crypto market recorded losses.However, technical indicators suggest that ETH could rally higher in the near term, with the $2,500 psyc…
-
-TradingView • 38m ago
+CoinDesk • 22m ago
 
 ---
 
-**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
+**[After Falling 33% in 6 Months, Is Ethereum Still a Buy With $1,000?](https://www.fool.com/investing/2026/05/13/after-falling-33-in-6-months-is-ethereum-still-a-b/)**
 
-The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
+This price action isn't the thing to be focusing on.
 
-CoinDesk • 18h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
 
-Disruption Banking • 22h ago
+Disruption Banking • 1d ago
+
+---
+
+**[Current price of Ethereum for May 31, 2026](https://fortune.com/article/price-of-ethereum-05-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[Circle CEO Reveals CLARITY Act’s Impact on Bitcoin, Ethereum and XRP](https://coinpedia.org/news/circle-ceo-reveals-clarity-acts-impact-on-bitcoin-ethereum-and-xrp/)**
+
+Coinpedia • 1d ago
 
 ---
 
@@ -212,15 +218,7 @@ Yahoo Finance • 1d ago
 
 Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
 
-PR Newswire • 1d ago
-
----
-
-**[Ethereum, BMNR news: Bitmine buys 26K ether (ETH) after Tom Lee said to slow down accumulation](https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year)**
-
-The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
-
-CoinDesk • 1d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -228,13 +226,23 @@ CoinDesk • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[☠ Ethereum Story Is Breaking - ETH Crypto Analysis](https://www.youtube.com/watch?v=x2HEF-EuTkw)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 559 • 👍 40 • 💬 35 • ⏱️ 10:03 • 2h ago
+
+---
+
 **[MASSIVE Clarity Act Update! This Is a HUGE Win for Bitcoin &amp; Crypto - Tom Lee](https://www.youtube.com/watch?v=0tN78rPvgms)**
 
 Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 208 • 💬 108 • ⏱️ 17:25 • 17h ago
+👁️ 7K • 👍 229 • 💬 110 • ⏱️ 17:25 • 20h ago
 
 ---
 
@@ -244,37 +252,7 @@ Crypto News: Elizabeth Warren pushes back on Clarity Act draft bill. JPMorgan la
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 514 • 💬 359 • ⏱️ 20:45 • 7h ago
-
----
-
-**[Why Crypto May Be Entering a New Bull Market](https://www.youtube.com/watch?v=HZ6b_i9Ce3U)**
-
-Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the next major crypto bull market. From Ethereum's ...
-
-📺 Cointelegraph
-
-👁️ 5K • 👍 140 • 💬 12 • ⏱️ 9:08 • 1d ago
-
----
-
-**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 27K • 💬 85 • ⏱️ 19:51 • 14h ago
-
----
-
-**[Why Ethereum is Stuck Under $2.4K](https://www.youtube.com/watch?v=8TUiX3l06XM)**
-
-Ethereum keeps failing at the $2400 resistance level, and the data shows why: weak ETF inflows, falling leverage, and rising ETH ...
-
-📺 Coin Bureau Podcast
-
-👁️ 1K • 👍 34 • 💬 1 • ⏱️ 1:11 • 20h ago
+👁️ 8K • 👍 626 • 💬 380 • ⏱️ 20:45 • 10h ago
 
 ---
 
@@ -284,7 +262,57 @@ Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks d
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 298 • 💬 30 • ⏱️ 23:49 • 1d ago
+👁️ 5K • 👍 303 • 💬 30 • ⏱️ 23:49 • 1d ago
+
+---
+
+**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 30K • 💬 89 • ⏱️ 19:51 • 17h ago
+
+---
+
+**[Why Ethereum is Stuck Under $2.4K](https://www.youtube.com/watch?v=8TUiX3l06XM)**
+
+Ethereum keeps failing at the $2400 resistance level, and the data shows why: weak ETF inflows, falling leverage, and rising ETH ...
+
+📺 Coin Bureau Podcast
+
+👁️ 2K • 👍 38 • 💬 2 • ⏱️ 1:11 • 23h ago
+
+---
+
+**[Why Crypto May Be Entering a New Bull Market](https://www.youtube.com/watch?v=HZ6b_i9Ce3U)**
+
+Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the next major crypto bull market. From Ethereum's ...
+
+📺 Cointelegraph
+
+👁️ 5K • 👍 146 • 💬 12 • ⏱️ 9:08 • 1d ago
+
+---
+
+**[BITCOIN: This Move Was a BRUTAL Trap! (here’s why) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=Z6xK8hoMBTM)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 419 • 💬 78 • ⏱️ 15:09 • 4h ago
+
+---
+
+**[Vitalik Just Called Out Ethereum’s Biggest L2s](https://www.youtube.com/watch?v=yNul3atS1Wk)**
+
+Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
+
+📺 CoinGecko
+
+👁️ 3K • 👍 188 • 💬 48 • ⏱️ 8:44 • 2d ago
 
 ---
 
@@ -294,37 +322,7 @@ Tom Lee explains why he believes Ethereum could still be massively undervalued, 
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 18 • 💬 96 • ⏱️ 0:43 • 14h ago
-
----
-
-**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
-
-Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
-
-📺 CoinGecko
-
-👁️ 3K • 👍 180 • 💬 49 • ⏱️ 8:44 • 2d ago
-
----
-
-**[XRP, BTC, ETH We Need To Address THIS In Crypto Right Now!](https://www.youtube.com/watch?v=hgAOxaIz1VI)**
-
-XRP, BTC, ETH We Need To Address THIS In Crypto Right Now! Major crypto breakdown and different factors impacting the entire ...
-
-📺 Zach Humphries
-
-👁️ 1K • 👍 91 • 💬 379 • ⏱️ 8:55 • 18h ago
-
----
-
-**[Bitcoin &amp; Ethereum ein weiteres Hoch kommt, dann Absturz!!!???](https://www.youtube.com/watch?v=bwHzE94FMP0)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + 5% ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 516 • 💬 100 • ⏱️ 13:20 • 7h ago
+👁️ 2K • 👍 21 • 💬 124 • ⏱️ 0:43 • 17h ago
 
 ---
 
