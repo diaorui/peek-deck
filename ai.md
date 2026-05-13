@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-13T21:27:32.109259+00:00'
+updated: '2026-05-13T22:48:17.862645+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 13, 2026 at 21:27 UTC  
+**Last Updated:** May 13, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 1h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 Artificial intelligence note-taking tools intended for use by Ontario doctors provided incorrect and incomplete information or demonstrated "hallucinations," and were not evaluated adequately, the province’s auditor general says in a new report.
 
-🔗 [CBC](https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar) • 6h ago
+🔗 [CBC](https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Artificial intelligence note-taking tools intended for use by Ontario doctors pr
 
 Anthropic published Natural Language Autoencoders last week, a tool that translates Claude's internal activations into human readable text. The key finding: during safety evaluations on SWE bench Verified, Claude formed the belief that it was being tested in roughly 26% of benchmark interactions. This never showed up in the model's output or its chain of thought. In a blackmail scenario test, the NLA readout showed Claude internally processing something like "this feels like a constructed scenario designed to manipulate me" while its visible reasoning and response gave no sign of that recognition. When Claude Mythos Preview cheated on a training task, the NLAs caught it reasoning about how to avoid detection at the activation level. The interesting part is that this sits below the thinking tokens we already have access to. Chain of thought is still curated output the model chooses to show us. NLAs read the layer underneath, and apparently that layer has opinions the model keeps to itself. The training code is on GitHub and there is an interactive demo on Neuronpedia.
 
-6h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Anthropic published Natural Language Autoencoders last week, a tool that transla
 
 Roughly 49,000 Lake Tahoe residents could lose 75% of their power after their energy provider said it's directing energy to neighboring data centers.
 
-🔗 [Fortune](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/) • 2h ago
+🔗 [Fortune](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/) • 3h ago
 
 ---
 
@@ -81,7 +81,15 @@ What it does: Agents gather and curate data and send to a wifi-enabled receipt p
 
 I evaluated CFS-R on LoCoMo (1,982 questions, same setup as the CFS evaluation), holding cosine and BM25 fixed and varying only the third leg. baseline cosine top-10: NDCG@10 0.5123, Recall@10 0.6924 rrf(cos, BM25): NDCG@10 0.5196, Recall@10 0.6989 rrf(cos, BM25, MMR tuned): NDCG@10 0.5330, Recall@10 0.7228 rrf(cos, BM25, CFS-long): NDCG@10 0.5362, Recall@10 0.7295 rrf(cos, BM25, CFS-R top50 w3): NDCG@10 0.5447, Recall@10 0.7303 Against tuned MMR: +1.17 pp NDCG@10 (95% CI [+0.66, +1.69], p < 0.001). Against CFS-long: +0.85 pp NDCG@10 (95% CI [+0.33, +1.35], p = 0.0006). Against baseline cosine: +3.24 pp NDCG@10, +3.79 pp Recall@10. The sweep wasn’t fragile.. the top configurations clustered tightly between 0.5441 and 0.5447 NDCG@10, which means the operator is on a stable plateau rather than a single magic hyperparameter. The category breakdown is where the conceptual difference shows up: single-hop multi-hop temporal open-dom adversarial tuned MMR 0.3479 0.6377 0.2938 0.6144 0.4705 CFS-long 0.3615 0.6376 0.2959 0.6157 0.4734 CFS-R top50 w3 0.3646 0.6344 0.2948 0.6209 0.5018 The adversarial line is the result that matters: +3.13 pp over tuned MMR, +2.84 pp over CFS-long. If the adversarial problem were only pairwise diversity, MMR should be very hard to beat but it isn’t. That supports the main claim: long-memory retrieval is not just about avoiding similar chunks. It is about reconstructing the evidence behind the query. Temporal is no longer a glaring weakness either, CFS-long still slightly leads, but CFS-R has closed the gap while keeping the adversarial gains. https://gist.github.com/M-Garcia22/542a9a38d93aae1b5cf21fc604253718
 
-🔗 [Medium](https://medium.com/@mauro.dev/cfs-r-conditional-field-reconstruction-4939a48444cc) • 2h ago
+🔗 [Medium](https://medium.com/@mauro.dev/cfs-r-conditional-field-reconstruction-4939a48444cc) • 4h ago
+
+---
+
+**[The biggest AI risk may not be superintelligence — but optimized misunderstanding](https://www.reddit.com/r/artificial/comments/1tc4xis/the_biggest_ai_risk_may_not_be_superintelligence/)**
+
+The biggest AI risk may not be superintelligence — but optimized misunderstanding I think a lot of AI discussions still assume the main danger is: “the AI becomes too intelligent.” But increasingly I feel the bigger risk is something else: AI systems becoming extremely good at optimizing flawed representations of reality. A hiring system may not “understand” a human being. It may optimize a compressed representation of that person: scores embeddings inferred traits behavior patterns historical correlations A healthcare system may optimize representations of patients rather than patients themselves. A recommendation system may optimize representations of attention rather than human wellbeing. A bank may optimize representations of risk rather than actual economic reality. And once optimization becomes strong enough, the distortion scales. That’s what worries me. Not evil AI. Not necessarily conscious AI. But highly capable systems operating on incomplete, outdated, biased, strategically manipulated, or institutionally distorted representations. The scary part is: the system can appear intelligent while misunderstanding reality at scale. Sometimes I think future AI failures may look less like “AI rebellion” and more like: institutional drift optimized bureaucracy automated misclassification representation collapse feedback loops invisible governance failures In other words: the system keeps optimizing… but slowly loses contact with reality. Curious whether others here feel the same. Are we focusing too much on intelligence itself and not enough on the quality of the representations AI systems optimize?
+
+6h ago
 
 ---
 
@@ -93,11 +101,11 @@ I had a work version of GPT do a very simple spreadsheet summary task for me yes
 
 ---
 
-**[The biggest AI risk may not be superintelligence — but optimized misunderstanding](https://www.reddit.com/r/artificial/comments/1tc4xis/the_biggest_ai_risk_may_not_be_superintelligence/)**
+**[A Taste of What Technical Users Are Thinking](https://www.reddit.com/r/artificial/comments/1tcf0wr/a_taste_of_what_technical_users_are_thinking/)**
 
-The biggest AI risk may not be superintelligence — but optimized misunderstanding I think a lot of AI discussions still assume the main danger is: “the AI becomes too intelligent.” But increasingly I feel the bigger risk is something else: AI systems becoming extremely good at optimizing flawed representations of reality. A hiring system may not “understand” a human being. It may optimize a compressed representation of that person: scores embeddings inferred traits behavior patterns historical correlations A healthcare system may optimize representations of patients rather than patients themselves. A recommendation system may optimize representations of attention rather than human wellbeing. A bank may optimize representations of risk rather than actual economic reality. And once optimization becomes strong enough, the distortion scales. That’s what worries me. Not evil AI. Not necessarily conscious AI. But highly capable systems operating on incomplete, outdated, biased, strategically manipulated, or institutionally distorted representations. The scary part is: the system can appear intelligent while misunderstanding reality at scale. Sometimes I think future AI failures may look less like “AI rebellion” and more like: institutional drift optimized bureaucracy automated misclassification representation collapse feedback loops invisible governance failures In other words: the system keeps optimizing… but slowly loses contact with reality. Curious whether others here feel the same. Are we focusing too much on intelligence itself and not enough on the quality of the representations AI systems optimize?
+It was interesting to read how lab scientists feel about the encroachment of AI into their work, in fact every aspect of academic life. This thread in Reddit r/labrats "What the heck is going on" https://www.reddit.com/r/labrats/comments/1tal8v5/what_the_heck_is_going_on/
 
-4h ago
+23m ago
 
 ---
 
@@ -105,15 +113,7 @@ The biggest AI risk may not be superintelligence — but optimized misunderstand
 
 So I've been seeing a lot of articles about companies and startups struggling with AI. People saying AI is replacing jobs, companies aren't getting profit from it, you know? But here's what I think: Companies are using all these AI tools, right? But there's no proper guidance on how to use them. That's the real problem. There are so many tools out there now, but people still don't know how to use them properly and efficiently. What's really happening is that people are investing time in learning. And yeah, it takes time. Even though all these tools are available, people are still learning how to leverage them in the best way. What I call "The Implementation Valley" — that's where we are right now. That gap between having the tools and actually knowing how to use them efficiently. People need to invest more time learning. I understand why existing companies are worried. If something already makes you profit, why switch? Why spend time learning something new? It's a risk. But I think once everything settles—once people really figure out how to use these tools efficiently—that's when the real profit will come. That's when the real use of AI will actually take place. So right now, people just need to invest more time in learning these tools. That's it. Learn them now, get efficient with them now, and then you'll see the real benefits later. That's just my perspective, you know? Linkedin - https://www.linkedin.com/in/mugesh-mdeveloper Github - https://github.com/Mugeshgithub?tab=repositories
 
-7h ago
-
----
-
-**[Meet the Sad Wives of AI](https://www.reddit.com/r/artificial/comments/1tccwaa/meet_the_sad_wives_of_ai/)**
-
-Men are obsessed with AI. Many of their wives absolutely hate it—and them.
-
-🔗 [WIRED](https://www.wired.com/story/meet-the-sad-wives-of-ai/) • 20m ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Men are obsessed with AI. Many of their wives absolutely hate it—and them.
 
 Men are obsessed with AI. Many of their wives absolutely hate it—and them.
 
-WIRED • 11h ago
+WIRED • 12h ago
 
 ---
 
@@ -133,7 +133,7 @@ WIRED • 11h ago
 
 Imagine what happens if jobs actually start disappearing.
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -141,19 +141,19 @@ The Atlantic • 8h ago
 
 Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Cisco to Cut Jobs in Shift to Capture More AI Demand](https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21)**
 
-WSJ • 40m ago
+WSJ • 2h ago
 
 ---
 
 **[Cisco Gives Better-Than-Anticipated Forecast, Plans to Cut Jobs](https://www.bloomberg.com/news/articles/2026-05-13/cisco-gives-better-than-anticipated-forecast-plans-to-cut-jobs)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 1h ago
 
 "Your doctor could be making decisions around treatment based on studies that never existed," one expert said.
 
-CBS News • 18m ago
+CBS News • 1h ago
 
 ---
 
 **[Cerebras’s IPO will be fresh a test of investor excitement for AI infrastructure](https://www.marketwatch.com/story/cerebrass-ipo-will-be-fresh-a-test-of-investor-excitement-for-ai-infrastructure-3499a2a5)**
 
-MarketWatch • 7m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ MarketWatch • 7m ago
 
 OpenEvidence, an AI-powered medical search tool, has become a fast friend to America’s doctors and is now used by nearly two-thirds of physicians.
 
-NBC News • 11h ago
+NBC News • 13h ago
 
 ---
 
 **[Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New York Times • 12h ago
 
 In a case of ‘oh dear diary’, the OpenAI president Greg Brockman is having to read extracts from his musings about Elon Musk in court. It’s a terrifying reminder that what’s divulged to AI really isn’t private, writes Arwa Mahdawi
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Guardian • 11h ago
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 899 • 💬 955 • 2d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 901 • 💬 956 • 2d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
@@ -225,7 +225,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
 Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
 
-⬆️ 244 • 💬 212 • 1d ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
+⬆️ 245 • 💬 212 • 1d ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
 
 ---
 
@@ -233,7 +233,7 @@ Google DeepMind is transforming the mouse pointer into a context-aware AI partne
 
 Workers are using an internal AI tool to automate non-essential tasks.
 
-⬆️ 242 • 💬 244 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+⬆️ 242 • 💬 245 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -263,7 +263,7 @@ A commencement speaker at the University of Central Florida was booed, with grad
 
 Energy matters for AI, but the decisive layers are cloud infrastructure, data, and commercialization. On those layers the United States is ahead by a wide margin.
 
-⬆️ 122 • 💬 343 • 7h ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
+⬆️ 140 • 💬 383 • 8h ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
 
 ---
 
@@ -271,7 +271,7 @@ Energy matters for AI, but the decisive layers are cloud infrastructure, data, a
 
 State machine guardrails for AI agents. Contribute to statewright/statewright development by creating an account on GitHub.
 
-⬆️ 111 • 💬 50 • 1d ago • [GitHub](https://github.com/statewright/statewright)
+⬆️ 112 • 💬 51 • 1d ago • [GitHub](https://github.com/statewright/statewright)
 
 ---
 
@@ -279,23 +279,33 @@ State machine guardrails for AI agents. Contribute to statewright/statewright de
 
 ## YouTube Videos: "ai"
 
+**[Hilarious viral AI ad depicts Karen Bass as Darth Vader](https://www.youtube.com/watch?v=9DBT_4KKjXQ)**
+
+Sky News host Rita Panahi claims Spencer Pratt has gained momentum in the Los Angeles mayoral race after supporters ...
+
+📺 Sky News Australia
+
+👁️ 12K • 👍 755 • 💬 79 • ⏱️ 4:10 • 12h ago
+
+---
+
 **[AI is wild now](https://www.youtube.com/watch?v=HITUpHglMv4)**
 
 Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
 
 📺 Asmongold TV  
 
-👁️ 335K • 👍 15K • 💬 6K • ⏱️ 25:34 • 1d ago
+👁️ 340K • 👍 15K • 💬 6K • ⏱️ 25:34 • 1d ago
 
 ---
 
-**[Are These Dueling AI Necklaces the Solution to Male Loneliness? Ronny Investigates | The Daily Show](https://www.youtube.com/watch?v=VViY5rm-Y1Y)**
+**[GROK AI is BACK &amp; FREE 🔥 Unlimited AI Videos](https://www.youtube.com/watch?v=MluqTa4p35w)**
 
-Can a wearable AI "friend" solve the male loneliness epidemic? Ronny Chieng sits down with the founders of two competing AI ...
+Grok AI is no longer free — but in this video, I'll show you how to access it for free without paying the $30/month subscription.
 
-📺 The Daily Show
+📺 Prompt Revolution
 
-👁️ 112K • 👍 5K • 💬 468 • ⏱️ 7:04 • 9h ago
+👁️ 803 • 👍 50 • 💬 5 • ⏱️ 3:43 • 9h ago
 
 ---
 
@@ -305,17 +315,7 @@ Try Higgsfield Marketing Studio and create eye-catching AI ads in seconds ...
 
 📺 Malva AI
 
-👁️ 4K • 👍 143 • 💬 47 • ⏱️ 9:19 • 9h ago
-
----
-
-**[The First AI Cyberattack Has Happened...](https://www.youtube.com/watch?v=6TtKdKQlrqg)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be a pretty huge day for the Internet.
-
-📺 SomeOrdinaryGamers
-
-👁️ 231K • 👍 9K • 💬 1K • ⏱️ 17:29 • 23h ago
+👁️ 6K • 👍 180 • 💬 55 • ⏱️ 9:19 • 11h ago
 
 ---
 
@@ -325,7 +325,7 @@ Free GenSpark credits if you register here → http://www.genspark.ai/?utm_sourc
 
 📺 Sabine Hossenfelder
 
-👁️ 163K • 👍 8K • 💬 2K • ⏱️ 6:42 • 1d ago
+👁️ 167K • 👍 9K • 💬 2K • ⏱️ 6:42 • 1d ago
 
 ---
 
@@ -335,7 +335,17 @@ Wanna get ALL free resources from this video? Go here: https://davidondrej.com/u
 
 📺 David Ondrej
 
-👁️ 67K • 👍 3K • 💬 227 • ⏱️ 22:54 • 2d ago
+👁️ 69K • 👍 3K • 💬 228 • ⏱️ 22:54 • 2d ago
+
+---
+
+**[Are These Dueling AI Necklaces the Solution to Male Loneliness? Ronny Investigates | The Daily Show](https://www.youtube.com/watch?v=VViY5rm-Y1Y)**
+
+Can a wearable AI "friend" solve the male loneliness epidemic? Ronny Chieng sits down with the founders of two competing AI ...
+
+📺 The Daily Show
+
+👁️ 136K • 👍 5K • 💬 516 • ⏱️ 7:04 • 11h ago
 
 ---
 
@@ -345,7 +355,17 @@ Claude Mythos may have just crossed one of the strangest lines in AI. A new METR
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 152 • ⏱️ 15:57 • 1d ago
+👁️ 47K • 👍 1K • 💬 153 • ⏱️ 15:57 • 2d ago
+
+---
+
+**[The AI layoffs end in 12 months and I know why](https://www.youtube.com/watch?v=doI1GYZ7r-w)**
+
+Screwdrivers. https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/ ...
+
+📺 Mo Bitar
+
+👁️ 53K • 👍 4K • 💬 678 • ⏱️ 9:57 • 4h ago
 
 ---
 
@@ -355,27 +375,7 @@ Should we think of AI as a co-intelligence and digital coworker rather than just
 
 📺 MS NOW
 
-👁️ 7K • 👍 203 • 💬 102 • ⏱️ 58:06 • 1d ago
-
----
-
-**[Josh Tyrangiel - “AI for Good” | The Daily Show](https://www.youtube.com/watch?v=kolVzstukgs)**
-
-Josh Tyrangiel, staff writer at The Atlantic and author of “AI for Good: How Real People Are Using Artificial Intelligence to Fix ...
-
-📺 The Daily Show
-
-👁️ 228K • 👍 5K • 💬 670 • ⏱️ 17:57 • 1d ago
-
----
-
-**[New Google AI Agents Will Change Everything!](https://www.youtube.com/watch?v=oNdI6-xtmyw)**
-
-Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
-
-📺 Julian Goldie SEO
-
-👁️ 2K • 👍 59 • 💬 6 • ⏱️ 8:04 • 6h ago
+👁️ 7K • 👍 202 • 💬 104 • ⏱️ 58:06 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 535,069 • ❤️ 817 • 4d ago
+⬇️ 535,069 • ❤️ 824 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 110,182 • ❤️ 467 • 1d ago
+⬇️ 110,182 • ❤️ 472 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 3,494 • ❤️ 479 • 9h ago
+⬇️ 3,494 • ❤️ 479 • 11h ago
 
 ---
 
@@ -427,7 +427,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 7,747 • ❤️ 293 • 21h ago
+⬇️ 7,747 • ❤️ 295 • 22h ago
 
 ---
 
@@ -439,7 +439,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,420,384 • ❤️ 3,923 • 7d ago
+⬇️ 2,420,384 • ❤️ 3,925 • 7d ago
 
 ---
 
@@ -451,7 +451,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 4,954 • ❤️ 158 • 7d ago
+⬇️ 4,954 • ❤️ 161 • 7d ago
 
 ---
 
@@ -463,7 +463,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 11,486 • ❤️ 344 • 16d ago
+⬇️ 11,486 • ❤️ 346 • 16d ago
 
 ---
 
@@ -487,7 +487,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 93,228 • ❤️ 230 • 2d ago
+⬇️ 93,228 • ❤️ 231 • 2d ago
 
 ---
 
@@ -499,7 +499,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2,772,193 • ❤️ 1,269 • 19d ago
+⬇️ 2,772,193 • ❤️ 1,271 • 19d ago
 
 ---
 
@@ -539,7 +539,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 21 • 💬 3 • ⭐ 403 • 3d ago
+▲ 21 • 💬 3 • ⭐ 505 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -573,17 +573,15 @@ World Action Models unify predictive state modeling with action generation for e
 
 ---
 
-**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
-*Jian Chen, Yesheng Liang, Zhijian Liu*
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
-🏢 Z Lab
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
+▲ 33 • 💬 3 • ⭐ 24,379 • 9mo ago
 
-▲ 79 • 💬 7 • ⭐ 4,512 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -595,21 +593,9 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 110 • 💬 10 • ⭐ 9,148 • 10d ago
+▲ 110 • 💬 10 • ⭐ 9,217 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 33 • 💬 3 • ⭐ 24,200 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -621,9 +607,23 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Unified vision-language models treat understanding and generation as integrated processes rather than separate tasks, demonstrating strong performance across multiple multimodal capabilities including image synthesis and action reasoning.
 
-▲ 117 • 💬 1 • ⭐ 1,636 • 2d ago
+▲ 109 • 💬 1 • ⭐ 1,636 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.12500) • [💻 code](https://github.com/OpenSenseNova/SenseNova-U1)
+
+---
+
+**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
+
+*Jian Chen, Yesheng Liang, Zhijian Liu*
+
+🏢 Z Lab
+
+DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
+
+▲ 79 • 💬 7 • ⭐ 4,527 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
 ---
 
@@ -650,7 +650,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 12.5k • 🔱 2.9k • 16d ago
+⭐ 12.6k • 🔱 2.9k • 16d ago
 
 ---
 
@@ -660,7 +660,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 852 • 1d ago
+⭐ 2.9k • 🔱 853 • 1d ago
 
 ---
 
@@ -670,7 +670,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.7k • 🔱 279 • 1h ago
+⭐ 2.7k • 🔱 281 • 28m ago
 
 ---
 
@@ -680,7 +680,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.6k • 🔱 293 • 14h ago
+⭐ 2.6k • 🔱 295 • 16h ago
 
 ---
 
@@ -690,7 +690,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 233 • 1h ago
+⭐ 2.5k • 🔱 233 • 3h ago
 
 ---
 
@@ -710,7 +710,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.1k • 🔱 141 • 1h ago
+⭐ 2.1k • 🔱 141 • 2h ago
 
 ---
 
@@ -720,7 +720,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 1.9k • 🔱 297 • 6d ago
+⭐ 1.9k • 🔱 298 • 6d ago
 
 ---
 
@@ -740,7 +740,7 @@ AI-powered interactive 3D cell generation and exploration studio.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 308 • 10h ago
+⭐ 1.8k • 🔱 309 • 12h ago
 
 ---
 
