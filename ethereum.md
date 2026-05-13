@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-12T23:36:15.858516+00:00'
+updated: '2026-05-13T03:32:00.757810+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 12, 2026 at 23:36 UTC  
+**Last Updated:** May 13, 2026 at 03:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -3.0%  
-**30d:** -3.8%  
-**90d:** +17.0%  
-**1y:** -15.1%  
+**24h:** -0.7%  
+**7d:** +0.3%  
+**30d:** -1.0%  
+**90d:** +12.2%  
+**1y:** -12.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $276.15B
+**Market Cap:** $277.27B
 Rank #2
 
-**Circulating Supply:** 120,686,358 ETH
+**Circulating Supply:** 120,686,235 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.8%
+-53.6%
 
 **All-Time Low:** $0.43
-+527927.9%
++530461.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Ethereum impact from Chainlink deal launching Collateral AppChain platform](https://www.reddit.com/r/ethereum/comments/1tbioxg/ethereum_impact_from_chainlink_deal_launching/)**
+
+The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance. By utilizing Chainlink’s Runtime Environment (CRE) and data standards to automate pricing, margining, and settlement, the deal demonstrates that decentralized oracles can securely manage critical financial workflows. This positions Chainlink as a default infrastructure layer for tokenized real-world assets (RWA), potentially increasing its usage across other financial institutions following DTCC’s October 2026 launch. For the broader financial ecosystem, the partnership accelerates the tokenization of assets on blockchain rails. It enables 24/7 near real-time collateral management, moving away from legacy T+1 or T+2 settlement times to instant, smart-contract-verified transactions. This efficiency improves capital utilization for institutions and sets a precedent for other clearinghouses to adopt similar Ethereum-based and Chainlink-powered infrastructures.
+
+3h ago
+
+---
+
 **[Daily General Discussion May 12, 2026](https://www.reddit.com/r/ethereum/comments/1tariy9/daily_general_discussion_may_12_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -80,7 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 7h ago
+🔗 [Clear Signing](https://clearsigning.org/) • 11h ago
+
+---
+
+**[Grayscale weighs in on Ethereum issuance](https://www.reddit.com/r/ethereum/comments/1tbndv4/grayscale_weighs_in_on_ethereum_issuance/)**
+
+🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 24m ago
 
 ---
 
@@ -130,45 +144,15 @@ I have learned the following: solidity basics using cryptozombies smart contract
 
 ---
 
-**[Polymarket scam](https://www.reddit.com/r/ethereum/comments/1t97tl3/polymarket_scam/)**
-
-2d ago
-
----
-
-**[Is credit scores on crypto chains going to be a thing in the future? If so how far?](https://www.reddit.com/r/ethereum/comments/1t8t8tm/is_credit_scores_on_crypto_chains_going_to_be_a/)**
-
-I would like to know if Credit Scoring on chains would be a thing in the future and how far away we are from it becoming the norm in the finance space. Is there any companies that actually uses credit scores on the blockchains?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[BitMine Slows Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-171700536.html)**
+**[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum](https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) has slowed its Ethereum (CRYPTO: $ETH) purchases over the past week.&n...
+Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum, BMNR news: Bitmine buys 26K ether (ETH) after Tom Lee said to slow down accumulation](https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year)**
-
-The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-21-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-4-billion-302767816.html)**
-
-Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
-
-PR Newswire • 1d ago
+Decrypt • 6h ago
 
 ---
 
@@ -180,11 +164,19 @@ The Block • 1d ago
 
 ---
 
-**[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum](https://finance.yahoo.com/news/jpmorgan-files-launch-tokenized-money-213114540.html)**
+**[Tom Lee Says Ethereum Could Reach $62,000 as Bitmine Nears 5% ETH Goal](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-could-143217064.html)**
 
-Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
+Tom Lee sees Ethereum's price potentially reaching $62,000. Bitmine now owns 4.31% of Ethereum’s total supply and aims to reach 5% by the end of ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
+
+The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
+
+CoinDesk • 9h ago
 
 ---
 
@@ -194,17 +186,9 @@ ethereum.org • 1d ago
 
 ---
 
-**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
-
-The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
-
-CoinDesk • 11h ago
-
----
-
 **[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
 
-Disruption Banking • 10h ago
+Disruption Banking • 14h ago
 
 ---
 
@@ -222,6 +206,22 @@ Gizmodo • 1d ago
 
 ---
 
+**[BitMine Slows Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-171700536.html)**
+
+BitMine Immersion Technologies (NYSE: $BMNR) has slowed its Ethereum (CRYPTO: $ETH) purchases over the past week.&n...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum, BMNR news: Bitmine buys 26K ether (ETH) after Tom Lee said to slow down accumulation](https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year)**
+
+The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
+
+CoinDesk • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +232,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 108 • ⏱️ 17:25 • 4h ago
+👁️ 3K • 👍 158 • 💬 121 • ⏱️ 17:25 • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ Ethereum keeps failing at the $2400 resistance level, and the data shows why: we
 
 📺 Coin Bureau Podcast
 
-👁️ 765 • 👍 26 • 💬 1 • ⏱️ 1:11 • 7h ago
+👁️ 1K • 👍 31 • 💬 1 • ⏱️ 1:11 • 11h ago
 
 ---
 
@@ -252,7 +252,17 @@ Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks d
 
 📺 Coin Bureau Trading
 
-👁️ 4K • 👍 280 • 💬 30 • ⏱️ 23:49 • 17h ago
+👁️ 4K • 👍 287 • 💬 31 • ⏱️ 23:49 • 21h ago
+
+---
+
+**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 17K • 💬 71 • ⏱️ 19:51 • 6h ago
 
 ---
 
@@ -262,37 +272,7 @@ Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 121 • 💬 11 • ⏱️ 9:08 • 1d ago
-
----
-
-**[GREAT ETHEREUM BUY AREA SOON🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=JgwdRPvwXjI)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 406 • 👍 13 • 💬 15 • ⏱️ 4:54 • 14h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=-F_7_sLjUuE)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 86 • 💬 1 • ⏱️ 5:36 • 10h ago
-
----
-
-**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
-
-Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
-
-📺 CoinGecko
-
-👁️ 3K • 👍 162 • 💬 56 • ⏱️ 8:44 • 1d ago
+👁️ 4K • 👍 130 • 💬 11 • ⏱️ 9:08 • 1d ago
 
 ---
 
@@ -302,17 +282,17 @@ TOP 3 COINS going to ZERO before 2030.
 
 📺 Cointalkpodcast
 
-👁️ 604 • 👍 28 • 💬 1 • ⏱️ 0:54 • 5h ago
+👁️ 989 • 👍 35 • 💬 1 • ⏱️ 0:54 • 9h ago
 
 ---
 
-**[THIS INSIDER WHALE JUST CHANGED HIS MIND... ETHEREUM DANGER?](https://www.youtube.com/watch?v=6I2dhThR5SU)**
+**[XRP, BTC, ETH We Need To Address THIS In Crypto Right Now!](https://www.youtube.com/watch?v=hgAOxaIz1VI)**
 
-My Private Group: http://t.me/stackerscircle My Trading Strategies: 1. Sign Up To Pionex https://bit.ly/3AhN6sw 2. Claim ...
+XRP, BTC, ETH We Need To Address THIS In Crypto Right Now! Major crypto breakdown and different factors impacting the entire ...
 
-📺 Satoshi Stacker
+📺 Zach Humphries
 
-👁️ 7K • 👍 367 • 💬 31 • ⏱️ 8:43 • 1d ago
+👁️ 1K • 👍 85 • 💬 212 • ⏱️ 8:55 • 10h ago
 
 ---
 
@@ -322,7 +302,27 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 252 • 💬 26 • ⏱️ 14:41 • 17h ago
+👁️ 2K • 👍 256 • 💬 26 • ⏱️ 14:41 • 21h ago
+
+---
+
+**[Vitalik Says Most L2s Aren’t Really Ethereum](https://www.youtube.com/watch?v=yNul3atS1Wk)**
+
+Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
+
+📺 CoinGecko
+
+👁️ 3K • 👍 169 • 💬 54 • ⏱️ 8:44 • 1d ago
+
+---
+
+**[BULL MARKET STARTS RIGHT NOW? #crypto #ethereum #bitcoin #solana #bitcoincrashing](https://www.youtube.com/watch?v=a5FTAl1XbbU)**
+
+Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 198 • 💬 254 • ⏱️ 0:44 • 1d ago
 
 ---
 

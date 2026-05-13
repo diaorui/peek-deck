@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-12T23:36:15.844086+00:00'
+updated: '2026-05-13T03:32:00.744909+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 12, 2026 at 23:36 UTC  
+**Last Updated:** May 13, 2026 at 03:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What it does: Agents gather and curate data and send to a wifi-enabled receipt printer (phenol-free paper) At 1:00am a cron triggers generation of data for all 3 kids (unique data sources per kid where applicable). A sidecar web service renders the data to templates, screenshots it, converts it to 1-bit with dithering and saves it back to the agent’s thread filesystem. Button presses (one per kid) then find a matching report for today's date (and trigger a generation if it's missing for some reason) and send it to the printer. Delay between button press and print is between 2-5 seconds. Morning daily briefs per kid at the press of a button! Fun, and the kids love it! (This demo print is using mock child data — not real information).
 
-4h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ What it does: Agents gather and curate data and send to a wifi-enabled receipt p
 
 I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compute cost was about 100 dollars. There's something seriously wrong there. It's going to crash and crash HARD. EDIT: cause people think i'm lying or are just interested. The spreadsheet had 45 sheets. Each sheet had roughly 500 x 50 populated cells. Formatting was not exactly standard across all sheets. The prompt was something like "there is labelled column in each sheet, give me a simple list of all the items from all the sheets in that column and ignore duplicates." We can chose which model to use. The model I chose was one of the newer ones, I honestly can't remember which one, possibly GPT 5.3. It took 5 minutes or more to so and the stated cost for the task was 10 dollars, possibly even more. I can't recall the token amount. EDIT 2: I just asked web GPT to estimate the cost of the above on a newer version of GPT and it came back with 17 dollars for GPT 4 and above. Try it yourself.
 
-13h ago
+17h ago
 
 ---
 
@@ -57,7 +57,15 @@ I had a work version of GPT do a very simple spreadsheet summary task for me yes
 
 AI is quickly becoming a major tool in the world of cybersecurity, and a new report from Google suggests things are getting more serious.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 7h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 11h ago
+
+---
+
+**[Created a free tool to check what PII your LLM prompts are leaking before they hit the provider](https://www.reddit.com/r/artificial/comments/1tbhvlq/created_a_free_tool_to_check_what_pii_your_llm/)**
+
+Most people don't realize how much personal data ends up in their AI prompts without thinking about it. Customer names, medical details, internal company info. It all goes to the provider's servers. Free to use. Let me know how well this works. aisecuritygateway.ai/ai-leak-checker
+
+4h ago
 
 ---
 
@@ -73,15 +81,7 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
 
-10h ago
-
----
-
-**[Created a free tool to check what PII your LLM prompts are leaking before they hit the provider](https://www.reddit.com/r/artificial/comments/1tbhvlq/created_a_free_tool_to_check_what_pii_your_llm/)**
-
-Most people don't realize how much personal data ends up in their AI prompts without thinking about it. Customer names, medical details, internal company info. It all goes to the provider's servers. Free to use. Let me know how well this works. aisecuritygateway.ai/ai-leak-checker
-
-28m ago
+14h ago
 
 ---
 
@@ -89,7 +89,7 @@ Most people don't realize how much personal data ends up in their AI prompts wit
 
 This piece lays out a pretty dark cycle that goes way beyond "fake videos." AI companies are running a feedback loop where their tools destroy public trust in reality, and then they use that collapse to sell AI governance as the "objective" replacement for a broken democracy. Essentially: (OpenAI, Anthropic) make truth impossible to verify. - The exhaustion makes voters give up on human leaders. - The pivot is these same companies signing massive military and government contracts to run the state. The "Singularity" isn't a machine waking up; it’s a tired civilization handing the keys to a black box because we’re too burnt out to govern ourselves. Happy to hear your thoughts : https://aiweekly.co/issues/100-years-from-now-the-last-election Alexis
 
-2h ago
+6h ago
 
 ---
 
@@ -103,13 +103,13 @@ As manosphere trends spread across the internet, a strict vision of the ideal wo
 
 **[Will AI turn us all into hipsters and artisans?](https://www.reddit.com/r/artificial/comments/1tbgt7k/will_ai_turn_us_all_into_hipsters_and_artisans/)**
 
-🔗 [archive.md](https://archive.md/TGEXd) • 1h ago
+🔗 [archive.md](https://archive.md/TGEXd) • 5h ago
 
 ---
 
 **[China Sought Access to Anthropic’s Newest A.I. The Answer Was No.](https://www.reddit.com/r/artificial/comments/1tb3kzh/china_sought_access_to_anthropics_newest_ai_the/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html) • 8h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html) • 12h ago
 
 ---
 
@@ -117,11 +117,11 @@ As manosphere trends spread across the internet, a strict vision of the ideal wo
 
 ## Google News: "ai"
 
-**[Shaping the future of AI interaction by reimagining the mouse pointer](https://deepmind.google/blog/ai-pointer/)**
+**[How AI Killed a 133-Year-Old Princeton Tradition](https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/)**
 
-Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
+The school’s famous Honor Code was no match for chatbot-enabled cheating.
 
-Google DeepMind • 6h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -129,39 +129,27 @@ Google DeepMind • 6h ago
 
 General Motors employees who were laid off Monday described their job terminations to CNBC.
 
-CNBC • 5h ago
+CNBC • 9h ago
 
 ---
 
-**[Princeton Mandates Exam Proctors After Fears of ‘Widespread’ AI-Fueled Cheating](https://www.wsj.com/us-news/education/princeton-cheating-ai-proctors-2a1cf62e)**
+**[AI Rivalry Overshadows Push For Guardrails At Xi-Trump Talks: Experts](https://www.barrons.com/articles/ai-rivalry-overshadows-push-for-guardrails-at-xi-trump-talks-experts-740f1dc9)**
 
-WSJ • 45m ago
-
----
-
-**[China’s AI Suppliers Can’t Keep Up as Component Shortages Bite](https://www.bloomberg.com/news/articles/2026-05-12/china-s-ai-suppliers-can-t-keep-up-as-component-shortages-bite)**
-
-Bloomberg.com • 36m ago
+Barron's • 9m ago
 
 ---
 
-**[China Seeks A.I. Independence, Weakening Trump’s Leverage](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)**
+**[Asian Shares Trade Mixed as AI Excitement Fades and War Worries Continue](https://www.usnews.com/news/business/articles/2026-05-12/asian-shares-trade-mixed-as-ai-excitement-fades-and-war-worries-continue)**
 
-The New York Times • 19h ago
+Asian shares are trading mixed, as the enthusiasm over AI and other technology stocks gradually faded, braking Wall Street’s record-setting run
 
----
-
-**[Trump readies for Beijing summit with Xi as AI chip sales, farm goods top agenda](https://www.foxbusiness.com/economy/trump-readies-beijing-summit-xi-ai-chip-sales-farm-goods-top-agenda)**
-
-President Trump travels to China for a summit with Xi Jinping as trade tensions, AI chip restrictions and the Iran war reshape U.S.-China relations.
-
-Fox Business • 13h ago
+U.S. News & World Report • 43m ago
 
 ---
 
-**[Trump, Xi to huddle in China as AI race heats up](https://thehill.com/newsletters/technology/5875166-trump-xi-ai-talks-china/)**
+**[Asian Stocks Fall On US-Iran Impasse, AI Setbacks](https://www.barrons.com/articles/asian-stocks-fall-on-us-iran-impasse-ai-setbacks-16d0c959)**
 
-The Hill • 37m ago
+Barron's • 16m ago
 
 ---
 
@@ -169,23 +157,35 @@ The Hill • 37m ago
 
 Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’
 
-The Guardian • 3h ago
+The Guardian • 6h ago
 
 ---
 
-**[UCF graduates clobber commencement speaker with boos after she says AI is the 'next Industrial Revolution'](https://www.foxnews.com/outkick-culture/ucf-graduates-clobber-commencement-speaker-boos-says-ai-next-industrial-revolution)**
+**[Opinion | The Shared Feeling of Being Harvested by the Future](https://www.nytimes.com/2026/05/12/opinion/us-china-ai-future.html)**
 
-UCF graduation speaker Gloria Caulfield was booed offstage after making comments about artificial intelligence at an arts and humanities ceremony.
-
-Fox News • 4h ago
+The New York Times • 18h ago
 
 ---
 
-**[Maybe Don’t Praise AI in Your Commencement Speech](https://www.thecut.com/article/ucf-ai-commencement-speech-controversy-explained.html)**
+**[Nvidia Is Buying the Chip Supply Chain](https://www.wsj.com/tech/nvidia-is-buying-the-chip-supply-chain-871db5e3)**
 
-A University of Central Florida graduation speaker was booed by students after calling the AI boom “the next Industrial Revolution.”
+WSJ • 11h ago
 
-The Cut • 8h ago
+---
+
+**[Shaping the future of AI interaction by reimagining the mouse pointer](https://deepmind.google/blog/ai-pointer/)**
+
+Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
+
+Google DeepMind • 10h ago
+
+---
+
+**[AI robot changes your tires and balances them too](https://www.foxnews.com/tech/ai-robot-changes-tires-balances)**
+
+Boston-based Automated Tire, Inc. unveils SmartBay, an AI-powered robotic platform that handles tire changes and wheel balancing with minimal human help.
+
+Fox News • 10h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Cut • 8h ago
 
 Local AI models should be the default.
 
-⬆️ 1839 • 💬 734 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1844 • 💬 735 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -205,13 +205,13 @@ Local AI models should be the default.
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 845 • 💬 902 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 854 • 💬 917 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 366 • 💬 106 • 1d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 366 • 💬 108 • 2d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -229,7 +229,7 @@ I try to pay attention to the small things that affect my quality of life. When 
 
 What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
 
-⬆️ 262 • 💬 274 • 1d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 262 • 💬 276 • 1d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
 
 ---
 
@@ -243,7 +243,7 @@ An article about ADHD, Task Paralysis and AI.
 
 **[Google says criminal hackers used AI to find a major software flaw](https://news.ycombinator.com/item?id=48094641)**
 
-⬆️ 236 • 💬 171 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
+⬆️ 237 • 💬 172 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
 
 ---
 
@@ -251,7 +251,7 @@ An article about ADHD, Task Paralysis and AI.
 
 Workers are using an internal AI tool to automate non-essential tasks.
 
-⬆️ 204 • 💬 214 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+⬆️ 212 • 💬 219 • 11h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -259,7 +259,7 @@ Workers are using an internal AI tool to automate non-essential tasks.
 
 The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" instead of "generating slop that you don't understand"
 
-⬆️ 185 • 💬 143 • 1d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
+⬆️ 185 • 💬 144 • 2d ago • [Kotaku](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 
 ---
 
@@ -267,7 +267,7 @@ The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" in
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 171 • 💬 208 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 171 • 💬 209 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 
 ---
 
@@ -275,13 +275,23 @@ A commencement speaker at the University of Central Florida was booed, with grad
 
 ## YouTube Videos: "ai"
 
-**[This Is Insane... This Just Ended The Google Stitch VS Claude Design Debate](https://www.youtube.com/watch?v=PJ9CmTODmVo)**
+**[The First AI Cyberattack Has Happened...](https://www.youtube.com/watch?v=6TtKdKQlrqg)**
 
-Gemini vs Claude is finally settled with Google Stitch and Claude Design going head to head. Both got massive upgrades, and ...
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be a pretty huge day for the Internet.
 
-📺 AI LABS
+📺 SomeOrdinaryGamers
 
-👁️ 4K • 👍 95 • 💬 11 • ⏱️ 10:46 • 9h ago
+👁️ 102K • 👍 5K • 💬 638 • ⏱️ 17:29 • 5h ago
+
+---
+
+**[AI Will Hit a Wall in 2026, if nothing changes.](https://www.youtube.com/watch?v=XA84pSrPHS0)**
+
+Free GenSpark credits if you register here → http://www.genspark.ai/?utm_source=yt&utm_campaign=SabineHossenfelder ...
+
+📺 Sabine Hossenfelder
+
+👁️ 111K • 👍 6K • 💬 1K • ⏱️ 6:42 • 12h ago
 
 ---
 
@@ -291,17 +301,55 @@ Get started with Greptile today https://greptile.com/go/berman 14 Day Free Trial
 
 📺 Matthew Berman
 
-👁️ 17K • 👍 767 • 💬 189 • ⏱️ 16:53 • 4h ago
+👁️ 40K • 👍 1K • 💬 293 • ⏱️ 16:53 • 8h ago
 
 ---
 
-**[AI is Sending People into Psychosis](https://www.youtube.com/watch?v=LxmIIYj5FQE)**
+**[This Is Insane... This Just Ended The Google Stitch VS Claude Design Debate](https://www.youtube.com/watch?v=PJ9CmTODmVo)**
 
-AI chatbots are pulling people into delusions with devastating consequences. Sources: The Dark Addiction Patterns of Current AI ...
+Gemini vs Claude is finally settled with Google Stitch and Claude Design going head to head. Both got massive upgrades, and ...
 
-📺 Vanessa Wingårdh
+📺 AI LABS
 
-👁️ 133K • 👍 8K • 💬 3K • ⏱️ 15:05 • 2d ago
+👁️ 5K • 👍 118 • 💬 13 • ⏱️ 10:46 • 13h ago
+
+---
+
+**[AI is Creating a Beauty Class and a Servant Class ](https://www.youtube.com/watch?v=AGWTuK3I9dE)**
+
+📺 Pearl
+
+👁️ 8K • 👍 557 • 💬 106 • ⏱️ 7:01 • 1d ago
+
+---
+
+**[4 Ways to Make Money With Claude AI That Nobody Is Talking About](https://www.youtube.com/watch?v=wz9CmUZ4jRg)**
+
+Go to https://surfshark.com/joshuamayo or use code JOSHUAMAYO at checkout to get 4 extra months of Surfshark VPN!
+
+📺 Joshua Mayo
+
+👁️ 4K • 👍 236 • 💬 15 • ⏱️ 25:52 • 11h ago
+
+---
+
+**[GPT Image 2.0 + Seedance 2.0 = INSANE AI Motion Graphics](https://www.youtube.com/watch?v=NrV6g3iv2lk)**
+
+GPT Image 2 together with Seedance is extremely powerful, if you use it right Try out GPT Image 2 & Seedance: ...
+
+📺 Mira AI
+
+👁️ 4K • ⏱️ 9:33 • 6h ago
+
+---
+
+**[Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)](https://www.youtube.com/watch?v=Baa71rPgxvA)**
+
+Higgsfield MCP gives Claude hands — your agent can now generate videos, ads, photos, landing pages and dashboards directly ...
+
+📺 Silicon Valley Girl
+
+👁️ 11K • 👍 558 • 💬 61 • ⏱️ 16:01 • 14h ago
 
 ---
 
@@ -321,55 +369,7 @@ Claude Mythos may have just crossed one of the strangest lines in AI. A new METR
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 141 • ⏱️ 15:57 • 1d ago
-
----
-
-**[Google Chrome Installs AI on Your PC WITHOUT Your Permission.](https://www.youtube.com/watch?v=gYY10vsbnlE)**
-
-Google Chrome apparently installs a 4GB AI agent on your computer without explicit user permission to... something something...
-
-📺 Clownfish TV
-
-👁️ 34K • 👍 3K • 💬 699 • ⏱️ 17:46 • 20h ago
-
----
-
-**[&#39;No signs of AI slowing down&#39; — will it become a &#39;MACHINE GOD&#39;?](https://www.youtube.com/watch?v=jj05pc9tlc0)**
-
-Should we think of AI as a co-intelligence and digital coworker rather than just a chatbot? Ethan Mollick, a professor at Wharton ...
-
-📺 MS NOW
-
-👁️ 3K • 👍 131 • 💬 80 • ⏱️ 58:06 • 10h ago
-
----
-
-**[EXACTLY How to Create Fashion Ads with AI](https://www.youtube.com/watch?v=5OhWT7kE5g8)**
-
-Create Your Own Fashion AI Ads with OpenArt ...
-
-📺 Isa does AI
-
-👁️ 9K • ⏱️ 9:47 • 11h ago
-
----
-
-**[Is America changing?!🤯🇺🇸#christian #ai #bible #truth #america](https://www.youtube.com/watch?v=X2_CCQSr8o8)**
-
-📺 Merriam Faith
-
-👁️ 8K • 👍 578 • 💬 16 • ⏱️ 0:19 • 6h ago
-
----
-
-**[Transphobic AI is taking over Youtube...](https://www.youtube.com/watch?v=A-K_VXXnXnk)**
-
-Yeah so it turns out that Youtube has an ai system that is UNAVOIDABLE and it keeps generating transphobic video ideas for ...
-
-📺 NOAHFINNCE
-
-👁️ 45K • 👍 5K • 💬 423 • ⏱️ 22:46 • 2d ago
+👁️ 41K • 👍 1K • 💬 148 • ⏱️ 15:57 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 157,648 • ❤️ 721 • 4d ago
+⬇️ 157,648 • ❤️ 738 • 4d ago
 
 ---
 
@@ -397,7 +397,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 66,119 • ❤️ 449 • 1d ago
+⬇️ 66,119 • ❤️ 452 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 0 • ❤️ 390 • 16h ago
+⬇️ 0 • ❤️ 396 • 20h ago
 
 ---
 
@@ -421,7 +421,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 3,418 • ❤️ 269 • 3d ago
+⬇️ 3,418 • ❤️ 275 • 3h ago
 
 ---
 
@@ -433,7 +433,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,017,835 • ❤️ 3,885 • 6d ago
+⬇️ 2,017,835 • ❤️ 3,900 • 6d ago
 
 ---
 
@@ -445,7 +445,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 9,477 • ❤️ 320 • 15d ago
+⬇️ 9,477 • ❤️ 320 • 16d ago
 
 ---
 
@@ -457,7 +457,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 66,561 • ❤️ 216 • 1d ago
+⬇️ 66,561 • ❤️ 218 • 1d ago
 
 ---
 
@@ -469,19 +469,7 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 64,008 • ❤️ 233 • 1d ago
-
----
-
-**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
-
-*Qwen*
-
-Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 2,446,478 • ❤️ 1,256 • 18d ago
+⬇️ 64,008 • ❤️ 237 • 2d ago
 
 ---
 
@@ -493,7 +481,19 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 1,837 • ❤️ 120 • 6d ago
+⬇️ 1,837 • ❤️ 129 • 6d ago
+
+---
+
+**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+
+*Qwen*
+
+Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 2,446,478 • ❤️ 1,258 • 19d ago
 
 ---
 
@@ -507,7 +507,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 64 • 💬 3 • ⭐ 74,284 • 16mo ago
+▲ 64 • 💬 3 • ⭐ 74,474 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -533,7 +533,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 15 • 💬 3 • ⭐ 149 • 2d ago
+▲ 17 • 💬 3 • ⭐ 263 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -547,7 +547,7 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 19 • 💬 3 • ⭐ 11,053 • 25d ago
+▲ 19 • 💬 3 • ⭐ 11,083 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -561,7 +561,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 79 • 💬 7 • ⭐ 4,450 • 3mo ago
+▲ 79 • 💬 7 • ⭐ 4,483 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -575,7 +575,7 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 107 • 💬 10 • ⭐ 8,969 • 9d ago
+▲ 108 • 💬 10 • ⭐ 9,002 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -587,7 +587,7 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 32 • 💬 3 • ⭐ 24,034 • 9mo ago
+▲ 32 • 💬 3 • ⭐ 24,053 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -647,33 +647,13 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 ---
 
-**[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)**
-
-The headless browser for AI agents and web scraping
-
-`Rust`
-
-⭐ 11.9k • 🔱 779 • 2d ago
-
----
-
-**[getagentseal/codeburn](https://github.com/getagentseal/codeburn)**
-
-See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
-
-`TypeScript` `ai-coding` `claude-code` `cli` `codex` `cost-tracking`
-
-⭐ 6.2k • 🔱 475 • 18h ago
-
----
-
 **[willchen96/mike](https://github.com/willchen96/mike)**
 
 OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 830 • 4h ago
+⭐ 2.9k • 🔱 836 • 8h ago
 
 ---
 
@@ -683,7 +663,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.6k • 🔱 256 • 2h ago
+⭐ 2.6k • 🔱 262 • 2h ago
 
 ---
 
@@ -693,7 +673,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 229 • 10h ago
+⭐ 2.5k • 🔱 230 • 14h ago
 
 ---
 
@@ -703,7 +683,7 @@ Open source CAD skills and harnesses for generating 3D models with your favorite
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.5k • 🔱 285 • 1d ago
+⭐ 2.5k • 🔱 286 • 1d ago
 
 ---
 
@@ -723,7 +703,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.1k • 🔱 131 • 9h ago
+⭐ 2.1k • 🔱 134 • 42s ago
 
 ---
 
@@ -734,6 +714,26 @@ Chrome extension to extract styles from any website and generate DESIGN.md files
 `JavaScript` `ai` `chrome` `chrome-extension` `claude` `claude-design`
 
 ⭐ 1.9k • 🔱 242 • 18d ago
+
+---
+
+**[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)**
+
+Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
+
+`Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
+
+⭐ 1.9k • 🔱 287 • 5d ago
+
+---
+
+**[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)**
+
+AI-powered interactive 3D cell generation and exploration studio.
+
+`JavaScript`
+
+⭐ 1.7k • 🔱 297 • 2h ago
 
 ---
 
