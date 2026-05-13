@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-13T06:49:01.246655+00:00"
+          "dateModified": "2026-05-13T09:45:46.330124+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -732,6 +732,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tbrxim/getting_good_predictions_without_data_cleaning/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tbrxim/getting_good_predictions_without_data_cleaning/" target="_blank" onclick="event.stopPropagation();">Getting good predictions without data cleaning (Why "Garbage In, Garbage Out" is sometimes a trap)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Full arXiv Preprint: https://arxiv.org/abs/2603.12288 Paper Simulation Github: https://github.com/tjleestjohn/from-garbage-to-gold Hi r/artificial, It's a dirty little secret to many of us... sometimes, downstream AI/ML models perform surprisingly well when you just hand them raw, error-prone tabular data instead of heavily curated feature sets. Despite this, the vast majority of our field tends to be fiercely loyal to "Garbage In, Garbage Out" (GIGO). While automated ETL pipelines are absolutely essential for structuring data, our workflows are still bottlenecked with endless manual cleaning and aggressive imputation just to curate pristine, error-free tables. My co-authors and I recently released a preprint on arXiv (From Garbage to Gold) arguing that treating GIGO as a universal law can sometimes be a trap... especially in the context of big data (many columns). That the bottleneck due to manual data cleaning can actively lower the predictive ceiling of our models when latent causes drive the system's behavior. To be clear upfront: we are not arguing against ETL. Parsing JSON, handling schema evolution, and standardizing types is non-negotiable. What we are arguing against is the universal assumption that "clean" data (via manual data scrubbing and aggressive imputation) is non-negotiable for big data predictive AI/ML modeling. Here is why the traditional mindset can be limiting: 1. We conflate two different types of "noise" (Predictor Error and Structural Uncertainty). Usually, we just lump all noise into one big bucket. But if you split that noise into two specific categories, the math changes completely: Predictor Error: Random typos, dropped logs, or transient glitches. Structural Uncertainty: The inherent, unresolvable gap between recorded metrics and the complex, hidden reality they represent. We spend months manually scrubbing data because the threat of data errors is obvious, while Structural Uncertainty is often an afterthought at best. However, when latent causes drive a system, manual scrubbing fixes noise due to errors, but it fundamentally cannot fix the noise due to Structural Uncertainty. On the other hand, the paper shows that in this context, if you use a comprehensive, high-dimensional data architecture, a flexible model can actually triangulate the hidden drivers reliably despite the presence of data errors. When keeping a massive amount of messy, highly correlated variables (even if error-prone), the sheer volume of redundant signals allows the model to drown out individual errors (bypassing the cleaning bottleneck) and simultaneously overcome Structural Uncertainty. This redefines "data quality." It's not only about how accurately the variables are measured. It's also about how the portfolio of variables comprehensively and redundantly covers the latent drivers of the system. 2. Manual cleaning is a bottleneck on dimensionality (The Practical Problem). To overcome Structural Uncertainty, modern AI/ML models want to find the underlying latent drivers of a system (think Representation Learning but with tabular data). To do this, however, they need a high-dimensional set of variables that contains Informative Collinearity in order to mathematically triangulate the hidden drivers. The moment you introduce manual cleaning, you create a human bottleneck. Because we cannot manually clean 10,000 variables, we are forced to drop 9,900 of them. By artificially restricting the predictor space to make it "clean enough to model," we can harm the data architecture's inherent potential to triangulate those latent drivers. We sacrifice the model's actual predictive ceiling just to satisfy the GIGO heuristic. Ultimately, this suggests we should focus mostly on extracting, loading, and increasing observational fidelity with automated tools, but that, in contexts characterized by latent drivers, we should stop letting manual cleaning bottlenecks restrict the scale of our AI/ML models. Thoughts?: Have you run into situations where your data science teams actually got better predictive results by bypassing the manually cleaned tables and pulling massive dimensionality straight from the raw ELT layers? I'd love to hear your experiences or thoughts. Happy to discuss all serious comments or questions. Full disclosure: the preprint is a 120-page beast. It’s long because it doesn't just pitch the core theory with a qualitative argument. It gives the full mathematical treatment to everything which takes space. We also dig into edge cases, what happens when assumptions like Local Independence are violated (e.g., systematic errors exist), broader implications (like a link to Benign Overfitting and efficient feature selection strategies that make this high-d strategy practical with finite compute), a deep-dive simulation, failure modes, and a huge agenda for future research (because we do not claim the paper is the final word on the matter). It's a major commitment upfront but may save you time and money in the long term, while also enhancing the predictive ceiling of your tabular AI/ML models.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1778655608.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tbq353/epistemic_hygiene_and_how_it_can_reduce_ai/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -815,7 +848,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tbr449/i_asked_both_chat_gpt_and_claude_to_ask_me_a/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -823,13 +856,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tbr449/i_asked_both_chat_gpt_and_claude_to_ask_me_a/" target="_blank" onclick="event.stopPropagation();">I asked both chat gpt and claude to ask me a series of questions to evaluate if i need the</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/" target="_blank" onclick="event.stopPropagation();">AI May Reshape Institutions More Than It Replaces Jobs</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            paid version of them, or if the free version is fine. Explain why. ChatGPT was free. Money hungry Claude wanted my CC info even though I use Claude a lot less
+                            I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
                         </div>
                         
 
@@ -838,7 +871,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1778652866.0"></span>
+                                    <span data-timestamp="1778591112.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -931,7 +964,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tbr449/i_asked_both_chat_gpt_and_claude_to_ask_me_a/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -939,13 +972,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/" target="_blank" onclick="event.stopPropagation();">AI May Reshape Institutions More Than It Replaces Jobs</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1tbr449/i_asked_both_chat_gpt_and_claude_to_ask_me_a/" target="_blank" onclick="event.stopPropagation();">I asked both chat gpt and claude to ask me a series of questions to evaluate if i need the</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
+                            paid version of them, or if the free version is fine. Explain why. ChatGPT was free. Money hungry Claude wanted my CC info even though I use Claude a lot less
                         </div>
                         
 
@@ -954,60 +987,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1778591112.0"></span>
+                                    <span data-timestamp="1778652866.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/EvnnWLDuxCoRETmviT3KsfxB4KWvo7x0v0pF0m7Ch9o.png?width=640&crop=smart&auto=webp&s=70947e97a0866b00b06bd801853edc961579479f" alt="The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ta95lq/the_rise_of_stacey_face_how_ai_enhancements_are/" target="_blank" onclick="event.stopPropagation();">The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            As manosphere trends spread across the internet, a strict vision of the ideal woman is making its way from AI makeover apps to surgeons’ offices. Lydia Spencer-Elliott speaks to experts about ‘Stacey face’, which is seen as the highest tier of female beauty
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1778518463.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.the-independent.com/img/shortcut-icons/icon-192x192.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>The Independent</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1037,7 +1020,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:39.577501+00:00">Updated 2026-05-13T06:48:39.577501+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:13.696006+00:00">Updated 2026-05-13T09:45:13.696006+00:00</small>
     </div>
 </div>
 
@@ -1223,6 +1206,47 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_with_Gemini_Intelligence_social.width-1300.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/" target="_blank" onclick="event.stopPropagation();">A smarter, more proactive Android with Gemini Intelligence</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            At the Android Show 2026, we introduced Gemini Intelligence, proactive new AI features on Android.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778605387.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108176033-1753304312347-gettyimages-2226698930-_73a3751_pvebbcyr.jpeg?v=1754000135&w=1920&h=1080');"></div>
@@ -1257,84 +1281,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1778613748.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html" target="_blank" onclick="event.stopPropagation();">Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778504407.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://blog.google/products-and-platforms/platforms/android/meet-googlebook/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_for_video.width-1300.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://blog.google/products-and-platforms/platforms/android/meet-googlebook/" target="_blank" onclick="event.stopPropagation();">Introducing Googlebook, designed for Gemini Intelligence</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            We’re introducing Googlebook, a new category of laptops designed for Gemini Intelligence and perfectly in sync with your Android phone.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="blog.google" class="news-favicon">
-                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778605290.0"></span>
                                 </div>
                                 
                             </div>
@@ -1383,14 +1329,55 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.msn.com/en-us/news/technology/ai-coders-are-carrying-half-open-laptops-through-airports-offices-and-ice-rinks/ar-AA22YI3k?ocid=BingNewsBrowse', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108083323-1736284360842-gettyimages-2187584859-img_0434_f5qzeler.jpeg?v=1773761029&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html" target="_blank" onclick="event.stopPropagation();">China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The tech giant reported its first-quarter 2026 earnings on Wednesday.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778662882.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-05-13/tencent-revenue-miss-heightens-pressure-for-ai-payoff', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.msn.com/en-us/news/technology/ai-coders-are-carrying-half-open-laptops-through-airports-offices-and-ice-rinks/ar-AA22YI3k?ocid=BingNewsBrowse" target="_blank" onclick="event.stopPropagation();">AI coders are carrying half-open laptops through airports, offices, and ice rinks</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-05-13/tencent-revenue-miss-heightens-pressure-for-ai-payoff" target="_blank" onclick="event.stopPropagation();">Tencent Revenue Miss Heightens Pressure for AI Payoff</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1402,9 +1389,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MSN" class="news-favicon">
-                                    <a href="https://www.msn.com" target="_blank" onclick="event.stopPropagation();">MSN</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1412,7 +1399,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1778650252.0"></span>
+                                    <span data-timestamp="1778661399.0"></span>
                                 </div>
                                 
                             </div>
@@ -1420,178 +1407,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/duolingo-ceo-luis-von-ahn-ai-cannot-top-designers-creativity-2026-5', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a03eb8895396a3b6e417c4e?width=1200&format=jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessinsider.com/duolingo-ceo-luis-von-ahn-ai-cannot-top-designers-creativity-2026-5" target="_blank" onclick="event.stopPropagation();">Duolingo's CEO says AI misses what his best designers nail</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Duolingo's CEO said AI can't achieve the "level of creativity or the polish" that his top designers can.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778651820.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/articles/spain-pushes-ahead-social-media-060422656.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/reuters-finance.com/bfaf820ec8308e9a3713e4d9937b6507');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.yahoo.com/news/articles/spain-pushes-ahead-social-media-060422656.html" target="_blank" onclick="event.stopPropagation();">Spain pushes ahead with social media, AI rules despite Big Tech lobbying pressure</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Spain will push ahead with new rules to make social networks and AI safer despite intense lobbying from ‌the tech industry, its digital transformation minister Oscar Lopez told Reuters.  "The profit ‌...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778652240.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/68b2a38f7656bd74945de04ae30ce781bfac6b5d/957_196_4183_3346/master/4183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02514d028e5d1801b5049a1e1b2f7109');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai" target="_blank" onclick="event.stopPropagation();">Chelsea flower show garden designers clash over use of AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Horticulturalists express alarm after award-winning Matt Keightley launches app that can automate designs
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778648400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/0xN-GLUBNZe24nK-yPDJ9JjeXf4=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_11_RIP_Princeton_Honor_Code/original.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/" target="_blank" onclick="event.stopPropagation();">How AI Killed a 133-Year-Old Princeton Tradition</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The school’s famous Honor Code was no match for chatbot-enabled cheating.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Atlantic" class="news-favicon">
-                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778603520.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/nvidia-is-buying-the-chip-supply-chain-871db5e3', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/earnings/tencent-maintains-double-digit-profit-growth-amid-intensified-ai-investment-7847e010', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/nvidia-is-buying-the-chip-supply-chain-871db5e3" target="_blank" onclick="event.stopPropagation();">Nvidia Is Buying the Chip Supply Chain</a>
+                            <a href="https://www.wsj.com/business/earnings/tencent-maintains-double-digit-profit-growth-amid-intensified-ai-investment-7847e010" target="_blank" onclick="event.stopPropagation();">Tencent Maintains Double-Digit Profit Growth Amid Intensified AI Investment</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1613,7 +1436,163 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1778601600.0"></span>
+                                    <span data-timestamp="1778663760.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/637f5664-44eb-4527-8369-9eec320cfdf0?syn-25a6b1a6=1', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbce00c66-14c9-4d9d-82cf-f6b5a6b9ebb2.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/637f5664-44eb-4527-8369-9eec320cfdf0?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Why Americans dread AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Silicon Valley encourages the view that the technology is unstoppable — and Trump seems to agree
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778583865.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/05/13/ai-executive-action-white-house-infighting', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/05/13/ai-executive-action-white-house-infighting" target="_blank" onclick="event.stopPropagation();">AI executive action stalled by White House infighting</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778664811.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/12/opinion/us-china-ai-future.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/05/12/opinion/us-china-ai-future.html" target="_blank" onclick="event.stopPropagation();">Opinion | The Shared Feeling of Being Harvested by the Future</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778576501.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/05/13/business/ai-financial-statements-money-advice', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1431662879-20260507171631539.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/05/13/business/ai-financial-statements-money-advice" target="_blank" onclick="event.stopPropagation();">Seeking free money advice from AI? Don’t be so quick to upload any financial statements</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            If you’re financially pressed, confused about money, or just want a little free help figuring out how to improve your cash flow, you may be tempted to use AI.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778664651.0"></span>
                                 </div>
                                 
                             </div>
@@ -1641,7 +1620,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:54.966860+00:00">Updated 2026-05-13T06:48:54.966860+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:44.669358+00:00">Updated 2026-05-13T09:45:44.669358+00:00</small>
     </div>
 </div>
 
@@ -1866,7 +1845,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1847</span>
+                                    <span class="post-points">▲ 1848</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 736</span>
@@ -1915,10 +1894,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 865</span>
+                                    <span class="post-points">▲ 879</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 921</span>
+                                    <span style="color: #9ca3af;">💬 933</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2060,7 +2039,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 262</span>
+                                    <span class="post-points">▲ 264</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 277</span>
@@ -2105,10 +2084,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 239</span>
+                                    <span class="post-points">▲ 241</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 172</span>
+                                    <span style="color: #9ca3af;">💬 173</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2157,10 +2136,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 217</span>
+                                    <span class="post-points">▲ 222</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 225</span>
+                                    <span style="color: #9ca3af;">💬 226</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2177,6 +2156,55 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                             
                                         
                                         <span>Ars Technica</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48111581', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://lh3.googleusercontent.com/6ktOlNMbk7CGwt_Oyi8aCEfeSX1B2DJUnrMF5X9bmzo0MdX9AHqW3iCCGo4RUFX2_8eN_4U3Sam_3tnc8Q0uLK6dMmcC3j5aiAyFMe9AhwYaYF59KA=w1200-h630-n-nu-rw');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=48111581" target="_blank" onclick="event.stopPropagation();">Reimagining the mouse pointer for the AI era</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 200</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 167</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-05-12T17:40:13Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://deepmind.google/blog/ai-pointer/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Google DeepMind</span>
                                     </a>
                                 </div>
                                 
@@ -2234,55 +2262,6 @@ What changed recently is what I'm willing to build to support that. With AI tool
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48111581', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://lh3.googleusercontent.com/6ktOlNMbk7CGwt_Oyi8aCEfeSX1B2DJUnrMF5X9bmzo0MdX9AHqW3iCCGo4RUFX2_8eN_4U3Sam_3tnc8Q0uLK6dMmcC3j5aiAyFMe9AhwYaYF59KA=w1200-h630-n-nu-rw');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48111581" target="_blank" onclick="event.stopPropagation();">Reimagining the mouse pointer for the AI era</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 181</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 150</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-12T17:40:13Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://deepmind.google/blog/ai-pointer/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Google DeepMind</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48096674', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/ucf.png');"></div>
@@ -2304,7 +2283,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 171</span>
+                                    <span class="post-points">▲ 173</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 209</span>
@@ -2352,7 +2331,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:38.105828+00:00">Updated 2026-05-13T06:48:38.105828+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:13.611020+00:00">Updated 2026-05-13T09:45:13.611020+00:00</small>
     </div>
 </div>
 
@@ -2584,16 +2563,16 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 143K</span>
+                                    <span style="color: #9ca3af;">👁️ 171K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 7K</span>
+                                    <span style="color: #9ca3af;">👍 8K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 770</span>
+                                    <span style="color: #9ca3af;">💬 862</span>
                                 </div>
                                 
                             </div>
@@ -2650,7 +2629,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 124K</span>
+                                    <span style="color: #9ca3af;">👁️ 135K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2670,138 +2649,6 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1778598061.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=PJ9CmTODmVo', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/PJ9CmTODmVo/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">10:46</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=PJ9CmTODmVo" target="_blank" onclick="event.stopPropagation();">This Is Insane... This Just Ended The Google Stitch VS Claude Design Debate</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Gemini vs Claude is finally settled with Google Stitch and Claude Design going head to head. Both got massive upgrades, and ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/FpY6zUC6_gjeae77J4Gpwz20CaTI4pW-r9Gu9-K-HrGSKlHYoYN0riQ6YXSOYejwMry8voolPw=s88-c-k-c0x00ffffff-no-rj" alt="AI LABS" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCelfWQr9sXVMTvBzviPGlFw" target="_blank" onclick="event.stopPropagation();">AI LABS</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 122</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 13</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1778594725.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=FJT5Rh0eKe8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/FJT5Rh0eKe8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">12:28</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=FJT5Rh0eKe8" target="_blank" onclick="event.stopPropagation();">The AI Chat Era Is Over. This Killed It.</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Try Genspark with free credits available upon signup:* https://bit.ly/4njiP0c Unlimited AI chat and AI image for all paid users in ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/lhVQXxvfNyRjpG3KQfrXEaaQXT2A8la3nYYFP7jvMMRRYalgCV_6-HzDovChgDjDrM2bG_GL=s88-c-k-c0x00ffffff-no-rj" alt="Julia McCoy" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCqzK60-oUOEq36uU9B1MMUg" target="_blank" onclick="event.stopPropagation();">Julia McCoy</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 27K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 83</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1778425207.0"></span>
                                 </div>
                                 
                             </div>
@@ -2848,7 +2695,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 36K</span>
+                                    <span style="color: #9ca3af;">👁️ 37K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2857,7 +2704,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 739</span>
+                                    <span style="color: #9ca3af;">💬 745</span>
                                 </div>
                                 
                             </div>
@@ -2914,16 +2761,16 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
+                                    <span style="color: #9ca3af;">👁️ 7K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 282</span>
+                                    <span style="color: #9ca3af;">👍 324</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 16</span>
+                                    <span style="color: #9ca3af;">💬 20</span>
                                 </div>
                                 
                             </div>
@@ -2934,6 +2781,138 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1778602329.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=HITUpHglMv4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/HITUpHglMv4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">25:34</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=HITUpHglMv4" target="_blank" onclick="event.stopPropagation();">AI is wild now</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Hd1RtxUDPPfB9rl9cM0rLZq20iQus3jB1RD1LJugCPlPZ_Tcw_nm5-6SXOixZ-cSqk58c0UD=s88-c-k-c0x00ffffff-no-rj" alt="Asmongold TV  " class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCQeRaTukNYft1_6AZPACnog" target="_blank" onclick="event.stopPropagation();">Asmongold TV  </a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 296K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 14K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 5K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1778598006.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i-ioLtvb19o', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i-ioLtvb19o/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">15:57</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=i-ioLtvb19o" target="_blank" onclick="event.stopPropagation();">Claude Mythos Just Crossed A Dangerous Line... AGAIN!</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Claude Mythos may have just crossed one of the strangest lines in AI. A new METR evaluation reportedly puts Mythos around the ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 43K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 149</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1778538395.0"></span>
                                 </div>
                                 
                             </div>
@@ -2980,7 +2959,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 48K</span>
+                                    <span style="color: #9ca3af;">👁️ 53K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2989,7 +2968,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 313</span>
+                                    <span style="color: #9ca3af;">💬 331</span>
                                 </div>
                                 
                             </div>
@@ -3050,7 +3029,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 73</span>
+                                    <span style="color: #9ca3af;">👍 75</span>
                                 </div>
                                 
                                 
@@ -3073,24 +3052,24 @@ What changed recently is what I'm willing to build to support that. With AI tool
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i-ioLtvb19o', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=FJT5Rh0eKe8', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i-ioLtvb19o/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/FJT5Rh0eKe8/hqdefault.jpg');">
                         
-                        <span class="duration-badge">15:57</span>
+                        <span class="duration-badge">12:28</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=i-ioLtvb19o" target="_blank" onclick="event.stopPropagation();">Claude Mythos Just Crossed A Dangerous Line... AGAIN!</a>
+                            <a href="https://www.youtube.com/watch?v=FJT5Rh0eKe8" target="_blank" onclick="event.stopPropagation();">The AI Chat Era Is Over. This Killed It.</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Claude Mythos may have just crossed one of the strangest lines in AI. A new METR evaluation reportedly puts Mythos around the ...
+                            Try Genspark with free credits available upon signup:* https://bit.ly/4njiP0c Unlimited AI chat and AI image for all paid users in ...
                         </div>
                         
 
@@ -3101,9 +3080,9 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/lhVQXxvfNyRjpG3KQfrXEaaQXT2A8la3nYYFP7jvMMRRYalgCV_6-HzDovChgDjDrM2bG_GL=s88-c-k-c0x00ffffff-no-rj" alt="Julia McCoy" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                    <a href="https://www.youtube.com/channel/UCqzK60-oUOEq36uU9B1MMUg" target="_blank" onclick="event.stopPropagation();">Julia McCoy</a>
                                 </div>
                                 
                             </div>
@@ -3112,7 +3091,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 42K</span>
+                                    <span style="color: #9ca3af;">👁️ 27K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3121,7 +3100,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 149</span>
+                                    <span style="color: #9ca3af;">💬 85</span>
                                 </div>
                                 
                             </div>
@@ -3131,7 +3110,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1778538395.0"></span>
+                                    <span data-timestamp="1778425207.0"></span>
                                 </div>
                                 
                             </div>
@@ -3139,24 +3118,24 @@ What changed recently is what I'm willing to build to support that. With AI tool
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LxmIIYj5FQE', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jj05pc9tlc0', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LxmIIYj5FQE/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jj05pc9tlc0/hqdefault.jpg');">
                         
-                        <span class="duration-badge">15:05</span>
+                        <span class="duration-badge">58:06</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=LxmIIYj5FQE" target="_blank" onclick="event.stopPropagation();">AI is Sending People into Psychosis</a>
+                            <a href="https://www.youtube.com/watch?v=jj05pc9tlc0" target="_blank" onclick="event.stopPropagation();">&#39;No signs of AI slowing down&#39; — will it become a &#39;MACHINE GOD&#39;?</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            AI chatbots are pulling people into delusions with devastating consequences. Sources: The Dark Addiction Patterns of Current AI ...
+                            Should we think of AI as a co-intelligence and digital coworker rather than just a chatbot? Ethan Mollick, a professor at Wharton ...
                         </div>
                         
 
@@ -3167,9 +3146,9 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/pRLSQRNnNWZqjQ2brdGNclEF2VdSSOR75l3IPa04g3i2ZPOUu3IoqAy27WNiFmb5Uet_-v0AI2U=s88-c-k-c0x00ffffff-no-rj" alt="Vanessa Wingårdh" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj" alt="MS NOW" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UC2Bm4qXVUx9Md-hmHz3WuXw" target="_blank" onclick="event.stopPropagation();">Vanessa Wingårdh</a>
+                                    <a href="https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg" target="_blank" onclick="event.stopPropagation();">MS NOW</a>
                                 </div>
                                 
                             </div>
@@ -3178,16 +3157,16 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 136K</span>
+                                    <span style="color: #9ca3af;">👁️ 6K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 8K</span>
+                                    <span style="color: #9ca3af;">👍 174</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3K</span>
+                                    <span style="color: #9ca3af;">💬 95</span>
                                 </div>
                                 
                             </div>
@@ -3197,7 +3176,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1778429087.0"></span>
+                                    <span data-timestamp="1778590875.0"></span>
                                 </div>
                                 
                             </div>
@@ -3225,7 +3204,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:40.325942+00:00">Updated 2026-05-13T06:48:40.325942+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:15.717787+00:00">Updated 2026-05-13T09:45:15.717787+00:00</small>
     </div>
 </div>
 
@@ -3489,10 +3468,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 157,648</span>
+                                    <span class="model-stats">⬇️ 535,069</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 756</span>
+                                    <span class="model-stats">❤️ 771</span>
                                 </div>
                             </div>
                             
@@ -3545,10 +3524,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 66,119</span>
+                                    <span class="model-stats">⬇️ 110,182</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 455</span>
+                                    <span class="model-stats">❤️ 458</span>
                                 </div>
                             </div>
                             
@@ -3603,10 +3582,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 0</span>
+                                    <span class="model-stats">⬇️ 3,494</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 422</span>
+                                    <span class="model-stats">❤️ 434</span>
                                 </div>
                             </div>
                             
@@ -3661,10 +3640,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 3,418</span>
+                                    <span class="model-stats">⬇️ 7,747</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 280</span>
+                                    <span class="model-stats">❤️ 284</span>
                                 </div>
                             </div>
                             
@@ -3719,10 +3698,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 2,017,835</span>
+                                    <span class="model-stats">⬇️ 2,420,384</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,905</span>
+                                    <span class="model-stats">❤️ 3,910</span>
                                 </div>
                             </div>
                             
@@ -3777,10 +3756,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 9,477</span>
+                                    <span class="model-stats">⬇️ 11,486</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 322</span>
+                                    <span class="model-stats">❤️ 325</span>
                                 </div>
                             </div>
                             
@@ -3833,10 +3812,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,837</span>
+                                    <span class="model-stats">⬇️ 4,954</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 136</span>
+                                    <span class="model-stats">❤️ 143</span>
                                 </div>
                             </div>
                             
@@ -3891,10 +3870,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 66,561</span>
+                                    <span class="model-stats">⬇️ 93,228</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 222</span>
+                                    <span class="model-stats">❤️ 223</span>
                                 </div>
                             </div>
                             
@@ -3947,7 +3926,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 64,008</span>
+                                    <span class="model-stats">⬇️ 84,903</span>
                                 </div>
                                 <div class="model-meta-item">
                                     <span class="model-stats">❤️ 239</span>
@@ -4005,10 +3984,10 @@ What changed recently is what I'm willing to build to support that. With AI tool
                             </div>
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 2,446,478</span>
+                                    <span class="model-stats">⬇️ 2,772,193</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,260</span>
+                                    <span class="model-stats">❤️ 1,262</span>
                                 </div>
                             </div>
                             
@@ -4042,7 +4021,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:48.174800+00:00">Updated 2026-05-13T06:48:48.174800+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:24.412869+00:00">Updated 2026-05-13T09:45:24.412869+00:00</small>
     </div>
 </div>
 
@@ -4697,7 +4676,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 108</span>
+                                    <span class="paper-stats">▲ 109</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 10</span>
@@ -4774,7 +4753,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 32</span>
+                                    <span class="paper-stats">▲ 33</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 3</span>
@@ -4852,7 +4831,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 62,777</span>
+                                    <span style="color: #9ca3af;">⭐ 62,825</span>
                                 </div>
                                 
                             </div>
@@ -4962,19 +4941,20 @@ What changed recently is what I'm willing to build to support that. With AI tool
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2605.08063', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2407.16741', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.08063.png');" ></div>
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png');" ></div>
 
                     <div class="paper-content">
                         <!-- Paper title (fixed 2-line height) -->
                         <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2605.08063" target="_blank" onclick="event.stopPropagation();">Flow-OPD: On-Policy Distillation for Flow Matching Models</a>
+                            <a href="https://huggingface.co/papers/2407.16741" target="_blank" onclick="event.stopPropagation();">OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents</a>
                         </div>
 
                         <!-- Authors -->
                         <div class="paper-authors">
-                            Zhen Fang, Wenxuan Huang, Yu Zeng et al. (11 authors)
+                            Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)
                         </div>
 
                         <!-- Organization (always reserve space for consistent card height) -->
@@ -4985,7 +4965,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <!-- Rich description (AI summary if available, otherwise full summary) -->
                         
                         <div class="paper-summary">
-                            Flow-OPD addresses limitations in Flow Matching text-to-image models through a two-stage alignment approach combining on-policy distillation and manifold anchor regularization, achieving significant improvements in generation quality and alignment metrics.
+                            OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
                         </div>
                         
 
@@ -4993,45 +4973,38 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 83</span>
+                                    <span class="paper-stats">▲ 77</span>
                                 </div>
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
+                                    <span style="color: #9ca3af;">💬 7</span>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 108</span>
+                                    <span style="color: #9ca3af;">⭐ 73,327</span>
                                 </div>
                                 
                             </div>
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2605.08063" target="_blank" class="paper-link"
+                                    <a href="https://arxiv.org/abs/2407.16741" target="_blank" class="paper-link"
                                         onclick="event.stopPropagation();">
                                         🎓 arXiv
                                     </a>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <a href="https://github.com/CostaliyA/Flow-OPD" target="_blank" class="paper-link"
+                                    <a href="https://github.com/opendevin/opendevin" target="_blank" class="paper-link"
                                         onclick="event.stopPropagation();">
                                         💻 code
                                     </a>
                                 </div>
                                 
                                 
-                                <div class="paper-meta-item">
-                                    <a href="https://costaliya.github.io/Flow-OPD/" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
                             </div>
                             
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2026-05-07T20:00:00.000Z"></span>
+                                    <span class="paper-age" data-timestamp="2024-07-23T13:50:43.000Z"></span>
                                 </div>
                             </div>
                             
@@ -5060,7 +5033,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:49.230486+00:00">Updated 2026-05-13T06:48:49.230486+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:25.521054+00:00">Updated 2026-05-13T09:45:25.521054+00:00</small>
     </div>
 </div>
 
@@ -5399,7 +5372,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">842</span>
+                                <span class="repo-stats">844</span>
                             </div>
                         </div>
                         
@@ -5460,13 +5433,13 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 2.6k</span>
+                                <span class="repo-stats">⭐ 2.7k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">267</span>
+                                <span class="repo-stats">270</span>
                             </div>
                         </div>
                         
@@ -5533,7 +5506,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">231</span>
+                                <span class="repo-stats">232</span>
                             </div>
                         </div>
                         
@@ -5600,7 +5573,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">287</span>
+                                <span class="repo-stats">290</span>
                             </div>
                         </div>
                         
@@ -5657,13 +5630,13 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 2.1k</span>
+                                <span class="repo-stats">⭐ 2.2k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">220</span>
+                                <span class="repo-stats">221</span>
                             </div>
                         </div>
                         
@@ -5730,7 +5703,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">135</span>
+                                <span class="repo-stats">136</span>
                             </div>
                         </div>
                         
@@ -5864,7 +5837,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">290</span>
+                                <span class="repo-stats">293</span>
                             </div>
                         </div>
                         
@@ -5915,13 +5888,13 @@ What changed recently is what I'm willing to build to support that. With AI tool
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 1.7k</span>
+                                <span class="repo-stats">⭐ 1.8k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">298</span>
+                                <span class="repo-stats">302</span>
                             </div>
                         </div>
                         
@@ -5957,7 +5930,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-13T06:48:38.155063+00:00">Updated 2026-05-13T06:48:38.155063+00:00</small>
+        <small data-timestamp="2026-05-13T09:45:14.240052+00:00">Updated 2026-05-13T09:45:14.240052+00:00</small>
     </div>
 </div>
 
