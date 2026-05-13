@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-13T03:32:00.757810+00:00'
+updated: '2026-05-13T06:49:01.743482+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 13, 2026 at 03:32 UTC  
+**Last Updated:** May 13, 2026 at 06:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,57 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,282.97
+### $2,296.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +0.3%  
-**30d:** -1.0%  
-**90d:** +12.2%  
-**1y:** -12.0%  
+**24h:** +0.4%  
+**7d:** +0.6%  
+**30d:** -0.7%  
+**90d:** +12.5%  
+**1y:** -11.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.27B
+**Market Cap:** $278.06B
 Rank #2
 
 **Circulating Supply:** 120,686,235 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.6%
+-53.4%
 
 **All-Time Low:** $0.43
-+530461.5%
++532034.4%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 13, 2026](https://www.reddit.com/r/ethereum/comments/1tbpq6u/daily_general_discussion_may_13_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
+**[Grayscale weighs in on Ethereum issuance](https://www.reddit.com/r/ethereum/comments/1tbndv4/grayscale_weighs_in_on_ethereum_issuance/)**
+
+🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 3h ago
+
+---
+
 **[Ethereum impact from Chainlink deal launching Collateral AppChain platform](https://www.reddit.com/r/ethereum/comments/1tbioxg/ethereum_impact_from_chainlink_deal_launching/)**
 
 The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance. By utilizing Chainlink’s Runtime Environment (CRE) and data standards to automate pricing, margining, and settlement, the deal demonstrates that decentralized oracles can securely manage critical financial workflows. This positions Chainlink as a default infrastructure layer for tokenized real-world assets (RWA), potentially increasing its usage across other financial institutions following DTCC’s October 2026 launch. For the broader financial ecosystem, the partnership accelerates the tokenization of assets on blockchain rails. It enables 24/7 near real-time collateral management, moving away from legacy T+1 or T+2 settlement times to instant, smart-contract-verified transactions. This efficiency improves capital utilization for institutions and sets a precedent for other clearinghouses to adopt similar Ethereum-based and Chainlink-powered infrastructures.
 
-3h ago
-
----
-
-**[Daily General Discussion May 12, 2026](https://www.reddit.com/r/ethereum/comments/1tariy9/daily_general_discussion_may_12_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-22h ago
+7h ago
 
 ---
 
@@ -88,13 +94,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 11h ago
+🔗 [Clear Signing](https://clearsigning.org/) • 14h ago
 
 ---
 
-**[Grayscale weighs in on Ethereum issuance](https://www.reddit.com/r/ethereum/comments/1tbndv4/grayscale_weighs_in_on_ethereum_issuance/)**
+**[Daily General Discussion May 12, 2026](https://www.reddit.com/r/ethereum/comments/1tariy9/daily_general_discussion_may_12_2026/)**
 
-🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 24m ago
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -116,7 +124,7 @@ BlackRock filed for tokenized money-market fund shares on Ethereum, adding press
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -124,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,39 +144,15 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 ---
 
-**[Whats next after learning solidity ?](https://www.reddit.com/r/ethereum/comments/1t9abbb/whats_next_after_learning_solidity/)**
-
-I have learned the following: solidity basics using cryptozombies smart contract development course from Cyfrin Updraft some projects from speedrunethereum My goal: Actually i want to land a job early in this domain remotely My current thought: I am looking to further learn more with Cyfrin Updraft course, the following are my choices for now: Foundry Fundamentals 2.Full-Stack Web3 Development Crash Course Smart Contract Security Am i proceeding in the right direction ?? please give me your suggestions..
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum](https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum)**
+**[JPMorgan launching second tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum)**
 
-Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
+The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
 
-Decrypt • 6h ago
-
----
-
-**[Ethereum Foundation names three new co-leads to major Protocol cluster](https://www.theblock.co/post/400835/ethereum-foundation-names-three-new-co-leads-major-protocol-cluster)**
-
-The EF's Protocol team, formerly Protocol R&D, is the core group responsible for designing and developing the Ethereum base layer.
-
-The Block • 1d ago
-
----
-
-**[Tom Lee Says Ethereum Could Reach $62,000 as Bitmine Nears 5% ETH Goal](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-could-143217064.html)**
-
-Tom Lee sees Ethereum's price potentially reaching $62,000. Bitmine now owns 4.31% of Ethereum’s total supply and aims to reach 5% by the end of ...
-
-Yahoo Finance • 12h ago
+The Block • 10h ago
 
 ---
 
@@ -176,7 +160,7 @@ Yahoo Finance • 12h ago
 
 The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
 
-CoinDesk • 9h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -186,9 +170,41 @@ ethereum.org • 1d ago
 
 ---
 
+**[Ethereum Foundation Unstakes 21,270 ETH](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-unstakes-21-270-123700561.html)**
+
+The Ethereum Foundation has unstaked more than 21,000 Ethereum (CRYPTO: $ETH) after carrying out treasury sales to ...
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Ethereum community launches security feature to end blind signing](https://www.tradingview.com/news/cointelegraph:8750276a7094b:0-ethereum-community-launches-security-feature-to-end-blind-signing/)**
+
+The Ethereum community has introduced Clear Signing, a security feature that ensures users can clearly understand transaction details before signing, replacing unreadable hex data and reducing risks from blind signing attacks.“Approving a transaction is meant to be the last line of defense when exe…
+
+TradingView • 2h ago
+
+---
+
+**[JPMorgan Picks Ethereum Again in New Money Market Fund Filing](https://finance.yahoo.com/news/jpmorgan-picks-ethereum-again-money-041946492.html)**
+
+JPMorgan's SEC filing introduces JLTXX, a second Ethereum tokenized Treasury fund after last year's MONY launch.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
 
-Disruption Banking • 14h ago
+Disruption Banking • 17h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.21 Million Tokens, and Total Crypto and Total Cash Holdings of $13.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-21-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-4-billion-302767816.html)**
+
+Bitmine owns more than 4.31% of the total ETH coin supply of 120.7 million Bitmine is 86% of the way to the 'Alchemy of 5%' in just 11 months Crypto Spring has...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -206,22 +222,6 @@ Gizmodo • 1d ago
 
 ---
 
-**[BitMine Slows Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-171700536.html)**
-
-BitMine Immersion Technologies (NYSE: $BMNR) has slowed its Ethereum (CRYPTO: $ETH) purchases over the past week.&n...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum, BMNR news: Bitmine buys 26K ether (ETH) after Tom Lee said to slow down accumulation](https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year)**
-
-The firm bought roughly 26,000 ether last week, a sharp decline from the average of the previous weeks' 100,000.
-
-CoinDesk • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +232,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 158 • 💬 121 • ⏱️ 17:25 • 8h ago
+👁️ 5K • 👍 184 • 💬 116 • ⏱️ 17:25 • 12h ago
 
 ---
 
@@ -242,27 +242,7 @@ Ethereum keeps failing at the $2400 resistance level, and the data shows why: we
 
 📺 Coin Bureau Podcast
 
-👁️ 1K • 👍 31 • 💬 1 • ⏱️ 1:11 • 11h ago
-
----
-
-**[ETH Deep Dive (bullish and bearish projections)](https://www.youtube.com/watch?v=S1e5MeaFoSg)**
-
-Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks down why ETH still looks weaker even after its ...
-
-📺 Coin Bureau Trading
-
-👁️ 4K • 👍 287 • 💬 31 • ⏱️ 23:49 • 21h ago
-
----
-
-**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 17K • 💬 71 • ⏱️ 19:51 • 6h ago
+👁️ 1K • 👍 34 • 💬 1 • ⏱️ 1:11 • 14h ago
 
 ---
 
@@ -272,37 +252,47 @@ Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 130 • 💬 11 • ⏱️ 9:08 • 1d ago
+👁️ 4K • 👍 133 • 💬 11 • ⏱️ 9:08 • 1d ago
 
 ---
 
-**[TOP 3 COINS going to ZERO before 2030 📉 #ethereum #crypto](https://www.youtube.com/watch?v=9yq3hxOSL4Y)**
+**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
 
-TOP 3 COINS going to ZERO before 2030.
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Cointalkpodcast
+📺 InvestAnswers
 
-👁️ 989 • 👍 35 • 💬 1 • ⏱️ 0:54 • 9h ago
-
----
-
-**[XRP, BTC, ETH We Need To Address THIS In Crypto Right Now!](https://www.youtube.com/watch?v=hgAOxaIz1VI)**
-
-XRP, BTC, ETH We Need To Address THIS In Crypto Right Now! Major crypto breakdown and different factors impacting the entire ...
-
-📺 Zach Humphries
-
-👁️ 1K • 👍 85 • 💬 212 • ⏱️ 8:55 • 10h ago
+👁️ 21K • 💬 80 • ⏱️ 19:51 • 9h ago
 
 ---
 
-**[🚨 Ethereum BOTTOM Signal?](https://www.youtube.com/watch?v=RIUfiK--W4I)**
+**[ETH Deep Dive (bullish and bearish projections)](https://www.youtube.com/watch?v=S1e5MeaFoSg)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks down why ETH still looks weaker even after its ...
 
-📺 🌟yourfriendsommi
+📺 Coin Bureau Trading
 
-👁️ 2K • 👍 256 • 💬 26 • ⏱️ 14:41 • 21h ago
+👁️ 4K • 👍 296 • 💬 30 • ⏱️ 23:49 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum ein weiteres Hoch kommt, dann Absturz!!!???](https://www.youtube.com/watch?v=bwHzE94FMP0)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + 5% ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 367 • 💬 42 • ⏱️ 13:20 • 2h ago
+
+---
+
+**[ELIZABETH WARREN FIGHTS CLARITY ACT! JPMORGAN TOKENIZATION ETHEREUM &amp; BERMUDA STELLAR XLM!](https://www.youtube.com/watch?v=s-I_zD6SBTA)**
+
+Crypto News: Elizabeth Warren pushes back on Clarity Act draft bill. JPMorgan launching second tokenized money market fund ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 228 • 💬 27 • ⏱️ 20:45 • 2h ago
 
 ---
 
@@ -312,17 +302,27 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 3K • 👍 169 • 💬 54 • ⏱️ 8:44 • 1d ago
+👁️ 3K • 👍 174 • 💬 52 • ⏱️ 8:44 • 1d ago
 
 ---
 
-**[BULL MARKET STARTS RIGHT NOW? #crypto #ethereum #bitcoin #solana #bitcoincrashing](https://www.youtube.com/watch?v=a5FTAl1XbbU)**
+**[XRP, BTC, ETH We Need To Address THIS In Crypto Right Now!](https://www.youtube.com/watch?v=hgAOxaIz1VI)**
 
-Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
+XRP, BTC, ETH We Need To Address THIS In Crypto Right Now! Major crypto breakdown and different factors impacting the entire ...
 
-📺 Altcoin Daily
+📺 Zach Humphries
 
-👁️ 8K • 👍 198 • 💬 254 • ⏱️ 0:44 • 1d ago
+👁️ 1K • 👍 86 • 💬 206 • ⏱️ 8:55 • 13h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=-F_7_sLjUuE)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 97 • 💬 1 • ⏱️ 5:36 • 17h ago
 
 ---
 

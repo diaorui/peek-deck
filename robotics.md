@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-13T03:32:00.760617+00:00'
+updated: '2026-05-13T06:49:01.746352+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 13, 2026 at 03:32 UTC  
+**Last Updated:** May 13, 2026 at 06:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,31 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[My third hexapof build 👀](https://www.reddit.com/r/robotics/comments/1tbignp/my_third_hexapof_build/)**
-
-4h ago
-
----
-
 **[My Walter White animatronic](https://www.reddit.com/r/robotics/comments/1tbivnz/my_walter_white_animatronic/)**
 
 Custom Walter White animatronic fully 3D printed and hand painted. Powered by ESP32 and Arduino with 5 servomotors running at 5V: 2 servos for the neck, 1 for the mouth, and 2 for the eyes. Includes AI voice & sound using ElevenLabs.
 
-3h ago
-
----
-
-**[Unitree Launches World’s First Mass-Produced Manned Mecha GD01](https://www.reddit.com/r/robotics/comments/1taqqk8/unitree_launches_worlds_first_massproduced_manned/)**
-
-original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announced the world’s first mass-produced manned mecha meant for civilian travel. Weight: ~500kg (with pilot). Feature: It actually transforms from bipedal to quadruped. Price: starting at 3.95 million in Chinese RMB (around 581.3k USD)
-
-23h ago
-
----
-
-**[Made a 3D-Printed 6-Axis Robot Arm from scratch. Autonomous pick and place with OpenCV AI Object Detection, ROS2 and MoveIt2.](https://www.reddit.com/r/robotics/comments/1tb493a/made_a_3dprinted_6axis_robot_arm_from_scratch/)**
-
-12h ago
+6h ago
 
 ---
 
@@ -64,7 +44,35 @@ original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announce
 
 Hello. I would like to get some ideas on how I could extend this tube feeder magazine while staying inside the safety fence. Or does anyone have a complete redesign for a much better design? I need to be able to feed it from the outside of the cage. I don't have too much room in the cell and I am looking to find a way to fit more of the tubes. The machine goes through about 1 tube every 4 or 5 seconds. With only room for 8 tubes that's only about a 40 second buffer. It would be nice to have at least a few minutes buffer so the operator had time to do other small things while feeding the machine. Thanks.
 
-1h ago
+4h ago
+
+---
+
+**[My third hexapof build 👀](https://www.reddit.com/r/robotics/comments/1tbignp/my_third_hexapof_build/)**
+
+7h ago
+
+---
+
+**[Unitree Launches World’s First Mass-Produced Manned Mecha GD01](https://www.reddit.com/r/robotics/comments/1taqqk8/unitree_launches_worlds_first_massproduced_manned/)**
+
+original link: https://www.bilibili.com/video/BV12M5K6wEdp Unitree just announced the world’s first mass-produced manned mecha meant for civilian travel. Weight: ~500kg (with pilot). Feature: It actually transforms from bipedal to quadruped. Price: starting at 3.95 million in Chinese RMB (around 581.3k USD)
+
+1d ago
+
+---
+
+**[Made a 3D-Printed 6-Axis Robot Arm from scratch. Autonomous pick and place with OpenCV AI Object Detection, ROS2 and MoveIt2.](https://www.reddit.com/r/robotics/comments/1tb493a/made_a_3dprinted_6axis_robot_arm_from_scratch/)**
+
+15h ago
+
+---
+
+**[My Walter White animatronic](https://www.reddit.com/r/robotics/comments/1tbk6zo/my_walter_white_animatronic/)**
+
+Custom Walter White animatronic fully 3D printed and hand painted. Powered by ESP32 and Arduino with 5 servomotors running at 5V: 2 servos for the neck, 1 for the mouth, and 2 for the eyes. Includes AI voice & sound using ElevenLabs. NOTE: Reuploaded the video because it appeared stretched on mobile devices.
+
+6h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hello. I would like to get some ideas on how I could extend this tube feeder mag
 
 Zach Jackowski, GM of Atlas at Boston Dynamics, talks about how getting humanoids into real environments matters, but running the same behavior at scale is not enough. If a fleet is only doing automotive part sequencing, the resulting dataset will mostly improve performance on that task family. It does not automatically produce broad manipulation generalization. That is why he pushes back on the idea that the path is simply “deploy robots, collect lots of data, and generalization follows.” The harder part is collecting varied, useful data while still operating in controlled enough settings to make the robot commercially useful.
 
-15h ago
+18h ago
 
 ---
 
@@ -80,7 +88,7 @@ Zach Jackowski, GM of Atlas at Boston Dynamics, talks about how getting humanoid
 
 Ok so I was debugging someone's code last week. They replaced PID loop with neural network. Why?? It was slower, harder to debug, and not even better. I think just looked cool in the presentation lol I get it, ML is great for perception, manipulation, stuff you can't just write rules for. But for control loop? Come on. PID, LQR, MPC – predictable, you know what they do, you can fix them at 3am when everything is on fire. Also somebody will need to maintain this code in 3 years. Good luck explaining neural network to that person:) But maybe I am missing something here. Anyone actually replaced classical control with ML and was happy with result?
 
-20h ago
+23h ago
 
 ---
 
@@ -88,13 +96,7 @@ Ok so I was debugging someone's code last week. They replaced PID loop with neur
 
 With some new, hydraulics aware formulation, sub-cm shovel tracking can be achieved in-air and about 1.8cm in soil contact. I guess this makes it a strong contestant for the heaviest bottle opener :D Check out the full video: https://youtu.be/bCOMYbRWv5I And our publication: https://arxiv.org/abs/2605.09465
 
-8h ago
-
----
-
-**[Fun with AgenticROS (ROS + OpenClaw + Claude Code)](https://www.reddit.com/r/robotics/comments/1tb3zo3/fun_with_agenticros_ros_openclaw_claude_code/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -102,7 +104,7 @@ With some new, hydraulics aware formulation, sub-cm shovel tracking can be achie
 
 What is the best algorithm for object recognition on a production line combined with robotic gripping? My requirement is that I have a CAD model, and on the production line a series of these items will be stacked. I need to use a robotic arm to pick them up and arrange them. Subsequently, I need to pick and place them onto a universal fixture and then use a sanding tool to polish them. So later on, I will also need to perform sanding based on visual recognition (if there is no other solution). I have no experience in this area, but I have been entrusted with this task because I hold a PhD in computer science, so I would like to know the current state-of-the-art (SOTA) algorithms. What I have learned so far is that Foundation Pose can accomplish 6D pose estimation, but are there newer and better methods? As for sanding based on visual recognition, what is the most advanced algorithm for controlling the robotic arm?
 
-1h ago
+5h ago
 
 ---
 
@@ -110,11 +112,17 @@ What is the best algorithm for object recognition on a production line combined 
 
 ## Google News: "robotics"
 
+**[Unitree debuts US$574,000 ‘mecha’ robot that ‘transforms’ from 2 legs to 4](https://www.scmp.com/tech/tech-trends/article/3353262/real-life-transformers-chinas-unitree-debuts-mecha-robot-shifts-2-legs-4)**
+
+South China Morning Post • 21h ago
+
+---
+
 **[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
 
 Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
 
-Global Times • 16h ago
+Global Times • 19h ago
 
 ---
 
@@ -122,23 +130,7 @@ Global Times • 16h ago
 
 China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.
 
-WIRED • 4h ago
-
----
-
-**[Unitree Shows Off Fully Functional Mecha Suit](https://futurism.com/artificial-intelligence/unitree-mecha-suit)**
-
-Chinese robotics company Unitree just showed off an explosive demo: a fully functional mecha suit for a human pilot.
-
-Futurism • 13h ago
-
----
-
-**[Chinese Robotics Company Makes Giant Mechs Affordable at $650,000](https://tech.yahoo.com/general/articles/chinese-robotics-company-makes-giant-151601570.html)**
-
-Unitree Robotics priced their pilotable GD01 mech at $650,000, making giant robots accessible for industrial use, rescue operations, and construction work.
-
-Yahoo Tech • 12h ago
+WIRED • 7h ago
 
 ---
 
@@ -146,15 +138,23 @@ Yahoo Tech • 12h ago
 
 Unitree unveils a manned transformable mecha robot capable of switching between bipedal and quadruped modes.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 14h ago
 
 ---
 
-**[Unitree unveils world's first manned transformable robotic vehicle](https://english.news.cn/20260512/715d3be8a90e4bc29ea081a2954bf9b0/c.html)**
+**[Unitree Shows Off Fully Functional Mecha Suit](https://futurism.com/artificial-intelligence/unitree-mecha-suit)**
 
-Unitree unveils world's first manned transformable robotic vehicle-
+Chinese robotics company Unitree just showed off an explosive demo: a fully functional mecha suit for a human pilot.
 
-Xinhua • 20h ago
+Futurism • 16h ago
+
+---
+
+**[Chinese Robotics Company Makes Giant Mechs Affordable at $650,000](https://tech.yahoo.com/general/articles/chinese-robotics-company-makes-giant-151601570.html)**
+
+Unitree Robotics priced their pilotable GD01 mech at $650,000, making giant robots accessible for industrial use, rescue operations, and construction work.
+
+Yahoo Tech • 15h ago
 
 ---
 
@@ -170,7 +170,7 @@ NASA (.gov) • 1d ago
 
 Workers at a five-star hotel fold napkins and wipe silverware with body cameras recording their every move.
 
-AP News • 19h ago
+AP News • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ AP News • 19h ago
 
 Olympus CEO Bob White said the company is working on different business models for ambulatory surgery center customers.
 
-Modern Healthcare News • 17h ago
+Modern Healthcare News • 20h ago
 
 ---
 
@@ -186,7 +186,7 @@ Modern Healthcare News • 17h ago
 
 Roomba creator Colin Angle's Familiar Machines debuted a cuddly, pet-like robot for companionship, focusing on AI-driven emotional support.
 
-Business Insider • 18h ago
+Business Insider • 21h ago
 
 ---
 
@@ -194,13 +194,21 @@ Business Insider • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000 (CREDIT TO UNITREE)](https://www.youtube.com/watch?v=956F_mcNxaU)**
+**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000](https://www.youtube.com/watch?v=oWOyUMJWptc)**
 
 The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please ...
 
-📺 ShanghaiEye魔都眼
+📺 Unitree Robotics
 
-👁️ 79K • 👍 2K • 💬 498 • ⏱️ 1:15 • 21h ago
+👁️ 335K • 👍 9K • 💬 2K • ⏱️ 1:15 • 1d ago
+
+---
+
+**[Unitree just dropped a robot for the end of the world #robot #tech #robotics #technews](https://www.youtube.com/watch?v=rsMUp8papsM)**
+
+📺 PRO ROBOTS
+
+👁️ 5K • 👍 123 • 💬 6 • ⏱️ 0:39 • 12h ago
 
 ---
 
@@ -210,25 +218,27 @@ Tesla's new AI robot is being described as a practical solution for handling phy
 
 📺 Carros Show
 
-👁️ 413 • 👍 30 • 💬 5 • ⏱️ 22:22 • 5h ago
+👁️ 675 • 👍 37 • 💬 4 • ⏱️ 22:22 • 8h ago
 
 ---
 
-**[Unitree just dropped a robot for the end of the world #robot #tech #robotics #technews](https://www.youtube.com/watch?v=rsMUp8papsM)**
+**[War Robots - Ultimate Ao Ming Melting Titans With New Furnace Weapons! WR Ultimate Ao Ming Gameplay](https://www.youtube.com/watch?v=KY96DEF8VqM)**
 
-📺 PRO ROBOTS
+War Robots - Ultimate Ao Ming melting through Titans with the new Furnace weapons. WR Ultimate Ao Ming. #warrobots ...
 
-👁️ 5K • 👍 106 • 💬 7 • ⏱️ 0:39 • 9h ago
+📺 Adrian Chong
+
+👁️ 3K • 👍 188 • 💬 27 • ⏱️ 14:40 • 17h ago
 
 ---
 
-**[Robot Dogs Are A Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)**
+**[Figure Helix 02 Humanoid Robot Cleans Bedroom Like a Human](https://www.youtube.com/watch?v=xsLOYZxIUqc)**
 
-Go to https://ground.news/benn for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
+Figure AI just revealed one of the most realistic humanoid robot demonstrations yet. The new Helix 02 robot cleaned and ...
 
-📺 Benn Jordan
+📺 DPCcars
 
-👁️ 661K • 👍 55K • 💬 5K • ⏱️ 23:53 • 2d ago
+👁️ 9K • 👍 159 • 💬 64 • ⏱️ 2:19 • 4d ago
 
 ---
 
@@ -240,23 +250,13 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 ---
 
-**[Figure Helix 02 Humanoid Robot Cleans Bedroom Like a Human](https://www.youtube.com/watch?v=xsLOYZxIUqc)**
+**[Disney just reinvented mocap for robots 🦾🤖 #disney](https://www.youtube.com/watch?v=NPMvJJsIaHU)**
 
-Figure AI just revealed one of the most realistic humanoid robot demonstrations yet. The new Helix 02 robot cleaned and ...
+Disney just reinvented motion capture for robots using AI and physics. Disney Research's Zürich lab (the same team behind the ...
 
-📺 DPCcars
+📺 Guide2WDW
 
-👁️ 9K • 👍 158 • 💬 64 • ⏱️ 2:19 • 4d ago
-
----
-
-**[Building a Running Robot Day 2](https://www.youtube.com/watch?v=apkXoc_MlfI)**
-
-Day 2 of building my first robot, we're looking at the servo for the neck. It's quite large, will have to think how I can fit it in my design.
-
-📺 Kevin Jeffries
-
-👁️ 12K • 👍 380 • 💬 3 • ⏱️ 0:23 • 1d ago
+👁️ 8K • 👍 969 • 💬 24 • ⏱️ 1:46 • 1d ago
 
 ---
 
@@ -266,17 +266,7 @@ The future just went full sci-fi — and it's already for sale. Unitree Robotics
 
 📺 Bytes & Bets
 
-👁️ 2K • 👍 41 • 💬 5 • ⏱️ 1:09 • 11h ago
-
----
-
-**[CAT is now the Tesla of Construction! #robotics #construction #AI #autonomousvehicles](https://www.youtube.com/watch?v=8aqOkNvUhco)**
-
-Caterpillar's autonomous fleet just crossed 820 trucks. 11 billion tonnes hauled. 325 million kilometers driven. Zero injuries in 11 ...
-
-📺 Work Space Talk Show
-
-👁️ 807 • 👍 19 • 💬 1 • ⏱️ 1:15 • 7h ago
+👁️ 2K • 👍 43 • 💬 5 • ⏱️ 1:09 • 14h ago
 
 ---
 
@@ -286,7 +276,17 @@ MIT Engineers Revived A 40-Year-Old Y-Zipper That Can Bend Split And Transform I
 
 📺 Techie Sapien
 
-👁️ 374K • 👍 2K • 💬 21 • ⏱️ 0:07 • 1d ago
+👁️ 384K • 👍 3K • 💬 21 • ⏱️ 0:07 • 1d ago
+
+---
+
+**[MIT Created Shape Shifting Robots That Reshape Themselves](https://www.youtube.com/watch?v=MXZBYAHdhBs)**
+
+Researchers at MIT (Massachusetts Institute of Technology), including students and faculty in the Computer Science and Artificial ...
+
+📺 Existenzia
+
+👁️ 65K • 👍 351 • 💬 12 • ⏱️ 0:07 • 4d ago
 
 ---
 
