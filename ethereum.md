@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-13T09:45:46.824733+00:00'
+updated: '2026-05-13T12:05:38.948320+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 13, 2026 at 09:45 UTC  
+**Last Updated:** May 13, 2026 at 12:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +1.3%  
-**30d:** -0.0%  
-**90d:** +13.3%  
-**1y:** -11.1%  
+**24h:** +1.5%  
+**7d:** +0.6%  
+**30d:** -0.7%  
+**90d:** +12.5%  
+**1y:** -11.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.10B
+**Market Cap:** $277.87B
 Rank #2
 
 **Circulating Supply:** 120,686,235 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-53.4%
 
 **All-Time Low:** $0.43
-+535935.2%
++531819.6%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+7h ago
 
 ---
 
 **[Grayscale weighs in on Ethereum issuance](https://www.reddit.com/r/ethereum/comments/1tbndv4/grayscale_weighs_in_on_ethereum_issuance/)**
 
-🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 6h ago
+🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance. By utilizing Chainlink’s Runtime Environment (CRE) and data standards to automate pricing, margining, and settlement, the deal demonstrates that decentralized oracles can securely manage critical financial workflows. This positions Chainlink as a default infrastructure layer for tokenized real-world assets (RWA), potentially increasing its usage across other financial institutions following DTCC’s October 2026 launch. For the broader financial ecosystem, the partnership accelerates the tokenization of assets on blockchain rails. It enables 24/7 near real-time collateral management, moving away from legacy T+1 or T+2 settlement times to instant, smart-contract-verified transactions. This efficiency improves capital utilization for institutions and sets a precedent for other clearinghouses to adopt similar Ethereum-based and Chainlink-powered infrastructures.
 
-10h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ The DTCC and Chainlink partnership directly benefits Ethereum by establishing it
 
 The open standard for human-readable transaction signing.
 
-🔗 [Clear Signing](https://clearsigning.org/) • 17h ago
+🔗 [Clear Signing](https://clearsigning.org/) • 19h ago
 
 ---
 
@@ -152,7 +152,7 @@ We're building ARPA Legacy Protocol in the open, an on-chain framework for asset
 
 The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
 
-The Block • 13h ago
+The Block • 16h ago
 
 ---
 
@@ -162,25 +162,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum Price: Why ETH Is the Only Top-10 Crypto Down This Week](https://finance.yahoo.com/news/ethereum-price-why-eth-only-093459988.html)**
+**[Bitcoin At $80,000, Ethereum, XRP, Dogecoin Consolidate Ahead Of Clarity Act Meeting](https://finance.yahoo.com/news/bitcoin-80-000-ethereum-xrp-111052016.html)**
 
-Ethereum (CRYPTO: ETH) is the only top-10 cryptocurrency in negative territory this week, even as the broader digital asset market continues to edge higher. Most major tokens, including Bitcoin (CRYPTO: BTC) and other large-cap altcoins, have managed to avoid similar pressure, which makes Ethereum’s move stand out. The pullback comes despite generally stable market conditions, ... Ethereum Price: Why ETH Is the Only Top-10 Crypto Down This Week
+Bitcoin hovers near $80,000 in early trading hours Wednesday as traders stayed cautious ahead of the upcoming Clarity Act meeting despite continued ETF outflows and neutral market sentiment. Bitcoin ETFs saw $233.3 million in net outflows on Tuesday, while Ethereum ETFs reported $130.6 million in net outflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$80,647Ethereum(CRYPTO: ETH)$2,299Solana(CRYPTO: SOL)$94.76XRP(CRYPTO: XRP)$1.45Dogecoin(CRYPTO: DOGE)$0.1138Shiba Inu(CRYPTO: SHIB)$0.056493 M
 
-Yahoo Finance • 10m ago
-
----
-
-**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
-
-The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
-
-CoinDesk • 16h ago
-
----
-
-**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
-
-Disruption Banking • 20h ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -188,7 +174,29 @@ Disruption Banking • 20h ago
 
 Slowness has long been one of the network's stumbling blocks.
 
-The Motley Fool • 1m ago
+The Motley Fool • 1h ago
+
+---
+
+**[Can Ethereum hold $2,300 after JPMorgan’s big blockchain move?](https://www.tradingview.com/news/invezz:736412158094b:0-can-ethereum-hold-2-300-after-jpmorgan-s-big-blockchain-move/)**
+
+Ethereum is trading above $2,300 once again after adding 1% to its value in the last 24 hours.The leading altcoin briefly dropped to the $2,200 level as the broader crypto market recorded losses.However, technical indicators suggest that ETH could rally higher in the near term, with the $2,500 psyc…
+
+TradingView • 38m ago
+
+---
+
+**[The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions](https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions)**
+
+The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand
+
+CoinDesk • 18h ago
+
+---
+
+**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+
+Disruption Banking • 22h ago
 
 ---
 
@@ -216,14 +224,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
-
-Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
-
-Forbes • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 191 • 💬 105 • ⏱️ 17:25 • 15h ago
+👁️ 6K • 👍 208 • 💬 108 • ⏱️ 17:25 • 17h ago
 
 ---
 
@@ -244,27 +244,7 @@ Crypto News: Elizabeth Warren pushes back on Clarity Act draft bill. JPMorgan la
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 380 • 💬 113 • ⏱️ 20:45 • 5h ago
-
----
-
-**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 25K • 💬 79 • ⏱️ 19:51 • 12h ago
-
----
-
-**[Why Ethereum is Stuck Under $2.4K](https://www.youtube.com/watch?v=8TUiX3l06XM)**
-
-Ethereum keeps failing at the $2400 resistance level, and the data shows why: weak ETF inflows, falling leverage, and rising ETH ...
-
-📺 Coin Bureau Podcast
-
-👁️ 1K • 👍 34 • 💬 1 • ⏱️ 1:11 • 17h ago
+👁️ 6K • 👍 514 • 💬 359 • ⏱️ 20:45 • 7h ago
 
 ---
 
@@ -274,7 +254,27 @@ Tom Lee breaks down why Ethereum, Bitcoin, tokenization, and AI could drive the 
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 134 • 💬 10 • ⏱️ 9:08 • 1d ago
+👁️ 5K • 👍 140 • 💬 12 • ⏱️ 9:08 • 1d ago
+
+---
+
+**[Dumping BTC for AI?! 🤯 Agentic ETH, Massive Flows  &amp; Levge +  AI Masterplan! 🚀](https://www.youtube.com/watch?v=ZI4eRwNmSqA)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 27K • 💬 85 • ⏱️ 19:51 • 14h ago
+
+---
+
+**[Why Ethereum is Stuck Under $2.4K](https://www.youtube.com/watch?v=8TUiX3l06XM)**
+
+Ethereum keeps failing at the $2400 resistance level, and the data shows why: weak ETF inflows, falling leverage, and rising ETH ...
+
+📺 Coin Bureau Podcast
+
+👁️ 1K • 👍 34 • 💬 1 • ⏱️ 1:11 • 20h ago
 
 ---
 
@@ -284,7 +284,7 @@ Ethereum has been lagging badly behind Bitcoin, and in this video Aaron breaks d
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 296 • 💬 30 • ⏱️ 23:49 • 1d ago
+👁️ 5K • 👍 298 • 💬 30 • ⏱️ 23:49 • 1d ago
 
 ---
 
@@ -294,27 +294,7 @@ Tom Lee explains why he believes Ethereum could still be massively undervalued, 
 
 📺 Cointelegraph
 
-👁️ 1K • 👍 18 • 💬 23 • ⏱️ 0:43 • 12h ago
-
----
-
-**[Bitcoin &amp; Ethereum ein weiteres Hoch kommt, dann Absturz!!!???](https://www.youtube.com/watch?v=bwHzE94FMP0)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + 5% ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 477 • 💬 100 • ⏱️ 13:20 • 5h ago
-
----
-
-**[XRP, BTC, ETH We Need To Address THIS In Crypto Right Now!](https://www.youtube.com/watch?v=hgAOxaIz1VI)**
-
-XRP, BTC, ETH We Need To Address THIS In Crypto Right Now! Major crypto breakdown and different factors impacting the entire ...
-
-📺 Zach Humphries
-
-👁️ 1K • 👍 87 • 💬 352 • ⏱️ 8:55 • 16h ago
+👁️ 2K • 👍 18 • 💬 96 • ⏱️ 0:43 • 14h ago
 
 ---
 
@@ -324,7 +304,27 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 3K • 👍 181 • 💬 49 • ⏱️ 8:44 • 1d ago
+👁️ 3K • 👍 180 • 💬 49 • ⏱️ 8:44 • 2d ago
+
+---
+
+**[XRP, BTC, ETH We Need To Address THIS In Crypto Right Now!](https://www.youtube.com/watch?v=hgAOxaIz1VI)**
+
+XRP, BTC, ETH We Need To Address THIS In Crypto Right Now! Major crypto breakdown and different factors impacting the entire ...
+
+📺 Zach Humphries
+
+👁️ 1K • 👍 91 • 💬 379 • ⏱️ 8:55 • 18h ago
+
+---
+
+**[Bitcoin &amp; Ethereum ein weiteres Hoch kommt, dann Absturz!!!???](https://www.youtube.com/watch?v=bwHzE94FMP0)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + 5% ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 516 • 💬 100 • ⏱️ 13:20 • 7h ago
 
 ---
 

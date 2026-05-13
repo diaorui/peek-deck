@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-13T09:45:46.810542+00:00'
+updated: '2026-05-13T12:05:38.933596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 13, 2026 at 09:45 UTC  
+**Last Updated:** May 13, 2026 at 12:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What it does: Agents gather and curate data and send to a wifi-enabled receipt printer (phenol-free paper) At 1:00am a cron triggers generation of data for all 3 kids (unique data sources per kid where applicable). A sidecar web service renders the data to templates, screenshots it, converts it to 1-bit with dithering and saves it back to the agent’s thread filesystem. Button presses (one per kid) then find a matching report for today's date (and trigger a generation if it's missing for some reason) and send it to the printer. Delay between button press and print is between 2-5 seconds. Morning daily briefs per kid at the press of a button! Fun, and the kids love it! (This demo print is using mock child data — not real information).
 
-14h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ What it does: Agents gather and curate data and send to a wifi-enabled receipt p
 
 I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compute cost was about 100 dollars. There's something seriously wrong there. It's going to crash and crash HARD. EDIT: cause people think i'm lying or are just interested. The spreadsheet had 45 sheets. Each sheet had roughly 500 x 50 populated cells. Formatting was not exactly standard across all sheets. The prompt was something like "there is labelled column in each sheet, give me a simple list of all the items from all the sheets in that column and ignore duplicates." We can chose which model to use. The model I chose was one of the newer ones, I honestly can't remember which one, possibly GPT 5.3. It took 5 minutes or more to so and the stated cost for the task was 10 dollars, possibly even more. I can't recall the token amount. EDIT 2: I just asked web GPT to estimate the cost of the above on a newer version of GPT and it came back with 17 dollars for GPT 4 and above. Try it yourself.
 
-23h ago
+1d ago
 
 ---
 
@@ -57,7 +57,23 @@ I had a work version of GPT do a very simple spreadsheet summary task for me yes
 
 AI is quickly becoming a major tool in the world of cybersecurity, and a new report from Google suggests things are getting more serious.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 17h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 20h ago
+
+---
+
+**[AgentKanban for VS Code - A task board with AI agent harness integration. Create and plan tasks with real-time collaboration, then hand off to GitHub Copilot](https://www.reddit.com/r/artificial/comments/1tbwq7l/agentkanban_for_vs_code_a_task_board_with_ai/)**
+
+Hi everyone. I wanted to introduce a tool / product that I've been working on for a while. It's a web application and VS Code extension for use with Github CoPilot (I'm planning to develop integration for other agent harnesses soon). The web app and remote boards are at: https://www.agentkanban.io The VS Code extension is at VS Code Marketplace (https://marketplace.visualstudio.com/items?itemName=appsoftwareltd.agent-kanban-vscode) or the Open VSX Registry (https://open-vsx.org/extension/appsoftwareltd/agent-kanban-vscode). The TLDR It's a collaborative Kanban board / task management app which supports hand off to Github CoPilot in VS Code, and captures the ongoing user / agent conversation context on the task for resumption in new chats (with context curation tools). The context collection ignores tool use to prevent bloat in the captured context. AgentKanban also has features for improving agentic coding session quality such as an optional plan / todo / implement workflow and support for Git worktree creation and clean up for working on concurrent tasks. The tool is an evolution of an earlier VS Code kanban extension (https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.vscode-agent-kanban) I built which proved fairly popular but only catered for a local file based workflow. The new version with the remote board improves the reliability of context capture, with lots of developer experience improvements. It's a tool that I use everyday in my own agentic coding workflows, and I can honestly say that it improves the quality of the code produced and reduces friction in organising working on concurrent features. I hope you find it useful and would really appreciate your feedback on how you use it, what you think it does well, or any improvements you think could be added. Many thanks for your time reading this 🙏 https://preview.redd.it/tkujgmm93w0h1.png?width=1597&format=png&auto=webp&s=0a2d2bb41f787b538ca9ded9d00946c731eadbc9
+
+🔗 [agentkanban.io](https://www.agentkanban.io) • 41m ago
+
+---
+
+**[Android Auto gets a massive AI-powered upgrade with YouTube, Dolby Atmos, and immersive 3D Maps | Google’s next-gen in-car software is getting smarter and slicker](https://www.reddit.com/r/artificial/comments/1tbvjm5/android_auto_gets_a_massive_aipowered_upgrade/)**
+
+A new Android Automotive experience is coming, with a premium new look, the ability to watch videos and better integrated Gemini
+
+🔗 [TechRadar](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/android-auto-gets-a-massive-ai-powered-upgrade-with-youtube-dolby-atmos-and-immersive-3d-maps) • 1h ago
 
 ---
 
@@ -65,7 +81,7 @@ AI is quickly becoming a major tool in the world of cybersecurity, and a new rep
 
 Full arXiv Preprint: https://arxiv.org/abs/2603.12288 Paper Simulation Github: https://github.com/tjleestjohn/from-garbage-to-gold Hi r/artificial, It's a dirty little secret to many of us... sometimes, downstream AI/ML models perform surprisingly well when you just hand them raw, error-prone tabular data instead of heavily curated feature sets. Despite this, the vast majority of our field tends to be fiercely loyal to "Garbage In, Garbage Out" (GIGO). While automated ETL pipelines are absolutely essential for structuring data, our workflows are still bottlenecked with endless manual cleaning and aggressive imputation just to curate pristine, error-free tables. My co-authors and I recently released a preprint on arXiv (From Garbage to Gold) arguing that treating GIGO as a universal law can sometimes be a trap... especially in the context of big data (many columns). That the bottleneck due to manual data cleaning can actively lower the predictive ceiling of our models when latent causes drive the system's behavior. To be clear upfront: we are not arguing against ETL. Parsing JSON, handling schema evolution, and standardizing types is non-negotiable. What we are arguing against is the universal assumption that "clean" data (via manual data scrubbing and aggressive imputation) is non-negotiable for big data predictive AI/ML modeling. Here is why the traditional mindset can be limiting: 1. We conflate two different types of "noise" (Predictor Error and Structural Uncertainty). Usually, we just lump all noise into one big bucket. But if you split that noise into two specific categories, the math changes completely: Predictor Error: Random typos, dropped logs, or transient glitches. Structural Uncertainty: The inherent, unresolvable gap between recorded metrics and the complex, hidden reality they represent. We spend months manually scrubbing data because the threat of data errors is obvious, while Structural Uncertainty is often an afterthought at best. However, when latent causes drive a system, manual scrubbing fixes noise due to errors, but it fundamentally cannot fix the noise due to Structural Uncertainty. On the other hand, the paper shows that in this context, if you use a comprehensive, high-dimensional data architecture, a flexible model can actually triangulate the hidden drivers reliably despite the presence of data errors. When keeping a massive amount of messy, highly correlated variables (even if error-prone), the sheer volume of redundant signals allows the model to drown out individual errors (bypassing the cleaning bottleneck) and simultaneously overcome Structural Uncertainty. This redefines "data quality." It's not only about how accurately the variables are measured. It's also about how the portfolio of variables comprehensively and redundantly covers the latent drivers of the system. 2. Manual cleaning is a bottleneck on dimensionality (The Practical Problem). To overcome Structural Uncertainty, modern AI/ML models want to find the underlying latent drivers of a system (think Representation Learning but with tabular data). To do this, however, they need a high-dimensional set of variables that contains Informative Collinearity in order to mathematically triangulate the hidden drivers. The moment you introduce manual cleaning, you create a human bottleneck. Because we cannot manually clean 10,000 variables, we are forced to drop 9,900 of them. By artificially restricting the predictor space to make it "clean enough to model," we can harm the data architecture's inherent potential to triangulate those latent drivers. We sacrifice the model's actual predictive ceiling just to satisfy the GIGO heuristic. Ultimately, this suggests we should focus mostly on extracting, loading, and increasing observational fidelity with automated tools, but that, in contexts characterized by latent drivers, we should stop letting manual cleaning bottlenecks restrict the scale of our AI/ML models. Thoughts?: Have you run into situations where your data science teams actually got better predictive results by bypassing the manually cleaned tables and pulling massive dimensionality straight from the raw ELT layers? I'd love to hear your experiences or thoughts. Happy to discuss all serious comments or questions. Full disclosure: the preprint is a 120-page beast. It’s long because it doesn't just pitch the core theory with a qualitative argument. It gives the full mathematical treatment to everything which takes space. We also dig into edge cases, what happens when assumptions like Local Independence are violated (e.g., systematic errors exist), broader implications (like a link to Benign Overfitting and efficient feature selection strategies that make this high-d strategy practical with finite compute), a deep-dive simulation, failure modes, and a huge agenda for future research (because we do not claim the paper is the final word on the matter). It's a major commitment upfront but may save you time and money in the long term, while also enhancing the predictive ceiling of your tabular AI/ML models.
 
-2h ago
+5h ago
 
 ---
 
@@ -73,7 +89,7 @@ Full arXiv Preprint: https://arxiv.org/abs/2603.12288 Paper Simulation Github: h
 
 Abstract: The concept of epistemic epistemic hygiene is a methodology that helps humans maintain mental coherence and can help LLMs retain cognitive coherence also. However, the field rarely frames epistemic hygiene explicitly in the context of AI safety and alignment. Much of the AI industry has focused on scaling — bigger models, more compute, more training data, etc. Epistemic hygiene can help reduce hallucinations and drift in AI the same way it helps humans stay coherent and mentally clear. Think about how careful human thinkers operate. A good thinker doesn’t just blurt out the first idea that comes to mind. They pause, check their assumptions, surface potential weaknesses, consider alternative viewpoints, and only commit to a conclusion after it has survived some internal scrutiny. This disciplined mental habit helps humans avoid self-deception, mental drift, and overconfidence. The same principle applies to LLMs. When an LLM generates a response, it is essentially predicting the next token based on patterns in its training data. Without any structured guardrails, that prediction process can easily wander off course as a conversation grows longer. This often means the model gets increasingly vulnerable to hallucinating (among other safety and alignment issues). Epistemic hygiene changes this by giving the model better cognitive habits either through operator discipline or through prompt level scaffolding which is built-in cognitive “habits” that act like guardrails. They don’t make the model “smarter” through more parameters or data. They help the finite system think more clearly and honestly, even when flooded with near-infinite possible directions. A model that knows how to stay anchored, surfaces its own assumptions, and earns its confidence will be a more reliable thinking partner, an outcome that the entirety of the AI field is consistently pushing towards. It is the belief of this author that epistemic hygiene, combined with well structured prompt level scaffolding, will get us to this goal faster.
 
-🔗 [Medium](https://medium.com/@socal21st.oc/epistemic-hygiene-and-how-it-can-reduce-ai-hallucinations-a025646c255d) • 4h ago
+🔗 [Medium](https://medium.com/@socal21st.oc/epistemic-hygiene-and-how-it-can-reduce-ai-hallucinations-a025646c255d) • 6h ago
 
 ---
 
@@ -81,23 +97,7 @@ Abstract: The concept of epistemic epistemic hygiene is a methodology that helps
 
 Most people don't realize how much personal data ends up in their AI prompts without thinking about it. Customer names, medical details, internal company info. It all goes to the provider's servers. Free to use. Let me know how well this works. aisecuritygateway.ai/ai-leak-checker
 
-10h ago
-
----
-
-**[AI May Reshape Institutions More Than It Replaces Jobs](https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/)**
-
-I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
-
-20h ago
-
----
-
-**[Palantir to be granted ‘unlimited access’ to NHS patient data](https://www.reddit.com/r/artificial/comments/1tacllr/palantir_to_be_granted_unlimited_access_to_nhs/)**
-
-The NHS is granting staff from companies including Palantir ‘unlimited access’ to identifiable patient data while working on its FDP.
-
-🔗 [Digital Health](https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/) • 1d ago
+12h ago
 
 ---
 
@@ -105,15 +105,15 @@ The NHS is granting staff from companies including Palantir ‘unlimited access�
 
 This piece lays out a pretty dark cycle that goes way beyond "fake videos." AI companies are running a feedback loop where their tools destroy public trust in reality, and then they use that collapse to sell AI governance as the "objective" replacement for a broken democracy. Essentially: (OpenAI, Anthropic) make truth impossible to verify. - The exhaustion makes voters give up on human leaders. - The pivot is these same companies signing massive military and government contracts to run the state. The "Singularity" isn't a machine waking up; it’s a tired civilization handing the keys to a black box because we’re too burnt out to govern ourselves. Happy to hear your thoughts : https://aiweekly.co/issues/100-years-from-now-the-last-election Alexis
 
-12h ago
+14h ago
 
 ---
 
-**[I asked both chat gpt and claude to ask me a series of questions to evaluate if i need the](https://www.reddit.com/r/artificial/comments/1tbr449/i_asked_both_chat_gpt_and_claude_to_ask_me_a/)**
+**[AI May Reshape Institutions More Than It Replaces Jobs](https://www.reddit.com/r/artificial/comments/1tb1299/ai_may_reshape_institutions_more_than_it_replaces/)**
 
-paid version of them, or if the free version is fine. Explain why. ChatGPT was free. Money hungry Claude wanted my CC info even though I use Claude a lot less
+I think the next big AI debate won’t be about intelligence. It will be about representation. Right now, most AI conversations focus on models: Which model is smarter, or which agent is faster/better or which AI can automate more work? But enterprises/institutions don’t fail because they lack intelligence alone. They fail because they represent reality poorly. A bank may have thousands of dashboards and still not understand customer risk properly. A government may collect massive amounts of data and still fail to represent what citizens are actually experiencing. A company may have advanced AI copilots while teams still operate on fragmented assumptions, outdated workflows, and conflicting versions of reality. That’s why I increasingly think the future architecture of AI systems may depend on three different layers: SENSE How reality is captured and represented. What signals are collected? Which entities matter? How is the state tracked over time/how are things over time? CORE How systems reason, optimize, and make decisions. This is the part most people currently call “AI.” DRIVER How decisions become legitimate action. Who authorized the action? Who is accountable? Can actions be reversed? What happens when the system is wrong? What recourse is available... A lot of current AI systems are becoming extremely strong at CORE while remaining weak in SENSE and DRIVER. Which creates a strange situation: Very intelligent systems… operating on incomplete representations… with unclear legitimacy boundaries. And maybe that’s why many AI pilots look amazing in demos but become messy inside real institutions. Because the challenge is no longer just intelligence. It’s whether institutions can reliably represent reality, reason over it, and act responsibly at scale. That feels less like a software upgrade. And more like a redesign of institutional architecture itself. Curious what others think about this...whether this is a valid point to think/discuss?
 
-3h ago
+23h ago
 
 ---
 
@@ -121,19 +121,49 @@ paid version of them, or if the free version is fine. Explain why. ChatGPT was f
 
 ## Google News: "ai"
 
-**[A smarter, more proactive Android with Gemini Intelligence](https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/)**
+**[Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch)**
 
-At the Android Show 2026, we introduced Gemini Intelligence, proactive new AI features on Android.
+In a case of ‘oh dear diary’, the OpenAI president Greg Brockman is having to read extracts from his musings about Elon Musk in court. It’s a terrifying reminder that what’s divulged to AI really isn’t private, writes Arwa Mahdawi
 
-blog.google • 16h ago
+The Guardian • 2h ago
 
 ---
 
-**[Google races to put Gemini at the center of Android before Apple’s AI reboot](https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html)**
+**[Most U.S. doctors are quietly using this AI tool. Few patients know about it.](https://www.nbcnews.com/tech/tech-news/openevidence-ai-doctor-medical-physician-login-app-what-npi-uptodate-rcna341064)**
 
-Google is using its latest Android rollout to position Gemini as the AI layer across phones, Chrome, laptops and cars.
+OpenEvidence, an AI-powered medical search tool, has become a fast friend to America’s doctors and is now used by nearly two-thirds of physicians.
 
-CNBC • 14h ago
+NBC News • 2h ago
+
+---
+
+**[AI Hyperscalers Mull Going Deeper Into Next-Gen Nuclear Supply Chain](https://www.bloomberg.com/news/newsletters/2026-05-13/ai-hyperscalers-look-at-going-deeper-into-next-generation-nuclear-power)**
+
+Bloomberg.com • 21m ago
+
+---
+
+**[Exclusive: Martha Stewart’s new AI startup wants to manage your home before things break](https://fortune.com/2026/05/13/exclusive-martha-stewart-ai-startup-hint-seed-funding-slow-ventures/)**
+
+Hint, cofounded by Stewart and backed by Slow Ventures, uses AI to track maintenance, insurance, utility costs, and repairs—turning the home into the next frontier for AI assistants.
+
+Fortune • 12m ago
+
+---
+
+**[AI's Newest Aesthetic Has Some People Upset](https://www.businessinsider.com/ai-trend-laptop-open-crack-agent-power-user-2026-5)**
+
+We wrote about AI coders carrying around half-open laptops to keep their AI agents working, and a lot of you crashed out over it.
+
+Business Insider • 5m ago
+
+---
+
+**[Alibaba's core profit plunges 84% even as AI and cloud growth accelerate](https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html)**
+
+Alibaba on Wednesday said its core profitability plunged in the March quarter amid heavy investments in tech and e-commerce.
+
+CNBC • 2h ago
 
 ---
 
@@ -141,55 +171,29 @@ CNBC • 14h ago
 
 Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
 
-Google DeepMind • 16h ago
+Google DeepMind • 19h ago
 
 ---
 
-**[China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected](https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html)**
+**[Axios interview: Reimagining government + business + AI](https://www.axios.com/2026/05/13/axios-interview-reimagining-government-business-ai)**
 
-The tech giant reported its first-quarter 2026 earnings on Wednesday.
-
-CNBC • 44m ago
+Axios • 2h ago
 
 ---
 
-**[Tencent Revenue Miss Heightens Pressure for AI Payoff](https://www.bloomberg.com/news/articles/2026-05-13/tencent-revenue-miss-heightens-pressure-for-ai-payoff)**
+**[AI robot changes your tires and balances them too](https://www.foxnews.com/tech/ai-robot-changes-tires-balances)**
 
-Bloomberg.com • 1h ago
+Boston-based Automated Tire, Inc. unveils SmartBay, an AI-powered robotic platform that handles tire changes and wheel balancing with minimal human help.
 
----
-
-**[Tencent Maintains Double-Digit Profit Growth Amid Intensified AI Investment](https://www.wsj.com/business/earnings/tencent-maintains-double-digit-profit-growth-amid-intensified-ai-investment-7847e010)**
-
-WSJ • 29m ago
+Fox News • 19h ago
 
 ---
 
-**[Why Americans dread AI](https://www.ft.com/content/637f5664-44eb-4527-8369-9eec320cfdf0?syn-25a6b1a6=1)**
+**[How AI Killed a 133-Year-Old Princeton Tradition](https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/)**
 
-Silicon Valley encourages the view that the technology is unstoppable — and Trump seems to agree
+The school’s famous Honor Code was no match for chatbot-enabled cheating.
 
-Financial Times • 22h ago
-
----
-
-**[AI executive action stalled by White House infighting](https://www.axios.com/2026/05/13/ai-executive-action-white-house-infighting)**
-
-Axios • 12m ago
-
----
-
-**[Opinion | The Shared Feeling of Being Harvested by the Future](https://www.nytimes.com/2026/05/12/opinion/us-china-ai-future.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Seeking free money advice from AI? Don’t be so quick to upload any financial statements](https://www.cnn.com/2026/05/13/business/ai-financial-statements-money-advice)**
-
-If you’re financially pressed, confused about money, or just want a little free help figuring out how to improve your cash flow, you may be tempted to use AI.
-
-CNN • 14m ago
+The Atlantic • 19h ago
 
 ---
 
@@ -201,7 +205,7 @@ CNN • 14m ago
 
 Local AI models should be the default.
 
-⬆️ 1848 • 💬 736 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+⬆️ 1852 • 💬 738 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 
 ---
 
@@ -209,13 +213,13 @@ Local AI models should be the default.
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 879 • 💬 933 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 885 • 💬 934 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 368 • 💬 109 • 2d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 369 • 💬 109 • 2d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -233,13 +237,13 @@ I try to pay attention to the small things that affect my quality of life. When 
 
 What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
 
-⬆️ 264 • 💬 277 • 1d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 265 • 💬 278 • 1d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
 
 ---
 
 **[Google says criminal hackers used AI to find a major software flaw](https://news.ycombinator.com/item?id=48094641)**
 
-⬆️ 241 • 💬 173 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
+⬆️ 241 • 💬 174 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
 
 ---
 
@@ -247,7 +251,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
 Workers are using an internal AI tool to automate non-essential tasks.
 
-⬆️ 222 • 💬 226 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+⬆️ 227 • 💬 232 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -255,7 +259,7 @@ Workers are using an internal AI tool to automate non-essential tasks.
 
 Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
 
-⬆️ 200 • 💬 167 • 16h ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
+⬆️ 220 • 💬 186 • 18h ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
 
 ---
 
@@ -271,7 +275,7 @@ The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" in
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 173 • 💬 209 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 173 • 💬 210 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 
 ---
 
@@ -279,43 +283,13 @@ A commencement speaker at the University of Central Florida was booed, with grad
 
 ## YouTube Videos: "ai"
 
-**[The First AI Cyberattack Has Happened...](https://www.youtube.com/watch?v=6TtKdKQlrqg)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be a pretty huge day for the Internet.
-
-📺 SomeOrdinaryGamers
-
-👁️ 171K • 👍 8K • 💬 862 • ⏱️ 17:29 • 11h ago
-
----
-
 **[AI Will Hit a Wall in 2026, if nothing changes.](https://www.youtube.com/watch?v=XA84pSrPHS0)**
 
 Free GenSpark credits if you register here → http://www.genspark.ai/?utm_source=yt&utm_campaign=SabineHossenfelder ...
 
 📺 Sabine Hossenfelder
 
-👁️ 135K • 👍 7K • 💬 1K • ⏱️ 6:42 • 18h ago
-
----
-
-**[Google Chrome Installs AI on Your PC WITHOUT Your Permission.](https://www.youtube.com/watch?v=gYY10vsbnlE)**
-
-Google Chrome apparently installs a 4GB AI agent on your computer without explicit user permission to... something something...
-
-📺 Clownfish TV
-
-👁️ 37K • 👍 3K • 💬 745 • ⏱️ 17:46 • 1d ago
-
----
-
-**[4 Ways to Make Money With Claude AI That Nobody Is Talking About](https://www.youtube.com/watch?v=wz9CmUZ4jRg)**
-
-Go to https://surfshark.com/joshuamayo or use code JOSHUAMAYO at checkout to get 4 extra months of Surfshark VPN!
-
-📺 Joshua Mayo
-
-👁️ 7K • 👍 324 • 💬 20 • ⏱️ 25:52 • 17h ago
+👁️ 141K • 👍 8K • 💬 1K • ⏱️ 6:42 • 21h ago
 
 ---
 
@@ -325,47 +299,17 @@ Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x
 
 📺 Asmongold TV  
 
-👁️ 296K • 👍 14K • 💬 5K • ⏱️ 25:34 • 18h ago
+👁️ 307K • 👍 14K • 💬 5K • ⏱️ 25:34 • 21h ago
 
 ---
 
-**[Claude Mythos Just Crossed A Dangerous Line... AGAIN!](https://www.youtube.com/watch?v=i-ioLtvb19o)**
+**[Students question value of college as costs rise and AI reshapes jobs](https://www.youtube.com/watch?v=n6CnTEVt0zE)**
 
-Claude Mythos may have just crossed one of the strangest lines in AI. A new METR evaluation reportedly puts Mythos around the ...
+This season's college commencement celebrations come at a sobering moment. Students are facing steep loans and dicey job ...
 
-📺 AI Revolution
+📺 PBS NewsHour
 
-👁️ 43K • 👍 1K • 💬 149 • ⏱️ 15:57 • 1d ago
-
----
-
-**[What happened to Anthropic?](https://www.youtube.com/watch?v=q4rDAu9ggKU)**
-
-Get started with Greptile today https://greptile.com/go/berman 14 Day Free Trial! Download The 25 OpenClaw Use Cases eBook ...
-
-📺 Matthew Berman
-
-👁️ 53K • 👍 1K • 💬 331 • ⏱️ 16:24 • 14h ago
-
----
-
-**[Trump-Xi summit expected to focus heavily on trade, AI](https://www.youtube.com/watch?v=x7UMmfydB7o)**
-
-President Trump departed the White House for Beijing on Tuesday to attend a summit with Chinese President Xi Jinping.
-
-📺 CBS News
-
-👁️ 12K • 👍 75 • 💬 41 • ⏱️ 5:52 • 12h ago
-
----
-
-**[The AI Chat Era Is Over. This Killed It.](https://www.youtube.com/watch?v=FJT5Rh0eKe8)**
-
-Try Genspark with free credits available upon signup:* https://bit.ly/4njiP0c Unlimited AI chat and AI image for all paid users in ...
-
-📺 Julia McCoy
-
-👁️ 27K • 👍 1K • 💬 85 • ⏱️ 12:28 • 2d ago
+👁️ 31K • 👍 607 • ⏱️ 9:50 • 12h ago
 
 ---
 
@@ -375,7 +319,67 @@ Should we think of AI as a co-intelligence and digital coworker rather than just
 
 📺 MS NOW
 
-👁️ 6K • 👍 174 • 💬 95 • ⏱️ 58:06 • 20h ago
+👁️ 6K • 👍 178 • 💬 95 • ⏱️ 58:06 • 23h ago
+
+---
+
+**[4 Ways to Make Money With Claude AI That Nobody Is Talking About](https://www.youtube.com/watch?v=wz9CmUZ4jRg)**
+
+Go to https://surfshark.com/joshuamayo or use code JOSHUAMAYO at checkout to get 4 extra months of Surfshark VPN!
+
+📺 Joshua Mayo
+
+👁️ 7K • 👍 359 • 💬 30 • ⏱️ 25:52 • 19h ago
+
+---
+
+**[The AI Chat Era Is Over. This Killed It.](https://www.youtube.com/watch?v=FJT5Rh0eKe8)**
+
+Try Genspark with free credits available upon signup:* https://bit.ly/4njiP0c Unlimited AI chat and AI image for all paid users in ...
+
+📺 Julia McCoy
+
+👁️ 27K • 👍 1K • 💬 86 • ⏱️ 12:28 • 2d ago
+
+---
+
+**[What happened to Anthropic?](https://www.youtube.com/watch?v=q4rDAu9ggKU)**
+
+Get started with Greptile today https://greptile.com/go/berman 14 Day Free Trial! Download The 25 OpenClaw Use Cases eBook ...
+
+📺 Matthew Berman
+
+👁️ 56K • 👍 1K • 💬 336 • ⏱️ 16:24 • 16h ago
+
+---
+
+**[Claude Mythos Just Crossed A Dangerous Line... AGAIN!](https://www.youtube.com/watch?v=i-ioLtvb19o)**
+
+Claude Mythos may have just crossed one of the strangest lines in AI. A new METR evaluation reportedly puts Mythos around the ...
+
+📺 AI Revolution
+
+👁️ 44K • 👍 1K • 💬 149 • ⏱️ 15:57 • 1d ago
+
+---
+
+**[Google Chrome Installs AI on Your PC WITHOUT Your Permission.](https://www.youtube.com/watch?v=gYY10vsbnlE)**
+
+Google Chrome apparently installs a 4GB AI agent on your computer without explicit user permission to... something something...
+
+📺 Clownfish TV
+
+👁️ 38K • 👍 3K • 💬 758 • ⏱️ 17:46 • 1d ago
+
+---
+
+**[NEW Claude AI BIGGEST OPPORTUNITY (INSANE UPDATE)](https://www.youtube.com/watch?v=MFOv2KKx-og)**
+
+This video shows you how Claude AI can assist you! ➡️ Digital Maker AI: https://bit.ly/DigitalMakerAI ➡️ Check out my Digital ...
+
+📺 Success With Sam
+
+👁️ 5K • 👍 206 • 💬 11 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -391,7 +395,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 535,069 • ❤️ 771 • 4d ago
+⬇️ 535,069 • ❤️ 777 • 4d ago
 
 ---
 
@@ -403,7 +407,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 110,182 • ❤️ 458 • 1d ago
+⬇️ 110,182 • ❤️ 459 • 1d ago
 
 ---
 
@@ -415,7 +419,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 3,494 • ❤️ 434 • 1d ago
+⬇️ 3,494 • ❤️ 437 • 32m ago
 
 ---
 
@@ -427,7 +431,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 7,747 • ❤️ 284 • 9h ago
+⬇️ 7,747 • ❤️ 285 • 11h ago
 
 ---
 
@@ -439,7 +443,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,420,384 • ❤️ 3,910 • 7d ago
+⬇️ 2,420,384 • ❤️ 3,914 • 7d ago
 
 ---
 
@@ -451,7 +455,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 11,486 • ❤️ 325 • 16d ago
+⬇️ 11,486 • ❤️ 331 • 16d ago
 
 ---
 
@@ -463,7 +467,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 4,954 • ❤️ 143 • 6d ago
+⬇️ 4,954 • ❤️ 145 • 6d ago
 
 ---
 
@@ -475,7 +479,7 @@ Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and i
 
 `any-to-any` `469.5M`
 
-⬇️ 93,228 • ❤️ 223 • 2d ago
+⬇️ 93,228 • ❤️ 226 • 2d ago
 
 ---
 
@@ -487,19 +491,19 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 84,903 • ❤️ 239 • 2d ago
+⬇️ 84,903 • ❤️ 240 • 2d ago
 
 ---
 
-**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+**[Qwopus3.6-35B-A3B-v1-GGUF](https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF)**
 
-*Qwen*
+*Jackrong*
 
-Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+Qwopus3.6-35B-A3B-v1 is a multimodal, reasoning-enhanced Mixture-of-Experts (MoE) model with a 262k context window, optimized for efficient agentic coding, deep reasoning, and tool use. It achieves high inference speeds (161.9 tok/s on RTX 5090) and excels at structured reasoning and one-shot generation tasks.
 
-`image-text-to-text` `27.8B`
+`image-text-to-text` `34.7B`
 
-⬇️ 2,772,193 • ❤️ 1,262 • 19d ago
+⬇️ 96,759 • ❤️ 117 • 6d ago
 
 ---
 
@@ -513,7 +517,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 64 • 💬 3 • ⭐ 74,474 • 16mo ago
+▲ 65 • 💬 3 • ⭐ 74,474 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -539,7 +543,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 19 • 💬 3 • ⭐ 263 • 2d ago
+▲ 20 • 💬 3 • ⭐ 403 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -567,9 +571,21 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 79 • 💬 7 • ⭐ 4,483 • 3mo ago
+▲ 79 • 💬 7 • ⭐ 4,512 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 33 • 💬 3 • ⭐ 24,200 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -584,18 +600,6 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 ▲ 109 • 💬 10 • ⭐ 9,002 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 33 • 💬 3 • ⭐ 24,053 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -658,7 +662,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 844 • 15h ago
+⭐ 2.9k • 🔱 844 • 17h ago
 
 ---
 
@@ -668,7 +672,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.7k • 🔱 270 • 8h ago
+⭐ 2.7k • 🔱 271 • 11h ago
 
 ---
 
@@ -678,7 +682,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.5k • 🔱 232 • 20h ago
+⭐ 2.5k • 🔱 232 • 23h ago
 
 ---
 
@@ -688,7 +692,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.5k • 🔱 290 • 3h ago
+⭐ 2.5k • 🔱 291 • 5h ago
 
 ---
 
@@ -708,7 +712,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.1k • 🔱 136 • 5h ago
+⭐ 2.1k • 🔱 137 • 7h ago
 
 ---
 
@@ -718,7 +722,7 @@ Chrome extension to extract styles from any website and generate DESIGN.md files
 
 `JavaScript` `ai` `chrome` `chrome-extension` `claude` `claude-design`
 
-⭐ 1.9k • 🔱 242 • 18d ago
+⭐ 1.9k • 🔱 242 • 19d ago
 
 ---
 
@@ -728,7 +732,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 1.9k • 🔱 293 • 5d ago
+⭐ 1.9k • 🔱 295 • 5d ago
 
 ---
 
@@ -738,7 +742,7 @@ AI-powered interactive 3D cell generation and exploration studio.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 302 • 6h ago
+⭐ 1.8k • 🔱 302 • 1h ago
 
 ---
 
