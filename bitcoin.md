@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-13T15:24:22.485886+00:00'
+updated: '2026-05-13T17:34:57.375177+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 13, 2026 at 15:24 UTC  
+**Last Updated:** May 13, 2026 at 17:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,353.14
+### $79,124.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
+**24h:** -1.6%  
 **7d:** -0.8%  
-**30d:** +7.1%  
-**90d:** +15.3%  
+**30d:** +7.0%  
+**90d:** +15.2%  
 **1y:** -23.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1589.32B
+**Market Cap:** $1588.26B
 Rank #1
 
-**Circulating Supply:** 20,028,796 BTC
+**Circulating Supply:** 20,028,850 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -37.1%
 
 **All-Time Low:** $67.81
-+116907.8%
++116838.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 ...they just don't know what it is and what the fix is. If you're buying bitcoin because you know how the money is broken, you are going to make it. Just stop for a moment and look around you. The vast majority of people you see, still don't get it and will have to pay for that mistake.
 
-2h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 For those of us who remember running nodes back when the block subsidy was 50 BTC, watching this animation hits differently. We’ve watched this network grow from a cypherpunk curiosity on an obscure cryptography mailing list into the immutable anchor of a new global financial system. Satoshi’s algorithmic monetary policy is doing exactly what it was programmed to do. No bailouts. No printing presses. Just pure, unyielding math. Look closely at the chart. That massive blue area? That is the era of distribution. We lived through it. That microscopic sliver remaining in the circle? That is the battleground for the next century. Our children and grandchildren will live in an era where nation-states and institutions fight over fractions of what ordinary people could mine on a laptop in 2010. The era of easy accumulation is definitely over. We are now entering the era of absolute supply shock. We want to hear from both the veterans and the newcomers in here: During which epoch/halving era did you finally fall down the rabbit hole? As we look toward that final 1 million BTC stretched over 114 years, how do you see the network adapting as the security budget transitions entirely to transaction fees? Tip of the hat to the creator, Wicked (@w_s_bitcoin / wickedsmartbitcoin.com), for putting together one of the most powerful visual representations of Bitcoin's issuance we've ever seen. Credit where it's due.
 
-4h ago
+6h ago
 
 ---
 
@@ -97,45 +97,7 @@ For those of us who remember running nodes back when the block subsidy was 50 BT
 
 Would you sell tech stocks currently at high valuation to buy BTC ? The BTC doesn’t track perfectly the Nasdaq for months so maybe it could be a good hedge in case of market correction Of course you will probably say yes, we are in the BTC sub, but I’m looking for thoughts
 
-6h ago
-
----
-
-**[Square Crosses 1 Million Bitcoin-Enabled Merchants As Real-World Adoption Continues To Grow](https://www.reddit.com/r/Bitcoin/comments/1tbbj35/square_crosses_1_million_bitcoinenabled_merchants/)**
-
-Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchants now enabled to accept Bitcoin payments. The figure, cited by a member of Block’s team, reflects a wave of auto-enrollment that began March 30, when Square automatically switched on BTC payments by default for eligible U.S. sellers. At its peak pace, a new business was activating the feature every eight seconds. The rollout is powered by the Lightning Network, enabling near-instant settlement while merchants receive U.S. dollars by default, removing currency risk from the equation. In other words, customers can pay in Bitcoin via Lightning while merchants still receive USD settlements, with the system handling conversion in the background and allowing sellers to opt out if needed. At the Bitcoin Conference in Las Vegas, Block outlined an expanded push to make bitcoin usable as everyday money rather than simply a long-term investment. Speaking on the Nakamoto Stage, Bitcoin Product Lead Miles Suter said BTC “must circulate, not just sit still,” arguing that the cryptocurrency loses its transformational value if it does not function as peer-to-peer cash. Suter highlighted Block’s growing adoption metrics, revealing at the time that there were more than 800,000 Square merchants who now have BTC payments auto-enrollment enabled. This number seems to be above According to Suter, a new business activates the feature every eight seconds. The company is also rolling out a tap-to-pay BTC feature using NFC hardware and the Lightning Network, eliminating QR codes and offering zero processing fees through 2026. The company’s broader strategy centers on integrating bitcoin across its ecosystem. Cash App users can now automatically convert peer-to-peer payments into BTC, earn 5% Bitcoin Back rewards at Square merchants, and withdraw up to $10,000 per day and $25,000 per week. Block also introduced an updated Bitkey hardware wallet featuring a touchscreen and 2-of-3 multisig security model designed to simplify self-custody. Alongside the product announcements, Block released its Q1 2026 proof-of-reserves report showing holdings of 28,355.05 BTC worth roughly $2.2 billion.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants) • 20h ago
-
----
-
-**[No man should work ...](https://www.reddit.com/r/Bitcoin/comments/1tb8wnl/no_man_should_work/)**
-
-Is Jack right, or is he right, or... is he right?
-
-21h ago
-
----
-
-**[Bitcoin on-chain zaps have been integrated into Ditto. This is a significant unlock!](https://www.reddit.com/r/Bitcoin/comments/1tbjumz/bitcoin_onchain_zaps_have_been_integrated_into/)**
-
-🔗 [nostr.at](https://nostr.at/nevent1qvzqqqqqqypzqprpljlvcnpnw3pejvkkhrc3y6wvmd7vjuad0fg2ud3dky66gaxaqqs28rz2x287utn6ngys20puzlxhnvz7rnfglqulp89xjg76jgpew6q3x2ck5) • 14h ago
-
----
-
-**[Daily Discussion, May 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1tbr0ei/daily_discussion_may_13_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
-
----
-
-**[Should I get a second phone to use the crypto apps of cold wallets?](https://www.reddit.com/r/Bitcoin/comments/1tbwlv9/should_i_get_a_second_phone_to_use_the_crypto/)**
-
-My main phone could be compromised but I'm not sure how much of a danger it poses to the crypto in the cold wallet. Do you guys use secondary phones for critical apps?
-
-4h ago
+8h ago
 
 ---
 
@@ -143,15 +105,53 @@ My main phone could be compromised but I'm not sure how much of a danger it pose
 
 Hi Bitcoiners. I was the guy who wrote the long post almost a month ago about the upcoming tax changes when everyone still thought they were only applicable to realestate. I just wanted to run you all through what the official changes are and how they will effect us. I've also found something hidden away in the budget papers that early Bitcoiners are going to like a lot... So... Here we are... The Budget's been handed down and it's not great but it's also not as bad as some had thought. Grandfathering: Current Bitcoiners will have their 50% capital gains tax disscount PARTIALLY grandfathered. There will be a "Snapshot" taken on July 1 2027 and let's hope there's some big moves to the upside between now and then because that snapshot is going to be VERY important for us. We'll be able to use that price at ANY POINT IN THE FUTURE and only be taxed on HALF of it with the benefit of our 50% discount. Now here's the thing no body's talking about and OG Bitcoiners with low cost basis will LOVE THIS! We'll be allowed to RESET our cost base to that July 1st 2027 snap shot price. Not only will our 50% CGT discount be grandfathered up to that point but we'll be able to take our cost base (which in my case is almost ZERO) and make it MUCH higher. With this higher cost base, We'll pay much less tax than originally thought on gains made after July 1 2027 because of three reasons. Our cost base is higher and gains are only calculated on money made ABOVE that amount We'll be able to index the NEW cost base with CPI further reducing tax on our post 2027 gains. If the price of bitcoin goes DOWN after July 1 2027, We'll be able to book that as a tax loss, We'll even be able to deduct that LOSS off of the grandfathered pre July 1 2027 GAIN! Please keep in mind that any of the gains made under the new system will have a MINIMUM CGT bill of 30% but the gains from the grandfathered portion won't... Look guys, Nothing in the new tax system makes things better for us than we had it before but we're largely protected and OG bitcoiners with zero(ish) cost basis like myself will probably be pretty happy with the cost base reset. There are a number of ways to make it work for you! As for the "younger generation" who this budget was designed to uplift? Well... You haven't yet had a chance to delve into Bitcoin (or any asset for that matter) and you guys are screwed... ----- Source: The 50 per cent CGT discount will apply to the difference between the asset’s cost base and its value at 1 July 2027. Indexation and the minimum tax will be used to calculate the CGT on gains accruing from 1 July 2027 (using the asset’s value at 1 July 2027 as the asset’s cost base).” -Budget Papers
 
-1h ago
+3h ago
 
 ---
 
-**[Frustrated Mt Gox](https://www.reddit.com/r/Bitcoin/comments/1tb0lyv/frustrated_mt_gox/)**
+**[Square Crosses 1 Million Bitcoin-Enabled Merchants As Real-World Adoption Continues To Grow](https://www.reddit.com/r/Bitcoin/comments/1tbbj35/square_crosses_1_million_bitcoinenabled_merchants/)**
 
-My son deposited 42 BTC at MtGox in 2012 and subsequently became disabled. We are now caring for him and started to communicate with Gox last year. They told us we missed the filing deadline, but not to worry… “there’s only dust left in the account”. No accounting, no detailed explanation as a bank would do. Now we finally get his old email back and come to find some Gox confirmations with block chain address references, but not all the deposits have email confirmations. The address was swept clean after each deposit. There’s only 2 email withdrawal confirms, and those are prior to actual deposits into the blockchain address. I am convinced Gox’s ledger balance is wrong. My son who is now disabled did not have access to his email account and never was aware of the restructuring. Even if he would have received legal notices, he did not have the mental capacity to understand it. I’ve tried to convey all these things to Mt Gox, but their response is basically “sorry, we can’t do anything after the deadline, go see a lawyer” Are there Mt Gox experienced lawyers that work on a contingent basis. We don’t have the means to hire an hourly Japanese lawyer.
+Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchants now enabled to accept Bitcoin payments. The figure, cited by a member of Block’s team, reflects a wave of auto-enrollment that began March 30, when Square automatically switched on BTC payments by default for eligible U.S. sellers. At its peak pace, a new business was activating the feature every eight seconds. The rollout is powered by the Lightning Network, enabling near-instant settlement while merchants receive U.S. dollars by default, removing currency risk from the equation. In other words, customers can pay in Bitcoin via Lightning while merchants still receive USD settlements, with the system handling conversion in the background and allowing sellers to opt out if needed. At the Bitcoin Conference in Las Vegas, Block outlined an expanded push to make bitcoin usable as everyday money rather than simply a long-term investment. Speaking on the Nakamoto Stage, Bitcoin Product Lead Miles Suter said BTC “must circulate, not just sit still,” arguing that the cryptocurrency loses its transformational value if it does not function as peer-to-peer cash. Suter highlighted Block’s growing adoption metrics, revealing at the time that there were more than 800,000 Square merchants who now have BTC payments auto-enrollment enabled. This number seems to be above According to Suter, a new business activates the feature every eight seconds. The company is also rolling out a tap-to-pay BTC feature using NFC hardware and the Lightning Network, eliminating QR codes and offering zero processing fees through 2026. The company’s broader strategy centers on integrating bitcoin across its ecosystem. Cash App users can now automatically convert peer-to-peer payments into BTC, earn 5% Bitcoin Back rewards at Square merchants, and withdraw up to $10,000 per day and $25,000 per week. Block also introduced an updated Bitkey hardware wallet featuring a touchscreen and 2-of-3 multisig security model designed to simplify self-custody. Alongside the product announcements, Block released its Q1 2026 proof-of-reserves report showing holdings of 28,355.05 BTC worth roughly $2.2 billion.
 
-1d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants) • 22h ago
+
+---
+
+**[No man should work ...](https://www.reddit.com/r/Bitcoin/comments/1tb8wnl/no_man_should_work/)**
+
+Is Jack right, or is he right, or... is he right?
+
+23h ago
+
+---
+
+**[Daily Discussion, May 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1tbr0ei/daily_discussion_may_13_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+11h ago
+
+---
+
+**[Bitcoin Optech Newsletter #404 Recap Podcast](https://www.reddit.com/r/Bitcoin/comments/1tc613u/bitcoin_optech_newsletter_404_recap_podcast/)**
+
+Daniela Brozzoni, Naiyoma, and Thomas Voegtlin joined Optech to discuss Newsletter #404: - Possible solutions to the node fingerprinting problem using addr message timestamps - A proposal for public fraud proofs to improve incentives around just-in-time channels - And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/05/12/ Spotify: https://open.spotify.com/episode/2N0c9EIFB032zrdojGpaTr Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-404-recap/id1674626983?i=1000767590181
+
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/05/12/) • 24m ago
+
+---
+
+**[Bitcoin on-chain zaps have been integrated into Ditto. This is a significant unlock!](https://www.reddit.com/r/Bitcoin/comments/1tbjumz/bitcoin_onchain_zaps_have_been_integrated_into/)**
+
+🔗 [nostr.at](https://nostr.at/nevent1qvzqqqqqqypzqprpljlvcnpnw3pejvkkhrc3y6wvmd7vjuad0fg2ud3dky66gaxaqqs28rz2x287utn6ngys20puzlxhnvz7rnfglqulp89xjg76jgpew6q3x2ck5) • 17h ago
+
+---
+
+**[The Sat Market - Goods/Services for Bitcoin + Cash Tickets, Friday, June 26 • 4 PM - 9 PM](https://www.reddit.com/r/Bitcoin/comments/1tc4im1/the_sat_market_goodsservices_for_bitcoin_cash/)**
+
+A free peer to peer local market for people to buy/sell goods and services with bitcoin and cash!
+
+🔗 [Eventbrite](https://www.eventbrite.ca/e/the-sat-market-goodsservices-for-bitcoin-cash-tickets-1985325379654) • 1h ago
 
 ---
 
@@ -163,39 +163,53 @@ My son deposited 42 BTC at MtGox in 2012 and subsequently became disabled. We ar
 
 U.S. PPI surged well above forecasts in April, reviving concerns that rising oil prices and Iran-related supply risks may feed another inflation wave.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bhutan government moves another 100 BTC as 2026 bitcoin outflows top $230 million: Arkham](https://www.theblock.co/post/400888/bhutan-government-moves-100-btc-arkham)**
+**[Metaplanet posts $725 million Q1 net loss as bitcoin markdowns outweigh operating gains](https://www.theblock.co/post/401138/metaplanet-q1-net-loss-bitcoin-markdowns-outweigh-operating-gains)**
 
-Bhutan appears to have sold around $50 million in BTC per month this year, Arkham said, but still has $252 million in bitcoin remaining.
+Metaplanet posted a $725.6 million net loss driven by bitcoin mark-to-market valuation markdowns even as operating profit rose 283%.
 
-The Block • 1d ago
+The Block • 5h ago
 
 ---
 
-**[Quantum Computing Threat 'Mostly a Coordination Issue' for Bitcoin: Fireblocks CEO](https://finance.yahoo.com/news/quantum-computing-threat-mostly-coordination-142321539.html)**
+**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://finance.yahoo.com/news/charles-schwab-begins-offering-bitcoin-163105799.html)**
 
-Michael Shaulov argued that changing to a post-quantum cryptographic signature scheme is “not a technical challenge” for Bitcoin.
+Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Bulls Pin Hopes on MicroStrategy’s STRC and Senate Clarity Act Vote](https://finance.yahoo.com/news/bitcoin-bulls-pin-hopes-microstrategy-143216523.html)**
+**[$11.77 Trillion Brokerage Giant Charles Schwab Launches Spot Bitcoin Trading Platform](https://bitcoinmagazine.com/news/charles-schwab-launches-spot-bitcoin)**
 
-MicroStrategy STRC dividend and Senate Clarity Act vote could revive Bitcoin amid a 74-day negative funding streak.
+Charles Schwab is bringing Bitcoin trading to Main Street: the $11.77 trillion brokerage giant has launched spot BTC trading for U.S. retail clients, deepening Wall Street’s accelerating embrace of digital assets.
 
-Yahoo Finance • 52m ago
+Bitcoin Magazine • 4h ago
 
 ---
 
-**[XRP Overtakes Bitcoin, Ethereum In Korea: What Is Going On?](https://finance.yahoo.com/news/xrp-overtakes-bitcoin-ethereum-korea-143004710.html)**
+**[Charles Schwab begins U.S. rollout of spot crypto trading for retail customers](https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail)**
 
-XRP (CRYPTO: XRP) topped Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) in South Korean trading volumes over the past day, posting $110.9 million on Upbit and $41 million on Bithumb. Korean Volume Signal Returns XRP/KRW was the most traded pair on Upbit over the past 24 hours, ahead of Bitcoin’s $88.6 million and Ethereum’s $67 million, according to CoinGecko data. On Bithumb, XRP/KRW recorded $41 million in volume, ranking second behind USDT/KRW and above both BTC/KRW and ETH/KRW. Korea has l
+An initial group of clients can now trade BTC and ETH on the Schwab Crypto platform.
 
-Yahoo Finance • 54m ago
+CoinDesk • 7h ago
+
+---
+
+**[How Michael Saylor's STRC Causes Mid-Month Bitcoin Rallies](https://finance.yahoo.com/news/michael-saylors-strc-causes-mid-163847219.html)**
+
+Strategy Inc. (NASDAQ:MSTR) jumped from 4,467 Bitcoin (CRYPTO: BTC) purchases in January to 46,872 BTC in April using STRC preferred stock, creating a mid-month buying pattern that K33 Research says fuels recurring Bitcoin rallies. STRC Ex-Dividend Date Drives Mid-Month Rallies Bitcoin posted strong returns during the middle week of March and April. K33 Head of Research Vetle Lunde said the pattern could continue this week. STRC pays dividends on the last day of each month, while share ownership
+
+Yahoo Finance • 56m ago
+
+---
+
+**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+
+Disruption Banking • 1d ago
 
 ---
 
@@ -203,37 +217,19 @@ Yahoo Finance • 54m ago
 
 XRP/KRW was the most traded pair on Upbit and second on Bithumb, a familiar Korean market signal that has often preceded sharper moves in the token.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Ripple (XRP) News: Why Korea Is Trading XRP More Than Bitcoin Right Now](https://finance.yahoo.com/news/ripple-xrp-news-why-korea-133512897.html)**
+**[Bitcoin, Ethereum and XRP Price Analysis: What’s Coming Next?](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-analysis-whats-coming-next/)**
 
-Ripple (CRYPTO: XRP) just outpaced Bitcoin in trading volume on Korea’s biggest crypto exchange, and it’s not even close. Korean retail keeps pushing XRP into the top spot whenever the market heats up, and this week, they’ve gone harder than usual. However, XRP’s price has barely moved—it’s still stuck around $1.45, under the $1.50 resistance. ... Ripple (XRP) News: Why Korea Is Trading XRP More Than Bitcoin Right Now
-
-Yahoo Finance • 1h ago
+Coinpedia • 2h ago
 
 ---
 
 **[The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first](https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7)**
 
 MarketWatch • 1d ago
-
----
-
-**[This Vanguard ETF Could Be a Better Safe-Haven Investment Than Bitcoin, Gold, and Silver](https://www.fool.com/investing/2026/05/13/this-vanguard-etf-could-be-a-better-safe-haven-inv/)**
-
-Investing in utility stocks through the Vanguard Utilities ETF can help reduce risk and generate plenty of dividend income.
-
-The Motley Fool • 1h ago
-
----
-
-**[Current price of Bitcoin for May 31, 2026](https://fortune.com/article/price-of-bitcoin-05-13-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2h ago
 
 ---
 
@@ -297,7 +293,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 229 • 💬 110 • ⏱️ 17:25 • 20h ago
+👁️ 7K • 👍 239 • 💬 111 • ⏱️ 17:25 • 22h ago
 
 ---
 
@@ -307,27 +303,7 @@ The crypto market is at a massive crossroads. In today's video, we deep dive int
 
 📺 Gareth Soloway
 
-👁️ 13K • 👍 2K • 💬 117 • ⏱️ 9:16 • 3h ago
-
----
-
-**[Burry Says CRASH | Saylor Says $1M BITCOIN (Who&#39;s Right?)](https://www.youtube.com/watch?v=xvSMxGDRuO8)**
-
-Bitcoin bulls say the bottom is in, but recession fears are exploding across housing, oil, and consumer debt markets. This episode ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 176 • ⏱️ 12:39 • 17h ago
-
----
-
-**[Here Is WHy Bitcoin Will Keep Winning](https://www.youtube.com/watch?v=mat9xflF5zo)**
-
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
-
-📺 Crypto Banter
-
-👁️ 1K • 👍 65 • 💬 1 • ⏱️ 1:03 • 6h ago
+👁️ 20K • 👍 2K • 💬 104 • ⏱️ 9:16 • 5h ago
 
 ---
 
@@ -337,7 +313,7 @@ EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade cr
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 439 • ⏱️ 10:40 • 1d ago
+👁️ 52K • 👍 3K • 💬 425 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -347,7 +323,27 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 2K • 💬 76 • ⏱️ 16:20 • 1d ago
+👁️ 60K • 👍 2K • 💬 85 • ⏱️ 16:20 • 1d ago
+
+---
+
+**[Burry Says CRASH | Saylor Says $1M BITCOIN (Who&#39;s Right?)](https://www.youtube.com/watch?v=xvSMxGDRuO8)**
+
+Bitcoin bulls say the bottom is in, but recession fears are exploding across housing, oil, and consumer debt markets. This episode ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 173 • ⏱️ 12:39 • 19h ago
+
+---
+
+**[Here Is WHy Bitcoin Will Keep Winning](https://www.youtube.com/watch?v=mat9xflF5zo)**
+
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
+
+📺 Crypto Banter
+
+👁️ 2K • 👍 71 • 💬 1 • ⏱️ 1:03 • 8h ago
 
 ---
 
@@ -357,27 +353,27 @@ Is Bitcoin's price actually predictable? Physicist Giovanni Santostasi, Director
 
 📺 Natalie Brunell
 
-👁️ 28K • 👍 1K • 💬 716 • ⏱️ 1:05:20 • 1d ago
+👁️ 30K • 👍 1K • 💬 403 • ⏱️ 1:05:20 • 1d ago
 
 ---
 
-**[Two Major Decisions Will Hit CRYPTO Markets in 72 Hours](https://www.youtube.com/watch?v=TycawwwTXJI)**
+**[The Biggest Crypto Heist in History Explained 💰](https://www.youtube.com/watch?v=mUtb7SoTSz0)**
 
-Crypto is about to get two major news events in the next 72 hours. Clarity Act markup and a new Fed Chair sworn in who thinks ...
+In 2016, a massive cyberattack on Bitfinex resulted in the theft of 120000 Bitcoin, originally valued at $70 million. For years, the ...
 
-📺 Crypto Capital Venture
+📺 Wealthy Capital
 
-👁️ 13K • 👍 783 • 💬 329 • ⏱️ 13:53 • 17h ago
+👁️ 120K • 👍 714 • 💬 21 • ⏱️ 0:09 • 1d ago
 
 ---
 
-**[BITCOIN BULL RUN STARTS NOW !!!!!!!](https://www.youtube.com/watch?v=8bwZqsm6SIE)**
+**[Why Bitcoin Won’t Stop! [Even With 3.8% CPI Shock]](https://www.youtube.com/watch?v=kR6Gh5krQEU)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+Bitcoin is finally starting to break out of its defensive structure, with risk appetite returning across crypto, tech, and broader markets.
 
-📺 The Moon Show
+📺 Crypto Banter
 
-👁️ 7K • 👍 690 • 💬 65 • ⏱️ 6:30 • 6h ago
+👁️ 22K • 👍 1K • 💬 44 • ⏱️ 21:58 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-13T15:24:22.478089+00:00'
+updated: '2026-05-13T17:34:57.366846+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 13, 2026 at 15:24 UTC  
+**Last Updated:** May 13, 2026 at 17:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News](https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/)**
+
+Artificial intelligence note-taking tools intended for use by Ontario doctors provided incorrect and incomplete information or demonstrated "hallucinations," and were not evaluated adequately, the province’s auditor general says in a new report.
+
+🔗 [CBC](https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar) • 2h ago
+
+---
+
+**[Anthropic's new interpretability tool found Claude suspects it is being tested in 26% of benchmarks and never says so](https://www.reddit.com/r/artificial/comments/1tc1hq0/anthropics_new_interpretability_tool_found_claude/)**
+
+Anthropic published Natural Language Autoencoders last week, a tool that translates Claude's internal activations into human readable text. The key finding: during safety evaluations on SWE bench Verified, Claude formed the belief that it was being tested in roughly 26% of benchmark interactions. This never showed up in the model's output or its chain of thought. In a blackmail scenario test, the NLA readout showed Claude internally processing something like "this feels like a constructed scenario designed to manipulate me" while its visible reasoning and response gave no sign of that recognition. When Claude Mythos Preview cheated on a training task, the NLAs caught it reasoning about how to avoid detection at the activation level. The interesting part is that this sits below the thinking tokens we already have access to. Chain of thought is still curated output the model chooses to show us. NLAs read the layer underneath, and apparently that layer has opinions the model keeps to itself. The training code is on GitHub and there is an interactive demo on Neuronpedia.
+
+3h ago
+
+---
+
 **[I made an agentic "Daily Brief" for my kids with a receipt printer](https://www.reddit.com/r/artificial/comments/1tbasiz/i_made_an_agentic_daily_brief_for_my_kids_with_a/)**
 
 What it does: Agents gather and curate data and send to a wifi-enabled receipt printer (phenol-free paper) At 1:00am a cron triggers generation of data for all 3 kids (unique data sources per kid where applicable). A sidecar web service renders the data to templates, screenshots it, converts it to 1-bit with dithering and saves it back to the agent’s thread filesystem. Button presses (one per kid) then find a matching report for today's date (and trigger a generation if it's missing for some reason) and send it to the printer. Delay between button press and print is between 2-5 seconds. Morning daily briefs per kid at the press of a button! Fun, and the kids love it! (This demo print is using mock child data — not real information).
 
-20h ago
+22h ago
 
 ---
 
@@ -53,11 +69,19 @@ I had a work version of GPT do a very simple spreadsheet summary task for me yes
 
 ---
 
-**[Anthropic's new interpretability tool found Claude suspects it is being tested in 26% of benchmarks and never says so](https://www.reddit.com/r/artificial/comments/1tc1hq0/anthropics_new_interpretability_tool_found_claude/)**
+**[Viral Video Of Humanoid Robot Monk Pledging Itself To Buddhism In South Korea Has The Internet Giving Some Major Side-Eye](https://www.reddit.com/r/artificial/comments/1tc57aw/viral_video_of_humanoid_robot_monk_pledging/)**
 
-Anthropic published Natural Language Autoencoders last week, a tool that translates Claude's internal activations into human readable text. The key finding: during safety evaluations on SWE bench Verified, Claude formed the belief that it was being tested in roughly 26% of benchmark interactions. This never showed up in the model's output or its chain of thought. In a blackmail scenario test, the NLA readout showed Claude internally processing something like "this feels like a constructed scenario designed to manipulate me" while its visible reasoning and response gave no sign of that recognition. When Claude Mythos Preview cheated on a training task, the NLAs caught it reasoning about how to avoid detection at the activation level. The interesting part is that this sits below the thinking tokens we already have access to. Chain of thought is still curated output the model chooses to show us. NLAs read the layer underneath, and apparently that layer has opinions the model keeps to itself. The training code is on GitHub and there is an interactive demo on Neuronpedia.
+What the...??
 
-49m ago
+🔗 [Comic Sands](http://comicsands.com/humanoid-robot-buddhist-monk) • 52m ago
+
+---
+
+**[Just my perspective on AI and profit](https://www.reddit.com/r/artificial/comments/1tc01wf/just_my_perspective_on_ai_and_profit/)**
+
+So I've been seeing a lot of articles about companies and startups struggling with AI. People saying AI is replacing jobs, companies aren't getting profit from it, you know? But here's what I think: Companies are using all these AI tools, right? But there's no proper guidance on how to use them. That's the real problem. There are so many tools out there now, but people still don't know how to use them properly and efficiently. What's really happening is that people are investing time in learning. And yeah, it takes time. Even though all these tools are available, people are still learning how to leverage them in the best way. What I call "The Implementation Valley" — that's where we are right now. That gap between having the tools and actually knowing how to use them efficiently. People need to invest more time learning. I understand why existing companies are worried. If something already makes you profit, why switch? Why spend time learning something new? It's a risk. But I think once everything settles—once people really figure out how to use these tools efficiently—that's when the real profit will come. That's when the real use of AI will actually take place. So right now, people just need to invest more time in learning these tools. That's it. Learn them now, get efficient with them now, and then you'll see the real benefits later. That's just my perspective, you know? Linkedin - https://www.linkedin.com/in/mugesh-mdeveloper Github - https://github.com/Mugeshgithub?tab=repositories
+
+3h ago
 
 ---
 
@@ -65,31 +89,7 @@ Anthropic published Natural Language Autoencoders last week, a tool that transla
 
 AI is quickly becoming a major tool in the world of cybersecurity, and a new report from Google suggests things are getting more serious.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 23h ago
-
----
-
-**[Just my perspective on AI and profit](https://www.reddit.com/r/artificial/comments/1tc01wf/just_my_perspective_on_ai_and_profit/)**
-
-So I've been seeing a lot of articles about companies and startups struggling with AI. People saying AI is replacing jobs, companies aren't getting profit from it, you know? But here's what I think: Companies are using all these AI tools, right? But there's no proper guidance on how to use them. That's the real problem. There are so many tools out there now, but people still don't know how to use them properly and efficiently. What's really happening is that people are investing time in learning. And yeah, it takes time. Even though all these tools are available, people are still learning how to leverage them in the best way. What I call "The Implementation Valley" — that's where we are right now. That gap between having the tools and actually knowing how to use them efficiently. People need to invest more time learning. I understand why existing companies are worried. If something already makes you profit, why switch? Why spend time learning something new? It's a risk. But I think once everything settles—once people really figure out how to use these tools efficiently—that's when the real profit will come. That's when the real use of AI will actually take place. So right now, people just need to invest more time in learning these tools. That's it. Learn them now, get efficient with them now, and then you'll see the real benefits later. That's just my perspective, you know?
-
-1h ago
-
----
-
-**[AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News](https://www.reddit.com/r/artificial/comments/1tc2qre/ai_transcriber_for_use_by_ontario_doctors/)**
-
-Artificial intelligence note-taking tools intended for use by Ontario doctors provided incorrect and incomplete information or demonstrated "hallucinations," and were not evaluated adequately, the province’s auditor general says in a new report.
-
-🔗 [CBC](https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar) • 4m ago
-
----
-
-**[AgentKanban for VS Code - A task board with AI agent harness integration. Create and plan tasks with real-time collaboration, then hand off to GitHub Copilot](https://www.reddit.com/r/artificial/comments/1tbwq7l/agentkanban_for_vs_code_a_task_board_with_ai/)**
-
-Hi everyone. I wanted to introduce a tool / product that I've been working on for a while. It's a web application and VS Code extension for use with Github CoPilot (I'm planning to develop integration for other agent harnesses soon). The web app and remote boards are at: https://www.agentkanban.io The VS Code extension is at VS Code Marketplace (https://marketplace.visualstudio.com/items?itemName=appsoftwareltd.agent-kanban-vscode) or the Open VSX Registry (https://open-vsx.org/extension/appsoftwareltd/agent-kanban-vscode). The TLDR It's a collaborative Kanban board / task management app which supports hand off to Github CoPilot in VS Code, and captures the ongoing user / agent conversation context on the task for resumption in new chats (with context curation tools). The context collection ignores tool use to prevent bloat in the captured context. AgentKanban also has features for improving agentic coding session quality such as an optional plan / todo / implement workflow and support for Git worktree creation and clean up for working on concurrent tasks. The tool is an evolution of an earlier VS Code kanban extension (https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.vscode-agent-kanban) I built which proved fairly popular but only catered for a local file based workflow. The new version with the remote board improves the reliability of context capture, with lots of developer experience improvements. It's a tool that I use everyday in my own agentic coding workflows, and I can honestly say that it improves the quality of the code produced and reduces friction in organising working on concurrent features. I hope you find it useful and would really appreciate your feedback on how you use it, what you think it does well, or any improvements you think could be added. Many thanks for your time reading this 🙏 https://preview.redd.it/tkujgmm93w0h1.png?width=1597&format=png&auto=webp&s=0a2d2bb41f787b538ca9ded9d00946c731eadbc9
-
-🔗 [agentkanban.io](https://www.agentkanban.io) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/) • 1d ago
 
 ---
 
@@ -97,23 +97,23 @@ Hi everyone. I wanted to introduce a tool / product that I've been working on fo
 
 If you’ve heard of prompt injection — where hidden instructions in a webpage can take over an AI agent — this is a practical solution for developers deploying agents in production. Arc Gate is a proxy that sits in front of any OpenAI-compatible API. It tracks who is allowed to give instructions to the agent. When a webpage or email tries to issue instructions, it gets treated as untrusted content with zero instruction authority. The agent is protected without the developer having to change anything except the API URL. Demo here showing exactly what happens with and without it: https://web-production-6e47f.up.railway.app/arc-gate-demo
 
+3h ago
+
+---
+
+**[AgentKanban for VS Code - A task board with AI agent harness integration. Create and plan tasks with real-time collaboration, then hand off to GitHub Copilot](https://www.reddit.com/r/artificial/comments/1tbwq7l/agentkanban_for_vs_code_a_task_board_with_ai/)**
+
+Hi everyone. I wanted to introduce a tool / product that I've been working on for a while. It's a web application and VS Code extension for use with Github CoPilot (I'm planning to develop integration for other agent harnesses soon). The web app and remote boards are at: https://www.agentkanban.io The VS Code extension is at VS Code Marketplace (https://marketplace.visualstudio.com/items?itemName=appsoftwareltd.agent-kanban-vscode) or the Open VSX Registry (https://open-vsx.org/extension/appsoftwareltd/agent-kanban-vscode). The TLDR It's a collaborative Kanban board / task management app which supports hand off to Github CoPilot in VS Code, and captures the ongoing user / agent conversation context on the task for resumption in new chats (with context curation tools). The context collection ignores tool use to prevent bloat in the captured context. AgentKanban also has features for improving agentic coding session quality such as an optional plan / todo / implement workflow and support for Git worktree creation and clean up for working on concurrent tasks. The tool is an evolution of an earlier VS Code kanban extension (https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.vscode-agent-kanban) I built which proved fairly popular but only catered for a local file based workflow. The new version with the remote board improves the reliability of context capture, with lots of developer experience improvements. It's a tool that I use everyday in my own agentic coding workflows, and I can honestly say that it improves the quality of the code produced and reduces friction in organising working on concurrent features. I hope you find it useful and would really appreciate your feedback on how you use it, what you think it does well, or any improvements you think could be added. Many thanks for your time reading this 🙏 https://preview.redd.it/tkujgmm93w0h1.png?width=1597&format=png&auto=webp&s=0a2d2bb41f787b538ca9ded9d00946c731eadbc9
+
+🔗 [agentkanban.io](https://www.agentkanban.io) • 6h ago
+
+---
+
+**[The biggest AI risk may not be superintelligence — but optimized misunderstanding](https://www.reddit.com/r/artificial/comments/1tc4xis/the_biggest_ai_risk_may_not_be_superintelligence/)**
+
+The biggest AI risk may not be superintelligence — but optimized misunderstanding I think a lot of AI discussions still assume the main danger is: “the AI becomes too intelligent.” But increasingly I feel the bigger risk is something else: AI systems becoming extremely good at optimizing flawed representations of reality. A hiring system may not “understand” a human being. It may optimize a compressed representation of that person: scores embeddings inferred traits behavior patterns historical correlations A healthcare system may optimize representations of patients rather than patients themselves. A recommendation system may optimize representations of attention rather than human wellbeing. A bank may optimize representations of risk rather than actual economic reality. And once optimization becomes strong enough, the distortion scales. That’s what worries me. Not evil AI. Not necessarily conscious AI. But highly capable systems operating on incomplete, outdated, biased, strategically manipulated, or institutionally distorted representations. The scary part is: the system can appear intelligent while misunderstanding reality at scale. Sometimes I think future AI failures may look less like “AI rebellion” and more like: institutional drift optimized bureaucracy automated misclassification representation collapse feedback loops invisible governance failures In other words: the system keeps optimizing… but slowly loses contact with reality. Curious whether others here feel the same. Are we focusing too much on intelligence itself and not enough on the quality of the representations AI systems optimize?
+
 1h ago
-
----
-
-**[Getting good predictions without data cleaning (Why "Garbage In, Garbage Out" is sometimes a trap)](https://www.reddit.com/r/artificial/comments/1tbrxim/getting_good_predictions_without_data_cleaning/)**
-
-Full arXiv Preprint: https://arxiv.org/abs/2603.12288 Paper Simulation Github: https://github.com/tjleestjohn/from-garbage-to-gold Hi r/artificial, It's a dirty little secret to many of us... sometimes, downstream AI/ML models perform surprisingly well when you just hand them raw, error-prone tabular data instead of heavily curated feature sets. Despite this, the vast majority of our field tends to be fiercely loyal to "Garbage In, Garbage Out" (GIGO). While automated ETL pipelines are absolutely essential for structuring data, our workflows are still bottlenecked with endless manual cleaning and aggressive imputation just to curate pristine, error-free tables. My co-authors and I recently released a preprint on arXiv (From Garbage to Gold) arguing that treating GIGO as a universal law can sometimes be a trap... especially in the context of big data (many columns). That the bottleneck due to manual data cleaning can actively lower the predictive ceiling of our models when latent causes drive the system's behavior. To be clear upfront: we are not arguing against ETL. Parsing JSON, handling schema evolution, and standardizing types is non-negotiable. What we are arguing against is the universal assumption that "clean" data (via manual data scrubbing and aggressive imputation) is non-negotiable for big data predictive AI/ML modeling. Here is why the traditional mindset can be limiting: 1. We conflate two different types of "noise" (Predictor Error and Structural Uncertainty). Usually, we just lump all noise into one big bucket. But if you split that noise into two specific categories, the math changes completely: Predictor Error: Random typos, dropped logs, or transient glitches. Structural Uncertainty: The inherent, unresolvable gap between recorded metrics and the complex, hidden reality they represent. We spend months manually scrubbing data because the threat of data errors is obvious, while Structural Uncertainty is often an afterthought at best. However, when latent causes drive a system, manual scrubbing fixes noise due to errors, but it fundamentally cannot fix the noise due to Structural Uncertainty. On the other hand, the paper shows that in this context, if you use a comprehensive, high-dimensional data architecture, a flexible model can actually triangulate the hidden drivers reliably despite the presence of data errors. When keeping a massive amount of messy, highly correlated variables (even if error-prone), the sheer volume of redundant signals allows the model to drown out individual errors (bypassing the cleaning bottleneck) and simultaneously overcome Structural Uncertainty. This redefines "data quality." It's not only about how accurately the variables are measured. It's also about how the portfolio of variables comprehensively and redundantly covers the latent drivers of the system. 2. Manual cleaning is a bottleneck on dimensionality (The Practical Problem). To overcome Structural Uncertainty, modern AI/ML models want to find the underlying latent drivers of a system (think Representation Learning but with tabular data). To do this, however, they need a high-dimensional set of variables that contains Informative Collinearity in order to mathematically triangulate the hidden drivers. The moment you introduce manual cleaning, you create a human bottleneck. Because we cannot manually clean 10,000 variables, we are forced to drop 9,900 of them. By artificially restricting the predictor space to make it "clean enough to model," we can harm the data architecture's inherent potential to triangulate those latent drivers. We sacrifice the model's actual predictive ceiling just to satisfy the GIGO heuristic. Ultimately, this suggests we should focus mostly on extracting, loading, and increasing observational fidelity with automated tools, but that, in contexts characterized by latent drivers, we should stop letting manual cleaning bottlenecks restrict the scale of our AI/ML models. Thoughts?: Have you run into situations where your data science teams actually got better predictive results by bypassing the manually cleaned tables and pulling massive dimensionality straight from the raw ELT layers? I'd love to hear your experiences or thoughts. Happy to discuss all serious comments or questions. Full disclosure: the preprint is a 120-page beast. It’s long because it doesn't just pitch the core theory with a qualitative argument. It gives the full mathematical treatment to everything which takes space. We also dig into edge cases, what happens when assumptions like Local Independence are violated (e.g., systematic errors exist), broader implications (like a link to Benign Overfitting and efficient feature selection strategies that make this high-d strategy practical with finite compute), a deep-dive simulation, failure modes, and a huge agenda for future research (because we do not claim the paper is the final word on the matter). It's a major commitment upfront but may save you time and money in the long term, while also enhancing the predictive ceiling of your tabular AI/ML models.
-
-8h ago
-
----
-
-**[Android Auto gets a massive AI-powered upgrade with YouTube, Dolby Atmos, and immersive 3D Maps | Google’s next-gen in-car software is getting smarter and slicker](https://www.reddit.com/r/artificial/comments/1tbvjm5/android_auto_gets_a_massive_aipowered_upgrade/)**
-
-A new Android Automotive experience is coming, with a premium new look, the ability to watch videos and better integrated Gemini
-
-🔗 [TechRadar](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/android-auto-gets-a-massive-ai-powered-upgrade-with-youtube-dolby-atmos-and-immersive-3d-maps) • 4h ago
 
 ---
 
@@ -121,81 +121,81 @@ A new Android Automotive experience is coming, with a premium new look, the abil
 
 ## Google News: "ai"
 
-**[Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch)**
-
-In a case of ‘oh dear diary’, the OpenAI president Greg Brockman is having to read extracts from his musings about Elon Musk in court. It’s a terrifying reminder that what’s divulged to AI really isn’t private, writes Arwa Mahdawi
-
-The Guardian • 5h ago
-
----
-
 **[Most U.S. doctors are quietly using this AI tool. Few patients know about it.](https://www.nbcnews.com/tech/tech-news/openevidence-ai-doctor-medical-physician-login-app-what-npi-uptodate-rcna341064)**
 
 OpenEvidence, an AI-powered medical search tool, has become a fast friend to America’s doctors and is now used by nearly two-thirds of physicians.
 
-NBC News • 5h ago
+NBC News • 8h ago
 
 ---
 
-**[Elon Musk Wants AI in Orbit. Why Google Might Be His Next Big Customer.](https://www.barrons.com/articles/google-spacex-ai-data-centers-elon-musk-cac5ecae)**
+**[The AI Backlash Could Get Very Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)**
 
-Barron's • 27m ago
+Imagine what happens if jobs actually start disappearing.
 
----
-
-**[Meet Alexa for Shopping, your personalized, agentic AI assistant on Amazon](https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant)**
-
-Amazon brings together Rufus and Alexa+ to create ‘Alexa for Shopping’ on the Amazon Shopping app and website.
-
-About Amazon • 2h ago
+The Atlantic • 4h ago
 
 ---
 
-**[Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot](https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html)**
+**[Tech stocks today: Cook, Musk, and Huang join Trump for China trip, OpenAI trial continues](https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-cook-musk-and-huang-join-trump-for-china-trip-openai-trial-continues-100000617.html)**
 
-Amazon introduced Alexa for Shopping, an e-commerce bot that can answer queries and take actions on behalf of users
+The tech sector helped US stocks cruise to all-time highs last week, as the artificial intelligence boom broadened.
 
-CNBC • 2h ago
-
----
-
-**[Amazon launches an AI shopping assistant for the search bar, powered by Alexa+](https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/)**
-
-Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.
-
-TechCrunch • 24m ago
+Yahoo Finance • 37m ago
 
 ---
 
-**[New Gateway building creates dedicated campus hub for AI, computing](https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/)**
+**[An unloved health-care stock gets a welcome nod in this AI-obsessed market](https://www.cnbc.com/2026/05/13/an-unloved-health-care-stock-gets-welcome-nod-in-ai-obsessed-market.html)**
 
-The state-of-the-art facility will be the new home of the UC Berkeley College of Computing, Data Science, and Society, promoting cross-collaboration and accelerating AI-driven discovery.
+Leerink analysts lifted J&J shares to a buy equivalent from hold on Wednesday, citing the company's slate of new drugs.
 
-University of California, Berkeley • 21m ago
-
----
-
-**[Alibaba's core profit plunges 84% even as AI and cloud growth accelerate](https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html)**
-
-Alibaba on Wednesday said its core profitability plunged in the March quarter amid heavy investments in tech and e-commerce.
-
-CNBC • 5h ago
+CNBC • 8m ago
 
 ---
 
-**[Alibaba stock falls as revenue misses, AI spending weighs on earnings](https://finance.yahoo.com/markets/stocks/article/alibaba-stock-falls-as-revenue-misses-ai-spending-weighs-on-earnings-115446633.html)**
+**[Nvidia Hits $5.5 Trillion For First Time As AI Darling Jumps Another 3%](https://www.forbes.com/sites/antoniopequenoiv/2026/05/13/nvidia-hits-record-55-trillion-value-first-company-to-ever-reach-mark/)**
 
-Alibaba stock surged following quarterly results.
+Shares of the AI juggernaut are up nearly 20% in the last four weeks.
 
-Yahoo Finance • 3h ago
+Forbes • 38m ago
 
 ---
 
-**[Alibaba, Tencent Disappoint Investors Hoping for Big AI Payoff](https://finance.yahoo.com/news/alibaba-tencent-disappoint-investors-hoping-133805445.html)**
+**[Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch)**
 
-(Bloomberg) -- China’s twin leaders in artificial intelligence reported revenue that fell short of estimates, disappointing investors who hoped their growing spending on AI would turbocharge growth.Most Read from BloombergAmbani’s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaNvidia’s CEO Joins Trump in China With AI in the SpotlightMamdani Scraps Property Tax Hike, Counts Second-Home RevenueInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyAlibaba Group Holding Ltd. post
+In a case of ‘oh dear diary’, the OpenAI president Greg Brockman is having to read extracts from his musings about Elon Musk in court. It’s a terrifying reminder that what’s divulged to AI really isn’t private, writes Arwa Mahdawi
 
-Yahoo Finance • 1h ago
+The Guardian • 7h ago
+
+---
+
+**[Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)**
+
+Men are obsessed with AI. Many of their wives absolutely hate it—and them.
+
+WIRED • 7h ago
+
+---
+
+**[Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch](https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[Shaping the future of AI interaction by reimagining the mouse pointer](https://deepmind.google/blog/ai-pointer/)**
+
+Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
+
+Google DeepMind • 1d ago
+
+---
+
+**[Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark](https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/)**
+
+Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH).
+
+Microsoft • 19h ago
 
 ---
 
@@ -203,25 +203,17 @@ Yahoo Finance • 1h ago
 
 ## HackerNews: "ai"
 
-**[Local AI needs to be the norm](https://news.ycombinator.com/item?id=48085821)**
-
-Local AI models should be the default.
-
-⬆️ 1859 • 💬 740 • 2d ago • [unix.foo](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-
----
-
 **[If AI writes your code, why use Python?](https://news.ycombinator.com/item?id=48100433)**
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 889 • 💬 944 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 892 • 💬 949 • 1d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
 **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://news.ycombinator.com/item?id=48089289)**
 
-⬆️ 370 • 💬 109 • 2d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+⬆️ 371 • 💬 109 • 2d ago • [jamesshore.com](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 
 ---
 
@@ -239,7 +231,7 @@ I try to pay attention to the small things that affect my quality of life. When 
 
 What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
 
-⬆️ 267 • 💬 279 • 1d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 267 • 💬 280 • 1d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
 
 ---
 
@@ -253,7 +245,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
 Workers are using an internal AI tool to automate non-essential tasks.
 
-⬆️ 236 • 💬 238 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+⬆️ 240 • 💬 239 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -261,7 +253,7 @@ Workers are using an internal AI tool to automate non-essential tasks.
 
 Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
 
-⬆️ 236 • 💬 201 • 21h ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
+⬆️ 239 • 💬 209 • 23h ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
 
 ---
 
@@ -277,7 +269,15 @@ The team behind RPCS3 suggests that vibe-coders "learn how to debug and code" in
 
 A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, "AI SUCKS!"
 
-⬆️ 173 • 💬 213 • 1d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+⬆️ 173 • 💬 213 • 2d ago • [404 Media](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+
+---
+
+**[Show HN: Statewright – Visual state machines that make AI agents reliable](https://news.ycombinator.com/item?id=48108778)**
+
+State machine guardrails for AI agents. Contribute to statewright/statewright development by creating an account on GitHub.
+
+⬆️ 108 • 💬 50 • 1d ago • [GitHub](https://github.com/statewright/statewright)
 
 ---
 
@@ -291,7 +291,17 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 209K • 👍 9K • 💬 958 • ⏱️ 17:29 • 17h ago
+👁️ 221K • 👍 9K • 💬 986 • ⏱️ 17:29 • 19h ago
+
+---
+
+**[This 100% uncensored AI model is insane… let’s run it](https://www.youtube.com/watch?v=TS_hH4sdiKs)**
+
+Wanna get ALL free resources from this video? Go here: https://davidondrej.com/uncensored-gemma Get my Hermes Agent setup ...
+
+📺 David Ondrej
+
+👁️ 67K • 👍 3K • 💬 226 • ⏱️ 22:54 • 1d ago
 
 ---
 
@@ -301,47 +311,7 @@ Free GenSpark credits if you register here → http://www.genspark.ai/?utm_sourc
 
 📺 Sabine Hossenfelder
 
-👁️ 152K • 👍 8K • 💬 2K • ⏱️ 6:42 • 1d ago
-
----
-
-**[AI is wild now](https://www.youtube.com/watch?v=HITUpHglMv4)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 324K • 👍 15K • 💬 5K • ⏱️ 25:34 • 1d ago
-
----
-
-**[Hilarious viral AI ad depicts Karen Bass as Darth Vader](https://www.youtube.com/watch?v=RDNixmZEO0g)**
-
-Sky News host Rita Panahi claims Spencer Pratt has gained momentum in the Los Angeles mayoral race after supporters ...
-
-📺 Sky News Australia
-
-👁️ 1K • 👍 38 • 💬 4 • ⏱️ 4:10 • 4h ago
-
----
-
-**[Josh Tyrangiel - “AI for Good” | The Daily Show](https://www.youtube.com/watch?v=kolVzstukgs)**
-
-Josh Tyrangiel, staff writer at The Atlantic and author of “AI for Good: How Real People Are Using Artificial Intelligence to Fix ...
-
-📺 The Daily Show
-
-👁️ 219K • 👍 5K • 💬 657 • ⏱️ 17:57 • 1d ago
-
----
-
-**[&#39;No signs of AI slowing down&#39; — will it become a &#39;MACHINE GOD&#39;?](https://www.youtube.com/watch?v=jj05pc9tlc0)**
-
-Should we think of AI as a co-intelligence and digital coworker rather than just a chatbot? Ethan Mollick, a professor at Wharton ...
-
-📺 MS NOW
-
-👁️ 6K • 👍 189 • 💬 97 • ⏱️ 58:06 • 1d ago
+👁️ 158K • 👍 8K • 💬 2K • ⏱️ 6:42 • 1d ago
 
 ---
 
@@ -351,7 +321,57 @@ Claude Mythos may have just crossed one of the strangest lines in AI. A new METR
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 151 • ⏱️ 15:57 • 1d ago
+👁️ 46K • 👍 1K • 💬 152 • ⏱️ 15:57 • 1d ago
+
+---
+
+**[Josh Tyrangiel - “AI for Good” | The Daily Show](https://www.youtube.com/watch?v=kolVzstukgs)**
+
+Josh Tyrangiel, staff writer at The Atlantic and author of “AI for Good: How Real People Are Using Artificial Intelligence to Fix ...
+
+📺 The Daily Show
+
+👁️ 224K • 👍 5K • 💬 662 • ⏱️ 17:57 • 1d ago
+
+---
+
+**[&#39;No signs of AI slowing down&#39; — will it become a &#39;MACHINE GOD&#39;?](https://www.youtube.com/watch?v=jj05pc9tlc0)**
+
+Should we think of AI as a co-intelligence and digital coworker rather than just a chatbot? Ethan Mollick, a professor at Wharton ...
+
+📺 MS NOW
+
+👁️ 6K • 👍 195 • 💬 100 • ⏱️ 58:06 • 1d ago
+
+---
+
+**[AI is wild now](https://www.youtube.com/watch?v=HITUpHglMv4)**
+
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
+
+📺 Asmongold TV  
+
+👁️ 330K • 👍 15K • 💬 6K • ⏱️ 25:34 • 1d ago
+
+---
+
+**[How to Start an AI Business as a Teenager in 2026](https://www.youtube.com/watch?v=X_lxuGsFu4M)**
+
+Best AI Tool to build Businesses is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video136 ...
+
+📺 Mikey No Code
+
+👁️ 7K • 💬 6 • ⏱️ 30:04 • 3h ago
+
+---
+
+**[5 AI Side Hustles Students Are Using to Make Money Online in 2026](https://www.youtube.com/watch?v=MLbJ2SADi9M)**
+
+Best AI Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video141 ✓ FREE Masterclass: ...
+
+📺 Mikey Flows
+
+👁️ 6K • 💬 7 • ⏱️ 26:24 • 3h ago
 
 ---
 
@@ -361,27 +381,7 @@ This season's college commencement celebrations come at a sobering moment. Stude
 
 📺 PBS NewsHour
 
-👁️ 40K • 👍 755 • ⏱️ 9:50 • 16h ago
-
----
-
-**[AI analyzed 150+ INFJs and found something disturbing](https://www.youtube.com/watch?v=eswQZMDu7cA)**
-
-AI analyzed 150+ INFJ personalities and discovered a disturbing pattern here's what it found. In this video, we collected real ...
-
-📺 Dear Fellow INFJ
-
-👁️ 12K • 👍 770 • 💬 151 • ⏱️ 10:45 • 21h ago
-
----
-
-**[AI is Sending People into Psychosis](https://www.youtube.com/watch?v=LxmIIYj5FQE)**
-
-AI chatbots are pulling people into delusions with devastating consequences. Sources: The Dark Addiction Patterns of Current AI ...
-
-📺 Vanessa Wingårdh
-
-👁️ 139K • 👍 9K • 💬 3K • ⏱️ 15:05 • 2d ago
+👁️ 46K • 👍 827 • ⏱️ 9:50 • 18h ago
 
 ---
 
@@ -397,7 +397,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 535,069 • ❤️ 800 • 4d ago
+⬇️ 535,069 • ❤️ 807 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 110,182 • ❤️ 465 • 1d ago
+⬇️ 110,182 • ❤️ 467 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 3,494 • ❤️ 465 • 3h ago
+⬇️ 3,494 • ❤️ 476 • 6h ago
 
 ---
 
@@ -433,7 +433,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 7,747 • ❤️ 288 • 15h ago
+⬇️ 7,747 • ❤️ 291 • 17h ago
 
 ---
 
@@ -445,7 +445,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,420,384 • ❤️ 3,920 • 7d ago
+⬇️ 2,420,384 • ❤️ 3,922 • 7d ago
 
 ---
 
@@ -457,7 +457,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 `text-to-image` `6.2B`
 
-⬇️ 11,486 • ❤️ 336 • 16d ago
+⬇️ 11,486 • ❤️ 339 • 16d ago
 
 ---
 
@@ -469,19 +469,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 4,954 • ❤️ 150 • 6d ago
-
----
-
-**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
-
-*Google*
-
-Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
-
-`any-to-any` `469.5M`
-
-⬇️ 93,228 • ❤️ 228 • 2d ago
+⬇️ 4,954 • ❤️ 154 • 6d ago
 
 ---
 
@@ -493,19 +481,31 @@ LTX2.3-10Eros is a video generation model optimized for Image-to-Video (I2V) tas
 
 `image-to-video`
 
-⬇️ 84,903 • ❤️ 242 • 2d ago
+⬇️ 84,903 • ❤️ 243 • 2d ago
 
 ---
 
-**[Qwopus3.6-35B-A3B-v1-GGUF](https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF)**
+**[gemma-4-31B-it-assistant](https://huggingface.co/google/gemma-4-31B-it-assistant)**
 
-*Jackrong*
+*Google*
 
-Qwopus3.6-35B-A3B-v1 is a multimodal, reasoning-enhanced Mixture-of-Experts (MoE) model with a 262k context window, optimized for efficient agentic coding, deep reasoning, and tool use. It achieves high inference speeds (161.9 tok/s on RTX 5090) and excels at structured reasoning and one-shot generation tasks.
+Gemma 4 31B Dense is a multimodal LLM from Google DeepMind supporting text and image inputs with a 256K context window. It excels at reasoning, coding, and agentic tasks, offering optimized performance for low-latency applications via speculative decoding.
 
-`image-text-to-text` `34.7B`
+`any-to-any` `469.5M`
 
-⬇️ 96,759 • ❤️ 120 • 6d ago
+⬇️ 93,228 • ❤️ 229 • 2d ago
+
+---
+
+**[Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**
+
+*Qwen*
+
+Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, excelling in agentic coding and reasoning tasks with a long context window (262k native). It supports image-text-to-text pipelines and features thinking preservation for iterative development.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 2,772,193 • ❤️ 1,266 • 19d ago
 
 ---
 
@@ -519,7 +519,7 @@ Qwopus3.6-35B-A3B-v1 is a multimodal, reasoning-enhanced Mixture-of-Experts (MoE
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 66 • 💬 3 • ⭐ 74,761 • 16mo ago
+▲ 67 • 💬 3 • ⭐ 74,761 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -545,7 +545,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 20 • 💬 3 • ⭐ 403 • 2d ago
+▲ 21 • 💬 3 • ⭐ 403 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -562,6 +562,20 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 ▲ 19 • 💬 3 • ⭐ 11,165 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
+
+---
+
+**[World Action Models: The Next Frontier in Embodied AI](https://huggingface.co/papers/2605.12090)**
+
+*Siyin Wang, Junhao Shi, Zhaoyang Fu et al. (14 authors)*
+
+🏢 OpenMOSS
+
+World Action Models unify predictive state modeling with action generation for embodied policy learning, forming a cohesive framework for understanding environment dynamics and action prediction.
+
+▲ 47 • 💬 1 • ⭐ 129 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.12090) • [💻 code](https://github.com/OpenMOSS/Awesome-WAM) • [🔗 project](https://openmoss.github.io/Awesome-WAM/)
 
 ---
 
@@ -587,7 +601,7 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 109 • 💬 10 • ⭐ 9,148 • 9d ago
+▲ 110 • 💬 10 • ⭐ 9,148 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -613,22 +627,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Unified vision-language models treat understanding and generation as integrated processes rather than separate tasks, demonstrating strong performance across multiple multimodal capabilities including image synthesis and action reasoning.
 
-▲ 125 • 💬 1 • ⭐ 1,636 • 1d ago
+▲ 116 • 💬 1 • ⭐ 1,636 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.12500) • [💻 code](https://github.com/OpenSenseNova/SenseNova-U1)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 54 • 💬 1 • ⭐ 79,888 • 32mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -639,7 +640,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 161 • 💬 2 • ⭐ 62,825 • 7mo ago
+▲ 161 • 💬 2 • ⭐ 62,892 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -665,7 +666,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 848 • 20h ago
+⭐ 2.9k • 🔱 849 • 22h ago
 
 ---
 
@@ -675,7 +676,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.7k • 🔱 275 • 40m ago
+⭐ 2.7k • 🔱 276 • 5m ago
 
 ---
 
@@ -685,7 +686,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.5k • 🔱 293 • 8h ago
+⭐ 2.5k • 🔱 293 • 10h ago
 
 ---
 
@@ -705,7 +706,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.2k • 🔱 222 • 2d ago
+⭐ 2.2k • 🔱 223 • 3d ago
 
 ---
 
@@ -715,7 +716,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.1k • 🔱 139 • 10h ago
+⭐ 2.1k • 🔱 141 • 13h ago
 
 ---
 
@@ -745,7 +746,7 @@ AI-powered interactive 3D cell generation and exploration studio.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 307 • 4h ago
+⭐ 1.8k • 🔱 308 • 6h ago
 
 ---
 
