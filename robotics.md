@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-13T19:56:17.412515+00:00'
+updated: '2026-05-13T21:27:32.124830+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 13, 2026 at 19:56 UTC  
+**Last Updated:** May 13, 2026 at 21:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Wuji tech teases its newest, most advanced humanoid hand](https://www.reddit.com/r/robotics/comments/1tc541q/wuji_tech_teases_its_newest_most_advanced/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hey r/robotics community, A couple weeks back, I asked about how you all were managing AI development in robotics and I got a bunch of great responses. To summarize: My problems ROS 1 and ROS 2 commands/syntax, Gazebo versions, are consistently confused by Claude Code Claude doesn't really understand the asynchronous messaging structure or any runtime-specific errors/bugs I may run into due to its code The changes Claude Code makes during my development often lead my code in the wrong direction, making debugging take even longer Your solutions Many of you mentioned building custom tooling and skills really helps Claude orient itself Supplying your own context and description of the repository and standardizing it across claude sessions using an `ARCHITECTURE.md` / `CLAUDE.md` also really helps Minimal working examples are also very helpful. Having somewhere Claude can turn to and say, "this is a simple example of how things are supposed to work" helps the agent orient itself I implemented four changes into my setup: Custom MCP tools and skills Supplying context from my own repository Supplying minimal working examples I made myself and found off the internet Supplying documentation relevant to my software stack. For me, that was ROS 2 Jazzy, Gazebo Harmonic, PX4, and Nav2 After making these changes, I've seen a pretty sizeable increase in my development speed using AI in robotics. Previously, I was trying to fill my context window with the code I've already written, but that seemed to not be enough context for Claude to actually understand the software architecture or data pipeline in my codebase. With the changes I've mentioned above, I actually noticed that I can let Claude develop new nodes and software. There's significantly less problems when integrating Claude's code and existing code from what I've seen so far. One thing that was always an annoyance for me was Claude's lack of understanding of what was ROS 1 and what was ROS 2. I ended up creating a RAG database that can input relevant documentation for whatever Claude was working on and that's worked incredibly well. With this in pairing with some custom tool calls I've made, my setup no longer has any confusion on what's ROS 2 and what commands I have access to running ROS 2 Jazzy and Gazebo Harmonic in particular. Thanks for all of your help! I thought I'd leave this post here for those who may also run into something similar trying to use Claude Code for robotics. I'm considering even doing some custom evals for this setup on robotics-specific coding problems because of how much more consistent this setup seems to be. If anyone's already done something similar to this, would love to hear about it in the comments. Cheers!
 
-3h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey r/robotics community, A couple weeks back, I asked about how you all were ma
 
 Hello. I would like to get some ideas on how I could extend this tube feeder magazine while staying inside the safety fence. Or does anyone have a complete redesign for a much better design? I need to be able to feed it from the outside of the cage. I don't have too much room in the cell and I am looking to find a way to fit more of the tubes. The machine goes through about 1 tube every 4 or 5 seconds. With only room for 8 tubes that's only about a 40 second buffer. It would be nice to have at least a few minutes buffer so the operator had time to do other small things while feeding the machine. Thanks.
 
-17h ago
+18h ago
 
 ---
 
@@ -64,13 +64,13 @@ Hello. I would like to get some ideas on how I could extend this tube feeder mag
 
 Custom Walter White animatronic fully 3D printed and hand painted. Powered by ESP32 and Arduino with 5 servomotors running at 5V: 2 servos for the neck, 1 for the mouth, and 2 for the eyes. Includes AI voice & sound using ElevenLabs.
 
-20h ago
+21h ago
 
 ---
 
 **[My third hexapof build 👀](https://www.reddit.com/r/robotics/comments/1tbignp/my_third_hexapof_build/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -78,7 +78,7 @@ Custom Walter White animatronic fully 3D printed and hand painted. Powered by ES
 
 Sergey Levine describes a robotics project where his team contacted 33 research labs and asked them to share data from their own robot setups. Each lab had different robots and different tasks. Some were working on cable routing, while others were working on taking out the trash or putting objects into drawers. His team trained one model across all of that data and sent it back to some of the labs to compare against the systems those labs had built for their own tasks. According to Levine, the generalist model performed about 50% better on average than the lab-specific systems.
 
-7h ago
+8h ago
 
 ---
 
@@ -86,21 +86,21 @@ Sergey Levine describes a robotics project where his team contacted 33 research 
 
 After using a robot mower for a season, I’ve realized I haven’t fully stopped using my old push mower. The robot handles most of the regular lawn work now, probably around 90 percent of it. It keeps the grass looking decent without me having to think about it too much, which is honestly nice. I can let it run while I’m doing other stuff, and the yard usually stays under control. But there are still a few areas it never gets quite right. Tight corners, narrow strips near flower beds, odd edges around paths, that kind of thing. Not a huge problem, but once I notice those spots they start to bug me. So I still end up taking out the push mower once in a while, usually just for 15 or 20 minutes, to clean up the awkward parts. It feels a little silly since I got the robot mower to avoid mowing, but this hybrid routine has kind of become normal for me. Anyone else doing the same thing, or am I just being too picky about the edges?
 
-6h ago
+8h ago
+
+---
+
+**[Anyone working with the Unitree G1 basic?](https://www.reddit.com/r/robotics/comments/1tcbuob/anyone_working_with_the_unitree_g1_basic/)**
+
+Anyone working with the Unitree G1 basic and have opened it up to review the motherboard? I am curious if it is the same as the EDU and just missing the jetson? I know other things are missing such as some wiring, the leg motors are slightly stronger on EDU. I am curious to see what mods can be done, what integration can occur. I know secondary development is not available on the basic, but if you slotted in a jetson or added another piggyback system, expansion can occur. Of course, this depends on integration with the mainboard. Just curious what others have done.
+
+58m ago
 
 ---
 
 **[[Project Demo 2] Training a Humanoid agent to shoot a ball in IsaacLab! ⚽🤖](https://www.reddit.com/r/robotics/comments/1tc4wa7/project_demo_2_training_a_humanoid_agent_to_shoot/)**
 
-3h ago
-
----
-
-**[South Korea exploring using Hyundai robots as army numbers fall](https://www.reddit.com/r/robotics/comments/1tbtmby/south_korea_exploring_using_hyundai_robots_as/)**
-
-SEOUL: South Korea's military is exploring a strategic partnership with Hyundai Motor Co. to potentially deploy robotics to the front lines as Seoul accelerates investment in AI-powered, unmanned systems to tackle a deepening troop shortage.
-
-🔗 [The Star](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall) • 11h ago
+4h ago
 
 ---
 
@@ -108,19 +108,27 @@ SEOUL: South Korea's military is exploring a strategic partnership with Hyundai 
 
 ## Google News: "robotics"
 
-**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
-
-Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
-
-TechCrunch • 3h ago
-
----
-
 **[Mind Robotics Announces $400M in New Funding to Expand Industrial Robotics Deployment](https://www.businesswire.com/news/home/20260513731983/en/Mind-Robotics-Announces-%24400M-in-New-Funding-to-Expand-Industrial-Robotics-Deployment)**
 
 Mind Robotics today announced a $400 million financing led by Kleiner Perkins, bringing total investment in Mind Robotics to more than $1 billion. This finan...
 
-Business Wire • 4h ago
+Business Wire • 6h ago
+
+---
+
+**[Rivian shares jump as AI robotics spinout Mind Robotics closes $400M round](https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html)**
+
+Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+
+Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+
+TechCrunch • 4h ago
 
 ---
 
@@ -132,17 +140,17 @@ Global Times • 1d ago
 
 ---
 
-**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
-
-The Economist • 2d ago
-
----
-
 **[After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show](https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html)**
 
 Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
 
 Yahoo Finance • 1d ago
+
+---
+
+**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
+
+The Economist • 2d ago
 
 ---
 
@@ -168,17 +176,9 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Ouster: Ride Robotics Wave (NASDAQ:OUST)](https://seekingalpha.com/article/4903033-ouster-ride-robotics-wave)**
-
-Ouster, Inc. delivered a 49% YoY revenue jump in Q1'26, driven by record LiDAR sensor shipments and Stereolabs integration. Read the latest analysis on the stock here.
-
-Seeking Alpha • 1d ago
-
----
-
 **[China’s Unitree Reveals $650K Giant Robot That Walks, Crawls, and Smashes Walls](https://www.eweek.com/news/unitree-manned-mecha-china-robotics-apac/)**
 
-eWeek • 4h ago
+eWeek • 6h ago
 
 ---
 
@@ -192,7 +192,7 @@ Watch a team of humanoid robots running a full 8-hr shift at human performance l
 
 📺 Figure
 
-👁️ 28K • 👍 3K • 3h ago
+👁️ 28K • 👍 3K • 4h ago
 
 ---
 
@@ -212,7 +212,7 @@ QingTing Drone Is Broken? I havent used this drone since it was really released.
 
 📺 PREDATOR WR
 
-👁️ 4K • 👍 248 • 💬 41 • ⏱️ 15:19 • 7h ago
+👁️ 4K • 👍 248 • 💬 41 • ⏱️ 15:19 • 9h ago
 
 ---
 
@@ -222,7 +222,7 @@ Figure AI just revealed one of the most realistic humanoid robot demonstrations 
 
 📺 DPCcars
 
-👁️ 9K • 👍 162 • 💬 64 • ⏱️ 2:19 • 4d ago
+👁️ 9K • 👍 162 • 💬 64 • ⏱️ 2:19 • 5d ago
 
 ---
 
@@ -242,7 +242,7 @@ Unitree Robotics has released footage of its CEO piloting the GD01, a 2.7-metre 
 
 📺 Al Jazeera English
 
-👁️ 101K • 👍 3K • 💬 214 • ⏱️ 0:59 • 20h ago
+👁️ 101K • 👍 3K • 💬 214 • ⏱️ 0:59 • 21h ago
 
 ---
 

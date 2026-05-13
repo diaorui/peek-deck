@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-13T19:56:17.403279+00:00'
+updated: '2026-05-13T21:27:32.116831+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 13, 2026 at 19:56 UTC  
+**Last Updated:** May 13, 2026 at 21:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -0.6%  
-**30d:** +7.3%  
-**90d:** +15.6%  
-**1y:** -23.1%  
+**24h:** -1.5%  
+**7d:** -0.7%  
+**30d:** +7.1%  
+**90d:** +15.4%  
+**1y:** -23.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 ...they just don't know what it is and what the fix is. If you're buying bitcoin because you know how the money is broken, you are going to make it. Just stop for a moment and look around you. The vast majority of people you see, still don't get it and will have to pay for that mistake.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,29 +89,21 @@ Rank #1
 
 For those of us who remember running nodes back when the block subsidy was 50 BTC, watching this animation hits differently. We’ve watched this network grow from a cypherpunk curiosity on an obscure cryptography mailing list into the immutable anchor of a new global financial system. Satoshi’s algorithmic monetary policy is doing exactly what it was programmed to do. No bailouts. No printing presses. Just pure, unyielding math. Look closely at the chart. That massive blue area? That is the era of distribution. We lived through it. That microscopic sliver remaining in the circle? That is the battleground for the next century. Our children and grandchildren will live in an era where nation-states and institutions fight over fractions of what ordinary people could mine on a laptop in 2010. The era of easy accumulation is definitely over. We are now entering the era of absolute supply shock. We want to hear from both the veterans and the newcomers in here: During which epoch/halving era did you finally fall down the rabbit hole? As we look toward that final 1 million BTC stretched over 114 years, how do you see the network adapting as the security budget transitions entirely to transaction fees? Tip of the hat to the creator, Wicked (@w_s_bitcoin / wickedsmartbitcoin.com), for putting together one of the most powerful visual representations of Bitcoin's issuance we've ever seen. Credit where it's due.
 
-9h ago
+10h ago
+
+---
+
+**[AI helps man recover $400,000 in Bitcoin 11 years after he got high and forgot password](https://www.reddit.com/r/Bitcoin/comments/1tccwrj/ai_helps_man_recover_400000_in_bitcoin_11_years/)**
+
+A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade, with help from Anthropic’s AI chatbot Claude. The user, known as Cprkrn on X, shared the wild crypto recovery story on May 13, saying Claude helped him regain access to 5 Bitcoin after years of failed attempts. “Holy f**king sht omg Claude just cracked this sht,” he wrote in the viral post, thanking Anthropic and CEO Dario Amodei. At the time of writing, Bitcoin is trading at around $79,600, putting the 5 BTC recovery at roughly $398,000. According to the thread, the wallet had been locked since the user’s college days. He said he originally bought the crypto when it was worth around $250 per coin, before losing access after changing the wallet password while high. The password, as later revealed in the post, was: “lol420fuckthePOLICE!*:)” The user said he had tried for years to recover the funds, claiming he ran through trillions of possible password combinations. However, the breakthrough reportedly came when he uploaded files from his old college computer into Claude. Rather than simply guessing the password, Claude helped dig through the old files and identify an older wallet.dat file that appeared to predate the password change. The user also reportedly had an old mnemonic phrase, which helped unlock the wallet once the correct file was found. BTCRecover, a known wallet recovery tool, is designed for cases where users already know most of a wallet password or seed but need help testing variations. Its documentation says it supports Bitcoin Core wallet recovery, among several other wallet types. The story quickly spread across crypto and AI circles, with many pointing out that Claude did not “break” Bitcoin’s security. Instead, it helped the user sort through old files, understand what had gone wrong, and recover access using valid wallet data. Still, for anyone with old hard drives lying around, it is also a brutal reminder: your forgotten files could be worth more than you think. Cprkrn even said he plans on naming his child after Anthropic CEO Dario Amodei, which seems like a fair deal considering he’s now around $400,000 richer.
+
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 20m ago
 
 ---
 
 **[Bitcoin Protects the Pursuit of Happiness Itself](https://www.reddit.com/r/Bitcoin/comments/1tc5kya/bitcoin_protects_the_pursuit_of_happiness_itself/)**
 
-3h ago
-
----
-
-**[Would you sell tech stocks to buy BTC ?](https://www.reddit.com/r/Bitcoin/comments/1tbubgj/would_you_sell_tech_stocks_to_buy_btc/)**
-
-Would you sell tech stocks currently at high valuation to buy BTC ? The BTC doesn’t track perfectly the Nasdaq for months so maybe it could be a good hedge in case of market correction Of course you will probably say yes, we are in the BTC sub, but I’m looking for thoughts
-
-10h ago
-
----
-
-**[Australia's new CGT treatment and how it affects bitcoiners plus one benefit that NOBODY is talking about! (yet)](https://www.reddit.com/r/Bitcoin/comments/1tc0fzn/australias_new_cgt_treatment_and_how_it_affects/)**
-
-Hi Bitcoiners. I was the guy who wrote the long post almost a month ago about the upcoming tax changes when everyone still thought they were only applicable to realestate. I just wanted to run you all through what the official changes are and how they will effect us. I've also found something hidden away in the budget papers that early Bitcoiners are going to like a lot... So... Here we are... The Budget's been handed down and it's not great but it's also not as bad as some had thought. Grandfathering: Current Bitcoiners will have their 50% capital gains tax disscount PARTIALLY grandfathered. There will be a "Snapshot" taken on July 1 2027 and let's hope there's some big moves to the upside between now and then because that snapshot is going to be VERY important for us. We'll be able to use that price at ANY POINT IN THE FUTURE and only be taxed on HALF of it with the benefit of our 50% discount. Now here's the thing no body's talking about and OG Bitcoiners with low cost basis will LOVE THIS! We'll be allowed to RESET our cost base to that July 1st 2027 snap shot price. Not only will our 50% CGT discount be grandfathered up to that point but we'll be able to take our cost base (which in my case is almost ZERO) and make it MUCH higher. With this higher cost base, We'll pay much less tax than originally thought on gains made after July 1 2027 because of three reasons. Our cost base is higher and gains are only calculated on money made ABOVE that amount We'll be able to index the NEW cost base with CPI further reducing tax on our post 2027 gains. If the price of bitcoin goes DOWN after July 1 2027, We'll be able to book that as a tax loss, We'll even be able to deduct that LOSS off of the grandfathered pre July 1 2027 GAIN! Please keep in mind that any of the gains made under the new system will have a MINIMUM CGT bill of 30% but the gains from the grandfathered portion won't... Look guys, Nothing in the new tax system makes things better for us than we had it before but we're largely protected and OG bitcoiners with zero(ish) cost basis like myself will probably be pretty happy with the cost base reset. There are a number of ways to make it work for you! As for the "younger generation" who this budget was designed to uplift? Well... You haven't yet had a chance to delve into Bitcoin (or any asset for that matter) and you guys are screwed... ----- Source: The 50 per cent CGT discount will apply to the difference between the asset’s cost base and its value at 1 July 2027. Indexation and the minimum tax will be used to calculate the CGT on gains accruing from 1 July 2027 (using the asset’s value at 1 July 2027 as the asset’s cost base).” -Budget Papers
-
-5h ago
+4h ago
 
 ---
 
@@ -119,7 +111,31 @@ Hi Bitcoiners. I was the guy who wrote the long post almost a month ago about th
 
 Daniela Brozzoni, Naiyoma, and Thomas Voegtlin joined Optech to discuss Newsletter #404: - Possible solutions to the node fingerprinting problem using addr message timestamps - A proposal for public fraud proofs to improve incentives around just-in-time channels - And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/05/12/ Spotify: https://open.spotify.com/episode/2N0c9EIFB032zrdojGpaTr Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-404-recap/id1674626983?i=1000767590181
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/05/12/) • 2h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/05/12/) • 4h ago
+
+---
+
+**[Would you sell tech stocks to buy BTC ?](https://www.reddit.com/r/Bitcoin/comments/1tbubgj/would_you_sell_tech_stocks_to_buy_btc/)**
+
+Would you sell tech stocks currently at high valuation to buy BTC ? The BTC doesn’t track perfectly the Nasdaq for months so maybe it could be a good hedge in case of market correction Of course you will probably say yes, we are in the BTC sub, but I’m looking for thoughts
+
+12h ago
+
+---
+
+**[Is Cashapp the cheapest place to buy spot bitcoin in US?](https://www.reddit.com/r/Bitcoin/comments/1tc77kc/is_cashapp_the_cheapest_place_to_buy_spot_bitcoin/)**
+
+I have never used cashapp until recently, and have been a diehard strike user. But cashapp is cheaper than strike Coinbase or river for spot buys. I still dca through strike, but has anyone else noticed this?
+
+3h ago
+
+---
+
+**[Australia's new CGT treatment and how it affects bitcoiners plus one benefit that NOBODY is talking about! (yet)](https://www.reddit.com/r/Bitcoin/comments/1tc0fzn/australias_new_cgt_treatment_and_how_it_affects/)**
+
+Hi Bitcoiners. I was the guy who wrote the long post almost a month ago about the upcoming tax changes when everyone still thought they were only applicable to realestate. I just wanted to run you all through what the official changes are and how they will effect us. I've also found something hidden away in the budget papers that early Bitcoiners are going to like a lot... So... Here we are... The Budget's been handed down and it's not great but it's also not as bad as some had thought. Grandfathering: Current Bitcoiners will have their 50% capital gains tax disscount PARTIALLY grandfathered. There will be a "Snapshot" taken on July 1 2027 and let's hope there's some big moves to the upside between now and then because that snapshot is going to be VERY important for us. We'll be able to use that price at ANY POINT IN THE FUTURE and only be taxed on HALF of it with the benefit of our 50% discount. Now here's the thing no body's talking about and OG Bitcoiners with low cost basis will LOVE THIS! We'll be allowed to RESET our cost base to that July 1st 2027 snap shot price. Not only will our 50% CGT discount be grandfathered up to that point but we'll be able to take our cost base (which in my case is almost ZERO) and make it MUCH higher. With this higher cost base, We'll pay much less tax than originally thought on gains made after July 1 2027 because of three reasons. Our cost base is higher and gains are only calculated on money made ABOVE that amount We'll be able to index the NEW cost base with CPI further reducing tax on our post 2027 gains. If the price of bitcoin goes DOWN after July 1 2027, We'll be able to book that as a tax loss, We'll even be able to deduct that LOSS off of the grandfathered pre July 1 2027 GAIN! Please keep in mind that any of the gains made under the new system will have a MINIMUM CGT bill of 30% but the gains from the grandfathered portion won't... Look guys, Nothing in the new tax system makes things better for us than we had it before but we're largely protected and OG bitcoiners with zero(ish) cost basis like myself will probably be pretty happy with the cost base reset. There are a number of ways to make it work for you! As for the "younger generation" who this budget was designed to uplift? Well... You haven't yet had a chance to delve into Bitcoin (or any asset for that matter) and you guys are screwed... ----- Source: The 50 per cent CGT discount will apply to the difference between the asset’s cost base and its value at 1 July 2027. Indexation and the minimum tax will be used to calculate the CGT on gains accruing from 1 July 2027 (using the asset’s value at 1 July 2027 as the asset’s cost base).” -Budget Papers
+
+7h ago
 
 ---
 
@@ -131,27 +147,11 @@ Block Inc.’s (XYZ) Square has crossed a threshold of roughly 1 million merchan
 
 ---
 
-**[Is Cashapp the cheapest place to buy spot bitcoin in US?](https://www.reddit.com/r/Bitcoin/comments/1tc77kc/is_cashapp_the_cheapest_place_to_buy_spot_bitcoin/)**
-
-I have never used cashapp until recently, and have been a diehard strike user. But cashapp is cheaper than strike Coinbase or river for spot buys. I still dca through strike, but has anyone else noticed this?
-
-2h ago
-
----
-
 **[No man should work ...](https://www.reddit.com/r/Bitcoin/comments/1tb8wnl/no_man_should_work/)**
 
 Is Jack right, or is he right, or... is he right?
 
 1d ago
-
----
-
-**[Daily Discussion, May 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1tbr0ei/daily_discussion_may_13_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-13h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin held by so-called conviction buyers has surged to nearly 4 million BTC, a roughly 300% increase since late 2025,
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -171,31 +171,15 @@ CoinDesk • 3h ago
 
 Metaplanet posted a $725.6 million net loss driven by bitcoin mark-to-market valuation markdowns even as operating profit rose 283%.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Wobble As Markets Await Clarity Act Markup, Dogecoin Extends Rally](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-wobble-markets-190118320.html)**
+**[Bitcoin (BTC) ETFs See 7 Weeks of Inflows: Is the Institutional Bid Back?](https://finance.yahoo.com/news/bitcoin-btc-etfs-see-7-202711367.html)**
 
-Bitcoin slipped below $80,000 on Wednesday as crypto markets turned cautious ahead of Thursday's highly anticipated U.S. Senate Banking Committee markup meeting on the Clarity Act. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$79,611Ethereum(CRYPTO: ETH)$2,258.88Solana(CRYPTO: SOL)$90.92XRP(CRYPTO: XRP)$1.42Dogecoin(CRYPTO: DOGE)$0.1132Shiba Inu(CRYPTO: SHIB)$0.056293 Notable Statistics: Coinglass data shows 120,108 traders were liquidated in the past 24 hours for $374.66 million. SoSoValue data
+Spot Bitcoin ETFs are once again attracting serious institutional capital, posting seven straight weeks of inflows as investor appetite for regulated Bitcoin (CRYPTO: BTC) exposure strengthens. The sustained momentum comes after a volatile start to the year and is now raising fresh speculation that Wall Street’s Bitcoin bid may be returning. For many analysts, the ... Bitcoin (BTC) ETFs See 7 Weeks of Inflows: Is the Institutional Bid Back?
 
-Yahoo Finance • 54m ago
-
----
-
-**[Why is bitcoin down today: Hotter-than-expected inflation data knocks BTC below $80,000](https://www.coindesk.com/markets/2026/05/13/live-markets-bitcoin-dips-below-usd80-000-as-producer-price-inflation-surges-to-6)**
-
-U.S. PPI surged well above forecasts in April, reviving concerns that rising oil prices and Iran-related supply risks may feed another inflation wave.
-
-CoinDesk • 55m ago
-
----
-
-**[Grant Cardone sees a real estate meltdown coming, and he's ready with Bitcoin](https://www.coindesk.com/video/grant-cardone-sees-a-real-estate-meltdown-coming-and-hes-ready-with-bitcoin)**
-
-Grant Cardone joins CoinDesk Live at Consensus 2026 in Miami to explain his real estate-Bitcoin hybrid strategy — stacking $100M of Bitcoin on a $235M Boca Raton property. Plus, why Michael Saylor advised him to drop the real estate altogether, his takedown of the crypto community's "degenerate investing," and an oddly specific Bitcoin year-end target: $189,425. | CoinDesk Videos
-
-CoinDesk • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,15 +187,15 @@ CoinDesk • 42m ago
 
 Charles Schwab is bringing Bitcoin trading to Main Street: the $11.77 trillion brokerage giant has launched spot BTC trading for U.S. retail clients, deepening Wall Street’s accelerating embrace of digital assets.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
-**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://finance.yahoo.com/news/charles-schwab-begins-offering-bitcoin-163105799.html)**
+**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://decrypt.co/367768/charles-schwab-begins-bitcoin-ethereum-trading-us-users)**
 
 Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
-Yahoo Finance • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -219,21 +203,35 @@ Yahoo Finance • 3h ago
 
 Bitcoin (CRYPTO: BTC) spot ETFs saw $233.25 million in net outflows on May 12 as Charles Schwab Corp. (NYSE:SCHW) rolled out spot crypto trading to select retail clients with $11.77 trillion in assets under management. BlackRock And Fidelity Lead Outflows BlackRock’s iShares Bitcoin Trust (NASDAQ:IBIT) and Fidelity’s Wise Origin Bitcoin Fund (BATS:FBTC) led outflows with -$32.95 million and –$86.13 million respectively. Meanwhile, Ethereum (CRYPTO: ETH) ETFs fared worse on a percentage basis, wi
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Wobble As Markets Await Clarity Act Markup, Dogecoin Extends Rally](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-wobble-markets-190118320.html)**
+
+Bitcoin slipped below $80,000 on Wednesday as crypto markets turned cautious ahead of Thursday's highly anticipated U.S. Senate Banking Committee markup meeting on the Clarity Act. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$79,611Ethereum(CRYPTO: ETH)$2,258.88Solana(CRYPTO: SOL)$90.92XRP(CRYPTO: XRP)$1.42Dogecoin(CRYPTO: DOGE)$0.1132Shiba Inu(CRYPTO: SHIB)$0.056293 Notable Statistics: Coinglass data shows 120,108 traders were liquidated in the past 24 hours for $374.66 million. SoSoValue data
+
+Yahoo Finance • 2h ago
+
+---
+
+**[XRP traders target $1.5 as Ripple-linked token tops bitcoin (BTC) volumes in Korea](https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges)**
+
+XRP/KRW was the most traded pair on Upbit and second on Bithumb, a familiar Korean market signal that has often preceded sharper moves in the token.
+
+CoinDesk • 14h ago
+
+---
+
+**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+
+Disruption Banking • 1d ago
 
 ---
 
 **[The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first](https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7)**
 
 MarketWatch • 1d ago
-
----
-
-**[Current price of Bitcoin for May 12, 2026](https://fortune.com/article/price-of-bitcoin-05-12-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
 
 ---
 
@@ -245,7 +243,7 @@ Fortune • 1d ago
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 4d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 5d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -289,7 +287,7 @@ Coinbase CEO Brian Armstrong joins 'Mornings with Maria' to break down Senate cr
 
 📺 Fox Business
 
-👁️ 64K • 👍 2K • 💬 466 • ⏱️ 19:24 • 5h ago
+👁️ 64K • 👍 2K • 💬 466 • ⏱️ 19:24 • 6h ago
 
 ---
 
@@ -299,7 +297,7 @@ The crypto market is at a massive crossroads. In today's video, we deep dive int
 
 📺 Gareth Soloway
 
-👁️ 26K • 👍 2K • 💬 115 • ⏱️ 9:16 • 7h ago
+👁️ 26K • 👍 2K • 💬 115 • ⏱️ 9:16 • 9h ago
 
 ---
 
@@ -329,7 +327,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 61K • 👍 2K • 💬 85 • ⏱️ 16:20 • 1d ago
+👁️ 61K • 👍 2K • 💬 85 • ⏱️ 16:20 • 2d ago
 
 ---
 
@@ -339,7 +337,7 @@ Bitcoin bulls say the bottom is in, but recession fears are exploding across hou
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 164 • ⏱️ 12:39 • 21h ago
+👁️ 20K • 👍 1K • 💬 164 • ⏱️ 12:39 • 23h ago
 
 ---
 
@@ -369,7 +367,7 @@ Bitcoin is holding around $80000 as President Trump arrives in Beijing for talks
 
 📺 CoinDesk
 
-👁️ 311 • 👍 7 • ⏱️ 1:15 • 2h ago
+👁️ 311 • 👍 7 • ⏱️ 1:15 • 4h ago
 
 ---
 
