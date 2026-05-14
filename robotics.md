@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-14T14:13:28.150472+00:00'
+updated: '2026-05-14T16:28:17.467884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 14, 2026 at 14:13 UTC  
+**Last Updated:** May 14, 2026 at 16:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-8h ago
+10h ago
 
 ---
 
@@ -44,19 +44,41 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
 
-11h ago
+13h ago
 
 ---
 
 **[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
 
-21h ago
+23h ago
 
 ---
 
 **[Wuji tech teases its newest, most advanced humanoid hand](https://www.reddit.com/r/robotics/comments/1tc541q/wuji_tech_teases_its_newest_most_advanced/)**
 
-21h ago
+23h ago
+
+---
+
+**[Humanoid Robot like Unitree G1](https://www.reddit.com/r/robotics/comments/1td2a2n/humanoid_robot_like_unitree_g1/)**
+
+How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robota at home under 10k but what about an humanoid? Is it even feasible?
+
+36m ago
+
+---
+
+**[LD Robot D500 Watermark on my rover](https://www.reddit.com/r/robotics/comments/1td0x4r/ld_robot_d500_watermark_on_my_rover/)**
+
+Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
+
+1h ago
+
+---
+
+**[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
+
+11m ago
 
 ---
 
@@ -64,7 +86,15 @@ CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 8h ago
+
+---
+
+**[Robot Orders Hold Steady in Q1 2026 as Demand Broadens Across Non-Automotive Industries](https://www.reddit.com/r/robotics/comments/1tczjwf/robot_orders_hold_steady_in_q1_2026_as_demand/)**
+
+A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
+
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 2h ago
 
 ---
 
@@ -72,39 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hey r/robotics community, A couple weeks back, I asked about how you all were managing AI development in robotics and I got a bunch of great responses. To summarize: My problems ROS 1 and ROS 2 commands/syntax, Gazebo versions, are consistently confused by Claude Code Claude doesn't really understand the asynchronous messaging structure or any runtime-specific errors/bugs I may run into due to its code The changes Claude Code makes during my development often lead my code in the wrong direction, making debugging take even longer Your solutions Many of you mentioned building custom tooling and skills really helps Claude orient itself Supplying your own context and description of the repository and standardizing it across claude sessions using an `ARCHITECTURE.md` / `CLAUDE.md` also really helps Minimal working examples are also very helpful. Having somewhere Claude can turn to and say, "this is a simple example of how things are supposed to work" helps the agent orient itself I implemented four changes into my setup: Custom MCP tools and skills Supplying context from my own repository Supplying minimal working examples I made myself and found off the internet Supplying documentation relevant to my software stack. For me, that was ROS 2 Jazzy, Gazebo Harmonic, PX4, and Nav2 After making these changes, I've seen a pretty sizeable increase in my development speed using AI in robotics. Previously, I was trying to fill my context window with the code I've already written, but that seemed to not be enough context for Claude to actually understand the software architecture or data pipeline in my codebase. With the changes I've mentioned above, I actually noticed that I can let Claude develop new nodes and software. There's significantly less problems when integrating Claude's code and existing code from what I've seen so far. One thing that was always an annoyance for me was Claude's lack of understanding of what was ROS 1 and what was ROS 2. I ended up creating a RAG database that can input relevant documentation for whatever Claude was working on and that's worked incredibly well. With this in pairing with some custom tool calls I've made, my setup no longer has any confusion on what's ROS 2 and what commands I have access to running ROS 2 Jazzy and Gazebo Harmonic in particular. Thanks for all of your help! I thought I'd leave this post here for those who may also run into something similar trying to use Claude Code for robotics. I'm considering even doing some custom evals for this setup on robotics-specific coding problems because of how much more consistent this setup seems to be. If anyone's already done something similar to this, would love to hear about it in the comments. Cheers!
 
-21h ago
-
----
-
-**[Robot hands](https://www.reddit.com/r/robotics/comments/1tcijo4/robot_hands/)**
-
-If Watch Makers The Big Ones Decided to make robot hands will they be able to make it as reliable as watches they’re making Because i see all the robots and hands are most complicated part. And it seems hands will brake a lot.
-
-13h ago
-
----
-
-**[Editing single waypoints in a RoboDK-generated URScript](https://www.reddit.com/r/robotics/comments/1tcqrvi/editing_single_waypoints_in_a_robodkgenerated/)**
-
-I’m using a RoboDK-generated .script program on a UR e-Series robot with an OnRobot RG2 gripper, and I need to slightly correct a few individual motions. Is there an easy way to do this directly on the robot? For example, can I use Freedrive to move the robot to the correct position and somehow copy the TCP coordinates/pose into the script, or is editing individual motions inside a generated .script file generally not practical?
-
-6h ago
-
----
-
-**[Tube magazine feeder](https://www.reddit.com/r/robotics/comments/1tbmin8/tube_magazine_feeder/)**
-
-Hello. I would like to get some ideas on how I could extend this tube feeder magazine while staying inside the safety fence. Or does anyone have a complete redesign for a much better design? I need to be able to feed it from the outside of the cage. I don't have too much room in the cell and I am looking to find a way to fit more of the tubes. The machine goes through about 1 tube every 4 or 5 seconds. With only room for 8 tubes that's only about a 40 second buffer. It would be nice to have at least a few minutes buffer so the operator had time to do other small things while feeding the machine. Thanks.
-
 1d ago
-
----
-
-**[Anyone working with the Unitree G1 basic?](https://www.reddit.com/r/robotics/comments/1tcbuob/anyone_working_with_the_unitree_g1_basic/)**
-
-Anyone working with the Unitree G1 basic and have opened it up to review the motherboard? I am curious if it is the same as the EDU and just missing the jetson? I know other things are missing such as some wiring, the leg motors are slightly stronger on EDU. I am curious to see what mods can be done, what integration can occur. I know secondary development is not available on the basic, but if you slotted in a jetson or added another piggyback system, expansion can occur. Of course, this depends on integration with the mainboard. Just curious what others have done.
-
-17h ago
 
 ---
 
@@ -116,7 +114,7 @@ Anyone working with the Unitree G1 basic and have opened it up to review the mot
 
 A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
 
-Crain's Chicago Business • 18h ago
+Crain's Chicago Business • 20h ago
 
 ---
 
@@ -124,7 +122,7 @@ Crain's Chicago Business • 18h ago
 
 Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -132,7 +130,7 @@ Yahoo Finance • 21h ago
 
 Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
 
-TechCrunch • 21h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -148,21 +146,13 @@ Global Times • 2d ago
 
 ISG Research recognition highlights Hitachi’s end-to-end expertise in delivering physical AI solutions to mission-critical domains.
 
-Business Wire • 1h ago
-
----
-
-**[AmbiStack Selected for 2026 RBR50 Awards, Marking Third Recognition for Ambi Robotics](https://www.businesswire.com/news/home/20260514866490/en/AmbiStack-Selected-for-2026-RBR50-Awards-Marking-Third-Recognition-for-Ambi-Robotics)**
-
-AmbiStack Selected for 2026 RBR50 Awards, Marking Third Recognition for Ambi Robotics
-
 Business Wire • 3h ago
 
 ---
 
 **[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -170,7 +160,7 @@ Bloomberg.com • 8h ago
 
 With the global race for artificial intelligence and robotics technology in full swing, David Muir takes a closer look at the humanoid robots being built in China.
 
-ABC News - Breaking News, Latest News and Videos • 14h ago
+ABC News - Breaking News, Latest News and Videos • 16h ago
 
 ---
 
@@ -182,11 +172,19 @@ FOX Weather • 1d ago
 
 ---
 
-**[NASA Invites Media to Annual Lunabotics Robotics Competition](https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/)**
+**[Humanoid Robotics In 2026: The Race From Pilot To Platform](https://kraneshares.com/humanoid-robotics-in-2026-the-race-from-pilot-to-platform/)**
 
-NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
+The Robots Have Clocked In When Japan Airlines (JAL) deployed humanoid robots at Tokyo’s Haneda Airport in May 2026, the industry’s message was hard to miss. This was not a press conference stunt but a three-year operational commitment from a legacy aviation carrier in one of the world’s most safety-conscious regulatory environments, tasked with solving […]
 
-NASA (.gov) • 16h ago
+KraneShares • 2d ago
+
+---
+
+**[Helix-02 humanoid robot handles full 8-hour factory work shifts](https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts)**
+
+Figure AI says its Helix-02 humanoid robots can now autonomously run full 8-hour work shifts.
+
+Interesting Engineering • 19h ago
 
 ---
 
@@ -200,17 +198,7 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 142 • 💬 17 • ⏱️ 55:02 • 23h ago
-
----
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 2K • 👍 54 • 💬 9 • ⏱️ 21:16 • 20h ago
+👁️ 6K • 👍 152 • 💬 18 • ⏱️ 55:02 • 1d ago
 
 ---
 
@@ -220,7 +208,17 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 21K • 👍 428 • 💬 204 • ⏱️ 3:03 • 15h ago
+👁️ 40K • 👍 993 • 💬 491 • ⏱️ 3:03 • 17h ago
+
+---
+
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+
+📺 Technology with Tyler
+
+👁️ 3K • 👍 65 • 💬 11 • ⏱️ 21:16 • 22h ago
 
 ---
 
@@ -230,7 +228,7 @@ The world's first production-ready manned mecha. It can transform. It's a civili
 
 📺 Unitree Robotics
 
-👁️ 1.2M • 👍 11K • 💬 3K • ⏱️ 1:15 • 2d ago
+👁️ 1.5M • 👍 11K • 💬 3K • ⏱️ 1:15 • 2d ago
 
 ---
 
@@ -240,57 +238,57 @@ Apple's new home robot iSiri is being described as a major step toward fully aut
 
 📺 Carros Show
 
-👁️ 19K • 👍 265 • 💬 28 • ⏱️ 23:07 • 1d ago
+👁️ 19K • 👍 263 • 💬 29 • ⏱️ 23:07 • 1d ago
 
 ---
 
-**[Figure Helix 02 Humanoid Robot Cleans Bedroom Like a Human](https://www.youtube.com/watch?v=xsLOYZxIUqc)**
+**[🚨⚡ HAPPENING NOW: Figure.03 Live: The Robot Workday Has Begun](https://www.youtube.com/watch?v=c8xL4Ff-DjA)**
 
-Figure AI just revealed one of the most realistic humanoid robot demonstrations yet. The new Helix 02 robot cleaned and ...
+Figure.03 is attempting its first-ever on-camera, LIVE fully autonomous 8-hour humanoid robot work shift - a potential turning point ...
 
-📺 DPCcars
+📺 Over The Horizon
 
-👁️ 10K • 👍 163 • 💬 65 • ⏱️ 2:19 • 5d ago
-
----
-
-**[Forget About Any Job Forever With This $5,000 AI Robot - It Will Do Everything For You](https://www.youtube.com/watch?v=GBlCDrN7t2s)**
-
-A new generation of AI robots is being designed to handle everyday tasks with minimal human involvement, from communication ...
-
-📺 Carros Show
-
-👁️ 8K • 👍 107 • 💬 13 • ⏱️ 20:56 • 5d ago
+👁️ 10K • 👍 232 • 💬 7 • ⏱️ 8:11:35 • 14h ago
 
 ---
 
-**[What I Learned from My Sex Robot Twin | Dr. Debra Soh](https://www.youtube.com/watch?v=SINlo5uxWaM)**
+**[The mecha robot that&#39;s actually production-ready #unitree #engineering #robotics](https://www.youtube.com/watch?v=vEMHIgqI-NU)**
 
-Dave Rubin of “The Rubin Report” talks to Dr. Debra Soh about her own experience with a sex robot that looked like her twin; the ...
+Unitree Robotics just introduced what it calls the world's first production-ready manned transformable mecha. The Chinese ...
 
-📺 The Rubin Report
+📺 Kalil 4.0
 
-👁️ 98K • 👍 3K • 💬 954 • ⏱️ 9:24 • 6d ago
-
----
-
-**[Are Humanoid Police Robots The Future… Or A Nightmare? 🤯](https://www.youtube.com/watch?v=hMnS0kN3_yE)**
-
-Are Humanoid Police Robots The Future… Or A Nightmare? Are humanoid police robots the future of safety… or the beginning ...
-
-📺 Milopax
-
-👁️ 648K • 👍 9K • 💬 1K • ⏱️ 0:26 • 5d ago
+👁️ 11K • 👍 247 • 💬 15 • ⏱️ 0:41 • 2d ago
 
 ---
 
-**[MIT Created Shape Shifting Robots That Reshape Themselves](https://www.youtube.com/watch?v=MXZBYAHdhBs)**
+**[Meet the AI powered robot assistant helping Germans shop](https://www.youtube.com/watch?v=_iEb54geLMk)**
 
-Researchers at MIT (Massachusetts Institute of Technology), including students and faculty in the Computer Science and Artificial ...
+A humanoid robot named Schotti is working as a shop assistant in Germany, guiding customers to products as part of a test of ...
 
-📺 Existenzia
+📺 Reuters
 
-👁️ 66K • 👍 357 • 💬 12 • ⏱️ 0:07 • 5d ago
+👁️ 408 • 👍 13 • 💬 6 • ⏱️ 2:16 • 2h ago
+
+---
+
+**[The Most Insane Robot I&#39;ve Ever Seen](https://www.youtube.com/watch?v=m2KEIiB1WHE)**
+
+New shorts each and every day. Hit subscribe if you enjoy our content!
+
+📺 VEXR
+
+👁️ 12K • 👍 495 • 💬 27 • ⏱️ 0:29 • 1h ago
+
+---
+
+**[Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful &amp; Alphabet Combine Robot Collection](https://www.youtube.com/watch?v=HXFRTRROKWQ)**
+
+Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful & Alphabet Combine Robot Collection: ...
+
+📺 Bob ToysReview
+
+👁️ 2K • 👍 9 • ⏱️ 14:30 • 7h ago
 
 ---
 
