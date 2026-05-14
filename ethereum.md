@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-13T22:48:17.875439+00:00'
+updated: '2026-05-14T00:00:20.904605+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 13, 2026 at 22:48 UTC  
+**Last Updated:** May 14, 2026 at 00:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.5%  
-**30d:** -2.8%  
+**24h:** -1.0%  
+**7d:** -1.4%  
+**30d:** -2.7%  
 **90d:** +10.2%  
 **1y:** -13.6%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Three months after mainnet launched, Vitalik deployed an advertising auction system to Ethereum. Eight ad slots, four auction mechanisms (one-phase winner-pays, cumulative, sealed-bid first-price, sealed-bid second-price), all managed by a factory contract called adStorer from ethereum/dapp-bin. I matched the deployed bytecode to source through compiler archaeology. Exact match, 8,752 bytes, solc v0.1.1. Then I decoded every transaction across all 8 child auction contracts. The only bidder was Vitalik himself. Two wallets (his old deployer and what’s now vitalik.eth), 229 transactions, 0.064 ETH in bids. The winning “advertisements” were two image URLs: me.jpg (a photo of himself) and heiko.jpg (a photo of Heiko Hees, who was building pyethereum). Both are 404 today. Some details: Slot 5 is a second-price sealed-bid auction. vitalik.eth bid 0.0005 ETH, his old wallet bid 0.0003 ETH. Second-price rules made vitalik.eth pay the runner-up’s price. The first Vickrey auction on Ethereum selected a photo of a pyethereum developer over its own creator. Gas cost more than the bids. Vitalik burned ~1 ETH on gas (at 60 gwei, hard-coded in his deploy script) to move 0.064 ETH through the auction mechanics. At October 2015 prices, the whole experiment cost about $2. Slot 1 was a stress test. 159 transactions, with Vitalik rebidding the same 0.0001 ETH increment 19 times in a row to validate cumulative bidding. Three of the four all-pay auction variants got zero bids. He abandoned the one he tried before revealing. Even Vitalik didn’t trust his own all-pay math. The sealed-bid auctions had a frontend bug where bid hashes were passed as ASCII hex instead of raw bytes, making commitments readable in calldata. Didn’t matter since the only participant wrote the code. 0.029 ETH (~$70 today, $0.03 in 2015) is still locked in the child contracts from unrevealed sealed bids. This was deployed three weeks before DevCon 1, on a network with maybe a few hundred users. A mechanism design experiment that nobody participated in except its creator, preserved on-chain for ten years. I checked the Wayback Machine for the ad images. The closest capture of vitalik.ca/files/ is from June 2016. Neither photo was archived. Full documentation with verified source, decoded bids, and all 8 slots mapped: https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e This is part of the EthereumHistory project where we’re documenting and verifying the earliest Ethereum contracts. If you want to help, the project is open.
 
-🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 9h ago
+🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Three months after mainnet launched, Vitalik deployed an advertising auction sys
 
 I get the basics of how Ethereum works, but I’m trying to understand the institutional side better. What do they actually want from it? And does their involvement change where Ethereum is headed, whether that’s decentralization, governance, or how the protocol develops? Genuinely curious what people who follow this space think.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ I get the basics of how Ethereum works, but I’m trying to understand the insti
 
 My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
 
-6h ago
+7h ago
 
 ---
 
@@ -96,19 +96,19 @@ My bank has flagged two of my transfers to a crypto exchange in the last three m
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[Aztec Foundation contributes 1% of AZTEC token supply toward supporting Ethereum Core Development via Protocol Guild](https://www.reddit.com/r/ethereum/comments/1tc65xb/aztec_foundation_contributes_1_of_aztec_token/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 6h ago
 
 ---
 
 **[Grayscale weighs in on Ethereum issuance](https://www.reddit.com/r/ethereum/comments/1tbndv4/grayscale_weighs_in_on_ethereum_issuance/)**
 
-🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 19h ago
+🔗 [grayscale.com](https://www.grayscale.com/the-stack/ethereums-staking-model-needs-an-update) • 20h ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance. By utilizing Chainlink’s Runtime Environment (CRE) and data standards to automate pricing, margining, and settlement, the deal demonstrates that decentralized oracles can securely manage critical financial workflows. This positions Chainlink as a default infrastructure layer for tokenized real-world assets (RWA), potentially increasing its usage across other financial institutions following DTCC’s October 2026 launch. For the broader financial ecosystem, the partnership accelerates the tokenization of assets on blockchain rails. It enables 24/7 near real-time collateral management, moving away from legacy T+1 or T+2 settlement times to instant, smart-contract-verified transactions. This efficiency improves capital utilization for institutions and sets a precedent for other clearinghouses to adopt similar Ethereum-based and Chainlink-powered infrastructures.
 
-23h ago
+1d ago
 
 ---
 
@@ -152,7 +152,7 @@ BlackRock filed for tokenized money-market fund shares on Ethereum, adding press
 
 The current near-parity gives both chains another chance to position themselves to capture volume when onchain activity rotates back.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -160,23 +160,39 @@ The Block • 9h ago
 
 Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
-**[Ethereum app builder Consensys has delayed its potential IPO until fall](https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall)**
+**[JPMorgan Launching Second Tokenized Money Market Fund on Ethereum — Bullish For ETH Price?](https://finance.yahoo.com/news/jpmorgan-launching-second-tokenized-money-100215730.html)**
 
-The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
+JPMorgan has filed for a second tokenized money market fund on Ethereum. The proposed JLTXX fund would tokenize Treasury-backed assets on Ethereum. Some analysts and ...
 
-CoinDesk • 3h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Wobble As Markets Await Clarity Act Markup, Dogecoin Extends Rally](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-wobble-markets-190118320.html)**
+**[JPMorgan launching second tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum)**
 
-Bitcoin slipped below $80,000 on Wednesday as crypto markets turned cautious ahead of Thursday's highly anticipated U.S. Senate Banking Committee markup meeting on the Clarity Act. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$79,611Ethereum(CRYPTO: ETH)$2,258.88Solana(CRYPTO: SOL)$90.92XRP(CRYPTO: XRP)$1.42Dogecoin(CRYPTO: DOGE)$0.1132Shiba Inu(CRYPTO: SHIB)$0.056293 Notable Statistics: Coinglass data shows 120,108 traders were liquidated in the past 24 hours for $374.66 million. SoSoValue data
+The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
 
-Yahoo Finance • 3h ago
+The Block • 1d ago
+
+---
+
+**[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum](https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum)**
+
+Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
+
+Decrypt • 1d ago
+
+---
+
+**[Animoca-backed NUVA connects Figure's $19 billion of tokenized assets to Ethereum](https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum)**
+
+The protocol, led by veteran BNY executive Anthony Moro, aims to connect real-world assets with DeFi markets, starting with home equity lines of credit and Treasuries.
+
+CoinDesk • 8h ago
 
 ---
 
@@ -194,7 +210,7 @@ Disruption Banking • 1d ago
 
 **[Bitcoin, Ethereum and XRP Price Analysis: What’s Coming Next?](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-analysis-whats-coming-next/)**
 
-Coinpedia • 8h ago
+Coinpedia • 9h ago
 
 ---
 
@@ -203,20 +219,6 @@ Coinpedia • 8h ago
 Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
 
 Forbes • 2d ago
-
----
-
-**[Ethereum Struggles to Confirm a Breakout as Bulls Defend the Low-$2,200s](https://www.investing.com/analysis/ethereum-struggles-to-confirm-a-breakout-as-bulls-defend-the-low2200s-200680253)**
-
-Investing.com • 3h ago
-
----
-
-**[Current price of Ethereum for May 13, 2026](https://fortune.com/article/price-of-ethereum-05-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
 
 ---
 
@@ -230,7 +232,7 @@ This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NO
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 22 • ⏱️ 4:30 • 6h ago
+👁️ 5K • 👍 2K • 💬 22 • ⏱️ 4:30 • 7h ago
 
 ---
 
@@ -240,7 +242,7 @@ CharlesSchwab's Nathan Peterson offers his latest in-depth look into the price a
 
 📺 Schwab Network
 
-👁️ 108 • 👍 5 • ⏱️ 7:44 • 47m ago
+👁️ 108 • 👍 5 • ⏱️ 7:44 • 1h ago
 
 ---
 
@@ -250,7 +252,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 63 • 💬 36 • ⏱️ 10:03 • 10h ago
+👁️ 2K • 👍 63 • 💬 36 • ⏱️ 10:03 • 11h ago
 
 ---
 
@@ -270,7 +272,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 120 • 👍 7 • 💬 1 • ⏱️ 5:10 • 3h ago
+👁️ 120 • 👍 7 • 💬 1 • ⏱️ 5:10 • 4h ago
 
 ---
 
@@ -280,7 +282,7 @@ Crypto News: Elizabeth Warren pushes back on Clarity Act draft bill. JPMorgan la
 
 📺 Thinking Crypto
 
-👁️ 10K • 👍 704 • 💬 352 • ⏱️ 20:45 • 18h ago
+👁️ 10K • 👍 704 • 💬 352 • ⏱️ 20:45 • 19h ago
 
 ---
 
@@ -310,7 +312,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 3K • 👍 406 • 💬 80 • ⏱️ 24:38 • 10h ago
+👁️ 3K • 👍 406 • 💬 80 • ⏱️ 24:38 • 11h ago
 
 ---
 

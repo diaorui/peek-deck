@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-13T22:48:17.878259+00:00'
+updated: '2026-05-14T00:00:20.907719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 13, 2026 at 22:48 UTC  
+**Last Updated:** May 14, 2026 at 00:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Wuji tech teases its newest, most advanced humanoid hand](https://www.reddit.com/r/robotics/comments/1tc541q/wuji_tech_teases_its_newest_most_advanced/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hey r/robotics community, A couple weeks back, I asked about how you all were managing AI development in robotics and I got a bunch of great responses. To summarize: My problems ROS 1 and ROS 2 commands/syntax, Gazebo versions, are consistently confused by Claude Code Claude doesn't really understand the asynchronous messaging structure or any runtime-specific errors/bugs I may run into due to its code The changes Claude Code makes during my development often lead my code in the wrong direction, making debugging take even longer Your solutions Many of you mentioned building custom tooling and skills really helps Claude orient itself Supplying your own context and description of the repository and standardizing it across claude sessions using an `ARCHITECTURE.md` / `CLAUDE.md` also really helps Minimal working examples are also very helpful. Having somewhere Claude can turn to and say, "this is a simple example of how things are supposed to work" helps the agent orient itself I implemented four changes into my setup: Custom MCP tools and skills Supplying context from my own repository Supplying minimal working examples I made myself and found off the internet Supplying documentation relevant to my software stack. For me, that was ROS 2 Jazzy, Gazebo Harmonic, PX4, and Nav2 After making these changes, I've seen a pretty sizeable increase in my development speed using AI in robotics. Previously, I was trying to fill my context window with the code I've already written, but that seemed to not be enough context for Claude to actually understand the software architecture or data pipeline in my codebase. With the changes I've mentioned above, I actually noticed that I can let Claude develop new nodes and software. There's significantly less problems when integrating Claude's code and existing code from what I've seen so far. One thing that was always an annoyance for me was Claude's lack of understanding of what was ROS 1 and what was ROS 2. I ended up creating a RAG database that can input relevant documentation for whatever Claude was working on and that's worked incredibly well. With this in pairing with some custom tool calls I've made, my setup no longer has any confusion on what's ROS 2 and what commands I have access to running ROS 2 Jazzy and Gazebo Harmonic in particular. Thanks for all of your help! I thought I'd leave this post here for those who may also run into something similar trying to use Claude Code for robotics. I'm considering even doing some custom evals for this setup on robotics-specific coding problems because of how much more consistent this setup seems to be. If anyone's already done something similar to this, would love to hear about it in the comments. Cheers!
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey r/robotics community, A couple weeks back, I asked about how you all were ma
 
 Hello. I would like to get some ideas on how I could extend this tube feeder magazine while staying inside the safety fence. Or does anyone have a complete redesign for a much better design? I need to be able to feed it from the outside of the cage. I don't have too much room in the cell and I am looking to find a way to fit more of the tubes. The machine goes through about 1 tube every 4 or 5 seconds. With only room for 8 tubes that's only about a 40 second buffer. It would be nice to have at least a few minutes buffer so the operator had time to do other small things while feeding the machine. Thanks.
 
-20h ago
+21h ago
 
 ---
 
@@ -64,13 +64,7 @@ Hello. I would like to get some ideas on how I could extend this tube feeder mag
 
 Custom Walter White animatronic fully 3D printed and hand painted. Powered by ESP32 and Arduino with 5 servomotors running at 5V: 2 servos for the neck, 1 for the mouth, and 2 for the eyes. Includes AI voice & sound using ElevenLabs.
 
-22h ago
-
----
-
-**[My third hexapof build 👀](https://www.reddit.com/r/robotics/comments/1tbignp/my_third_hexapof_build/)**
-
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +72,13 @@ Custom Walter White animatronic fully 3D printed and hand painted. Powered by ES
 
 Sergey Levine describes a robotics project where his team contacted 33 research labs and asked them to share data from their own robot setups. Each lab had different robots and different tasks. Some were working on cable routing, while others were working on taking out the trash or putting objects into drawers. His team trained one model across all of that data and sent it back to some of the labs to compare against the systems those labs had built for their own tasks. According to Levine, the generalist model performed about 50% better on average than the lab-specific systems.
 
-10h ago
+11h ago
+
+---
+
+**[My third hexapof build 👀](https://www.reddit.com/r/robotics/comments/1tbignp/my_third_hexapof_build/)**
+
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Sergey Levine describes a robotics project where his team contacted 33 research 
 
 13 May 2026 -- Hamburg
 
-🔗 [Zenoh](https://zenoh.io/blog/2026-05-13-reductstore/) • 31m ago
+🔗 [Zenoh](https://zenoh.io/blog/2026-05-13-reductstore/) • 1h ago
 
 ---
 
@@ -94,15 +94,15 @@ Sergey Levine describes a robotics project where his team contacted 33 research 
 
 After using a robot mower for a season, I’ve realized I haven’t fully stopped using my old push mower. The robot handles most of the regular lawn work now, probably around 90 percent of it. It keeps the grass looking decent without me having to think about it too much, which is honestly nice. I can let it run while I’m doing other stuff, and the yard usually stays under control. But there are still a few areas it never gets quite right. Tight corners, narrow strips near flower beds, odd edges around paths, that kind of thing. Not a huge problem, but once I notice those spots they start to bug me. So I still end up taking out the push mower once in a while, usually just for 15 or 20 minutes, to clean up the awkward parts. It feels a little silly since I got the robot mower to avoid mowing, but this hybrid routine has kind of become normal for me. Anyone else doing the same thing, or am I just being too picky about the edges?
 
-9h ago
+10h ago
 
 ---
 
-**[Anyone working with the Unitree G1 basic?](https://www.reddit.com/r/robotics/comments/1tcbuob/anyone_working_with_the_unitree_g1_basic/)**
+**[Head design and neck mechanics change](https://www.reddit.com/r/robotics/comments/1tc7k7l/head_design_and_neck_mechanics_change/)**
 
-Anyone working with the Unitree G1 basic and have opened it up to review the motherboard? I am curious if it is the same as the EDU and just missing the jetson? I know other things are missing such as some wiring, the leg motors are slightly stronger on EDU. I am curious to see what mods can be done, what integration can occur. I know secondary development is not available on the basic, but if you slotted in a jetson or added another piggyback system, expansion can occur. Of course, this depends on integration with the mainboard. Just curious what others have done.
+The head on the right floating is the old version, i had to redesign the neck rotation mechanism and the head design because the old one broke
 
-2h ago
+5h ago
 
 ---
 
@@ -114,23 +114,7 @@ Anyone working with the Unitree G1 basic and have opened it up to review the mot
 
 Mind Robotics today announced a $400 million financing led by Kleiner Perkins, bringing total investment in Mind Robotics to more than $1 billion. This finan...
 
-Business Wire • 7h ago
-
----
-
-**[Rivian shares jump as AI robotics spinout Mind Robotics closes $400M round](https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html)**
-
-Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
-
-Yahoo Finance • 5h ago
-
----
-
-**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
-
-Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
-
-TechCrunch • 6h ago
+Business Wire • 9h ago
 
 ---
 
@@ -139,6 +123,30 @@ TechCrunch • 6h ago
 Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
 
 Global Times • 1d ago
+
+---
+
+**[Elon Musk calls Unitree Robotics' manned mecha cool; experts point to new phase of robot development](https://www.globaltimes.cn/page/202605/1360886.shtml)**
+
+Chinese robotics firm Unitree Robotics drew global attention after unveiling the GD01, billed as the world’s first production-ready manned mecha, with footage of the machine rapidly spreading across Chinese and international social media, sparking heated discussions about the intensifying China-US robotics competition.
+
+Global Times • 16h ago
+
+---
+
+**[Robot Soldiers Could Make War Deadlier—And China Is Already Building Its Army](https://www.popularmechanics.com/military/weapons/a71055086/ai-powered-soldiers-china-military/)**
+
+If the U.S. falls behind, will it sacrifice its position in the newest arms race?
+
+Popular Mechanics • 8h ago
+
+---
+
+**[Japan unleashes 'Monster Wolf' robots to repel record bear attacks](https://www.usatoday.com/story/news/world/2026/05/13/super-monster-wolf-robots-deployed-amid-record-bear-attacks-japan/90067016007/)**
+
+Amid a record number of lethal bear attacks, Japan has a secret weapon. Meet "Monster Wolf".
+
+USA Today • 2h ago
 
 ---
 
@@ -156,6 +164,14 @@ The Economist • 2d ago
 
 ---
 
+**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+
+Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+
+TechCrunch • 7h ago
+
+---
+
 **[A South Korean startup captures workers’ techniques to develop AI brains for robots](https://apnews.com/article/south-korea-ai-robots-rlwrld-c3e00f5264e109b8b767559e9e09c3dc)**
 
 Workers at a five-star hotel fold napkins and wipe silverware with body cameras recording their every move.
@@ -169,18 +185,6 @@ AP News • 1d ago
 Del Dottore et al. present an octopus-inspired soft robotic arm that uses optoelectronic mechanosensors in its suction cups to detect contact forces and infer object positions.
 
 Nature • 1d ago
-
----
-
-**['Touch dreaming' helps humanoid robots handle five tricky tasks with 90.9% higher success](https://techxplore.com/news/2026-05-humanoid-robots-tricky-tasks-higher.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[China’s Unitree Reveals $650K Giant Robot That Walks, Crawls, and Smashes Walls](https://www.eweek.com/news/unitree-manned-mecha-china-robotics-apac/)**
-
-eWeek • 7h ago
 
 ---
 
@@ -214,7 +218,7 @@ QingTing Drone Is Broken? I havent used this drone since it was really released.
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 282 • 💬 48 • ⏱️ 15:19 • 10h ago
+👁️ 5K • 👍 282 • 💬 48 • ⏱️ 15:19 • 11h ago
 
 ---
 
@@ -234,7 +238,7 @@ War Robots - New Giveaway 50x Furnace weapons up for grabs! For a chance to win 
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 582 • 💬 629 • ⏱️ 17:41 • 9h ago
+👁️ 3K • 👍 582 • 💬 629 • ⏱️ 17:41 • 10h ago
 
 ---
 
@@ -244,7 +248,7 @@ Disney just reinvented motion capture for robots using AI and physics. Disney Re
 
 📺 Guide2WDW
 
-👁️ 15K • 👍 2K • 💬 42 • ⏱️ 1:46 • 1d ago
+👁️ 15K • 👍 2K • 💬 42 • ⏱️ 1:46 • 2d ago
 
 ---
 
