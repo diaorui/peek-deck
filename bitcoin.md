@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-14T07:28:36.942550+00:00'
+updated: '2026-05-14T09:56:59.072964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 07:28 UTC  
+**Last Updated:** May 14, 2026 at 09:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,929.88
+### $79,763.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
+**24h:** -1.3%  
 **7d:** -0.5%  
 **30d:** +6.7%  
 **90d:** +14.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1596.45B
+**Market Cap:** $1593.55B
 Rank #1
 
-**Circulating Supply:** 20,029,121 BTC
+**Circulating Supply:** 20,029,181 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--36.8%
+-36.9%
 
 **All-Time Low:** $67.81
-+117472.6%
++117224.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 May not be news to some, but just sharing coz I'm happy.
 
-7h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ May not be news to some, but just sharing coz I'm happy.
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade, with help from Anthropic’s AI chatbot Claude. The user, known as Cprkrn on X, shared the wild crypto recovery story on May 13, saying Claude helped him regain access to 5 Bitcoin after years of failed attempts. “Holy f**king sht omg Claude just cracked this sht,” he wrote in the viral post, thanking Anthropic and CEO Dario Amodei. At the time of writing, Bitcoin is trading at around $79,600, putting the 5 BTC recovery at roughly $398,000. According to the thread, the wallet had been locked since the user’s college days. He said he originally bought the crypto when it was worth around $250 per coin, before losing access after changing the wallet password while high. The password, as later revealed in the post, was: “lol420fuckthePOLICE!*:)” The user said he had tried for years to recover the funds, claiming he ran through trillions of possible password combinations. However, the breakthrough reportedly came when he uploaded files from his old college computer into Claude. Rather than simply guessing the password, Claude helped dig through the old files and identify an older wallet.dat file that appeared to predate the password change. The user also reportedly had an old mnemonic phrase, which helped unlock the wallet once the correct file was found. BTCRecover, a known wallet recovery tool, is designed for cases where users already know most of a wallet password or seed but need help testing variations. Its documentation says it supports Bitcoin Core wallet recovery, among several other wallet types. The story quickly spread across crypto and AI circles, with many pointing out that Claude did not “break” Bitcoin’s security. Instead, it helped the user sort through old files, understand what had gone wrong, and recover access using valid wallet data. Still, for anyone with old hard drives lying around, it is also a brutal reminder: your forgotten files could be worth more than you think. Cprkrn even said he plans on naming his child after Anthropic CEO Dario Amodei, which seems like a fair deal considering he’s now around $400,000 richer.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 10h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 ...they just don't know what it is and what the fix is. If you're buying bitcoin because you know how the money is broken, you are going to make it. Just stop for a moment and look around you. The vast majority of people you see, still don't get it and will have to pay for that mistake.
 
-18h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 Long-term Bitcoin holders accumulated nearly 4 million BTC in the fastest high-conviction buying surge since 2020.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 2h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 4h ago
 
 ---
 
@@ -113,23 +113,23 @@ Long-term Bitcoin holders accumulated nearly 4 million BTC in the fastest high-c
 
 For those of us who remember running nodes back when the block subsidy was 50 BTC, watching this animation hits differently. We’ve watched this network grow from a cypherpunk curiosity on an obscure cryptography mailing list into the immutable anchor of a new global financial system. Satoshi’s algorithmic monetary policy is doing exactly what it was programmed to do. No bailouts. No printing presses. Just pure, unyielding math. Look closely at the chart. That massive blue area? That is the era of distribution. We lived through it. That microscopic sliver remaining in the circle? That is the battleground for the next century. Our children and grandchildren will live in an era where nation-states and institutions fight over fractions of what ordinary people could mine on a laptop in 2010. The era of easy accumulation is definitely over. We are now entering the era of absolute supply shock. We want to hear from both the veterans and the newcomers in here: During which epoch/halving era did you finally fall down the rabbit hole? As we look toward that final 1 million BTC stretched over 114 years, how do you see the network adapting as the security budget transitions entirely to transaction fees? Tip of the hat to the creator, Wicked (@w_s_bitcoin / wickedsmartbitcoin.com), for putting together one of the most powerful visual representations of Bitcoin's issuance we've ever seen. Credit where it's due.
 
-20h ago
+23h ago
 
 ---
 
-**[Riverbtc](https://www.reddit.com/r/Bitcoin/comments/1tchy0a/riverbtc/)**
+**[Clarity Act to Senate today](https://www.reddit.com/r/Bitcoin/comments/1tcraxz/clarity_act_to_senate_today/)**
 
-u/riverofficial closed my account for no reason, I deposited through Ach last week and this week I wanted to withdraw to my self custody wallet and then I got an email telling me to upload my ID and selfie again and after few minutes I got an email that my account is closed. For anyone wanting to use this exchange I suggest you avoid it.
+Today the Clarity Act will be passed on to the Senate. What are your thoughts about it and do you think it's good or bad for crypto as a whole?
 
-7h ago
+2h ago
 
 ---
 
-**[Is Cashapp the cheapest place to buy spot bitcoin in US?](https://www.reddit.com/r/Bitcoin/comments/1tc77kc/is_cashapp_the_cheapest_place_to_buy_spot_bitcoin/)**
+**[Daily Discussion, May 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1tcpda3/daily_discussion_may_14_2026/)**
 
-I have never used cashapp until recently, and have been a diehard strike user. But cashapp is cheaper than strike Coinbase or river for spot buys. I still dca through strike, but has anyone else noticed this?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+3h ago
 
 ---
 
@@ -137,21 +137,23 @@ I have never used cashapp until recently, and have been a diehard strike user. B
 
 I already bought the basic Ledger and Trezor models, and I’m thinking about getting a third hardware wallet. I only use them around once a month, so I’m worried about long-term durability — especially batteries failing over time. What would you recommend I get next, and what’s the best approach for long-term cold storage?
 
-1h ago
+4h ago
 
 ---
 
-**[People always make fun things until it becomes the opposites](https://www.reddit.com/r/Bitcoin/comments/1tcofo9/people_always_make_fun_things_until_it_becomes/)**
+**[Riverbtc](https://www.reddit.com/r/Bitcoin/comments/1tchy0a/riverbtc/)**
 
-Always looking down at bitcoin, always mock it, until it does something like people at 2018 right now, or maybe people at 2026 right at 2035 stay humble stack says ignore the noise and stay away from ignorance freak or idiots that don't even bother to study or learn.
+u/riverofficial closed my account for no reason, I deposited through Ach last week and this week I wanted to withdraw to my self custody wallet and then I got an email telling me to upload my ID and selfie again and after few minutes I got an email that my account is closed. For anyone wanting to use this exchange I suggest you avoid it.
 
-2h ago
+9h ago
 
 ---
 
-**[Bitcoin Protects the Pursuit of Happiness Itself](https://www.reddit.com/r/Bitcoin/comments/1tc5kya/bitcoin_protects_the_pursuit_of_happiness_itself/)**
+**[Is Cashapp the cheapest place to buy spot bitcoin in US?](https://www.reddit.com/r/Bitcoin/comments/1tc77kc/is_cashapp_the_cheapest_place_to_buy_spot_bitcoin/)**
 
-14h ago
+I have never used cashapp until recently, and have been a diehard strike user. But cashapp is cheaper than strike Coinbase or river for spot buys. I still dca through strike, but has anyone else noticed this?
+
+16h ago
 
 ---
 
@@ -163,39 +165,29 @@ Always looking down at bitcoin, always mock it, until it does something like peo
 
 Chinese President Xi Jinping warned Donald Trump of potential conflict over Taiwan during the first U.S. presidential visit to China in nearly a decade.
 
-CoinDesk • 2h ago
+CoinDesk • 5h ago
 
 ---
 
-**[The 2020 signal returns: Why the copper-to-gold breakout could point to bitcoin breakout](https://www.coindesk.com/markets/2026/05/13/the-2020-signal-returns-why-the-copper-to-gold-breakout-could-point-to-bitcoin-breakout)**
+**[Current price of Bitcoin for May 12, 2026](https://fortune.com/article/price-of-bitcoin-05-12-2026/)**
 
-The ratio has climbed above its 200-day moving average for the first time meaningfully since September 2020, a move that has historically preceded major bitcoin rallies.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-CoinDesk • 19h ago
-
----
-
-**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://decrypt.co/367768/charles-schwab-begins-bitcoin-ethereum-trading-us-users)**
-
-Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
-
-Decrypt • 14h ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin investors yanked $635 million from spot ETFs in a day. Here's what it means for price](https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price)**
+**[Jane Street Cuts Bitcoin ETF Exposure By 71%: Why This Could Be Bullish](https://www.tradingview.com/news/newsbtc:b8e6b4778094b:0-jane-street-cuts-bitcoin-etf-exposure-by-71-why-this-could-be-bullish/)**
 
-The single-largest outflow since late January comes as bitcoin turns lower from the 200-day moving average.
+Jane Street sharply reduced its Bitcoin ETF exposure in the first quarter of 2026, cutting reported holdings in BlackRock’s IBIT and Fidelity’s FBTC while increasing positions in Ether ETFs and several crypto-linked equities. The move has revived speculation that one of the market’s largest trading…
 
-CoinDesk • 1h ago
+TradingView • 1h ago
 
 ---
 
-**[Anthony Scaramucci Says Bitcoin Poised To Follow The S-Curve Of Adoption Like Amazon, Microsoft: 'Cannot Be Devalued'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-064645573.html)**
+**[Bitcoin at $80,000: Recovery is clear, but bullish sentiment is still lacking.](https://www.binance.com/en/square/post/322985536736113)**
 
-SkyBridge Capital founder Anthony Scaramucci suggested on Wednesday that Bitcoin (CRYPTO: BTC) is tracing an adoption path akin to that of Amazon.com Inc. (NASDAQ:AMZN) and Microsoft Corp. (NASDAQ:MSFT). Scaramucci Says Bitcoin Can’t Be ‘Devalued’ During an interview with RiskReversal Media, Scaramucci said that traditional fiat money is essentially “worthless,” but it gains value because people trust it. Bitcoin, he added, is an improved version, which happens to be “an open, transparent, fully
-
-Yahoo Finance • 42m ago
+Binance • 2h ago
 
 ---
 
@@ -203,15 +195,7 @@ Yahoo Finance • 42m ago
 
 An X user claims Anthropic's Claude AI helped recover 5 forgotten Bitcoin worth nearly $400,000 from an old college-era wallet.
 
-Interesting Engineering • 8h ago
-
----
-
-**[Did Claude just 'crack' a bitcoin wallet? AI tool helps find 5 BTC stuck for years](https://www.coindesk.com/tech/2026/05/14/claude-helps-recover-usd395-000-in-bitcoin-trapped-on-a-computer-for-years)**
-
-The owner had been trying for eight weeks to brute-force the password on their current Blockchain.com wallet, testing roughly 3.5 trillion combinations using the btcrecover service on a rented computing chip.
-
-CoinDesk • 1h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -219,7 +203,15 @@ CoinDesk • 1h ago
 
 A Bitcoiner’s post has gone viral on X after he claimed to use Anthropic’s AI chatbot Claude to recover 5 Bitcoin worth about $320,000 that he had been unable to access for more than a decade.In an interview with MTS on Wednesday, pseudonymous X user Cprkrn said he made fairly "really complicated p…
 
-TradingView • 3h ago
+TradingView • 6h ago
+
+---
+
+**[AI Helps Man Recover $400,000 in Bitcoin After He Changed Password While High](https://www.complex.com/pop-culture/a/jose-martinez/ai-helps-man-recover-400000-in-bitcoin-after-changing-password-while-high)**
+
+After changing his password while high 11 years ago, a ma...
+
+Complex • 4h ago
 
 ---
 
@@ -229,11 +221,17 @@ Disruption Banking • 1d ago
 
 ---
 
-**[Metaplanet posts $725 million Q1 net loss as bitcoin markdowns outweigh operating gains](https://www.theblock.co/post/401138/metaplanet-q1-net-loss-bitcoin-markdowns-outweigh-operating-gains)**
+**[Bitcoin Edges Higher But Recovery Limited](https://www.barrons.com/livecoverage/stock-market-news-today-051426/card/bitcoin-edges-higher-but-recovery-limited-UQRgcdheOPM56HRG89tA)**
 
-Metaplanet posted a $725.6 million net loss driven by bitcoin mark-to-market valuation markdowns even as operating profit rose 283%.
+Barron's • 2h ago
 
-The Block • 19h ago
+---
+
+**[$11.77 Trillion Brokerage Giant Charles Schwab Launches Spot Bitcoin Trading Platform](https://bitcoinmagazine.com/news/charles-schwab-launches-spot-bitcoin)**
+
+Charles Schwab is bringing Bitcoin trading to Main Street: the $11.77 trillion brokerage giant has launched spot BTC trading for U.S. retail clients, deepening Wall Street’s accelerating embrace of digital assets.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -283,53 +281,23 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 ## YouTube Videos: "bitcoin"
 
-**[Kevin Warsh Is IN - Bitcoin&#39;s New Era Starts Friday](https://www.youtube.com/watch?v=BMvkLfeewmw)**
-
-Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 538 • 💬 211 • ⏱️ 14:01 • 10h ago
-
----
-
-**[[CONFIRMED] Bitcoin Holders...This is BIG!](https://www.youtube.com/watch?v=ZaSI5Wp1scY)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 1K • 💬 104 • ⏱️ 8:11 • 5h ago
-
----
-
-**[Burry Says CRASH | Saylor Says $1M BITCOIN (Who&#39;s Right?)](https://www.youtube.com/watch?v=xvSMxGDRuO8)**
-
-Bitcoin bulls say the bottom is in, but recession fears are exploding across housing, oil, and consumer debt markets. This episode ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 1K • 💬 167 • ⏱️ 12:39 • 1d ago
-
----
-
-**[LEAKED: Urgent Crypto News That Affects Bitcoin Holders (clarity act, fed chair)](https://www.youtube.com/watch?v=kmx5HlxVQXI)**
-
-EMAIL YOUR SENATOR: https://www.standwithcrypto.org/action/email Weex - Trade crypto, oil w/ zero fees ($15 Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 3K • 💬 389 • ⏱️ 10:40 • 2d ago
-
----
-
 **[Bitcoin Wins Big While Altcoins Face New Regulatory Reality](https://www.youtube.com/watch?v=PSx0nyfJ47o)**
 
 The CLARITY Act is moving fast, and the market is missing the REAL story. This is being framed as “crypto regulation,” but the ...
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 809 • 💬 128 • ⏱️ 16:22 • 1d ago
+👁️ 16K • 👍 816 • 💬 125 • ⏱️ 16:22 • 1d ago
+
+---
+
+**[BITCOIN’S DO-OR-DIE LEVEL! 🚨 My Price Targets for BTC, XRP, ETH &amp; SOL](https://www.youtube.com/watch?v=h9mM0NAnBQE)**
+
+The crypto market is at a massive crossroads. In today's video, we deep dive into the charts—no BS, just pure probability.
+
+📺 Gareth Soloway
+
+👁️ 39K • 👍 3K • 💬 121 • ⏱️ 9:16 • 21h ago
 
 ---
 
@@ -343,23 +311,13 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 ---
 
-**[MASSIVE Clarity Act Update! This Is a HUGE Win for Bitcoin &amp; Crypto - Tom Lee](https://www.youtube.com/watch?v=0tN78rPvgms)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 281 • 💬 106 • ⏱️ 17:25 • 1d ago
-
----
-
 **[Physicist Explains the Certainty of Bitcoin&#39;s Future Price](https://www.youtube.com/watch?v=oRFLu_znejE)**
 
 Is Bitcoin's price actually predictable? Physicist Giovanni Santostasi, Director of the Scientific Bitcoin Institute, joins Natalie Brunell ...
 
 📺 Natalie Brunell
 
-👁️ 40K • 👍 2K • 💬 447 • ⏱️ 1:05:20 • 1d ago
+👁️ 41K • 👍 2K • 💬 451 • ⏱️ 1:05:20 • 1d ago
 
 ---
 
@@ -369,17 +327,55 @@ Coinbase CEO Brian Armstrong joins 'Mornings with Maria' to break down Senate cr
 
 📺 Fox Business
 
-👁️ 149K • 👍 3K • 💬 711 • ⏱️ 19:24 • 16h ago
+👁️ 156K • 👍 3K • 💬 740 • ⏱️ 19:24 • 19h ago
 
 ---
 
-**[BITCOIN’S DO-OR-DIE LEVEL! 🚨 My Price Targets for BTC, XRP, ETH &amp; SOL](https://www.youtube.com/watch?v=h9mM0NAnBQE)**
+**[Kevin Warsh Is IN - Bitcoin&#39;s New Era Starts Friday](https://www.youtube.com/watch?v=BMvkLfeewmw)**
 
-The crypto market is at a massive crossroads. In today's video, we deep dive into the charts—no BS, just pure probability.
+Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
 
-📺 Gareth Soloway
+📺 Crypto Capital Venture
 
-👁️ 38K • 👍 3K • 💬 121 • ⏱️ 9:16 • 19h ago
+👁️ 10K • 👍 563 • 💬 215 • ⏱️ 14:01 • 13h ago
+
+---
+
+**[[CONFIRMED] Bitcoin Holders...This is BIG!](https://www.youtube.com/watch?v=ZaSI5Wp1scY)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 1K • 💬 127 • ⏱️ 8:11 • 8h ago
+
+---
+
+**[Burry Says CRASH | Saylor Says $1M BITCOIN (Who&#39;s Right?)](https://www.youtube.com/watch?v=xvSMxGDRuO8)**
+
+Bitcoin bulls say the bottom is in, but recession fears are exploding across housing, oil, and consumer debt markets. This episode ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 1K • 💬 166 • ⏱️ 12:39 • 1d ago
+
+---
+
+**[MASSIVE Clarity Act Update! This Is a HUGE Win for Bitcoin &amp; Crypto - Tom Lee](https://www.youtube.com/watch?v=0tN78rPvgms)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 10K • 👍 284 • 💬 105 • ⏱️ 17:25 • 1d ago
+
+---
+
+**[CRUCIAL WEEK FOR CRYPTO XRP AND SUI NEWS! #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=qDbAzKdMsmc)**
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 454 • 💬 24 • ⏱️ 2:16 • 1d ago
 
 ---
 

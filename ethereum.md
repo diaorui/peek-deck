@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-14T07:28:36.947758+00:00'
+updated: '2026-05-14T09:56:59.078930+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 07:28 UTC  
+**Last Updated:** May 14, 2026 at 09:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -1.8%  
-**30d:** -4.0%  
-**90d:** +8.6%  
-**1y:** -11.0%  
+**24h:** -2.3%  
+**7d:** -2.2%  
+**30d:** -4.4%  
+**90d:** +8.2%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $273.37B
+**Market Cap:** $272.23B
 Rank #2
 
 **Circulating Supply:** 120,686,173 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.2%
+-54.4%
 
 **All-Time Low:** $0.43
-+523117.1%
++520874.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Three months after mainnet launched, Vitalik deployed an advertising auction system to Ethereum. Eight ad slots, four auction mechanisms (one-phase winner-pays, cumulative, sealed-bid first-price, sealed-bid second-price), all managed by a factory contract called adStorer from ethereum/dapp-bin. I matched the deployed bytecode to source through compiler archaeology. Exact match, 8,752 bytes, solc v0.1.1. Then I decoded every transaction across all 8 child auction contracts. The only bidder was Vitalik himself. Two wallets (his old deployer and what’s now vitalik.eth), 229 transactions, 0.064 ETH in bids. The winning “advertisements” were two image URLs: me.jpg (a photo of himself) and heiko.jpg (a photo of Heiko Hees, who was building pyethereum). Both are 404 today. Some details: Slot 5 is a second-price sealed-bid auction. vitalik.eth bid 0.0005 ETH, his old wallet bid 0.0003 ETH. Second-price rules made vitalik.eth pay the runner-up’s price. The first Vickrey auction on Ethereum selected a photo of a pyethereum developer over its own creator. Gas cost more than the bids. Vitalik burned ~1 ETH on gas (at 60 gwei, hard-coded in his deploy script) to move 0.064 ETH through the auction mechanics. At October 2015 prices, the whole experiment cost about $2. Slot 1 was a stress test. 159 transactions, with Vitalik rebidding the same 0.0001 ETH increment 19 times in a row to validate cumulative bidding. Three of the four all-pay auction variants got zero bids. He abandoned the one he tried before revealing. Even Vitalik didn’t trust his own all-pay math. The sealed-bid auctions had a frontend bug where bid hashes were passed as ASCII hex instead of raw bytes, making commitments readable in calldata. Didn’t matter since the only participant wrote the code. 0.029 ETH (~$70 today, $0.03 in 2015) is still locked in the child contracts from unrevealed sealed bids. This was deployed three weeks before DevCon 1, on a network with maybe a few hundred users. A mechanism design experiment that nobody participated in except its creator, preserved on-chain for ten years. I checked the Wayback Machine for the ad images. The closest capture of vitalik.ca/files/ is from June 2016. Neither photo was archived. Full documentation with verified source, decoded bids, and all 8 slots mapped: https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e This is part of the EthereumHistory project where we’re documenting and verifying the earliest Ethereum contracts. If you want to help, the project is open.
 
-🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 17h ago
+🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 20h ago
 
 ---
 
@@ -88,15 +88,7 @@ Three months after mainnet launched, Vitalik deployed an advertising auction sys
 
 I get the basics of how Ethereum works, but I’m trying to understand the institutional side better. What do they actually want from it? And does their involvement change where Ethereum is headed, whether that’s decentralization, governance, or how the protocol develops? Genuinely curious what people who follow this space think.
 
-11h ago
-
----
-
-**[Every time I try to move money between my bank and crypto I feel like a criminal even though I've done nothing wrong](https://www.reddit.com/r/ethereum/comments/1tc5b1e/every_time_i_try_to_move_money_between_my_bank/)**
-
-My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
-
-14h ago
+13h ago
 
 ---
 
@@ -104,13 +96,21 @@ My bank has flagged two of my transfers to a crypto exchange in the last three m
 
 Turning consensus research into practice. We design, analyze, and formally verify consensus protocols for Ethereum.
 
-🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 6h ago
+🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 8h ago
+
+---
+
+**[Every time I try to move money between my bank and crypto I feel like a criminal even though I've done nothing wrong](https://www.reddit.com/r/ethereum/comments/1tc5b1e/every_time_i_try_to_move_money_between_my_bank/)**
+
+My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
+
+17h ago
 
 ---
 
 **[Aztec Foundation contributes 1% of AZTEC token supply toward supporting Ethereum Core Development via Protocol Guild](https://www.reddit.com/r/ethereum/comments/1tc65xb/aztec_foundation_contributes_1_of_aztec_token/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 14h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ The open standard for human-readable transaction signing.
 
 The current near-parity gives both chains another chance to position themselves to capture volume when onchain activity rotates back.
 
-The Block • 18h ago
+The Block • 20h ago
 
 ---
 
@@ -160,15 +160,39 @@ The Block • 18h ago
 
 Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
-Decrypt • 14h ago
+Decrypt • 17h ago
 
 ---
 
-**[Tom Lee Calls The End Of Crypto Winter Once Again, BitMine Chair Says Ethereum Performing As 'Wartime' Store Of Value](https://finance.yahoo.com/markets/crypto/articles/tom-lee-calls-end-crypto-033120517.html)**
+**[Prediction: Ethereum Will Be Worth $5,000 by 2030](https://www.fool.com/investing/2026/05/14/prediction-ethereum-will-be-worth-x-by-2030/)**
 
-BitMine Immersion Technologies Inc. Chair Tom Lee said on Monday that the “cryptocurrency winter” is nearing its end, paving the way for a “cryptocurrency spring.” Why Lee Thinks Crypto Winter Is Over In his latest message to shareholders, Lee stated...
+If Ethereum can grow at a steady 20% rate, it could reclaim its all-time high from 2025.
 
-Yahoo Finance • 3h ago
+The Motley Fool • 17m ago
+
+---
+
+**[JPMorgan launching second tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum)**
+
+The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
+
+The Block • 1d ago
+
+---
+
+**[JPMorgan Launching Second Tokenized Money Market Fund on Ethereum — Bullish For ETH Price?](https://finance.yahoo.com/news/jpmorgan-launching-second-tokenized-money-100215730.html)**
+
+JPMorgan has filed for a second tokenized money market fund on Ethereum. The proposed JLTXX fund would tokenize Treasury-backed assets on Ethereum. Some analysts and ...
+
+Yahoo Finance • 23h ago
+
+---
+
+**[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum](https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum)**
+
+Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
+
+Decrypt • 1d ago
 
 ---
 
@@ -176,7 +200,7 @@ Yahoo Finance • 3h ago
 
 The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -192,33 +216,11 @@ Disruption Banking • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Price Analysis: What’s Coming Next?](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-analysis-whats-coming-next/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH holds support, XRP eyes breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-holds-support-xrp-eyes-breakout-202605130342)**
 
-Coinpedia • 16h ago
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade cautiously on Wednesday as price action approaches key technical levels across these top three cryptocurrencies. BTC stalls near the key resistance level around $82,000 while ETH holds firm above the key support at $2,275.
 
----
-
-**[Novogratz’s Galaxy And Ethereum Treasury Company Sharplink To Launch $125 Million DeFi Fund](https://www.forbes.com/sites/ninabambysheva/2026/05/11/novogratzs-galaxy-and-ethereum-treasury-company-sharplink-to-launch-125-million-defi-fund/)**
-
-Galaxy will manage the private fund, seeded with $100 million from Sharplink’s ether treasury and $25 million of its own capital, bringing fresh liquidity to a bruised DeFi sector.
-
-Forbes • 2d ago
-
----
-
-**[Current price of Ethereum for May 13, 2026](https://fortune.com/article/price-of-ethereum-05-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
-
----
-
-**[Traders say Ethereum ready for a 'strong move' after ETH price taps $2.3K](https://www.tradingview.com/news/cointelegraph:d6ab9ca66094b:0-traders-say-ethereum-ready-for-a-strong-move-after-eth-price-taps-2-3k/)**
-
-Market analysts said Ether (ETH) was ready to continue its uptrend following moves by JPMorgan and BlackRock to launch tokenized funds on the Ethereum network.Key takeaways:ETH traders anticipate the price to “outperform”Data from TradingView showed BITSTAMP:ETHUSD trading at $2,320, up 2% over the…
-
-TradingView • 14h ago
+FXStreet • 1d ago
 
 ---
 
@@ -232,17 +234,7 @@ This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NO
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 2K • 💬 26 • ⏱️ 4:30 • 15h ago
-
----
-
-**[MASSIVE Clarity Act Update! This Is a HUGE Win for Bitcoin &amp; Crypto - Tom Lee](https://www.youtube.com/watch?v=0tN78rPvgms)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 281 • 💬 106 • ⏱️ 17:25 • 1d ago
+👁️ 7K • 👍 2K • 💬 25 • ⏱️ 4:30 • 17h ago
 
 ---
 
@@ -252,17 +244,17 @@ CharlesSchwab's Nathan Peterson offers his latest in-depth look into the price a
 
 📺 Schwab Network
 
-👁️ 888 • 👍 22 • ⏱️ 7:44 • 9h ago
+👁️ 1K • 👍 25 • ⏱️ 7:44 • 11h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2ds-AXVtzE8)**
+**[MASSIVE Clarity Act Update! This Is a HUGE Win for Bitcoin &amp; Crypto - Tom Lee](https://www.youtube.com/watch?v=0tN78rPvgms)**
 
-BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto World
+📺 Savvy Finance
 
-👁️ 3K • 👍 183 • 💬 29 • ⏱️ 19:06 • 4h ago
+👁️ 10K • 👍 284 • 💬 105 • ⏱️ 17:25 • 1d ago
 
 ---
 
@@ -270,7 +262,7 @@ BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & A
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 603 • 💬 13 • ⏱️ 2:13 • 6h ago
+👁️ 9K • 👍 654 • 💬 14 • ⏱️ 2:13 • 8h ago
 
 ---
 
@@ -280,17 +272,17 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 75 • 💬 13 • ⏱️ 10:03 • 18h ago
+👁️ 2K • 👍 76 • 💬 13 • ⏱️ 10:03 • 21h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum, kommt noch eine Erholung? Weiter kein Bruch von Support!](https://www.youtube.com/watch?v=YIFi5tZ2J58)**
+**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2ds-AXVtzE8)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + ...
+BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
 
-📺 Krypto Trading & Investing
+📺 Crypto World
 
-👁️ 1K • 👍 317 • 💬 59 • ⏱️ 12:55 • 3h ago
+👁️ 4K • 👍 224 • 💬 101 • ⏱️ 19:06 • 6h ago
 
 ---
 
@@ -300,17 +292,7 @@ Crypto News: Elizabeth Warren pushes back on Clarity Act draft bill. JPMorgan la
 
 📺 Thinking Crypto
 
-👁️ 10K • 👍 730 • 💬 348 • ⏱️ 20:45 • 1d ago
-
----
-
-**[Ethereum&#39;s Next Move Could Trigger Final Crash](https://www.youtube.com/watch?v=Weg4uuozGiU)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 225 • 👍 7 • 💬 1 • ⏱️ 5:10 • 11h ago
+👁️ 11K • 👍 733 • 💬 342 • ⏱️ 20:45 • 1d ago
 
 ---
 
@@ -321,6 +303,26 @@ Ethereum keeps failing at the $2400 resistance level, and the data shows why: we
 📺 Coin Bureau Podcast
 
 👁️ 2K • 👍 46 • 💬 2 • ⏱️ 1:11 • 1d ago
+
+---
+
+**[Ethereum&#39;s Next Move Could Trigger Final Crash](https://www.youtube.com/watch?v=Weg4uuozGiU)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 235 • 👍 8 • 💬 1 • ⏱️ 5:10 • 14h ago
+
+---
+
+**[Vitalik Just Called Out Ethereum’s Biggest L2s](https://www.youtube.com/watch?v=yNul3atS1Wk)**
+
+Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainnet keeps getting cheaper, are rollups really scaling ...
+
+📺 CoinGecko
+
+👁️ 3K • 👍 199 • 💬 49 • ⏱️ 8:44 • 2d ago
 
 ---
 
