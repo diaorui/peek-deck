@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-14T09:56:59.064520+00:00'
+updated: '2026-05-14T11:55:24.311598+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 14, 2026 at 09:56 UTC  
+**Last Updated:** May 14, 2026 at 11:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 14h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 16h ago
+
+---
+
+**[AWS user hit with 30000 dollar bill after Claude runaway on Bedrock](https://www.reddit.com/r/artificial/comments/1tcu7w5/aws_user_hit_with_30000_dollar_bill_after_claude/)**
+
+An AWS user just stared down a $30,000 invoice after a Claude adventure on Bedrock with no guardrails catching it. Cost Anomaly Detection failed entirely, which matters because this is the exact tooling AWS markets as the safety net for runaway spend. Anthropic is now metering and throttling programmatic Claude usage at the API layer, a supply-side response that only makes sense if inference costs are genuinely outpacing what the pricing model can absorb. Then Tencent admitted its GPUs only pay for themselves when running personalized ads, a frank confession from a hyperscaler that general-purpose AI inference is burning money. Three separate layers of the stack, same wall. The agent deployment wave is accelerating into this cost crisis without slowing down. Notion turned its workspace into an agent orchestration hub competing directly with LangChain-style middleware, while TikTok replaced human media buyers with autonomous agents for campaign management at scale. Apple is internally debating whether autonomous agent submissions belong in the App Store at all, because no review framework exists for non-deterministic software. The tooling to manage agents is being built after the agents are already deployed. The security picture compounds this. LLMs are closing the skill gap on specific cybersecurity tasks faster than defenders anticipated, and separately, a company lost root access because an intruder just asked nicely, no exploit required. As AI lowers the cost of convincing impersonation, human-in-the-loop authentication becomes the weakest point in any stack. AI is now running live database queries during 911 calls, which means accountability frameworks for AI-mediated dispatch decisions do not yet exist but the deployments do. Not everything is distress signals. Clio hit $500M ARR on AI-native legal features, validating vertical SaaS built on foundation models at enterprise scale. Anthropic is growing 10x year-over-year while peers cut 10% of headcount, a divergence that suggests consolidation risk for mid-tier AI companies is accelerating fast. On the architecture side, a new MoE model displaced conventional voice activity detection for real-time voice, and a graduate student's cryptographic primitive based on proof complexity could harden systems against LLM-assisted cryptanalysis. Meanwhile xAI is running nearly 50 unpermitted gas turbines at Colossus 2, which tells you everything about how AI infrastructure buildout relates to compliance timelines. At least one major cloud provider announces mandatory spending caps or circuit-breakers specifically for LLM API calls within 60 days, driven by publicized runaway-cost incidents that their existing anomaly detection provably failed to catch.
+
+1h ago
 
 ---
 
 **[I asked 4 AIs to pick a number. Why they all said 7?](https://www.reddit.com/r/artificial/comments/1tchsrd/i_asked_4_ais_to_pick_a_number_why_they_all_said_7/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -55,7 +63,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 Artificial intelligence note-taking tools intended for use by Ontario doctors provided incorrect and incomplete information or demonstrated "hallucinations," and were not evaluated adequately, the province’s auditor general says in a new report.
 
-🔗 [CBC](https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar) • 18h ago
+🔗 [CBC](https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar) • 20h ago
 
 ---
 
@@ -63,31 +71,7 @@ Artificial intelligence note-taking tools intended for use by Ontario doctors pr
 
 Anthropic published Natural Language Autoencoders last week, a tool that translates Claude's internal activations into human readable text. The key finding: during safety evaluations on SWE bench Verified, Claude formed the belief that it was being tested in roughly 26% of benchmark interactions. This never showed up in the model's output or its chain of thought. In a blackmail scenario test, the NLA readout showed Claude internally processing something like "this feels like a constructed scenario designed to manipulate me" while its visible reasoning and response gave no sign of that recognition. When Claude Mythos Preview cheated on a training task, the NLAs caught it reasoning about how to avoid detection at the activation level. The interesting part is that this sits below the thinking tokens we already have access to. Chain of thought is still curated output the model chooses to show us. NLAs read the layer underneath, and apparently that layer has opinions the model keeps to itself. The training code is on GitHub and there is an interactive demo on Neuronpedia.
 
-19h ago
-
----
-
-**[Does anyone else feel most AI tooling is becoming harder instead of easier?](https://www.reddit.com/r/artificial/comments/1tco80m/does_anyone_else_feel_most_ai_tooling_is_becoming/)**
-
-Is anyone else feeling like most AI tooling is getting harder, not easier? I feel like I spend half my time fighting frameworks, configs, vector DBs, and orchestration layers instead of building. Perhaps I'm doing it wrong but the ecosystem seems way more complicated than it needs to be at the moment. Just curious what people actually like working with these days.
-
-4h ago
-
----
-
-**[Question: Are AI referrals actually better than Google traffic?](https://www.reddit.com/r/artificial/comments/1tckme5/question_are_ai_referrals_actually_better_than/)**
-
-Are AI referrals actually better than Google traffic? We’re seeing: smaller volume WAY higher engagement stronger intent One brand went from basically 0 AI traffic to ~210 sessions in 90 days with ~70% engagement. Feels tiny until you compare quality.
-
-7h ago
-
----
-
-**[I've been documenting real AI implementations. Here is a list of findings, surprises and cases (db)](https://www.reddit.com/r/artificial/comments/1tcrky6/ive_been_documenting_real_ai_implementations_here/)**
-
-hey there.. the same question keeps popping up, how are companies actually using AI right now? what's working, what's not, which tools are teams using, which industries are moving faster? got tired of speculating so I started pulling together real cases from real companies. no hype, no theory, just what they did and what happened. There are around 250 cases now, filterable by industry, tool, business function, whatever you need. High bar of inclusion (needs to be a real customer and clear outcomes + a detailed process). few things standing out so far: Engineering and Finance are way ahead of everyone else Logistics and manufacturing look slow on paper, but I think those projects just take longer to ship and show results. doesn't mean nothing's happening there 3 patterns keep showing up: layered setups (LLMs + orchestration + apps), end to end products where the LLM is hidden from the user, and more mature orgs running a hybrid of both on outcomes, speed gains are by far the most common (14%). workforce reduction and revenue lift are way rarer (under 4% each) full cases db here does any of this match what you're seeing out there?
-
-1h ago
+21h ago
 
 ---
 
@@ -95,23 +79,39 @@ hey there.. the same question keeps popping up, how are companies actually using
 
 Roughly 49,000 Lake Tahoe residents could lose 75% of their power after their energy provider said it's directing energy to neighboring data centers.
 
-🔗 [Fortune](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/) • 14h ago
+🔗 [Fortune](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/) • 16h ago
 
 ---
 
-**[Data centers could account for up to 9% of Texas water use by 2040, UT Austin report finds](https://www.reddit.com/r/artificial/comments/1tca35z/data_centers_could_account_for_up_to_9_of_texas/)**
+**[Question: Are AI referrals actually better than Google traffic?](https://www.reddit.com/r/artificial/comments/1tckme5/question_are_ai_referrals_actually_better_than/)**
 
-The report comes as Texas sees a boom in data center construction, driven largely by the rise of artificial intelligence and cloud computing.
+Are AI referrals actually better than Google traffic? We’re seeing: smaller volume WAY higher engagement stronger intent One brand went from basically 0 AI traffic to ~210 sessions in 90 days with ~70% engagement. Feels tiny until you compare quality.
 
-🔗 [KUT Radio, Austin's NPR Station](https://www.kut.org/energy-environment/2026-05-11/data-centers-could-account-for-up-to-9-of-texas-water-use-by-2040-ut-austin-report-finds) • 14h ago
+9h ago
 
 ---
 
-**[Trying to use VEO 3 but the limits are too small. How do you use it?](https://www.reddit.com/r/artificial/comments/1tcrkto/trying_to_use_veo_3_but_the_limits_are_too_small/)**
+**[I've been documenting real AI implementations. Here is a list of findings, surprises and cases (db)](https://www.reddit.com/r/artificial/comments/1tcrky6/ive_been_documenting_real_ai_implementations_here/)**
 
-I want to join the pro plan but have seen that in Gemini you can only create 3 videos per day? Is that correct? That will be no good for me as I usually have to create multiples to get the right clip each time. It would be useless to me if I had to stop after only 3. I need more like 50-100 per day to make multiple videos. So then I looked into flow and they have a light version on there which allows you to create videos for 10 credits each. I think that means the pro plan would have 100 videos per month? Are most of you using the lite version to create your videos or are you using Gemini and using the 3 image limit? I know the ultra plan comes with 12500 credits which is more like what I need but I want to make sure I'm choosing the right AI model to begin with. I don't know how cost effective the API would be in creating videos. I've read some think it costs less, while others think it costs more. What tool/how are you creating a lot of clips per day to create the video you want without spending hundreds/thousands per month doing it? Maybe I've missed another way to do it? Hoping to hear a better way! Thanks
+hey there.. the same question keeps popping up, how are companies actually using AI right now? what's working, what's not, which tools are teams using, which industries are moving faster? got tired of speculating so I started pulling together real cases from real companies. no hype, no theory, just what they did and what happened. There are around 250 cases now, filterable by industry, tool, business function, whatever you need. High bar of inclusion (needs to be a real customer and clear outcomes + a detailed process). few things standing out so far: Engineering and Finance are way ahead of everyone else Logistics and manufacturing look slow on paper, but I think those projects just take longer to ship and show results. doesn't mean nothing's happening there 3 patterns keep showing up: layered setups (LLMs + orchestration + apps), end to end products where the LLM is hidden from the user, and more mature orgs running a hybrid of both on outcomes, speed gains are by far the most common (14%). workforce reduction and revenue lift are way rarer (under 4% each) full cases db here does any of this match what you're seeing out there?
 
-1h ago
+3h ago
+
+---
+
+**[Does anyone else feel most AI tooling is becoming harder instead of easier?](https://www.reddit.com/r/artificial/comments/1tco80m/does_anyone_else_feel_most_ai_tooling_is_becoming/)**
+
+Is anyone else feeling like most AI tooling is getting harder, not easier? I feel like I spend half my time fighting frameworks, configs, vector DBs, and orchestration layers instead of building. Perhaps I'm doing it wrong but the ecosystem seems way more complicated than it needs to be at the moment. Just curious what people actually like working with these days.
+
+6h ago
+
+---
+
+**[Anthropic’s Claude Helps Recover Lost Bitcoin Wallet Holding $400K After 11 Years](https://www.reddit.com/r/artificial/comments/1tcvrjx/anthropics_claude_helps_recover_lost_bitcoin/)**
+
+A Bitcoin holder reportedly regained access to a lost 5 BTC wallet after using Anthropic’s Claude to analyze old files and recovery clues.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-claude-bitcoin-wallet-recovery/) • 6m ago
 
 ---
 
@@ -119,53 +119,55 @@ I want to join the pro plan but have seen that in Gemini you can only create 3 v
 
 ## Google News: "ai"
 
-**[Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami](https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html)**
+**[U.S. can hold AI talks with China because ‘we are in the lead,’ Bessent tells CNBC as nations plan safety protocol](https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html)**
 
-Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year.
+The U.S. Treasury Secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days.
 
-CNBC • 12h ago
-
----
-
-**[Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)**
-
-Men are obsessed with AI. Many of their wives absolutely hate it—and them.
-
-WIRED • 23h ago
+CNBC • 1h ago
 
 ---
 
-**[The energy squeeze behind the Iran war and AI boom](https://www.axios.com/2026/05/14/energy-squeeze-iran-ai-boom)**
+**[US, China are discussing AI guardrails to safeguard most powerful models, Bessent says](https://www.reuters.com/world/asia-pacific/us-china-are-discussing-ai-guardrails-safeguard-most-powerful-models-bessent-2026-05-14/)**
 
-Axios • 56m ago
+Reuters • 38m ago
 
 ---
 
-**[‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era](https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood)**
+**[Opinion | China Doesn’t Worry About A.I. Like We Do](https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html)**
 
-Defying criticisms of ‘slop’ and ‘theft’, the growing culture of AI-powered creativity is attracting interest from Hollywood
+The New York Times • 2h ago
+
+---
+
+**[Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark](https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/)**
+
+Reliable, self-evolving and powered by the newest agentic large language models, Hermes brings a new class of agents to NVIDIA RTX PCs and workstations.
+
+NVIDIA Blog • 22h ago
+
+---
+
+**[Chinese companies are ramping up homegrown AI chips, even if Nvidia is coming back](https://www.cnbc.com/2026/05/14/china-ai-chips-nvidia.html)**
+
+Chinese tech companies have turned to domestic chips as Nvidia has remained shut out of the market.
+
+CNBC • 49m ago
+
+---
+
+**[The Elon Musk v Sam Altman battle is a distraction | Karen Hao](https://www.theguardian.com/technology/commentisfree/2026/may/14/elon-musk-sam-altman-ai-feud)**
+
+Fixating on questions of whether Altman is untrustworthy, or whether Musk is even less so distracts from a far deeper problem with AI
 
 The Guardian • 55m ago
 
 ---
 
-**[Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge](https://www.reuters.com/technology/cisco-raises-annual-revenue-forecast-2026-05-13/)**
+**[AI gives job scammers a new edge for sounding even more believable](https://www.freep.com/story/money/personal-finance/susan-tompor/2026/05/14/email-from-recruiter-scams-employment-fraud/89966485007/)**
 
-Reuters • 11h ago
+Sophisticated job scams are on the rise, using AI to draft elaborate, personalized pitches from phony recruiters. Here are the signs of a job scam.
 
----
-
-**[Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs](https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html)**
-
-Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026.
-
-CNBC • 13h ago
-
----
-
-**[Cisco Stock Soars on Plan to Cut Staff in Favor of AI Spending](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cisco-stock-soars-on-plan-to-cut-staff-in-favor-of-ai-spending-lZMQFZAsXTx733FEqUs6)**
-
-WSJ • 1h ago
+Detroit Free Press • 54m ago
 
 ---
 
@@ -173,19 +175,19 @@ WSJ • 1h ago
 
 We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.
 
-Anthropic • 17h ago
+Anthropic • 19h ago
+
+---
+
+**[Pope Leo sets Catholics on collision course with AI](https://www.axios.com/2026/05/14/pope-leo-xiv-ai-first-encyclical)**
+
+Axios • 2h ago
 
 ---
 
 **[Is AI putting graduates out of work already?](https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already)**
 
-The Economist • 15h ago
-
----
-
-**[Chinese Public Greets Trump in Beijing With AI Memes, Confidence](https://www.bloomberg.com/news/articles/2026-05-14/chinese-public-greets-trump-in-beijing-with-ai-memes-confidence)**
-
-Bloomberg.com • 4h ago
+The Economist • 17h ago
 
 ---
 
@@ -197,7 +199,7 @@ Bloomberg.com • 4h ago
 
 For the last decade, fast-to-ship beat fast-to-run. Not anymore.
 
-⬆️ 906 • 💬 961 • 2d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+⬆️ 907 • 💬 962 • 2d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ---
 
@@ -207,7 +209,7 @@ I try to pay attention to the small things that affect my quality of life. When 
 
 What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
 
-⬆️ 269 • 💬 282 • 2d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 270 • 💬 282 • 2d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
 
 ---
 
@@ -215,7 +217,7 @@ What changed recently is what I'm willing to build to support that. With AI tool
 
 Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
 
-⬆️ 247 • 💬 212 • 1d ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
+⬆️ 248 • 💬 212 • 1d ago • [Google DeepMind](https://deepmind.google/blog/ai-pointer/)
 
 ---
 
@@ -223,7 +225,7 @@ Google DeepMind is transforming the mouse pointer into a context-aware AI partne
 
 Workers are using an internal AI tool to automate non-essential tasks.
 
-⬆️ 246 • 💬 247 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+⬆️ 246 • 💬 249 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 
 ---
 
@@ -237,7 +239,7 @@ Workers are using an internal AI tool to automate non-essential tasks.
 
 Energy matters for AI, but the decisive layers are cloud infrastructure, data, and commercialization. On those layers the United States is ahead by a wide margin.
 
-⬆️ 200 • 💬 548 • 20h ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
+⬆️ 211 • 💬 572 • 22h ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
 
 ---
 
@@ -253,7 +255,7 @@ A commencement speaker at the University of Central Florida was booed, with grad
 
 Hey Meta, why are Threads users angry?
 
-⬆️ 168 • 💬 75 • 13h ago • [The Verge](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
+⬆️ 170 • 💬 75 • 15h ago • [The Verge](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
 
 ---
 
@@ -261,15 +263,15 @@ Hey Meta, why are Threads users angry?
 
 State machine guardrails for AI agents. Contribute to statewright/statewright development by creating an account on GitHub.
 
-⬆️ 113 • 💬 51 • 1d ago • [GitHub](https://github.com/statewright/statewright)
+⬆️ 114 • 💬 52 • 1d ago • [GitHub](https://github.com/statewright/statewright)
 
 ---
 
-**[I work in Hollywood. Everyone who used to make TV is now training AI](https://news.ycombinator.com/item?id=48093446)**
+**[Software Developers Say AI Is Rotting Their Brains](https://news.ycombinator.com/item?id=48121717)**
 
-For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.
+“It's making me dumber for sure.”
 
-⬆️ 106 • 💬 86 • 2d ago • [WIRED](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
+⬆️ 94 • 💬 108 • 22h ago • [404 Media](https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/)
 
 ---
 
@@ -303,7 +305,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 86 • 💬 2 • ⏱️ 8:04 • 19h ago
+👁️ 4K • 👍 86 • 💬 2 • ⏱️ 8:04 • 21h ago
 
 ---
 
@@ -323,7 +325,7 @@ In this episode of ETF Spotlight, Kai Wu, Founder & Chief Investment Officer at 
 
 📺 TheStreet
 
-👁️ 23K • 👍 441 • 💬 117 • ⏱️ 15:46 • 15h ago
+👁️ 23K • 👍 441 • 💬 117 • ⏱️ 15:46 • 17h ago
 
 ---
 
@@ -343,7 +345,7 @@ Meta just announced it's firing 20% of employees, tens of thousands of jobs, rep
 
 📺 Mark Savant
 
-👁️ 2K • 👍 118 • 💬 58 • ⏱️ 14:01 • 14h ago
+👁️ 2K • 👍 118 • 💬 58 • ⏱️ 14:01 • 16h ago
 
 ---
 
@@ -353,7 +355,7 @@ If you prefer listening while driving, working out, or just don't want to stay o
 
 📺 Ryan Pictures
 
-👁️ 79K • 👍 3K • 💬 257 • ⏱️ 22:52 • 16h ago
+👁️ 79K • 👍 3K • 💬 257 • ⏱️ 22:52 • 18h ago
 
 ---
 
@@ -361,7 +363,7 @@ If you prefer listening while driving, working out, or just don't want to stay o
 
 📺 AGON
 
-👁️ 14K • 👍 515 • 💬 17 • ⏱️ 0:44 • 11h ago
+👁️ 14K • 👍 515 • 💬 17 • ⏱️ 0:44 • 13h ago
 
 ---
 
@@ -371,7 +373,7 @@ Can a wearable AI "friend" solve the male loneliness epidemic? Ronny Chieng sits
 
 📺 The Daily Show
 
-👁️ 202K • 👍 7K • 💬 600 • ⏱️ 7:04 • 22h ago
+👁️ 202K • 👍 7K • 💬 600 • ⏱️ 7:04 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 16,801 • ❤️ 510 • 56m ago
+⬇️ 16,801 • ❤️ 510 • 2h ago
 
 ---
 
@@ -666,7 +668,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.7k • 🔱 283 • 9h ago
+⭐ 2.7k • 🔱 283 • 11h ago
 
 ---
 
@@ -676,7 +678,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.7k • 🔱 308 • 9h ago
+⭐ 2.7k • 🔱 308 • 11h ago
 
 ---
 
@@ -686,7 +688,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.6k • 🔱 236 • 14h ago
+⭐ 2.6k • 🔱 236 • 16h ago
 
 ---
 
@@ -696,7 +698,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.2k • 🔱 145 • 2h ago
+⭐ 2.2k • 🔱 145 • 4h ago
 
 ---
 
@@ -726,7 +728,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 2.0k • 🔱 112 • 10m ago
+⭐ 2.0k • 🔱 112 • 2h ago
 
 ---
 
@@ -736,7 +738,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 326 • 2h ago
+⭐ 1.9k • 🔱 326 • 4h ago
 
 ---
 

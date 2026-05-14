@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-14T09:56:59.082138+00:00'
+updated: '2026-05-14T11:55:24.329387+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 14, 2026 at 09:56 UTC  
+**Last Updated:** May 14, 2026 at 11:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,47 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Vision Tracker?](https://www.reddit.com/r/robotics/comments/1tclegi/vision_tracker/)**
-
-CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
-
-7h ago
-
----
-
 **[Johnny 5 Lego MOC: J5Moc](https://www.reddit.com/r/robotics/comments/1tcpaw1/johnny_5_lego_moc_j5moc/)**
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-3h ago
+5h ago
+
+---
+
+**[Vision Tracker?](https://www.reddit.com/r/robotics/comments/1tclegi/vision_tracker/)**
+
+CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
+
+9h ago
 
 ---
 
 **[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
 
-16h ago
+18h ago
 
 ---
 
 **[Wuji tech teases its newest, most advanced humanoid hand](https://www.reddit.com/r/robotics/comments/1tc541q/wuji_tech_teases_its_newest_most_advanced/)**
 
-17h ago
-
----
-
-**[My experience using Claude Code for robotics from the advice of r/robotics](https://www.reddit.com/r/robotics/comments/1tc4r9n/my_experience_using_claude_code_for_robotics_from/)**
-
-Hey r/robotics community, A couple weeks back, I asked about how you all were managing AI development in robotics and I got a bunch of great responses. To summarize: My problems ROS 1 and ROS 2 commands/syntax, Gazebo versions, are consistently confused by Claude Code Claude doesn't really understand the asynchronous messaging structure or any runtime-specific errors/bugs I may run into due to its code The changes Claude Code makes during my development often lead my code in the wrong direction, making debugging take even longer Your solutions Many of you mentioned building custom tooling and skills really helps Claude orient itself Supplying your own context and description of the repository and standardizing it across claude sessions using an `ARCHITECTURE.md` / `CLAUDE.md` also really helps Minimal working examples are also very helpful. Having somewhere Claude can turn to and say, "this is a simple example of how things are supposed to work" helps the agent orient itself I implemented four changes into my setup: Custom MCP tools and skills Supplying context from my own repository Supplying minimal working examples I made myself and found off the internet Supplying documentation relevant to my software stack. For me, that was ROS 2 Jazzy, Gazebo Harmonic, PX4, and Nav2 After making these changes, I've seen a pretty sizeable increase in my development speed using AI in robotics. Previously, I was trying to fill my context window with the code I've already written, but that seemed to not be enough context for Claude to actually understand the software architecture or data pipeline in my codebase. With the changes I've mentioned above, I actually noticed that I can let Claude develop new nodes and software. There's significantly less problems when integrating Claude's code and existing code from what I've seen so far. One thing that was always an annoyance for me was Claude's lack of understanding of what was ROS 1 and what was ROS 2. I ended up creating a RAG database that can input relevant documentation for whatever Claude was working on and that's worked incredibly well. With this in pairing with some custom tool calls I've made, my setup no longer has any confusion on what's ROS 2 and what commands I have access to running ROS 2 Jazzy and Gazebo Harmonic in particular. Thanks for all of your help! I thought I'd leave this post here for those who may also run into something similar trying to use Claude Code for robotics. I'm considering even doing some custom evals for this setup on robotics-specific coding problems because of how much more consistent this setup seems to be. If anyone's already done something similar to this, would love to hear about it in the comments. Cheers!
-
-17h ago
-
----
-
-**[Robot hands](https://www.reddit.com/r/robotics/comments/1tcijo4/robot_hands/)**
-
-If Watch Makers The Big Ones Decided to make robot hands will they be able to make it as reliable as watches they’re making Because i see all the robots and hands are most complicated part. And it seems hands will brake a lot.
-
-9h ago
+19h ago
 
 ---
 
@@ -80,7 +64,23 @@ If Watch Makers The Big Ones Decided to make robot hands will they be able to ma
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 3h ago
+
+---
+
+**[My experience using Claude Code for robotics from the advice of r/robotics](https://www.reddit.com/r/robotics/comments/1tc4r9n/my_experience_using_claude_code_for_robotics_from/)**
+
+Hey r/robotics community, A couple weeks back, I asked about how you all were managing AI development in robotics and I got a bunch of great responses. To summarize: My problems ROS 1 and ROS 2 commands/syntax, Gazebo versions, are consistently confused by Claude Code Claude doesn't really understand the asynchronous messaging structure or any runtime-specific errors/bugs I may run into due to its code The changes Claude Code makes during my development often lead my code in the wrong direction, making debugging take even longer Your solutions Many of you mentioned building custom tooling and skills really helps Claude orient itself Supplying your own context and description of the repository and standardizing it across claude sessions using an `ARCHITECTURE.md` / `CLAUDE.md` also really helps Minimal working examples are also very helpful. Having somewhere Claude can turn to and say, "this is a simple example of how things are supposed to work" helps the agent orient itself I implemented four changes into my setup: Custom MCP tools and skills Supplying context from my own repository Supplying minimal working examples I made myself and found off the internet Supplying documentation relevant to my software stack. For me, that was ROS 2 Jazzy, Gazebo Harmonic, PX4, and Nav2 After making these changes, I've seen a pretty sizeable increase in my development speed using AI in robotics. Previously, I was trying to fill my context window with the code I've already written, but that seemed to not be enough context for Claude to actually understand the software architecture or data pipeline in my codebase. With the changes I've mentioned above, I actually noticed that I can let Claude develop new nodes and software. There's significantly less problems when integrating Claude's code and existing code from what I've seen so far. One thing that was always an annoyance for me was Claude's lack of understanding of what was ROS 1 and what was ROS 2. I ended up creating a RAG database that can input relevant documentation for whatever Claude was working on and that's worked incredibly well. With this in pairing with some custom tool calls I've made, my setup no longer has any confusion on what's ROS 2 and what commands I have access to running ROS 2 Jazzy and Gazebo Harmonic in particular. Thanks for all of your help! I thought I'd leave this post here for those who may also run into something similar trying to use Claude Code for robotics. I'm considering even doing some custom evals for this setup on robotics-specific coding problems because of how much more consistent this setup seems to be. If anyone's already done something similar to this, would love to hear about it in the comments. Cheers!
+
+19h ago
+
+---
+
+**[Robot hands](https://www.reddit.com/r/robotics/comments/1tcijo4/robot_hands/)**
+
+If Watch Makers The Big Ones Decided to make robot hands will they be able to make it as reliable as watches they’re making Because i see all the robots and hands are most complicated part. And it seems hands will brake a lot.
+
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I’m using a RoboDK-generated .script program on a UR e-Series robot with an OnRobot RG2 gripper, and I need to slightly correct a few individual motions. Is there an easy way to do this directly on the robot? For example, can I use Freedrive to move the robot to the correct position and somehow copy the TCP coordinates/pose into the script, or is editing individual motions inside a generated .script file generally not practical?
 
-2h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello. I would like to get some ideas on how I could extend this tube feeder mag
 
 Anyone working with the Unitree G1 basic and have opened it up to review the motherboard? I am curious if it is the same as the EDU and just missing the jetson? I know other things are missing such as some wiring, the leg motors are slightly stronger on EDU. I am curious to see what mods can be done, what integration can occur. I know secondary development is not available on the basic, but if you slotted in a jetson or added another piggyback system, expansion can occur. Of course, this depends on integration with the mainboard. Just curious what others have done.
 
-13h ago
+15h ago
 
 ---
 
@@ -112,11 +112,27 @@ Anyone working with the Unitree G1 basic and have opened it up to review the mot
 
 ## Google News: "robotics"
 
-**[Mind Robotics Announces $400M in New Funding to Expand Industrial Robotics Deployment](https://www.businesswire.com/news/home/20260513731983/en/Mind-Robotics-Announces-%24400M-in-New-Funding-to-Expand-Industrial-Robotics-Deployment)**
+**[Rivian CEO’s robotics startup tops $1 billion in funding: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-scaringe-robotics-mind-raises-funding-20260513/)**
 
-Mind Robotics today announced a $400 million financing led by Kleiner Perkins, bringing total investment in Mind Robotics to more than $1 billion. This finan...
+A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
 
-Business Wire • 18h ago
+Crain's Chicago Business • 15h ago
+
+---
+
+**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+
+Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+
+TechCrunch • 19h ago
+
+---
+
+**[Rivian shares jump as AI robotics spinout Mind Robotics closes $400M round](https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html)**
+
+Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -124,29 +140,29 @@ Business Wire • 18h ago
 
 Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
 
-Global Times • 1d ago
+Global Times • 2d ago
 
 ---
 
-**[Helix-02 robots now sustain full factory-style 8-hour shifts without intervention](https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts)**
+**[AmbiStack Selected for 2026 RBR50 Awards, Marking Third Recognition for Ambi Robotics](https://www.businesswire.com/news/home/20260514866490/en/AmbiStack-Selected-for-2026-RBR50-Awards-Marking-Third-Recognition-for-Ambi-Robotics)**
 
-Figure AI says its Helix-02 humanoid robots can now autonomously run full 8-hour work shifts.
+AmbiStack Selected for 2026 RBR50 Awards, Marking Third Recognition for Ambi Robotics
 
-Interesting Engineering • 12h ago
-
----
-
-**[Video David Muir reports on technological advances of China's humanoid robots - ABC News](https://abcnews.com/video/132938245/)**
-
-With the global race for artificial intelligence and robotics technology in full swing, David Muir takes a closer look at the humanoid robots being built in China.
-
-ABC News - Breaking News, Latest News and Videos • 10h ago
+Business Wire • 55m ago
 
 ---
 
 **[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Underwater robots finds rare artifacts in France's deepest shipwreck, a 16th century vessel](https://www.foxweather.com/lifestyle/underwater-robot-rare-artifacts-france-shipwreck-16th-century)**
+
+The team, made up of members of the French Navy and France’s Department of Underwater and Submarine Archaeological Research, embarked on a 3-day mission in April to study and carefully recover artifacts from the Camarat 4.
+
+FOX Weather • 1d ago
 
 ---
 
@@ -154,7 +170,7 @@ Bloomberg.com • 4h ago
 
 NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
 
-NASA (.gov) • 12h ago
+NASA (.gov) • 14h ago
 
 ---
 
@@ -166,25 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+**[Helix-02 robots now sustain full factory-style 8-hour shifts without intervention](https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts)**
 
-Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+Figure AI says its Helix-02 humanoid robots can now autonomously run full 8-hour work shifts.
 
-TechCrunch • 17h ago
-
----
-
-**[South Korea Looks to Hyundai Robots as Army Numbers Shrink](https://www.eweek.com/news/south-korea-hyundai-military-robots-apac/)**
-
-eWeek • 1d ago
-
----
-
-**[Robots get terrifyingly real: new artificial muscles inspired by living creatures](https://www.futura-sciences.com/en/robots-get-terrifyingly-real-new-artificial-muscles-inspired-by-living-creatures_31375/)**
-
-Bio-inspired Muscles: A Leap for Robotics In a study titled “Versatile Artificial Muscles by Decoupling Anisotropy”, recently published in PNAS (the Proceedings of the National Academy of Sciences), scientists reveal a new generation of actuators set to turbocharge the world of robotics. These artificial muscles promise to make robots not...
-
-Futura, le média qui explore le monde • 21h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -198,7 +200,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 799 • 👍 29 • 💬 3 • ⏱️ 21:16 • 15h ago
+👁️ 799 • 👍 29 • 💬 3 • ⏱️ 21:16 • 17h ago
 
 ---
 
@@ -208,7 +210,7 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 134 • 💬 14 • ⏱️ 55:02 • 19h ago
+👁️ 5K • 👍 134 • 💬 14 • ⏱️ 55:02 • 21h ago
 
 ---
 
@@ -238,7 +240,7 @@ QingTing Drone Is Broken? I havent used this drone since it was really released.
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 345 • 💬 51 • ⏱️ 15:19 • 21h ago
+👁️ 7K • 👍 345 • 💬 51 • ⏱️ 15:19 • 23h ago
 
 ---
 
@@ -248,7 +250,7 @@ The Future is Here: Meet the Most Advanced Robotic Dogs Revolutionizing Our Worl
 
 📺 EduQuest Facts
 
-👁️ 700 • 👍 22 • 💬 1 • ⏱️ 0:32 • 3h ago
+👁️ 700 • 👍 22 • 💬 1 • ⏱️ 0:32 • 5h ago
 
 ---
 
@@ -258,7 +260,7 @@ War Robots - New Giveaway 50x Furnace weapons up for grabs! For a chance to win 
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 711 • 💬 779 • ⏱️ 17:41 • 20h ago
+👁️ 4K • 👍 711 • 💬 779 • ⏱️ 17:41 • 22h ago
 
 ---
 
@@ -278,7 +280,7 @@ If you want to win a much nicer robot lawn mower enter to win the Yuka Mini 2 ..
 
 📺 Shifting Metal 2.0 
 
-👁️ 7K • 👍 256 • 💬 48 • ⏱️ 31:21 • 16h ago
+👁️ 7K • 👍 256 • 💬 48 • ⏱️ 31:21 • 18h ago
 
 ---
 

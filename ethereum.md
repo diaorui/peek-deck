@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-14T09:56:59.078930+00:00'
+updated: '2026-05-14T11:55:24.326104+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 09:56 UTC  
+**Last Updated:** May 14, 2026 at 11:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -2.2%  
-**30d:** -4.4%  
-**90d:** +8.2%  
-**1y:** -11.4%  
+**24h:** -1.4%  
+**7d:** -2.3%  
+**30d:** -4.5%  
+**90d:** +8.1%  
+**1y:** -11.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Three months after mainnet launched, Vitalik deployed an advertising auction system to Ethereum. Eight ad slots, four auction mechanisms (one-phase winner-pays, cumulative, sealed-bid first-price, sealed-bid second-price), all managed by a factory contract called adStorer from ethereum/dapp-bin. I matched the deployed bytecode to source through compiler archaeology. Exact match, 8,752 bytes, solc v0.1.1. Then I decoded every transaction across all 8 child auction contracts. The only bidder was Vitalik himself. Two wallets (his old deployer and what’s now vitalik.eth), 229 transactions, 0.064 ETH in bids. The winning “advertisements” were two image URLs: me.jpg (a photo of himself) and heiko.jpg (a photo of Heiko Hees, who was building pyethereum). Both are 404 today. Some details: Slot 5 is a second-price sealed-bid auction. vitalik.eth bid 0.0005 ETH, his old wallet bid 0.0003 ETH. Second-price rules made vitalik.eth pay the runner-up’s price. The first Vickrey auction on Ethereum selected a photo of a pyethereum developer over its own creator. Gas cost more than the bids. Vitalik burned ~1 ETH on gas (at 60 gwei, hard-coded in his deploy script) to move 0.064 ETH through the auction mechanics. At October 2015 prices, the whole experiment cost about $2. Slot 1 was a stress test. 159 transactions, with Vitalik rebidding the same 0.0001 ETH increment 19 times in a row to validate cumulative bidding. Three of the four all-pay auction variants got zero bids. He abandoned the one he tried before revealing. Even Vitalik didn’t trust his own all-pay math. The sealed-bid auctions had a frontend bug where bid hashes were passed as ASCII hex instead of raw bytes, making commitments readable in calldata. Didn’t matter since the only participant wrote the code. 0.029 ETH (~$70 today, $0.03 in 2015) is still locked in the child contracts from unrevealed sealed bids. This was deployed three weeks before DevCon 1, on a network with maybe a few hundred users. A mechanism design experiment that nobody participated in except its creator, preserved on-chain for ten years. I checked the Wayback Machine for the ad images. The closest capture of vitalik.ca/files/ is from June 2016. Neither photo was archived. Full documentation with verified source, decoded bids, and all 8 slots mapped: https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e This is part of the EthereumHistory project where we’re documenting and verifying the earliest Ethereum contracts. If you want to help, the project is open.
 
-🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 20h ago
+🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 22h ago
+
+---
+
+**[$770 million stolen in defi this year. 40+ protocols shut down. bridges are the common denominator and nobody is fixing the actual problem.](https://www.reddit.com/r/ethereum/comments/1tcu2m4/770_million_stolen_in_defi_this_year_40_protocols/)**
+
+the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained through their layerzero bridge. single exploit hit 20+ chains because one bridge contract held the reserves for all of them drift protocol: $285M. north korean hackers spent 6 months social engineering their way in 1inch/trustedvolumes: $6.7M last week. same attacker from the 2025 hack came back and found a new door april 2026 alone: $600M+ stolen across 28-30 separate incidents. worst single month in crypto history 40+ protocols have shut down or entered wind-down mode this year. aave froze rsETH markets and lost $6 billion in TVL from panic withdrawals even though their contracts weren't touched. the pattern isn't random. bridges keep producing the biggest single-day losses because they're designed as massive honeypots. $22 billion in bridge TVL as of march, each one a single point of failure for every protocol downstream. what bugs me is the response is always the same. "we need better audits." "we need better monitoring." nobody is questioning whether the bridge model itself is fundamentally broken. bridges work by locking assets on one chain and minting representations on another through a trusted intermediary (multisig, oracle network, validator set). every one of these is an attack surface. kelp's bridge got spoofed because layerzero's messaging layer was fooled into thinking the withdrawal was legitimate. the alternative exists. data availability layers can handle cross-chain verification without lock-and-mint. instead of one contract holding $293M that can be drained in a single tx, you verify data availability cryptographically across chains. no honeypot, no single point of failure, no trusted intermediary to spoof. DA layers like avail, celestia, eigenda are live and production ready. the tech isn't theoretical anymore. it's an adoption problem not a research problem. at what point do we stop patching bridges and start replacing them?
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Three months after mainnet launched, Vitalik deployed an advertising auction sys
 
 I get the basics of how Ethereum works, but I’m trying to understand the institutional side better. What do they actually want from it? And does their involvement change where Ethereum is headed, whether that’s decentralization, governance, or how the protocol develops? Genuinely curious what people who follow this space think.
 
-13h ago
+15h ago
 
 ---
 
@@ -96,7 +104,7 @@ I get the basics of how Ethereum works, but I’m trying to understand the insti
 
 Turning consensus research into practice. We design, analyze, and formally verify consensus protocols for Ethereum.
 
-🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 8h ago
+🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 10h ago
 
 ---
 
@@ -104,13 +112,13 @@ Turning consensus research into practice. We design, analyze, and formally verif
 
 My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
 
-17h ago
+19h ago
 
 ---
 
 **[Aztec Foundation contributes 1% of AZTEC token supply toward supporting Ethereum Core Development via Protocol Guild](https://www.reddit.com/r/ethereum/comments/1tc65xb/aztec_foundation_contributes_1_of_aztec_token/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 18h ago
 
 ---
 
@@ -136,14 +144,6 @@ The DTCC and Chainlink partnership directly benefits Ethereum by establishing it
 
 ---
 
-**[Clear Signing | See What You Sign](https://www.reddit.com/r/ethereum/comments/1tb6ku5/clear_signing_see_what_you_sign/)**
-
-The open standard for human-readable transaction signing.
-
-🔗 [Clear Signing](https://clearsigning.org/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ The open standard for human-readable transaction signing.
 
 The current near-parity gives both chains another chance to position themselves to capture volume when onchain activity rotates back.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -160,7 +160,15 @@ The Block • 20h ago
 
 Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
-Decrypt • 17h ago
+Decrypt • 19h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-may-14-2026-bitcoin-and-ethereum-prices-slipping-this-week-111938059.html)**
+
+Bitcoin opened at $79,283.34 on Thursday, down 1.5% from Wednesday's opening price. Ethereum opened at $2,257.71 on Thursday, down 0.7% from Wednesday’s opening value.
+
+Yahoo Finance • 35m ago
 
 ---
 
@@ -168,31 +176,15 @@ Decrypt • 17h ago
 
 If Ethereum can grow at a steady 20% rate, it could reclaim its all-time high from 2025.
 
-The Motley Fool • 17m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[JPMorgan launching second tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum)**
+**[Ethereum faces rising selling pressure: will ETH drop below $2,200?](https://www.tradingview.com/news/invezz:61916aba9094b:0-ethereum-faces-rising-selling-pressure-will-eth-drop-below-2-200/)**
 
-The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
+Ethereum (ETH) is experiencing heightened selling pressure, particularly in the spot markets, after recent developments in US-Iran peace talks have led to increased volatility.Additionally, with oil prices surging, ETH has been unable to recover the crucial $2,300 level as of Thursday, signaling po…
 
-The Block • 1d ago
-
----
-
-**[JPMorgan Launching Second Tokenized Money Market Fund on Ethereum — Bullish For ETH Price?](https://finance.yahoo.com/news/jpmorgan-launching-second-tokenized-money-100215730.html)**
-
-JPMorgan has filed for a second tokenized money market fund on Ethereum. The proposed JLTXX fund would tokenize Treasury-backed assets on Ethereum. Some analysts and ...
-
-Yahoo Finance • 23h ago
-
----
-
-**[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum](https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum)**
-
-Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.
-
-Decrypt • 1d ago
+TradingView • 54m ago
 
 ---
 
@@ -200,7 +192,7 @@ Decrypt • 1d ago
 
 The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -210,17 +202,25 @@ ethereum.org • 1d ago
 
 ---
 
-**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+**[Ethereum Foundation rolls out support for Clear Signing crypto security solution](https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution)**
 
-Disruption Banking • 1d ago
+Clear Signing is a crypto security feature that aims to simplify transaction descriptions so humans can understand what they're approving.
+
+The Block • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH holds support, XRP eyes breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-holds-support-xrp-eyes-breakout-202605130342)**
+**[Ethereum Foundation Unstakes 21,270 ETH](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-unstakes-21-270-123700561.html)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade cautiously on Wednesday as price action approaches key technical levels across these top three cryptocurrencies. BTC stalls near the key resistance level around $82,000 while ETH holds firm above the key support at $2,275.
+The Ethereum Foundation has unstaked more than 21,000 Ethereum (CRYPTO: $ETH) after carrying out treasury sales to ...
 
-FXStreet • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Circle CEO Reveals CLARITY Act’s Impact on Bitcoin, Ethereum and XRP](https://coinpedia.org/news/circle-ceo-reveals-clarity-acts-impact-on-bitcoin-ethereum-and-xrp/)**
+
+Coinpedia • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NO
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 2K • 💬 25 • ⏱️ 4:30 • 17h ago
+👁️ 7K • 👍 2K • 💬 25 • ⏱️ 4:30 • 19h ago
 
 ---
 
@@ -244,7 +244,7 @@ CharlesSchwab's Nathan Peterson offers his latest in-depth look into the price a
 
 📺 Schwab Network
 
-👁️ 1K • 👍 25 • ⏱️ 7:44 • 11h ago
+👁️ 1K • 👍 25 • ⏱️ 7:44 • 13h ago
 
 ---
 
@@ -262,7 +262,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 654 • 💬 14 • ⏱️ 2:13 • 8h ago
+👁️ 9K • 👍 654 • 💬 14 • ⏱️ 2:13 • 10h ago
 
 ---
 
@@ -272,7 +272,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 76 • 💬 13 • ⏱️ 10:03 • 21h ago
+👁️ 2K • 👍 76 • 💬 13 • ⏱️ 10:03 • 23h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 4K • 👍 224 • 💬 101 • ⏱️ 19:06 • 6h ago
+👁️ 4K • 👍 224 • 💬 101 • ⏱️ 19:06 • 8h ago
 
 ---
 
@@ -312,7 +312,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 235 • 👍 8 • 💬 1 • ⏱️ 5:10 • 14h ago
+👁️ 235 • 👍 8 • 💬 1 • ⏱️ 5:10 • 16h ago
 
 ---
 
@@ -322,7 +322,7 @@ Vitalik Buterin just challenged the entire Layer 2 narrative. If Ethereum mainne
 
 📺 CoinGecko
 
-👁️ 3K • 👍 199 • 💬 49 • ⏱️ 8:44 • 2d ago
+👁️ 3K • 👍 199 • 💬 49 • ⏱️ 8:44 • 3d ago
 
 ---
 
