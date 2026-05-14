@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-14T18:17:38.466686+00:00'
+updated: '2026-05-14T20:14:03.599997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 18:17 UTC  
+**Last Updated:** May 14, 2026 at 20:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,505.20
+### $81,382.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +2.0%  
-**30d:** +9.3%  
-**90d:** +17.1%  
-**1y:** -21.3%  
+**24h:** +2.6%  
+**7d:** +1.6%  
+**30d:** +8.9%  
+**90d:** +16.7%  
+**1y:** -21.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1631.80B
+**Market Cap:** $1633.61B
 Rank #1
 
-**Circulating Supply:** 20,029,281 BTC
+**Circulating Supply:** 20,029,390 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.3%
 
 **All-Time Low:** $67.81
-+120087.3%
++120118.3%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 The Senate Banking Committee votes Thursday on the CLARITY Act, comprehensive crypto legislation that would give 50 million U.S. crypto holders clear regulatory rules after years of uncertainty under the SEC and CFTC. What The Bill Does The CLARITY Act establishes clear rules separating which digital assets are securities and which are commodities, ending the jurisdictional confusion between the SEC and CFTC that has plagued the industry. The bill requires digital asset exchanges, brokers, and dealers to comply with Bank Secrecy Act regulations, including anti-money laundering programs, suspicious activity reporting, and sanctions compliance. The legislation protects software developers who publish code without controlling customer funds and preserves Americans’ ability to self-custody their digital assets. It also requires registration of Bitcoin (CRYPTO: BTC) ATMs with customer warnings, receipts, holding periods, and withdrawal limits.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/clarity-act-one-vote-away-164913139.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/clarity-act-one-vote-away-164913139.html) • 9h ago
+
+---
+
+**[Breaking: Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle](https://www.reddit.com/r/Bitcoin/comments/1td7nm9/breaking_crypto_industry_scores_win_as_clarity/)**
+
+The Senate Banking Committee advanced a rules-of-the-road crypto bill known as the Clarity Act by a vote of 15-9.
+
+🔗 [CNBC](https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html) • 1h ago
 
 ---
 
@@ -89,15 +97,7 @@ The Senate Banking Committee votes Thursday on the CLARITY Act, comprehensive cr
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade, with help from Anthropic’s AI chatbot Claude. The user, known as Cprkrn on X, shared the wild crypto recovery story on May 13, saying Claude helped him regain access to 5 Bitcoin after years of failed attempts. “Holy f**king sht omg Claude just cracked this sht,” he wrote in the viral post, thanking Anthropic and CEO Dario Amodei. At the time of writing, Bitcoin is trading at around $79,600, putting the 5 BTC recovery at roughly $398,000. According to the thread, the wallet had been locked since the user’s college days. He said he originally bought the crypto when it was worth around $250 per coin, before losing access after changing the wallet password while high. The password, as later revealed in the post, was: “lol420fuckthePOLICE!*:)” The user said he had tried for years to recover the funds, claiming he ran through trillions of possible password combinations. However, the breakthrough reportedly came when he uploaded files from his old college computer into Claude. Rather than simply guessing the password, Claude helped dig through the old files and identify an older wallet.dat file that appeared to predate the password change. The user also reportedly had an old mnemonic phrase, which helped unlock the wallet once the correct file was found. BTCRecover, a known wallet recovery tool, is designed for cases where users already know most of a wallet password or seed but need help testing variations. Its documentation says it supports Bitcoin Core wallet recovery, among several other wallet types. The story quickly spread across crypto and AI circles, with many pointing out that Claude did not “break” Bitcoin’s security. Instead, it helped the user sort through old files, understand what had gone wrong, and recover access using valid wallet data. Still, for anyone with old hard drives lying around, it is also a brutal reminder: your forgotten files could be worth more than you think. Cprkrn even said he plans on naming his child after Anthropic CEO Dario Amodei, which seems like a fair deal considering he’s now around $400,000 richer.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 21h ago
-
----
-
-**[Today I reached 0.5 BTC](https://www.reddit.com/r/Bitcoin/comments/1tchrit/today_i_reached_05_btc/)**
-
-May not be news to some, but just sharing coz I'm happy.
-
-18h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 23h ago
 
 ---
 
@@ -105,7 +105,15 @@ May not be news to some, but just sharing coz I'm happy.
 
 And that was that with the 70's. Congrats to everyone that got some down there
 
-3h ago
+5h ago
+
+---
+
+**[Today I reached 0.5 BTC](https://www.reddit.com/r/Bitcoin/comments/1tchrit/today_i_reached_05_btc/)**
+
+May not be news to some, but just sharing coz I'm happy.
+
+19h ago
 
 ---
 
@@ -117,11 +125,27 @@ And that was that with the 70's. Congrats to everyone that got some down there
 
 ---
 
+**[Bitcoin investment](https://www.reddit.com/r/Bitcoin/comments/1td6hqn/bitcoin_investment/)**
+
+Hi guys I just started up a coinbase account to dabble with some online trading as I’ve been trying to get financial security for me and my daughter in the near future. Is bitcoin worth investing in for the long haul 5/10 years? If so what do u see the market value rising too?
+
+1h ago
+
+---
+
 **[Bitcoin 'Conviction Buyers' Accumulate 4M BTC in Largest Surge Since 2020](https://www.reddit.com/r/Bitcoin/comments/1tco7o0/bitcoin_conviction_buyers_accumulate_4m_btc_in/)**
 
 Long-term Bitcoin holders accumulated nearly 4 million BTC in the fastest high-conviction buying surge since 2020.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 13h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 15h ago
+
+---
+
+**[0.10% APY Kraken Opt-in rewards for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1td5e4l/010_apy_kraken_optin_rewards_for_bitcoin/)**
+
+I noticed Kraken’s "Opt-in Rewards" program for BTC at 0.10%APY (instant unbound, 0.15% for 30 days lock) . Given the history of "earn" programs on other exchanges, do you trust Kraken enough to leave BTC sitting there for this low API? I have about 80% of my BTC in cold, and they will never leave except for other life investement but I am wondering if it is worth the risk to gain this little bonus. https://support.kraken.com/articles/360044886311-overview-of-opt-in-rewards-on-kraken
+
+2h ago
 
 ---
 
@@ -129,31 +153,7 @@ Long-term Bitcoin holders accumulated nearly 4 million BTC in the fastest high-c
 
 Today the Clarity Act will be passed on to the Senate. What are your thoughts about it and do you think it's good or bad for crypto as a whole?
 
-10h ago
-
----
-
-**[Are Bitcoin miners quietly turning into AI infrastructure companies?](https://www.reddit.com/r/Bitcoin/comments/1tcz0w8/are_bitcoin_miners_quietly_turning_into_ai/)**
-
-More and more Bitcoin miners are pitching themselves as “AI infrastructure” companies. On the surface that makes sense. Underneath it raises questions for Bitcoin. Big AI datacenters and big mining farms need almost the same things: cheap power, grid capacity, industrial sites, serious cooling, and people who can run power hungry hardware 24/7. Miners already built that... If a miner can earn more by renting part of that setup to AI or HPC clients than by pure mining, the business logic is obvious. Less dependence on halvings, more contract revenue. From a Bitcoin point of view it is not that straightforward. If a growing share of miner income comes from AI clients instead of block rewards and fees, a few things might follow.: Miners become easier to sell politically, because they “do AI” rather than “just mine Bitcoin”. Those same AI and cloud clients can also be a pressure point if regulators want something. In the extreme, power providers and large customers might have more leverage over miners than Bitcoin itself. I like that miners find more ways to monetise their infrastructure. I am less sure what it means for decentralisation and long term incentives if the best capital deals go to miners who look more like generic datacenters than pure Bitcoin shops.. How do you see this: Net positive for network security because it keeps miners alive through bear markets. Or a slow shift where miners are financially and politically anchored in the AI and cloud world rather than the Bitcoin world. Not FUD, just trying to think through second order effects.
-
-4h ago
-
----
-
-**[Daily Discussion, May 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1tcpda3/daily_discussion_may_14_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
 12h ago
-
----
-
-**[What helped you understand Bitcoin better over time?](https://www.reddit.com/r/Bitcoin/comments/1td0t86/what_helped_you_understand_bitcoin_better_over/)**
-
-Bitcoin can feel complicated in the beginning, especially with wallets, security, and market movements. Over time, many people slowly develop a better understanding through experience and learning. For people who have been following Bitcoin for a while, what helped you understand it better the most? Could be books, personal experience, long-term holding or simply spending more time learning about it.
-
-3h ago
 
 ---
 
@@ -165,35 +165,27 @@ Bitcoin can feel complicated in the beginning, especially with wallets, security
 
 Chinese President Xi Jinping warned Donald Trump of potential conflict over Taiwan during the first U.S. presidential visit to China in nearly a decade.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity act advances](https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances)**
 
-CoinDesk • 25m ago
+CoinDesk • 2h ago
 
 ---
 
 **[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
-WSJ • 6h ago
+WSJ • 8h ago
 
 ---
 
-**[Market One: LQWD Technologies Corp. Provides Update on Bitcoin Lightning Network Growth and Agentic Payments](https://www.tradingview.com/news/tmx_newsfile:574fa3a35094b:0-market-one-lqwd-technologies-corp-provides-update-on-bitcoin-lightning-network-growth-and-agentic-payments/)**
+**[VanEck Bitcoin ETF 1Q 2026: Net income $(309.9M) — 10-Q Summary](https://www.tradingview.com/news/tradingview:a50de8aea88b8:0-vaneck-bitcoin-etf-1q-2026-net-income-309-9m-10-q-summary/)**
 
-Vancouver, British Columbia--(Newsfile Corp. - May 14, 2026) - Market One ("Market One"), a marketing agency for public companies, shares editorial and video features on emerging growth stories across the resource, energy, and technology sectors.Market One delivers content creation and distribution…
+VanEck Bitcoin ETF reported results for the quarter ended March 31, 2026, with a net decrease in net assets resulting from operations of $(309.9M) versus $(154.98M) in the year-ago quarter, reflecting a decline in the fund's NAV tied to lower bitcoin prices.Financial HighlightsBusiness HighlightsOr…
 
-TradingView • 56m ago
-
----
-
-**[Analyst Says Avoid Bitcoin At All Costs; Here’s What To Do Instead As 50% Crash Looms](https://www.tradingview.com/news/newsbtc:99c7fc2e8094b:0-analyst-says-avoid-bitcoin-at-all-costs-here-s-what-to-do-instead-as-50-crash-looms/)**
-
-Crypto analyst Xanrox has advised market participants against buying Bitcoin, warning that a crash is looming for the leading crypto. Instead, the analyst advised buying altcoins, which are likely to offer greater gains.Analyst Advises Against Buying Bitcoin With Crash LoomingIn a TradingView analy…
-
-TradingView • 47m ago
+TradingView • 43m ago
 
 ---
 
@@ -201,7 +193,23 @@ TradingView • 47m ago
 
 We just covered Grok’s Latest Stock Portfolio in 2026: Elon Musk’s AI Chatbot’s Top 10 Stock Picks. MicroStrategy (NASDAQ:MSTR) is part of the list (see Grok’s Latest Stock Portfolio in 2026: AI Assistant’s Top 5 Stock Picks). Number of Hedge Funds: 41 MicroStrategy (NASDAQ:MSTR) is down 50% over the past year. The stock recently came […]
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Strive’s SATA Sets U.S. First With Daily 13% Bitcoin-Backed Dividend Preferred](https://bitcoinmagazine.com/news/strive-bitcoin-backed-dividend-preferred)**
+
+Strive Asset Management is preparing to launch SATA preferred stock as the first U.S.-listed security to pay cash dividends every business day.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[‘Like Bitcoin In 2013’—Sudden 1,000% Price Surge Has Billionaires Betting On A Surprise $1.6 Trillion Crypto Flip](https://www.forbes.com/sites/digital-assets/2026/05/14/like-bitcoin-in-2013-sudden-1000-price-surge-has-billionaires-betting-on-a-surprise-15-trillion-crypto-flip/)**
+
+Bitcoin has been left in the dust by this tiny cryptocurrency's 1,000% price rally...
+
+Forbes • 1h ago
 
 ---
 
@@ -209,7 +217,7 @@ Yahoo Finance • 21h ago
 
 An X user claims Anthropic's Claude AI helped recover 5 forgotten Bitcoin worth nearly $400,000 from an old college-era wallet.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -217,23 +225,15 @@ Interesting Engineering • 19h ago
 
 After changing his password while high 11 years ago, a ma...
 
-Complex • 12h ago
+Complex • 14h ago
 
 ---
 
-**[AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase](https://www.tradingview.com/news/cointelegraph:9b7210c63094b:0-ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase/)**
+**[AI recovers $400K bitcoin account stoner locked himself out of while high — and his password is ridiculous](https://nypost.com/2026/05/14/us-news/ai-recovers-bitcoin-account-stoner-locked-himself-out-of-while-high/)**
 
-A Bitcoiner’s post has gone viral on X after he claimed to use Anthropic’s AI chatbot Claude to recover 5 Bitcoin worth about $320,000 that he had been unable to access for more than a decade.In an interview with MTS on Wednesday, pseudonymous X user Cprkrn said he made fairly "really complicated p…
+The guy thought his fortune had gone up in smoke after trying “like 7 trillion passwords.”
 
-TradingView • 14h ago
-
----
-
-**[Bitcoin Miners That Got Into AI Have Soaring Stocks. These Experts See More Gains Ahead](https://www.investopedia.com/bitcoin-miners-that-got-into-ai-have-soaring-stocks-these-experts-see-more-gains-ahead-11974824)**
-
-Jefferies initiated coverage on Cipher Digital, Terawulf, Hut 8, Riot, and Core Scientific, rating four out of five a "buy."
-
-Investopedia • 1h ago
+New York Post • 56m ago
 
 ---
 
@@ -241,11 +241,19 @@ Investopedia • 1h ago
 
 ## HackerNews: "bitcoin"
 
+**[Bitcoin trader recovers wallet with help of Claude](https://news.ycombinator.com/item?id=48136240)**
+
+The user apparently changed the password while 'stoned'
+
+⬆️ 297 • 💬 153 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+
+---
+
 **[AI helps man recover $400k in Bitcoin 11 years after](https://news.ycombinator.com/item?id=48135655)**
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-⬆️ 11 • 💬 2 • 4h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
+⬆️ 12 • 💬 2 • 6h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
 
 ---
 
@@ -253,7 +261,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
 
-⬆️ 3 • 💬 2 • 5d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 3 • 💬 2 • 6d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
 
 ---
 
@@ -261,7 +269,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 AI to the rescue as 11-year search for password turns up in old PC files
 
-⬆️ 2 • 💬 1 • 3h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
+⬆️ 2 • 💬 1 • 5h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
 
 ---
 
@@ -279,19 +287,11 @@ How Deblock integrated instant, non-custodial bitcoin into their neobank using t
 
 ---
 
-**[Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://news.ycombinator.com/item?id=48136240)**
-
-The user apparently changed the password while 'stoned'
-
-⬆️ 260 • 💬 128 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
-
----
-
 **[Why Tennessee just banned cryptocurrency ATMs](https://news.ycombinator.com/item?id=48067524)**
 
 Tennessee became the second state in the United States to ban convertible virtual currency (CVC) kiosks in April.
 
-⬆️ 4 • 💬 0 • 5d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
+⬆️ 4 • 💬 0 • 6d ago • [The Tennessean](https://www.tennessean.com/story/money/business/2026/04/29/tennessee-bans-cryptocurrency-atms-bitcoin-exchange-why/89823593007/)
 
 ---
 
@@ -305,7 +305,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 **[Have LLMs made anyone's life substantially better?](https://news.ycombinator.com/item?id=48136636)**
 
-⬆️ 6 • 💬 1 • 3h ago
+⬆️ 6 • 💬 2 • 5h ago
 
 ---
 
@@ -313,23 +313,23 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 ## YouTube Videos: "bitcoin"
 
+**[Today’s Crypto Vote Could Change Everything](https://www.youtube.com/watch?v=WBUKHSP3TNs)**
+
+At 10:30 AM Eastern, the Digital Asset Market CLARITY Act faces its most critical test yet: a Senate Banking Committee markup ...
+
+📺 Coin Bureau
+
+👁️ 20K • 👍 1K • 💬 108 • ⏱️ 12:58 • 7h ago
+
+---
+
 **[[CONFIRMED] Bitcoin Holders...This is BIG!](https://www.youtube.com/watch?v=ZaSI5Wp1scY)**
 
 Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 141 • ⏱️ 8:11 • 16h ago
-
----
-
-**[Bitcoin ETFs Bleed $630M As The CLARITY Act Vote Begins l Mark Yusko](https://www.youtube.com/watch?v=yMTQWLfZWKQ)**
-
-Bitcoin #Crypto #Finance Bitcoin ETFs just bled $630.4 million in a single day — the biggest outflow in over three months — as ...
-
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 440 • 💬 98 • ⏱️ 40:13 • 4h ago
+👁️ 25K • 👍 1K • 💬 180 • ⏱️ 8:11 • 18h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin bulls say the bottom is in, but recession fears are exploding across hou
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 172 • ⏱️ 12:39 • 1d ago
+👁️ 25K • 👍 1K • 💬 168 • ⏱️ 12:39 • 1d ago
 
 ---
 
@@ -349,27 +349,17 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 616 • 💬 244 • ⏱️ 14:01 • 21h ago
+👁️ 12K • 👍 621 • 💬 245 • ⏱️ 14:01 • 23h ago
 
 ---
 
-**[Physicist Explains the Certainty of Bitcoin&#39;s Future Price](https://www.youtube.com/watch?v=oRFLu_znejE)**
+**[BITCOIN’S DO-OR-DIE LEVEL! 🚨 My Price Targets for BTC, XRP, ETH &amp; SOL](https://www.youtube.com/watch?v=h9mM0NAnBQE)**
 
-Is Bitcoin's price actually predictable? Physicist Giovanni Santostasi, Director of the Scientific Bitcoin Institute, joins Natalie Brunell ...
+The crypto market is at a massive crossroads. In today's video, we deep dive into the charts—no BS, just pure probability.
 
-📺 Natalie Brunell
+📺 Gareth Soloway
 
-👁️ 45K • 👍 2K • 💬 482 • ⏱️ 1:05:20 • 2d ago
-
----
-
-**[$10M Bitcoin LOCKOUT - Institutions Are Taking The Supply](https://www.youtube.com/watch?v=e7AXRxA8CBM)**
-
-Subscribe before the Bitcoin LOCKOUT gets worse. CZ turned a $900000 house sale into $121 million with Bitcoin.
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 225 • 💬 94 • ⏱️ 16:43 • 19h ago
+👁️ 42K • 👍 3K • 💬 116 • ⏱️ 9:16 • 1d ago
 
 ---
 
@@ -383,13 +373,13 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 ---
 
-**[BITCOIN’S DO-OR-DIE LEVEL! 🚨 My Price Targets for BTC, XRP, ETH &amp; SOL](https://www.youtube.com/watch?v=h9mM0NAnBQE)**
+**[BITCOIN BULL RUN STARTS NOW !!!!!!!](https://www.youtube.com/watch?v=8bwZqsm6SIE)**
 
-The crypto market is at a massive crossroads. In today's video, we deep dive into the charts—no BS, just pure probability.
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
 
-📺 Gareth Soloway
+📺 The Moon Show
 
-👁️ 41K • 👍 3K • 💬 124 • ⏱️ 9:16 • 1d ago
+👁️ 15K • 👍 928 • 💬 66 • ⏱️ 6:30 • 1d ago
 
 ---
 
@@ -399,17 +389,27 @@ Coinbase CEO Brian Armstrong joins 'Mornings with Maria' to break down Senate cr
 
 📺 Fox Business
 
-👁️ 176K • 👍 4K • 💬 850 • ⏱️ 19:24 • 1d ago
+👁️ 190K • 👍 4K • 💬 905 • ⏱️ 19:24 • 1d ago
 
 ---
 
-**[🚨 Clarity Act Senate Vote LIVE: The Biggest Day For Crypto Regulation (XRP Breakout !!)](https://www.youtube.com/watch?v=l9_4eqx5bAk)**
+**[I Called the Day of the Bitcoin Top &amp; Predicted a CRASH to 60k - Why BTC will CRASH to at Least 38k](https://www.youtube.com/watch?v=qpJd5TGvhqc)**
 
-Newsletter Special Offer. - 40% OFF → https://www.sensei.news/off40 The CLARITY Act hits the Senate Banking Committee today ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Martyn Lucas INVESTOR
+📺 Doctor of Pump & Dump
 
-👁️ 7K • 👍 2K • 6h ago
+👁️ 6K • 👍 546 • ⏱️ 33:53 • 23h ago
+
+---
+
+**[⚠️ Bitcoin Is One Move Away From $50K… Or $97K](https://www.youtube.com/watch?v=DborXS6QdXw)**
+
+3 things I'd tell my 2013 self about Bitcoin TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) ...
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 7K • 👍 664 • 💬 197 • ⏱️ 18:22 • 13h ago
 
 ---
 

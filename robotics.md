@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-14T18:17:38.476438+00:00'
+updated: '2026-05-14T20:14:03.609312+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 14, 2026 at 18:17 UTC  
+**Last Updated:** May 14, 2026 at 20:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-12h ago
+14h ago
 
 ---
 
 **[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
 
-15h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. 
 
 Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
-3h ago
+5h ago
 
 ---
 
@@ -72,7 +72,15 @@ Finally added a small distance watermark overlay to my LD Robot D500 setup, so t
 
 How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
 
-2h ago
+4h ago
+
+---
+
+**[Robot Orders Hold Steady in Q1 2026 as Demand Broadens Across Non-Automotive Industries](https://www.reddit.com/r/robotics/comments/1tczjwf/robot_orders_hold_steady_in_q1_2026_as_demand/)**
+
+A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
+
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 5h ago
 
 ---
 
@@ -86,15 +94,7 @@ How hard is it to create your own humanoid from scratch at home? A humanoid that
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 9h ago
-
----
-
-**[Robot Orders Hold Steady in Q1 2026 as Demand Broadens Across Non-Automotive Industries](https://www.reddit.com/r/robotics/comments/1tczjwf/robot_orders_hold_steady_in_q1_2026_as_demand/)**
-
-A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
-
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 11h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey r/robotics community, A couple weeks back, I asked about how you all were ma
 
 A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
 
-Crain's Chicago Business • 22h ago
+Crain's Chicago Business • 1d ago
 
 ---
 
@@ -142,17 +142,9 @@ Global Times • 2d ago
 
 ---
 
-**[Rice Lake’s school robotics club rocks world competition](https://www.weau.com/2026/05/14/rice-lakes-school-robotics-club-rocks-world-competition/)**
+**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
 
-A team of St. Joseph sixth graders didn’t just compete at the VEX Robotics World Championship in St. Louis. They walked out with the tournament’s top honor and made state history in the process.
-
-WEAU • 15h ago
-
----
-
-**[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
-
-Bloomberg.com • 12h ago
+eWeek • 3h ago
 
 ---
 
@@ -160,31 +152,35 @@ Bloomberg.com • 12h ago
 
 With the global race for artificial intelligence and robotics technology in full swing, David Muir takes a closer look at the humanoid robots being built in China.
 
-ABC News - Breaking News, Latest News and Videos • 18h ago
+ABC News - Breaking News, Latest News and Videos • 20h ago
 
 ---
 
-**[Underwater robots finds rare artifacts in France's deepest shipwreck, a 16th century vessel](https://www.foxweather.com/lifestyle/underwater-robot-rare-artifacts-france-shipwreck-16th-century)**
+**[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
 
-The team, made up of members of the French Navy and France’s Department of Underwater and Submarine Archaeological Research, embarked on a 3-day mission in April to study and carefully recover artifacts from the Camarat 4.
-
-FOX Weather • 1d ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Helix-02 robots now sustain full factory-style 8-hour shifts without intervention](https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts)**
+**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
 
-Figure AI says its Helix-02 humanoid robots can now autonomously run full 8-hour work shifts.
-
-Interesting Engineering • 21h ago
+The Economist • 3d ago
 
 ---
 
-**[After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show](https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html)**
+**[Humanoid Robotics In 2026: The Race From Pilot To Platform](https://kraneshares.com/humanoid-robotics-in-2026-the-race-from-pilot-to-platform/)**
 
-Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
+The Robots Have Clocked In When Japan Airlines (JAL) deployed humanoid robots at Tokyo’s Haneda Airport in May 2026, the industry’s message was hard to miss. This was not a press conference stunt but a three-year operational commitment from a legacy aviation carrier in one of the world’s most safety-conscious regulatory environments, tasked with solving […]
 
-Yahoo Finance • 2d ago
+KraneShares • 2d ago
+
+---
+
+**[NASA Invites Media to Annual Lunabotics Robotics Competition](https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/)**
+
+NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
+
+NASA (.gov) • 22h ago
 
 ---
 
@@ -198,17 +194,17 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 152 • 💬 18 • ⏱️ 55:02 • 1d ago
+👁️ 6K • 👍 158 • 💬 18 • ⏱️ 55:02 • 1d ago
 
 ---
 
-**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
+**[Robot Dogs Are A Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)**
 
-A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
+Go to https://ground.news/benn for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
 
-📺 CBS TEXAS
+📺 Benn Jordan
 
-👁️ 40K • 👍 993 • 💬 491 • ⏱️ 3:03 • 19h ago
+👁️ 724K • 👍 59K • 💬 5K • ⏱️ 23:53 • 4d ago
 
 ---
 
@@ -218,7 +214,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 3K • 👍 65 • 💬 11 • ⏱️ 21:16 • 1d ago
+👁️ 4K • 👍 83 • 💬 17 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -228,7 +224,37 @@ The world's first production-ready manned mecha. It can transform. It's a civili
 
 📺 Unitree Robotics
 
-👁️ 1.5M • 👍 11K • 💬 3K • ⏱️ 1:15 • 2d ago
+👁️ 5.2M • 👍 11K • 💬 3K • ⏱️ 1:15 • 2d ago
+
+---
+
+**[Meet Amazon&#39;s $50,000 Robot - Inside Big Tech&#39;s Humanoid Takeover](https://www.youtube.com/watch?v=5d7lkdfe7fI)**
+
+What if your next roommate wasn't human? On this episode of NYC Innovates, we meet Sprout, a 3.5ft robot that dances, does ...
+
+📺 Cheddar
+
+👁️ 473 • 👍 21 • 💬 4 • ⏱️ 10:22 • 6h ago
+
+---
+
+**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
+
+A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
+
+📺 CBS TEXAS
+
+👁️ 97K • 👍 2K • 💬 894 • ⏱️ 3:03 • 21h ago
+
+---
+
+**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+
+Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+
+📺 CGTN Europe
+
+👁️ 34K • 👍 314 • 💬 39 • ⏱️ 0:33 • 1d ago
 
 ---
 
@@ -238,37 +264,7 @@ Apple's new home robot iSiri is being described as a major step toward fully aut
 
 📺 Carros Show
 
-👁️ 19K • 👍 263 • 💬 29 • ⏱️ 23:07 • 1d ago
-
----
-
-**[🚨⚡ HAPPENING NOW: Figure.03 Live: The Robot Workday Has Begun](https://www.youtube.com/watch?v=c8xL4Ff-DjA)**
-
-Figure.03 is attempting its first-ever on-camera, LIVE fully autonomous 8-hour humanoid robot work shift - a potential turning point ...
-
-📺 Over The Horizon
-
-👁️ 10K • 👍 232 • 💬 7 • ⏱️ 8:11:35 • 16h ago
-
----
-
-**[The mecha robot that&#39;s actually production-ready #unitree #engineering #robotics](https://www.youtube.com/watch?v=vEMHIgqI-NU)**
-
-Unitree Robotics just introduced what it calls the world's first production-ready manned transformable mecha. The Chinese ...
-
-📺 Kalil 4.0
-
-👁️ 11K • 👍 247 • 💬 15 • ⏱️ 0:41 • 2d ago
-
----
-
-**[Meet the AI powered robot assistant helping Germans shop](https://www.youtube.com/watch?v=_iEb54geLMk)**
-
-A humanoid robot named Schotti is working as a shop assistant in Germany, guiding customers to products as part of a test of ...
-
-📺 Reuters
-
-👁️ 408 • 👍 13 • 💬 6 • ⏱️ 2:16 • 4h ago
+👁️ 19K • 👍 268 • 💬 29 • ⏱️ 23:07 • 2d ago
 
 ---
 
@@ -278,17 +274,17 @@ New shorts each and every day. Hit subscribe if you enjoy our content!
 
 📺 VEXR
 
-👁️ 12K • 👍 495 • 💬 27 • ⏱️ 0:29 • 3h ago
+👁️ 32K • 👍 1K • 💬 51 • ⏱️ 0:29 • 5h ago
 
 ---
 
-**[Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful &amp; Alphabet Combine Robot Collection](https://www.youtube.com/watch?v=HXFRTRROKWQ)**
+**[The mecha robot that&#39;s actually production-ready #unitree #engineering #robotics](https://www.youtube.com/watch?v=vEMHIgqI-NU)**
 
-Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful & Alphabet Combine Robot Collection: ...
+Unitree Robotics just introduced what it calls the world's first production-ready manned transformable mecha. The Chinese ...
 
-📺 Bob ToysReview
+📺 Kalil 4.0
 
-👁️ 2K • 👍 9 • ⏱️ 14:30 • 9h ago
+👁️ 12K • 👍 258 • 💬 15 • ⏱️ 0:41 • 2d ago
 
 ---
 
