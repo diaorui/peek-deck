@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-14T21:44:50.303760+00:00'
+updated: '2026-05-14T22:57:32.116469+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 21:44 UTC  
+**Last Updated:** May 14, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
+**24h:** +1.8%  
 **7d:** -0.4%  
 **30d:** -2.6%  
 **90d:** +10.2%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $277.46B
+**Market Cap:** $277.40B
 Rank #2
 
 **Circulating Supply:** 120,686,173 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.5%
 
 **All-Time Low:** $0.43
-+530711.0%
++530650.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained through their layerzero bridge. single exploit hit 20+ chains because one bridge contract held the reserves for all of them drift protocol: $285M. north korean hackers spent 6 months social engineering their way in 1inch/trustedvolumes: $6.7M last week. same attacker from the 2025 hack came back and found a new door april 2026 alone: $600M+ stolen across 28-30 separate incidents. worst single month in crypto history 40+ protocols have shut down or entered wind-down mode this year. aave froze rsETH markets and lost $6 billion in TVL from panic withdrawals even though their contracts weren't touched. the pattern isn't random. bridges keep producing the biggest single-day losses because they're designed as massive honeypots. $22 billion in bridge TVL as of march, each one a single point of failure for every protocol downstream. what bugs me is the response is always the same. "we need better audits." "we need better monitoring." nobody is questioning whether the bridge model itself is fundamentally broken. bridges work by locking assets on one chain and minting representations on another through a trusted intermediary (multisig, oracle network, validator set). every one of these is an attack surface. kelp's bridge got spoofed because layerzero's messaging layer was fooled into thinking the withdrawal was legitimate. the alternative exists. data availability layers can handle cross-chain verification without lock-and-mint. instead of one contract holding $293M that can be drained in a single tx, you verify data availability cryptographically across chains. no honeypot, no single point of failure, no trusted intermediary to spoof. DA layers like avail, celestia, eigenda are live and production ready. the tech isn't theoretical anymore. it's an adoption problem not a research problem. at what point do we stop patching bridges and start replacing them?
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get the basics of how Ethereum works, but I’m trying to understand the insti
 
 Turning consensus research into practice. We design, analyze, and formally verify consensus protocols for Ethereum.
 
-🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 20h ago
+🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 21h ago
 
 ---
 
@@ -156,19 +156,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://decrypt.co/367768/charles-schwab-begins-bitcoin-ethereum-trading-us-users)**
+**[Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices backing off](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-backing-off-113324298.html)**
 
-Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
+Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday’s opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from Monday’s opening price.
 
-Decrypt • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-may-14-2026-bitcoin-and-ethereum-prices-slipping-this-week-111938059.html)**
+**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
 
-Bitcoin opened at $79,283.34 on Thursday, down 1.5% from Wednesday's opening price. Ethereum opened at $2,257.71 on Thursday, down 0.7% from Wednesday’s opening value.
+Disruption Banking • 2d ago
 
-Yahoo Finance • 10h ago
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP face recovery headwinds amid declining risk appetite](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-face-recovery-headwinds-amid-declining-risk-appetite-202605141200)**
+
+Bitcoin (BTC) edges higher, from the daily low at $78,922, aiming for a breakout above the pivotal $80,000 level on Thursday. Altcoins, including Ethereum (ETH) and Ripple (XRP), are showing signs of a gradual rebound after headwinds trimmed early-week gains cooled.
+
+FXStreet • 10h ago
 
 ---
 
@@ -176,13 +182,7 @@ Yahoo Finance • 10h ago
 
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
-The Block • 4h ago
-
----
-
-**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
-
-Disruption Banking • 2d ago
+The Block • 6h ago
 
 ---
 
@@ -198,11 +198,11 @@ Gizmodo • 3d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH holds support, XRP eyes breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-holds-support-xrp-eyes-breakout-202605130342)**
+**[Ethereum News: Tom Lee’s BitMine Just Slashed ETH Buying by 74%, Here’s What Comes Next](https://www.aol.com/articles/ethereum-news-tom-lee-bitmine-221438344.html)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade cautiously on Wednesday as price action approaches key technical levels across these top three cryptocurrencies. BTC stalls near the key resistance level around $82,000 while ETH holds firm above the key support at $2,275.
+BitMine has slowed its Ethereum (CRYPTO: ETH) accumulation, cutting weekly ETH purchases by around 74% as it nears a key portfolio milestone. This marks a clear change from its earlier buying spree that rapidly built one of the largest corporate Ethereum treasuries. The move comes as the firm edges closer to its target of holding ... Ethereum News: Tom Lee’s BitMine Just Slashed ETH Buying by 74%, Here’s What Comes Next
 
-FXStreet • 1d ago
+AOL.com • 42m ago
 
 ---
 
@@ -210,7 +210,7 @@ FXStreet • 1d ago
 
 If Ethereum can grow at a steady 20% rate, it could reclaim its all-time high from 2025.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Motley Fool • 11h ago
 
 Blockchain.com launched crypto backed loans globally with rates from 1.9%, letting users borrow against BTC, ETH, and USDC.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -232,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 159 • 💬 46 • ⏱️ 18:57 • 5h ago
+👁️ 5K • 👍 235 • 💬 34 • ⏱️ 18:57 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NO
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 42 • ⏱️ 4:30 • 1d ago
+👁️ 9K • 👍 2K • 💬 22 • ⏱️ 4:30 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ Ethereum and Ripple are often compared, but they're solving completely different
 
 📺 CoinGecko
 
-👁️ 1K • 👍 104 • 💬 112 • ⏱️ 3:46 • 10h ago
+👁️ 1K • 👍 115 • 💬 65 • ⏱️ 3:46 • 12h ago
 
 ---
 
@@ -262,17 +262,7 @@ CharlesSchwab's Nathan Peterson offers his latest in-depth look into the price a
 
 📺 Schwab Network
 
-👁️ 2K • 👍 42 • 💬 2 • ⏱️ 7:44 • 23h ago
-
----
-
-**[MASSIVE Clarity Act Update! This Is a HUGE Win for Bitcoin &amp; Crypto - Tom Lee](https://www.youtube.com/watch?v=0tN78rPvgms)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 303 • 💬 95 • ⏱️ 17:25 • 2d ago
+👁️ 2K • 👍 44 • 💬 2 • ⏱️ 7:44 • 1d ago
 
 ---
 
@@ -280,7 +270,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 881 • 💬 52 • ⏱️ 2:13 • 20h ago
+👁️ 14K • 👍 923 • 💬 59 • ⏱️ 2:13 • 21h ago
+
+---
+
+**[WHY ETHEREUM COULD DUMP!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=UuSsvgaMEgM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 244 • 👍 16 • 💬 1 • ⏱️ 4:45 • 13h ago
 
 ---
 
@@ -290,17 +290,7 @@ Ethereum keeps failing at the $2400 resistance level, and the data shows why: we
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 46 • 💬 2 • ⏱️ 1:11 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2ds-AXVtzE8)**
-
-BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 292 • 💬 149 • ⏱️ 19:06 • 18h ago
+👁️ 2K • 👍 47 • 💬 2 • ⏱️ 1:11 • 2d ago
 
 ---
 
@@ -310,7 +300,17 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 87 • 💬 13 • ⏱️ 10:03 • 1d ago
+👁️ 3K • 👍 88 • 💬 14 • ⏱️ 10:03 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Be Fooled!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=2ds-AXVtzE8)**
+
+BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 296 • 💬 173 • ⏱️ 19:06 • 19h ago
 
 ---
 
@@ -320,7 +320,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 478 • 💬 133 • ⏱️ 12:55 • 18h ago
+👁️ 3K • 👍 481 • 💬 92 • ⏱️ 12:55 • 19h ago
 
 ---
 
