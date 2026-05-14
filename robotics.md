@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-14T20:14:03.609312+00:00'
+updated: '2026-05-14T21:44:50.306634+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 14, 2026 at 20:14 UTC  
+**Last Updated:** May 14, 2026 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-14h ago
+15h ago
 
 ---
 
 **[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. 
 
 Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
-5h ago
+6h ago
 
 ---
 
@@ -68,19 +68,11 @@ Finally added a small distance watermark overlay to my LD Robot D500 setup, so t
 
 ---
 
-**[Humanoid Robot like Unitree G1](https://www.reddit.com/r/robotics/comments/1td2a2n/humanoid_robot_like_unitree_g1/)**
-
-How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
-
-4h ago
-
----
-
 **[Robot Orders Hold Steady in Q1 2026 as Demand Broadens Across Non-Automotive Industries](https://www.reddit.com/r/robotics/comments/1tczjwf/robot_orders_hold_steady_in_q1_2026_as_demand/)**
 
 A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
 
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 5h ago
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 7h ago
 
 ---
 
@@ -90,19 +82,27 @@ A3’s Q1 2026 robot order data shows North American companies ordered 9,055 rob
 
 ---
 
+**[Robotics with Arduino Uno Q: ROS 2, leRobot teleop](https://www.reddit.com/r/robotics/comments/1tdao8f/robotics_with_arduino_uno_q_ros_2_lerobot_teleop/)**
+
+SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
+
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 1h ago
+
+---
+
 **[Locomotion and Self-reconfiguration Autonomy for Spherical Freeform Modular Robots](https://www.reddit.com/r/robotics/comments/1tcrs2e/locomotion_and_selfreconfiguration_autonomy_for/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 13h ago
 
 ---
 
-**[My experience using Claude Code for robotics from the advice of r/robotics](https://www.reddit.com/r/robotics/comments/1tc4r9n/my_experience_using_claude_code_for_robotics_from/)**
+**[Humanoid Robot like Unitree G1](https://www.reddit.com/r/robotics/comments/1td2a2n/humanoid_robot_like_unitree_g1/)**
 
-Hey r/robotics community, A couple weeks back, I asked about how you all were managing AI development in robotics and I got a bunch of great responses. To summarize: My problems ROS 1 and ROS 2 commands/syntax, Gazebo versions, are consistently confused by Claude Code Claude doesn't really understand the asynchronous messaging structure or any runtime-specific errors/bugs I may run into due to its code The changes Claude Code makes during my development often lead my code in the wrong direction, making debugging take even longer Your solutions Many of you mentioned building custom tooling and skills really helps Claude orient itself Supplying your own context and description of the repository and standardizing it across claude sessions using an `ARCHITECTURE.md` / `CLAUDE.md` also really helps Minimal working examples are also very helpful. Having somewhere Claude can turn to and say, "this is a simple example of how things are supposed to work" helps the agent orient itself I implemented four changes into my setup: Custom MCP tools and skills Supplying context from my own repository Supplying minimal working examples I made myself and found off the internet Supplying documentation relevant to my software stack. For me, that was ROS 2 Jazzy, Gazebo Harmonic, PX4, and Nav2 After making these changes, I've seen a pretty sizeable increase in my development speed using AI in robotics. Previously, I was trying to fill my context window with the code I've already written, but that seemed to not be enough context for Claude to actually understand the software architecture or data pipeline in my codebase. With the changes I've mentioned above, I actually noticed that I can let Claude develop new nodes and software. There's significantly less problems when integrating Claude's code and existing code from what I've seen so far. One thing that was always an annoyance for me was Claude's lack of understanding of what was ROS 1 and what was ROS 2. I ended up creating a RAG database that can input relevant documentation for whatever Claude was working on and that's worked incredibly well. With this in pairing with some custom tool calls I've made, my setup no longer has any confusion on what's ROS 2 and what commands I have access to running ROS 2 Jazzy and Gazebo Harmonic in particular. Thanks for all of your help! I thought I'd leave this post here for those who may also run into something similar trying to use Claude Code for robotics. I'm considering even doing some custom evals for this setup on robotics-specific coding problems because of how much more consistent this setup seems to be. If anyone's already done something similar to this, would love to hear about it in the comments. Cheers!
+How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
 
-1d ago
+5h ago
 
 ---
 
@@ -142,29 +142,29 @@ Global Times • 2d ago
 
 ---
 
+**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
+
+Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
+
+ABC News - Breaking News, Latest News and Videos • 3h ago
+
+---
+
 **[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
 
 eWeek • 3h ago
 
 ---
 
-**[Video David Muir reports on technological advances of China's humanoid robots - ABC News](https://abcnews.com/video/132938245/)**
+**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
 
-With the global race for artificial intelligence and robotics technology in full swing, David Muir takes a closer look at the humanoid robots being built in China.
-
-ABC News - Breaking News, Latest News and Videos • 20h ago
+The Economist • 3d ago
 
 ---
 
 **[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
-
-The Economist • 3d ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ KraneShares • 2d ago
 
 NASA will hold its 2026 Lunabotics Challenge Tuesday, May 19, to Thursday, May 21, at the Astronauts Memorial
 
-NASA (.gov) • 22h ago
+NASA (.gov) • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ What if your next roommate wasn't human? On this episode of NYC Innovates, we me
 
 📺 Cheddar
 
-👁️ 473 • 👍 21 • 💬 4 • ⏱️ 10:22 • 6h ago
+👁️ 473 • 👍 21 • 💬 4 • ⏱️ 10:22 • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 97K • 👍 2K • 💬 894 • ⏱️ 3:03 • 21h ago
+👁️ 97K • 👍 2K • 💬 894 • ⏱️ 3:03 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ New shorts each and every day. Hit subscribe if you enjoy our content!
 
 📺 VEXR
 
-👁️ 32K • 👍 1K • 💬 51 • ⏱️ 0:29 • 5h ago
+👁️ 32K • 👍 1K • 💬 51 • ⏱️ 0:29 • 6h ago
 
 ---
 

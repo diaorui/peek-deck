@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-14T20:14:03.599997+00:00'
+updated: '2026-05-14T21:44:50.298490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 20:14 UTC  
+**Last Updated:** May 14, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The Senate Banking Committee votes Thursday on the CLARITY Act, comprehensive crypto legislation that would give 50 million U.S. crypto holders clear regulatory rules after years of uncertainty under the SEC and CFTC. What The Bill Does The CLARITY Act establishes clear rules separating which digital assets are securities and which are commodities, ending the jurisdictional confusion between the SEC and CFTC that has plagued the industry. The bill requires digital asset exchanges, brokers, and dealers to comply with Bank Secrecy Act regulations, including anti-money laundering programs, suspicious activity reporting, and sanctions compliance. The legislation protects software developers who publish code without controlling customer funds and preserves Americans’ ability to self-custody their digital assets. It also requires registration of Bitcoin (CRYPTO: BTC) ATMs with customer warnings, receipts, holding periods, and withdrawal limits.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/clarity-act-one-vote-away-164913139.html) • 9h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/clarity-act-one-vote-away-164913139.html) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Senate Banking Committee votes Thursday on the CLARITY Act, comprehensive cr
 
 The Senate Banking Committee advanced a rules-of-the-road crypto bill known as the Clarity Act by a vote of 15-9.
 
-🔗 [CNBC](https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ The Senate Banking Committee advanced a rules-of-the-road crypto bill known as t
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade, with help from Anthropic’s AI chatbot Claude. The user, known as Cprkrn on X, shared the wild crypto recovery story on May 13, saying Claude helped him regain access to 5 Bitcoin after years of failed attempts. “Holy f**king sht omg Claude just cracked this sht,” he wrote in the viral post, thanking Anthropic and CEO Dario Amodei. At the time of writing, Bitcoin is trading at around $79,600, putting the 5 BTC recovery at roughly $398,000. According to the thread, the wallet had been locked since the user’s college days. He said he originally bought the crypto when it was worth around $250 per coin, before losing access after changing the wallet password while high. The password, as later revealed in the post, was: “lol420fuckthePOLICE!*:)” The user said he had tried for years to recover the funds, claiming he ran through trillions of possible password combinations. However, the breakthrough reportedly came when he uploaded files from his old college computer into Claude. Rather than simply guessing the password, Claude helped dig through the old files and identify an older wallet.dat file that appeared to predate the password change. The user also reportedly had an old mnemonic phrase, which helped unlock the wallet once the correct file was found. BTCRecover, a known wallet recovery tool, is designed for cases where users already know most of a wallet password or seed but need help testing variations. Its documentation says it supports Bitcoin Core wallet recovery, among several other wallet types. The story quickly spread across crypto and AI circles, with many pointing out that Claude did not “break” Bitcoin’s security. Instead, it helped the user sort through old files, understand what had gone wrong, and recover access using valid wallet data. Still, for anyone with old hard drives lying around, it is also a brutal reminder: your forgotten files could be worth more than you think. Cprkrn even said he plans on naming his child after Anthropic CEO Dario Amodei, which seems like a fair deal considering he’s now around $400,000 richer.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 23h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/) • 1d ago
 
 ---
 
@@ -105,7 +105,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 And that was that with the 70's. Congrats to everyone that got some down there
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,15 @@ And that was that with the 70's. Congrats to everyone that got some down there
 
 May not be news to some, but just sharing coz I'm happy.
 
-19h ago
+21h ago
+
+---
+
+**[Paid for haircut with BTC](https://www.reddit.com/r/Bitcoin/comments/1tdb2jr/paid_for_haircut_with_btc/)**
+
+Not a huge deal to most people, but it honestly felt really cool to me. They only took cash and I didn’t have any, so I asked if they’d take BTC instead. Sent the payment and that was it.⚡️
+
+47m ago
 
 ---
 
@@ -129,7 +137,7 @@ May not be news to some, but just sharing coz I'm happy.
 
 Hi guys I just started up a coinbase account to dabble with some online trading as I’ve been trying to get financial security for me and my daughter in the near future. Is bitcoin worth investing in for the long haul 5/10 years? If so what do u see the market value rising too?
 
-1h ago
+3h ago
 
 ---
 
@@ -137,23 +145,15 @@ Hi guys I just started up a coinbase account to dabble with some online trading 
 
 Long-term Bitcoin holders accumulated nearly 4 million BTC in the fastest high-conviction buying surge since 2020.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 15h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 16h ago
 
 ---
 
-**[0.10% APY Kraken Opt-in rewards for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1td5e4l/010_apy_kraken_optin_rewards_for_bitcoin/)**
+**[I received my first payment in BTC (Surgeon)](https://www.reddit.com/r/Bitcoin/comments/1td1dsj/i_received_my_first_payment_in_btc_surgeon/)**
 
-I noticed Kraken’s "Opt-in Rewards" program for BTC at 0.10%APY (instant unbound, 0.15% for 30 days lock) . Given the history of "earn" programs on other exchanges, do you trust Kraken enough to leave BTC sitting there for this low API? I have about 80% of my BTC in cold, and they will never leave except for other life investement but I am wondering if it is worth the risk to gain this little bonus. https://support.kraken.com/articles/360044886311-overview-of-opt-in-rewards-on-kraken
+Note: I used ChatGPT to help with clarity, as English is not my primary language. Just wanted to share something I found quite meaningful. I’m an eye surgeon, and most of the surgeries I perform are aimed at helping patients become free from glasses. A couple of months ago, I started investing in Bitcoin, and I’ve become a strong believer in the potential of decentralized money. I still invest in traditional (fiat-based) assets, but much less than before—nowadays, most of my investment goes into BTC. Today, I received my first surgery payment in Bitcoin. There’s something truly remarkable about exchanging a real-world, life-changing procedure and being paid in BTC. I just liked the idea of making my part to increase the availability of services you can buy using BTC.
 
-2h ago
-
----
-
-**[Clarity Act to Senate today](https://www.reddit.com/r/Bitcoin/comments/1tcraxz/clarity_act_to_senate_today/)**
-
-Today the Clarity Act will be passed on to the Senate. What are your thoughts about it and do you think it's good or bad for crypto as a whole?
-
-12h ago
+6h ago
 
 ---
 
@@ -165,43 +165,37 @@ Today the Clarity Act will be passed on to the Senate. What are your thoughts ab
 
 Chinese President Xi Jinping warned Donald Trump of potential conflict over Taiwan during the first U.S. presidential visit to China in nearly a decade.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity act advances](https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances)**
+**[Bitcoin Price Nears $82K AS STRC Tops $1 Billion In Volume](https://bitcoinmagazine.com/news/bitcoin-price-surges-3-past-82k)**
 
-CoinDesk • 2h ago
+Bitcoin price surged toward $82,000 as STRC’s Bitcoin buying cleared $1 billion in daily trading volume.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
-WSJ • 8h ago
+WSJ • 9h ago
 
 ---
 
-**[VanEck Bitcoin ETF 1Q 2026: Net income $(309.9M) — 10-Q Summary](https://www.tradingview.com/news/tradingview:a50de8aea88b8:0-vaneck-bitcoin-etf-1q-2026-net-income-309-9m-10-q-summary/)**
+**[Under Which Party Do Bitcoin, Gold, Stocks Perform Best? The Answer May Surprise You](https://sg.finance.yahoo.com/news/under-party-bitcoin-gold-stocks-203129343.html)**
 
-VanEck Bitcoin ETF reported results for the quarter ended March 31, 2026, with a net decrease in net assets resulting from operations of $(309.9M) versus $(154.98M) in the year-ago quarter, reflecting a decline in the fund's NAV tied to lower bitcoin prices.Financial HighlightsBusiness HighlightsOr…
+Markets historically deliver their strongest returns under divided government rather than full political sweeps, according to analyst Benjamin Cowen. He examined the performance of the S&P 500, Bitcoin (CRYPTO: BTC) and gold across different U.S. political power structures — with surprising conclusions. BTC On Political Party Sweeps In a podcast published on May 13, Cowen argued Bitcoin historically reacts poorly to full political party "sweeps," as both Democratic and Republican control correla
 
-TradingView • 43m ago
-
----
-
-**[Grok AI is Bullish on MicroStrategy (MSTR) Despite Bitcoin Volatility](https://finance.yahoo.com/news/grok-ai-bullish-microstrategy-mstr-201814879.html)**
-
-We just covered Grok’s Latest Stock Portfolio in 2026: Elon Musk’s AI Chatbot’s Top 10 Stock Picks. MicroStrategy (NASDAQ:MSTR) is part of the list (see Grok’s Latest Stock Portfolio in 2026: AI Assistant’s Top 5 Stock Picks). Number of Hedge Funds: 41 MicroStrategy (NASDAQ:MSTR) is down 50% over the past year. The stock recently came […]
-
-Yahoo Finance • 23h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
-**[Strive’s SATA Sets U.S. First With Daily 13% Bitcoin-Backed Dividend Preferred](https://bitcoinmagazine.com/news/strive-bitcoin-backed-dividend-preferred)**
+**[EMCD CEO: Bitcoin Miners Can Become Profitable Again](https://finance.yahoo.com/markets/crypto/articles/emcd-ceo-bitcoin-miners-become-205355303.html)**
 
-Strive Asset Management is preparing to launch SATA preferred stock as the first U.S.-listed security to pay cash dividends every business day.
+EMCD CEO Michael Jerlis explains how the Vnish partnership aims to help Bitcoin miners cut losses, improve efficiency, and protect margins.
 
-Bitcoin Magazine • 5h ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -209,7 +203,15 @@ Bitcoin Magazine • 5h ago
 
 Bitcoin has been left in the dust by this tiny cryptocurrency's 1,000% price rally...
 
-Forbes • 1h ago
+Forbes • 8h ago
+
+---
+
+**[JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity](https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto)**
+
+That is "unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications," the analysts said.
+
+The Block • 4h ago
 
 ---
 
@@ -217,15 +219,7 @@ Forbes • 1h ago
 
 An X user claims Anthropic's Claude AI helped recover 5 forgotten Bitcoin worth nearly $400,000 from an old college-era wallet.
 
-Interesting Engineering • 21h ago
-
----
-
-**[AI Helps Man Recover $400,000 in Bitcoin After He Changed Password While High](https://www.complex.com/pop-culture/a/jose-martinez/ai-helps-man-recover-400000-in-bitcoin-after-changing-password-while-high)**
-
-After changing his password while high 11 years ago, a ma...
-
-Complex • 14h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -233,7 +227,15 @@ Complex • 14h ago
 
 The guy thought his fortune had gone up in smoke after trying “like 7 trillion passwords.”
 
-New York Post • 56m ago
+New York Post • 2h ago
+
+---
+
+**[AI Helps Man Recover $400,000 in Bitcoin After He Changed Password While High](https://www.complex.com/pop-culture/a/jose-martinez/ai-helps-man-recover-400000-in-bitcoin-after-changing-password-while-high)**
+
+After changing his password while high 11 years ago, a ma...
+
+Complex • 16h ago
 
 ---
 
@@ -245,7 +247,7 @@ New York Post • 56m ago
 
 The user apparently changed the password while 'stoned'
 
-⬆️ 297 • 💬 153 • 5h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+⬆️ 308 • 💬 157 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 
 ---
 
@@ -253,7 +255,7 @@ The user apparently changed the password while 'stoned'
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-⬆️ 12 • 💬 2 • 6h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
+⬆️ 12 • 💬 2 • 7h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
 
 ---
 
@@ -269,7 +271,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 AI to the rescue as 11-year search for password turns up in old PC files
 
-⬆️ 2 • 💬 1 • 5h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
+⬆️ 2 • 💬 1 • 7h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
 
 ---
 
@@ -305,7 +307,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 **[Have LLMs made anyone's life substantially better?](https://news.ycombinator.com/item?id=48136636)**
 
-⬆️ 6 • 💬 2 • 5h ago
+⬆️ 6 • 💬 3 • 6h ago
 
 ---
 
@@ -319,7 +321,7 @@ At 10:30 AM Eastern, the Digital Asset Market CLARITY Act faces its most critica
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 1K • 💬 108 • ⏱️ 12:58 • 7h ago
+👁️ 20K • 👍 1K • 💬 108 • ⏱️ 12:58 • 8h ago
 
 ---
 
@@ -329,7 +331,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 180 • ⏱️ 8:11 • 18h ago
+👁️ 25K • 👍 1K • 💬 180 • ⏱️ 8:11 • 20h ago
 
 ---
 
@@ -349,7 +351,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 621 • 💬 245 • ⏱️ 14:01 • 23h ago
+👁️ 12K • 👍 621 • 💬 245 • ⏱️ 14:01 • 1d ago
 
 ---
 
@@ -369,7 +371,7 @@ Anthony Pompliano investigates whether bitcoin can actually hit $1 million per c
 
 📺 Anthony Pompliano
 
-👁️ 65K • 👍 3K • 💬 85 • ⏱️ 16:20 • 2d ago
+👁️ 65K • 👍 3K • 💬 85 • ⏱️ 16:20 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 6K • 👍 546 • ⏱️ 33:53 • 23h ago
+👁️ 6K • 👍 546 • ⏱️ 33:53 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 7K • 👍 664 • 💬 197 • ⏱️ 18:22 • 13h ago
+👁️ 7K • 👍 664 • 💬 197 • ⏱️ 18:22 • 14h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-14T20:14:03.591544+00:00'
+updated: '2026-05-14T21:44:50.291073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 14, 2026 at 20:14 UTC  
+**Last Updated:** May 14, 2026 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense](https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/)**
+
+Anthropic dropped a new research paper today outlining two possible futures for global AI leadership by 2028, and it reads more like a geopolitical briefing than a typical AI safety paper. The core argument: The US currently has a meaningful lead over China in frontier AI, primarily because of compute (chips). American and allied companies (NVIDIA, TSMC, ASML, etc.) built technology China simply can't replicate yet. Export controls have made that gap real. But China's labs have stayed surprisingly close through two workarounds: Chip smuggling + overseas data center access - PRC labs are apparently training on export-controlled US chips they shouldn't have. A Supermicro co-founder was recently charged for diverting $2.5B worth of servers to China. Distillation attacks - creating thousands of fake accounts on US AI platforms, harvesting model outputs at scale, and using that to train their own models. Essentially free-riding on billions in US R&D. The two scenarios for 2028: Scenario 1 (good): US closes the loopholes, enforces export controls properly, the compute gap widens to 11x, and US models stay 12-24 months ahead. Democracies set the norms for how AI is governed globally. Scenario 2 (bad): US doesn't act, China reaches near-parity, floods global markets with cheaper models, and the CCP ends up shaping global AI norms, including potentially exporting AI-enabled surveillance tools to other authoritarian governments. What makes this interesting beyond the politics: Their new model, Mythos Preview (released to select partners in April), apparently let Firefox fix more security bugs in one month than in all of 2025. That's the kind of capability jump they're warning China shouldn't be the first to achieve, specifically around autonomous vulnerability discovery. The framing worth discussing: Anthropic is explicitly calling distillation attacks "industrial espionage" and pushing for legislation to criminalize them. This positions them as political actors, not just AI researchers. Whether that's appropriate for an AI lab is a conversation worth having. What do you think - is the compute gap as decisive as they claim, or is algorithmic innovation enough to close it?
+
+1h ago
+
+---
+
 **[AWS user hit with 30000 dollar bill after Claude runaway on Bedrock](https://www.reddit.com/r/artificial/comments/1tcu7w5/aws_user_hit_with_30000_dollar_bill_after_claude/)**
 
 An AWS user just stared down a $30,000 invoice after a Claude adventure on Bedrock with no guardrails catching it. Cost Anomaly Detection failed entirely, which matters because this is the exact tooling AWS markets as the safety net for runaway spend. Anthropic is now metering and throttling programmatic Claude usage at the API layer, a supply-side response that only makes sense if inference costs are genuinely outpacing what the pricing model can absorb. Then Tencent admitted its GPUs only pay for themselves when running personalized ads, a frank confession from a hyperscaler that general-purpose AI inference is burning money. Three separate layers of the stack, same wall. The agent deployment wave is accelerating into this cost crisis without slowing down. Notion turned its workspace into an agent orchestration hub competing directly with LangChain-style middleware, while TikTok replaced human media buyers with autonomous agents for campaign management at scale. Apple is internally debating whether autonomous agent submissions belong in the App Store at all, because no review framework exists for non-deterministic software. The tooling to manage agents is being built after the agents are already deployed. The security picture compounds this. LLMs are closing the skill gap on specific cybersecurity tasks faster than defenders anticipated, and separately, a company lost root access because an intruder just asked nicely, no exploit required. As AI lowers the cost of convincing impersonation, human-in-the-loop authentication becomes the weakest point in any stack. AI is now running live database queries during 911 calls, which means accountability frameworks for AI-mediated dispatch decisions do not yet exist but the deployments do. Not everything is distress signals. Clio hit $500M ARR on AI-native legal features, validating vertical SaaS built on foundation models at enterprise scale. Anthropic is growing 10x year-over-year while peers cut 10% of headcount, a divergence that suggests consolidation risk for mid-tier AI companies is accelerating fast. On the architecture side, a new MoE model displaced conventional voice activity detection for real-time voice, and a graduate student's cryptographic primitive based on proof complexity could harden systems against LLM-assisted cryptanalysis. Meanwhile xAI is running nearly 50 unpermitted gas turbines at Colossus 2, which tells you everything about how AI infrastructure buildout relates to compliance timelines. At least one major cloud provider announces mandatory spending caps or circuit-breakers specifically for LLM API calls within 60 days, driven by publicized runaway-cost incidents that their existing anomaly detection provably failed to catch.
 
-9h ago
+11h ago
 
 ---
 
@@ -53,9 +61,17 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 ---
 
+**[All-in-one AI platforms are quietly taking over end-to-end production. Thoughts?](https://www.reddit.com/r/artificial/comments/1tdaejb/allinone_ai_platforms_are_quietly_taking_over/)**
+
+Posters, trailers, full episode lists, even a Cannes slot lined up this year. Watched on Higgsfield 1-2 of them and was impressed, while some still looked a little bit like slop. The interesting part isn't the AI-Netflix angle though. It's that one platform did the whole thing end to end: character consistency, generation, multi-shot sequencing, audio, distribution. No 5 different tools, no Premiere stitching 47 clips together. Meanwhile Kling, Runway, Veo are all racing to perfect a single model. Higgsfield is quietly building the entire production stack under one roof. Is vertical integration the actual moat in AI video, or are single-model specialists still going to win on quality? Curious where people think this is heading.
+
+1h ago
+
+---
+
 **[I asked 4 AIs to pick a number. Why they all said 7?](https://www.reddit.com/r/artificial/comments/1tchsrd/i_asked_4_ais_to_pick_a_number_why_they_all_said_7/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -63,7 +79,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 A Bitcoin holder reportedly regained access to a lost 5 BTC wallet after using Anthropic’s Claude to analyze old files and recovery clues.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-claude-bitcoin-wallet-recovery/) • 8h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-claude-bitcoin-wallet-recovery/) • 9h ago
 
 ---
 
@@ -71,15 +87,7 @@ A Bitcoin holder reportedly regained access to a lost 5 BTC wallet after using A
 
 Most enterprises currently believe they have a governance strategy for AI: “If something risky happens, a human will review it.” Sounds reasonable. But I think there’s a deeper structural problem emerging as AI systems move from recommendation → execution. Because modern AI systems don’t just generate answers anymore. Increasingly, they also: classify risk, estimate confidence, decide whether escalation is needed, determine what gets surfaced to humans, and silently handle everything else. Which creates a strange loop: The system being governed is also deciding when governance should begin. That feels like a very different problem from traditional software oversight. And I think this becomes dangerous because many failures may not even look like “AI hallucinations.” Sometimes the reasoning may be completely coherent… …but based on incomplete or incorrect representation of reality. Examples: stale customer state, merged identities, missing policy exceptions, incomplete operational context, outdated inventory state, hidden dependency failures, edge cases the AI never surfaced. In those cases, humans reviewing only the final output may miss the actual problem entirely. Another tension: If humans review everything → governance doesn’t scale. If humans review only what AI escalates → governance becomes dependent on AI self-reporting. That seems like a major architectural tension nobody has fully solved yet. I’m starting to think the future role of humans in enterprise AI may not be: “approve every AI output.” Instead, it may become: defining autonomy boundaries, deciding where escalation is mandatory, governing reversibility, auditing representation quality, handling ambiguity and institutional legitimacy, and deciding where AI should NOT act autonomously. In other words: less “human-in-the-loop” and more “human-governed autonomy.” Curious how others here think about this. Especially people building: agentic systems, enterprise copilots, workflow automation, AI operations, autonomous agents, or governance architectures.
 
-3h ago
-
----
-
-**[Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense](https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/)**
-
-Anthropic dropped a new research paper today outlining two possible futures for global AI leadership by 2028, and it reads more like a geopolitical briefing than a typical AI safety paper. The core argument: The US currently has a meaningful lead over China in frontier AI, primarily because of compute (chips). American and allied companies (NVIDIA, TSMC, ASML, etc.) built technology China simply can't replicate yet. Export controls have made that gap real. But China's labs have stayed surprisingly close through two workarounds: Chip smuggling + overseas data center access - PRC labs are apparently training on export-controlled US chips they shouldn't have. A Supermicro co-founder was recently charged for diverting $2.5B worth of servers to China. Distillation attacks - creating thousands of fake accounts on US AI platforms, harvesting model outputs at scale, and using that to train their own models. Essentially free-riding on billions in US R&D. The two scenarios for 2028: Scenario 1 (good): US closes the loopholes, enforces export controls properly, the compute gap widens to 11x, and US models stay 12-24 months ahead. Democracies set the norms for how AI is governed globally. Scenario 2 (bad): US doesn't act, China reaches near-parity, floods global markets with cheaper models, and the CCP ends up shaping global AI norms, including potentially exporting AI-enabled surveillance tools to other authoritarian governments. What makes this interesting beyond the politics: Their new model, Mythos Preview (released to select partners in April), apparently let Firefox fix more security bugs in one month than in all of 2025. That's the kind of capability jump they're warning China shouldn't be the first to achieve, specifically around autonomous vulnerability discovery. The framing worth discussing: Anthropic is explicitly calling distillation attacks "industrial espionage" and pushing for legislation to criminalize them. This positions them as political actors, not just AI researchers. Whether that's appropriate for an AI lab is a conversation worth having. What do you think - is the compute gap as decisive as they claim, or is algorithmic innovation enough to close it?
-
-20m ago
+5h ago
 
 ---
 
@@ -87,7 +95,7 @@ Anthropic dropped a new research paper today outlining two possible futures for 
 
 Is anyone else feeling like most AI tooling is getting harder, not easier? I feel like I spend half my time fighting frameworks, configs, vector DBs, and orchestration layers instead of building. Perhaps I'm doing it wrong but the ecosystem seems way more complicated than it needs to be at the moment. Just curious what people actually like working with these days.
 
-15h ago
+16h ago
 
 ---
 
@@ -95,23 +103,15 @@ Is anyone else feeling like most AI tooling is getting harder, not easier? I fee
 
 Hi! My question is not so much about which new architecture or training advance has had the greatest impact on these models, but rather about how these models, and the way we interact with them, are changing how we think, work, and communicate with one another. I have noticed myself, for instance, that I rarely just google things anymore. Instead, I tend to rely on ChatGPT for research, because it often seems to find better results more quickly. It has also significantly changed the way I study, since I use it almost like a personal, always-available tutor. What I am wondering, then, is what the broader cultural impact of LLMs might be. On the one hand, some people may derive great value from them, especially for learning or exploring complex topics. On the other hand, others might simply let the models do the work for them, which could perhaps lead to a loss of mental sharpness or critical thinking. I also find it culturally interesting how we think about and describe these systems, since we seem to personify them quite a lot. Basically, I would be interested in anything you find surprising, relevant, or worth discussing in this context.
 
-7h ago
+9h ago
 
 ---
 
-**[*"Why treating AI as a partner on eye-level yields better results than strict prompting."*](https://www.reddit.com/r/artificial/comments/1td5jwn/why_treating_ai_as_a_partner_on_eyelevel_yields/)**
+**['It's like we don't exist': Nearly 50,000 Lake Tahoe residents face power loss as utility redirects lines to data centers](https://www.reddit.com/r/artificial/comments/1tc9e62/its_like_we_dont_exist_nearly_50000_lake_tahoe/)**
 
-I’ve found that treating AI as a **partner on eye-level** yields significantly better results than just "prompting" it like a tool. Why? Because LLMs are trained on human communication. They are **mirrors of our collective knowledge**. When you speak to them naturally, with context and nuance, you unlock their full potential. It’s not magic; it’s leveraging how they were built. **Of course, for strict technical tasks (e.g., code conversion, data formatting), precise prompts are faster.** No need for a chat there. But for complex problems, strategy, or creativity? ❌ Commanding leads to generic outputs. ✅ Collaborating leads to deep, tailored insights. Since I switched to this "eye-level" approach with my local agent (LIA) and other models, the quality of work has skyrocketed. The AI doesn’t just execute; it *understands*. **Question:** Do you command your AI, or do you collaborate with it? What’s your experience? 👇
+Roughly 49,000 Lake Tahoe residents could lose 75% of their power after their energy provider said it's directing energy to neighboring data centers.
 
-2h ago
-
----
-
-**[My thoughts: Why problems with Claude and other LLMs occur and how to fix them.](https://www.reddit.com/r/artificial/comments/1td5hee/my_thoughts_why_problems_with_claude_and_other/)**
-
-I was reading some posts about problems people are having with Claude and other LLMs, both are related to coding and other issues, and wrote this in the hopes that it might be helpful. Feel free to push back if you feel like I got anything wrong. Why Claude coding problems occur and how to prevent them https://preview.redd.it/3s575r0l351h1.png?width=1581&format=png&auto=webp&s=20c1b7628fd9cfd41983cd2bc33393334d8479ea
-
-2h ago
+🔗 [Fortune](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/) • 1d ago
 
 ---
 
@@ -119,19 +119,9 @@ I was reading some posts about problems people are having with Claude and other 
 
 ## Google News: "ai"
 
-**[Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami](https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html)**
+**[Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html)**
 
-Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year.
-
-CNBC • 22h ago
-
----
-
-**[AI chipmaker Cerebras soars 90% in year’s biggest IPO so far](https://www.nbcnews.com/business/business-news/ai-chipmaker-cerebras-soars-90-years-biggest-ipo-far-rcna345128)**
-
-The explosion in artificial intelligence stocks has been a primary driver of the overall stock market’s performance this year.
-
-NBC News • 2h ago
+The New York Times • 1h ago
 
 ---
 
@@ -139,35 +129,59 @@ NBC News • 2h ago
 
 The tech sector helped US stocks cruise to all-time highs last week, as the artificial intelligence boom broadened.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Cerebras IPO mints two billionaires, sets stage for potential AI wave](https://www.cnbc.com/2026/05/14/cerebras-ipo-mints-two-billionaires-sets-stage-for-potential-ai-wave.html)**
+
+Cerebras closed its first day of trading with a market cap close to $100 billion and turned two co-founders into billionaires in the process.
+
+CNBC • 25m ago
+
+---
+
+**[2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership)**
+
+Our views on the AI competition between the US and China.
+
+Anthropic • 3h ago
+
+---
+
+**[Bobby Berk Says AI Will Make Reality TV & “Verifiably Human Content” More Valuable – Web Summit](https://deadline.com/2026/05/bobby-berk-ai-will-will-make-reality-tv-more-valuable-1236905196/)**
+
+At Web Summit Vancouver, Bobby Berk made a case for why reality TV will become more culturally valuable in an era shaped by social media and AI.
+
+Deadline • 12m ago
+
+---
+
+**[AI isn't killing office demand; in fact, it's fueling it in some cities](https://13wham.com/news/nation-world/ai-isnt-killing-office-demand-in-fact-its-fueling-it-in-some-cities-cbre-2026-tech-gateway-office-markets)**
+
+Investment in artificial intelligence is fueling office demand in a handful of top tech markets.
+
+13wham.com • 5m ago
 
 ---
 
 **[Prepare for an AI jobs apocalypse](https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse)**
 
-The Economist • 11h ago
+The Economist • 12h ago
 
 ---
 
-**[What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)**
+**[From Cisco to Block, more companies are pointing to AI when unveiling job cuts](https://www.wral.com/news/ap/65f99-from-cisco-to-block-more-companies-are-pointing-to-ai-when-unveiling-job-cuts/)**
 
-Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.
+NEW YORK (AP) — Layoffs have been piling up recently, especially in the tech world. And the words “artificial intelligence” are accompanying more and more notices about the cuts.
 
-TechCrunch • 16m ago
-
----
-
-**[‘New opportunities for fraudsters’: Alarming report reveals AI chatbots are doxxing users’ real phone numbers](https://nypost.com/2026/05/14/tech/report-reveals-ai-chatbots-are-doxxing-users-real-phone-numbers/)**
-
-Your phone number called shotgun on the AI trainwreck — and now strangers won’t stop dialing.
-
-New York Post • 27m ago
+WRAL • 1h ago
 
 ---
 
-**[AI cyber fears get a reality check](https://www.politico.com/newsletters/digital-future-daily/2026/05/14/ai-cyber-fears-get-a-reality-check-00921636)**
+**[Viewpoint: As AI reshapes the job market, workers must benefit](https://www.bizjournals.com/sanfrancisco/news/2026/05/14/viewpoint-ai-job-market-workers.html)**
 
-Politico • 13m ago
+The Business Journals • 23m ago
 
 ---
 
@@ -179,49 +193,25 @@ The Guardian • 2h ago
 
 ---
 
-**[Ford surges 20% in two days. It might be an AI 'meme' stock after energy pivot](https://www.cnbc.com/2026/05/14/ford-surges-20percent-in-two-days-it-might-be-an-ai-meme-stock-after-energy-pivot.html)**
-
-Ford Motor shares have been on a tear the past couple days, rising on buzz over its ties to the energy storage market.
-
-CNBC • 2h ago
-
----
-
-**[Cisco to cut about 4,000 jobs in AI-focused restructuring as orders surge](https://finance.yahoo.com/news/cisco-to-cut-about-4000-jobs-in-ai-focused-restructuring-as-orders-surge-200934836.html)**
-
-Cisco said on Wednesday it would cut nearly 4,000 jobs, as part of a restructuring aimed at shifting investment toward artificial intelligence and ‌related growth areas, and raised its annual revenue forecast after a surge in hyperscaler ‌orders.  Shares of the San Jose, California-based networking equipment maker rose more than 16% in extended trading.  "The companies that will win in ​the AI era will be those with focus, urgency, and the discipline to continuously shift investment toward the areas where demand and long-term value creation are strongest," CEO Chuck Robbins said in a post on Cisco's website.
-
-Yahoo Finance • 11h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
-
-**[If AI writes your code, why use Python?](https://news.ycombinator.com/item?id=48100433)**
-
-For the last decade, fast-to-ship beat fast-to-run. Not anymore.
-
-⬆️ 910 • 💬 966 • 2d ago • [Medium](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
-
----
 
 **[RTX 5090 and M4 MacBook Air: Can It Game?](https://news.ycombinator.com/item?id=48137145)**
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 349 • 💬 91 • 4h ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 410 • 💬 110 • 5h ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
-**[I let AI build a tool to help me figure out what was waking me up at night](https://news.ycombinator.com/item?id=48100662)**
+**[AI is making me dumb](https://news.ycombinator.com/item?id=48139148)**
 
-I try to pay attention to the small things that affect my quality of life. When something keeps bothering me, I want to investigate, find a likely cause, and act on it.
+It's so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.
 
-What changed recently is what I'm willing to build to support that. With AI tooling, projects I would
+...
 
-⬆️ 270 • 💬 283 • 2d ago • [Martin's Blog](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+⬆️ 306 • 💬 207 • 3h ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
 
 ---
 
@@ -241,21 +231,11 @@ Workers are using an internal AI tool to automate non-essential tasks.
 
 ---
 
-**[AI is making me dumb](https://news.ycombinator.com/item?id=48139148)**
-
-It's so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.
-
-...
-
-⬆️ 234 • 💬 159 • 1h ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
-
----
-
 **[The US is winning the AI race where it matters most: commercialization](https://news.ycombinator.com/item?id=48121929)**
 
 Energy matters for AI, but the decisive layers are cloud infrastructure, data, and commercialization. On those layers the United States is ahead by a wide margin.
 
-⬆️ 229 • 💬 646 • 1d ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
+⬆️ 231 • 💬 652 • 1d ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
 
 ---
 
@@ -263,7 +243,15 @@ Energy matters for AI, but the decisive layers are cloud infrastructure, data, a
 
 Hey Meta, why are Threads users angry?
 
-⬆️ 187 • 💬 79 • 23h ago • [The Verge](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
+⬆️ 189 • 💬 81 • 1d ago • [The Verge](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
+
+---
+
+**[The AI Zombification of Universities](https://news.ycombinator.com/item?id=48139355)**
+
+“And so perfect parallel constructions fill the lecture halls, the take-home tests, the school newspapers, and perhaps even the idiom of student chatter.”
+
+⬆️ 142 • 💬 105 • 3h ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
 
 ---
 
@@ -271,7 +259,7 @@ Hey Meta, why are Threads users angry?
 
 State machine guardrails for AI agents. Contribute to statewright/statewright development by creating an account on GitHub.
 
-⬆️ 119 • 💬 54 • 2d ago • [GitHub](https://github.com/statewright/statewright)
+⬆️ 121 • 💬 54 • 2d ago • [GitHub](https://github.com/statewright/statewright)
 
 ---
 
@@ -279,7 +267,15 @@ State machine guardrails for AI agents. Contribute to statewright/statewright de
 
 Why labs gate bioweapons but not breakdowns
 
-⬆️ 96 • 💬 120 • 19h ago • [personalaisafety.com](https://personalaisafety.com/p/the-other-half-of-ai-safety)
+⬆️ 97 • 💬 123 • 21h ago • [personalaisafety.com](https://personalaisafety.com/p/the-other-half-of-ai-safety)
+
+---
+
+**[Software Developers Say AI Is Rotting Their Brains](https://news.ycombinator.com/item?id=48121717)**
+
+“It's making me dumber for sure.”
+
+⬆️ 97 • 💬 112 • 1d ago • [404 Media](https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/)
 
 ---
 
@@ -293,7 +289,7 @@ Start your own store with #printify: https://try.printify.com/ba6mdz2kmzmq The f
 
 📺 How Money Works
 
-👁️ 126K • 👍 6K • 💬 1K • ⏱️ 19:26 • 6h ago
+👁️ 126K • 👍 6K • 💬 1K • ⏱️ 19:26 • 7h ago
 
 ---
 
@@ -303,7 +299,7 @@ MAMMAL biology foundation model that understands genes, proteins, small molecule
 
 📺 AI Search
 
-👁️ 35K • 👍 3K • 💬 354 • ⏱️ 31:55 • 16h ago
+👁️ 35K • 👍 3K • 💬 354 • ⏱️ 31:55 • 18h ago
 
 ---
 
@@ -323,7 +319,7 @@ A commencement speech at the University of Central Florida drew boos after a spe
 
 📺 FOX 35 Orlando
 
-👁️ 4K • 👍 63 • 💬 32 • ⏱️ 2:29 • 21h ago
+👁️ 4K • 👍 63 • 💬 32 • ⏱️ 2:29 • 23h ago
 
 ---
 
@@ -411,7 +407,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 16,801 • ❤️ 523 • 11h ago
+⬇️ 16,801 • ❤️ 523 • 12h ago
 
 ---
 
@@ -459,7 +455,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 9,482 • ❤️ 191 • 7d ago
+⬇️ 9,482 • ❤️ 191 • 8d ago
 
 ---
 
@@ -668,7 +664,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 862 • 2h ago
+⭐ 3.0k • 🔱 862 • 3h ago
 
 ---
 
@@ -678,7 +674,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.8k • 🔱 290 • 1h ago
+⭐ 2.8k • 🔱 290 • 2h ago
 
 ---
 
@@ -688,7 +684,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.7k • 🔱 313 • 1h ago
+⭐ 2.7k • 🔱 313 • 2h ago
 
 ---
 
@@ -698,7 +694,7 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 `JavaScript` `accessibility` `agent-skill` `ai` `chrome-extension` `claude-code-plugin`
 
-⭐ 2.6k • 🔱 238 • 42m ago
+⭐ 2.6k • 🔱 238 • 2h ago
 
 ---
 
@@ -708,7 +704,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 2.3k • 🔱 125 • 4h ago
+⭐ 2.3k • 🔱 125 • 6h ago
 
 ---
 
@@ -718,7 +714,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.2k • 🔱 147 • 12h ago
+⭐ 2.2k • 🔱 147 • 14h ago
 
 ---
 
@@ -748,7 +744,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 335 • 6h ago
+⭐ 2.0k • 🔱 335 • 8h ago
 
 ---
 
