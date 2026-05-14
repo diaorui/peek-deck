@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-14T16:28:17.467884+00:00'
+updated: '2026-05-14T18:17:38.476438+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 14, 2026 at 16:28 UTC  
+**Last Updated:** May 14, 2026 at 18:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-10h ago
+12h ago
+
+---
+
+**[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
+
+2h ago
 
 ---
 
@@ -44,27 +50,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
 
-13h ago
-
----
-
-**[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
-
-23h ago
-
----
-
-**[Wuji tech teases its newest, most advanced humanoid hand](https://www.reddit.com/r/robotics/comments/1tc541q/wuji_tech_teases_its_newest_most_advanced/)**
-
-23h ago
-
----
-
-**[Humanoid Robot like Unitree G1](https://www.reddit.com/r/robotics/comments/1td2a2n/humanoid_robot_like_unitree_g1/)**
-
-How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robota at home under 10k but what about an humanoid? Is it even feasible?
-
-36m ago
+15h ago
 
 ---
 
@@ -72,13 +58,27 @@ How hard is it to create your own humanoid from scratch at home? A humanoid that
 
 Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
-1h ago
+3h ago
 
 ---
 
-**[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
+**[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
 
-11m ago
+1d ago
+
+---
+
+**[Humanoid Robot like Unitree G1](https://www.reddit.com/r/robotics/comments/1td2a2n/humanoid_robot_like_unitree_g1/)**
+
+How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
+
+2h ago
+
+---
+
+**[Wuji tech teases its newest, most advanced humanoid hand](https://www.reddit.com/r/robotics/comments/1tc541q/wuji_tech_teases_its_newest_most_advanced/)**
+
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Finally added a small distance watermark overlay to my LD Robot D500 setup, so t
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 9h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
 
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 2h ago
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 4h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey r/robotics community, A couple weeks back, I asked about how you all were ma
 
 A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
 
-Crain's Chicago Business • 20h ago
+Crain's Chicago Business • 22h ago
 
 ---
 
@@ -122,7 +122,7 @@ Crain's Chicago Business • 20h ago
 
 Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ Yahoo Finance • 23h ago
 
 Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -142,17 +142,17 @@ Global Times • 2d ago
 
 ---
 
-**[Hitachi Digital Services Ranked as Three-Time Leader in 2026 Intelligent Robotics and Physical AI Services ISG Provider Lens](https://www.businesswire.com/news/home/20260514294652/en/Hitachi-Digital-Services-Ranked-as-Three-Time-Leader-in-2026-Intelligent-Robotics-and-Physical-AI-Services-ISG-Provider-Lens)**
+**[Rice Lake’s school robotics club rocks world competition](https://www.weau.com/2026/05/14/rice-lakes-school-robotics-club-rocks-world-competition/)**
 
-ISG Research recognition highlights Hitachi’s end-to-end expertise in delivering physical AI solutions to mission-critical domains.
+A team of St. Joseph sixth graders didn’t just compete at the VEX Robotics World Championship in St. Louis. They walked out with the tournament’s top honor and made state history in the process.
 
-Business Wire • 3h ago
+WEAU • 15h ago
 
 ---
 
 **[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -160,7 +160,7 @@ Bloomberg.com • 10h ago
 
 With the global race for artificial intelligence and robotics technology in full swing, David Muir takes a closer look at the humanoid robots being built in China.
 
-ABC News - Breaking News, Latest News and Videos • 16h ago
+ABC News - Breaking News, Latest News and Videos • 18h ago
 
 ---
 
@@ -172,19 +172,19 @@ FOX Weather • 1d ago
 
 ---
 
-**[Humanoid Robotics In 2026: The Race From Pilot To Platform](https://kraneshares.com/humanoid-robotics-in-2026-the-race-from-pilot-to-platform/)**
-
-The Robots Have Clocked In When Japan Airlines (JAL) deployed humanoid robots at Tokyo’s Haneda Airport in May 2026, the industry’s message was hard to miss. This was not a press conference stunt but a three-year operational commitment from a legacy aviation carrier in one of the world’s most safety-conscious regulatory environments, tasked with solving […]
-
-KraneShares • 2d ago
-
----
-
-**[Helix-02 humanoid robot handles full 8-hour factory work shifts](https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts)**
+**[Helix-02 robots now sustain full factory-style 8-hour shifts without intervention](https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts)**
 
 Figure AI says its Helix-02 humanoid robots can now autonomously run full 8-hour work shifts.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 21h ago
+
+---
+
+**[After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show](https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html)**
+
+Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 40K • 👍 993 • 💬 491 • ⏱️ 3:03 • 17h ago
+👁️ 40K • 👍 993 • 💬 491 • ⏱️ 3:03 • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 3K • 👍 65 • 💬 11 • ⏱️ 21:16 • 22h ago
+👁️ 3K • 👍 65 • 💬 11 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Figure.03 is attempting its first-ever on-camera, LIVE fully autonomous 8-hour h
 
 📺 Over The Horizon
 
-👁️ 10K • 👍 232 • 💬 7 • ⏱️ 8:11:35 • 14h ago
+👁️ 10K • 👍 232 • 💬 7 • ⏱️ 8:11:35 • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ A humanoid robot named Schotti is working as a shop assistant in Germany, guidin
 
 📺 Reuters
 
-👁️ 408 • 👍 13 • 💬 6 • ⏱️ 2:16 • 2h ago
+👁️ 408 • 👍 13 • 💬 6 • ⏱️ 2:16 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ New shorts each and every day. Hit subscribe if you enjoy our content!
 
 📺 VEXR
 
-👁️ 12K • 👍 495 • 💬 27 • ⏱️ 0:29 • 1h ago
+👁️ 12K • 👍 495 • 💬 27 • ⏱️ 0:29 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful & Alphabet Comb
 
 📺 Bob ToysReview
 
-👁️ 2K • 👍 9 • ⏱️ 14:30 • 7h ago
+👁️ 2K • 👍 9 • ⏱️ 14:30 • 9h ago
 
 ---
 

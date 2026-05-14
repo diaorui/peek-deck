@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-14T16:28:17.464721+00:00'
+updated: '2026-05-14T18:17:38.473183+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 16:28 UTC  
+**Last Updated:** May 14, 2026 at 18:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,297.51
+### $2,305.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.1%  
-**30d:** -2.2%  
-**90d:** +10.6%  
-**1y:** -9.4%  
+**24h:** +2.6%  
+**7d:** +0.3%  
+**30d:** -1.9%  
+**90d:** +11.0%  
+**1y:** -9.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained through their layerzero bridge. single exploit hit 20+ chains because one bridge contract held the reserves for all of them drift protocol: $285M. north korean hackers spent 6 months social engineering their way in 1inch/trustedvolumes: $6.7M last week. same attacker from the 2025 hack came back and found a new door april 2026 alone: $600M+ stolen across 28-30 separate incidents. worst single month in crypto history 40+ protocols have shut down or entered wind-down mode this year. aave froze rsETH markets and lost $6 billion in TVL from panic withdrawals even though their contracts weren't touched. the pattern isn't random. bridges keep producing the biggest single-day losses because they're designed as massive honeypots. $22 billion in bridge TVL as of march, each one a single point of failure for every protocol downstream. what bugs me is the response is always the same. "we need better audits." "we need better monitoring." nobody is questioning whether the bridge model itself is fundamentally broken. bridges work by locking assets on one chain and minting representations on another through a trusted intermediary (multisig, oracle network, validator set). every one of these is an attack surface. kelp's bridge got spoofed because layerzero's messaging layer was fooled into thinking the withdrawal was legitimate. the alternative exists. data availability layers can handle cross-chain verification without lock-and-mint. instead of one contract holding $293M that can be drained in a single tx, you verify data availability cryptographically across chains. no honeypot, no single point of failure, no trusted intermediary to spoof. DA layers like avail, celestia, eigenda are live and production ready. the tech isn't theoretical anymore. it's an adoption problem not a research problem. at what point do we stop patching bridges and start replacing them?
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Three months after mainnet launched, Vitalik deployed an advertising auction sys
 
 I get the basics of how Ethereum works, but I’m trying to understand the institutional side better. What do they actually want from it? And does their involvement change where Ethereum is headed, whether that’s decentralization, governance, or how the protocol develops? Genuinely curious what people who follow this space think.
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get the basics of how Ethereum works, but I’m trying to understand the insti
 
 Turning consensus research into practice. We design, analyze, and formally verify consensus protocols for Ethereum.
 
-🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 15h ago
+🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 16h ago
 
 ---
 
@@ -112,13 +112,13 @@ Turning consensus research into practice. We design, analyze, and formally verif
 
 My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
 
-23h ago
+1d ago
 
 ---
 
 **[Aztec Foundation contributes 1% of AZTEC token supply toward supporting Ethereum Core Development via Protocol Guild](https://www.reddit.com/r/ethereum/comments/1tc65xb/aztec_foundation_contributes_1_of_aztec_token/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2054190784061091896?s=20) • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ The DTCC and Chainlink partnership directly benefits Ethereum by establishing it
 
 Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -162,27 +162,11 @@ ethereum.org • 3d ago
 
 ---
 
-**[Ethereum App Builder Consensys Delays IPO](https://finance.yahoo.com/markets/crypto/articles/ethereum-app-builder-consensys-delays-131300957.html)**
+**[Bitcoin, Ethereum, XRP Fall, But Dogecoin Gains Ahead Of Crypto Act Markup In Senate: This Analyst Is Bracing For More BTC Pain Ahead](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-fall-dogecoin-014834273.html)**
 
-Consensys, the Ethereum (CRYPTO: $ETH) development firm, has paused its planned initial public offering (IPO) until...
+Leading cryptocurrencies slipped on Wednesday as the Senate Banking Committee gears up to vote on the Clarity Act. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.77%$79,580.06Ethereum (CRYPTO: ETH) -1.16%$2,264.35XRP (CRYPTO: XRP) -1.00%$1.43Solana (CRYPTO: SOL) -4.11%$91.14Dogecoin (CRYPTO: DOGE) +2.91%$0.1145 Crypto Market Lags Bitcoin dipped below $79,000 during early trading but staged a partial recovery by late evening. Ethereum fell to an intraday l
 
-Yahoo Finance • 3h ago
-
----
-
-**[Current price of Ethereum for May 14, 2026](https://fortune.com/article/price-of-ethereum-05-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
-
----
-
-**[Ethereum Leverage Tells Two Different Stories On Binance And OKX: Traders Face A Fragile Setup](https://www.tradingview.com/news/newsbtc:3ab10ffc2094b:0-ethereum-leverage-tells-two-different-stories-on-binance-and-okx-traders-face-a-fragile-setup/)**
-
-Ethereum is consolidating between $2,250 and $2,450 as the market searches for the catalyst or the structural shift that forces a decisive move in either direction. The price is holding but not breaking — and CryptoQuant analyst MorenoDV has identified a divergence in the derivatives data across tw…
-
-TradingView • 3h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -210,19 +194,31 @@ Decrypt • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates, ETH holds support, XRP eyes breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-eth-holds-support-xrp-eyes-breakout-202605130342)**
+**[Ethereum app builder Consensys has delayed its potential IPO until fall](https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade cautiously on Wednesday as price action approaches key technical levels across these top three cryptocurrencies. BTC stalls near the key resistance level around $82,000 while ETH holds firm above the key support at $2,275.
+The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
 
-FXStreet • 1d ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall, But Dogecoin Gains Ahead Of Crypto Act Markup In Senate: This Analyst Is Bracing For More BTC Pain Ahead](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-fall-dogecoin-014834273.html)**
+**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
 
-Leading cryptocurrencies slipped on Wednesday as the Senate Banking Committee gears up to vote on the Clarity Act. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.77%$79,580.06Ethereum (CRYPTO: ETH) -1.16%$2,264.35XRP (CRYPTO: XRP) -1.00%$1.43Solana (CRYPTO: SOL) -4.11%$91.14Dogecoin (CRYPTO: DOGE) +2.91%$0.1145 Crypto Market Lags Bitcoin dipped below $79,000 during early trading but staged a partial recovery by late evening. Ethereum fell to an intraday l
+Disruption Banking • 2d ago
 
-Yahoo Finance • 14h ago
+---
+
+**[Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum](https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094)**
+
+Gizmodo • 3d ago
+
+---
+
+**[Current price of Ethereum for May 14, 2026](https://fortune.com/article/price-of-ethereum-05-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -246,7 +242,7 @@ CharlesSchwab's Nathan Peterson offers his latest in-depth look into the price a
 
 📺 Schwab Network
 
-👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:44 • 18h ago
+👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:44 • 20h ago
 
 ---
 
@@ -266,7 +262,7 @@ Ethereum and Ripple are often compared, but they're solving completely different
 
 📺 CoinGecko
 
-👁️ 729 • 👍 90 • 💬 62 • ⏱️ 3:46 • 5h ago
+👁️ 729 • 👍 90 • 💬 62 • ⏱️ 3:46 • 7h ago
 
 ---
 
@@ -274,7 +270,7 @@ Ethereum and Ripple are often compared, but they're solving completely different
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 843 • 💬 51 • ⏱️ 2:13 • 15h ago
+👁️ 12K • 👍 843 • 💬 51 • ⏱️ 2:13 • 17h ago
 
 ---
 
@@ -284,7 +280,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 5K • 👍 253 • 💬 1 • ⏱️ 46:45 • 14m ago
+👁️ 5K • 👍 253 • 💬 1 • ⏱️ 46:45 • 2h ago
 
 ---
 
@@ -304,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 164 • 👍 14 • 💬 1 • ⏱️ 4:45 • 6h ago
+👁️ 164 • 👍 14 • 💬 1 • ⏱️ 4:45 • 8h ago
 
 ---
 
@@ -314,7 +310,7 @@ BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 7K • 👍 289 • 💬 82 • ⏱️ 19:06 • 13h ago
+👁️ 7K • 👍 289 • 💬 82 • ⏱️ 19:06 • 15h ago
 
 ---
 
@@ -324,7 +320,7 @@ Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergi
 
 📺 Trade Confident
 
-👁️ 278 • 👍 8 • 💬 1 • ⏱️ 5:10 • 20h ago
+👁️ 278 • 👍 8 • 💬 1 • ⏱️ 5:10 • 22h ago
 
 ---
 
