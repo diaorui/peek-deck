@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-14T22:57:32.116469+00:00'
+updated: '2026-05-15T00:01:16.453101+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 14, 2026 at 22:57 UTC  
+**Last Updated:** May 15, 2026 at 00:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -0.4%  
-**30d:** -2.6%  
-**90d:** +10.2%  
-**1y:** -9.7%  
+**24h:** +0.7%  
+**7d:** -1.8%  
+**30d:** -2.8%  
+**90d:** +16.2%  
+**1y:** -10.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained through their layerzero bridge. single exploit hit 20+ chains because one bridge contract held the reserves for all of them drift protocol: $285M. north korean hackers spent 6 months social engineering their way in 1inch/trustedvolumes: $6.7M last week. same attacker from the 2025 hack came back and found a new door april 2026 alone: $600M+ stolen across 28-30 separate incidents. worst single month in crypto history 40+ protocols have shut down or entered wind-down mode this year. aave froze rsETH markets and lost $6 billion in TVL from panic withdrawals even though their contracts weren't touched. the pattern isn't random. bridges keep producing the biggest single-day losses because they're designed as massive honeypots. $22 billion in bridge TVL as of march, each one a single point of failure for every protocol downstream. what bugs me is the response is always the same. "we need better audits." "we need better monitoring." nobody is questioning whether the bridge model itself is fundamentally broken. bridges work by locking assets on one chain and minting representations on another through a trusted intermediary (multisig, oracle network, validator set). every one of these is an attack surface. kelp's bridge got spoofed because layerzero's messaging layer was fooled into thinking the withdrawal was legitimate. the alternative exists. data availability layers can handle cross-chain verification without lock-and-mint. instead of one contract holding $293M that can be drained in a single tx, you verify data availability cryptographically across chains. no honeypot, no single point of failure, no trusted intermediary to spoof. DA layers like avail, celestia, eigenda are live and production ready. the tech isn't theoretical anymore. it's an adoption problem not a research problem. at what point do we stop patching bridges and start replacing them?
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ I get the basics of how Ethereum works, but I’m trying to understand the insti
 
 Turning consensus research into practice. We design, analyze, and formally verify consensus protocols for Ethereum.
 
-🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 21h ago
+🔗 [consensus.ethereum.foundation](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) • 22h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The DTCC and Chainlink partnership directly benefits Ethereum by establishing its enterprise-grade client, Besu, as the foundational infrastructure for a major global post-trade system. The Collateral AppChain is built on Hyperledger Besu, an Ethereum-compatible network, which validates Ethereum’s technical standards for institutional use and drives demand for enterprise blockchain solutions. This integration significantly boosts the utility and credibility of Chainlink’s oracle services within traditional finance. By utilizing Chainlink’s Runtime Environment (CRE) and data standards to automate pricing, margining, and settlement, the deal demonstrates that decentralized oracles can securely manage critical financial workflows. This positions Chainlink as a default infrastructure layer for tokenized real-world assets (RWA), potentially increasing its usage across other financial institutions following DTCC’s October 2026 launch. For the broader financial ecosystem, the partnership accelerates the tokenization of assets on blockchain rails. It enables 24/7 near real-time collateral management, moving away from legacy T+1 or T+2 settlement times to instant, smart-contract-verified transactions. This efficiency improves capital utilization for institutions and sets a precedent for other clearinghouses to adopt similar Ethereum-based and Chainlink-powered infrastructures.
 
-1d ago
+2d ago
 
 ---
 
@@ -156,11 +156,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices backing off](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-backing-off-113324298.html)**
+**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://decrypt.co/367768/charles-schwab-begins-bitcoin-ethereum-trading-us-users)**
 
-Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday’s opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from Monday’s opening price.
+Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
 
-Yahoo Finance • 2d ago
+Decrypt • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-may-14-2026-bitcoin-and-ethereum-prices-slipping-this-week-111938059.html)**
+
+Bitcoin opened at $79,283.34 on Thursday, down 1.5% from Wednesday's opening price. Ethereum opened at $2,257.71 on Thursday, down 0.7% from Wednesday’s opening value.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -170,11 +178,9 @@ Disruption Banking • 2d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP face recovery headwinds amid declining risk appetite](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-face-recovery-headwinds-amid-declining-risk-appetite-202605141200)**
+**[Circle CEO Reveals CLARITY Act’s Impact on Bitcoin, Ethereum and XRP](https://coinpedia.org/news/circle-ceo-reveals-clarity-acts-impact-on-bitcoin-ethereum-and-xrp/)**
 
-Bitcoin (BTC) edges higher, from the daily low at $78,922, aiming for a breakout above the pivotal $80,000 level on Thursday. Altcoins, including Ethereum (ETH) and Ripple (XRP), are showing signs of a gradual rebound after headwinds trimmed early-week gains cooled.
-
-FXStreet • 10h ago
+Coinpedia • 2d ago
 
 ---
 
@@ -182,13 +188,7 @@ FXStreet • 10h ago
 
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
-The Block • 6h ago
-
----
-
-**[Clear Signing: Making Transaction Approvals Safer on Ethereum](https://blog.ethereum.org/2026/05/12/clear-signing-announcement)**
-
-ethereum.org • 2d ago
+The Block • 7h ago
 
 ---
 
@@ -198,27 +198,25 @@ Gizmodo • 3d ago
 
 ---
 
-**[Ethereum News: Tom Lee’s BitMine Just Slashed ETH Buying by 74%, Here’s What Comes Next](https://www.aol.com/articles/ethereum-news-tom-lee-bitmine-221438344.html)**
+**[Clear Signing: Making Transaction Approvals Safer on Ethereum](https://blog.ethereum.org/2026/05/12/clear-signing-announcement)**
 
-BitMine has slowed its Ethereum (CRYPTO: ETH) accumulation, cutting weekly ETH purchases by around 74% as it nears a key portfolio milestone. This marks a clear change from its earlier buying spree that rapidly built one of the largest corporate Ethereum treasuries. The move comes as the firm edges closer to its target of holding ... Ethereum News: Tom Lee’s BitMine Just Slashed ETH Buying by 74%, Here’s What Comes Next
-
-AOL.com • 42m ago
+ethereum.org • 2d ago
 
 ---
 
-**[Prediction: Ethereum Will Be Worth $5,000 by 2030](https://www.fool.com/investing/2026/05/14/prediction-ethereum-will-be-worth-x-by-2030/)**
+**[Crypto Today: Bitcoin, Ethereum, XRP face recovery headwinds amid declining risk appetite](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-face-recovery-headwinds-amid-declining-risk-appetite-202605141200)**
 
-If Ethereum can grow at a steady 20% rate, it could reclaim its all-time high from 2025.
+Bitcoin (BTC) edges higher, from the daily low at $78,922, aiming for a breakout above the pivotal $80,000 level on Thursday. Altcoins, including Ethereum (ETH) and Ripple (XRP), are showing signs of a gradual rebound after headwinds trimmed early-week gains cooled.
 
-The Motley Fool • 12h ago
+FXStreet • 12h ago
 
 ---
 
-**[Blockchain.com rolls out crypto backed loans for Bitcoin, Ethereum, and USDC holders](https://cryptobriefing.com/crypto-backed-loans-by-blockchaincom/)**
+**[Ethereum Leverage Tells Two Different Stories On Binance And OKX: Traders Face A Fragile Setup](https://www.tradingview.com/news/newsbtc:3ab10ffc2094b:0-ethereum-leverage-tells-two-different-stories-on-binance-and-okx-traders-face-a-fragile-setup/)**
 
-Blockchain.com launched crypto backed loans globally with rates from 1.9%, letting users borrow against BTC, ETH, and USDC.
+Ethereum is consolidating between $2,250 and $2,450 as the market searches for the catalyst or the structural shift that forces a decisive move in either direction. The price is holding but not breaking — and CryptoQuant analyst MorenoDV has identified a divergence in the derivatives data across tw…
 
-Crypto Briefing • 4h ago
+TradingView • 11h ago
 
 ---
 
@@ -232,7 +230,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 235 • 💬 34 • ⏱️ 18:57 • 6h ago
+👁️ 5K • 👍 235 • 💬 34 • ⏱️ 18:57 • 7h ago
 
 ---
 
@@ -252,7 +250,7 @@ Ethereum and Ripple are often compared, but they're solving completely different
 
 📺 CoinGecko
 
-👁️ 1K • 👍 115 • 💬 65 • ⏱️ 3:46 • 12h ago
+👁️ 1K • 👍 115 • 💬 65 • ⏱️ 3:46 • 13h ago
 
 ---
 
@@ -270,7 +268,7 @@ CharlesSchwab's Nathan Peterson offers his latest in-depth look into the price a
 
 📺 CryptoWendyO
 
-👁️ 14K • 👍 923 • 💬 59 • ⏱️ 2:13 • 21h ago
+👁️ 14K • 👍 923 • 💬 59 • ⏱️ 2:13 • 23h ago
 
 ---
 
@@ -280,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 244 • 👍 16 • 💬 1 • ⏱️ 4:45 • 13h ago
+👁️ 244 • 👍 16 • 💬 1 • ⏱️ 4:45 • 14h ago
 
 ---
 
@@ -310,7 +308,7 @@ BITCOIN & ALTCOIN WARNING: Don't Be Fooled!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 7K • 👍 296 • 💬 173 • ⏱️ 19:06 • 19h ago
+👁️ 7K • 👍 296 • 💬 173 • ⏱️ 19:06 • 20h ago
 
 ---
 
@@ -320,7 +318,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 481 • 💬 92 • ⏱️ 12:55 • 19h ago
+👁️ 3K • 👍 481 • 💬 92 • ⏱️ 12:55 • 20h ago
 
 ---
 

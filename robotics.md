@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-14T22:57:32.119653+00:00'
+updated: '2026-05-15T00:01:16.455320+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 14, 2026 at 22:57 UTC  
+**Last Updated:** May 15, 2026 at 00:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,27 +36,11 @@ Robotics research and industry news
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-16h ago
+17h ago
 
 ---
 
 **[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
-
-6h ago
-
----
-
-**[Vision Tracker?](https://www.reddit.com/r/robotics/comments/1tclegi/vision_tracker/)**
-
-CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
-
-20h ago
-
----
-
-**[LD Robot D500 Watermark on my rover](https://www.reddit.com/r/robotics/comments/1td0x4r/ld_robot_d500_watermark_on_my_rover/)**
-
-Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
 7h ago
 
@@ -66,13 +50,23 @@ Finally added a small distance watermark overlay to my LD Robot D500 setup, so t
 
 SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
 
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 2h ago
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 3h ago
 
 ---
 
-**[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
+**[LD Robot D500 Watermark on my rover](https://www.reddit.com/r/robotics/comments/1td0x4r/ld_robot_d500_watermark_on_my_rover/)**
 
-1d ago
+Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
+
+8h ago
+
+---
+
+**[Vision Tracker?](https://www.reddit.com/r/robotics/comments/1tclegi/vision_tracker/)**
+
+CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
+
+21h ago
 
 ---
 
@@ -80,7 +74,13 @@ SBCs are getting lot more expensive because of RAM crisis. I used one that is st
 
 A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
 
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 8h ago
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 9h ago
+
+---
+
+**[This is where inspection robotics actually becomes useful](https://www.reddit.com/r/robotics/comments/1tc5nas/this_is_where_inspection_robotics_actually/)**
+
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ A3’s Q1 2026 robot order data shows North American companies ordered 9,055 rob
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 15h ago
 
 ---
 
@@ -102,21 +102,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
 
-7h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
-
-Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
-
-Global Times • 2d ago
-
----
 
 **[Rivian CEO’s robotics startup tops $1 billion in funding: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-scaringe-robotics-mind-raises-funding-20260513/)**
 
@@ -134,11 +126,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+**[Mind Robotics Announces $400M in New Funding to Expand Industrial Robotics Deployment](https://www.businesswire.com/news/home/20260513731983/en/Mind-Robotics-Announces-%24400M-in-New-Funding-to-Expand-Industrial-Robotics-Deployment)**
 
-Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+Mind Robotics today announced a $400 million financing led by Kleiner Perkins, bringing total investment in Mind Robotics to more than $1 billion. This finan...
 
-TechCrunch • 1d ago
+Business Wire • 1d ago
+
+---
+
+**[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
+
+Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
+
+Global Times • 2d ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
+
+Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
+
+NBC News • 39m ago
 
 ---
 
@@ -146,17 +154,15 @@ TechCrunch • 1d ago
 
 Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
 
-ABC News - Breaking News, Latest News and Videos • 2h ago
+ABC News - Breaking News, Latest News and Videos • 3h ago
 
 ---
 
-**[Carnegie Mellon graduates its first student with a bachelor’s degree in robotics](https://www.post-gazette.com/news/education/2026/05/14/carnegie-mellon-robotics-undergraduate/stories/202605130058)**
+**[Rice Lake’s school robotics club rocks world competition](https://www.weau.com/2026/05/14/rice-lakes-school-robotics-club-rocks-world-competition/)**
 
-Bev Da Costa was alone in her section during Carnegie Mellon University’s commencement last weekend.
-She was making school history.
-Da Costa became...
+A team of St. Joseph sixth graders didn’t just compete at the VEX Robotics World Championship in St. Louis. They walked out with the tournament’s top honor and made state history in the process.
 
-Pittsburgh Post-Gazette • 1h ago
+WEAU • 20h ago
 
 ---
 
@@ -168,7 +174,7 @@ ETF Database • 1d ago
 
 **[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
 
-eWeek • 1h ago
+eWeek • 2h ago
 
 ---
 
@@ -177,12 +183,6 @@ eWeek • 1h ago
 Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
 
 cheddar.com • 1d ago
-
----
-
-**[China wants more robots but not fewer workers](https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers)**
-
-The Economist • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 132K • 👍 3K • 💬 1K • ⏱️ 3:03 • 23h ago
+👁️ 132K • 👍 3K • 💬 1K • ⏱️ 3:03 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ What if your next roommate wasn't human? On this episode of NYC Innovates, we me
 
 📺 Cheddar
 
-👁️ 693 • 👍 30 • 💬 7 • ⏱️ 10:22 • 9h ago
+👁️ 693 • 👍 30 • 💬 7 • ⏱️ 10:22 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ This child is a bit stupid.” That's what Unitree founder Wang Xingxing's teach
 
 📺 Kalil 4.0
 
-👁️ 898 • 👍 35 • 💬 2 • ⏱️ 1:47 • 5h ago
+👁️ 898 • 👍 35 • 💬 2 • ⏱️ 1:47 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful & Alphabet Comb
 
 📺 Bob ToysReview
 
-👁️ 3K • 👍 14 • 💬 2 • ⏱️ 14:30 • 13h ago
+👁️ 3K • 👍 14 • 💬 2 • ⏱️ 14:30 • 14h ago
 
 ---
 
