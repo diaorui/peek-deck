@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-15T00:01:16.455320+00:00'
+updated: '2026-05-15T04:35:07.088321+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 15, 2026 at 00:01 UTC  
+**Last Updated:** May 15, 2026 at 04:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
 
-17h ago
+22h ago
 
 ---
 
 **[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
 
-7h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
 
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 3h ago
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 7h ago
 
 ---
 
@@ -58,7 +58,7 @@ SBCs are getting lot more expensive because of RAM crisis. I used one that is st
 
 Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
-8h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ Finally added a small distance watermark overlay to my LD Robot D500 setup, so t
 
 CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. A Raspberry Pi handles OpenCV CSRT object tracking while the ESP32 controls pan/tilt motor movement realtime. It has a manual and auto mode shown in the video. Manual is controlled with an xbox controller via USB or bluetooth. No one close to me will think it’s cool so i figure reddit will.
 
-21h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. 
 
 A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
 
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 9h ago
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 14h ago
 
 ---
 
@@ -94,7 +94,7 @@ A3’s Q1 2026 robot order data shows North American companies ordered 9,055 rob
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 20h ago
 
 ---
 
@@ -102,7 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
 
-8h ago
+12h ago
 
 ---
 
@@ -110,27 +110,25 @@ How hard is it to create your own humanoid from scratch at home? A humanoid that
 
 ## Google News: "robotics"
 
+**[Rivian CEO’s Robotics Company Raises $400 Million](https://www.wsj.com/business/autos/rivian-ceos-robotics-spinoff-raises-400-million-4c54a9a0)**
+
+WSJ • 1d ago
+
+---
+
+**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+
+Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+
+TechCrunch • 1d ago
+
+---
+
 **[Rivian CEO’s robotics startup tops $1 billion in funding: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-scaringe-robotics-mind-raises-funding-20260513/)**
 
 A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
 
 Crain's Chicago Business • 1d ago
-
----
-
-**[Rivian shares jump as AI robotics spinout Mind Robotics closes $400M round](https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html)**
-
-Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Mind Robotics Announces $400M in New Funding to Expand Industrial Robotics Deployment](https://www.businesswire.com/news/home/20260513731983/en/Mind-Robotics-Announces-%24400M-in-New-Funding-to-Expand-Industrial-Robotics-Deployment)**
-
-Mind Robotics today announced a $400 million financing led by Kleiner Perkins, bringing total investment in Mind Robotics to more than $1 billion. This finan...
-
-Business Wire • 1d ago
 
 ---
 
@@ -146,7 +144,13 @@ Global Times • 2d ago
 
 Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
 
-NBC News • 39m ago
+NBC News • 5h ago
+
+---
+
+**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
+
+eWeek • 9h ago
 
 ---
 
@@ -154,15 +158,15 @@ NBC News • 39m ago
 
 Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
 
-ABC News - Breaking News, Latest News and Videos • 3h ago
+ABC News - Breaking News, Latest News and Videos • 8h ago
 
 ---
 
-**[Rice Lake’s school robotics club rocks world competition](https://www.weau.com/2026/05/14/rice-lakes-school-robotics-club-rocks-world-competition/)**
+**[Why Ouster’s New Color LiDAR Could Change Robotics Forever](https://www.cheddar.com/media/why-ousters-new-color-lidar-could-change-robotics-forever/)**
 
-A team of St. Joseph sixth graders didn’t just compete at the VEX Robotics World Championship in St. Louis. They walked out with the tournament’s top honor and made state history in the process.
+Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
 
-WEAU • 20h ago
+cheddar.com • 1d ago
 
 ---
 
@@ -172,17 +176,9 @@ ETF Database • 1d ago
 
 ---
 
-**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
+**[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
 
-eWeek • 2h ago
-
----
-
-**[Why Ouster’s New Color LiDAR Could Change Robotics Forever](https://www.cheddar.com/media/why-ousters-new-color-lidar-could-change-robotics-forever/)**
-
-Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
-
-cheddar.com • 1d ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -196,7 +192,7 @@ Watch a team of humanoid robots running a full 8-hr shift at human performance l
 
 📺 Figure
 
-👁️ 773K • 👍 18K • 1d ago
+👁️ 905K • 👍 20K • 1d ago
 
 ---
 
@@ -206,7 +202,7 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 7K • 👍 166 • 💬 18 • ⏱️ 55:02 • 1d ago
+👁️ 8K • 👍 183 • 💬 21 • ⏱️ 55:02 • 1d ago
 
 ---
 
@@ -216,37 +212,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 4K • 👍 93 • 💬 19 • ⏱️ 21:16 • 1d ago
-
----
-
-**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000](https://www.youtube.com/watch?v=oWOyUMJWptc)**
-
-The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please ...
-
-📺 Unitree Robotics
-
-👁️ 5.7M • 👍 11K • 💬 3K • ⏱️ 1:15 • 2d ago
-
----
-
-**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
-
-A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
-
-📺 CBS TEXAS
-
-👁️ 132K • 👍 3K • 💬 1K • ⏱️ 3:03 • 1d ago
-
----
-
-**[Meet Amazon&#39;s $50,000 Robot - Inside Big Tech&#39;s Humanoid Takeover](https://www.youtube.com/watch?v=5d7lkdfe7fI)**
-
-What if your next roommate wasn't human? On this episode of NYC Innovates, we meet Sprout, a 3.5ft robot that dances, does ...
-
-📺 Cheddar
-
-👁️ 693 • 👍 30 • 💬 7 • ⏱️ 10:22 • 10h ago
+👁️ 5K • 👍 108 • 💬 22 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -256,17 +222,27 @@ Apple's new home robot iSiri is being described as a major step toward fully aut
 
 📺 Carros Show
 
-👁️ 19K • 👍 271 • 💬 29 • ⏱️ 23:07 • 2d ago
+👁️ 20K • 👍 280 • 💬 31 • ⏱️ 23:07 • 2d ago
 
 ---
 
-**[His teacher called him stupid. Now he has a robot army. #robotics #unitreerobotics #unitreeg1](https://www.youtube.com/watch?v=NVrfHJJ7FAI)**
+**[Meet Amazon&#39;s $50,000 Robot - Inside Big Tech&#39;s Humanoid Takeover](https://www.youtube.com/watch?v=5d7lkdfe7fI)**
 
-This child is a bit stupid.” That's what Unitree founder Wang Xingxing's teacher told his parents when he was an anxious and ...
+What if your next roommate wasn't human? On this episode of NYC Innovates, we meet Sprout, a 3.5ft robot that dances, does ...
 
-📺 Kalil 4.0
+📺 Cheddar
 
-👁️ 898 • 👍 35 • 💬 2 • ⏱️ 1:47 • 6h ago
+👁️ 1K • 👍 42 • 💬 12 • ⏱️ 10:22 • 15h ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+
+Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+
+📺 NBC News
+
+👁️ 19K • 👍 283 • 💬 89 • ⏱️ 3:00 • 4h ago
 
 ---
 
@@ -276,7 +252,7 @@ Unitree Robotics just introduced what it calls the world's first production-read
 
 📺 Kalil 4.0
 
-👁️ 12K • 👍 263 • 💬 15 • ⏱️ 0:41 • 2d ago
+👁️ 12K • 👍 274 • 💬 19 • ⏱️ 0:41 • 2d ago
 
 ---
 
@@ -286,7 +262,27 @@ Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful & Alphabet Comb
 
 📺 Bob ToysReview
 
-👁️ 3K • 👍 14 • 💬 2 • ⏱️ 14:30 • 14h ago
+👁️ 5K • 👍 18 • 💬 2 • ⏱️ 14:30 • 19h ago
+
+---
+
+**[Humanoid Robots Are Becoming Too Real](https://www.youtube.com/watch?v=yuO9J6XCQ9U)**
+
+This isn't CGI or a sci-fi movie scene. These humanoid robots are performing live in public, walking, balancing, and dancing ...
+
+📺 Mistmap
+
+👁️ 550 • 👍 25 • 💬 3 • ⏱️ 0:50 • 4h ago
+
+---
+
+**[ALDI vs LIDL: Who Sells The Best Robot Lawn Mower?](https://www.youtube.com/watch?v=VQ6mz3GGZ_M)**
+
+If you want to win a much nicer robot lawn mower enter to win the Yuka Mini 2 ...
+
+📺 Shifting Metal 2.0 
+
+👁️ 21K • 👍 457 • 💬 87 • ⏱️ 31:21 • 1d ago
 
 ---
 

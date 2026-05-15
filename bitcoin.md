@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-15T00:01:16.448998+00:00'
+updated: '2026-05-15T04:35:07.080316+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 15, 2026 at 00:01 UTC  
+**Last Updated:** May 15, 2026 at 04:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,382.38
+### $81,261.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +0.5%  
-**30d:** +8.0%  
-**90d:** +17.8%  
-**1y:** -21.6%  
+**24h:** +1.3%  
+**7d:** +0.2%  
+**30d:** +7.7%  
+**90d:** +17.6%  
+**1y:** -21.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1631.50B
+**Market Cap:** $1620.74B
 Rank #1
 
-**Circulating Supply:** 20,029,437 BTC
+**Circulating Supply:** 20,029,481 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.8%
 
 **All-Time Low:** $67.81
-+120004.7%
++119181.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 34
+### 43
 **FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Note: I used ChatGPT to help with clarity, as English is not my primary language. Just wanted to share something I found quite meaningful. I’m an eye surgeon, and most of the surgeries I perform are aimed at helping patients become free from glasses. A couple of months ago, I started investing in Bitcoin, and I’ve become a strong believer in the potential of decentralized money. I still invest in traditional (fiat-based) assets, but much less than before—nowadays, most of my investment goes into BTC. Today, I received my first surgery payment in Bitcoin. There’s something truly remarkable about exchanging a real-world, life-changing procedure and being paid in BTC. I just liked the idea of making my part to increase the availability of services you can buy using BTC.
 
-8h ago
+13h ago
 
 ---
 
@@ -89,7 +89,15 @@ Note: I used ChatGPT to help with clarity, as English is not my primary language
 
 Not a huge deal to most people, but it honestly felt really cool to me. They only took cash and I didn’t have any, so I asked if they’d take BTC instead. Sent the payment and that was it.⚡️
 
-3h ago
+7h ago
+
+---
+
+**[$2 Billion In Bitcoin Options Expire Today: What Traders Should Know](https://www.reddit.com/r/Bitcoin/comments/1tdjirl/2_billion_in_bitcoin_options_expire_today_what/)**
+
+Bitcoin options worth $2.03B expire today with max pain at $80,000. Ethereum options worth $630M also expire. Analysis of market impact and what it means for traders.
+
+🔗 [BitcoinWorld](https://bitcoinworld.co.in/bitcoin-options-2-billion-expire-may-15/) • 1h ago
 
 ---
 
@@ -97,7 +105,7 @@ Not a huge deal to most people, but it honestly felt really cool to me. They onl
 
 And that was that with the 70's. Congrats to everyone that got some down there
 
-9h ago
+13h ago
 
 ---
 
@@ -109,11 +117,17 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 ---
 
+**[Bitcoin be like today:](https://www.reddit.com/r/Bitcoin/comments/1td1qsf/bitcoin_be_like_today/)**
+
+13h ago
+
+---
+
 **[Today I reached 0.5 BTC](https://www.reddit.com/r/Bitcoin/comments/1tchrit/today_i_reached_05_btc/)**
 
 May not be news to some, but just sharing coz I'm happy.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +135,15 @@ May not be news to some, but just sharing coz I'm happy.
 
 Hi guys I just started up a coinbase account to dabble with some online trading as I’ve been trying to get financial security for me and my daughter in the near future. Is bitcoin worth investing in for the long haul 5/10 years? If so what do u see the market value rising too?
 
-5h ago
+10h ago
+
+---
+
+**[0.10% APY Kraken Opt-in rewards for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1td5e4l/010_apy_kraken_optin_rewards_for_bitcoin/)**
+
+I noticed Kraken’s "Opt-in Rewards" program for BTC at 0.10%APY (instant unbound, 0.15% for 30 days lock) . Given the history of "earn" programs on other exchanges, do you trust Kraken enough to leave BTC sitting there for this low API? I have about 80% of my BTC in cold, and they will never leave except for other life investement but I am wondering if it is worth the risk to gain this little bonus. https://support.kraken.com/articles/360044886311-overview-of-opt-in-rewards-on-kraken
+
+10h ago
 
 ---
 
@@ -133,61 +155,35 @@ Hi guys I just started up a coinbase account to dabble with some online trading 
 
 ---
 
-**[Bitcoin 'Conviction Buyers' Accumulate 4M BTC in Largest Surge Since 2020](https://www.reddit.com/r/Bitcoin/comments/1tco7o0/bitcoin_conviction_buyers_accumulate_4m_btc_in/)**
-
-Long-term Bitcoin holders accumulated nearly 4 million BTC in the fastest high-conviction buying surge since 2020.
-
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-conviction-buyers-accumulate-4m-btc) • 18h ago
-
----
-
-**[0.10% APY Kraken Opt-in rewards for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1td5e4l/010_apy_kraken_optin_rewards_for_bitcoin/)**
-
-I noticed Kraken’s "Opt-in Rewards" program for BTC at 0.10%APY (instant unbound, 0.15% for 30 days lock) . Given the history of "earn" programs on other exchanges, do you trust Kraken enough to leave BTC sitting there for this low API? I have about 80% of my BTC in cold, and they will never leave except for other life investement but I am wondering if it is worth the risk to gain this little bonus. https://support.kraken.com/articles/360044886311-overview-of-opt-in-rewards-on-kraken
-
-6h ago
-
----
-
-**[Bitcoin be like today:](https://www.reddit.com/r/Bitcoin/comments/1td1qsf/bitcoin_be_like_today/)**
-
-8h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
-WSJ • 11h ago
+WSJ • 5h ago
 
 ---
 
-**[How Will the CLARITY Act May 14 Vote Impact Bitcoin, ETH and XRP?](https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/)**
+**[XRP, DOGE surge 5%, bitcoin above $81,000 as CLARITY Act clears Senate banking panel](https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel)**
 
-Disruption Banking • 2d ago
-
----
-
-**[U.S. Clarity Act markup leaves BTC price unstirred: Crypto Daily](https://www.coindesk.com/daybook-us/2026/05/14/clarity-act-markup-leaves-bitcoin-unstirred)**
-
-CoinDesk • 12h ago
+CoinDesk • 5m ago
 
 ---
 
-**[Bitcoin Tops $80,000 as Crypto Market Regulation Bill Advances](https://www.bloomberg.com/news/articles/2026-05-14/bitcoin-stalls-as-crypto-gains-ground-in-washington-wall-street)**
+**[Bitcoin Falls Below $80,000: Coinbase Sellers To Blame?](https://www.tradingview.com/news/newsbtc:5b44b1462094b:0-bitcoin-falls-below-80-000-coinbase-sellers-to-blame/)**
 
-Bloomberg.com • 9h ago
+Data shows the Bitcoin Coinbase Premium Gap has plunged into the red zone alongside the latest drop in the BTC spot price below the $80,000 level.Bitcoin Has Retraced Some Of Its Recent Price RecoveryBitcoin saw recovery surges above $82,000 on Sunday and Monday, but these spikes failed to set the…
+
+TradingView • 2h ago
 
 ---
 
-**[Why bitcoin’s recent climb to $80,000 might just be a temporary liquidity squeeze](https://www.coindesk.com/markets/2026/05/14/why-bitcoin-s-recent-climb-to-usd80-000-might-just-be-a-temporary-liquidity-squeeze)**
+**[Bitcoin Price Spikes Higher, But Consolidation Pattern Remains Intact](https://www.tradingview.com/news/newsbtc:290f3f5af094b:0-bitcoin-price-spikes-higher-but-consolidation-pattern-remains-intact/)**
 
-Spot ETF outflows and a hawkish Federal Reserve are creating a "macro ceiling" that makes a new all-time high unlikely without a major geopolitical shift.
+Bitcoin price started a fresh increase and cleared the $80,500 zone. BTC is consolidating and might aim for more gains above the $82,000 level.Bitcoin Price Regains StrengthBitcoin price found support near $78,800 and started a fresh increase. BTC gained pace for a move above the $79,500 and $80,20…
 
-CoinDesk • 10h ago
+TradingView • 2h ago
 
 ---
 
@@ -195,7 +191,7 @@ CoinDesk • 10h ago
 
 Bitcoin ETFs posted $630M in outflows on May 13 as corporate treasury buying slumps and a $2B gamma cluster threatens volatility near $82K.
 
-The Block • 12h ago
+The Block • 17h ago
 
 ---
 
@@ -203,15 +199,23 @@ The Block • 12h ago
 
 Scott Melker discusses how over $630 million has flowed out of bitcoin ETFs in a single day on Wednesday. Bitcoin (BTC-USD) continues to hold above $81,000 per token today."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[‘Like Bitcoin In 2013’—Sudden 1,000% Price Surge Has Billionaires Betting On A Surprise $1.6 Trillion Crypto Flip](https://www.forbes.com/sites/digital-assets/2026/05/14/like-bitcoin-in-2013-sudden-1000-price-surge-has-billionaires-betting-on-a-surprise-15-trillion-crypto-flip/)**
+**[Bitcoin’s Dip Below $80K Could Be ‘Short-Lived’ as STRC Cycle Looms](https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms)**
 
-Bitcoin has been left in the dust by this tiny cryptocurrency's 1,000% price rally...
+Strategy's STRC stock has fueled mid-month Bitcoin rallies since March, but May demand is plateauing as ETFs posted $630 million outflows.
 
-Forbes • 11h ago
+Decrypt • 15h ago
+
+---
+
+**[JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity](https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto)**
+
+That is "unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications," the analysts said.
+
+The Block • 10h ago
 
 ---
 
@@ -223,11 +227,11 @@ Fortune • 1d ago
 
 ---
 
-**[Claude AI helps uncover forgotten Bitcoin fortune worth $400K hidden for 11 years](https://interestingengineering.com/ai-robotics/claude-ai-bitcoin-wallet-400k-recovery)**
+**[Onramp Raises $12.5M Series A To Scale Multi-Institution Bitcoin Custody Platform](https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a)**
 
-An X user claims Anthropic's Claude AI helped recover 5 forgotten Bitcoin worth nearly $400,000 from an old college-era wallet.
+Onramp raised $12.5M in Series A at a $135M valuation to expand its institutional bitcoin custody platform.
 
-Interesting Engineering • 1d ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -239,7 +243,7 @@ Interesting Engineering • 1d ago
 
 The user apparently changed the password while 'stoned'
 
-⬆️ 314 • 💬 167 • 9h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+⬆️ 320 • 💬 168 • 13h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 
 ---
 
@@ -247,7 +251,7 @@ The user apparently changed the password while 'stoned'
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-⬆️ 12 • 💬 2 • 9h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
+⬆️ 13 • 💬 2 • 14h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
 
 ---
 
@@ -263,13 +267,13 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 AI to the rescue as 11-year search for password turns up in old PC files
 
-⬆️ 2 • 💬 1 • 9h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
+⬆️ 2 • 💬 1 • 13h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
 
 ---
 
 **[Thomas Massie for Congress accepts Bitcoin donations](https://news.ycombinator.com/item?id=48104204)**
 
-⬆️ 2 • 💬 1 • 2d ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
+⬆️ 2 • 💬 1 • 3d ago • [massiemoneybomb.com](https://www.massiemoneybomb.com/donate)
 
 ---
 
@@ -297,23 +301,27 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 ---
 
-**[Have LLMs made anyone's life substantially better?](https://news.ycombinator.com/item?id=48136636)**
-
-⬆️ 6 • 💬 3 • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Today’s Crypto Vote Could Change Everything](https://www.youtube.com/watch?v=WBUKHSP3TNs)**
+**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
 
-At 10:30 AM Eastern, the Digital Asset Market CLARITY Act faces its most critical test yet: a Senate Banking Committee markup ...
+Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
 
-📺 Coin Bureau
+📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 120 • ⏱️ 12:58 • 10h ago
+👁️ 19K • 👍 1K • 💬 94 • ⏱️ 15:54 • 7h ago
+
+---
+
+**[Is It Possible To Retire On 0.21 Bitcoin By 2031? (The Real-Life Maths)](https://www.youtube.com/watch?v=2oaDMIcVs3c)**
+
+Is retiring on just 0.21 Bitcoin by 2031 actually possible, or is it just another Bitcoin fantasy? In this video, I break down the exact ...
+
+📺 Brad Long
+
+👁️ 2K • 👍 128 • 💬 38 • ⏱️ 14:28 • 7h ago
 
 ---
 
@@ -323,17 +331,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 217 • ⏱️ 8:11 • 22h ago
-
----
-
-**[CLARITY Markup Passes!!🚨15 to 9✅U.S. Senate Hearing](https://www.youtube.com/watch?v=yNfzT2RzNbk)**
-
-The Clarity Act, which would create regulation for the cryptocurrency industry, cleared the Senate banking committee. The Senate ...
-
-📺 Paul Barron Network
-
-👁️ 57K • 👍 5K • 💬 450 • ⏱️ 9:52 • 5h ago
+👁️ 26K • 👍 1K • 💬 261 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -343,7 +341,17 @@ Bitcoin bulls say the bottom is in, but recession fears are exploding across hou
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 162 • ⏱️ 12:39 • 2d ago
+👁️ 26K • 👍 1K • 💬 139 • ⏱️ 12:39 • 2d ago
+
+---
+
+**[Bitcoin Rallies To $82K As Clarity Act Heads To Senate!](https://www.youtube.com/watch?v=x1iRB7x_KNY)**
+
+Bitcoin #Crypto #Finance The Daily Wolf Tune In LIVE on Yahoo Finance 12pm est (Mon-Fri) https://finance.yahoo.com/live/ ...
+
+📺 The Wolf Of All Streets
+
+👁️ 10K • 👍 473 • 💬 173 • ⏱️ 32:14 • 8h ago
 
 ---
 
@@ -353,57 +361,47 @@ The crypto market is at a massive crossroads. In today's video, we deep dive int
 
 📺 Gareth Soloway
 
-👁️ 43K • 👍 3K • 💬 110 • ⏱️ 9:16 • 1d ago
+👁️ 43K • 👍 3K • 💬 105 • ⏱️ 9:16 • 1d ago
 
 ---
 
-**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
+**[Why Bitcoin’s Crashes Don’t Tell the Whole Story](https://www.youtube.com/watch?v=wbg0zC0MRHI)**
 
-Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
+Bitcoin feels unstable until you remember every “store of value” had to survive volatility first. On The Stern Talk Episode, this ...
+
+📺 William Stern
+
+👁️ 842 • 👍 6 • ⏱️ 0:38 • 6h ago
+
+---
+
+**[Bitcoin Strategy: Buying 10 BTC for Every 1 Sold!](https://www.youtube.com/watch?v=0dinzNuxwSg)**
+
+Dante talks Bitcoin Strategy: Buying 10 BTC for Every 1 Sold! Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 680 • 💬 32 • ⏱️ 15:54 • 2h ago
+👁️ 2K • 👍 56 • 💬 22 • ⏱️ 0:44 • 13h ago
 
 ---
 
-**[BITCOIN: IT&#39;S HAPPENING NOW...](https://www.youtube.com/watch?v=C7EKQHFQxbQ)**
+**[CLARITY ACT PASSES CRITICAL VOTE! MAJOR WIN FOR BITCOIN? #bitcoin #clarityact #xrp #cryptonews](https://www.youtube.com/watch?v=q6SWNtNT83k)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+MAJOR WIN for crypto! The Senate Banking Committee just passed the CLARITY Act 15-9 Bipartisan breakthrough: All GOP + ...
 
-📺 Crypto Rover
+📺 Randi Hipper
 
-👁️ 10K • 👍 568 • 💬 140 • ⏱️ 9:13 • 16h ago
-
----
-
-**[⚠️ Bitcoin Is One Move Away From $50K… Or $97K](https://www.youtube.com/watch?v=DborXS6QdXw)**
-
-3 things I'd tell my 2013 self about Bitcoin TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 7K • 👍 690 • 💬 201 • ⏱️ 18:22 • 17h ago
+👁️ 7K • 👍 224 • 💬 55 • ⏱️ 0:55 • 11h ago
 
 ---
 
-**[BITCOIN BULL RUN STARTS NOW !!!!!!!](https://www.youtube.com/watch?v=8bwZqsm6SIE)**
+**[What A Crypto Millionaire Wears](https://www.youtube.com/watch?v=NNzyqo_6pv8)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+CZ gave Ran the interview nobody else got, and it is finally out on Crypto Banter YouTube channel. Subscribe to our channel: ...
 
-📺 The Moon Show
+📺 Crypto Banter
 
-👁️ 15K • 👍 929 • 💬 67 • ⏱️ 6:30 • 1d ago
-
----
-
-**[BREAKING: Clarity Act Senate Hearing SHOCKS The Crypto Market! Breaking Crypto News!](https://www.youtube.com/watch?v=sn13dN9Aldw)**
-
-BREAKING: Clarity Act Senate Hearing SHOCKS The Crypto Market! Breaking Crypto News! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 13K • 👍 573 • 💬 40 • ⏱️ 6:22 • 7h ago
+👁️ 8K • 👍 73 • 💬 3 • ⏱️ 0:36 • 20h ago
 
 ---
 
