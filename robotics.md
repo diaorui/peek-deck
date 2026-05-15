@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-15T20:00:49.142874+00:00'
+updated: '2026-05-15T21:34:12.949112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 15, 2026 at 20:00 UTC  
+**Last Updated:** May 15, 2026 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Just finished putting together the first prototype of my robot project. It uses esp32s3 as the main controller and a xiao esp32s3 cam to stream camera and microphone feed. The leg mechanism is based on the strandbeest linkage and it is controlled by two nema17 steppers run by tmc2209 drivers. It also has a fan internally to keep temps adequate. As for sensors it has a TOF sensor to measure distance from objects and an IMU to detect its movement. The end goal is to make an open source companion robot that acts and feels alive by responding and viewing the world being powered by modern AI crap as you guys know it’s getting pushed everywhere, at least I’m giving it a physical body.
 
-5h ago
+7h ago
 
 ---
 
 **[now i must find a place to put in on the robot](https://www.reddit.com/r/robotics/comments/1tdxk1c/now_i_must_find_a_place_to_put_in_on_the_robot/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 I recently spent the day at a humancentric robotics company, talking with the CEO and several roboticists and engineers about how they make their decisions and what goes into something like that. I produced a video of my day there and figured some of you may find it interesting. You can watch the video here: https://www.youtube.com/watch?v=8oFT_ErMHMg Whilst I don't work for the company, as I said, I spent the day there so if you had any particular questions I may have an answer for you.
 
-51m ago
+2h ago
 
 ---
 
@@ -58,19 +58,33 @@ I recently spent the day at a humancentric robotics company, talking with the CE
 
 Do you have opinions on the available ROS tooling? Are you using AI in your ROS development workflow? Or maybe you refuse to use AI and want to tell us why? We want to hear from you! We are a group of software engineering researchers at Carnegie Mellon University, VORTEX Collab, and the University of Lisbon investigating how ROS developers find and use information, what tools they rely on across different development tasks, and how AI-powered tools fit into the development workflow. We are conducting a research survey to better understand the information needs, tooling gaps, and the role of AI in the ROS development process. This survey is estimated to take ~20 minutes to complete. The research survey is open to ROS developers who are at least 18 years old and with at least one year of experience. If you are interested in sharing your experiences, please visit the SURVEY LINK to complete the survey. Responses are anonymous and will be used solely for research purposes. This research survey is part of a study (STUDY2026_00000158) conducted by Claire Le Goues and Christopher Timperley at Carnegie Mellon University. If you have any questions about the study, please contact Andrea Miller (PhD student) at [andreami@andrew.cmu.edu](mailto:andreami@andrew.cmu.edu).
 
-41m ago
+2h ago
+
+---
+
+**[ROS News for the week of May 11th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1te82qb/ros_news_for_the_week_of_may_11th_2026_community/)**
+
+ROS News for the week of May 11th, 2026    🎉 Registration for ROSCon Global is now open! We launched with a fantastic list of workshops for 2026 from all of your favorite package maintainers We recommend you take advantage of our early bird tickets which make workshop registration effectively free!       Our Lyrical test and tutorial party wrapped up yesterday and we’re still triaging tickets. All I can say right now is that we closed WAY MORE tickets than last year and consequently smashed...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-11th-2026/54889) • 1h ago
 
 ---
 
 **[Camera gimbal](https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx5lc/kinect_depth_camera_works_with_my_robot/)**
 
-6h ago
+7h ago
+
+---
+
+**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx2l8/kinect_depth_camera_works_with_my_robot/)**
+
+7h ago
 
 ---
 
@@ -78,13 +92,7 @@ Do you have opinions on the available ROS tooling? Are you using AI in your ROS 
 
 We're open-sourcing stack to benefit open-source and leading robotics labs both. Project Stera includes Stera-10M, with 10M+ frames of long-horizon data with persistent state tracking, and an open-source pipeline that converts raw data into training-ready formats. The next generation of embodied AI models needs more than pixels - they need synchronized spatial, semantic, temporal, and action-rich knowledge captured in an environment turned into 4D data and this infra is open today. Read the full essay here: https://www.fpvlabs.ai/essays/launching-stera Happy to answer any technical questions too.
 
-6h ago
-
----
-
-**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx2l8/kinect_depth_camera_works_with_my_robot/)**
-
-6h ago
+8h ago
 
 ---
 
@@ -92,21 +100,35 @@ We're open-sourcing stack to benefit open-source and leading robotics labs both.
 
 Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300W power bank I’m running into undervoltage warnings on a Raspberry Pi 5 during heavy servo activity, even though the setup is powered from a high-power UGREEN 300W power bank. Current setup Raspberry Pi 5 powered from: UGREEN 300W 48000mAh power bank 140W USB-C PD port Two Waveshare servo driver boards powered separately from: two independent 100W USB-C ports of Power bank (With USB-C → 12V barrel adapters) Connected hardware 17 servos total (9 + 8) Intel RealSense camera Anker USB hub 2 additional cameras The Pi is connected to the servo drivers and cameras only for data communication. Problem When multiple servos move simultaneously (especially while cameras are active), the Pi reports: "Undervoltage detected!" What I already tried To reduce voltage drops, I added: XY-3606 buck converter (12V → 5V 5A) 2200uF capacitors on both servo driver power inputs New power path: UGREEN 140W USB-C port → USB-C to 12V barrel adapter → XY-3606 buck converter → two cut wires of USB-C cable → Raspberry Pi 5 This significantly reduced undervoltage events, but occasional warnings still still happen during heavy servo motion. Important observation Using the official Raspberry Pi power adapter(5V/3A) does NOT produce undervoltage warnings. Would appreciate any guidance from people who’ve dealt with Pi 5 power stability or servo-heavy robotics setups.
 
-9h ago
-
----
-
-**[Robotics with Arduino Uno Q: ROS 2, leRobot teleop](https://www.reddit.com/r/robotics/comments/1tdao8f/robotics_with_arduino_uno_q_ros_2_lerobot_teleop/)**
-
-SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
-
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 23h ago
+10h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
+
+Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
+
+NBC News • 6h ago
+
+---
+
+**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
+
+Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
+
+ABC News - Breaking News, Latest News and Videos • 1d ago
+
+---
+
+**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
+
+eWeek • 1d ago
+
+---
 
 **[Rivian CEO’s Robotics Company Raises $400 Million](https://www.wsj.com/business/autos/rivian-ceos-robotics-spinoff-raises-400-million-4c54a9a0)**
 
@@ -122,37 +144,15 @@ The Robot Report • 1d ago
 
 **[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
 
-eWeek • 4h ago
+eWeek • 6h ago
 
 ---
 
-**[Why Ouster’s New Color LiDAR Could Change Robotics Forever](https://www.cheddar.com/media/why-ousters-new-color-lidar-could-change-robotics-forever/)**
+**[Ukraine’s sling against Russia: How 'geniuses in garages' transformed robotic warfare](https://www.jpost.com/defense-and-tech/article-896008)**
 
-Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
+The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
 
-cheddar.com • 1d ago
-
----
-
-**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
-
-Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
-
-NBC News • 4h ago
-
----
-
-**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
-
-Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
-
-ABC News - Breaking News, Latest News and Videos • 23h ago
-
----
-
-**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
-
-eWeek • 22h ago
+The Jerusalem Post • 2h ago
 
 ---
 
@@ -168,13 +168,11 @@ Los Alamos Reporter • 1d ago
 
 ---
 
-**[Carnegie Mellon graduates its first student with a bachelor’s degree in robotics](https://www.post-gazette.com/news/education/2026/05/14/carnegie-mellon-robotics-undergraduate/stories/202605130058)**
+**[Why Ouster’s New Color LiDAR Could Change Robotics Forever](https://www.cheddar.com/media/why-ousters-new-color-lidar-could-change-robotics-forever/)**
 
-Bev Da Costa was alone in her section during Carnegie Mellon University’s commencement last weekend.
-She was making school history.
-Da Costa became...
+Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
 
-Pittsburgh Post-Gazette • 1d ago
+cheddar.com • 1d ago
 
 ---
 
@@ -188,27 +186,7 @@ Skyborne Technologies' weaponized robodog just moved closer to the frontline in 
 
 📺 Kalil 4.0
 
-👁️ 584 • 👍 32 • 💬 3 • ⏱️ 0:34 • 3h ago
-
----
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 9K • 👍 199 • 💬 44 • ⏱️ 21:16 • 2d ago
-
----
-
-**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
-
-You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
-
-📺 The AI Nexus
-
-👁️ 10K • 👍 206 • 💬 21 • ⏱️ 55:02 • 2d ago
+👁️ 1K • 👍 41 • 💬 4 • ⏱️ 0:34 • 4h ago
 
 ---
 
@@ -222,23 +200,33 @@ Watch a team of humanoid robots running a full 8-hr shift at human performance l
 
 ---
 
+**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
+
+You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
+
+📺 The AI Nexus
+
+👁️ 10K • 👍 211 • 💬 21 • ⏱️ 55:02 • 2d ago
+
+---
+
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+
+📺 Technology with Tyler
+
+👁️ 9K • 👍 234 • 💬 47 • ⏱️ 21:16 • 2d ago
+
+---
+
 **[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
 
 Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
 
 📺 NBC News
 
-👁️ 39K • 👍 424 • 💬 153 • ⏱️ 3:00 • 20h ago
-
----
-
-**[No Soldiers, Just Robots - How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
-
-Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
-
-📺 Radio Free Europe/Radio Liberty
-
-👁️ 29K • 👍 737 • 💬 38 • ⏱️ 3:07 • 2d ago
+👁️ 42K • 👍 458 • 💬 161 • ⏱️ 3:00 • 21h ago
 
 ---
 
@@ -248,17 +236,17 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 803K • 👍 63K • 💬 5K • ⏱️ 23:53 • 5d ago
+👁️ 816K • 👍 63K • 💬 6K • ⏱️ 23:53 • 5d ago
 
 ---
 
-**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+**[No Soldiers, Just Robots - How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
 
-Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
 
-📺 CGTN Europe
+📺 Radio Free Europe/Radio Liberty
 
-👁️ 60K • 👍 436 • 💬 55 • ⏱️ 0:33 • 2d ago
+👁️ 30K • 👍 741 • 💬 38 • ⏱️ 3:07 • 2d ago
 
 ---
 
@@ -268,17 +256,27 @@ Apple's new home robot iSiri is being described as a major step toward fully aut
 
 📺 Carros Show
 
-👁️ 20K • 👍 283 • 💬 35 • ⏱️ 23:07 • 3d ago
+👁️ 21K • 👍 287 • 💬 35 • ⏱️ 23:07 • 3d ago
 
 ---
 
-**[🚨⚡ HAPPENING NOW: Figure.03 Live: The Robot Workday Has Begun](https://www.youtube.com/watch?v=c8xL4Ff-DjA)**
+**[Real to Robot: Training AI With a Prosthetic Hand](https://www.youtube.com/watch?v=KJRrU3zO4n0)**
 
-Figure.03 is attempting its first-ever on-camera, LIVE fully autonomous 8-hour humanoid robot work shift - a potential turning point ...
+What if a human with a bionic hand could teach robots how to perform real-world tasks? That's exactly what's happening at ...
 
-📺 Over The Horizon
+📺 PSYONIC
 
-👁️ 11K • 👍 246 • 💬 11 • ⏱️ 8:11:35 • 1d ago
+👁️ 374 • 👍 19 • 💬 1 • ⏱️ 1:21 • 1h ago
+
+---
+
+**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+
+Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+
+📺 CGTN Europe
+
+👁️ 63K • 👍 451 • 💬 56 • ⏱️ 0:33 • 2d ago
 
 ---
 

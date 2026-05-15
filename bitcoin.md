@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-15T20:00:49.134839+00:00'
+updated: '2026-05-15T21:34:12.940867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 15, 2026 at 20:00 UTC  
+**Last Updated:** May 15, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
+**24h:** -2.8%  
 **7d:** -1.9%  
 **30d:** +5.4%  
 **90d:** +15.0%  
-**1y:** -23.4%  
+**1y:** -23.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1588.00B
+**Market Cap:** $1584.32B
 Rank #1
 
-**Circulating Supply:** 20,029,800 BTC
+**Circulating Supply:** 20,029,840 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--37.1%
+-37.3%
 
 **All-Time Low:** $67.81
-+116814.9%
++116511.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Banks lost, Innovation won.](https://www.reddit.com/r/Bitcoin/comments/1tdypbz/banks_lost_innovation_won/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Got shut down for suggesting asset accumulation before even mentioning Bitcoin. The problem isn't Bitcoin literacy, it's monetary literacy.](https://www.reddit.com/r/Bitcoin/comments/1tdpyfq/got_shut_down_for_suggesting_asset_accumulation/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I want the best hardware wallet with all the best features.
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ I want the best hardware wallet with all the best features.
 
 Without going in to detail and saying any personal information about myself, i need to get a really small portion of a bitcoin quickly and pay with it immediatly. I searched all troughout the internet and there is so much conflating information and also most guides focus on people that want long term investment. I would also preffer if the site i am buying the bitcoin on does not require an id or any other piece of documentation.
 
-2h ago
+4h ago
 
 ---
 
@@ -113,19 +113,19 @@ Note: I used ChatGPT to help with clarity, as English is not my primary language
 
 ---
 
-**[Instead of being like confused mf just dca bro](https://www.reddit.com/r/Bitcoin/comments/1tdq4oy/instead_of_being_like_confused_mf_just_dca_bro/)**
-
-you can just dca your big chunks, no hurt no lose, simple as that.
-
-11h ago
-
----
-
 **[Jane Street "slashed" Bitcoin ETF holdings 71% here's why that headline is almost certainly misleading](https://www.reddit.com/r/Bitcoin/comments/1tdzatu/jane_street_slashed_bitcoin_etf_holdings_71_heres/)**
 
 The narrative going around today: Jane Street is dumping Bitcoin. The reality is more interesting. **What a 13F filing actually is:** A 13F is a quarterly SEC disclosure that shows institutional long positions. It does not include short positions, futures contracts, options, swaps, or any other derivatives. For a passive fund, this gives you a clean picture. For a market maker? It's half the story. Jane Street is not a passive fund. They are one of the largest and most sophisticated quantitative trading firms in the world — known for running arbitrage strategies across every major asset class at massive scale. **What basis trading looks like on a 13F:** Basis trade = Buy spot ETF (appears in 13F as a long position) + Sell BTC futures simultaneously (does NOT appear in 13F) When the futures premium compresses — meaning the spread between spot and futures narrows — the firm exits the s...
 
-4h ago
+6h ago
+
+---
+
+**[Instead of being like confused mf just dca bro](https://www.reddit.com/r/Bitcoin/comments/1tdq4oy/instead_of_being_like_confused_mf_just_dca_bro/)**
+
+you can just dca your big chunks, no hurt no lose, simple as that.
+
+13h ago
 
 ---
 
@@ -133,7 +133,15 @@ The narrative going around today: Jane Street is dumping Bitcoin. The reality is
 
 I have a Trezor wallet and recently got a safe 7. I want to activate this wallet and put my stuff on it but I’m a little freaked out! Do you just fire it up with the trezor app on Desk top, put in another new PIN and then your seed and then it transfers over to that wallet as well? Does my old wallet stay “active” as well? Thanks for any tips - won’t be answering DM’s
 
-6h ago
+8h ago
+
+---
+
+**[CVE-2024-52911, UTXO set P2P sharing - Bitcoin Optech Newsletter #405](https://www.reddit.com/r/Bitcoin/comments/1tdsiz4/cve202452911_utxo_set_p2p_sharing_bitcoin_optech/)**
+
+Bitcoin Optech newsletter #404 is here: - announces the responsible disclosure of a vulnerability that could allow an attacker with sufficient proof-of-work to crash Bitcoin Core nodes - describes a draft BIP proposal for sharing the UTXO set over the P2P network - Optech Newsletter #405 Podcast https://bitcoinops.org/en/newsletters/2026/05/15/ Niklas Gögge posted to the Bitcoin-Dev mailing list disclosing CVE-2024-52911, a vulnerability affecting versions of Bitcoin Core after version 0.14.0 and before 29.0... https://bitcoinops.org/en/newsletters/2026/05/15/#bitcoin-core-script-interpreter-remote-crash-disclosure Fabian Jahr posted to the Bitcoin-Dev mailing list about a draft BIP for sharing the UTXO set over the P2P layer... https://bitcoinops.org/en/newsletters/2026/05/15/#bip-proposal-for-utxo-set-sharing-over-p2p-network Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
+
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/05/15/) • 10h ago
 
 ---
 
@@ -141,15 +149,7 @@ I have a Trezor wallet and recently got a safe 7. I want to activate this wallet
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
-
----
-
-**[Why Your Keys Matter](https://www.reddit.com/r/Bitcoin/comments/1tdzd2x/why_your_keys_matter/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=517p1JW2U6w) • 4h ago
+15h ago
 
 ---
 
@@ -157,53 +157,53 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
+**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades)**
+
+President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
+
+Decrypt • 1h ago
+
+---
+
 **[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
-WSJ • 20h ago
+WSJ • 22h ago
 
 ---
 
-**[Bitcoin and crypto industry can’t hold CLARITY Act bump as it heads to Senate](https://sherwood.news/crypto/bitcoin-and-crypto-industry-cant-hold-clarity-act-bump-as-it-heads-to-senate/)**
+**[1 BTC Hole-in-One On The Line: The Bitcoin Open Invades Glen Abbey This June](https://bitcoinmagazine.com/culture/bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event)**
 
-While bitcoin, Coinbase, Circle, and Strategy all gained right after the CLARITY Act cleared the Senate Banking Committee, the momentum reversed...
+Bitcoin Sports Network and Satstreet are bringing high-stakes scramble golf, legendary networking, and massive prizes to one of Canada’s most historic courses on June 8. Who’s in?
 
-Sherwood News • 5h ago
-
----
-
-**[Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-depot-flashes-bankruptcy-warning-180544085.html)**
-
-Bitcoin Depot issued a “going concern” warning, signaling severe uncertainty over its ability to survive the next 12 months.
-
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 24m ago
 
 ---
 
-**[Bitcoin Pizza Day – Win Bitcoin with Kraken](https://www.williamsf1.com/articles/1f993e23-51c7-4f6c-a0bb-7ecc0c065c6d/bitcoin-pizza-day-win-bitcoin-with-kraken)**
+**[Sphere 3D Q1 revenue falls on lower Bitcoin prices](https://www.tradingview.com/news/reuters.com,2026:newsml_L1N41S12P:0-sphere-3d-q1-revenue-falls-on-lower-bitcoin-prices/)**
 
-You could score $1,000 on Bitcoin Pizza Day 2026, plus claim a bonus 10 WClub points
+OverviewOutlookResult DriversCompany press release:Key DetailsFor questions concerning the data in this report, contact Estimates.Support@lseg.com. For any other questions or feedback, contact reuters.support@thomsonreuters.com.
 
-williamsf1 • 5h ago
+TradingView • 1h ago
+
+---
+
+**[Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets](https://finance.yahoo.com/markets/crypto/articles/lombard-finance-dumps-layerzero-chainlink-205403886.html)**
+
+The Bitcoin DeFi protocol is moving its assets away from LayerZero following the Kelp DAO exploit that led to the loss of $292 million.
+
+Yahoo Finance • 40m ago
 
 ---
 
 **[Why is bitcoin (BTC) down today: Surging bond yield, inflation worries rattle crypto, stocks, gold](https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets)**
 
-CoinDesk • 5h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Why bitcoin traders are suddenly obsessed with a forgotten crypto](https://www.businessinsider.com/zcash-price-what-is-zec-bitcoin-btc-crypto-privacy-tokens-2026-5)**
+**[Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances](https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances)**
 
-A token launched in 2016 is suddenly in the limelight in crypto circles. Zcash has surged, far outpacing gains in bitcoin in the last month.
-
-Business Insider • 3h ago
-
----
-
-**[Trump's latest filing reveals surprise crypto stock purchases](https://www.thestreet.com/crypto/markets/trumps-latest-filing-reveals-surprise-crypto-stock-purchases)**
-
-thestreet.com • 3h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -215,19 +215,17 @@ Forbes • 1d ago
 
 ---
 
-**[IREN closes $3 billion convertible notes offering as Bitcoin miner's AI infrastructure push accelerates](https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates)**
+**[Bitcoin Pizza Day – Win Bitcoin with Kraken](https://www.williamsf1.com/articles/1f993e23-51c7-4f6c-a0bb-7ecc0c065c6d/bitcoin-pizza-day-win-bitcoin-with-kraken)**
 
-IREN closed $3 billion in convertible notes at a 1% coupon due 2033 to fund AI cloud expansion following its Nvidia and Microsoft deals.
+You could score $1,000 on Bitcoin Pizza Day 2026, plus claim a bonus 10 WClub points
 
-The Block • 9h ago
+williamsf1 • 7h ago
 
 ---
 
-**[Here's What the Latest Inflation Data Could Mean for Crypto](https://www.fool.com/investing/2026/05/15/what-the-latest-inflation-data-means-for-crypto/)**
+**[Bitcoin Tops $80,000 as Crypto Market Regulation Bill Advances](https://www.bloomberg.com/news/articles/2026-05-14/bitcoin-stalls-as-crypto-gains-ground-in-washington-wall-street)**
 
-This bearish inflation report could rain on the parade when it's just getting restarted.
-
-The Motley Fool • 5h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -253,21 +251,13 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 **[THORChain exploit hits Bitcoin, Ethereum, and BSC: Hackers steal over $10M](https://news.ycombinator.com/item?id=48152601)**
 
-⬆️ 6 • 💬 1 • 49m ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
-
----
-
-**[A 3D explorer of the Bitcoin blockchain](https://news.ycombinator.com/item?id=48068162)**
-
-An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, sound when a new block is mined, shareable permalinks for any block in history.
-
-⬆️ 3 • 💬 2 • 6d ago • [Bitcoin Playground](https://blockparty-omega.vercel.app/)
+⬆️ 6 • 💬 1 • 2h ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
 
 ---
 
 **[Morgan Stanley Bitcoin ETF $MSBT got an official listing announcement from NYSE](https://news.ycombinator.com/item?id=48145392)**
 
-⬆️ 3 • 💬 0 • 13h ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
+⬆️ 3 • 💬 0 • 14h ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
 
 ---
 
@@ -307,6 +297,14 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 ---
 
+**[Unlocking Asynchronicity in Continuous Batching](https://news.ycombinator.com/item?id=48148008)**
+
+We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+
+⬆️ 1 • 💬 0 • 8h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,7 +315,7 @@ OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY �
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 3K • 💬 150 • ⏱️ 11:42 • 19h ago
+👁️ 42K • 👍 3K • 💬 175 • ⏱️ 11:42 • 21h ago
 
 ---
 
@@ -327,17 +325,27 @@ Bitcoin is sitting near a major technical level, but the deeper story is not pri
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 147 • ⏱️ 15:54 • 22h ago
+👁️ 33K • 👍 2K • 💬 156 • ⏱️ 15:54 • 1d ago
 
 ---
 
-**[Today’s Crypto Vote Could Change Everything](https://www.youtube.com/watch?v=WBUKHSP3TNs)**
+**[Any Night Security Guard Could Steal Satoshi&#39;s Bitcoin](https://www.youtube.com/watch?v=7L5jsw0YEmA)**
 
-At 10:30 AM Eastern, the Digital Asset Market CLARITY Act faces its most critical test yet: a Senate Banking Committee markup ...
+Spiral developer Matt Corallo on why a cryptographically relevant quantum computer would make Satoshi's Bitcoin vulnerable to ...
 
-📺 Coin Bureau
+📺 Galaxy
 
-👁️ 31K • 👍 1K • 💬 138 • ⏱️ 12:58 • 1d ago
+👁️ 255 • 👍 1 • ⏱️ 0:42 • 34m ago
+
+---
+
+**[why bitcoin is designed to make smart money look dumb](https://www.youtube.com/watch?v=hlyf-vX59CA)**
+
+why do the smartest investors keep getting fooled by bitcoin?? Check out the Blockstream Jade Plus and get 10% off with code ...
+
+📺 BTC Isla
+
+👁️ 3K • 👍 378 • 💬 58 • ⏱️ 9:39 • 7h ago
 
 ---
 
@@ -347,27 +355,27 @@ Is retiring on just 0.21 Bitcoin by 2031 actually possible, or is it just anothe
 
 📺 Brad Long
 
-👁️ 5K • 👍 221 • 💬 59 • ⏱️ 14:28 • 22h ago
+👁️ 5K • 👍 227 • 💬 63 • ⏱️ 14:28 • 1d ago
 
 ---
 
-**[BITCOIN: DON&#39;T GET TRAPPED NOW!](https://www.youtube.com/watch?v=S3EknsSZA7s)**
+**[THE CRYPTO MARKET JUST FELL AFTER THIS NEWS?!](https://www.youtube.com/watch?v=SgtzHwp1Iis)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Make Sure To Check Out Nexo: https://nexo.sjv.io/PzKgZY Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC51526 ...
 
-📺 Crypto Rover
+📺 Tyler Hill Crypto
 
-👁️ 8K • 👍 599 • 💬 49 • ⏱️ 11:39 • 15h ago
+👁️ 4K • 👍 240 • 💬 142 • ⏱️ 11:03 • 6h ago
 
 ---
 
-**[Bitcoin Analysis: The Pattern Nobody&#39;s Talking About](https://www.youtube.com/watch?v=w2P_Ol0gx2w)**
+**[Bitcoin Rips Past $81K — Is The CLARITY Win Already Priced In?](https://www.youtube.com/watch?v=Orf0ULgp-Zw)**
 
-Bitcoin broke below $80K for the first time this month — and the contrarian setup is now in play. The higher low forming near ...
+Bitcoin #Crypto #Finance The CLARITY Act just cleared the Senate Banking Committee in a 15-9 vote, sending the most ...
 
-📺 Krown
+📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 570 • 💬 231 • ⏱️ 16:04 • 1d ago
+👁️ 8K • 👍 536 • 💬 227 • ⏱️ 19:23 • 8h ago
 
 ---
 
@@ -377,7 +385,7 @@ The crypto market is at a massive crossroads. In today's video, we deep dive int
 
 📺 Gareth Soloway
 
-👁️ 45K • 👍 3K • 💬 106 • ⏱️ 9:16 • 2d ago
+👁️ 45K • 👍 3K • 💬 104 • ⏱️ 9:16 • 2d ago
 
 ---
 
@@ -387,25 +395,17 @@ Bitcoin #Crypto #Finance The Daily Wolf Tune In LIVE on Yahoo Finance 12pm est (
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 546 • 💬 238 • ⏱️ 32:14 • 1d ago
+👁️ 13K • 👍 549 • 💬 266 • ⏱️ 32:14 • 1d ago
 
 ---
 
-**[Trick PINs on COLDCARD #selfcustody #bitcoin #tech #security](https://www.youtube.com/watch?v=VIFjCVRg9BY)**
+**[Bitcoin will DOMINATE the AI bull market! | Anthony Pompliano](https://www.youtube.com/watch?v=RWxtfyzDV8k)**
 
-📺 Coinkite
+Anthony Pompliano is the CEO of ProCap Financial. He joins Phil Rosen on Full Signal to discuss the economic data behind the ...
 
-👁️ 876 • 👍 30 • 💬 3 • ⏱️ 0:26 • 5h ago
+📺 Phil Rosen
 
----
-
-**[Something BIG Changed for Bitcoin In The Last 24H!](https://www.youtube.com/watch?v=D484xGdlor8)**
-
-Cryptomanran is breaking down the critical moment facing Bitcoin and crypto. With the Trump-Xi meeting and the Clarity Act at a ...
-
-📺 Crypto Banter
-
-👁️ 26K • 👍 2K • 💬 34 • ⏱️ 28:23 • 1d ago
+👁️ 1K • 👍 111 • 💬 8 • ⏱️ 20:58 • 8h ago
 
 ---
 
