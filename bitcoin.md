@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-15T10:24:52.261900+00:00'
+updated: '2026-05-15T12:17:17.732552+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 15, 2026 at 10:24 UTC  
+**Last Updated:** May 15, 2026 at 12:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,574.79
+### $80,414.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -0.2%  
-**30d:** +7.3%  
-**90d:** +17.0%  
-**1y:** -22.1%  
+**24h:** +0.9%  
+**7d:** -0.3%  
+**30d:** +7.1%  
+**90d:** +16.9%  
+**1y:** -22.2%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Note: I used ChatGPT to help with clarity, as English is not my primary language. Just wanted to share something I found quite meaningful. I’m an eye surgeon, and most of the surgeries I perform are aimed at helping patients become free from glasses. A couple of months ago, I started investing in Bitcoin, and I’ve become a strong believer in the potential of decentralized money. I still invest in traditional (fiat-based) assets, but much less than before—nowadays, most of my investment goes into BTC. Today, I received my first surgery payment in Bitcoin. There’s something truly remarkable about exchanging a real-world, life-changing procedure and being paid in BTC. I just liked the idea of making my part to increase the availability of services you can buy using BTC.
 
-19h ago
+20h ago
+
+---
+
+**[Got shut down for suggesting asset accumulation before even mentioning Bitcoin. The problem isn't Bitcoin literacy, it's monetary literacy.](https://www.reddit.com/r/Bitcoin/comments/1tdpyfq/got_shut_down_for_suggesting_asset_accumulation/)**
+
+3h ago
 
 ---
 
@@ -89,21 +95,7 @@ Note: I used ChatGPT to help with clarity, as English is not my primary language
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
-
----
-
-**[Paid for haircut with BTC](https://www.reddit.com/r/Bitcoin/comments/1tdb2jr/paid_for_haircut_with_btc/)**
-
-Not a huge deal to most people, but it honestly felt really cool to me. They only took cash and I didn’t have any, so I asked if they’d take BTC instead. Sent the payment and that was it.⚡️
-
-13h ago
-
----
-
-**[Got shut down for suggesting asset accumulation before even mentioning Bitcoin. The problem isn't Bitcoin literacy, it's monetary literacy.](https://www.reddit.com/r/Bitcoin/comments/1tdpyfq/got_shut_down_for_suggesting_asset_accumulation/)**
-
-2h ago
+6h ago
 
 ---
 
@@ -111,7 +103,23 @@ Not a huge deal to most people, but it honestly felt really cool to me. They onl
 
 you can just dca your big chunks, no hurt no lose, simple as that.
 
-1h ago
+3h ago
+
+---
+
+**[Paid for haircut with BTC](https://www.reddit.com/r/Bitcoin/comments/1tdb2jr/paid_for_haircut_with_btc/)**
+
+Not a huge deal to most people, but it honestly felt really cool to me. They only took cash and I didn’t have any, so I asked if they’d take BTC instead. Sent the payment and that was it.⚡️
+
+15h ago
+
+---
+
+**[Whats the best hardware wallet?](https://www.reddit.com/r/Bitcoin/comments/1tdttnc/whats_the_best_hardware_wallet/)**
+
+I want the best hardware wallet with all the best features.
+
+34m ago
 
 ---
 
@@ -119,13 +127,13 @@ you can just dca your big chunks, no hurt no lose, simple as that.
 
 And that was that with the 70's. Congrats to everyone that got some down there
 
-19h ago
+21h ago
 
 ---
 
 **[Bitcoin be like today:](https://www.reddit.com/r/Bitcoin/comments/1td1qsf/bitcoin_be_like_today/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -137,19 +145,11 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 ---
 
-**[Bitcoin investment](https://www.reddit.com/r/Bitcoin/comments/1td6hqn/bitcoin_investment/)**
+**[FROM BITBONDS TO PROTOCOL BONDS](https://www.reddit.com/r/Bitcoin/comments/1tdqxaj/from_bitbonds_to_protocol_bonds/)**
 
-Hi guys I just started up a coinbase account to dabble with some online trading as I’ve been trying to get financial security for me and my daughter in the near future. Is bitcoin worth investing in for the long haul 5/10 years? If so what do u see the market value rising too?
+I just came across a project that uses Bitcoin as a bond to its protocol. In 2025, the Bitcoin Policy Institute proposed that the US Treasury issue bonds backed by Bitcoin, with other assets as collateral. Even though the BitBonds are not adopted, they are very interesting and crucial for Bitcoin as an asset in my opinion, to get onto the US balance sheet and prove that Bitcoin and structured debt instruments are compatible and potentially complementary. Protocols that use Bitcoin as money and settlement are now using the BitBonds mechanism as Protocol Bonds onchain to produce Bitcoin Yield to Bitcoin holders in a purely self-custodial way. OP_CLTV is used to timelock BTC on the Bitcoin mainnet for a bonding period of 25,200 Bitcoin blocks (~6 months). I find this interesting and I want to know what you think about blockchain protocols using Bitcoin as Protocol Bonds now.
 
-16h ago
-
----
-
-**[Today I reached 0.5 BTC](https://www.reddit.com/r/Bitcoin/comments/1tchrit/today_i_reached_05_btc/)**
-
-May not be news to some, but just sharing coz I'm happy.
-
-1d ago
+🔗 [btcpolicy.org](https://www.btcpolicy.org/topics/bitbonds) • 3h ago
 
 ---
 
@@ -157,67 +157,9 @@ May not be news to some, but just sharing coz I'm happy.
 
 ## Google News: "bitcoin"
 
-**[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
+**[XRP, DOGE surge 5%, bitcoin above $81,000 as Clarity Act clears Senate banking panel](https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel)**
 
-WSJ • 10h ago
-
----
-
-**[XRP, DOGE surge 5%, bitcoin above $81,000 as CLARITY Act clears Senate banking panel](https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel)**
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin Reclaims $81,000 After CLARITY Vote as JPMorgan Says It's Winning the Institutional Race](https://unchainedcrypto.com/bitcoin-reclaims-81000-after-clarity-vote-as-jpmorgan-says-its-winning-the-institutional-race/)**
-
-Bitcoin bounced to $81,000 after the CLARITY Act cleared committee, but 12-month-high Treasury yields and a stubborn 200-day moving average keep the macro picture uncertain.
-
-unchainedcrypto.com • 47m ago
-
----
-
-**[As U.S. stock market valuation nears dot-com peak, bitcoin (BTC) price looks relatively cheap](https://www.coindesk.com/markets/2026/05/15/the-u-s-stock-market-is-getting-close-to-dot-com-bubble-peak-valuations)**
-
-CoinDesk • 2h ago
-
----
-
-**[Why Bitcoin Die-Hards Are Getting Behind Zcash](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-15-2026/card/why-bitcoin-die-hards-are-getting-behind-zcash-OkoztSlk9Utqt2BWanoS)**
-
-WSJ • 1h ago
-
----
-
-**[After $630M exits from bitcoin ETFs, should investors really be selling?](https://finance.yahoo.com/video/after-630m-exits-from-bitcoin-etfs-should-investors-really-be-selling-161713370.html)**
-
-Scott Melker discusses how over $630 million has flowed out of bitcoin ETFs in a single day on Wednesday. Bitcoin (BTC-USD) continues to hold above $81,000 per token today."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 18h ago
-
----
-
-**['Rally without conviction': Bitcoin ETFs see $630M in outflows as corporate treasury demand drops and resistance builds](https://www.theblock.co/post/401247/rally-without-conviction-bitcoin-etfs-see-630m-in-outflows-as-corporate-treasury-demand-drops-and-resistance-builds)**
-
-Bitcoin ETFs posted $630M in outflows on May 13 as corporate treasury buying slumps and a $2B gamma cluster threatens volatility near $82K.
-
-The Block • 23h ago
-
----
-
-**[Bitcoin’s Dip Below $80K Could Be ‘Short-Lived’ as STRC Cycle Looms](https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms)**
-
-Strategy's STRC stock has fueled mid-month Bitcoin rallies since March, but May demand is plateauing as ETFs posted $630 million outflows.
-
-Decrypt • 21h ago
-
----
-
-**[Onramp Raises $12.5M Series A To Scale Multi-Institution Bitcoin Custody Platform](https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a)**
-
-Onramp raised $12.5M in Series A at a $135M valuation to expand its institutional bitcoin custody platform.
-
-Bitcoin Magazine • 13h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -225,7 +167,69 @@ Bitcoin Magazine • 13h ago
 
 That is "unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications," the analysts said.
 
-The Block • 16h ago
+The Block • 18h ago
+
+---
+
+**[Bitcoin Reclaims $81,000 After CLARITY Vote as JPMorgan Says It's Winning the Institutional Race](https://unchainedcrypto.com/bitcoin-reclaims-81000-after-clarity-vote-as-jpmorgan-says-its-winning-the-institutional-race/)**
+
+Bitcoin bounced to $81,000 after the CLARITY Act cleared committee, but 12-month-high Treasury yields and a stubborn 200-day moving average keep the macro picture uncertain.
+
+unchainedcrypto.com • 2h ago
+
+---
+
+**[AI miner IREN raises $3 billion to accelerate AI cloud and data center buildout](https://www.coindesk.com/markets/2026/05/15/iren-closes-usd3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion)**
+
+CoinDesk • 2h ago
+
+---
+
+**[Claude AI helps uncover forgotten Bitcoin fortune worth $400K hidden for 11 years](https://interestingengineering.com/ai-robotics/claude-ai-bitcoin-wallet-400k-recovery)**
+
+An X user claims Anthropic's Claude AI helped recover 5 forgotten Bitcoin worth nearly $400,000 from an old college-era wallet.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Man Gets High, Loses $400,000 Bitcoin Password: 11 Years Later, AI Helps Recover Wallet](https://tech.yahoo.com/ai/claude/articles/man-gets-high-loses-400-195202219.html)**
+
+AI assistant Claude helped recover $400,000 in forgotten Bitcoin by analyzing old computer files, showcasing AI's role in cryptocurrency recovery.
+
+Yahoo Tech • 1d ago
+
+---
+
+**[We talked to the man who says Claude helped recover $400,000 worth of bitcoin locked in wallet for over a decade](https://sherwood.news/crypto/claude-helped-recover-400-000-worth-of-bitcoin-locked-in-wallet-for-over-a-decade/)**
+
+“I was taking pictures of school notebooks and sent them to Claude, trying everything to piece anything together. I also said how I make passwords....
+
+Sherwood News • 17h ago
+
+---
+
+**[‘Like Bitcoin In 2013’—Sudden 1,000% Price Surge Has Billionaires Betting On A Surprise $1.6 Trillion Crypto Flip](https://www.forbes.com/sites/digital-assets/2026/05/14/like-bitcoin-in-2013-sudden-1000-price-surge-has-billionaires-betting-on-a-surprise-15-trillion-crypto-flip/)**
+
+Bitcoin has been left in the dust by this tiny cryptocurrency's 1,000% price rally...
+
+Forbes • 23h ago
+
+---
+
+**[Onramp Raises $12.5M Series A To Scale Multi-Institution Bitcoin Custody Platform](https://bitcoinmagazine.com/news/onramp-raises-12-5m-series-a)**
+
+Onramp raised $12.5M in Series A at a $135M valuation to expand its institutional bitcoin custody platform.
+
+Bitcoin Magazine • 15h ago
+
+---
+
+**[Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands](https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus)**
+
+Crypto exchange Kraken is the latest firm to shift away from LayerZero tech following last month's $292 million Kelp DAO exploit.
+
+Decrypt • 18h ago
 
 ---
 
@@ -237,7 +241,7 @@ The Block • 16h ago
 
 The user apparently changed the password while 'stoned'
 
-⬆️ 323 • 💬 168 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+⬆️ 323 • 💬 170 • 21h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 
 ---
 
@@ -245,7 +249,7 @@ The user apparently changed the password while 'stoned'
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-⬆️ 13 • 💬 2 • 20h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
+⬆️ 13 • 💬 3 • 22h ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
 
 ---
 
@@ -259,7 +263,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 **[Morgan Stanley Bitcoin ETF $MSBT got an official listing announcement from NYSE](https://news.ycombinator.com/item?id=48145392)**
 
-⬆️ 3 • 💬 0 • 3h ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
+⬆️ 3 • 💬 0 • 5h ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
 
 ---
 
@@ -267,7 +271,7 @@ An immersive 3D Bitcoin block explorer. Live data, cinematic onboarding tour, so
 
 AI to the rescue as 11-year search for password turns up in old PC files
 
-⬆️ 2 • 💬 1 • 19h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
+⬆️ 2 • 💬 1 • 21h ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
 
 ---
 
@@ -303,7 +307,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 **[Have LLMs made anyone's life substantially better?](https://news.ycombinator.com/item?id=48136636)**
 
-⬆️ 8 • 💬 5 • 19h ago
+⬆️ 8 • 💬 5 • 21h ago
 
 ---
 
@@ -317,7 +321,7 @@ Bitcoin is sitting near a major technical level, but the deeper story is not pri
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 102 • ⏱️ 15:54 • 13h ago
+👁️ 26K • 👍 2K • 💬 102 • ⏱️ 15:54 • 15h ago
 
 ---
 
@@ -327,7 +331,7 @@ Is retiring on just 0.21 Bitcoin by 2031 actually possible, or is it just anothe
 
 📺 Brad Long
 
-👁️ 4K • 👍 173 • 💬 45 • ⏱️ 14:28 • 13h ago
+👁️ 4K • 👍 173 • 💬 45 • ⏱️ 14:28 • 15h ago
 
 ---
 
@@ -347,7 +351,7 @@ OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY �
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 139 • ⏱️ 11:42 • 10h ago
+👁️ 30K • 👍 2K • 💬 139 • ⏱️ 11:42 • 11h ago
 
 ---
 
@@ -367,7 +371,7 @@ In this clip, Bitcoin OG Sheldon Weisfeld breaks down the long-term utility and 
 
 📺 Gentry Media
 
-👁️ 910 • 👍 17 • 💬 4 • ⏱️ 0:59 • 7h ago
+👁️ 910 • 👍 17 • 💬 4 • ⏱️ 0:59 • 9h ago
 
 ---
 
@@ -377,7 +381,7 @@ The crypto market is at a massive crossroads. In today's video, we deep dive int
 
 📺 Gareth Soloway
 
-👁️ 44K • 👍 3K • 💬 108 • ⏱️ 9:16 • 1d ago
+👁️ 44K • 👍 3K • 💬 108 • ⏱️ 9:16 • 2d ago
 
 ---
 
@@ -387,7 +391,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa 20% Cashback: Get
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 251 • 💬 16 • ⏱️ 19:16 • 10h ago
+👁️ 4K • 👍 251 • 💬 16 • ⏱️ 19:16 • 12h ago
 
 ---
 
@@ -397,7 +401,7 @@ Bitcoin #Crypto #Finance The Daily Wolf Tune In LIVE on Yahoo Finance 12pm est (
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 499 • 💬 190 • ⏱️ 32:14 • 14h ago
+👁️ 12K • 👍 499 • 💬 190 • ⏱️ 32:14 • 16h ago
 
 ---
 

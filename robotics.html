@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-15T10:24:51.847946+00:00"
+          "dateModified": "2026-05-15T12:17:17.343154+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,7 +614,7 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tdsp5e/undervoltage_warning_in_raspberry_pi_5_in_xle/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -622,10 +622,14 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/" target="_blank" onclick="event.stopPropagation();">Camera gimbal</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1tdsp5e/undervoltage_warning_in_raspberry_pi_5_in_xle/" target="_blank" onclick="event.stopPropagation();">Undervoltage warning in Raspberry Pi 5 in xLE robot</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300W power bank I’m running into undervoltage warnings on a Raspberry Pi 5 during heavy servo activity, even though the setup is powered from a high-power UGREEN 300W power bank. Current setup Raspberry Pi 5 powered from: UGREEN 300W 48000mAh power bank 140W USB-C PD port Two Waveshare servo driver boards powered separately from: two independent 100W USB-C ports of Power bank (With USB-C → 12V barrel adapters) Connected hardware 17 servos total (9 + 8) Intel RealSense camera Anker USB hub 2 additional cameras The Pi is connected to the servo drivers and cameras only for data communication. Problem When multiple servos move simultaneously (especially while cameras are active), the Pi reports: "Undervoltage detected!" What I already tried To reduce voltage drops, I added: XY-3606 buck converter (12V → 5V 5A) 2200uF capacitors on both servo driver power inputs New power path: UGREEN 140W USB-C port → USB-C to 12V barrel adapter → XY-3606 buck converter → two cut wires of USB-C cable → Raspberry Pi 5 This significantly reduced undervoltage events, but occasional warnings still still happen during heavy servo motion. Important observation Using the official Raspberry Pi power adapter(5V/3A) does NOT produce undervoltage warnings. Would appreciate any guidance from people who’ve dealt with Pi 5 power stability or servo-heavy robotics setups.
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -633,7 +637,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1778838919.0"></span>
+                                    <span data-timestamp="1778842271.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -687,6 +691,35 @@
                                         <span>youtu.be</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/" target="_blank" onclick="event.stopPropagation();">Camera gimbal</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1778838919.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -939,56 +972,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tcrs2e/locomotion_and_selfreconfiguration_autonomy_for/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/aOtxPNvjSFkqLdV3FI-Co2Zp3i6jHsQv55ZVVdtpze4.jpeg?width=320&crop=smart&auto=webp&s=30ae22627701515c31cbe7478b0e1d5eb756dfe7" alt="Locomotion and Self-reconfiguration Autonomy for Spherical Freeform Modular Robots" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tcrs2e/locomotion_and_selfreconfiguration_autonomy_for/" target="_blank" onclick="event.stopPropagation();">Locomotion and Self-reconfiguration Autonomy for Spherical Freeform Modular Robots</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1778746914.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.youtube.com/watch?v=GgozSTWPMjg" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.youtube.com/s/desktop/47009d78/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>youtube.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1012,7 +995,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-15T10:24:27.592830+00:00">Updated 2026-05-15T10:24:27.592830+00:00</small>
+        <small data-timestamp="2026-05-15T12:16:54.365042+00:00">Updated 2026-05-15T12:16:54.365042+00:00</small>
     </div>
 </div>
 
@@ -1198,6 +1181,88 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.globaltimes.cn/page/202605/1360822.shtml', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.globaltimes.cn/Portals/0/attachment/2026/2026-05-12/b0a3df6a-d48d-4e2d-8c1d-23e8dbe0a65a.jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.globaltimes.cn/page/202605/1360822.shtml" target="_blank" onclick="event.stopPropagation();">Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.globaltimes.cn&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Global Times" class="news-favicon">
+                                    <a href="https://www.globaltimes.cn" target="_blank" onclick="event.stopPropagation();">Global Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778584680.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/insidermonkey.com/a6d32b6117cee1247c63db64c2855881');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html" target="_blank" onclick="event.stopPropagation();">After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1778609075.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1778800726685_nn_tll_china_robots_260514_S3_1920x1080-geebg6.jpg');"></div>
@@ -1321,47 +1386,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/insidermonkey.com/a6d32b6117cee1247c63db64c2855881');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html" target="_blank" onclick="event.stopPropagation();">After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778609075.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/autos/rivian-ceos-robotics-spinoff-raises-400-million-4c54a9a0', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1440,20 +1464,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-scaringe-robotics-mind-raises-funding-20260513/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/crain/EYBINUF7BFC5BORB5X2XII3USE.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/GRtHEf9OtxGwDMtQ309hhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTU-/https://media.zenfs.com/en/proactive_us_504/e9817ebd14cc25edeeaaf91ceafa4ee0');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-scaringe-robotics-mind-raises-funding-20260513/" target="_blank" onclick="event.stopPropagation();">Rivian CEO’s robotics startup tops $1 billion in funding: report</a>
+                            <a href="https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html" target="_blank" onclick="event.stopPropagation();">Rivian shares jump as AI robotics spinout Mind Robotics closes $400M round</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
+                            Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
                         </div>
                         
 
@@ -1463,9 +1487,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.chicagobusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Crain's Chicago Business" class="news-favicon">
-                                    <a href="https://www.chicagobusiness.com" target="_blank" onclick="event.stopPropagation();">Crain's Chicago Business</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1473,7 +1497,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1778702700.0"></span>
+                                    <span data-timestamp="1778691300.0"></span>
                                 </div>
                                 
                             </div>
@@ -1559,47 +1583,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.foxweather.com/lifestyle/underwater-robot-rare-artifacts-france-shipwreck-16th-century', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/05/1024/512/683196761_1496366445617758_3690324586148072619_n.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxweather.com/lifestyle/underwater-robot-rare-artifacts-france-shipwreck-16th-century" target="_blank" onclick="event.stopPropagation();">Underwater robots finds rare artifacts in France's deepest shipwreck, a 16th century vessel</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The team, made up of members of the French Navy and France’s Department of Underwater and Submarine Archaeological Research, embarked on a 3-day mission in April to study and carefully recover artifacts from the Camarat 4.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxweather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="FOX Weather" class="news-favicon">
-                                    <a href="https://www.foxweather.com" target="_blank" onclick="event.stopPropagation();">FOX Weather</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1778634060.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1620,7 +1603,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-15T10:24:43.123536+00:00">Updated 2026-05-15T10:24:43.123536+00:00</small>
+        <small data-timestamp="2026-05-15T12:17:08.940590+00:00">Updated 2026-05-15T12:17:08.940590+00:00</small>
     </div>
 </div>
 

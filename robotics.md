@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-15T10:24:52.270926+00:00'
+updated: '2026-05-15T12:17:17.741989+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 15, 2026 at 10:24 UTC  
+**Last Updated:** May 15, 2026 at 12:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Camera gimbal](https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/)**
+**[Undervoltage warning in Raspberry Pi 5 in xLE robot](https://www.reddit.com/r/robotics/comments/1tdsp5e/undervoltage_warning_in_raspberry_pi_5_in_xle/)**
 
-29m ago
+Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300W power bank I’m running into undervoltage warnings on a Raspberry Pi 5 during heavy servo activity, even though the setup is powered from a high-power UGREEN 300W power bank. Current setup Raspberry Pi 5 powered from: UGREEN 300W 48000mAh power bank 140W USB-C PD port Two Waveshare servo driver boards powered separately from: two independent 100W USB-C ports of Power bank (With USB-C → 12V barrel adapters) Connected hardware 17 servos total (9 + 8) Intel RealSense camera Anker USB hub 2 additional cameras The Pi is connected to the servo drivers and cameras only for data communication. Problem When multiple servos move simultaneously (especially while cameras are active), the Pi reports: "Undervoltage detected!" What I already tried To reduce voltage drops, I added: XY-3606 buck converter (12V → 5V 5A) 2200uF capacitors on both servo driver power inputs New power path: UGREEN 140W USB-C port → USB-C to 12V barrel adapter → XY-3606 buck converter → two cut wires of USB-C cable → Raspberry Pi 5 This significantly reduced undervoltage events, but occasional warnings still still happen during heavy servo motion. Important observation Using the official Raspberry Pi power adapter(5V/3A) does NOT produce undervoltage warnings. Would appreciate any guidance from people who’ve dealt with Pi 5 power stability or servo-heavy robotics setups.
+
+1h ago
 
 ---
 
@@ -42,7 +44,13 @@ Robotics research and industry news
 
 SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
 
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 13h ago
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 15h ago
+
+---
+
+**[Camera gimbal](https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/)**
+
+2h ago
 
 ---
 
@@ -56,7 +64,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 **[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -64,7 +72,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
-19h ago
+21h ago
 
 ---
 
@@ -80,7 +88,7 @@ CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. 
 
 A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
 
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 20h ago
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 22h ago
 
 ---
 
@@ -96,39 +104,15 @@ A3’s Q1 2026 robot order data shows North American companies ordered 9,055 rob
 
 ---
 
-**[Locomotion and Self-reconfiguration Autonomy for Spherical Freeform Modular Robots](https://www.reddit.com/r/robotics/comments/1tcrs2e/locomotion_and_selfreconfiguration_autonomy_for/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
+**[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
 
-Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
+Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
 
-NBC News • 11h ago
-
----
-
-**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
-
-Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
-
-ABC News - Breaking News, Latest News and Videos • 14h ago
-
----
-
-**[Silicon Valley's Latest Binge-Watch Is a Humanoid Warehouse Worker](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5)**
-
-Figure AI's livestream of a humanoid robot sorting packages drew millions of views, and showed the promise and limits of warehouse automation.
-
-Business Insider • 2d ago
+Global Times • 3d ago
 
 ---
 
@@ -137,6 +121,30 @@ Business Insider • 2d ago
 Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
+
+Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
+
+NBC News • 12h ago
+
+---
+
+**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
+
+Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
+
+ABC News - Breaking News, Latest News and Videos • 15h ago
+
+---
+
+**[Silicon Valley's Latest Binge-Watch Is a Humanoid Warehouse Worker](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5)**
+
+Figure AI's livestream of a humanoid robot sorting packages drew millions of views, and showed the promise and limits of warehouse automation.
+
+Business Insider • 2d ago
 
 ---
 
@@ -154,17 +162,17 @@ TechCrunch • 1d ago
 
 ---
 
-**[Rivian CEO’s robotics startup tops $1 billion in funding: report](https://www.chicagobusiness.com/manufacturing-logistics/ccb-rivian-scaringe-robotics-mind-raises-funding-20260513/)**
+**[Rivian shares jump as AI robotics spinout Mind Robotics closes $400M round](https://finance.yahoo.com/news/rivian-shares-jump-ai-robotics-165500756.html)**
 
-A robotics startup founded by Rivian CEO RJ Scaringe has raised another $400 million and plans to deploy AI-powered robots at Rivian’s Normal factory.
+Rivian Automotive Inc (NASDAQ:RIVN) shares rose 4.2% on Wednesday after its spinout Mind Robotics, an artificial intelligence-driven industrial robotics company, closed a $400 million funding round that valued the startup at $3.4 billion. The May 2026 round was led by Kleiner Perkins and also...
 
-Crain's Chicago Business • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
 
-eWeek • 15h ago
+eWeek • 17h ago
 
 ---
 
@@ -173,14 +181,6 @@ eWeek • 15h ago
 Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
 
 cheddar.com • 1d ago
-
----
-
-**[Underwater robots finds rare artifacts in France's deepest shipwreck, a 16th century vessel](https://www.foxweather.com/lifestyle/underwater-robot-rare-artifacts-france-shipwreck-16th-century)**
-
-The team, made up of members of the French Navy and France’s Department of Underwater and Submarine Archaeological Research, embarked on a 3-day mission in April to study and carefully recover artifacts from the Camarat 4.
-
-FOX Weather • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 33K • 👍 370 • 💬 123 • ⏱️ 3:00 • 10h ago
+👁️ 33K • 👍 370 • 💬 123 • ⏱️ 3:00 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ Thanks to Lymow for sponsoring this video. Check them out ▻ https://dada.link/
 
 📺 Kim Java
 
-👁️ 4K • 👍 212 • 💬 20 • ⏱️ 11:36 • 12h ago
+👁️ 4K • 👍 212 • 💬 20 • ⏱️ 11:36 • 14h ago
 
 ---
 
