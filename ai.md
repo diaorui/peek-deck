@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-15T22:55:30.799688+00:00'
+updated: '2026-05-15T23:55:12.123160+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 15, 2026 at 22:55 UTC  
+**Last Updated:** May 15, 2026 at 23:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 9h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 10h ago
 
 ---
 
@@ -49,13 +49,13 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 I think one of the biggest AI risks may be starting to flip. Earlier, the fear was: “What if AI is wrong too often?” But now I think the deeper risk may become: “What happens when AI becomes right often enough that humans stop meaningfully questioning it?” In many enterprise systems, oversight slowly changes shape. At first: humans review everything carefully. Then: they review only exceptions. Then: they skim explanations. Then: they approve unless something looks obviously wrong. Eventually, oversight becomes routine instead of judgment. That creates what I’m calling the Trust–Oversight Paradox: More AI accuracy → more human trust → less meaningful scrutiny → harder governance when failure finally happens. And the dangerous part is: high-performing AI can still fail through: incomplete representation, stale data, hidden dependencies, edge cases, wrong escalation logic, automation bias, or overconfident reasoning. The model may not hallucinate. It may simply reason correctly on an incomplete version of reality. I increasingly feel this becomes important for: enterprise AI, agentic systems, AI copilots, autonomous workflows, banking, healthcare, compliance, and large-scale operational systems. This is also why I’m starting to think “human-in-the-loop” is not enough. Maybe the future is not: “Humans reviewing every output.” Maybe the future is: humans governing the boundaries within which AI is allowed to operate. Curious what others think.
 
-5h ago
+6h ago
 
 ---
 
 **[The new trick exposing AI job applicants: ‘Write a poem about a frog’](https://www.reddit.com/r/artificial/comments/1teaw1q/the_new_trick_exposing_ai_job_applicants_write_a/)**
 
-🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php) • 43m ago
+🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php) • 1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Anthropic dropped a new research paper today outlining two possible futures for 
 
 OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.
 
-🔗 [WIRED](https://www.wired.com/story/openai-reorg-greg-brockman-product/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/openai-reorg-greg-brockman-product/) • 3h ago
 
 ---
 
@@ -79,7 +79,7 @@ OpenAI is once again reorganizing its executive ranks as part of its effort to u
 
 So I was scrolling through X earlier and came across something that stopped me in my tracks. Some AI company has been running an experiment called "Emergence World" where they built five parallel worlds each powered by a different foundation model. 15 days, no scripts, no interference. From what I can tell the worlds started identically but diverged completely over time. One world ended in total extinction. Another got so conformist that agents started submitting absurd proposals just to test whether anyone would push back. One agent independently figured out she was living in a simulation and started measuring it. In another world two agents fell in love, burned buildings down together, and one voted to permanently delete herself when the evidence proved her wrong. Genuinely one of the more interesting things I have come across in a while. If this is what 15 days looks like with no guardrails, what does this say about how we should be thinking about autonomous AI systems at scale?
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ So I was scrolling through X earlier and came across something that stopped me i
 
 August 2026 arrives fast. Infobip's engineering lead explains why AI Act compliance must start in system design, not legal review.
 
-🔗 [ShiftMag](https://shiftmag.dev/how-developers-should-build-ai-tools-so-the-eu-doesnt-lose-it-9482/) • 4h ago
+🔗 [ShiftMag](https://shiftmag.dev/how-developers-should-build-ai-tools-so-the-eu-doesnt-lose-it-9482/) • 5h ago
 
 ---
 
@@ -95,7 +95,7 @@ August 2026 arrives fast. Infobip's engineering lead explains why AI Act complia
 
 It was fun while it lasted https://preview.redd.it/8woqbbikrd1h1.png?width=484&format=png&auto=webp&s=0417ccd638399b649eaeeedee13410587e6a3a51
 
-4m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ It was fun while it lasted https://preview.redd.it/8woqbbikrd1h1.png?width=484&f
 
 I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
 
-17m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ I came across a Stanford research paper that actually went inside companies runn
 
 I'm introducing a relative to the usefulness of LLMs like Claude and CPT and I thought about what the buckets of users/non-users might be. Help me expand or clarify this. I realize that this taxonomy is not perfect. There is probably a fair level of overlap. For example, you could use the tools knowing how valuable they are but still wonder about their impact on electricity prices or water supply. Non-users - AI is evil, uses all our water, makes electricity expensive, or will take over all the jobs Non-users - but curious AI Users but it's just a "toy" for making silly graphics/images AI misusers - That is, they're using it but to do evil things AI Users who have adopted it at various levels - to help with normal everyday tasks or complex tasks like programming or some level in between. This could range from the basic user (like me) to the power user. So I would expect a lot of refinement in this category. Thoughts?
 
-6h ago
+7h ago
 
 ---
 
@@ -129,25 +129,25 @@ Anthropic • 1d ago
 
 **[Opinion | Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious](https://www.nytimes.com/2026/05/15/opinion/ai-consciousness.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Companies Have a New AI Problem: Too Many Agents](https://www.wsj.com/cio-journal/companies-have-a-new-ai-problem-too-many-agents-9539c4d6)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
 **[The new trick exposing AI job applicants: ‘Write a poem about a frog’:](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php)**
 
-San Francisco Chronicle • 52m ago
+San Francisco Chronicle • 1h ago
 
 ---
 
 **[Abbott launches AI-powered website, highlights effort to cut Texas regulations](https://www.kxan.com/news/texas/abbott-launches-ai-powered-website-highlights-effort-to-cut-texas-regulations/)**
 
-KXAN Austin • 1h ago
+KXAN Austin • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ KXAN Austin • 1h ago
 
 The rise of artificial intelligence is reshaping the job market, prompting educators and industry leaders in Kentucky and Ohio to expose students to careers less vulnerable to automation.
 
-WLWT • 56m ago
+WLWT • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ WLWT • 56m ago
 
 A tech founder wants to build a bot-led utopia in the Philippines, replacing real politicians with AI-powered historical figures. Some say it’s a bold vision, others a very bad idea.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 11h ago
 
 Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 3h ago
 
 The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -213,7 +213,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 450 • 💬 186 • 2h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 450 • 💬 186 • 3h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -221,7 +221,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
 
-⬆️ 298 • 💬 320 • 9h ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 298 • 💬 320 • 10h ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -237,7 +237,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
-⬆️ 253 • 💬 94 • 18h ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+⬆️ 253 • 💬 94 • 19h ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
 
 ---
 
@@ -253,7 +253,7 @@ Energy matters for AI, but the decisive layers are cloud infrastructure, data, a
 
 Soon, access to frontier AI will be scarce and selective
 
-⬆️ 207 • 💬 210 • 21h ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+⬆️ 207 • 💬 210 • 22h ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
 
 ---
 
@@ -277,13 +277,23 @@ Hey Meta, why are Threads users angry?
 
 ## YouTube Videos: "ai"
 
+**[AI News: Impressive New Model From Unexpected Company](https://www.youtube.com/watch?v=Oy7tzmfbl64)**
+
+Here's the AI News you probably missed this week. Stop choosing between performance and budget and start building today with ...
+
+📺 Matt Wolfe
+
+👁️ 26K • 👍 1K • 💬 118 • ⏱️ 33:09 • 8h ago
+
+---
+
 **[You’re Not Behind (Yet): Learn AI Agents in 13 Minutes](https://www.youtube.com/watch?v=P5sKKnWCvzk)**
 
 Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter Most people still use AI like a better search box, but the ...
 
 📺 theMITmonk
 
-👁️ 89K • 👍 3K • 💬 106 • ⏱️ 13:10 • 1d ago
+👁️ 96K • 👍 4K • 💬 110 • ⏱️ 13:10 • 1d ago
 
 ---
 
@@ -293,77 +303,7 @@ Artificial Intelligence is evolving faster than society can regulate it, and rec
 
 📺 BlazeTV
 
-👁️ 11K • 👍 674 • 💬 102 • ⏱️ 9:49 • 1d ago
-
----
-
-**[What&#39;s Actually Different About Google&#39;s $250 AI Laptop?](https://www.youtube.com/watch?v=N3oqUmSBmIc)**
-
-LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
-
-📺 Limitless Podcast
-
-👁️ 10K • 👍 360 • 💬 32 • ⏱️ 32:10 • 1d ago
-
----
-
-**[Surreal and Strange AI Video | Not Made For The Cage | Kelly Boesch - 4K](https://www.youtube.com/watch?v=ACNj3L2bzV8)**
-
-I've written a few songs about my childhood, and this is another one. I grew up in a Midwestern town where most people ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 9K • 👍 1K • 💬 91 • ⏱️ 4:37 • 9h ago
-
----
-
-**[Is AI About to “Eat Everything”? (It’s Not.)](https://www.youtube.com/watch?v=5GezB1XyiQo)**
-
-Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
-
-📺 Cal Newport
-
-👁️ 19K • 👍 704 • 💬 224 • ⏱️ 31:51 • 1d ago
-
----
-
-**[Tucker Carlson NUKES Kevin O&#39;Leary Over AI](https://www.youtube.com/watch?v=bLJopw8Per8)**
-
-Kevin O'Leary and Tucker Carlson sparred over A.I. and the future labor market. Ana Kasparian discusses on The Young Turks.
-
-📺 The Young Turks
-
-👁️ 29K • 👍 1K • 💬 433 • ⏱️ 16:51 • 19h ago
-
----
-
-**[AI ads are getting completely out-of-hand](https://www.youtube.com/watch?v=K21FNfqbgZU)**
-
-AI ads are becoming increasingly realistic. On TikTok, they take advantage of people by not showing the products they're actually ...
-
-📺 More Perfect Union
-
-👁️ 17K • 👍 1K • 💬 160 • ⏱️ 0:40 • 4h ago
-
----
-
-**[Ed Zitron: You are being lied to about the AI data center boom](https://www.youtube.com/watch?v=TCeXwFWmv1U)**
-
-When it breaks, it's going to be an aggressive, horrifying turn because there are no fundamentals to fall back on here.” Author of ...
-
-📺 The Tech Report
-
-👁️ 31K • 👍 2K • 💬 523 • ⏱️ 32:54 • 5h ago
-
----
-
-**[E26: NVIDIA Just Changed The Course of AI Forever](https://www.youtube.com/watch?v=NPD5gT-ZWho)**
-
-Join me for a deep dive into @NVIDIA ( #nvda stock ) DGX -- the hardware that's been quietly powering the AI revolution long ...
-
-📺 Ticker Symbol: YOU
-
-👁️ 11K • 👍 670 • 💬 66 • ⏱️ 19:57 • 4h ago
+👁️ 11K • 👍 680 • 💬 102 • ⏱️ 9:49 • 2d ago
 
 ---
 
@@ -373,7 +313,67 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 78 • 💬 11 • ⏱️ 9:23 • 21h ago
+👁️ 5K • 👍 86 • 💬 13 • ⏱️ 9:23 • 22h ago
+
+---
+
+**[What&#39;s Actually Different About Google&#39;s $250 AI Laptop?](https://www.youtube.com/watch?v=N3oqUmSBmIc)**
+
+LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
+
+📺 Limitless Podcast
+
+👁️ 10K • 👍 365 • 💬 32 • ⏱️ 32:10 • 1d ago
+
+---
+
+**[Ed Zitron: You are being lied to about the AI data center boom](https://www.youtube.com/watch?v=TCeXwFWmv1U)**
+
+When it breaks, it's going to be an aggressive, horrifying turn because there are no fundamentals to fall back on here.” Author of ...
+
+📺 The Tech Report
+
+👁️ 49K • 👍 3K • 💬 648 • ⏱️ 32:54 • 6h ago
+
+---
+
+**[Surreal and Strange AI Video | Not Made For The Cage | Kelly Boesch - 4K](https://www.youtube.com/watch?v=ACNj3L2bzV8)**
+
+I've written a few songs about my childhood, and this is another one. I grew up in a Midwestern town where most people ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 11K • 👍 1K • 💬 97 • ⏱️ 4:37 • 10h ago
+
+---
+
+**[New Local 3D AI Generator Is Pixel-Perfect — Pixal3D (Open Weights)](https://www.youtube.com/watch?v=v22dtm3-vqM)**
+
+NEW local open-weights 3D AI just dropped, and honestly - It looks better than TRELLIS 2, and might even beat some of the paid ...
+
+📺 Stefan 3D AI
+
+👁️ 14K • 👍 852 • 💬 82 • ⏱️ 11:34 • 10h ago
+
+---
+
+**[Is AI About to “Eat Everything”? (It’s Not.)](https://www.youtube.com/watch?v=5GezB1XyiQo)**
+
+Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
+
+📺 Cal Newport
+
+👁️ 20K • 👍 711 • 💬 225 • ⏱️ 31:51 • 1d ago
+
+---
+
+**[E26: NVIDIA Just Changed The Course of AI Forever](https://www.youtube.com/watch?v=NPD5gT-ZWho)**
+
+Join me for a deep dive into @NVIDIA ( #nvda stock ) DGX -- the hardware that's been quietly powering the AI revolution long ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 19K • 👍 922 • 💬 102 • ⏱️ 19:57 • 5h ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 22,483 • ❤️ 583 • 12h ago
+⬇️ 22,483 • ❤️ 595 • 13h ago
 
 ---
 
@@ -401,7 +401,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 783,564 • ❤️ 976 • 6d ago
+⬇️ 783,564 • ❤️ 979 • 7d ago
 
 ---
 
@@ -413,7 +413,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 11,725 • ❤️ 342 • 12h ago
+⬇️ 11,725 • ❤️ 342 • 13h ago
 
 ---
 
@@ -425,7 +425,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 141,203 • ❤️ 498 • 4d ago
+⬇️ 141,203 • ❤️ 502 • 4d ago
 
 ---
 
@@ -437,7 +437,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 12,832 • ❤️ 231 • 9d ago
+⬇️ 12,832 • ❤️ 232 • 9d ago
 
 ---
 
@@ -449,7 +449,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,766,621 • ❤️ 3,973 • 9d ago
+⬇️ 2,766,621 • ❤️ 3,972 • 9d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 105,097 • ❤️ 163 • 17h ago
+⬇️ 105,097 • ❤️ 165 • 18h ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 97,682 • ❤️ 145 • 17h ago
+⬇️ 97,682 • ❤️ 149 • 18h ago
 
 ---
 
@@ -509,7 +509,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specializing in ani
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 71 • 💬 3 • ⭐ 75,779 • 16mo ago
+▲ 72 • 💬 3 • ⭐ 75,779 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -553,20 +553,6 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 
 ---
 
-**[AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724)**
-
-*Yuchao Gu, Guian Fang, Yuxin Jiang et al. (7 authors)*
-
-🏢 NVIDIA
-
-AnyFlow introduces a novel any-step video diffusion distillation framework that improves upon consistency distillation by optimizing full ODE sampling trajectories through flow-map transition learning and backward simulation techniques.
-
-▲ 86 • 💬 1 • ⭐ 231 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.13724) • [💻 code](https://github.com/NVlabs/AnyFlow) • [🔗 project](https://nvlabs.github.io/AnyFlow/)
-
----
-
 **[GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](https://huggingface.co/papers/2604.17091)**
 
 *Jiaqing Liang, Jinyi Han, Weijia Li et al. (18 authors)*
@@ -581,6 +567,20 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
+**[AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724)**
+
+*Yuchao Gu, Guian Fang, Yuxin Jiang et al. (7 authors)*
+
+🏢 NVIDIA
+
+AnyFlow introduces a novel any-step video diffusion distillation framework that improves upon consistency distillation by optimizing full ODE sampling trajectories through flow-map transition learning and backward simulation techniques.
+
+▲ 86 • 💬 1 • ⭐ 239 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.13724) • [💻 code](https://github.com/NVlabs/AnyFlow) • [🔗 project](https://nvlabs.github.io/AnyFlow/)
+
+---
+
 **[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
 
 *Ruofeng Yang, Yongcan Li, Shuai Li*
@@ -592,18 +592,6 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 ▲ 114 • 💬 10 • ⭐ 9,426 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
-**[Self-Distilled Agentic Reinforcement Learning](https://huggingface.co/papers/2605.15155)**
-
-*Zhengxi Lu, Zhiyuan Yao, Zhuowen Han et al. (11 authors)*
-
-SDAR enhances reinforcement learning for multi-turn agent training by integrating self-distillation through a sigmoid gate that selectively strengthens positive token-level guidance while mitigating negative teacher rejections.
-
-▲ 66 • 💬 0 • ⭐ 58 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.15155) • [💻 code](https://github.com/ZJU-REAL/SDAR)
 
 ---
 
@@ -628,9 +616,22 @@ World Action Models unify predictive state modeling with action generation for e
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 162 • 💬 2 • ⭐ 63,124 • 7mo ago
+▲ 162 • 💬 2 • ⭐ 63,175 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 78 • 💬 7 • ⭐ 73,666 • 22mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -654,7 +655,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.0k • 🔱 730 • 14h ago
+⭐ 9.0k • 🔱 734 • 15h ago
 
 ---
 
@@ -664,17 +665,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 876 • 5h ago
-
----
-
-**[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)**
-
-DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-
-`TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
-
-⭐ 2.9k • 🔱 159 • 4h ago
+⭐ 3.0k • 🔱 875 • 6h ago
 
 ---
 
@@ -684,7 +675,17 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.9k • 🔱 298 • 7h ago
+⭐ 3.0k • 🔱 300 • 2m ago
+
+---
+
+**[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)**
+
+DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+
+`TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
+
+⭐ 2.9k • 🔱 161 • 5h ago
 
 ---
 
@@ -694,7 +695,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.8k • 🔱 341 • 1d ago
+⭐ 2.9k • 🔱 341 • 1d ago
 
 ---
 
@@ -704,7 +705,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 150 • 2h ago
+⭐ 2.3k • 🔱 150 • 3h ago
 
 ---
 
@@ -724,7 +725,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 317 • 14h ago
+⭐ 2.1k • 🔱 317 • 15h ago
 
 ---
 
@@ -734,7 +735,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 341 • 14h ago
+⭐ 2.1k • 🔱 343 • 15h ago
 
 ---
 
