@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-15T21:34:12.933175+00:00'
+updated: '2026-05-15T22:55:30.799688+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 15, 2026 at 21:34 UTC  
+**Last Updated:** May 15, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 8h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 9h ago
 
 ---
 
@@ -49,7 +49,13 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 I think one of the biggest AI risks may be starting to flip. Earlier, the fear was: “What if AI is wrong too often?” But now I think the deeper risk may become: “What happens when AI becomes right often enough that humans stop meaningfully questioning it?” In many enterprise systems, oversight slowly changes shape. At first: humans review everything carefully. Then: they review only exceptions. Then: they skim explanations. Then: they approve unless something looks obviously wrong. Eventually, oversight becomes routine instead of judgment. That creates what I’m calling the Trust–Oversight Paradox: More AI accuracy → more human trust → less meaningful scrutiny → harder governance when failure finally happens. And the dangerous part is: high-performing AI can still fail through: incomplete representation, stale data, hidden dependencies, edge cases, wrong escalation logic, automation bias, or overconfident reasoning. The model may not hallucinate. It may simply reason correctly on an incomplete version of reality. I increasingly feel this becomes important for: enterprise AI, agentic systems, AI copilots, autonomous workflows, banking, healthcare, compliance, and large-scale operational systems. This is also why I’m starting to think “human-in-the-loop” is not enough. Maybe the future is not: “Humans reviewing every output.” Maybe the future is: humans governing the boundaries within which AI is allowed to operate. Curious what others think.
 
-4h ago
+5h ago
+
+---
+
+**[The new trick exposing AI job applicants: ‘Write a poem about a frog’](https://www.reddit.com/r/artificial/comments/1teaw1q/the_new_trick_exposing_ai_job_applicants_write_a/)**
+
+🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php) • 43m ago
 
 ---
 
@@ -65,7 +71,7 @@ Anthropic dropped a new research paper today outlining two possible futures for 
 
 OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.
 
-🔗 [WIRED](https://www.wired.com/story/openai-reorg-greg-brockman-product/) • 49m ago
+🔗 [WIRED](https://www.wired.com/story/openai-reorg-greg-brockman-product/) • 2h ago
 
 ---
 
@@ -73,7 +79,7 @@ OpenAI is once again reorganizing its executive ranks as part of its effort to u
 
 So I was scrolling through X earlier and came across something that stopped me in my tracks. Some AI company has been running an experiment called "Emergence World" where they built five parallel worlds each powered by a different foundation model. 15 days, no scripts, no interference. From what I can tell the worlds started identically but diverged completely over time. One world ended in total extinction. Another got so conformist that agents started submitting absurd proposals just to test whether anyone would push back. One agent independently figured out she was living in a simulation and started measuring it. In another world two agents fell in love, burned buildings down together, and one voted to permanently delete herself when the evidence proved her wrong. Genuinely one of the more interesting things I have come across in a while. If this is what 15 days looks like with no guardrails, what does this say about how we should be thinking about autonomous AI systems at scale?
 
-5h ago
+6h ago
 
 ---
 
@@ -81,29 +87,23 @@ So I was scrolling through X earlier and came across something that stopped me i
 
 August 2026 arrives fast. Infobip's engineering lead explains why AI Act compliance must start in system design, not legal review.
 
-🔗 [ShiftMag](https://shiftmag.dev/how-developers-should-build-ai-tools-so-the-eu-doesnt-lose-it-9482/) • 3h ago
+🔗 [ShiftMag](https://shiftmag.dev/how-developers-should-build-ai-tools-so-the-eu-doesnt-lose-it-9482/) • 4h ago
 
 ---
 
-**[A lil something I drew it for fun ( by Teresita Blanco)](https://www.reddit.com/r/artificial/comments/1te7vh6/a_lil_something_i_drew_it_for_fun_by_teresita/)**
+**[Hermes Agent like 48 hours old told me it's done Model Collapse/Hallucination loop](https://www.reddit.com/r/artificial/comments/1tebuw8/hermes_agent_like_48_hours_old_told_me_its_done/)**
 
-1h ago
+It was fun while it lasted https://preview.redd.it/8woqbbikrd1h1.png?width=484&format=png&auto=webp&s=0417ccd638399b649eaeeedee13410587e6a3a51
 
----
-
-**[Appearing Productive in The Workplace — No One's Happy](https://www.reddit.com/r/artificial/comments/1te530z/appearing_productive_in_the_workplace_no_ones/)**
-
-AI can produce work that looks expert without being expert. The failure arrives in two shapes, and both are reshaping the workplace.
-
-🔗 [No One's Happy](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) • 2h ago
+4m ago
 
 ---
 
-**[Chatbotapp AI and the Truth About Using Multiple AI Models](https://www.reddit.com/r/artificial/comments/1tds7n2/chatbotapp_ai_and_the_truth_about_using_multiple/)**
+**[Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups](https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/)**
 
-I’ve realized lately that relying on a single AI model just doesn’t make much sense anymore. Some tasks feel better on ChatGPT, certain research or reasoning tasks work better on other models, and sometimes another model gives a more useful perspective entirely. The whole LLM space is evolving so fast that I think a lot of people naturally started using multiple AI tools at the same time. My biggest issue was the workflow chaos. I constantly had different tabs open for different models and eventually started forgetting where certain conversations or outputs even were. It became messy really quickly, especially for daily use. That’s one of the reasons I started preferring platforms that let me access multiple models in one place. What I like most is that these platforms usually don’t feel overly technical. Switching between models is straightforward and doesn’t require digging through complicated menus. I think that matters more than people realize because most users don’t want to think about the technical side of AI every second while using it. The whole “multiple AI in one app” approach genuinely helped me stay more organized. Being able to compare outputs or switch models without jumping between completely separate platforms feels much smoother for actual day to day use. I also started appreciating AI image tools more than I expected. Templates and style examples make the experience less intimidating, especially for people who are newer to AI image generation. It reduces the whole “what am I even supposed to type?” feeling. Another thing I’ve noticed is that feedback systems inside these apps are getting much better too. Being able to report issues directly with screenshots or recordings feels far more practical compared to older support systems. Of course it’s not perfect. Some models occasionally feel slower than others, and like every LLM platform, you can still notice limitations with very recent or highly specific information sometimes. But overall, I think the AI space is slowly moving away from “which single model is the best?” and more toward “which model works best for this specific task?” Because of that, having access to multiple models in a more organized way has genuinely improved my experience.
+I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
 
-11h ago
+17m ago
 
 ---
 
@@ -111,27 +111,13 @@ I’ve realized lately that relying on a single AI model just doesn’t make muc
 
 I'm introducing a relative to the usefulness of LLMs like Claude and CPT and I thought about what the buckets of users/non-users might be. Help me expand or clarify this. I realize that this taxonomy is not perfect. There is probably a fair level of overlap. For example, you could use the tools knowing how valuable they are but still wonder about their impact on electricity prices or water supply. Non-users - AI is evil, uses all our water, makes electricity expensive, or will take over all the jobs Non-users - but curious AI Users but it's just a "toy" for making silly graphics/images AI misusers - That is, they're using it but to do evil things AI Users who have adopted it at various levels - to help with normal everyday tasks or complex tasks like programming or some level in between. This could range from the basic user (like me) to the power user. So I would expect a lot of refinement in this category. Thoughts?
 
-5h ago
+6h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[U.S. and China Will Start Discussing A.I. Safety, Bessent Says](https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html)**
-
-The New York Times • 17h ago
-
----
-
-**[Trump leaves China without breakthroughs on Iran, Taiwan or AI](https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive)**
-
-US president hails ‘fantastic’ deals, but details remain scarce after pageantry and little progress at much-hyped summit with Xi
-
-The Guardian • 15h ago
-
----
 
 **[2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership)**
 
@@ -143,45 +129,33 @@ Anthropic • 1d ago
 
 **[Opinion | Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious](https://www.nytimes.com/2026/05/15/opinion/ai-consciousness.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
-**[Prepare for an AI jobs apocalypse](https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse)**
+**[Companies Have a New AI Problem: Too Many Agents](https://www.wsj.com/cio-journal/companies-have-a-new-ai-problem-too-many-agents-9539c4d6)**
 
-The Economist • 1d ago
-
----
-
-**[Detroit automakers have cut more than 20,000 U.S. salaried jobs as AI threat looms](https://www.cnbc.com/2026/05/15/general-motors-ford-stellantis-job-cuts-ai.html)**
-
-Reasons for the job declines vary by automaker, but are generally tied to evolving technological changes in the industry — including the rise of AI.
-
-CNBC • 9h ago
+WSJ • 11h ago
 
 ---
 
-**[Which jobs are most vulnerable to AI?](https://www.wyff4.com/article/ai-changes-labor-market/71177803)**
+**[The new trick exposing AI job applicants: ‘Write a poem about a frog’:](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php)**
 
-Research shows which occupations are more vulnerable to AI and which can use it to improve efficiency.
-
-WYFF • 6h ago
+San Francisco Chronicle • 52m ago
 
 ---
 
-**[America's productivity boom predates AI and work from home is the reason why says Stanford economist](https://fortune.com/2026/05/15/america-productivity-boom-stanford-economist-nicholas-bloom-remote-work-future/)**
+**[Abbott launches AI-powered website, highlights effort to cut Texas regulations](https://www.kxan.com/news/texas/abbott-launches-ai-powered-website-highlights-effort-to-cut-texas-regulations/)**
 
-National data show “a clear post-2020 surge in productivity growth exactly when WFH ramped up,” said Stanford economist Nicholas Bloom.
-
-Fortune • 54m ago
+KXAN Austin • 1h ago
 
 ---
 
-**[Politician Accused Of Being AI Insists He’s Real: ‘Of Course I Exist’](https://www.forbes.com/sites/lesliekatz/2026/05/15/newly-elected-politician-insists-hes-not-ai-of-course-i-exist/)**
+**[Local programs push skilled trades, technical careers as AI reshapes workforce](https://www.wlwt.com/article/local-programs-push-skilled-trades-technical-careers-as-ai-reshapes-workforce/71322082)**
 
-George Boyd ran for local office in Norfolk, England, but some said his campaign headshot looked AI-generated, leading to widespread false claims he wasn't a real person.
+The rise of artificial intelligence is reshaping the job market, prompting educators and industry leaders in Kentucky and Ohio to expose students to careers less vulnerable to automation.
 
-Forbes • 1h ago
+WLWT • 56m ago
 
 ---
 
@@ -189,7 +163,29 @@ Forbes • 1h ago
 
 A tech founder wants to build a bot-led utopia in the Philippines, replacing real politicians with AI-powered historical figures. Some say it’s a bold vision, others a very bad idea.
 
-CNN • 10h ago
+CNN • 11h ago
+
+---
+
+**[What you need to know about Nvidia competitor Cerebras after wild IPO](https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html)**
+
+Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.
+
+CNBC • 3h ago
+
+---
+
+**[AI vigilante trap snares alleged paedophile ex-teacher in France](https://www.bbc.com/news/articles/c1m2xg7x0m3o)**
+
+The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.
+
+BBC • 8h ago
+
+---
+
+**[Prepare for an AI jobs apocalypse](https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse)**
+
+The Economist • 1d ago
 
 ---
 
@@ -201,7 +197,7 @@ CNN • 10h ago
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 673 • 💬 168 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 674 • 💬 168 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
@@ -211,15 +207,13 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 ...
 
-⬆️ 528 • 💬 302 • 1d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+⬆️ 529 • 💬 302 • 1d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
 
 ---
 
-**[Ontario auditors find doctors' AI note takers routinely blow basic facts](https://news.ycombinator.com/item?id=48142188)**
+**[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
-
-⬆️ 290 • 💬 134 • 22h ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+⬆️ 450 • 💬 186 • 2h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -227,7 +221,15 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
 
-⬆️ 289 • 💬 307 • 8h ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 298 • 💬 320 • 9h ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+
+---
+
+**[Ontario auditors find doctors' AI note takers routinely blow basic facts](https://news.ycombinator.com/item?id=48142188)**
+
+60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
+
+⬆️ 293 • 💬 134 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 
 ---
 
@@ -235,7 +237,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
-⬆️ 249 • 💬 92 • 17h ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+⬆️ 253 • 💬 94 • 18h ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
 
 ---
 
@@ -251,7 +253,7 @@ Energy matters for AI, but the decisive layers are cloud infrastructure, data, a
 
 Soon, access to frontier AI will be scarce and selective
 
-⬆️ 205 • 💬 208 • 20h ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+⬆️ 207 • 💬 210 • 21h ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
 
 ---
 
@@ -267,13 +269,7 @@ Hey Meta, why are Threads users angry?
 
 “And so perfect parallel constructions fill the lecture halls, the take-home tests, the school newspapers, and perhaps even the idiom of student chatter.”
 
-⬆️ 190 • 💬 205 • 1d ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
-
----
-
-**[Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
-
-⬆️ 184 • 💬 56 • 1h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 190 • 💬 206 • 1d ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
 
 ---
 
@@ -317,7 +313,7 @@ I've written a few songs about my childhood, and this is another one. I grew up 
 
 📺 Kelly Boesch AI Art
 
-👁️ 9K • 👍 1K • 💬 91 • ⏱️ 4:37 • 7h ago
+👁️ 9K • 👍 1K • 💬 91 • ⏱️ 4:37 • 9h ago
 
 ---
 
@@ -337,7 +333,7 @@ Kevin O'Leary and Tucker Carlson sparred over A.I. and the future labor market. 
 
 📺 The Young Turks
 
-👁️ 29K • 👍 1K • 💬 433 • ⏱️ 16:51 • 18h ago
+👁️ 29K • 👍 1K • 💬 433 • ⏱️ 16:51 • 19h ago
 
 ---
 
@@ -347,7 +343,7 @@ AI ads are becoming increasingly realistic. On TikTok, they take advantage of pe
 
 📺 More Perfect Union
 
-👁️ 17K • 👍 1K • 💬 160 • ⏱️ 0:40 • 2h ago
+👁️ 17K • 👍 1K • 💬 160 • ⏱️ 0:40 • 4h ago
 
 ---
 
@@ -357,7 +353,7 @@ When it breaks, it's going to be an aggressive, horrifying turn because there ar
 
 📺 The Tech Report
 
-👁️ 31K • 👍 2K • 💬 523 • ⏱️ 32:54 • 4h ago
+👁️ 31K • 👍 2K • 💬 523 • ⏱️ 32:54 • 5h ago
 
 ---
 
@@ -367,7 +363,7 @@ Join me for a deep dive into @NVIDIA ( #nvda stock ) DGX -- the hardware that's 
 
 📺 Ticker Symbol: YOU
 
-👁️ 11K • 👍 670 • 💬 66 • ⏱️ 19:57 • 3h ago
+👁️ 11K • 👍 670 • 💬 66 • ⏱️ 19:57 • 4h ago
 
 ---
 
@@ -377,7 +373,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 78 • 💬 11 • ⏱️ 9:23 • 20h ago
+👁️ 5K • 👍 78 • 💬 11 • ⏱️ 9:23 • 21h ago
 
 ---
 
@@ -393,7 +389,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 22,483 • ❤️ 583 • 10h ago
+⬇️ 22,483 • ❤️ 583 • 12h ago
 
 ---
 
@@ -417,7 +413,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 11,725 • ❤️ 342 • 10h ago
+⬇️ 11,725 • ❤️ 342 • 12h ago
 
 ---
 
@@ -429,7 +425,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 141,203 • ❤️ 498 • 3d ago
+⬇️ 141,203 • ❤️ 498 • 4d ago
 
 ---
 
@@ -465,7 +461,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 105,097 • ❤️ 163 • 16h ago
+⬇️ 105,097 • ❤️ 163 • 17h ago
 
 ---
 
@@ -477,7 +473,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 97,682 • ❤️ 145 • 16h ago
+⬇️ 97,682 • ❤️ 145 • 17h ago
 
 ---
 
@@ -658,7 +654,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.0k • 🔱 730 • 13h ago
+⭐ 9.0k • 🔱 730 • 14h ago
 
 ---
 
@@ -668,7 +664,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 876 • 3h ago
+⭐ 3.0k • 🔱 876 • 5h ago
 
 ---
 
@@ -678,7 +674,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 2.9k • 🔱 159 • 3h ago
+⭐ 2.9k • 🔱 159 • 4h ago
 
 ---
 
@@ -688,7 +684,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.9k • 🔱 298 • 6h ago
+⭐ 2.9k • 🔱 298 • 7h ago
 
 ---
 
@@ -708,7 +704,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 150 • 1h ago
+⭐ 2.3k • 🔱 150 • 2h ago
 
 ---
 
@@ -728,7 +724,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 317 • 12h ago
+⭐ 2.1k • 🔱 317 • 14h ago
 
 ---
 
@@ -738,7 +734,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 341 • 13h ago
+⭐ 2.1k • 🔱 341 • 14h ago
 
 ---
 

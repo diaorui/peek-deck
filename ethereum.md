@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-15T21:34:12.946217+00:00'
+updated: '2026-05-15T22:55:30.814323+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 15, 2026 at 21:34 UTC  
+**Last Updated:** May 15, 2026 at 22:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
+**24h:** -2.6%  
 **7d:** -4.4%  
-**30d:** -5.4%  
-**90d:** +13.0%  
-**1y:** -12.4%  
+**30d:** -5.3%  
+**90d:** +13.1%  
+**1y:** -12.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 8h ago
 
 ---
 
@@ -88,13 +88,13 @@ Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgingt
 
 swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I s this expected at this size or did I mess something up?
 
-12h ago
+13h ago
 
 ---
 
 **[Without stablecoin treasury yield, defi is a proof that finance is zero sum](https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ My bank has flagged two of my transfers to a crypto exchange in the last three m
 
 JPMorgan analysts warned Ethereum could continue underperforming Bitcoin unless the network delivers stronger activity, DeFi growth and real-world adoption. Motley Fool analyst Dominic Basulto predicted ...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -166,6 +166,14 @@ CoinDesk • 2d ago
 
 ---
 
+**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
+
+Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
+
+TradingView • 5h ago
+
+---
+
 **[Sharplink CEO says ETH treasury firms are diverging from Strategy model as Ethereum's tokenization role expands](https://www.theblock.co/post/401288/sharplink-ceo-says-eth-treasury-firms-are-diverging-from-strategy-model-as-ethereums-tokenization-role-expands)**
 
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
@@ -174,19 +182,11 @@ The Block • 1d ago
 
 ---
 
-**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
-
-Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
-
-TradingView • 4h ago
-
----
-
 **[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
 
 Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
@@ -194,7 +194,7 @@ FXStreet • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
@@ -202,13 +202,13 @@ Fortune • 5h ago
 
 Ethereum's new Clear Signing standard, based on ERC-7730, converts raw transaction data into human-readable descriptions to combat blind signing and phishing.
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 16h ago
 
 ---
 
 **[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
 
-Coinpedia • 20h ago
+Coinpedia • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 4K • 👍 163 • 💬 43 • ⏱️ 1:05:23 • 11h ago
+👁️ 4K • 👍 163 • 💬 43 • ⏱️ 1:05:23 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 68 • 💬 69 • ⏱️ 23:46 • 21h ago
+👁️ 2K • 👍 68 • 💬 69 • ⏱️ 23:46 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 348 • 👍 13 • 💬 2 • ⏱️ 4:37 • 11h ago
+👁️ 348 • 👍 13 • 💬 2 • ⏱️ 4:37 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 519 • 👍 29 • 💬 3 • ⏱️ 13:36 • 8h ago
+👁️ 519 • 👍 29 • 💬 3 • ⏱️ 13:36 • 9h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN DUMP & PUMP: LIQUIDATIONS COMING SOON!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 275 • 💬 214 • ⏱️ 16:42 • 18h ago
+👁️ 7K • 👍 275 • 💬 214 • ⏱️ 16:42 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum's DeFi foundation is cracking, and the hack data makes it impossible to
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 80 • 👍 3 • 💬 1 • ⏱️ 1:01 • 1h ago
+👁️ 80 • 👍 3 • 💬 1 • ⏱️ 1:01 • 2h ago
 
 ---
 
