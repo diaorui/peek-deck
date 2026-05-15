@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-15T15:00:45.724709+00:00'
+updated: '2026-05-15T16:57:56.106106+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 15, 2026 at 15:00 UTC  
+**Last Updated:** May 15, 2026 at 16:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Just finished putting together the first prototype of my robot project. It uses esp32s3 as the main controller and a xiao esp32s3 cam to stream camera and microphone feed. The leg mechanism is based on the strandbeest linkage and it is controlled by two nema17 steppers run by tmc2209 drivers. It also has a fan internally to keep temps adequate. As for sensors it has a TOF sensor to measure distance from objects and an IMU to detect its movement. The end goal is to make an open source companion robot that acts and feels alive by responding and viewing the world being powered by modern AI crap as you guys know it’s getting pushed everywhere, at least I’m giving it a physical body.
 
-29m ago
+2h ago
+
+---
+
+**[now i must find a place to put in on the robot](https://www.reddit.com/r/robotics/comments/1tdxk1c/now_i_must_find_a_place_to_put_in_on_the_robot/)**
+
+2h ago
 
 ---
 
@@ -44,31 +50,25 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 We're open-sourcing stack to benefit open-source and leading robotics labs both. Project Stera includes Stera-10M, with 10M+ frames of long-horizon data with persistent state tracking, and an open-source pipeline that converts raw data into training-ready formats. The next generation of embodied AI models needs more than pixels - they need synchronized spatial, semantic, temporal, and action-rich knowledge captured in an environment turned into 4D data and this infra is open today. Read the full essay here: https://www.fpvlabs.ai/essays/launching-stera Happy to answer any technical questions too.
 
-1h ago
-
----
-
-**[now i must find a place to put in on the robot](https://www.reddit.com/r/robotics/comments/1tdxk1c/now_i_must_find_a_place_to_put_in_on_the_robot/)**
-
-49m ago
-
----
-
-**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx5lc/kinect_depth_camera_works_with_my_robot/)**
-
-1h ago
-
----
-
-**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx2l8/kinect_depth_camera_works_with_my_robot/)**
-
-1h ago
+3h ago
 
 ---
 
 **[Camera gimbal](https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/)**
 
-5h ago
+7h ago
+
+---
+
+**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx5lc/kinect_depth_camera_works_with_my_robot/)**
+
+3h ago
+
+---
+
+**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx2l8/kinect_depth_camera_works_with_my_robot/)**
+
+3h ago
 
 ---
 
@@ -76,7 +76,7 @@ We're open-sourcing stack to benefit open-source and leading robotics labs both.
 
 Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300W power bank I’m running into undervoltage warnings on a Raspberry Pi 5 during heavy servo activity, even though the setup is powered from a high-power UGREEN 300W power bank. Current setup Raspberry Pi 5 powered from: UGREEN 300W 48000mAh power bank 140W USB-C PD port Two Waveshare servo driver boards powered separately from: two independent 100W USB-C ports of Power bank (With USB-C → 12V barrel adapters) Connected hardware 17 servos total (9 + 8) Intel RealSense camera Anker USB hub 2 additional cameras The Pi is connected to the servo drivers and cameras only for data communication. Problem When multiple servos move simultaneously (especially while cameras are active), the Pi reports: "Undervoltage detected!" What I already tried To reduce voltage drops, I added: XY-3606 buck converter (12V → 5V 5A) 2200uF capacitors on both servo driver power inputs New power path: UGREEN 140W USB-C port → USB-C to 12V barrel adapter → XY-3606 buck converter → two cut wires of USB-C cable → Raspberry Pi 5 This significantly reduced undervoltage events, but occasional warnings still still happen during heavy servo motion. Important observation Using the official Raspberry Pi power adapter(5V/3A) does NOT produce undervoltage warnings. Would appreciate any guidance from people who’ve dealt with Pi 5 power stability or servo-heavy robotics setups.
 
-4h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300
 
 SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
 
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 18h ago
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 20h ago
 
 ---
 
@@ -98,7 +98,7 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 **[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -106,67 +106,15 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 ## Google News: "robotics"
 
-**[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
-
-Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
-
-Global Times • 3d ago
-
----
-
-**[After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show](https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html)**
-
-Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
-
-Yahoo Finance • 2d ago
-
----
-
-**[Faraday Future Signs MOU With RobotShop To Expand EAI Robotics Distribution](https://pulse2.com/faraday-future-signs-mou-with-robotshop-to-expand-eai-robotics-distribution/)**
-
-Faraday Future announced that its FF AI-Robotics division has signed a memorandum of understanding with RobotShop, marking RobotShop as the company’s first FF PAR partner in the Embodied AI robotics category.
-
-Pulse 2.0 • 23m ago
-
----
-
-**[WIRobotics: About $68 Million Series B Raised To Advance Humanoid Robotics And Physical AI](https://pulse2.com/wirobotics-about-68-million-series-b-raised-to-advance-humanoid-robotics-and-physical-ai/)**
-
-WIRobotics announced it has secured KRW 95 billion (approximately USD 68 million) in Series B funding as the company accelerates development of its humanoid robotics and Physical AI technologies. The financing comes about two years after the company’s KRW 13 billion Series A round in March 2024 and reflects increasing investor confidence in WIRobotics’ commercialization strategy and next-generation robotics platform.
-
-Pulse 2.0 • 57m ago
-
----
-
-**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
-
-eWeek • 20h ago
-
----
-
-**[LAHS 2026 Graduating Senior Alessandra Valencia Heads To Texas Tech University To Major In Mechanical Engineering, Minor In Robotics, AI, And Mathematics](https://losalamosreporter.com/2026/05/14/lahs-2026-graduating-senior-alessandra-valencia-heads-to-texas-tech-university-to-major-in-mechanical-engineering-minor-in-robotics-ai-and-mathematics/)**
-
-Los Alamos Reporter • 20h ago
-
----
-
-**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
-
-Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
-
-NBC News • 15h ago
-
----
-
 **[Rivian CEO’s Robotics Company Raises $400 Million](https://www.wsj.com/business/autos/rivian-ceos-robotics-spinoff-raises-400-million-4c54a9a0)**
 
 WSJ • 2d ago
 
 ---
 
-**[Mind Robotics raises $400M to scale AI-powered robots in manufacturing](https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/)**
+**[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
 
-The Robot Report • 1d ago
+eWeek • 1h ago
 
 ---
 
@@ -174,7 +122,63 @@ The Robot Report • 1d ago
 
 Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
+
+---
+
+**[Why Ouster’s New Color LiDAR Could Change Robotics Forever](https://www.cheddar.com/media/why-ousters-new-color-lidar-could-change-robotics-forever/)**
+
+Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
+
+cheddar.com • 1d ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
+
+Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
+
+NBC News • 1h ago
+
+---
+
+**[LAHS 2026 Graduating Senior Alessandra Valencia Heads To Texas Tech University To Major In Mechanical Engineering, Minor In Robotics, AI, And Mathematics](https://losalamosreporter.com/2026/05/14/lahs-2026-graduating-senior-alessandra-valencia-heads-to-texas-tech-university-to-major-in-mechanical-engineering-minor-in-robotics-ai-and-mathematics/)**
+
+Los Alamos Reporter • 22h ago
+
+---
+
+**[‘Uncharted territory’: Figure AI humanoid robots hit 24/7 nonstop work milestone](https://interestingengineering.com/ai-robotics/figure-ai-humanoids-24-hour-autonomous-run)**
+
+Figure AI says its humanoid robots completed over 24 hours of nonstop autonomous work using Helix-02 AI.
+
+Interesting Engineering • 17h ago
+
+---
+
+**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
+
+Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
+
+ABC News - Breaking News, Latest News and Videos • 20h ago
+
+---
+
+**[Carnegie Mellon graduates its first student with a bachelor’s degree in robotics](https://www.post-gazette.com/news/education/2026/05/14/carnegie-mellon-robotics-undergraduate/stories/202605130058)**
+
+Bev Da Costa was alone in her section during Carnegie Mellon University’s commencement last weekend.
+She was making school history.
+Da Costa became...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[China Is Preparing for a Robot-Led Taiwan Invasion](https://nationalinterest.org/blog/techland/china-is-preparing-for-a-robot-led-taiwan-invasion)**
+
+China’s use of military robotics is a warning to the United States and Taiwan to accelerate robotics deployment and counter-robotics defenses to preserve deterrence.
+
+The National Interest • 1h ago
 
 ---
 
@@ -208,7 +212,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 36K • 👍 398 • 💬 143 • ⏱️ 3:00 • 15h ago
+👁️ 36K • 👍 398 • 💬 143 • ⏱️ 3:00 • 17h ago
 
 ---
 
@@ -218,7 +222,7 @@ Watch a team of humanoid robots running a full 8-hr shift at human performance l
 
 📺 Figure
 
-👁️ 1.1M • 👍 23K • 1d ago
+👁️ 1.1M • 👍 23K • 2d ago
 
 ---
 

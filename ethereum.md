@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-15T15:00:45.721561+00:00'
+updated: '2026-05-15T16:57:56.103002+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 15, 2026 at 15:00 UTC  
+**Last Updated:** May 15, 2026 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,304.72
+### $2,210.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -4.8%  
-**30d:** -5.7%  
-**90d:** +12.6%  
-**1y:** -12.7%  
+**24h:** -3.8%  
+**7d:** -4.4%  
+**30d:** -5.4%  
+**90d:** +13.1%  
+**1y:** -12.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 27m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 2h ago
 
 ---
 
@@ -88,13 +88,13 @@ Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgingt
 
 swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I s this expected at this size or did I mess something up?
 
-5h ago
+7h ago
 
 ---
 
 **[Without stablecoin treasury yield, defi is a proof that finance is zero sum](https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -142,7 +142,7 @@ Turning consensus research into practice. We design, analyze, and formally verif
 
 My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ My bank has flagged two of my transfers to a crypto exchange in the last three m
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 46m ago
+Fortune • 1h ago
 
 ---
 
@@ -162,7 +162,7 @@ Fortune • 46m ago
 
 Ethereum (ETH) is attempting to recover above the $2,300 level on Friday after a week of declining network activity.At press time, Ether is trading at $2,238, down by 1% in the last 24 hours.However, the coin could reverse the decline and surge amid improved network activity.Ethereum’s active addre…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ TradingView • 1h ago
 
 Bit Digital Inc (NASDAQ:BTBT) reported first-quarter 2026 revenue of $27.9 million as the company deepened its pivot toward Ethereum treasury management and artificial intelligence infrastructure through its majority-owned subsidiary WhiteFiber (Nasdaq: WYFI). As of March 31, 2026, Bit...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +186,23 @@ CoinDesk • 1d ago
 
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
-The Block • 22h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-15-2026-prices-open-higher-but-slipping-this-morning-111851137.html)**
+
+Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $80,596.43 by 7:10 a.m ET. Ethereum opened at $2,282.46 on Friday, up 1.1% from Thursday’s open. The value of ethereum was down as of 7:10 a.m. ET, at $2,257.73.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[JPMorgan launching second tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum)**
+
+The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
+
+The Block • 2d ago
 
 ---
 
@@ -198,31 +214,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity](https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto)**
-
-That is "unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications," the analysts said.
-
-The Block • 21h ago
-
----
-
 **[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/)**
 
-CCN.com • 6h ago
+CCN.com • 8h ago
 
 ---
 
-**[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
+**[Ethereum introduces clear signing standard for human-readable transactions](https://cryptobriefing.com/ethereum-clear-signing-standard/)**
 
-Coinpedia • 13h ago
+Ethereum's new Clear Signing standard, based on ERC-7730, converts raw transaction data into human-readable descriptions to combat blind signing and phishing.
 
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Jump After Crypto Act Passes Key Senate Vote: Analyst Says BTC 'Positioned' For A Rebound Toward $86,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015048079.html)**
-
-Leading cryptocurrencies were up in the green on Thursday after the Clarity Act passed the Senate Banking Committee on a bipartisan vote. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:05 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.46%$81,561.50Ethereum (CRYPTO: ETH) +1.18%$2,293.12XRP (CRYPTO: XRP) +4.49%$1.49Solana (CRYPTO: SOL) +1.33%$92.42Dogecoin (CRYPTO: DOGE) +2.10%$0.1167 Crypto Market Pops Bitcoin hit $82,000 in the afternoon, then stalled and moved sideways. The trading volume soared 27% in
-
-Yahoo Finance • 13h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -236,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 384 • 💬 56 • ⏱️ 18:57 • 22h ago
+👁️ 11K • 👍 384 • 💬 56 • ⏱️ 18:57 • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 61 • 💬 20 • ⏱️ 23:46 • 15h ago
+👁️ 2K • 👍 61 • 💬 20 • ⏱️ 23:46 • 17h ago
 
 ---
 
@@ -256,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 205 • 👍 10 • 💬 2 • ⏱️ 4:37 • 5h ago
+👁️ 205 • 👍 10 • 💬 2 • ⏱️ 4:37 • 7h ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN DUMP & PUMP: LIQUIDATIONS COMING SOON!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 265 • 💬 167 • ⏱️ 16:42 • 11h ago
+👁️ 6K • 👍 265 • 💬 167 • ⏱️ 16:42 • 13h ago
 
 ---
 
@@ -276,7 +278,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 423 • 💬 56 • ⏱️ 26:03 • 18h ago
+👁️ 4K • 👍 423 • 💬 56 • ⏱️ 26:03 • 20h ago
 
 ---
 
@@ -286,7 +288,7 @@ This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NO
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 20 • ⏱️ 4:30 • 1d ago
+👁️ 10K • 👍 2K • 💬 20 • ⏱️ 4:30 • 2d ago
 
 ---
 
@@ -296,7 +298,7 @@ At just 19, he stepped into the world of tech and changed everything. ⚡ He bec
 
 📺 Life in Focus
 
-👁️ 4K • 👍 143 • ⏱️ 0:11 • 1h ago
+👁️ 4K • 👍 143 • ⏱️ 0:11 • 3h ago
 
 ---
 
@@ -306,7 +308,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 2K • 👍 109 • 💬 12 • ⏱️ 1:05:23 • 4h ago
+👁️ 2K • 👍 109 • 💬 12 • ⏱️ 1:05:23 • 6h ago
 
 ---
 
@@ -324,7 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 80 • 💬 8 • ⏱️ 7:18 • 12h ago
+👁️ 1K • 👍 80 • 💬 8 • ⏱️ 7:18 • 14h ago
 
 ---
 

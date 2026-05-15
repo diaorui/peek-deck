@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-15T15:00:45.707207+00:00'
+updated: '2026-05-15T16:57:56.088860+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 15, 2026 at 15:00 UTC  
+**Last Updated:** May 15, 2026 at 16:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 1h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 Anthropic dropped a new research paper today outlining two possible futures for global AI leadership by 2028, and it reads more like a geopolitical briefing than a typical AI safety paper. The core argument: The US currently has a meaningful lead over China in frontier AI, primarily because of compute (chips). American and allied companies (NVIDIA, TSMC, ASML, etc.) built technology China simply can't replicate yet. Export controls have made that gap real. But China's labs have stayed surprisingly close through two workarounds: Chip smuggling + overseas data center access - PRC labs are apparently training on export-controlled US chips they shouldn't have. A Supermicro co-founder was recently charged for diverting $2.5B worth of servers to China. Distillation attacks - creating thousands of fake accounts on US AI platforms, harvesting model outputs at scale, and using that to train their own models. Essentially free-riding on billions in US R&D. The two scenarios for 2028: Scenario 1 (good): US closes the loopholes, enforces export controls properly, the compute gap widens to 11x, and US models stay 12-24 months ahead. Democracies set the norms for how AI is governed globally. Scenario 2 (bad): US doesn't act, China reaches near-parity, floods global markets with cheaper models, and the CCP ends up shaping global AI norms, including potentially exporting AI-enabled surveillance tools to other authoritarian governments. What makes this interesting beyond the politics: Their new model, Mythos Preview (released to select partners in April), apparently let Firefox fix more security bugs in one month than in all of 2025. That's the kind of capability jump they're warning China shouldn't be the first to achieve, specifically around autonomous vulnerability discovery. The framing worth discussing: Anthropic is explicitly calling distillation attacks "industrial espionage" and pushing for legislation to criminalize them. This positions them as political actors, not just AI researchers. Whether that's appropriate for an AI lab is a conversation worth having. What do you think - is the compute gap as decisive as they claim, or is algorithmic innovation enough to close it?
 
-19h ago
+21h ago
 
 ---
 
@@ -57,15 +57,31 @@ Anthropic dropped a new research paper today outlining two possible futures for 
 
 I’ve realized lately that relying on a single AI model just doesn’t make much sense anymore. Some tasks feel better on ChatGPT, certain research or reasoning tasks work better on other models, and sometimes another model gives a more useful perspective entirely. The whole LLM space is evolving so fast that I think a lot of people naturally started using multiple AI tools at the same time. My biggest issue was the workflow chaos. I constantly had different tabs open for different models and eventually started forgetting where certain conversations or outputs even were. It became messy really quickly, especially for daily use. That’s one of the reasons I started preferring platforms that let me access multiple models in one place. What I like most is that these platforms usually don’t feel overly technical. Switching between models is straightforward and doesn’t require digging through complicated menus. I think that matters more than people realize because most users don’t want to think about the technical side of AI every second while using it. The whole “multiple AI in one app” approach genuinely helped me stay more organized. Being able to compare outputs or switch models without jumping between completely separate platforms feels much smoother for actual day to day use. I also started appreciating AI image tools more than I expected. Templates and style examples make the experience less intimidating, especially for people who are newer to AI image generation. It reduces the whole “what am I even supposed to type?” feeling. Another thing I’ve noticed is that feedback systems inside these apps are getting much better too. Being able to report issues directly with screenshots or recordings feels far more practical compared to older support systems. Of course it’s not perfect. Some models occasionally feel slower than others, and like every LLM platform, you can still notice limitations with very recent or highly specific information sometimes. But overall, I think the AI space is slowly moving away from “which single model is the best?” and more toward “which model works best for this specific task?” Because of that, having access to multiple models in a more organized way has genuinely improved my experience.
 
-4h ago
+6h ago
 
 ---
 
-**[I’ve been experimenting with these new “AI video agents” lately and I honestly think they’re getting closer to replacing a big part of the normal editing workflow.](https://www.reddit.com/r/artificial/comments/1tdynb5/ive_been_experimenting_with_these_new_ai_video/)**
+**[The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing It](https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/)**
 
-For the last couple of months I’ve been drowning in timelines between CapCut and Premiere. Not even because editing is hard, but because the repetitive stuff eats so much time. Cutting pauses, finding decent hooks, adding captions, trying different pacing. After a while it starts feeling less creative and more like assembly line work. I tried tools like Descript and Opus before and they were useful, but most AI editors still feel like regular editing software with a few AI buttons added on top. Then I randomly found Nemo Video and the experience felt weirdly different. Instead of dragging clips around a timeline, you basically talk to it. I uploaded a long talking-head video and typed something like: “Cut the slow parts, keep the emotional moments, add cinematic transitions where the energy spikes.” I expected generic edits, but it actually understood the flow better than I thought. The thing that surprised me most was the “agent” style workflow. It almost feels less like software and more like giving instructions to a junior editor. It can even pull inspiration ideas and suggest hooks based on the type of content you’re making. A few things I liked: • SmartPick was actually decent at finding usable highlights from long footage • Captions, cleanup, and b-roll suggestions happen in the same conversation • It removes a lot of the boring micro-editing work A few things still feel rough: • If you love full manual control, the no-timeline approach feels strange at first • AI-generated b-roll sometimes misses the exact vibe unless you re-prompt it I’m not saying traditional editors are dead tomorrow, but this honestly feels like the first time AI editing stopped feeling like a gimmick and started feeling like an actual workflow shift. Curious where everyone stands on this now. Are people still sticking with classic timelines, or are these “agentic” editors starting to win you over too?
+I think one of the biggest AI risks may be starting to flip. Earlier, the fear was: “What if AI is wrong too often?” But now I think the deeper risk may become: “What happens when AI becomes right often enough that humans stop meaningfully questioning it?” In many enterprise systems, oversight slowly changes shape. At first: humans review everything carefully. Then: they review only exceptions. Then: they skim explanations. Then: they approve unless something looks obviously wrong. Eventually, oversight becomes routine instead of judgment. That creates what I’m calling the Trust–Oversight Paradox: More AI accuracy → more human trust → less meaningful scrutiny → harder governance when failure finally happens. And the dangerous part is: high-performing AI can still fail through: incomplete representation, stale data, hidden dependencies, edge cases, wrong escalation logic, automation bias, or overconfident reasoning. The model may not hallucinate. It may simply reason correctly on an incomplete version of reality. I increasingly feel this becomes important for: enterprise AI, agentic systems, AI copilots, autonomous workflows, banking, healthcare, compliance, and large-scale operational systems. This is also why I’m starting to think “human-in-the-loop” is not enough. Maybe the future is not: “Humans reviewing every output.” Maybe the future is: humans governing the boundaries within which AI is allowed to operate. Curious what others think.
 
-9m ago
+1m ago
+
+---
+
+**[AI Community "buckets"](https://www.reddit.com/r/artificial/comments/1te12a7/ai_community_buckets/)**
+
+I'm introducing a relative to the usefulness of LLMs like Claude and CPT and I thought about what the buckets of users/non-users might be. Help me expand or clarify this. I realize that this taxonomy is not perfect. There is probably a fair level of overlap. For example, you could use the tools knowing how valuable they are but still wonder about their impact on electricity prices or water supply. Non-users - AI is evil, uses all our water, makes electricity expensive, or will take over all the jobs Non-users - but curious AI Users but it's just a "toy" for making silly graphics/images AI misusers - That is, they're using it but to do evil things AI Users who have adopted it at various levels - to help with normal everyday tasks or complex tasks like programming or some level in between. This could range from the basic user (like me) to the power user. So I would expect a lot of refinement in this category. Thoughts?
+
+41m ago
+
+---
+
+**[Has anyone come across this AI civilisation experiment? Curious what people think](https://www.reddit.com/r/artificial/comments/1te0p1f/has_anyone_come_across_this_ai_civilisation/)**
+
+So I was scrolling through X earlier and came across something that stopped me in my tracks. Some AI company has been running an experiment called "Emergence World" where they built five parallel worlds each powered by a different foundation model. 15 days, no scripts, no interference. From what I can tell the worlds started identically but diverged completely over time. One world ended in total extinction. Another got so conformist that agents started submitting absurd proposals just to test whether anyone would push back. One agent independently figured out she was living in a simulation and started measuring it. In another world two agents fell in love, burned buildings down together, and one voted to permanently delete herself when the evidence proved her wrong. Genuinely one of the more interesting things I have come across in a while. If this is what 15 days looks like with no guardrails, what does this say about how we should be thinking about autonomous AI systems at scale?
+
+54m ago
 
 ---
 
@@ -73,15 +89,15 @@ For the last couple of months I’ve been drowning in timelines between CapCut a
 
 Podcast episode with Jaron Lanier, pioneer of virtual reality and scientist at Microsoft Research. He proposes a radically different way of thinking about AI, and unpacks its consequences from AI safety to the future of the economy. Highlights: The case for thinking of AI not as an alien intelligence, but rather as a collaboration of human data How this reframe helps you understand the failures of current AI systems, and why so many of the industry's most powerful figures seem to be losing their grip on reality A practical approach to AI safety inspired by multi-factor authentication in cybersecurity Why universal basic income is unstable, and why a creativity economy (where people earn from their contributions to AI) could be a better way of distributing the benefits of AI How to be an optimist about technological progress while acknowledging the risks and being critical of certain developments Why history gives us the most rational grounds for optimism about our future with AI
 
-🔗 [existentialhope.com](https://www.existentialhope.com/podcasts/jaron-lanier) • 12m ago
+🔗 [existentialhope.com](https://www.existentialhope.com/podcasts/jaron-lanier) • 2h ago
 
 ---
 
 **[I got tired of having 7+ different tabs open every morning just to follow AI news, so I built AIWire](https://www.reddit.com/r/artificial/comments/1tdxjsz/i_got_tired_of_having_7_different_tabs_open_every/)**
 
-Every morning: check Twitter for what dropped overnight, open The Verge, check Anthropic's blog, OpenAI's blog, go through a couple of newsletters, maybe catch a YouTube video from Andrej Karpathy or AI Explained if I had time. None of it was in one place. I was spending 45 minutes just catching up before I could think about anything else. So I built AIWire. It is a free, real time AI news aggregator. One feed, 20+ handpicked sources, updates every 30 minutes. free, no algorithm deciding what you see, no ads. Just the latest from sources I actually trust. __________________________________________________________________________________________________ What I was trying to solve The problem wasn't that good AI coverage and news doesn't exist. It's everywhere. The problem is that it's scattered. You have to know which sources are worth checking, remember to check them, and then piece together the picture yourself. That's a lot of cognitive load before you've even read anything. AIWire doesn't summarize or edit articles. It just puts everything in one place and lets you decide what matters. __________________________________________________________________________________________________ Sources it pulls from: Labs: OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI Media: MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica YouTube: Andrej Karpathy, AI Explained, Two Minute Papers Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites Full list at aiwire.app/sources __________________________________________________________________________________________________ What I learned building it Source curation is harder than it sounds. The temptation is to add more sources to look comprehensive. The smarter decision is staying strict: only sources that consistently publish signal over noise. A feed with 50 sources that includes 30 mediocre ones is worse than a feed with 20 good ones. Where it is now Over the last few weeks, I added more sources, which include The Innermost Loop and AI explained. Last week, I launched a weekly newsletter: 5 stories that mattered this week, with a short breakdown of why each one matters. Not just headlines, but with context. Takes about 5 minutes to read, and you're caught up. __________________________________________________________________________________________________ Honest question What sources do you think are missing? And for those of you who already have a routine for following AI news, what would actually make something like this worth adding to it? Genuinely curious. Building in public means the product gets better when people are honest about what's wrong with it. 🔗 aiwire.app
+Every morning: check Twitter for what dropped overnight, open The Verge, check Anthropic's blog, OpenAI's blog, go through a couple of newsletters, maybe catch a YouTube video from Andrej Karpathy or AI Explained if I had time. None of it was in one place. I was spending 45 minutes just catching up before I could think about anything else. So I built AIWire. It is a free, real time AI news aggregator. One feed, 20+ handpicked sources, updates every 30 minutes. free, no algorithm deciding what you see, no ads. Just the latest from sources I actually trust. __________________________________________________________________________________________________ What I was trying to solve The problem wasn't that good AI coverage and news doesn't exist. It's everywhere. The problem is that it's scattered. You have to know which sources are worth checking, remember to check them, and then piece together the picture yourself. That's a lot of cognitive load before you've even read anything. AIWire doesn't summarize or edit articles. It just puts everything in one place and lets you decide what matters. __________________________________________________________________________________________________ Sources it pulls from: Labs: OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI Media: MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica YouTube: Andrej Karpathy, AI Explained, Two Minute Papers Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites Full list at aiwire.app/sources __________________________________________________________________________________________________ Where it is now Over the last few weeks, I added more sources, which include The Innermost Loop and AI explained. Last week, I launched a weekly newsletter: 5 stories that mattered this week, with a short breakdown of why each one matters. Not just headlines, but with context. Takes about 5 minutes to read, and you're caught up. __________________________________________________________________________________________________ Honest question What sources do you think are missing? And for those of you who already have a routine for following AI news, what would actually make something like this worth adding to it? Genuinely curious. Building in public means the product gets better when people are honest about what's wrong with it. 🔗 aiwire.app
 
-🔗 [aiwire.app](https://www.aiwire.app/) • 49m ago
+🔗 [aiwire.app](https://www.aiwire.app/) • 2h ago
 
 ---
 
@@ -89,7 +105,7 @@ Every morning: check Twitter for what dropped overnight, open The Verge, check A
 
 I’ve been working on an open-source document format / viewer idea I’m calling Adaptive Markdown. The basic idea is: instead of a document being static text it's controlled by coding agents. You interact with the document more like a live workspace. This has different implications depending on what you are doing. I made a short video demo here: https://youtu.be/H4MnFs8irm8 The thing I’m most excited about is academic / technical reading. In a few years I don’t think people will just read papers passively. I think they’ll translate passages, ask questions, generate examples, explore alternate proofs, run code, attach notes, convert math to Lean when possible, and keep all of that inside the document instead of scattered across chats and notebooks. This is trivial to do inside a browser with coding agent that has access to JS, CSS etc. Some possible use cases I’m thinking about: -Turning articles and books into personalized learning objects - lecture notes with automatically maintained structure -documents with embedded code, tables, consoles, images, audio, or video -AI-generated alt text and descriptions Incorporate Adaptive Markdown into automated work flows eventually, things like automatically recording audio in lectures and taking a picture of a blackboard and turning it into LaTeX notes inside the document It’s very early, but the workflow already feels surprisingly useful to me. GitHub: https://github.com/SemiSimpleMath/Adaptive-Markdown Curious whether this seems useful to anyone else, or whether I’m just overexcited because I built it. So far it's only configured for Anthropic coding-agent SDK, but in couple of days we will have it running on Codex as well.
 
-13h ago
+15h ago
 
 ---
 
@@ -101,22 +117,6 @@ An AWS user just stared down a $30,000 invoice after a Claude adventure on Bedro
 
 ---
 
-**[I think “human-in-the-loop” may become one of the biggest governance illusions in enterprise AI](https://www.reddit.com/r/artificial/comments/1td300k/i_think_humanintheloop_may_become_one_of_the/)**
-
-Most enterprises currently believe they have a governance strategy for AI: “If something risky happens, a human will review it.” Sounds reasonable. But I think there’s a deeper structural problem emerging as AI systems move from recommendation → execution. Because modern AI systems don’t just generate answers anymore. Increasingly, they also: classify risk, estimate confidence, decide whether escalation is needed, determine what gets surfaced to humans, and silently handle everything else. Which creates a strange loop: The system being governed is also deciding when governance should begin. That feels like a very different problem from traditional software oversight. And I think this becomes dangerous because many failures may not even look like “AI hallucinations.” Sometimes the reasoning may be completely coherent… …but based on incomplete or incorrect representation of reality. Examples: stale customer state, merged identities, missing policy exceptions, incomplete operational context, outdated inventory state, hidden dependency failures, edge cases the AI never surfaced. In those cases, humans reviewing only the final output may miss the actual problem entirely. Another tension: If humans review everything → governance doesn’t scale. If humans review only what AI escalates → governance becomes dependent on AI self-reporting. That seems like a major architectural tension nobody has fully solved yet. I’m starting to think the future role of humans in enterprise AI may not be: “approve every AI output.” Instead, it may become: defining autonomy boundaries, deciding where escalation is mandatory, governing reversibility, auditing representation quality, handling ambiguity and institutional legitimacy, and deciding where AI should NOT act autonomously. In other words: less “human-in-the-loop” and more “human-governed autonomy.” Curious how others here think about this. Especially people building: agentic systems, enterprise copilots, workflow automation, AI operations, autonomous agents, or governance architectures.
-
-22h ago
-
----
-
-**[6 months of tracking our brand in AI answers - what I actually learned](https://www.reddit.com/r/artificial/comments/1tdm116/6_months_of_tracking_our_brand_in_ai_answers_what/)**
-
-Started this experiment when I noticed AI search affecting our inbound. Tracked manually for 2 months (painful). Switched to LLMClicks.ai for the last 4 months (much better). What I found: AI visibility fluctuates way more than Google rankings Different platforms cite us differently for similar queries The content that gets us cited is NOT our most SEO-optimized content Reddit and community mentions directly correlate with AI citations The brands winning at AI visibility are doing something fundamentally different than traditional SEO. Happy to share more specifics if useful to anyone here.
-
-10h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,45 +125,35 @@ Started this experiment when I noticed AI search affecting our inbound. Tracked 
 
 As AI automates the tasks that once defined first jobs, higher education must rethink how it delivers real-world experience—before students ever graduate.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[‘I didn’t want to be the guinea pig’: inside tech’s AI-fueled manager purge](https://www.theguardian.com/technology/2026/may/15/ai-manager-purge-tech)**
+**[UCF Commencement Speaker Draws Boos After A.I. Remarks](https://www.nytimes.com/2026/05/14/style/ucf-commencement-ai-booed-gloria-caulfield.html)**
 
-Tech workers say AI-driven restructurings are eroding mentorship, support and paths to promotion across Silicon Valley
-
-The Guardian • 3h ago
+The New York Times • 1d ago
 
 ---
 
-**[Germany’s spy agency picks French AI firm over Palantir](https://www.politico.eu/article/germany-spy-agency-picks-france-ai-firm-over-palantir/)**
+**[Jim Cramer says it's time to trim this volatile AI chipmaker](https://www.cnbc.com/2026/05/15/jim-cramer-says-its-time-to-trim-this-volatile-ai-chipmaker-.html)**
 
-The move comes as German officials push for homegrown alternatives in sensitive security systems.
+The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-politico.eu • 1h ago
-
----
-
-**[AI vigilante trap snares alleged paedophile ex-teacher in France](https://www.bbc.com/news/articles/c1m2xg7x0m3o)**
-
-The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.
-
-BBC • 34m ago
+CNBC • 47m ago
 
 ---
 
-**[Applied Materials Q2 2026 earnings beat on AI demand](https://qz.com/applied-materials-earnings-chip-equipment-outlook-ai-demand-051526)**
+**[How AI data center developers use shell LLCs and NDAs for secrecy](https://qz.com/shell-companies-ndas-data-center-land-deals-secrecy-051326)**
 
-The chip equipment maker now expects its semiconductor equipment business to grow more than 30% in calendar 2026
+Data center developers deploy the same legal tools for decades used in real estate to obscure billions in land acquisitions before communities can respond
 
-qz.com • 18m ago
+qz.com • 9m ago
 
 ---
 
-**[Opinion | The Revolt Against the Girl Bosses Has Finally Come](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html)**
+**[Trump says he discussed AI guardrails with Xi](https://thehill.com/homenews/administration/5880013-donald-trump-xi-jinping-china-summit-ai-guardrails/)**
 
-The New York Times • 5h ago
+The Hill • 48m ago
 
 ---
 
@@ -171,7 +161,15 @@ The New York Times • 5h ago
 
 A tech founder wants to build a bot-led utopia in the Philippines, replacing real politicians with AI-powered historical figures. Some say it’s a bold vision, others a very bad idea.
 
-CNN • 3h ago
+CNN • 5h ago
+
+---
+
+**[Trump leaves China without breakthroughs on Iran, Taiwan or AI](https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive)**
+
+US president hails ‘fantastic’ deals, but details remain scarce after pageantry and little progress at much-hyped summit with Xi
+
+The Guardian • 11h ago
 
 ---
 
@@ -179,7 +177,7 @@ CNN • 3h ago
 
 Our views on the AI competition between the US and China.
 
-Anthropic • 20h ago
+Anthropic • 22h ago
 
 ---
 
@@ -189,9 +187,11 @@ The Economist • 1d ago
 
 ---
 
-**[The 3 big conflicts in AI race against China](https://www.axios.com/2026/05/15/us-china-ai-race-3-conflicts)**
+**[AI vigilante trap snares alleged paedophile ex-teacher in France](https://www.bbc.com/news/articles/c1m2xg7x0m3o)**
 
-Axios • 1h ago
+The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.
+
+BBC • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Axios • 1h ago
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 649 • 💬 151 • 23h ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 661 • 💬 157 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
@@ -213,7 +213,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 ...
 
-⬆️ 514 • 💬 297 • 20h ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+⬆️ 520 • 💬 297 • 22h ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
 
 ---
 
@@ -221,7 +221,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
 
-⬆️ 263 • 💬 125 • 16h ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+⬆️ 272 • 💬 128 • 18h ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 
 ---
 
@@ -233,19 +233,11 @@ Google DeepMind is transforming the mouse pointer into a context-aware AI partne
 
 ---
 
-**[Amazon employees are "tokenmaxxing" due to pressure to use AI tools](https://news.ycombinator.com/item?id=48110529)**
-
-Workers are using an internal AI tool to automate non-essential tasks.
-
-⬆️ 247 • 💬 253 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
-
----
-
 **[The US is winning the AI race where it matters most: commercialization](https://news.ycombinator.com/item?id=48121929)**
 
 Energy matters for AI, but the decisive layers are cloud infrastructure, data, and commercialization. On those layers the United States is ahead by a wide margin.
 
-⬆️ 235 • 💬 667 • 2d ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
+⬆️ 236 • 💬 667 • 2d ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
 
 ---
 
@@ -253,7 +245,15 @@ Energy matters for AI, but the decisive layers are cloud infrastructure, data, a
 
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
-⬆️ 203 • 💬 79 • 11h ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+⬆️ 223 • 💬 86 • 13h ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+
+---
+
+**[Access to frontier AI will soon be limited by economic and security constraints](https://news.ycombinator.com/item?id=48143284)**
+
+Soon, access to frontier AI will be scarce and selective
+
+⬆️ 196 • 💬 196 • 15h ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
 
 ---
 
@@ -265,19 +265,19 @@ Hey Meta, why are Threads users angry?
 
 ---
 
-**[Access to frontier AI will soon be limited by economic and security constraints](https://news.ycombinator.com/item?id=48143284)**
-
-Soon, access to frontier AI will be scarce and selective
-
-⬆️ 190 • 💬 191 • 13h ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
-
----
-
 **[The AI zombification of universities](https://news.ycombinator.com/item?id=48139355)**
 
 “And so perfect parallel constructions fill the lecture halls, the take-home tests, the school newspapers, and perhaps even the idiom of student chatter.”
 
-⬆️ 187 • 💬 198 • 20h ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
+⬆️ 188 • 💬 204 • 22h ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
+
+---
+
+**[Amazon workers under pressure to up their AI usage are making up tasks](https://news.ycombinator.com/item?id=48148337)**
+
+In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
+
+⬆️ 160 • 💬 119 • 3h ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -321,7 +321,7 @@ A Tennessee grandmother was wrongfully arrested after AI-powered facial recognit
 
 📺 ReasonTV
 
-👁️ 81K • 👍 7K • 💬 758 • ⏱️ 1:17 • 18h ago
+👁️ 81K • 👍 7K • 💬 758 • ⏱️ 1:17 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 74 • 💬 6 • ⏱️ 9:23 • 14h ago
+👁️ 4K • 👍 74 • 💬 6 • ⏱️ 9:23 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ Join our WhatsApp Community: https://links.stayingahead.com/YT28 I tested 1000+ 
 
 📺 Vaibhav Sisinty
 
-👁️ 78K • 👍 3K • 💬 186 • ⏱️ 14:06 • 1d ago
+👁️ 78K • 👍 3K • 💬 186 • ⏱️ 14:06 • 2d ago
 
 ---
 
@@ -409,7 +409,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 22,483 • ❤️ 558 • 4h ago
+⬇️ 22,483 • ❤️ 558 • 6h ago
 
 ---
 
@@ -421,7 +421,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 11,725 • ❤️ 337 • 4h ago
+⬇️ 11,725 • ❤️ 337 • 6h ago
 
 ---
 
@@ -469,7 +469,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 105,097 • ❤️ 155 • 9h ago
+⬇️ 105,097 • ❤️ 155 • 11h ago
 
 ---
 
@@ -493,7 +493,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 97,682 • ❤️ 140 • 9h ago
+⬇️ 97,682 • ❤️ 140 • 11h ago
 
 ---
 
@@ -664,7 +664,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 8.9k • 🔱 727 • 6h ago
+⭐ 8.9k • 🔱 727 • 8h ago
 
 ---
 
@@ -674,7 +674,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 871 • 21h ago
+⭐ 3.0k • 🔱 871 • 23h ago
 
 ---
 
@@ -684,7 +684,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.8k • 🔱 340 • 18h ago
+⭐ 2.8k • 🔱 340 • 20h ago
 
 ---
 
@@ -694,7 +694,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 2.8k • 🔱 154 • 3m ago
+⭐ 2.8k • 🔱 154 • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 2.8k • 🔱 291 • 3m ago
+⭐ 2.8k • 🔱 291 • 2h ago
 
 ---
 
@@ -714,7 +714,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 149 • 8h ago
+⭐ 2.3k • 🔱 149 • 10h ago
 
 ---
 
@@ -724,7 +724,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.2k • 🔱 229 • 4d ago
+⭐ 2.2k • 🔱 229 • 5d ago
 
 ---
 
@@ -734,7 +734,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 317 • 6h ago
+⭐ 2.1k • 🔱 317 • 8h ago
 
 ---
 
@@ -744,7 +744,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 339 • 6h ago
+⭐ 2.1k • 🔱 339 • 8h ago
 
 ---
 
