@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-15T18:25:34.767915+00:00'
+updated: '2026-05-15T20:00:49.142874+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 15, 2026 at 18:25 UTC  
+**Last Updated:** May 15, 2026 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,41 @@ Robotics research and industry news
 
 Just finished putting together the first prototype of my robot project. It uses esp32s3 as the main controller and a xiao esp32s3 cam to stream camera and microphone feed. The leg mechanism is based on the strandbeest linkage and it is controlled by two nema17 steppers run by tmc2209 drivers. It also has a fan internally to keep temps adequate. As for sensors it has a TOF sensor to measure distance from objects and an IMU to detect its movement. The end goal is to make an open source companion robot that acts and feels alive by responding and viewing the world being powered by modern AI crap as you guys know it’s getting pushed everywhere, at least I’m giving it a physical body.
 
-3h ago
+5h ago
 
 ---
 
 **[now i must find a place to put in on the robot](https://www.reddit.com/r/robotics/comments/1tdxk1c/now_i_must_find_a_place_to_put_in_on_the_robot/)**
 
-4h ago
+5h ago
+
+---
+
+**[I spent a day at a humancentric robotics company](https://www.reddit.com/r/robotics/comments/1te5zol/i_spent_a_day_at_a_humancentric_robotics_company/)**
+
+I recently spent the day at a humancentric robotics company, talking with the CEO and several roboticists and engineers about how they make their decisions and what goes into something like that. I produced a video of my day there and figured some of you may find it interesting. You can watch the video here: https://www.youtube.com/watch?v=8oFT_ErMHMg Whilst I don't work for the company, as I said, I spent the day there so if you had any particular questions I may have an answer for you.
+
+51m ago
+
+---
+
+**[Participants wanted for a research survey on ROS development](https://www.reddit.com/r/robotics/comments/1te6a6x/participants_wanted_for_a_research_survey_on_ros/)**
+
+Do you have opinions on the available ROS tooling? Are you using AI in your ROS development workflow? Or maybe you refuse to use AI and want to tell us why? We want to hear from you! We are a group of software engineering researchers at Carnegie Mellon University, VORTEX Collab, and the University of Lisbon investigating how ROS developers find and use information, what tools they rely on across different development tasks, and how AI-powered tools fit into the development workflow. We are conducting a research survey to better understand the information needs, tooling gaps, and the role of AI in the ROS development process. This survey is estimated to take ~20 minutes to complete. The research survey is open to ROS developers who are at least 18 years old and with at least one year of experience. If you are interested in sharing your experiences, please visit the SURVEY LINK to complete the survey. Responses are anonymous and will be used solely for research purposes. This research survey is part of a study (STUDY2026_00000158) conducted by Claire Le Goues and Christopher Timperley at Carnegie Mellon University. If you have any questions about the study, please contact Andrea Miller (PhD student) at [andreami@andrew.cmu.edu](mailto:andreami@andrew.cmu.edu).
+
+41m ago
 
 ---
 
 **[Camera gimbal](https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/)**
 
-8h ago
+10h ago
+
+---
+
+**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx5lc/kinect_depth_camera_works_with_my_robot/)**
+
+6h ago
 
 ---
 
@@ -56,19 +78,13 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 We're open-sourcing stack to benefit open-source and leading robotics labs both. Project Stera includes Stera-10M, with 10M+ frames of long-horizon data with persistent state tracking, and an open-source pipeline that converts raw data into training-ready formats. The next generation of embodied AI models needs more than pixels - they need synchronized spatial, semantic, temporal, and action-rich knowledge captured in an environment turned into 4D data and this infra is open today. Read the full essay here: https://www.fpvlabs.ai/essays/launching-stera Happy to answer any technical questions too.
 
-5h ago
-
----
-
-**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx5lc/kinect_depth_camera_works_with_my_robot/)**
-
-4h ago
+6h ago
 
 ---
 
 **[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx2l8/kinect_depth_camera_works_with_my_robot/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -76,7 +92,7 @@ We're open-sourcing stack to benefit open-source and leading robotics labs both.
 
 Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300W power bank I’m running into undervoltage warnings on a Raspberry Pi 5 during heavy servo activity, even though the setup is powered from a high-power UGREEN 300W power bank. Current setup Raspberry Pi 5 powered from: UGREEN 300W 48000mAh power bank 140W USB-C PD port Two Waveshare servo driver boards powered separately from: two independent 100W USB-C ports of Power bank (With USB-C → 12V barrel adapters) Connected hardware 17 servos total (9 + 8) Intel RealSense camera Anker USB hub 2 additional cameras The Pi is connected to the servo drivers and cameras only for data communication. Problem When multiple servos move simultaneously (especially while cameras are active), the Pi reports: "Undervoltage detected!" What I already tried To reduce voltage drops, I added: XY-3606 buck converter (12V → 5V 5A) 2200uF capacitors on both servo driver power inputs New power path: UGREEN 140W USB-C port → USB-C to 12V barrel adapter → XY-3606 buck converter → two cut wires of USB-C cable → Raspberry Pi 5 This significantly reduced undervoltage events, but occasional warnings still still happen during heavy servo motion. Important observation Using the official Raspberry Pi power adapter(5V/3A) does NOT produce undervoltage warnings. Would appreciate any guidance from people who’ve dealt with Pi 5 power stability or servo-heavy robotics setups.
 
-7h ago
+9h ago
 
 ---
 
@@ -84,21 +100,7 @@ Raspberry Pi 5 undervoltage warnings when servos move — despite high-power 300
 
 SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
 
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 21h ago
-
----
-
-**[Johnny 5 Lego MOC: J5Moc](https://www.reddit.com/r/robotics/comments/1tcpaw1/johnny_5_lego_moc_j5moc/)**
-
-Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
-
-1d ago
-
----
-
-**[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
-
-1d ago
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 23h ago
 
 ---
 
@@ -112,25 +114,23 @@ WSJ • 2d ago
 
 ---
 
+**[Mind Robotics raises $400M to scale AI-powered robots in manufacturing](https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/)**
+
+The Robot Report • 1d ago
+
+---
+
 **[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
 
-eWeek • 2h ago
+eWeek • 4h ago
 
 ---
 
-**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
+**[Why Ouster’s New Color LiDAR Could Change Robotics Forever](https://www.cheddar.com/media/why-ousters-new-color-lidar-could-change-robotics-forever/)**
 
-Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+Ouster CEO Angus Pacala explains how next-gen LiDAR and physical AI are transforming robotics, automation, and autonomy.
 
-TechCrunch • 2d ago
-
----
-
-**[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
-
-Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
-
-Global Times • 3d ago
+cheddar.com • 1d ago
 
 ---
 
@@ -138,27 +138,33 @@ Global Times • 3d ago
 
 Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
-**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
+**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
 
-Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
+Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
 
-NBC News • 19h ago
+ABC News - Breaking News, Latest News and Videos • 23h ago
 
 ---
 
-**[Robotics CEO Vows No Intervention in Humanoids’ Viral Trial Run](https://www.bloomberg.com/news/articles/2026-05-15/robotics-ceo-vows-no-intervention-in-humanoids-viral-trial-run)**
+**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
 
-Bloomberg.com • 1h ago
+eWeek • 22h ago
+
+---
+
+**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
+
+eWeek • 1d ago
 
 ---
 
 **[LAHS 2026 Graduating Senior Alessandra Valencia Heads To Texas Tech University To Major In Mechanical Engineering, Minor In Robotics, AI, And Mathematics](https://losalamosreporter.com/2026/05/14/lahs-2026-graduating-senior-alessandra-valencia-heads-to-texas-tech-university-to-major-in-mechanical-engineering-minor-in-robotics-ai-and-mathematics/)**
 
-Los Alamos Reporter • 23h ago
+Los Alamos Reporter • 1d ago
 
 ---
 
@@ -172,14 +178,6 @@ Pittsburgh Post-Gazette • 1d ago
 
 ---
 
-**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -190,7 +188,7 @@ Skyborne Technologies' weaponized robodog just moved closer to the frontline in 
 
 📺 Kalil 4.0
 
-👁️ 584 • 👍 32 • 💬 3 • ⏱️ 0:34 • 1h ago
+👁️ 584 • 👍 32 • 💬 3 • ⏱️ 0:34 • 3h ago
 
 ---
 
@@ -230,7 +228,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 39K • 👍 424 • 💬 153 • ⏱️ 3:00 • 18h ago
+👁️ 39K • 👍 424 • 💬 153 • ⏱️ 3:00 • 20h ago
 
 ---
 
@@ -270,7 +268,7 @@ Apple's new home robot iSiri is being described as a major step toward fully aut
 
 📺 Carros Show
 
-👁️ 20K • 👍 283 • 💬 35 • ⏱️ 23:07 • 2d ago
+👁️ 20K • 👍 283 • 💬 35 • ⏱️ 23:07 • 3d ago
 
 ---
 

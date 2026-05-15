@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-15T18:25:34.764938+00:00'
+updated: '2026-05-15T20:00:49.140028+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 15, 2026 at 18:25 UTC  
+**Last Updated:** May 15, 2026 at 20:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -4.1%  
-**30d:** -5.1%  
-**90d:** +13.4%  
-**1y:** -12.1%  
+**24h:** -3.2%  
+**7d:** -4.3%  
+**30d:** -5.3%  
+**90d:** +13.2%  
+**1y:** -12.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 5h ago
 
 ---
 
@@ -88,13 +88,13 @@ Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgingt
 
 swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I s this expected at this size or did I mess something up?
 
-8h ago
+10h ago
 
 ---
 
 **[Without stablecoin treasury yield, defi is a proof that finance is zero sum](https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -150,27 +150,11 @@ My bank has flagged two of my transfers to a crypto exchange in the last three m
 
 ## Google News: "ethereum"
 
-**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
+**[Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-may-14-2026-bitcoin-and-ethereum-prices-slipping-this-week-111938059.html)**
 
-Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
+Bitcoin opened at $79,283.34 on Thursday, down 1.5% from Wednesday's opening price. Ethereum opened at $2,257.71 on Thursday, down 0.7% from Wednesday’s opening value.
 
-TradingView • 54m ago
-
----
-
-**[BTBT: Revenue declined 13.7% as focus shifted to Ethereum and AI infrastructure, with net loss narrowing](https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3336552:0-btbt-revenue-declined-13-7-as-focus-shifted-to-ethereum-and-ai-infrastructure-with-net-loss-narrowing/)**
-
-Q1 2026 saw a strategic shift toward Ethereum and AI infrastructure, with revenue down 13.7% quarter-over-quarter and a net loss of $146.7 million, mainly due to digital asset mark-to-market adjustments. Focus remains on disciplined capital allocation and long-term value creation.Based on Bit Digit…
-
-TradingView • 3h ago
-
----
-
-**[Ethereum Price Reaching $4,000 Isn’t A Moonshot, Here’s What It Is](https://www.tradingview.com/news/newsbtc:e38c078ed094b:0-ethereum-price-reaching-4-000-isn-t-a-moonshot-here-s-what-it-is/)**
-
-Crypto analyst Tice has declared that an Ethereum price rally to $4,000 isn’t a moonshot but one that is bound to happen. This came as he revealed that he was accumulating ETH based on the technicals, which point to a buy sentiment.Analyst Reveals Ethereum Price Rally To $4,000 As A Structural Magn…
-
-TradingView • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +162,31 @@ TradingView • 3h ago
 
 Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $80,596.43 by 7:10 a.m ET. Ethereum opened at $2,282.46 on Friday, up 1.1% from Thursday’s open. The value of ethereum was down as of 7:10 a.m. ET, at $2,257.73.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Ripple (XRP), Solana (SOL), and Ethereum (ETH) are Down as Bitcoin (BTC) Slips Below $80K](https://finance.yahoo.com/markets/crypto/articles/ripple-xrp-solana-sol-ethereum-181402831.html)**
+
+Crypto prices were supposed to be ripping higher today. Yesterday’s CLARITY Act vote cleared the Senate Banking Committee 15-9—a bipartisan win that sent Bitcoin to $82,000, XRP to $1.55, Solana to $93, and Ethereum near $2,300. However, by the early hours of today, the rally was gone. Bitcoin (CRYPTO: BTC) slipped below $80,000 and dragged ... Ripple (XRP), Solana (SOL), and Ethereum (ETH) are Down as Bitcoin (BTC) Slips Below $80K
+
+Yahoo Finance • 1h ago
+
+---
+
+**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
+
+Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
+
+TradingView • 2h ago
+
+---
+
+**[BTBT: Q1 2026 revenue fell 13.6% to $27.9M as focus shifted to Ethereum and AI infrastructure](https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3337311:0-btbt-q1-2026-revenue-fell-13-6-to-27-9m-as-focus-shifted-to-ethereum-and-ai-infrastructure/)**
+
+Q1 2026 revenue declined 13.6% sequentially to $27.9M, with lower ETH staking and mining revenues. Strategic focus shifted further toward Ethereum and AI infrastructure, while net loss narrowed to $(146.7)M, impacted by digital asset mark-to-market adjustments.Original document: Bit Digital, Inc…
+
+TradingView • 1h ago
 
 ---
 
@@ -186,7 +194,7 @@ Yahoo Finance • 7h ago
 
 The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -198,11 +206,9 @@ The Block • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
+**[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/)**
 
-Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
-
-FXStreet • 6h ago
+CCN.com • 11h ago
 
 ---
 
@@ -214,17 +220,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity](https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto)**
+**[JPMorgan launching second tokenized money market fund on Ethereum](https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum)**
 
-That is "unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications," the analysts said.
+The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.
 
-The Block • 1d ago
-
----
-
-**[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/)**
-
-CCN.com • 10h ago
+The Block • 3d ago
 
 ---
 
@@ -248,7 +248,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 3K • 👍 143 • 💬 42 • ⏱️ 1:05:23 • 7h ago
+👁️ 3K • 👍 143 • 💬 42 • ⏱️ 1:05:23 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 67 • 💬 20 • ⏱️ 23:46 • 18h ago
+👁️ 2K • 👍 67 • 💬 20 • ⏱️ 23:46 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 307 • 👍 13 • 💬 2 • ⏱️ 4:37 • 8h ago
+👁️ 307 • 👍 13 • 💬 2 • ⏱️ 4:37 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 430 • 💬 56 • ⏱️ 26:03 • 21h ago
+👁️ 4K • 👍 430 • 💬 56 • ⏱️ 26:03 • 23h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN DUMP & PUMP: LIQUIDATIONS COMING SOON!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 270 • 💬 164 • ⏱️ 16:42 • 15h ago
+👁️ 7K • 👍 270 • 💬 164 • ⏱️ 16:42 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 97 • 👍 10 • 💬 1 • ⏱️ 13:36 • 4h ago
+👁️ 97 • 👍 10 • 💬 1 • ⏱️ 13:36 • 6h ago
 
 ---
 
