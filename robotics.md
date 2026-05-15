@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-15T04:35:07.088321+00:00'
+updated: '2026-05-15T10:24:52.270926+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 15, 2026 at 04:35 UTC  
+**Last Updated:** May 15, 2026 at 10:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Johnny 5 Lego MOC: J5Moc](https://www.reddit.com/r/robotics/comments/1tcpaw1/johnny_5_lego_moc_j5moc/)**
+**[Camera gimbal](https://www.reddit.com/r/robotics/comments/1tdrm4s/camera_gimbal/)**
 
-Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
-
-22h ago
-
----
-
-**[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
-
-12h ago
+29m ago
 
 ---
 
@@ -50,7 +42,21 @@ Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot f
 
 SBCs are getting lot more expensive because of RAM crisis. I used one that is still competitively priced at 55 USD - and in stock! Things worked on: - installing leRobot to control SO-ARM101 - Docker for ROS 2 Jazzy - hardware connecting of Uno Q to SO-ARM101 - MoveIt inverse kinematics Next up I plan to try running some Reinforcement Learning or even Vision Language Model (like SMolVLA). Uno Q might not have enough horsepower to handle it, so hopefully can get my hands on Venturno Q by then.
 
-🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 7h ago
+🔗 [youtu.be](https://youtu.be/AEVVRUtw2LI?si=H5nkZRhpjPeJcPF5) • 13h ago
+
+---
+
+**[Johnny 5 Lego MOC: J5Moc](https://www.reddit.com/r/robotics/comments/1tcpaw1/johnny_5_lego_moc_j5moc/)**
+
+Best Robot of the 80s! I designed this model based on the NOVA S.A.I.N.T-Robot from the movie Short Circuit. "Ey, laser lips! Your mama was a snowblower!"
+
+1d ago
+
+---
+
+**[So many interesting guys to feature… but I don't have enough time to shoot and edit videos](https://www.reddit.com/r/robotics/comments/1td30zx/so_many_interesting_guys_to_feature_but_i_dont/)**
+
+18h ago
 
 ---
 
@@ -58,7 +64,7 @@ SBCs are getting lot more expensive because of RAM crisis. I used one that is st
 
 Finally added a small distance watermark overlay to my LD Robot D500 setup, so the measured range is always in front of my eyes while testing. Tiny improvement, but it actually makes debugging and live checks way more comfortable & safer
 
-13h ago
+19h ago
 
 ---
 
@@ -74,7 +80,7 @@ CIWS-inspired computer vision tracking system using a Raspberry Pi 5 and ESP32. 
 
 A3’s Q1 2026 robot order data shows North American companies ordered 9,055 robots valued at $543 million. Overall units were nearly flat year over year, but the mix of demand shifted in a notable way. Automotive OEM orders were down sharply, with units falling 35.1% and revenue falling 48.2% compared to Q1 2025. That pulled down the total market because automotive programs tend to be large and cyclical. Outside of Automotive OEMs, several sectors posted strong unit growth. Life sciences/pharma/biomed was up 54.1%, semi/electronics/photonics was up 31.7%, plastics and rubber was up 25.2%, food and consumer goods was up 16%, and automotive component suppliers were up 28.1%. Cobots were one of the biggest parts of the report. Companies ordered 1,637 collaborative robots in Q1, up 55.6% in units and 78.2% in revenue year over year. Cobots accounted for 18.1% of all robot units ordered during the quarter.
 
-🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 14h ago
+🔗 [Automate](https://www.automate.org/robotics/news/robot-orders-hold-steady-in-q1-2026-as-demand-broadens-across-non-automotive-industries) • 20h ago
 
 ---
 
@@ -94,21 +100,45 @@ A3’s Q1 2026 robot order data shows North American companies ordered 9,055 rob
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 20h ago
-
----
-
-**[Humanoid Robot like Unitree G1](https://www.reddit.com/r/robotics/comments/1td2a2n/humanoid_robot_like_unitree_g1/)**
-
-How hard is it to create your own humanoid from scratch at home? A humanoid that is capable of walking and standing stable. How much would it cost at least? I know people are building quadruped robots at home under $10k but what about an humanoid? Is it even feasible?
-
-12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GgozSTWPMjg) • 1d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
+
+Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
+
+NBC News • 11h ago
+
+---
+
+**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
+
+Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
+
+ABC News - Breaking News, Latest News and Videos • 14h ago
+
+---
+
+**[Silicon Valley's Latest Binge-Watch Is a Humanoid Warehouse Worker](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5)**
+
+Figure AI's livestream of a humanoid robot sorting packages drew millions of views, and showed the promise and limits of warehouse automation.
+
+Business Insider • 2d ago
+
+---
+
+**[After the Europe Deal, Richtech Robotics Inc (RR) Heads to the Show](https://finance.yahoo.com/markets/stocks/articles/europe-deal-richtech-robotics-inc-180435463.html)**
+
+Richtech Robotics Inc (NASDAQ:RR) is one of the best small cap robotics stocks to buy according to analysts. Richtech Robotics stock is up more than 30% over the past month, and the Street says it could more than double in the next 12 months. On May 7, Richtech Robotics Inc (NASDAQ:RR) said that it will […]
+
+Yahoo Finance • 2d ago
+
+---
 
 **[Rivian CEO’s Robotics Company Raises $400 Million](https://www.wsj.com/business/autos/rivian-ceos-robotics-spinoff-raises-400-million-4c54a9a0)**
 
@@ -132,33 +162,9 @@ Crain's Chicago Business • 1d ago
 
 ---
 
-**[Science fiction becomes reality: Unitree Robotics unveils world’s first production-ready manned mecha](https://www.globaltimes.cn/page/202605/1360822.shtml)**
-
-Unitree Robotics unveiled the GD01 on Tuesday, a manned transformable mecha priced from 3.9 million yuan ($650,000), quickly sparking heated discussion on Chinese social media, with many netizens describing it as highly futuristic and saying it felt like “science fiction becoming reality.”
-
-Global Times • 2d ago
-
----
-
-**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
-
-Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
-
-NBC News • 5h ago
-
----
-
 **[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
 
-eWeek • 9h ago
-
----
-
-**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
-
-Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
-
-ABC News - Breaking News, Latest News and Videos • 8h ago
+eWeek • 15h ago
 
 ---
 
@@ -170,15 +176,11 @@ cheddar.com • 1d ago
 
 ---
 
-**[2026 Robotics Update: The Physical AI Ecosystem](https://etfdb.com/artificial-intelligence-content-hub/physical-ai-ecosystem/)**
+**[Underwater robots finds rare artifacts in France's deepest shipwreck, a 16th century vessel](https://www.foxweather.com/lifestyle/underwater-robot-rare-artifacts-france-shipwreck-16th-century)**
 
-ETF Database • 1d ago
+The team, made up of members of the French Navy and France’s Department of Underwater and Submarine Archaeological Research, embarked on a 3-day mission in April to study and carefully recover artifacts from the Camarat 4.
 
----
-
-**[Fanuc Shares Surge After Partnership With Google on Physical AI](https://www.bloomberg.com/news/articles/2026-05-14/fanuc-shares-surge-after-partnership-with-google-on-physical-ai)**
-
-Bloomberg.com • 22h ago
+FOX Weather • 2d ago
 
 ---
 
@@ -186,53 +188,13 @@ Bloomberg.com • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[F.03 Livestream](https://www.youtube.com/watch?v=luU57hMhkak)**
-
-Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
-
-📺 Figure
-
-👁️ 905K • 👍 20K • 1d ago
-
----
-
 **[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
 
 You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 183 • 💬 21 • ⏱️ 55:02 • 1d ago
-
----
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 5K • 👍 108 • 💬 22 • ⏱️ 21:16 • 1d ago
-
----
-
-**[Apple’s New $5,000 Home Robot iSiri Will Make You Forget About Cleaning Forever](https://www.youtube.com/watch?v=cg83PmGY09w)**
-
-Apple's new home robot iSiri is being described as a major step toward fully automated smart living, combining advanced AI with ...
-
-📺 Carros Show
-
-👁️ 20K • 👍 280 • 💬 31 • ⏱️ 23:07 • 2d ago
-
----
-
-**[Meet Amazon&#39;s $50,000 Robot - Inside Big Tech&#39;s Humanoid Takeover](https://www.youtube.com/watch?v=5d7lkdfe7fI)**
-
-What if your next roommate wasn't human? On this episode of NYC Innovates, we meet Sprout, a 3.5ft robot that dances, does ...
-
-📺 Cheddar
-
-👁️ 1K • 👍 42 • 💬 12 • ⏱️ 10:22 • 15h ago
+👁️ 9K • 👍 199 • 💬 21 • ⏱️ 55:02 • 1d ago
 
 ---
 
@@ -242,47 +204,87 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 19K • 👍 283 • 💬 89 • ⏱️ 3:00 • 4h ago
+👁️ 33K • 👍 370 • 💬 123 • ⏱️ 3:00 • 10h ago
 
 ---
 
-**[The mecha robot that&#39;s actually production-ready #unitree #engineering #robotics](https://www.youtube.com/watch?v=vEMHIgqI-NU)**
+**[Robot Dogs Are A Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)**
 
-Unitree Robotics just introduced what it calls the world's first production-ready manned transformable mecha. The Chinese ...
+Go to https://ground.news/benn for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
 
-📺 Kalil 4.0
+📺 Benn Jordan
 
-👁️ 12K • 👍 274 • 💬 19 • ⏱️ 0:41 • 2d ago
-
----
-
-**[Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful &amp; Alphabet Combine Robot Collection](https://www.youtube.com/watch?v=HXFRTRROKWQ)**
-
-Ultimate Different Transformers OPTIMUS PRIME G1 Convoy Colorful & Alphabet Combine Robot Collection: ...
-
-📺 Bob ToysReview
-
-👁️ 5K • 👍 18 • 💬 2 • ⏱️ 14:30 • 19h ago
+👁️ 762K • 👍 61K • 💬 5K • ⏱️ 23:53 • 4d ago
 
 ---
 
-**[Humanoid Robots Are Becoming Too Real](https://www.youtube.com/watch?v=yuO9J6XCQ9U)**
+**[F.03 Livestream](https://www.youtube.com/watch?v=luU57hMhkak)**
 
-This isn't CGI or a sci-fi movie scene. These humanoid robots are performing live in public, walking, balancing, and dancing ...
+Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
 
-📺 Mistmap
+📺 Figure
 
-👁️ 550 • 👍 25 • 💬 3 • ⏱️ 0:50 • 4h ago
+👁️ 1.0M • 👍 21K • 1d ago
 
 ---
 
-**[ALDI vs LIDL: Who Sells The Best Robot Lawn Mower?](https://www.youtube.com/watch?v=VQ6mz3GGZ_M)**
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
 
-If you want to win a much nicer robot lawn mower enter to win the Yuka Mini 2 ...
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
 
-📺 Shifting Metal 2.0 
+📺 Technology with Tyler
 
-👁️ 21K • 👍 457 • 💬 87 • ⏱️ 31:21 • 1d ago
+👁️ 7K • 👍 135 • 💬 29 • ⏱️ 21:16 • 1d ago
+
+---
+
+**[No Soldiers, Just Robots - How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
+
+Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
+
+📺 Radio Free Europe/Radio Liberty
+
+👁️ 27K • 👍 692 • 💬 35 • ⏱️ 3:07 • 2d ago
+
+---
+
+**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000](https://www.youtube.com/watch?v=oWOyUMJWptc)**
+
+The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please ...
+
+📺 Unitree Robotics
+
+👁️ 5.9M • 👍 11K • 💬 3K • ⏱️ 1:15 • 3d ago
+
+---
+
+**[Apple’s New $5,000 Home Robot iSiri Will Make You Forget About Cleaning Forever](https://www.youtube.com/watch?v=cg83PmGY09w)**
+
+Apple's new home robot iSiri is being described as a major step toward fully automated smart living, combining advanced AI with ...
+
+📺 Carros Show
+
+👁️ 20K • 👍 282 • 💬 31 • ⏱️ 23:07 • 2d ago
+
+---
+
+**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+
+Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+
+📺 CGTN Europe
+
+👁️ 52K • 👍 403 • 💬 52 • ⏱️ 0:33 • 1d ago
+
+---
+
+**[I Tested a Robot Mower w/ Self-Driving Car Tech — Lymow One Plus](https://www.youtube.com/watch?v=QPOoWhGTCfo)**
+
+Thanks to Lymow for sponsoring this video. Check them out ▻ https://dada.link/Kt-9rk 🎙️Our PODCAST Spotify ...
+
+📺 Kim Java
+
+👁️ 4K • 👍 212 • 💬 20 • ⏱️ 11:36 • 12h ago
 
 ---
 
