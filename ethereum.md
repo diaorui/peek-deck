@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T06:05:08.333221+00:00'
+updated: '2026-05-16T08:23:27.220688+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 06:05 UTC  
+**Last Updated:** May 16, 2026 at 08:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,228.19
+### $2,185.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -6.1%  
-**30d:** -8.0%  
-**90d:** +11.4%  
-**1y:** -10.0%  
+**24h:** -2.7%  
+**7d:** -7.5%  
+**30d:** -9.4%  
+**90d:** +9.7%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $268.53B
+**Market Cap:** $264.63B
 Rank #2
 
 **Circulating Supply:** 120,685,841 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.0%
+-55.7%
 
 **All-Time Low:** $0.43
-+513663.9%
++506254.8%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+3h ago
+
+---
+
+**[Ethereal news weekly #23 | Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan](https://www.reddit.com/r/ethereum/comments/1tdy4x1/ethereal_news_weekly_23_clear_signing_clarity_act/)**
+
+Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 17h ago
 
 ---
 
@@ -84,25 +92,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #23 | Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan](https://www.reddit.com/r/ethereum/comments/1tdy4x1/ethereal_news_weekly_23_clear_signing_clarity_act/)**
-
-Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 15h ago
-
----
-
 **[put $2.5k into a mid-cap through a dex and walked away $180 short, what went wrong?](https://www.reddit.com/r/ethereum/comments/1tdr5oj/put_25k_into_a_midcap_through_a_dex_and_walked/)**
 
 swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I s this expected at this size or did I mess something up?
 
-20h ago
+22h ago
 
 ---
 
 **[Without stablecoin treasury yield, defi is a proof that finance is zero sum](https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -158,27 +158,19 @@ BitMine Immersion Technologies has cut its Ethereum (ETH) buying pace by 74% as 
 
 ---
 
-**[Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again](https://www.tradingview.com/news/newsbtc:82a2bdd49094b:0-ethereum-sell-signal-that-last-preceded-a-63-drop-flashes-again/)**
-
-Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset.Ethereum Has Seen A TD Sequential Sell SignalIn a new post on X, analyst Ali Martinez has highlighted a TD Sequential signal that has emerged on the 1-week price…
-
-TradingView • 1h ago
-
----
-
 **[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-muted-predictions-075625331.html)**
 
 JPMorgan analysts warned Ethereum could continue underperforming Bitcoin unless the network delivers stronger activity, DeFi growth and real-world adoption. Motley Fool analyst Dominic Basulto predicted ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum app builder Consensys has delayed its potential IPO until fall](https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall)**
+**[Latest Inflation Report: What It Could Mean For Bitcoin, Ethereum, And Solana Ahead](https://www.tradingview.com/news/newsbtc:b6f2222ba094b:0-latest-inflation-report-what-it-could-mean-for-bitcoin-ethereum-and-solana-ahead/)**
 
-The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
+Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
 
-CoinDesk • 2d ago
+TradingView • 8h ago
 
 ---
 
@@ -190,11 +182,15 @@ The Block • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
+**[Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%](https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12)**
 
-Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
+CoinDesk • 18h ago
 
-FXStreet • 18h ago
+---
+
+**[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
+
+Coinpedia • 1d ago
 
 ---
 
@@ -202,7 +198,7 @@ FXStreet • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
@@ -210,13 +206,15 @@ Fortune • 14h ago
 
 Ethereum's new Clear Signing standard, based on ERC-7730, converts raw transaction data into human-readable descriptions to combat blind signing and phishing.
 
-Crypto Briefing • 23h ago
+Crypto Briefing • 1d ago
 
 ---
 
-**[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
+**[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
 
-Coinpedia • 1d ago
+Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
+
+FXStreet • 20h ago
 
 ---
 
@@ -232,13 +230,23 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee :&quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
+
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Library Of Wealth
+
+👁️ 252 • 👍 20 • 💬 156 • ⏱️ 15:37 • 1h ago
+
+---
+
 **[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
 
 BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 2K • 👍 142 • 💬 10 • ⏱️ 18:49 • 2h ago
+👁️ 4K • 👍 216 • 💬 30 • ⏱️ 18:49 • 4h ago
 
 ---
 
@@ -248,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 410 • 💬 54 • ⏱️ 18:57 • 1d ago
+👁️ 13K • 👍 415 • 💬 54 • ⏱️ 18:57 • 1d ago
 
 ---
 
@@ -258,17 +266,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 5K • 👍 186 • 💬 61 • ⏱️ 1:05:23 • 19h ago
-
----
-
-**[Ethereum June Outlook: Historical Pattern Turns Bearish](https://www.youtube.com/watch?v=ixVrjnkjc3w)**
-
-In this video we take the first proper public look inside the MCO Terminal and analyze Ethereum using the MCO Seasonality Tool.
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 92 • 💬 6 • ⏱️ 25:53 • 5h ago
+👁️ 5K • 👍 190 • 💬 59 • ⏱️ 1:05:23 • 21h ago
 
 ---
 
@@ -278,17 +276,17 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 2K • 👍 70 • 💬 5 • ⏱️ 13:36 • 16h ago
+👁️ 3K • 👍 79 • 💬 24 • ⏱️ 13:36 • 18h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
+**[Ethereum June Outlook: Historical Pattern Turns Bearish](https://www.youtube.com/watch?v=ixVrjnkjc3w)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+In this video we take the first proper public look inside the MCO Terminal and analyze Ethereum using the MCO Seasonality Tool.
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 496 • 👍 49 • ⏱️ 7:27 • 2h ago
+👁️ 2K • 👍 121 • 💬 8 • ⏱️ 25:53 • 8h ago
 
 ---
 
@@ -298,7 +296,17 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 72 • 💬 68 • ⏱️ 23:46 • 1d ago
+👁️ 2K • 👍 74 • 💬 62 • ⏱️ 23:46 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 933 • 👍 82 • ⏱️ 7:27 • 5h ago
 
 ---
 
@@ -308,17 +316,7 @@ Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergi
 
 📺 Trade Confident
 
-👁️ 265 • 👍 10 • 💬 1 • ⏱️ 5:45 • 10h ago
-
----
-
-**[URGENT ETHEREUM WARNING🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=dk79CX_jx6Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 477 • 👍 15 • 💬 2 • ⏱️ 4:37 • 20h ago
+👁️ 331 • 👍 11 • 💬 1 • ⏱️ 5:45 • 13h ago
 
 ---
 
