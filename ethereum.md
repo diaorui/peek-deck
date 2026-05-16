@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T08:23:27.220688+00:00'
+updated: '2026-05-16T09:56:50.869566+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 08:23 UTC  
+**Last Updated:** May 16, 2026 at 09:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,185.07
+### $2,171.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -7.5%  
-**30d:** -9.4%  
-**90d:** +9.7%  
-**1y:** -11.4%  
+**24h:** -4.0%  
+**7d:** -8.3%  
+**30d:** -10.2%  
+**90d:** +8.7%  
+**1y:** -12.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 17h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I s this expected at this size or did I mess something up?
 
-22h ago
+1d ago
 
 ---
 
@@ -158,19 +158,19 @@ BitMine Immersion Technologies has cut its Ethereum (ETH) buying pace by 74% as 
 
 ---
 
-**[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-muted-predictions-075625331.html)**
+**[Bitmine Pivots To Ethereum Staking Yield As NYSE Uplisting Draws Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-pivots-ethereum-staking-yield-091827775.html)**
 
-JPMorgan analysts warned Ethereum could continue underperforming Bitcoin unless the network delivers stronger activity, DeFi growth and real-world adoption. Motley Fool analyst Dominic Basulto predicted ...
+Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 38m ago
 
 ---
 
-**[Latest Inflation Report: What It Could Mean For Bitcoin, Ethereum, And Solana Ahead](https://www.tradingview.com/news/newsbtc:b6f2222ba094b:0-latest-inflation-report-what-it-could-mean-for-bitcoin-ethereum-and-solana-ahead/)**
+**[Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again](https://www.tradingview.com/news/newsbtc:82a2bdd49094b:0-ethereum-sell-signal-that-last-preceded-a-63-drop-flashes-again/)**
 
-Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
+Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset.Ethereum Has Seen A TD Sequential Sell SignalIn a new post on X, analyst Ali Martinez has highlighted a TD Sequential signal that has emerged on the 1-week price…
 
-TradingView • 8h ago
+TradingView • 4h ago
 
 ---
 
@@ -179,12 +179,6 @@ TradingView • 8h ago
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
 The Block • 1d ago
-
----
-
-**[Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%](https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12)**
-
-CoinDesk • 18h ago
 
 ---
 
@@ -198,7 +192,15 @@ Coinpedia • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 18h ago
+
+---
+
+**[Ethereum app builder Consensys has delayed its potential IPO until fall](https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall)**
+
+The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -214,15 +216,15 @@ Crypto Briefing • 1d ago
 
 Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
-**[Charles Schwab Begins Offering Bitcoin, Ethereum Trading to US Users](https://decrypt.co/367768/charles-schwab-begins-bitcoin-ethereum-trading-us-users)**
+**[Bitcoin and Ethereum analysis shows that 'sell the news' might have triggered](https://investinglive.com/Cryptocurrency/bitcoin-and-ethereum-analysis-shows-that-sell-the-news-might-have-triggered-20260515/)**
 
-Charles Schwab started allowing select users to trade Bitcoin and Ethereum directly alongside their other investments.
+Crypto futures are turning defensive as post-Trump-Xi sell-the-news risk and early Nasdaq weakness pressure sentiment, with BTC still only mildly bearish at -3 / +10, while ETH looks weaker at -5 / +10 and remains the cleaner short-side candidate unless it reclaims 2,275-2,282
 
-Decrypt • 2d ago
+investingLive • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 252 • 👍 20 • 💬 156 • ⏱️ 15:37 • 1h ago
+👁️ 252 • 👍 20 • 💬 156 • ⏱️ 15:37 • 3h ago
 
 ---
 
@@ -246,7 +248,7 @@ BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 4K • 👍 216 • 💬 30 • ⏱️ 18:49 • 4h ago
+👁️ 4K • 👍 216 • 💬 30 • ⏱️ 18:49 • 6h ago
 
 ---
 
@@ -266,7 +268,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 5K • 👍 190 • 💬 59 • ⏱️ 1:05:23 • 21h ago
+👁️ 5K • 👍 190 • 💬 59 • ⏱️ 1:05:23 • 23h ago
 
 ---
 
@@ -276,7 +278,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 3K • 👍 79 • 💬 24 • ⏱️ 13:36 • 18h ago
+👁️ 3K • 👍 79 • 💬 24 • ⏱️ 13:36 • 20h ago
 
 ---
 
@@ -286,7 +288,7 @@ In this video we take the first proper public look inside the MCO Terminal and a
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 8 • ⏱️ 25:53 • 8h ago
+👁️ 2K • 👍 121 • 💬 8 • ⏱️ 25:53 • 9h ago
 
 ---
 
@@ -306,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 933 • 👍 82 • ⏱️ 7:27 • 5h ago
+👁️ 933 • 👍 82 • ⏱️ 7:27 • 6h ago
 
 ---
 
@@ -316,7 +318,7 @@ Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergi
 
 📺 Trade Confident
 
-👁️ 331 • 👍 11 • 💬 1 • ⏱️ 5:45 • 13h ago
+👁️ 331 • 👍 11 • 💬 1 • ⏱️ 5:45 • 14h ago
 
 ---
 
