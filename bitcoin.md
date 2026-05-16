@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-16T09:56:50.865462+00:00'
+updated: '2026-05-16T11:04:22.921631+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 09:56 UTC  
+**Last Updated:** May 16, 2026 at 11:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,136.81
+### $77,712.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
+**24h:** -2.8%  
 **7d:** -4.9%  
 **30d:** +1.3%  
 **90d:** +13.5%  
-**1y:** -24.2%  
+**1y:** -24.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1569.86B
+**Market Cap:** $1562.46B
 Rank #1
 
-**Circulating Supply:** 20,030,037 BTC
+**Circulating Supply:** 20,030,109 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-38.1%
 
 **All-Time Low:** $67.81
-+115455.2%
++114936.1%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[A special bond indeed 🌚](https://www.reddit.com/r/Bitcoin/comments/1tec8y7/a_special_bond_indeed/)**
 
-10h ago
+11h ago
+
+---
+
+**[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 2h ago
 
 ---
 
@@ -87,13 +93,7 @@ Rank #1
 
 The honest Bitcoin school. No altcoins. No price predictions. No newsletter. For people who want to actually understand Bitcoin.
 
-🔗 [LearnBitcoin](https://www.learnbitcoin.com) • 12h ago
-
----
-
-**[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 1h ago
+🔗 [LearnBitcoin](https://www.learnbitcoin.com) • 14h ago
 
 ---
 
@@ -101,13 +101,13 @@ The honest Bitcoin school. No altcoins. No price predictions. No newsletter. For
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
 **[Banks lost, Innovation won.](https://www.reddit.com/r/Bitcoin/comments/1tdypbz/banks_lost_innovation_won/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -115,7 +115,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 demo + video: https://youtu.be/2UM4j1_xEs0
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,15 @@ demo + video: https://youtu.be/2UM4j1_xEs0
 
 The narrative going around today: Jane Street is dumping Bitcoin. The reality is more interesting. **What a 13F filing actually is:** A 13F is a quarterly SEC disclosure that shows institutional long positions. It does not include short positions, futures contracts, options, swaps, or any other derivatives. For a passive fund, this gives you a clean picture. For a market maker? It's half the story. Jane Street is not a passive fund. They are one of the largest and most sophisticated quantitative trading firms in the world — known for running arbitrage strategies across every major asset class at massive scale. **What basis trading looks like on a 13F:** Basis trade = Buy spot ETF (appears in 13F as a long position) + Sell BTC futures simultaneously (does NOT appear in 13F) When the futures premium compresses — meaning the spread between spot and futures narrows — the firm exits the s...
 
-18h ago
+19h ago
+
+---
+
+**[What was the discourse the previous big pumps?](https://www.reddit.com/r/Bitcoin/comments/1teqg35/what_was_the_discourse_the_previous_big_pumps/)**
+
+I am relatively new, have been adding since last year, and I see a lot of negative comments and posts. I try not to sift through them all. I'm curious was it any different when it started pumping on the last few cycles, or is this just how it is here? I swear that bitcoin has it's week high early and then back down in the weekend, is that just market manipulation? How's everyone feeling?
+
+5m ago
 
 ---
 
@@ -131,21 +139,15 @@ The narrative going around today: Jane Street is dumping Bitcoin. The reality is
 
 Without going in to detail and saying any personal information about myself, i need to get a really small portion of a bitcoin quickly and pay with it immediatly. I searched all troughout the internet and there is so much conflating information and also most guides focus on people that want long term investment. I would also preffer if the site i am buying the bitcoin on does not require an id or any other piece of documentation.
 
-16h ago
+17h ago
 
 ---
 
-**[BTC / ATM](https://www.reddit.com/r/Bitcoin/comments/1tep53e/btc_atm/)**
+**[Big "influencers" still think bitcoin is just those cryptos and scams](https://www.reddit.com/r/Bitcoin/comments/1tepmve/big_influencers_still_think_bitcoin_is_just_those/)**
 
-Junk food run for some Netflix binging and the local 24 hour mom and pop has this btc atm sitting in there - wtf - how does that work and who would use it and why? Please explain me like I’m in kindergarten. Can you launder cash in it or smfin?
+We ladies and gentlemen are still early, so hodl. stay sats stack humble.
 
-9m ago
-
----
-
-**[Got shut down for suggesting asset accumulation before even mentioning Bitcoin. The problem isn't Bitcoin literacy, it's monetary literacy.](https://www.reddit.com/r/Bitcoin/comments/1tdpyfq/got_shut_down_for_suggesting_asset_accumulation/)**
-
-1d ago
+49m ago
 
 ---
 
@@ -153,25 +155,25 @@ Junk food run for some Netflix binging and the local 24 hour mom and pop has thi
 
 ## Google News: "bitcoin"
 
+**[Forget MicroStrategy. The Company Taking a Cut Every Time Bitcoin Traders Panic Is Up 7% This Year and Pays a $5 Dividend](https://finance.yahoo.com/markets/crypto/articles/forget-microstrategy-company-taking-cut-160844952.html)**
+
+MicroStrategy (NASDAQ:MSTR), now operating as Strategy, is once again the loudest ticker in the room, riding a 55.97% one-month rally and a 12.79% weekly pop on the back of yet another bitcoin treasury announcement. But here is what you should actually be watching. Strip away the bitcoin accounting and there is barely a company underneath. ... Forget MicroStrategy. The Company Taking a Cut Every Time Bitcoin Traders Panic Is Up 7% This Year and Pays a $5 Dividend
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Strategy (MSTR) buying back convertible debt at a discount](https://www.coindesk.com/markets/2026/05/15/strategy-to-repurchase-usd1-5-billion-of-2029-convertible-bonds-using-cash-or-bitcoin-sales)**
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[How Far Can Michael Saylor 'Stretch' It? Strategy's Bitcoin Machine Enters A New Phase](https://finance.yahoo.com/news/far-michael-saylor-stretch-strategys-151637516.html)**
+**[Strategy Quietly Confirms Shock Plan To Sell Bitcoin, Sparking Sudden Price Crash ‘Panic’](https://www.forbes.com/sites/digital-assets/2026/05/16/strategy-quietly-confirms-shock-plan-to-sell-bitcoin-sparking-sudden-price-crash-panic/)**
 
-Michael Saylor’s Strategy Inc. (NASDAQ:MSTR) is increasingly relying on STRC to keep buying Bitcoin (CRYPTO: BTC), but the math behind the company's accumulation engine is becoming more difficult as dilution pressures build. Strategy's Centerpiece Is Now STRC Strategy's earlier Bitcoin purchases worked because MSTR traded at a massive premium to its underlying BTC holdings. At roughly 1.24x EV-based mNAV, however, that advantage has narrowed significantly. Research firm Delphi Digital notes that
+Michael Saylor’s bitcoin acquisition company Strategy has confirmed it could be about to sell some of its $63 billion worth of bitcoin...
 
-Yahoo Finance • 2d ago
-
----
-
-**[Why Polymarket Now Gives Strategy 82% Odds of Selling Bitcoin (BTC) This Year](https://247wallst.com/investing/2026/05/15/why-polymarket-now-gives-strategy-82-odds-of-selling-bitcoin-btc-this-year/)**
-
-Polymarket odds surge as traders price a possible Strategy Bitcoin (BTC) sale tied to dividend and balance-sheet pressure.
-
-24/7 Wall St. • 17h ago
+Forbes • 53m ago
 
 ---
 
@@ -181,47 +183,51 @@ WSJ • 1d ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://www.fool.com/investing/2026/05/16/prediction-bitcoin-will-hit-1-million-heres-the-ti/)**
-
-Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
-
-The Motley Fool • 3m ago
-
----
-
 **[Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run](https://www.tradingview.com/news/cointelegraph:42bcbdb82094b:0-spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run/)**
 
 Spot Bitcoin exchange-traded funds (ETFs) recorded $1 billion in weekly net outflows, ending a six-week inflow streak that had drawn a combined $3.4 billion.The week started on a cautiously optimistic note, with Monday posting modest inflows of $27.29 million, according to data from SoSoValue. The…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
-**[Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%](https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5)**
+**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://www.fool.com/investing/2026/05/16/prediction-bitcoin-will-hit-1-million-heres-the-ti/)**
 
-CoinDesk • 2h ago
+Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
 
----
-
-**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades)**
-
-President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
-
-Decrypt • 14h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://finance.yahoo.com/markets/crypto/articles/president-trump-discloses-coinbase-robinhood-194845513.html)**
+**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-095800099.html)**
 
-President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
+Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Trump's latest filing reveals surprise crypto stock purchases](https://www.thestreet.com/crypto/markets/trumps-latest-filing-reveals-surprise-crypto-stock-purchases)**
+**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
 
-thestreet.com • 17h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 11h ago
+
+---
+
+**[Bitcoin Pizza Day – Win Bitcoin with Kraken](https://www.williamsf1.com/articles/1f993e23-51c7-4f6c-a0bb-7ecc0c065c6d/bitcoin-pizza-day-win-bitcoin-with-kraken)**
+
+You could score $1,000 on Bitcoin Pizza Day 2026, plus claim a bonus 10 WClub points
+
+williamsf1 • 20h ago
+
+---
+
+**[Why bitcoin traders are suddenly obsessed with a forgotten crypto](https://www.businessinsider.com/zcash-price-what-is-zec-bitcoin-btc-crypto-privacy-tokens-2026-5)**
+
+A token launched in 2016 is suddenly in the limelight in crypto circles. Zcash has surged, far outpacing gains in bitcoin in the last month.
+
+Business Insider • 18h ago
 
 ---
 
@@ -247,7 +253,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 **[THORChain exploit hits Bitcoin, Ethereum, and BSC: Hackers steal over $10M](https://news.ycombinator.com/item?id=48152601)**
 
-⬆️ 6 • 💬 1 • 14h ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
+⬆️ 6 • 💬 1 • 15h ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
 
 ---
 
@@ -297,7 +303,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 1 • 💬 0 • 3h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 2 • 💬 0 • 4h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -305,23 +311,33 @@ We’re on a journey to advance and democratize artificial intelligence through 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Holders - Crypto &amp; Stocks Plummet Due To This](https://www.youtube.com/watch?v=TlIZ7KFpGRs)**
+
+Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
+
+📺 Altcoin Daily
+
+👁️ 13K • 👍 918 • 💬 33 • ⏱️ 8:28 • 11h ago
+
+---
+
 **[98.6% Of Crypto Is NEVER Coming Back Except These Coins](https://www.youtube.com/watch?v=-mtlYzjSLlE)**
 
 I was invited to speak at the Consensus Miami 2026 conference, and they asked me more about why I think most of the crypto ...
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 9K • 👍 613 • 💬 82 • ⏱️ 20:47 • 12h ago
+👁️ 11K • 👍 668 • 💬 93 • ⏱️ 20:47 • 14h ago
 
 ---
 
-**[Crypto vs CLARITY Uncertainty📉Technical Analysis ‪@EvanAldo‬](https://www.youtube.com/watch?v=YyOkDS4FM9k)**
+**[Trump Plans July 4th Bitcoin Reset? | What They&#39;re NOT Telling You About The Clarity Act!](https://www.youtube.com/watch?v=VYOBfFIRSZk)**
 
-As Bitcoin risks losing key level sooner than anticipated, altcoins might prosper. ~This Episode is Sponsored by OKX~ Trade ...
+Bitcoin just crossed a major political milestone as the Clarity Act advanced through the Senate Banking Committee. But the real ...
 
-📺 Paul Barron Network
+📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 105 • ⏱️ 16:51 • 15h ago
+👁️ 23K • 👍 2K • 💬 144 • ⏱️ 15:33 • 14h ago
 
 ---
 
@@ -335,6 +351,46 @@ OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY �
 
 ---
 
+**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
+
+Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 2K • 💬 167 • ⏱️ 15:54 • 1d ago
+
+---
+
+**[$10M Bitcoin PANIC - Congress Opened The Floodgates](https://www.youtube.com/watch?v=zfVdLZQBFog)**
+
+Subscribe before the easy Bitcoin is gone. Strategy MSTR is estimated to have raised enough capital THIS WEEK alone to ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 201 • 💬 41 • ⏱️ 19:01 • 13h ago
+
+---
+
+**[Crypto vs CLARITY Uncertainty📉Technical Analysis ‪@EvanAldo‬](https://www.youtube.com/watch?v=YyOkDS4FM9k)**
+
+As Bitcoin risks losing key level sooner than anticipated, altcoins might prosper. ~This Episode is Sponsored by OKX~ Trade ...
+
+📺 Paul Barron Network
+
+👁️ 22K • 👍 1K • 💬 105 • ⏱️ 16:51 • 17h ago
+
+---
+
+**[Weekend Crypto Setup Looks Dangerous](https://www.youtube.com/watch?v=ZM0R-IRzr7A)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 571 • 💬 222 • ⏱️ 11:53 • 20h ago
+
+---
+
 **[BITCOIN’S DO-OR-DIE LEVEL! 🚨 My Price Targets for BTC, XRP, ETH &amp; SOL](https://www.youtube.com/watch?v=h9mM0NAnBQE)**
 
 The crypto market is at a massive crossroads. In today's video, we deep dive into the charts—no BS, just pure probability.
@@ -345,61 +401,13 @@ The crypto market is at a massive crossroads. In today's video, we deep dive int
 
 ---
 
-**[Any Night Security Guard Could Steal Satoshi&#39;s Bitcoin](https://www.youtube.com/watch?v=7L5jsw0YEmA)**
+**[BITCOIN DUMP EXPLAINED...](https://www.youtube.com/watch?v=wxsTksRpoJA)**
 
-Spiral developer Matt Corallo on why a cryptographically relevant quantum computer would make Satoshi's Bitcoin vulnerable to ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Galaxy
+📺 Crypto Rover
 
-👁️ 709 • 👍 3 • ⏱️ 0:42 • 12h ago
-
----
-
-**[CRYPTO JUST FELL FAST - HERE&#39;S WHY](https://www.youtube.com/watch?v=SgtzHwp1Iis)**
-
-Make Sure To Check Out Nexo: https://nexo.sjv.io/PzKgZY Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC51526 ...
-
-📺 Tyler Hill Crypto
-
-👁️ 6K • 👍 279 • 💬 166 • ⏱️ 11:03 • 19h ago
-
----
-
-**[INSANE CRYPTO NEWS EVERYONE MISSED! POWELL IS GONE #crypto #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=6qACq4Fbfg4)**
-
-📺 CryptoWendyO
-
-👁️ 13K • 👍 795 • 💬 28 • ⏱️ 2:04 • 1d ago
-
----
-
-**[CLARITY ACT PASSES CRITICAL VOTE! MAJOR WIN FOR BITCOIN? #bitcoin #clarityact #xrp #cryptonews](https://www.youtube.com/watch?v=q6SWNtNT83k)**
-
-MAJOR WIN for crypto! The Senate Banking Committee just passed the CLARITY Act 15-9 Bipartisan breakthrough: All GOP + ...
-
-📺 Randi Hipper
-
-👁️ 9K • 👍 262 • 💬 49 • ⏱️ 0:55 • 1d ago
-
----
-
-**[Here Is WHy Bitcoin Will Keep Winning](https://www.youtube.com/watch?v=mat9xflF5zo)**
-
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
-
-📺 Crypto Banter
-
-👁️ 4K • 👍 112 • 💬 3 • ⏱️ 1:03 • 3d ago
-
----
-
-**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
-
-Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
-
-📺 Simply Bitcoin
-
-👁️ 36K • 👍 2K • 💬 170 • ⏱️ 15:54 • 1d ago
+👁️ 5K • 👍 477 • 💬 21 • ⏱️ 9:09 • 4h ago
 
 ---
 
