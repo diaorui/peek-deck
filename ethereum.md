@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T19:19:39.511419+00:00'
+updated: '2026-05-16T20:11:05.719306+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 19:19 UTC  
+**Last Updated:** May 16, 2026 at 20:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,13 +96,13 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-9h ago
+10h ago
 
 ---
 
 **[The story of the 4% Asteroid token sell of Vitalik to USDC](https://www.reddit.com/r/ethereum/comments/1tf22o8/the_story_of_the_4_asteroid_token_sell_of_vitalik/)**
 
-32m ago
+1h ago
 
 ---
 
@@ -182,7 +182,7 @@ CCN.com • 1d ago
 
 Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 92 • 💬 94 • ⏱️ 15:37 • 12h ago
+👁️ 3K • 👍 92 • 💬 94 • ⏱️ 15:37 • 13h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 10K • 👍 350 • 💬 91 • ⏱️ 18:49 • 15h ago
+👁️ 10K • 👍 350 • 💬 91 • ⏱️ 18:49 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ In this video we take the first proper public look inside the MCO Terminal and a
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 12 • ⏱️ 25:53 • 18h ago
+👁️ 3K • 👍 182 • 💬 12 • ⏱️ 25:53 • 19h ago
 
 ---
 
@@ -302,7 +302,7 @@ Tu cuenta aquí https://t.co/oIFG2RpkHh ¿Estamos ante la **última gran oportun
 
 📺 TradingLatino
 
-👁️ 18K • 👍 2K • 💬 30 • ⏱️ 42:58 • 15h ago
+👁️ 18K • 👍 2K • 💬 30 • ⏱️ 42:58 • 16h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-16T19:19:39.514238+00:00'
+updated: '2026-05-16T20:11:05.721511+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 16, 2026 at 19:19 UTC  
+**Last Updated:** May 16, 2026 at 20:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-4h ago
+5h ago
 
 ---
 
@@ -50,19 +50,19 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 #PnPRobots is here to shatter those boundaries. We provide seamless, plug-and-play robotic solutions built to accelerate your development. We are thrilled to introduce our industry-disrupting hardware: the Next-Gen Professional Bionic Dexterous Hand — #Revo2. 🔥 #Revo2: Lighter Than a Human Hand, Stronger Than Imagination Designed specifically for complex, real-world manipulation and #DataCollection, the #Revo2 perfectly replicates human-like kinematics: • Ultra-Lightweight: Weighing just 383g, it is 20% lighter than the industry average, minimizing arm payload burden. • Insane Payload: It delivers \ge 50N of grip force and handles a staggering 20kg static payload! • Sub-Millimeter Precision: Features 11 DoF and advanced algorithms to achieve 0.1mm repeatability. • Tactile Perception: Multimodal tactile sensors provide rich feedback for imitation and #ReinforcementLearning.
 
-18h ago
+19h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-12h ago
+13h ago
 
 ---
 
 **[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 **[Projet d’intégration ROS2 sur plateforme robotique : valorisé ou niveau de base ?](https://www.reddit.com/r/robotics/comments/1tezb0c/projet_dintégration_ros2_sur_plateforme_robotique/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
 
-🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 4h ago
+🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 5h ago
 
 ---
 
@@ -152,7 +152,7 @@ eWeek • 2d ago
 
 A robotics student built a Disney-style Star Wars droid at home using online parts, 3D printing, and simulation-trained walking software.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 

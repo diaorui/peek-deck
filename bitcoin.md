@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-16T19:19:39.506190+00:00'
+updated: '2026-05-16T20:11:05.715277+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 19:19 UTC  
+**Last Updated:** May 16, 2026 at 20:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,19 +89,19 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-1h ago
+2h ago
 
 ---
 
 **[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 11h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 12h ago
 
 ---
 
 **[A special bond indeed 🌚](https://www.reddit.com/r/Bitcoin/comments/1tec8y7/a_special_bond_indeed/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -109,7 +109,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 Everyone has that one year when their crypto journey officially began. What year did your story start?
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Everyone has that one year when their crypto journey officially began. What year
 
 Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map out the final piece of the fiat control architecture. A programmable digital currency is dangerous, but it needs a mechanism to enforce the rules. The central banks and the Silicon Cartel are merging architectures. They are using AI behavioral modeling to create what I call the "Automated Warden." When an AI model monitors your digital footprint and is linked directly to your fiat/CBDC wallet, the money simply turns off if you step out of line. There is no human appeal process. This is why Bitcoin is no longer just an inflation hedge or "sound money." Bitcoin is the only immutable firewall we have left. It is the only ledger that cannot be programmed by an AI and cannot be turned off by a central bank algorithm. I created a full visual documentary breaking down how this digital panopticon is being built right in front of us, and why opting out into the Bitcoin network is the only logical move. You can watch the full autopsy of the system here: https://youtu.be/r1IdyV6EPE4?is=K54YmiHgpRk-nUpj
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map o
 
 If the traditional BTC cycle is still intact, where are we now?
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ If the traditional BTC cycle is still intact, where are we now?
 
 Finished syncing a full bitcoin core node not long ago and set up lightning network. Have not opened any payment channels yet because my concern is inbound liquidity. What I’m wondering is. How to go about it without just opening random channels. My main goal is to support decentralization. Just to set up one reliable node that can route day by day transactions. Is there a way to avoid much dependence on centralized swap services? Would like to avoid third parties if possible. I don’t mind the kyc. Even me personally I don’t and have never done non kyc transactions. I totally wouldn’t judge anyone who does. Main concern is I don’t support any weakening of the network. I don’t like anything that helps or uses services that are too centralized and vulnerable to government intervention. Plus the fees and limitations. Mostly the fees. Has anyone had experience and success with submarine swaps, like peerswap or lightning loop. It seems like a lot and wonder if very many just don’t get into it.
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Finished syncing a full bitcoin core node not long ago and set up lightning netw
 
 Does anyone keep separate wallets to separate a portion of their stack for kids? If so what wallet?
 
-2h ago
+3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Does anyone keep separate wallets to separate a portion of their stack for kids?
 
 The honest Bitcoin school. No altcoins. No price predictions. No newsletter. For people who want to actually understand Bitcoin.
 
-🔗 [LearnBitcoin](https://www.learnbitcoin.com) • 22h ago
+🔗 [LearnBitcoin](https://www.learnbitcoin.com) • 23h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 1d ago
 
 Michael Saylor’s bitcoin acquisition company Strategy has confirmed it could be about to sell some of its $63 billion worth of bitcoin...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 1d ago
 
 Bitcoin (BTC) circled $78,000 on Saturday after geopolitical headwinds erased most of its May gains.Key points:Multiple hurdles "coming together" for crypto, risk assetsData from TradingView confirmed new lows of $77,614 on the day — the lowest levels since May 1.BITSTAMP:BTCUSD one-hour chart. Sou…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ TradingView • 2h ago
 
 CoinGecko's 13-year study finds Bitcoin's best buy days fall on US holidays, with New Year's Day leading at +2.01%.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -213,13 +213,13 @@ Yahoo Finance • 2h ago
 
 The legal battle began in November 2023 over wrongful eviction, breach of a license agreement and unlawful retaining of property.
 
-Lexington Herald Leader • 20h ago
+Lexington Herald Leader • 21h ago
 
 ---
 
 **[Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown](https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown)**
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 2 • 💬 0 • 12h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 2 • 💬 0 • 13h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -317,7 +317,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 91 • ⏱️ 8:28 • 19h ago
+👁️ 20K • 👍 1K • 💬 91 • ⏱️ 8:28 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin just crossed a major political milestone as the Clarity Act advanced thr
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 168 • ⏱️ 15:33 • 22h ago
+👁️ 29K • 👍 2K • 💬 168 • ⏱️ 15:33 • 23h ago
 
 ---
 
@@ -337,7 +337,7 @@ It's Happening NOW - Bitcoin About To Do It - Sunday Alpha Special *BloFin* - ge
 
 📺 The Trading Parrot
 
-👁️ 6K • 👍 469 • 💬 94 • ⏱️ 22:34 • 10h ago
+👁️ 6K • 👍 469 • 💬 94 • ⏱️ 22:34 • 11h ago
 
 ---
 
@@ -347,7 +347,7 @@ I was invited to speak at the Consensus Miami 2026 conference, and they asked me
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 16K • 👍 883 • 💬 137 • ⏱️ 20:47 • 22h ago
+👁️ 16K • 👍 883 • 💬 137 • ⏱️ 20:47 • 23h ago
 
 ---
 
@@ -377,7 +377,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 300 • 💬 32 • ⏱️ 55:42 • 5h ago
+👁️ 3K • 👍 300 • 💬 32 • ⏱️ 55:42 • 6h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 1K • 💬 320 • ⏱️ 8:39 • 6h ago
+👁️ 11K • 👍 1K • 💬 320 • ⏱️ 8:39 • 7h ago
 
 ---
 
@@ -397,7 +397,7 @@ Subscribe before the easy Bitcoin is gone. Strategy MSTR is estimated to have ra
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 225 • 💬 45 • ⏱️ 19:01 • 21h ago
+👁️ 4K • 👍 225 • 💬 45 • ⏱️ 19:01 • 22h ago
 
 ---
 
