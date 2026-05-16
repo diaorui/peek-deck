@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T02:58:13.041625+00:00'
+updated: '2026-05-16T06:05:08.333221+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 02:58 UTC  
+**Last Updated:** May 16, 2026 at 06:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,224.39
+### $2,228.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -5.9%  
-**30d:** -7.9%  
-**90d:** +11.5%  
-**1y:** -9.9%  
+**24h:** -1.8%  
+**7d:** -6.1%  
+**30d:** -8.0%  
+**90d:** +11.4%  
+**1y:** -10.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $268.83B
+**Market Cap:** $268.53B
 Rank #2
 
 **Circulating Supply:** 120,685,841 ETH
@@ -62,17 +62,25 @@ No max supply
 -55.0%
 
 **All-Time Low:** $0.43
-+514349.9%
++513663.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Daily General Discussion May 15, 2026](https://www.reddit.com/r/ethereum/comments/1tdm9xw/daily_general_discussion_may_15_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 12h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 15h ago
 
 ---
 
@@ -88,13 +96,13 @@ Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgingt
 
 swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% slippage, I set my tolerance to 4% and went ahead. came out $183 below the quoted amount. the pool showed roughly $800k in 24h volume so I assumed it was fine. I s this expected at this size or did I mess something up?
 
-17h ago
+20h ago
 
 ---
 
 **[Without stablecoin treasury yield, defi is a proof that finance is zero sum](https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -102,7 +110,7 @@ swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,14 +146,6 @@ Turning consensus research into practice. We design, analyze, and formally verif
 
 ---
 
-**[Every time I try to move money between my bank and crypto I feel like a criminal even though I've done nothing wrong](https://www.reddit.com/r/ethereum/comments/1tc5b1e/every_time_i_try_to_move_money_between_my_bank/)**
-
-My bank has flagged two of my transfers to a crypto exchange in the last three months. First time they put the money on hold for 48 hours. Second time someone from their fraud team called me to ask what I was buying and why. I answered everything honestly and they released the funds but the whole interaction felt accusatory. I'm not doing anything illegal, I'm just buying some ETH. Has anyone found a way to make this less terrible
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,11 +158,19 @@ BitMine Immersion Technologies has cut its Ethereum (ETH) buying pace by 74% as 
 
 ---
 
+**[Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again](https://www.tradingview.com/news/newsbtc:82a2bdd49094b:0-ethereum-sell-signal-that-last-preceded-a-63-drop-flashes-again/)**
+
+Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset.Ethereum Has Seen A TD Sequential Sell SignalIn a new post on X, analyst Ali Martinez has highlighted a TD Sequential signal that has emerged on the 1-week price…
+
+TradingView • 1h ago
+
+---
+
 **[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-muted-predictions-075625331.html)**
 
 JPMorgan analysts warned Ethereum could continue underperforming Bitcoin unless the network delivers stronger activity, DeFi growth and real-world adoption. Motley Fool analyst Dominic Basulto predicted ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -182,19 +190,11 @@ The Block • 1d ago
 
 ---
 
-**[Latest Inflation Report: What It Could Mean For Bitcoin, Ethereum, And Solana Ahead](https://www.tradingview.com/news/newsbtc:b6f2222ba094b:0-latest-inflation-report-what-it-could-mean-for-bitcoin-ethereum-and-solana-ahead/)**
-
-Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
-
-TradingView • 3h ago
-
----
-
 **[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
 
 Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
 
-FXStreet • 14h ago
+FXStreet • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 14h ago
 
 ---
 
@@ -210,7 +210,7 @@ Fortune • 11h ago
 
 Ethereum's new Clear Signing standard, based on ERC-7730, converts raw transaction data into human-readable descriptions to combat blind signing and phishing.
 
-Crypto Briefing • 20h ago
+Crypto Briefing • 23h ago
 
 ---
 
@@ -232,13 +232,23 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
+
+BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 142 • 💬 10 • ⏱️ 18:49 • 2h ago
+
+---
+
 **[&quot;Ethereum To $12,000,  Bitcoin To $250,000 - Here&#39;s WHY&quot; Tom Lee | Crypto Prediction 2026](https://www.youtube.com/watch?v=zQGTvz_2YM4)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 404 • 💬 55 • ⏱️ 18:57 • 1d ago
+👁️ 13K • 👍 410 • 💬 54 • ⏱️ 18:57 • 1d ago
 
 ---
 
@@ -248,17 +258,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 4K • 👍 179 • 💬 61 • ⏱️ 1:05:23 • 16h ago
-
----
-
-**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
-
-Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
-
-📺 Trade Confident
-
-👁️ 226 • 👍 9 • 💬 1 • ⏱️ 5:45 • 7h ago
+👁️ 5K • 👍 186 • 💬 61 • ⏱️ 1:05:23 • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video we take the first proper public look inside the MCO Terminal and a
 
 📺 More Crypto Online
 
-👁️ 575 • 👍 60 • 💬 4 • ⏱️ 25:53 • 2h ago
+👁️ 1K • 👍 92 • 💬 6 • ⏱️ 25:53 • 5h ago
 
 ---
 
@@ -278,7 +278,17 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 2K • 👍 61 • 💬 5 • ⏱️ 13:36 • 13h ago
+👁️ 2K • 👍 70 • 💬 5 • ⏱️ 13:36 • 16h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 496 • 👍 49 • ⏱️ 7:27 • 2h ago
 
 ---
 
@@ -288,7 +298,27 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 69 • 💬 66 • ⏱️ 23:46 • 1d ago
+👁️ 2K • 👍 72 • 💬 68 • ⏱️ 23:46 • 1d ago
+
+---
+
+**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
+
+Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
+
+📺 Trade Confident
+
+👁️ 265 • 👍 10 • 💬 1 • ⏱️ 5:45 • 10h ago
+
+---
+
+**[URGENT ETHEREUM WARNING🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=dk79CX_jx6Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 477 • 👍 15 • 💬 2 • ⏱️ 4:37 • 20h ago
 
 ---
 
@@ -299,34 +329,6 @@ This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NO
 📺 Thomas Kralow
 
 👁️ 10K • 👍 2K • 💬 17 • ⏱️ 4:30 • 2d ago
-
----
-
-**[XRP FLIPS BITCOIN AND ETHEREUM CLARITY THREATENS XRP SOLANA AND MORE! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=f_aFtTWDTB0)**
-
-📺 CryptoWendyO
-
-👁️ 19K • 👍 1K • 💬 63 • ⏱️ 2:13 • 2d ago
-
----
-
-**[BITCOIN DUMP &amp; PUMP: LIQUIDATIONS COMING SOON!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=044o4K5-hME)**
-
-BITCOIN DUMP & PUMP: LIQUIDATIONS COMING SOON!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 279 • 💬 291 • ⏱️ 16:42 • 23h ago
-
----
-
-**[URGENT ETHEREUM WARNING🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=dk79CX_jx6Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 435 • 👍 14 • 💬 2 • ⏱️ 4:37 • 17h ago
 
 ---
 
