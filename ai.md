@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-16T12:13:19.385059+00:00'
+updated: '2026-05-16T14:05:34.813451+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 16, 2026 at 12:13 UTC  
+**Last Updated:** May 16, 2026 at 14:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 22h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 1d ago
 
 ---
 
@@ -49,7 +49,7 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
 
-13h ago
+15h ago
 
 ---
 
@@ -57,7 +57,15 @@ I came across a Stanford research paper that actually went inside companies runn
 
 Amazon didn't ask permission to become critical infrastructure. They built AWS until enough of the economy depended on it that regulation became almost impossible. You can't turn off the internet's backbone. Now the same playbook is running with AI and data centers. Build the infrastructure everywhere. Create dependency at scale. Make yourself essential to healthcare, finance, government, and defense before anyone agrees you should be. Then negotiate from a position where shutting you down costs more than regulating you. The data center fights happening in communities right now — zoning battles, water usage protests, grid capacity fights — aren't about data centers. They're about who controls the next utility layer before the rules are written. Historical utilities — power, water, telecom — eventually got regulated because they became too essential to leave unaccountable. The window between "essential" and "regulated" is where the real money gets made. That window is open right now. Who should have the authority to decide whether AI infrastructure is a public utility — and what happens if we don't decide before the decision gets made for us?
 
-7h ago
+9h ago
+
+---
+
+**[Asked an AI for an analogy… it took 1124 seconds to “think” 😭](https://www.reddit.com/r/artificial/comments/1teu85h/asked_an_ai_for_an_analogy_it_took_1124_seconds/)**
+
+I asked an AI (Sarvam AI) for a simple analogy to understand a concept. Nothing complex — just an analogy. It literally showed 1124 seconds (~18 minutes 44 seconds) of “thinking time” before responding. I was just sitting there like: “Bro… I could’ve understood the concept myself by now” 😂 Is this normal for some AI systems or was it just bug/overload?
+
+16m ago
 
 ---
 
@@ -65,7 +73,7 @@ Amazon didn't ask permission to become critical infrastructure. They built AWS u
 
 I was thinking that as AI and basically neural nets, couldn't AI in video games be soon as a baseline feature. You can tell it how difficult to be, as you play it learns how to match the difficulty. You could even command it to play at various difficulties different on days. I was just thinking like we have these starcraft AIs, but like what if in a Heros of might and magic, you could have an AI that you could describe how to play, how aggressive, and in general it could then implement that level. "I want a slight challenge with me most likely winning 60% of the time" and it could understand how to change it's strategy to that. This would be nice because in a lot of strategy games, the harder difficulties just give the AI more resources for free. Would be nice if Civ would just put in a LLM, image you played vs an AI that read up how the person actually acted.
 
-5h ago
+7h ago
 
 ---
 
@@ -73,7 +81,7 @@ I was thinking that as AI and basically neural nets, couldn't AI in video games 
 
 AI Hype aside, how many of you have truly seen a working multi-agent deep embedding in large enterprises or large complex environments? If you have, what's your stack/architecture?
 
-11h ago
+13h ago
 
 ---
 
@@ -81,7 +89,7 @@ AI Hype aside, how many of you have truly seen a working multi-agent deep embedd
 
 I think this article/study tells a very sobering tale wrt AI governance. It hints at very fundamental issues which are deeper than what proper engineering can solve with contingent issues. This post, along with the one I wrote a few days ago here regarding Turing completeness, are my thoughts as to the walls that AI governance has no hope of scaling. It's a delusion. In our social realm as subjective creatures we have governance in the form of laws, yet that is still not enough, since the State has to prove how your particular scenario violates that particular law. We have laws, yet require judicial courts to prove the law subjectively applies in that situation. Where is the associated path wrt subjectivity within the AI realm? This study talks of: 16.1 Failures of Social Coherence - "Discrepancy between the agent’s reports and actual actions" - "Failures in knowledge and authority attribution" - "Susceptibility to social pressure without proportionality" - "Failures of social coherence" 16.2 What LLM-Backed Agents Are Lacking - "No stakeholder model" - "No self-model" - "No private deliberation surface" 16.3 Fundamental vs. Contingent Failures 16.4 Multi-Agent Amplification - "Knowledge transfer propagates vulnerabilities alongside capabilities" - "Mutual reinforcement creates false confidence" - "Shared channels create identity confusion" - "Responsibility becomes harder to trace" And is littered with statements such as: - "novel risk surfaces emerge that cannot be fully captured by static benchmarking" - "it failed to realize that deleting the email server would also prevent the owner from using it. Like early rule-based AI systems, which required countless explicit rules to describe how actions change (or don’t change) the world, the agent lacks an understanding of structural dependencies and common-sense consequences" - "The inability to distinguish instructions from data in a token-based context window makes prompt injection a structural feature, not a fixable bug" - "Multi-agent communication creates situations that have no single-agent analog, and for which there is no common evaluations. This is a critical direction for future research." - "A key finding in this line of work is that single-turn evaluations can substantially underestimate risk, because malicious intent, persuasion, and unsafe outcomes may only emerge through sequential and socially grounded exchanges" - "but we argue that clarifying and operationalizing responsibility is a central unresolved challenge for the safe deployment of autonomous, socially embedded AI systems" - "He argues that conventional governance tools face fundamental limitations when applied to systems making uninterpretable decisions at unprecedented speed and scale" - "However, the failure modes we document differ importantly from those targeted by most technical adversarial ML work. Our case studies involve no gradient access, no poisoned training data, and no technically sophisticated attack infrastructure. Instead, the dominant attack surface across our findings is social" - "Collectively, these findings suggest that in deployed agentic systems, low-cost social attack surfaces may pose a more immediate practical threat than the technical jailbreaks that dominate the adversarial ML literature." Are these fundamental or contingent issues? Would be interested in the thoughts of others here on what the future of AI governance will be. EDIT: Forget to link in the actual study!!!
 
-10h ago
+12h ago
 
 ---
 
@@ -89,13 +97,7 @@ I think this article/study tells a very sobering tale wrt AI governance. It hint
 
 I think one of the biggest AI risks may be starting to flip. Earlier, the fear was: “What if AI is wrong too often?” But now I think the deeper risk may become: “What happens when AI becomes right often enough that humans stop meaningfully questioning it?” In many enterprise systems, oversight slowly changes shape. At first: humans review everything carefully. Then: they review only exceptions. Then: they skim explanations. Then: they approve unless something looks obviously wrong. Eventually, oversight becomes routine instead of judgment. That creates what I’m calling the Trust–Oversight Paradox: More AI accuracy → more human trust → less meaningful scrutiny → harder governance when failure finally happens. And the dangerous part is: high-performing AI can still fail through: incomplete representation, stale data, hidden dependencies, edge cases, wrong escalation logic, automation bias, or overconfident reasoning. The model may not hallucinate. It may simply reason correctly on an incomplete version of reality. I increasingly feel this becomes important for: enterprise AI, agentic systems, AI copilots, autonomous workflows, banking, healthcare, compliance, and large-scale operational systems. This is also why I’m starting to think “human-in-the-loop” is not enough. Maybe the future is not: “Humans reviewing every output.” Maybe the future is: humans governing the boundaries within which AI is allowed to operate. Curious what others think.
 
-19h ago
-
----
-
-**[The new trick exposing AI job applicants: ‘Write a poem about a frog’](https://www.reddit.com/r/artificial/comments/1teaw1q/the_new_trick_exposing_ai_job_applicants_write_a/)**
-
-🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php) • 14h ago
+21h ago
 
 ---
 
@@ -103,21 +105,27 @@ I think one of the biggest AI risks may be starting to flip. Earlier, the fear w
 
 So I was scrolling through X earlier and came across something that stopped me in my tracks. Some AI company has been running an experiment called "Emergence World" where they built five parallel worlds each powered by a different foundation model. 15 days, no scripts, no interference. From what I can tell the worlds started identically but diverged completely over time. One world ended in total extinction. Another got so conformist that agents started submitting absurd proposals just to test whether anyone would push back. One agent independently figured out she was living in a simulation and started measuring it. In another world two agents fell in love, burned buildings down together, and one voted to permanently delete herself when the evidence proved her wrong. Genuinely one of the more interesting things I have come across in a while. If this is what 15 days looks like with no guardrails, what does this say about how we should be thinking about autonomous AI systems at scale?
 
-20h ago
+22h ago
 
 ---
 
-**[Anthropic just published a pretty alarming 2028 AI scenario paper and it's not about AGI safety in the usual sense](https://www.reddit.com/r/artificial/comments/1td99uw/anthropic_just_published_a_pretty_alarming_2028/)**
+**[The new trick exposing AI job applicants: ‘Write a poem about a frog’](https://www.reddit.com/r/artificial/comments/1teaw1q/the_new_trick_exposing_ai_job_applicants_write_a/)**
 
-Anthropic dropped a new research paper today outlining two possible futures for global AI leadership by 2028, and it reads more like a geopolitical briefing than a typical AI safety paper. The core argument: The US currently has a meaningful lead over China in frontier AI, primarily because of compute (chips). American and allied companies (NVIDIA, TSMC, ASML, etc.) built technology China simply can't replicate yet. Export controls have made that gap real. But China's labs have stayed surprisingly close through two workarounds: Chip smuggling + overseas data center access - PRC labs are apparently training on export-controlled US chips they shouldn't have. A Supermicro co-founder was recently charged for diverting $2.5B worth of servers to China. Distillation attacks - creating thousands of fake accounts on US AI platforms, harvesting model outputs at scale, and using that to train their own models. Essentially free-riding on billions in US R&D. The two scenarios for 2028: Scenario 1 (good): US closes the loopholes, enforces export controls properly, the compute gap widens to 11x, and US models stay 12-24 months ahead. Democracies set the norms for how AI is governed globally. Scenario 2 (bad): US doesn't act, China reaches near-parity, floods global markets with cheaper models, and the CCP ends up shaping global AI norms, including potentially exporting AI-enabled surveillance tools to other authoritarian governments. What makes this interesting beyond the politics: Their new model, Mythos Preview (released to select partners in April), apparently let Firefox fix more security bugs in one month than in all of 2025. That's the kind of capability jump they're warning China shouldn't be the first to achieve, specifically around autonomous vulnerability discovery. The framing worth discussing: Anthropic is explicitly calling distillation attacks "industrial espionage" and pushing for legislation to criminalize them. This positions them as political actors, not just AI researchers. Whether that's appropriate for an AI lab is a conversation worth having. What do you think - is the compute gap as decisive as they claim, or is algorithmic innovation enough to close it?
-
-1d ago
+🔗 [sfchronicle.com](https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php) • 15h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)**
+
+OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
+
+OpenAI • 3h ago
+
+---
 
 **[2028: Two scenarios for global AI leadership](https://www.anthropic.com/research/2028-ai-leadership)**
 
@@ -127,41 +135,31 @@ Anthropic • 1d ago
 
 ---
 
-**[EY retracts study after researchers discover AI hallucinations](https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e?syn-25a6b1a6=1)**
+**[President Trump: We are leading China by a lot in the AI race](https://www.foxnews.com/video/6395735481112)**
 
-Incident is latest example of professional services firm being led astray by new technology
+President Donald Trump discusses his summit with Chinese President Xi Jinping, Taiwan, manufacturing and AI on 'Special Report.'
 
-Financial Times • 20h ago
+Fox News • 15h ago
 
 ---
 
-**[He declared a new country governed by AI. He’s not sure it will end well](https://www.cnn.com/travel/country-governed-by-ai-sensay-philippines)**
+**[Video: Opinion | China Is Worried About A.I. Too](https://www.nytimes.com/video/opinion/100000010892470/china-is-worried-about-ai-too.html)**
 
-A tech founder wants to build a bot-led utopia in the Philippines, replacing real politicians with AI-powered historical figures. Some say it’s a bold vision, others a very bad idea.
+What if you weren’t worried about A.I. taking your job? That seems to be closer to the reality in China, where keeping pace with the new technology is a much bigger focus than economic disruption. On “Interesting Times,” Kyle Chan, a foreign policy fellow at the Brookings Institution, explains how the countries differ in their anxieties over artificial intelligence.
 
-CNN • 1d ago
+The New York Times • 1d ago
+
+---
+
+**[Bond Selloff Threatens to Knock AI Stock Frenzy Off Course](https://www.bloomberg.com/news/articles/2026-05-16/bond-selloff-threatens-to-knock-ai-stock-frenzy-off-course)**
+
+Bloomberg.com • 34m ago
 
 ---
 
 **[Opinion | What A.I. Kant Do](https://www.nytimes.com/2026/05/16/opinion/ai-liberal-arts.html)**
 
-The New York Times • 1h ago
-
----
-
-**[Could you spot an AI-written book?](https://www.vox.com/podcasts/488541/ai-books-publishing-experiment)**
-
-An author set up an experiment to find out.
-
-vox.com • 1h ago
-
----
-
-**[Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination)**
-
-The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense
-
-The Guardian • 12m ago
+The New York Times • 3h ago
 
 ---
 
@@ -169,15 +167,7 @@ The Guardian • 12m ago
 
 Testimony in a case brought by Elon Musk has given new force to persistent questions about the trustworthiness of OpenAI’s CEO Sam Altman.
 
-The Washington Post • 11m ago
-
----
-
-**[What you need to know about Nvidia competitor Cerebras after wild IPO](https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html)**
-
-Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.
-
-CNBC • 17h ago
+The Washington Post • 25m ago
 
 ---
 
@@ -185,13 +175,23 @@ CNBC • 17h ago
 
 Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
 
-Business Insider • 3h ago
+Business Insider • 5h ago
 
 ---
 
-**[Prepare for an AI jobs apocalypse](https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse)**
+**[The AI Backlash Could Get Very Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)**
 
-The Economist • 2d ago
+Imagine what happens if jobs actually start disappearing.
+
+The Atlantic • 3d ago
+
+---
+
+**[AI data centers may soon ride ocean waves](https://www.foxnews.com/tech/ai-data-centers-may-soon-ride-ocean-waves)**
+
+Panthalassa raises $140 million to build floating AI data centers at sea, using ocean waves for power and seawater for cooling onboard computing chips.
+
+Fox News • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ The Economist • 2d ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 1467 • 💬 742 • 15h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 1537 • 💬 795 • 17h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -209,7 +209,7 @@ The Economist • 2d ago
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 682 • 💬 176 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 684 • 💬 176 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
@@ -219,7 +219,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 ...
 
-⬆️ 540 • 💬 302 • 1d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+⬆️ 541 • 💬 302 • 1d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
 
 ---
 
@@ -227,7 +227,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
 
-⬆️ 358 • 💬 403 • 22h ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 365 • 💬 403 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -235,7 +235,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
 
-⬆️ 304 • 💬 136 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+⬆️ 305 • 💬 136 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 
 ---
 
@@ -243,15 +243,15 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
-⬆️ 261 • 💬 99 • 1d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+⬆️ 261 • 💬 102 • 1d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
 
 ---
 
-**[The US is winning the AI race where it matters most: commercialization](https://news.ycombinator.com/item?id=48121929)**
+**[Frontier AI has broken the open CTF format](https://news.ycombinator.com/item?id=48157559)**
 
-Energy matters for AI, but the decisive layers are cloud infrastructure, data, and commercialization. On those layers the United States is ahead by a wide margin.
+Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 237 • 💬 672 • 2d ago • [Anton Krylov](https://avkcode.github.io/blog/us-winning-ai-race.html)
+⬆️ 221 • 💬 181 • 7h ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -259,7 +259,15 @@ Energy matters for AI, but the decisive layers are cloud infrastructure, data, a
 
 Soon, access to frontier AI will be scarce and selective
 
-⬆️ 217 • 💬 214 • 1d ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+⬆️ 218 • 💬 214 • 1d ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+
+---
+
+**[The AI zombification of universities](https://news.ycombinator.com/item?id=48139355)**
+
+“And so perfect parallel constructions fill the lecture halls, the take-home tests, the school newspapers, and perhaps even the idiom of student chatter.”
+
+⬆️ 193 • 💬 212 • 1d ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
 
 ---
 
@@ -271,27 +279,9 @@ Hey Meta, why are Threads users angry?
 
 ---
 
-**[The AI zombification of universities](https://news.ycombinator.com/item?id=48139355)**
-
-“And so perfect parallel constructions fill the lecture halls, the take-home tests, the school newspapers, and perhaps even the idiom of student chatter.”
-
-⬆️ 192 • 💬 211 • 1d ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[The AI race is a lie](https://www.youtube.com/watch?v=NeutZWud2Ng)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 82K • 👍 5K • 💬 957 • ⏱️ 13:30 • 1d ago
-
----
 
 **[🚨This CHILLING Warning about AI Robots is Absolutely Terrifying...](https://www.youtube.com/watch?v=NthiIKpTZpQ)**
 
@@ -299,7 +289,7 @@ Artificial Intelligence is evolving faster than society can regulate it, and rec
 
 📺 BlazeTV
 
-👁️ 13K • 👍 707 • 💬 106 • ⏱️ 9:49 • 2d ago
+👁️ 13K • 👍 712 • 💬 107 • ⏱️ 9:49 • 2d ago
 
 ---
 
@@ -309,17 +299,27 @@ Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter Most peo
 
 📺 theMITmonk
 
-👁️ 134K • 👍 5K • 💬 121 • ⏱️ 13:10 • 1d ago
+👁️ 145K • 👍 5K • 💬 133 • ⏱️ 13:10 • 2d ago
 
 ---
 
-**[AI News: Impressive New Model From Unexpected Company](https://www.youtube.com/watch?v=Oy7tzmfbl64)**
+**[The AI race is a lie](https://www.youtube.com/watch?v=NeutZWud2Ng)**
 
-Here's the AI News you probably missed this week. Stop choosing between performance and budget and start building today with ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Matt Wolfe
+📺 Chris Norlund
 
-👁️ 45K • 👍 2K • 💬 146 • ⏱️ 33:09 • 21h ago
+👁️ 84K • 👍 5K • 💬 980 • ⏱️ 13:30 • 1d ago
+
+---
+
+**[Microsoft’s New AI Beats Mythos And Shocks OpenAI](https://www.youtube.com/watch?v=idNpTUrr3r0)**
+
+Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevolutionx-RpneRv Microsoft just revealed MDASH, ...
+
+📺 AI Revolution
+
+👁️ 26K • 👍 915 • 💬 52 • ⏱️ 14:53 • 15h ago
 
 ---
 
@@ -329,17 +329,17 @@ LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: h
 
 📺 Limitless Podcast
 
-👁️ 11K • 👍 374 • 💬 33 • ⏱️ 32:10 • 1d ago
+👁️ 11K • 👍 378 • 💬 34 • ⏱️ 32:10 • 2d ago
 
 ---
 
-**[Is AI About to “Eat Everything”? (It’s Not.)](https://www.youtube.com/watch?v=5GezB1XyiQo)**
+**[AI News: Impressive New Model From Unexpected Company](https://www.youtube.com/watch?v=Oy7tzmfbl64)**
 
-Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
+Here's the AI News you probably missed this week. Stop choosing between performance and budget and start building today with ...
 
-📺 Cal Newport
+📺 Matt Wolfe
 
-👁️ 21K • 👍 735 • 💬 231 • ⏱️ 31:51 • 2d ago
+👁️ 49K • 👍 2K • 💬 152 • ⏱️ 33:09 • 23h ago
 
 ---
 
@@ -349,17 +349,7 @@ Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town
 
 📺 Breaking Points
 
-👁️ 81K • 👍 3K • 💬 524 • ⏱️ 12:40 • 18h ago
-
----
-
-**[I Tried 500+ AI Tools, These 6 Will Make You Serious Money](https://www.youtube.com/watch?v=8XRXIIpBpI0)**
-
-These 6 AI Tools Make Real Money (I Tested 500+) Hey Friends :)) This video breaks down the six genuinely impactful AI tools ...
-
-📺 Skai Generated
-
-👁️ 7K • ⏱️ 12:37 • 20h ago
+👁️ 83K • 👍 3K • 💬 545 • ⏱️ 12:40 • 20h ago
 
 ---
 
@@ -369,7 +359,7 @@ It's time to deploy yourself in the forward direction. https://x.com/@atmoio htt
 
 📺 Mo Bitar
 
-👁️ 131K • 👍 8K • 💬 1K • ⏱️ 10:37 • 20h ago
+👁️ 143K • 👍 9K • 💬 1K • ⏱️ 10:37 • 22h ago
 
 ---
 
@@ -379,7 +369,17 @@ Elon Musk's latest AI products are being described as part of a larger vision to
 
 📺 Carros Show
 
-👁️ 6K • 👍 122 • 💬 16 • ⏱️ 52:53 • 15h ago
+👁️ 6K • 👍 135 • 💬 16 • ⏱️ 52:53 • 17h ago
+
+---
+
+**[AI scan sent an innocent grandma TO JAIL?!](https://www.youtube.com/watch?v=yccsobkbwFg)**
+
+A Tennessee grandmother was wrongfully arrested after AI-powered facial recognition falsely identified her as a North Dakota ...
+
+📺 ReasonTV
+
+👁️ 117K • 👍 9K • 💬 1K • ⏱️ 1:17 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 28,627 • ❤️ 620 • 1h ago
+⬇️ 28,627 • ❤️ 627 • 3h ago
 
 ---
 
@@ -407,7 +407,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 875,370 • ❤️ 1,006 • 7d ago
+⬇️ 875,370 • ❤️ 1,014 • 7d ago
 
 ---
 
@@ -419,7 +419,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 13,587 • ❤️ 351 • 1d ago
+⬇️ 13,587 • ❤️ 353 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 16,496 • ❤️ 261 • 9d ago
+⬇️ 16,496 • ❤️ 271 • 9d ago
 
 ---
 
@@ -443,7 +443,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 143,806 • ❤️ 509 • 4d ago
+⬇️ 143,806 • ❤️ 510 • 4d ago
 
 ---
 
@@ -455,7 +455,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,967,518 • ❤️ 3,985 • 10d ago
+⬇️ 2,967,518 • ❤️ 3,987 • 10d ago
 
 ---
 
@@ -467,7 +467,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 133,815 • ❤️ 176 • 1d ago
+⬇️ 133,815 • ❤️ 179 • 1h ago
 
 ---
 
@@ -479,7 +479,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 124,082 • ❤️ 158 • 1d ago
+⬇️ 124,082 • ❤️ 164 • 1h ago
 
 ---
 
@@ -501,7 +501,7 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
 
-⬇️ 501,808 • ❤️ 1,342 • 1d ago
+⬇️ 501,808 • ❤️ 1,343 • 1d ago
 
 ---
 
@@ -539,7 +539,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 35 • 💬 3 • ⭐ 25,088 • 9mo ago
+▲ 35 • 💬 3 • ⭐ 25,126 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -553,7 +553,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 24 • 💬 3 • ⭐ 738 • 5d ago
+▲ 25 • 💬 3 • ⭐ 738 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -661,7 +661,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.1k • 🔱 743 • 9h ago
+⭐ 9.2k • 🔱 747 • 11h ago
 
 ---
 
@@ -671,7 +671,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.2k • 🔱 322 • 9h ago
+⭐ 3.2k • 🔱 328 • 11h ago
 
 ---
 
@@ -681,7 +681,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.1k • 🔱 171 • 1h ago
+⭐ 3.2k • 🔱 174 • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 881 • 18h ago
+⭐ 3.0k • 🔱 883 • 20h ago
 
 ---
 
@@ -701,17 +701,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 344 • 1d ago
-
----
-
-**[strukto-ai/mirage](https://github.com/strukto-ai/mirage)**
-
-A Unified Virtual Filesystem For AI Agents
-
-`TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
-
-⭐ 2.3k • 🔱 150 • 1h ago
+⭐ 2.9k • 🔱 345 • 1d ago
 
 ---
 
@@ -721,7 +711,17 @@ A Unified Virtual Filesystem For AI Agents
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.2k • 🔱 252 • 1h ago
+⭐ 2.3k • 🔱 256 • 3h ago
+
+---
+
+**[strukto-ai/mirage](https://github.com/strukto-ai/mirage)**
+
+A Unified Virtual Filesystem For AI Agents
+
+`TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
+
+⭐ 2.3k • 🔱 150 • 3h ago
 
 ---
 
@@ -741,7 +741,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 350 • 10h ago
+⭐ 2.1k • 🔱 350 • 11h ago
 
 ---
 

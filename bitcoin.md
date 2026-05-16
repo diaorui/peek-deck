@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-16T12:13:19.393441+00:00'
+updated: '2026-05-16T14:05:34.821589+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 12:13 UTC  
+**Last Updated:** May 16, 2026 at 14:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,712.60
+### $77,970.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -4.9%  
-**30d:** +1.3%  
-**90d:** +13.5%  
-**1y:** -24.3%  
+**24h:** -1.6%  
+**7d:** -5.1%  
+**30d:** +1.1%  
+**90d:** +13.2%  
+**1y:** -24.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1562.46B
+**Market Cap:** $1560.94B
 Rank #1
 
-**Circulating Supply:** 20,030,109 BTC
+**Circulating Supply:** 20,030,165 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.1%
+-38.2%
 
 **All-Time Low:** $67.81
-+114936.1%
++114822.6%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[A special bond indeed 🌚](https://www.reddit.com/r/Bitcoin/comments/1tec8y7/a_special_bond_indeed/)**
+**[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
 
-13h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 6h ago
 
 ---
 
-**[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
+**[A special bond indeed 🌚](https://www.reddit.com/r/Bitcoin/comments/1tec8y7/a_special_bond_indeed/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 4h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The honest Bitcoin school. No altcoins. No price predictions. No newsletter. For people who want to actually understand Bitcoin.
 
-🔗 [LearnBitcoin](https://www.learnbitcoin.com) • 15h ago
+🔗 [LearnBitcoin](https://www.learnbitcoin.com) • 17h ago
 
 ---
 
@@ -101,15 +101,7 @@ The honest Bitcoin school. No altcoins. No price predictions. No newsletter. For
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
-
----
-
-**[What was the discourse the previous big pumps?](https://www.reddit.com/r/Bitcoin/comments/1teqg35/what_was_the_discourse_the_previous_big_pumps/)**
-
-I am relatively new, have been adding since last year, and I see a lot of negative comments and posts. I try not to sift through them all. I'm curious was it any different when it started pumping on the last few cycles, or is this just how it is here? I swear that bitcoin has it's week high early and then back down in the weekend, is that just market manipulation? How's everyone feeling?
-
-1h ago
+7h ago
 
 ---
 
@@ -117,13 +109,29 @@ I am relatively new, have been adding since last year, and I see a lot of negati
 
 We ladies and gentlemen are still early, so hodl. stay sats stack humble.
 
+3h ago
+
+---
+
+**[What was the discourse the previous big pumps?](https://www.reddit.com/r/Bitcoin/comments/1teqg35/what_was_the_discourse_the_previous_big_pumps/)**
+
+I am relatively new, have been adding since last year, and I see a lot of negative comments and posts. I try not to sift through them all. I'm curious was it any different when it started pumping on the last few cycles, or is this just how it is here? I swear that bitcoin has it's week high early and then back down in the weekend, is that just market manipulation? How's everyone feeling?
+
+3h ago
+
+---
+
+**[Why Bitcoin is the absolute only defense against the AI & CBDC "Automated Ward](https://www.reddit.com/r/Bitcoin/comments/1tesxiw/why_bitcoin_is_the_absolute_only_defense_against/)**
+
+Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map out the final piece of the fiat control architecture. A programmable digital currency is dangerous, but it needs a mechanism to enforce the rules. The central banks and the Silicon Cartel are merging architectures. They are using AI behavioral modeling to create what I call the "Automated Warden." When an AI model monitors your digital footprint and is linked directly to your fiat/CBDC wallet, the money simply turns off if you step out of line. There is no human appeal process. This is why Bitcoin is no longer just an inflation hedge or "sound money." Bitcoin is the only immutable firewall we have left. It is the only ledger that cannot be programmed by an AI and cannot be turned off by a central bank algorithm. I created a full visual documentary breaking down how this digital panopticon is being built right in front of us, and why opting out into the Bitcoin network is the only logical move. You can watch the full autopsy of the system here: https://youtu.be/r1IdyV6EPE4?is=K54YmiHgpRk-nUpj
+
 1h ago
 
 ---
 
 **[Banks lost, Innovation won.](https://www.reddit.com/r/Bitcoin/comments/1tdypbz/banks_lost_innovation_won/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -131,23 +139,15 @@ We ladies and gentlemen are still early, so hodl. stay sats stack humble.
 
 demo + video: https://youtu.be/2UM4j1_xEs0
 
-14h ago
+16h ago
 
 ---
 
-**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1tersi9/removed_by_reddit/)**
+**[When did you first hear about Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1tetoi0/when_did_you_first_hear_about_bitcoin/)**
 
-[ Removed by Reddit on account of violating the content policy. ]
+Everyone has that one year when their crypto journey officially began. What year did your story start?
 
-9m ago
-
----
-
-**[Jane Street "slashed" Bitcoin ETF holdings 71% here's why that headline is almost certainly misleading](https://www.reddit.com/r/Bitcoin/comments/1tdzatu/jane_street_slashed_bitcoin_etf_holdings_71_heres/)**
-
-The narrative going around today: Jane Street is dumping Bitcoin. The reality is more interesting. **What a 13F filing actually is:** A 13F is a quarterly SEC disclosure that shows institutional long positions. It does not include short positions, futures contracts, options, swaps, or any other derivatives. For a passive fund, this gives you a clean picture. For a market maker? It's half the story. Jane Street is not a passive fund. They are one of the largest and most sophisticated quantitative trading firms in the world — known for running arbitrage strategies across every major asset class at massive scale. **What basis trading looks like on a 13F:** Basis trade = Buy spot ETF (appears in 13F as a long position) + Sell BTC futures simultaneously (does NOT appear in 13F) When the futures premium compresses — meaning the spread between spot and futures narrows — the firm exits the s...
-
-20h ago
+38m ago
 
 ---
 
@@ -155,17 +155,9 @@ The narrative going around today: Jane Street is dumping Bitcoin. The reality is
 
 ## Google News: "bitcoin"
 
-**[Strategy (MSTR) buying back convertible debt at a discount](https://www.coindesk.com/markets/2026/05/15/strategy-to-repurchase-usd1-5-billion-of-2029-convertible-bonds-using-cash-or-bitcoin-sales)**
+**[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
-CoinDesk • 23h ago
-
----
-
-**[Bitcoin Giant Strategy Moves to Retire $1.5 Billion in Convertible Debt, Says It Could Sell BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-giant-strategy-moves-retire-145025810.html)**
-
-Strategy is taking steps to pare down convertible debt with an agreement to repurchase $1.5 billion in notes—and again teased Bitcoin sales.
-
-Yahoo Finance • 21h ago
+WSJ • 1d ago
 
 ---
 
@@ -173,23 +165,7 @@ Yahoo Finance • 21h ago
 
 Michael Saylor’s bitcoin acquisition company Strategy has confirmed it could be about to sell some of its $63 billion worth of bitcoin...
 
-Forbes • 2h ago
-
----
-
-**[Why Bitcoin Was Slumping on Friday](https://www.fool.com/investing/2026/05/15/why-bitcoin-was-slumping-on-friday/)**
-
-Dramatic movements on the bond market weren't beneficial for the leading cryptocurrency.
-
-The Motley Fool • 11h ago
-
----
-
-**[Bitcoin Mining vs. High Performance AI Computing: Which is Better for the Environment](https://www.yahoo.com/news/articles/bitcoin-mining-vs-high-performance-100215530.html)**
-
-Bitcoin mining faced a public environmental reckoning after Tesla stopped accepting BTC payments in 2021. Cambridge estimates that sustainable energy accounts for 52.4% of Bitcoin ...
-
-Yahoo • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -197,7 +173,15 @@ Yahoo • 2h ago
 
 The legal battle began in November 2023 over wrongful eviction, breach of a license agreement and unlawful retaining of property.
 
-Lexington Herald Leader • 13h ago
+Lexington Herald Leader • 15h ago
+
+---
+
+**[Blockspace: IREN’s $3B Note, CME Compute Futures, Mike Alfred’s Stock Picks, Trump’s Q1 Bitcoin Equities](https://finance.yahoo.com/video/blockspace-iren-3b-note-cme-130926856.html)**
+
+AI compute futures are now live on the CME, and IREN has raised $3B in a new convertible note offering.
+
+Yahoo Finance • 56m ago
 
 ---
 
@@ -209,27 +193,35 @@ The Block • 1d ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://www.fool.com/investing/2026/05/16/prediction-bitcoin-will-hit-1-million-heres-the-ti/)**
+**[Bitcoin News: Spot Bitcoin ETFs Lose $1 Billion in a Week, Ending Six-Week Inflow Streak as Inflation Fears and AI Rotation Take Hold](https://www.binance.com/en/square/post/323764457679186)**
 
-Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
-
-The Motley Fool • 2h ago
+Binance • 1h ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-1-million-095800099.html)**
+**[Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown](https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown)**
 
-Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
-
-Yahoo Finance • 2h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://www.aol.com/articles/prediction-bitcoin-hit-1-million-095800098.html)**
+**[Why is bitcoin (BTC) down today: Surging bond yield, inflation worries rattle crypto, stocks, gold](https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets)**
 
-Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
+CoinDesk • 17h ago
 
-AOL.com • 1h ago
+---
+
+**[XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress](https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress)**
+
+CoinDesk • 2h ago
+
+---
+
+**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 21h ago
 
 ---
 
@@ -255,7 +247,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 **[THORChain exploit hits Bitcoin, Ethereum, and BSC: Hackers steal over $10M](https://news.ycombinator.com/item?id=48152601)**
 
-⬆️ 6 • 💬 1 • 17h ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
+⬆️ 6 • 💬 1 • 18h ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
 
 ---
 
@@ -291,7 +283,7 @@ How Deblock integrated instant, non-custodial bitcoin into their neobank using t
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-⬆️ 2 • 💬 0 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
+⬆️ 2 • 💬 0 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)
 
 ---
 
@@ -305,7 +297,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 2 • 💬 0 • 5h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 2 • 💬 0 • 7h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -319,17 +311,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 918 • 💬 33 • ⏱️ 8:28 • 12h ago
-
----
-
-**[98.6% Of Crypto Is NEVER Coming Back Except These Coins](https://www.youtube.com/watch?v=-mtlYzjSLlE)**
-
-I was invited to speak at the Consensus Miami 2026 conference, and they asked me more about why I think most of the crypto ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 11K • 👍 668 • 💬 93 • ⏱️ 20:47 • 15h ago
+👁️ 16K • 👍 1K • 💬 37 • ⏱️ 8:28 • 14h ago
 
 ---
 
@@ -339,7 +321,27 @@ Bitcoin just crossed a major political milestone as the Clarity Act advanced thr
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 144 • ⏱️ 15:33 • 15h ago
+👁️ 25K • 👍 2K • 💬 161 • ⏱️ 15:33 • 17h ago
+
+---
+
+**[Could BlackRock break Bitcoin? The fight over hard forks begins.](https://www.youtube.com/watch?v=r20UGPZ38-c)**
+
+Big institutional money is entering the crypto space, but it brings unexpected consequences. As Bitcoin matures, a fascinating ...
+
+📺 Coin Layer
+
+👁️ 675 • 👍 7 • ⏱️ 0:41 • 5h ago
+
+---
+
+**[It&#39;s Happening NOW - Bitcoin About To Do It - Sunday Alpha Special](https://www.youtube.com/watch?v=D5jMh5xVV6U)**
+
+It's Happening NOW - Bitcoin About To Do It - Sunday Alpha Special *BloFin* - get up to $10000 USD bonus and 50% fees ...
+
+📺 The Trading Parrot
+
+👁️ 4K • 👍 385 • 💬 73 • ⏱️ 22:34 • 5h ago
 
 ---
 
@@ -349,57 +351,17 @@ OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY �
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 175 • ⏱️ 11:42 • 1d ago
+👁️ 47K • 👍 3K • 💬 175 • ⏱️ 11:42 • 1d ago
 
 ---
 
-**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
+**[98.6% Of Crypto Is NEVER Coming Back Except These Coins](https://www.youtube.com/watch?v=-mtlYzjSLlE)**
 
-Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
+I was invited to speak at the Consensus Miami 2026 conference, and they asked me more about why I think most of the crypto ...
 
-📺 Simply Bitcoin
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 36K • 👍 2K • 💬 167 • ⏱️ 15:54 • 1d ago
-
----
-
-**[$10M Bitcoin PANIC - Congress Opened The Floodgates](https://www.youtube.com/watch?v=zfVdLZQBFog)**
-
-Subscribe before the easy Bitcoin is gone. Strategy MSTR is estimated to have raised enough capital THIS WEEK alone to ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 201 • 💬 41 • ⏱️ 19:01 • 14h ago
-
----
-
-**[Crypto vs CLARITY Uncertainty📉Technical Analysis ‪@EvanAldo‬](https://www.youtube.com/watch?v=YyOkDS4FM9k)**
-
-As Bitcoin risks losing key level sooner than anticipated, altcoins might prosper. ~This Episode is Sponsored by OKX~ Trade ...
-
-📺 Paul Barron Network
-
-👁️ 22K • 👍 1K • 💬 105 • ⏱️ 16:51 • 18h ago
-
----
-
-**[Weekend Crypto Setup Looks Dangerous](https://www.youtube.com/watch?v=ZM0R-IRzr7A)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 571 • 💬 222 • ⏱️ 11:53 • 21h ago
-
----
-
-**[BITCOIN’S DO-OR-DIE LEVEL! 🚨 My Price Targets for BTC, XRP, ETH &amp; SOL](https://www.youtube.com/watch?v=h9mM0NAnBQE)**
-
-The crypto market is at a massive crossroads. In today's video, we deep dive into the charts—no BS, just pure probability.
-
-📺 Gareth Soloway
-
-👁️ 46K • 👍 3K • 💬 102 • ⏱️ 9:16 • 3d ago
+👁️ 13K • 👍 772 • 💬 123 • ⏱️ 20:47 • 17h ago
 
 ---
 
@@ -409,7 +371,37 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 477 • 💬 21 • ⏱️ 9:09 • 5h ago
+👁️ 8K • 👍 590 • 💬 49 • ⏱️ 9:09 • 7h ago
+
+---
+
+**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
+
+Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 2K • 💬 161 • ⏱️ 15:54 • 1d ago
+
+---
+
+**[Bitcoin Reacts as Trump and Xi Strike New Deals](https://www.youtube.com/watch?v=LWZ6gYuMugo)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 927 • 💬 141 • ⏱️ 59:30 • 23h ago
+
+---
+
+**[Any Night Security Guard Could Steal Satoshi&#39;s Bitcoin](https://www.youtube.com/watch?v=7L5jsw0YEmA)**
+
+Spiral developer Matt Corallo on why a cryptographically relevant quantum computer would make Satoshi's Bitcoin vulnerable to ...
+
+📺 Galaxy
+
+👁️ 850 • 👍 4 • ⏱️ 0:42 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T12:13:19.399459+00:00'
+updated: '2026-05-16T14:05:34.826739+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 12:13 UTC  
+**Last Updated:** May 16, 2026 at 14:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,171.71
+### $2,177.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -8.1%  
-**30d:** -10.0%  
+**24h:** -2.1%  
+**7d:** -8.2%  
+**30d:** -10.1%  
 **90d:** +8.9%  
-**1y:** -12.0%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $262.62B
+**Market Cap:** $262.54B
 Rank #2
 
 **Circulating Supply:** 120,685,841 ETH
@@ -62,7 +62,7 @@ No max supply
 -56.0%
 
 **All-Time Low:** $0.43
-+502522.5%
++502314.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-2h ago
-
----
-
-**[Ethereal news weekly #23 | Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan](https://www.reddit.com/r/ethereum/comments/1tdy4x1/ethereal_news_weekly_23_clear_signing_clarity_act/)**
-
-Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 21h ago
+4h ago
 
 ---
 
@@ -97,6 +89,14 @@ Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgingt
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Ethereal news weekly #23 | Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan](https://www.reddit.com/r/ethereum/comments/1tdy4x1/ethereal_news_weekly_23_clear_signing_clarity_act/)**
+
+Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 23h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Three months after mainnet launched, Vitalik deployed an advertising auction system to Ethereum. Eight ad slots, four auction mechanisms (one-phase winner-pays, cumulative, sealed-bid first-price, sealed-bid second-price), all managed by a factory contract called adStorer from ethereum/dapp-bin. I matched the deployed bytecode to source through compiler archaeology. Exact match, 8,752 bytes, solc v0.1.1. Then I decoded every transaction across all 8 child auction contracts. The only bidder was Vitalik himself. Two wallets (his old deployer and what’s now vitalik.eth), 229 transactions, 0.064 ETH in bids. The winning “advertisements” were two image URLs: me.jpg (a photo of himself) and heiko.jpg (a photo of Heiko Hees, who was building pyethereum). Both are 404 today. Some details: Slot 5 is a second-price sealed-bid auction. vitalik.eth bid 0.0005 ETH, his old wallet bid 0.0003 ETH. Second-price rules made vitalik.eth pay the runner-up’s price. The first Vickrey auction on Ethereum selected a photo of a pyethereum developer over its own creator. Gas cost more than the bids. Vitalik burned ~1 ETH on gas (at 60 gwei, hard-coded in his deploy script) to move 0.064 ETH through the auction mechanics. At October 2015 prices, the whole experiment cost about $2. Slot 1 was a stress test. 159 transactions, with Vitalik rebidding the same 0.0001 ETH increment 19 times in a row to validate cumulative bidding. Three of the four all-pay auction variants got zero bids. He abandoned the one he tried before revealing. Even Vitalik didn’t trust his own all-pay math. The sealed-bid auctions had a frontend bug where bid hashes were passed as ASCII hex instead of raw bytes, making commitments readable in calldata. Didn’t matter since the only participant wrote the code. 0.029 ETH (~$70 today, $0.03 in 2015) is still locked in the child contracts from unrevealed sealed bids. This was deployed three weeks before DevCon 1, on a network with maybe a few hundred users. A mechanism design experiment that nobody participated in except its creator, preserved on-chain for ten years. I checked the Wayback Machine for the ad images. The closest capture of vitalik.ca/files/ is from June 2016. Neither photo was archived. Full documentation with verified source, decoded bids, and all 8 slots mapped: https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e This is part of the EthereumHistory project where we’re documenting and verifying the earliest Ethereum contracts. If you want to help, the project is open.
 
-🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 2d ago
+🔗 [Ethereum History](https://ethereumhistory.com/contract/0xaf0334bf30c401b7e3afafbac1dbcdc712be8b9e) • 3d ago
 
 ---
 
@@ -158,19 +158,11 @@ BitMine Immersion Technologies has cut its Ethereum (ETH) buying pace by 74% as 
 
 ---
 
-**[Bitmine Pivots To Ethereum Staking Yield As NYSE Uplisting Draws Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-pivots-ethereum-staking-yield-091827775.html)**
+**[We Asked Gemini If Ethereum (ETH) Could Reclaim $3,000 in Q2](https://finance.yahoo.com/markets/crypto/articles/asked-gemini-ethereum-eth-could-124511841.html)**
 
-Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
+Ethereum (CRYPTO: ETH) has had a rough start to 2026. The coin dropped 23% in Q1, and is trading around $2,200—$800 below the $3,000 level most institutional buyers have been waiting on. The Ethereum price has delivered positive returns in Q2 in three out of the last five years, but the coin has averaged a ... We Asked Gemini If Ethereum (ETH) Could Reclaim $3,000 in Q2
 
-Yahoo Finance • 2h ago
-
----
-
-**[Latest Inflation Report: What It Could Mean For Bitcoin, Ethereum, And Solana Ahead](https://www.tradingview.com/news/newsbtc:b6f2222ba094b:0-latest-inflation-report-what-it-could-mean-for-bitcoin-ethereum-and-solana-ahead/)**
-
-Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
-
-TradingView • 12h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,17 +174,19 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/)**
+**[Latest Inflation Report: What It Could Mean For Bitcoin, Ethereum, And Solana Ahead](https://www.tradingview.com/news/newsbtc:b6f2222ba094b:0-latest-inflation-report-what-it-could-mean-for-bitcoin-ethereum-and-solana-ahead/)**
 
-CCN.com • 1d ago
+Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
+
+TradingView • 14h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-may-14-2026-bitcoin-and-ethereum-prices-slipping-this-week-111938059.html)**
+**[Bitcoin and ethereum prices today, Friday, May 15, 2026: Prices open higher, but slipping this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-15-2026-prices-open-higher-but-slipping-this-morning-111851137.html)**
 
-Bitcoin opened at $79,283.34 on Thursday, down 1.5% from Wednesday's opening price. Ethereum opened at $2,257.71 on Thursday, down 0.7% from Wednesday’s opening value.
+Bitcoin opened at $81,069.54 on Friday, up 2.3% from Thursday’s open. The value of bitcoin fell to $80,596.43 by 7:10 a.m ET. Ethereum opened at $2,282.46 on Friday, up 1.1% from Thursday’s open. The value of ethereum was down as of 7:10 a.m. ET, at $2,257.73.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -210,9 +204,9 @@ Coinpedia • 1d ago
 
 ---
 
-**[Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%](https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12)**
+**[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/)**
 
-CoinDesk • 22h ago
+CCN.com • 1d ago
 
 ---
 
@@ -220,7 +214,15 @@ CoinDesk • 22h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 21h ago
+
+---
+
+**[Ethereum introduces clear signing standard for human-readable transactions](https://cryptobriefing.com/ethereum-clear-signing-standard/)**
+
+Ethereum's new Clear Signing standard, based on ERC-7730, converts raw transaction data into human-readable descriptions to combat blind signing and phishing.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 713 • 👍 39 • 💬 68 • ⏱️ 15:37 • 5h ago
+👁️ 1K • 👍 73 • 💬 88 • ⏱️ 15:37 • 7h ago
 
 ---
 
@@ -244,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 426 • 💬 53 • ⏱️ 18:57 • 1d ago
+👁️ 13K • 👍 436 • 💬 51 • ⏱️ 18:57 • 1d ago
 
 ---
 
@@ -254,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 127 • 👍 12 • 💬 2 • ⏱️ 4:43 • 3h ago
+👁️ 266 • 👍 25 • 💬 2 • ⏱️ 4:43 • 4h ago
 
 ---
 
@@ -264,17 +266,7 @@ BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 7K • 👍 277 • 💬 49 • ⏱️ 18:49 • 8h ago
-
----
-
-**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
-
-GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
-
-📺 Bankless
-
-👁️ 5K • 👍 194 • 💬 39 • ⏱️ 1:05:23 • 1d ago
+👁️ 8K • 👍 315 • 💬 50 • ⏱️ 18:49 • 10h ago
 
 ---
 
@@ -284,37 +276,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 3K • 👍 86 • 💬 25 • ⏱️ 13:36 • 22h ago
-
----
-
-**[ETH Supply Shock Could Send Ethereum To $20K Explained](https://www.youtube.com/watch?v=7WiPJ8CUCo8)**
-
-Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with MaxFi - https://www.maxfi.tech/ Big Time ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 75 • 💬 63 • ⏱️ 23:46 • 1d ago
-
----
-
-**[Ethereum June Outlook: Historical Pattern Turns Bearish](https://www.youtube.com/watch?v=ixVrjnkjc3w)**
-
-In this video we take the first proper public look inside the MCO Terminal and analyze Ethereum using the MCO Seasonality Tool.
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 139 • 💬 11 • ⏱️ 25:53 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 2K • 👍 105 • ⏱️ 7:27 • 9h ago
+👁️ 3K • 👍 100 • 💬 25 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -324,7 +286,47 @@ Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergi
 
 📺 Trade Confident
 
-👁️ 343 • 👍 11 • 💬 1 • ⏱️ 5:45 • 17h ago
+👁️ 357 • 👍 11 • 💬 6 • ⏱️ 5:45 • 18h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 2K • 👍 115 • 💬 6 • ⏱️ 7:27 • 10h ago
+
+---
+
+**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
+
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
+
+📺 Bankless
+
+👁️ 6K • 👍 197 • 💬 38 • ⏱️ 1:05:23 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: THIS IS BAD!!!](https://www.youtube.com/watch?v=0JR0z7vRGqM)**
+
+This data is terrible for bitcoin, ethereum and the rest of crypto! WATCH OUT NOW!!!! ---------- Join My FREE Trading Group ...
+
+📺 Thomas Kralow
+
+👁️ 10K • 👍 2K • 💬 17 • ⏱️ 4:30 • 2d ago
+
+---
+
+**[Ethereum June Outlook: Historical Pattern Turns Bearish](https://www.youtube.com/watch?v=ixVrjnkjc3w)**
+
+In this video we take the first proper public look inside the MCO Terminal and analyze Ethereum using the MCO Seasonality Tool.
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 158 • 💬 12 • ⏱️ 25:53 • 13h ago
 
 ---
 
