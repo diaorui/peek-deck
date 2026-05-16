@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-16T14:05:34.829452+00:00'
+updated: '2026-05-16T15:34:25.024227+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 16, 2026 at 14:05 UTC  
+**Last Updated:** May 16, 2026 at 15:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Unitree Launches World’s First Mass-Produced Manned Mecha GD01](https://www.reddit.com/r/robotics/comments/1tew8v9/unitree_launches_worlds_first_massproduced_manned/)**
+
+Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
+
+26m ago
+
+---
+
 **[The Next-Gen Professional Bionic Dexterous Hand](https://www.reddit.com/r/robotics/comments/1tee7ak/the_nextgen_professional_bionic_dexterous_hand/)**
 
 #PnPRobots is here to shatter those boundaries. We provide seamless, plug-and-play robotic solutions built to accelerate your development. We are thrilled to introduce our industry-disrupting hardware: the Next-Gen Professional Bionic Dexterous Hand — #Revo2. 🔥 #Revo2: Lighter Than a Human Hand, Stronger Than Imagination Designed specifically for complex, real-world manipulation and #DataCollection, the #Revo2 perfectly replicates human-like kinematics: • Ultra-Lightweight: Weighing just 383g, it is 20% lighter than the industry average, minimizing arm payload burden. • Insane Payload: It delivers \ge 50N of grip force and handles a staggering 20kg static payload! • Sub-Millimeter Precision: Features 11 DoF and advanced algorithms to achieve 0.1mm repeatability. • Tactile Perception: Multimodal tactile sensors provide rich feedback for imitation and #ReinforcementLearning.
 
-13h ago
+15h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,13 +58,21 @@ Robotics research and industry news
 
 Just finished putting together the first prototype of my robot project. It uses esp32s3 as the main controller and a xiao esp32s3 cam to stream camera and microphone feed. The leg mechanism is based on the strandbeest linkage and it is controlled by two nema17 steppers run by tmc2209 drivers. It also has a fan internally to keep temps adequate. As for sensors it has a TOF sensor to measure distance from objects and an IMU to detect its movement. The end goal is to make an open source companion robot that acts and feels alive by responding and viewing the world being powered by modern AI crap as you guys know it’s getting pushed everywhere, at least I’m giving it a physical body.
 
-23h ago
+1d ago
+
+---
+
+**[Figure AI Robot Made a Bed. But Can It Beat a Human Maid?](https://www.reddit.com/r/robotics/comments/1tew4cd/figure_ai_robot_made_a_bed_but_can_it_beat_a/)**
+
+Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
+
+🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 31m ago
 
 ---
 
 **[now i must find a place to put in on the robot](https://www.reddit.com/r/robotics/comments/1tdxk1c/now_i_must_find_a_place_to_put_in_on_the_robot/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -64,7 +80,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 I recently spent the day at a humancentric robotics company, talking with the CEO and several roboticists and engineers about how they make their decisions and what goes into something like that. I produced a video of my day there and figured some of you may find it interesting. You can watch the video here: https://www.youtube.com/watch?v=8oFT_ErMHMg Whilst I don't work for the company, as I said, I spent the day there so if you had any particular questions I may have an answer for you.
 
-18h ago
+20h ago
 
 ---
 
@@ -72,7 +88,7 @@ I recently spent the day at a humancentric robotics company, talking with the CE
 
 Do you have opinions on the available ROS tooling? Are you using AI in your ROS development workflow? Or maybe you refuse to use AI and want to tell us why? We want to hear from you! We are a group of software engineering researchers at Carnegie Mellon University, VORTEX Collab, and the University of Lisbon investigating how ROS developers find and use information, what tools they rely on across different development tasks, and how AI-powered tools fit into the development workflow. We are conducting a research survey to better understand the information needs, tooling gaps, and the role of AI in the ROS development process. This survey is estimated to take ~20 minutes to complete. The research survey is open to ROS developers who are at least 18 years old and with at least one year of experience. If you are interested in sharing your experiences, please visit the SURVEY LINK to complete the survey. Responses are anonymous and will be used solely for research purposes. This research survey is part of a study (STUDY2026_00000158) conducted by Claire Le Goues and Christopher Timperley at Carnegie Mellon University. If you have any questions about the study, please contact Andrea Miller (PhD student) at [andreami@andrew.cmu.edu](mailto:andreami@andrew.cmu.edu).
 
-18h ago
+20h ago
 
 ---
 
@@ -86,19 +102,7 @@ Do you have opinions on the available ROS tooling? Are you using AI in your ROS 
 
 ROS News for the week of May 11th, 2026    🎉 Registration for ROSCon Global is now open! We launched with a fantastic list of workshops for 2026 from all of your favorite package maintainers We recommend you take advantage of our early bird tickets which make workshop registration effectively free!       Our Lyrical test and tutorial party wrapped up yesterday and we’re still triaging tickets. All I can say right now is that we closed WAY MORE tickets than last year and consequently smashed...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-11th-2026/54889) • 17h ago
-
----
-
-**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx5lc/kinect_depth_camera_works_with_my_robot/)**
-
-1d ago
-
----
-
-**[Kinect depth camera works with my robot](https://www.reddit.com/r/robotics/comments/1tdx2l8/kinect_depth_camera_works_with_my_robot/)**
-
-1d ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-11th-2026/54889) • 19h ago
 
 ---
 
@@ -110,7 +114,7 @@ ROS News for the week of May 11th, 2026    🎉 Registration for ROSCon Global i
 
 Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
 
-NBC News • 22h ago
+NBC News • 1d ago
 
 ---
 
@@ -122,7 +126,7 @@ eWeek • 1d ago
 
 **[Robotics CEO Vows No Intervention in Humanoids’ Viral Trial Run](https://www.bloomberg.com/news/articles/2026-05-15/robotics-ceo-vows-no-intervention-in-humanoids-viral-trial-run)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -134,11 +138,15 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[China Is Preparing for a Robot-Led Taiwan Invasion](https://nationalinterest.org/blog/techland/china-is-preparing-for-a-robot-led-taiwan-invasion)**
+**[Amazon's next CT warehouse will have 'advanced' robots. What does that mean for human employees, customers?](https://www.ctinsider.com/business/article/amazon-robotics-ct-warehouse-retail-technology-22258632.php)**
 
-China’s use of military robotics is a warning to the United States and Taiwan to accelerate robotics deployment and counter-robotics defenses to preserve deterrence.
+CT Insider • 1d ago
 
-The National Interest • 22h ago
+---
+
+**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
+
+eWeek • 1d ago
 
 ---
 
@@ -146,27 +154,7 @@ The National Interest • 22h ago
 
 The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
 
-The Jerusalem Post • 18h ago
-
----
-
-**[Mind Robotics Announces $400M in New Funding to Expand Industrial Robotics Deployment](https://www.businesswire.com/news/home/20260513731983/en/Mind-Robotics-Announces-%24400M-in-New-Funding-to-Expand-Industrial-Robotics-Deployment)**
-
-Mind Robotics today announced a $400 million financing led by Kleiner Perkins, bringing total investment in Mind Robotics to more than $1 billion. This finan...
-
-Business Wire • 2d ago
-
----
-
-**[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
-
-eWeek • 22h ago
-
----
-
-**[Mind Robotics raises $400M to scale AI-powered robots in manufacturing](https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/)**
-
-The Robot Report • 2d ago
+The Jerusalem Post • 20h ago
 
 ---
 
@@ -174,7 +162,23 @@ The Robot Report • 2d ago
 
 FANUC and NVIDIA built factory robot digital twins that mirror real-world motion and AI behavior.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 16h ago
+
+---
+
+**[China Is Preparing for a Robot-Led Taiwan Invasion](https://nationalinterest.org/blog/techland/china-is-preparing-for-a-robot-led-taiwan-invasion)**
+
+China’s use of military robotics is a warning to the United States and Taiwan to accelerate robotics deployment and counter-robotics defenses to preserve deterrence.
+
+The National Interest • 23h ago
+
+---
+
+**[Why Yakima officials are excited for an ag robotics event coming to town this fall](https://www.yakimaherald.com/news/local/business/why-yakima-officials-are-excited-for-an-ag-robotics-event-coming-to-town-this-fall/article_34d11d55-e1a9-41b4-9c3e-956af69ca4df.html)**
+
+A conference demonstrating the latest robotic technologies in agriculture is coming to Yakima in October.
+
+Yakima Herald-Republic • 1d ago
 
 ---
 
@@ -198,7 +202,7 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 11K • 👍 222 • 💬 21 • ⏱️ 55:02 • 2d ago
+👁️ 11K • 👍 222 • 💬 21 • ⏱️ 55:02 • 3d ago
 
 ---
 
@@ -238,7 +242,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 866K • 👍 66K • 💬 6K • ⏱️ 23:53 • 5d ago
+👁️ 866K • 👍 66K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
