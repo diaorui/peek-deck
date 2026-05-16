@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-16T21:12:42.294290+00:00'
+updated: '2026-05-16T22:11:15.441140+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 21:12 UTC  
+**Last Updated:** May 16, 2026 at 22:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1566.70B
+**Market Cap:** $1565.57B
 Rank #1
 
-**Circulating Supply:** 20,030,250 BTC
+**Circulating Supply:** 20,030,306 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -38.0%
 
 **All-Time Low:** $67.81
-+115247.3%
++115144.1%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Holy shit. I don't know what just happened. Maybe it's because I'm getting older and I think about money differently, like I'm planning wealth for the future rather than just winning a quick buck and blowing it on some fancy thing. I've spent *YEARS* holding a "diversified" "crypto" portfolio that was only like 30% bitcoin. I timed cycle tops and bottoms. Yes it performed well. Yes I took profit. Yes I bought nice things. The bitcoin allocation was an afterthought. But now I get it. 21 million supply. Permanently growing demand and adoption. Sure, other assets will outperform sometimes. But bitcoin isn't just an asset. It is a virus with a reach that is constantly expanding. Saturation is so far away. Just look at the price curve. I had these thoughts before but, I don't know why, it just didn't click like this. Good god, it is so obvious. This is the best risk-adjusted bet to exist. Ever. I finally get it. 100% BTC.
 
-6h ago
+7h ago
 
 ---
 
 **[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 13h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 14h ago
 
 ---
 
 **[A special bond indeed 🌚](https://www.reddit.com/r/Bitcoin/comments/1tec8y7/a_special_bond_indeed/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -101,7 +101,7 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 Everyone has that one year when their crypto journey officially began. What year did your story start?
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ Everyone has that one year when their crypto journey officially began. What year
 
 If the traditional BTC cycle is still intact, where are we now?
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ If the traditional BTC cycle is still intact, where are we now?
 
 The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 53m ago
+🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ The mystery about the ingenious creator of Bitcoin concealing behind the pseudon
 
 Goal was to provide comparisons and as much information to people shopping for loans on their bitcoin. Totally open to suggestions and feedback. Thanks guys. BorrowOnBitcoin.com
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Goal was to provide comparisons and as much information to people shopping for l
 
 It seems that in 100 years or so, the final bitcoin will take a very long time to mine considering the halving protocol. Since the block reward will continue to be cut in half every 4 years, will the miners be working for just a few sats for a long period of time beyond that? With BTC divisible by 100M, it seems like the mining of dust could continue almost forever.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ It seems that in 100 years or so, the final bitcoin will take a very long time t
 
 Finished syncing a full bitcoin core node not long ago and set up lightning network. Have not opened any payment channels yet because my concern is inbound liquidity. What I’m wondering is. How to go about it without just opening random channels. My main goal is to support decentralization. Just to set up one reliable node that can route day by day transactions. Is there a way to avoid much dependence on centralized swap services? Would like to avoid third parties if possible. I don’t mind the kyc. Even me personally I don’t and have never done non kyc transactions. I totally wouldn’t judge anyone who does. Main concern is I don’t support any weakening of the network. I don’t like anything that helps or uses services that are too centralized and vulnerable to government intervention. Plus the fees and limitations. Mostly the fees. Has anyone had experience and success with submarine swaps, like peerswap or lightning loop. It seems like a lot and wonder if very many just don’t get into it.
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ Finished syncing a full bitcoin core node not long ago and set up lightning netw
 
 Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map out the final piece of the fiat control architecture. A programmable digital currency is dangerous, but it needs a mechanism to enforce the rules. The central banks and the Silicon Cartel are merging architectures. They are using AI behavioral modeling to create what I call the "Automated Warden." When an AI model monitors your digital footprint and is linked directly to your fiat/CBDC wallet, the money simply turns off if you step out of line. There is no human appeal process. This is why Bitcoin is no longer just an inflation hedge or "sound money." Bitcoin is the only immutable firewall we have left. It is the only ledger that cannot be programmed by an AI and cannot be turned off by a central bank algorithm. I created a full visual documentary breaking down how this digital panopticon is being built right in front of us, and why opting out into the Bitcoin network is the only logical move. You can watch the full autopsy of the system here: https://youtu.be/r1IdyV6EPE4?is=K54YmiHgpRk-nUpj
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map o
 
 Michael Saylor’s bitcoin acquisition company Strategy has confirmed it could be about to sell some of its $63 billion worth of bitcoin...
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 1d ago
 
 Crypto analyst Gargoyle has advised market participants not to buy Bitcoin until it sees high volume, which could mark the bottom. This comes amid BTC’s recent drop below the psychological $80,000 level, with the leading crypto at risk of another decline.Analyst Advises Against Buying Bitcoin Until…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ TradingView • 2h ago
 
 Bitcoin’s (CRYPTO: BTC) latest rally attempt is running into an unexpected wall; the U.S. bond market. While crypto traders focused on ETF flows, institutional adoption, and the recent progress of the CLARITY Act in Washington, another market quietly tightened financial conditions in the background. The U.S. 2-year Treasury yield surged to 4.09%, its highest level ... Is the 2-Year Treasury at 4.09% Why Bitcoin (BTC) Can’t Break Out?
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,13 +205,13 @@ Yahoo Finance • 46m ago
 
 The legal battle began in November 2023 over wrongful eviction, breach of a license agreement and unlawful retaining of property.
 
-Lexington Herald Leader • 22h ago
+Lexington Herald Leader • 23h ago
 
 ---
 
 **[Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown](https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown)**
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -227,7 +227,7 @@ Fortune • 1d ago
 
 Dramatic movements on the bond market weren't beneficial for the leading cryptocurrency.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -303,7 +303,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 2 • 💬 0 • 14h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 2 • 💬 0 • 15h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -317,7 +317,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 91 • ⏱️ 8:28 • 21h ago
+👁️ 21K • 👍 1K • 💬 48 • ⏱️ 8:28 • 22h ago
 
 ---
 
@@ -327,57 +327,7 @@ Bitcoin just crossed a major political milestone as the Clarity Act advanced thr
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 168 • ⏱️ 15:33 • 1d ago
-
----
-
-**[It&#39;s Happening NOW - Bitcoin About To Do It - Sunday Alpha Special](https://www.youtube.com/watch?v=D5jMh5xVV6U)**
-
-It's Happening NOW - Bitcoin About To Do It - Sunday Alpha Special *BloFin* - get up to $10000 USD bonus and 50% fees ...
-
-📺 The Trading Parrot
-
-👁️ 6K • 👍 469 • 💬 94 • ⏱️ 22:34 • 12h ago
-
----
-
-**[98.6% Of Crypto Is NEVER Coming Back Except These Coins](https://www.youtube.com/watch?v=-mtlYzjSLlE)**
-
-I was invited to speak at the Consensus Miami 2026 conference, and they asked me more about why I think most of the crypto ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 16K • 👍 883 • 💬 137 • ⏱️ 20:47 • 1d ago
-
----
-
-**[BREAKING: CRYPTO CLARITY ACT PASSES! WHAT HAPPENS NEXT?](https://www.youtube.com/watch?v=DkEKRRZrvEQ)**
-
-OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY ✓ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 173 • ⏱️ 11:42 • 1d ago
-
----
-
-**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
-
-Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 2K • 💬 160 • ⏱️ 15:54 • 2d ago
-
----
-
-**[Saturday Bitcoin Update BTC Holding Strong! But Bears Are Still Hunting!](https://www.youtube.com/watch?v=LcMFpqoYKNs)**
-
-Get a chance win a ROLEX! BTCC COMPETITION: ...
-
-📺 Crypto Lifer
-
-👁️ 3K • 👍 300 • 💬 32 • ⏱️ 55:42 • 7h ago
+👁️ 30K • 👍 2K • 💬 161 • ⏱️ 15:33 • 1d ago
 
 ---
 
@@ -387,17 +337,67 @@ Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 1K • 💬 320 • ⏱️ 8:39 • 8h ago
+👁️ 17K • 👍 1K • 💬 330 • ⏱️ 8:39 • 9h ago
 
 ---
 
-**[$10M Bitcoin PANIC - Congress Opened The Floodgates](https://www.youtube.com/watch?v=zfVdLZQBFog)**
+**[It&#39;s Happening NOW - Bitcoin About To Do It - Sunday Alpha Special](https://www.youtube.com/watch?v=D5jMh5xVV6U)**
 
-Subscribe before the easy Bitcoin is gone. Strategy MSTR is estimated to have raised enough capital THIS WEEK alone to ...
+It's Happening NOW - Bitcoin About To Do It - Sunday Alpha Special *BloFin* - get up to $10000 USD bonus and 50% fees ...
 
-📺 Bitcoin News Alerts
+📺 The Trading Parrot
 
-👁️ 4K • 👍 225 • 💬 45 • ⏱️ 19:01 • 23h ago
+👁️ 6K • 👍 480 • 💬 95 • ⏱️ 22:34 • 13h ago
+
+---
+
+**[98.6% Of Crypto Is NEVER Coming Back Except These Coins](https://www.youtube.com/watch?v=-mtlYzjSLlE)**
+
+I was invited to speak at the Consensus Miami 2026 conference, and they asked me more about why I think most of the crypto ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 18K • 👍 914 • 💬 142 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[BREAKING: CRYPTO CLARITY ACT PASSES! WHAT HAPPENS NEXT?](https://www.youtube.com/watch?v=DkEKRRZrvEQ)**
+
+OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY ✓ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 3K • 💬 159 • ⏱️ 11:42 • 1d ago
+
+---
+
+**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
+
+Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 2K • 💬 152 • ⏱️ 15:54 • 2d ago
+
+---
+
+**[Saturday Bitcoin Update BTC Holding Strong! But Bears Are Still Hunting!](https://www.youtube.com/watch?v=LcMFpqoYKNs)**
+
+Get a chance win a ROLEX! BTCC COMPETITION: ...
+
+📺 Crypto Lifer
+
+👁️ 3K • 👍 306 • 💬 40 • ⏱️ 55:42 • 8h ago
+
+---
+
+**[Crypto vs CLARITY Uncertainty📉Technical Analysis ‪@EvanAldo‬](https://www.youtube.com/watch?v=YyOkDS4FM9k)**
+
+As Bitcoin risks losing key level sooner than anticipated, altcoins might prosper. ~This Episode is Sponsored by OKX~ Trade ...
+
+📺 Paul Barron Network
+
+👁️ 24K • 👍 1K • 💬 100 • ⏱️ 16:51 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 593 • 💬 212 • ⏱️ 11:53 • 1d ago
+👁️ 11K • 👍 602 • 💬 199 • ⏱️ 11:53 • 1d ago
 
 ---
 

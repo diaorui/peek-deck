@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T21:12:42.299428+00:00'
+updated: '2026-05-16T22:11:15.446356+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 21:12 UTC  
+**Last Updated:** May 16, 2026 at 22:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.14B
+**Market Cap:** $263.05B
 Rank #2
 
 **Circulating Supply:** 120,685,841 ETH
@@ -62,7 +62,7 @@ No max supply
 -55.9%
 
 **All-Time Low:** $0.43
-+503460.2%
++503268.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-11h ago
+12h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 2d ago
 
 The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 3h ago
 
 Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 21h ago
 
 Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 92 • 💬 94 • ⏱️ 15:37 • 14h ago
+👁️ 3K • 👍 99 • 💬 97 • ⏱️ 15:37 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 448 • 💬 49 • ⏱️ 18:57 • 2d ago
+👁️ 14K • 👍 452 • 💬 49 • ⏱️ 18:57 • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 4K • 👍 126 • 💬 25 • ⏱️ 13:36 • 1d ago
+👁️ 5K • 👍 128 • 💬 25 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 482 • 👍 28 • 💬 2 • ⏱️ 4:43 • 12h ago
+👁️ 540 • 👍 30 • 💬 2 • ⏱️ 4:43 • 12h ago
 
 ---
 
@@ -276,45 +276,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 6K • 👍 211 • 💬 39 • ⏱️ 1:05:23 • 1d ago
-
----
-
-**[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
-
-BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 350 • 💬 91 • ⏱️ 18:49 • 17h ago
-
----
-
-**[Ethereum June Outlook: Historical Pattern Turns Bearish](https://www.youtube.com/watch?v=ixVrjnkjc3w)**
-
-In this video we take the first proper public look inside the MCO Terminal and analyze Ethereum using the MCO Seasonality Tool.
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 182 • 💬 12 • ⏱️ 25:53 • 20h ago
-
----
-
-**[Bitcoin EN VIVO | XRP, Solana, ETH y las tendencias del mercado](https://www.youtube.com/watch?v=ygqvcnzNic4)**
-
-Tu cuenta aquí https://t.co/oIFG2RpkHh ¿Estamos ante la **última gran oportunidad para invertir en Bitcoin** o el inicio de un ...
-
-📺 TradingLatino
-
-👁️ 18K • 👍 2K • 💬 30 • ⏱️ 42:58 • 17h ago
-
----
-
-**[XRP FLIPS BITCOIN AND ETHEREUM CLARITY THREATENS XRP SOLANA AND MORE! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=f_aFtTWDTB0)**
-
-📺 CryptoWendyO
-
-👁️ 19K • 👍 1K • 💬 67 • ⏱️ 2:13 • 2d ago
+👁️ 6K • 👍 215 • 💬 36 • ⏱️ 1:05:23 • 1d ago
 
 ---
 
@@ -324,7 +286,47 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 80 • 💬 57 • ⏱️ 23:46 • 1d ago
+👁️ 2K • 👍 81 • 💬 50 • ⏱️ 23:46 • 1d ago
+
+---
+
+**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
+
+Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
+
+📺 Trade Confident
+
+👁️ 408 • 👍 12 • 💬 12 • ⏱️ 5:45 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
+
+BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 357 • 💬 51 • ⏱️ 18:49 • 18h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 3K • 👍 120 • 💬 6 • ⏱️ 7:27 • 19h ago
+
+---
+
+**[Ethereum VS XRP – Which Is Better?](https://www.youtube.com/watch?v=AiaKtqyYLcA)**
+
+Ethereum and Ripple are often compared, but they're solving completely different problems. One is a global app platform, the ...
+
+📺 CoinGecko
+
+👁️ 9K • 👍 283 • 💬 131 • ⏱️ 3:46 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-16T21:12:42.302221+00:00'
+updated: '2026-05-16T22:11:15.449200+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 16, 2026 at 21:12 UTC  
+**Last Updated:** May 16, 2026 at 22:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-6h ago
+7h ago
 
 ---
 
@@ -50,19 +50,19 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 #PnPRobots is here to shatter those boundaries. We provide seamless, plug-and-play robotic solutions built to accelerate your development. We are thrilled to introduce our industry-disrupting hardware: the Next-Gen Professional Bionic Dexterous Hand — #Revo2. 🔥 #Revo2: Lighter Than a Human Hand, Stronger Than Imagination Designed specifically for complex, real-world manipulation and #DataCollection, the #Revo2 perfectly replicates human-like kinematics: • Ultra-Lightweight: Weighing just 383g, it is 20% lighter than the industry average, minimizing arm payload burden. • Insane Payload: It delivers \ge 50N of grip force and handles a staggering 20kg static payload! • Sub-Millimeter Precision: Features 11 DoF and advanced algorithms to achieve 0.1mm repeatability. • Tactile Perception: Multimodal tactile sensors provide rich feedback for imitation and #ReinforcementLearning.
 
-20h ago
+21h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-14h ago
+15h ago
 
 ---
 
 **[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 **[Projet d’intégration ROS2 sur plateforme robotique : valorisé ou niveau de base ?](https://www.reddit.com/r/robotics/comments/1tezb0c/projet_dintégration_ros2_sur_plateforme_robotique/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -98,7 +98,7 @@ I recently spent the day at a humancentric robotics company, talking with the CE
 
 Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
 
-🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 6h ago
+🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 7h ago
 
 ---
 
@@ -138,7 +138,7 @@ CT Insider • 1d ago
 
 A robotics student built a Disney-style Star Wars droid at home using online parts, 3D printing, and simulation-trained walking software.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -184,13 +184,23 @@ Adafruit • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+
+📺 Technology with Tyler
+
+👁️ 20K • 👍 459 • 💬 79 • ⏱️ 21:16 • 3d ago
+
+---
+
 **[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
 
 A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
 
 📺 CBS TEXAS
 
-👁️ 308K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
+👁️ 314K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
 
 ---
 
@@ -200,17 +210,17 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 223 • 💬 21 • ⏱️ 55:02 • 3d ago
+👁️ 12K • 👍 225 • 💬 21 • ⏱️ 55:02 • 3d ago
 
 ---
 
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
 
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
 
-📺 Technology with Tyler
+📺 ShortCircuit
 
-👁️ 19K • 👍 427 • 💬 75 • ⏱️ 21:16 • 3d ago
+👁️ 35K • 👍 2K • 💬 327 • ⏱️ 15:32 • 7h ago
 
 ---
 
@@ -220,17 +230,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 69K • 👍 631 • 💬 234 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Unitree Just Dropped A Real Life MECHA AI Robot](https://www.youtube.com/watch?v=nFo6UWD0J2o)**
-
-Unitree just revealed the GD01, a real manned mecha robot that can walk on two legs, smash through walls, switch into a ...
-
-📺 AI Revolution
-
-👁️ 18K • 👍 549 • 💬 66 • ⏱️ 15:27 • 1d ago
+👁️ 71K • 👍 644 • 💬 242 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -240,27 +240,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 894K • 👍 67K • 💬 6K • ⏱️ 23:53 • 6d ago
-
----
-
-**[Meet Amazon&#39;s $50,000 Robot - Inside Big Tech&#39;s Humanoid Takeover](https://www.youtube.com/watch?v=5d7lkdfe7fI)**
-
-What if your next roommate wasn't human? On this episode of NYC Innovates, we meet Sprout, a 3.5ft robot that dances, does ...
-
-📺 Cheddar
-
-👁️ 5K • 👍 158 • 💬 25 • ⏱️ 10:22 • 2d ago
-
----
-
-**[No Soldiers, Just Robots: How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
-
-Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
-
-📺 Radio Free Europe/Radio Liberty
-
-👁️ 33K • 👍 795 • 💬 46 • ⏱️ 3:07 • 3d ago
+👁️ 905K • 👍 67K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
@@ -270,17 +250,37 @@ The world's first production-ready manned mecha. It can transform. It's a civili
 
 📺 Unitree Robotics
 
-👁️ 14.9M • 👍 12K • 💬 3K • ⏱️ 1:15 • 4d ago
+👁️ 15.6M • 👍 12K • 💬 3K • ⏱️ 1:15 • 4d ago
 
 ---
 
-**[F.03 Livestream - Day 4](https://www.youtube.com/watch?v=luU57hMhkak)**
+**[No Soldiers, Just Robots: How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
 
-Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
+Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
 
-📺 Figure
+📺 Radio Free Europe/Radio Liberty
 
-👁️ 1.6M • 👍 30K • 3d ago
+👁️ 34K • 👍 808 • 💬 46 • ⏱️ 3:07 • 3d ago
+
+---
+
+**[Apple’s New $5,000 Home Robot iSiri Will Make You Forget About Cleaning Forever](https://www.youtube.com/watch?v=cg83PmGY09w)**
+
+Apple's new home robot iSiri is being described as a major step toward fully automated smart living, combining advanced AI with ...
+
+📺 Carros Show
+
+👁️ 22K • 👍 309 • 💬 35 • ⏱️ 23:07 • 4d ago
+
+---
+
+**[AI with Calluses- Why China is Winning the Physical Robot Race](https://www.youtube.com/watch?v=QlfLsJ0TyiE)**
+
+Silicon Valley is building AI to write emails. China is building AI to weld steel. Discover the terrifying speed of "Embodied AI" and ...
+
+📺 Eric Cracks China
+
+👁️ 20K • 👍 1K • 💬 32 • ⏱️ 2:58 • 20h ago
 
 ---
 
