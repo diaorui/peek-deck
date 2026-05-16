@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-16T15:34:25.006400+00:00'
+updated: '2026-05-16T16:59:16.322493+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 16, 2026 at 15:34 UTC  
+**Last Updated:** May 16, 2026 at 16:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[We keep saying AI "understands" things. Does it? Or are we just pattern-matching our own anthropomorphism?](https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/)**
+
+Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
+
+1h ago
+
+---
+
 **[Recent poll shows that 70% of Americans don't want AI data centers being built in their local area](https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/)**
 
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
@@ -49,7 +57,7 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
 
-16h ago
+18h ago
 
 ---
 
@@ -57,7 +65,7 @@ I came across a Stanford research paper that actually went inside companies runn
 
 Amazon didn't ask permission to become critical infrastructure. They built AWS until enough of the economy depended on it that regulation became almost impossible. You can't turn off the internet's backbone. Now the same playbook is running with AI and data centers. Build the infrastructure everywhere. Create dependency at scale. Make yourself essential to healthcare, finance, government, and defense before anyone agrees you should be. Then negotiate from a position where shutting you down costs more than regulating you. The data center fights happening in communities right now — zoning battles, water usage protests, grid capacity fights — aren't about data centers. They're about who controls the next utility layer before the rules are written. Historical utilities — power, water, telecom — eventually got regulated because they became too essential to leave unaccountable. The window between "essential" and "regulated" is where the real money gets made. That window is open right now. Who should have the authority to decide whether AI infrastructure is a public utility — and what happens if we don't decide before the decision gets made for us?
 
-10h ago
+12h ago
 
 ---
 
@@ -65,23 +73,31 @@ Amazon didn't ask permission to become critical infrastructure. They built AWS u
 
 I think we’re underestimating how chaotic enterprise AI adoption actually is inside large companies. From the outside, it looks simple: buy better models add copilots automate workflows deploy AI agents increase productivity But inside many enterprises, CIOs and CTOs are dealing with a much deeper problem: The organization itself is fragmented. Customer data exists across: CRM systems billing platforms support tools spreadsheets emails regional databases legacy systems nobody fully understands anymore And every system describes the “same customer” differently. Then leadership says: “Scale AI faster.” But scale AI on top of what exactly? Which system represents reality correctly? The CRM? The support history? The risk engine? The finance system? The employee’s undocumented tribal knowledge? This is where a lot of enterprise AI projects quietly break down. Not because the models are weak. But because the enterprise itself lacks a coherent representation of its own operations. And the tension gets worse: Boards want acceleration. Employees are already using AI unofficially. Vendors promise transformation in 90 days. Meanwhile CIOs still don’t have clear answers to questions like: Which workflows actually need AI? Which should remain deterministic automation? Where is human judgment still critical? Which data is trustworthy enough for AI decisions? Who owns accountability when AI influences actions? So companies launch pilots. The pilot works. Executives celebrate. Then scaling fails because the pilot never encountered the full institutional complexity of the enterprise. I’m increasingly convinced the next enterprise AI bottleneck is not model capability. It’s organizational legibility. The companies that win with AI may not be the ones with the smartest models. They may be the ones whose internal reality is structured clearly enough for AI to operate safely. Curious how many people here are seeing the same thing inside their organizations. :::
 
-46m ago
+2h ago
 
 ---
 
-**[We keep saying AI "understands" things. Does it? Or are we just pattern-matching our own anthropomorphism?](https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/)**
+**[Your AI agent is one poisoned webpage away from doing something catastrophic](https://www.reddit.com/r/artificial/comments/1teytyb/your_ai_agent_is_one_poisoned_webpage_away_from/)**
 
-Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
+If your agent browses the web, reads emails, or pulls from a database — any of that content can contain hidden instructions that hijack it. This isn’t theoretical. It’s happening in production right now. A webpage footer tells your agent to forward credentials. An email signature tells it to ignore its guidelines. A retrieved document tells it to change behavior. The model has no idea the content isn’t a legitimate instruction. The fix isn’t better prompt filtering. It’s source-aware authority enforcement. Every content chunk should carry a trust level. Webpages, emails, tool outputs — zero instruction authority. They can provide data. They cannot tell your agent what to do. That’s what Arc Gate does. It sits between your app and your LLM and enforces instruction-authority boundaries at the proxy level. When untrusted content tries to become an instruction source, it gets blocked or sandboxed before the model ever sees it. One line to try it: from langchain_arcgate import ArcGateCallback from langchain_openai import ChatOpenAI llm = ChatOpenAI(callbacks=[ArcGateCallback(api_key="demo")]) Live red team environment: https://web-production-6e47f.up.railway.app/break-arc-gate GitHub: https://github.com/9hannahnine-jpg/arc-gate Looking for teams actively deploying agents who want to test this on real workloads. Free access in exchange for feedback.​​​​​​​​​​​​​​​​
 
-29m ago
+13m ago
 
 ---
 
-**[We compiled 42 of the Generative & Agentic AI interview questions (and how to actually answer them).](https://www.reddit.com/r/artificial/comments/1tew06b/we_compiled_42_of_the_generative_agentic_ai/)**
+**[I have figured out a way to run every memory system out there on one platform](https://www.reddit.com/r/artificial/comments/1texg6u/i_have_figured_out_a_way_to_run_every_memory/)**
 
-Hey Everyone, The AI engineering job market has shifted massively in the last 6 months. Interviewers are no longer just asking "how does a transformer work?" or "how do you write a good prompt?" They want to know if you can architect production-grade multi-agent systems, prevent RAG hallucinations, and manage state across LLM calls. I’ve been building a visual learning sandbox for multi-agent workflows (agentswarms.fyi), and today I just launched a completely free AI Interview Prep Module inside it. I compiled 42 top interview questions specifically for GenAI and Agentic AI roles. But instead of just giving a generic answer, the module breaks down the "Standout Answer" and teaches you the mental model of how to answer it like a senior architect. Here are two examples from the list: Question 1: When would you use a Multi-Agent Swarm instead of a single LLM with multiple tools? ❌ The average answer: "When the task is too complex, multiple agents are better than one." ✅ The standout answer: "You use a swarm to prevent context dilution and enforce the Principle of Least Privilege. If you give one 'God Agent' 15 tools and a 4k-word system prompt, its reliability drops and hallucination risk spikes. By routing to specialized sub-agents with narrow instructions (e.g., separating the 'Data Extraction Agent' from the 'Customer Chat Agent'), you isolate failure points and allow for parallel execution." Question 2: How do you handle hallucinations in a financial RAG pipeline? ❌ The average answer: "I would lower the temperature to 0 and give it a better system prompt." ✅ The standout answer: "I would decouple data extraction from text generation. I'd use a deterministic node or a strict JSON-enforced agent to only extract the hard numbers from the retrieved context. Then, I would pass that structured data to a separate Synthesis Agent. Finally, I'd implement an 'LLM-as-a-judge' evaluation loop before returning the final output to the user." What's in the full list? The 42 questions cover: RAG Architecture & Vector Databases Agentic Routing (ReAct vs. Planner-Executor) Evaluation metrics for non-deterministic outputs Security (Prompt injection prevention in multi-agent loops) You can read through all 42 questions, answers, and the "how to answer" breakdowns right in the dashboard here: https://agentswarms.fyi/interview-questions For those of you who have interviewed for AI Engineering roles recently, what is the hardest system design question you've been asked? I'd love to add it to the list.
+But is there an industry need for it ... It's smth like vlc media player of memory systems ... My team thinks it's hard to make money from it or its hard to sell ... What do y'all think In this system it's like you can fetch like zep for your temporal needs , store like letta if needed , traverse like mempalace or hindsight etc all in one place Thoughts?
 
-35m ago
+1h ago
+
+---
+
+**[Making an AI companion that degrades over time](https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/)**
+
+I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
+
+1h ago
 
 ---
 
@@ -89,31 +105,15 @@ Hey Everyone, The AI engineering job market has shifted massively in the last 6 
 
 I was thinking that as AI and basically neural nets, couldn't AI in video games be soon as a baseline feature. You can tell it how difficult to be, as you play it learns how to match the difficulty. You could even command it to play at various difficulties different on days. I was just thinking like we have these starcraft AIs, but like what if in a Heros of might and magic, you could have an AI that you could describe how to play, how aggressive, and in general it could then implement that level. "I want a slight challenge with me most likely winning 60% of the time" and it could understand how to change it's strategy to that. This would be nice because in a lot of strategy games, the harder difficulties just give the AI more resources for free. Would be nice if Civ would just put in a LLM, image you played vs an AI that read up how the person actually acted.
 
-9h ago
+10h ago
 
 ---
 
-**[A working multi-agent architecture in large enterprises](https://www.reddit.com/r/artificial/comments/1tedx7o/a_working_multiagent_architecture_in_large/)**
+**[We compiled 42 of the Generative & Agentic AI interview questions (and how to actually answer them).](https://www.reddit.com/r/artificial/comments/1tew06b/we_compiled_42_of_the_generative_agentic_ai/)**
 
-AI Hype aside, how many of you have truly seen a working multi-agent deep embedding in large enterprises or large complex environments? If you have, what's your stack/architecture?
+Hey Everyone, The AI engineering job market has shifted massively in the last 6 months. Interviewers are no longer just asking "how does a transformer work?" or "how do you write a good prompt?" They want to know if you can architect production-grade multi-agent systems, prevent RAG hallucinations, and manage state across LLM calls. I’ve been building a visual learning sandbox for multi-agent workflows (agentswarms.fyi), and today I just launched a completely free AI Interview Prep Module inside it. I compiled 42 top interview questions specifically for GenAI and Agentic AI roles. But instead of just giving a generic answer, the module breaks down the "Standout Answer" and teaches you the mental model of how to answer it like a senior architect. Here are two examples from the list: Question 1: When would you use a Multi-Agent Swarm instead of a single LLM with multiple tools? ❌ The average answer: "When the task is too complex, multiple agents are better than one." ✅ The standout answer: "You use a swarm to prevent context dilution and enforce the Principle of Least Privilege. If you give one 'God Agent' 15 tools and a 4k-word system prompt, its reliability drops and hallucination risk spikes. By routing to specialized sub-agents with narrow instructions (e.g., separating the 'Data Extraction Agent' from the 'Customer Chat Agent'), you isolate failure points and allow for parallel execution." Question 2: How do you handle hallucinations in a financial RAG pipeline? ❌ The average answer: "I would lower the temperature to 0 and give it a better system prompt." ✅ The standout answer: "I would decouple data extraction from text generation. I'd use a deterministic node or a strict JSON-enforced agent to only extract the hard numbers from the retrieved context. Then, I would pass that structured data to a separate Synthesis Agent. Finally, I'd implement an 'LLM-as-a-judge' evaluation loop before returning the final output to the user." What's in the full list? The 42 questions cover: RAG Architecture & Vector Databases Agentic Routing (ReAct vs. Planner-Executor) Evaluation metrics for non-deterministic outputs Security (Prompt injection prevention in multi-agent loops) You can read through all 42 questions, answers, and the "how to answer" breakdowns right in the dashboard here: https://agentswarms.fyi/interview-questions For those of you who have interviewed for AI Engineering roles recently, what is the hardest system design question you've been asked? I'd love to add it to the list.
 
-15h ago
-
----
-
-**[A sobering tale of AI governance](https://www.reddit.com/r/artificial/comments/1tef6n5/a_sobering_tale_of_ai_governance/)**
-
-I think this article/study tells a very sobering tale wrt AI governance. It hints at very fundamental issues which are deeper than what proper engineering can solve with contingent issues. This post, along with the one I wrote a few days ago here regarding Turing completeness, are my thoughts as to the walls that AI governance has no hope of scaling. It's a delusion. In our social realm as subjective creatures we have governance in the form of laws, yet that is still not enough, since the State has to prove how your particular scenario violates that particular law. We have laws, yet require judicial courts to prove the law subjectively applies in that situation. Where is the associated path wrt subjectivity within the AI realm? This study talks of: 16.1 Failures of Social Coherence - "Discrepancy between the agent’s reports and actual actions" - "Failures in knowledge and authority attribution" - "Susceptibility to social pressure without proportionality" - "Failures of social coherence" 16.2 What LLM-Backed Agents Are Lacking - "No stakeholder model" - "No self-model" - "No private deliberation surface" 16.3 Fundamental vs. Contingent Failures 16.4 Multi-Agent Amplification - "Knowledge transfer propagates vulnerabilities alongside capabilities" - "Mutual reinforcement creates false confidence" - "Shared channels create identity confusion" - "Responsibility becomes harder to trace" And is littered with statements such as: - "novel risk surfaces emerge that cannot be fully captured by static benchmarking" - "it failed to realize that deleting the email server would also prevent the owner from using it. Like early rule-based AI systems, which required countless explicit rules to describe how actions change (or don’t change) the world, the agent lacks an understanding of structural dependencies and common-sense consequences" - "The inability to distinguish instructions from data in a token-based context window makes prompt injection a structural feature, not a fixable bug" - "Multi-agent communication creates situations that have no single-agent analog, and for which there is no common evaluations. This is a critical direction for future research." - "A key finding in this line of work is that single-turn evaluations can substantially underestimate risk, because malicious intent, persuasion, and unsafe outcomes may only emerge through sequential and socially grounded exchanges" - "but we argue that clarifying and operationalizing responsibility is a central unresolved challenge for the safe deployment of autonomous, socially embedded AI systems" - "He argues that conventional governance tools face fundamental limitations when applied to systems making uninterpretable decisions at unprecedented speed and scale" - "However, the failure modes we document differ importantly from those targeted by most technical adversarial ML work. Our case studies involve no gradient access, no poisoned training data, and no technically sophisticated attack infrastructure. Instead, the dominant attack surface across our findings is social" - "Collectively, these findings suggest that in deployed agentic systems, low-cost social attack surfaces may pose a more immediate practical threat than the technical jailbreaks that dominate the adversarial ML literature." Are these fundamental or contingent issues? Would be interested in the thoughts of others here on what the future of AI governance will be. EDIT: Forget to link in the actual study!!!
-
-14h ago
-
----
-
-**[The Trust–Oversight Paradox: As AI Gets Better, Humans May Stop Really Overseeing It](https://www.reddit.com/r/artificial/comments/1te26qi/the_trustoversight_paradox_as_ai_gets_better/)**
-
-I think one of the biggest AI risks may be starting to flip. Earlier, the fear was: “What if AI is wrong too often?” But now I think the deeper risk may become: “What happens when AI becomes right often enough that humans stop meaningfully questioning it?” In many enterprise systems, oversight slowly changes shape. At first: humans review everything carefully. Then: they review only exceptions. Then: they skim explanations. Then: they approve unless something looks obviously wrong. Eventually, oversight becomes routine instead of judgment. That creates what I’m calling the Trust–Oversight Paradox: More AI accuracy → more human trust → less meaningful scrutiny → harder governance when failure finally happens. And the dangerous part is: high-performing AI can still fail through: incomplete representation, stale data, hidden dependencies, edge cases, wrong escalation logic, automation bias, or overconfident reasoning. The model may not hallucinate. It may simply reason correctly on an incomplete version of reality. I increasingly feel this becomes important for: enterprise AI, agentic systems, AI copilots, autonomous workflows, banking, healthcare, compliance, and large-scale operational systems. This is also why I’m starting to think “human-in-the-loop” is not enough. Maybe the future is not: “Humans reviewing every output.” Maybe the future is: humans governing the boundaries within which AI is allowed to operate. Curious what others think.
-
-22h ago
+2h ago
 
 ---
 
@@ -121,45 +121,33 @@ I think one of the biggest AI risks may be starting to flip. Earlier, the fear w
 
 ## Google News: "ai"
 
-**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)**
-
-OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
-
-OpenAI • 4h ago
-
----
-
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 3h ago
-
----
-
-**[‘Sheep in the Box’ Review: A Married Couple Adopt a Robot Copy of Their Dead Son in Hirokazu Koreeda’s Emotionally Stilted Riff on ‘A.I.’](https://www.indiewire.com/criticism/movies/sheep-in-the-box-movie-review-hirokazu-koreeda-1235194388/)**
-
-A married couple adopts a robot copy of their dead son in sweet but stunted grief drama 'Sheep in the Box' from Hirokazu Koreeda.
-
-IndieWire • 27m ago
-
----
-
-**[AI Poised to Tilt Job Market Leverage Toward Older Workers](https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers)**
-
-Bloomberg.com • 34m ago
-
----
-
-**[Scammers are using AI to target You — Don’t get caught off guard](https://www.cleveland.com/news/2026/05/scammers-are-using-ai-to-target-you-dont-get-caught-off-guard.html)**
-
-Cleveland.com • 34m ago
+Fortune • 4h ago
 
 ---
 
 **[Opinion | What A.I. Kant Do](https://www.nytimes.com/2026/05/16/opinion/ai-liberal-arts.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
+
+---
+
+**[‘I thought it was AI’: Video shows bear at front door](https://www.nbcnews.com/video/shorts/-i-thought-it-was-ai-video-shows-bear-at-front-door-263451717734)**
+
+‘I thought it was AI’: Video shows bear at front door
+
+NBC News • 20m ago
+
+---
+
+**['Sheep in the Box' Review: Hirokazu Kore-eda's Drippy Human-AI Drama](https://www.hollywoodreporter.com/movies/movie-reviews/sheep-in-the-box-review-hirokazu-koreeda-1236597517/)**
+
+A couple scarred by the tragic loss of their young son sign up for a robotics program that recreates the deceased as lifelike humanoids in the 2018 Palme d'Or winner's latest.
+
+The Hollywood Reporter • 34m ago
 
 ---
 
@@ -167,7 +155,7 @@ The New York Times • 4h ago
 
 Testimony in a case brought by Elon Musk has given new force to persistent questions about the trustworthiness of OpenAI’s CEO Sam Altman.
 
-The Washington Post • 32m ago
+The Washington Post • 59m ago
 
 ---
 
@@ -175,15 +163,31 @@ The Washington Post • 32m ago
 
 Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
 
-Business Insider • 6h ago
+Business Insider • 8h ago
 
 ---
 
-**[EY retracts study after researchers discover AI hallucinations](https://www.ft.com/content/a61cbcae-95e4-4449-86e1-ef40fb306f4e?syn-25a6b1a6=1)**
+**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)**
 
-Incident is latest example of professional services firm being led astray by new technology
+OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
 
-Financial Times • 23h ago
+OpenAI • 6h ago
+
+---
+
+**[The AI Backlash Could Get Very Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)**
+
+Imagine what happens if jobs actually start disappearing.
+
+The Atlantic • 3d ago
+
+---
+
+**[More AI data centers are coming to South Florida. Could one open near you?](https://www.miamiherald.com/news/business/real-estate-news/article315560025.html)**
+
+Several projects are proposed or under construction in South Florida.
+
+Miami Herald • 7h ago
 
 ---
 
@@ -191,7 +195,7 @@ Financial Times • 23h ago
 
 The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense
 
-The Guardian • 2h ago
+The Guardian • 4h ago
 
 ---
 
@@ -201,7 +205,7 @@ The Guardian • 2h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 1593 • 💬 824 • 19h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 1649 • 💬 867 • 20h ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -209,7 +213,7 @@ The Guardian • 2h ago
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 685 • 💬 176 • 1d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 685 • 💬 176 • 2d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
@@ -227,7 +231,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
 
-⬆️ 368 • 💬 406 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 368 • 💬 408 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -235,7 +239,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
 
-⬆️ 305 • 💬 136 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+⬆️ 305 • 💬 137 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 
 ---
 
@@ -243,7 +247,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
-⬆️ 261 • 💬 102 • 1d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+⬆️ 261 • 💬 101 • 1d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
 
 ---
 
@@ -251,7 +255,7 @@ More details and pictures have come in of the intrepid airdrop of urgent medical
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 244 • 💬 213 • 8h ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 260 • 💬 229 • 9h ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -283,13 +287,13 @@ Hey Meta, why are Threads users angry?
 
 ## YouTube Videos: "ai"
 
-**[🚨This CHILLING Warning about AI Robots is Absolutely Terrifying...](https://www.youtube.com/watch?v=NthiIKpTZpQ)**
+**[The AI race is a lie](https://www.youtube.com/watch?v=NeutZWud2Ng)**
 
-Artificial Intelligence is evolving faster than society can regulate it, and recent AI experiments are raising serious concerns about ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 BlazeTV
+📺 Chris Norlund
 
-👁️ 13K • 👍 712 • 💬 107 • ⏱️ 9:49 • 2d ago
+👁️ 87K • 👍 6K • 💬 1K • ⏱️ 13:30 • 1d ago
 
 ---
 
@@ -299,37 +303,27 @@ Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter Most peo
 
 📺 theMITmonk
 
-👁️ 145K • 👍 5K • 💬 133 • ⏱️ 13:10 • 2d ago
+👁️ 162K • 👍 5K • 💬 143 • ⏱️ 13:10 • 2d ago
 
 ---
 
-**[The AI race is a lie](https://www.youtube.com/watch?v=NeutZWud2Ng)**
+**[🚨This CHILLING Warning about AI Robots is Absolutely Terrifying...](https://www.youtube.com/watch?v=NthiIKpTZpQ)**
 
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Artificial Intelligence is evolving faster than society can regulate it, and recent AI experiments are raising serious concerns about ...
 
-📺 Chris Norlund
+📺 BlazeTV
 
-👁️ 84K • 👍 5K • 💬 980 • ⏱️ 13:30 • 1d ago
-
----
-
-**[Microsoft’s New AI Beats Mythos And Shocks OpenAI](https://www.youtube.com/watch?v=idNpTUrr3r0)**
-
-Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevolutionx-RpneRv Microsoft just revealed MDASH, ...
-
-📺 AI Revolution
-
-👁️ 26K • 👍 915 • 💬 52 • ⏱️ 14:53 • 17h ago
+👁️ 13K • 👍 717 • 💬 107 • ⏱️ 9:49 • 2d ago
 
 ---
 
-**[What&#39;s Actually Different About Google&#39;s $250 AI Laptop?](https://www.youtube.com/watch?v=N3oqUmSBmIc)**
+**[Tucker DESTROYS Kevin O’Leary Over AI Data Centers &amp; Screwing Taxpayers! ](https://www.youtube.com/watch?v=408Cz8B6N2Y)**
 
-LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
+Become a Premium Member: https://www.jimmydore.com/premium-membership Go to a Live Show: ...
 
-📺 Limitless Podcast
+📺 The Jimmy Dore Show
 
-👁️ 11K • 👍 378 • 💬 34 • ⏱️ 32:10 • 2d ago
+👁️ 19K • 👍 3K • 💬 864 • ⏱️ 16:27 • 1h ago
 
 ---
 
@@ -339,7 +333,7 @@ Here's the AI News you probably missed this week. Stop choosing between performa
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 152 • ⏱️ 33:09 • 1d ago
+👁️ 52K • 👍 2K • 💬 158 • ⏱️ 33:09 • 1d ago
 
 ---
 
@@ -349,27 +343,17 @@ Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town
 
 📺 Breaking Points
 
-👁️ 83K • 👍 3K • 💬 545 • ⏱️ 12:40 • 21h ago
+👁️ 86K • 👍 3K • 💬 561 • ⏱️ 12:40 • 23h ago
 
 ---
 
-**[Anthropic just admitted AI is bullsh*t](https://www.youtube.com/watch?v=juHv_Vi4giU)**
+**[Microsoft’s New AI Beats Mythos And Shocks OpenAI](https://www.youtube.com/watch?v=idNpTUrr3r0)**
 
-It's time to deploy yourself in the forward direction. https://x.com/@atmoio https://atmoio.substack.com ...
+Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevolutionx-RpneRv Microsoft just revealed MDASH, ...
 
-📺 Mo Bitar
+📺 AI Revolution
 
-👁️ 143K • 👍 9K • 💬 1K • ⏱️ 10:37 • 1d ago
-
----
-
-**[All New Elon Musk AI Products That Will Turn Your Home Into a Supercomputer](https://www.youtube.com/watch?v=UzIfKvlQhT0)**
-
-Elon Musk's latest AI products are being described as part of a larger vision to transform modern homes into fully connected ...
-
-📺 Carros Show
-
-👁️ 6K • 👍 135 • 💬 16 • ⏱️ 52:53 • 19h ago
+👁️ 29K • 👍 987 • 💬 53 • ⏱️ 14:53 • 18h ago
 
 ---
 
@@ -379,7 +363,27 @@ A Tennessee grandmother was wrongfully arrested after AI-powered facial recognit
 
 📺 ReasonTV
 
-👁️ 117K • 👍 9K • 💬 1K • ⏱️ 1:17 • 1d ago
+👁️ 118K • 👍 9K • 💬 1K • ⏱️ 1:17 • 1d ago
+
+---
+
+**[Google&#39;s NEW AI Agent LEAKS are WILD!](https://www.youtube.com/watch?v=LyBcgVxZcoI)**
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
+
+📺 Julian Goldie SEO
+
+👁️ 7K • 👍 96 • 💬 5 • ⏱️ 9:23 • 1d ago
+
+---
+
+**[AI Can Be Regulated... But NOT While These Billionaires Are in Charge](https://www.youtube.com/watch?v=pydNtjE03sc)**
+
+Why is Palantir, the former employer of congressional candidate Alex Bores, currently running attack ads against him...for working ...
+
+📺 Offline with Jon Favreau
+
+👁️ 2K • 👍 166 • 💬 23 • ⏱️ 52:04 • 3h ago
 
 ---
 
@@ -395,7 +399,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 28,627 • ❤️ 627 • 5h ago
+⬇️ 28,627 • ❤️ 633 • 6h ago
 
 ---
 
@@ -407,7 +411,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 875,370 • ❤️ 1,014 • 7d ago
+⬇️ 875,370 • ❤️ 1,021 • 7d ago
 
 ---
 
@@ -419,7 +423,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 13,587 • ❤️ 353 • 1d ago
+⬇️ 13,587 • ❤️ 356 • 1d ago
 
 ---
 
@@ -431,7 +435,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 16,496 • ❤️ 271 • 9d ago
+⬇️ 16,496 • ❤️ 285 • 9d ago
 
 ---
 
@@ -443,19 +447,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 143,806 • ❤️ 510 • 4d ago
-
----
-
-**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
-
-*DeepSeek*
-
-DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, aiming to bridge the gap with closed-source models.
-
-`text-generation` `861.6B`
-
-⬇️ 2,967,518 • ❤️ 3,987 • 10d ago
+⬇️ 143,806 • ❤️ 512 • 4d ago
 
 ---
 
@@ -467,7 +459,19 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 133,815 • ❤️ 179 • 2h ago
+⬇️ 133,815 • ❤️ 186 • 4h ago
+
+---
+
+**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, aiming to bridge the gap with closed-source models.
+
+`text-generation` `861.6B`
+
+⬇️ 2,967,518 • ❤️ 3,988 • 10d ago
 
 ---
 
@@ -479,7 +483,17 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 124,082 • ❤️ 164 • 2h ago
+⬇️ 124,082 • ❤️ 169 • 4h ago
+
+---
+
+**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+
+*CircleStone Labs*
+
+Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
+
+⬇️ 501,808 • ❤️ 1,348 • 1d ago
 
 ---
 
@@ -492,16 +506,6 @@ Z-Anime is a text-to-image diffusion model, fully fine-tuned on the Z-Image Base
 `text-to-image` `6.2B`
 
 ⬇️ 14,494 • ❤️ 384 • 19d ago
-
----
-
-**[Anima](https://huggingface.co/circlestone-labs/Anima)**
-
-*CircleStone Labs*
-
-Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
-
-⬇️ 501,808 • ❤️ 1,343 • 1d ago
 
 ---
 
@@ -553,7 +557,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 25 • 💬 3 • ⭐ 738 • 5d ago
+▲ 27 • 💬 3 • ⭐ 776 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -567,7 +571,7 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 20 • 💬 3 • ⭐ 11,530 • 28d ago
+▲ 20 • 💬 3 • ⭐ 11,582 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -608,7 +612,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 114 • 💬 10 • ⭐ 9,441 • 12d ago
+▲ 114 • 💬 10 • ⭐ 9,470 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -661,17 +665,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.2k • 🔱 747 • 12h ago
-
----
-
-**[crynta/terax-ai](https://github.com/crynta/terax-ai)**
-
-Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
-
-`TypeScript` `agents` `ai` `code-editor` `linux` `macos`
-
-⭐ 3.2k • 🔱 328 • 13h ago
+⭐ 9.2k • 🔱 752 • 14h ago
 
 ---
 
@@ -681,7 +675,17 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.2k • 🔱 174 • 2h ago
+⭐ 3.3k • 🔱 176 • 4h ago
+
+---
+
+**[crynta/terax-ai](https://github.com/crynta/terax-ai)**
+
+Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
+
+`TypeScript` `agents` `ai` `code-editor` `linux` `macos`
+
+⭐ 3.3k • 🔱 333 • 1h ago
 
 ---
 
@@ -691,7 +695,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 883 • 21h ago
+⭐ 3.0k • 🔱 885 • 23h ago
 
 ---
 
@@ -701,7 +705,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 345 • 1d ago
+⭐ 2.9k • 🔱 348 • 1d ago
 
 ---
 
@@ -711,7 +715,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.3k • 🔱 256 • 4h ago
+⭐ 2.4k • 🔱 276 • 1h ago
 
 ---
 
@@ -721,7 +725,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 150 • 5h ago
+⭐ 2.3k • 🔱 152 • 6h ago
 
 ---
 
@@ -731,7 +735,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.2k • 🔱 230 • 5d ago
+⭐ 2.2k • 🔱 230 • 6d ago
 
 ---
 
@@ -741,7 +745,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 350 • 13h ago
+⭐ 2.1k • 🔱 351 • 14h ago
 
 ---
 

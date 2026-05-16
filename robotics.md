@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-16T15:34:25.024227+00:00'
+updated: '2026-05-16T16:59:16.339798+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 16, 2026 at 15:34 UTC  
+**Last Updated:** May 16, 2026 at 16:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-26m ago
+1h ago
 
 ---
 
@@ -44,13 +44,13 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 #PnPRobots is here to shatter those boundaries. We provide seamless, plug-and-play robotic solutions built to accelerate your development. We are thrilled to introduce our industry-disrupting hardware: the Next-Gen Professional Bionic Dexterous Hand — #Revo2. 🔥 #Revo2: Lighter Than a Human Hand, Stronger Than Imagination Designed specifically for complex, real-world manipulation and #DataCollection, the #Revo2 perfectly replicates human-like kinematics: • Ultra-Lightweight: Weighing just 383g, it is 20% lighter than the industry average, minimizing arm payload burden. • Insane Payload: It delivers \ge 50N of grip force and handles a staggering 20kg static payload! • Sub-Millimeter Precision: Features 11 DoF and advanced algorithms to achieve 0.1mm repeatability. • Tactile Perception: Multimodal tactile sensors provide rich feedback for imitation and #ReinforcementLearning.
 
-15h ago
+16h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
 
-🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 31m ago
+🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Comparison Video of Figure AI Robots making and tidying a bedroom and how this c
 
 I recently spent the day at a humancentric robotics company, talking with the CEO and several roboticists and engineers about how they make their decisions and what goes into something like that. I produced a video of my day there and figured some of you may find it interesting. You can watch the video here: https://www.youtube.com/watch?v=8oFT_ErMHMg Whilst I don't work for the company, as I said, I spent the day there so if you had any particular questions I may have an answer for you.
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ I recently spent the day at a humancentric robotics company, talking with the CE
 
 Do you have opinions on the available ROS tooling? Are you using AI in your ROS development workflow? Or maybe you refuse to use AI and want to tell us why? We want to hear from you! We are a group of software engineering researchers at Carnegie Mellon University, VORTEX Collab, and the University of Lisbon investigating how ROS developers find and use information, what tools they rely on across different development tasks, and how AI-powered tools fit into the development workflow. We are conducting a research survey to better understand the information needs, tooling gaps, and the role of AI in the ROS development process. This survey is estimated to take ~20 minutes to complete. The research survey is open to ROS developers who are at least 18 years old and with at least one year of experience. If you are interested in sharing your experiences, please visit the SURVEY LINK to complete the survey. Responses are anonymous and will be used solely for research purposes. This research survey is part of a study (STUDY2026_00000158) conducted by Claire Le Goues and Christopher Timperley at Carnegie Mellon University. If you have any questions about the study, please contact Andrea Miller (PhD student) at [andreami@andrew.cmu.edu](mailto:andreami@andrew.cmu.edu).
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Do you have opinions on the available ROS tooling? Are you using AI in your ROS 
 
 ROS News for the week of May 11th, 2026    🎉 Registration for ROSCon Global is now open! We launched with a fantastic list of workshops for 2026 from all of your favorite package maintainers We recommend you take advantage of our early bird tickets which make workshop registration effectively free!       Our Lyrical test and tutorial party wrapped up yesterday and we’re still triaging tickets. All I can say right now is that we closed WAY MORE tickets than last year and consequently smashed...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-11th-2026/54889) • 19h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-11th-2026/54889) • 20h ago
 
 ---
 
@@ -118,15 +118,17 @@ NBC News • 1d ago
 
 ---
 
-**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
+**[‘Uncharted territory’: Figure AI humanoid robots hit 24/7 nonstop work milestone](https://interestingengineering.com/ai-robotics/figure-ai-humanoids-24-hour-autonomous-run)**
 
-eWeek • 1d ago
+Figure AI says its humanoid robots completed over 24 hours of nonstop autonomous work using Helix-02 AI.
+
+Interesting Engineering • 1d ago
 
 ---
 
-**[Robotics CEO Vows No Intervention in Humanoids’ Viral Trial Run](https://www.bloomberg.com/news/articles/2026-05-15/robotics-ceo-vows-no-intervention-in-humanoids-viral-trial-run)**
+**[Figure AI’s Robots Work 17-Hour Shift, Sort 22,000 Packages](https://www.eweek.com/news/figure-helix-robots-22000-packages/)**
 
-Bloomberg.com • 22h ago
+eWeek • 1d ago
 
 ---
 
@@ -150,27 +152,19 @@ eWeek • 1d ago
 
 ---
 
-**[Ukraine’s sling against Russia: How 'geniuses in garages' transformed robotic warfare](https://www.jpost.com/defense-and-tech/article-896008)**
-
-The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
-
-The Jerusalem Post • 20h ago
-
----
-
 **[New FANUC-NVIDIA system lets virtual robots behave like real machines](https://interestingengineering.com/ai-robotics/fanuc-nvidia-sim-to-real-digital-twins)**
 
 FANUC and NVIDIA built factory robot digital twins that mirror real-world motion and AI behavior.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 18h ago
 
 ---
 
-**[China Is Preparing for a Robot-Led Taiwan Invasion](https://nationalinterest.org/blog/techland/china-is-preparing-for-a-robot-led-taiwan-invasion)**
+**[Ukraine’s sling against Russia: How 'geniuses in garages' transformed robotic warfare](https://www.jpost.com/defense-and-tech/article-896008)**
 
-China’s use of military robotics is a warning to the United States and Taiwan to accelerate robotics deployment and counter-robotics defenses to preserve deterrence.
+The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
 
-The National Interest • 23h ago
+The Jerusalem Post • 21h ago
 
 ---
 
@@ -179,6 +173,12 @@ The National Interest • 23h ago
 A conference demonstrating the latest robotic technologies in agriculture is coming to Yakima in October.
 
 Yakima Herald-Republic • 1d ago
+
+---
+
+**[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
+
+eWeek • 1d ago
 
 ---
 
@@ -192,17 +192,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 299K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
-
----
-
-**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
-
-You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
-
-📺 The AI Nexus
-
-👁️ 11K • 👍 222 • 💬 21 • ⏱️ 55:02 • 3d ago
+👁️ 304K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
 
 ---
 
@@ -212,7 +202,17 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 65K • 👍 599 • 💬 225 • ⏱️ 3:00 • 1d ago
+👁️ 67K • 👍 620 • 💬 228 • ⏱️ 3:00 • 1d ago
+
+---
+
+**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
+
+You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 223 • 💬 21 • ⏱️ 55:02 • 3d ago
 
 ---
 
@@ -222,17 +222,17 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 16K • 👍 379 • 💬 69 • ⏱️ 21:16 • 2d ago
+👁️ 17K • 👍 407 • 💬 70 • ⏱️ 21:16 • 2d ago
 
 ---
 
-**[Apple’s New $5,000 Home Robot iSiri Will Make You Forget About Cleaning Forever](https://www.youtube.com/watch?v=cg83PmGY09w)**
+**[Unitree Just Dropped A Real Life MECHA AI Robot](https://www.youtube.com/watch?v=nFo6UWD0J2o)**
 
-Apple's new home robot iSiri is being described as a major step toward fully automated smart living, combining advanced AI with ...
+Unitree just revealed the GD01, a real manned mecha robot that can walk on two legs, smash through walls, switch into a ...
 
-📺 Carros Show
+📺 AI Revolution
 
-👁️ 21K • 👍 301 • 💬 35 • ⏱️ 23:07 • 3d ago
+👁️ 18K • 👍 542 • 💬 66 • ⏱️ 15:27 • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 866K • 👍 66K • 💬 6K • ⏱️ 23:53 • 6d ago
+👁️ 883K • 👍 66K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
@@ -252,27 +252,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Figure
 
-👁️ 1.5M • 👍 28K • 2d ago
-
----
-
-**[No Soldiers, Just Robots: How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
-
-Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
-
-📺 Radio Free Europe/Radio Liberty
-
-👁️ 32K • 👍 784 • 💬 45 • ⏱️ 3:07 • 3d ago
-
----
-
-**[Episode 2 Ocean Barrier: Secret robot fish](https://www.youtube.com/watch?v=n7VKomFiCrk)**
-
-Scene using artificial intelligence. #aiart #movie.
-
-📺 Miracle Animal Rescues
-
-👁️ 260K • 👍 1K • 💬 24 • ⏱️ 8:12 • 1d ago
+👁️ 1.5M • 👍 29K • 3d ago
 
 ---
 
@@ -282,7 +262,27 @@ What if your next roommate wasn't human? On this episode of NYC Innovates, we me
 
 📺 Cheddar
 
-👁️ 4K • 👍 133 • 💬 24 • ⏱️ 10:22 • 2d ago
+👁️ 4K • 👍 145 • 💬 25 • ⏱️ 10:22 • 2d ago
+
+---
+
+**[No Soldiers, Just Robots: How Ukraine Captured A Russian Position | Ukraine Front Line Update](https://www.youtube.com/watch?v=DdFSLCaxZSU)**
+
+Robots and drones were used by Ukrainian forces to capture a Russian position without an infantry assault in what Ukrainian ...
+
+📺 Radio Free Europe/Radio Liberty
+
+👁️ 33K • 👍 792 • 💬 46 • ⏱️ 3:07 • 3d ago
+
+---
+
+**[AI with Calluses- Why China is Winning the Physical Robot Race](https://www.youtube.com/watch?v=QlfLsJ0TyiE)**
+
+Silicon Valley is building AI to write emails. China is building AI to weld steel. Discover the terrifying speed of "Embodied AI" and ...
+
+📺 Eric Cracks China
+
+👁️ 18K • 👍 1K • 💬 29 • ⏱️ 2:58 • 15h ago
 
 ---
 
