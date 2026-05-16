@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T22:11:15.446356+00:00'
+updated: '2026-05-16T23:26:52.604261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 22:11 UTC  
+**Last Updated:** May 16, 2026 at 23:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,180.46
+### $2,181.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -7.9%  
-**30d:** -9.8%  
-**90d:** +9.2%  
+**24h:** -2.0%  
+**7d:** -8.0%  
+**30d:** -9.9%  
+**90d:** +9.1%  
 **1y:** -11.9%  
 
 ---
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-17h ago
-
----
-
 **[Instant way to Unstake stETH?](https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/)**
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-4h ago
+5h ago
+
+---
+
+**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-5h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-12h ago
+13h ago
 
 ---
 
@@ -154,7 +154,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies has cut its Ethereum (ETH) buying pace by 74% as it nears its 5% supply target. Here's the market reaction.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
+
+---
+
+**[XRP and Solana ETFs Keep Pulling Inflows While Ethereum ETFs Bleed](https://finance.yahoo.com/markets/crypto/articles/xrp-solana-etfs-keep-pulling-192220442.html)**
+
+Bitcoin (CRYPTO: BTC) rallied to $82,000 on May 14 after the Senate Banking Committee passed the CLARITY Act. Spot Bitcoin ETFs took in $131 million the same day, recovering from the brutal $635 million outflow on May 13. XRP (CRYPTO: XRP) and Solana (CRYPTO: SOL) spot ETFs both continued their May inflow streaks. But Ethereum ... XRP and Solana ETFs Keep Pulling Inflows While Ethereum ETFs Bleed
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Sharplink CEO says ETH treasury firms are diverging from Strategy model as Ethereum's tokenization role expands](https://www.theblock.co/post/401288/sharplink-ceo-says-eth-treasury-firms-are-diverging-from-strategy-model-as-ethereums-tokenization-role-expands)**
+
+Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
+
+The Block • 2d ago
 
 ---
 
@@ -180,27 +196,25 @@ Coinpedia • 1d ago
 
 ---
 
-**[Sharplink CEO says ETH treasury firms are diverging from Strategy model as Ethereum's tokenization role expands](https://www.theblock.co/post/401288/sharplink-ceo-says-eth-treasury-firms-are-diverging-from-strategy-model-as-ethereums-tokenization-role-expands)**
-
-Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
-
-The Block • 2d ago
-
----
-
 **[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor](https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor)**
 
 The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
-**[Latest Inflation Report: What It Could Mean For Bitcoin, Ethereum, And Solana Ahead](https://www.tradingview.com/news/newsbtc:b6f2222ba094b:0-latest-inflation-report-what-it-could-mean-for-bitcoin-ethereum-and-solana-ahead/)**
+**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
 
-Bitcoin (BTC) dropping below the $80,000 mark is starting to undo some of the optimism that followed a major step forward for the industry. After the Senate Banking Committee markup for the CLARITY Act on Thursday, the market’s gains have since faded.Now, fresh inflation data is arriving with a pot…
+Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
 
-TradingView • 22h ago
+TradingView • 1d ago
+
+---
+
+**[Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%](https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12)**
+
+CoinDesk • 1d ago
 
 ---
 
@@ -208,21 +222,7 @@ TradingView • 22h ago
 
 Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
 
-Crypto Briefing • 7h ago
-
----
-
-**[Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements](https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/)**
-
-CCN.com • 1d ago
-
----
-
-**[Ethereum app builder Consensys has delayed its potential IPO until fall](https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall)**
-
-The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.
-
-CoinDesk • 3d ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 99 • 💬 97 • ⏱️ 15:37 • 15h ago
+👁️ 3K • 👍 99 • 💬 97 • ⏱️ 15:37 • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 540 • 👍 30 • 💬 2 • ⏱️ 4:43 • 12h ago
+👁️ 540 • 👍 30 • 💬 2 • ⏱️ 4:43 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 10K • 👍 357 • 💬 51 • ⏱️ 18:49 • 18h ago
+👁️ 10K • 👍 357 • 💬 51 • ⏱️ 18:49 • 19h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 3K • 👍 120 • 💬 6 • ⏱️ 7:27 • 19h ago
+👁️ 3K • 👍 120 • 💬 6 • ⏱️ 7:27 • 20h ago
 
 ---
 

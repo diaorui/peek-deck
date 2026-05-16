@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-16T22:11:15.449200+00:00'
+updated: '2026-05-16T23:26:52.607092+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 16, 2026 at 22:11 UTC  
+**Last Updated:** May 16, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-7h ago
+8h ago
 
 ---
 
@@ -50,19 +50,19 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 #PnPRobots is here to shatter those boundaries. We provide seamless, plug-and-play robotic solutions built to accelerate your development. We are thrilled to introduce our industry-disrupting hardware: the Next-Gen Professional Bionic Dexterous Hand — #Revo2. 🔥 #Revo2: Lighter Than a Human Hand, Stronger Than Imagination Designed specifically for complex, real-world manipulation and #DataCollection, the #Revo2 perfectly replicates human-like kinematics: • Ultra-Lightweight: Weighing just 383g, it is 20% lighter than the industry average, minimizing arm payload burden. • Insane Payload: It delivers \ge 50N of grip force and handles a staggering 20kg static payload! • Sub-Millimeter Precision: Features 11 DoF and advanced algorithms to achieve 0.1mm repeatability. • Tactile Perception: Multimodal tactile sensors provide rich feedback for imitation and #ReinforcementLearning.
 
-21h ago
+22h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-15h ago
+16h ago
 
 ---
 
 **[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -76,7 +76,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 **[Projet d’intégration ROS2 sur plateforme robotique : valorisé ou niveau de base ?](https://www.reddit.com/r/robotics/comments/1tezb0c/projet_dintégration_ros2_sur_plateforme_robotique/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -98,7 +98,7 @@ I recently spent the day at a humancentric robotics company, talking with the CE
 
 Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
 
-🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 7h ago
+🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 8h ago
 
 ---
 
@@ -106,11 +106,11 @@ Comparison Video of Figure AI Robots making and tidying a bedroom and how this c
 
 ## Google News: "robotics"
 
-**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
+**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
 
-Your weekly selection of awesome robot videos
+Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
 
-IEEE Spectrum • 2d ago
+NBC News • 1d ago
 
 ---
 
@@ -120,11 +120,19 @@ eWeek • 2d ago
 
 ---
 
-**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
+**[China Focus: Unitree secures orders after sensational debut of manned mecha](https://english.news.cn/20260516/8a6d78202c824f8faa7efc3bc8d26048/c.html)**
 
-Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
+China Focus: Unitree secures orders after sensational debut of manned mecha-
 
-NBC News • 1d ago
+Xinhua • 17h ago
+
+---
+
+**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -138,7 +146,7 @@ CT Insider • 1d ago
 
 A robotics student built a Disney-style Star Wars droid at home using online parts, 3D printing, and simulation-trained walking software.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -160,17 +168,11 @@ The Jerusalem Post • 1d ago
 
 ---
 
-**[Mind Robotics raises $400M to scale AI-powered robots in manufacturing](https://www.therobotreport.com/mind-robotics-raises-400m-scale-ai-powered-robots-in-manufacturing/)**
+**[Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)**
 
-The Robot Report • 2d ago
+Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
 
----
-
-**[Surgical Robotics Meets AI: Intuitive Surgical, Medtronic, and Stryker Are the Sleeper Plays of the Healthcare Boom](https://247wallst.com/investing/2026/05/15/surgical-robotics-meets-ai-intuitive-surgical-medtronic-and-stryker-are-the-sleeper-plays-of-the-healthcare-boom/)**
-
-Surgical robotics platforms are becoming AI-enabled systems, making Intuitive Surgical, Medtronic, and Stryker look compelling now.
-
-24/7 Wall St. • 1d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -200,7 +202,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 314K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
+👁️ 314K • 👍 6K • 💬 2K • ⏱️ 3:03 • 3d ago
 
 ---
 
@@ -220,7 +222,7 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 35K • 👍 2K • 💬 327 • ⏱️ 15:32 • 7h ago
+👁️ 35K • 👍 2K • 💬 327 • ⏱️ 15:32 • 8h ago
 
 ---
 
@@ -280,7 +282,7 @@ Silicon Valley is building AI to write emails. China is building AI to weld stee
 
 📺 Eric Cracks China
 
-👁️ 20K • 👍 1K • 💬 32 • ⏱️ 2:58 • 20h ago
+👁️ 20K • 👍 1K • 💬 32 • ⏱️ 2:58 • 21h ago
 
 ---
 
