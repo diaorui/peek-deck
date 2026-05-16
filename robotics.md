@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-16T18:00:22.406606+00:00'
+updated: '2026-05-16T19:19:39.514238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 16, 2026 at 18:00 UTC  
+**Last Updated:** May 16, 2026 at 19:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-2h ago
+4h ago
 
 ---
 
@@ -50,13 +50,19 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 #PnPRobots is here to shatter those boundaries. We provide seamless, plug-and-play robotic solutions built to accelerate your development. We are thrilled to introduce our industry-disrupting hardware: the Next-Gen Professional Bionic Dexterous Hand — #Revo2. 🔥 #Revo2: Lighter Than a Human Hand, Stronger Than Imagination Designed specifically for complex, real-world manipulation and #DataCollection, the #Revo2 perfectly replicates human-like kinematics: • Ultra-Lightweight: Weighing just 383g, it is 20% lighter than the industry average, minimizing arm payload burden. • Insane Payload: It delivers \ge 50N of grip force and handles a staggering 20kg static payload! • Sub-Millimeter Precision: Features 11 DoF and advanced algorithms to achieve 0.1mm repeatability. • Tactile Perception: Multimodal tactile sensors provide rich feedback for imitation and #ReinforcementLearning.
 
-17h ago
+18h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-10h ago
+12h ago
+
+---
+
+**[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
+
+1h ago
 
 ---
 
@@ -70,7 +76,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 **[Projet d’intégration ROS2 sur plateforme robotique : valorisé ou niveau de base ?](https://www.reddit.com/r/robotics/comments/1tezb0c/projet_dintégration_ros2_sur_plateforme_robotique/)**
 
-57m ago
+2h ago
 
 ---
 
@@ -84,7 +90,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
 
-🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 2h ago
+🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 4h ago
 
 ---
 
@@ -92,15 +98,7 @@ Comparison Video of Figure AI Robots making and tidying a bedroom and how this c
 
 I recently spent the day at a humancentric robotics company, talking with the CEO and several roboticists and engineers about how they make their decisions and what goes into something like that. I produced a video of my day there and figured some of you may find it interesting. You can watch the video here: https://www.youtube.com/watch?v=8oFT_ErMHMg Whilst I don't work for the company, as I said, I spent the day there so if you had any particular questions I may have an answer for you.
 
-22h ago
-
----
-
-**[Participants wanted for a research survey on ROS development](https://www.reddit.com/r/robotics/comments/1te6a6x/participants_wanted_for_a_research_survey_on_ros/)**
-
-Do you have opinions on the available ROS tooling? Are you using AI in your ROS development workflow? Or maybe you refuse to use AI and want to tell us why? We want to hear from you! We are a group of software engineering researchers at Carnegie Mellon University, VORTEX Collab, and the University of Lisbon investigating how ROS developers find and use information, what tools they rely on across different development tasks, and how AI-powered tools fit into the development workflow. We are conducting a research survey to better understand the information needs, tooling gaps, and the role of AI in the ROS development process. This survey is estimated to take ~20 minutes to complete. The research survey is open to ROS developers who are at least 18 years old and with at least one year of experience. If you are interested in sharing your experiences, please visit the SURVEY LINK to complete the survey. Responses are anonymous and will be used solely for research purposes. This research survey is part of a study (STUDY2026_00000158) conducted by Claire Le Goues and Christopher Timperley at Carnegie Mellon University. If you have any questions about the study, please contact Andrea Miller (PhD student) at [andreami@andrew.cmu.edu](mailto:andreami@andrew.cmu.edu).
-
-22h ago
+1d ago
 
 ---
 
@@ -122,9 +120,11 @@ eWeek • 1d ago
 
 ---
 
-**[Robotics CEO Vows No Intervention in Humanoids’ Viral Trial Run](https://www.bloomberg.com/news/articles/2026-05-15/robotics-ceo-vows-no-intervention-in-humanoids-viral-trial-run)**
+**[‘Uncharted territory’: Figure AI humanoid robots hit 24/7 nonstop work milestone](https://interestingengineering.com/ai-robotics/figure-ai-humanoids-24-hour-autonomous-run)**
 
-Bloomberg.com • 1d ago
+Figure AI says its humanoid robots completed over 24 hours of nonstop autonomous work using Helix-02 AI.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -144,7 +144,7 @@ CT Insider • 1d ago
 
 **[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
 
-eWeek • 1d ago
+eWeek • 2d ago
 
 ---
 
@@ -152,7 +152,7 @@ eWeek • 1d ago
 
 A robotics student built a Disney-style Star Wars droid at home using online parts, 3D printing, and simulation-trained walking software.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -160,13 +160,17 @@ Interesting Engineering • 18h ago
 
 The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
 
-The Jerusalem Post • 22h ago
+The Jerusalem Post • 1d ago
 
 ---
 
-**[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
+**[Carnegie Mellon graduates its first student with a bachelor’s degree in robotics](https://www.post-gazette.com/news/education/2026/05/14/carnegie-mellon-robotics-undergraduate/stories/202605130058)**
 
-eWeek • 1d ago
+Bev Da Costa was alone in her section during Carnegie Mellon University’s commencement last weekend.
+She was making school history.
+Da Costa became...
+
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -188,17 +192,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 304K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
-
----
-
-**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
-
-Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
-
-📺 NBC News
-
-👁️ 67K • 👍 620 • 💬 228 • ⏱️ 3:00 • 1d ago
+👁️ 308K • 👍 6K • 💬 2K • ⏱️ 3:03 • 2d ago
 
 ---
 
@@ -218,7 +212,17 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 17K • 👍 407 • 💬 70 • ⏱️ 21:16 • 3d ago
+👁️ 19K • 👍 427 • 💬 75 • ⏱️ 21:16 • 3d ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+
+Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+
+📺 NBC News
+
+👁️ 69K • 👍 631 • 💬 234 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -228,7 +232,7 @@ Unitree just revealed the GD01, a real manned mecha robot that can walk on two l
 
 📺 AI Revolution
 
-👁️ 18K • 👍 542 • 💬 66 • ⏱️ 15:27 • 1d ago
+👁️ 18K • 👍 549 • 💬 66 • ⏱️ 15:27 • 1d ago
 
 ---
 
@@ -238,17 +242,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 883K • 👍 66K • 💬 6K • ⏱️ 23:53 • 6d ago
-
----
-
-**[F.03 Livestream - Day 3](https://www.youtube.com/watch?v=luU57hMhkak)**
-
-24/7 MERCH https://figure-ai.myshopify.com/ Watch a team of humanoid robots running a full 8-hr shift at human performance ...
-
-📺 Figure
-
-👁️ 1.5M • 👍 29K • 3d ago
+👁️ 894K • 👍 67K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
@@ -258,7 +252,7 @@ What if your next roommate wasn't human? On this episode of NYC Innovates, we me
 
 📺 Cheddar
 
-👁️ 4K • 👍 145 • 💬 25 • ⏱️ 10:22 • 2d ago
+👁️ 5K • 👍 158 • 💬 25 • ⏱️ 10:22 • 2d ago
 
 ---
 
@@ -268,17 +262,27 @@ Robots and drones were used by Ukrainian forces to capture a Russian position wi
 
 📺 Radio Free Europe/Radio Liberty
 
-👁️ 33K • 👍 792 • 💬 46 • ⏱️ 3:07 • 3d ago
+👁️ 33K • 👍 795 • 💬 46 • ⏱️ 3:07 • 3d ago
 
 ---
 
-**[AI with Calluses- Why China is Winning the Physical Robot Race](https://www.youtube.com/watch?v=QlfLsJ0TyiE)**
+**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000](https://www.youtube.com/watch?v=oWOyUMJWptc)**
 
-Silicon Valley is building AI to write emails. China is building AI to weld steel. Discover the terrifying speed of "Embodied AI" and ...
+The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please ...
 
-📺 Eric Cracks China
+📺 Unitree Robotics
 
-👁️ 18K • 👍 1K • 💬 29 • ⏱️ 2:58 • 16h ago
+👁️ 14.9M • 👍 12K • 💬 3K • ⏱️ 1:15 • 4d ago
+
+---
+
+**[F.03 Livestream - Day 4](https://www.youtube.com/watch?v=luU57hMhkak)**
+
+Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
+
+📺 Figure
+
+👁️ 1.6M • 👍 30K • 3d ago
 
 ---
 
