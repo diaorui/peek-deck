@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T12:11:10.215714+00:00'
+updated: '2026-05-17T14:04:18.086606+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 12:11 UTC  
+**Last Updated:** May 17, 2026 at 14:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
 
-1h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted 
 
 Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
 
-3h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Is there a 7B parameter model in your life struggling to understand sarcasm? A t
 
 Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
 
-21h ago
+22h ago
 
 ---
 
@@ -65,15 +65,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 I think we’re underestimating how chaotic enterprise AI adoption actually is inside large companies. From the outside, it looks simple: buy better models add copilots automate workflows deploy AI agents increase productivity But inside many enterprises, CIOs and CTOs are dealing with a much deeper problem: The organization itself is fragmented. Customer data exists across: CRM systems billing platforms support tools spreadsheets emails regional databases legacy systems nobody fully understands anymore And every system describes the “same customer” differently. Then leadership says: “Scale AI faster.” But scale AI on top of what exactly? Which system represents reality correctly? The CRM? The support history? The risk engine? The finance system? The employee’s undocumented tribal knowledge? This is where a lot of enterprise AI projects quietly break down. Not because the models are weak. But because the enterprise itself lacks a coherent representation of its own operations. And the tension gets worse: Boards want acceleration. Employees are already using AI unofficially. Vendors promise transformation in 90 days. Meanwhile CIOs still don’t have clear answers to questions like: Which workflows actually need AI? Which should remain deterministic automation? Where is human judgment still critical? Which data is trustworthy enough for AI decisions? Who owns accountability when AI influences actions? So companies launch pilots. The pilot works. Executives celebrate. Then scaling fails because the pilot never encountered the full institutional complexity of the enterprise. I’m increasingly convinced the next enterprise AI bottleneck is not model capability. It’s organizational legibility. The companies that win with AI may not be the ones with the smartest models. They may be the ones whose internal reality is structured clearly enough for AI to operate safely. Curious how many people here are seeing the same thing inside their organizations. :::
 
-21h ago
-
----
-
-**[Recent poll shows that 70% of Americans don't want AI data centers being built in their local area](https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/)**
-
-While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
-
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 1d ago
+23h ago
 
 ---
 
@@ -81,15 +73,15 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
 
-20h ago
+22h ago
 
 ---
 
-**[Tech's Push to Be the Next Public Utility](https://www.reddit.com/r/artificial/comments/1tejpmh/techs_push_to_be_the_next_public_utility/)**
+**[Recent poll shows that 70% of Americans don't want AI data centers being built in their local area](https://www.reddit.com/r/artificial/comments/1tdw8if/recent_poll_shows_that_70_of_americans_dont_want/)**
 
-Amazon didn't ask permission to become critical infrastructure. They built AWS until enough of the economy depended on it that regulation became almost impossible. You can't turn off the internet's backbone. Now the same playbook is running with AI and data centers. Build the infrastructure everywhere. Create dependency at scale. Make yourself essential to healthcare, finance, government, and defense before anyone agrees you should be. Then negotiate from a position where shutting you down costs more than regulating you. The data center fights happening in communities right now — zoning battles, water usage protests, grid capacity fights — aren't about data centers. They're about who controls the next utility layer before the rules are written. Historical utilities — power, water, telecom — eventually got regulated because they became too essential to leave unaccountable. The window between "essential" and "regulated" is where the real money gets made. That window is open right now. Who should have the authority to decide whether AI infrastructure is a public utility — and what happens if we don't decide before the decision gets made for us?
+While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
-1d ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 2d ago
 
 ---
 
@@ -101,11 +93,19 @@ I came across a Stanford research paper that actually went inside companies runn
 
 ---
 
+**[Tech's Push to Be the Next Public Utility](https://www.reddit.com/r/artificial/comments/1tejpmh/techs_push_to_be_the_next_public_utility/)**
+
+Amazon didn't ask permission to become critical infrastructure. They built AWS until enough of the economy depended on it that regulation became almost impossible. You can't turn off the internet's backbone. Now the same playbook is running with AI and data centers. Build the infrastructure everywhere. Create dependency at scale. Make yourself essential to healthcare, finance, government, and defense before anyone agrees you should be. Then negotiate from a position where shutting you down costs more than regulating you. The data center fights happening in communities right now — zoning battles, water usage protests, grid capacity fights — aren't about data centers. They're about who controls the next utility layer before the rules are written. Historical utilities — power, water, telecom — eventually got regulated because they became too essential to leave unaccountable. The window between "essential" and "regulated" is where the real money gets made. That window is open right now. Who should have the authority to decide whether AI infrastructure is a public utility — and what happens if we don't decide before the decision gets made for us?
+
+1d ago
+
+---
+
 **[Serious question: if humans vanished tomorrow how long would AI civilisation last?](https://www.reddit.com/r/artificial/comments/1tfk5ve/serious_question_if_humans_vanished_tomorrow_how/)**
 
 I think a lot of AI discourse quietly skips over dependency chains. If humanity disappeared tomorrow what exactly happens to current LLMs? A lot of people talk about these systems as if they are proto civilisations waiting to escape human limitation and continue evolving independently. But would they? When you strip away all the hype modern AI still sits on top of an enormous inherited stack of human structure: Human language Human memory Human labelled reality Human built infrastructure Human maintained datacentres Human energy grids Human chip manufacturing Human feedback loops Human incentives Human institutions Even the “intelligence” itself is trained almost entirely on compressed human civilisation. I now understand models can generalise. They can infer patterns. They can form internal abstractions beyond rote memorisation. That part is clearly true. But inference over WHAT? Remove humans entirely and current systems do not continue building civilisation they gradually become disconnected from reality itself. So: No new grounding data. No maintenance. No semiconductor supply chain. No evolving human context. No fresh interaction with the physical world. No repair of infrastructure. Eventually the system is inferencing over increasingly stale representations of a civilisation that no longer exists. This is where I think a lot of AI discussions become confused. People collapse several completely different concepts into one another: Pattern prediction > consciousness Generalisation > agency Output fluency > autonomy Intelligence > independence The closer some people get to the technology the more they seem to mistake functional capability for a superior lifeform emerging lol. To me current AI looks less like an independent civilisation and more like a gigantic mirror of human civilisation itself. An extraordinarily powerful mirror. But still a mirror. Curious where people agree or disagree with this?
 
-3h ago
+5h ago
 
 ---
 
@@ -121,9 +121,9 @@ I was thinking that as AI and basically neural nets, couldn't AI in video games 
 
 ## Google News: "ai"
 
-**[Opinion | My Classmate, ChatGPT](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
+**[Opinion | What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
 
 ---
 
@@ -131,29 +131,31 @@ The New York Times • 7h ago
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
-**[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
+**[AI-related layoffs a boost for stocks? Not necessarily](https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html)**
 
-Axios • 10m ago
+The data underscores an uncomfortable reality.
 
----
-
-**[These ‘underappreciated winners of AI’ also pay solid income](https://www.cnbc.com/2026/05/17/these-underappreciated-winners-of-ai-also-pay-solid-income.html)**
-
-These real estate investment trusts offer exposure to artificial intelligence. Wall Street sees upside ahead.
-
-CNBC • 46m ago
+CNBC • 55m ago
 
 ---
 
-**[How to fall in love with humanity again](https://www.vox.com/future-perfect/488761/ai-tech-humanism-transhumanism-shannon-vallor)**
+**[AI advances are breaking into the physical world – and robots will soon learn how to do your washing and ironing](https://nypost.com/2026/05/17/tech/souped-up-ai-is-making-robots-think-learn-for-themselves-and-out-perform-us/)**
 
-﻿Tech culture has made contempt for humanity feel enlightened. We can do better.
+A tech VC said, physical AI is “the challenge of figuring out how to reinvent the physical world. It’s a big challenge.” In describing Project Prometheus, he added, “I perso…
 
-vox.com • 11m ago
+New York Post • 1h ago
+
+---
+
+**[Future authors, this AI book creator tool is now just $119 for lifetime access](https://www.popsci.com/sponsored-content/future-authors-this-ai-book-creator-tool-is-discounted-for-lifetime-access-sponsored-deal/)**
+
+The Starter Plan lifetime subscription is discounted and for anyone with a Google Doc full of “book ideas” they swear they’ll finish someday.
+
+Popular Science • 1h ago
 
 ---
 
@@ -161,7 +163,13 @@ vox.com • 11m ago
 
 In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
 
-The Washington Post • 39m ago
+The Washington Post • 23m ago
+
+---
+
+**[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
+
+Axios • 2h ago
 
 ---
 
@@ -173,27 +181,19 @@ OpenAI • 1d ago
 
 ---
 
-**[Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination)**
+**[‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters](https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters)**
 
-The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense
+Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin
 
-The Guardian • 23h ago
-
----
-
-**[I used AI to help market my bagel shop. Then the one-star reviews came in.](https://www.businessinsider.com/bagel-shop-owner-removes-ai-social-media-marketing-2026-5)**
-
-Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
-
-Business Insider • 1d ago
+The Guardian • 3h ago
 
 ---
 
-**[AI Poised to Tilt Job Market Leverage Toward Older Workers](https://finance.yahoo.com/economy/policy/articles/ai-poised-tilt-job-market-150000094.html)**
+**[Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it](https://www.yahoo.com/entertainment/movies/articles/steven-soderbergh-used-ai-documentary-023928048.html)**
 
-(Bloomberg) -- When it comes to job cuts, older workers are often disproportionately affected. But a new survey of chief executive officers suggests this won’t be a given as companies adopt artificial intelligence.Most Read from BloombergWinners and Losers From Trump and Xi’s Beijing Summit TalksHormuz Oil Flows Creep Higher as More Supertankers ExitUS, Iran Stall on Hormuz Reopening as Oil Supplies TightenWhat Is The Thucydides Trap and Why Did Xi Raise It With Trump?How Keir Starmer Imploded a
+The day John Lennon was shot, on Dec. 8, 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York's Dakota Apartments.  At the age of 40, Lennon sounds like so...
 
-Yahoo Finance • 21h ago
+Yahoo • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 21h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 2011 • 💬 1177 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 2034 • 💬 1192 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -221,15 +221,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 ...
 
-⬆️ 541 • 💬 302 • 2d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
-
----
-
-**[Amazon workers under pressure to up their AI usage are making up tasks](https://news.ycombinator.com/item?id=48148337)**
-
-In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
-
-⬆️ 392 • 💬 427 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 542 • 💬 302 • 2d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
 
 ---
 
@@ -237,7 +229,15 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 388 • 💬 398 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 397 • 💬 418 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+
+---
+
+**[Amazon workers under pressure to up their AI usage are making up tasks](https://news.ycombinator.com/item?id=48148337)**
+
+In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
+
+⬆️ 394 • 💬 427 • 2d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -275,7 +275,7 @@ Soon, access to frontier AI will be scarce and selective
 
 **[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
 
-⬆️ 156 • 💬 246 • 18h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+⬆️ 156 • 💬 250 • 20h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 
 ---
 
@@ -289,27 +289,17 @@ Data centers are popping up everywhere, and there are some major issues that we 
 
 📺 Matt Walsh
 
-👁️ 196K • 👍 11K • 💬 3K • ⏱️ 46:13 • 2d ago
+👁️ 199K • 👍 11K • 💬 3K • ⏱️ 46:13 • 2d ago
 
 ---
 
-**[You’re Not Behind (Yet): Learn AI Agents in 13 Minutes](https://www.youtube.com/watch?v=P5sKKnWCvzk)**
+**[BREAKING: Data Centers KILL Americans as AI Race Takes DARK Turn](https://www.youtube.com/watch?v=0LIkmfgY-fA)**
 
-Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter Most people still use AI like a better search box, but the ...
+Aaron Parnas reports on exclusive story of data centers around the country killing Americans, including a look at pollution let off by ...
 
-📺 theMITmonk
+📺 Aaron Parnas
 
-👁️ 232K • 👍 7K • 💬 165 • ⏱️ 13:10 • 2d ago
-
----
-
-**[The AI race is a lie](https://www.youtube.com/watch?v=NeutZWud2Ng)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 95K • 👍 6K • 💬 1K • ⏱️ 13:30 • 2d ago
+👁️ 19K • 👍 3K • 💬 373 • ⏱️ 11:19 • 1d ago
 
 ---
 
@@ -319,27 +309,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 114K • 👍 6K • 💬 746 • ⏱️ 25:36 • 12h ago
-
----
-
-**[AI Trust Is Collapsing. The Industry Is DELUSIONAL.](https://www.youtube.com/watch?v=FwRB_0XPICs)**
-
-Head to https://betterhelp.com/infographics to get 10% off your first month with our sponsor, BetterHelp. Therapy can be a ...
-
-📺 The Infographics Show
-
-👁️ 201K • 👍 6K • 💬 2K • ⏱️ 19:17 • 21h ago
-
----
-
-**[Tucker DESTROYS Kevin O’Leary Over AI Data Centers &amp; Screwing Taxpayers! ](https://www.youtube.com/watch?v=408Cz8B6N2Y)**
-
-Tucker Carlson recently dismantled billionaire Kevin O'Leary by exposing that his massive planned Utah data center, which will ...
-
-📺 The Jimmy Dore Show
-
-👁️ 125K • 👍 8K • 💬 2K • ⏱️ 16:27 • 20h ago
+👁️ 136K • 👍 7K • 💬 826 • ⏱️ 25:36 • 13h ago
 
 ---
 
@@ -349,27 +319,17 @@ Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town
 
 📺 Breaking Points
 
-👁️ 98K • 👍 4K • 💬 603 • ⏱️ 12:40 • 1d ago
+👁️ 100K • 👍 4K • 💬 627 • ⏱️ 12:40 • 1d ago
 
 ---
 
-**[Anthropic just admitted AI is bullsh*t](https://www.youtube.com/watch?v=juHv_Vi4giU)**
+**[AI Trust Is Collapsing. The Industry Is DELUSIONAL.](https://www.youtube.com/watch?v=FwRB_0XPICs)**
 
-It's time to deploy yourself in the forward direction. https://x.com/@atmoio https://atmoio.substack.com ...
+Head to https://betterhelp.com/infographics to get 10% off your first month with our sponsor, BetterHelp. Therapy can be a ...
 
-📺 Mo Bitar
+📺 The Infographics Show
 
-👁️ 224K • 👍 12K • 💬 2K • ⏱️ 10:37 • 1d ago
-
----
-
-**[Why China Should Be Worried About Ghana&#39;s Students #ai #robots #competition](https://www.youtube.com/watch?v=WRfNwkhJaDo)**
-
-Ghana is making history as young students build aircraft, drones, robots, and AI technology that are gaining global attention.
-
-📺 UNITED STATES OF AFRICA
-
-👁️ 507 • 👍 67 • 💬 11 • ⏱️ 2:52 • 2h ago
+👁️ 216K • 👍 7K • 💬 2K • ⏱️ 19:17 • 22h ago
 
 ---
 
@@ -379,7 +339,47 @@ What drives the tech titans behind the AI arms race? For some, it's the thrill o
 
 📺 Bloomberg Television
 
-👁️ 41K • 👍 901 • 💬 103 • ⏱️ 12:11 • 22h ago
+👁️ 46K • 👍 997 • 💬 110 • ⏱️ 12:11 • 1d ago
+
+---
+
+**[AI scan sent an innocent grandma TO JAIL?!](https://www.youtube.com/watch?v=yccsobkbwFg)**
+
+A Tennessee grandmother was wrongfully arrested after AI-powered facial recognition falsely identified her as a North Dakota ...
+
+📺 ReasonTV
+
+👁️ 122K • 👍 10K • 💬 1K • ⏱️ 1:17 • 2d ago
+
+---
+
+**[Anthropic just admitted AI is bullsh*t](https://www.youtube.com/watch?v=juHv_Vi4giU)**
+
+It's time to deploy yourself in the forward direction. https://x.com/@atmoio https://atmoio.substack.com ...
+
+📺 Mo Bitar
+
+👁️ 232K • 👍 12K • 💬 2K • ⏱️ 10:37 • 1d ago
+
+---
+
+**[Day Trading My Crypto With an AI Agent (Full Tutorial)](https://www.youtube.com/watch?v=N5ygvQdVFJQ)**
+
+Have you ever wondered how to make an AI agent that can handle your crypto portfolio? In this AI agent tutorial, I put my own ...
+
+📺 Dominic Parker
+
+👁️ 9K • 👍 144 • 💬 6 • ⏱️ 7:41 • 1d ago
+
+---
+
+**[Microsoft’s New AI Beats Mythos And Shocks OpenAI](https://www.youtube.com/watch?v=idNpTUrr3r0)**
+
+Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevolutionx-RpneRv Microsoft just revealed MDASH, ...
+
+📺 AI Revolution
+
+👁️ 39K • 👍 1K • 💬 64 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 666 • 5h ago
+⬇️ 56,518 • ❤️ 675 • 7h ago
 
 ---
 
@@ -407,7 +407,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 970,124 • ❤️ 1,052 • 8d ago
+⬇️ 970,124 • ❤️ 1,055 • 8d ago
 
 ---
 
@@ -419,7 +419,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 20,208 • ❤️ 333 • 10d ago
+⬇️ 20,208 • ❤️ 337 • 10d ago
 
 ---
 
@@ -431,7 +431,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 14,285 • ❤️ 367 • 2d ago
+⬇️ 14,285 • ❤️ 369 • 2d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 185,303 • ❤️ 211 • 23h ago
+⬇️ 185,303 • ❤️ 217 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 181,425 • ❤️ 191 • 23h ago
+⬇️ 181,425 • ❤️ 198 • 1d ago
 
 ---
 
@@ -467,7 +467,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 3,140,341 • ❤️ 4,001 • 11d ago
+⬇️ 3,140,341 • ❤️ 4,003 • 11d ago
 
 ---
 
@@ -479,7 +479,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 144,833 • ❤️ 515 • 5d ago
+⬇️ 144,833 • ❤️ 516 • 5d ago
 
 ---
 
@@ -489,19 +489,17 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
 
-⬇️ 524,067 • ❤️ 1,364 • 2d ago
+⬇️ 524,067 • ❤️ 1,367 • 2d ago
 
 ---
 
-**[Dramabox](https://huggingface.co/ResembleAI/Dramabox)**
+**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
 
-*Resemble AI*
+*froggeric*
 
-Dramabox is an expressive text-to-speech model fine-tuned from LTX-2.3, capable of voice cloning and generating audio with nuanced emotions and delivery. It uses prompt-driven control for speaker identity, emotion, and actions, making it ideal for creative audio production and dynamic voiceovers.
+Provides fixed Jinja chat templates for Qwen 3.5 & 3.6 models, resolving issues with tool calling, KV cache hit rates, and agentic loop stability for improved conversational AI and tool interaction.
 
-`text-to-speech`
-
-⬇️ 936 • ❤️ 118 • 3d ago
+⬇️ 0 • ❤️ 255 • 1d ago
 
 ---
 
@@ -568,7 +566,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
 
-▲ 27 • 💬 3 • ⭐ 798 • 6d ago
+▲ 27 • 💬 3 • ⭐ 857 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
 
@@ -582,9 +580,23 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 20 • 💬 3 • ⭐ 11,601 • 29d ago
+▲ 20 • 💬 3 • ⭐ 11,634 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
+
+---
+
+**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
+
+*Ruofeng Yang, Yongcan Li, Shuai Li*
+
+🏢 Shanghai Jiao Tong University
+
+ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
+
+▲ 116 • 💬 10 • ⭐ 9,609 • 13d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
 ---
 
@@ -628,20 +640,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
-
-*Ruofeng Yang, Yongcan Li, Shuai Li*
-
-🏢 Shanghai Jiao Tong University
-
-ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
-
-▲ 115 • 💬 10 • ⭐ 9,492 • 13d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -662,7 +660,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.4k • 🔱 762 • 1d ago
+⭐ 9.4k • 🔱 767 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.6k • 🔱 192 • 1h ago
+⭐ 3.6k • 🔱 196 • 6m ago
 
 ---
 
@@ -682,7 +680,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.5k • 🔱 354 • 20h ago
+⭐ 3.5k • 🔱 359 • 22h ago
 
 ---
 
@@ -692,7 +690,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 890 • 18h ago
+⭐ 3.1k • 🔱 891 • 20h ago
 
 ---
 
@@ -702,7 +700,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 353 • 13h ago
+⭐ 2.9k • 🔱 356 • 15h ago
 
 ---
 
@@ -712,7 +710,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.6k • 🔱 317 • 1h ago
+⭐ 2.7k • 🔱 321 • 3h ago
 
 ---
 
@@ -722,7 +720,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 156 • 1h ago
+⭐ 2.3k • 🔱 156 • 2h ago
 
 ---
 
@@ -742,7 +740,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 325 • 2d ago
+⭐ 2.1k • 🔱 326 • 1h ago
 
 ---
 

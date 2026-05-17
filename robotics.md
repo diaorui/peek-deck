@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T12:11:10.231760+00:00'
+updated: '2026-05-17T14:04:18.104370+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 12:11 UTC  
+**Last Updated:** May 17, 2026 at 14:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-6h ago
+8h ago
 
 ---
 
 **[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
 
-2h ago
+4h ago
 
 ---
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old DC motors with slip rings AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-8h ago
+10h ago
 
 ---
 
@@ -64,13 +64,21 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-21h ago
+22h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-5h ago
+7h ago
+
+---
+
+**[For a robotics startup, what is the best way to get non-binding LOI’s to test our robots in their business?](https://www.reddit.com/r/robotics/comments/1tfpmuv/for_a_robotics_startup_what_is_the_best_way_to/)**
+
+We’re building a robotics startup and want to get non-binding LOIs from businesses willing to test our robots in real operations. The goal is not to close full contracts yet, but to validate demand, get feedback, and prove ROI through pilots. For founders/operators who’ve done this: what’s the best way to approach companies, structure the LOI, and make the ask low-risk enough for them to say yes?
+
+33m ago
 
 ---
 
@@ -86,19 +94,13 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome.
 
-14h ago
+16h ago
 
 ---
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
 1d ago
-
----
-
-**[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
-
-18h ago
 
 ---
 
@@ -122,6 +124,20 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
+
+Go Local Prov • 7h ago
+
+---
+
+**[China unveils a giant rideable robot straight out of sci-fi movie](https://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction)**
+
+A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
+
+Euronews.com • 7h ago
+
+---
+
 **[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
 
 eWeek • 2d ago
@@ -132,7 +148,7 @@ eWeek • 2d ago
 
 A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
 
-Global Times • 12h ago
+Global Times • 14h ago
 
 ---
 
@@ -140,7 +156,7 @@ Global Times • 12h ago
 
 “The robots are coming” need not be understood as heralding the apocalypse. An automated society in which states and worker-owned enterprises use technology to serve public ends while meeting individual needs is entirely consistent with the good life.
 
-Jacobin • 21h ago
+Jacobin • 22h ago
 
 ---
 
@@ -150,11 +166,11 @@ CT Insider • 1d ago
 
 ---
 
-**[China Focus: Unitree secures orders after sensational debut of manned mecha](https://english.news.cn/20260516/8a6d78202c824f8faa7efc3bc8d26048/c.html)**
+**[AI advances are breaking into the physical world – and robots will soon learn how to do your washing and ironing](https://nypost.com/2026/05/17/tech/souped-up-ai-is-making-robots-think-learn-for-themselves-and-out-perform-us/)**
 
-China Focus: Unitree secures orders after sensational debut of manned mecha-
+A tech VC said, physical AI is “the challenge of figuring out how to reinvent the physical world. It’s a big challenge.” In describing Project Prometheus, he added, “I perso…
 
-Xinhua • 1d ago
+New York Post • 1h ago
 
 ---
 
@@ -166,33 +182,9 @@ The Jerusalem Post • 1d ago
 
 ---
 
-**[New FANUC-NVIDIA system lets virtual robots behave like real machines](https://interestingengineering.com/ai-robotics/fanuc-nvidia-sim-to-real-digital-twins)**
-
-FANUC and NVIDIA built factory robot digital twins that mirror real-world motion and AI behavior.
-
-Interesting Engineering • 1d ago
-
----
-
-**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
-
-Go Local Prov • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 26K • 👍 569 • 💬 93 • ⏱️ 21:16 • 3d ago
-
----
 
 **[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
 
@@ -200,7 +192,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 327K • 👍 7K • 💬 2K • ⏱️ 3:03 • 3d ago
+👁️ 331K • 👍 7K • 💬 2K • ⏱️ 3:03 • 3d ago
 
 ---
 
@@ -210,17 +202,17 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 231 • 💬 23 • ⏱️ 55:02 • 3d ago
+👁️ 12K • 👍 233 • 💬 23 • ⏱️ 55:02 • 3d ago
 
 ---
 
-**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
 
-Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
 
-📺 NBC News
+📺 Technology with Tyler
 
-👁️ 80K • 👍 697 • 💬 251 • ⏱️ 3:00 • 2d ago
+👁️ 27K • 👍 601 • 💬 103 • ⏱️ 21:16 • 3d ago
 
 ---
 
@@ -230,37 +222,17 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 927K • 👍 68K • 💬 6K • ⏱️ 23:53 • 6d ago
+👁️ 934K • 👍 68K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
-**[Unitree Just Dropped A Real Life MECHA AI Robot](https://www.youtube.com/watch?v=nFo6UWD0J2o)**
+**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
 
-Unitree just revealed the GD01, a real manned mecha robot that can walk on two legs, smash through walls, switch into a ...
+Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
 
-📺 AI Revolution
+📺 NBC News
 
-👁️ 20K • 👍 575 • 💬 67 • ⏱️ 15:27 • 2d ago
-
----
-
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
-
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
-
-📺 ShortCircuit
-
-👁️ 74K • 👍 4K • 💬 520 • ⏱️ 15:32 • 21h ago
-
----
-
-**[KO SHOW: NHRL Robot Fighting Pro Tour Round 1, Group Stages from 10am ET](https://www.youtube.com/watch?v=QeM-T_WJVTU)**
-
-It's time for the first ever NHRL Pro Tour event! The first ever live professional robot fighting sports broadcast with KO Show live ...
-
-📺 NHRL
-
-👁️ 11K • 👍 338 • 💬 12 • ⏱️ 7:45:16 • 13h ago
+👁️ 81K • 👍 703 • 💬 253 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -270,17 +242,47 @@ Robots and drones were used by Ukrainian forces to capture a Russian position wi
 
 📺 Radio Free Europe/Radio Liberty
 
-👁️ 35K • 👍 827 • 💬 47 • ⏱️ 3:07 • 4d ago
+👁️ 35K • 👍 834 • 💬 49 • ⏱️ 3:07 • 4d ago
 
 ---
 
-**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
 
-Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
 
-📺 CGTN Europe
+📺 ShortCircuit
 
-👁️ 79K • 👍 530 • 💬 64 • ⏱️ 0:33 • 3d ago
+👁️ 82K • 👍 4K • 💬 554 • ⏱️ 15:32 • 23h ago
+
+---
+
+**[They’re all acting like robots.](https://www.youtube.com/watch?v=mxQR025JWX0)**
+
+LIKE & SUBSCRIBE for new videos daily: https://youtube.com/@BenShapiro?si=mTKyS7TICo9m0UA3 ALSO SUBSCRIBE to the ...
+
+📺 Ben Shapiro
+
+👁️ 83K • 👍 3K • 💬 247 • ⏱️ 0:37 • 2d ago
+
+---
+
+**[Unitree Just Dropped A Real Life MECHA AI Robot](https://www.youtube.com/watch?v=nFo6UWD0J2o)**
+
+Unitree just revealed the GD01, a real manned mecha robot that can walk on two legs, smash through walls, switch into a ...
+
+📺 AI Revolution
+
+👁️ 21K • 👍 582 • 💬 67 • ⏱️ 15:27 • 2d ago
+
+---
+
+**[KO SHOW: NHRL Robot Fighting Pro Tour Round 1, Group Stages from 10am ET](https://www.youtube.com/watch?v=QeM-T_WJVTU)**
+
+It's time for the first ever NHRL Pro Tour event! The first ever live professional robot fighting sports broadcast with KO Show live ...
+
+📺 NHRL
+
+👁️ 12K • 👍 343 • 💬 17 • ⏱️ 7:45:16 • 15h ago
 
 ---
 
