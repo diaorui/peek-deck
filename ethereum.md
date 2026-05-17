@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-16T23:26:52.604261+00:00'
+updated: '2026-05-17T01:24:40.575159+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 23:26 UTC  
+**Last Updated:** May 17, 2026 at 01:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -8.0%  
-**30d:** -9.9%  
-**90d:** +9.1%  
-**1y:** -11.9%  
+**24h:** -2.2%  
+**7d:** -6.8%  
+**30d:** -7.3%  
+**90d:** +9.5%  
+**1y:** -12.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.05B
+**Market Cap:** $263.00B
 Rank #2
 
 **Circulating Supply:** 120,685,841 ETH
@@ -62,7 +62,7 @@ No max supply
 -55.9%
 
 **All-Time Low:** $0.43
-+503268.5%
++503227.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-5h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-7h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-13h ago
+15h ago
 
 ---
 
@@ -158,11 +158,11 @@ BitMine Immersion Technologies has cut its Ethereum (ETH) buying pace by 74% as 
 
 ---
 
-**[XRP and Solana ETFs Keep Pulling Inflows While Ethereum ETFs Bleed](https://finance.yahoo.com/markets/crypto/articles/xrp-solana-etfs-keep-pulling-192220442.html)**
+**[Bitmine Pivots To Ethereum Staking Yield As NYSE Uplisting Draws Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-pivots-ethereum-staking-yield-091827775.html)**
 
-Bitcoin (CRYPTO: BTC) rallied to $82,000 on May 14 after the Senate Banking Committee passed the CLARITY Act. Spot Bitcoin ETFs took in $131 million the same day, recovering from the brutal $635 million outflow on May 13. XRP (CRYPTO: XRP) and Solana (CRYPTO: SOL) spot ETFs both continued their May inflow streaks. But Ethereum ... XRP and Solana ETFs Keep Pulling Inflows While Ethereum ETFs Bleed
+Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -171,6 +171,14 @@ Yahoo Finance • 1d ago
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
 The Block • 2d ago
+
+---
+
+**[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor](https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor)**
+
+The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
+
+Decrypt • 7h ago
 
 ---
 
@@ -192,15 +200,7 @@ inc.com • 2d ago
 
 **[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
 
-Coinpedia • 1d ago
-
----
-
-**[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor](https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor)**
-
-The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
-
-Decrypt • 5h ago
+Coinpedia • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ CoinDesk • 1d ago
 
 Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -230,13 +230,13 @@ Crypto Briefing • 9h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee :&quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
+**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
 
 Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 99 • 💬 97 • ⏱️ 15:37 • 16h ago
+👁️ 3K • 👍 106 • 💬 165 • ⏱️ 15:37 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 452 • 💬 49 • ⏱️ 18:57 • 2d ago
+👁️ 14K • 👍 456 • 💬 50 • ⏱️ 18:57 • 2d ago
 
 ---
 
@@ -256,67 +256,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 5K • 👍 128 • 💬 25 • ⏱️ 13:36 • 1d ago
-
----
-
-**[ETHEREUM BUY TARGET SOON!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=mREX7HVUtJ4)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 540 • 👍 30 • 💬 2 • ⏱️ 4:43 • 14h ago
-
----
-
-**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
-
-GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
-
-📺 Bankless
-
-👁️ 6K • 👍 215 • 💬 36 • ⏱️ 1:05:23 • 1d ago
-
----
-
-**[ETH Supply Shock Could Send Ethereum To $20K Explained](https://www.youtube.com/watch?v=7WiPJ8CUCo8)**
-
-Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with MaxFi - https://www.maxfi.tech/ Big Time ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 81 • 💬 50 • ⏱️ 23:46 • 1d ago
-
----
-
-**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
-
-Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
-
-📺 Trade Confident
-
-👁️ 408 • 👍 12 • 💬 12 • ⏱️ 5:45 • 1d ago
-
----
-
-**[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
-
-BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 357 • 💬 51 • ⏱️ 18:49 • 19h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 3K • 👍 120 • 💬 6 • ⏱️ 7:27 • 20h ago
+👁️ 5K • 👍 139 • 💬 26 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -326,7 +266,67 @@ Ethereum and Ripple are often compared, but they're solving completely different
 
 📺 CoinGecko
 
-👁️ 9K • 👍 283 • 💬 131 • ⏱️ 3:46 • 2d ago
+👁️ 9K • 👍 289 • 💬 133 • ⏱️ 3:46 • 2d ago
+
+---
+
+**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
+
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
+
+📺 Bankless
+
+👁️ 6K • 👍 220 • 💬 35 • ⏱️ 1:05:23 • 1d ago
+
+---
+
+**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
+
+Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
+
+📺 Trade Confident
+
+👁️ 432 • 👍 12 • 💬 12 • ⏱️ 5:45 • 1d ago
+
+---
+
+**[ETH Supply Shock Could Send Ethereum To $20K Explained](https://www.youtube.com/watch?v=7WiPJ8CUCo8)**
+
+Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with MaxFi - https://www.maxfi.tech/ Big Time ...
+
+📺 Big Time Trades
+
+👁️ 2K • 👍 83 • 💬 48 • ⏱️ 23:46 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
+
+BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 363 • 💬 90 • ⏱️ 18:49 • 21h ago
+
+---
+
+**[ETHEREUM BUY TARGET SOON!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=mREX7HVUtJ4)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 587 • 👍 31 • 💬 2 • ⏱️ 4:43 • 16h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=hPHHGHYtFAY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 3K • 👍 120 • 💬 6 • ⏱️ 7:27 • 22h ago
 
 ---
 

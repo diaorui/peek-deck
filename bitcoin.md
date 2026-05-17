@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-16T23:26:52.598875+00:00'
+updated: '2026-05-17T01:24:40.569270+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 16, 2026 at 23:26 UTC  
+**Last Updated:** May 17, 2026 at 01:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,283.53
+### $77,970.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -4.8%  
-**30d:** +1.5%  
-**90d:** +13.6%  
-**1y:** -24.1%  
+**24h:** -1.3%  
+**7d:** -4.6%  
+**30d:** +3.1%  
+**90d:** +15.6%  
+**1y:** -26.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1565.57B
+**Market Cap:** $1562.50B
 Rank #1
 
-**Circulating Supply:** 20,030,306 BTC
+**Circulating Supply:** 20,030,390 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.0%
+-38.1%
 
 **All-Time Low:** $67.81
-+115144.1%
++114934.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Holy shit. I don't know what just happened. Maybe it's because I'm getting older and I think about money differently, like I'm planning wealth for the future rather than just winning a quick buck and blowing it on some fancy thing. I've spent *YEARS* holding a "diversified" "crypto" portfolio that was only like 30% bitcoin. I timed cycle tops and bottoms. Yes it performed well. Yes I took profit. Yes I bought nice things. The bitcoin allocation was an afterthought. But now I get it. 21 million supply. Permanently growing demand and adoption. Sure, other assets will outperform sometimes. But bitcoin isn't just an asset. It is a virus with a reach that is constantly expanding. Saturation is so far away. Just look at the price curve. I had these thoughts before but, I don't know why, it just didn't click like this. Good god, it is so obvious. This is the best risk-adjusted bet to exist. Ever. I finally get it. 100% BTC.
 
-9h ago
+11h ago
 
 ---
 
 **[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
 
-55m ago
+2h ago
 
 ---
 
@@ -95,13 +95,21 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 3h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 5h ago
 
 ---
 
-**[How the old Antminer T17 is retiring!](https://www.reddit.com/r/Bitcoin/comments/1tf631j/how_the_old_antminer_t17_is_retiring/)**
+**[How are you still not holding BTC?](https://www.reddit.com/r/Bitcoin/comments/1tfaeax/how_are_you_still_not_holding_btc/)**
 
-Now THIS is what they call a 'hard fork'. 🤪
+How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
+
+47m ago
+
+---
+
+**[Buy btc everyday](https://www.reddit.com/r/Bitcoin/comments/1tfa4ee/buy_btc_everyday/)**
+
+and you will see
 
 1h ago
 
@@ -111,13 +119,21 @@ Now THIS is what they call a 'hard fork'. 🤪
 
 Goal was to provide comparisons and as much information to people shopping for loans on their bitcoin. Totally open to suggestions and feedback. Thanks guys. BorrowOnBitcoin.com
 
-3h ago
+5h ago
 
 ---
 
 **[The Methane Hunters: Why Bitcoin Miners are the Planet's Unlikely Green Allies. Politicians write climate regulations that fail. Bitcoin miners use thermodynamic greed to hunt down stranded methane and succeed. How the parallel economy is cleaning up the grid.](https://www.reddit.com/r/Bitcoin/comments/1tenc9p/the_methane_hunters_why_bitcoin_miners_are_the/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 15h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-methane-hunters-why-bitcoin-miners) • 17h ago
+
+---
+
+**[How the old Antminer T17 is retiring!](https://www.reddit.com/r/Bitcoin/comments/1tf631j/how_the_old_antminer_t17_is_retiring/)**
+
+Now THIS is what they call a 'hard fork'. 🤪
+
+3h ago
 
 ---
 
@@ -131,23 +147,7 @@ Goal was to provide comparisons and as much information to people shopping for l
 
 Everyone has that one year when their crypto journey officially began. What year did your story start?
 
-10h ago
-
----
-
-**[Will the last Bitcoin ever be fully mined?](https://www.reddit.com/r/Bitcoin/comments/1tf3wa6/will_the_last_bitcoin_ever_be_fully_mined/)**
-
-It seems that in 100 years or so, the final bitcoin will take a very long time to mine considering the halving protocol. Since the block reward will continue to be cut in half every 4 years, will the miners be working for just a few sats for a long period of time beyond that? With BTC divisible by 100M, it seems like the mining of dust could continue almost forever.
-
-3h ago
-
----
-
-**[Why Bitcoin is the absolute only defense against the AI & CBDC "Automated Ward](https://www.reddit.com/r/Bitcoin/comments/1tesxiw/why_bitcoin_is_the_absolute_only_defense_against/)**
-
-Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map out the final piece of the fiat control architecture. A programmable digital currency is dangerous, but it needs a mechanism to enforce the rules. The central banks and the Silicon Cartel are merging architectures. They are using AI behavioral modeling to create what I call the "Automated Warden." When an AI model monitors your digital footprint and is linked directly to your fiat/CBDC wallet, the money simply turns off if you step out of line. There is no human appeal process. This is why Bitcoin is no longer just an inflation hedge or "sound money." Bitcoin is the only immutable firewall we have left. It is the only ledger that cannot be programmed by an AI and cannot be turned off by a central bank algorithm. I created a full visual documentary breaking down how this digital panopticon is being built right in front of us, and why opting out into the Bitcoin network is the only logical move. You can watch the full autopsy of the system here: https://youtu.be/r1IdyV6EPE4?is=K54YmiHgpRk-nUpj
-
-10h ago
+11h ago
 
 ---
 
@@ -155,11 +155,17 @@ Following up on the deep dive into CBDCs from a few weeks ago, I wanted to map o
 
 ## Google News: "bitcoin"
 
+**[Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown](https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown)**
+
+CoinDesk • 13h ago
+
+---
+
 **[Strategy Quietly Confirms Shock Plan To Sell Bitcoin, Sparking Sudden Price Crash ‘Panic’](https://www.forbes.com/sites/digital-assets/2026/05/16/strategy-quietly-confirms-shock-plan-to-sell-bitcoin-sparking-sudden-price-crash-panic/)**
 
 Michael Saylor’s bitcoin acquisition company Strategy has confirmed it could be about to sell some of its $63 billion worth of bitcoin...
 
-Forbes • 13h ago
+Forbes • 15h ago
 
 ---
 
@@ -177,39 +183,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades)**
+**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://finance.yahoo.com/markets/crypto/articles/president-trump-discloses-coinbase-robinhood-194845513.html)**
 
 President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
 
-Decrypt • 1d ago
-
----
-
-**[Is the 2-Year Treasury at 4.09% Why Bitcoin (BTC) Can’t Break Out?](https://finance.yahoo.com/markets/crypto/articles/2-treasury-4-09-why-202632309.html)**
-
-Bitcoin’s (CRYPTO: BTC) latest rally attempt is running into an unexpected wall; the U.S. bond market. While crypto traders focused on ETF flows, institutional adoption, and the recent progress of the CLARITY Act in Washington, another market quietly tightened financial conditions in the background. The U.S. 2-year Treasury yield surged to 4.09%, its highest level ... Is the 2-Year Treasury at 4.09% Why Bitcoin (BTC) Can’t Break Out?
-
-Yahoo Finance • 3h ago
-
----
-
-**[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
-
-WSJ • 1d ago
-
----
-
-**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown](https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown)**
-
-CoinDesk • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -221,11 +199,33 @@ Lexington Herald Leader • 1d ago
 
 ---
 
-**[Why Bitcoin Was Slumping on Friday](https://www.fool.com/investing/2026/05/15/why-bitcoin-was-slumping-on-friday/)**
+**[IREN closes $3 billion convertible notes offering as Bitcoin miner's AI infrastructure push accelerates](https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates)**
 
-Dramatic movements on the bond market weren't beneficial for the leading cryptocurrency.
+IREN closed $3 billion in convertible notes at a 1% coupon due 2033 to fund AI cloud expansion following its Nvidia and Microsoft deals.
 
-The Motley Fool • 22h ago
+The Block • 1d ago
+
+---
+
+**[NVIDIA-linked stock sinks after $3 billion capital raise](https://www.thestreet.com/crypto/markets/nvidia-linked-stock-sinks-after-3-billion-capital-raise)**
+
+thestreet.com • 1d ago
+
+---
+
+**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin Pizza Day – Win Bitcoin with Kraken](https://www.williamsf1.com/articles/1f993e23-51c7-4f6c-a0bb-7ecc0c065c6d/bitcoin-pizza-day-win-bitcoin-with-kraken)**
+
+You could score $1,000 on Bitcoin Pizza Day 2026, plus claim a bonus 10 WClub points
+
+williamsf1 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ A new brief from the Bitcoin Policy Institute says advances in quantum computing
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 2 • 💬 0 • 16h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 2 • 💬 0 • 18h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -315,7 +315,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 48 • ⏱️ 8:28 • 23h ago
+👁️ 22K • 👍 1K • 💬 45 • ⏱️ 8:28 • 1d ago
 
 ---
 
@@ -325,17 +325,7 @@ Bitcoin just crossed a major political milestone as the Clarity Act advanced thr
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 161 • ⏱️ 15:33 • 1d ago
-
----
-
-**[Why I&#39;m Actually ALL-IN On Bitcoin](https://www.youtube.com/watch?v=R1ORhzYkVuw)**
-
-Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And here's the exact moment it clicked: watching 40% of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 17K • 👍 1K • 💬 330 • ⏱️ 8:39 • 10h ago
+👁️ 31K • 👍 2K • 💬 161 • ⏱️ 15:33 • 1d ago
 
 ---
 
@@ -345,17 +335,17 @@ It's Happening NOW - Bitcoin About To Do It - Sunday Alpha Special *BloFin* - ge
 
 📺 The Trading Parrot
 
-👁️ 6K • 👍 480 • 💬 95 • ⏱️ 22:34 • 14h ago
+👁️ 7K • 👍 489 • 💬 102 • ⏱️ 22:34 • 16h ago
 
 ---
 
-**[98.6% Of Crypto Is NEVER Coming Back Except These Coins](https://www.youtube.com/watch?v=-mtlYzjSLlE)**
+**[Why I&#39;m Actually ALL-IN On Bitcoin](https://www.youtube.com/watch?v=R1ORhzYkVuw)**
 
-I was invited to speak at the Consensus Miami 2026 conference, and they asked me more about why I think most of the crypto ...
+Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And here's the exact moment it clicked: watching 40% of ...
 
-📺 From The Desk Of Anthony Pompliano
+📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 914 • 💬 142 • ⏱️ 20:47 • 1d ago
+👁️ 23K • 👍 2K • 💬 468 • ⏱️ 8:39 • 12h ago
 
 ---
 
@@ -365,17 +355,7 @@ OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY �
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 159 • ⏱️ 11:42 • 1d ago
-
----
-
-**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
-
-Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 2K • 💬 152 • ⏱️ 15:54 • 2d ago
+👁️ 48K • 👍 3K • 💬 159 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -385,27 +365,47 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 306 • 💬 40 • ⏱️ 55:42 • 9h ago
+👁️ 3K • 👍 309 • 💬 98 • ⏱️ 55:42 • 11h ago
 
 ---
 
-**[Crypto vs CLARITY Uncertainty📉Technical Analysis ‪@EvanAldo‬](https://www.youtube.com/watch?v=YyOkDS4FM9k)**
+**[BITCOIN DUMP EXPLAINED...](https://www.youtube.com/watch?v=wxsTksRpoJA)**
 
-As Bitcoin risks losing key level sooner than anticipated, altcoins might prosper. ~This Episode is Sponsored by OKX~ Trade ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Paul Barron Network
+📺 Crypto Rover
 
-👁️ 24K • 👍 1K • 💬 100 • ⏱️ 16:51 • 1d ago
+👁️ 12K • 👍 672 • 💬 84 • ⏱️ 9:09 • 18h ago
 
 ---
 
-**[Weekend Crypto Setup Looks Dangerous](https://www.youtube.com/watch?v=ZM0R-IRzr7A)**
+**[Inside Nigeria&#39;s crypto craze • FRANCE 24 English](https://www.youtube.com/watch?v=3tEE92_HX34)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+Over the past few years, cryptocurrency has become part of everyday life for nearly one in 10 Nigerians. Some use it to get around ...
 
-📺 Crypto Capital Venture
+📺 FRANCE 24 English
 
-👁️ 11K • 👍 602 • 💬 199 • ⏱️ 11:53 • 1d ago
+👁️ 85K • 👍 2K • 💬 326 • ⏱️ 12:41 • 1d ago
+
+---
+
+**[This Law of Nature Proves $1 Million Bitcoin is Destiny!](https://www.youtube.com/watch?v=xNISzZiJJNc)**
+
+Bitcoin is sitting near a major technical level, but the deeper story is not price action, volatility, or the next catalyst. In this episode ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 2K • 💬 150 • ⏱️ 15:54 • 2d ago
+
+---
+
+**[Bitcoin To 56K? 😳 This Level Matters 🚨](https://www.youtube.com/watch?v=9HgIIW5qzDE)**
+
+Bitcoin To 56K? This Level Matters ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 3K • 👍 124 • 💬 3 • ⏱️ 0:55 • 5h ago
 
 ---
 
