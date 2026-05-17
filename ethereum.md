@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T09:47:59.099150+00:00'
+updated: '2026-05-17T11:07:42.010927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 09:47 UTC  
+**Last Updated:** May 17, 2026 at 11:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.7%  
-**7d:** -6.5%  
-**30d:** -6.9%  
-**90d:** +9.9%  
-**1y:** -12.4%  
+**7d:** -6.3%  
+**30d:** -6.7%  
+**90d:** +10.1%  
+**1y:** -12.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.74B
+**Market Cap:** $264.40B
 Rank #2
 
 **Circulating Supply:** 120,685,789 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.8%
+-55.7%
 
 **All-Time Low:** $0.43
-+504677.4%
++506144.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-23h ago
+1d ago
 
 ---
 
@@ -142,7 +142,7 @@ swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% 
 
 the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained through their layerzero bridge. single exploit hit 20+ chains because one bridge contract held the reserves for all of them drift protocol: $285M. north korean hackers spent 6 months social engineering their way in 1inch/trustedvolumes: $6.7M last week. same attacker from the 2025 hack came back and found a new door april 2026 alone: $600M+ stolen across 28-30 separate incidents. worst single month in crypto history 40+ protocols have shut down or entered wind-down mode this year. aave froze rsETH markets and lost $6 billion in TVL from panic withdrawals even though their contracts weren't touched. the pattern isn't random. bridges keep producing the biggest single-day losses because they're designed as massive honeypots. $22 billion in bridge TVL as of march, each one a single point of failure for every protocol downstream. what bugs me is the response is always the same. "we need better audits." "we need better monitoring." nobody is questioning whether the bridge model itself is fundamentally broken. bridges work by locking assets on one chain and minting representations on another through a trusted intermediary (multisig, oracle network, validator set). every one of these is an attack surface. kelp's bridge got spoofed because layerzero's messaging layer was fooled into thinking the withdrawal was legitimate. the alternative exists. data availability layers can handle cross-chain verification without lock-and-mint. instead of one contract holding $293M that can be drained in a single tx, you verify data availability cryptographically across chains. no honeypot, no single point of failure, no trusted intermediary to spoof. DA layers like avail, celestia, eigenda are live and production ready. the tech isn't theoretical anymore. it's an adoption problem not a research problem. at what point do we stop patching bridges and start replacing them?
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained throug
 
 The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -171,6 +171,14 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
+
+Success for a blockchain isn't always the same as success for investors.
+
+The Motley Fool • 56m ago
 
 ---
 
@@ -204,25 +212,17 @@ Coinpedia • 2d ago
 
 ---
 
-**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
+**[Ethereum Triangle Breakdown Adds Pressure On Its Recovery Outlook](https://www.tradingview.com/news/newsbtc:367940313094b:0-ethereum-triangle-breakdown-adds-pressure-on-its-recovery-outlook/)**
 
-Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
+Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
 
-TradingView • 1d ago
-
----
-
-**[Corporate Ethereum reserves reach $16B as companies stockpile 7.3M ETH](https://cryptobriefing.com/corporate-ethereum-reserves-16-billion/)**
-
-Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
-
-Crypto Briefing • 19h ago
+TradingView • 8h ago
 
 ---
 
-**[Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%](https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12)**
+**[Grayscale’s ETH Mini Trust Sees Gentle Outflow as Ethereum Rally Pauses](https://www.tipranks.com/news/cryptocurrencies/grayscales-eth-mini-trust-sees-gentle-outflow-as-ethereum-rally-pauses)**
 
-CoinDesk • 1d ago
+TipRanks • 57m ago
 
 ---
 
@@ -236,7 +236,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 110 • 💬 109 • ⏱️ 15:37 • 1d ago
+👁️ 4K • 👍 112 • 💬 108 • ⏱️ 15:37 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 4K • 👍 222 • 💬 98 • ⏱️ 18:50 • 6h ago
+👁️ 6K • 👍 287 • 💬 136 • ⏱️ 18:50 • 8h ago
 
 ---
 
@@ -256,7 +256,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 464 • 💬 50 • ⏱️ 18:57 • 2d ago
+👁️ 14K • 👍 467 • 💬 50 • ⏱️ 18:57 • 2d ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=DYLD6aOXMJo)**
+
+Ready to Start Confidently in Crypto? CoinDCX is the platform I trust to learn, invest and trade in Crypto. Trade and win assured ...
+
+📺 Ashutosh Kumar
+
+👁️ 5K • 👍 541 • 1h ago
 
 ---
 
@@ -266,7 +276,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 6K • 👍 151 • 💬 43 • ⏱️ 13:36 • 1d ago
+👁️ 6K • 👍 154 • 💬 43 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -276,17 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 714 • 👍 31 • 💬 2 • ⏱️ 4:43 • 1d ago
-
----
-
-**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
-
-GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
-
-📺 Bankless
-
-👁️ 7K • 👍 225 • 💬 35 • ⏱️ 1:05:23 • 1d ago
+👁️ 752 • 👍 31 • 💬 2 • ⏱️ 4:43 • 1d ago
 
 ---
 
@@ -296,37 +296,37 @@ Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergi
 
 📺 Trade Confident
 
-👁️ 448 • 👍 12 • 💬 12 • ⏱️ 5:45 • 1d ago
+👁️ 454 • 👍 13 • 💬 12 • ⏱️ 5:45 • 1d ago
 
 ---
 
-**[Ethereum VS XRP – Which Is Better?](https://www.youtube.com/watch?v=AiaKtqyYLcA)**
+**[뉴욕 트레이딩 대회 #shorts](https://www.youtube.com/watch?v=hn5Q6WC79Xs)**
 
-Ethereum and Ripple are often compared, but they're solving completely different problems. One is a global app platform, the ...
+자두두 유튜브 멤버쉽에 가입하기! https://www.youtube.com/@jadoodoo/join ◻️ Jadoodoo 투네이션 후원 링크: ...
 
-📺 CoinGecko
+📺 자두두 Jadoodoo
 
-👁️ 10K • 👍 303 • 💬 133 • ⏱️ 3:46 • 2d ago
-
----
-
-**[ETH Supply Shock Could Send Ethereum To $20K Explained](https://www.youtube.com/watch?v=7WiPJ8CUCo8)**
-
-Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with MaxFi - https://www.maxfi.tech/ Big Time ...
-
-📺 Big Time Trades
-
-👁️ 3K • 👍 86 • 💬 44 • ⏱️ 23:46 • 2d ago
+👁️ 16K • 👍 132 • 💬 26 • ⏱️ 0:50 • 1d ago
 
 ---
 
-**[QNT: 100X Potential Proven by Bitcoin &amp; Ethereum! #shorts](https://www.youtube.com/watch?v=YtwVdVw_Q-U)**
+**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
 
-Could QNT reach 100x gains, even $100000 per coin? Evidence from Bitcoin, Ethereum, and Solana suggests it's possible.
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
 
-📺 Apex Crypto Insights (NFA)
+📺 Bankless
 
-👁️ 1K • 👍 98 • 💬 6 • ⏱️ 1:43 • 14h ago
+👁️ 7K • 👍 228 • 💬 35 • ⏱️ 1:05:23 • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin: Crypto Update &amp; Targets](https://www.youtube.com/watch?v=IDLjsyUACLI)**
+
+Bitcoin soared to $81000, hitting the 200-day moving average. But is it a bull trap? Analysis suggests a potential deeper correction ...
+
+📺 CryptoMeownalysis
+
+👁️ 47 • 👍 2 • 💬 1 • ⏱️ 8:52 • 20h ago
 
 ---
 
