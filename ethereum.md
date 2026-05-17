@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T11:07:42.010927+00:00'
+updated: '2026-05-17T12:11:10.228882+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 11:07 UTC  
+**Last Updated:** May 17, 2026 at 12:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-18h ago
+19h ago
 
 ---
 
@@ -154,7 +154,7 @@ the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained throug
 
 The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -166,19 +166,11 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 ---
 
-**[Bitmine Pivots To Ethereum Staking Yield As NYSE Uplisting Draws Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-pivots-ethereum-staking-yield-091827775.html)**
+**[Harvard Dumps Its Ethereum and Bitcoin ETF Investment](https://finance.yahoo.com/markets/crypto/articles/harvard-dumps-ethereum-bitcoin-etf-103709099.html)**
 
-Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
+Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
 
-Yahoo Finance • 1d ago
-
----
-
-**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
-
-Success for a blockchain isn't always the same as success for investors.
-
-The Motley Fool • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,6 +179,14 @@ The Motley Fool • 56m ago
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
 The Block • 2d ago
+
+---
+
+**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
+
+Success for a blockchain isn't always the same as success for investors.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -212,17 +212,19 @@ Coinpedia • 2d ago
 
 ---
 
-**[Ethereum Triangle Breakdown Adds Pressure On Its Recovery Outlook](https://www.tradingview.com/news/newsbtc:367940313094b:0-ethereum-triangle-breakdown-adds-pressure-on-its-recovery-outlook/)**
+**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
 
-Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
+Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
 
-TradingView • 8h ago
+TradingView • 1d ago
 
 ---
 
-**[Grayscale’s ETH Mini Trust Sees Gentle Outflow as Ethereum Rally Pauses](https://www.tipranks.com/news/cryptocurrencies/grayscales-eth-mini-trust-sees-gentle-outflow-as-ethereum-rally-pauses)**
+**[Corporate Ethereum reserves reach $16B as companies stockpile 7.3M ETH](https://cryptobriefing.com/corporate-ethereum-reserves-16-billion/)**
 
-TipRanks • 57m ago
+Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
+
+Crypto Briefing • 21h ago
 
 ---
 
@@ -246,7 +248,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 136 • ⏱️ 18:50 • 8h ago
+👁️ 6K • 👍 287 • 💬 136 • ⏱️ 18:50 • 9h ago
 
 ---
 
@@ -266,7 +268,7 @@ Ready to Start Confidently in Crypto? CoinDCX is the platform I trust to learn, 
 
 📺 Ashutosh Kumar
 
-👁️ 5K • 👍 541 • 1h ago
+👁️ 5K • 👍 541 • 3h ago
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin soared to $81000, hitting the 200-day moving average. But is it a bull t
 
 📺 CryptoMeownalysis
 
-👁️ 47 • 👍 2 • 💬 1 • ⏱️ 8:52 • 20h ago
+👁️ 47 • 👍 2 • 💬 1 • ⏱️ 8:52 • 21h ago
 
 ---
 

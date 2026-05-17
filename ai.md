@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T11:07:41.997668+00:00'
+updated: '2026-05-17T12:11:10.215714+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 11:07 UTC  
+**Last Updated:** May 17, 2026 at 12:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[A mini-computer you run from a folder on your computer that can train small LLMS](https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/)**
+
+Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
+
+1h ago
+
+---
+
 **[THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance](https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/)**
 
 Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
 
-2h ago
+3h ago
 
 ---
 
@@ -49,15 +57,7 @@ Is there a 7B parameter model in your life struggling to understand sarcasm? A t
 
 Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
 
-20h ago
-
----
-
-**[A mini-computer you run from a folder on your computer that can train small LLMS](https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/)**
-
-Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
-
-15m ago
+21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted 
 
 I think we’re underestimating how chaotic enterprise AI adoption actually is inside large companies. From the outside, it looks simple: buy better models add copilots automate workflows deploy AI agents increase productivity But inside many enterprises, CIOs and CTOs are dealing with a much deeper problem: The organization itself is fragmented. Customer data exists across: CRM systems billing platforms support tools spreadsheets emails regional databases legacy systems nobody fully understands anymore And every system describes the “same customer” differently. Then leadership says: “Scale AI faster.” But scale AI on top of what exactly? Which system represents reality correctly? The CRM? The support history? The risk engine? The finance system? The employee’s undocumented tribal knowledge? This is where a lot of enterprise AI projects quietly break down. Not because the models are weak. But because the enterprise itself lacks a coherent representation of its own operations. And the tension gets worse: Boards want acceleration. Employees are already using AI unofficially. Vendors promise transformation in 90 days. Meanwhile CIOs still don’t have clear answers to questions like: Which workflows actually need AI? Which should remain deterministic automation? Where is human judgment still critical? Which data is trustworthy enough for AI decisions? Who owns accountability when AI influences actions? So companies launch pilots. The pilot works. Executives celebrate. Then scaling fails because the pilot never encountered the full institutional complexity of the enterprise. I’m increasingly convinced the next enterprise AI bottleneck is not model capability. It’s organizational legibility. The companies that win with AI may not be the ones with the smartest models. They may be the ones whose internal reality is structured clearly enough for AI to operate safely. Curious how many people here are seeing the same thing inside their organizations. :::
 
-20h ago
+21h ago
 
 ---
 
@@ -81,7 +81,7 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ I came across a Stanford research paper that actually went inside companies runn
 
 I think a lot of AI discourse quietly skips over dependency chains. If humanity disappeared tomorrow what exactly happens to current LLMs? A lot of people talk about these systems as if they are proto civilisations waiting to escape human limitation and continue evolving independently. But would they? When you strip away all the hype modern AI still sits on top of an enormous inherited stack of human structure: Human language Human memory Human labelled reality Human built infrastructure Human maintained datacentres Human energy grids Human chip manufacturing Human feedback loops Human incentives Human institutions Even the “intelligence” itself is trained almost entirely on compressed human civilisation. I now understand models can generalise. They can infer patterns. They can form internal abstractions beyond rote memorisation. That part is clearly true. But inference over WHAT? Remove humans entirely and current systems do not continue building civilisation they gradually become disconnected from reality itself. So: No new grounding data. No maintenance. No semiconductor supply chain. No evolving human context. No fresh interaction with the physical world. No repair of infrastructure. Eventually the system is inferencing over increasingly stale representations of a civilisation that no longer exists. This is where I think a lot of AI discussions become confused. People collapse several completely different concepts into one another: Pattern prediction > consciousness Generalisation > agency Output fluency > autonomy Intelligence > independence The closer some people get to the technology the more they seem to mistake functional capability for a superior lifeform emerging lol. To me current AI looks less like an independent civilisation and more like a gigantic mirror of human civilisation itself. An extraordinarily powerful mirror. But still a mirror. Curious where people agree or disagree with this?
 
-2h ago
+3h ago
 
 ---
 
@@ -121,11 +121,47 @@ I was thinking that as AI and basically neural nets, couldn't AI in video games 
 
 ## Google News: "ai"
 
+**[Opinion | My Classmate, ChatGPT](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
+
+The New York Times • 7h ago
+
+---
+
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 22h ago
+Fortune • 23h ago
+
+---
+
+**[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
+
+Axios • 10m ago
+
+---
+
+**[These ‘underappreciated winners of AI’ also pay solid income](https://www.cnbc.com/2026/05/17/these-underappreciated-winners-of-ai-also-pay-solid-income.html)**
+
+These real estate investment trusts offer exposure to artificial intelligence. Wall Street sees upside ahead.
+
+CNBC • 46m ago
+
+---
+
+**[How to fall in love with humanity again](https://www.vox.com/future-perfect/488761/ai-tech-humanism-transhumanism-shannon-vallor)**
+
+﻿Tech culture has made contempt for humanity feel enlightened. We can do better.
+
+vox.com • 11m ago
+
+---
+
+**[AI license plate cameras tore this town apart and led to a state of emergency](https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/)**
+
+In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
+
+The Washington Post • 39m ago
 
 ---
 
@@ -137,55 +173,19 @@ OpenAI • 1d ago
 
 ---
 
-**[A city’s AI license plate cameras led to an uproar and a state of emergency](https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/)**
-
-In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
-
-The Washington Post • 39m ago
-
----
-
-**[Will AI Replace Teachers? What Experts Say Is Changing](https://www.forbes.com/sites/sarahhernholm/article/will-ai-replace-teaching-jobs/)**
-
-Will AI replace teachers or transform education? Experts explain how AI is changing classrooms, what roles are at risk and the future of teaching.
-
-Forbes • 37m ago
-
----
-
-**[Should AI designs be eligible for Iowa State Fair's T-shirt contest?](https://www.desmoinesregister.com/story/news/local/iowa-state-fair/2026/05/17/iowa-state-fair-blue-ribbon-foundation-t-shirt-design-contest-ai-generated-artwork/90096678007/)**
-
-Should people be able to use AI to win a design contest? An Iowa State Fair T-shirt contest is facing that debate. Here's what the finalists think.
-
-The Des Moines Register • 39m ago
-
----
-
-**[Opinion | My Classmate, ChatGPT](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
-
-The New York Times • 6h ago
-
----
-
-**[60+ groups just called on N.J. governor to immediately pause all AI data center projects](https://www.nj.com/news/2026/05/60-groups-just-called-on-nj-governor-to-immediately-pause-all-ai-data-center-projects.html)**
-
-NJ.com • 36m ago
-
----
-
-**[Former Republican candidate endorses Democrat over AI data center concerns](https://www.kwtx.com/2026/05/16/former-republican-candidate-endorses-democrat-over-ai-data-center-concerns/)**
-
-Rena Schroeder, who ran in Republican primary for state Senate, backs Ashley Bean Thornton in state House District 56 race
-
-KWTX • 11h ago
-
----
-
 **[Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination)**
 
 The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense
 
-The Guardian • 22h ago
+The Guardian • 23h ago
+
+---
+
+**[I used AI to help market my bagel shop. Then the one-star reviews came in.](https://www.businessinsider.com/bagel-shop-owner-removes-ai-social-media-marketing-2026-5)**
+
+Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
+
+Business Insider • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ The Guardian • 22h ago
 
 (Bloomberg) -- When it comes to job cuts, older workers are often disproportionately affected. But a new survey of chief executive officers suggests this won’t be a given as companies adopt artificial intelligence.Most Read from BloombergWinners and Losers From Trump and Xi’s Beijing Summit TalksHormuz Oil Flows Creep Higher as More Supertankers ExitUS, Iran Stall on Hormuz Reopening as Oil Supplies TightenWhat Is The Thucydides Trap and Why Did Xi Raise It With Trump?How Keir Starmer Imploded a
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 20h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 1990 • 💬 1166 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 2011 • 💬 1177 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 20h ago
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 688 • 💬 177 • 2d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 689 • 💬 177 • 2d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
@@ -229,7 +229,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
 
-⬆️ 390 • 💬 427 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 392 • 💬 427 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -237,7 +237,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 386 • 💬 391 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 388 • 💬 398 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -275,7 +275,7 @@ Soon, access to frontier AI will be scarce and selective
 
 **[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
 
-⬆️ 156 • 💬 246 • 17h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+⬆️ 156 • 💬 246 • 18h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 
 ---
 
@@ -319,7 +319,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 114K • 👍 6K • 💬 746 • ⏱️ 25:36 • 11h ago
+👁️ 114K • 👍 6K • 💬 746 • ⏱️ 25:36 • 12h ago
 
 ---
 
@@ -329,7 +329,7 @@ Head to https://betterhelp.com/infographics to get 10% off your first month with
 
 📺 The Infographics Show
 
-👁️ 201K • 👍 6K • 💬 2K • ⏱️ 19:17 • 19h ago
+👁️ 201K • 👍 6K • 💬 2K • ⏱️ 19:17 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ Tucker Carlson recently dismantled billionaire Kevin O'Leary by exposing that hi
 
 📺 The Jimmy Dore Show
 
-👁️ 125K • 👍 8K • 💬 2K • ⏱️ 16:27 • 19h ago
+👁️ 125K • 👍 8K • 💬 2K • ⏱️ 16:27 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ Ghana is making history as young students build aircraft, drones, robots, and AI
 
 📺 UNITED STATES OF AFRICA
 
-👁️ 507 • 👍 67 • 💬 11 • ⏱️ 2:52 • 1h ago
+👁️ 507 • 👍 67 • 💬 11 • ⏱️ 2:52 • 2h ago
 
 ---
 
@@ -379,7 +379,7 @@ What drives the tech titans behind the AI arms race? For some, it's the thrill o
 
 📺 Bloomberg Television
 
-👁️ 41K • 👍 901 • 💬 103 • ⏱️ 12:11 • 21h ago
+👁️ 41K • 👍 901 • 💬 103 • ⏱️ 12:11 • 22h ago
 
 ---
 
@@ -395,7 +395,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 666 • 4h ago
+⬇️ 56,518 • ❤️ 666 • 5h ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 185,303 • ❤️ 211 • 22h ago
+⬇️ 185,303 • ❤️ 211 • 23h ago
 
 ---
 
@@ -455,7 +455,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 181,425 • ❤️ 191 • 22h ago
+⬇️ 181,425 • ❤️ 191 • 23h ago
 
 ---
 
@@ -672,7 +672,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.6k • 🔱 192 • 7m ago
+⭐ 3.6k • 🔱 192 • 1h ago
 
 ---
 
@@ -682,7 +682,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.5k • 🔱 354 • 19h ago
+⭐ 3.5k • 🔱 354 • 20h ago
 
 ---
 
@@ -692,7 +692,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 890 • 17h ago
+⭐ 3.1k • 🔱 890 • 18h ago
 
 ---
 
@@ -702,7 +702,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 353 • 12h ago
+⭐ 2.9k • 🔱 353 • 13h ago
 
 ---
 
@@ -712,7 +712,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.6k • 🔱 317 • 32m ago
+⭐ 2.6k • 🔱 317 • 1h ago
 
 ---
 
@@ -722,7 +722,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 156 • 1m ago
+⭐ 2.3k • 🔱 156 • 1h ago
 
 ---
 
