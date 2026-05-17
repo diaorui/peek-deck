@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T05:10:19.996322+00:00'
+updated: '2026-05-17T07:55:59.368555+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 05:10 UTC  
+**Last Updated:** May 17, 2026 at 07:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
+**[Would you consider this dexterous hand highly dexterous？](https://www.reddit.com/r/robotics/comments/1tfgd5q/would_you_consider_this_dexterous_hand_highly/)**
 
-12h ago
+I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
+
+2h ago
 
 ---
 
-**[Unitree Launches World’s First Mass-Produced Manned Mecha GD01](https://www.reddit.com/r/robotics/comments/1tew8v9/unitree_launches_worlds_first_massproduced_manned/)**
-
-Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
+**[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
 14h ago
 
@@ -50,7 +50,29 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old DC motors with slip rings AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
+4h ago
+
+---
+
+**[Unitree Launches World’s First Mass-Produced Manned Mecha GD01](https://www.reddit.com/r/robotics/comments/1tew8v9/unitree_launches_worlds_first_massproduced_manned/)**
+
+Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
+
+16h ago
+
+---
+
+**[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
+
 1h ago
+
+---
+
+**[Unitree Go2 Pro: RR Shank Motor Fault : Anyone Seen This?](https://www.reddit.com/r/robotics/comments/1tfi9ke/unitree_go2_pro_rr_shank_motor_fault_anyone_seen/)**
+
+So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome. https://reddit.com/link/1tfi9ke/video/7ks6e8n7gn1h1/player
+
+43m ago
 
 ---
 
@@ -64,13 +86,13 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-22h ago
+1d ago
 
 ---
 
 **[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -82,29 +104,17 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 ---
 
-**[Projet d’intégration ROS2 sur plateforme robotique : valorisé ou niveau de base ?](https://www.reddit.com/r/robotics/comments/1tezb0c/projet_dintégration_ros2_sur_plateforme_robotique/)**
-
-12h ago
-
----
-
-**[now i must find a place to put in on the robot](https://www.reddit.com/r/robotics/comments/1tdxk1c/now_i_must_find_a_place_to_put_in_on_the_robot/)**
-
-1d ago
-
----
-
-**[I spent a day at a humancentric robotics company](https://www.reddit.com/r/robotics/comments/1te5zol/i_spent_a_day_at_a_humancentric_robotics_company/)**
-
-I recently spent the day at a humancentric robotics company, talking with the CEO and several roboticists and engineers about how they make their decisions and what goes into something like that. I produced a video of my day there and figured some of you may find it interesting. You can watch the video here: https://www.youtube.com/watch?v=8oFT_ErMHMg Whilst I don't work for the company, as I said, I spent the day there so if you had any particular questions I may have an answer for you.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Inside China’s race to dominate humanoid robotics](https://www.nbcnews.com/nightly-news/video/inside-china-s-race-to-dominate-humanoid-robotics-263347781912)**
+
+Tom Llamas goes inside a Beijing robot plant as China’s race to build autonomous humanoids accelerates, raising new questions about whether the U.S. can keep pace in the next generation of robotics.
+
+NBC News • 2d ago
+
+---
 
 **[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
 
@@ -120,19 +130,11 @@ eWeek • 2d ago
 
 ---
 
-**[China Focus: Unitree secures orders after sensational debut of manned mecha](https://english.news.cn/20260516/8a6d78202c824f8faa7efc3bc8d26048/c.html)**
-
-China Focus: Unitree secures orders after sensational debut of manned mecha-
-
-Xinhua • 23h ago
-
----
-
 **[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -160,7 +162,7 @@ Interesting Engineering • 1d ago
 
 **[Dunedin robotics company charged over worker’s death](https://www.stuff.co.nz/nz-news/360979836/dunedin-robotics-company-charged-over-workers-death)**
 
-Stuff • 22h ago
+Stuff • 1d ago
 
 ---
 
@@ -168,7 +170,7 @@ Stuff • 22h ago
 
 “The robots are coming” need not be understood as heralding the apocalypse. An automated society in which states and worker-owned enterprises use technology to serve public ends while meeting individual needs is entirely consistent with the good life.
 
-Jacobin • 14h ago
+Jacobin • 16h ago
 
 ---
 
@@ -176,7 +178,7 @@ Jacobin • 14h ago
 
 Inside a young fan’s wish visit to Disney Imagineering
 
-TechRadar • 5h ago
+TechRadar • 7h ago
 
 ---
 
@@ -190,17 +192,17 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 23K • 👍 530 • 💬 89 • ⏱️ 21:16 • 3d ago
+👁️ 25K • 👍 548 • 💬 91 • ⏱️ 21:16 • 3d ago
 
 ---
 
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
 
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
 
-📺 ShortCircuit
+📺 Bloomberg Technology
 
-👁️ 60K • 👍 3K • 💬 446 • ⏱️ 15:32 • 14h ago
+👁️ 39K • 👍 666 • 💬 232 • ⏱️ 6:19 • 1d ago
 
 ---
 
@@ -210,7 +212,7 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 322K • 👍 6K • 💬 2K • ⏱️ 3:03 • 3d ago
+👁️ 324K • 👍 7K • 💬 2K • ⏱️ 3:03 • 3d ago
 
 ---
 
@@ -224,13 +226,13 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 ---
 
-**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
 
-Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
 
-📺 Bloomberg Technology
+📺 ShortCircuit
 
-👁️ 36K • 👍 650 • 💬 215 • ⏱️ 6:19 • 1d ago
+👁️ 67K • 👍 4K • 💬 479 • ⏱️ 15:32 • 16h ago
 
 ---
 
@@ -240,7 +242,17 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 77K • 👍 681 • 💬 247 • ⏱️ 3:00 • 2d ago
+👁️ 79K • 👍 687 • 💬 249 • ⏱️ 3:00 • 2d ago
+
+---
+
+**[Episode 2 Ocean Barrier: Secret robot fish](https://www.youtube.com/watch?v=n7VKomFiCrk)**
+
+Scene using artificial intelligence. #aiart #movie.
+
+📺 Miracle Animal Rescues
+
+👁️ 507K • 👍 2K • 💬 38 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -250,7 +262,7 @@ Unitree just revealed the GD01, a real manned mecha robot that can walk on two l
 
 📺 AI Revolution
 
-👁️ 20K • 👍 570 • 💬 67 • ⏱️ 15:27 • 2d ago
+👁️ 20K • 👍 571 • 💬 67 • ⏱️ 15:27 • 2d ago
 
 ---
 
@@ -260,7 +272,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 918K • 👍 67K • 💬 6K • ⏱️ 23:53 • 6d ago
+👁️ 922K • 👍 68K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
@@ -270,17 +282,7 @@ Robots and drones were used by Ukrainian forces to capture a Russian position wi
 
 📺 Radio Free Europe/Radio Liberty
 
-👁️ 34K • 👍 815 • 💬 46 • ⏱️ 3:07 • 3d ago
-
----
-
-**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
-
-Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
-
-📺 CGTN Europe
-
-👁️ 79K • 👍 528 • 💬 64 • ⏱️ 0:33 • 3d ago
+👁️ 34K • 👍 820 • 💬 46 • ⏱️ 3:07 • 4d ago
 
 ---
 

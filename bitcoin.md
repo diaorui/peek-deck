@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-17T05:10:19.988363+00:00'
+updated: '2026-05-17T07:55:59.360534+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 05:10 UTC  
+**Last Updated:** May 17, 2026 at 07:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,186.42
+### $78,113.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -4.2%  
-**30d:** +3.4%  
-**90d:** +16.0%  
-**1y:** -26.4%  
+**24h:** -0.3%  
+**7d:** -4.4%  
+**30d:** +3.3%  
+**90d:** +15.8%  
+**1y:** -26.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1566.48B
+**Market Cap:** $1565.02B
 Rank #1
 
-**Circulating Supply:** 20,030,428 BTC
+**Circulating Supply:** 20,030,493 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -38.0%
 
 **All-Time Low:** $67.81
-+115239.9%
++115142.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 31
+### 27
 **FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 A study of AI models found they overwhelmingly prefer bitcoin over fiat. The agentic economy is here, and it has already discovered the value of sound digital money.
 
-🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 1h ago
+🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ A study of AI models found they overwhelmingly prefer bitcoin over fiat. The age
 
 Holy shit. I don't know what just happened. Maybe it's because I'm getting older and I think about money differently, like I'm planning wealth for the future rather than just winning a quick buck and blowing it on some fancy thing. I've spent *YEARS* holding a "diversified" "crypto" portfolio that was only like 30% bitcoin. I timed cycle tops and bottoms. Yes it performed well. Yes I took profit. Yes I bought nice things. The bitcoin allocation was an afterthought. But now I get it. 21 million supply. Permanently growing demand and adoption. Sure, other assets will outperform sometimes. But bitcoin isn't just an asset. It is a virus with a reach that is constantly expanding. Saturation is so far away. Just look at the price curve. I had these thoughts before but, I don't know why, it just didn't click like this. Good god, it is so obvious. This is the best risk-adjusted bet to exist. Ever. I finally get it. 100% BTC.
 
-14h ago
+17h ago
 
 ---
 
@@ -97,13 +97,13 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
 
-4h ago
+7h ago
 
 ---
 
 **[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -111,23 +111,7 @@ How come you’re still not holding and buying more BTC? Every cycle, people wai
 
 and you will see
 
-4h ago
-
----
-
-**[Bitcoin to 90k](https://www.reddit.com/r/Bitcoin/comments/1tfbwz7/bitcoin_to_90k/)**
-
-https://youtu.be/GbvX\_DawtyI
-
-3h ago
-
----
-
-**[An interesting read on Satoshi Nakamoto (PDF file)](https://www.reddit.com/r/Bitcoin/comments/1tf4fgy/an_interesting_read_on_satoshi_nakamoto_pdf_file/)**
-
-The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 8h ago
+7h ago
 
 ---
 
@@ -135,7 +119,23 @@ The mystery about the ingenious creator of Bitcoin concealing behind the pseudon
 
 Happens to me again boys, just bought and it dips lmao
 
-3h ago
+6h ago
+
+---
+
+**[An interesting read on Satoshi Nakamoto (PDF file)](https://www.reddit.com/r/Bitcoin/comments/1tf4fgy/an_interesting_read_on_satoshi_nakamoto_pdf_file/)**
+
+The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 11h ago
+
+---
+
+**[Daily Discussion, May 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1tfh3gc/daily_discussion_may_17_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Happens to me again boys, just bought and it dips lmao
 
 Now THIS is what they call a 'hard fork'. 🤪
 
-7h ago
+10h ago
 
 ---
 
@@ -151,7 +151,7 @@ Now THIS is what they call a 'hard fork'. 🤪
 
 Goal was to provide comparisons and as much information to people shopping for loans on their bitcoin. Totally open to suggestions and feedback. Thanks guys. BorrowOnBitcoin.com
 
-9h ago
+12h ago
 
 ---
 
@@ -161,7 +161,7 @@ Goal was to provide comparisons and as much information to people shopping for l
 
 **[Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown](https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown)**
 
-CoinDesk • 16h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -169,7 +169,15 @@ CoinDesk • 16h ago
 
 Michael Saylor’s bitcoin acquisition company Strategy has confirmed it could be about to sell some of its $63 billion worth of bitcoin...
 
-Forbes • 18h ago
+Forbes • 21h ago
+
+---
+
+**[Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset](https://www.tradingview.com/news/cointelegraph:7b77f6072094b:0-michael-saylor-floated-bitcoin-sales-idea-to-avoid-impairing-the-asset/)**
+
+Strategy executive chairman Michael Saylor said he raised the possibility of selling Bitcoin during Strategy's recent earnings call to protect the asset's long-term interests.“We own about $65 billion worth of Bitcoin. If the market thought we would never sell it, the credit rating agencies would s…
+
+TradingView • 2h ago
 
 ---
 
@@ -181,55 +189,45 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Trump's latest filing reveals surprise crypto stock purchases](https://www.thestreet.com/crypto/markets/trumps-latest-filing-reveals-surprise-crypto-stock-purchases)**
-
-thestreet.com • 1d ago
-
----
-
-**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades)**
-
-President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
-
-Decrypt • 1d ago
-
----
-
-**[Harvard dumps ether ETF as Abu Dhabi sovereign fund keeps adding to bitcoin positions](https://www.theblock.co/post/401518/sovereign-funds-universities-banks-reshuffle-bitcoin-altcoin-etf-positions)**
-
-Abu Dhabi-based Mubadala added over $90 million to its already sizeable position in BlackRock’s iShares Bitcoin Trust ETF.
-
-The Block • 11h ago
-
----
-
-**[Bitcoin Shrugs Off CLARITY Gains as Institutions Sell Amid Surging Treasury Yields](https://decrypt.co/367952/bitcoin-shrugs-off-clarity-gains-as-institutions-sell-amid-surging-treasury-yields)**
-
-Analysts point to profit-taking, not panic, with ETF outflows at their worst pace since February as 10-year Treasury yield soars.
-
-Decrypt • 1d ago
-
----
-
-**[Abu Dhabi's Mubadala Raises Bitcoin ETF Stake 16% To $566 Million In Q1 2026](https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake)**
-
-Mubadala Investment Company boosted its stake in BlackRock’s iShares Bitcoin Trust by 16% in Q1 2026.
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
 WSJ • 2d ago
 
 ---
 
-**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
+**[Bitcoin Pizza Day – Win Bitcoin with Kraken](https://www.williamsf1.com/articles/1f993e23-51c7-4f6c-a0bb-7ecc0c065c6d/bitcoin-pizza-day-win-bitcoin-with-kraken)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+You could score $1,000 on Bitcoin Pizza Day 2026, plus claim a bonus 10 WClub points
 
-Fortune • 1d ago
+williamsf1 • 1d ago
+
+---
+
+**[Bitcoin drops to $78,000 as rate hike fears trigger massive $550M long flush](https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-78000-as-rate-hike-fears-trigger-massive-550m-long-flush-4694443)**
+
+Investing.com • 21h ago
+
+---
+
+**[JPMorgan sees one clear winner in crypto right now](https://www.thestreet.com/crypto/markets/jpmorgan-sees-one-clear-winner-in-crypto-right-now)**
+
+thestreet.com • 2d ago
+
+---
+
+**[State senator owes $50M in legal dispute over EKY Bitcoin facility](https://www.kentucky.com/news/business/article315773494.html)**
+
+The legal battle began in November 2023 over wrongful eviction, breach of a license agreement and unlawful retaining of property.
+
+Lexington Herald Leader • 1d ago
+
+---
+
+**[Why Bitcoin Was Slumping on Friday](https://www.fool.com/investing/2026/05/15/why-bitcoin-was-slumping-on-friday/)**
+
+Dramatic movements on the bond market weren't beneficial for the leading cryptocurrency.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -261,7 +259,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 **[Morgan Stanley Bitcoin ETF $MSBT got an official listing announcement from NYSE](https://news.ycombinator.com/item?id=48145392)**
 
-⬆️ 3 • 💬 0 • 1d ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
+⬆️ 3 • 💬 0 • 2d ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
 
 ---
 
@@ -283,7 +281,7 @@ AI to the rescue as 11-year search for password turns up in old PC files
 
 How Deblock integrated instant, non-custodial bitcoin into their neobank using the Breez SDK, serving 300,000 users across Europe.
 
-⬆️ 2 • 💬 0 • 4d ago • [breez.technology](https://breez.technology/case-studies/deblock/)
+⬆️ 2 • 💬 0 • 5d ago • [breez.technology](https://breez.technology/case-studies/deblock/)
 
 ---
 
@@ -305,7 +303,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 48 • ⏱️ 8:28 • 1d ago
+👁️ 24K • 👍 1K • 💬 48 • ⏱️ 8:28 • 1d ago
 
 ---
 
@@ -315,17 +313,7 @@ Bitcoin just crossed a major political milestone as the Clarity Act advanced thr
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 159 • ⏱️ 15:33 • 1d ago
-
----
-
-**[Why I&#39;m Actually ALL-IN On Bitcoin](https://www.youtube.com/watch?v=R1ORhzYkVuw)**
-
-Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And here's the exact moment it clicked: watching 40% of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 27K • 👍 2K • 💬 521 • ⏱️ 8:39 • 16h ago
+👁️ 33K • 👍 2K • 💬 160 • ⏱️ 15:33 • 1d ago
 
 ---
 
@@ -339,33 +327,43 @@ OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY �
 
 ---
 
+**[Dogecoin &amp; Bitcoin Are Both Signaling Something Big?](https://www.youtube.com/watch?v=LXs5lTHkve8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 49K • 👍 2K • 💬 102 • ⏱️ 51:19 • 18h ago
+
+---
+
+**[Why I&#39;m Actually ALL-IN On Bitcoin](https://www.youtube.com/watch?v=R1ORhzYkVuw)**
+
+Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And here's the exact moment it clicked: watching 40% of ...
+
+📺 The Wolf Of All Streets
+
+👁️ 30K • 👍 2K • 💬 613 • ⏱️ 8:39 • 18h ago
+
+---
+
 **[Saturday Bitcoin Update BTC Holding Strong! But Bears Are Still Hunting!](https://www.youtube.com/watch?v=LcMFpqoYKNs)**
 
 Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 4K • 👍 309 • 💬 53 • ⏱️ 55:42 • 15h ago
+👁️ 4K • 👍 309 • 💬 51 • ⏱️ 55:42 • 17h ago
 
 ---
 
-**[BITCOIN DUMP EXPLAINED...](https://www.youtube.com/watch?v=wxsTksRpoJA)**
+**[Eric Krown: “I’m Buying The Next Bitcoin Dip”](https://www.youtube.com/watch?v=xgO6zsgQf10)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+For today's interview, Alessandro is joined by Eric Krown for a deep dive into the latest Bitcoin price analysis and the major ...
 
-📺 Crypto Rover
+📺 Crypto Banter
 
-👁️ 12K • 👍 683 • 💬 62 • ⏱️ 9:09 • 22h ago
-
----
-
-**[Inside Nigeria&#39;s crypto craze • FRANCE 24 English](https://www.youtube.com/watch?v=3tEE92_HX34)**
-
-Over the past few years, cryptocurrency has become part of everyday life for nearly one in 10 Nigerians. Some use it to get around ...
-
-📺 FRANCE 24 English
-
-👁️ 94K • 👍 2K • 💬 358 • ⏱️ 12:41 • 1d ago
+👁️ 6K • 👍 352 • 💬 15 • ⏱️ 42:35 • 14h ago
 
 ---
 
@@ -375,17 +373,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 93 • 💬 7 • ⏱️ 20:12 • 10h ago
-
----
-
-**[Bitcoin To 56K? 😳 This Level Matters 🚨](https://www.youtube.com/watch?v=9HgIIW5qzDE)**
-
-Bitcoin To 56K? This Level Matters ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
-
-📺 Stocks with Josh
-
-👁️ 4K • 👍 157 • 💬 5 • ⏱️ 0:55 • 9h ago
+👁️ 2K • 👍 96 • 💬 7 • ⏱️ 20:12 • 12h ago
 
 ---
 
@@ -395,7 +383,17 @@ Bitcoin is sitting near a major technical level, but the deeper story is not pri
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 150 • ⏱️ 15:54 • 2d ago
+👁️ 38K • 👍 2K • 💬 149 • ⏱️ 15:54 • 2d ago
+
+---
+
+**[Bitcoin To 56K? 😳 This Level Matters 🚨](https://www.youtube.com/watch?v=9HgIIW5qzDE)**
+
+Bitcoin To 56K? This Level Matters ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 4K • 👍 163 • 💬 5 • ⏱️ 0:55 • 12h ago
 
 ---
 

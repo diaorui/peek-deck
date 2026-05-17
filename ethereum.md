@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T05:10:19.993560+00:00'
+updated: '2026-05-17T07:55:59.365796+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 05:10 UTC  
+**Last Updated:** May 17, 2026 at 07:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -6.2%  
-**30d:** -6.7%  
-**90d:** +10.2%  
-**1y:** -12.1%  
+**24h:** -0.4%  
+**7d:** -6.6%  
+**30d:** -7.0%  
+**90d:** +9.8%  
+**1y:** -12.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $264.32B
+**Market Cap:** $263.74B
 Rank #2
 
 **Circulating Supply:** 120,685,789 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.7%
+-55.8%
 
 **All-Time Low:** $0.43
-+505772.1%
++504677.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9m ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-11h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-12h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
-19h ago
+21h ago
 
 ---
 
@@ -134,7 +134,7 @@ swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% 
 
 **[Without stablecoin treasury yield, defi is a proof that finance is zero sum](https://www.reddit.com/r/ethereum/comments/1tdp2jc/without_stablecoin_treasury_yield_defi_is_a_proof/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -150,6 +150,14 @@ the numbers from 2026 so far are genuinely scary: kelp DAO: $293M drained throug
 
 ## Google News: "ethereum"
 
+**[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor](https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor)**
+
+The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
+
+Decrypt • 14h ago
+
+---
+
 **[XRP and Solana ETFs Keep Pulling Inflows While Ethereum ETFs Bleed](https://247wallst.com/investing/2026/05/15/xrp-and-solana-etfs-keep-pulling-inflows-while-ethereum-etfs-bleed/)**
 
 Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulling inflows—even as the CLARITY Act passed.
@@ -158,17 +166,9 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 ---
 
-**[Ethereum Triangle Breakdown Adds Pressure On Its Recovery Outlook](https://www.tradingview.com/news/newsbtc:367940313094b:0-ethereum-triangle-breakdown-adds-pressure-on-its-recovery-outlook/)**
+**[We Asked Gemini If Ethereum (ETH) Could Reclaim $3,000 in Q2](https://finance.yahoo.com/markets/crypto/articles/asked-gemini-ethereum-eth-could-124511841.html)**
 
-Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
-
-TradingView • 2h ago
-
----
-
-**[Bitmine Pivots To Ethereum Staking Yield As NYSE Uplisting Draws Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-pivots-ethereum-staking-yield-091827775.html)**
-
-Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
+Ethereum (CRYPTO: ETH) has had a rough start to 2026. The coin dropped 23% in Q1, and is trading around $2,200—$800 below the $3,000 level most institutional buyers have been waiting on. The Ethereum price has delivered positive returns in Q2 in three out of the last five years, but the coin has averaged a ... We Asked Gemini If Ethereum (ETH) Could Reclaim $3,000 in Q2
 
 Yahoo Finance • 19h ago
 
@@ -179,14 +179,6 @@ Yahoo Finance • 19h ago
 Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
 
 The Block • 2d ago
-
----
-
-**[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor](https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor)**
-
-The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
-
-Decrypt • 11h ago
 
 ---
 
@@ -212,17 +204,27 @@ Coinpedia • 2d ago
 
 ---
 
+**[What’s Going On With Ethereum And Why Is Price Moving This Way?](https://www.tradingview.com/news/newsbtc:41f3f4825094b:0-what-s-going-on-with-ethereum-and-why-is-price-moving-this-way/)**
+
+Ethereum has been moving sideways in recent weeks, leaving traders questioning why momentum keeps stalling despite multiple upward pushes. According to an analysis shared by an analyst on X, the answer lies in a specific technical level that the asset has repeatedly failed to reclaim.Ethereum’s $2…
+
+TradingView • 1d ago
+
+---
+
 **[Corporate Ethereum reserves reach $16B as companies stockpile 7.3M ETH](https://cryptobriefing.com/corporate-ethereum-reserves-16-billion/)**
 
 Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 17h ago
 
 ---
 
-**[Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%](https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12)**
+**[NUVAFinance: $19B Figure RWA Assets on Ethereum](https://blockchain.news/flashnews/nuvafinance-19b-figure-rwa-assets-ethereum)**
 
-CoinDesk • 1d ago
+NUVAFinance launches access to $19 billion Figure tokenized assets on Ethereum backed by Animoca Brands partnership.
+
+blockchain.news • 7h ago
 
 ---
 
@@ -236,7 +238,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 108 • 💬 108 • ⏱️ 15:37 • 22h ago
+👁️ 4K • 👍 110 • 💬 109 • ⏱️ 15:37 • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 2K • 👍 150 • 💬 29 • ⏱️ 18:50 • 2h ago
+👁️ 4K • 👍 222 • 💬 98 • ⏱️ 18:50 • 5h ago
 
 ---
 
@@ -256,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 462 • 💬 50 • ⏱️ 18:57 • 2d ago
+👁️ 14K • 👍 464 • 💬 50 • ⏱️ 18:57 • 2d ago
 
 ---
 
@@ -266,7 +268,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 6K • 👍 142 • 💬 43 • ⏱️ 13:36 • 1d ago
+👁️ 6K • 👍 151 • 💬 43 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -276,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 648 • 👍 31 • 💬 2 • ⏱️ 4:43 • 19h ago
+👁️ 714 • 👍 31 • 💬 2 • ⏱️ 4:43 • 22h ago
 
 ---
 
@@ -286,7 +288,7 @@ GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets ar
 
 📺 Bankless
 
-👁️ 7K • 👍 222 • 💬 35 • ⏱️ 1:05:23 • 1d ago
+👁️ 7K • 👍 225 • 💬 35 • ⏱️ 1:05:23 • 1d ago
 
 ---
 
@@ -296,17 +298,7 @@ Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergi
 
 📺 Trade Confident
 
-👁️ 444 • 👍 13 • 💬 12 • ⏱️ 5:45 • 1d ago
-
----
-
-**[ETH Supply Shock Could Send Ethereum To $20K Explained](https://www.youtube.com/watch?v=7WiPJ8CUCo8)**
-
-Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with MaxFi - https://www.maxfi.tech/ Big Time ...
-
-📺 Big Time Trades
-
-👁️ 3K • 👍 83 • 💬 44 • ⏱️ 23:46 • 2d ago
+👁️ 448 • 👍 12 • 💬 12 • ⏱️ 5:45 • 1d ago
 
 ---
 
@@ -316,17 +308,27 @@ Ethereum and Ripple are often compared, but they're solving completely different
 
 📺 CoinGecko
 
-👁️ 9K • 👍 296 • 💬 133 • ⏱️ 3:46 • 2d ago
+👁️ 10K • 👍 303 • 💬 133 • ⏱️ 3:46 • 2d ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=oHpJfEsSgpA)**
+**[ETH Supply Shock Could Send Ethereum To $20K Explained](https://www.youtube.com/watch?v=7WiPJ8CUCo8)**
 
-Ready to Start Confidently in Crypto? CoinDCX is the platform I trust to learn, invest and trade in Crypto. Trade and win assured ...
+Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with MaxFi - https://www.maxfi.tech/ Big Time ...
 
-📺 Ashutosh Kumar
+📺 Big Time Trades
 
-👁️ 8K • 👍 605 • 4h ago
+👁️ 3K • 👍 86 • 💬 44 • ⏱️ 23:46 • 2d ago
+
+---
+
+**[QNT: 100X Potential Proven by Bitcoin &amp; Ethereum! #shorts](https://www.youtube.com/watch?v=YtwVdVw_Q-U)**
+
+Could QNT reach 100x gains, even $100000 per coin? Evidence from Bitcoin, Ethereum, and Solana suggests it's possible.
+
+📺 Apex Crypto Insights (NFA)
+
+👁️ 1K • 👍 98 • 💬 6 • ⏱️ 1:43 • 12h ago
 
 ---
 

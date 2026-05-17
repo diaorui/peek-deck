@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T05:10:19.980445+00:00'
+updated: '2026-05-17T07:55:59.353071+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 05:10 UTC  
+**Last Updated:** May 17, 2026 at 07:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
 
-14h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 I think we’re underestimating how chaotic enterprise AI adoption actually is inside large companies. From the outside, it looks simple: buy better models add copilots automate workflows deploy AI agents increase productivity But inside many enterprises, CIOs and CTOs are dealing with a much deeper problem: The organization itself is fragmented. Customer data exists across: CRM systems billing platforms support tools spreadsheets emails regional databases legacy systems nobody fully understands anymore And every system describes the “same customer” differently. Then leadership says: “Scale AI faster.” But scale AI on top of what exactly? Which system represents reality correctly? The CRM? The support history? The risk engine? The finance system? The employee’s undocumented tribal knowledge? This is where a lot of enterprise AI projects quietly break down. Not because the models are weak. But because the enterprise itself lacks a coherent representation of its own operations. And the tension gets worse: Boards want acceleration. Employees are already using AI unofficially. Vendors promise transformation in 90 days. Meanwhile CIOs still don’t have clear answers to questions like: Which workflows actually need AI? Which should remain deterministic automation? Where is human judgment still critical? Which data is trustworthy enough for AI decisions? Who owns accountability when AI influences actions? So companies launch pilots. The pilot works. Executives celebrate. Then scaling fails because the pilot never encountered the full institutional complexity of the enterprise. I’m increasingly convinced the next enterprise AI bottleneck is not model capability. It’s organizational legibility. The companies that win with AI may not be the ones with the smartest models. They may be the ones whose internal reality is structured clearly enough for AI to operate safely. Curious how many people here are seeing the same thing inside their organizations. :::
 
-14h ago
+17h ago
 
 ---
 
@@ -77,11 +77,19 @@ I came across a Stanford research paper that actually went inside companies runn
 
 ---
 
+**[Making an AI companion that degrades over time](https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/)**
+
+I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
+
+16h ago
+
+---
+
 **[Would AI make future game difficulty better?](https://www.reddit.com/r/artificial/comments/1telhki/would_ai_make_future_game_difficulty_better/)**
 
 I was thinking that as AI and basically neural nets, couldn't AI in video games be soon as a baseline feature. You can tell it how difficult to be, as you play it learns how to match the difficulty. You could even command it to play at various difficulties different on days. I was just thinking like we have these starcraft AIs, but like what if in a Heros of might and magic, you could have an AI that you could describe how to play, how aggressive, and in general it could then implement that level. "I want a slight challenge with me most likely winning 60% of the time" and it could understand how to change it's strategy to that. This would be nice because in a lot of strategy games, the harder difficulties just give the AI more resources for free. Would be nice if Civ would just put in a LLM, image you played vs an AI that read up how the person actually acted.
 
-22h ago
+1d ago
 
 ---
 
@@ -89,15 +97,7 @@ I was thinking that as AI and basically neural nets, couldn't AI in video games 
 
 But is there an industry need for it ... It's smth like vlc media player of memory systems ... My team thinks it's hard to make money from it or its hard to sell ... What do y'all think In this system it's like you can fetch like zep for your temporal needs , store like letta if needed , traverse like mempalace or hindsight etc all in one place Thoughts?
 
-13h ago
-
----
-
-**[Making an AI companion that degrades over time](https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/)**
-
-I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
-
-13h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ I am a student at Umeå University in Sweden, currently writing my Master's thes
 
 Hey Everyone, The AI engineering job market has shifted massively in the last 6 months. Interviewers are no longer just asking "how does a transformer work?" or "how do you write a good prompt?" They want to know if you can architect production-grade multi-agent systems, prevent RAG hallucinations, and manage state across LLM calls. I’ve been building a visual learning sandbox for multi-agent workflows (agentswarms.fyi), and today I just launched a completely free AI Interview Prep Module inside it. I compiled 42 top interview questions specifically for GenAI and Agentic AI roles. But instead of just giving a generic answer, the module breaks down the "Standout Answer" and teaches you the mental model of how to answer it like a senior architect. Here are two examples from the list: Question 1: When would you use a Multi-Agent Swarm instead of a single LLM with multiple tools? ❌ The average answer: "When the task is too complex, multiple agents are better than one." ✅ The standout answer: "You use a swarm to prevent context dilution and enforce the Principle of Least Privilege. If you give one 'God Agent' 15 tools and a 4k-word system prompt, its reliability drops and hallucination risk spikes. By routing to specialized sub-agents with narrow instructions (e.g., separating the 'Data Extraction Agent' from the 'Customer Chat Agent'), you isolate failure points and allow for parallel execution." Question 2: How do you handle hallucinations in a financial RAG pipeline? ❌ The average answer: "I would lower the temperature to 0 and give it a better system prompt." ✅ The standout answer: "I would decouple data extraction from text generation. I'd use a deterministic node or a strict JSON-enforced agent to only extract the hard numbers from the retrieved context. Then, I would pass that structured data to a separate Synthesis Agent. Finally, I'd implement an 'LLM-as-a-judge' evaluation loop before returning the final output to the user." What's in the full list? The 42 questions cover: RAG Architecture & Vector Databases Agentic Routing (ReAct vs. Planner-Executor) Evaluation metrics for non-deterministic outputs Security (Prompt injection prevention in multi-agent loops) You can read through all 42 questions, answers, and the "how to answer" breakdowns right in the dashboard here: https://agentswarms.fyi/interview-questions For those of you who have interviewed for AI Engineering roles recently, what is the hardest system design question you've been asked? I'd love to add it to the list.
 
-14h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey Everyone, The AI engineering job market has shifted massively in the last 6 
 
 If your agent browses the web, reads emails, or pulls from a database — any of that content can contain hidden instructions that hijack it. This isn’t theoretical. It’s happening in production right now. A webpage footer tells your agent to forward credentials. An email signature tells it to ignore its guidelines. A retrieved document tells it to change behavior. The model has no idea the content isn’t a legitimate instruction. The fix isn’t better prompt filtering. It’s source-aware authority enforcement. Every content chunk should carry a trust level. Webpages, emails, tool outputs — zero instruction authority. They can provide data. They cannot tell your agent what to do. That’s what Arc Gate does. It sits between your app and your LLM and enforces instruction-authority boundaries at the proxy level. When untrusted content tries to become an instruction source, it gets blocked or sandboxed before the model ever sees it. One line to try it: from langchain\_arcgate import ArcGateCallback from langchain\_openai import ChatOpenAI llm = ChatOpenAI(callbacks=\[ArcGateCallback(api\_key="demo")\]) Live red team environment: https://web-production-6e47f.up.railway.app/break-arc-gate GitHub: https://github.com/9hannahnine-jpg/arc-gate Looking for teams actively deploying agents who want to test this on real workloads. Free access in exchange for feedback.​​​​​​​​​​​​​​​​
 
-6h ago
+9h ago
 
 ---
 
@@ -125,69 +125,7 @@ If your agent browses the web, reads emails, or pulls from a database — any of
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 16h ago
-
----
-
-**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)**
-
-OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
-
-OpenAI • 18h ago
-
----
-
-**[Opinion | My Classmate, ChatGPT](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
-
-The New York Times • 10m ago
-
----
-
-**[AI, Security, Rivalry Top Exchanges During AmCham China Visit To D.C.](https://www.forbes.com/sites/russellflannery/2026/05/16/ai-security-rivalry-top-exchanges-during-amcham-china-visit-to-dc/)**
-
-“A lot of discussions in Washington, D.C. were about AI governance,” American Chamber of Commerce in China President Michael Hart
-
-Forbes • 1h ago
-
----
-
-**[Fact Check Team: What is “AI slop", and how is it impacting Americans?](https://komonews.com/news/nation-world/fact-check-team-what-is-ai-slop-and-how-is-it-impacting-americans-technology-digital-media-artificial-intelligence?teaserSource=trending)**
-
-AI-generated content is now so common online that it has earned its own nickname: "AI slop" The term generally refers to low-quality digital conten
-
-KOMO • 49m ago
-
----
-
-**[He’s king of the AI boom. Why do former colleagues say he can’t be trusted?](https://www.washingtonpost.com/technology/2026/05/16/elon-musk-trial-against-sam-altman-renews-questions-about-his-honesty/)**
-
-Testimony in a case brought by Elon Musk has given new force to persistent questions about the trustworthiness of OpenAI’s CEO Sam Altman.
-
-The Washington Post • 13h ago
-
----
-
-**[I used AI to help market my bagel shop. Then the one-star reviews came in.](https://www.businessinsider.com/bagel-shop-owner-removes-ai-social-media-marketing-2026-5)**
-
-Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
-
-Business Insider • 20h ago
-
----
-
-**[Pershing Square Backs Microsoft As AI Expansion Divides Major Investors](https://finance.yahoo.com/markets/stocks/articles/pershing-square-backs-microsoft-ai-161232060.html)**
-
-Bill Ackman's Pershing Square fund has taken a major new position in Microsoft (NasdaqGS:MSFT), going public with the stake as other large investors such as TCI and the Gates Foundation have been reducing their holdings. The move comes as Microsoft ramps up its AI efforts beyond OpenAI, including interest in larger AI startup acquisitions, an expanded partnership with OneStream in enterprise finance, and visible traction for new AI products. Ackman cites Azure, Microsoft 365, evolving AI...
-
-Yahoo Finance • 12h ago
-
----
-
-**[Seth Rogen Says If “Your Instinct Is to Use AI” to Write Scripts, “You Shouldn’t Be a Writer”](https://www.hollywoodreporter.com/tv/tv-news/seth-rogen-ai-write-scripts-shouldnt-be-a-writer-1236597822/)**
-
-'The Studio' creator said people who are thinking about using the technology to aid their writing skills should try another occupation: "Go do something else."
-
-The Hollywood Reporter • 6h ago
+Fortune • 19h ago
 
 ---
 
@@ -195,7 +133,67 @@ The Hollywood Reporter • 6h ago
 
 The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense
 
-The Guardian • 16h ago
+The Guardian • 19h ago
+
+---
+
+**[New NRG Energy CEO leans into growth with ‘bring your own power’ for the AI boom and ‘virtual power plants’](https://fortune.com/2026/05/17/new-nrg-energy-ceo-leans-growth-bring-your-own-power-ai-boom-virtual-power-plants/)**
+
+Robert Gaudette takes over ready to tackle the power constraints of AI and the affordability concerns of residents.
+
+Fortune • 47m ago
+
+---
+
+**[Opinion | My Classmate, ChatGPT](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[He’s king of the AI boom. Why do former colleagues say he can’t be trusted?](https://www.washingtonpost.com/technology/2026/05/16/elon-musk-trial-against-sam-altman-renews-questions-about-his-honesty/)**
+
+Testimony in a case brought by Elon Musk has given new force to persistent questions about the trustworthiness of OpenAI’s CEO Sam Altman.
+
+The Washington Post • 15h ago
+
+---
+
+**[Seth Rogen Says If “Your Instinct Is to Use AI” to Write Scripts, “You Shouldn’t Be a Writer”](https://www.hollywoodreporter.com/tv/tv-news/seth-rogen-ai-write-scripts-shouldnt-be-a-writer-1236597822/)**
+
+'The Studio' creator said people who are thinking about using the technology to aid their writing skills should try another occupation: "Go do something else."
+
+The Hollywood Reporter • 8h ago
+
+---
+
+**[Pershing Square Backs Microsoft As AI Expansion Divides Major Investors](https://finance.yahoo.com/markets/stocks/articles/pershing-square-backs-microsoft-ai-161232060.html)**
+
+Bill Ackman's Pershing Square fund has taken a major new position in Microsoft (NasdaqGS:MSFT), going public with the stake as other large investors such as TCI and the Gates Foundation have been reducing their holdings. The move comes as Microsoft ramps up its AI efforts beyond OpenAI, including interest in larger AI startup acquisitions, an expanded partnership with OneStream in enterprise finance, and visible traction for new AI products. Ackman cites Azure, Microsoft 365, evolving AI...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[I used AI to help market my bagel shop. Then the one-star reviews came in.](https://www.businessinsider.com/bagel-shop-owner-removes-ai-social-media-marketing-2026-5)**
+
+Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
+
+Business Insider • 23h ago
+
+---
+
+**[Bond Selloff Threatens to Knock AI Stock Frenzy Off Course](https://www.bloomberg.com/news/articles/2026-05-16/bond-selloff-threatens-to-knock-ai-stock-frenzy-off-course)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Is AMD a Top Artificial Intelligence (AI) Stock to Buy?](https://www.fool.com/investing/2026/05/16/is-amd-a-top-artificial-intelligence-ai-stock-to/)**
+
+The market loved AMD's latest quarter.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -205,7 +203,7 @@ The Guardian • 16h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 1922 • 💬 1120 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 1941 • 💬 1139 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -231,7 +229,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.
 
-⬆️ 384 • 💬 425 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+⬆️ 387 • 💬 426 • 1d ago • [Fast Company](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 
 ---
 
@@ -239,7 +237,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 352 • 💬 351 • 22h ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 370 • 💬 368 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -277,7 +275,7 @@ Soon, access to frontier AI will be scarce and selective
 
 **[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
 
-⬆️ 149 • 💬 236 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+⬆️ 153 • 💬 238 • 13h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 
 ---
 
@@ -291,7 +289,7 @@ Data centers are popping up everywhere, and there are some major issues that we 
 
 📺 Matt Walsh
 
-👁️ 192K • 👍 11K • 💬 3K • ⏱️ 46:13 • 2d ago
+👁️ 194K • 👍 11K • 💬 3K • ⏱️ 46:13 • 2d ago
 
 ---
 
@@ -301,7 +299,17 @@ Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter Most peo
 
 📺 theMITmonk
 
-👁️ 208K • 👍 6K • 💬 159 • ⏱️ 13:10 • 2d ago
+👁️ 220K • 👍 7K • 💬 162 • ⏱️ 13:10 • 2d ago
+
+---
+
+**[We all Fall for AI Slop #aislop #shorts](https://www.youtube.com/watch?v=nZgs9srliaM)**
+
+We're all seeing more and more AI generated content online, and sometimes it's hard to tell what's real! This video captures the ...
+
+📺 Paper Skylines
+
+👁️ 407 • 👍 7 • 💬 2 • ⏱️ 0:32 • 29m ago
 
 ---
 
@@ -311,17 +319,7 @@ Head to https://betterhelp.com/infographics to get 10% off your first month with
 
 📺 The Infographics Show
 
-👁️ 163K • 👍 6K • 💬 1K • ⏱️ 19:17 • 13h ago
-
----
-
-**[The AI race is a lie](https://www.youtube.com/watch?v=NeutZWud2Ng)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 93K • 👍 6K • 💬 1K • ⏱️ 13:30 • 2d ago
+👁️ 181K • 👍 6K • 💬 1K • ⏱️ 19:17 • 16h ago
 
 ---
 
@@ -331,17 +329,7 @@ Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town
 
 📺 Breaking Points
 
-👁️ 96K • 👍 4K • 💬 590 • ⏱️ 12:40 • 1d ago
-
----
-
-**[AI News: Impressive New Model From Unexpected Company](https://www.youtube.com/watch?v=Oy7tzmfbl64)**
-
-Here's the AI News you probably missed this week. Stop choosing between performance and budget and start building today with ...
-
-📺 Matt Wolfe
-
-👁️ 63K • 👍 2K • 💬 172 • ⏱️ 33:09 • 1d ago
+👁️ 97K • 👍 4K • 💬 594 • ⏱️ 12:40 • 1d ago
 
 ---
 
@@ -351,7 +339,37 @@ Aaron Parnas reports on exclusive story of data centers around the country killi
 
 📺 Aaron Parnas
 
-👁️ 18K • 👍 3K • 💬 357 • ⏱️ 11:19 • 1d ago
+👁️ 18K • 👍 3K • 💬 363 • ⏱️ 11:19 • 1d ago
+
+---
+
+**[AI News: Impressive New Model From Unexpected Company](https://www.youtube.com/watch?v=Oy7tzmfbl64)**
+
+Here's the AI News you probably missed this week. Stop choosing between performance and budget and start building today with ...
+
+📺 Matt Wolfe
+
+👁️ 64K • 👍 2K • 💬 172 • ⏱️ 33:09 • 1d ago
+
+---
+
+**[New 0GM-1.0-35B-A3B AI Agent is INSANE! 🤯](https://www.youtube.com/watch?v=3emCEh2j_rA)**
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
+
+📺 Julian Goldie SEO
+
+👁️ 1K • 👍 33 • 💬 8 • ⏱️ 8:06 • 7h ago
+
+---
+
+**[Microsoft’s New AI Beats Mythos And Shocks OpenAI](https://www.youtube.com/watch?v=idNpTUrr3r0)**
+
+Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevolutionx-RpneRv Microsoft just revealed MDASH, ...
+
+📺 AI Revolution
+
+👁️ 37K • 👍 1K • 💬 62 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -361,27 +379,7 @@ What drives the tech titans behind the AI arms race? For some, it's the thrill o
 
 📺 Bloomberg Television
 
-👁️ 29K • 👍 641 • 💬 88 • ⏱️ 12:11 • 15h ago
-
----
-
-**[AI scan sent an innocent grandma TO JAIL?!](https://www.youtube.com/watch?v=yccsobkbwFg)**
-
-A Tennessee grandmother was wrongfully arrested after AI-powered facial recognition falsely identified her as a North Dakota ...
-
-📺 ReasonTV
-
-👁️ 121K • 👍 9K • 💬 1K • ⏱️ 1:17 • 2d ago
-
----
-
-**[There is No AI Bubble.](https://www.youtube.com/watch?v=jSWfHCiM1YU)**
-
-GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
-
-📺 Art Chad
-
-👁️ 50K • 👍 4K • 💬 1K • ⏱️ 22:01 • 1d ago
+👁️ 34K • 👍 762 • 💬 94 • ⏱️ 12:11 • 17h ago
 
 ---
 
@@ -397,7 +395,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 28,627 • ❤️ 652 • 18h ago
+⬇️ 56,518 • ❤️ 658 • 51m ago
 
 ---
 
@@ -409,7 +407,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 875,370 • ❤️ 1,035 • 8d ago
+⬇️ 970,124 • ❤️ 1,043 • 8d ago
 
 ---
 
@@ -421,7 +419,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 16,496 • ❤️ 318 • 10d ago
+⬇️ 20,208 • ❤️ 329 • 10d ago
 
 ---
 
@@ -433,7 +431,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 13,587 • ❤️ 364 • 1d ago
+⬇️ 14,285 • ❤️ 366 • 1d ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 133,815 • ❤️ 206 • 16h ago
+⬇️ 185,303 • ❤️ 209 • 19h ago
 
 ---
 
@@ -457,19 +455,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 124,082 • ❤️ 187 • 16h ago
-
----
-
-**[ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**
-
-*Zyphra*
-
-ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling in mathematical and coding tasks, competitive with larger models. It's suitable for on-device deployment and high-performance inference.
-
-`8.8B`
-
-⬇️ 143,806 • ❤️ 514 • 5d ago
+⬇️ 181,425 • ❤️ 189 • 19h ago
 
 ---
 
@@ -481,7 +467,19 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 2,967,518 • ❤️ 3,997 • 11d ago
+⬇️ 3,140,341 • ❤️ 4,001 • 11d ago
+
+---
+
+**[ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**
+
+*Zyphra*
+
+ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling in mathematical and coding tasks, competitive with larger models. It's suitable for on-device deployment and high-performance inference.
+
+`8.8B`
+
+⬇️ 144,833 • ❤️ 515 • 5d ago
 
 ---
 
@@ -491,7 +489,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
 
-⬇️ 501,808 • ❤️ 1,361 • 2d ago
+⬇️ 524,067 • ❤️ 1,362 • 2d ago
 
 ---
 
@@ -501,7 +499,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specializing in ani
 
 Provides fixed Jinja chat templates for Qwen 3.5 & 3.6 models, resolving issues with tool calling, KV cache hit rates, and agentic loop stability for improved conversational AI and tool interaction.
 
-⬇️ 0 • ❤️ 248 • 15h ago
+⬇️ 0 • ❤️ 248 • 18h ago
 
 ---
 
@@ -527,7 +525,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 6 • 💬 0 • ⭐ 17,517 • 5mo ago
+▲ 6 • 💬 0 • ⭐ 17,607 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
 
@@ -545,6 +543,21 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
+**[SANA-Video: Efficient Video Generation with Block Linear Diffusion
+  Transformer](https://huggingface.co/papers/2509.24695)**
+
+*Junsong Chen, Yuyang Zhao, Jincheng Yu et al. (20 authors)*
+
+🏢 NVIDIA
+
+SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
+
+▲ 48 • 💬 2 • ⭐ 5,820 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
+
+---
+
 **[Pixal3D: Pixel-Aligned 3D Generation from Images](https://huggingface.co/papers/2605.10922)**
 
 *Dong-Yang Li, Wang Zhao, Yuxin Chen et al. (8 authors)*
@@ -556,21 +569,6 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 ▲ 27 • 💬 3 • ⭐ 798 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
-
----
-
-**[SANA-Video: Efficient Video Generation with Block Linear Diffusion
-  Transformer](https://huggingface.co/papers/2509.24695)**
-
-*Junsong Chen, Yuyang Zhao, Jincheng Yu et al. (20 authors)*
-
-🏢 NVIDIA
-
-SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
-
-▲ 48 • 💬 2 • ⭐ 5,652 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
 ---
 
@@ -588,6 +586,19 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 162 • 💬 2 • ⭐ 63,355 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation](https://huggingface.co/papers/2605.13724)**
 
 *Yuchao Gu, Guian Fang, Yuxin Jiang et al. (7 authors)*
@@ -596,22 +607,9 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 AnyFlow introduces a novel any-step video diffusion distillation framework that improves upon consistency distillation by optimizing full ODE sampling trajectories through flow-map transition learning and backward simulation techniques.
 
-▲ 88 • 💬 1 • ⭐ 249 • 4d ago
+▲ 88 • 💬 1 • ⭐ 250 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.13724) • [💻 code](https://github.com/NVlabs/AnyFlow) • [🔗 project](https://nvlabs.github.io/AnyFlow/)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 162 • 💬 2 • ⭐ 63,321 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -622,7 +620,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 78 • 💬 7 • ⭐ 73,749 • 22mo ago
+▲ 78 • 💬 7 • ⭐ 73,785 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -662,7 +660,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.3k • 🔱 757 • 1d ago
+⭐ 9.3k • 🔱 761 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.4k • 🔱 182 • 10m ago
+⭐ 3.5k • 🔱 185 • 1m ago
 
 ---
 
@@ -682,7 +680,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.4k • 🔱 347 • 13h ago
+⭐ 3.4k • 🔱 349 • 16h ago
 
 ---
 
@@ -692,7 +690,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 887 • 11h ago
+⭐ 3.1k • 🔱 888 • 13h ago
 
 ---
 
@@ -702,7 +700,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 350 • 6h ago
+⭐ 2.9k • 🔱 353 • 9h ago
 
 ---
 
@@ -712,7 +710,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.5k • 🔱 298 • 13h ago
+⭐ 2.6k • 🔱 305 • 16h ago
 
 ---
 
