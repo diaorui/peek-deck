@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T14:04:18.086606+00:00'
+updated: '2026-05-17T15:37:27.968767+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 14:04 UTC  
+**Last Updated:** May 17, 2026 at 15:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
 
-3h ago
-
----
-
-**[THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance](https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/)**
-
-Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
-
-5h ago
+4h ago
 
 ---
 
@@ -57,7 +49,23 @@ Is there a 7B parameter model in your life struggling to understand sarcasm? A t
 
 Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
 
-22h ago
+1d ago
+
+---
+
+**[THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance](https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/)**
+
+Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
+
+6h ago
+
+---
+
+**[I think most companies are building AI backwards](https://www.reddit.com/r/artificial/comments/1tfrjy2/i_think_most_companies_are_building_ai_backwards/)**
+
+Everyone keeps talking about smarter AI. Bigger models. Longer context windows. More autonomous agents. Better reasoning. Better coding. Better memory. But I think we’re missing the real problem. An AI system can sound intelligent… and still operate on completely broken reality. Imagine an AI agent: approving refunds escalating incidents updating records contacting customers changing prices triggering workflows Now ask a simple question: How does the AI know the reality it sees is actually correct? Not “technically accessible.” Actually correct. Because enterprise reality is messy: stale systems conflicting databases outdated approvals missing context silent exceptions contradictory records unclear ownership shifting policies And then there’s an even bigger question: Even if the AI knows something… is it actually allowed to act on it? Under whose authority? With what limits? Who is accountable? Can the action be reversed? What happens if the AI is wrong? That’s why I’m starting to think the future AI stack is not just: data → model → agent → action There are missing runtime layers in between. The mental model I’ve been exploring is: SENSE → reality representation CORE → reasoning DRIVER → governed action And honestly, it feels like the industry is massively overinvested in CORE. We obsess over intelligence. But the real bottlenecks may become: representation quality legitimacy authority boundaries reversibility accountability runtime governance In other words: The biggest AI failures may not come from “bad intelligence.” They may come from machines acting on incomplete reality with unclear authority. And I think this becomes a huge issue once AI moves from: “helping humans” to “acting inside institutions.” Curious what others here are seeing. Are companies actually solving these layers internally? Or are most organizations still mainly focused on model capability and agent demos right now?
+
+50m ago
 
 ---
 
@@ -65,7 +73,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 I think we’re underestimating how chaotic enterprise AI adoption actually is inside large companies. From the outside, it looks simple: buy better models add copilots automate workflows deploy AI agents increase productivity But inside many enterprises, CIOs and CTOs are dealing with a much deeper problem: The organization itself is fragmented. Customer data exists across: CRM systems billing platforms support tools spreadsheets emails regional databases legacy systems nobody fully understands anymore And every system describes the “same customer” differently. Then leadership says: “Scale AI faster.” But scale AI on top of what exactly? Which system represents reality correctly? The CRM? The support history? The risk engine? The finance system? The employee’s undocumented tribal knowledge? This is where a lot of enterprise AI projects quietly break down. Not because the models are weak. But because the enterprise itself lacks a coherent representation of its own operations. And the tension gets worse: Boards want acceleration. Employees are already using AI unofficially. Vendors promise transformation in 90 days. Meanwhile CIOs still don’t have clear answers to questions like: Which workflows actually need AI? Which should remain deterministic automation? Where is human judgment still critical? Which data is trustworthy enough for AI decisions? Who owns accountability when AI influences actions? So companies launch pilots. The pilot works. Executives celebrate. Then scaling fails because the pilot never encountered the full institutional complexity of the enterprise. I’m increasingly convinced the next enterprise AI bottleneck is not model capability. It’s organizational legibility. The companies that win with AI may not be the ones with the smartest models. They may be the ones whose internal reality is structured clearly enough for AI to operate safely. Curious how many people here are seeing the same thing inside their organizations. :::
 
-23h ago
+1d ago
 
 ---
 
@@ -73,7 +81,7 @@ I think we’re underestimating how chaotic enterprise AI adoption actually is i
 
 I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
 
-22h ago
+23h ago
 
 ---
 
@@ -82,14 +90,6 @@ I am a student at Umeå University in Sweden, currently writing my Master's thes
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
 🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 2d ago
-
----
-
-**[Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups](https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/)**
-
-I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
-
-1d ago
 
 ---
 
@@ -105,13 +105,13 @@ Amazon didn't ask permission to become critical infrastructure. They built AWS u
 
 I think a lot of AI discourse quietly skips over dependency chains. If humanity disappeared tomorrow what exactly happens to current LLMs? A lot of people talk about these systems as if they are proto civilisations waiting to escape human limitation and continue evolving independently. But would they? When you strip away all the hype modern AI still sits on top of an enormous inherited stack of human structure: Human language Human memory Human labelled reality Human built infrastructure Human maintained datacentres Human energy grids Human chip manufacturing Human feedback loops Human incentives Human institutions Even the “intelligence” itself is trained almost entirely on compressed human civilisation. I now understand models can generalise. They can infer patterns. They can form internal abstractions beyond rote memorisation. That part is clearly true. But inference over WHAT? Remove humans entirely and current systems do not continue building civilisation they gradually become disconnected from reality itself. So: No new grounding data. No maintenance. No semiconductor supply chain. No evolving human context. No fresh interaction with the physical world. No repair of infrastructure. Eventually the system is inferencing over increasingly stale representations of a civilisation that no longer exists. This is where I think a lot of AI discussions become confused. People collapse several completely different concepts into one another: Pattern prediction > consciousness Generalisation > agency Output fluency > autonomy Intelligence > independence The closer some people get to the technology the more they seem to mistake functional capability for a superior lifeform emerging lol. To me current AI looks less like an independent civilisation and more like a gigantic mirror of human civilisation itself. An extraordinarily powerful mirror. But still a mirror. Curious where people agree or disagree with this?
 
-5h ago
+6h ago
 
 ---
 
-**[Would AI make future game difficulty better?](https://www.reddit.com/r/artificial/comments/1telhki/would_ai_make_future_game_difficulty_better/)**
+**[Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups](https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/)**
 
-I was thinking that as AI and basically neural nets, couldn't AI in video games be soon as a baseline feature. You can tell it how difficult to be, as you play it learns how to match the difficulty. You could even command it to play at various difficulties different on days. I was just thinking like we have these starcraft AIs, but like what if in a Heros of might and magic, you could have an AI that you could describe how to play, how aggressive, and in general it could then implement that level. "I want a slight challenge with me most likely winning 60% of the time" and it could understand how to change it's strategy to that. This would be nice because in a lot of strategy games, the harder difficulties just give the AI more resources for free. Would be nice if Civ would just put in a LLM, image you played vs an AI that read up how the person actually acted.
+I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
 
 1d ago
 
@@ -123,7 +123,7 @@ I was thinking that as AI and basically neural nets, couldn't AI in video games 
 
 **[Opinion | What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -135,27 +135,27 @@ Fortune • 1d ago
 
 ---
 
-**[AI-related layoffs a boost for stocks? Not necessarily](https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html)**
+**[SAP Says It Is An AI Company](https://www.forbes.com/sites/stevebanker/2026/05/17/sap-says-it-is-an-ai-company/)**
 
-The data underscores an uncomfortable reality.
+Anthropic kicked off the SaaS Apocalypse when they showed that enterprise applications could be cheaply and quickly built. Now, Anthropic is endorsing SAP's approach.
 
-CNBC • 55m ago
-
----
-
-**[AI advances are breaking into the physical world – and robots will soon learn how to do your washing and ironing](https://nypost.com/2026/05/17/tech/souped-up-ai-is-making-robots-think-learn-for-themselves-and-out-perform-us/)**
-
-A tech VC said, physical AI is “the challenge of figuring out how to reinvent the physical world. It’s a big challenge.” In describing Project Prometheus, he added, “I perso…
-
-New York Post • 1h ago
+Forbes • 8m ago
 
 ---
 
-**[Future authors, this AI book creator tool is now just $119 for lifetime access](https://www.popsci.com/sponsored-content/future-authors-this-ai-book-creator-tool-is-discounted-for-lifetime-access-sponsored-deal/)**
+**[What A.I. Gets Wrong About Bike Shopping, According to Someone Who Tests Them for a Living](https://www.bicycling.com/bikes-gear/a71243048/how-to-use-ai-to-shop-for-a-bike/)**
 
-The Starter Plan lifetime subscription is discounted and for anyone with a Google Doc full of “book ideas” they swear they’ll finish someday.
+It can compare specs fast, but it still needs a rider who knows what actually matters.
 
-Popular Science • 1h ago
+bicycling.com • 1h ago
+
+---
+
+**[My Top Artificial Intelligence Stock for Retirees (Hint: It's Not Nvidia)](https://www.fool.com/investing/2026/05/17/my-top-artificial-intelligence-stock-for-retirees/)**
+
+Unlike Nvidia, Cisco offers AI growth with lower volatility and a more predictable income.
+
+The Motley Fool • 10m ago
 
 ---
 
@@ -163,21 +163,21 @@ Popular Science • 1h ago
 
 In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
 
-The Washington Post • 23m ago
+The Washington Post • 1h ago
 
 ---
 
 **[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
-**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)**
+**[AI Poised to Tilt Job Market Leverage Toward Older Workers](https://finance.yahoo.com/economy/policy/articles/ai-poised-tilt-job-market-150000094.html)**
 
-OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
+(Bloomberg) -- When it comes to job cuts, older workers are often disproportionately affected. But a new survey of chief executive officers suggests this won’t be a given as companies adopt artificial intelligence.Most Read from BloombergWinners and Losers From Trump and Xi’s Beijing Summit TalksHormuz Oil Flows Creep Higher as More Supertankers ExitUS, Iran Stall on Hormuz Reopening as Oil Supplies TightenWhat Is The Thucydides Trap and Why Did Xi Raise It With Trump?How Keir Starmer Imploded a
 
-OpenAI • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -185,15 +185,15 @@ OpenAI • 1d ago
 
 Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it](https://www.yahoo.com/entertainment/movies/articles/steven-soderbergh-used-ai-documentary-023928048.html)**
+**[One of the market's hottest stock themes is buying everything AI can't replace](https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html)**
 
-The day John Lennon was shot, on Dec. 8, 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New York's Dakota Apartments.  At the age of 40, Lennon sounds like so...
+The search for HALO stocks is a hot theme in the stock market. There is now an ETF to invest in it.
 
-Yahoo • 11h ago
+CNBC • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo • 11h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 2034 • 💬 1192 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 2046 • 💬 1200 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo • 11h ago
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 
-⬆️ 689 • 💬 177 • 2d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+⬆️ 690 • 💬 177 • 2d ago • [Scott's Blog](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 
 ---
 
@@ -221,7 +221,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 ...
 
-⬆️ 542 • 💬 302 • 2d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+⬆️ 544 • 💬 302 • 2d ago • [James Pain's Weblog](https://jpain.io/god-damn-ai-is-making-me-dumb/)
 
 ---
 
@@ -229,7 +229,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 397 • 💬 418 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 401 • 💬 423 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -245,7 +245,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
 
-⬆️ 309 • 💬 138 • 2d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+⬆️ 310 • 💬 138 • 2d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 
 ---
 
@@ -253,7 +253,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
-⬆️ 264 • 💬 102 • 2d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+⬆️ 265 • 💬 102 • 2d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
 
 ---
 
@@ -261,7 +261,15 @@ More details and pictures have come in of the intrepid airdrop of urgent medical
 
 Soon, access to frontier AI will be scarce and selective
 
-⬆️ 222 • 💬 215 • 2d ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+⬆️ 224 • 💬 215 • 2d ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+
+---
+
+**[I don't think AI will make your processes go faster](https://news.ycombinator.com/item?id=48168221)**
+
+Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
+
+⬆️ 205 • 💬 138 • 3h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 
 ---
 
@@ -270,12 +278,6 @@ Soon, access to frontier AI will be scarce and selective
 “And so perfect parallel constructions fill the lecture halls, the take-home tests, the school newspapers, and perhaps even the idiom of student chatter.”
 
 ⬆️ 193 • 💬 216 • 2d ago • [thenewcritic.com](https://www.thenewcritic.com/p/the-great-zombification)
-
----
-
-**[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
-
-⬆️ 156 • 💬 250 • 20h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 
 ---
 
@@ -309,7 +311,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 136K • 👍 7K • 💬 826 • ⏱️ 25:36 • 13h ago
+👁️ 136K • 👍 7K • 💬 826 • ⏱️ 25:36 • 15h ago
 
 ---
 
@@ -329,7 +331,7 @@ Head to https://betterhelp.com/infographics to get 10% off your first month with
 
 📺 The Infographics Show
 
-👁️ 216K • 👍 7K • 💬 2K • ⏱️ 19:17 • 22h ago
+👁️ 216K • 👍 7K • 💬 2K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -359,7 +361,7 @@ It's time to deploy yourself in the forward direction. https://x.com/@atmoio htt
 
 📺 Mo Bitar
 
-👁️ 232K • 👍 12K • 💬 2K • ⏱️ 10:37 • 1d ago
+👁️ 232K • 👍 12K • 💬 2K • ⏱️ 10:37 • 2d ago
 
 ---
 
@@ -395,7 +397,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 675 • 7h ago
+⬇️ 56,518 • ❤️ 675 • 8h ago
 
 ---
 
@@ -670,7 +672,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.6k • 🔱 196 • 6m ago
+⭐ 3.6k • 🔱 196 • 1h ago
 
 ---
 
@@ -680,7 +682,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.5k • 🔱 359 • 22h ago
+⭐ 3.5k • 🔱 359 • 23h ago
 
 ---
 
@@ -690,7 +692,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 891 • 20h ago
+⭐ 3.1k • 🔱 891 • 21h ago
 
 ---
 
@@ -700,7 +702,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 356 • 15h ago
+⭐ 2.9k • 🔱 356 • 17h ago
 
 ---
 
@@ -710,7 +712,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.7k • 🔱 321 • 3h ago
+⭐ 2.7k • 🔱 321 • 5h ago
 
 ---
 
@@ -720,7 +722,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 156 • 2h ago
+⭐ 2.3k • 🔱 156 • 4h ago
 
 ---
 
@@ -740,7 +742,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 326 • 1h ago
+⭐ 2.1k • 🔱 326 • 3h ago
 
 ---
 

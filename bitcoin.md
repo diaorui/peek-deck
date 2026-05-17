@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-17T14:04:18.094962+00:00'
+updated: '2026-05-17T15:37:27.977168+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 14:04 UTC  
+**Last Updated:** May 17, 2026 at 15:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,273.59
+### $78,063.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -4.4%  
-**30d:** +3.3%  
-**90d:** +15.8%  
-**1y:** -26.6%  
+**24h:** -0.2%  
+**7d:** -4.6%  
+**30d:** +3.1%  
+**90d:** +15.6%  
+**1y:** -26.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 A study of AI models found they overwhelmingly prefer bitcoin over fiat. The agentic economy is here, and it has already discovered the value of sound digital money.
 
-🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 10h ago
+🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ A study of AI models found they overwhelmingly prefer bitcoin over fiat. The age
 
 Somewhere between setting up a hardware wallet and feeling good about your security setup, most Bitcoiners skip a step that matters more than the hardware. The seed phrase is secured. Nobody else knows it exists. That's not self custody succeeding. That's self custody creating a different problem. I've been thinking about this a lot lately and the solution is simpler than most people make it. You don't need multisig, a lawyer, or a complicated inheritance scheme. You need a written document that a non-technical person can follow on the worst day of their life. Here's what actually works: A letter of instruction - not in your will: Your will becomes public record through probate and takes months to process. A separate sealed document stored somewhere your family knows about is faster, private, and more practical. It doesn't need to contain your seed phrase, just a map to it. The split location approach: Store your seed phrase backup in one location. Store a short passphrase or location hint in a completely separate location, safety deposit box, trusted family member, sealed envelope with your attorney. Neither location is useful alone. Both are accessible through normal estate processes after death. A wallet inventory: Every hardware wallet, software wallet, and exchange account written down somewhere findable. Not the seed phrases, just the map. Your family needs to know what exists before they can figure out how to access it. The honeypot test: Keep a small decoy balance on a separate wallet with a seed phrase your trusted person knows. If that balance ever moves while you're alive you know your security has been compromised. The real test: Explain your recovery process out loud to whoever would inherit. If they can't follow it under normal conditions they definitely can't follow it under stress and grief. If it's too complicated to explain it's too complicated period. None of this requires sharing your actual seed phrase with anyone today. It just requires making sure the people you'd want to have your Bitcoin actually could. The lock is only useful if someone you trust can open it when it matters.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Somewhere between setting up a hardware wallet and feeling good about your secur
 
 Holy shit. I don't know what just happened. Maybe it's because I'm getting older and I think about money differently, like I'm planning wealth for the future rather than just winning a quick buck and blowing it on some fancy thing. I've spent *YEARS* holding a "diversified" "crypto" portfolio that was only like 30% bitcoin. I timed cycle tops and bottoms. Yes it performed well. Yes I took profit. Yes I bought nice things. The bitcoin allocation was an afterthought. But now I get it. 21 million supply. Permanently growing demand and adoption. Sure, other assets will outperform sometimes. But bitcoin isn't just an asset. It is a virus with a reach that is constantly expanding. Saturation is so far away. Just look at the price curve. I had these thoughts before but, I don't know why, it just didn't click like this. Good god, it is so obvious. This is the best risk-adjusted bet to exist. Ever. I finally get it. 100% BTC.
 
-23h ago
+1d ago
 
 ---
 
@@ -105,29 +105,21 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
 
-13h ago
+15h ago
+
+---
+
+**[Brief field report](https://www.reddit.com/r/Bitcoin/comments/1tfozm4/brief_field_report/)**
+
+I am a professional in the healthcare industry. Recently, the topic of business came up amongst my colleagues, and that lead to the topic of business funding, loans, and money. The discussion was amongst employees, so naturally there was a general lack of knowledge, but one thing was clear: there was universal consensus that money, nowadays, as far as they perceived it, is fake funny money. "It's all fake now, the money isn't real, it's just numbers on a screen" is how I would paraphrase this consensus. This is another anecdotal indication that the intelligent no-coiners are generally aware, in the back of their mind at least, that fiat currency is quite fake.
+
+2h ago
 
 ---
 
 **[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
 
-15h ago
-
----
-
-**[Buy btc everyday](https://www.reddit.com/r/Bitcoin/comments/1tfa4ee/buy_btc_everyday/)**
-
-and you will see
-
-13h ago
-
----
-
-**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1tfnego/removed_by_reddit/)**
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-2h ago
+17h ago
 
 ---
 
@@ -135,7 +127,15 @@ and you will see
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+9h ago
+
+---
+
+**[Buy btc everyday](https://www.reddit.com/r/Bitcoin/comments/1tfa4ee/buy_btc_everyday/)**
+
+and you will see
+
+15h ago
 
 ---
 
@@ -143,15 +143,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Happens to me again boys, just bought and it dips lmao
 
-12h ago
+13h ago
 
 ---
 
-**[An interesting read on Satoshi Nakamoto (PDF file)](https://www.reddit.com/r/Bitcoin/comments/1tf4fgy/an_interesting_read_on_satoshi_nakamoto_pdf_file/)**
+**[Why Wall Street is Watching the Rise of Programmable Bitcoin Privacy](https://www.reddit.com/r/Bitcoin/comments/1tfrz21/why_wall_street_is_watching_the_rise_of/)**
 
-The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
+Institutional capital is starting to focus on Bitcoin Layer 2 infrastructure, native yield systems, and programmable privacy solutions as the next evolution of digital finance. Why Wall Street is Watching the Rise of Programmable Bitcoin Privacy
 
-🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 17h ago
+35m ago
 
 ---
 
@@ -175,21 +175,21 @@ Forbes • 1d ago
 
 **[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
 
-CoinDesk • 2h ago
-
----
-
-**[Harvard Dumps Its Ethereum and Bitcoin ETF Investment](https://finance.yahoo.com/markets/crypto/articles/harvard-dumps-ethereum-bitcoin-etf-103709099.html)**
-
-Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
-
-Yahoo Finance • 3h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Key facts: Bitcoin Holds 78k–83k Range; Steadies vs. Gold](https://www.tradingview.com/news/tradingview:ff7be2cd8eba6:0-key-facts-bitcoin-holds-78k-83k-range-steadies-vs-gold/)**
 
-TradingView • 1h ago
+TradingView • 3h ago
+
+---
+
+**[Bitcoin Stalls After CLARITY Act Success: Will Pro-Crypto Fed, White House Save The Day?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-stalls-clarity-act-success-150931587.html)**
+
+Crypto traders sold the news following Kevin Warsh’s Fed chair confirmation and a successful markup of the CLARITY Act, but dip buyers may save the day.
+
+Yahoo Finance • 27m ago
 
 ---
 
@@ -197,21 +197,13 @@ TradingView • 1h ago
 
 Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
 
-The White Coat Investor • 7h ago
+The White Coat Investor • 9h ago
 
 ---
 
 **[Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512)**
 
-Investing.com • 5h ago
-
----
-
-**[Prediction: Bitcoin Will Hit $1 Million -- Here's the Timeline](https://www.fool.com/investing/2026/05/16/prediction-bitcoin-will-hit-1-million-heres-the-ti/)**
-
-Bitcoin is slowing down, and is unlikely to hit a price of $1 million until 2040.
-
-The Motley Fool • 1d ago
+Investing.com • 6h ago
 
 ---
 
@@ -219,7 +211,7 @@ The Motley Fool • 1d ago
 
 Abu Dhabi-based Mubadala added over $90 million to its already sizeable position in BlackRock’s iShares Bitcoin Trust ETF.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -231,6 +223,12 @@ Lexington Herald Leader • 1d ago
 
 ---
 
+**[JPMorgan sees one clear winner in crypto right now](https://www.thestreet.com/crypto/markets/jpmorgan-sees-one-clear-winner-in-crypto-right-now)**
+
+thestreet.com • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -239,7 +237,7 @@ Lexington Herald Leader • 1d ago
 
 The user apparently changed the password while 'stoned'
 
-⬆️ 331 • 💬 174 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+⬆️ 331 • 💬 174 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 
 ---
 
@@ -247,7 +245,7 @@ The user apparently changed the password while 'stoned'
 
 A Bitcoin holder has gone viral after claiming he recovered around $400,000 in BTC from a wallet that had been locked for more than a decade.
 
-⬆️ 13 • 💬 3 • 2d ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
+⬆️ 13 • 💬 3 • 3d ago • [Dexerto](https://www.dexerto.com/entertainment/ai-helps-man-recover-400000-in-bitcoin-11-years-after-he-got-high-and-forgot-password-3364678/)
 
 ---
 
@@ -267,7 +265,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 AI to the rescue as 11-year search for password turns up in old PC files
 
-⬆️ 2 • 💬 1 • 2d ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
+⬆️ 2 • 💬 1 • 3d ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
 
 ---
 
@@ -305,7 +303,7 @@ Three massive stories just collided into one terrifying picture. BlackRock is fi
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 108 • ⏱️ 35:26 • 15h ago
+👁️ 18K • 👍 1K • 💬 108 • ⏱️ 35:26 • 16h ago
 
 ---
 
@@ -325,7 +323,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out 
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 201 • 💬 39 • ⏱️ 8:04 • 6h ago
+👁️ 2K • 👍 201 • 💬 39 • ⏱️ 8:04 • 8h ago
 
 ---
 
@@ -355,7 +353,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 4K • 👍 308 • 💬 46 • ⏱️ 55:42 • 23h ago
+👁️ 4K • 👍 308 • 💬 46 • ⏱️ 55:42 • 1d ago
 
 ---
 
@@ -365,7 +363,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 107 • 💬 8 • ⏱️ 20:12 • 19h ago
+👁️ 2K • 👍 107 • 💬 8 • ⏱️ 20:12 • 20h ago
 
 ---
 
@@ -375,7 +373,7 @@ For today's interview, Alessandro is joined by Eric Krown for a deep dive into t
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 425 • 💬 17 • ⏱️ 42:35 • 20h ago
+👁️ 8K • 👍 425 • 💬 17 • ⏱️ 42:35 • 22h ago
 
 ---
 

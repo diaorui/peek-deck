@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T14:04:18.101165+00:00'
+updated: '2026-05-17T15:37:27.983066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 14:04 UTC  
+**Last Updated:** May 17, 2026 at 15:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** -6.4%  
-**30d:** -6.8%  
-**90d:** +10.0%  
-**1y:** -12.3%  
+**7d:** -6.6%  
+**30d:** -7.0%  
+**90d:** +9.7%  
+**1y:** -12.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet. I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects.. So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps.. Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap.. Thanks in advance...
 
-12m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Heyy Guys, im back from learning foundry and next looking to build some projects
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-20h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-21h ago
+23h ago
 
 ---
 
@@ -120,7 +120,7 @@ Events (logs) are the EVM’s native asynchronous data pipeline, but they are fu
 
 Clear signing, CLARITY Act advanced out of Senate Banking committee, Ben Edgington fast finality plan
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-23/) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% 
 
 The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
 
-Decrypt • 20h ago
+Decrypt • 22h ago
 
 ---
 
@@ -166,19 +166,11 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 ---
 
-**[Harvard Dumps Its Ethereum and Bitcoin ETF Investment](https://finance.yahoo.com/markets/crypto/articles/harvard-dumps-ethereum-bitcoin-etf-103709099.html)**
+**[$50 Million Ethereum Short Rocks The Market: How Will ETH Price React?](https://finance.yahoo.com/markets/crypto/articles/50-million-ethereum-short-rocks-142317761.html)**
 
-Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
+A $50 million 25x ether short hits Hyperliquid as whales split sharply on the Ethereum price's next big direction.
 
-Yahoo Finance • 3h ago
-
----
-
-**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
-
-Success for a blockchain isn't always the same as success for investors.
-
-The Motley Fool • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +178,23 @@ The Motley Fool • 3h ago
 
 Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
 
-TradingView • 11h ago
+TradingView • 12h ago
+
+---
+
+**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
+
+Success for a blockchain isn't always the same as success for investors.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Ethereum hosts 72.6% of all tokenized ETFs as market eyes $20 trillion by 2030](https://cryptobriefing.com/ethereum-tokenized-etfs-market-dominance/)**
+
+Ethereum commands 72.6% of all tokenized ETF products as the broader tokenization market targets $20 trillion by 2030. Here's why institutions keep choosing it.
+
+Crypto Briefing • 1h ago
 
 ---
 
@@ -198,33 +206,25 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Jump After Crypto Act Passes Key Senate Vote: Analyst Says BTC 'Positioned' For A Rebound Toward $86,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015048079.html)**
-
-Leading cryptocurrencies were up in the green on Thursday after the Clarity Act passed the Senate Banking Committee on a bipartisan vote. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:05 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.46%$81,561.50Ethereum (CRYPTO: ETH) +1.18%$2,293.12XRP (CRYPTO: XRP) +4.49%$1.49Solana (CRYPTO: SOL) +1.33%$92.42Dogecoin (CRYPTO: DOGE) +2.10%$0.1167 Crypto Market Pops Bitcoin hit $82,000 in the afternoon, then stalled and moved sideways. The trading volume soared 27% in
-
-Yahoo Finance • 2d ago
-
----
-
-**[Congress's New Crypto Bill Has Traditional Banks Terrified—and Could Change How Our Economy Works](https://www.inc.com/brian-contreras/congresss-new-crypto-bill-banks-economy-trump-bitcoin-ethereum-stablecoins/91344970)**
-
-The Clarity Act would be a boon for backers of Bitcoin, Ethereum and stablecoins. But not everyone is on board.
-
-inc.com • 2d ago
-
----
-
 **[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
 
 Coinpedia • 2d ago
 
 ---
 
-**[Corporate Ethereum reserves reach $16B as companies stockpile 7.3M ETH](https://cryptobriefing.com/corporate-ethereum-reserves-16-billion/)**
+**[NUVAFinance: $19B Figure RWA Assets on Ethereum](https://blockchain.news/flashnews/nuvafinance-19b-figure-rwa-assets-ethereum)**
 
-Public companies now hold 7.3M ETH worth nearly $16B on their balance sheets, driven by staking yields and DeFi returns as corporate adoption accelerates.
+NUVAFinance launches access to $19 billion Figure tokenized assets on Ethereum backed by Animoca Brands partnership.
 
-Crypto Briefing • 23h ago
+blockchain.news • 15h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
+
+Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
+
+FXStreet • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 406 • 💬 116 • ⏱️ 32:55 • 4h ago
+👁️ 2K • 👍 406 • 💬 116 • ⏱️ 32:55 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 334 • 💬 113 • ⏱️ 18:50 • 11h ago
+👁️ 7K • 👍 334 • 💬 113 • ⏱️ 18:50 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin soared to $81000, hitting the 200-day moving average. But is it a bull t
 
 📺 CryptoMeownalysis
 
-👁️ 52 • 👍 3 • 💬 1 • ⏱️ 8:52 • 23h ago
+👁️ 52 • 👍 3 • 💬 1 • ⏱️ 8:52 • 1d ago
 
 ---
 
