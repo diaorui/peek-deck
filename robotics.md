@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T01:24:40.578304+00:00'
+updated: '2026-05-17T05:10:19.996322+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 01:24 UTC  
+**Last Updated:** May 17, 2026 at 05:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-8h ago
+12h ago
 
 ---
 
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-10h ago
+14h ago
+
+---
+
+**[Blast From the Past!](https://www.reddit.com/r/robotics/comments/1tfe7ud/blast_from_the_past/)**
+
+Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old DC motors with slip rings AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
+
+1h ago
 
 ---
 
@@ -56,13 +64,13 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
-18h ago
+22h ago
 
 ---
 
 **[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
 
-7h ago
+11h ago
 
 ---
 
@@ -76,7 +84,7 @@ Just finished putting together the first prototype of my robot project. It uses 
 
 **[Projet d’intégration ROS2 sur plateforme robotique : valorisé ou niveau de base ?](https://www.reddit.com/r/robotics/comments/1tezb0c/projet_dintégration_ros2_sur_plateforme_robotique/)**
 
-8h ago
+12h ago
 
 ---
 
@@ -94,31 +102,9 @@ I recently spent the day at a humancentric robotics company, talking with the CE
 
 ---
 
-**[Figure AI Robot Made a Bed. But Can It Beat a Human Maid?](https://www.reddit.com/r/robotics/comments/1tew4cd/figure_ai_robot_made_a_bed_but_can_it_beat_a/)**
-
-Comparison Video of Figure AI Robots making and tidying a bedroom and how this compares in the real world to a human housekeeper.
-
-🔗 [youtu.be](https://youtu.be/EbSlXLGaqtY) • 10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
-
-eWeek • 2d ago
-
----
 
 **[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
 
@@ -128,49 +114,25 @@ NBC News • 1d ago
 
 ---
 
+**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
+
+eWeek • 2d ago
+
+---
+
 **[China Focus: Unitree secures orders after sensational debut of manned mecha](https://english.news.cn/20260516/8a6d78202c824f8faa7efc3bc8d26048/c.html)**
 
 China Focus: Unitree secures orders after sensational debut of manned mecha-
 
-Xinhua • 19h ago
+Xinhua • 23h ago
 
 ---
 
-**[Sanctuary AI: Humanoid Robots Will Hit Homes In 3-7 Years](https://www.forbes.com/sites/johnkoetsier/2026/05/16/sanctuary-ai-humanoid-robots-will-hit-homes-in-3-7-years/)**
+**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
 
-We may want humanoid robots working in our homes, but we're going to have to wait at least three years, and maybe seven, before they're available at scale ...
+Your weekly selection of awesome robot videos
 
-Forbes • 2h ago
-
----
-
-**[Robotics CEO Vows No Intervention in Humanoids’ Viral Trial Run](https://www.bloomberg.com/news/articles/2026-05-15/robotics-ceo-vows-no-intervention-in-humanoids-viral-trial-run)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[‘Uncharted territory’: Figure AI humanoid robots hit 24/7 nonstop work milestone](https://interestingengineering.com/ai-robotics/figure-ai-humanoids-24-hour-autonomous-run)**
-
-Figure AI says its humanoid robots completed over 24 hours of nonstop autonomous work using Helix-02 AI.
-
-Interesting Engineering • 2d ago
-
----
-
-**[David Muir comes face-to-face with humanoid robots in China - ABC News](https://abcnews.com/Technology/david-muir-face-face-humanoid-robots-china/story?id=132973154)**
-
-Amid the global race to lead on AI, "World News Tonight" anchor David Muir travels to one of China's biggest AI Developer Conferences to see the humanoid robots.
-
-ABC News - Breaking News, Latest News and Videos • 2d ago
-
----
-
-**[Figure Humanoid Robots Sort Packages Non-Stop in 24/7 Demo](https://www.techrepublic.com/article/news-figure-robot-demo-tests-24-7-humanoid-fleet-work/)**
-
-Figure AI’s Helix 02 humanoid robots neared 40 hours of autonomous work and almost 50,000 packages in a livestreamed warehouse demo.
-
-TechRepublic • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -180,19 +142,47 @@ CT Insider • 1d ago
 
 ---
 
+**[Ukraine’s sling against Russia: How 'geniuses in garages' transformed robotic warfare](https://www.jpost.com/defense-and-tech/article-896008)**
+
+The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
+
+The Jerusalem Post • 1d ago
+
+---
+
+**[New FANUC-NVIDIA system lets virtual robots behave like real machines](https://interestingengineering.com/ai-robotics/fanuc-nvidia-sim-to-real-digital-twins)**
+
+FANUC and NVIDIA built factory robot digital twins that mirror real-world motion and AI behavior.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Dunedin robotics company charged over worker’s death](https://www.stuff.co.nz/nz-news/360979836/dunedin-robotics-company-charged-over-workers-death)**
+
+Stuff • 22h ago
+
+---
+
+**[We Need to Move Beyond Robot Doomerism](https://jacobin.com/2026/05/robots-ai-automation-workers-planning)**
+
+“The robots are coming” need not be understood as heralding the apocalypse. An automated society in which states and worker-owned enterprises use technology to serve public ends while meeting individual needs is entirely consistent with the good life.
+
+Jacobin • 14h ago
+
+---
+
+**['The behind the scenes process can be just as magical, if not even more so' — Disney pulled back the curtain on Imagineering’s robotics lab during its Week of Wishes for a young fan — and showed how its next-gen characters come to life](https://www.techradar.com/streaming/entertainment/disney-pulled-back-the-curtain-on-imagineerings-robotics-lab-during-its-week-of-wishes-for-a-young-fan-and-showed-how-its-next-gen-characters-come-to-life)**
+
+Inside a young fan’s wish visit to Disney Imagineering
+
+TechRadar • 5h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
-
-A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
-
-📺 CBS TEXAS
-
-👁️ 318K • 👍 6K • 💬 2K • ⏱️ 3:03 • 3d ago
-
----
 
 **[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
 
@@ -200,17 +190,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 22K • 👍 481 • 💬 83 • ⏱️ 21:16 • 3d ago
-
----
-
-**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
-
-You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 226 • 💬 22 • ⏱️ 55:02 • 3d ago
+👁️ 23K • 👍 530 • 💬 89 • ⏱️ 21:16 • 3d ago
 
 ---
 
@@ -220,7 +200,37 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 48K • 👍 3K • 💬 389 • ⏱️ 15:32 • 10h ago
+👁️ 60K • 👍 3K • 💬 446 • ⏱️ 15:32 • 14h ago
+
+---
+
+**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
+
+A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
+
+📺 CBS TEXAS
+
+👁️ 322K • 👍 6K • 💬 2K • ⏱️ 3:03 • 3d ago
+
+---
+
+**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
+
+You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 231 • 💬 23 • ⏱️ 55:02 • 3d ago
+
+---
+
+**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
+
+Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
+
+📺 Bloomberg Technology
+
+👁️ 36K • 👍 650 • 💬 215 • ⏱️ 6:19 • 1d ago
 
 ---
 
@@ -230,7 +240,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 73K • 👍 665 • 💬 244 • ⏱️ 3:00 • 2d ago
+👁️ 77K • 👍 681 • 💬 247 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -240,7 +250,7 @@ Unitree just revealed the GD01, a real manned mecha robot that can walk on two l
 
 📺 AI Revolution
 
-👁️ 19K • 👍 566 • 💬 66 • ⏱️ 15:27 • 2d ago
+👁️ 20K • 👍 570 • 💬 67 • ⏱️ 15:27 • 2d ago
 
 ---
 
@@ -250,17 +260,7 @@ Go to https://ground.news/benn for a better way to stay informed. Subscribe for 
 
 📺 Benn Jordan
 
-👁️ 913K • 👍 67K • 💬 6K • ⏱️ 23:53 • 6d ago
-
----
-
-**[Episode 2 Ocean Barrier: Secret robot fish](https://www.youtube.com/watch?v=n7VKomFiCrk)**
-
-Scene using artificial intelligence. #aiart #movie.
-
-📺 Miracle Animal Rescues
-
-👁️ 439K • 👍 2K • 💬 33 • ⏱️ 8:12 • 1d ago
+👁️ 918K • 👍 67K • 💬 6K • ⏱️ 23:53 • 6d ago
 
 ---
 
@@ -270,17 +270,17 @@ Robots and drones were used by Ukrainian forces to capture a Russian position wi
 
 📺 Radio Free Europe/Radio Liberty
 
-👁️ 34K • 👍 810 • 💬 46 • ⏱️ 3:07 • 3d ago
+👁️ 34K • 👍 815 • 💬 46 • ⏱️ 3:07 • 3d ago
 
 ---
 
-**[Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000](https://www.youtube.com/watch?v=oWOyUMJWptc)**
+**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
 
-The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please ...
+Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
 
-📺 Unitree Robotics
+📺 CGTN Europe
 
-👁️ 15.9M • 👍 12K • 💬 3K • ⏱️ 1:15 • 4d ago
+👁️ 79K • 👍 528 • 💬 64 • ⏱️ 0:33 • 3d ago
 
 ---
 
