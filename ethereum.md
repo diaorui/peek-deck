@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T19:44:28.073275+00:00'
+updated: '2026-05-17T20:53:24.636255+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 19:44 UTC  
+**Last Updated:** May 17, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -6.3%  
-**30d:** -6.7%  
-**90d:** +10.1%  
-**1y:** -12.2%  
+**24h:** +0.3%  
+**7d:** -6.4%  
+**30d:** -6.8%  
+**90d:** +10.0%  
+**1y:** -12.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I had no idea the Lido withdrawal process was this painful. Submitted my unstake
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
 
-55m ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, been using Uniswap for a while now but every time I try to swap any
 
 Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet. I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects.. So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps.. Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap.. Thanks in advance...
 
-5h ago
+7h ago
 
 ---
 
@@ -172,7 +172,15 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 SBI, Rakuten and Nomura plan Bitcoin and Ethereum investment trusts, opening crypto access for Japanese investors.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[$5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?](https://finance.yahoo.com/markets/crypto/articles/5-000-xrp-vs-5-194612174.html)**
+
+A $5,000 bet on XRP (CRYPTO: XRP) or Ethereum (CRYPTO: ETH) today could look very different by 2028, and the difference between the two investments is wider than most people expect. XRP has momentum behind it, Ripple’s payments business keeps growing, and the regulatory pressure that crushed the token for years has mostly faded. Meanwhile, ... $5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 53m ago
 
 Success for a blockchain isn't always the same as success for investors.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -188,7 +196,7 @@ The Motley Fool • 8h ago
 
 Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -196,7 +204,7 @@ TradingView • 16h ago
 
 Ethereum commands 72.6% of all tokenized ETF products as the broader tokenization market targets $20 trillion by 2030. Here's why institutions keep choosing it.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -212,13 +220,7 @@ The Block • 3d ago
 
 NUVAFinance launches access to $19 billion Figure tokenized assets on Ethereum backed by Animoca Brands partnership.
 
-blockchain.news • 19h ago
-
----
-
-**[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
-
-Coinpedia • 2d ago
+blockchain.news • 20h ago
 
 ---
 
@@ -240,7 +242,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 29K • 👍 3K • 💬 245 • ⏱️ 12:17 • 5h ago
+👁️ 29K • 👍 3K • 💬 245 • ⏱️ 12:17 • 6h ago
 
 ---
 
@@ -250,7 +252,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 145 • 💬 18 • ⏱️ 23:02 • 3h ago
+👁️ 2K • 👍 145 • 💬 18 • ⏱️ 23:02 • 4h ago
 
 ---
 
@@ -260,7 +262,7 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 2K • 💬 22 • ⏱️ 10:04 • 4h ago
+👁️ 7K • 👍 2K • 💬 22 • ⏱️ 10:04 • 5h ago
 
 ---
 
@@ -280,7 +282,7 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 589 • 💬 149 • ⏱️ 32:55 • 10h ago
+👁️ 5K • 👍 589 • 💬 149 • ⏱️ 32:55 • 11h ago
 
 ---
 
@@ -300,7 +302,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 180 • 4h ago
+👁️ 2K • 👍 180 • 5h ago
 
 ---
 
@@ -310,7 +312,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 368 • 💬 121 • ⏱️ 18:50 • 16h ago
+👁️ 9K • 👍 368 • 💬 121 • ⏱️ 18:50 • 18h ago
 
 ---
 
@@ -330,7 +332,7 @@ tg romchekcrypto ETH ожидания.
 
 📺 Новые деньги Криптовалюты Биткоин
 
-👁️ 501 • 👍 23 • 💬 2 • ⏱️ 1:04 • 3h ago
+👁️ 501 • 👍 23 • 💬 2 • ⏱️ 1:04 • 4h ago
 
 ---
 

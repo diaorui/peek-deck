@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T19:44:28.076477+00:00'
+updated: '2026-05-17T20:53:24.639128+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 19:44 UTC  
+**Last Updated:** May 17, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,19 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-14h ago
+15h ago
 
 ---
 
 **[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
 
-10h ago
+11h ago
+
+---
+
+**[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg10ks/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
+
+18m ago
 
 ---
 
@@ -50,7 +56,7 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old "DC motors " (old Nachi term to distinguish from newer integrated encoder types) with slip rings three phase AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-16h ago
+17h ago
 
 ---
 
@@ -60,15 +66,21 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 ---
 
+**[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg0rmj/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
+
+27m ago
+
+---
+
 **[It seems like the Kinect v1 draws too much power and the data volume overwhelms my robot. It also gets hot, so everything is for nothing.](https://www.reddit.com/r/robotics/comments/1tft7vj/it_seems_like_the_kinect_v1_draws_too_much_power/)**
 
-3h ago
+5h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -88,20 +100,6 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 ---
 
-**[Unitree Go2 Pro - RR Shank Motor Fault - Accumulated Loss - Anyone Seen This?](https://www.reddit.com/r/robotics/comments/1tf6fb4/unitree_go2_pro_rr_shank_motor_fault_accumulated/)**
-
-So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome.
-
-22h ago
-
----
-
-**[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,11 +112,11 @@ NBC News • 2d ago
 
 ---
 
-**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
+**[China launches national vocational training ground for embodied robots](https://www.globaltimes.cn/page/202605/1361125.shtml)**
 
-Your weekly selection of awesome robot videos
+A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
 
-IEEE Spectrum • 3d ago
+Global Times • 21h ago
 
 ---
 
@@ -126,13 +124,13 @@ IEEE Spectrum • 3d ago
 
 A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
 
-Euronews.com • 12h ago
+Euronews.com • 13h ago
 
 ---
 
 **[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
 
-Go Local Prov • 13h ago
+Go Local Prov • 14h ago
 
 ---
 
@@ -140,7 +138,7 @@ Go Local Prov • 13h ago
 
 Rocket Lab has announced the acquisition of Motiv Space Systems, a specialist in space robotics and precision mechanisms. The deal brings flight proven robotic systems used on missions such as Mars rovers directly into Rocket Lab’s in house capabilities. This move is intended to support more complex lunar and planetary missions and expand offerings for government and commercial customers. Rocket Lab (NasdaqGS:RKLB) is pushing further into space infrastructure and defense services by adding...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ A man in New Jersey said he was the victim of a hit-and-run — by a delivery ro
 
 📺 NBC New York
 
-👁️ 8K • 👍 84 • 💬 46 • ⏱️ 2:43 • 21h ago
+👁️ 8K • 👍 84 • 💬 46 • ⏱️ 2:43 • 22h ago
 
 ---
 
