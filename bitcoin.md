@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-17T16:57:56.979765+00:00'
+updated: '2026-05-17T18:01:57.417787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 16:57 UTC  
+**Last Updated:** May 17, 2026 at 18:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,063.50
+### $78,008.34
 
 ---
 
@@ -46,9 +46,9 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.2%  
 **7d:** -4.5%  
-**30d:** +3.1%  
+**30d:** +3.2%  
 **90d:** +15.7%  
-**1y:** -26.7%  
+**1y:** -26.6%  
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 A study of AI models found they overwhelmingly prefer bitcoin over fiat. The agentic economy is here, and it has already discovered the value of sound digital money.
 
-🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 13h ago
+🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 14h ago
 
 ---
 
 **[Your family can't access your Bitcoin when you die. Here's how to fix that without giving anyone your seed phrase.](https://www.reddit.com/r/Bitcoin/comments/1tfoqmz/your_family_cant_access_your_bitcoin_when_you_die/)**
 
 Somewhere between setting up a hardware wallet and feeling good about your security setup, most Bitcoiners skip a step that matters more than the hardware. The seed phrase is secured. Nobody else knows it exists. That's not self custody succeeding. That's self custody creating a different problem. I've been thinking about this a lot lately and the solution is simpler than most people make it. You don't need multisig, a lawyer, or a complicated inheritance scheme. You need a written document that a non-technical person can follow on the worst day of their life. Here's what actually works: A letter of instruction - not in your will: Your will becomes public record through probate and takes months to process. A separate sealed document stored somewhere your family knows about is faster, private, and more practical. It doesn't need to contain your seed phrase, just a map to it. The split location approach: Store your seed phrase backup in one location. Store a short passphrase or location hint in a completely separate location, safety deposit box, trusted family member, sealed envelope with your attorney. Neither location is useful alone. Both are accessible through normal estate processes after death. A wallet inventory: Every hardware wallet, software wallet, and exchange account written down somewhere findable. Not the seed phrases, just the map. Your family needs to know what exists before they can figure out how to access it. The honeypot test: Keep a small decoy balance on a separate wallet with a seed phrase your trusted person knows. If that balance ever moves while you're alive you know your security has been compromised. The real test: Explain your recovery process out loud to whoever would inherit. If they can't follow it under normal conditions they definitely can't follow it under stress and grief. If it's too complicated to explain it's too complicated period. None of this requires sharing your actual seed phrase with anyone today. It just requires making sure the people you'd want to have your Bitcoin actually could. The lock is only useful if someone you trust can open it when it matters.
+
+5h ago
+
+---
+
+**[Brief field report](https://www.reddit.com/r/Bitcoin/comments/1tfozm4/brief_field_report/)**
+
+I am a professional in the healthcare industry. Recently, the topic of business came up amongst my colleagues, and that lead to the topic of business funding, loans, and money. The discussion was amongst employees, so naturally there was a general lack of knowledge, but one thing was clear: there was universal consensus that money, nowadays, as far as they perceived it, is fake funny money. "It's all fake now, the money isn't real, it's just numbers on a screen" is how I would paraphrase this consensus. This is another anecdotal indication that the intelligent no-coiners are generally aware, in the back of their mind at least, that fiat currency is quite fake.
 
 4h ago
 
@@ -105,29 +113,13 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
 
-16h ago
+17h ago
 
 ---
 
-**[Brief field report](https://www.reddit.com/r/Bitcoin/comments/1tfozm4/brief_field_report/)**
+**[‘A Bitcoin Evangelist Tries to Convert Me’](https://www.reddit.com/r/Bitcoin/comments/1tfv2kd/a_bitcoin_evangelist_tries_to_convert_me/)**
 
-I am a professional in the healthcare industry. Recently, the topic of business came up amongst my colleagues, and that lead to the topic of business funding, loans, and money. The discussion was amongst employees, so naturally there was a general lack of knowledge, but one thing was clear: there was universal consensus that money, nowadays, as far as they perceived it, is fake funny money. "It's all fake now, the money isn't real, it's just numbers on a screen" is how I would paraphrase this consensus. This is another anecdotal indication that the intelligent no-coiners are generally aware, in the back of their mind at least, that fiat currency is quite fake.
-
-3h ago
-
----
-
-**[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
-
-18h ago
-
----
-
-**[Buy btc everyday](https://www.reddit.com/r/Bitcoin/comments/1tfa4ee/buy_btc_everyday/)**
-
-and you will see
-
-16h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html) • 1h ago
 
 ---
 
@@ -135,7 +127,21 @@ and you will see
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
+
+---
+
+**[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
+
+19h ago
+
+---
+
+**[Buy btc everyday](https://www.reddit.com/r/Bitcoin/comments/1tfa4ee/buy_btc_everyday/)**
+
+and you will see
+
+17h ago
 
 ---
 
@@ -143,15 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Happens to me again boys, just bought and it dips lmao
 
-15h ago
-
----
-
-**[An interesting read on Satoshi Nakamoto (PDF file)](https://www.reddit.com/r/Bitcoin/comments/1tf4fgy/an_interesting_read_on_satoshi_nakamoto_pdf_file/)**
-
-The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 20h ago
+16h ago
 
 ---
 
@@ -159,17 +157,53 @@ The mystery about the ingenious creator of Bitcoin concealing behind the pseudon
 
 ## Google News: "bitcoin"
 
-**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://finance.yahoo.com/markets/crypto/articles/president-trump-discloses-coinbase-robinhood-194845513.html)**
+**[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
 
-President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
+WSJ • 2d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Bitcoin Price: Why BTC Can’t Close Above the 200-Day MA, and What Breaks It](https://247wallst.com/investing/2026/05/17/bitcoin-price-why-btc-cant-close-above-the-200-day-ma-and-what-breaks-it/)**
+
+Bitcoin tested its 200-day moving average at $82,300 without closing above it. Here's exactly what's holding it back and what could break it.
+
+24/7 Wall St. • 5h ago
+
+---
+
+**[Michael Saylor Teases Bigger Bitcoin Buy for MicroStrategy as 8-K Filing Looms](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-bigger-bitcoin-153343104.html)**
+
+Saylor teases another Bitcoin buy with a 'Big Dot Energy' post as Strategy's Monday 8-K is set to confirm a 15,466 BTC week.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin’s $90K Resistance Cluster: 4 Reasons Why It’s the Hardest Level to Break](https://finance.yahoo.com/markets/crypto/articles/bitcoin-90k-resistance-cluster-4-174024240.html)**
+
+Bitcoin (CRYPTO: BTC) is trading at approximately $78,000 today, close enough to $90,000 that it feels within reach, but far enough that four separate forces are stacking up to stop it. Every time Bitcoin has approached $90,000 since the October 2025 all-time high, the bears have shown up and pushed it back down. This is ... Bitcoin’s $90K Resistance Cluster: 4 Reasons Why It’s the Hardest Level to Break
+
+Yahoo Finance • 21m ago
+
+---
+
+**[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
+
+CoinDesk • 6h ago
+
+---
+
+**[What Is Bitcoin Pizza Day, and Why Does It Matter?](https://www.whitecoatinvestor.com/bitcoin-pizza-day/)**
+
+Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
+
+The White Coat Investor • 11h ago
 
 ---
 
 **[Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -189,49 +223,11 @@ Forbes • 1d ago
 
 ---
 
-**[We Asked Claude AI Where Bitcoin (BTC) Will Be On The Day The Fed Cuts Rates](https://finance.yahoo.com/markets/crypto/articles/asked-claude-ai-where-bitcoin-162433459.html)**
-
-Bitcoin (CRYPTO: BTC) has spent most of May trading around the $80,000 level as it kept stalling below the key resistance level near $82,000. The Bitcoin price keeps bouncing off the upper $70,000s, but has struggled to build enough strength for a sustained breakout, with traders reacting cautiously to inflation data and shifting Federal Reserve ... We Asked Claude AI Where Bitcoin (BTC) Will Be On The Day The Fed Cuts Rates
-
-Yahoo Finance • 33m ago
-
----
-
-**[Bitcoin Stalls After CLARITY Act Success: Will Pro-Crypto Fed, White House Save The Day?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-stalls-clarity-act-success-150931587.html)**
-
-Crypto traders sold the news following Kevin Warsh’s Fed chair confirmation and a successful markup of the CLARITY Act, but dip buyers may save the day.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Michael Saylor Teases Bigger Bitcoin Buy for MicroStrategy as 8-K Filing Looms](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-bigger-bitcoin-153343104.html)**
-
-Saylor teases another Bitcoin buy with a 'Big Dot Energy' post as Strategy's Monday 8-K is set to confirm a 15,466 BTC week.
-
-Yahoo Finance • 1h ago
-
----
-
-**[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
-
-CoinDesk • 4h ago
-
----
-
-**[What Is Bitcoin Pizza Day, and Why Does It Matter?](https://www.whitecoatinvestor.com/bitcoin-pizza-day/)**
-
-Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
-
-The White Coat Investor • 10h ago
-
----
-
 **[Harvard Dumps Its Ethereum and Bitcoin ETF Investment](https://finance.yahoo.com/markets/crypto/articles/harvard-dumps-ethereum-bitcoin-etf-103709099.html)**
 
 Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -299,7 +295,7 @@ Bitcoin #Crypto #Finance President's Council of Advisors for Digital Assets Patr
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 442 • 💬 201 • ⏱️ 28:56 • 3h ago
+👁️ 6K • 👍 442 • 💬 201 • ⏱️ 28:56 • 5h ago
 
 ---
 
@@ -319,7 +315,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 110 • ⏱️ 12:17 • 2h ago
+👁️ 15K • 👍 2K • 💬 110 • ⏱️ 12:17 • 3h ago
 
 ---
 
@@ -329,7 +325,7 @@ Three massive stories just collided into one terrifying picture. BlackRock is fi
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 113 • ⏱️ 35:26 • 17h ago
+👁️ 20K • 👍 1K • 💬 113 • ⏱️ 35:26 • 19h ago
 
 ---
 
@@ -349,7 +345,7 @@ Spiral developer Matt Corallo on why BIP 110 goes too far, banning legitimate Bi
 
 📺 Galaxy
 
-👁️ 329 • ⏱️ 0:38 • 2h ago
+👁️ 329 • ⏱️ 0:38 • 4h ago
 
 ---
 
@@ -389,7 +385,7 @@ For today's interview, Alessandro is joined by Eric Krown for a deep dive into t
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 438 • 💬 17 • ⏱️ 42:35 • 23h ago
+👁️ 8K • 👍 438 • 💬 17 • ⏱️ 42:35 • 1d ago
 
 ---
 

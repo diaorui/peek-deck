@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T16:57:56.988571+00:00'
+updated: '2026-05-17T18:01:57.425897+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 16:57 UTC  
+**Last Updated:** May 17, 2026 at 18:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,39 +36,39 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-11h ago
+12h ago
 
 ---
 
 **[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Blast From the Past!](https://www.reddit.com/r/robotics/comments/1tfe7ud/blast_from_the_past/)**
 
-Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old DC motors with slip rings AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
+Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old "DC motors " (old Nachi term to distinguish from newer integrated encoder types) with slip rings three phase AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-13h ago
+14h ago
 
 ---
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-23h ago
+1d ago
 
 ---
 
 **[It seems like the Kinect v1 draws too much power and the data volume overwhelms my robot. It also gets hot, so everything is for nothing.](https://www.reddit.com/r/robotics/comments/1tft7vj/it_seems_like_the_kinect_v1_draws_too_much_power/)**
 
-1h ago
+2h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -76,7 +76,7 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 We’re building a robotics startup and want to get non-binding LOIs from businesses willing to test our robots in real operations. The goal is not to close full contracts yet, but to validate demand, get feedback, and prove ROI through pilots. For founders/operators who’ve done this: what’s the best way to approach companies, structure the LOI, and make the ask low-risk enough for them to say yes?
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome.
 
-19h ago
+20h ago
 
 ---
 
@@ -116,17 +116,25 @@ NBC News • 2d ago
 
 ---
 
-**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
+**[China unveils a giant rideable robot straight out of sci-fi movie](https://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction)**
 
-eWeek • 2d ago
+A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
+
+Euronews.com • 11h ago
 
 ---
 
-**[China launches national vocational training ground for embodied robots](https://www.globaltimes.cn/page/202605/1361125.shtml)**
+**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
 
-A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
+Go Local Prov • 11h ago
 
-Global Times • 17h ago
+---
+
+**[Rocket Lab Buys Motiv As Robotics Shift Meets Stretched Valuation Risks](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-buys-motiv-robotics-201108663.html)**
+
+Rocket Lab has announced the acquisition of Motiv Space Systems, a specialist in space robotics and precision mechanisms. The deal brings flight proven robotic systems used on missions such as Mars rovers directly into Rocket Lab’s in house capabilities. This move is intended to support more complex lunar and planetary missions and expand offerings for government and commercial customers. Rocket Lab (NasdaqGS:RKLB) is pushing further into space infrastructure and defense services by adding...
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -138,39 +146,9 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)**
+**[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
 
-It can’t replace human caregivers, but it fills an important gap.
-
-The Verge • 3h ago
-
----
-
-**[Fraunhofer IPA offers new test benchmark for humanoid robots](https://www.therobotreport.com/fraunhofer-ipa-offers-new-test-benchmark-for-humanoid-robots/)**
-
-The Robot Report • 4h ago
-
----
-
-**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
-
-Go Local Prov • 10h ago
-
----
-
-**[China unveils a giant rideable robot straight out of sci-fi movie](https://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction)**
-
-A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
-
-Euronews.com • 9h ago
-
----
-
-**[Rocket Lab Buys Motiv As Robotics Shift Meets Stretched Valuation Risks](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-buys-motiv-robotics-201108663.html)**
-
-Rocket Lab has announced the acquisition of Motiv Space Systems, a specialist in space robotics and precision mechanisms. The deal brings flight proven robotic systems used on missions such as Mars rovers directly into Rocket Lab’s in house capabilities. This move is intended to support more complex lunar and planetary missions and expand offerings for government and commercial customers. Rocket Lab (NasdaqGS:RKLB) is pushing further into space infrastructure and defense services by adding...
-
-Yahoo Finance • 20h ago
+eWeek • 2d ago
 
 ---
 
@@ -178,7 +156,31 @@ Yahoo Finance • 20h ago
 
 A tech VC said, physical AI is “the challenge of figuring out how to reinvent the physical world. It’s a big challenge.” In describing Project Prometheus, he added, “I perso…
 
-New York Post • 3h ago
+New York Post • 5h ago
+
+---
+
+**[China launches national vocational training ground for embodied robots](https://www.globaltimes.cn/page/202605/1361125.shtml)**
+
+A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
+
+Global Times • 18h ago
+
+---
+
+**[Local Robotics Team Earns Spot at World Championship in St Johns](https://vocm.com/2026/05/16/299271/)**
+
+St. Mark's in King's Cove may have just 20 students, but its robotics team is off to compete in the MATE ROV I...
+
+VOCM • 1d ago
+
+---
+
+**[Ukraine’s sling against Russia: How 'geniuses in garages' transformed robotic warfare](https://www.jpost.com/defense-and-tech/article-896008)**
+
+The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
+
+The Jerusalem Post • 1d ago
 
 ---
 
@@ -252,7 +254,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 29K • 👍 631 • 💬 110 • ⏱️ 21:16 • 3d ago
+👁️ 29K • 👍 631 • 💬 110 • ⏱️ 21:16 • 4d ago
 
 ---
 

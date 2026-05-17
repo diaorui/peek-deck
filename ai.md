@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T16:57:56.971250+00:00'
+updated: '2026-05-17T18:01:57.410210+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 16:57 UTC  
+**Last Updated:** May 17, 2026 at 18:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Started this experiment curious, ending it with some actual opinions Month 1-3: Using AI to generate text and paste it in. Word count went up, quality went down, nothing sounded like me. Month 3-5: Realised generation was the wrong use case. started using it to interrogate my own writing instead and results smh got more interesting. Month 5-8: Figured out that output quality depends almost entirely on how much context the AI has. Same prompt, different context, completely different result. Month 8-12: Found a setup where the AI reads my actual manuscript rather than a chat window. Everything before this feels like a different tool. The learning curve is real and most people quit somewhere in months 1-3 when the generated text disappoints them. The actual value is somewhere else entirely.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,23 @@ Started this experiment curious, ending it with some actual opinions Month 1-3: 
 
 Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
 
-6h ago
+7h ago
+
+---
+
+**[Publicis buys LiveRamp for $2.5 billion in agentic AI data play](https://www.reddit.com/r/artificial/comments/1tfvvn3/publicis_buys_liveramp_for_25_billion_in_agentic/)**
+
+Publicis Groupe today agreed to buy LiveRamp in an all-cash $2.5 billion deal, paying a 30% premium to fold data collaboration into its agentic AI strategy.
+
+🔗 [PPC Land](http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play) • 35m ago
+
+---
+
+**[ai slop? who knows~](https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/)**
+
+I investigated whether routing a transformer's forward activations through a lossy Dual E8 (E16) lattice bottleneck and injecting them back into the residual stream is viable, and where the boundary of generative stability lies. **The core finding:** There is a sharp empirical stability threshold at a blend ratio of $\beta = 0.20$. Beyond this boundary, open-ended generation collapses into semantic loops and repetition lock. --- ### The Mechanism Standard LLM states are high-dimensional floats. Rather than applying traditional scalar quantization (like INT4), I mapped high-dimensional activations onto a conceptual torus via a sinusoidal map and projected them onto Dual E8 lattice hemispheres. Full replacement of MLP layers with geometric bottlenecks universally collapsed the model. Instead, I implemented a residual blend: $$\text{out} = (1-\beta)\cdot\text{original} + \beta\cdot\text{geometric}$$ --- ### The $\beta = 0.20$ Sweep (Qwen2.5-0.5B) Sweeping $\beta$ from 0.10 to 0.50 across layers 8–13 of `Qwen2.5-0.5B` reveals a sharp phase transition: * **$\beta \ge 0.25$** : Generation succumbs to heavy repetition pressure and semantic drift. The geometry acts as an attractor, trapping the decoding process ("loop-lock"). * **$\beta = 0.20$** : The stability boundary. This is the highest injection ratio of lossy geometric signal that maintains both numerical activation fidelity (Avg Cosine > 0.99) and open-ended generation quality (low repeated n-grams). * **$\beta \le 0.10$** : The perturbation is largely absorbed and damped by the transformer's layer normalizations, making the intervention invisible. Here is the data from a 300-iteration sweep: | $\beta$ | Min Cosine | Avg Cosine | Max MSE | Rep-3g (Repetition Rate) | | :--- | :--- | :--- | :--- | :--- | | 0.10 | 0.9972 | 0.9979 | 0.0024 | 0.134 | | **0.20** | **0.9907** | **0.9916** | **0.0106** | **0.093** | | 0.25 | 0.9839 | 0.9865 | 0.0171 | 0.084 | | 0.30 | 0.9648 | 0.9771 | 0.0255 | 0.190 | | 0.50 | 0.9171 | 0.9288 | 0.0850 | 0.412 | Semantic scoring (evaluating prompt relevance and similarity to the unmodified baseline): | $\beta$ | Avg Cosine | Rep-3g | Relevance | Patched-to-Baseline Sim | | :--- | :--- | :--- | :--- | :--- | | 0.10 | 0.9980 | 0.223 | 0.781 | 0.889 | | **0.20** | **0.9918** | **0.075** | **0.752** | **0.854** | | 0.25 | 0.9871 | 0.232 | 0.717 | 0.801 | | 0.30 | 0.9760 | 0.392 | 0.725 | 0.764 | --- ### Generalization (1.5B & 3B Models) The $\beta = 0.20$ boundary generalizes across larger model sizes (`Qwen2.5-1.5B` and `Qwen2.5-3B` in 4-bit) on the activation-cosine axis: | Model | $\beta$ | Min Cosine | Avg Cosine | Max MSE | Rep-3g | | :--- | :--- | :--- | :--- | :--- | :--- | | **1.5B** | 0.10 | 0.9988 | 0.9989 | 0.0027 | 0.267 | | | **0.20** | **0.9862** | **0.9939** | **0.0105** | **0.128** | | | 0.25 | 0.9904 | 0.9919 | 0.0166 | 0.398 | | | 0.30 | 0.9733 | 0.9815 | 0.0235 | 0.307 | | | 0.40 | 0.9368 | 0.9551 | 0.0487 | 0.191 | | **3B (4-bit)** | 0.10 | 0.9964 | 0.9976 | 0.0122 | 0.033 | | | **0.20** | **0.9861** | **0.9904** | **0.0455** | **0.115** | | | 0.25 | 0.9604 | 0.9799 | 0.0654 | 0.043 | | | 0.30 | 0.9702 | 0.9778 | 0.0987 | 0.050 | | | 0.40 | 0.9158 | 0.9390 | 0.1728 | 0.025 | *Note: In the 3B model, repetition pressure remained low across all sweeps, but the validation cosine degraded identically at $\beta \ge 0.25$.* I also tested layer-level oscillating $\beta$ schedules (e.g., sine waves across layers), but they degraded open-ended text quality compared to a fixed, constant injection ratio. --- ### Storage Compression Prototypes Utilizing the Dual E8/E16 lattice as a computational substrate also yields high theoretical storage efficiency in early prototypes: 1. **KV Cache (8$\times$)** : FP16 KV cache compressed to INT8 coordinates, reducing footprint from 0.21 MB to 0.02 MB. 2. **Weights (112$\times$)** : Projected a dense $[4864, 896]$ MLP weight matrix down to a 0.07 MB E16 footprint. (Cosine similarity of the uncalibrated weight matrix multiplication was limited to $\sim$0.078, indicating that Quantization-Aware Training is mandatory for parameter viability). A **pre-projected decompression bypass** was designed to run matrix multiplications directly against lattice coordinates without upcasting, avoiding memory bandwidth bottlenecks. --- ### Policy Constraints (Negative Result) I evaluated whether residual E16 projection could act as a steering substrate to enforce safety policies. It cannot. While $\beta = 0.20$ preserves generation quality, the lossy nature of E16 projection strips out the logical nuances required to maintain strict boundaries. Dedicated supervised control heads remain necessary. --- ### Implications & Next Steps Snapping post-training activations to a fixed algebraic lattice is ultimately lossy. The real frontier here is **native geometric transformers** —designing and training networks from scratch with E8/E16 constraints native to both weight matrices and activation routing.
+
+39m ago
 
 ---
 
@@ -65,7 +81,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
 
-7h ago
+9h ago
 
 ---
 
@@ -81,7 +97,7 @@ I think we’re underestimating how chaotic enterprise AI adoption actually is i
 
 Everyone keeps talking about smarter AI. Bigger models. Longer context windows. More autonomous agents. Better reasoning. Better coding. Better memory. But I think we’re missing the real problem. An AI system can sound intelligent… and still operate on completely broken reality. Imagine an AI agent: approving refunds escalating incidents updating records contacting customers changing prices triggering workflows Now ask a simple question: How does the AI know the reality it sees is actually correct? Not “technically accessible.” Actually correct. Because enterprise reality is messy: stale systems conflicting databases outdated approvals missing context silent exceptions contradictory records unclear ownership shifting policies And then there’s an even bigger question: Even if the AI knows something… is it actually allowed to act on it? Under whose authority? With what limits? Who is accountable? Can the action be reversed? What happens if the AI is wrong? That’s why I’m starting to think the future AI stack is not just: data → model → agent → action There are missing runtime layers in between. The mental model I’ve been exploring is: SENSE → reality representation CORE → reasoning DRIVER → governed action And honestly, it feels like the industry is massively overinvested in CORE. We obsess over intelligence. But the real bottlenecks may become: representation quality legitimacy authority boundaries reversibility accountability runtime governance In other words: The biggest AI failures may not come from “bad intelligence.” They may come from machines acting on incomplete reality with unclear authority. And I think this becomes a huge issue once AI moves from: “helping humans” to “acting inside institutions.” Curious what others here are seeing. Are companies actually solving these layers internally? Or are most organizations still mainly focused on model capability and agent demos right now?
 
-2h ago
+3h ago
 
 ---
 
@@ -101,29 +117,13 @@ While tech companies see AI data centers as the future, many Americans are becom
 
 ---
 
-**[Serious question: if humans vanished tomorrow how long would AI civilisation last?](https://www.reddit.com/r/artificial/comments/1tfk5ve/serious_question_if_humans_vanished_tomorrow_how/)**
-
-I think a lot of AI discourse quietly skips over dependency chains. If humanity disappeared tomorrow what exactly happens to current LLMs? A lot of people talk about these systems as if they are proto civilisations waiting to escape human limitation and continue evolving independently. But would they? When you strip away all the hype modern AI still sits on top of an enormous inherited stack of human structure: Human language Human memory Human labelled reality Human built infrastructure Human maintained datacentres Human energy grids Human chip manufacturing Human feedback loops Human incentives Human institutions Even the “intelligence” itself is trained almost entirely on compressed human civilisation. I now understand models can generalise. They can infer patterns. They can form internal abstractions beyond rote memorisation. That part is clearly true. But inference over WHAT? Remove humans entirely and current systems do not continue building civilisation they gradually become disconnected from reality itself. So: No new grounding data. No maintenance. No semiconductor supply chain. No evolving human context. No fresh interaction with the physical world. No repair of infrastructure. Eventually the system is inferencing over increasingly stale representations of a civilisation that no longer exists. This is where I think a lot of AI discussions become confused. People collapse several completely different concepts into one another: Pattern prediction > consciousness Generalisation > agency Output fluency > autonomy Intelligence > independence The closer some people get to the technology the more they seem to mistake functional capability for a superior lifeform emerging lol. To me current AI looks less like an independent civilisation and more like a gigantic mirror of human civilisation itself. An extraordinarily powerful mirror. But still a mirror. Curious where people agree or disagree with this?
-
-7h ago
-
----
-
-**[Stanford studied 51 real AI deployments and found a 71% vs 40% productivity gap - here's what separates the two groups](https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/)**
-
-I came across a Stanford research paper that actually went inside companies running AI in production - not pilots, not surveys, real deployments. They found something that stuck with me. Companies using what they call "agentic AI" - where the AI owns the task start to finish with no human approval loop - are seeing 71% median productivity gains. Companies using standard AI that assists humans are averaging 40%. Same technology. Nearly double the output. The kicker: only 20% of companies are in the 71% group. A few things that stood out from the actual data: A supermarket replaced its entire buying process with AI - waste down 40%, stockouts down 80%, profit margin doubled A security team went from 1,500 alerts/month to 40,000 with the same headcount Stanford identified 3 conditions required before agentic AI works: high-volume tasks, clear success criteria, and recoverable errors Most companies apparently can't name all three for their current setup. Full report here if you want to dig into the numbers: https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf Here is a full breakdown with all the data if you want to dig deeper: https://youtu.be/JePxda9ZGQE What's the AI setup at your company - closer to the 40% group or the 71% group?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Opinion | What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
@@ -135,47 +135,41 @@ Fortune • 1d ago
 
 ---
 
-**[Japan's Kore-eda explores AI's role in grief in Cannes contender](https://www.yahoo.com/entertainment/movies/articles/japans-kore-eda-explores-ais-155841095.html)**
+**[AI tools make it easier for scammers to defraud consumers](https://www.detroitnews.com/story/business/personal-finance/2026/05/17/ai-scams-are-on-the-rise-how-to-protect-yourself/90095019007/)**
 
-CANNES, France, May 17 (Reuters) - If a couple loses a child, would it be ethical to use AI to try to recreate the child if it eases their grief?
+AI tools are making it easier for scammers to defraud consumers, leading to a 26% increase in losses last year.
 
-Yahoo • 59m ago
-
----
-
-**[A disturbing byproduct of AI: knowledge collapse | Op-Ed](https://www.seattletimes.com/opinion/ai-is-about-to-do-all-our-thinking-for-us-heres-why-thats-bad/)**
-
-The Seattle Times • 1h ago
+The Detroit News • 1h ago
 
 ---
 
-**[TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)**
+**[Opinion | How to get the most out of AI talks with China](https://www.washingtonpost.com/opinions/2026/05/17/ai-talks-with-china-wont-work-have-them-anyway/)**
 
-Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+Dialogue with rivals can be helpful, but plenty of traps lay ahead.
 
-TechCrunch • 52m ago
-
----
-
-**[AI license plate cameras tore this town apart and led to a state of emergency](https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/)**
-
-In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
-
-The Washington Post • 15m ago
-
----
-
-**[I was rejected for a job 6 minutes after I applied. I told the company that AI was screening out strong candidates.](https://www.businessinsider.com/it-pro-reached-out-after-receiving-job-rejection-2026-5)**
-
-An IT professional says he was turned down for a role so quickly that he felt compelled to tell the employer what happened.
-
-Business Insider • 1d ago
+The Washington Post • 1h ago
 
 ---
 
 **[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
 
-Axios • 4h ago
+Axios • 5h ago
+
+---
+
+**[One of the market's hottest stock themes is buying everything AI can't replace](https://www.cnbc.com/2026/05/17/ai-stock-market-trade-halo-investing.html)**
+
+The search for HALO stocks is a hot theme in the stock market. There is now an ETF to invest in it.
+
+CNBC • 3h ago
+
+---
+
+**[‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters](https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters)**
+
+Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin
+
+The Guardian • 40m ago
 
 ---
 
@@ -187,11 +181,19 @@ OpenAI • 1d ago
 
 ---
 
-**[AI-related layoffs a boost for stocks? Not necessarily](https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html)**
+**[AI startups can succeed in Massachusetts. This billion-dollar deal shows why.](https://www.bostonglobe.com/2026/05/17/business/massachusetts-artificial-intelligence-startup-deal/)**
 
-The data underscores an uncomfortable reality.
+AI companies here hope to wrest some of the attention and investment away from Silicon Valley.
 
-CNBC • 3h ago
+The Boston Globe • 5h ago
+
+---
+
+**[Arizona students boo former Google CEO Eric Schmidt as he talks about AI during graduation speech](https://www.businessinsider.com/students-boo-eric-schmidt-google-ceo-ai-university-arizona-2026-5)**
+
+Eric Schmidt, the former Google CEO, faced jeers and boos during a commencement address at the University of Arizona's graduation ceremony on Friday.
+
+Business Insider • 21h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 3h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 2056 • 💬 1206 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 2061 • 💬 1210 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -219,7 +221,7 @@ It's so god damn tempting to use AI to write. Whether it is articles, code, or d
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 404 • 💬 426 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 404 • 💬 428 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -231,6 +233,14 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 ---
 
+**[I don't think AI will make your processes go faster](https://news.ycombinator.com/item?id=48168221)**
+
+Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
+
+⬆️ 334 • 💬 261 • 5h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+
+---
+
 **[Ontario auditors find doctors' AI note takers routinely blow basic facts](https://news.ycombinator.com/item?id=48142188)**
 
 60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
@@ -239,11 +249,11 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 ---
 
-**[I don't think AI will make your processes go faster](https://news.ycombinator.com/item?id=48168221)**
+**[Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://news.ycombinator.com/item?id=48168056)**
 
-Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
+Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.
 
-⬆️ 286 • 💬 227 • 4h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+⬆️ 281 • 💬 254 • 6h ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
 
 ---
 
@@ -252,14 +262,6 @@ Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the in
 More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
 
 ⬆️ 265 • 💬 102 • 2d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
-
----
-
-**[Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://news.ycombinator.com/item?id=48168056)**
-
-Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.
-
-⬆️ 238 • 💬 197 • 5h ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
 
 ---
 
@@ -289,7 +291,7 @@ The Trillion Dollar AI Lie is already reshaping the global economy. OpenAI, NVID
 
 📺 The Infographics Show
 
-👁️ 21K • 👍 1K • 💬 346 • ⏱️ 19:36 • 1h ago
+👁️ 21K • 👍 1K • 💬 346 • ⏱️ 19:36 • 2h ago
 
 ---
 
@@ -309,7 +311,7 @@ Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town
 
 📺 Breaking Points
 
-👁️ 105K • 👍 4K • 💬 634 • ⏱️ 12:40 • 1d ago
+👁️ 105K • 👍 4K • 💬 634 • ⏱️ 12:40 • 2d ago
 
 ---
 
@@ -319,7 +321,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 154K • 👍 8K • 💬 913 • ⏱️ 25:36 • 16h ago
+👁️ 154K • 👍 8K • 💬 913 • ⏱️ 25:36 • 17h ago
 
 ---
 
@@ -395,7 +397,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 683 • 9h ago
+⬇️ 56,518 • ❤️ 683 • 10h ago
 
 ---
 
@@ -431,7 +433,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 185,303 • ❤️ 219 • 2h ago
+⬇️ 185,303 • ❤️ 219 • 3h ago
 
 ---
 
@@ -455,7 +457,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 181,425 • ❤️ 202 • 2h ago
+⬇️ 181,425 • ❤️ 202 • 3h ago
 
 ---
 
@@ -489,7 +491,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
 
-⬇️ 524,067 • ❤️ 1,370 • 2d ago
+⬇️ 524,067 • ❤️ 1,370 • 3d ago
 
 ---
 
@@ -670,7 +672,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.7k • 🔱 201 • 1h ago
+⭐ 3.7k • 🔱 201 • 2h ago
 
 ---
 
@@ -680,7 +682,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.5k • 🔱 364 • 34s ago
+⭐ 3.5k • 🔱 364 • 1h ago
 
 ---
 
@@ -690,7 +692,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 891 • 32m ago
+⭐ 3.1k • 🔱 891 • 1h ago
 
 ---
 
@@ -700,7 +702,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 358 • 18h ago
+⭐ 2.9k • 🔱 358 • 19h ago
 
 ---
 
@@ -710,7 +712,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.7k • 🔱 327 • 6h ago
+⭐ 2.7k • 🔱 327 • 7h ago
 
 ---
 
@@ -720,7 +722,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 156 • 5h ago
+⭐ 2.3k • 🔱 156 • 6h ago
 
 ---
 
@@ -740,7 +742,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 326 • 4h ago
+⭐ 2.1k • 🔱 326 • 5h ago
 
 ---
 
