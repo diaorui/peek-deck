@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T07:55:59.353071+00:00'
+updated: '2026-05-17T09:47:59.086365+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 07:55 UTC  
+**Last Updated:** May 17, 2026 at 09:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance](https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/)**
+
+Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
+
+49m ago
+
+---
+
 **[We keep saying AI "understands" things. Does it? Or are we just pattern-matching our own anthropomorphism?](https://www.reddit.com/r/artificial/comments/1tew6gr/we_keep_saying_ai_understands_things_does_it_or/)**
 
 Every week there's a new paper or tweet claiming some model "understands" context, "reasons" about math, or "knows" what it doesn't know. But when you look closely, there's almost no consensus on what "understanding" even means — philosophically or empirically. Searle's Chinese Room argument is 40 years old and still hasn't been cleanly resolved. The "stochastic parrot" framing treats token prediction as the ceiling. Integrated Information Theory would say current architectures are near-zero in phi. And yet GPT-4 passes the bar exam. A few questions I've been sitting with: Is "understanding" even the right frame — or is it a folk-psychology term we're forcing onto a system that operates on completely different principles? Does it matter if a model "truly understands" if the outputs are indistinguishable from someone who does? Are we anthropomorphizing because it's useful shorthand — or because we genuinely don't have better language yet? I've been going deep on AI + philosophy of mind for a channel I run (@ContextByRaj on YouTube if you're into this space). But genuinely curious what this community thinks — especially people coming from ML or cognitive science backgrounds. Where do you land on this?
 
-16h ago
+18h ago
 
 ---
 
@@ -49,7 +57,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 I think we’re underestimating how chaotic enterprise AI adoption actually is inside large companies. From the outside, it looks simple: buy better models add copilots automate workflows deploy AI agents increase productivity But inside many enterprises, CIOs and CTOs are dealing with a much deeper problem: The organization itself is fragmented. Customer data exists across: CRM systems billing platforms support tools spreadsheets emails regional databases legacy systems nobody fully understands anymore And every system describes the “same customer” differently. Then leadership says: “Scale AI faster.” But scale AI on top of what exactly? Which system represents reality correctly? The CRM? The support history? The risk engine? The finance system? The employee’s undocumented tribal knowledge? This is where a lot of enterprise AI projects quietly break down. Not because the models are weak. But because the enterprise itself lacks a coherent representation of its own operations. And the tension gets worse: Boards want acceleration. Employees are already using AI unofficially. Vendors promise transformation in 90 days. Meanwhile CIOs still don’t have clear answers to questions like: Which workflows actually need AI? Which should remain deterministic automation? Where is human judgment still critical? Which data is trustworthy enough for AI decisions? Who owns accountability when AI influences actions? So companies launch pilots. The pilot works. Executives celebrate. Then scaling fails because the pilot never encountered the full institutional complexity of the enterprise. I’m increasingly convinced the next enterprise AI bottleneck is not model capability. It’s organizational legibility. The companies that win with AI may not be the ones with the smartest models. They may be the ones whose internal reality is structured clearly enough for AI to operate safely. Curious how many people here are seeing the same thing inside their organizations. :::
 
-17h ago
+18h ago
 
 ---
 
@@ -58,6 +66,14 @@ I think we’re underestimating how chaotic enterprise AI adoption actually is i
 While tech companies see AI data centers as the future, many Americans are becoming increasingly unhappy about having them built nearby.
 
 🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/recent-poll-shows-that-70-of-americans-dont-want-ai-data-centers-being-built-near-their-homes/) • 1d ago
+
+---
+
+**[Making an AI companion that degrades over time](https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/)**
+
+I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
+
+17h ago
 
 ---
 
@@ -77,11 +93,11 @@ I came across a Stanford research paper that actually went inside companies runn
 
 ---
 
-**[Making an AI companion that degrades over time](https://www.reddit.com/r/artificial/comments/1texbv6/making_an_ai_companion_that_degrades_over_time/)**
+**[Serious question: if humans vanished tomorrow how long would AI civilisation last?](https://www.reddit.com/r/artificial/comments/1tfk5ve/serious_question_if_humans_vanished_tomorrow_how/)**
 
-I am a student at Umeå University in Sweden, currently writing my Master's thesis with a focus on AI companions. My study aims to suggest new ways of helping people who want to stop using AI companions but, for whatever reason, to do it cant bring themselves to do it. The goal is to inform the design of future AI technologies. For those who wish to receive more information, please feel free to contact me, Sahand Salimi In this part, you will be seeing a simulation of the same conversation between an AI companion and a user happen across three different times with an AI companion, with the AI companion having degraded in different aspects, and answer a few questions. I am super interested in how you, a user or ex-user, find AI companions and how you would react to it degrading over time, what type of AI companion you have used in the past, what type of AI companion you use currently, reasons for your use, and your frustrations with AI companions. You have been invited to share your unique life experiences; no special background or training is needed. Your answer is completely anonymous and will only be used for this study. Also, I am following GDPR standards and our university's guidelines. You can see them here: umu.se/gdpr Link to survey It's important to note that this study is not studying, diagnosing, or prescribing clinical addiction or treatment; instead, the goal is to inform the design of future AI technologies.
+I think a lot of AI discourse quietly skips over dependency chains. If humanity disappeared tomorrow what exactly happens to current LLMs? A lot of people talk about these systems as if they are proto civilisations waiting to escape human limitation and continue evolving independently. But would they? When you strip away all the hype modern AI still sits on top of an enormous inherited stack of human structure: Human language Human memory Human labelled reality Human built infrastructure Human maintained datacentres Human energy grids Human chip manufacturing Human feedback loops Human incentives Human institutions Even the “intelligence” itself is trained almost entirely on compressed human civilisation. I now understand models can generalise. They can infer patterns. They can form internal abstractions beyond rote memorisation. That part is clearly true. But inference over WHAT? Remove humans entirely and current systems do not continue building civilisation they gradually become disconnected from reality itself. So: No new grounding data. No maintenance. No semiconductor supply chain. No evolving human context. No fresh interaction with the physical world. No repair of infrastructure. Eventually the system is inferencing over increasingly stale representations of a civilisation that no longer exists. This is where I think a lot of AI discussions become confused. People collapse several completely different concepts into one another: Pattern prediction > consciousness Generalisation > agency Output fluency > autonomy Intelligence > independence The closer some people get to the technology the more they seem to mistake functional capability for a superior lifeform emerging lol. To me current AI looks less like an independent civilisation and more like a gigantic mirror of human civilisation itself. An extraordinarily powerful mirror. But still a mirror. Curious where people agree or disagree with this?
 
-16h ago
+47m ago
 
 ---
 
@@ -97,23 +113,7 @@ I was thinking that as AI and basically neural nets, couldn't AI in video games 
 
 But is there an industry need for it ... It's smth like vlc media player of memory systems ... My team thinks it's hard to make money from it or its hard to sell ... What do y'all think In this system it's like you can fetch like zep for your temporal needs , store like letta if needed , traverse like mempalace or hindsight etc all in one place Thoughts?
 
-16h ago
-
----
-
-**[We compiled 42 of the Generative & Agentic AI interview questions (and how to actually answer them).](https://www.reddit.com/r/artificial/comments/1tew06b/we_compiled_42_of_the_generative_agentic_ai/)**
-
-Hey Everyone, The AI engineering job market has shifted massively in the last 6 months. Interviewers are no longer just asking "how does a transformer work?" or "how do you write a good prompt?" They want to know if you can architect production-grade multi-agent systems, prevent RAG hallucinations, and manage state across LLM calls. I’ve been building a visual learning sandbox for multi-agent workflows (agentswarms.fyi), and today I just launched a completely free AI Interview Prep Module inside it. I compiled 42 top interview questions specifically for GenAI and Agentic AI roles. But instead of just giving a generic answer, the module breaks down the "Standout Answer" and teaches you the mental model of how to answer it like a senior architect. Here are two examples from the list: Question 1: When would you use a Multi-Agent Swarm instead of a single LLM with multiple tools? ❌ The average answer: "When the task is too complex, multiple agents are better than one." ✅ The standout answer: "You use a swarm to prevent context dilution and enforce the Principle of Least Privilege. If you give one 'God Agent' 15 tools and a 4k-word system prompt, its reliability drops and hallucination risk spikes. By routing to specialized sub-agents with narrow instructions (e.g., separating the 'Data Extraction Agent' from the 'Customer Chat Agent'), you isolate failure points and allow for parallel execution." Question 2: How do you handle hallucinations in a financial RAG pipeline? ❌ The average answer: "I would lower the temperature to 0 and give it a better system prompt." ✅ The standout answer: "I would decouple data extraction from text generation. I'd use a deterministic node or a strict JSON-enforced agent to only extract the hard numbers from the retrieved context. Then, I would pass that structured data to a separate Synthesis Agent. Finally, I'd implement an 'LLM-as-a-judge' evaluation loop before returning the final output to the user." What's in the full list? The 42 questions cover: RAG Architecture & Vector Databases Agentic Routing (ReAct vs. Planner-Executor) Evaluation metrics for non-deterministic outputs Security (Prompt injection prevention in multi-agent loops) You can read through all 42 questions, answers, and the "how to answer" breakdowns right in the dashboard here: https://agentswarms.fyi/interview-questions For those of you who have interviewed for AI Engineering roles recently, what is the hardest system design question you've been asked? I'd love to add it to the list.
-
-16h ago
-
----
-
-**[Your AI agent is one poisoned webpage away from doing something catastrophic](https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/)**
-
-If your agent browses the web, reads emails, or pulls from a database — any of that content can contain hidden instructions that hijack it. This isn’t theoretical. It’s happening in production right now. A webpage footer tells your agent to forward credentials. An email signature tells it to ignore its guidelines. A retrieved document tells it to change behavior. The model has no idea the content isn’t a legitimate instruction. The fix isn’t better prompt filtering. It’s source-aware authority enforcement. Every content chunk should carry a trust level. Webpages, emails, tool outputs — zero instruction authority. They can provide data. They cannot tell your agent what to do. That’s what Arc Gate does. It sits between your app and your LLM and enforces instruction-authority boundaries at the proxy level. When untrusted content tries to become an instruction source, it gets blocked or sandboxed before the model ever sees it. One line to try it: from langchain\_arcgate import ArcGateCallback from langchain\_openai import ChatOpenAI llm = ChatOpenAI(callbacks=\[ArcGateCallback(api\_key="demo")\]) Live red team environment: https://web-production-6e47f.up.railway.app/break-arc-gate GitHub: https://github.com/9hannahnine-jpg/arc-gate Looking for teams actively deploying agents who want to test this on real workloads. Free access in exchange for feedback.​​​​​​​​​​​​​​​​
-
-9h ago
+17h ago
 
 ---
 
@@ -121,49 +121,47 @@ If your agent browses the web, reads emails, or pulls from a database — any of
 
 ## Google News: "ai"
 
+**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)**
+
+OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.
+
+OpenAI • 22h ago
+
+---
+
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 19h ago
+Fortune • 21h ago
 
 ---
 
-**[Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination)**
+**[Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes](https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes)**
 
-The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense
+‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia
 
-The Guardian • 19h ago
+The Guardian • 2h ago
 
 ---
 
-**[New NRG Energy CEO leans into growth with ‘bring your own power’ for the AI boom and ‘virtual power plants’](https://fortune.com/2026/05/17/new-nrg-energy-ceo-leans-growth-bring-your-own-power-ai-boom-virtual-power-plants/)**
+**[12 Amazon employees share what it's really like after layoffs and with strict RTO and AI monitoring](https://www.businessinsider.com/amazon-employees-layoffs-ai-return-to-office-rto-tracking-2026-5)**
 
-Robert Gaudette takes over ready to tackle the power constraints of AI and the affordability concerns of residents.
+We spoke to 12 current and former Amazon workers about how layoffs, AI, and return-to-office rules reshaped their jobs in recent years.
 
-Fortune • 47m ago
+Business Insider • 32m ago
+
+---
+
+**[How Amazon Went From an AI Also-Ran to a Real Contender](https://www.wsj.com/tech/ai/how-amazon-went-from-an-ai-also-ran-to-a-real-contender-ed596336)**
+
+WSJ • 17m ago
 
 ---
 
 **[Opinion | My Classmate, ChatGPT](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
 
-The New York Times • 2h ago
-
----
-
-**[He’s king of the AI boom. Why do former colleagues say he can’t be trusted?](https://www.washingtonpost.com/technology/2026/05/16/elon-musk-trial-against-sam-altman-renews-questions-about-his-honesty/)**
-
-Testimony in a case brought by Elon Musk has given new force to persistent questions about the trustworthiness of OpenAI’s CEO Sam Altman.
-
-The Washington Post • 15h ago
-
----
-
-**[Seth Rogen Says If “Your Instinct Is to Use AI” to Write Scripts, “You Shouldn’t Be a Writer”](https://www.hollywoodreporter.com/tv/tv-news/seth-rogen-ai-write-scripts-shouldnt-be-a-writer-1236597822/)**
-
-'The Studio' creator said people who are thinking about using the technology to aid their writing skills should try another occupation: "Go do something else."
-
-The Hollywood Reporter • 8h ago
+The New York Times • 4h ago
 
 ---
 
@@ -171,29 +169,27 @@ The Hollywood Reporter • 8h ago
 
 Bill Ackman's Pershing Square fund has taken a major new position in Microsoft (NasdaqGS:MSFT), going public with the stake as other large investors such as TCI and the Gates Foundation have been reducing their holdings. The move comes as Microsoft ramps up its AI efforts beyond OpenAI, including interest in larger AI startup acquisitions, an expanded partnership with OneStream in enterprise finance, and visible traction for new AI products. Ackman cites Azure, Microsoft 365, evolving AI...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[I used AI to help market my bagel shop. Then the one-star reviews came in.](https://www.businessinsider.com/bagel-shop-owner-removes-ai-social-media-marketing-2026-5)**
+**[Chinese AI groups pull ahead of US rivals in video generation race](https://www.ft.com/content/9804b1de-653b-40b2-bffb-17c76ebebe34?syn-25a6b1a6=1)**
 
-Adam Jones tried using AI to edit the social media posts for Myers' Bagels. After customer outcry, he apologized — but isn't anti-AI.
+ByteDance and Kuaishou outshine western rivals, lifting AI video quality across advertising and entertainment
 
-Business Insider • 23h ago
+Financial Times • 5h ago
 
 ---
 
 **[Bond Selloff Threatens to Knock AI Stock Frenzy Off Course](https://www.bloomberg.com/news/articles/2026-05-16/bond-selloff-threatens-to-knock-ai-stock-frenzy-off-course)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 20h ago
 
 ---
 
-**[Is AMD a Top Artificial Intelligence (AI) Stock to Buy?](https://www.fool.com/investing/2026/05/16/is-amd-a-top-artificial-intelligence-ai-stock-to/)**
+**[Reality deficit: how South Korea lost the plot on AI](https://www.scmp.com/week-asia/lifestyle-culture/article/3353740/reality-deficit-how-south-korea-lost-plot-ai)**
 
-The market loved AMD's latest quarter.
-
-The Motley Fool • 16h ago
+South China Morning Post • 6h ago
 
 ---
 
@@ -203,7 +199,7 @@ The Motley Fool • 16h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 1941 • 💬 1139 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 1964 • 💬 1150 • 1d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -237,7 +233,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 370 • 💬 368 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 377 • 💬 382 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -275,7 +271,7 @@ Soon, access to frontier AI will be scarce and selective
 
 **[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
 
-⬆️ 153 • 💬 238 • 13h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+⬆️ 156 • 💬 245 • 15h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 
 ---
 
@@ -309,7 +305,7 @@ We're all seeing more and more AI generated content online, and sometimes it's h
 
 📺 Paper Skylines
 
-👁️ 407 • 👍 7 • 💬 2 • ⏱️ 0:32 • 29m ago
+👁️ 407 • 👍 7 • 💬 2 • ⏱️ 0:32 • 2h ago
 
 ---
 
@@ -319,7 +315,7 @@ Head to https://betterhelp.com/infographics to get 10% off your first month with
 
 📺 The Infographics Show
 
-👁️ 181K • 👍 6K • 💬 1K • ⏱️ 19:17 • 16h ago
+👁️ 181K • 👍 6K • 💬 1K • ⏱️ 19:17 • 18h ago
 
 ---
 
@@ -359,7 +355,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 33 • 💬 8 • ⏱️ 8:06 • 7h ago
+👁️ 1K • 👍 33 • 💬 8 • ⏱️ 8:06 • 9h ago
 
 ---
 
@@ -379,7 +375,7 @@ What drives the tech titans behind the AI arms race? For some, it's the thrill o
 
 📺 Bloomberg Television
 
-👁️ 34K • 👍 762 • 💬 94 • ⏱️ 12:11 • 17h ago
+👁️ 34K • 👍 762 • 💬 94 • ⏱️ 12:11 • 19h ago
 
 ---
 
@@ -395,7 +391,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 658 • 51m ago
+⬇️ 56,518 • ❤️ 658 • 2h ago
 
 ---
 
@@ -443,7 +439,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 185,303 • ❤️ 209 • 19h ago
+⬇️ 185,303 • ❤️ 209 • 21h ago
 
 ---
 
@@ -455,7 +451,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 181,425 • ❤️ 189 • 19h ago
+⬇️ 181,425 • ❤️ 189 • 21h ago
 
 ---
 
@@ -499,7 +495,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specializing in ani
 
 Provides fixed Jinja chat templates for Qwen 3.5 & 3.6 models, resolving issues with tool calling, KV cache hit rates, and agentic loop stability for improved conversational AI and tool interaction.
 
-⬇️ 0 • ❤️ 248 • 18h ago
+⬇️ 0 • ❤️ 248 • 20h ago
 
 ---
 
@@ -650,7 +646,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 13.1k • 🔱 3.0k • 19d ago
+⭐ 13.1k • 🔱 3.0k • 20d ago
 
 ---
 
@@ -670,7 +666,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.5k • 🔱 185 • 1m ago
+⭐ 3.5k • 🔱 185 • 1h ago
 
 ---
 
@@ -680,7 +676,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.4k • 🔱 349 • 16h ago
+⭐ 3.4k • 🔱 349 • 17h ago
 
 ---
 
@@ -690,7 +686,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 888 • 13h ago
+⭐ 3.1k • 🔱 888 • 15h ago
 
 ---
 
@@ -700,7 +696,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 2.9k • 🔱 353 • 9h ago
+⭐ 2.9k • 🔱 353 • 11h ago
 
 ---
 
@@ -710,7 +706,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.6k • 🔱 305 • 16h ago
+⭐ 2.6k • 🔱 305 • 18h ago
 
 ---
 
@@ -720,7 +716,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.3k • 🔱 154 • 1h ago
+⭐ 2.3k • 🔱 154 • 3h ago
 
 ---
 
@@ -740,7 +736,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 323 • 1d ago
+⭐ 2.1k • 🔱 323 • 2d ago
 
 ---
 

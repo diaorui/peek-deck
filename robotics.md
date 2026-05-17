@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T07:55:59.368555+00:00'
+updated: '2026-05-17T09:47:59.101984+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 07:55 UTC  
+**Last Updated:** May 17, 2026 at 09:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-2h ago
+4h ago
 
 ---
 
 **[3 Robots, 6 Arms ,Perfectly Synchronized Pick-and-Place Automation](https://www.reddit.com/r/robotics/comments/1tez7kk/3_robots_6_arms_perfectly_synchronized/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old DC motors with slip rings AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-4h ago
+6h ago
 
 ---
 
@@ -58,21 +58,19 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 Unitree just unveiled the GD01 which they are calling the world's first mass produced manned mecha built for civilian use. Here are the actual numbers: Height: roughly 11 feet tall Weight: 500kg with pilot inside Built from high strength alloy Transforms from bipedal to quadruped mode in seconds Powerful enough to knock down a brick wall with one push Designed for rough terrain transport and exploration Starting price: 3.9 million yuan (around $574,000) The founder Wang Xingxing climbed inside and rode it himself during the demo. The machine walks forward, smashes through a stack of concrete blocks, then folds into four legged mode to keep moving across uneven ground.
 
-16h ago
+18h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-1h ago
+3h ago
 
 ---
 
-**[Unitree Go2 Pro: RR Shank Motor Fault : Anyone Seen This?](https://www.reddit.com/r/robotics/comments/1tfi9ke/unitree_go2_pro_rr_shank_motor_fault_anyone_seen/)**
+**[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
 
-So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome. https://reddit.com/link/1tfi9ke/video/7ks6e8n7gn1h1/player
-
-43m ago
+4m ago
 
 ---
 
@@ -84,6 +82,14 @@ So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but hea
 
 ---
 
+**[Unitree Go2 Pro - RR Shank Motor Fault - Accumulated Loss - Anyone Seen This?](https://www.reddit.com/r/robotics/comments/1tf6fb4/unitree_go2_pro_rr_shank_motor_fault_accumulated/)**
+
+So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome.
+
+12h ago
+
+---
+
 **[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
 
 1d ago
@@ -92,15 +98,7 @@ So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but hea
 
 **[robotics as a teenager](https://www.reddit.com/r/robotics/comments/1tf135f/robotics_as_a_teenager/)**
 
-13h ago
-
----
-
-**[Strandy-BOT first prototype](https://www.reddit.com/r/robotics/comments/1tdy3a7/strandybot_first_prototype/)**
-
-Just finished putting together the first prototype of my robot project. It uses esp32s3 as the main controller and a xiao esp32s3 cam to stream camera and microphone feed. The leg mechanism is based on the strandbeest linkage and it is controlled by two nema17 steppers run by tmc2209 drivers. It also has a fan internally to keep temps adequate. As for sensors it has a TOF sensor to measure distance from objects and an IMU to detect its movement. The end goal is to make an open source companion robot that acts and feels alive by responding and viewing the world being powered by modern AI crap as you guys know it’s getting pushed everywhere, at least I’m giving it a physical body.
-
-1d ago
+15h ago
 
 ---
 
@@ -138,6 +136,14 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[We Need to Move Beyond Robot Doomerism](https://jacobin.com/2026/05/robots-ai-automation-workers-planning)**
+
+“The robots are coming” need not be understood as heralding the apocalypse. An automated society in which states and worker-owned enterprises use technology to serve public ends while meeting individual needs is entirely consistent with the good life.
+
+Jacobin • 18h ago
+
+---
+
 **[Amazon's next CT warehouse will have 'advanced' robots. What does that mean for human employees, customers?](https://www.ctinsider.com/business/article/amazon-robotics-ct-warehouse-retail-technology-22258632.php)**
 
 CT Insider • 1d ago
@@ -166,19 +172,11 @@ Stuff • 1d ago
 
 ---
 
-**[We Need to Move Beyond Robot Doomerism](https://jacobin.com/2026/05/robots-ai-automation-workers-planning)**
-
-“The robots are coming” need not be understood as heralding the apocalypse. An automated society in which states and worker-owned enterprises use technology to serve public ends while meeting individual needs is entirely consistent with the good life.
-
-Jacobin • 16h ago
-
----
-
 **['The behind the scenes process can be just as magical, if not even more so' — Disney pulled back the curtain on Imagineering’s robotics lab during its Week of Wishes for a young fan — and showed how its next-gen characters come to life](https://www.techradar.com/streaming/entertainment/disney-pulled-back-the-curtain-on-imagineerings-robotics-lab-during-its-week-of-wishes-for-a-young-fan-and-showed-how-its-next-gen-characters-come-to-life)**
 
 Inside a young fan’s wish visit to Disney Imagineering
 
-TechRadar • 7h ago
+TechRadar • 9h ago
 
 ---
 
@@ -232,7 +230,7 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 67K • 👍 4K • 💬 479 • ⏱️ 15:32 • 16h ago
+👁️ 67K • 👍 4K • 💬 479 • ⏱️ 15:32 • 18h ago
 
 ---
 
@@ -252,7 +250,7 @@ Scene using artificial intelligence. #aiart #movie.
 
 📺 Miracle Animal Rescues
 
-👁️ 507K • 👍 2K • 💬 38 • ⏱️ 8:12 • 1d ago
+👁️ 507K • 👍 2K • 💬 38 • ⏱️ 8:12 • 2d ago
 
 ---
 
