@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-17T21:56:16.331003+00:00'
+updated: '2026-05-17T22:55:03.476283+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 21:56 UTC  
+**Last Updated:** May 17, 2026 at 22:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ A security researcher says Microsoft secretly built a backdoor into BitLocker, r
 
 A study of AI models found they overwhelmingly prefer bitcoin over fiat. The agentic economy is here, and it has already discovered the value of sound digital money.
 
-🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 18h ago
+🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 19h ago
 
 ---
 
@@ -97,19 +97,19 @@ A study of AI models found they overwhelmingly prefer bitcoin over fiat. The age
 
 Somewhere between setting up a hardware wallet and feeling good about your security setup, most Bitcoiners skip a step that matters more than the hardware. The seed phrase is secured. Nobody else knows it exists. That's not self custody succeeding. That's self custody creating a different problem. I've been thinking about this a lot lately and the solution is simpler than most people make it. You don't need multisig, a lawyer, or a complicated inheritance scheme. You need a written document that a non-technical person can follow on the worst day of their life. Here's what actually works: A letter of instruction - not in your will: Your will becomes public record through probate and takes months to process. A separate sealed document stored somewhere your family knows about is faster, private, and more practical. It doesn't need to contain your seed phrase, just a map to it. The split location approach: Store your seed phrase backup in one location. Store a short passphrase or location hint in a completely separate location, safety deposit box, trusted family member, sealed envelope with your attorney. Neither location is useful alone. Both are accessible through normal estate processes after death. A wallet inventory: Every hardware wallet, software wallet, and exchange account written down somewhere findable. Not the seed phrases, just the map. Your family needs to know what exists before they can figure out how to access it. The honeypot test: Keep a small decoy balance on a separate wallet with a seed phrase your trusted person knows. If that balance ever moves while you're alive you know your security has been compromised. The real test: Explain your recovery process out loud to whoever would inherit. If they can't follow it under normal conditions they definitely can't follow it under stress and grief. If it's too complicated to explain it's too complicated period. None of this requires sharing your actual seed phrase with anyone today. It just requires making sure the people you'd want to have your Bitcoin actually could. The lock is only useful if someone you trust can open it when it matters.
 
-9h ago
+10h ago
 
 ---
 
 **[‘A Bitcoin Evangelist Tries to Convert Me’](https://www.reddit.com/r/Bitcoin/comments/1tfv2kd/a_bitcoin_evangelist_tries_to_convert_me/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html) • 4h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html) • 5h ago
 
 ---
 
 **[The Cantillion Effect. Gnosis.](https://www.reddit.com/r/Bitcoin/comments/1tfxydf/the_cantillion_effect_gnosis/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Somewhere between setting up a hardware wallet and feeling good about your secur
 
 I am a professional in the healthcare industry. Recently, the topic of business came up amongst my colleagues, and that lead to the topic of business funding, loans, and money. The discussion was amongst employees, so naturally there was a general lack of knowledge, but one thing was clear: there was universal consensus that money, nowadays, as far as they perceived it, is fake funny money. "It's all fake now, the money isn't real, it's just numbers on a screen" is how I would paraphrase this consensus. This is another anecdotal indication that the intelligent no-coiners are generally aware, in the back of their mind at least, that fiat currency is quite fake.
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ How come you’re still not holding and buying more BTC? Every cycle, people wai
 
 With negative real yields and the broader macro setup, a lot of people are trying to figure out when retail capital actually starts flowing back into Bitcoin in size. I recently listened to a podcast discussion between Jordi Visser and Anthony Pompliano that made an interesting point: watching retail-driven moves in parts of the market with almost zero institutional participation can act as an early tell for when broader retail interest is returning - which has historically preceded stronger moves in Bitcoin. The idea is that these areas often light up first when retail is coming back, before it shows up clearly in Bitcoin’s own on-chain data or spot volumes. Has anyone here tried tracking retail flows or sentiment in other crypto markets as a leading indicator for Bitcoin? Do you find it reliable, or do you prefer sticking strictly to Bitcoin-specific metrics like the 200-day moving average, small-wallet activity, or exchange flows? Curious what’s worked (or hasn’t) for people in past cycles.
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ With negative real yields and the broader macro setup, a lot of people are tryin
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+16h ago
 
 ---
 
@@ -167,7 +167,7 @@ WSJ • 2d ago
 
 Bitcoin tested its 200-day moving average at $82,300 without closing above it. Here's exactly what's holding it back and what could break it.
 
-24/7 Wall St. • 9h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -175,13 +175,13 @@ Bitcoin tested its 200-day moving average at $82,300 without closing above it. H
 
 SkyBridge Capital founder Anthony Scaramucci suggested on Wednesday that Bitcoin is tracing an adoption path akin to that of Amazon.com Inc. and Microsoft Corp.. Scaramucci Says Bitcoin Can’t Be ‘Devalued’ During an interview with RiskReversal Media, Scaramucci said that traditional...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -189,13 +189,13 @@ CoinDesk • 9h ago
 
 Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
 
-The White Coat Investor • 15h ago
+The White Coat Investor • 16h ago
 
 ---
 
 **[Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 2d ago
 
 Mubadala Investment Company boosted its stake in BlackRock’s iShares Bitcoin Trust by 16% in Q1 2026.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin #Crypto #Finance President's Council of Advisors for Digital Assets Patr
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 710 • 💬 274 • ⏱️ 28:56 • 8h ago
+👁️ 14K • 👍 710 • 💬 274 • ⏱️ 28:56 • 9h ago
 
 ---
 
@@ -313,7 +313,7 @@ Let's talk about Bitcoin bear markets and what makes them psychologically diffic
 
 📺 Benjamin Cowen
 
-👁️ 29K • 👍 2K • 💬 140 • ⏱️ 24:00 • 6h ago
+👁️ 29K • 👍 2K • 💬 140 • ⏱️ 24:00 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 3K • 💬 293 • ⏱️ 12:17 • 7h ago
+👁️ 39K • 👍 3K • 💬 293 • ⏱️ 12:17 • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ Three massive stories just collided into one terrifying picture. BlackRock is fi
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 135 • ⏱️ 35:26 • 22h ago
+👁️ 22K • 👍 2K • 💬 135 • ⏱️ 35:26 • 23h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin is entering one of the MOST important moments of this entire cycle… an
 
 📺 Crypto Love
 
-👁️ 3K • 👍 260 • 💬 68 • ⏱️ 11:27 • 4h ago
+👁️ 3K • 👍 260 • 💬 68 • ⏱️ 11:27 • 5h ago
 
 ---
 
@@ -363,7 +363,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out 
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 284 • 💬 56 • ⏱️ 8:04 • 14h ago
+👁️ 5K • 👍 284 • 💬 56 • ⏱️ 8:04 • 15h ago
 
 ---
 

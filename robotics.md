@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T21:56:16.338857+00:00'
+updated: '2026-05-17T22:55:03.485372+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 21:56 UTC  
+**Last Updated:** May 17, 2026 at 22:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-16h ago
+17h ago
 
 ---
 
 **[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg10ks/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
 
-1h ago
+2h ago
 
 ---
 
 **[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old "DC motors " (old Nachi term to distinguish from newer integrated encoder types) with slip rings three phase AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-18h ago
+19h ago
 
 ---
 
@@ -68,19 +68,19 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 **[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg0rmj/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
 
-1h ago
+2h ago
 
 ---
 
 **[It seems like the Kinect v1 draws too much power and the data volume overwhelms my robot. It also gets hot, so everything is for nothing.](https://www.reddit.com/r/robotics/comments/1tft7vj/it_seems_like_the_kinect_v1_draws_too_much_power/)**
 
-6h ago
+7h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -116,7 +116,7 @@ NBC News • 2d ago
 
 A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
 
-Global Times • 22h ago
+Global Times • 23h ago
 
 ---
 
@@ -124,13 +124,13 @@ Global Times • 22h ago
 
 A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
 
-Euronews.com • 14h ago
+Euronews.com • 15h ago
 
 ---
 
 **[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
 
-Go Local Prov • 15h ago
+Go Local Prov • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ CT Insider • 2d ago
 
 Though they meet south of the city, Skunk Works Robotics has always attracted West Seattle students too - 10 members this past year, the club tells us. So they wanted to be sure you know they have open houses tomorrow (Saturday, May 16) and next Thursday (May 21) - and they explain that it's about more ...
 
-West Seattle Blog... • 1d ago
+West Seattle Blog... • 2d ago
 
 ---
 

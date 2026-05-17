@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T21:56:16.336173+00:00'
+updated: '2026-05-17T22:55:03.482224+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 21:56 UTC  
+**Last Updated:** May 17, 2026 at 22:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ I had no idea the Lido withdrawal process was this painful. Submitted my unstake
 
 Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, been using Uniswap for a while now but every time I try to swap any
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet. I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects.. So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps.. Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap.. Thanks in advance...
 
-8h ago
+9h ago
 
 ---
 
@@ -172,7 +172,7 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 On-chain data is pointing to another interesting accumulation move by Tom Lee’s BitMine Immersion Technologies, with a whale tracker flagging a $197.64 million Ethereum purchase routed through four newly created wallets.The latest Ethereum buy has come during a period of weakness, which has seen th…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 1h ago
 
 A $5,000 bet on XRP (CRYPTO: XRP) or Ethereum (CRYPTO: ETH) today could look very different by 2028, and the difference between the two investments is wider than most people expect. XRP has momentum behind it, Ripple’s payments business keeps growing, and the regulatory pressure that crushed the token for years has mostly faded. Meanwhile, ... $5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 2h ago
 
 Success for a blockchain isn't always the same as success for investors.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Motley Fool • 10h ago
 
 Ethereum commands 72.6% of all tokenized ETF products as the broader tokenization market targets $20 trillion by 2030. Here's why institutions keep choosing it.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Block • 3d ago
 
 NUVAFinance launches access to $19 billion Figure tokenized assets on Ethereum backed by Animoca Brands partnership.
 
-blockchain.news • 21h ago
+blockchain.news • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ blockchain.news • 21h ago
 
 Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
 
-BeInCrypto • 11h ago
+BeInCrypto • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 3K • 💬 288 • ⏱️ 12:17 • 7h ago
+👁️ 39K • 👍 3K • 💬 288 • ⏱️ 12:17 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 218 • 💬 32 • ⏱️ 23:02 • 5h ago
+👁️ 5K • 👍 218 • 💬 32 • ⏱️ 23:02 • 6h ago
 
 ---
 
@@ -260,7 +260,7 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 32 • ⏱️ 10:04 • 6h ago
+👁️ 12K • 👍 2K • 💬 32 • ⏱️ 10:04 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 624 • 💬 155 • ⏱️ 32:55 • 12h ago
+👁️ 5K • 👍 624 • 💬 155 • ⏱️ 32:55 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 377 • 💬 148 • ⏱️ 18:50 • 19h ago
+👁️ 9K • 👍 377 • 💬 148 • ⏱️ 18:50 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ tg romchekcrypto ETH ожидания.
 
 📺 Новые деньги Криптовалюты Биткоин
 
-👁️ 787 • 👍 28 • 💬 2 • ⏱️ 1:04 • 5h ago
+👁️ 787 • 👍 28 • 💬 2 • ⏱️ 1:04 • 6h ago
 
 ---
 

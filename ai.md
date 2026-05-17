@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T21:56:16.323600+00:00'
+updated: '2026-05-17T22:55:03.467330+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 21:56 UTC  
+**Last Updated:** May 17, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Per Tech Times: “More U.S. businesses paid for Anthropic's Claude than for OpenAI's ChatGPT in April 2026 — the first time in the AI industry's short history […] Anthropic's annualised revenue run rate crossed $30 billion in early April 2026, up from roughly $9 billion at the end of 2025, placing it above the approximately $24 to $25 billion annualised figure OpenAI reported at the same time. More than 1,000 enterprise customers now spend over $1 million annually on Anthropic products — a number that doubled in under two months after the company's $30 billion Series G raise in February 2026. Eight of the Fortune 10 are now Claude customers, according to Anthropic.”
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Per Tech Times: “More U.S. businesses paid for Anthropic's Claude than for Ope
 
 None would give a straight answer, so I had to coerce it out of each one (with which gemini was the most difficult). Both gemini and grok said the United States, which was fairly predictable. However, chatgpt's answer of Japan was surprising. It apparently chose Japan because of the nation's wealth, culture, and history. The most surprising one of all was claude, who answered Kenya. Claude defended its response by pointing out Kenya's geographic, cultural, and linguistic diversity, as well as its history of resilience and its capital's increasing importance as a hub of tech and innovation. Most importantly, it said that Kenya resonated deeply with it, both intellectually and aesthetically.
 
-7m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ None would give a straight answer, so I had to coerce it out of each one (with w
 
 Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted 
 
 Publicis Groupe today agreed to buy LiveRamp in an all-cash $2.5 billion deal, paying a 30% premium to fold data collaboration into its agentic AI strategy.
 
-🔗 [PPC Land](http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play) • 4h ago
+🔗 [PPC Land](http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Publicis Groupe today agreed to buy LiveRamp in an all-cash $2.5 billion deal, p
 
 Started this experiment curious, ending it with some actual opinions Month 1-3: Using AI to generate text and paste it in. Word count went up, quality went down, nothing sounded like me. Month 3-5: Realised generation was the wrong use case. started using it to interrogate my own writing instead and results smh got more interesting. Month 5-8: Figured out that output quality depends almost entirely on how much context the AI has. Same prompt, different context, completely different result. Month 8-12: Found a setup where the AI reads my actual manuscript rather than a chat window. Everything before this feels like a different tool. The learning curve is real and most people quit somewhere in months 1-3 when the generated text disappoints them. The actual value is somewhere else entirely.
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Started this experiment curious, ending it with some actual opinions Month 1-3: 
 
 I recently started learning about the basics of deep learning using just Youtube videos and gemini or claude to explain about things when i get stuck. I started with - Yann Lecunn's course, where he recommended 3blue1brown for linear algebra. 3blue1brown is a youtube channel known for explaining math with matching visuals, I really loved the way linear algebra was explained there. I saw another playlist there for DL so i started that, where a book written by Michael Nielsen called "Neural Networks and Deep Learning: Introduction to the core principles." was recommended. Then i started reading this book, its been three days - hardly finished the first chapter (lot of math), feels like i'm stuck in a rabbit hole. I'm very curious to know how it all works, but it feels really overwhelming. Am i going the right way?
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Is there a 7B parameter model in your life struggling to understand sarcasm? A t
 
 I investigated whether routing a transformer's forward activations through a lossy Dual E8 (E16) lattice bottleneck and injecting them back into the residual stream is viable, and where the boundary of generative stability lies. **The core finding:** There is a sharp empirical stability threshold at a blend ratio of $\beta = 0.20$. Beyond this boundary, open-ended generation collapses into semantic loops and repetition lock. --- ### The Mechanism Standard LLM states are high-dimensional floats. Rather than applying traditional scalar quantization (like INT4), I mapped high-dimensional activations onto a conceptual torus via a sinusoidal map and projected them onto Dual E8 lattice hemispheres. Full replacement of MLP layers with geometric bottlenecks universally collapsed the model. Instead, I implemented a residual blend: $$\text{out} = (1-\beta)\cdot\text{original} + \beta\cdot\text{geometric}$$ --- ### The $\beta = 0.20$ Sweep (Qwen2.5-0.5B) Sweeping $\beta$ from 0.10 to 0.50 across layers 8–13 of `Qwen2.5-0.5B` reveals a sharp phase transition: * **$\beta \ge 0.25$** : Generation succumbs to heavy repetition pressure and semantic drift. The geometry acts as an attractor, trapping the decoding process ("loop-lock"). * **$\beta = 0.20$** : The stability boundary. This is the highest injection ratio of lossy geometric signal that maintains both numerical activation fidelity (Avg Cosine > 0.99) and open-ended generation quality (low repeated n-grams). * **$\beta \le 0.10$** : The perturbation is largely absorbed and damped by the transformer's layer normalizations, making the intervention invisible. Here is the data from a 300-iteration sweep: | $\beta$ | Min Cosine | Avg Cosine | Max MSE | Rep-3g (Repetition Rate) | | :--- | :--- | :--- | :--- | :--- | | 0.10 | 0.9972 | 0.9979 | 0.0024 | 0.134 | | **0.20** | **0.9907** | **0.9916** | **0.0106** | **0.093** | | 0.25 | 0.9839 | 0.9865 | 0.0171 | 0.084 | | 0.30 | 0.9648 | 0.9771 | 0.0255 | 0.190 | | 0.50 | 0.9171 | 0.9288 | 0.0850 | 0.412 | Semantic scoring (evaluating prompt relevance and similarity to the unmodified baseline): | $\beta$ | Avg Cosine | Rep-3g | Relevance | Patched-to-Baseline Sim | | :--- | :--- | :--- | :--- | :--- | | 0.10 | 0.9980 | 0.223 | 0.781 | 0.889 | | **0.20** | **0.9918** | **0.075** | **0.752** | **0.854** | | 0.25 | 0.9871 | 0.232 | 0.717 | 0.801 | | 0.30 | 0.9760 | 0.392 | 0.725 | 0.764 | --- ### Generalization (1.5B & 3B Models) The $\beta = 0.20$ boundary generalizes across larger model sizes (`Qwen2.5-1.5B` and `Qwen2.5-3B` in 4-bit) on the activation-cosine axis: | Model | $\beta$ | Min Cosine | Avg Cosine | Max MSE | Rep-3g | | :--- | :--- | :--- | :--- | :--- | :--- | | **1.5B** | 0.10 | 0.9988 | 0.9989 | 0.0027 | 0.267 | | | **0.20** | **0.9862** | **0.9939** | **0.0105** | **0.128** | | | 0.25 | 0.9904 | 0.9919 | 0.0166 | 0.398 | | | 0.30 | 0.9733 | 0.9815 | 0.0235 | 0.307 | | | 0.40 | 0.9368 | 0.9551 | 0.0487 | 0.191 | | **3B (4-bit)** | 0.10 | 0.9964 | 0.9976 | 0.0122 | 0.033 | | | **0.20** | **0.9861** | **0.9904** | **0.0455** | **0.115** | | | 0.25 | 0.9604 | 0.9799 | 0.0654 | 0.043 | | | 0.30 | 0.9702 | 0.9778 | 0.0987 | 0.050 | | | 0.40 | 0.9158 | 0.9390 | 0.1728 | 0.025 | *Note: In the 3B model, repetition pressure remained low across all sweeps, but the validation cosine degraded identically at $\beta \ge 0.25$.* I also tested layer-level oscillating $\beta$ schedules (e.g., sine waves across layers), but they degraded open-ended text quality compared to a fixed, constant injection ratio. --- ### Storage Compression Prototypes Utilizing the Dual E8/E16 lattice as a computational substrate also yields high theoretical storage efficiency in early prototypes: 1. **KV Cache (8$\times$)** : FP16 KV cache compressed to INT8 coordinates, reducing footprint from 0.21 MB to 0.02 MB. 2. **Weights (112$\times$)** : Projected a dense $[4864, 896]$ MLP weight matrix down to a 0.07 MB E16 footprint. (Cosine similarity of the uncalibrated weight matrix multiplication was limited to $\sim$0.078, indicating that Quantization-Aware Training is mandatory for parameter viability). A **pre-projected decompression bypass** was designed to run matrix multiplications directly against lattice coordinates without upcasting, avoiding memory bandwidth bottlenecks. --- ### Policy Constraints (Negative Result) I evaluated whether residual E16 projection could act as a steering substrate to enforce safety policies. It cannot. While $\beta = 0.20$ preserves generation quality, the lossy nature of E16 projection strips out the logical nuances required to maintain strict boundaries. Dedicated supervised control heads remain necessary. --- ### Implications & Next Steps Snapping post-training activations to a fixed algebraic lattice is ultimately lossy. The real frontier here is **native geometric transformers** —designing and training networks from scratch with E8/E16 constraints native to both weight matrices and activation routing.
 
-4h ago
+5h ago
 
 ---
 
@@ -123,13 +123,13 @@ I think we’re underestimating how chaotic enterprise AI adoption actually is i
 
 **[Opinion | What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
 **[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -137,13 +137,13 @@ Axios • 9h ago
 
 Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
 **[Ex-Google CEO Eric Schmidt Fails to Read Room on AI, Gets Booed into Oblivion](https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763)**
 
-Gizmodo • 4h ago
+Gizmodo • 5h ago
 
 ---
 
@@ -151,7 +151,7 @@ Gizmodo • 4h ago
 
 Former Google CEO Eric Schmidt was roundly booed by students at the University of Arizona’s graduation Saturday — following backlash over his selection as commencement speaker over sex abuse allega…
 
-nypost.com • 2h ago
+nypost.com • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ nypost.com • 2h ago
 
 The artificial intelligence boom is leading to higher utility bills, and ballooning utility profits. Some states are moving to rein them in.
 
-Los Angeles Times • 49m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Los Angeles Times • 49m ago
 
 In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Washington Post • 4h ago
 
 The data underscores an uncomfortable reality.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 8h ago
 
 Alphabet has a huge advantage with its TPUs, which it developed more than a decade ago.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ TipRanks • 1d ago
 
 Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
 
-⬆️ 440 • 💬 314 • 9h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+⬆️ 440 • 💬 314 • 10h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 
 ---
 
@@ -231,7 +231,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.
 
-⬆️ 354 • 💬 362 • 10h ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
+⬆️ 354 • 💬 362 • 11h ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
 
 ---
 
@@ -239,7 +239,7 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say
 
-⬆️ 311 • 💬 138 • 2d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+⬆️ 311 • 💬 138 • 3d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 
 ---
 
@@ -247,7 +247,7 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 It’s not even a feature. It’s just technology.
 
-⬆️ 269 • 💬 100 • 8h ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+⬆️ 269 • 💬 100 • 9h ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 
 ---
 
@@ -283,7 +283,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 8K • 👍 449 • 💬 55 • ⏱️ 19:13 • 5h ago
+👁️ 8K • 👍 449 • 💬 55 • ⏱️ 19:13 • 6h ago
 
 ---
 
@@ -293,7 +293,7 @@ The Trillion Dollar AI Lie is already reshaping the global economy. OpenAI, NVID
 
 📺 The Infographics Show
 
-👁️ 87K • 👍 3K • 💬 745 • ⏱️ 19:36 • 6h ago
+👁️ 87K • 👍 3K • 💬 745 • ⏱️ 19:36 • 7h ago
 
 ---
 
@@ -313,7 +313,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 180K • 👍 9K • 💬 1K • ⏱️ 25:36 • 21h ago
+👁️ 180K • 👍 9K • 💬 1K • ⏱️ 25:36 • 22h ago
 
 ---
 
@@ -343,7 +343,7 @@ These AI facts will completely disturb you! 8 disturbing facts about AI and Chat
 
 📺 Hidden Facts
 
-👁️ 1K • 👍 20 • 💬 2 • ⏱️ 0:06 • 2h ago
+👁️ 1K • 👍 20 • 💬 2 • ⏱️ 0:06 • 3h ago
 
 ---
 
@@ -353,7 +353,7 @@ Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevo
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 66 • ⏱️ 14:53 • 1d ago
+👁️ 42K • 👍 1K • 💬 66 • ⏱️ 14:53 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 686 • 14h ago
+⬇️ 56,518 • ❤️ 686 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 970,124 • ❤️ 1,067 • 3h ago
+⬇️ 970,124 • ❤️ 1,067 • 4h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 185,303 • ❤️ 226 • 7h ago
+⬇️ 185,303 • ❤️ 226 • 8h ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 181,425 • ❤️ 209 • 7h ago
+⬇️ 181,425 • ❤️ 209 • 8h ago
 
 ---
 
@@ -473,7 +473,7 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 144,833 • ❤️ 521 • 5d ago
+⬇️ 144,833 • ❤️ 521 • 6d ago
 
 ---
 
@@ -674,7 +674,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.6k • 🔱 367 • 4h ago
+⭐ 3.6k • 🔱 367 • 5h ago
 
 ---
 
@@ -684,7 +684,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 894 • 5h ago
+⭐ 3.1k • 🔱 894 • 6h ago
 
 ---
 
@@ -694,7 +694,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 3.0k • 🔱 358 • 23h ago
+⭐ 3.0k • 🔱 358 • 1d ago
 
 ---
 
@@ -704,7 +704,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.8k • 🔱 328 • 11h ago
+⭐ 2.8k • 🔱 328 • 12h ago
 
 ---
 
@@ -714,7 +714,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.4k • 🔱 157 • 10h ago
+⭐ 2.4k • 🔱 157 • 11h ago
 
 ---
 
@@ -734,7 +734,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 326 • 9h ago
+⭐ 2.1k • 🔱 326 • 10h ago
 
 ---
 
