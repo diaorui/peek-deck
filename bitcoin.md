@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-17T15:37:27.977168+00:00'
+updated: '2026-05-17T16:57:56.979765+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 15:37 UTC  
+**Last Updated:** May 17, 2026 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.2%  
-**7d:** -4.6%  
+**7d:** -4.5%  
 **30d:** +3.1%  
-**90d:** +15.6%  
+**90d:** +15.7%  
 **1y:** -26.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1565.01B
+**Market Cap:** $1563.42B
 Rank #1
 
 **Circulating Supply:** 20,030,493 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.0%
+-38.1%
 
 **All-Time Low:** $67.81
-+115116.0%
++114986.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 A study of AI models found they overwhelmingly prefer bitcoin over fiat. The agentic economy is here, and it has already discovered the value of sound digital money.
 
-🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 12h ago
+🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 13h ago
 
 ---
 
@@ -89,7 +89,7 @@ A study of AI models found they overwhelmingly prefer bitcoin over fiat. The age
 
 Somewhere between setting up a hardware wallet and feeling good about your security setup, most Bitcoiners skip a step that matters more than the hardware. The seed phrase is secured. Nobody else knows it exists. That's not self custody succeeding. That's self custody creating a different problem. I've been thinking about this a lot lately and the solution is simpler than most people make it. You don't need multisig, a lawyer, or a complicated inheritance scheme. You need a written document that a non-technical person can follow on the worst day of their life. Here's what actually works: A letter of instruction - not in your will: Your will becomes public record through probate and takes months to process. A separate sealed document stored somewhere your family knows about is faster, private, and more practical. It doesn't need to contain your seed phrase, just a map to it. The split location approach: Store your seed phrase backup in one location. Store a short passphrase or location hint in a completely separate location, safety deposit box, trusted family member, sealed envelope with your attorney. Neither location is useful alone. Both are accessible through normal estate processes after death. A wallet inventory: Every hardware wallet, software wallet, and exchange account written down somewhere findable. Not the seed phrases, just the map. Your family needs to know what exists before they can figure out how to access it. The honeypot test: Keep a small decoy balance on a separate wallet with a seed phrase your trusted person knows. If that balance ever moves while you're alive you know your security has been compromised. The real test: Explain your recovery process out loud to whoever would inherit. If they can't follow it under normal conditions they definitely can't follow it under stress and grief. If it's too complicated to explain it's too complicated period. None of this requires sharing your actual seed phrase with anyone today. It just requires making sure the people you'd want to have your Bitcoin actually could. The lock is only useful if someone you trust can open it when it matters.
 
-2h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
 
-15h ago
+16h ago
 
 ---
 
@@ -113,21 +113,13 @@ How come you’re still not holding and buying more BTC? Every cycle, people wai
 
 I am a professional in the healthcare industry. Recently, the topic of business came up amongst my colleagues, and that lead to the topic of business funding, loans, and money. The discussion was amongst employees, so naturally there was a general lack of knowledge, but one thing was clear: there was universal consensus that money, nowadays, as far as they perceived it, is fake funny money. "It's all fake now, the money isn't real, it's just numbers on a screen" is how I would paraphrase this consensus. This is another anecdotal indication that the intelligent no-coiners are generally aware, in the back of their mind at least, that fiat currency is quite fake.
 
-2h ago
+3h ago
 
 ---
 
 **[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
 
-17h ago
-
----
-
-**[Daily Discussion, May 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1tfh3gc/daily_discussion_may_17_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
+18h ago
 
 ---
 
@@ -135,7 +127,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 and you will see
 
-15h ago
+16h ago
+
+---
+
+**[Daily Discussion, May 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1tfh3gc/daily_discussion_may_17_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+10h ago
 
 ---
 
@@ -143,15 +143,15 @@ and you will see
 
 Happens to me again boys, just bought and it dips lmao
 
-13h ago
+15h ago
 
 ---
 
-**[Why Wall Street is Watching the Rise of Programmable Bitcoin Privacy](https://www.reddit.com/r/Bitcoin/comments/1tfrz21/why_wall_street_is_watching_the_rise_of/)**
+**[An interesting read on Satoshi Nakamoto (PDF file)](https://www.reddit.com/r/Bitcoin/comments/1tf4fgy/an_interesting_read_on_satoshi_nakamoto_pdf_file/)**
 
-Institutional capital is starting to focus on Bitcoin Layer 2 infrastructure, native yield systems, and programmable privacy solutions as the next evolution of digital finance. Why Wall Street is Watching the Rise of Programmable Bitcoin Privacy
+The mystery about the ingenious creator of Bitcoin concealing behind the pseudonym Satoshi Nakamoto has been fascinating the global public for more than a decade. Suddenly jumping out of the dark in 2008, this persona hurled the decentralized electronic cash system "Bitcoin", which has reached a peak market capitalization in the region of 1 trillion USD. In a purposely agnostic, and meticulous "lea-ving no stone unturned" approach, this study presents new hard facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy shield, and derives meaningful pointers that are primarily inferred from Bitcoin's whitepaper, its blockchain parameters, and data that were widely up to his discretion. This ample stack of established and novel evidence is systematically categorized, analyzed, and then connected to its related, real-world ambient, like relevant locations and happenings in the past, and at the time. Evidence compounds towards a substantial role of the Benelux cryptography ecosystem, with strong transatlantic links, in the creation of Bitcoin. A consistent biography, a psychogram, and gripping story of an ingenious, multi-talented, autodidactic, reticent, and capricious polymath transpire, which are absolutely unique from a history of science and technology perspective. A cohort of previously fielded and best matches emerging from the investigations are probed against an unprecedently restrictive, multi-stage exclusion filter, which can, with maximum certainty, rule out most "Satoshi Nakamoto" candidates, while some of them remain to be confirmed. With this article, you will be able to decide who is not, or highly unlikely to be Satoshi Nakamoto, be equipped with an ample stack of systematically categorized evidence and efficient methodologies to find suitable candidates, and can possibly unveil the real identity of the creator of Bitcoin - if you want.
 
-35m ago
+🔗 [arXiv.org](https://arxiv.org/abs/2206.10257) • 20h ago
 
 ---
 
@@ -159,9 +159,25 @@ Institutional capital is starting to focus on Bitcoin Layer 2 infrastructure, na
 
 ## Google News: "bitcoin"
 
-**[It’s a More Secret Version of Bitcoin and It’s on a Tear](https://www.wsj.com/finance/currencies/zcash-crypto-winklevoss-78d71d51)**
+**[President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades](https://finance.yahoo.com/markets/crypto/articles/president-trump-discloses-coinbase-robinhood-194845513.html)**
 
-WSJ • 2d ago
+President Donald Trump reported trades in crypto firms like Coinbase and Robinhood, among others, according to new ethics filings.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512)**
+
+Investing.com • 8h ago
+
+---
+
+**[Strategy Dividend Shift Puts Bitcoin Funding And Valuation In Fresh Focus](https://finance.yahoo.com/markets/crypto/articles/strategy-dividend-shift-puts-bitcoin-142020499.html)**
+
+Strategy Inc is proposing to shift dividend payouts on its Stretch Preferred Stock (STRC) from monthly to semi monthly. STRC has recently recorded record trading volume, reflecting heightened activity in the preferred stock. The changes sit at the core of how Strategy funds its Bitcoin buying program using STRC as a key financing tool. For investors watching NasdaqGS:MSTR, these moves come on top of a share price of $186.97 and a mixed return profile. The stock is up 4.0% over the past week...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -173,15 +189,11 @@ Forbes • 1d ago
 
 ---
 
-**[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
+**[We Asked Claude AI Where Bitcoin (BTC) Will Be On The Day The Fed Cuts Rates](https://finance.yahoo.com/markets/crypto/articles/asked-claude-ai-where-bitcoin-162433459.html)**
 
-CoinDesk • 3h ago
+Bitcoin (CRYPTO: BTC) has spent most of May trading around the $80,000 level as it kept stalling below the key resistance level near $82,000. The Bitcoin price keeps bouncing off the upper $70,000s, but has struggled to build enough strength for a sustained breakout, with traders reacting cautiously to inflation data and shifting Federal Reserve ... We Asked Claude AI Where Bitcoin (BTC) Will Be On The Day The Fed Cuts Rates
 
----
-
-**[Key facts: Bitcoin Holds 78k–83k Range; Steadies vs. Gold](https://www.tradingview.com/news/tradingview:ff7be2cd8eba6:0-key-facts-bitcoin-holds-78k-83k-range-steadies-vs-gold/)**
-
-TradingView • 3h ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -189,7 +201,21 @@ TradingView • 3h ago
 
 Crypto traders sold the news following Kevin Warsh’s Fed chair confirmation and a successful markup of the CLARITY Act, but dip buyers may save the day.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor Teases Bigger Bitcoin Buy for MicroStrategy as 8-K Filing Looms](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-bigger-bitcoin-153343104.html)**
+
+Saylor teases another Bitcoin buy with a 'Big Dot Energy' post as Strategy's Monday 8-K is set to confirm a 15,466 BTC week.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
+
+CoinDesk • 4h ago
 
 ---
 
@@ -197,35 +223,15 @@ Yahoo Finance • 27m ago
 
 Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
 
-The White Coat Investor • 9h ago
+The White Coat Investor • 10h ago
 
 ---
 
-**[Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512)**
+**[Harvard Dumps Its Ethereum and Bitcoin ETF Investment](https://finance.yahoo.com/markets/crypto/articles/harvard-dumps-ethereum-bitcoin-etf-103709099.html)**
 
-Investing.com • 6h ago
+Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
 
----
-
-**[Harvard dumps ether ETF as Abu Dhabi sovereign fund keeps adding to bitcoin positions](https://www.theblock.co/post/401518/sovereign-funds-universities-banks-reshuffle-bitcoin-altcoin-etf-positions)**
-
-Abu Dhabi-based Mubadala added over $90 million to its already sizeable position in BlackRock’s iShares Bitcoin Trust ETF.
-
-The Block • 22h ago
-
----
-
-**[State senator owes $50M in legal dispute over EKY Bitcoin facility](https://www.kentucky.com/news/business/article315773494.html)**
-
-The legal battle began in November 2023 over wrongful eviction, breach of a license agreement and unlawful retaining of property.
-
-Lexington Herald Leader • 1d ago
-
----
-
-**[JPMorgan sees one clear winner in crypto right now](https://www.thestreet.com/crypto/markets/jpmorgan-sees-one-clear-winner-in-crypto-right-now)**
-
-thestreet.com • 2d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -287,6 +293,16 @@ How Deblock integrated instant, non-custodial bitcoin into their neobank using t
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin’s Strategic Reserve Just Got Real — White House Exclusive](https://www.youtube.com/watch?v=8lR6dnBTXyY)**
+
+Bitcoin #Crypto #Finance President's Council of Advisors for Digital Assets Patrick Witt reveals a major breakthrough is coming on ...
+
+📺 The Wolf Of All Streets
+
+👁️ 6K • 👍 442 • 💬 201 • ⏱️ 28:56 • 3h ago
+
+---
+
 **[Crypto Holders - Bitcoin &amp; Stocks Plummet Due To This](https://www.youtube.com/watch?v=TlIZ7KFpGRs)**
 
 Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
@@ -297,13 +313,23 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 ---
 
+**[Bitcoin Price 2025: Is $49K Coming? Gareth Soloway on Bear Flag, ETH, XRP &amp; Altcoin Breakdown](https://www.youtube.com/watch?v=KJ35xjFGkXs)**
+
+Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, breaks down the LATEST ...
+
+📺 Gareth Soloway
+
+👁️ 15K • 👍 2K • 💬 110 • ⏱️ 12:17 • 2h ago
+
+---
+
 **[BlackRock Just Revealed Their AI Endgame and Bitcoin Has Other Plans](https://www.youtube.com/watch?v=D8j6P9VR9Rs)**
 
 Three massive stories just collided into one terrifying picture. BlackRock is financing AI infrastructure tied to surveillance and ...
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 108 • ⏱️ 35:26 • 16h ago
+👁️ 20K • 👍 1K • 💬 113 • ⏱️ 35:26 • 17h ago
 
 ---
 
@@ -313,27 +339,17 @@ Bitcoin just crossed a major political milestone as the Clarity Act advanced thr
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 162 • ⏱️ 15:33 • 1d ago
+👁️ 35K • 👍 2K • 💬 163 • ⏱️ 15:33 • 1d ago
 
 ---
 
-**[Bitcoin Holders: Prepare For Zero Rate Cuts (And What This Means)](https://www.youtube.com/watch?v=V7ePdAPnqHs)**
+**[Even a 95% Bitcoin Majority Could Vote to Disable Your Coins](https://www.youtube.com/watch?v=OTj7X59A39o)**
 
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Kalshi: ...
+Spiral developer Matt Corallo on why BIP 110 goes too far, banning legitimate Bitcoin transactions and allowing any group, even ...
 
-📺 Aaron Bennett
+📺 Galaxy
 
-👁️ 2K • 👍 201 • 💬 39 • ⏱️ 8:04 • 8h ago
-
----
-
-**[BREAKING: CRYPTO CLARITY ACT PASSES! WHAT HAPPENS NEXT?](https://www.youtube.com/watch?v=DkEKRRZrvEQ)**
-
-OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY ✓ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 3K • 💬 158 • ⏱️ 11:42 • 2d ago
+👁️ 329 • ⏱️ 0:38 • 2h ago
 
 ---
 
@@ -343,7 +359,17 @@ Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And
 
 📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 2K • 💬 719 • ⏱️ 8:39 • 1d ago
+👁️ 37K • 👍 2K • 💬 794 • ⏱️ 8:39 • 1d ago
+
+---
+
+**[BREAKING: CRYPTO CLARITY ACT PASSES! WHAT HAPPENS NEXT?](https://www.youtube.com/watch?v=DkEKRRZrvEQ)**
+
+OKX New user bonus - Get up to $500 in XRP: https://app.okx.com/join/ALTDAILY ✓ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 3K • 💬 159 • ⏱️ 11:42 • 2d ago
 
 ---
 
@@ -353,17 +379,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 4K • 👍 308 • 💬 46 • ⏱️ 55:42 • 1d ago
-
----
-
-**[&quot;URGENT ALERT! A BIGGER Crash Is Coming for Bitcoin &amp; Crypto&quot; - Mike Novogratz WARNING](https://www.youtube.com/watch?v=H0jkleU_drQ)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 107 • 💬 8 • ⏱️ 20:12 • 20h ago
+👁️ 4K • 👍 309 • 💬 46 • ⏱️ 55:42 • 1d ago
 
 ---
 
@@ -373,17 +389,7 @@ For today's interview, Alessandro is joined by Eric Krown for a deep dive into t
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 425 • 💬 17 • ⏱️ 42:35 • 22h ago
-
----
-
-**[Dogecoin &amp; Bitcoin Are Both Signaling Something Big?](https://www.youtube.com/watch?v=LXs5lTHkve8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 54K • 👍 3K • 💬 102 • ⏱️ 51:19 • 1d ago
+👁️ 8K • 👍 438 • 💬 17 • ⏱️ 42:35 • 23h ago
 
 ---
 

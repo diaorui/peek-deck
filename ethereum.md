@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T15:37:27.983066+00:00'
+updated: '2026-05-17T16:57:56.985526+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 15:37 UTC  
+**Last Updated:** May 17, 2026 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -6.6%  
-**30d:** -7.0%  
-**90d:** +9.7%  
+**24h:** +0.2%  
+**7d:** -6.7%  
+**30d:** -7.1%  
+**90d:** +9.6%  
 **1y:** -12.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $264.28B
+**Market Cap:** $263.50B
 Rank #2
 
 **Circulating Supply:** 120,685,789 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.7%
+-55.9%
 
 **All-Time Low:** $0.43
-+505647.4%
++504220.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet. I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects.. So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps.. Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap.. Thanks in advance...
 
-1h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Heyy Guys, im back from learning foundry and next looking to build some projects
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used at all, I'd like to "stake" some of it in order to get extra %/free money. I've started digging how to do it safely (without involving a CEX) but every guide either points to coinbase/kraken... Is there a non-custodial way to Stake USDC? What are you guys using for it?
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ swapped $2.5k worth of ETH into a mid-cap token recently. the preview showed 3% 
 
 The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 A $50 million 25x ether short hits Hyperliquid as whales split sharply on the Ethereum price's next big direction.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,23 @@ Yahoo Finance • 1h ago
 
 Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
 
-TradingView • 12h ago
+TradingView • 13h ago
+
+---
+
+**[Ethereum hosts 72.6% of all tokenized ETFs as market eyes $20 trillion by 2030](https://cryptobriefing.com/ethereum-tokenized-etfs-market-dominance/)**
+
+Ethereum commands 72.6% of all tokenized ETF products as the broader tokenization market targets $20 trillion by 2030. Here's why institutions keep choosing it.
+
+Crypto Briefing • 3h ago
+
+---
+
+**[Sharplink CEO says ETH treasury firms are diverging from Strategy model as Ethereum's tokenization role expands](https://www.theblock.co/post/401288/sharplink-ceo-says-eth-treasury-firms-are-diverging-from-strategy-model-as-ethereums-tokenization-role-expands)**
+
+Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
+
+The Block • 3d ago
 
 ---
 
@@ -187,22 +203,6 @@ TradingView • 12h ago
 Success for a blockchain isn't always the same as success for investors.
 
 The Motley Fool • 5h ago
-
----
-
-**[Ethereum hosts 72.6% of all tokenized ETFs as market eyes $20 trillion by 2030](https://cryptobriefing.com/ethereum-tokenized-etfs-market-dominance/)**
-
-Ethereum commands 72.6% of all tokenized ETF products as the broader tokenization market targets $20 trillion by 2030. Here's why institutions keep choosing it.
-
-Crypto Briefing • 1h ago
-
----
-
-**[Sharplink CEO says ETH treasury firms are diverging from Strategy model as Ethereum's tokenization role expands](https://www.theblock.co/post/401288/sharplink-ceo-says-eth-treasury-firms-are-diverging-from-strategy-model-as-ethereums-tokenization-role-expands)**
-
-Joseph Chalom said growing institutional adoption of tokenization could strengthen Ethereum's role as infrastructure for onchain assets.
-
-The Block • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ Coinpedia • 2d ago
 
 NUVAFinance launches access to $19 billion Figure tokenized assets on Ethereum backed by Animoca Brands partnership.
 
-blockchain.news • 15h ago
+blockchain.news • 16h ago
 
 ---
 
@@ -232,23 +232,33 @@ FXStreet • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
-
-Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 119 • 💬 101 • ⏱️ 15:37 • 1d ago
-
----
-
 **[If Ethereum Does This We&#39;re Going To Have The Best Altcoin Season Ever Made In 2026](https://www.youtube.com/watch?v=SovKhWex5q0)**
 
 Even crypto investors dont seem to understand the amount of money and wealth there are to be made from this market. Estimates ...
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 406 • 💬 116 • ⏱️ 32:55 • 6h ago
+👁️ 4K • 👍 533 • 💬 129 • ⏱️ 32:55 • 7h ago
+
+---
+
+**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
+
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 121 • 💬 101 • ⏱️ 15:37 • 1d ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 403 • 👍 29 • 💬 2 • ⏱️ 23:02 • 42m ago
 
 ---
 
@@ -258,17 +268,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 7K • 👍 334 • 💬 113 • ⏱️ 18:50 • 12h ago
-
----
-
-**[&quot;Ethereum To $12,000,  Bitcoin To $250,000 - Here&#39;s WHY&quot; Tom Lee | Crypto Prediction 2026](https://www.youtube.com/watch?v=zQGTvz_2YM4)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 469 • 💬 50 • ⏱️ 18:57 • 2d ago
+👁️ 8K • 👍 354 • 💬 113 • ⏱️ 18:50 • 14h ago
 
 ---
 
@@ -278,27 +278,17 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 7K • 👍 159 • 💬 45 • ⏱️ 13:36 • 2d ago
+👁️ 7K • 👍 165 • 💬 45 • ⏱️ 13:36 • 2d ago
 
 ---
 
-**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
+**[ETH ожидания #eth #ethereum #crypto](https://www.youtube.com/watch?v=32zkWVYcaUM)**
 
-Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
+tg romchekcrypto ETH ожидания.
 
-📺 Trade Confident
+📺 Новые деньги Криптовалюты Биткоин
 
-👁️ 459 • 👍 13 • 💬 12 • ⏱️ 5:45 • 1d ago
-
----
-
-**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
-
-GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
-
-📺 Bankless
-
-👁️ 7K • 👍 231 • 💬 35 • ⏱️ 1:05:23 • 2d ago
+👁️ 180 • 👍 10 • 💬 1 • ⏱️ 1:04 • 57m ago
 
 ---
 
@@ -308,17 +298,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 770 • 👍 32 • 💬 2 • ⏱️ 4:43 • 1d ago
+👁️ 804 • 👍 34 • 💬 2 • ⏱️ 4:43 • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin: Crypto Update &amp; Targets](https://www.youtube.com/watch?v=IDLjsyUACLI)**
+**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
 
-Bitcoin soared to $81000, hitting the 200-day moving average. But is it a bull trap? Analysis suggests a potential deeper correction ...
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
 
-📺 CryptoMeownalysis
+📺 Bankless
 
-👁️ 52 • 👍 3 • 💬 1 • ⏱️ 8:52 • 1d ago
+👁️ 7K • 👍 238 • 💬 35 • ⏱️ 1:05:23 • 2d ago
 
 ---
 
@@ -329,6 +319,16 @@ Tom Lee says Ethereum could eventually reach $20000+ Explained Earn $ETH with Ma
 📺 Big Time Trades
 
 👁️ 3K • 👍 86 • 💬 45 • ⏱️ 23:46 • 2d ago
+
+---
+
+**[SET ALERTS On Ethereum For These Signals! (Called +5587% In 2018)](https://www.youtube.com/watch?v=1oDqjqLy7Qo)**
+
+Join Trade Confident: Get 25% Off Your 1st Month: https://tinyurl.com/tcmembergift • Weekly Market Forecasts • Monthly Zoom Call ...
+
+📺 Trade Confident
+
+👁️ 460 • 👍 13 • 💬 12 • ⏱️ 5:45 • 1d ago
 
 ---
 
