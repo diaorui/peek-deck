@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-17T20:53:24.630378+00:00'
+updated: '2026-05-17T21:56:16.331003+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 20:53 UTC  
+**Last Updated:** May 17, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,288.99
+### $78,441.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -4.3%  
-**30d:** +3.4%  
-**90d:** +16.0%  
-**1y:** -26.5%  
+**24h:** +0.2%  
+**7d:** -4.1%  
+**30d:** +3.5%  
+**90d:** +16.2%  
+**1y:** -26.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1566.47B
+**Market Cap:** $1569.99B
 Rank #1
 
 **Circulating Supply:** 20,030,493 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-37.8%
 
 **All-Time Low:** $67.81
-+115394.8%
++115465.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it YellowKey exploit bypasses BitLocker full volume encryption via USB stick and WinRE A researcher known as "Nightmare-Eclipse" recently released YellowKey, a security vulnerability that allegedly enables a full bypass of BitLocker's full-volume encryption. The researcher described YellowKey as one of the most "insane" flaws they have ever encountered and has also accused Microsoft of potentially embedding a legitimate backdoor in BitLocker's data protection system. According to the researcher, YellowKey appears unusual for a previously unknown security bug. Nightmare-Eclipse explained that the flaw can be reproduced by copying an attached "FsTx" folder to a USB drive formatted with a Windows-compatible file system such as NTFS, FAT32, or exFAT. The vulnerability may also work without a USB drive if the FsTx files are copied to the Windows EFI partition and the encrypted disk is temporarily disconnected from the system. After placing the FsTx folder, an attacker would need to reboot a BitLocker-protected machine, enter the Windows Recovery Environment, and follow a specific sequence of inputs. If the procedure is completed correctly, a command shell reportedly appears, granting unrestricted access to BitLocker-protected volumes. No passwords are required, and the encrypted data may become fully accessible for browsing, copying, and other file operations. Nightmare-Eclipse believes that YellowKey's vulnerability could reasonably be considered a backdoor intentionally introduced into BitLocker by Microsoft. Their reasoning is that the component triggering the issue can only be found in the official WinRE image. The same component is also present in standard Windows installation images, but it does not exhibit the BitLocker-bypassing behavior observed on live systems. The researcher explained that they "just can't come up with an explanation beside the fact that this was intentional. Also for whatever reason, only windows 11 (+Server 2022/2025) are affect, windows 10 is not." // Related Stories Apple is rolling out end-to-end encryption for iPhone to Android RCS messages Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month Third-party researchers have reportedly confirmed that YellowKey behaves as described by Nightmare-Eclipse in public GitHub materials. In addition, the researcher released a second exploit, GreenPlasma, which is said to enable privilege escalation. They did not publish full proof-of-concept code for achieving SYSTEM-level access, instead suggesting they may disclose further details ahead of next month's Patch Tuesday. Nightmare-Eclipse is known for targeting Microsoft and the company's alleged hostility toward external security researchers. Previously operating under the alias "Chaotic Eclipse," they released Red Sun and other vulnerabilities with public proof-of-concept code, while accusing Microsoft of damaging their career and reputation. As for YellowKey's alleged backdoor behavior, mitigation is relatively straightforward. Security professionals generally recommend avoiding reliance on any single encryption system and instead evaluating well-reviewed full-disk encryption alternatives such as VeraCrypt.
 
-🔗 [techspot.com](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) • 1h ago
+🔗 [techspot.com](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ A security researcher says Microsoft secretly built a backdoor into BitLocker, r
 
 A study of AI models found they overwhelmingly prefer bitcoin over fiat. The agentic economy is here, and it has already discovered the value of sound digital money.
 
-🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 17h ago
+🔗 [Forbes](https://www.forbes.com/sites/davidbirnbaum/2026/03/07/ai-agents-have-already-chosen-their-money-bitcoin/) • 18h ago
 
 ---
 
@@ -97,19 +97,19 @@ A study of AI models found they overwhelmingly prefer bitcoin over fiat. The age
 
 Somewhere between setting up a hardware wallet and feeling good about your security setup, most Bitcoiners skip a step that matters more than the hardware. The seed phrase is secured. Nobody else knows it exists. That's not self custody succeeding. That's self custody creating a different problem. I've been thinking about this a lot lately and the solution is simpler than most people make it. You don't need multisig, a lawyer, or a complicated inheritance scheme. You need a written document that a non-technical person can follow on the worst day of their life. Here's what actually works: A letter of instruction - not in your will: Your will becomes public record through probate and takes months to process. A separate sealed document stored somewhere your family knows about is faster, private, and more practical. It doesn't need to contain your seed phrase, just a map to it. The split location approach: Store your seed phrase backup in one location. Store a short passphrase or location hint in a completely separate location, safety deposit box, trusted family member, sealed envelope with your attorney. Neither location is useful alone. Both are accessible through normal estate processes after death. A wallet inventory: Every hardware wallet, software wallet, and exchange account written down somewhere findable. Not the seed phrases, just the map. Your family needs to know what exists before they can figure out how to access it. The honeypot test: Keep a small decoy balance on a separate wallet with a seed phrase your trusted person knows. If that balance ever moves while you're alive you know your security has been compromised. The real test: Explain your recovery process out loud to whoever would inherit. If they can't follow it under normal conditions they definitely can't follow it under stress and grief. If it's too complicated to explain it's too complicated period. None of this requires sharing your actual seed phrase with anyone today. It just requires making sure the people you'd want to have your Bitcoin actually could. The lock is only useful if someone you trust can open it when it matters.
 
-7h ago
+9h ago
 
 ---
 
 **[‘A Bitcoin Evangelist Tries to Convert Me’](https://www.reddit.com/r/Bitcoin/comments/1tfv2kd/a_bitcoin_evangelist_tries_to_convert_me/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html) • 3h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html) • 4h ago
 
 ---
 
 **[The Cantillion Effect. Gnosis.](https://www.reddit.com/r/Bitcoin/comments/1tfxydf/the_cantillion_effect_gnosis/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Somewhere between setting up a hardware wallet and feeling good about your secur
 
 I am a professional in the healthcare industry. Recently, the topic of business came up amongst my colleagues, and that lead to the topic of business funding, loans, and money. The discussion was amongst employees, so naturally there was a general lack of knowledge, but one thing was clear: there was universal consensus that money, nowadays, as far as they perceived it, is fake funny money. "It's all fake now, the money isn't real, it's just numbers on a screen" is how I would paraphrase this consensus. This is another anecdotal indication that the intelligent no-coiners are generally aware, in the back of their mind at least, that fiat currency is quite fake.
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,15 @@ Holy shit. I don't know what just happened. Maybe it's because I'm getting older
 
 How come you’re still not holding and buying more BTC? Every cycle, people wait for the “perfect entry” while Bitcoin keeps proving why it stays at the center of crypto. Institutions are buying. Long-term holders keep accumulating. And more builders are exploring new BTC use cases beyond just holding. At some point, staying on the sidelines becomes the bigger risk.
 
-20h ago
+21h ago
+
+---
+
+**[Using retail activity in other crypto markets as a leading signal for Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1tg0kxk/using_retail_activity_in_other_crypto_markets_as/)**
+
+With negative real yields and the broader macro setup, a lot of people are trying to figure out when retail capital actually starts flowing back into Bitcoin in size. I recently listened to a podcast discussion between Jordi Visser and Anthony Pompliano that made an interesting point: watching retail-driven moves in parts of the market with almost zero institutional participation can act as an early tell for when broader retail interest is returning - which has historically preceded stronger moves in Bitcoin. The idea is that these areas often light up first when retail is coming back, before it shows up clearly in Bitcoin’s own on-chain data or spot volumes. Has anyone here tried tracking retail flows or sentiment in other crypto markets as a leading indicator for Bitcoin? Do you find it reliable, or do you prefer sticking strictly to Bitcoin-specific metrics like the 200-day moving average, small-wallet activity, or exchange flows? Curious what’s worked (or hasn’t) for people in past cycles.
+
+1h ago
 
 ---
 
@@ -141,13 +149,7 @@ How come you’re still not holding and buying more BTC? Every cycle, people wai
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
-
----
-
-**[Waking up to the FIAT scam.](https://www.reddit.com/r/Bitcoin/comments/1tf7lew/waking_up_to_the_fiat_scam/)**
-
-22h ago
+15h ago
 
 ---
 
@@ -165,21 +167,21 @@ WSJ • 2d ago
 
 Bitcoin tested its 200-day moving average at $82,300 without closing above it. Here's exactly what's holding it back and what could break it.
 
-24/7 Wall St. • 8h ago
+24/7 Wall St. • 9h ago
 
 ---
 
-**[Japan’s Biggest Brokerages Open a New Door for Bitcoin and Ethereum Investment](https://finance.yahoo.com/markets/crypto/articles/japan-biggest-brokerages-open-door-185114630.html)**
+**[Anthony Scaramucci Says Bitcoin Poised To Follow The S-Curve Of Adoption Like Amazon, Microsoft: 'Cannot Be Devalued'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-203105744.html)**
 
-SBI, Rakuten and Nomura plan Bitcoin and Ethereum investment trusts, opening crypto access for Japanese investors.
+SkyBridge Capital founder Anthony Scaramucci suggested on Wednesday that Bitcoin is tracing an adoption path akin to that of Amazon.com Inc. and Microsoft Corp.. Scaramucci Says Bitcoin Can’t Be ‘Devalued’ During an interview with RiskReversal Media, Scaramucci said that traditional...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private](https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private)**
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -187,13 +189,13 @@ CoinDesk • 8h ago
 
 Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
 
-The White Coat Investor • 14h ago
+The White Coat Investor • 15h ago
 
 ---
 
 **[Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales](https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
 
 ---
 
@@ -205,25 +207,25 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Jump After Crypto Act Passes Key Senate Vote: Analyst Says BTC 'Positioned' For A Rebound Toward $86,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015048079.html)**
+**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
 
-Leading cryptocurrencies were up in the green on Thursday after the Clarity Act passed the Senate Banking Committee on a bipartisan vote. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:05 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.46%$81,561.50Ethereum (CRYPTO: ETH) +1.18%$2,293.12XRP (CRYPTO: XRP) +4.49%$1.49Solana (CRYPTO: SOL) +1.33%$92.42Dogecoin (CRYPTO: DOGE) +2.10%$0.1167 Crypto Market Pops Bitcoin hit $82,000 in the afternoon, then stalled and moved sideways. The trading volume soared 27% in
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin Stalls After CLARITY Act Success: Will Pro-Crypto Fed, White House Save The Day?](https://coinmarketcap.com/academy/article/bitcoin-stalls-clarity-act-pro-crypto-fed-white-house)**
-
-Crypto traders sold the news following Kevin Warsh’s Fed chair confirmation and a successful markup of the CLARITY Act, but dip buyers may save the day.
-
-CoinMarketCap • 2d ago
+Fortune • 2d ago
 
 ---
 
-**[Bitcoin to snap 6-week win streak as risk sentiment sours; Clarity Act progresses](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-us-regulatory-progress-china-iran-uncertainty-weighs-4691146)**
+**[Abu Dhabi's Mubadala Raises Bitcoin ETF Stake 16% To $566 Million In Q1 2026](https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake)**
 
-Investing.com • 1d ago
+Mubadala Investment Company boosted its stake in BlackRock’s iShares Bitcoin Trust by 16% in Q1 2026.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Why is bitcoin (BTC) down today: Surging bond yield, inflation worries rattle crypto, stocks, gold](https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets)**
+
+CoinDesk • 2d ago
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin #Crypto #Finance President's Council of Advisors for Digital Assets Patr
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 605 • 💬 267 • ⏱️ 28:56 • 7h ago
+👁️ 14K • 👍 710 • 💬 274 • ⏱️ 28:56 • 8h ago
 
 ---
 
@@ -301,67 +303,17 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 48 • ⏱️ 8:28 • 1d ago
+👁️ 27K • 👍 1K • 💬 48 • ⏱️ 8:28 • 1d ago
 
 ---
 
-**[BlackRock Just Revealed Their AI Endgame and Bitcoin Has Other Plans](https://www.youtube.com/watch?v=D8j6P9VR9Rs)**
+**[Bitcoin: Psychology of a Bear Market](https://www.youtube.com/watch?v=WHK1S6MrlCA)**
 
-Three massive stories just collided into one terrifying picture. BlackRock is financing AI infrastructure tied to surveillance and ...
+Let's talk about Bitcoin bear markets and what makes them psychologically difficult. Sign up to get updates about the 1st ITC ...
 
-📺 Simply Bitcoin
+📺 Benjamin Cowen
 
-👁️ 21K • 👍 2K • 💬 119 • ⏱️ 35:26 • 21h ago
-
----
-
-**[Trump Plans July 4th Bitcoin Reset? | What They&#39;re NOT Telling You About The Clarity Act!](https://www.youtube.com/watch?v=VYOBfFIRSZk)**
-
-Bitcoin just crossed a major political milestone as the Clarity Act advanced through the Senate Banking Committee. But the real ...
-
-📺 Simply Bitcoin
-
-👁️ 36K • 👍 2K • 💬 164 • ⏱️ 15:33 • 1d ago
-
----
-
-**[BITCOIN JUST FLASHED THE SAME SIGNAL BEFORE EVERY MASSIVE RUN 🚨](https://www.youtube.com/watch?v=MDr8BJFtlXY)**
-
-Bitcoin is entering one of the MOST important moments of this entire cycle… and almost nobody is seeing the full picture.
-
-📺 Crypto Love
-
-👁️ 1K • 👍 182 • 💬 59 • ⏱️ 11:27 • 3h ago
-
----
-
-**[Bitcoin Holders: Prepare For Zero Rate Cuts (And What This Means)](https://www.youtube.com/watch?v=V7ePdAPnqHs)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Kalshi: ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 269 • 💬 52 • ⏱️ 8:04 • 13h ago
-
----
-
-**[Even a 95% Bitcoin Majority Could Vote to Disable Your Coins](https://www.youtube.com/watch?v=OTj7X59A39o)**
-
-Spiral developer Matt Corallo on why BIP 110 goes too far, banning legitimate Bitcoin transactions and allowing any group, even ...
-
-📺 Galaxy
-
-👁️ 581 • ⏱️ 0:38 • 6h ago
-
----
-
-**[Why I&#39;m Actually ALL-IN On Bitcoin](https://www.youtube.com/watch?v=R1ORhzYkVuw)**
-
-Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And here's the exact moment it clicked: watching 40% of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 39K • 👍 3K • 💬 802 • ⏱️ 8:39 • 1d ago
+👁️ 29K • 👍 2K • 💬 140 • ⏱️ 24:00 • 6h ago
 
 ---
 
@@ -371,7 +323,57 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 29K • 👍 3K • 💬 245 • ⏱️ 12:17 • 6h ago
+👁️ 39K • 👍 3K • 💬 293 • ⏱️ 12:17 • 7h ago
+
+---
+
+**[BlackRock Just Revealed Their AI Endgame and Bitcoin Has Other Plans](https://www.youtube.com/watch?v=D8j6P9VR9Rs)**
+
+Three massive stories just collided into one terrifying picture. BlackRock is financing AI infrastructure tied to surveillance and ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 135 • ⏱️ 35:26 • 22h ago
+
+---
+
+**[BITCOIN JUST FLASHED THE SAME SIGNAL BEFORE EVERY MASSIVE RUN 🚨](https://www.youtube.com/watch?v=MDr8BJFtlXY)**
+
+Bitcoin is entering one of the MOST important moments of this entire cycle… and almost nobody is seeing the full picture.
+
+📺 Crypto Love
+
+👁️ 3K • 👍 260 • 💬 68 • ⏱️ 11:27 • 4h ago
+
+---
+
+**[Trump Plans July 4th Bitcoin Reset? | What They&#39;re NOT Telling You About The Clarity Act!](https://www.youtube.com/watch?v=VYOBfFIRSZk)**
+
+Bitcoin just crossed a major political milestone as the Clarity Act advanced through the Senate Banking Committee. But the real ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 2K • 💬 165 • ⏱️ 15:33 • 2d ago
+
+---
+
+**[Bitcoin Holders: Prepare For Zero Rate Cuts (And What This Means)](https://www.youtube.com/watch?v=V7ePdAPnqHs)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Kalshi: ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 284 • 💬 56 • ⏱️ 8:04 • 14h ago
+
+---
+
+**[Why I&#39;m Actually ALL-IN On Bitcoin](https://www.youtube.com/watch?v=R1ORhzYkVuw)**
+
+Bitcoin #Crypto #Finance Bitcoin isn't an investment to me — it's an exit. And here's the exact moment it clicked: watching 40% of ...
+
+📺 The Wolf Of All Streets
+
+👁️ 40K • 👍 3K • 💬 830 • ⏱️ 8:39 • 1d ago
 
 ---
 

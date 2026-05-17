@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-17T20:53:24.636255+00:00'
+updated: '2026-05-17T21:56:16.336173+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 17, 2026 at 20:53 UTC  
+**Last Updated:** May 17, 2026 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -6.4%  
-**30d:** -6.8%  
-**90d:** +10.0%  
-**1y:** -12.3%  
+**24h:** +0.5%  
+**7d:** -6.3%  
+**30d:** -6.7%  
+**90d:** +10.1%  
+**1y:** -12.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $264.16B
+**Market Cap:** $264.45B
 Rank #2
 
 **Circulating Supply:** 120,685,789 ETH
@@ -62,7 +62,7 @@ No max supply
 -55.7%
 
 **All-Time Low:** $0.43
-+505915.3%
++505936.1%
 
 ---
 
@@ -72,6 +72,14 @@ No max supply
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks
 
+4h ago
+
+---
+
+**[Uniswap alternative for large swaps?](https://www.reddit.com/r/ethereum/comments/1tfy50a/uniswap_alternative_for_large_swaps/)**
+
+Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
+
 3h ago
 
 ---
@@ -80,15 +88,7 @@ I had no idea the Lido withdrawal process was this painful. Submitted my unstake
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[Uniswap alternative for large swaps?](https://www.reddit.com/r/ethereum/comments/1tfy50a/uniswap_alternative_for_large_swaps/)**
-
-Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
-
-2h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, been using Uniswap for a while now but every time I try to swap any
 
 Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet. I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects.. So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps.. Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap.. Thanks in advance...
 
-7h ago
+8h ago
 
 ---
 
@@ -168,11 +168,11 @@ Ethereum spot ETFs bled $189M across 4 days while XRP and Solana ETFs kept pulli
 
 ---
 
-**[Japan’s Biggest Brokerages Open a New Door for Bitcoin and Ethereum Investment](https://finance.yahoo.com/markets/crypto/articles/japan-biggest-brokerages-open-door-185114630.html)**
+**[BitMine Buys Another $197 Million In Ethereum As Tom Lee’s 5% ETH Strategy Presses On](https://www.tradingview.com/news/newsbtc:139678c81094b:0-bitmine-buys-another-197-million-in-ethereum-as-tom-lee-s-5-eth-strategy-presses-on/)**
 
-SBI, Rakuten and Nomura plan Bitcoin and Ethereum investment trusts, opening crypto access for Japanese investors.
+On-chain data is pointing to another interesting accumulation move by Tom Lee’s BitMine Immersion Technologies, with a whale tracker flagging a $197.64 million Ethereum purchase routed through four newly created wallets.The latest Ethereum buy has come during a period of weakness, which has seen th…
 
-Yahoo Finance • 2h ago
+TradingView • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2h ago
 
 A $5,000 bet on XRP (CRYPTO: XRP) or Ethereum (CRYPTO: ETH) today could look very different by 2028, and the difference between the two investments is wider than most people expect. XRP has momentum behind it, Ripple’s payments business keeps growing, and the regulatory pressure that crushed the token for years has mostly faded. Meanwhile, ... $5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,15 +188,7 @@ Yahoo Finance • 1h ago
 
 Success for a blockchain isn't always the same as success for investors.
 
-The Motley Fool • 9h ago
-
----
-
-**[Ethereum Triangle Breakdown Adds Pressure On Its Recovery Outlook](https://www.tradingview.com/news/newsbtc:367940313094b:0-ethereum-triangle-breakdown-adds-pressure-on-its-recovery-outlook/)**
-
-Ethereum pressure mounts as the ETHBTC pair breaks down from a key descending triangle structure. The weakening performance against Bitcoin suggests that bearish momentum may still be dominating the market, leaving Ethereum vulnerable to deeper pullbacks unless bulls quickly reclaim critical resist…
-
-TradingView • 17h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -204,7 +196,7 @@ TradingView • 17h ago
 
 Ethereum commands 72.6% of all tokenized ETF products as the broader tokenization market targets $20 trillion by 2030. Here's why institutions keep choosing it.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -220,15 +212,21 @@ The Block • 3d ago
 
 NUVAFinance launches access to $19 billion Figure tokenized assets on Ethereum backed by Animoca Brands partnership.
 
-blockchain.news • 20h ago
+blockchain.news • 21h ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP edge down, testing support as resistance holds](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-down-testing-support-as-resistance-holds-202605151200)**
+**[Harvard Just Cut Its Bitcoin and Ethereum Investment](https://beincrypto.com/harvard-dumps-bitcoin-ethereum-investment/)**
 
-Cryptocurrency prices are broadly correcting on Friday, following a failed attempt to recover losses incurred earlier in the week after the United States (US) Senate Banking Committee advanced the Digital Asset Market Clarity Act, commonly known as the Clarity Act of 2025.
+Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
 
-FXStreet • 2d ago
+BeInCrypto • 11h ago
+
+---
+
+**[Analyst Reveals What CLARITY Act Passing Today Means for Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/analyst-reveals-what-clarity-act-passing-today-means-for-bitcoin-ethereum-and-xrp-prices/)**
+
+Coinpedia • 2d ago
 
 ---
 
@@ -242,7 +240,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 29K • 👍 3K • 💬 245 • ⏱️ 12:17 • 6h ago
+👁️ 39K • 👍 3K • 💬 288 • ⏱️ 12:17 • 7h ago
 
 ---
 
@@ -252,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 145 • 💬 18 • ⏱️ 23:02 • 4h ago
+👁️ 5K • 👍 218 • 💬 32 • ⏱️ 23:02 • 5h ago
 
 ---
 
@@ -262,17 +260,7 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 📺 Thomas Kralow
 
-👁️ 7K • 👍 2K • 💬 22 • ⏱️ 10:04 • 5h ago
-
----
-
-**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
-
-Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 123 • 💬 101 • ⏱️ 15:37 • 1d ago
+👁️ 12K • 👍 2K • 💬 32 • ⏱️ 10:04 • 6h ago
 
 ---
 
@@ -282,7 +270,17 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 589 • 💬 149 • ⏱️ 32:55 • 11h ago
+👁️ 5K • 👍 624 • 💬 155 • ⏱️ 32:55 • 12h ago
+
+---
+
+**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
+
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Library Of Wealth
+
+👁️ 5K • 👍 123 • 💬 102 • ⏱️ 15:37 • 1d ago
 
 ---
 
@@ -292,17 +290,7 @@ Sharplink CEO Joseph Chalom joins Gareth Jenkinson at Consensus to explain why S
 
 📺 The Block
 
-👁️ 7K • 👍 167 • 💬 46 • ⏱️ 13:36 • 2d ago
-
----
-
-**[BITCOIN: Warning to All Holders! (get ready) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=VU_ivlGex5M)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 2K • 👍 180 • 5h ago
+👁️ 7K • 👍 172 • 💬 46 • ⏱️ 13:36 • 2d ago
 
 ---
 
@@ -312,17 +300,7 @@ BITCOIN & ALTCOINS JUST BROKE (Get Ready)!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 368 • 💬 121 • ⏱️ 18:50 • 18h ago
-
----
-
-**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
-
-GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
-
-📺 Bankless
-
-👁️ 7K • 👍 241 • 💬 35 • ⏱️ 1:05:23 • 2d ago
+👁️ 9K • 👍 377 • 💬 148 • ⏱️ 18:50 • 19h ago
 
 ---
 
@@ -332,7 +310,27 @@ tg romchekcrypto ETH ожидания.
 
 📺 Новые деньги Криптовалюты Биткоин
 
-👁️ 501 • 👍 23 • 💬 2 • ⏱️ 1:04 • 4h ago
+👁️ 787 • 👍 28 • 💬 2 • ⏱️ 1:04 • 5h ago
+
+---
+
+**[Clarity Passes, Stocks Rip, &amp; Wall Street Piles Into Ethereum](https://www.youtube.com/watch?v=2_TwBsL3U9o)**
+
+GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/Galaxy --- Markets are ignoring every warning sign as stocks hit ...
+
+📺 Bankless
+
+👁️ 8K • 👍 242 • 💬 35 • ⏱️ 1:05:23 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OjVCJDZBRlI)**
+
+BITCOIN & ALTCOINS AT BREAKING POINT (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 368 • 💬 58 • ⏱️ 18:49 • 1d ago
 
 ---
 

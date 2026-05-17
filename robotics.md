@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T20:53:24.639128+00:00'
+updated: '2026-05-17T21:56:16.338857+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 20:53 UTC  
+**Last Updated:** May 17, 2026 at 21:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-15h ago
-
----
-
-**[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
-
-11h ago
+16h ago
 
 ---
 
 **[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg10ks/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
 
-18m ago
+1h ago
+
+---
+
+**[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
+
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old "DC motors " (old Nachi term to distinguish from newer integrated encoder types) with slip rings three phase AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-17h ago
+18h ago
 
 ---
 
@@ -68,19 +68,19 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 **[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg0rmj/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
 
-27m ago
+1h ago
 
 ---
 
 **[It seems like the Kinect v1 draws too much power and the data volume overwhelms my robot. It also gets hot, so everything is for nothing.](https://www.reddit.com/r/robotics/comments/1tft7vj/it_seems_like_the_kinect_v1_draws_too_much_power/)**
 
-5h ago
+6h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -116,7 +116,7 @@ NBC News • 2d ago
 
 A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
 
-Global Times • 21h ago
+Global Times • 22h ago
 
 ---
 
@@ -124,13 +124,13 @@ Global Times • 21h ago
 
 A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
 
-Euronews.com • 13h ago
+Euronews.com • 14h ago
 
 ---
 
 **[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
 
-Go Local Prov • 14h ago
+Go Local Prov • 15h ago
 
 ---
 
@@ -156,14 +156,6 @@ The Jerusalem Post • 2d ago
 
 ---
 
-**[New FANUC-NVIDIA system lets virtual robots behave like real machines](https://interestingengineering.com/ai-robotics/fanuc-nvidia-sim-to-real-digital-twins)**
-
-FANUC and NVIDIA built factory robot digital twins that mirror real-world motion and AI behavior.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Dunedin robotics company charged over worker’s death](https://www.stuff.co.nz/nz-news/360979836/dunedin-robotics-company-charged-over-workers-death)**
 
 Stuff • 1d ago
@@ -176,19 +168,19 @@ CT Insider • 2d ago
 
 ---
 
+**[WEEKEND PREVIEW: Skunk Works Robotics open house Saturday (next Thursday, too)](https://westseattleblog.com/2026/05/weekend-preview-skunk-works-robotics-open-house-saturday-next-thursday-too/)**
+
+(Photos courtesy Skunk Works Robotics)
+
+Though they meet south of the city, Skunk Works Robotics has always attracted West Seattle students too - 10 members this past year, the club tells us. So they wanted to be sure you know they have open houses tomorrow (Saturday, May 16) and next Thursday (May 21) - and they explain that it's about more ...
+
+West Seattle Blog... • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[F.03 Livestream - Day 5: Man vs. Machine](https://www.youtube.com/watch?v=luU57hMhkak)**
-
-Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
-
-📺 Figure
-
-👁️ 2.0M • 👍 35K • 4d ago
-
----
 
 **[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
 
@@ -200,13 +192,13 @@ You're NOT ready for what just dropped in the world of robotics this week... Bos
 
 ---
 
-**[New Jersey man plans to sue over collision with delivery robot | NBC New York](https://www.youtube.com/watch?v=d0k36PNXGxI)**
+**[F.03 Livestream - Day 5: Man vs. Machine](https://www.youtube.com/watch?v=luU57hMhkak)**
 
-A man in New Jersey said he was the victim of a hit-and-run — by a delivery robot. He said he was knocked off his bike and left ...
+Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
 
-📺 NBC New York
+📺 Figure
 
-👁️ 8K • 👍 84 • 💬 46 • ⏱️ 2:43 • 22h ago
+👁️ 2.0M • 👍 35K • 4d ago
 
 ---
 
@@ -216,27 +208,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 83K • 👍 720 • 💬 257 • ⏱️ 3:00 • 2d ago
-
----
-
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
-
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
-
-📺 ShortCircuit
-
-👁️ 98K • 👍 5K • 💬 614 • ⏱️ 15:32 • 1d ago
-
----
-
-**[Unitree Just Dropped A Real Life MECHA AI Robot](https://www.youtube.com/watch?v=nFo6UWD0J2o)**
-
-Unitree just revealed the GD01, a real manned mecha robot that can walk on two legs, smash through walls, switch into a ...
-
-📺 AI Revolution
-
-👁️ 21K • 👍 588 • 💬 72 • ⏱️ 15:27 • 2d ago
+👁️ 83K • 👍 722 • 💬 257 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -246,17 +218,35 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 31K • 👍 671 • 💬 117 • ⏱️ 21:16 • 4d ago
+👁️ 33K • 👍 705 • 💬 126 • ⏱️ 21:16 • 4d ago
 
 ---
 
-**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+**[Unitree Just Dropped A Real Life MECHA AI Robot](https://www.youtube.com/watch?v=nFo6UWD0J2o)**
 
-Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+Unitree just revealed the GD01, a real manned mecha robot that can walk on two legs, smash through walls, switch into a ...
 
-📺 CGTN Europe
+📺 AI Revolution
 
-👁️ 80K • 👍 533 • 💬 64 • ⏱️ 0:33 • 4d ago
+👁️ 21K • 👍 589 • 💬 72 • ⏱️ 15:27 • 2d ago
+
+---
+
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+
+📺 ShortCircuit
+
+👁️ 103K • 👍 5K • 💬 634 • ⏱️ 15:32 • 1d ago
+
+---
+
+**[Unitree just dropped a robot for the end of the world #robot #tech #robotics #technews](https://www.youtube.com/watch?v=rsMUp8papsM)**
+
+📺 PRO ROBOTS
+
+👁️ 13K • 👍 273 • 💬 10 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -270,13 +260,23 @@ LIKE & SUBSCRIBE for new videos daily: https://youtube.com/@BenShapiro?si=mTKyS7
 
 ---
 
-**[1 Million Damage Per Shot... Vendicatore Ao Ming Is Broken - 1 Shot Maulers | War Robots](https://www.youtube.com/watch?v=3If4mVnR4lY)**
+**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
 
-The most insane 1 shot build in War Robots. I had no idea this build was like this! The Vendicatore were really powerful when they ...
+Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
 
-📺 PREDATOR WR
+📺 CGTN Europe
 
-👁️ 15K • 👍 594 • 💬 71 • ⏱️ 14:43 • 1d ago
+👁️ 80K • 👍 533 • 💬 64 • ⏱️ 0:33 • 4d ago
+
+---
+
+**[General Motors’ Robot Debacle](https://www.youtube.com/watch?v=l8OWJwnnXUg)**
+
+Links: - Patreon (Support the channel directly!): https://www.patreon.com/Asianometry - X: https://twitter.com/asianometry ...
+
+📺 Asianometry
+
+👁️ 102K • 👍 4K • 💬 398 • ⏱️ 46:35 • 6d ago
 
 ---
 
