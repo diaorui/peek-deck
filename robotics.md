@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-17T18:01:57.425897+00:00'
+updated: '2026-05-17T19:44:28.076477+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 17, 2026 at 18:01 UTC  
+**Last Updated:** May 17, 2026 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I saw comments saying the last dexterous hand lacked flexibility. This time we introduce a 21-DOF dexterous hand with tactile perception and backdrivable design. It can even play cat's cradle single-handedly. Would you consider it highly dexterous?
 
-12h ago
+14h ago
 
 ---
 
 **[After a 2-year journey, my friend and I built 'TARANG' - a real-time Sign Language Translator powered by a Raspberry Pi 5. It uses MediaPipe for hand tracking and runs the ML model completely offline.](https://www.reddit.com/r/robotics/comments/1tfkx3d/after_a_2year_journey_my_friend_and_i_built/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo amps. Note the old "DC motors " (old Nachi term to distinguish from newer integrated encoder types) with slip rings three phase AND a separate "commutator' (the little bump on the end of the motor) to keep track of the North South poles for a very limited FOC. The white canister is one of six belt drive position encoders. They were terrible but they built cars. They could be fitted with Machine Vision, back in the day, that connect to the controllers UART COM serial port. Then they could install windows in cars!
 
-14h ago
+16h ago
 
 ---
 
@@ -62,21 +62,13 @@ Late 80's Nachi 8608 (100 kgf) on an AM controller. Six separate analog servo am
 
 **[It seems like the Kinect v1 draws too much power and the data volume overwhelms my robot. It also gets hot, so everything is for nothing.](https://www.reddit.com/r/robotics/comments/1tft7vj/it_seems_like_the_kinect_v1_draws_too_much_power/)**
 
-2h ago
+3h ago
 
 ---
 
 **[3ch camera tilt platform](https://www.reddit.com/r/robotics/comments/1tfhrza/3ch_camera_tilt_platform/)**
 
-11h ago
-
----
-
-**[For a robotics startup, what is the best way to get non-binding LOI’s to test our robots in their business?](https://www.reddit.com/r/robotics/comments/1tfpmuv/for_a_robotics_startup_what_is_the_best_way_to/)**
-
-We’re building a robotics startup and want to get non-binding LOIs from businesses willing to test our robots in real operations. The goal is not to close full contracts yet, but to validate demand, get feedback, and prove ROI through pilots. For founders/operators who’ve done this: what’s the best way to approach companies, structure the LOI, and make the ask low-risk enough for them to say yes?
-
-4h ago
+12h ago
 
 ---
 
@@ -100,7 +92,13 @@ Unitree just unveiled the GD01 which they are calling the world's first mass pro
 
 So my Go2 Pro won't stand up intermittently. Boots fine, LiDAR spins up, but head flashes red and it won't initialise most times. When it doesn't standup and flashes red as per above Alarms: Two x Communication firmware error / Motor communication error RR_SHANK all specs and diagnostics show motor comm or firmware error (Accumulation more than 30K) When it does boot up, pulled up the diagnostics in the app and found this: RR Shank Motor accumulated loss: 600+ (all others 0) Communication quality: 100% on all motors including RR Wrong sign: Normal on all motors Casing temperature: All normal But will eventually will just stop moving and fall down, usually with red light and damped, but sometimes just drops with no power Here's the interesting part, the RR leg rotation in the off position is not the same as the other three. The other legs fold anticlockwise, the RR folds clockwise, it's like it has it's own range of motion. Feels like a softish stop at both ends, don't want to force. Video Attached My theory is an issue with the mechanical hard stop, maybe the leg has wound past its limit, and now the motor is constantly accumulating error trying to reach a position it physically can't get to or it is just a loose connection. The flex cable may also be over-wound or kinked on the hub as a result. Does anyone have any familiarity with how the hard stops with in the hub motor where the wound cable relief system is? Any theories welcome.
 
-20h ago
+22h ago
+
+---
+
+**[Camera tilt platform](https://www.reddit.com/r/robotics/comments/1tem71t/camera_tilt_platform/)**
+
+1d ago
 
 ---
 
@@ -116,28 +114,6 @@ NBC News • 2d ago
 
 ---
 
-**[China unveils a giant rideable robot straight out of sci-fi movie](https://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction)**
-
-A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
-
-Euronews.com • 11h ago
-
----
-
-**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
-
-Go Local Prov • 11h ago
-
----
-
-**[Rocket Lab Buys Motiv As Robotics Shift Meets Stretched Valuation Risks](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-buys-motiv-robotics-201108663.html)**
-
-Rocket Lab has announced the acquisition of Motiv Space Systems, a specialist in space robotics and precision mechanisms. The deal brings flight proven robotic systems used on missions such as Mars rovers directly into Rocket Lab’s in house capabilities. This move is intended to support more complex lunar and planetary missions and expand offerings for government and commercial customers. Rocket Lab (NasdaqGS:RKLB) is pushing further into space infrastructure and defense services by adding...
-
-Yahoo Finance • 21h ago
-
----
-
 **[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
 
 Your weekly selection of awesome robot videos
@@ -146,33 +122,31 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[China unveils a giant rideable robot straight out of sci-fi movie](https://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction)**
+
+A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
+
+Euronews.com • 12h ago
+
+---
+
+**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
+
+Go Local Prov • 13h ago
+
+---
+
+**[Rocket Lab Buys Motiv As Robotics Shift Meets Stretched Valuation Risks](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-buys-motiv-robotics-201108663.html)**
+
+Rocket Lab has announced the acquisition of Motiv Space Systems, a specialist in space robotics and precision mechanisms. The deal brings flight proven robotic systems used on missions such as Mars rovers directly into Rocket Lab’s in house capabilities. This move is intended to support more complex lunar and planetary missions and expand offerings for government and commercial customers. Rocket Lab (NasdaqGS:RKLB) is pushing further into space infrastructure and defense services by adding...
+
+Yahoo Finance • 23h ago
+
+---
+
 **[Inside China’s Push to Build an Army of AI-Powered Combat Robots](https://www.eweek.com/news/china-military-robotics-ai-warfare-apac/)**
 
-eWeek • 2d ago
-
----
-
-**[AI advances are breaking into the physical world – and robots will soon learn how to do your washing and ironing](https://nypost.com/2026/05/17/tech/souped-up-ai-is-making-robots-think-learn-for-themselves-and-out-perform-us/)**
-
-A tech VC said, physical AI is “the challenge of figuring out how to reinvent the physical world. It’s a big challenge.” In describing Project Prometheus, he added, “I perso…
-
-New York Post • 5h ago
-
----
-
-**[China launches national vocational training ground for embodied robots](https://www.globaltimes.cn/page/202605/1361125.shtml)**
-
-A national pilot base for embodied robot applications was launched on Saturday in Hangzhou, capital of east China's Zhejiang Province, which is home to a growing number of robotics makers, including Unitree.
-
-Global Times • 18h ago
-
----
-
-**[Local Robotics Team Earns Spot at World Championship in St Johns](https://vocm.com/2026/05/16/299271/)**
-
-St. Mark's in King's Cove may have just 20 students, but its robotics team is off to compete in the MATE ROV I...
-
-VOCM • 1d ago
+eWeek • 3d ago
 
 ---
 
@@ -180,7 +154,27 @@ VOCM • 1d ago
 
 The road to becoming a robotic superpower was paved with skepticism, but Ukraine did not set out to become a world leader in military robotics - it set out to survive.
 
-The Jerusalem Post • 1d ago
+The Jerusalem Post • 2d ago
+
+---
+
+**[New FANUC-NVIDIA system lets virtual robots behave like real machines](https://interestingengineering.com/ai-robotics/fanuc-nvidia-sim-to-real-digital-twins)**
+
+FANUC and NVIDIA built factory robot digital twins that mirror real-world motion and AI behavior.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Dunedin robotics company charged over worker’s death](https://www.stuff.co.nz/nz-news/360979836/dunedin-robotics-company-charged-over-workers-death)**
+
+Stuff • 1d ago
+
+---
+
+**[Amazon's next CT warehouse will have 'advanced' robots. What does that mean for human employees, customers?](https://www.ctinsider.com/business/article/amazon-robotics-ct-warehouse-retail-technology-22258632.php)**
+
+CT Insider • 2d ago
 
 ---
 
@@ -188,23 +182,33 @@ The Jerusalem Post • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
-
-You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 234 • 💬 23 • ⏱️ 55:02 • 4d ago
-
----
-
 **[F.03 Livestream - Day 5: Man vs. Machine](https://www.youtube.com/watch?v=luU57hMhkak)**
 
 Watch a team of humanoid robots running a full 8-hr shift at human performance levels. This is fully autonomous running Helix-02.
 
 📺 Figure
 
-👁️ 1.9M • 👍 34K • 4d ago
+👁️ 2.0M • 👍 35K • 4d ago
+
+---
+
+**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
+
+You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 236 • 💬 24 • ⏱️ 55:02 • 4d ago
+
+---
+
+**[New Jersey man plans to sue over collision with delivery robot | NBC New York](https://www.youtube.com/watch?v=d0k36PNXGxI)**
+
+A man in New Jersey said he was the victim of a hit-and-run — by a delivery robot. He said he was knocked off his bike and left ...
+
+📺 NBC New York
+
+👁️ 8K • 👍 84 • 💬 46 • ⏱️ 2:43 • 21h ago
 
 ---
 
@@ -214,17 +218,7 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 82K • 👍 713 • 💬 255 • ⏱️ 3:00 • 2d ago
-
----
-
-**[Apple’s New $5,000 Home Robot iSiri Will Make You Forget About Cleaning Forever](https://www.youtube.com/watch?v=cg83PmGY09w)**
-
-Apple's new home robot iSiri is being described as a major step toward fully automated smart living, combining advanced AI with ...
-
-📺 Carros Show
-
-👁️ 23K • 👍 321 • 💬 35 • ⏱️ 23:07 • 4d ago
+👁️ 83K • 👍 720 • 💬 257 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -234,27 +228,7 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 91K • 👍 4K • 💬 595 • ⏱️ 15:32 • 1d ago
-
----
-
-**[Episode 2 Ocean Barrier: Secret robot fish](https://www.youtube.com/watch?v=n7VKomFiCrk)**
-
-Scene using artificial intelligence. #aiart #movie.
-
-📺 Miracle Animal Rescues
-
-👁️ 678K • 👍 3K • 💬 52 • ⏱️ 8:12 • 2d ago
-
----
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 29K • 👍 631 • 💬 110 • ⏱️ 21:16 • 4d ago
+👁️ 98K • 👍 5K • 💬 614 • ⏱️ 15:32 • 1d ago
 
 ---
 
@@ -264,7 +238,17 @@ Unitree just revealed the GD01, a real manned mecha robot that can walk on two l
 
 📺 AI Revolution
 
-👁️ 21K • 👍 586 • 💬 71 • ⏱️ 15:27 • 2d ago
+👁️ 21K • 👍 588 • 💬 72 • ⏱️ 15:27 • 2d ago
+
+---
+
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+
+📺 Technology with Tyler
+
+👁️ 31K • 👍 671 • 💬 117 • ⏱️ 21:16 • 4d ago
 
 ---
 
@@ -274,7 +258,7 @@ Unitree Robotics has unveiled the GD01 — the world's first mass-produced ridea
 
 📺 CGTN Europe
 
-👁️ 80K • 👍 532 • 💬 64 • ⏱️ 0:33 • 4d ago
+👁️ 80K • 👍 533 • 💬 64 • ⏱️ 0:33 • 4d ago
 
 ---
 
@@ -284,7 +268,17 @@ LIKE & SUBSCRIBE for new videos daily: https://youtube.com/@BenShapiro?si=mTKyS7
 
 📺 Ben Shapiro
 
-👁️ 83K • 👍 3K • 💬 248 • ⏱️ 0:37 • 2d ago
+👁️ 83K • 👍 3K • 💬 248 • ⏱️ 0:37 • 3d ago
+
+---
+
+**[1 Million Damage Per Shot... Vendicatore Ao Ming Is Broken - 1 Shot Maulers | War Robots](https://www.youtube.com/watch?v=3If4mVnR4lY)**
+
+The most insane 1 shot build in War Robots. I had no idea this build was like this! The Vendicatore were really powerful when they ...
+
+📺 PREDATOR WR
+
+👁️ 15K • 👍 594 • 💬 71 • ⏱️ 14:43 • 1d ago
 
 ---
 
