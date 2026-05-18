@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-18T20:13:02.725001+00:00'
+updated: '2026-05-18T21:46:46.618544+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 18, 2026 at 20:13 UTC  
+**Last Updated:** May 18, 2026 at 21:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -6.6%  
-**30d:** -6.1%  
-**90d:** +8.7%  
-**1y:** -16.1%  
+**24h:** -1.9%  
+**7d:** -6.1%  
+**30d:** -5.6%  
+**90d:** +9.3%  
+**1y:** -15.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
 
-5h ago
+7h ago
 
 ---
 
@@ -80,13 +80,13 @@ Vitalik’s point here is pretty interesting imo. The usual fear is that AI make
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker](https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -162,15 +162,15 @@ The Block • 3h ago
 
 Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
-**[Bit Digital (BTBT) Remains Firm on Ethereum-focus Strategic Asset Game Plan](https://sg.finance.yahoo.com/news/bit-digital-btbt-remains-firm-191624520.html)**
+**[Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-greater-quantum-computing-205533956.html)**
 
-Bit Digital (NASDAQ:BTBT) is one of the 8 Best Small Cap Data Center Stocks to Buy. Despite posting lower revenues in the first quarter of the year, Bit Digital remained firm on its Ethereum-focused strategic asset game plan, which is centered on treasury management, staking, and disciplined capital allocation, the company said on May 14. […]
+Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.
 
-Yahoo Finance Singapore • 56m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance Singapore • 56m ago
 
 Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices](https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices)**
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -192,37 +192,39 @@ CoinDesk • 3h ago
 
 Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
 
-PR Newswire • 7h ago
+PR Newswire • 9h ago
 
 ---
 
-**[Current price of Ethereum for May 18, 2026](https://fortune.com/article/price-of-ethereum-05-18-2026/)**
+**[Harvard sold off its entire $87 million Ethereum stake just one quarter after buying it](https://fortune.com/2026/05/18/harvard-87-million-ethereum/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The university was the largest new buyer of BlackRock’s Ethereum ETF in Q4 of 2025
 
-Fortune • 6h ago
-
----
-
-**[New Crypto: Pepeto Reveals DeFi Update Follow Dogecoin Success While Ethereum Price Prediction Targets $5,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-reveals-defi-update-follow-dogecoin-success-while-ethereum-price-prediction-targets-5-000-1036171480)**
-
-Dubai, UAE, May  18, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto confirms ongoing progress on its DeFi tools, tools designed to res...
-
-markets.businessinsider.com • 6h ago
+Fortune • 1h ago
 
 ---
 
-**[Most large cryptocurrencies decrease on Dogecoin, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-dogecoin-ethereum-drops-fe7c9fc1-0e0b70fdd948)**
+**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
 
-MarketWatch • 6h ago
+Success for a blockchain isn't always the same as success for investors.
+
+The Motley Fool • 1d ago
 
 ---
 
-**[Why Ethereum Is About To Break The Bear Cycle And Rally To $8,000](https://www.tradingview.com/news/newsbtc:051580adb094b:0-why-ethereum-is-about-to-break-the-bear-cycle-and-rally-to-8-000/)**
+**[$5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?](https://finance.yahoo.com/markets/crypto/articles/5-000-xrp-vs-5-194612174.html)**
 
-Ethereum’s price weakness may be approaching a decisive turning point, according to a new technical analysis comparing the current ETH structure with previous market cycles. The pattern that formed before the 2017 parabolic run and again before the 2020 breakout is now reappearing in 2026, and the…
+A $5,000 bet on XRP (CRYPTO: XRP) or Ethereum (CRYPTO: ETH) today could look very different by 2028, and the difference between the two investments is wider than most people expect. XRP has momentum behind it, Ripple’s payments business keeps growing, and the regulatory pressure that crushed the token for years has mostly faded. Meanwhile, ... $5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?
 
-TradingView • 6h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Why Is Crypto Going Down? Bitcoin, XRP Price , Ethereum and Dogecoin Fall for 4th Straight Session](https://www.tradingview.com/news/financemagnates:6ebeb8f73094b:0-why-is-crypto-going-down-bitcoin-xrp-price-ethereum-and-dogecoin-fall-for-4th-straight-session/)**
+
+Bitcoin (BTC) traded at $76,959 on Monday, May 18, 2026, down 1.37% as the world's largest cryptocurrency tested its 50-day exponential moving average for the fourth consecutive losing session. Why is crypto going down? President Trump's Sunday Truth Social post warning Iran the "clock is ticking"…
+
+TradingView • 12h ago
 
 ---
 
@@ -236,7 +238,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 186 • 💬 30 • ⏱️ 9:29 • 4h ago
+👁️ 2K • 👍 186 • 💬 30 • ⏱️ 9:29 • 6h ago
 
 ---
 
@@ -246,7 +248,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 4K • 👍 548 • 💬 256 • ⏱️ 6:17 • 6h ago
+👁️ 4K • 👍 548 • 💬 256 • ⏱️ 6:17 • 8h ago
 
 ---
 
@@ -276,7 +278,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 172 • ⏱️ 8:37 • 22h ago
+👁️ 32K • 👍 2K • 💬 172 • ⏱️ 8:37 • 23h ago
 
 ---
 
@@ -316,7 +318,7 @@ A real Monet image was framed as AI-generated, dragged as AI slop, minted on Eth
 
 📺 Blake Finucane
 
-👁️ 649 • 👍 27 • 💬 2 • ⏱️ 2:07 • 6h ago
+👁️ 649 • 👍 27 • 💬 2 • ⏱️ 2:07 • 7h ago
 
 ---
 
@@ -326,7 +328,7 @@ Open Account On Delta Exchange : https://www.delta.exchange/?code=FNXBJD Open Ac
 
 📺 Trade With Sunil 
 
-👁️ 680 • 👍 96 • 💬 12 • ⏱️ 9:46 • 5h ago
+👁️ 680 • 👍 96 • 💬 12 • ⏱️ 9:46 • 6h ago
 
 ---
 
