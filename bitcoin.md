@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-18T08:31:19.377930+00:00'
+updated: '2026-05-18T12:32:22.095038+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 18, 2026 at 08:31 UTC  
+**Last Updated:** May 18, 2026 at 12:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,902.33
+### $77,286.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -4.3%  
-**30d:** +4.4%  
-**90d:** +15.9%  
-**1y:** -27.1%  
+**24h:** -1.2%  
+**7d:** -3.9%  
+**30d:** +4.8%  
+**90d:** +16.4%  
+**1y:** -26.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1541.55B
+**Market Cap:** $1548.93B
 Rank #1
 
 **Circulating Supply:** 20,030,493 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--39.0%
+-38.7%
 
 **All-Time Low:** $67.81
-+113395.1%
++113917.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 So I invested 10k in 2017 via my relative as I was not well versed with crypto and trusted him. The investment was done via Zebpay using his mobile no and email. Did some follow up in middle but was told that there is not much gains. I felt something fishy and wanted to see the portfolio now but the guy is saying his old bank account got inactive and KYC is not working in Zebpay. I tried to login using his mobile no but he is claiming not getting OTP. Can this be genuine. I’ve seen some reports of Zebpay being a scam. Could they be at fault here? He initially claimed that the value was around 28k claiming customer care called him and was insisting to cash it out. However as per my assumption the value should be above 1 Lac. Please suggest.
 
-5h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ So I invested 10k in 2017 via my relative as I was not well versed with crypto a
 
 A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it YellowKey exploit bypasses BitLocker full volume encryption via USB stick and WinRE A researcher known as "Nightmare-Eclipse" recently released YellowKey, a security vulnerability that allegedly enables a full bypass of BitLocker's full-volume encryption. The researcher described YellowKey as one of the most "insane" flaws they have ever encountered and has also accused Microsoft of potentially embedding a legitimate backdoor in BitLocker's data protection system. According to the researcher, YellowKey appears unusual for a previously unknown security bug. Nightmare-Eclipse explained that the flaw can be reproduced by copying an attached "FsTx" folder to a USB drive formatted with a Windows-compatible file system such as NTFS, FAT32, or exFAT. The vulnerability may also work without a USB drive if the FsTx files are copied to the Windows EFI partition and the encrypted disk is temporarily disconnected from the system. After placing the FsTx folder, an attacker would need to reboot a BitLocker-protected machine, enter the Windows Recovery Environment, and follow a specific sequence of inputs. If the procedure is completed correctly, a command shell reportedly appears, granting unrestricted access to BitLocker-protected volumes. No passwords are required, and the encrypted data may become fully accessible for browsing, copying, and other file operations. Nightmare-Eclipse believes that YellowKey's vulnerability could reasonably be considered a backdoor intentionally introduced into BitLocker by Microsoft. Their reasoning is that the component triggering the issue can only be found in the official WinRE image. The same component is also present in standard Windows installation images, but it does not exhibit the BitLocker-bypassing behavior observed on live systems. The researcher explained that they "just can't come up with an explanation beside the fact that this was intentional. Also for whatever reason, only windows 11 (+Server 2022/2025) are affect, windows 10 is not." // Related Stories Apple is rolling out end-to-end encryption for iPhone to Android RCS messages Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month Third-party researchers have reportedly confirmed that YellowKey behaves as described by Nightmare-Eclipse in public GitHub materials. In addition, the researcher released a second exploit, GreenPlasma, which is said to enable privilege escalation. They did not publish full proof-of-concept code for achieving SYSTEM-level access, instead suggesting they may disclose further details ahead of next month's Patch Tuesday. Nightmare-Eclipse is known for targeting Microsoft and the company's alleged hostility toward external security researchers. Previously operating under the alias "Chaotic Eclipse," they released Red Sun and other vulnerabilities with public proof-of-concept code, while accusing Microsoft of damaging their career and reputation. As for YellowKey's alleged backdoor behavior, mitigation is relatively straightforward. Security professionals generally recommend avoiding reliance on any single encryption system and instead evaluating well-reviewed full-disk encryption alternatives such as VeraCrypt.
 
-🔗 [techspot.com](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) • 13h ago
+🔗 [techspot.com](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) • 17h ago
 
 ---
 
@@ -97,7 +97,7 @@ A security researcher says Microsoft secretly built a backdoor into BitLocker, r
 
 I am a noob, and have been reading a bit here and there about bitcoin cycles and correction. Is this a good time to start investing in BTC? I know I'm late by about 20 years, but I wanna know if there is potential.
 
-4h ago
+8h ago
 
 ---
 
@@ -105,7 +105,31 @@ I am a noob, and have been reading a bit here and there about bitcoin cycles and
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+6h ago
+
+---
+
+**[Bought too much at 90 and had to sell with loss](https://www.reddit.com/r/Bitcoin/comments/1tgkps0/bought_too_much_at_90_and_had_to_sell_with_loss/)**
+
+Feels bad man. Lesson learned: don't overinvest in BTC, because you may need As the price was going down in january, febuary and march, and i had a lot of fiat, i boght too much BTC because I tought I was getting a good deal. I invested 70% i think of my surplus at the time on bitcoin, and 30% at other safer assets. Now at may i am in finantial dificulties, and i am obliged to sell my BTC at a loss to keep up with my daily expenses. If i have been less greedy (invested 20% of surplus) i wold be ok, because I would be selling my other investiments. I have a family (Wife and 2 kids) and with less earnings from her and me the last months, I have no other option than sell at loss. Anyone here on the same situation?
+
+21m ago
+
+---
+
+**[Mentor Monday, May 18, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1tgew3c/mentor_monday_may_18_2026_ask_all_your_bitcoin/)**
+
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
+
+5h ago
+
+---
+
+**[Bitcoin Meme I made](https://www.reddit.com/r/Bitcoin/comments/1tg7cgb/bitcoin_meme_i_made/)**
+
+https://preview.redd.it/wrxcbo36os1h1.png?width=686&format=png&auto=webp&s=534cb0397960fec566b0c4080f1af359c6de8ca1 So true
+
+11h ago
 
 ---
 
@@ -117,39 +141,17 @@ A study of AI models found they overwhelmingly prefer bitcoin over fiat. The age
 
 ---
 
-**[Mentor Monday, May 18, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1tgew3c/mentor_monday_may_18_2026_ask_all_your_bitcoin/)**
-
-Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
-
-1h ago
-
----
-
-**[Bitcoin Meme I made](https://www.reddit.com/r/Bitcoin/comments/1tg7cgb/bitcoin_meme_i_made/)**
-
-https://preview.redd.it/wrxcbo36os1h1.png?width=686&format=png&auto=webp&s=534cb0397960fec566b0c4080f1af359c6de8ca1 So true
-
-7h ago
-
----
-
 **[The Cantillion Effect. Gnosis.](https://www.reddit.com/r/Bitcoin/comments/1tfxydf/the_cantillion_effect_gnosis/)**
 
-13h ago
+17h ago
 
 ---
 
-**[‘A Bitcoin Evangelist Tries to Convert Me’](https://www.reddit.com/r/Bitcoin/comments/1tfv2kd/a_bitcoin_evangelist_tries_to_convert_me/)**
+**[BTC -> Lightning diagram, feedback please](https://www.reddit.com/r/Bitcoin/comments/1tfzfb8/btc_lightning_diagram_feedback_please/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html) • 15h ago
+Working on an explainer diagram for the Lightning network section of using bitcoin https://www.learnbitcoin.com/journey/using-bitcoin/ Been trying to land the mental model that a channel is sidechain-shaped: Alice and Bob start on mainnet, drop into Lightning for as long as the channel is useful, settle back to mainnet at close. Two on-chain transactions, unlimited off-chain payments between. Been struggling to get this one right, feedback appreciated.
 
----
-
-**[Your family can't access your Bitcoin when you die. Here's how to fix that without giving anyone your seed phrase.](https://www.reddit.com/r/Bitcoin/comments/1tfoqmz/your_family_cant_access_your_bitcoin_when_you_die/)**
-
-Somewhere between setting up a hardware wallet and feeling good about your security setup, most Bitcoiners skip a step that matters more than the hardware. The seed phrase is secured. Nobody else knows it exists. That's not self custody succeeding. That's self custody creating a different problem. I've been thinking about this a lot lately and the solution is simpler than most people make it. You don't need multisig, a lawyer, or a complicated inheritance scheme. You need a written document that a non-technical person can follow on the worst day of their life. Here's what actually works: A letter of instruction - not in your will: Your will becomes public record through probate and takes months to process. A separate sealed document stored somewhere your family knows about is faster, private, and more practical. It doesn't need to contain your seed phrase, just a map to it. The split location approach: Store your seed phrase backup in one location. Store a short passphrase or location hint in a completely separate location, safety deposit box, trusted family member, sealed envelope with your attorney. Neither location is useful alone. Both are accessible through normal estate processes after death. A wallet inventory: Every hardware wallet, software wallet, and exchange account written down somewhere findable. Not the seed phrases, just the map. Your family needs to know what exists before they can figure out how to access it. The honeypot test: Keep a small decoy balance on a separate wallet with a seed phrase your trusted person knows. If that balance ever moves while you're alive you know your security has been compromised. The real test: Explain your recovery process out loud to whoever would inherit. If they can't follow it under normal conditions they definitely can't follow it under stress and grief. If it's too complicated to explain it's too complicated period. None of this requires sharing your actual seed phrase with anyone today. It just requires making sure the people you'd want to have your Bitcoin actually could. The lock is only useful if someone you trust can open it when it matters.
-
-19h ago
+16h ago
 
 ---
 
@@ -157,53 +159,45 @@ Somewhere between setting up a hardware wallet and feeling good about your secur
 
 ## Google News: "bitcoin"
 
-**[Bitcoin drops below $77,000 on Trump's Iran threat, renewed inflation fears: analysts](https://www.theblock.co/post/401583/bitcoin-drops-below-77000)**
-
-Investors are concerned that high oil prices could fuel inflation to the point where the Fed may raise interest rates, analysts say.
-
-The Block • 4h ago
-
----
-
-**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
-
----
-
-**[US crypto ATM operator Bitcoin Depot files for Chapter 11 to wind down business](https://www.theblock.co/post/401590/bitcoin-depot-chapter-11)**
-
-Bitcoin Depot said changing regulatory environments have made it difficult to continue its current business model.
-
-The Block • 2h ago
-
----
-
-**[Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy](https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy)**
+**[Bitcoin drops to two-week low after Trump warns Iran 'clock is ticking:' Crypto Markets Today](https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets)**
 
 CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Depot Issues Bankruptcy Warning as Revenue Drops 49%](https://bitbo.io/news/bitcoin-depot-bankruptcy-warning-revenue/)**
+**[Trump Takes Stake In MARA Holdings As Bitcoin And AI Risks Mount](https://finance.yahoo.com/markets/crypto/articles/trump-takes-stake-mara-holdings-050900909.html)**
 
-Bitcoin Depot, the world's largest crypto ATM operator, has issued a going concern warning after reporting a 49% revenue drop and mounting legal costs from state regulatory lawsuits.
+US President Donald Trump disclosed a personal investment in MARA Holdings (NasdaqCM:MARA). The investment centers on MARA’s pivot toward bitcoin mining operations and AI focused digital infrastructure. This is one of the highest profile political endorsements to date for a cryptocurrency linked and AI infrastructure company. MARA Holdings operates at the intersection of bitcoin mining and AI focused data center infrastructure, two areas drawing attention from both institutional capital and...
 
-Bitbo • 16h ago
-
----
-
-**[Bitcoin Slips Below $80K: Why the 200-Day Average Remains the Wall](https://www.investing.com/analysis/bitcoin-slips-below-80k-why-the-200day-average-remains-the-wall-200680443)**
-
-Investing.com • 40m ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Is Bitcoin on the Brink of a Knockdown?](https://www.investing.com/analysis/is-bitcoin-on-the-brink-of-a-knockdown-200680456)**
+**[Bitcoin drops below $77,000 on Trump's Iran threat, renewed inflation fears: analysts](https://www.theblock.co/post/401583/bitcoin-drops-below-77000)**
 
-Investing.com • 18m ago
+Investors are concerned that high oil prices could fuel inflation to the point where the Fed may raise interest rates, analysts say.
+
+The Block • 8h ago
+
+---
+
+**[Harvard Dumps Its Ethereum and Bitcoin ETF Investment](https://finance.yahoo.com/markets/crypto/articles/harvard-dumps-ethereum-bitcoin-etf-103709099.html)**
+
+Harvard's endowment slashes its Bitcoin ETF stake 43% and exits Ethereum, while Abu Dhabi's Mubadala adds to IBIT.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
+
+Barron's • 51m ago
+
+---
+
+**[Strategy Inc sells $2 billion in stock, acquires 24,869 bitcoin](https://www.investing.com/news/cryptocurrency-news/strategy-inc-sells-2-billion-in-stock-acquires-24869-bitcoin-432SI-4695583)**
+
+Investing.com • 21m ago
 
 ---
 
@@ -213,19 +207,25 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[What Is Bitcoin Pizza Day, and Why Does It Matter?](https://www.whitecoatinvestor.com/bitcoin-pizza-day/)**
+**[SpaceX bitcoin treasury in focus as pre-IPO market launches at $1.78 trillion valuation](https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid)**
 
-Let’s journey back in time and discover how and why a tech enthusiast thought it'd be a good idea to spend 10,000 Bitcoin for some pizza.
-
-The White Coat Investor • 1d ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin Stalls After CLARITY Act Success: Will Pro-Crypto Fed, White House Save The Day?](https://coinmarketcap.com/academy/article/bitcoin-stalls-clarity-act-pro-crypto-fed-white-house)**
+**[US crypto ATM operator Bitcoin Depot files for Chapter 11 to wind down business](https://www.theblock.co/post/401590/bitcoin-depot-chapter-11)**
 
-Crypto traders sold the news following Kevin Warsh’s Fed chair confirmation and a successful markup of the CLARITY Act, but dip buyers may save the day.
+Bitcoin Depot said changing regulatory environments have made it difficult to continue its current business model.
 
-CoinMarketCap • 13h ago
+The Block • 6h ago
+
+---
+
+**[State senator owes $50M in legal dispute over EKY Bitcoin facility](https://www.kentucky.com/news/business/article315773494.html)**
+
+The legal battle began in November 2023 over wrongful eviction, breach of a license agreement and unlawful retaining of property.
+
+Lexington Herald Leader • 2d ago
 
 ---
 
@@ -237,7 +237,7 @@ CoinMarketCap • 13h ago
 
 The user apparently changed the password while 'stoned'
 
-⬆️ 331 • 💬 174 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+⬆️ 332 • 💬 174 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 
 ---
 
@@ -287,23 +287,23 @@ How Deblock integrated instant, non-custodial bitcoin into their neobank using t
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Did Bitcoin Dip Today?](https://www.youtube.com/watch?v=11GdEXfi1A0)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 932 • 💬 183 • ⏱️ 8:43 • 8h ago
-
----
-
 **[The Bitcoin Singularity Has Arrived | Digital Credit Ignites Supply Shock](https://www.youtube.com/watch?v=oVe4QWVvelY)**
 
 Bitcoin's next breakout may not come from ETFs or institutions. It may come from retail panic, digital credit, and a supply shock ...
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 822 • 💬 71 • ⏱️ 16:37 • 9h ago
+👁️ 11K • 👍 963 • 💬 87 • ⏱️ 16:37 • 13h ago
+
+---
+
+**[Why Did Bitcoin Dip Today?](https://www.youtube.com/watch?v=11GdEXfi1A0)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 1K • 💬 203 • ⏱️ 8:43 • 12h ago
 
 ---
 
@@ -313,17 +313,7 @@ Bitcoin #Crypto #Finance President's Council of Advisors for Digital Assets Patr
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 894 • 💬 313 • ⏱️ 28:56 • 19h ago
-
----
-
-**[Gareth Soloway: Bitcoin &amp; BTC Bear Flag Warning — $49K Target, ETH, XRP, Crypto Breakdown 2026](https://www.youtube.com/watch?v=KJ35xjFGkXs)**
-
-Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, breaks down the LATEST ...
-
-📺 Gareth Soloway
-
-👁️ 64K • 👍 4K • 💬 302 • ⏱️ 12:17 • 18h ago
+👁️ 23K • 👍 945 • 💬 337 • ⏱️ 28:56 • 23h ago
 
 ---
 
@@ -333,7 +323,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 459 • 💬 143 • ⏱️ 15:06 • 8h ago
+👁️ 9K • 👍 537 • 💬 182 • ⏱️ 15:06 • 12h ago
+
+---
+
+**[Gareth Soloway: Bitcoin &amp; BTC Bear Flag Warning — $49K Target, ETH, XRP, Crypto Breakdown 2026](https://www.youtube.com/watch?v=KJ35xjFGkXs)**
+
+Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, breaks down the LATEST ...
+
+📺 Gareth Soloway
+
+👁️ 68K • 👍 4K • 💬 269 • ⏱️ 12:17 • 22h ago
 
 ---
 
@@ -353,37 +353,37 @@ Three massive stories just collided into one terrifying picture. BlackRock is fi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 134 • ⏱️ 35:26 • 1d ago
+👁️ 25K • 👍 2K • 💬 139 • ⏱️ 35:26 • 1d ago
 
 ---
 
-**[BITCOIN JUST FLASHED THE SAME SIGNAL BEFORE EVERY MASSIVE RUN 🚨](https://www.youtube.com/watch?v=MDr8BJFtlXY)**
+**[Bitcoin is the most ‘IMPACTFUL’ cryptocurrency, says HIVE Digital Technologies CEO](https://www.youtube.com/watch?v=QyravSrxpm0)**
 
-Bitcoin is entering one of the MOST important moments of this entire cycle… and almost nobody is seeing the full picture.
+HIVE Digital Technologies CEO Aydin Kilic explains the company's strategic pivot from Bitcoin mining to AI cloud computing and ...
 
-📺 Crypto Love
+📺 Fox Business
 
-👁️ 5K • 👍 351 • 💬 144 • ⏱️ 11:27 • 15h ago
-
----
-
-**[Bitcoin Holders: Prepare For Zero Rate Cuts (And What This Means)](https://www.youtube.com/watch?v=V7ePdAPnqHs)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Kalshi: ...
-
-📺 Aaron Bennett
-
-👁️ 6K • 👍 308 • 💬 58 • ⏱️ 8:04 • 1d ago
+👁️ 8K • 👍 219 • 💬 103 • ⏱️ 7:26 • 18h ago
 
 ---
 
-**[Trump Plans July 4th Bitcoin Reset? | What They&#39;re NOT Telling You About The Clarity Act!](https://www.youtube.com/watch?v=VYOBfFIRSZk)**
+**[Next Crypto Bull Run Can Make You Rich (Unlike Anything Else)](https://www.youtube.com/watch?v=d0gzEK3F-4s)**
 
-Bitcoin just crossed a major political milestone as the Clarity Act advanced through the Senate Banking Committee. But the real ...
+Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 172 • ⏱️ 15:33 • 2d ago
+👁️ 26K • 👍 2K • 💬 151 • ⏱️ 8:37 • 14h ago
+
+---
+
+**[We Really Need To Talk About Bitcoin Right Now](https://www.youtube.com/watch?v=yjIoBnlRXQc)**
+
+We need to talk about bitcoin, and the overall crypto markets right now because everyone is emotional and too confident in their ...
+
+📺 The Crypto Factor
+
+👁️ 204 • 👍 33 • 💬 20 • ⏱️ 18:39 • 2h ago
 
 ---
 

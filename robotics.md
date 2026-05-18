@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-18T08:31:19.386030+00:00'
+updated: '2026-05-18T12:32:22.104270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 18, 2026 at 08:31 UTC  
+**Last Updated:** May 18, 2026 at 12:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robot arm](https://www.reddit.com/r/robotics/comments/1tgbw4x/robot_arm/)**
+**[Human beats F.03: F.03: 12,732 packages (2.83 seconds/package) - Aime: 12,924 packages (2.79 seconds/package)](https://www.reddit.com/r/robotics/comments/1tgh6gi/human_beats_f03_f03_12732_packages_283/)**
 
-4h ago
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466 Maybe, this is the last time a human will ever win.
+
+3h ago
 
 ---
 
-**[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg10ks/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
+**[Robot arm](https://www.reddit.com/r/robotics/comments/1tgbw4x/robot_arm/)**
 
-11h ago
+8h ago
 
 ---
 
@@ -48,13 +50,43 @@ Robotics research and industry news
 
 A lot of humanoid demos focus on walking, balance, and whole-body motion, but I keep coming back to the hand as the harder problem. This demo shows a dexterous robotic hand doing object manipulation tasks. The hardware is interesting, but the bigger question for me is: what should a robot hand learn first if the goal is useful real-world manipulation? Reliable pinch grasp? Tool use? Opening containers? Handling soft/deformable objects? Curious what people here think is the best first benchmark for a general-purpose robot hand.
 
-3h ago
+7h ago
+
+---
+
+**[My little robot has learned to walk in Isaac Lab!!](https://www.reddit.com/r/robotics/comments/1tg10ks/my_little_robot_has_learned_to_walk_in_isaac_lab/)**
+
+15h ago
 
 ---
 
 **[When Chinese Robots Enter Construction Sites, Can They Really Do Better Than Humans?](https://www.reddit.com/r/robotics/comments/1tgbfye/when_chinese_robots_enter_construction_sites_can/)**
 
-4h ago
+8h ago
+
+---
+
+**[We just introduced live visualizations to bonsai-bt behavior trees](https://www.reddit.com/r/robotics/comments/1tgjyxa/we_just_introduced_live_visualizations_to/)**
+
+If you are not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics control loops, game NPCs, and any agent that needs predictable, debuggable decision-making The new visualizer makes it a lot easier to actually see what your tree is doing and catch issues without sprinkling print statements everywhere. See repo for more: https://github.com/Sollimann/bonsai
+
+53m ago
+
+---
+
+**[Has anyone here actually deployed a robot that runs 24/7 for more than a year without a human babysitter?](https://www.reddit.com/r/robotics/comments/1tgb38r/has_anyone_here_actually_deployed_a_robot_that/)**
+
+not talking about demos or lab setups. i mean a real deployment where the thing runs unattended for long stretches and handles edge cases on its own. ive seen plenty of impressive videos but when i talk to people whove actually tried it the story is always the same. something breaks after 2-3 months. a sensor drifts. an actuator jams. the environment changes slightly and the whole thing falls apart. curious if anyone here has cracked this in practice and what the actual reliability numbers look like.
+
+8h ago
+
+---
+
+**[Tom's Hardware covered my fully-offline suitcase robot but used a stock graphic - so I put up a real dev site featuring the build with photos](https://www.reddit.com/r/robotics/comments/1tgf4w7/toms_hardware_covered_my_fullyoffline_suitcase/)**
+
+A few days ago I posted Sparky over on r/LocalLLaMA — fully-offline companion bot living in a suitcase, NVIDIA Jetson Orin NX Super 16GB, Gemma 4 E4B via llama.cpp, ~200ms response time, 30+ integrated sensors feeding context into every prompt. No cloud, no API keys, no internet required. Tom's Hardware picked it up but couldn't find any decent photos of mine online, so they ran with a Getty eyeballs-in-a-suitcase stock image. I had no real web presence for the build, so sure. I spent tonight from a hotel room putting together a proper page with real build photos, the actual specs, and the story. 2-minute build/demo video: https://youtube.com/shorts/XlAq1JXu5zM?si=IXMf8IJzZOYVdL3g Tom's Hardware piece: https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms Original r/LocalLLaMA thread: https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/ Happy to answer questions about the build: battery integration, sensor pipeline, the asyncio orchestrator that ties LLM/STT/TTS/vision together, the face animation in PixiJS, whatever. I also made his little sister Sparkle (RPi 5/CrowPi-3) and a bigger one called Angel (Jetson Thor) is next.
+
+🔗 [creativelybankrupt.com](http://creativelybankrupt.com) • 5h ago
 
 ---
 
@@ -66,73 +98,17 @@ I saw comments saying the last dexterous hand lacked flexibility. This time we i
 
 ---
 
-**[Has anyone here actually deployed a robot that runs 24/7 for more than a year without a human babysitter?](https://www.reddit.com/r/robotics/comments/1tgb38r/has_anyone_here_actually_deployed_a_robot_that/)**
+**[Cubic Doggo full GitHub record: it can now walk and turn!](https://www.reddit.com/r/robotics/comments/1tghftd/cubic_doggo_full_github_record_it_can_now_walk/)**
 
-not talking about demos or lab setups. i mean a real deployment where the thing runs unattended for long stretches and handles edge cases on its own. ive seen plenty of impressive videos but when i talk to people whove actually tried it the story is always the same. something breaks after 2-3 months. a sensor drifts. an actuator jams. the environment changes slightly and the whole thing falls apart. curious if anyone here has cracked this in practice and what the actual reliability numbers look like.
-
-4h ago
-
----
-
-**[Tom's Hardware covered my fully-offline suitcase robot but used a stock graphic - so I put up a real dev site featuring the build with photos](https://www.reddit.com/r/robotics/comments/1tgf4w7/toms_hardware_covered_my_fullyoffline_suitcase/)**
-
-A few days ago I posted Sparky over on r/LocalLLaMA — fully-offline companion bot living in a suitcase, NVIDIA Jetson Orin NX Super 16GB, Gemma 4 E4B via llama.cpp, ~200ms response time, 30+ integrated sensors feeding context into every prompt. No cloud, no API keys, no internet required. Tom's Hardware picked it up but couldn't find any decent photos of mine online, so they ran with a Getty eyeballs-in-a-suitcase stock image. I had no real web presence for the build, so sure. I spent tonight from a hotel room putting together a proper page with real build photos, the actual specs, and the story. 2-minute build/demo video: https://youtube.com/shorts/XlAq1JXu5zM?si=IXMf8IJzZOYVdL3g Tom's Hardware piece: https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms Original r/LocalLLaMA thread: https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/ Happy to answer questions about the build: battery integration, sensor pipeline, the asyncio orchestrator that ties LLM/STT/TTS/vision together, the face animation in PixiJS, whatever. I also made his little sister Sparkle (RPi 5/CrowPi-3) and a bigger one called Angel (Jetson Thor) is next.
-
-🔗 [creativelybankrupt.com](http://creativelybankrupt.com) • 1h ago
-
----
-
-**[Robotic Arm Design Issues](https://www.reddit.com/r/robotics/comments/1tgdiav/robotic_arm_design_issues/)**
-
-Well, this will be the first joint on my robotic arm, but here's the problem: I don't know how to connect it to the base and how to connect the end of the joint to another joint, knowing that I'm using carbon fiber tubing and that these are unconventional joints in robotic arms. Can someone give some ideias or examples?
+The robot can now turn in its walk mode, which is the reason for it having 4 extra servos (technically, 8 servos is all it needs for walking). The turning isn't super smooth, though. Will need some additional designs to make it more sturdy. And here is the full record for the current version of Cubic Doggo (DYNAMIXEL XL430-W250-T with ROS2 Jazzy): https://github.com/SphericalCowww/CubicDoggo It covers sections on running 1 servo, 1 leg, and the full robot. This project was developed by someone in his bedroom who has no robotic background. So no machining, no custom PCB, no special motor, no gears or tiny delicate parts, and use only free software such as FreeCAD/Cura. Everything is brute, minimalistic, and "cubic". So, no curves in CAD design, all servos are the same, and all connections are made by electronics you can order online. But if anyone is like me, who tried out the Stanford series and realized, geez, that's tough as heck. Feel free to try out my recipe :)
 
 2h ago
-
----
-
-**[Bittle X quadruped survives unsupervised kids at a Robot Zoo event — backflip, self-righting, and all](https://www.reddit.com/r/robotics/comments/1tg4xij/bittle_x_quadruped_survives_unsupervised_kids_at/)**
-
-Took Bittle X, Bittle X+Arm, and Nybble Q to the Robot Zoo event at Tinker Coop, a community makerspace in Berkeley. Kids controlled them via mobile app and micro:bit controller — no coding, just free play. What stood out from a hardware perspective: Backflip off a moving robot — triggered via app, clean landing. The dynamic balance recovery here is what we're most proud of in the OpenCat framework. Self-righting after being knocked over — Bittle X+Arm fell onto its back and recovered autonomously using gyroscope feedback built into the OpenCat firmware. Durability under real stress — dropped, tumbled, and handled by elementary schoolers for 90 minutes. Zero hardware failures. The robots run on BiBoard (ESP32-based) with OpenCat — open-source quadruped framework. Supports Python, C++, and block-based coding. All source code on GitHub: github.com/PetoiCamp/OpenCat Happy to answer questions about the kinematics, firmware, or hardware design.
-
-🔗 [youtube.com](https://www.youtube.com/shorts/Ag1Tbv7k-20) • 9h ago
-
----
-
-**[Is an ESP32 or STM32 overkill for Mini Sumo? Confused about 3.3V MCU vs 5V sensors](https://www.reddit.com/r/robotics/comments/1tggca2/is_an_esp32_or_stm32_overkill_for_mini_sumo/)**
-
-Hey everyone, ​I'm planning a Mini Sumo robot build and leaning towards using a more modern chip like an ESP32 or STM32, but I have a few doubts before I start designing the board. ​The 3.3V vs 5V Sensor Problem: Most of the classic mini sumo sensors—like QTR line sensors, typical object detectors, and standard IR start modules—seem to run on 5V. If I use a 3.3V microcontroller, how do I handle this? Are level shifters mandatory for the inputs, or do these sensors play nice with 3.3V logic? ​Is it overkill? Are chips like the ESP32 or STM32 total overkill for a mini sumo robot? Should I just stick to something basic like an ATmega32U4 since it runs natively at 5V and makes sensor integration way easier, or will I regret the lack of processing power later? ​Would love to hear what microcontrollers you guys are running in your mini sumos and how you handle the voltage mismatch if you're using a 3.3V chip. Thanks!
-
-just now
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
-
-Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
-
-NBC News • 2d ago
-
----
-
-**[Hong Kong’s CUHK aims to bring AI to life with humanoid-focused robotics lab](https://www.scmp.com/news/hong-kong/society/article/3353951/hong-kongs-cuhk-aims-bring-ai-life-humanoid-focused-robotics-lab?module=top_story&pgtype=section)**
-
-City’s first embodied AI lab, backed by 24 tech firms, is set to advance humanoid and quadruped robotics research and training over the next five years.
-
-South China Morning Post • 39m ago
-
----
-
-**[China unveils a giant rideable robot straight out of sci-fi movie](https://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction)**
-
-A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?
-
-Euronews.com • 1d ago
-
----
 
 **[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
 
@@ -148,19 +124,47 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[This Excavator Runs Itself. Plus, Can Bees Teach Robots Navigation?](https://spectrum.ieee.org/video-friday-material-handling-robots)**
+**[Inside China’s race to dominate humanoid robotics industry](https://www.nbcnews.com/world/asia/chinas-race-dominate-humanoid-robotics-industry-rcna345260)**
 
-Your weekly selection of awesome robot videos
+Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
 
-IEEE Spectrum • 4d ago
+NBC News • 2d ago
 
 ---
 
-**[Japan faces robot wolf shortage amidst rising wild bear attacks](https://interestingengineering.com/ai-robotics/handcrafted-monster-wolves-japan-bear-attacks)**
+**[Robophobic Airline Bans Humanoid Robots From Flights After Disruption](https://futurism.com/robots-and-machines/airline-bans-humanoid-robots)**
 
-Japan is facing a surge in human-bear encounters, leading to a shortage of its most famous deterrent: the Monster Wolf robot.
+Southwest Airlines may have become the first airline to ban humanoid robots after two robot flights raised safety concerns.
 
-Interesting Engineering • 2d ago
+Futurism • 20h ago
+
+---
+
+**[AI advances are breaking into the physical world – and robots will soon learn how to do your washing and ironing](https://nypost.com/2026/05/17/tech/souped-up-ai-is-making-robots-think-learn-for-themselves-and-out-perform-us/)**
+
+A tech VC said, physical AI is “the challenge of figuring out how to reinvent the physical world. It’s a big challenge.” In describing Project Prometheus, he added, “I perso…
+
+New York Post • 23h ago
+
+---
+
+**[YouTuber builds 7 times larger Arduino tortoise bot that still navigates autonomously](https://interestingengineering.com/ai-robotics/youtuber-builds-7-times-larger-arduino-tortoise-bot)**
+
+A YouTuber has taken a familiar Arduino turtle-style robot and scaled every component up by seven times while keeping its core navigation system intact.
+
+Interesting Engineering • 15h ago
+
+---
+
+**[Hong Kong’s CUHK aims to bring AI to life with humanoid-focused robotics lab](https://www.scmp.com/news/hong-kong/society/article/3353951/hong-kongs-cuhk-aims-bring-ai-life-humanoid-focused-robotics-lab)**
+
+South China Morning Post • 4h ago
+
+---
+
+**[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
+
+eWeek • 2d ago
 
 ---
 
@@ -172,17 +176,9 @@ The Jerusalem Post • 2d ago
 
 ---
 
-**[Mind Robotics Hits $3.4B Valuation as AI Factory Robot Race Heats Up](https://www.eweek.com/news/mind-robotics-rivian-ai-robots-funding/)**
+**[Amazon's next CT warehouse will have 'advanced' robots. What does that mean for human employees, customers?](https://www.ctinsider.com/business/article/amazon-robotics-ct-warehouse-retail-technology-22258632.php)**
 
-eWeek • 2d ago
-
----
-
-**[Surgical Robotics Meets AI: Intuitive Surgical, Medtronic, and Stryker Are the Sleeper Plays of the Healthcare Boom](https://247wallst.com/investing/2026/05/15/surgical-robotics-meets-ai-intuitive-surgical-medtronic-and-stryker-are-the-sleeper-plays-of-the-healthcare-boom/)**
-
-Surgical robotics platforms are becoming AI-enabled systems, making Intuitive Surgical, Medtronic, and Stryker look compelling now.
-
-24/7 Wall St. • 2d ago
+CT Insider • 2d ago
 
 ---
 
@@ -190,23 +186,23 @@ Surgical robotics platforms are becoming AI-enabled systems, making Intuitive Su
 
 ## YouTube Videos: "robotics"
 
-**[F.03 Livestream - Day 5](https://www.youtube.com/watch?v=luU57hMhkak)**
-
-Watch a team of humanoid robots running a full 100+ Hour shift at human performance levels. This is fully autonomous running ...
-
-📺 Figure
-
-👁️ 2.2M • 👍 37K • 4d ago
-
----
-
 **[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
 
 Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
 
 📺 NBC News
 
-👁️ 85K • 👍 735 • 💬 264 • ⏱️ 3:00 • 3d ago
+👁️ 86K • 👍 738 • 💬 264 • ⏱️ 3:00 • 3d ago
+
+---
+
+**[F.03 Livestream - Day 5](https://www.youtube.com/watch?v=luU57hMhkak)**
+
+Watch a team of humanoid robots running a full 100+ Hour shift at human performance levels. This is fully autonomous running ...
+
+📺 Figure
+
+👁️ 2.3M • 👍 38K • 4d ago
 
 ---
 
@@ -216,17 +212,7 @@ War Robots Gameplay: NEW Robot SHOGGOTH with 650k Shields Here's my New Channel 
 
 📺 Manni-Gaming
 
-👁️ 16K • 👍 669 • 💬 119 • ⏱️ 19:38 • 18h ago
-
----
-
-**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
-
-You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
-
-📺 The AI Nexus
-
-👁️ 13K • 👍 238 • 💬 24 • ⏱️ 55:02 • 4d ago
+👁️ 18K • 👍 706 • 💬 128 • ⏱️ 19:38 • 22h ago
 
 ---
 
@@ -236,27 +222,7 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 118K • 👍 5K • 💬 694 • ⏱️ 15:32 • 1d ago
-
----
-
-**[Why China Should Be Worried About Ghana&#39;s Students #ai #robots #competition](https://www.youtube.com/watch?v=WRfNwkhJaDo)**
-
-Ghana is making history as young students build aircraft, drones, robots, and AI technology that are gaining global attention.
-
-📺 UNITED STATES OF AFRICA
-
-👁️ 8K • 👍 981 • 💬 86 • ⏱️ 2:52 • 23h ago
-
----
-
-**[Meet the Marty Supreme of Robots | What The Future](https://www.youtube.com/watch?v=BLm8Chc_lSc)**
-
-Sony's Project Ace has created the first robot to beat an elite human table tennis player, with nine cameras analyzing spin and ...
-
-📺 CNET
-
-👁️ 6K • 👍 166 • 💬 40 • ⏱️ 2:14 • 20h ago
+👁️ 122K • 👍 6K • 💬 717 • ⏱️ 15:32 • 1d ago
 
 ---
 
@@ -266,7 +232,7 @@ Unitree Robotics has unveiled the GD01 — the world's first mass-produced ridea
 
 📺 CGTN Europe
 
-👁️ 80K • 👍 535 • 💬 66 • ⏱️ 0:33 • 4d ago
+👁️ 80K • 👍 535 • 💬 66 • ⏱️ 0:33 • 5d ago
 
 ---
 
@@ -276,7 +242,17 @@ A Dallas business owner attempted something he believes had never been done: fly
 
 📺 CBS TEXAS
 
-👁️ 368K • 👍 7K • 💬 2K • ⏱️ 3:03 • 4d ago
+👁️ 370K • 👍 7K • 💬 2K • ⏱️ 3:03 • 4d ago
+
+---
+
+**[Meet the Marty Supreme of Robots | What The Future](https://www.youtube.com/watch?v=BLm8Chc_lSc)**
+
+Sony's Project Ace has created the first robot to beat an elite human table tennis player, with nine cameras analyzing spin and ...
+
+📺 CNET
+
+👁️ 6K • 👍 175 • 💬 39 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -286,7 +262,27 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 39K • 👍 848 • 💬 151 • ⏱️ 21:16 • 4d ago
+👁️ 40K • 👍 876 • 💬 157 • ⏱️ 21:16 • 4d ago
+
+---
+
+**[Keep watching the robots](https://www.youtube.com/watch?v=D-ezDJhqJmo)**
+
+Keep watching the robots—because every day brings breakthrough moments that redefine what machines can do and what our ...
+
+📺 Dark Waters
+
+👁️ 23K • 👍 872 • 💬 68 • ⏱️ 0:10 • 1d ago
+
+---
+
+**[Inside Australia&#39;s biggest robotics testing lab | 9 News Australia](https://www.youtube.com/watch?v=X_tstJmrM4o)**
+
+Australia's national science agency, CSIRO, are harnessing the power of artificial intelligence to help speed up the capabilities of ...
+
+📺 9 News Australia
+
+👁️ 2K • 👍 26 • 💬 6 • ⏱️ 1:47 • 3h ago
 
 ---
 
