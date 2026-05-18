@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-18T16:24:55.481679+00:00'
+updated: '2026-05-18T18:18:33.352897+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 18, 2026 at 16:24 UTC  
+**Last Updated:** May 18, 2026 at 18:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** -7.5%  
-**30d:** -7.0%  
-**90d:** +7.6%  
-**1y:** -17.0%  
+**24h:** -4.3%  
+**7d:** -7.8%  
+**30d:** -7.3%  
+**90d:** +7.3%  
+**1y:** -17.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
 
-1h ago
+3h ago
 
 ---
 
 **[I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker](https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Vitalik’s point here is pretty interesting imo. The usual fear is that AI make
 
 Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
 
-21h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, been using Uniswap for a while now but every time I try to swap any
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Heyy Guys, im back from learning foundry and next looking to build some projects
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
 
-1d ago
+2d ago
 
 ---
 
@@ -150,41 +150,39 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Two more Ethereum Foundation researchers resign amid wave of departures](https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures)**
+
+Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.
+
+The Block • 1h ago
+
+---
+
 **[Ongoing exploit drains $11.6 million from Verus-Ethereum bridge: Blockaid](https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit)**
 
 Peckshield flagged that the Verus-Ethereum bridge has been drained for 103.6 tBTC, 1,625 ETH, and 147,000 USDC.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor](https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor)**
+**[The Ethereum Foundation is facing a wave of high-profile departures as its internal shakeup deepens](https://www.coindesk.com/tech/2026/05/18/the-ethereum-foundation-is-facing-a-wave-of-high-profile-departures-as-its-internal-shakeup-deepens)**
 
-The micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.
-
-Decrypt • 1d ago
+CoinDesk • 41m ago
 
 ---
 
-**[XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster](https://finance.yahoo.com/markets/crypto/articles/xrp-ethereum-solana-ai-picks-160320688.html)**
+**[What’s Dragging Ethereum Down? BitMine’s Tom Lee Has an Answer](https://finance.yahoo.com/markets/crypto/articles/dragging-ethereum-down-bitmine-tom-042528976.html)**
 
-XRP (CRYPTO: XRP) trades at $1.38 after losing the $1.40 support level despite momentum from the CLARITY Act clearing the Senate Banking Committee. Meanwhile, Ethereum (CRYPTO: ETH) trades at $2,119, while Solana (CRYPTO: SOL) trades at $84 after losing the $90 support level. Crypto investors are asking which of these cryptos could hit 10x first. ... XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster
+Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
 
-Yahoo Finance • 21m ago
-
----
-
-**[Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-bleed-crypto-160029913.html)**
-
-Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.
-
-Yahoo Finance • 24m ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
+**[Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices](https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices)**
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -192,15 +190,15 @@ CoinDesk • 2h ago
 
 Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
 
-PR Newswire • 3h ago
+PR Newswire • 5h ago
 
 ---
 
-**[Current price of Ethereum for May 18, 2026](https://fortune.com/article/price-of-ethereum-05-18-2026/)**
+**[Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak](https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.
 
-Fortune • 2h ago
+Decrypt • 2h ago
 
 ---
 
@@ -212,17 +210,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Most large cryptocurrencies decrease on Dogecoin, Ethereum drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-dogecoin-ethereum-drops-fe7c9fc1-0e0b70fdd948)**
+**[$5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?](https://finance.yahoo.com/markets/crypto/articles/5-000-xrp-vs-5-194612174.html)**
 
-MarketWatch • 2h ago
+A $5,000 bet on XRP (CRYPTO: XRP) or Ethereum (CRYPTO: ETH) today could look very different by 2028, and the difference between the two investments is wider than most people expect. XRP has momentum behind it, Ripple’s payments business keeps growing, and the regulatory pressure that crushed the token for years has mostly faded. Meanwhile, ... $5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?
+
+Yahoo Finance • 22h ago
 
 ---
 
-**[The Reason Ethereum Is Falling Has Nothing to Do With Crypto](https://beincrypto.com/ethereum-falling-tom-lee-oil-prices/)**
+**[Why Is Crypto Going Down? Bitcoin, XRP Price , Ethereum and Dogecoin Fall for 4th Straight Session](https://www.tradingview.com/news/financemagnates:6ebeb8f73094b:0-why-is-crypto-going-down-bitcoin-xrp-price-ethereum-and-dogecoin-fall-for-4th-straight-session/)**
 
-Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
+Bitcoin (BTC) traded at $76,959 on Monday, May 18, 2026, down 1.37% as the world's largest cryptocurrency tested its 50-day exponential moving average for the fourth consecutive losing session. Why is crypto going down? President Trump's Sunday Truth Social post warning Iran the "clock is ticking"…
 
-BeInCrypto • 11h ago
+TradingView • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 585 • 👍 73 • 💬 16 • ⏱️ 9:29 • 52m ago
+👁️ 585 • 👍 73 • 💬 16 • ⏱️ 9:29 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 48 • 💬 89 • ⏱️ 13:28 • 11h ago
+👁️ 1K • 👍 48 • 💬 89 • ⏱️ 13:28 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 167 • ⏱️ 8:37 • 18h ago
+👁️ 30K • 👍 2K • 💬 167 • ⏱️ 8:37 • 20h ago
 
 ---
 
@@ -316,7 +316,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 6K • 👍 348 • 💬 4 • ⏱️ 1:06:41 • 27m ago
+👁️ 6K • 👍 348 • 💬 4 • ⏱️ 1:06:41 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 494 • 👍 67 • ⏱️ 6:30 • 3h ago
+👁️ 494 • 👍 67 • ⏱️ 6:30 • 5h ago
 
 ---
 

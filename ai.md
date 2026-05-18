@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-18T16:24:55.471757+00:00'
+updated: '2026-05-18T18:18:33.338599+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 18, 2026 at 16:24 UTC  
+**Last Updated:** May 18, 2026 at 18:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 If you're building AI agents or SaaS products used by European companies (or processing EU resident data), the EU AI Act applies to you regardless of where your company is based. Full enforcement for high-risk systems starts August 2, 2026. High-risk means: credit scoring, recruitment filtering, healthcare triage, education assessment, critical infrastructure. The practical requirements: Automatic decision logging (not optional) 6-month minimum log retention Technical documentation of your detection pipeline Human oversight architecture Accuracy and bias testing documentation Fines: up to 35M euros or 7% of global turnover. I broke down what the regulation requires, what auditors check, and realistic steps before the deadline. In link below Worth reading if your team is building anything AI-related for the European market.
 
-9h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ If you're building AI agents or SaaS products used by European companies (or pro
 
 Per Tech Times: “More U.S. businesses paid for Anthropic's Claude than for OpenAI's ChatGPT in April 2026 — the first time in the AI industry's short history […] Anthropic's annualised revenue run rate crossed $30 billion in early April 2026, up from roughly $9 billion at the end of 2025, placing it above the approximately $24 to $25 billion annualised figure OpenAI reported at the same time. More than 1,000 enterprise customers now spend over $1 million annually on Anthropic products — a number that doubled in under two months after the company's $30 billion Series G raise in February 2026. Eight of the Fortune 10 are now Claude customers, according to Anthropic.”
 
-19h ago
+21h ago
 
 ---
 
@@ -57,13 +57,13 @@ Per Tech Times: “More U.S. businesses paid for Anthropic's Claude than for Ope
 
 So, I successfully was able to have Claude be in voice mode for a meeting on Zoom, and participated in the meeting as it's own role. Claude answered questions that were asked of it by 4 different people, and it kept pace without any glitches. the meeting was a 100% success... I have been looking for anyone else that can do this, and found nothing. I am asking here for ideas on what to do with this ? I did not do this with a phone, I actually had Claude in the meeting with me, and he could hear and answer straight in the meeting.
 
-23m ago
+2h ago
 
 ---
 
 **[Are space data centers legit or is it all just hype?](https://www.reddit.com/r/artificial/comments/1tgr27x/are_space_data_centers_legit_or_is_it_all_just/)**
 
-21m ago
+2h ago
 
 ---
 
@@ -71,7 +71,7 @@ So, I successfully was able to have Claude be in voice mode for a meeting on Zoo
 
 I’ve been using different LLMs a lot lately and I’ve noticed the newer versions of ChatGPT and Claude seem a lot more quick to refuse things or give me long ethical disclaimers even when I ask fairly normal questions. It feels like the safety tuning has gotten stricter over time. On one hand I get why companies do it, but on the other it sometimes makes the models feel less useful for creative, exploratory, or even just honest conversations. Anyone else experiencing this? Where do you think the line should be between reasonable safety and over-censorship? Do you prefer more aligned models or ones that are more open?
 
-7h ago
+9h ago
 
 ---
 
@@ -79,7 +79,7 @@ I’ve been using different LLMs a lot lately and I’ve noticed the newer versi
 
 None would give a straight answer, so I had to coerce it out of each one (with which gemini was the most difficult). Both gemini and grok said the United States, which was fairly predictable. However, chatgpt's answer of Japan was surprising. It apparently chose Japan because of the nation's wealth, culture, and history. The most surprising one of all was claude, who answered Kenya. Claude defended its response by pointing out Kenya's geographic, cultural, and linguistic diversity, as well as its history of resilience and its capital's increasing importance as a hub of tech and innovation. Most importantly, it said that Kenya resonated deeply with it, both intellectually and aesthetically.
 
-18h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ None would give a straight answer, so I had to coerce it out of each one (with w
 
 Look around. Every other product launching right now is some variation of "AI-Powered [insert buzzword]." They're everywhere. Modern tools have given founders and developers a convincing illusion of omnipotence: idea hits, feed it to an LLM, stack some agents on top, and MVP is done in a weekend. https://preview.redd.it/37ocn6azkv1h1.png?width=1672&format=png&auto=webp&s=06d4a9ef986d56a9eb3417e67a3524c18e73e100 Sounds great, right? On the surface, yes. But underneath that fast-launch facade, something is quietly rotting: thinking is getting commoditized, and we're losing craft. Real mastery in any field takes years of practice, failure, and deep focus. Today, apparently everyone is a master for $20 a month. That's a lie we're telling ourselves. Just look at how much panic a 5-hour rate limit window in Claude generates online. Tokens run out, and suddenly people have two options: wait for the reset like a metered parking spot, or upgrade. It's like a Michelin-starred chef who can no longer taste food, just dictating to a chatbot: "make me a pasta." Without the subscription, he can't cook. The counterargument: "But orchestrating AI IS the new skill." Fair. But it's a horizontal skill, not a vertical one. You learn to coordinate agents while losing deep domain knowledge. Think conductor versus virtuoso violinist. A conductor is impressive - but if the orchestra walks off stage, can he play a solo that makes the room go quiet? This is most visible in developers right now. People who got used to copy-pasting from Cursor or Claude hit a wall on hard architectural problems. When a product grows, starts needing real trade-offs, starts buckling under load - prompts stop working. The muscle for hard problems atrophied because they never had to build it. Same thing is happening to analysts, marketers, designers, researchers. My position: barbell, not crutch Running out of tokens doesn't scare me. My foundation means I can work regardless of what's left in my quota, whether there's internet, whether a subscription is active. The only thing that throws me off is running out of good coffee. I use LLMs heavily. But with one condition: AI is a barbell, not a crutch. It sharpens my own work - it doesn't replace the parts I care about. The fastest, most tireless junior I've ever hired. But the senior judgment and the final call always stay with me. Two types of professionals The market is already splitting into two groups. Token-dependent: live limit to limit, panic when Anthropic or OpenAI have an outage, can't produce anything original without a prompt to lean on. Token-independent: use AI as a force multiplier but can, at any moment, sit down and do the work themselves - with more depth, more precision, better judgment. The second group will command much higher rates. When the world is drowning in mediocre AI-powered software and content - and it will be - clients and employers will pay serious money for people who actually understand what they're building and why. Curious whether others are feeling this shift. Are you building toward token-independence, or does the dependency not bother you?
 
-5h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Look around. Every other product launching right now is some variation of "AI-Po
 
 Hey folks I am running a virtual free session on using spec driven prototyping with Claude Code. We are going to learn about the OpenSpec standard and see how to combine those to build prototypes. Date: June 10th Time: 12:00 PM ET Signup link
 
-4m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hey folks I am running a virtual free session on using spec driven prototyping w
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-21m ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hey folks I am running a virtual free session on using spec driven prototyping w
 
 im just trying to update a minecraft mod from 1.21.11 to 26.1.2 using AI.. Are there any recommendations? or any errors to stay away from?
 
-22m ago
+2h ago
 
 ---
 
@@ -119,19 +119,11 @@ im just trying to update a minecraft mod from 1.21.11 to 26.1.2 using AI.. Are t
 
 ## Google News: "ai"
 
-**[Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company](https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html)**
-
-Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.
-
-CNBC • 4h ago
-
----
-
 **[Former Google CEO Eric Schmidt booed by graduates at mention of AI](https://www.bbc.com/news/articles/ce8pqd54qneo)**
 
 The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers.
 
-BBC • 1h ago
+BBC • 3h ago
 
 ---
 
@@ -139,53 +131,45 @@ BBC • 1h ago
 
 Pew research shows Americans are more worried than excited about AI as graduates voiced fears over jobs
 
-The Guardian • 2h ago
+The Guardian • 1h ago
 
 ---
 
-**[The Villain of This Year’s Commencement Speeches: A.I.](https://www.nytimes.com/2026/05/18/business/dealbook/university-commencement-speech-ai.html)**
+**[Eric Schmidt met with boos during University of Arizona commencement speech over AI fears](https://www.foxbusiness.com/politics/eric-schmidt-booed-ai-university-arizona-commencement)**
 
-The New York Times • 4h ago
+Eric Schmidt was booed during a University of Arizona commencement address after discussing AI, job displacement concerns and the future of technology
 
----
-
-**[I left Google to pursue an MBA. I think higher education is still worth the investment in the age of AI.](https://www.businessinsider.com/left-google-pursue-mba-worth-it-age-of-ai-2026-5)**
-
-A former Google employee left Big Tech to pursue an MBA. She is now building a portfolio career and says going back to school was worth the money.
-
-Business Insider • 6m ago
+Fox Business • 1h ago
 
 ---
 
-**[To embrace AI, employees need trust, a sense of purpose, and a path to grow.](https://www.psychologytoday.com/us/blog/meaningful-work/202605/ai-transformation-wont-work-without-meaning)**
+**[Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company](https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html)**
 
-Meaningful work may be the missing infrastructure that helps people adapt to AI-driven change.
+Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.
 
-Psychology Today • 10m ago
-
----
-
-**[Your AI Glossary: 54 Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/artificial-intelligence-ai-terms-glossary/)**
-
-How does artificial intelligence use tokens, and should we be worried that AI now has claws? Here's a quick primer on the vocabulary of today's inescapable technology.
-
-CNET • 9m ago
+CNBC • 6h ago
 
 ---
 
-**[Can colleges still deliver in the age of AI? One Ivy League school is investing $30 million to improve career outcomes](https://www.cnbc.com/2026/05/18/what-this-ivy-league-is-doing-to-get-students-hired-in-the-age-of-ai.html)**
+**[Magnifica Humanitas: Pope and co-founder of Anthropic to launch pontiff's AI encyclical](https://abc7chicago.com/post/magnifica-humanitas-pope-founder-anthropic-launch-pontiffs-ai-encyclical/19125396/)**
 
-College students are increasingly worried that artificial intelligence will upend their future career plans.
+Pope Leo XIV and Anthropic's co-founder Christopher Olah are set to launch the pontiff's first encyclical on May 25.
 
-CNBC • 4h ago
+ABC7 Chicago • 15m ago
 
 ---
 
-**[Graduates Don’t Want to Hear About AI Right Now](https://www.townandcountrymag.com/education-college/a71336987/commencement-2026-booing-ai-speakers-student-reactions-trend/)**
+**[This Nvidia-Backed Company Just Entered an $800 Billion Agentic AI Market. Does This Make the $14 Stock a No-Brainer Buy?](https://www.fool.com/investing/2026/05/18/this-13-nvidia-backed-company-just-got-entered-the/)**
 
-Commencement speakers across the country who bring up artificial intelligence have been met with loud boos.
+Nokia is quietly reinventing itself as an enabler of artificial intelligence infrastructure.
 
-Town & Country Magazine • 30m ago
+The Motley Fool • 8m ago
+
+---
+
+**[Jury rules against Musk in landmark AI trial](https://www.axios.com/2026/05/18/musk-loses-ai-trial-openai-altman)**
+
+Axios • 39m ago
 
 ---
 
@@ -195,13 +179,29 @@ The New York Times • 1d ago
 
 ---
 
+**[NextEra bets $66.8B on AI power boom with Dominion Energy acquisition](https://www.foxbusiness.com/fox-news-tech/nextera-dominion-ai-data-center-power-demand)**
+
+NextEra Energy announced a $66.8 billion acquisition of Dominion Energy, expanding its reach into Northern Virginia’s booming AI data-center market.
+
+Fox Business • 3h ago
+
+---
+
+**[NextEra will buy Dominion in a $66.8 billion power deal amid the AI boom](https://www.nbcnews.com/business/energy/nextera-dominion-deal-ai-boom-rcna345652)**
+
+The deal would create the world’s largest regulated electric utility by market value.
+
+NBC News • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 2084 • 💬 1244 • 2d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 2085 • 💬 1249 • 2d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -209,7 +209,7 @@ The New York Times • 1d ago
 
 Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
 
-⬆️ 640 • 💬 431 • 1d ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+⬆️ 644 • 💬 436 • 1d ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 
 ---
 
@@ -217,7 +217,7 @@ Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the in
 
 It’s not even a feature. It’s just technology.
 
-⬆️ 443 • 💬 194 • 1d ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+⬆️ 448 • 💬 196 • 1d ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 
 ---
 
@@ -225,7 +225,7 @@ It’s not even a feature. It’s just technology.
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 412 • 💬 443 • 2d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 414 • 💬 446 • 2d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -233,7 +233,7 @@ Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and
 
 Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.
 
-⬆️ 405 • 💬 394 • 1d ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
+⬆️ 407 • 💬 394 • 1d ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
 
 ---
 
@@ -241,7 +241,15 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.
 
-⬆️ 311 • 💬 324 • 5h ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
+⬆️ 321 • 💬 350 • 7h ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
+
+---
+
+**[We stopped AI bot spam in our GitHub repo using Git's –author flag](https://news.ycombinator.com/item?id=48181125)**
+
+Is it the end of open source we know and love?
+
+⬆️ 247 • 💬 110 • 2h ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
 
 ---
 
@@ -249,27 +257,19 @@ Schmidt was met with boos at the University of Arizona as he likened the emergen
 
 All four crew members ejected safely after two Navy jets collided and crashed on Sunday during an air show at the Mountain Home Air Force Base, officials said.
 
-⬆️ 237 • 💬 239 • 18h ago • [KBOI](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
-
----
-
-**[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
-
-⬆️ 163 • 💬 274 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
-
----
-
-**[Multiple commencement speakers booed for AI comments during graduation speeches](https://news.ycombinator.com/item?id=48177107)**
-
-Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing artificial intelligence during a commencement speech at the University of Arizona. Other commencement speakers faced similar backlash for their AI comments, as new graduates face a daunting job market. NBC News’ Valerie Castro reports.
-
-⬆️ 140 • 💬 142 • 7h ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
+⬆️ 238 • 💬 244 • 20h ago • [KBOI](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
 
 ---
 
 **[AI eats the world (Spring 26) [pdf]](https://news.ycombinator.com/item?id=48179021)**
 
-⬆️ 134 • 💬 73 • 3h ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+⬆️ 165 • 💬 93 • 5h ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+
+---
+
+**[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
+
+⬆️ 164 • 💬 274 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 
 ---
 
@@ -283,7 +283,7 @@ Create Long AI Videos with Consistent Characters on OpenArt ...
 
 📺 Isa does AI
 
-👁️ 5K • 💬 1 • ⏱️ 13:34 • 2h ago
+👁️ 5K • 💬 1 • ⏱️ 13:34 • 4h ago
 
 ---
 
@@ -293,7 +293,7 @@ Seattle Mayor IN SHOCK After Microsoft CUTS 2300 Jobs — CEO Says AI Will Repla
 
 📺 Capital Report
 
-👁️ 5K • 👍 233 • 💬 60 • ⏱️ 14:49 • 22h ago
+👁️ 5K • 👍 233 • 💬 60 • ⏱️ 14:49 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Create Your Own TikTok Ads with Arcads https://youricreates.com/tiktok-ads In th
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 3 • ⏱️ 13:07 • 1h ago
+👁️ 4K • 💬 3 • ⏱️ 13:07 • 3h ago
 
 ---
 
@@ -313,7 +313,7 @@ What are you thought? What has your AI told you?
 
 📺 We Are All Energy
 
-👁️ 20K • 👍 1K • 💬 201 • ⏱️ 9:00 • 22h ago
+👁️ 20K • 👍 1K • 💬 201 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ President Donald Trump is renewing his threats to Iran, warning that "the clock 
 
 📺 Good Morning America
 
-👁️ 2K • 👍 10 • 💬 19 • ⏱️ 1:14 • 4h ago
+👁️ 2K • 👍 10 • 💬 19 • ⏱️ 1:14 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town
 
 📺 Breaking Points
 
-👁️ 125K • 👍 5K • 💬 697 • ⏱️ 12:40 • 2d ago
+👁️ 125K • 👍 5K • 💬 697 • ⏱️ 12:40 • 3d ago
 
 ---
 
@@ -363,7 +363,7 @@ Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing 
 
 📺 NBC News
 
-👁️ 23K • 👍 564 • 💬 241 • ⏱️ 1:44 • 16h ago
+👁️ 23K • 👍 564 • 💬 241 • ⏱️ 1:44 • 18h ago
 
 ---
 
@@ -373,7 +373,7 @@ Artificial intelligence is accelerating fast — and the consequences are alread
 
 📺 CNN
 
-👁️ 29K • 👍 306 • 💬 171 • ⏱️ 15:02 • 16h ago
+👁️ 29K • 👍 306 • 💬 171 • ⏱️ 15:02 • 18h ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 80,586 • ❤️ 761 • 3h ago
+⬇️ 80,586 • ❤️ 761 • 5h ago
 
 ---
 
@@ -401,7 +401,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,049,229 • ❤️ 1,108 • 21h ago
+⬇️ 1,049,229 • ❤️ 1,108 • 23h ago
 
 ---
 
@@ -413,7 +413,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 24,031 • ❤️ 407 • 7h ago
+⬇️ 24,031 • ❤️ 407 • 9h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 268,305 • ❤️ 262 • 10h ago
+⬇️ 268,305 • ❤️ 262 • 12h ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 237,613 • ❤️ 237 • 12h ago
+⬇️ 237,613 • ❤️ 237 • 14h ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
 
-⬇️ 545,205 • ❤️ 1,397 • 3d ago
+⬇️ 545,205 • ❤️ 1,397 • 4d ago
 
 ---
 
@@ -471,7 +471,7 @@ Dramabox is an expressive text-to-speech model fine-tuned from LTX-2.3, capable 
 
 `text-to-speech`
 
-⬇️ 1,001 • ❤️ 155 • 4d ago
+⬇️ 1,001 • ❤️ 155 • 5d ago
 
 ---
 
@@ -656,7 +656,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 4.2k • 🔱 224 • 1m ago
+⭐ 4.2k • 🔱 224 • 1h ago
 
 ---
 
@@ -666,7 +666,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.8k • 🔱 389 • 10m ago
+⭐ 3.8k • 🔱 389 • 2h ago
 
 ---
 
@@ -676,7 +676,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 3.2k • 🔱 359 • 3h ago
+⭐ 3.2k • 🔱 359 • 5h ago
 
 ---
 
@@ -686,7 +686,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 900 • 23h ago
+⭐ 3.1k • 🔱 900 • 1d ago
 
 ---
 
@@ -706,7 +706,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.4k • 🔱 157 • 13h ago
+⭐ 2.4k • 🔱 157 • 15h ago
 
 ---
 
@@ -716,7 +716,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.3k • 🔱 235 • 6h ago
+⭐ 2.3k • 🔱 235 • 8h ago
 
 ---
 

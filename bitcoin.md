@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-18T16:24:55.477624+00:00'
+updated: '2026-05-18T18:18:33.346902+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 18, 2026 at 16:24 UTC  
+**Last Updated:** May 18, 2026 at 18:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,499.27
+### $76,580.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -4.8%  
-**30d:** +3.8%  
-**90d:** +15.3%  
-**1y:** -27.5%  
+**24h:** -2.6%  
+**7d:** -5.1%  
+**30d:** +3.5%  
+**90d:** +14.9%  
+**1y:** -27.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ships passing through the Strait of Hormuz. The system would allow vessels to pay ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hormuz-safe-iran-uses-bitcoin-110216619.html) • 1h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hormuz-safe-iran-uses-bitcoin-110216619.html) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ship
 
 As of 5/17/2026, they hodl 843,738 BTC acquired for ~$63.87 billion at ~$75,700 per bitcoin
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-24869-btc-and-achieves-btc-yield-of-12-6-ytd-now-holds-843738-btc_05-18-2026?may=18) • 3h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-24869-btc-and-achieves-btc-yield-of-12-6-ytd-now-holds-843738-btc_05-18-2026?may=18) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ As of 5/17/2026, they hodl 843,738 BTC acquired for ~$63.87 billion at ~$75,700 
 
 Iran rolled out something called Hormuz Safe... a state-backed maritime insurance setup for vessels operating in the Persian Gulf and Strait of Hormuz. Payments and settlements can be done with Bitcoin and other crypto. The platform handles digital certificates and faster processing. It’s clearly designed to work around normal banking channels and SWIFT, especially with the tensions in the region. That strait moves a huge amount of the world’s oil and LNG, so anything affecting shipping there tends to matter. I’ve been watching oil and shipping-related moves through Bitget futures and CFDs lately, and It’s one of those cases where Bitcoin shows up in actual day-to-day operations... But Bloomberg reported that U.S. naval forces redirected or blocked several commercial vessels near the Gulf, including a Greek-operated tanker transporting nearly 2 million barrels of Iraqi crude oil to Vietnam. Ship-tracking data showed that some Chinese and Iranian-linked vessels continued sailing across parts of the Strait despite increasing restrictions. Not sure how big it gets... What do you guys make of it?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Iran rolled out something called Hormuz Safe... a state-backed maritime insuranc
 
 Feels bad man. Lesson learned: don't overinvest in BTC, because you may need As the price was going down in january, febuary and march, and i had a lot of fiat, i boght too much BTC because I tought I was getting a good deal. I invested 70% i think of my surplus at the time on bitcoin, and 30% at other safer assets. Now at may i am in finantial dificulties, and i am obliged to sell my BTC at a loss to keep up with my daily expenses. If i have been less greedy (invested 20% of surplus) i wold be ok, because I would be selling my other investiments. I have a family (Wife and 2 kids) and with less earnings from her and me the last months, I have no other option than sell at loss. Anyone here on the same situation?
 
-4h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Feels bad man. Lesson learned: don't overinvest in BTC, because you may need As 
 
 I am a noob, and have been reading a bit here and there about bitcoin cycles and correction. Is this a good time to start investing in BTC? I know I'm late by about 20 years, but I wanna know if there is potential.
 
-12h ago
+14h ago
 
 ---
 
@@ -121,13 +121,13 @@ I am a noob, and have been reading a bit here and there about bitcoin cycles and
 
 A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it YellowKey exploit bypasses BitLocker full volume encryption via USB stick and WinRE A researcher known as "Nightmare-Eclipse" recently released YellowKey, a security vulnerability that allegedly enables a full bypass of BitLocker's full-volume encryption. The researcher described YellowKey as one of the most "insane" flaws they have ever encountered and has also accused Microsoft of potentially embedding a legitimate backdoor in BitLocker's data protection system. According to the researcher, YellowKey appears unusual for a previously unknown security bug. Nightmare-Eclipse explained that the flaw can be reproduced by copying an attached "FsTx" folder to a USB drive formatted with a Windows-compatible file system such as NTFS, FAT32, or exFAT. The vulnerability may also work without a USB drive if the FsTx files are copied to the Windows EFI partition and the encrypted disk is temporarily disconnected from the system. After placing the FsTx folder, an attacker would need to reboot a BitLocker-protected machine, enter the Windows Recovery Environment, and follow a specific sequence of inputs. If the procedure is completed correctly, a command shell reportedly appears, granting unrestricted access to BitLocker-protected volumes. No passwords are required, and the encrypted data may become fully accessible for browsing, copying, and other file operations. Nightmare-Eclipse believes that YellowKey's vulnerability could reasonably be considered a backdoor intentionally introduced into BitLocker by Microsoft. Their reasoning is that the component triggering the issue can only be found in the official WinRE image. The same component is also present in standard Windows installation images, but it does not exhibit the BitLocker-bypassing behavior observed on live systems. The researcher explained that they "just can't come up with an explanation beside the fact that this was intentional. Also for whatever reason, only windows 11 (+Server 2022/2025) are affect, windows 10 is not." // Related Stories Apple is rolling out end-to-end encryption for iPhone to Android RCS messages Hackers used Daemon Tools' own website to silently install backdoors on thousands of PCs for nearly a month Third-party researchers have reportedly confirmed that YellowKey behaves as described by Nightmare-Eclipse in public GitHub materials. In addition, the researcher released a second exploit, GreenPlasma, which is said to enable privilege escalation. They did not publish full proof-of-concept code for achieving SYSTEM-level access, instead suggesting they may disclose further details ahead of next month's Patch Tuesday. Nightmare-Eclipse is known for targeting Microsoft and the company's alleged hostility toward external security researchers. Previously operating under the alias "Chaotic Eclipse," they released Red Sun and other vulnerabilities with public proof-of-concept code, while accusing Microsoft of damaging their career and reputation. As for YellowKey's alleged backdoor behavior, mitigation is relatively straightforward. Security professionals generally recommend avoiding reliance on any single encryption system and instead evaluating well-reviewed full-disk encryption alternatives such as VeraCrypt.
 
-🔗 [techspot.com](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) • 21h ago
+🔗 [techspot.com](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) • 23h ago
 
 ---
 
 **[Study Bitcoin people.](https://www.reddit.com/r/Bitcoin/comments/1tg98lk/study_bitcoin_people/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ A security researcher says Microsoft secretly built a backdoor into BitLocker, r
 
 A lot of recent discussion has been around ETFs and large institutions increasing exposure to Bitcoin. Why is this viewed as such a major long-term signal for Bitcoin adoption? Is it mainly about legitimacy and trust or does institutional buying have a bigger impact on the ecosystem overall? Curious to hear different perspectives.
 
-43m ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ A lot of recent discussion has been around ETFs and large institutions increasin
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-9h ago
+11h ago
 
 ---
 
@@ -161,45 +161,65 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 **[Iran Starts Bitcoin-Backed Shipping Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Iran-linked report says Hormuz Safe bitcoin-settled insurance platform aims to generate $10 billion](https://www.theblock.co/post/401612/iran-linked-report-says-hormuz-safe-bitcoin-settled-insurance-platform-aims-to-generate-10-billion)**
+**[What Is Hormuz Safe? Iran Uses Bitcoin and Crypto to Build a SWIFT-Free Shipping System](https://finance.yahoo.com/markets/crypto/articles/hormuz-safe-iran-uses-bitcoin-110216619.html)**
 
-Iranian media reported the launch of Hormuz Safe, a bitcoin-settled insurance platform tied to Strait of Hormuz cargo transit.
+Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ships passing through the Strait of Hormuz. The system would allow vessels to pay ...
 
-The Block • 6h ago
-
----
-
-**[Iran unveils Bitcoin-backed shipping insurance plan for Hormuz -reports (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4594396-iran-unveils-bitcoin-backed-shipping-insurance-plan-for-hormuz--reports)**
-
-Iran launches “Hormuz Safe,” a Bitcoin-backed maritime insurance for Strait of Hormuz transit amid sanctions and security risks.
-
-Seeking Alpha • 2h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin Price Hits May Low; Circle Wins Upgrade As HIVE Soars](https://www.investors.com/news/bitcoin-price-may-low-circle-upgrade-hive-rally/)**
+**[Iran may be turning the Strait of Hormuz into a bitcoin-based insurance market, local reports say](https://www.coindesk.com/markets/2026/05/18/iran-may-be-turning-the-strait-of-hormuz-into-a-bitcoin-insurance-market-local-reports-say)**
 
-Investor's Business Daily • 2h ago
-
----
-
-**[Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-bleed-crypto-160029913.html)**
-
-Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.
-
-Yahoo Finance • 24m ago
+CoinDesk • 9h ago
 
 ---
 
-**['Big dot energy': Michael Saylor's Strategy buys another 24,869 BTC for $2 billion as total holdings top 4% of bitcoin supply](https://www.theblock.co/post/401627/big-dot-energy-michael-saylors-strategy-buys-more-bitcoin)**
+**[Strategy Leverages Preferred Stock Issuance for $2 Billion Bitcoin Buy](https://decrypt.co/368170/strategy-preferred-stock-issuance-2-billion-bitcoin-buy)**
 
-Strategy's total holdings account for over 4% of the 21 million bitcoin supply cap — worth around $65 billion.
+Strategy purchased 24,869 Bitcoin last week for $2 billion, channeling billions of dollars that came from its flagship preferred stock.
 
-The Block • 4h ago
+Decrypt • 3h ago
+
+---
+
+**[Bhutan denies claims that it sold $1 billion in bitcoin](https://finance.yahoo.com/video/bhutan-denies-claims-sold-1-180000356.html)**
+
+Scott Melker discusses how Bhutan — the small, Himalayan kingdom on China's southern border — is disputing the reports that it has sold $1 billion of bitcoin (BTC-USD). “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 18m ago
+
+---
+
+**[White House Says Strategic Bitcoin Reserve Announcement Is Imminent: ‘A Breakthrough’](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve)**
+
+The White House is nearing a formal announcement on a U.S. Strategic Bitcoin Reserve, with Patrick Witt saying the administration has already cleared a key legal hurdle.
+
+Bitcoin Magazine • 36m ago
+
+---
+
+**[Michael Saylor, Strategy add $2B bitcoin](https://uk.finance.yahoo.com/video/michael-saylor-strategy-add-2b-bitcoin-180000040.html)**
+
+Scott Melker discusses Strategy's (MSTR) latest move to purchase of $2B worth of bitcoin (BTC-USD). “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance UK • 17m ago
+
+---
+
+**[Bitcoin drops to two-week low after Trump warns Iran 'clock is ticking:' Crypto Markets Today](https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets)**
+
+CoinDesk • 7h ago
+
+---
+
+**[Situational Awareness LP discloses $5.5 billion portfolio with large semiconductor puts and bitcoin miner longs](https://blockspace.media/insight/situational-awareness-lp-bitcoin-miner-longs/)**
+
+Blockspace Media • 2h ago
 
 ---
 
@@ -207,29 +227,7 @@ The Block • 4h ago
 
 North America's largest Bitcoin ATM operator cited a hostile regulatory environment and an 'unsustainable' business model.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Michael Burry Warns of a Nasdaq Dot-Com Bubble: Is Bitcoin a Hedge or Casualty?](https://247wallst.com/investing/2026/05/18/michael-burry-warns-of-a-nasdaq-dot-com-bubble-is-bitcoin-a-hedge-or-casualty/)**
-
-Michael Burry sees 40–50% drops ahead for Big Tech. As the AI bubble grows, is Bitcoin (BTC) a safe haven or the next casualty?
-
-24/7 Wall St. • 2h ago
-
----
-
-**[Current price of Bitcoin for May 15, 2026](https://fortune.com/article/price-of-bitcoin-05-15-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 3d ago
-
----
-
-**[Prime Trust estate demands $970M in digital assets, cash from Swan in bankruptcy court](https://blockspace.media/insight/prime-trust-sues-swan-bitcoin-recover-btc/)**
-
-Blockspace Media • 3h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -242,6 +240,12 @@ Blockspace Media • 3h ago
 The user apparently changed the password while 'stoned'
 
 ⬆️ 332 • 💬 174 • 4d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
+
+---
+
+**[Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://news.ycombinator.com/item?id=48182592)**
+
+⬆️ 57 • 💬 57 • 52m ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -297,7 +301,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 665 • 💬 27 • ⏱️ 37:03 • 2h ago
+👁️ 9K • 👍 665 • 💬 27 • ⏱️ 37:03 • 3h ago
 
 ---
 
@@ -307,7 +311,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 205 • ⏱️ 8:43 • 15h ago
+👁️ 22K • 👍 1K • 💬 205 • ⏱️ 8:43 • 17h ago
 
 ---
 
@@ -317,7 +321,7 @@ Bitcoin's next breakout may not come from ETFs or institutions. It may come from
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 92 • ⏱️ 16:37 • 17h ago
+👁️ 14K • 👍 1K • 💬 92 • ⏱️ 16:37 • 19h ago
 
 ---
 
@@ -327,7 +331,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 586 • 💬 204 • ⏱️ 15:06 • 16h ago
+👁️ 10K • 👍 586 • 💬 204 • ⏱️ 15:06 • 18h ago
 
 ---
 
@@ -337,7 +341,7 @@ Bitcoin is entering one of the MOST important moments of this entire cycle… an
 
 📺 Crypto Love
 
-👁️ 6K • 👍 376 • 💬 159 • ⏱️ 11:27 • 23h ago
+👁️ 6K • 👍 376 • 💬 159 • ⏱️ 11:27 • 1d ago
 
 ---
 
@@ -367,7 +371,7 @@ Bitcoin just got rejected at a major resistance level, and this latest bounce is
 
 📺 Chart Hackers
 
-👁️ 1K • 👍 182 • 2h ago
+👁️ 1K • 👍 182 • 4h ago
 
 ---
 
@@ -387,7 +391,7 @@ Cryptomanran breaks down Bitcoin's sharp shift into a broader risk-off structure
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 596 • 💬 13 • ⏱️ 24:59 • 2h ago
+👁️ 5K • 👍 596 • 💬 13 • ⏱️ 24:59 • 4h ago
 
 ---
 
