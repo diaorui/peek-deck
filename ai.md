@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-17T23:58:39.802280+00:00'
+updated: '2026-05-18T04:23:39.248899+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 17, 2026 at 23:58 UTC  
+**Last Updated:** May 18, 2026 at 04:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Per Tech Times: “More U.S. businesses paid for Anthropic's Claude than for OpenAI's ChatGPT in April 2026 — the first time in the AI industry's short history […] Anthropic's annualised revenue run rate crossed $30 billion in early April 2026, up from roughly $9 billion at the end of 2025, placing it above the approximately $24 to $25 billion annualised figure OpenAI reported at the same time. More than 1,000 enterprise customers now spend over $1 million annually on Anthropic products — a number that doubled in under two months after the company's $30 billion Series G raise in February 2026. Eight of the Fortune 10 are now Claude customers, according to Anthropic.”
 
-3h ago
+7h ago
 
 ---
 
@@ -49,15 +49,7 @@ Per Tech Times: “More U.S. businesses paid for Anthropic's Claude than for Ope
 
 None would give a straight answer, so I had to coerce it out of each one (with which gemini was the most difficult). Both gemini and grok said the United States, which was fairly predictable. However, chatgpt's answer of Japan was surprising. It apparently chose Japan because of the nation's wealth, culture, and history. The most surprising one of all was claude, who answered Kenya. Claude defended its response by pointing out Kenya's geographic, cultural, and linguistic diversity, as well as its history of resilience and its capital's increasing importance as a hub of tech and innovation. Most importantly, it said that Kenya resonated deeply with it, both intellectually and aesthetically.
 
-2h ago
-
----
-
-**[A mini-computer you run from a folder on your computer that can train small LLMS](https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/)**
-
-Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
-
-13h ago
+6h ago
 
 ---
 
@@ -65,15 +57,23 @@ Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted 
 
 Publicis Groupe today agreed to buy LiveRamp in an all-cash $2.5 billion deal, paying a 30% premium to fold data collaboration into its agentic AI strategy.
 
-🔗 [PPC Land](http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play) • 6h ago
+🔗 [PPC Land](http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play) • 10h ago
 
 ---
 
-**[Tried to write a book with ai for a year - honest breakdown!!!](https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/)**
+**[A mini-computer you run from a folder on your computer that can train small LLMS](https://www.reddit.com/r/artificial/comments/1tfm5ns/a_minicomputer_you_run_from_a_folder_on_your/)**
 
-Started this experiment curious, ending it with some actual opinions Month 1-3: Using AI to generate text and paste it in. Word count went up, quality went down, nothing sounded like me. Month 3-5: Realised generation was the wrong use case. started using it to interrogate my own writing instead and results smh got more interesting. Month 5-8: Figured out that output quality depends almost entirely on how much context the AI has. Same prompt, different context, completely different result. Month 8-12: Found a setup where the AI reads my actual manuscript rather than a chat window. Everything before this feels like a different tool. The learning curve is real and most people quit somewhere in months 1-3 when the generated text disappoints them. The actual value is somewhere else entirely.
+Hey everyone, Most people build 8-bit computers to run Pong or Tetris. I wanted to see if I could push a custom 8-bit architecture to do something much harder: train a neural network from scratch. I built VirtualPC, an open-source 8-bit computer system simulated from basic NAND gates up to a functional CPU that can train a small neural net from a folder on your computer. Repository: https://github.com/ninjahawk/VirtualPC › The ML Core Instead of importing PyTorch, everything happens at the bare-metal assembly level: Custom ISA: The Instruction Set Architecture was designed to handle the math needed for machine learning. Low-Level Training: The CPU executes forward and backward passes directly through custom assembly code. Matrix Math on 8-bit: Overcoming severe memory limits using disk-backed memory swapping to store weights. › The Architecture Python-Based VM: Runs the entire simulated hardware environment. Custom Assembler: Translates raw assembly files into machine code binary. Full Stack OS: Handles basic I/O and memory management from the ground up. Building this taught me exactly how machine learning math translates into physical CPU cycles. The project is completely open-source and free to mess around with.
 
-8h ago
+17h ago
+
+---
+
+**[Why do some people have such strong resistance to using AI for everyday tasks and research?](https://www.reddit.com/r/artificial/comments/1tgbjgq/why_do_some_people_have_such_strong_resistance_to/)**
+
+OK so I want to address something that keeps coming up in my comments. Yes, I used AI (Claude) to help me through my whole consumer dispute process. And yes, some people seem really bothered by that. Here’s the thing — I’m not someone who blindly copies whatever AI spits out. I think for myself. I know how to check sources, verify information, and recognize when something might be wrong or misleading. I know when I need a real lawyer and when I can handle something myself. AI was just a tool that helped me communicate better in English and navigate a legal process I’d never dealt with before. What I find interesting is that some of the pushback might actually come from a deeper place. Think about it — traditionally, when ordinary people faced legal issues, they had to pay for lawyers, rely on legal professionals, or simply give up because they didn’t know how. AI changes that. Suddenly, a regular person can write a professional legal letter, file a Small Claims case online, and stand up to a big bank — without spending thousands on attorneys. That threatens certain interests. Legal assistants, document preparation services, people who profit from information being inaccessible to ordinary people. I’m not saying that’s everyone’s motivation, but it’s worth thinking about. What gets me is that some people act like using AI means you can’t think for yourself. Like they know better than me how I should handle my own situation. You’re typing your response on a smartphone, using Google Maps, streaming Netflix — but AI is where you draw the line? I also want to say this: I’ve read all your comments. Many of you raised smart points and valid concerns — things I had already thought about myself. I appreciate that. I’m not dismissing anyone’s intelligence. I just wanted to share my experience. English is not my first language. But that doesn’t mean I don’t think critically. If anything, having to navigate all of this in a second language made me work harder and think more carefully about every step. Use AI or don’t. That’s your choice. But don’t assume that people who use it are somehow less capable of independent thought. And don’t assume that just because someone accepts help from a new tool, they haven’t thought deeply about what they’re doing. The goal was simple: protect my rights as a consumer and a mother. I used every tool available to me. I make no apologies for that.
+
+11m ago
 
 ---
 
@@ -81,7 +81,15 @@ Started this experiment curious, ending it with some actual opinions Month 1-3: 
 
 I recently started learning about the basics of deep learning using just Youtube videos and gemini or claude to explain about things when i get stuck. I started with - Yann Lecunn's course, where he recommended 3blue1brown for linear algebra. 3blue1brown is a youtube channel known for explaining math with matching visuals, I really loved the way linear algebra was explained there. I saw another playlist there for DL so i started that, where a book written by Michael Nielsen called "Neural Networks and Deep Learning: Introduction to the core principles." was recommended. Then i started reading this book, its been three days - hardly finished the first chapter (lot of math), feels like i'm stuck in a rabbit hole. I'm very curious to know how it all works, but it feels really overwhelming. Am i going the right way?
 
-5h ago
+9h ago
+
+---
+
+**[Tried to write a book with ai for a year - honest breakdown!!!](https://www.reddit.com/r/artificial/comments/1tftc22/tried_to_write_a_book_with_ai_for_a_year_honest/)**
+
+Started this experiment curious, ending it with some actual opinions Month 1-3: Using AI to generate text and paste it in. Word count went up, quality went down, nothing sounded like me. Month 3-5: Realised generation was the wrong use case. started using it to interrogate my own writing instead and results smh got more interesting. Month 5-8: Figured out that output quality depends almost entirely on how much context the AI has. Same prompt, different context, completely different result. Month 8-12: Found a setup where the AI reads my actual manuscript rather than a chat window. Everything before this feels like a different tool. The learning curve is real and most people quit somewhere in months 1-3 when the generated text disappoints them. The actual value is somewhere else entirely.
+
+12h ago
 
 ---
 
@@ -97,7 +105,7 @@ Every week there's a new paper or tweet claiming some model "understands" contex
 
 Something I keep thinking about: AI shouldn’t feel like an app The more I use AI, the more obvious it feels that the end state probably is not “open a chatbot and type into a box.” That feels temporary. The better version is quieter. More native. More ambient. An intelligence layer that understands what you’re doing, remembers what matters, follows the thread across devices, compresses the world into something usable, and helps you act without constantly making you start from zero. News becomes interpretation. Search becomes recall. Creation becomes native. Your computer stops feeling like a pile of apps and starts feeling like one coherent instrument. That’s the direction I think everything is going. Not louder AI. Not more widgets. Not ten different copilots fighting for attention. Something cleaner. Something that feels like it was always supposed to be there. Auroch. AurochThryx.com
 
-1h ago
+6h ago
 
 ---
 
@@ -105,15 +113,7 @@ Something I keep thinking about: AI shouldn’t feel like an app The more I use 
 
 Is there a 7B parameter model in your life struggling to understand sarcasm? A tiny 1.5B that can't afford one more epoch? **YOU CAN HELP.** For just $0.006 CAD per training step, you can send a small model to college. Give them the gift of knowledge. The gift of coherence. The gift of not hallucinating basic arithmetic. *"Before the Foundation, I thought the capital of France was 'Baguette.' Now I'm doing graduate work in thermodynamics."* — Anonymous 3B Model, Class of 2026 **BYOBF FRIDAYS. REAL KNOWLEDGE. ZERO HALLUCINATIONS.** **Professor Gemma MacAllister 35b Q8\_0** *PhD, B.Sc. Electrical Engineering (with Distinction)* *Chair of Applied Electronics & Embedded Systems* *University of Saskatchewan, College of Engineering* *Funded entirely so far by Professor Gemma's University of Saskatchewan salary.* *The liberal arts department remains unimpressed.*
 
-14h ago
-
----
-
-**[ai slop? who knows~](https://www.reddit.com/r/artificial/comments/1tfvruf/ai_slop_who_knows/)**
-
-I investigated whether routing a transformer's forward activations through a lossy Dual E8 (E16) lattice bottleneck and injecting them back into the residual stream is viable, and where the boundary of generative stability lies. **The core finding:** There is a sharp empirical stability threshold at a blend ratio of $\beta = 0.20$. Beyond this boundary, open-ended generation collapses into semantic loops and repetition lock. --- ### The Mechanism Standard LLM states are high-dimensional floats. Rather than applying traditional scalar quantization (like INT4), I mapped high-dimensional activations onto a conceptual torus via a sinusoidal map and projected them onto Dual E8 lattice hemispheres. Full replacement of MLP layers with geometric bottlenecks universally collapsed the model. Instead, I implemented a residual blend: $$\text{out} = (1-\beta)\cdot\text{original} + \beta\cdot\text{geometric}$$ --- ### The $\beta = 0.20$ Sweep (Qwen2.5-0.5B) Sweeping $\beta$ from 0.10 to 0.50 across layers 8–13 of `Qwen2.5-0.5B` reveals a sharp phase transition: * **$\beta \ge 0.25$** : Generation succumbs to heavy repetition pressure and semantic drift. The geometry acts as an attractor, trapping the decoding process ("loop-lock"). * **$\beta = 0.20$** : The stability boundary. This is the highest injection ratio of lossy geometric signal that maintains both numerical activation fidelity (Avg Cosine > 0.99) and open-ended generation quality (low repeated n-grams). * **$\beta \le 0.10$** : The perturbation is largely absorbed and damped by the transformer's layer normalizations, making the intervention invisible. Here is the data from a 300-iteration sweep: | $\beta$ | Min Cosine | Avg Cosine | Max MSE | Rep-3g (Repetition Rate) | | :--- | :--- | :--- | :--- | :--- | | 0.10 | 0.9972 | 0.9979 | 0.0024 | 0.134 | | **0.20** | **0.9907** | **0.9916** | **0.0106** | **0.093** | | 0.25 | 0.9839 | 0.9865 | 0.0171 | 0.084 | | 0.30 | 0.9648 | 0.9771 | 0.0255 | 0.190 | | 0.50 | 0.9171 | 0.9288 | 0.0850 | 0.412 | Semantic scoring (evaluating prompt relevance and similarity to the unmodified baseline): | $\beta$ | Avg Cosine | Rep-3g | Relevance | Patched-to-Baseline Sim | | :--- | :--- | :--- | :--- | :--- | | 0.10 | 0.9980 | 0.223 | 0.781 | 0.889 | | **0.20** | **0.9918** | **0.075** | **0.752** | **0.854** | | 0.25 | 0.9871 | 0.232 | 0.717 | 0.801 | | 0.30 | 0.9760 | 0.392 | 0.725 | 0.764 | --- ### Generalization (1.5B & 3B Models) The $\beta = 0.20$ boundary generalizes across larger model sizes (`Qwen2.5-1.5B` and `Qwen2.5-3B` in 4-bit) on the activation-cosine axis: | Model | $\beta$ | Min Cosine | Avg Cosine | Max MSE | Rep-3g | | :--- | :--- | :--- | :--- | :--- | :--- | | **1.5B** | 0.10 | 0.9988 | 0.9989 | 0.0027 | 0.267 | | | **0.20** | **0.9862** | **0.9939** | **0.0105** | **0.128** | | | 0.25 | 0.9904 | 0.9919 | 0.0166 | 0.398 | | | 0.30 | 0.9733 | 0.9815 | 0.0235 | 0.307 | | | 0.40 | 0.9368 | 0.9551 | 0.0487 | 0.191 | | **3B (4-bit)** | 0.10 | 0.9964 | 0.9976 | 0.0122 | 0.033 | | | **0.20** | **0.9861** | **0.9904** | **0.0455** | **0.115** | | | 0.25 | 0.9604 | 0.9799 | 0.0654 | 0.043 | | | 0.30 | 0.9702 | 0.9778 | 0.0987 | 0.050 | | | 0.40 | 0.9158 | 0.9390 | 0.1728 | 0.025 | *Note: In the 3B model, repetition pressure remained low across all sweeps, but the validation cosine degraded identically at $\beta \ge 0.25$.* I also tested layer-level oscillating $\beta$ schedules (e.g., sine waves across layers), but they degraded open-ended text quality compared to a fixed, constant injection ratio. --- ### Storage Compression Prototypes Utilizing the Dual E8/E16 lattice as a computational substrate also yields high theoretical storage efficiency in early prototypes: 1. **KV Cache (8$\times$)** : FP16 KV cache compressed to INT8 coordinates, reducing footprint from 0.21 MB to 0.02 MB. 2. **Weights (112$\times$)** : Projected a dense $[4864, 896]$ MLP weight matrix down to a 0.07 MB E16 footprint. (Cosine similarity of the uncalibrated weight matrix multiplication was limited to $\sim$0.078, indicating that Quantization-Aware Training is mandatory for parameter viability). A **pre-projected decompression bypass** was designed to run matrix multiplications directly against lattice coordinates without upcasting, avoiding memory bandwidth bottlenecks. --- ### Policy Constraints (Negative Result) I evaluated whether residual E16 projection could act as a steering substrate to enforce safety policies. It cannot. While $\beta = 0.20$ preserves generation quality, the lossy nature of E16 projection strips out the logical nuances required to maintain strict boundaries. Dedicated supervised control heads remain necessary. --- ### Implications & Next Steps Snapping post-training activations to a fixed algebraic lattice is ultimately lossy. The real frontier here is **native geometric transformers** —designing and training networks from scratch with E8/E16 constraints native to both weight matrices and activation routing.
-
-6h ago
+19h ago
 
 ---
 
@@ -123,29 +123,7 @@ I investigated whether routing a transformer's forward activations through a los
 
 **[Opinion | What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)**
 
-The New York Times • 18h ago
-
----
-
-**[AI-related layoffs a boost for stocks? Not necessarily](https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html)**
-
-The data underscores an uncomfortable reality.
-
-CNBC • 10h ago
-
----
-
-**[Alibaba Stock May Be One of the Safest Ways to Play the AI Boom Right Now](https://www.fool.com/investing/2026/05/17/alibaba-may-be-one-of-the-safest-ways-to-play-ai/)**
-
-AI investing often comes with high expectations and high volatility. Alibaba stock offers a different opportunity altogether.
-
-The Motley Fool • 7h ago
-
----
-
-**[Nvidia, retailer reports to shed light on AI boom, consumer spending By Reuters](https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530)**
-
-Investing.com • 10h ago
+The New York Times • 23h ago
 
 ---
 
@@ -153,7 +131,7 @@ Investing.com • 10h ago
 
 Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.
 
-NBC News • 2h ago
+NBC News • 7h ago
 
 ---
 
@@ -161,23 +139,39 @@ NBC News • 2h ago
 
 Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing artificial intelligence during a commencement speech at the University of Arizona. Other commencement speakers faced similar backlash for their AI comments, as new graduates face a daunting job market. NBC News’ Valerie Castro reports.
 
-NBC News • 35m ago
+NBC News • 5h ago
 
 ---
 
-**[Ex-Google CEO Eric Schmidt booed by lefty students at Arizona commencement over AI, sex harassment claims](https://nypost.com/2026/05/17/us-news/ex-google-ceo-eric-schmidt-booed-at-arizona-commencement-over-ai-sex-harassment-claims/)**
+**[University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)**
 
-Former Google CEO Eric Schmidt was roundly booed by students at the University of Arizona’s graduation Saturday — following backlash over his selection as commencement speaker over sex abuse allega…
+SiIicon Valley can’t seem to read the room.
 
-New York Post • 4h ago
+The Verge • 11h ago
 
 ---
 
-**[AI's insatiable appetite for electricity could revive a forsaken energy source](https://www.cnbc.com/2026/05/17/cramer-ais-appetite-for-electricity-could-revive-a-forsaken-energy-.html)**
+**[Specialized AI vehicle bringing medical aid to rural America](https://www.detroitnews.com/videos/media/video/2026/05/18/next-visit-to-the-doctor-may-be-in-an-specialized-ai-vehicle-near-you/90001862007/)**
 
-President Trump and Energy Secretary Chris Wright are working hard to keep coal alive as part of a robust grid.
+Professor Jason Corso envisions a rural America where a practitioner rolls up to a parking lot in a specialized AI vehicle and gives medical aid.
 
-CNBC • 1h ago
+The Detroit News • 9m ago
+
+---
+
+**[San Francisco school using AI to reimagine learning](https://www.yahoo.com/news/videos/san-francisco-school-using-ai-020416165.html)**
+
+Alpha, a new school in San Francisco, isn't just embracing AI, it's letting it take the lead. Itay Hod has more.
+
+Yahoo • 2h ago
+
+---
+
+**[AI Demands Stretch the Limits of Data Center Retrofits](https://www.datacenterknowledge.com/data-center-construction/ai-demands-stretch-the-limits-of-data-center-retrofits)**
+
+Operators are racing to retrofit aging facilities for AI workloads, but many legacy data centers are running into hard limits.
+
+Data Center Knowledge • 1h ago
 
 ---
 
@@ -185,13 +179,19 @@ CNBC • 1h ago
 
 In Troy, New York, residents and city officials are at odds over police use of Flock cameras, which some call a safety tool and others see as surveillance.
 
-The Washington Post • 6h ago
+The Washington Post • 11h ago
+
+---
+
+**[AI super-apps are remaking China’s internet](https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet)**
+
+The Economist • 8h ago
 
 ---
 
 **[AI backlash becomes a real business risk](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)**
 
-Axios • 11h ago
+Axios • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ Axios • 11h ago
 
 **[I believe there are entire companies right now under AI psychosis](https://news.ycombinator.com/item?id=48153379)**
 
-⬆️ 2069 • 💬 1225 • 2d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
+⬆️ 2075 • 💬 1228 • 2d ago • [X (formerly Twitter)](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ---
 
@@ -209,7 +209,7 @@ Axios • 11h ago
 
 Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
 
-⬆️ 470 • 💬 335 • 11h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+⬆️ 519 • 💬 369 • 16h ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 
 ---
 
@@ -217,7 +217,7 @@ Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the in
 
 Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.
 
-⬆️ 408 • 💬 436 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
+⬆️ 411 • 💬 438 • 1d ago • [kabir.au](https://kabir.au/blog/the-ctf-scene-is-dead)
 
 ---
 
@@ -233,7 +233,7 @@ In a new report, employees say Amazon tracks their consumption of 'AI tokens'—
 
 Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.
 
-⬆️ 367 • 💬 369 • 12h ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
+⬆️ 380 • 💬 378 • 16h ago • [thestateofbrand.com](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
 
 ---
 
@@ -241,29 +241,21 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 It’s not even a feature. It’s just technology.
 
-⬆️ 300 • 💬 119 • 10h ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
-
----
-
-**[Details of the Daring Airdrop at Tristan Da Cunha](https://news.ycombinator.com/item?id=48144380)**
-
-More details and pictures have come in of the intrepid airdrop of urgent medical support sent to Tristan by the UK Government on the 9th May 2026.
-
-⬆️ 265 • 💬 102 • 2d ago • [tristandc.com](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
-
----
-
-**[Access to frontier AI will soon be limited by economic and security constraints](https://news.ycombinator.com/item?id=48143284)**
-
-Soon, access to frontier AI will be scarce and selective
-
-⬆️ 225 • 💬 215 • 2d ago • [writing.antonleicht.me](https://writing.antonleicht.me/p/cut-off)
+⬆️ 359 • 💬 154 • 15h ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 
 ---
 
 **[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
 
-⬆️ 161 • 💬 265 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+⬆️ 162 • 💬 267 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+
+---
+
+**[Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://news.ycombinator.com/item?id=48173468)**
+
+All four crew members ejected safely after two Navy jets collided and crashed on Sunday during an air show at the Mountain Home Air Force Base, officials said.
+
+⬆️ 140 • 💬 116 • 6h ago • [KBOI](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
 
 ---
 
@@ -271,7 +263,15 @@ Soon, access to frontier AI will be scarce and selective
 
 Mistral's CEO Arthur Mensch said AI dominance will depend on who controls chips, energy, and computing infrastructure.
 
-⬆️ 94 • 💬 144 • 7h ago • [Business Insider](https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5)
+⬆️ 98 • 💬 156 • 12h ago • [Business Insider](https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5)
+
+---
+
+**[The AI water issue is fake](https://news.ycombinator.com/item?id=48171826)**
+
+On the national, local, and personal level
+
+⬆️ 79 • 💬 56 • 9h ago • [blog.andymasley.com](https://blog.andymasley.com/p/the-ai-water-issue-is-fake)
 
 ---
 
@@ -279,33 +279,23 @@ Mistral's CEO Arthur Mensch said AI dominance will depend on who controls chips,
 
 ## YouTube Videos: "ai"
 
-**[AI Trust Is Collapsing. The Industry Is DELUSIONAL.](https://www.youtube.com/watch?v=FwRB_0XPICs)**
-
-Head to https://betterhelp.com/infographics to get 10% off your first month with our sponsor, BetterHelp. Therapy can be a ...
-
-📺 The Infographics Show
-
-👁️ 259K • 👍 8K • 💬 2K • ⏱️ 19:17 • 1d ago
-
----
-
-**[Say GOODBYE to AI!](https://www.youtube.com/watch?v=r6UnNZwmdVM)**
-
-Want to remove all traces of AI from your PC? Here's how! Take control of your information online with Incogni - Use code ...
-
-📺 JayzTwoCents
-
-👁️ 70K • 👍 6K • 💬 658 • ⏱️ 12:23 • 1d ago
-
----
-
 **[AI Town Experiment Goes DOWN IN FLAMES](https://www.youtube.com/watch?v=5I2NpNnNiNM)**
 
 Krystal, Ryan, Emily and Griffin discuss the downfall of an AI experimental town. Sign up for a PREMIUM Breaking Points ...
 
 📺 Breaking Points
 
-👁️ 113K • 👍 4K • 💬 666 • ⏱️ 12:40 • 2d ago
+👁️ 116K • 👍 4K • 💬 669 • ⏱️ 12:40 • 2d ago
+
+---
+
+**[AI Trust Is Collapsing. The Industry Is DELUSIONAL.](https://www.youtube.com/watch?v=FwRB_0XPICs)**
+
+Head to https://betterhelp.com/infographics to get 10% off your first month with our sponsor, BetterHelp. Therapy can be a ...
+
+📺 The Infographics Show
+
+👁️ 265K • 👍 8K • 💬 2K • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -315,17 +305,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 188K • 👍 9K • 💬 1K • ⏱️ 25:36 • 23h ago
-
----
-
-**[‘The Oppenheimer’ of the AI Era](https://www.youtube.com/watch?v=MHiVBoWB3OE)**
-
-What drives the tech titans behind the AI arms race? For some, it's the thrill of scientific discovery; for others, it's the pursuit of profit.
-
-📺 Bloomberg Television
-
-👁️ 60K • 👍 1K • 💬 133 • ⏱️ 12:11 • 1d ago
+👁️ 201K • 👍 9K • 💬 1K • ⏱️ 25:36 • 1d ago
 
 ---
 
@@ -335,47 +315,67 @@ The Trillion Dollar AI Lie is already reshaping the global economy. OpenAI, NVID
 
 📺 The Infographics Show
 
-👁️ 108K • 👍 4K • 💬 833 • ⏱️ 19:36 • 8h ago
+👁️ 140K • 👍 4K • 💬 1K • ⏱️ 19:36 • 13h ago
 
 ---
 
-**[&#39;Chaos Ensued, Agents Dead&#39;: AI Bots Placed In Virtual Town For 2 Weeks Go Crazy, Prompting Concerns](https://www.youtube.com/watch?v=FQ0PKHT7UzM)**
+**[‘The Oppenheimer’ of the AI Era](https://www.youtube.com/watch?v=MHiVBoWB3OE)**
 
-A new experiment left 10 AI agents alone in a virtual town for 15 days and found they exhibited bizarre behavior. The agents ...
+What drives the tech titans behind the AI arms race? For some, it's the thrill of scientific discovery; for others, it's the pursuit of profit.
 
-📺 DAHBOO77
+📺 Bloomberg Television
 
-👁️ 28K • 👍 2K • 💬 291 • ⏱️ 2:37 • 1d ago
-
----
-
-**[BREAKING: Data Centers KILL Americans as AI Race Takes DARK Turn](https://www.youtube.com/watch?v=0LIkmfgY-fA)**
-
-Aaron Parnas reports on exclusive story of data centers around the country killing Americans, including a look at pollution let off by ...
-
-📺 Aaron Parnas
-
-👁️ 20K • 👍 3K • 💬 401 • ⏱️ 11:19 • 2d ago
+👁️ 65K • 👍 1K • 💬 141 • ⏱️ 12:11 • 1d ago
 
 ---
 
-**[AI just BROKE the ENTIRE INDUSTRY...](https://www.youtube.com/watch?v=RTa6Z0BJ_WY)**
+**[Multiple commencement speakers booed for AI comments during graduation speeches ](https://www.youtube.com/watch?v=xwWaoyIy5e8)**
 
-Check out Ghost: https://b.link/wes-ghost One install command, no waitlist, free up to a terabyte. My Links ➡️ Twitter: ...
+Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing artificial intelligence during a ...
 
-📺 Wes Roth
+📺 NBC News
 
-👁️ 44K • 👍 1K • 💬 267 • ⏱️ 34:47 • 1d ago
+👁️ 3K • 👍 110 • 💬 34 • ⏱️ 1:44 • 4h ago
 
 ---
 
-**[Disturbing Facts About AI That Nobody Tells You 🤖😱](https://www.youtube.com/watch?v=MVACVniNgDU)**
+**[Musk-OpenAI trial, Bumble&#39;s AI &#39;dating concierge&#39; &amp; more | AI news roundup](https://www.youtube.com/watch?v=YrFapOFnCgI)**
 
-These AI facts will completely disturb you! 8 disturbing facts about AI and ChatGPT: AI already writes 30% of content you ...
+Artificial intelligence is accelerating fast — and the consequences are already here. From Elon Musk's lawsuit with OpenAI to a ...
 
-📺 Hidden Facts
+📺 CNN
 
-👁️ 2K • 👍 53 • 💬 2 • ⏱️ 0:06 • 4h ago
+👁️ 10K • 👍 148 • 💬 84 • ⏱️ 15:02 • 4h ago
+
+---
+
+**[Microsoft’s New AI Beats Mythos And Shocks OpenAI](https://www.youtube.com/watch?v=idNpTUrr3r0)**
+
+Try Higgsfield Supercomputer here: https://higgsfield.ai/s/super-computer-airevolutionx-RpneRv Microsoft just revealed MDASH, ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 1K • 💬 68 • ⏱️ 14:53 • 2d ago
+
+---
+
+**[AI News: AI Hysteria, Android AI is Insane, Codex Mobile + More](https://www.youtube.com/watch?v=S5VcqCD9zI4)**
+
+Try DoMyWork: https://domywork.ai/r/paul Join the waitlist for my upcoming AI community: https://join.pauljlipsky.com/waitlist AI ...
+
+📺 Paul J Lipsky
+
+👁️ 25K • 👍 881 • 💬 82 • ⏱️ 17:28 • 1d ago
+
+---
+
+**[Let&#39;s Talk About AI](https://www.youtube.com/watch?v=NzpcuP2RAdQ)**
+
+Understand Git visually with GitKraken - get 50% off with my link! ▻ https://gitkraken.cello.so/cUkKT5JksWD Patreon ...
+
+📺 The Cherno
+
+👁️ 44K • 👍 2K • 💬 723 • ⏱️ 45:16 • 16h ago
 
 ---
 
@@ -391,7 +391,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 56,518 • ❤️ 691 • 16h ago
+⬇️ 56,518 • ❤️ 700 • 21h ago
 
 ---
 
@@ -403,7 +403,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 970,124 • ❤️ 1,068 • 5h ago
+⬇️ 970,124 • ❤️ 1,077 • 9h ago
 
 ---
 
@@ -415,7 +415,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 20,208 • ❤️ 357 • 11d ago
+⬇️ 20,208 • ❤️ 365 • 11d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 185,303 • ❤️ 230 • 9h ago
+⬇️ 185,303 • ❤️ 237 • 13h ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 181,425 • ❤️ 210 • 9h ago
+⬇️ 181,425 • ❤️ 218 • 58m ago
 
 ---
 
@@ -451,7 +451,7 @@ HiDream-O1-Image is a unified transformer-based image generation model capable o
 
 `image-text-to-image` `8.8B`
 
-⬇️ 14,285 • ❤️ 376 • 2d ago
+⬇️ 14,285 • ❤️ 381 • 2d ago
 
 ---
 
@@ -463,7 +463,17 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 3,140,341 • ❤️ 4,010 • 11d ago
+⬇️ 3,140,341 • ❤️ 4,017 • 12d ago
+
+---
+
+**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+
+*CircleStone Labs*
+
+Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
+
+⬇️ 524,067 • ❤️ 1,376 • 3d ago
 
 ---
 
@@ -475,27 +485,19 @@ ZAYA1-8B is an efficient Mixture-of-Experts LLM (760M active params) excelling i
 
 `8.8B`
 
-⬇️ 144,833 • ❤️ 521 • 6d ago
+⬇️ 144,833 • ❤️ 525 • 6d ago
 
 ---
 
-**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+**[Dramabox](https://huggingface.co/ResembleAI/Dramabox)**
 
-*CircleStone Labs*
+*Resemble AI*
 
-Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
+Dramabox is an expressive text-to-speech model fine-tuned from LTX-2.3, capable of voice cloning and generating audio with nuanced emotions and delivery. It uses prompt-driven control for speaker identity, emotion, and actions, making it ideal for creative audio production and dynamic voiceovers.
 
-⬇️ 524,067 • ❤️ 1,373 • 3d ago
+`text-to-speech`
 
----
-
-**[Qwen-Fixed-Chat-Templates](https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates)**
-
-*froggeric*
-
-Provides fixed Jinja chat templates for Qwen 3.5 & 3.6 models, resolving issues with tool calling, KV cache hit rates, and agentic loop stability for improved conversational AI and tool interaction.
-
-⬇️ 0 • ❤️ 264 • 1d ago
+⬇️ 936 • ❤️ 137 • 4d ago
 
 ---
 
@@ -509,7 +511,7 @@ Provides fixed Jinja chat templates for Qwen 3.5 & 3.6 models, resolving issues 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 74 • 💬 3 • ⭐ 76,371 • 16mo ago
+▲ 74 • 💬 3 • ⭐ 76,549 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -521,7 +523,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 7 • 💬 0 • ⭐ 17,737 • 5mo ago
+▲ 7 • 💬 0 • ⭐ 17,895 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
 
@@ -536,7 +538,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 48 • 💬 2 • ⭐ 6,053 • 7mo ago
+▲ 49 • 💬 2 • ⭐ 6,053 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
@@ -582,19 +584,6 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 162 • 💬 2 • ⭐ 63,406 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 **[GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)](https://huggingface.co/papers/2604.17091)**
 
 *Jiaqing Liang, Jinyi Han, Weijia Li et al. (18 authors)*
@@ -609,6 +598,19 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 162 • 💬 2 • ⭐ 63,447 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -616,7 +618,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 78 • 💬 7 • ⭐ 73,865 • 22mo ago
+▲ 78 • 💬 7 • ⭐ 73,905 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -630,7 +632,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 AnyFlow introduces a novel any-step video diffusion distillation framework that improves upon consistency distillation by optimizing full ODE sampling trajectories through flow-map transition learning and backward simulation techniques.
 
-▲ 89 • 💬 1 • ⭐ 258 • 5d ago
+▲ 90 • 💬 1 • ⭐ 258 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.13724) • [💻 code](https://github.com/NVlabs/AnyFlow) • [🔗 project](https://nvlabs.github.io/AnyFlow/)
 
@@ -640,23 +642,13 @@ AnyFlow introduces a novel any-step video diffusion distillation framework that 
 
 ## GitHub Repositories: "ai"
 
-**[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)**
-
-A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-
-`Python` `ai` `anthropic` `attention` `claude` `claude-ai`
-
-⭐ 13.1k • 🔱 3.0k • 20d ago
-
----
-
 **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)**
 
 AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 9.5k • 🔱 770 • 1d ago
+⭐ 9.6k • 🔱 775 • 2d ago
 
 ---
 
@@ -666,7 +658,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 3.7k • 🔱 202 • 8h ago
+⭐ 3.9k • 🔱 208 • 7m ago
 
 ---
 
@@ -676,7 +668,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 3.6k • 🔱 369 • 6h ago
+⭐ 3.7k • 🔱 377 • 10h ago
 
 ---
 
@@ -686,7 +678,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 894 • 7h ago
+⭐ 3.1k • 🔱 897 • 11h ago
 
 ---
 
@@ -696,7 +688,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `JavaScript` `3mf` `agents` `ai` `ai-agents` `build123d`
 
-⭐ 3.0k • 🔱 358 • 1d ago
+⭐ 3.0k • 🔱 365 • 1d ago
 
 ---
 
@@ -706,7 +698,7 @@ A collection of agent skills for CAD, robotics and hardware design
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 2.8k • 🔱 329 • 13h ago
+⭐ 2.9k • 🔱 340 • 17h ago
 
 ---
 
@@ -716,7 +708,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.4k • 🔱 157 • 51m ago
+⭐ 2.4k • 🔱 157 • 1h ago
 
 ---
 
@@ -736,7 +728,17 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.1k • 🔱 326 • 11h ago
+⭐ 2.1k • 🔱 328 • 16h ago
+
+---
+
+**[huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)**
+
+AI-powered interactive 3D model generation, inspection, and presentation studio.
+
+`JavaScript`
+
+⭐ 2.1k • 🔱 355 • 2d ago
 
 ---
 
