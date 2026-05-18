@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-18T21:46:46.621291+00:00'
+updated: '2026-05-18T23:03:00.462641+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 18, 2026 at 21:46 UTC  
+**Last Updated:** May 18, 2026 at 23:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466 Maybe, this is the last time a human will ever win.
 
-12h ago
+13h ago
 
 ---
 
 **[GITAI’s R1 Rover Passes Mock Moon Surface Tests for Future Lunar Missions](https://www.reddit.com/r/robotics/comments/1tgw5kv/gitais_r1_rover_passes_mock_moon_surface_tests/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,19 +50,19 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 A lot of humanoid demos focus on walking, balance, and whole-body motion, but I keep coming back to the hand as the harder problem. This demo shows a dexterous robotic hand doing object manipulation tasks. The hardware is interesting, but the bigger question for me is: what should a robot hand learn first if the goal is useful real-world manipulation? Reliable pinch grasp? Tool use? Opening containers? Handling soft/deformable objects? Curious what people here think is the best first benchmark for a general-purpose robot hand.
 
-17h ago
+18h ago
 
 ---
 
 **[Robot arm](https://www.reddit.com/r/robotics/comments/1tgbw4x/robot_arm/)**
 
-17h ago
+18h ago
 
 ---
 
 **[This SPIKE Prime 4WD robot rescues an object from a maze](https://www.reddit.com/r/robotics/comments/1th02mi/this_spike_prime_4wd_robot_rescues_an_object_from/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ A lot of humanoid demos focus on walking, balance, and whole-body motion, but I 
 
 If you are not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics control loops, game NPCs, and any agent that needs predictable, debuggable decision-making The new visualizer makes it a lot easier to actually see what your tree is doing and catch issues without sprinkling print statements everywhere. See repo for more: https://github.com/Sollimann/bonsai
 
-10h ago
+11h ago
 
 ---
 
@@ -78,7 +78,7 @@ If you are not familiar with the library, its basically a Rust implementation of
 
 Hey everyone, wanted to share my project on semantic navigation where a robot can explore a simulated living room, remember what it has seen, and later navigate using natural-language object goals instead of coordinates. For example, after exploration, you can ask it something like: The system retrieves a remembered viewing pose for the object and sends a deterministic Nav2 goal. Stack used: ROS 2 Humble Nav2 SLAM Toolbox Ignition Gazebo Fortress rosbridge / ROS-MCP SQLite + JSON semantic memory RGB camera, LiDAR, IMU, odometry in simulation The idea was to move beyond “go to x, y” navigation and test a more semantic workflow: Robot explores the room Camera observer stores object captures Semantic memory keeps object labels and poses User asks for an object in natural language Robot navigates near the remembered object location using Nav2 It’s still a simulation demo, but I think this kind of object-based navigation is a useful bridge between classical robotics stacks and newer language/vision-based interfaces. Video demo/tutorial: https://youtu.be/Cj4dYQ7BuUw Code: https://github.com/itsbharatj/demos-ros-mcp-server/tree/example_10_semantic_navigation/10_semantic_navigation Would love feedback from people working on robot navigation, semantic mapping, or VLM/LLM-based robotics systems. I’m especially curious about better ways to represent the semantic memory and make the object-goal selection more robust.
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone, wanted to share my project on semantic navigation where a robot ca
 
 The robot can now turn in its walk mode, which is the reason for it having 4 extra servos (technically, 8 servos is all it needs for walking). The turning isn't super smooth, though. Will need some additional designs to make it more sturdy. And here is the full record for the current version of Cubic Doggo (DYNAMIXEL XL430-W250-T with ROS2 Jazzy): https://github.com/SphericalCowww/CubicDoggo It covers sections on running 1 servo, 1 leg, and the full robot. This project was developed by someone in his bedroom who has no robotic background. So no machining, no custom PCB, no special motor, no gears or tiny delicate parts, and use only free software such as FreeCAD/Cura. Everything is brute, minimalistic, and "cubic". So, no curves in CAD design, all servos are the same, and all connections are made by electronics you can order online. But if anyone is like me, who tried out the Stanford series and realized, geez, that's tough as heck. Feel free to try out my recipe :)
 
-12h ago
+13h ago
 
 ---
 
@@ -98,7 +98,7 @@ The robot can now turn in its walk mode, which is the reason for it having 4 ext
 
 **[Remote MuJoCo / Robotics RL opportunity — contractor role](https://www.reddit.com/r/robotics/comments/1tgvshx/remote_mujoco_robotics_rl_opportunity_contractor/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -106,25 +106,31 @@ The robot can now turn in its walk mode, which is the reason for it having 4 ext
 
 ## Google News: "robotics"
 
-**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
+**[Rivian's Robotics Company Is Now Worth More Than $3 Billion. Investors Could Benefit in 2 Important Ways.](https://www.fool.com/investing/2026/05/18/rivians-robotics-company-is-now-worth-more-than-3/)**
 
-Go Local Prov • 1d ago
+Rivian believes robotics are an important element of its future.
 
----
-
-**[Physical AI Research and Global Forecast Report 2026: Market to Reach $15.24 Billion by 2032 Growing at a CAGR of 47.2%, Driven by Defense Modernization, AI Medical Assistances, Digital Twin Robotics](https://finance.yahoo.com/sectors/technology/articles/physical-ai-research-global-forecast-112800280.html)**
-
-The global physical AI market is set to soar from USD 1.50 billion in 2026 to USD 15.24 billion by 2032, reflecting a robust CAGR of 47.2%. This growth is spurred by the rising adoption of autonomous robotics in manufacturing, logistics, and healthcare sectors. Advances in AI compute, sensor fusion, and real-time processing are enabling robots to navigate complex environments, bolstered by investments in humanoid robotics and AI platforms. North America is expected to dominate the market by 2032
-
-Yahoo Finance • 10h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[CUHK Launches Hong Kong’s First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
+**[The Bar Just Keeps Getting Higher for Tesla’s Robots](https://www.barrons.com/articles/tesla-optimus-robot-boston-dynamics-unitree-eb0a6abc)**
+
+Barron's • 7h ago
+
+---
+
+**[Local robotics team takes home first place at state championship](https://www.wkbn.com/news/local-news/austintown-news/local-robotics-team-takes-home-first-place-at-state-championship/)**
+
+WKBN.com • 9h ago
+
+---
+
+**[Hong Kong Launches First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
 
 CUHK’s Hong Kong Embodied AI Lab aims to advance humanoid robotics, logistics automation, and industry partnerships across embodied AI.
 
-eWeek • 3h ago
+eWeek • 4h ago
 
 ---
 
@@ -132,7 +138,7 @@ eWeek • 3h ago
 
 Concerns over lithium-ion batteries — not the bots' personalities — keeps them off Southwest flights.
 
-CNET • 1h ago
+CNET • 2h ago
 
 ---
 
@@ -144,9 +150,17 @@ Futurism • 1d ago
 
 ---
 
-**[Local robotics team takes home first place at state championship](https://www.wkbn.com/news/local-news/austintown-news/local-robotics-team-takes-home-first-place-at-state-championship/)**
+**[CVS Moves to Robotics and Reduces Jobs](https://www.golocalprov.com/business/cvs-moves-to-robotics-and-reduces-jobs)**
 
-WKBN.com • 8h ago
+Go Local Prov • 1d ago
+
+---
+
+**[Physical AI Research and Global Forecast Report 2026: Market to Reach $15.24 Billion by 2032 Growing at a CAGR of 47.2%, Driven by Defense Modernization, AI Medical Assistances, Digital Twin Robotics](https://finance.yahoo.com/sectors/technology/articles/physical-ai-research-global-forecast-112800280.html)**
+
+The global physical AI market is set to soar from USD 1.50 billion in 2026 to USD 15.24 billion by 2032, reflecting a robust CAGR of 47.2%. This growth is spurred by the rising adoption of autonomous robotics in manufacturing, logistics, and healthcare sectors. Advances in AI compute, sensor fusion, and real-time processing are enabling robots to navigate complex environments, bolstered by investments in humanoid robotics and AI platforms. North America is expected to dominate the market by 2032
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -154,7 +168,7 @@ WKBN.com • 8h ago
 
 Menlo Research launches a DIY humanoid kit for $15K, bringing open-source bipedal robots to independent builders.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 9h ago
 
 ---
 
@@ -163,20 +177,6 @@ Interesting Engineering • 7h ago
 Beijing has put robotics front and center of its national agenda as the tech race with Washington heats up in several key areas, including AI.
 
 NBC News • 3d ago
-
----
-
-**[Rivian's Robotics Company Is Now Worth More Than $3 Billion. Investors Could Benefit in 2 Important Ways.](https://www.fool.com/investing/2026/05/18/rivians-robotics-company-is-now-worth-more-than-3/)**
-
-Rivian believes robotics are an important element of its future.
-
-The Motley Fool • 2h ago
-
----
-
-**[For Tesla Robotics, the Bar Just Keeps Getting Higher](https://www.barrons.com/articles/tesla-optimus-robot-boston-dynamics-unitree-eb0a6abc?mod=hp_latestnews)**
-
-Barron's • 5h ago
 
 ---
 
@@ -190,7 +190,17 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 86K • 👍 747 • 💬 269 • ⏱️ 3:00 • 3d ago
+👁️ 87K • 👍 749 • 💬 270 • ⏱️ 3:00 • 3d ago
+
+---
+
+**[These New REALISTIC FEMALE ROBOTS Are Crossing the Line – Experts TERRIFIED](https://www.youtube.com/watch?v=OTEu_9KyfPE)**
+
+The robots in this video look real. Move real. Talk real. And that's exactly what's making some of the world's top experts seriously ...
+
+📺 AI Exposed
+
+👁️ 95K • 👍 824 • 💬 50 • ⏱️ 12:25 • 2d ago
 
 ---
 
@@ -200,7 +210,7 @@ War Robots Gameplay: NEW Robot SHOGGOTH with 650k Shields Here's my New Channel 
 
 📺 Manni-Gaming
 
-👁️ 20K • 👍 751 • 💬 131 • ⏱️ 19:38 • 1d ago
+👁️ 20K • 👍 771 • 💬 133 • ⏱️ 19:38 • 1d ago
 
 ---
 
@@ -214,26 +224,6 @@ Unitree Robotics has unveiled the GD01 — the world's first mass-produced ridea
 
 ---
 
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
-
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
-
-📺 ShortCircuit
-
-👁️ 133K • 👍 6K • 💬 749 • ⏱️ 15:32 • 2d ago
-
----
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 43K • 👍 941 • 💬 169 • ⏱️ 21:16 • 5d ago
-
----
-
 **[F.03 Livestream - Day 6 | Over 119 consecutive hours and 149K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
 
 Watch a team of humanoid robots running a full 119+ Hour shift at human performance levels. This is fully autonomous running ...
@@ -244,43 +234,51 @@ Watch a team of humanoid robots running a full 119+ Hour shift at human performa
 
 ---
 
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+
+📺 ShortCircuit
+
+👁️ 136K • 👍 6K • 💬 766 • ⏱️ 15:32 • 2d ago
+
+---
+
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+
+📺 Technology with Tyler
+
+👁️ 44K • 👍 964 • 💬 174 • ⏱️ 21:16 • 5d ago
+
+---
+
+**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
+
+Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
+
+📺 Bloomberg Technology
+
+👁️ 62K • 👍 896 • 💬 325 • ⏱️ 6:19 • 3d ago
+
+---
+
 **[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
 
 A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
 
 📺 CBS TEXAS
 
-👁️ 379K • 👍 7K • 💬 2K • ⏱️ 3:03 • 4d ago
+👁️ 380K • 👍 7K • 💬 2K • ⏱️ 3:03 • 5d ago
 
 ---
 
-**[Meet the Marty Supreme of Robots | What The Future](https://www.youtube.com/watch?v=BLm8Chc_lSc)**
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=nOfCUy68G5o)**
 
-Sony's Project Ace has created the first robot to beat an elite human table tennis player, with nine cameras analyzing spin and ...
+📺 Borunte julie 
 
-📺 CNET
-
-👁️ 8K • 👍 194 • 💬 40 • ⏱️ 2:14 • 1d ago
-
----
-
-**[Inside Australia&#39;s biggest robotics testing lab | 9 News Australia](https://www.youtube.com/watch?v=X_tstJmrM4o)**
-
-Australia's national science agency, CSIRO, are harnessing the power of artificial intelligence to help speed up the capabilities of ...
-
-📺 9 News Australia
-
-👁️ 3K • 👍 40 • 💬 9 • ⏱️ 1:47 • 12h ago
-
----
-
-**[When the Robot Attacked Its Own Creator! 😳🤖](https://www.youtube.com/watch?v=R462VzDFK3o)**
-
-When the Robot Attacked Its Own Creator! What once seemed like science fiction is starting to feel disturbingly real.
-
-📺 Milopax
-
-👁️ 15K • 👍 270 • 💬 36 • ⏱️ 0:33 • 1d ago
+👁️ 17K • 👍 83 • 💬 1 • ⏱️ 0:27 • 21h ago
 
 ---
 

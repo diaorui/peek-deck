@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-18T21:46:46.618544+00:00'
+updated: '2026-05-18T23:03:00.459752+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 18, 2026 at 21:46 UTC  
+**Last Updated:** May 18, 2026 at 23:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -6.1%  
-**30d:** -5.6%  
+**24h:** +1.2%  
+**7d:** -6.0%  
+**30d:** -5.5%  
 **90d:** +9.3%  
 **1y:** -15.6%  
 
@@ -52,27 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.34B
+**Market Cap:** $257.56B
 Rank #2
 
 **Circulating Supply:** 120,685,747 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-56.9%
 
 **All-Time Low:** $0.43
-+490600.5%
++492808.4%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[The SEC Is About to Allow Tokenized Stocks on Blockchain](https://www.reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/)**
+
+The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
+
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 41m ago
+
+---
+
 **[Vitalik’s AI + formal verification take feels bigger than another “AI in crypto” headline](https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/)**
 
 Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
 
-7h ago
+8h ago
 
 ---
 
@@ -80,13 +88,13 @@ Vitalik’s point here is pretty interesting imo. The usual fear is that AI make
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
 **[I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker](https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -138,14 +146,6 @@ I hold Bitcoin and Ethereum and USDC on the side that aren't moving/being used a
 
 ---
 
-**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.
 
-The Block • 4h ago
+The Block • 6h ago
 
 ---
 
@@ -162,15 +162,15 @@ The Block • 4h ago
 
 Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.
 
-Decrypt • 5h ago
+Decrypt • 7h ago
 
 ---
 
-**[Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-greater-quantum-computing-205533956.html)**
+**[Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms](https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=news.xml&utm_medium=rss)**
 
-Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.
+A contracting float against any meaningful demand recovery has historically been a constructive setup for price.
 
-Yahoo Finance • 51m ago
+The Block • 1h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 51m ago
 
 Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices](https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices)**
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -192,7 +192,13 @@ CoinDesk • 4h ago
 
 Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
 
-PR Newswire • 9h ago
+PR Newswire • 10h ago
+
+---
+
+**[Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
+
+CoinDesk • 8h ago
 
 ---
 
@@ -200,31 +206,21 @@ PR Newswire • 9h ago
 
 The university was the largest new buyer of BlackRock’s Ethereum ETF in Q4 of 2025
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
-**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
+**[Why Is Ethereum Price Falling? Tom Lee Lists Reasons Despite Predicting New Highs in 2026](https://www.ccn.com/news/crypto/ethereum-price-falling-tom-lee-reasons-new-highs-2026/)**
 
-Success for a blockchain isn't always the same as success for investors.
-
-The Motley Fool • 1d ago
+CCN.com • 10h ago
 
 ---
 
-**[$5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?](https://finance.yahoo.com/markets/crypto/articles/5-000-xrp-vs-5-194612174.html)**
+**[New Crypto: Pepeto Reveals DeFi Update Follow Dogecoin Success While Ethereum Price Prediction Targets $5,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-reveals-defi-update-follow-dogecoin-success-while-ethereum-price-prediction-targets-5-000-1036171480)**
 
-A $5,000 bet on XRP (CRYPTO: XRP) or Ethereum (CRYPTO: ETH) today could look very different by 2028, and the difference between the two investments is wider than most people expect. XRP has momentum behind it, Ripple’s payments business keeps growing, and the regulatory pressure that crushed the token for years has mostly faded. Meanwhile, ... $5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?
+Dubai, UAE, May  18, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto confirms ongoing progress on its DeFi tools, tools designed to res...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Why Is Crypto Going Down? Bitcoin, XRP Price , Ethereum and Dogecoin Fall for 4th Straight Session](https://www.tradingview.com/news/financemagnates:6ebeb8f73094b:0-why-is-crypto-going-down-bitcoin-xrp-price-ethereum-and-dogecoin-fall-for-4th-straight-session/)**
-
-Bitcoin (BTC) traded at $76,959 on Monday, May 18, 2026, down 1.37% as the world's largest cryptocurrency tested its 50-day exponential moving average for the fourth consecutive losing session. Why is crypto going down? President Trump's Sunday Truth Social post warning Iran the "clock is ticking"…
-
-TradingView • 12h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -238,7 +234,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 186 • 💬 30 • ⏱️ 9:29 • 6h ago
+👁️ 3K • 👍 213 • 💬 33 • ⏱️ 9:29 • 7h ago
 
 ---
 
@@ -248,7 +244,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 4K • 👍 548 • 💬 256 • ⏱️ 6:17 • 8h ago
+👁️ 5K • 👍 616 • 💬 281 • ⏱️ 6:17 • 9h ago
 
 ---
 
@@ -262,13 +258,13 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
+**[&quot;Bitcoin To $250,000, Ethereum To $22,000 - Here&#39;s WHY&quot; Tom Lee | Crypto Prediction 2026](https://www.youtube.com/watch?v=lOeTKRybSIk)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto Nutshell
+📺 Library Of Wealth
 
-👁️ 17K • 👍 433 • 💬 52 • ⏱️ 23:02 • 1d ago
+👁️ 2K • 👍 61 • 💬 92 • ⏱️ 13:28 • 18h ago
 
 ---
 
@@ -278,7 +274,17 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 172 • ⏱️ 8:37 • 23h ago
+👁️ 34K • 👍 2K • 💬 176 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 442 • 💬 52 • ⏱️ 23:02 • 1d ago
 
 ---
 
@@ -288,17 +294,7 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 683 • 💬 251 • ⏱️ 32:55 • 1d ago
-
----
-
-**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
-
-Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 131 • 💬 103 • ⏱️ 15:37 • 2d ago
+👁️ 6K • 👍 686 • 💬 251 • ⏱️ 32:55 • 1d ago
 
 ---
 
@@ -308,7 +304,17 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 76K • 👍 5K • 💬 285 • ⏱️ 12:17 • 1d ago
+👁️ 77K • 👍 5K • 💬 284 • ⏱️ 12:17 • 1d ago
+
+---
+
+**[Tom Lee: &quot;Ethereum To $444,000 In The Next Few Years - How ETH Could Realistically 120x&quot; | 2026](https://www.youtube.com/watch?v=nUp6xKbaL_Q)**
+
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Library Of Wealth
+
+👁️ 5K • 👍 131 • 💬 101 • ⏱️ 15:37 • 2d ago
 
 ---
 
@@ -318,17 +324,7 @@ A real Monet image was framed as AI-generated, dragged as AI slop, minted on Eth
 
 📺 Blake Finucane
 
-👁️ 649 • 👍 27 • 💬 2 • ⏱️ 2:07 • 7h ago
-
----
-
-**[Bitcoin &amp; Ethereum Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7LuVuqdUZvM)**
-
-Open Account On Delta Exchange : https://www.delta.exchange/?code=FNXBJD Open Account in Cosmic Trade ...
-
-📺 Trade With Sunil 
-
-👁️ 680 • 👍 96 • 💬 12 • ⏱️ 9:46 • 6h ago
+👁️ 652 • 👍 27 • 💬 2 • ⏱️ 2:07 • 9h ago
 
 ---
 
