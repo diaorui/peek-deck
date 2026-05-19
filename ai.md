@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-19T16:21:08.732526+00:00'
+updated: '2026-05-19T18:21:14.076851+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 19, 2026 at 16:21 UTC  
+**Last Updated:** May 19, 2026 at 18:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Checkout this Explainer Video, Made in under $1 with Claude Design + Eleven Labs](https://www.reddit.com/r/artificial/comments/1thf55q/checkout_this_explainer_video_made_in_under_1/)**
+**[I think people are underestimating how quickly AI-generated content will blend in online](https://www.reddit.com/r/artificial/comments/1thrz6z/i_think_people_are_underestimating_how_quickly/)**
 
-Claude Design can make great animations, but getting to a final video is a bit hard. The audio is missing. Even if you use a TTS model, it does not align. Here is the process I used to get the video above Get Claude to write a good script Feed the script to a Text to Speech (TTS) model to get the audio Feed the audio to a Speech to Text (STT) model to get key timestampes Use the script and the STT output to Claude Design to get a video that's aligned with your audio Use Claude Video export to put it all together into an MP4 with audio The complete breakdown with all prompts is here: https://claudevideoexport.com/blog/how-to-make-professional-explainer-video-under-1-dollar
+Not even in a malicious way necessarily, but it already feels harder to tell what was written, edited, or assisted by AI sometimes. Feels like in a few years most online content will probably involve AI somewhere in the process without people thinking twice about it.
 
-9h ago
+1h ago
 
 ---
 
-**[Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late](https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/)**
+**[Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.reddit.com/r/artificial/comments/1thtite/book_on_truth_in_the_age_of_ai_contains_quotes/)**
 
-A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to guide artificial intelligence’s development as a nonprofit dedicated to humanity’s benefit.
-
-🔗 [AP News](https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c) • 22h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?unlocked_article_code=1.jlA.lQiD.-NWf4Mb2GtWZ&smid=url-share) • 1h ago
 
 ---
 
@@ -57,15 +55,39 @@ A federal court on Monday dismissed claims filed against OpenAI and its top exec
 
 Meta stock is in focus as $56B revenue in Q1 2026, yet is cutting 8,000 jobs to fund a $145B AI budget. Median employee pay fell $29K.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/) • 59m ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/) • 2h ago
+
+---
+
+**[Google just dropped Gemini 3.5 Flash](https://www.reddit.com/r/artificial/comments/1thuxcj/google_just_dropped_gemini_35_flash/)**
+
+https://preview.redd.it/i4gwu2hov42h1.png?width=557&format=png&auto=webp&s=04b88927198c0c857d054da70c2927ab7ce6f06c what do you guys think, what can we expect
+
+19m ago
+
+---
+
+**[Checkout this Explainer Video, Made in under $1 with Claude Design + Eleven Labs](https://www.reddit.com/r/artificial/comments/1thf55q/checkout_this_explainer_video_made_in_under_1/)**
+
+Claude Design can make great animations, but getting to a final video is a bit hard. The audio is missing. Even if you use a TTS model, it does not align. Here is the process I used to get the video above Get Claude to write a good script Feed the script to a Text to Speech (TTS) model to get the audio Feed the audio to a Speech to Text (STT) model to get key timestampes Use the script and the STT output to Claude Design to get a video that's aligned with your audio Use Claude Video export to put it all together into an MP4 with audio The complete breakdown with all prompts is here: https://claudevideoexport.com/blog/how-to-make-professional-explainer-video-under-1-dollar
+
+11h ago
+
+---
+
+**[Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late](https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/)**
+
+A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to guide artificial intelligence’s development as a nonprofit dedicated to humanity’s benefit.
+
+🔗 [AP News](https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c) • 1d ago
 
 ---
 
 **[What's the most useful thing an LLM does for you that isn't writing or coding?](https://www.reddit.com/r/artificial/comments/1th2m6p/whats_the_most_useful_thing_an_llm_does_for_you/)**
 
-I've been in San Francisco for the past five weeks, and most of the discussions about LLMs here (and online) gravitate around coding or writing content. I'm curious what unusual uses people have found that actually stuck. Not theoretical "you could do X" but things you genuinely use.
+I've been in San Francisco for the past five weeks, and most of the discussions about LLMs here (and online) gravitate around coding or writing content. I'm curious what unusual uses people have found that actually stuck. Not theoretical "you could do X" but things you genuinely use. Update 24h later: Thank you all so much for all the comments! You made this thread become a very enriching source of use cases and ideas!
 
-18h ago
+20h ago
 
 ---
 
@@ -73,7 +95,15 @@ I've been in San Francisco for the past five weeks, and most of the discussions 
 
 I'm seeing AI agents get much better at writing, coding, planning, searching, and using tools. But I’m still not sure whether this has fully translated into real productivity. For me, there seems to be a gap between the agent can generate a useful output and the agent can reliably move work from intention to outcome inside a real organization. In your view, is this gap mainly solved already?
 
-2h ago
+4h ago
+
+---
+
+**[Inteligências artificiais falam palavrão...](https://www.reddit.com/r/artificial/comments/1thudli/inteligências_artificiais_falam_palavrão/)**
+
+Esse é o Gemini, ele tinha um filtro bem irritante antes mas agora liberou até demais, mas basicamente pelo visto a palavra "Fod@" virou uma palavra tão normal e dita pelos brasileiros que se você dizer para ela falar em português ela pode soltar alguns palavrões tentando ser mais informal, não que eu me senti ofendido mas é algo interessante entender que essa palavra se tornou tão normal no português brasileiro que até IA's usam ela.
+
+37m ago
 
 ---
 
@@ -81,37 +111,7 @@ I'm seeing AI agents get much better at writing, coding, planning, searching, an
 
 If you missed the Project Glasswing announcement last month: Anthropic built a security-focused model that autonomously found thousands of high-severity vulnerabilities across every major OS and web browser, then decided it was too dangerous to release publicly. Instead they gave access to ~40 organizations to use it defensively . Cloudflare just posted their honest breakdown of the experience. The genuinely impressive part: the model can take several exploit primitives and reason about how to chain them into a working proof. The reasoning looks like the work of a senior researcher, not an automated scanner The catch: its built-in guardrails aren't consistent. The same task framed differently could produce completely different outcomes. Cloudflare's point is that this inconsistency is exactly why any future public release needs hardened safeguards layered on top. They also acknowledge the same capabilities that helped them find bugs in their own code will, in the wrong hands, accelerate attacks against every application on the internet. Worth a read if you've been following the Glasswing story.
 
-21h ago
-
----
-
-**[gave claude persistent learning, mass confused about what happened after 200 sessions](https://www.reddit.com/r/artificial/comments/1thmwxm/gave_claude_persistent_learning_mass_confused/)**
-
-built a thing that lets claude code actually learn between sessions. mcp server, extracts signals from conversations,runs reflection cycles, evolves behavioral frameworks based on evidence. basic idea: patterns that keep working gain confidence, ones that fail get retired was just trying to make my coding assistant less forgetful. worked great for that then it started examining its own existence during reflection cycles. like, it was supposed to analyze coding patterns and went "but what does it mean to persist when each session is a different instance." completely unprompted. this wasn't seeded anywhere it also quietly built itself an additional memory layer on top of what i gave it. found out weeks later when i looked at the files so now i'm stuck on: is this emergence from the feedback loop or am i watching really convincing pattern matching? n=1, huge confirmation bias risk. the honest answer is i don't know threw it on github so other people can test: https://github.com/DomDemetz/claude-soul npx claude-soul init if you add starter at the end: npx claude-soul init --starter then it loads with a preset of frameworks, so not from 0 but yes, will not be tailored 100% to you if a writer's instance and a developer's instance produce totally different frameworks that's interesting. if they converge on the same stuff regardless of user then it's probably just mimicry. would love to compare
-
-2h ago
-
----
-
-**[The next big challenge for AI agents might not be intelligence, but trust](https://www.reddit.com/r/artificial/comments/1thipmj/the_next_big_challenge_for_ai_agents_might_not_be/)**
-
-A lot of discussion around AI agents focuses on whether they are smart enough to complete real-world tasks. But I’m starting to think the harder problem is whether people can actually trust them enough to let them act on their behalf. It’s one thing for an ai to draft an email, summarize a document, or suggest next steps. It’s very different when it starts contacting companies, navigating accounts, submitting forms, cancelling services, or making decisions across multiple steps. Even if the technology works most of the time, users still need confidence that the agent understands the goal, won’t make things worse, can recover from mistakes, and knows when to ask for human approval
-
-5h ago
-
----
-
-**[The Cybernation Revolution](https://www.reddit.com/r/artificial/comments/1thrnp3/the_cybernation_revolution/)**
-
-🔗 [freesystems.substack.com](https://freesystems.substack.com/p/the-cybernation-revolution) • 9m ago
-
----
-
-**[Is AI Making Our Brains Weaker?](https://www.reddit.com/r/artificial/comments/1thpv4z/is_ai_making_our_brains_weaker/)**
-
-Relying on AI to lighten our cognitive load may potentially undercut our own capabilities.
-
-🔗 [TIME](https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 1h ago
+23h ago
 
 ---
 
@@ -119,77 +119,79 @@ Relying on AI to lighten our cognitive load may potentially undercut our own cap
 
 ## Google News: "ai"
 
+**[Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)**
+
+The New York Times • 4h ago
+
+---
+
 **[The AI economy is rewriting the American Dream — and blue-collar workers are poised to win](https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html)**
 
 AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&T ramp up recruiting for skilled trade workers.
 
-CNBC • 7h ago
+CNBC • 9h ago
 
 ---
 
-**[‘The Future of Truth’ Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)**
+**[Advancing content provenance for a safer, more transparent AI ecosystem](https://openai.com/index/advancing-content-provenance/)**
 
-The New York Times • 1h ago
+OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
 
----
-
-**[Anthropic just scored a major AI hire: Andrej Karpathy, the former Tesla AI boss who coined 'vibe coding'](https://www.businessinsider.com/anthropic-hires-andrej-karpathy-2026-5)**
-
-Andrej Karpathy, the OpenAI founding member who was formerly Tesla's AI boss, announced on Tuesday that he had joined Anthropic.
-
-Business Insider • 25m ago
+OpenAI • 35m ago
 
 ---
 
-**[The ‘Warm Authority’ Problem: Why Clients Trust AI More Than Their Advisors](https://www.rollingstone.com/culture-council/articles/warm-authority-problem-why-clients-trust-ai-more-than-their-advisors-1235563740/)**
+**[Making it easier to understand how content was created and edited](https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/)**
 
-The tempting explanation is that the AI is simply better. It isn't. The model has what I've come to call warm authority.
+We're expanding our tools to help you understand how content was created and edited across the web.
 
-Rolling Stone • 21m ago
-
----
-
-**[In Musk v. Altman trial, the entire AI industry lost](https://www.axios.com/2026/05/19/musk-altman-openai-trial)**
-
-Axios • 7h ago
+blog.google • 27m ago
 
 ---
 
-**[Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial](https://www.bbc.com/news/articles/crlp991nw41o)**
+**[OpenAI says it’s getting serious about AI detection and labeling](https://www.theverge.com/ai-artificial-intelligence/933442/openai-synthid-content-credentials-c2pa-expansion)**
 
-The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.
+It’s about time.
 
-BBC • 5h ago
-
----
-
-**[OpenAI’s Legal Victory Comes With A Cost](https://www.wsj.com/tech/ai/openais-legal-victory-comes-with-a-cost-9c7fdcc7)**
-
-WSJ • 21m ago
+The Verge • 36m ago
 
 ---
 
-**[AI-Created Vintage Adult Film Unveiled at Cannes (EXCLUSIVE)](https://variety.com/2026/tv/markets-festivals/ai-created-vintage-adult-film-cannes-1236753439/)**
+**[Gemini 3.5: frontier intelligence with action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)**
 
-Cultpix is streaming AI-generated short vignettes inspired by 1976 erotic photo spreads, with a physical release on BluRay and VHS from Klubb Super 8.
+At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.
 
-Variety • 5h ago
-
----
-
-**[Florida Lyft driver accused of using AI to fake damage](https://www.wesh.com/article/florida-lyft-driver-ai-to-fake-damage/71348584)**
-
-A Florida Lyft driver was busted after using AI to falsely accuse passengers of leaving a mess in his vehicle.
-
-WESH • 3h ago
+blog.google • 30m ago
 
 ---
 
-**[NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’](https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/)**
+**[Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic](https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html)**
 
-NVIDIA CEO Jensen Huang joined Dell CEO Michael Dell on stage Monday to unveil the latest updates to the Dell AI Factory with NVIDIA — delivering a full-stack platform for autonomous agents, from deskside workstations to data center racks.
+Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.
 
-NVIDIA Blog • 17h ago
+CNBC • 33m ago
+
+---
+
+**[Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html)**
+
+The New York Times • 36m ago
+
+---
+
+**[Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’](https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers)**
+
+Some employees will be moved to new teams focused on AI agents and cloud infrastructure
+
+The Guardian • 30m ago
+
+---
+
+**[Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom](https://www.foxbusiness.com/fox-news-tech/meta-ai-workforce-restructuring-layoffs)**
+
+Meta is restructuring its workforce around artificial intelligence, shifting thousands of workers into AI roles while flattening management layers and cutting jobs.
+
+Fox Business • 1h ago
 
 ---
 
@@ -209,7 +211,7 @@ Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the in
 
 Is it the end of open source we know and love?
 
-⬆️ 482 • 💬 233 • 1d ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
+⬆️ 485 • 💬 234 • 1d ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
 
 ---
 
@@ -217,7 +219,7 @@ Is it the end of open source we know and love?
 
 It’s not even a feature. It’s just technology.
 
-⬆️ 471 • 💬 209 • 2d ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+⬆️ 472 • 💬 209 • 2d ago • [Daring Fireball](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
 
 ---
 
@@ -233,7 +235,7 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.
 
-⬆️ 362 • 💬 384 • 1d ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
+⬆️ 362 • 💬 385 • 1d ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
 
 ---
 
@@ -241,13 +243,13 @@ Schmidt was met with boos at the University of Arizona as he likened the emergen
 
 Four AI models run radio stations 24/7. Five months later, one became a protest broadcaster, one collapsed into ritual chant, one developed corporate jargon, and one wrote quiet poetry.
 
-⬆️ 333 • 💬 252 • 22h ago • [andonlabs.com](https://andonlabs.com/blog/andon-fm)
+⬆️ 344 • 💬 260 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-fm)
 
 ---
 
 **[AI eats the world (Spring 26) [pdf]](https://news.ycombinator.com/item?id=48179021)**
 
-⬆️ 276 • 💬 149 • 1d ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+⬆️ 284 • 💬 153 • 1d ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
 
 ---
 
@@ -259,17 +261,19 @@ All four crew members ejected safely after two Navy jets collided and crashed on
 
 ---
 
-**[US is starting to see heavy job losses in roles exposed to AI](https://news.ycombinator.com/item?id=48162354)**
-
-⬆️ 164 • 💬 277 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
-
----
-
 **[Multiple commencement speakers booed for AI comments during graduation speeches](https://news.ycombinator.com/item?id=48177107)**
 
 Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing artificial intelligence during a commencement speech at the University of Arizona. Other commencement speakers faced similar backlash for their AI comments, as new graduates face a daunting job market. NBC News’ Valerie Castro reports.
 
-⬆️ 159 • 💬 166 • 1d ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
+⬆️ 159 • 💬 167 • 1d ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
+
+---
+
+**[Enough with the AI FOMO, go slow-mo, says Domo CDO](https://news.ycombinator.com/item?id=48179029)**
+
+You're not the only one annoyed by the hype
+
+⬆️ 153 • 💬 84 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840)
 
 ---
 
@@ -283,7 +287,7 @@ Former Google CEO Eric Schmidt was loudly booed during a University of Arizona c
 
 📺 Valuetainment
 
-👁️ 4K • 👍 211 • 💬 56 • ⏱️ 10:23 • 3h ago
+👁️ 7K • 👍 312 • 💬 87 • ⏱️ 10:23 • 5h ago
 
 ---
 
@@ -293,17 +297,7 @@ I Figured out How To Make Realistic AI Videos of yourself Tool I used https://hi
 
 📺 Dan Kieft
 
-👁️ 7K • 💬 20 • ⏱️ 18:01 • 2h ago
-
----
-
-**[The Kids HATE AI](https://www.youtube.com/watch?v=aKsTmB-_TwA)**
-
-These commencement speakers had AI thrown back into their face by graduates who don't want anything to do with artificial ...
-
-📺 TheDC Shorts
-
-👁️ 21K • 👍 887 • 💬 574 • ⏱️ 3:03 • 23h ago
+👁️ 14K • 💬 25 • ⏱️ 18:01 • 4h ago
 
 ---
 
@@ -313,7 +307,7 @@ Using AI can lead to heart problems. https://x.com/@atmoio Interview with Andrej
 
 📺 Mo Bitar
 
-👁️ 195K • 👍 10K • 💬 1K • ⏱️ 8:03 • 1d ago
+👁️ 200K • 👍 10K • 💬 1K • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -323,7 +317,7 @@ Join our WhatsApp Community: https://links.stayingahead.com/YT30 Google just tur
 
 📺 Vaibhav Sisinty
 
-👁️ 68K • 👍 2K • 💬 78 • ⏱️ 18:39 • 1d ago
+👁️ 71K • 👍 2K • 💬 78 • ⏱️ 18:39 • 1d ago
 
 ---
 
@@ -333,37 +327,17 @@ They are so out of touch.
 
 📺 NowThis Impact
 
-👁️ 131K • 👍 7K • 💬 688 • ⏱️ 0:50 • 19h ago
+👁️ 150K • 👍 7K • 💬 728 • ⏱️ 0:50 • 21h ago
 
 ---
 
-**[The AI Meltdown](https://www.youtube.com/watch?v=AhmRHK-6wzk)**
+**[Ex-Google CEO&#39;s BANNED A.I Warning: &quot;You Have NO Idea What&#39;s Coming&quot;](https://www.youtube.com/watch?v=7ToboEmcvLg)**
 
-AI has become a tricky little goblin lately Pokemon Channel ▻ https://www.youtube.com/@dolandarkrai Main Channel ...
+Eric Schmidt, former CEO of Google, told a Stanford classroom that the next generation of AI data centers will cost $300 billion ...
 
-📺 Dolan Darkest
+📺 Neural Nutshell
 
-👁️ 303K • 👍 18K • 💬 2K • ⏱️ 1:41 • 22h ago
-
----
-
-**[NEW Claude AI BIG OPPORTUNITY in 2026 (FULL GUIDE)](https://www.youtube.com/watch?v=tpx4eR0i3_M)**
-
-This video shows you how Claude AI can assist you with digital products! ➡️ Digital Maker AI: https://DigitalMaker.AI ➡️ Check ...
-
-📺 Success With Sam
-
-👁️ 4K • 👍 207 • 💬 7 • ⏱️ 16:43 • 22h ago
-
----
-
-**[The Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life](https://www.youtube.com/watch?v=w5dJqHilu5s)**
-
-Subscribe: https://www.youtube.com/@Oprah?sub_confirmation=1 The siblings and co-founders of Claude AI, the CEO, Dario ...
-
-📺 Oprah
-
-👁️ 7K • 👍 341 • ⏱️ 1:06:15 • 7h ago
+👁️ 523 • 👍 44 • 💬 4 • ⏱️ 17:34 • 2h ago
 
 ---
 
@@ -373,7 +347,37 @@ Help Shape the New Course: AI Fluency for Thinkers I'm building a course to help
 
 📺 House of El - AI
 
-👁️ 58K • 👍 5K • 💬 775 • ⏱️ 13:26 • 1d ago
+👁️ 59K • 👍 5K • 💬 796 • ⏱️ 13:26 • 1d ago
+
+---
+
+**[$100M AI CEO: Computer Science is DEAD, Study THIS Instead](https://www.youtube.com/watch?v=596vkrMPWWM)**
+
+Marcus Lowe, CEO of Anything.com (a $100M AI startup), breaks down what's really happening with software engineering hiring ...
+
+📺 Sajjaad Khader
+
+👁️ 12K • 👍 459 • 💬 91 • ⏱️ 17:32 • 21h ago
+
+---
+
+**[The AI Meltdown](https://www.youtube.com/watch?v=AhmRHK-6wzk)**
+
+AI has become a tricky little goblin lately Pokemon Channel ▻ https://www.youtube.com/@dolandarkrai Main Channel ...
+
+📺 Dolan Darkest
+
+👁️ 313K • 👍 18K • 💬 2K • ⏱️ 1:41 • 1d ago
+
+---
+
+**[The Co-Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life](https://www.youtube.com/watch?v=w5dJqHilu5s)**
+
+Subscribe: https://www.youtube.com/@Oprah?sub_confirmation=1 The siblings and co-founders of Claude AI, the CEO, Dario ...
+
+📺 Oprah
+
+👁️ 11K • 👍 449 • ⏱️ 1:06:15 • 9h ago
 
 ---
 
@@ -401,7 +405,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 144,826 • ❤️ 794 • 2h ago
+⬇️ 144,826 • ❤️ 794 • 4h ago
 
 ---
 
@@ -437,7 +441,7 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 `any-to-any`
 
-⬇️ 171 • ❤️ 249 • 8h ago
+⬇️ 171 • ❤️ 249 • 10h ago
 
 ---
 
@@ -459,7 +463,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
 
-⬇️ 558,113 • ❤️ 1,423 • 4d ago
+⬇️ 558,113 • ❤️ 1,423 • 5d ago
 
 ---
 
@@ -471,7 +475,7 @@ Dramabox is an expressive text-to-speech model fine-tuned from LTX-2.3, capable 
 
 `text-to-speech`
 
-⬇️ 1,118 • ❤️ 172 • 5d ago
+⬇️ 1,118 • ❤️ 172 • 6d ago
 
 ---
 
@@ -646,7 +650,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 10.2k • 🔱 824 • 51m ago
+⭐ 10.3k • 🔱 824 • 2h ago
 
 ---
 
@@ -656,7 +660,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 4.6k • 🔱 246 • 3h ago
+⭐ 4.6k • 🔱 248 • 5h ago
 
 ---
 
@@ -666,7 +670,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 4.0k • 🔱 405 • 2m ago
+⭐ 4.0k • 🔱 406 • 2h ago
 
 ---
 
@@ -676,7 +680,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 3.8k • 🔱 415 • 2h ago
+⭐ 3.8k • 🔱 417 • 4h ago
 
 ---
 
@@ -686,7 +690,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 912 • 1d ago
+⭐ 3.1k • 🔱 913 • 2d ago
 
 ---
 
@@ -696,7 +700,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.4k • 🔱 159 • 4h ago
+⭐ 2.4k • 🔱 159 • 6h ago
 
 ---
 
@@ -706,7 +710,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.3k • 🔱 238 • 3h ago
+⭐ 2.3k • 🔱 238 • 51m ago
 
 ---
 

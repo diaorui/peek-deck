@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-19T16:21:08.741053+00:00'
+updated: '2026-05-19T18:21:14.084450+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 16:21 UTC  
+**Last Updated:** May 19, 2026 at 18:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,505.79
+### $76,597.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.5%  
-**30d:** +0.9%  
-**90d:** +14.3%  
-**1y:** -28.3%  
+**24h:** +0.1%  
+**7d:** -3.0%  
+**30d:** +1.4%  
+**90d:** +14.9%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1530.86B
+**Market Cap:** $1539.49B
 Rank #1
 
 **Circulating Supply:** 20,031,425 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--39.4%
+-39.0%
 
 **All-Time Low:** $67.81
-+112637.1%
++113241.7%
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[At least you have bitcoins](https://www.reddit.com/r/Bitcoin/comments/1th80lo/at_least_you_have_bitcoins/)**
+**[Florida Man Reads The Bitcoin Standard; Buys 4% of All the Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1thpxkm/florida_man_reads_the_bitcoin_standard_buys_4_of/)**
 
-14h ago
+3h ago
 
 ---
 
-**[Capital B Acquires 192 BTC for $15.2M, Lifts Holdings to 3,135 BTC](https://www.reddit.com/r/Bitcoin/comments/1thhafz/capital_b_acquires_192_btc_for_152m_lifts/)**
+**[At least you have bitcoins](https://www.reddit.com/r/Bitcoin/comments/1th80lo/at_least_you_have_bitcoins/)**
 
-France-listed Capital B bought 192 Bitcoin for $15.2 million, increasing its total BTC holdings to 3,135 coins
+16h ago
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/%20capital-b-acquires-bitcoin-holdings) • 7h ago
+---
+
+**[OC Bitcoin Pizza Day Event - All Bitcoiners Invited](https://www.reddit.com/r/Bitcoin/comments/1thtf0x/oc_bitcoin_pizza_day_event_all_bitcoiners_invited/)**
+
+Hello everyone, I have reserved a couple of tables for the entire community. If you are living in Southern California and want to hang out on Pizza Day, we would love to have you! https://preview.redd.it/odz4yzjom42h1.jpg?width=892&format=pjpg&auto=webp&s=a3d1e96eb2ababaf9ed4762cdce20dd702815152 Please be aware that one half of the pizza place will be playing board games, so please don't disrupt the "normies" enjoying their evening. Also, it's my birthday, so I'll only be there from 3:00–4:30, and hopefully, I'll try to make it back around the end, from 8:30–9:00ish. I'm really excited to meet new local Bitcoiners. This is a family-friendly environment; all are welcome. Please comment below or message me if you're interested, just in case I need to notify Zito's. Please note: this is the Zito's Pizza off Chapman Ave.
+
+1h ago
 
 ---
 
@@ -95,7 +101,39 @@ France-listed Capital B bought 192 Bitcoin for $15.2 million, increasing its tot
 
 30$ in BTC every day since November 2025 Avg buy price is 82,786$ Currently I’m down to 735$ and would like to go deeper but who knows Let’s have a great ride
 
-1h ago
+3h ago
+
+---
+
+**[Capital B Acquires 192 BTC for $15.2M, Lifts Holdings to 3,135 BTC](https://www.reddit.com/r/Bitcoin/comments/1thhafz/capital_b_acquires_192_btc_for_152m_lifts/)**
+
+France-listed Capital B bought 192 Bitcoin for $15.2 million, increasing its total BTC holdings to 3,135 coins
+
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/%20capital-b-acquires-bitcoin-holdings) • 9h ago
+
+---
+
+**[Human Rights Foundation Releases Bitcoin for Non-Profits Guide](https://www.reddit.com/r/Bitcoin/comments/1thqfiv/human_rights_foundation_releases_bitcoin_for/)**
+
+Introduction How Bitcoin Helps Bitcoin Basics Using Bitcoin In Practice Case Studies Risks and Challenges Download If you would like to save this report, you can always download it here as a PDF. Download PDF The Road Ahead Every year, more authoritarian regimes attempt to silence dissent by cutting access to money for those who […]
+
+🔗 [Human Rights Foundation](https://hrf.org/latest/bitcoin-for-nonprofits-a-guide-to-help-your-movement-achieve-financial-freedom/) • 2h ago
+
+---
+
+**[The ETF outflow headline kinda distracted ppl from the bigger BTC conversation today](https://www.reddit.com/r/Bitcoin/comments/1thkuny/the_etf_outflow_headline_kinda_distracted_ppl/)**
+
+Yeah the $649M ETF outflow matters But what caught my attention more was Iran literally using Bitcoin in messaging around the Strait of Hormuz situation while the SEC is talking more openly about tokenized stocks and 24/7 blockchain markets. At the same time whales are still opening huge crypto positions even with all the macro tension. Idk if this cycle is becoming less about “BTC as an asset” and more about BTC slowly entering geopolitical and financial infrastructure conversations at the same time.
+
+6h ago
+
+---
+
+**[$20k in btc stolen](https://www.reddit.com/r/Bitcoin/comments/1th8er6/20k_in_btc_stolen/)**
+
+Opened up my crypto onchain wallet today to see $20k in btc was withdrawn back in February. I don't check it often and can't believe it. No idea how it happened as the transaction doesn't show in the app but does on blockchain.com. Really fucking sucks, no idea how it happened. Never shared my phrase. Fuck Edit: digging in more it looks like I was exporting transactions on the day the withdrawal took place. I'm guessing I accidentally clicked a malicious link and linked it to my wallet. I'm just trying to get over the sadness of fucking up.
+
+16h ago
 
 ---
 
@@ -103,7 +141,7 @@ France-listed Capital B bought 192 Bitcoin for $15.2 million, increasing its tot
 
 The White House is on the verge of a formal announcement on the U.S. Strategic Bitcoin Reserve — and the official leading the charge says the hard part is done. Patrick Witt, Executive Director of the President’s Council of Advisors for Digital Assets, told an interviewer this week that the administration has cleared a major legal hurdle in standing up the reserve. “We’ll have an announcement,” Witt said. “I wish I could say more… It’s a breakthrough as far as getting everything in place, legally sound, properly safeguarding the assets.” The signal follows a similar declaration Witt made at the Bitcoin 2026 conference in Las Vegas, where he told the crowd an update was coming within weeks. President Trump signed the executive order establishing the Strategic Bitcoin Reserve on March 6, 2025. Since then, Witt says his deputy Harry John has driven the interagency process: identifying what legal authorities exist, commissioning the necessary legal memos, and building a custody and reporting infrastructure across federal agencies that were designed for gold, not private keys. The reserve holds an estimated 328,372 BTC — roughly 1.6% of total global supply — accumulated through law enforcement seizures, including the Silk Road takedown, the 2022 Bitfinex hack recovery, and years of criminal forfeitures. The executive order bars the Treasury from selling a single coin. Witt pointed to a breach at the U.S. Marshals Service as proof that the reserve’s security mandate is urgent. A government contractor named John Daghita allegedly stole more than $46 million in cryptocurrency from USMS custody accounts in late 2025, and the FBI arrested him in March 2026. A separate $24 million theft was traced to October 2024. “It’s a case in point for why it was so necessary that the president established the SBR,” Witt said. An executive order dies the moment a new president takes office. That vulnerability is the core argument for two bills now moving through Congress. Rep. Nick Begich recently rebranded the BITCOIN Act as the American Reserves Modernization Act (ARMA), which would authorize the U.S. Treasury to purchase up to 200,000 BTC per year for five years — with holdings locked for a minimum of 20 years. Senator Cynthia Lummis has put Congress on a deadline, pushing for a vote before the summer recess as midterm campaigning begins to consume floor time. If the BITCOIN Act passes, the Treasury’s first open-market Bitcoin purchase is projected for Q4 2026 — making the U.S. the first sovereign nation to actively accumulate Bitcoin as a strategic reserve asset.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve) • 20h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve) • 22h ago
 
 ---
 
@@ -115,46 +153,6 @@ Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ship
 
 ---
 
-**[Human Rights Foundation Releases Bitcoin for Non-Profits Guide](https://www.reddit.com/r/Bitcoin/comments/1thqfiv/human_rights_foundation_releases_bitcoin_for/)**
-
-Introduction How Bitcoin Helps Bitcoin Basics Using Bitcoin In Practice Case Studies Risks and Challenges Download If you would like to save this report, you can always download it here as a PDF. Download PDF The Road Ahead Every year, more authoritarian regimes attempt to silence dissent by cutting access to money for those who […]
-
-🔗 [Human Rights Foundation](https://hrf.org/latest/bitcoin-for-nonprofits-a-guide-to-help-your-movement-achieve-financial-freedom/) • 50m ago
-
----
-
-**[$20k in btc stolen](https://www.reddit.com/r/Bitcoin/comments/1th8er6/20k_in_btc_stolen/)**
-
-Opened up my crypto onchain wallet today to see $20k in btc was withdrawn back in February. I don't check it often and can't believe it. No idea how it happened as the transaction doesn't show in the app but does on blockchain.com. Really fucking sucks, no idea how it happened. Never shared my phrase. Fuck Edit: digging in more it looks like I was exporting transactions on the day the withdrawal took place. I'm guessing I accidentally clicked a malicious link and linked it to my wallet. I'm just trying to get over the sadness of fucking up.
-
-14h ago
-
----
-
-**[Why would I save money when they print it?](https://www.reddit.com/r/Bitcoin/comments/1th71ya/why_would_i_save_money_when_they_print_it/)**
-
-“If you cannot think I cannot help you.”
-
-15h ago
-
----
-
-**[The ETF outflow headline kinda distracted ppl from the bigger BTC conversation today](https://www.reddit.com/r/Bitcoin/comments/1thkuny/the_etf_outflow_headline_kinda_distracted_ppl/)**
-
-Yeah the $649M ETF outflow matters But what caught my attention more was Iran literally using Bitcoin in messaging around the Strait of Hormuz situation while the SEC is talking more openly about tokenized stocks and 24/7 blockchain markets. At the same time whales are still opening huge crypto positions even with all the macro tension. Idk if this cycle is becoming less about “BTC as an asset” and more about BTC slowly entering geopolitical and financial infrastructure conversations at the same time.
-
-4h ago
-
----
-
-**[Strategy has acquired 24,869 BTC for ~$2.01 billion at ~$80,985 per bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tgmd7t/strategy_has_acquired_24869_btc_for_201_billion/)**
-
-As of 5/17/2026, they hodl 843,738 BTC acquired for ~$63.87 billion at ~$75,700 per bitcoin
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-24869-btc-and-achieves-btc-yield-of-12-6-ytd-now-holds-843738-btc_05-18-2026?may=18) • 1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,43 +161,35 @@ As of 5/17/2026, they hodl 843,738 BTC acquired for ~$63.87 billion at ~$75,700 
 
 Massachusetts residents lost millions in crypto ATM fraud last year
 
-WCVB • 2h ago
+WCVB • 4h ago
 
 ---
 
 **[MSTR Stock: Why Bitcoin Whale Just Took A Risky Turn](https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-just-took-risky-turn/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[Bitcoin extends losses to the $76,000 level, hitting 2-week low](https://finance.yahoo.com/markets/crypto/article/bitcoin-extends-losses-to-the-76000-level-hitting-2-week-low-154935973.html)**
+**[Elon Musk Grok AI Predicts Incredible XRP Price and Bitcoin Price by End of 2026](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-162000855.html)**
 
-Bitcoin extended losses on Monday, hitting a two-week low amid heavy selling.
+Nobody asked Elon Musk Grok AI to pick favorites. It predicts both Bitcoin and XRP in the same breath, and the price prediction it landed on for each are not conservative by any measure.Bitcoin at $150,000 to $200,000. XRP at $5 to $8. Both by end-2026. Both driven by the ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Lolli launches automatic bitcoin cashback on linked debit and credit card purchases](https://www.theblock.co/post/401837/lolli-launches-automatic-bitcoin-cashback-on-linked-debit-and-credit-card-purchases?utm_source=news.xml&utm_medium=rss)**
-
-The feature enables users to earn bitcoin automatically at thousands of merchants, with no extensions, codes, or checkout changes.
-
-The Block • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)**
+**[The U.S. can’t lose the bitcoin race to China](https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china)**
 
-Bloomberg.com • 1d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Iran turns to bitcoin for shipping insurance through the Strait of Hormuz](https://finance.yahoo.com/markets/crypto/articles/iran-turns-bitcoin-shipping-insurance-193018779.html)**
+**[Btrust Appoints New Board Of Directors To Steer Next Phase Of Bitcoin Development](https://bitcoinmagazine.com/news/btrust-appoints-new-board-of-directors)**
 
-Iran has a plan to use bitcoin as payment for insuring ships looking to transit the Strait of Hormuz as the war heads toward the end of its third month.
+Btrust has completed a major governance transition, appointing Janet Maingi, Bruno Garcia, and Laurence Aderemi as its new Board of Directors following a global, values-driven selection process.
 
-Yahoo Finance • 20h ago
+Bitcoin Magazine • 13m ago
 
 ---
 
@@ -211,27 +201,33 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Bitcoin for May 18, 2026](https://fortune.com/article/price-of-bitcoin-05-18-2026/)**
+**[Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin mining space heaters: Canaan pushes Avalon home rigs into retail](https://www.stocktitan.net/news/CAN/bitcoin-back-to-its-roots-canaan-inc-joins-the-renaissance-of-home-rk2j7tdiwzmt.html)**
+**[What Is Hormuz Safe? Iran Uses Bitcoin and Crypto to Build a SWIFT-Free Shipping System](https://finance.yahoo.com/markets/crypto/articles/hormuz-safe-iran-uses-bitcoin-110216619.html)**
 
-Home Bitcoin rigs that heat your room: Canaan details its Avalon Nano, Mini and Q devices and retail push at the Bitcoin 2026 home mining roundtable.
+Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ships passing through the Strait of Hormuz. The system would allow vessels to pay ...
 
-Stock Titan • 10h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[White House Says Strategic Bitcoin Reserve Announcement Is Imminent: ‘A Breakthrough’](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve)**
+**[Bitcoin extends losses to the $76,000 level, hitting 2-week low](https://finance.yahoo.com/markets/crypto/article/bitcoin-extends-losses-to-the-76000-level-hitting-2-week-low-154935973.html)**
 
-The White House is nearing a formal announcement on a U.S. Strategic Bitcoin Reserve, with Patrick Witt saying the administration has already cleared a key legal hurdle.
+Bitcoin extended losses on Monday, hitting a two-week low amid heavy selling.
 
-Bitcoin Magazine • 22h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Giant Strategy Gets Price Target Boost From TD Cowen After $2 Billion BTC Buy](https://decrypt.co/368347/bitcoin-giant-strategy-price-target-boost-td-cowen-2-billion-btc-buy)**
+
+Analysts at TD Cowen believe shares in Bitcoin-buying Strategy behemoth could jump more than 139% in the next 12 months.
+
+Decrypt • 3h ago
 
 ---
 
@@ -249,7 +245,7 @@ The user apparently changed the password while 'stoned'
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 327 • 💬 592 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 330 • 💬 606 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -285,7 +281,7 @@ AI to the rescue as 11-year search for password turns up in old PC files
 
 Zero-latency mempool interception and transaction topology for algorithmic execution.
 
-⬆️ 2 • 💬 0 • 1h ago • [mempool-alpha-oracle.com](https://www.mempool-alpha-oracle.com)
+⬆️ 2 • 💬 0 • 3h ago • [mempool-alpha-oracle.com](https://www.mempool-alpha-oracle.com)
 
 ---
 
@@ -293,7 +289,7 @@ Zero-latency mempool interception and transaction topology for algorithmic execu
 
 prove your bitcoin og status in zero-knowledge
 
-⬆️ 1 • 💬 0 • 3h ago • [og-zkp](https://og-zkp.com/)
+⬆️ 1 • 💬 0 • 5h ago • [og-zkp](https://og-zkp.com/)
 
 ---
 
@@ -301,7 +297,7 @@ prove your bitcoin og status in zero-knowledge
 
 Three bugs an AI-and-stocks digest had, and the selection-bias fix that moved its backtest from -1.86% alpha to +4.79%.
 
-⬆️ 2 • 💬 0 • 2h ago • [bitinforming.com](https://bitinforming.com/blog/dogfooding)
+⬆️ 2 • 💬 0 • 4h ago • [bitinforming.com](https://bitinforming.com/blog/dogfooding)
 
 ---
 
@@ -315,7 +311,7 @@ The REAL REASON Why Bitcoin CRASHED TODAY!! (+ What Comes Next?) ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 204 • ⏱️ 13:03 • 16h ago
+👁️ 33K • 👍 2K • 💬 272 • ⏱️ 13:03 • 18h ago
 
 ---
 
@@ -325,27 +321,27 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 569 • 💬 103 • ⏱️ 48:30 • 1h ago
+👁️ 10K • 👍 693 • 💬 242 • ⏱️ 48:30 • 3h ago
 
 ---
 
-**[What the Strategic Bitcoin Reserve Means for Your Stack.](https://www.youtube.com/watch?v=nOB_-3dZgAg)**
+**[Bitcoin Investors May Have Walked Into a Trap](https://www.youtube.com/watch?v=J3_zaV1FzFg)**
 
-billion just left Bitcoin ETFs. The White House just announced a Strategic Bitcoin Reserve is coming. Which one is the real story?
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
-📺 Digital Asset News
+📺 CryptosRUs
 
-👁️ 18K • 👍 828 • 💬 111 • ⏱️ 28:06 • 19h ago
+👁️ 23K • 👍 1K • 💬 259 • ⏱️ 37:03 • 1d ago
 
 ---
 
-**[Bitcoin Rejected off the 200D](https://www.youtube.com/watch?v=M5d5fbiSfhc)**
+**[Why bitcoin dropped sharply below $77,000](https://www.youtube.com/watch?v=5jMioqhztYQ)**
 
-Bitcoin was just rejected off the 200D moving average. What next? Sign up to get updates about the 1st ITC conference: ...
+bitcoin #crypto #iran #economy #finance May 18th, 2026 - Iran may be attempting something that bitcoin supporters and critics ...
 
-📺 Benjamin Cowen
+📺 Yahoo Finance
 
-👁️ 56K • 👍 4K • 💬 236 • ⏱️ 27:58 • 13h ago
+👁️ 20K • 👍 716 • 💬 273 • ⏱️ 14:56 • 1d ago
 
 ---
 
@@ -359,23 +355,33 @@ Bitcoin's next breakout may not come from ETFs or institutions. It may come from
 
 ---
 
-**[Bitcoin Investors May Have Walked Into a Trap](https://www.youtube.com/watch?v=J3_zaV1FzFg)**
+**[What the Strategic Bitcoin Reserve Means for Your Stack.](https://www.youtube.com/watch?v=nOB_-3dZgAg)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+billion just left Bitcoin ETFs. The White House just announced a Strategic Bitcoin Reserve is coming. Which one is the real story?
 
-📺 CryptosRUs
+📺 Digital Asset News
 
-👁️ 23K • 👍 1K • 💬 217 • ⏱️ 37:03 • 1d ago
+👁️ 18K • 👍 848 • 💬 114 • ⏱️ 28:06 • 21h ago
 
 ---
 
-**[Why bitcoin dropped sharply below $77,000](https://www.youtube.com/watch?v=5jMioqhztYQ)**
+**[These 4 Things Terrify Me About Bitcoin Right Now [URGENT!!]](https://www.youtube.com/watch?v=_A8QAra-gh4)**
 
-bitcoin #crypto #iran #economy #finance May 18th, 2026 - Iran may be attempting something that bitcoin supporters and critics ...
+Cryptomanran is sounding the alarm as a storm brews for crypto. Yields are surging, putting immense pressure on risk assets, ...
 
-📺 Yahoo Finance
+📺 Crypto Banter
 
-👁️ 20K • 👍 708 • 💬 270 • ⏱️ 14:56 • 1d ago
+👁️ 10K • 👍 1K • 💬 41 • ⏱️ 32:35 • 4h ago
+
+---
+
+**[Bitcoin Rejected off the 200D](https://www.youtube.com/watch?v=M5d5fbiSfhc)**
+
+Bitcoin was just rejected off the 200D moving average. What next? Sign up to get updates about the 1st ITC conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 62K • 👍 4K • 💬 255 • ⏱️ 27:58 • 15h ago
 
 ---
 
@@ -385,17 +391,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 82K • 👍 5K • 💬 293 • ⏱️ 12:17 • 2d ago
-
----
-
-**[Bitcoin Bleeds $1B As 30Y Yield Hits 5.14% (Highest Since GFC)](https://www.youtube.com/watch?v=vQfRRecK0DM)**
-
-Bitcoin #Crypto #Finance Bitcoin is hanging on the edge at $76K as Treasury yields surge to multi-month highs — sending a clear ...
-
-📺 The Wolf Of All Streets
-
-👁️ 5K • 👍 374 • 💬 85 • ⏱️ 55:44 • 1h ago
+👁️ 83K • 👍 5K • 💬 293 • ⏱️ 12:17 • 2d ago
 
 ---
 
@@ -405,7 +401,7 @@ Bitcoin Bounce incoming? In today's video, Kyledoops shares whether this is a bu
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 1K • 💬 12 • ⏱️ 28:58 • 8h ago
+👁️ 11K • 👍 1K • 💬 14 • ⏱️ 28:58 • 10h ago
 
 ---
 

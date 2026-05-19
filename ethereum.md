@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-19T16:21:08.747128+00:00'
+updated: '2026-05-19T18:21:14.089659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 16:21 UTC  
+**Last Updated:** May 19, 2026 at 18:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -6.6%  
-**30d:** -8.8%  
-**90d:** +8.3%  
-**1y:** -16.4%  
+**24h:** -0.3%  
+**7d:** -6.2%  
+**30d:** -8.5%  
+**90d:** +8.7%  
+**1y:** -16.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.31B
+**Market Cap:** $255.40B
 Rank #2
 
 **Circulating Supply:** 120,685,700 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-57.2%
 
 **All-Time Low:** $0.43
-+486914.4%
++488665.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 17h ago
-
----
-
-**[I lost money this week and it wasn't even a scam](https://www.reddit.com/r/ethereum/comments/1thr89u/i_lost_money_this_week_and_it_wasnt_even_a_scam/)**
-
-I lost money twice in the same week, it wasn't a rug or a hack. I lost to my own wallet. First time — I was managing like six addresses across three chains, I could literally feel my adrenaline 😭. A new L1 just dropped and the chart was going crazy. So I copy an address, I send and I was waiting for conformation on the other chain but unfortunately after checking again it was the wrong one. And my funds where gone just like that. The wallet didn't flinch. No warning. Just a little confirmation tick like it was proud of itself. It was my fault, I know but sending money shouldn't require me to have a cs degree, understanding chains and stuff. Crypto wasn't correctly built for humans, I'm sure you agree with me 😭. Second time — same week, same opportunity. My friend is newer to this. He had funds sitting across four different chains but couldn't move fast enough because half of it was stuck, wrong network, not enough gas on another, bridge taking 20 minutes. By the time we figured it out, the window was closed. He had the money, he just couldn't use it. We both got wrecked by the tooling instead of the market 😂. I've been quietly thinking about what a wallet looks like if it was actually built for humans. Like what if the chain was just nobody's problem but the app's. You own your keys, you move your money, and the complexity just... disappears underneath. Wild concept, I know. Just curious, what's the most unhinged thing a wallet has made you do just to complete a basic transaction? Ask me what I'm building if you're curious 👽
-
-23m ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 19h ago
 
 ---
 
@@ -118,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks [FIXED]: As you guys advised I used https://flips.fi?r=57FKNF and literally got 1:1 without delay, thanks because if i didn't ask here i'd have never found out!
 
-1d ago
+2d ago
 
 ---
 
@@ -146,6 +138,14 @@ Heyy Guys, im back from learning foundry and next looking to build some projects
 
 ---
 
+**[Instant way to Unstake stETH?](https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/)**
+
+I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Heyy Guys, im back from learning foundry and next looking to build some projects
 
 The university was the largest new buyer of BlackRock’s Ethereum ETF in Q4 of 2025
 
-Fortune • 20h ago
+Fortune • 22h ago
 
 ---
 
@@ -162,35 +162,21 @@ Fortune • 20h ago
 
 Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.
 
-Decrypt • 19h ago
-
----
-
-**[JPMorgan says ether and altcoins won't catch up to bitcoin without a major network boom](https://www.coindesk.com/markets/2026/05/19/jpmorgan-says-ether-and-altcoins-won-t-catch-up-to-bitcoin-without-a-major-network-boom)**
-
-CoinDesk • 2h ago
+Decrypt • 21h ago
 
 ---
 
 **[‘What's happening at the EF?’ Ethereum community looking for answers after high-profile departures](https://www.coindesk.com/tech/2026/05/19/what-s-happening-at-the-ef-ethereum-community-looking-for-answers-after-high-profile-departures)**
 
-CoinDesk • 31m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Current price of Ethereum for May 19, 2026](https://fortune.com/article/price-of-ethereum-05-19-2026/)**
+**[Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-tom-lee-175358135.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum (CRYPTO: ETH) is at a crossroads that could define 2026 for crypto investors. After a brutal early-year slide that dragged ETH below $1,800, the second-largest cryptocurrency has clawed back to hover around $2,110. Wall Street strategist Tom Lee believes that recovery is a season change and not just a bounce. Lee has officially declared ... Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It
 
-Fortune • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, May 19, 2026: Prices slide lower after Trump calls off attacks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-19-2026-prices-slide-lower-after-trump-calls-off-attacks-113905955.html)**
-
-Bitcoin opened at $76,952.05 today, down 0.6% from yesterday’s opening price. Today’s opening price is bitcoin’s lowest since May 1. Ethereum opened at $2,128.55, flat with yesterday’s opening value. The price of ethereum was $2,115.84 as of 7:12 a.m. ET.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 27m ago
 
 ---
 
@@ -198,29 +184,43 @@ Yahoo Finance • 4h ago
 
 A contracting float against any meaningful demand recovery has historically been a constructive setup for price.
 
-The Block • 18h ago
+The Block • 20h ago
 
 ---
 
-**[Goldman Sachs Dumps XRP and Solana ETFs, Slashes Ethereum Exposure by 70%](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-dumps-xrp-solana-140215136.html)**
+**[BREAKING: Bank of America (BofA) Reveals $53M in Bitcoin, XRP, Ethereum, Solana ETFs Holding](https://finance.yahoo.com/markets/crypto/articles/breaking-bank-america-bofa-reveals-115604055.html)**
 
-Goldman Sachs fully exited its XRP and Solana ETF positions and cut Ethereum exposure by roughly 70% in Q1 2026. Harvard also reduced its Bitcoin ...
+Bank of America (BofA) has disclosed significant exposure to Bitcoin, Ethereum, XRP, and Solana through exchange-traded funds (ETFs). The Wall Street giant also revealed massive holdings in Strategy (MSTR), American Bitcoin Corp (ABTC), and other crypto stocks. Bank of America Holds Almost $53 Million in Bitcoin, Ethereum, XRP, and Solana Bank of America (BofA) has
 
-Yahoo Finance • 1d ago
-
----
-
-**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
-
-Success for a blockchain isn't always the same as success for investors.
-
-The Motley Fool • 2d ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
 
 Barron's • 1d ago
+
+---
+
+**[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
+
+CoinDesk • 9h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.28 Million Tokens, and Total Crypto and Total Cash Holdings of $12.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-28-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-6-billion-302774396.html)**
+
+Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
+
+PR Newswire • 1d ago
+
+---
+
+**[What’s Dragging Ethereum Down? BitMine’s Tom Lee Has an Answer](https://finance.yahoo.com/markets/crypto/articles/dragging-ethereum-down-bitmine-tom-042528976.html)**
+
+Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Ein
 
 📺 RSFM
 
-👁️ 650 • 👍 210 • 💬 40 • ⏱️ 10:39 • 3h ago
+👁️ 650 • 👍 210 • 💬 40 • ⏱️ 10:39 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 
 📺 Alexander Lorenzo
 
-👁️ 2K • 👍 271 • 💬 23 • ⏱️ 2:31 • 1h ago
+👁️ 2K • 👍 271 • 💬 23 • ⏱️ 2:31 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN PREDICTION: EVERYONE IS WRONG (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 367 • 💬 153 • ⏱️ 19:27 • 17h ago
+👁️ 9K • 👍 367 • 💬 153 • ⏱️ 19:27 • 19h ago
 
 ---
 
@@ -322,7 +322,7 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 ODES → All about crypto
 
-👁️ 1K • 👍 15 • ⏱️ 1:24 • 6h ago
+👁️ 1K • 👍 15 • ⏱️ 1:24 • 9h ago
 
 ---
 

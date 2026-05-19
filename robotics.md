@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-19T16:21:08.750334+00:00'
+updated: '2026-05-19T18:21:14.092484+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 19, 2026 at 16:21 UTC  
+**Last Updated:** May 19, 2026 at 18:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDynamics/status/2056344756926460103 https://xcancel.com/BostonDynamics/status/2056344756926460103 Blog post: Training a Humanoid Robot for Hard Work: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/
 
-14h ago
+16h ago
 
 ---
 
@@ -44,19 +44,35 @@ From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDyn
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
-6h ago
+8h ago
 
 ---
 
-**[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
+**[Why Physical AI May Not Scale Like Language Models](https://www.reddit.com/r/robotics/comments/1ths5pq/why_physical_ai_may_not_scale_like_language_models/)**
 
-8h ago
+Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
+
+1h ago
 
 ---
 
 **[Astrix update](https://www.reddit.com/r/robotics/comments/1thluzu/astrix_update/)**
 
 New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
+
+5h ago
+
+---
+
+**[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
+
+10h ago
+
+---
+
+**[DToF LiDAR Obstacle Avoidance System for LIMO Robot](https://www.reddit.com/r/robotics/comments/1thosi3/dtof_lidar_obstacle_avoidance_system_for_limo/)**
+
+I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
 
 3h ago
 
@@ -72,23 +88,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 **[GITAI’s R1 Rover Passes Mock Moon Surface Tests for Future Lunar Missions](https://www.reddit.com/r/robotics/comments/1tgw5kv/gitais_r1_rover_passes_mock_moon_surface_tests/)**
 
-21h ago
-
----
-
-**[DToF LiDAR Obstacle Avoidance System for LIMO Robot](https://www.reddit.com/r/robotics/comments/1thosi3/dtof_lidar_obstacle_avoidance_system_for_limo/)**
-
-I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
-
-1h ago
-
----
-
-**[IEEE RA-L](https://www.reddit.com/r/robotics/comments/1thlk3u/ieee_ral/)**
-
-Hello! Has anyone here submitted a paper to IEEE RA-L before? I'd love to connect as I need some help! 👋 #IEEE #RAL #Paper #Help #Connection
-
-3h ago
+23h ago
 
 ---
 
@@ -96,13 +96,15 @@ Hello! Has anyone here submitted a paper to IEEE RA-L before? I'd love to connec
 
 Hi guys, I’ve been working on a small ROS 2 project for AMR/AGV-style mobile robots. Problem: A robot may still be receiving valid velocity commands, but its physical motion no longer matches the command stream. Examples: - wheel slip on wet / oily floors - odometry mismatch - localization jumps - stale / bursty velocity commands - robot starts shaking or over-correcting before safety lidar / hardware E-stop cuts in A normal timeout only checks: Did a command arrive recently? It does not check: Is the robot still moving according to the command it was just given? So I built a small inline ROS 2 topic filter: /cmd_vel → Kinematic Guard → /safe_cmd_vel ↑ /odom It has a passive observe mode first, so it can run without taking over control. Example status: { "status": "RESYNCING", "causalAlignment": "BROKEN", "dominantCause": "WHEEL_SLIP", "guardAction": "BRAKE_AND_RESYNC" } The demo does not need a real robot, Gazebo, or Isaac Sim. It uses a lightweight mock AMR/AGV and injects wheel slip. GitHub: https://github.com/ZC502/ros2_kinematic_guard ROS Discourse discussion: https://discourse.openrobotics.org/t/detecting-execution-collapse-before-hard-e-stop-ros2-kinematic-guard-for-ros-2-amr-agv/54944 I’d be interested in feedback from people who have dealt with mobile robot slip, odometry jumps, or unexpected hard E-stop events in the field.
 
-4h ago
+6h ago
 
 ---
 
-**[Pinza robotica](https://www.reddit.com/r/robotics/comments/1thcepm/pinza_robotica/)**
+**[**Stable Direct Tangent Identities for SAS Triangles** – A faster and more numerically stable alternative to Law of Cosines (especially for robotics)](https://www.reddit.com/r/robotics/comments/1thvdwv/stable_direct_tangent_identities_for_sas/)**
 
-11h ago
+Hi r/robotics, I created a small open-source library focused on **direct tangent identities** for solving Side-Angle-Side (SAS) triangles. The main motivation was to improve numerical stability in planar inverse kinematics, particularly near singularities (when robotic links are nearly straight). ### Why this matters: - Traditional Law of Cosines can suffer from catastrophic cancellation when β ≈ 0° or 180° - My method uses `atan2` + direct tangent formula → much more stable - ~2.2x faster in benchmarks - Clean PyTorch differentiable version included ### Features: - Full symmetric set of direct tangent identities - Robust 2-Link Planar IK (elbow up & down) - Vectorized + PyTorch support - Medical imaging utility (e.g. costophrenic angle in chest X-rays) GitHub: https://github.com/mbewejoseph72-debug/stable-tangent-kinematics Would love feedback from the community — especially on the IK implementation and possible extensions (3D, more DOF, etc.). Examples, benchmarks, and performance plots are in the repo. Looking forward to your thoughts!
+
+4m ago
 
 ---
 
@@ -114,7 +116,7 @@ Hi guys, I’ve been working on a small ROS 2 project for AMR/AGV-style mobile r
 
 Rivian believes robotics are an important element of its future.
 
-The Motley Fool • 20h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -124,11 +126,11 @@ Barron's • 1d ago
 
 ---
 
-**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
+**[Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It](https://finance.yahoo.com/markets/stocks/articles/forget-tesla-robotics-company-actually-145701916.html)**
 
-Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
+Everyone is still glued to Tesla (NASDAQ:TSLA) because a Q1 earnings beat, the robotaxi pitch, and the Optimus humanoid tease have convinced retail traders the autonomy story finally pays off this year. The Tesla Trade Is Crowded and Priced for a Miracle Tesla carries a P/E of 406 and a free cash flow yield of ... Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It
 
-eWeek • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -136,7 +138,7 @@ eWeek • 2h ago
 
 Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
 
-CNBC • 6h ago
+CNBC • 8h ago
 
 ---
 
@@ -144,43 +146,43 @@ CNBC • 6h ago
 
 Figure AI's intern outperformed a humanoid robot in a package sorting contest, highlighting the challenges in robotics automation.
 
-Business Insider • 7h ago
+Business Insider • 9h ago
 
 ---
 
-**[Rocket Lab Buys Motiv As Robotics Shift Meets Stretched Valuation Risks](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-buys-motiv-robotics-201108663.html)**
+**[Rivian Founder’s New Company Aims To Evolve Humanoid Robots](https://www.forbes.com/sites/edgarsten/2026/05/19/rivian-founders-new-company-aims-to-evolve-humanoid-robots/)**
 
-Rocket Lab has announced the acquisition of Motiv Space Systems, a specialist in space robotics and precision mechanisms. The deal brings flight proven robotic systems used on missions such as Mars rovers directly into Rocket Lab’s in house capabilities. This move is intended to support more complex lunar and planetary missions and expand offerings for government and commercial customers. Rocket Lab (NasdaqGS:RKLB) is pushing further into space infrastructure and defense services by adding...
+Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Barclays Says Robots May Offset 60% of China’s Population Slump](https://www.bloomberg.com/news/articles/2026-05-19/barclays-says-robots-may-offset-60-of-china-s-population-slump)**
-
-Bloomberg.com • 7h ago
+Forbes • 9h ago
 
 ---
 
-**[Berkeley: Robotics Showcase Will Highlight Berkeley Talent And Professional Networks](https://www.sfgate.com/news/bayarea/article/berkeley-robotics-showcase-will-highlight-22266445.php)**
+**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
 
-SFGATE • 1h ago
+Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
 
----
-
-**[5 Robotics Stocks to Watch as Physical AI Builds Momentum](https://www.marketbeat.com/originals/5-robotics-stocks-to-watch-as-physical-ai-builds-momentum/)**
-
-As AI moves from the digital world into the physical one, robotics stocks are emerging as one of the market's most compelling early-stage opportunities.
-
-MarketBeat • 1d ago
+eWeek • 4h ago
 
 ---
 
-**[Affordable humanoid robot kit at $15,000 pushes advanced robotics into public hands](https://interestingengineering.com/ai-robotics/bipedal-humanoid-robot-kit-asimov)**
+**[Dexterous Robotic Hand Maker Linkerbot Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-05-19/dexterous-robotic-hand-maker-linkerbot-is-said-to-consider-hong-kong-ipo)**
 
-Menlo Research launches a DIY humanoid kit for $15K, bringing open-source bipedal robots to independent builders.
+Bloomberg.com • 12h ago
 
-Interesting Engineering • 1d ago
+---
+
+**[Local robotics team takes home first place at state championship](https://www.wkbn.com/news/local-news/austintown-news/local-robotics-team-takes-home-first-place-at-state-championship/)**
+
+WKBN.com • 1d ago
+
+---
+
+**[New drone‑mounted robot transforms high‑voltage maintenance in Israel](https://www.jpost.com/business-and-innovation/article-896735)**
+
+Replacing helicopters with robotics, the IEC’s new drone system promises safer crews, lower costs, and a smarter national grid.
+
+The Jerusalem Post • 1h ago
 
 ---
 
@@ -194,7 +196,7 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 6K • 👍 181 • 💬 112 • ⏱️ 16:12 • 23h ago
+👁️ 6K • 👍 181 • 💬 112 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -204,7 +206,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 51K • 👍 1K • 💬 199 • ⏱️ 21:16 • 5d ago
+👁️ 51K • 👍 1K • 💬 199 • ⏱️ 21:16 • 6d ago
 
 ---
 
@@ -224,7 +226,7 @@ Watch a team of humanoid robots running a full 119+ Hour shift at human performa
 
 📺 Figure
 
-👁️ 2.8M • 👍 42K • 5d ago
+👁️ 2.8M • 👍 42K • 6d ago
 
 ---
 
@@ -264,7 +266,7 @@ LimX Dynamics' TRON 2 is entering the retail space, completing a real-world asse
 
 📺 LimX Dynamics
 
-👁️ 317 • 👍 23 • 💬 5 • ⏱️ 1:50 • 3h ago
+👁️ 317 • 👍 23 • 💬 5 • ⏱️ 1:50 • 5h ago
 
 ---
 
