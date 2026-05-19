@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-19T20:13:42.998688+00:00'
+updated: '2026-05-19T21:54:25.072627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 19, 2026 at 20:13 UTC  
+**Last Updated:** May 19, 2026 at 21:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDynamics/status/2056344756926460103 https://xcancel.com/BostonDynamics/status/2056344756926460103 Blog post: Training a Humanoid Robot for Hard Work: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/
 
-18h ago
-
----
-
-**[G1 directly controlled by voice commands to generate a wide range of actions in real time (video recorded in a single take, with on-site audio recording)](https://www.reddit.com/r/robotics/comments/1thijou/g1_directly_controlled_by_voice_commands_to/)**
-
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
-
-9h ago
+19h ago
 
 ---
 
@@ -52,7 +44,15 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
 Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
 
-3h ago
+5h ago
+
+---
+
+**[G1 directly controlled by voice commands to generate a wide range of actions in real time (video recorded in a single take, with on-site audio recording)](https://www.reddit.com/r/robotics/comments/1thijou/g1_directly_controlled_by_voice_commands_to/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
+
+11h ago
 
 ---
 
@@ -60,13 +60,13 @@ Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbi
 
 New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
 
-7h ago
+9h ago
 
 ---
 
 **[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -74,13 +74,13 @@ New head and neck designs complete and assembled, the old head is now a nice sou
 
 I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
 
-5h ago
+7h ago
 
 ---
 
 **[Anyone around Vancouver/Burnaby building autonomous drones or robotics projects or FPV pilots?](https://www.reddit.com/r/robotics/comments/1thuwb5/anyone_around_vancouverburnaby_building/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 Hi guys, I’ve been working on a small ROS 2 project for AMR/AGV-style mobile robots. Problem: A robot may still be receiving valid velocity commands, but its physical motion no longer matches the command stream. Examples: - wheel slip on wet / oily floors - odometry mismatch - localization jumps - stale / bursty velocity commands - robot starts shaking or over-correcting before safety lidar / hardware E-stop cuts in A normal timeout only checks: Did a command arrive recently? It does not check: Is the robot still moving according to the command it was just given? So I built a small inline ROS 2 topic filter: /cmd_vel → Kinematic Guard → /safe_cmd_vel ↑ /odom It has a passive observe mode first, so it can run without taking over control. Example status: { "status": "RESYNCING", "causalAlignment": "BROKEN", "dominantCause": "WHEEL_SLIP", "guardAction": "BRAKE_AND_RESYNC" } The demo does not need a real robot, Gazebo, or Isaac Sim. It uses a lightweight mock AMR/AGV and injects wheel slip. GitHub: https://github.com/ZC502/ros2_kinematic_guard ROS Discourse discussion: https://discourse.openrobotics.org/t/detecting-execution-collapse-before-hard-e-stop-ros2-kinematic-guard-for-ros-2-amr-agv/54944 I’d be interested in feedback from people who have dealt with mobile robot slip, odometry jumps, or unexpected hard E-stop events in the field.
 
-7h ago
+9h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi guys, I’ve been working on a small ROS 2 project for AMR/AGV-style mobile r
 
 Rivian believes robotics are an important element of its future.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -124,35 +124,11 @@ Barron's • 1d ago
 
 ---
 
-**[CUHK Launches Hong Kong’s First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
-
-CUHK’s Hong Kong Embodied AI Lab aims to advance humanoid robotics, logistics automation, and industry partnerships across embodied AI.
-
-eWeek • 20h ago
-
----
-
-**[China Wants Humanoid Robots to Carry IDs as Mass Production Nears](https://www.eweek.com/news/china-robot-ids-apac/)**
-
-China’s humanoid robot ID plan shows how the country is preparing for mass deployment, accountability, safety risks, and wider real-world use.
-
-eWeek • 3h ago
-
----
-
-**[Rivian Founder’s New Company Aims To Evolve Humanoid Robots](https://www.forbes.com/sites/edgarsten/2026/05/19/rivian-founders-new-company-aims-to-evolve-humanoid-robots/)**
-
-Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
-
-Forbes • 11h ago
-
----
-
 **[22. Carbon Robotics](https://www.cnbc.com/2026/05/19/carbon-robotics-cnbc-disruptor-50-ranking.html)**
 
 Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
@@ -160,27 +136,51 @@ CNBC • 10h ago
 
 Everyone is still glued to Tesla (NASDAQ:TSLA) because a Q1 earnings beat, the robotaxi pitch, and the Optimus humanoid tease have convinced retail traders the autonomy story finally pays off this year. The Tesla Trade Is Crowded and Priced for a Miracle Tesla carries a P/E of 406 and a free cash flow yield of ... Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[St. Louis uses Disney tactic to hide blighted buildings ahead of major convention](https://www.bizjournals.com/stlouis/news/2026/05/19/gsl-beautify-railway-exchange-st-louis.html)**
+**[CUHK Launches Hong Kong’s First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
 
-The Business Journals • 15m ago
+CUHK’s Hong Kong Embodied AI Lab aims to advance humanoid robotics, logistics automation, and industry partnerships across embodied AI.
+
+eWeek • 21h ago
+
+---
+
+**[Rivian Founder’s New Company Aims To Evolve Humanoid Robots](https://www.forbes.com/sites/edgarsten/2026/05/19/rivian-founders-new-company-aims-to-evolve-humanoid-robots/)**
+
+Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
+
+Forbes • 12h ago
+
+---
+
+**[Figure AI had one of its robots race an intern to sort packages. See who lost.](https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5)**
+
+Figure AI's intern outperformed a humanoid robot in a package sorting contest, highlighting the challenges in robotics automation.
+
+Business Insider • 12h ago
+
+---
+
+**[World's first 'native' color lidar will let robots and self-driving cars map the world in full color 3D](https://www.livescience.com/technology/electric-vehicles/worlds-first-native-color-lidar-will-let-robots-and-self-driving-cars-map-the-world-in-full-color-3d)**
+
+Ouster has launched the Rev8 set of lidar sensors that function as both a camera and a 3D mapping sensor at the same time. Its engineers say these are the first devices of their kind in the world.
+
+Live Science • 12h ago
 
 ---
 
 **[Dexterous Robotic Hand Maker Linkerbot Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-05-19/dexterous-robotic-hand-maker-linkerbot-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[5 Robotics Stocks to Watch as Physical AI Builds Momentum](https://www.marketbeat.com/originals/5-robotics-stocks-to-watch-as-physical-ai-builds-momentum/)**
+**[St. Louis uses Disney tactic to hide blighted buildings ahead of major convention](https://www.bizjournals.com/stlouis/news/2026/05/19/gsl-beautify-railway-exchange-st-louis.html)**
 
-As AI moves from the digital world into the physical one, robotics stocks are emerging as one of the market's most compelling early-stage opportunities.
-
-MarketBeat • 1d ago
+The Business Journals • 1h ago
 
 ---
 
@@ -274,7 +274,7 @@ LimX Dynamics' TRON 2 is entering the retail space, completing a real-world asse
 
 📺 LimX Dynamics
 
-👁️ 499 • 👍 31 • 💬 10 • ⏱️ 1:50 • 7h ago
+👁️ 499 • 👍 31 • 💬 10 • ⏱️ 1:50 • 9h ago
 
 ---
 

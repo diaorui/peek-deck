@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-19T20:13:42.986836+00:00'
+updated: '2026-05-19T21:54:25.063406+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 20:13 UTC  
+**Last Updated:** May 19, 2026 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,913.74
+### $77,018.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -3.0%  
-**30d:** +1.4%  
-**90d:** +14.9%  
-**1y:** -27.9%  
+**24h:** +0.0%  
+**7d:** -2.9%  
+**30d:** +1.5%  
+**90d:** +15.0%  
+**1y:** -27.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1539.49B
+**Market Cap:** $1541.30B
 Rank #1
 
 **Circulating Supply:** 20,031,425 BTC
@@ -64,7 +64,7 @@ Rank #1
 -39.0%
 
 **All-Time Low:** $67.81
-+113241.7%
++113370.0%
 
 ---
 
@@ -77,15 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Florida Man Reads The Bitcoin Standard; Buys 4% of All the Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1thpxkm/florida_man_reads_the_bitcoin_standard_buys_4_of/)**
+**[Finally hit 10 coins 🙌🙌](https://www.reddit.com/r/Bitcoin/comments/1thy3x5/finally_hit_10_coins/)**
 
-5h ago
+After DCAing for the past 6 years and living like a peasant, I finally reached my goal.
+
+2h ago
 
 ---
 
-**[At least you have bitcoins](https://www.reddit.com/r/Bitcoin/comments/1th80lo/at_least_you_have_bitcoins/)**
+**[Florida Man Reads The Bitcoin Standard; Buys 4% of All the Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1thpxkm/florida_man_reads_the_bitcoin_standard_buys_4_of/)**
 
-18h ago
+6h ago
 
 ---
 
@@ -93,7 +95,21 @@ Rank #1
 
 By many people
 
-1h ago
+2h ago
+
+---
+
+**[She's not wrong. Alps, Pyrenees, Hymalayas, Sierra Nevada... Bitcoin works everywhere](https://www.reddit.com/r/Bitcoin/comments/1thwiu4/shes_not_wrong_alps_pyrenees_hymalayas_sierra/)**
+
+Madison Hanson @HansonHash on X For the slow ones: she means you can take all your wealth across borders without anyone knowing about it. Yes your credit card works too, but that's not permissionless money, it's a loan and you need permission to use it. You also have to live in a first world country, something the vast majority of the world isn't part of. Perhaps check your financial privilege before you decide to comment https://www.audible.co.uk/pd/Check-Your-Financial-Privilege-Audiobook/B0B9T82ZD2
+
+2h ago
+
+---
+
+**[At least you have bitcoins](https://www.reddit.com/r/Bitcoin/comments/1th80lo/at_least_you_have_bitcoins/)**
+
+20h ago
 
 ---
 
@@ -101,13 +117,13 @@ By many people
 
 Hello everyone, I have reserved a couple of tables for the entire community. If you are living in Southern California and want to hang out on Pizza Day, we would love to have you! https://preview.redd.it/odz4yzjom42h1.jpg?width=892&format=pjpg&auto=webp&s=a3d1e96eb2ababaf9ed4762cdce20dd702815152 Please be aware that one half of the pizza place will be playing board games, so please don't disrupt the "normies" enjoying their evening. Also, it's my birthday, so I'll only be there from 3:00–4:30, and hopefully, I'll try to make it back around the end, from 8:30–9:00ish. I'm really excited to meet new local Bitcoiners. This is a family-friendly environment; all are welcome. Please comment below or message me if you're interested, just in case I need to notify Zito's. Please note: this is the Zito's Pizza off Chapman Ave.
 
-3h ago
+4h ago
 
 ---
 
-**[She's not wrong. Alps, Pyrenees, Hymalayas, Sierra Nevada... Bitcoin works everywhere](https://www.reddit.com/r/Bitcoin/comments/1thwiu4/shes_not_wrong_alps_pyrenees_hymalayas_sierra/)**
+**[Bitcoin search is rising among news articles](https://www.reddit.com/r/Bitcoin/comments/1thze36/bitcoin_search_is_rising_among_news_articles/)**
 
-Madison Hanson @HansonHash on X For the slow ones: she means you can take all your wealth across borders without anyone knowing about it. Yes your credit card works too, but that's not permissionless money, it's a loan and you need permission to use it. You also have to live in a first world country, something the vast majority of the world isn't part of. Perhaps check your financial privilege before you decide to comment https://www.audible.co.uk/pd/Check-Your-Financial-Privilege-Audiobook/B0B9T82ZD2
+Over the past five years, Bitcoin's average search interest sat at just 24 out of 100 — well below its 2020–2021 peak. Yet the price hit a new all-time high of $126,296 in October 2025. Nobody was Googling it at the top. Then the price dropped. By late February 2026, with Bitcoin consolidating around $60K, search interest for "buy Bitcoin" surged to its highest level in nearly five years. Classic retail behavior — people search when they feel like they missed the move, not when they should be paying attention. Now BTC is around $75K-$80K and search interest is quiet again. Same pattern, different cycle.
 
 1h ago
 
@@ -117,7 +133,7 @@ Madison Hanson @HansonHash on X For the slow ones: she means you can take all yo
 
 30$ in BTC every day since November 2025 Avg buy price is 82,786$ Currently I’m down to 735$ and would like to go deeper but who knows Let’s have a great ride
 
-5h ago
+7h ago
 
 ---
 
@@ -125,7 +141,7 @@ Madison Hanson @HansonHash on X For the slow ones: she means you can take all yo
 
 France-listed Capital B bought 192 Bitcoin for $15.2 million, increasing its total BTC holdings to 3,135 coins
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/%20capital-b-acquires-bitcoin-holdings) • 11h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/%20capital-b-acquires-bitcoin-holdings) • 12h ago
 
 ---
 
@@ -133,23 +149,7 @@ France-listed Capital B bought 192 Bitcoin for $15.2 million, increasing its tot
 
 Introduction How Bitcoin Helps Bitcoin Basics Using Bitcoin In Practice Case Studies Risks and Challenges Download If you would like to save this report, you can always download it here as a PDF. Download PDF The Road Ahead Every year, more authoritarian regimes attempt to silence dissent by cutting access to money for those who […]
 
-🔗 [Human Rights Foundation](https://hrf.org/latest/bitcoin-for-nonprofits-a-guide-to-help-your-movement-achieve-financial-freedom/) • 4h ago
-
----
-
-**[The ETF outflow headline kinda distracted ppl from the bigger BTC conversation today](https://www.reddit.com/r/Bitcoin/comments/1thkuny/the_etf_outflow_headline_kinda_distracted_ppl/)**
-
-Yeah the $649M ETF outflow matters But what caught my attention more was Iran literally using Bitcoin in messaging around the Strait of Hormuz situation while the SEC is talking more openly about tokenized stocks and 24/7 blockchain markets. At the same time whales are still opening huge crypto positions even with all the macro tension. Idk if this cycle is becoming less about “BTC as an asset” and more about BTC slowly entering geopolitical and financial infrastructure conversations at the same time.
-
-8h ago
-
----
-
-**[$20k in btc stolen](https://www.reddit.com/r/Bitcoin/comments/1th8er6/20k_in_btc_stolen/)**
-
-Opened up my crypto onchain wallet today to see $20k in btc was withdrawn back in February. I don't check it often and can't believe it. No idea how it happened as the transaction doesn't show in the app but does on blockchain.com. Really fucking sucks, no idea how it happened. Never shared my phrase. Fuck Edit: digging in more it looks like I was exporting transactions on the day the withdrawal took place. I'm guessing I accidentally clicked a malicious link and linked it to my wallet. I'm just trying to get over the sadness of fucking up.
-
-18h ago
+🔗 [Human Rights Foundation](https://hrf.org/latest/bitcoin-for-nonprofits-a-guide-to-help-your-movement-achieve-financial-freedom/) • 6h ago
 
 ---
 
@@ -157,47 +157,37 @@ Opened up my crypto onchain wallet today to see $20k in btc was withdrawn back i
 
 ## Google News: "bitcoin"
 
-**[North America’s largest Bitcoin ATM operator shuts down network, files for bankruptcy](https://www.wbay.com/2026/05/19/north-americas-largest-bitcoin-atm-operator-shuts-down-network-files-bankruptcy/)**
+**[Bitcoin Depot files for bankruptcy, will take all crypto ATMs offline](https://www.wcvb.com/article/bitcoin-depot-files-for-bankruptcy-will-take-all-crypto-atms-offline/71341757)**
 
-The company said increasingly tough state regulations, intended to prevent scams, affected its business.
+Massachusetts residents lost millions in crypto ATM fraud last year
 
-WBAY • 5h ago
+WCVB • 7h ago
 
 ---
 
 **[Massive Crypto ATM Company Bitcoin Depot Is Shutting Down as the Whole Industry Collapses](https://gizmodo.com/massive-crypto-atm-company-bitcoin-depot-is-shutting-down-as-the-whole-industry-collapses-2000760192)**
 
-Gizmodo • 22h ago
+Gizmodo • 1d ago
 
 ---
 
-**[Bitcoin Depot files for bankruptcy, will take all crypto ATMs offline](https://www.wcvb.com/article/bitcoin-depot-files-for-bankruptcy-will-take-all-crypto-atms-offline/71341757)**
+**[North America’s largest Bitcoin ATM operator shuts down network, files for bankruptcy](https://www.wbay.com/2026/05/19/north-americas-largest-bitcoin-atm-operator-shuts-down-network-files-bankruptcy/)**
 
-Massachusetts residents lost millions in crypto ATM fraud last year
+The company said increasingly tough state regulations, intended to prevent scams, affected its business.
 
-WCVB • 6h ago
+WBAY • 6h ago
 
 ---
 
 **[MSTR Stock: Why Bitcoin Whale Just Took A Risky Turn](https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-just-took-risky-turn/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 9h ago
 
 ---
 
-**[Btrust Appoints New Board Of Directors To Steer Next Phase Of Bitcoin Development](https://bitcoinmagazine.com/news/btrust-appoints-new-board-of-directors)**
+**[Live markets: Bitcoin hangs near $77,000 as interest rates continue to surge](https://www.coindesk.com/tech/2026/05/19/live-markets-bitcoin-hangs-near-usd77-000-as-interest-rates-continue-to-surge)**
 
-Btrust has completed a major governance transition, appointing Janet Maingi, Bruno Garcia, and Laurence Aderemi as its new Board of Directors following a global, values-driven selection process.
-
-Bitcoin Magazine • 2h ago
-
----
-
-**[Bitcoin Miners Emerge as Unlikely Power Brokers in AI Infrastructure Race, Says Bernstein](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-emerge-unlikely-power-193523665.html)**
-
-Bernstein remains bullish on Bitcoin mining firms like IREN, Riot, and CleanSpark, who are all riding the wave of AI compute demand.
-
-Yahoo Finance • 38m ago
+CoinDesk • 4h ago
 
 ---
 
@@ -205,13 +195,7 @@ Yahoo Finance • 38m ago
 
 Bitcoin price has fallen below $77,000 amid heavy ETF outflows, large-scale liquidations, and weakening capital inflows.
 
-Bitcoin Magazine • 51m ago
-
----
-
-**[Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)**
-
-Bloomberg.com • 1d ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -223,9 +207,25 @@ The Block • 1d ago
 
 ---
 
-**[Iran Doubles Down on Bitcoin for Ships Passing Through the Straight of Hormuz](https://gizmodo.com/iran-doubles-down-on-bitcoin-for-ships-passing-through-the-straight-of-hormuz-2000760178)**
+**[Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)**
 
-Gizmodo • 23h ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Iran offers bitcoin-backed shipping insurance through Strait of Hormuz](https://finance.yahoo.com/video/iran-offers-bitcoin-backed-shipping-170000084.html)**
+
+Scott Melker discusses Iran's new maritime insurance platform titled Hormuz Safe, which has shippers paying insurance premiums using bitcoin (BTC-USD) and other cryptocurrencies as a loophole around the global SWIFT network. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Elon Musk Grok AI Predicts Incredible XRP Price and Bitcoin Price by End of 2026](https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-162000855.html)**
+
+Nobody asked Elon Musk Grok AI to pick favorites. It predicts both Bitcoin and XRP in the same breath, and the price prediction it landed on for each are not conservative by any measure.Bitcoin at $150,000 to $200,000. XRP at $5 to $8. Both by end-2026. Both driven by the ...
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -235,7 +235,7 @@ Gizmodo • 23h ago
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 332 • 💬 608 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 336 • 💬 620 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -279,7 +279,7 @@ AI to the rescue as 11-year search for password turns up in old PC files
 
 Zero-latency mempool interception and transaction topology for algorithmic execution.
 
-⬆️ 2 • 💬 0 • 4h ago • [mempool-alpha-oracle.com](https://www.mempool-alpha-oracle.com)
+⬆️ 2 • 💬 0 • 6h ago • [mempool-alpha-oracle.com](https://www.mempool-alpha-oracle.com)
 
 ---
 
@@ -287,7 +287,7 @@ Zero-latency mempool interception and transaction topology for algorithmic execu
 
 prove your bitcoin og status in zero-knowledge
 
-⬆️ 1 • 💬 0 • 6h ago • [og-zkp](https://og-zkp.com/)
+⬆️ 1 • 💬 0 • 8h ago • [og-zkp](https://og-zkp.com/)
 
 ---
 
@@ -295,7 +295,7 @@ prove your bitcoin og status in zero-knowledge
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 1 • 💬 0 • 1h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 1 • 💬 0 • 2h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -303,7 +303,7 @@ We’re on a journey to advance and democratize artificial intelligence through 
 
 Three bugs an AI-and-stocks digest had, and the selection-bias fix that moved its backtest from -1.86% alpha to +4.79%.
 
-⬆️ 2 • 💬 0 • 6h ago • [bitinforming.com](https://bitinforming.com/blog/dogfooding)
+⬆️ 2 • 💬 0 • 7h ago • [bitinforming.com](https://bitinforming.com/blog/dogfooding)
 
 ---
 
@@ -317,7 +317,17 @@ The REAL REASON Why Bitcoin CRASHED TODAY!! (+ What Comes Next?) ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 272 • ⏱️ 13:03 • 20h ago
+👁️ 35K • 👍 2K • 💬 431 • ⏱️ 13:03 • 22h ago
+
+---
+
+**[Bitcoin’s Bull Market Is Back | Checkmate](https://www.youtube.com/watch?v=ccNF72m1mBw)**
+
+We're in an era where the monetary system is changing. The world is going to look very different on the other side of this thing.
+
+📺 What Bitcoin Did
+
+👁️ 5K • 👍 433 • 💬 121 • ⏱️ 1:27:16 • 5h ago
 
 ---
 
@@ -327,47 +337,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 693 • 💬 242 • ⏱️ 48:30 • 5h ago
-
----
-
-**[Bitcoin Investors May Have Walked Into a Trap](https://www.youtube.com/watch?v=J3_zaV1FzFg)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 259 • ⏱️ 37:03 • 1d ago
-
----
-
-**[Why bitcoin dropped sharply below $77,000](https://www.youtube.com/watch?v=5jMioqhztYQ)**
-
-bitcoin #crypto #iran #economy #finance May 18th, 2026 - Iran may be attempting something that bitcoin supporters and critics ...
-
-📺 Yahoo Finance
-
-👁️ 20K • 👍 716 • 💬 273 • ⏱️ 14:56 • 1d ago
-
----
-
-**[The Bitcoin Singularity Has Arrived | Why Digital Credit Will Ignite a Supply Shock](https://www.youtube.com/watch?v=oVe4QWVvelY)**
-
-Bitcoin's next breakout may not come from ETFs or institutions. It may come from retail panic, digital credit, and a supply shock ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 174 • ⏱️ 16:37 • 1d ago
-
----
-
-**[What the Strategic Bitcoin Reserve Means for Your Stack.](https://www.youtube.com/watch?v=nOB_-3dZgAg)**
-
-billion just left Bitcoin ETFs. The White House just announced a Strategic Bitcoin Reserve is coming. Which one is the real story?
-
-📺 Digital Asset News
-
-👁️ 18K • 👍 848 • 💬 114 • ⏱️ 28:06 • 23h ago
+👁️ 14K • 👍 775 • 💬 364 • ⏱️ 48:30 • 7h ago
 
 ---
 
@@ -377,7 +347,37 @@ Cryptomanran is sounding the alarm as a storm brews for crypto. Yields are surgi
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 1K • 💬 41 • ⏱️ 32:35 • 6h ago
+👁️ 15K • 👍 1K • 💬 44 • ⏱️ 32:35 • 7h ago
+
+---
+
+**[What the Strategic Bitcoin Reserve Means for Your Stack.](https://www.youtube.com/watch?v=nOB_-3dZgAg)**
+
+billion just left Bitcoin ETFs. The White House just announced a Strategic Bitcoin Reserve is coming. Which one is the real story?
+
+📺 Digital Asset News
+
+👁️ 19K • 👍 871 • 💬 119 • ⏱️ 28:06 • 1d ago
+
+---
+
+**[Why bitcoin dropped sharply below $77,000](https://www.youtube.com/watch?v=5jMioqhztYQ)**
+
+bitcoin #crypto #iran #economy #finance May 18th, 2026 - Iran may be attempting something that bitcoin supporters and critics ...
+
+📺 Yahoo Finance
+
+👁️ 20K • 👍 725 • 💬 273 • ⏱️ 14:56 • 1d ago
+
+---
+
+**[Bitcoin Investors May Have Walked Into a Trap](https://www.youtube.com/watch?v=J3_zaV1FzFg)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 240 • ⏱️ 37:03 • 1d ago
 
 ---
 
@@ -387,27 +387,27 @@ Bitcoin was just rejected off the 200D moving average. What next? Sign up to get
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 255 • ⏱️ 27:58 • 17h ago
+👁️ 70K • 👍 4K • 💬 273 • ⏱️ 27:58 • 19h ago
 
 ---
 
-**[Gareth Soloway: Bitcoin &amp; BTC Bear Flag Warning — $49K Target, ETH, XRP, Crypto Breakdown 2026](https://www.youtube.com/watch?v=KJ35xjFGkXs)**
+**[Crypto Report: Iran&#39;s &quot;Hormuz Safe&quot; Bitcoin Insurance Push &amp; Crypto Regulation](https://www.youtube.com/watch?v=KOLGG4YM9g8)**
 
-Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, breaks down the LATEST ...
+Chris Perkins discusses Iran's new Bitcoin-backed service "Hormuz Safe" and why the country is increasingly turning to ...
 
-📺 Gareth Soloway
+📺 Schwab Network
 
-👁️ 83K • 👍 5K • 💬 293 • ⏱️ 12:17 • 2d ago
+👁️ 196 • 👍 6 • 💬 2 • ⏱️ 6:44 • 2h ago
 
 ---
 
-**[CAUTION: Last Chance For Bitcoin To Bounce! [Buy This Dip?]](https://www.youtube.com/watch?v=ZqfyjvU1oRE)**
+**[Bitcoin Holders: Bitcoin Strategic Reserve News &amp; Market Update](https://www.youtube.com/watch?v=TECEobwOSj4)**
 
-Bitcoin Bounce incoming? In today's video, Kyledoops shares whether this is a buy-the-dip opportunity or not. We analyze ...
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
 
-📺 Crypto Banter
+📺 Aaron Bennett
 
-👁️ 11K • 👍 1K • 💬 14 • ⏱️ 28:58 • 12h ago
+👁️ 4K • 👍 341 • 💬 57 • ⏱️ 7:32 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-19T20:13:42.994681+00:00'
+updated: '2026-05-19T21:54:25.069445+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 20:13 UTC  
+**Last Updated:** May 19, 2026 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -6.3%  
-**30d:** -8.5%  
-**90d:** +8.6%  
-**1y:** -16.2%  
+**24h:** -0.7%  
+**7d:** -6.2%  
+**30d:** -8.4%  
+**90d:** +8.8%  
+**1y:** -16.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.40B
+**Market Cap:** $255.51B
 Rank #2
 
 **Circulating Supply:** 120,685,700 ETH
@@ -62,7 +62,7 @@ No max supply
 -57.2%
 
 **All-Time Low:** $0.43
-+488665.0%
++488914.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 21h ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 23h ago
 
 ---
 
@@ -162,15 +162,15 @@ Fortune • 1d ago
 
 Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-tom-lee-175358135.html)**
+**[Bitcoin and ethereum prices today, Tuesday, May 19, 2026: Prices slide lower after Trump calls off attacks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-19-2026-prices-slide-lower-after-trump-calls-off-attacks-113905955.html)**
 
-Ethereum (CRYPTO: ETH) is at a crossroads that could define 2026 for crypto investors. After a brutal early-year slide that dragged ETH below $1,800, the second-largest cryptocurrency has clawed back to hover around $2,110. Wall Street strategist Tom Lee believes that recovery is a season change and not just a bounce. Lee has officially declared ... Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It
+Bitcoin opened at $76,952.05 today, down 0.6% from yesterday’s opening price. Today’s opening price is bitcoin’s lowest since May 1. Ethereum opened at $2,128.55, flat with yesterday’s opening value. The price of ethereum was $2,115.84 as of 7:12 a.m. ET.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -178,33 +178,7 @@ Yahoo Finance • 2h ago
 
 A contracting float against any meaningful demand recovery has historically been a constructive setup for price.
 
-The Block • 22h ago
-
----
-
-**[Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
-
-CoinDesk • 1d ago
-
----
-
-**[Goldman Sachs Dumps XRP and Solana ETFs, Slashes Ethereum Exposure by 70%](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-dumps-xrp-solana-140215136.html)**
-
-Goldman Sachs fully exited its XRP and Solana ETF positions and cut Ethereum exposure by roughly 70% in Q1 2026. Harvard also reduced its Bitcoin ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
-
-Barron's • 1d ago
-
----
-
-**[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
-
-CoinDesk • 11h ago
+The Block • 1d ago
 
 ---
 
@@ -222,6 +196,36 @@ PR Newswire • 1d ago
 
 ---
 
+**[Why is Tom Lee calling Ethereum’s latest price drop a buying opportunity?](https://www.tradingview.com/news/invezz:7fe920020094b:0-why-is-tom-lee-calling-ethereum-s-latest-price-drop-a-buying-opportunity/)**
+
+Fundstrat’s Tom Lee reiterated his bullish long-term outlook while Bitmine Immersion Technologies disclosed another major Ether purchase during the recent market pullback, even as the flagship altcoin remained under pressure.Ethereum price is down roughly 8% in the past 7 days, as per Coingecko dat…
+
+TradingView • 15h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
+
+Barron's • 1d ago
+
+---
+
+**[Ethereum Foundation sees 2 more high-profile departures](https://www.tradingview.com/news/cointelegraph:22328c339094b:0-ethereum-foundation-sees-2-more-high-profile-departures/)**
+
+The Ethereum Foundation saw the resignations of two top researchers on Monday, bringing the total number of high-profile departures at the organization to at least eight in recent months.Julian Ma and Carl Beek, both researchers at the Ethereum Foundation, ended their respective four and seven-year…
+
+TradingView • 14h ago
+
+---
+
+**[XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster](https://247wallst.com/investing/2026/05/18/xrp-ethereum-or-solana-ai-picks-which-crypto-will-10x-faster/)**
+
+XRP trades at $1.38, while Ethereum trades around $2,119, and Solana trades at $84. Here's ChatGPT's projections on which would 10x faster.
+
+24/7 Wall St. • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +236,7 @@ Go to buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon for spon
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 107 • 💬 47 • ⏱️ 13:32 • 3h ago
+👁️ 2K • 👍 107 • 💬 47 • ⏱️ 13:32 • 5h ago
 
 ---
 
@@ -242,7 +246,7 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 2K • 👍 209 • 💬 54 • ⏱️ 32:50 • 49m ago
+👁️ 2K • 👍 209 • 💬 54 • ⏱️ 32:50 • 2h ago
 
 ---
 
@@ -262,7 +266,7 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 209 • 👍 17 • 💬 51 • ⏱️ 3:30 • 4h ago
+👁️ 209 • 👍 17 • 💬 51 • ⏱️ 3:30 • 6h ago
 
 ---
 
@@ -272,7 +276,7 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 
 📺 Alexander Lorenzo
 
-👁️ 8K • 👍 796 • 💬 137 • ⏱️ 2:31 • 5h ago
+👁️ 8K • 👍 796 • 💬 137 • ⏱️ 2:31 • 7h ago
 
 ---
 
@@ -292,7 +296,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 72 • 💬 11 • ⏱️ 9:52 • 8h ago
+👁️ 2K • 👍 72 • 💬 11 • ⏱️ 9:52 • 10h ago
 
 ---
 
@@ -302,7 +306,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 1K • 👍 193 • 26m ago
+👁️ 1K • 👍 193 • 2h ago
 
 ---
 
@@ -322,7 +326,7 @@ bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Ein
 
 📺 RSFM
 
-👁️ 1K • 👍 329 • 💬 72 • ⏱️ 10:39 • 6h ago
+👁️ 1K • 👍 329 • 💬 72 • ⏱️ 10:39 • 8h ago
 
 ---
 

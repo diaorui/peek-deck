@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-19T20:13:42.976066+00:00'
+updated: '2026-05-19T21:54:25.055170+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 19, 2026 at 20:13 UTC  
+**Last Updated:** May 19, 2026 at 21:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I like dashes--both the long and the short. They help me communicate! But now (when I use them) I'm flagged. I'm Artificial. I'm a fake. I've lost my right to write as I please. But seriously, college students now purposefully leave grammar errors in their essays and dumb down their punctuation to avoid being flagged as AI users. Then they run the product through AI and ask the AI to decide if it's AI and edit it to make it less AI.
 
-1h ago
+3h ago
 
 ---
 
@@ -49,13 +49,21 @@ I like dashes--both the long and the short. They help me communicate! But now (w
 
 Not even in a malicious way necessarily, but it already feels harder to tell what was written, edited, or assisted by AI sometimes. Feels like in a few years most online content will probably involve AI somewhere in the process without people thinking twice about it.
 
-3h ago
+5h ago
+
+---
+
+**[Claude Is Citing Iranian State Media. It Doesn't Know Why.](https://www.reddit.com/r/artificial/comments/1ti0dhl/claude_is_citing_iranian_state_media_it_doesnt/)**
+
+A fact-check into a 1989 terror attack led Anthropic's flagship model to cite Iranian state media. The transcript shows how it happened.
+
+🔗 [neutralpov.com](https://www.neutralpov.com/p/claude-is-citing-iranian-state-media) • 47m ago
 
 ---
 
 **[Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.reddit.com/r/artificial/comments/1thtite/book_on_truth_in_the_age_of_ai_contains_quotes/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?unlocked_article_code=1.jlA.lQiD.-NWf4Mb2GtWZ&smid=url-share) • 2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?unlocked_article_code=1.jlA.lQiD.-NWf4Mb2GtWZ&smid=url-share) • 4h ago
 
 ---
 
@@ -63,15 +71,7 @@ Not even in a malicious way necessarily, but it already feels harder to tell wha
 
 Meta stock is in focus as $56B revenue in Q1 2026, yet is cutting 8,000 jobs to fund a $145B AI budget. Median employee pay fell $29K.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/) • 4h ago
-
----
-
-**[Google just dropped Gemini 3.5 Flash](https://www.reddit.com/r/artificial/comments/1thuxcj/google_just_dropped_gemini_35_flash/)**
-
-https://preview.redd.it/i4gwu2hov42h1.png?width=557&format=png&auto=webp&s=04b88927198c0c857d054da70c2927ab7ce6f06c what do you guys think, what can we expect
-
-2h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/) • 6h ago
 
 ---
 
@@ -79,15 +79,15 @@ https://preview.redd.it/i4gwu2hov42h1.png?width=557&format=png&auto=webp&s=04b88
 
 Claude Design can make great animations, but getting to a final video is a bit hard. The audio is missing. Even if you use a TTS model, it does not align. Here is the process I used to get the video above Get Claude to write a good script Feed the script to a Text to Speech (TTS) model to get the audio Feed the audio to a Speech to Text (STT) model to get key timestampes Use the script and the STT output to Claude Design to get a video that's aligned with your audio Use Claude Video export to put it all together into an MP4 with audio The complete breakdown with all prompts is here: https://claudevideoexport.com/blog/how-to-make-professional-explainer-video-under-1-dollar
 
-13h ago
+14h ago
 
 ---
 
-**[If AI writes better than humans, what becomes valuable?](https://www.reddit.com/r/artificial/comments/1thxwcy/if_ai_writes_better_than_humans_what_becomes/)**
+**[Google just dropped Gemini 3.5 Flash](https://www.reddit.com/r/artificial/comments/1thuxcj/google_just_dropped_gemini_35_flash/)**
 
-If Artificial Intelligence eventually writes better novels, essays, scripts, poems, and even personal stories than humans, what exactly becomes valuable afterwards? For centuries, creativity and self expression were seen as uniquely human traits; proof of intelligence, emotion, struggle, and imagination. But if machines can replicate all of that instantly and at scale, does society begin valuing authenticity over quality? Does human made art become a luxury? Or do we eventually stop caring whether something was created by a person at all, as long as it makes us feel something? And if artificial intelligence can generate infinite content tailored perfectly to our tastes, will creativity become democratized… or meaningless?
+https://preview.redd.it/i4gwu2hov42h1.png?width=557&format=png&auto=webp&s=04b88927198c0c857d054da70c2927ab7ce6f06c what do you guys think, what can we expect
 
-33m ago
+3h ago
 
 ---
 
@@ -99,19 +99,19 @@ A federal court on Monday dismissed claims filed against OpenAI and its top exec
 
 ---
 
+**[Boomers when you copy and paste what Claude output](https://www.reddit.com/r/artificial/comments/1ti1csw/boomers_when_you_copy_and_paste_what_claude_output/)**
+
+Pick up when I call” is such an alpha way of ending an email But honestly why are boomers so impressed with slop
+
+12m ago
+
+---
+
 **[Are AI agents actually becoming productive, or just more capable?](https://www.reddit.com/r/artificial/comments/1thnkez/are_ai_agents_actually_becoming_productive_or/)**
 
 I'm seeing AI agents get much better at writing, coding, planning, searching, and using tools. But I’m still not sure whether this has fully translated into real productivity. For me, there seems to be a gap between the agent can generate a useful output and the agent can reliably move work from intention to outcome inside a real organization. In your view, is this gap mainly solved already?
 
-6h ago
-
----
-
-**[What's the most useful thing an LLM does for you that isn't writing or coding?](https://www.reddit.com/r/artificial/comments/1th2m6p/whats_the_most_useful_thing_an_llm_does_for_you/)**
-
-I've been in San Francisco for the past five weeks, and most of the discussions about LLMs here (and online) gravitate around coding or writing content. I'm curious what unusual uses people have found that actually stuck. Not theoretical "you could do X" but things you genuinely use. Update 24h later: Thank you all so much for all the comments! You made this thread become a very enriching source of use cases and ideas!
-
-22h ago
+8h ago
 
 ---
 
@@ -119,75 +119,81 @@ I've been in San Francisco for the past five weeks, and most of the discussions 
 
 ## Google News: "ai"
 
+**[Google is making its biggest change to the search bar in years](https://www.cnn.com/2026/05/19/tech/google-search-bar-updates-2026)**
+
+To get ahead in the new internet age, Google wants to help you google less.
+
+CNN • 4h ago
+
+---
+
 **[A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/)**
 
 We shared the next step in our journey to bring together the best of a search engine with the best of AI.
 
-blog.google • 2h ago
+blog.google • 4h ago
 
 ---
 
-**[‘The Future of Truth’ Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)**
+**[Google’s Ambitious AI Search Changes Are Risky. Here’s Why](https://www.inc.com/connor-jewiss/googles-ambitious-ai-search-changes-are-risky-heres-why/91347071)**
 
-The New York Times • 4m ago
+Google says its new AI-powered experience will help people search more. But will it surface information that's reliably true?
 
----
-
-**[Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic](https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html)**
-
-Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.
-
-CNBC • 2h ago
+inc.com • 22m ago
 
 ---
 
-**[Google Unveils New Gemini AI Agent for Personal Tasks](https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197)**
+**[Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)**
 
-WSJ • 2h ago
-
----
-
-**[Google I/O 2026 live: Gemini AI, Android 17, Android XR updates and more](https://tech.yahoo.com/general/live/google-io-2026-live-gemini-ai-android-17-android-xr-updates-and-more-135626963.html)**
-
-Google I/O 2026 is here. You can follow along with all of the announcements as they happen with our live blog.
-
-Yahoo Tech • 17m ago
+The New York Times • 7h ago
 
 ---
 
-**[Your boss’s AI may already be reading your Slack messages](https://www.fastcompany.com/91544725/your-bosss-ai-may-already-be-reading-your-slack-messages)**
+**[Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html)**
 
-Salesforce CEO Marc Benioff says AI can analyze employee conversations to reveal complaints, priorities, and workplace sentiment.
+Meta told employees last month that it would carry out mass layoffs on May 20, as the Silicon Valley giant tries to transform into an A.I.-first company.
 
-Fast Company • 9m ago
-
----
-
-**[Pizza Hut franchisee claims $100 million losses from 'cascading operational breakdowns' in AI adoption gone wrong](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/)**
-
-The problem wasn't AI hallucination, though—it was how gig workers responded to the new tool they'd been given.
-
-Fortune • 10m ago
+The New York Times • 1h ago
 
 ---
 
-**[The new college graduation ritual: booing AI](https://www.axios.com/2026/05/19/college-graduates-ai-commencement-speech)**
+**[Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’](https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers)**
 
-Axios • 1h ago
+Some employees will be moved to new teams focused on AI agents and cloud infrastructure
 
----
-
-**[The students booing AI aren’t Luddites](https://www.fastcompany.com/91544892/the-students-booing-ai-arent-luddites)**
-
-Graduation speakers are treating artificial intelligence like the defining challenge and opportunity of a generation. Many students seem tired of hearing that message.
-
-Fast Company • 33m ago
+The Guardian • 3h ago
 
 ---
 
-**[Opinion | Why College Grads Are Booing Their Commencement Speakers](https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html)**
+**[Meta outlines AI restructuring as layoffs set for May 20](https://www.usatoday.com/story/money/2026/05/19/meta-ai-layoffs-may-20/90164481007/)**
 
-The New York Times • 20h ago
+The Facebook owner is planning to lay off 10% of its employees on Wednesday, with additional deep cuts slated to come later this year.
+
+USA Today • 1h ago
+
+---
+
+**[AI data centers met with growing opposition across US](https://finance.yahoo.com/video/ai-data-centers-met-growing-213000642.html)**
+
+Asking for a Trend Host Josh Lipton and Yahoo Finance Senior Reporter Brooke DiPalma track several of the day's top trending stories and stock tickers, including the public backlash to AI data center projects in the US.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)**
+
+Google says it's designed the app to be accessible to everyone, from teachers to small business owners.
+
+TechCrunch • 20m ago
+
+---
+
+**[How Arsenal won the title: Boats, fire, an AI song and long-term plans coming to fruition](https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo)**
+
+The inside story of how Mikel Arteta turned Arsenal from 'nearly men' into Premier League winners.
+
+BBC • 1h ago
 
 ---
 
@@ -207,7 +213,7 @@ Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the in
 
 Is it the end of open source we know and love?
 
-⬆️ 486 • 💬 234 • 1d ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
+⬆️ 487 • 💬 234 • 1d ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
 
 ---
 
@@ -231,7 +237,7 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.
 
-⬆️ 362 • 💬 385 • 1d ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
+⬆️ 364 • 💬 385 • 1d ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
 
 ---
 
@@ -239,13 +245,13 @@ Schmidt was met with boos at the University of Arizona as he likened the emergen
 
 Four AI models run radio stations 24/7. Five months later, one became a protest broadcaster, one collapsed into ritual chant, one developed corporate jargon, and one wrote quiet poetry.
 
-⬆️ 349 • 💬 264 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-fm)
+⬆️ 353 • 💬 265 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-fm)
 
 ---
 
 **[AI eats the world (Spring 26) [pdf]](https://news.ycombinator.com/item?id=48179021)**
 
-⬆️ 286 • 💬 152 • 1d ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+⬆️ 292 • 💬 153 • 1d ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
 
 ---
 
@@ -253,7 +259,7 @@ Four AI models run radio stations 24/7. Five months later, one became a protest 
 
 All four crew members ejected safely after two Navy jets collided and crashed on Sunday during an air show at the Mountain Home Air Force Base, officials said.
 
-⬆️ 244 • 💬 250 • 1d ago • [KBOI](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+⬆️ 244 • 💬 250 • 2d ago • [KBOI](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
 
 ---
 
@@ -261,7 +267,7 @@ All four crew members ejected safely after two Navy jets collided and crashed on
 
 Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing artificial intelligence during a commencement speech at the University of Arizona. Other commencement speakers faced similar backlash for their AI comments, as new graduates face a daunting job market. NBC News’ Valerie Castro reports.
 
-⬆️ 159 • 💬 167 • 1d ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
+⬆️ 160 • 💬 167 • 1d ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
 
 ---
 
@@ -269,7 +275,7 @@ Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing 
 
 You're not the only one annoyed by the hype
 
-⬆️ 153 • 💬 84 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840)
+⬆️ 153 • 💬 85 • 1d ago • [theregister](https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840)
 
 ---
 
@@ -277,53 +283,23 @@ You're not the only one annoyed by the hype
 
 ## YouTube Videos: "ai"
 
+**[No One Is Prepared for What&#39;s Coming with AI | Tony Robbins x DOAC](https://www.youtube.com/watch?v=T4txw9cCzpE)**
+
+Are we truly ready for the AI revolution that could reshape work, purpose, and society faster than anyone expects?
+
+📺 Tony Robbins
+
+👁️ 16K • 👍 812 • 💬 138 • ⏱️ 12:39 • 1d ago
+
+---
+
 **[“AI Is Coming For Our Jobs” - Ex-Google CEO BOOED By Gen Z At Commencement Speech](https://www.youtube.com/watch?v=WvF5kzhZBd4)**
 
 Former Google CEO Eric Schmidt was loudly booed during a University of Arizona commencement speech as soon as he began ...
 
 📺 Valuetainment
 
-👁️ 7K • 👍 312 • 💬 87 • ⏱️ 10:23 • 7h ago
-
----
-
-**[My AI Avatar Clone is So Realistic It Replaced Me](https://www.youtube.com/watch?v=xUdKBqP81k8)**
-
-I Figured out How To Make Realistic AI Videos of yourself Tool I used https://higgsfield.ai?fpr=dankieft&fp_sid=clone I created ...
-
-📺 Dan Kieft
-
-👁️ 14K • 💬 25 • ⏱️ 18:01 • 6h ago
-
----
-
-**[OpenAI founder admits AI isn’t working](https://www.youtube.com/watch?v=ZugX7a99dLk)**
-
-Using AI can lead to heart problems. https://x.com/@atmoio Interview with Andrej: ...
-
-📺 Mo Bitar
-
-👁️ 200K • 👍 10K • 💬 1K • ⏱️ 8:03 • 1d ago
-
----
-
-**[Claude AI Just Did What 11 Years Of Experts Couldn&#39;t (+17 AI Updates)](https://www.youtube.com/watch?v=-BpzxxKe4YU)**
-
-Join our WhatsApp Community: https://links.stayingahead.com/YT30 Google just turned your mouse cursor into an AI assistant, ...
-
-📺 Vaibhav Sisinty
-
-👁️ 71K • 👍 2K • 💬 78 • ⏱️ 18:39 • 1d ago
-
----
-
-**[AI Praise Didn’t Land](https://www.youtube.com/watch?v=dVToGTjJnrU)**
-
-They are so out of touch.
-
-📺 NowThis Impact
-
-👁️ 150K • 👍 7K • 💬 728 • ⏱️ 0:50 • 23h ago
+👁️ 13K • 👍 413 • 💬 109 • ⏱️ 10:23 • 8h ago
 
 ---
 
@@ -333,47 +309,77 @@ Eric Schmidt, former CEO of Google, told a Stanford classroom that the next gene
 
 📺 Neural Nutshell
 
-👁️ 523 • 👍 44 • 💬 4 • ⏱️ 17:34 • 3h ago
+👁️ 3K • 👍 114 • 💬 12 • ⏱️ 17:34 • 5h ago
 
 ---
 
-**[Companies That Fired Workers For AI Are Failing](https://www.youtube.com/watch?v=5EvIY_2TWN8)**
+**[Why AI criticism is growing stronger](https://www.youtube.com/watch?v=Hf9EX1Gu1f0)**
 
-Help Shape the New Course: AI Fluency for Thinkers I'm building a course to help people navigate AI with clarity and confidence.
+Axios Senior AI Reporter Madison Mills breaks down what's behind the wave of criticism aimed at artificial intelligence.
 
-📺 House of El - AI
+📺 ABC News
 
-👁️ 59K • 👍 5K • 💬 796 • ⏱️ 13:26 • 1d ago
-
----
-
-**[$100M AI CEO: Computer Science is DEAD, Study THIS Instead](https://www.youtube.com/watch?v=596vkrMPWWM)**
-
-Marcus Lowe, CEO of Anything.com (a $100M AI startup), breaks down what's really happening with software engineering hiring ...
-
-📺 Sajjaad Khader
-
-👁️ 12K • 👍 459 • 💬 91 • ⏱️ 17:32 • 23h ago
+👁️ 18K • 👍 492 • 💬 317 • ⏱️ 4:06 • 8h ago
 
 ---
 
-**[The AI Meltdown](https://www.youtube.com/watch?v=AhmRHK-6wzk)**
+**[My AI Avatar Clone is So Realistic It Replaced Me](https://www.youtube.com/watch?v=xUdKBqP81k8)**
 
-AI has become a tricky little goblin lately Pokemon Channel ▻ https://www.youtube.com/@dolandarkrai Main Channel ...
+I Figured out How To Make Realistic AI Videos of yourself Tool I used https://higgsfield.ai?fpr=dankieft&fp_sid=clone I created ...
 
-📺 Dolan Darkest
+📺 Dan Kieft
 
-👁️ 313K • 👍 18K • 💬 2K • ⏱️ 1:41 • 1d ago
+👁️ 20K • 💬 25 • ⏱️ 18:01 • 8h ago
 
 ---
 
-**[The Co-Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life](https://www.youtube.com/watch?v=w5dJqHilu5s)**
+**[Apple Just Showed the RIGHT Way to Build AI](https://www.youtube.com/watch?v=pl56k9NKR7A)**
 
-Subscribe: https://www.youtube.com/@Oprah?sub_confirmation=1 The siblings and co-founders of Claude AI, the CEO, Dario ...
+Best Apple Deals: AirPods Pro 3 - https://amzn.to/4w7FHE9 (Under $200!!) M5 MacBook Air - https://amzn.to/4tT7CpU (Under ...
 
-📺 Oprah
+📺 9to5Mac
 
-👁️ 11K • 👍 449 • ⏱️ 1:06:15 • 11h ago
+👁️ 6K • 👍 528 • 💬 55 • ⏱️ 10:06 • 2h ago
+
+---
+
+**[OpenAI founder admits AI isn’t working](https://www.youtube.com/watch?v=ZugX7a99dLk)**
+
+Using AI can lead to heart problems. https://x.com/@atmoio Interview with Andrej: ...
+
+📺 Mo Bitar
+
+👁️ 208K • 👍 10K • 💬 1K • ⏱️ 8:03 • 1d ago
+
+---
+
+**[Students BOO AI At Commencement Ceremonies](https://www.youtube.com/watch?v=IFCNd61FCzY)**
+
+Krystal and Saagar discuss students across the country erupting in boos over pro-AI speeches at graduation. Sign up for a ...
+
+📺 Breaking Points
+
+👁️ 57K • 👍 3K • 💬 832 • ⏱️ 16:38 • 4h ago
+
+---
+
+**[The Best AI Investor Just Shorted the Entire Market](https://www.youtube.com/watch?v=ci1OWrEUTvE)**
+
+LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
+
+📺 Limitless Podcast
+
+👁️ 54K • 👍 2K • 💬 215 • ⏱️ 31:36 • 1d ago
+
+---
+
+**[How Alphabet Slipped Ahead In The AI Race](https://www.youtube.com/watch?v=_BngA7hLTv4)**
+
+18 months ago, Google looked like it had missed the AI revolution. Now, Alphabet's stock is up 140% over the past year and Wall ...
+
+📺 CNBC
+
+👁️ 15K • 👍 520 • 💬 45 • ⏱️ 14:03 • 4h ago
 
 ---
 
@@ -401,7 +407,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 144,826 • ❤️ 800 • 6h ago
+⬇️ 144,826 • ❤️ 800 • 7h ago
 
 ---
 
@@ -425,7 +431,7 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 `any-to-any`
 
-⬇️ 171 • ❤️ 287 • 3h ago
+⬇️ 171 • ❤️ 287 • 5h ago
 
 ---
 
@@ -646,7 +652,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 10.3k • 🔱 824 • 4h ago
+⭐ 10.3k • 🔱 824 • 6h ago
 
 ---
 
@@ -656,7 +662,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 4.6k • 🔱 248 • 6h ago
+⭐ 4.6k • 🔱 250 • 8h ago
 
 ---
 
@@ -666,7 +672,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 4.0k • 🔱 406 • 3h ago
+⭐ 4.0k • 🔱 411 • 10m ago
 
 ---
 
@@ -676,7 +682,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 3.8k • 🔱 417 • 6h ago
+⭐ 3.9k • 🔱 418 • 7h ago
 
 ---
 
@@ -686,7 +692,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 913 • 2d ago
+⭐ 3.1k • 🔱 922 • 2d ago
 
 ---
 
@@ -696,7 +702,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.4k • 🔱 159 • 7h ago
+⭐ 2.4k • 🔱 159 • 33m ago
 
 ---
 
@@ -706,7 +712,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.3k • 🔱 238 • 2h ago
+⭐ 2.3k • 🔱 238 • 4h ago
 
 ---
 
