@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-19T18:21:14.092484+00:00'
+updated: '2026-05-19T20:13:42.998688+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 19, 2026 at 18:21 UTC  
+**Last Updated:** May 19, 2026 at 20:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDynamics/status/2056344756926460103 https://xcancel.com/BostonDynamics/status/2056344756926460103 Blog post: Training a Humanoid Robot for Hard Work: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/
 
-16h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDyn
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
 Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
 
-1h ago
+3h ago
 
 ---
 
@@ -60,13 +60,13 @@ Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbi
 
 New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
 
-5h ago
+7h ago
 
 ---
 
 **[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -74,7 +74,13 @@ New head and neck designs complete and assembled, the old head is now a nice sou
 
 I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
 
-3h ago
+5h ago
+
+---
+
+**[Anyone around Vancouver/Burnaby building autonomous drones or robotics projects or FPV pilots?](https://www.reddit.com/r/robotics/comments/1thuwb5/anyone_around_vancouverburnaby_building/)**
+
+2h ago
 
 ---
 
@@ -88,7 +94,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 **[GITAI’s R1 Rover Passes Mock Moon Surface Tests for Future Lunar Missions](https://www.reddit.com/r/robotics/comments/1tgw5kv/gitais_r1_rover_passes_mock_moon_surface_tests/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -96,15 +102,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 Hi guys, I’ve been working on a small ROS 2 project for AMR/AGV-style mobile robots. Problem: A robot may still be receiving valid velocity commands, but its physical motion no longer matches the command stream. Examples: - wheel slip on wet / oily floors - odometry mismatch - localization jumps - stale / bursty velocity commands - robot starts shaking or over-correcting before safety lidar / hardware E-stop cuts in A normal timeout only checks: Did a command arrive recently? It does not check: Is the robot still moving according to the command it was just given? So I built a small inline ROS 2 topic filter: /cmd_vel → Kinematic Guard → /safe_cmd_vel ↑ /odom It has a passive observe mode first, so it can run without taking over control. Example status: { "status": "RESYNCING", "causalAlignment": "BROKEN", "dominantCause": "WHEEL_SLIP", "guardAction": "BRAKE_AND_RESYNC" } The demo does not need a real robot, Gazebo, or Isaac Sim. It uses a lightweight mock AMR/AGV and injects wheel slip. GitHub: https://github.com/ZC502/ros2_kinematic_guard ROS Discourse discussion: https://discourse.openrobotics.org/t/detecting-execution-collapse-before-hard-e-stop-ros2-kinematic-guard-for-ros-2-amr-agv/54944 I’d be interested in feedback from people who have dealt with mobile robot slip, odometry jumps, or unexpected hard E-stop events in the field.
 
-6h ago
-
----
-
-**[**Stable Direct Tangent Identities for SAS Triangles** – A faster and more numerically stable alternative to Law of Cosines (especially for robotics)](https://www.reddit.com/r/robotics/comments/1thvdwv/stable_direct_tangent_identities_for_sas/)**
-
-Hi r/robotics, I created a small open-source library focused on **direct tangent identities** for solving Side-Angle-Side (SAS) triangles. The main motivation was to improve numerical stability in planar inverse kinematics, particularly near singularities (when robotic links are nearly straight). ### Why this matters: - Traditional Law of Cosines can suffer from catastrophic cancellation when β ≈ 0° or 180° - My method uses `atan2` + direct tangent formula → much more stable - ~2.2x faster in benchmarks - Clean PyTorch differentiable version included ### Features: - Full symmetric set of direct tangent identities - Robust 2-Link Planar IK (elbow up & down) - Vectorized + PyTorch support - Medical imaging utility (e.g. costophrenic angle in chest X-rays) GitHub: https://github.com/mbewejoseph72-debug/stable-tangent-kinematics Would love feedback from the community — especially on the IK implementation and possible extensions (3D, more DOF, etc.). Examples, benchmarks, and performance plots are in the repo. Looking forward to your thoughts!
-
-4m ago
+7h ago
 
 ---
 
@@ -116,7 +114,7 @@ Hi r/robotics, I created a small open-source library focused on **direct tangent
 
 Rivian believes robotics are an important element of its future.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -126,27 +124,19 @@ Barron's • 1d ago
 
 ---
 
-**[Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It](https://finance.yahoo.com/markets/stocks/articles/forget-tesla-robotics-company-actually-145701916.html)**
+**[CUHK Launches Hong Kong’s First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
 
-Everyone is still glued to Tesla (NASDAQ:TSLA) because a Q1 earnings beat, the robotaxi pitch, and the Optimus humanoid tease have convinced retail traders the autonomy story finally pays off this year. The Tesla Trade Is Crowded and Priced for a Miracle Tesla carries a P/E of 406 and a free cash flow yield of ... Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It
+CUHK’s Hong Kong Embodied AI Lab aims to advance humanoid robotics, logistics automation, and industry partnerships across embodied AI.
 
-Yahoo Finance • 3h ago
-
----
-
-**[22. Carbon Robotics](https://www.cnbc.com/2026/05/19/carbon-robotics-cnbc-disruptor-50-ranking.html)**
-
-Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
-
-CNBC • 8h ago
+eWeek • 20h ago
 
 ---
 
-**[Figure AI had one of its robots race an intern to sort packages. See who lost.](https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5)**
+**[China Wants Humanoid Robots to Carry IDs as Mass Production Nears](https://www.eweek.com/news/china-robot-ids-apac/)**
 
-Figure AI's intern outperformed a humanoid robot in a package sorting contest, highlighting the challenges in robotics automation.
+China’s humanoid robot ID plan shows how the country is preparing for mass deployment, accountability, safety risks, and wider real-world use.
 
-Business Insider • 9h ago
+eWeek • 3h ago
 
 ---
 
@@ -154,35 +144,43 @@ Business Insider • 9h ago
 
 Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
 
-Forbes • 9h ago
+Forbes • 11h ago
 
 ---
 
-**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
+**[22. Carbon Robotics](https://www.cnbc.com/2026/05/19/carbon-robotics-cnbc-disruptor-50-ranking.html)**
 
-Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
+Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
 
-eWeek • 4h ago
+CNBC • 10h ago
+
+---
+
+**[Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It](https://finance.yahoo.com/markets/stocks/articles/forget-tesla-robotics-company-actually-145701916.html)**
+
+Everyone is still glued to Tesla (NASDAQ:TSLA) because a Q1 earnings beat, the robotaxi pitch, and the Optimus humanoid tease have convinced retail traders the autonomy story finally pays off this year. The Tesla Trade Is Crowded and Priced for a Miracle Tesla carries a P/E of 406 and a free cash flow yield of ... Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It
+
+Yahoo Finance • 5h ago
+
+---
+
+**[St. Louis uses Disney tactic to hide blighted buildings ahead of major convention](https://www.bizjournals.com/stlouis/news/2026/05/19/gsl-beautify-railway-exchange-st-louis.html)**
+
+The Business Journals • 15m ago
 
 ---
 
 **[Dexterous Robotic Hand Maker Linkerbot Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-05-19/dexterous-robotic-hand-maker-linkerbot-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Local robotics team takes home first place at state championship](https://www.wkbn.com/news/local-news/austintown-news/local-robotics-team-takes-home-first-place-at-state-championship/)**
+**[5 Robotics Stocks to Watch as Physical AI Builds Momentum](https://www.marketbeat.com/originals/5-robotics-stocks-to-watch-as-physical-ai-builds-momentum/)**
 
-WKBN.com • 1d ago
+As AI moves from the digital world into the physical one, robotics stocks are emerging as one of the market's most compelling early-stage opportunities.
 
----
-
-**[New drone‑mounted robot transforms high‑voltage maintenance in Israel](https://www.jpost.com/business-and-innovation/article-896735)**
-
-Replacing helicopters with robotics, the IEC’s new drone system promises safer crews, lower costs, and a smarter national grid.
-
-The Jerusalem Post • 1h ago
+MarketBeat • 1d ago
 
 ---
 
@@ -196,17 +194,17 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 6K • 👍 181 • 💬 112 • ⏱️ 16:12 • 1d ago
+👁️ 7K • 👍 196 • 💬 137 • ⏱️ 16:12 • 1d ago
 
 ---
 
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
+**[F.03 Livestream - Day 7 | Over 144 consecutive hours and 179K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
 
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
+Watch a team of humanoid robots running a full 144+ Hour shift at human performance levels. This is fully autonomous running ...
 
-📺 Technology with Tyler
+📺 Figure
 
-👁️ 51K • 👍 1K • 💬 199 • ⏱️ 21:16 • 6d ago
+👁️ 2.8M • 👍 43K • 6d ago
 
 ---
 
@@ -216,17 +214,17 @@ War Robots Gameplay: NEW Robot SHOGGOTH with 650k Shields Here's my New Channel 
 
 📺 Manni-Gaming
 
-👁️ 23K • 👍 827 • 💬 142 • ⏱️ 19:38 • 2d ago
+👁️ 24K • 👍 844 • 💬 144 • ⏱️ 19:38 • 2d ago
 
 ---
 
-**[F.03 Livestream - Day 6 | Over 119 consecutive hours and 149K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
 
-Watch a team of humanoid robots running a full 119+ Hour shift at human performance levels. This is fully autonomous running ...
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
 
-📺 Figure
+📺 Technology with Tyler
 
-👁️ 2.8M • 👍 42K • 6d ago
+👁️ 53K • 👍 1K • 💬 206 • ⏱️ 21:16 • 6d ago
 
 ---
 
@@ -240,23 +238,33 @@ Unitree Robotics has unveiled the GD01 — the world's first mass-produced ridea
 
 ---
 
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+
+📺 ShortCircuit
+
+👁️ 147K • 👍 6K • 💬 814 • ⏱️ 15:32 • 3d ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+
+Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+
+📺 NBC News
+
+👁️ 88K • 👍 770 • 💬 270 • ⏱️ 3:00 • 4d ago
+
+---
+
 **[Figure AI&#39;s Humanoid Robots Just Worked a Full 8-Hour Shift... All on Their Own](https://www.youtube.com/watch?v=zn148HDKcmk)**
 
 Discover deep-dive engineering stories and breakthrough technologies on Interesting Engineering: ...
 
 📺 Interesting Engineering
 
-👁️ 49K • 👍 499 • 💬 142 • ⏱️ 1:30 • 5d ago
-
----
-
-**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
-
-A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
-
-📺 CBS TEXAS
-
-👁️ 387K • 👍 7K • 💬 2K • ⏱️ 3:03 • 5d ago
+👁️ 49K • 👍 501 • 💬 142 • ⏱️ 1:30 • 5d ago
 
 ---
 
@@ -266,27 +274,17 @@ LimX Dynamics' TRON 2 is entering the retail space, completing a real-world asse
 
 📺 LimX Dynamics
 
-👁️ 317 • 👍 23 • 💬 5 • ⏱️ 1:50 • 5h ago
+👁️ 499 • 👍 31 • 💬 10 • ⏱️ 1:50 • 7h ago
 
 ---
 
-**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
+**[AI Robots Just Unlocked Human-Level Skills… This Changes EVERYTHING](https://www.youtube.com/watch?v=xHxLB28wFxY)**
 
-Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
+You're NOT ready for what just dropped in the world of robotics this week... Boston Dynamics Atlas pulled off a flawless handstand ...
 
-📺 Bloomberg Technology
+📺 The AI Nexus
 
-👁️ 64K • 👍 921 • 💬 330 • ⏱️ 6:19 • 3d ago
-
----
-
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
-
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
-
-📺 ShortCircuit
-
-👁️ 145K • 👍 6K • 💬 807 • ⏱️ 15:32 • 3d ago
+👁️ 13K • 👍 249 • 💬 26 • ⏱️ 55:02 • 6d ago
 
 ---
 
