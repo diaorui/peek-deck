@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-19T21:54:25.069445+00:00'
+updated: '2026-05-19T23:02:53.488793+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 21:54 UTC  
+**Last Updated:** May 19, 2026 at 23:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -6.2%  
-**30d:** -8.4%  
-**90d:** +8.8%  
-**1y:** -16.0%  
+**24h:** -1.4%  
+**7d:** -6.7%  
+**30d:** -8.9%  
+**90d:** +8.1%  
+**1y:** -16.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 23h ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 Bitcoin opened at $76,952.05 today, down 0.6% from yesterday’s opening price. Today’s opening price is bitcoin’s lowest since May 1. Ethereum opened at $2,128.55, flat with yesterday’s opening value. The price of ethereum was $2,115.84 as of 7:12 a.m. ET.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -179,6 +179,14 @@ Yahoo Finance • 10h ago
 A contracting float against any meaningful demand recovery has historically been a constructive setup for price.
 
 The Block • 1d ago
+
+---
+
+**[What’s Dragging Ethereum Down? BitMine’s Tom Lee Has an Answer](https://finance.yahoo.com/markets/crypto/articles/dragging-ethereum-down-bitmine-tom-042528976.html)**
+
+Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,14 +204,6 @@ PR Newswire • 1d ago
 
 ---
 
-**[Why is Tom Lee calling Ethereum’s latest price drop a buying opportunity?](https://www.tradingview.com/news/invezz:7fe920020094b:0-why-is-tom-lee-calling-ethereum-s-latest-price-drop-a-buying-opportunity/)**
-
-Fundstrat’s Tom Lee reiterated his bullish long-term outlook while Bitmine Immersion Technologies disclosed another major Ether purchase during the recent market pullback, even as the flagship altcoin remained under pressure.Ethereum price is down roughly 8% in the past 7 days, as per Coingecko dat…
-
-TradingView • 15h ago
-
----
-
 **[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
 
 Barron's • 1d ago
@@ -214,7 +214,7 @@ Barron's • 1d ago
 
 The Ethereum Foundation saw the resignations of two top researchers on Monday, bringing the total number of high-profile departures at the organization to at least eight in recent months.Julian Ma and Carl Beek, both researchers at the Ethereum Foundation, ended their respective four and seven-year…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -230,23 +230,23 @@ XRP trades at $1.38, while Ethereum trades around $2,119, and Solana trades at $
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=wSIxg3iKT3U)**
-
-Go to buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon for sponsoring! My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 2K • 👍 107 • 💬 47 • ⏱️ 13:32 • 5h ago
-
----
-
 **[$125 Million ETH Stimulus Check Incoming💸Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=RyC82ou1veQ)**
 
 Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a private investment vehicle that will deploy ...
 
 📺 Paul Barron Network
 
-👁️ 2K • 👍 209 • 💬 54 • ⏱️ 32:50 • 2h ago
+👁️ 7K • 👍 655 • 💬 104 • ⏱️ 32:50 • 3h ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=wSIxg3iKT3U)**
+
+Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon for sponsoring! My FREE Daily 5-Min ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 137 • 💬 43 • ⏱️ 13:32 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 256 • 💬 74 • ⏱️ 9:29 • 1d ago
+👁️ 5K • 👍 256 • 💬 72 • ⏱️ 9:29 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 209 • 👍 17 • 💬 51 • ⏱️ 3:30 • 6h ago
+👁️ 355 • 👍 19 • 💬 9 • ⏱️ 3:30 • 7h ago
 
 ---
 
@@ -276,7 +276,17 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 
 📺 Alexander Lorenzo
 
-👁️ 8K • 👍 796 • 💬 137 • ⏱️ 2:31 • 7h ago
+👁️ 12K • 👍 1K • 💬 105 • ⏱️ 2:31 • 8h ago
+
+---
+
+**[⚠️ Bitcoin Might Drop 50% Soon!](https://www.youtube.com/watch?v=UcGWHpSjQ94)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 77 • 💬 12 • ⏱️ 9:52 • 11h ago
 
 ---
 
@@ -290,23 +300,23 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 ---
 
-**[⚠️ Bitcoin Might Drop 50% Soon!](https://www.youtube.com/watch?v=UcGWHpSjQ94)**
+**[ETHEREUM KORREKTUR BEENDET !!! NÄCHSTES ZIEL 3.000$ !!!](https://www.youtube.com/watch?v=3TEeRZIbwIk)**
 
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Einzahlungsaktion ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 RSFM
 
-👁️ 2K • 👍 72 • 💬 11 • ⏱️ 9:52 • 10h ago
+👁️ 2K • 👍 356 • 💬 64 • ⏱️ 10:39 • 9h ago
 
 ---
 
-**[Bottom IN?🚨SEC Tokenizes, Fund Flows &amp; SpaceX’s + SPACE GPU! 🚀🧠](https://www.youtube.com/watch?v=QVu7DFSHQr0)**
+**[AI GPU Rentals feels like Ethereum GPU Mining Again.](https://www.youtube.com/watch?v=mfQE_CptyLA)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Terra Compute https://terracompute.ai/#redpandamining Enterprise-grade GPU infrastructure hosted in a professional US data ...
 
-📺 InvestAnswers
+📺 Red Panda Mining
 
-👁️ 1K • 👍 193 • 2h ago
+👁️ 4K • 👍 300 • 💬 67 • ⏱️ 18:17 • 11h ago
 
 ---
 
@@ -316,17 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 486 • 💬 58 • ⏱️ 23:02 • 2d ago
-
----
-
-**[ETHEREUM KORREKTUR BEENDET !!! NÄCHSTES ZIEL 3.000$ !!!](https://www.youtube.com/watch?v=3TEeRZIbwIk)**
-
-bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Einzahlungsaktion ...
-
-📺 RSFM
-
-👁️ 1K • 👍 329 • 💬 72 • ⏱️ 10:39 • 8h ago
+👁️ 21K • 👍 486 • 💬 59 • ⏱️ 23:02 • 2d ago
 
 ---
 

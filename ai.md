@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-19T21:54:25.055170+00:00'
+updated: '2026-05-19T23:02:53.476037+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 19, 2026 at 21:54 UTC  
+**Last Updated:** May 19, 2026 at 23:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I like dashes--both the long and the short. They help me communicate! But now (when I use them) I'm flagged. I'm Artificial. I'm a fake. I've lost my right to write as I please. But seriously, college students now purposefully leave grammar errors in their essays and dumb down their punctuation to avoid being flagged as AI users. Then they run the product through AI and ask the AI to decide if it's AI and edit it to make it less AI.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ I like dashes--both the long and the short. They help me communicate! But now (w
 
 Not even in a malicious way necessarily, but it already feels harder to tell what was written, edited, or assisted by AI sometimes. Feels like in a few years most online content will probably involve AI somewhere in the process without people thinking twice about it.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,13 +57,13 @@ Not even in a malicious way necessarily, but it already feels harder to tell wha
 
 A fact-check into a 1989 terror attack led Anthropic's flagship model to cite Iranian state media. The transcript shows how it happened.
 
-🔗 [neutralpov.com](https://www.neutralpov.com/p/claude-is-citing-iranian-state-media) • 47m ago
+🔗 [neutralpov.com](https://www.neutralpov.com/p/claude-is-citing-iranian-state-media) • 1h ago
 
 ---
 
 **[Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.reddit.com/r/artificial/comments/1thtite/book_on_truth_in_the_age_of_ai_contains_quotes/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?unlocked_article_code=1.jlA.lQiD.-NWf4Mb2GtWZ&smid=url-share) • 4h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?unlocked_article_code=1.jlA.lQiD.-NWf4Mb2GtWZ&smid=url-share) • 5h ago
 
 ---
 
@@ -71,7 +71,15 @@ A fact-check into a 1989 terror attack led Anthropic's flagship model to cite Ir
 
 Meta stock is in focus as $56B revenue in Q1 2026, yet is cutting 8,000 jobs to fund a $145B AI budget. Median employee pay fell $29K.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/) • 6h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/) • 7h ago
+
+---
+
+**[I built a live ranking of every AI agent and foundation model (open source)](https://www.reddit.com/r/artificial/comments/1ti1pio/i_built_a_live_ranking_of_every_ai_agent_and/)**
+
+I built AgentTape because none of the existing model leaderboards quite cover all the things that I was interested in: benchmark performance is one part, but so is who's actually using a model, who's talking about it, and how it compared on cost and speed. It pulls hourly data from GitHub, Hugging Face, OpenRouter, MCP registries, npm, PyPI, arXiv, Hacker News, and more - to score and compare each public AI agent and foundation model. I'm still tweaking the scoring methodology (it's early days), so I'd love to hear your thoughts, if it's helpful, or anything you think I've got wrong!
+
+1h ago
 
 ---
 
@@ -79,7 +87,7 @@ Meta stock is in focus as $56B revenue in Q1 2026, yet is cutting 8,000 jobs to 
 
 Claude Design can make great animations, but getting to a final video is a bit hard. The audio is missing. Even if you use a TTS model, it does not align. Here is the process I used to get the video above Get Claude to write a good script Feed the script to a Text to Speech (TTS) model to get the audio Feed the audio to a Speech to Text (STT) model to get key timestampes Use the script and the STT output to Claude Design to get a video that's aligned with your audio Use Claude Video export to put it all together into an MP4 with audio The complete breakdown with all prompts is here: https://claudevideoexport.com/blog/how-to-make-professional-explainer-video-under-1-dollar
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +95,7 @@ Claude Design can make great animations, but getting to a final video is a bit h
 
 https://preview.redd.it/i4gwu2hov42h1.png?width=557&format=png&auto=webp&s=04b88927198c0c857d054da70c2927ab7ce6f06c what do you guys think, what can we expect
 
-3h ago
+5h ago
 
 ---
 
@@ -99,19 +107,11 @@ A federal court on Monday dismissed claims filed against OpenAI and its top exec
 
 ---
 
-**[Boomers when you copy and paste what Claude output](https://www.reddit.com/r/artificial/comments/1ti1csw/boomers_when_you_copy_and_paste_what_claude_output/)**
+**[[Virtual] AI Saturdays - Workflow Automation with AI (23rd May, 6 PM ET)](https://www.reddit.com/r/artificial/comments/1ti26ph/virtual_ai_saturdays_workflow_automation_with_ai/)**
 
-Pick up when I call” is such an alpha way of ending an email But honestly why are boomers so impressed with slop
+Hosting this Saturday's AI Saturdays session on workflow automation with AI. The idea: most jobs have recurring tasks that look the same every week. Read the email, pull out the key info, log it somewhere, send a follow-up. Tools like n8n and Make let you chain AI into those flows so the work runs on its own. We'll look at how the pieces fit together with AI. Link: https://www.meetup.com/chillnskill/events/314617067/
 
-12m ago
-
----
-
-**[Are AI agents actually becoming productive, or just more capable?](https://www.reddit.com/r/artificial/comments/1thnkez/are_ai_agents_actually_becoming_productive_or/)**
-
-I'm seeing AI agents get much better at writing, coding, planning, searching, and using tools. But I’m still not sure whether this has fully translated into real productivity. For me, there seems to be a gap between the agent can generate a useful output and the agent can reliably move work from intention to outcome inside a real organization. In your view, is this gap mainly solved already?
-
-8h ago
+49m ago
 
 ---
 
@@ -119,65 +119,17 @@ I'm seeing AI agents get much better at writing, coding, planning, searching, an
 
 ## Google News: "ai"
 
-**[Google is making its biggest change to the search bar in years](https://www.cnn.com/2026/05/19/tech/google-search-bar-updates-2026)**
+**[Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html)**
 
-To get ahead in the new internet age, Google wants to help you google less.
-
-CNN • 4h ago
+The New York Times • 5h ago
 
 ---
 
-**[A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/)**
+**[Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic](https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html)**
 
-We shared the next step in our journey to bring together the best of a search engine with the best of AI.
+Google made a number of AI announcements at its annual developer conference, rolling out more-advanced models and agentic tools for its expansive user base.
 
-blog.google • 4h ago
-
----
-
-**[Google’s Ambitious AI Search Changes Are Risky. Here’s Why](https://www.inc.com/connor-jewiss/googles-ambitious-ai-search-changes-are-risky-heres-why/91347071)**
-
-Google says its new AI-powered experience will help people search more. But will it surface information that's reliably true?
-
-inc.com • 22m ago
-
----
-
-**[Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)**
-
-The New York Times • 7h ago
-
----
-
-**[Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html)**
-
-Meta told employees last month that it would carry out mass layoffs on May 20, as the Silicon Valley giant tries to transform into an A.I.-first company.
-
-The New York Times • 1h ago
-
----
-
-**[Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’](https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers)**
-
-Some employees will be moved to new teams focused on AI agents and cloud infrastructure
-
-The Guardian • 3h ago
-
----
-
-**[Meta outlines AI restructuring as layoffs set for May 20](https://www.usatoday.com/story/money/2026/05/19/meta-ai-layoffs-may-20/90164481007/)**
-
-The Facebook owner is planning to lay off 10% of its employees on Wednesday, with additional deep cuts slated to come later this year.
-
-USA Today • 1h ago
-
----
-
-**[AI data centers met with growing opposition across US](https://finance.yahoo.com/video/ai-data-centers-met-growing-213000642.html)**
-
-Asking for a Trend Host Josh Lipton and Yahoo Finance Senior Reporter Brooke DiPalma track several of the day's top trending stories and stock tickers, including the public backlash to AI data center projects in the US.
-
-Yahoo Finance • 23m ago
+CNBC • 5h ago
 
 ---
 
@@ -185,7 +137,49 @@ Yahoo Finance • 23m ago
 
 Google says it's designed the app to be accessible to everyone, from teachers to small business owners.
 
-TechCrunch • 20m ago
+TechCrunch • 1h ago
+
+---
+
+**[‘The Future of Truth’ Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal](https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/)**
+
+Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They're certainly not alone.
+
+WIRED • 9m ago
+
+---
+
+**[‘Obvious markers of AI’: doubts raised over winner of short story prize](https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence)**
+
+Granta publisher says ‘perhaps we never will know’ true authorship of work that won Commonwealth prize
+
+The Guardian • 2h ago
+
+---
+
+**[Did AI Write This Prizewinning Story?](https://www.thefp.com/p/ai-generated-literature-controversy)**
+
+Jamir Nazir’s short story was awarded the prestigious Commonwealth Prize. Days later, he was accused of using AI to write it, writes Novi Zhukovsky.
+
+The Free Press • 4h ago
+
+---
+
+**[House foreign affairs chair warns AI sales to China could make America a ‘loser’](https://www.scmp.com/news/us/economy-trade-business/article/3354153/us-house-foreign-affairs-chair-warns-ai-sales-china-could-make-america-loser)**
+
+South China Morning Post • 37m ago
+
+---
+
+**[Quantum-scale simulations and AI uncover promising 2D perovskites for future energy tech](https://phys.org/news/2026-05-quantum-scale-simulations-ai-uncover.html)**
+
+Phys.org • 42m ago
 
 ---
 
@@ -193,7 +187,7 @@ TechCrunch • 20m ago
 
 The inside story of how Mikel Arteta turned Arsenal from 'nearly men' into Premier League winners.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -205,7 +199,7 @@ BBC • 1h ago
 
 Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.
 
-⬆️ 664 • 💬 446 • 2d ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+⬆️ 665 • 💬 447 • 2d ago • [frederickvanbrabant.com](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 
 ---
 
@@ -213,7 +207,7 @@ Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the in
 
 Is it the end of open source we know and love?
 
-⬆️ 487 • 💬 234 • 1d ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
+⬆️ 488 • 💬 234 • 1d ago • [archestra.ai](https://archestra.ai/blog/only-responsible-ai)
 
 ---
 
@@ -237,7 +231,7 @@ Every AI lab is losing money serving your company right now. They know it. And t
 
 Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.
 
-⬆️ 364 • 💬 385 • 1d ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
+⬆️ 365 • 💬 385 • 1d ago • [NBC News](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
 
 ---
 
@@ -251,7 +245,7 @@ Four AI models run radio stations 24/7. Five months later, one became a protest 
 
 **[AI eats the world (Spring 26) [pdf]](https://news.ycombinator.com/item?id=48179021)**
 
-⬆️ 292 • 💬 153 • 1d ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+⬆️ 292 • 💬 155 • 1d ago • [static1.squarespace.com](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
 
 ---
 
@@ -267,7 +261,7 @@ All four crew members ejected safely after two Navy jets collided and crashed on
 
 Former Google CEO Eric Schmidt was booed multiple times Sunday while discussing artificial intelligence during a commencement speech at the University of Arizona. Other commencement speakers faced similar backlash for their AI comments, as new graduates face a daunting job market. NBC News’ Valerie Castro reports.
 
-⬆️ 160 • 💬 167 • 1d ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
+⬆️ 161 • 💬 167 • 1d ago • [NBC News](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
 
 ---
 
@@ -299,7 +293,7 @@ Former Google CEO Eric Schmidt was loudly booed during a University of Arizona c
 
 📺 Valuetainment
 
-👁️ 13K • 👍 413 • 💬 109 • ⏱️ 10:23 • 8h ago
+👁️ 13K • 👍 413 • 💬 109 • ⏱️ 10:23 • 10h ago
 
 ---
 
@@ -309,7 +303,7 @@ Eric Schmidt, former CEO of Google, told a Stanford classroom that the next gene
 
 📺 Neural Nutshell
 
-👁️ 3K • 👍 114 • 💬 12 • ⏱️ 17:34 • 5h ago
+👁️ 3K • 👍 114 • 💬 12 • ⏱️ 17:34 • 6h ago
 
 ---
 
@@ -319,7 +313,7 @@ Axios Senior AI Reporter Madison Mills breaks down what's behind the wave of cri
 
 📺 ABC News
 
-👁️ 18K • 👍 492 • 💬 317 • ⏱️ 4:06 • 8h ago
+👁️ 18K • 👍 492 • 💬 317 • ⏱️ 4:06 • 9h ago
 
 ---
 
@@ -329,7 +323,7 @@ I Figured out How To Make Realistic AI Videos of yourself Tool I used https://hi
 
 📺 Dan Kieft
 
-👁️ 20K • 💬 25 • ⏱️ 18:01 • 8h ago
+👁️ 20K • 💬 25 • ⏱️ 18:01 • 9h ago
 
 ---
 
@@ -339,7 +333,7 @@ Best Apple Deals: AirPods Pro 3 - https://amzn.to/4w7FHE9 (Under $200!!) M5 MacB
 
 📺 9to5Mac
 
-👁️ 6K • 👍 528 • 💬 55 • ⏱️ 10:06 • 2h ago
+👁️ 6K • 👍 528 • 💬 55 • ⏱️ 10:06 • 3h ago
 
 ---
 
@@ -359,7 +353,7 @@ Krystal and Saagar discuss students across the country erupting in boos over pro
 
 📺 Breaking Points
 
-👁️ 57K • 👍 3K • 💬 832 • ⏱️ 16:38 • 4h ago
+👁️ 57K • 👍 3K • 💬 832 • ⏱️ 16:38 • 5h ago
 
 ---
 
@@ -379,7 +373,7 @@ LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: h
 
 📺 CNBC
 
-👁️ 15K • 👍 520 • 💬 45 • ⏱️ 14:03 • 4h ago
+👁️ 15K • 👍 520 • 💬 45 • ⏱️ 14:03 • 6h ago
 
 ---
 
@@ -395,7 +389,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,114,657 • ❤️ 1,166 • 2d ago
+⬇️ 1,114,657 • ❤️ 1,171 • 2d ago
 
 ---
 
@@ -407,7 +401,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 144,826 • ❤️ 800 • 7h ago
+⬇️ 144,826 • ❤️ 803 • 9h ago
 
 ---
 
@@ -419,7 +413,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 28,681 • ❤️ 462 • 1d ago
+⬇️ 28,681 • ❤️ 466 • 1d ago
 
 ---
 
@@ -431,7 +425,7 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 `any-to-any`
 
-⬇️ 171 • ❤️ 287 • 5h ago
+⬇️ 171 • ❤️ 299 • 6h ago
 
 ---
 
@@ -443,7 +437,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 337,076 • ❤️ 324 • 1d ago
+⬇️ 337,076 • ❤️ 327 • 1d ago
 
 ---
 
@@ -455,7 +449,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 296,380 • ❤️ 269 • 1d ago
+⬇️ 296,380 • ❤️ 270 • 1d ago
 
 ---
 
@@ -477,7 +471,7 @@ Dramabox is an expressive text-to-speech model fine-tuned from LTX-2.3, capable 
 
 `text-to-speech`
 
-⬇️ 1,118 • ❤️ 176 • 6d ago
+⬇️ 1,118 • ❤️ 179 • 6d ago
 
 ---
 
@@ -489,7 +483,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 3,622,763 • ❤️ 4,062 • 13d ago
+⬇️ 3,622,763 • ❤️ 4,066 • 13d ago
 
 ---
 
@@ -499,7 +493,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 Provides fixed Jinja chat templates for Qwen 3.5 & 3.6 models, resolving issues with tool calling, KV cache hit rates, and agentic loop stability for improved conversational AI and tool interaction.
 
-⬇️ 0 • ❤️ 307 • 3d ago
+⬇️ 0 • ❤️ 310 • 3d ago
 
 ---
 
@@ -554,7 +548,7 @@ Lance is a unified multimodal model that combines understanding, generation, and
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 8 • 💬 0 • ⭐ 18,164 • 5mo ago
+▲ 8 • 💬 0 • ⭐ 18,230 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
 
@@ -587,20 +581,6 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 ---
 
-**[MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527)**
-
-*Kangning Zhang, Shuai Shao, Qingyao Li et al. (11 authors)*
-
-🏢 Shanghai Jiaotong University 1(NOT OFFICIAL)
-
-Multimodal procedural knowledge frameworks enable visual agents to leverage external reusable skills through structured representations combining text, state cards, and visual keyframes, improving decision-making in complex environments.
-
-▲ 110 • 💬 2 • ⭐ 123 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.13527) • [💻 code](https://github.com/DeepExperience/MMSkills) • [🔗 project](https://deepexperience.github.io/MMSkills/)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -608,7 +588,7 @@ Multimodal procedural knowledge frameworks enable visual agents to leverage exte
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 78 • 💬 7 • ⭐ 74,096 • 22mo ago
+▲ 78 • 💬 7 • ⭐ 74,171 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -636,9 +616,21 @@ Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelit
 
 LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
 
-▲ 87 • 💬 1 • ⭐ 1,270 • 2d ago
+▲ 90 • 💬 1 • ⭐ 1,270 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 35 • 💬 3 • ⭐ 25,335 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -652,7 +644,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 10.3k • 🔱 824 • 6h ago
+⭐ 10.3k • 🔱 824 • 7h ago
 
 ---
 
@@ -662,7 +654,7 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 `TypeScript` `agent` `agent-framework` `ai-agent` `ai-coding` `cli`
 
-⭐ 4.6k • 🔱 250 • 8h ago
+⭐ 4.6k • 🔱 250 • 9h ago
 
 ---
 
@@ -672,7 +664,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `TypeScript` `agents` `ai` `code-editor` `linux` `macos`
 
-⭐ 4.0k • 🔱 411 • 10m ago
+⭐ 4.0k • 🔱 411 • 1h ago
 
 ---
 
@@ -682,7 +674,7 @@ Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 3.9k • 🔱 418 • 7h ago
+⭐ 3.9k • 🔱 418 • 8h ago
 
 ---
 
@@ -702,7 +694,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.4k • 🔱 159 • 33m ago
+⭐ 2.4k • 🔱 159 • 1h ago
 
 ---
 
@@ -712,7 +704,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 `TypeScript` `ai-agent` `ai-assistant` `llm`
 
-⭐ 2.3k • 🔱 238 • 4h ago
+⭐ 2.3k • 🔱 238 • 5h ago
 
 ---
 
