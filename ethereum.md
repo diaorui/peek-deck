@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-19T09:45:23.123611+00:00'
+updated: '2026-05-19T12:39:47.879854+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 09:45 UTC  
+**Last Updated:** May 19, 2026 at 12:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,126.06
+### $2,114.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -6.3%  
-**30d:** -8.6%  
-**90d:** +8.6%  
-**1y:** -16.2%  
+**24h:** -0.7%  
+**7d:** -6.2%  
+**30d:** -8.5%  
+**90d:** +8.7%  
+**1y:** -16.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.17B
+**Market Cap:** $255.34B
 Rank #2
 
 **Circulating Supply:** 120,685,700 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.3%
+-57.2%
 
 **All-Time Low:** $0.43
-+488226.2%
++488422.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 11h ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
 
-19h ago
+22h ago
 
 ---
 
@@ -102,21 +102,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker](https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/)**
 
-20h ago
+23h ago
+
+---
+
+**[Uniswap alternative for large swaps?](https://www.reddit.com/r/ethereum/comments/1tfy50a/uniswap_alternative_for_large_swaps/)**
+
+Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated! [SOLVED] - Thanks for all advices, first time hearing about DEX aggregator, I basically tried https://flips.fi?r=57FKNF and got 1:1, grateful for the help.
+
+1d ago
 
 ---
 
 **[Cheapest way to convert stETH to ETH?](https://www.reddit.com/r/ethereum/comments/1tfvisj/cheapest_way_to_convert_steth_to_eth/)**
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks
-
-1d ago
-
----
-
-**[Uniswap alternative for large swaps?](https://www.reddit.com/r/ethereum/comments/1tfy50a/uniswap_alternative_for_large_swaps/)**
-
-Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
 
 1d ago
 
@@ -150,19 +150,57 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 ## Google News: "ethereum"
 
-**[Two more Ethereum Foundation researchers resign amid wave of departures](https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures)**
-
-Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.
-
-The Block • 16h ago
-
----
-
 **[Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns](https://decrypt.co/368264/bitcoin-faces-greater-quantum-computing-risk-ethereum-citi-warns)**
 
 Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.
 
-Decrypt • 12h ago
+Decrypt • 15h ago
+
+---
+
+**[Two more Ethereum Foundation researchers resign amid wave of departures](https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures)**
+
+Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.
+
+The Block • 19h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, May 19, 2026: Prices slide lower after Trump calls off attacks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-19-2026-prices-slide-lower-after-trump-calls-off-attacks-113905955.html)**
+
+Bitcoin opened at $76,952.05 today, down 0.6% from yesterday’s opening price. Today’s opening price is bitcoin’s lowest since May 1. Ethereum opened at $2,128.55, flat with yesterday’s opening value. The price of ethereum was $2,115.84 as of 7:12 a.m. ET.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Staking Surges as ETH Price Consolidates Amid Leadership Turmoil—What’s Next?](https://www.tradingview.com/news/coinpedia:841af9f13094b:0-ethereum-staking-surges-as-eth-price-consolidates-amid-leadership-turmoil-what-s-next/)**
+
+Ethereum continues to display a growing divergence between strengthening on-chain fundamentals and rising ecosystem uncertainty. While the ETH price remains trapped within a broader consolidation range, Ethereum staking has rebounded, reflecting strong long-term conviction among investors.At the sa…
+
+TradingView • 2h ago
+
+---
+
+**[Ethereum Price Slips 10% Behind Bitcoin as DeFi Engine Loses $43 Billion](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-slips-10-behind-093829904.html)**
+
+Ethereum price hovers at $2,140 as DeFi TVL collapses 41% from January and mid-term holders bail, raising risk of a 19% slide to $1,690.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Verus-Ethereum bridge loses $11 million as hackers keep targeting cross-chain infrastructure](https://www.coindesk.com/markets/2026/05/18/yet-another-crypto-bridge-falls-victim-to-an-usd11-million-hack)**
+
+CoinDesk • 1d ago
+
+---
+
+**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
+
+Success for a blockchain isn't always the same as success for investors.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -170,59 +208,21 @@ Decrypt • 12h ago
 
 Goldman Sachs fully exited its XRP and Solana ETF positions and cut Ethereum exposure by roughly 70% in Q1 2026. Harvard also reduced its Bitcoin ...
 
-Yahoo Finance • 19h ago
-
----
-
-**[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
-
-CoinDesk • 1h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
 
-Barron's • 22h ago
+Barron's • 1d ago
 
 ---
 
-**[Ethereum Foundation sees 2 more high-profile departures](https://www.tradingview.com/news/cointelegraph:22328c339094b:0-ethereum-foundation-sees-2-more-high-profile-departures/)**
+**[Bitmine Pivots To Ethereum Staking Yield As NYSE Uplisting Draws Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-pivots-ethereum-staking-yield-091827775.html)**
 
-The Ethereum Foundation saw the resignations of two top researchers on Monday, bringing the total number of high-profile departures at the organization to at least eight in recent months.Julian Ma and Carl Beek, both researchers at the Ethereum Foundation, ended their respective four and seven-year…
+Bitmine Immersion Technologies (NYSE:BMNR) is slowing its aggressive Ethereum accumulation strategy and shifting toward optimizing staking yield. The move aligns with management's view that the crypto winter is ending and that Ethereum offers attractive staking economics. The company recently uplisted to the NYSE, which has increased institutional investor visibility and trading liquidity. Bitmine Immersion Technologies, now trading on the NYSE under the ticker BMNR, operates in a corner of...
 
-TradingView • 2h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.28 Million Tokens, and Total Crypto and Total Cash Holdings of $12.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-28-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-6-billion-302774396.html)**
-
-Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
-
-PR Newswire • 21h ago
-
----
-
-**[Worth Speculating On Bit Digital's Bet On Ethereum And WhiteFiber (NASDAQ:BTBT)](https://seekingalpha.com/article/4906349-worth-speculating-on-bit-digital-bet-on-ethereum-and-whitefiber)**
-
-BTBT has shifted from Bitcoin mining toward becoming an ETH treasury management company with staking yield. However, that’s not the only bet with this stock.
-
-Seeking Alpha • 5m ago
-
----
-
-**[Harvard sold off its entire $87 million Ethereum stake just one quarter after buying it](https://fortune.com/2026/05/18/harvard-87-million-ethereum/)**
-
-The university was the largest new buyer of BlackRock’s Ethereum ETF in Q4 of 2025
-
-Fortune • 13h ago
-
----
-
-**[The Reason Ethereum Is Falling Has Nothing to Do With Crypto](https://beincrypto.com/ethereum-falling-tom-lee-oil-prices/)**
-
-Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
-
-BeInCrypto • 1d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 246 • 💬 63 • ⏱️ 9:29 • 18h ago
+👁️ 5K • 👍 249 • 💬 63 • ⏱️ 9:29 • 21h ago
 
 ---
 
@@ -256,17 +256,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCG9sT
 
 📺 Digital Outlook
 
-👁️ 8K • 💬 30 • ⏱️ 11:08 • 9h ago
-
----
-
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 465 • 💬 54 • ⏱️ 23:02 • 1d ago
+👁️ 9K • 💬 37 • ⏱️ 11:08 • 12h ago
 
 ---
 
@@ -276,7 +266,17 @@ BITCOIN PREDICTION: EVERYONE IS WRONG (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 7K • 👍 333 • 💬 57 • ⏱️ 19:27 • 10h ago
+👁️ 8K • 👍 350 • 💬 59 • ⏱️ 19:27 • 13h ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 471 • 💬 55 • ⏱️ 23:02 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 6K • 👍 720 • 💬 235 • ⏱️ 6:17 • 20h ago
+👁️ 7K • 👍 729 • 💬 243 • ⏱️ 6:17 • 23h ago
 
 ---
 
@@ -296,7 +296,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 66 • 💬 248 • ⏱️ 13:28 • 1d ago
+👁️ 2K • 👍 68 • 💬 250 • ⏱️ 13:28 • 1d ago
 
 ---
 
@@ -306,17 +306,7 @@ Even crypto investors dont seem to understand the amount of money and wealth the
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 698 • 💬 235 • ⏱️ 32:55 • 2d ago
-
----
-
-**[Ethereum’s Ultimate Proxy: Bitmine BMNR Is Exploding Higher Now! | BMNR Stock Analysis](https://www.youtube.com/watch?v=YDiYPmvWRIo)**
-
-Want help reading trading charts? You can check out VIP Indicators with up to 93% win rate here: ...
-
-📺 Investing Talk Podcast
-
-👁️ 280 • 👍 9 • 💬 1 • ⏱️ 14:16 • 13h ago
+👁️ 7K • 👍 704 • 💬 234 • ⏱️ 32:55 • 2d ago
 
 ---
 
@@ -326,7 +316,15 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 81K • 👍 5K • 💬 292 • ⏱️ 12:17 • 1d ago
+👁️ 81K • 👍 5K • 💬 293 • ⏱️ 12:17 • 1d ago
+
+---
+
+**[Harvard Just Dumped Their Entire Ethereum ETF](https://www.youtube.com/watch?v=6NEBMd-ODAw)**
+
+📺 ODES → All about crypto
+
+👁️ 672 • 👍 10 • ⏱️ 1:24 • 3h ago
 
 ---
 
