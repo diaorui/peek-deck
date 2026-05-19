@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-19T05:44:50.475973+00:00'
+updated: '2026-05-19T09:45:23.123611+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 05:44 UTC  
+**Last Updated:** May 19, 2026 at 09:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -5.4%  
-**30d:** -7.7%  
-**90d:** +9.6%  
-**1y:** -15.4%  
+**24h:** +0.0%  
+**7d:** -6.3%  
+**30d:** -8.6%  
+**90d:** +8.6%  
+**1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $257.34B
+**Market Cap:** $255.17B
 Rank #2
 
 **Circulating Supply:** 120,685,700 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.9%
+-57.3%
 
 **All-Time Low:** $0.43
-+492616.7%
++488226.2%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[The SEC Is About to Allow Tokenized Stocks on Blockchain](https://www.reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/)**
-
-The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
-
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 7h ago
-
----
-
 **[Daily General Discussion May 19, 2026](https://www.reddit.com/r/ethereum/comments/1thcqp2/daily_general_discussion_may_19_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-43m ago
+4h ago
+
+---
+
+**[The SEC Is About to Allow Tokenized Stocks on Blockchain](https://www.reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/)**
+
+The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
+
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
 
-15h ago
+19h ago
 
 ---
 
@@ -102,21 +102,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker](https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/)**
 
-16h ago
-
----
-
-**[Uniswap alternative for large swaps?](https://www.reddit.com/r/ethereum/comments/1tfy50a/uniswap_alternative_for_large_swaps/)**
-
-Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
-
-1d ago
+20h ago
 
 ---
 
 **[Cheapest way to convert stETH to ETH?](https://www.reddit.com/r/ethereum/comments/1tfvisj/cheapest_way_to_convert_steth_to_eth/)**
 
 I had no idea the Lido withdrawal process was this painful. Submitted my unstake request and got some NFT back, then waited 18 days just to manually claim my ETH. Missed the whole reason I needed it in the first place. Is there a faster way to get ETH out of a stETH position or is this just how it works? Feels like there has to be something I'm missing. Thanks
+
+1d ago
+
+---
+
+**[Uniswap alternative for large swaps?](https://www.reddit.com/r/ethereum/comments/1tfy50a/uniswap_alternative_for_large_swaps/)**
+
+Hi everyone, been using Uniswap for a while now but every time I try to swap anything above $10k the price impact just kills me. Did a $14k ETH to USDC swap last week and lost around $300 to slippage alone which seems way too much for such a common pair. Is there a better option for larger amounts or is there something I should be setting differently? Any advice appreciated!
 
 1d ago
 
@@ -154,7 +154,7 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.
 
-The Block • 12h ago
+The Block • 16h ago
 
 ---
 
@@ -162,21 +162,7 @@ The Block • 12h ago
 
 Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.
 
-Decrypt • 8h ago
-
----
-
-**[Bitmine Returns To Aggressive Ethereum Buys As Price Dips](https://finance.yahoo.com/markets/crypto/articles/bitmine-returns-aggressive-ethereum-buys-152900635.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) is once again aggressively buying Ethereum (CRYPTO: $ETH) as the price...
-
-Yahoo Finance • 14h ago
-
----
-
-**[Ethereum (ETH) news: Vitalik Buterin says AI verification could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
-
-CoinDesk • 15h ago
+Decrypt • 12h ago
 
 ---
 
@@ -184,21 +170,27 @@ CoinDesk • 15h ago
 
 Goldman Sachs fully exited its XRP and Solana ETF positions and cut Ethereum exposure by roughly 70% in Q1 2026. Harvard also reduced its Bitcoin ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
+
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
 
-Barron's • 18h ago
+Barron's • 22h ago
 
 ---
 
-**[XRP Is Crushing Ethereum and Solana in 1 Key Area, but Will It Matter for Holders?](https://www.fool.com/investing/2026/05/17/xrp-is-crushing-ethereum-and-solana-in-1-key-area/)**
+**[Ethereum Foundation sees 2 more high-profile departures](https://www.tradingview.com/news/cointelegraph:22328c339094b:0-ethereum-foundation-sees-2-more-high-profile-departures/)**
 
-Success for a blockchain isn't always the same as success for investors.
+The Ethereum Foundation saw the resignations of two top researchers on Monday, bringing the total number of high-profile departures at the organization to at least eight in recent months.Julian Ma and Carl Beek, both researchers at the Ethereum Foundation, ended their respective four and seven-year…
 
-The Motley Fool • 1d ago
+TradingView • 2h ago
 
 ---
 
@@ -206,7 +198,15 @@ The Motley Fool • 1d ago
 
 Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
 
-PR Newswire • 17h ago
+PR Newswire • 21h ago
+
+---
+
+**[Worth Speculating On Bit Digital's Bet On Ethereum And WhiteFiber (NASDAQ:BTBT)](https://seekingalpha.com/article/4906349-worth-speculating-on-bit-digital-bet-on-ethereum-and-whitefiber)**
+
+BTBT has shifted from Bitcoin mining toward becoming an ETH treasury management company with staking yield. However, that’s not the only bet with this stock.
+
+Seeking Alpha • 5m ago
 
 ---
 
@@ -214,15 +214,15 @@ PR Newswire • 17h ago
 
 The university was the largest new buyer of BlackRock’s Ethereum ETF in Q4 of 2025
 
-Fortune • 9h ago
+Fortune • 13h ago
 
 ---
 
-**[New Crypto: Pepeto Reveals DeFi Update Follow Dogecoin Success While Ethereum Price Prediction Targets $5,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-reveals-defi-update-follow-dogecoin-success-while-ethereum-price-prediction-targets-5-000-1036171480)**
+**[The Reason Ethereum Is Falling Has Nothing to Do With Crypto](https://beincrypto.com/ethereum-falling-tom-lee-oil-prices/)**
 
-Dubai, UAE, May  18, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto confirms ongoing progress on its DeFi tools, tools designed to res...
+Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
 
-markets.businessinsider.com • 15h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 237 • 💬 173 • ⏱️ 9:29 • 14h ago
+👁️ 4K • 👍 246 • 💬 63 • ⏱️ 9:29 • 18h ago
 
 ---
 
@@ -246,37 +246,7 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 2K • 💬 41 • ⏱️ 10:04 • 1d ago
-
----
-
-**[BITCOIN PREDICTION: EVERYONE IS WRONG (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VmdgLROuvTQ)**
-
-BITCOIN PREDICTION: EVERYONE IS WRONG (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 279 • 💬 59 • ⏱️ 19:27 • 6h ago
-
----
-
-**[Next Crypto Bull Run Can Make You Rich (Unlike Anything Else)](https://www.youtube.com/watch?v=d0gzEK3F-4s)**
-
-Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 283 • ⏱️ 8:37 • 1d ago
-
----
-
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 453 • 💬 53 • ⏱️ 23:02 • 1d ago
+👁️ 28K • 👍 2K • 💬 41 • ⏱️ 10:04 • 1d ago
 
 ---
 
@@ -286,7 +256,37 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCG9sT
 
 📺 Digital Outlook
 
-👁️ 6K • 💬 27 • ⏱️ 11:08 • 5h ago
+👁️ 8K • 💬 30 • ⏱️ 11:08 • 9h ago
+
+---
+
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 19K • 👍 465 • 💬 54 • ⏱️ 23:02 • 1d ago
+
+---
+
+**[BITCOIN PREDICTION: EVERYONE IS WRONG (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VmdgLROuvTQ)**
+
+BITCOIN PREDICTION: EVERYONE IS WRONG (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 333 • 💬 57 • ⏱️ 19:27 • 10h ago
+
+---
+
+**[Michael Saylor&#39;s Ethereum Tokens](https://www.youtube.com/watch?v=xbzUzrBaNPw)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Michael Saylor has been ...
+
+📺 Bitcoin University
+
+👁️ 6K • 👍 720 • 💬 235 • ⏱️ 6:17 • 20h ago
 
 ---
 
@@ -300,33 +300,33 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 ---
 
-**[Michael Saylor&#39;s Ethereum Tokens](https://www.youtube.com/watch?v=xbzUzrBaNPw)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Michael Saylor has been ...
-
-📺 Bitcoin University
-
-👁️ 6K • 👍 700 • 💬 227 • ⏱️ 6:17 • 16h ago
-
----
-
 **[If Ethereum Does This We&#39;re Going To Have The Best Altcoin Season Ever Made In 2026](https://www.youtube.com/watch?v=SovKhWex5q0)**
 
 Even crypto investors dont seem to understand the amount of money and wealth there are to be made from this market. Estimates ...
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 693 • 💬 235 • ⏱️ 32:55 • 1d ago
+👁️ 6K • 👍 698 • 💬 235 • ⏱️ 32:55 • 2d ago
 
 ---
 
-**[Bitcoin und Ethereum! Wir warten auf ein weiteres Tief und dann eine kleine Rally!](https://www.youtube.com/watch?v=ltuE6jIBpKQ)**
+**[Ethereum’s Ultimate Proxy: Bitmine BMNR Is Exploding Higher Now! | BMNR Stock Analysis](https://www.youtube.com/watch?v=YDiYPmvWRIo)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + ...
+Want help reading trading charts? You can check out VIP Indicators with up to 93% win rate here: ...
 
-📺 Krypto Trading & Investing
+📺 Investing Talk Podcast
 
-👁️ 972 • 👍 267 • 💬 11 • ⏱️ 9:56 • 1h ago
+👁️ 280 • 👍 9 • 💬 1 • ⏱️ 14:16 • 13h ago
+
+---
+
+**[Gareth Soloway: Bitcoin &amp; BTC Bear Flag Warning — $49K Target, ETH, XRP, Crypto Breakdown 2026](https://www.youtube.com/watch?v=KJ35xjFGkXs)**
+
+Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, breaks down the LATEST ...
+
+📺 Gareth Soloway
+
+👁️ 81K • 👍 5K • 💬 292 • ⏱️ 12:17 • 1d ago
 
 ---
 
