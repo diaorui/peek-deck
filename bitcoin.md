@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-18T23:03:00.454420+00:00'
+updated: '2026-05-19T01:29:35.015050+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 18, 2026 at 23:03 UTC  
+**Last Updated:** May 19, 2026 at 01:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,179.14
+### $76,788.58
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.1%  
-**7d:** -4.2%  
-**30d:** +4.5%  
-**90d:** +16.1%  
-**1y:** -27.0%  
+**7d:** -3.3%  
+**30d:** +1.2%  
+**90d:** +14.6%  
+**1y:** -28.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1542.77B
+**Market Cap:** $1539.25B
 Rank #1
 
-**Circulating Supply:** 20,031,215 BTC
+**Circulating Supply:** 20,031,265 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.9%
+-39.2%
 
 **All-Time Low:** $67.81
-+113479.1%
++113022.0%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[White House: Bitcoin Reserve Announcement Is Imminent](https://www.reddit.com/r/Bitcoin/comments/1tgzu1p/white_house_bitcoin_reserve_announcement_is/)**
+
+The White House is on the verge of a formal announcement on the U.S. Strategic Bitcoin Reserve — and the official leading the charge says the hard part is done. Patrick Witt, Executive Director of the President’s Council of Advisors for Digital Assets, told an interviewer this week that the administration has cleared a major legal hurdle in standing up the reserve. “We’ll have an announcement,” Witt said. “I wish I could say more… It’s a breakthrough as far as getting everything in place, legally sound, properly safeguarding the assets.” The signal follows a similar declaration Witt made at the Bitcoin 2026 conference in Las Vegas, where he told the crowd an update was coming within weeks. President Trump signed the executive order establishing the Strategic Bitcoin Reserve on March 6, 2025. Since then, Witt says his deputy Harry John has driven the interagency process: identifying what legal authorities exist, commissioning the necessary legal memos, and building a custody and reporting infrastructure across federal agencies that were designed for gold, not private keys. The reserve holds an estimated 328,372 BTC — roughly 1.6% of total global supply — accumulated through law enforcement seizures, including the Silk Road takedown, the 2022 Bitfinex hack recovery, and years of criminal forfeitures. The executive order bars the Treasury from selling a single coin. Witt pointed to a breach at the U.S. Marshals Service as proof that the reserve’s security mandate is urgent. A government contractor named John Daghita allegedly stole more than $46 million in cryptocurrency from USMS custody accounts in late 2025, and the FBI arrested him in March 2026. A separate $24 million theft was traced to October 2024. “It’s a case in point for why it was so necessary that the president established the SBR,” Witt said. An executive order dies the moment a new president takes office. That vulnerability is the core argument for two bills now moving through Congress. Rep. Nick Begich recently rebranded the BITCOIN Act as the American Reserves Modernization Act (ARMA), which would authorize the U.S. Treasury to purchase up to 200,000 BTC per year for five years — with holdings locked for a minimum of 20 years. Senator Cynthia Lummis has put Congress on a deadline, pushing for a vote before the summer recess as midterm campaigning begins to consume floor time. If the BITCOIN Act passes, the Treasury’s first open-market Bitcoin purchase is projected for Q4 2026 — making the U.S. the first sovereign nation to actively accumulate Bitcoin as a strategic reserve asset.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve) • 5h ago
+
+---
+
 **[Iran Uses Bitcoin to Build a SWIFT-Free Shipping System. The system would allow vessels to pay insurance premiums in Bitcoin, bypassing SWIFT and Western sanctions.](https://www.reddit.com/r/Bitcoin/comments/1tgo9wz/iran_uses_bitcoin_to_build_a_swiftfree_shipping/)**
 
 Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ships passing through the Strait of Hormuz. The system would allow vessels to pay ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hormuz-safe-iran-uses-bitcoin-110216619.html) • 8h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/hormuz-safe-iran-uses-bitcoin-110216619.html) • 11h ago
 
 ---
 
@@ -89,23 +97,15 @@ Hormuz Safe is a reported Bitcoin-based maritime insurance platform tied to ship
 
 As of 5/17/2026, they hodl 843,738 BTC acquired for ~$63.87 billion at ~$75,700 per bitcoin
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-24869-btc-and-achieves-btc-yield-of-12-6-ytd-now-holds-843738-btc_05-18-2026?may=18) • 9h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-24869-btc-and-achieves-btc-yield-of-12-6-ytd-now-holds-843738-btc_05-18-2026?may=18) • 12h ago
 
 ---
 
-**[White House: Bitcoin Reserve Announcement Is Imminent](https://www.reddit.com/r/Bitcoin/comments/1tgzu1p/white_house_bitcoin_reserve_announcement_is/)**
+**[Why would I save money when they print it?](https://www.reddit.com/r/Bitcoin/comments/1th71ya/why_would_i_save_money_when_they_print_it/)**
 
-The White House is on the verge of a formal announcement on the U.S. Strategic Bitcoin Reserve — and the official leading the charge says the hard part is done. Patrick Witt, Executive Director of the President’s Council of Advisors for Digital Assets, told an interviewer this week that the administration has cleared a major legal hurdle in standing up the reserve. “We’ll have an announcement,” Witt said. “I wish I could say more… It’s a breakthrough as far as getting everything in place, legally sound, properly safeguarding the assets.” The signal follows a similar declaration Witt made at the Bitcoin 2026 conference in Las Vegas, where he told the crowd an update was coming within weeks. President Trump signed the executive order establishing the Strategic Bitcoin Reserve on March 6, 2025. Since then, Witt says his deputy Harry John has driven the interagency process: identifying what legal authorities exist, commissioning the necessary legal memos, and building a custody and reporting infrastructure across federal agencies that were designed for gold, not private keys. The reserve holds an estimated 328,372 BTC — roughly 1.6% of total global supply — accumulated through law enforcement seizures, including the Silk Road takedown, the 2022 Bitfinex hack recovery, and years of criminal forfeitures. The executive order bars the Treasury from selling a single coin. Witt pointed to a breach at the U.S. Marshals Service as proof that the reserve’s security mandate is urgent. A government contractor named John Daghita allegedly stole more than $46 million in cryptocurrency from USMS custody accounts in late 2025, and the FBI arrested him in March 2026. A separate $24 million theft was traced to October 2024. “It’s a case in point for why it was so necessary that the president established the SBR,” Witt said. An executive order dies the moment a new president takes office. That vulnerability is the core argument for two bills now moving through Congress. Rep. Nick Begich recently rebranded the BITCOIN Act as the American Reserves Modernization Act (ARMA), which would authorize the U.S. Treasury to purchase up to 200,000 BTC per year for five years — with holdings locked for a minimum of 20 years. Senator Cynthia Lummis has put Congress on a deadline, pushing for a vote before the summer recess as midterm campaigning begins to consume floor time. If the BITCOIN Act passes, the Treasury’s first open-market Bitcoin purchase is projected for Q4 2026 — making the U.S. the first sovereign nation to actively accumulate Bitcoin as a strategic reserve asset.
+“If you cannot think I cannot help you.”
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve) • 2h ago
-
----
-
-**[Iran Introduces Bitcoin-Based Maritime Insurance Platform for Hormuz Shipping](https://www.reddit.com/r/Bitcoin/comments/1tgmj0t/iran_introduces_bitcoinbased_maritime_insurance/)**
-
-Iran rolled out something called Hormuz Safe... a state-backed maritime insurance setup for vessels operating in the Persian Gulf and Strait of Hormuz. Payments and settlements can be done with Bitcoin and other crypto. The platform handles digital certificates and faster processing. It’s clearly designed to work around normal banking channels and SWIFT, especially with the tensions in the region. That strait moves a huge amount of the world’s oil and LNG, so anything affecting shipping there tends to matter. I’ve been watching oil and shipping-related moves through Bitget futures and CFDs lately, and It’s one of those cases where Bitcoin shows up in actual day-to-day operations... But Bloomberg reported that U.S. naval forces redirected or blocked several commercial vessels near the Gulf, including a Greek-operated tanker transporting nearly 2 million barrels of Iraqi crude oil to Vietnam. Ship-tracking data showed that some Chinese and Iranian-linked vessels continued sailing across parts of the Strait despite increasing restrictions. Not sure how big it gets... What do you guys make of it?
-
-9h ago
+43m ago
 
 ---
 
@@ -113,15 +113,15 @@ Iran rolled out something called Hormuz Safe... a state-backed maritime insuranc
 
 Blocktime flies...
 
-1h ago
+3h ago
 
 ---
 
-**[Bought too much at 90 and had to sell with loss](https://www.reddit.com/r/Bitcoin/comments/1tgkps0/bought_too_much_at_90_and_had_to_sell_with_loss/)**
+**[Iran Introduces Bitcoin-Based Maritime Insurance Platform for Hormuz Shipping](https://www.reddit.com/r/Bitcoin/comments/1tgmj0t/iran_introduces_bitcoinbased_maritime_insurance/)**
 
-Feels bad man. Lesson learned: don't overinvest in BTC, because you may need As the price was going down in january, febuary and march, and i had a lot of fiat, i boght too much BTC because I tought I was getting a good deal. I invested 70% i think of my surplus at the time on bitcoin, and 30% at other safer assets. Now at may i am in finantial dificulties, and i am obliged to sell my BTC at a loss to keep up with my daily expenses. If i have been less greedy (invested 20% of surplus) i wold be ok, because I would be selling my other investiments. I have a family (Wife and 2 kids) and with less earnings from her and me the last months, I have no other option than sell at loss. Anyone here on the same situation?
+Iran rolled out something called Hormuz Safe... a state-backed maritime insurance setup for vessels operating in the Persian Gulf and Strait of Hormuz. Payments and settlements can be done with Bitcoin and other crypto. The platform handles digital certificates and faster processing. It’s clearly designed to work around normal banking channels and SWIFT, especially with the tensions in the region. That strait moves a huge amount of the world’s oil and LNG, so anything affecting shipping there tends to matter. I’ve been watching oil and shipping-related moves through Bitget futures and CFDs lately, and It’s one of those cases where Bitcoin shows up in actual day-to-day operations... But Bloomberg reported that U.S. naval forces redirected or blocked several commercial vessels near the Gulf, including a Greek-operated tanker transporting nearly 2 million barrels of Iraqi crude oil to Vietnam. Ship-tracking data showed that some Chinese and Iranian-linked vessels continued sailing across parts of the Strait despite increasing restrictions. Not sure how big it gets... What do you guys make of it?
 
-10h ago
+12h ago
 
 ---
 
@@ -129,29 +129,29 @@ Feels bad man. Lesson learned: don't overinvest in BTC, because you may need As 
 
 Most customer relationships are short-term oriented in the fiat economy. A company may promise support, stability, and continuity, but as it constantly needs new cash flow to survive, that pressure eventually reaches the customer. You see it in worse terms, hidden fees, aggressive upsells, price hikes, and products that decline after people are locked in. This is one under-discussed reason Bitcoin matters for business. If a company can preserve part of its value in harder money, it may be less pressured to extract from customers in the short term. That does not make every Bitcoin company trustworthy, but it can make long-term promises more credible when the business is otherwise sound. A lifetime membership, for example, is a bet on whether the provider can keep showing up. Does a bitcoin reserve make you more confident in a long-term agreement with the company?
 
-🔗 [Myntad](https://www.myntad.com/great-money-creates-great-customer-relationships/) • 3h ago
+🔗 [Myntad](https://www.myntad.com/great-money-creates-great-customer-relationships/) • 6h ago
+
+---
+
+**[Bought too much at 90 and had to sell with loss](https://www.reddit.com/r/Bitcoin/comments/1tgkps0/bought_too_much_at_90_and_had_to_sell_with_loss/)**
+
+Feels bad man. Lesson learned: don't overinvest in BTC, because you may need As the price was going down in january, febuary and march, and i had a lot of fiat, i boght too much BTC because I tought I was getting a good deal. I invested 70% i think of my surplus at the time on bitcoin, and 30% at other safer assets. Now at may i am in finantial dificulties, and i am obliged to sell my BTC at a loss to keep up with my daily expenses. If i have been less greedy (invested 20% of surplus) i wold be ok, because I would be selling my other investiments. I have a family (Wife and 2 kids) and with less earnings from her and me the last months, I have no other option than sell at loss. Anyone here on the same situation?
+
+13h ago
 
 ---
 
 **[Study Bitcoin people.](https://www.reddit.com/r/Bitcoin/comments/1tg98lk/study_bitcoin_people/)**
 
-20h ago
+23h ago
 
 ---
 
-**[Why is institutional adoption considered so important for Bitcoin’s future?](https://www.reddit.com/r/Bitcoin/comments/1tgqeun/why_is_institutional_adoption_considered_so/)**
+**[Ready to pull the trigger on Lean FIRE, but struggling with a high crypto allocation. Stay or exit?](https://www.reddit.com/r/Bitcoin/comments/1th6l1h/ready_to_pull_the_trigger_on_lean_fire_but/)**
 
-A lot of recent discussion has been around ETFs and large institutions increasing exposure to Bitcoin. Why is this viewed as such a major long-term signal for Bitcoin adoption? Is it mainly about legitimacy and trust or does institutional buying have a bigger impact on the ecosystem overall? Curious to hear different perspectives.
+Hey everyone, Long-time lurker here, finally approaching the starting line. I’m 37 and preparing to Lean FIRE soon. My plan is to move to a low cost of living area internationally where my baseline housing is entirely taken care of and my living expenses will be very minimal. Financially, my core safety net is solid: I have a good chunk in traditional index funds/401k and solid cash reserves. However, I also have a significant, decent-sized portion of my net worth sitting in Bitcoin. Because my retirement timeline is incredibly long, I’m wrestling with the classic "yield shield" vs. wealth preservation dilemma. On one hand, part of me wants to completely de-risk, exit the crypto allocation into boring old VOO/VT, and watch it compound with zero stress. On the other hand, the math on geo-arbitrage means my local living costs are already covered by my non-crypto assets, so this BTC could technically act as a massive long-term growth engine if I just leave it alone. For those who have transitioned into early retirement with a crypto allocation: Did you scale back to 100% traditional equities before pulling the trigger, or did you keep a "moonbag" as an inflation hedge? How do you psychologically handle the sequence of returns risk when dealing with crypto's massive swings? I know nobody has a crystal ball, but given where the macro landscape stands right now, I'm trying to gauge whether it's smarter to exit to traditional buckets today, or stay parked and wait to de-risk during the next major market expansion. Where is everyone's head at regarding the current cycle timeline are you expecting the next major structural bull run to hold off until closer to the 2028 halving, or do you think the institutional ETF inflows are permanently changing the old 4-year cycle dynamics? Would love to hear how other early retirees managed the transition without letting crypto volatility disrupt their sleep. Thanks!
 
-7h ago
-
----
-
-**[Noob here: is it a good time to enter btc?](https://www.reddit.com/r/Bitcoin/comments/1tgawvw/noob_here_is_it_a_good_time_to_enter_btc/)**
-
-I am a noob, and have been reading a bit here and there about bitcoin cycles and correction. Is this a good time to start investing in BTC? I know I'm late by about 20 years, but I wanna know if there is potential.
-
-19h ago
+1h ago
 
 ---
 
@@ -159,43 +159,33 @@ I am a noob, and have been reading a bit here and there about bitcoin cycles and
 
 ## Google News: "bitcoin"
 
-**[White House Says Strategic Bitcoin Reserve Announcement Is Imminent: ‘A Breakthrough’](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve)**
-
-The White House is nearing a formal announcement on a U.S. Strategic Bitcoin Reserve, with Patrick Witt saying the administration has already cleared a key legal hurdle.
-
-Bitcoin Magazine • 5h ago
-
----
-
-**[Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy](https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy)**
-
-CoinDesk • 12h ago
-
----
-
-**[Bitcoin Depot Goes Bankrupt, Signaling Demise of Crypto ATMs](https://www.bloomberg.com/news/articles/2026-05-18/bitcoin-depot-goes-bankrupt-signaling-demise-of-crypto-atms)**
-
-Bloomberg.com • 10h ago
-
----
-
-**[Massive Crypto ATM Company Bitcoin Depot Is Shutting Down as the Whole Industry Collapses](https://gizmodo.com/massive-crypto-atm-company-bitcoin-depot-is-shutting-down-as-the-whole-industry-collapses-2000760192)**
-
-Gizmodo • 1h ago
-
----
-
 **[Bitcoin price plunges under $77K, erasing $661M](https://finance.yahoo.com/video/bitcoin-price-plunges-under-77k-erasing-661m-170624742.html)**
 
 Scott Melker discusses bitcoin dropping below $77,000 triggering $661 million in liquidations, Iran's 8-year crypto bypass that is now public, Strategy adding $2 billion worth of bitcoin to its holding going underwater 5% in 12 hours, and other big crypto headlines of the day. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[White House Says Strategic Bitcoin Reserve Announcement Is Imminent: ‘A Breakthrough’](https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve)**
+
+The White House is nearing a formal announcement on a U.S. Strategic Bitcoin Reserve, with Patrick Witt saying the administration has already cleared a key legal hurdle.
+
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Best Crypto ETFs to Buy in 2026](https://www.fool.com/investing/2026/05/18/best-crypto-etfs-to-buy-in-2026/)**
+
+Institutional investors are stepping into crypto in a big way. Ordinary investors can follow along with the iShares Bitcoin Trust ETF and other exchange-traded funds.
+
+The Motley Fool • 5m ago
 
 ---
 
 **[Iran Starts Bitcoin-Backed Shipping Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -203,7 +193,7 @@ Bloomberg.com • 10h ago
 
 Iranian media reported the launch of Hormuz Safe, a bitcoin-settled insurance platform tied to Strait of Hormuz cargo transit.
 
-The Block • 13h ago
+The Block • 16h ago
 
 ---
 
@@ -211,7 +201,29 @@ The Block • 13h ago
 
 Iran has a plan to use bitcoin as payment for insuring ships looking to transit the Strait of Hormuz as the war heads toward the end of its third month.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Bitcoin Depot files for bankruptcy, will take all crypto ATMs offline](https://www.wcvb.com/article/bitcoin-depot-files-for-bankruptcy-will-take-all-crypto-atms-offline/71341757)**
+
+Massachusetts residents lost millions in crypto ATM fraud last year
+
+WCVB • 3h ago
+
+---
+
+**[Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy](https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy)**
+
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin Depot Shares Collapse After Chapter 11 Filing and Shutdown Plan (BTM)](https://finance.yahoo.com/news/bitcoin-depot-shares-collapse-chapter-143633450.html)**
+
+Stock Sinks as Company Begins Bankruptcy ProcessShares of Bitcoin Depot (NASDAQ:BTM) plunged 72. 8% in premarket trading on Monday after the company announced it had filed for Chapter 11 bankruptcy protection and plans to wind down its operations.
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -219,15 +231,7 @@ Yahoo Finance • 3h ago
 
 Strategy's total holdings account for over 4% of the 21 million bitcoin supply cap — worth around $65 billion.
 
-The Block • 10h ago
-
----
-
-**[Billionaire Michael Saylor said he would never sell bitcoin. After 3 straight quarterly losses, he's changing his mind](https://finance.yahoo.com/markets/crypto/articles/billionaire-michael-saylor-said-never-120000186.html)**
-
-Cash would be used to fund dividend payments, after Strategy reported a first-quarter loss of $12.5 billion.
-
-Yahoo Finance • 11h ago
+The Block • 13h ago
 
 ---
 
@@ -245,7 +249,7 @@ The user apparently changed the password while 'stoned'
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 219 • 💬 320 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 256 • 💬 396 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -301,7 +305,7 @@ bitcoin #crypto #iran #economy #finance May 18th, 2026 - Iran may be attempting 
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 530 • 💬 125 • ⏱️ 14:56 • 6h ago
+👁️ 15K • 👍 592 • 💬 175 • ⏱️ 14:56 • 9h ago
 
 ---
 
@@ -311,7 +315,7 @@ Bitcoin's next breakout may not come from ETFs or institutions. It may come from
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 100 • ⏱️ 16:37 • 1d ago
+👁️ 16K • 👍 1K • 💬 180 • ⏱️ 16:37 • 1d ago
 
 ---
 
@@ -331,27 +335,17 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 305 • ⏱️ 8:43 • 22h ago
+👁️ 24K • 👍 1K • 💬 305 • ⏱️ 8:43 • 1d ago
 
 ---
 
-**[Bitcoin Investors May Have Walked Into a Trap](https://www.youtube.com/watch?v=J3_zaV1FzFg)**
+**[The REAL REASON Why Bitcoin CRASHED TODAY!! (+ What Comes Next?)](https://www.youtube.com/watch?v=dfqTBVRW2_U)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+The REAL REASON Why Bitcoin CRASHED TODAY!! (+ What Comes Next?) ⭐ Follow Altcoin Daily on X: ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 18K • 👍 927 • 💬 53 • ⏱️ 37:03 • 8h ago
-
----
-
-**[🚨 Bitcoin Just CRASHED… But $93K Is Still Coming](https://www.youtube.com/watch?v=Ll2x8jf5nwE)**
-
-Bitcoin just crashed from $82000 down to $76000 and fear is rapidly returning to the crypto market. With the Fear & Greed Index ...
-
-📺 DataDash
-
-👁️ 2K • 👍 188 • 💬 43 • ⏱️ 20:58 • 7h ago
+👁️ 6K • 👍 647 • 💬 91 • ⏱️ 13:03 • 1h ago
 
 ---
 
@@ -361,27 +355,7 @@ Is Bitcoin's bear flag about to trigger? Gareth Soloway, Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 77K • 👍 5K • 💬 284 • ⏱️ 12:17 • 1d ago
-
----
-
-**[There&#39;s More Pain Ahead For Bitcoin &amp; TradFi [Proof]](https://www.youtube.com/watch?v=BPjCSkj6vDw)**
-
-Cryptomanran breaks down Bitcoin's sharp shift into a broader risk-off structure. After a failed recovery attempt, equity weakness, ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 941 • 💬 22 • ⏱️ 24:59 • 9h ago
-
----
-
-**[IRAN&#39;S NEW BITCOIN COMPANY, NVDA THIS IS IT, MARKET WORRIES](https://www.youtube.com/watch?v=xxzF9kImipg)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 5K • 👍 244 • 💬 26 • ⏱️ 9:54 • 9h ago
+👁️ 78K • 👍 5K • 💬 289 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -391,7 +365,37 @@ Three massive stories just collided into one terrifying picture. BlackRock is fi
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 141 • ⏱️ 35:26 • 2d ago
+👁️ 27K • 👍 2K • 💬 142 • ⏱️ 35:26 • 2d ago
+
+---
+
+**[Bitcoin Investors May Have Walked Into a Trap](https://www.youtube.com/watch?v=J3_zaV1FzFg)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 961 • 💬 141 • ⏱️ 37:03 • 11h ago
+
+---
+
+**[IRAN&#39;S NEW BITCOIN COMPANY, NVDA THIS IS IT, MARKET WORRIES](https://www.youtube.com/watch?v=xxzF9kImipg)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 5K • 👍 255 • 💬 24 • ⏱️ 9:54 • 11h ago
+
+---
+
+**[Why Billionaires Are Ditching Cash for Gold &amp; Bitcoin 💰₿](https://www.youtube.com/watch?v=ITfrnQudNd8)**
+
+Why are billionaire investors like Ray Dalio and Stanley Druckenmiller getting nervous about holding cash? In this video, we ...
+
+📺 Arjun Malhorta
+
+👁️ 685 • 👍 5 • ⏱️ 0:44 • 10h ago
 
 ---
 
