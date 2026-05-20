@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-19T23:02:53.488793+00:00'
+updated: '2026-05-20T01:30:54.412182+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 19, 2026 at 23:02 UTC  
+**Last Updated:** May 20, 2026 at 01:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -6.7%  
-**30d:** -8.9%  
-**90d:** +8.1%  
-**1y:** -16.5%  
+**24h:** -0.9%  
+**7d:** -7.9%  
+**30d:** -9.6%  
+**90d:** +6.8%  
+**1y:** -17.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.51B
+**Market Cap:** $254.47B
 Rank #2
 
-**Circulating Supply:** 120,685,700 ETH
+**Circulating Supply:** 120,685,661 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.2%
+-57.4%
 
 **All-Time Low:** $0.43
-+488914.5%
++486708.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -166,19 +166,33 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, May 19, 2026: Prices slide lower after Trump calls off attacks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-19-2026-prices-slide-lower-after-trump-calls-off-attacks-113905955.html)**
+**[Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows](https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows)**
 
-Bitcoin opened at $76,952.05 today, down 0.6% from yesterday’s opening price. Today’s opening price is bitcoin’s lowest since May 1. Ethereum opened at $2,128.55, flat with yesterday’s opening value. The price of ethereum was $2,115.84 as of 7:12 a.m. ET.
+The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
 
-Yahoo Finance • 11h ago
+The Block • 2h ago
 
 ---
 
-**[Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms](https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms)**
+**[Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-tom-lee-175358135.html)**
 
-A contracting float against any meaningful demand recovery has historically been a constructive setup for price.
+Ethereum (CRYPTO: ETH) is at a crossroads that could define 2026 for crypto investors. After a brutal early-year slide that dragged ETH below $1,800, the second-largest cryptocurrency has clawed back to hover around $2,110. Wall Street strategist Tom Lee believes that recovery is a season change and not just a bounce. Lee has officially declared ... Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It
 
-The Block • 1d ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Ethereum (ETH) news: Vitalik Buterin says AI verification could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.28 Million Tokens, and Total Crypto and Total Cash Holdings of $12.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-28-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-6-billion-302774396.html)**
+
+Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -196,33 +210,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.28 Million Tokens, and Total Crypto and Total Cash Holdings of $12.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-28-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-6-billion-302774396.html)**
+**[XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster](https://finance.yahoo.com/markets/crypto/articles/xrp-ethereum-solana-ai-picks-160320688.html)**
 
-Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
+XRP (CRYPTO: XRP) trades at $1.38 after losing the $1.40 support level despite momentum from the CLARITY Act clearing the Senate Banking Committee. Meanwhile, Ethereum (CRYPTO: ETH) trades at $2,119, while Solana (CRYPTO: SOL) trades at $84 after losing the $90 support level. Crypto investors are asking which of these cryptos could hit 10x first. ... XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster
 
-PR Newswire • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
 
 Barron's • 1d ago
-
----
-
-**[Ethereum Foundation sees 2 more high-profile departures](https://www.tradingview.com/news/cointelegraph:22328c339094b:0-ethereum-foundation-sees-2-more-high-profile-departures/)**
-
-The Ethereum Foundation saw the resignations of two top researchers on Monday, bringing the total number of high-profile departures at the organization to at least eight in recent months.Julian Ma and Carl Beek, both researchers at the Ethereum Foundation, ended their respective four and seven-year…
-
-TradingView • 15h ago
-
----
-
-**[XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster](https://247wallst.com/investing/2026/05/18/xrp-ethereum-or-solana-ai-picks-which-crypto-will-10x-faster/)**
-
-XRP trades at $1.38, while Ethereum trades around $2,119, and Solana trades at $84. Here's ChatGPT's projections on which would 10x faster.
-
-24/7 Wall St. • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 655 • 💬 104 • ⏱️ 32:50 • 3h ago
+👁️ 13K • 👍 832 • 💬 50 • ⏱️ 32:50 • 6h ago
 
 ---
 
@@ -246,17 +244,17 @@ Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 137 • 💬 43 • ⏱️ 13:32 • 6h ago
+👁️ 4K • 👍 156 • 💬 29 • ⏱️ 13:32 • 9h ago
 
 ---
 
-**[ETHEREUM IS OFFICIALLY BREAKING DOWN - DO THIS NOW](https://www.youtube.com/watch?v=TBMBuKNwaAY)**
+**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
 
-Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/PzKgZY Save Up To 37% On Crypto Taxes ...
+Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
 
-📺 Tyler Hill Crypto
+📺 More Crypto Online
 
-👁️ 5K • 👍 256 • 💬 72 • ⏱️ 9:29 • 1d ago
+👁️ 269 • 👍 26 • 💬 1 • ⏱️ 10:33 • 40m ago
 
 ---
 
@@ -266,27 +264,17 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 355 • 👍 19 • 💬 9 • ⏱️ 3:30 • 7h ago
+👁️ 462 • 👍 21 • 💬 9 • ⏱️ 3:30 • 9h ago
 
 ---
 
-**[How $1 Trillion of US Treasury Demand is Quietly Moving Onto Ethereum](https://www.youtube.com/watch?v=lUsE5_1a_1I)**
+**[ETHEREUM IS OFFICIALLY BREAKING DOWN - DO THIS NOW](https://www.youtube.com/watch?v=TBMBuKNwaAY)**
 
-BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almost nobody caught it. On May 8, Larry Fink filed two ...
+Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/PzKgZY Save Up To 37% On Crypto Taxes ...
 
-📺 Alexander Lorenzo
+📺 Tyler Hill Crypto
 
-👁️ 12K • 👍 1K • 💬 105 • ⏱️ 2:31 • 8h ago
-
----
-
-**[⚠️ Bitcoin Might Drop 50% Soon!](https://www.youtube.com/watch?v=UcGWHpSjQ94)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 77 • 💬 12 • ⏱️ 9:52 • 11h ago
+👁️ 5K • 👍 257 • 💬 72 • ⏱️ 9:29 • 1d ago
 
 ---
 
@@ -300,33 +288,43 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 ---
 
-**[ETHEREUM KORREKTUR BEENDET !!! NÄCHSTES ZIEL 3.000$ !!!](https://www.youtube.com/watch?v=3TEeRZIbwIk)**
-
-bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Einzahlungsaktion ...
-
-📺 RSFM
-
-👁️ 2K • 👍 356 • 💬 64 • ⏱️ 10:39 • 9h ago
-
----
-
-**[AI GPU Rentals feels like Ethereum GPU Mining Again.](https://www.youtube.com/watch?v=mfQE_CptyLA)**
-
-Terra Compute https://terracompute.ai/#redpandamining Enterprise-grade GPU infrastructure hosted in a professional US data ...
-
-📺 Red Panda Mining
-
-👁️ 4K • 👍 300 • 💬 67 • ⏱️ 18:17 • 11h ago
-
----
-
 **[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 486 • 💬 59 • ⏱️ 23:02 • 2d ago
+👁️ 21K • 👍 491 • 💬 59 • ⏱️ 23:02 • 2d ago
+
+---
+
+**[ETHEREUM KORREKTUR BEENDET !!! NÄCHSTES ZIEL 3.000$ !!!](https://www.youtube.com/watch?v=3TEeRZIbwIk)**
+
+bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Einzahlungsaktion ...
+
+📺 RSFM
+
+👁️ 2K • 👍 360 • 💬 66 • ⏱️ 10:39 • 12h ago
+
+---
+
+**[Michael Saylor&#39;s Ethereum Tokens](https://www.youtube.com/watch?v=xbzUzrBaNPw)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Michael Saylor has been ...
+
+📺 Bitcoin University
+
+👁️ 8K • 👍 780 • 💬 260 • ⏱️ 6:17 • 1d ago
+
+---
+
+**[Next Crypto Bull Run Can Make You Rich (Unlike Anything Else)](https://www.youtube.com/watch?v=d0gzEK3F-4s)**
+
+Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
+
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 327 • ⏱️ 8:37 • 2d ago
 
 ---
 

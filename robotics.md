@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-19T23:02:53.491628+00:00'
+updated: '2026-05-20T01:30:54.415014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 19, 2026 at 23:02 UTC  
+**Last Updated:** May 20, 2026 at 01:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDynamics/status/2056344756926460103 https://xcancel.com/BostonDynamics/status/2056344756926460103 Blog post: Training a Humanoid Robot for Hard Work: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/
 
-20h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDyn
 
 Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
 
-6h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbi
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
-12h ago
+15h ago
 
 ---
 
@@ -60,19 +60,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
 New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
 
-10h ago
+12h ago
 
 ---
 
 **[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
 
-15h ago
+17h ago
 
 ---
 
 **[Anyone around Vancouver/Burnaby building autonomous drones or robotics projects or FPV pilots?](https://www.reddit.com/r/robotics/comments/1thuwb5/anyone_around_vancouverburnaby_building/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ New head and neck designs complete and assembled, the old head is now a nice sou
 
 I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
 
-8h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 Hi guys, I’ve been working on a small ROS 2 project for AMR/AGV-style mobile robots. Problem: A robot may still be receiving valid velocity commands, but its physical motion no longer matches the command stream. Examples: - wheel slip on wet / oily floors - odometry mismatch - localization jumps - stale / bursty velocity commands - robot starts shaking or over-correcting before safety lidar / hardware E-stop cuts in A normal timeout only checks: Did a command arrive recently? It does not check: Is the robot still moving according to the command it was just given? So I built a small inline ROS 2 topic filter: /cmd_vel → Kinematic Guard → /safe_cmd_vel ↑ /odom It has a passive observe mode first, so it can run without taking over control. Example status: { "status": "RESYNCING", "causalAlignment": "BROKEN", "dominantCause": "WHEEL_SLIP", "guardAction": "BRAKE_AND_RESYNC" } The demo does not need a real robot, Gazebo, or Isaac Sim. It uses a lightweight mock AMR/AGV and injects wheel slip. GitHub: https://github.com/ZC502/ros2_kinematic_guard ROS Discourse discussion: https://discourse.openrobotics.org/t/detecting-execution-collapse-before-hard-e-stop-ros2-kinematic-guard-for-ros-2-amr-agv/54944 I’d be interested in feedback from people who have dealt with mobile robot slip, odometry jumps, or unexpected hard E-stop events in the field.
 
-10h ago
+13h ago
 
 ---
 
@@ -124,27 +124,43 @@ Barron's • 1d ago
 
 ---
 
+**['Robotic technology is the way forward' for cancer surgery](https://www.bbc.com/news/articles/c7v9mj0r3jyo)**
+
+Robotic surgery requires only very small incisions and uses miniaturised cameras and instruments, controlled remotely by a surgeon.
+
+BBC • 2h ago
+
+---
+
+**[China's AI and robotics edge is winning back Western LPs, say investors](https://finance.yahoo.com/sectors/technology/articles/chinas-ai-robotics-edge-winning-232941872.html)**
+
+China’s manufacturing clout, access to cheap energy and robust IPO pipeline are giving it the edge in sectors like AI and robotics—and luring back Western LPs, say market participants. Greater China’s private markets have seen four straight years of fundraising decline, buffeted by both US tensions and weak domestic consumption. More recently, supply chain shocks resulting from the Iran war have continued to weigh heavily on the minds of investors. However, many investors speaking at the Hong Ko
+
+Yahoo Finance • 2h ago
+
+---
+
 **[22. Carbon Robotics](https://www.cnbc.com/2026/05/19/carbon-robotics-cnbc-disruptor-50-ranking.html)**
 
 Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
 
-CNBC • 13h ago
+CNBC • 15h ago
 
 ---
 
-**[Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It](https://finance.yahoo.com/markets/stocks/articles/forget-tesla-robotics-company-actually-145701916.html)**
+**[Dissimilar robots can 'learn' to perform tasks without needing new code](https://newatlas.com/robotics/dissimilar-robots-learn-tasks-without-new-code/)**
 
-Everyone is still glued to Tesla (NASDAQ:TSLA) because a Q1 earnings beat, the robotaxi pitch, and the Optimus humanoid tease have convinced retail traders the autonomy story finally pays off this year. The Tesla Trade Is Crowded and Priced for a Miracle Tesla carries a P/E of 406 and a free cash flow yield of ... Forget Tesla. The Robotics Company Actually Shipping Revenue Has a $22 Billion Backlog and Nobody Is Talking About It
+It’s fairly easy for people to learn from other people – we’ve been doing it for around 300,000 years – because we can observe, copy, and modify what they’re doing. It’s less easy for us to learn from other animals that way, because the less our cognition and bodies are alike, the harder it is to…
 
-Yahoo Finance • 8h ago
+New Atlas • 1d ago
 
 ---
 
-**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
+**[CUHK Launches Hong Kong’s First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
 
-Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
+CUHK’s Hong Kong Embodied AI Lab aims to advance humanoid robotics, logistics automation, and industry partnerships across embodied AI.
 
-eWeek • 3h ago
+eWeek • 1d ago
 
 ---
 
@@ -152,15 +168,15 @@ eWeek • 3h ago
 
 Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
 
-Forbes • 13h ago
+Forbes • 16h ago
 
 ---
 
-**[Figure AI had one of its robots race an intern to sort packages. See who lost.](https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5)**
+**[Hyundai to deploy 25,000 Atlas robots across US plants in major push](https://interestingengineering.com/ai-robotics/hyundai-25000-atlas-humanoid-robots-us-plants)**
 
-Figure AI's intern outperformed a humanoid robot in a package sorting contest, highlighting the challenges in robotics automation.
+Hyundai plans to deploy 25,000 Atlas humanoid robots from Boston Dynamics and expand US production capacity to 30,000 by 2028.
 
-Business Insider • 14h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -168,21 +184,7 @@ Business Insider • 14h ago
 
 Ouster has launched the Rev8 set of lidar sensors that function as both a camera and a 3D mapping sensor at the same time. Its engineers say these are the first devices of their kind in the world.
 
-Live Science • 13h ago
-
----
-
-**[5 Robotics Stocks to Watch as Physical AI Builds Momentum](https://www.marketbeat.com/originals/5-robotics-stocks-to-watch-as-physical-ai-builds-momentum/)**
-
-As AI moves from the digital world into the physical one, robotics stocks are emerging as one of the market's most compelling early-stage opportunities.
-
-MarketBeat • 1d ago
-
----
-
-**[Dexterous Robotic Hand Maker Linkerbot Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-05-19/dexterous-robotic-hand-maker-linkerbot-is-said-to-consider-hong-kong-ipo)**
-
-Bloomberg.com • 17h ago
+Live Science • 15h ago
 
 ---
 
@@ -196,17 +198,7 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 7K • 👍 214 • 💬 154 • ⏱️ 16:12 • 1d ago
-
----
-
-**[F.03 Livestream - Day 7 | Over 144 consecutive hours and 179K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
-
-Watch a team of humanoid robots running a full 144+ Hour shift at human performance levels. This is fully autonomous running ...
-
-📺 Figure
-
-👁️ 2.8M • 👍 43K • 6d ago
+👁️ 8K • 👍 229 • 💬 165 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -216,17 +208,37 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 54K • 👍 1K • 💬 210 • ⏱️ 21:16 • 6d ago
+👁️ 56K • 👍 1K • 💬 218 • ⏱️ 21:16 • 6d ago
 
 ---
 
-**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+**[F.03 Livestream - Day 7 | Over 144 consecutive hours and 179K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
 
-Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+Watch a team of humanoid robots running a full 144+ Hour shift at human performance levels. This is fully autonomous running ...
 
-📺 CGTN Europe
+📺 Figure
 
-👁️ 80K • 👍 543 • 💬 66 • ⏱️ 0:33 • 6d ago
+👁️ 2.9M • 👍 44K • 6d ago
+
+---
+
+**[Man Buys Plane Ticket For Robot](https://www.youtube.com/watch?v=cJdZIkJmgzk)**
+
+A cute little robot named Stewie caused some big drama. The machine's owner booked it on a Southwest flight, even buckling the ...
+
+📺 Inside Edition
+
+👁️ 27K • 👍 533 • 💬 146 • ⏱️ 1:35 • 1d ago
+
+---
+
+**[Why China Should Be Worried About Ghana&#39;s Students #ai #robots #competition](https://www.youtube.com/watch?v=WRfNwkhJaDo)**
+
+Ghana is making history as young students build aircraft, drones, robots, and AI technology that are gaining global attention.
+
+📺 UNITED STATES OF AFRICA
+
+👁️ 10K • 👍 1K • 💬 102 • ⏱️ 2:52 • 2d ago
 
 ---
 
@@ -236,7 +248,25 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 149K • 👍 6K • 💬 819 • ⏱️ 15:32 • 3d ago
+👁️ 150K • 👍 6K • 💬 822 • ⏱️ 15:32 • 3d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=ui2TD6ONsH8)**
+
+📺 Borunte julie 
+
+👁️ 22K • 👍 169 • 💬 1 • ⏱️ 0:33 • 21h ago
+
+---
+
+**[Whoops #override #robot #robotics #vrc #vexrobotics #vexrobot #recf #vex](https://www.youtube.com/watch?v=x3lW8bHU6aE)**
+
+Check out the full reveal video here: https://youtu.be/A1HNvKIgnXQ?si=03z-tdt5Sbmj8veo Check out the full explanation video ...
+
+📺 9MotorGang
+
+👁️ 1K • 👍 31 • 💬 12 • ⏱️ 0:11 • 2h ago
 
 ---
 
@@ -246,47 +276,17 @@ LimX Dynamics' TRON 2 is entering the retail space, completing a real-world asse
 
 📺 LimX Dynamics
 
-👁️ 584 • 👍 35 • 💬 10 • ⏱️ 1:50 • 10h ago
+👁️ 635 • 👍 36 • 💬 8 • ⏱️ 1:50 • 13h ago
 
 ---
 
-**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+**[TITAN FIREPOWER... Meta Flame Ao Jun Is Overpowered | Melting Titans | War Robots](https://www.youtube.com/watch?v=nex_lymLsRE)**
 
-Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+Super Flame Ao Jun melting titans. I dont know how I didnt think of this sooner. The Ao Jun with the new Kelvin flamethrowers is ...
 
-📺 NBC News
+📺 PREDATOR WR
 
-👁️ 88K • 👍 771 • 💬 270 • ⏱️ 3:00 • 4d ago
-
----
-
-**[Figure AI&#39;s Humanoid Robots Just Worked a Full 8-Hour Shift... All on Their Own](https://www.youtube.com/watch?v=zn148HDKcmk)**
-
-Discover deep-dive engineering stories and breakthrough technologies on Interesting Engineering: ...
-
-📺 Interesting Engineering
-
-👁️ 50K • 👍 506 • 💬 142 • ⏱️ 1:30 • 5d ago
-
----
-
-**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
-
-A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
-
-📺 CBS TEXAS
-
-👁️ 391K • 👍 8K • 💬 2K • ⏱️ 3:03 • 6d ago
-
----
-
-**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
-
-Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
-
-📺 Bloomberg Technology
-
-👁️ 65K • 👍 929 • 💬 332 • ⏱️ 6:19 • 4d ago
+👁️ 8K • 👍 372 • 💬 45 • ⏱️ 16:15 • 13h ago
 
 ---
 
