@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-20T18:40:01.820872+00:00'
+updated: '2026-05-20T20:59:19.219390+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 18:40 UTC  
+**Last Updated:** May 20, 2026 at 20:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,529.29
+### $77,716.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -4.4%  
-**30d:** +1.6%  
-**90d:** +14.0%  
-**1y:** -29.2%  
+**24h:** +0.9%  
+**7d:** -4.1%  
+**30d:** +1.9%  
+**90d:** +14.3%  
+**1y:** -29.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.20B
+**Market Cap:** $1555.04B
 Rank #1
 
-**Circulating Supply:** 20,032,065 BTC
+**Circulating Supply:** 20,032,100 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.4%
 
 **All-Time Low:** $67.81
-+114136.8%
++114417.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Here is Me Saying Bitcoin in May 2026](https://www.reddit.com/r/Bitcoin/comments/1titfko/here_is_me_saying_bitcoin_in_may_2026/)**
 
-43m ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 After DCAing for the past 6 years and living like a peasant, I finally reached my goal. Edit: i realize i’m regarded for leaving it on Strike. Got a few cold wallets coming in the mail tomorrow, thanks for the responses.
 
-22h ago
+1d ago
 
 ---
 
@@ -95,13 +95,13 @@ After DCAing for the past 6 years and living like a peasant, I finally reached m
 
 Help me guys, what do I do now? Obviously my accounts are locked, I've filed a police report but what do I need the exchanges to do to help me recover funds if possible. Story: I always though it could never happen to me, I'm too smart for that I thought. But this morning, I got phished. I'd received a convincing looking email over night from Google saying a recovery email had been added to my account. This got me worried, so I investigated. I followed the link in the email (I know, what an idiot!) - I thought it was OK because it was an official google email and a google link. I had to then login with user/pass and 2FA and thought nothing of it because it was Google. This is when everything went wrong and fast. It was Google Sites, a service where people can create their own webpages, I just entered my login details and 2FA into a convincing fake Google page hosted on Google. Everything was backed up on my Google, my Authenticator Codes, Passwords in Google Password manager. The hackers quickly figured I had a Kraken and Coinbase accounts, got the password, logged in and drained it all. They added new withdrawal addresses and confirmed them via my email and they had the 2FA from the google account. The exchanges put up no resistance, not even bothered a new IP is draining all my funds to new withdrawal addresses. Yes, I'm an idiot for keeping my money on an exchanges and backing up everything on Google! Helpful advice for what I can do now is appreciated.
 
-21h ago
+23h ago
 
 ---
 
 **[The Crucible of Conviction: Why Bitcoin's Resilience Shifts the Global Burden of Proof. Navigating the collision between a legacy system addicted to perpetual dilution and the unyielding mathematics of absolute scarcity.](https://www.reddit.com/r/Bitcoin/comments/1tim5y5/the_crucible_of_conviction_why_bitcoins/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-crucible-of-conviction-why-bitcoins) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-crucible-of-conviction-why-bitcoins) • 7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Help me guys, what do I do now? Obviously my accounts are locked, I've filed a p
 
 Three days ago I posted that Lightning diagram for feedback: https://www.reddit.com/r/Bitcoin/comments/1tfzfb8/btc_lightning_diagram_feedback_please/ Two things came up that mattered, and reshaped how we taught the section: u/JashBeep flagged that "leaves Bitcoin Mainnet" isn't technically correct bitcoin is locked on mainnet, not leaving. The mental model is wrong if you say "leaves." u/longonbtc flagged that the diagram made it look like Alice and Bob could only pay each other, when in reality Alice with a channel to Bob can pay anyone reachable through Bob's channels. Here is the rebuild, as an animation, above the fold of chapter 5: https://www.learnbitcoin.com/journey/using-bitcoin Just the animation: https://youtu.be/TlU09VX1Auc Still open to feedback if anything else reads wrong, the lesson is genuinely better because of it.
 
-5h ago
+7h ago
 
 ---
 
@@ -117,15 +117,7 @@ Three days ago I posted that Lightning diagram for feedback: https://www.reddit.
 
 Can someone please tell me why 12 and 24 word seed phrases are “legacy” and 20 word ones are better or worse? Wouldn’t more words mean more combinations? Also is there a better security than that? I’m also trying to understand coldwallets better and trying to explain it to friends scares them with losing all their bitcoin if they lose their coldwallet or seedphrase it’s gone forever but I’m trying to say you are sovereign when you have control rather than someone else owning your assets. I think eventually big companies will hold bitcoin for people because they don’t trust themselves and get bogged in fees. What’s anyone’s thought on these things?
 
-3h ago
-
----
-
-**[Have $35k do i put it in bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1ti9fdv/have_35k_do_i_put_it_in_bitcoin/)**
-
-Hi everyone i have 35000 USD that i'd like to invest since its just sitting around in stables, is it the right time to inves in bitcoin or did i miss the bus?
-
-15h ago
+5h ago
 
 ---
 
@@ -133,7 +125,15 @@ Hi everyone i have 35000 USD that i'd like to invest since its just sitting arou
 
 I just learned something about seed phrases that I hadn't really been aware of before: Apparently, the 12th or 24th word isn't just a standard final word; rather, it relates to the seed's checksum. What I found particularly interesting was that the final word isn't necessarily unique. Once the first 11 (or 23) words are fixed, there can actually be multiple valid final words that are formally correct. In other words: The final word isn't simply "the checksum" - it seems the matter is a bit more complicated than that. I found this quite fascinating, as I had previously understood it to be much simpler. Did anyone else here already know this, or have any of you looked into this topic in more detail?
 
-9h ago
+11h ago
+
+---
+
+**[Have $35k do i put it in bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1ti9fdv/have_35k_do_i_put_it_in_bitcoin/)**
+
+Hi everyone i have 35000 USD that i'd like to invest since its just sitting around in stables, is it the right time to inves in bitcoin or did i miss the bus?
+
+17h ago
 
 ---
 
@@ -143,11 +143,11 @@ I just learned something about seed phrases that I hadn't really been aware of b
 
 ---
 
-**[Video - Pump it UP !](https://www.reddit.com/r/Bitcoin/comments/1tikaqc/video_pump_it_up/)**
+**[Daily Discussion, May 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1ticw1q/daily_discussion_may_20_2026/)**
 
-https://www.youtube.com/watch?v=BfnjX88Va4Y
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+14h ago
 
 ---
 
@@ -155,9 +155,61 @@ https://www.youtube.com/watch?v=BfnjX88Va4Y
 
 ## Google News: "bitcoin"
 
+**[Trump's Truth Social withdraws bitcoin ETF application from SEC](https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf)**
+
+Its advisor, Yorkville America, said the withdrawal is a strategic move to reapply under a more efficient securities framework.
+
+The Block • 18h ago
+
+---
+
 **[Massive Crypto ATM Company Bitcoin Depot Is Shutting Down as the Whole Industry Collapses](https://gizmodo.com/massive-crypto-atm-company-bitcoin-depot-is-shutting-down-as-the-whole-industry-collapses-2000760192)**
 
 Gizmodo • 1d ago
+
+---
+
+**[Live markets: Nvidia earnings beat Wall Street's expectations](https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings)**
+
+Bitcoin is lower by more than 4% over the past week, but has remained in a very tight range around $77,000 for the last three days.
+
+CoinDesk • 1h ago
+
+---
+
+**[Morgan Stanley Bitcoin Trust names Sally Diffley as Delegated Sponsor CFO after prior CFO resignation](https://www.tradingview.com/news/tradingview:8026c3ea74fb0:0-morgan-stanley-bitcoin-trust-names-sally-diffley-as-delegated-sponsor-cfo-after-prior-cfo-resignation/)**
+
+Morgan Stanley Bitcoin Trust appointed Sally Diffley as Chief Financial Officer of its Delegated Sponsor following the prior CFO's resignation.Key Highlights:Original SEC Filing: Morgan Stanley Bitcoin Trust [ MSBT ] - 8-K - May. 20, 2026This is an AI-powered summary. It may contain inaccuracies. C…
+
+TradingView • 46m ago
+
+---
+
+**[Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm](https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Michigan governor hopeful got $800k Bitcoin gift. Won’t say from whom](https://bridgemi.com/michigan-government/michigan-governor-hopeful-got-800k-bitcoin-gift-wont-say-from-whom/)**
+
+Bridge Michigan • 23h ago
+
+---
+
+**[How High Could Bitcoin Realistically Go This Cycle?](https://finance.yahoo.com/markets/crypto/articles/high-could-bitcoin-realistically-cycle-103436220.html)**
+
+Every time the market breaks out, social media timelines immediately fill up with wild predictions of Bitcoin (CRYPTO: BTC) hitting $500,000 or even $1 million per coin. If you hold Bitcoin right now, it is easy to get caught up in that excitement. However, figuring out how high the Bitcoin price could realistically go this ... How High Could Bitcoin Realistically Go This Cycle?
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Here's What Will Happen in Crypto If The Clarity Act Passes](https://www.fool.com/investing/2026/05/19/what-the-clarity-act-means-to-crypto/)**
+
+If this bill is eventually signed into law, it could have some positive consequences for a few of the crypto sector's leaders.
+
+The Motley Fool • 19h ago
 
 ---
 
@@ -167,65 +219,11 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Michigan governor hopeful discloses $800K bitcoin gift from a 'friend'](https://www.detroitnews.com/story/news/politics/2026/05/20/ralph-rebandt-candidate-michigan-governor-discloses-800000-bitcoin-gift/90177780007/)**
-
-The gift came with "no strings attached," Republican gubernatorial candidate Ralph Rebandt told The Detroit News.
-
-The Detroit News • 1h ago
-
----
-
-**[Bitcoin Just Got DeFi Superpowers: VBTC.b Hits Base With Fireblocks – Here’s Why Institutions Are Watching](https://bitcoinmagazine.com/business/verifiedx-brings-native-bitcoin-redemption-and-frost-privacy-to-base-defi-with-fireblocks-integration)**
-
-Tired of synthetic wrappers? vBTC.b brings real Bitcoin redemption to Base DeFi with Fireblocks institutional support – privacy via FROST and zero-knowledge included.
-
-Bitcoin Magazine • 10m ago
-
----
-
-**[Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm](https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm)**
-
-Bloomberg • 5h ago
-
----
-
-**[How High Could Bitcoin Realistically Go This Cycle?](https://finance.yahoo.com/markets/crypto/articles/high-could-bitcoin-realistically-cycle-103436220.html)**
-
-Every time the market breaks out, social media timelines immediately fill up with wild predictions of Bitcoin (CRYPTO: BTC) hitting $500,000 or even $1 million per coin. If you hold Bitcoin right now, it is easy to get caught up in that excitement. However, figuring out how high the Bitcoin price could realistically go this ... How High Could Bitcoin Realistically Go This Cycle?
-
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin price news: BTC gains on Iran peace hopes](https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings)**
-
-Bitcoin is lower by more than 4% over the past week, but has remained in a very tight range around $77,000 for the last three days.
-
-CoinDesk • 2h ago
-
----
-
 **[Woman loses nearly $10K in jury duty crypto scam](https://www.foxnews.com/tech/woman-loses-nearly-10k-jury-duty-crypto-scam)**
 
 Gail Barr was tricked into paying $9,260 through a Bitcoin ATM in a jury duty scam on her 70th birthday. Arizona's new crypto kiosk law saved her.
 
-Fox News • 4h ago
-
----
-
-**[Iran-linked report says Hormuz Safe bitcoin-settled insurance platform aims to generate $10 billion](https://www.theblock.co/post/401612/iran-linked-report-says-hormuz-safe-bitcoin-settled-insurance-platform-aims-to-generate-10-billion)**
-
-Iranian media reported the launch of Hormuz Safe, a bitcoin-settled insurance platform tied to Strait of Hormuz cargo transit.
-
-The Block • 2d ago
-
----
-
-**[Here's What Will Happen in Crypto If The Clarity Act Passes](https://www.fool.com/investing/2026/05/19/what-the-clarity-act-means-to-crypto/)**
-
-If this bill is eventually signed into law, it could have some positive consequences for a few of the crypto sector's leaders.
-
-The Motley Fool • 17h ago
+Fox News • 6h ago
 
 ---
 
@@ -235,7 +233,7 @@ The Motley Fool • 17h ago
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 345 • 💬 662 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 345 • 💬 672 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -257,7 +255,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 **[THORChain exploit hits Bitcoin, Ethereum, and BSC: Hackers steal over $10M](https://news.ycombinator.com/item?id=48152601)**
 
-⬆️ 6 • 💬 1 • 4d ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
+⬆️ 6 • 💬 1 • 5d ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
 
 ---
 
@@ -295,7 +293,7 @@ prove your bitcoin og status in zero-knowledge
 
 What does 1 BTC buy? 17.17 troy oz of gold today. Explore BTC purchasing power across gold, silver, plutonium-238 and more.
 
-⬆️ 1 • 💬 1 • 1h ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
+⬆️ 1 • 💬 1 • 3h ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
 
 ---
 
@@ -309,63 +307,23 @@ What does 1 BTC buy? 17.17 troy oz of gold today. Explore BTC purchasing power a
 
 ## YouTube Videos: "bitcoin"
 
+**[The Clarity Act Will Explode Crypto (7 coins)](https://www.youtube.com/watch?v=-0tWD4StQ14)**
+
+Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 33K • 👍 2K • 💬 111 • ⏱️ 9:17 • 18h ago
+
+---
+
 **[Bitcoin Has A 120-Day Fed Countdown - Trump Just Signed The Order | Mike Alfred](https://www.youtube.com/watch?v=cN2eRKD1qg0)**
 
 Bitcoin #Crypto #Finance Trump just signed his biggest crypto executive order yet, giving the Fed 120 days to evaluate opening ...
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 663 • 💬 136 • ⏱️ 30:43 • 4h ago
-
----
-
-**[Why Bitcoin Keeps FAILING at $80k](https://www.youtube.com/watch?v=C59b7lGIZ7k)**
-
-Bitcoin is struggling to hold the $80k line, and it's not random. In this video, Guy breaks down how spot Bitcoin ETF outflows, ...
-
-📺 Coin Bureau
-
-👁️ 8K • 👍 513 • 💬 58 • ⏱️ 13:01 • 5h ago
-
----
-
-**[Iran Just Did The UNTHINKABLE with Bitcoin (Why The U.S. Can&#39;t Stop It)](https://www.youtube.com/watch?v=zJnM5dGKDkA)**
-
-Iran may have just revealed Bitcoin's real geopolitical use case. This breakdown explores how Bitcoin is entering the global oil ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 222 • ⏱️ 17:23 • 21h ago
-
----
-
-**[Bitcoin Holders vs Altcoin Holders: You&#39;re Both Right](https://www.youtube.com/watch?v=VaCSDWJjHxk)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 4K • 👍 318 • 💬 183 • ⏱️ 16:03 • 5h ago
-
----
-
-**[The Clarity Act Will Explode Crypto](https://www.youtube.com/watch?v=-0tWD4StQ14)**
-
-Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 116 • ⏱️ 9:17 • 16h ago
-
----
-
-**[Every SOLO BITCOIN Miner Should Be Using THIS!](https://www.youtube.com/watch?v=xqpXXxLXlYg)**
-
-Checkout the Hashwatcher App shown in today's Video Apple ...
-
-📺 The Hobbyist Miner
-
-👁️ 2K • 👍 122 • 💬 30 • ⏱️ 16:48 • 6h ago
+👁️ 14K • 👍 739 • 💬 174 • ⏱️ 30:43 • 7h ago
 
 ---
 
@@ -375,17 +333,27 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 254 • ⏱️ 8:22 • 17h ago
+👁️ 26K • 👍 1K • 💬 264 • ⏱️ 8:22 • 19h ago
 
 ---
 
-**[HUGE: BlackRock Is SELLING Bitcoin... *not good*](https://www.youtube.com/watch?v=USRy9FoctO4)**
+**[INSIDER Confirms Strategic Bitcoin Reserve Announcement is COMING!! | EP 1508](https://www.youtube.com/watch?v=wGbFW2ET5lw)**
 
-BYBIT: https://themoon.co/DailyBybit 10% DISCOUNT & $30000 BONUS BTCC: https://themoon.co/DailyBTCC 10% ...
+Clarity Act has been taking all the headlines as of recent but a potential HUGE strategic bitcoin reserve announcement is COMING ...
 
-📺 The Moon Show
+📺 Simply Bitcoin
 
-👁️ 1K • 👍 98 • 💬 6 • ⏱️ 21:30 • 2h ago
+👁️ 3K • 👍 229 • 💬 9 • ⏱️ 1:26:47 • 2h ago
+
+---
+
+**[Iran Just Did The UNTHINKABLE with Bitcoin (Why The U.S. Can&#39;t Stop It)](https://www.youtube.com/watch?v=zJnM5dGKDkA)**
+
+Iran may have just revealed Bitcoin's real geopolitical use case. This breakdown explores how Bitcoin is entering the global oil ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 213 • ⏱️ 17:23 • 23h ago
 
 ---
 
@@ -395,17 +363,47 @@ Let's provide an update to stablecoin dominance and why the current trend in sta
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 139 • ⏱️ 9:15 • 15h ago
+👁️ 57K • 👍 4K • 💬 152 • ⏱️ 9:15 • 17h ago
 
 ---
 
-**[BITCOIN: THE BIG OPPORTUNITY FOR 2026-2027 (first dump, then big pump)](https://www.youtube.com/watch?v=3aLECgkZ1EE)**
+**[These 4 Things Terrify Me About Bitcoin Right Now [URGENT!!]](https://www.youtube.com/watch?v=_A8QAra-gh4)**
 
-GET THE BOOK: https://bullmania.com/book FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, ...
+Cryptomanran is sounding the alarm as a storm brews for Bitcoin and crypto. Yields are surging, putting immense pressure on risk ...
 
-📺 Ivan on Tech
+📺 Crypto Banter
 
-👁️ 13K • 👍 930 • 💬 43 • ⏱️ 56:42 • 8h ago
+👁️ 24K • 👍 2K • 💬 56 • ⏱️ 32:35 • 1d ago
+
+---
+
+**[Bitcoin’s Bull Market Is Back | Checkmate](https://www.youtube.com/watch?v=ccNF72m1mBw)**
+
+We're in an era where the monetary system is changing. The world is going to look very different on the other side of this thing.
+
+📺 What Bitcoin Did
+
+👁️ 26K • 👍 1K • 💬 207 • ⏱️ 1:27:16 • 1d ago
+
+---
+
+**[Why Bitcoin Keeps FAILING at $80k](https://www.youtube.com/watch?v=C59b7lGIZ7k)**
+
+Bitcoin is struggling to hold the $80k line, and it's not random. In this video, Guy breaks down how spot Bitcoin ETF outflows, ...
+
+📺 Coin Bureau
+
+👁️ 12K • 👍 641 • 💬 64 • ⏱️ 13:01 • 7h ago
+
+---
+
+**[Bitcoin Holders vs Altcoin Holders: You&#39;re Both Right](https://www.youtube.com/watch?v=VaCSDWJjHxk)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 5K • 👍 372 • 💬 193 • ⏱️ 16:03 • 7h ago
 
 ---
 
