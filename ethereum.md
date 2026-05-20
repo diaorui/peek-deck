@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-20T06:09:06.032645+00:00'
+updated: '2026-05-20T09:59:58.303078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 06:09 UTC  
+**Last Updated:** May 20, 2026 at 09:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,109.38
+### $2,131.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -6.9%  
-**30d:** -8.6%  
-**90d:** +8.0%  
-**1y:** -16.6%  
+**24h:** +0.5%  
+**7d:** -6.7%  
+**30d:** -8.4%  
+**90d:** +8.2%  
+**1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.23B
+**Market Cap:** $256.75B
 Rank #2
 
 **Circulating Supply:** 120,685,661 ETH
@@ -62,7 +62,7 @@ No max supply
 -57.0%
 
 **All-Time Low:** $0.43
-+490704.4%
++491073.9%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
-
----
-
-**[Cheapest DEX for swapping above $10k?](https://www.reddit.com/r/ethereum/comments/1ticme4/cheapest_dex_for_swapping_above_10k/)**
-
-Hey! I need some help... I swapped $22k of ETH to USDC on Uniswap last week and lost $480 to slippage alone. Never had this problem with smaller amounts but anything above $10k and the price impact gets ugly fast. Is there something better for larger swaps or am I missing a setting somewhere?
-
-13m ago
+4h ago
 
 ---
 
@@ -146,6 +138,14 @@ I am trying to unstake through Lido but the withdrawal queue is showing multiple
 
 ---
 
+**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+4d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -166,11 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows](https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows)**
+**[This Top Cryptocurrency Could Soar 2,600%, According to High-Profile Wall Street Strategist](https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrency-could-soar-2-090500751.html)**
 
-The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
+Ethereum could be on the verge of a major breakout, but a lot needs to go right for that to happen.
 
-The Block • 7h ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -178,21 +178,29 @@ The Block • 7h ago
 
 Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
 
-The Harvard Crimson • 23h ago
+The Harvard Crimson • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-tom-lee-175358135.html)**
+**[Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows](https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows)**
 
-Ethereum (CRYPTO: ETH) is at a crossroads that could define 2026 for crypto investors. After a brutal early-year slide that dragged ETH below $1,800, the second-largest cryptocurrency has clawed back to hover around $2,110. Wall Street strategist Tom Lee believes that recovery is a season change and not just a bounce. Lee has officially declared ... Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It
+The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
 
-Yahoo Finance • 12h ago
+The Block • 11h ago
 
 ---
 
-**[‘What's happening at the EF?’ Ethereum community looking for answers after high-profile departures](https://www.coindesk.com/tech/2026/05/19/what-s-happening-at-the-ef-ethereum-community-looking-for-answers-after-high-profile-departures)**
+**[Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
 
-CoinDesk • 9h ago
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum's Moving Fast to Counter a New Threat. Does That Make It a Buy?](https://www.fool.com/investing/2026/05/20/ethereums-moving-fast-to-counter-a-new-threat-does/)**
+
+Cybersecurity is a major concern for crypto right now.
+
+The Motley Fool • 10m ago
 
 ---
 
@@ -200,7 +208,7 @@ CoinDesk • 9h ago
 
 Bank of America (BofA) has disclosed significant exposure to Bitcoin, Ethereum, XRP, and Solana through exchange-traded funds (ETFs). The Wall Street giant also revealed massive holdings in Strategy (MSTR), American Bitcoin Corp (ABTC), and other crypto stocks. Bank of America Holds Almost $53 Million in Bitcoin, Ethereum, XRP, and Solana Bank of America (BofA) has
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -212,15 +220,7 @@ Barron's • 1d ago
 
 **[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
 
-CoinDesk • 21h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.28 Million Tokens, and Total Crypto and Total Cash Holdings of $12.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-28-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-6-billion-302774396.html)**
-
-Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
-
-PR Newswire • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -234,17 +234,7 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 1K • 💬 56 • ⏱️ 32:50 • 10h ago
-
----
-
-**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
-
-Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 145 • 💬 4 • ⏱️ 10:33 • 5h ago
+👁️ 21K • 👍 1K • 💬 63 • ⏱️ 32:50 • 14h ago
 
 ---
 
@@ -254,7 +244,17 @@ Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 175 • 💬 29 • ⏱️ 13:32 • 13h ago
+👁️ 6K • 👍 182 • 💬 31 • ⏱️ 13:32 • 17h ago
+
+---
+
+**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
+
+Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 223 • 💬 7 • ⏱️ 10:33 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 260 • 💬 72 • ⏱️ 9:29 • 1d ago
+👁️ 5K • 👍 261 • 💬 72 • ⏱️ 9:29 • 1d ago
 
 ---
 
@@ -274,17 +274,17 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 597 • 👍 24 • 💬 9 • ⏱️ 3:30 • 14h ago
+👁️ 697 • 👍 27 • 💬 9 • ⏱️ 3:30 • 18h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: EXTREME WARNING TO EVERYONE!!!!!](https://www.youtube.com/watch?v=pXaVmd68Frw)**
+**[How $1 Trillion of US Treasury Demand is Quietly Moving Onto Ethereum](https://www.youtube.com/watch?v=lUsE5_1a_1I)**
 
-This is not looking great for bitcoin, ethereum and the rest of crypto! Pay attention to these four main core macro pillars!
+BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almost nobody caught it. On May 8, Larry Fink filed two ...
 
-📺 Thomas Kralow
+📺 Alexander Lorenzo
 
-👁️ 29K • 👍 2K • 💬 42 • ⏱️ 10:04 • 2d ago
+👁️ 20K • 👍 2K • 💬 136 • ⏱️ 2:31 • 19h ago
 
 ---
 
@@ -294,7 +294,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 785 • 💬 264 • ⏱️ 6:17 • 1d ago
+👁️ 8K • 👍 790 • 💬 264 • ⏱️ 6:17 • 1d ago
 
 ---
 
@@ -304,17 +304,7 @@ Terra Compute https://terracompute.ai/#redpandamining Vast Ai sign up https://cl
 
 📺 Red Panda Mining
 
-👁️ 6K • 👍 345 • 💬 72 • ⏱️ 18:17 • 18h ago
-
----
-
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 22K • 👍 495 • 💬 59 • ⏱️ 23:02 • 2d ago
+👁️ 6K • 👍 366 • 💬 75 • ⏱️ 18:17 • 22h ago
 
 ---
 
@@ -324,7 +314,17 @@ bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Ein
 
 📺 RSFM
 
-👁️ 2K • 👍 372 • 💬 66 • ⏱️ 10:39 • 16h ago
+👁️ 2K • 👍 383 • 💬 67 • ⏱️ 10:39 • 20h ago
+
+---
+
+**[Next Crypto Bull Run Can Make You Rich (Unlike Anything Else)](https://www.youtube.com/watch?v=d0gzEK3F-4s)**
+
+Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 270 • ⏱️ 8:37 • 2d ago
 
 ---
 

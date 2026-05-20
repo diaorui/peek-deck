@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-20T06:09:06.035863+00:00'
+updated: '2026-05-20T09:59:58.305263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 20, 2026 at 06:09 UTC  
+**Last Updated:** May 20, 2026 at 09:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,20 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Open-source robot arm picking items from store shelves](https://www.reddit.com/r/robotics/comments/1tid2ip/opensource_robot_arm_picking_items_from_store/)**
+
+A mobile retail robot using an open-source robot arm to pick items from store shelves. It’s a simple demo, but a nice example of real-world manipulation: finding the item, reaching into the shelf, gripping it, and placing it into the cart. The open-source hardware angle makes it especially interesting for robotics builders.
+
+3h ago
+
+---
+
+**[Hungry robot](https://www.reddit.com/r/robotics/comments/1tib9tw/hungry_robot/)**
+
+5h ago
+
+---
+
 **[Boston Dynamics Atlas hauling a 50 lb mini-fridge](https://www.reddit.com/r/robotics/comments/1th8z3v/boston_dynamics_atlas_hauling_a_50_lb_minifridge/)**
 
 From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDynamics/status/2056344756926460103 https://xcancel.com/BostonDynamics/status/2056344756926460103 Blog post: Training a Humanoid Robot for Hard Work: https://bostondynamics.com/blog/training-a-humanoid-robot-for-hard-work/
@@ -40,17 +54,11 @@ From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDyn
 
 ---
 
-**[Hungry robot](https://www.reddit.com/r/robotics/comments/1tib9tw/hungry_robot/)**
-
-1h ago
-
----
-
 **[Why Physical AI May Not Scale Like Language Models](https://www.reddit.com/r/robotics/comments/1ths5pq/why_physical_ai_may_not_scale_like_language_models/)**
 
 Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
 
-13h ago
+17h ago
 
 ---
 
@@ -58,7 +66,7 @@ Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbi
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
-19h ago
+23h ago
 
 ---
 
@@ -66,7 +74,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
 New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
 
-17h ago
+21h ago
 
 ---
 
@@ -74,7 +82,7 @@ New head and neck designs complete and assembled, the old head is now a nice sou
 
 I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
 
-15h ago
+19h ago
 
 ---
 
@@ -82,25 +90,17 @@ I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF
 
 Pose is position + orientation, but I've been trying to find if there is a standard term for pose + configuration of a robot. ABB uses robtarget but I would be surprised if that's the standard term. From looking into it I've found both "model" and "posture", but I have no idea if these are specific for a manufacturer or standards in robotics.
 
-2h ago
+6h ago
 
 ---
 
 **[Anyone around Vancouver/Burnaby building autonomous drones or robotics projects or FPV pilots?](https://www.reddit.com/r/robotics/comments/1thuwb5/anyone_around_vancouverburnaby_building/)**
 
-12h ago
+15h ago
 
 ---
 
 **[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
-
-22h ago
-
----
-
-**[Human beats F.03: F.03: 12,732 packages (2.83 seconds/package) - Aime: 12,924 packages (2.79 seconds/package)](https://www.reddit.com/r/robotics/comments/1tgh6gi/human_beats_f03_f03_12732_packages_283/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466 Maybe, this is the last time a human will ever win.
 
 1d ago
 
@@ -110,17 +110,33 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2056211711859003466
 
 ## Google News: "robotics"
 
-**[Rivian's Robotics Company Is Now Worth More Than $3 Billion. Investors Could Benefit in 2 Important Ways.](https://www.fool.com/investing/2026/05/18/rivians-robotics-company-is-now-worth-more-than-3/)**
-
-Rivian believes robotics are an important element of its future.
-
-The Motley Fool • 1d ago
-
----
-
 **[The Bar Just Keeps Getting Higher for Tesla’s Robots](https://www.barrons.com/articles/tesla-optimus-robot-boston-dynamics-unitree-eb0a6abc)**
 
 Barron's • 1d ago
+
+---
+
+**[OLO Robotics completes commercial launch with three international manufacturing and distribution partnerships](https://roboticsandautomationnews.com/2026/05/20/olo-robotics-completes-commercial-launch-with-three-international-manufacturing-and-distribution-partnerships/101745/)**
+
+OLO Robotics has completed its commercial launch, announcing new manufacturing and distribution partnerships with Deep Robotics, inMotion Robotic, and Fiction Lab as robot companies move to make th…
+
+Robotics & Automation News • 2h ago
+
+---
+
+**[Boston Dynamics trains Atlas humanoid robot to pick up and place washing machine](https://roboticsandautomationnews.com/2026/05/20/boston-dynamics-trains-atlas-humanoid-robot-to-pick-up-and-place-washing-machine/101759/)**
+
+Boston Dynamics has released new behind-the-scenes footage showing its latest electric humanoid robot, Atlas, performing heavy lifting and manipulation tasks that the company says are designed to p…
+
+Robotics & Automation News • 59m ago
+
+---
+
+**[Nvidia to launch Singapore research hub as city-state boosts AI plans](https://www.cnbc.com/2026/05/20/nvidia-to-launch-singapore-research-hub-as-city-state-boosts-ai-plans.html)**
+
+Singapore has announced a new Nvidia research center and its first testbed to research, test and deploy physical AI, along with industry leaders.
+
+CNBC • 5h ago
 
 ---
 
@@ -128,21 +144,13 @@ Barron's • 1d ago
 
 Robotic surgery requires only very small incisions and uses miniaturised cameras and instruments, controlled remotely by a surgeon.
 
-BBC • 7h ago
+BBC • 10h ago
 
 ---
 
-**[22. Carbon Robotics](https://www.cnbc.com/2026/05/19/carbon-robotics-cnbc-disruptor-50-ranking.html)**
+**[Rivian's Robotics Company Is Now Worth More Than $3 Billion. Investors Could Benefit in 2 Important Ways.](https://finance.yahoo.com/markets/stocks/articles/rivians-robotics-company-now-worth-193500572.html)**
 
-Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
-
-CNBC • 20h ago
-
----
-
-**[5 Robotics Stocks to Watch as Physical AI Builds Momentum](https://finance.yahoo.com/markets/stocks/articles/5-robotics-stocks-watch-physical-152000474.html)**
-
-As AI moves from the digital world into the physical one, robotics stocks are emerging as one of the market's most compelling early-stage opportunities.
+Rivian believes robotics are an important element of its future.
 
 Yahoo Finance • 1d ago
 
@@ -156,27 +164,19 @@ New Atlas • 1d ago
 
 ---
 
-**[Hong Kong Launches First Embodied AI Lab for Humanoid Robots](https://www.eweek.com/news/cuhk-hong-kong-embodied-ai-lab/)**
+**[80-pound lunar robot built by students targets future Artemis missions](https://interestingengineering.com/ai-robotics/nasa-lunabotics-uva-moon-mining-robot)**
 
-CUHK’s Hong Kong Embodied AI Lab aims to advance humanoid robotics, logistics automation, and industry partnerships across embodied AI.
+UVA students built a moon-mining robot for NASA’s Lunabotics Challenge at Kennedy Space Center.
 
-eWeek • 1d ago
-
----
-
-**[Hyundai to deploy 25,000 Atlas robots across US plants in major push](https://interestingengineering.com/ai-robotics/hyundai-25000-atlas-humanoid-robots-us-plants)**
-
-Hyundai plans to deploy 25,000 Atlas humanoid robots from Boston Dynamics and expand US production capacity to 30,000 by 2028.
-
-Interesting Engineering • 18h ago
+Interesting Engineering • 10h ago
 
 ---
 
-**[Figure AI had one of its robots race an intern to sort packages. See who lost.](https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5)**
+**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
 
-Figure AI's intern outperformed a humanoid robot in a package sorting contest, highlighting the challenges in robotics automation.
+Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
 
-Business Insider • 21h ago
+eWeek • 14h ago
 
 ---
 
@@ -184,7 +184,7 @@ Business Insider • 21h ago
 
 Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
 
-Forbes • 20h ago
+Forbes • 1d ago
 
 ---
 
@@ -192,13 +192,13 @@ Forbes • 20h ago
 
 ## YouTube Videos: "robotics"
 
-**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
+**[Man vs AI Robot: it’s officially over...](https://www.youtube.com/watch?v=j5MtBTPGJng)**
 
-Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
+Man Vs Machine - we're entering the end times of AI deployment - do you want to live in a world of AI powered robots and LLM's ...
 
-📺 Fin Tek
+📺 Stylosa
 
-👁️ 23K • 👍 904 • 💬 32 • ⏱️ 22:41 • 8h ago
+👁️ 10K • 👍 272 • 💬 223 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 59K • 👍 1K • 💬 250 • ⏱️ 21:16 • 6d ago
+👁️ 61K • 👍 1K • 💬 261 • ⏱️ 21:16 • 6d ago
 
 ---
 
@@ -228,15 +228,7 @@ A cute little robot named Stewie caused some big drama. The machine's owner book
 
 📺 Inside Edition
 
-👁️ 29K • 👍 557 • 💬 151 • ⏱️ 1:35 • 1d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=ui2TD6ONsH8)**
-
-📺 Borunte julie 
-
-👁️ 25K • 👍 196 • 💬 1 • ⏱️ 0:33 • 1d ago
+👁️ 30K • 👍 561 • 💬 154 • ⏱️ 1:35 • 1d ago
 
 ---
 
@@ -246,7 +238,7 @@ Unitree Robotics has unveiled the GD01 — the world's first mass-produced ridea
 
 📺 CGTN Europe
 
-👁️ 80K • 👍 544 • 💬 66 • ⏱️ 0:33 • 6d ago
+👁️ 80K • 👍 549 • 💬 66 • ⏱️ 0:33 • 6d ago
 
 ---
 
@@ -256,7 +248,27 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 152K • 👍 7K • 💬 824 • ⏱️ 15:32 • 3d ago
+👁️ 154K • 👍 7K • 💬 828 • ⏱️ 15:32 • 3d ago
+
+---
+
+**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+
+Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+
+📺 NBC News
+
+👁️ 88K • 👍 775 • 💬 271 • ⏱️ 3:00 • 5d ago
+
+---
+
+**[Figure AI&#39;s Humanoid Robots Just Worked a Full 8-Hour Shift... All on Their Own](https://www.youtube.com/watch?v=zn148HDKcmk)**
+
+Discover deep-dive engineering stories and breakthrough technologies on Interesting Engineering: ...
+
+📺 Interesting Engineering
+
+👁️ 50K • 👍 513 • 💬 143 • ⏱️ 1:30 • 5d ago
 
 ---
 
@@ -268,23 +280,13 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 ---
 
-**[Figure AI&#39;s Humanoid Robots Just Worked a Full 8-Hour Shift... All on Their Own](https://www.youtube.com/watch?v=zn148HDKcmk)**
+**[AI Robots Just SHOCKED The World… This Is Getting Too Real](https://www.youtube.com/watch?v=ohySlGQMDkE)**
 
-Discover deep-dive engineering stories and breakthrough technologies on Interesting Engineering: ...
+What's happening in robotics right now is straight-up unbelievable — and you NEED to see this before anyone else does.
 
-📺 Interesting Engineering
+📺 The AI Nexus
 
-👁️ 50K • 👍 509 • 💬 142 • ⏱️ 1:30 • 5d ago
-
----
-
-**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
-
-Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
-
-📺 NBC News
-
-👁️ 88K • 👍 774 • 💬 270 • ⏱️ 3:00 • 5d ago
+👁️ 3K • 👍 75 • 💬 1 • ⏱️ 20:16 • 11h ago
 
 ---
 

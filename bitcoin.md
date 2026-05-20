@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-20T06:09:06.026637+00:00'
+updated: '2026-05-20T09:59:58.298638+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 06:09 UTC  
+**Last Updated:** May 20, 2026 at 09:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,248.60
+### $77,248.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -4.8%  
-**30d:** +1.2%  
-**90d:** +13.5%  
-**1y:** -29.5%  
+**24h:** +0.5%  
+**7d:** -4.5%  
+**30d:** +1.5%  
+**90d:** +13.9%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1544.67B
+**Market Cap:** $1550.69B
 Rank #1
 
-**Circulating Supply:** 20,031,834 BTC
+**Circulating Supply:** 20,031,921 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.6%
 
 **All-Time Low:** $67.81
-+113634.0%
++114017.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 After DCAing for the past 6 years and living like a peasant, I finally reached my goal. Edit: i realize i’m regarded for leaving it on Strike. Got a few cold wallets coming in the mail tomorrow, thanks for the responses.
 
-10h ago
+14h ago
 
 ---
 
@@ -89,21 +89,13 @@ After DCAing for the past 6 years and living like a peasant, I finally reached m
 
 Help me guys, what do I do now? Obviously my accounts are locked, I've filed a police report but what do I need the exchanges to do to help me recover funds if possible. Story: I always though it could never happen to me, I'm too smart for that I thought. But this morning, I got phished. I'd received a convincing looking email over night from Google saying a recovery email had been added to my account. This got me worried, so I investigated. I followed the link in the email (I know, what an idiot!) - I thought it was OK because it was an official google email and a google link. I had to then login with user/pass and 2FA and thought nothing of it because it was Google. This is when everything went wrong and fast. It was Google Sites, a service where people can create their own webpages, I just entered my login details and 2FA into a convincing fake Google page hosted on Google. Everything was backed up on my Google, my Authenticator Codes, Passwords in Google Password manager. The hackers quickly figured I had a Kraken and Coinbase accounts, got the password, logged in and drained it all. They added new withdrawal addresses and confirmed them via my email and they had the 2FA from the google account. The exchanges put up no resistance, not even bothered a new IP is draining all my funds to new withdrawal addresses. Yes, I'm an idiot for keeping my money on an exchanges and backing up everything on Google! Helpful advice for what I can do now is appreciated.
 
-8h ago
+12h ago
 
 ---
 
 **[Florida Man Reads The Bitcoin Standard; Buys 4% of All the Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1thpxkm/florida_man_reads_the_bitcoin_standard_buys_4_of/)**
 
-14h ago
-
----
-
-**[Physical attacks against crypto holders, including kidnap and assault, up 75% in 2025 — 72 confirmed incidents see $41 million lost, real number likely higher](https://www.reddit.com/r/Bitcoin/comments/1ti3vvi/physical_attacks_against_crypto_holders_including/)**
-
-Cryptocurrency's public blockchain feature is turning out to be one of its key weaknesses when it comes to physical protection.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/physical-attacks-against-crypto-holders-including-kidnap-and-assault-up-75-percent-in-2025-72-confirmed-incidents-see-usd41-million-lost-real-number-likely-higher) • 6h ago
+18h ago
 
 ---
 
@@ -111,7 +103,15 @@ Cryptocurrency's public blockchain feature is turning out to be one of its key w
 
 Hi everyone i have 35000 USD that i'd like to invest since its just sitting around in stables, is it the right time to inves in bitcoin or did i miss the bus?
 
-2h ago
+6h ago
+
+---
+
+**[Physical attacks against crypto holders, including kidnap and assault, up 75% in 2025 — 72 confirmed incidents see $41 million lost, real number likely higher](https://www.reddit.com/r/Bitcoin/comments/1ti3vvi/physical_attacks_against_crypto_holders_including/)**
+
+Cryptocurrency's public blockchain feature is turning out to be one of its key weaknesses when it comes to physical protection.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/physical-attacks-against-crypto-holders-including-kidnap-and-assault-up-75-percent-in-2025-72-confirmed-incidents-see-usd41-million-lost-real-number-likely-higher) • 10h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hi everyone i have 35000 USD that i'd like to invest since its just sitting arou
 
 By many people
 
-10h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ By many people
 
 Over the past five years, Bitcoin's average search interest sat at just 24 out of 100 — well below its 2020–2021 peak. Yet the price hit a new all-time high of $126,296 in October 2025. Nobody was Googling it at the top. Then the price dropped. By late February 2026, with Bitcoin consolidating around $60K, search interest for "buy Bitcoin" surged to its highest level in nearly five years. Classic retail behavior — people search when they feel like they missed the move, not when they should be paying attention. Now BTC is around $75K-$80K and search interest is quiet again. Same pattern, different cycle.
 
-9h ago
+13h ago
 
 ---
 
@@ -135,7 +135,15 @@ Over the past five years, Bitcoin's average search interest sat at just 24 out o
 
 Madison Hanson @HansonHash on X For the slow ones: she means you can take all your wealth across borders without anyone knowing about it. Yes your credit card works too, but that's not permissionless money, it's a loan and you need permission to use it. You also have to live in a first world country, something the vast majority of the world isn't part of. Perhaps check your financial privilege before you decide to comment https://www.audible.co.uk/pd/Check-Your-Financial-Privilege-Audiobook/B0B9T82ZD2
 
-11h ago
+15h ago
+
+---
+
+**[Daily Discussion, May 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1ticw1q/daily_discussion_may_20_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+3h ago
 
 ---
 
@@ -145,23 +153,31 @@ Madison Hanson @HansonHash on X For the slow ones: she means you can take all yo
 
 ---
 
-**[OC Bitcoin Pizza Day Event - All Bitcoiners Invited](https://www.reddit.com/r/Bitcoin/comments/1thtf0x/oc_bitcoin_pizza_day_event_all_bitcoiners_invited/)**
-
-Hello everyone, I have reserved a couple of tables for the entire community. If you are living in Southern California and want to hang out on Pizza Day, we would love to have you! https://preview.redd.it/odz4yzjom42h1.jpg?width=892&format=pjpg&auto=webp&s=a3d1e96eb2ababaf9ed4762cdce20dd702815152 Please be aware that one half of the pizza place will be playing board games, so please don't disrupt the "normies" enjoying their evening. Also, it's my birthday, so I'll only be there from 3:00–4:30, and hopefully, I'll try to make it back around the end, from 8:30–9:00ish. I'm really excited to meet new local Bitcoiners. This is a family-friendly environment; all are welcome. Please comment below or message me if you're interested, just in case I need to notify Zito's. Please note: this is the Zito's Pizza off Chapman Ave.
-
-12h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[North America’s largest Bitcoin ATM operator shuts down network, files for bankruptcy](https://www.wbay.com/2026/05/19/north-americas-largest-bitcoin-atm-operator-shuts-down-network-files-bankruptcy/)**
+**[Trump's Truth Social withdraws bitcoin ETF application from SEC](https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf)**
 
-The company said increasingly tough state regulations, intended to prevent scams, affected its business.
+Its advisor, Yorkville America, said the withdrawal is a strategic move to reapply under a more efficient securities framework.
 
-WBAY • 14h ago
+The Block • 7h ago
+
+---
+
+**[Bitcoin ETFs Shed $649M in a Day as Long-Term BTC Holders ‘Limit Downside Potential’](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-shed-649m-day-115554718.html)**
+
+U.S. spot Bitcoin ETFs posted $648 million outflows Monday as long-term BTC holders continue to accumulate the cryptocurrency.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin ETFs Bleed $1B as Goldman Exits XRP, SOL](https://bitbo.io/news/bitcoin-etf-outflows-goldman-exit/)**
+
+U.S. spot Bitcoin ETFs shed nearly $1 billion in outflows over 48 hours while Goldman Sachs quietly unwound its entire XRP and Solana ETF positions in Q1 2026.
+
+Bitbo • 19h ago
 
 ---
 
@@ -171,25 +187,31 @@ Gizmodo • 1d ago
 
 ---
 
-**[Bitcoin Depot closes all 200 Houston locations after bankruptcy](https://www.chron.com/news/article/bitcoin-depot-houston-closures-22266204.php)**
+**[Bitcoin Depot Goes Bankrupt, Signaling Demise of Crypto ATMs](https://www.bloomberg.com/news/articles/2026-05-18/bitcoin-depot-goes-bankrupt-signaling-demise-of-crypto-atms)**
 
-Chron • 16h ago
-
----
-
-**[Bitcoin price plunges under $77K, erasing $661M](https://finance.yahoo.com/video/bitcoin-price-plunges-under-77k-erasing-661m-170624742.html)**
-
-Scott Melker discusses bitcoin dropping below $77,000 triggering $661 million in liquidations, Iran's 8-year crypto bypass that is now public, Strategy adding $2 billion worth of bitcoin to its holding going underwater 5% in 12 hours, and other big crypto headlines of the day. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[If You Invested $1,000 in Bitcoin on Inauguration Day 2025, Here’s What You’d Have Now](https://finance.yahoo.com/markets/crypto/articles/invested-1-000-bitcoin-inauguration-214024872.html)**
+**[North America’s largest Bitcoin ATM operator shuts down network, files for bankruptcy](https://www.wbay.com/2026/05/19/north-americas-largest-bitcoin-atm-operator-shuts-down-network-files-bankruptcy/)**
 
-On January 20, 2025, Donald Trump was officially inaugurated as the 47th President of the United States. Bitcoin (CRYPTO: BTC) briefly rallied to $109,000 within a few hours before retracing to $102,000 as the initial inauguration hype faded. A $1,000 investment in Bitcoin that day would have bought roughly 0.0098 BTC. With BTC now trading ... If You Invested $1,000 in Bitcoin on Inauguration Day 2025, Here’s What You’d Have Now
+The company said increasingly tough state regulations, intended to prevent scams, affected its business.
 
-Yahoo Finance • 8h ago
+WBAY • 18h ago
+
+---
+
+**[Bitcoin price analysis: BTC likely bottomed at $60K amid milder bear market, K33 Research says](https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says)**
+
+CoinDesk • 13h ago
+
+---
+
+**[Bitcoin Rebounds as US Senate Advances Resolution to Stop Trump from Extending Iran War](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-us-senate-advances-083402689.html)**
+
+The US Senate has advanced a joint resolution that could require President Donald Trump to seek congressional approval to continue the Iran war. As a result, Bitcoin and US stock futures are rising on Wednesday. Bitcoin reclaimed $77,300 as oil prices fell sharply below $103 per barrel over the last few hours. Trump threatens military
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,35 +221,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Iran turns to bitcoin for shipping insurance through the Strait of Hormuz](https://finance.yahoo.com/markets/crypto/articles/iran-turns-bitcoin-shipping-insurance-193018779.html)**
-
-Iran has a plan to use bitcoin as payment for insuring ships looking to transit the Strait of Hormuz as the war heads toward the end of its third month.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Iran-linked report says Hormuz Safe bitcoin-settled insurance platform aims to generate $10 billion](https://www.theblock.co/post/401612/iran-linked-report-says-hormuz-safe-bitcoin-settled-insurance-platform-aims-to-generate-10-billion)**
 
 Iranian media reported the launch of Hormuz Safe, a bitcoin-settled insurance platform tied to Strait of Hormuz cargo transit.
 
-The Block • 1d ago
-
----
-
-**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
-
-Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
-
-The Harvard Crimson • 23h ago
-
----
-
-**[Trump's Truth Social withdraws bitcoin ETF application from SEC](https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf)**
-
-Its advisor, Yorkville America, said the withdrawal is a strategic move to reapply under a more efficient securities framework.
-
-The Block • 4h ago
+The Block • 2d ago
 
 ---
 
@@ -237,7 +235,7 @@ The Block • 4h ago
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 339 • 💬 645 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 341 • 💬 648 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -265,7 +263,7 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 **[Morgan Stanley Bitcoin ETF $MSBT got an official listing announcement from NYSE](https://news.ycombinator.com/item?id=48145392)**
 
-⬆️ 3 • 💬 0 • 4d ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
+⬆️ 3 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
 
 ---
 
@@ -281,7 +279,7 @@ AI to the rescue as 11-year search for password turns up in old PC files
 
 Zero-latency mempool interception and transaction topology for algorithmic execution.
 
-⬆️ 2 • 💬 0 • 14h ago • [mempool-alpha-oracle.com](https://www.mempool-alpha-oracle.com)
+⬆️ 2 • 💬 0 • 18h ago • [mempool-alpha-oracle.com](https://www.mempool-alpha-oracle.com)
 
 ---
 
@@ -289,7 +287,7 @@ Zero-latency mempool interception and transaction topology for algorithmic execu
 
 prove your bitcoin og status in zero-knowledge
 
-⬆️ 1 • 💬 0 • 16h ago • [og-zkp](https://og-zkp.com/)
+⬆️ 1 • 💬 0 • 20h ago • [og-zkp](https://og-zkp.com/)
 
 ---
 
@@ -297,7 +295,7 @@ prove your bitcoin og status in zero-knowledge
 
 We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-⬆️ 1 • 💬 0 • 10h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
+⬆️ 1 • 💬 0 • 14h ago • [huggingface.co](https://huggingface.co/blog/continuous_async)
 
 ---
 
@@ -305,7 +303,7 @@ We’re on a journey to advance and democratize artificial intelligence through 
 
 Three bugs an AI-and-stocks digest had, and the selection-bias fix that moved its backtest from -1.86% alpha to +4.79%.
 
-⬆️ 2 • 💬 0 • 15h ago • [bitinforming.com](https://bitinforming.com/blog/dogfooding)
+⬆️ 2 • 💬 0 • 19h ago • [bitinforming.com](https://bitinforming.com/blog/dogfooding)
 
 ---
 
@@ -319,7 +317,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 892 • 💬 104 • ⏱️ 8:22 • 5h ago
+👁️ 21K • 👍 1K • 💬 154 • ⏱️ 8:22 • 8h ago
 
 ---
 
@@ -329,17 +327,17 @@ Let's provide an update to stablecoin dominance and why the current trend in sta
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 1K • 💬 76 • ⏱️ 9:15 • 3h ago
+👁️ 28K • 👍 2K • 💬 92 • ⏱️ 9:15 • 6h ago
 
 ---
 
-**[Bitcoin’s Bull Market Is Back | Checkmate](https://www.youtube.com/watch?v=ccNF72m1mBw)**
+**[The Clarity Act Will Explode Crypto](https://www.youtube.com/watch?v=-0tWD4StQ14)**
 
-We're in an era where the monetary system is changing. The world is going to look very different on the other side of this thing.
+Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
 
-📺 What Bitcoin Did
+📺 Altcoin Daily
 
-👁️ 15K • 👍 783 • 💬 185 • ⏱️ 1:27:16 • 13h ago
+👁️ 19K • 👍 1K • 💬 79 • ⏱️ 9:17 • 7h ago
 
 ---
 
@@ -349,7 +347,7 @@ Cryptomanran is sounding the alarm as a storm brews for Bitcoin and crypto. Yiel
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 53 • ⏱️ 32:35 • 15h ago
+👁️ 22K • 👍 2K • 💬 54 • ⏱️ 32:35 • 19h ago
 
 ---
 
@@ -359,7 +357,17 @@ The REAL REASON Why Bitcoin CRASHED TODAY!! (+ What Comes Next?) ⭐ Follow Altc
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 462 • ⏱️ 13:03 • 1d ago
+👁️ 38K • 👍 2K • 💬 458 • ⏱️ 13:03 • 1d ago
+
+---
+
+**[Bitcoin’s Bull Market Is Back | Checkmate](https://www.youtube.com/watch?v=ccNF72m1mBw)**
+
+We're in an era where the monetary system is changing. The world is going to look very different on the other side of this thing.
+
+📺 What Bitcoin Did
+
+👁️ 18K • 👍 877 • 💬 133 • ⏱️ 1:27:16 • 17h ago
 
 ---
 
@@ -369,47 +377,33 @@ Iran may have just revealed Bitcoin's real geopolitical use case. This breakdown
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 211 • ⏱️ 17:23 • 9h ago
+👁️ 20K • 👍 1K • 💬 199 • ⏱️ 17:23 • 12h ago
 
 ---
 
-**[Bitcoin&#39;s Next Move After Global Selloff](https://www.youtube.com/watch?v=q7d6gZJGvUs)**
+**[Who’s side are you on? #money #bitcoin #gold](https://www.youtube.com/watch?v=hkjo2A8ZMBo)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+📺 Donovan Jago
 
-📺 CryptosRUs
-
-👁️ 16K • 👍 830 • 💬 408 • ⏱️ 48:30 • 15h ago
+👁️ 21K • 👍 492 • 💬 24 • ⏱️ 0:41 • 1d ago
 
 ---
 
-**[Why Bitcoin Could Capture 25% of the World&#39;s $1 Quadrillion in Stored Value](https://www.youtube.com/watch?v=hUbC7-FBWNI)**
+**[BLACKROCK JUST DUMPED BITCOIN](https://www.youtube.com/watch?v=ZsHoJwJPpPI)**
 
-Breaking down bitcoin's total addressable market thesis: why capturing even 25% of the world's $1 quadrillion in stored value ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Bitcoin Magazine
+📺 My Financial Friend
 
-👁️ 1K • 👍 32 • 💬 6 • ⏱️ 1:19 • 8h ago
-
----
-
-**[THIS IS WHERE BITCOIN EITHER PROVES ME WRONG... OR MAKES MILLIONS](https://www.youtube.com/watch?v=oL4kUFoqZLo)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 8K • 👍 630 • 💬 147 • ⏱️ 16:09 • 12h ago
+👁️ 6K • 👍 261 • 💬 197 • ⏱️ 10:30 • 19h ago
 
 ---
 
-**[Bitcoin Rejected off the 200D](https://www.youtube.com/watch?v=M5d5fbiSfhc)**
+**[This Altcoin Is BEATING Bitcoin](https://www.youtube.com/watch?v=cWVB-t8t7Y0)**
 
-Bitcoin was just rejected off the 200D moving average. What next? Sign up to get updates about the 1st ITC conference: ...
+📺 Discover Crypto
 
-📺 Benjamin Cowen
-
-👁️ 79K • 👍 4K • 💬 302 • ⏱️ 27:58 • 1d ago
+👁️ 3K • 👍 49 • 💬 5 • ⏱️ 0:26 • 8h ago
 
 ---
 
