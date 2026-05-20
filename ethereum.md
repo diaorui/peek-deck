@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-20T12:32:52.491065+00:00'
+updated: '2026-05-20T16:25:55.444694+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 12:32 UTC  
+**Last Updated:** May 20, 2026 at 16:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,131.43
+### $2,139.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -6.6%  
+**24h:** +0.7%  
+**7d:** -6.7%  
 **30d:** -8.4%  
-**90d:** +8.3%  
+**90d:** +8.2%  
 **1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.90B
+**Market Cap:** $257.34B
 Rank #2
 
 **Circulating Supply:** 120,685,661 ETH
@@ -62,17 +62,33 @@ No max supply
 -56.9%
 
 **All-Time Low:** $0.43
-+491727.5%
++492007.0%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[The Fed Has 120 Days to Explain Why Crypto Can't Access Its Payment System: It's Never Had to Explain Itself Before](https://www.reddit.com/r/ethereum/comments/1tim0be/the_fed_has_120_days_to_explain_why_crypto_cant/)**
+
+Trump's executive order does not give crypto firms Fed payment access. It gives them something more dangerous to the Fed's position. The Fed now has 120 days to explain itself in writing.
+
+🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 2h ago
+
+---
+
 **[Daily General Discussion May 20, 2026](https://www.reddit.com/r/ethereum/comments/1tibkz7/daily_general_discussion_may_20_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+11h ago
+
+---
+
+**[meet the hardware wallet that looks like a game boy and possesses the ethos of a seasoned self-sovereign vet](https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/)**
+
+the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
+
+1h ago
 
 ---
 
@@ -96,7 +112,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I built a stablecoin technical reference - contract addresses, EIP/ERC matrix deep dives and compliance & wallet blacklist checker](https://www.reddit.com/r/ethereum/comments/1tgm700/i_built_a_stablecoin_technical_reference_contract/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -126,23 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heyy Guys, im back from learning foundry and next looking to build some projects and host them in the testnet. I was thinking of building a standard and solid project (like DAO/DEX) instead of small projects.. So when i looked up, i came to know that uniswap is very useful in developing commercial level projects and has many built-in features ideal for production grade apps.. Now should i learn Uniswap and then build a solid project or just build a project and then learn Uniswap.. Thanks in advance...
 
-2d ago
-
----
-
-**[Instant way to Unstake stETH?](https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/)**
-
-I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
-
 3d ago
-
----
-
-**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
 
 ---
 
@@ -166,31 +166,23 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum ‘Not the Right Asset’ For Now? Here's Why Wintermute Claims ETH Is Failing In The Current Macro](https://finance.yahoo.com/markets/crypto/articles/ethereum-not-asset-now-heres-113905433.html)**
+**[Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH](https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth)**
 
-Wintermute said Ethereum is 'the wrong asset for this macro.' It comes shortly after Tom Lee linked Ethereum’s weakness to rising oil prices. Despite near-term ...
+Privacy is widely seen as the necessary feature for the widespread adoption of blockchain technology. Ethereum is taking steps in that direction.
 
-Yahoo Finance • 53m ago
-
----
-
-**[Ethereum falls below key levels as ETF outflows spark fresh selloff concerns](https://www.tradingview.com/news/invezz:238cf9e37094b:0-ethereum-falls-below-key-levels-as-etf-outflows-spark-fresh-selloff-concerns/)**
-
-Ethereum (ETH) is hovering around $2,130, up 1% on Wednesday after facing strong selling pressure over the past week.The leading altcoin dipped from above $2,300 after retail wallet distributions. The selloff also came following soaring inflation and rising US Treasury yields.For Ethereum, the coin…
-
-TradingView • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, May 20, 2026: Opened lower but moving higher](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-20-2026-opened-lower-but-moving-higher-111622180.html)**
+**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
 
-Bitcoin opened at $76,757.31 on Wednesday, May 20, 2026, down 0.3% from Tuesday’s opening price. The price of bitcoin as of 7:00 a.m. ET rose to $77,428.64. Ethereum opened at $2,110.07 on Wednesday, 0.9% lower than Tuesday’s opening price. Ethereum also rose this morning, valued at $2,128.62 as of 7:00 a.m. ET.
+Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
+**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter | News](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
 
 Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
 
@@ -202,13 +194,19 @@ The Harvard Crimson • 1d ago
 
 The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
 
-The Block • 13h ago
+The Block • 17h ago
 
 ---
 
-**[Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
+**[Ethereum Spirals as ETH/BTC Ratio Plunges and Wintermute Declares It the ‘Wrong Asset for This Macro’](https://www.tipranks.com/news/ethereum-spirals-as-eth-btc-ratio-plunges-and-wintermute-declares-it-the-wrong-asset-for-this-macro)**
 
-CoinDesk • 1d ago
+TipRanks • 4h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
+
+Barron's • 2d ago
 
 ---
 
@@ -216,15 +214,15 @@ CoinDesk • 1d ago
 
 Cybersecurity is a major concern for crypto right now.
 
-The Motley Fool • 2h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[BREAKING: Bank of America (BofA) Reveals $53M in Bitcoin, XRP, Ethereum, Solana ETFs Holding](https://finance.yahoo.com/markets/crypto/articles/breaking-bank-america-bofa-reveals-115604055.html)**
+**[Bitcoin Investors are Selling While Ethereum Whales Dump ETH — What’s Next for BTC & ETH Prices?](https://www.tradingview.com/news/coinpedia:a87b66420094b:0-bitcoin-investors-are-selling-while-ethereum-whales-dump-eth-what-s-next-for-btc-eth-prices/)**
 
-Bank of America (BofA) has disclosed significant exposure to Bitcoin, Ethereum, XRP, and Solana through exchange-traded funds (ETFs). The Wall Street giant also revealed massive holdings in Strategy (MSTR), American Bitcoin Corp (ABTC), and other crypto stocks. Bank of America Holds Almost $53 Million in Bitcoin, Ethereum, XRP, and Solana Bank of America (BofA) has
+The top cryptos, Bitcoin & Ethereum, have remained largely stagnant for the past few days, which suggests indecisiveness among the market participants. Recently, the selling pressure has been elevated among the top tokens, which has kept the rally restricted within the range. A deep observation sug…
 
-Yahoo Finance • 1d ago
+TradingView • 8h ago
 
 ---
 
@@ -232,13 +230,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum price prediction - ETH is making millions of dollars](https://www.youtube.com/watch?v=E7s7aql25KY)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 3K • 👍 8 • 💬 7 • ⏱️ 10:40 • 3h ago
+
+---
+
 **[$125 Million ETH Stimulus Check Incoming💸Sharplink CEO INTERVIEW](https://www.youtube.com/watch?v=RyC82ou1veQ)**
 
 Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a private investment vehicle that will deploy ...
 
 📺 Paul Barron Network
 
-👁️ 22K • 👍 1K • 💬 84 • ⏱️ 32:50 • 17h ago
+👁️ 24K • 👍 1K • 💬 88 • ⏱️ 32:50 • 21h ago
 
 ---
 
@@ -248,7 +256,7 @@ Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 186 • 💬 32 • ⏱️ 13:32 • 20h ago
+👁️ 7K • 👍 190 • 💬 33 • ⏱️ 13:32 • 1d ago
 
 ---
 
@@ -258,7 +266,7 @@ Ethereum continues to struggle below key resistance while Bitcoin remains the st
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 261 • 💬 15 • ⏱️ 10:33 • 11h ago
+👁️ 5K • 👍 283 • 💬 19 • ⏱️ 10:33 • 15h ago
 
 ---
 
@@ -268,7 +276,7 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 721 • 👍 29 • 💬 9 • ⏱️ 3:30 • 20h ago
+👁️ 918 • 👍 31 • 💬 10 • ⏱️ 3:30 • 1d ago
 
 ---
 
@@ -278,7 +286,7 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 261 • 💬 72 • ⏱️ 9:29 • 1d ago
+👁️ 5K • 👍 263 • 💬 72 • ⏱️ 9:29 • 2d ago
 
 ---
 
@@ -288,7 +296,7 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 
 📺 Alexander Lorenzo
 
-👁️ 22K • 👍 2K • 💬 137 • ⏱️ 2:31 • 21h ago
+👁️ 27K • 👍 2K • 💬 147 • ⏱️ 2:31 • 1d ago
 
 ---
 
@@ -298,7 +306,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 792 • 💬 265 • ⏱️ 6:17 • 1d ago
+👁️ 8K • 👍 799 • 💬 269 • ⏱️ 6:17 • 2d ago
 
 ---
 
@@ -308,27 +316,17 @@ Terra Compute https://terracompute.ai/#redpandamining Vast Ai sign up https://cl
 
 📺 Red Panda Mining
 
-👁️ 7K • 👍 376 • 💬 75 • ⏱️ 18:17 • 1d ago
+👁️ 8K • 👍 392 • 💬 80 • ⏱️ 18:17 • 1d ago
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=magALMKT_-E)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto Nutshell
+📺 Crypto Gyan
 
-👁️ 22K • 👍 501 • 💬 61 • ⏱️ 23:02 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: EXTREME WARNING TO EVERYONE!!!!!](https://www.youtube.com/watch?v=pXaVmd68Frw)**
-
-This is not looking great for bitcoin, ethereum and the rest of crypto! Pay attention to these four main core macro pillars!
-
-📺 Thomas Kralow
-
-👁️ 29K • 👍 2K • 💬 42 • ⏱️ 10:04 • 2d ago
+👁️ 340 • 👍 54 • ⏱️ 6:52 • 2h ago
 
 ---
 

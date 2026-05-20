@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-20T12:32:52.493814+00:00'
+updated: '2026-05-20T16:25:55.447547+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 20, 2026 at 12:32 UTC  
+**Last Updated:** May 20, 2026 at 16:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,51 @@ Robotics research and industry news
 
 A mobile retail robot using an open-source robot arm to pick items from store shelves. It’s a simple demo, but a nice example of real-world manipulation: finding the item, reaching into the shelf, gripping it, and placing it into the cart. The open-source hardware angle makes it especially interesting for robotics builders.
 
-6h ago
+10h ago
+
+---
+
+**[Figuring out what kind of tasks are actually possible with SO-101 and LeRobot using Teleoperation](https://www.reddit.com/r/robotics/comments/1timj1m/figuring_out_what_kind_of_tasks_are_actually/)**
+
+Scoping the so-101’s task space for this embodiment before designing experiments - paying attention to what’s ergonomically possible to demonstrate to ensure high data quality. wrote about in detail here - https://x.com/pbshgthm/status/2057091817628463603 few observations from this : - object orientation matters a lot. extreme gripper reorientations are hard to demonstrate cleanly through teleop - slightly deformable objects (tubes, bottles) are the easiest to grip. the non-compliant gripper just bites in - narrow rigid objects like markers are the hardest. gripper close position isn't repeatable enough to hold them consistently - no force feedback means it's easy to close too hard and damage the gripper itself worth maintaining a public doc of so-101 limitations and task design guidelines? everyone seems to rediscover the same gotchas
+
+2h ago
 
 ---
 
 **[Hungry robot](https://www.reddit.com/r/robotics/comments/1tib9tw/hungry_robot/)**
 
-7h ago
+11h ago
+
+---
+
+**[How do I get the stator out of a Ronin-M motor?](https://www.reddit.com/r/robotics/comments/1tim7f9/how_do_i_get_the_stator_out_of_a_roninm_motor/)**
+
+Hey all, I’ve decided to give second life for an original DJI Ronin-M and I’m trying to extract the stator from one of the motor housings. I’ve disconnected everything and can see it’s press-fit into the aluminum, but I want to make sure I don’t wreck the windings. Has anyone here done this before? Is it bonded with adhesive or just a press fit? Any wisdom appreciated, thanks ! 🙏 (cannot post in r/AskRobotics by some reason)
+
+2h ago
+
+---
+
+**[Industrial robotics adoption still feels surprisingly uneven](https://www.reddit.com/r/robotics/comments/1timbb4/industrial_robotics_adoption_still_feels/)**
+
+Automation discussions often make it sound like robotics adoption is happening everywhere equally. But it still feels heavily industry-dependent. Automotive seems relatively mature. Meanwhile, several mid-scale manufacturing environments still appear hesitant because integration and ROI timelines remain unclear. Curious whether cost is still the primary concern or if implementation complexity is the bigger issue now.
+
+2h ago
 
 ---
 
 **[ok new plan, i made a Nodding Mechanism / Nodding Mount object in blender 3d, for the lidar, so it comes from 2d to 3d](https://www.reddit.com/r/robotics/comments/1tij9f5/ok_new_plan_i_made_a_nodding_mechanism_nodding/)**
 
-43m ago
+4h ago
+
+---
+
+**[MoveIt 2 Task Constructor with Unitree G1, looking for tutorials, any help?](https://www.reddit.com/r/robotics/comments/1tiq63r/moveit_2_task_constructor_with_unitree_g1_looking/)**
+
+Hi everyone, I'm trying to implement a pick & place task using MoveIt 2 Task Constructor (MTC) for the Unitree G1 humanoid robot's right arm in RViz simulation (ROS 2 Humble). I've gotten quite far but I'm stuck on IK. What I have working: G1 URDF loaded from isri-aist/g1_description (https://github.com/isri-aist/g1_description) MoveIt 2 config with SRDF, OMPL planner, ros2_control mock hardware Robot visualizing correctly in RViz with all TF transforms MTC task node running and reaching the planning stage The issue: KDL IK solver consistently returns NO_IK_SOLUTION (-31) for the right arm planning group and the planning fails. The URDF has pelvis as the root link with inertia defined, and KDL warns: The root link pelvis has an inertia specified in the URDF, but KDL does not support a root link with an inertia The right arm chain is defined as torso_link → right_wrist_yaw_link (7 DOF). My question is, has anyone successfully run MTC with a Unitree G1 in ROS 2 Humble? Are there any MTC tutorials specifically for g1 arms? Any help would appreciated. Thanks!
+
+20m ago
 
 ---
 
@@ -64,13 +96,7 @@ From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDyn
 
 Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
 
-20h ago
-
----
-
-**[👋Welcome to r/processinglifechanges - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1tiij29/welcome_to_rprocessinglifechanges_introduce/)**
-
-1h ago
+23h ago
 
 ---
 
@@ -82,75 +108,35 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
 ---
 
-**[Astrix update](https://www.reddit.com/r/robotics/comments/1thluzu/astrix_update/)**
-
-New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
-
-23h ago
-
----
-
-**[DToF LiDAR Obstacle Avoidance System for LIMO Robot](https://www.reddit.com/r/robotics/comments/1thosi3/dtof_lidar_obstacle_avoidance_system_for_limo/)**
-
-I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
-
-21h ago
-
----
-
-**[Term for pose + configuration?](https://www.reddit.com/r/robotics/comments/1ti9qyd/term_for_pose_configuration/)**
-
-Pose is position + orientation, but I've been trying to find if there is a standard term for pose + configuration of a robot. ABB uses robtarget but I would be surprised if that's the standard term. From looking into it I've found both "model" and "posture", but I have no idea if these are specific for a manufacturer or standards in robotics.
-
-8h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[The Bar Just Keeps Getting Higher for Tesla’s Robots](https://www.barrons.com/articles/tesla-optimus-robot-boston-dynamics-unitree-eb0a6abc)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
-**[Locus Robotics Acquires Nexera Robotics, Advancing a Patented Breakthrough in Mobile Manipulation](https://www.businesswire.com/news/home/20260519458248/en/Locus-Robotics-Acquires-Nexera-Robotics-Advancing-a-Patented-Breakthrough-in-Mobile-Manipulation)**
+**[Southwest bans humanoid robots from all flights](https://www.newsnationnow.com/us-news/strange/southwest-bans-humanoid-robots-flights/)**
 
-Locus Robotics, the leader in Flexibility-First Warehouse Automation, today announced the acquisition of Nexera Robotics, a Vancouver-based robotics company ...
-
-Business Wire • 1d ago
+NewsNation • 12h ago
 
 ---
 
-**['I had no fears about robotic surgery after my cancer diagnosis'](https://www.bbc.com/news/articles/c7v9mj0r3jyo)**
+**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
 
-Robotic surgery requires only very small incisions and uses miniaturised cameras and instruments, controlled remotely by a surgeon.
+Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
 
-BBC • 13h ago
-
----
-
-**[Davos robot WISeRobot goes quantum-secure for AI in government and healthcare](https://www.stocktitan.net/news/LAES/sealsq-and-wi-se-key-announce-roadmap-and-launch-of-official-website-zdfs5rbt1k92.html)**
-
-Featured at CNBC Davos, WISeRobot now has a WISeRobot.ch hub and roadmap linking SEALSQ post-quantum chips to robots for government and healthcare.
-
-Stock Titan • 6h ago
+eWeek • 20h ago
 
 ---
 
-**[Rivian's Robotics Company Is Now Worth More Than $3 Billion. Investors Could Benefit in 2 Important Ways.](https://finance.yahoo.com/markets/stocks/articles/rivians-robotics-company-now-worth-193500572.html)**
+**[First-in-US: Gatsby’s humanoid robot performs home cleaning service for client](https://interestingengineering.com/ai-robotics/us-gatsby-humanoid-robot-clean-apartment)**
 
-Rivian believes robotics are an important element of its future.
+Gatsby is taking a different path. Started in January 2026, the company is built to work with any kind of robot - including humanoids.
 
-Yahoo Finance • 1d ago
-
----
-
-**[St. Louis uses Disney tactic to hide blighted buildings ahead of major convention](https://www.bizjournals.com/stlouis/news/2026/05/19/gsl-beautify-railway-exchange-st-louis.html)**
-
-The Business Journals • 16h ago
+Interesting Engineering • 6h ago
 
 ---
 
@@ -162,27 +148,41 @@ CNBC • 1d ago
 
 ---
 
+**[St. Louis uses Disney tactic to hide blighted buildings ahead of major convention](https://www.bizjournals.com/stlouis/news/2026/05/19/gsl-beautify-railway-exchange-st-louis.html)**
+
+The Business Journals • 20h ago
+
+---
+
+**[Locus Robotics Acquires Nexera Robotics, Advancing a Patented Breakthrough in Mobile Manipulation](https://www.businesswire.com/news/home/20260519458248/en/Locus-Robotics-Acquires-Nexera-Robotics-Advancing-a-Patented-Breakthrough-in-Mobile-Manipulation)**
+
+Locus Robotics, the leader in Flexibility-First Warehouse Automation, today announced the acquisition of Nexera Robotics, a Vancouver-based robotics company ...
+
+Business Wire • 1d ago
+
+---
+
 **[New 3D printing tech is set to give robots human-like muscles](https://newatlas.com/robotics/3d-printing-robots-human-like-muscles/)**
 
 The day is coming when you may walk past a robot and have no idea it was a robot. Over years of engineering, we've given robots skeletons, brains, senses, and even a nervous system. Muscles have proven particularly complex (not that the other things were easy).
 
-New Atlas • 10h ago
+New Atlas • 14h ago
 
 ---
 
-**[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.eweek.com/news/southwest-bans-humanoid-robots-flights/)**
+**['I had no fears about robotic surgery after my cancer diagnosis'](https://www.bbc.com/news/articles/c7v9mj0r3jyo)**
 
-Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
+Robotic surgery requires only very small incisions and uses miniaturised cameras and instruments, controlled remotely by a surgeon.
 
-eWeek • 16h ago
+BBC • 17h ago
 
 ---
 
-**[Rivian Founder’s New Company Aims To Evolve Humanoid Robots](https://www.forbes.com/sites/edgarsten/2026/05/19/rivian-founders-new-company-aims-to-evolve-humanoid-robots/)**
+**[Davos robot WISeRobot goes quantum-secure for AI in government and healthcare](https://www.stocktitan.net/news/LAES/sealsq-and-wi-se-key-announce-roadmap-and-launch-of-official-website-zdfs5rbt1k92.html)**
 
-Rivian Automotive founder RJ Scaringe has founded a new company aimed at developing better humanoid robots as the auto industry learns how to use them more effectively.
+Featured at CNBC Davos, WISeRobot now has a WISeRobot.ch hub and roadmap linking SEALSQ post-quantum chips to robots for government and healthcare.
 
-Forbes • 1d ago
+Stock Titan • 9h ago
 
 ---
 
@@ -196,37 +196,7 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 10K • 👍 278 • 💬 233 • ⏱️ 16:12 • 1d ago
-
----
-
-**[Building a Heat Seeking Robotic Rat that Runs into the Nearest Deep Fryer](https://www.youtube.com/watch?v=WQkKfFpqr4w)**
-
-Twitch: https://www.twitch.tv/uwoslab Twitter: https://twitter.com/uwutoowo1 Tiktok: https://www.tiktok.com/@uwos.lab.
-
-📺 Uwos Lab
-
-👁️ 79K • 👍 7K • 💬 135 • ⏱️ 2:05 • 2d ago
-
----
-
-**[F.03 Livestream - Day 7 | Over 144 consecutive hours and 179K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
-
-Watch a team of humanoid robots running a full 144+ Hour shift at human performance levels. This is fully autonomous running ...
-
-📺 Figure
-
-👁️ 3.0M • 👍 44K • 6d ago
-
----
-
-**[Man Buys Plane Ticket For Robot](https://www.youtube.com/watch?v=cJdZIkJmgzk)**
-
-A cute little robot named Stewie caused some big drama. The machine's owner booked it on a Southwest flight, even buckling the ...
-
-📺 Inside Edition
-
-👁️ 30K • 👍 564 • 💬 156 • ⏱️ 1:35 • 1d ago
+👁️ 11K • 👍 293 • 💬 237 • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -236,37 +206,27 @@ Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of thos
 
 📺 Technology with Tyler
 
-👁️ 62K • 👍 1K • 💬 263 • ⏱️ 21:16 • 6d ago
+👁️ 63K • 👍 1K • 💬 265 • ⏱️ 21:16 • 6d ago
 
 ---
 
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+**[Man Buys Plane Ticket For Robot](https://www.youtube.com/watch?v=cJdZIkJmgzk)**
 
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+A cute little robot named Stewie caused some big drama. The machine's owner booked it on a Southwest flight, even buckling the ...
 
-📺 ShortCircuit
+📺 Inside Edition
 
-👁️ 154K • 👍 7K • 💬 830 • ⏱️ 15:32 • 3d ago
-
----
-
-**[They’re all acting like robots.](https://www.youtube.com/watch?v=mxQR025JWX0)**
-
-LIKE & SUBSCRIBE for new videos daily: https://youtube.com/@BenShapiro?si=mTKyS7TICo9m0UA3 ALSO SUBSCRIBE to the ...
-
-📺 Ben Shapiro
-
-👁️ 86K • 👍 3K • 💬 260 • ⏱️ 0:37 • 5d ago
+👁️ 31K • 👍 571 • 💬 160 • ⏱️ 1:35 • 1d ago
 
 ---
 
-**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
+**[F.03 Livestream - Day 7 | Over 144 consecutive hours and 179K packages](https://www.youtube.com/watch?v=luU57hMhkak)**
 
-A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
+Watch a team of humanoid robots running a full 144+ Hour shift at human performance levels. This is fully autonomous running ...
 
-📺 CBS TEXAS
+📺 Figure
 
-👁️ 394K • 👍 8K • 💬 2K • ⏱️ 3:03 • 6d ago
+👁️ 3.0M • 👍 45K • 6d ago
 
 ---
 
@@ -276,7 +236,17 @@ Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous
 
 📺 NBC News
 
-👁️ 88K • 👍 775 • 💬 271 • ⏱️ 3:00 • 5d ago
+👁️ 89K • 👍 777 • 💬 271 • ⏱️ 3:00 • 5d ago
+
+---
+
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+
+📺 ShortCircuit
+
+👁️ 155K • 👍 7K • 💬 833 • ⏱️ 15:32 • 4d ago
 
 ---
 
@@ -286,7 +256,35 @@ Discover deep-dive engineering stories and breakthrough technologies on Interest
 
 📺 Interesting Engineering
 
-👁️ 50K • 👍 514 • 💬 143 • ⏱️ 1:30 • 5d ago
+👁️ 50K • 👍 521 • 💬 145 • ⏱️ 1:30 • 6d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=ui2TD6ONsH8)**
+
+📺 Borunte julie 
+
+👁️ 28K • 👍 204 • 💬 1 • ⏱️ 0:33 • 1d ago
+
+---
+
+**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
+
+A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
+
+📺 CBS TEXAS
+
+👁️ 395K • 👍 8K • 💬 2K • ⏱️ 3:03 • 6d ago
+
+---
+
+**[Figure CEO Says No Teleoperation in Their Humanoid Robot Testing](https://www.youtube.com/watch?v=vcLdWwoG0mQ)**
+
+Figure, a robotics company developing humanoid robots that operate via AI, is running a livestream of one of its robots sorting ...
+
+📺 Bloomberg Technology
+
+👁️ 65K • 👍 943 • 💬 335 • ⏱️ 6:19 • 4d ago
 
 ---
 
