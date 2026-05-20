@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-20T20:59:19.225336+00:00'
+updated: '2026-05-20T22:39:09.057525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 20:59 UTC  
+**Last Updated:** May 20, 2026 at 22:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -6.5%  
-**30d:** -8.2%  
-**90d:** +8.4%  
-**1y:** -16.3%  
+**24h:** +0.7%  
+**7d:** -6.9%  
+**30d:** -8.6%  
+**90d:** +8.0%  
+**1y:** -16.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Been thinking a lot about the Ethereum Foundation security conversations this we
 
 Trump's executive order does not give crypto firms Fed payment access. It gives them something more dangerous to the Fed's position. The Fed now has 120 days to explain itself in writing.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 7h ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
 
-5h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/RlOUkKDoRoQ) • 4h ago
+🔗 [youtu.be](https://youtu.be/RlOUkKDoRoQ) • 5h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 1d ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 2d ago
 
 ---
 
@@ -166,11 +166,19 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum Pullback Deepens, But Key Structure Still Signals Bullish Hope](https://www.tradingview.com/news/newsbtc:cb8b63be0094b:0-ethereum-pullback-deepens-but-key-structure-still-signals-bullish-hope/)**
+
+Ethereum’s recent pullback has added pressure to the market, but the broader technical structure continues to show signs of resilience. Despite the decline, ETH remains above several critical support zones, keeping hopes alive that the long-term bullish trend may still be intact if buyers can maint…
+
+TradingView • 1h ago
+
+---
+
 **[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
 
 Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -196,31 +204,23 @@ CoinDesk • 2d ago
 
 ---
 
-**[BREAKING: Bank of America (BofA) Reveals $53M in Bitcoin, XRP, Ethereum, Solana ETFs Holding](https://finance.yahoo.com/markets/crypto/articles/breaking-bank-america-bofa-reveals-115604055.html)**
-
-Bank of America (BofA) has disclosed significant exposure to Bitcoin, Ethereum, XRP, and Solana through exchange-traded funds (ETFs). The Wall Street giant also revealed massive holdings in Strategy (MSTR), American Bitcoin Corp (ABTC), and other crypto stocks. Bank of America Holds Almost $53 Million in Bitcoin, Ethereum, XRP, and Solana Bank of America (BofA) has
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
 
 Barron's • 2d ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Despite the CLARITY Act Breakthrough?](https://www.tradingview.com/news/coinpedia:c7b1b05c6094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-despite-the-clarity-act-breakthrough/)**
+**[What’s Dragging Ethereum Down? BitMine’s Tom Lee Has an Answer](https://finance.yahoo.com/markets/crypto/articles/dragging-ethereum-down-bitmine-tom-042528976.html)**
 
-The CLARITY Act just cleared the Senate Banking Committee in the most significant regulatory breakthrough for crypto in US history. Bitcoin should be rallying, but instead it is down $6,000 since the vote advanced the bill to the full Senate, wiping $126 billion from its market cap. Ethereum fell m…
+Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
 
-TradingView • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Spirals as ETH/BTC Ratio Plunges and Wintermute Declares It the ‘Wrong Asset for This Macro’](https://www.tipranks.com/news/ethereum-spirals-as-eth-btc-ratio-plunges-and-wintermute-declares-it-the-wrong-asset-for-this-macro)**
+**[Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices](https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices)**
 
-TipRanks • 9h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 14 • 💬 12 • ⏱️ 10:40 • 7h ago
+👁️ 3K • 👍 14 • 💬 12 • ⏱️ 10:40 • 9h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 169 • 💬 13 • ⏱️ 17:05 • 3h ago
+👁️ 2K • 👍 169 • 💬 13 • ⏱️ 17:05 • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ Ethereum continues to struggle below key resistance while Bitcoin remains the st
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 297 • 💬 21 • ⏱️ 10:33 • 20h ago
+👁️ 5K • 👍 297 • 💬 21 • ⏱️ 10:33 • 21h ago
 
 ---
 
@@ -314,7 +314,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 373 • 💬 193 • ⏱️ 16:03 • 7h ago
+👁️ 5K • 👍 373 • 💬 193 • ⏱️ 16:03 • 9h ago
 
 ---
 
@@ -324,7 +324,7 @@ Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/t
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 253 • ⏱️ 8:37 • 2d ago
+👁️ 38K • 👍 2K • 💬 253 • ⏱️ 8:37 • 3d ago
 
 ---
 
