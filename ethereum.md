@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-20T09:59:58.303078+00:00'
+updated: '2026-05-20T12:32:52.491065+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 09:59 UTC  
+**Last Updated:** May 20, 2026 at 12:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** -6.7%  
+**7d:** -6.6%  
 **30d:** -8.4%  
-**90d:** +8.2%  
+**90d:** +8.3%  
 **1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.75B
+**Market Cap:** $256.90B
 Rank #2
 
 **Circulating Supply:** 120,685,661 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-56.9%
 
 **All-Time Low:** $0.43
-+491073.9%
++491727.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+7h ago
 
 ---
 
@@ -166,11 +166,27 @@ Decrypt • 1d ago
 
 ---
 
-**[This Top Cryptocurrency Could Soar 2,600%, According to High-Profile Wall Street Strategist](https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrency-could-soar-2-090500751.html)**
+**[Ethereum ‘Not the Right Asset’ For Now? Here's Why Wintermute Claims ETH Is Failing In The Current Macro](https://finance.yahoo.com/markets/crypto/articles/ethereum-not-asset-now-heres-113905433.html)**
 
-Ethereum could be on the verge of a major breakout, but a lot needs to go right for that to happen.
+Wintermute said Ethereum is 'the wrong asset for this macro.' It comes shortly after Tom Lee linked Ethereum’s weakness to rising oil prices. Despite near-term ...
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 53m ago
+
+---
+
+**[Ethereum falls below key levels as ETF outflows spark fresh selloff concerns](https://www.tradingview.com/news/invezz:238cf9e37094b:0-ethereum-falls-below-key-levels-as-etf-outflows-spark-fresh-selloff-concerns/)**
+
+Ethereum (ETH) is hovering around $2,130, up 1% on Wednesday after facing strong selling pressure over the past week.The leading altcoin dipped from above $2,300 after retail wallet distributions. The selloff also came following soaring inflation and rising US Treasury yields.For Ethereum, the coin…
+
+TradingView • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, May 20, 2026: Opened lower but moving higher](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-20-2026-opened-lower-but-moving-higher-111622180.html)**
+
+Bitcoin opened at $76,757.31 on Wednesday, May 20, 2026, down 0.3% from Tuesday’s opening price. The price of bitcoin as of 7:00 a.m. ET rose to $77,428.64. Ethereum opened at $2,110.07 on Wednesday, 0.9% lower than Tuesday’s opening price. Ethereum also rose this morning, valued at $2,128.62 as of 7:00 a.m. ET.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +202,7 @@ The Harvard Crimson • 1d ago
 
 The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
 
-The Block • 11h ago
+The Block • 13h ago
 
 ---
 
@@ -200,7 +216,7 @@ CoinDesk • 1d ago
 
 Cybersecurity is a major concern for crypto right now.
 
-The Motley Fool • 10m ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -208,19 +224,7 @@ The Motley Fool • 10m ago
 
 Bank of America (BofA) has disclosed significant exposure to Bitcoin, Ethereum, XRP, and Solana through exchange-traded funds (ETFs). The Wall Street giant also revealed massive holdings in Strategy (MSTR), American Bitcoin Corp (ABTC), and other crypto stocks. Bank of America Holds Almost $53 Million in Bitcoin, Ethereum, XRP, and Solana Bank of America (BofA) has
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
-
-Barron's • 1d ago
-
----
-
-**[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
-
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -234,7 +238,7 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 21K • 👍 1K • 💬 63 • ⏱️ 32:50 • 14h ago
+👁️ 22K • 👍 1K • 💬 84 • ⏱️ 32:50 • 17h ago
 
 ---
 
@@ -244,7 +248,7 @@ Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 182 • 💬 31 • ⏱️ 13:32 • 17h ago
+👁️ 7K • 👍 186 • 💬 32 • ⏱️ 13:32 • 20h ago
 
 ---
 
@@ -254,7 +258,17 @@ Ethereum continues to struggle below key resistance while Bitcoin remains the st
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 223 • 💬 7 • ⏱️ 10:33 • 9h ago
+👁️ 4K • 👍 261 • 💬 15 • ⏱️ 10:33 • 11h ago
+
+---
+
+**[BitMine Just Bought 71k More ETH | Now Owns 4.37% of Supply (Faster Than MicroStrategy)](https://www.youtube.com/watch?v=eNmDqdX8B6s)**
+
+CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 721 • 👍 29 • 💬 9 • ⏱️ 3:30 • 20h ago
 
 ---
 
@@ -268,23 +282,13 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 ---
 
-**[BitMine Just Bought 71k More ETH | Now Owns 4.37% of Supply (Faster Than MicroStrategy)](https://www.youtube.com/watch?v=eNmDqdX8B6s)**
-
-CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
-
-📺 Marzell Crypto
-
-👁️ 697 • 👍 27 • 💬 9 • ⏱️ 3:30 • 18h ago
-
----
-
 **[How $1 Trillion of US Treasury Demand is Quietly Moving Onto Ethereum](https://www.youtube.com/watch?v=lUsE5_1a_1I)**
 
 BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almost nobody caught it. On May 8, Larry Fink filed two ...
 
 📺 Alexander Lorenzo
 
-👁️ 20K • 👍 2K • 💬 136 • ⏱️ 2:31 • 19h ago
+👁️ 22K • 👍 2K • 💬 137 • ⏱️ 2:31 • 21h ago
 
 ---
 
@@ -294,7 +298,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 790 • 💬 264 • ⏱️ 6:17 • 1d ago
+👁️ 8K • 👍 792 • 💬 265 • ⏱️ 6:17 • 1d ago
 
 ---
 
@@ -304,27 +308,27 @@ Terra Compute https://terracompute.ai/#redpandamining Vast Ai sign up https://cl
 
 📺 Red Panda Mining
 
-👁️ 6K • 👍 366 • 💬 75 • ⏱️ 18:17 • 22h ago
+👁️ 7K • 👍 376 • 💬 75 • ⏱️ 18:17 • 1d ago
 
 ---
 
-**[ETHEREUM KORREKTUR BEENDET !!! NÄCHSTES ZIEL 3.000$ !!!](https://www.youtube.com/watch?v=3TEeRZIbwIk)**
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
 
-bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Einzahlungsaktion ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 RSFM
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 383 • 💬 67 • ⏱️ 10:39 • 20h ago
+👁️ 22K • 👍 501 • 💬 61 • ⏱️ 23:02 • 2d ago
 
 ---
 
-**[Next Crypto Bull Run Can Make You Rich (Unlike Anything Else)](https://www.youtube.com/watch?v=d0gzEK3F-4s)**
+**[🚨 BTC &amp; ETH: EXTREME WARNING TO EVERYONE!!!!!](https://www.youtube.com/watch?v=pXaVmd68Frw)**
 
-Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
+This is not looking great for bitcoin, ethereum and the rest of crypto! Pay attention to these four main core macro pillars!
 
-📺 Altcoin Daily
+📺 Thomas Kralow
 
-👁️ 38K • 👍 2K • 💬 270 • ⏱️ 8:37 • 2d ago
+👁️ 29K • 👍 2K • 💬 42 • ⏱️ 10:04 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-20T09:59:58.305263+00:00'
+updated: '2026-05-20T12:32:52.493814+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 20, 2026 at 09:59 UTC  
+**Last Updated:** May 20, 2026 at 12:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,19 @@ Robotics research and industry news
 
 A mobile retail robot using an open-source robot arm to pick items from store shelves. It’s a simple demo, but a nice example of real-world manipulation: finding the item, reaching into the shelf, gripping it, and placing it into the cart. The open-source hardware angle makes it especially interesting for robotics builders.
 
-3h ago
+6h ago
 
 ---
 
 **[Hungry robot](https://www.reddit.com/r/robotics/comments/1tib9tw/hungry_robot/)**
 
-5h ago
+7h ago
+
+---
+
+**[ok new plan, i made a Nodding Mechanism / Nodding Mount object in blender 3d, for the lidar, so it comes from 2d to 3d](https://www.reddit.com/r/robotics/comments/1tij9f5/ok_new_plan_i_made_a_nodding_mechanism_nodding/)**
+
+43m ago
 
 ---
 
@@ -58,7 +64,13 @@ From Boston Dynamics on 𝕏 (thread with longer video): https://x.com/BostonDyn
 
 Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbilt University and former director of the Robotics Institute at Carnegie Mellon, argues that physical AI may not follow the same path as large language models. Language models had a clear training target: predict the next word. That gave researchers a simple objective that could be scaled across massive amounts of text. Robotics does not appear to have the same equivalent yet. A robot can collect large amounts of video, sensor and encoder data, but that does not automatically solve the harder problem: what should the system actually optimize for? Predicting the next frame, joint angle or robot motion is not as universal as predicting the next word in a sentence.
 
-17h ago
+20h ago
+
+---
+
+**[👋Welcome to r/processinglifechanges - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1tiij29/welcome_to_rprocessinglifechanges_introduce/)**
+
+1h ago
 
 ---
 
@@ -66,7 +78,7 @@ Matthew Johnson-Roberson, Dean of the College of Connected Computing at Vanderbi
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +86,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2056674074735354265
 
 New head and neck designs complete and assembled, the old head is now a nice souvenir. With that out of the way the last phase of this project has begun, the legs. I just got a few actuators to help me polish the leg design and then test, i’m now waiting for rotary encoders to arrive so i can fully finish leg design. Once i have the final design the next step will be to get the material for printing, wire everything and last to balance it and HOPEFULLY make it walk✌️
 
-21h ago
+23h ago
 
 ---
 
@@ -82,7 +94,7 @@ New head and neck designs complete and assembled, the old head is now a nice sou
 
 I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF LiDAR. Mounted at the rear of the vehicle and powered by a Jetson Nano for real-time data processing, the system enables precise reverse obstacle avoidance — the robot automatically detects rear obstacles and comes to a stable stop before collision. Full source code will be open-sourced on GitHub.
 
-19h ago
+21h ago
 
 ---
 
@@ -90,19 +102,7 @@ I built a rear obstacle avoidance system on the LIMO robot using the HM-LD1 dToF
 
 Pose is position + orientation, but I've been trying to find if there is a standard term for pose + configuration of a robot. ABB uses robtarget but I would be surprised if that's the standard term. From looking into it I've found both "model" and "posture", but I have no idea if these are specific for a manufacturer or standards in robotics.
 
-6h ago
-
----
-
-**[Anyone around Vancouver/Burnaby building autonomous drones or robotics projects or FPV pilots?](https://www.reddit.com/r/robotics/comments/1thuwb5/anyone_around_vancouverburnaby_building/)**
-
-15h ago
-
----
-
-**[Finally made it !](https://www.reddit.com/r/robotics/comments/1thfre4/finally_made_it/)**
-
-1d ago
+8h ago
 
 ---
 
@@ -116,35 +116,27 @@ Barron's • 1d ago
 
 ---
 
-**[OLO Robotics completes commercial launch with three international manufacturing and distribution partnerships](https://roboticsandautomationnews.com/2026/05/20/olo-robotics-completes-commercial-launch-with-three-international-manufacturing-and-distribution-partnerships/101745/)**
+**[Locus Robotics Acquires Nexera Robotics, Advancing a Patented Breakthrough in Mobile Manipulation](https://www.businesswire.com/news/home/20260519458248/en/Locus-Robotics-Acquires-Nexera-Robotics-Advancing-a-Patented-Breakthrough-in-Mobile-Manipulation)**
 
-OLO Robotics has completed its commercial launch, announcing new manufacturing and distribution partnerships with Deep Robotics, inMotion Robotic, and Fiction Lab as robot companies move to make th…
+Locus Robotics, the leader in Flexibility-First Warehouse Automation, today announced the acquisition of Nexera Robotics, a Vancouver-based robotics company ...
 
-Robotics & Automation News • 2h ago
-
----
-
-**[Boston Dynamics trains Atlas humanoid robot to pick up and place washing machine](https://roboticsandautomationnews.com/2026/05/20/boston-dynamics-trains-atlas-humanoid-robot-to-pick-up-and-place-washing-machine/101759/)**
-
-Boston Dynamics has released new behind-the-scenes footage showing its latest electric humanoid robot, Atlas, performing heavy lifting and manipulation tasks that the company says are designed to p…
-
-Robotics & Automation News • 59m ago
+Business Wire • 1d ago
 
 ---
 
-**[Nvidia to launch Singapore research hub as city-state boosts AI plans](https://www.cnbc.com/2026/05/20/nvidia-to-launch-singapore-research-hub-as-city-state-boosts-ai-plans.html)**
-
-Singapore has announced a new Nvidia research center and its first testbed to research, test and deploy physical AI, along with industry leaders.
-
-CNBC • 5h ago
-
----
-
-**['Robotic technology is the way forward' for cancer surgery](https://www.bbc.com/news/articles/c7v9mj0r3jyo)**
+**['I had no fears about robotic surgery after my cancer diagnosis'](https://www.bbc.com/news/articles/c7v9mj0r3jyo)**
 
 Robotic surgery requires only very small incisions and uses miniaturised cameras and instruments, controlled remotely by a surgeon.
 
-BBC • 10h ago
+BBC • 13h ago
+
+---
+
+**[Davos robot WISeRobot goes quantum-secure for AI in government and healthcare](https://www.stocktitan.net/news/LAES/sealsq-and-wi-se-key-announce-roadmap-and-launch-of-official-website-zdfs5rbt1k92.html)**
+
+Featured at CNBC Davos, WISeRobot now has a WISeRobot.ch hub and roadmap linking SEALSQ post-quantum chips to robots for government and healthcare.
+
+Stock Titan • 6h ago
 
 ---
 
@@ -156,19 +148,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Dissimilar robots can 'learn' to perform tasks without needing new code](https://newatlas.com/robotics/dissimilar-robots-learn-tasks-without-new-code/)**
+**[St. Louis uses Disney tactic to hide blighted buildings ahead of major convention](https://www.bizjournals.com/stlouis/news/2026/05/19/gsl-beautify-railway-exchange-st-louis.html)**
 
-It’s fairly easy for people to learn from other people – we’ve been doing it for around 300,000 years – because we can observe, copy, and modify what they’re doing. It’s less easy for us to learn from other animals that way, because the less our cognition and bodies are alike, the harder it is to…
-
-New Atlas • 1d ago
+The Business Journals • 16h ago
 
 ---
 
-**[80-pound lunar robot built by students targets future Artemis missions](https://interestingengineering.com/ai-robotics/nasa-lunabotics-uva-moon-mining-robot)**
+**[22. Carbon Robotics](https://www.cnbc.com/2026/05/19/carbon-robotics-cnbc-disruptor-50-ranking.html)**
 
-UVA students built a moon-mining robot for NASA’s Lunabotics Challenge at Kennedy Space Center.
+Carbon Robotics, which makes AI-equipped farm machinery, ranks No. 22 on CNBC’s 2026 Disruptor 50 list.
 
-Interesting Engineering • 10h ago
+CNBC • 1d ago
+
+---
+
+**[New 3D printing tech is set to give robots human-like muscles](https://newatlas.com/robotics/3d-printing-robots-human-like-muscles/)**
+
+The day is coming when you may walk past a robot and have no idea it was a robot. Over years of engineering, we've given robots skeletons, brains, senses, and even a nervous system. Muscles have proven particularly complex (not that the other things were easy).
+
+New Atlas • 10h ago
 
 ---
 
@@ -176,7 +174,7 @@ Interesting Engineering • 10h ago
 
 Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
 
-eWeek • 14h ago
+eWeek • 16h ago
 
 ---
 
@@ -198,7 +196,17 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 10K • 👍 272 • 💬 223 • ⏱️ 16:12 • 1d ago
+👁️ 10K • 👍 278 • 💬 233 • ⏱️ 16:12 • 1d ago
+
+---
+
+**[Building a Heat Seeking Robotic Rat that Runs into the Nearest Deep Fryer](https://www.youtube.com/watch?v=WQkKfFpqr4w)**
+
+Twitch: https://www.twitch.tv/uwoslab Twitter: https://twitter.com/uwutoowo1 Tiktok: https://www.tiktok.com/@uwos.lab.
+
+📺 Uwos Lab
+
+👁️ 79K • 👍 7K • 💬 135 • ⏱️ 2:05 • 2d ago
 
 ---
 
@@ -208,17 +216,7 @@ Watch a team of humanoid robots running a full 144+ Hour shift at human performa
 
 📺 Figure
 
-👁️ 2.9M • 👍 44K • 6d ago
-
----
-
-**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
-
-Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
-
-📺 Technology with Tyler
-
-👁️ 61K • 👍 1K • 💬 261 • ⏱️ 21:16 • 6d ago
+👁️ 3.0M • 👍 44K • 6d ago
 
 ---
 
@@ -228,17 +226,17 @@ A cute little robot named Stewie caused some big drama. The machine's owner book
 
 📺 Inside Edition
 
-👁️ 30K • 👍 561 • 💬 154 • ⏱️ 1:35 • 1d ago
+👁️ 30K • 👍 564 • 💬 156 • ⏱️ 1:35 • 1d ago
 
 ---
 
-**[Unitree unveils world&#39;s first manned transformable robotic vehicle](https://www.youtube.com/watch?v=LpMElD7-RmM)**
+**[Top 8 NEW Most Realistic AI Robots of 2026 (Updated)](https://www.youtube.com/watch?v=QlBrPz4NcZM)**
 
-Unitree Robotics has unveiled the GD01 — the world's first mass-produced rideable transforming mecha, with a starting price of ...
+Top 8 NEW Most Realistic AI Robots of 2026 (Updated) I know you're tired of those “REALISTIC AI ROBOT” videos where the ...
 
-📺 CGTN Europe
+📺 Technology with Tyler
 
-👁️ 80K • 👍 549 • 💬 66 • ⏱️ 0:33 • 6d ago
+👁️ 62K • 👍 1K • 💬 263 • ⏱️ 21:16 • 6d ago
 
 ---
 
@@ -248,7 +246,27 @@ Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links b
 
 📺 ShortCircuit
 
-👁️ 154K • 👍 7K • 💬 828 • ⏱️ 15:32 • 3d ago
+👁️ 154K • 👍 7K • 💬 830 • ⏱️ 15:32 • 3d ago
+
+---
+
+**[They’re all acting like robots.](https://www.youtube.com/watch?v=mxQR025JWX0)**
+
+LIKE & SUBSCRIBE for new videos daily: https://youtube.com/@BenShapiro?si=mTKyS7TICo9m0UA3 ALSO SUBSCRIBE to the ...
+
+📺 Ben Shapiro
+
+👁️ 86K • 👍 3K • 💬 260 • ⏱️ 0:37 • 5d ago
+
+---
+
+**[Humanoid robot’s Southwest flight sparks instant airline policy change](https://www.youtube.com/watch?v=pnw913voYHA)**
+
+A Dallas business owner attempted something he believes had never been done: flying commercially with his 3.5‑foot humanoid ...
+
+📺 CBS TEXAS
+
+👁️ 394K • 👍 8K • 💬 2K • ⏱️ 3:03 • 6d ago
 
 ---
 
@@ -268,25 +286,7 @@ Discover deep-dive engineering stories and breakthrough technologies on Interest
 
 📺 Interesting Engineering
 
-👁️ 50K • 👍 513 • 💬 143 • ⏱️ 1:30 • 5d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=bV6k7sMF9Fk)**
-
-📺 Robot Julie 
-
-👁️ 14K • 👍 24 • ⏱️ 0:21 • 1d ago
-
----
-
-**[AI Robots Just SHOCKED The World… This Is Getting Too Real](https://www.youtube.com/watch?v=ohySlGQMDkE)**
-
-What's happening in robotics right now is straight-up unbelievable — and you NEED to see this before anyone else does.
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 75 • 💬 1 • ⏱️ 20:16 • 11h ago
+👁️ 50K • 👍 514 • 💬 143 • ⏱️ 1:30 • 5d ago
 
 ---
 
