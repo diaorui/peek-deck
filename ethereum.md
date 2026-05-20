@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-20T01:30:54.412182+00:00'
+updated: '2026-05-20T06:09:06.032645+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 01:30 UTC  
+**Last Updated:** May 20, 2026 at 06:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,59 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,135.34
+### $2,109.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -7.9%  
-**30d:** -9.6%  
-**90d:** +6.8%  
-**1y:** -17.5%  
+**24h:** -0.8%  
+**7d:** -6.9%  
+**30d:** -8.6%  
+**90d:** +8.0%  
+**1y:** -16.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.47B
+**Market Cap:** $256.23B
 Rank #2
 
 **Circulating Supply:** 120,685,661 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-57.0%
 
 **All-Time Low:** $0.43
-+486708.8%
++490704.4%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 20, 2026](https://www.reddit.com/r/ethereum/comments/1tibkz7/daily_general_discussion_may_20_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
+**[Cheapest DEX for swapping above $10k?](https://www.reddit.com/r/ethereum/comments/1ticme4/cheapest_dex_for_swapping_above_10k/)**
+
+Hey! I need some help... I swapped $22k of ETH to USDC on Uniswap last week and lost $480 to slippage alone. Never had this problem with smaller amounts but anything above $10k and the price impact gets ugly fast. Is there something better for larger swaps or am I missing a setting somewhere?
+
+13m ago
+
+---
+
 **[Daily General Discussion May 19, 2026](https://www.reddit.com/r/ethereum/comments/1thcqp2/daily_general_discussion_may_19_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -96,7 +112,7 @@ Vitalik’s point here is pretty interesting imo. The usual fear is that AI make
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -125,22 +141,6 @@ Heyy Guys, im back from learning foundry and next looking to build some projects
 **[Instant way to Unstake stETH?](https://www.reddit.com/r/ethereum/comments/1tf06ed/instant_way_to_unstake_steth/)**
 
 I am trying to unstake through Lido but the withdrawal queue is showing multiple days, tried a small amount and my steth just disappeared and i received a weird NFT Is there currently a instant way to Unstake Lido ETH / a cheap way to do that? It's so frustrating
-
-3d ago
-
----
-
-**[Daily General Discussion May 16, 2026](https://www.reddit.com/r/ethereum/comments/1tejwhl/daily_general_discussion_may_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Architectural Breakdown: EVM Events, Transaction Receipts, and RPC Log Filtering](https://www.reddit.com/r/ethereum/comments/1tepe86/architectural_breakdown_evm_events_transaction/)**
-
-Events (logs) are the EVM’s native asynchronous data pipeline, but they are fundamentally distinct from contract storage. Instead of modifying the state trie, events write directly to the transaction receipt trie. This structural separation is what makes them highly gas-efficient for off-chain indexing. Under the hood, an emitted event is partitioned into topics and data: Topics are the search keys: Capped at 4 topics per log. Topic[0] is always the keccak256 hash of the event signature (e.g., Transfer(address,address,uint256)). Topic[1] through Topic[3] are your indexed parameters, padded to fixed 32-byte values. This allows RPC nodes to build bloom filters, enabling highly efficient eth_getLogs queries over millions of blocks without reading the full log payload. Data (The Blob): All non-indexed parameters are ABI-encoded into a single raw byte string. While cheaper in gas, this data is strictly unsearchable at the RPC layer; you must fetch the raw log and decode it client-side. When querying an RPC provider via eth_getLogs, you are searching against these bloom filters. Passing an array of topics in your RPC call allows for direct intersection matching to isolate specific contract interactions without touching the execution environment. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/understanding-events-the-evms-built Since event logs aren't accessible from within smart contracts, how would you securely prove to a downstream L1 contract that a specific event was emitted on an L2 roll-up without relying on a trusted centralized indexer?
 
 3d ago
 
@@ -170,7 +170,15 @@ Decrypt • 1d ago
 
 The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
 
-The Block • 2h ago
+The Block • 7h ago
+
+---
+
+**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
+
+Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
+
+The Harvard Crimson • 23h ago
 
 ---
 
@@ -178,13 +186,33 @@ The Block • 2h ago
 
 Ethereum (CRYPTO: ETH) is at a crossroads that could define 2026 for crypto investors. After a brutal early-year slide that dragged ETH below $1,800, the second-largest cryptocurrency has clawed back to hover around $2,110. Wall Street strategist Tom Lee believes that recovery is a season change and not just a bounce. Lee has officially declared ... Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Ethereum (ETH) news: Vitalik Buterin says AI verification could actually make crypto much more secure](https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure)**
+**[‘What's happening at the EF?’ Ethereum community looking for answers after high-profile departures](https://www.coindesk.com/tech/2026/05/19/what-s-happening-at-the-ef-ethereum-community-looking-for-answers-after-high-profile-departures)**
 
-CoinDesk • 1d ago
+CoinDesk • 9h ago
+
+---
+
+**[BREAKING: Bank of America (BofA) Reveals $53M in Bitcoin, XRP, Ethereum, Solana ETFs Holding](https://finance.yahoo.com/markets/crypto/articles/breaking-bank-america-bofa-reveals-115604055.html)**
+
+Bank of America (BofA) has disclosed significant exposure to Bitcoin, Ethereum, XRP, and Solana through exchange-traded funds (ETFs). The Wall Street giant also revealed massive holdings in Strategy (MSTR), American Bitcoin Corp (ABTC), and other crypto stocks. Bank of America Holds Almost $53 Million in Bitcoin, Ethereum, XRP, and Solana Bank of America (BofA) has
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
+
+Barron's • 1d ago
+
+---
+
+**[XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion](https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion)**
+
+CoinDesk • 21h ago
 
 ---
 
@@ -193,34 +221,6 @@ CoinDesk • 1d ago
 Bitmine owns more than 4.37% of the total ETH coin supply of 120.7 million Bitmine is 87% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
 
 PR Newswire • 1d ago
-
----
-
-**[What’s Dragging Ethereum Down? BitMine’s Tom Lee Has an Answer](https://finance.yahoo.com/markets/crypto/articles/dragging-ethereum-down-bitmine-tom-042528976.html)**
-
-Tom Lee blames rising oil prices for Ethereum's slump, citing a record inverse correlation as ETH erases May gains.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices](https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices)**
-
-CoinDesk • 1d ago
-
----
-
-**[XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster](https://finance.yahoo.com/markets/crypto/articles/xrp-ethereum-solana-ai-picks-160320688.html)**
-
-XRP (CRYPTO: XRP) trades at $1.38 after losing the $1.40 support level despite momentum from the CLARITY Act clearing the Senate Banking Committee. Meanwhile, Ethereum (CRYPTO: ETH) trades at $2,119, while Solana (CRYPTO: SOL) trades at $84 after losing the $90 support level. Crypto investors are asking which of these cryptos could hit 10x first. ... XRP, Ethereum, or Solana? AI Picks Which Crypto Will 10x Faster
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Price Fall as Clarity Act Gains Quickly Disappear](https://www.barrons.com/articles/bitcoin-ethereum-price-xrp-cryptos-today-4262aefa)**
-
-Barron's • 1d ago
 
 ---
 
@@ -234,17 +234,7 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 832 • 💬 50 • ⏱️ 32:50 • 6h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=wSIxg3iKT3U)**
-
-Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon for sponsoring! My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 4K • 👍 156 • 💬 29 • ⏱️ 13:32 • 9h ago
+👁️ 18K • 👍 1K • 💬 56 • ⏱️ 32:50 • 10h ago
 
 ---
 
@@ -254,17 +244,17 @@ Ethereum continues to struggle below key resistance while Bitcoin remains the st
 
 📺 More Crypto Online
 
-👁️ 269 • 👍 26 • 💬 1 • ⏱️ 10:33 • 40m ago
+👁️ 2K • 👍 145 • 💬 4 • ⏱️ 10:33 • 5h ago
 
 ---
 
-**[BitMine Just Bought 71k More ETH | Now Owns 4.37% of Supply (Faster Than MicroStrategy)](https://www.youtube.com/watch?v=eNmDqdX8B6s)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=wSIxg3iKT3U)**
 
-CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
+Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon for sponsoring! My FREE Daily 5-Min ...
 
-📺 Marzell Crypto
+📺 Crypto Nutshell
 
-👁️ 462 • 👍 21 • 💬 9 • ⏱️ 3:30 • 9h ago
+👁️ 6K • 👍 175 • 💬 29 • ⏱️ 13:32 • 13h ago
 
 ---
 
@@ -274,7 +264,17 @@ Welcome Back To The Channel! Make Sure To Check Out Nexo: https://nexo.sjv.io/Pz
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 257 • 💬 72 • ⏱️ 9:29 • 1d ago
+👁️ 5K • 👍 260 • 💬 72 • ⏱️ 9:29 • 1d ago
+
+---
+
+**[BitMine Just Bought 71k More ETH | Now Owns 4.37% of Supply (Faster Than MicroStrategy)](https://www.youtube.com/watch?v=eNmDqdX8B6s)**
+
+CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 597 • 👍 24 • 💬 9 • ⏱️ 3:30 • 14h ago
 
 ---
 
@@ -288,13 +288,33 @@ This is not looking great for bitcoin, ethereum and the rest of crypto! Pay atte
 
 ---
 
+**[Michael Saylor&#39;s Ethereum Tokens](https://www.youtube.com/watch?v=xbzUzrBaNPw)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Michael Saylor has been ...
+
+📺 Bitcoin University
+
+👁️ 8K • 👍 785 • 💬 264 • ⏱️ 6:17 • 1d ago
+
+---
+
+**[AI GPU Rentals feels like Ethereum GPU Mining Again.](https://www.youtube.com/watch?v=mfQE_CptyLA)**
+
+Terra Compute https://terracompute.ai/#redpandamining Vast Ai sign up https://cloud.vast.ai/?ref_id=502537 Enterprise-grade ...
+
+📺 Red Panda Mining
+
+👁️ 6K • 👍 345 • 💬 72 • ⏱️ 18:17 • 18h ago
+
+---
+
 **[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” |  2026 Crypto Prediction](https://www.youtube.com/watch?v=XMa4ImNquPE)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 491 • 💬 59 • ⏱️ 23:02 • 2d ago
+👁️ 22K • 👍 495 • 💬 59 • ⏱️ 23:02 • 2d ago
 
 ---
 
@@ -304,27 +324,7 @@ bitcoin #ethereum #krypto #analyse #trading ⚠️ Wir handeln bei BITUNIX - Ein
 
 📺 RSFM
 
-👁️ 2K • 👍 360 • 💬 66 • ⏱️ 10:39 • 12h ago
-
----
-
-**[Michael Saylor&#39;s Ethereum Tokens](https://www.youtube.com/watch?v=xbzUzrBaNPw)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Michael Saylor has been ...
-
-📺 Bitcoin University
-
-👁️ 8K • 👍 780 • 💬 260 • ⏱️ 6:17 • 1d ago
-
----
-
-**[Next Crypto Bull Run Can Make You Rich (Unlike Anything Else)](https://www.youtube.com/watch?v=d0gzEK3F-4s)**
-
-Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
-
-📺 Altcoin Daily
-
-👁️ 37K • 👍 2K • 💬 327 • ⏱️ 8:37 • 2d ago
+👁️ 2K • 👍 372 • 💬 66 • ⏱️ 10:39 • 16h ago
 
 ---
 
