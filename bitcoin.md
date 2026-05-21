@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-21T00:08:32.710000+00:00'
+updated: '2026-05-21T04:53:08.891944+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 21, 2026 at 00:08 UTC  
+**Last Updated:** May 21, 2026 at 04:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,424.53
+### $77,992.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -1.9%  
-**30d:** -0.8%  
-**90d:** +14.1%  
-**1y:** -30.5%  
+**24h:** +1.1%  
+**7d:** -1.4%  
+**30d:** -0.3%  
+**90d:** +14.7%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.69B
+**Market Cap:** $1560.97B
 Rank #1
 
-**Circulating Supply:** 20,032,162 BTC
+**Circulating Supply:** 20,032,200 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.2%
 
 **All-Time Low:** $67.81
-+114250.4%
++114819.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 27
+### 29
 **FEAR**
 
 ---
@@ -79,7 +79,15 @@ Rank #1
 
 **[Here is Me Saying Bitcoin in May 2026](https://www.reddit.com/r/Bitcoin/comments/1titfko/here_is_me_saying_bitcoin_in_may_2026/)**
 
-6h ago
+10h ago
+
+---
+
+**[Do you want bit-chat or should I delete the project?](https://www.reddit.com/r/Bitcoin/comments/1tj2lxs/do_you_want_bitchat_or_should_i_delete_the_project/)**
+
+Hi, I have invested a lot of time and effort since 2023 building bit-chat.me, but I'm about to pivot aways from it after getting investor feedback that this would not be a good business to build as they think most of the bitcoin space has already been conquered by coinbase, strike etc. The idea of bit-chat was to accelerate the adoption of bitcoin by making it as simple as technically possible. You can buy, sell, send, pay with bitcoin by writing a text message on whatsapp, telegram, signal, email, etc. and the service creates a bitcoin wallet for you (on-chain and lightning). Now the question is: do you guys really need this at all? Or are you happy with the current services that are available out there? Please avoid memes and spams, as this decides where I will invest a lot of time and effort in the future. Thank you for your time. PS: this will be open source (not yet, as it's quite complicated still to set everything up yourself). It will also be custodial for very small amounts in Bitcoin and guid people when they pass the 100$ mark to self custody (the AI teaches you how to set up a non-custodial wallet so you can reduce the risk while still being able to send bitcoin to anyone in the world even when they haven't heard of bitcoin before). These are one of the very few serious posts here on reddit so please be brutally honest. The fees would have ben 1% per buy / sell and 0.1% per purchase (buying stuff instead of via strike, LINK etc) and 0.01% for sending bitcoin to friends. It even automatically handles the UTXOs for you. Basically the best service that I as a bitcoin maximalist would have wished to see in the world when I started exploring Bitcoin for the very first time. But if I don't hear enough positive feedback then I will just put it in the trash and let hobbyists build it but it will never reach scale / get integrated into real life like shopping exits etc. The argument of the VCs and advisors I have talked to today and in the past is that this will likely not get good enough traction - so it's up to you. You can even check out my linkedin in the comments to see who I am.
+
+5h ago
 
 ---
 
@@ -88,6 +96,22 @@ Rank #1
 After DCAing for the past 6 years and living like a peasant, I finally reached my goal. Edit: i realize i’m regarded for leaving it on Strike. Got a few cold wallets coming in the mail tomorrow, thanks for the responses.
 
 1d ago
+
+---
+
+**[Today's Bitcoin ETF outflow data: $331.1M shed but the recovery ratio highlights structural dominance](https://www.reddit.com/r/Bitcoin/comments/1tj3x1k/todays_bitcoin_etf_outflow_data_3311m_shed_but/)**
+
+Bitcoin spot ETFs shed $331.10M today, continuing a recent outflow streak amid broader macro pressures. However, digging into the historical recovery ratios reveals a massive structural divide between Bitcoin and the rest of the crypto market. ​According to a recent structural call by JPMorgan, Bitcoin ETFs have historically reclaimed roughly two-thirds of prior outflows during market recovery windows. In sharp contrast, the broader altcoin market and smart contract platforms have only reclaimed about one-third of their respective outflows. ​JPMorgan suggests this divergence will likely continue unless alternative network activity meaningfully accelerates. ​The underlying logic is clear: institutions treat Bitcoin strictly as a pristine macro hedge and a global liquidity vacuum. On the other hand, non-Bitcoin assets are treated merely as technology bets. When tech metrics underwhelm, those alternative asset flows reflect it immediately, while capital consistently flees back to the safety of Bitcoin. ​Ultimately, these numbers highlight how Wall Street views the digital asset space. Bitcoin remains the undisputed institutional priority and the primary flight-to-safety vehicle. ​What’s your take on JPMorgan’s structural view? Do you agree that the institutional recovery ratio confirms Bitcoin's permanent divergence from the rest of the market
+
+4h ago
+
+---
+
+**[Fear of negative balance/debt on leverage: Can I lose more than 100% of my principal?](https://www.reddit.com/r/Bitcoin/comments/1tj8ka7/fear_of_negative_balancedebt_on_leverage_can_i/)**
+
+I'm looking into trading Bitcoin with some leverage, and I want to make sure I fully understand the worst-case scenario regarding liquidations. ​To be absolutely clear: I am 100% fine with my position going to zero. I am willing to take the risk of losing my entire initial margin/principal. ​However, what absolutely terrifies me is negative equity (deficit risk). If the market gaps down or crashes incredibly fast, and the exchange fails to liquidate my position in time, can I actually end up owing money to the exchange?
+
+1h ago
 
 ---
 
@@ -101,15 +125,7 @@ Help me guys, what do I do now? Obviously my accounts are locked, I've filed a p
 
 **[The Crucible of Conviction: Why Bitcoin's Resilience Shifts the Global Burden of Proof. Navigating the collision between a legacy system addicted to perpetual dilution and the unyielding mathematics of absolute scarcity.](https://www.reddit.com/r/Bitcoin/comments/1tim5y5/the_crucible_of_conviction_why_bitcoins/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-crucible-of-conviction-why-bitcoins) • 10h ago
-
----
-
-**[Three days ago I asked for Lightning diagram feedback. Here is what changed.](https://www.reddit.com/r/Bitcoin/comments/1til7ym/three_days_ago_i_asked_for_lightning_diagram/)**
-
-Three days ago I posted that Lightning diagram for feedback: https://www.reddit.com/r/Bitcoin/comments/1tfzfb8/btc_lightning_diagram_feedback_please/ Two things came up that mattered, and reshaped how we taught the section: u/JashBeep flagged that "leaves Bitcoin Mainnet" isn't technically correct bitcoin is locked on mainnet, not leaving. The mental model is wrong if you say "leaves." u/longonbtc flagged that the diagram made it look like Alice and Bob could only pay each other, when in reality Alice with a channel to Bob can pay anyone reachable through Bob's channels. Here is the rebuild, as an animation, above the fold of chapter 5: https://www.learnbitcoin.com/journey/using-bitcoin Just the animation: https://youtu.be/TlU09VX1Auc Still open to feedback if anything else reads wrong, the lesson is genuinely better because of it.
-
-10h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-crucible-of-conviction-why-bitcoins) • 15h ago
 
 ---
 
@@ -117,7 +133,15 @@ Three days ago I posted that Lightning diagram for feedback: https://www.reddit.
 
 Can someone please tell me why 12 and 24 word seed phrases are “legacy” and 20 word ones are better or worse? Wouldn’t more words mean more combinations? Also is there a better security than that? I’m also trying to understand coldwallets better and trying to explain it to friends scares them with losing all their bitcoin if they lose their coldwallet or seedphrase it’s gone forever but I’m trying to say you are sovereign when you have control rather than someone else owning your assets. I think eventually big companies will hold bitcoin for people because they don’t trust themselves and get bogged in fees. What’s anyone’s thought on these things?
 
-9h ago
+13h ago
+
+---
+
+**[Three days ago I asked for Lightning diagram feedback. Here is what changed.](https://www.reddit.com/r/Bitcoin/comments/1til7ym/three_days_ago_i_asked_for_lightning_diagram/)**
+
+Three days ago I posted that Lightning diagram for feedback: https://www.reddit.com/r/Bitcoin/comments/1tfzfb8/btc_lightning_diagram_feedback_please/ Two things came up that mattered, and reshaped how we taught the section: u/JashBeep flagged that "leaves Bitcoin Mainnet" isn't technically correct bitcoin is locked on mainnet, not leaving. The mental model is wrong if you say "leaves." u/longonbtc flagged that the diagram made it look like Alice and Bob could only pay each other, when in reality Alice with a channel to Bob can pay anyone reachable through Bob's channels. Here is the rebuild, as an animation, above the fold of chapter 5: https://www.learnbitcoin.com/journey/using-bitcoin Just the animation: https://youtu.be/TlU09VX1Auc Still open to feedback if anything else reads wrong, the lesson is genuinely better because of it.
+
+15h ago
 
 ---
 
@@ -125,29 +149,7 @@ Can someone please tell me why 12 and 24 word seed phrases are “legacy” and 
 
 I just learned something about seed phrases that I hadn't really been aware of before: Apparently, the 12th or 24th word isn't just a standard final word; rather, it relates to the seed's checksum. What I found particularly interesting was that the final word isn't necessarily unique. Once the first 11 (or 23) words are fixed, there can actually be multiple valid final words that are formally correct. In other words: The final word isn't simply "the checksum" - it seems the matter is a bit more complicated than that. I found this quite fascinating, as I had previously understood it to be much simpler. Did anyone else here already know this, or have any of you looked into this topic in more detail?
 
-14h ago
-
----
-
-**[Have $35k do i put it in bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1ti9fdv/have_35k_do_i_put_it_in_bitcoin/)**
-
-Hi everyone i have 35000 USD that i'd like to invest since its just sitting around in stables, is it the right time to inves in bitcoin or did i miss the bus?
-
-20h ago
-
----
-
-**[Florida Man Reads The Bitcoin Standard; Buys 4% of All the Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1thpxkm/florida_man_reads_the_bitcoin_standard_buys_4_of/)**
-
-1d ago
-
----
-
-**[Daily Discussion, May 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1ticw1q/daily_discussion_may_20_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-17h ago
+19h ago
 
 ---
 
@@ -155,55 +157,53 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Onchain data and funding rates indicate bitcoin’s worst correction phase could be over](https://www.coindesk.com/markets/2026/05/20/these-bitcoin-metrics-suggest-february-s-usd60-000-selloff-may-have-marked-the-bottom)**
+**[Elon Musk’s SpaceX holds $1.45 billion worth of bitcoin as firm looks to go public](https://www.theblock.co/post/402110/elon-musks-spacex-holds-1-45-billion-worth-of-bitcoin-as-firm-looks-to-go-public)**
 
-Realized cap stabilization, historically elevated RHODL readings and deeply negative funding rates all point toward a potential cycle low for bitcoin forming earlier this year.
+A stockpile of over 18,000 would make Elon Musk's SpaceX the seventh-largest Bitcoin holder, ahead of Coinbase.
 
-CoinDesk • 12h ago
-
----
-
-**[The 2036 Issue: Bitcoin Mining Is Dead, Long Live The Miners!](https://bitcoinmagazine.com/print/the-2036-issue-bitcoin-mining-is-dead-long-live-the-miners)**
-
-From The 2036 Issue: A look at the dynamics of miners and dwindling coinbase subsidy, by Colin Harper from Blockspace Media.
-
-Bitcoin Magazine • 8h ago
+The Block • 7h ago
 
 ---
 
-**[Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook](https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook)**
+**[SpaceX Reveals $1 Billion Bitcoin Holdings Ahead Of Historic IPO — Here's How Much The Elon Musk-Led Company Paid For Its Coins](https://finance.yahoo.com/markets/crypto/articles/spacex-reveals-1-billion-bitcoin-031424839.html)**
 
-Nvidia’s stronger-than-expected results and bullish AI outlook lifted crypto mining stocks tied to data center and high-performance computing demand.
+SpaceX, the space exploration company led by Elon Musk, disclosed in its IPO filing on Wednesday that it holds more than $1 billion in Bitcoin (CRYPTO: BTC) on its balance sheet. More Details About BTC’s Reserves The company disclosed 18,712 BTC on hand as of March 31, recognized at a fair value of $1.29 billion. At current prices, this stash would be worth $1.45 billion. The total cost basis of these holdings was reported at $661 million, implying an average acquisition cost of around $35,324 p
 
-CoinDesk • 1h ago
-
----
-
-**[SpaceX Bitcoin Stack Reaches $1.45B as Public Listing Nears](https://finance.yahoo.com/markets/crypto/articles/spacex-bitcoin-stack-reaches-1-232600328.html)**
-
-SpaceX’s IPO filing has turned its bitcoin (CRYPTO: $BTC) holdings into a public-market disclosure, revealing...
-
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining](https://www.tradingview.com/news/cointelegraph:0c40af865094b:0-key-bitcoin-price-metric-used-by-bulls-falls-to-six-week-low-but-there-s-a-silver-lining/)**
+**[Elon Musk's SpaceX held 18,712 bitcoin at fair value of $1.29 billion at end of Q1, IPO filing shows](https://www.coindesk.com/markets/2026/05/20/elon-musk-s-spacex-holds-18-712-bitcoin-at-fair-value-of-usd1-29-billion-ipo-filing-shows)**
 
-Bitcoin (BTC) demand on Coinbase points to early signs of market stabilization as BTC reclaimed the upper bounds of its range highs. The 14-day trend of the Coinbase Premium Index has remained in an uptrend, suggesting steady buyer interest despite traders taking $1.14 billion in profits, which pus…
+The rocket and satellite company is looking to go public at a valuation of more than $1.5 trillion.
 
-TradingView • 1h ago
+CoinDesk • 3h ago
+
+---
+
+**[MSTR Stock: Why Bitcoin Whale Just Took A Risky Turn](https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-just-took-risky-turn/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[TD Cowen Raises Strategy (MSTR) Price Target to $400 on Bitcoin Accumulation and Balance Sheet Shift](https://bitcoinmagazine.com/news/td-cowen-raises-strategy-mstr-price-target)**
+
+TD Cowen has raised its price target on Strategy (MSTR) to $400, pointing to its strong bitcoin accumulation and shift in financing strategy.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin Grows More Dependent on Michael Saylor’s Buying Machine](https://www.bloomberg.com/news/articles/2026-05-20/bitcoin-grows-more-dependent-on-michael-saylor-s-buying-machine)**
+
+Bloomberg.com • 12h ago
 
 ---
 
 **[Michigan governor hopeful got $800k Bitcoin gift. Won’t say from whom](https://bridgemi.com/michigan-government/michigan-governor-hopeful-got-800k-bitcoin-gift-wont-say-from-whom/)**
 
 Bridge Michigan • 1d ago
-
----
-
-**[Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm](https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm)**
-
-Bloomberg.com • 10h ago
 
 ---
 
@@ -223,9 +223,11 @@ International Consortium of Investigative Journalists - ICIJ • 1d ago
 
 ---
 
-**[Massive Crypto ATM Company Bitcoin Depot Is Shutting Down as the Whole Industry Collapses](https://gizmodo.com/massive-crypto-atm-company-bitcoin-depot-is-shutting-down-as-the-whole-industry-collapses-2000760192)**
+**[Bitcoin Depot files for bankruptcy, will take all crypto ATMs offline](https://www.wcvb.com/article/bitcoin-depot-files-for-bankruptcy-will-take-all-crypto-atms-offline/71341757)**
 
-Gizmodo • 2d ago
+Massachusetts residents lost millions in crypto ATM fraud last year
+
+WCVB • 1d ago
 
 ---
 
@@ -235,7 +237,7 @@ Gizmodo • 2d ago
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 345 • 💬 673 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 346 • 💬 677 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -265,7 +267,15 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 A technique for embedding arbitrary data — text, images, code — inside Bitcoin transactions by writing into Taproot witness data.
 
-⬆️ 3 • 💬 2 • 56m ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
+⬆️ 4 • 💬 2 • 5h ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
+
+---
+
+**[New Bitcoin Fee Pressure Signal](https://news.ycombinator.com/item?id=48215602)**
+
+Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
+
+⬆️ 3 • 💬 0 • 5h ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
 
 ---
 
@@ -283,11 +293,11 @@ AI to the rescue as 11-year search for password turns up in old PC files
 
 ---
 
-**[New Bitcoin Fee Pressure Signal](https://news.ycombinator.com/item?id=48215602)**
+**[Bitcoin's Power Law: Weak Structure, Strong Forecasts](https://news.ycombinator.com/item?id=48217864)**
 
-Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
+Bitcoin's price has been described as following a power law (PL) in time, $P \sim t^β$ with $\hatβ\approx 5.7$ over 2010-2026. We test this claim using the Clauset-Shalizi-Newman protocol applied to Bitcoin's tail-relevant distributional series, and develop three principled time-domain adaptations of the protocol. We find that (i) the distributional power law is rejected on UTXO balances and daily |returns|, with lognormal preferred decisively; (ii) the fitted time-domain exponent varies by nearly a factor of three across reasonable shifts of the time origin -- it is not specification-robust in the sense required for a shift-invariant structural reading; (iii) standard residual diagnostics and scale-invariance tests proposed in earlier work cannot distinguish a power law from a multi-component sigmoid stack fit to the same data; (iv) Bitcoin price stands apart in a cross-asset comparison spanning Bitcoin on-chain metrics and traditional asset classes: it is the only series in the nine-series in-sample test where no single-component growth curve improves on the power law, and the quarterly $K=3$ wave-stability bootstrap rejects the PL+AR(1) null on Bitcoin at $p = 0.015$ (strict 15% CV threshold) -- a clear cross-asset separation, although not a Bonferroni-robust rejection; and (v) walk-forward Diebold-Mariano evaluation against ten candidates -- including standard time-series baselines (RW with drift, auto-ARIMA, ETS, local-linear-trend) -- shows the in-sample winner (multi-sigmoid) is among the worst long-horizon forecasters, while the simple power law dominates 12-24 month horizons against every standard baseline at $p < 0.05$, precisely because it does not commit to specific wave shapes. The fit-prediction tradeoff is the practical counterpart of the descriptive findings.
 
-⬆️ 2 • 💬 0 • 58m ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
+⬆️ 2 • 💬 0 • 27m ago • [arXiv.org](https://arxiv.org/abs/2605.21316)
 
 ---
 
@@ -299,27 +309,9 @@ Zero-latency mempool interception and transaction topology for algorithmic execu
 
 ---
 
-**[Show HN: Og-zkp – Prove your Bitcoin OG status in zero-knowledge](https://news.ycombinator.com/item?id=48192960)**
-
-prove your bitcoin og status in zero-knowledge
-
-⬆️ 1 • 💬 0 • 1d ago • [og-zkp](https://og-zkp.com/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[The Clarity Act Will Explode Crypto (7 coins)](https://www.youtube.com/watch?v=-0tWD4StQ14)**
-
-Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 118 • ⏱️ 9:17 • 21h ago
-
----
 
 **[INSIDER Confirms Strategic Bitcoin Reserve Announcement is COMING!! | EP 1508](https://www.youtube.com/watch?v=wGbFW2ET5lw)**
 
@@ -327,7 +319,17 @@ Clarity Act has been taking all the headlines as of recent but a potential HUGE 
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 265 • 💬 15 • ⏱️ 1:26:47 • 5h ago
+👁️ 6K • 👍 300 • 💬 21 • ⏱️ 1:26:47 • 10h ago
+
+---
+
+**[The Clarity Act Will Explode Crypto (7 coins)](https://www.youtube.com/watch?v=-0tWD4StQ14)**
+
+Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): https://www.weex.com/events/tradfi?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 129 • ⏱️ 9:17 • 1d ago
 
 ---
 
@@ -337,17 +339,7 @@ FOX Business' Darren Botelho reports the Trump administration has frozen hundred
 
 📺 Fox Business
 
-👁️ 112K • 👍 2K • 💬 370 • ⏱️ 2:22 • 8h ago
-
----
-
-**[Bitcoin Has A 120-Day Fed Countdown - Trump Just Signed The Order | Mike Alfred](https://www.youtube.com/watch?v=cN2eRKD1qg0)**
-
-Bitcoin #Crypto #Finance Trump just signed his biggest crypto executive order yet, giving the Fed 120 days to evaluate opening ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 794 • 💬 222 • ⏱️ 30:43 • 10h ago
+👁️ 155K • 👍 2K • 💬 476 • ⏱️ 2:22 • 13h ago
 
 ---
 
@@ -357,7 +349,27 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 265 • ⏱️ 8:22 • 23h ago
+👁️ 27K • 👍 1K • 💬 265 • ⏱️ 8:22 • 1d ago
+
+---
+
+**[HUGE BREAKING NEWS For Crypto Holders (Bitcoin, Solana &amp; XRP)](https://www.youtube.com/watch?v=44IbAJXB-nE)**
+
+HUGE BREAKING NEWS For Crypto Holders (Bitcoin, Solana & XRP) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 22K • 👍 2K • 💬 119 • ⏱️ 13:02 • 6h ago
+
+---
+
+**[Bitcoin Has A 120-Day Fed Countdown - Trump Just Signed The Order | Mike Alfred](https://www.youtube.com/watch?v=cN2eRKD1qg0)**
+
+Bitcoin #Crypto #Finance Trump just signed his biggest crypto executive order yet, giving the Fed 120 days to evaluate opening ...
+
+📺 The Wolf Of All Streets
+
+👁️ 18K • 👍 851 • 💬 224 • ⏱️ 30:43 • 15h ago
 
 ---
 
@@ -367,7 +379,7 @@ Let's provide an update to stablecoin dominance and why the current trend in sta
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 159 • ⏱️ 9:15 • 21h ago
+👁️ 65K • 👍 4K • 💬 163 • ⏱️ 9:15 • 1d ago
 
 ---
 
@@ -377,7 +389,7 @@ Iran may have just revealed Bitcoin's real geopolitical use case. This breakdown
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 214 • ⏱️ 17:23 • 1d ago
+👁️ 26K • 👍 2K • 💬 206 • ⏱️ 17:23 • 1d ago
 
 ---
 
@@ -387,27 +399,17 @@ Cryptomanran is sounding the alarm as a storm brews for Bitcoin and crypto. Yiel
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 2K • 💬 57 • ⏱️ 32:35 • 1d ago
+👁️ 25K • 👍 2K • 💬 57 • ⏱️ 32:35 • 1d ago
 
 ---
 
-**[Why Bitcoin Keeps FAILING at $80k](https://www.youtube.com/watch?v=C59b7lGIZ7k)**
+**[BITCOIN: MORE LIQUIDATIONS INCOMING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=PjDLvNZZz5U)**
 
-Bitcoin is struggling to hold the $80k line, and it's not random. In this video, Guy breaks down how spot Bitcoin ETF outflows, ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 Coin Bureau
+📺 Road To $1 Million USD
 
-👁️ 15K • 👍 732 • 💬 69 • ⏱️ 13:01 • 10h ago
-
----
-
-**[BITCOIN: The Path to $100,000! (...or $70,000) | Elliott Wave Technical Analysis](https://www.youtube.com/watch?v=rEb1G8u3Clc)**
-
-Here's why I think #Bitcoin is going to astronomical highs. The Elliott Wave Theory helps us prove it. I hope this video helps you ...
-
-📺 XForceGlobal
-
-👁️ 590 • 👍 79 • 💬 6 • ⏱️ 9:30 • 5h ago
+👁️ 2K • 👍 174 • 💬 13 • ⏱️ 6:06 • 7h ago
 
 ---
 
