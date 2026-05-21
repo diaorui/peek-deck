@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-20T22:39:09.051175+00:00'
+updated: '2026-05-21T00:08:32.710000+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 20, 2026 at 22:39 UTC  
+**Last Updated:** May 21, 2026 at 00:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,461.55
+### $77,424.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -4.5%  
-**30d:** +1.5%  
-**90d:** +13.8%  
-**1y:** -29.3%  
+**24h:** +1.0%  
+**7d:** -1.9%  
+**30d:** -0.8%  
+**90d:** +14.1%  
+**1y:** -30.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1555.04B
+**Market Cap:** $1551.69B
 Rank #1
 
-**Circulating Supply:** 20,032,100 BTC
+**Circulating Supply:** 20,032,162 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.5%
 
 **All-Time Low:** $67.81
-+114417.0%
++114250.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Here is Me Saying Bitcoin in May 2026](https://www.reddit.com/r/Bitcoin/comments/1titfko/here_is_me_saying_bitcoin_in_may_2026/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Help me guys, what do I do now? Obviously my accounts are locked, I've filed a p
 
 **[The Crucible of Conviction: Why Bitcoin's Resilience Shifts the Global Burden of Proof. Navigating the collision between a legacy system addicted to perpetual dilution and the unyielding mathematics of absolute scarcity.](https://www.reddit.com/r/Bitcoin/comments/1tim5y5/the_crucible_of_conviction_why_bitcoins/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-crucible-of-conviction-why-bitcoins) • 8h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-crucible-of-conviction-why-bitcoins) • 10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Help me guys, what do I do now? Obviously my accounts are locked, I've filed a p
 
 Three days ago I posted that Lightning diagram for feedback: https://www.reddit.com/r/Bitcoin/comments/1tfzfb8/btc_lightning_diagram_feedback_please/ Two things came up that mattered, and reshaped how we taught the section: u/JashBeep flagged that "leaves Bitcoin Mainnet" isn't technically correct bitcoin is locked on mainnet, not leaving. The mental model is wrong if you say "leaves." u/longonbtc flagged that the diagram made it look like Alice and Bob could only pay each other, when in reality Alice with a channel to Bob can pay anyone reachable through Bob's channels. Here is the rebuild, as an animation, above the fold of chapter 5: https://www.learnbitcoin.com/journey/using-bitcoin Just the animation: https://youtu.be/TlU09VX1Auc Still open to feedback if anything else reads wrong, the lesson is genuinely better because of it.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Three days ago I posted that Lightning diagram for feedback: https://www.reddit.
 
 Can someone please tell me why 12 and 24 word seed phrases are “legacy” and 20 word ones are better or worse? Wouldn’t more words mean more combinations? Also is there a better security than that? I’m also trying to understand coldwallets better and trying to explain it to friends scares them with losing all their bitcoin if they lose their coldwallet or seedphrase it’s gone forever but I’m trying to say you are sovereign when you have control rather than someone else owning your assets. I think eventually big companies will hold bitcoin for people because they don’t trust themselves and get bogged in fees. What’s anyone’s thought on these things?
 
-7h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Can someone please tell me why 12 and 24 word seed phrases are “legacy” and 
 
 I just learned something about seed phrases that I hadn't really been aware of before: Apparently, the 12th or 24th word isn't just a standard final word; rather, it relates to the seed's checksum. What I found particularly interesting was that the final word isn't necessarily unique. Once the first 11 (or 23) words are fixed, there can actually be multiple valid final words that are formally correct. In other words: The final word isn't simply "the checksum" - it seems the matter is a bit more complicated than that. I found this quite fascinating, as I had previously understood it to be much simpler. Did anyone else here already know this, or have any of you looked into this topic in more detail?
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ I just learned something about seed phrases that I hadn't really been aware of b
 
 Hi everyone i have 35000 USD that i'd like to invest since its just sitting around in stables, is it the right time to inves in bitcoin or did i miss the bus?
 
-19h ago
+20h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hi everyone i have 35000 USD that i'd like to invest since its just sitting arou
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -155,35 +155,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
+**[Onchain data and funding rates indicate bitcoin’s worst correction phase could be over](https://www.coindesk.com/markets/2026/05/20/these-bitcoin-metrics-suggest-february-s-usd60-000-selloff-may-have-marked-the-bottom)**
+
+Realized cap stabilization, historically elevated RHODL readings and deeply negative funding rates all point toward a potential cycle low for bitcoin forming earlier this year.
+
+CoinDesk • 12h ago
+
+---
+
 **[The 2036 Issue: Bitcoin Mining Is Dead, Long Live The Miners!](https://bitcoinmagazine.com/print/the-2036-issue-bitcoin-mining-is-dead-long-live-the-miners)**
 
 From The 2036 Issue: A look at the dynamics of miners and dwindling coinbase subsidy, by Colin Harper from Blockspace Media.
 
-Bitcoin Magazine • 7h ago
-
----
-
-**[Trump's Truth Social withdraws bitcoin ETF application from SEC](https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf)**
-
-Its advisor, Yorkville America, said the withdrawal is a strategic move to reapply under a more efficient securities framework.
-
-The Block • 20h ago
-
----
-
-**[Why Trump's bitcoin ETF plans likely collapsed before getting off the ground](https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground)**
-
-Trump Media withdrew its bitcoin ETF filing as analysts pointed to fee pressure, weak demand and fierce competition in the crowded spot bitcoin ETF market.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin ETFs suffer near $1 billion in outflows in 2 days, as Trump Media withdraws bitcoin ETF application](https://sherwood.news/crypto/bitcoin-etfs-suffer-near-1-billion-in-outflows-in-2-days-as-trump-media-withdraws-bitcoin-etf-application/)**
-
-Bitcoin’s price is “trapped between 76,000 and 78,000,” with analysts saying the dip reflects “a deeper structural problem beneath crypto markets.”...
-
-Sherwood News • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -191,35 +175,43 @@ Sherwood News • 7h ago
 
 Nvidia’s stronger-than-expected results and bullish AI outlook lifted crypto mining stocks tied to data center and high-performance computing demand.
 
-CoinDesk • 14m ago
-
----
-
-**[Elon Musk's SpaceX IPO Filing Reveals $1.45 Billion Bitcoin Position](https://finance.yahoo.com/markets/crypto/articles/elon-musks-spacex-ipo-filing-215932384.html)**
-
-SpaceX is gearing up for what's likely to be a blockbuster IPO, and Elon Musk's aerospace and AI firm holds more Bitcoin than expected.
-
-Yahoo Finance • 39m ago
-
----
-
-**[Elon Musk's SpaceX holds 18,712 bitcoin at fair value of $1.29 billion, IPO filing shows](https://www.coindesk.com/markets/2026/05/20/elon-musk-s-spacex-holds-18-712-bitcoin-at-fair-value-of-usd1-29-billion-ipo-filing-shows)**
-
-The rocket and satellite company is looking to go public at a valuation of more than $1.5 trillion.
-
 CoinDesk • 1h ago
 
 ---
 
-**[Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm](https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm)**
+**[SpaceX Bitcoin Stack Reaches $1.45B as Public Listing Nears](https://finance.yahoo.com/markets/crypto/articles/spacex-bitcoin-stack-reaches-1-232600328.html)**
 
-Bloomberg.com • 9h ago
+SpaceX’s IPO filing has turned its bitcoin (CRYPTO: $BTC) holdings into a public-market disclosure, revealing...
+
+Yahoo Finance • 42m ago
+
+---
+
+**[Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining](https://www.tradingview.com/news/cointelegraph:0c40af865094b:0-key-bitcoin-price-metric-used-by-bulls-falls-to-six-week-low-but-there-s-a-silver-lining/)**
+
+Bitcoin (BTC) demand on Coinbase points to early signs of market stabilization as BTC reclaimed the upper bounds of its range highs. The 14-day trend of the Coinbase Premium Index has remained in an uptrend, suggesting steady buyer interest despite traders taking $1.14 billion in profits, which pus…
+
+TradingView • 1h ago
 
 ---
 
 **[Michigan governor hopeful got $800k Bitcoin gift. Won’t say from whom](https://bridgemi.com/michigan-government/michigan-governor-hopeful-got-800k-bitcoin-gift-wont-say-from-whom/)**
 
 Bridge Michigan • 1d ago
+
+---
+
+**[Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm](https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm)**
+
+Bloomberg.com • 10h ago
+
+---
+
+**[North America’s largest Bitcoin ATM operator shuts down network, files for bankruptcy](https://www.wbay.com/2026/05/19/north-americas-largest-bitcoin-atm-operator-shuts-down-network-files-bankruptcy/)**
+
+The company said increasingly tough state regulations, intended to prevent scams, affected its business.
+
+WBAY • 1d ago
 
 ---
 
@@ -231,13 +223,19 @@ International Consortium of Investigative Journalists - ICIJ • 1d ago
 
 ---
 
+**[Massive Crypto ATM Company Bitcoin Depot Is Shutting Down as the Whole Industry Collapses](https://gizmodo.com/massive-crypto-atm-company-bitcoin-depot-is-shutting-down-as-the-whole-industry-collapses-2000760192)**
+
+Gizmodo • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 345 • 💬 672 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 345 • 💬 673 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -263,6 +261,14 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 
 ---
 
+**[Understanding Bitcoin Inscriptions](https://news.ycombinator.com/item?id=48215613)**
+
+A technique for embedding arbitrary data — text, images, code — inside Bitcoin transactions by writing into Taproot witness data.
+
+⬆️ 3 • 💬 2 • 56m ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
+
+---
+
 **[Morgan Stanley Bitcoin ETF $MSBT got an official listing announcement from NYSE](https://news.ycombinator.com/item?id=48145392)**
 
 ⬆️ 3 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/EricBalchunas/status/2036831654392561983)
@@ -274,6 +280,14 @@ A Bitcoin holder has gone viral after claiming he recovered around $400,000 in B
 AI to the rescue as 11-year search for password turns up in old PC files
 
 ⬆️ 2 • 💬 1 • 6d ago • [theregister](https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492)
+
+---
+
+**[New Bitcoin Fee Pressure Signal](https://news.ycombinator.com/item?id=48215602)**
+
+Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
+
+⬆️ 2 • 💬 0 • 58m ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
 
 ---
 
@@ -293,20 +307,6 @@ prove your bitcoin og status in zero-knowledge
 
 ---
 
-**[Show HN: How much gold, silver, or Plutonium-238 does 1 BTC buy?](https://news.ycombinator.com/item?id=48211226)**
-
-What does 1 BTC buy? 17.17 troy oz of gold today. Explore BTC purchasing power across gold, silver, plutonium-238 and more.
-
-⬆️ 1 • 💬 1 • 5h ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
-
----
-
-**[Have LLMs made anyone's life substantially better?](https://news.ycombinator.com/item?id=48136636)**
-
-⬆️ 8 • 💬 5 • 6d ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,27 +317,7 @@ Buy, Sell, Trade Crypto: Weex - Trade crypto, oil w/ zero fees ($15 Bonus): http
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 111 • ⏱️ 9:17 • 20h ago
-
----
-
-**[Bitcoin Has A 120-Day Fed Countdown - Trump Just Signed The Order | Mike Alfred](https://www.youtube.com/watch?v=cN2eRKD1qg0)**
-
-Bitcoin #Crypto #Finance Trump just signed his biggest crypto executive order yet, giving the Fed 120 days to evaluate opening ...
-
-📺 The Wolf Of All Streets
-
-👁️ 14K • 👍 739 • 💬 174 • ⏱️ 30:43 • 8h ago
-
----
-
-**[Bitcoin Investors...This is Scary](https://www.youtube.com/watch?v=TN6l08leVBA)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 26K • 👍 1K • 💬 264 • ⏱️ 8:22 • 21h ago
+👁️ 36K • 👍 2K • 💬 118 • ⏱️ 9:17 • 21h ago
 
 ---
 
@@ -347,17 +327,37 @@ Clarity Act has been taking all the headlines as of recent but a potential HUGE 
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 229 • 💬 9 • ⏱️ 1:26:47 • 4h ago
+👁️ 5K • 👍 265 • 💬 15 • ⏱️ 1:26:47 • 5h ago
 
 ---
 
-**[Iran Just Did The UNTHINKABLE with Bitcoin (Why The U.S. Can&#39;t Stop It)](https://www.youtube.com/watch?v=zJnM5dGKDkA)**
+**[US cracks Iran’s $7.7 billion crypto war chest as tensions EXPLODE](https://www.youtube.com/watch?v=jgqHDweJxHs)**
 
-Iran may have just revealed Bitcoin's real geopolitical use case. This breakdown explores how Bitcoin is entering the global oil ...
+FOX Business' Darren Botelho reports the Trump administration has frozen hundreds of millions in crypto tied to Iran as officials ...
 
-📺 Simply Bitcoin
+📺 Fox Business
 
-👁️ 25K • 👍 2K • 💬 213 • ⏱️ 17:23 • 1d ago
+👁️ 112K • 👍 2K • 💬 370 • ⏱️ 2:22 • 8h ago
+
+---
+
+**[Bitcoin Has A 120-Day Fed Countdown - Trump Just Signed The Order | Mike Alfred](https://www.youtube.com/watch?v=cN2eRKD1qg0)**
+
+Bitcoin #Crypto #Finance Trump just signed his biggest crypto executive order yet, giving the Fed 120 days to evaluate opening ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 794 • 💬 222 • ⏱️ 30:43 • 10h ago
+
+---
+
+**[Bitcoin Investors...This is Scary](https://www.youtube.com/watch?v=TN6l08leVBA)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 27K • 👍 1K • 💬 265 • ⏱️ 8:22 • 23h ago
 
 ---
 
@@ -367,7 +367,17 @@ Let's provide an update to stablecoin dominance and why the current trend in sta
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 152 • ⏱️ 9:15 • 19h ago
+👁️ 61K • 👍 4K • 💬 159 • ⏱️ 9:15 • 21h ago
+
+---
+
+**[Iran Just Did The UNTHINKABLE with Bitcoin (Why The U.S. Can&#39;t Stop It)](https://www.youtube.com/watch?v=zJnM5dGKDkA)**
+
+Iran may have just revealed Bitcoin's real geopolitical use case. This breakdown explores how Bitcoin is entering the global oil ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 214 • ⏱️ 17:23 • 1d ago
 
 ---
 
@@ -377,17 +387,7 @@ Cryptomanran is sounding the alarm as a storm brews for Bitcoin and crypto. Yiel
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 2K • 💬 56 • ⏱️ 32:35 • 1d ago
-
----
-
-**[Bitcoin’s Bull Market Is Back | Checkmate](https://www.youtube.com/watch?v=ccNF72m1mBw)**
-
-We're in an era where the monetary system is changing. The world is going to look very different on the other side of this thing.
-
-📺 What Bitcoin Did
-
-👁️ 26K • 👍 1K • 💬 207 • ⏱️ 1:27:16 • 1d ago
+👁️ 24K • 👍 2K • 💬 57 • ⏱️ 32:35 • 1d ago
 
 ---
 
@@ -397,17 +397,17 @@ Bitcoin is struggling to hold the $80k line, and it's not random. In this video,
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 641 • 💬 64 • ⏱️ 13:01 • 9h ago
+👁️ 15K • 👍 732 • 💬 69 • ⏱️ 13:01 • 10h ago
 
 ---
 
-**[Bitcoin Holders vs Altcoin Holders: You&#39;re Both Right](https://www.youtube.com/watch?v=VaCSDWJjHxk)**
+**[BITCOIN: The Path to $100,000! (...or $70,000) | Elliott Wave Technical Analysis](https://www.youtube.com/watch?v=rEb1G8u3Clc)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+Here's why I think #Bitcoin is going to astronomical highs. The Elliott Wave Theory helps us prove it. I hope this video helps you ...
 
-📺 Crypto Capital Venture
+📺 XForceGlobal
 
-👁️ 5K • 👍 372 • 💬 193 • ⏱️ 16:03 • 9h ago
+👁️ 590 • 👍 79 • 💬 6 • ⏱️ 9:30 • 5h ago
 
 ---
 
