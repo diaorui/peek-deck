@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-21T18:01:11.600945+00:00'
+updated: '2026-05-21T20:19:15.259992+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 21, 2026 at 18:01 UTC  
+**Last Updated:** May 21, 2026 at 20:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.4%  
-**7d:** -3.5%  
-**30d:** -9.6%  
-**90d:** +8.8%  
-**1y:** -19.4%  
+**7d:** -3.8%  
+**30d:** -9.9%  
+**90d:** +8.4%  
+**1y:** -19.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $259.46B
+**Market Cap:** $258.13B
 Rank #2
 
 **Circulating Supply:** 120,685,618 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.6%
+-56.8%
 
 **All-Time Low:** $0.43
-+496134.2%
++493794.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
 
-2h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
 
-23h ago
+1d ago
 
 ---
 
@@ -100,19 +100,19 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 ---
 
-**[Una persona que conozco quiere que abra una cuenta electrónica tipo tarjeta visa. Dice que es para cosas de criptos. ¿que no me pasaría nada a mi cuenta bancaria y tarjeta física del banco?.](https://www.reddit.com/r/ethereum/comments/1tjjtnh/una_persona_que_conozco_quiere_que_abra_una/)**
-
-Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente. Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica
-
-4h ago
-
----
-
 **[meet the hardware wallet that looks like a game boy and possesses the ethos of a seasoned self-sovereign vet](https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/)**
 
 the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
 
 1d ago
+
+---
+
+**[Una persona que conozco quiere que abra una cuenta electrónica tipo tarjeta visa. Dice que es para cosas de criptos. ¿que no me pasaría nada a mi cuenta bancaria y tarjeta física del banco?.](https://www.reddit.com/r/ethereum/comments/1tjjtnh/una_persona_que_conozco_quiere_que_abra_una/)**
+
+Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente. Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica
+
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 The privacy coin has some very ambitious upgrades planned.
 
-The Motley Fool • 7h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 7h ago
 
 The university was the largest new buyer of BlackRock’s Ethereum ETF in Q4 of 2025
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -172,15 +172,23 @@ Fortune • 2d ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
-**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
+**[Bitcoin vs. Ethereum: Why BTC is Winning the Crypto Market in May 2026](https://sg.finance.yahoo.com/news/bitcoin-vs-ethereum-why-btc-190000285.html)**
 
-Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
+BTC's dominance near 60% and stronger ETF inflows are keeping BTC ahead of ETH as investors seek stability in May 2026.
 
-Yahoo Finance • 1d ago
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[Tokenization Will Reach $4T By 2028 And Ethereum And Solana Will Not Be The Primary Beneficiaries, Standard Chartered Says](https://finance.yahoo.com/markets/crypto/articles/tokenization-reach-4t-2028-ethereum-174607744.html)**
+
+Tokenized assets are set to balloon to $4 trillion by 2028 and decentralized finance protocols not Ethereum or Solana will be the primary beneficiaries, according to Standard Chartered. Non-stablecoin tokenized assets will reach $2 trillion and stablecoins will also reach...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -200,9 +208,17 @@ The Harvard Crimson • 2d ago
 
 ---
 
-**[JPMorgan (JPM) Just Made Ethereum’s Long-Term Case Harder to Ignore](https://www.tipranks.com/news/jpmorgan-jpm-just-made-ethereums-long-term-case-harder-to-ignore)**
+**[Ethereum Spirals as ETH/BTC Ratio Plunges and Wintermute Declares It the ‘Wrong Asset for This Macro’](https://www.tipranks.com/news/ethereum-spirals-as-eth-btc-ratio-plunges-and-wintermute-declares-it-the-wrong-asset-for-this-macro)**
 
 TipRanks • 1d ago
+
+---
+
+**[WEEX Report Highlights Ether’s Next Market Test as Ethereum Enters a New Post-ETF Phase](https://markets.businessinsider.com/news/stocks/weex-report-highlights-ether-s-next-market-test-as-ethereum-enters-a-new-post-etf-phase-1036183223)**
+
+SINGAPORE, May  21, 2026  (GLOBE NEWSWIRE) -- WEEX today released a new Ether market report examining how Ethereum’s native asset, ETH, is being t...
+
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -211,20 +227,6 @@ TipRanks • 1d ago
 Bitcoin (BTC) preserves its $77,000 support following the recent drawdown from its May peak around $82,500.
 
 FXStreet • 1d ago
-
----
-
-**[Ethereum price risks drop to $1,800 as ascending channel breaks By Crypto.news](https://www.investing.com/news/cryptocurrency-news/ethereum-price-risks-drop-to-1800-as-ascending-channel-breaks-4703878)**
-
-Investing.com • 5h ago
-
----
-
-**[WEEX Report Highlights Ether’s Next Market Test as Ethereum Enters a New Post-ETF Phase](https://markets.businessinsider.com/news/stocks/weex-report-highlights-ether-s-next-market-test-as-ethereum-enters-a-new-post-etf-phase-1036183223)**
-
-SINGAPORE, May  21, 2026  (GLOBE NEWSWIRE) -- WEEX today released a new Ether market report examining how Ethereum’s native asset, ETH, is being t...
-
-markets.businessinsider.com • 4h ago
 
 ---
 
@@ -238,7 +240,17 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 4K • 👍 379 • 💬 134 • ⏱️ 15:00 • 5h ago
+👁️ 6K • 👍 401 • 💬 134 • ⏱️ 15:00 • 8h ago
+
+---
+
+**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
+
+I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
+
+📺 Crypto Capital Venture
+
+👁️ 360 • 👍 56 • 💬 23 • ⏱️ 15:44 • 16m ago
 
 ---
 
@@ -248,17 +260,7 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 169 • ⏱️ 17:13 • 14h ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 431 • 💬 37 • ⏱️ 17:05 • 1d ago
+👁️ 40K • 👍 3K • 💬 174 • ⏱️ 17:13 • 17h ago
 
 ---
 
@@ -268,7 +270,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 597 • 👍 50 • 💬 8 • ⏱️ 18:45 • 1h ago
+👁️ 1K • 👍 100 • 💬 10 • ⏱️ 18:45 • 4h ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 439 • 💬 38 • ⏱️ 17:05 • 1d ago
 
 ---
 
@@ -278,7 +290,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 22 • 💬 14 • ⏱️ 10:40 • 1d ago
+👁️ 3K • 👍 23 • 💬 14 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -286,7 +298,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 444 • 💬 20 • ⏱️ 2:09 • 17h ago
+👁️ 7K • 👍 465 • 💬 20 • ⏱️ 2:09 • 19h ago
 
 ---
 
@@ -296,7 +308,7 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 31K • 👍 1K • 💬 105 • ⏱️ 32:50 • 1d ago
+👁️ 31K • 👍 1K • 💬 106 • ⏱️ 32:50 • 2d ago
 
 ---
 
@@ -306,7 +318,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 136 • 💬 9 • ⏱️ 11:15 • 15h ago
+👁️ 1K • 👍 140 • 💬 10 • ⏱️ 11:15 • 17h ago
 
 ---
 
@@ -316,17 +328,7 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 
 📺 Alexander Lorenzo
 
-👁️ 33K • 👍 2K • 💬 161 • ⏱️ 2:31 • 2d ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [&quot;It&#39;s a Fake Crash&quot;]](https://www.youtube.com/watch?v=wSIxg3iKT3U)**
-
-Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon for sponsoring! My FREE Daily 5-Min ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 194 • 💬 33 • ⏱️ 13:32 • 2d ago
+👁️ 33K • 👍 2K • 💬 99 • ⏱️ 2:31 • 2d ago
 
 ---
 

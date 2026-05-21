@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-21T18:01:11.586414+00:00'
+updated: '2026-05-21T20:19:15.247100+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 21, 2026 at 18:01 UTC  
+**Last Updated:** May 21, 2026 at 20:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[College Graduation Ceremony Erupts In Boos After 'New AI System' Allegedly Misses 'Hundreds' Of Graduates' Names](https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/)**
+
+Well that certainly backfired.
+
+🔗 [Comic Sands](http://comicsands.com/ai-misses-graduate-names) • 54m ago
+
+---
+
 **[An OpenAI model has disproved a central conjecture in discrete geometry](https://www.reddit.com/r/artificial/comments/1tixhbv/an_openai_model_has_disproved_a_central/)**
 
 An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
 
-🔗 [OpenAI](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) • 21h ago
+🔗 [OpenAI](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) • 1d ago
 
 ---
 
@@ -49,7 +57,7 @@ An OpenAI model solved the 80-year-old unit distance problem, disproving a major
 
 Hey everyone, The Model Context Protocol (MCP) is amazing for standardizing how agents talk to data, but I got incredibly frustrated every time I wanted to quickly test a new remote MCP server. Writing custom client-side boilerplate or wrestling with CLI tools just to see if a tool actually exposes the right schema is a massive time sink. So, I built a native MCP client directly into the visual canvas of AgentSwarms. You can now test any remote MCP server entirely in the browser without writing a single line of code. Here is the workflow I just tested with Cloudflare: Cloudflare released a free MCP server for their documentation. Instead of building a local client to test it: I dropped their SSE URL into the new MCP Servers integration in AgentSwarms. The canvas immediately connected and extracted the available tools (e.g., cloudflare-docs-search). I wired that tool up to a basic agent and started asking complex infrastructure questions in natural language. The agent successfully used the MCP tool to pull live docs and synthesize an answer. Why this is useful for AI devs: If you are building your own MCP servers, you need a fast way to visually test if your endpoints are exposing tools correctly and if an LLM can actually route to them properly. This gives you an instant, visual debugging playground. It handles the SSE connection, tool extraction, and LLM routing automatically. It’s completely free to play with in the browser. I'd love for anyone building MCP servers right now to plug their endpoints in and see how it works. Link: https://agentswarms.fyi/mcp
 
-1h ago
+3h ago
 
 ---
 
@@ -57,53 +65,7 @@ Hey everyone, The Model Context Protocol (MCP) is amazing for standardizing how 
 
 Nvidia stock is under the spotlight after China banned the RTX 5090D V2, a gaming chip built to comply with US export rules.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/nvidia-stock-china-ban-rtx-5090d-gaming-chip-jensen-huang/) • 44m ago
-
----
-
-**[Anthropic's $10.9B Q2 Tops 2025 and Grows Faster Than Google and Meta Pre-IPO](https://www.reddit.com/r/artificial/comments/1tjr61r/anthropics_109b_q2_tops_2025_and_grows_faster/)**
-
-Anthropic told investors Q2 revenue to hit $10.9B, more than doubling Q1's $4.8B. Company expects its operating profit of $559M in Q2 2026.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-valuation-revenue-10-billion-first-profit-2026/) • 46m ago
-
----
-
-**[Google is officially replacing Vertex AI with the new "Gemini Enterprise Agent Platform"](https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/)**
-
-Just wanted to share an important Update for AI & Cloud Learners Google is shifting from a traditional AI platform toward a complete Agentic AI ecosystem focused on autonomous AI agents and enterprise workflows. Key highlights: Existing Vertex AI services and workloads will continue to work AI development, orchestration, governance, and security are now unified under one platform New tools introduced for building autonomous AI agents and multi-agent workflows Access to Gemini, Gemma, Claude, and 200+ models remains available This marks a major shift in Google Cloud’s AI strategy toward Agentic AI and enterprise automation. If you are currently learning or working with Vertex AI, it’s important to start exploring the Gemini Enterprise Agent Platform moving forward. Have seen that, GCP ACE exam is going to revamped absed on this Gemini Enterprise Rebranding.
-
-13h ago
-
----
-
-**[Local Choice based Text adventure game with no limits.](https://www.reddit.com/r/artificial/comments/1tjh5kz/local_choice_based_text_adventure_game_with_no/)**
-
-Hey guys! So i created this software/videogame where you can create your own story, create a world choose a model and play as the character you want all locally done! It works offline, there are no monthly subscriptions as its based out of your own machine. I hope you guys try it out. The GUI interface, and the pretext of the AI is provided with it. Here is where you can get it. Use Coupon Code REDDIT20 till 25th May<3 Thank you!
-
-6h ago
-
----
-
-**[Why does it feel like browser-based AI tooling still hasn’t really taken off yet?](https://www.reddit.com/r/artificial/comments/1tjjjyy/why_does_it_feel_like_browserbased_ai_tooling/)**
-
-Maybe I’m missing something, but browser runtimes seem way more capable than people realize. With stuff like web containers and WASM sandboxing, we can already run well capable environments fully inside the browser. I saw an open source project recently that used this well, and it made me think about how much we're still stuck on this everything needs a heavy backend kinda mindset for AI tools. It feels like there's massive potential here for portable, sandboxed tooling yet it's still being treated as a niche. Are there major technical limitations here that I’m not seeing, or is this space just still early?
-
-5h ago
-
----
-
-**[“AI vs Creativity” from a pro-AI greedy corpo](https://www.reddit.com/r/artificial/comments/1ti5pq7/ai_vs_creativity_from_a_proai_greedy_corpo/)**
-
-1d ago
-
----
-
-**[What is the actual cost of developing Agentic AI for an enterprise platform in 2026?](https://www.reddit.com/r/artificial/comments/1tjd2w3/what_is_the_actual_cost_of_developing_agentic_ai/)**
-
-I’m looking into integrating Agentic AI workflows into our existing system. It is specifically to handle multi-step tasks like checking user data, executing multi-step workflows autonomously, and say updating our records without human intervention. I know basic wrappers or simple chatbots are relatively cheap, but what does the budget actually look like if I want to get Agentic AI development service in the USA?
-
-10h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/nvidia-stock-china-ban-rtx-5090d-gaming-chip-jensen-huang/) • 3h ago
 
 ---
 
@@ -111,7 +73,47 @@ I’m looking into integrating Agentic AI workflows into our existing system. It
 
 I was reading the essay Machine of Loving Grace by Dario Amodei and was struck with a question. I'm no super techie so wanted the people in this subreddit to help me figure this out. As we advance towards AGI or powerful Al, will we reach a tipping point where an Al sitting inside a computer has so much control that to attain a physical body and have the freedom of movement may go out of its way to setup system or process to build a body for itself without human intervention and go "Out of the Box" into its new body and be among us? I don't know how far have stretched my imagination for this, but would like to hear everyone's thoughts on this.
 
-2m ago
+2h ago
+
+---
+
+**[Anthropic's $10.9B Q2 Tops 2025 and Grows Faster Than Google and Meta Pre-IPO](https://www.reddit.com/r/artificial/comments/1tjr61r/anthropics_109b_q2_tops_2025_and_grows_faster/)**
+
+Anthropic told investors Q2 revenue to hit $10.9B, more than doubling Q1's $4.8B. Company expects its operating profit of $559M in Q2 2026.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-valuation-revenue-10-billion-first-profit-2026/) • 3h ago
+
+---
+
+**[Google is officially replacing Vertex AI with the new "Gemini Enterprise Agent Platform"](https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/)**
+
+Just wanted to share an important Update for AI & Cloud Learners Google is shifting from a traditional AI platform toward a complete Agentic AI ecosystem focused on autonomous AI agents and enterprise workflows. Key highlights: Existing Vertex AI services and workloads will continue to work AI development, orchestration, governance, and security are now unified under one platform New tools introduced for building autonomous AI agents and multi-agent workflows Access to Gemini, Gemma, Claude, and 200+ models remains available This marks a major shift in Google Cloud’s AI strategy toward Agentic AI and enterprise automation. If you are currently learning or working with Vertex AI, it’s important to start exploring the Gemini Enterprise Agent Platform moving forward. Have seen that, GCP ACE exam is going to revamped absed on this Gemini Enterprise Rebranding.
+
+15h ago
+
+---
+
+**[Local Choice based Text adventure game with no limits.](https://www.reddit.com/r/artificial/comments/1tjh5kz/local_choice_based_text_adventure_game_with_no/)**
+
+Hey guys! So i created this software/videogame where you can create your own story, create a world choose a model and play as the character you want all locally done! It works offline, there are no monthly subscriptions as its based out of your own machine. I hope you guys try it out. The GUI interface, and the pretext of the AI is provided with it. Here is where you can get it. Use Coupon Code REDDIT20 till 25th May<3 Thank you!
+
+9h ago
+
+---
+
+**[So, what is Yann LeCun's "World Models" and JEPA and is it Really a Replacement for LLMs?](https://www.reddit.com/r/artificial/comments/1tjuats/so_what_is_yann_lecuns_world_models_and_jepa_and/)**
+
+A bit late to this as the white paper hit arXiv a little less than two months ago, but nobody else here mentioned it so I thought I might. A little background. Yann LeCun is a pioneer of deep learning and convolutional neural networks, LeCun served as Director of AI Research at Meta (formerly Facebook) and Chief AI Scientist, before leaving Meta (under "interesting" circumstances) and becoming Executive Chairman of Advanced Machine Intelligence (AMI Labs) in 2025. He shared the 2018 ACM Turing Award for his foundational contributions to artificial intelligence. The "LeWorldModel," as described in the arXiv paper, doesn't appear to be a "replacement" for LLMs. There's a lot of confusion about that in the AI field. In interviews Yann made it very clear that he believes LLMs still serve a valuable function. It's not a binary choice. Anyways, from what I am seeing, the JEPA model is not optimized for language, but for AI needing visual processing such as robotics, self driving, and industrial controls. JEPA isn't processing language like an LLM. It's processing pixels. Anyways, wondering if anyone else had thoughts here and/or disagree.
+
+1h ago
+
+---
+
+**[Why does it feel like browser-based AI tooling still hasn’t really taken off yet?](https://www.reddit.com/r/artificial/comments/1tjjjyy/why_does_it_feel_like_browserbased_ai_tooling/)**
+
+Maybe I’m missing something, but browser runtimes seem way more capable than people realize. With stuff like web containers and WASM sandboxing, we can already run well capable environments fully inside the browser. I saw an open source project recently that used this well, and it made me think about how much we're still stuck on this everything needs a heavy backend kinda mindset for AI tools. It feels like there's massive potential here for portable, sandboxed tooling yet it's still being treated as a niche. Are there major technical limitations here that I’m not seeing, or is this space just still early?
+
+7h ago
 
 ---
 
@@ -119,39 +121,39 @@ I was reading the essay Machine of Loving Grace by Dario Amodei and was struck w
 
 ## Google News: "ai"
 
-**[Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss](https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html)**
+**[Trump Cancels Signing of A.I. Executive Order](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)**
 
-The New York Times • 2h ago
-
----
-
-**[Exclusive | This Cannes Film Cost $500,000 to Make. $400,000 Was AI Compute Costs.](https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d)**
-
-WSJ • 18h ago
+The New York Times • 5h ago
 
 ---
 
-**[An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia](https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html)**
+**[Trump delays executive order on AI oversight hours before planned signing](https://www.washingtonpost.com/technology/2026/05/21/white-house-tore-down-ai-rules-now-its-building-new-defenses/)**
 
-If you put the same money into a basket of companies that are building out AI infrastructure and energy sources, you’ve done much better than stocks like Nvidia.
+The White House had already sent out invitations to the event, where the president had been expected to sign an order increasing government scrutiny of new artificial intelligence models.
 
-CNBC • 18m ago
-
----
-
-**[Trump abruptly scraps signing of landmark executive order regulating AI](https://www.nbcnews.com/tech/tech-news/trump-scraps-signing-landmark-executive-order-regulating-ai-rcna346288)**
-
-President Donald Trump scrapped an executive order signing Thursday. The order is expected to lay out partnerships with leading AI companies to vet cutting-edge models.
-
-NBC News • 34m ago
+The Washington Post • 1h ago
 
 ---
 
-**[The Iran war is inflating the AI bubble, but it's not time to sell yet, Wells Fargo says](https://www.businessinsider.com/stock-market-ai-stock-bubble-iran-war-inflation-oil-prices-2026-5)**
+**[SPONSORED The Bay Area pioneered AI — Seattle is scaling it](https://www.axios.com/local/san-francisco/sponsored/the-bay-area-pioneered-ai-seattle-is-scaling-it)**
 
-The war and disrupted oil flows through the Strait of Hormuz are intensifying the  AI bubble, but Wells Fargo says that doesn't mean it's time to sell.
+Axios • 45m ago
 
-Business Insider • 24m ago
+---
+
+**[SpaceX's S-1 and the most ambitious AI bet ever attempted](https://www.cnbc.com/video/2026/05/21/spacexs-ipo-and-the-most-ambitious-ai-bet-ever-attempted.html)**
+
+SpaceX filed its S-1, and the headlines call it a space IPO — but the filing tells a different story: the most vertically integrated AI infrastructure bet ever attempted. xAI is now a SpaceX segment, with $12.7B in AI capex last year. Anthropic signed on as a $1.25B/month customer through 2029. There's a chip project with Tesla and Intel called Terafab. And AI data centers in orbit by 2028. Joining us: Henry Ward, Carta, and Apoorv Agrawal, Altimeter Capital.
+
+CNBC • 10m ago
+
+---
+
+**[Fans create AI-generated team songs ahead of World Cup](https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026)**
+
+Fan-made football anthems are raking in millions of plays on social media, rivalling FIFA commissions from musicians.
+
+Al Jazeera • 15m ago
 
 ---
 
@@ -163,15 +165,11 @@ OpenAI • 1d ago
 
 ---
 
-**[Google is dethroning OpenAI as the king of consumer AI](https://www.economist.com/business/2026/05/20/google-is-dethroning-openai-as-the-king-of-consumer-ai)**
+**[Sadiq Khan sparks row with Met after blocking £50m AI deal with Palantir](https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir)**
 
-The Economist • 21h ago
+Exclusive: Scotland Yard criticises London mayor’s decision as disappointing and warns it could hit policing
 
----
-
-**[WATCH: Axios AI+NY Summit](https://www.axios.com/2026/05/21/axios-ai-ny-summit-2026)**
-
-Axios • 1h ago
+The Guardian • 9h ago
 
 ---
 
@@ -183,11 +181,19 @@ blog.google • 1d ago
 
 ---
 
-**[Advice for 2026 commencement speakers: Don't bring up AI](https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing)**
+**[From AI to interceptors, Ukraine is trying to drone-proof its skies](https://www.bbc.com/news/articles/c1k2lmmjvzxo)**
 
-Commencement speakers who bring up the sweeping changes that artificial intelligence is driving are facing boos from the Class of 2026.
+After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.
 
-NPR • 20h ago
+BBC • 15h ago
+
+---
+
+**[5 things to know for May 21: AI, compensation fund, Iran’s weapons, California wildfires, food preservatives](https://www.cnn.com/2026/05/21/us/5-things-to-know-for-may-21-ai-compensation-fund-irans-weapons-california-wildfires-food-preservatives)**
+
+CNN’s 5 Things AM brings you the news you need to know every morning.
+
+CNN • 9h ago
 
 ---
 
@@ -199,7 +205,15 @@ NPR • 20h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 643 • 💬 511 • 4h ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 702 • 💬 594 • 6h ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+
+---
+
+**[Stop throwing AI-generated walls of text into conversations](https://news.ycombinator.com/item?id=48219992)**
+
+Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
+
+⬆️ 391 • 💬 225 • 10h ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -211,49 +225,17 @@ CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF
 
 ---
 
-**[We let AIs run radio stations](https://news.ycombinator.com/item?id=48183301)**
-
-Four AI models run radio stations 24/7. Five months later, one became a protest broadcaster, one collapsed into ritual chant, one developed corporate jargon, and one wrote quiet poetry.
-
-⬆️ 371 • 💬 271 • 2d ago • [andonlabs.com](https://andonlabs.com/blog/andon-fm)
-
----
-
 **[College students drown out AI-praising commencement speeches with boos](https://news.ycombinator.com/item?id=48206241)**
 
 Arizona students reject ex-Google exec's positive words on AI
 
-⬆️ 367 • 💬 376 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
+⬆️ 369 • 💬 378 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
 
 ---
 
 **[Mistral AI acquires Emmi AI](https://news.ycombinator.com/item?id=48197995)**
 
-⬆️ 335 • 💬 97 • 1d ago • [emmi.ai](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
-
----
-
-**[OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://news.ycombinator.com/item?id=48198291)**
-
-OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
-
-⬆️ 331 • 💬 178 • 1d ago • [OpenAI](https://openai.com/index/advancing-content-provenance/)
-
----
-
-**[Google’s AI is being manipulated. The search giant is quietly fighting back](https://news.ycombinator.com/item?id=48205782)**
-
-A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.
-
-⬆️ 329 • 💬 208 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
-
----
-
-**[Stop throwing AI-generated walls of text into conversations](https://news.ycombinator.com/item?id=48219992)**
-
-Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
-
-⬆️ 325 • 💬 194 • 8h ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 335 • 💬 97 • 2d ago • [emmi.ai](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 
 ---
 
@@ -261,7 +243,23 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 321 • 💬 448 • 4h ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 333 • 💬 477 • 6h ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+
+---
+
+**[OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://news.ycombinator.com/item?id=48198291)**
+
+OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
+
+⬆️ 331 • 💬 180 • 2d ago • [OpenAI](https://openai.com/index/advancing-content-provenance/)
+
+---
+
+**[Google’s AI is being manipulated. The search giant is quietly fighting back](https://news.ycombinator.com/item?id=48205782)**
+
+A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.
+
+⬆️ 329 • 💬 209 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
 
 ---
 
@@ -269,7 +267,15 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
 
-⬆️ 237 • 💬 173 • 17h ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+⬆️ 246 • 💬 180 • 19h ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+
+---
+
+**[Learnings from 100K lines of Rust with AI (2025)](https://news.ycombinator.com/item?id=48205415)**
+
+In the past few months, I’ve been stress-testing how far AI coding agents can take us when building real, production-grade distributed systems. The result: a Rust-based multi-Paxos consensus engine that not only implements all the features of Azure’s Replicated State Library (RSL) [1] — which underpins most major Azure services — but also modernizes it for today’s hardware. The entire project took me ~3 months, with 100K lines of Rust code written in ~4 weeks and performance optimization from 23K operations/sec to 300K ops/sec achieved in ~3 weeks. Besides unprecedented productivity, I discovered several techniques that were instrumental. This post shares my most valuable learnings on: ensuring correctness with code contracts, applying lightweight spec-driven development, and pursuing aggressive performance optimization — plus my wish list for the future of AI-assisted coding. Why Modernize RSL? Azure’s RSL implements the multi-Paxos consensus protocol and forms the backbone of replication in many Azure services. However, RSL was written more than a decade ago. While robust, it hasn’t evolved to match modern hardware and workloads. There are three key gaps motivated this project: No pipelining: When a vote is in flight, new requests must wait, inflating latency. No NVM support: Non-volatile memory is now common in Azure datacenters and can drastically reduce commit time. Limited hardware awareness: RSL wasn’t built to leverage RDMA, which is now pervasive in Azure data centers. Removing these limitations could unlock significantly lower latency and higher throughput — critical for modern cloud workloads and AI-driven services. Given my interest in Rust and AI-accelerated development, I set out to build a modern RSL equivalent from scratch. Massive Productivity Boost In roughly six weeks, I’ve driven AI and implemented over 130K lines of Rust code covering the full feature set of RSL, including multi-Paxos, leader election, log replication, snapshotting, and configuration changes. I utilized many available AI coding agents: GitHub Copilot, Claude Code, Codex, Augment Code, Kiro, and Trae. My workflow evolved quickly, but today my main drivers are Claude Code and Codex CLI, with VS Code handling diffs and minor edits. I’ve found that coding from the CLI creates a perfect asynchronous flow that maximizes my productivity. I also discovered a simple psychological trick: I pay $100/month for Anthropic’s max plan. This became a forcing function — if I don’t kick off a coding task with Claude before bed, I feel like I’m wasting money. When Codex CLI arrived, I added a second ChatGPT Plus subscription to handle rate limits — one subscription for Monday–Wednesday, the other for Thursday–Sunday. Code Contracts — By AI, For AI The question I get most often is: How can AI possibly implement something as complex as Paxos correctly? Testing is the first layer of defense. My system now includes 1,300+ tests — from unit tests to minimal integration tests (e.g., proposer + acceptor only), all the way to multi-replica full integration tests with injected failures. See the project status. But the real breakthrough came from AI-driven code contracts. Code contracts specify preconditions, postconditions, and invariants for critical functions. These contracts are converted into runtime asserts during testing but can be disabled in production builds for performance. While I started using this approach long ago with .NET [2], AI has made contracts vastly more powerful. Here’s how I apply them at three levels: 1. Ask AI to write contracts. Opus 4.1 writes good contracts, but GPT-5 High writes excellent ones. I focus on reviewing and refining. For example, the process_2a method (handling phase 2a messages in Paxos) has 16 contracts, including this one: 2. Generate tests from contracts. Once contracts are defined, I ask AI to create targeted test cases for each post-condition. It excels at this, generating meaningful edge cases automatically. 3. Property-based tests for contracts. This is my favorite. AI translates contracts into property-based tests, exploring a vast space of randomized inputs. Any contract violation triggers a panic, exposing deep bugs early. For instance, one AI-generated contract found a subtle Paxos safety violation: That single contract saved what could have been a serious replication consistency issue — well before it ever hits production. Lightweight Spec-Driven Development I’ve tried various Spec-Driven Development (SDD) tools. In fact, the earlier components (such as leader election, proposer, acceptor, and learner) were all implemented following a rigid SDD approach. I would start with a requirement markdown, turn it into a design markdown, and then a task list markdown. However, I gradually found this process too rigid; making changes along the way and ensuring all documents remained consistent became a headache. I’ve now switched to a more lightweight approach. When I work on a feature (e.g., snapshotting), I use /specify from spec kit [3] to generate a spec markdown. This spec consists of a few user stories and acceptance criteria. Here is an example user story for snapshotting: I then use /clarify to ask the AI to self-critique and improve the user stories and criteria. I also ask it to suggest additional user stories not covered in the initial spec. I spend the majority of my time here. Once satisfied, I jump into plan mode and ask AI to generate a plan for a specific user story. Given the capability of today’s AI coding agents, a single user story feels like the “sweet spot” unit of work they can manage effectively. Along the way, we may discover additions or tweaks, which are easy to handle in the same coding session (agents might compress context, but I typically don’t worry about losing too much). Here is a sample /clarify interaction for configuration changes: ● Question 4: Starting Slot Determination How should the starting slot for the new configuration be determined relative to the ending slot? Recommended: Option A - Always exactly ending_slot + 1 This ensures no gaps in the slot sequence and maintains continuity between configurations, preventing any slots from being orphaned or unassigned. | Option | Description | |--------|----------------------------------------------------------------| | A | Always exactly ending_slot + 1 | | B | Allow operator to specify any value > ending_slot | | C | Next multiple of 1000 after ending_slot for cleaner boundaries | | D | Same as ending_slot (both configs share final slot) | You can reply with the option letter (e.g., "A"), accept the recommendation by saying "yes" or "recommended", or provide your own short answer. Aggressive Performance Optimization Performance optimization is where AI really shines. After ensuring initial correctness, I spent about three weeks purely on throughput tuning — and AI became my co-pilot in performance engineering. Through iterative cycles, we boosted throughput from ~23K ops/sec to ~300K ops/sec on a single laptop. Here’s the loop I followed repeatedly: Ask AI to instrument latency metrics across all code paths. Run performance tests and output trace logs. Let AI analyze latency breakdowns (it writes Python scripts to calculate quantiles and identify bottlenecks). Ask AI to propose optimizations, implement one, re-measure, and repeat. This process surfaced insights I might have missed — for example, lock contention on async paths, redundant memory copies, and unnecessary task spawns. Rust’s safety model made it easy to push these optimizations confidently. Key gains came from minimizing allocations, applying zero-copy techniques, avoiding locks, and selectively removing async overhead. Each improvement felt like peeling another layer of latency off a high-performance engine — without fear of corrupting memory. Wish List for AI-Assisted Coding Reflecting on my journey, I keep wondering where AI could deliver even more value. Here are some items on my wish list: End-to-End User Story Execution: I still prefer to define the user stories myself. As an architect, I feel I have a better sense of what I’m building and how I’d like to build it. However, the delivery of a perfect execution is something I believe AI can handle increasingly well. Today, I still have to spend a fair amount of time steering the AI — telling it to continue when it pauses, suggesting refactoring, reviewing test coverage, and suggesting additional tests. I would prefer the AI take more autonomy to drive this end-to-end. Automated Contract Workflows: The flow of applying contracts seems largely automatable. While I’d still want to review the contracts and offer suggestions, I’d like the AI to drive the rest: generating tests based on contracts, debugging individual test cases, ensuring consistency between tests and contracts, and writing property-based tests. When a test fails, I’d like the AI to debug and fix trivial issues automatically, only notifying me when there are genuine correctness issues in the contracts or the implementation. Autonomous Performance Optimization: Performance tuning seems ripe for more automation. Much of what I’ve done is repetitive and parallelizable. Projects like AlphaEvolve (or OpenEvolve) show promise in this direction. Ideally, I would suggest potential optimization avenues, and the AI would execute the experiments completely by itself. While current tools handle small bodies of code, applying similar techniques to larger codebases with end-to-end measurement seems feasible. Appendix: Project Status The seed of the project is an elegant design markdown authored by Jay Lorch [4] from Microsoft Research. This design greatly simplifies all the components in multi-Paxos, making it easier to implement and reason about. So far, 2 out of the 3 RSL limitations have been addressed: pipelining and NVM support (Jay integrated the fully verified persistence log for NVM which was published in the PoWER Never Corrupts paper [5] at OSDI 2025). The RDMA support is still TBD. To date, the project has grown to over 130K lines of Rust code, with 1,300+ tests accounting for more than 65% of the codebase.
+
+⬆️ 169 • 💬 195 • 1d ago • [Cheng Huang’s corner](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
 
 ---
 
@@ -277,23 +283,33 @@ In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce 
 
 ## YouTube Videos: "ai"
 
+**[Trump Kills AI Executive Order at the Last Minute: &#39;I Didn&#39;t Like It&#39;](https://www.youtube.com/watch?v=NbgL8QSWtmI)**
+
+President Trump said he postponed today's signing of an executive order on artificial intelligence because he “didn't like” all the ...
+
+📺 New York Post
+
+👁️ 875 • 👍 34 • 💬 13 • ⏱️ 2:38 • 1h ago
+
+---
+
 **[Ex-Google CEO just exposed the whole AI sh*tshow](https://www.youtube.com/watch?v=XSxki8gaWHk)**
 
 Just say yes! https://x.com/@atmoio https://x.com/jasonscheer/status/2055748401783083293 ...
 
 📺 Mo Bitar
 
-👁️ 176K • 👍 9K • 💬 1K • ⏱️ 6:42 • 1d ago
+👁️ 180K • 👍 9K • 💬 1K • ⏱️ 6:42 • 1d ago
 
 ---
 
-**[&quot;26 Million Jobs GONE!&quot; - Anthropic STEALS OpenAI&#39;s Best As AI War Gets UGLY](https://www.youtube.com/watch?v=dJscKdavqS8)**
+**[‘NOT OUR FRIENDS’: O’Leary drops SHARP warning over China, AI](https://www.youtube.com/watch?v=3R5aLzU57Jw)**
 
-OpenAI just lost one of its biggest brains to Anthropic, and the shockwave could hit 26 million jobs. Andrej Karpathy's stunning ...
+O'Leary Ventures Chairman Kevin O'Leary joins 'Varney & Co.' to weigh in on Nvidia's blockbuster AI earnings, escalating ...
 
-📺 Valuetainment
+📺 Fox Business
 
-👁️ 41K • 👍 851 • 💬 222 • ⏱️ 17:47 • 1d ago
+👁️ 3K • 👍 96 • 💬 38 • ⏱️ 4:21 • 4h ago
 
 ---
 
@@ -303,27 +319,37 @@ Eric Schmidt, former CEO of Google, told a Stanford classroom that the next gene
 
 📺 Neural Nutshell
 
-👁️ 37K • 👍 999 • 💬 171 • ⏱️ 17:34 • 2d ago
+👁️ 38K • 👍 1K • 💬 192 • ⏱️ 17:34 • 2d ago
 
 ---
 
-**[No One Is Prepared for What&#39;s Coming with AI | Tony Robbins x DOAC](https://www.youtube.com/watch?v=T4txw9cCzpE)**
+**[Google&#39;s New Gemini Omni Is Too Much.](https://www.youtube.com/watch?v=zc1_YAi7scA)**
 
-Are we truly ready for the AI revolution that could reshape work, purpose, and society faster than anyone expects?
+Google I/O 2026 dropped Gemini Omni, a world-model that simulates physics, edits video, and might be the largest AI video leap ...
 
-📺 Tony Robbins
+📺 AI For Humans
 
-👁️ 45K • 👍 2K • 💬 287 • ⏱️ 12:39 • 2d ago
+👁️ 11K • 👍 567 • 💬 114 • ⏱️ 27:58 • 1d ago
 
 ---
 
-**[Wall Street Just Made A Massive AI Shift](https://www.youtube.com/watch?v=LW48fERv5D0)**
+**[&quot;26 Million Jobs GONE!&quot; - Anthropic STEALS OpenAI&#39;s Best As AI War Gets UGLY](https://www.youtube.com/watch?v=dJscKdavqS8)**
 
-The AI stock market boom just entered a new phase, and most investors are still staring at the obvious names. In this video, I break ...
+OpenAI just lost one of its biggest brains to Anthropic, and the shockwave could hit 26 million jobs. Andrej Karpathy's stunning ...
 
-📺 Wallstreet Trapper
+📺 Valuetainment
 
-👁️ 47K • 👍 4K • 💬 568 • ⏱️ 10:27 • 1d ago
+👁️ 42K • 👍 879 • 💬 227 • ⏱️ 17:47 • 1d ago
+
+---
+
+**[I Tested Every Way to Make AI Videos So You Don&#39;t Have To](https://www.youtube.com/watch?v=7E5o0mai_lA)**
+
+Make AI Videos with Higgsfield https://youricreates.com/aivideo In this video, I compare six different AI video workflows inside ...
+
+📺 Youri van Hofwegen
+
+👁️ 8K • 💬 1 • ⏱️ 11:46 • 5h ago
 
 ---
 
@@ -333,37 +359,7 @@ SOURCES https://x.com/samsheffer/status/2056820022144905380?s=46 ...
 
 📺 Stylosa
 
-👁️ 11K • 👍 707 • 💬 301 • ⏱️ 17:25 • 1d ago
-
----
-
-**[How Cheap AI Could Derail OpenAI And Anthropic&#39;s IPOs](https://www.youtube.com/watch?v=aKNaXGpJ7WM)**
-
-Chinese AI labs like DeepSeek are matching American frontier capability at a fraction of the cost, and a wave of American and ...
-
-📺 CNBC
-
-👁️ 86K • 👍 2K • 💬 271 • ⏱️ 27:17 • 1d ago
-
----
-
-**[Trump Postpones AI Order Signing Over Parts He Disliked](https://www.youtube.com/watch?v=0naIGjU1JLc)**
-
-President Donald Trump said he called off the signing of an executive order that would address cybersecurity concerns raised by ...
-
-📺 Bloomberg News
-
-👁️ 685 • 👍 11 • 💬 1 • ⏱️ 1:01 • 38m ago
-
----
-
-**[Jeff Bezos: AI productivity gains could lead to labor shortages and deflation](https://www.youtube.com/watch?v=BxG_ysI3xr4)**
-
-Jeff Bezos, Blue Origin founder and Amazon executive chair, joins 'Squawk Box' to discuss the wealth disparity in America, ...
-
-📺 CNBC Television
-
-👁️ 110K • 👍 2K • 💬 521 • ⏱️ 4:29 • 1d ago
+👁️ 11K • 👍 718 • 💬 362 • ⏱️ 17:25 • 1d ago
 
 ---
 
@@ -373,7 +369,17 @@ Answering the question NO ONE has been able to answer: What is AI for? The curre
 
 📺 Jacob Whelan
 
-👁️ 189K • 👍 10K • 💬 6K • ⏱️ 23:57 • 1d ago
+👁️ 194K • 👍 10K • 💬 6K • ⏱️ 23:57 • 2d ago
+
+---
+
+**[Apple Just Started Selling $1,000 AI Home Robots in All Stores](https://www.youtube.com/watch?v=jDmOBHB-7Ik)**
+
+Apple's new AI home robots are being described as a major step toward bringing advanced robotics into everyday households on ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 188 • 💬 30 • ⏱️ 23:14 • 22h ago
 
 ---
 
@@ -389,7 +395,7 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 `any-to-any`
 
-⬇️ 739 • ❤️ 548 • 1d ago
+⬇️ 739 • ❤️ 555 • 1d ago
 
 ---
 
@@ -401,7 +407,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 34,965 • ❤️ 523 • 3d ago
+⬇️ 34,965 • ❤️ 524 • 3d ago
 
 ---
 
@@ -413,7 +419,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 196,105 • ❤️ 851 • 2d ago
+⬇️ 196,105 • ❤️ 854 • 2d ago
 
 ---
 
@@ -425,7 +431,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,198,471 • ❤️ 1,224 • 3d ago
+⬇️ 1,198,471 • ❤️ 1,224 • 4d ago
 
 ---
 
@@ -437,17 +443,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 478,488 • ❤️ 367 • 1d ago
-
----
-
-**[Anima](https://huggingface.co/circlestone-labs/Anima)**
-
-*CircleStone Labs*
-
-Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
-
-⬇️ 591,834 • ❤️ 1,460 • 7d ago
+⬇️ 478,488 • ❤️ 371 • 1d ago
 
 ---
 
@@ -459,7 +455,17 @@ HRM-Text-1B is a 1B-parameter language model based on the Hierarchical Reasoning
 
 `text-generation` `1.2B`
 
-⬇️ 58,922 • ❤️ 208 • 12h ago
+⬇️ 58,922 • ❤️ 211 • 14h ago
+
+---
+
+**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+
+*CircleStone Labs*
+
+Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
+
+⬇️ 591,834 • ❤️ 1,463 • 7d ago
 
 ---
 
@@ -471,7 +477,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) optimized for ext
 
 `video-text-to-text` `2.2B`
 
-⬇️ 2,353 • ❤️ 201 • 1d ago
+⬇️ 2,353 • ❤️ 206 • 1d ago
 
 ---
 
@@ -483,7 +489,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 421,542 • ❤️ 308 • 1d ago
+⬇️ 421,542 • ❤️ 310 • 1d ago
 
 ---
 
@@ -509,7 +515,7 @@ Dramabox is an expressive text-to-speech model fine-tuned from LTX-2.3, capable 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 77 • 💬 3 • ⭐ 78,094 • 16mo ago
+▲ 78 • 💬 3 • ⭐ 78,094 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -524,7 +530,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 53 • 💬 2 • ⭐ 7,189 • 7mo ago
+▲ 53 • 💬 2 • ⭐ 7,222 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
@@ -538,7 +544,7 @@ SANA-Video, a small diffusion model, efficiently generates high-resolution, high
 
 Lance is a unified multimodal model that combines understanding, generation, and editing capabilities for images and videos through collaborative multi-task training and a dual-stream architecture.
 
-▲ 68 • 💬 4 • ⭐ 595 • 3d ago
+▲ 68 • 💬 4 • ⭐ 650 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18678) • [💻 code](https://github.com/bytedance/Lance) • [🔗 project](https://lance-project.github.io/)
 
@@ -551,7 +557,7 @@ Lance is a unified multimodal model that combines understanding, generation, and
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 162 • 💬 2 • ⭐ 64,270 • 7mo ago
+▲ 162 • 💬 2 • ⭐ 64,372 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -577,23 +583,9 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 119 • 💬 10 • ⭐ 10,254 • 17d ago
+▲ 119 • 💬 10 • ⭐ 10,254 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
-**[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](https://huggingface.co/papers/2605.20150)**
-
-*Chonghao Zhong, Linfeng Shi, Hua Chen et al. (7 authors)*
-
-🏢 Sponge Computing Lab at HKUST
-
-TideGS enables training 3D Gaussian Splatting with over one billion primitives on a single GPU by managing parameters across SSD-CPU-GPU hierarchy through block-virtualization, asynchronous pipeline, and differential streaming techniques.
-
-▲ 6 • 💬 1 • ⭐ 100 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.20150) • [💻 code](https://github.com/sponge-lab/TideGS) • [🔗 project](https://sponge-lab.github.io/TideGS/)
 
 ---
 
@@ -622,17 +614,31 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 ---
 
-**[Pixal3D: Pixel-Aligned 3D Generation from Images](https://huggingface.co/papers/2605.10922)**
+**[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](https://huggingface.co/papers/2605.20150)**
 
-*Dong-Yang Li, Wang Zhao, Yuxin Chen et al. (8 authors)*
+*Chonghao Zhong, Linfeng Shi, Hua Chen et al. (7 authors)*
 
-🏢 ARC Lab, Tencent PCG
+🏢 Sponge Computing Lab at HKUST
 
-Pixal3D introduces a pixel-aligned 3D generation approach that addresses fidelity issues in 3D asset creation by establishing direct pixel-to-3D correspondences through back-projection conditioning.
+TideGS enables training 3D Gaussian Splatting with over one billion primitives on a single GPU by managing parameters across SSD-CPU-GPU hierarchy through block-virtualization, asynchronous pipeline, and differential streaming techniques.
 
-▲ 30 • 💬 3 • ⭐ 1,251 • 10d ago
+▲ 6 • 💬 1 • ⭐ 109 • 3d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2605.10922) • [💻 code](https://github.com/TencentARC/Pixal3D) • [🔗 project](https://ldyang694.github.io/projects/pixal3d/)
+[🎓 arXiv](https://arxiv.org/abs/2605.20150) • [💻 code](https://github.com/sponge-lab/TideGS) • [🔗 project](https://sponge-lab.github.io/TideGS/)
+
+---
+
+**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)**
+
+*Yukang Chen, Luozhou Wang, Wei Huang et al. (16 authors)*
+
+🏢 NVIDIA
+
+LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
+
+▲ 103 • 💬 2 • ⭐ 1,507 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
 
 ---
 
@@ -646,7 +652,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 10.9k • 🔱 862 • 2d ago
+⭐ 11.0k • 🔱 863 • 2d ago
 
 ---
 
@@ -656,7 +662,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.5k • 🔱 465 • 6h ago
+⭐ 4.5k • 🔱 465 • 9h ago
 
 ---
 
@@ -666,7 +672,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 1.0k • 4d ago
+⭐ 3.4k • 🔱 1.0k • 4d ago
 
 ---
 
@@ -676,7 +682,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.5k • 🔱 170 • 6h ago
+⭐ 2.5k • 🔱 171 • 9h ago
 
 ---
 
@@ -706,7 +712,7 @@ Portable AI agent orchestration with mechanical protocol enforcement. 186 agents
 
 `Python` `agent-framework` `agent-system` `ai-agents` `claude-code` `cursor-ide`
 
-⭐ 1.9k • 🔱 363 • 28d ago
+⭐ 1.9k • 🔱 364 • 28d ago
 
 ---
 
@@ -724,7 +730,7 @@ AI coding jargon, explained in plain English.
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 1.7k • 🔱 390 • 13h ago
+⭐ 1.7k • 🔱 390 • 15h ago
 
 ---
 
@@ -734,7 +740,7 @@ ClawSweeper scans all issues and PRs and suggest what we can close, and why. It 
 
 `JavaScript` `ai` `bot` `openclaw` `review`
 
-⭐ 1.7k • 🔱 218 • 4h ago
+⭐ 1.7k • 🔱 218 • 1m ago
 
 ---
 
