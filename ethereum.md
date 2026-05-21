@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-21T20:19:15.259992+00:00'
+updated: '2026-05-21T21:57:03.862034+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 21, 2026 at 20:19 UTC  
+**Last Updated:** May 21, 2026 at 21:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,129.86
+### $2,136.16
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.4%  
-**7d:** -3.8%  
-**30d:** -9.9%  
-**90d:** +8.4%  
-**1y:** -19.7%  
+**7d:** -4.0%  
+**30d:** -10.0%  
+**90d:** +8.2%  
+**1y:** -19.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
 
-4h ago
+6h ago
 
 ---
 
@@ -112,7 +112,7 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente. Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica
 
-7h ago
+8h ago
 
 ---
 
@@ -156,7 +156,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 The privacy coin has some very ambitious upgrades planned.
 
-The Motley Fool • 9h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -168,27 +168,19 @@ Fortune • 3d ago
 
 ---
 
+**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
+
+Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin vs. Ethereum: Why BTC is Winning the Crypto Market in May 2026](https://sg.finance.yahoo.com/news/bitcoin-vs-ethereum-why-btc-190000285.html)**
-
-BTC's dominance near 60% and stronger ETF inflows are keeping BTC ahead of ETH as investors seek stability in May 2026.
-
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[Tokenization Will Reach $4T By 2028 And Ethereum And Solana Will Not Be The Primary Beneficiaries, Standard Chartered Says](https://finance.yahoo.com/markets/crypto/articles/tokenization-reach-4t-2028-ethereum-174607744.html)**
-
-Tokenized assets are set to balloon to $4 trillion by 2028 and decentralized finance protocols not Ethereum or Solana will be the primary beneficiaries, according to Standard Chartered. Non-stablecoin tokenized assets will reach $2 trillion and stablecoins will also reach...
-
-Yahoo Finance • 2h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -208,17 +200,11 @@ The Harvard Crimson • 2d ago
 
 ---
 
-**[Ethereum Spirals as ETH/BTC Ratio Plunges and Wintermute Declares It the ‘Wrong Asset for This Macro’](https://www.tipranks.com/news/ethereum-spirals-as-eth-btc-ratio-plunges-and-wintermute-declares-it-the-wrong-asset-for-this-macro)**
-
-TipRanks • 1d ago
-
----
-
 **[WEEX Report Highlights Ether’s Next Market Test as Ethereum Enters a New Post-ETF Phase](https://markets.businessinsider.com/news/stocks/weex-report-highlights-ether-s-next-market-test-as-ethereum-enters-a-new-post-etf-phase-1036183223)**
 
 SINGAPORE, May  21, 2026  (GLOBE NEWSWIRE) -- WEEX today released a new Ether market report examining how Ethereum’s native asset, ETH, is being t...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -227,6 +213,20 @@ markets.businessinsider.com • 7h ago
 Bitcoin (BTC) preserves its $77,000 support following the recent drawdown from its May peak around $82,500.
 
 FXStreet • 1d ago
+
+---
+
+**[Ethereum Spirals as ETH/BTC Ratio Plunges and Wintermute Declares It the ‘Wrong Asset for This Macro’](https://www.tipranks.com/news/ethereum-spirals-as-eth-btc-ratio-plunges-and-wintermute-declares-it-the-wrong-asset-for-this-macro)**
+
+TipRanks • 1d ago
+
+---
+
+**[Here’s How High The Ethereum Price Would Be if It Matches The Market Cap Of Gold](https://www.tradingview.com/news/newsbtc:fcc1aaf7b094b:0-here-s-how-high-the-ethereum-price-would-be-if-it-matches-the-market-cap-of-gold/)**
+
+A crypto analyst has shared a new report from Etherealize, a leading crypto research firm, which projects how high the Ethereum price could reach if its market capitalization were to match that of gold. The expert believes that, beyond price action, the Ethereum network could also evolve into a glo…
+
+TradingView • 23h ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 401 • 💬 134 • ⏱️ 15:00 • 8h ago
+👁️ 6K • 👍 401 • 💬 134 • ⏱️ 15:00 • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 360 • 👍 56 • 💬 23 • ⏱️ 15:44 • 16m ago
+👁️ 360 • 👍 56 • 💬 23 • ⏱️ 15:44 • 1h ago
 
 ---
 
@@ -260,7 +260,7 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 174 • ⏱️ 17:13 • 17h ago
+👁️ 40K • 👍 3K • 💬 174 • ⏱️ 17:13 • 18h ago
 
 ---
 
@@ -270,7 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 100 • 💬 10 • ⏱️ 18:45 • 4h ago
+👁️ 1K • 👍 100 • 💬 10 • ⏱️ 18:45 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 465 • 💬 20 • ⏱️ 2:09 • 19h ago
+👁️ 7K • 👍 465 • 💬 20 • ⏱️ 2:09 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 140 • 💬 10 • ⏱️ 11:15 • 17h ago
+👁️ 1K • 👍 140 • 💬 10 • ⏱️ 11:15 • 18h ago
 
 ---
 

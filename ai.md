@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-21T20:19:15.247100+00:00'
+updated: '2026-05-21T21:57:03.849243+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 21, 2026 at 20:19 UTC  
+**Last Updated:** May 21, 2026 at 21:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Well that certainly backfired.
 
-🔗 [Comic Sands](http://comicsands.com/ai-misses-graduate-names) • 54m ago
+🔗 [Comic Sands](http://comicsands.com/ai-misses-graduate-names) • 2h ago
 
 ---
 
@@ -53,9 +53,41 @@ An OpenAI model solved the 80-year-old unit distance problem, disproving a major
 
 ---
 
+**[So, what is Yann LeCun's "World Models" and JEPA and is it Really a Replacement for LLMs?](https://www.reddit.com/r/artificial/comments/1tjuats/so_what_is_yann_lecuns_world_models_and_jepa_and/)**
+
+A bit late to this as the white paper hit arXiv a little less than two months ago, but nobody else here mentioned it so I thought I might. A little background. Yann LeCun is a pioneer of deep learning and convolutional neural networks, LeCun served as Director of AI Research at Meta (formerly Facebook) and Chief AI Scientist, before leaving Meta (under "interesting" circumstances) and becoming Executive Chairman of Advanced Machine Intelligence (AMI Labs) in 2025. He shared the 2018 ACM Turing Award for his foundational contributions to artificial intelligence. The "LeWorldModel," as described in the arXiv paper, doesn't appear to be a "replacement" for LLMs. There's a lot of confusion about that in the AI field. In interviews Yann made it very clear that he believes LLMs still serve a valuable function. It's not a binary choice. Anyways, from what I am seeing, the JEPA model is not optimized for language, but for AI needing visual processing such as robotics, self driving, and industrial controls. JEPA isn't processing language like an LLM. It's processing pixels. Anyways, wondering if anyone else had thoughts here and/or disagree.
+
+2h ago
+
+---
+
 **[I built a zero-code visual client to test remote MCP servers instantly (Tested with Cloudflare’s free MCP).](https://www.reddit.com/r/artificial/comments/1tjpywq/i_built_a_zerocode_visual_client_to_test_remote/)**
 
 Hey everyone, The Model Context Protocol (MCP) is amazing for standardizing how agents talk to data, but I got incredibly frustrated every time I wanted to quickly test a new remote MCP server. Writing custom client-side boilerplate or wrestling with CLI tools just to see if a tool actually exposes the right schema is a massive time sink. So, I built a native MCP client directly into the visual canvas of AgentSwarms. You can now test any remote MCP server entirely in the browser without writing a single line of code. Here is the workflow I just tested with Cloudflare: Cloudflare released a free MCP server for their documentation. Instead of building a local client to test it: I dropped their SSE URL into the new MCP Servers integration in AgentSwarms. The canvas immediately connected and extracted the available tools (e.g., cloudflare-docs-search). I wired that tool up to a basic agent and started asking complex infrastructure questions in natural language. The agent successfully used the MCP tool to pull live docs and synthesize an answer. Why this is useful for AI devs: If you are building your own MCP servers, you need a fast way to visually test if your endpoints are exposing tools correctly and if an LLM can actually route to them properly. This gives you an instant, visual debugging playground. It handles the SSE connection, tool extraction, and LLM routing automatically. It’s completely free to play with in the browser. I'd love for anyone building MCP servers right now to plug their endpoints in and see how it works. Link: https://agentswarms.fyi/mcp
+
+5h ago
+
+---
+
+**[Starbucks](https://www.reddit.com/r/artificial/comments/1tjywfy/starbucks/)**
+
+Starbucks has reportedly retired its AI-powered “Automated Counting” inventory system across North American stores this week — less than a year after rolling it out company-wide. The system used computer vision, 3D spatial intelligence, and AR-enabled tablets to scan shelves and count inventory like syrups, milk, and cups much faster than manual checks. In theory, it sounded like a perfect retail AI use case. In practice, real stores are messy. The tool reportedly struggled with: Similar-looking products Partially obscured items Shelf clutter Inconsistent lighting Missing or misplaced inventory Examples included confusing milk varieties, missing bottles entirely, or failing to recognize seasonal syrups like peppermint. Instead of improving inventory visibility, the errors sometimes created additional supply-chain friction. Starbucks is now reverting to manual counts while continuing broader operational and supply-chain improvements under CEO Brian Niccol. The bigger lesson here is important: AI often performs extremely well in controlled demos and structured environments. But deployment in chaotic, real-world physical settings is much harder. Retail stores generate endless edge cases: Damaged packaging Human stocking inconsistencies Constant layout changes Occlusions Lighting variation Seasonal product churn That’s where reliability becomes more important than raw capability. This doesn’t mean AI in retail is failing. It means the industry is learning that replacing human operational workflows requires extremely high accuracy — especially when small errors compound across thousands of stores. Classic example of the gap between “AI can do the task” and “AI can do the task reliably at scale.”
+
+14m ago
+
+---
+
+**[How America Turned Against AI According to the Poll Data: A (Very Big) Compilation](https://www.reddit.com/r/artificial/comments/1tjyjmc/how_america_turned_against_ai_according_to_the/)**
+
+Every poll, pollster, and methodology converges on the same thing
+
+🔗 [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/how-america-turned-against-ai-according?utm_campaign%3Dpost%26utm_medium%3Dweb) • 28m ago
+
+---
+
+**[Out of the Box](https://www.reddit.com/r/artificial/comments/1tjsiun/out_of_the_box/)**
+
+I was reading the essay Machine of Loving Grace by Dario Amodei and was struck with a question. I'm no super techie so wanted the people in this subreddit to help me figure this out. As we advance towards AGI or powerful Al, will we reach a tipping point where an Al sitting inside a computer has so much control that to attain a physical body and have the freedom of movement may go out of its way to setup system or process to build a body for itself without human intervention and go "Out of the Box" into its new body and be among us? I don't know how far have stretched my imagination for this, but would like to hear everyone's thoughts on this.
 
 3h ago
 
@@ -65,15 +97,7 @@ Hey everyone, The Model Context Protocol (MCP) is amazing for standardizing how 
 
 Nvidia stock is under the spotlight after China banned the RTX 5090D V2, a gaming chip built to comply with US export rules.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/nvidia-stock-china-ban-rtx-5090d-gaming-chip-jensen-huang/) • 3h ago
-
----
-
-**[Out of the Box](https://www.reddit.com/r/artificial/comments/1tjsiun/out_of_the_box/)**
-
-I was reading the essay Machine of Loving Grace by Dario Amodei and was struck with a question. I'm no super techie so wanted the people in this subreddit to help me figure this out. As we advance towards AGI or powerful Al, will we reach a tipping point where an Al sitting inside a computer has so much control that to attain a physical body and have the freedom of movement may go out of its way to setup system or process to build a body for itself without human intervention and go "Out of the Box" into its new body and be among us? I don't know how far have stretched my imagination for this, but would like to hear everyone's thoughts on this.
-
-2h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/nvidia-stock-china-ban-rtx-5090d-gaming-chip-jensen-huang/) • 4h ago
 
 ---
 
@@ -81,39 +105,15 @@ I was reading the essay Machine of Loving Grace by Dario Amodei and was struck w
 
 Anthropic told investors Q2 revenue to hit $10.9B, more than doubling Q1's $4.8B. Company expects its operating profit of $559M in Q2 2026.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-valuation-revenue-10-billion-first-profit-2026/) • 3h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-valuation-revenue-10-billion-first-profit-2026/) • 4h ago
 
 ---
 
-**[Google is officially replacing Vertex AI with the new "Gemini Enterprise Agent Platform"](https://www.reddit.com/r/artificial/comments/1tj9m8s/google_is_officially_replacing_vertex_ai_with_the/)**
+**[From Sam Altman’s ‘fun’ hair to Elon Musk’s ‘twisting’ lips: How courtroom artists capture giants](https://www.reddit.com/r/artificial/comments/1tjts6d/from_sam_altmans_fun_hair_to_elon_musks_twisting/)**
 
-Just wanted to share an important Update for AI & Cloud Learners Google is shifting from a traditional AI platform toward a complete Agentic AI ecosystem focused on autonomous AI agents and enterprise workflows. Key highlights: Existing Vertex AI services and workloads will continue to work AI development, orchestration, governance, and security are now unified under one platform New tools introduced for building autonomous AI agents and multi-agent workflows Access to Gemini, Gemma, Claude, and 200+ models remains available This marks a major shift in Google Cloud’s AI strategy toward Agentic AI and enterprise automation. If you are currently learning or working with Vertex AI, it’s important to start exploring the Gemini Enterprise Agent Platform moving forward. Have seen that, GCP ACE exam is going to revamped absed on this Gemini Enterprise Rebranding.
+Three trial veterans describe their approaches to depicting the rich and infamous during the Musk v. Altman trial
 
-15h ago
-
----
-
-**[Local Choice based Text adventure game with no limits.](https://www.reddit.com/r/artificial/comments/1tjh5kz/local_choice_based_text_adventure_game_with_no/)**
-
-Hey guys! So i created this software/videogame where you can create your own story, create a world choose a model and play as the character you want all locally done! It works offline, there are no monthly subscriptions as its based out of your own machine. I hope you guys try it out. The GUI interface, and the pretext of the AI is provided with it. Here is where you can get it. Use Coupon Code REDDIT20 till 25th May<3 Thank you!
-
-9h ago
-
----
-
-**[So, what is Yann LeCun's "World Models" and JEPA and is it Really a Replacement for LLMs?](https://www.reddit.com/r/artificial/comments/1tjuats/so_what_is_yann_lecuns_world_models_and_jepa_and/)**
-
-A bit late to this as the white paper hit arXiv a little less than two months ago, but nobody else here mentioned it so I thought I might. A little background. Yann LeCun is a pioneer of deep learning and convolutional neural networks, LeCun served as Director of AI Research at Meta (formerly Facebook) and Chief AI Scientist, before leaving Meta (under "interesting" circumstances) and becoming Executive Chairman of Advanced Machine Intelligence (AMI Labs) in 2025. He shared the 2018 ACM Turing Award for his foundational contributions to artificial intelligence. The "LeWorldModel," as described in the arXiv paper, doesn't appear to be a "replacement" for LLMs. There's a lot of confusion about that in the AI field. In interviews Yann made it very clear that he believes LLMs still serve a valuable function. It's not a binary choice. Anyways, from what I am seeing, the JEPA model is not optimized for language, but for AI needing visual processing such as robotics, self driving, and industrial controls. JEPA isn't processing language like an LLM. It's processing pixels. Anyways, wondering if anyone else had thoughts here and/or disagree.
-
-1h ago
-
----
-
-**[Why does it feel like browser-based AI tooling still hasn’t really taken off yet?](https://www.reddit.com/r/artificial/comments/1tjjjyy/why_does_it_feel_like_browserbased_ai_tooling/)**
-
-Maybe I’m missing something, but browser runtimes seem way more capable than people realize. With stuff like web containers and WASM sandboxing, we can already run well capable environments fully inside the browser. I saw an open source project recently that used this well, and it made me think about how much we're still stuck on this everything needs a heavy backend kinda mindset for AI tools. It feels like there's massive potential here for portable, sandboxed tooling yet it's still being treated as a niche. Are there major technical limitations here that I’m not seeing, or is this space just still early?
-
-7h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/from-sam-altmans-fun-hair-to-elon-musks-twisting-lips-how-courtroom-artists-capture-giants) • 3h ago
 
 ---
 
@@ -123,37 +123,69 @@ Maybe I’m missing something, but browser runtimes seem way more capable than p
 
 **[Trump Cancels Signing of A.I. Executive Order](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)**
 
-The New York Times • 5h ago
+The New York Times • 7h ago
 
 ---
 
-**[Trump delays executive order on AI oversight hours before planned signing](https://www.washingtonpost.com/technology/2026/05/21/white-house-tore-down-ai-rules-now-its-building-new-defenses/)**
+**[Trump postpones AI executive order signing: 'I didn't like certain aspects'](https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html)**
 
-The White House had already sent out invitations to the event, where the president had been expected to sign an order increasing government scrutiny of new artificial intelligence models.
+Trump said that AI is "causing tremendous good," and he was concerned that the executive order "could have been a blocker."
 
-The Washington Post • 1h ago
-
----
-
-**[SPONSORED The Bay Area pioneered AI — Seattle is scaling it](https://www.axios.com/local/san-francisco/sponsored/the-bay-area-pioneered-ai-seattle-is-scaling-it)**
-
-Axios • 45m ago
+CNBC • 5h ago
 
 ---
 
-**[SpaceX's S-1 and the most ambitious AI bet ever attempted](https://www.cnbc.com/video/2026/05/21/spacexs-ipo-and-the-most-ambitious-ai-bet-ever-attempted.html)**
+**[Trump abruptly halts signing AI order citing concerns with overregulating](https://www.usatoday.com/story/news/politics/2026/05/21/trump-ai-executive-order/90194199007/)**
 
-SpaceX filed its S-1, and the headlines call it a space IPO — but the filing tells a different story: the most vertically integrated AI infrastructure bet ever attempted. xAI is now a SpaceX segment, with $12.7B in AI capex last year. Anthropic signed on as a $1.25B/month customer through 2029. There's a chip project with Tesla and Intel called Terafab. And AI data centers in orbit by 2028. Joining us: Henry Ward, Carta, and Apoorv Agrawal, Altimeter Capital.
+President Donald Trump abruptly halted plans to issue an executive order on AI hours before tech executives were set to watch him sign it.
 
-CNBC • 10m ago
+USA Today • 1h ago
 
 ---
 
-**[Fans create AI-generated team songs ahead of World Cup](https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026)**
+**[Anthropic, Microsoft in talks for AI chip deal after $5 billion investment](https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html)**
 
-Fan-made football anthems are raking in millions of plays on social media, rivalling FIFA commissions from musicians.
+Microsoft has not made the Maia 200 chips available to customers, but they are used in the company's data centers, offering better efficiency than other silicon.
 
-Al Jazeera • 15m ago
+CNBC • 3h ago
+
+---
+
+**[NY congressional candidate on running against AI money and Jack Schlossberg](https://www.nbcnews.com/meet-the-press/video/ny-congressional-candidate-on-running-against-ai-money-and-jack-schlossberg-263747141678)**
+
+New York State Assemblyman Alex Bores (D) joins Meet the Press NOW to discuss AI regulation and the role of technology in his Congressional primary race.
+
+NBC News • 49m ago
+
+---
+
+**[Artificial Intelligence glitch at Arizona college graduation sparks uproar from crowd](https://www.foxnews.com/outkick-culture/artificial-intelligence-glitch-arizona-college-graduation-sparks-uproar-crowd)**
+
+Students at Glendale Community College erupted in boos after an AI system skipped hundreds of names during their commencement ceremony due to a glitch.
+
+Fox News • 57m ago
+
+---
+
+**[Scott Bessent has been raising the alarm on AI policy. But the delays keep coming.](https://www.politico.com/news/2026/05/21/ai-cairncross-bessent-white-house-00932956)**
+
+Politico • 28m ago
+
+---
+
+**[OpenAI makes breakthrough on 80-year-old maths problem](https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough)**
+
+Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning
+
+The Guardian • 4h ago
+
+---
+
+**[Mathematicians stunned by AI's biggest breakthrough in mathematics yet](https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/)**
+
+Artificial intelligence built by OpenAI has cracked a decades-old conjecture by Paul Erdős, which mathematicians have hailed as a monumental moment for AI in mathematics
+
+New Scientist • 6h ago
 
 ---
 
@@ -165,38 +197,6 @@ OpenAI • 1d ago
 
 ---
 
-**[Sadiq Khan sparks row with Met after blocking £50m AI deal with Palantir](https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir)**
-
-Exclusive: Scotland Yard criticises London mayor’s decision as disappointing and warns it could hit policing
-
-The Guardian • 9h ago
-
----
-
-**[A new generation of ads for the AI era of Search](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)**
-
-Google is introducing new ad formats built with Gemini in Search and expanding the Direct Offers pilot for shoppers.
-
-blog.google • 1d ago
-
----
-
-**[From AI to interceptors, Ukraine is trying to drone-proof its skies](https://www.bbc.com/news/articles/c1k2lmmjvzxo)**
-
-After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.
-
-BBC • 15h ago
-
----
-
-**[5 things to know for May 21: AI, compensation fund, Iran’s weapons, California wildfires, food preservatives](https://www.cnn.com/2026/05/21/us/5-things-to-know-for-may-21-ai-compensation-fund-irans-weapons-california-wildfires-food-preservatives)**
-
-CNN’s 5 Things AM brings you the news you need to know every morning.
-
-CNN • 9h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,15 +205,15 @@ CNN • 9h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 702 • 💬 594 • 6h ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 731 • 💬 621 • 8h ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
-**[Stop throwing AI-generated walls of text into conversations](https://news.ycombinator.com/item?id=48219992)**
+**[Throwing AI-generated walls of text into conversations](https://news.ycombinator.com/item?id=48219992)**
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 391 • 💬 225 • 10h ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 439 • 💬 267 • 12h ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -221,7 +221,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks
 
-⬆️ 382 • 💬 253 • 1d ago • [GitHub](https://github.com/wiltodelta/remove-ai-watermarks)
+⬆️ 383 • 💬 253 • 1d ago • [GitHub](https://github.com/wiltodelta/remove-ai-watermarks)
 
 ---
 
@@ -229,13 +229,7 @@ CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF
 
 Arizona students reject ex-Google exec's positive words on AI
 
-⬆️ 369 • 💬 378 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
-
----
-
-**[Mistral AI acquires Emmi AI](https://news.ycombinator.com/item?id=48197995)**
-
-⬆️ 335 • 💬 97 • 2d ago • [emmi.ai](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
+⬆️ 370 • 💬 378 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
 
 ---
 
@@ -243,7 +237,13 @@ Arizona students reject ex-Google exec's positive words on AI
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 333 • 💬 477 • 6h ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 341 • 💬 485 • 8h ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+
+---
+
+**[Mistral AI acquires Emmi AI](https://news.ycombinator.com/item?id=48197995)**
+
+⬆️ 336 • 💬 97 • 2d ago • [emmi.ai](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 
 ---
 
@@ -259,7 +259,7 @@ OpenAI advances AI content provenance with Content Credentials, SynthID, and a v
 
 A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.
 
-⬆️ 329 • 💬 209 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
+⬆️ 329 • 💬 210 • 1d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
 
 ---
 
@@ -267,7 +267,7 @@ A BBC investigation revealed a simple way to get AI chatbots to spit out misinfo
 
 In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
 
-⬆️ 246 • 💬 180 • 19h ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+⬆️ 248 • 💬 180 • 21h ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
 
 ---
 
@@ -275,7 +275,7 @@ In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce 
 
 In the past few months, I’ve been stress-testing how far AI coding agents can take us when building real, production-grade distributed systems. The result: a Rust-based multi-Paxos consensus engine that not only implements all the features of Azure’s Replicated State Library (RSL) [1] — which underpins most major Azure services — but also modernizes it for today’s hardware. The entire project took me ~3 months, with 100K lines of Rust code written in ~4 weeks and performance optimization from 23K operations/sec to 300K ops/sec achieved in ~3 weeks. Besides unprecedented productivity, I discovered several techniques that were instrumental. This post shares my most valuable learnings on: ensuring correctness with code contracts, applying lightweight spec-driven development, and pursuing aggressive performance optimization — plus my wish list for the future of AI-assisted coding. Why Modernize RSL? Azure’s RSL implements the multi-Paxos consensus protocol and forms the backbone of replication in many Azure services. However, RSL was written more than a decade ago. While robust, it hasn’t evolved to match modern hardware and workloads. There are three key gaps motivated this project: No pipelining: When a vote is in flight, new requests must wait, inflating latency. No NVM support: Non-volatile memory is now common in Azure datacenters and can drastically reduce commit time. Limited hardware awareness: RSL wasn’t built to leverage RDMA, which is now pervasive in Azure data centers. Removing these limitations could unlock significantly lower latency and higher throughput — critical for modern cloud workloads and AI-driven services. Given my interest in Rust and AI-accelerated development, I set out to build a modern RSL equivalent from scratch. Massive Productivity Boost In roughly six weeks, I’ve driven AI and implemented over 130K lines of Rust code covering the full feature set of RSL, including multi-Paxos, leader election, log replication, snapshotting, and configuration changes. I utilized many available AI coding agents: GitHub Copilot, Claude Code, Codex, Augment Code, Kiro, and Trae. My workflow evolved quickly, but today my main drivers are Claude Code and Codex CLI, with VS Code handling diffs and minor edits. I’ve found that coding from the CLI creates a perfect asynchronous flow that maximizes my productivity. I also discovered a simple psychological trick: I pay $100/month for Anthropic’s max plan. This became a forcing function — if I don’t kick off a coding task with Claude before bed, I feel like I’m wasting money. When Codex CLI arrived, I added a second ChatGPT Plus subscription to handle rate limits — one subscription for Monday–Wednesday, the other for Thursday–Sunday. Code Contracts — By AI, For AI The question I get most often is: How can AI possibly implement something as complex as Paxos correctly? Testing is the first layer of defense. My system now includes 1,300+ tests — from unit tests to minimal integration tests (e.g., proposer + acceptor only), all the way to multi-replica full integration tests with injected failures. See the project status. But the real breakthrough came from AI-driven code contracts. Code contracts specify preconditions, postconditions, and invariants for critical functions. These contracts are converted into runtime asserts during testing but can be disabled in production builds for performance. While I started using this approach long ago with .NET [2], AI has made contracts vastly more powerful. Here’s how I apply them at three levels: 1. Ask AI to write contracts. Opus 4.1 writes good contracts, but GPT-5 High writes excellent ones. I focus on reviewing and refining. For example, the process_2a method (handling phase 2a messages in Paxos) has 16 contracts, including this one: 2. Generate tests from contracts. Once contracts are defined, I ask AI to create targeted test cases for each post-condition. It excels at this, generating meaningful edge cases automatically. 3. Property-based tests for contracts. This is my favorite. AI translates contracts into property-based tests, exploring a vast space of randomized inputs. Any contract violation triggers a panic, exposing deep bugs early. For instance, one AI-generated contract found a subtle Paxos safety violation: That single contract saved what could have been a serious replication consistency issue — well before it ever hits production. Lightweight Spec-Driven Development I’ve tried various Spec-Driven Development (SDD) tools. In fact, the earlier components (such as leader election, proposer, acceptor, and learner) were all implemented following a rigid SDD approach. I would start with a requirement markdown, turn it into a design markdown, and then a task list markdown. However, I gradually found this process too rigid; making changes along the way and ensuring all documents remained consistent became a headache. I’ve now switched to a more lightweight approach. When I work on a feature (e.g., snapshotting), I use /specify from spec kit [3] to generate a spec markdown. This spec consists of a few user stories and acceptance criteria. Here is an example user story for snapshotting: I then use /clarify to ask the AI to self-critique and improve the user stories and criteria. I also ask it to suggest additional user stories not covered in the initial spec. I spend the majority of my time here. Once satisfied, I jump into plan mode and ask AI to generate a plan for a specific user story. Given the capability of today’s AI coding agents, a single user story feels like the “sweet spot” unit of work they can manage effectively. Along the way, we may discover additions or tweaks, which are easy to handle in the same coding session (agents might compress context, but I typically don’t worry about losing too much). Here is a sample /clarify interaction for configuration changes: ● Question 4: Starting Slot Determination How should the starting slot for the new configuration be determined relative to the ending slot? Recommended: Option A - Always exactly ending_slot + 1 This ensures no gaps in the slot sequence and maintains continuity between configurations, preventing any slots from being orphaned or unassigned. | Option | Description | |--------|----------------------------------------------------------------| | A | Always exactly ending_slot + 1 | | B | Allow operator to specify any value > ending_slot | | C | Next multiple of 1000 after ending_slot for cleaner boundaries | | D | Same as ending_slot (both configs share final slot) | You can reply with the option letter (e.g., "A"), accept the recommendation by saying "yes" or "recommended", or provide your own short answer. Aggressive Performance Optimization Performance optimization is where AI really shines. After ensuring initial correctness, I spent about three weeks purely on throughput tuning — and AI became my co-pilot in performance engineering. Through iterative cycles, we boosted throughput from ~23K ops/sec to ~300K ops/sec on a single laptop. Here’s the loop I followed repeatedly: Ask AI to instrument latency metrics across all code paths. Run performance tests and output trace logs. Let AI analyze latency breakdowns (it writes Python scripts to calculate quantiles and identify bottlenecks). Ask AI to propose optimizations, implement one, re-measure, and repeat. This process surfaced insights I might have missed — for example, lock contention on async paths, redundant memory copies, and unnecessary task spawns. Rust’s safety model made it easy to push these optimizations confidently. Key gains came from minimizing allocations, applying zero-copy techniques, avoiding locks, and selectively removing async overhead. Each improvement felt like peeling another layer of latency off a high-performance engine — without fear of corrupting memory. Wish List for AI-Assisted Coding Reflecting on my journey, I keep wondering where AI could deliver even more value. Here are some items on my wish list: End-to-End User Story Execution: I still prefer to define the user stories myself. As an architect, I feel I have a better sense of what I’m building and how I’d like to build it. However, the delivery of a perfect execution is something I believe AI can handle increasingly well. Today, I still have to spend a fair amount of time steering the AI — telling it to continue when it pauses, suggesting refactoring, reviewing test coverage, and suggesting additional tests. I would prefer the AI take more autonomy to drive this end-to-end. Automated Contract Workflows: The flow of applying contracts seems largely automatable. While I’d still want to review the contracts and offer suggestions, I’d like the AI to drive the rest: generating tests based on contracts, debugging individual test cases, ensuring consistency between tests and contracts, and writing property-based tests. When a test fails, I’d like the AI to debug and fix trivial issues automatically, only notifying me when there are genuine correctness issues in the contracts or the implementation. Autonomous Performance Optimization: Performance tuning seems ripe for more automation. Much of what I’ve done is repetitive and parallelizable. Projects like AlphaEvolve (or OpenEvolve) show promise in this direction. Ideally, I would suggest potential optimization avenues, and the AI would execute the experiments completely by itself. While current tools handle small bodies of code, applying similar techniques to larger codebases with end-to-end measurement seems feasible. Appendix: Project Status The seed of the project is an elegant design markdown authored by Jay Lorch [4] from Microsoft Research. This design greatly simplifies all the components in multi-Paxos, making it easier to implement and reason about. So far, 2 out of the 3 RSL limitations have been addressed: pipelining and NVM support (Jay integrated the fully verified persistence log for NVM which was published in the PoWER Never Corrupts paper [5] at OSDI 2025). The RDMA support is still TBD. To date, the project has grown to over 130K lines of Rust code, with 1,300+ tests accounting for more than 65% of the codebase.
 
-⬆️ 169 • 💬 195 • 1d ago • [Cheng Huang’s corner](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
+⬆️ 171 • 💬 198 • 1d ago • [Cheng Huang’s corner](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
 
 ---
 
@@ -289,7 +289,7 @@ President Trump said he postponed today's signing of an executive order on artif
 
 📺 New York Post
 
-👁️ 875 • 👍 34 • 💬 13 • ⏱️ 2:38 • 1h ago
+👁️ 875 • 👍 34 • 💬 13 • ⏱️ 2:38 • 3h ago
 
 ---
 
@@ -309,7 +309,7 @@ O'Leary Ventures Chairman Kevin O'Leary joins 'Varney & Co.' to weigh in on Nvid
 
 📺 Fox Business
 
-👁️ 3K • 👍 96 • 💬 38 • ⏱️ 4:21 • 4h ago
+👁️ 3K • 👍 96 • 💬 38 • ⏱️ 4:21 • 5h ago
 
 ---
 
@@ -349,7 +349,7 @@ Make AI Videos with Higgsfield https://youricreates.com/aivideo In this video, I
 
 📺 Youri van Hofwegen
 
-👁️ 8K • 💬 1 • ⏱️ 11:46 • 5h ago
+👁️ 8K • 💬 1 • ⏱️ 11:46 • 6h ago
 
 ---
 
@@ -379,7 +379,7 @@ Apple's new AI home robots are being described as a major step toward bringing a
 
 📺 Carros Show
 
-👁️ 5K • 👍 188 • 💬 30 • ⏱️ 23:14 • 22h ago
+👁️ 5K • 👍 188 • 💬 30 • ⏱️ 23:14 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ HRM-Text-1B is a 1B-parameter language model based on the Hierarchical Reasoning
 
 `text-generation` `1.2B`
 
-⬇️ 58,922 • ❤️ 211 • 14h ago
+⬇️ 58,922 • ❤️ 211 • 15h ago
 
 ---
 
@@ -662,7 +662,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.5k • 🔱 465 • 9h ago
+⭐ 4.5k • 🔱 465 • 10h ago
 
 ---
 
@@ -682,7 +682,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.5k • 🔱 171 • 9h ago
+⭐ 2.5k • 🔱 171 • 10h ago
 
 ---
 
@@ -730,7 +730,7 @@ AI coding jargon, explained in plain English.
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 1.7k • 🔱 390 • 15h ago
+⭐ 1.7k • 🔱 390 • 17h ago
 
 ---
 
@@ -740,7 +740,7 @@ ClawSweeper scans all issues and PRs and suggest what we can close, and why. It 
 
 `JavaScript` `ai` `bot` `openclaw` `review`
 
-⭐ 1.7k • 🔱 218 • 1m ago
+⭐ 1.7k • 🔱 218 • 1h ago
 
 ---
 
