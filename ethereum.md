@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-21T15:56:12.868853+00:00'
+updated: '2026-05-21T18:01:11.600945+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 21, 2026 at 15:56 UTC  
+**Last Updated:** May 21, 2026 at 18:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,145.11
+### $2,129.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -4.1%  
-**30d:** -10.2%  
-**90d:** +8.1%  
-**1y:** -19.9%  
+**24h:** +0.4%  
+**7d:** -3.5%  
+**30d:** -9.6%  
+**90d:** +8.8%  
+**1y:** -19.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $257.36B
+**Market Cap:** $259.46B
 Rank #2
 
 **Circulating Supply:** 120,685,618 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.9%
+-56.6%
 
 **All-Time Low:** $0.43
-+492013.9%
++496134.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
 
-7m ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
 
-21h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente. Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica
 
-2h ago
+4h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/RlOUkKDoRoQ) • 23h ago
+🔗 [youtu.be](https://youtu.be/RlOUkKDoRoQ) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 The privacy coin has some very ambitious upgrades planned.
 
-The Motley Fool • 5h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -168,19 +168,11 @@ Fortune • 2d ago
 
 ---
 
-**[US sanctions Sinaloa cartel-linked Ethereum addresses](https://www.tradingview.com/news/cointelegraph:ecf73bfbb094b:0-us-sanctions-sinaloa-cartel-linked-ethereum-addresses/)**
+**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
-The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) sanctioned six Ethereum addresses tied to a Sinaloa Cartel-linked money laundering network that allegedly converted drug proceeds into cryptocurrency.OFAC added the addresses to its Specially Designated Nationals list (a US…
+What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-TradingView • 2h ago
-
----
-
-**[Current price of Ethereum for May 21, 2026](https://fortune.com/article/price-of-ethereum-05-21-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -200,31 +192,39 @@ The Block • 1d ago
 
 ---
 
+**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter | News](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
+
+Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
+
+The Harvard Crimson • 2d ago
+
+---
+
 **[JPMorgan (JPM) Just Made Ethereum’s Long-Term Case Harder to Ignore](https://www.tipranks.com/news/jpmorgan-jpm-just-made-ethereums-long-term-case-harder-to-ignore)**
 
 TipRanks • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-tom-lee-175358135.html)**
+**[Crypto Today: Bitcoin, Ethereum, XRP test rebound strength as focus shifts to Fed minutes](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-test-rebound-strength-as-focus-shifts-to-fed-minutes-202605201200)**
 
-Ethereum (CRYPTO: ETH) is at a crossroads that could define 2026 for crypto investors. After a brutal early-year slide that dragged ETH below $1,800, the second-largest cryptocurrency has clawed back to hover around $2,110. Wall Street strategist Tom Lee believes that recovery is a season change and not just a bounce. Lee has officially declared ... Ethereum Price Prediction: Tom Lee Says “Crypto Spring” Started, Here’s What ETH Needs to Confirm It
+Bitcoin (BTC) preserves its $77,000 support following the recent drawdown from its May peak around $82,500.
 
-Yahoo Finance • 1d ago
-
----
-
-**[‘What's happening at the EF?’ Ethereum community looking for answers after high-profile departures](https://www.coindesk.com/tech/2026/05/19/what-s-happening-at-the-ef-ethereum-community-looking-for-answers-after-high-profile-departures)**
-
-CoinDesk • 2d ago
+FXStreet • 1d ago
 
 ---
 
-**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter | News](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
+**[Ethereum price risks drop to $1,800 as ascending channel breaks By Crypto.news](https://www.investing.com/news/cryptocurrency-news/ethereum-price-risks-drop-to-1800-as-ascending-channel-breaks-4703878)**
 
-Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
+Investing.com • 5h ago
 
-The Harvard Crimson • 2d ago
+---
+
+**[WEEX Report Highlights Ether’s Next Market Test as Ethereum Enters a New Post-ETF Phase](https://markets.businessinsider.com/news/stocks/weex-report-highlights-ether-s-next-market-test-as-ethereum-enters-a-new-post-etf-phase-1036183223)**
+
+SINGAPORE, May  21, 2026  (GLOBE NEWSWIRE) -- WEEX today released a new Ether market report examining how Ethereum’s native asset, ETH, is being t...
+
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 3K • 👍 308 • 💬 89 • ⏱️ 15:00 • 3h ago
+👁️ 4K • 👍 379 • 💬 134 • ⏱️ 15:00 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 2K • 💬 163 • ⏱️ 17:13 • 12h ago
+👁️ 37K • 👍 2K • 💬 169 • ⏱️ 17:13 • 14h ago
 
 ---
 
@@ -258,7 +258,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 415 • 💬 37 • ⏱️ 17:05 • 22h ago
+👁️ 11K • 👍 431 • 💬 37 • ⏱️ 17:05 • 1d ago
+
+---
+
+**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 597 • 👍 50 • 💬 8 • ⏱️ 18:45 • 1h ago
 
 ---
 
@@ -268,7 +278,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 21 • 💬 13 • ⏱️ 10:40 • 1d ago
+👁️ 3K • 👍 22 • 💬 14 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -276,17 +286,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 413 • 💬 20 • ⏱️ 2:09 • 14h ago
-
----
-
-**[🍔 Ethereum Maxi SOLD IT ALL !!](https://www.youtube.com/watch?v=31gA9xgCbzU)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 131 • 💬 9 • ⏱️ 11:15 • 12h ago
+👁️ 6K • 👍 444 • 💬 20 • ⏱️ 2:09 • 17h ago
 
 ---
 
@@ -296,7 +296,17 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 📺 Paul Barron Network
 
-👁️ 30K • 👍 1K • 💬 103 • ⏱️ 32:50 • 1d ago
+👁️ 31K • 👍 1K • 💬 105 • ⏱️ 32:50 • 1d ago
+
+---
+
+**[🍔 Ethereum Maxi SOLD IT ALL !!](https://www.youtube.com/watch?v=31gA9xgCbzU)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 136 • 💬 9 • ⏱️ 11:15 • 15h ago
 
 ---
 
@@ -306,7 +316,7 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 
 📺 Alexander Lorenzo
 
-👁️ 33K • 👍 2K • 💬 156 • ⏱️ 2:31 • 2d ago
+👁️ 33K • 👍 2K • 💬 161 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -316,17 +326,7 @@ Go to https://buyraycon.com/CRYPTONUTSHELLOPEN to get 15% off. Thanks to Raycon 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 194 • 💬 33 • ⏱️ 13:32 • 1d ago
-
----
-
-**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
-
-Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 316 • 💬 22 • ⏱️ 10:33 • 1d ago
+👁️ 7K • 👍 194 • 💬 33 • ⏱️ 13:32 • 2d ago
 
 ---
 
