@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-21T21:57:03.862034+00:00'
+updated: '2026-05-21T23:06:09.113556+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 21, 2026 at 21:57 UTC  
+**Last Updated:** May 21, 2026 at 23:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -4.0%  
-**30d:** -10.0%  
-**90d:** +8.2%  
-**1y:** -19.8%  
+**24h:** -0.5%  
+**7d:** -4.1%  
+**30d:** -10.2%  
+**90d:** +8.1%  
+**1y:** -20.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $258.13B
+**Market Cap:** $256.94B
 Rank #2
 
 **Circulating Supply:** 120,685,618 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.8%
+-56.9%
 
 **All-Time Low:** $0.43
-+493794.6%
++491861.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
 
-6h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente. Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica
 
-8h ago
+10h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 2d ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 The privacy coin has some very ambitious upgrades planned.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 4h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -188,7 +188,15 @@ CoinDesk • 4h ago
 
 The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.
 
-The Block • 1d ago
+The Block • 2d ago
+
+---
+
+**[Ethereum Crypto Influencer Game 'Fantasy Top' Shutting Down](https://decrypt.co/368640/ethereum-crypto-influencer-game-fantasy-top-shutting-down)**
+
+Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
+
+Decrypt • 5h ago
 
 ---
 
@@ -204,7 +212,7 @@ The Harvard Crimson • 2d ago
 
 SINGAPORE, May  21, 2026  (GLOBE NEWSWIRE) -- WEEX today released a new Ether market report examining how Ethereum’s native asset, ETH, is being t...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -216,17 +224,9 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Spirals as ETH/BTC Ratio Plunges and Wintermute Declares It the ‘Wrong Asset for This Macro’](https://www.tipranks.com/news/ethereum-spirals-as-eth-btc-ratio-plunges-and-wintermute-declares-it-the-wrong-asset-for-this-macro)**
+**[JPMorgan (JPM) Just Made Ethereum’s Long-Term Case Harder to Ignore](https://www.tipranks.com/news/jpmorgan-jpm-just-made-ethereums-long-term-case-harder-to-ignore)**
 
 TipRanks • 1d ago
-
----
-
-**[Here’s How High The Ethereum Price Would Be if It Matches The Market Cap Of Gold](https://www.tradingview.com/news/newsbtc:fcc1aaf7b094b:0-here-s-how-high-the-ethereum-price-would-be-if-it-matches-the-market-cap-of-gold/)**
-
-A crypto analyst has shared a new report from Etherealize, a leading crypto research firm, which projects how high the Ethereum price could reach if its market capitalization were to match that of gold. The expert believes that, beyond price action, the Ethereum network could also evolve into a glo…
-
-TradingView • 23h ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 401 • 💬 134 • ⏱️ 15:00 • 9h ago
+👁️ 7K • 👍 425 • 💬 137 • ⏱️ 15:00 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 360 • 👍 56 • 💬 23 • ⏱️ 15:44 • 1h ago
+👁️ 3K • 👍 273 • 💬 87 • ⏱️ 15:44 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 174 • ⏱️ 17:13 • 18h ago
+👁️ 43K • 👍 3K • 💬 178 • ⏱️ 17:13 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 100 • 💬 10 • ⏱️ 18:45 • 5h ago
+👁️ 3K • 👍 148 • 💬 15 • ⏱️ 18:45 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 439 • 💬 38 • ⏱️ 17:05 • 1d ago
+👁️ 12K • 👍 445 • 💬 40 • ⏱️ 17:05 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 3K • 👍 23 • 💬 14 • ⏱️ 10:40 • 1d ago
+👁️ 2K • 👍 24 • 💬 14 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 465 • 💬 20 • ⏱️ 2:09 • 20h ago
+👁️ 7K • 👍 480 • 💬 20 • ⏱️ 2:09 • 22h ago
 
 ---
 
@@ -312,16 +312,6 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 ---
 
-**[🍔 Ethereum Maxi SOLD IT ALL !!](https://www.youtube.com/watch?v=31gA9xgCbzU)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 140 • 💬 10 • ⏱️ 11:15 • 18h ago
-
----
-
 **[How $1 Trillion of US Treasury Demand is Quietly Moving Onto Ethereum](https://www.youtube.com/watch?v=lUsE5_1a_1I)**
 
 BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almost nobody caught it. On May 8, Larry Fink filed two ...
@@ -329,6 +319,16 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 📺 Alexander Lorenzo
 
 👁️ 33K • 👍 2K • 💬 99 • ⏱️ 2:31 • 2d ago
+
+---
+
+**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
+
+Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 323 • 💬 23 • ⏱️ 10:33 • 1d ago
 
 ---
 

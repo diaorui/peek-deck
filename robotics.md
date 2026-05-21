@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-21T21:57:03.864872+00:00'
+updated: '2026-05-21T23:06:09.116389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 21, 2026 at 21:57 UTC  
+**Last Updated:** May 21, 2026 at 23:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My color classification robot arm (repurpose tofu frying robot)](https://www.reddit.com/r/robotics/comments/1tjt0e0/my_color_classification_robot_arm_repurpose_tofu/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. For building embodied AI solutions that bridge perception and action. XHand is just the beginning. #PhysicalAI #EmbodiedAI #Robotics #XHand #PNProbotics
 
-2h ago
+3h ago
 
 ---
 
@@ -50,15 +50,7 @@ Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. 
 
 Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg payload) running on a 48V LiFePO4 pack. Whenever the robot hits rough terrain or accelerates suddenly, the transient current draw causes our battery bus to sag hard, dipping down to 35V-36V for a few hundred milliseconds. Our current "industrial-grade" servo drives are losing their minds under this sag. We are hitting under-voltage faults that trigger random emergency stops, massive thermal spikes inside our sealed IP65 wheel hubs as the drives draw more current to compensate, and mushy velocity control right when we need tight torque response. We’ve debated adding a bulky buck-boost regulator just to keep the drive logic stable, but it kills our payload-to-weight ratio. For those building battery-powered platforms that survive high-torque transients, are you over-specifying the battery pack to stop the sag, or switching to drives with ultra-wide input voltage ranges? Also, how do you handle the thermal overhead in a sealed housing? Do GaN-based or ultra-high-efficiency drives actually solve the heat issue at the source? Trying to avoid a massive chassis redesign just to fit a bulkier cooling system. Any advice?
 
-1h ago
-
----
-
-**[Can someone help me with my motors not powering when on the ground VS raised?](https://www.reddit.com/r/robotics/comments/1tjymn0/can_someone_help_me_with_my_motors_not_powering/)**
-
-I need help figuring out why my robot/cart drives fine with the wheels off the ground, but barely moves or stops completely once it’s on the ground under load.... Setup is 12V battery BTS7960 motor driver ESP32 Two DC drive motors wired in parallel Large steering servo 20A fuse 12V→5V buck converter powering ESP32 + servo + BTS7960 logic Symptoms Motors spin normally when lifted off the ground Under load, motors struggle badly or stop Complete wiring: Power chain: Battery (+) → 20A inline fuse → main switch → red bus bar Battery (−) → black bus bar Red bus bar: → BTS7960 B+ screw terminal → 12V→5V buck input (+) Black bus bar: → BTS7960 B− screw terminal → 12V→5V buck input (−) Buck output (+): → ESP32 VIN → BTS7960 VCC pin → Servo red wire (with 1000µF cap across servo power) Buck output (−): → ESP32 GND → BTS7960 GND pin → Servo brown/black wire ESP32 signals: D25 → BTS7960 RPWM D26 → BTS7960 LPWM D27 → BTS7960 R_EN and L_EN tied together D18 → Servo signal Motor outputs: BTS7960 M+ → both drive motors (+) in parallel BTS7960 M− → both drive motors (−) in parallel Servo capacitor: 1000µF electrolytic across servo power near servo plug Long leg → +5V Stripe → GND
-
-25m ago
+3h ago
 
 ---
 
@@ -66,7 +58,7 @@ I need help figuring out why my robot/cart drives fine with the wheels off the g
 
 For those of you running BLDC motors — what controller are you using and what frustrates you most about it? I’m trying to build something and want to understand your needs. What is the unreliable part of it?
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +66,7 @@ For those of you running BLDC motors — what controller are you using and what 
 
 Hello, I'm working on several different ground robot designs, and I've sort of gotten stuck on the issue of suspension. Specifically, how does one determine how strong a suspension system needs to be for a given application? How do you model the forces acting on the drivetrain that need to be counteracted by the suspension? I've researched many types of suspension systems for various types of drivetrains, but while they make sense conceptually, I'm still trying to figure out the numbers to use to reduce it to a standard solid mechanics problem. Thank you for your assistance and any resources.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +80,7 @@ Hello, I'm working on several different ground robot designs, and I've sort of g
 
 Hey r/robotics, Like many in the open-source community, we’ve been frustrated by the massive hardware premiums required to get into embodied AI research. Industrial AMRs and collaborative setups easily cross the $50k mark. We wanted to change that, so we co-developed Mobile OpenArm X1 alongside OpenArm. It is a fully transparent, modular development platform engineered specifically for low-level control, simulation, and data collection. We managed to scale the hardware cost down significantly. For context, the base Education Edition features a LiDAR-guided autonomous mobile robot paired with a 16-DoF arm/gripper setup, hitting a hardware cost of $9,000. Core Specs & Tech Stack: Mobility & Kinematics: 4WD omnidirectional AMR base supporting 360° spatial turning and continuous 360° waist rotation. Sensing: Integrated LiDAR tracking and odometry for global localization, centimeter-level positioning, and dynamic obstacle avoidance. AI / Model Training: Native spatial-action data fusion (LiDAR point clouds + joint states) optimized for training Vision-Language-Action (VLA) models. Software Ecosystem: Out-of-the-box support for Hugging Face LeRobot, ACT, and Diffusion Policy, alongside simulation integration for Isaac Gym and MuJoCo. Transparency: Complete access to low-level driver source code and unified APIs. Our goal is to build an open foundation so developers can iterate faster without proprietary walls. The platform is currently up for pre-order, and the entire stack is decoupled and modular. We'd love to hear your thoughts on the hardware layout. Are there specific sensor payload configurations or simulation environments you’d like to see natively supported out of the box? Full disclosure: I am part of the core team building NVatom. Mobile OpenArm
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +96,15 @@ Wonder how many a human operator would handle in the same time? A good worker ca
 
 Most of us will be using the Jetson Orin Nano inside our robots running on ROS. I've tried to test its practical applicability for robotics and edge applications (including tool usage, image labelling and audio transcription) I tested the tool usage through the ROS-MCP server. The LLM was able to publish to ROS topics to complete the intended goal. I also made it transcribe a 6 minute audio file from one of my old videos and it performed amazingly in that as well. What's more surprising is that it's just a 2.3 billion effective reasoning model, runs locally on a 8GB device and provides impressive 15-17 tokens/sec. Would love to know your thoughts on this? Has anyone here tried using gemma 4 on their jetson Nano? If yes, what did you do and how was your experience?
 
-🔗 [youtu.be](https://youtu.be/c2xlE4OtBKE) • 7h ago
+🔗 [youtu.be](https://youtu.be/c2xlE4OtBKE) • 8h ago
+
+---
+
+**[Autonomous Drone Navigation Project — Challenges & Engineering Notes](https://www.reddit.com/r/robotics/comments/1tj7zbb/autonomous_drone_navigation_project_challenges/)**
+
+Project Goal We are developing an autonomous drone system capable of landing on a moving platform across six different simulated environments: CITY, MOUNTAIN, WAREHOUSE, FOREST, VILLAGE, and OPEN. The drone operates fully autonomously using onboard perception, navigation, and control logic under strict timing constraints and noisy sensor conditions. The objective is to achieve highly reliable navigation and precision landing performance across all environments while maintaining stability and generalization. Challenge 1: False Positive Platform Detection The drone uses a depth-camera combined with an ONNX-based neural network for visual platform detection. One of the biggest issues is false positives: the detector sometimes classifies rooftops, flat terrain, or building surfaces as valid landing platforms. When this happens, the navigation stack immediately redirects toward an incorrect target, often leading to collision or mission failure. Approaches Tested Increasing confidence thresholds (0.40 → 0.55) Reduced false positives but also blocked legitimate detections GPS proximity gating Helped slightly but failed because GPS measurements contain significant positional noise XY spatial filtering Reduced extreme outliers but still allowed plausible false detections Z-plausibility constraints Rejected underground or unrealistic altitude predictions Core Problem Both the GPS estimate and neural network predictions contain noise and uncertainty. A filter strict enough to eliminate false positives also suppresses valid detections, while a permissive filter allows incorrect target acquisition. The unresolved challenge is determining how to reliably distinguish true targets from visually similar structures when confidence, position, and altitude all appear plausible. Challenge 2: Transition Instability During Navigation Entry The simulator terminates episodes when drone tilt exceeds 60°. In several scenarios, the drone crashes roughly 2 seconds after launch, specifically during the transition from vertical takeoff into horizontal navigation. Root Cause The velocity controller receives an abrupt command transition: [0, 0, 0.7] → [2.37, 1.44, 1.14] This sudden directional acceleration causes transient PID overshoot, resulting in excessive tilt. Approaches Tested Global speed caps Horizontal/vertical ratio limits Mandatory cruise states before navigation Minimum cruise duration constraints Progressive speed ramps Core Problem Scenarios that require immediate navigation need aggressive early movement, while unstable seeds require smoother transitions. Any delay introduced to stabilize one class of scenarios negatively impacts time-critical cases. Challenge 3: Altitude Estimation in Mountain Environments In mountain environments, the moving platform operates at significantly higher altitude, while GPS altitude measurements remain noisy and unreliable. The estimated platform height converges gradually through EMA smoothing, causing the drone to initially target incorrect altitudes during approach. Effect The drone may spend critical early navigation time flying below the platform, resulting in missed intercept windows or timing out before successful landing. Approaches Tested Altitude hold strategies Fixed cruise-height logic Natural EMA convergence Core Problem Aggressive altitude correction destabilizes perception and navigation, while gradual convergence delays interception too long for the mission horizon. Challenge 4: Benchmark vs Real Evaluation Mismatch The local simulator does not perfectly replicate all deployment environments. Several environments must currently be approximated, meaning local benchmark scores do not consistently reflect real-world evaluation performance. Effect Systems that perform well locally may underperform under the full evaluation distribution due to differences in environmental dynamics and challenge composition. Challenge 5: Regression Cycles The most difficult engineering challenge so far has been regression behavior: Fixing one scenario frequently breaks another. Examples include: Stabilizing tilt transitions while reducing navigation speed too much Improving false-positive filtering while blocking legitimate detections Increasing safety margins while destroying approach efficiency This indicates the system is becoming overly reactive to local heuristics rather than maintaining globally stable trajectory behavior. Current Engineering Insight The emerging conclusion is that the primary bottleneck is no longer perception quality or basic navigation capability, but control-state stability. High-performing systems appear to rely heavily on temporal consistency, smooth behavioral transitions, damping mechanisms, hysteresis, and trajectory commitment rather than frame-by-frame reactive decision-making. The next major architectural focus is therefore shifting toward: trajectory stability temporal commitment behavior smooth state transitions predictive interception control-layer stabilization rather than simply adding more heuristics or reward shaping. Current Stack Autonomous flight controller (drone_agent.py) ONNX-based visual perception Depth-camera navigation Physics simulation using pybullet-drones Multi-stage learning pipeline (imitation learning + reinforcement learning) Custom local benchmarking framework This project has evolved from a simple navigation experiment into a full hybrid robotics and learning system combining perception, control theory, reinforcement learning, and trajectory stabilization under noisy real-time conditions.
+
+19h ago
 
 ---
 
@@ -116,29 +116,15 @@ Most of us will be using the Jetson Orin Nano inside our robots running on ROS. 
 
 A single breakthrough AI moment in robotics may not be the answer
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[China unveils first humanoid robot for household chores, ready as early as 2027](https://www.scmp.com/tech/article/3354371/commercial-humanoid-robots-china-may-soon-do-laundry-make-beds-care-elders)**
+**[DARPA`s robotic spacecraft to demonstrate in-space MRO capabilities](https://interestingengineering.com/ai-robotics/darpas-orbital-robotic-servicing-satellite-set-for-2026-launch)**
 
-South China Morning Post • 12h ago
+SpaceLogistics is the first and only company to perform on-orbit servicing (MEV-1 in 2020 and MEV-2 in 2021) for commercial GEO satellite
 
----
-
-**[Figure AI had one of its robots race an intern to sort packages. See who lost.](https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5)**
-
-Figure AI's intern outperformed a humanoid robot in a package sorting contest, highlighting the challenges in robotics automation.
-
-Business Insider • 2d ago
-
----
-
-**[Hyundai Plans 25,000 ‘Atlas’ Humanoid Robots for Factories by 2028](https://www.eweek.com/news/hyundai-atlas-humanoid-robots-factories/)**
-
-Hyundai plans to deploy 25,000 Atlas humanoid robots in its factories as Boston Dynamics scales production and robot training.
-
-eWeek • 6h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -147,6 +133,14 @@ eWeek • 6h ago
 In a CNBC interview, Jeff Bezos offered the most detailed public description yet of Project Prometheus, calling the secretive startup an "artificial general engineer" building next-generation design tools for physical objects.
 
 GeekWire • 1d ago
+
+---
+
+**[Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out](https://finance.yahoo.com/news/quantum-computing-robotics-arriving-faster-171144893.html)**
+
+Intuitive Surgical’s da Vinci 5 surgical platform, which began shipping in earnest on April 1, 2026, runs on 10,000 times the computing power of the da Vinci Xi and was co-engineered with NVIDIA’s Isaac platform. That is a working hospital robot, on the floor, today, that needed an AI compute stack nobody had five years ... Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -160,15 +154,7 @@ Cornell Chronicle • 1d ago
 
 **[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://www.reuters.com/world/asia-pacific/kawasaki-heavy-nvidia-plan-silicon-valley-robotics-center-nikkei-reports-2026-05-21/)**
 
-Reuters • 5h ago
-
----
-
-**[Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition](https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/)**
-
-NASA connected directly with the future workforce at the event, engaging more than 51,000 students, parents, and mentors through interactive exhibits and
-
-NASA (.gov) • 12h ago
+Reuters • 6h ago
 
 ---
 
@@ -176,15 +162,29 @@ NASA (.gov) • 12h ago
 
 Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, announced today that Gecko Robotics, a leader in...
 
-Business Wire • 11h ago
+Business Wire • 13h ago
 
 ---
 
-**[Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out](https://247wallst.com/investing/2026/05/21/quantum-computing-and-robotics-are-arriving-faster-than-most-investors-realize-and-after-years-of-covering-this-space-these-3-etfs-stand-out/)**
+**[Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition](https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/)**
 
-Surgical and humanoid robots are now a reality, not science-fiction, and quantum computing is pushing the envelope further, so ETFs in the space are in for a wild ride.
+NASA connected directly with the future workforce at the event, engaging more than 51,000 students, parents, and mentors through interactive exhibits and
 
-24/7 Wall St. • 4h ago
+NASA (.gov) • 14h ago
+
+---
+
+**[China unveils first humanoid robot for household chores, ready as early as 2027](https://www.scmp.com/tech/article/3354371/commercial-humanoid-robots-china-may-soon-do-laundry-make-beds-care-elders)**
+
+South China Morning Post • 13h ago
+
+---
+
+**[The Internet can’t stop watching Figure AI’s humanoid robots handling packages](https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/)**
+
+Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.
+
+Ars Technica • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ ABC News investigates the rise of humanoid robots manufactured in China and why 
 
 📺 Good Morning America
 
-👁️ 569 • 👍 9 • 💬 1 • ⏱️ 3:22 • 7h ago
+👁️ 739 • 👍 12 • 💬 1 • ⏱️ 3:22 • 8h ago
 
 ---
 
@@ -206,7 +206,7 @@ ABC News investigates the rise of humanoid robots manufactured in China and why 
 
 📺 BotBot Robotics
 
-👁️ 692 • 👍 11 • ⏱️ 0:23 • 3h ago
+👁️ 692 • 👍 11 • ⏱️ 0:23 • 4h ago
 
 ---
 
@@ -216,17 +216,7 @@ Apple's new AI home robots are being described as a major step toward bringing a
 
 📺 Carros Show
 
-👁️ 5K • 👍 188 • 💬 30 • ⏱️ 23:14 • 1d ago
-
----
-
-**[Man vs AI Robot: it’s officially over...](https://www.youtube.com/watch?v=j5MtBTPGJng)**
-
-Man Vs Machine - we're entering the end times of AI deployment - do you want to live in a world of AI powered robots and LLM's ...
-
-📺 Stylosa
-
-👁️ 13K • 👍 357 • 💬 266 • ⏱️ 16:12 • 3d ago
+👁️ 5K • 👍 201 • 💬 30 • ⏱️ 23:14 • 1d ago
 
 ---
 
@@ -236,7 +226,17 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 79K • 👍 2K • 💬 162 • ⏱️ 22:41 • 2d ago
+👁️ 84K • 👍 2K • 💬 164 • ⏱️ 22:41 • 2d ago
+
+---
+
+**[I SPENT EVERYTHING I had in War Robots…](https://www.youtube.com/watch?v=oz3FCRCYBkA)**
+
+War Robots Gameplay: Spending ALL my SILVER for Ultimate Upgrades Here's my New Channel about Raid: ...
+
+📺 Manni-Gaming
+
+👁️ 14K • 👍 811 • 💬 116 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -246,17 +246,7 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 📺 EcoZora
 
-👁️ 4K • 👍 17 • 💬 4 • ⏱️ 0:07 • 11h ago
-
----
-
-**[These New REALISTIC FEMALE ROBOTS Are Crossing the Line – Experts TERRIFIED](https://www.youtube.com/watch?v=OTEu_9KyfPE)**
-
-The robots in this video look real. Move real. Talk real. And that's exactly what's making some of the world's top experts seriously ...
-
-📺 AI Exposed
-
-👁️ 137K • 👍 1K • 💬 73 • ⏱️ 12:25 • 5d ago
+👁️ 4K • 👍 17 • 💬 4 • ⏱️ 0:07 • 12h ago
 
 ---
 
@@ -266,7 +256,7 @@ Humanoid robots spotted walking in Colombo #srilanka #colombo #humanoidrobot #ro
 
 📺 The Walk Around The World
 
-👁️ 1K • 👍 35 • 💬 2 • ⏱️ 0:20 • 5h ago
+👁️ 1K • 👍 36 • 💬 2 • ⏱️ 0:20 • 7h ago
 
 ---
 
@@ -276,17 +266,27 @@ In this project, I built a custom AI-powered robotic arm using the as the main p
 
 📺 D. Creative
 
-👁️ 234 • 👍 15 • 💬 1 • ⏱️ 9:12 • 15h ago
+👁️ 259 • 👍 16 • 💬 1 • ⏱️ 9:12 • 16h ago
 
 ---
 
-**[Inside China’s race to dominate humanoid robotics](https://www.youtube.com/watch?v=xrfHzYHuv6A)**
+**[PEEKING ABOVE BUILDINGS — War Robots 12.1 Overview](https://www.youtube.com/watch?v=s4FtwjBDasI)**
 
-Tom Llamas goes inside a Beijing robot plant as China's race to build autonomous humanoids accelerates, raising new questions ...
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
 
-📺 NBC News
+📺 War Robots [WR]
 
-👁️ 90K • 👍 784 • 💬 273 • ⏱️ 3:00 • 6d ago
+👁️ 34K • 👍 1K • 💬 265 • ⏱️ 3:14 • 1d ago
+
+---
+
+**[These New REALISTIC FEMALE ROBOTS Are Crossing the Line – Experts TERRIFIED](https://www.youtube.com/watch?v=OTEu_9KyfPE)**
+
+The robots in this video look real. Move real. Talk real. And that's exactly what's making some of the world's top experts seriously ...
+
+📺 AI Exposed
+
+👁️ 138K • 👍 1K • 💬 74 • ⏱️ 12:25 • 5d ago
 
 ---
 
