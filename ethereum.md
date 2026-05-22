@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-22T17:52:45.274904+00:00'
+updated: '2026-05-22T19:46:56.625257+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 17:52 UTC  
+**Last Updated:** May 22, 2026 at 19:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,133.50
+### $2,061.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.7%  
-**30d:** -9.0%  
-**90d:** +8.3%  
-**1y:** -15.7%  
+**24h:** -3.4%  
+**7d:** -5.3%  
+**30d:** -11.4%  
+**90d:** +5.5%  
+**1y:** -17.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
@@ -164,21 +164,21 @@ The Block • 15h ago
 
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
-Decrypt • 19h ago
+Decrypt • 21h ago
 
 ---
 
-**[Researcher Proposes $1 Billion Plan to Save Ethereum](https://finance.yahoo.com/markets/crypto/articles/researcher-proposes-1-billion-plan-153000516.html)**
+**[Tokenization Will Reach $4T By 2028 And Ethereum And Solana Will Not Be The Primary Beneficiaries, Standard Chartered Says](https://finance.yahoo.com/markets/crypto/articles/tokenization-reach-4t-2028-ethereum-174607744.html)**
 
-Dankrad Feist proposes a $1B ETH-aligned organization funded by staking revenue to help Ethereum win back ground.
+Tokenized assets are set to balloon to $4 trillion by 2028 and decentralized finance protocols not Ethereum or Solana will be the primary beneficiaries, according to Standard Chartered. Non-stablecoin tokenized assets will reach $2 trillion and stablecoins will also reach...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 7h ago
+Reuters • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ Reuters • 7h ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ ETF Database • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 1d ago
 
 Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 6K • 👍 260 • 💬 116 • ⏱️ 1:11:25 • 7h ago
+👁️ 6K • 👍 260 • 💬 116 • ⏱️ 1:11:25 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 545 • 💬 180 • ⏱️ 15:44 • 21h ago
+👁️ 9K • 👍 545 • 💬 180 • ⏱️ 15:44 • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 243 • 💬 41 • ⏱️ 5:38 • 20h ago
+👁️ 5K • 👍 243 • 💬 41 • ⏱️ 5:38 • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 541 • 💬 60 • ⏱️ 35:01 • 23h ago
+👁️ 8K • 👍 541 • 💬 60 • ⏱️ 35:01 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 112 • 💬 11 • ⏱️ 10:52 • 14h ago
+👁️ 1K • 👍 112 • 💬 11 • ⏱️ 10:52 • 16h ago
 
 ---
 

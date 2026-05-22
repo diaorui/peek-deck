@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-22T17:52:45.268808+00:00'
+updated: '2026-05-22T19:46:56.620150+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 17:52 UTC  
+**Last Updated:** May 22, 2026 at 19:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,948.19
+### $75,760.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.7%  
-**30d:** -1.8%  
-**90d:** +13.6%  
-**1y:** -28.4%  
+**24h:** -2.6%  
+**7d:** -3.1%  
+**30d:** -3.2%  
+**90d:** +12.0%  
+**1y:** -29.4%  
 
 ---
 
@@ -77,25 +77,31 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Happy Bitcoin Pizza Day! 16 years ago today, a man named Laszlo spent 10,000 BTC on 2 large pizzas](https://www.reddit.com/r/Bitcoin/comments/1tkb2f4/happy_bitcoin_pizza_day_16_years_ago_today_a_man/)**
-
-10h ago
-
----
-
 **[Stanford cryptographer Dan Boneh: “It's insane to say that Bitcoin will not solve the quantum problem... of course Bitcoin will survive it and of course Bitcoin will solve it.”](https://www.reddit.com/r/Bitcoin/comments/1tknunx/stanford_cryptographer_dan_boneh_its_insane_to/)**
 
 Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://piped.video/watch?v=F-HG87VJj_k https://youtu.be/F-HG87VJj_k
 
-1h ago
+3h ago
 
 ---
 
-**[I chose Bitcoin as a big chunk of my portfolio because of a often overlooked risk](https://www.reddit.com/r/Bitcoin/comments/1tkhvog/i_chose_bitcoin_as_a_big_chunk_of_my_portfolio/)**
+**[Happy Bitcoin Pizza Day! 16 years ago today, a man named Laszlo spent 10,000 BTC on 2 large pizzas](https://www.reddit.com/r/Bitcoin/comments/1tkb2f4/happy_bitcoin_pizza_day_16_years_ago_today_a_man/)**
 
-I don't know how its in the US, but in Austria, a brokerage only has to give you 20k if something happens to your entire portfolio (embezzlement or other mistakes). So if you had 100k, 200k, or even more, and your broker messes up and your assets disappear, they are legally only required to pay you 20k, no matter how much your portfolio actually was in value. Since you can't hold stocks/ETFs on your own but are required to use a broker as a normal person, you always have to bear that risk of your 100k or even more networth to getting reduced to 20k. (For everyone saying "Oh but btc also can drop in value so 100k can become 20k too. " Yes, but it can recover and go back to 100k just by waiting and nothing else. If you lose 80k in your stock portfolio, it won't recover from 20k to 100k just by waiting because the stock price didn't make it fall, it was the loss of your assets. You have to save the money again and invest for many years to go back to that level) With Bitcoin, that risk of your asset holder screwing up doesn't exist, so it feels much safer.
+12h ago
 
-5h ago
+---
+
+**[10,000 BTC well spent. Happy Pizza Day everyone!](https://www.reddit.com/r/Bitcoin/comments/1tkmjjh/10000_btc_well_spent_happy_pizza_day_everyone/)**
+
+4h ago
+
+---
+
+**[Bitcoin Pizza painting](https://www.reddit.com/r/Bitcoin/comments/1tksgkr/bitcoin_pizza_painting/)**
+
+Happy pizza day community!
+
+46m ago
 
 ---
 
@@ -103,13 +109,21 @@ I don't know how its in the US, but in Austria, a brokerage only has to give you
 
 10k bitcoin roughly 770 million Papa John's market cap roughly 1.4 billion
 
-1h ago
+3h ago
+
+---
+
+**[I chose Bitcoin as a big chunk of my portfolio because of a often overlooked risk](https://www.reddit.com/r/Bitcoin/comments/1tkhvog/i_chose_bitcoin_as_a_big_chunk_of_my_portfolio/)**
+
+I don't know how its in the US, but in Austria, a brokerage only has to give you 20k if something happens to your entire portfolio (embezzlement or other mistakes). So if you had 100k, 200k, or even more, and your broker messes up and your assets disappear, they are legally only required to pay you 20k, no matter how much your portfolio actually was in value. Since you can't hold stocks/ETFs on your own but are required to use a broker as a normal person, you always have to bear that risk of your 100k or even more networth to getting reduced to 20k. (For everyone saying "Oh but btc also can drop in value so 100k can become 20k too. " Yes, but it can recover and go back to 100k just by waiting and nothing else. If you lose 80k in your stock portfolio, it won't recover from 20k to 100k just by waiting because the stock price didn't make it fall, it was the loss of your assets. You have to save the money again and invest for many years to go back to that level) With Bitcoin, that risk of your asset holder screwing up doesn't exist, so it feels much safer.
+
+7h ago
 
 ---
 
 **[whats really important.](https://www.reddit.com/r/Bitcoin/comments/1tjtww6/whats_really_important/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +131,7 @@ I don't know how its in the US, but in Austria, a brokerage only has to give you
 
 Title. I win if BTC is above $225k in May of 2029. Would you have made this bet?
 
-20h ago
+21h ago
 
 ---
 
@@ -125,27 +139,13 @@ Title. I win if BTC is above $225k in May of 2029. Would you have made this bet?
 
 ARMA seeks to codify President Donald Trump’s March 2025 executive order on a Strategic Bitcoin Reserve into federal law. The bill would require federally held Bitcoin to remain locked for at least 20 years and authorize the Treasury to acquire up to one million BTC over five years. The proposal would apply to Bitcoin already held by the government from criminal forfeiture cases, including Silk Road and Bitfinex seizures. Representative Nick Begich (R-AK) on Thursday introduced in Congress the American Reserve Modernization Act (ARMA), a revised version of the BITCOIN Act that would formally establish a U.S. Strategic Bitcoin Reserve. The legislation was introduced with 16 original co-sponsors. It requires the federal government to hold its Bitcoin (BTC) reserves for at least 20 years and authorize the Treasury Department to acquire up to 200,000 BTC annually over five years, with the goal of building a reserve of one million Bitcoin. The ARMA bill’s introduction follows comments from Patrick Witt, executive director of the President’s Council of Advisors for Digital Assets, who said earlier this month that a “big announcement” tied to the administration’s Bitcoin reserve plans could arrive in the coming weeks. ARMA expands on the framework laid out in President Donald Trump’s March 2025 executive order establishing a Strategic Bitcoin Reserve. Unlike executive orders, federal statutes cannot be easily reversed by future administrations, giving the proposal a more permanent legal foundation. The legislation would apply the 20-year holding requirement to all federally controlled Bitcoin, including assets seized in criminal investigations such as the Silk Road and Bitfinex cases. Estimates suggest the U.S. government currently controls between 198,000 and 328,000 BTC, worth roughly $25 billion at current prices. The bill also proposes a separate digital asset stockpile for federally held cryptocurrencies other than Bitcoin, which would sit alongside the reserve under the Treasury Department. Begich told FOX Business that Bitcoin’s role within the crypto market resembles gold’s dominance in precious metals. “When you look at gold, it is the dominant precious metal reserve,” Begich said. “When you look at Bitcoin, it represents about 60% of all market cap for the entire crypto space.” The Bitcoin Policy Institute endorsed the ARMA proposal, calling it “a major step forward for sound Bitcoin policy in the U.S.” In a post on X, the group said the legislation would help professionalize federal custody practices surrounding Bitcoin holdings. The bill also comes after the Senate Banking Committee last week passed the CLARITY Act with bipartisan support in a 15-9 vote to send the bill to the Senate floor. Retail traders are now watching to see when the full vote will be scheduled, with many hoping it will happen before the summer recess.
 
-🔗 [Stocktwits](https://stocktwits.com/news-articles/markets/cryptocurrency/us-strategic-bitcoin-reserve-bill-reintroduced-in-congress-as-arma/cZXCawDRe8g?.tsrc=rss) • 20h ago
-
----
-
-**[10,000 BTC well spent. Happy Pizza Day everyone!](https://www.reddit.com/r/Bitcoin/comments/1tkmjjh/10000_btc_well_spent_happy_pizza_day_everyone/)**
-
-2h ago
+🔗 [Stocktwits](https://stocktwits.com/news-articles/markets/cryptocurrency/us-strategic-bitcoin-reserve-bill-reintroduced-in-congress-as-arma/cZXCawDRe8g?.tsrc=rss) • 22h ago
 
 ---
 
 **[European regulators issue guidance on peer-to-peer Lightning Network transactions](https://www.reddit.com/r/Bitcoin/comments/1tknga2/european_regulators_issue_guidance_on_peertopeer/)**
 
-🔗 [European Banking Authority](https://www.eba.europa.eu/single-rule-book-qa/qna/view/publicId/2024_7172) • 1h ago
-
----
-
-**[Daily Discussion, May 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1tkcxak/daily_discussion_may_22_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
+🔗 [European Banking Authority](https://www.eba.europa.eu/single-rule-book-qa/qna/view/publicId/2024_7172) • 3h ago
 
 ---
 
@@ -157,47 +157,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
 
-CoinDesk • 1h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Mark Cuban 'Sold' Most Of His Bitcoin And Now Calls Memecoins 'Garbage' — What Changed The Billionaire's Mind On Crypto?](https://finance.yahoo.com/markets/crypto/articles/mark-cuban-sold-most-bitcoin-032832809.html)**
+**[Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham](https://decrypt.co/368752/trump-media-moves-over-200-million-bitcoin-losses-arkham)**
 
-Billionaire investor Mark Cuban revealed on Thursday that he’s sold most of his Bitcoin (CRYPTO: BTC) as it didn’t turn out to be the “hedge” he expected it to be. How Bitcoin Disappointed Cuban Appearing on the Portfolio Players podcast, Cuban said that Bitcoin has “lost the plot” and been “disappointing.” The “Shark Tank” celebrity said he always thought of Bitcoin as a “better version” of gold and the “best alternative” to fiat currency losing its value. “Well, gold just blew up and went to $
+It's unknown whether Trump Media & Technology Group is selling its Bitcoin, though it has amassed sizable losses on its holdings.
 
-Yahoo Finance • 14h ago
-
----
-
-**[Mark Cuban says Bitcoin failed as a hedge](https://www.coindesk.com/video/mark-cuban-says-bitcoin-failed-as-a-hedge)**
-
-Billionaire Mark Cuban sold most of his bitcoin after the asset failed to hold up during the Iran conflict. The longtime crypto advocate had argued for years that bitcoin was "a better version of gold than gold" — but during this latest geopolitical shock, gold rallied and bitcoin dropped. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily." | CoinDesk Videos
-
-CoinDesk • 19m ago
-
----
-
-**[Mark Cuban Sells Most of His Bitcoin, Calls It a Failed Hedge](https://bitcoinmagazine.com/news/mark-cuban-sells-most-of-his-bitcoin)**
-
-Billionaire investor Mark Cuban says he has sold most of his Bitcoin, arguing it has failed to function as a reliable hedge against fiat weakness and geopolitical risk.
-
-Bitcoin Magazine • 21h ago
-
----
-
-**[Doug Liman’s AI-Enabled Crypto Movie ‘Bitcoin’ To Feature Bezos, Zuckerberg, Putin, Eric Trump & More As Characters](https://deadline.com/2026/05/doug-liman-ai-crypto-bitcoin-bezos-zuckerberg-eric-trump-1236918951/)**
-
-Versions of Jeff Bezos, Mark Zuckerberg, Vladimir Putin, and Eric Trump are set to feature in Doug Liman's AI-enabled crypto movie Bitcoin.
-
-Deadline • 59m ago
-
----
-
-**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
-
-Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
-
-AJC.com • 8h ago
+Decrypt • 3h ago
 
 ---
 
@@ -205,7 +173,47 @@ AJC.com • 8h ago
 
 Trump Media & Technology Group (NASDAQ: $DJT) has moved to sell 2,650 Bitcoin (CRYPTO: $BTC) worth $205 million...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Trump Media moves another $205 million in bitcoin as losses on crypto bet swell to $455 million](https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m)**
+
+DJT’s bitcoin strategy remains under pressure as the company sits on hundreds of millions in unrealized crypto losses and widening quarterly deficits.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Billionaire Books First SpaceX Mars Mission](https://www.yahoo.com/news/science/articles/bitcoin-billionaire-books-first-spacex-192347741.html)**
+
+F2Pool co-founder Chun Wang plans a Starship flyby of Mars, before SpaceX attempts to land humans on the surface.
+
+Yahoo • 23m ago
+
+---
+
+**[Bitcoin News: Gruntle Announces $100,000 Milestone Using Web3Payments Infrastructure as Bitcoin Bulls Eye $150,000 Target](https://markets.businessinsider.com/news/stocks/bitcoin-news-gruntle-announces-100-000-milestone-using-web3payments-infrastructure-as-bitcoin-bulls-eye-150-000-target-1036189222)**
+
+LONDON, May  22, 2026  (GLOBE NEWSWIRE) -- Gruntle has officially announced the successful completion of a major $100,000 fundraising milestone, a...
+
+markets.businessinsider.com • 35m ago
+
+---
+
+**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
+
+Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
+
+AJC.com • 10h ago
+
+---
+
+**[Doug Liman’s AI-Enabled Crypto Movie ‘Bitcoin’ To Feature Bezos, Zuckerberg, Putin, Eric Trump & More As Characters](https://deadline.com/2026/05/doug-liman-ai-crypto-bitcoin-bezos-zuckerberg-eric-trump-1236918951/)**
+
+Versions of Jeff Bezos, Mark Zuckerberg, Vladimir Putin, and Eric Trump are set to feature in Doug Liman's AI-enabled crypto movie Bitcoin.
+
+Deadline • 2h ago
 
 ---
 
@@ -213,7 +221,7 @@ Yahoo Finance • 3h ago
 
 The best defence may in fact be defence
 
-Financial Times • 12h ago
+Financial Times • 14h ago
 
 ---
 
@@ -225,14 +233,6 @@ CNBC • 1d ago
 
 ---
 
-**[Elon Musk Reveals $1.4 Billion Bitcoin Price Surprise](https://www.forbes.com/sites/digital-assets/2026/05/22/elon-musk-reveals-14-billion-bitcoin-price-surprise/)**
-
-Elon Musk has revealed his rocket company SpaceX holds far more bitcoin than previously thought...
-
-Forbes • 5h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -240,12 +240,6 @@ Forbes • 5h ago
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
 ⬆️ 346 • 💬 684 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
-
----
-
-**[THORChain exploit hits Bitcoin, Ethereum, and BSC: Hackers steal over $10M](https://news.ycombinator.com/item?id=48152601)**
-
-⬆️ 6 • 💬 1 • 6d ago • [ambcrypto.com](https://ambcrypto.com/thorchain-exploit-hits-bitcoin-ethereum-and-bsc-hackers-steal-over-10-mln/)
 
 ---
 
@@ -261,7 +255,7 @@ A technique for embedding arbitrary data — text, images, code — inside Bitco
 
 August 15, 2010: someone created 184 billion BTC out of thin air. Five hours later, it was fixed. Here is the full story.
 
-⬆️ 4 • 💬 0 • 22h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
+⬆️ 4 • 💬 0 • 1d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
 
 ---
 
@@ -299,7 +293,7 @@ Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
 
 Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cryptocurrency has to a holiday. May 22, 2010 was the first time Bitcoin was used …
 
-⬆️ 2 • 💬 0 • 4h ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
+⬆️ 2 • 💬 0 • 6h ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
 
 ---
 
@@ -307,7 +301,15 @@ Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cry
 
 Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet of kiosks at retail locations that allow customers to purchase bitcoin with cash. Bitcoin Depot announced in a press release that its 9,700 kiosks – primarily located at gas stations and convenience stores&nbsp;– had already been taken offline.The company's bankruptcy filing reports between $10&nbsp;million and $50&nbsp;million in both assets and liabilities. In a recent financial disclosure, the company had reported a 49% year-over-year reduction in revenue and a net loss of $9.5&nbsp;million for the year. The company had also suffered a $3.67&nbsp;million hack in April.Bitcoin Depot has blamed a challenging state-level regulatory environment for its bankruptcy, pointing to a series of regulatory restrictions and outright bans on crypto ATMs, which are a major conduit for crypto scams. An FBI report on Internet crime in 2024 showed 11,000 reports of fraud involving crypto ATMs&nbsp;– a 99% increase from the prior year. Almost $250&nbsp;million was reported lost due to such scams, with a majority of it coming from victims over 60&nbsp;years old. Several states have responded by introducing laws imposing strict compliance requirements or transaction limits on ATM operators, and Indiana and Tennessee have both recently banned the kiosks entirely. Additionally, the company is defending against lawsuits from both Massachusetts and Iowa, which argue that the company uses a misleading pricing structure, knowingly enables crypto scames, and maintains a predatory refund policy.
 
-⬆️ 2 • 💬 0 • 4h ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
+⬆️ 2 • 💬 0 • 6h ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
+
+---
+
+**[Show HN: See how much gold, plutonium and cocaine SpaceX's Bitcoin buys](https://news.ycombinator.com/item?id=48221227)**
+
+What does 1 BTC buy? 17.17 troy oz of gold today. Explore BTC purchasing power across gold, silver, plutonium-238 and more.
+
+⬆️ 2 • 💬 0 • 1d ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
 
 ---
 
@@ -331,7 +333,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 131 • ⏱️ 9:25 • 17h ago
+👁️ 47K • 👍 2K • 💬 131 • ⏱️ 9:25 • 19h ago
 
 ---
 
@@ -341,7 +343,7 @@ The Bitcoin macro story is accelerating as sovereign debt, rising bond yields, s
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 110 • ⏱️ 17:44 • 20h ago
+👁️ 24K • 👍 2K • 💬 110 • ⏱️ 17:44 • 22h ago
 
 ---
 
@@ -351,7 +353,7 @@ Bitcoin #Crypto #Finance Bitcoin is at a crossroads for Mark Cuban as he reveals
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 791 • 💬 277 • ⏱️ 23:36 • 4h ago
+👁️ 11K • 👍 791 • 💬 277 • ⏱️ 23:36 • 6h ago
 
 ---
 
@@ -361,7 +363,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 750 • 💬 88 • ⏱️ 6:19 • 17h ago
+👁️ 12K • 👍 750 • 💬 88 • ⏱️ 6:19 • 19h ago
 
 ---
 
@@ -371,7 +373,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus iTrust Cap
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 355 • 💬 65 • ⏱️ 10:30 • 16h ago
+👁️ 5K • 👍 355 • 💬 65 • ⏱️ 10:30 • 18h ago
 
 ---
 
@@ -411,7 +413,7 @@ Trust the process. The money will be printed.” Arthur Hayes returns to the sho
 
 📺 What Bitcoin Did
 
-👁️ 835 • 👍 75 • 💬 21 • ⏱️ 56:38 • 1h ago
+👁️ 835 • 👍 75 • 💬 21 • ⏱️ 56:38 • 3h ago
 
 ---
 
