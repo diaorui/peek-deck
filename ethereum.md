@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-22T09:26:50.401463+00:00'
+updated: '2026-05-22T12:05:01.392814+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 09:26 UTC  
+**Last Updated:** May 22, 2026 at 12:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -2.6%  
-**30d:** -8.9%  
-**90d:** +8.5%  
-**1y:** -15.6%  
+**24h:** +0.6%  
+**7d:** -2.2%  
+**30d:** -8.5%  
+**90d:** +8.9%  
+**1y:** -15.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.77B
+**Market Cap:** $256.81B
 Rank #2
 
 **Circulating Supply:** 120,685,588 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-57.0%
 
 **All-Time Low:** $0.43
-+489586.6%
++491420.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
 
-17h ago
+20h ago
 
 ---
 
@@ -152,49 +152,33 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 ## Google News: "ethereum"
 
+**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
+
+Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
 
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
-Decrypt • 11h ago
+Decrypt • 13h ago
 
 ---
 
-**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
+**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-The privacy coin has some very ambitious upgrades planned.
-
-The Motley Fool • 22h ago
+Reuters • 1h ago
 
 ---
 
-**[Tokenization Will Reach $4T By 2028 And Ethereum And Solana Will Not Be The Primary Beneficiaries, Standard Chartered Says](https://finance.yahoo.com/markets/crypto/articles/tokenization-reach-4t-2028-ethereum-174607744.html)**
+**[Tom Lee Says Ethereum Will Rise When Oil Falls — And It All Comes Down To Fed Policy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-rise-144414551.html)**
 
-Tokenized assets are set to balloon to $4 trillion by 2028 and decentralized finance protocols not Ethereum or Solana will be the primary beneficiaries, according to Standard Chartered. Non-stablecoin tokenized assets will reach $2 trillion and stablecoins will also reach...
+BMNR chairman Tom Lee pointed to the April FOMC minutes, which warned policymakers may need additional “policy firming” if inflation remains above the Fed’s 2% target.
 
-Yahoo Finance • 15h ago
-
----
-
-**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
-
-Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
-
-The Block • 7h ago
-
----
-
-**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
-
-What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
-
-CoinDesk • 13h ago
-
----
-
-**[Ethereum Optimism Highlights This ETF’s Income Opportunity](https://etfdb.com/monthly-income-content-hub/ethereum-optimism-highlights-nehi-income-opportunity/)**
-
-ETF Database • 2d ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -202,31 +186,45 @@ ETF Database • 2d ago
 
 Ethereum price started a recovery wave above the $2,120 zone. ETH is now consolidating and might rally if there is a clear move above the $2,150 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $2,080 support zone, like Bitcoin. ETH price formed a base and starte…
 
-TradingView • 6h ago
+TradingView • 8h ago
 
 ---
 
-**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter | News](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
+**[Bitcoin vs. Ethereum in 2026: Which Crypto Wins?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-2026-crypto-092823544.html)**
 
-Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
+The debate between Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) never really ends. Both cryptos are down from their 2025 peaks. Bitcoin trades near $77,000 right now, backed heavily by institutional money and clear government rules, while Ethereum hovers around $2,100. Bitcoin works as a digital safe haven, but Ethereum, on the other hand, is ... Bitcoin vs. Ethereum in 2026: Which Crypto Wins?
 
-The Harvard Crimson • 3d ago
-
----
-
-**[Current price of Ethereum for May 21, 2026](https://fortune.com/article/price-of-ethereum-05-21-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin And Ethereum Technical Outlook: Cryptos Pulled Back But Sentiment Rebounds - Opportunity?](https://seekingalpha.com/article/4907837-bitcoin-ethereum-technical-outlook-cryptos-pulled-back-sentiment-rebounds-opportunity)**
+**[Solana Is Faster and Cheaper Than Ethereum -- So Why Isn't It Winning?](https://finance.yahoo.com/markets/crypto/articles/solana-faster-cheaper-ethereum-why-112500044.html)**
 
-Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
+Solana trades at a 71% discount to its all-time high. Here's why.
 
-Seeking Alpha • 5h ago
+Yahoo Finance • 40m ago
+
+---
+
+**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
+
+Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
+
+The Block • 10h ago
+
+---
+
+**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+
+What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
+
+CoinDesk • 16h ago
+
+---
+
+**[Ethereum Optimism Highlights This ETF’s Income Opportunity](https://etfdb.com/monthly-income-content-hub/ethereum-optimism-highlights-nehi-income-opportunity/)**
+
+ETF Database • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 454 • 💬 187 • ⏱️ 15:00 • 21h ago
+👁️ 8K • 👍 466 • 💬 180 • ⏱️ 15:00 • 23h ago
 
 ---
 
@@ -250,7 +248,7 @@ INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 206 • 💬 22 • ⏱️ 5:38 • 12h ago
+👁️ 5K • 👍 218 • 💬 22 • ⏱️ 5:38 • 15h ago
 
 ---
 
@@ -260,17 +258,7 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 482 • 💬 127 • ⏱️ 15:44 • 13h ago
-
----
-
-**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 222 • 💬 24 • ⏱️ 18:45 • 17h ago
+👁️ 8K • 👍 512 • 💬 153 • ⏱️ 15:44 • 16h ago
 
 ---
 
@@ -280,17 +268,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 722 • 👍 88 • 💬 11 • ⏱️ 10:52 • 6h ago
-
----
-
-**[Ethereum price prediction - ETH is making millions of dollars](https://www.youtube.com/watch?v=E7s7aql25KY)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 2K • 👍 25 • 💬 18 • ⏱️ 10:40 • 1d ago
+👁️ 874 • 👍 96 • 💬 11 • ⏱️ 10:52 • 9h ago
 
 ---
 
@@ -300,7 +278,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 476 • 💬 40 • ⏱️ 17:05 • 1d ago
+👁️ 13K • 👍 484 • 💬 40 • ⏱️ 17:05 • 1d ago
+
+---
+
+**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 227 • 💬 26 • ⏱️ 18:45 • 19h ago
+
+---
+
+**[Ethereum price prediction - ETH is making millions of dollars](https://www.youtube.com/watch?v=E7s7aql25KY)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 2K • 👍 25 • 💬 19 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[Gareth Soloway: Bitcoin Bear Flag Warning — BTC $60K Target, ETH &amp; XRP 2026](https://www.youtube.com/watch?v=q8bKtXXEVyE)**
+
+Bitcoin has stalled at the $80–85K resistance and the macro bear flag is still in play. Gareth Soloway breaks down the exact levels ...
+
+📺 Gareth Soloway
+
+👁️ 32K • 👍 2K • 💬 123 • ⏱️ 9:10 • 18h ago
 
 ---
 
@@ -310,7 +318,7 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 188 • ⏱️ 17:13 • 1d ago
+👁️ 48K • 👍 3K • 💬 188 • ⏱️ 17:13 • 1d ago
 
 ---
 
@@ -318,17 +326,7 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 496 • 💬 20 • ⏱️ 2:09 • 1d ago
-
----
-
-**[How $1 Trillion of US Treasury Demand is Quietly Moving Onto Ethereum](https://www.youtube.com/watch?v=lUsE5_1a_1I)**
-
-BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almost nobody caught it. On May 8, Larry Fink filed two ...
-
-📺 Alexander Lorenzo
-
-👁️ 33K • 👍 2K • 💬 99 • ⏱️ 2:31 • 2d ago
+👁️ 8K • 👍 502 • 💬 20 • ⏱️ 2:09 • 1d ago
 
 ---
 
