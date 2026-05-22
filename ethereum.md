@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-22T12:05:01.392814+00:00'
+updated: '2026-05-22T15:32:47.441668+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 12:05 UTC  
+**Last Updated:** May 22, 2026 at 15:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,125.42
+### $2,133.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.2%  
-**30d:** -8.5%  
-**90d:** +8.9%  
-**1y:** -15.3%  
+**24h:** -0.2%  
+**7d:** -2.6%  
+**30d:** -8.9%  
+**90d:** +8.5%  
+**1y:** -15.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.81B
+**Market Cap:** $255.46B
 Rank #2
 
 **Circulating Supply:** 120,685,588 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-57.2%
 
 **All-Time Low:** $0.43
-+491420.4%
++489270.2%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+10h ago
+
+---
+
+**[Ethereal news weekly #24 | Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched](https://www.reddit.com/r/ethereum/comments/1tkixdk/ethereal_news_weekly_24_devcon_8_early_bird/)**
+
+Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 2h ago
 
 ---
 
@@ -86,9 +94,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[the snapshot problem in restaking governance](https://www.reddit.com/r/ethereum/comments/1tjom7a/the_snapshot_problem_in_restaking_governance/)**
 
-i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
+i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time. we built a governance stack for exactly this execution-time drift, OZ Governor extensions plus a security council role that can block execution when on-chain stake diverges from the snapshot, https://s4l.ai/r/iqhdj5sm
 
-20h ago
+23h ago
 
 ---
 
@@ -104,7 +112,7 @@ Been thinking a lot about the Ethereum Foundation security conversations this we
 
 Trump's executive order does not give crypto firms Fed payment access. It gives them something more dangerous to the Fed's position. The Fed now has 120 days to explain itself in writing.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 1d ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 2d ago
 
 ---
 
@@ -112,7 +120,7 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
 
-1d ago
+2d ago
 
 ---
 
@@ -140,23 +148,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[The SEC Is About to Allow Tokenized Stocks on Blockchain](https://www.reddit.com/r/ethereum/comments/1th3gq8/the_sec_is_about_to_allow_tokenized_stocks_on/)**
-
-The SEC is preparing to release its Innovation Exemption allowing tokenized stocks to trade on blockchain this week. Here is why it is bigger than the CLARITY Act and what it means for crypto.
-
-🔗 [DailyCoin Post](https://dailycoinpost.com/sec-innovation-exemption-tokenized-stocks-blockchain/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
+**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
 
-Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
+Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
 
-Yahoo Finance • 1d ago
+The Block • 13h ago
 
 ---
 
@@ -164,53 +164,29 @@ Yahoo Finance • 1d ago
 
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
-Decrypt • 13h ago
+Decrypt • 17h ago
 
 ---
 
-**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
+**[Ethereum Price Drop Coming? Sentiment Flips With ‘Nonstop Bearish’ Narratives](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-drop-coming-sentiment-131715051.html)**
 
-Reuters • 1h ago
-
----
-
-**[Tom Lee Says Ethereum Will Rise When Oil Falls — And It All Comes Down To Fed Policy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-rise-144414551.html)**
-
-BMNR chairman Tom Lee pointed to the April FOMC minutes, which warned policymakers may need additional “policy firming” if inflation remains above the Fed’s 2% target.
-
-Yahoo Finance • 21h ago
-
----
-
-**[Ethereum Price Eyes Breakout Move, Traders Watch Key Resistance Closely](https://www.tradingview.com/news/newsbtc:3edd82a8e094b:0-ethereum-price-eyes-breakout-move-traders-watch-key-resistance-closely/)**
-
-Ethereum price started a recovery wave above the $2,120 zone. ETH is now consolidating and might rally if there is a clear move above the $2,150 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $2,080 support zone, like Bitcoin. ETH price formed a base and starte…
-
-TradingView • 8h ago
-
----
-
-**[Bitcoin vs. Ethereum in 2026: Which Crypto Wins?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-2026-crypto-092823544.html)**
-
-The debate between Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) never really ends. Both cryptos are down from their 2025 peaks. Bitcoin trades near $77,000 right now, backed heavily by institutional money and clear government rules, while Ethereum hovers around $2,100. Bitcoin works as a digital safe haven, but Ethereum, on the other hand, is ... Bitcoin vs. Ethereum in 2026: Which Crypto Wins?
+AKS Ethereum sentiment has deteriorated sharply amid price weakness. Bearish pressure intensified after Bankless founders Ryan Sean Adams and David Hoffman disclosed they had sold ...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Solana Is Faster and Cheaper Than Ethereum -- So Why Isn't It Winning?](https://finance.yahoo.com/markets/crypto/articles/solana-faster-cheaper-ethereum-why-112500044.html)**
+**[Current price of Ethereum for May 22, 2026](https://fortune.com/article/price-of-ethereum-05-22-2026/)**
 
-Solana trades at a 71% discount to its all-time high. Here's why.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 40m ago
+Fortune • 2h ago
 
 ---
 
-**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
+**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
-
-The Block • 10h ago
+Reuters • 5h ago
 
 ---
 
@@ -218,13 +194,37 @@ The Block • 10h ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 16h ago
+CoinDesk • 19h ago
 
 ---
 
 **[Ethereum Optimism Highlights This ETF’s Income Opportunity](https://etfdb.com/monthly-income-content-hub/ethereum-optimism-highlights-nehi-income-opportunity/)**
 
-ETF Database • 2d ago
+ETF Database • 3d ago
+
+---
+
+**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
+
+The privacy coin has some very ambitious upgrades planned.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin And Ethereum Technical Outlook: Cryptos Pulled Back But Sentiment Rebounds - Opportunity?](https://seekingalpha.com/article/4907837-bitcoin-ethereum-technical-outlook-cryptos-pulled-back-sentiment-rebounds-opportunity)**
+
+Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
+
+Seeking Alpha • 11h ago
+
+---
+
+**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter | News](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
+
+Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
+
+The Harvard Crimson • 3d ago
 
 ---
 
@@ -232,23 +232,13 @@ ETF Database • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[What Is Happening With Ethereum! Bankless Dump Ethereum! Crypto Is Changing For The Better Or Worse?](https://www.youtube.com/watch?v=ckd3wKhBeFQ)**
+**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
 
-📺 AllinCrypto
+📺 Bankless
 
-👁️ 8K • 👍 466 • 💬 180 • ⏱️ 15:00 • 23h ago
-
----
-
-**[INSANE CRYPTO IS IM SERIOUS TROUBLE ](https://www.youtube.com/watch?v=zLYcyswq-xQ)**
-
-INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING! This Crypto bear ...
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 218 • 💬 22 • ⏱️ 5:38 • 15h ago
+👁️ 4K • 👍 209 • 💬 95 • ⏱️ 1:11:25 • 5h ago
 
 ---
 
@@ -258,57 +248,27 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 512 • 💬 153 • ⏱️ 15:44 • 16h ago
+👁️ 9K • 👍 533 • 💬 157 • ⏱️ 15:44 • 19h ago
 
 ---
 
-**[🔴 He says Ethereum CRASH to $500](https://www.youtube.com/watch?v=7PNag48xLWE)**
+**[INSANE CRYPTO IS IM SERIOUS TROUBLE ](https://www.youtube.com/watch?v=zLYcyswq-xQ)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING! This Crypto bear ...
 
-📺 🌟yourfriendsommi
+📺 CryptoWendyO
 
-👁️ 874 • 👍 96 • 💬 11 • ⏱️ 10:52 • 9h ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 13K • 👍 484 • 💬 40 • ⏱️ 17:05 • 1d ago
+👁️ 5K • 👍 236 • 💬 40 • ⏱️ 5:38 • 18h ago
 
 ---
 
-**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
+**[What Is Happening With Ethereum! Bankless Dump Ethereum! Crypto Is Changing For The Better Or Worse?](https://www.youtube.com/watch?v=ckd3wKhBeFQ)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 Crypto Nutshell
+📺 AllinCrypto
 
-👁️ 7K • 👍 227 • 💬 26 • ⏱️ 18:45 • 19h ago
-
----
-
-**[Ethereum price prediction - ETH is making millions of dollars](https://www.youtube.com/watch?v=E7s7aql25KY)**
-
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
-
-📺 Crypto With James
-
-👁️ 2K • 👍 25 • 💬 19 • ⏱️ 10:40 • 1d ago
-
----
-
-**[Gareth Soloway: Bitcoin Bear Flag Warning — BTC $60K Target, ETH &amp; XRP 2026](https://www.youtube.com/watch?v=q8bKtXXEVyE)**
-
-Bitcoin has stalled at the $80–85K resistance and the macro bear flag is still in play. Gareth Soloway breaks down the exact levels ...
-
-📺 Gareth Soloway
-
-👁️ 32K • 👍 2K • 💬 123 • ⏱️ 9:10 • 18h ago
+👁️ 8K • 👍 469 • 💬 182 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -318,15 +278,57 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 3K • 💬 188 • ⏱️ 17:13 • 1d ago
+👁️ 49K • 👍 3K • 💬 188 • ⏱️ 17:13 • 1d ago
 
 ---
 
-**[🚨 XRP BITCOIN AND ETHEREUM PUMP ON TRUMPS EXECUTIVE ORDER! #xrp #bitcoin #crypto](https://www.youtube.com/watch?v=DY0fGv17E1A)**
+**[🔴 He says Ethereum CRASH to $500](https://www.youtube.com/watch?v=7PNag48xLWE)**
 
-📺 CryptoWendyO
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-👁️ 8K • 👍 502 • 💬 20 • ⏱️ 2:09 • 1d ago
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 107 • 💬 11 • ⏱️ 10:52 • 12h ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 13K • 👍 493 • 💬 40 • ⏱️ 17:05 • 1d ago
+
+---
+
+**[Ethereum price prediction - ETH is making millions of dollars](https://www.youtube.com/watch?v=E7s7aql25KY)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 2K • 👍 25 • 💬 19 • ⏱️ 10:40 • 2d ago
+
+---
+
+**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 8K • 👍 245 • 💬 30 • ⏱️ 18:45 • 23h ago
+
+---
+
+**[Gareth Soloway: Bitcoin Bear Flag Warning — BTC $60K Target, ETH &amp; XRP 2026](https://www.youtube.com/watch?v=q8bKtXXEVyE)**
+
+Bitcoin has stalled at the $80–85K resistance and the macro bear flag is still in play. Gareth Soloway breaks down the exact levels ...
+
+📺 Gareth Soloway
+
+👁️ 34K • 👍 3K • 💬 117 • ⏱️ 9:10 • 22h ago
 
 ---
 
