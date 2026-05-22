@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-21T23:06:09.113556+00:00'
+updated: '2026-05-22T01:29:04.146612+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 21, 2026 at 23:06 UTC  
+**Last Updated:** May 22, 2026 at 01:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,136.16
+### $2,132.29
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -0.5%  
-**7d:** -4.1%  
-**30d:** -10.2%  
-**90d:** +8.1%  
-**1y:** -20.0%  
+**7d:** -2.2%  
+**30d:** -8.5%  
+**90d:** +8.9%  
+**1y:** -15.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.94B
+**Market Cap:** $256.95B
 Rank #2
 
 **Circulating Supply:** 120,685,618 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.9%
+-57.0%
 
 **All-Time Low:** $0.43
-+491861.5%
++491244.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time.
 
-7h ago
+9h ago
 
 ---
 
@@ -105,14 +105,6 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
 
 1d ago
-
----
-
-**[Una persona que conozco quiere que abra una cuenta electrónica tipo tarjeta visa. Dice que es para cosas de criptos. ¿que no me pasaría nada a mi cuenta bancaria y tarjeta física del banco?.](https://www.reddit.com/r/ethereum/comments/1tjjtnh/una_persona_que_conozco_quiere_que_abra_una/)**
-
-Mi duda es, si hay riesgos que sea una estafa y si quiera robarme algo a mi o como funciona realmente. Qué cosas debería evitar por aquello que sea una estafa a mi cuenta bancaria, que no es la electrónica
-
-10h ago
 
 ---
 
@@ -148,6 +140,14 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 ---
 
+**[Vitalik’s AI + formal verification take feels bigger than another “AI in crypto” headline](https://www.reddit.com/r/ethereum/comments/1tgodmq/vitaliks_ai_formal_verification_take_feels_bigger/)**
+
+Vitalik’s point here is pretty interesting imo. The usual fear is that AI makes bug-hunting so powerful that secure code becomes almost impossible. His counter-argument is basically the opposite: AI could also make formal verification much easier to use, so devs can prove more things before contracts ever touch real money. That matters a lot for Ethereum because smart contract bugs are not normal software bugs. One mistake can drain a bridge, freeze funds, or break a protocol. Article: https://btcusa.com/vitalik-buterin-says-ai-formal-verification-may-rewrite-the-rules-of-secure-software/ I’m curious what people here think: is AI-assisted formal verification actually realistic for everyday Solidity/dev workflows, or will it stay a niche thing for high-value protocols?
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ The SEC is preparing to release its Innovation Exemption allowing tokenized stoc
 
 The privacy coin has some very ambitious upgrades planned.
 
-The Motley Fool • 12h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -168,11 +168,11 @@ Fortune • 3d ago
 
 ---
 
-**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
+**[What Will Ethereum Be Worth By End of 2026?](https://finance.yahoo.com/markets/crypto/articles/ethereum-worth-end-2026-234606598.html)**
 
-Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
+Ethereum (CRYPTO: ETH) is currently trading near the $2,116 level, down from its August 2025 all-time high (ATH) of nearly $4,953. Yet forecasts are pointing in completely opposite directions. Some see the Ethereum price barely moving by December, others see it rallying past $3,800 before the year ends. So who’s right? And more importantly, what ... What Will Ethereum Be Worth By End of 2026?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,13 @@ Yahoo Finance • 1d ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
+
+---
+
+**[Ethereum Optimism Highlights NEHI's Income Opportunity](https://etfdb.com/monthly-income-content-hub/ethereum-optimism-highlights-nehi-income-opportunity/)**
+
+ETF Database • 2d ago
 
 ---
 
@@ -192,11 +198,11 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Crypto Influencer Game 'Fantasy Top' Shutting Down](https://decrypt.co/368640/ethereum-crypto-influencer-game-fantasy-top-shutting-down)**
+**[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
 
-Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
+Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
-Decrypt • 5h ago
+Decrypt • 3h ago
 
 ---
 
@@ -205,14 +211,6 @@ Decrypt • 5h ago
 Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
 
 The Harvard Crimson • 2d ago
-
----
-
-**[WEEX Report Highlights Ether’s Next Market Test as Ethereum Enters a New Post-ETF Phase](https://markets.businessinsider.com/news/stocks/weex-report-highlights-ether-s-next-market-test-as-ethereum-enters-a-new-post-etf-phase-1036183223)**
-
-SINGAPORE, May  21, 2026  (GLOBE NEWSWIRE) -- WEEX today released a new Ether market report examining how Ethereum’s native asset, ETH, is being t...
-
-markets.businessinsider.com • 9h ago
 
 ---
 
@@ -240,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 7K • 👍 425 • 💬 137 • ⏱️ 15:00 • 10h ago
+👁️ 7K • 👍 437 • 💬 164 • ⏱️ 15:00 • 13h ago
 
 ---
 
@@ -250,17 +248,7 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 273 • 💬 87 • ⏱️ 15:44 • 3h ago
-
----
-
-**[Ethereum: Rejected off the Bear Market Resistance Band](https://www.youtube.com/watch?v=mwrgOz852wI)**
-
-Ethereum was recently rejected off its bear market resistance band. What's Next? Read the most recent macro risk memo: ...
-
-📺 Benjamin Cowen
-
-👁️ 43K • 👍 3K • 💬 178 • ⏱️ 17:13 • 19h ago
+👁️ 4K • 👍 355 • 💬 106 • ⏱️ 15:44 • 5h ago
 
 ---
 
@@ -270,17 +258,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 148 • 💬 15 • ⏱️ 18:45 • 6h ago
+👁️ 4K • 👍 174 • 💬 17 • ⏱️ 18:45 • 9h ago
 
 ---
 
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
+**[Ethereum: Rejected off the Bear Market Resistance Band](https://www.youtube.com/watch?v=mwrgOz852wI)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Ethereum was recently rejected off its bear market resistance band. What's Next? Read the most recent macro risk memo: ...
 
-📺 Crypto Nutshell
+📺 Benjamin Cowen
 
-👁️ 12K • 👍 445 • 💬 40 • ⏱️ 17:05 • 1d ago
+👁️ 44K • 👍 3K • 💬 184 • ⏱️ 17:13 • 22h ago
 
 ---
 
@@ -290,7 +278,17 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 Crypto With James
 
-👁️ 2K • 👍 24 • 💬 14 • ⏱️ 10:40 • 1d ago
+👁️ 2K • 👍 24 • 💬 18 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 451 • 💬 40 • ⏱️ 17:05 • 1d ago
 
 ---
 
@@ -298,7 +296,7 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 480 • 💬 20 • ⏱️ 2:09 • 22h ago
+👁️ 8K • 👍 488 • 💬 20 • ⏱️ 2:09 • 1d ago
 
 ---
 
@@ -312,6 +310,16 @@ Galaxy Digital Inc. (Nasdaq: GLXY) and Sharplink Inc. (Nasdaq: SBET) announced a
 
 ---
 
+**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
+
+Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 323 • 💬 25 • ⏱️ 10:33 • 2d ago
+
+---
+
 **[How $1 Trillion of US Treasury Demand is Quietly Moving Onto Ethereum](https://www.youtube.com/watch?v=lUsE5_1a_1I)**
 
 BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almost nobody caught it. On May 8, Larry Fink filed two ...
@@ -319,16 +327,6 @@ BlackRock just quietly moved $7 billion of Treasuries onto Ethereum… and almos
 📺 Alexander Lorenzo
 
 👁️ 33K • 👍 2K • 💬 99 • ⏱️ 2:31 • 2d ago
-
----
-
-**[Ethereum Analysis: Is ETH Headed to $1,000?](https://www.youtube.com/watch?v=u5c3rk4RtC0)**
-
-Ethereum continues to struggle below key resistance while Bitcoin remains the stronger asset. In this Elliott Wave update, we take ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 323 • 💬 23 • ⏱️ 10:33 • 1d ago
 
 ---
 
