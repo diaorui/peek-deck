@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-22T15:32:47.428864+00:00'
+updated: '2026-05-22T17:52:45.259741+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 22, 2026 at 15:32 UTC  
+**Last Updated:** May 22, 2026 at 17:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Summary: AGI has been cancelled due to inflation. AI has become so expensive that even Microsoft can not afford it.
 
-🔗 [thelowdownblog.com](https://www.thelowdownblog.com/2026/05/microsoft-cancels-internal-anthropic.html) • 8h ago
-
----
-
-**[College Graduation Ceremony Erupts In Boos After 'New AI System' Allegedly Misses 'Hundreds' Of Graduates' Names](https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/)**
-
-Well that certainly backfired.
-
-🔗 [Comic Sands](http://comicsands.com/ai-misses-graduate-names) • 20h ago
+🔗 [thelowdownblog.com](https://www.thelowdownblog.com/2026/05/microsoft-cancels-internal-anthropic.html) • 11h ago
 
 ---
 
@@ -57,7 +49,15 @@ Well that certainly backfired.
 
 For those worried about the AI Bubble bursting, it's not happening, at least for now, not until atleast OpenAI and Anthropic are listed (later this year). And if you actually discount Nvidia, and check the PE of AI companies right now OpenAI (35x) and anthropic (13x), these valuations do not really seem unsustainable as of now, and not to mention unlike the DotCom bubble, they have massive data centre infrastructure, so this is all not in the air. AI is here to stay, it's already altering our lives, taking up workspaces and transforming work, there is a massive upfront cost but that does not immediately signal a bubble unfolding. If any bubble bursts, it would not be solely the AI Bubble, it would be the government bonds and the dollar bubble.
 
-8h ago
+10h ago
+
+---
+
+**[College Graduation Ceremony Erupts In Boos After 'New AI System' Allegedly Misses 'Hundreds' Of Graduates' Names](https://www.reddit.com/r/artificial/comments/1tjv204/college_graduation_ceremony_erupts_in_boos_after/)**
+
+Well that certainly backfired.
+
+🔗 [Comic Sands](http://comicsands.com/ai-misses-graduate-names) • 22h ago
 
 ---
 
@@ -65,7 +65,15 @@ For those worried about the AI Bubble bursting, it's not happening, at least for
 
 I had a simple google search turn up the most random useless results so I asked: “Why is google search so bad now?” on google and got a surprisingly honest response from Gemini. Even highlighted the profits part lol
 
-14h ago
+16h ago
+
+---
+
+**[AI Can Provide Constructive Feedback on Your Written Work. You Just Need to Understand a Little Bit of Psychology. Same Exact Thing Applies to Human Feedback](https://www.reddit.com/r/artificial/comments/1tko3tm/ai_can_provide_constructive_feedback_on_your/)**
+
+Good feedback from AI is not that different from receiving feedback from people around you. My brother and I once threw a lot of money into a proof-of-concept film because we were blinded by the encouragement and agreeableness that people around us were expressing. We weren't recognizing that they were just trying to be nice to us and not hurt our feelings. They were active screenwriters and filmmakers just like us and just like us, they would need our help when the time came. That's why all of our feedback was watered down heavily. Only one of our friends told us the truth and you know what we did? We respectively ignored the advice. Film-wise, it turned out great because the team was amazingly talented. But the story fell significantly short of what it could have been, if only we had turned our egos off for a second and insist that people give us their complete, gloves-off opinion. It's the same when engaging with AI, but actually easier to handle since you're just working with your own mental barriers instead of two. Bottom line. You just gotta come into it with the understanding that it will be a yes man. You can do prompting and that can really help if you design it well, but even then, it pales in comparison to a guy like Dov Siemen who is hilariously legendary when it comes to wrecking screenplays and bursting people's bubbles. That's honestly why I don't often ask for it's opinion. Instead, I might ask it to compare a scene to all the other movies that are out there and spot the cliches. If I ask questions with the implicit assumption that whatever I wrote is garbage, it'll riff off of that and assume with me, which causes it to focus less on justifying why my story is so great and more on what could be wrong. It's the same with people. If you simply ask for their input, they'll water it down with praise. You have to specifically instruct people to find the problems and emphasize the truth over hurting your feelings. Do the same with AI and you'll have far less problems with feedback. So, don't ask questions like, "Is this good?" or "Will people understand this?" Ask questions like, "This dialogue is terrible. How can we fix it." or "This scene feels draggy and boring. We need to find what's missing." Come into it with the assumption that your work is poor, even if it isn't. Force it to identify the problems. Otherwise, it'll suck your....Well, you know.
+
+1h ago
 
 ---
 
@@ -73,15 +81,7 @@ I had a simple google search turn up the most random useless results so I asked:
 
 I genuinely think people are underestimating how fast AI training is becoming accessible. A few years ago training a useful model sounded like something only OpenAI, Google, or Meta could do. Now random developers are renting GPUs for a few dollars an hour, fine tuning open models from their bedrooms, building datasets with APIs, and getting surprisingly good results. The biggest shift isn’t even the models themselves, it’s the removal of gatekeeping around experimentation. Once regular people can train specialized reasoning, coding, or teaching models without billion dollar infrastructure, the AI industry changes completely. We’re slowly moving from “only corporations can build intelligence” to “small teams can build focused intelligence better than giant companies in specific niches.”
 
-5h ago
-
----
-
-**[This just happened](https://www.reddit.com/r/artificial/comments/1tk49oe/this_just_happened/)**
-
-Yes, this really happened. During the May 15, 2026 commencement ceremony at Glendale Community College in Arizona, the school used a new AI-powered system to announce graduates’ names and display them on screens. The rollout quickly went sideways: • Names were mispronounced • Wrong names appeared on screens • Some graduates were skipped entirely while crossing the stage The situation became chaotic enough that GCC President Tiffany Hernandez paused the ceremony and told the crowd: “We’re using a new AI system as our reader. So that is a lesson learned for us.” The audience reportedly booed loudly. Initially, officials said skipped graduates would not be allowed to walk again, which intensified the backlash. After a roughly 10-minute pause, the college reversed course and allowed affected students back on stage — this time with a human announcing the names. The incident went viral because it exposed a growing disconnect in AI adoption: • Organizations are rushing AI into real-world workflows • But emotionally significant, low-error-tolerance moments still require strong human oversight • And failures become highly visible very quickly Name pronunciation is also one of the hardest real-world AI problems because of cultural diversity, accents, phonetics, and edge cases. Humans can adapt in real time. Automated systems often cannot. This wasn’t an example of AI being “useless.” It was an example of deploying automation into a high-stakes public setting without sufficient testing, fallback systems, or human redundancy. That distinction matters. The bigger lesson is that AI reliability is now becoming more important than AI novelty. People will tolerate imperfect AI in low-stakes workflows. They are far less forgiving when it disrupts meaningful life events like graduations, weddings, healthcare, finances, or travel.
-
-14h ago
+8h ago
 
 ---
 
@@ -89,15 +89,7 @@ Yes, this really happened. During the May 15, 2026 commencement ceremony at Glen
 
 Two papers dropped this week. Both about AI systems that run experiments autonomously. I keep thinking about what this actually means at scale. We're not talking about AI helping researchers find papers faster or organize data. These are systems that form hypotheses, design experiments, and iterate on findings without waiting for a human to approve each step. The whole loop just runs. And the estimates people are throwing around, something like a hundred to a thousand times faster than current research timelines, sound insane until you realize the bottleneck was always human bandwidth, not compute. The part that gets me is how quiet this landed. Two major papers, barely any mainstream coverage. I work adjacent to biotech and the implications for drug discovery alone are staggering. If even a fraction of that speedup holds in practice, the next five years look nothing like the last fifty. Guess we'll find out soon enough.
 
-12h ago
-
----
-
-**[Could AI eventually become something like a system that expands human understanding for humanity](https://www.reddit.com/r/artificial/comments/1tjzow4/could_ai_eventually_become_something_like_a/)**
-
-Humans have unanswered questions about almost everything the universe consciousness, dark matter, the origin of life, mathematical equations, reality itself etc. Do you think future AI could eventually solve mysteries he has never could, possibly even explaining things beyond normal comprehension? Or will it be limited by human knowledge and understanding?
-
-17h ago
+14h ago
 
 ---
 
@@ -105,15 +97,23 @@ Humans have unanswered questions about almost everything the universe consciousn
 
 You are looking at the exact argument tech skeptics and infrastructure engineers are making right now. While the marketing for AI smart glasses promises a magical, seamless sci-fi world, the physical reality is that **AI glasses are heavily limited by the invisible infrastructure stack underneath them.** If AI glasses fail to become the next smartphone, it won't be because the hardware frames look bad; it will be because our modern networking and cloud structures aren't built to handle them yet. Here is exactly how infrastructure bottlenecks threaten to break the AI glasses dream: ### 1. The Tethering Trap & Cellular Bottlenecks To keep smart glasses lightweight and fashionable, manufacturers cannot pack them with heavy, heat-generating computer processors or massive batteries. Because of this, the glasses are mostly just "dumb" collectors of data—cameras and microphones. The heavy lifting has to happen in the cloud. This creates an immediate infrastructure dependency: * **The Upload Problem:** Standard cellular networks (even 5G) are optimized for *downloading* data (streaming video, browsing). AI glasses flip this dynamic—they require constant, high-bandwidth *uploading* of live video and audio streams so the cloud AI can process your surroundings. * **Network Congestion:** If you are in a crowded stadium, a packed subway station, or a busy downtown area, cellular bandwidth chokes. When your phone drops to one bar, your webpage loads slowly. When AI glasses lose bandwidth, they suffer **contextual blindness**—the AI simply stops responding, freezes, or lags out mid-conversation. ### 2. The Edge Compute & Latency Deficit For AI glasses to be useful, they have to operate in real time. If you look at a sign in a foreign country, you need the translation instantly, not 4 seconds later. ``` [ Glasses Capture Video ] ──(Cell Tower)──> [ Distant Data Center ] │ (Processing) [ Live Display Updates ] <──(Cell Tower)─── [ Cloud AI Response ] ``` Current cloud infrastructure relies on massive, centralized data centers. Sending raw video data from your glasses, up to a cell tower, across the country to a data center, running it through a Large Language Model, and sending the response back takes too long. Until telecommunications providers build out **Edge AI infrastructure**—placing smaller, powerful AI servers directly inside neighborhood cell towers to cut travel distance—the latency spike will make real-world use feel incredibly clunky. ### 3. The "Crowd DDoS" Server Crash Because AI wearables rely entirely on backend orchestration, they are highly vulnerable to localized server overload. A high-profile example of this happened during a live tech demonstration where multiple users in the same building activated their smart glasses simultaneously. The sudden wave of live video requests accidentally "DDoS'd" (Distributed Denial of Service) the development servers, causing the AI to freeze, hallucinate, and fail on stage. If our backend server infrastructure can't handle a concentrated room of power-users without collapsing, managing millions of people walking through a major city using live visual AI simultaneously is a massive scaling hurdle. ### 4. The Power vs. Thermal Tradeoff Infrastructure limitations extend to material engineering inside the frame. ``` Constant Multimodal Processing = Heavy Battery Drain + Massive Heat ``` If you try to bypass the cloud network by forcing the glasses to do the AI computing locally on the device (on-device inference), the battery dies within an hour, and the arms of the glasses get uncomfortably hot against your face. Until battery density or custom silicon chips can process multimodal AI at 40% lower power consumption, the devices are stuck relying on the fragile cloud network. > **The Takeaway:** The industry is fighting a classic hardware-versus-infrastructure battle. Companies like Meta and Google are successfully designing beautiful frames, but until 5G coverage expands, edge computing matures, and server architecture scales to handle millions of continuous video streams, AI glasses risk remaining a novelty gadget rather than a daily essential. >
 
-13h ago
+15h ago
 
 ---
 
-**[So, what is Yann LeCun's "World Models" and JEPA and is it Really a Replacement for LLMs?](https://www.reddit.com/r/artificial/comments/1tjuats/so_what_is_yann_lecuns_world_models_and_jepa_and/)**
+**[Could AI eventually become something like a system that expands human understanding for humanity](https://www.reddit.com/r/artificial/comments/1tjzow4/could_ai_eventually_become_something_like_a/)**
 
-A bit late to this as the white paper hit arXiv a little less than two months ago, but nobody else here mentioned it so I thought I might. A little background. Yann LeCun is a pioneer of deep learning and convolutional neural networks, LeCun served as Director of AI Research at Meta (formerly Facebook) and Chief AI Scientist, before leaving Meta (under "interesting" circumstances) and becoming Executive Chairman of Advanced Machine Intelligence (AMI Labs) in 2025. He shared the 2018 ACM Turing Award for his foundational contributions to artificial intelligence. The "LeWorldModel," as described in the arXiv paper, doesn't appear to be a "replacement" for LLMs. There's a lot of confusion about that in the AI field. In interviews Yann made it very clear that he believes LLMs still serve a valuable function. It's not a binary choice. Anyways, from what I am seeing, the JEPA model is not optimized for language, but for AI needing visual processing such as robotics, self driving, and industrial controls. JEPA isn't processing language like an LLM. It's processing pixels. Anyways, wondering if anyone else had thoughts here and/or disagree.
+Humans have unanswered questions about almost everything the universe consciousness, dark matter, the origin of life, mathematical equations, reality itself etc. Do you think future AI could eventually solve mysteries he has never could, possibly even explaining things beyond normal comprehension? Or will it be limited by human knowledge and understanding?
 
-20h ago
+19h ago
+
+---
+
+**[This just happened](https://www.reddit.com/r/artificial/comments/1tk49oe/this_just_happened/)**
+
+Yes, this really happened. During the May 15, 2026 commencement ceremony at Glendale Community College in Arizona, the school used a new AI-powered system to announce graduates’ names and display them on screens. The rollout quickly went sideways: • Names were mispronounced • Wrong names appeared on screens • Some graduates were skipped entirely while crossing the stage The situation became chaotic enough that GCC President Tiffany Hernandez paused the ceremony and told the crowd: “We’re using a new AI system as our reader. So that is a lesson learned for us.” The audience reportedly booed loudly. Initially, officials said skipped graduates would not be allowed to walk again, which intensified the backlash. After a roughly 10-minute pause, the college reversed course and allowed affected students back on stage — this time with a human announcing the names. The incident went viral because it exposed a growing disconnect in AI adoption: • Organizations are rushing AI into real-world workflows • But emotionally significant, low-error-tolerance moments still require strong human oversight • And failures become highly visible very quickly Name pronunciation is also one of the hardest real-world AI problems because of cultural diversity, accents, phonetics, and edge cases. Humans can adapt in real time. Automated systems often cannot. This wasn’t an example of AI being “useless.” It was an example of deploying automation into a high-stakes public setting without sufficient testing, fallback systems, or human redundancy. That distinction matters. The bigger lesson is that AI reliability is now becoming more important than AI novelty. People will tolerate imperfect AI in low-stakes workflows. They are far less forgiving when it disrupts meaningful life events like graduations, weddings, healthcare, finances, or travel.
+
+16h ago
 
 ---
 
@@ -121,45 +121,67 @@ A bit late to this as the white paper hit arXiv a little less than two months ag
 
 ## Google News: "ai"
 
+**[Microsoft’s GitHub was positioned to win the AI coding race. Outages got in the way](https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html)**
+
+GitHub's user base has swelled under Microsoft's ownership, but the software repository has fallen behind newer rivals in the world of vibe coding.
+
+CNBC • 5h ago
+
+---
+
 **[The AI Superstars Who Say a ‘Vibe Slop’ Crisis Is Coming](https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394)**
 
-WSJ • 6h ago
+WSJ • 8h ago
+
+---
+
+**[Steve Wozniak applauded for saying graduates have 'AI, Actual Intelligence'](https://www.usatoday.com/videos/tech/2026/05/22/wozniak-applauded-for-saying-graduates-have-ai-actual-intelligence/90217478007/)**
+
+Apple co-founder Steve Wozniak received applause from graduates at a commencement speech for telling them that they have “AI, Actual Intelligence.”
+
+USA Today • 34m ago
+
+---
+
+**[Exclusive: Starbucks scraps AI inventory tool across North America](https://www.reuters.com/business/starbucks-scraps-ai-inventory-tool-across-north-america-2026-05-21/)**
+
+Reuters • 22h ago
+
+---
+
+**[Starbucks scraps AI inventory tool after nine months](https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226)**
+
+The coffee chain is reverting to manual counts nine months after deploying the tool across North American stores
+
+qz.com • 53m ago
+
+---
+
+**[Starbucks is ending its use of AI to count inventory](https://www.nrn.com/quick-service/starbucks-is-ending-its-use-of-ai-to-count-inventory)**
+
+The coffee chain cited a decision to shift to a single process across all its inventory counts amid complaints about accuracy
+
+Nation’s Restaurant News • 1d ago
 
 ---
 
 **[Trump yanked AI order after David Sacks raised industry concerns](https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295)**
 
-Politico • 13h ago
+Politico • 15h ago
 
 ---
 
-**[Opinion | I’m the C.E.O. of Goldman Sachs. The A.I. Job Apocalypse Is Overblown.](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)**
+**[Opinion | Pope Leo Chooses Social Justice Over Pelvic Theology](https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html)**
 
-The New York Times • 32m ago
-
----
-
-**[Opinion | I did something AI never could: Make my calculus teacher cry](https://www.washingtonpost.com/opinions/2026/05/22/america-is-losing-iran-war-ai-is-bad-writer/)**
-
-AI’s ’first draft’ problem, the Iran war and Kash Patel, in readers’ eyes.
-
-The Washington Post • 2m ago
+The New York Times • 12h ago
 
 ---
 
-**[They created AI nudes that got millions of views online. Now they're being charged with crimes](https://fortune.com/2026/05/22/they-created-ai-nudes-that-got-millions-of-views-online-now-theyre-being-charged-with-crimes/)**
+**[AI leaders see mass job loss coming. They want government’s help solving it.](https://www.washingtonpost.com/technology/2026/05/22/elon-musks-ai-utopia-depends-massive-government-checks/)**
 
-The men — who do not appear to be connected — are among the earliest defendants to face charges under the Take It Down Act.
+Elon Musk, Dario Amodei and other tech leaders back public benefits as AI threatens jobs. But critics question whether billionaires would support the massive redistribution needed to fund an AI welfare state.
 
-Fortune • 28m ago
-
----
-
-**[Microsoft’s GitHub was positioned to win the AI coding race. Outages got in the way](https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html)**
-
-GitHub's user base has swelled under Microsoft's ownership, but the software repository has fallen behind newer rivals in the world of vibe coding.
-
-CNBC • 3h ago
+The Washington Post • 52m ago
 
 ---
 
@@ -167,29 +189,7 @@ CNBC • 3h ago
 
 Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.
 
-BBC • 4h ago
-
----
-
-**[Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI — actual intelligence'](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)**
-
-Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
-
-Business Insider • 20h ago
-
----
-
-**[An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)**
-
-An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.
-
-OpenAI • 1d ago
-
----
-
-**[Exclusive: Reflection AI to power Genesis Mission](https://www.axios.com/2026/05/22/reflection-ai-genesis-mission-energy-partnership)**
-
-Axios • 2h ago
+BBC • 7h ago
 
 ---
 
@@ -201,7 +201,7 @@ Axios • 2h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 801 • 💬 705 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 805 • 💬 712 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -209,7 +209,15 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 661 • 💬 401 • 1d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 667 • 💬 406 • 1d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+
+---
+
+**[Steve Wozniak cheered after telling students they have AI – actual intelligence](https://news.ycombinator.com/item?id=48233563)**
+
+Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
+
+⬆️ 505 • 💬 430 • 8h ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -217,7 +225,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks
 
-⬆️ 383 • 💬 251 • 2d ago • [GitHub](https://github.com/wiltodelta/remove-ai-watermarks)
+⬆️ 383 • 💬 252 • 2d ago • [GitHub](https://github.com/wiltodelta/remove-ai-watermarks)
 
 ---
 
@@ -229,25 +237,17 @@ Arizona students reject ex-Google exec's positive words on AI
 
 ---
 
-**[Steve Wozniak cheered after telling students they have AI – actual intelligence](https://news.ycombinator.com/item?id=48233563)**
-
-Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
-
-⬆️ 367 • 💬 343 • 6h ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
-
----
-
 **[Shunning AI is the human choice](https://news.ycombinator.com/item?id=48222366)**
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 361 • 💬 526 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 363 • 💬 529 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 
 ---
 
 **[Mistral AI acquires Emmi AI](https://news.ycombinator.com/item?id=48197995)**
 
-⬆️ 336 • 💬 98 • 2d ago • [emmi.ai](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
+⬆️ 337 • 💬 98 • 2d ago • [emmi.ai](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 
 ---
 
@@ -255,7 +255,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.
 
-⬆️ 332 • 💬 211 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
+⬆️ 334 • 💬 211 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
 
 ---
 
@@ -263,7 +263,7 @@ A BBC investigation revealed a simple way to get AI chatbots to spit out misinfo
 
 OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.
 
-⬆️ 331 • 💬 180 • 2d ago • [OpenAI](https://openai.com/index/advancing-content-provenance/)
+⬆️ 332 • 💬 180 • 2d ago • [OpenAI](https://openai.com/index/advancing-content-provenance/)
 
 ---
 
@@ -271,7 +271,7 @@ OpenAI advances AI content provenance with Content Credentials, SynthID, and a v
 
 In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
 
-⬆️ 255 • 💬 188 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+⬆️ 256 • 💬 188 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
 
 ---
 
@@ -285,7 +285,7 @@ Anthropic delivered one of the most consequential weeks any AI lab has had yet: 
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 7K • 👍 217 • 💬 20 • ⏱️ 21:56 • 15h ago
+👁️ 8K • 👍 228 • 💬 22 • ⏱️ 21:56 • 17h ago
 
 ---
 
@@ -295,17 +295,17 @@ A recent opinion piece in The New York Times spotlighted the impact of artificia
 
 📺 CBS News
 
-👁️ 80K • 👍 1K • 💬 265 • ⏱️ 4:55 • 17h ago
+👁️ 85K • 👍 1K • 💬 275 • ⏱️ 4:55 • 20h ago
 
 ---
 
-**[How to Use AI Coding Tools Better than 99% of Developers](https://www.youtube.com/watch?v=n2d36gj_wIU)**
+**[The One AI Writing Hack Nobody Talks About.](https://www.youtube.com/watch?v=ltbzgzZZmgI)**
 
-Best AI Coding Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video140 ✓ Claim your ...
+Full Post w/ Prompt Pack: ...
 
-📺 Mikey No Code
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 4K • 💬 7 • ⏱️ 28:19 • 1h ago
+👁️ 5K • 👍 309 • 💬 36 • ⏱️ 21:51 • 3h ago
 
 ---
 
@@ -315,17 +315,17 @@ Just say yes! https://x.com/@atmoio https://x.com/jasonscheer/status/20557484017
 
 📺 Mo Bitar
 
-👁️ 204K • 👍 10K • 💬 2K • ⏱️ 6:42 • 2d ago
+👁️ 206K • 👍 10K • 💬 2K • ⏱️ 6:42 • 2d ago
 
 ---
 
-**[Ex-Google CEO&#39;s BANNED A.I Warning: &quot;You Have NO Idea What&#39;s Coming&quot;](https://www.youtube.com/watch?v=7ToboEmcvLg)**
+**[How to Use AI Coding Tools Better than 99% of Developers](https://www.youtube.com/watch?v=n2d36gj_wIU)**
 
-Eric Schmidt, former CEO of Google, told a Stanford classroom that the next generation of AI data centers will cost $300 billion ...
+Best AI Coding Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video140 ✓ Claim your ...
 
-📺 Neural Nutshell
+📺 Mikey No Code
 
-👁️ 62K • 👍 2K • 💬 263 • ⏱️ 17:34 • 2d ago
+👁️ 8K • 💬 7 • ⏱️ 28:19 • 3h ago
 
 ---
 
@@ -335,17 +335,7 @@ In this vlog, I dive into one of the most unsettling ideas I've explored during 
 
 📺 Asian Dad Energy
 
-👁️ 13K • 👍 733 • 💬 407 • ⏱️ 13:29 • 1d ago
-
----
-
-**[Google just killed the internet with AI, it&#39;s coming for YouTube next...](https://www.youtube.com/watch?v=St47XfAF_nE)**
-
-SOURCES https://x.com/samsheffer/status/2056820022144905380?s=46 ...
-
-📺 Stylosa
-
-👁️ 15K • 👍 891 • 💬 473 • ⏱️ 17:25 • 1d ago
+👁️ 14K • 👍 757 • 💬 425 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -355,7 +345,17 @@ Download the free Gemini guide here: https://clickhubspot.com/99hn Google just i
 
 📺 Skill Leap AI
 
-👁️ 28K • 👍 721 • 💬 35 • ⏱️ 11:14 • 1d ago
+👁️ 29K • 👍 740 • 💬 36 • ⏱️ 11:14 • 1d ago
+
+---
+
+**[Google just killed the internet with AI, it&#39;s coming for YouTube next...](https://www.youtube.com/watch?v=St47XfAF_nE)**
+
+SOURCES https://x.com/samsheffer/status/2056820022144905380?s=46 ...
+
+📺 Stylosa
+
+👁️ 15K • 👍 911 • 💬 481 • ⏱️ 17:25 • 2d ago
 
 ---
 
@@ -365,17 +365,17 @@ M utilizing Claude's new features to scale up our Shopify store. In this video, 
 
 📺 Austin Rabin
 
-👁️ 7K • 👍 501 • 💬 28 • ⏱️ 21:46 • 1d ago
+👁️ 8K • 👍 547 • 💬 32 • ⏱️ 21:46 • 1d ago
 
 ---
 
-**[Trump postpones AI executive order as Newsom issues safeguards](https://www.youtube.com/watch?v=4QjD6Qe_un0)**
+**[Every Way to Make AI Videos, Explained](https://www.youtube.com/watch?v=7E5o0mai_lA)**
 
-We are now learning from new reporting from The New York Times that California Governor Gavin Newsom is working to prepare ...
+Make AI Videos with Higgsfield https://youricreates.com/aivideo In this video, I compare six different AI video workflows inside ...
 
-📺 LiveNOW from FOX
+📺 Youri van Hofwegen
 
-👁️ 51K • 👍 964 • 💬 223 • ⏱️ 14:50 • 14h ago
+👁️ 12K • 💬 7 • ⏱️ 11:46 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 `any-to-any`
 
-⬇️ 1,001 • ❤️ 620 • 2d ago
+⬇️ 1,001 • ❤️ 625 • 56m ago
 
 ---
 
@@ -403,7 +403,7 @@ Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 
 
 `text-to-speech`
 
-⬇️ 37,545 • ❤️ 562 • 4d ago
+⬇️ 37,545 • ❤️ 568 • 4d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 `image-text-to-text` `1.3B`
 
-⬇️ 221,612 • ❤️ 898 • 3d ago
+⬇️ 221,612 • ❤️ 901 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ Hy-MT2-1.8B is a fast, multilingual translation model supporting 33 languages, o
 
 `translation` `2.0B`
 
-⬇️ 564 • ❤️ 262 • 10h ago
+⬇️ 564 • ❤️ 267 • 12h ago
 
 ---
 
@@ -439,7 +439,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,249,582 • ❤️ 1,259 • 14h ago
+⬇️ 1,249,582 • ❤️ 1,262 • 16h ago
 
 ---
 
@@ -451,7 +451,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) optimized for ext
 
 `video-text-to-text` `2.2B`
 
-⬇️ 4,002 • ❤️ 241 • 2d ago
+⬇️ 4,002 • ❤️ 245 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ HRM-Text-1B is a 1B-parameter language model based on the Hierarchical Reasoning
 
 `text-generation` `1.2B`
 
-⬇️ 72,470 • ❤️ 233 • 1d ago
+⬇️ 72,470 • ❤️ 238 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 532,255 • ❤️ 399 • 2d ago
+⬇️ 532,255 • ❤️ 405 • 2d ago
 
 ---
 
@@ -487,17 +487,19 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 `image-text-to-text` `35.5B`
 
-⬇️ 466,060 • ❤️ 325 • 2d ago
+⬇️ 466,060 • ❤️ 328 • 2d ago
 
 ---
 
-**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+**[command-a-plus-05-2026-w4a4](https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4)**
 
-*CircleStone Labs*
+*Cohere Labs*
 
-Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles. It excels at generating illustrations and artistic images, with key capabilities including high-resolution output (up to 1536^2) and compatibility with ComfyUI workflows, making it ideal for digital artists and anime enthusiasts.
+Command A+ is a 25B parameter, multilingual, image-to-text model optimized for agentic tasks and enterprise performance, supporting a 128K context length and featuring a W4A4 quantization for speed and reduced hardware footprint.
 
-⬇️ 602,483 • ❤️ 1,487 • 7d ago
+`image-text-to-text` `125.8B`
+
+⬇️ 2,127 • ❤️ 169 • 3h ago
 
 ---
 
@@ -517,6 +519,19 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 162 • 💬 2 • ⭐ 64,506 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)**
 
 *Fengyi Fu, Mengqi Huang, Shaojin Wu et al. (13 authors)*
@@ -525,7 +540,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Lance is a unified multimodal model that combines understanding, generation, and editing capabilities for images and videos through collaborative multi-task training and a dual-stream architecture.
 
-▲ 69 • 💬 4 • ⭐ 698 • 4d ago
+▲ 69 • 💬 4 • ⭐ 756 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18678) • [💻 code](https://github.com/bytedance/Lance) • [🔗 project](https://lance-project.github.io/)
 
@@ -540,22 +555,9 @@ Lance is a unified multimodal model that combines understanding, generation, and
 
 SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 53 • 💬 2 • ⭐ 7,245 • 7mo ago
+▲ 53 • 💬 2 • ⭐ 7,274 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 162 • 💬 2 • ⭐ 64,420 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -598,32 +600,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://huggingface.co/papers/2605.21572)**
-
-*Ziang Cao, Yinghao Liu, Haitian Li et al. (8 authors)*
-
-PhysX-Omni presents a unified framework for generating simulation-ready 3D assets with physical properties across multiple categories using a novel geometry representation and evaluation benchmarks.
-
-▲ 39 • 💬 1 • ⭐ 58 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.21572) • [💻 code](https://github.com/physx-omni/PhysX-Omni) • [🔗 project](https://physx-omni.github.io)
-
----
-
-**[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](https://huggingface.co/papers/2605.22791)**
-
-*Ali Hatamizadeh, Yejin Choi, Jan Kautz*
-
-🏢 NVIDIA
-
-Gated DeltaNet-2 improves upon existing linear attention models by separating erase and write operations through distinct channel-wise gates, achieving superior performance in long-context language modeling and retrieval tasks.
-
-▲ 11 • 💬 1 • ⭐ 69 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.22791) • [💻 code](https://github.com/NVlabs/GatedDeltaNet-2)
-
----
-
 **[Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation](https://huggingface.co/papers/2605.19833)**
 
 *Zhifei Xie, Kaiyu Pang, Haobin Zhang et al. (7 authors)*
@@ -632,9 +608,33 @@ Gated DeltaNet-2 improves upon existing linear attention models by separating er
 
 Mega-ASR framework improves robustness in real-world speech recognition through compound-data construction and progressive acoustic-to-semantic optimization techniques.
 
-▲ 124 • 💬 2 • ⭐ 184 • 3d ago
+▲ 124 • 💬 2 • ⭐ 267 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.19833) • [💻 code](https://github.com/xzf-thu/Mega-ASR) • [🔗 project](https://xzf-thu.github.io/Mega-ASR/)
+
+---
+
+**[PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://huggingface.co/papers/2605.21572)**
+
+*Ziang Cao, Yinghao Liu, Haitian Li et al. (8 authors)*
+
+PhysX-Omni presents a unified framework for generating simulation-ready 3D assets with physical properties across multiple categories using a novel geometry representation and evaluation benchmarks.
+
+▲ 42 • 💬 1 • ⭐ 58 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.21572) • [💻 code](https://github.com/physx-omni/PhysX-Omni) • [🔗 project](https://physx-omni.github.io)
+
+---
+
+**[L2P: Unlocking Latent Potential for Pixel Generation](https://huggingface.co/papers/2605.12013)**
+
+*Zhennan Chen, Junwei Zhu, Xu Chen et al. (10 authors)*
+
+Latent-to-Pixel transfer paradigm efficiently leverages pre-trained latent diffusion models to create pixel-space models with minimal training overhead and high-resolution generation capabilities.
+
+▲ 30 • 💬 1 • ⭐ 54 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.12013) • [💻 code](https://github.com/TencentYoutuResearch/T2I-L2P) • [🔗 project](https://nju-pcalab.github.io/projects/L2P/)
 
 ---
 
@@ -648,7 +648,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `ai-agent` `claude-code` `codex` `html-deck` `image-generation`
 
-⭐ 11.3k • 🔱 885 • 3d ago
+⭐ 11.3k • 🔱 886 • 3d ago
 
 ---
 
@@ -658,7 +658,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.6k • 🔱 473 • 9h ago
+⭐ 4.6k • 🔱 476 • 11h ago
 
 ---
 
@@ -668,7 +668,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 1.0k • 4d ago
+⭐ 3.4k • 🔱 1.0k • 5d ago
 
 ---
 
@@ -678,7 +678,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 174 • 8h ago
+⭐ 2.6k • 🔱 174 • 11h ago
 
 ---
 
@@ -688,7 +688,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 381 • 13h ago
+⭐ 2.3k • 🔱 382 • 15h ago
 
 ---
 
@@ -706,7 +706,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 1.8k • 🔱 405 • 1d ago
+⭐ 1.9k • 🔱 406 • 1d ago
 
 ---
 
@@ -716,7 +716,7 @@ Portable AI agent orchestration with mechanical protocol enforcement. 186 agents
 
 `Python` `agent-framework` `agent-system` `ai-agents` `claude-code` `cursor-ide`
 
-⭐ 1.8k • 🔱 354 • 29d ago
+⭐ 1.8k • 🔱 355 • 29d ago
 
 ---
 
@@ -736,7 +736,7 @@ ClawSweeper scans all issues and PRs and suggest what we can close, and why. It 
 
 `JavaScript` `ai` `bot` `openclaw` `review`
 
-⭐ 1.7k • 🔱 220 • 2h ago
+⭐ 1.7k • 🔱 220 • 35m ago
 
 ---
 

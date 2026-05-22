@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-22T15:32:47.441668+00:00'
+updated: '2026-05-22T17:52:45.274904+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 15:32 UTC  
+**Last Updated:** May 22, 2026 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** -2.6%  
-**30d:** -8.9%  
-**90d:** +8.5%  
-**1y:** -15.6%  
+**7d:** -2.7%  
+**30d:** -9.0%  
+**90d:** +8.3%  
+**1y:** -15.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.46B
+**Market Cap:** $255.94B
 Rank #2
 
 **Circulating Supply:** 120,685,588 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.2%
+-57.1%
 
 **All-Time Low:** $0.43
-+489270.2%
++489715.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time. we built a governance stack for exactly this execution-time drift, OZ Governor extensions plus a security council role that can block execution when on-chain stake diverges from the snapshot, https://s4l.ai/r/iqhdj5sm
 
-23h ago
+1d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/RlOUkKDoRoQ) • 1d ago
+🔗 [youtu.be](https://youtu.be/RlOUkKDoRoQ) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -164,29 +164,21 @@ The Block • 13h ago
 
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
-Decrypt • 17h ago
+Decrypt • 19h ago
 
 ---
 
-**[Ethereum Price Drop Coming? Sentiment Flips With ‘Nonstop Bearish’ Narratives](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-drop-coming-sentiment-131715051.html)**
+**[Researcher Proposes $1 Billion Plan to Save Ethereum](https://finance.yahoo.com/markets/crypto/articles/researcher-proposes-1-billion-plan-153000516.html)**
 
-AKS Ethereum sentiment has deteriorated sharply amid price weakness. Bearish pressure intensified after Bankless founders Ryan Sean Adams and David Hoffman disclosed they had sold ...
+Dankrad Feist proposes a $1B ETH-aligned organization funded by staking revenue to help Ethereum win back ground.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Current price of Ethereum for May 22, 2026](https://fortune.com/article/price-of-ethereum-05-22-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
-
----
-
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 5h ago
+Reuters • 7h ago
 
 ---
 
@@ -194,13 +186,21 @@ Reuters • 5h ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Ethereum Optimism Highlights This ETF’s Income Opportunity](https://etfdb.com/monthly-income-content-hub/ethereum-optimism-highlights-nehi-income-opportunity/)**
 
 ETF Database • 3d ago
+
+---
+
+**[Current price of Ethereum for May 22, 2026](https://fortune.com/article/price-of-ethereum-05-22-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 1d ago
 
 Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 4K • 👍 209 • 💬 95 • ⏱️ 1:11:25 • 5h ago
+👁️ 6K • 👍 260 • 💬 116 • ⏱️ 1:11:25 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 533 • 💬 157 • ⏱️ 15:44 • 19h ago
+👁️ 9K • 👍 545 • 💬 180 • ⏱️ 15:44 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 236 • 💬 40 • ⏱️ 5:38 • 18h ago
+👁️ 5K • 👍 243 • 💬 41 • ⏱️ 5:38 • 20h ago
 
 ---
 
@@ -268,7 +268,17 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 469 • 💬 182 • ⏱️ 15:00 • 1d ago
+👁️ 8K • 👍 473 • 💬 183 • ⏱️ 15:00 • 1d ago
+
+---
+
+**[🚨 SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN SAVE IT](https://www.youtube.com/watch?v=2TVCAYzNqC0)**
+
+SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN SAVE IT iTrustCapital ...
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 541 • 💬 60 • ⏱️ 35:01 • 23h ago
 
 ---
 
@@ -278,27 +288,17 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 188 • ⏱️ 17:13 • 1d ago
+👁️ 50K • 👍 3K • 💬 191 • ⏱️ 17:13 • 1d ago
 
 ---
 
-**[🔴 He says Ethereum CRASH to $500](https://www.youtube.com/watch?v=7PNag48xLWE)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 107 • 💬 11 • ⏱️ 10:52 • 12h ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
+**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 493 • 💬 40 • ⏱️ 17:05 • 1d ago
+👁️ 8K • 👍 253 • 💬 31 • ⏱️ 18:45 • 1d ago
 
 ---
 
@@ -312,23 +312,23 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 ---
 
-**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
+**[🔴 He says Ethereum CRASH to $500](https://www.youtube.com/watch?v=7PNag48xLWE)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 112 • 💬 11 • ⏱️ 10:52 • 14h ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 245 • 💬 30 • ⏱️ 18:45 • 23h ago
-
----
-
-**[Gareth Soloway: Bitcoin Bear Flag Warning — BTC $60K Target, ETH &amp; XRP 2026](https://www.youtube.com/watch?v=q8bKtXXEVyE)**
-
-Bitcoin has stalled at the $80–85K resistance and the macro bear flag is still in play. Gareth Soloway breaks down the exact levels ...
-
-📺 Gareth Soloway
-
-👁️ 34K • 👍 3K • 💬 117 • ⏱️ 9:10 • 22h ago
+👁️ 13K • 👍 496 • 💬 41 • ⏱️ 17:05 • 2d ago
 
 ---
 

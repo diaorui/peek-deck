@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-22T15:32:47.444449+00:00'
+updated: '2026-05-22T17:52:45.278132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 22, 2026 at 15:32 UTC  
+**Last Updated:** May 22, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,35 @@ Robotics research and industry news
 
 Evaluating some hand grip patterns following the https://www.eng.yale.edu/grablab/pubs/Feix_THMS2016.pdf paper. I didn't do all of them because I'm lazy and some of them are pretty similar. But I'm confident my hand can achieve all of them EXCEPT the disks grips and the inferior pinch since I lack independent intermediate phalanx actuation. I chose some random objects I could find lying around that fit each grip type to see how well the hand could actually hold real household items. Overall, I think it was quite successful, what do you think?
 
-3h ago
+6h ago
 
 ---
 
 **[Custom protocol, sub-40-ms Latency Teleoperation software](https://www.reddit.com/r/robotics/comments/1tkjuag/custom_protocol_sub40ms_latency_teleoperation/)**
 
 Just came across this video of our low latency teleop software (Adamo in case anyone is interested) being used to teleoperate a robot from San Francisco to London. We built it using a custom protocol rather than webrtc so that it is a lot smoother, with less buffer than standard teleop software solutions. Please don't bash me for posting teleop content, I know some of you hate it haha, but it will get us to full autonomy dw!
+
+3h ago
+
+---
+
+**[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
+
+56m ago
+
+---
+
+**[ROS News for the Week of May 18th, 2026](https://www.reddit.com/r/robotics/comments/1tkor8t/ros_news_for_the_week_of_may_18th_2026/)**
+
+ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read the full release notes here, and snag your swag here!  You can read our full release announcement here.  Big thanks to all of our contributors, maintainers, testers, build farmers, OSRA members, and especially our ROS Boss @sloretz, and our infra lead @cottsay.  We’re going to take a long weekend break and get right back to it working on ROS 2 Makoa Mata-Mata! 🏄‍♀️             The ROS events calendar is...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 59m ago
+
+---
+
+**[Building a runtime audit layer for mobile robots as EU AI Act logging / human oversight requirements approach](https://www.reddit.com/r/robotics/comments/1tkniag/building_a_runtime_audit_layer_for_mobile_robots/)**
+
+Hey r/robotics, I’ve been working on an open-source middleware layer called runtime_integrity(formerly ros2_kinematic_guard). The problem I’m focusing on is runtime accountability for mobile robots. A robot can still be receiving valid commands while its physical execution has already diverged. Examples: wheel slip on wet or oily floors localization jumps stale or bursty velocity commands odometry mismatch command stream and physical motion going out of sync runtime_integrity sits between the autonomy stack and the base driver: /cmd_vel ↓ runtime_integrity ↓ /safe_cmd_vel It also watches odometry and emits structured runtime evidence when command and physical execution diverge. Example event: { "status": "RESYNCING", "dominantCause": "WHEEL_SLIP", "residual": 5.39, "guardAction": "BRAKE_AND_RESYNC", "interventionRequired": true, "complianceTags": ["human_oversight", "execution_integrity_audit"] } Why I think this matters now: As EU AI Act logging and human-oversight requirements approach for high-risk AI systems, robot vendors and integrators will need better runtime evidence than “something happened in a rosbag”. This package does not claim to make a robot compliant, and it does not replace safety PLCs, safety scanners, or hardware E-stops. The goal is narrower: planner commanded X robot physically behaved like Y runtime_integrity detected the mismatch a structured event explains why The repo includes a 5-minute ROS 2 demo using a lightweight mock AMR/AGV. No Gazebo, Isaac Sim, or real robot required. GitHub: https://github.com/ZC502/runtime_integrity.git I’d be interested in feedback from anyone working on AMRs/AGVs, safety logging, FMS/HMI systems, or post-incident debugging.
 
 1h ago
 
@@ -52,7 +74,7 @@ Just came across this video of our low latency teleop software (Adamo in case an
 
 The real robot airsoft battles will be integrated with virtual battles seamlessly within the same matchmaking queue. We're using digital FPV equipment for the video link to a receiver pc, and then we send that to players over the internet via a custom UDP streaming protocol that also handles our normal game data. Virtual battles are standard video game servers. If you want to help with testing, we're looking for some people.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 11h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 13h ago
 
 ---
 
@@ -60,21 +82,13 @@ The real robot airsoft battles will be integrated with virtual battles seamlessl
 
 Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. For building embodied AI solutions that bridge perception and action. XHand is just the beginning. #PhysicalAI #EmbodiedAI #Robotics #XHand #PNProbotics
 
-20h ago
+22h ago
 
 ---
 
 **[My color classification robot arm (repurpose tofu frying robot)](https://www.reddit.com/r/robotics/comments/1tjt0e0/my_color_classification_robot_arm_repurpose_tofu/)**
 
-21h ago
-
----
-
-**[Battling severe voltage sag on a 48V AMR under peak torque. How do you stop your servo drives from throttling?](https://www.reddit.com/r/robotics/comments/1tjw9hg/battling_severe_voltage_sag_on_a_48v_amr_under/)**
-
-Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg payload) running on a 48V LiFePO4 pack. Whenever the robot hits rough terrain or accelerates suddenly, the transient current draw causes our battery bus to sag hard, dipping down to 35V-36V for a few hundred milliseconds. Our current "industrial-grade" servo drives are losing their minds under this sag. We are hitting under-voltage faults that trigger random emergency stops, massive thermal spikes inside our sealed IP65 wheel hubs as the drives draw more current to compensate, and mushy velocity control right when we need tight torque response. We’ve debated adding a bulky buck-boost regulator just to keep the drive logic stable, but it kills our payload-to-weight ratio. For those building battery-powered platforms that survive high-torque transients, are you over-specifying the battery pack to stop the sag, or switching to drives with ultra-wide input voltage ranges? Also, how do you handle the thermal overhead in a sealed housing? Do GaN-based or ultra-high-efficiency drives actually solve the heat issue at the source? Trying to avoid a massive chassis redesign just to fit a bulkier cooling system. Any advice?
-
-19h ago
+23h ago
 
 ---
 
@@ -82,29 +96,15 @@ Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg 
 
 Would love feedback on such an eval setup for robotic policies. Currently looking for people who are training policies and who would be interested to try something like this out.
 
-13h ago
+16h ago
 
 ---
 
-**[BLDC motor controller](https://www.reddit.com/r/robotics/comments/1tjqfz1/bldc_motor_controller/)**
+**[Battling severe voltage sag on a 48V AMR under peak torque. How do you stop your servo drives from throttling?](https://www.reddit.com/r/robotics/comments/1tjw9hg/battling_severe_voltage_sag_on_a_48v_amr_under/)**
 
-For those of you running BLDC motors — what controller are you using and what frustrates you most about it? I’m trying to build something and want to understand your needs. What is the unreliable part of it?
+Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg payload) running on a 48V LiFePO4 pack. Whenever the robot hits rough terrain or accelerates suddenly, the transient current draw causes our battery bus to sag hard, dipping down to 35V-36V for a few hundred milliseconds. Our current "industrial-grade" servo drives are losing their minds under this sag. We are hitting under-voltage faults that trigger random emergency stops, massive thermal spikes inside our sealed IP65 wheel hubs as the drives draw more current to compensate, and mushy velocity control right when we need tight torque response. We’ve debated adding a bulky buck-boost regulator just to keep the drive logic stable, but it kills our payload-to-weight ratio. For those building battery-powered platforms that survive high-torque transients, are you over-specifying the battery pack to stop the sag, or switching to drives with ultra-wide input voltage ranges? Also, how do you handle the thermal overhead in a sealed housing? Do GaN-based or ultra-high-efficiency drives actually solve the heat issue at the source? Trying to avoid a massive chassis redesign just to fit a bulkier cooling system. Any advice?
 
-22h ago
-
----
-
-**[Lego quadruped strandbeest first steps🥹](https://www.reddit.com/r/robotics/comments/1tizmz3/lego_quadruped_strandbeest_first_steps/)**
-
-1d ago
-
----
-
-**[How do you determine how strong your suspension needs to be?](https://www.reddit.com/r/robotics/comments/1tjuy6o/how_do_you_determine_how_strong_your_suspension/)**
-
-Hello, I'm working on several different ground robot designs, and I've sort of gotten stuck on the issue of suspension. Specifically, how does one determine how strong a suspension system needs to be for a given application? How do you model the forces acting on the drivetrain that need to be counteracted by the suspension? I've researched many types of suspension systems for various types of drivetrains, but while they make sense conceptually, I'm still trying to figure out the numbers to use to reduce it to a standard solid mechanics problem. Thank you for your assistance and any resources.
-
-20h ago
+21h ago
 
 ---
 
@@ -124,15 +124,7 @@ IEEE Spectrum • 2d ago
 
 SpaceLogistics is the first and only company to perform on-orbit servicing (MEV-1 in 2020 and MEV-2 in 2021) for commercial GEO satellite
 
-Interesting Engineering • 1d ago
-
----
-
-**[‘We’re waiting on robotics for a big paradigm shift’](https://www.pv-tech.org/were-waiting-on-robotics-for-a-big-paradigm-shift/)**
-
-PV Talk: Frank Oudheusden explains how robotics could create a paradigm shift and improvements in PV system optimisation for extreme weather.
-
-PV Tech • 58m ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -140,7 +132,7 @@ PV Tech • 58m ago
 
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
 
-Fox News • 14h ago
+Fox News • 17h ago
 
 ---
 
@@ -162,21 +154,13 @@ WFLA • 1d ago
 
 A Nebraska robotics team just beat 900 teams from 42 countries. Brownell Talbot finished 23-0 to win the VEX world title.
 
-Omaha World-Herald • 4h ago
-
----
-
-**[Jeff Bezos describes his $38B startup Prometheus for the first time: 'Nothing to do with robotics'](https://www.geekwire.com/2026/jeff-bezos-describes-his-38b-startup-prometheus-for-the-first-time-nothing-to-do-with-robotics/)**
-
-In a CNBC interview, Jeff Bezos offered the most detailed public description yet of Project Prometheus, calling the secretive startup an "artificial general engineer" building next-generation design tools for physical objects.
-
-GeekWire • 2d ago
+Omaha World-Herald • 6h ago
 
 ---
 
 **[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://www.reuters.com/world/asia-pacific/kawasaki-heavy-nvidia-plan-silicon-valley-robotics-center-nikkei-reports-2026-05-21/)**
 
-Reuters • 22h ago
+Reuters • 1d ago
 
 ---
 
@@ -184,7 +168,21 @@ Reuters • 22h ago
 
 Are Humanoid Robots the End of Human Work?: Here’s what the people making the robots think
 
-Nautilus | Science • 20h ago
+Nautilus | Science • 22h ago
+
+---
+
+**[China unveils first humanoid robot for household chores, ready as early as 2027](https://www.scmp.com/tech/article/3354371/commercial-humanoid-robots-china-may-soon-do-laundry-make-beds-care-elders)**
+
+South China Morning Post • 1d ago
+
+---
+
+**[Humanoid’s New Deal: Bosch Will Build Its Robots With Schaeffler Parts](https://www.forbes.com/sites/johnkoetsier/2026/05/21/humanoids-new-deal-bosch-will-build-its-robots-with-schaeffler-parts/)**
+
+Vertical integration or partnership: that is the question in humanoid robots. The UK's Humanoid has chosen ... and it just announced a big new partner.
+
+Forbes • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ Robots are getting REALLY sophisticated…so why don't we all have our own perso
 
 📺 NBC News
 
-👁️ 1K • 👍 19 • ⏱️ 2:37 • 18h ago
+👁️ 1K • 👍 19 • ⏱️ 2:37 • 20h ago
 
 ---
 
@@ -208,17 +206,7 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 14K • 👍 371 • 💬 272 • ⏱️ 16:12 • 3d ago
-
----
-
-**[Where Are They Taking These Humanoid Robots? 🤖🇱🇰](https://www.youtube.com/watch?v=t1lTSTeDQI8)**
-
-Humanoid robots being loaded into a bus in Colombo, Sri Lanka #srilanka #colombo #humanoidrobot #robotics.
-
-📺 The Walk Around The World
-
-👁️ 547 • 👍 23 • 💬 2 • ⏱️ 0:34 • 3h ago
+👁️ 14K • 👍 376 • 💬 273 • ⏱️ 16:12 • 4d ago
 
 ---
 
@@ -228,7 +216,47 @@ Apple's new AI home robots are being described as a major step toward bringing a
 
 📺 Carros Show
 
-👁️ 7K • 👍 236 • 💬 37 • ⏱️ 23:14 • 1d ago
+👁️ 7K • 👍 239 • 💬 38 • ⏱️ 23:14 • 1d ago
+
+---
+
+**[Man Buys Plane Ticket For Robot](https://www.youtube.com/watch?v=cJdZIkJmgzk)**
+
+A cute little robot named Stewie caused some big drama. The machine's owner booked it on a Southwest flight, even buckling the ...
+
+📺 Inside Edition
+
+👁️ 36K • 👍 635 • 💬 169 • ⏱️ 1:35 • 3d ago
+
+---
+
+**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
+
+Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
+
+📺 Fin Tek
+
+👁️ 105K • 👍 3K • 💬 137 • ⏱️ 22:41 • 2d ago
+
+---
+
+**[These New REALISTIC FEMALE ROBOTS Are Crossing the Line – Experts TERRIFIED](https://www.youtube.com/watch?v=OTEu_9KyfPE)**
+
+The robots in this video look real. Move real. Talk real. And that's exactly what's making some of the world's top experts seriously ...
+
+📺 AI Exposed
+
+👁️ 143K • 👍 1K • 💬 76 • ⏱️ 12:25 • 6d ago
+
+---
+
+**[Building a Heat Seeking Robotic Rat that Runs into the Nearest Deep Fryer](https://www.youtube.com/watch?v=WQkKfFpqr4w)**
+
+Twitch: https://www.twitch.tv/uwoslab Twitter: https://twitter.com/uwutoowo1 Tiktok: https://www.tiktok.com/@uwos.lab.
+
+📺 Uwos Lab
+
+👁️ 93K • 👍 9K • 💬 164 • ⏱️ 2:05 • 4d ago
 
 ---
 
@@ -242,34 +270,6 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
-**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
-
-Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
-
-📺 Fin Tek
-
-👁️ 102K • 👍 3K • 💬 130 • ⏱️ 22:41 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=0Mn9NtAX8JE)**
-
-📺 Robot Julie 
-
-👁️ 28K • 👍 112 • ⏱️ 0:24 • 2d ago
-
----
-
-**[I SPENT EVERYTHING I had in War Robots…](https://www.youtube.com/watch?v=oz3FCRCYBkA)**
-
-War Robots Gameplay: Spending ALL my SILVER for Ultimate Upgrades Here's my New Channel about Raid: ...
-
-📺 Manni-Gaming
-
-👁️ 16K • 👍 872 • 💬 121 • ⏱️ 13:23 • 2d ago
-
----
-
 **[Do humanoid robots pose national security risk?](https://www.youtube.com/watch?v=sNhskSj2mm0)**
 
 ABC News investigates the rise of humanoid robots manufactured in China and why experts say they pose a risk to U.S. national ...
@@ -280,13 +280,13 @@ ABC News investigates the rise of humanoid robots manufactured in China and why 
 
 ---
 
-**[These New REALISTIC FEMALE ROBOTS Are Crossing the Line – Experts TERRIFIED](https://www.youtube.com/watch?v=OTEu_9KyfPE)**
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
 
-The robots in this video look real. Move real. Talk real. And that's exactly what's making some of the world's top experts seriously ...
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
 
-📺 AI Exposed
+📺 ShortCircuit
 
-👁️ 143K • 👍 1K • 💬 76 • ⏱️ 12:25 • 6d ago
+👁️ 166K • 👍 7K • 💬 866 • ⏱️ 15:32 • 6d ago
 
 ---
 
