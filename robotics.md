@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-22T19:46:56.628076+00:00'
+updated: '2026-05-22T21:11:05.389493+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 22, 2026 at 19:46 UTC  
+**Last Updated:** May 22, 2026 at 21:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
+
+4h ago
+
+---
+
 **[Hand taxonomy tests with my robotic hand & wrist](https://www.reddit.com/r/robotics/comments/1tkgco6/hand_taxonomy_tests_with_my_robotic_hand_wrist/)**
 
 Evaluating some hand grip patterns following the https://www.eng.yale.edu/grablab/pubs/Feix_THMS2016.pdf paper. I didn't do all of them because I'm lazy and some of them are pretty similar. But I'm confident my hand can achieve all of them EXCEPT the disks grips and the inferior pinch since I lack independent intermediate phalanx actuation. I chose some random objects I could find lying around that fit each grip type to see how well the hand could actually hold real household items. Overall, I think it was quite successful, what do you think?
 
-8h ago
-
----
-
-**[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
-
-2h ago
+9h ago
 
 ---
 
@@ -50,7 +50,13 @@ Evaluating some hand grip patterns following the https://www.eng.yale.edu/grabla
 
 Just came across this video of our low latency teleop software (Adamo in case anyone is interested) being used to teleoperate a robot from San Francisco to London. We built it using a custom protocol rather than webrtc so that it is a lot smoother, with less buffer than standard teleop software solutions. Please don't bash me for posting teleop content, I know some of you hate it haha, but it will get us to full autonomy dw!
 
-5h ago
+7h ago
+
+---
+
+**[How to wake up this battery](https://www.reddit.com/r/robotics/comments/1tkvj9a/how_to_wake_up_this_battery/)**
+
+20m ago
 
 ---
 
@@ -58,7 +64,7 @@ Just came across this video of our low latency teleop software (Adamo in case an
 
 ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read the full release notes here, and snag your swag here!  You can read our full release announcement here.  Big thanks to all of our contributors, maintainers, testers, build farmers, OSRA members, and especially our ROS Boss @sloretz, and our infra lead @cottsay.  We’re going to take a long weekend break and get right back to it working on ROS 2 Makoa Mata-Mata! 🏄‍♀️             The ROS events calendar is...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 4h ago
 
 ---
 
@@ -66,7 +72,7 @@ ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read
 
 The real robot airsoft battles will be integrated with virtual battles seamlessly within the same matchmaking queue. We're using digital FPV equipment for the video link to a receiver pc, and then we send that to players over the internet via a custom UDP streaming protocol that also handles our normal game data. Virtual battles are standard video game servers. If you want to help with testing, we're looking for some people.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 17h ago
 
 ---
 
@@ -74,7 +80,7 @@ The real robot airsoft battles will be integrated with virtual battles seamlessl
 
 Hey r/robotics, I’ve been working on an open-source middleware layer called runtime_integrity(formerly ros2_kinematic_guard). The problem I’m focusing on is runtime accountability for mobile robots. A robot can still be receiving valid commands while its physical execution has already diverged. Examples: wheel slip on wet or oily floors localization jumps stale or bursty velocity commands odometry mismatch command stream and physical motion going out of sync runtime_integrity sits between the autonomy stack and the base driver: /cmd_vel ↓ runtime_integrity ↓ /safe_cmd_vel It also watches odometry and emits structured runtime evidence when command and physical execution diverge. Example event: { "status": "RESYNCING", "dominantCause": "WHEEL_SLIP", "residual": 5.39, "guardAction": "BRAKE_AND_RESYNC", "interventionRequired": true, "complianceTags": ["human_oversight", "execution_integrity_audit"] } Why I think this matters now: As EU AI Act logging and human-oversight requirements approach for high-risk AI systems, robot vendors and integrators will need better runtime evidence than “something happened in a rosbag”. This package does not claim to make a robot compliant, and it does not replace safety PLCs, safety scanners, or hardware E-stops. The goal is narrower: planner commanded X robot physically behaved like Y runtime_integrity detected the mismatch a structured event explains why The repo includes a 5-minute ROS 2 demo using a lightweight mock AMR/AGV. No Gazebo, Isaac Sim, or real robot required. GitHub: https://github.com/ZC502/runtime_integrity.git I’d be interested in feedback from anyone working on AMRs/AGVs, safety logging, FMS/HMI systems, or post-incident debugging.
 
-3h ago
+5h ago
 
 ---
 
@@ -96,29 +102,13 @@ Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. 
 
 Would love feedback on such an eval setup for robotic policies. Currently looking for people who are training policies and who would be interested to try something like this out.
 
-18h ago
-
----
-
-**[Battling severe voltage sag on a 48V AMR under peak torque. How do you stop your servo drives from throttling?](https://www.reddit.com/r/robotics/comments/1tjw9hg/battling_severe_voltage_sag_on_a_48v_amr_under/)**
-
-Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg payload) running on a 48V LiFePO4 pack. Whenever the robot hits rough terrain or accelerates suddenly, the transient current draw causes our battery bus to sag hard, dipping down to 35V-36V for a few hundred milliseconds. Our current "industrial-grade" servo drives are losing their minds under this sag. We are hitting under-voltage faults that trigger random emergency stops, massive thermal spikes inside our sealed IP65 wheel hubs as the drives draw more current to compensate, and mushy velocity control right when we need tight torque response. We’ve debated adding a bulky buck-boost regulator just to keep the drive logic stable, but it kills our payload-to-weight ratio. For those building battery-powered platforms that survive high-torque transients, are you over-specifying the battery pack to stop the sag, or switching to drives with ultra-wide input voltage ranges? Also, how do you handle the thermal overhead in a sealed housing? Do GaN-based or ultra-high-efficiency drives actually solve the heat issue at the source? Trying to avoid a massive chassis redesign just to fit a bulkier cooling system. Any advice?
-
-23h ago
+19h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[August Robotics lands $30M to automate precision construction with robots](https://siliconangle.com/2026/05/21/august-robotics-lands-30m-automate-precision-construction-robots/)**
-
-August Robotics lands $30M to automate precision construction with robots - SiliconANGLE
-
-SiliconANGLE • 1d ago
-
----
 
 **[Will Robotics Have a ChatGPT Moment?](https://spectrum.ieee.org/robotics-ai-breakthrough)**
 
@@ -136,9 +126,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Moto Pizza CEO launches robotics venture to bring automation in-house](https://www.bizjournals.com/seattle/news/2026/05/21/moto-pizza-ceo-lee-kindell-robotics-stadium-launch.html)**
+**[AI robotic beehives deployed in Pasco County farm community](https://www.fox13news.com/news/ai-robotic-beehives-deployed-pasco-county-farm-community)**
 
-The Business Journals • 23h ago
+As the U.S. bee population declines, a farm community in Pasco County is using AI-powered technology to protect its bee colonies.
+
+FOX 13 Tampa Bay • 1d ago
 
 ---
 
@@ -146,15 +138,7 @@ The Business Journals • 23h ago
 
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
 
-Fox News • 19h ago
-
----
-
-**[AI robotic beehives deployed in Pasco County farm community](https://www.fox13news.com/news/ai-robotic-beehives-deployed-pasco-county-farm-community)**
-
-As the U.S. bee population declines, a farm community in Pasco County is using AI-powered technology to protect its bee colonies.
-
-FOX 13 Tampa Bay • 1d ago
+Fox News • 20h ago
 
 ---
 
@@ -168,7 +152,7 @@ WFLA • 1d ago
 
 A Nebraska robotics team just beat 900 teams from 42 countries. Brownell Talbot finished 23-0 to win the VEX world title.
 
-Omaha World-Herald • 8h ago
+Omaha World-Herald • 9h ago
 
 ---
 
@@ -186,19 +170,25 @@ South China Morning Post • 1d ago
 
 ---
 
+**[Humanoid’s New Deal: Bosch Will Build Its Robots With Schaeffler Parts](https://www.forbes.com/sites/johnkoetsier/2026/05/21/humanoids-new-deal-bosch-will-build-its-robots-with-schaeffler-parts/)**
+
+Vertical integration or partnership: that is the question in humanoid robots. The UK's Humanoid has chosen ... and it just announced a big new partner.
+
+Forbes • 1d ago
+
+---
+
+**[Jeff Bezos describes his $38B startup Prometheus for the first time: 'Nothing to do with robotics'](https://www.geekwire.com/2026/jeff-bezos-describes-his-38b-startup-prometheus-for-the-first-time-nothing-to-do-with-robotics/)**
+
+In a CNBC interview, Jeff Bezos offered the most detailed public description yet of Project Prometheus, calling the secretive startup an "artificial general engineer" building next-generation design tools for physical objects.
+
+GeekWire • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Is There A Robot Revolution Happening? What’s Going On?](https://www.youtube.com/watch?v=w1VKIIxk0Vc)**
-
-Robots are getting REALLY sophisticated…so why don't we all have our own personal robot assistant yet? Watch here to find out ...
-
-📺 NBC News
-
-👁️ 1K • 👍 19 • ⏱️ 2:37 • 22h ago
-
----
 
 **[Man vs AI Robot: it’s officially over...](https://www.youtube.com/watch?v=j5MtBTPGJng)**
 
@@ -206,17 +196,7 @@ Man Vs Machine - we're entering the end times of AI deployment - do you want to 
 
 📺 Stylosa
 
-👁️ 14K • 👍 376 • 💬 273 • ⏱️ 16:12 • 4d ago
-
----
-
-**[Apple Just Started Selling $1,000 AI Home Robots in All Stores](https://www.youtube.com/watch?v=jDmOBHB-7Ik)**
-
-Apple's new AI home robots are being described as a major step toward bringing advanced robotics into everyday households on ...
-
-📺 Carros Show
-
-👁️ 7K • 👍 239 • 💬 38 • ⏱️ 23:14 • 1d ago
+👁️ 15K • 👍 384 • 💬 277 • ⏱️ 16:12 • 4d ago
 
 ---
 
@@ -226,17 +206,27 @@ A cute little robot named Stewie caused some big drama. The machine's owner book
 
 📺 Inside Edition
 
-👁️ 36K • 👍 635 • 💬 169 • ⏱️ 1:35 • 3d ago
+👁️ 36K • 👍 637 • 💬 171 • ⏱️ 1:35 • 4d ago
 
 ---
 
-**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
+**[Is There A Robot Revolution Happening? What’s Going On?](https://www.youtube.com/watch?v=w1VKIIxk0Vc)**
 
-Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
+Robots are getting REALLY sophisticated…so why don't we all have our own personal robot assistant yet? Watch here to find out ...
 
-📺 Fin Tek
+📺 NBC News
 
-👁️ 105K • 👍 3K • 💬 137 • ⏱️ 22:41 • 2d ago
+👁️ 1K • 👍 22 • ⏱️ 2:37 • 1d ago
+
+---
+
+**[Apple Just Started Selling $1,000 AI Home Robots in All Stores](https://www.youtube.com/watch?v=jDmOBHB-7Ik)**
+
+Apple's new AI home robots are being described as a major step toward bringing advanced robotics into everyday households on ...
+
+📺 Carros Show
+
+👁️ 7K • 👍 249 • 💬 38 • ⏱️ 23:14 • 1d ago
 
 ---
 
@@ -246,17 +236,37 @@ The robots in this video look real. Move real. Talk real. And that's exactly wha
 
 📺 AI Exposed
 
-👁️ 143K • 👍 1K • 💬 76 • ⏱️ 12:25 • 6d ago
+👁️ 144K • 👍 1K • 💬 76 • ⏱️ 12:25 • 6d ago
 
 ---
 
-**[Building a Heat Seeking Robotic Rat that Runs into the Nearest Deep Fryer](https://www.youtube.com/watch?v=WQkKfFpqr4w)**
+**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
 
-Twitch: https://www.twitch.tv/uwoslab Twitter: https://twitter.com/uwutoowo1 Tiktok: https://www.tiktok.com/@uwos.lab.
+Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
 
-📺 Uwos Lab
+📺 Fin Tek
 
-👁️ 93K • 👍 9K • 💬 164 • ⏱️ 2:05 • 4d ago
+👁️ 108K • 👍 3K • 💬 91 • ⏱️ 22:41 • 2d ago
+
+---
+
+**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
+
+Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
+
+📺 ShortCircuit
+
+👁️ 167K • 👍 7K • 💬 867 • ⏱️ 15:32 • 6d ago
+
+---
+
+**[Do humanoid robots pose national security risk?](https://www.youtube.com/watch?v=sNhskSj2mm0)**
+
+ABC News investigates the rise of humanoid robots manufactured in China and why experts say they pose a risk to U.S. national ...
+
+📺 Good Morning America
+
+👁️ 1K • 👍 15 • 💬 1 • ⏱️ 3:22 • 1d ago
 
 ---
 
@@ -270,23 +280,13 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
-**[Do humanoid robots pose national security risk?](https://www.youtube.com/watch?v=sNhskSj2mm0)**
+**[Robot Tries Michael Jackson Dance 🤖 AI Robot Dance Goes Viral](https://www.youtube.com/watch?v=2Y6Hqovfdlg)**
 
-ABC News investigates the rise of humanoid robots manufactured in China and why experts say they pose a risk to U.S. national ...
+This robot attempts to copy a legendary dance style inspired by Michael Jackson — and the result is both funny and impressive ...
 
-📺 Good Morning America
+📺 BWFMEDIA TV
 
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 3:22 • 1d ago
-
----
-
-**[I can finally be lazy  - Posha Robot Chef](https://www.youtube.com/watch?v=AkQdZxRQ36U)**
-
-Play War Thunder for FREE on PC, PlayStation, Xbox, and mobile using the links below! New to the game, or returning after six ...
-
-📺 ShortCircuit
-
-👁️ 166K • 👍 7K • 💬 866 • ⏱️ 15:32 • 6d ago
+👁️ 10K • 👍 213 • 💬 23 • ⏱️ 0:44 • 2d ago
 
 ---
 
