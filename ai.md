@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-22T21:11:05.372013+00:00'
+updated: '2026-05-22T22:34:19.267788+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 22, 2026 at 21:11 UTC  
+**Last Updated:** May 22, 2026 at 22:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Summary: AGI has been cancelled due to inflation. AI has become so expensive that even Microsoft can not afford it.
 
-🔗 [thelowdownblog.com](https://www.thelowdownblog.com/2026/05/microsoft-cancels-internal-anthropic.html) • 14h ago
+🔗 [thelowdownblog.com](https://www.thelowdownblog.com/2026/05/microsoft-cancels-internal-anthropic.html) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 For those worried about the AI Bubble bursting, it's not happening, at least for now, not until atleast OpenAI and Anthropic are listed (later this year). And if you actually discount Nvidia, and check the PE of AI companies right now OpenAI (35x) and anthropic (13x), these valuations do not really seem unsustainable as of now, and not to mention unlike the DotCom bubble, they have massive data centre infrastructure, so this is all not in the air. AI is here to stay, it's already altering our lives, taking up workspaces and transforming work, there is a massive upfront cost but that does not immediately signal a bubble unfolding. If any bubble bursts, it would not be solely the AI Bubble, it would be the government bonds and the dollar bubble.
 
-14h ago
+15h ago
 
 ---
 
@@ -65,7 +65,15 @@ Well that certainly backfired.
 
 I had a simple google search turn up the most random useless results so I asked: “Why is google search so bad now?” on google and got a surprisingly honest response from Gemini. Even highlighted the profits part lol
 
-19h ago
+21h ago
+
+---
+
+**[The deployment funnel nobody talks about: 60% evaluate, 20% pilot, 5% ship. MIT tracked 300 real AI implementations against profit metrics.](https://www.reddit.com/r/artificial/comments/1tky191/the_deployment_funnel_nobody_talks_about_60/)**
+
+Late 2025, MIT researchers measured something the industry had avoided looking at directly. Not projections or pilot numbers. Documented outcomes from 300 AI deployments in real businesses, tracked against profit metrics. The funnel breaks down like this. Sixty percent of companies evaluated AI tools. Of those, twenty percent ran a pilot. Of those pilots, only 5% reached full production deployment on the service line. Ninety-five percent of AI investment dissolved before it produced a measurable outcome. The companies that made it to production had a clear pattern. They didn't ask AI to substitute for judgment. They identified bounded tasks: specific inputs, defined outputs, failure modes that were contained. They measured success criteria before deployment, not after. Content drafting. Code review. Data summarisation at volume. The 95% that didn't make it: haste, no defined success metrics, and the assumption that efficiency gains would be obvious once the tool was in the workflow. There's a line from the research worth sitting with. "We replaced X employees with AI" isn't an efficiency metric. It's a headcount metric. Those are not the same thing. Klarna is already in the reversal phase, rehiring humans after the AI efficiency numbers didn't hold up at scale. What's the clearest signal you've found for whether a deployment is actually working, before it's too late to course-correct?
+
+8m ago
 
 ---
 
@@ -73,15 +81,7 @@ I had a simple google search turn up the most random useless results so I asked:
 
 Good feedback from AI is not that different from receiving feedback from people around you. My brother and I once threw a lot of money into a proof-of-concept film because we were blinded by the encouragement and agreeableness that people around us were expressing. We weren't recognizing that they were just trying to be nice to us and not hurt our feelings. They were active screenwriters and filmmakers just like us and just like us, they would need our help when the time came. That's why all of our feedback was watered down heavily. Only one of our friends told us the truth and you know what we did? We respectively ignored the advice. Film-wise, it turned out great because the team was amazingly talented. But the story fell significantly short of what it could have been, if only we had turned our egos off for a second and insist that people give us their complete, gloves-off opinion. It's the same when engaging with AI, but actually easier to handle since you're just working with your own mental barriers instead of two. Bottom line. You just gotta come into it with the understanding that it will be a yes man. You can do prompting and that can really help if you design it well, but even then, it pales in comparison to a guy like Dov Siemen who is hilariously legendary when it comes to wrecking screenplays and bursting people's bubbles. That's honestly why I don't often ask for it's opinion. Instead, I might ask it to compare a scene to all the other movies that are out there and spot the cliches. If I ask questions with the implicit assumption that whatever I wrote is garbage, it'll riff off of that and assume with me, which causes it to focus less on justifying why my story is so great and more on what could be wrong. It's the same with people. If you simply ask for their input, they'll water it down with praise. You have to specifically instruct people to find the problems and emphasize the truth over hurting your feelings. Do the same with AI and you'll have far less problems with feedback. So, don't ask questions like, "Is this good?" or "Will people understand this?" Ask questions like, "This dialogue is terrible. How can we fix it." or "This scene feels draggy and boring. We need to find what's missing." Come into it with the assumption that your work is poor, even if it isn't. Force it to identify the problems. Otherwise, it'll suck your....Well, you know.
 
-4h ago
-
----
-
-**[For those that follow the AI tech improvements, how long do you predict till AI will be capable of instantly Language Dubing Animes?](https://www.reddit.com/r/artificial/comments/1tkuf4b/for_those_that_follow_the_ai_tech_improvements/)**
-
-For those that follow the AI tech improvements, how long do you predict till AI will be capable of instantly Language Dubing Animes? Animes usually take a long time to dub into a different language. I been wondering if AI can help smooth that issue out by making a dub of the Anime within hours to near instantly. How long y'all think it will take till we get to that point with AI were it's capable of doing that?
-
-1h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ For those that follow the AI tech improvements, how long do you predict till AI 
 
 I genuinely think people are underestimating how fast AI training is becoming accessible. A few years ago training a useful model sounded like something only OpenAI, Google, or Meta could do. Now random developers are renting GPUs for a few dollars an hour, fine tuning open models from their bedrooms, building datasets with APIs, and getting surprisingly good results. The biggest shift isn’t even the models themselves, it’s the removal of gatekeeping around experimentation. Once regular people can train specialized reasoning, coding, or teaching models without billion dollar infrastructure, the AI industry changes completely. We’re slowly moving from “only corporations can build intelligence” to “small teams can build focused intelligence better than giant companies in specific niches.”
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,15 @@ I genuinely think people are underestimating how fast AI training is becoming ac
 
 Two papers dropped this week. Both about AI systems that run experiments autonomously. I keep thinking about what this actually means at scale. We're not talking about AI helping researchers find papers faster or organize data. These are systems that form hypotheses, design experiments, and iterate on findings without waiting for a human to approve each step. The whole loop just runs. And the estimates people are throwing around, something like a hundred to a thousand times faster than current research timelines, sound insane until you realize the bottleneck was always human bandwidth, not compute. The part that gets me is how quiet this landed. Two major papers, barely any mainstream coverage. I work adjacent to biotech and the implications for drug discovery alone are staggering. If even a fraction of that speedup holds in practice, the next five years look nothing like the last fifty. Guess we'll find out soon enough.
 
-17h ago
+19h ago
+
+---
+
+**[For those that follow the AI tech improvements, how long do you predict till AI will be capable of instantly Language Dubing Animes?](https://www.reddit.com/r/artificial/comments/1tkuf4b/for_those_that_follow_the_ai_tech_improvements/)**
+
+For those that follow the AI tech improvements, how long do you predict till AI will be capable of instantly Language Dubing Animes? Animes usually take a long time to dub into a different language. I been wondering if AI can help smooth that issue out by making a dub of the Anime within hours to near instantly. How long y'all think it will take till we get to that point with AI were it's capable of doing that?
+
+2h ago
 
 ---
 
@@ -105,15 +113,7 @@ Two papers dropped this week. Both about AI systems that run experiments autonom
 
 Humans have unanswered questions about almost everything the universe consciousness, dark matter, the origin of life, mathematical equations, reality itself etc. Do you think future AI could eventually solve mysteries he has never could, possibly even explaining things beyond normal comprehension? Or will it be limited by human knowledge and understanding?
 
-22h ago
-
----
-
-**[Glasses will fail](https://www.reddit.com/r/artificial/comments/1tk5jiv/glasses_will_fail/)**
-
-You are looking at the exact argument tech skeptics and infrastructure engineers are making right now. While the marketing for AI smart glasses promises a magical, seamless sci-fi world, the physical reality is that **AI glasses are heavily limited by the invisible infrastructure stack underneath them.** If AI glasses fail to become the next smartphone, it won't be because the hardware frames look bad; it will be because our modern networking and cloud structures aren't built to handle them yet. Here is exactly how infrastructure bottlenecks threaten to break the AI glasses dream: ### 1. The Tethering Trap & Cellular Bottlenecks To keep smart glasses lightweight and fashionable, manufacturers cannot pack them with heavy, heat-generating computer processors or massive batteries. Because of this, the glasses are mostly just "dumb" collectors of data—cameras and microphones. The heavy lifting has to happen in the cloud. This creates an immediate infrastructure dependency: * **The Upload Problem:** Standard cellular networks (even 5G) are optimized for *downloading* data (streaming video, browsing). AI glasses flip this dynamic—they require constant, high-bandwidth *uploading* of live video and audio streams so the cloud AI can process your surroundings. * **Network Congestion:** If you are in a crowded stadium, a packed subway station, or a busy downtown area, cellular bandwidth chokes. When your phone drops to one bar, your webpage loads slowly. When AI glasses lose bandwidth, they suffer **contextual blindness**—the AI simply stops responding, freezes, or lags out mid-conversation. ### 2. The Edge Compute & Latency Deficit For AI glasses to be useful, they have to operate in real time. If you look at a sign in a foreign country, you need the translation instantly, not 4 seconds later. ``` [ Glasses Capture Video ] ──(Cell Tower)──> [ Distant Data Center ] │ (Processing) [ Live Display Updates ] <──(Cell Tower)─── [ Cloud AI Response ] ``` Current cloud infrastructure relies on massive, centralized data centers. Sending raw video data from your glasses, up to a cell tower, across the country to a data center, running it through a Large Language Model, and sending the response back takes too long. Until telecommunications providers build out **Edge AI infrastructure**—placing smaller, powerful AI servers directly inside neighborhood cell towers to cut travel distance—the latency spike will make real-world use feel incredibly clunky. ### 3. The "Crowd DDoS" Server Crash Because AI wearables rely entirely on backend orchestration, they are highly vulnerable to localized server overload. A high-profile example of this happened during a live tech demonstration where multiple users in the same building activated their smart glasses simultaneously. The sudden wave of live video requests accidentally "DDoS'd" (Distributed Denial of Service) the development servers, causing the AI to freeze, hallucinate, and fail on stage. If our backend server infrastructure can't handle a concentrated room of power-users without collapsing, managing millions of people walking through a major city using live visual AI simultaneously is a massive scaling hurdle. ### 4. The Power vs. Thermal Tradeoff Infrastructure limitations extend to material engineering inside the frame. ``` Constant Multimodal Processing = Heavy Battery Drain + Massive Heat ``` If you try to bypass the cloud network by forcing the glasses to do the AI computing locally on the device (on-device inference), the battery dies within an hour, and the arms of the glasses get uncomfortably hot against your face. Until battery density or custom silicon chips can process multimodal AI at 40% lower power consumption, the devices are stuck relying on the fragile cloud network. > **The Takeaway:** The industry is fighting a classic hardware-versus-infrastructure battle. Companies like Meta and Google are successfully designing beautiful frames, but until 5G coverage expands, edge computing matures, and server architecture scales to handle millions of continuous video streams, AI glasses risk remaining a novelty gadget rather than a daily essential. >
-
-18h ago
+1d ago
 
 ---
 
@@ -123,55 +123,7 @@ You are looking at the exact argument tech skeptics and infrastructure engineers
 
 **[Opinion | I’m the C.E.O. of Goldman Sachs. The A.I. Job Apocalypse Is Overblown.](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)**
 
-The New York Times • 6h ago
-
----
-
-**[The AI Superstars Who Say a ‘Vibe Slop’ Crisis Is Coming](https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394)**
-
-WSJ • 11h ago
-
----
-
-**[Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices](https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html)**
-
-Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.
-
-CNBC • 18m ago
-
----
-
-**[AI’s Expanding Market Grip Traps Active Managers on Wall Street](https://www.bloomberg.com/news/articles/2026-05-22/ai-s-expanding-market-grip-traps-active-managers-on-wall-street)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[The AI Breakthrough That Has Mathematicians Paying Attention](https://www.forbes.com/sites/ronschmelzer/2026/05/22/the-ai-breakthrough-that-has-mathematicians-paying-attention/)**
-
-OpenAI announced this week that one of its general-purpose reasoning models made a breakthrough that has grabbed the attention of elite mathematicians.
-
-Forbes • 53m ago
-
----
-
-**[Trump yanked AI order after David Sacks raised industry concerns](https://www.politico.com/news/2026/05/21/trump-ai-order-sacks-00933295)**
-
-Politico • 18h ago
-
----
-
-**[Read the AI executive order thwarted by Trump tech allies](https://www.axios.com/2026/05/22/ai-executive-order-cancelled-white-house)**
-
-Axios • 4h ago
-
----
-
-**[The tech bro billionaires won the fight over the AI executive order. But are they losing the war?](https://fortune.com/2026/05/22/tech-billionaires-convince-trump-to-back-off-ai-executive-order-but-much-of-maga-favors-ai-regulation/)**
-
-David Sacks, Elon Musk, and Mark Zuckerberg lobbied Trump. But much of MAGA supports AI regulation.
-
-Fortune • 28m ago
+The New York Times • 7h ago
 
 ---
 
@@ -179,7 +131,7 @@ Fortune • 28m ago
 
 The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
@@ -187,7 +139,57 @@ NPR • 2h ago
 
 The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.
 
-WIRED • 6h ago
+WIRED • 7h ago
+
+---
+
+**[Sundar Pichai Understands Why People Are Anxious About A.I.](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html)**
+
+After a busy Google I/O, the company’s chief executive sits down with the hosts of “Hard Fork” to discuss the future of Google Search, how he’s using A.I. agents and his advice for college graduates.
+
+The New York Times • 10h ago
+
+---
+
+**[Ozzy Osbourne's latest reinvention is an AI-powered interactive hologram experience](https://www.foxnews.com/outkick-culture/ozzy-osbournes-latest-reinvention-ai-powered-interactive-hologram-experience)**
+
+Jack and Sharon Osbourne say an AI hologram of the late Ozzy Osbourne created by HYPERREAL can speak in his voice and answer fans' questions.
+
+Fox News • 1h ago
+
+---
+
+**[Pratt: Bass concern over AI ads ‘funniest thing I’ve ever heard’](https://thehill.com/homenews/campaign/5892095-spencer-pratt-karen-bass-ai-generated-ads/)**
+
+The Hill • 46m ago
+
+---
+
+**[How to AI-proof your job](https://www.cnn.com/2026/05/22/tech/how-to-ai-proof-your-job)**
+
+Meta. Nike. Intuit. UPS. It seems every day a new company announces layoffs, often citing AI as the cause. AI is already reducing US monthly payroll growth by roughly 16,000 jobs in the past year, according to a recent Goldman Sachs report.
+
+CNN • 11h ago
+
+---
+
+**[AI job cuts are rising, but experts say layoffs are only part of the story](https://www.cbsnews.com/news/ai-layoffs-hiring-entry-level-workers/)**
+
+Economists say AI is reshaping the U.S. labor market by suppressing hiring even as overall job losses remain limited.
+
+CBS News • 54m ago
+
+---
+
+**[Opinion | How I Choose Which Cloudflare Employees to Replace With AI](https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5)**
+
+WSJ • 2d ago
+
+---
+
+**[The AI Superstars Who Say a ‘Vibe Slop’ Crisis Is Coming](https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394)**
+
+WSJ • 13h ago
 
 ---
 
@@ -199,7 +201,7 @@ WIRED • 6h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 806 • 💬 718 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 807 • 💬 718 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -207,7 +209,7 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 671 • 💬 414 • 1d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 673 • 💬 414 • 1d ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -215,15 +217,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 562 • 💬 482 • 12h ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
-
----
-
-**[Remove-AI-Watermarks – CLI and library for removing AI watermarks from images](https://news.ycombinator.com/item?id=48200569)**
-
-CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks
-
-⬆️ 383 • 💬 252 • 2d ago • [GitHub](https://github.com/wiltodelta/remove-ai-watermarks)
+⬆️ 571 • 💬 487 • 13h ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -231,7 +225,7 @@ CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF
 
 Arizona students reject ex-Google exec's positive words on AI
 
-⬆️ 374 • 💬 381 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
+⬆️ 375 • 💬 381 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
 
 ---
 
@@ -239,7 +233,7 @@ Arizona students reject ex-Google exec's positive words on AI
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 364 • 💬 530 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 365 • 💬 532 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 
 ---
 
@@ -247,15 +241,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.
 
-⬆️ 334 • 💬 211 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
-
----
-
-**[Intuit to lay off over 3k employees to refocus on AI](https://news.ycombinator.com/item?id=48216278)**
-
-In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
-
-⬆️ 258 • 💬 188 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+⬆️ 335 • 💬 211 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
 
 ---
 
@@ -263,7 +249,15 @@ In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce 
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 246 • 💬 243 • 7h ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 266 • 💬 267 • 9h ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+
+---
+
+**[Intuit to lay off over 3k employees to refocus on AI](https://news.ycombinator.com/item?id=48216278)**
+
+In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
+
+⬆️ 258 • 💬 190 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
 
 ---
 
@@ -271,7 +265,15 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 The South Korean chipmaker struck a last-minute deal with its union to avert an 18-day strike, unlocking a $26.6 billion payout pool
 
-⬆️ 246 • 💬 193 • 19h ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+⬆️ 247 • 💬 194 • 21h ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+
+---
+
+**[The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://news.ycombinator.com/item?id=48234547)**
+
+Organisations using AI to cut headcount are making a short-term trade with long-term consequences. The ones holding their teams together and investing in how those teams operate with AI are building something more durable.
+
+⬆️ 194 • 💬 185 • 10h ago • [libertas.software](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
 
 ---
 
@@ -285,7 +287,7 @@ Anthropic delivered one of the most consequential weeks any AI lab has had yet: 
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 9K • 👍 243 • 💬 22 • ⏱️ 21:56 • 21h ago
+👁️ 9K • 👍 243 • 💬 22 • ⏱️ 21:56 • 22h ago
 
 ---
 
@@ -295,7 +297,7 @@ Token mania. I've been a user of Proton for almost a decade and I'm grateful to 
 
 📺 Mo Bitar
 
-👁️ 75K • 👍 6K • 💬 1K • ⏱️ 11:39 • 6h ago
+👁️ 75K • 👍 6K • 💬 1K • ⏱️ 11:39 • 7h ago
 
 ---
 
@@ -305,7 +307,7 @@ Here's the AI News you might have missed this week. If your team lives in Slack,
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 917 • 💬 118 • ⏱️ 44:46 • 4h ago
+👁️ 14K • 👍 917 • 💬 118 • ⏱️ 44:46 • 6h ago
 
 ---
 
@@ -315,7 +317,7 @@ Full Post w/ Prompt Pack: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 10K • 👍 492 • 💬 48 • ⏱️ 21:51 • 7h ago
+👁️ 10K • 👍 492 • 💬 48 • ⏱️ 21:51 • 8h ago
 
 ---
 
@@ -345,7 +347,7 @@ What happens when AI starts telling history and gets it wrong? A video of Holoca
 
 📺 DW News
 
-👁️ 1K • 👍 40 • 💬 6 • ⏱️ 1:52 • 2h ago
+👁️ 1K • 👍 40 • 💬 6 • ⏱️ 1:52 • 4h ago
 
 ---
 
@@ -365,7 +367,7 @@ Download the free Gemini guide here: https://clickhubspot.com/99hn Google just i
 
 📺 Skill Leap AI
 
-👁️ 30K • 👍 754 • 💬 36 • ⏱️ 11:14 • 1d ago
+👁️ 30K • 👍 754 • 💬 36 • ⏱️ 11:14 • 2d ago
 
 ---
 
@@ -391,7 +393,7 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 `any-to-any`
 
-⬇️ 1,001 • ❤️ 636 • 4h ago
+⬇️ 1,001 • ❤️ 636 • 5h ago
 
 ---
 
@@ -427,7 +429,7 @@ Hy-MT2-1.8B is a fast, multilingual translation model supporting 33 languages, o
 
 `translation` `2.0B`
 
-⬇️ 564 • ❤️ 273 • 16h ago
+⬇️ 564 • ❤️ 273 • 17h ago
 
 ---
 
@@ -439,7 +441,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,249,582 • ❤️ 1,264 • 19h ago
+⬇️ 1,249,582 • ❤️ 1,264 • 21h ago
 
 ---
 
@@ -499,7 +501,7 @@ Hy-MT2-30B-A3B is a large-scale, "fast-thinking" Mixture-of-Experts (MoE) transl
 
 `translation` `30.1B`
 
-⬇️ 224 • ❤️ 188 • 15h ago
+⬇️ 224 • ❤️ 188 • 17h ago
 
 ---
 
@@ -658,7 +660,7 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.6k • 🔱 476 • 15h ago
+⭐ 4.6k • 🔱 476 • 16h ago
 
 ---
 
@@ -678,7 +680,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 174 • 14h ago
+⭐ 2.6k • 🔱 174 • 15h ago
 
 ---
 
@@ -688,7 +690,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 382 • 19h ago
+⭐ 2.3k • 🔱 382 • 20h ago
 
 ---
 
@@ -736,7 +738,7 @@ ClawSweeper scans all issues and PRs and suggest what we can close, and why. It 
 
 `JavaScript` `ai` `bot` `openclaw` `review`
 
-⭐ 1.7k • 🔱 220 • 50m ago
+⭐ 1.7k • 🔱 220 • 2h ago
 
 ---
 

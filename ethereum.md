@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-22T21:11:05.386356+00:00'
+updated: '2026-05-22T22:34:19.282047+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 21:11 UTC  
+**Last Updated:** May 22, 2026 at 22:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,074.15
+### $2,074.80
 
 ---
 
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -2.8%  
 **7d:** -4.9%  
-**30d:** -11.1%  
+**30d:** -11.0%  
 **90d:** +5.9%  
 **1y:** -17.6%  
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[What are some of the best Ethereum podcasts right now?](https://www.reddit.com/r/ethereum/comments/1tkwzve/what_are_some_of_the_best_ethereum_podcasts_right/)**
+
+We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
+
+48m ago
+
+---
+
 **[Daily General Discussion May 22, 2026](https://www.reddit.com/r/ethereum/comments/1tk8w37/daily_general_discussion_may_22_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 9h ago
 
 ---
 
@@ -140,14 +148,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Daily General Discussion May 19, 2026](https://www.reddit.com/r/ethereum/comments/1thcqp2/daily_general_discussion_may_19_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 19h ago
 
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -172,13 +172,13 @@ Decrypt • 23h ago
 
 Over two years ago, nobody gave XRP (CRYPTO: XRP) a real chance. The SEC lawsuit had it pinned down for years while Ethereum (CRYPTO: ETH) held its place as the second-largest crypto by market cap. Then things started to change. Today, XRP holds an $84 billion market cap against Ethereum’s $256 billion. XRP is still ... Will XRP Overtake Ethereum by Market Cap?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ ETF Database • 3d ago
 
 Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ Seeking Alpha • 16h ago
 
 Ethereum price started a recovery wave above the $2,120 zone. ETH is now consolidating and might rally if there is a clear move above the $2,150 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $2,080 support zone, like Bitcoin. ETH price formed a base and starte…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 8K • 👍 312 • 💬 139 • ⏱️ 1:11:25 • 10h ago
+👁️ 8K • 👍 312 • 💬 139 • ⏱️ 1:11:25 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ Trade SEM TAXA ou COMISSÃO é na Quantfury! Abra sua conta: https://bit.ly/quan
 
 📺 Marcello Paz
 
-👁️ 668 • 👍 91 • 💬 2 • ⏱️ 8:02 • 6h ago
+👁️ 668 • 👍 91 • 💬 2 • ⏱️ 8:02 • 7h ago
 
 ---
 
