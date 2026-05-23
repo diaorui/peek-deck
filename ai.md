@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T10:53:00.755703+00:00'
+updated: '2026-05-23T13:58:21.422577+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 10:53 UTC  
+**Last Updated:** May 23, 2026 at 13:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,22 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Exclusive: Departing Meta staffer posts biting anti-AI video internally amid mass layoffs](https://www.reddit.com/r/artificial/comments/1tlcscq/exclusive_departing_meta_staffer_posts_biting/)**
+
+The tech giant made thousands of engineers train their AI replacements—then fired them.
+
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 3h ago
+
+---
+
+**[The musical chairs game of AI](https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/)**
+
+The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
+
+3h ago
+
+---
+
 **[Microsoft Cancels Internal Anthropic Licenses As Shift To Token-Based AI Billing Blows Up Annual Budgets In Months](https://www.reddit.com/r/artificial/comments/1tkb0op/microsoft_cancels_internal_anthropic_licenses_as/)**
 
 Summary: AGI has been cancelled due to inflation. AI has become so expensive that even Microsoft can not afford it.
@@ -45,11 +61,25 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 ---
 
-**[Exclusive: Departing Meta staffer posts biting anti-AI video internally amid mass layoffs](https://www.reddit.com/r/artificial/comments/1tlcscq/exclusive_departing_meta_staffer_posts_biting/)**
+**[OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'](https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/)**
 
-The tech giant made thousands of engineers train their AI replacements—then fired them.
+OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 24m ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 7m ago
+
+---
+
+**[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
+
+🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 7m ago
+
+---
+
+**[AI is changing the internet forever. Here’s how](https://www.reddit.com/r/artificial/comments/1tlffb2/ai_is_changing_the_internet_forever_heres_how/)**
+
+Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
+
+🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 1h ago
 
 ---
 
@@ -69,51 +99,19 @@ I had a simple google search turn up the most random useless results so I asked:
 
 ---
 
+**[Why can't people just run gemini and claude code using their own gpus?](https://www.reddit.com/r/artificial/comments/1tld8cq/why_cant_people_just_run_gemini_and_claude_code/)**
+
+It looks like Gemini and Claude Code has been either heavily downgraded or limited, due to lack of or high cost of compute. Why can't people and engineers run the ai's using their own gpu's that are sitting idle in their pcs?
+
+3h ago
+
+---
+
 **[I built a cognitive architecture where the AI has actual needs that drift between sessions — not prompt engineering, actual state variables](https://www.reddit.com/r/artificial/comments/1tl0o5v/i_built_a_cognitive_architecture_where_the_ai_has/)**
 
 Most AI companions fake continuity through prompt engineering. PHI // DRIFT does something different — seven homeostatic state variables that drift between sessions and shape output before you say a word. Memory is scored by emotional salience and time decay, not just vector similarity. There's a Jungian shadow module tracking unintegrated behavioral patterns as a first-class architectural variable. Built solo in 9 months on a CPU-only mini tower. No GPU. No institution. Full preprint under review of SSRN The field ignores depth psychology as an engineering input. I think that's a mistake. github avalable if needed
 
-10h ago
-
----
-
-**[The deployment funnel nobody talks about: 60% evaluate, 20% pilot, 5% ship. MIT tracked 300 real AI implementations against profit metrics.](https://www.reddit.com/r/artificial/comments/1tky191/the_deployment_funnel_nobody_talks_about_60/)**
-
-Late 2025, MIT researchers measured something the industry had avoided looking at directly. Not projections or pilot numbers. Documented outcomes from 300 AI deployments in real businesses, tracked against profit metrics. The funnel breaks down like this. Sixty percent of companies evaluated AI tools. Of those, twenty percent ran a pilot. Of those pilots, only 5% reached full production deployment on the service line. Ninety-five percent of AI investment dissolved before it produced a measurable outcome. The companies that made it to production had a clear pattern. They didn't ask AI to substitute for judgment. They identified bounded tasks: specific inputs, defined outputs, failure modes that were contained. They measured success criteria before deployment, not after. Content drafting. Code review. Data summarisation at volume. The 95% that didn't make it: haste, no defined success metrics, and the assumption that efficiency gains would be obvious once the tool was in the workflow. There's a line from the research worth sitting with. "We replaced X employees with AI" isn't an efficiency metric. It's a headcount metric. Those are not the same thing. Klarna is already in the reversal phase, rehiring humans after the AI efficiency numbers didn't hold up at scale. What's the clearest signal you've found for whether a deployment is actually working, before it's too late to course-correct?
-
-12h ago
-
----
-
-**[I wish there was a “Canva for AI training” already](https://www.reddit.com/r/artificial/comments/1tl7uxn/i_wish_there_was_a_canva_for_ai_training_already/)**
-
-Honestly one of the biggest reasons AI training still feels intimidating is because the workflow is unnecessarily painful for normal builders.You still end up dealing with random CUDA errors, dependency conflicts, broken environments, terminal commands, config files, dataset formatting, cloud GPU setup, checkpoint management, crashes, and 20 different tools stitched together just to fine tune a model. Meanwhile most people don’t actually want to become ML infrastructure engineers. They just want to train a specialized model for their own niche idea. I genuinely think there’s room for a platform where you could Upload dataset, Choose base model, Pick behavior/settings, Press train, Deploy API and That’s it. Almost like a “Canva” or “Shopify” moment for AI model training. Feels inevitable honestly. Once AI training becomes abstracted enough, the bottleneck shifts from infrastructure knowledge to creativity, data quality, and problem understanding. And I think that changes who gets to build powerful AI systems completely.
-
-4h ago
-
----
-
-**[AI training is becoming the new coding revolution](https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/)**
-
-I genuinely think people are underestimating how fast AI training is becoming accessible. A few years ago training a useful model sounded like something only OpenAI, Google, or Meta could do. Now random developers are renting GPUs for a few dollars an hour, fine tuning open models from their bedrooms, building datasets with APIs, and getting surprisingly good results. The biggest shift isn’t even the models themselves, it’s the removal of gatekeeping around experimentation. Once regular people can train specialized reasoning, coding, or teaching models without billion dollar infrastructure, the AI industry changes completely. We’re slowly moving from “only corporations can build intelligence” to “small teams can build focused intelligence better than giant companies in specific niches.”
-
-1d ago
-
----
-
-**[Claude made me realize most AI models optimize for confidence, not truth](https://www.reddit.com/r/artificial/comments/1tke1cj/claude_made_me_realize_most_ai_models_optimize/)**
-
-People keep talking about benchmarks, censorship, refusals, personality, and “which AI is smarter,” but almost nobody talks about truthfulness in a practical way. Honestly, one thing I noticed while testing different models for coding, reasoning, and long conversations is that Claude sometimes feels less optimized to impress and more optimized to stay internally consistent. It doesn’t always give the fastest or most hyped answer, but there are moments where it genuinely feels like it’s trying to preserve logical honesty instead of just sounding confident. A lot of models today are insanely good at presentation, tone, and making the user feel satisfied, but that creates a weird problem where sounding intelligent can become more important than actually being correct. The scary part is that as AI gets more human-like, most people probably won’t even notice the difference between confidence and truth anymore. I think in the next few years the real competition won’t just be intelligence, it’ll be which model people trust when the answer actually matters.
-
-1d ago
-
----
-
-**[AI Can Provide Constructive Feedback on Your Written Work. You Just Need to Understand a Little Bit of Psychology. Same Exact Thing Applies to Human Feedback](https://www.reddit.com/r/artificial/comments/1tko3tm/ai_can_provide_constructive_feedback_on_your/)**
-
-Good feedback from AI is not that different from receiving feedback from people around you. My brother and I once threw a lot of money into a proof-of-concept film because we were blinded by the encouragement and agreeableness that people around us were expressing. We weren't recognizing that they were just trying to be nice to us and not hurt our feelings. They were active screenwriters and filmmakers just like us and just like us, they would need our help when the time came. That's why all of our feedback was watered down heavily. Only one of our friends told us the truth and you know what we did? We respectively ignored the advice. Film-wise, it turned out great because the team was amazingly talented. But the story fell significantly short of what it could have been, if only we had turned our egos off for a second and insist that people give us their complete, gloves-off opinion. It's the same when engaging with AI, but actually easier to handle since you're just working with your own mental barriers instead of two. Bottom line. You just gotta come into it with the understanding that it will be a yes man. You can do prompting and that can really help if you design it well, but even then, it pales in comparison to a guy like Dov Siemen who is hilariously legendary when it comes to wrecking screenplays and bursting people's bubbles. That's honestly why I don't often ask for it's opinion. Instead, I might ask it to compare a scene to all the other movies that are out there and spot the cliches. If I ask questions with the implicit assumption that whatever I wrote is garbage, it'll riff off of that and assume with me, which causes it to focus less on justifying why my story is so great and more on what could be wrong. It's the same with people. If you simply ask for their input, they'll water it down with praise. You have to specifically instruct people to find the problems and emphasize the truth over hurting your feelings. Do the same with AI and you'll have far less problems with feedback. So, don't ask questions like, "Is this good?" or "Will people understand this?" Ask questions like, "This dialogue is terrible. How can we fix it." or "This scene feels draggy and boring. We need to find what's missing." Come into it with the assumption that your work is poor, even if it isn't. Force it to identify the problems. Otherwise, it'll suck your....Well, you know.
-
-18h ago
+13h ago
 
 ---
 
@@ -125,15 +123,7 @@ Good feedback from AI is not that different from receiving feedback from people 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-Fortune • 17h ago
-
----
-
-**[Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices](https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html)**
-
-Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.
-
-CNBC • 14h ago
+Fortune • 21h ago
 
 ---
 
@@ -141,57 +131,65 @@ CNBC • 14h ago
 
 The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.
 
-NPR • 15h ago
+NPR • 18h ago
 
 ---
 
-**[2026 NBA mock draft: AI predicts every first-round pick after combine](https://www.usatoday.com/story/sports/nba/2026/05/23/nba-mock-draft-2026-ai-picks-first-round-combine/90193777007/)**
+**[Microsoft’s new responsible tech lead on how to humanize high-speed AI development](https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html)**
 
-There were big changes to the latest Microsoft Copilot AI NBA mock draft curated by USA TODAY Sports after the NBA Draft lottery and scouting combine.
+Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?
 
-USA Today • 51m ago
-
----
-
-**[A JPMorgan exec explains why AI will create a more resilient job market than doomsayers predict](https://www.businessinsider.com/ai-jobs-layoffs-economy-outlook-labor-market-software-jpmorgan-2026-5)**
-
-AI doomers say the tech could crush the job market, but a growing chorus of market pros says that it'll reshuffle, not shrink, employment.
-
-Business Insider • 1h ago
+CNBC • 58m ago
 
 ---
 
-**[AI used to fake evidence that ended Korean actor's career, say police](https://www.bbc.com/news/articles/c0r2j18k2vxo)**
+**[Automakers' main problem with AI features? Turning a profit.](https://finance.yahoo.com/news/automakers-main-problem-with-ai-features-turning-a-profit-130000111.html)**
 
-Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.
+The auto industry has been experimenting with AI-based features for years with voice assistants, predictive features, and connected services. The problem is that most of it doesn't pay.
 
-BBC • 1d ago
-
----
-
-**[The AI Superstars Who Say a ‘Vibe Slop’ Crisis Is Coming](https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394)**
-
-WSJ • 1d ago
+Yahoo Finance • 58m ago
 
 ---
 
-**[Opinion | Pope Leo Chooses Social Justice Over Pelvic Theology](https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html)**
+**[China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model](https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/)**
 
-The New York Times • 1d ago
-
----
-
-**[Opinion | All this ‘talent’ breaks my brain — and my heart](https://www.washingtonpost.com/opinions/2026/05/22/ai-is-creating-digital-world-fake-talent-fame/)**
-
-AI fakery is overwhelming. What will happen to human imagination?
-
-The Washington Post • 17h ago
+Reuters • 24m ago
 
 ---
 
-**[Trump posts AI video depicting him throwing Colbert in a dumpster and dancing](https://thehill.com/homenews/administration/5892405-trump-shares-ai-video-colbert/)**
+**[Opinion | A.I. Is a Job Creator](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)**
 
-The Hill • 8h ago
+The New York Times • 22h ago
+
+---
+
+**[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
+
+Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
+
+The Guardian • 2h ago
+
+---
+
+**[‘Remove illegals,’ the campaign ad said. Its funder: The AI lobby.](https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/)**
+
+Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
+
+The Washington Post • 24m ago
+
+---
+
+**[Why College Students Are Booing AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)**
+
+The sound of a cosmic howl
+
+The Atlantic • 2h ago
+
+---
+
+**[Trump had ‘many’ concerns about AI draft policy order](https://www.politico.com/news/2026/05/22/trump-concerns-ai-policy-00934622)**
+
+Politico • 16h ago
 
 ---
 
@@ -203,7 +201,7 @@ The Hill • 8h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 813 • 💬 720 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 815 • 💬 726 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -211,7 +209,7 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 684 • 💬 416 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 689 • 💬 416 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -219,15 +217,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 628 • 💬 520 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
-
----
-
-**[College students drown out AI-praising commencement speeches with boos](https://news.ycombinator.com/item?id=48206241)**
-
-Arizona students reject ex-Google exec's positive words on AI
-
-⬆️ 376 • 💬 383 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
+⬆️ 632 • 💬 527 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -235,15 +225,7 @@ Arizona students reject ex-Google exec's positive words on AI
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 368 • 💬 536 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
-
----
-
-**[Google’s AI is being manipulated. The search giant is quietly fighting back](https://news.ycombinator.com/item?id=48205782)**
-
-A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.
-
-⬆️ 336 • 💬 211 • 2d ago • [bbc.com](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
+⬆️ 369 • 💬 536 • 2d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 
 ---
 
@@ -251,7 +233,7 @@ A BBC investigation revealed a simple way to get AI chatbots to spit out misinfo
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 310 • 💬 290 • 21h ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 319 • 💬 298 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -267,13 +249,29 @@ In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce 
 
 The South Korean chipmaker struck a last-minute deal with its union to avert an 18-day strike, unlocking a $26.6 billion payout pool
 
-⬆️ 249 • 💬 194 • 1d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+⬆️ 249 • 💬 195 • 1d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
 
 ---
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 218 • 💬 165 • 8h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 227 • 💬 175 • 11h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+
+---
+
+**[Microsoft reports AI is more expensive than paying human employees](https://news.ycombinator.com/item?id=48244434)**
+
+Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
+
+⬆️ 205 • 💬 60 • 10h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+
+---
+
+**[The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://news.ycombinator.com/item?id=48234547)**
+
+Organisations using AI to cut headcount are making a short-term trade with long-term consequences. The ones holding their teams together and investing in how those teams operate with AI are building something more durable.
+
+⬆️ 200 • 💬 190 • 1d ago • [libertas.software](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
 
 ---
 
@@ -287,7 +285,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 7K • 👍 221 • 💬 55 • ⏱️ 5:06 • 6h ago
+👁️ 11K • 👍 301 • 💬 70 • ⏱️ 5:06 • 10h ago
 
 ---
 
@@ -297,7 +295,7 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 19K • 👍 1K • 💬 111 • ⏱️ 13:31 • 12h ago
+👁️ 21K • 👍 1K • 💬 125 • ⏱️ 13:31 • 15h ago
 
 ---
 
@@ -307,7 +305,7 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 395K • 👍 14K • 💬 839 • ⏱️ 5:44 • 18h ago
+👁️ 434K • 👍 15K • 💬 881 • ⏱️ 5:44 • 21h ago
 
 ---
 
@@ -317,7 +315,7 @@ Token mania. I've been a user of Proton for almost a decade and I'm grateful to 
 
 📺 Mo Bitar
 
-👁️ 144K • 👍 9K • 💬 1K • ⏱️ 11:39 • 19h ago
+👁️ 151K • 👍 9K • 💬 1K • ⏱️ 11:39 • 23h ago
 
 ---
 
@@ -327,47 +325,17 @@ Anthropic delivered one of the most consequential weeks any AI lab has had yet: 
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 11K • 👍 267 • 💬 26 • ⏱️ 21:56 • 1d ago
+👁️ 11K • 👍 269 • 💬 26 • ⏱️ 21:56 • 1d ago
 
 ---
 
-**[Ex-Google CEO just exposed the whole AI sh*tshow](https://www.youtube.com/watch?v=XSxki8gaWHk)**
+**[Trump Mocks Stephen Colbert With AI Video After ‘Late Show’ Exit](https://www.youtube.com/watch?v=NyPBDD_D5WQ)**
 
-Just say yes! https://x.com/@atmoio https://x.com/jasonscheer/status/2055748401783083293 ...
+S President Donald Trump has sparked fresh controversy after sharing an AI-generated video targeting Stephen Colbert following ...
 
-📺 Mo Bitar
+📺 The Indian Express
 
-👁️ 211K • 👍 10K • 💬 2K • ⏱️ 6:42 • 2d ago
-
----
-
-**[Google&#39;s New Gemini Omni Is Too Much.](https://www.youtube.com/watch?v=zc1_YAi7scA)**
-
-Google I/O 2026 dropped Gemini Omni, a world-model that simulates physics, edits video, and might be the largest AI video leap ...
-
-📺 AI For Humans
-
-👁️ 13K • 👍 630 • 💬 118 • ⏱️ 27:58 • 2d ago
-
----
-
-**[Stanford student explains how AI impacted his graduating class](https://www.youtube.com/watch?v=17b87k8rhd0)**
-
-A recent opinion piece in The New York Times spotlighted the impact of artificial intelligence on the 2026 graduating class at one ...
-
-📺 CBS News
-
-👁️ 106K • 👍 1K • 💬 320 • ⏱️ 4:55 • 1d ago
-
----
-
-**[I’m done with the AI hype](https://www.youtube.com/watch?v=H9KeR9i3iMk)**
-
-Build software that lasts. Join the Software Design Mastery waiting list → https://arjan.codes/mastery. I'm done with the AI hype.
-
-📺 ArjanCodes
-
-👁️ 44K • 👍 3K • 💬 209 • ⏱️ 8:44 • 19h ago
+👁️ 2K • 👍 51 • 💬 5 • ⏱️ 0:23 • 4h ago
 
 ---
 
@@ -377,7 +345,37 @@ CNN's Sara Sidner and chief data analyst Harry Enten examine the evolving landsc
 
 📺 CNN
 
-👁️ 53K • 👍 523 • 💬 144 • ⏱️ 4:08 • 13h ago
+👁️ 58K • 👍 539 • 💬 146 • ⏱️ 4:08 • 16h ago
+
+---
+
+**[Ex-Google CEO just exposed the whole AI sh*tshow](https://www.youtube.com/watch?v=XSxki8gaWHk)**
+
+Just say yes! https://x.com/@atmoio https://x.com/jasonscheer/status/2055748401783083293 ...
+
+📺 Mo Bitar
+
+👁️ 211K • 👍 10K • 💬 2K • ⏱️ 6:42 • 3d ago
+
+---
+
+**[Google&#39;s New Gemini Omni Is Too Much.](https://www.youtube.com/watch?v=zc1_YAi7scA)**
+
+Google I/O 2026 dropped Gemini Omni, a world-model that simulates physics, edits video, and might be the largest AI video leap ...
+
+📺 AI For Humans
+
+👁️ 13K • 👍 629 • 💬 118 • ⏱️ 27:58 • 3d ago
+
+---
+
+**[I’m done with the AI hype](https://www.youtube.com/watch?v=H9KeR9i3iMk)**
+
+Build software that lasts. Join the Software Design Mastery waiting list → https://arjan.codes/mastery. I'm done with the AI hype.
+
+📺 ArjanCodes
+
+👁️ 48K • 👍 3K • 💬 225 • ⏱️ 8:44 • 22h ago
 
 ---
 
@@ -393,7 +391,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 662 • 3h ago
+⬇️ 1,227 • ❤️ 667 • 6h ago
 
 ---
 
@@ -405,7 +403,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 40,368 • ❤️ 590 • 5d ago
+⬇️ 40,368 • ❤️ 598 • 5d ago
 
 ---
 
@@ -413,9 +411,11 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 *Tencent*
 
+Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 33 languages, optimized for on-device deployment with 1.25-bit quantization (440MB storage, 1.5x speedup). It excels in general, business, and instruction-following translation tasks, outperforming mainstream commercial APIs.
+
 `translation` `2.0B`
 
-⬇️ 2,564 • ❤️ 295 • 1d ago
+⬇️ 2,564 • ❤️ 321 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device i
 
 `image-text-to-text` `1.3B`
 
-⬇️ 247,170 • ❤️ 907 • 3d ago
+⬇️ 247,170 • ❤️ 910 • 3d ago
 
 ---
 
@@ -439,7 +439,7 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 `translation` `30.1B`
 
-⬇️ 970 • ❤️ 276 • 1d ago
+⬇️ 970 • ❤️ 280 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 5,283 • ❤️ 256 • 3d ago
+⬇️ 5,283 • ❤️ 259 • 3d ago
 
 ---
 
@@ -463,19 +463,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 78,771 • ❤️ 248 • 2d ago
-
----
-
-**[Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**
-
-*Sulphur*
-
-Sulphur-2-base is an uncensored text-to-video and image-to-video generation model based on LTX 2.3, featuring a prompt enhancer for improved input processing and supporting various LTX 2.3 formats.
-
-`text-to-video` `9.0B`
-
-⬇️ 1,286,075 • ❤️ 1,280 • 1d ago
+⬇️ 78,771 • ❤️ 250 • 2d ago
 
 ---
 
@@ -487,13 +475,27 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 597,584 • ❤️ 422 • 3d ago
+⬇️ 597,584 • ❤️ 427 • 3d ago
+
+---
+
+**[Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**
+
+*Sulphur*
+
+Sulphur-2-base is an uncensored text-to-video and image-to-video generation model based on LTX 2.3, featuring a prompt enhancer for improved input processing and supporting various LTX 2.3 formats.
+
+`text-to-video` `9.0B`
+
+⬇️ 1,286,075 • ❤️ 1,283 • 1d ago
 
 ---
 
 **[Qwen3.6-35B-A3B-MTP-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF)**
 
 *Unsloth AI*
+
+Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter causal language model with vision capabilities, optimized for faster inference via MTP. It excels at agentic coding, reasoning, and supports long context lengths up to 1M tokens, making it suitable for complex development tasks and advanced AI agents.
 
 `image-text-to-text` `35.5B`
 
@@ -573,18 +575,6 @@ Mega-ASR framework improves robustness in real-world speech recognition through 
 
 ---
 
-**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
-
-*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
-
-AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
-
-▲ 8 • 💬 0 • ⭐ 18,469 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -595,6 +585,18 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 78 • 💬 7 • ⭐ 74,544 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
+
+*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
+
+AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
+
+▲ 8 • 💬 0 • ⭐ 18,511 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
 
 ---
 
@@ -618,7 +620,7 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 4 • 💬 1 • ⭐ 5,532 • 4mo ago
+▲ 4 • 💬 1 • ⭐ 5,574 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -646,7 +648,7 @@ Latent-to-Pixel transfer paradigm efficiently leverages pre-trained latent diffu
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.6k • 🔱 481 • 1d ago
+⭐ 4.7k • 🔱 482 • 1d ago
 
 ---
 
@@ -666,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 177 • 12h ago
+⭐ 2.6k • 🔱 177 • 2h ago
 
 ---
 
@@ -676,7 +678,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 384 • 1d ago
+⭐ 2.3k • 🔱 385 • 1d ago
 
 ---
 
@@ -686,7 +688,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.2k • 🔱 341 • 5d ago
+⭐ 2.2k • 🔱 341 • 6d ago
 
 ---
 
@@ -694,7 +696,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 1.9k • 🔱 420 • 2d ago
+⭐ 1.9k • 🔱 424 • 2d ago
 
 ---
 
@@ -714,7 +716,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.7k • 🔱 183 • 2d ago
+⭐ 1.7k • 🔱 184 • 2d ago
 
 ---
 
@@ -724,7 +726,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 1.6k • 🔱 109 • 2d ago
+⭐ 1.6k • 🔱 111 • 2d ago
 
 ---
 
@@ -734,7 +736,7 @@ Hold a key, speak, release — AI-polished text appears at your cursor in any ap
 
 `HTML` `ai-prompt` `asr` `dictation` `llm` `macos`
 
-⭐ 1.5k • 🔱 129 • 9h ago
+⭐ 1.5k • 🔱 129 • 13h ago
 
 ---
 
