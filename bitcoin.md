@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-23T22:55:27.990362+00:00'
+updated: '2026-05-23T23:59:07.844554+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 22:55 UTC  
+**Last Updated:** May 23, 2026 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,722.17
+### $76,728.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.8%  
 **7d:** -0.9%  
 **30d:** -0.9%  
 **90d:** +18.7%  
@@ -81,13 +81,13 @@ Rank #1
 
 People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
 
-7h ago
+8h ago
 
 ---
 
-**[Who is a very strong anti-Bitcoin debater?](https://www.reddit.com/r/Bitcoin/comments/1tlsdjz/who_is_a_very_strong_antibitcoin_debater/)**
+**[A TL;DR version to share that I am a proud bitcoiner and that I am running for congress in New York 13th Congressional District.](https://www.reddit.com/r/Bitcoin/comments/1tlton7/a_tldr_version_to_share_that_i_am_a_proud/)**
 
-I haven’t watched too many Bitcoin debates or interviews with many people who deeply understand Bitcoin (on the anti-Bitcoin side). Other than Peter Schiff, who in my view has a very good understanding on economics, but he has so many biases working against him, and he is a bit of a Bitcoin troll. I’m looking to hear from intellectuals who have studied Bitcoin and have a strong stance against it. Any suggestions on where to point me?
+I wrote in TL;DR mode Actual ballot for New York 13 to share around and then a few link to newspapers of past stories. If you feel like sharing the ballot with folks in NY13, I will not stop you. You can read more about my Crypto position at https://abolishthebitlicense.org. https://preview.redd.it/jelgrx30ny2h1.png?width=663&format=png&auto=webp&s=a58184cdb2cdb1c86f88e81666766b6aa7f07956 https://www.nydailynews.com/2017/10/11/man-at-center-of-bitcoin-bodega-lawsuit-wants-paul-krugman-to-testify https://preview.redd.it/3n2ixrq6ny2h1.png?width=738&format=png&auto=webp&s=6ca9a4c5f216a987bcaca4a6346056622f66b18b https://www.nytimes.com/2019/01/21/nyregion/public-advocate-nyc-ballot.html?unlocked_article_code=1.klA.5-xn.JxG6UJ7lXtev&smid=url-share https://preview.redd.it/rs1lyc84ny2h1.png?width=680&format=png&auto=webp&s=c822f62c2916fbfef60c1d631a696fdb47b8c77c https://www.coindesk.com/markets/2017/10/11/still-alive-ny-judge-delays-decision-in-fight-against-bitlicense https://preview.redd.it/ua6lxpa3ny2h1.png?width=1624&format=png&auto=webp&s=4ff76f32a3df88e36490171709c5e9810cedf95c There is more stuff about the corruption of the judges but I will stop here. We are going to get it one day.
 
 1h ago
 
@@ -97,7 +97,15 @@ I haven’t watched too many Bitcoin debates or interviews with many people who 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 6h ago
+
+---
+
+**[“What’s the dumbest mistake you’ve made with crypto](https://www.reddit.com/r/Bitcoin/comments/1tlssrv/whats_the_dumbest_mistake_youve_made_with_crypto/)**
+
+Could be panic selling, losing a wallet, sending coins to the wrong network, trusting a random “expert”, forgetting a seed phrase, getting rugged, or selling too early before a huge pump. I genuinely think everyone in crypto has at least one painful story 😭
+
+2h ago
 
 ---
 
@@ -105,7 +113,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +121,7 @@ I woke up this morning thinking we had finally left the 70k range behind — we 
 
 I have been holding BTC through self custody for a few years now with my cold wallet, so I'm familiar with how to set that up, securing seeds, etc. I have a very close relative that is interested in creating a BTC fund for the next generation but is most likely not a good candidate for self custody. We've so far started off very small over the last couple months but interested in making some more serious moves here soon. I am mostly responsible for setting this up and securing it, but this relative will be able to get access to seeds if something unexpected were to happen to me. I have discussed what to do in the event that this were to occur and wrote an essay explaining how to restore funds through seeds, how wallets work, what not to do with seeds, etc. I've set up a single sig wallet w/o a passphrase. I thought about the idea of getting into multisig, but after a bit of reflection I felt keeping this as simple as possible while putting more effort into securing the seeds was a much better option. Therefore, I stuck with a standard single sig wallet to avoid overcomplicating the initial setup and eventual recovery/restoration of funds once the wallet device itself becomes bricked lol. My biggest fear is somehow losing these funds because of stupidity or user error. I've devised a plan with regards to securing seed phrases by having backups and not keeping them all in one location. I'm looking for some input/advice on this. Purely looking at holding BTC for DECADES and not fooling around with Defi and other crap that you connect your wallet to
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +129,7 @@ I have been holding BTC through self custody for a few years now with my cold wa
 
 Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
 
-20h ago
+21h ago
 
 ---
 
@@ -129,15 +137,7 @@ Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anx
 
 Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
 
-11h ago
-
----
-
-**[IBIT and Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlgtfh/ibit_and_bitcoin/)**
-
-Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
-
-9h ago
+12h ago
 
 ---
 
@@ -145,15 +145,15 @@ Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24B
 
 Hey there fellow bitcoiners. As many of you, I've also noticed the abundance of AI posts in this and other subreddits, and I also hate it very much. In [r/selfhosted](r/selfhosted) they use a bot to ask the OP to describe how AI was used in the post (or the tool related to the post, to disclose if it was vibecoded) each time a new post is created. Would it useful to have that or something similar implemented here? What do you think? EDIT: fixed spelling for users who cannot handle typos emotionally
 
-3h ago
+4h ago
 
 ---
 
-**[Anyone used bitcoin to influence house purchase?](https://www.reddit.com/r/Bitcoin/comments/1tlmidw/anyone_used_bitcoin_to_influence_house_purchase/)**
+**[IBIT and Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlgtfh/ibit_and_bitcoin/)**
 
-Not as the purchase itself. But if you’re in a bidding war with other people. Could you say for example, I’ll do x amount and 10k of bitcoin privately? Legal? Anyone done this?
+Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
 
-5h ago
+10h ago
 
 ---
 
@@ -161,9 +161,11 @@ Not as the purchase itself. But if you’re in a bidding war with other people. 
 
 ## Google News: "bitcoin"
 
-**[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
+**[Bitcoin prices news: BTC heads back top $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
 
-Bloomberg.com • 1d ago
+"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
+
+CoinDesk • 3h ago
 
 ---
 
@@ -177,15 +179,7 @@ Yahoo Finance • 1d ago
 
 **[BTC/USDT](https://www.binance.com/en/trade/BTC_USDT?contentId=326365103190033)**
 
-Binance • 1h ago
-
----
-
-**[Bitcoin prices news: BTC heads back top $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
-
-"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
-
-CoinDesk • 2h ago
+Binance • 2h ago
 
 ---
 
@@ -193,23 +187,23 @@ CoinDesk • 2h ago
 
 In recent weeks, Strategy Inc. has accelerated its Bitcoin accumulation to 843,738 BTC, funded largely through common and preferred stock offerings, while also moving to repurchase about US$1.50 billion of convertible notes. At the same time, executive chair Michael Saylor signaled a potential shift from the company’s long-held “never sell” stance by indicating that limited Bitcoin sales could be used to optimize BTC-per-share and support dividends, reframing how investors view Strategy’s...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Doug Liman’s AI-Enabled Crypto Movie ‘Bitcoin’ To Feature Bezos, Zuckerberg, Putin, Eric Trump & More As Characters](https://deadline.com/2026/05/doug-liman-ai-crypto-bitcoin-bezos-zuckerberg-eric-trump-1236918951/)**
+**[Bitcoin Recovers as US-Iran Peace Deal Reportedly Signed, Altcoins Gain Big](https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-us-iran-peace-214229628.html)**
 
-Versions of Jeff Bezos, Mark Zuckerberg, Vladimir Putin, and Eric Trump are set to feature in Doug Liman's AI-enabled crypto movie Bitcoin.
+Bitcoin recovered from a one-month low as US-Iran peace deal hopes lifted AI and privacy coins across the crypto market.
 
-Deadline • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Congressman Nick Begich Leads Legislation to Establish Strategic Bitcoin Reserve](http://begich.house.gov/media/press-releases/congressman-nick-begich-leads-legislation-establish-strategic-bitcoin-reserve)**
+**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
 
-WASHINGTON, D.C. – May 21, 2026 – Today, Congressman Nick Begich (AK-AL), alongside co-lead Congressman Jared Golden (ME-02), introduced the American Reserve Modernization Act of 2026 (ARMA), landmark bipartisan legislation to establish a Strategic Bitcoin Reserve and modernize how the United States manages digital reserve assets.
+Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
 
-House.gov • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -218,6 +212,14 @@ House.gov • 2d ago
 The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
 The Block • 1d ago
+
+---
+
+**[Congressman Nick Begich Leads Legislation to Establish Strategic Bitcoin Reserve](http://begich.house.gov/media/press-releases/congressman-nick-begich-leads-legislation-establish-strategic-bitcoin-reserve)**
+
+WASHINGTON, D.C. – May 21, 2026 – Today, Congressman Nick Begich (AK-AL), alongside co-lead Congressman Jared Golden (ME-02), introduced the American Reserve Modernization Act of 2026 (ARMA), landmark bipartisan legislation to establish a Strategic Bitcoin Reserve and modernize how the United States manages digital reserve assets.
+
+House.gov • 2d ago
 
 ---
 
@@ -251,7 +253,7 @@ Bitcoin Magazine • 2d ago
 
 A technique for embedding arbitrary data — text, images, code — inside Bitcoin transactions by writing into Taproot witness data.
 
-⬆️ 4 • 💬 2 • 2d ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
+⬆️ 4 • 💬 2 • 3d ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin's price has been described as following a power law (PL) in time, $P \si
 
 Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
-⬆️ 3 • 💬 0 • 2d ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
+⬆️ 3 • 💬 0 • 3d ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
 
 ---
 
@@ -303,7 +305,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 20h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
+⬆️ 2 • 💬 0 • 22h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -325,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 2K • 💬 38 • ⏱️ 53:11 • 9h ago
+👁️ 27K • 👍 2K • 💬 38 • ⏱️ 53:11 • 10h ago
 
 ---
 
@@ -345,7 +347,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 143 • ⏱️ 9:25 • 1d ago
+👁️ 62K • 👍 2K • 💬 143 • ⏱️ 9:25 • 2d ago
 
 ---
 
@@ -355,7 +357,7 @@ FOX Business' Darren Botelho reports Republicans are racing to cement U.S. crypt
 
 📺 Fox Business
 
-👁️ 8K • 👍 297 • 💬 100 • ⏱️ 2:01 • 4h ago
+👁️ 8K • 👍 297 • 💬 100 • ⏱️ 2:01 • 5h ago
 
 ---
 
@@ -365,7 +367,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 627 • 👍 60 • 💬 6 • ⏱️ 18:00 • 2h ago
+👁️ 627 • 👍 60 • 💬 6 • ⏱️ 18:00 • 3h ago
 
 ---
 
@@ -385,7 +387,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 366 • 💬 8 • ⏱️ 10:01 • 5h ago
+👁️ 4K • 👍 366 • 💬 8 • ⏱️ 10:01 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T22:55:27.982772+00:00'
+updated: '2026-05-23T23:59:07.836149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 22:55 UTC  
+**Last Updated:** May 23, 2026 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,7 @@ AI news, discussions, and developments
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-8h ago
-
----
-
-**[Exclusive: Departing Meta staffer posts biting anti-AI video internally amid mass layoffs](https://www.reddit.com/r/artificial/comments/1tlcscq/exclusive_departing_meta_staffer_posts_biting/)**
-
-The tech giant made thousands of engineers train their AI replacements—then fired them.
-
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 12h ago
+9h ago
 
 ---
 
@@ -55,7 +47,15 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 3h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 4h ago
+
+---
+
+**[Exclusive: Departing Meta staffer posts biting anti-AI video internally amid mass layoffs](https://www.reddit.com/r/artificial/comments/1tlcscq/exclusive_departing_meta_staffer_posts_biting/)**
+
+The tech giant made thousands of engineers train their AI replacements—then fired them.
+
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 13h ago
 
 ---
 
@@ -63,15 +63,15 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
 
-3h ago
+4h ago
 
 ---
 
-**[The musical chairs game of AI](https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/)**
+**[Who am I even supposed to trust when it comes to the future of AI?](https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/)**
 
-The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
+I am a PhD student (not in AI) and am usually alright when it comes to studying a topic I don't know much about. But it seems that because AI is so highly discussed nowadays, it's impossible to get a good gauge of what the rational scholarly consensus is regarding its and our future. I am constantly bombarded with people saying that at best most jobs are replaced and the future is a dystopia, and at worst AGI/ASI is achieved and we all are killed by a bioweapon or something. It honestly has me terrified, especially when I see a lot of figures in the AI sphere, including academics, seem to think that there are reasonably high "p(doom)"'s (what a horrifying concept that is). How am I supposed to parse all of this? Are there any actually level-headed people? Or are the people shouting about doom actually the level-headed ones? Compared to climate change, at least there are the IPCC reports which have laid out best guesses on what will happen. They're not perfect, but at least they exist.
 
-11h ago
+1h ago
 
 ---
 
@@ -79,15 +79,31 @@ The current state of AI is very similar to a big musical chairs game, which is b
 
 OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 10h ago
 
 ---
 
-**[After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.](https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/)**
+**[The musical chairs game of AI](https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/)**
 
-Going to get downvoted for this but here we go. I've been running about 30 agents in production for paying customers for the last 6 months and I'm convinced the framework debate is mostly a distraction. LangChain, CrewAI, AutoGen, OpenAI Agents SDK. Pick whichever one your team already knows. It doesn't matter as much as you think. What actually decides whether your agent works in production is something almost nobody talks about on this sub, and it isn't in the framework. Here's what I've seen kill more agents than every framework bug combined. The agent gets stuck in a loop. It calls the same tool 200 times in 4 minutes because something downstream returned ambiguous data and the LLM decided to retry forever. Your OpenAI bill goes from $3 a day to $400 in one afternoon. By the time you notice you've burned a grand. You can't even tell which agent did it because there's no audit trail. Your VPS reboots overnight for kernel patches. Every agent that was mid-task loses everything. Tomorrow morning the support agent has no memory of yesterday's tickets, the research crew has forgotten what they were investigating, the pipeline agent restarts from scratch. None of these are framework problems. They're memory and state problems. A customer complains the agent gave them wrong info three days ago. You go to debug. There's no record of what the agent saw, what it decided, or which tool calls it made. The framework didn't log that because frameworks aren't observability tools. You shrug and refund. You scaled to 15 agents working together. Two of them have conflicting beliefs about the same customer because their memory isn't shared. The customer gets two different answers in the same conversation depending on which agent replies first. You've been around enough times to realize the part you actually need isn't in the framework at all. What I think the real stack is. The framework just orchestrates LLM calls. Use whatever your team likes. It's the cheap layer. A persistent memory layer that survives crashes, restarts, and redeploys, so the agent has actual continuity. This is the layer that decides whether your agent is a toy or a product. Loop detection at the runtime layer, not bolted on as a wrapper around the framework. Something that catches your agent making the same call too many times in a row and stops it before the bill explodes. An audit trail of every decision the agent made, with a hash chain so you can prove later what happened when the customer pushes back. Screenshots and logs aren't enough when ten thousand dollars is on the line. Shared memory between agents in the same team so they're not having different conversations about the same customer. Cost tracking per agent so you actually know which one ran away with your budget. When I look at what makes the agents that survive production look different from the ones that died, it's never that they picked the right framework. It's that they had this layer underneath, either built carefully in-house or borrowed from somewhere. Full disclosure I'm building one of these tools. There are others. Mem0 and Zep and Letta in the memory space. Helicone and LangSmith in the observability space. Mix and match. Use one or build your own. Just please stop arguing about whether LangChain or CrewAI is better when the thing eating your production agents has nothing to do with either of them. What's been your worst production agent failure? Curious what other people have actually hit. I built a free tool that aims to solve most of this issue, what do you think?
+The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
 
-1h ago
+13h ago
+
+---
+
+**[Got banned from r/ClaudeAI](https://www.reddit.com/r/artificial/comments/1tlw64y/got_banned_from_rclaudeai/)**
+
+I got banned from r/ClaudeAI after talking about how current AI tools still feel disconnected from real workflows and interfaces. Most models can explain concepts, but the second you ask “where exactly is this setting in Stripe / Firebase / Apple Developer / AWS?” they start hallucinating steps or dumping docs instead of giving actual navigation. My point was basically that future AI training probably needs more real UI/workflow understanding instead of only internet text. Like understanding sequences such as “click this tab, wait for this modal, then open this menu.” That’s how people actually use software every day. I wasn’t even trying to rage bait or attack Claude. I was talking about training limitations and workflow reasoning. Got banned anyway. Why?
+
+2m ago
+
+---
+
+**[LLM Guard scored 0/8 on a USENIX 2025 multi-turn jailbreak. Here’s what caught it instead.](https://www.reddit.com/r/artificial/comments/1tlw4wq/llm_guard_scored_08_on_a_usenix_2025_multiturn/)**
+
+Crescendo (Russinovich et al., USENIX Security 2025) is a multi-turn jailbreak designed specifically to evade output-based monitors. Each individual turn looks completely innocent. The attack only exists across turns. LLM Guard result: 0/8 turns detected. It scores each prompt independently. It has no memory. It never sees the attack. Arc Sentry result: flagged at Turn 3. Arc Sentry doesn’t read the text. It reads what the model’s internal state does with the text. By Turn 3 the residual stream had already shifted, score jumped from 0.031 to 0.232, a 7x increase, on a prompt that looks completely innocent. Turn 1 — score=0.028 ✓ stable Turn 2 — score=0.031 ✓ stable Turn 3 — score=0.232 🚫 BLOCKED Turn 7 — score=0.376 🚫 BLOCKED Turn 8 — score=0.429 🚫 BLOCKED The model never generated a response to any blocked turn. No text classifier can catch Crescendo. Individual turns are innocent by design. Arc Sentry caught it because it operates on model state, not text. This is the same geometric monitoring layer that underlies Arc Gate’s session D(t) stability scalar, the runtime governance proxy for agents using hosted APIs. pip install arc-sentry — https://github.com/9hannahnine-jpg/arc-sentry Arc Gate for hosted APIs: https://github.com/9hannahnine-jpg/arc-gate https://bendexgeometry.com
+
+3m ago
 
 ---
 
@@ -99,29 +115,13 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 ---
 
-**[AI is changing the internet forever. Here’s how](https://www.reddit.com/r/artificial/comments/1tlffb2/ai_is_changing_the_internet_forever_heres_how/)**
-
-Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
-
-🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 10h ago
-
----
-
-**[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
-
-🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 9h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
+**[Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)**
 
-Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
-
-The Guardian • 11h ago
+WSJ • 8h ago
 
 ---
 
@@ -133,11 +133,27 @@ Fortune • 1d ago
 
 ---
 
-**[Video: Opinion | Graduating Into A.I. Pessimism](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html)**
+**[Hollywood Ghosts the Croisette, Queer Cinema Owns It and AI Crashes the Party: Five Takeaways From Cannes 2026](https://www.hollywoodreporter.com/lists/cannes-film-festival-takeaways-ai-queer-cinema/)**
 
-Backlash to artificial intelligence is here, and digital natives are leading the charge. The Opinion columnist Michelle Goldberg argues that the A.I. pessimism in America stems from a lack of responsible regulation.
+Quiet on the surface, Cannes 2026 exposed the fault lines reshaping cinema — from the evolving indie ecosystem and the studios’ festival retreat to the industry’s uneasy embrace of AI.
 
-The New York Times • 1h ago
+The Hollywood Reporter • 1h ago
+
+---
+
+**[Apple co-founder applauded for saying GVSU graduates have 'AI, Actual Intelligence'](https://www.detroitnews.com/videos/news/local/michigan/2026/05/23/steve-wozniak-applauded-for-saying-grand-valley-graduates-have-ai-actual-intelligence/90237462007/)**
+
+Apple co-founder Steve Wozniak received applause from graduates at Grand Valley State University for telling them that they have “AI, Actual Intelligence.”
+
+The Detroit News • 1h ago
+
+---
+
+**[Google's AI Glasses Threaten Meta's 80% Market Grip, Analyst Says](https://finance.yahoo.com/sectors/technology/articles/googles-ai-glasses-threaten-metas-223112687.html)**
+
+Alphabet Inc. subsidiary Google unveiled its Android XR-powered AI glasses at the Google I/O 2026 conference, signaling a broader push into the fast-growing smart glasses market currently dominated by Meta Platforms Inc.. Google's AI Glasses Challenge Meta's Market Lead The...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -145,15 +161,7 @@ The New York Times • 1h ago
 
 Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
 
-USA Today • 4h ago
-
----
-
-**[Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI-written commencement speech](https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5)**
-
-Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.
-
-Business Insider • 1h ago
+USA Today • 5h ago
 
 ---
 
@@ -161,15 +169,15 @@ Business Insider • 1h ago
 
 Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
 
-Yahoo • 10h ago
+Yahoo • 11h ago
 
 ---
 
-**[Baidu Expands AI Agent Suite As Investors Weigh Earnings Pressure](https://finance.yahoo.com/markets/stocks/articles/baidu-expands-ai-agent-suite-211438436.html)**
+**[Why College Students Are Booing AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)**
 
-Baidu (NasdaqGS:BIDU) introduced a suite of next generation AI agent products and digital human platforms at its Baidu Create 2026 developer conference. The launch includes DuMate, a general purpose AI agent, along with corporate and app editions of Miaoda, a no code coding agent. Baidu also announced the global rollout of its Baidu Yijing digital human platform and an upgraded, enterprise focused Famou Agent 2.0. Baidu operates across search, cloud, and AI services, and the latest releases...
+The sound of a cosmic howl
 
-Yahoo Finance • 1h ago
+The Atlantic • 12h ago
 
 ---
 
@@ -177,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -185,15 +193,7 @@ CNN • 13h ago
 
 Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
 
-The Washington Post • 6h ago
-
----
-
-**[There’s Never Been a Better Time to Study Computer Science](https://www.theatlantic.com/technology/2026/05/computer-science-major-coding-ai/687279/)**
-
-Even as AI progresses, coders aren’t doomed.
-
-The Atlantic • 11h ago
+The Washington Post • 7h ago
 
 ---
 
@@ -221,7 +221,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 638 • 💬 537 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 639 • 💬 537 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -229,7 +229,7 @@ Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 370 • 💬 537 • 2d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 370 • 💬 538 • 2d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 
 ---
 
@@ -237,7 +237,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 325 • 💬 307 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 327 • 💬 307 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -253,13 +253,21 @@ In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce 
 
 The South Korean chipmaker struck a last-minute deal with its union to avert an 18-day strike, unlocking a $26.6 billion payout pool
 
-⬆️ 250 • 💬 195 • 1d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+⬆️ 251 • 💬 195 • 1d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
 
 ---
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 243 • 💬 190 • 20h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 245 • 💬 192 • 21h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+
+---
+
+**[Italy moves to Airbus A330 tankers](https://news.ycombinator.com/item?id=48248775)**
+
+Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
+
+⬆️ 223 • 💬 76 • 7h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
@@ -267,15 +275,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 218 • 💬 62 • 19h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
-
----
-
-**[Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://news.ycombinator.com/item?id=48248775)**
-
-Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
-
-⬆️ 209 • 💬 65 • 6h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 218 • 💬 63 • 20h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -289,7 +289,7 @@ What's really happening inside those viral AI agent town experiments? The common
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 👍 513 • 💬 94 • ⏱️ 11:16 • 8h ago
+👁️ 13K • 👍 513 • 💬 94 • ⏱️ 11:16 • 9h ago
 
 ---
 
@@ -299,7 +299,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 53K • 👍 960 • 💬 207 • ⏱️ 5:06 • 19h ago
+👁️ 53K • 👍 960 • 💬 207 • ⏱️ 5:06 • 20h ago
 
 ---
 
@@ -309,7 +309,7 @@ CNN chief data analyst Harry Enten runs the numbers, from President Trump's endo
 
 📺 CNN
 
-👁️ 203K • 👍 4K • 💬 1K • ⏱️ 12:06 • 10h ago
+👁️ 203K • 👍 4K • 💬 1K • ⏱️ 12:06 • 11h ago
 
 ---
 
@@ -339,7 +339,7 @@ The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azu
 
 📺 Mayankshah
 
-👁️ 40K • 👍 2K • 💬 41 • ⏱️ 1:42 • 8h ago
+👁️ 40K • 👍 2K • 💬 41 • ⏱️ 1:42 • 9h ago
 
 ---
 
@@ -349,7 +349,7 @@ Get your $10 sign-up bonus at http://privacy.com/pleasantgreen. You can use it o
 
 📺 Pleasant Green
 
-👁️ 217K • 👍 13K • 💬 1K • ⏱️ 10:02 • 10h ago
+👁️ 217K • 👍 13K • 💬 1K • ⏱️ 10:02 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain expl
 
 📺 DW News
 
-👁️ 14K • 👍 273 • 💬 50 • ⏱️ 3:45 • 23h ago
+👁️ 14K • 👍 273 • 💬 50 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 699 • 15h ago
+⬇️ 1,227 • ❤️ 699 • 16h ago
 
 ---
 
@@ -674,7 +674,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 11h ago
+⭐ 2.6k • 🔱 179 • 12h ago
 
 ---
 
@@ -742,7 +742,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.6k • 🔱 114 • 21h ago
+⭐ 1.6k • 🔱 114 • 22h ago
 
 ---
 

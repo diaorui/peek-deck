@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T22:55:27.995640+00:00'
+updated: '2026-05-23T23:59:07.850526+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 22:55 UTC  
+**Last Updated:** May 23, 2026 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.7%  
-**30d:** -8.6%  
-**90d:** +13.9%  
-**1y:** -16.4%  
+**24h:** +2.7%  
+**7d:** -0.5%  
+**30d:** -8.4%  
+**90d:** +14.2%  
+**1y:** -16.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -152,27 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
-
-Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
-
-The privacy coin has some very ambitious upgrades planned.
-
-The Motley Fool • 2d ago
-
----
-
 **[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
 
 BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -190,11 +174,11 @@ Reuters • 1d ago
 
 ---
 
-**[From Patience To Frustration: Ethereum Social Sentiment Collapses As Price Retests $2,100](https://www.tradingview.com/news/newsbtc:1f901bb85094b:0-from-patience-to-frustration-ethereum-social-sentiment-collapses-as-price-retests-2-100/)**
+**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
 
-As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
+Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 16h ago
+TradingView • 2h ago
 
 ---
 
@@ -206,7 +190,7 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+**[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
@@ -214,19 +198,31 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin And Ethereum Sharpe Ratio Diverge — What This Means](https://www.tradingview.com/news/newsbtc:6cb2b2d4a094b:0-bitcoin-and-ethereum-sharpe-ratio-diverge-what-this-means/)**
-
-A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
-
-TradingView • 15h ago
-
----
-
 **[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
+
+---
+
+**[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
+
+Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
+
+Decrypt • 2d ago
+
+---
+
+**[Hong Kong Regulated Fiat Token Achieves Mainnet Interoperability on Ethereum](https://financefeeds.com/hong-kong-regulated-fiat-token-achieves-mainnet-interoperability-on-ethereum/)**
+
+FinanceFeeds • 1d ago
+
+---
+
+**[Ethereum ETF Investors Hit the Brakes as Outflows Clip Grayscale Mini Trust](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-investors-hit-the-brakes-as-outflows-clip-grayscale-mini-trust)**
+
+TipRanks • 13h ago
 
 ---
 
@@ -240,7 +236,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 785 • 💬 79 • ⏱️ 24:12 • 8h ago
+👁️ 13K • 👍 785 • 💬 79 • ⏱️ 24:12 • 9h ago
 
 ---
 
@@ -250,7 +246,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 366 • 💬 8 • ⏱️ 10:01 • 5h ago
+👁️ 4K • 👍 366 • 💬 8 • ⏱️ 10:01 • 6h ago
 
 ---
 
@@ -260,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 97 • 💬 5 • ⏱️ 25:04 • 6h ago
+👁️ 1K • 👍 97 • 💬 5 • ⏱️ 25:04 • 7h ago
 
 ---
 
