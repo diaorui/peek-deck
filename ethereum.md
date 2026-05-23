@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T09:21:15.683582+00:00'
+updated: '2026-05-23T10:53:00.770175+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 09:21 UTC  
+**Last Updated:** May 23, 2026 at 10:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -4.8%  
-**30d:** -12.3%  
-**90d:** +9.3%  
-**1y:** -19.8%  
+**24h:** -4.6%  
+**7d:** -4.7%  
+**30d:** -12.2%  
+**90d:** +9.4%  
+**1y:** -19.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-11h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 21h ago
 
 ---
 
@@ -170,7 +170,23 @@ Yahoo Finance • 2d ago
 
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
+
+---
+
+**[Tom Lee Says Ethereum Will Rise When Oil Falls — And It All Comes Down To Fed Policy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-rise-144414551.html)**
+
+BMNR chairman Tom Lee pointed to the April FOMC minutes, which warned policymakers may need additional “policy firming” if inflation remains above the Fed’s 2% target.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[From Patience To Frustration: Ethereum Social Sentiment Collapses As Price Retests $2,100](https://www.tradingview.com/news/newsbtc:1f901bb85094b:0-from-patience-to-frustration-ethereum-social-sentiment-collapses-as-price-retests-2-100/)**
+
+As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
+
+TradingView • 4h ago
 
 ---
 
@@ -182,11 +198,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Solana Vs Ethereum: What’s Holding Growth Back? 3 Reasons SOL Is Still Lagging](https://www.tradingview.com/news/newsbtc:095d45799094b:0-solana-vs-ethereum-what-s-holding-growth-back-3-reasons-sol-is-still-lagging/)**
+**[Bitcoin And Ethereum Sharpe Ratio Diverge — What This Means](https://www.tradingview.com/news/newsbtc:6cb2b2d4a094b:0-bitcoin-and-ethereum-sharpe-ratio-diverge-what-this-means/)**
 
-A recent report highlighted three major reasons Solana (SOL) has struggled to keep pace with Ethereum (ETH), at least from a market performance perspective that goes beyond day-to-day price movements.Market expert Dominic Basulto from The Motley Fool pointed to factors that, in his view, have shape…
+A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
 
-TradingView • 6h ago
+TradingView • 3h ago
 
 ---
 
@@ -198,35 +214,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
-
-The privacy coin has some very ambitious upgrades planned.
-
-The Motley Fool • 1d ago
-
----
-
 **[Current price of Ethereum for May 22, 2026](https://fortune.com/article/price-of-ethereum-05-22-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
-**[$725 Million in Ethereum (ETH) Just Left Whale Wallets: The Timing Is Suspicious](https://beincrypto.com/ethereum-price-19-percent-drop-cycle-reset-analysis/)**
+**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
 
-Ethereum price hovers at $2,132 with $2,102 support holding off a 19% drop to $1,697 cycle low as whales sell and hodlers buy.
+The privacy coin has some very ambitious upgrades planned.
 
-BeInCrypto • 1d ago
-
----
-
-**[Ethereum Foundation faces calls for new $1B price-focused organization](https://cryptobriefing.com/ethereum-foundation-billion-dollar-price-organization/)**
-
-The Ethereum Foundation faces senior departures and calls for a new $1B organization focused on boosting ETH's price amid underperformance versus Bitcoin and Solana.
-
-Crypto Briefing • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 907 • 👍 115 • 💬 7 • ⏱️ 10:22 • 6h ago
+👁️ 907 • 👍 115 • 💬 7 • ⏱️ 10:22 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 12K • 👍 411 • 💬 173 • ⏱️ 1:11:25 • 22h ago
+👁️ 12K • 👍 411 • 💬 173 • ⏱️ 1:11:25 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 7K • 👍 320 • 💬 71 • ⏱️ 20:25 • 7h ago
+👁️ 7K • 👍 320 • 💬 71 • ⏱️ 20:25 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 67 • 💬 31 • ⏱️ 22:13 • 17h ago
+👁️ 2K • 👍 67 • 💬 31 • ⏱️ 22:13 • 19h ago
 
 ---
 
@@ -300,7 +300,7 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 351 • 💬 23 • ⏱️ 26:45 • 15h ago
+👁️ 6K • 👍 351 • 💬 23 • ⏱️ 26:45 • 16h ago
 
 ---
 

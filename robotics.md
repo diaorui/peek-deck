@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-23T09:21:15.686798+00:00'
+updated: '2026-05-23T10:53:00.773393+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 23, 2026 at 09:21 UTC  
+**Last Updated:** May 23, 2026 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,21 +32,43 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
+**[You helped me name my last robot, Arctos, and you didn't disappoint! Now I need your help naming this new AGV. I will use the comment with the most upvotes.](https://www.reddit.com/r/robotics/comments/1tlbohc/you_helped_me_name_my_last_robot_arctos_and_you/)**
+
+Hey r/robotics, A while back, this community helped me choose the name "Arctos" for my 6-DOF robotic arm project, and it has been an incredible journey since then. Now, I’m back with a new build: a mobile manipulator base designed to carry the arm, and it needs an official name. As promised, I’ll name it after whichever community suggestion gets the most upvotes! The Specs: - Drivetrain: 4x NEMA 23 stepper motors with TMC2209 drivers - Chassis: 3D-printed modular structure reinforced with M8 threaded rods - Brain & Control: ESP32 handling low-level tasks, paired with a custom Android app - Software Ecosystem: Fully integrated into Arctos Studio. ( Will do ROS/Isaac sim integration) - Sensors: 4x ultrasonic sensors, LiDAR, and a depth camera - Scavenged Tech: Powered by reused cordless drill batteries, using an old smartphone for its IMU and RGB camera - The Goal: An ultra-accessible, heavy-duty AGV with a target build cost of ~$250 USD, capable of carrying a 25kg payload. What's Next: The physical chassis is assembled and moving. Next up is implementing full SLAM navigation, VLM (Vision-Language Model) task grounding for autonomous manipulation, and mounting the arm on top. Drop your best name ideas below! Let's see what you guys come up with this time.
 
 1h ago
+
+---
+
+**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
+
+2h ago
 
 ---
 
 **[Arm robot dual servos](https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
 
-16h ago
+17h ago
+
+---
+
+**[Building (mostly) 3d-printed robot arm](https://www.reddit.com/r/robotics/comments/1tlbljh/building_mostly_3dprinted_robot_arm/)**
+
+1h ago
+
+---
+
+**[UBTECH just released Walker C1 with a demo of a waltz and a ballet alongside human dancers. It will be the first official “silicon spokesperson” of the China International Supply Chain Expo.](https://www.reddit.com/r/robotics/comments/1tlcy73/ubtech_just_released_walker_c1_with_a_demo_of_a/)**
+
+From: UBTECH Robotics on 𝕏: https://x.com/UBTECHRobotics/status/2057770364751740954 RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2057699983563075729
+
+15m ago
 
 ---
 
@@ -54,7 +76,7 @@ Robotics research and industry news
 
 Evaluating some hand grip patterns following the https://www.eng.yale.edu/grablab/pubs/Feix_THMS2016.pdf paper. I didn't do all of them because I'm lazy and some of them are pretty similar. But I'm confident my hand can achieve all of them EXCEPT the disks grips and the inferior pinch since I lack independent intermediate phalanx actuation. I chose some random objects I could find lying around that fit each grip type to see how well the hand could actually hold real household items. Overall, I think it was quite successful, what do you think?
 
-21h ago
+23h ago
 
 ---
 
@@ -62,7 +84,7 @@ Evaluating some hand grip patterns following the https://www.eng.yale.edu/grabla
 
 Just came across this video of our low latency teleop software (Adamo in case anyone is interested) being used to teleoperate a robot from San Francisco to London. We built it using a custom protocol rather than webrtc so that it is a lot smoother, with less buffer than standard teleop software solutions. Please don't bash me for posting teleop content, I know some of you hate it haha, but it will get us to full autonomy dw!
 
-19h ago
+20h ago
 
 ---
 
@@ -70,37 +92,13 @@ Just came across this video of our low latency teleop software (Adamo in case an
 
 ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read the full release notes here, and snag your swag here!  You can read our full release announcement here.  Big thanks to all of our contributors, maintainers, testers, build farmers, OSRA members, and especially our ROS Boss @sloretz, and our infra lead @cottsay.  We’re going to take a long weekend break and get right back to it working on ROS 2 Makoa Mata-Mata! 🏄‍♀️             The ROS events calendar is...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 16h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 17h ago
 
 ---
 
 **[How to wake up this battery](https://www.reddit.com/r/robotics/comments/1tkvj9a/how_to_wake_up_this_battery/)**
 
-12h ago
-
----
-
-**[We made airsoft tank robots for our online video game](https://www.reddit.com/r/robotics/comments/1tk7tib/we_made_airsoft_tank_robots_for_our_online_video/)**
-
-The real robot airsoft battles will be integrated with virtual battles seamlessly within the same matchmaking queue. We're using digital FPV equipment for the video link to a receiver pc, and then we send that to players over the internet via a custom UDP streaming protocol that also handles our normal game data. Virtual battles are standard video game servers. If you want to help with testing, we're looking for some people.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 1d ago
-
----
-
-**[Building a runtime audit layer for mobile robots as EU AI Act logging / human oversight requirements approach](https://www.reddit.com/r/robotics/comments/1tkniag/building_a_runtime_audit_layer_for_mobile_robots/)**
-
-Hey r/robotics, I’ve been working on an open-source middleware layer called runtime_integrity(formerly ros2_kinematic_guard). The problem I’m focusing on is runtime accountability for mobile robots. A robot can still be receiving valid commands while its physical execution has already diverged. Examples: wheel slip on wet or oily floors localization jumps stale or bursty velocity commands odometry mismatch command stream and physical motion going out of sync runtime_integrity sits between the autonomy stack and the base driver: /cmd_vel ↓ runtime_integrity ↓ /safe_cmd_vel It also watches odometry and emits structured runtime evidence when command and physical execution diverge. Example event: { "status": "RESYNCING", "dominantCause": "WHEEL_SLIP", "residual": 5.39, "guardAction": "BRAKE_AND_RESYNC", "interventionRequired": true, "complianceTags": ["human_oversight", "execution_integrity_audit"] } Why I think this matters now: As EU AI Act logging and human-oversight requirements approach for high-risk AI systems, robot vendors and integrators will need better runtime evidence than “something happened in a rosbag”. This package does not claim to make a robot compliant, and it does not replace safety PLCs, safety scanners, or hardware E-stops. The goal is narrower: planner commanded X robot physically behaved like Y runtime_integrity detected the mismatch a structured event explains why The repo includes a 5-minute ROS 2 demo using a lightweight mock AMR/AGV. No Gazebo, Isaac Sim, or real robot required. GitHub: https://github.com/ZC502/runtime_integrity.git I’d be interested in feedback from anyone working on AMRs/AGVs, safety logging, FMS/HMI systems, or post-incident debugging.
-
-17h ago
-
----
-
-**[Meet Xhand a dexterous hand for real world task](https://www.reddit.com/r/robotics/comments/1tjuztp/meet_xhand_a_dexterous_hand_for_real_world_task/)**
-
-Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. For building embodied AI solutions that bridge perception and action. XHand is just the beginning. #PhysicalAI #EmbodiedAI #Robotics #XHand #PNProbotics
-
-1d ago
+14h ago
 
 ---
 
@@ -120,15 +118,15 @@ Nautilus | Science • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 18h ago
 
 ---
 
-**[Former NASA Robotics Chief: America is building the wrong kind of robots — and China knows it](https://fortune.com/2026/05/23/humanoid-robots-america-china-adaptability-deployment-ambrose-nasa/)**
+**[China puts humanoid robots through tea harvesting field trials](https://interestingengineering.com/ai-robotics/china-tests-humanoid-robots-in-tea-farms-before-the-2026-world-robot-games)**
 
-The U.S. is optimizing humanoid robots for factory demos and backflips. A former NASA robotics division chief explains why adaptability — not performance — is the metric that will determine who leads global manufacturing.
+China is testing humanoid robots in tea production as part of preparations for the 2026 World Humanoid Robot Games.
 
-Fortune • 21m ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -172,15 +170,13 @@ Reuters • 1d ago
 
 A Nebraska robotics team just beat 900 teams from 42 countries. Brownell Talbot finished 23-0 to win the VEX world title.
 
-Omaha World-Herald • 21h ago
+Omaha World-Herald • 23h ago
 
 ---
 
-**[Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out](https://finance.yahoo.com/news/quantum-computing-robotics-arriving-faster-171144893.html)**
+**[Unlocking soft robotics control with AI's cousin: Reservoir computing](https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html)**
 
-Intuitive Surgical’s da Vinci 5 surgical platform, which began shipping in earnest on April 1, 2026, runs on 10,000 times the computing power of the da Vinci Xi and was co-engineered with NVIDIA’s Isaac platform. That is a working hospital robot, on the floor, today, that needed an AI compute stack nobody had five years ... Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out
-
-Yahoo Finance • 1d ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -194,7 +190,7 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 11K • 👍 175 • 💬 79 • ⏱️ 5:15 • 14h ago
+👁️ 11K • 👍 175 • 💬 79 • ⏱️ 5:15 • 16h ago
 
 ---
 
@@ -212,7 +208,7 @@ Robots are getting REALLY sophisticated…so why don't we all have our own perso
 
 📺 Tektite
 
-👁️ 1K • 👍 13 • ⏱️ 0:30 • 5h ago
+👁️ 1K • 👍 13 • ⏱️ 0:30 • 6h ago
 
 ---
 
@@ -242,7 +238,7 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 📺 EcoZora
 
-👁️ 19K • 👍 32 • 💬 5 • ⏱️ 0:07 • 1d ago
+👁️ 19K • 👍 32 • 💬 5 • ⏱️ 0:07 • 2d ago
 
 ---
 
