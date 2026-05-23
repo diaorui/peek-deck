@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-23T00:07:48.376796+00:00'
+updated: '2026-05-23T04:24:54.086750+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 23, 2026 at 00:07 UTC  
+**Last Updated:** May 23, 2026 at 04:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
 
-7h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Evaluating some hand grip patterns following the https://www.eng.yale.edu/grablab/pubs/Feix_THMS2016.pdf paper. I didn't do all of them because I'm lazy and some of them are pretty similar. But I'm confident my hand can achieve all of them EXCEPT the disks grips and the inferior pinch since I lack independent intermediate phalanx actuation. I chose some random objects I could find lying around that fit each grip type to see how well the hand could actually hold real household items. Overall, I think it was quite successful, what do you think?
 
-12h ago
+16h ago
 
 ---
 
@@ -50,13 +50,7 @@ Evaluating some hand grip patterns following the https://www.eng.yale.edu/grabla
 
 Just came across this video of our low latency teleop software (Adamo in case anyone is interested) being used to teleoperate a robot from San Francisco to London. We built it using a custom protocol rather than webrtc so that it is a lot smoother, with less buffer than standard teleop software solutions. Please don't bash me for posting teleop content, I know some of you hate it haha, but it will get us to full autonomy dw!
 
-10h ago
-
----
-
-**[How to wake up this battery](https://www.reddit.com/r/robotics/comments/1tkvj9a/how_to_wake_up_this_battery/)**
-
-3h ago
+14h ago
 
 ---
 
@@ -64,7 +58,13 @@ Just came across this video of our low latency teleop software (Adamo in case an
 
 ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read the full release notes here, and snag your swag here!  You can read our full release announcement here.  Big thanks to all of our contributors, maintainers, testers, build farmers, OSRA members, and especially our ROS Boss @sloretz, and our infra lead @cottsay.  We’re going to take a long weekend break and get right back to it working on ROS 2 Makoa Mata-Mata! 🏄‍♀️             The ROS events calendar is...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 7h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 11h ago
+
+---
+
+**[How to wake up this battery](https://www.reddit.com/r/robotics/comments/1tkvj9a/how_to_wake_up_this_battery/)**
+
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read
 
 The real robot airsoft battles will be integrated with virtual battles seamlessly within the same matchmaking queue. We're using digital FPV equipment for the video link to a receiver pc, and then we send that to players over the internet via a custom UDP streaming protocol that also handles our normal game data. Virtual battles are standard video game servers. If you want to help with testing, we're looking for some people.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 19h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Nj5QkNiJvaU) • 1d ago
 
 ---
 
@@ -80,7 +80,7 @@ The real robot airsoft battles will be integrated with virtual battles seamlessl
 
 Hey r/robotics, I’ve been working on an open-source middleware layer called runtime_integrity(formerly ros2_kinematic_guard). The problem I’m focusing on is runtime accountability for mobile robots. A robot can still be receiving valid commands while its physical execution has already diverged. Examples: wheel slip on wet or oily floors localization jumps stale or bursty velocity commands odometry mismatch command stream and physical motion going out of sync runtime_integrity sits between the autonomy stack and the base driver: /cmd_vel ↓ runtime_integrity ↓ /safe_cmd_vel It also watches odometry and emits structured runtime evidence when command and physical execution diverge. Example event: { "status": "RESYNCING", "dominantCause": "WHEEL_SLIP", "residual": 5.39, "guardAction": "BRAKE_AND_RESYNC", "interventionRequired": true, "complianceTags": ["human_oversight", "execution_integrity_audit"] } Why I think this matters now: As EU AI Act logging and human-oversight requirements approach for high-risk AI systems, robot vendors and integrators will need better runtime evidence than “something happened in a rosbag”. This package does not claim to make a robot compliant, and it does not replace safety PLCs, safety scanners, or hardware E-stops. The goal is narrower: planner commanded X robot physically behaved like Y runtime_integrity detected the mismatch a structured event explains why The repo includes a 5-minute ROS 2 demo using a lightweight mock AMR/AGV. No Gazebo, Isaac Sim, or real robot required. GitHub: https://github.com/ZC502/runtime_integrity.git I’d be interested in feedback from anyone working on AMRs/AGVs, safety logging, FMS/HMI systems, or post-incident debugging.
 
-7h ago
+12h ago
 
 ---
 
@@ -98,11 +98,11 @@ Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. 
 
 ---
 
-**[Remote Teleop for Evals](https://www.reddit.com/r/robotics/comments/1tk4l8b/remote_teleop_for_evals/)**
+**[Battling severe voltage sag on a 48V AMR under peak torque. How do you stop your servo drives from throttling?](https://www.reddit.com/r/robotics/comments/1tjw9hg/battling_severe_voltage_sag_on_a_48v_amr_under/)**
 
-Would love feedback on such an eval setup for robotic policies. Currently looking for people who are training policies and who would be interested to try something like this out.
+Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg payload) running on a 48V LiFePO4 pack. Whenever the robot hits rough terrain or accelerates suddenly, the transient current draw causes our battery bus to sag hard, dipping down to 35V-36V for a few hundred milliseconds. Our current "industrial-grade" servo drives are losing their minds under this sag. We are hitting under-voltage faults that trigger random emergency stops, massive thermal spikes inside our sealed IP65 wheel hubs as the drives draw more current to compensate, and mushy velocity control right when we need tight torque response. We’ve debated adding a bulky buck-boost regulator just to keep the drive logic stable, but it kills our payload-to-weight ratio. For those building battery-powered platforms that survive high-torque transients, are you over-specifying the battery pack to stop the sag, or switching to drives with ultra-wide input voltage ranges? Also, how do you handle the thermal overhead in a sealed housing? Do GaN-based or ultra-high-efficiency drives actually solve the heat issue at the source? Trying to avoid a massive chassis redesign just to fit a bulkier cooling system. Any advice?
 
-22h ago
+1d ago
 
 ---
 
@@ -126,11 +126,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://finance.yahoo.com/sectors/technology/articles/kawasaki-heavy-nvidia-plan-silicon-160730316.html)**
+**[Robotic exoskeletons promise easier hikes and high-tech workouts](https://www.nbcnews.com/video/robotic-exoskeletons-promise-easier-hikes-and-high-tech-workouts-263844421999)**
 
-May 21 () - Japan's Kawasaki Heavy Industries will partner with ‌Nvidia to develop solutions integrating ‌robotics with physical artificial intelligence, and will ​set up a joint development center in Silicon Valley, the Nikkei newspaper reported on Thursday. The collaboration will ‌initially focus ⁠on medical and mobility fields, with Nvidia's simulation technology ⁠to be applied to Kawasaki Heavy Industries' Corleo, a four-legged personal ​mobility robot ​under development, ​Nikkei added.
+Wearable exoskeletons promise to boost endurance on hikes and workouts. NBC News' Ryan Chandler explores whether the high-tech gear is the future of fitness - or just a fad.
 
-Yahoo Finance • 1d ago
+NBC News • 1h ago
+
+---
+
+**[Jeff Bezos describes his $38B startup Prometheus for the first time: 'Nothing to do with robotics'](https://www.geekwire.com/2026/jeff-bezos-describes-his-38b-startup-prometheus-for-the-first-time-nothing-to-do-with-robotics/)**
+
+In a CNBC interview, Jeff Bezos offered the most detailed public description yet of Project Prometheus, calling the secretive startup an "artificial general engineer" building next-generation design tools for physical objects.
+
+GeekWire • 2d ago
 
 ---
 
@@ -138,7 +146,7 @@ Yahoo Finance • 1d ago
 
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -156,31 +164,23 @@ WFLA • 2d ago
 
 ---
 
-**[Moto Pizza CEO launches robotics venture to bring automation in-house](https://www.bizjournals.com/seattle/news/2026/05/21/moto-pizza-ceo-lee-kindell-robotics-stadium-launch.html)**
+**[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://finance.yahoo.com/sectors/technology/articles/kawasaki-heavy-nvidia-plan-silicon-160730316.html)**
 
-The Business Journals • 1d ago
+May 21 () - Japan's Kawasaki Heavy Industries will partner with ‌Nvidia to develop solutions integrating ‌robotics with physical artificial intelligence, and will ​set up a joint development center in Silicon Valley, the Nikkei newspaper reported on Thursday. The collaboration will ‌initially focus ⁠on medical and mobility fields, with Nvidia's simulation technology ⁠to be applied to Kawasaki Heavy Industries' Corleo, a four-legged personal ​mobility robot ​under development, ​Nikkei added.
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Unlocking soft robotics control with AI's cousin: Reservoir computing](https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html)**
 
-Tech Xplore • 9h ago
+Tech Xplore • 14h ago
 
 ---
 
-**[Omaha team goes undefeated, wins world championship at 900-team robotics competition](https://omaha.com/news/local/article_9510675c-6933-4138-88f2-5996fe3b737f.html)**
+**[Moto Pizza CEO launches robotics venture to bring automation in-house](https://www.bizjournals.com/seattle/news/2026/05/21/moto-pizza-ceo-lee-kindell-robotics-stadium-launch.html)**
 
-A Nebraska robotics team just beat 900 teams from 42 countries. Brownell Talbot finished 23-0 to win the VEX world title.
-
-Omaha World-Herald • 12h ago
-
----
-
-**[Robotic ‘matter’ flows, adapts through mechanical intelligence](https://news.cornell.edu/stories/2026/05/robotic-matter-flows-adapts-through-mechanical-intelligence)**
-
-Cornell engineers have developed a robotic collective that behaves less like a machine and more like a material that flows, reshapes and adapts to its environment without centralized control.
-
-Cornell Chronicle • 2d ago
+The Business Journals • 1d ago
 
 ---
 
@@ -198,6 +198,26 @@ Robots are getting REALLY sophisticated…so why don't we all have our own perso
 
 ---
 
+**[THE JUNE REBALANCE HAS BEEN ANNOUNCED! MORE ULTIMATE NERFS! (War Robots)](https://www.youtube.com/watch?v=exyP2NAJM5I)**
+
+In this video I looked at the latest announced nerfs. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 4K • 👍 278 • 💬 212 • ⏱️ 16:42 • 8h ago
+
+---
+
+**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
+
+Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
+
+📺 Fin Tek
+
+👁️ 117K • 👍 3K • 💬 94 • ⏱️ 22:41 • 3d ago
+
+---
+
 **[Robots Now Communicate Like Ant Colonies 🐜🤖 #robotics #ai #shorts](https://www.youtube.com/watch?v=GXQ07hkfAmY)**
 
 Ant-Inspired Robots Just Learned A New Language What if robots could communicate exactly like ants? Researchers at the ...
@@ -208,23 +228,13 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
-**[Where Are They Taking These Humanoid Robots? 🤖🇱🇰](https://www.youtube.com/watch?v=t1lTSTeDQI8)**
+**[How Nature Solved Robotics](https://www.youtube.com/watch?v=S67z2aekBrI)**
 
-Humanoid robots being loaded into a bus in Colombo, Sri Lanka #srilanka #colombo #humanoidrobot #robotics.
+This video is both a story of my adventure with AI robotics and the fascinating lessons I learned along the way. Try Mammouth AI ...
 
-📺 The Walk Around The World
+📺 Art of the Problem
 
-👁️ 902 • 👍 33 • 💬 2 • ⏱️ 0:34 • 12h ago
-
----
-
-**[STILL EARLY! Top 4 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=JJPsh0CIIfA)**
-
-Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha Premium for $30 off an annual plan: ...
-
-📺 Fin Tek
-
-👁️ 112K • 👍 3K • 💬 94 • ⏱️ 22:41 • 3d ago
+👁️ 15K • 👍 1K • 💬 119 • ⏱️ 27:25 • 14h ago
 
 ---
 
@@ -242,17 +252,7 @@ The robots in this video look real. Move real. Talk real. And that's exactly wha
 
 📺 Robot Julie 
 
-👁️ 30K • 👍 113 • ⏱️ 0:24 • 2d ago
-
----
-
-**[Apple Just Started Selling $1,000 AI Home Robots in All Stores](https://www.youtube.com/watch?v=jDmOBHB-7Ik)**
-
-Apple's new AI home robots are being described as a major step toward bringing advanced robotics into everyday households on ...
-
-📺 Carros Show
-
-👁️ 7K • 👍 252 • 💬 40 • ⏱️ 23:14 • 2d ago
+👁️ 30K • 👍 113 • ⏱️ 0:24 • 3d ago
 
 ---
 
@@ -262,27 +262,27 @@ Hee, hee: Billie Jean may not have been its lover — but the floor definitely w
 
 📺 CNA
 
-👁️ 223K • 👍 2K • 💬 360 • ⏱️ 0:44 • 1d ago
+👁️ 241K • 👍 2K • 💬 384 • ⏱️ 0:44 • 1d ago
 
 ---
 
-**[Elon Musk On The Next Five Years Of AI And Robots](https://www.youtube.com/watch?v=3PTCFgmUVaE)**
+**[SO MANY BLASTCHARGE WEAPONS! 30000 KEYS BLACK MARKET OPENING! (War Robots)](https://www.youtube.com/watch?v=Y2pODrbfto8)**
 
-From the Forbes Innovator 250 Celebration at Hotel Nia—Silicon Valley, Elon Musk shares why expects a billion humanoid robots ...
+In this video I did another black market opening. https://wr.my.games/Wolfblood7.
 
-📺 Forbes
+📺 Wolfblood7
 
-👁️ 21K • 👍 307 • 💬 48 • ⏱️ 0:53 • 3d ago
+👁️ 2K • 👍 134 • 💬 34 • ⏱️ 13:39 • 20h ago
 
 ---
 
-**[World’s First COOKING Robot #kitchen #food](https://www.youtube.com/watch?v=WIdV-LyCd1g)**
+**[Apple Just Started Selling $1,000 AI Home Robots in All Stores](https://www.youtube.com/watch?v=jDmOBHB-7Ik)**
 
-This is a robot from @eatwithposha is basically a full-on private chef that can cook over 1000+ recipes in any cuisine! Linked the ...
+Apple's new AI home robots are being described as a major step toward bringing advanced robotics into everyday households on ...
 
-📺 Justice Buys
+📺 Carros Show
 
-👁️ 572K • 👍 14K • 💬 165 • ⏱️ 0:33 • 6d ago
+👁️ 7K • 👍 258 • 💬 40 • ⏱️ 23:14 • 2d ago
 
 ---
 
