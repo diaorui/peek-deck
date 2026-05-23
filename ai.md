@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T19:44:40.566460+00:00'
+updated: '2026-05-23T20:54:02.772301+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 19:44 UTC  
+**Last Updated:** May 23, 2026 at 20:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The tech giant made thousands of engineers train their AI replacements—then fired them.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 9h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 10h ago
 
 ---
 
@@ -55,7 +55,7 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 34m ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 1h ago
 
 ---
 
@@ -63,15 +63,7 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
 
-11m ago
-
----
-
-**[The musical chairs game of AI](https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/)**
-
-The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
-
-8h ago
+1h ago
 
 ---
 
@@ -79,7 +71,15 @@ The current state of AI is very similar to a big musical chairs game, which is b
 
 OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 7h ago
+
+---
+
+**[The musical chairs game of AI](https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/)**
+
+The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
+
+9h ago
 
 ---
 
@@ -91,25 +91,25 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 ---
 
-**[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
-
-🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 5h ago
-
----
-
 **[AI is changing the internet forever. Here’s how](https://www.reddit.com/r/artificial/comments/1tlffb2/ai_is_changing_the_internet_forever_heres_how/)**
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 7h ago
+🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 8h ago
 
 ---
 
-**[Auroch Thryx](https://www.reddit.com/r/artificial/comments/1tlnrid/auroch_thryx/)**
+**[I tested 200+ prompts across Gemini and Kimi — here's what actually works](https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/)**
 
-Here’s a Reddit post that starts the countdown without overexplaining the whole ecosystem. It should feel like something discovered, not a pitch deck. The countdown to Thryx begins. May 31st. I’ve been building Auroch as an AI operating layer — not another chatbot, not another productivity dashboard, not another wrapper. The idea is simple: Your systems should not sit there waiting for you to manually activate every part of them. They should wake up together. Memory. News intelligence. Artifact generation. Data discovery. System health. Tasks. Accountability. Action. All coordinated through one command surface. That command surface is Winnie: the Auroch Pearl. Thryx is the next step — the unified layer where the pieces stop feeling like separate apps and start behaving like one organism. I’m not calling this finished. I’m not pretending it’s magic. But the direction is becoming clear: One launch. Whole system awake. One place to think, create, inspect, decide, and act. May 31st is the beginning of showing what that actually looks like. The countdown to Thryx starts now. AurochThryx.com
+Most prompt packs are written for GPT-3. Gemini and Kimi respond completely differently — longer reasoning chains, different delimiter behavior, different failure modes. After running these models professionally for months I found: Gemini responds better to explicit output format constraints. Kimi loves multi-step chain-of-thought but breaks on vague persona prompts. Most "expert prompts" from Twitter don't transfer. I packaged the tested prompts that actually hold up — link in the first comment.
 
 1h ago
+
+---
+
+**[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
+
+🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 7h ago
 
 ---
 
@@ -117,55 +117,25 @@ Here’s a Reddit post that starts the countdown without overexplaining the whol
 
 ## Google News: "ai"
 
+**[White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)**
+
+The New York Times • 23h ago
+
+---
+
 **[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
 
 Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
-**[White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)**
+**[At a Sleepy Cannes, the AI Fight Created Plenty of Drama](https://www.vanityfair.com/hollywood/story/ai-cannes-2026-soderbergh-aronofsky)**
 
-The New York Times • 22h ago
+The debate over AI burned its way through the film festival, as filmmakers and talent attacked, defended, and explored the controversial tech.
 
----
-
-**[This Artificial Intelligence (AI) Stock Will Beat Nvidia, AMD, Broadcom, and Intel to Become the Biggest Winner in AI Inference](https://www.fool.com/investing/2026/05/23/this-artificial-intelligence-ai-stock-will-beat-nv/)**
-
-Arm Holdings' business model makes the stock a solid investment for those looking to capitalize on the growing demand for AI inference.
-
-The Motley Fool • 2h ago
-
----
-
-**[The AI Stock That's Been Outperforming Nvidia Since January](https://finance.yahoo.com/markets/stocks/articles/ai-stock-thats-outperforming-nvidia-125000879.html)**
-
-Nebius is well positioned to benefit from the AI infrastructure boom, and its stock has soared this year.
-
-Yahoo Finance • 6h ago
-
----
-
-**[37.4% of Berkshire Hathaway's $330 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks](https://finance.yahoo.com/markets/stocks/articles/37-4-berkshire-hathaways-330-185000603.html)**
-
-Berkshire just tripled its stake in one of its artificial intelligence holdings.
-
-Yahoo Finance • 54m ago
-
----
-
-**[Starbucks’ AI Inventory Tool Comes Up Short](https://www.inc.com/kevin-haynes/starbucks-ai-inventory-tool-comes-up-short/91349606)**
-
-The coffee company has shut down the AI program launched last year to ensure every store has all the beverage ingredients on the menu, including milk. But it lost count.
-
-inc.com • 36m ago
-
----
-
-**[Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html)**
-
-The New York Times • 4d ago
+Vanity Fair • 49m ago
 
 ---
 
@@ -173,7 +143,7 @@ The New York Times • 4d ago
 
 Oh, the places you won’t really go.
 
-The Verge • 8h ago
+The Verge • 9h ago
 
 ---
 
@@ -181,7 +151,29 @@ The Verge • 8h ago
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-CNN • 10h ago
+CNN • 11h ago
+
+---
+
+**[Sundar Pichai Understands Why People Are Anxious About A.I.](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence](https://www.yahoo.com/news/politics/articles/f-guy-graduation-speakers-keep-125456074.html)**
+
+Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
+
+Yahoo • 7h ago
+
+---
+
+**[Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)**
+
+Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
+
+Fortune • 1d ago
 
 ---
 
@@ -189,7 +181,15 @@ CNN • 10h ago
 
 Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
+
+---
+
+**[There’s Never Been a Better Time to Study Computer Science](https://www.theatlantic.com/technology/2026/05/computer-science-major-coding-ai/687279/)**
+
+Even as AI progresses, coders aren’t doomed.
+
+The Atlantic • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 636 • 💬 536 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 637 • 💬 536 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -255,7 +255,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 242 • 💬 185 • 17h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 243 • 💬 189 • 18h ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -263,7 +263,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 217 • 💬 61 • 16h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 218 • 💬 62 • 17h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -285,17 +285,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 30K • 👍 670 • 💬 153 • ⏱️ 5:06 • 15h ago
-
----
-
-**[Microsoft Can’t Afford AI. Starbucks Can’t Trust It! #ai #anthropic #openai #claude #aibubble](https://www.youtube.com/watch?v=zzNyQxHWPnM)**
-
-The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azure, uses claude inside 365 copilot, has a $30 ...
-
-📺 Mayankshah
-
-👁️ 12K • 👍 1K • 💬 27 • ⏱️ 1:42 • 5h ago
+👁️ 45K • 👍 845 • 💬 187 • ⏱️ 5:06 • 16h ago
 
 ---
 
@@ -305,17 +295,27 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 146 • ⏱️ 13:31 • 21h ago
+👁️ 27K • 👍 1K • 💬 154 • ⏱️ 13:31 • 22h ago
 
 ---
 
-**[Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)**
+**[Trump endorsements, AI &amp; nonvoter polling | Enten roundup](https://www.youtube.com/watch?v=SBXbKOwF_TQ)**
 
-Try using Emergent's specialized agents in parallel to build any full-stack application ...
+CNN chief data analyst Harry Enten runs the numbers, from President Trump's endorsement influence on primaries to opinions on ...
 
-📺 Fireship
+📺 CNN
 
-👁️ 498K • 👍 17K • 💬 968 • ⏱️ 5:44 • 1d ago
+👁️ 183K • 👍 4K • 💬 1K • ⏱️ 12:06 • 8h ago
+
+---
+
+**[Microsoft Can’t Afford AI. Starbucks Can’t Trust It! #ai #anthropic #openai #claude #aibubble](https://www.youtube.com/watch?v=zzNyQxHWPnM)**
+
+The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azure, uses claude inside 365 copilot, has a $30 ...
+
+📺 Mayankshah
+
+👁️ 34K • 👍 2K • 💬 38 • ⏱️ 1:42 • 6h ago
 
 ---
 
@@ -325,17 +325,27 @@ Get the Chinese AI Model Masterclass : https://www.skool.com/ai-profit-lab-7462/
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 51 • 💬 5 • ⏱️ 8:05 • 10h ago
+👁️ 2K • 👍 54 • 💬 5 • ⏱️ 8:05 • 11h ago
 
 ---
 
-**[The Odds: Are Americans concerned about AI replacing jobs?](https://www.youtube.com/watch?v=C4RPb3L5Ifo)**
+**[Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)**
 
-CNN's Sara Sidner and chief data analyst Harry Enten examine the evolving landscape facing college graduates as they enter the ...
+Try using Emergent's specialized agents in parallel to build any full-stack application ...
 
-📺 CNN
+📺 Fireship
 
-👁️ 61K • 👍 576 • 💬 163 • ⏱️ 4:08 • 22h ago
+👁️ 532K • 👍 18K • 💬 1K • ⏱️ 5:44 • 1d ago
+
+---
+
+**[Claude Mythos: The AI that can break the internet | DW News](https://www.youtube.com/watch?v=C3hAya6JjJ8)**
+
+A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain exploits—raising global fears over cyberattacks, ...
+
+📺 DW News
+
+👁️ 13K • 👍 261 • 💬 50 • ⏱️ 3:45 • 21h ago
 
 ---
 
@@ -345,27 +355,7 @@ Token mania. I've been a user of Proton for almost a decade and I'm grateful to 
 
 📺 Mo Bitar
 
-👁️ 167K • 👍 10K • 💬 2K • ⏱️ 11:39 • 1d ago
-
----
-
-**[Trump Mocks Stephen Colbert With AI Video After ‘Late Show’ Exit](https://www.youtube.com/watch?v=NyPBDD_D5WQ)**
-
-S President Donald Trump has sparked fresh controversy after sharing an AI-generated video targeting Stephen Colbert following ...
-
-📺 The Indian Express
-
-👁️ 7K • 👍 117 • 💬 13 • ⏱️ 0:23 • 9h ago
-
----
-
-**[💥UKRAINIAN ARMY DESTROYED PUTIN’S ELITE WITH A SINGLE STRIKE! AI TURNS AGAINST RUSSIANS| TIZENGAUZEN](https://www.youtube.com/watch?v=lfTEW2zsoVY)**
-
-Authorities in Russia's Rostov region have deployed artificial intelligence to suppress protests. An elite FSB unit was reportedly ...
-
-📺 UKRAINE TODAY
-
-👁️ 301 • 👍 93 • 💬 3 • ⏱️ 22:04 • 3h ago
+👁️ 173K • 👍 10K • 💬 2K • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -375,7 +365,17 @@ Google DeepMind CEO and co-founder Sir Demis Hassabis speaks exclusively with AB
 
 📺 ABC News
 
-👁️ 5K • 👍 191 • 💬 14 • ⏱️ 20:53 • 18h ago
+👁️ 6K • 👍 223 • 💬 24 • ⏱️ 20:53 • 19h ago
+
+---
+
+**[How To Make Facebook Ads With AI - Step by Step](https://www.youtube.com/watch?v=QZZDXd_t5Sg)**
+
+Make Your Own Facebook Ads with Arcads https://youricreates.com/facebook-ads In this video, I show how I turn a single ...
+
+📺 Youri van Hofwegen
+
+👁️ 9K • 💬 7 • ⏱️ 8:57 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 690 • 12h ago
+⬇️ 1,227 • ❤️ 698 • 13h ago
 
 ---
 
@@ -403,7 +403,7 @@ Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 
 
 `translation` `2.0B`
 
-⬇️ 2,564 • ❤️ 374 • 1d ago
+⬇️ 2,564 • ❤️ 397 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 40,368 • ❤️ 605 • 5d ago
+⬇️ 40,368 • ❤️ 611 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 `translation` `30.1B`
 
-⬇️ 970 • ❤️ 285 • 1d ago
+⬇️ 970 • ❤️ 289 • 1d ago
 
 ---
 
@@ -463,7 +463,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 78,771 • ❤️ 253 • 2d ago
+⬇️ 78,771 • ❤️ 256 • 2d ago
 
 ---
 
@@ -475,7 +475,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,286,075 • ❤️ 1,296 • 1d ago
+⬇️ 1,286,075 • ❤️ 1,301 • 1d ago
 
 ---
 
@@ -487,7 +487,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 597,584 • ❤️ 433 • 3d ago
+⬇️ 597,584 • ❤️ 434 • 3d ago
 
 ---
 
@@ -513,7 +513,7 @@ Command A+ is a 25B parameter, multilingual, vision-capable LLM optimized for ag
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 79 • 💬 3 • ⭐ 78,708 • 17mo ago
+▲ 79 • 💬 3 • ⭐ 78,881 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -555,7 +555,7 @@ SANA-Video, a small diffusion model, efficiently generates high-resolution, high
 
 Lance is a unified multimodal model that combines understanding, generation, and editing capabilities for images and videos through collaborative multi-task training and a dual-stream architecture.
 
-▲ 71 • 💬 4 • ⭐ 787 • 5d ago
+▲ 71 • 💬 4 • ⭐ 787 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18678) • [💻 code](https://github.com/bytedance/Lance) • [🔗 project](https://lance-project.github.io/)
 
@@ -569,7 +569,7 @@ Lance is a unified multimodal model that combines understanding, generation, and
 
 Mega-ASR framework improves robustness in real-world speech recognition through compound-data construction and progressive acoustic-to-semantic optimization techniques.
 
-▲ 126 • 💬 3 • ⭐ 372 • 4d ago
+▲ 126 • 💬 3 • ⭐ 372 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.19833) • [💻 code](https://github.com/xzf-thu/Mega-ASR) • [🔗 project](https://xzf-thu.github.io/Mega-ASR/)
 
@@ -600,20 +600,6 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 ---
 
-**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
-
-*Ruofeng Yang, Yongcan Li, Shuai Li*
-
-🏢 Shanghai Jiao Tong University
-
-ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
-
-▲ 120 • 💬 10 • ⭐ 10,415 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
 **[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
 
 *Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
@@ -634,9 +620,23 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
 
-▲ 108 • 💬 3 • ⭐ 1,703 • 5d ago
+▲ 108 • 💬 3 • ⭐ 1,703 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
+
+---
+
+**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
+
+*Ruofeng Yang, Yongcan Li, Shuai Li*
+
+🏢 Shanghai Jiao Tong University
+
+ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
+
+▲ 120 • 💬 10 • ⭐ 10,450 • 20d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
 ---
 
@@ -650,7 +650,7 @@ LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video gene
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.7k • 🔱 485 • 1d ago
+⭐ 4.7k • 🔱 486 • 1d ago
 
 ---
 
@@ -670,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 8h ago
+⭐ 2.6k • 🔱 179 • 9h ago
 
 ---
 
@@ -690,7 +690,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.2k • 🔱 343 • 6d ago
+⭐ 2.2k • 🔱 344 • 6d ago
 
 ---
 
@@ -712,6 +712,16 @@ AI coding jargon, explained in plain English.
 
 ---
 
+**[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**
+
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
+`CSS`
+
+⭐ 1.7k • 🔱 113 • 3d ago
+
+---
+
 **[WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)**
 
 A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。
@@ -722,23 +732,13 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 ---
 
-**[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**
+**[opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)**
 
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 
-`CSS`
+`Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.7k • 🔱 113 • 2d ago
-
----
-
-**[Open-Less/openless](https://github.com/Open-Less/openless)**
-
-Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-
-`HTML` `ai-prompt` `asr` `dictation` `llm` `macos`
-
-⭐ 1.6k • 🔱 129 • 4h ago
+⭐ 1.6k • 🔱 113 • 19h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-23T19:44:40.582225+00:00'
+updated: '2026-05-23T20:54:02.788627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 23, 2026 at 19:44 UTC  
+**Last Updated:** May 23, 2026 at 20:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,12 +36,6 @@ Robotics research and industry news
 
 Hey r/robotics, A while back, this community helped me choose the name "Arctos" for my 6-DOF robotic arm project, and it has been an incredible journey since then. Now, I’m back with a new build: a mobile manipulator base designed to carry the arm, and it needs an official name. As promised, I’ll name it after whichever community suggestion gets the most upvotes! The Specs: - Drivetrain: 4x NEMA 23 stepper motors with TMC2209 drivers - Chassis: 3D-printed modular structure reinforced with M8 threaded rods - Brain & Control: ESP32 handling low-level tasks, paired with a custom Android app - Software Ecosystem: Fully integrated into Arctos Studio. ( Will do ROS/Isaac sim integration) - Sensors: 4x ultrasonic sensors, LiDAR, and a depth camera - Scavenged Tech: Powered by reused cordless drill batteries, using an old smartphone for its IMU and RGB camera - The Goal: An ultra-accessible, heavy-duty AGV with a target build cost of ~$250 USD, capable of carrying a 25kg payload. What's Next: The physical chassis is assembled and moving. Next up is implementing full SLAM navigation, VLM (Vision-Language Model) task grounding for autonomous manipulation, and mounting the arm on top. Drop your best name ideas below! Let's see what you guys come up with this time.
 
-10h ago
-
----
-
-**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
-
 11h ago
 
 ---
@@ -50,17 +44,17 @@ Hey r/robotics, A while back, this community helped me choose the name "Arctos" 
 
 Hey everybody! My current research project is to build a swarm of affordable, 3d printed rovers that can navigate through a room and play a cooperative game. I have already looked at ArUco trackers for navigation but am now exploring Depth Anything V2. Basically I want to get the most out of the ~15$ ESP32 S3 Sense and just use the computer (with a decent graphics card) to handle the navigation part of things. The plan is now: ArUco markers around the room - global position and Orientation via solvePnP Depth View - for obstacle avoidance, maybe other rovers or people Rovers handle their own temperature and battery auto shut down Camera feeds streamed to PC via Wifi - all navigation logic runs there Some people on here recommend ROS2, and as I looked into it, it was quite overwhelming. Right now I am using a Python based Web Interface that I built. As a beginner I was curious to hear your thoughts, if this path forward could work or if I am moving towards a dead end :-X
 
-1h ago
+2h ago
+
+---
+
+**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
+
+12h ago
 
 ---
 
 **[Building (mostly) 3d-printed robot arm](https://www.reddit.com/r/robotics/comments/1tlbljh/building_mostly_3dprinted_robot_arm/)**
-
-10h ago
-
----
-
-**[Arm robot dual servos](https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/)**
 
 11h ago
 
@@ -70,7 +64,13 @@ Hey everybody! My current research project is to build a swarm of affordable, 3d
 
 Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E Hi robotics community, I’d like to share an early community update from FlashRT, my open-source realtime inference engine for embodied AI / VLA deployment. A contributor recently added an initial Pi0.5 path on Jetson AGX Orin, targeting edge robot inference instead of cloud-only execution. Current community benchmark on Jetson AGX Orin 64GB / SM87: Pi0.5 DROID INT8, 2 cameras, 27 layers, 10 diffusion steps cache_frames=1: P50: 124 ms Throughput: 8.04 Hz Cosine: 1.000 vs BF16 reference cache_frames=2: P50: 127 / 39 ms Throughput: 12.2 Hz amortized Cosine: 0.991 For comparison, the BF16 path on Orin is currently around: cache_frames=1: P50: ~216 ms Throughput: ~4.6 Hz cache_frames=2: Throughput: ~7.3 Hz This is still not “solved” robotics inference, but I think it is a meaningful step: Pi-style VLA policies are very sensitive to latency, runtime overhead, and small-batch execution, and edge deployment on Jetson is exactly where general cloud / batch-oriented inference assumptions start to break. FlashRT focuses on direct CUDA execution, fused kernels, quantization-aware inference, and CUDA Graph replay for small-batch realtime workloads. Repo: https://github.com/LiangSu8899/FlashRT Orin deployment docs: https://github.com/LiangSu8899/FlashRT/blob/main/docs/deployment_orin.md This Orin path is still early and community-driven. If you are working on robot manipulation, VLA policies, Jetson deployment, LIBERO / DROID-style policies, or real robot closed-loop testing, I’d really appreciate feedback, benchmarks, issues, and PRs. I’d especially love to see more results on different robots, camera setups, Orin SKUs, and closed-loop tasks.
 
-3h ago
+4h ago
+
+---
+
+**[Arm robot dual servos](https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/)**
+
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E 
 
 Currently building a custom quadruped robot dog and have been running it through sim in Isaac Lab. I'm curious what somewhat affordable options are out there for good IMUs that work well with either a microcontroller or directly with an Nvidia Jetson Orin Nano. Realistically im wanting to be under $500 for it, I just dont want to be dealing with a ton of bad IMU data
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Currently building a custom quadruped robot dog and have been running it through
 
 I am Willing to participate in WRO robosport catagory in double tennis. Here I need to make 2 bots, one for ramp and one for barrier. I have seen many people use lego spike prime kit but honestly these are too expensive and locally not available. So, what could i do? If i go for DIY option, then do u guys have any source or help to look for? Or if i stick to the lego spike prime kit then how could i manage it.
 
-4h ago
+5h ago
 
 ---
 
@@ -112,7 +112,7 @@ Evaluating some hand grip patterns following the https://www.eng.yale.edu/grabla
 
 The U.S. is optimizing humanoid robots for factory demos and backflips. A former NASA robotics division chief explains why adaptability — not performance — is the metric that will determine who leads global manufacturing.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -154,14 +154,6 @@ eWeek • 2d ago
 
 ---
 
-**[UK’s Humanoid partners with Bosch to mass-produce HMND robots for industries](https://interestingengineering.com/ai-robotics/uk-humanoid-bosch-industrial-robot)**
-
-Humanoid partners Bosch to scale HMND humanoid robot production after successful 2026 proof of concept trials.
-
-Interesting Engineering • 1d ago
-
----
-
 **[AI robotic beehives installed in Florida community claim 70% reduction in colony collapse threatening crops](https://www.foxnews.com/science/ai-robotic-beehives-installed-florida-community-claim-70-reduction-colony-collapse-threatening-crops)**
 
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
@@ -186,6 +178,12 @@ Omaha World-Herald • 1d ago
 
 ---
 
+**[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://www.reuters.com/world/asia-pacific/kawasaki-heavy-nvidia-plan-silicon-valley-robotics-center-nikkei-reports-2026-05-21/)**
+
+Reuters • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,17 +194,7 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 16K • 👍 245 • 💬 102 • ⏱️ 5:15 • 1d ago
-
----
-
-**[No Way… NEW Ue Murometz Is Here! Ue Titan &amp; UE Bulava Nukes War Robots](https://www.youtube.com/watch?v=tDCM5KKDnTs)**
-
-I dont think anyone expected this. New UE Murometz has arrived on the test server with ultimate bulava and listen. This test server ...
-
-📺 PREDATOR WR
-
-👁️ 5K • 👍 293 • 💬 47 • ⏱️ 15:00 • 7h ago
+👁️ 18K • 👍 269 • 💬 110 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -216,37 +204,7 @@ STOP paying hundreds of dollars a month for lawn mower services and SWITCH to th
 
 📺 Max Tech
 
-👁️ 3K • 👍 93 • 💬 10 • ⏱️ 10:08 • 1d ago
-
----
-
-**[Is There A Robot Revolution Happening? What’s Going On?](https://www.youtube.com/watch?v=w1VKIIxk0Vc)**
-
-Robots are getting REALLY sophisticated…so why don't we all have our own personal robot assistant yet? Watch here to find out ...
-
-📺 NBC News
-
-👁️ 1K • 👍 24 • ⏱️ 2:37 • 1d ago
-
----
-
-**[Robotics industry creates new &quot;calling card&quot; for China&#39;s foreign trade](https://www.youtube.com/watch?v=uti6g-C3QwI)**
-
-Humanoid robots are becoming China's new calling card to attract foreign clients. According to customs data, the country exported ...
-
-📺 ShanghaiEye魔都眼
-
-👁️ 2K • 👍 51 • 💬 2 • ⏱️ 1:40 • 9h ago
-
----
-
-**[NEW Ultimate MUROMETZ is NOT very Ultimate! [War Robots]](https://www.youtube.com/watch?v=2xkLZ-pZoOs)**
-
-War Robots Test Server Gameplay Gameplay: New ULTIMATE Murometz My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 499 • 💬 110 • ⏱️ 16:17 • 8h ago
+👁️ 4K • 👍 97 • 💬 11 • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -256,7 +214,47 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 127K • 👍 3K • 💬 100 • ⏱️ 22:41 • 3d ago
+👁️ 129K • 👍 3K • 💬 100 • ⏱️ 22:41 • 3d ago
+
+---
+
+**[No Way… NEW Ue Murometz Is Here! Ue Titan &amp; UE Bulava Nukes War Robots](https://www.youtube.com/watch?v=tDCM5KKDnTs)**
+
+I dont think anyone expected this. New UE Murometz has arrived on the test server with ultimate bulava and listen. This test server ...
+
+📺 PREDATOR WR
+
+👁️ 7K • 👍 340 • 💬 57 • ⏱️ 15:00 • 9h ago
+
+---
+
+**[NEW Ultimate MUROMETZ is NOT very Ultimate! [War Robots]](https://www.youtube.com/watch?v=2xkLZ-pZoOs)**
+
+War Robots Test Server Gameplay Gameplay: New ULTIMATE Murometz My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 594 • 💬 116 • ⏱️ 16:17 • 9h ago
+
+---
+
+**[Is There A Robot Revolution Happening? What’s Going On?](https://www.youtube.com/watch?v=w1VKIIxk0Vc)**
+
+Robots are getting REALLY sophisticated…so why don't we all have our own personal robot assistant yet? Watch here to find out ...
+
+📺 NBC News
+
+👁️ 1K • 👍 23 • ⏱️ 2:37 • 1d ago
+
+---
+
+**[full Automatic Nexi AI Robot by HD Robotics Electronics with ESP32S3 CAM](https://www.youtube.com/watch?v=vgw_dpDWoGU)**
+
+After months of development, my AI robot project Nixie has reached a huge milestone The software and coding phase is now ...
+
+📺 HD Robotics
+
+👁️ 610 • 👍 12 • ⏱️ 0:33 • 3h ago
 
 ---
 
@@ -270,21 +268,23 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
-**[Introducing Tektite Motor Snap! #ftc #robotics](https://www.youtube.com/watch?v=goUyWkmqYC4)**
+**[Robotics industry creates new &quot;calling card&quot; for China&#39;s foreign trade](https://www.youtube.com/watch?v=uti6g-C3QwI)**
 
-📺 Tektite
+Humanoid robots are becoming China's new calling card to attract foreign clients. According to customs data, the country exported ...
 
-👁️ 1K • 👍 13 • ⏱️ 0:30 • 15h ago
+📺 ShanghaiEye魔都眼
+
+👁️ 3K • 👍 61 • 💬 2 • ⏱️ 1:40 • 10h ago
 
 ---
 
-**[THE JUNE REBALANCE HAS BEEN ANNOUNCED! MORE ULTIMATE NERFS! (War Robots)](https://www.youtube.com/watch?v=exyP2NAJM5I)**
+**[Ranking The Wildest Country Robots #robots #viral #shorts](https://www.youtube.com/watch?v=cfdL_mK0qUg)**
 
-In this video I looked at the latest announced nerfs. https://wr.my.games/Wolfblood7.
+In this video, we rank different robots inspired by countries like China, Australia, Russia, the USA, and the United Kingdom.
 
-📺 Wolfblood7
+📺 The area
 
-👁️ 8K • 👍 427 • 💬 308 • ⏱️ 16:42 • 23h ago
+👁️ 86K • 👍 3K • 💬 135 • ⏱️ 0:50 • 4d ago
 
 ---
 

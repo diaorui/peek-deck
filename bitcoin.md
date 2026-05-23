@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-23T19:44:40.574087+00:00'
+updated: '2026-05-23T20:54:02.779972+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 19:44 UTC  
+**Last Updated:** May 23, 2026 at 20:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,812.36
+### $76,905.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -2.0%  
-**30d:** -2.0%  
-**90d:** +17.4%  
-**1y:** -29.6%  
+**24h:** +1.1%  
+**7d:** -0.9%  
+**30d:** -0.9%  
+**90d:** +18.7%  
+**1y:** -28.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1510.74B
+**Market Cap:** $1536.12B
 Rank #1
 
-**Circulating Supply:** 20,033,396 BTC
+**Circulating Supply:** 20,033,450 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--40.2%
+-39.2%
 
 **All-Time Low:** $67.81
-+111109.3%
++112983.6%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
 
-4h ago
-
----
-
-**[Can I swap cryptos to native Bitcoin in DeFi?](https://www.reddit.com/r/Bitcoin/comments/1tldkjl/can_i_swap_cryptos_to_native_bitcoin_in_defi/)**
-
-Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
-
-8h ago
+5h ago
 
 ---
 
@@ -97,15 +89,7 @@ Hey guys, I am looking to exit some old positions and hold BTC long term instead
 
 I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
 
-8h ago
-
----
-
-**[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
-
-Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
-
-17h ago
+9h ago
 
 ---
 
@@ -113,23 +97,15 @@ Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anx
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 2h ago
 
 ---
 
-**[Is your community working for you bags?](https://www.reddit.com/r/Bitcoin/comments/1tlpmh1/is_your_community_working_for_you_bags/)**
+**[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
 
-Bitcoiners used to be schizo-paranoid-libertarian-cypherpunks preaching in the streets about magic internet. Now they’re just gayaf suit and tie Standard&Poor boomers trying to shill you bank bonds via stablecoins. What if the most Bitcoin thing isn’t Bitcoin anymore?
+Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
 
-20m ago
-
----
-
-**[IBIT and Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlgtfh/ibit_and_bitcoin/)**
-
-Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
-
-6h ago
+18h ago
 
 ---
 
@@ -137,7 +113,39 @@ Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24B
 
 I have been holding BTC through self custody for a few years now with my cold wallet, so I'm familiar with how to set that up, securing seeds, etc. I have a very close relative that is interested in creating a BTC fund for the next generation but is most likely not a good candidate for self custody. We've so far started off very small over the last couple months but interested in making some more serious moves here soon. I am mostly responsible for setting this up and securing it, but this relative will be able to get access to seeds if something unexpected were to happen to me. I have discussed what to do in the event that this were to occur and wrote an essay explaining how to restore funds through seeds, how wallets work, what not to do with seeds, etc. I've set up a single sig wallet w/o a passphrase. I thought about the idea of getting into multisig, but after a bit of reflection I felt keeping this as simple as possible while putting more effort into securing the seeds was a much better option. Therefore, I stuck with a standard single sig wallet to avoid overcomplicating the initial setup and eventual recovery/restoration of funds once the wallet device itself becomes bricked lol. My biggest fear is somehow losing these funds because of stupidity or user error. I've devised a plan with regards to securing seed phrases by having backups and not keeping them all in one location. I'm looking for some input/advice on this. Purely looking at holding BTC for DECADES and not fooling around with Defi and other crap that you connect your wallet to
 
-56m ago
+2h ago
+
+---
+
+**[Can I swap cryptos to native Bitcoin in DeFi?](https://www.reddit.com/r/Bitcoin/comments/1tldkjl/can_i_swap_cryptos_to_native_bitcoin_in_defi/)**
+
+Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
+
+9h ago
+
+---
+
+**[IBIT and Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlgtfh/ibit_and_bitcoin/)**
+
+Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
+
+7h ago
+
+---
+
+**[Improvement Proposal for r/bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlq3vq/improvement_proposal_for_rbitcoin/)**
+
+Hey there fellow bitcoiners. As many of you, I've also noticed the abundance of AI posts in this and other subreddits, and I also hate it very much. In [r/selfhosted](r/selfhosted) they use a bot to ask the OP to describe how AI was used in the post (or the tool related to the post, to disclose if it was vibecoded) each time a new post is created. Would it useful to have that or something similar implemented here? What do you think? EDIT: fixed spelling for users who cannot handle typos emotionally
+
+1h ago
+
+---
+
+**[Is your community working for you bags?](https://www.reddit.com/r/Bitcoin/comments/1tlpmh1/is_your_community_working_for_you_bags/)**
+
+Bitcoiners used to be schizo-paranoid-libertarian-cypherpunks preaching in the streets about magic internet. Now they’re just gayaf suit and tie Standard&Poor boomers trying to shill you bank bonds via stablecoins. What if the most Bitcoin thing isn’t Bitcoin anymore?
+
+1h ago
 
 ---
 
@@ -146,14 +154,6 @@ I have been holding BTC through self custody for a few years now with my cold wa
 Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://piped.video/watch?v=F-HG87VJj_k https://youtu.be/F-HG87VJj_k
 
 1d ago
-
----
-
-**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-13h ago
 
 ---
 
@@ -177,27 +177,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Adam Back Challenges Mark Cuban’s Bitcoin Data After Billionaire Sells His Holdings](https://finance.yahoo.com/markets/crypto/articles/adam-back-challenges-mark-cuban-165114310.html)**
-
-Adam Back disputes Mark Cuban's claim that Bitcoin 'lost the plot,' pointing to BTC's 25-30% rise vs gold's 14% drop.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dives-below-75k-first-162230305.html)**
-
-Bitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.
-
-Yahoo Finance • 3h ago
-
----
-
 **[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
 
 The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
-The Block • 23h ago
+The Block • 1d ago
+
+---
+
+**[GOP lawmaker unveils bill to codify a strategic bitcoin reserve](https://www.foxbusiness.com/politics/gop-lawmaker-unveils-bill-codify-strategic-bitcoin-reserve)**
+
+Rep. Nick Begich unveils the American Reserve Modernization Act to establish a U.S. strategic bitcoin reserve within the Treasury Department with bipartisan support.
+
+Fox Business • 2d ago
+
+---
+
+**[Congressman Nick Begich Leads Legislation to Establish Strategic Bitcoin Reserve](http://begich.house.gov/media/press-releases/congressman-nick-begich-leads-legislation-establish-strategic-bitcoin-reserve)**
+
+WASHINGTON, D.C. – May 21, 2026 – Today, Congressman Nick Begich (AK-AL), alongside co-lead Congressman Jared Golden (ME-02), introduced the American Reserve Modernization Act of 2026 (ARMA), landmark bipartisan legislation to establish a Strategic Bitcoin Reserve and modernize how the United States manages digital reserve assets.
+
+House.gov • 2d ago
 
 ---
 
@@ -221,7 +221,7 @@ Forbes • 1d ago
 
 Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -233,11 +233,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context](https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b)**
+**[Mark Cuban Sells Most of His Bitcoin, Calls It a Failed Hedge](https://bitcoinmagazine.com/news/mark-cuban-sells-most-of-his-bitcoin)**
 
-The best defence may in fact be defence
+Billionaire investor Mark Cuban says he has sold most of his Bitcoin, arguing it has failed to function as a reliable hedge against fiat weakness and geopolitical risk.
 
-Financial Times • 1d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -307,7 +307,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 17h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
+⬆️ 2 • 💬 0 • 18h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -329,17 +329,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 1K • 💬 38 • ⏱️ 53:11 • 6h ago
-
----
-
-**[Michael Saylor: All Hell Just Broke Loose In Bitcoin](https://www.youtube.com/watch?v=jFkhxPT1bKE)**
-
-Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
-
-📺 Altcoin Daily
-
-👁️ 60K • 👍 2K • 💬 139 • ⏱️ 9:25 • 1d ago
+👁️ 22K • 👍 1K • 💬 38 • ⏱️ 53:11 • 7h ago
 
 ---
 
@@ -349,7 +339,17 @@ Michael Saylor, Strategy executive chairman and founder, joins 'Squawk Box' to d
 
 📺 CNBC Television
 
-👁️ 150K • 👍 2K • 💬 1K • ⏱️ 9:24 • 2d ago
+👁️ 153K • 👍 2K • 💬 1K • ⏱️ 9:24 • 2d ago
+
+---
+
+**[Michael Saylor: All Hell Just Broke Loose In Bitcoin](https://www.youtube.com/watch?v=jFkhxPT1bKE)**
+
+Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
+
+📺 Altcoin Daily
+
+👁️ 61K • 👍 2K • 💬 143 • ⏱️ 9:25 • 1d ago
 
 ---
 
@@ -359,17 +359,7 @@ Mark Cuban and Jason Calacanis both say the Bitcoin trade is over. This episode 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 191 • ⏱️ 17:39 • 21h ago
-
----
-
-**[The Debt Spiral and Why the Fed Will Try to Suppress Bitcoin and Gold](https://www.youtube.com/watch?v=myXdVRftNGg)**
-
-The Bitcoin macro story is accelerating as sovereign debt, rising bond yields, sticky inflation, and runaway deficit spending collide ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 111 • ⏱️ 17:44 • 1d ago
+👁️ 21K • 👍 1K • 💬 193 • ⏱️ 17:39 • 22h ago
 
 ---
 
@@ -379,7 +369,17 @@ FOX Business' Darren Botelho reports on the Trump administration opening the doo
 
 📺 Fox Business
 
-👁️ 29K • 👍 675 • 💬 338 • ⏱️ 2:17 • 1d ago
+👁️ 31K • 👍 709 • 💬 357 • ⏱️ 2:17 • 1d ago
+
+---
+
+**[Bitcoin Just Lost Mark Cuban - Here&#39;s Why The Billionaire Sold](https://www.youtube.com/watch?v=l-fclaPPlaE)**
+
+Bitcoin #Crypto #Finance Bitcoin is at a crossroads for Mark Cuban as he reveals he sold most of his BTC after the Iran war ...
+
+📺 The Wolf Of All Streets
+
+👁️ 26K • 👍 1K • 💬 441 • ⏱️ 23:36 • 1d ago
 
 ---
 
@@ -389,17 +389,7 @@ URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) 
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 167 • ⏱️ 13:06 • 21h ago
-
----
-
-**[SAYLOR ON THE BITCOIN BEAR MARKET (AND WHEN IT FLIPS)](https://www.youtube.com/watch?v=kX632oc4IPc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 6K • 👍 297 • 💬 37 • ⏱️ 11:58 • 1d ago
+👁️ 41K • 👍 2K • 💬 174 • ⏱️ 13:06 • 23h ago
 
 ---
 
@@ -409,17 +399,27 @@ Lawmakers are now confronting a narrowing legislative calendar as competing prio
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 242 • ⏱️ 17:55 • 1d ago
+👁️ 43K • 👍 2K • 💬 245 • ⏱️ 17:55 • 1d ago
 
 ---
 
-**[Bitcoin Is CRASHING NOW As Predicted! [WATCH ASAP]](https://www.youtube.com/watch?v=UQ7KQ54a6Fk)**
+**[The Debt Spiral and Why the Fed Will Try to Suppress Bitcoin and Gold](https://www.youtube.com/watch?v=myXdVRftNGg)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+The Bitcoin macro story is accelerating as sovereign debt, rising bond yields, sticky inflation, and runaway deficit spending collide ...
 
-📺 Crypto Kid
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 320 • 💬 59 • ⏱️ 5:29 • 10h ago
+👁️ 28K • 👍 2K • 💬 115 • ⏱️ 17:44 • 1d ago
+
+---
+
+**[CRUCIAL BITCOIN CRASH 💥 THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO?](https://www.youtube.com/watch?v=BfDGtq2hnR8)**
+
+THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with Ref Links: ✨Get $100 with ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 321 • 💬 7 • ⏱️ 10:01 • 3h ago
 
 ---
 
