@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-23T20:54:02.251828+00:00"
+          "dateModified": "2026-05-23T21:56:23.428377+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -778,6 +778,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/" target="_blank" onclick="event.stopPropagation();">The musical chairs game of AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779533786.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -828,7 +861,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -836,13 +869,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tldakl/the_musical_chairs_game_of_ai/" target="_blank" onclick="event.stopPropagation();">The musical chairs game of AI</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/" target="_blank" onclick="event.stopPropagation();">After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
+                            Going to get downvoted for this but here we go. I've been running about 30 agents in production for paying customers for the last 6 months and I'm convinced the framework debate is mostly a distraction. LangChain, CrewAI, AutoGen, OpenAI Agents SDK. Pick whichever one your team already knows. It doesn't matter as much as you think. What actually decides whether your agent works in production is something almost nobody talks about on this sub, and it isn't in the framework. Here's what I've seen kill more agents than every framework bug combined. The agent gets stuck in a loop. It calls the same tool 200 times in 4 minutes because something downstream returned ambiguous data and the LLM decided to retry forever. Your OpenAI bill goes from $3 a day to $400 in one afternoon. By the time you notice you've burned a grand. You can't even tell which agent did it because there's no audit trail. Your VPS reboots overnight for kernel patches. Every agent that was mid-task loses everything. Tomorrow morning the support agent has no memory of yesterday's tickets, the research crew has forgotten what they were investigating, the pipeline agent restarts from scratch. None of these are framework problems. They're memory and state problems. A customer complains the agent gave them wrong info three days ago. You go to debug. There's no record of what the agent saw, what it decided, or which tool calls it made. The framework didn't log that because frameworks aren't observability tools. You shrug and refund. You scaled to 15 agents working together. Two of them have conflicting beliefs about the same customer because their memory isn't shared. The customer gets two different answers in the same conversation depending on which agent replies first. You've been around enough times to realize the part you actually need isn't in the framework at all. What I think the real stack is. The framework just orchestrates LLM calls. Use whatever your team likes. It's the cheap layer. A persistent memory layer that survives crashes, restarts, and redeploys, so the agent has actual continuity. This is the layer that decides whether your agent is a toy or a product. Loop detection at the runtime layer, not bolted on as a wrapper around the framework. Something that catches your agent making the same call too many times in a row and stops it before the bill explodes. An audit trail of every decision the agent made, with a hash chain so you can prove later what happened when the customer pushes back. Screenshots and logs aren't enough when ten thousand dollars is on the line. Shared memory between agents in the same team so they're not having different conversations about the same customer. Cost tracking per agent so you actually know which one ran away with your budget. When I look at what makes the agents that survive production look different from the ones that died, it's never that they picked the right framework. It's that they had this layer underneath, either built carefully in-house or borrowed from somewhere. Full disclosure I'm building one of these tools. There are others. Mem0 and Zep and Letta in the memory space. Helicone and LangSmith in the observability space. Mix and match. Use one or build your own. Just please stop arguing about whether LangChain or CrewAI is better when the thing eating your production agents has nothing to do with either of them. What's been your worst production agent failure? Curious what other people have actually hit. I built a free tool that aims to solve most of this issue, what do you think?
                         </div>
                         
 
@@ -851,7 +884,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1779533786.0"></span>
+                                    <span data-timestamp="1779572908.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -961,39 +994,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/" target="_blank" onclick="event.stopPropagation();">I tested 200+ prompts across Gemini and Kimi — here's what actually works</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Most prompt packs are written for GPT-3. Gemini and Kimi respond completely differently — longer reasoning chains, different delimiter behavior, different failure modes. After running these models professionally for months I found: Gemini responds better to explicit output format constraints. Kimi loves multi-step chain-of-thought but breaks on vague persona prompts. Most "expert prompts" from Twitter don't transfer. I packaged the tested prompts that actually hold up — link in the first comment.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779565472.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1061,7 +1061,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-23T20:53:41.660199+00:00">Updated 2026-05-23T20:53:41.660199+00:00</small>
+        <small data-timestamp="2026-05-23T21:56:01.812399+00:00">Updated 2026-05-23T21:56:01.812399+00:00</small>
     </div>
 </div>
 
@@ -1247,43 +1247,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html" target="_blank" onclick="event.stopPropagation();">White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779485249.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/c19b2db029da17f6d488e83d5d929e1311fa37e5/568_41_8882_7102/master/8882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9267f2f9459bd6a731687f1887ef1c8');"></div>
@@ -1325,20 +1288,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.vanityfair.com/hollywood/story/ai-cannes-2026-soderbergh-aronofsky', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.vanityfair.com/photos/6a10b1424b8bff0be45eda8e/16:9/w_1280,c_limit/VF0526_Cannes-AI_Tout.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.vanityfair.com/hollywood/story/ai-cannes-2026-soderbergh-aronofsky" target="_blank" onclick="event.stopPropagation();">At a Sleepy Cannes, the AI Fight Created Plenty of Drama</a>
+                            <a href="https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/" target="_blank" onclick="event.stopPropagation();">Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The debate over AI burned its way through the film festival, as filmmakers and talent attacked, defended, and explored the controversial tech.
+                            Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
                         </div>
                         
 
@@ -1348,9 +1311,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vanityfair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Vanity Fair" class="news-favicon">
-                                    <a href="https://www.vanityfair.com" target="_blank" onclick="event.stopPropagation();">Vanity Fair</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
                                     
                                 </div>
                                 
@@ -1358,7 +1321,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779566682.0"></span>
+                                    <span data-timestamp="1779468960.0"></span>
                                 </div>
                                 
                             </div>
@@ -1366,99 +1329,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-19.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://static01.nyt.com/images/2026/05/22/arts/goldberg-thumb2/goldberg-thumb2-facebookJumbo.jpg?play-overlay');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video" target="_blank" onclick="event.stopPropagation();">Google’s new anything-to-anything AI model is wild</a>
+                            <a href="https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html" target="_blank" onclick="event.stopPropagation();">Video: Opinion | Graduating Into A.I. Pessimism</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Oh, the places you won’t really go.
+                            Backlash to artificial intelligence is here, and digital natives are leading the charge. The Opinion columnist Michelle Goldberg argues that the A.I. pessimism in America stems from a lack of responsible regulation.
                         </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779534000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://edition.cnn.com/2026/05/23/tech/ai-internet-search', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276594827.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://edition.cnn.com/2026/05/23/tech/ai-internet-search" target="_blank" onclick="event.stopPropagation();">AI is changing the internet forever. Here’s how</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://edition.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://edition.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779526808.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html" target="_blank" onclick="event.stopPropagation();">Sundar Pichai Understands Why People Are Anxious About A.I.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
                         
 
                         <!-- Metadata (source, time) -->
@@ -1477,7 +1362,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779461396.0"></span>
+                                    <span data-timestamp="1779571756.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/23/USAT/90234201007-usatsi-28954871.jpg?crop=6582,3703,x0,y0&width=3200&height=1801&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/" target="_blank" onclick="event.stopPropagation();">Here's why people are booing college commencement speakers this year</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779560700.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a1212687ff506e273e673c1?width=1200&format=jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5" target="_blank" onclick="event.stopPropagation();">Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI-written commencement speech</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779572166.0"></span>
                                 </div>
                                 
                             </div>
@@ -1526,20 +1493,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/baidu-expands-ai-agent-suite-211438436.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/6ddc1eebc0ae0570d413acd84bfde5dc');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/" target="_blank" onclick="event.stopPropagation();">Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees</a>
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/baidu-expands-ai-agent-suite-211438436.html" target="_blank" onclick="event.stopPropagation();">Baidu Expands AI Agent Suite As Investors Weigh Earnings Pressure</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
+                            Baidu (NasdaqGS:BIDU) introduced a suite of next generation AI agent products and digital human platforms at its Baidu Create 2026 developer conference. The launch includes DuMate, a general purpose AI agent, along with corporate and app editions of Miaoda, a no code coding agent. Baidu also announced the global rollout of its Baidu Yijing digital human platform and an upgraded, enterprise focused Famou Agent 2.0. Baidu operates across search, cloud, and AI services, and the latest releases...
                         </div>
                         
 
@@ -1549,9 +1516,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1559,7 +1526,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779468960.0"></span>
+                                    <span data-timestamp="1779570878.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/05/23/tech/ai-internet-search', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276594827.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/05/23/tech/ai-internet-search" target="_blank" onclick="event.stopPropagation();">AI is changing the internet forever. Here’s how</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779526808.0"></span>
                                 </div>
                                 
                             </div>
@@ -1669,7 +1677,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-23T20:53:56.170786+00:00">Updated 2026-05-23T20:53:56.170786+00:00</small>
+        <small data-timestamp="2026-05-23T21:56:19.909840+00:00">Updated 2026-05-23T21:56:19.909840+00:00</small>
     </div>
 </div>
 
@@ -1897,7 +1905,7 @@
                                     <span class="post-points">▲ 816</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 730</span>
+                                    <span style="color: #9ca3af;">💬 731</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1943,7 +1951,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 695</span>
+                                    <span class="post-points">▲ 696</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 417</span>
@@ -1992,10 +2000,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 637</span>
+                                    <span class="post-points">▲ 638</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 536</span>
+                                    <span style="color: #9ca3af;">💬 537</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2090,10 +2098,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 324</span>
+                                    <span class="post-points">▲ 325</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 305</span>
+                                    <span style="color: #9ca3af;">💬 307</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2236,7 +2244,7 @@
                                     <span class="post-points">▲ 243</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 189</span>
+                                    <span style="color: #9ca3af;">💬 190</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2310,20 +2318,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48234547', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48248775', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://www.libertas.software/public/blogs/19-large.webp');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://images.euronews.com/articles/stories/09/76/64/52/1200x675_cmsv2_6886fa64-cf51-57a6-859f-6991f60d99c4-9766452.jpg');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48234547" target="_blank" onclick="event.stopPropagation();">The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't</a>
+                            <a href="https://news.ycombinator.com/item?id=48248775" target="_blank" onclick="event.stopPropagation();">Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Organisations using AI to cut headcount are making a short-term trade with long-term consequences. The ones holding their teams together and investing in how those teams operate with AI are building something more durable.
+                            Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
                         </div>
                         
 
@@ -2331,26 +2339,26 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 201</span>
+                                    <span class="post-points">▲ 209</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 190</span>
+                                    <span style="color: #9ca3af;">💬 65</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-22T11:45:24Z"></span>
+                                    <span class="post-age" data-timestamp="2026-05-23T16:02:43Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://libertas.software/public/favicon.png" alt="" class="post-favicon">
+                                            <img src="https://www.euronews.com/apple-touch-icon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>libertas.software</span>
+                                        <span>euronews</span>
                                     </a>
                                 </div>
                                 
@@ -2379,7 +2387,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-23T20:53:45.618011+00:00">Updated 2026-05-23T20:53:45.618011+00:00</small>
+        <small data-timestamp="2026-05-23T21:56:02.907391+00:00">Updated 2026-05-23T21:56:02.907391+00:00</small>
     </div>
 </div>
 

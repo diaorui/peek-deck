@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T20:54:02.785257+00:00'
+updated: '2026-05-23T21:56:23.954816+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 20:54 UTC  
+**Last Updated:** May 23, 2026 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** +0.2%  
-**30d:** -7.8%  
-**90d:** +15.0%  
-**1y:** -15.6%  
+**24h:** +2.0%  
+**7d:** -0.7%  
+**30d:** -8.6%  
+**90d:** +13.9%  
+**1y:** -16.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-23h ago
+1d ago
 
 ---
 
@@ -168,6 +168,14 @@ The Motley Fool • 2d ago
 
 ---
 
+**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
+
+BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum Price Drop Coming? Sentiment Flips With ‘Nonstop Bearish’ Narratives](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-drop-coming-sentiment-131715051.html)**
 
 AKS Ethereum sentiment has deteriorated sharply amid price weakness. Bearish pressure intensified after Bankless founders Ryan Sean Adams and David Hoffman disclosed they had sold ...
@@ -186,7 +194,7 @@ Reuters • 1d ago
 
 As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -198,7 +206,7 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
@@ -210,7 +218,7 @@ CoinDesk • 2d ago
 
 A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -218,15 +226,7 @@ TradingView • 13h ago
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 6h ago
-
----
-
-**[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
-
-Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
-
-Decrypt • 1d ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 11K • 👍 689 • 💬 70 • ⏱️ 24:12 • 6h ago
+👁️ 11K • 👍 689 • 💬 70 • ⏱️ 24:12 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 321 • 💬 7 • ⏱️ 10:01 • 3h ago
+👁️ 3K • 👍 321 • 💬 7 • ⏱️ 10:01 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 868 • 👍 73 • 💬 5 • ⏱️ 25:04 • 4h ago
+👁️ 868 • 👍 73 • 💬 5 • ⏱️ 25:04 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 12K • 👍 412 • 💬 115 • ⏱️ 20:25 • 19h ago
+👁️ 12K • 👍 412 • 💬 115 • ⏱️ 20:25 • 20h ago
 
 ---
 
@@ -330,7 +330,7 @@ INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 263 • 💬 44 • ⏱️ 5:38 • 1d ago
+👁️ 6K • 👍 263 • 💬 44 • ⏱️ 5:38 • 2d ago
 
 ---
 

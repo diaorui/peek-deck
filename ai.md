@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T20:54:02.772301+00:00'
+updated: '2026-05-23T21:56:23.941540+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - social
 - videos
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 20:54 UTC  
+**Last Updated:** May 23, 2026 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The tech giant made thousands of engineers train their AI replacements—then fired them.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 10h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 11h ago
 
 ---
 
@@ -55,7 +55,7 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 1h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 2h ago
 
 ---
 
@@ -63,15 +63,7 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
 
-1h ago
-
----
-
-**[OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'](https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/)**
-
-OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
-
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 7h ago
+2h ago
 
 ---
 
@@ -79,7 +71,23 @@ OpenAI and Sam Altman aim to automate AI research. They are now hiring for a rol
 
 The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
 
-9h ago
+10h ago
+
+---
+
+**[OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'](https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/)**
+
+OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
+
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 8h ago
+
+---
+
+**[After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.](https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/)**
+
+Going to get downvoted for this but here we go. I've been running about 30 agents in production for paying customers for the last 6 months and I'm convinced the framework debate is mostly a distraction. LangChain, CrewAI, AutoGen, OpenAI Agents SDK. Pick whichever one your team already knows. It doesn't matter as much as you think. What actually decides whether your agent works in production is something almost nobody talks about on this sub, and it isn't in the framework. Here's what I've seen kill more agents than every framework bug combined. The agent gets stuck in a loop. It calls the same tool 200 times in 4 minutes because something downstream returned ambiguous data and the LLM decided to retry forever. Your OpenAI bill goes from $3 a day to $400 in one afternoon. By the time you notice you've burned a grand. You can't even tell which agent did it because there's no audit trail. Your VPS reboots overnight for kernel patches. Every agent that was mid-task loses everything. Tomorrow morning the support agent has no memory of yesterday's tickets, the research crew has forgotten what they were investigating, the pipeline agent restarts from scratch. None of these are framework problems. They're memory and state problems. A customer complains the agent gave them wrong info three days ago. You go to debug. There's no record of what the agent saw, what it decided, or which tool calls it made. The framework didn't log that because frameworks aren't observability tools. You shrug and refund. You scaled to 15 agents working together. Two of them have conflicting beliefs about the same customer because their memory isn't shared. The customer gets two different answers in the same conversation depending on which agent replies first. You've been around enough times to realize the part you actually need isn't in the framework at all. What I think the real stack is. The framework just orchestrates LLM calls. Use whatever your team likes. It's the cheap layer. A persistent memory layer that survives crashes, restarts, and redeploys, so the agent has actual continuity. This is the layer that decides whether your agent is a toy or a product. Loop detection at the runtime layer, not bolted on as a wrapper around the framework. Something that catches your agent making the same call too many times in a row and stops it before the bill explodes. An audit trail of every decision the agent made, with a hash chain so you can prove later what happened when the customer pushes back. Screenshots and logs aren't enough when ten thousand dollars is on the line. Shared memory between agents in the same team so they're not having different conversations about the same customer. Cost tracking per agent so you actually know which one ran away with your budget. When I look at what makes the agents that survive production look different from the ones that died, it's never that they picked the right framework. It's that they had this layer underneath, either built carefully in-house or borrowed from somewhere. Full disclosure I'm building one of these tools. There are others. Mem0 and Zep and Letta in the memory space. Helicone and LangSmith in the observability space. Mix and match. Use one or build your own. Just please stop arguing about whether LangChain or CrewAI is better when the thing eating your production agents has nothing to do with either of them. What's been your worst production agent failure? Curious what other people have actually hit. I built a free tool that aims to solve most of this issue, what do you think?
+
+7m ago
 
 ---
 
@@ -95,21 +103,13 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 8h ago
-
----
-
-**[I tested 200+ prompts across Gemini and Kimi — here's what actually works](https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/)**
-
-Most prompt packs are written for GPT-3. Gemini and Kimi respond completely differently — longer reasoning chains, different delimiter behavior, different failure modes. After running these models professionally for months I found: Gemini responds better to explicit output format constraints. Kimi loves multi-step chain-of-thought but breaks on vague persona prompts. Most "expert prompts" from Twitter don't transfer. I packaged the tested prompts that actually hold up — link in the first comment.
-
-1h ago
+🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 9h ago
 
 ---
 
 **[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
 
-🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 7h ago
+🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 8h ago
 
 ---
 
@@ -117,55 +117,11 @@ Most prompt packs are written for GPT-3. Gemini and Kimi respond completely diff
 
 ## Google News: "ai"
 
-**[White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)**
-
-The New York Times • 23h ago
-
----
-
 **[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
 
 Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
 
-The Guardian • 9h ago
-
----
-
-**[At a Sleepy Cannes, the AI Fight Created Plenty of Drama](https://www.vanityfair.com/hollywood/story/ai-cannes-2026-soderbergh-aronofsky)**
-
-The debate over AI burned its way through the film festival, as filmmakers and talent attacked, defended, and explored the controversial tech.
-
-Vanity Fair • 49m ago
-
----
-
-**[Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)**
-
-Oh, the places you won’t really go.
-
-The Verge • 9h ago
-
----
-
-**[AI is changing the internet forever. Here’s how](https://edition.cnn.com/2026/05/23/tech/ai-internet-search)**
-
-Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
-
-CNN • 11h ago
-
----
-
-**[Sundar Pichai Understands Why People Are Anxious About A.I.](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html)**
-
-The New York Times • 1d ago
-
----
-
-**[‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence](https://www.yahoo.com/news/politics/articles/f-guy-graduation-speakers-keep-125456074.html)**
-
-Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
-
-Yahoo • 7h ago
+The Guardian • 10h ago
 
 ---
 
@@ -177,11 +133,59 @@ Fortune • 1d ago
 
 ---
 
+**[Video: Opinion | Graduating Into A.I. Pessimism](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html)**
+
+Backlash to artificial intelligence is here, and digital natives are leading the charge. The Opinion columnist Michelle Goldberg argues that the A.I. pessimism in America stems from a lack of responsible regulation.
+
+The New York Times • 27m ago
+
+---
+
+**[Here's why people are booing college commencement speakers this year](https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/)**
+
+Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
+
+USA Today • 3h ago
+
+---
+
+**[Fashion designer Jeremy Scott gets a huge cheer after ripping up his AI-written commencement speech](https://www.businessinsider.com/jeremy-scott-fashion-graduation-speech-commencement-ai-student-backlash-2026-5)**
+
+Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.
+
+Business Insider • 20m ago
+
+---
+
+**[‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence](https://www.yahoo.com/news/politics/articles/f-guy-graduation-speakers-keep-125456074.html)**
+
+Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
+
+Yahoo • 9h ago
+
+---
+
+**[Baidu Expands AI Agent Suite As Investors Weigh Earnings Pressure](https://finance.yahoo.com/markets/stocks/articles/baidu-expands-ai-agent-suite-211438436.html)**
+
+Baidu (NasdaqGS:BIDU) introduced a suite of next generation AI agent products and digital human platforms at its Baidu Create 2026 developer conference. The launch includes DuMate, a general purpose AI agent, along with corporate and app editions of Miaoda, a no code coding agent. Baidu also announced the global rollout of its Baidu Yijing digital human platform and an upgraded, enterprise focused Famou Agent 2.0. Baidu operates across search, cloud, and AI services, and the latest releases...
+
+Yahoo Finance • 41m ago
+
+---
+
+**[AI is changing the internet forever. Here’s how](https://www.cnn.com/2026/05/23/tech/ai-internet-search)**
+
+Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
+
+CNN • 12h ago
+
+---
+
 **[‘It’s called winning’: Why a tech industry super PAC is running ads about ICE](https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/)**
 
 Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -189,7 +193,7 @@ The Washington Post • 4h ago
 
 Even as AI progresses, coders aren’t doomed.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -201,7 +205,7 @@ The Atlantic • 9h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 816 • 💬 730 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 816 • 💬 731 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -209,7 +213,7 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 695 • 💬 417 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 696 • 💬 417 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -217,7 +221,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 637 • 💬 536 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 638 • 💬 537 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -233,7 +237,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 324 • 💬 305 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 325 • 💬 307 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -255,7 +259,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 243 • 💬 189 • 18h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 243 • 💬 190 • 19h ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -263,15 +267,15 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 218 • 💬 62 • 17h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 218 • 💬 62 • 18h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
-**[The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://news.ycombinator.com/item?id=48234547)**
+**[Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://news.ycombinator.com/item?id=48248775)**
 
-Organisations using AI to cut headcount are making a short-term trade with long-term consequences. The ones holding their teams together and investing in how those teams operate with AI are building something more durable.
+Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 201 • 💬 190 • 1d ago • [libertas.software](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
+⬆️ 209 • 💬 65 • 5h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
@@ -285,7 +289,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 45K • 👍 845 • 💬 187 • ⏱️ 5:06 • 16h ago
+👁️ 45K • 👍 845 • 💬 187 • ⏱️ 5:06 • 18h ago
 
 ---
 
@@ -295,7 +299,7 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 27K • 👍 1K • 💬 154 • ⏱️ 13:31 • 22h ago
+👁️ 27K • 👍 1K • 💬 154 • ⏱️ 13:31 • 23h ago
 
 ---
 
@@ -305,7 +309,7 @@ CNN chief data analyst Harry Enten runs the numbers, from President Trump's endo
 
 📺 CNN
 
-👁️ 183K • 👍 4K • 💬 1K • ⏱️ 12:06 • 8h ago
+👁️ 183K • 👍 4K • 💬 1K • ⏱️ 12:06 • 9h ago
 
 ---
 
@@ -315,7 +319,7 @@ The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azu
 
 📺 Mayankshah
 
-👁️ 34K • 👍 2K • 💬 38 • ⏱️ 1:42 • 6h ago
+👁️ 34K • 👍 2K • 💬 38 • ⏱️ 1:42 • 7h ago
 
 ---
 
@@ -325,7 +329,7 @@ Get the Chinese AI Model Masterclass : https://www.skool.com/ai-profit-lab-7462/
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 54 • 💬 5 • ⏱️ 8:05 • 11h ago
+👁️ 2K • 👍 54 • 💬 5 • ⏱️ 8:05 • 12h ago
 
 ---
 
@@ -345,7 +349,7 @@ A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain expl
 
 📺 DW News
 
-👁️ 13K • 👍 261 • 💬 50 • ⏱️ 3:45 • 21h ago
+👁️ 13K • 👍 261 • 💬 50 • ⏱️ 3:45 • 22h ago
 
 ---
 
@@ -365,7 +369,7 @@ Google DeepMind CEO and co-founder Sir Demis Hassabis speaks exclusively with AB
 
 📺 ABC News
 
-👁️ 6K • 👍 223 • 💬 24 • ⏱️ 20:53 • 19h ago
+👁️ 6K • 👍 223 • 💬 24 • ⏱️ 20:53 • 20h ago
 
 ---
 
@@ -375,7 +379,7 @@ Make Your Own Facebook Ads with Arcads https://youricreates.com/facebook-ads In 
 
 📺 Youri van Hofwegen
 
-👁️ 9K • 💬 7 • ⏱️ 8:57 • 5h ago
+👁️ 9K • 💬 7 • ⏱️ 8:57 • 6h ago
 
 ---
 
@@ -391,7 +395,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 698 • 13h ago
+⬇️ 1,227 • ❤️ 698 • 14h ago
 
 ---
 
@@ -670,7 +674,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 9h ago
+⭐ 2.6k • 🔱 179 • 10h ago
 
 ---
 
@@ -738,7 +742,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.6k • 🔱 113 • 19h ago
+⭐ 1.6k • 🔱 113 • 20h ago
 
 ---
 

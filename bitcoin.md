@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-23T20:54:02.779972+00:00'
+updated: '2026-05-23T21:56:23.949414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 20:54 UTC  
+**Last Updated:** May 23, 2026 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,905.10
+### $76,722.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
+**24h:** +1.3%  
 **7d:** -0.9%  
 **30d:** -0.9%  
 **90d:** +18.7%  
@@ -81,15 +81,15 @@ Rank #1
 
 People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
 
-5h ago
+6h ago
 
 ---
 
-**[Your biggest threat in Bitcoin at 74k : is it the volatility, or is it you? Be honest](https://www.reddit.com/r/Bitcoin/comments/1tldqqx/your_biggest_threat_in_bitcoin_at_74k_is_it_the/)**
+**[Who is a very strong anti-Bitcoin debater?](https://www.reddit.com/r/Bitcoin/comments/1tlsdjz/who_is_a_very_strong_antibitcoin_debater/)**
 
-I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
+I haven’t watched too many Bitcoin debates or interviews with many people who deeply understand Bitcoin (on the anti-Bitcoin side). Other than Peter Schiff, who in my view has a very good understanding on economics, but he has so many biases working against him, and he is a bit of a Bitcoin troll. I’m looking to hear from intellectuals who have studied Bitcoin and have a strong stance against it. Any suggestions on where to point me?
 
-9h ago
+42m ago
 
 ---
 
@@ -97,15 +97,15 @@ I woke up this morning thinking we had finally left the 70k range behind — we 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 3h ago
 
 ---
 
-**[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
+**[Your biggest threat in Bitcoin at 74k : is it the volatility, or is it you? Be honest](https://www.reddit.com/r/Bitcoin/comments/1tldqqx/your_biggest_threat_in_bitcoin_at_74k_is_it_the/)**
 
-Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
+I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
 
-18h ago
+10h ago
 
 ---
 
@@ -113,7 +113,15 @@ Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anx
 
 I have been holding BTC through self custody for a few years now with my cold wallet, so I'm familiar with how to set that up, securing seeds, etc. I have a very close relative that is interested in creating a BTC fund for the next generation but is most likely not a good candidate for self custody. We've so far started off very small over the last couple months but interested in making some more serious moves here soon. I am mostly responsible for setting this up and securing it, but this relative will be able to get access to seeds if something unexpected were to happen to me. I have discussed what to do in the event that this were to occur and wrote an essay explaining how to restore funds through seeds, how wallets work, what not to do with seeds, etc. I've set up a single sig wallet w/o a passphrase. I thought about the idea of getting into multisig, but after a bit of reflection I felt keeping this as simple as possible while putting more effort into securing the seeds was a much better option. Therefore, I stuck with a standard single sig wallet to avoid overcomplicating the initial setup and eventual recovery/restoration of funds once the wallet device itself becomes bricked lol. My biggest fear is somehow losing these funds because of stupidity or user error. I've devised a plan with regards to securing seed phrases by having backups and not keeping them all in one location. I'm looking for some input/advice on this. Purely looking at holding BTC for DECADES and not fooling around with Defi and other crap that you connect your wallet to
 
-2h ago
+3h ago
+
+---
+
+**[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
+
+Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
+
+19h ago
 
 ---
 
@@ -121,7 +129,7 @@ I have been holding BTC through self custody for a few years now with my cold wa
 
 Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
 
-9h ago
+10h ago
 
 ---
 
@@ -129,7 +137,7 @@ Hey guys, I am looking to exit some old positions and hold BTC long term instead
 
 Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
 
-7h ago
+8h ago
 
 ---
 
@@ -137,23 +145,15 @@ Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24B
 
 Hey there fellow bitcoiners. As many of you, I've also noticed the abundance of AI posts in this and other subreddits, and I also hate it very much. In [r/selfhosted](r/selfhosted) they use a bot to ask the OP to describe how AI was used in the post (or the tool related to the post, to disclose if it was vibecoded) each time a new post is created. Would it useful to have that or something similar implemented here? What do you think? EDIT: fixed spelling for users who cannot handle typos emotionally
 
-1h ago
+2h ago
 
 ---
 
-**[Is your community working for you bags?](https://www.reddit.com/r/Bitcoin/comments/1tlpmh1/is_your_community_working_for_you_bags/)**
+**[Anyone used bitcoin to influence house purchase?](https://www.reddit.com/r/Bitcoin/comments/1tlmidw/anyone_used_bitcoin_to_influence_house_purchase/)**
 
-Bitcoiners used to be schizo-paranoid-libertarian-cypherpunks preaching in the streets about magic internet. Now they’re just gayaf suit and tie Standard&Poor boomers trying to shill you bank bonds via stablecoins. What if the most Bitcoin thing isn’t Bitcoin anymore?
+Not as the purchase itself. But if you’re in a bidding war with other people. Could you say for example, I’ll do x amount and 10k of bitcoin privately? Legal? Anyone done this?
 
-1h ago
-
----
-
-**[Stanford cryptographer Dan Boneh: “It's insane to say that Bitcoin will not solve the quantum problem... of course Bitcoin will survive it and of course Bitcoin will solve it.”](https://www.reddit.com/r/Bitcoin/comments/1tknunx/stanford_cryptographer_dan_boneh_its_insane_to/)**
-
-Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://piped.video/watch?v=F-HG87VJj_k https://youtu.be/F-HG87VJj_k
-
-1d ago
+4h ago
 
 ---
 
@@ -161,11 +161,9 @@ Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://pi
 
 ## Google News: "bitcoin"
 
-**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
+**[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
 
-Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
-
-CoinDesk • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -177,27 +175,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
+**[BTC/USDT](https://www.binance.com/en/trade/BTC_USDT?contentId=326365103190033)**
 
-The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
-
-The Block • 1d ago
+Binance • 18m ago
 
 ---
 
-**[GOP lawmaker unveils bill to codify a strategic bitcoin reserve](https://www.foxbusiness.com/politics/gop-lawmaker-unveils-bill-codify-strategic-bitcoin-reserve)**
+**[Bitcoin prices news: BTC heads back top $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
 
-Rep. Nick Begich unveils the American Reserve Modernization Act to establish a U.S. strategic bitcoin reserve within the Treasury Department with bipartisan support.
+"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
 
-Fox Business • 2d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Congressman Nick Begich Leads Legislation to Establish Strategic Bitcoin Reserve](http://begich.house.gov/media/press-releases/congressman-nick-begich-leads-legislation-establish-strategic-bitcoin-reserve)**
+**[Strategy (MSTR) Is Down 9.9% After Pivoting From “Never Sell” To Flexible Bitcoin Strategy](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-down-9-9-211412975.html)**
 
-WASHINGTON, D.C. – May 21, 2026 – Today, Congressman Nick Begich (AK-AL), alongside co-lead Congressman Jared Golden (ME-02), introduced the American Reserve Modernization Act of 2026 (ARMA), landmark bipartisan legislation to establish a Strategic Bitcoin Reserve and modernize how the United States manages digital reserve assets.
+In recent weeks, Strategy Inc. has accelerated its Bitcoin accumulation to 843,738 BTC, funded largely through common and preferred stock offerings, while also moving to repurchase about US$1.50 billion of convertible notes. At the same time, executive chair Michael Saylor signaled a potential shift from the company’s long-held “never sell” stance by indicating that limited Bitcoin sales could be used to optimize BTC-per-share and support dividends, reframing how investors view Strategy’s...
 
-House.gov • 2d ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -209,27 +205,27 @@ Deadline • 1d ago
 
 ---
 
-**[Elon Musk Reveals $1.4 Billion Bitcoin Price Surprise](https://www.forbes.com/sites/digital-assets/2026/05/22/elon-musk-reveals-14-billion-bitcoin-price-surprise/)**
+**[Congressman Nick Begich Leads Legislation to Establish Strategic Bitcoin Reserve](http://begich.house.gov/media/press-releases/congressman-nick-begich-leads-legislation-establish-strategic-bitcoin-reserve)**
 
-Elon Musk has revealed his rocket company SpaceX holds far more bitcoin than previously thought...
+WASHINGTON, D.C. – May 21, 2026 – Today, Congressman Nick Begich (AK-AL), alongside co-lead Congressman Jared Golden (ME-02), introduced the American Reserve Modernization Act of 2026 (ARMA), landmark bipartisan legislation to establish a Strategic Bitcoin Reserve and modernize how the United States manages digital reserve assets.
 
-Forbes • 1d ago
-
----
-
-**[F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars](https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars)**
-
-Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.
-
-CoinDesk • 1d ago
+House.gov • 2d ago
 
 ---
 
-**[SpaceX unveils $1.29B bitcoin stash in high-valuation IPO filing](https://finance.yahoo.com/video/spacex-unveils-129b-bitcoin-stash-in-high-valuation-ipo-filing-164550320.html)**
+**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
 
-Scott Melker discusses SpaceX’s (SPAX.PVT) confirmed June 12 Nasdaq (^IXIC) IPO debut and the company’s disclosure of a substantial bitcoin holding in its filing. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
-Yahoo Finance • 2d ago
+The Block • 1d ago
+
+---
+
+**[A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent](https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin)**
+
+Rep. Matt Van Epps framed the American Reserve Modernization Act of 2026 as a reflection of Nashville’s rise as a major Bitcoin hub.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -307,7 +303,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 18h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
+⬆️ 2 • 💬 0 • 19h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -329,7 +325,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 1K • 💬 38 • ⏱️ 53:11 • 7h ago
+👁️ 22K • 👍 1K • 💬 38 • ⏱️ 53:11 • 8h ago
 
 ---
 
@@ -359,7 +355,7 @@ Mark Cuban and Jason Calacanis both say the Bitcoin trade is over. This episode 
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 193 • ⏱️ 17:39 • 22h ago
+👁️ 21K • 👍 1K • 💬 193 • ⏱️ 17:39 • 23h ago
 
 ---
 
@@ -389,7 +385,7 @@ URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) 
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 174 • ⏱️ 13:06 • 23h ago
+👁️ 41K • 👍 2K • 💬 174 • ⏱️ 13:06 • 1d ago
 
 ---
 
@@ -409,7 +405,7 @@ The Bitcoin macro story is accelerating as sovereign debt, rising bond yields, s
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 115 • ⏱️ 17:44 • 1d ago
+👁️ 28K • 👍 2K • 💬 115 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -419,7 +415,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 321 • 💬 7 • ⏱️ 10:01 • 3h ago
+👁️ 3K • 👍 321 • 💬 7 • ⏱️ 10:01 • 4h ago
 
 ---
 
