@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-23T07:15:51.202493+00:00'
+updated: '2026-05-23T09:21:15.677600+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 07:15 UTC  
+**Last Updated:** May 23, 2026 at 09:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,595.68
+### $74,641.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -2.7%  
-**30d:** -2.7%  
-**90d:** +16.5%  
-**1y:** -30.1%  
+**24h:** -3.4%  
+**7d:** -3.5%  
+**30d:** -3.5%  
+**90d:** +15.5%  
+**1y:** -30.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1507.94B
+**Market Cap:** $1494.30B
 Rank #1
 
 **Circulating Supply:** 20,033,193 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--40.3%
+-40.8%
 
 **All-Time Low:** $67.81
-+110904.3%
++109901.5%
 
 ---
 
@@ -77,25 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Stanford cryptographer Dan Boneh: “It's insane to say that Bitcoin will not solve the quantum problem... of course Bitcoin will survive it and of course Bitcoin will solve it.”](https://www.reddit.com/r/Bitcoin/comments/1tknunx/stanford_cryptographer_dan_boneh_its_insane_to/)**
-
-Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://piped.video/watch?v=F-HG87VJj_k https://youtu.be/F-HG87VJj_k
-
-14h ago
-
----
-
 **[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
 
 Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
 
-5h ago
+7h ago
+
+---
+
+**[Stanford cryptographer Dan Boneh: “It's insane to say that Bitcoin will not solve the quantum problem... of course Bitcoin will survive it and of course Bitcoin will solve it.”](https://www.reddit.com/r/Bitcoin/comments/1tknunx/stanford_cryptographer_dan_boneh_its_insane_to/)**
+
+Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://piped.video/watch?v=F-HG87VJj_k https://youtu.be/F-HG87VJj_k
+
+16h ago
 
 ---
 
 **[10,000 BTC well spent. Happy Pizza Day everyone!](https://www.reddit.com/r/Bitcoin/comments/1tkmjjh/10000_btc_well_spent_happy_pizza_day_everyone/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -103,15 +103,15 @@ Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anx
 
 Been a hodler longer than any of you will believe.
 
-10h ago
+12h ago
 
 ---
 
-**[My name is Theo Chino-Tavarez. I am a Bitcoiner and I am running for Congress in the United States. Does anyone here know Will Schweitzer from Blue Vault?](https://www.reddit.com/r/Bitcoin/comments/1tkyg5e/my_name_is_theo_chinotavarez_i_am_a_bitcoiner_and/)**
+**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
 
-Hello, I received an email from Blue Vault PAC with the following message: "One of our PACs platform members recently nominated your committee, Tbc For Congress, to join our platform. I'm excited to reach out to you and share more about what that means and the next steps." As a Bitcoiner who fought the New York BitLicense in 2015 (https://newyork.abolishthebitlicense.org), I immediately replied and clicked on all the buttons to get started, but when it was time for the video conference, nobody was on the other side. I suspect that everything was automated, since the original email was sent to the email address I provided to the FEC when I registered, and that Blue Vault most likely scraped it. As a Bitcoiner, I still believe that Bitcoin is the first intangible commodity, though many clarifications still need to happen. I am fairly well known in my community and could be a viable candidate if certain things offered in the Blue Vault paper were to happen. Does anyone here know Will Schweitzer? My old username was u/theochino. Regards, Theo Chino Socialist Candidate for Congress in the NY13 Democratic Primary
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+3h ago
 
 ---
 
@@ -119,7 +119,15 @@ Hello, I received an email from Blue Vault PAC with the following message: "One 
 
 Pizza Day was a success out here in Anaheim. I want to thank everyone who came out, and of course, I want to thank u/ToxiKat27 on X for buying everyone pizza. I really appreciated the group. I also got this awesome shirt from the event! I hope everyone enjoyed their day. I will post an audio for my April Bitcoin Sports write-up; I should work on it this weekend. https://preview.redd.it/l80w694nst2h1.jpg?width=3024&format=pjpg&auto=webp&s=09e1dea614345f97fd864772b62e7e8d0b3cd2c3
 
-1h ago
+3h ago
+
+---
+
+**[My name is Theo Chino-Tavarez. I am a Bitcoiner and I am running for Congress in the United States. Does anyone here know Will Schweitzer from Blue Vault?](https://www.reddit.com/r/Bitcoin/comments/1tkyg5e/my_name_is_theo_chinotavarez_i_am_a_bitcoiner_and/)**
+
+Hello, I received an email from Blue Vault PAC with the following message: "One of our PACs platform members recently nominated your committee, Tbc For Congress, to join our platform. I'm excited to reach out to you and share more about what that means and the next steps." As a Bitcoiner who fought the New York BitLicense in 2015 (https://newyork.abolishthebitlicense.org), I immediately replied and clicked on all the buttons to get started, but when it was time for the video conference, nobody was on the other side. I suspect that everything was automated, since the original email was sent to the email address I provided to the FEC when I registered, and that Blue Vault most likely scraped it. As a Bitcoiner, I still believe that Bitcoin is the first intangible commodity, though many clarifications still need to happen. I am fairly well known in my community and could be a viable candidate if certain things offered in the Blue Vault paper were to happen. Does anyone here know Will Schweitzer? My old username was u/theochino. Regards, Theo Chino Socialist Candidate for Congress in the NY13 Democratic Primary
+
+10h ago
 
 ---
 
@@ -133,7 +141,7 @@ Pizza Day was a success out here in Anaheim. I want to thank everyone who came o
 
 Happy pizza day community!
 
-12h ago
+14h ago
 
 ---
 
@@ -141,15 +149,7 @@ Happy pizza day community!
 
 10k bitcoin roughly 770 million Papa John's market cap roughly 1.4 billion
 
-14h ago
-
----
-
-**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1h ago
+16h ago
 
 ---
 
@@ -157,11 +157,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
+**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
+
+Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
+
+CoinDesk • 22h ago
+
+---
+
 **[Billionaire Mark Cuban Sells Bitcoin As ‘Narrative Disappoints’](https://finance.yahoo.com/markets/crypto/articles/billionaire-mark-cuban-sells-bitcoin-135700221.html)**
 
 Billionaire entrepreneur and investor Mark Cuban says he has sold most of his Bitcoin (CRYPTO: $BTC) holdings after...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -181,49 +189,17 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
+**[Will One Bitcoin Ever Be Enough To Buy You a House?](https://finance.yahoo.com/markets/crypto/articles/one-bitcoin-ever-enough-buy-083215144.html)**
 
-The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
+One Bitcoin still falls short of buying a typical home outright in the US or UK. Bitcoin would need to grow substantially to buy a ...
 
-The Block • 11h ago
-
----
-
-**[GOP lawmaker unveils bill to codify a strategic bitcoin reserve](https://www.foxbusiness.com/politics/gop-lawmaker-unveils-bill-codify-strategic-bitcoin-reserve)**
-
-Rep. Nick Begich unveils the American Reserve Modernization Act to establish a U.S. strategic bitcoin reserve within the Treasury Department with bipartisan support.
-
-Fox Business • 1d ago
-
----
-
-**[A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent](https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin)**
-
-Rep. Matt Van Epps framed the American Reserve Modernization Act of 2026 as a reflection of Nashville’s rise as a major Bitcoin hub.
-
-Bitcoin Magazine • 12h ago
+Yahoo Finance • 49m ago
 
 ---
 
 **[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
 
-Bloomberg.com • 10h ago
-
----
-
-**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
-
-Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
-
-AJC.com • 22h ago
-
----
-
-**[A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context](https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b)**
-
-The best defence may in fact be defence
-
-Financial Times • 1d ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -231,7 +207,31 @@ Financial Times • 1d ago
 
 Versions of Jeff Bezos, Mark Zuckerberg, Vladimir Putin, and Eric Trump are set to feature in Doug Liman's AI-enabled crypto movie Bitcoin.
 
-Deadline • 14h ago
+Deadline • 16h ago
+
+---
+
+**[Doug Liman’s Bitcoin movie will include AI-enhanced appearances from Mark Zuckerberg, Eric Trump & more](https://www.joblo.com/bitcoin-movie-mark-zuckerberg-eric-trump/)**
+
+A number of real-life figures will appear in Doug Liman's Bitcoin movie, but they'll be enhanced with AI to look more like the real deal.
+
+JoBlo • 12h ago
+
+---
+
+**[Doug Liman’s ‘Bitcoin’ Will Have AI-Enhanced Versions of Zuckerberg, Putin, Kim Jong Un and Eric Trump](https://www.worldofreel.com/blog/2026/5/22/doug-limans-bitcoin-will-have-ai-enhanced-versions-of-zuckerberg-putin-kim-jong-un-and-eric-trump)**
+
+“Bitcoin” currently does not have U.S. distribution. Which studio will want to touch this film — Vertical Entertainment, Ketchup Entertainment, or Briarcliff Entertainment?
+
+World of Reel • 15h ago
+
+---
+
+**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
+
+Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
+
+AJC.com • 1d ago
 
 ---
 
@@ -273,7 +273,7 @@ Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own
 
 Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet of kiosks at retail locations that allow customers to purchase bitcoin with cash. Bitcoin Depot announced in a press release that its 9,700 kiosks – primarily located at gas stations and convenience stores&nbsp;– had already been taken offline.The company's bankruptcy filing reports between $10&nbsp;million and $50&nbsp;million in both assets and liabilities. In a recent financial disclosure, the company had reported a 49% year-over-year reduction in revenue and a net loss of $9.5&nbsp;million for the year. The company had also suffered a $3.67&nbsp;million hack in April.Bitcoin Depot has blamed a challenging state-level regulatory environment for its bankruptcy, pointing to a series of regulatory restrictions and outright bans on crypto ATMs, which are a major conduit for crypto scams. An FBI report on Internet crime in 2024 showed 11,000 reports of fraud involving crypto ATMs&nbsp;– a 99% increase from the prior year. Almost $250&nbsp;million was reported lost due to such scams, with a majority of it coming from victims over 60&nbsp;years old. Several states have responded by introducing laws imposing strict compliance requirements or transaction limits on ATM operators, and Indiana and Tennessee have both recently banned the kiosks entirely. Additionally, the company is defending against lawsuits from both Massachusetts and Iowa, which argue that the company uses a misleading pricing structure, knowingly enables crypto scames, and maintains a predatory refund policy.
 
-⬆️ 3 • 💬 0 • 18h ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
+⬆️ 3 • 💬 0 • 20h ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin's price has been described as following a power law (PL) in time, $P \si
 
 **[New Bitcoin Fee Pressure Signal](https://news.ycombinator.com/item?id=48215602)**
 
-Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
+Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 ⬆️ 3 • 💬 0 • 2d ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
 
@@ -295,13 +295,13 @@ Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
 
 **[Bitcoin's Price Relies on Strategy's Record Buying Under Michael Saylor](https://news.ycombinator.com/item?id=48219289)**
 
-⬆️ 2 • 💬 2 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-20/bitcoin-grows-more-dependent-on-michael-saylor-s-buying-machine)
+⬆️ 2 • 💬 2 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-20/bitcoin-grows-more-dependent-on-michael-saylor-s-buying-machine)
 
 ---
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 5h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
+⬆️ 2 • 💬 0 • 7h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -309,7 +309,7 @@ Currently low at 3 sat/vB to confirm next block. 4,034 txs queued.
 
 Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cryptocurrency has to a holiday. May 22, 2010 was the first time Bitcoin was used …
 
-⬆️ 2 • 💬 0 • 17h ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
+⬆️ 2 • 💬 0 • 19h ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
 
 ---
 
@@ -317,23 +317,23 @@ Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cry
 
 ## YouTube Videos: "bitcoin"
 
-**[Michael Saylor: All Hell Just Broke Loose In Bitcoin](https://www.youtube.com/watch?v=jFkhxPT1bKE)**
-
-Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 2K • 💬 129 • ⏱️ 9:25 • 1d ago
-
----
-
 **[Strategy&#39;s Michael Saylor: We expect bitcoin to go up more than the S&amp;P 500 over time](https://www.youtube.com/watch?v=s3A_gnN3qEs)**
 
 Michael Saylor, Strategy executive chairman and founder, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, ...
 
 📺 CNBC Television
 
-👁️ 136K • 👍 2K • 💬 1K • ⏱️ 9:24 • 1d ago
+👁️ 139K • 👍 2K • 💬 1K • ⏱️ 9:24 • 1d ago
+
+---
+
+**[Michael Saylor: All Hell Just Broke Loose In Bitcoin](https://www.youtube.com/watch?v=jFkhxPT1bKE)**
+
+Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 2K • 💬 133 • ⏱️ 9:25 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ Mark Cuban and Jason Calacanis both say the Bitcoin trade is over. This episode 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 899 • 💬 137 • ⏱️ 17:39 • 9h ago
+👁️ 16K • 👍 948 • 💬 157 • ⏱️ 17:39 • 11h ago
 
 ---
 
@@ -353,7 +353,7 @@ FOX Business' Darren Botelho reports on the Trump administration opening the doo
 
 📺 Fox Business
 
-👁️ 21K • 👍 560 • 💬 294 • ⏱️ 2:17 • 15h ago
+👁️ 23K • 👍 573 • 💬 309 • ⏱️ 2:17 • 17h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin #Crypto #Finance Bitcoin is at a crossroads for Mark Cuban as he reveals
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 1K • 💬 423 • ⏱️ 23:36 • 17h ago
+👁️ 23K • 👍 1K • 💬 428 • ⏱️ 23:36 • 19h ago
 
 ---
 
@@ -383,27 +383,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 287 • 💬 34 • ⏱️ 11:58 • 17h ago
-
----
-
-**[Arthur Hayes: The Bitcoin Liquidity Wave Is Here](https://www.youtube.com/watch?v=lXZ5U-8GJGs)**
-
-Trust the process. The money will be printed.” Arthur Hayes returns to the show to explain why he believes the Bitcoin bull market ...
-
-📺 What Bitcoin Did
-
-👁️ 9K • 👍 404 • 💬 105 • ⏱️ 56:38 • 14h ago
-
----
-
-**[Bitcoin is really like GOLD: Co-founder and CEO of Blockstream](https://www.youtube.com/watch?v=PIvn8QkYzH0)**
-
-Co-founder and CEO of Blockstream Adam Back discusses the development of Bitcoin on 'The Claman Countdown.' #fox #media ...
-
-📺 Fox Business
-
-👁️ 3K • 👍 85 • 💬 124 • ⏱️ 7:00 • 5h ago
+👁️ 6K • 👍 289 • 💬 36 • ⏱️ 11:58 • 19h ago
 
 ---
 
@@ -413,7 +393,27 @@ Lawmakers are now confronting a narrowing legislative calendar as competing prio
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 2K • 💬 223 • ⏱️ 17:55 • 11h ago
+👁️ 37K • 👍 2K • 💬 225 • ⏱️ 17:55 • 14h ago
+
+---
+
+**[Peace Talks Send Bitcoin and Markets Higher](https://www.youtube.com/watch?v=WoR6ME7swqg)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 763 • 💬 128 • ⏱️ 6:19 • 1d ago
+
+---
+
+**[Crypto Holders: &quot;Bitcoin Will EXPLODE&quot; Top 4 Altcoins!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=3izuQ0fFZeQ)**
+
+URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 13:06 • 11h ago
 
 ---
 

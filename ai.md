@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T07:15:51.194716+00:00'
+updated: '2026-05-23T09:21:15.669043+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 07:15 UTC  
+**Last Updated:** May 23, 2026 at 09:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 ---
 
-**[I wish there was a “Canva for AI training” already](https://www.reddit.com/r/artificial/comments/1tl7uxn/i_wish_there_was_a_canva_for_ai_training_already/)**
-
-Honestly one of the biggest reasons AI training still feels intimidating is because the workflow is unnecessarily painful for normal builders.You still end up dealing with random CUDA errors, dependency conflicts, broken environments, terminal commands, config files, dataset formatting, cloud GPU setup, checkpoint management, crashes, and 20 different tools stitched together just to fine tune a model. Meanwhile most people don’t actually want to become ML infrastructure engineers. They just want to train a specialized model for their own niche idea. I genuinely think there’s room for a platform where you could Upload dataset, Choose base model, Pick behavior/settings, Press train, Deploy API and That’s it. Almost like a “Canva” or “Shopify” moment for AI model training. Feels inevitable honestly. Once AI training becomes abstracted enough, the bottleneck shifts from infrastructure knowledge to creativity, data quality, and problem understanding. And I think that changes who gets to build powerful AI systems completely.
-
-1h ago
-
----
-
 **[Rethinking AI Bubble](https://www.reddit.com/r/artificial/comments/1tkb6p9/rethinking_ai_bubble/)**
 
 For those worried about the AI Bubble bursting, it's not happening, at least for now, not until atleast OpenAI and Anthropic are listed (later this year). And if you actually discount Nvidia, and check the PE of AI companies right now OpenAI (35x) and anthropic (13x), these valuations do not really seem unsustainable as of now, and not to mention unlike the DotCom bubble, they have massive data centre infrastructure, so this is all not in the air. AI is here to stay, it's already altering our lives, taking up workspaces and transforming work, there is a massive upfront cost but that does not immediately signal a bubble unfolding. If any bubble bursts, it would not be solely the AI Bubble, it would be the government bonds and the dollar bubble. Edit: I wrote the post hastily, sorry for writing Valuation/Revenue as PE.
@@ -73,7 +65,15 @@ I had a simple google search turn up the most random useless results so I asked:
 
 Most AI companions fake continuity through prompt engineering. PHI // DRIFT does something different — seven homeostatic state variables that drift between sessions and shape output before you say a word. Memory is scored by emotional salience and time decay, not just vector similarity. There's a Jungian shadow module tracking unintegrated behavioral patterns as a first-class architectural variable. Built solo in 9 months on a CPU-only mini tower. No GPU. No institution. Full preprint under review of SSRN The field ignores depth psychology as an engineering input. I think that's a mistake. github avalable if needed
 
-6h ago
+9h ago
+
+---
+
+**[I wish there was a “Canva for AI training” already](https://www.reddit.com/r/artificial/comments/1tl7uxn/i_wish_there_was_a_canva_for_ai_training_already/)**
+
+Honestly one of the biggest reasons AI training still feels intimidating is because the workflow is unnecessarily painful for normal builders.You still end up dealing with random CUDA errors, dependency conflicts, broken environments, terminal commands, config files, dataset formatting, cloud GPU setup, checkpoint management, crashes, and 20 different tools stitched together just to fine tune a model. Meanwhile most people don’t actually want to become ML infrastructure engineers. They just want to train a specialized model for their own niche idea. I genuinely think there’s room for a platform where you could Upload dataset, Choose base model, Pick behavior/settings, Press train, Deploy API and That’s it. Almost like a “Canva” or “Shopify” moment for AI model training. Feels inevitable honestly. Once AI training becomes abstracted enough, the bottleneck shifts from infrastructure knowledge to creativity, data quality, and problem understanding. And I think that changes who gets to build powerful AI systems completely.
+
+3h ago
 
 ---
 
@@ -81,31 +81,7 @@ Most AI companions fake continuity through prompt engineering. PHI // DRIFT does
 
 Late 2025, MIT researchers measured something the industry had avoided looking at directly. Not projections or pilot numbers. Documented outcomes from 300 AI deployments in real businesses, tracked against profit metrics. The funnel breaks down like this. Sixty percent of companies evaluated AI tools. Of those, twenty percent ran a pilot. Of those pilots, only 5% reached full production deployment on the service line. Ninety-five percent of AI investment dissolved before it produced a measurable outcome. The companies that made it to production had a clear pattern. They didn't ask AI to substitute for judgment. They identified bounded tasks: specific inputs, defined outputs, failure modes that were contained. They measured success criteria before deployment, not after. Content drafting. Code review. Data summarisation at volume. The 95% that didn't make it: haste, no defined success metrics, and the assumption that efficiency gains would be obvious once the tool was in the workflow. There's a line from the research worth sitting with. "We replaced X employees with AI" isn't an efficiency metric. It's a headcount metric. Those are not the same thing. Klarna is already in the reversal phase, rehiring humans after the AI efficiency numbers didn't hold up at scale. What's the clearest signal you've found for whether a deployment is actually working, before it's too late to course-correct?
 
-8h ago
-
----
-
-**[AI training is becoming the new coding revolution](https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/)**
-
-I genuinely think people are underestimating how fast AI training is becoming accessible. A few years ago training a useful model sounded like something only OpenAI, Google, or Meta could do. Now random developers are renting GPUs for a few dollars an hour, fine tuning open models from their bedrooms, building datasets with APIs, and getting surprisingly good results. The biggest shift isn’t even the models themselves, it’s the removal of gatekeeping around experimentation. Once regular people can train specialized reasoning, coding, or teaching models without billion dollar infrastructure, the AI industry changes completely. We’re slowly moving from “only corporations can build intelligence” to “small teams can build focused intelligence better than giant companies in specific niches.”
-
-21h ago
-
----
-
-**[AI Can Provide Constructive Feedback on Your Written Work. You Just Need to Understand a Little Bit of Psychology. Same Exact Thing Applies to Human Feedback](https://www.reddit.com/r/artificial/comments/1tko3tm/ai_can_provide_constructive_feedback_on_your/)**
-
-Good feedback from AI is not that different from receiving feedback from people around you. My brother and I once threw a lot of money into a proof-of-concept film because we were blinded by the encouragement and agreeableness that people around us were expressing. We weren't recognizing that they were just trying to be nice to us and not hurt our feelings. They were active screenwriters and filmmakers just like us and just like us, they would need our help when the time came. That's why all of our feedback was watered down heavily. Only one of our friends told us the truth and you know what we did? We respectively ignored the advice. Film-wise, it turned out great because the team was amazingly talented. But the story fell significantly short of what it could have been, if only we had turned our egos off for a second and insist that people give us their complete, gloves-off opinion. It's the same when engaging with AI, but actually easier to handle since you're just working with your own mental barriers instead of two. Bottom line. You just gotta come into it with the understanding that it will be a yes man. You can do prompting and that can really help if you design it well, but even then, it pales in comparison to a guy like Dov Siemen who is hilariously legendary when it comes to wrecking screenplays and bursting people's bubbles. That's honestly why I don't often ask for it's opinion. Instead, I might ask it to compare a scene to all the other movies that are out there and spot the cliches. If I ask questions with the implicit assumption that whatever I wrote is garbage, it'll riff off of that and assume with me, which causes it to focus less on justifying why my story is so great and more on what could be wrong. It's the same with people. If you simply ask for their input, they'll water it down with praise. You have to specifically instruct people to find the problems and emphasize the truth over hurting your feelings. Do the same with AI and you'll have far less problems with feedback. So, don't ask questions like, "Is this good?" or "Will people understand this?" Ask questions like, "This dialogue is terrible. How can we fix it." or "This scene feels draggy and boring. We need to find what's missing." Come into it with the assumption that your work is poor, even if it isn't. Force it to identify the problems. Otherwise, it'll suck your....Well, you know.
-
-14h ago
-
----
-
-**[Good news, I finally got some support for my 1st project, Thank you all :)](https://www.reddit.com/r/artificial/comments/1tl6dql/good_news_i_finally_got_some_support_for_my_1st/)**
-
-what a great support for me to learn more and improve...Thanks for you all :)
-
-2h ago
+10h ago
 
 ---
 
@@ -113,7 +89,31 @@ what a great support for me to learn more and improve...Thanks for you all :)
 
 People keep talking about benchmarks, censorship, refusals, personality, and “which AI is smarter,” but almost nobody talks about truthfulness in a practical way. Honestly, one thing I noticed while testing different models for coding, reasoning, and long conversations is that Claude sometimes feels less optimized to impress and more optimized to stay internally consistent. It doesn’t always give the fastest or most hyped answer, but there are moments where it genuinely feels like it’s trying to preserve logical honesty instead of just sounding confident. A lot of models today are insanely good at presentation, tone, and making the user feel satisfied, but that creates a weird problem where sounding intelligent can become more important than actually being correct. The scary part is that as AI gets more human-like, most people probably won’t even notice the difference between confidence and truth anymore. I think in the next few years the real competition won’t just be intelligence, it’ll be which model people trust when the answer actually matters.
 
-21h ago
+23h ago
+
+---
+
+**[AI training is becoming the new coding revolution](https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/)**
+
+I genuinely think people are underestimating how fast AI training is becoming accessible. A few years ago training a useful model sounded like something only OpenAI, Google, or Meta could do. Now random developers are renting GPUs for a few dollars an hour, fine tuning open models from their bedrooms, building datasets with APIs, and getting surprisingly good results. The biggest shift isn’t even the models themselves, it’s the removal of gatekeeping around experimentation. Once regular people can train specialized reasoning, coding, or teaching models without billion dollar infrastructure, the AI industry changes completely. We’re slowly moving from “only corporations can build intelligence” to “small teams can build focused intelligence better than giant companies in specific niches.”
+
+23h ago
+
+---
+
+**[AI Can Provide Constructive Feedback on Your Written Work. You Just Need to Understand a Little Bit of Psychology. Same Exact Thing Applies to Human Feedback](https://www.reddit.com/r/artificial/comments/1tko3tm/ai_can_provide_constructive_feedback_on_your/)**
+
+Good feedback from AI is not that different from receiving feedback from people around you. My brother and I once threw a lot of money into a proof-of-concept film because we were blinded by the encouragement and agreeableness that people around us were expressing. We weren't recognizing that they were just trying to be nice to us and not hurt our feelings. They were active screenwriters and filmmakers just like us and just like us, they would need our help when the time came. That's why all of our feedback was watered down heavily. Only one of our friends told us the truth and you know what we did? We respectively ignored the advice. Film-wise, it turned out great because the team was amazingly talented. But the story fell significantly short of what it could have been, if only we had turned our egos off for a second and insist that people give us their complete, gloves-off opinion. It's the same when engaging with AI, but actually easier to handle since you're just working with your own mental barriers instead of two. Bottom line. You just gotta come into it with the understanding that it will be a yes man. You can do prompting and that can really help if you design it well, but even then, it pales in comparison to a guy like Dov Siemen who is hilariously legendary when it comes to wrecking screenplays and bursting people's bubbles. That's honestly why I don't often ask for it's opinion. Instead, I might ask it to compare a scene to all the other movies that are out there and spot the cliches. If I ask questions with the implicit assumption that whatever I wrote is garbage, it'll riff off of that and assume with me, which causes it to focus less on justifying why my story is so great and more on what could be wrong. It's the same with people. If you simply ask for their input, they'll water it down with praise. You have to specifically instruct people to find the problems and emphasize the truth over hurting your feelings. Do the same with AI and you'll have far less problems with feedback. So, don't ask questions like, "Is this good?" or "Will people understand this?" Ask questions like, "This dialogue is terrible. How can we fix it." or "This scene feels draggy and boring. We need to find what's missing." Come into it with the assumption that your work is poor, even if it isn't. Force it to identify the problems. Otherwise, it'll suck your....Well, you know.
+
+16h ago
+
+---
+
+**[Good news, I finally got some support for my 1st project, Thank you all :)](https://www.reddit.com/r/artificial/comments/1tl6dql/good_news_i_finally_got_some_support_for_my_1st/)**
+
+what a great support for me to learn more and improve...Thanks for you all :)
+
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ People keep talking about benchmarks, censorship, refusals, personality, and “
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
@@ -133,63 +133,65 @@ Fortune • 14h ago
 
 Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
-**[Marwell Zoo and University of Surrey launch AI camera project](https://www.bbc.com/news/articles/clypnll9752o)**
+**[Dell Stock Surges Ahead Of AI-Driven Fiscal Q1 Report](https://www.investors.com/news/technology/dell-stock-surges-ai-driven-fiscal-q1-report/)**
 
-Scientists from the University of Surrey are working with Marwell Zoo in Hampshire on the project.
+Investor's Business Daily • 12h ago
 
-BBC • 1h ago
+---
+
+**[AMD (AMD) Announces $10B Investment in Taiwan AI Infrastructure](https://finance.yahoo.com/sectors/technology/articles/amd-amd-announces-10b-investment-201026402.html)**
+
+Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the best multibagger stocks to buy in 2026. On May 21, Advanced Micro Devices announced a strategic investment of over $10 billion across the Taiwan ecosystem to scale advanced packaging manufacturing and expand partnerships for next-generation AI infrastructure. The initiative focuses on delivering high-performance, energy-efficient solutions to […]
+
+Yahoo Finance • 13h ago
+
+---
+
+**[AI is changing the internet forever. Here’s how](https://www.cnn.com/2026/05/23/tech/ai-internet-search?utm_source=business_ribbon)**
+
+Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
+
+CNN • 21m ago
+
+---
+
+**[SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom](https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12)**
+
+Elon Musk, Sam Altman and Dario Amodei battle over who can command Wall Street’s deepest pools of capital
+
+Financial Times • 1h ago
+
+---
+
+**[Wall Street executive gets leadership advice from a digital twin she built with AI](https://www.businessinsider.com/bny-executive-uses-ai-digital-twin-as-coach-2026-5)**
+
+A BNY executive says her AI double helped her deliver a funny impromptu speech at a networking dinner.
+
+Business Insider • 9m ago
+
+---
+
+**[AI used to fake evidence that ended Korean actor's career, say police](https://www.bbc.com/news/articles/c0r2j18k2vxo)**
+
+Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.
+
+BBC • 22h ago
 
 ---
 
 **[Opinion | A.I. Is a Job Creator](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)**
 
-The New York Times • 16h ago
-
----
-
-**[Ask AI or just Google it? Google makes a big change to a little search box](https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai)**
-
-The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.
-
-NPR • 12h ago
-
----
-
-**[A new generation of ads for the AI era of Search](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)**
-
-Google is introducing new ad formats built with Gemini in Search and expanding the Direct Offers pilot for shoppers.
-
-blog.google • 2d ago
-
----
-
-**[You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)**
-
-After Google Search's AI update, the word "disregard" now effectively breaks the search interface.
-
-TechCrunch • 14h ago
+The New York Times • 18h ago
 
 ---
 
 **[The AI Superstars Who Say a ‘Vibe Slop’ Crisis Is Coming](https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394)**
 
-WSJ • 21h ago
-
----
-
-**[Read Trump's unsigned AI executive order](https://www.politico.com/news/2026/05/22/heres-a-draft-of-trumps-unsigned-ai-executive-order-00933411)**
-
-Politico • 15h ago
-
----
-
-**[Read the AI executive order thwarted by Trump tech allies](https://www.axios.com/2026/05/22/ai-executive-order-cancelled-white-house)**
-
-Axios • 15h ago
+WSJ • 23h ago
 
 ---
 
@@ -201,7 +203,7 @@ Axios • 15h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 810 • 💬 720 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 811 • 💬 720 • 1d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -209,7 +211,7 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 680 • 💬 415 • 1d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 682 • 💬 416 • 1d ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -217,7 +219,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 620 • 💬 509 • 22h ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 625 • 💬 514 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -233,7 +235,7 @@ Arizona students reject ex-Google exec's positive words on AI
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 367 • 💬 534 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 367 • 💬 536 • 1d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 
 ---
 
@@ -249,7 +251,7 @@ A BBC investigation revealed a simple way to get AI chatbots to spit out misinfo
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 303 • 💬 285 • 17h ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 307 • 💬 288 • 19h ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -257,7 +259,7 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
 
-⬆️ 258 • 💬 193 • 2d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+⬆️ 258 • 💬 194 • 2d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
 
 ---
 
@@ -271,7 +273,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 210 • 💬 156 • 5h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 216 • 💬 160 • 7h ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -285,7 +287,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 4K • 👍 157 • 💬 39 • ⏱️ 5:06 • 3h ago
+👁️ 7K • 👍 221 • 💬 55 • ⏱️ 5:06 • 5h ago
 
 ---
 
@@ -295,17 +297,7 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 16K • 👍 936 • 💬 103 • ⏱️ 13:31 • 8h ago
-
----
-
-**[Companies Put AI In Charge. Now They’re Paying For It](https://www.youtube.com/watch?v=Jbh8QteVM5g)**
-
-Support the channel on Ko-fi: ➡️ https://ko-fi.com/houseofel 00:00 Introduction 01:11 Disclaimer 01:34 Pizza Hut Shooting Itself ...
-
-📺 House of El - AI
-
-👁️ 41K • 👍 4K • 💬 986 • ⏱️ 18:44 • 19h ago
+👁️ 19K • 👍 1K • 💬 111 • ⏱️ 13:31 • 10h ago
 
 ---
 
@@ -315,7 +307,7 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 358K • 👍 13K • 💬 795 • ⏱️ 5:44 • 14h ago
+👁️ 395K • 👍 14K • 💬 839 • ⏱️ 5:44 • 16h ago
 
 ---
 
@@ -325,7 +317,7 @@ Token mania. I've been a user of Proton for almost a decade and I'm grateful to 
 
 📺 Mo Bitar
 
-👁️ 137K • 👍 9K • 💬 1K • ⏱️ 11:39 • 16h ago
+👁️ 144K • 👍 9K • 💬 1K • ⏱️ 11:39 • 18h ago
 
 ---
 
@@ -335,7 +327,7 @@ Anthropic delivered one of the most consequential weeks any AI lab has had yet: 
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 11K • 👍 265 • 💬 26 • ⏱️ 21:56 • 1d ago
+👁️ 11K • 👍 267 • 💬 26 • ⏱️ 21:56 • 1d ago
 
 ---
 
@@ -345,17 +337,7 @@ Just say yes! https://x.com/@atmoio https://x.com/jasonscheer/status/20557484017
 
 📺 Mo Bitar
 
-👁️ 210K • 👍 10K • 💬 2K • ⏱️ 6:42 • 2d ago
-
----
-
-**[Google just killed the internet with AI, it&#39;s coming for YouTube next...](https://www.youtube.com/watch?v=St47XfAF_nE)**
-
-SOURCES https://x.com/samsheffer/status/2056820022144905380?s=46 ...
-
-📺 Stylosa
-
-👁️ 16K • 👍 951 • 💬 501 • ⏱️ 17:25 • 2d ago
+👁️ 211K • 👍 10K • 💬 2K • ⏱️ 6:42 • 2d ago
 
 ---
 
@@ -365,7 +347,7 @@ Google I/O 2026 dropped Gemini Omni, a world-model that simulates physics, edits
 
 📺 AI For Humans
 
-👁️ 13K • 👍 628 • 💬 117 • ⏱️ 27:58 • 2d ago
+👁️ 13K • 👍 630 • 💬 118 • ⏱️ 27:58 • 2d ago
 
 ---
 
@@ -375,7 +357,27 @@ A recent opinion piece in The New York Times spotlighted the impact of artificia
 
 📺 CBS News
 
-👁️ 104K • 👍 1K • 💬 318 • ⏱️ 4:55 • 1d ago
+👁️ 106K • 👍 1K • 💬 320 • ⏱️ 4:55 • 1d ago
+
+---
+
+**[I’m done with the AI hype](https://www.youtube.com/watch?v=H9KeR9i3iMk)**
+
+Build software that lasts. Join the Software Design Mastery waiting list → https://arjan.codes/mastery. I'm done with the AI hype.
+
+📺 ArjanCodes
+
+👁️ 44K • 👍 3K • 💬 209 • ⏱️ 8:44 • 18h ago
+
+---
+
+**[The Odds: Are Americans concerned about AI replacing jobs?](https://www.youtube.com/watch?v=C4RPb3L5Ifo)**
+
+CNN's Sara Sidner and chief data analyst Harry Enten examine the evolving landscape facing college graduates as they enter the ...
+
+📺 CNN
+
+👁️ 53K • 👍 523 • 💬 144 • ⏱️ 4:08 • 12h ago
 
 ---
 
@@ -387,11 +389,11 @@ A recent opinion piece in The New York Times spotlighted the impact of artificia
 
 *bytedance-research*
 
-Lance is a unified multimodal model (3B parameters) supporting image/video understanding, generation, and editing, trained from scratch with a multi-task synergy approach.
+Lance is a unified multimodal model supporting image/video understanding, generation, and editing with a 3B parameter architecture. It excels in text-to-video, video editing, and multi-turn consistency editing tasks.
 
 `any-to-any`
 
-⬇️ 1,001 • ❤️ 658 • 14h ago
+⬇️ 1,227 • ❤️ 662 • 1h ago
 
 ---
 
@@ -399,23 +401,11 @@ Lance is a unified multimodal model (3B parameters) supporting image/video under
 
 *Supertone*
 
-Supertonic 3 is a fast, on-device, multilingual text-to-speech model supporting 31 languages with ONNX Runtime for local inference. It offers high accuracy, low latency, and a compact size, suitable for applications requiring efficient, cloud-independent speech synthesis.
+Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 languages with improved stability and speaker similarity. It enables local, cloud-free speech synthesis for applications requiring real-time voice generation.
 
 `text-to-speech`
 
-⬇️ 37,545 • ❤️ 588 • 4d ago
-
----
-
-**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
-
-*OpenBMB*
-
-MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deployment, excelling in image and video understanding with mixed visual token compression. It offers strong multimodal capabilities comparable to larger models while achieving superior computational efficiency and broad mobile platform support.
-
-`image-text-to-text` `1.3B`
-
-⬇️ 221,612 • ❤️ 907 • 3d ago
+⬇️ 40,368 • ❤️ 590 • 5d ago
 
 ---
 
@@ -423,11 +413,21 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for edge deploy
 
 *Tencent*
 
-Hy-MT2-1.8B is a fast, multilingual translation model supporting 33 languages, optimized for on-device deployment with 1.25-bit quantization (440MB storage, 1.5x speedup). It excels in general, business, and instruction-following translation tasks, outperforming mainstream commercial APIs.
-
 `translation` `2.0B`
 
-⬇️ 564 • ❤️ 285 • 1d ago
+⬇️ 2,564 • ❤️ 295 • 1d ago
+
+---
+
+**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
+
+*OpenBMB*
+
+MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device image and video understanding, offering strong foundation and multimodal capabilities with mixed visual token compression for flexible speed/accuracy trade-offs.
+
+`image-text-to-text` `1.3B`
+
+⬇️ 247,170 • ❤️ 907 • 3d ago
 
 ---
 
@@ -435,11 +435,11 @@ Hy-MT2-1.8B is a fast, multilingual translation model supporting 33 languages, o
 
 *Tencent*
 
-Hy-MT2-30B-A3B is a large-scale, "fast-thinking" Mixture-of-Experts (MoE) translation model supporting 33 languages. It excels in general, business, domain-specific, and instruction-following translation tasks, outperforming leading open-source models and commercial APIs.
+Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation model supporting 33 languages. It excels in general, business, and instruction-following translation tasks, outperforming leading open-source models and commercial APIs.
 
 `translation` `30.1B`
 
-⬇️ 224 • ❤️ 270 • 1d ago
+⬇️ 970 • ❤️ 276 • 1d ago
 
 ---
 
@@ -447,11 +447,11 @@ Hy-MT2-30B-A3B is a large-scale, "fast-thinking" Mixture-of-Experts (MoE) transl
 
 *Nemo Station*
 
-Marlin-2B is a compact 2B parameter Video-Language Model (VLM) optimized for extracting structured information from videos. It excels at generating dense scene+event captions with precise timestamps and resolving natural language queries to specific temporal spans within videos, making it ideal for applications requiring detailed video understanding and temporal grounding.
+Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting structured information from videos. It excels at dense video captioning and natural-language temporal grounding, providing second-precise timestamps for events and resolving queries to specific video spans, making it ideal for efficient video analysis and retrieval on consumer hardware.
 
 `video-text-to-text` `2.2B`
 
-⬇️ 4,002 • ❤️ 254 • 2d ago
+⬇️ 5,283 • ❤️ 256 • 3d ago
 
 ---
 
@@ -459,11 +459,11 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) optimized for ext
 
 *Sapient AI*
 
-HRM-Text-1B is a 1B-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, featuring dual-timescale Transformer modules for unbounded compute depth. It excels at NLP tasks like classification and extraction using few-shot prompting, and can perform reasoning/math with a 'synth,cot' composite condition, though it is a pre-alignment model not suited for direct chat use.
+HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning Model (HRM) architecture for enhanced compute depth. It excels at NLP tasks like classification and extraction using few-shot prompting, and can perform reasoning tasks with a 'synth,cot' prefix, though it's a pre-alignment model not a chat assistant.
 
 `text-generation` `1.2B`
 
-⬇️ 72,470 • ❤️ 246 • 2d ago
+⬇️ 78,771 • ❤️ 248 • 2d ago
 
 ---
 
@@ -471,11 +471,11 @@ HRM-Text-1B is a 1B-parameter language model based on the Hierarchical Reasoning
 
 *Sulphur*
 
-Sulphur-2-base is an uncensored text-to-video and image-to-video generation model based on LTX 2.3, supporting various LTX 2.3 formats and featuring a prompt enhancer for improved results.
+Sulphur-2-base is an uncensored text-to-video and image-to-video generation model based on LTX 2.3, featuring a prompt enhancer for improved input processing and supporting various LTX 2.3 formats.
 
 `text-to-video` `9.0B`
 
-⬇️ 1,249,582 • ❤️ 1,279 • 1d ago
+⬇️ 1,286,075 • ❤️ 1,280 • 1d ago
 
 ---
 
@@ -483,11 +483,11 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 *Unsloth AI*
 
-Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for efficient inference with MTP speculative decoding, supporting up to 1M+ token context. It excels at agentic coding, reasoning, and tool-calling, making it suitable for complex development workflows and iterative coding tasks.
+Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabilities, optimized for faster inference via MTP. It excels at agentic coding, reasoning, and handling extended contexts up to 1M tokens, making it suitable for complex development workflows and iterative tasks.
 
 `image-text-to-text` `27.3B`
 
-⬇️ 532,255 • ❤️ 417 • 2d ago
+⬇️ 597,584 • ❤️ 422 • 3d ago
 
 ---
 
@@ -495,11 +495,9 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter vision-language model optimized for effi
 
 *Unsloth AI*
 
-Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for efficient inference via MTP speculative decoding, supporting agentic coding and long context lengths up to 1M tokens.
-
 `image-text-to-text` `35.5B`
 
-⬇️ 466,060 • ❤️ 336 • 2d ago
+⬇️ 507,644 • ❤️ 337 • 3d ago
 
 ---
 
@@ -513,7 +511,7 @@ Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter vision-language model optimized for 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 79 • 💬 3 • ⭐ 78,594 • 17mo ago
+▲ 79 • 💬 3 • ⭐ 78,708 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -569,7 +567,7 @@ SANA-Video, a small diffusion model, efficiently generates high-resolution, high
 
 Mega-ASR framework improves robustness in real-world speech recognition through compound-data construction and progressive acoustic-to-semantic optimization techniques.
 
-▲ 126 • 💬 2 • ⭐ 319 • 4d ago
+▲ 126 • 💬 3 • ⭐ 319 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.19833) • [💻 code](https://github.com/xzf-thu/Mega-ASR) • [🔗 project](https://xzf-thu.github.io/Mega-ASR/)
 
@@ -648,7 +646,7 @@ Latent-to-Pixel transfer paradigm efficiently leverages pre-trained latent diffu
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.6k • 🔱 480 • 1d ago
+⭐ 4.6k • 🔱 481 • 1d ago
 
 ---
 
@@ -668,7 +666,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 175 • 8h ago
+⭐ 2.6k • 🔱 177 • 10h ago
 
 ---
 
@@ -688,7 +686,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.2k • 🔱 340 • 5d ago
+⭐ 2.2k • 🔱 341 • 5d ago
 
 ---
 
@@ -696,7 +694,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 1.9k • 🔱 419 • 2d ago
+⭐ 1.9k • 🔱 420 • 2d ago
 
 ---
 
@@ -716,7 +714,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.7k • 🔱 182 • 2d ago
+⭐ 1.7k • 🔱 183 • 2d ago
 
 ---
 
@@ -726,7 +724,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 1.6k • 🔱 110 • 2d ago
+⭐ 1.6k • 🔱 109 • 2d ago
 
 ---
 
@@ -736,7 +734,7 @@ Hold a key, speak, release — AI-polished text appears at your cursor in any ap
 
 `HTML` `ai-prompt` `asr` `dictation` `llm` `macos`
 
-⭐ 1.5k • 🔱 129 • 6h ago
+⭐ 1.5k • 🔱 129 • 8h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-23T07:15:51.210644+00:00'
+updated: '2026-05-23T09:21:15.686798+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 23, 2026 at 07:15 UTC  
+**Last Updated:** May 23, 2026 at 09:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,21 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
+
+1h ago
+
+---
+
+**[Arm robot dual servos](https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/)**
+
+1h ago
+
+---
+
 **[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -42,7 +54,7 @@ Robotics research and industry news
 
 Evaluating some hand grip patterns following the https://www.eng.yale.edu/grablab/pubs/Feix_THMS2016.pdf paper. I didn't do all of them because I'm lazy and some of them are pretty similar. But I'm confident my hand can achieve all of them EXCEPT the disks grips and the inferior pinch since I lack independent intermediate phalanx actuation. I chose some random objects I could find lying around that fit each grip type to see how well the hand could actually hold real household items. Overall, I think it was quite successful, what do you think?
 
-19h ago
+21h ago
 
 ---
 
@@ -50,7 +62,7 @@ Evaluating some hand grip patterns following the https://www.eng.yale.edu/grabla
 
 Just came across this video of our low latency teleop software (Adamo in case anyone is interested) being used to teleoperate a robot from San Francisco to London. We built it using a custom protocol rather than webrtc so that it is a lot smoother, with less buffer than standard teleop software solutions. Please don't bash me for posting teleop content, I know some of you hate it haha, but it will get us to full autonomy dw!
 
-17h ago
+19h ago
 
 ---
 
@@ -58,13 +70,13 @@ Just came across this video of our low latency teleop software (Adamo in case an
 
 ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read the full release notes here, and snag your swag here!  You can read our full release announcement here.  Big thanks to all of our contributors, maintainers, testers, build farmers, OSRA members, and especially our ROS Boss @sloretz, and our infra lead @cottsay.  We’re going to take a long weekend break and get right back to it working on ROS 2 Makoa Mata-Mata! 🏄‍♀️             The ROS events calendar is...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 14h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 16h ago
 
 ---
 
 **[How to wake up this battery](https://www.reddit.com/r/robotics/comments/1tkvj9a/how_to_wake_up_this_battery/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +92,7 @@ The real robot airsoft battles will be integrated with virtual battles seamlessl
 
 Hey r/robotics, I’ve been working on an open-source middleware layer called runtime_integrity(formerly ros2_kinematic_guard). The problem I’m focusing on is runtime accountability for mobile robots. A robot can still be receiving valid commands while its physical execution has already diverged. Examples: wheel slip on wet or oily floors localization jumps stale or bursty velocity commands odometry mismatch command stream and physical motion going out of sync runtime_integrity sits between the autonomy stack and the base driver: /cmd_vel ↓ runtime_integrity ↓ /safe_cmd_vel It also watches odometry and emits structured runtime evidence when command and physical execution diverge. Example event: { "status": "RESYNCING", "dominantCause": "WHEEL_SLIP", "residual": 5.39, "guardAction": "BRAKE_AND_RESYNC", "interventionRequired": true, "complianceTags": ["human_oversight", "execution_integrity_audit"] } Why I think this matters now: As EU AI Act logging and human-oversight requirements approach for high-risk AI systems, robot vendors and integrators will need better runtime evidence than “something happened in a rosbag”. This package does not claim to make a robot compliant, and it does not replace safety PLCs, safety scanners, or hardware E-stops. The goal is narrower: planner commanded X robot physically behaved like Y runtime_integrity detected the mismatch a structured event explains why The repo includes a 5-minute ROS 2 demo using a lightweight mock AMR/AGV. No Gazebo, Isaac Sim, or real robot required. GitHub: https://github.com/ZC502/runtime_integrity.git I’d be interested in feedback from anyone working on AMRs/AGVs, safety logging, FMS/HMI systems, or post-incident debugging.
 
-15h ago
+17h ago
 
 ---
 
@@ -92,39 +104,9 @@ Meet XHand ✋ — precision, dexterity, and adaptability for real-world tasks. 
 
 ---
 
-**[My color classification robot arm (repurpose tofu frying robot)](https://www.reddit.com/r/robotics/comments/1tjt0e0/my_color_classification_robot_arm_repurpose_tofu/)**
-
-1d ago
-
----
-
-**[Battling severe voltage sag on a 48V AMR under peak torque. How do you stop your servo drives from throttling?](https://www.reddit.com/r/robotics/comments/1tjw9hg/battling_severe_voltage_sag_on_a_48v_amr_under/)**
-
-Hey everyone, looking for a sanity check on a heavy-payload AMR project (~700kg payload) running on a 48V LiFePO4 pack. Whenever the robot hits rough terrain or accelerates suddenly, the transient current draw causes our battery bus to sag hard, dipping down to 35V-36V for a few hundred milliseconds. Our current "industrial-grade" servo drives are losing their minds under this sag. We are hitting under-voltage faults that trigger random emergency stops, massive thermal spikes inside our sealed IP65 wheel hubs as the drives draw more current to compensate, and mushy velocity control right when we need tight torque response. We’ve debated adding a bulky buck-boost regulator just to keep the drive logic stable, but it kills our payload-to-weight ratio. For those building battery-powered platforms that survive high-torque transients, are you over-specifying the battery pack to stop the sag, or switching to drives with ultra-wide input voltage ranges? Also, how do you handle the thermal overhead in a sealed housing? Do GaN-based or ultra-high-efficiency drives actually solve the heat issue at the source? Trying to avoid a massive chassis redesign just to fit a bulkier cooling system. Any advice?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[August Robotics lands $30M to automate precision construction with robots](https://siliconangle.com/2026/05/21/august-robotics-lands-30m-automate-precision-construction-robots/)**
-
-August Robotics lands $30M to automate precision construction with robots - SiliconANGLE
-
-SiliconANGLE • 1d ago
-
----
-
-**[Will Robotics Have a ChatGPT Moment?](https://spectrum.ieee.org/robotics-ai-breakthrough)**
-
-A single breakthrough AI moment in robotics may not be the answer
-
-IEEE Spectrum • 2d ago
-
----
 
 **[Are Humanoid Robots the End of Human Work?](https://nautil.us/are-humanoid-robots-the-end-of-human-work-1281110)**
 
@@ -138,13 +120,23 @@ Nautilus | Science • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 17h ago
 
 ---
 
-**[China unveils first humanoid robot for household chores, ready as early as 2027](https://www.scmp.com/tech/article/3354371/commercial-humanoid-robots-china-may-soon-do-laundry-make-beds-care-elders)**
+**[Former NASA Robotics Chief: America is building the wrong kind of robots — and China knows it](https://fortune.com/2026/05/23/humanoid-robots-america-china-adaptability-deployment-ambrose-nasa/)**
 
-South China Morning Post • 1d ago
+The U.S. is optimizing humanoid robots for factory demos and backflips. A former NASA robotics division chief explains why adaptability — not performance — is the metric that will determine who leads global manufacturing.
+
+Fortune • 21m ago
+
+---
+
+**[August Robotics lands $30M to automate precision construction with robots](https://siliconangle.com/2026/05/21/august-robotics-lands-30m-automate-precision-construction-robots/)**
+
+August Robotics lands $30M to automate precision construction with robots - SiliconANGLE
+
+SiliconANGLE • 1d ago
 
 ---
 
@@ -156,12 +148,6 @@ GeekWire • 2d ago
 
 ---
 
-**[Moto Pizza CEO launches robotics venture to bring automation in-house](https://www.bizjournals.com/seattle/news/2026/05/21/moto-pizza-ceo-lee-kindell-robotics-stadium-launch.html)**
-
-The Business Journals • 1d ago
-
----
-
 **[AI robotic beehives installed in Florida community claim 70% reduction in colony collapse threatening crops](https://www.foxnews.com/science/ai-robotic-beehives-installed-florida-community-claim-70-reduction-colony-collapse-threatening-crops)**
 
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
@@ -170,17 +156,31 @@ Fox News • 1d ago
 
 ---
 
-**[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://finance.yahoo.com/sectors/technology/articles/kawasaki-heavy-nvidia-plan-silicon-160730316.html)**
+**[Moto Pizza CEO launches robotics venture to bring automation in-house](https://www.bizjournals.com/seattle/news/2026/05/21/moto-pizza-ceo-lee-kindell-robotics-stadium-launch.html)**
 
-May 21 () - Japan's Kawasaki Heavy Industries will partner with ‌Nvidia to develop solutions integrating ‌robotics with physical artificial intelligence, and will ​set up a joint development center in Silicon Valley, the Nikkei newspaper reported on Thursday. The collaboration will ‌initially focus ⁠on medical and mobility fields, with Nvidia's simulation technology ⁠to be applied to Kawasaki Heavy Industries' Corleo, a four-legged personal ​mobility robot ​under development, ​Nikkei added.
-
-Yahoo Finance • 1d ago
+The Business Journals • 1d ago
 
 ---
 
-**[Unlocking soft robotics control with AI's cousin: Reservoir computing](https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html)**
+**[Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://www.reuters.com/world/asia-pacific/kawasaki-heavy-nvidia-plan-silicon-valley-robotics-center-nikkei-reports-2026-05-21/)**
 
-Tech Xplore • 16h ago
+Reuters • 1d ago
+
+---
+
+**[Omaha team goes undefeated, wins world championship at 900-team robotics competition](https://omaha.com/news/local/article_9510675c-6933-4138-88f2-5996fe3b737f.html)**
+
+A Nebraska robotics team just beat 900 teams from 42 countries. Brownell Talbot finished 23-0 to win the VEX world title.
+
+Omaha World-Herald • 21h ago
+
+---
+
+**[Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out](https://finance.yahoo.com/news/quantum-computing-robotics-arriving-faster-171144893.html)**
+
+Intuitive Surgical’s da Vinci 5 surgical platform, which began shipping in earnest on April 1, 2026, runs on 10,000 times the computing power of the da Vinci Xi and was co-engineered with NVIDIA’s Isaac platform. That is a working hospital robot, on the floor, today, that needed an AI compute stack nobody had five years ... Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 10K • 👍 164 • 💬 77 • ⏱️ 5:15 • 12h ago
+👁️ 11K • 👍 175 • 💬 79 • ⏱️ 5:15 • 14h ago
 
 ---
 
@@ -212,7 +212,7 @@ Robots are getting REALLY sophisticated…so why don't we all have our own perso
 
 📺 Tektite
 
-👁️ 906 • 👍 14 • ⏱️ 0:30 • 2h ago
+👁️ 1K • 👍 13 • ⏱️ 0:30 • 5h ago
 
 ---
 
@@ -222,17 +222,17 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 119K • 👍 3K • 💬 95 • ⏱️ 22:41 • 3d ago
+👁️ 121K • 👍 3K • 💬 97 • ⏱️ 22:41 • 3d ago
 
 ---
 
-**[How Nature Solved Robotics](https://www.youtube.com/watch?v=S67z2aekBrI)**
+**[Man vs AI Robot: it’s officially over...](https://www.youtube.com/watch?v=j5MtBTPGJng)**
 
-This video is both a story of my adventure with AI robotics and the fascinating lessons I learned along the way. Try Mammouth AI ...
+Man Vs Machine - we're entering the end times of AI deployment - do you want to live in a world of AI powered robots and LLM's ...
 
-📺 Art of the Problem
+📺 Stylosa
 
-👁️ 17K • 👍 2K • 💬 128 • ⏱️ 27:25 • 16h ago
+👁️ 15K • 👍 395 • 💬 283 • ⏱️ 16:12 • 4d ago
 
 ---
 
@@ -256,13 +256,21 @@ The robots in this video look real. Move real. Talk real. And that's exactly wha
 
 ---
 
-**[Do humanoid robots pose national security risk?](https://www.youtube.com/watch?v=sNhskSj2mm0)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=0Mn9NtAX8JE)**
 
-ABC News investigates the rise of humanoid robots manufactured in China and why experts say they pose a risk to U.S. national ...
+📺 Robot Julie 
 
-📺 Good Morning America
+👁️ 30K • 👍 114 • ⏱️ 0:24 • 3d ago
 
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 3:22 • 1d ago
+---
+
+**[He said goodbye to me 👋 🥰 🐷 #halloween #horror #robot #robotics #animatronics #piggy #spook](https://www.youtube.com/watch?v=TEIJKt_h5O0)**
+
+East Coast Haunters Convention @onlydinosaurs.
+
+📺 Wilkes Family Halloween
+
+👁️ 352K • 👍 2K • 💬 3 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -273,16 +281,6 @@ Apple's new AI home robots are being described as a major step toward bringing a
 📺 Carros Show
 
 👁️ 7K • 👍 260 • 💬 40 • ⏱️ 23:14 • 2d ago
-
----
-
-**[Elon Musk On The Next Five Years Of AI And Robots](https://www.youtube.com/watch?v=3PTCFgmUVaE)**
-
-From the Forbes Innovator 250 Celebration at Hotel Nia—Silicon Valley, Elon Musk shares why expects a billion humanoid robots ...
-
-📺 Forbes
-
-👁️ 21K • 👍 323 • 💬 51 • ⏱️ 0:53 • 3d ago
 
 ---
 

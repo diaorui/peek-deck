@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T07:15:51.207785+00:00'
+updated: '2026-05-23T09:21:15.683582+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 07:15 UTC  
+**Last Updated:** May 23, 2026 at 09:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,054.97
+### $2,027.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -3.3%  
-**30d:** -11.0%  
-**90d:** +11.0%  
-**1y:** -18.5%  
+**24h:** -4.5%  
+**7d:** -4.8%  
+**30d:** -12.3%  
+**90d:** +9.3%  
+**1y:** -19.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.14B
+**Market Cap:** $244.59B
 Rank #2
 
 **Circulating Supply:** 120,685,562 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-59.0%
 
 **All-Time Low:** $0.43
-+475278.7%
++467971.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-9h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 17h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 19h ago
 
 ---
 
@@ -168,31 +168,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326084953520721)**
-
-Binance • 3h ago
-
----
-
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 21h ago
-
----
-
-**[Tom Lee Says Ethereum Will Rise When Oil Falls — And It All Comes Down To Fed Policy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-rise-144414551.html)**
-
-BMNR chairman Tom Lee pointed to the April FOMC minutes, which warned policymakers may need additional “policy firming” if inflation remains above the Fed’s 2% target.
-
-Yahoo Finance • 1d ago
-
----
-
-**[$725 Million in Ethereum (ETH) Just Left Whale Wallets: The Timing Is Suspicious](https://beincrypto.com/ethereum-price-19-percent-drop-cycle-reset-analysis/)**
-
-Ethereum price hovers at $2,132 with $2,102 support holding off a 19% drop to $1,697 cycle low as whales sell and hodlers buy.
-
-BeInCrypto • 1d ago
+Reuters • 23h ago
 
 ---
 
@@ -201,6 +179,14 @@ BeInCrypto • 1d ago
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
 CoinDesk • 1d ago
+
+---
+
+**[Solana Vs Ethereum: What’s Holding Growth Back? 3 Reasons SOL Is Still Lagging](https://www.tradingview.com/news/newsbtc:095d45799094b:0-solana-vs-ethereum-what-s-holding-growth-back-3-reasons-sol-is-still-lagging/)**
+
+A recent report highlighted three major reasons Solana (SOL) has struggled to keep pace with Ethereum (ETH), at least from a market performance perspective that goes beyond day-to-day price movements.Market expert Dominic Basulto from The Motley Fool pointed to factors that, in his view, have shape…
+
+TradingView • 6h ago
 
 ---
 
@@ -224,7 +210,23 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 19h ago
+
+---
+
+**[$725 Million in Ethereum (ETH) Just Left Whale Wallets: The Timing Is Suspicious](https://beincrypto.com/ethereum-price-19-percent-drop-cycle-reset-analysis/)**
+
+Ethereum price hovers at $2,132 with $2,102 support holding off a 19% drop to $1,697 cycle low as whales sell and hodlers buy.
+
+BeInCrypto • 1d ago
+
+---
+
+**[Ethereum Foundation faces calls for new $1B price-focused organization](https://cryptobriefing.com/ethereum-foundation-billion-dollar-price-organization/)**
+
+The Ethereum Foundation faces senior departures and calls for a new $1B organization focused on boosting ETH's price amid underperformance versus Bitcoin and Solana.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -232,63 +234,23 @@ Fortune • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🔴 Here&#39;s Why Ethereum HASN&#39;T PUMPED](https://www.youtube.com/watch?v=2UYV-wHf2gU)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 638 • 👍 96 • 💬 6 • ⏱️ 10:22 • 4h ago
-
----
-
 **[What Is Happening With Ethereum! Bankless Dump Ethereum! Crypto Is Changing For The Better Or Worse?](https://www.youtube.com/watch?v=ckd3wKhBeFQ)**
 
 Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 482 • 💬 190 • ⏱️ 15:00 • 1d ago
+👁️ 9K • 👍 483 • 💬 191 • ⏱️ 15:00 • 1d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=O5Aj1bdUVxM)**
+**[🔴 Here&#39;s Why Ethereum HASN&#39;T PUMPED](https://www.youtube.com/watch?v=2UYV-wHf2gU)**
 
-BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Crypto World
+📺 🌟yourfriendsommi
 
-👁️ 5K • 👍 279 • 💬 61 • ⏱️ 20:25 • 5h ago
-
----
-
-**[BlackRock, MSTR &amp; Ethereum Are Building a New Financial System](https://www.youtube.com/watch?v=TE8UmVxaoII)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 75 • 💬 38 • ⏱️ 18:22 • 9h ago
-
----
-
-**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
-
-WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 66 • 💬 31 • ⏱️ 22:13 • 15h ago
-
----
-
-**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
-
-I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 562 • 💬 182 • ⏱️ 15:44 • 1d ago
+👁️ 907 • 👍 115 • 💬 7 • ⏱️ 10:22 • 6h ago
 
 ---
 
@@ -298,7 +260,37 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 11K • 👍 394 • 💬 169 • ⏱️ 1:11:25 • 20h ago
+👁️ 12K • 👍 411 • 💬 173 • ⏱️ 1:11:25 • 22h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=O5Aj1bdUVxM)**
+
+BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 320 • 💬 71 • ⏱️ 20:25 • 7h ago
+
+---
+
+**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
+
+WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
+
+📺 Big Time Trades
+
+👁️ 2K • 👍 67 • 💬 31 • ⏱️ 22:13 • 17h ago
+
+---
+
+**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
+
+I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 562 • 💬 183 • ⏱️ 15:44 • 1d ago
 
 ---
 
@@ -308,7 +300,27 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 350 • 💬 15 • ⏱️ 26:45 • 13h ago
+👁️ 6K • 👍 351 • 💬 23 • ⏱️ 26:45 • 15h ago
+
+---
+
+**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 10K • 👍 304 • 💬 32 • ⏱️ 18:45 • 1d ago
+
+---
+
+**[Ethereum: Rejected off the Bear Market Resistance Band](https://www.youtube.com/watch?v=mwrgOz852wI)**
+
+Ethereum was recently rejected off its bear market resistance band. What's Next? Read the most recent macro risk memo: ...
+
+📺 Benjamin Cowen
+
+👁️ 54K • 👍 3K • 💬 197 • ⏱️ 17:13 • 2d ago
 
 ---
 
@@ -319,16 +331,6 @@ INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING
 📺 CryptoWendyO
 
 👁️ 6K • 👍 257 • 💬 43 • ⏱️ 5:38 • 1d ago
-
----
-
-**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 297 • 💬 32 • ⏱️ 18:45 • 1d ago
 
 ---
 
