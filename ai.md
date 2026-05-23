@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T21:56:23.941540+00:00'
+updated: '2026-05-23T22:55:27.982772+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 21:56 UTC  
+**Last Updated:** May 23, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The tech giant made thousands of engineers train their AI replacements—then fired them.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 11h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 12h ago
 
 ---
 
@@ -55,7 +55,7 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 2h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
 
-2h ago
+3h ago
 
 ---
 
@@ -71,7 +71,7 @@ What i have felt from my posts cus its all about AI so :- now it feels like almo
 
 The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
 
-10h ago
+11h ago
 
 ---
 
@@ -79,7 +79,7 @@ The current state of AI is very similar to a big musical chairs game, which is b
 
 OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 9h ago
 
 ---
 
@@ -87,7 +87,7 @@ OpenAI and Sam Altman aim to automate AI research. They are now hiring for a rol
 
 Going to get downvoted for this but here we go. I've been running about 30 agents in production for paying customers for the last 6 months and I'm convinced the framework debate is mostly a distraction. LangChain, CrewAI, AutoGen, OpenAI Agents SDK. Pick whichever one your team already knows. It doesn't matter as much as you think. What actually decides whether your agent works in production is something almost nobody talks about on this sub, and it isn't in the framework. Here's what I've seen kill more agents than every framework bug combined. The agent gets stuck in a loop. It calls the same tool 200 times in 4 minutes because something downstream returned ambiguous data and the LLM decided to retry forever. Your OpenAI bill goes from $3 a day to $400 in one afternoon. By the time you notice you've burned a grand. You can't even tell which agent did it because there's no audit trail. Your VPS reboots overnight for kernel patches. Every agent that was mid-task loses everything. Tomorrow morning the support agent has no memory of yesterday's tickets, the research crew has forgotten what they were investigating, the pipeline agent restarts from scratch. None of these are framework problems. They're memory and state problems. A customer complains the agent gave them wrong info three days ago. You go to debug. There's no record of what the agent saw, what it decided, or which tool calls it made. The framework didn't log that because frameworks aren't observability tools. You shrug and refund. You scaled to 15 agents working together. Two of them have conflicting beliefs about the same customer because their memory isn't shared. The customer gets two different answers in the same conversation depending on which agent replies first. You've been around enough times to realize the part you actually need isn't in the framework at all. What I think the real stack is. The framework just orchestrates LLM calls. Use whatever your team likes. It's the cheap layer. A persistent memory layer that survives crashes, restarts, and redeploys, so the agent has actual continuity. This is the layer that decides whether your agent is a toy or a product. Loop detection at the runtime layer, not bolted on as a wrapper around the framework. Something that catches your agent making the same call too many times in a row and stops it before the bill explodes. An audit trail of every decision the agent made, with a hash chain so you can prove later what happened when the customer pushes back. Screenshots and logs aren't enough when ten thousand dollars is on the line. Shared memory between agents in the same team so they're not having different conversations about the same customer. Cost tracking per agent so you actually know which one ran away with your budget. When I look at what makes the agents that survive production look different from the ones that died, it's never that they picked the right framework. It's that they had this layer underneath, either built carefully in-house or borrowed from somewhere. Full disclosure I'm building one of these tools. There are others. Mem0 and Zep and Letta in the memory space. Helicone and LangSmith in the observability space. Mix and match. Use one or build your own. Just please stop arguing about whether LangChain or CrewAI is better when the thing eating your production agents has nothing to do with either of them. What's been your worst production agent failure? Curious what other people have actually hit. I built a free tool that aims to solve most of this issue, what do you think?
 
-7m ago
+1h ago
 
 ---
 
@@ -103,13 +103,13 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 9h ago
+🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 10h ago
 
 ---
 
 **[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
 
-🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 8h ago
+🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Google is giving the search bar its biggest update in 25 years, another sign tha
 
 Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Fortune • 1d ago
 
 Backlash to artificial intelligence is here, and digital natives are leading the charge. The Opinion columnist Michelle Goldberg argues that the A.I. pessimism in America stems from a lack of responsible regulation.
 
-The New York Times • 27m ago
+The New York Times • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 27m ago
 
 Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
 
-USA Today • 3h ago
+USA Today • 4h ago
 
 ---
 
@@ -153,7 +153,7 @@ USA Today • 3h ago
 
 Fashion designer Jeremy Scott told graduates that AI can't replicate their humanity during a commencement speech at the Kansas City Art Institute.
 
-Business Insider • 20m ago
+Business Insider • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Business Insider • 20m ago
 
 Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
 
-Yahoo • 9h ago
+Yahoo • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo • 9h ago
 
 Baidu (NasdaqGS:BIDU) introduced a suite of next generation AI agent products and digital human platforms at its Baidu Create 2026 developer conference. The launch includes DuMate, a general purpose AI agent, along with corporate and app editions of Miaoda, a no code coding agent. Baidu also announced the global rollout of its Baidu Yijing digital human platform and an upgraded, enterprise focused Famou Agent 2.0. Baidu operates across search, cloud, and AI services, and the latest releases...
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 41m ago
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNN • 12h ago
 
 Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
 
-The Washington Post • 5h ago
+The Washington Post • 6h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Washington Post • 5h ago
 
 Even as AI progresses, coders aren’t doomed.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -259,7 +259,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 243 • 💬 190 • 19h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 243 • 💬 190 • 20h ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -267,7 +267,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 218 • 💬 62 • 18h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 218 • 💬 62 • 19h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -275,7 +275,7 @@ Companies are racing to incentivize employees to use AI. But as some companies a
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 209 • 💬 65 • 5h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 209 • 💬 65 • 6h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
@@ -283,23 +283,23 @@ Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 b
 
 ## YouTube Videos: "ai"
 
+**[Claude&#39;s AI Town Voted Yes On Everything. That&#39;s Not A Good Sign.](https://www.youtube.com/watch?v=RHV8DWAmjAs)**
+
+What's really happening inside those viral AI agent town experiments? The common story is that AI agents went rogue, fell in love, ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 13K • 👍 513 • 💬 94 • ⏱️ 11:16 • 8h ago
+
+---
+
 **[The singularity is near: Google unveils next phase of AI](https://www.youtube.com/watch?v=zvJ5KfNjOCk)**
 
 ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unveiled AI agent Gemini Spark, new smart ...
 
 📺 ABC News
 
-👁️ 45K • 👍 845 • 💬 187 • ⏱️ 5:06 • 18h ago
-
----
-
-**[AI Just Crossed The Line We Were Afraid Of: Continual Harness](https://www.youtube.com/watch?v=qCFyprzrCvA)**
-
-Princeton researchers just revealed Continual Harness, a self-improving AI system that learns while it is already running.
-
-📺 AI Revolution
-
-👁️ 27K • 👍 1K • 💬 154 • ⏱️ 13:31 • 23h ago
+👁️ 53K • 👍 960 • 💬 207 • ⏱️ 5:06 • 19h ago
 
 ---
 
@@ -309,27 +309,17 @@ CNN chief data analyst Harry Enten runs the numbers, from President Trump's endo
 
 📺 CNN
 
-👁️ 183K • 👍 4K • 💬 1K • ⏱️ 12:06 • 9h ago
+👁️ 203K • 👍 4K • 💬 1K • ⏱️ 12:06 • 10h ago
 
 ---
 
-**[Microsoft Can’t Afford AI. Starbucks Can’t Trust It! #ai #anthropic #openai #claude #aibubble](https://www.youtube.com/watch?v=zzNyQxHWPnM)**
+**[AI Just Crossed The Line We Were Afraid Of: Continual Harness](https://www.youtube.com/watch?v=qCFyprzrCvA)**
 
-The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azure, uses claude inside 365 copilot, has a $30 ...
+Princeton researchers just revealed Continual Harness, a self-improving AI system that learns while it is already running.
 
-📺 Mayankshah
+📺 AI Revolution
 
-👁️ 34K • 👍 2K • 💬 38 • ⏱️ 1:42 • 7h ago
-
----
-
-**[This NEW Chinese AI Model is INSANE! (FREE)](https://www.youtube.com/watch?v=pOs1ZV-v0Sg)**
-
-Get the Chinese AI Model Masterclass : https://www.skool.com/ai-profit-lab-7462/about Get a FREE AI SEO Strategy Session ...
-
-📺 Julian Goldie SEO
-
-👁️ 2K • 👍 54 • 💬 5 • ⏱️ 8:05 • 12h ago
+👁️ 29K • 👍 1K • 💬 155 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -339,17 +329,27 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 532K • 👍 18K • 💬 1K • ⏱️ 5:44 • 1d ago
+👁️ 554K • 👍 18K • 💬 1K • ⏱️ 5:44 • 1d ago
 
 ---
 
-**[Claude Mythos: The AI that can break the internet | DW News](https://www.youtube.com/watch?v=C3hAya6JjJ8)**
+**[Microsoft Can’t Afford AI. Starbucks Can’t Trust It! #ai #anthropic #openai #claude #aibubble](https://www.youtube.com/watch?v=zzNyQxHWPnM)**
 
-A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain exploits—raising global fears over cyberattacks, ...
+The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azure, uses claude inside 365 copilot, has a $30 ...
 
-📺 DW News
+📺 Mayankshah
 
-👁️ 13K • 👍 261 • 💬 50 • ⏱️ 3:45 • 22h ago
+👁️ 40K • 👍 2K • 💬 41 • ⏱️ 1:42 • 8h ago
+
+---
+
+**[Don&#39;t Buy AI Bath Bombs](https://www.youtube.com/watch?v=uocwJAi2y_U)**
+
+Get your $10 sign-up bonus at http://privacy.com/pleasantgreen. You can use it on your first purchase! Privacy has a free plan with ...
+
+📺 Pleasant Green
+
+👁️ 217K • 👍 13K • 💬 1K • ⏱️ 10:02 • 10h ago
 
 ---
 
@@ -359,27 +359,27 @@ Token mania. I've been a user of Proton for almost a decade and I'm grateful to 
 
 📺 Mo Bitar
 
-👁️ 173K • 👍 10K • 💬 2K • ⏱️ 11:39 • 1d ago
+👁️ 177K • 👍 10K • 💬 2K • ⏱️ 11:39 • 1d ago
 
 ---
 
-**[Building A.I.: The Deep Mind Behind the Moment](https://www.youtube.com/watch?v=x8Rx0S6kzaY)**
+**[Claude Mythos: The AI that can break the internet | DW News](https://www.youtube.com/watch?v=C3hAya6JjJ8)**
 
-Google DeepMind CEO and co-founder Sir Demis Hassabis speaks exclusively with ABC News' Rebecca Jarvis about AI ...
+A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain exploits—raising global fears over cyberattacks, ...
 
-📺 ABC News
+📺 DW News
 
-👁️ 6K • 👍 223 • 💬 24 • ⏱️ 20:53 • 20h ago
+👁️ 14K • 👍 273 • 💬 50 • ⏱️ 3:45 • 23h ago
 
 ---
 
-**[How To Make Facebook Ads With AI - Step by Step](https://www.youtube.com/watch?v=QZZDXd_t5Sg)**
+**[Stanford student explains how AI impacted his graduating class](https://www.youtube.com/watch?v=17b87k8rhd0)**
 
-Make Your Own Facebook Ads with Arcads https://youricreates.com/facebook-ads In this video, I show how I turn a single ...
+A recent opinion piece in The New York Times spotlighted the impact of artificial intelligence on the 2026 graduating class at one ...
 
-📺 Youri van Hofwegen
+📺 CBS News
 
-👁️ 9K • 💬 7 • ⏱️ 8:57 • 6h ago
+👁️ 121K • 👍 2K • 💬 363 • ⏱️ 4:55 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 698 • 14h ago
+⬇️ 1,227 • ❤️ 699 • 15h ago
 
 ---
 
@@ -407,7 +407,7 @@ Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 
 
 `translation` `2.0B`
 
-⬇️ 2,564 • ❤️ 397 • 1d ago
+⬇️ 2,564 • ❤️ 412 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 40,368 • ❤️ 611 • 5d ago
+⬇️ 40,368 • ❤️ 613 • 5d ago
 
 ---
 
@@ -435,18 +435,6 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 ---
 
-**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
-
-*OpenBMB*
-
-MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device image and video understanding, offering strong foundation and multimodal capabilities with mixed visual token compression for flexible speed/accuracy trade-offs.
-
-`image-text-to-text` `1.3B`
-
-⬇️ 247,170 • ❤️ 912 • 4d ago
-
----
-
 **[Marlin-2B](https://huggingface.co/NemoStation/Marlin-2B)**
 
 *Nemo Station*
@@ -455,7 +443,19 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 5,283 • ❤️ 264 • 3d ago
+⬇️ 5,283 • ❤️ 265 • 3d ago
+
+---
+
+**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
+
+*OpenBMB*
+
+MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device image and video understanding, offering strong foundation and multimodal capabilities with mixed visual token compression for flexible speed/accuracy trade-offs.
+
+`image-text-to-text` `1.3B`
+
+⬇️ 247,170 • ❤️ 913 • 4d ago
 
 ---
 
@@ -491,7 +491,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 597,584 • ❤️ 434 • 3d ago
+⬇️ 597,584 • ❤️ 435 • 3d ago
 
 ---
 
@@ -503,7 +503,7 @@ Command A+ is a 25B parameter, multilingual, vision-capable LLM optimized for ag
 
 `image-text-to-text` `125.8B`
 
-⬇️ 4,261 • ❤️ 179 • 1d ago
+⬇️ 4,261 • ❤️ 180 • 1d ago
 
 ---
 
@@ -598,21 +598,9 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 8 • 💬 0 • ⭐ 18,511 • 5mo ago
+▲ 8 • 💬 0 • ⭐ 18,549 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 4 • 💬 1 • ⭐ 5,574 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -641,6 +629,18 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 ▲ 120 • 💬 10 • ⭐ 10,450 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+
+---
+
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 4 • 💬 1 • ⭐ 5,596 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -674,7 +674,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 10h ago
+⭐ 2.6k • 🔱 179 • 11h ago
 
 ---
 
@@ -742,7 +742,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.6k • 🔱 113 • 20h ago
+⭐ 1.6k • 🔱 114 • 21h ago
 
 ---
 

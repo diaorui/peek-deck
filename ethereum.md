@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T21:56:23.954816+00:00'
+updated: '2026-05-23T22:55:27.995640+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 21:56 UTC  
+**Last Updated:** May 23, 2026 at 22:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.74B
+**Market Cap:** $255.21B
 Rank #2
 
 **Circulating Supply:** 120,685,562 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-57.3%
 
 **All-Time Low:** $0.43
-+491346.5%
++488076.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 2d ago
 
 BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ Reuters • 1d ago
 
 As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -218,7 +218,7 @@ CoinDesk • 2d ago
 
 A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -226,7 +226,7 @@ TradingView • 14h ago
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 11K • 👍 689 • 💬 70 • ⏱️ 24:12 • 7h ago
+👁️ 13K • 👍 785 • 💬 79 • ⏱️ 24:12 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 321 • 💬 7 • ⏱️ 10:01 • 4h ago
+👁️ 4K • 👍 366 • 💬 8 • ⏱️ 10:01 • 5h ago
 
 ---
 
@@ -260,17 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 868 • 👍 73 • 💬 5 • ⏱️ 25:04 • 5h ago
-
----
-
-**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
-
-METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
-
-📺 Bankless
-
-👁️ 15K • 👍 474 • 💬 207 • ⏱️ 1:11:25 • 1d ago
+👁️ 1K • 👍 97 • 💬 5 • ⏱️ 25:04 • 6h ago
 
 ---
 
@@ -280,17 +270,17 @@ I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why th
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 576 • 💬 206 • ⏱️ 15:44 • 2d ago
+👁️ 10K • 👍 579 • 💬 206 • ⏱️ 15:44 • 2d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=O5Aj1bdUVxM)**
+**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
 
-BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
 
-📺 Crypto World
+📺 Bankless
 
-👁️ 12K • 👍 412 • 💬 115 • ⏱️ 20:25 • 20h ago
+👁️ 15K • 👍 494 • 💬 208 • ⏱️ 1:11:25 • 1d ago
 
 ---
 
@@ -300,7 +290,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 487 • 💬 192 • ⏱️ 15:00 • 2d ago
+👁️ 9K • 👍 488 • 💬 192 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -310,7 +300,27 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 364 • 💬 26 • ⏱️ 26:45 • 1d ago
+👁️ 6K • 👍 365 • 💬 26 • ⏱️ 26:45 • 1d ago
+
+---
+
+**[BlackRock, MSTR &amp; Ethereum Are Building a New Financial System](https://www.youtube.com/watch?v=TE8UmVxaoII)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 94 • 💬 41 • ⏱️ 18:22 • 1d ago
+
+---
+
+**[🚨 SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN SAVE IT](https://www.youtube.com/watch?v=2TVCAYzNqC0)**
+
+SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN SAVE IT iTrustCapital ...
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 554 • 💬 66 • ⏱️ 35:01 • 2d ago
 
 ---
 
@@ -321,16 +331,6 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 📺 Benjamin Cowen
 
 👁️ 56K • 👍 3K • 💬 199 • ⏱️ 17:13 • 2d ago
-
----
-
-**[INSANE CRYPTO IS IM SERIOUS TROUBLE ](https://www.youtube.com/watch?v=zLYcyswq-xQ)**
-
-INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING! This Crypto bear ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 263 • 💬 44 • ⏱️ 5:38 • 2d ago
 
 ---
 
