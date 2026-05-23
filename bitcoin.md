@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-23T16:31:13.494293+00:00'
+updated: '2026-05-23T18:01:59.510593+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 16:31 UTC  
+**Last Updated:** May 23, 2026 at 18:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
+**24h:** -0.5%  
 **7d:** -2.5%  
 **30d:** -2.5%  
-**90d:** +16.7%  
+**90d:** +16.8%  
 **1y:** -30.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1511.21B
+**Market Cap:** $1510.74B
 Rank #1
 
-**Circulating Supply:** 20,033,350 BTC
+**Circulating Supply:** 20,033,396 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -40.2%
 
 **All-Time Low:** $67.81
-+111160.9%
++111109.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
 
-52m ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ People who bought Bitcoin before 2017 — do you still hold most of it, or did y
 
 I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,31 @@ I woke up this morning thinking we had finally left the 70k range behind — we 
 
 Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
 
-14h ago
+15h ago
+
+---
+
+**[Can I swap cryptos to native Bitcoin in DeFi?](https://www.reddit.com/r/Bitcoin/comments/1tldkjl/can_i_swap_cryptos_to_native_bitcoin_in_defi/)**
+
+Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
+
+6h ago
+
+---
+
+**[IBIT and Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlgtfh/ibit_and_bitcoin/)**
+
+Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
+
+4h ago
+
+---
+
+**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+12h ago
 
 ---
 
@@ -106,30 +130,6 @@ Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anx
 Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://piped.video/watch?v=F-HG87VJj_k https://youtu.be/F-HG87VJj_k
 
 1d ago
-
----
-
-**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-10h ago
-
----
-
-**[IBIT and Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tlgtfh/ibit_and_bitcoin/)**
-
-Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
-
-2h ago
-
----
-
-**[Can I swap cryptos to native Bitcoin in DeFi?](https://www.reddit.com/r/Bitcoin/comments/1tldkjl/can_i_swap_cryptos_to_native_bitcoin_in_defi/)**
-
-Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
-
-5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hey guys, I am looking to exit some old positions and hold BTC long term instead
 
 Been a hodler longer than any of you will believe.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,21 +151,13 @@ Been a hodler longer than any of you will believe.
 
 BTC only Not a daily/high transaction user Ease of transactions important Long term storage Strong security but not paranoid level Not asking for alternatives. If these were the only two wallets what would you get and why? Thanks.
 
-2h ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
-
-Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
-
-CoinDesk • 20h ago
-
----
 
 **[Trump Media Moves To Sell Bitcoin As Losses Reach $455 Million](https://finance.yahoo.com/markets/crypto/articles/trump-media-moves-sell-bitcoin-135600576.html)**
 
@@ -175,11 +167,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$ me pondering my life decisions after buying crypto at the top](https://www.moomoo.com/community/feed/bitcoin-btc-cc-me-pondering-my-life-decisions-after-buying-116624204431365)**
+**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
 
-@Harry the Rizzard 8269 Views|4 Likes
+Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
 
-Moomoo • 2h ago
+CoinDesk • 22h ago
+
+---
+
+**[Adam Back Challenges Mark Cuban’s Bitcoin Data After Billionaire Sells His Holdings](https://finance.yahoo.com/markets/crypto/articles/adam-back-challenges-mark-cuban-165114310.html)**
+
+Adam Back disputes Mark Cuban's claim that Bitcoin 'lost the plot,' pointing to BTC's 25-30% rise vs gold's 14% drop.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dives-below-75k-first-162230305.html)**
+
+Bitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,13 +195,7 @@ Moomoo • 2h ago
 
 The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
-The Block • 20h ago
-
----
-
-**[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
-
-Bloomberg.com • 19h ago
+The Block • 22h ago
 
 ---
 
@@ -201,23 +203,15 @@ Bloomberg.com • 19h ago
 
 Versions of Jeff Bezos, Mark Zuckerberg, Vladimir Putin, and Eric Trump are set to feature in Doug Liman's AI-enabled crypto movie Bitcoin.
 
-Deadline • 23h ago
+Deadline • 1d ago
 
 ---
 
-**[SpaceX is sitting on a massive hoard of bitcoin. Here's how much it's gone up in value.](https://www.businessinsider.com/spacex-bitcoin-holding-ipo-filing-elon-musk-2026-5)**
+**[Elon Musk Reveals $1.4 Billion Bitcoin Price Surprise](https://www.forbes.com/sites/digital-assets/2026/05/22/elon-musk-reveals-14-billion-bitcoin-price-surprise/)**
 
-SpaceX's S-1 filing showed that the rocket firm is sitting on a sizeable pile of cryptocurrency worth about $1.45 billion at today's prices.
+Elon Musk has revealed his rocket company SpaceX holds far more bitcoin than previously thought...
 
-Business Insider • 2d ago
-
----
-
-**[Elon Musk's SpaceX IPO Filing Reveals $1.45 Billion Bitcoin Position](https://finance.yahoo.com/markets/crypto/articles/elon-musks-spacex-ipo-filing-215932384.html)**
-
-SpaceX is gearing up for what's likely to be a blockbuster IPO, and Elon Musk's aerospace and AI firm holds more Bitcoin than expected.
-
-Yahoo Finance • 2d ago
+Forbes • 1d ago
 
 ---
 
@@ -225,7 +219,15 @@ Yahoo Finance • 2d ago
 
 Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
+
+---
+
+**[SpaceX unveils $1.29B bitcoin stash in high-valuation IPO filing](https://finance.yahoo.com/video/spacex-unveils-129b-bitcoin-stash-in-high-valuation-ipo-filing-164550320.html)**
+
+Scott Melker discusses SpaceX’s (SPAX.PVT) confirmed June 12 Nasdaq (^IXIC) IPO debut and the company’s disclosure of a substantial bitcoin holding in its filing. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -243,7 +245,7 @@ Financial Times • 1d ago
 
 **[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
 
-⬆️ 347 • 💬 686 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+⬆️ 347 • 💬 686 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 
 ---
 
@@ -303,7 +305,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 14h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
+⬆️ 2 • 💬 0 • 16h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -319,13 +321,13 @@ Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cry
 
 ## YouTube Videos: "bitcoin"
 
-**[Strategy&#39;s Michael Saylor: We expect bitcoin to go up more than the S&amp;P 500 over time](https://www.youtube.com/watch?v=s3A_gnN3qEs)**
+**[Bitcoin Will Breakout By Summer If This Happens](https://www.youtube.com/watch?v=-pVlPkzQCoc)**
 
-Michael Saylor, Strategy executive chairman and founder, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 CNBC Television
+📺 Anthony Pompliano
 
-👁️ 146K • 👍 2K • 💬 1K • ⏱️ 9:24 • 2d ago
+👁️ 14K • 👍 1K • 💬 38 • ⏱️ 53:11 • 5h ago
 
 ---
 
@@ -335,17 +337,17 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 2K • 💬 137 • ⏱️ 9:25 • 1d ago
+👁️ 60K • 👍 2K • 💬 139 • ⏱️ 9:25 • 1d ago
 
 ---
 
-**[Bitcoin Will Breakout By Summer If This Happens](https://www.youtube.com/watch?v=-pVlPkzQCoc)**
+**[Strategy&#39;s Michael Saylor: We expect bitcoin to go up more than the S&amp;P 500 over time](https://www.youtube.com/watch?v=s3A_gnN3qEs)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Michael Saylor, Strategy executive chairman and founder, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, ...
 
-📺 Anthony Pompliano
+📺 CNBC Television
 
-👁️ 5K • 👍 574 • 💬 26 • ⏱️ 53:11 • 3h ago
+👁️ 150K • 👍 2K • 💬 1K • ⏱️ 9:24 • 2d ago
 
 ---
 
@@ -355,7 +357,7 @@ Mark Cuban and Jason Calacanis both say the Bitcoin trade is over. This episode 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 176 • ⏱️ 17:39 • 18h ago
+👁️ 20K • 👍 1K • 💬 191 • ⏱️ 17:39 • 20h ago
 
 ---
 
@@ -375,27 +377,7 @@ FOX Business' Darren Botelho reports on the Trump administration opening the doo
 
 📺 Fox Business
 
-👁️ 26K • 👍 630 • 💬 316 • ⏱️ 2:17 • 1d ago
-
----
-
-**[Bitcoin Just Lost Mark Cuban - Here&#39;s Why The Billionaire Sold](https://www.youtube.com/watch?v=l-fclaPPlaE)**
-
-Bitcoin #Crypto #Finance Bitcoin is at a crossroads for Mark Cuban as he reveals he sold most of his BTC after the Iran war ...
-
-📺 The Wolf Of All Streets
-
-👁️ 25K • 👍 1K • 💬 437 • ⏱️ 23:36 • 1d ago
-
----
-
-**[SAYLOR ON THE BITCOIN BEAR MARKET (AND WHEN IT FLIPS)](https://www.youtube.com/watch?v=kX632oc4IPc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 6K • 👍 293 • 💬 37 • ⏱️ 11:58 • 1d ago
+👁️ 29K • 👍 675 • 💬 338 • ⏱️ 2:17 • 1d ago
 
 ---
 
@@ -405,15 +387,37 @@ URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) 
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 154 • ⏱️ 13:06 • 18h ago
+👁️ 39K • 👍 2K • 💬 167 • ⏱️ 13:06 • 20h ago
 
 ---
 
-**[Which one would you pick and why? #money #bitcoin #gold](https://www.youtube.com/watch?v=gTySDtQLx78)**
+**[SAYLOR ON THE BITCOIN BEAR MARKET (AND WHEN IT FLIPS)](https://www.youtube.com/watch?v=kX632oc4IPc)**
 
-📺 Donovan Jago
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-👁️ 609 • 👍 9 • ⏱️ 0:28 • 1h ago
+📺 My Financial Friend
+
+👁️ 6K • 👍 297 • 💬 37 • ⏱️ 11:58 • 1d ago
+
+---
+
+**[CLARITY Odds Collapse Again📉Crypto Macro Turmoil🔥](https://www.youtube.com/watch?v=k7WoiY_Xhjs)**
+
+Lawmakers are now confronting a narrowing legislative calendar as competing priorities pile up ahead of the summer break.
+
+📺 Paul Barron Network
+
+👁️ 42K • 👍 2K • 💬 242 • ⏱️ 17:55 • 22h ago
+
+---
+
+**[Bitcoin Is CRASHING NOW As Predicted! [WATCH ASAP]](https://www.youtube.com/watch?v=UQ7KQ54a6Fk)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 4K • 👍 320 • 💬 59 • ⏱️ 5:29 • 8h ago
 
 ---
 
