@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T13:58:21.440122+00:00'
+updated: '2026-05-23T15:09:00.226967+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 13:58 UTC  
+**Last Updated:** May 23, 2026 at 15:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -4.0%  
-**30d:** -11.6%  
-**90d:** +10.2%  
-**1y:** -19.1%  
+**24h:** -2.7%  
+**7d:** -3.1%  
+**30d:** -10.8%  
+**90d:** +11.2%  
+**1y:** -18.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.98B
+**Market Cap:** $248.75B
 Rank #2
 
 **Circulating Supply:** 120,685,562 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.0%
+-58.3%
 
 **All-Time Low:** $0.43
-+468705.6%
++476033.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-16h ago
+17h ago
 
 ---
 
@@ -136,7 +136,7 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
 
-2d ago
+3d ago
 
 ---
 
@@ -164,7 +164,15 @@ The Block • 1d ago
 
 Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Ethereum-Focused SBET And BMNR Join Russell 3000 Index, Following MSTR's Playbook](https://finance.yahoo.com/markets/crypto/articles/ethereum-focused-sbet-bmnr-join-125541948.html)**
+
+SharpLink Gaming and BitMine Immersion enter the index despite mixed earnings results as Ethereum trades down more than 4% in the past 24 hours.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -186,11 +194,11 @@ Reuters • 1d ago
 
 As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
-**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+**[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
@@ -202,7 +210,7 @@ CoinDesk • 1d ago
 
 A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
 
-TradingView • 6h ago
+TradingView • 8h ago
 
 ---
 
@@ -214,25 +222,37 @@ Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for May 22, 2026](https://fortune.com/article/price-of-ethereum-05-22-2026/)**
+**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Fortune • 1d ago
-
----
-
-**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
-
-The privacy coin has some very ambitious upgrades planned.
-
-The Motley Fool • 2d ago
+Crypto Briefing • 56m ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=Cx4C21vOJoY)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 3K • 👍 185 • 25m ago
+
+---
+
+**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
+
+I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 570 • 💬 210 • ⏱️ 15:44 • 1d ago
+
+---
 
 **[What Is Happening With Ethereum! Bankless Dump Ethereum! Crypto Is Changing For The Better Or Worse?](https://www.youtube.com/watch?v=ckd3wKhBeFQ)**
 
@@ -250,67 +270,7 @@ WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 72 • 💬 31 • ⏱️ 22:13 • 22h ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=O5Aj1bdUVxM)**
-
-BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 352 • 💬 103 • ⏱️ 20:25 • 12h ago
-
----
-
-**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
-
-METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
-
-📺 Bankless
-
-👁️ 12K • 👍 419 • 💬 183 • ⏱️ 1:11:25 • 1d ago
-
----
-
-**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
-
-I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 564 • 💬 183 • ⏱️ 15:44 • 1d ago
-
----
-
-**[🔴 Here&#39;s Why Ethereum HASN&#39;T PUMPED](https://www.youtube.com/watch?v=2UYV-wHf2gU)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 140 • 💬 8 • ⏱️ 10:22 • 10h ago
-
----
-
-**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
-
-XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 353 • 💬 23 • ⏱️ 26:45 • 19h ago
-
----
-
-**[Tom Lee :&quot;The 56x Opportunity EVEN Bigger Than Bitcoin&quot; | (ETH Price Prediction)](https://www.youtube.com/watch?v=P2aCZhbs9Ak)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 311 • 💬 33 • ⏱️ 18:45 • 1d ago
+👁️ 2K • 👍 73 • 💬 31 • ⏱️ 22:13 • 23h ago
 
 ---
 
@@ -320,17 +280,57 @@ SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 552 • 💬 64 • ⏱️ 35:01 • 1d ago
+👁️ 8K • 👍 554 • 💬 64 • ⏱️ 35:01 • 1d ago
 
 ---
 
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
+**[BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=O5Aj1bdUVxM)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 14K • 👍 501 • 💬 42 • ⏱️ 17:05 • 2d ago
+👁️ 11K • 👍 383 • 💬 114 • ⏱️ 20:25 • 13h ago
+
+---
+
+**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
+
+METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
+
+📺 Bankless
+
+👁️ 13K • 👍 440 • 💬 190 • ⏱️ 1:11:25 • 1d ago
+
+---
+
+**[BlackRock, MSTR &amp; Ethereum Are Building a New Financial System](https://www.youtube.com/watch?v=TE8UmVxaoII)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 2K • 👍 87 • 💬 40 • ⏱️ 18:22 • 16h ago
+
+---
+
+**[🔴 Here&#39;s Why Ethereum HASN&#39;T PUMPED](https://www.youtube.com/watch?v=2UYV-wHf2gU)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 149 • 💬 11 • ⏱️ 10:22 • 12h ago
+
+---
+
+**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
+
+XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 357 • 💬 24 • ⏱️ 26:45 • 21h ago
 
 ---
 

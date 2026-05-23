@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T13:58:21.422577+00:00'
+updated: '2026-05-23T15:09:00.211865+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 13:58 UTC  
+**Last Updated:** May 23, 2026 at 15:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 The tech giant made thousands of engineers train their AI replacements—then fired them.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 3h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 4h ago
+
+---
+
+**[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
+
+22m ago
 
 ---
 
@@ -49,7 +55,15 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
 
-3h ago
+4h ago
+
+---
+
+**[OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'](https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/)**
+
+OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
+
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 1h ago
 
 ---
 
@@ -61,17 +75,9 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 ---
 
-**[OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'](https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/)**
-
-OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
-
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 7m ago
-
----
-
 **[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
 
-🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 7m ago
+🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 1h ago
 
 ---
 
@@ -79,7 +85,7 @@ OpenAI and Sam Altman aim to automate AI research. They are now hiring for a rol
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 1h ago
+🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 2h ago
 
 ---
 
@@ -103,15 +109,7 @@ I had a simple google search turn up the most random useless results so I asked:
 
 It looks like Gemini and Claude Code has been either heavily downgraded or limited, due to lack of or high cost of compute. Why can't people and engineers run the ai's using their own gpu's that are sitting idle in their pcs?
 
-3h ago
-
----
-
-**[I built a cognitive architecture where the AI has actual needs that drift between sessions — not prompt engineering, actual state variables](https://www.reddit.com/r/artificial/comments/1tl0o5v/i_built_a_cognitive_architecture_where_the_ai_has/)**
-
-Most AI companions fake continuity through prompt engineering. PHI // DRIFT does something different — seven homeostatic state variables that drift between sessions and shape output before you say a word. Memory is scored by emotional salience and time decay, not just vector similarity. There's a Jungian shadow module tracking unintegrated behavioral patterns as a first-class architectural variable. Built solo in 9 months on a CPU-only mini tower. No GPU. No institution. Full preprint under review of SSRN The field ignores depth psychology as an engineering input. I think that's a mistake. github avalable if needed
-
-13h ago
+4h ago
 
 ---
 
@@ -119,11 +117,31 @@ Most AI companions fake continuity through prompt engineering. PHI // DRIFT does
 
 ## Google News: "ai"
 
-**[Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)**
+**[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
 
-Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
+Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
 
-Fortune • 21h ago
+The Guardian • 4h ago
+
+---
+
+**[White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)**
+
+The New York Times • 17h ago
+
+---
+
+**[Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)**
+
+WSJ • 9m ago
+
+---
+
+**[The Dark Side of AI](https://www.psychologytoday.com/us/blog/shadow-boxing/202605/the-dark-side-of-ai)**
+
+Cases in which engagement with AI chatbots have resulted in violence show a need for more work on how AI processes crucial cues about those who aim to mishandle it.
+
+Psychology Today • 27m ago
 
 ---
 
@@ -131,7 +149,23 @@ Fortune • 21h ago
 
 The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.
 
-NPR • 18h ago
+NPR • 20h ago
+
+---
+
+**[Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)**
+
+Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
+
+Fortune • 22h ago
+
+---
+
+**[‘It’s called winning’: Why a tech industry super PAC is running ads about ICE](https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/)**
+
+Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
+
+The Washington Post • 5m ago
 
 ---
 
@@ -139,43 +173,7 @@ NPR • 18h ago
 
 Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?
 
-CNBC • 58m ago
-
----
-
-**[Automakers' main problem with AI features? Turning a profit.](https://finance.yahoo.com/news/automakers-main-problem-with-ai-features-turning-a-profit-130000111.html)**
-
-The auto industry has been experimenting with AI-based features for years with voice assistants, predictive features, and connected services. The problem is that most of it doesn't pay.
-
-Yahoo Finance • 58m ago
-
----
-
-**[China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model](https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/)**
-
-Reuters • 24m ago
-
----
-
-**[Opinion | A.I. Is a Job Creator](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)**
-
-The New York Times • 22h ago
-
----
-
-**[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
-
-Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
-
-The Guardian • 2h ago
-
----
-
-**[‘Remove illegals,’ the campaign ad said. Its funder: The AI lobby.](https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/)**
-
-Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
-
-The Washington Post • 24m ago
+CNBC • 2h ago
 
 ---
 
@@ -183,13 +181,13 @@ The Washington Post • 24m ago
 
 The sound of a cosmic howl
 
-The Atlantic • 2h ago
+The Atlantic • 4h ago
 
 ---
 
-**[Trump had ‘many’ concerns about AI draft policy order](https://www.politico.com/news/2026/05/22/trump-concerns-ai-policy-00934622)**
+**[Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)**
 
-Politico • 16h ago
+The New York Times • 2d ago
 
 ---
 
@@ -201,7 +199,7 @@ Politico • 16h ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 815 • 💬 726 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 815 • 💬 728 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -209,7 +207,7 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 689 • 💬 416 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 691 • 💬 416 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -217,7 +215,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 632 • 💬 527 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 633 • 💬 530 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -233,7 +231,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 319 • 💬 298 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 322 • 💬 298 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -241,7 +239,7 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.
 
-⬆️ 258 • 💬 194 • 2d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+⬆️ 258 • 💬 195 • 2d ago • [TechCrunch](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
 
 ---
 
@@ -255,7 +253,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 227 • 💬 175 • 11h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 230 • 💬 177 • 12h ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -263,7 +261,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 205 • 💬 60 • 10h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 209 • 💬 60 • 11h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -285,7 +283,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 11K • 👍 301 • 💬 70 • ⏱️ 5:06 • 10h ago
+👁️ 18K • 👍 458 • 💬 109 • ⏱️ 5:06 • 11h ago
 
 ---
 
@@ -295,7 +293,7 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 21K • 👍 1K • 💬 125 • ⏱️ 13:31 • 15h ago
+👁️ 24K • 👍 1K • 💬 137 • ⏱️ 13:31 • 16h ago
 
 ---
 
@@ -305,37 +303,17 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 434K • 👍 15K • 💬 881 • ⏱️ 5:44 • 21h ago
+👁️ 468K • 👍 16K • 💬 924 • ⏱️ 5:44 • 22h ago
 
 ---
 
-**[Joe Rogan accidentally exposed AI in four words](https://www.youtube.com/watch?v=waFl4uBfXRA)**
+**[Microsoft Can’t Afford AI. Starbucks Can’t Trust It! #ai #anthropic #openai #claude #aibubble](https://www.youtube.com/watch?v=zzNyQxHWPnM)**
 
-Token mania. I've been a user of Proton for almost a decade and I'm grateful to them for agreeing to sponsor this video. Proton ...
+The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azure, uses claude inside 365 copilot, has a $30 ...
 
-📺 Mo Bitar
+📺 Mayankshah
 
-👁️ 151K • 👍 9K • 💬 1K • ⏱️ 11:39 • 23h ago
-
----
-
-**[Anthropic Just Reset AI Expectations](https://www.youtube.com/watch?v=9N3jEavj5Ps)**
-
-Anthropic delivered one of the most consequential weeks any AI lab has had yet: Andrej Karpathy joined to work on ...
-
-📺 The AI Daily Brief: Artificial Intelligence News
-
-👁️ 11K • 👍 269 • 💬 26 • ⏱️ 21:56 • 1d ago
-
----
-
-**[Trump Mocks Stephen Colbert With AI Video After ‘Late Show’ Exit](https://www.youtube.com/watch?v=NyPBDD_D5WQ)**
-
-S President Donald Trump has sparked fresh controversy after sharing an AI-generated video targeting Stephen Colbert following ...
-
-📺 The Indian Express
-
-👁️ 2K • 👍 51 • 💬 5 • ⏱️ 0:23 • 4h ago
+👁️ 4K • 👍 262 • 💬 12 • ⏱️ 1:42 • 45m ago
 
 ---
 
@@ -345,27 +323,47 @@ CNN's Sara Sidner and chief data analyst Harry Enten examine the evolving landsc
 
 📺 CNN
 
-👁️ 58K • 👍 539 • 💬 146 • ⏱️ 4:08 • 16h ago
+👁️ 60K • 👍 561 • 💬 160 • ⏱️ 4:08 • 18h ago
 
 ---
 
-**[Ex-Google CEO just exposed the whole AI sh*tshow](https://www.youtube.com/watch?v=XSxki8gaWHk)**
+**[Joe Rogan accidentally exposed AI in four words](https://www.youtube.com/watch?v=waFl4uBfXRA)**
 
-Just say yes! https://x.com/@atmoio https://x.com/jasonscheer/status/2055748401783083293 ...
+Token mania. I've been a user of Proton for almost a decade and I'm grateful to them for agreeing to sponsor this video. Proton ...
 
 📺 Mo Bitar
 
-👁️ 211K • 👍 10K • 💬 2K • ⏱️ 6:42 • 3d ago
+👁️ 159K • 👍 10K • 💬 2K • ⏱️ 11:39 • 1d ago
 
 ---
 
-**[Google&#39;s New Gemini Omni Is Too Much.](https://www.youtube.com/watch?v=zc1_YAi7scA)**
+**[Claude Mythos: The AI that can break the internet | DW News](https://www.youtube.com/watch?v=C3hAya6JjJ8)**
 
-Google I/O 2026 dropped Gemini Omni, a world-model that simulates physics, edits video, and might be the largest AI video leap ...
+A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain exploits—raising global fears over cyberattacks, ...
 
-📺 AI For Humans
+📺 DW News
 
-👁️ 13K • 👍 629 • 💬 118 • ⏱️ 27:58 • 3d ago
+👁️ 11K • 👍 231 • 💬 44 • ⏱️ 3:45 • 15h ago
+
+---
+
+**[Trump Mocks Stephen Colbert With AI Video After ‘Late Show’ Exit](https://www.youtube.com/watch?v=NyPBDD_D5WQ)**
+
+S President Donald Trump has sparked fresh controversy after sharing an AI-generated video targeting Stephen Colbert following ...
+
+📺 The Indian Express
+
+👁️ 5K • 👍 94 • 💬 10 • ⏱️ 0:23 • 5h ago
+
+---
+
+**[AI News: These Google Updates Are Dividing People](https://www.youtube.com/watch?v=kyOPFFy3I38)**
+
+Here's the AI News you might have missed this week. If your team lives in Slack, check out @getviktor_com for free at ...
+
+📺 Matt Wolfe
+
+👁️ 50K • 👍 2K • 💬 209 • ⏱️ 44:46 • 22h ago
 
 ---
 
@@ -375,7 +373,7 @@ Build software that lasts. Join the Software Design Mastery waiting list → htt
 
 📺 ArjanCodes
 
-👁️ 48K • 👍 3K • 💬 225 • ⏱️ 8:44 • 22h ago
+👁️ 53K • 👍 3K • 💬 263 • ⏱️ 8:44 • 1d ago
 
 ---
 
@@ -391,19 +389,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 667 • 6h ago
-
----
-
-**[supertonic-3](https://huggingface.co/Supertone/supertonic-3)**
-
-*Supertone*
-
-Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 languages with improved stability and speaker similarity. It enables local, cloud-free speech synthesis for applications requiring real-time voice generation.
-
-`text-to-speech`
-
-⬇️ 40,368 • ❤️ 598 • 5d ago
+⬇️ 1,227 • ❤️ 681 • 7h ago
 
 ---
 
@@ -415,19 +401,19 @@ Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 
 
 `translation` `2.0B`
 
-⬇️ 2,564 • ❤️ 321 • 1d ago
+⬇️ 2,564 • ❤️ 348 • 1d ago
 
 ---
 
-**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
+**[supertonic-3](https://huggingface.co/Supertone/supertonic-3)**
 
-*OpenBMB*
+*Supertone*
 
-MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device image and video understanding, offering strong foundation and multimodal capabilities with mixed visual token compression for flexible speed/accuracy trade-offs.
+Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 languages with improved stability and speaker similarity. It enables local, cloud-free speech synthesis for applications requiring real-time voice generation.
 
-`image-text-to-text` `1.3B`
+`text-to-speech`
 
-⬇️ 247,170 • ❤️ 910 • 3d ago
+⬇️ 40,368 • ❤️ 601 • 5d ago
 
 ---
 
@@ -439,7 +425,19 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 `translation` `30.1B`
 
-⬇️ 970 • ❤️ 280 • 1d ago
+⬇️ 970 • ❤️ 282 • 1d ago
+
+---
+
+**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
+
+*OpenBMB*
+
+MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device image and video understanding, offering strong foundation and multimodal capabilities with mixed visual token compression for flexible speed/accuracy trade-offs.
+
+`image-text-to-text` `1.3B`
+
+⬇️ 247,170 • ❤️ 911 • 4d ago
 
 ---
 
@@ -451,7 +449,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 5,283 • ❤️ 259 • 3d ago
+⬇️ 5,283 • ❤️ 262 • 3d ago
 
 ---
 
@@ -475,7 +473,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 597,584 • ❤️ 427 • 3d ago
+⬇️ 597,584 • ❤️ 430 • 3d ago
 
 ---
 
@@ -487,19 +485,17 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,286,075 • ❤️ 1,283 • 1d ago
+⬇️ 1,286,075 • ❤️ 1,290 • 1d ago
 
 ---
 
-**[Qwen3.6-35B-A3B-MTP-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF)**
+**[command-a-plus-05-2026-w4a4](https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4)**
 
-*Unsloth AI*
+*Cohere Labs*
 
-Qwen3.6-35B-A3B-MTP-GGUF is a 35B parameter causal language model with vision capabilities, optimized for faster inference via MTP. It excels at agentic coding, reasoning, and supports long context lengths up to 1M tokens, making it suitable for complex development tasks and advanced AI agents.
+`image-text-to-text` `125.8B`
 
-`image-text-to-text` `35.5B`
-
-⬇️ 507,644 • ❤️ 337 • 3d ago
+⬇️ 4,261 • ❤️ 176 • 1d ago
 
 ---
 
@@ -519,19 +515,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 162 • 💬 2 • ⭐ 64,536 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 **[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)**
 
 *Fengyi Fu, Mengqi Huang, Shaojin Wu et al. (13 authors)*
@@ -546,6 +529,19 @@ Lance is a unified multimodal model that combines understanding, generation, and
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 162 • 💬 2 • ⭐ 64,593 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[SANA-Video: Efficient Video Generation with Block Linear Diffusion
   Transformer](https://huggingface.co/papers/2509.24695)**
 
@@ -555,7 +551,7 @@ Lance is a unified multimodal model that combines understanding, generation, and
 
 SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 53 • 💬 2 • ⭐ 7,291 • 7mo ago
+▲ 53 • 💬 2 • ⭐ 7,349 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
@@ -569,7 +565,7 @@ SANA-Video, a small diffusion model, efficiently generates high-resolution, high
 
 Mega-ASR framework improves robustness in real-world speech recognition through compound-data construction and progressive acoustic-to-semantic optimization techniques.
 
-▲ 126 • 💬 3 • ⭐ 319 • 4d ago
+▲ 126 • 💬 3 • ⭐ 372 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.19833) • [💻 code](https://github.com/xzf-thu/Mega-ASR) • [🔗 project](https://xzf-thu.github.io/Mega-ASR/)
 
@@ -582,7 +578,7 @@ Mega-ASR framework improves robustness in real-world speech recognition through 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 78 • 💬 7 • ⭐ 74,544 • 22mo ago
+▲ 78 • 💬 7 • ⭐ 74,594 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -626,15 +622,17 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 ---
 
-**[L2P: Unlocking Latent Potential for Pixel Generation](https://huggingface.co/papers/2605.12013)**
+**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)**
 
-*Zhennan Chen, Junwei Zhu, Xu Chen et al. (10 authors)*
+*Yukang Chen, Luozhou Wang, Wei Huang et al. (16 authors)*
 
-Latent-to-Pixel transfer paradigm efficiently leverages pre-trained latent diffusion models to create pixel-space models with minimal training overhead and high-resolution generation capabilities.
+🏢 NVIDIA
 
-▲ 30 • 💬 1 • ⭐ 73 • 11d ago
+LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
 
-[🎓 arXiv](https://arxiv.org/abs/2605.12013) • [💻 code](https://github.com/TencentYoutuResearch/T2I-L2P) • [🔗 project](https://nju-pcalab.github.io/projects/L2P/)
+▲ 108 • 💬 3 • ⭐ 1,703 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
 
 ---
 
@@ -648,7 +646,7 @@ Latent-to-Pixel transfer paradigm efficiently leverages pre-trained latent diffu
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.7k • 🔱 482 • 1d ago
+⭐ 4.7k • 🔱 485 • 1d ago
 
 ---
 
@@ -668,7 +666,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 177 • 2h ago
+⭐ 2.6k • 🔱 177 • 3h ago
 
 ---
 
@@ -688,7 +686,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.2k • 🔱 341 • 6d ago
+⭐ 2.2k • 🔱 343 • 6d ago
 
 ---
 
@@ -696,7 +694,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 1.9k • 🔱 424 • 2d ago
+⭐ 2.0k • 🔱 433 • 2d ago
 
 ---
 
@@ -706,7 +704,7 @@ AI coding jargon, explained in plain English.
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 209 • 16d ago
+⭐ 1.8k • 🔱 210 • 16d ago
 
 ---
 
@@ -726,7 +724,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 1.6k • 🔱 111 • 2d ago
+⭐ 1.7k • 🔱 113 • 2d ago
 
 ---
 
@@ -736,7 +734,7 @@ Hold a key, speak, release — AI-polished text appears at your cursor in any ap
 
 `HTML` `ai-prompt` `asr` `dictation` `llm` `macos`
 
-⭐ 1.5k • 🔱 129 • 13h ago
+⭐ 1.5k • 🔱 129 • 18m ago
 
 ---
 
