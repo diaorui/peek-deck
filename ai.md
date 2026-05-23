@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-23T15:09:00.211865+00:00'
+updated: '2026-05-23T16:31:13.485725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 23, 2026 at 15:09 UTC  
+**Last Updated:** May 23, 2026 at 16:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The tech giant made thousands of engineers train their AI replacements—then fired them.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 4h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 6h ago
 
 ---
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-22m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 The current state of AI is very similar to a big musical chairs game, which is being played with the entire world at stake. The music started playing a few years ago. At first everyone thought the music was interesting, but playing the game was a hobby for weekends and late nights. Curious and somewhat satisfaying but still not a career, a way of living. A few months ago things changed. The music is now great. The game is paying big prizes. And everyone wants to play. The catch is, there's not enough chairs even to start the first round of the game. There's no place in the room actually. If you want to play the game, you need to be on the room first, but the cost of entry is growing fast. For a long time the game organizers provided big rooms to host everyone wanting to play. But the problem is, the room lease is expensive. And because demand is growing, they need a bigger room. But they figured out they can actually charge more for people to come into the room. At some point even only the rich kids will get inside the room to play. Now the worst part: this isn't a zero sum game. The admission ticket may be expensive, but the prize for winning the game is bigger. And that's why rich kids keep joining the game. They have the money, but they wouldn't join if they found that they were losing money. Rich kids don't play the lottery, they don't need to. But because the game pays so well, they found that they can buy all the tickets and get all the prizes themselves. The biggest risk of AI is this: the tools will only get better, but they are going to be more expensive every week until only the rich kids will afford them.If you aren't rich, your chance is now. Later is going to be too late.
 
-4h ago
+5h ago
 
 ---
 
@@ -63,7 +63,7 @@ The current state of AI is very similar to a big musical chairs game, which is b
 
 OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 2h ago
 
 ---
 
@@ -77,7 +77,7 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 **[Anthropic’s Code with Claude showed off coding's future—whether you like it or not](https://www.reddit.com/r/artificial/comments/1tlh202/anthropics_code_with_claude_showed_off_codings/)**
 
-🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 1h ago
+🔗 [technologyreview.com](https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/) • 2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Summary: AGI has been cancelled due to inflation. AI has become so expensive tha
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/05/23/tech/ai-internet-search) • 3h ago
 
 ---
 
@@ -109,7 +109,7 @@ I had a simple google search turn up the most random useless results so I asked:
 
 It looks like Gemini and Claude Code has been either heavily downgraded or limited, due to lack of or high cost of compute. Why can't people and engineers run the ai's using their own gpu's that are sitting idle in their pcs?
 
-4h ago
+5h ago
 
 ---
 
@@ -117,31 +117,45 @@ It looks like Gemini and Claude Code has been either heavily downgraded or limit
 
 ## Google News: "ai"
 
+**[White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)**
+
+The New York Times • 19h ago
+
+---
+
 **[‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’](https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery)**
 
 Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendations
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)**
+**[Trump posts AI video depicting him throwing Colbert in a dumpster and dancing](https://thehill.com/homenews/administration/5892405-trump-shares-ai-video-colbert/)**
 
-The New York Times • 17h ago
-
----
-
-**[Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)**
-
-WSJ • 9m ago
+The Hill • 14h ago
 
 ---
 
-**[The Dark Side of AI](https://www.psychologytoday.com/us/blog/shadow-boxing/202605/the-dark-side-of-ai)**
+**[Donald Trump shares AI-generated video of him throwing Stephen Colbert in bin](https://news.sky.com/story/donald-trump-shares-ai-generated-video-of-him-throwing-stephen-colbert-in-bin-13547295)**
 
-Cases in which engagement with AI chatbots have resulted in violence show a need for more work on how AI processes crucial cues about those who aim to mishandle it.
+Sky News • 1h ago
 
-Psychology Today • 27m ago
+---
+
+**[Trump’s Latest Strange AI Images Attack Stephen Colbert, Greenland And More](https://www.forbes.com/sites/zacharyfolk/2026/05/23/trump-posts-more-bizarre-ai-images-targeting-greenland-stephen-colbert-and-others/)**
+
+The president appears to be fixating once again on Greenland, the Danish territory in the Arctic.
+
+Forbes • 29m ago
+
+---
+
+**['The Future of Truth' and the Reckoning Over AI Writing](https://www.theatlantic.com/technology/2026/05/ai-writing-scandal-future-of-truth-book/687290/)**
+
+What counts as an acceptable use of AI has never been fuzzier.
+
+The Atlantic • 18m ago
 
 ---
 
@@ -149,45 +163,29 @@ Psychology Today • 27m ago
 
 The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
-**[Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)**
+**[Sundar Pichai Understands Why People Are Anxious About A.I.](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html)**
 
-Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
-
-Fortune • 22h ago
+The New York Times • 1d ago
 
 ---
 
-**[‘It’s called winning’: Why a tech industry super PAC is running ads about ICE](https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/)**
+**[Google unveils AI tools that let users build Android apps without coding](https://www.10tv.com/article/news/nation-world/google-ai-studio-artificial-intelligence-tools-build-android-apps/507-a6573c75-f1be-4bfb-92c9-44f75f4ef29e)**
 
-Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
+Google unveiled new AI tools that let users create simple Android apps through prompts and natural language instead of coding. Here's how it works. (AP Photo)
 
-The Washington Post • 5m ago
-
----
-
-**[Microsoft’s new responsible tech lead on how to humanize high-speed AI development](https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html)**
-
-Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?
-
-CNBC • 2h ago
+10TV • 6m ago
 
 ---
 
-**[Why College Students Are Booing AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)**
+**[‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence](https://www.yahoo.com/news/politics/articles/f-guy-graduation-speakers-keep-125456074.html)**
 
-The sound of a cosmic howl
+Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
 
-The Atlantic • 4h ago
-
----
-
-**[Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)**
-
-The New York Times • 2d ago
+Yahoo • 3h ago
 
 ---
 
@@ -199,7 +197,7 @@ The New York Times • 2d ago
 
 AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
 
-⬆️ 815 • 💬 728 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+⬆️ 816 • 💬 728 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 
 ---
 
@@ -207,7 +205,7 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
 
-⬆️ 691 • 💬 416 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
+⬆️ 693 • 💬 417 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
 
 ---
 
@@ -215,7 +213,7 @@ Stop throwing AI-generated walls of text into conversations. If they wanted an A
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 633 • 💬 530 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 634 • 💬 532 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -223,7 +221,7 @@ Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University
 
 LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
-⬆️ 369 • 💬 536 • 2d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 370 • 💬 536 • 2d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 
 ---
 
@@ -231,7 +229,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 322 • 💬 298 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 322 • 💬 300 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -247,13 +245,13 @@ In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce 
 
 The South Korean chipmaker struck a last-minute deal with its union to avert an 18-day strike, unlocking a $26.6 billion payout pool
 
-⬆️ 249 • 💬 195 • 1d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+⬆️ 250 • 💬 195 • 1d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
 
 ---
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 230 • 💬 177 • 12h ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 236 • 💬 180 • 14h ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -261,7 +259,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 209 • 💬 60 • 11h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 211 • 💬 60 • 12h ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -269,7 +267,7 @@ Companies are racing to incentivize employees to use AI. But as some companies a
 
 Organisations using AI to cut headcount are making a short-term trade with long-term consequences. The ones holding their teams together and investing in how those teams operate with AI are building something more durable.
 
-⬆️ 200 • 💬 190 • 1d ago • [libertas.software](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
+⬆️ 201 • 💬 190 • 1d ago • [libertas.software](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
 
 ---
 
@@ -283,7 +281,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 18K • 👍 458 • 💬 109 • ⏱️ 5:06 • 11h ago
+👁️ 18K • 👍 458 • 💬 109 • ⏱️ 5:06 • 12h ago
 
 ---
 
@@ -293,7 +291,7 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 24K • 👍 1K • 💬 137 • ⏱️ 13:31 • 16h ago
+👁️ 24K • 👍 1K • 💬 137 • ⏱️ 13:31 • 17h ago
 
 ---
 
@@ -303,7 +301,7 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 468K • 👍 16K • 💬 924 • ⏱️ 5:44 • 22h ago
+👁️ 468K • 👍 16K • 💬 924 • ⏱️ 5:44 • 23h ago
 
 ---
 
@@ -313,7 +311,7 @@ The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azu
 
 📺 Mayankshah
 
-👁️ 4K • 👍 262 • 💬 12 • ⏱️ 1:42 • 45m ago
+👁️ 4K • 👍 262 • 💬 12 • ⏱️ 1:42 • 2h ago
 
 ---
 
@@ -323,7 +321,7 @@ CNN's Sara Sidner and chief data analyst Harry Enten examine the evolving landsc
 
 📺 CNN
 
-👁️ 60K • 👍 561 • 💬 160 • ⏱️ 4:08 • 18h ago
+👁️ 60K • 👍 561 • 💬 160 • ⏱️ 4:08 • 19h ago
 
 ---
 
@@ -343,7 +341,7 @@ A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain expl
 
 📺 DW News
 
-👁️ 11K • 👍 231 • 💬 44 • ⏱️ 3:45 • 15h ago
+👁️ 11K • 👍 231 • 💬 44 • ⏱️ 3:45 • 16h ago
 
 ---
 
@@ -353,7 +351,7 @@ S President Donald Trump has sparked fresh controversy after sharing an AI-gener
 
 📺 The Indian Express
 
-👁️ 5K • 👍 94 • 💬 10 • ⏱️ 0:23 • 5h ago
+👁️ 5K • 👍 94 • 💬 10 • ⏱️ 0:23 • 6h ago
 
 ---
 
@@ -363,7 +361,7 @@ Here's the AI News you might have missed this week. If your team lives in Slack,
 
 📺 Matt Wolfe
 
-👁️ 50K • 👍 2K • 💬 209 • ⏱️ 44:46 • 22h ago
+👁️ 50K • 👍 2K • 💬 209 • ⏱️ 44:46 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 681 • 7h ago
+⬇️ 1,227 • ❤️ 681 • 9h ago
 
 ---
 
@@ -656,7 +654,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 1.1k • 5d ago
+⭐ 3.4k • 🔱 1.1k • 6d ago
 
 ---
 
@@ -666,7 +664,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 177 • 3h ago
+⭐ 2.6k • 🔱 177 • 4h ago
 
 ---
 
@@ -734,7 +732,7 @@ Hold a key, speak, release — AI-polished text appears at your cursor in any ap
 
 `HTML` `ai-prompt` `asr` `dictation` `llm` `macos`
 
-⭐ 1.5k • 🔱 129 • 18m ago
+⭐ 1.5k • 🔱 129 • 1h ago
 
 ---
 

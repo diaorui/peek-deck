@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T15:09:00.226967+00:00'
+updated: '2026-05-23T16:31:13.500360+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 15:09 UTC  
+**Last Updated:** May 23, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -3.1%  
-**30d:** -10.8%  
-**90d:** +11.2%  
-**1y:** -18.3%  
+**24h:** -3.0%  
+**7d:** -3.4%  
+**30d:** -11.1%  
+**90d:** +10.8%  
+**1y:** -18.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time. we built a governance stack for exactly this execution-time drift, OZ Governor extensions plus a security council role that can block execution when on-chain stake diverges from the snapshot, https://s4l.ai/r/iqhdj5sm
 
-1d ago
+2d ago
 
 ---
 
@@ -152,14 +152,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
-
-Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
-
-The Block • 1d ago
-
----
-
 **[South Korean Funeral Firm Loses $33 Million on BitMine Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/south-korean-funeral-firm-loses-141720914.html)**
 
 Bumo Sarang lost $33M of customer prepaid funds on a 2x leveraged BitMine ETF, exposing South Korea's loose funeral rules.
@@ -168,11 +160,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Ethereum-Focused SBET And BMNR Join Russell 3000 Index, Following MSTR's Playbook](https://finance.yahoo.com/markets/crypto/articles/ethereum-focused-sbet-bmnr-join-125541948.html)**
+**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
 
-SharpLink Gaming and BitMine Immersion enter the index despite mixed earnings results as Ethereum trades down more than 4% in the past 24 hours.
+Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
 
-Yahoo Finance • 2h ago
+The Block • 1d ago
 
 ---
 
@@ -194,7 +186,7 @@ Reuters • 1d ago
 
 As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -210,7 +202,15 @@ CoinDesk • 1d ago
 
 A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
 
-TradingView • 8h ago
+TradingView • 9h ago
+
+---
+
+**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
+
+Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -222,11 +222,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
+**[Zcash Could Threaten Both Bitcoin and Ethereum. Here's How.](https://www.fool.com/investing/2026/05/21/zcash-could-threaten-both-bitcoin-and-ethereum-her/)**
 
-Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
+The privacy coin has some very ambitious upgrades planned.
 
-Crypto Briefing • 56m ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 3K • 👍 185 • 25m ago
+👁️ 3K • 👍 185 • 1h ago
 
 ---
 
@@ -270,7 +270,7 @@ WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 73 • 💬 31 • ⏱️ 22:13 • 23h ago
+👁️ 2K • 👍 73 • 💬 31 • ⏱️ 22:13 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: THIS IS COMING NEXT!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 11K • 👍 383 • 💬 114 • ⏱️ 20:25 • 13h ago
+👁️ 11K • 👍 383 • 💬 114 • ⏱️ 20:25 • 14h ago
 
 ---
 
@@ -310,7 +310,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 2K • 👍 87 • 💬 40 • ⏱️ 18:22 • 16h ago
+👁️ 2K • 👍 87 • 💬 40 • ⏱️ 18:22 • 18h ago
 
 ---
 
@@ -320,7 +320,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 149 • 💬 11 • ⏱️ 10:22 • 12h ago
+👁️ 1K • 👍 149 • 💬 11 • ⏱️ 10:22 • 13h ago
 
 ---
 
@@ -330,7 +330,7 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 357 • 💬 24 • ⏱️ 26:45 • 21h ago
+👁️ 6K • 👍 357 • 💬 24 • ⏱️ 26:45 • 22h ago
 
 ---
 

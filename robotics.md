@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-23T15:09:00.229883+00:00'
+updated: '2026-05-23T16:31:13.503589+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 23, 2026 at 15:09 UTC  
+**Last Updated:** May 23, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,31 +36,39 @@ Robotics research and industry news
 
 Hey r/robotics, A while back, this community helped me choose the name "Arctos" for my 6-DOF robotic arm project, and it has been an incredible journey since then. Now, I’m back with a new build: a mobile manipulator base designed to carry the arm, and it needs an official name. As promised, I’ll name it after whichever community suggestion gets the most upvotes! The Specs: - Drivetrain: 4x NEMA 23 stepper motors with TMC2209 drivers - Chassis: 3D-printed modular structure reinforced with M8 threaded rods - Brain & Control: ESP32 handling low-level tasks, paired with a custom Android app - Software Ecosystem: Fully integrated into Arctos Studio. ( Will do ROS/Isaac sim integration) - Sensors: 4x ultrasonic sensors, LiDAR, and a depth camera - Scavenged Tech: Powered by reused cordless drill batteries, using an old smartphone for its IMU and RGB camera - The Goal: An ultra-accessible, heavy-duty AGV with a target build cost of ~$250 USD, capable of carrying a 25kg payload. What's Next: The physical chassis is assembled and moving. Next up is implementing full SLAM navigation, VLM (Vision-Language Model) task grounding for autonomous manipulation, and mounting the arm on top. Drop your best name ideas below! Let's see what you guys come up with this time.
 
-5h ago
+7h ago
 
 ---
 
 **[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Building (mostly) 3d-printed robot arm](https://www.reddit.com/r/robotics/comments/1tlbljh/building_mostly_3dprinted_robot_arm/)**
 
-5h ago
+7h ago
 
 ---
 
 **[Arm robot dual servos](https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Hypnotic Multi-Axis Robotics by KUKA](https://www.reddit.com/r/robotics/comments/1tkouh9/hypnotic_multiaxis_robotics_by_kuka/)**
 
-22h ago
+23h ago
+
+---
+
+**[Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E](https://www.reddit.com/r/robotics/comments/1tll1qf/pi05_vla_on_jetson_orin_with_flashrt_early/)**
+
+Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E Hi robotics community, I’d like to share an early community update from FlashRT, my open-source realtime inference engine for embodied AI / VLA deployment. A contributor recently added an initial Pi0.5 path on Jetson AGX Orin, targeting edge robot inference instead of cloud-only execution. Current community benchmark on Jetson AGX Orin 64GB / SM87: Pi0.5 DROID INT8, 2 cameras, 27 layers, 10 diffusion steps cache_frames=1: P50: 124 ms Throughput: 8.04 Hz Cosine: 1.000 vs BF16 reference cache_frames=2: P50: 127 / 39 ms Throughput: 12.2 Hz amortized Cosine: 0.991 For comparison, the BF16 path on Orin is currently around: cache_frames=1: P50: ~216 ms Throughput: ~4.6 Hz cache_frames=2: Throughput: ~7.3 Hz This is still not “solved” robotics inference, but I think it is a meaningful step: Pi-style VLA policies are very sensitive to latency, runtime overhead, and small-batch execution, and edge deployment on Jetson is exactly where general cloud / batch-oriented inference assumptions start to break. FlashRT focuses on direct CUDA execution, fused kernels, quantization-aware inference, and CUDA Graph replay for small-batch realtime workloads. Repo: https://github.com/LiangSu8899/FlashRT Orin deployment docs: https://github.com/LiangSu8899/FlashRT/blob/main/docs/deployment_orin.md This Orin path is still early and community-driven. If you are working on robot manipulation, VLA policies, Jetson deployment, LIBERO / DROID-style policies, or real robot closed-loop testing, I’d really appreciate feedback, benchmarks, issues, and PRs. I’d especially love to see more results on different robots, camera setups, Orin SKUs, and closed-loop tasks.
+
+3m ago
 
 ---
 
@@ -68,7 +76,7 @@ Hey r/robotics, A while back, this community helped me choose the name "Arctos" 
 
 I am Willing to participate in WRO robosport catagory in double tennis. Here I need to make 2 bots, one for ramp and one for barrier. I have seen many people use lego spike prime kit but honestly these are too expensive and locally not available. So, what could i do? If i go for DIY option, then do u guys have any source or help to look for? Or if i stick to the lego spike prime kit then how could i manage it.
 
-11m ago
+1h ago
 
 ---
 
@@ -92,13 +100,7 @@ Just came across this video of our low latency teleop software (Adamo in case an
 
 ROS News for the Week of May 18th, 2026    🎉 ROS 2 Lyrical Luth is here! Read the full release notes here, and snag your swag here!  You can read our full release announcement here.  Big thanks to all of our contributors, maintainers, testers, build farmers, OSRA members, and especially our ROS Boss @sloretz, and our infra lead @cottsay.  We’re going to take a long weekend break and get right back to it working on ROS 2 Makoa Mata-Mata! 🏄‍♀️             The ROS events calendar is...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 22h ago
-
----
-
-**[How to wake up this battery](https://www.reddit.com/r/robotics/comments/1tkvj9a/how_to_wake_up_this_battery/)**
-
-18h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-18th-2026/55022) • 23h ago
 
 ---
 
@@ -126,7 +128,7 @@ IEEE Spectrum • 2d ago
 
 China is testing humanoid robots in tea production as part of preparations for the 2026 World Humanoid Robot Games.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -134,7 +136,7 @@ Interesting Engineering • 22h ago
 
 August Robotics lands $30M to automate precision construction with robots - SiliconANGLE
 
-SiliconANGLE • 1d ago
+SiliconANGLE • 2d ago
 
 ---
 
@@ -143,12 +145,6 @@ SiliconANGLE • 1d ago
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
 
 Fox News • 1d ago
-
----
-
-**[Moto Pizza CEO launches robotics venture to bring automation in-house](https://www.bizjournals.com/seattle/news/2026/05/21/moto-pizza-ceo-lee-kindell-robotics-stadium-launch.html)**
-
-The Business Journals • 1d ago
 
 ---
 
@@ -166,17 +162,25 @@ Reuters • 1d ago
 
 ---
 
-**[Omaha team goes undefeated, wins world championship at 900-team robotics competition](https://omaha.com/news/local/article_9510675c-6933-4138-88f2-5996fe3b737f.html)**
-
-A Nebraska robotics team just beat 900 teams from 42 countries. Brownell Talbot finished 23-0 to win the VEX world title.
-
-Omaha World-Herald • 1d ago
-
----
-
 **[Unlocking soft robotics control with AI's cousin: Reservoir computing](https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out](https://finance.yahoo.com/news/quantum-computing-robotics-arriving-faster-171144893.html)**
+
+Intuitive Surgical’s da Vinci 5 surgical platform, which began shipping in earnest on April 1, 2026, runs on 10,000 times the computing power of the da Vinci Xi and was co-engineered with NVIDIA’s Isaac platform. That is a working hospital robot, on the floor, today, that needed an AI compute stack nobody had five years ... Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Robotic exoskeletons promise easier hikes and high-tech workouts](https://www.nbcnews.com/video/robotic-exoskeletons-promise-easier-hikes-and-high-tech-workouts-263844421999)**
+
+Wearable exoskeletons promise to boost endurance on hikes and workouts. NBC News' Ryan Chandler explores whether the high-tech gear is the future of fitness - or just a fad.
+
+NBC News • 13h ago
 
 ---
 
@@ -190,7 +194,7 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 14K • 👍 210 • 💬 92 • ⏱️ 5:15 • 20h ago
+👁️ 14K • 👍 210 • 💬 92 • ⏱️ 5:15 • 22h ago
 
 ---
 
@@ -200,7 +204,7 @@ STOP paying hundreds of dollars a month for lawn mower services and SWITCH to th
 
 📺 Max Tech
 
-👁️ 3K • 👍 91 • 💬 10 • ⏱️ 10:08 • 21h ago
+👁️ 3K • 👍 91 • 💬 10 • ⏱️ 10:08 • 22h ago
 
 ---
 
@@ -210,7 +214,7 @@ Humanoid robots are becoming China's new calling card to attract foreign clients
 
 📺 ShanghaiEye魔都眼
 
-👁️ 1K • 👍 42 • ⏱️ 1:40 • 5h ago
+👁️ 1K • 👍 42 • ⏱️ 1:40 • 6h ago
 
 ---
 
@@ -238,7 +242,7 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Tektite
 
-👁️ 1K • 👍 13 • ⏱️ 0:30 • 10h ago
+👁️ 1K • 👍 13 • ⏱️ 0:30 • 12h ago
 
 ---
 
@@ -266,7 +270,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 9K • 👍 705 • 💬 38 • ⏱️ 2:58 • 12h ago
+👁️ 9K • 👍 705 • 💬 38 • ⏱️ 2:58 • 13h ago
 
 ---
 
