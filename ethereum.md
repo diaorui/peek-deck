@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-23T18:01:59.516595+00:00'
+updated: '2026-05-23T19:44:40.579380+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 18:01 UTC  
+**Last Updated:** May 23, 2026 at 19:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,030.78
+### $2,079.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -3.1%  
-**30d:** -10.8%  
-**90d:** +11.2%  
-**1y:** -18.4%  
+**24h:** +0.2%  
+**7d:** -2.5%  
+**30d:** -10.3%  
+**90d:** +11.9%  
+**1y:** -17.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-20h ago
+21h ago
 
 ---
 
@@ -120,7 +120,7 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
 
-2d ago
+3d ago
 
 ---
 
@@ -182,11 +182,11 @@ Reuters • 1d ago
 
 ---
 
-**[$725 Million in Ethereum (ETH) Just Left Whale Wallets: The Timing Is Suspicious](https://beincrypto.com/ethereum-price-19-percent-drop-cycle-reset-analysis/)**
+**[From Patience To Frustration: Ethereum Social Sentiment Collapses As Price Retests $2,100](https://www.tradingview.com/news/newsbtc:1f901bb85094b:0-from-patience-to-frustration-ethereum-social-sentiment-collapses-as-price-retests-2-100/)**
 
-Ethereum price hovers at $2,132 with $2,102 support holding off a 19% drop to $1,697 cycle low as whales sell and hodlers buy.
+As Ethereum (ETH) remains trapped below crucial resistance levels, the altcoin seems to be experiencing “one of the most dramatic sentiment reversals in crypto,” with recent data revealing that traders have gone from patience to frustration in recent weeks.Ethereum Sentiment Takes A HitAccording to…
 
-BeInCrypto • 1d ago
+TradingView • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ CoinDesk • 1d ago
 
 A crypto founder and pundit recently took to the social media platform X to highlight a notable divergence between the Ethereum and Bitcoin markets. According to the analyst, the world’s leading cryptocurrencies could be nearing levels that would soon reverse their current price trajectories.Bitcoi…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView • 11h ago
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 485 • 💬 53 • ⏱️ 24:12 • 4h ago
+👁️ 5K • 👍 485 • 💬 53 • ⏱️ 24:12 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 776 • 👍 129 • 💬 1 • ⏱️ 10:01 • 35m ago
+👁️ 776 • 👍 129 • 💬 1 • ⏱️ 10:01 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 554 • 💬 66 • ⏱️ 35:01 • 1d ago
+👁️ 8K • 👍 554 • 💬 66 • ⏱️ 35:01 • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 158 • 💬 12 • ⏱️ 10:22 • 15h ago
+👁️ 1K • 👍 158 • 💬 12 • ⏱️ 10:22 • 16h ago
 
 ---
 

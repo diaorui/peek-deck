@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-23T18:01:59.510593+00:00'
+updated: '2026-05-23T19:44:40.574087+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 23, 2026 at 18:01 UTC  
+**Last Updated:** May 23, 2026 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,542.44
+### $75,812.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -2.5%  
-**30d:** -2.5%  
-**90d:** +16.8%  
-**1y:** -30.0%  
+**24h:** -0.1%  
+**7d:** -2.0%  
+**30d:** -2.0%  
+**90d:** +17.4%  
+**1y:** -29.6%  
 
 ---
 
@@ -81,23 +81,7 @@ Rank #1
 
 People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
 
-2h ago
-
----
-
-**[Your biggest threat in Bitcoin at 74k : is it the volatility, or is it you? Be honest](https://www.reddit.com/r/Bitcoin/comments/1tldqqx/your_biggest_threat_in_bitcoin_at_74k_is_it_the/)**
-
-I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
-
-6h ago
-
----
-
-**[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
-
-Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
-
-15h ago
+4h ago
 
 ---
 
@@ -105,7 +89,39 @@ Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anx
 
 Hey guys, I am looking to exit some old positions and hold BTC long term instead, Is this actually possible to swap / bridge cryptos to native BTC? If so, how? (cheap & fast)
 
-6h ago
+8h ago
+
+---
+
+**[Your biggest threat in Bitcoin at 74k : is it the volatility, or is it you? Be honest](https://www.reddit.com/r/Bitcoin/comments/1tldqqx/your_biggest_threat_in_bitcoin_at_74k_is_it_the/)**
+
+I woke up this morning thinking we had finally left the 70k range behind — we were at 83 — and then I opened my phone and saw 74. So I decided to write this. Does anyone actually remember what it felt like to watch Bitcoin crater in 2018? Not the charts, and not the percentages, but the feeling. I do, and it was rough. The thing went from basically nothing to almost $130k, which sounds insane when you say it out loud, and along the way it crashed constantly. In 2011 everyone said it was dead. 2014 it was a scam. 2018 the bubble finally burs, but it didn't. 2022 felt like the last nail in the coffin for a lot of people I knew personally. And now here we are again: price drops a bit and suddenly fear is back, same as always happened. What's weird to me is that nobody freaks out on the way up. When everyones portfolio is pumping, twitter and here on Reddit is full of guys who suddenly became geniuses overnight, zero panic. Fear only shows up when things get ugly. Funny how that works. So I've been thinking that maybe volatility was never really the problem? Volatility you can see coming, at least sort of. Fear is different, it messes with your head in ways that volatility just doesn't. One tanks the price, the other tanks your conviction, and conviction is way harder to rebuild, tbh. There's this thing about the Chinese bamboo tree, I know I know, sounds like something your uncle posts on facebook, but hear me out. The bamboo spends years doing literally nothing above ground. You water it, nothing. You wait, nothing. And then one day it just explodes, grows like crazy outta nowhere. People don't give up because the bamboo failed. They give up cause they ran out of patience before anything visible happened. Kinda feels like that with Bitcoin sometimes, no?......I think most people believe they can handle volatility, until they actually have to. Thats when you find out real quick what your conviction is actually worth.
+
+8h ago
+
+---
+
+**[The bitcoin emotion cycle](https://www.reddit.com/r/Bitcoin/comments/1tl3avk/the_bitcoin_emotion_cycle/)**
+
+Bitcoin’s price is back at $75,000. 📉 At this moment, I'm feeling a bit anxious, thinking it might drop further 😰 Just like when it was pumping to $100,000, I felt excited and thought it would keep going up. 📈
+
+17h ago
+
+---
+
+**[Fiat is a system, Neo. Bitcoin is the revolution.](https://www.reddit.com/r/Bitcoin/comments/1tlnfat/fiat_is_a_system_neo_bitcoin_is_the_revolution/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=lt3QMT4-nJ8) • 1h ago
+
+---
+
+**[Is your community working for you bags?](https://www.reddit.com/r/Bitcoin/comments/1tlpmh1/is_your_community_working_for_you_bags/)**
+
+Bitcoiners used to be schizo-paranoid-libertarian-cypherpunks preaching in the streets about magic internet. Now they’re just gayaf suit and tie Standard&Poor boomers trying to shill you bank bonds via stablecoins. What if the most Bitcoin thing isn’t Bitcoin anymore?
+
+20m ago
 
 ---
 
@@ -113,15 +129,15 @@ Hey guys, I am looking to exit some old positions and hold BTC long term instead
 
 Why are the charts for two not identical? https://stockcharts.com/sc3/ui/?s=%24BTCUSD https://stockcharts.com/sc3/ui/?s=IBIT
 
-4h ago
+6h ago
 
 ---
 
-**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
+**[Setting up BTC fund for family member](https://www.reddit.com/r/Bitcoin/comments/1tlopgb/setting_up_btc_fund_for_family_member/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+I have been holding BTC through self custody for a few years now with my cold wallet, so I'm familiar with how to set that up, securing seeds, etc. I have a very close relative that is interested in creating a BTC fund for the next generation but is most likely not a good candidate for self custody. We've so far started off very small over the last couple months but interested in making some more serious moves here soon. I am mostly responsible for setting this up and securing it, but this relative will be able to get access to seeds if something unexpected were to happen to me. I have discussed what to do in the event that this were to occur and wrote an essay explaining how to restore funds through seeds, how wallets work, what not to do with seeds, etc. I've set up a single sig wallet w/o a passphrase. I thought about the idea of getting into multisig, but after a bit of reflection I felt keeping this as simple as possible while putting more effort into securing the seeds was a much better option. Therefore, I stuck with a standard single sig wallet to avoid overcomplicating the initial setup and eventual recovery/restoration of funds once the wallet device itself becomes bricked lol. My biggest fear is somehow losing these funds because of stupidity or user error. I've devised a plan with regards to securing seed phrases by having backups and not keeping them all in one location. I'm looking for some input/advice on this. Purely looking at holding BTC for DECADES and not fooling around with Defi and other crap that you connect your wallet to
 
-12h ago
+56m ago
 
 ---
 
@@ -133,31 +149,25 @@ Full episode: https://open.spotify.com/episode/7ly1k2WvxrYpa53xlGqgwM https://pi
 
 ---
 
-**[10,000 BTC well spent. Happy Pizza Day everyone!](https://www.reddit.com/r/Bitcoin/comments/1tkmjjh/10000_btc_well_spent_happy_pizza_day_everyone/)**
+**[Daily Discussion, May 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1tl80ci/daily_discussion_may_23_2026/)**
 
-1d ago
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
----
-
-**[Happy Bitcoin Pizza Day](https://www.reddit.com/r/Bitcoin/comments/1tkw3vz/happy_bitcoin_pizza_day/)**
-
-Been a hodler longer than any of you will believe.
-
-20h ago
-
----
-
-**[OneKey Classic 1S vs Coldcard MK4](https://www.reddit.com/r/Bitcoin/comments/1tlhg1t/onekey_classic_1s_vs_coldcard_mk4/)**
-
-BTC only Not a daily/high transaction user Ease of transactions important Long term storage Strong security but not paranoid level Not asking for alternatives. If these were the only two wallets what would you get and why? Thanks.
-
-3h ago
+13h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
+
+Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
+
+CoinDesk • 1d ago
+
+---
 
 **[Trump Media Moves To Sell Bitcoin As Losses Reach $455 Million](https://finance.yahoo.com/markets/crypto/articles/trump-media-moves-sell-bitcoin-135600576.html)**
 
@@ -167,19 +177,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed](https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend)**
-
-Kevin Warsh is set to be sworn as Fed chairman in a White House ceremony on Friday morning.
-
-CoinDesk • 22h ago
-
----
-
 **[Adam Back Challenges Mark Cuban’s Bitcoin Data After Billionaire Sells His Holdings](https://finance.yahoo.com/markets/crypto/articles/adam-back-challenges-mark-cuban-165114310.html)**
 
 Adam Back disputes Mark Cuban's claim that Bitcoin 'lost the plot,' pointing to BTC's 25-30% rise vs gold's 14% drop.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +189,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -195,7 +197,7 @@ Yahoo Finance • 1h ago
 
 The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -219,7 +221,7 @@ Forbes • 1d ago
 
 Chun Wang, the first Mission Commander for SpaceX’s first commercial spaceflight to Mars, is crucial for the future transport of millions of tons of cargo and a million citizens to the Red Planet.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -261,7 +263,7 @@ A technique for embedding arbitrary data — text, images, code — inside Bitco
 
 August 15, 2010: someone created 184 billion BTC out of thin air. Five hours later, it was fixed. Here is the full story.
 
-⬆️ 4 • 💬 0 • 1d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
+⬆️ 4 • 💬 0 • 2d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
 
 ---
 
@@ -305,7 +307,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 16h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
+⬆️ 2 • 💬 0 • 17h ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -327,7 +329,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 1K • 💬 38 • ⏱️ 53:11 • 5h ago
+👁️ 14K • 👍 1K • 💬 38 • ⏱️ 53:11 • 6h ago
 
 ---
 
@@ -357,7 +359,7 @@ Mark Cuban and Jason Calacanis both say the Bitcoin trade is over. This episode 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 191 • ⏱️ 17:39 • 20h ago
+👁️ 20K • 👍 1K • 💬 191 • ⏱️ 17:39 • 21h ago
 
 ---
 
@@ -387,7 +389,7 @@ URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) 
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 167 • ⏱️ 13:06 • 20h ago
+👁️ 39K • 👍 2K • 💬 167 • ⏱️ 13:06 • 21h ago
 
 ---
 
@@ -407,7 +409,7 @@ Lawmakers are now confronting a narrowing legislative calendar as competing prio
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 242 • ⏱️ 17:55 • 22h ago
+👁️ 42K • 👍 2K • 💬 242 • ⏱️ 17:55 • 1d ago
 
 ---
 
@@ -417,7 +419,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 320 • 💬 59 • ⏱️ 5:29 • 8h ago
+👁️ 4K • 👍 320 • 💬 59 • ⏱️ 5:29 • 10h ago
 
 ---
 
