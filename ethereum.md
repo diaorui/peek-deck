@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-22T22:34:19.282047+00:00'
+updated: '2026-05-23T00:07:48.373985+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 22, 2026 at 22:34 UTC  
+**Last Updated:** May 23, 2026 at 00:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,074.80
+### $2,066.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -4.9%  
-**30d:** -11.0%  
-**90d:** +5.9%  
-**1y:** -17.6%  
+**24h:** -3.2%  
+**7d:** -3.0%  
+**30d:** -10.7%  
+**90d:** +11.3%  
+**1y:** -18.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.86B
+**Market Cap:** $248.85B
 Rank #2
 
 **Circulating Supply:** 120,685,588 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.2%
 
 **All-Time Low:** $0.43
-+478031.7%
++476900.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-48m ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ We are in deep bear market territory in both price and content. Bankless can't b
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 10h ago
 
 ---
 
@@ -156,7 +156,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -168,17 +168,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Will XRP Overtake Ethereum by Market Cap?](https://finance.yahoo.com/markets/crypto/articles/xrp-overtake-ethereum-market-cap-193300314.html)**
+**[Tokenization Will Reach $4T By 2028 And Ethereum And Solana Will Not Be The Primary Beneficiaries, Standard Chartered Says](https://finance.yahoo.com/markets/crypto/articles/tokenization-reach-4t-2028-ethereum-174607744.html)**
 
-Over two years ago, nobody gave XRP (CRYPTO: XRP) a real chance. The SEC lawsuit had it pinned down for years while Ethereum (CRYPTO: ETH) held its place as the second-largest crypto by market cap. Then things started to change. Today, XRP holds an $84 billion market cap against Ethereum’s $256 billion. XRP is still ... Will XRP Overtake Ethereum by Market Cap?
+Tokenized assets are set to balloon to $4 trillion by 2028 and decentralized finance protocols not Ethereum or Solana will be the primary beneficiaries, according to Standard Chartered. Non-stablecoin tokenized assets will reach $2 trillion and stablecoins will also reach...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 12h ago
+Reuters • 14h ago
 
 ---
 
@@ -202,7 +202,15 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
+
+---
+
+**[Bitcoin And Ethereum Technical Outlook: Cryptos Pulled Back But Sentiment Rebounds - Opportunity?](https://seekingalpha.com/article/4907837-bitcoin-ethereum-technical-outlook-cryptos-pulled-back-sentiment-rebounds-opportunity)**
+
+Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
+
+Seeking Alpha • 19h ago
 
 ---
 
@@ -212,19 +220,11 @@ ETF Database • 3d ago
 
 ---
 
-**[Bitcoin And Ethereum Technical Outlook: Cryptos Pulled Back But Sentiment Rebounds - Opportunity?](https://seekingalpha.com/article/4907837-bitcoin-ethereum-technical-outlook-cryptos-pulled-back-sentiment-rebounds-opportunity)**
+**[HMC Exits Ethereum ETF, Cuts Bitcoin Holdings in First Quarter | News](https://www.thecrimson.com/article/2026/5/19/hmc-exits-ethereum-cuts-bitcoin/)**
 
-Bitcoin retraced from the $80,000 level, along with other altcoins, and they are lagging the US equities after the latest US-Iran peace draft
+Harvard Management Company fully exited its short-lived investment in an Ethereum exchange-traded fund and sharply reduced its Bitcoin holdings in the first quarter of 2026, scaling back the University endowment’s publicly disclosed exposure to cryptocurrency after a volatile start to the year for digital assets.
 
-Seeking Alpha • 18h ago
-
----
-
-**[Ethereum Price Eyes Breakout Move, Traders Watch Key Resistance Closely](https://www.tradingview.com/news/newsbtc:3edd82a8e094b:0-ethereum-price-eyes-breakout-move-traders-watch-key-resistance-closely/)**
-
-Ethereum price started a recovery wave above the $2,120 zone. ETH is now consolidating and might rally if there is a clear move above the $2,150 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $2,080 support zone, like Bitcoin. ETH price formed a base and starte…
-
-TradingView • 19h ago
+The Harvard Crimson • 3d ago
 
 ---
 
@@ -238,17 +238,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 8K • 👍 312 • 💬 139 • ⏱️ 1:11:25 • 12h ago
-
----
-
-**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
-
-I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 551 • 💬 186 • ⏱️ 15:44 • 1d ago
+👁️ 9K • 👍 338 • 💬 148 • ⏱️ 1:11:25 • 13h ago
 
 ---
 
@@ -258,7 +248,27 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 476 • 💬 186 • ⏱️ 15:00 • 1d ago
+👁️ 8K • 👍 479 • 💬 188 • ⏱️ 15:00 • 1d ago
+
+---
+
+**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
+
+WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
+
+📺 Big Time Trades
+
+👁️ 1K • 👍 52 • 💬 28 • ⏱️ 22:13 • 8h ago
+
+---
+
+**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
+
+I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 556 • 💬 182 • ⏱️ 15:44 • 1d ago
 
 ---
 
@@ -268,27 +278,7 @@ SHOCKING! ETHEREUM IS COLLAPSING AND TAKING CRYPTO DOWN! NOT EVEN BLACKROCK CAN 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 546 • 💬 61 • ⏱️ 35:01 • 1d ago
-
----
-
-**[INSANE CRYPTO IS IM SERIOUS TROUBLE ](https://www.youtube.com/watch?v=zLYcyswq-xQ)**
-
-INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING! This Crypto bear ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 249 • 💬 43 • ⏱️ 5:38 • 1d ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 13K • 👍 496 • 💬 41 • ⏱️ 17:05 • 2d ago
+👁️ 8K • 👍 549 • 💬 61 • ⏱️ 35:01 • 1d ago
 
 ---
 
@@ -298,17 +288,27 @@ Ethereum was recently rejected off its bear market resistance band. What's Next?
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 193 • ⏱️ 17:13 • 1d ago
+👁️ 52K • 👍 3K • 💬 196 • ⏱️ 17:13 • 1d ago
 
 ---
 
-**[Ethereum price prediction - ETH is making millions of dollars](https://www.youtube.com/watch?v=E7s7aql25KY)**
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Michael Oliver &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=_POcaJT9FmI)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto With James
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 25 • 💬 19 • ⏱️ 10:40 • 2d ago
+👁️ 14K • 👍 499 • 💬 42 • ⏱️ 17:05 • 2d ago
+
+---
+
+**[INSANE CRYPTO IS IM SERIOUS TROUBLE ](https://www.youtube.com/watch?v=zLYcyswq-xQ)**
+
+INSANE HARVARD DUMPS ENTIRE $87M ETHEREUM - FOUNDATION RESEARCHERS KEEP QUITTING! This Crypto bear ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 256 • 💬 43 • ⏱️ 5:38 • 1d ago
 
 ---
 
@@ -318,17 +318,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 262 • 💬 31 • ⏱️ 18:45 • 1d ago
+👁️ 9K • 👍 275 • 💬 32 • ⏱️ 18:45 • 1d ago
 
 ---
 
-**[É POR ISSO QUE O ETHEREUM ESTÁ FRACO?](https://www.youtube.com/watch?v=TCfVxhgjGt4)**
+**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
 
-Trade SEM TAXA ou COMISSÃO é na Quantfury! Abra sua conta: https://bit.ly/quantfurymp Compre sua carteira com 15% ...
+XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
 
-📺 Marcello Paz
+📺 CryptoWendyO
 
-👁️ 668 • 👍 91 • 💬 2 • ⏱️ 8:02 • 7h ago
+👁️ 5K • 👍 313 • 💬 14 • ⏱️ 26:45 • 6h ago
 
 ---
 
