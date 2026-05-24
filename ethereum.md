@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T20:06:15.246311+00:00'
+updated: '2026-05-24T21:28:52.753198+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 20:06 UTC  
+**Last Updated:** May 24, 2026 at 21:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
+**24h:** -0.9%  
 **7d:** -1.6%  
-**30d:** -9.7%  
+**30d:** -9.6%  
 **90d:** +13.2%  
-**1y:** -17.9%  
+**1y:** -17.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.05B
+**Market Cap:** $252.80B
 Rank #2
 
 **Circulating Supply:** 120,685,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.6%
+-57.7%
 
 **All-Time Low:** $0.43
-+484159.1%
++483433.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -156,15 +156,15 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
-**[Vitalik Buterin Signals Ethereum Foundation Power Cut, ETH Sales Reduced in Major Shift](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-signals-ethereum-foundation-183238304.html)**
+**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
 
-Vitalik Buterin signals reduced influence at the Ethereum Foundation as ETH sales slow and the CROPS framework becomes core.
+BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,13 @@ Reuters • 2d ago
 
 Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 23h ago
+TradingView • 1d ago
+
+---
+
+**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
+
+AMBCrypto • 18h ago
 
 ---
 
@@ -186,17 +192,11 @@ TradingView • 23h ago
 
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
-**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
-
-AMBCrypto • 17h ago
-
----
-
-**[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
@@ -208,7 +208,7 @@ CoinDesk • 3d ago
 
 Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
 
-Benzinga • 1h ago
+Benzinga • 2h ago
 
 ---
 
@@ -216,7 +216,7 @@ Benzinga • 1h ago
 
 Grayscale names Ethereum, Solana, BNB Chain, and Canton as the chains best placed to gain from CLARITY Act passage.
 
-BeInCrypto • 1d ago
+BeInCrypto • 2d ago
 
 ---
 
@@ -238,17 +238,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 571 • 💬 80 • ⏱️ 16:50 • 6h ago
-
----
-
-**[How Ethereum REALLY Works in 2026](https://www.youtube.com/watch?v=On-B0WGqOZ0)**
-
-Are you new to crypto? Well then, you've probably noticed that Ethereum is the second largest cryptocurrency, behind Bitcoin.
-
-📺 Coin Bureau
-
-👁️ 27K • 👍 1K • 💬 126 • ⏱️ 24:12 • 1d ago
+👁️ 13K • 👍 784 • 💬 98 • ⏱️ 16:50 • 7h ago
 
 ---
 
@@ -258,7 +248,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 164 • 💬 28 • ⏱️ 25:04 • 1d ago
+👁️ 5K • 👍 169 • 💬 29 • ⏱️ 25:04 • 1d ago
+
+---
+
+**[How Ethereum REALLY Works in 2026](https://www.youtube.com/watch?v=On-B0WGqOZ0)**
+
+Are you new to crypto? Well then, you've probably noticed that Ethereum is the second largest cryptocurrency, behind Bitcoin.
+
+📺 Coin Bureau
+
+👁️ 29K • 👍 1K • 💬 117 • ⏱️ 24:12 • 1d ago
 
 ---
 
@@ -268,7 +268,17 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 462 • 💬 61 • ⏱️ 10:01 • 1d ago
+👁️ 7K • 👍 470 • 💬 61 • ⏱️ 10:01 • 1d ago
+
+---
+
+**[Is Quantum Computing a Threat to Bitcoin &amp; Ethereum?](https://www.youtube.com/watch?v=vNG4dN9eXMw)**
+
+Is quantum computing a threat to Bitcoin, Ethereum, and cryptocurrency security? In this video, I break down exactly how quantum ...
+
+📺 Hatcher's Market Insights
+
+👁️ 2 • ⏱️ 7:24 • 5h ago
 
 ---
 
@@ -278,27 +288,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 19K • 👍 589 • 💬 233 • ⏱️ 1:11:25 • 2d ago
-
----
-
-**[ETHEREUM BREAKOUT SOON!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Yy5howQeCiY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 154 • 👍 12 • 💬 1 • ⏱️ 5:22 • 9h ago
-
----
-
-**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
-
-Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
-
-📺 Unchained
-
-👁️ 412 • 👍 13 • 💬 22 • ⏱️ 18:18 • 19h ago
+👁️ 19K • 👍 600 • 💬 238 • ⏱️ 1:11:25 • 2d ago
 
 ---
 
@@ -308,27 +298,37 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 372 • 💬 30 • ⏱️ 26:45 • 2d ago
+👁️ 7K • 👍 373 • 💬 30 • ⏱️ 26:45 • 2d ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v-vjSel_lo0)**
+**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
 
-BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
 
-📺 Crypto World
+📺 Unchained
 
-👁️ 10K • 👍 407 • 💬 133 • ⏱️ 19:00 • 16h ago
+👁️ 452 • 👍 13 • 💬 22 • ⏱️ 18:18 • 20h ago
 
 ---
 
-**[🥙 Ethereum is DEAD... Or Is It?](https://www.youtube.com/watch?v=cia_p8X8-nk)**
+**[ETHEREUM BREAKOUT SOON!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Yy5howQeCiY)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 🌟yourfriendsommi
+📺 Cilinix Crypto
 
-👁️ 964 • 👍 126 • 💬 10 • ⏱️ 13:30 • 17h ago
+👁️ 222 • 👍 14 • 💬 1 • ⏱️ 5:22 • 10h ago
+
+---
+
+**[最大的信仰者清倉 ETH！他看見了什麼？ | 幣圈週報](https://www.youtube.com/watch?v=g4bow6Ouq0o)**
+
+LINE NEXT 所推出的平台Unifi，現在推出穩定幣理財服務！ 存入USDT 即可享有基礎年化4%，若存入超過10000 USDT，最高可 ...
+
+📺 腦哥 Chill塊鏈
+
+👁️ 39K • 👍 956 • 💬 150 • ⏱️ 33:51 • 9h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-24T20:06:15.240407+00:00'
+updated: '2026-05-24T21:28:52.747226+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 20:06 UTC  
+**Last Updated:** May 24, 2026 at 21:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** +0.1%  
 **7d:** -0.4%  
 **30d:** -1.2%  
-**90d:** +19.8%  
+**90d:** +19.7%  
 **1y:** -29.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1533.32B
+**Market Cap:** $1534.82B
 Rank #1
 
-**Circulating Supply:** 20,033,828 BTC
+**Circulating Supply:** 20,033,893 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -39.3%
 
 **All-Time Low:** $67.81
-+112786.0%
++112828.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I never trusted third parties with my money, but I still kept some fiat in a local bank. Yesterday, right before I needed to pay all my bills, my bank account got frozen. I still don’t even know the exact reason, probably because I received an amount larger than usual. I went to the bank, and they told me they had to send an email to the administration in the capital. So here I am, locked out of my own money, waiting for someone in an office to decide whether I’m allowed to access it again. Luckily, around 90% of my wealth is in Bitcoin. For the first time, I actually needed to move some BTC from my cold wallet. I did it instantly, permissionlessly, and without trusting anyone and it literally saved the day for me. Bitcoin is not a stock market. Bitcoin is the solution to the dysfunctional financial system we live under.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ I never trusted third parties with my money, but I still kept some fiat in a loc
 
 If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream adoption 100 = completely normal and accepted by everyone My feeling is that Bitcoin is somewhere between 20 and 35 today. Advanced enough that institutions, ETFs and even some governments are involved. Early enough that most people still don’t really understand what they own, or why Bitcoin exists in the first place. Every major technology looked strange before it became normal. Internet. Credit cards. Online banking. Smartphones. So I’m curious: White would you place Bitcoin on the adoption curve today?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream ado
 
 Hello I have a problem, got a new iphone and the phantom app transferred over but only in watch only mode I wrote down my 12 word seed phrase but missed one word. What an idiot Its in the correct order and I think I missed the last word Is there anything I can do other than try all 2048 different words. Found some different things using python or btc recover but all so complicated. Do they work… please help? Only £500 on there so not the end of the world but really annoying.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,21 +105,7 @@ Hello I have a problem, got a new iphone and the phantom app transferred over bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 5h ago
-
----
-
-**[If your Bitcoin is still on exchange](https://www.reddit.com/r/Bitcoin/comments/1tm6nod/if_your_bitcoin_is_still_on_exchange/)**
-
-Self custody. If all else, still on the exchange, at the very least put a strong password, 2FA, and never ever touch any stupid emails or scanning random QR code, be safe out there. Don't be lost in the boating accident guy, or be.
-
-11h ago
-
----
-
-**[Iran Moved Billions Through Binance to Fund Regime—Continuing Into This Month](https://www.reddit.com/r/Bitcoin/comments/1tmklea/iran_moved_billions_through_binance_to_fund/)**
-
-🔗 [wsj.com](https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 6h ago
 
 ---
 
@@ -127,7 +113,29 @@ Self custody. If all else, still on the exchange, at the very least put a strong
 
 If Bitcoin drops that much, could it be a strategy by big companies to scare people into selling their BTC so they can buy it back?! Stay patient, don’t sell your BTC. We’re only at the beginning of the crypto boom!
 
-5h ago
+6h ago
+
+---
+
+**[If your Bitcoin is still on exchange](https://www.reddit.com/r/Bitcoin/comments/1tm6nod/if_your_bitcoin_is_still_on_exchange/)**
+
+Self custody. If all else, still on the exchange, at the very least put a strong password, 2FA, and never ever touch any stupid emails or scanning random QR code, be safe out there. Don't be lost in the boating accident guy, or be.
+
+12h ago
+
+---
+
+**[Thoughts on 0.5btc?](https://www.reddit.com/r/Bitcoin/comments/1tmonl6/thoughts_on_05btc/)**
+
+By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to consider it life changing?
+
+7m ago
+
+---
+
+**[Iran Moved Billions Through Binance to Fund Regime—Continuing Into This Month](https://www.reddit.com/r/Bitcoin/comments/1tmklea/iran_moved_billions_through_binance_to_fund/)**
+
+🔗 [wsj.com](https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218) • 2h ago
 
 ---
 
@@ -135,23 +143,15 @@ If Bitcoin drops that much, could it be a strategy by big companies to scare peo
 
 So I want to do River for emergency fund so I can stack more btc, how long does it take for River to send to your bank if you hold your cash there
 
-4h ago
-
----
-
-**[People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?](https://www.reddit.com/r/Bitcoin/comments/1tljs4n/people_who_bought_bitcoin_before_2017_do_you/)**
-
-People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
-
-1d ago
-
----
-
-**[I am new to Crypto](https://www.reddit.com/r/Bitcoin/comments/1tme6as/i_am_new_to_crypto/)**
-
-Guys what and all stuffs do i need to be aware like any scams. I am opening a new binance account.
-
 5h ago
+
+---
+
+**[Duress or passphrase](https://www.reddit.com/r/Bitcoin/comments/1tmn7b4/duress_or_passphrase/)**
+
+So some wallets offer duress or a decoy wallet. And then you have passphrase for the seed. I asume that an attacker will always go for seed because they know how btc works and ask for it. So making a passphrase with a decoy amount would be more effective. What's your thoughts?
+
+1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Guys what and all stuffs do i need to be aware like any scams. I am opening a ne
 
 "An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -175,11 +175,43 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ledn Sees $1 Trillion Market for Bitcoin-Backed Loans](https://finance.yahoo.com/markets/crypto/articles/ledn-sees-1-trillion-market-204900335.html)**
+
+Ledn says bitcoin-backed lending could grow into a $1 trillion consumer market over the next decade, arguing that d...
+
+Yahoo Finance • 39m ago
+
+---
+
+**[The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First](https://finance.yahoo.com/markets/crypto/articles/2022-bitcoin-pattern-back-second-203707815.html)**
+
+Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and laid out a chart pattern that should make every Bitcoin bull pause. The episode title says it plainly: “Bitcoin To $40K? Saylor’s Big Bet Is Breaking.” The thesis hinges on a single uncomfortable observation about 2022 that most investors have ... The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First
+
+Yahoo Finance • 51m ago
+
+---
+
+**[Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay](https://finance.yahoo.com/markets/crypto/articles/now-buy-bitcoin-xrp-more-210104079.html)**
+
+MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.
+
+Yahoo Finance • 27m ago
+
+---
+
 **[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
 
 The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
 The Block • 2d ago
+
+---
+
+**[Elon Musk Reveals $1.4 Billion Bitcoin Price Surprise](https://www.forbes.com/sites/digital-assets/2026/05/22/elon-musk-reveals-14-billion-bitcoin-price-surprise/)**
+
+Elon Musk has revealed his rocket company SpaceX holds far more bitcoin than previously thought...
+
+Forbes • 2d ago
 
 ---
 
@@ -191,26 +223,6 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Nasdaq Gets Approval From SEC to List Bitcoin Index Options](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Billionaire Mark Cuban Suddenly Flips On Bitcoin As Massive Crash Fear Hits Price](https://www.forbes.com/sites/digital-assets/2026/05/24/billionaire-mark-cuban-suddenly-flips-on-bitcoin-as-massive-crash-fear-hits-price/)**
-
-Bitcoin has plummeted over the last week, falling sharply by 10% since mid-May...
-
-Forbes • 8h ago
-
----
-
-**[Bitcoin: The Next Leg Down Could Be Near (Rating Upgrade)](https://seekingalpha.com/article/4908340-bitcoin-the-next-leg-down-could-be-near)**
-
-Seeking Alpha • 16h ago
-
----
-
 **[A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context](https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b)**
 
 The best defence may in fact be defence
@@ -219,19 +231,9 @@ Financial Times • 2d ago
 
 ---
 
-**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
+**[Nasdaq Gets Approval From SEC to List Bitcoin Index Options](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
 
-Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
-
-AJC.com • 2d ago
-
----
-
-**[Bitcoin LTH Supply Surge Does Not Reflect Real Demand — Here’s Why](https://www.tradingview.com/news/newsbtc:ec70f5ab3094b:0-bitcoin-lth-supply-surge-does-not-reflect-real-demand-here-s-why/)**
-
-The price of Bitcoin seemed set for another round of pain over the weekend after falling below the psychological $75,000 level on Saturday morning. However, the premier cryptocurrency has somewhat recovered and is looking to reclaim $77,000 as of this writing. At the same time, an increase in the s…
-
-TradingView • 5h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -317,13 +319,23 @@ Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cry
 
 ## YouTube Videos: "bitcoin"
 
-**[Is the New Fed Chair About to Print Money &amp; Buy 1 Million Bitcoin?!](https://www.youtube.com/watch?v=E9xvIyFld54)**
+**[Congress Wants New Fed Chair to Print Money &amp; Buy Bitcoin?!](https://www.youtube.com/watch?v=E9xvIyFld54)**
 
 Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost nobody understands how big this is. A new ...
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 104 • ⏱️ 20:00 • 21h ago
+👁️ 15K • 👍 1K • 💬 106 • ⏱️ 20:00 • 23h ago
+
+---
+
+**[Gold Flashes Shocking WARNING Signals | The Great Bitcoin Rotation Has Begun](https://www.youtube.com/watch?v=l4sL0q_eeGE)**
+
+Gold is breaking down while Bitcoin keeps gaining strength. Rising bond yields, Fed policy shifts, and collapsing confidence in ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 563 • 💬 36 • ⏱️ 13:37 • 2h ago
 
 ---
 
@@ -333,17 +345,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 38 • ⏱️ 53:11 • 1d ago
+👁️ 49K • 👍 2K • 💬 38 • ⏱️ 53:11 • 1d ago
 
 ---
 
-**[&quot;Mark My Words! This Is the BITCOIN CRASH that Restarts the Bull Market&quot; - Raoul Pal](https://www.youtube.com/watch?v=tEzQsgrfkqo)**
+**[RESERVE PLAN: Republicans eye MASSIVE Bitcoin stockpile](https://www.youtube.com/watch?v=-Q8OvzXimjo)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+FOX Business' Darren Botelho reports Republicans are racing to cement U.S. crypto dominance with a proposed national Bitcoin ...
 
-📺 Savvy Finance
+📺 Fox Business
 
-👁️ 5K • 👍 209 • 💬 20 • ⏱️ 18:00 • 23h ago
+👁️ 35K • 👍 655 • 💬 433 • ⏱️ 2:01 • 1d ago
 
 ---
 
@@ -353,7 +365,27 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 145 • ⏱️ 9:25 • 2d ago
+👁️ 69K • 👍 3K • 💬 147 • ⏱️ 9:25 • 2d ago
+
+---
+
+**[BITCOIN: THE WEEKLY RSI](https://www.youtube.com/watch?v=c1mzUScNhRo)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 5K • 👍 352 • 💬 118 • ⏱️ 14:10 • 5h ago
+
+---
+
+**[Trump administration sparks MAJOR shift toward Bitcoin home loans](https://www.youtube.com/watch?v=NhLgCR2OUNI)**
+
+FOX Business' Darren Botelho reports on the Trump administration opening the door to crypto-backed mortgages as Bitcoin ...
+
+📺 Fox Business
+
+👁️ 43K • 👍 843 • 💬 452 • ⏱️ 2:17 • 2d ago
 
 ---
 
@@ -367,23 +399,13 @@ Welcome back to Open Wallets, where we open our wallets to help you build yours.
 
 ---
 
-**[Trump administration sparks MAJOR shift toward Bitcoin home loans](https://www.youtube.com/watch?v=NhLgCR2OUNI)**
+**[Crypto Holders: &quot;Bitcoin Will EXPLODE&quot; Top 4 Altcoins!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=3izuQ0fFZeQ)**
 
-FOX Business' Darren Botelho reports on the Trump administration opening the door to crypto-backed mortgages as Bitcoin ...
+URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Fox Business
+📺 Altcoin Daily
 
-👁️ 42K • 👍 836 • 💬 432 • ⏱️ 2:17 • 2d ago
-
----
-
-**[RESERVE PLAN: Republicans eye MASSIVE Bitcoin stockpile](https://www.youtube.com/watch?v=-Q8OvzXimjo)**
-
-FOX Business' Darren Botelho reports Republicans are racing to cement U.S. crypto dominance with a proposed national Bitcoin ...
-
-📺 Fox Business
-
-👁️ 32K • 👍 619 • 💬 418 • ⏱️ 2:01 • 1d ago
+👁️ 48K • 👍 3K • 💬 205 • ⏱️ 13:06 • 1d ago
 
 ---
 
@@ -393,27 +415,7 @@ Subscribe. Before governments start bidding for what's left. America just fired 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 265 • 💬 149 • ⏱️ 18:40 • 21h ago
-
----
-
-**[Crypto Holders: &quot;Bitcoin Will EXPLODE&quot; Top 4 Altcoins!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=3izuQ0fFZeQ)**
-
-URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 178 • ⏱️ 13:06 • 1d ago
-
----
-
-**[TRUMP JUST CRASHED BITCOIN!](https://www.youtube.com/watch?v=gk-uxpwkmy4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 340 • 💬 60 • ⏱️ 5:43 • 1d ago
+👁️ 4K • 👍 271 • 💬 151 • ⏱️ 18:40 • 22h ago
 
 ---
 
