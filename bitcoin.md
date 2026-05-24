@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-24T18:38:03.736271+00:00'
+updated: '2026-05-24T20:06:15.240407+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 18:38 UTC  
+**Last Updated:** May 24, 2026 at 20:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -0.5%  
+**24h:** -0.1%  
+**7d:** -0.4%  
 **30d:** -1.2%  
-**90d:** +19.7%  
+**90d:** +19.8%  
 **1y:** -29.6%  
 
 ---
@@ -81,7 +81,15 @@ Rank #1
 
 I never trusted third parties with my money, but I still kept some fiat in a local bank. Yesterday, right before I needed to pay all my bills, my bank account got frozen. I still don’t even know the exact reason, probably because I received an amount larger than usual. I went to the bank, and they told me they had to send an email to the administration in the capital. So here I am, locked out of my own money, waiting for someone in an office to decide whether I’m allowed to access it again. Luckily, around 90% of my wealth is in Bitcoin. For the first time, I actually needed to move some BTC from my cold wallet. I did it instantly, permissionlessly, and without trusting anyone and it literally saved the day for me. Bitcoin is not a stock market. Bitcoin is the solution to the dysfunctional financial system we live under.
 
-9h ago
+10h ago
+
+---
+
+**[Where would you place Bitcoin on the adoption curve today?](https://www.reddit.com/r/Bitcoin/comments/1tmkz68/where_would_you_place_bitcoin_on_the_adoption/)**
+
+If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream adoption 100 = completely normal and accepted by everyone My feeling is that Bitcoin is somewhere between 20 and 35 today. Advanced enough that institutions, ETFs and even some governments are involved. Early enough that most people still don’t really understand what they own, or why Bitcoin exists in the first place. Every major technology looked strange before it became normal. Internet. Credit cards. Online banking. Smartphones. So I’m curious: White would you place Bitcoin on the adoption curve today?
+
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ I never trusted third parties with my money, but I still kept some fiat in a loc
 
 Hello I have a problem, got a new iphone and the phantom app transferred over but only in watch only mode I wrote down my 12 word seed phrase but missed one word. What an idiot Its in the correct order and I think I missed the last word Is there anything I can do other than try all 2048 different words. Found some different things using python or btc recover but all so complicated. Do they work… please help? Only £500 on there so not the end of the world but really annoying.
 
-4h ago
+6h ago
 
 ---
 
@@ -97,7 +105,7 @@ Hello I have a problem, got a new iphone and the phantom app transferred over bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 5h ago
 
 ---
 
@@ -105,7 +113,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Self custody. If all else, still on the exchange, at the very least put a strong password, 2FA, and never ever touch any stupid emails or scanning random QR code, be safe out there. Don't be lost in the boating accident guy, or be.
 
-9h ago
+11h ago
+
+---
+
+**[Iran Moved Billions Through Binance to Fund Regime—Continuing Into This Month](https://www.reddit.com/r/Bitcoin/comments/1tmklea/iran_moved_billions_through_binance_to_fund/)**
+
+🔗 [wsj.com](https://www.wsj.com/world/middle-east/iran-binance-crypto-military-e755b218) • 1h ago
 
 ---
 
@@ -113,7 +127,7 @@ Self custody. If all else, still on the exchange, at the very least put a strong
 
 If Bitcoin drops that much, could it be a strategy by big companies to scare people into selling their BTC so they can buy it back?! Stay patient, don’t sell your BTC. We’re only at the beginning of the crypto boom!
 
-3h ago
+5h ago
 
 ---
 
@@ -121,15 +135,7 @@ If Bitcoin drops that much, could it be a strategy by big companies to scare peo
 
 So I want to do River for emergency fund so I can stack more btc, how long does it take for River to send to your bank if you hold your cash there
 
-3h ago
-
----
-
-**[Do you think Bitcoin is creating financial freedom, or just a new digital version of wealth inequality?](https://www.reddit.com/r/Bitcoin/comments/1tmhm47/do_you_think_bitcoin_is_creating_financial/)**
-
-Do you think Bitcoin is actually creating financial freedom for ordinary people, or are we slowly rebuilding the same wealth inequality system in a digital form? Early adopters already hold massive amounts, institutions are entering, and newer people are buying at much higher prices. So is crypto really changing the system — or just creating a new version of it with different winners?
-
-1h ago
+4h ago
 
 ---
 
@@ -141,19 +147,11 @@ People who bought Bitcoin before 2017 — do you still hold most of it, or did y
 
 ---
 
-**[HodlHodl now has Lightning support for small trades, KYC is a thing of the past!](https://www.reddit.com/r/Bitcoin/comments/1tm0el4/hodlhodl_now_has_lightning_support_for_small/)**
+**[I am new to Crypto](https://www.reddit.com/r/Bitcoin/comments/1tme6as/i_am_new_to_crypto/)**
 
-Bitcoin is like cash, except nobody asks for your ID when you want to exchange cash for smaller bills. In Canada somebody setup a Lightning Buy/Sell offer on HodlHodl for $10-30. This means anyone can accept Bitcoin for a small payment and get it into their bank account in minutes. Imo Bitcoin doesn't have to be the main currency, it just has to be easy enough for regular people to use and then get fiat for. What are you thoughts on this?
+Guys what and all stuffs do i need to be aware like any scams. I am opening a new binance account.
 
-15h ago
-
----
-
-**[Daily Discussion, May 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1tm3ou6/daily_discussion_may_24_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-12h ago
+5h ago
 
 ---
 
@@ -161,43 +159,41 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price analysis: BTC set to outperform after long, difficult stretch versus traditional assets](https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street)**
+**[Bitcoin prices news: BTC heads back to $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
 
-Former Credit Suisse global head of portfolio and Risk Dimensions CIO Mark Connors says bitcoin has broken out of its longest stretch of underperformance in history and is ready to beat stocks, bonds, and gold as inflation stubbornly sticks around.
+"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
 
-CoinDesk • 7h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Trump Media Moves To Sell Bitcoin As Losses Reach $455 Million](https://finance.yahoo.com/markets/crypto/articles/trump-media-moves-sell-bitcoin-135600576.html)**
+**[Billionaire Mark Cuban Sells Bitcoin As ‘Narrative Disappoints’](https://finance.yahoo.com/markets/crypto/articles/billionaire-mark-cuban-sells-bitcoin-135700221.html)**
 
-Trump Media & Technology Group (NASDAQ: $DJT) has moved to sell 2,650 Bitcoin (CRYPTO: $BTC) worth $205 million...
+Billionaire entrepreneur and investor Mark Cuban says he has sold most of his Bitcoin (CRYPTO: $BTC) holdings after...
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[US Strategic Bitcoin Reserve Picks Up Speed — Congress Has A Six-Month Window To Make It Law, Warns Congressman Begich](https://finance.yahoo.com/markets/crypto/articles/us-strategic-bitcoin-picks-speed-153447511.html)**
+**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
 
-Witt warned that if the United States doesn’t set the rules, the crypto industry will follow “somebody else's rulebook."
+The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Buy, Hodl, Repeat: Adam Back Delivers a Clear Bitcoin Recommendation](https://finance.yahoo.com/markets/crypto/articles/buy-hodl-repeat-adam-back-154653084.html)**
-
-Blockstream CEO Adam Back says efficient markets are catching up with memecoins and air tokens. His advice remains simple: buy Bitcoin, hold.
-
-Yahoo Finance • 2h ago
+The Block • 2d ago
 
 ---
 
-**[Cipher Digital Leases Hyperscale AI Capacity And Shifts Beyond Bitcoin Mining](https://finance.yahoo.com/markets/stocks/articles/cipher-digital-leases-hyperscale-ai-161211992.html)**
+**[What If You Could Actually Hold Your Bitcoin? The Wild History Of Physical BTC](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin)**
 
-Cipher Digital (NasdaqGS:CIFR) has leased hyperscale AI infrastructure capacity to Amazon Web Services and Google/Fluidstack. The company is pivoting from bitcoin mining toward high performance computing and data center services. Cipher Digital recently leased a third large scale AI data center campus to support a multi gigawatt development pipeline. The new arrangements include substantial contracted cash flows tied to long term AI infrastructure demand. Cipher Digital, historically...
+Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
 
-Yahoo Finance • 2h ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Nasdaq Gets Approval From SEC to List Bitcoin Index Options](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -205,37 +201,37 @@ Yahoo Finance • 2h ago
 
 Bitcoin has plummeted over the last week, falling sharply by 10% since mid-May...
 
-Forbes • 6h ago
+Forbes • 8h ago
 
 ---
 
-**[Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak](https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak)**
+**[Bitcoin: The Next Leg Down Could Be Near (Rating Upgrade)](https://seekingalpha.com/article/4908340-bitcoin-the-next-leg-down-could-be-near)**
 
-BlackRock's IBIT now holds $61.1 billion in net assets against $64.8 billion in cumulative inflows, a difference of roughly $3.7 billion.
-
-The Block • 1d ago
+Seeking Alpha • 16h ago
 
 ---
 
-**[Bitcoin prices news: BTC heads back to $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
+**[A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context](https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b)**
 
-"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
+The best defence may in fact be defence
 
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin rises above $76,500 as Iran deal hopes support risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-76500-as-iran-deal-hopes-support-risk-sentiment-4708159)**
-
-Investing.com • 9h ago
+Financial Times • 2d ago
 
 ---
 
-**[Bitcoin Recovers as US-Iran Peace Deal Reportedly Signed, Altcoins Gain Big](https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-us-iran-peace-214229628.html)**
+**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
 
-Bitcoin recovered from a one-month low as US-Iran peace deal hopes lifted AI and privacy coins across the crypto market.
+Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
 
-Yahoo Finance • 20h ago
+AJC.com • 2d ago
+
+---
+
+**[Bitcoin LTH Supply Surge Does Not Reflect Real Demand — Here’s Why](https://www.tradingview.com/news/newsbtc:ec70f5ab3094b:0-bitcoin-lth-supply-surge-does-not-reflect-real-demand-here-s-why/)**
+
+The price of Bitcoin seemed set for another round of pain over the weekend after falling below the psychological $75,000 level on Saturday morning. However, the premier cryptocurrency has somewhat recovered and is looking to reclaim $77,000 as of this writing. At the same time, an increase in the s…
+
+TradingView • 5h ago
 
 ---
 
@@ -261,7 +257,7 @@ A technique for embedding arbitrary data — text, images, code — inside Bitco
 
 August 15, 2010: someone created 184 billion BTC out of thin air. Five hours later, it was fixed. Here is the full story.
 
-⬆️ 4 • 💬 0 • 2d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
+⬆️ 4 • 💬 0 • 3d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
 
 ---
 
@@ -327,7 +323,7 @@ Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost n
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 104 • ⏱️ 20:00 • 20h ago
+👁️ 13K • 👍 1K • 💬 104 • ⏱️ 20:00 • 21h ago
 
 ---
 
@@ -347,7 +343,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 209 • 💬 20 • ⏱️ 18:00 • 22h ago
+👁️ 5K • 👍 209 • 💬 20 • ⏱️ 18:00 • 23h ago
 
 ---
 
@@ -397,7 +393,7 @@ Subscribe. Before governments start bidding for what's left. America just fired 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 265 • 💬 149 • ⏱️ 18:40 • 19h ago
+👁️ 4K • 👍 265 • 💬 149 • ⏱️ 18:40 • 21h ago
 
 ---
 

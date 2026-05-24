@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T18:38:03.742229+00:00'
+updated: '2026-05-24T20:06:15.246311+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 18:38 UTC  
+**Last Updated:** May 24, 2026 at 20:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -1.4%  
-**30d:** -9.5%  
-**90d:** +13.4%  
-**1y:** -17.7%  
+**24h:** -1.1%  
+**7d:** -1.6%  
+**30d:** -9.7%  
+**90d:** +13.2%  
+**1y:** -17.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -152,17 +152,25 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 ## Google News: "ethereum"
 
-**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
+**[Vitalik Buterin says Ethereum Foundation will be a 'smaller ship,' sell less ETH amid researcher exodus](https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus)**
 
-Reuters • 2d ago
+Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
+
+The Block • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, May 22, 2026: Prices moved little this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-22-2026-prices-moved-little-this-week-120513396.html)**
+**[Vitalik Buterin Signals Ethereum Foundation Power Cut, ETH Sales Reduced in Major Shift](https://finance.yahoo.com/markets/crypto/articles/vitalik-buterin-signals-ethereum-foundation-183238304.html)**
 
-Bitcoin opened at $77,546.53 on Friday, May 22, 2026, up 0.1% from Thursday’s opening price. Ethereum opened at $2,131.71 on Friday, up 0.2% from Thursday’s opening price.
+Vitalik Buterin signals reduced influence at the Ethereum Foundation as ETH sales slow and the CROPS framework becomes core.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -170,7 +178,7 @@ Yahoo Finance • 2d ago
 
 Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 21h ago
+TradingView • 23h ago
 
 ---
 
@@ -178,21 +186,13 @@ TradingView • 21h ago
 
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-CryptoSlate • 5h ago
+CryptoSlate • 7h ago
 
 ---
 
 **[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
 
-AMBCrypto • 15h ago
-
----
-
-**[Ethereum Layer 2 Zero Network to wind down, joining string of protocols shuttering operations](https://www.theblock.co/post/402296/zero-network-wind-down)**
-
-Resources will be redirected to focus on growing Zerion's API and wallet service, the team said in a Thursday statement.
-
-The Block • 2d ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -200,7 +200,23 @@ The Block • 2d ago
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
+
+---
+
+**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
+
+Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
+
+Benzinga • 1h ago
+
+---
+
+**[Grayscale Names 4 Altcoins Likely To Benefit From the CLARITY Act](https://beincrypto.com/grayscale-clarity-act-altcoin-winners/)**
+
+Grayscale names Ethereum, Solana, BNB Chain, and Canton as the chains best placed to gain from CLARITY Act passage.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -209,18 +225,6 @@ CoinDesk • 2d ago
 Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
 
 Decrypt • 3d ago
-
----
-
-**[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
-
-TipRanks • 7h ago
-
----
-
-**[Top Crypto to Buy Now: APEMARS Soars past ETH and Polygon](https://financefeeds.com/polygon-and-ethereum-price-predictions-intensify-as-apemars-presale-pushes-past-30-5b-tokens-top-crypto-to-buy-now/)**
-
-FinanceFeeds • 22h ago
 
 ---
 
@@ -234,7 +238,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 5K • 👍 571 • 💬 80 • ⏱️ 16:50 • 4h ago
+👁️ 5K • 👍 571 • 💬 80 • ⏱️ 16:50 • 6h ago
 
 ---
 
@@ -284,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 154 • 👍 12 • 💬 1 • ⏱️ 5:22 • 7h ago
+👁️ 154 • 👍 12 • 💬 1 • ⏱️ 5:22 • 9h ago
 
 ---
 
@@ -294,7 +298,7 @@ Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé
 
 📺 Unchained
 
-👁️ 412 • 👍 13 • 💬 22 • ⏱️ 18:18 • 17h ago
+👁️ 412 • 👍 13 • 💬 22 • ⏱️ 18:18 • 19h ago
 
 ---
 
@@ -314,7 +318,7 @@ BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 10K • 👍 407 • 💬 133 • ⏱️ 19:00 • 14h ago
+👁️ 10K • 👍 407 • 💬 133 • ⏱️ 19:00 • 16h ago
 
 ---
 
@@ -324,7 +328,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 964 • 👍 126 • 💬 10 • ⏱️ 13:30 • 15h ago
+👁️ 964 • 👍 126 • 💬 10 • ⏱️ 13:30 • 17h ago
 
 ---
 
