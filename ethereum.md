@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T09:55:28.115641+00:00'
+updated: '2026-05-24T11:18:05.279187+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 09:55 UTC  
+**Last Updated:** May 24, 2026 at 11:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** -0.4%  
-**30d:** -8.5%  
-**90d:** +14.6%  
-**1y:** -16.8%  
+**24h:** +4.7%  
+**7d:** -0.2%  
+**30d:** -8.4%  
+**90d:** +14.8%  
+**1y:** -16.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -152,14 +152,6 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 ## Google News: "ethereum"
 
-**[A $1 Billion Fix for Ethereum? Dev Proposes a Radical New Organization to Save ETH](https://news.bitcoin.com/a-1-billion-fix-for-ethereum-dev-proposes-a-radical-new-organization-to-save-eth/)**
-
-Learn about the ongoing debate surrounding Ethereum as industry leaders discuss strategies to bolster its market position.
-
-Bitcoin News • 5h ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, May 22, 2026: Prices moved little this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-22-2026-prices-moved-little-this-week-120513396.html)**
 
 Bitcoin opened at $77,546.53 on Friday, May 22, 2026, up 0.1% from Thursday’s opening price. Ethereum opened at $2,131.71 on Friday, up 0.2% from Thursday’s opening price.
@@ -170,7 +162,7 @@ Yahoo Finance • 1d ago
 
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -194,13 +186,13 @@ CoinDesk • 2d ago
 
 Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
 **[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
 
-AMBCrypto • 6h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -208,19 +200,27 @@ AMBCrypto • 6h ago
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 19h ago
+Crypto Briefing • 21h ago
+
+---
+
+**[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
+
+Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
+
+Decrypt • 2d ago
+
+---
+
+**[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
+
+TipRanks • 9m ago
 
 ---
 
 **[Top Crypto to Buy Now: APEMARS Soars past ETH and Polygon](https://financefeeds.com/polygon-and-ethereum-price-predictions-intensify-as-apemars-presale-pushes-past-30-5b-tokens-top-crypto-to-buy-now/)**
 
-FinanceFeeds • 13h ago
-
----
-
-**[Ethereum ETF Investors Hit the Brakes as Outflows Clip Grayscale Mini Trust](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-investors-hit-the-brakes-as-outflows-clip-grayscale-mini-trust)**
-
-TipRanks • 23h ago
+FinanceFeeds • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 1K • 💬 111 • ⏱️ 24:12 • 19h ago
+👁️ 23K • 👍 1K • 💬 111 • ⏱️ 24:12 • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 141 • 💬 22 • ⏱️ 25:04 • 17h ago
+👁️ 3K • 👍 141 • 💬 22 • ⏱️ 25:04 • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 436 • 💬 10 • ⏱️ 10:01 • 16h ago
+👁️ 7K • 👍 436 • 💬 10 • ⏱️ 10:01 • 17h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 293 • 💬 129 • ⏱️ 19:00 • 5h ago
+👁️ 6K • 👍 293 • 💬 129 • ⏱️ 19:00 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 17K • 👍 535 • 💬 218 • ⏱️ 1:11:25 • 1d ago
+👁️ 17K • 👍 535 • 💬 218 • ⏱️ 1:11:25 • 2d ago
 
 ---
 
@@ -304,7 +304,7 @@ Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé
 
 📺 Unchained
 
-👁️ 269 • 👍 12 • 💬 20 • ⏱️ 18:18 • 9h ago
+👁️ 269 • 👍 12 • 💬 20 • ⏱️ 18:18 • 10h ago
 
 ---
 

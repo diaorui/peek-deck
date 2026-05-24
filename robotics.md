@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-24T09:55:28.118866+00:00'
+updated: '2026-05-24T11:18:05.282072+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 24, 2026 at 09:55 UTC  
+**Last Updated:** May 24, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Depth tracking on a ~25$ rover](https://www.reddit.com/r/robotics/comments/1tlnos3/depth_tracking_on_a_25_rover/)**
+
+Hey everybody! My current research project is to build a swarm of affordable, 3d printed rovers that can navigate through a room and play a cooperative game. I have already looked at ArUco trackers for navigation but am now exploring Depth Anything V2. Basically I want to get the most out of the ~15$ ESP32 S3 Sense and just use the computer (with a decent graphics card) to handle the navigation part of things. The plan is now: ArUco markers around the room - global position and Orientation via solvePnP Depth View - for obstacle avoidance, maybe other rovers or people Rovers handle their own temperature and battery auto shut down Camera feeds streamed to PC via Wifi - all navigation logic runs there Some people on here recommend ROS2, and as I looked into it, it was quite overwhelming. Right now I am using a Python based Web Interface that I built. As a beginner I was curious to hear your thoughts, if this path forward could work or if I am moving towards a dead end :-X
+
+17h ago
+
+---
+
 **[You helped me name my last robot, Arctos, and you didn't disappoint! Now I need your help naming this new AGV. I will use the comment with the most upvotes.](https://www.reddit.com/r/robotics/comments/1tlbohc/you_helped_me_name_my_last_robot_arctos_and_you/)**
 
 Hey r/robotics, A while back, this community helped me choose the name "Arctos" for my 6-DOF robotic arm project, and it has been an incredible journey since then. Now, I’m back with a new build: a mobile manipulator base designed to carry the arm, and it needs an official name. As promised, I’ll name it after whichever community suggestion gets the most upvotes! The Specs: - Drivetrain: 4x NEMA 23 stepper motors with TMC2209 drivers - Chassis: 3D-printed modular structure reinforced with M8 threaded rods - Brain & Control: ESP32 handling low-level tasks, paired with a custom Android app - Software Ecosystem: Fully integrated into Arctos Studio. ( Will do ROS/Isaac sim integration) - Sensors: 4x ultrasonic sensors, LiDAR, and a depth camera - Scavenged Tech: Powered by reused cordless drill batteries, using an old smartphone for its IMU and RGB camera - The Goal: An ultra-accessible, heavy-duty AGV with a target build cost of ~$250 USD, capable of carrying a 25kg payload. What's Next: The physical chassis is assembled and moving. Next up is implementing full SLAM navigation, VLM (Vision-Language Model) task grounding for autonomous manipulation, and mounting the arm on top. Drop your best name ideas below! Let's see what you guys come up with this time.
 
 1d ago
-
----
-
-**[Depth tracking on a ~25$ rover](https://www.reddit.com/r/robotics/comments/1tlnos3/depth_tracking_on_a_25_rover/)**
-
-Hey everybody! My current research project is to build a swarm of affordable, 3d printed rovers that can navigate through a room and play a cooperative game. I have already looked at ArUco trackers for navigation but am now exploring Depth Anything V2. Basically I want to get the most out of the ~15$ ESP32 S3 Sense and just use the computer (with a decent graphics card) to handle the navigation part of things. The plan is now: ArUco markers around the room - global position and Orientation via solvePnP Depth View - for obstacle avoidance, maybe other rovers or people Rovers handle their own temperature and battery auto shut down Camera feeds streamed to PC via Wifi - all navigation logic runs there Some people on here recommend ROS2, and as I looked into it, it was quite overwhelming. Right now I am using a Python based Web Interface that I built. As a beginner I was curious to hear your thoughts, if this path forward could work or if I am moving towards a dead end :-X
-
-15h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey everybody! My current research project is to build a swarm of affordable, 3d
 
 I'm planning to take on a build project: a planar magnetic levitation platform. Small scale to start — roughly 300mm stator tile, a floating puck with 6-DOF (XY translation, Z, rotation, tilt), aiming for ~10μm precision and 1m/s or so. Multiple pucks on the same surface eventually. A few things I know it can do: - Contactless positioning (no mechanical wear, no backlash) - Spin/tilt/vibrate the puck while it's hovering - Pass power and signals through the puck But before I go deep on the design, I'd love to hear what the robotics community thinks: - If this existed as a buildable/open platform, what would you use it for? - What capability would make it a "must try" vs just a cool demo? - What pitfalls should I be watching out for? I've got a demo video of a similar industrial system. (Not a company, not selling anything. Just a builder looking for input from people who think about motion control.) https://reddit.com/link/1tlzm4n/video/wl52d9tnzz2h1/player
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ I'm planning to take on a build project: a planar magnetic levitation platform. 
 
 Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E Hi robotics community, I’d like to share an early community update from FlashRT, my open-source realtime inference engine for embodied AI / VLA deployment. A contributor recently added an initial Pi0.5 path on Jetson AGX Orin, targeting edge robot inference instead of cloud-only execution. Current community benchmark on Jetson AGX Orin 64GB / SM87: Pi0.5 DROID INT8, 2 cameras, 27 layers, 10 diffusion steps cache_frames=1: P50: 124 ms Throughput: 8.04 Hz Cosine: 1.000 vs BF16 reference cache_frames=2: P50: 127 / 39 ms Throughput: 12.2 Hz amortized Cosine: 0.991 For comparison, the BF16 path on Orin is currently around: cache_frames=1: P50: ~216 ms Throughput: ~4.6 Hz cache_frames=2: Throughput: ~7.3 Hz This is still not “solved” robotics inference, but I think it is a meaningful step: Pi-style VLA policies are very sensitive to latency, runtime overhead, and small-batch execution, and edge deployment on Jetson is exactly where general cloud / batch-oriented inference assumptions start to break. FlashRT focuses on direct CUDA execution, fused kernels, quantization-aware inference, and CUDA Graph replay for small-batch realtime workloads. Repo: https://github.com/LiangSu8899/FlashRT Orin deployment docs: https://github.com/LiangSu8899/FlashRT/blob/main/docs/deployment_orin.md This Orin path is still early and community-driven. If you are working on robot manipulation, VLA policies, Jetson deployment, LIBERO / DROID-style policies, or real robot closed-loop testing, I’d really appreciate feedback, benchmarks, issues, and PRs. I’d especially love to see more results on different robots, camera setups, Orin SKUs, and closed-loop tasks.
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E 
 
 Rate it from 1-10, based on looks, real functionality, movement ability. And also please give me your opinion on to how to improve it. Also in between the joints there should be a 32mm ball bearing! https://preview.redd.it/ooa2qhhxiy2h1.png?width=1133&format=png&auto=webp&s=cdcdd8ec748a3d8e5b68c41ba5d625191db4bf91 https://preview.redd.it/7vsv3ihxiy2h1.png?width=1123&format=png&auto=webp&s=96991ffeebec952e361e9cb2fc0dc85e9a27334b https://preview.redd.it/dy4hphhxiy2h1.png?width=1027&format=png&auto=webp&s=5db524174acafd8f42df5b0b3252841b074d287d https://preview.redd.it/1xtk5jhxiy2h1.png?width=1434&format=png&auto=webp&s=be31c01eda4aec55556f9e91085993c148bdaf1a https://preview.redd.it/sm10lihxiy2h1.png?width=774&format=png&auto=webp&s=a7734ad59dbc55c61b5f7d87109fc17d149f6340
 
-12h ago
+13h ago
 
 ---
 
@@ -94,7 +94,7 @@ Rate it from 1-10, based on looks, real functionality, movement ability. And als
 
 Is there a reason why rovers with rocker bogie suspension are all platformed fairly high up other than the pivot being higher up? Can you have a hanging payload closer to the ground hanging from this high platform? The payload could drag along the ground but shouldn’t impede any forward/turning movement aka cause the rover to get stuck.
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Is there a reason why rovers with rocker bogie suspension are all platformed fai
 
 Currently building a custom quadruped robot dog and have been running it through sim in Isaac Lab. I'm curious what somewhat affordable options are out there for good IMUs that work well with either a microcontroller or directly with an Nvidia Jetson Orin Nano. Realistically im wanting to be under $500 for it, I just dont want to be dealing with a ton of bad IMU data
 
-16h ago
+17h ago
 
 ---
 
@@ -114,13 +114,15 @@ Currently building a custom quadruped robot dog and have been running it through
 
 The U.S. is optimizing humanoid robots for factory demos and backflips. A former NASA robotics division chief explains why adaptability — not performance — is the metric that will determine who leads global manufacturing.
 
-Fortune • 17h ago
+Fortune • 16h ago
 
 ---
 
-**[China unveils first humanoid robot for household chores, ready as early as 2027](https://www.scmp.com/tech/article/3354371/commercial-humanoid-robots-china-may-soon-do-laundry-make-beds-care-elders)**
+**[Job training for robots: How China is getting machines ready to join the workforce](https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html)**
 
-South China Morning Post • 3d ago
+Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.
+
+CNBC • 2d ago
 
 ---
 
@@ -129,6 +131,14 @@ South China Morning Post • 3d ago
 China is testing humanoid robots in tea production as part of preparations for the 2026 World Humanoid Robot Games.
 
 Interesting Engineering • 1d ago
+
+---
+
+**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
+
+The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
+
+Fast Company • 1h ago
 
 ---
 
@@ -148,6 +158,22 @@ Live Science • 2d ago
 
 ---
 
+**[China's Walker humanoid robot amazes with precise ballet performance](https://interestingengineering.com/ai-robotics/chinese-humanoid-robot-stuns-with-ballet)**
+
+UBTECH demonstates its new Walker C1 robot performing Swan Lake ballet with humans, showing advanced humanoid control.
+
+Interesting Engineering • 13m ago
+
+---
+
+**[The Next AI Revolution Isn’t Chatbots. It’s Robotics](https://www.inc.com/heather-wilde/the-next-ai-revolution-isnt-chatbots-its-robotics/91344941)**
+
+AI world models are transforming robotics by enabling robots to learn, adapt, and interact with real-world environments more intelligently.
+
+inc.com • 11m ago
+
+---
+
 **[AI robotic beehives installed in Florida community claim 70% reduction in colony collapse threatening crops](https://www.foxnews.com/science/ai-robotic-beehives-installed-florida-community-claim-70-reduction-colony-collapse-threatening-crops)**
 
 A Florida community deploys AI-powered robotic beehives to protect declining bee populations that pollinate roughly 75% of the crops Americans eat.
@@ -156,33 +182,11 @@ Fox News • 2d ago
 
 ---
 
-**[New framework helps robots turn complex language into precise 3D actions](https://techxplore.com/news/2026-05-framework-robots-complex-language-precise.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[Ukraine’s Ground Robots Are Becoming Battlefield Platforms—And Procurement Is About to Surge](https://united24media.com/world/ukraines-ground-robots-are-becoming-battlefield-platforms-and-procurement-is-about-to-surge-19106)**
 
 Ukraine plans UGV procurement Ukraine 2026 to double in 2026, reaching nearly 25,000 units, adding EW, radar, missiles and mortars to combat roles.
 
-UNITED24 Media • 19h ago
-
----
-
-**[Gecko Robotics Explores Next-Generation Inspection Capabilities with Ouster’s New REV8 Native Color Lidar](https://www.businesswire.com/news/home/20260521644746/en/Gecko-Robotics-Explores-Next-Generation-Inspection-Capabilities-with-Ousters-New-REV8-Native-Color-Lidar)**
-
-Ouster, Inc. (Nasdaq: OUST) (“Ouster” or the “Company”), a leader in sensing and perception for Physical AI, announced today that Gecko Robotics, a leader in...
-
-Business Wire • 2d ago
-
----
-
-**[Robotic exoskeletons promise easier hikes and high-tech workouts](https://www.nbcnews.com/video/robotic-exoskeletons-promise-easier-hikes-and-high-tech-workouts-263844421999)**
-
-Wearable exoskeletons promise to boost endurance on hikes and workouts. NBC News' Ryan Chandler explores whether the high-tech gear is the future of fitness - or just a fad.
-
-NBC News • 1d ago
+UNITED24 Media • 21h ago
 
 ---
 
@@ -226,7 +230,7 @@ I dont think anyone expected this. New UE Murometz has arrived on the test serve
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 420 • 💬 78 • ⏱️ 15:00 • 22h ago
+👁️ 10K • 👍 420 • 💬 78 • ⏱️ 15:00 • 23h ago
 
 ---
 
@@ -246,7 +250,7 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 📺 EcoZora
 
-👁️ 19K • 👍 33 • 💬 5 • ⏱️ 0:07 • 2d ago
+👁️ 19K • 👍 33 • 💬 5 • ⏱️ 0:07 • 3d ago
 
 ---
 
