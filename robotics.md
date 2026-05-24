@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-24T17:03:08.314489+00:00'
+updated: '2026-05-24T18:38:03.745387+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 24, 2026 at 17:03 UTC  
+**Last Updated:** May 24, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've finally submitted my PhD thesis and have some time to work on my favourite robot build so far. I managed to implement omnidirectional motion and field-centric drive. It's not perfect yet (I switched from a 9-axis IMU to a 6-axis, and now drift is a real issue), but I definitely think this is a good proof of concept. Has anyone seen this approach before? Most vibration robots I've found are either single-direction bristlebots or differential swarm bots like Kilobots. I haven't found much on holonomic vibration drive. Curious if I'm reinventing the wheel.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,15 @@ I've finally submitted my PhD thesis and have some time to work on my favourite 
 
 A few weeks ago I posted OLAF here — the open-source embodied AI agent that looked a bit evil when it woke up. (That was the upside of 4 months of melted components and 50+ PCBs I now use as coasters.) I said voice and the AI brain layer were next. That's what this is. OLAF talks now, and it expresses. And since "it looks evil" was basically the headline last time — I tried to make it cute this round. You can tell me if it worked. Quick reminder of what OLAF is: not a robot built to do tasks. An AI agent with a physical presence — something that thinks, responds and reacts in the real world. This update is about giving it presence you can actually feel. What's new (v1 expression system): 15 expressions, 3 intensity levels each Vocalizations — laughs, sighs, thinking sounds, so there's no dead silence while it processes Emotion is driven by tags the LLM emits, which the body renders on the face + movement How it's wired: Pi 5 + AI kit orchestrates everything (the brain from the last post) Voice loop: wake word → VAD → speech-to-text → LLM → text-to-speech, half-duplex, with an activity state machine (sleeping / waking / listening / thinking / speaking) Heavy AI in the cloud: GPT-OSS 120B on Groq, Cartesia for the voice The pipeline publishes typed expression events over DDS to the body, so brain and body stay decoupled Still raw (honest as always): The "hmm" filler lands a beat too late Head movements aren't synced to speech yet — next big one It still can't do tasks… but it's genuinely fun to talk to Still no case. Wires everywhere. Same as last time — Claude as a coding partner made the iteration speed stupid. Weeks into hours. Last post (the evil wake-up / coaster saga): https://www.reddit.com/r/robotics/comments/1rwvo2s/my_robot_looks_evil_when_it_wakes_up_4_months_of/ Brain + hardware: https://github.com/kamalkantsingh10/OLAF Voice agent: https://github.com/kamalkantsingh10/olaf_companion Full demo on YouTube (sound on): https://youtube.com/shorts/PHwZBDvPOgQ Repo's open — feedback or a star both welcome. Happy to answer anything — the build, the Pi setup, the voice pipeline, the brain/body DDS contract, latency, whatever. And be honest: cute now, or still a little evil?
 
-4h ago
+5h ago
+
+---
+
+**[Robot Dog Feet](https://www.reddit.com/r/robotics/comments/1tmj3rj/robot_dog_feet/)**
+
+Hello, im currently building q robot dog similar to the MIT Mini Cheetah. However i cannot for the life of me find what kind of feet they used. Currently im using tpu spheres i 3d printed but getting a lot of slippage. Any reccomendations on the feet or what the actual Mini Cheetah used?
+
+46m ago
 
 ---
 
@@ -52,7 +60,7 @@ A few weeks ago I posted OLAF here — the open-source embodied AI agent that lo
 
 Hey everybody! My current research project is to build a swarm of affordable, 3d printed rovers that can navigate through a room and play a cooperative game. I have already looked at ArUco trackers for navigation but am now exploring Depth Anything V2. Basically I want to get the most out of the ~15$ ESP32 S3 Sense and just use the computer (with a decent graphics card) to handle the navigation part of things. The plan is now: ArUco markers around the room - global position and Orientation via solvePnP Depth View - for obstacle avoidance, maybe other rovers or people Rovers handle their own temperature and battery auto shut down Camera feeds streamed to PC via Wifi - all navigation logic runs there Some people on here recommend ROS2, and as I looked into it, it was quite overwhelming. Right now I am using a Python based Web Interface that I built. As a beginner I was curious to hear your thoughts, if this path forward could work or if I am moving towards a dead end :-X
 
-22h ago
+1d ago
 
 ---
 
@@ -64,17 +72,17 @@ Hey r/robotics, A while back, this community helped me choose the name "Arctos" 
 
 ---
 
-**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
-
-1d ago
-
----
-
 **[Thinking about building a planar maglev positioning stage as a project — what would you do with it?](https://www.reddit.com/r/robotics/comments/1tlzm4n/thinking_about_building_a_planar_maglev/)**
 
 I'm planning to take on a build project: a planar magnetic levitation platform. Small scale to start — roughly 300mm stator tile, a floating puck with 6-DOF (XY translation, Z, rotation, tilt), aiming for ~10μm precision and 1m/s or so. Multiple pucks on the same surface eventually. A few things I know it can do: - Contactless positioning (no mechanical wear, no backlash) - Spin/tilt/vibrate the puck while it's hovering - Pass power and signals through the puck But before I go deep on the design, I'd love to hear what the robotics community thinks: - If this existed as a buildable/open platform, what would you use it for? - What capability would make it a "must try" vs just a cool demo? - What pitfalls should I be watching out for? I've got a demo video of a similar industrial system. (Not a company, not selling anything. Just a builder looking for input from people who think about motion control.) https://reddit.com/link/1tlzm4n/video/wl52d9tnzz2h1/player
 
-14h ago
+16h ago
+
+---
+
+**[Robot arm](https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/)**
+
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ I'm planning to take on a build project: a planar magnetic levitation platform. 
 
 I’m trying to understand where real‑world robotics teams lose the most clarity when a task moves from: > – the operator, > – to the system architect, > – to the robot’s perception/decision layer. > > In your experience, which communication layer breaks most often? > – task specification, > – environment representation, > – feedback loops, > – or translating “what the robot sees” into “what the robot should do”. > > If you could magically fix one bottleneck in your workflow, which one would it be — and why.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,14 +105,6 @@ I’m trying to understand where real‑world robotics teams lose the most clari
 Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E Hi robotics community, I’d like to share an early community update from FlashRT, my open-source realtime inference engine for embodied AI / VLA deployment. A contributor recently added an initial Pi0.5 path on Jetson AGX Orin, targeting edge robot inference instead of cloud-only execution. Current community benchmark on Jetson AGX Orin 64GB / SM87: Pi0.5 DROID INT8, 2 cameras, 27 layers, 10 diffusion steps cache_frames=1: P50: 124 ms Throughput: 8.04 Hz Cosine: 1.000 vs BF16 reference cache_frames=2: P50: 127 / 39 ms Throughput: 12.2 Hz amortized Cosine: 0.991 For comparison, the BF16 path on Orin is currently around: cache_frames=1: P50: ~216 ms Throughput: ~4.6 Hz cache_frames=2: Throughput: ~7.3 Hz This is still not “solved” robotics inference, but I think it is a meaningful step: Pi-style VLA policies are very sensitive to latency, runtime overhead, and small-batch execution, and edge deployment on Jetson is exactly where general cloud / batch-oriented inference assumptions start to break. FlashRT focuses on direct CUDA execution, fused kernels, quantization-aware inference, and CUDA Graph replay for small-batch realtime workloads. Repo: https://github.com/LiangSu8899/FlashRT Orin deployment docs: https://github.com/LiangSu8899/FlashRT/blob/main/docs/deployment_orin.md This Orin path is still early and community-driven. If you are working on robot manipulation, VLA policies, Jetson deployment, LIBERO / DROID-style policies, or real robot closed-loop testing, I’d really appreciate feedback, benchmarks, issues, and PRs. I’d especially love to see more results on different robots, camera setups, Orin SKUs, and closed-loop tasks.
 
 1d ago
-
----
-
-**[AgenticROS Now Supports NVIDIA NemoClaw!](https://www.reddit.com/r/robotics/comments/1tmdfat/agenticros_now_supports_nvidia_nemoclaw/)**
-
-Excited to share that AgenticROS now supports NVIDIA NemoClaw as a first-class Physical AI agent platform for ROS-powered robots! NemoClaw packages OpenClaw inside a policy-enforced OpenShell sandbox with managed inference. AgenticROS extends that environment into the physical world by connecting the sandboxed agent to ROS2, RealSense, and robot control interfaces. With the new NemoClaw integration, an agent can: - Use ROS 2 tools for topics, services, actions, parameters, camera snapshots, and depth sensing - Connect from the NemoClaw sandbox to host-side ROS / RealSense / rosbridge over a controlled network policy - Access robot perception and actuation while keeping the AI runtime sandboxed - Run AgenticROS as an OpenClaw plugin inside NemoClaw - Support real robot behaviors through the AgenticROS skill architecture The recommended setup keeps ROS 2 and RealSense on the host, where hardware drivers already work well, while NemoClaw runs the agent and AgenticROS plugin inside the sandbox. That gives us a clean split: robot hardware and ROS on the edge, agentic reasoning and tool orchestration inside a governed AI environment. This is an important step toward Physical AI: agents that do not just reason over text or workflows, but can perceive, decide, and act through real ROS-powered robots. AgenticROS now supports OpenClaw, Anthropic Claude/Codex, Google Gemini, and NVIDIA NemoClaw as agent platforms, all sharing the same robotics foundation. Agentic AI is getting closer to the robot. AgenticROS is becoming the bridge. For more information: https://github.com/agenticros/agenticros/blob/main/docs/nemoclaw.md
-
-2h ago
 
 ---
 
@@ -120,27 +120,27 @@ Fortune • 1d ago
 
 ---
 
-**[Job training for robots: How China is getting machines ready to join the workforce](https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html)**
-
-Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.
-
-CNBC • 2d ago
-
----
-
 **[Humanoid robots work nonstop in package test](https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test)**
 
 Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.
 
-Fox News • 32m ago
+Fox News • 2h ago
 
 ---
 
-**[China puts humanoid robots through tea harvesting field trials](https://interestingengineering.com/ai-robotics/china-tests-humanoid-robots-in-tea-farms-before-the-2026-world-robot-games)**
+**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
 
-China is testing humanoid robots in tea production as part of preparations for the 2026 World Humanoid Robot Games.
+The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
 
-Interesting Engineering • 2d ago
+Fast Company • 8h ago
+
+---
+
+**[China's Walker humanoid robot amazes with precise ballet performance](https://interestingengineering.com/ai-robotics/chinese-humanoid-robot-stuns-with-ballet)**
+
+UBTECH demonstates its new Walker C1 robot performing Swan Lake ballet with humans, showing advanced humanoid control.
+
+Interesting Engineering • 7h ago
 
 ---
 
@@ -148,7 +148,7 @@ Interesting Engineering • 2d ago
 
 Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
 
-TechRepublic • 1d ago
+TechRepublic • 2d ago
 
 ---
 
@@ -160,19 +160,11 @@ Live Science • 3d ago
 
 ---
 
-**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
+**[China puts humanoid robots through tea harvesting field trials](https://interestingengineering.com/ai-robotics/china-tests-humanoid-robots-in-tea-farms-before-the-2026-world-robot-games)**
 
-The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
+China is testing humanoid robots in tea production as part of preparations for the 2026 World Humanoid Robot Games.
 
-Fast Company • 6h ago
-
----
-
-**[China's Walker humanoid robot amazes with precise ballet performance](https://interestingengineering.com/ai-robotics/chinese-humanoid-robot-stuns-with-ballet)**
-
-UBTECH demonstates its new Walker C1 robot performing Swan Lake ballet with humans, showing advanced humanoid control.
-
-Interesting Engineering • 5h ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -180,7 +172,7 @@ Interesting Engineering • 5h ago
 
 Students earn awards for engineering, advocacy.
 
-The Mercury News • 3h ago
+The Mercury News • 5h ago
 
 ---
 
@@ -188,7 +180,13 @@ The Mercury News • 3h ago
 
 Built as part of the district’s 2020 bond program, the Orsa Hub includes flexible collaborative spaces where students can explore robotics, artificial intelligence, virtual reality, augmented reality,...
 
-Yahoo • 5h ago
+Yahoo • 6h ago
+
+---
+
+**[Unlocking soft robotics control with AI's cousin: Reservoir computing](https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -196,13 +194,33 @@ Yahoo • 5h ago
 
 ## YouTube Videos: "robotics"
 
+**[Figure 03 AI Robot Reveals Its UNFAIR Advantage… Humans Can’t Match It](https://www.youtube.com/watch?v=NPOqqDASRCA)**
+
+A 22-year-old intern just beat a humanoid robot… but this might be the LAST time a human wins like this. In Figure AI's wild Man ...
+
+📺 The AI Nexus
+
+👁️ 6K • 👍 153 • 💬 28 • ⏱️ 18:21 • 17h ago
+
+---
+
 **[Potential dangers of humanoid robots](https://www.youtube.com/watch?v=01ZSOp4yYAE)**
 
 Humanoid robots are devices that could be used to improve our daily lives. But could they also be used for surveillance?
 
 📺 ABC News
 
-👁️ 33K • 👍 416 • 💬 158 • ⏱️ 5:15 • 1d ago
+👁️ 35K • 👍 450 • 💬 169 • ⏱️ 5:15 • 2d ago
+
+---
+
+**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
+
+The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
+
+📺 AI News
+
+👁️ 7K • 👍 153 • 💬 34 • ⏱️ 8:02 • 1d ago
 
 ---
 
@@ -212,7 +230,7 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 142K • 👍 3K • 💬 110 • ⏱️ 22:41 • 4d ago
+👁️ 143K • 👍 3K • 💬 112 • ⏱️ 22:41 • 4d ago
 
 ---
 
@@ -222,7 +240,17 @@ STOP paying hundreds of dollars a month for lawn mower services and SWITCH to th
 
 📺 Max Tech
 
-👁️ 4K • 👍 105 • 💬 10 • ⏱️ 10:08 • 1d ago
+👁️ 5K • 👍 106 • 💬 10 • ⏱️ 10:08 • 2d ago
+
+---
+
+**[MOVA LiDax Ultra 3000 - Is This the Best Robot Lawn Mower?](https://www.youtube.com/watch?v=JlCdMKebkeY)**
+
+Testing the MOVA LiDax Ultra 3000 AWD over the past few weeks has been seriously impressive. The AWD system handled ...
+
+📺 Steve DOES
+
+👁️ 32K • 👍 327 • 💬 2 • ⏱️ 16:22 • 2d ago
 
 ---
 
@@ -236,43 +264,13 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
-**[Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!](https://www.youtube.com/watch?v=faBkVCEEEHQ)**
-
-Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry! Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!
-
-📺 TESLA CAR WORLD
-
-👁️ 28K • 👍 498 • 💬 54 • ⏱️ 15:32 • 4d ago
-
----
-
 **[Ranking The Wildest Country Robots #robots #viral #shorts](https://www.youtube.com/watch?v=cfdL_mK0qUg)**
 
 In this video, we rank different robots inspired by countries like China, Australia, Russia, the USA, and the United Kingdom.
 
 📺 The area
 
-👁️ 104K • 👍 3K • 💬 151 • ⏱️ 0:50 • 5d ago
-
----
-
-**[Atlas, can you bring me a drink? | Boston Dynamics](https://www.youtube.com/watch?v=3aQWvdCac9o)**
-
-Everyone asks if Atlas can bring them a drink, but this robot can bring you the whole fridge. Using AI-driven behaviors, Atlas is ...
-
-📺 Boston Dynamics
-
-👁️ 236K • 👍 10K • 💬 1K • ⏱️ 0:47 • 6d ago
-
----
-
-**[China&#39;s AI Powered Robot Barber #shorts](https://www.youtube.com/watch?v=-iKZaImphXw)**
-
-China is testing AI powered robot barber kiosks that scan your head in 3D and deliver automated haircuts at low cost. Instead of a ...
-
-📺 NeuroVerse
-
-👁️ 4K • 👍 32 • 💬 2 • ⏱️ 0:11 • 4h ago
+👁️ 106K • 👍 3K • 💬 155 • ⏱️ 0:50 • 5d ago
 
 ---
 
@@ -282,17 +280,17 @@ China is testing AI powered robot barber kiosks that scan your head in 3D and de
 
 📺 Rowan Cheung
 
-👁️ 477K • 👍 13K • 💬 776 • ⏱️ 1:34 • 5d ago
+👁️ 479K • 👍 13K • 💬 798 • ⏱️ 1:34 • 6d ago
 
 ---
 
-**[Dancing Robot Fail | Bill Burr](https://www.youtube.com/watch?v=Oe-lr0hRI10)**
+**[Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!](https://www.youtube.com/watch?v=faBkVCEEEHQ)**
 
-From @BillBurrOfficial - Thursday Afternoon Monday Morning Podcast 5-21-26 Watch the Full Episode Here: ...
+Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry! Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!
 
-📺 Bill Burr
+📺 TESLA CAR WORLD
 
-👁️ 12K • 👍 407 • 💬 39 • ⏱️ 0:51 • 2d ago
+👁️ 28K • 👍 499 • 💬 54 • ⏱️ 15:32 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T17:03:08.311482+00:00'
+updated: '2026-05-24T18:38:03.742229+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 17:03 UTC  
+**Last Updated:** May 24, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -1.2%  
-**30d:** -9.3%  
-**90d:** +13.6%  
-**1y:** -17.5%  
+**24h:** +1.1%  
+**7d:** -1.4%  
+**30d:** -9.5%  
+**90d:** +13.4%  
+**1y:** -17.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.68B
+**Market Cap:** $253.05B
 Rank #2
 
 **Circulating Supply:** 120,685,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-57.6%
 
 **All-Time Low:** $0.43
-+483304.5%
++484159.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -128,7 +128,7 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
 
-3d ago
+4d ago
 
 ---
 
@@ -152,6 +152,12 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 ## Google News: "ethereum"
 
+**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
+
+Reuters • 2d ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, May 22, 2026: Prices moved little this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-22-2026-prices-moved-little-this-week-120513396.html)**
 
 Bitcoin opened at $77,546.53 on Friday, May 22, 2026, up 0.1% from Thursday’s opening price. Ethereum opened at $2,131.71 on Friday, up 0.2% from Thursday’s opening price.
@@ -160,9 +166,25 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
+**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
 
-Reuters • 2d ago
+Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
+
+TradingView • 21h ago
+
+---
+
+**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
+
+BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
+
+CryptoSlate • 5h ago
+
+---
+
+**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
+
+AMBCrypto • 15h ago
 
 ---
 
@@ -174,29 +196,7 @@ The Block • 2d ago
 
 ---
 
-**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
-
-Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
-
-TradingView • 20h ago
-
----
-
-**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
-
-BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
-
-CryptoSlate • 3h ago
-
----
-
-**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
-
-AMBCrypto • 14h ago
-
----
-
-**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+**[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
@@ -204,23 +204,23 @@ CoinDesk • 2d ago
 
 ---
 
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326543908830754)**
+**[Ethereum Crypto Influencer Game 'Fantasy Top' Shutting Down](https://decrypt.co/368640/ethereum-crypto-influencer-game-fantasy-top-shutting-down)**
 
-Binance • 6h ago
+Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
 
----
-
-**[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
-
-Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
-
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
 **[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
 
-TipRanks • 5h ago
+TipRanks • 7h ago
+
+---
+
+**[Top Crypto to Buy Now: APEMARS Soars past ETH and Polygon](https://financefeeds.com/polygon-and-ethereum-price-predictions-intensify-as-apemars-presale-pushes-past-30-5b-tokens-top-crypto-to-buy-now/)**
+
+FinanceFeeds • 22h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 235 • 💬 45 • ⏱️ 16:50 • 3h ago
+👁️ 5K • 👍 571 • 💬 80 • ⏱️ 16:50 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 1K • 💬 118 • ⏱️ 24:12 • 1d ago
+👁️ 27K • 👍 1K • 💬 126 • ⏱️ 24:12 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 154 • 💬 28 • ⏱️ 25:04 • 1d ago
+👁️ 4K • 👍 164 • 💬 28 • ⏱️ 25:04 • 1d ago
 
 ---
 
@@ -264,17 +264,7 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 452 • 💬 60 • ⏱️ 10:01 • 23h ago
-
----
-
-**[BITCOIN &amp; CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v-vjSel_lo0)**
-
-BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 388 • 💬 130 • ⏱️ 19:00 • 13h ago
+👁️ 7K • 👍 462 • 💬 61 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -284,37 +274,7 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 18K • 👍 573 • 💬 227 • ⏱️ 1:11:25 • 2d ago
-
----
-
-**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
-
-XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 371 • 💬 30 • ⏱️ 26:45 • 1d ago
-
----
-
-**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
-
-Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
-
-📺 Unchained
-
-👁️ 408 • 👍 13 • 💬 22 • ⏱️ 18:18 • 16h ago
-
----
-
-**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
-
-I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 580 • 💬 206 • ⏱️ 15:44 • 2d ago
+👁️ 19K • 👍 589 • 💬 233 • ⏱️ 1:11:25 • 2d ago
 
 ---
 
@@ -324,7 +284,47 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 127 • 👍 11 • 💬 1 • ⏱️ 5:22 • 6h ago
+👁️ 154 • 👍 12 • 💬 1 • ⏱️ 5:22 • 7h ago
+
+---
+
+**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
+
+Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
+
+📺 Unchained
+
+👁️ 412 • 👍 13 • 💬 22 • ⏱️ 18:18 • 17h ago
+
+---
+
+**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
+
+XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 372 • 💬 30 • ⏱️ 26:45 • 2d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v-vjSel_lo0)**
+
+BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 407 • 💬 133 • ⏱️ 19:00 • 14h ago
+
+---
+
+**[🥙 Ethereum is DEAD... Or Is It?](https://www.youtube.com/watch?v=cia_p8X8-nk)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 964 • 👍 126 • 💬 10 • ⏱️ 13:30 • 15h ago
 
 ---
 
