@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-24T21:28:52.738730+00:00'
+updated: '2026-05-24T22:32:45.133469+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 24, 2026 at 21:28 UTC  
+**Last Updated:** May 24, 2026 at 22:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I'd like to put together a big list of all of the image generators out there with a pros/cons comparison. I don't care if it's paid or free, what do you use and why do you like it. Also if there's one you don't like, why aren't you a fan?
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,13 @@ I'd like to put together a big list of all of the image generators out there wit
 
 I came across a cool model developed during the Cold War. I wanted to see how it would perform at image recognition, so I downloaded the UC Merced Land Use Dataset and wrote a script to add Gaussian noise to the photos and measure performance over a series of trials using Monte Carlo simulations. It is very efficient and appears well suited for FPGA implementation. It only uses about 50 MB of RAM. The satellite photos are converted to grayscale, downscaled to roughly 32×32, and converted into a fingerprint that is roughly 128 bytes in size. Therefore, the database of 800 TIFs is about 100 KB total. I’ll include the test and debug images so you can see how the process works. The model basically selects the stored pattern that best matches the noisy input based on what it has learned from the data.
 
-59m ago
+2h ago
+
+---
+
+**[How to Hit Claude Limits in One Click](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)**
+
+40m ago
 
 ---
 
@@ -57,7 +63,7 @@ I came across a cool model developed during the Cold War. I wanted to see how it
 
 "I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
 
-8h ago
+9h ago
 
 ---
 
@@ -65,15 +71,15 @@ I came across a cool model developed during the Cold War. I wanted to see how it
 
 Repo: https://github.com/jeongmk522-netizen/agentlas\_org\_chart Almost every multi-agent setup I have shipped or tested eventually hits the same wall. Agents bouncing between each other, reviewers asking for one more polish pass forever, research workers spawning indefinite subtopics, tool calls spiraling until the recursion limit kicks in. The framework docs usually call these "loops" and offer a max-iteration knob. I started suspecting the knob is treating a symptom, and the real issue is closer to how the agents are organized to begin with. The pattern that kept reappearing: when agents are designed as peers (researcher talks to analyst, analyst talks to writer, writer hands back to reviewer), nobody clearly owns the outcome. Every agent can keep asking another agent for more work. The graph has stop conditions on paper, but no single agent has the authority to declare "this is done, stop the run." That authority is implicit at best and gets diluted across the peer network. The hypothesis I am testing is that loop failures are organization-design failures more than prompt failures. The fix is to treat the agent network as an org chart with explicit reporting lines, not a chat room of peers. One accountable mission owner. One owner per workstream. Finite delegation depth. A typed return contract per worker (status, evidence, output, blockers, next action). Manager-only authority to reopen or terminate. Memory lives at the authority layers, specialists get scoped context only. The layers I have been working with are roughly chair, strategy office, division manager, team lead, and specialist worker, with QA and policy as separate staff offices that can reject and escalate but cannot themselves spawn unbounded new work. The reviewer-recursion failure mode in particular gets killed when verifiers are structurally allowed one reject pass, then must escalate. Frameworks already have most of the primitives. CrewAI has a hierarchical process where a manager validates worker output. LangGraph has supervisors, subagents, and an explicit recursion limit. OpenAI Agents SDK has manager-style orchestration distinct from peer handoffs. AutoGen has GroupChatManager. Anthropic's published research system is orchestrator-worker. What I think is underused is treating the manager not as a moderator for an open group chat but as a formal reporting line with authority to terminate. Two things I am unsure about. First, hierarchy can become its own bottleneck. If every decision routes upward, the chair agent becomes a single point of latency and a single point of failure. Second, escalation-as-feature only works if the top of the org chart has real stop authority. If the chair just calls another LLM that calls more LLMs, the loop just moved one floor up.
 
-6h ago
+7h ago
 
 ---
 
 **[I simply do not understand how massively expensive AI and robotics are expected to be more cost effective than humans.](https://www.reddit.com/r/artificial/comments/1tmffqn/i_simply_do_not_understand_how_massively/)**
 
-Can someone help me understand this? I mean, how on earth are these companies who are planning to replace us all with beep boops expecting these unimaginably high expense technologies to be better for their bottom line than just paying us low wage unwashed masses? I mean, some dude (respectfully, I use that term genderlessly) here just posted about min wage in their area being $7.25! You are not getting a robot or AI that costs less annualized. Even adding in annual benefits - that is a steal compared to data centers and complex robots who will be absurdly expensive to fix when they break. I’m a white collar worker with deep knowledge of worker costs, even at the top it’s cheaper than what all of this new buggy crap is going to cost. I’m so confused. What am I missing? Why are the evil overlords not interested in our already too cheap labor?
+Can someone help me understand this? I mean, how on earth are these companies who are planning to replace us all with beep boops expecting these unimaginably high expense technologies to be better for their bottom line than just paying us low wage unwashed masses? I mean, some dude (respectfully, I use that term genderlessly) here just posted about min wage in their area being $7.25! You are not getting a robot or AI that costs less annualized. Even adding in annual benefits - that is a steal compared to data centers and complex robots who will be absurdly expensive to fix when they break. I’m a white collar worker with deep knowledge of worker costs, even at the top it’s cheaper than what all of this new buggy crap is going to cost. I’m so confused. What am I missing? Why are the evil overlords not interested in our already too cheap labor? EDIT: I just want to thank everyone for the discussion on this. There are so many different situations and buckets of AI, it can be an imprecise topic, but the high level viewpoints have been helpful.
 
-5h ago
+6h ago
 
 ---
 
@@ -81,23 +87,7 @@ Can someone help me understand this? I mean, how on earth are these companies wh
 
 I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
 
-18h ago
-
----
-
-**[The biggest AI mistake: buying the tool before fixing the process](https://www.reddit.com/r/artificial/comments/1tmos7e/the_biggest_ai_mistake_buying_the_tool_before/)**
-
-Most businesses use AI backward. They buy the tool first and then try to find something for it to do. That usually does not work well. If the workflow is messy, AI just makes the mess move faster. The real value is in the handoff points: where data enters, where context is missing, where a next step is decided, where a draft gets created, and where a human still needs to review it. That is the basic idea behind my 5-Layer AI Workflow Audit. I just put together a full playbook on it here: Start Here: The 5-Layer AI Workflow Audit
-
-2m ago
-
----
-
-**[Memory](https://www.reddit.com/r/artificial/comments/1tmopo4/memory/)**
-
-Your explanation is largely correct. The reason “memory” has become the dominant systems problem for LLMs is that modern transformers are increasingly memory-bandwidth bound, not compute-bound. The key shift is this: Training large models was mostly about FLOPs. Serving large models at scale is increasingly about moving KV cache data around fast enough. A single token generation step only performs a relatively modest amount of math compared to the amount of KV data that must be fetched from memory every step. Why this happens During inference, every new token attends to all prior tokens. So for token t, the model needs access to all prior K/V tensors: \text{KV Cache Size} \propto 2 \times L \times S \times H \times d Where: L = layers S = sequence length H = attention heads d = head dimension The killer is the S term. As context grows: 8K → manageable 128K → huge 1M → infrastructure problem A 70B model with long context can require hundreds of GBs of KV cache across concurrent users. Why bandwidth matters more than raw compute Modern GPUs like the NVIDIA H100 or NVIDIA Blackwell can perform enormous amounts of compute. But every generated token requires: Loading KV cache from memory Running attention Writing updated KV back That means inference speed often depends more on: HBM bandwidth memory locality cache management than tensor core throughput. This is why: HBM3E NVLink unified memory memory compression have become strategic bottlenecks. Why the KV cache can exceed model weights Model weights are static. KV cache is dynamic and scales with: users context length output length batch size Example intuition: 70B model weights might occupy ~140 GB FP16 But serving thousands of users with long contexts can require multiple TBs of KV cache So operators increasingly optimize: cache reuse eviction paging quantization instead of just model size. Why vLLM and PagedAttention mattered so much Before systems like vLLM, memory fragmentation was catastrophic. PagedAttention essentially borrowed ideas from operating systems: divide KV into pages allocate dynamically avoid contiguous memory assumptions That dramatically improved: utilization batching throughput This was one of the biggest inference infrastructure breakthroughs of the last few years because it improved economics without changing the model itself. The deeper issue: transformers scale poorly with context Standard attention fundamentally has a retrieval problem: Each token potentially references every prior token. Even though compute optimizations exist, the architecture still requires huge memory movement. That’s why researchers are exploring: Grouped Query Attention (GQA) Multi-Query Attention (MQA) sliding window attention recurrent memory state-space models hybrid retrieval systems The industry increasingly believes: infinite-context transformers using naive KV scaling are economically unsustainable. Why inference economics are now the focus Training frontier models is expensive. But operating them continuously at global scale is potentially even larger economically. For many providers: inference cost dominates memory dominates inference cost That’s why companies across the stack are racing on memory: NVIDIA → HBM + NVLink + Grace AMD → MI300 unified memory Cerebras → wafer-scale SRAM Groq → deterministic low-latency SRAM-heavy architecture Marvell Technology → custom memory fabrics The bottleneck has shifted from: “Can we train bigger models?” to: “Can we serve them cheaply and fast enough?”
-
-4m ago
+19h ago
 
 ---
 
@@ -109,11 +99,19 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 ---
 
+**[What Will be the next industries to be completely disrupted by AI?](https://www.reddit.com/r/artificial/comments/1tm6mpt/what_will_be_the_next_industries_to_be_completely/)**
+
+Curious if there are any industries that are not typically considered in the context of AI, which are likely to get disrupted by AI soon, or at least heavily enhanced? Any ideas?
+
+13h ago
+
+---
+
 **[How to train an Image Generation AI model from scratch as an “experiment”](https://www.reddit.com/r/artificial/comments/1tmm586/how_to_train_an_image_generation_ai_model_from/)**
 
 People use image generation AI every day now, but I feel like almost nobody actually understands what training one looks like underneath. Every time I search about it, I either find insanely complex research papers or fake “train your own AI in one click” videos that skip everything important. It genuinely makes me curious what the real workflow looks like behind training even a small image generation model from scratch just as an experiment. Like how hard is it actually? What part is the real bottleneck? The compute, the data, the architecture, or just understanding all the moving parts together? AI image generation already feels normal now, but the process behind creating those systems still feels weirdly hidden from most people.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +121,7 @@ People use image generation AI every day now, but I feel like almost nobody actu
 
 **[Inside the British Lab Hunting for Dangers Lurking in A.I.](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -131,15 +129,15 @@ The New York Times • 12h ago
 
 As commencement speakers face restless crowds of new graduates, Google CEO Sundar Pichai says he's ready for his turn at Stanford next month.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
-**[I Asked ChatGPT How to Talk to Women. Was It Trying to Turn Me Into a Douchebag?](https://www.menshealth.com/health/a71395890/i-asked-chatgpt-to-help-with-dating-anxiety/)**
+**[Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)**
 
-Two AI-generated answers made me pause.
+We're in the transition period -- all of us.
 
-Men's Health • 58m ago
+TechCrunch • 53m ago
 
 ---
 
@@ -147,7 +145,7 @@ Men's Health • 58m ago
 
 Thousands of dollars were stolen from a Bay Area woman after scammers used artificial intelligence to mimic her daughter's voice in what authorities describe as a growing type of fraud.
 
-ABC7 San Francisco • 36m ago
+ABC7 San Francisco • 1h ago
 
 ---
 
@@ -155,21 +153,19 @@ ABC7 San Francisco • 36m ago
 
 The pope will join leading Catholic theologians and an Anthropic co-founder on Monday to release a landmark encyclical on “safeguarding the human person in the time of artificial intelligence.”
 
-NBC News • 9h ago
+NBC News • 10h ago
 
 ---
 
-**[SpaceX's IPO charts reveal a company spending like an AI giant: Chart of the Day](https://finance.yahoo.com/markets/article/spacexs-ipo-charts-reveal-a-company-spending-like-an-ai-giant-chart-of-the-day-120213160.html)**
+**[Facing the AI challenge, Leo XIV is asking, ‘What does it mean to be human?’](https://cruxnow.com/news-analysis/2026/05/facing-the-ai-challenge-leo-xiv-is-asking-what-does-it-mean-to-be-human)**
 
-SpaceX is going public with a rocket-company reputation, but its IPO filing points investors mainly to AI.
-
-Yahoo Finance • 9h ago
+Crux | Taking the Catholic Pulse • 2h ago
 
 ---
 
-**[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
+**[Watch Pope Leo Focusing on AI in First Encyclical](https://www.bloomberg.com/news/videos/2026-05-24/pope-leo-focusing-on-ai-in-first-encyclical-video)**
 
-Politico • 10h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -177,23 +173,21 @@ Politico • 10h ago
 
 The small Cessna Caravan accelerates down the runway and climbs into the air, all while the pilot beside me keeps his hands off the controls.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
-**[‘AI washing’: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)**
+**[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
 
-PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
-
-The Guardian • 3h ago
+Politico • 11h ago
 
 ---
 
-**[I’m a Professional Writer Who Uses a Very Controversial Tool. It’s Not As Scary As I Thought.](https://slate.com/technology/2026/05/ai-chatgpt-claude-professional-writing-tool.html)**
+**[SpaceX's IPO charts reveal a company spending like an AI giant: Chart of the Day](https://finance.yahoo.com/markets/article/spacexs-ipo-charts-reveal-a-company-spending-like-an-ai-giant-chart-of-the-day-120213160.html)**
 
-I was skeptical about ChatGPT and Claude at first. Then I started to come around—and I’m glad I did.
+SpaceX is going public with a rocket-company reputation, but its IPO filing points investors mainly to AI.
 
-Slate • 11h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -221,7 +215,7 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 271 • 💬 108 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 271 • 💬 109 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
@@ -239,19 +233,19 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 ---
 
+**[Memory has grown to nearly two-thirds of AI chip component costs](https://news.ycombinator.com/item?id=48258684)**
+
+High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
+
+⬆️ 242 • 💬 261 • 6h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+
+---
+
 **[Microsoft reports AI is more expensive than paying human employees](https://news.ycombinator.com/item?id=48244434)**
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
 ⬆️ 228 • 💬 66 • 1d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
-
----
-
-**[Memory has grown to nearly two-thirds of AI chip component costs](https://news.ycombinator.com/item?id=48258684)**
-
-High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
-
-⬆️ 219 • 💬 244 • 4h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
 
 ---
 
@@ -263,17 +257,17 @@ Organisations using AI to cut headcount are making a short-term trade with long-
 
 ---
 
+**[DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://news.ycombinator.com/item?id=48257410)**
+
+⬆️ 187 • 💬 2 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
+
+---
+
 **[Don't just paste the AI at me](https://news.ycombinator.com/item?id=48242648)**
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
 ⬆️ 180 • 💬 113 • 1d ago • [dontquotetheai.com](https://dontquotetheai.com/)
-
----
-
-**[DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://news.ycombinator.com/item?id=48257410)**
-
-⬆️ 168 • 💬 2 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
 
 ---
 
@@ -287,7 +281,7 @@ People often compare AI to the internet, but there's one big problem with that c
 
 📺 Vanessa Wingårdh
 
-👁️ 108K • 👍 8K • 💬 3K • ⏱️ 12:37 • 9h ago
+👁️ 108K • 👍 8K • 💬 3K • ⏱️ 12:37 • 10h ago
 
 ---
 
@@ -297,7 +291,7 @@ Start building AI apps with Bolt ...
 
 📺 Tina Huang
 
-👁️ 16K • 👍 1K • 💬 76 • ⏱️ 13:45 • 8h ago
+👁️ 16K • 👍 1K • 💬 76 • ⏱️ 13:45 • 9h ago
 
 ---
 
@@ -327,7 +321,7 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 159 • 💬 36 • ⏱️ 18:21 • 19h ago
+👁️ 6K • 👍 159 • 💬 36 • ⏱️ 18:21 • 20h ago
 
 ---
 
@@ -337,7 +331,7 @@ Create Your Own Music Videos with Perfect Lip Sync on Higgsfield https://higgsfi
 
 📺 Isa does AI
 
-👁️ 9K • 💬 3 • ⏱️ 8:51 • 9h ago
+👁️ 9K • 💬 3 • ⏱️ 8:51 • 10h ago
 
 ---
 
@@ -367,7 +361,7 @@ Try Higgsfield here and create cinematic AI videos with top models in one place 
 
 📺 Malva AI
 
-👁️ 7K • 👍 406 • 💬 62 • ⏱️ 8:13 • 10h ago
+👁️ 7K • 👍 406 • 💬 62 • ⏱️ 8:13 • 11h ago
 
 ---
 
@@ -377,7 +371,7 @@ HUGE AI NEWS: Qwen 3.7, Bytedance Lance, Stable Audio 3, L2P, MegaASR, & more #a
 
 📺 AI Search
 
-👁️ 47K • 👍 2K • 💬 199 • ⏱️ 47:07 • 17h ago
+👁️ 47K • 👍 2K • 💬 199 • ⏱️ 47:07 • 18h ago
 
 ---
 
@@ -672,7 +666,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 9h ago
+⭐ 2.6k • 🔱 179 • 10h ago
 
 ---
 
@@ -740,7 +734,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.7k • 🔱 117 • 4h ago
+⭐ 1.7k • 🔱 117 • 5h ago
 
 ---
 

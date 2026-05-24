@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-24T21:28:52.336034+00:00"
+          "dateModified": "2026-05-24T22:32:44.741443+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,23 +649,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmb7og/the_evil_when_it_wakes_up_robot_got_a_voice_and/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmp6ec/new_realsense_sdk_beta_release/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/aGYxdDR5aGp5MjNoMaWmAsfpt5N1FiCCQvjxV3yceOvekiU5j1d-IXOvfP0Y.png?width=640&crop=smart&auto=webp&s=c221f8e69154ae25b20445dfd59c963b485bcff2" alt="The "evil when it wakes up" robot got a voice and emotions. (video)" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://preview.redd.it/twa7gaynn53h1.png?width=640&crop=smart&auto=webp&s=0ce9c7bb85e091a76bfbf0014d36c59866bfb1bf" alt="New RealSense SDK Beta Release!" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tmb7og/the_evil_when_it_wakes_up_robot_got_a_voice_and/" target="_blank" onclick="event.stopPropagation();">The "evil when it wakes up" robot got a voice and emotions. (video)</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1tmp6ec/new_realsense_sdk_beta_release/" target="_blank" onclick="event.stopPropagation();">New RealSense SDK Beta Release!</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            A few weeks ago I posted OLAF here — the open-source embodied AI agent that looked a bit evil when it woke up. (That was the upside of 4 months of melted components and 50+ PCBs I now use as coasters.) I said voice and the AI brain layer were next. That's what this is. OLAF talks now, and it expresses. And since "it looks evil" was basically the headline last time — I tried to make it cute this round. You can tell me if it worked. Quick reminder of what OLAF is: not a robot built to do tasks. An AI agent with a physical presence — something that thinks, responds and reacts in the real world. This update is about giving it presence you can actually feel. What's new (v1 expression system): 15 expressions, 3 intensity levels each Vocalizations — laughs, sighs, thinking sounds, so there's no dead silence while it processes Emotion is driven by tags the LLM emits, which the body renders on the face + movement How it's wired: Pi 5 + AI kit orchestrates everything (the brain from the last post) Voice loop: wake word → VAD → speech-to-text → LLM → text-to-speech, half-duplex, with an activity state machine (sleeping / waking / listening / thinking / speaking) Heavy AI in the cloud: GPT-OSS 120B on Groq, Cartesia for the voice The pipeline publishes typed expression events over DDS to the body, so brain and body stay decoupled Still raw (honest as always): The "hmm" filler lands a beat too late Head movements aren't synced to speech yet — next big one It still can't do tasks… but it's genuinely fun to talk to Still no case. Wires everywhere. Same as last time — Claude as a coding partner made the iteration speed stupid. Weeks into hours. Last post (the evil wake-up / coaster saga): https://www.reddit.com/r/robotics/comments/1rwvo2s/my_robot_looks_evil_when_it_wakes_up_4_months_of/ Brain + hardware: https://github.com/kamalkantsingh10/OLAF Voice agent: https://github.com/kamalkantsingh10/olaf_companion Full demo on YouTube (sound on): https://youtube.com/shorts/PHwZBDvPOgQ Repo's open — feedback or a star both welcome. Happy to answer anything — the build, the Pi setup, the voice pipeline, the brain/body DDS contract, latency, whatever. And be honest: cute now, or still a little evil?
+                            SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no longer silently drops degraded enumerations (configurable). - Jetson JP6 / 6.2.2 support added; fixes missing metadata over USB3 on JP6. - Bundled D400 firmware removed from the SDK package. - NEON acceleration: new BUILD_WITH_NEON flag; CUDA falls back to NEON; pointcloud correction. - MIPI driver version exposed via camera_info; new External Sync XU. Viewer - Non-blocking stop-stream, fixes for read-only options, Linux recording load, Win11 taskbar icon, MIPI FW update flow. DFU - Correct downgrade-counter opcode, flash-lock detection fix, skip reset on unsigned FW, d401_gmsl min FW → 5.17.2.2. Bug Fixes - Python deadlock, WMF reset crash, Ctrl+C re-entrancy, D435 initial enumeration, D555 DB3 playback, rs-dds-adapter Windows leak. --- MIPI Driver Highlights - JetPack 7 on NVIDIA Thor — new platform support (RSDSO-20559). - JetPack 5.1.6 and 6.2.2 added (RSDSO-21191, RSDSO-21146). - MAX96712 multi-camera: dual-camera per deserializer on JP6.x and quad-D457 via full-slave mode (RSDSO-20613). - External sync via TSC PWM (Thor-friendly), restored MAX9296 + consolidated MAX9295 GPIO tunneling (RSDSO-21407). - New carrier boards: Advantech (Orin, JP6/JP7) and AVerMedia (JP6.x). - Link tuning: MAX96712 lanes raised to 2500 Mbps; MFP6 added for links B–D. Stability - DS5 reset/detection rework, MAX9296 power_off underflow fix (spurious XCLR), JP6.x DTB deploy fix. --- D555 New Features - On-camera Object Detection (DamoYolo) — real-time bounding boxes/class/confidence published alongside streams; toggle via Color.option.Object_Detection_Enable. - UFO (UDP Fragmentation Offload) — higher throughput at high-res/fps; auto-enabled for standard MTU, disabled for jumbo frames. SafeDDS - More concurrent viewers per camera, better discovery, high-load stability, reliable notification delivery, stream-open timeout fix. ROS2 - Topic rename _CompressedColor → _Color/compressed; depth-unit in metadata; reduced topic overhead; CompressedColor auto-sync with RGB; better ROS2cli reliability. DFU - Real-time progress to host, pre-update integrity check, improved transfer reliability. Bug Fixes - Stream open timeout (RSDEV-6686), message drops under load (RSDEV-6314), network stall (RSDEV-6955), camera_info resolution mismatch (RSDEV-6683), ROS2 param/node CLI issues, 4-stream stability (RSDEV-7109). More info: https://github.com/realsenseai/librealsense/releases/tag/v2.58.1
                         </div>
                         
 
@@ -674,7 +674,40 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1779626691.0"></span>
+                                    <span data-timestamp="1779658960.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmj3rj/robot_dog_feet/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tmj3rj/robot_dog_feet/" target="_blank" onclick="event.stopPropagation();">Robot Dog Feet</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hello, im currently building q robot dog similar to the MIT Mini Cheetah. However i cannot for the life of me find what kind of feet they used. Currently im using tpu spheres i 3d printed but getting a lot of slippage. Any reccomendations on the feet or what the actual Mini Cheetah used?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779645077.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -710,39 +743,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1779649207.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmj3rj/robot_dog_feet/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tmj3rj/robot_dog_feet/" target="_blank" onclick="event.stopPropagation();">Robot Dog Feet</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hello, im currently building q robot dog similar to the MIT Mini Cheetah. However i cannot for the life of me find what kind of feet they used. Currently im using tpu spheres i 3d printed but getting a lot of slippage. Any reccomendations on the feet or what the actual Mini Cheetah used?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779645077.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -822,6 +822,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bmlsd3M3ZHhodTJoMdX0wtpr9OJa2OUnWkzuJUKKSP8mSwAffm3Xa4p91ar0.png?width=320&crop=smart&auto=webp&s=a7f98356956e08476b15a863edcc659c3223ad85" alt="Robot arm" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/" target="_blank" onclick="event.stopPropagation();">Robot arm</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779523828.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tlzm4n/thinking_about_building_a_planar_maglev/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -846,37 +877,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1779590223.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bmlsd3M3ZHhodTJoMdX0wtpr9OJa2OUnWkzuJUKKSP8mSwAffm3Xa4p91ar0.png?width=320&crop=smart&auto=webp&s=a7f98356956e08476b15a863edcc659c3223ad85" alt="Robot arm" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tlad5y/robot_arm/" target="_blank" onclick="event.stopPropagation();">Robot arm</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779523828.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -973,7 +973,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T21:28:34.605901+00:00">Updated 2026-05-24T21:28:34.605901+00:00</small>
+        <small data-timestamp="2026-05-24T22:32:28.974272+00:00">Updated 2026-05-24T22:32:28.974272+00:00</small>
     </div>
 </div>
 
@@ -1364,6 +1364,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.chosun.com/english/video-en/2026/05/25/AKNATIPOH5AM7PPDXPAMJAIYI4/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.chosun.com/resizer/v2/QCUT5STMLRHABE7UMHEX2XNCTQ.jpg?auth=047681f27869d660e796550ea4e1402e39c6e353af1182747ddfd71c89ea431b&width=1200&height=630&focal=2081,688');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.chosun.com/english/video-en/2026/05/25/AKNATIPOH5AM7PPDXPAMJAIYI4/" target="_blank" onclick="event.stopPropagation();">Robots Take Root in Human Life</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Robots Expand Presence in Daily Life and Industry The Picture From festival processions to factory floors, robots demonstrate growing versatility and market potential
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.chosun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="조선일보" class="news-favicon">
+                                    <a href="https://www.chosun.com" target="_blank" onclick="event.stopPropagation();">조선일보</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779660385.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.techrepublic.com/article/news-southwest-bans-humanoid-robots-flights/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://assets.techrepublic.com/uploads/2026/05/bebop.jpg?f=jpeg');"></div>
@@ -1487,47 +1528,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/uk-humanoid-bosch-industrial-robot', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design-19-1.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/uk-humanoid-bosch-industrial-robot" target="_blank" onclick="event.stopPropagation();">UK’s Humanoid partners with Bosch to mass-produce HMND robots for industries</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Humanoid partners Bosch to scale HMND humanoid robot production after successful 2026 proof of concept trials.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779453840.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.pilotonline.com/2026/05/24/amazon-robotics-facility-virginia-beach/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.pilotonline.com/wp-content/uploads/2026/05/TVI-L-AMAZON-0525-01.jpg?w=1024&h=768');"></div>
@@ -1589,7 +1589,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T21:28:48.732818+00:00">Updated 2026-05-24T21:28:48.732818+00:00</small>
+        <small data-timestamp="2026-05-24T22:32:42.781439+00:00">Updated 2026-05-24T22:32:42.781439+00:00</small>
     </div>
 </div>
 

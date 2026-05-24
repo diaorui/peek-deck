@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T21:28:52.753198+00:00'
+updated: '2026-05-24T22:32:45.148206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 21:28 UTC  
+**Last Updated:** May 24, 2026 at 22:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,125.64
+### $2,078.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -1.6%  
+**24h:** -1.1%  
+**7d:** -1.5%  
 **30d:** -9.6%  
-**90d:** +13.2%  
+**90d:** +13.3%  
 **1y:** -17.8%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
 
-1d ago
+2d ago
 
 ---
 
@@ -156,15 +156,15 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
-**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
+**[Will Ethereum Ever Move Past $4,000 Again?](https://finance.yahoo.com/markets/crypto/articles/ethereum-ever-move-past-4-214344099.html)**
 
-BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
+Ethereum (CRYPTO: ETH) is trading around $2,091 today, down 57% from its all-time high of $4,946, set in August 2025. To move past $4,000 again, Ethereum needs to nearly double from its current price. Ethereum nearly doubling from here is a stretch, but the case for it is stronger than the price suggests. So, we ... Will Ethereum Ever Move Past $4,000 Again?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -174,25 +174,25 @@ Reuters • 2d ago
 
 ---
 
-**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
+**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
 
-Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
+BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-TradingView • 1d ago
+CryptoSlate • 9h ago
+
+---
+
+**[Ethereum Pullbacks Spark Accumulation Activity – Here’s Why](https://www.tradingview.com/news/newsbtc:f1129239d094b:0-ethereum-pullbacks-spark-accumulation-activity-here-s-why/)**
+
+Over the past two weeks, the Ethereum price has trended downward, sparking fears of another prolonged correction. However, data from a recent on-chain analysis indicate that the long-term bullish case for Ethereum remains quite strong.Staked Ethereum Metric Indicates Long-Term Investor ConfidenceIn…
+
+TradingView • 11h ago
 
 ---
 
 **[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
 
-AMBCrypto • 18h ago
-
----
-
-**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
-
-BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
-
-CryptoSlate • 8h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -204,27 +204,25 @@ CoinDesk • 3d ago
 
 ---
 
-**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
-
-Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
-
-Benzinga • 2h ago
-
----
-
-**[Grayscale Names 4 Altcoins Likely To Benefit From the CLARITY Act](https://beincrypto.com/grayscale-clarity-act-altcoin-winners/)**
-
-Grayscale names Ethereum, Solana, BNB Chain, and Canton as the chains best placed to gain from CLARITY Act passage.
-
-BeInCrypto • 2d ago
-
----
-
 **[Ethereum Crypto Influencer Game 'Fantasy Top' Shutting Down](https://decrypt.co/368640/ethereum-crypto-influencer-game-fantasy-top-shutting-down)**
 
 Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
 
 Decrypt • 3d ago
+
+---
+
+**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
+
+Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
+
+Benzinga • 3h ago
+
+---
+
+**[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
+
+TipRanks • 11h ago
 
 ---
 
@@ -238,7 +236,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 784 • 💬 98 • ⏱️ 16:50 • 7h ago
+👁️ 13K • 👍 784 • 💬 98 • ⏱️ 16:50 • 8h ago
 
 ---
 
@@ -278,7 +276,7 @@ Is quantum computing a threat to Bitcoin, Ethereum, and cryptocurrency security?
 
 📺 Hatcher's Market Insights
 
-👁️ 2 • ⏱️ 7:24 • 5h ago
+👁️ 2 • ⏱️ 7:24 • 6h ago
 
 ---
 
@@ -308,7 +306,7 @@ Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé
 
 📺 Unchained
 
-👁️ 452 • 👍 13 • 💬 22 • ⏱️ 18:18 • 20h ago
+👁️ 452 • 👍 13 • 💬 22 • ⏱️ 18:18 • 21h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 222 • 👍 14 • 💬 1 • ⏱️ 5:22 • 10h ago
+👁️ 222 • 👍 14 • 💬 1 • ⏱️ 5:22 • 11h ago
 
 ---
 
@@ -328,7 +326,7 @@ LINE NEXT 所推出的平台Unifi，現在推出穩定幣理財服務！ 存入U
 
 📺 腦哥 Chill塊鏈
 
-👁️ 39K • 👍 956 • 💬 150 • ⏱️ 33:51 • 9h ago
+👁️ 39K • 👍 956 • 💬 150 • ⏱️ 33:51 • 10h ago
 
 ---
 
