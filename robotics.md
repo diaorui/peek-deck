@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-24T11:18:05.282072+00:00'
+updated: '2026-05-24T12:41:17.618981+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 24, 2026 at 11:18 UTC  
+**Last Updated:** May 24, 2026 at 12:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everybody! My current research project is to build a swarm of affordable, 3d printed rovers that can navigate through a room and play a cooperative game. I have already looked at ArUco trackers for navigation but am now exploring Depth Anything V2. Basically I want to get the most out of the ~15$ ESP32 S3 Sense and just use the computer (with a decent graphics card) to handle the navigation part of things. The plan is now: ArUco markers around the room - global position and Orientation via solvePnP Depth View - for obstacle avoidance, maybe other rovers or people Rovers handle their own temperature and battery auto shut down Camera feeds streamed to PC via Wifi - all navigation logic runs there Some people on here recommend ROS2, and as I looked into it, it was quite overwhelming. Right now I am using a Python based Web Interface that I built. As a beginner I was curious to hear your thoughts, if this path forward could work or if I am moving towards a dead end :-X
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey r/robotics, A while back, this community helped me choose the name "Arctos" 
 
 I'm planning to take on a build project: a planar magnetic levitation platform. Small scale to start — roughly 300mm stator tile, a floating puck with 6-DOF (XY translation, Z, rotation, tilt), aiming for ~10μm precision and 1m/s or so. Multiple pucks on the same surface eventually. A few things I know it can do: - Contactless positioning (no mechanical wear, no backlash) - Spin/tilt/vibrate the puck while it's hovering - Pass power and signals through the puck But before I go deep on the design, I'd love to hear what the robotics community thinks: - If this existed as a buildable/open platform, what would you use it for? - What capability would make it a "must try" vs just a cool demo? - What pitfalls should I be watching out for? I've got a demo video of a similar industrial system. (Not a company, not selling anything. Just a builder looking for input from people who think about motion control.) https://reddit.com/link/1tlzm4n/video/wl52d9tnzz2h1/player
 
-8h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ I'm planning to take on a build project: a planar magnetic levitation platform. 
 
 Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E Hi robotics community, I’d like to share an early community update from FlashRT, my open-source realtime inference engine for embodied AI / VLA deployment. A contributor recently added an initial Pi0.5 path on Jetson AGX Orin, targeting edge robot inference instead of cloud-only execution. Current community benchmark on Jetson AGX Orin 64GB / SM87: Pi0.5 DROID INT8, 2 cameras, 27 layers, 10 diffusion steps cache_frames=1: P50: 124 ms Throughput: 8.04 Hz Cosine: 1.000 vs BF16 reference cache_frames=2: P50: 127 / 39 ms Throughput: 12.2 Hz amortized Cosine: 0.991 For comparison, the BF16 path on Orin is currently around: cache_frames=1: P50: ~216 ms Throughput: ~4.6 Hz cache_frames=2: Throughput: ~7.3 Hz This is still not “solved” robotics inference, but I think it is a meaningful step: Pi-style VLA policies are very sensitive to latency, runtime overhead, and small-batch execution, and edge deployment on Jetson is exactly where general cloud / batch-oriented inference assumptions start to break. FlashRT focuses on direct CUDA execution, fused kernels, quantization-aware inference, and CUDA Graph replay for small-batch realtime workloads. Repo: https://github.com/LiangSu8899/FlashRT Orin deployment docs: https://github.com/LiangSu8899/FlashRT/blob/main/docs/deployment_orin.md This Orin path is still early and community-driven. If you are working on robot manipulation, VLA policies, Jetson deployment, LIBERO / DROID-style policies, or real robot closed-loop testing, I’d really appreciate feedback, benchmarks, issues, and PRs. I’d especially love to see more results on different robots, camera setups, Orin SKUs, and closed-loop tasks.
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Pi0.5 VLA on Jetson Orin with FlashRT — early community path reaches ~8Hz E2E 
 
 Rate it from 1-10, based on looks, real functionality, movement ability. And also please give me your opinion on to how to improve it. Also in between the joints there should be a 32mm ball bearing! https://preview.redd.it/ooa2qhhxiy2h1.png?width=1133&format=png&auto=webp&s=cdcdd8ec748a3d8e5b68c41ba5d625191db4bf91 https://preview.redd.it/7vsv3ihxiy2h1.png?width=1123&format=png&auto=webp&s=96991ffeebec952e361e9cb2fc0dc85e9a27334b https://preview.redd.it/dy4hphhxiy2h1.png?width=1027&format=png&auto=webp&s=5db524174acafd8f42df5b0b3252841b074d287d https://preview.redd.it/1xtk5jhxiy2h1.png?width=1434&format=png&auto=webp&s=be31c01eda4aec55556f9e91085993c148bdaf1a https://preview.redd.it/sm10lihxiy2h1.png?width=774&format=png&auto=webp&s=a7734ad59dbc55c61b5f7d87109fc17d149f6340
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Rate it from 1-10, based on looks, real functionality, movement ability. And als
 
 Is there a reason why rovers with rocker bogie suspension are all platformed fairly high up other than the pivot being higher up? Can you have a hanging payload closer to the ground hanging from this high platform? The payload could drag along the ground but shouldn’t impede any forward/turning movement aka cause the rover to get stuck.
 
-13h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Is there a reason why rovers with rocker bogie suspension are all platformed fai
 
 Currently building a custom quadruped robot dog and have been running it through sim in Isaac Lab. I'm curious what somewhat affordable options are out there for good IMUs that work well with either a microcontroller or directly with an Nvidia Jetson Orin Nano. Realistically im wanting to be under $500 for it, I just dont want to be dealing with a ton of bad IMU data
 
-17h ago
+19h ago
 
 ---
 
@@ -114,15 +114,7 @@ Currently building a custom quadruped robot dog and have been running it through
 
 The U.S. is optimizing humanoid robots for factory demos and backflips. A former NASA robotics division chief explains why adaptability — not performance — is the metric that will determine who leads global manufacturing.
 
-Fortune • 16h ago
-
----
-
-**[Job training for robots: How China is getting machines ready to join the workforce](https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html)**
-
-Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.
-
-CNBC • 2d ago
+Fortune • 17h ago
 
 ---
 
@@ -134,19 +126,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
-
-The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
-
-Fast Company • 1h ago
-
----
-
 **[Southwest Bans Humanoid Robots After Viral Passenger Flights](https://www.techrepublic.com/article/news-southwest-bans-humanoid-robots-flights/)**
 
 Southwest banned human-like and animal-like robots from cabins and checked baggage after viral flights raised concerns about lithium-ion battery safety.
 
 TechRepublic • 1d ago
+
+---
+
+**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
+
+The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
+
+Fast Company • 2h ago
 
 ---
 
@@ -162,7 +154,7 @@ Live Science • 2d ago
 
 UBTECH demonstates its new Walker C1 robot performing Swan Lake ballet with humans, showing advanced humanoid control.
 
-Interesting Engineering • 13m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -170,7 +162,7 @@ Interesting Engineering • 13m ago
 
 AI world models are transforming robotics by enabling robots to learn, adapt, and interact with real-world environments more intelligently.
 
-inc.com • 11m ago
+inc.com • 1h ago
 
 ---
 
@@ -182,11 +174,19 @@ Fox News • 2d ago
 
 ---
 
+**[Robotic Bag Handling System](https://www.yahoo.com/news/videos/robotic-bag-handling-system-184125321.html)**
+
+An industrial robotic arm automatically lifts and positions heavy material bags during a factory packaging and processing operation.
+
+Yahoo • 17h ago
+
+---
+
 **[Ukraine’s Ground Robots Are Becoming Battlefield Platforms—And Procurement Is About to Surge](https://united24media.com/world/ukraines-ground-robots-are-becoming-battlefield-platforms-and-procurement-is-about-to-surge-19106)**
 
 Ukraine plans UGV procurement Ukraine 2026 to double in 2026, reaching nearly 25,000 units, adding EW, radar, missiles and mortars to combat roles.
 
-UNITED24 Media • 21h ago
+UNITED24 Media • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 30K • 👍 373 • 💬 140 • ⏱️ 5:15 • 1d ago
+👁️ 31K • 👍 388 • 💬 149 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 139K • 👍 3K • 💬 107 • ⏱️ 22:41 • 4d ago
+👁️ 141K • 👍 3K • 💬 109 • ⏱️ 22:41 • 4d ago
 
 ---
 
@@ -224,13 +224,13 @@ STOP paying hundreds of dollars a month for lawn mower services and SWITCH to th
 
 ---
 
-**[No Way… NEW Ue Murometz Is Here! Ue Titan &amp; UE Bulava Nukes War Robots](https://www.youtube.com/watch?v=tDCM5KKDnTs)**
+**[Would you let this humanoid robot into your home? 👀 #trendingshorts #tech #ai #robot](https://www.youtube.com/watch?v=iiUR4k6M0KM)**
 
-I dont think anyone expected this. New UE Murometz has arrived on the test server with ultimate bulava and listen. This test server ...
+1X Technologies, an OpenAI-backed startup founded in Norway and now based in Palo Alto, has opened a 58000 square foot ...
 
-📺 PREDATOR WR
+📺 Rowan Cheung
 
-👁️ 10K • 👍 420 • 💬 78 • ⏱️ 15:00 • 23h ago
+👁️ 472K • 👍 13K • 💬 752 • ⏱️ 1:34 • 5d ago
 
 ---
 
@@ -240,7 +240,7 @@ Everyone asks if Atlas can bring them a drink, but this robot can bring you the 
 
 📺 Boston Dynamics
 
-👁️ 235K • 👍 10K • 💬 1K • ⏱️ 0:47 • 5d ago
+👁️ 235K • 👍 10K • 💬 1K • ⏱️ 0:47 • 6d ago
 
 ---
 
@@ -254,23 +254,33 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
+**[Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!](https://www.youtube.com/watch?v=faBkVCEEEHQ)**
+
+Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry! Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!
+
+📺 TESLA CAR WORLD
+
+👁️ 28K • 👍 495 • 💬 54 • ⏱️ 15:32 • 4d ago
+
+---
+
 **[Ranking The Wildest Country Robots #robots #viral #shorts](https://www.youtube.com/watch?v=cfdL_mK0qUg)**
 
 In this video, we rank different robots inspired by countries like China, Australia, Russia, the USA, and the United Kingdom.
 
 📺 The area
 
-👁️ 98K • 👍 3K • 💬 144 • ⏱️ 0:50 • 4d ago
+👁️ 101K • 👍 3K • 💬 148 • ⏱️ 0:50 • 4d ago
 
 ---
 
-**[Would you let this humanoid robot into your home? 👀 #trendingshorts #tech #ai #robot](https://www.youtube.com/watch?v=iiUR4k6M0KM)**
+**[No Way… NEW Ue Murometz Is Here! Ue Titan &amp; UE Bulava Nukes War Robots](https://www.youtube.com/watch?v=tDCM5KKDnTs)**
 
-1X Technologies, an OpenAI-backed startup founded in Norway and now based in Palo Alto, has opened a 58000 square foot ...
+I dont think anyone expected this. New UE Murometz has arrived on the test server with ultimate bulava and listen. This test server ...
 
-📺 Rowan Cheung
+📺 PREDATOR WR
 
-👁️ 469K • 👍 13K • 💬 746 • ⏱️ 1:34 • 5d ago
+👁️ 11K • 👍 433 • 💬 81 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -280,17 +290,7 @@ From @BillBurrOfficial - Thursday Afternoon Monday Morning Podcast 5-21-26 Watch
 
 📺 Bill Burr
 
-👁️ 12K • 👍 379 • 💬 39 • ⏱️ 0:51 • 1d ago
-
----
-
-**[Atlas Robot Is Stronger Than People Expected](https://www.youtube.com/watch?v=tShZ4bBhMTo)**
-
-Boston Dynamics just revealed one of the craziest Atlas robot demonstrations yet. The humanoid robot is now capable of lifting ...
-
-📺 DPCcars
-
-👁️ 30K • 👍 220 • 💬 62 • ⏱️ 3:26 • 5d ago
+👁️ 12K • 👍 387 • 💬 39 • ⏱️ 0:51 • 1d ago
 
 ---
 

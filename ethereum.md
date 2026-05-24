@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T11:18:05.279187+00:00'
+updated: '2026-05-24T12:41:17.616795+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 11:18 UTC  
+**Last Updated:** May 24, 2026 at 12:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.7%  
-**7d:** -0.2%  
-**30d:** -8.4%  
-**90d:** +14.8%  
-**1y:** -16.7%  
+**24h:** +3.6%  
+**7d:** -0.5%  
+**30d:** -8.7%  
+**90d:** +14.4%  
+**1y:** -17.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.82B
+**Market Cap:** $255.46B
 Rank #2
 
 **Circulating Supply:** 120,685,540 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-57.2%
 
 **All-Time Low:** $0.43
-+489697.4%
++488745.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -152,11 +152,19 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 ## Google News: "ethereum"
 
+**[3 Cryptocurrencies to Watch as the Clarity Act Heads to the Senate](https://www.fool.com/investing/2026/05/24/3-cryptocurrencies-to-watch-as-the-clarity-act-hea/)**
+
+Passage of major new crypto legislation could unlock value for these three cryptocurrencies.
+
+The Motley Fool • 7h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, May 22, 2026: Prices moved little this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-22-2026-prices-moved-little-this-week-120513396.html)**
 
 Bitcoin opened at $77,546.53 on Friday, May 22, 2026, up 0.1% from Thursday’s opening price. Ethereum opened at $2,131.71 on Friday, up 0.2% from Thursday’s opening price.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -186,13 +194,13 @@ CoinDesk • 2d ago
 
 Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
 **[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -200,7 +208,7 @@ AMBCrypto • 8h ago
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 21h ago
+Crypto Briefing • 22h ago
 
 ---
 
@@ -214,13 +222,7 @@ Decrypt • 2d ago
 
 **[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
 
-TipRanks • 9m ago
-
----
-
-**[Top Crypto to Buy Now: APEMARS Soars past ETH and Polygon](https://financefeeds.com/polygon-and-ethereum-price-predictions-intensify-as-apemars-presale-pushes-past-30-5b-tokens-top-crypto-to-buy-now/)**
-
-FinanceFeeds • 15h ago
+TipRanks • 1h ago
 
 ---
 
@@ -234,7 +236,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 1K • 💬 111 • ⏱️ 24:12 • 21h ago
+👁️ 25K • 👍 1K • 💬 113 • ⏱️ 24:12 • 22h ago
 
 ---
 
@@ -244,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 141 • 💬 22 • ⏱️ 25:04 • 19h ago
+👁️ 4K • 👍 145 • 💬 22 • ⏱️ 25:04 • 20h ago
 
 ---
 
@@ -254,7 +256,17 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 436 • 💬 10 • ⏱️ 10:01 • 17h ago
+👁️ 7K • 👍 441 • 💬 10 • ⏱️ 10:01 • 19h ago
+
+---
+
+**[ETHEREUM BREAKOUT SOON!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Yy5howQeCiY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 60 • 👍 7 • 💬 1 • ⏱️ 5:22 • 1h ago
 
 ---
 
@@ -264,57 +276,7 @@ BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 293 • 💬 129 • ⏱️ 19:00 • 7h ago
-
----
-
-**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
-
-METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
-
-📺 Bankless
-
-👁️ 17K • 👍 535 • 💬 218 • ⏱️ 1:11:25 • 2d ago
-
----
-
-**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
-
-WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 79 • 💬 32 • ⏱️ 22:13 • 1d ago
-
----
-
-**[What Is Happening With Ethereum! Bankless Dump Ethereum! Crypto Is Changing For The Better Or Worse?](https://www.youtube.com/watch?v=ckd3wKhBeFQ)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 9K • 👍 488 • 💬 192 • ⏱️ 15:00 • 2d ago
-
----
-
-**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
-
-Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
-
-📺 Unchained
-
-👁️ 269 • 👍 12 • 💬 20 • ⏱️ 18:18 • 10h ago
-
----
-
-**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
-
-I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 579 • 💬 206 • ⏱️ 15:44 • 2d ago
+👁️ 8K • 👍 357 • 💬 127 • ⏱️ 19:00 • 8h ago
 
 ---
 
@@ -324,7 +286,47 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 370 • 💬 27 • ⏱️ 26:45 • 1d ago
+👁️ 7K • 👍 371 • 💬 28 • ⏱️ 26:45 • 1d ago
+
+---
+
+**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
+
+Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
+
+📺 Unchained
+
+👁️ 333 • 👍 12 • 💬 21 • ⏱️ 18:18 • 11h ago
+
+---
+
+**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
+
+METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
+
+📺 Bankless
+
+👁️ 18K • 👍 555 • 💬 221 • ⏱️ 1:11:25 • 2d ago
+
+---
+
+**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
+
+WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
+
+📺 Big Time Trades
+
+👁️ 2K • 👍 80 • 💬 32 • ⏱️ 22:13 • 1d ago
+
+---
+
+**[🥙 Ethereum is DEAD... Or Is It?](https://www.youtube.com/watch?v=cia_p8X8-nk)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 810 • 👍 112 • 💬 8 • ⏱️ 13:30 • 9h ago
 
 ---
 
