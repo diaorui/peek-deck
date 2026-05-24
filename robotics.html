@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-24T12:41:17.306251+00:00"
+          "dateModified": "2026-05-24T14:24:39.519846+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,76 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmcj2h/update_on_my_vibroquad_vibrationbased_quadrupedal/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/M2Q1Z2xnM2s5MzNoMX-lqHcZj65nbS-IdtTzrn130RLZ9x7TYw2Xs0UPALGq.png?width=640&crop=smart&auto=webp&s=4eb630460b9f0ea7f25eeb486dcb20bd85ba298d" alt="Update on my vibro-quad (vibration-based quadrupedal robot)" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tmcj2h/update_on_my_vibroquad_vibrationbased_quadrupedal/" target="_blank" onclick="event.stopPropagation();">Update on my vibro-quad (vibration-based quadrupedal robot)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've finally submitted my PhD thesis and have some time to work on my favourite robot build so far. I managed to implement omnidirectional motion and field-centric drive. It's not perfect yet (I switched from a 9-axis IMU to a 6-axis, and now drift is a real issue), but I definitely think this is a good proof of concept. Has anyone seen this approach before? Most vibration robots I've found are either single-direction bristlebots or differential swarm bots like Kilobots. I haven't found much on holonomic vibration drive. Curious if I'm reinventing the wheel.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779630073.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmb7og/the_evil_when_it_wakes_up_robot_got_a_voice_and/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/aGYxdDR5aGp5MjNoMaWmAsfpt5N1FiCCQvjxV3yceOvekiU5j1d-IXOvfP0Y.png?width=640&crop=smart&auto=webp&s=c221f8e69154ae25b20445dfd59c963b485bcff2" alt="The "evil when it wakes up" robot got a voice and emotions. (video)" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tmb7og/the_evil_when_it_wakes_up_robot_got_a_voice_and/" target="_blank" onclick="event.stopPropagation();">The "evil when it wakes up" robot got a voice and emotions. (video)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A few weeks ago I posted OLAF here — the open-source embodied AI agent that looked a bit evil when it woke up. (That was the upside of 4 months of melted components and 50+ PCBs I now use as coasters.) I said voice and the AI brain layer were next. That's what this is. OLAF talks now, and it expresses. And since "it looks evil" was basically the headline last time — I tried to make it cute this round. You can tell me if it worked. Quick reminder of what OLAF is: not a robot built to do tasks. An AI agent with a physical presence — something that thinks, responds and reacts in the real world. This update is about giving it presence you can actually feel. What's new (v1 expression system): 15 expressions, 3 intensity levels each Vocalizations — laughs, sighs, thinking sounds, so there's no dead silence while it processes Emotion is driven by tags the LLM emits, which the body renders on the face + movement How it's wired: Pi 5 + AI kit orchestrates everything (the brain from the last post) Voice loop: wake word → VAD → speech-to-text → LLM → text-to-speech, half-duplex, with an activity state machine (sleeping / waking / listening / thinking / speaking) Heavy AI in the cloud: GPT-OSS 120B on Groq, Cartesia for the voice The pipeline publishes typed expression events over DDS to the body, so brain and body stay decoupled Still raw (honest as always): The "hmm" filler lands a beat too late Head movements aren't synced to speech yet — next big one It still can't do tasks… but it's genuinely fun to talk to Still no case. Wires everywhere. Same as last time — Claude as a coding partner made the iteration speed stupid. Weeks into hours. Last post (the evil wake-up / coaster saga): https://www.reddit.com/r/robotics/comments/1rwvo2s/my_robot_looks_evil_when_it_wakes_up_4_months_of/ Brain + hardware: https://github.com/kamalkantsingh10/OLAF Voice agent: https://github.com/kamalkantsingh10/olaf_companion Full demo on YouTube (sound on): https://youtube.com/shorts/PHwZBDvPOgQ Repo's open — feedback or a star both welcome. Happy to answer anything — the build, the Pi setup, the voice pipeline, the brain/body DDS contract, latency, whatever. And be honest: cute now, or still a little evil?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779626691.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tlnos3/depth_tracking_on_a_25_rover/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -675,6 +745,41 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1779528335.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmdfat/agenticros_now_supports_nvidia_nemoclaw/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/bgmwypvrf33h1.png?width=640&crop=smart&auto=webp&s=d99c274f9b1edfeb74e84e70aa791d32cfaf410c" alt="AgenticROS Now Supports NVIDIA NemoClaw!" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tmdfat/agenticros_now_supports_nvidia_nemoclaw/" target="_blank" onclick="event.stopPropagation();">AgenticROS Now Supports NVIDIA NemoClaw!</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Excited to share that AgenticROS now supports NVIDIA NemoClaw as a first-class Physical AI agent platform for ROS-powered robots! NemoClaw packages OpenClaw inside a policy-enforced OpenShell sandbox with managed inference. AgenticROS extends that environment into the physical world by connecting the sandboxed agent to ROS2, RealSense, and robot control interfaces. With the new NemoClaw integration, an agent can: - Use ROS 2 tools for topics, services, actions, parameters, camera snapshots, and depth sensing - Connect from the NemoClaw sandbox to host-side ROS / RealSense / rosbridge over a controlled network policy - Access robot perception and actuation while keeping the AI runtime sandboxed - Run AgenticROS as an OpenClaw plugin inside NemoClaw - Support real robot behaviors through the AgenticROS skill architecture The recommended setup keeps ROS 2 and RealSense on the host, where hardware drivers already work well, while NemoClaw runs the agent and AgenticROS plugin inside the sandbox. That gives us a clean split: robot hardware and ROS on the edge, agentic reasoning and tool orchestration inside a governed AI environment. This is an important step toward Physical AI: agents that do not just reason over text or workflows, but can perceive, decide, and act through real ROS-powered robots. AgenticROS now supports OpenClaw, Anthropic Claude/Codex, Google Gemini, and NVIDIA NemoClaw as agent platforms, all sharing the same robotics foundation. Agentic AI is getting closer to the robot. AgenticROS is becoming the bridge. For more information: https://github.com/agenticros/agenticros/blob/main/docs/nemoclaw.md
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779632235.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -847,103 +952,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZXZqYWt3NXlldTJoMdX0wtpr9OJa2OUnWkzuJUKKSP8mSwAffm3Xa4p91ar0.png?width=320&crop=smart&auto=webp&s=e7aa012b890f87820ab0d62179202c0711546e38" alt="Arm robot dual servos" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tla2bo/arm_robot_dual_servos/" target="_blank" onclick="event.stopPropagation();">Arm robot dual servos</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779522828.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tlsznc/rocker_bogie_hanging_payload/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tlsznc/rocker_bogie_hanging_payload/" target="_blank" onclick="event.stopPropagation();">Rocker bogie + hanging payload</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Is there a reason why rovers with rocker bogie suspension are all platformed fairly high up other than the pivot being higher up? Can you have a hanging payload closer to the ground hanging from this high platform? The payload could drag along the ground but shouldn’t impede any forward/turning movement aka cause the rover to get stuck.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779572310.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tlmwt4/imu_help_request/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tlmwt4/imu_help_request/" target="_blank" onclick="event.stopPropagation();">IMU help request</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Currently building a custom quadruped robot dog and have been running it through sim in Isaac Lab. I'm curious what somewhat affordable options are out there for good IMUs that work well with either a microcontroller or directly with an Nvidia Jetson Orin Nano. Realistically im wanting to be under $500 for it, I just dont want to be dealing with a ton of bad IMU data
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779557936.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -967,7 +975,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T12:41:00.521353+00:00">Updated 2026-05-24T12:41:00.521353+00:00</small>
+        <small data-timestamp="2026-05-24T14:24:20.058641+00:00">Updated 2026-05-24T14:24:20.058641+00:00</small>
     </div>
 </div>
 
@@ -1186,7 +1194,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779563664.0"></span>
+                                    <span data-timestamp="1779526800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108310815-1779389716149-gettyimages-2256043210-vcg111614651072.jpeg?v=1779389914&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html" target="_blank" onclick="event.stopPropagation();">Job training for robots: How China is getting machines ready to join the workforce</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779397445.0"></span>
                                 </div>
                                 
                             </div>
@@ -1358,20 +1407,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/chinese-humanoid-robot-stuns-with-ballet', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/us/articles/metro-detroit-students-gain-access-120054622.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design-1-4.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/oD0vQLd6qXkjtlnm6ZMfpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAwO2NmPXdlYnA-/https://media.zenfs.com/en/mlive_com_articles_368/67c8caccdb562d299bad9446d2f40306');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/chinese-humanoid-robot-stuns-with-ballet" target="_blank" onclick="event.stopPropagation();">China's Walker humanoid robot amazes with precise ballet performance</a>
+                            <a href="https://www.yahoo.com/news/us/articles/metro-detroit-students-gain-access-120054622.html" target="_blank" onclick="event.stopPropagation();">Metro Detroit students gain access to new $5M AI, robotics learning hub</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            UBTECH demonstates its new Walker C1 robot performing Swan Lake ballet with humans, showing advanced humanoid control.
+                            Built as part of the district’s 2020 bond program, the Orsa Hub includes flexible collaborative spaces where students can explore robotics, artificial intelligence, virtual reality, augmented reality,...
                         </div>
                         
 
@@ -1381,9 +1430,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
                                     
                                 </div>
                                 
@@ -1391,7 +1440,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779620700.0"></span>
+                                    <span data-timestamp="1779624054.0"></span>
                                 </div>
                                 
                             </div>
@@ -1399,20 +1448,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.inc.com/heather-wilde/the-next-ai-revolution-isnt-chatbots-its-robotics/91344941', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.mercurynews.com/2026/05/24/saratoga-high-robotics-teams-take-top-honors-in-multiple-competitions/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/05/GettyImages-2063090050.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.mercurynews.com/wp-content/uploads/2026/05/SAN-L-BRIEFS-0529.jpg?w=1024&h=699');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.inc.com/heather-wilde/the-next-ai-revolution-isnt-chatbots-its-robotics/91344941" target="_blank" onclick="event.stopPropagation();">The Next AI Revolution Isn’t Chatbots. It’s Robotics</a>
+                            <a href="https://www.mercurynews.com/2026/05/24/saratoga-high-robotics-teams-take-top-honors-in-multiple-competitions/" target="_blank" onclick="event.stopPropagation();">Saratoga High robotics teams take top honors in multiple competitions</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI world models are transforming robotics by enabling robots to learn, adapt, and interact with real-world environments more intelligently.
+                            Students earn awards for engineering, advocacy.
                         </div>
                         
 
@@ -1422,9 +1471,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="inc.com" class="news-favicon">
-                                    <a href="https://www.inc.com" target="_blank" onclick="event.stopPropagation();">inc.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mercurynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Mercury News" class="news-favicon">
+                                    <a href="https://www.mercurynews.com" target="_blank" onclick="event.stopPropagation();">The Mercury News</a>
                                     
                                 </div>
                                 
@@ -1432,7 +1481,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779621300.0"></span>
+                                    <span data-timestamp="1779629871.0"></span>
                                 </div>
                                 
                             </div>
@@ -1481,20 +1530,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/videos/robotic-bag-handling-system-184125321.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.inc.com/heather-wilde/the-next-ai-revolution-isnt-chatbots-its-robotics/91344941', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/efecc5b9d15abe7e8aaf624705ec7e1b805c8f67678a0695d9b6c42f39510354/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2F274f028c-6d17-4452-b5f1-77f04b8c2134%2Fmain%2F1280x720%2F10s506ms%2Fmatch%2Fimage.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/05/GettyImages-2063090050.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.yahoo.com/news/videos/robotic-bag-handling-system-184125321.html" target="_blank" onclick="event.stopPropagation();">Robotic Bag Handling System</a>
+                            <a href="https://www.inc.com/heather-wilde/the-next-ai-revolution-isnt-chatbots-its-robotics/91344941" target="_blank" onclick="event.stopPropagation();">The Next AI Revolution Isn’t Chatbots. It’s Robotics</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            An industrial robotic arm automatically lifts and positions heavy material bags during a factory packaging and processing operation.
+                            AI world models are transforming robotics by enabling robots to learn, adapt, and interact with real-world environments more intelligently.
                         </div>
                         
 
@@ -1504,9 +1553,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="inc.com" class="news-favicon">
+                                    <a href="https://www.inc.com" target="_blank" onclick="event.stopPropagation();">inc.com</a>
                                     
                                 </div>
                                 
@@ -1514,48 +1563,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779561685.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://united24media.com/world/ukraines-ground-robots-are-becoming-battlefield-platforms-and-procurement-is-about-to-surge-19106', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.united24media.com/og/4/56/4aab181c1be349dceb26b106124cb564.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://united24media.com/world/ukraines-ground-robots-are-becoming-battlefield-platforms-and-procurement-is-about-to-surge-19106" target="_blank" onclick="event.stopPropagation();">Ukraine’s Ground Robots Are Becoming Battlefield Platforms—And Procurement Is About to Surge</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Ukraine plans UGV procurement Ukraine 2026 to double in 2026, reaching nearly 25,000 units, adding EW, radar, missiles and mortars to combat roles.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://united24media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="UNITED24 Media" class="news-favicon">
-                                    <a href="https://united24media.com" target="_blank" onclick="event.stopPropagation();">UNITED24 Media</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779545506.0"></span>
+                                    <span data-timestamp="1779621504.0"></span>
                                 </div>
                                 
                             </div>
@@ -1583,7 +1591,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T12:41:15.938833+00:00">Updated 2026-05-24T12:41:15.938833+00:00</small>
+        <small data-timestamp="2026-05-24T14:24:35.049544+00:00">Updated 2026-05-24T14:24:35.049544+00:00</small>
     </div>
 </div>
 

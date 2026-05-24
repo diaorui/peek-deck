@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T12:41:17.616795+00:00'
+updated: '2026-05-24T14:24:39.928978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 12:41 UTC  
+**Last Updated:** May 24, 2026 at 14:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** -0.5%  
-**30d:** -8.7%  
-**90d:** +14.4%  
-**1y:** -17.0%  
+**24h:** +1.9%  
+**7d:** -1.5%  
+**30d:** -9.5%  
+**90d:** +13.4%  
+**1y:** -17.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 2d ago
 
 ---
 
@@ -136,7 +136,7 @@ Been thinking a lot about the Ethereum Foundation security conversations this we
 
 Trump's executive order does not give crypto firms Fed payment access. It gives them something more dangerous to the Fed's position. The Fed now has 120 days to explain itself in writing.
 
-🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 3d ago
+🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 4d ago
 
 ---
 
@@ -151,14 +151,6 @@ the keycard shell understood the assignment. because it's not about the looks, t
 ---
 
 ## Google News: "ethereum"
-
-**[3 Cryptocurrencies to Watch as the Clarity Act Heads to the Senate](https://www.fool.com/investing/2026/05/24/3-cryptocurrencies-to-watch-as-the-clarity-act-hea/)**
-
-Passage of major new crypto legislation could unlock value for these three cryptocurrencies.
-
-The Motley Fool • 7h ago
-
----
 
 **[Bitcoin and ethereum prices today, Friday, May 22, 2026: Prices moved little this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-22-2026-prices-moved-little-this-week-120513396.html)**
 
@@ -182,6 +174,36 @@ The Block • 2d ago
 
 ---
 
+**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
+
+Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
+
+TradingView • 17h ago
+
+---
+
+**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
+
+AMBCrypto • 11h ago
+
+---
+
+**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
+
+Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
+
+Crypto Briefing • 1d ago
+
+---
+
+**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
+
+BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
+
+CryptoSlate • 1h ago
+
+---
+
 **[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
@@ -190,25 +212,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
+**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326527320464065)**
 
-Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
-
-TradingView • 15h ago
-
----
-
-**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
-
-AMBCrypto • 9h ago
-
----
-
-**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
-
-Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
-
-Crypto Briefing • 22h ago
+Binance • 4h ago
 
 ---
 
@@ -217,12 +223,6 @@ Crypto Briefing • 22h ago
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
 Decrypt • 2d ago
-
----
-
-**[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
-
-TipRanks • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 1K • 💬 113 • ⏱️ 24:12 • 22h ago
+👁️ 25K • 👍 1K • 💬 113 • ⏱️ 24:12 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 145 • 💬 22 • ⏱️ 25:04 • 20h ago
+👁️ 4K • 👍 145 • 💬 22 • ⏱️ 25:04 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 441 • 💬 10 • ⏱️ 10:01 • 19h ago
+👁️ 7K • 👍 441 • 💬 10 • ⏱️ 10:01 • 20h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 60 • 👍 7 • 💬 1 • ⏱️ 5:22 • 1h ago
+👁️ 60 • 👍 7 • 💬 1 • ⏱️ 5:22 • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 357 • 💬 127 • ⏱️ 19:00 • 8h ago
+👁️ 8K • 👍 357 • 💬 127 • ⏱️ 19:00 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé
 
 📺 Unchained
 
-👁️ 333 • 👍 12 • 💬 21 • ⏱️ 18:18 • 11h ago
+👁️ 333 • 👍 12 • 💬 21 • ⏱️ 18:18 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 810 • 👍 112 • 💬 8 • ⏱️ 13:30 • 9h ago
+👁️ 810 • 👍 112 • 💬 8 • ⏱️ 13:30 • 11h ago
 
 ---
 

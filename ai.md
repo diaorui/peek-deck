@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-24T12:41:17.606770+00:00'
+updated: '2026-05-24T14:24:39.914610+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 24, 2026 at 12:41 UTC  
+**Last Updated:** May 24, 2026 at 14:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
 
-9h ago
+11h ago
 
 ---
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -55,7 +55,15 @@ I benchmarked vision-capable LLMs (the "just attach the PDF and let the model re
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 17h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 19h ago
+
+---
+
+**[EdgeModel](https://www.reddit.com/r/artificial/comments/1tm92gy/edgemodel/)**
+
+The idea: A platform where: Businesses can find specialized AI models (not general ChatGPT-style APIs) Developers can train and sell AI models optimized for specific business use cases Models are designed for edge deployment (low cost, offline, fast inference) Everything is focused on reducing AI API costs and improving performance for real business workflows Think: Instead of paying high API costs for generic AI businesses use smaller, optimized models tailored to their exact use case. (OCR, surveillance, retail analytics, automation, etc.) And developers earn money by: Selling trained models Offering optimized deployments Customizing models for businesses The problem I’m trying to solve: A lot of companies are: burning money on AI API calls struggling with latency and scaling costs unable to deploy AI models locally or efficiently relying on generic models that are not optimized for their workflows My question to you: Would businesses actually use something like this instead of just using OpenAI / APIs? If you are a developer, would you bother uploading/selling models like this? What would stop you from trusting or using a platform like this? Is this solving a real problem or does it sound unnecessary? Most importantly, would you personally sign up for something like this? I would much appreciate if I can get some honest feedback from you all! I’m not looking for validation, I want to know if this is actually needed in the market or just sounds good but won’t get real adoption. Appreciate any insights, especially from people who’ve built or used AI products in production.
+
+3h ago
 
 ---
 
@@ -67,9 +75,17 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 ---
 
-**[EdgeModel](https://www.reddit.com/r/artificial/comments/1tm92gy/edgemodel/)**
+**[I built 10 gamified, interactive presentation decks to teach Agentic AI (Stop falling asleep reading whitepapers).](https://www.reddit.com/r/artificial/comments/1tmc38r/i_built_10_gamified_interactive_presentation/)**
 
-The idea: A platform where: Businesses can find specialized AI models (not general ChatGPT-style APIs) Developers can train and sell AI models optimized for specific business use cases Models are designed for edge deployment (low cost, offline, fast inference) Everything is focused on reducing AI API costs and improving performance for real business workflows Think: Instead of paying high API costs for generic AI businesses use smaller, optimized models tailored to their exact use case. (OCR, surveillance, retail analytics, automation, etc.) And developers earn money by: Selling trained models Offering optimized deployments Customizing models for businesses The problem I’m trying to solve: A lot of companies are: burning money on AI API calls struggling with latency and scaling costs unable to deploy AI models locally or efficiently relying on generic models that are not optimized for their workflows My question to you: Would businesses actually use something like this instead of just using OpenAI / APIs? If you are a developer, would you bother uploading/selling models like this? What would stop you from trusting or using a platform like this? Is this solving a real problem or does it sound unnecessary? Most importantly, would you personally sign up for something like this? I would much appreciate if I can get some honest feedback from you all! I’m not looking for validation, I want to know if this is actually needed in the market or just sounds good but won’t get real adoption. Appreciate any insights, especially from people who’ve built or used AI products in production.
+Hey everyone, I've noticed a massive gap in how developers are trying to learn Agentic AI right now. There are hundreds of theoretical whitepapers and boring PowerPoint decks about ReAct loops, GraphRAG, and Semantic Routing. The problem is passive reading. You read a 20-page doc on multi-agent handoffs, close the tab, and immediately forget how the architecture actually works. So, I built a custom presentation engine directly into the AgentSwarms platform and just published 10 gamified, interactive slide decks. Here is how the learning loop works: Instead of just staring at static diagrams, the slides require you to interact with the concepts. You click to reveal logic paths, test your intuition on how an agent would route a specific prompt, and actively engage with the architecture. It uses active recall so the patterns actually stick in your brain before you ever touch a line of code. The decks cover everything from zero-to-production: The Basics: What a system prompt actually does, how RAG prevents hallucinations, and how tools give an LLM "hands." The Swarm: Building a 3-agent swarm, adding human-in-the-loop (HITL) approval gates, and deterministic routing logic. Production: Building multi-tenant RAG, cost-optimization, and shadow-mode LLM-as-a-Judge evals. It is completely free to read and play with the decks in the browser (no login or local setup required). I'd love for you to jump into one of the specialized deep-dive decks, click around, and let me know how this gamified learning loop feels compared to reading a standard Medium article! Link: agentswarms.fyi/learn
+
+1h ago
+
+---
+
+**["I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."](https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/)**
+
+"I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
 
 1h ago
 
@@ -79,7 +95,7 @@ The idea: A platform where: Businesses can find specialized AI models (not gener
 
 I am a PhD student (not in AI) and am usually alright when it comes to studying a topic I don't know much about. But it seems that because AI is so highly discussed nowadays, it's impossible to get a good gauge of what the rational scholarly consensus is regarding its and our future. I am constantly bombarded with people saying that at best most jobs are replaced and the future is a dystopia, and at worst AGI/ASI is achieved and we all are killed by a bioweapon or something. It honestly has me terrified, especially when I see a lot of figures in the AI sphere, including academics, seem to think that there are reasonably high "p(doom)"'s (what a horrifying concept that is). How am I supposed to parse all of this? Are there any actually level-headed people? Or are the people shouting about doom actually the level-headed ones? Compared to climate change, at least there are the IPCC reports which have laid out best guesses on what will happen. They're not perfect, but at least they exist.
 
-14h ago
+16h ago
 
 ---
 
@@ -87,15 +103,7 @@ I am a PhD student (not in AI) and am usually alright when it comes to studying 
 
 What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
 
-17h ago
-
----
-
-**[OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'](https://www.reddit.com/r/artificial/comments/1tlh2gh/openai_is_hiring_a_445000_researcher_requirements/)**
-
-OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
-
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 22h ago
+18h ago
 
 ---
 
@@ -103,15 +111,7 @@ OpenAI and Sam Altman aim to automate AI research. They are now hiring for a rol
 
 Started my career as a C# developer, then moved into application design and architecture, followed by Azure, and now I’m mainly working in AWS and DevOps. I want to transition into becoming a Senior Applied AI Engineer. The kind of role I’m interested in is designing and architecting AI-enabled applications, working with LLMs, agentic workflows, AI integrations, orchestration, automation, and possibly MLOps. What I’m not really interested in is going deep into the maths, data titlescience, or traditional ML research side of things. Most roadmaps I’ve seen seem heavily focused on statistics, model training, and data science, which doesn’t feel aligned with the kind of AI engineering work I want to do. I’m more interested in: AI application architecture LLM integrations Agentic systems and workflows AI platforms and infrastructure RAG systems MLOps and deployment Cloud-native AI systems AI security, governance, and observability Given my background in software engineering, cloud, and DevOps, is there a roadmap specifically for Applied AI Engineering? Would love advice from people already working in this space, especially on: What skills actually matter What to ignore Good projects to build Certifications or courses worth doing Whether deep ML knowledge is really necessary for senior roles
 
-6h ago
-
----
-
-**[ig nobody is talking about the real reason most AI agents fail in the real world](https://www.reddit.com/r/artificial/comments/1tm4aau/ig_nobody_is_talking_about_the_real_reason_most/)**
-
-we spend a lot of time in this community talking about capabilities. context windows, reasoning benchmarks, multi-step tool use, how well a model can write code or pass a bar exam. i'm not dismissing any of that. capabilities matter. but when i look at AI products failing in production, the capability of the model is almost never the issue. ive been building and consulting on AI agents for about 18 months. the failure modes i see constantly are: users do not go where the agent lives. the agent has a beautiful web interface. the user visits it twice and stops. not because the agent was unhelpful. because opening a browser tab is a cognitive action that requires intention, and most of daily life does not create the right moment for that intention. humans do not change their behavior to accommodate useful tools. useful tools have to show up in the behavior humans already have. the agent is reactive when it needs to be proactive. the smartest human assistant you have ever had did not just answer questions. they showed up. they flagged things before you asked. they sent you the thing you did not know you needed. most AI agents are search bars with a personality. they wait. waiting is not intelligence in practice. intelligence in practice is noticing and acting. the agent has no memory of who you are. you tell it your preferences, your context, your situation, and then come back 3 days later and it knows nothing. this is not a model limitation. the model can remember if you feed it the right context. this is an architecture choice that most teams make wrong because they are thinking about sessions instead of relationships. the agents that are succeeding in production are not necessarily the ones with the best models. they are the ones that live in whatsapp and imessage and telegram where users already are. that proactively reach out when something relevant happens. that maintain coherent memory of the person across weeks and months of conversation. the tooling to build this way exists now. agno and langchain for orchestration, photon codes for the cross channel messaging surface, langfuse for traces and memory debugging, good persistence in postgres or supabase. the architecture is not magic. what is still rare is the mindset of treating the channel and the memory as primary constraints rather than afterthoughts. i think the gap between what AI agents can theoretically do and what they actually do for people in their daily lives is almost entirely a distribution and persistence problem, not a capability problem. we are solving for the wrong thing.
-
-6h ago
+8h ago
 
 ---
 
@@ -119,41 +119,43 @@ we spend a lot of time in this community talking about capabilities. context win
 
 ## Google News: "ai"
 
-**[‘AI washing’: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)**
+**[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
 
-PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
-
-The Guardian • 11m ago
+Politico • 3h ago
 
 ---
 
-**[Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)**
+**[I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu](https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology)**
 
-WSJ • 20h ago
+As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move, says author Wendy Liu
 
----
-
-**[Pope Leo to address human dignity in the age of AI](https://www.nbcnews.com/tech/tech-news/pope-leo-address-human-dignity-age-ai-rcna345744)**
-
-The pope will join leading Catholic theologians and an Anthropic co-founder on Monday to release a landmark encyclical on “safeguarding the human person in the time of artificial intelligence.”
-
-NBC News • 41m ago
+The Guardian • 3h ago
 
 ---
 
-**[The Future Of Customer Feedback Is Real Time And AI-Powered](https://www.forbes.com/sites/shephyken/2026/05/24/the-future-of-customer-feedback-is-real-time-and-ai-powered/)**
+**[How AI Talks People Out of Conspiracy Theories—and What We Can Learn From That](https://www.wsj.com/tech/ai/ai-debunks-conspiracy-theories-92eff2c5)**
 
-AI is transforming customer feedback with real-time insights, smarter surveys, and deeper CX analysis that help companies improve faster and build loyalty.
-
-Forbes • 41m ago
+WSJ • 24m ago
 
 ---
 
-**[Voices: AI is making my classmates and me lazy. Here’s how we fix it.](https://www.sltrib.com/opinion/commentary/2026/05/24/voices-ai-is-making-my-classmates/)**
+**[AI is speeding up the quantum threat to crypto, security experts warn](https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn)**
 
-“The only way to fight AI in schools is for the students to take accountability,” writes high school student Andrew Madsen in an op-ed. “I want students to give up using AI on assignments.”
+The crypto industry has spent years debating whether quantum computing poses an existential threat to blockchains like Bitcoin and Ethereum. Now, researchers and builders believe artificial intelligence may be accelerating that timeline, and forcing a broader rethink of how digital security works altogether.
 
-The Salt Lake Tribune • 35m ago
+CoinDesk • 24m ago
+
+---
+
+**[Hotels strive to be found as AI models conduct travel search](https://phys.org/news/2026-05-hotels-ai.html)**
+
+Phys.org • 24m ago
+
+---
+
+**[To A.I. Executives, We’re All Just ‘Meat Computers’](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html)**
+
+The New York Times • 5h ago
 
 ---
 
@@ -161,7 +163,7 @@ The Salt Lake Tribune • 35m ago
 
 Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
 
-USA Today • 18h ago
+USA Today • 19h ago
 
 ---
 
@@ -169,27 +171,23 @@ USA Today • 18h ago
 
 Officials say the tech can help ensure names are pronounced correctly and speed up ceremonies, but some parents and students are pushing back.
 
-The Washington Post • 1h ago
+The Washington Post • 9m ago
 
 ---
 
-**[‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence](https://www.yahoo.com/news/politics/articles/f-guy-graduation-speakers-keep-125456074.html)**
+**[Metro Detroit students gain access to new $5M AI, robotics learning hub](https://www.yahoo.com/news/us/articles/metro-detroit-students-gain-access-120054622.html)**
 
-Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
+Built as part of the district’s 2020 bond program, the Orsa Hub includes flexible collaborative spaces where students can explore robotics, artificial intelligence, virtual reality, augmented reality,...
 
-Yahoo • 23h ago
-
----
-
-**[To A.I. Executives, We’re All Just ‘Meat Computers’](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html)**
-
-The New York Times • 3h ago
+Yahoo • 2h ago
 
 ---
 
-**[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
+**[Voices: AI is making my classmates and me lazy. Here’s how we fix it.](https://www.sltrib.com/opinion/commentary/2026/05/24/voices-ai-is-making-my-classmates/)**
 
-Politico • 1h ago
+“The only way to fight AI in schools is for the students to take accountability,” writes high school student Andrew Madsen in an op-ed. “I want students to give up using AI on assignments.”
+
+The Salt Lake Tribune • 2h ago
 
 ---
 
@@ -197,27 +195,11 @@ Politico • 1h ago
 
 ## HackerNews: "ai"
 
-**[AI is just unauthorised plagiarism at a bigger scale](https://news.ycombinator.com/item?id=48222383)**
-
-AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...
-
-⬆️ 816 • 💬 731 • 2d ago • [Axel's blog](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
-
----
-
 **[Steve Wozniak cheered after telling students they have AI – actual intelligence](https://news.ycombinator.com/item?id=48233563)**
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 643 • 💬 541 • 2d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
-
----
-
-**[Shunning AI is the human choice](https://news.ycombinator.com/item?id=48222366)**
-
-LinkedIn may be awash with boosters, but shunning AI is the human choice.
-
-⬆️ 370 • 💬 538 • 2d ago • [The Handbasket](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+⬆️ 643 • 💬 542 • 2d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -225,7 +207,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 336 • 💬 310 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 336 • 💬 310 • 2d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -233,13 +215,13 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 264 • 💬 103 • 20h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 267 • 💬 104 • 22h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 252 • 💬 196 • 1d ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 254 • 💬 196 • 1d ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -255,7 +237,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 225 • 💬 66 • 1d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 227 • 💬 66 • 1d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -271,7 +253,23 @@ Organisations using AI to cut headcount are making a short-term trade with long-
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 179 • 💬 113 • 1d ago • [dontquotetheai.com](https://dontquotetheai.com/)
+⬆️ 180 • 💬 113 • 1d ago • [dontquotetheai.com](https://dontquotetheai.com/)
+
+---
+
+**[Models.dev: open-source database of AI model specs, pricing, and capabilities](https://news.ycombinator.com/item?id=48241172)**
+
+An open-source database of AI models. Contribute to anomalyco/models.dev development by creating an account on GitHub.
+
+⬆️ 156 • 💬 27 • 1d ago • [GitHub](https://github.com/anomalyco/models.dev)
+
+---
+
+**[1940 Air Terminal Museum Begins Liquidation](https://news.ycombinator.com/item?id=48238568)**
+
+We own 3 full size, full motion simulators and they are available for purchase:  Southwest's first 737-200 simulator - donated by Southwest Beechcraft King Air 200 - donated by FlightSafety Hawker 700 - donated by FlightSafety  Each of these comes with all the associated computer cabinets that was u
+
+⬆️ 128 • 💬 31 • 1d ago • [1940 Air Terminal Museum](https://www.1940airterminal.org/news/liquidation-of-simulators)
 
 ---
 
@@ -285,7 +283,7 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 138 • 💬 25 • ⏱️ 18:21 • 11h ago
+👁️ 4K • 👍 138 • 💬 25 • ⏱️ 18:21 • 12h ago
 
 ---
 
@@ -295,7 +293,7 @@ Leaked audio from a Meta all-hands meeting reveals Mark Zuckerberg telling emplo
 
 📺 The Jimmy Dore Show
 
-👁️ 103K • 👍 8K • 💬 2K • ⏱️ 15:52 • 17h ago
+👁️ 103K • 👍 8K • 💬 2K • ⏱️ 15:52 • 19h ago
 
 ---
 
@@ -305,7 +303,7 @@ Sky News host James Morrow discusses late night TV host Stephen Colbert's final 
 
 📺 Sky News Australia
 
-👁️ 13K • 👍 839 • 💬 235 • ⏱️ 3:20 • 7h ago
+👁️ 13K • 👍 839 • 💬 235 • ⏱️ 3:20 • 9h ago
 
 ---
 
@@ -365,7 +363,7 @@ WE TAKE A LOOK AT THE RISING CASES OF A.I. PSYCHOSIS . #ai #mentalhealth #tiktok
 
 📺 what it look like TV
 
-👁️ 29K • 👍 2K • 💬 756 • ⏱️ 27:41 • 1d ago
+👁️ 29K • 👍 2K • 💬 756 • ⏱️ 27:41 • 2d ago
 
 ---
 
@@ -475,7 +473,7 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device i
 
 `image-text-to-text` `1.3B`
 
-⬇️ 269,589 • ❤️ 917 • 4d ago
+⬇️ 269,589 • ❤️ 917 • 5d ago
 
 ---
 
@@ -670,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 178 • 1h ago
+⭐ 2.6k • 🔱 178 • 2h ago
 
 ---
 

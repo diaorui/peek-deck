@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-24T12:41:17.612683+00:00'
+updated: '2026-05-24T14:24:39.922976+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 12:41 UTC  
+**Last Updated:** May 24, 2026 at 14:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,241.57
+### $76,388.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +0.1%  
-**30d:** -0.7%  
-**90d:** +20.4%  
-**1y:** -29.2%  
+**24h:** +1.3%  
+**7d:** -0.7%  
+**30d:** -1.4%  
+**90d:** +19.5%  
+**1y:** -29.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I never trusted third parties with my money, but I still kept some fiat in a local bank. Yesterday, right before I needed to pay all my bills, my bank account got frozen. I still don’t even know the exact reason, probably because I received an amount larger than usual. I went to the bank, and they told me they had to send an email to the administration in the capital. So here I am, locked out of my own money, waiting for someone in an office to decide whether I’m allowed to access it again. Luckily, around 90% of my wealth is in Bitcoin. For the first time, I actually needed to move some BTC from my cold wallet. I did it instantly, permissionlessly, and without trusting anyone and it literally saved the day for me. Bitcoin is not a stock market. Bitcoin is the solution to the dysfunctional financial system we live under.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I never trusted third parties with my money, but I still kept some fiat in a loc
 
 Self custody. If all else, still on the exchange, at the very least put a strong password, 2FA, and never ever touch any stupid emails or scanning random QR code, be safe out there. Don't be lost in the boating accident guy, or be.
 
-3h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Self custody. If all else, still on the exchange, at the very least put a strong
 
 People who bought Bitcoin before 2017 — do you still hold most of it, or did you cash out after life-changing gains?
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ People who bought Bitcoin before 2017 — do you still hold most of it, or did y
 
 Bitcoin is like cash, except nobody asks for your ID when you want to exchange cash for smaller bills. In Canada somebody setup a Lightning Buy/Sell offer on HodlHodl for $10-30. This means anyone can accept Bitcoin for a small payment and get it into their bank account in minutes. Imo Bitcoin doesn't have to be the main currency, it just has to be easy enough for regular people to use and then get fiat for. What are you thoughts on this?
 
-9h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin is like cash, except nobody asks for your ID when you want to exchange c
 
 I wrote in TL;DR mode Actual ballot for New York 13 to share around and then a few link to newspapers of past stories. If you feel like sharing the ballot with folks in NY13, I will not stop you. You can read more about my Crypto position at https://abolishthebitlicense.org. https://preview.redd.it/jelgrx30ny2h1.png?width=663&format=png&auto=webp&s=a58184cdb2cdb1c86f88e81666766b6aa7f07956 https://www.nydailynews.com/2017/10/11/man-at-center-of-bitcoin-bodega-lawsuit-wants-paul-krugman-to-testify https://preview.redd.it/3n2ixrq6ny2h1.png?width=738&format=png&auto=webp&s=6ca9a4c5f216a987bcaca4a6346056622f66b18b https://www.nytimes.com/2019/01/21/nyregion/public-advocate-nyc-ballot.html?unlocked_article_code=1.klA.5-xn.JxG6UJ7lXtev&smid=url-share https://preview.redd.it/rs1lyc84ny2h1.png?width=680&format=png&auto=webp&s=c822f62c2916fbfef60c1d631a696fdb47b8c77c https://www.coindesk.com/markets/2017/10/11/still-alive-ny-judge-delays-decision-in-fight-against-bitlicense https://preview.redd.it/ua6lxpa3ny2h1.png?width=1624&format=png&auto=webp&s=4ff76f32a3df88e36490171709c5e9810cedf95c There is more stuff about the corruption of the judges but I will stop here. We are going to get it one day.
 
-14h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ I wrote in TL;DR mode Actual ballot for New York 13 to share around and then a f
 
 I’m ready for this next move! Longs have been liquidated, OI is still elevated, and funding is shifting negative. I expect a rocket after this holiday weekend unless some macro news kills it.
 
-13h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ I’m ready for this next move! Longs have been liquidated, OI is still elevated
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’ll start off by saying, I did a lot of regrettable things over a decade ago. Stuff that I’m not proud of. But back in 2015(ish) I worked as a dominatrix. (Please don’t judge me.) One of the avenues I would advertise my services was on Backpage. It cost money to get your posts put up, and the first couple times it was no big deal, no complications getting advertising. Then one day (again, still in 2015ish) I went to post on Backpage, and they were changing their policies to protect people like me posting the services I offered. They no longer wanted a credit/debit card to pay for posting, since it could be traced back to us, but were switching to cryptocurrency, specifically Bitcoin. I should mention 2015 was a huge blur of going out to do “gigs” and then afterwords getting drunk, pretty regularly. So my memory of specific details at that time is really terrible. I was blotting out a lot of terrible memories and regret with lots of alcohol. I can’t remember if I went through the motions and actually purchased the bitcoins with the intention of making another post, but I do remember looking into bitcoin, maybe purchasing some, but not following through with posting on Backpage again after the change in policy. So now it’s 2026. I’m a wife and a mom and living a normal, suburban mediocre life. No complaints here! But I can’t help but wonder about the possibly purchased, possibly lost/locked up bitcoin. Is there anything I can do to help track it down if it exists? I know this is a long shot, but we could really use the money now, and it would be such a huge relief to realize I’ve had this windfall of money all along, just sitting around. Here’s what I do remember: If the bitcoins were tied to any type of email account, there’s a good chance it’s long gone. The email I had since 12yo was hacked around that time and I lost all access to it. Also, I used a lot of burner email accounts for making those postings and communicating with the people hiring me for such “gigs.” These email accounts are long gone and deleted as well. My memory is very fuzzy, but I seem to remember Backpage wanted like 5 or 10 bitcoin paid for posting. When I looked into it, bitcoin were more than 1:1 usd. I seem to remember 1 bitcoin=$20usd. I honestly can’t remember if I forked over the money after seeing the exchange rate. But in the off chance I did, I’d like to try and track the bitcoins down. I know next to NOTHING about cryptocurrency. This would have been the one time I ever purchased any, if I did. I do not remember anything about a wallet, or a seed phrase, and cannot recall if I used any app to make the purchase. I feel like if I did, it would be Coinbase, but I’m not sure honestly. So, how fucked am I at ever finding any answers or clues? How do I even begin to search for the (possibly purchased) lost bitcoin? If you’ve read this far, thank you so much for hanging in there. I’m just trying to chase this fuzzy memory with a glimmer of hope.
 
-12h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ I’ll start off by saying, I did a lot of regrettable things over a decade ago.
 
 Bitcoin’s digital nature is the source of most of its advantages. Since it is programmable, it unlocks self-custody practices that can make theft and confiscation very difficult. Since it is digital, it can move at the speed of light, allowing movement of value and settlement across the globe in minutes. Nevertheless, Bitcoin has at times been criticized for being hard to grasp, literally. Bitcoin, in its natural state, can not be touched, can not be physically held; it can only be imagined and understood. To many people, that’s a significant barrier and one that has inspired quite a few attempts to bring the coin into meat space, but it is not easy. Entrepreneurs and artists alike, for well over a decade, have taken on the challenge of making Bitcoin physical in a way that retains its most valuable cash-like properties, and while nobody has entirely solved the problem, significant progress has been made, leaving a wonderful trail of artifacts along the way. Bitcoin Magazine Logo HomeBUSINESSThe History and Future of Physical Bitcoin BUSINESSCULTUREFEATUREDThe BM Big Read The History and Future of Physical Bitcoin Juan Galt By Juan Galt May 23, 2026 The History and Future of Physical Bitcoin FacebookX Apple App Store Download App Google Play Download App Bitcoin’s digital nature is the source of most of its advantages. Since it is programmable, it unlocks self-custody practices that can make theft and confiscation very difficult. Since it is digital, it can move at the speed of light, allowing movement of value and settlement across the globe in minutes. Nevertheless, Bitcoin has at times been criticized for being hard to grasp, literally. Bitcoin, in its natural state, can not be touched, can not be physically held; it can only be imagined and understood. To many people, that’s a significant barrier and one that has inspired quite a few attempts to bring the coin into meat space, but it is not easy. Entrepreneurs and artists alike, for well over a decade, have taken on the challenge of making Bitcoin physical in a way that retains its most valuable cash-like properties, and while nobody has entirely solved the problem, significant progress has been made, leaving a wonderful trail of artifacts along the way. Casascius Coins The History and Future of Physical Bitcoin (Image by Stacks Bowers Galleries) Minted as early as September 6th, 2011, at a bitcoin price of barely $8 dollars, Casascius coins are without a doubt the most iconic physical Bitcoin artifacts in history, with many copycats since. Named after Mike Caldwell’s Bitcointalk forum nym, which appears to be an idiom for “call a spade a spade”, the Casascius coins developed many of the practices that other attempts at physical Bitcoin would innovate on over the years. One problem with making Bitcoin physical is the handling of private key material. Since Bitcoin is digitally native, it can only live in a cryptographic private-public key pair, a secret that is used to generate a public key, with Bitcoin-compatible cryptography. In the case of the Casascius coin, Caldwell generated the private keys in an airgapped machine and printed them, gluing them to the iconic precious metal coins and then presumably destroyed the copy that could have been kept on his computer. He described the security precautions taken on his website for potential buyers to review. The printed private key was then covered by specialized tamper-proof stickers, which, if removed, leave an obvious mark in a “honeycomb pattern”. Buyers of the coins could thus tell if the private keys in a Casascius coin had been exposed before purchase from a third-party vendor. This key management issue is the biggest hazard in the creation of physical bitcoin, and one which, in the case of Caldwell, was dealt with by trusting him not to cheat. He was also very transparent and careful by the standards of the time. To this day, his reputation is strong if not legendary, so that trust was well placed by buyers who profited greatly from the collector’s value of the items, which to this day mark a premium on top of the bitcoin and precious metal values of the piece. Casascius coins were discontinued in November 2013 after the Financial Crimes Enforcement Network (FinCEN), a branch of the Treasury Department, informed developer Mike Caldwell that minting physical bitcoins qualified him as a money transmitter business with heavy compliance requirements. The trust involved in generating the private keys may have been a centralizing element that put a target on his back. A year after Casascius coins shut down, RavenBit launched, with an attempt at decentralizing the trusted minting problem of physical bitcoins. The RavenBit coins, very similar in form factor to Casascius, did not come with pre-generated keys; instead, they came with the tamper-proof sticker unpealed, such that the user could generate their own keypair, paste it to the coin and slap the tamper-proof sticker on top. This, in a sense, decentralized the mint and, in theory, that is a breakthrough, but in practice, it just created a thousand trusted mints, without brands, without reputations, using office printers that probably had malware on them. If you got a RavenBit coin from someone, how could you know that the person who bought it and generated the private key in there didn’t keep a copy or take proper precautions? To date, the RavenBit project has been abandoned, but it probably taught the industry an interesting lesson. To make Bitcoin physical, we need to go higher tech. To route around the trusted mint problem — both at the center and at the edges – of physical bitcoins, Coinkite, the hardware wallet maker, designed the Opendime, a tiny computer purpose-built to be a Bitcoin bearer asset. Looking back on what motivated him, NVK, co-founder of CoinKite, told Bitcoin Magazine that, “Bitcoin is digital money. All we can do is an analog backup. Maybe someone cracks doing secp256k1 by hand in the future.” Meaning that currently, you always need some kind of computer to generate valid Bitcoin keys; that computer is the mint. Opendimes were designed around this fundamental fact. They have a computer chip that can generate a private-public key pair and store the private key securely, behind a silicon tamper-proof mechanism. Users have to feed it a file or some kind of input for entropy during setup, which the chip uses in part to generate the Bitcoin wallet, this grants further assurance that the random generation logic, which is open source, has an even better entropy input in the generation of those bitcoin keys. The public key of the generated Opendime wallet can always be seen by connecting the device to a computer, as you would a normal USB stick; its balance is visible on a block explorer. Users can then send bitcoin to the opendime, but if they want to withdraw BTC from it? They have to physically puncture the device, which unlocks a circuit to access the private key, but renders the device visibly unsealed. Opendimes represent a major breakthrough in bearer asset technology and go for about $20 dollars each today, rising in price slightly with inflation from a low of about $13 each in 2016. As a result, they have also achieved iconic status, with artists embedding them in premium Bitcoin art and making them into Bitcoin meme culture. While $13 to $20 dollars is very cheap for hardware wallets, and the trusted mint issue is effectively solved by letting users fill the device with their own coins, the price and form factor are still far away from cash. On a price basis alone, $20 dollars is a big ask. If Casascius charged about 20% markup for his coins, then Opendimes should hold at least $100 worth of Bitcoin inside to be worth the hardware, and for use as a currency, which prices out most every day purchases. Finally, the badass cypherpunk USB stick form factor, while epic, does not visibly tell the user much about its contents, making each device effectively non-fungible with other Opendimes and thus not cash-like. A cheaper and probably more fungible alternative is needed. Taking the Opendime concept to a more friendly form factor, the Belgian hardware wallet manufacturer Satochip created an open source credit card-like Bitcoin wallet, which has very similar qualities to the Opendime. It can generate Bitcoin private-public key pairs, and depending on the version, can even sign transactions. Users can interact with it via phone apps that talk to the card via NFC. Other form factors are available as well, like rings and coins that contain the same chip and capabilities. The cost for Satochip hardware can be as low as 13 Euros, depending on the bulk purchases, which is cheaper than an Opendime, which gets us closer to everyday cash purchases, but not by that much. The Satochip cards are intended to be high-security hardware wallet devices anyway, not daily-use cash containers. And these powerful and small computer chips are not cheap, hence the price floor above $10 that seems so hard to break through, for now. Taking the Opendime concept to a more friendly form factor, the Belgian hardware wallet manufacturer Satochip created an open source credit card-like Bitcoin wallet, which has very similar qualities to the Opendime. It can generate Bitcoin private-public key pairs, and depending on the version, can even sign transactions. Users can interact with it via phone apps that talk to the card via NFC. Other form factors are available as well, like rings and coins that contain the same chip and capabilities. The cost for Satochip hardware can be as low as 13 Euros, depending on the bulk purchases, which is cheaper than an Opendime, which gets us closer to everyday cash purchases, but not by that much. The Satochip cards are intended to be high-security hardware wallet devices anyway, not daily-use cash containers. And these powerful and small computer chips are not cheap, hence the price floor above $10 that seems so hard to break through, for now. Too Expensive? The Fundamental Limits So, how cheap does physical Bitcoin hardware need to be to make business sense, if it can make sense at all? According to the Federal Reserve, it costs anywhere from 4.1 cents to 11.3 cents to produce U.S. dollars. The smaller the value, the more expensive it is, with $1 bills incurring a 4.1% loss in production costs. That means that to justify a 20,000 Satoshis bill — roughly $16 dollars at today’s prices — the hardware needs to cost well under a dollar. Most computer chips powerful enough to do Bitcoin cryptography are above that price target, but there is one chip that demonstrates what is possible, the NXP’s NTAG X DNA chip. Available in sticker antenna form factor, a couple of millimeters thin, this NXP chip can handle a variety of cryptographic primitives, such as ECDSA and ECC. It can create secrets, sign them and even encrypt a message. However, while powerful, it does not include the Bitcoin cryptography curve, secp256k1, which means it can’t do Bitcoin things natively. Nevertheless, this 2025 generation NTAG can be purchased for roughly $3, if you can find any supply, demonstrating how low the price can go on a chip capable of performing cryptographic functions. Sadly, the cash-like form factor most of the world is used to, with flexible bills that people can fold into their pocket, can be very damaging to computer chips, a fact that NVK says he learned from experience, as they experimented with Bitcoin bearer assets hardware. The closest anyone may have come to the cash-like format is the OfflineCash company, with a beautiful, collection-worthy set of Bitcoin-denominated bills that have an NTAG-style NFC chip, which stores a user-generated key, while the company generates a second key on their servers, to create a 2 of 2 multisignature wallet. The Server key is on a time lock, degrading the multisig address to a 1 of 1 wallet, from which the user can eventually withdraw the bitcoin. This tries to get around the trusted mint issue, but ends up just replicating the many mints problem. Though their cash-like form factor is undeniably gorgeous. The costs of producing a Bitcoin native NTAG can easily hit a few million dollars, and implementing Bitcoin’s cryptography in this way can be fraught with errors if manufacturers are not experts on the topic. It would also need to be fully open source to guarantee that there are no backdoors. There’s one more fundamental problem with physical Bitcoin bearer assets. Even if you could get a cheap enough chip in a cash-like format, you would always need online access to verify its authenticity —that the cash is loaded with real bitcoin— since the asset is unavoidably digital. The problem could be solved by simply trusting an issuing mint of Bitcoin-denominated cash instruments, and believing in the face value of a redeemable bill, but that would miss the ideal of self-custodied, trusted cash. Though it probably would work in a friendly jurisdiction. So, while it would be cool to have physical Bitcoin bills like those created by OfflineCash Company with a bearer asset secure chip and not trusted mint risk, we are still a ways away. And it might actually be overkill today, since no one would have bitcoin-denominated change anyway, so you’d end up getting fiat cash back, but maybe one day, post-hyperbitcoinization. NVK does believe there’s a superior solution to the cash format, at least for the foreseeable future, which is why Coinkite created the Tapsigner. Built on the Coinkite Bitcoin NFC chip, a technology similar to the X DNA NTAG by NXP, though perhaps more powerful and thus more expensive, the Tapsigner comes in the familiar debit card form factor, with a secure element chip, NFC tap to pay and cool designs to choose from. Inside the chip, though, is a fully capable Bitcoin wallet, with scep256k1 cryptographic capabilities, letting it create Bitcoin keys, store the secret securely enough and sign transactions internally, to be broadcast by an accompanying phone, which serves as a critical visual aid for the user to verify transactions. The Tapsigner can function as a bearer asset, but perhaps even better as a refillable hardware wallet that can spend specific amounts of bitcoin, like any credit card, resolving the issue of change, and enabling tap to pay to wallets that support the already popular feature. With cards like the Tapsigner, which cost about $20 bucks, the problem of bitcoin-denominated payments returns to good old-fashioned retail adoption, and integration with major business accounting and payments software, which Cashapp and Square are blowing wide open.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin) • 5h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin) • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin’s digital nature is the source of most of its advantages. Since it is 
 
 Could be panic selling, losing a wallet, sending coins to the wrong network, trusting a random “expert”, forgetting a seed phrase, getting rugged, or selling too early before a huge pump. I genuinely think everyone in crypto has at least one painful story 😭
 
-15h ago
+16h ago
 
 ---
 
@@ -161,11 +161,25 @@ Could be panic selling, losing a wallet, sending coins to the wrong network, tru
 
 ## Google News: "bitcoin"
 
-**[Bitcoin prices news: BTC heads back to $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
+**[Bitcoin volatility hits 7 month low as institutional demand steadies markets](https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks)**
 
-"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
+BTC's implied volatility is a picture of calm even as financial headlines warn of macro risks.
 
-CoinDesk • 15h ago
+CoinDesk • 2d ago
+
+---
+
+**[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[How Buying Bitcoin Today Could Help You Retire Earlier](https://finance.yahoo.com/markets/crypto/articles/buying-bitcoin-today-could-help-133500306.html)**
+
+The world's top cryptocurrency is still a solid long-term investment.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -173,13 +187,7 @@ CoinDesk • 15h ago
 
 Billionaire entrepreneur and investor Mark Cuban says he has sold most of his Bitcoin (CRYPTO: $BTC) holdings after...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin News Today: Bitcoin Risks Drop to $60,000 After Breaking Critical Support — Analysts Divided on What Comes Next](https://www.binance.com/en/square/post/326560350226257)**
-
-Binance • 2h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -187,21 +195,7 @@ Binance • 2h ago
 
 In May 2026, CleanSpark, Inc. appointed Ruben Sahakyan as Senior Vice President of Finance, tasking him with leading capital markets, financial planning and analysis, and M&A support after more than 15 years in investment banking and digital assets advisory. This hire brings in a finance leader who has advised on more than US$20.00 billion of transactions across digital assets, infrastructure, and fintech, directly aligning with CleanSpark’s push to expand beyond bitcoin mining into AI and...
 
-Yahoo Finance • 30m ago
-
----
-
-**[Bitcoin News: Bitcoin Has Ended Its Longest Underperformance Streak in History and Is Ready to Beat Stocks and Bonds, Says Former Credit Suisse CIO](https://www.binance.com/en/square/post/326562544568881)**
-
-Binance • 2h ago
-
----
-
-**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
-
-The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
-
-The Block • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,6 +207,14 @@ House.gov • 2d ago
 
 ---
 
+**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
+
+The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
+
+The Block • 1d ago
+
+---
+
 **[A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent](https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin)**
 
 Rep. Matt Van Epps framed the American Reserve Modernization Act of 2026 as a reflection of Nashville’s rise as a major Bitcoin hub.
@@ -221,19 +223,19 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin volatility hits 7 month low as institutional demand steadies markets](https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks)**
-
-BTC's implied volatility is a picture of calm even as financial headlines warn of macro risks.
-
-CoinDesk • 2d ago
-
----
-
 **[What If You Could Actually Hold Your Bitcoin? The Wild History Of Physical BTC](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin)**
 
 Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 19h ago
+
+---
+
+**[A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context](https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b)**
+
+The best defence may in fact be defence
+
+Financial Times • 2d ago
 
 ---
 
@@ -275,7 +277,7 @@ Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own
 
 Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet of kiosks at retail locations that allow customers to purchase bitcoin with cash. Bitcoin Depot announced in a press release that its 9,700 kiosks – primarily located at gas stations and convenience stores&nbsp;– had already been taken offline.The company's bankruptcy filing reports between $10&nbsp;million and $50&nbsp;million in both assets and liabilities. In a recent financial disclosure, the company had reported a 49% year-over-year reduction in revenue and a net loss of $9.5&nbsp;million for the year. The company had also suffered a $3.67&nbsp;million hack in April.Bitcoin Depot has blamed a challenging state-level regulatory environment for its bankruptcy, pointing to a series of regulatory restrictions and outright bans on crypto ATMs, which are a major conduit for crypto scams. An FBI report on Internet crime in 2024 showed 11,000 reports of fraud involving crypto ATMs&nbsp;– a 99% increase from the prior year. Almost $250&nbsp;million was reported lost due to such scams, with a majority of it coming from victims over 60&nbsp;years old. Several states have responded by introducing laws imposing strict compliance requirements or transaction limits on ATM operators, and Indiana and Tennessee have both recently banned the kiosks entirely. Additionally, the company is defending against lawsuits from both Massachusetts and Iowa, which argue that the company uses a misleading pricing structure, knowingly enables crypto scames, and maintains a predatory refund policy.
 
-⬆️ 3 • 💬 0 • 1d ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
+⬆️ 3 • 💬 0 • 2d ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
 
 ---
 
@@ -311,7 +313,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cryptocurrency has to a holiday. May 22, 2010 was the first time Bitcoin was used …
 
-⬆️ 2 • 💬 0 • 1d ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
+⬆️ 2 • 💬 0 • 2d ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
 
 ---
 
@@ -325,7 +327,7 @@ Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost n
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 87 • ⏱️ 20:00 • 14h ago
+👁️ 11K • 👍 1K • 💬 87 • ⏱️ 20:00 • 16h ago
 
 ---
 
@@ -335,7 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 38 • ⏱️ 53:11 • 23h ago
+👁️ 42K • 👍 2K • 💬 38 • ⏱️ 53:11 • 1d ago
 
 ---
 
@@ -345,7 +347,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 181 • 💬 20 • ⏱️ 18:00 • 16h ago
+👁️ 4K • 👍 181 • 💬 20 • ⏱️ 18:00 • 17h ago
 
 ---
 
@@ -375,7 +377,7 @@ Welcome back to Open Wallets, where we open our wallets to help you build yours.
 
 📺 Open Wallets
 
-👁️ 3K • 👍 129 • 💬 118 • ⏱️ 6:09 • 21h ago
+👁️ 3K • 👍 129 • 💬 118 • ⏱️ 6:09 • 22h ago
 
 ---
 
@@ -385,7 +387,7 @@ FOX Business' Darren Botelho reports Republicans are racing to cement U.S. crypt
 
 📺 Fox Business
 
-👁️ 27K • 👍 551 • 💬 383 • ⏱️ 2:01 • 18h ago
+👁️ 27K • 👍 551 • 💬 383 • ⏱️ 2:01 • 20h ago
 
 ---
 
@@ -405,7 +407,7 @@ Subscribe. Before governments start bidding for what's left. America just fired 
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 238 • 💬 126 • ⏱️ 18:40 • 14h ago
+👁️ 3K • 👍 238 • 💬 126 • ⏱️ 18:40 • 15h ago
 
 ---
 
