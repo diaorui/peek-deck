@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-24T15:43:34.818653+00:00"
+          "dateModified": "2026-05-24T17:03:07.744988+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,39 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/" target="_blank" onclick="event.stopPropagation();">Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779591173.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tme23u/multiagent_loop_failures_might_be_orgdesign/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -671,6 +638,72 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1779633737.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/" target="_blank" onclick="event.stopPropagation();">"I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            "I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779626664.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/" target="_blank" onclick="event.stopPropagation();">Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779591173.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -794,39 +827,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/" target="_blank" onclick="event.stopPropagation();">"I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            "I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779626664.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlcscq/exclusive_departing_meta_staffer_posts_biting/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -877,6 +877,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/" target="_blank" onclick="event.stopPropagation();">Who am I even supposed to trust when it comes to the future of AI?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I am a PhD student (not in AI) and am usually alright when it comes to studying a topic I don't know much about. But it seems that because AI is so highly discussed nowadays, it's impossible to get a good gauge of what the rational scholarly consensus is regarding its and our future. I am constantly bombarded with people saying that at best most jobs are replaced and the future is a dystopia, and at worst AGI/ASI is achieved and we all are killed by a bioweapon or something. It honestly has me terrified, especially when I see a lot of figures in the AI sphere, including academics, seem to think that there are reasonably high "p(doom)"'s (what a horrifying concept that is). How am I supposed to parse all of this? Are there any actually level-headed people? Or are the people shouting about doom actually the level-headed ones? Compared to climate change, at least there are the IPCC reports which have laid out best guesses on what will happen. They're not perfect, but at least they exist.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779574181.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tmc38r/i_built_10_gamified_interactive_presentation/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -912,21 +945,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tmgh0a/why_we_build/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/re29atty043h1.png?width=640&crop=smart&auto=webp&s=300cfc6fe2ebb3b19a8ee36907f1692274c53a12" alt="Why We Build" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/" target="_blank" onclick="event.stopPropagation();">Who am I even supposed to trust when it comes to the future of AI?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1tmgh0a/why_we_build/" target="_blank" onclick="event.stopPropagation();">Why We Build</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I am a PhD student (not in AI) and am usually alright when it comes to studying a topic I don't know much about. But it seems that because AI is so highly discussed nowadays, it's impossible to get a good gauge of what the rational scholarly consensus is regarding its and our future. I am constantly bombarded with people saying that at best most jobs are replaced and the future is a dystopia, and at worst AGI/ASI is achieved and we all are killed by a bioweapon or something. It honestly has me terrified, especially when I see a lot of figures in the AI sphere, including academics, seem to think that there are reasonably high "p(doom)"'s (what a horrifying concept that is). How am I supposed to parse all of this? Are there any actually level-headed people? Or are the people shouting about doom actually the level-headed ones? Compared to climate change, at least there are the IPCC reports which have laid out best guesses on what will happen. They're not perfect, but at least they exist.
+                            One silver-lining to the dead internet we're living in, today, is that it's very quickly teaching us that we can't rely on our senses as much as we believe we can. It's not healthy to always live in skepticism, but it is necessary in a World where you don't know what's up or down anymore. That's why we need great minds to focus their attention on solving the problems associated with credible information sharing without it becoming some centralized playground designed to look like the free-flowing exchange of ideas. If we don't solve for that, then I guess we're heading into a future that a small handful of people want because elections or public opinion will no longer matter. One of the biggest focuses in AI should be in figuring out how to get it to provide deep credible knowledge in specific domains that can be best applied to the problems we're trying to solve. Sure, it can do this with enough fenagling, but what I really mean is having something easy for everyone to use like Perplexity or Gemini, only it doesn't simply find consensus information from the internet using all these black box methods that are owned by major corporations. Instead, it should use direct knowledge from domain experts who structure and cite their material and as users, we should be able to backtrack all of it, including the original author. And all of this should be achievable by simply engaging with a chatbot agent that can reliably go out and help me discover all of these things. Also, we shouldn't have to simply trust that the application works. We should be able to go in and see exactly how it's working. This way, the public can audit the systems we're relying on for grounding our worldviews. That, to me, is where we should be if we really want to break from the chains of propaganda and reclaim our genuine thoughts about how we ought to live. The alternative independent media space was co-opted long ago and now all of the feeds keep us in a state of perpetual dislocation from our friends, family, communities, new solutions, and better approximations to the truth. We exist in a walled-off digital pasture. But if regular people who are smart and capable enough decide to leverage this new technology, then we can break through the fencing and finally live in a world where discovery-based researching and learning can be easier than Google, which could eventually individuate society again, like how it was before, instead of keeping us clustered into specific groups based on our viewing preferences. That's why my brother and I got into this business. Yeah, sure, we also wanna make a buck so we can retire with dignity. That's true. But the drive has always stemmed from wanting to figure out a better way for people to share hidden insights and create things that are bigger than they thought they could handle. We have a long way to go, but we're making the first small steps, even if it isn't obvious, just yet. Bottom line, though? Humanity must figure out a way to help us master the means and methods of discovery-based knowledge acquisition, execution, and immediate distribution of information based on relevancy and needs from those who search instead of those who passively soak information in from the curated feeds. And all of this needs to be easy enough for a 12 year-old to do. If anyone else is working on this problem, we'd love to hear your thoughts, even if it's through a DM. We're living in the most exciting times, but with adventure, comes danger. So maybe, idk. Let's make it more fun and less hazardous, so that we can, at least, live long enough to re-tell this great story that we're all a part of.
                         </div>
                         
 
@@ -935,40 +970,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1779574181.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tlpv9g/i_think_ai_training_is_way_more_accessible_than/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tlpv9g/i_think_ai_training_is_way_more_accessible_than/" target="_blank" onclick="event.stopPropagation();">I think AI training is way more accessible than people realize</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779564818.0"></span>
+                                    <span data-timestamp="1779639223.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1001,7 +1003,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T15:43:08.353509+00:00">Updated 2026-05-24T15:43:08.353509+00:00</small>
+        <small data-timestamp="2026-05-24T17:02:39.890982+00:00">Updated 2026-05-24T17:02:39.890982+00:00</small>
     </div>
 </div>
 
@@ -1187,6 +1189,43 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html" target="_blank" onclick="event.stopPropagation();">To A.I. Executives, We’re All Just ‘Meat Computers’</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779613291.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1224,20 +1263,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/6c4dd4b2880760003ffbd14e8d6884b367237ad3/1844_305_2349_1879/master/2349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae6c8a540881dcdf228bf87820a2733');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a11e9097ff506e273e672f9?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand" target="_blank" onclick="event.stopPropagation();">‘AI washing’: firms are scrambling to rebrand themselves as tech-focused</a>
+                            <a href="https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt" target="_blank" onclick="event.stopPropagation();">Google CEO Sundar Pichai says booing graduates will shape AI's future — and live with its consequences</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
+                            As commencement speakers face restless crowds of new graduates, Google CEO Sundar Pichai says he's ready for his turn at Stanford next month.
                         </div>
                         
 
@@ -1247,9 +1286,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1257,7 +1296,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779629220.0"></span>
+                                    <span data-timestamp="1779640087.0"></span>
                                 </div>
                                 
                             </div>
@@ -1265,98 +1304,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.seattletimes.com/opinion/microsoft-exec-on-supporting-news-without-influencing-it-ai-and-more/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/05/package-robot.jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.seattletimes.com/opinion/microsoft-exec-on-supporting-news-without-influencing-it-ai-and-more/" target="_blank" onclick="event.stopPropagation();">Microsoft exec on supporting news without influencing it, AI and more</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.seattletimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Seattle Times" class="news-favicon">
-                                    <a href="https://www.seattletimes.com" target="_blank" onclick="event.stopPropagation();">The Seattle Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779635700.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2024/07/17.png?resize=1200,750');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/" target="_blank" onclick="event.stopPropagation();">I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out</a>
+                            <a href="https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test" target="_blank" onclick="event.stopPropagation();">Humanoid robots work nonstop in package test</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779634800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/video/6396504316112', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50c2c4cc-b6cf-4b26-bf4e-1bc947a96372/e58202be-e04f-4a97-9a47-abac8ddf18e4/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxnews.com/video/6396504316112" target="_blank" onclick="event.stopPropagation();">Rick Crawford addresses rise of autonomous weapons, AI race</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            House Intelligence Committee Chairman Rep. Rick Crawford, R-Ark., discusses the rise of autonomous weapons, the threat of Iranian drones and the importance of U.S. leadership in AI development.
+                            Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.
                         </div>
                         
 
@@ -1376,7 +1337,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779636716.0"></span>
+                                    <span data-timestamp="1779640251.0"></span>
                                 </div>
                                 
                             </div>
@@ -1384,57 +1345,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-just-104000990.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/motleyfool.com/cdb758f1668129b7c4e02a42a6a0f63b');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html" target="_blank" onclick="event.stopPropagation();">Opinion | As a Doctor, I Can Understand the Allure of ChatGPT</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779616804.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/23/USAT/90234201007-usatsi-28954871.jpg?crop=6582,3703,x0,y0&width=3200&height=1801&format=pjpg&auto=webp');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/" target="_blank" onclick="event.stopPropagation();">Here's why people are booing college commencement speakers this year</a>
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-just-104000990.html" target="_blank" onclick="event.stopPropagation();">This Artificial Intelligence (AI) Stock Just Became Too Cheap to Ignore</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
+                            Microsoft stock hasn't received much love lately despite the company's solid fundamentals.
                         </div>
                         
 
@@ -1444,9 +1368,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="USA Today" class="news-favicon">
-                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1454,7 +1378,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779560700.0"></span>
+                                    <span data-timestamp="1779619200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1462,17 +1386,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2026/05/24/the-ai-stock-im-buying-for-my-retirement-portfolio/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F870064%2Falphabet-google.png&w=1200&op=resize');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60" target="_blank" onclick="event.stopPropagation();">Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever</a>
+                            <a href="https://www.fool.com/investing/2026/05/24/the-ai-stock-im-buying-for-my-retirement-portfolio/" target="_blank" onclick="event.stopPropagation();">The AI Stock I'm Buying for My Retirement Portfolio -- and Why It Has Nothing to Do With Hype</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            It's not easy to find companies you're confident in for the next 30 years, but this artificial intelligence (AI) stock fits the bill for me.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1481,9 +1409,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Motley Fool" class="news-favicon">
+                                    <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
                                     
                                 </div>
                                 
@@ -1491,7 +1419,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779606052.0"></span>
+                                    <span data-timestamp="1779614580.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rebalances-under-greg-161316454.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/68bc84512dd242df54712b90bf389fa0');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rebalances-under-greg-161316454.html" target="_blank" onclick="event.stopPropagation();">Berkshire Hathaway Rebalances Under Greg Abel With Bigger AI And Tech Bet</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Greg Abel, now CEO of Berkshire Hathaway (NYSE:BRK.B), has overseen a major reshaping of the stock portfolio, including full exits from Amazon, Visa, Mastercard, and UnitedHealth. Berkshire has built a top 5 position in Alphabet and has sharply increased AI related holdings, which now account for more than a third of the portfolio’s value. These moves reflect the biggest shift in Berkshire’s capital allocation approach in decades, with a clearer tilt toward technology and AI focused...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779639196.0"></span>
                                 </div>
                                 
                             </div>
@@ -1532,7 +1501,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779633165.0"></span>
+                                    <span data-timestamp="1779638571.0"></span>
                                 </div>
                                 
                             </div>
@@ -1577,6 +1546,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.sltrib.com/opinion/commentary/2026/05/24/voices-ai-is-making-my-classmates/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2F43LLMP2DFNCUHG3AKJ36D2FFFE.jpg?auth=98f668fd00746eb8e92d0b991561f45940dd9b4ce7f0753eda682f4609835fd4&width=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.sltrib.com/opinion/commentary/2026/05/24/voices-ai-is-making-my-classmates/" target="_blank" onclick="event.stopPropagation();">Voices: AI is making my classmates and me lazy. Here’s how we fix it.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            “The only way to fight AI in schools is for the students to take accountability,” writes high school student Andrew Madsen in an op-ed. “I want students to give up using AI on assignments.”
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sltrib.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Salt Lake Tribune" class="news-favicon">
+                                    <a href="https://www.sltrib.com" target="_blank" onclick="event.stopPropagation();">The Salt Lake Tribune</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779624329.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1597,7 +1607,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T15:43:32.994700+00:00">Updated 2026-05-24T15:43:32.994700+00:00</small>
+        <small data-timestamp="2026-05-24T17:02:58.691375+00:00">Updated 2026-05-24T17:02:58.691375+00:00</small>
     </div>
 </div>
 
@@ -1825,7 +1835,7 @@
                                     <span class="post-points">▲ 643</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 542</span>
+                                    <span style="color: #9ca3af;">💬 543</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1923,7 +1933,7 @@
                                     <span class="post-points">▲ 269</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 104</span>
+                                    <span style="color: #9ca3af;">💬 106</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2307,7 +2317,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-24T15:43:08.267788+00:00">Updated 2026-05-24T15:43:08.267788+00:00</small>
+        <small data-timestamp="2026-05-24T17:02:39.718242+00:00">Updated 2026-05-24T17:02:39.718242+00:00</small>
     </div>
 </div>
 

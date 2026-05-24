@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T15:43:35.345667+00:00'
+updated: '2026-05-24T17:03:08.311482+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 15:43 UTC  
+**Last Updated:** May 24, 2026 at 17:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -1.6%  
-**30d:** -9.6%  
-**90d:** +13.2%  
-**1y:** -17.8%  
+**24h:** +1.4%  
+**7d:** -1.2%  
+**30d:** -9.3%  
+**90d:** +13.6%  
+**1y:** -17.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time. we built a governance stack for exactly this execution-time drift, OZ Governor extensions plus a security council role that can block execution when on-chain stake diverges from the snapshot, https://s4l.ai/r/iqhdj5sm
 
-2d ago
+3d ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 2d ago
 
 Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 18h ago
+TradingView • 20h ago
 
 ---
 
@@ -186,13 +186,13 @@ TradingView • 18h ago
 
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
 
 ---
 
 **[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
 
-AMBCrypto • 12h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -204,17 +204,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326527320464065)**
+**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326543908830754)**
 
 Binance • 6h ago
-
----
-
-**[Grayscale Names 4 Altcoins Likely To Benefit From the CLARITY Act](https://beincrypto.com/grayscale-clarity-act-altcoin-winners/)**
-
-Grayscale names Ethereum, Solana, BNB Chain, and Canton as the chains best placed to gain from CLARITY Act passage.
-
-BeInCrypto • 1d ago
 
 ---
 
@@ -223,6 +215,12 @@ BeInCrypto • 1d ago
 Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
 
 Decrypt • 2d ago
+
+---
+
+**[Ethereum ETF Sees Sudden Outflow as Traders Lock In Gains](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-sudden-outflow-as-traders-lock-in-gains)**
+
+TipRanks • 5h ago
 
 ---
 
@@ -236,7 +234,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 235 • 💬 45 • ⏱️ 16:50 • 1h ago
+👁️ 3K • 👍 235 • 💬 45 • ⏱️ 16:50 • 3h ago
 
 ---
 
@@ -256,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 154 • 💬 28 • ⏱️ 25:04 • 23h ago
+👁️ 4K • 👍 154 • 💬 28 • ⏱️ 25:04 • 1d ago
 
 ---
 
@@ -266,7 +264,7 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 452 • 💬 60 • ⏱️ 10:01 • 22h ago
+👁️ 7K • 👍 452 • 💬 60 • ⏱️ 10:01 • 23h ago
 
 ---
 
@@ -276,7 +274,7 @@ BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 9K • 👍 388 • 💬 130 • ⏱️ 19:00 • 11h ago
+👁️ 9K • 👍 388 • 💬 130 • ⏱️ 19:00 • 13h ago
 
 ---
 
@@ -306,7 +304,7 @@ Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé
 
 📺 Unchained
 
-👁️ 408 • 👍 13 • 💬 22 • ⏱️ 18:18 • 14h ago
+👁️ 408 • 👍 13 • 💬 22 • ⏱️ 18:18 • 16h ago
 
 ---
 
@@ -326,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 127 • 👍 11 • 💬 1 • ⏱️ 5:22 • 4h ago
+👁️ 127 • 👍 11 • 💬 1 • ⏱️ 5:22 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-24T15:43:35.340262+00:00'
+updated: '2026-05-24T17:03:08.305608+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 15:43 UTC  
+**Last Updated:** May 24, 2026 at 17:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,388.97
+### $76,666.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.7%  
-**30d:** -1.5%  
-**90d:** +19.4%  
-**1y:** -29.8%  
+**24h:** +1.1%  
+**7d:** -0.4%  
+**30d:** -1.2%  
+**90d:** +19.8%  
+**1y:** -29.6%  
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 I never trusted third parties with my money, but I still kept some fiat in a local bank. Yesterday, right before I needed to pay all my bills, my bank account got frozen. I still don’t even know the exact reason, probably because I received an amount larger than usual. I went to the bank, and they told me they had to send an email to the administration in the capital. So here I am, locked out of my own money, waiting for someone in an office to decide whether I’m allowed to access it again. Luckily, around 90% of my wealth is in Bitcoin. For the first time, I actually needed to move some BTC from my cold wallet. I did it instantly, permissionlessly, and without trusting anyone and it literally saved the day for me. Bitcoin is not a stock market. Bitcoin is the solution to the dysfunctional financial system we live under.
 
-6h ago
+7h ago
+
+---
+
+**[Why do moderators delete posts about Bitcoin Improvement Proposal 110 in this reddit r/Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1tmh5i3/why_do_moderators_delete_posts_about_bitcoin/)**
+
+Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
+
+🔗 [GitHub](https://github.com/bitcoin/bips/blob/master/bip-0110.mediawiki) • 23m ago
 
 ---
 
@@ -89,7 +97,7 @@ I never trusted third parties with my money, but I still kept some fiat in a loc
 
 Self custody. If all else, still on the exchange, at the very least put a strong password, 2FA, and never ever touch any stupid emails or scanning random QR code, be safe out there. Don't be lost in the boating accident guy, or be.
 
-6h ago
+8h ago
 
 ---
 
@@ -97,7 +105,23 @@ Self custody. If all else, still on the exchange, at the very least put a strong
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 2h ago
+
+---
+
+**[Missing one word form 12 word seed phrase(correct order)](https://www.reddit.com/r/Bitcoin/comments/1tmcx5m/missing_one_word_form_12_word_seed_phrasecorrect/)**
+
+Hello I have a problem, got a new iphone and the phantom app transferred over but only in watch only mode I wrote down my 12 word seed phrase but missed one word. What an idiot Its in the correct order and I think I missed the last word Is there anything I can do other than try all 2048 different words. Found some different things using python or btc recover but all so complicated. Do they work… please help? Only £500 on there so not the end of the world but really annoying.
+
+3h ago
+
+---
+
+**[Bitcoin Drops](https://www.reddit.com/r/Bitcoin/comments/1tmdyf2/bitcoin_drops/)**
+
+If Bitcoin drops that much, could it be a strategy by big companies to scare people into selling their BTC so they can buy it back?! Stay patient, don’t sell your BTC. We’re only at the beginning of the crypto boom!
+
+2h ago
 
 ---
 
@@ -113,15 +137,15 @@ People who bought Bitcoin before 2017 — do you still hold most of it, or did y
 
 Bitcoin is like cash, except nobody asks for your ID when you want to exchange cash for smaller bills. In Canada somebody setup a Lightning Buy/Sell offer on HodlHodl for $10-30. This means anyone can accept Bitcoin for a small payment and get it into their bank account in minutes. Imo Bitcoin doesn't have to be the main currency, it just has to be easy enough for regular people to use and then get fiat for. What are you thoughts on this?
 
-12h ago
+13h ago
 
 ---
 
-**[A TL;DR version to share that I am a proud bitcoiner and that I am running for congress in New York 13th Congressional District.](https://www.reddit.com/r/Bitcoin/comments/1tlton7/a_tldr_version_to_share_that_i_am_a_proud/)**
+**[River and seedsigner](https://www.reddit.com/r/Bitcoin/comments/1tmfil6/river_and_seedsigner/)**
 
-I wrote in TL;DR mode Actual ballot for New York 13 to share around and then a few link to newspapers of past stories. If you feel like sharing the ballot with folks in NY13, I will not stop you. You can read more about my Crypto position at https://abolishthebitlicense.org. https://preview.redd.it/jelgrx30ny2h1.png?width=663&format=png&auto=webp&s=a58184cdb2cdb1c86f88e81666766b6aa7f07956 https://www.nydailynews.com/2017/10/11/man-at-center-of-bitcoin-bodega-lawsuit-wants-paul-krugman-to-testify https://preview.redd.it/3n2ixrq6ny2h1.png?width=738&format=png&auto=webp&s=6ca9a4c5f216a987bcaca4a6346056622f66b18b https://www.nytimes.com/2019/01/21/nyregion/public-advocate-nyc-ballot.html?unlocked_article_code=1.klA.5-xn.JxG6UJ7lXtev&smid=url-share https://preview.redd.it/rs1lyc84ny2h1.png?width=680&format=png&auto=webp&s=c822f62c2916fbfef60c1d631a696fdb47b8c77c https://www.coindesk.com/markets/2017/10/11/still-alive-ny-judge-delays-decision-in-fight-against-bitlicense https://preview.redd.it/ua6lxpa3ny2h1.png?width=1624&format=png&auto=webp&s=4ff76f32a3df88e36490171709c5e9810cedf95c There is more stuff about the corruption of the judges but I will stop here. We are going to get it one day.
+So I want to do River for emergency fund so I can stack more btc, how long does it take for River to send to your bank if you hold your cash there
 
-17h ago
+1h ago
 
 ---
 
@@ -129,31 +153,7 @@ I wrote in TL;DR mode Actual ballot for New York 13 to share around and then a f
 
 I’m ready for this next move! Longs have been liquidated, OI is still elevated, and funding is shifting negative. I expect a rocket after this holiday weekend unless some macro news kills it.
 
-16h ago
-
----
-
-**[Daily Discussion, May 24, 2026](https://www.reddit.com/r/Bitcoin/comments/1tm3ou6/daily_discussion_may_24_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
-
----
-
-**[Missing one word form 12 word seed phrase(correct order)](https://www.reddit.com/r/Bitcoin/comments/1tmcx5m/missing_one_word_form_12_word_seed_phrasecorrect/)**
-
-Hello I have a problem, got a new iphone and the phantom app transferred over but only in watch only mode I wrote down my 12 word seed phrase but missed one word. What an idiot Its in the correct order and I think I missed the last word Is there anything I can do other than try all 2048 different words. Found some different things using python or btc recover but all so complicated. Do they work… please help? Only £500 on there so not the end of the world but really annoying.
-
-1h ago
-
----
-
-**[Bitcoin Drops](https://www.reddit.com/r/Bitcoin/comments/1tmdyf2/bitcoin_drops/)**
-
-If Bitcoin drops that much, could it be a strategy by big companies to scare people into selling their BTC so they can buy it back?! Stay patient, don’t sell your BTC. We’re only at the beginning of the crypto boom!
-
-1h ago
+17h ago
 
 ---
 
@@ -161,25 +161,11 @@ If Bitcoin drops that much, could it be a strategy by big companies to scare peo
 
 ## Google News: "bitcoin"
 
-**[Bitcoin volatility hits 7 month low as institutional demand steadies markets](https://www.coindesk.com/markets/2026/05/22/bitcoin-implied-volatility-drops-to-7-month-low-despite-macro-risks)**
+**[Bitcoin price analysis: BTC set to outperform after long, difficult stretch versus traditional assets](https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street)**
 
-BTC's implied volatility is a picture of calm even as financial headlines warn of macro risks.
+Former Credit Suisse global head of portfolio and Risk Dimensions CIO Mark Connors says bitcoin has broken out of its longest stretch of underperformance in history and is ready to beat stocks, bonds, and gold as inflation stubbornly sticks around.
 
-CoinDesk • 2d ago
-
----
-
-**[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[How Buying Bitcoin Today Could Help You Retire Earlier](https://finance.yahoo.com/markets/crypto/articles/buying-bitcoin-today-could-help-133500306.html)**
-
-The world's top cryptocurrency is still a solid long-term investment.
-
-Yahoo Finance • 2d ago
+CoinDesk • 6h ago
 
 ---
 
@@ -191,27 +177,49 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Congressman Nick Begich Leads Legislation to Establish Strategic Bitcoin Reserve](http://begich.house.gov/media/press-releases/congressman-nick-begich-leads-legislation-establish-strategic-bitcoin-reserve)**
+**[US Strategic Bitcoin Reserve Picks Up Speed — Congress Has A Six-Month Window To Make It Law, Warns Congressman Begich](https://finance.yahoo.com/markets/crypto/articles/us-strategic-bitcoin-picks-speed-153447511.html)**
 
-WASHINGTON, D.C. – May 21, 2026 – Today, Congressman Nick Begich (AK-AL), alongside co-lead Congressman Jared Golden (ME-02), introduced the American Reserve Modernization Act of 2026 (ARMA), landmark bipartisan legislation to establish a Strategic Bitcoin Reserve and modernize how the United States manages digital reserve assets.
+Witt warned that if the United States doesn’t set the rules, the crypto industry will follow “somebody else's rulebook."
 
-House.gov • 3d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period](https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup)**
+**[Buy, Hodl, Repeat: Adam Back Delivers a Clear Bitcoin Recommendation](https://finance.yahoo.com/markets/crypto/articles/buy-hodl-repeat-adam-back-154653084.html)**
 
-The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.
+Blockstream CEO Adam Back says efficient markets are catching up with memecoins and air tokens. His advice remains simple: buy Bitcoin, hold.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Cipher Digital Leases Hyperscale AI Capacity And Shifts Beyond Bitcoin Mining](https://finance.yahoo.com/markets/stocks/articles/cipher-digital-leases-hyperscale-ai-161211992.html)**
+
+Cipher Digital (NasdaqGS:CIFR) has leased hyperscale AI infrastructure capacity to Amazon Web Services and Google/Fluidstack. The company is pivoting from bitcoin mining toward high performance computing and data center services. Cipher Digital recently leased a third large scale AI data center campus to support a multi gigawatt development pipeline. The new arrangements include substantial contracted cash flows tied to long term AI infrastructure demand. Cipher Digital, historically...
+
+Yahoo Finance • 50m ago
+
+---
+
+**[Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak](https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak)**
+
+BlackRock's IBIT now holds $61.1 billion in net assets against $64.8 billion in cumulative inflows, a difference of roughly $3.7 billion.
 
 The Block • 1d ago
 
 ---
 
-**[A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent](https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin)**
+**[Bitcoin News Today: $1.26 Billion Leaves Bitcoin ETFs in Six Days — Is It a Warning or a Contrarian Buy Signal?](https://www.binance.com/en/square/post/326220828894786)**
 
-Rep. Matt Van Epps framed the American Reserve Modernization Act of 2026 as a reflection of Nashville’s rise as a major Bitcoin hub.
+Binance • 1d ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.](https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed)**
+
+Fresh inflows into XRP-linked funds and a spike in newly created wallets suggest some traders may be rotating into the token while trimming exposure to crypto’s largest assets.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -219,23 +227,15 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[A bitcoin miner spent $860k armouring vehicles for its bosses, a fact for which we have very little context](https://www.ft.com/content/71d7486d-89b5-48ac-8f94-857578c0a03b)**
+**[Billionaire Mark Cuban Suddenly Flips On Bitcoin As Massive Crash Fear Hits Price](https://www.forbes.com/sites/digital-assets/2026/05/24/billionaire-mark-cuban-suddenly-flips-on-bitcoin-as-massive-crash-fear-hits-price/)**
 
-The best defence may in fact be defence
+Bitcoin has plummeted over the last week, falling sharply by 10% since mid-May...
 
-Financial Times • 2d ago
-
----
-
-**[Atlanta area firm with the most bitcoin ATMs in North America to shut down](https://www.ajc.com/business/2026/05/atlanta-area-firm-with-the-most-bitcoin-atms-in-north-america-to-shut-down/)**
-
-Bitcoin Depot was the largest network of bitcoin kiosks in North America, but saw its revenue crater after increased scrutiny.
-
-AJC.com • 2d ago
+Forbes • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost n
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 110 • ⏱️ 20:00 • 17h ago
+👁️ 12K • 👍 1K • 💬 110 • ⏱️ 20:00 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 198 • 💬 20 • ⏱️ 18:00 • 19h ago
+👁️ 5K • 👍 198 • 💬 20 • ⏱️ 18:00 • 20h ago
 
 ---
 
@@ -377,7 +377,7 @@ FOX Business' Darren Botelho reports on the Trump administration opening the doo
 
 📺 Fox Business
 
-👁️ 41K • 👍 827 • 💬 429 • ⏱️ 2:17 • 1d ago
+👁️ 41K • 👍 827 • 💬 429 • ⏱️ 2:17 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ FOX Business' Darren Botelho reports Republicans are racing to cement U.S. crypt
 
 📺 Fox Business
 
-👁️ 30K • 👍 591 • 💬 406 • ⏱️ 2:01 • 21h ago
+👁️ 30K • 👍 591 • 💬 406 • ⏱️ 2:01 • 23h ago
 
 ---
 
@@ -407,7 +407,7 @@ Subscribe. Before governments start bidding for what's left. America just fired 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 255 • 💬 132 • ⏱️ 18:40 • 17h ago
+👁️ 4K • 👍 255 • 💬 132 • ⏱️ 18:40 • 18h ago
 
 ---
 

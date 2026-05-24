@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-24T15:43:35.331873+00:00'
+updated: '2026-05-24T17:03:08.297621+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 24, 2026 at 15:43 UTC  
+**Last Updated:** May 24, 2026 at 17:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA](https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/)**
-
-I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
-
-12h ago
-
----
-
 **[Multi-agent loop failures might be org-design failures, not prompt failures](https://www.reddit.com/r/artificial/comments/1tme23u/multiagent_loop_failures_might_be_orgdesign/)**
 
 Repo: https://github.com/jeongmk522-netizen/agentlas\_org\_chart Almost every multi-agent setup I have shipped or tested eventually hits the same wall. Agents bouncing between each other, reviewers asking for one more polish pass forever, research workers spawning indefinite subtopics, tool calls spiraling until the recursion limit kicks in. The framework docs usually call these "loops" and offer a max-iteration knob. I started suspecting the knob is treating a symptom, and the real issue is closer to how the agents are organized to begin with. The pattern that kept reappearing: when agents are designed as peers (researcher talks to analyst, analyst talks to writer, writer hands back to reviewer), nobody clearly owns the outcome. Every agent can keep asking another agent for more work. The graph has stop conditions on paper, but no single agent has the authority to declare "this is done, stop the run." That authority is implicit at best and gets diluted across the peer network. The hypothesis I am testing is that loop failures are organization-design failures more than prompt failures. The fix is to treat the agent network as an org chart with explicit reporting lines, not a chat room of peers. One accountable mission owner. One owner per workstream. Finite delegation depth. A typed return contract per worker (status, evidence, output, blockers, next action). Manager-only authority to reopen or terminate. Memory lives at the authority layers, specialists get scoped context only. The layers I have been working with are roughly chair, strategy office, division manager, team lead, and specialist worker, with QA and policy as separate staff offices that can reject and escalate but cannot themselves spawn unbounded new work. The reviewer-recursion failure mode in particular gets killed when verifiers are structurally allowed one reject pass, then must escalate. Frameworks already have most of the primitives. CrewAI has a hierarchical process where a manager validates worker output. LangGraph has supervisors, subagents, and an explicit recursion limit. OpenAI Agents SDK has manager-style orchestration distinct from peer handoffs. AutoGen has GroupChatManager. Anthropic's published research system is orchestrator-worker. What I think is underused is treating the manager not as a moderator for an open group chat but as a formal reporting line with authority to terminate. Two things I am unsure about. First, hierarchy can become its own bottleneck. If every decision routes upward, the chair agent becomes a single point of latency and a single point of failure. Second, escalation-as-feature only works if the top of the org chart has real stop authority. If the chair just calls another LLM that calls more LLMs, the loop just moved one floor up.
 
-1h ago
+2h ago
+
+---
+
+**["I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."](https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/)**
+
+"I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
+
+4h ago
+
+---
+
+**[Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA](https://www.reddit.com/r/artificial/comments/1tlzy43/visioncapable_llms_vs_ocr_for_longdocument/)**
+
+I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
+
+14h ago
 
 ---
 
@@ -57,7 +65,7 @@ Repo: https://github.com/jeongmk522-netizen/agentlas\_org\_chart Almost every mu
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 20h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 21h ago
 
 ---
 
@@ -71,15 +79,7 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 The idea: A platform where: Businesses can find specialized AI models (not general ChatGPT-style APIs) Developers can train and sell AI models optimized for specific business use cases Models are designed for edge deployment (low cost, offline, fast inference) Everything is focused on reducing AI API costs and improving performance for real business workflows Think: Instead of paying high API costs for generic AI businesses use smaller, optimized models tailored to their exact use case. (OCR, surveillance, retail analytics, automation, etc.) And developers earn money by: Selling trained models Offering optimized deployments Customizing models for businesses The problem I’m trying to solve: A lot of companies are: burning money on AI API calls struggling with latency and scaling costs unable to deploy AI models locally or efficiently relying on generic models that are not optimized for their workflows My question to you: Would businesses actually use something like this instead of just using OpenAI / APIs? If you are a developer, would you bother uploading/selling models like this? What would stop you from trusting or using a platform like this? Is this solving a real problem or does it sound unnecessary? Most importantly, would you personally sign up for something like this? I would much appreciate if I can get some honest feedback from you all! I’m not looking for validation, I want to know if this is actually needed in the market or just sounds good but won’t get real adoption. Appreciate any insights, especially from people who’ve built or used AI products in production.
 
-4h ago
-
----
-
-**["I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."](https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/)**
-
-"I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
-
-2h ago
+6h ago
 
 ---
 
@@ -91,27 +91,27 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 ---
 
-**[I built 10 gamified, interactive presentation decks to teach Agentic AI (Stop falling asleep reading whitepapers).](https://www.reddit.com/r/artificial/comments/1tmc38r/i_built_10_gamified_interactive_presentation/)**
-
-Hey everyone, I've noticed a massive gap in how developers are trying to learn Agentic AI right now. There are hundreds of theoretical whitepapers and boring PowerPoint decks about ReAct loops, GraphRAG, and Semantic Routing. The problem is passive reading. You read a 20-page doc on multi-agent handoffs, close the tab, and immediately forget how the architecture actually works. So, I built a custom presentation engine directly into the AgentSwarms platform and just published 10 gamified, interactive slide decks. Here is how the learning loop works: Instead of just staring at static diagrams, the slides require you to interact with the concepts. You click to reveal logic paths, test your intuition on how an agent would route a specific prompt, and actively engage with the architecture. It uses active recall so the patterns actually stick in your brain before you ever touch a line of code. The decks cover everything from zero-to-production: The Basics: What a system prompt actually does, how RAG prevents hallucinations, and how tools give an LLM "hands." The Swarm: Building a 3-agent swarm, adding human-in-the-loop (HITL) approval gates, and deterministic routing logic. Production: Building multi-tenant RAG, cost-optimization, and shadow-mode LLM-as-a-Judge evals. It is completely free to read and play with the decks in the browser (no login or local setup required). I'd love for you to jump into one of the specialized deep-dive decks, click around, and let me know how this gamified learning loop feels compared to reading a standard Medium article! Link: agentswarms.fyi/learn
-
-2h ago
-
----
-
 **[Who am I even supposed to trust when it comes to the future of AI?](https://www.reddit.com/r/artificial/comments/1tltq6b/who_am_i_even_supposed_to_trust_when_it_comes_to/)**
 
 I am a PhD student (not in AI) and am usually alright when it comes to studying a topic I don't know much about. But it seems that because AI is so highly discussed nowadays, it's impossible to get a good gauge of what the rational scholarly consensus is regarding its and our future. I am constantly bombarded with people saying that at best most jobs are replaced and the future is a dystopia, and at worst AGI/ASI is achieved and we all are killed by a bioweapon or something. It honestly has me terrified, especially when I see a lot of figures in the AI sphere, including academics, seem to think that there are reasonably high "p(doom)"'s (what a horrifying concept that is). How am I supposed to parse all of this? Are there any actually level-headed people? Or are the people shouting about doom actually the level-headed ones? Compared to climate change, at least there are the IPCC reports which have laid out best guesses on what will happen. They're not perfect, but at least they exist.
 
-17h ago
+18h ago
 
 ---
 
-**[I think AI training is way more accessible than people realize](https://www.reddit.com/r/artificial/comments/1tlpv9g/i_think_ai_training_is_way_more_accessible_than/)**
+**[I built 10 gamified, interactive presentation decks to teach Agentic AI (Stop falling asleep reading whitepapers).](https://www.reddit.com/r/artificial/comments/1tmc38r/i_built_10_gamified_interactive_presentation/)**
 
-What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
+Hey everyone, I've noticed a massive gap in how developers are trying to learn Agentic AI right now. There are hundreds of theoretical whitepapers and boring PowerPoint decks about ReAct loops, GraphRAG, and Semantic Routing. The problem is passive reading. You read a 20-page doc on multi-agent handoffs, close the tab, and immediately forget how the architecture actually works. So, I built a custom presentation engine directly into the AgentSwarms platform and just published 10 gamified, interactive slide decks. Here is how the learning loop works: Instead of just staring at static diagrams, the slides require you to interact with the concepts. You click to reveal logic paths, test your intuition on how an agent would route a specific prompt, and actively engage with the architecture. It uses active recall so the patterns actually stick in your brain before you ever touch a line of code. The decks cover everything from zero-to-production: The Basics: What a system prompt actually does, how RAG prevents hallucinations, and how tools give an LLM "hands." The Swarm: Building a 3-agent swarm, adding human-in-the-loop (HITL) approval gates, and deterministic routing logic. Production: Building multi-tenant RAG, cost-optimization, and shadow-mode LLM-as-a-Judge evals. It is completely free to read and play with the decks in the browser (no login or local setup required). I'd love for you to jump into one of the specialized deep-dive decks, click around, and let me know how this gamified learning loop feels compared to reading a standard Medium article! Link: agentswarms.fyi/learn
 
-20h ago
+3h ago
+
+---
+
+**[Why We Build](https://www.reddit.com/r/artificial/comments/1tmgh0a/why_we_build/)**
+
+One silver-lining to the dead internet we're living in, today, is that it's very quickly teaching us that we can't rely on our senses as much as we believe we can. It's not healthy to always live in skepticism, but it is necessary in a World where you don't know what's up or down anymore. That's why we need great minds to focus their attention on solving the problems associated with credible information sharing without it becoming some centralized playground designed to look like the free-flowing exchange of ideas. If we don't solve for that, then I guess we're heading into a future that a small handful of people want because elections or public opinion will no longer matter. One of the biggest focuses in AI should be in figuring out how to get it to provide deep credible knowledge in specific domains that can be best applied to the problems we're trying to solve. Sure, it can do this with enough fenagling, but what I really mean is having something easy for everyone to use like Perplexity or Gemini, only it doesn't simply find consensus information from the internet using all these black box methods that are owned by major corporations. Instead, it should use direct knowledge from domain experts who structure and cite their material and as users, we should be able to backtrack all of it, including the original author. And all of this should be achievable by simply engaging with a chatbot agent that can reliably go out and help me discover all of these things. Also, we shouldn't have to simply trust that the application works. We should be able to go in and see exactly how it's working. This way, the public can audit the systems we're relying on for grounding our worldviews. That, to me, is where we should be if we really want to break from the chains of propaganda and reclaim our genuine thoughts about how we ought to live. The alternative independent media space was co-opted long ago and now all of the feeds keep us in a state of perpetual dislocation from our friends, family, communities, new solutions, and better approximations to the truth. We exist in a walled-off digital pasture. But if regular people who are smart and capable enough decide to leverage this new technology, then we can break through the fencing and finally live in a world where discovery-based researching and learning can be easier than Google, which could eventually individuate society again, like how it was before, instead of keeping us clustered into specific groups based on our viewing preferences. That's why my brother and I got into this business. Yeah, sure, we also wanna make a buck so we can retire with dignity. That's true. But the drive has always stemmed from wanting to figure out a better way for people to share hidden insights and create things that are bigger than they thought they could handle. We have a long way to go, but we're making the first small steps, even if it isn't obvious, just yet. Bottom line, though? Humanity must figure out a way to help us master the means and methods of discovery-based knowledge acquisition, execution, and immediate distribution of information based on relevancy and needs from those who search instead of those who passively soak information in from the curated feeds. And all of this needs to be easy enough for a 12 year-old to do. If anyone else is working on this problem, we'd love to hear your thoughts, even if it's through a DM. We're living in the most exciting times, but with adventure, comes danger. So maybe, idk. Let's make it more fun and less hazardous, so that we can, at least, live long enough to re-tell this great story that we're all a part of.
+
+49m ago
 
 ---
 
@@ -119,59 +119,55 @@ What i have felt from my posts cus its all about AI so :- now it feels like almo
 
 ## Google News: "ai"
 
+**[To A.I. Executives, We’re All Just ‘Meat Computers’](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html)**
+
+The New York Times • 8h ago
+
+---
+
 **[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
 
-Politico • 4h ago
+Politico • 6h ago
 
 ---
 
-**[‘AI washing’: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)**
+**[Google CEO Sundar Pichai says booing graduates will shape AI's future — and live with its consequences](https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt)**
 
-PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
+As commencement speakers face restless crowds of new graduates, Google CEO Sundar Pichai says he's ready for his turn at Stanford next month.
 
-The Guardian • 2h ago
-
----
-
-**[Microsoft exec on supporting news without influencing it, AI and more](https://www.seattletimes.com/opinion/microsoft-exec-on-supporting-news-without-influencing-it-ai-and-more/)**
-
-The Seattle Times • 28m ago
+Business Insider • 35m ago
 
 ---
 
-**[I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)**
+**[Humanoid robots work nonstop in package test](https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test)**
 
-Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.
+Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.
 
-TechCrunch • 43m ago
-
----
-
-**[Rick Crawford addresses rise of autonomous weapons, AI race](https://www.foxnews.com/video/6396504316112)**
-
-House Intelligence Committee Chairman Rep. Rick Crawford, R-Ark., discusses the rise of autonomous weapons, the threat of Iranian drones and the importance of U.S. leadership in AI development.
-
-Fox News • 11m ago
+Fox News • 32m ago
 
 ---
 
-**[Opinion | As a Doctor, I Can Understand the Allure of ChatGPT](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html)**
+**[This Artificial Intelligence (AI) Stock Just Became Too Cheap to Ignore](https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-just-104000990.html)**
 
-The New York Times • 5h ago
+Microsoft stock hasn't received much love lately despite the company's solid fundamentals.
 
----
-
-**[Here's why people are booing college commencement speakers this year](https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/)**
-
-Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
-
-USA Today • 21h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)**
+**[The AI Stock I'm Buying for My Retirement Portfolio -- and Why It Has Nothing to Do With Hype](https://www.fool.com/investing/2026/05/24/the-ai-stock-im-buying-for-my-retirement-portfolio/)**
 
-WSJ • 8h ago
+It's not easy to find companies you're confident in for the next 30 years, but this artificial intelligence (AI) stock fits the bill for me.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Berkshire Hathaway Rebalances Under Greg Abel With Bigger AI And Tech Bet](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rebalances-under-greg-161316454.html)**
+
+Greg Abel, now CEO of Berkshire Hathaway (NYSE:BRK.B), has overseen a major reshaping of the stock portfolio, including full exits from Amazon, Visa, Mastercard, and UnitedHealth. Berkshire has built a top 5 position in Alphabet and has sharply increased AI related holdings, which now account for more than a third of the portfolio’s value. These moves reflect the biggest shift in Berkshire’s capital allocation approach in decades, with a clearer tilt toward technology and AI focused...
+
+Yahoo Finance • 49m ago
 
 ---
 
@@ -185,7 +181,15 @@ The Washington Post • 1h ago
 
 **[Metro Detroit students gain access to new $5M AI, robotics learning hub](https://www.mlive.com/news/detroit/2026/05/metro-detroit-students-gain-access-to-new-5m-ai-robotics-learning-hub.html)**
 
-MLive.com • 3h ago
+MLive.com • 5h ago
+
+---
+
+**[Voices: AI is making my classmates and me lazy. Here’s how we fix it.](https://www.sltrib.com/opinion/commentary/2026/05/24/voices-ai-is-making-my-classmates/)**
+
+“The only way to fight AI in schools is for the students to take accountability,” writes high school student Andrew Madsen in an op-ed. “I want students to give up using AI on assignments.”
+
+The Salt Lake Tribune • 4h ago
 
 ---
 
@@ -197,7 +201,7 @@ MLive.com • 3h ago
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 643 • 💬 542 • 2d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 643 • 💬 543 • 2d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -213,7 +217,7 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 269 • 💬 104 • 23h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 269 • 💬 106 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
@@ -281,7 +285,7 @@ Leaked audio from a Meta all-hands meeting reveals Mark Zuckerberg telling emplo
 
 📺 The Jimmy Dore Show
 
-👁️ 113K • 👍 9K • 💬 2K • ⏱️ 15:52 • 20h ago
+👁️ 113K • 👍 9K • 💬 2K • ⏱️ 15:52 • 21h ago
 
 ---
 
@@ -291,7 +295,7 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 148 • 💬 26 • ⏱️ 18:21 • 14h ago
+👁️ 5K • 👍 148 • 💬 26 • ⏱️ 18:21 • 15h ago
 
 ---
 
@@ -311,7 +315,7 @@ Create Your Own Music Videos with Perfect Lip Sync on Higgsfield https://higgsfi
 
 📺 Isa does AI
 
-👁️ 6K • 💬 1 • ⏱️ 8:51 • 3h ago
+👁️ 6K • 💬 1 • ⏱️ 8:51 • 5h ago
 
 ---
 
@@ -331,7 +335,7 @@ Try Higgsfield here and create cinematic AI videos with top models in one place 
 
 📺 Malva AI
 
-👁️ 3K • 👍 237 • 💬 41 • ⏱️ 8:13 • 4h ago
+👁️ 3K • 👍 237 • 💬 41 • ⏱️ 8:13 • 6h ago
 
 ---
 
@@ -341,7 +345,7 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 662K • 👍 20K • 💬 1K • ⏱️ 5:44 • 1d ago
+👁️ 662K • 👍 20K • 💬 1K • ⏱️ 5:44 • 2d ago
 
 ---
 
@@ -351,7 +355,7 @@ Google just launched a brand-new AI video tool — and it could completely chang
 
 📺 Raj Photo Editing and Much More
 
-👁️ 28K • 👍 2K • 💬 129 • ⏱️ 7:38 • 10h ago
+👁️ 28K • 👍 2K • 💬 129 • ⏱️ 7:38 • 11h ago
 
 ---
 
@@ -656,7 +660,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 1.1k • 6d ago
+⭐ 3.5k • 🔱 1.1k • 7d ago
 
 ---
 
@@ -666,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 178 • 4h ago
+⭐ 2.6k • 🔱 178 • 5h ago
 
 ---
 
