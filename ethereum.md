@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-24T07:36:50.374178+00:00'
+updated: '2026-05-24T09:55:28.115641+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 24, 2026 at 07:36 UTC  
+**Last Updated:** May 24, 2026 at 09:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.7%  
-**7d:** -0.3%  
+**24h:** +4.5%  
+**7d:** -0.4%  
 **30d:** -8.5%  
-**90d:** +14.7%  
+**90d:** +14.6%  
 **1y:** -16.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.81B
+**Market Cap:** $255.82B
 Rank #2
 
 **Circulating Supply:** 120,685,540 ETH
@@ -62,7 +62,7 @@ No max supply
 -57.1%
 
 **All-Time Low:** $0.43
-+489489.6%
++489697.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -152,6 +152,14 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 ## Google News: "ethereum"
 
+**[A $1 Billion Fix for Ethereum? Dev Proposes a Radical New Organization to Save ETH](https://news.bitcoin.com/a-1-billion-fix-for-ethereum-dev-proposes-a-radical-new-organization-to-save-eth/)**
+
+Learn about the ongoing debate surrounding Ethereum as industry leaders discuss strategies to bolster its market position.
+
+Bitcoin News • 5h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, May 22, 2026: Prices moved little this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-22-2026-prices-moved-little-this-week-120513396.html)**
 
 Bitcoin opened at $77,546.53 on Friday, May 22, 2026, up 0.1% from Thursday’s opening price. Ethereum opened at $2,131.71 on Friday, up 0.2% from Thursday’s opening price.
@@ -174,7 +182,7 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
+**[Ethereum (ETH) news: The blockchain’s identity crisis is deepening after high-profile 'brain drain' frustrates community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
 
 What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
 
@@ -186,13 +194,13 @@ CoinDesk • 2d ago
 
 Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
 
-TradingView • 10h ago
+TradingView • 12h ago
 
 ---
 
 **[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
 
-AMBCrypto • 4h ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -200,29 +208,19 @@ AMBCrypto • 4h ago
 
 Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
 
-Crypto Briefing • 17h ago
-
----
-
-**[Grayscale Names 4 Altcoins Likely To Benefit From the CLARITY Act](https://beincrypto.com/grayscale-clarity-act-altcoin-winners/)**
-
-Grayscale names Ethereum, Solana, BNB Chain, and Canton as the chains best placed to gain from CLARITY Act passage.
-
-BeInCrypto • 1d ago
-
----
-
-**[Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'](https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization)**
-
-Former Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.
-
-Decrypt • 2d ago
+Crypto Briefing • 19h ago
 
 ---
 
 **[Top Crypto to Buy Now: APEMARS Soars past ETH and Polygon](https://financefeeds.com/polygon-and-ethereum-price-predictions-intensify-as-apemars-presale-pushes-past-30-5b-tokens-top-crypto-to-buy-now/)**
 
-FinanceFeeds • 11h ago
+FinanceFeeds • 13h ago
+
+---
+
+**[Ethereum ETF Investors Hit the Brakes as Outflows Clip Grayscale Mini Trust](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-investors-hit-the-brakes-as-outflows-clip-grayscale-mini-trust)**
+
+TipRanks • 23h ago
 
 ---
 
@@ -236,7 +234,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 1K • 💬 109 • ⏱️ 24:12 • 17h ago
+👁️ 23K • 👍 1K • 💬 111 • ⏱️ 24:12 • 19h ago
 
 ---
 
@@ -246,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 130 • 💬 17 • ⏱️ 25:04 • 15h ago
+👁️ 3K • 👍 141 • 💬 22 • ⏱️ 25:04 • 17h ago
 
 ---
 
@@ -256,7 +254,7 @@ THE DEMISE OF ETHEREUM WILL DESTROY CRYPTO AND CLARITY? Support The O Show with 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 433 • 💬 10 • ⏱️ 10:01 • 14h ago
+👁️ 7K • 👍 436 • 💬 10 • ⏱️ 10:01 • 16h ago
 
 ---
 
@@ -266,7 +264,7 @@ BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 232 • 💬 45 • ⏱️ 19:00 • 3h ago
+👁️ 6K • 👍 293 • 💬 129 • ⏱️ 19:00 • 5h ago
 
 ---
 
@@ -276,17 +274,17 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 17K • 👍 526 • 💬 217 • ⏱️ 1:11:25 • 1d ago
+👁️ 17K • 👍 535 • 💬 218 • ⏱️ 1:11:25 • 1d ago
 
 ---
 
-**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
+**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
 
-I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
+WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
 
-📺 Crypto Capital Venture
+📺 Big Time Trades
 
-👁️ 10K • 👍 579 • 💬 206 • ⏱️ 15:44 • 2d ago
+👁️ 2K • 👍 79 • 💬 32 • ⏱️ 22:13 • 1d ago
 
 ---
 
@@ -300,6 +298,26 @@ Welcome back for another daily market update as always this will be a jam packed
 
 ---
 
+**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
+
+Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
+
+📺 Unchained
+
+👁️ 269 • 👍 12 • 💬 20 • ⏱️ 18:18 • 9h ago
+
+---
+
+**[ETHEREUM Silently Loaded $4,200 (BITCOIN Bear Trap...ACTIVATED?)](https://www.youtube.com/watch?v=lVXC9idzpOY)**
+
+I explore the bull case repeat from post-QT 2019 for Ethereum and discuss why the 200 day moving average on Bitcoin may not ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 579 • 💬 206 • ⏱️ 15:44 • 2d ago
+
+---
+
 **[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
 
 XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
@@ -307,26 +325,6 @@ XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets E
 📺 CryptoWendyO
 
 👁️ 7K • 👍 370 • 💬 27 • ⏱️ 26:45 • 1d ago
-
----
-
-**[🚨 WHEN WILL ETH &amp; BMNR EXPLODE? 🚨](https://www.youtube.com/watch?v=zhgA_dVOj7k)**
-
-WHEN WILL ETH & BMNR EXPLODE? Earn with MaxFi - https://www.maxfi.tech/ Big Time Trades on X ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 79 • 💬 33 • ⏱️ 22:13 • 1d ago
-
----
-
-**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
-
-Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
-
-📺 Unchained
-
-👁️ 203 • 👍 8 • 💬 2 • ⏱️ 18:18 • 6h ago
 
 ---
 

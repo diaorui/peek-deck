@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-24T07:36:50.361473+00:00'
+updated: '2026-05-24T09:55:28.101032+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 24, 2026 at 07:36 UTC  
+**Last Updated:** May 24, 2026 at 09:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
 
-4h ago
+7h ago
 
 ---
 
 **[Amnesty : US software company Palantir and other contractors were granted unlimited access to identifiable NHS England patient information](https://www.reddit.com/r/artificial/comments/1tlig93/amnesty_us_software_company_palantir_and_other/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -55,7 +55,7 @@ I benchmarked vision-capable LLMs (the "just attach the PDF and let the model re
 
 New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 12h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) • 14h ago
 
 ---
 
@@ -63,7 +63,7 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 The tech giant made thousands of engineers train their AI replacements—then fired them.
 
-🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 21h ago
+🔗 [Mother Jones](https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/) • 23h ago
 
 ---
 
@@ -71,7 +71,7 @@ The tech giant made thousands of engineers train their AI replacements—then fi
 
 What i have felt from my posts cus its all about AI so :- now it feels like almost everyone just rents some GPUs, opens a bunch of AI tools, and tries to train an AI using another AI People even use AI to search for datasets for them without actually checking what’s inside the data. Then they throw random datasets straight into training and wonder why the results are terrible while burning money on compute. A lot of people just want quick answers from a model trained on random internet garbage instead of understanding the data first. The funniest part is when the AI helping them find datasets can’t even properly read or understand the full dataset itself because of token limits, access limits, or incomplete context, but people still trust it blindly and keep feeding everything into training. So instead of building something useful they just end up generating random nonsense because nobody actually looked at the quality of the data going in.
 
-12h ago
+14h ago
 
 ---
 
@@ -79,7 +79,7 @@ What i have felt from my posts cus its all about AI so :- now it feels like almo
 
 I am a PhD student (not in AI) and am usually alright when it comes to studying a topic I don't know much about. But it seems that because AI is so highly discussed nowadays, it's impossible to get a good gauge of what the rational scholarly consensus is regarding its and our future. I am constantly bombarded with people saying that at best most jobs are replaced and the future is a dystopia, and at worst AGI/ASI is achieved and we all are killed by a bioweapon or something. It honestly has me terrified, especially when I see a lot of figures in the AI sphere, including academics, seem to think that there are reasonably high "p(doom)"'s (what a horrifying concept that is). How am I supposed to parse all of this? Are there any actually level-headed people? Or are the people shouting about doom actually the level-headed ones? Compared to climate change, at least there are the IPCC reports which have laid out best guesses on what will happen. They're not perfect, but at least they exist.
 
-9h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ I am a PhD student (not in AI) and am usually alright when it comes to studying 
 
 Started my career as a C# developer, then moved into application design and architecture, followed by Azure, and now I’m mainly working in AWS and DevOps. I want to transition into becoming a Senior Applied AI Engineer. The kind of role I’m interested in is designing and architecting AI-enabled applications, working with LLMs, agentic workflows, AI integrations, orchestration, automation, and possibly MLOps. What I’m not really interested in is going deep into the maths, data titlescience, or traditional ML research side of things. Most roadmaps I’ve seen seem heavily focused on statistics, model training, and data science, which doesn’t feel aligned with the kind of AI engineering work I want to do. I’m more interested in: AI application architecture LLM integrations Agentic systems and workflows AI platforms and infrastructure RAG systems MLOps and deployment Cloud-native AI systems AI security, governance, and observability Given my background in software engineering, cloud, and DevOps, is there a roadmap specifically for Applied AI Engineering? Would love advice from people already working in this space, especially on: What skills actually matter What to ignore Good projects to build Certifications or courses worth doing Whether deep ML knowledge is really necessary for senior roles
 
-1h ago
+3h ago
 
 ---
 
@@ -95,7 +95,15 @@ Started my career as a C# developer, then moved into application design and arch
 
 OpenAI and Sam Altman aim to automate AI research. They are now hiring for a role to prepare the company for self-training AI.
 
-🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5) • 20h ago
+
+---
+
+**[What Will be the next industries to be completely disrupted by AI?](https://www.reddit.com/r/artificial/comments/1tm6mpt/what_will_be_the_next_industries_to_be_completely/)**
+
+Curious if there are any industries that are not typically considered in the context of AI, which are likely to get disrupted by AI soon, or at least heavily enhanced? Any ideas?
+
+1h ago
 
 ---
 
@@ -103,15 +111,7 @@ OpenAI and Sam Altman aim to automate AI research. They are now hiring for a rol
 
 we spend a lot of time in this community talking about capabilities. context windows, reasoning benchmarks, multi-step tool use, how well a model can write code or pass a bar exam. i'm not dismissing any of that. capabilities matter. but when i look at AI products failing in production, the capability of the model is almost never the issue. ive been building and consulting on AI agents for about 18 months. the failure modes i see constantly are: users do not go where the agent lives. the agent has a beautiful web interface. the user visits it twice and stops. not because the agent was unhelpful. because opening a browser tab is a cognitive action that requires intention, and most of daily life does not create the right moment for that intention. humans do not change their behavior to accommodate useful tools. useful tools have to show up in the behavior humans already have. the agent is reactive when it needs to be proactive. the smartest human assistant you have ever had did not just answer questions. they showed up. they flagged things before you asked. they sent you the thing you did not know you needed. most AI agents are search bars with a personality. they wait. waiting is not intelligence in practice. intelligence in practice is noticing and acting. the agent has no memory of who you are. you tell it your preferences, your context, your situation, and then come back 3 days later and it knows nothing. this is not a model limitation. the model can remember if you feed it the right context. this is an architecture choice that most teams make wrong because they are thinking about sessions instead of relationships. the agents that are succeeding in production are not necessarily the ones with the best models. they are the ones that live in whatsapp and imessage and telegram where users already are. that proactively reach out when something relevant happens. that maintain coherent memory of the person across weeks and months of conversation. the tooling to build this way exists now. agno and langchain for orchestration, photon codes for the cross channel messaging surface, langfuse for traces and memory debugging, good persistence in postgres or supabase. the architecture is not magic. what is still rare is the mindset of treating the channel and the memory as primary constraints rather than afterthoughts. i think the gap between what AI agents can theoretically do and what they actually do for people in their daily lives is almost entirely a distribution and persistence problem, not a capability problem. we are solving for the wrong thing.
 
-1h ago
-
----
-
-**[Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix.](https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/)**
-
-The attack doesn’t come from your users. It comes from your agent’s environment, the emails it reads, the webpages it visits, the documents it retrieves, the database rows it queries. Every piece of external content your agent processes is a potential instruction source. And your agent has no way to tell the difference between data it was sent to process and commands it should follow. This is not theoretical. It is happening in production systems right now. Once you give an agent tools, email access, browser access, API calls, memory writes, the stakes change completely. A poisoned document doesn’t just return bad text. It tells your agent what to do next. And your agent does it. We tested this. Arc Gate blocked 100% of agentic tool poisoning attacks across 54 scenarios from ETH Zurich’s AgentDojo benchmark. 99% on 200 blind test cases from University of Illinois InjecAgent. 0% false positives on legitimate workflows. Arc Sentry caught a USENIX 2025 multi-turn jailbreak at Turn 3. LLM Guard caught 0 out of 8 turns on the same attack. The difference is architecture. Text classifiers read what the prompt says. Arc Gate enforces where instructions are allowed to come from. Arc Sentry reads what the model’s internal state does, before generate() is even called. If your agent touches the real world, you need a runtime governance layer. Finance agent demo — no signup: https://web-production-6e47f.up.railway.app/finance-demo Arc Gate — hosted proxy, one URL change: https://github.com/9hannahnine-jpg/arc-gate — $29/month Arc Sentry — self-hosted models: https://github.com/9hannahnine-jpg/arc-sentry — pip install arc-sentry
-
-2h ago
+3h ago
 
 ---
 
@@ -123,61 +123,35 @@ The attack doesn’t come from your users. It comes from your agent’s environm
 
 PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
 **[Venture Capitalist John Doerr Says AI Is the Biggest Tech ‘Tsunami’ Ever](https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60)**
 
-WSJ • 16h ago
+WSJ • 18h ago
 
 ---
 
-**[Nvidia Quietly Builds Major AI Portfolio Shaping Investor Risk And Optionality](https://finance.yahoo.com/markets/stocks/articles/nvidia-quietly-builds-major-ai-071112516.html)**
+**[The Middle East war is testing the Gulf's ambitions to become an AI hub](https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html)**
 
-Nvidia (NasdaqGS:NVDA) has built one of Silicon Valley's largest private AI investment portfolios under CEO Jensen Huang. The company nearly doubled its private company holdings over the past year, according to its latest quarterly disclosure. Nvidia deployed record capital into emerging AI and technology ventures, including nearly US$18b into private ventures in a single quarter. As of 26 April, Nvidia reported more than US$42b in private company holdings linked to the broader AI...
+Attacks on data centers in the Middle East and persistently high energy prices have altered the calculus for operators of the facilities, analysts say.
 
-Yahoo Finance • 25m ago
-
----
-
-**[Overcoming Situational Depression Via Generative AI Including Tapping Into ChatGPT](https://www.forbes.com/sites/lanceeliot/2026/05/24/overcoming-situational-depression-via-generative-ai-including-tapping-into-chatgpt/)**
-
-Situational depression arises when an event or circumstance triggers you into a bout of depression. AI can help to overcome this. An AI Insider scoop.
-
-Forbes • 21m ago
+CNBC • 43m ago
 
 ---
 
-**[I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu](https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology)**
+**[To A.I. Executives, We’re All Just ‘Meat Computers’](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html)**
 
-As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move, says author Wendy Liu
-
-The Guardian • 35m ago
+The New York Times • 53m ago
 
 ---
 
-**[Here's why people are booing college commencement speakers this year](https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/)**
+**[AI hallucinations are slipping past experts into papers and books to enter the permanent record](https://fortune.com/2026/05/24/ai-hallucinations-scientific-research-authors-medical-journal-treatment/)**
 
-Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
+A Columbia researcher who studies AI nearly published a study with a hallucinated reference himself. He's not alone.
 
-USA Today • 13h ago
-
----
-
-**[‘F*** this guy’: Graduation speakers keep getting booed for talking about artificial intelligence](https://www.yahoo.com/news/politics/articles/f-guy-graduation-speakers-keep-125456074.html)**
-
-Commencement speakers want new graduates to feel optimistic about artificial intelligence — instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and loo...
-
-Yahoo • 18h ago
-
----
-
-**[Why College Students Are Booing AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)**
-
-The sound of a cosmic howl
-
-The Atlantic • 20h ago
+Fortune • 55m ago
 
 ---
 
@@ -185,15 +159,37 @@ The Atlantic • 20h ago
 
 Google is giving the search bar its biggest update in 25 years, another sign that AI is changing the way people use the internet and find information.
 
-CNN • 22h ago
+CNN • 1d ago
 
 ---
 
-**[There’s Never Been a Better Time to Study Computer Science](https://www.theatlantic.com/technology/2026/05/computer-science-major-coding-ai/687279/)**
+**[Here's why people are booing college commencement speakers this year](https://www.usatoday.com/story/news/nation/2026/05/23/college-graduation-speakers-booed-ai/90232153007/)**
 
-Even as AI progresses, coders aren’t doomed.
+Multiple college graduations were marked by booing at featured speakers, who came to realize they had "struck a chord." What set the crowd off?
 
-The Atlantic • 20h ago
+USA Today • 15h ago
+
+---
+
+**[China's DeepSeek to make permanent 75% price cut on flagship V4‑Pro AI model](https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/)**
+
+Reuters • 19h ago
+
+---
+
+**[Why College Students Are Booing AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)**
+
+The sound of a cosmic howl
+
+The Atlantic • 22h ago
+
+---
+
+**[‘It’s called winning’: Why a tech industry super PAC is running ads about ICE](https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/)**
+
+Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.
+
+The Washington Post • 17h ago
 
 ---
 
@@ -209,19 +205,11 @@ AI takes in all the input, whether the original authors have consented or not, a
 
 ---
 
-**[Throwing AI-generated walls of text into conversations](https://news.ycombinator.com/item?id=48219992)**
-
-Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.
-
-⬆️ 699 • 💬 417 • 2d ago • [noslopgrenade.com](https://noslopgrenade.com/)
-
----
-
 **[Steve Wozniak cheered after telling students they have AI – actual intelligence](https://news.ycombinator.com/item?id=48233563)**
 
 Apple cofounder Steve Wozniak's speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.
 
-⬆️ 643 • 💬 540 • 1d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+⬆️ 643 • 💬 540 • 2d ago • [Business Insider](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 
 ---
 
@@ -237,7 +225,7 @@ LinkedIn may be awash with boosters, but shunning AI is the human choice.
 
 Friendly articles and tutorials for front-end web developers. ❤️
 
-⬆️ 332 • 💬 309 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 335 • 💬 309 • 1d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 
 ---
 
@@ -245,7 +233,7 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 252 • 💬 99 • 15h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 256 • 💬 102 • 17h ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
@@ -253,7 +241,7 @@ Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 b
 
 The South Korean chipmaker struck a last-minute deal with its union to avert an 18-day strike, unlocking a $26.6 billion payout pool
 
-⬆️ 251 • 💬 195 • 2d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
+⬆️ 251 • 💬 196 • 2d ago • [Quartz](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
 
 ---
 
@@ -267,7 +255,7 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 223 • 💬 65 • 1d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 225 • 💬 65 • 1d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
@@ -279,17 +267,25 @@ Organisations using AI to cut headcount are making a short-term trade with long-
 
 ---
 
+**[Don't just paste the AI at me](https://news.ycombinator.com/item?id=48242648)**
+
+If someone asks you a question, paste your answer — not the chatbot's.
+
+⬆️ 179 • 💬 113 • 1d ago • [dontquotetheai.com](https://dontquotetheai.com/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[Trump’s hilarious AI video trashing ‘unfunny hack’ Stephen Colbert sends the left into a meltdown](https://www.youtube.com/watch?v=GDwooMEwWgk)**
+**[AI Just Crossed The Line We Were Afraid Of: Continual Harness](https://www.youtube.com/watch?v=qCFyprzrCvA)**
 
-Sky News host James Morrow discusses late night TV host Stephen Colbert's final show. “Of course, we had Stephen Colbert, the ...
+Princeton researchers just revealed Continual Harness, a self-improving AI system that learns while it is already running.
 
-📺 Sky News Australia
+📺 AI Revolution
 
-👁️ 5K • 👍 564 • 💬 155 • ⏱️ 3:20 • 2h ago
+👁️ 32K • 👍 2K • 💬 172 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -299,37 +295,7 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 80K • 👍 1K • 💬 260 • ⏱️ 5:06 • 1d ago
-
----
-
-**[AI Just Crossed The Line We Were Afraid Of: Continual Harness](https://www.youtube.com/watch?v=qCFyprzrCvA)**
-
-Princeton researchers just revealed Continual Harness, a self-improving AI system that learns while it is already running.
-
-📺 AI Revolution
-
-👁️ 32K • 👍 2K • 💬 170 • ⏱️ 13:31 • 1d ago
-
----
-
-**[Zuckerberg Caught On SECRET RECORDING:Forcing Employees To Train Their AI Replacements! ](https://www.youtube.com/watch?v=uNrjuGENu44)**
-
-Leaked audio from a Meta all-hands meeting reveals Mark Zuckerberg telling employees that the company is training AI models ...
-
-📺 The Jimmy Dore Show
-
-👁️ 84K • 👍 7K • 💬 2K • ⏱️ 15:52 • 12h ago
-
----
-
-**[Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)**
-
-Try using Emergent's specialized agents in parallel to build any full-stack application ...
-
-📺 Fireship
-
-👁️ 608K • 👍 19K • 💬 1K • ⏱️ 5:44 • 1d ago
+👁️ 84K • 👍 1K • 💬 273 • ⏱️ 5:06 • 1d ago
 
 ---
 
@@ -339,7 +305,27 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 92 • 💬 19 • ⏱️ 18:21 • 6h ago
+👁️ 3K • 👍 112 • 💬 24 • ⏱️ 18:21 • 8h ago
+
+---
+
+**[Zuckerberg Caught On SECRET RECORDING:Forcing Employees To Train Their AI Replacements! ](https://www.youtube.com/watch?v=uNrjuGENu44)**
+
+Leaked audio from a Meta all-hands meeting reveals Mark Zuckerberg telling employees that the company is training AI models ...
+
+📺 The Jimmy Dore Show
+
+👁️ 93K • 👍 8K • 💬 2K • ⏱️ 15:52 • 14h ago
+
+---
+
+**[Google’s AI endgame is here… everything you missed at I/O 2026](https://www.youtube.com/watch?v=9OQ5vaYbGV0)**
+
+Try using Emergent's specialized agents in parallel to build any full-stack application ...
+
+📺 Fireship
+
+👁️ 623K • 👍 19K • 💬 1K • ⏱️ 5:44 • 1d ago
 
 ---
 
@@ -349,37 +335,47 @@ A new AI model, Claude Mythos, can uncover hidden vulnerabilities and chain expl
 
 📺 DW News
 
-👁️ 16K • 👍 287 • 💬 51 • ⏱️ 3:45 • 1d ago
+👁️ 16K • 👍 295 • 💬 53 • ⏱️ 3:45 • 1d ago
 
 ---
 
-**[Joe Rogan accidentally exposed AI in four words](https://www.youtube.com/watch?v=waFl4uBfXRA)**
+**[Don&#39;t Buy AI Bath Bombs](https://www.youtube.com/watch?v=uocwJAi2y_U)**
 
-Token mania. I've been a user of Proton for almost a decade and I'm grateful to them for agreeing to sponsor this video. Proton ...
+Get your $10 sign-up bonus at http://privacy.com/pleasantgreen. You can use it on your first purchase! Privacy has a free plan with ...
 
-📺 Mo Bitar
+📺 Pleasant Green
 
-👁️ 188K • 👍 11K • 💬 2K • ⏱️ 11:39 • 1d ago
-
----
-
-**[The Odds: Are Americans concerned about AI replacing jobs?](https://www.youtube.com/watch?v=C4RPb3L5Ifo)**
-
-CNN's Sara Sidner and chief data analyst Harry Enten examine the evolving landscape facing college graduates as they enter the ...
-
-📺 CNN
-
-👁️ 86K • 👍 615 • 💬 172 • ⏱️ 4:08 • 1d ago
+👁️ 386K • 👍 18K • 💬 2K • ⏱️ 10:02 • 21h ago
 
 ---
 
-**[Microsoft Can’t Afford AI. Starbucks Can’t Trust It! #ai #anthropic #openai #claude #aibubble](https://www.youtube.com/watch?v=zzNyQxHWPnM)**
+**[AI News: These Google Updates Are Dividing People](https://www.youtube.com/watch?v=kyOPFFy3I38)**
 
-The Microsoft Anthropic situation is even weirder, microsoft hosts claude on azure, uses claude inside 365 copilot, has a $30 ...
+Here's the AI News you might have missed this week. If your team lives in Slack, check out @getviktor_com for free at ...
 
-📺 Mayankshah
+📺 Matt Wolfe
 
-👁️ 73K • 👍 3K • 💬 63 • ⏱️ 1:42 • 17h ago
+👁️ 66K • 👍 2K • 💬 261 • ⏱️ 44:46 • 1d ago
+
+---
+
+**[Industry Wide AI Psychosis](https://www.youtube.com/watch?v=zdXsGF1hiZk)**
+
+Sources: https://x.com/mitchellh/status/2055380239711457578 https://x.com/zeeg/status/2055392469177782602 ...
+
+📺 ThePrimeagenHighlights
+
+👁️ 91K • 👍 2K • 💬 300 • ⏱️ 12:55 • 1d ago
+
+---
+
+**[Qwen 3.7 Max: NEW Powerful AI Model! Beats Opus 4.6, Gemini 3.1, Deepseek v4! (Fully Tested)](https://www.youtube.com/watch?v=UXar6lNCNcc)**
+
+Qwen 3.7 Max is HERE — and Alibaba may have just dropped one of the strongest AI agent models we've seen yet. My Links: ...
+
+📺 WorldofAI
+
+👁️ 39K • 👍 857 • 💬 68 • ⏱️ 14:03 • 2d ago
 
 ---
 
@@ -395,7 +391,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,227 • ❤️ 719 • 1d ago
+⬇️ 1,474 • ❤️ 725 • 1d ago
 
 ---
 
@@ -407,7 +403,7 @@ Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 
 
 `translation` `2.0B`
 
-⬇️ 2,564 • ❤️ 479 • 2d ago
+⬇️ 4,534 • ❤️ 493 • 2d ago
 
 ---
 
@@ -419,7 +415,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 40,368 • ❤️ 625 • 5d ago
+⬇️ 43,119 • ❤️ 627 • 6d ago
 
 ---
 
@@ -431,7 +427,7 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 `translation` `30.1B`
 
-⬇️ 970 • ❤️ 296 • 2d ago
+⬇️ 1,243 • ❤️ 297 • 2d ago
 
 ---
 
@@ -443,7 +439,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 5,283 • ❤️ 279 • 3d ago
+⬇️ 6,032 • ❤️ 283 • 4d ago
 
 ---
 
@@ -455,7 +451,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 78,771 • ❤️ 262 • 3d ago
+⬇️ 84,346 • ❤️ 265 • 3d ago
 
 ---
 
@@ -479,7 +475,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,286,075 • ❤️ 1,310 • 2d ago
+⬇️ 1,331,058 • ❤️ 1,312 • 2d ago
 
 ---
 
@@ -491,7 +487,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 597,584 • ❤️ 443 • 3d ago
+⬇️ 660,321 • ❤️ 445 • 4d ago
 
 ---
 
@@ -503,7 +499,7 @@ Command A+ is a 25B parameter, multilingual, vision-capable LLM optimized for ag
 
 `image-text-to-text` `125.8B`
 
-⬇️ 4,261 • ❤️ 187 • 1d ago
+⬇️ 5,627 • ❤️ 188 • 1d ago
 
 ---
 
@@ -612,21 +608,9 @@ Mega-ASR framework improves robustness in real-world speech recognition through 
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 8 • 💬 0 • ⭐ 18,549 • 5mo ago
+▲ 8 • 💬 0 • ⭐ 18,582 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 4 • 💬 1 • ⭐ 5,596 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -644,6 +628,18 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 ---
 
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 4 • 💬 1 • ⭐ 5,609 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -654,7 +650,7 @@ ARIS is an open-source research harness that uses cross-model adversarial collab
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 4.7k • 🔱 487 • 2d ago
+⭐ 4.7k • 🔱 488 • 2d ago
 
 ---
 
@@ -674,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 9m ago
+⭐ 2.6k • 🔱 179 • 10m ago
 
 ---
 
@@ -684,7 +680,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 386 • 2d ago
+⭐ 2.3k • 🔱 387 • 2d ago
 
 ---
 
@@ -694,7 +690,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.2k • 🔱 344 • 6d ago
+⭐ 2.2k • 🔱 346 • 6d ago
 
 ---
 
@@ -702,7 +698,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 2.0k • 🔱 445 • 3d ago
+⭐ 2.0k • 🔱 453 • 3d ago
 
 ---
 
@@ -722,7 +718,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 1.8k • 🔱 117 • 3d ago
+⭐ 1.8k • 🔱 118 • 3d ago
 
 ---
 
