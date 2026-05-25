@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-25T21:08:42.208441+00:00'
+updated: '2026-05-25T22:34:07.340744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 21:08 UTC  
+**Last Updated:** May 25, 2026 at 22:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,347.07
+### $77,301.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +0.7%  
-**30d:** -1.6%  
-**90d:** +13.9%  
-**1y:** -29.3%  
+**24h:** +0.0%  
+**7d:** +0.4%  
+**30d:** -1.9%  
+**90d:** +13.5%  
+**1y:** -29.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.97B
+**Market Cap:** $1545.72B
 Rank #1
 
-**Circulating Supply:** 20,034,318 BTC
+**Circulating Supply:** 20,034,428 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.7%
+-38.8%
 
 **All-Time Low:** $67.81
-+113914.2%
++113614.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I just realized something that will probably seem obvious to a lot of people here. When I first got into crypto, I thought my wallet was tied to a specific app. Then I realized that with a non-custodial wallet, my seed phrase doesn’t belong to the app itself. If one wallet app disappears tomorrow, or if I find a better one, I can simply import my seed phrase into another compatible wallet and still access my funds. In hindsight, it’s completely logical because crypto is decentralized, but it took me a while to fully understand it. Did you know this from the beginning, or was it a realization you had later on too?
 
-2h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ I just realized something that will probably seem obvious to a lot of people her
 
 Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillion within a decade.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 13h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 15h ago
 
 ---
 
 **[Throughout history money was never created by man, only nature.](https://www.reddit.com/r/Bitcoin/comments/1tnfpd5/throughout_history_money_was_never_created_by_man/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -103,15 +103,7 @@ Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillio
 
 The goal was never just "get rich" The real flex is freedom. Funny how fast the future changes.
 
-14h ago
-
----
-
-**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
-
-You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
-
-12h ago
+15h ago
 
 ---
 
@@ -119,7 +111,15 @@ You can see the new panel right next to the Bitcoin price here: https://newhedge
 
 Under such a framework, Washington would offer Tehran a pathway back into the traditional global financial system only in exchange for dismantling its sovereign #Bitcoin $BTC architecture and surrendering its state-linked digital reserves. The result would amount to a twenty-first century financial disarmament treaty: a doctrine of monetary nonproliferation.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 6h ago
+
+---
+
+**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
+
+You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
+
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Under such a framework, Washington would offer Tehran a pathway back into the tr
 
 I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is this the best way to hold it? I will be buying the bitcoin only version. Is it worth it to upgrade to the higher end Trezor? What do yall use? Thanks in advance. EDIT: Very new and have never bought crypto. ELI5 please, just started doing some research yesterday.
 
-8h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is th
 
 Nicehash has lower costs on easy mining but what do you use? And who is better? And on braiins can you mining other sha256 coins or just btc?
 
-2h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ Nicehash has lower costs on easy mining but what do you use? And who is better? 
 
 What’s a Bitcoin take that got you laughed at before… but aged perfectly?
 
-16h ago
+17h ago
 
 ---
 
@@ -151,7 +151,7 @@ What’s a Bitcoin take that got you laughed at before… but aged perfectly?
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-13h ago
+15h ago
 
 ---
 
@@ -163,23 +163,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium. Pakistan and Qatar are mediating.
 
-CoinDesk • 4h ago
-
----
-
-**['Institutional bid hasn't disappeared': Analysts say bitcoin cooldown, spot ETF outflows signal rotation, not exit](https://www.theblock.co/post/402473/institutional-bid-hasnt-disappeared-analysts-say-bitcoin-cooldown-spot-etf-outflows-signal-rotation-not-exit)**
-
-Bitcoin held below $78,000 as spot ETFs shed over $1 billion for a second straight week and U.S.-Iran deal speculation rattled markets.
-
-The Block • 8h ago
-
----
-
-**[Should You Buy Bitcoin While It's Under $100,000?](https://finance.yahoo.com/markets/crypto/articles/buy-bitcoin-while-under-100-141200838.html)**
-
-Bitcoin's rate of growth might be slowing, but it's still an attractive long-term investment.
-
-Yahoo Finance • 6h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -187,7 +171,7 @@ Yahoo Finance • 6h ago
 
 A bitcoin OG transferred about 2,650 BTC to the crypto trading firms through multiple transactions on Sunday, according to Onchain Lens.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -195,23 +179,15 @@ The Block • 12h ago
 
 In a recent episode of Bankless’ podcast, guest Michael McGuiness talked about why he decided to sell his Bitcoin in favor of Ethereum. The security budget argument, as it is known, has become one of the most cited reasons for skeptics to doubt Bitcoin's long-term staying power. Pierre Rochard, a ...
 
-Yahoo Finance Singapore • 38m ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
-**[Michael Saylor Says Bitcoin Would Be Trading At $40,000 To $50,000 Without MSTR](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-bitcoin-trading-193111848.html)**
+**[Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin](https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-news-why-blackrock-211800402.html)**
 
-Strategy Inc. Executive Chairman Michael Saylor estimates Bitcoin would be trading between $40,000 and $50,000, without his company’s $62 billion buying campaign over the past five years. Strategy Spent $62 Billion Supporting The Bitcoin Network Saylor acknowledged that Bitcoin would...
+One number set crypto X/Twitter on edge over the weekend. On-chain tracker Arkham posted that BlackRock had sold Bitcoin every single day last week—$1.01 billion worth in total—and ended with the line everyone latched onto: “If BlackRock is selling, who’s buying?” The easy read is that the world’s largest asset manager is losing faith in ... Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin
 
 Yahoo Finance • 1h ago
-
----
-
-**[Satoshi-era Bitcoin whale moves $203 million](https://sg.finance.yahoo.com/news/satoshi-era-bitcoin-whale-moves-200336682.html)**
-
-A long-dormant Bitcoin (BTC) whale from the Satoshi era transferred 2,650 Bitcoin worth about $203 million to FalconX and Cumberland over-the-counter (OTC) trading desks in one of the largest old-wallet movements recorded this year. The transfers were carried out Sunday, May 24, in three separate ...
-
-Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -219,15 +195,21 @@ Yahoo Finance Singapore • 1h ago
 
 The company said it will undertake an "orderly wind-down" and sell off its assets.
 
-WSB-TV • 3h ago
+WSB-TV • 4h ago
 
 ---
 
-**[Could XRP Ever Be as Big as Bitcoin?](https://247wallst.com/investing/2026/05/25/could-xrp-ever-be-as-big-as-bitcoin/)**
+**[Nasdaq Bitcoin Index Options Granted Approval by SEC](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
 
-Can XRP ever catch Bitcoin? Here's whether XRP could ever reach Bitcoin's level, and where its real upside actually lies.
+Bloomberg.com • 3d ago
 
-24/7 Wall St. • 9h ago
+---
+
+**[Billionaire Mark Cuban Suddenly Flips On Bitcoin As Massive Crash Fear Hits Price](https://www.forbes.com/sites/digital-assets/2026/05/24/billionaire-mark-cuban-suddenly-flips-on-bitcoin-as-massive-crash-fear-hits-price/)**
+
+Bitcoin has plummeted over the last week, falling sharply by 10% since mid-May...
+
+Forbes • 1d ago
 
 ---
 
@@ -236,6 +218,22 @@ Can XRP ever catch Bitcoin? Here's whether XRP could ever reach Bitcoin's level,
 Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
 
 Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin ETFs Near Net Outflow Territory for 2026](https://bitbo.io/news/bitcoin-etfs-near-net-outflows-2026/)**
+
+US spot Bitcoin ETFs have recorded six consecutive days of outflows totaling $1.55 billion, shrinking 2026 net inflows to just $536 million.
+
+Bitbo • 16h ago
+
+---
+
+**[The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First](https://247wallst.com/investing/2026/05/24/the-2022-bitcoin-pattern-is-back-and-the-second-drop-was-worse-than-the-first/)**
+
+Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and laid out a chart pattern that should make every Bitcoin bull pause. The episode title says it plainly: “Bitcoin To $40K? Saylor’s Big Bet Is Breaking.” The thesis hinges on a single uncomfortable observation about 2022 that most investors have ... The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -329,7 +327,7 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 141 • ⏱️ 10:17 • 21h ago
+👁️ 38K • 👍 2K • 💬 144 • ⏱️ 10:17 • 23h ago
 
 ---
 
@@ -339,17 +337,7 @@ ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Busi
 
 📺 Fox Business
 
-👁️ 4K • 👍 223 • 💬 123 • ⏱️ 7:41 • 3h ago
-
----
-
-**[Congress Wants New Fed Chair to Print Money &amp; Buy Bitcoin?!](https://www.youtube.com/watch?v=E9xvIyFld54)**
-
-Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost nobody understands how big this is. A new ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 2K • 💬 115 • ⏱️ 20:00 • 1d ago
+👁️ 14K • 👍 491 • 💬 225 • ⏱️ 7:41 • 4h ago
 
 ---
 
@@ -359,17 +347,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 739 • 💬 67 • ⏱️ 24:23 • 6h ago
-
----
-
-**[Tim Draper: Not Holding Bitcoin Is Irresponsible for Families, Companies, and Countries](https://www.youtube.com/watch?v=FnTYkXPq2Ms)**
-
-Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect your family, your company, and your country. #Bitcoin ...
-
-📺 Bitcoin Magazine
-
-👁️ 2K • 👍 70 • 💬 6 • ⏱️ 1:24 • 10h ago
+👁️ 13K • 👍 831 • 💬 60 • ⏱️ 24:23 • 7h ago
 
 ---
 
@@ -379,17 +357,17 @@ Gold is breaking down while Bitcoin keeps gaining strength. Rising bond yields, 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 114 • ⏱️ 13:37 • 1d ago
+👁️ 24K • 👍 2K • 💬 116 • ⏱️ 13:37 • 1d ago
 
 ---
 
-**[Bitcoin vs Stock Market: The Great Decoupling Explained](https://www.youtube.com/watch?v=kmfkxfpmEf8)**
+**[BITCOIN: It’s Playing Out Just Like Before! [Do This Now]](https://www.youtube.com/watch?v=iU6KoyUi1qk)**
 
-Bitcoin used to move like a high-tech stock. That correlation is officially dead. We're witnessing a massive decoupling — BTC is ...
+In today's video, Kyledoops shows you how Bitcoin is following a historical pattern that we've seen before. To stay on the right side ...
 
-📺 Blitz Trade Bot
+📺 Crypto Banter
 
-👁️ 4K • 👍 4 • 💬 1 • ⏱️ 0:50 • 12h ago
+👁️ 14K • 👍 1K • 💬 10 • ⏱️ 27:05 • 15h ago
 
 ---
 
@@ -399,25 +377,47 @@ FOX Business' Darren Botelho joins 'Mornings with Maria' to break down the growi
 
 📺 Fox Business
 
-👁️ 33K • 👍 699 • 💬 335 • ⏱️ 2:40 • 1d ago
+👁️ 35K • 👍 725 • 💬 359 • ⏱️ 2:40 • 1d ago
 
 ---
 
-**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=yOviRnmyHaQ)**
+**[Bitcoin Will Breakout By Summer If This Happens](https://www.youtube.com/watch?v=-pVlPkzQCoc)**
 
-📺 Khuncoin
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-👁️ 4K • 👍 147 • 💬 3 • ⏱️ 0:22 • 8h ago
+📺 Anthony Pompliano
+
+👁️ 58K • 👍 2K • 💬 142 • ⏱️ 53:11 • 2d ago
 
 ---
 
-**[&quot;I Bet You I Will&quot;: Saylor on Bitcoin&#39;s Next Price Levels](https://www.youtube.com/watch?v=Ty16AuCB8iM)**
+**[Tim Draper: Not Holding Bitcoin Is Irresponsible for Families, Companies, and Countries](https://www.youtube.com/watch?v=FnTYkXPq2Ms)**
 
-Michael Saylor on what he'd buy at $1M Bitcoin, and what he'd buy at $10M. The plan doesn't change. #Bitcoin #BTC #Saylor ...
+Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect your family, your company, and your country. #Bitcoin ...
 
-📺 Simple Mining
+📺 Bitcoin Magazine
 
-👁️ 910 • 👍 8 • 💬 3 • ⏱️ 0:38 • 6h ago
+👁️ 3K • 👍 85 • 💬 6 • ⏱️ 1:24 • 11h ago
+
+---
+
+**[Congress Wants New Fed Chair to Print Money &amp; Buy Bitcoin?!](https://www.youtube.com/watch?v=E9xvIyFld54)**
+
+Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost nobody understands how big this is. A new ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 2K • 💬 115 • ⏱️ 20:00 • 2d ago
+
+---
+
+**[🚨 BTC WEALTH SHIFT: Whales Vanish + Dolphins Take Over! You in the Top 5%? 🐋➡️🐬📊](https://www.youtube.com/watch?v=MyxNbLGmXaQ)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 11K • 💬 60 • ⏱️ 19:23 • 2h ago
 
 ---
 

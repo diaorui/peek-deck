@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-25T21:08:42.216406+00:00'
+updated: '2026-05-25T22:34:07.350445+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 25, 2026 at 21:08 UTC  
+**Last Updated:** May 25, 2026 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 New hardware, outdoor steps this time. I push the stick forward, the robot detects the stairs and decides when to jump on its own. First part is daytime, clears all 3 steps, off the top, landed upright. Second part is at night: first attempt doesn't make it up, second one clears it. Added the night footage to show the controller input. Just push forward, everything else is the RL policy: stair detection, jump timing, balance, recovery. Big upgrade from last time where I was triggering every jump manually. Still working on making it more consistent.
 
-18h ago
+20h ago
 
 ---
 
 **[Robotica arm, 3 axis](https://www.reddit.com/r/robotics/comments/1tncu8d/robotica_arm_3_axis/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ New hardware, outdoor steps this time. I push the stick forward, the robot detec
 
 As the title suggests, I'm struggling to figure out how to really program a proper gait for my quadrupedal robot; I've looked into tripod gaits and such, but does anyone have any advice for how to implement reinforcement learning or something similar? I'm considering attaching an IMU to the setup but I still don't know how to like get the legs to adapt and "figure it out themselves". I'm using an ESP32 as the main microcontroller with the arduino as just a sort of power source (will switch out in the future), and therefore I'm using the Arduino IDE for programming and haven't explored micropython My main problem is that I don't think my servos have enough torque to push the entire build off the ground, should I shorten the limbs or try other gaits first? Right now I'm hardcoding the servo positions and its been more like trial-and-error, if anyone has ANY advice or recommendations, I would really appreciate it. I'm aware that this post may be too vague, but pls feel free to dm me about the project.
 
-16h ago
+18h ago
 
 ---
 
@@ -58,13 +58,13 @@ As the title suggests, I'm struggling to figure out how to really program a prop
 
 Hey everyone, I’m a robotics engineer working across both the programming and electronics, debugging remotely with a teammate or getting code guys to understand a physical hardware glitch is a massive bottleneck. Usually, my choices are taking a blurry phone picture of my oscilloscope screen to send over Slack, or exporting a massive, CSV file that crashes basic spreadsheet apps and completely kills any signal interactivity. Software engineers have GitHub, Figma, and Linear for instant cloud collaboration. Hardware engineers get USB flash drives and proprietary enterprise desktop software. To bridge this gap, I built a completely free, browser-based, hostless platform designed to act like an opensource viewer for hardware signal data.
 
-🔗 [wavebench.vercel.app](https://wavebench.vercel.app/) • 3h ago
+🔗 [wavebench.vercel.app](https://wavebench.vercel.app/) • 5h ago
 
 ---
 
 **[Ajuda com baterias](https://www.reddit.com/r/robotics/comments/1tnlobv/ajuda_com_baterias/)**
 
-11m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone, I’m a robotics engineer working across both the programming and 
 
 The reason for this query is that I am in the process of shifting to Isaac Sim / Isaac Lab since that is what seems to be in use nowadays. However, Isaac Lab is proving to be somewhat difficult to handle. While it handles the logging, and the creation of multi-actor systems for algorithms like PPO beautifully, its documentation leaves much to be desired. I am also concerned about the ease of setting up new robotic environments, actions, rewards, policies and possibly even custom algorithms. So, what is it that you do at your lab?
 
-13h ago
+15h ago
 
 ---
 
@@ -88,13 +88,13 @@ I've finally submitted my PhD thesis and have some time to work on my favourite 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-lgo5xqgVko?si=M1M-LnBZNLJIgs7R) • 12h ago
+🔗 [youtu.be](https://youtu.be/-lgo5xqgVko?si=M1M-LnBZNLJIgs7R) • 14h ago
 
 ---
 
 **[new Nodding Mechanism is on robot now](https://www.reddit.com/r/robotics/comments/1tmxbff/new_nodding_mechanism_is_on_robot_now/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no longer silently drops degraded enumerations (configurable). - Jetson JP6 / 6.2.2 support added; fixes missing metadata over USB3 on JP6. - Bundled D400 firmware removed from the SDK package. - NEON acceleration: new BUILD_WITH_NEON flag; CUDA falls back to NEON; pointcloud correction. - MIPI driver version exposed via camera_info; new External Sync XU. Viewer - Non-blocking stop-stream, fixes for read-only options, Linux recording load, Win11 taskbar icon, MIPI FW update flow. DFU - Correct downgrade-counter opcode, flash-lock detection fix, skip reset on unsigned FW, d401_gmsl min FW → 5.17.2.2. Bug Fixes - Python deadlock, WMF reset crash, Ctrl+C re-entrancy, D435 initial enumeration, D555 DB3 playback, rs-dds-adapter Windows leak. --- MIPI Driver Highlights - JetPack 7 on NVIDIA Thor — new platform support (RSDSO-20559). - JetPack 5.1.6 and 6.2.2 added (RSDSO-21191, RSDSO-21146). - MAX96712 multi-camera: dual-camera per deserializer on JP6.x and quad-D457 via full-slave mode (RSDSO-20613). - External sync via TSC PWM (Thor-friendly), restored MAX9296 + consolidated MAX9295 GPIO tunneling (RSDSO-21407). - New carrier boards: Advantech (Orin, JP6/JP7) and AVerMedia (JP6.x). - Link tuning: MAX96712 lanes raised to 2500 Mbps; MFP6 added for links B–D. Stability - DS5 reset/detection rework, MAX9296 power_off underflow fix (spurious XCLR), JP6.x DTB deploy fix. --- D555 New Features - On-camera Object Detection (DamoYolo) — real-time bounding boxes/class/confidence published alongside streams; toggle via Color.option.Object_Detection_Enable. - UFO (UDP Fragmentation Offload) — higher throughput at high-res/fps; auto-enabled for standard MTU, disabled for jumbo frames. SafeDDS - More concurrent viewers per camera, better discovery, high-load stability, reliable notification delivery, stream-open timeout fix. ROS2 - Topic rename _CompressedColor → _Color/compressed; depth-unit in metadata; reduced topic overhead; CompressedColor auto-sync with RGB; better ROS2cli reliability. DFU - Real-time progress to host, pre-update integrity check, improved transfer reliability. Bug Fixes - Stream open timeout (RSDEV-6686), message drops under load (RSDEV-6314), network stall (RSDEV-6955), camera_info resolution mismatch (RSDEV-6683), ROS2 param/node CLI issues, 4-stream stability (RSDEV-7109). More info: https://github.com/realsenseai/librealsense/releases/tag/v2.58.1
 
-23h ago
+1d ago
 
 ---
 
@@ -110,19 +110,11 @@ SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no 
 
 ## Google News: "robotics"
 
-**[Humanoid Turns to Bosch to Bring Its Warehouse Robots Into Mass Production](https://www.eweek.com/news/humanoid-bosch-warehouse-robots-production/)**
+**[Delivery robots are spreading across LA. Residents ‘both pity and hate them’](https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots)**
 
-Humanoid’s Bosch deal moves HMND 01 warehouse robots toward mass production after a German logistics pilot tested box-handling workflows in March.
+A region known for its lack of walkability now has more obstacles for pedestrians to contend with
 
-eWeek • 8h ago
-
----
-
-**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
-
-The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
-
-Fast Company • 1d ago
+The Guardian • 8h ago
 
 ---
 
@@ -134,19 +126,19 @@ Fortune • 2d ago
 
 ---
 
-**[China puts humanoid robots through tea harvesting field trials](https://interestingengineering.com/ai-robotics/china-tests-humanoid-robots-in-tea-farms-before-the-2026-world-robot-games)**
+**[Humanoid Turns to Bosch to Bring Its Warehouse Robots Into Mass Production](https://www.eweek.com/news/humanoid-bosch-warehouse-robots-production/)**
 
-China is testing humanoid robots in tea production as part of preparations for the 2026 World Humanoid Robot Games.
+Humanoid’s Bosch deal moves HMND 01 warehouse robots toward mass production after a German logistics pilot tested box-handling workflows in March.
 
-Interesting Engineering • 3d ago
+eWeek • 10h ago
 
 ---
 
-**[Delivery robots are spreading across LA. Residents ‘both pity and hate them’](https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots)**
+**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
 
-A region known for its lack of walkability now has more obstacles for pedestrians to contend with
+The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
 
-The Guardian • 7h ago
+Fast Company • 1d ago
 
 ---
 
@@ -174,9 +166,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Motion tracking system shows robots the path most traveled by, keeping them on task](https://techxplore.com/news/2026-05-motion-tracking-robots-path-task.html)**
+**[Popular robotics company shuts down and liquidates all assets](https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets)**
 
-Tech Xplore • 4h ago
+thestreet.com • 8h ago
+
+---
+
+**[Ukraine’s Ground Robots Are Becoming Battlefield Platforms—And Procurement Is About to Surge](https://united24media.com/world/ukraines-ground-robots-are-becoming-battlefield-platforms-and-procurement-is-about-to-surge-19106)**
+
+Ukraine plans UGV procurement Ukraine 2026 to double in 2026, reaching nearly 25,000 units, adding EW, radar, missiles and mortars to combat roles.
+
+UNITED24 Media • 2d ago
 
 ---
 
@@ -184,7 +184,7 @@ Tech Xplore • 4h ago
 
 This company is trying to capture a $450 billion opportunity in the physical artificial intelligence space.
 
-The Motley Fool • 18m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 62K • 👍 722 • 💬 277 • ⏱️ 5:15 • 3d ago
+👁️ 65K • 👍 753 • 💬 292 • ⏱️ 5:15 • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 157K • 👍 3K • 💬 123 • ⏱️ 22:41 • 5d ago
+👁️ 160K • 👍 3K • 💬 123 • ⏱️ 22:41 • 6d ago
 
 ---
 
@@ -218,27 +218,7 @@ Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry! Tesla Bot Gen 3 AI5 
 
 📺 TESLA CAR WORLD
 
-👁️ 30K • 👍 517 • 💬 55 • ⏱️ 15:32 • 5d ago
-
----
-
-**[MOVA LiDax Ultra 3000 - Is This the Best Robot Lawn Mower?](https://www.youtube.com/watch?v=JlCdMKebkeY)**
-
-Testing the MOVA LiDax Ultra 3000 AWD over the past few weeks has been seriously impressive. The AWD system handled ...
-
-📺 Steve DOES
-
-👁️ 53K • 👍 693 • 💬 7 • ⏱️ 16:22 • 3d ago
-
----
-
-**[Robot falls during Michael Jackson performance, gets dragged off stage](https://www.youtube.com/watch?v=9TIk9n_ka_I)**
-
-Hee, hee: Billie Jean may not have been its lover — but the floor definitely was. A humanoid robot went viral after tripping and ...
-
-📺 CNA
-
-👁️ 341K • 👍 3K • 💬 474 • ⏱️ 0:44 • 4d ago
+👁️ 30K • 👍 519 • 💬 55 • ⏱️ 15:32 • 5d ago
 
 ---
 
@@ -248,25 +228,57 @@ In this video, we rank different robots inspired by countries like China, Austra
 
 📺 The area
 
-👁️ 130K • 👍 4K • 💬 178 • ⏱️ 0:50 • 6d ago
+👁️ 132K • 👍 4K • 💬 178 • ⏱️ 0:50 • 6d ago
 
 ---
 
-**[NEW LUMIN Laser Guns Fire around the Corner [War Robots]](https://www.youtube.com/watch?v=Btn2F-Cl8vQ)**
+**[AI Robots Just SHOCKED The World… This Is Getting Too Real](https://www.youtube.com/watch?v=ohySlGQMDkE)**
 
-War Robots Gameplay: NEW LUMIN Laser Guns fire around the corner - WR My War Robots Creator Link: ...
+What's happening in robotics right now is straight-up unbelievable — and you NEED to see this before anyone else does.
 
-📺 Manni-Gaming
+📺 The AI Nexus
 
-👁️ 11K • 👍 514 • 💬 144 • ⏱️ 16:48 • 1d ago
+👁️ 5K • 👍 100 • 💬 8 • ⏱️ 20:16 • 5d ago
 
 ---
 
-**[Robot Vacuum Running! iRobot Edition #3](https://www.youtube.com/watch?v=DqsxWPWhIrI)**
+**[Robots Now Communicate Like Ant Colonies 🐜🤖 #robotics #ai #shorts](https://www.youtube.com/watch?v=GXQ07hkfAmY)**
 
-📺 Planet Roomba
+Ant-Inspired Robots Just Learned A New Language What if robots could communicate exactly like ants? Researchers at the ...
 
-👁️ 4K • ⏱️ 14:27 • 1d ago
+📺 EcoZora
+
+👁️ 17K • 👍 33 • 💬 5 • ⏱️ 0:07 • 4d ago
+
+---
+
+**[Robot falls during Michael Jackson performance, gets dragged off stage](https://www.youtube.com/watch?v=9TIk9n_ka_I)**
+
+Hee, hee: Billie Jean may not have been its lover — but the floor definitely was. A humanoid robot went viral after tripping and ...
+
+📺 CNA
+
+👁️ 342K • 👍 3K • 💬 475 • ⏱️ 0:44 • 4d ago
+
+---
+
+**[PEEKING ABOVE BUILDINGS — War Robots 12.1 Overview](https://www.youtube.com/watch?v=s4FtwjBDasI)**
+
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+
+📺 War Robots [WR]
+
+👁️ 60K • 👍 2K • 💬 345 • ⏱️ 3:14 • 5d ago
+
+---
+
+**[Dancing Robot Fail | Bill Burr](https://www.youtube.com/watch?v=Oe-lr0hRI10)**
+
+From @BillBurrOfficial - Thursday Afternoon Monday Morning Podcast 5-21-26 Watch the Full Episode Here: ...
+
+📺 Bill Burr
+
+👁️ 15K • 👍 469 • 💬 43 • ⏱️ 0:51 • 3d ago
 
 ---
 
@@ -276,17 +288,7 @@ After a human-like robot took a flight from Dallas Love Field to Las Vegas, Sout
 
 📺 FOX 4 Dallas-Fort Worth
 
-👁️ 65K • 👍 183 • 💬 157 • ⏱️ 2:49 • 6d ago
-
----
-
-**[Future Cars and Robotics Auto China 2026 #Chasing195 #DevenD121D #China](https://www.youtube.com/watch?v=Di3V7pErNEQ)**
-
-Auto China 2026 showcases futuristic electric cars along with advanced robotics and AI technology. From smart dashboards to ...
-
-📺 CHASING 195
-
-👁️ 48K • 👍 918 • 💬 11 • ⏱️ 0:41 • 2d ago
+👁️ 65K • 👍 183 • 💬 158 • ⏱️ 2:49 • 6d ago
 
 ---
 
