@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-25T17:44:21.366851+00:00'
+updated: '2026-05-25T19:41:29.052424+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 17:44 UTC  
+**Last Updated:** May 25, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,777.00
+### $77,493.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.0%  
-**30d:** -1.3%  
-**90d:** +14.2%  
-**1y:** -29.1%  
+**24h:** +1.0%  
+**7d:** +0.7%  
+**30d:** -1.6%  
+**90d:** +13.9%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1553.66B
+**Market Cap:** $1549.97B
 Rank #1
 
-**Circulating Supply:** 20,034,259 BTC
+**Circulating Supply:** 20,034,318 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.7%
 
 **All-Time Low:** $67.81
-+114226.8%
++113914.2%
 
 ---
 
@@ -81,29 +81,21 @@ Rank #1
 
 Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillion within a decade.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 10h ago
-
----
-
-**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
-
-You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
-
-8h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 12h ago
 
 ---
 
 **[Throughout history money was never created by man, only nature.](https://www.reddit.com/r/Bitcoin/comments/1tnfpd5/throughout_history_money_was_never_created_by_man/)**
 
-23m ago
+2h ago
 
 ---
 
-**[Thinking about buying](https://www.reddit.com/r/Bitcoin/comments/1tn7me4/thinking_about_buying/)**
+**[I just realized something obvious about crypto wallets 😅](https://www.reddit.com/r/Bitcoin/comments/1tnhoin/i_just_realized_something_obvious_about_crypto/)**
 
-I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is this the best way to hold it? I will be buying the bitcoin only version. Is it worth it to upgrade to the higher end Trezor? What do yall use? Thanks in advance. EDIT: Very new and have never bought crypto. ELI5 please, just started doing some research yesterday.
+I just realized something that will probably seem obvious to a lot of people here. When I first got into crypto, I thought my wallet was tied to a specific app. Then I realized that with a non-custodial wallet, my seed phrase doesn’t belong to the app itself. If one wallet app disappears tomorrow, or if I find a better one, I can simply import my seed phrase into another compatible wallet and still access my funds. In hindsight, it’s completely logical because crypto is decentralized, but it took me a while to fully understand it. Did you know this from the beginning, or was it a realization you had later on too?
 
-5h ago
+1h ago
 
 ---
 
@@ -111,7 +103,15 @@ I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is th
 
 The goal was never just "get rich" The real flex is freedom. Funny how fast the future changes.
 
-11h ago
+13h ago
+
+---
+
+**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
+
+You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
+
+10h ago
 
 ---
 
@@ -119,7 +119,23 @@ The goal was never just "get rich" The real flex is freedom. Funny how fast the 
 
 Under such a framework, Washington would offer Tehran a pathway back into the traditional global financial system only in exchange for dismantling its sovereign #Bitcoin $BTC architecture and surrendering its state-linked digital reserves. The result would amount to a twenty-first century financial disarmament treaty: a doctrine of monetary nonproliferation.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 3h ago
+
+---
+
+**[Thinking about buying](https://www.reddit.com/r/Bitcoin/comments/1tn7me4/thinking_about_buying/)**
+
+I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is this the best way to hold it? I will be buying the bitcoin only version. Is it worth it to upgrade to the higher end Trezor? What do yall use? Thanks in advance. EDIT: Very new and have never bought crypto. ELI5 please, just started doing some research yesterday.
+
+7h ago
+
+---
+
+**[Nicehash easy mining or braiins hashpower?](https://www.reddit.com/r/Bitcoin/comments/1tnhml2/nicehash_easy_mining_or_braiins_hashpower/)**
+
+Nicehash has lower costs on easy mining but what do you use? And who is better? And on braiins can you mining other sha256 coins or just btc?
+
+1h ago
 
 ---
 
@@ -127,7 +143,7 @@ Under such a framework, Washington would offer Tehran a pathway back into the tr
 
 What’s a Bitcoin take that got you laughed at before… but aged perfectly?
 
-12h ago
+14h ago
 
 ---
 
@@ -135,23 +151,7 @@ What’s a Bitcoin take that got you laughed at before… but aged perfectly?
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-10h ago
-
----
-
-**[Thoughts on 0.5btc?](https://www.reddit.com/r/Bitcoin/comments/1tmonl6/thoughts_on_05btc/)**
-
-By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to consider it life changing?
-
-20h ago
-
----
-
-**[Daily Discussion, May 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1tn0as0/daily_discussion_may_25_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
+12h ago
 
 ---
 
@@ -159,11 +159,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[HYPE funds attract millions as investors dump bitcoin and ether ETFs](https://www.coindesk.com/markets/2026/05/25/hype-funds-attract-millions-as-investors-dump-bitcoin-and-ether-etfs)**
+**[Bitcoin, crypto prices tick up as US-Iran peace deal odds climb](https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb)**
 
-Investors turn to HYPE and XRP funds while dumping bitcoin and ether ETFs.
+Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium. Pakistan and Qatar are mediating.
 
-CoinDesk • 7h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -171,23 +171,15 @@ CoinDesk • 7h ago
 
 A bitcoin OG transferred about 2,650 BTC to the crypto trading firms through multiple transactions on Sunday, according to Onchain Lens.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
-**[Strategy Pauses Bitcoin Buying To Retire Converts And Add Treasuries](https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-retire-160839465.html)**
+**[Strategy Stock Is Essentially Leveraged Bitcoin -- Here's Whether That's Worth the Risk](https://finance.yahoo.com/markets/stocks/articles/strategy-stock-essentially-leveraged-bitcoin-190300860.html)**
 
-Strategy Inc (NasdaqGS:MSTR) has paused its aggressive Bitcoin purchases to prioritize a major convertible bond repurchase. The company is buying back US$1.5b in convertible notes at a discount instead of adding to its Bitcoin position. This is the first significant pause in Strategy’s multi year Bitcoin acquisition program. The move reflects a new phase in Strategy’s capital management, including a larger role for yield generating US Treasuries. Strategy Inc has built its profile around...
+The first Bitcoin treasury company has outperformed Bitcoin itself over the last five years.
 
-Yahoo Finance • 1h ago
-
----
-
-**[When Will Bitcoin Recover to Its $126,000 All-Time High?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-recover-126-000-time-172013711.html)**
-
-Bitcoin (CRYPTO: BTC) peaked at $126,000 in October 2025, but it didn’t last. A tariff shock and a wave of liquidations starting on October 10, pulled BTC below $105,000. Then, months of ETF outflows dragged it into the $80,000s through November and December, and by early February 2026 it had plunged to $60,000—less than half ... When Will Bitcoin Recover to Its $126,000 All-Time High?
-
-Yahoo Finance • 24m ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -205,17 +197,27 @@ Forbes • 1d ago
 
 ---
 
+**[Could XRP Ever Be as Big as Bitcoin?](https://247wallst.com/investing/2026/05/25/could-xrp-ever-be-as-big-as-bitcoin/)**
+
+Can XRP ever catch Bitcoin? Here's whether XRP could ever reach Bitcoin's level, and where its real upside actually lies.
+
+24/7 Wall St. • 7h ago
+
+---
+
+**[What If You Could Actually Hold Your Bitcoin? The Wild History Of Physical BTC](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin)**
+
+Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
+
+Bitcoin Magazine • 2d ago
+
+---
+
 **[Bitcoin Depot declares bankruptcy, lays off more than 100 staff at corporate office](https://www.wsbtv.com/news/local/fulton-county/bitcoin-depot-declares-bankruptcy-lays-off-more-than-100-staff-corporate-office/O6P56Q5OS5D4XIUHDLAEP2UMFU/)**
 
 The company said it will undertake an "orderly wind-down" and sell off its assets.
 
-WSB-TV • 1h ago
-
----
-
-**[Bitcoin rebounds above $77k on Iran deal hopes, Nasdaq crypto options plan](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-77k-on-iran-deal-hopes-nasdaq-crypto-options-plan-4708329)**
-
-Investing.com • 10h ago
+WSB-TV • 3h ago
 
 ---
 
@@ -223,15 +225,13 @@ Investing.com • 10h ago
 
 Bitcoin is struggling to push above $78,000 as the market faces uncertainty that has made directional conviction difficult to sustain. The price is grinding. Not breaking down catastrophically, but not advancing either. A CryptoOnchain report combining US Spot ETF flow data with Binance on-chain me…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
-**[The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First](https://247wallst.com/investing/2026/05/24/the-2022-bitcoin-pattern-is-back-and-the-second-drop-was-worse-than-the-first/)**
+**[Bitcoin slips as U.S.-Iran peace deal hopes offset by crypto ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-76500-as-iran-deal-hopes-support-risk-sentiment-4708159)**
 
-Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and laid out a chart pattern that should make every Bitcoin bull pause. The episode title says it plainly: “Bitcoin To $40K? Saylor’s Big Bet Is Breaking.” The thesis hinges on a single uncomfortable observation about 2022 that most investors have ... The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First
-
-24/7 Wall St. • 21h ago
+Investing.com • 22h ago
 
 ---
 
@@ -251,7 +251,7 @@ A technique for embedding arbitrary data — text, images, code — inside Bitco
 
 August 15, 2010: someone created 184 billion BTC out of thin air. Five hours later, it was fixed. Here is the full story.
 
-⬆️ 4 • 💬 0 • 3d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
+⬆️ 4 • 💬 0 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
 
 ---
 
@@ -325,7 +325,17 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 138 • ⏱️ 10:17 • 18h ago
+👁️ 36K • 👍 2K • 💬 141 • ⏱️ 10:17 • 20h ago
+
+---
+
+**[‘Institutional adoption’ is driving Bitcoin, CEO says](https://www.youtube.com/watch?v=zqJ-sPbRD10)**
+
+ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Business In Depth: The Crypto Campaign.
+
+📺 Fox Business
+
+👁️ 4K • 👍 223 • 💬 123 • ⏱️ 7:41 • 1h ago
 
 ---
 
@@ -339,43 +349,13 @@ Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost n
 
 ---
 
-**[Gold Flashes Shocking WARNING Signals | The Great Bitcoin Rotation Has Begun](https://www.youtube.com/watch?v=l4sL0q_eeGE)**
+**[Bitcoin Ready For The Next Surge](https://www.youtube.com/watch?v=Ml8Tr9eZ9fs)**
 
-Gold is breaking down while Bitcoin keeps gaining strength. Rising bond yields, Fed policy shifts, and collapsing confidence in ...
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 22K • 👍 2K • 💬 111 • ⏱️ 13:37 • 22h ago
-
----
-
-**[CRYPTO BOOM: Stablecoin transactions hit MASSIVE $74.2 billion](https://www.youtube.com/watch?v=MDsw5q-yDS8)**
-
-FOX Business' Darren Botelho joins 'Mornings with Maria' to break down the growing push for stablecoins and digital payments ...
-
-📺 Fox Business
-
-👁️ 32K • 👍 682 • 💬 299 • ⏱️ 2:40 • 21h ago
-
----
-
-**[BITCOIN: It’s Playing Out Just Like Before! [Do This Now]](https://www.youtube.com/watch?v=iU6KoyUi1qk)**
-
-In today's video, Kyledoops shows you how Bitcoin is following a historical pattern that we've seen before. To stay on the right side ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 1K • 💬 8 • ⏱️ 27:05 • 10h ago
-
----
-
-**[Bitcoin Will Breakout By Summer If This Happens](https://www.youtube.com/watch?v=-pVlPkzQCoc)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 56K • 👍 2K • 💬 38 • ⏱️ 53:11 • 2d ago
+👁️ 10K • 👍 739 • 💬 67 • ⏱️ 24:23 • 4h ago
 
 ---
 
@@ -385,37 +365,55 @@ Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect you
 
 📺 Bitcoin Magazine
 
-👁️ 1K • 👍 45 • 💬 4 • ⏱️ 1:24 • 6h ago
+👁️ 2K • 👍 70 • 💬 6 • ⏱️ 1:24 • 8h ago
 
 ---
 
-**[BITCOIN ABOUT TO CRASH TO $23k](https://www.youtube.com/watch?v=w2R12u15suM)**
+**[Gold Flashes Shocking WARNING Signals | The Great Bitcoin Rotation Has Begun](https://www.youtube.com/watch?v=l4sL0q_eeGE)**
 
-Welcome back to Open Wallets, where we open our wallets to help you build yours. This clip was extracted from our previous ...
+Gold is breaking down while Bitcoin keeps gaining strength. Rising bond yields, Fed policy shifts, and collapsing confidence in ...
 
-📺 Open Wallets
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 150 • 💬 81 • ⏱️ 6:09 • 2d ago
-
----
-
-**[Crypto Holders: &quot;Bitcoin Will EXPLODE&quot; Top 4 Altcoins!! (I will delete this in 24 hours)](https://www.youtube.com/watch?v=3izuQ0fFZeQ)**
-
-URGENT: Crypto Market About To Flip... "Bitcoin Will EXPLODE!" (Top 4 Altcoins) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 3K • 💬 216 • ⏱️ 13:06 • 2d ago
+👁️ 24K • 👍 2K • 💬 114 • ⏱️ 13:37 • 1d ago
 
 ---
 
-**[OH MY GOD, BITCOIN HOLDERS: THIS IS UNBELIEVABLE](https://www.youtube.com/watch?v=1cqiYSfuqng)**
+**[Bitcoin vs Stock Market: The Great Decoupling Explained](https://www.youtube.com/watch?v=kmfkxfpmEf8)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+Bitcoin used to move like a high-tech stock. That correlation is officially dead. We're witnessing a massive decoupling — BTC is ...
 
-📺 Crypto Kid
+📺 Blitz Trade Bot
 
-👁️ 9K • 👍 656 • 💬 128 • ⏱️ 12:46 • 19h ago
+👁️ 4K • 👍 4 • 💬 1 • ⏱️ 0:50 • 10h ago
+
+---
+
+**[CRYPTO BOOM: Stablecoin transactions hit MASSIVE $74.2 billion](https://www.youtube.com/watch?v=MDsw5q-yDS8)**
+
+FOX Business' Darren Botelho joins 'Mornings with Maria' to break down the growing push for stablecoins and digital payments ...
+
+📺 Fox Business
+
+👁️ 33K • 👍 699 • 💬 335 • ⏱️ 2:40 • 23h ago
+
+---
+
+**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=yOviRnmyHaQ)**
+
+📺 Khuncoin
+
+👁️ 4K • 👍 147 • 💬 3 • ⏱️ 0:22 • 6h ago
+
+---
+
+**[&quot;I Bet You I Will&quot;: Saylor on Bitcoin&#39;s Next Price Levels](https://www.youtube.com/watch?v=Ty16AuCB8iM)**
+
+Michael Saylor on what he'd buy at $1M Bitcoin, and what he'd buy at $10M. The plan doesn't change. #Bitcoin #BTC #Saylor ...
+
+📺 Simple Mining
+
+👁️ 910 • 👍 8 • 💬 3 • ⏱️ 0:38 • 4h ago
 
 ---
 
