@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-24T22:32:45.151403+00:00'
+updated: '2026-05-25T00:00:13.739460+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 24, 2026 at 22:32 UTC  
+**Last Updated:** May 25, 2026 at 00:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've finally submitted my PhD thesis and have some time to work on my favourite robot build so far. I managed to implement omnidirectional motion and field-centric drive. It's not perfect yet (I switched from a 9-axis IMU to a 6-axis, and now drift is a real issue), but I definitely think this is a good proof of concept. Has anyone seen this approach before? Most vibration robots I've found are either single-direction bristlebots or differential swarm bots like Kilobots. I haven't found much on holonomic vibration drive. Curious if I'm reinventing the wheel.
 
-8h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ I've finally submitted my PhD thesis and have some time to work on my favourite 
 
 SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no longer silently drops degraded enumerations (configurable). - Jetson JP6 / 6.2.2 support added; fixes missing metadata over USB3 on JP6. - Bundled D400 firmware removed from the SDK package. - NEON acceleration: new BUILD_WITH_NEON flag; CUDA falls back to NEON; pointcloud correction. - MIPI driver version exposed via camera_info; new External Sync XU. Viewer - Non-blocking stop-stream, fixes for read-only options, Linux recording load, Win11 taskbar icon, MIPI FW update flow. DFU - Correct downgrade-counter opcode, flash-lock detection fix, skip reset on unsigned FW, d401_gmsl min FW → 5.17.2.2. Bug Fixes - Python deadlock, WMF reset crash, Ctrl+C re-entrancy, D435 initial enumeration, D555 DB3 playback, rs-dds-adapter Windows leak. --- MIPI Driver Highlights - JetPack 7 on NVIDIA Thor — new platform support (RSDSO-20559). - JetPack 5.1.6 and 6.2.2 added (RSDSO-21191, RSDSO-21146). - MAX96712 multi-camera: dual-camera per deserializer on JP6.x and quad-D457 via full-slave mode (RSDSO-20613). - External sync via TSC PWM (Thor-friendly), restored MAX9296 + consolidated MAX9295 GPIO tunneling (RSDSO-21407). - New carrier boards: Advantech (Orin, JP6/JP7) and AVerMedia (JP6.x). - Link tuning: MAX96712 lanes raised to 2500 Mbps; MFP6 added for links B–D. Stability - DS5 reset/detection rework, MAX9296 power_off underflow fix (spurious XCLR), JP6.x DTB deploy fix. --- D555 New Features - On-camera Object Detection (DamoYolo) — real-time bounding boxes/class/confidence published alongside streams; toggle via Color.option.Object_Detection_Enable. - UFO (UDP Fragmentation Offload) — higher throughput at high-res/fps; auto-enabled for standard MTU, disabled for jumbo frames. SafeDDS - More concurrent viewers per camera, better discovery, high-load stability, reliable notification delivery, stream-open timeout fix. ROS2 - Topic rename _CompressedColor → _Color/compressed; depth-unit in metadata; reduced topic overhead; CompressedColor auto-sync with RGB; better ROS2cli reliability. DFU - Real-time progress to host, pre-update integrity check, improved transfer reliability. Bug Fixes - Stream open timeout (RSDEV-6686), message drops under load (RSDEV-6314), network stall (RSDEV-6955), camera_info resolution mismatch (RSDEV-6683), ROS2 param/node CLI issues, 4-stream stability (RSDEV-7109). More info: https://github.com/realsenseai/librealsense/releases/tag/v2.58.1
 
-50m ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no 
 
 Hello, im currently building q robot dog similar to the MIT Mini Cheetah. However i cannot for the life of me find what kind of feet they used. Currently im using tpu spheres i 3d printed but getting a lot of slippage. Any reccomendations on the feet or what the actual Mini Cheetah used?
 
-4h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, im currently building q robot dog similar to the MIT Mini Cheetah. Howeve
 
 So this is how I spend my Sundays now. Picked up a fleet of AMRs and decided to reverse engineer it from the chassis up. Top’s off, I’m on the laptop sniffing what I can, and I’ve hit the point where the community brain trust would save me a few weekends. A few of these will end up on eBay in the coming weeks!
 
-3h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey r/robotics, A while back, this community helped me choose the name "Arctos" 
 
 I'm planning to take on a build project: a planar magnetic levitation platform. Small scale to start — roughly 300mm stator tile, a floating puck with 6-DOF (XY translation, Z, rotation, tilt), aiming for ~10μm precision and 1m/s or so. Multiple pucks on the same surface eventually. A few things I know it can do: - Contactless positioning (no mechanical wear, no backlash) - Spin/tilt/vibrate the puck while it's hovering - Pass power and signals through the puck But before I go deep on the design, I'd love to hear what the robotics community thinks: - If this existed as a buildable/open platform, what would you use it for? - What capability would make it a "must try" vs just a cool demo? - What pitfalls should I be watching out for? I've got a demo video of a similar industrial system. (Not a company, not selling anything. Just a builder looking for input from people who think about motion control.) https://reddit.com/link/1tlzm4n/video/wl52d9tnzz2h1/player
 
-19h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ I'm planning to take on a build project: a planar magnetic levitation platform. 
 
 I’m trying to understand where real‑world robotics teams lose the most clarity when a task moves from: > – the operator, > – to the system architect, > – to the robot’s perception/decision layer. > > In your experience, which communication layer breaks most often? > – task specification, > – environment representation, > – feedback loops, > – or translating “what the robot sees” into “what the robot should do”. > > If you could magically fix one bottleneck in your workflow, which one would it be — and why.
 
-7h ago
+9h ago
 
 ---
 
@@ -124,7 +124,7 @@ Fortune • 1d ago
 
 Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
@@ -132,7 +132,7 @@ Fox News • 6h ago
 
 The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
 
-Fast Company • 12h ago
+Fast Company • 13h ago
 
 ---
 
@@ -140,23 +140,15 @@ Fast Company • 12h ago
 
 UBTECH demonstates its new Walker C1 robot performing Swan Lake ballet with humans, showing advanced humanoid control.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
-**[Job training for robots: How China is getting machines ready to join the workforce](https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html)**
-
-Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.
-
-CNBC • 3d ago
-
----
-
-**[Robots Take Root in Human Life](https://www.chosun.com/english/video-en/2026/05/25/AKNATIPOH5AM7PPDXPAMJAIYI4/)**
+**[Robots Expand Presence in Daily Life and Industry](https://www.chosun.com/english/video-en/2026/05/25/AKNATIPOH5AM7PPDXPAMJAIYI4/)**
 
 Robots Expand Presence in Daily Life and Industry The Picture From festival processions to factory floors, robots demonstrate growing versatility and market potential
 
-조선일보 • 26m ago
+조선일보 • 1h ago
 
 ---
 
@@ -176,9 +168,9 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Google, Japanese firm ship 1,000 robots in automation push](https://interestingengineering.com/ai-robotics/google-fanuc-physical-ai-industrial-robots)**
+**[UK’s Humanoid partners with Bosch to mass-produce HMND robots for industries](https://interestingengineering.com/ai-robotics/uk-humanoid-bosch-industrial-robot)**
 
-Google and FANUC partner to advance autonomous industrial robots for smarter factory automation systems.
+Humanoid partners Bosch to scale HMND humanoid robot production after successful 2026 proof of concept trials.
 
 Interesting Engineering • 2d ago
 
@@ -188,7 +180,13 @@ Interesting Engineering • 2d ago
 
 It’s Amazon’s third robotics fulfillment center in Virginia.
 
-The Virginian-Pilot • 8h ago
+The Virginian-Pilot • 9h ago
+
+---
+
+**[Robotics as a Service: Unlocking a Massive New Market](https://etfdb.com/artificial-intelligence-content-hub/unlocking-a-massive-new-market-robotics-as-a-service/)**
+
+ETF Database • 3d ago
 
 ---
 
@@ -202,7 +200,7 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 159 • 💬 36 • ⏱️ 18:21 • 20h ago
+👁️ 7K • 👍 166 • 💬 38 • ⏱️ 18:21 • 22h ago
 
 ---
 
@@ -212,7 +210,17 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 40K • 👍 469 • 💬 191 • ⏱️ 5:15 • 2d ago
+👁️ 42K • 👍 502 • 💬 201 • ⏱️ 5:15 • 2d ago
+
+---
+
+**[China&#39;s New Huawei-Backed Humanoid Robot Maid #robot #robotics #humanoidrobot](https://www.youtube.com/watch?v=8x1QbYZLswM)**
+
+The Huawei-backed startup GigaAI just launched its AI-powered robot maid. The wheeled humanoid, named the SeeLight S1, ...
+
+📺 Kalil 4.0
+
+👁️ 719 • 👍 27 • ⏱️ 0:41 • 4h ago
 
 ---
 
@@ -222,7 +230,7 @@ The mass production era is officially here. As a brand new 10000-unit factory li
 
 📺 AI News
 
-👁️ 7K • 👍 162 • 💬 36 • ⏱️ 8:02 • 1d ago
+👁️ 8K • 👍 171 • 💬 37 • ⏱️ 8:02 • 1d ago
 
 ---
 
@@ -232,17 +240,7 @@ Here are 4 robotics stocks to outperform Nvidia going forward. Join SeekingAlpha
 
 📺 Fin Tek
 
-👁️ 146K • 👍 3K • 💬 118 • ⏱️ 22:41 • 5d ago
-
----
-
-**[My Neighbor HATES my New Robot Lawn Mower 😅](https://www.youtube.com/watch?v=6cNXy5ckcV0)**
-
-STOP paying hundreds of dollars a month for lawn mower services and SWITCH to the Sunseeker Elite X7 Gen2 robotic lawn ...
-
-📺 Max Tech
-
-👁️ 5K • 👍 106 • 💬 10 • ⏱️ 10:08 • 2d ago
+👁️ 148K • 👍 3K • 💬 119 • ⏱️ 22:41 • 5d ago
 
 ---
 
@@ -252,27 +250,17 @@ Testing the MOVA LiDax Ultra 3000 AWD over the past few weeks has been seriously
 
 📺 Steve DOES
 
-👁️ 35K • 👍 322 • 💬 2 • ⏱️ 16:22 • 2d ago
+👁️ 37K • 👍 425 • 💬 2 • ⏱️ 16:22 • 2d ago
 
 ---
 
-**[Would you let this humanoid robot into your home? 👀 #trendingshorts #tech #ai #robot](https://www.youtube.com/watch?v=iiUR4k6M0KM)**
+**[Ranking The Wildest Country Robots #robots #viral #shorts](https://www.youtube.com/watch?v=cfdL_mK0qUg)**
 
-1X Technologies, an OpenAI-backed startup founded in Norway and now based in Palo Alto, has opened a 58000 square foot ...
+In this video, we rank different robots inspired by countries like China, Australia, Russia, the USA, and the United Kingdom.
 
-📺 Rowan Cheung
+📺 The area
 
-👁️ 488K • 👍 14K • 💬 819 • ⏱️ 1:34 • 6d ago
-
----
-
-**[Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!](https://www.youtube.com/watch?v=faBkVCEEEHQ)**
-
-Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry! Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!
-
-📺 TESLA CAR WORLD
-
-👁️ 29K • 👍 500 • 💬 54 • ⏱️ 15:32 • 4d ago
+👁️ 113K • 👍 4K • 💬 162 • ⏱️ 0:50 • 5d ago
 
 ---
 
@@ -286,13 +274,23 @@ Ant-Inspired Robots Just Learned A New Language What if robots could communicate
 
 ---
 
-**[Ranking The Wildest Country Robots #robots #viral #shorts](https://www.youtube.com/watch?v=cfdL_mK0qUg)**
+**[Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!](https://www.youtube.com/watch?v=faBkVCEEEHQ)**
 
-In this video, we rank different robots inspired by countries like China, Australia, Russia, the USA, and the United Kingdom.
+Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry! Tesla Bot Gen 3 AI5 Upgrade Finally Destroy Robot Industry!
 
-📺 The area
+📺 TESLA CAR WORLD
 
-👁️ 111K • 👍 3K • 💬 160 • ⏱️ 0:50 • 5d ago
+👁️ 29K • 👍 502 • 💬 54 • ⏱️ 15:32 • 4d ago
+
+---
+
+**[Man vs AI Robot: it’s officially over...](https://www.youtube.com/watch?v=j5MtBTPGJng)**
+
+Man Vs Machine - we're entering the end times of AI deployment - do you want to live in a world of AI powered robots and LLM's ...
+
+📺 Stylosa
+
+👁️ 16K • 👍 421 • 💬 296 • ⏱️ 16:12 • 6d ago
 
 ---
 

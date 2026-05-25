@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-24T22:32:45.133469+00:00'
+updated: '2026-05-25T00:00:13.723732+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 24, 2026 at 22:32 UTC  
+**Last Updated:** May 25, 2026 at 00:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,9 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What AI image generator do you use?](https://www.reddit.com/r/artificial/comments/1tmkupv/what_ai_image_generator_do_you_use/)**
+**[How to Hit Claude Limits in One Click](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)**
 
-I'd like to put together a big list of all of the image generators out there with a pros/cons comparison. I don't care if it's paid or free, what do you use and why do you like it. Also if there's one you don't like, why aren't you a fan?
-
-3h ago
+2h ago
 
 ---
 
@@ -49,29 +47,7 @@ I'd like to put together a big list of all of the image generators out there wit
 
 I came across a cool model developed during the Cold War. I wanted to see how it would perform at image recognition, so I downloaded the UC Merced Land Use Dataset and wrote a script to add Gaussian noise to the photos and measure performance over a series of trials using Monte Carlo simulations. It is very efficient and appears well suited for FPGA implementation. It only uses about 50 MB of RAM. The satellite photos are converted to grayscale, downscaled to roughly 32×32, and converted into a fingerprint that is roughly 128 bytes in size. Therefore, the database of 800 TIFs is about 100 KB total. I’ll include the test and debug images so you can see how the process works. The model basically selects the stored pattern that best matches the noisy input based on what it has learned from the data.
 
-2h ago
-
----
-
-**[How to Hit Claude Limits in One Click](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)**
-
-40m ago
-
----
-
-**["I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."](https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/)**
-
-"I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
-
-9h ago
-
----
-
-**[Multi-agent loop failures might be org-design failures, not prompt failures](https://www.reddit.com/r/artificial/comments/1tme23u/multiagent_loop_failures_might_be_orgdesign/)**
-
-Repo: https://github.com/jeongmk522-netizen/agentlas\_org\_chart Almost every multi-agent setup I have shipped or tested eventually hits the same wall. Agents bouncing between each other, reviewers asking for one more polish pass forever, research workers spawning indefinite subtopics, tool calls spiraling until the recursion limit kicks in. The framework docs usually call these "loops" and offer a max-iteration knob. I started suspecting the knob is treating a symptom, and the real issue is closer to how the agents are organized to begin with. The pattern that kept reappearing: when agents are designed as peers (researcher talks to analyst, analyst talks to writer, writer hands back to reviewer), nobody clearly owns the outcome. Every agent can keep asking another agent for more work. The graph has stop conditions on paper, but no single agent has the authority to declare "this is done, stop the run." That authority is implicit at best and gets diluted across the peer network. The hypothesis I am testing is that loop failures are organization-design failures more than prompt failures. The fix is to treat the agent network as an org chart with explicit reporting lines, not a chat room of peers. One accountable mission owner. One owner per workstream. Finite delegation depth. A typed return contract per worker (status, evidence, output, blockers, next action). Manager-only authority to reopen or terminate. Memory lives at the authority layers, specialists get scoped context only. The layers I have been working with are roughly chair, strategy office, division manager, team lead, and specialist worker, with QA and policy as separate staff offices that can reject and escalate but cannot themselves spawn unbounded new work. The reviewer-recursion failure mode in particular gets killed when verifiers are structurally allowed one reject pass, then must escalate. Frameworks already have most of the primitives. CrewAI has a hierarchical process where a manager validates worker output. LangGraph has supervisors, subagents, and an explicit recursion limit. OpenAI Agents SDK has manager-style orchestration distinct from peer handoffs. AutoGen has GroupChatManager. Anthropic's published research system is orchestrator-worker. What I think is underused is treating the manager not as a moderator for an open group chat but as a formal reporting line with authority to terminate. Two things I am unsure about. First, hierarchy can become its own bottleneck. If every decision routes upward, the chair agent becomes a single point of latency and a single point of failure. Second, escalation-as-feature only works if the top of the org chart has real stop authority. If the chair just calls another LLM that calls more LLMs, the loop just moved one floor up.
-
-7h ago
+3h ago
 
 ---
 
@@ -79,7 +55,39 @@ Repo: https://github.com/jeongmk522-netizen/agentlas\_org\_chart Almost every mu
 
 Can someone help me understand this? I mean, how on earth are these companies who are planning to replace us all with beep boops expecting these unimaginably high expense technologies to be better for their bottom line than just paying us low wage unwashed masses? I mean, some dude (respectfully, I use that term genderlessly) here just posted about min wage in their area being $7.25! You are not getting a robot or AI that costs less annualized. Even adding in annual benefits - that is a steal compared to data centers and complex robots who will be absurdly expensive to fix when they break. I’m a white collar worker with deep knowledge of worker costs, even at the top it’s cheaper than what all of this new buggy crap is going to cost. I’m so confused. What am I missing? Why are the evil overlords not interested in our already too cheap labor? EDIT: I just want to thank everyone for the discussion on this. There are so many different situations and buckets of AI, it can be an imprecise topic, but the high level viewpoints have been helpful.
 
-6h ago
+8h ago
+
+---
+
+**["I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."](https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/)**
+
+"I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
+
+11h ago
+
+---
+
+**[What AI image generator do you use?](https://www.reddit.com/r/artificial/comments/1tmkupv/what_ai_image_generator_do_you_use/)**
+
+I'd like to put together a big list of all of the image generators out there with a pros/cons comparison. I don't care if it's paid or free, what do you use and why do you like it. Also if there's one you don't like, why aren't you a fan?
+
+5h ago
+
+---
+
+**[Multi-agent loop failures might be org-design failures, not prompt failures](https://www.reddit.com/r/artificial/comments/1tme23u/multiagent_loop_failures_might_be_orgdesign/)**
+
+Repo: https://github.com/jeongmk522-netizen/agentlas\_org\_chart Almost every multi-agent setup I have shipped or tested eventually hits the same wall. Agents bouncing between each other, reviewers asking for one more polish pass forever, research workers spawning indefinite subtopics, tool calls spiraling until the recursion limit kicks in. The framework docs usually call these "loops" and offer a max-iteration knob. I started suspecting the knob is treating a symptom, and the real issue is closer to how the agents are organized to begin with. The pattern that kept reappearing: when agents are designed as peers (researcher talks to analyst, analyst talks to writer, writer hands back to reviewer), nobody clearly owns the outcome. Every agent can keep asking another agent for more work. The graph has stop conditions on paper, but no single agent has the authority to declare "this is done, stop the run." That authority is implicit at best and gets diluted across the peer network. The hypothesis I am testing is that loop failures are organization-design failures more than prompt failures. The fix is to treat the agent network as an org chart with explicit reporting lines, not a chat room of peers. One accountable mission owner. One owner per workstream. Finite delegation depth. A typed return contract per worker (status, evidence, output, blockers, next action). Manager-only authority to reopen or terminate. Memory lives at the authority layers, specialists get scoped context only. The layers I have been working with are roughly chair, strategy office, division manager, team lead, and specialist worker, with QA and policy as separate staff offices that can reject and escalate but cannot themselves spawn unbounded new work. The reviewer-recursion failure mode in particular gets killed when verifiers are structurally allowed one reject pass, then must escalate. Frameworks already have most of the primitives. CrewAI has a hierarchical process where a manager validates worker output. LangGraph has supervisors, subagents, and an explicit recursion limit. OpenAI Agents SDK has manager-style orchestration distinct from peer handoffs. AutoGen has GroupChatManager. Anthropic's published research system is orchestrator-worker. What I think is underused is treating the manager not as a moderator for an open group chat but as a formal reporting line with authority to terminate. Two things I am unsure about. First, hierarchy can become its own bottleneck. If every decision routes upward, the chair agent becomes a single point of latency and a single point of failure. Second, escalation-as-feature only works if the top of the org chart has real stop authority. If the chair just calls another LLM that calls more LLMs, the loop just moved one floor up.
+
+9h ago
+
+---
+
+**[We built a managed memory API for AI agents (open-source SDK + AGM-style belief revision for handling contradictions)](https://www.reddit.com/r/artificial/comments/1tmsehf/we_built_a_managed_memory_api_for_ai_agents/)**
+
+Hey all! We just launched a managed memory API for conversational AI, letting developers add long-term memory to their agents with a single HTTP call. It's built on our in-house xmem SDK, which automatically extracts facts, episodes, and artifacts from multi-turn conversations and handles contradictions and updates through an AGM-style belief revision mechanism. When a user changes a preference or corrects an earlier statement, old memories get automatically flagged as "superseded" instead of piling up as noise. At query time, you can also walk the supersede chain to trace the full version history of any memory. Under the hood, PostgreSQL + pgvector (with HNSW indexing) delivers millisecond-level semantic retrieval, Redis handles multi-pod session caching, and the system natively supports multi-tenant isolation with data separation at the user and org level. For developers, this means you no longer have to stand up your own vector store, design dedup logic, or babysit session state. Hand off the memory layer to us and focus on what your agent actually does. Feel free to try it out, it's free to start. Please let us know your thoughts on how we can improve or features to add! https://github.com/XTraceAI/memory-sdk-ts https://docs.mem.xtrace.ai/introduction
+
+2m ago
 
 ---
 
@@ -87,7 +95,15 @@ Can someone help me understand this? I mean, how on earth are these companies wh
 
 I benchmarked vision-capable LLMs (the "just attach the PDF and let the model read it" pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (https://github.com/mayubo2333/MMLongBench-Doc). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM. Post-retry results: Approach Accuracy $/query LlamaCloud premium + full-context 59.6% $0.1885 Azure premium + full-context 58.5% $0.2051 Azure basic + full-context 54.4% $0.1062 Agentic RAG 53.2% $0.0827 Native PDF (vision LLM) 52.0% $0.2552 LlamaCloud basic + full-context 50.9% $0.1049 Native PDF came 5th of 6 on accuracy and was the most expensive arm at $0.2552 per query. Two findings: Vision underperformed on chart-heavy and table-heavy pages, the territory that the "vision LLMs make OCR obsolete" claim most often points to. Premium OCR with layout extraction held up better there. The native-PDF arm had a 7% intrinsic failure rate (related to PDF file size) that survived retries. There were 27 first-pass failures, with 5 attempts of exponential backoff per failed query. Fifteen recovered, and 12 stayed permanently broken. These were concentrated in two specific PDFs that fail for predictable transport-layer reasons (the blog identifies them). OCR-based arms had a 0% intrinsic failure rate after retries. Caveats: 30 docs is a small sample. I ran McNemar's pairwise test to determine which gaps are real and which are within noise. Only 3 of 15 head-to-head gaps are statistically distinguishable at α = 0.05, so the order in the table is partly noise. The vision-versus-OCR finding survives the test. Full writeup: https://www.surfsense.com/blog/agentic-rag-vs-long-context-llms-benchmark
 
-19h ago
+21h ago
+
+---
+
+**[What Will be the next industries to be completely disrupted by AI?](https://www.reddit.com/r/artificial/comments/1tm6mpt/what_will_be_the_next_industries_to_be_completely/)**
+
+Curious if there are any industries that are not typically considered in the context of AI, which are likely to get disrupted by AI soon, or at least heavily enhanced? Any ideas?
+
+15h ago
 
 ---
 
@@ -99,53 +115,13 @@ New data suggests government workers don’t like Elon Musk’s chatbot. Does an
 
 ---
 
-**[What Will be the next industries to be completely disrupted by AI?](https://www.reddit.com/r/artificial/comments/1tm6mpt/what_will_be_the_next_industries_to_be_completely/)**
-
-Curious if there are any industries that are not typically considered in the context of AI, which are likely to get disrupted by AI soon, or at least heavily enhanced? Any ideas?
-
-13h ago
-
----
-
-**[How to train an Image Generation AI model from scratch as an “experiment”](https://www.reddit.com/r/artificial/comments/1tmm586/how_to_train_an_image_generation_ai_model_from/)**
-
-People use image generation AI every day now, but I feel like almost nobody actually understands what training one looks like underneath. Every time I search about it, I either find insanely complex research papers or fake “train your own AI in one click” videos that skip everything important. It genuinely makes me curious what the real workflow looks like behind training even a small image generation model from scratch just as an experiment. Like how hard is it actually? What part is the real bottleneck? The compute, the data, the architecture, or just understanding all the moving parts together? AI image generation already feels normal now, but the process behind creating those systems still feels weirdly hidden from most people.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Inside the British Lab Hunting for Dangers Lurking in A.I.](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html)**
 
-The New York Times • 13h ago
-
----
-
-**[Google CEO Sundar Pichai says graduates booing AI will shape its future — and live with its consequences](https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt)**
-
-As commencement speakers face restless crowds of new graduates, Google CEO Sundar Pichai says he's ready for his turn at Stanford next month.
-
-Business Insider • 6h ago
-
----
-
-**[Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)**
-
-We're in the transition period -- all of us.
-
-TechCrunch • 53m ago
-
----
-
-**[Bay Area mom out thousands after scammers use AI to mimic daughter's voice in fake kidnapping; part of growing trend](https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/)**
-
-Thousands of dollars were stolen from a Bay Area woman after scammers used artificial intelligence to mimic her daughter's voice in what authorities describe as a growing type of fraud.
-
-ABC7 San Francisco • 1h ago
+The New York Times • 14h ago
 
 ---
 
@@ -153,19 +129,7 @@ ABC7 San Francisco • 1h ago
 
 The pope will join leading Catholic theologians and an Anthropic co-founder on Monday to release a landmark encyclical on “safeguarding the human person in the time of artificial intelligence.”
 
-NBC News • 10h ago
-
----
-
-**[Facing the AI challenge, Leo XIV is asking, ‘What does it mean to be human?’](https://cruxnow.com/news-analysis/2026/05/facing-the-ai-challenge-leo-xiv-is-asking-what-does-it-mean-to-be-human)**
-
-Crux | Taking the Catholic Pulse • 2h ago
-
----
-
-**[Watch Pope Leo Focusing on AI in First Encyclical](https://www.bloomberg.com/news/videos/2026-05-24/pope-leo-focusing-on-ai-in-first-encyclical-video)**
-
-Bloomberg.com • 22h ago
+NBC News • 11h ago
 
 ---
 
@@ -173,13 +137,15 @@ Bloomberg.com • 22h ago
 
 The small Cessna Caravan accelerates down the runway and climbs into the air, all while the pilot beside me keeps his hands off the controls.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
-**[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
+**[Google CEO Sundar Pichai says graduates booing AI will shape its future — and live with its consequences](https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt)**
 
-Politico • 11h ago
+As commencement speakers face restless crowds of new graduates, Google CEO Sundar Pichai says he's ready for his turn at Stanford next month.
+
+Business Insider • 7h ago
 
 ---
 
@@ -187,7 +153,45 @@ Politico • 11h ago
 
 SpaceX is going public with a rocket-company reputation, but its IPO filing points investors mainly to AI.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[What to know about the AI models that are jolting Washington](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)**
+
+Politico • 13h ago
+
+---
+
+**[AI scans 400,000 Reddit posts and finds hidden Ozempic side effects](https://www.sciencedaily.com/releases/2026/05/260523103914.htm)**
+
+By analyzing over 400,000 Reddit posts, researchers discovered that users of popular GLP-1 weight-loss drugs frequently discussed unexpected symptoms like menstrual irregularities, chills, and hot flashes. The findings suggest AI could turn social media into a powerful early-warning system for spotting side effects that clinical trials may miss.
+
+ScienceDaily • 12h ago
+
+---
+
+**[‘AI washing’: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)**
+
+PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
+
+The Guardian • 6h ago
+
+---
+
+**[I’m a Professional Writer Who Uses a Very Controversial Tool. It’s Not As Scary As I Thought.](https://slate.com/technology/2026/05/ai-chatgpt-claude-professional-writing-tool.html)**
+
+I was skeptical about ChatGPT and Claude at first. Then I started to come around—and I’m glad I did.
+
+Slate • 14h ago
+
+---
+
+**[How AI is forcing McKinsey and its peers to rethink pricing](https://www.ft.com/content/8318a754-7b63-4f1f-8978-7691e7ed3511?syn-25a6b1a6=1)**
+
+Clients are questioning the value of advice while getting more used to fees based on successful task completion
+
+Financial Times • 19h ago
 
 ---
 
@@ -215,7 +219,15 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 271 • 💬 109 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 271 • 💬 110 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+
+---
+
+**[Memory has grown to nearly two-thirds of AI chip component costs](https://news.ycombinator.com/item?id=48258684)**
+
+High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
+
+⬆️ 266 • 💬 283 • 7h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
 
 ---
 
@@ -233,19 +245,17 @@ The South Korean chipmaker struck a last-minute deal with its union to avert an 
 
 ---
 
-**[Memory has grown to nearly two-thirds of AI chip component costs](https://news.ycombinator.com/item?id=48258684)**
-
-High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
-
-⬆️ 242 • 💬 261 • 6h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-
----
-
 **[Microsoft reports AI is more expensive than paying human employees](https://news.ycombinator.com/item?id=48244434)**
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
 ⬆️ 228 • 💬 66 • 1d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+
+---
+
+**[DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://news.ycombinator.com/item?id=48257410)**
+
+⬆️ 203 • 💬 2 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
 
 ---
 
@@ -257,17 +267,11 @@ Organisations using AI to cut headcount are making a short-term trade with long-
 
 ---
 
-**[DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://news.ycombinator.com/item?id=48257410)**
-
-⬆️ 187 • 💬 2 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
-
----
-
 **[Don't just paste the AI at me](https://news.ycombinator.com/item?id=48242648)**
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 180 • 💬 113 • 1d ago • [dontquotetheai.com](https://dontquotetheai.com/)
+⬆️ 180 • 💬 113 • 2d ago • [dontquotetheai.com](https://dontquotetheai.com/)
 
 ---
 
@@ -281,27 +285,7 @@ People often compare AI to the internet, but there's one big problem with that c
 
 📺 Vanessa Wingårdh
 
-👁️ 108K • 👍 8K • 💬 3K • ⏱️ 12:37 • 10h ago
-
----
-
-**[Updated Essential AI Skills For 2026](https://www.youtube.com/watch?v=tu4rU4YD1Jk)**
-
-Start building AI apps with Bolt ...
-
-📺 Tina Huang
-
-👁️ 16K • 👍 1K • 💬 76 • ⏱️ 13:45 • 9h ago
-
----
-
-**[The singularity is near: Google unveils next phase of AI](https://www.youtube.com/watch?v=zvJ5KfNjOCk)**
-
-ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unveiled AI agent Gemini Spark, new smart ...
-
-📺 ABC News
-
-👁️ 121K • 👍 2K • 💬 453 • ⏱️ 5:06 • 1d ago
+👁️ 125K • 👍 9K • 💬 3K • ⏱️ 12:37 • 12h ago
 
 ---
 
@@ -311,37 +295,27 @@ Princeton researchers just revealed Continual Harness, a self-improving AI syste
 
 📺 AI Revolution
 
-👁️ 35K • 👍 2K • 💬 182 • ⏱️ 13:31 • 1d ago
+👁️ 36K • 👍 2K • 💬 185 • ⏱️ 13:31 • 2d ago
 
 ---
 
-**[Figure 03 AI Robot Reveals Its UNFAIR Advantage… Humans Can’t Match It](https://www.youtube.com/watch?v=NPOqqDASRCA)**
+**[The singularity is near: Google unveils next phase of AI](https://www.youtube.com/watch?v=zvJ5KfNjOCk)**
 
-A 22-year-old intern just beat a humanoid robot… but this might be the LAST time a human wins like this. In Figure AI's wild Man ...
+ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unveiled AI agent Gemini Spark, new smart ...
 
-📺 The AI Nexus
+📺 ABC News
 
-👁️ 6K • 👍 159 • 💬 36 • ⏱️ 18:21 • 20h ago
-
----
-
-**[How to Make AI Music Videos with Perfect Lip Sync](https://www.youtube.com/watch?v=7ajVhp8qM3U)**
-
-Create Your Own Music Videos with Perfect Lip Sync on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa15 In this video, ...
-
-📺 Isa does AI
-
-👁️ 9K • 💬 3 • ⏱️ 8:51 • 10h ago
+👁️ 136K • 👍 2K • 💬 510 • ⏱️ 5:06 • 1d ago
 
 ---
 
-**[Joe Rogan accidentally exposed AI in four words](https://www.youtube.com/watch?v=waFl4uBfXRA)**
+**[Zuckerberg Caught On SECRET RECORDING:Forcing Employees To Train Their AI Replacements! ](https://www.youtube.com/watch?v=uNrjuGENu44)**
 
-Token mania. I've been a user of Proton for almost a decade and I'm grateful to them for agreeing to sponsor this video. Proton ...
+Leaked audio from a Meta all-hands meeting reveals Mark Zuckerberg telling employees that the company is training AI models ...
 
-📺 Mo Bitar
+📺 The Jimmy Dore Show
 
-👁️ 202K • 👍 11K • 💬 2K • ⏱️ 11:39 • 2d ago
+👁️ 133K • 👍 10K • 💬 2K • ⏱️ 15:52 • 1d ago
 
 ---
 
@@ -351,27 +325,57 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 700K • 👍 21K • 💬 1K • ⏱️ 5:44 • 2d ago
+👁️ 714K • 👍 21K • 💬 1K • ⏱️ 5:44 • 2d ago
 
 ---
 
-**[I Found ALL Paid AI Video Tools in One Place — FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=hFnoAAd-pkQ)**
+**[The AI backlash just got VERY public](https://www.youtube.com/watch?v=nSgXlO6ouAo)**
 
-Try Higgsfield here and create cinematic AI videos with top models in one place → https://higgsfield.ai/s/general-malvaai-jupaTB ...
+Graduation season accidentally became the most honest AI debate of the year. Not because of what tech leaders said on stage, ...
 
-📺 Malva AI
+📺 House of El - AI
 
-👁️ 7K • 👍 406 • 💬 62 • ⏱️ 8:13 • 11h ago
+👁️ 37K • 👍 4K • 💬 1K • ⏱️ 23:21 • 11h ago
 
 ---
 
-**[AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](https://www.youtube.com/watch?v=pC6KHflGye0)**
+**[Joe Rogan accidentally exposed AI in four words](https://www.youtube.com/watch?v=waFl4uBfXRA)**
 
-HUGE AI NEWS: Qwen 3.7, Bytedance Lance, Stable Audio 3, L2P, MegaASR, & more #ai #ainews #aitools #aivideo #agi ...
+Token mania. I've been a user of Proton for almost a decade and I'm grateful to them for agreeing to sponsor this video. Proton ...
 
-📺 AI Search
+📺 Mo Bitar
 
-👁️ 47K • 👍 2K • 💬 199 • ⏱️ 47:07 • 18h ago
+👁️ 205K • 👍 11K • 💬 2K • ⏱️ 11:39 • 2d ago
+
+---
+
+**[Companies Put AI In Charge. Now They’re Paying For It](https://www.youtube.com/watch?v=Jbh8QteVM5g)**
+
+Support the channel on Ko-fi: ➡️ https://ko-fi.com/houseofel 00:00 Introduction 01:11 Disclaimer 01:34 Pizza Hut Shooting Itself ...
+
+📺 House of El - AI
+
+👁️ 78K • 👍 6K • 💬 2K • ⏱️ 18:44 • 2d ago
+
+---
+
+**[Trump posts hilarious AI video of Stephen Colbert being tossed in bin](https://www.youtube.com/watch?v=YaK-QNvjOsg)**
+
+After more than a decade on air, Stephen Colbert has signed off from The Late Show. US President Donald Trump responded on ...
+
+📺 Sky News Australia
+
+👁️ 99K • 👍 5K • 💬 2K • ⏱️ 0:44 • 1d ago
+
+---
+
+**[Their AI fix is not what you think ](https://www.youtube.com/watch?v=M_OHsJ8RUGo)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 29K • 👍 2K • 💬 621 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -387,7 +391,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,474 • ❤️ 756 • 1d ago
+⬇️ 1,474 • ❤️ 760 • 1d ago
 
 ---
 
@@ -399,7 +403,7 @@ Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 
 
 `translation` `2.0B`
 
-⬇️ 4,534 • ❤️ 573 • 2d ago
+⬇️ 4,534 • ❤️ 596 • 2d ago
 
 ---
 
@@ -411,7 +415,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 6,032 • ❤️ 305 • 4d ago
+⬇️ 6,032 • ❤️ 306 • 4d ago
 
 ---
 
@@ -423,7 +427,7 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 `translation` `30.1B`
 
-⬇️ 1,243 • ❤️ 306 • 2d ago
+⬇️ 1,243 • ❤️ 307 • 2d ago
 
 ---
 
@@ -435,7 +439,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 43,119 • ❤️ 643 • 6d ago
+⬇️ 43,119 • ❤️ 645 • 6d ago
 
 ---
 
@@ -447,7 +451,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 84,346 • ❤️ 269 • 3d ago
+⬇️ 84,346 • ❤️ 271 • 3d ago
 
 ---
 
@@ -459,7 +463,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,331,058 • ❤️ 1,321 • 2d ago
+⬇️ 1,331,058 • ❤️ 1,322 • 2d ago
 
 ---
 
@@ -483,7 +487,7 @@ Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabi
 
 `image-text-to-text` `27.3B`
 
-⬇️ 660,321 • ❤️ 450 • 4d ago
+⬇️ 660,321 • ❤️ 455 • 4d ago
 
 ---
 
@@ -515,20 +519,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)**
-
-*Yukang Chen, Luozhou Wang, Wei Huang et al. (16 authors)*
-
-🏢 NVIDIA
-
-LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
-
-▲ 108 • 💬 3 • ⭐ 1,935 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -551,23 +541,23 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 53 • 💬 2 • ⭐ 7,449 • 7mo ago
+▲ 53 • 💬 2 • ⭐ 7,505 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
 ---
 
-**[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)**
+**[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://huggingface.co/papers/2605.18739)**
 
-*Fengyi Fu, Mengqi Huang, Shaojin Wu et al. (13 authors)*
+*Yukang Chen, Luozhou Wang, Wei Huang et al. (16 authors)*
 
-🏢 bytedance-research
+🏢 NVIDIA
 
-Lance is a unified multimodal model that combines understanding, generation, and editing capabilities for images and videos through collaborative multi-task training and a dual-stream architecture.
+LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
 
-▲ 72 • 💬 4 • ⭐ 818 • 7d ago
+▲ 108 • 💬 3 • ⭐ 1,958 • 7d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2605.18678) • [💻 code](https://github.com/bytedance/Lance) • [🔗 project](https://lance-project.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
 
 ---
 
@@ -592,9 +582,23 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Mega-ASR framework improves robustness in real-world speech recognition through compound-data construction and progressive acoustic-to-semantic optimization techniques.
 
-▲ 127 • 💬 3 • ⭐ 448 • 6d ago
+▲ 127 • 💬 3 • ⭐ 499 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.19833) • [💻 code](https://github.com/xzf-thu/Mega-ASR) • [🔗 project](https://xzf-thu.github.io/Mega-ASR/)
+
+---
+
+**[Lance: Unified Multimodal Modeling by Multi-Task Synergy](https://huggingface.co/papers/2605.18678)**
+
+*Fengyi Fu, Mengqi Huang, Shaojin Wu et al. (13 authors)*
+
+🏢 bytedance-research
+
+Lance is a unified multimodal model that combines understanding, generation, and editing capabilities for images and videos through collaborative multi-task training and a dual-stream architecture.
+
+▲ 72 • 💬 4 • ⭐ 835 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.18678) • [💻 code](https://github.com/bytedance/Lance) • [🔗 project](https://lance-project.github.io/)
 
 ---
 
@@ -666,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 10h ago
+⭐ 2.6k • 🔱 179 • 2h ago
 
 ---
 
@@ -704,7 +708,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 1.8k • 🔱 122 • 4d ago
+⭐ 1.8k • 🔱 124 • 4d ago
 
 ---
 
@@ -714,7 +718,17 @@ AI coding jargon, explained in plain English.
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 213 • 17d ago
+⭐ 1.8k • 🔱 214 • 17d ago
+
+---
+
+**[opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)**
+
+OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
+
+`Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
+
+⭐ 1.7k • 🔱 117 • 7h ago
 
 ---
 
@@ -725,16 +739,6 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
 ⭐ 1.7k • 🔱 186 • 3d ago
-
----
-
-**[opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)**
-
-OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
-
-`Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
-
-⭐ 1.7k • 🔱 117 • 5h ago
 
 ---
 
