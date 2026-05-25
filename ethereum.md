@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T08:57:17.554734+00:00'
+updated: '2026-05-25T12:36:03.383026+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 08:57 UTC  
+**Last Updated:** May 25, 2026 at 12:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,116.89
+### $2,115.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** +0.4%  
 **7d:** +0.2%  
 **30d:** -10.7%  
 **90d:** +2.9%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.12B
+**Market Cap:** $255.36B
 Rank #2
 
 **Circulating Supply:** 120,685,518 ETH
@@ -62,7 +62,7 @@ No max supply
 -57.2%
 
 **All-Time Low:** $0.43
-+488249.3%
++488542.6%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+7h ago
+
+---
+
+**[Do you think Ethereum will eventually be used more than Bitcoin?](https://www.reddit.com/r/ethereum/comments/1tn5hvb/do_you_think_ethereum_will_eventually_be_used/)**
+
+Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
+
+1h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
 
-🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 8h ago
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 11h ago
 
 ---
 
@@ -140,14 +148,6 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 ---
 
-**[The Ethereum Foundation security discussions this week made me rethink my wallet setup](https://www.reddit.com/r/ethereum/comments/1titnxf/the_ethereum_foundation_security_discussions_this/)**
-
-Been thinking a lot about the Ethereum Foundation security conversations this week and I realized my whole mental model around wallet safety was still kinda outdated. I always thought good security mostly meant keeping keys offline, backing up the seed phrase properly and avoiding obvious phishing attempts. But now it feels like transaction interpretation itself is becoming just as important. Most people aren’t losing funds because cryptography failed. They’re losing funds because they approved something they didn’t fully understand while interacting with increasingly complicated protocols. Makes me wonder if blind signing eventually becomes viewed as completely unacceptable UX in crypto.
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Been thinking a lot about the Ethereum Foundation security conversations this we
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 14h ago
+The Block • 18h ago
 
 ---
 
@@ -164,51 +164,21 @@ The Block • 14h ago
 
 Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-The Motley Fool • 8h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326871380082514)**
+**[Bitcoin and ethereum prices today, Monday, May 25, 2026: Down from last week, but rising this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-25-2026-down-from-last-week-but-rising-this-morning-121507080.html)**
 
-Binance • 26m ago
+Bitcoin opened at $76,969.03 on Monday, and as of 8:00 a.m. ET, the price of bitcoin moved higher to $77,292.81. Ethereum opened at $2,097.55 on Monday and was $2,112.89 as of 8:00 a.m. ET.
 
----
-
-**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
-
-BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Will Ethereum Ever Move Past $4,000 Again?](https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/)**
-
-Ethereum trades at $2,091 today, 57% below its $4,946 ATH. Here's what's keeping it down, what could push it past $4,000.
-
-24/7 Wall St. • 11h ago
+Yahoo Finance • 20m ago
 
 ---
 
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
-Reuters • 2d ago
-
----
-
-**[Ethereum Price Builds Momentum For Another Bullish Surge Ahead](https://www.tradingview.com/news/newsbtc:499b59a08094b:0-ethereum-price-builds-momentum-for-another-bullish-surge-ahead/)**
-
-Ethereum price started a downside correction from $2,150. ETH must clear the $2,120 and $2,150 resistance levels to continue higher.Ethereum Price Holds SupportEthereum price failed to stay above the $2,145 zone and extended its decline, like Bitcoin. ETH price gained pace for a move below the $2,1…
-
-TradingView • 3h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
-
-FXStreet • 5h ago
+Reuters • 3d ago
 
 ---
 
@@ -216,13 +186,45 @@ FXStreet • 5h ago
 
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-CryptoSlate • 19h ago
+CryptoSlate • 23h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
+
+FXStreet • 8h ago
+
+---
+
+**[Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens](https://www.tradingview.com/news/cointelegraph:9cbe92e11094b:0-tom-lee-s-ethereum-portfolio-down-7-35b-as-eth-price-outlook-worsens/)**
+
+Tom Lee’s BitMine faces about $7.3 billion in paper losses on its Ethereum treasury as Ether (ETH) traders weigh worsening sentiment, ETF outflows and a bearish chart setup pointing toward $1,600.Key takeaways:Bitmine's ETH treasury dashboard. Source: DropStab.COMLee continues buying ETH despite mo…
+
+TradingView • 21h ago
 
 ---
 
 **[Ethereum holds 55% of stablecoins, yet ETH trades below $2.4K – Justified?](https://ambcrypto.com/ethereum-holds-55-of-stablecoins-yet-eth-trades-below-2-4k-justified/)**
 
-AMBCrypto • 57m ago
+AMBCrypto • 4h ago
+
+---
+
+**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
+
+Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
+
+Crypto Briefing • 1d ago
+
+---
+
+**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals - Grayscale Ethereum Staking](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
+
+Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
+
+Benzinga • 17h ago
 
 ---
 
@@ -236,7 +238,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 1K • 💬 151 • ⏱️ 16:50 • 18h ago
+👁️ 29K • 👍 1K • 💬 163 • ⏱️ 16:50 • 22h ago
 
 ---
 
@@ -246,7 +248,7 @@ BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ether
 
 📺 Crypto Sensei
 
-👁️ 20K • 👍 1K • 💬 246 • ⏱️ 18:13 • 10h ago
+👁️ 23K • 👍 1K • 💬 256 • ⏱️ 18:13 • 14h ago
 
 ---
 
@@ -256,17 +258,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 31K • 👍 1K • 💬 120 • ⏱️ 24:12 • 1d ago
-
----
-
-**[Lyn Alden :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=1Uk-o8yZ4Y0)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 201 • 💬 30 • ⏱️ 25:04 • 1d ago
+👁️ 32K • 👍 1K • 💬 121 • ⏱️ 24:12 • 1d ago
 
 ---
 
@@ -276,7 +268,17 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 488 • 💬 62 • ⏱️ 10:01 • 1d ago
+👁️ 8K • 👍 491 • 💬 69 • ⏱️ 10:01 • 1d ago
+
+---
+
+**[Lyn Alden :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=1Uk-o8yZ4Y0)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 206 • 💬 30 • ⏱️ 25:04 • 1d ago
 
 ---
 
@@ -286,7 +288,7 @@ We discuss the higher time frame structure, why the current move still looks cor
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 163 • 💬 8 • ⏱️ 10:05 • 10h ago
+👁️ 4K • 👍 202 • 💬 11 • ⏱️ 10:05 • 14h ago
 
 ---
 
@@ -294,27 +296,7 @@ We discuss the higher time frame structure, why the current move still looks cor
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 228 • 💬 6 • ⏱️ 1:17 • 7h ago
-
----
-
-**[David Sold His ETH...Here&#39;s Why](https://www.youtube.com/watch?v=0KLHV_zttys)**
-
-METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Crypto's old leaders are struggling, but ...
-
-📺 Bankless
-
-👁️ 21K • 👍 618 • 💬 249 • ⏱️ 1:11:25 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=RazOztY5rxc)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 87 • ⏱️ 7:30 • 19h ago
+👁️ 4K • 👍 265 • 💬 26 • ⏱️ 1:17 • 11h ago
 
 ---
 
@@ -324,7 +306,25 @@ http://www.x10daytrading.com/?video=6sXADj5P16M TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 3K • 👍 107 • 💬 19 • ⏱️ 10:35 • 10h ago
+👁️ 3K • 👍 115 • 💬 27 • ⏱️ 10:35 • 14h ago
+
+---
+
+**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
+
+XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 376 • 💬 30 • ⏱️ 26:45 • 2d ago
+
+---
+
+**[MISLEADING XRP STORY! WHY THIS IS BEARISH #xrp #bitcoin #ethereum](https://www.youtube.com/watch?v=TWpRwqghhAg)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 219 • 💬 10 • ⏱️ 0:59 • 1d ago
 
 ---
 
