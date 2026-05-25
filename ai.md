@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-25T12:36:03.370246+00:00'
+updated: '2026-05-25T15:51:28.022520+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 25, 2026 at 12:36 UTC  
+**Last Updated:** May 25, 2026 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 We have entered the era of artificial general intelligence.
 
-3h ago
+6h ago
+
+---
+
+**[AI agents need audit trails more than they need more autonomy](https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/)**
+
+A lot of people talk about AI agents like the main goal is making them more independent. But the more I think about it, the bigger issue is probably visibility. If an AI is only answering a question, it is easy to judge the result. But once it starts doing things across websites, accounts, forms, support systems, or emails, users need to know exactly what happened. What did it click. What did it submit. What did it ask. Where did it fail. When did it decide to continue, retry, or stop. Without that kind of audit trail, even a smart agent feels hard to trust. A small mistake can hide inside a long workflow, and by the time the user notices, the problem may already be messy. The next useful version of AI agents might not be the one that acts the most independently. It might be the one that makes every step clear enough that a normal user can trust what it did.
+
+1h ago
 
 ---
 
@@ -49,7 +57,23 @@ We have entered the era of artificial general intelligence.
 
 Im pretty much looking for where to get the most for the least amount of money. But with so many providers and most not even clearly stating their usage limits things get confusing fast. Any of you have a tip?
 
-33m ago
+3h ago
+
+---
+
+**[Future Prediction](https://www.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/)**
+
+I have a prediction that companies laying off workers thinking they can be replaced by AI are going to have a mess on their hands in a couple years. Execs think AI can do employees’ jobs and in many cases it can’t. This thinking would be like laying off workers because computers were invented. Between the loss of institutional knowledge, quality/hallucination issues with AI and the need for human supervision I believe these layoffs are extremely short-sighted. Thoughts?
+
+1h ago
+
+---
+
+**[Sam Altman’s startup is hoping Jared Leto’s band will get you to scan your eyeball](https://www.reddit.com/r/artificial/comments/1tn9ktk/sam_altmans_startup_is_hoping_jared_letos_band/)**
+
+A new tool helps artists stop bots from buying up concert tickets. Instead, it reserves spots for fans who are ‘human-verified’ by iris-scanning orbs.
+
+🔗 [sfstandard.com](https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/) • 2h ago
 
 ---
 
@@ -57,21 +81,29 @@ Im pretty much looking for where to get the most for the least amount of money. 
 
 Can someone help me understand this? I mean, how on earth are these companies who are planning to replace us all with beep boops expecting these unimaginably high expense technologies to be better for their bottom line than just paying us low wage unwashed masses? I mean, some dude (respectfully, I use that term genderlessly) here just posted about min wage in their area being $7.25! You are not getting a robot or AI that costs less annualized. Even adding in annual benefits - that is a steal compared to data centers and complex robots who will be absurdly expensive to fix when they break. I’m a white collar worker with deep knowledge of worker costs, even at the top it’s cheaper than what all of this new buggy crap is going to cost. I’m so confused. What am I missing? Why are the evil overlords not interested in our already too cheap labor? EDIT: I just want to thank everyone for the discussion on this. There are so many different situations and buckets of AI, it can be an imprecise topic, but the high level viewpoints have been helpful.
 
-21h ago
+1d ago
 
 ---
 
-**[Testing a Cold War-Era AI on Satellite Image Datasets](https://www.reddit.com/r/artificial/comments/1tmnb54/testing_a_cold_warera_ai_on_satellite_image/)**
+**[Anthropic moves closer to powering America's spy agencies](https://www.reddit.com/r/artificial/comments/1tn8nt0/anthropic_moves_closer_to_powering_americas_spy/)**
 
-I came across a cool model developed during the Cold War. I wanted to see how it would perform at image recognition, so I downloaded the UC Merced Land Use Dataset and wrote a script to add Gaussian noise to the photos and measure performance over a series of trials using Monte Carlo simulations. It is very efficient and appears well suited for FPGA implementation. It only uses about 50 MB of RAM. The satellite photos are converted to grayscale, downscaled to roughly 32×32, and converted into a fingerprint that is roughly 128 bytes in size. Therefore, the database of 800 TIFs is about 100 KB total. I’ll include the test and debug images so you can see how the process works. The model basically selects the stored pattern that best matches the noisy input based on what it has learned from the data.
+The Trump administration is finalizing a deal that would give U.S. intelligence agencies access to Anthropic's AI models, with the NSA expected to play a
 
-16h ago
+🔗 [Startup Fortune](https://startupfortune.com/anthropic-moves-closer-to-powering-americas-spy-agencies/) • 2h ago
+
+---
+
+**[Google AI](https://www.reddit.com/r/artificial/comments/1tnclc3/google_ai/)**
+
+How does everyone feel about Google switching to AI tomorrow?
+
+20m ago
 
 ---
 
 **[How to Hit Claude Limits in One Click](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -79,39 +111,7 @@ I came across a cool model developed during the Cold War. I wanted to see how it
 
 I spent some time mapping companies that publicly describe their products as AI employees, digital workers, AI teammates, or role-based agents. The pattern was more concrete than I expected. A lot of the market is not positioning around general intelligence. It is positioning around a specific recurring job: - AI SDRs and sales agents - AI customer support agents - AI recruiters - AI accountants and finance agents - legal and compliance agents - software engineering and SRE agents - security / SOC analysts - healthcare admin agents - broader AI workforce platforms What stood out to me is that “agent” is still a vague technical word, but “AI employee” is a very direct buyer-facing claim. It implies ownership of work, not just assistance. That raises a few questions: Is “AI employee” a useful category, or just aggressive marketing language? Which workflows are actually ready for this framing? Do buyers want named role-based AI workers, or will this collapse back into normal workflow automation software? My current read: the category is real as positioning, but uneven as product reality. Sales, support, recruiting, security, legal, and back-office work seem furthest along because the workflow and ROI are legible.
 
-4h ago
-
----
-
-**[A pool-table physics simulator built around next-state prediction](https://www.reddit.com/r/artificial/comments/1tn0mx1/a_pooltable_physics_simulator_built_around/)**
-
-I’ve been trying to make an abstract physics/philosophy idea testable by turning it into a pool-table simulator. The idea is to compare normal physics with an experimental “next state prediction” model. Instead of starting with causality as the main concept, the experimental side asks: given the current state of the system, what next state is the most coherent continuation? Pool is useful because it is visually simple: balls move, collide, bounce off walls, and either the prediction works or it visibly goes wrong. This is very much a toy model, not a grand claim about physics. But I’m interested in whether this kind of simulator could be a useful way to test ideas about causality, information, and dynamic similarity rather than just discussing them in words. Any feedback or ideas, let me know.
-
-🔗 [informationism.org](https://www.informationism.org/causality/) • 6h ago
-
----
-
-**[The problem of 'brand' facing the platform providers in the age of AI](https://www.reddit.com/r/artificial/comments/1tmshey/the_problem_of_brand_facing_the_platform/)**
-
-It is easy to forecast that the majority of use a particular platform provider (Gmail, etc) will face in the next few years will be from non-UI-using AI agents. AI agents will open up (say) Gmail using OAuth, fiddle around reading/writing emails, changing settings, etc etc... all without using the traditional UI. So Gmail itself will become more of a process of AI, rather than a standalone application in its own right. This, of course, will destroy the brand which has required years/dollars$ to create and maintain. I can see these platform providers fighting back and either limiting the non-UI access, or banning it outright. So I see this all coming to a nasty fight in the next few years. Any thoughts?
-
-12h ago
-
----
-
-**[I was messing with agentic organizational strategies and came up with an automated starfish that solves social problems](https://www.reddit.com/r/artificial/comments/1tn3cys/i_was_messing_with_agentic_organizational/)**
-
-Not a promotion because it's not for sale 😎
-
-3h ago
-
----
-
-**["I'm retired. I showed my MS Paint paintings to AI for feedback. It accidentally invented an entire fake art movement. Google believes it's real."](https://www.reddit.com/r/artificial/comments/1tmb7c6/im_retired_i_showed_my_ms_paint_paintings_to_ai/)**
-
-"I'm retired and started showing my MS Paint paintings to AI for criticism. The AI invented feuding critics, manifestos and a legal barrister to defend my work. Google now has a definition for my made up term. Here's what an accidental human/AI creative partnership looks like." Ralph Rumpelton https://zootsims1.wordpress.com/
-
-23h ago
+8h ago
 
 ---
 
@@ -119,17 +119,23 @@ Not a promotion because it's not for sale 😎
 
 ## Google News: "ai"
 
-**[Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)**
+**[Pope Leo Compares AI Threat to Biblical ‘Tower of Babel’](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c)**
 
-The New York Times • 2h ago
+WSJ • 5h ago
 
 ---
 
-**[Beware the boom and bust cycle of memory stocks, investors warn amid AI excitement](https://www.cnbc.com/2026/05/25/memory-stocks-cyclical-boom-bust-samsung-sk-hynix.html)**
+**[AI, longevity, and the World Cup: Inside JPMorgan's summer reading list](https://www.businessinsider.com/books-summer-reading-jpmorgan-wealth-ai-world-cup-longevity-success-2026-5)**
 
-"In the long run, it's a pretty dreadful industry," William de Gale of BlueBox Asset Management, told CNBC's Europe Early Edition on Wednesday.
+JPMorgan's 27th annual summer reading list features nonfiction books on trending topics, from AI to longevity.
 
-CNBC • 7h ago
+Business Insider • 31m ago
+
+---
+
+**[One Job That Is Growing in the A.I. Era? Cybersecurity Experts.](https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html)**
+
+The New York Times • 51m ago
 
 ---
 
@@ -137,43 +143,29 @@ CNBC • 7h ago
 
 History’s first American pontiff was writing in his first encyclical, a sweeping and eagerly anticipated manifesto on the subject that was released Monday.
 
-NBC News • 1h ago
+NBC News • 4h ago
 
 ---
 
-**[Pope Leo calls to 'disarm' AI in major document, warns of technologic threats to humanity](https://www.ncronline.org/vatican/vatican-news/pope-leo-calls-disarm-ai-major-document-warns-technologic-threats-humanity)**
+**[Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)**
 
-In Magnifica Humanitas, the pope says just war theory is "outdated," condemns lethal AI weapons and asks pardon for the church's delayed condemnation of slavery.
+Marking the 135th anniversary of Rerum novarum, Pope Leo XIV releases his first encyclical, entitled ‘Magnifica humanitas: On Safeguarding the Human ...
 
-National Catholic Reporter • 3h ago
-
----
-
-**[Pope Leo urges world to 'slow down' on AI in fervent first manifesto](https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/)**
-
-Reuters • 1h ago
+Vatican News • 6h ago
 
 ---
 
-**[This big university system is embracing AI. Students and faculty aren't all on board](https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university)**
+**[Pope, urging AI regulation, warns some weapons now beyond human control](https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/)**
 
-The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.
-
-NPR • 3h ago
+Reuters • 23m ago
 
 ---
 
-**[My son taught me AI coding at 73. I was scared to hit 'enter' — now I feel free.](https://www.businessinsider.com/woman-learns-ai-coding-age-73-from-son-2026-5)**
+**[Pope Leo’s Unsettling Vision of the AI Future](https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/)**
 
-Carol Merlo wanted to build her own website without Weebly or Wix. She asked her son, Kevin Masterson, to help.
+His new encyclical, Magnifica Humanitas, seeks to counterbalance alarm with hope but lands firmly on one side.
 
-Business Insider • 2h ago
-
----
-
-**[Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta](https://www.wsj.com/tech/ai/meta-andrew-bosworth-ai-3df12d4f)**
-
-WSJ • 7h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -181,15 +173,23 @@ WSJ • 7h ago
 
 An LBS Grad -- and Founder of an AI Venture -- Shares Why an MBA Is More Valuable Than Ever in an AI-driven World
 
-Poets&Quants • 3h ago
+Poets&Quants • 7h ago
 
 ---
 
-**[DOE Explains...Artificial Intelligence](https://www.energy.gov/science/doe-explainsartificial-intelligence)**
+**[Want to hop off the AI trade? Goldman says buy these stocks that have nothing to do with it](https://www.cnbc.com/2026/05/25/want-to-hop-off-the-ai-trade-goldman-says-buy-these-stocks-that-have-nothing-to-do-with-it.html)**
 
-DOE Explains...Artificial Intelligence
+Stocks such as Eli Lilly and Fortinet are less correlated to the artificial intelligence frenzy, according to Goldman Sachs.
 
-Department of Energy (.gov) • 2d ago
+CNBC • 4h ago
+
+---
+
+**[AI Bubble Fears Grow as Big Tech Allegedly Pays Itself in Cloud Loop](https://finance.yahoo.com/sectors/technology/articles/ai-bubble-fears-grow-big-131548421.html)**
+
+AI bubble fears grow as Big Tech allegedly recycles AI investments into cloud revenue, fueling dot-com style worries.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,15 +201,7 @@ Department of Energy (.gov) • 2d ago
 
 High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
 
-⬆️ 405 • 💬 429 • 20h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-
----
-
-**[AI has a multiplying effect on existing technical skills](https://news.ycombinator.com/item?id=48235526)**
-
-Friendly articles and tutorials for front-end web developers. ❤️
-
-⬆️ 337 • 💬 311 • 2d ago • [joshwcomeau.com](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+⬆️ 413 • 💬 450 • 23h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
 
 ---
 
@@ -217,13 +209,21 @@ Friendly articles and tutorials for front-end web developers. ❤️
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 280 • 💬 113 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 282 • 💬 116 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 259 • 💬 202 • 2d ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 260 • 💬 202 • 2d ago • [isaiprofitable.com](https://isaiprofitable.com/)
+
+---
+
+**[Pope Leo XIV says AI must serve humanity, not the powerful few](https://news.ycombinator.com/item?id=48266485)**
+
+VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.
+
+⬆️ 240 • 💬 99 • 2h ago • [RNS](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
 
 ---
 
@@ -231,13 +231,13 @@ Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 b
 
 Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.
 
-⬆️ 228 • 💬 70 • 2d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+⬆️ 229 • 💬 70 • 2d ago • [Fortune](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 
 ---
 
 **[DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://news.ycombinator.com/item?id=48257410)**
 
-⬆️ 208 • 💬 2 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
+⬆️ 209 • 💬 2 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
 
 ---
 
@@ -245,7 +245,7 @@ Companies are racing to incentivize employees to use AI. But as some companies a
 
 If someone asks you a question, paste your answer — not the chatbot's.
 
-⬆️ 180 • 💬 113 • 2d ago • [dontquotetheai.com](https://dontquotetheai.com/)
+⬆️ 181 • 💬 113 • 2d ago • [dontquotetheai.com](https://dontquotetheai.com/)
 
 ---
 
@@ -253,7 +253,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
 
-⬆️ 164 • 💬 150 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
+⬆️ 171 • 💬 154 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
 
 ---
 
@@ -261,7 +261,7 @@ PR executives say UK companies are forcing them to present ordinary automation a
 
 An open-source database of AI models. Contribute to anomalyco/models.dev development by creating an account on GitHub.
 
-⬆️ 156 • 💬 27 • 2d ago • [GitHub](https://github.com/anomalyco/models.dev)
+⬆️ 158 • 💬 27 • 2d ago • [GitHub](https://github.com/anomalyco/models.dev)
 
 ---
 
@@ -277,23 +277,13 @@ We own 3 full size, full motion simulators and they are available for purchase: 
 
 ## YouTube Videos: "ai"
 
-**[It’s Happening... Anthropic MYTHOS 1 Is Here!](https://www.youtube.com/watch?v=rDDI9gDiNAg)**
+**[FULL SPEECH: Pope Leo XIV Warns AI “Needs To Be Disarmed” In Explosive Vatican Speech | AK1B](https://www.youtube.com/watch?v=aaYJ_4QcZfE)**
 
-Claude Mythos 1 and Anthropic's Claude Security are now at the center of a massive AI cybersecurity story. Project Glasswing ...
+Pope Leo XIV unveiled his first encyclical, Magnifica Humanitas, at the Vatican, warning that artificial intelligence “needs to be ...
 
-📺 AI Revolution
+📺 DRM News
 
-👁️ 36K • 👍 1K • 💬 94 • ⏱️ 14:27 • 13h ago
-
----
-
-**[AI Just Crossed The Line We Were Afraid Of: Continual Harness](https://www.youtube.com/watch?v=qCFyprzrCvA)**
-
-Princeton researchers just revealed Continual Harness, a self-improving AI system that learns while it is already running.
-
-📺 AI Revolution
-
-👁️ 38K • 👍 2K • 💬 192 • ⏱️ 13:31 • 2d ago
+👁️ 5K • 👍 475 • 💬 47 • ⏱️ 11:16 • 4h ago
 
 ---
 
@@ -303,37 +293,17 @@ ABC News' Nathan Rousseau Smith travels to Google I/O where the search giant unv
 
 📺 ABC News
 
-👁️ 189K • 👍 3K • 💬 656 • ⏱️ 5:06 • 2d ago
+👁️ 196K • 👍 3K • 💬 711 • ⏱️ 5:06 • 2d ago
 
 ---
 
-**[We Just Bought 3 AI Data Center Stocks Before They Explode](https://www.youtube.com/watch?v=pX9-4Q6pSTg)**
+**[AI Just Crossed The Line We Were Afraid Of: Continual Harness](https://www.youtube.com/watch?v=qCFyprzrCvA)**
 
-AI isn't just about Nvidia anymore. In this video, we break down 3 AI data center stocks quietly benefiting from the next phase of ...
+Princeton researchers just revealed Continual Harness, a self-improving AI system that learns while it is already running.
 
-📺 Navellier Market Buzz
+📺 AI Revolution
 
-👁️ 38K • 👍 2K • 💬 174 • ⏱️ 11:09 • 22h ago
-
----
-
-**[People Trashed Billie Eilish Over a FAKE Outfit 😳 #billieeilish #metgala #ai](https://www.youtube.com/watch?v=Mr0C-sAH8uQ)**
-
-People Trashed Billie Eilish Over a FAKE Outfit Billie Eilish never even attended the Met Gala this year, but AI photos of her still ...
-
-📺 Fame Feed 
-
-👁️ 4K • ⏱️ 0:37 • 20h ago
-
----
-
-**[Nobody Actually Wants AI Anymore](https://www.youtube.com/watch?v=FQpZdCKgc6w)**
-
-People often compare AI to the internet, but there's one big problem with that comparison: people naturally adopted the internet as ...
-
-📺 Vanessa Wingårdh
-
-👁️ 167K • 👍 12K • 💬 4K • ⏱️ 12:37 • 1d ago
+👁️ 39K • 👍 2K • 💬 193 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -343,17 +313,37 @@ Try Accio Work : https://www.accio.com/work?src=p_ytkol_vaibhav @Accio_official 
 
 📺 Vaibhav Sisinty
 
-👁️ 63K • 👍 2K • 💬 89 • ⏱️ 16:03 • 21h ago
+👁️ 69K • 👍 3K • 💬 94 • ⏱️ 16:03 • 1d ago
 
 ---
 
-**[Building A.I.: The Deep Mind Behind the Moment](https://www.youtube.com/watch?v=x8Rx0S6kzaY)**
+**[Dario and Sam have a problem...](https://www.youtube.com/watch?v=caJUD2c3QRQ)**
 
-Google DeepMind CEO and co-founder Sir Demis Hassabis speaks exclusively with ABC News' Rebecca Jarvis about AI ...
+A quick look at local AI models. Topics: - Local models get serious; - Why Apple Silicon matters; - Llama.cpp and quantization; ...
 
-📺 ABC News
+📺 Awesome
 
-👁️ 14K • 👍 374 • 💬 49 • ⏱️ 20:53 • 2d ago
+👁️ 26K • 👍 2K • 💬 265 • ⏱️ 8:43 • 6h ago
+
+---
+
+**[It’s Happening... Anthropic MYTHOS 1 Is Here!](https://www.youtube.com/watch?v=rDDI9gDiNAg)**
+
+Claude Mythos 1 and Anthropic's Claude Security are now at the center of a massive AI cybersecurity story. Project Glasswing ...
+
+📺 AI Revolution
+
+👁️ 42K • 👍 2K • 💬 102 • ⏱️ 14:27 • 16h ago
+
+---
+
+**[Nobody Actually Wants AI Anymore](https://www.youtube.com/watch?v=FQpZdCKgc6w)**
+
+People often compare AI to the internet, but there's one big problem with that comparison: people naturally adopted the internet as ...
+
+📺 Vanessa Wingårdh
+
+👁️ 181K • 👍 12K • 💬 4K • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -363,17 +353,27 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 770K • 👍 22K • 💬 1K • ⏱️ 5:44 • 2d ago
+👁️ 785K • 👍 23K • 💬 1K • ⏱️ 5:44 • 2d ago
 
 ---
 
-**[Why the AI boom is about to hit a wall](https://www.youtube.com/watch?v=Poyi6X7rOwY)**
+**[Building A.I.: The Deep Mind Behind the Moment](https://www.youtube.com/watch?v=x8Rx0S6kzaY)**
 
-Full Post w/ Prompt Pack: ...
+Google DeepMind CEO and co-founder Sir Demis Hassabis speaks exclusively with ABC News' Rebecca Jarvis about AI ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 ABC News
 
-👁️ 32K • 👍 941 • 💬 139 • ⏱️ 23:37 • 19h ago
+👁️ 14K • 👍 379 • 💬 50 • ⏱️ 20:53 • 2d ago
+
+---
+
+**[AI just revealed 4K detail in this UFO footage](https://www.youtube.com/watch?v=-0fV-GG-Fw0)**
+
+This UFO footage was only 144p… Now it's HD/4K AI is revealing details people never noticed before. Comment “UPSCALE” if ...
+
+📺 Clipcut
+
+👁️ 920 • 👍 20 • 💬 1 • ⏱️ 0:21 • 51m ago
 
 ---
 
@@ -389,7 +389,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,679 • ❤️ 784 • 2d ago
+⬇️ 1,679 • ❤️ 797 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Hy-MT2-1.8B is a fast, 1.8B parameter multilingual translation model supporting 
 
 `translation` `2.0B`
 
-⬇️ 5,552 • ❤️ 716 • 3d ago
+⬇️ 5,552 • ❤️ 740 • 3d ago
 
 ---
 
@@ -413,7 +413,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 7,291 • ❤️ 326 • 5d ago
+⬇️ 7,291 • ❤️ 331 • 5d ago
 
 ---
 
@@ -425,7 +425,7 @@ Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation m
 
 `translation` `30.1B`
 
-⬇️ 1,494 • ❤️ 320 • 3d ago
+⬇️ 1,494 • ❤️ 321 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 90,026 • ❤️ 276 • 4d ago
+⬇️ 90,026 • ❤️ 277 • 4d ago
 
 ---
 
@@ -449,7 +449,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 45,800 • ❤️ 659 • 7d ago
+⬇️ 45,800 • ❤️ 661 • 7d ago
 
 ---
 
@@ -461,19 +461,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,354,786 • ❤️ 1,337 • 3d ago
-
----
-
-**[Qwen3.6-27B-MTP-GGUF](https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabilities, optimized for faster inference via MTP. It excels at agentic coding, reasoning, and handling extended contexts up to 1M tokens, making it suitable for complex development workflows and iterative tasks.
-
-`image-text-to-text` `27.3B`
-
-⬇️ 695,277 • ❤️ 464 • 5d ago
+⬇️ 1,354,786 • ❤️ 1,339 • 3d ago
 
 ---
 
@@ -485,19 +473,29 @@ Command A+ is a 25B parameter, multilingual, vision-capable LLM optimized for ag
 
 `image-text-to-text` `125.8B`
 
-⬇️ 7,449 • ❤️ 194 • 2d ago
+⬇️ 7,449 • ❤️ 198 • 3d ago
 
 ---
 
-**[MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**
+**[Qwen3.6-27B-MTP-GGUF](https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF)**
 
-*OpenBMB*
+*Unsloth AI*
 
-MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device image and video understanding, offering strong foundation and multimodal capabilities with mixed visual token compression for flexible speed/accuracy trade-offs.
+Qwen3.6-27B-MTP-GGUF is a 27B parameter causal language model with vision capabilities, optimized for faster inference via MTP. It excels at agentic coding, reasoning, and handling extended contexts up to 1M tokens, making it suitable for complex development workflows and iterative tasks.
 
-`image-text-to-text` `1.3B`
+`image-text-to-text` `27.3B`
 
-⬇️ 285,414 • ❤️ 936 • 5d ago
+⬇️ 695,277 • ❤️ 466 • 5d ago
+
+---
+
+**[LongCat-Video-Avatar-1.5](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5)**
+
+*LongCat*
+
+LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
+
+⬇️ 0 • ❤️ 193 • 3d ago
 
 ---
 
@@ -511,9 +509,23 @@ MiniCPM-V 4.6 is an ultra-efficient, pocket-sized multimodal LLM for on-device i
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 81 • 💬 3 • ⭐ 79,292 • 17mo ago
+▲ 81 • 💬 3 • ⭐ 79,445 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 147 • 💬 2 • ⭐ 72 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -624,20 +636,6 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 ---
 
-**[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
-
-*Ruofeng Yang, Yongcan Li, Shuai Li*
-
-🏢 Shanghai Jiao Tong University
-
-ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
-
-▲ 120 • 💬 10 • ⭐ 10,526 • 21d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -668,7 +666,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 1h ago
+⭐ 2.6k • 🔱 179 • 5h ago
 
 ---
 
@@ -696,7 +694,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 2.1k • 🔱 476 • 5h ago
+⭐ 2.2k • 🔱 480 • 8h ago
 
 ---
 
@@ -726,7 +724,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.8k • 🔱 119 • 3h ago
+⭐ 1.8k • 🔱 121 • 6h ago
 
 ---
 
@@ -736,7 +734,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.7k • 🔱 189 • 4h ago
+⭐ 1.7k • 🔱 189 • 7h ago
 
 ---
 

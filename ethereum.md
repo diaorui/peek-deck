@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T12:36:03.383026+00:00'
+updated: '2026-05-25T15:51:28.035271+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 12:36 UTC  
+**Last Updated:** May 25, 2026 at 15:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,49 +36,57 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,115.65
+### $2,124.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +0.2%  
-**30d:** -10.7%  
-**90d:** +2.9%  
-**1y:** -17.4%  
+**24h:** +1.0%  
+**7d:** +0.6%  
+**30d:** -10.3%  
+**90d:** +3.3%  
+**1y:** -17.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.36B
+**Market Cap:** $256.22B
 Rank #2
 
 **Circulating Supply:** 120,685,518 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.2%
+-57.1%
 
 **All-Time Low:** $0.43
-+488542.6%
++490046.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Do you think Ethereum will eventually be used more than Bitcoin?](https://www.reddit.com/r/ethereum/comments/1tn5hvb/do_you_think_ethereum_will_eventually_be_used/)**
+
+Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
+
+5h ago
+
+---
+
 **[Daily General Discussion May 25, 2026](https://www.reddit.com/r/ethereum/comments/1tmyynn/daily_general_discussion_may_25_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+10h ago
 
 ---
 
-**[Do you think Ethereum will eventually be used more than Bitcoin?](https://www.reddit.com/r/ethereum/comments/1tn5hvb/do_you_think_ethereum_will_eventually_be_used/)**
+**[The DEX I use added a new protocol fee I only just found out about three months in](https://www.reddit.com/r/ethereum/comments/1tnab52/the_dex_i_use_added_a_new_protocol_fee_i_only/)**
 
-Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
+I've been using the same DEX for about six months. Found out today that three months ago they added a 0.15% protocol fee on top of the existing LP fee. It's in their documentation but there was no notification, no banner, nothing in the app. I've been paying it without realizing. Over three months on my trading volume that's not trivial. Is there any way to recover this or is it just a loss
 
 1h ago
 
@@ -88,7 +96,7 @@ Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastruct
 
 Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
 
-🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 11h ago
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 15h ago
 
 ---
 
@@ -128,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 3d ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[the snapshot problem in restaking governance](https://www.reddit.com/r/ethereum/comments/1tjom7a/the_snapshot_problem_in_restaking_governance/)**
-
-i keep coming back to a gap in the OZ Governor pattern when the underlying is a restaking position. ERC20Votes snapshots voting weight at proposal-creation block, which works fine for plain governance tokens. But between snapshot and execution the token can get slashed by an AVS, re-staked into a different operator set, or re-delegated. The recorded balance no longer matches the real economic stake by the time the call lands. The standard answer is snapshot-and-shrug. Let slashed stake keep its vote, treat the drift as a known anti-feature. the alternative is to re-evaluate at execution against current stake, but then results can flip after voters have signed off, which kills predictability. every restaking-era governor i've looked at picks option one. so the honest position is that restaking and token-vote governance aren't compatible at the precision people pretend, and the gap shows up at execution time. we built a governance stack for exactly this execution-time drift, OZ Governor extensions plus a security council role that can block execution when on-chain stake diverges from the snapshot, https://s4l.ai/r/iqhdj5sm
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ i keep coming back to a gap in the OZ Governor pattern when the underlying is a 
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 18h ago
+The Block • 21h ago
 
 ---
 
@@ -164,15 +164,15 @@ The Block • 18h ago
 
 Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-The Motley Fool • 11h ago
+The Motley Fool • 15h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, May 25, 2026: Down from last week, but rising this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-25-2026-down-from-last-week-but-rising-this-morning-121507080.html)**
+**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
 
-Bitcoin opened at $76,969.03 on Monday, and as of 8:00 a.m. ET, the price of bitcoin moved higher to $77,292.81. Ethereum opened at $2,097.55 on Monday and was $2,112.89 as of 8:00 a.m. ET.
+BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,11 +182,19 @@ Reuters • 3d ago
 
 ---
 
-**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
+**[American Mega Bank Is Dumping Its Ethereum Holdings, Here’s What It’s Buying](https://www.tradingview.com/news/newsbtc:bcc4c29d8094b:0-american-mega-bank-is-dumping-its-ethereum-holdings-here-s-what-it-s-buying/)**
 
-BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
+Ethereum is losing ground inside one of America’s largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant reveal a noticeable reshuffling of its crypto exposure during the first quarter, with Ethereum and Solan…
 
-CryptoSlate • 23h ago
+TradingView • 5h ago
+
+---
+
+**[Crypto News: Gruntle Presale passes $104k raised on Exhausted Narrative as $10k ETH Price Prediction Boosted By Ethereum Foundation Selling Update](https://markets.businessinsider.com/news/stocks/crypto-news-gruntle-presale-passes-104k-raised-on-exhausted-narrative-as-10k-eth-price-prediction-boosted-by-ethereum-foundation-selling-update-1036191715)**
+
+LONDON, May  25, 2026  (GLOBE NEWSWIRE) -- Gruntle’s presale has now pushed past $104,000 raised, and the project’s exhausted narrative is startin...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -194,29 +202,21 @@ CryptoSlate • 23h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
 
-FXStreet • 8h ago
+FXStreet • 12h ago
 
 ---
 
-**[Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens](https://www.tradingview.com/news/cointelegraph:9cbe92e11094b:0-tom-lee-s-ethereum-portfolio-down-7-35b-as-eth-price-outlook-worsens/)**
+**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
 
-Tom Lee’s BitMine faces about $7.3 billion in paper losses on its Ethereum treasury as Ether (ETH) traders weigh worsening sentiment, ETF outflows and a bearish chart setup pointing toward $1,600.Key takeaways:Bitmine's ETH treasury dashboard. Source: DropStab.COMLee continues buying ETH despite mo…
+BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-TradingView • 21h ago
-
----
-
-**[Ethereum holds 55% of stablecoins, yet ETH trades below $2.4K – Justified?](https://ambcrypto.com/ethereum-holds-55-of-stablecoins-yet-eth-trades-below-2-4k-justified/)**
-
-AMBCrypto • 4h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum transaction fees hit all-time lows as activity surges](https://cryptobriefing.com/ethereum-fees-all-time-lows-activity-surges/)**
+**[Vitalik Buterin: Ethereum Foundation must prioritize longevity over ETH sales](https://ambcrypto.com/vitalik-buterin-ethereum-foundation-must-prioritize-longevity-over-eth-sales/)**
 
-Ethereum L1 fees hit all-time lows near $0.21 while daily transactions reached a record 1.87 million, reshaping the network's economic model post-Dencun.
-
-Crypto Briefing • 1d ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 1d ago
 
 Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
 
-Benzinga • 17h ago
+Benzinga • 21h ago
 
 ---
 
@@ -238,17 +238,17 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 1K • 💬 163 • ⏱️ 16:50 • 22h ago
+👁️ 31K • 👍 1K • 💬 175 • ⏱️ 16:50 • 1d ago
 
 ---
 
-**[WARNING!!! XRP IS ABOUT TO WIN BIG. (WE K*LLED ETH?!?!)](https://www.youtube.com/watch?v=u_0IqW6QudI)**
+**[Gareth Soloway: Crypto at a Crossroads — BTC, ETH, Solana &amp; XRP Key Levels 2026](https://www.youtube.com/watch?v=hdXlXWnoSR0)**
 
-BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ethereum champions on the planet — just SOLD ...
+Bitcoin is clinging to its trend line while the Nasdaq prints new all-time highs — and that disconnect is the single biggest tell in ...
 
-📺 Crypto Sensei
+📺 Gareth Soloway
 
-👁️ 23K • 👍 1K • 💬 256 • ⏱️ 18:13 • 14h ago
+👁️ 6K • 👍 724 • 💬 39 • ⏱️ 11:03 • 1h ago
 
 ---
 
@@ -258,17 +258,17 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 32K • 👍 1K • 💬 121 • ⏱️ 24:12 • 1d ago
+👁️ 33K • 👍 1K • 💬 122 • ⏱️ 24:12 • 2d ago
 
 ---
 
-**[CRUCIAL BITCOIN CRASH 💥 THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO?](https://www.youtube.com/watch?v=BfDGtq2hnR8)**
+**[WARNING!!! XRP IS ABOUT TO WIN BIG. (WE K*LLED ETH?!?!)](https://www.youtube.com/watch?v=u_0IqW6QudI)**
 
-CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, Bitcoin is under pressure ...
+BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ethereum champions on the planet — just SOLD ...
 
-📺 CryptoWendyO
+📺 Crypto Sensei
 
-👁️ 8K • 👍 491 • 💬 69 • ⏱️ 10:01 • 1d ago
+👁️ 25K • 👍 1K • 💬 261 • ⏱️ 18:13 • 17h ago
 
 ---
 
@@ -278,7 +278,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 206 • 💬 30 • ⏱️ 25:04 • 1d ago
+👁️ 6K • 👍 213 • 💬 31 • ⏱️ 25:04 • 1d ago
+
+---
+
+**[CRUCIAL BITCOIN CRASH 💥 THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO?](https://www.youtube.com/watch?v=BfDGtq2hnR8)**
+
+CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, Bitcoin is under pressure ...
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 496 • 💬 69 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -288,43 +298,37 @@ We discuss the higher time frame structure, why the current move still looks cor
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 202 • 💬 11 • ⏱️ 10:05 • 14h ago
+👁️ 4K • 👍 212 • 💬 12 • ⏱️ 10:05 • 17h ago
 
 ---
 
-**[🚨 CRYPTO SUCKS BUT THIS IS THE TIME TO MAKE IT! #xrp #bitcoin #ethereum](https://www.youtube.com/watch?v=YSunai5JNSE)**
+**[Why Ethereum Missionaries Are Leaving the EF: &#39;Their Hopes Were Crushed&#39;](https://www.youtube.com/watch?v=Yuf6mQz4hhI)**
 
-📺 CryptoWendyO
+Five senior Ethereum Foundation figures — Trent Van Epps, Josh Stark, Barnabé Monnot, Tim Beiko, and Carl Beek — left within ...
 
-👁️ 4K • 👍 265 • 💬 26 • ⏱️ 1:17 • 11h ago
+📺 Unchained
 
----
-
-**[Something MASSIVE Is Brewing In ETH (BMNR Setup)](https://www.youtube.com/watch?v=6sXADj5P16M)**
-
-http://www.x10daytrading.com/?video=6sXADj5P16M TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
-
-📺 Wolf of Dubai Day Trading & Investing
-
-👁️ 3K • 👍 115 • 💬 27 • ⏱️ 10:35 • 14h ago
+👁️ 669 • 👍 16 • 💬 9 • ⏱️ 18:18 • 1d ago
 
 ---
 
-**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
+**[BITCOIN SIGNAL FLASHING NOW: Don&#39;t Be FOOLED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=R3aQNAWolkI)**
 
-XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
+BITCOIN SIGNAL FLASHING NOW: Don't Be FOOLED!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 7K • 👍 376 • 💬 30 • ⏱️ 26:45 • 2d ago
+👁️ 7K • 👍 308 • 💬 61 • ⏱️ 15:24 • 14h ago
 
 ---
 
-**[MISLEADING XRP STORY! WHY THIS IS BEARISH #xrp #bitcoin #ethereum](https://www.youtube.com/watch?v=TWpRwqghhAg)**
+**[Ethereum Isn’t Dead — But “Altcoin Season” Is](https://www.youtube.com/watch?v=jpGyJv9zsMU)**
 
-📺 CryptoWendyO
+Ethereum is not dead — but the old idea of altcoin season might be. Every ETH holder is waiting for altseason to save their bags, ...
 
-👁️ 5K • 👍 219 • 💬 10 • ⏱️ 0:59 • 1d ago
+📺 The Rational Ape
+
+👁️ 57 • 👍 6 • 💬 2 • ⏱️ 8:45 • 7h ago
 
 ---
 
