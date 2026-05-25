@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T15:51:28.035271+00:00'
+updated: '2026-05-25T17:44:21.372737+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 15:51 UTC  
+**Last Updated:** May 25, 2026 at 17:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,124.75
+### $2,129.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.6%  
-**30d:** -10.3%  
-**90d:** +3.3%  
-**1y:** -17.1%  
+**24h:** +1.7%  
+**7d:** +1.0%  
+**30d:** -10.0%  
+**90d:** +3.7%  
+**1y:** -16.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastruct
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -88,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been using the same DEX for about six months. Found out today that three months ago they added a 0.15% protocol fee on top of the existing LP fee. It's in their documentation but there was no notification, no banner, nothing in the app. I've been paying it without realizing. Over three months on my trading volume that's not trivial. Is there any way to recover this or is it just a loss
 
-1h ago
+3h ago
+
+---
+
+**[Built a crypto portfolio tracker called Kawah ☕📈](https://www.reddit.com/r/ethereum/comments/1tnfg3z/built_a_crypto_portfolio_tracker_called_kawah/)**
+
+Hi Guys! I built my own app to track Ethereum and other crypto assets. Main things I focused on: fast portfolio tracking manual transaction tracking clean mobile UI no account required local-first/privacy-friendly approach simple watchlist + markets view Still improving it actively (especially the iPhone experience and portfolio analytics), but the app is already live on iOS. Would genuinely love feedback from crypto people here: What features do you wish portfolio trackers had? https://apps.apple.com/ca/app/kawah/id6760319857
+
+31m ago
 
 ---
 
@@ -96,7 +104,7 @@ I've been using the same DEX for about six months. Found out today that three mo
 
 Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
 
-🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 15h ago
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 17h ago
 
 ---
 
@@ -140,14 +148,6 @@ Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev toolin
 
 ---
 
-**[Daily General Discussion May 21, 2026](https://www.reddit.com/r/ethereum/comments/1tjaarz/daily_general_discussion_may_21_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 21h ago
+The Block • 23h ago
 
 ---
 
@@ -164,15 +164,7 @@ The Block • 21h ago
 
 Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-The Motley Fool • 15h ago
-
----
-
-**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
-
-BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
-
-Yahoo Finance • 1d ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -186,23 +178,7 @@ Reuters • 3d ago
 
 Ethereum is losing ground inside one of America’s largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant reveal a noticeable reshuffling of its crypto exposure during the first quarter, with Ethereum and Solan…
 
-TradingView • 5h ago
-
----
-
-**[Crypto News: Gruntle Presale passes $104k raised on Exhausted Narrative as $10k ETH Price Prediction Boosted By Ethereum Foundation Selling Update](https://markets.businessinsider.com/news/stocks/crypto-news-gruntle-presale-passes-104k-raised-on-exhausted-narrative-as-10k-eth-price-prediction-boosted-by-ethereum-foundation-selling-update-1036191715)**
-
-LONDON, May  25, 2026  (GLOBE NEWSWIRE) -- Gruntle’s presale has now pushed past $104,000 raised, and the project’s exhausted narrative is startin...
-
-markets.businessinsider.com • 3h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
-
-FXStreet • 12h ago
+TradingView • 7h ago
 
 ---
 
@@ -214,9 +190,25 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
+
+FXStreet • 13h ago
+
+---
+
+**[Crypto News: Gruntle Presale passes $104k raised on Exhausted Narrative as $10k ETH Price Prediction Boosted By Ethereum Foundation Selling Update](https://markets.businessinsider.com/news/stocks/crypto-news-gruntle-presale-passes-104k-raised-on-exhausted-narrative-as-10k-eth-price-prediction-boosted-by-ethereum-foundation-selling-update-1036191715)**
+
+LONDON, May  25, 2026  (GLOBE NEWSWIRE) -- Gruntle’s presale has now pushed past $104,000 raised, and the project’s exhausted narrative is startin...
+
+markets.businessinsider.com • 5h ago
+
+---
+
 **[Vitalik Buterin: Ethereum Foundation must prioritize longevity over ETH sales](https://ambcrypto.com/vitalik-buterin-ethereum-foundation-must-prioritize-longevity-over-eth-sales/)**
 
-AMBCrypto • 5h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -224,7 +216,13 @@ AMBCrypto • 5h ago
 
 Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
 
-Benzinga • 21h ago
+Benzinga • 23h ago
+
+---
+
+**[Ethereum Whale Risks $1 Million Loss on Large Short Position as Vitalik Buterin Vows to “Sell Less ETH”](https://www.tipranks.com/news/ethereum-whale-risks-1-million-loss-on-large-short-position-as-vitalik-buterin-vows-to-sell-less-eth)**
+
+TipRanks • 2h ago
 
 ---
 
@@ -248,7 +246,7 @@ Bitcoin is clinging to its trend line while the Nasdaq prints new all-time highs
 
 📺 Gareth Soloway
 
-👁️ 6K • 👍 724 • 💬 39 • ⏱️ 11:03 • 1h ago
+👁️ 6K • 👍 724 • 💬 39 • ⏱️ 11:03 • 2h ago
 
 ---
 
@@ -268,7 +266,7 @@ BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ether
 
 📺 Crypto Sensei
 
-👁️ 25K • 👍 1K • 💬 261 • ⏱️ 18:13 • 17h ago
+👁️ 25K • 👍 1K • 💬 261 • ⏱️ 18:13 • 19h ago
 
 ---
 
@@ -278,7 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 213 • 💬 31 • ⏱️ 25:04 • 1d ago
+👁️ 6K • 👍 213 • 💬 31 • ⏱️ 25:04 • 2d ago
 
 ---
 
@@ -288,7 +286,7 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 496 • 💬 69 • ⏱️ 10:01 • 1d ago
+👁️ 8K • 👍 496 • 💬 69 • ⏱️ 10:01 • 2d ago
 
 ---
 
@@ -298,7 +296,7 @@ We discuss the higher time frame structure, why the current move still looks cor
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 212 • 💬 12 • ⏱️ 10:05 • 17h ago
+👁️ 4K • 👍 212 • 💬 12 • ⏱️ 10:05 • 19h ago
 
 ---
 
@@ -318,7 +316,7 @@ BITCOIN SIGNAL FLASHING NOW: Don't Be FOOLED!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 308 • 💬 61 • ⏱️ 15:24 • 14h ago
+👁️ 7K • 👍 308 • 💬 61 • ⏱️ 15:24 • 16h ago
 
 ---
 
@@ -328,7 +326,7 @@ Ethereum is not dead — but the old idea of altcoin season might be. Every ETH 
 
 📺 The Rational Ape
 
-👁️ 57 • 👍 6 • 💬 2 • ⏱️ 8:45 • 7h ago
+👁️ 57 • 👍 6 • 💬 2 • ⏱️ 8:45 • 9h ago
 
 ---
 

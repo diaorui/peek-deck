@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-25T15:51:28.038084+00:00'
+updated: '2026-05-25T17:44:21.375894+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 25, 2026 at 15:51 UTC  
+**Last Updated:** May 25, 2026 at 17:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 New hardware, outdoor steps this time. I push the stick forward, the robot detects the stairs and decides when to jump on its own. First part is daytime, clears all 3 steps, off the top, landed upright. Second part is at night: first attempt doesn't make it up, second one clears it. Added the night footage to show the controller input. Just push forward, everything else is the RL policy: stair detection, jump timing, balance, recovery. Big upgrade from last time where I was triggering every jump manually. Still working on making it more consistent.
 
-13h ago
+15h ago
+
+---
+
+**[Robotica arm, 3 axis](https://www.reddit.com/r/robotics/comments/1tncu8d/robotica_arm_3_axis/)**
+
+2h ago
 
 ---
 
@@ -44,13 +50,7 @@ New hardware, outdoor steps this time. I push the stick forward, the robot detec
 
 As the title suggests, I'm struggling to figure out how to really program a proper gait for my quadrupedal robot; I've looked into tripod gaits and such, but does anyone have any advice for how to implement reinforcement learning or something similar? I'm considering attaching an IMU to the setup but I still don't know how to like get the legs to adapt and "figure it out themselves". I'm using an ESP32 as the main microcontroller with the arduino as just a sort of power source (will switch out in the future), and therefore I'm using the Arduino IDE for programming and haven't explored micropython My main problem is that I don't think my servos have enough torque to push the entire build off the ground, should I shorten the limbs or try other gaits first? Right now I'm hardcoding the servo positions and its been more like trial-and-error, if anyone has ANY advice or recommendations, I would really appreciate it. I'm aware that this post may be too vague, but pls feel free to dm me about the project.
 
-11h ago
-
----
-
-**[Robotica arm, 3 axis](https://www.reddit.com/r/robotics/comments/1tncu8d/robotica_arm_3_axis/)**
-
-11m ago
+13h ago
 
 ---
 
@@ -62,17 +62,25 @@ I've finally submitted my PhD thesis and have some time to work on my favourite 
 
 ---
 
+**[I got tired of exporting massive CSV files to debug signal noise with remote teammates, so I built an open-source browser viewer (Feedback wanted)](https://www.reddit.com/r/robotics/comments/1tnfmrg/i_got_tired_of_exporting_massive_csv_files_to/)**
+
+Hey everyone, I’m a robotics engineer working across both the programming and electronics, debugging remotely with a teammate or getting code guys to understand a physical hardware glitch is a massive bottleneck. Usually, my choices are taking a blurry phone picture of my oscilloscope screen to send over Slack, or exporting a massive, CSV file that crashes basic spreadsheet apps and completely kills any signal interactivity. Software engineers have GitHub, Figma, and Linear for instant cloud collaboration. Hardware engineers get USB flash drives and proprietary enterprise desktop software. To bridge this gap, I built a completely free, browser-based, hostless platform designed to act like an opensource viewer for hardware signal data.
+
+🔗 [wavebench.vercel.app](https://wavebench.vercel.app/) • 25m ago
+
+---
+
 **[If you use NVIDIA Isaac Sim for reinforcement learning, do you use Isaac Lab with it? Just want to get a sense of what the status quo is.](https://www.reddit.com/r/robotics/comments/1tn1ged/if_you_use_nvidia_isaac_sim_for_reinforcement/)**
 
 The reason for this query is that I am in the process of shifting to Isaac Sim / Isaac Lab since that is what seems to be in use nowadays. However, Isaac Lab is proving to be somewhat difficult to handle. While it handles the logging, and the creation of multi-actor systems for algorithms like PPO beautifully, its documentation leaves much to be desired. I am also concerned about the ease of setting up new robotic environments, actions, rewards, policies and possibly even custom algorithms. So, what is it that you do at your lab?
 
-8h ago
+10h ago
 
 ---
 
 **[new Nodding Mechanism is on robot now](https://www.reddit.com/r/robotics/comments/1tmxbff/new_nodding_mechanism_is_on_robot_now/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -80,15 +88,7 @@ The reason for this query is that I am in the process of shifting to Isaac Sim /
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-lgo5xqgVko?si=M1M-LnBZNLJIgs7R) • 7h ago
-
----
-
-**[People can no longer complain that unitree is not focusing on being useful ,they are starting to do figure things ofcourse still a little clumpsy Conference room mess cleanup test](https://www.reddit.com/r/robotics/comments/1tn1w3f/people_can_no_longer_complain_that_unitree_is_not/)**
-
-So what do you make of this ,I read the title, it says "world model" and "VLA," so did they combine it ?It seems like a big deal. I feel like this is a big step. So what do you guys think ,I think I can finally say unitree has become a legitimate competitor to figure
-
-🔗 [youtu.be](https://youtu.be/zqqIpVsMYkE?si=zFUFEpw4XYrZZKgo) • 8h ago
+🔗 [youtu.be](https://youtu.be/-lgo5xqgVko?si=M1M-LnBZNLJIgs7R) • 9h ago
 
 ---
 
@@ -96,15 +96,15 @@ So what do you make of this ,I read the title, it says "world model" and "VLA," 
 
 SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no longer silently drops degraded enumerations (configurable). - Jetson JP6 / 6.2.2 support added; fixes missing metadata over USB3 on JP6. - Bundled D400 firmware removed from the SDK package. - NEON acceleration: new BUILD_WITH_NEON flag; CUDA falls back to NEON; pointcloud correction. - MIPI driver version exposed via camera_info; new External Sync XU. Viewer - Non-blocking stop-stream, fixes for read-only options, Linux recording load, Win11 taskbar icon, MIPI FW update flow. DFU - Correct downgrade-counter opcode, flash-lock detection fix, skip reset on unsigned FW, d401_gmsl min FW → 5.17.2.2. Bug Fixes - Python deadlock, WMF reset crash, Ctrl+C re-entrancy, D435 initial enumeration, D555 DB3 playback, rs-dds-adapter Windows leak. --- MIPI Driver Highlights - JetPack 7 on NVIDIA Thor — new platform support (RSDSO-20559). - JetPack 5.1.6 and 6.2.2 added (RSDSO-21191, RSDSO-21146). - MAX96712 multi-camera: dual-camera per deserializer on JP6.x and quad-D457 via full-slave mode (RSDSO-20613). - External sync via TSC PWM (Thor-friendly), restored MAX9296 + consolidated MAX9295 GPIO tunneling (RSDSO-21407). - New carrier boards: Advantech (Orin, JP6/JP7) and AVerMedia (JP6.x). - Link tuning: MAX96712 lanes raised to 2500 Mbps; MFP6 added for links B–D. Stability - DS5 reset/detection rework, MAX9296 power_off underflow fix (spurious XCLR), JP6.x DTB deploy fix. --- D555 New Features - On-camera Object Detection (DamoYolo) — real-time bounding boxes/class/confidence published alongside streams; toggle via Color.option.Object_Detection_Enable. - UFO (UDP Fragmentation Offload) — higher throughput at high-res/fps; auto-enabled for standard MTU, disabled for jumbo frames. SafeDDS - More concurrent viewers per camera, better discovery, high-load stability, reliable notification delivery, stream-open timeout fix. ROS2 - Topic rename _CompressedColor → _Color/compressed; depth-unit in metadata; reduced topic overhead; CompressedColor auto-sync with RGB; better ROS2cli reliability. DFU - Real-time progress to host, pre-update integrity check, improved transfer reliability. Bug Fixes - Stream open timeout (RSDEV-6686), message drops under load (RSDEV-6314), network stall (RSDEV-6955), camera_info resolution mismatch (RSDEV-6683), ROS2 param/node CLI issues, 4-stream stability (RSDEV-7109). More info: https://github.com/realsenseai/librealsense/releases/tag/v2.58.1
 
-18h ago
+20h ago
 
 ---
 
-**[Cracked open an AMR on my day off.](https://www.reddit.com/r/robotics/comments/1tmkz8f/cracked_open_an_amr_on_my_day_off/)**
+**[People can no longer complain that unitree is not focusing on being useful ,they are starting to do figure things ofcourse still a little clumpsy Conference room mess cleanup test](https://www.reddit.com/r/robotics/comments/1tn1w3f/people_can_no_longer_complain_that_unitree_is_not/)**
 
-So this is how I spend my Sundays now. Picked up a fleet of AMRs and decided to reverse engineer it from the chassis up. Top’s off, I’m on the laptop sniffing what I can, and I’ve hit the point where the community brain trust would save me a few weekends. A few of these will end up on eBay in the coming weeks!
+So what do you make of this ,I read the title, it says "world model" and "VLA," so did they combine it ?It seems like a big deal. I feel like this is a big step. So what do you guys think ,I think I can finally say unitree has become a legitimate competitor to figure
 
-20h ago
+🔗 [youtu.be](https://youtu.be/zqqIpVsMYkE?si=zFUFEpw4XYrZZKgo) • 10h ago
 
 ---
 
@@ -124,7 +124,7 @@ Fast Company • 1d ago
 
 Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 A region known for its lack of walkability now has more obstacles for pedestrians to contend with
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
@@ -160,6 +160,12 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Motion tracking system shows robots the path most traveled by, keeping them on task](https://techxplore.com/news/2026-05-motion-tracking-robots-path-task.html)**
+
+Tech Xplore • 1h ago
+
+---
+
 **[Ukraine’s Ground Robots Are Becoming Battlefield Platforms—And Procurement Is About to Surge](https://united24media.com/world/ukraines-ground-robots-are-becoming-battlefield-platforms-and-procurement-is-about-to-surge-19106)**
 
 Ukraine plans UGV procurement Ukraine 2026 to double in 2026, reaching nearly 25,000 units, adding EW, radar, missiles and mortars to combat roles.
@@ -170,15 +176,7 @@ UNITED24 Media • 2d ago
 
 **[Popular robotics company shuts down and liquidates all assets](https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets)**
 
-thestreet.com • 1h ago
-
----
-
-**[Q&A: How video helps build robot brains for physical AI](https://www.computerworld.com/article/4175902/qa-how-video-helps-build-robot-brains-for-physical-ai.html)**
-
-Though many companies use YouTube videos for training, Kate Shen, the co-founder of startup Anaxi Labs, is looking in a different direction.
-
-Computerworld • 4h ago
+thestreet.com • 3h ago
 
 ---
 
@@ -238,7 +236,7 @@ Testing the MOVA LiDax Ultra 3000 AWD over the past few weeks has been seriously
 
 📺 Steve DOES
 
-👁️ 51K • 👍 496 • 💬 6 • ⏱️ 16:22 • 2d ago
+👁️ 51K • 👍 496 • 💬 6 • ⏱️ 16:22 • 3d ago
 
 ---
 
@@ -266,7 +264,7 @@ In this video, we rank different robots inspired by countries like China, Austra
 
 📺 The area
 
-👁️ 126K • 👍 4K • 💬 175 • ⏱️ 0:50 • 5d ago
+👁️ 126K • 👍 4K • 💬 175 • ⏱️ 0:50 • 6d ago
 
 ---
 

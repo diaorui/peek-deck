@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-25T15:51:28.022520+00:00'
+updated: '2026-05-25T17:44:21.358583+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 25, 2026 at 15:51 UTC  
+**Last Updated:** May 25, 2026 at 17:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 We have entered the era of artificial general intelligence.
 
-6h ago
+8h ago
 
 ---
 
@@ -49,7 +49,15 @@ We have entered the era of artificial general intelligence.
 
 A lot of people talk about AI agents like the main goal is making them more independent. But the more I think about it, the bigger issue is probably visibility. If an AI is only answering a question, it is easy to judge the result. But once it starts doing things across websites, accounts, forms, support systems, or emails, users need to know exactly what happened. What did it click. What did it submit. What did it ask. Where did it fail. When did it decide to continue, retry, or stop. Without that kind of audit trail, even a smart agent feels hard to trust. A small mistake can hide inside a long workflow, and by the time the user notices, the problem may already be messy. The next useful version of AI agents might not be the one that acts the most independently. It might be the one that makes every step clear enough that a normal user can trust what it did.
 
-1h ago
+3h ago
+
+---
+
+**[Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing](https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/)**
+
+Operations chief Andrew Macdonald said he's not seeing proportional productivity gains from increasing AI costs within Uber.
+
+🔗 [Business Insider](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5) • 1h ago
 
 ---
 
@@ -57,13 +65,29 @@ A lot of people talk about AI agents like the main goal is making them more inde
 
 Im pretty much looking for where to get the most for the least amount of money. But with so many providers and most not even clearly stating their usage limits things get confusing fast. Any of you have a tip?
 
-3h ago
+5h ago
 
 ---
 
 **[Future Prediction](https://www.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/)**
 
 I have a prediction that companies laying off workers thinking they can be replaced by AI are going to have a mess on their hands in a couple years. Execs think AI can do employees’ jobs and in many cases it can’t. This thinking would be like laying off workers because computers were invented. Between the loss of institutional knowledge, quality/hallucination issues with AI and the need for human supervision I believe these layoffs are extremely short-sighted. Thoughts?
+
+2h ago
+
+---
+
+**[Why is there a sudden demand for a bunch of data centers?](https://www.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/)**
+
+I live in Pennsylvania, and in just the past year there’s been about a dozen data centers proposed within a 30 mile radius of me, all pretty large scale projects. I’m confused because we have a bunch of AI now that’s working without all these newly proposed data centers. I understand it continues to advance and grow, but why is there such a significant spike? Is there actually demand, or are these going to be mostly unused?
+
+1h ago
+
+---
+
+**[Wix cutting](https://www.reddit.com/r/artificial/comments/1tne1m4/wix_cutting/)**
+
+Wix is reportedly laying off roughly 800–1,000 employees — about 20% of its workforce — in its largest restructuring ever. The interesting part isn’t just the layoffs. It’s what they reveal about the economics of AI-first software companies. Wix’s core business is still growing: • Revenue reportedly rose ~14% YoY in Q1 2026 • Bookings were up ~15% • New AI-driven cohorts showed even faster growth But growth alone no longer protects margins when AI infrastructure costs explode. The pressure points: • Heavy investment in Base44, the vibe-coding startup Wix acquired in 2025 • Building and running proprietary AI models • Massive compute/inference costs • Expensive customer acquisition and marketing campaigns • A controversial $1.6B share buyback executed before the downturn At the same time, investors are questioning whether traditional website builders are becoming commoditized by AI. The bigger story is “vibe coding.” Users can now describe an app or website in plain English: “Create a sleek portfolio site with dark mode, payments, and a booking form.” AI generates the product instantly. That changes the value chain. The old moat was: templates + drag-and-drop builders. The new moat is becoming: AI orchestration + hosting + payments + integrations + reliability + distribution. Wix understands this. Instead of resisting the shift, they’ve aggressively moved toward it: • Acquired Base44 • Launched Wix Harmony, an AI-native creation platform • Combined natural-language generation with traditional visual editing • Pushed deeper into AI infrastructure and automation The irony is that AI didn’t kill Wix’s market overnight. It forced Wix to reinvent what “website building” even means. Pure AI tools can generate impressive demos quickly. But production systems still require: • uptime • commerce infrastructure • SEO • analytics • security • scalability • customer support That’s where incumbents still have leverage. This looks less like “AI destroyed Wix” and more like: a profitable software company being forced through an AI-era reset where efficiency, infrastructure costs, and platform strategy suddenly matter more than headcount growth. The broader lesson: AI is compressing the value of interfaces while increasing the value of infrastructure and distribution. The companies that survive won’t necessarily be the ones with the best demos. They’ll be the ones that can combine: • AI generation • operational reliability • ecosystem lock-in • cost control • and real business workflows AI is making software creation easier. But it’s also making software businesses much harder to defend.
 
 1h ago
 
@@ -73,7 +97,7 @@ I have a prediction that companies laying off workers thinking they can be repla
 
 A new tool helps artists stop bots from buying up concert tickets. Instead, it reserves spots for fans who are ‘human-verified’ by iris-scanning orbs.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/) • 2h ago
+🔗 [sfstandard.com](https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/) • 4h ago
 
 ---
 
@@ -85,33 +109,9 @@ Can someone help me understand this? I mean, how on earth are these companies wh
 
 ---
 
-**[Anthropic moves closer to powering America's spy agencies](https://www.reddit.com/r/artificial/comments/1tn8nt0/anthropic_moves_closer_to_powering_americas_spy/)**
-
-The Trump administration is finalizing a deal that would give U.S. intelligence agencies access to Anthropic's AI models, with the NSA expected to play a
-
-🔗 [Startup Fortune](https://startupfortune.com/anthropic-moves-closer-to-powering-americas-spy-agencies/) • 2h ago
-
----
-
-**[Google AI](https://www.reddit.com/r/artificial/comments/1tnclc3/google_ai/)**
-
-How does everyone feel about Google switching to AI tomorrow?
-
-20m ago
-
----
-
 **[How to Hit Claude Limits in One Click](https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/)**
 
-17h ago
-
----
-
-**[Is “AI employee” becoming a real product category?](https://www.reddit.com/r/artificial/comments/1tn27ne/is_ai_employee_becoming_a_real_product_category/)**
-
-I spent some time mapping companies that publicly describe their products as AI employees, digital workers, AI teammates, or role-based agents. The pattern was more concrete than I expected. A lot of the market is not positioning around general intelligence. It is positioning around a specific recurring job: - AI SDRs and sales agents - AI customer support agents - AI recruiters - AI accountants and finance agents - legal and compliance agents - software engineering and SRE agents - security / SOC analysts - healthcare admin agents - broader AI workforce platforms What stood out to me is that “agent” is still a vague technical word, but “AI employee” is a very direct buyer-facing claim. It implies ownership of work, not just assistance. That raises a few questions: Is “AI employee” a useful category, or just aggressive marketing language? Which workflows are actually ready for this framing? Do buyers want named role-based AI workers, or will this collapse back into normal workflow automation software? My current read: the category is real as positioning, but uneven as product reality. Sales, support, recruiting, security, legal, and back-office work seem furthest along because the workflow and ROI are legible.
-
-8h ago
+19h ago
 
 ---
 
@@ -119,23 +119,25 @@ I spent some time mapping companies that publicly describe their products as AI 
 
 ## Google News: "ai"
 
-**[Pope Leo Compares AI Threat to Biblical ‘Tower of Babel’](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c)**
+**[Pope Leo takes aim at big tech in sweeping encyclical on AI](https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence)**
 
-WSJ • 5h ago
+"Magnifica Humanitas" tackles the social, economic and political challenges associated with artificial intelligence.
 
----
-
-**[AI, longevity, and the World Cup: Inside JPMorgan's summer reading list](https://www.businessinsider.com/books-summer-reading-jpmorgan-wealth-ai-world-cup-longevity-success-2026-5)**
-
-JPMorgan's 27th annual summer reading list features nonfiction books on trending topics, from AI to longevity.
-
-Business Insider • 31m ago
+NPR • 8h ago
 
 ---
 
-**[One Job That Is Growing in the A.I. Era? Cybersecurity Experts.](https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html)**
+**[This big university system is embracing AI. Students and faculty aren't all on board](https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university)**
 
-The New York Times • 51m ago
+The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.
+
+NPR • 8h ago
+
+---
+
+**[Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -143,37 +145,29 @@ The New York Times • 51m ago
 
 History’s first American pontiff was writing in his first encyclical, a sweeping and eagerly anticipated manifesto on the subject that was released Monday.
 
-NBC News • 4h ago
+NBC News • 6h ago
 
 ---
 
-**[Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)**
+**[Pope Leo presents 'Magnifica humanitas’ calling for disarmament of AI](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-magnifica-humanitas-presentation-ai-disarmament.html)**
 
-Marking the 135th anniversary of Rerum novarum, Pope Leo XIV releases his first encyclical, entitled ‘Magnifica humanitas: On Safeguarding the Human ...
+Pope Leo XIV presents "Magnifica Humanitas" as the Church’s response to the challenges posed by artificial intelligence, calling for AI to be ...
 
 Vatican News • 6h ago
 
 ---
 
+**[Pope Leo calls to 'disarm' AI in major document, warns of technologic threats to humanity](https://www.ncronline.org/vatican/vatican-news/pope-leo-calls-disarm-ai-major-document-warns-technologic-threats-humanity)**
+
+In Magnifica Humanitas, the pope says just war theory is "outdated," condemns lethal AI weapons and asks pardon for the church's delayed condemnation of slavery.
+
+National Catholic Reporter • 5h ago
+
+---
+
 **[Pope, urging AI regulation, warns some weapons now beyond human control](https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/)**
 
-Reuters • 23m ago
-
----
-
-**[Pope Leo’s Unsettling Vision of the AI Future](https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/)**
-
-His new encyclical, Magnifica Humanitas, seeks to counterbalance alarm with hope but lands firmly on one side.
-
-The Atlantic • 3h ago
-
----
-
-**[AI Changed My Career. The MBA Changed My Thinking](https://poetsandquants.com/2026/05/25/ai-changed-my-career-the-mba-changed-my-thinking/?pq-category=students)**
-
-An LBS Grad -- and Founder of an AI Venture -- Shares Why an MBA Is More Valuable Than Ever in an AI-driven World
-
-Poets&Quants • 7h ago
+Reuters • 1h ago
 
 ---
 
@@ -181,15 +175,23 @@ Poets&Quants • 7h ago
 
 Stocks such as Eli Lilly and Fortinet are less correlated to the artificial intelligence frenzy, according to Goldman Sachs.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
-**[AI Bubble Fears Grow as Big Tech Allegedly Pays Itself in Cloud Loop](https://finance.yahoo.com/sectors/technology/articles/ai-bubble-fears-grow-big-131548421.html)**
+**[AI Changed My Career. The MBA Changed My Thinking](https://poetsandquants.com/2026/05/25/ai-changed-my-career-the-mba-changed-my-thinking/?pq-category=students)**
 
-AI bubble fears grow as Big Tech allegedly recycles AI investments into cloud revenue, fueling dot-com style worries.
+An LBS Grad -- and Founder of an AI Venture -- Shares Why an MBA Is More Valuable Than Ever in an AI-driven World
 
-Yahoo Finance • 2h ago
+Poets&Quants • 8h ago
+
+---
+
+**[Pope Leo’s First Encyclical Brings Apocalyptic Warning Of Moral, Social Collapse](https://www.forbes.com/sites/siladityaray/2026/05/25/pope-leo-paints-bleak-ai-future-with-tower-of-babel-warning-without-human-control/)**
+
+Pope Leo XIV warned Monday of a profound moral collapse driven by technology, war and a widening disregard for human life.
+
+Forbes • 3h ago
 
 ---
 
@@ -201,21 +203,7 @@ Yahoo Finance • 2h ago
 
 High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
 
-⬆️ 413 • 💬 450 • 23h ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-
----
-
-**[Italy moves to Airbus A330 tankers](https://news.ycombinator.com/item?id=48248775)**
-
-Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
-
-⬆️ 282 • 💬 116 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
-
----
-
-**[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
-
-⬆️ 260 • 💬 202 • 2d ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 417 • 💬 461 • 1d ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
 
 ---
 
@@ -223,7 +211,21 @@ Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 b
 
 VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.
 
-⬆️ 240 • 💬 99 • 2h ago • [RNS](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+⬆️ 326 • 💬 168 • 4h ago • [RNS](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+
+---
+
+**[Italy moves to Airbus A330 tankers](https://news.ycombinator.com/item?id=48248775)**
+
+Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
+
+⬆️ 282 • 💬 118 • 2d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+
+---
+
+**[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
+
+⬆️ 260 • 💬 202 • 2d ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -253,7 +255,7 @@ If someone asks you a question, paste your answer — not the chatbot's.
 
 PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence
 
-⬆️ 171 • 💬 154 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
+⬆️ 173 • 💬 157 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
 
 ---
 
@@ -265,11 +267,11 @@ An open-source database of AI models. Contribute to anomalyco/models.dev develop
 
 ---
 
-**[1940 Air Terminal Museum Begins Liquidation](https://news.ycombinator.com/item?id=48238568)**
+**[Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"](https://news.ycombinator.com/item?id=48266435)**
 
-We own 3 full size, full motion simulators and they are available for purchase:  Southwest's first 737-200 simulator - donated by Southwest Beechcraft King Air 200 - donated by FlightSafety Hawker 700 - donated by FlightSafety  Each of these comes with all the associated computer cabinets that was u
+Pope Leo issues AI Encyclical warning that 'Opaque Algorithms' controlled by a 'few' companies threaten 'new forms of  dehumanization'
 
-⬆️ 133 • 💬 31 • 2d ago • [1940 Air Terminal Museum](https://www.1940airterminal.org/news/liquidation-of-simulators)
+⬆️ 158 • 💬 2 • 4h ago • [Variety](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
 
 ---
 
@@ -283,7 +285,7 @@ Pope Leo XIV unveiled his first encyclical, Magnifica Humanitas, at the Vatican,
 
 📺 DRM News
 
-👁️ 5K • 👍 475 • 💬 47 • ⏱️ 11:16 • 4h ago
+👁️ 5K • 👍 475 • 💬 47 • ⏱️ 11:16 • 6h ago
 
 ---
 
@@ -323,7 +325,7 @@ A quick look at local AI models. Topics: - Local models get serious; - Why Apple
 
 📺 Awesome
 
-👁️ 26K • 👍 2K • 💬 265 • ⏱️ 8:43 • 6h ago
+👁️ 26K • 👍 2K • 💬 265 • ⏱️ 8:43 • 8h ago
 
 ---
 
@@ -333,7 +335,7 @@ Claude Mythos 1 and Anthropic's Claude Security are now at the center of a massi
 
 📺 AI Revolution
 
-👁️ 42K • 👍 2K • 💬 102 • ⏱️ 14:27 • 16h ago
+👁️ 42K • 👍 2K • 💬 102 • ⏱️ 14:27 • 18h ago
 
 ---
 
@@ -353,7 +355,7 @@ Try using Emergent's specialized agents in parallel to build any full-stack appl
 
 📺 Fireship
 
-👁️ 785K • 👍 23K • 💬 1K • ⏱️ 5:44 • 2d ago
+👁️ 785K • 👍 23K • 💬 1K • ⏱️ 5:44 • 3d ago
 
 ---
 
@@ -373,7 +375,7 @@ This UFO footage was only 144p… Now it's HD/4K AI is revealing details people 
 
 📺 Clipcut
 
-👁️ 920 • 👍 20 • 💬 1 • ⏱️ 0:21 • 51m ago
+👁️ 920 • 👍 20 • 💬 1 • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -656,7 +658,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 1.1k • 7d ago
+⭐ 3.5k • 🔱 1.1k • 8d ago
 
 ---
 
@@ -666,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 5h ago
+⭐ 2.6k • 🔱 179 • 7h ago
 
 ---
 
@@ -694,7 +696,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 2.2k • 🔱 480 • 8h ago
+⭐ 2.2k • 🔱 480 • 10h ago
 
 ---
 
@@ -724,7 +726,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.8k • 🔱 121 • 6h ago
+⭐ 1.8k • 🔱 121 • 8h ago
 
 ---
 
@@ -734,7 +736,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.7k • 🔱 189 • 7h ago
+⭐ 1.7k • 🔱 189 • 9h ago
 
 ---
 

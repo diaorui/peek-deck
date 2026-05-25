@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-25T15:51:28.030090+00:00'
+updated: '2026-05-25T17:44:21.366851+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 15:51 UTC  
+**Last Updated:** May 25, 2026 at 17:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,676.16
+### $77,777.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +1.3%  
 **7d:** +1.0%  
 **30d:** -1.3%  
 **90d:** +14.2%  
@@ -81,7 +81,7 @@ Rank #1
 
 Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillion within a decade.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 8h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 10h ago
 
 ---
 
@@ -89,7 +89,13 @@ Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillio
 
 You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
 
-7h ago
+8h ago
+
+---
+
+**[Throughout history money was never created by man, only nature.](https://www.reddit.com/r/Bitcoin/comments/1tnfpd5/throughout_history_money_was_never_created_by_man/)**
+
+23m ago
 
 ---
 
@@ -97,31 +103,7 @@ You can see the new panel right next to the Bitcoin price here: https://newhedge
 
 I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is this the best way to hold it? I will be buying the bitcoin only version. Is it worth it to upgrade to the higher end Trezor? What do yall use? Thanks in advance. EDIT: Very new and have never bought crypto. ELI5 please, just started doing some research yesterday.
 
-3h ago
-
----
-
-**[What’s a Bitcoin take that got you laughed at before… but aged perfectly?](https://www.reddit.com/r/Bitcoin/comments/1tmyy05/whats_a_bitcoin_take_that_got_you_laughed_at/)**
-
-What’s a Bitcoin take that got you laughed at before… but aged perfectly?
-
-10h ago
-
----
-
-**[Mentor Monday, May 25, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1tn1ka4/mentor_monday_may_25_2026_ask_all_your_bitcoin/)**
-
-Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
-
-8h ago
-
----
-
-**[Thoughts on 0.5btc?](https://www.reddit.com/r/Bitcoin/comments/1tmonl6/thoughts_on_05btc/)**
-
-By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to consider it life changing?
-
-18h ago
+5h ago
 
 ---
 
@@ -129,7 +111,39 @@ By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to
 
 The goal was never just "get rich" The real flex is freedom. Funny how fast the future changes.
 
-9h ago
+11h ago
+
+---
+
+**[The Bitcoin Nonproliferation Doctrine: A U.S.–Iran Grand Bargain](https://www.reddit.com/r/Bitcoin/comments/1tnd49s/the_bitcoin_nonproliferation_doctrine_a_usiran/)**
+
+Under such a framework, Washington would offer Tehran a pathway back into the traditional global financial system only in exchange for dismantling its sovereign #Bitcoin $BTC architecture and surrendering its state-linked digital reserves. The result would amount to a twenty-first century financial disarmament treaty: a doctrine of monetary nonproliferation.
+
+🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 1h ago
+
+---
+
+**[What’s a Bitcoin take that got you laughed at before… but aged perfectly?](https://www.reddit.com/r/Bitcoin/comments/1tmyy05/whats_a_bitcoin_take_that_got_you_laughed_at/)**
+
+What’s a Bitcoin take that got you laughed at before… but aged perfectly?
+
+12h ago
+
+---
+
+**[Mentor Monday, May 25, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1tn1ka4/mentor_monday_may_25_2026_ask_all_your_bitcoin/)**
+
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
+
+10h ago
+
+---
+
+**[Thoughts on 0.5btc?](https://www.reddit.com/r/Bitcoin/comments/1tmonl6/thoughts_on_05btc/)**
+
+By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to consider it life changing?
+
+20h ago
 
 ---
 
@@ -137,23 +151,7 @@ The goal was never just "get rich" The real flex is freedom. Funny how fast the 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
-
----
-
-**[LISTEN!](https://www.reddit.com/r/Bitcoin/comments/1tm7jei/listen/)**
-
-I never trusted third parties with my money, but I still kept some fiat in a local bank. Yesterday, right before I needed to pay all my bills, my bank account got frozen. I still don’t even know the exact reason, probably because I received an amount larger than usual. I went to the bank, and they told me they had to send an email to the administration in the capital. So here I am, locked out of my own money, waiting for someone in an office to decide whether I’m allowed to access it again. Luckily, around 90% of my wealth is in Bitcoin. For the first time, I actually needed to move some BTC from my cold wallet. I did it instantly, permissionlessly, and without trusting anyone and it literally saved the day for me. Bitcoin is not a stock market. Bitcoin is the solution to the dysfunctional financial system we live under.
-
-1d ago
-
----
-
-**[Where would you place Bitcoin on the adoption curve today?](https://www.reddit.com/r/Bitcoin/comments/1tmkz68/where_would_you_place_bitcoin_on_the_adoption/)**
-
-If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream adoption 100 = completely normal and accepted by everyone My feeling is that Bitcoin is somewhere between 20 and 35 today. Advanced enough that institutions, ETFs and even some governments are involved. Early enough that most people still don’t really understand what they own, or why Bitcoin exists in the first place. Every major technology looked strange before it became normal. Internet. Credit cards. Online banking. Smartphones. So I’m curious: White would you place Bitcoin on the adoption curve today?
-
-20h ago
+11h ago
 
 ---
 
@@ -165,7 +163,7 @@ If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream ado
 
 Investors turn to HYPE and XRP funds while dumping bitcoin and ether ETFs.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -173,31 +171,29 @@ CoinDesk • 5h ago
 
 A bitcoin OG transferred about 2,650 BTC to the crypto trading firms through multiple transactions on Sunday, according to Onchain Lens.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**[Oil Price Butchered as US Stocks Breach ATH: Can Bitcoin Mirror the S&P 500?](https://finance.yahoo.com/markets/crypto/articles/oil-price-butchered-us-stocks-144359730.html)**
+**[Strategy Pauses Bitcoin Buying To Retire Converts And Add Treasuries](https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-retire-160839465.html)**
 
-The S&P 500 blasted to a record 7,534 on Memorial Day as oil price plummeted on potential Middle East de-escalation. A tentative framework agreement between the Trump administration and Iran to reopen the Strait of Hormuz sent Brent crude tumbling back below $100 per barrel, gutting the geopolitical risk premium ...
+Strategy Inc (NasdaqGS:MSTR) has paused its aggressive Bitcoin purchases to prioritize a major convertible bond repurchase. The company is buying back US$1.5b in convertible notes at a discount instead of adding to its Bitcoin position. This is the first significant pause in Strategy’s multi year Bitcoin acquisition program. The move reflects a new phase in Strategy’s capital management, including a larger role for yield generating US Treasuries. Strategy Inc has built its profile around...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy Pauses Bitcoin Buying as $1.5B Bond Repurchase Takes Priority](https://finance.yahoo.com/markets/crypto/articles/strategy-pauses-bitcoin-buying-1-141700285.html)**
+**[When Will Bitcoin Recover to Its $126,000 All-Time High?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-recover-126-000-time-172013711.html)**
 
-Strategy Inc. (NASDAQ: $MSTR) broke from its usual bitcoin-buying rhythm this week, with Michael Saylor saying the ...
+Bitcoin (CRYPTO: BTC) peaked at $126,000 in October 2025, but it didn’t last. A tariff shock and a wave of liquidations starting on October 10, pulled BTC below $105,000. Then, months of ETF outflows dragged it into the $80,000s through November and December, and by early February 2026 it had plunged to $60,000—less than half ... When Will Bitcoin Recover to Its $126,000 All-Time High?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 24m ago
 
 ---
 
-**[Bitcoin Pizza Day Recipient Speaks Out: How the 10,000 BTC Was Spent](https://finance.yahoo.com/markets/crypto/articles/bitcoin-pizza-day-recipient-speaks-150000056.html)**
+**[Nasdaq Gets Approval From SEC to List Bitcoin Index Options](https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec)**
 
-Jeremy Sturdivant spent his 10,000 bitcoin on a US road trip. At Bitcoin's peak, the coins topped $1.26 billion.
-
-Yahoo Finance • 51m ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -209,25 +205,25 @@ Forbes • 1d ago
 
 ---
 
+**[Bitcoin Depot declares bankruptcy, lays off more than 100 staff at corporate office](https://www.wsbtv.com/news/local/fulton-county/bitcoin-depot-declares-bankruptcy-lays-off-more-than-100-staff-corporate-office/O6P56Q5OS5D4XIUHDLAEP2UMFU/)**
+
+The company said it will undertake an "orderly wind-down" and sell off its assets.
+
+WSB-TV • 1h ago
+
+---
+
 **[Bitcoin rebounds above $77k on Iran deal hopes, Nasdaq crypto options plan](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-77k-on-iran-deal-hopes-nasdaq-crypto-options-plan-4708329)**
 
-Investing.com • 8h ago
+Investing.com • 10h ago
 
 ---
 
-**[Bitcoin Recovers as US-Iran Peace Deal Reportedly Signed, Altcoins Gain Big](https://finance.yahoo.com/markets/crypto/articles/bitcoin-recovers-us-iran-peace-214229628.html)**
+**[The Institutional Bitcoin Exit Is Real: Analyst Exposes Who’s On The Wrong Side Of The Trade](https://www.tradingview.com/news/newsbtc:e247c8395094b:0-the-institutional-bitcoin-exit-is-real-analyst-exposes-who-s-on-the-wrong-side-of-the-trade/)**
 
-Bitcoin recovered from a one-month low as US-Iran peace deal hopes lifted AI and privacy coins across the crypto market.
+Bitcoin is struggling to push above $78,000 as the market faces uncertainty that has made directional conviction difficult to sustain. The price is grinding. Not breaking down catastrophically, but not advancing either. A CryptoOnchain report combining US Spot ETF flow data with Binance on-chain me…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin prices news: BTC heads back to $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
-
-"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries," wrote President Trump late Saturday afternoon.
-
-CoinDesk • 1d ago
+TradingView • 1h ago
 
 ---
 
@@ -235,19 +231,13 @@ CoinDesk • 1d ago
 
 Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and laid out a chart pattern that should make every Bitcoin bull pause. The episode title says it plainly: “Bitcoin To $40K? Saylor’s Big Bet Is Breaking.” The thesis hinges on a single uncomfortable observation about 2022 that most investors have ... The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 21h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Iran starts Bitcoin-backed ship insurance for Hormuz strait](https://news.ycombinator.com/item?id=48182592)**
-
-⬆️ 347 • 💬 686 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
-
----
 
 **[Understanding Bitcoin Inscriptions](https://news.ycombinator.com/item?id=48215613)**
 
@@ -317,6 +307,14 @@ Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cry
 
 ---
 
+**[Show HN: See how much gold, plutonium and cocaine SpaceX's Bitcoin buys](https://news.ycombinator.com/item?id=48221227)**
+
+What does 1 BTC buy? 16.81 troy oz of gold today. Explore BTC purchasing power across gold, silver, plutonium-238 and more.
+
+⬆️ 2 • 💬 0 • 4d ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -327,7 +325,7 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 138 • ⏱️ 10:17 • 16h ago
+👁️ 33K • 👍 2K • 💬 138 • ⏱️ 10:17 • 18h ago
 
 ---
 
@@ -347,7 +345,7 @@ Gold is breaking down while Bitcoin keeps gaining strength. Rising bond yields, 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 111 • ⏱️ 13:37 • 20h ago
+👁️ 22K • 👍 2K • 💬 111 • ⏱️ 13:37 • 22h ago
 
 ---
 
@@ -357,7 +355,7 @@ FOX Business' Darren Botelho joins 'Mornings with Maria' to break down the growi
 
 📺 Fox Business
 
-👁️ 32K • 👍 682 • 💬 299 • ⏱️ 2:40 • 19h ago
+👁️ 32K • 👍 682 • 💬 299 • ⏱️ 2:40 • 21h ago
 
 ---
 
@@ -367,7 +365,7 @@ In today's video, Kyledoops shows you how Bitcoin is following a historical patt
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 1K • 💬 8 • ⏱️ 27:05 • 8h ago
+👁️ 11K • 👍 1K • 💬 8 • ⏱️ 27:05 • 10h ago
 
 ---
 
@@ -387,7 +385,7 @@ Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect you
 
 📺 Bitcoin Magazine
 
-👁️ 1K • 👍 45 • 💬 4 • ⏱️ 1:24 • 4h ago
+👁️ 1K • 👍 45 • 💬 4 • ⏱️ 1:24 • 6h ago
 
 ---
 
@@ -417,7 +415,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 9K • 👍 656 • 💬 128 • ⏱️ 12:46 • 17h ago
+👁️ 9K • 👍 656 • 💬 128 • ⏱️ 12:46 • 19h ago
 
 ---
 
