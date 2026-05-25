@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T00:00:13.736591+00:00'
+updated: '2026-05-25T04:45:41.186423+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 00:00 UTC  
+**Last Updated:** May 25, 2026 at 04:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,078.50
+### $2,105.54
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -1.4%  
-**30d:** -9.5%  
-**90d:** +13.4%  
-**1y:** -17.7%  
+**24h:** -0.7%  
+**7d:** -0.5%  
+**30d:** -11.3%  
+**90d:** +2.1%  
+**1y:** -18.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.51B
+**Market Cap:** $253.09B
 Rank #2
 
-**Circulating Supply:** 120,685,540 ETH
+**Circulating Supply:** 120,685,518 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -57.6%
 
 **All-Time Low:** $0.43
-+484593.3%
++484519.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Some of my perspective on where the EF is going | Vitalik](https://www.reddit.com/r/ethereum/comments/1tmtdpg/some_of_my_perspective_on_where_the_ef_is_going/)**
+
+Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
+
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 4h ago
+
+---
+
 **[Daily General Discussion May 24, 2026](https://www.reddit.com/r/ethereum/comments/1tm2jw9/daily_general_discussion_may_24_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+23h ago
 
 ---
 
@@ -140,14 +148,6 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 ---
 
-**[meet the hardware wallet that looks like a game boy and possesses the ethos of a seasoned self-sovereign vet](https://www.reddit.com/r/ethereum/comments/1tioe3q/meet_the_hardware_wallet_that_looks_like_a_game/)**
-
-the keycard shell understood the assignment. because it's not about the looks, the cool factor, or some other shallow thing other hardware wallets might advertise. it's about the mission. and there's no other hardware wallet as true-to-ethos (sic cypherpunk) and self-sovereign as the Keycard Shell. it combines the best of: NFC chip card form factor for tapping on-the-go while securing your private keys QR code based signing (when card is inserted into the Shell) for FULLY AIRGAPPED security using an S-tier battery design choice (it uses nokia BL-4C batteries aka brick phone batteries that can be swapped out in seconds and purchased freely on the open market) being radically open source (it's so open, you can literally manufacture your own 😂) honestly, it's not much to look at. it's a cross between a retro game boy and a 90s calculator. but the see-through body is akin to a beautiful metaphor for the Keycard Shell — the premise of its security model is that it sits out in the open with nothing to hide. my full review video: https://youtu.be/HgXoI4jad-g what's r/ethereum's thoughts? can you get behind this clunker aesthetically for its mission-driven design? ————— if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a sub and a comment on my channel would go a long way!
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,15 +156,23 @@ the keycard shell understood the assignment. because it's not about the looks, t
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 5h ago
+The Block • 10h ago
 
 ---
 
-**[Will Ethereum Ever Move Past $4,000 Again?](https://finance.yahoo.com/markets/crypto/articles/ethereum-ever-move-past-4-214344099.html)**
+**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
 
-Ethereum (CRYPTO: ETH) is trading around $2,091 today, down 57% from its all-time high of $4,946, set in August 2025. To move past $4,000 again, Ethereum needs to nearly double from its current price. Ethereum nearly doubling from here is a stretch, but the case for it is stronger than the price suggests. So, we ... Will Ethereum Ever Move Past $4,000 Again?
+Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 4h ago
+
+---
+
+**[BitMine Could Enter Russell 3000 Index With Ethereum Treasury](https://finance.yahoo.com/markets/stocks/articles/bitmine-could-enter-russell-3000-203707178.html)**
+
+BitMine could join the Russell 3000 Index while Saylor hints Strategy may sell some Bitcoin during 2026 ahead.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,11 +182,25 @@ Reuters • 2d ago
 
 ---
 
-**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
+**[Will Ethereum Ever Move Past $4,000 Again?](https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/)**
 
-Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
+Ethereum trades at $2,091 today, 57% below its $4,946 ATH. Here's what's keeping it down, what could push it past $4,000.
 
-The Motley Fool • 4m ago
+24/7 Wall St. • 7h ago
+
+---
+
+**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
+
+Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
+
+TradingView • 1d ago
+
+---
+
+**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -186,29 +208,15 @@ The Motley Fool • 4m ago
 
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-CryptoSlate • 10h ago
+CryptoSlate • 15h ago
 
 ---
 
-**[Ethereum Pullbacks Spark Accumulation Activity – Here’s Why](https://www.tradingview.com/news/newsbtc:f1129239d094b:0-ethereum-pullbacks-spark-accumulation-activity-here-s-why/)**
+**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals - Grayscale Ethereum Staking](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
 
-Over the past two weeks, the Ethereum price has trended downward, sparking fears of another prolonged correction. However, data from a recent on-chain analysis indicate that the long-term bullish case for Ethereum remains quite strong.Staked Ethereum Metric Indicates Long-Term Investor ConfidenceIn…
+Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
 
-TradingView • 12h ago
-
----
-
-**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
-
-AMBCrypto • 21h ago
-
----
-
-**[Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community](https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community)**
-
-What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members
-
-CoinDesk • 3d ago
+Benzinga • 10h ago
 
 ---
 
@@ -217,14 +225,6 @@ CoinDesk • 3d ago
 Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
 
 Decrypt • 3d ago
-
----
-
-**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
-
-Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
-
-Benzinga • 5h ago
 
 ---
 
@@ -238,7 +238,37 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 923 • 💬 125 • ⏱️ 16:50 • 10h ago
+👁️ 24K • 👍 1K • 💬 145 • ⏱️ 16:50 • 14h ago
+
+---
+
+**[WARNING!!! XRP IS ABOUT TO WIN BIG. (WE K*LLED ETH?!?!)](https://www.youtube.com/watch?v=u_0IqW6QudI)**
+
+BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ethereum champions on the planet — just SOLD ...
+
+📺 Crypto Sensei
+
+👁️ 14K • 👍 910 • 💬 215 • ⏱️ 18:13 • 6h ago
+
+---
+
+**[BITCOIN SIGNAL FLASHING NOW: Don&#39;t Be FOOLED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=R3aQNAWolkI)**
+
+BITCOIN SIGNAL FLASHING NOW: Don't Be FOOLED!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 175 • 💬 75 • ⏱️ 15:24 • 3h ago
+
+---
+
+**[Ethereum At Critical Support: Relief Rally Or Trap?](https://www.youtube.com/watch?v=_C0WpUwpx0k)**
+
+We discuss the higher time frame structure, why the current move still looks corrective, the importance of the $2040 support area, ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 107 • 💬 6 • ⏱️ 10:05 • 6h ago
 
 ---
 
@@ -248,7 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 185 • 💬 29 • ⏱️ 25:04 • 1d ago
+👁️ 6K • 👍 198 • 💬 29 • ⏱️ 25:04 • 1d ago
 
 ---
 
@@ -258,7 +288,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 1K • 💬 117 • ⏱️ 24:12 • 1d ago
+👁️ 31K • 👍 1K • 💬 119 • ⏱️ 24:12 • 1d ago
 
 ---
 
@@ -268,7 +298,7 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 474 • 💬 62 • ⏱️ 10:01 • 1d ago
+👁️ 8K • 👍 480 • 💬 62 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -278,57 +308,25 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 20K • 👍 603 • 💬 242 • ⏱️ 1:11:25 • 2d ago
+👁️ 20K • 👍 610 • 💬 248 • ⏱️ 1:11:25 • 2d ago
 
 ---
 
-**[Is Quantum Computing a Threat to Bitcoin &amp; Ethereum?](https://www.youtube.com/watch?v=vNG4dN9eXMw)**
-
-Is quantum computing a threat to Bitcoin, Ethereum, and cryptocurrency security? In this video, I break down exactly how quantum ...
-
-📺 Hatcher's Market Insights
-
-👁️ 3 • ⏱️ 7:24 • 7h ago
-
----
-
-**[🚨 XRP ETFs PUMP $42M While Bitcoin &amp; Ethereum BLEED $1.4 BILLION!](https://www.youtube.com/watch?v=hKr4kPbWsPY)**
-
-XRP ETFs Inject $42M While Bitcoin & Ethereum BLEED $1.4 BILLION! XRPL Wallets Explode Happy Bitcoin Pizza Day! xox XRP ...
+**[🚨 CRYPTO SUCKS BUT THIS IS THE TIME TO MAKE IT! #xrp #bitcoin #ethereum](https://www.youtube.com/watch?v=YSunai5JNSE)**
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 373 • 💬 30 • ⏱️ 26:45 • 2d ago
+👁️ 2K • 👍 174 • 💬 4 • ⏱️ 1:17 • 3h ago
 
 ---
 
-**[ETHEREUM BREAKOUT SOON!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Yy5howQeCiY)**
+**[BTC + ETH Недельный обзор 24.05.2026 #crypto #trading #btc #биткоин #трейдинг](https://www.youtube.com/watch?v=YKT8XHZPfRk)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+СОЦИАЛЬНЫЕ СЕТИ Instagram : apollo.ilya Telegram: apollocrypto TikTok: apollocrypt0 - Реферальная ссылка BingX ...
 
-📺 Cilinix Crypto
+📺 Apollo Crypto
 
-👁️ 294 • 👍 14 • 💬 1 • ⏱️ 5:22 • 13h ago
-
----
-
-**[Something MASSIVE Is Brewing In ETH (BMNR Setup)](https://www.youtube.com/watch?v=6sXADj5P16M)**
-
-http://www.x10daytrading.com/?video=6sXADj5P16M TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
-
-📺 Wolf of Dubai Day Trading & Investing
-
-👁️ 634 • 👍 40 • 💬 2 • ⏱️ 10:35 • 1h ago
-
----
-
-**[BITCOIN &amp; CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=v-vjSel_lo0)**
-
-BITCOIN & CRYPTO FLIPPED: WTF JUST HAPPENED??? - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 424 • 💬 137 • ⏱️ 19:00 • 19h ago
+👁️ 611 • 👍 46 • 💬 8 • ⏱️ 7:39 • 8h ago
 
 ---
 
