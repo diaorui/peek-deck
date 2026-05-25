@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-25T04:45:41.180406+00:00'
+updated: '2026-05-25T08:57:17.548763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 04:45 UTC  
+**Last Updated:** May 25, 2026 at 08:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,194.72
+### $77,302.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** +0.5%  
-**30d:** -1.8%  
-**90d:** +13.7%  
-**1y:** -29.4%  
+**7d:** +0.8%  
+**30d:** -1.5%  
+**90d:** +14.0%  
+**1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1544.44B
+**Market Cap:** $1549.25B
 Rank #1
 
-**Circulating Supply:** 20,034,006 BTC
+**Circulating Supply:** 20,034,078 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.7%
 
 **All-Time Low:** $67.81
-+113648.7%
++113939.2%
 
 ---
 
@@ -77,11 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin-Backed Lending Could Hit $1T in 10 Years, Says Ledn](https://www.reddit.com/r/Bitcoin/comments/1tn1i4o/bitcoinbacked_lending_could_hit_1t_in_10_years/)**
+
+Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillion within a decade.
+
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 1h ago
+
+---
+
+**[What’s a Bitcoin take that got you laughed at before… but aged perfectly?](https://www.reddit.com/r/Bitcoin/comments/1tmyy05/whats_a_bitcoin_take_that_got_you_laughed_at/)**
+
+What’s a Bitcoin take that got you laughed at before… but aged perfectly?
+
+3h ago
+
+---
+
 **[Thoughts on 0.5btc?](https://www.reddit.com/r/Bitcoin/comments/1tmonl6/thoughts_on_05btc/)**
 
 By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to consider it life changing?
 
-7h ago
+11h ago
 
 ---
 
@@ -89,7 +105,7 @@ By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to
 
 I never trusted third parties with my money, but I still kept some fiat in a local bank. Yesterday, right before I needed to pay all my bills, my bank account got frozen. I still don’t even know the exact reason, probably because I received an amount larger than usual. I went to the bank, and they told me they had to send an email to the administration in the capital. So here I am, locked out of my own money, waiting for someone in an office to decide whether I’m allowed to access it again. Luckily, around 90% of my wealth is in Bitcoin. For the first time, I actually needed to move some BTC from my cold wallet. I did it instantly, permissionlessly, and without trusting anyone and it literally saved the day for me. Bitcoin is not a stock market. Bitcoin is the solution to the dysfunctional financial system we live under.
 
-19h ago
+23h ago
 
 ---
 
@@ -97,7 +113,15 @@ I never trusted third parties with my money, but I still kept some fiat in a loc
 
 If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream adoption 100 = completely normal and accepted by everyone My feeling is that Bitcoin is somewhere between 20 and 35 today. Advanced enough that institutions, ETFs and even some governments are involved. Early enough that most people still don’t really understand what they own, or why Bitcoin exists in the first place. Every major technology looked strange before it became normal. Internet. Credit cards. Online banking. Smartphones. So I’m curious: White would you place Bitcoin on the adoption curve today?
 
-9h ago
+13h ago
+
+---
+
+**[Mentor Monday, May 25, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1tn1ka4/mentor_monday_may_25_2026_ask_all_your_bitcoin/)**
+
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
+
+1h ago
 
 ---
 
@@ -105,7 +129,23 @@ If we imagine an adoption curve from 0 to 100: 0 = invention 50 = mainstream ado
 
 I am neurodivergent and have spent a lot of time reading about Bitcoin. I finally pulled the plug and converted my long term savings to Bitcoin over the last couple of months. My favorite metric I obsessed over was CDD (coin days destroyed). To my surprise in a community that ethos is about HODLing and long term conviction there was no easy way to track my individualized coin days that I created. I spent the last couple weeks working on an open source privacy focused tool that could allow just that. Im not a programmer, but I think I got it all working right and accounting for various edge cases. I learned all about API’s, UTXO’s, vanilla HTML5, how to register a domain, how to start a repository on GitHub, etc etc it was really fun. Check it out and let me know what you think. BitcoinDaysCreated.com
 
-🔗 [bitcoindayscreated.com](http://Bitcoindayscreated.com) • 7h ago
+🔗 [bitcoindayscreated.com](http://Bitcoindayscreated.com) • 11h ago
+
+---
+
+**[What will make the average person buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1tn3ch6/what_will_make_the_average_person_buy_bitcoin/)**
+
+Most people still don’t own any Bitcoin. Not because they’ve never heard of it. But because they don’t feel they need it. So what do you think will be the real trigger for mass adoption? Higher prices? Inflation? Banks offering Bitcoin accounts? Governments holding BTC? A financial crisis? I’m curious what people think. What will finally make the average person buy their first Bitcoin?
+
+4m ago
+
+---
+
+**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
+
+You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
+
+10m ago
 
 ---
 
@@ -113,59 +153,13 @@ I am neurodivergent and have spent a lot of time reading about Bitcoin. I finall
 
 Hello I have a problem, got a new iphone and the phantom app transferred over but only in watch only mode I wrote down my 12 word seed phrase but missed one word. What an idiot Its in the correct order and I think I missed the last word Is there anything I can do other than try all 2048 different words. Found some different things using python or btc recover but all so complicated. Do they work… please help? Only £500 on there so not the end of the world but really annoying.
 
-14h ago
-
----
-
-**[Which platform gives the lowest spread when selling BTC?](https://www.reddit.com/r/Bitcoin/comments/1tmxabp/which_platform_gives_the_lowest_spread_when/)**
-
-Please don’t comment telling me not to sell. I just need to sell a portion. I experimented with crypto.com and you lose 2% BTC when selling even with 0 fees. They’re not transparent about it, so not a fan of crypto.com. Is there a better place to sell it without losing as much?
-
-1h ago
-
----
-
-**[The Bitcoin standard, matrix animation](https://www.reddit.com/r/Bitcoin/comments/1tmqf00/the_bitcoin_standard_matrix_animation/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=IlqAiN5LbA8) • 6h ago
-
----
-
-**[It's time to wake up, Bitcoin dancing video](https://www.reddit.com/r/Bitcoin/comments/1tmdx7l/its_time_to_wake_up_bitcoin_dancing_video/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=RKySIyDnGtM) • 14h ago
-
----
-
-**[Bitcoin Drops](https://www.reddit.com/r/Bitcoin/comments/1tmdyf2/bitcoin_drops/)**
-
-If Bitcoin drops that much, could it be a strategy by big companies to scare people into selling their BTC so they can buy it back?! Stay patient, don’t sell your BTC. We’re only at the beginning of the crypto boom!
-
-14h ago
-
----
-
-**[If your Bitcoin is still on exchange](https://www.reddit.com/r/Bitcoin/comments/1tm6nod/if_your_bitcoin_is_still_on_exchange/)**
-
-Self custody. If all else, still on the exchange, at the very least put a strong password, 2FA, and never ever touch any stupid emails or scanning random QR code, be safe out there. Don't be lost in the boating accident guy, or be.
-
-19h ago
+18h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin slips as U.S.-Iran peace deal hopes offset by crypto ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-76500-as-iran-deal-hopes-support-risk-sentiment-4708159)**
-
-Investing.com • 7h ago
-
----
 
 **[Bitcoin prices news: BTC heads back to $77,000 on Middle East peace deal](https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement)**
 
@@ -175,37 +169,39 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin News: Bitcoin Surges From $74,250 to $77,000 as Trump Announces Largely Negotiated Iran Peace Deal](https://www.binance.com/en/square/post/326559142879954)**
+**[Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay](https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay)**
 
-Binance • 18h ago
+MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.
 
----
-
-**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
-
-Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
-
-The Motley Fool • 4h ago
+Decrypt • 11h ago
 
 ---
 
-**[Bitcoin Spot ETFs Saw Net Outflows of $1.257 Billion Last Week](https://www.binance.com/en/square/post/326820982796753)**
+**[Bitcoin’s Quietest Accumulation in 18 Months Is Happening Right Now](https://finance.yahoo.com/markets/crypto/articles/bitcoin-quietest-accumulation-18-months-070647052.html)**
 
-Binance • 47m ago
+Bitcoin price builds a proactive setup as whale positioning hits a yearly high while retail demand drops to its most bearish level of 2026.
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[BTC/USDT](https://www.binance.com/en/trade/BTC_USDT?contentId=326807474119409)**
+**[BTC/USDT](https://www.binance.com/en/trade/BTC_USDT?contentId=326854174197874)**
 
 Binance • 1h ago
 
 ---
 
-**[The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First](https://finance.yahoo.com/markets/crypto/articles/2022-bitcoin-pattern-back-second-203707815.html)**
+**[Bitcoin rebounds above $77k on Iran deal hopes, Nasdaq crypto options plan](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-77k-on-iran-deal-hopes-nasdaq-crypto-options-plan-4708329)**
 
-Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and laid out a chart pattern that should make every Bitcoin bull pause. The episode title says it plainly: “Bitcoin To $40K? Saylor’s Big Bet Is Breaking.” The thesis hinges on a single uncomfortable observation about 2022 that most investors have ... The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First
+Investing.com • 1h ago
 
-Yahoo Finance • 8h ago
+---
+
+**[Billionaire Mark Cuban Suddenly Flips On Bitcoin As Massive Crash Fear Hits Price](https://www.forbes.com/sites/digital-assets/2026/05/24/billionaire-mark-cuban-suddenly-flips-on-bitcoin-as-massive-crash-fear-hits-price/)**
+
+Bitcoin has plummeted over the last week, falling sharply by 10% since mid-May...
+
+Forbes • 21h ago
 
 ---
 
@@ -217,6 +213,14 @@ The Block • 2d ago
 
 ---
 
+**[Tech-Savvy Leaders, This 2-Pack of Desktop BitCoin Miners Is Just $70](https://www.entrepreneur.com/money-finance/tech-savvy-leaders-this-2-pack-of-desktop-bitcoin-miners/504494)**
+
+Low-power. Standalone operation.
+
+entrepreneur.com • 1d ago
+
+---
+
 **[Trump Media (DJT) Moves To Sell Bitcoin As Losses Reach $455 Million](https://bitcoinmagazine.com/news/trump-media-djt-moves-to-sell-bitcoin-as-losses-reach-455-million)**
 
 Trump Media & Technology Group transferred 2,650 Bitcoin (~$205 million) to Crypto.com, signaling a likely pending sale.
@@ -225,11 +229,11 @@ Bitcoin Magazine • 2d ago
 
 ---
 
-**[Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay](https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay)**
+**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
 
-MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.
+Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-Decrypt • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -293,7 +297,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[Bitcoin's Price Relies on Strategy's Record Buying Under Michael Saylor](https://news.ycombinator.com/item?id=48219289)**
 
-⬆️ 2 • 💬 2 • 3d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-20/bitcoin-grows-more-dependent-on-michael-saylor-s-buying-machine)
+⬆️ 2 • 💬 2 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-20/bitcoin-grows-more-dependent-on-michael-saylor-s-buying-machine)
 
 ---
 
@@ -321,17 +325,7 @@ Congress just moved one step closer to a Strategic Bitcoin Reserve, and almost n
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 113 • ⏱️ 20:00 • 1d ago
-
----
-
-**[CRYPTO BOOM: Stablecoin transactions hit MASSIVE $74.2 billion](https://www.youtube.com/watch?v=MDsw5q-yDS8)**
-
-FOX Business' Darren Botelho joins 'Mornings with Maria' to break down the growing push for stablecoins and digital payments ...
-
-📺 Fox Business
-
-👁️ 24K • 👍 588 • 💬 273 • ⏱️ 2:40 • 8h ago
+👁️ 17K • 👍 2K • 💬 114 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -341,7 +335,7 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 176 • ⏱️ 10:17 • 5h ago
+👁️ 25K • 👍 2K • 💬 114 • ⏱️ 10:17 • 9h ago
 
 ---
 
@@ -351,7 +345,7 @@ Gold is breaking down while Bitcoin keeps gaining strength. Rising bond yields, 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 100 • ⏱️ 13:37 • 9h ago
+👁️ 19K • 👍 1K • 💬 105 • ⏱️ 13:37 • 13h ago
 
 ---
 
@@ -361,17 +355,17 @@ Let's talk about the Bitcoin bear market resistance band. Read the most recent m
 
 📺 Benjamin Cowen
 
-👁️ 6K • 👍 551 • 💬 27 • ⏱️ 11:07 • 1h ago
+👁️ 19K • 👍 2K • 💬 68 • ⏱️ 11:07 • 5h ago
 
 ---
 
-**[BITCOIN: THE WEEKLY RSI](https://www.youtube.com/watch?v=c1mzUScNhRo)**
+**[CRYPTO BOOM: Stablecoin transactions hit MASSIVE $74.2 billion](https://www.youtube.com/watch?v=MDsw5q-yDS8)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+FOX Business' Darren Botelho joins 'Mornings with Maria' to break down the growing push for stablecoins and digital payments ...
 
-📺 Jordan Camirand
+📺 Fox Business
 
-👁️ 9K • 👍 460 • 💬 156 • ⏱️ 14:10 • 13h ago
+👁️ 29K • 👍 646 • 💬 261 • ⏱️ 2:40 • 12h ago
 
 ---
 
@@ -381,7 +375,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 52K • 👍 2K • 💬 38 • ⏱️ 53:11 • 1d ago
+👁️ 53K • 👍 2K • 💬 38 • ⏱️ 53:11 • 1d ago
+
+---
+
+**[$8M BITCOIN STILL TOO CHEAP - Final Supply Grab Is Here](https://www.youtube.com/watch?v=JoVCMfaH6kw)**
+
+Secure your Bitcoin with Tangem Wallet + discount: https://tangem.com/invite/ALERTS Michael Saylor says Bitcoin is headed ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 179 • 💬 39 • ⏱️ 19:32 • 10h ago
+
+---
+
+**[BITCOIN: THE WEEKLY RSI](https://www.youtube.com/watch?v=c1mzUScNhRo)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 9K • 👍 483 • 💬 140 • ⏱️ 14:10 • 17h ago
 
 ---
 
@@ -391,17 +405,7 @@ FOX Business' Darren Botelho reports Republicans are racing to cement U.S. crypt
 
 📺 Fox Business
 
-👁️ 42K • 👍 721 • 💬 452 • ⏱️ 2:01 • 1d ago
-
----
-
-**[BITCOIN ABOUT TO CRASH TO $23k](https://www.youtube.com/watch?v=w2R12u15suM)**
-
-Welcome back to Open Wallets, where we open our wallets to help you build yours. This clip was extracted from our previous ...
-
-📺 Open Wallets
-
-👁️ 4K • 👍 146 • 💬 81 • ⏱️ 6:09 • 1d ago
+👁️ 44K • 👍 746 • 💬 459 • ⏱️ 2:01 • 1d ago
 
 ---
 
@@ -411,7 +415,7 @@ FOX Business' Darren Botelho reports on the Trump administration opening the doo
 
 📺 Fox Business
 
-👁️ 45K • 👍 863 • 💬 514 • ⏱️ 2:17 • 2d ago
+👁️ 46K • 👍 870 • 💬 517 • ⏱️ 2:17 • 2d ago
 
 ---
 

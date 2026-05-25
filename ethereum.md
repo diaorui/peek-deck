@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T04:45:41.186423+00:00'
+updated: '2026-05-25T08:57:17.554734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 04:45 UTC  
+**Last Updated:** May 25, 2026 at 08:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,105.54
+### $2,116.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -0.5%  
-**30d:** -11.3%  
-**90d:** +2.1%  
-**1y:** -18.0%  
+**24h:** -0.3%  
+**7d:** +0.2%  
+**30d:** -10.7%  
+**90d:** +2.9%  
+**1y:** -17.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.09B
+**Market Cap:** $255.12B
 Rank #2
 
 **Circulating Supply:** 120,685,518 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.6%
+-57.2%
 
 **All-Time Low:** $0.43
-+484519.3%
++488249.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 25, 2026](https://www.reddit.com/r/ethereum/comments/1tmyynn/daily_general_discussion_may_25_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3h ago
+
+---
+
 **[Some of my perspective on where the EF is going | Vitalik](https://www.reddit.com/r/ethereum/comments/1tmtdpg/some_of_my_perspective_on_where_the_ef_is_going/)**
 
 Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
 
-🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 4h ago
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 8h ago
 
 ---
 
@@ -80,7 +88,7 @@ Join the conversation on Firefly: follow, comment and engage with Web3 social po
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +112,7 @@ We are in deep bear market territory in both price and content. Bankless can't b
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +128,7 @@ Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev toolin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -140,14 +148,6 @@ Been thinking a lot about the Ethereum Foundation security conversations this we
 
 ---
 
-**[The Fed Has 120 Days to Explain Why Crypto Can't Access Its Payment System: It's Never Had to Explain Itself Before](https://www.reddit.com/r/ethereum/comments/1tim0be/the_fed_has_120_days_to_explain_why_crypto_cant/)**
-
-Trump's executive order does not give crypto firms Fed payment access. It gives them something more dangerous to the Fed's position. The Fed now has 120 days to explain itself in writing.
-
-🔗 [DailyCoin Post](https://dailycoinpost.com/trump-executive-order-fed-crypto-payment-access-warsh/) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Trump's executive order does not give crypto firms Fed payment access. It gives 
 
 Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-The Block • 10h ago
+The Block • 14h ago
 
 ---
 
@@ -164,7 +164,13 @@ The Block • 10h ago
 
 Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-The Motley Fool • 4h ago
+The Motley Fool • 8h ago
+
+---
+
+**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=326871380082514)**
+
+Binance • 26m ago
 
 ---
 
@@ -176,31 +182,33 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Will Ethereum Ever Move Past $4,000 Again?](https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/)**
+
+Ethereum trades at $2,091 today, 57% below its $4,946 ATH. Here's what's keeping it down, what could push it past $4,000.
+
+24/7 Wall St. • 11h ago
+
+---
+
 **[Mapping the Market: Ether may be on the precipice of more losses](https://www.reuters.com/markets/global-markets-technicals-2026-05-22/)**
 
 Reuters • 2d ago
 
 ---
 
-**[Will Ethereum Ever Move Past $4,000 Again?](https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/)**
+**[Ethereum Price Builds Momentum For Another Bullish Surge Ahead](https://www.tradingview.com/news/newsbtc:499b59a08094b:0-ethereum-price-builds-momentum-for-another-bullish-surge-ahead/)**
 
-Ethereum trades at $2,091 today, 57% below its $4,946 ATH. Here's what's keeping it down, what could push it past $4,000.
+Ethereum price started a downside correction from $2,150. ETH must clear the $2,120 and $2,150 resistance levels to continue higher.Ethereum Price Holds SupportEthereum price failed to stay above the $2,145 zone and extended its decline, like Bitcoin. ETH price gained pace for a move below the $2,1…
 
-24/7 Wall St. • 7h ago
-
----
-
-**[Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy](https://www.tradingview.com/news/newsbtc:cba7f99f7094b:0-analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/)**
-
-Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which reveals the most ideal entry point for trad…
-
-TradingView • 1d ago
+TradingView • 3h ago
 
 ---
 
-**[$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!](https://ambcrypto.com/?p=601377)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
 
-AMBCrypto • 1d ago
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
+
+FXStreet • 5h ago
 
 ---
 
@@ -208,23 +216,13 @@ AMBCrypto • 1d ago
 
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
-CryptoSlate • 15h ago
+CryptoSlate • 19h ago
 
 ---
 
-**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals - Grayscale Ethereum Staking](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
+**[Ethereum holds 55% of stablecoins, yet ETH trades below $2.4K – Justified?](https://ambcrypto.com/ethereum-holds-55-of-stablecoins-yet-eth-trades-below-2-4k-justified/)**
 
-Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
-
-Benzinga • 10h ago
-
----
-
-**[Ethereum Crypto Influencer Game 'Fantasy Top' Shutting Down](https://decrypt.co/368640/ethereum-crypto-influencer-game-fantasy-top-shutting-down)**
-
-Fantasy Top, a game that reimagines fantasy sports through the lens of Crypto Twitter, will close down two years after its hot launch.
-
-Decrypt • 3d ago
+AMBCrypto • 57m ago
 
 ---
 
@@ -238,7 +236,7 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 145 • ⏱️ 16:50 • 14h ago
+👁️ 27K • 👍 1K • 💬 151 • ⏱️ 16:50 • 18h ago
 
 ---
 
@@ -248,37 +246,7 @@ BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ether
 
 📺 Crypto Sensei
 
-👁️ 14K • 👍 910 • 💬 215 • ⏱️ 18:13 • 6h ago
-
----
-
-**[BITCOIN SIGNAL FLASHING NOW: Don&#39;t Be FOOLED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=R3aQNAWolkI)**
-
-BITCOIN SIGNAL FLASHING NOW: Don't Be FOOLED!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 175 • 💬 75 • ⏱️ 15:24 • 3h ago
-
----
-
-**[Ethereum At Critical Support: Relief Rally Or Trap?](https://www.youtube.com/watch?v=_C0WpUwpx0k)**
-
-We discuss the higher time frame structure, why the current move still looks corrective, the importance of the $2040 support area, ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 107 • 💬 6 • ⏱️ 10:05 • 6h ago
-
----
-
-**[Lyn Alden :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=1Uk-o8yZ4Y0)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 198 • 💬 29 • ⏱️ 25:04 • 1d ago
+👁️ 20K • 👍 1K • 💬 246 • ⏱️ 18:13 • 10h ago
 
 ---
 
@@ -288,7 +256,17 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 Coin Bureau
 
-👁️ 31K • 👍 1K • 💬 119 • ⏱️ 24:12 • 1d ago
+👁️ 31K • 👍 1K • 💬 120 • ⏱️ 24:12 • 1d ago
+
+---
+
+**[Lyn Alden :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=1Uk-o8yZ4Y0)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 201 • 💬 30 • ⏱️ 25:04 • 1d ago
 
 ---
 
@@ -298,7 +276,25 @@ CRUCIAL BITCOIN CRASH THE DEMISE OF ETHEREUM WILL ￼DESTROY CRYPTO? Hey babes, 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 480 • 💬 62 • ⏱️ 10:01 • 1d ago
+👁️ 8K • 👍 488 • 💬 62 • ⏱️ 10:01 • 1d ago
+
+---
+
+**[Ethereum At Critical Support: Relief Rally Or Trap?](https://www.youtube.com/watch?v=_C0WpUwpx0k)**
+
+We discuss the higher time frame structure, why the current move still looks corrective, the importance of the $2040 support area, ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 163 • 💬 8 • ⏱️ 10:05 • 10h ago
+
+---
+
+**[🚨 CRYPTO SUCKS BUT THIS IS THE TIME TO MAKE IT! #xrp #bitcoin #ethereum](https://www.youtube.com/watch?v=YSunai5JNSE)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 228 • 💬 6 • ⏱️ 1:17 • 7h ago
 
 ---
 
@@ -308,25 +304,27 @@ METAMASK | $100000 ONDO GM CHALLENGE https://bankless.cc/OndoOnMetaMask --- Cryp
 
 📺 Bankless
 
-👁️ 20K • 👍 610 • 💬 248 • ⏱️ 1:11:25 • 2d ago
+👁️ 21K • 👍 618 • 💬 249 • ⏱️ 1:11:25 • 2d ago
 
 ---
 
-**[🚨 CRYPTO SUCKS BUT THIS IS THE TIME TO MAKE IT! #xrp #bitcoin #ethereum](https://www.youtube.com/watch?v=YSunai5JNSE)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=RazOztY5rxc)**
 
-📺 CryptoWendyO
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-👁️ 2K • 👍 174 • 💬 4 • ⏱️ 1:17 • 3h ago
+📺 Crypto Gyan
+
+👁️ 1K • 👍 87 • ⏱️ 7:30 • 19h ago
 
 ---
 
-**[BTC + ETH Недельный обзор 24.05.2026 #crypto #trading #btc #биткоин #трейдинг](https://www.youtube.com/watch?v=YKT8XHZPfRk)**
+**[Something MASSIVE Is Brewing In ETH (BMNR Setup)](https://www.youtube.com/watch?v=6sXADj5P16M)**
 
-СОЦИАЛЬНЫЕ СЕТИ Instagram : apollo.ilya Telegram: apollocrypto TikTok: apollocrypt0 - Реферальная ссылка BingX ...
+http://www.x10daytrading.com/?video=6sXADj5P16M TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
 
-📺 Apollo Crypto
+📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 611 • 👍 46 • 💬 8 • ⏱️ 7:39 • 8h ago
+👁️ 3K • 👍 107 • 💬 19 • ⏱️ 10:35 • 10h ago
 
 ---
 
