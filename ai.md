@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-25T19:41:29.043361+00:00'
+updated: '2026-05-25T21:08:42.200933+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 25, 2026 at 19:41 UTC  
+**Last Updated:** May 25, 2026 at 21:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Operations chief Andrew Macdonald said he's not seeing proportional productivity gains from increasing AI costs within Uber.
 
-🔗 [Business Insider](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5) • 3h ago
+🔗 [Business Insider](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Operations chief Andrew Macdonald said he's not seeing proportional productivity
 
 We have entered the era of artificial general intelligence.
 
-10h ago
+12h ago
 
 ---
 
@@ -57,47 +57,7 @@ We have entered the era of artificial general intelligence.
 
 A lot of people talk about AI agents like the main goal is making them more independent. But the more I think about it, the bigger issue is probably visibility. If an AI is only answering a question, it is easy to judge the result. But once it starts doing things across websites, accounts, forms, support systems, or emails, users need to know exactly what happened. What did it click. What did it submit. What did it ask. Where did it fail. When did it decide to continue, retry, or stop. Without that kind of audit trail, even a smart agent feels hard to trust. A small mistake can hide inside a long workflow, and by the time the user notices, the problem may already be messy. The next useful version of AI agents might not be the one that acts the most independently. It might be the one that makes every step clear enough that a normal user can trust what it did.
 
-5h ago
-
----
-
-**[If you could subscribe to one AI provider who would it be?](https://www.reddit.com/r/artificial/comments/1tn73ve/if_you_could_subscribe_to_one_ai_provider_who/)**
-
-Im pretty much looking for where to get the most for the least amount of money. But with so many providers and most not even clearly stating their usage limits things get confusing fast. Any of you have a tip?
-
-7h ago
-
----
-
-**[Why is there a sudden demand for a bunch of data centers?](https://www.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/)**
-
-I live in Pennsylvania, and in just the past year there’s been about a dozen data centers proposed within a 30 mile radius of me, all pretty large scale projects. I’m confused because we have a bunch of AI now that’s working without all these newly proposed data centers. I understand it continues to advance and grow, but why is there such a significant spike? Is there actually demand, or are these going to be mostly unused?
-
-3h ago
-
----
-
-**[Future Prediction](https://www.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/)**
-
-I have a prediction that companies laying off workers thinking they can be replaced by AI are going to have a mess on their hands in a couple years. Execs think AI can do employees’ jobs and in many cases it can’t. This thinking would be like laying off workers because computers were invented. Between the loss of institutional knowledge, quality/hallucination issues with AI and the need for human supervision I believe these layoffs are extremely short-sighted. Thoughts?
-
-4h ago
-
----
-
-**[Wix cutting](https://www.reddit.com/r/artificial/comments/1tne1m4/wix_cutting/)**
-
-Wix is reportedly laying off roughly 800–1,000 employees — about 20% of its workforce — in its largest restructuring ever. The interesting part isn’t just the layoffs. It’s what they reveal about the economics of AI-first software companies. Wix’s core business is still growing: • Revenue reportedly rose ~14% YoY in Q1 2026 • Bookings were up ~15% • New AI-driven cohorts showed even faster growth But growth alone no longer protects margins when AI infrastructure costs explode. The pressure points: • Heavy investment in Base44, the vibe-coding startup Wix acquired in 2025 • Building and running proprietary AI models • Massive compute/inference costs • Expensive customer acquisition and marketing campaigns • A controversial $1.6B share buyback executed before the downturn At the same time, investors are questioning whether traditional website builders are becoming commoditized by AI. The bigger story is “vibe coding.” Users can now describe an app or website in plain English: “Create a sleek portfolio site with dark mode, payments, and a booking form.” AI generates the product instantly. That changes the value chain. The old moat was: templates + drag-and-drop builders. The new moat is becoming: AI orchestration + hosting + payments + integrations + reliability + distribution. Wix understands this. Instead of resisting the shift, they’ve aggressively moved toward it: • Acquired Base44 • Launched Wix Harmony, an AI-native creation platform • Combined natural-language generation with traditional visual editing • Pushed deeper into AI infrastructure and automation The irony is that AI didn’t kill Wix’s market overnight. It forced Wix to reinvent what “website building” even means. Pure AI tools can generate impressive demos quickly. But production systems still require: • uptime • commerce infrastructure • SEO • analytics • security • scalability • customer support That’s where incumbents still have leverage. This looks less like “AI destroyed Wix” and more like: a profitable software company being forced through an AI-era reset where efficiency, infrastructure costs, and platform strategy suddenly matter more than headcount growth. The broader lesson: AI is compressing the value of interfaces while increasing the value of infrastructure and distribution. The companies that survive won’t necessarily be the ones with the best demos. They’ll be the ones that can combine: • AI generation • operational reliability • ecosystem lock-in • cost control • and real business workflows AI is making software creation easier. But it’s also making software businesses much harder to defend.
-
-3h ago
-
----
-
-**[Sam Altman’s startup is hoping Jared Leto’s band will get you to scan your eyeball](https://www.reddit.com/r/artificial/comments/1tn9ktk/sam_altmans_startup_is_hoping_jared_letos_band/)**
-
-A new tool helps artists stop bots from buying up concert tickets. Instead, it reserves spots for fans who are ‘human-verified’ by iris-scanning orbs.
-
-🔗 [sfstandard.com](https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/) • 5h ago
+6h ago
 
 ---
 
@@ -105,15 +65,55 @@ A new tool helps artists stop bots from buying up concert tickets. Instead, it r
 
 Curated this list of fastest growing AI repos. They are mostly AI coding agents, personal AI, memory, browser automation, Claude Skills and local-first dev tooling: colbymchenry/codegraph (+14.1K stars) Pre-indexed local code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent. tinyhumansai/openhuman (+17.1K stars) Personal AI / private AI superintelligence. Imbad0202/academic-research-skills (+11.6K stars) Claude Code skills for academic research workflows: research, write, review, revise, finalize. ruvnet/RuView (+6.8K stars) Turns commodity WiFi signals into spatial intelligence, presence detection, and vital sign monitoring. rohitg00/agentmemory (+6.9K stars) Persistent memory for AI coding agents based on real-world benchmarks. supertone-inc/supertonic (+3.6K stars) On-device multilingual TTS running natively via ONNX. CloakHQ/CloakBrowser (+7.0K stars) Stealth Chromium that passes bot detection tests with Playwright compatibility. HKUDS/ViMax (+2.7K stars) Agentic video generation: director, screenwriter, producer, and video generator in one. humanlayer/12-factor-agents (+1.9K stars) Principles for building production-grade LLM-powered software. Varnan-Tech/OpenDirectory (+250 stars) AI Agent Skills built for founders who hate marketing. All links in 1st comment 👇
 
-4m ago
+1h ago
 
 ---
 
-**[I got AI to compile a music production course. Anyone proficient in music care to check it out?](https://www.reddit.com/r/artificial/comments/1tnibk7/i_got_ai_to_compile_a_music_production_course/)**
+**[Cerebras Chip Sets Appear to be Optimized for LLM Use Cases](https://www.reddit.com/r/artificial/comments/1tnkwqi/cerebras_chip_sets_appear_to_be_optimized_for_llm/)**
 
-Hello, I am very new to AI AND music production. I want to learn how to create music and i don't really know much of anything in the realm. So I enrolled in several courses for music production thru Udemy. I was kind of jumping around the courses aimlessly and then I realized I need more structure. The courses include an ableton mastery course, audio engineering, music theory, piano lessons, mixing, mastering and synthesis. The compiled course includes daily lessons and exercises starting from complete novice fundamentals to professional mixing. The course should take about a year. I would post in a music production subreddit but I think i would get a lot of hate. The agent won't be producing any music for me. I only wanted it to make this course. So if anyone that is proficient in music feels up to double checking the content you would be doing me a huge solid. Im so excited to start this new adventure! Send a DM for the Google document
+One distinction I think is getting lost in the Cerebras hype cycle is that Cerebras is primarily an LLM / generative AI infrastructure story, not a universal “all AI” chip story. That is not necessarily a criticism of Cerebras. Their wafer-scale approach is genuinely interesting, and for large model training and inference the design is compelling. Cerebras’ own public inference materials discuss applications mostly centered on open LLMs such as Llama, Qwen, GLM, and GPT-OSS. The inference metrics are expressed in tokens per second, which is fundamentally a language-model / generative inference framing rather than a robotics or industrial-control framing. What Kind of AI Compute? But “AI compute” is not one undifferentiated market. LLM inference is one class of AI compute. Robotics, autonomous vehicles, drones, industrial controls, real-time vision, embedded perception, video pipelines, and sensor-fusion systems are very different classes of AI compute. Thus, it appears from Cerebras’ own materials that their chip sets are not optimized for what comes after LLMs, such as JEPA-style World Models or other post-transformer architectures. Those systems are not merely asking, “How fast can I generate tokens?” They often care about power envelope, edge deployment, ruggedization, latency determinism, camera/radar/lidar integration, feedback loops, safety certification, and real-time physical control. Cerebras’ own CS-3 messaging, by contrast, frames the system around accelerating “the latest large AI models,” and the testing data is from the likes of Llama 2, Falcon 40B, MPT-30B, and multimodal models, again measured through tokens/second style throughput. The Chip Hierarchy This is also where the hardware distinction matters. Specialized ASICs are usually the narrowest bet: if the workload matches the chip, they can be extremely efficient, but that efficiency comes from specialization. Cerebras appears broader than a narrow single-use ASIC, but still much more concentrated around datacenter large-model training and inference. NVIDIA GPUs, by contrast, are less specialized but much more broadly useful across AI workloads, including LLMs, vision, robotics, simulation, autonomous systems, edge AI, and industrial applications. So the question is not merely whether Cerebras is “better” or “worse” than NVIDIA. The question is what part of the AI hardware market we are talking about? Challenge NVIDA? This is why I think people should be careful when saying Cerebras is going to “challenge Nvidia” without specifying the battlefield. Challenge Nvidia in what? High-speed LLM inference? Large model training? Datacenter generative AI workloads? That is a much more plausible and specific claim. Cerebras has even published and promoted work specifically on training large language models, and independent benchmarking literature also evaluates Cerebras WSE in terms of LLM training and inference performance. The Distinction that's Necessary The point is not that Cerebras is overhyped. The point is that it is important in a specific part of AI and that distinction should be made clear. Cerebras may become a very serious player in LLM infrastructure, especially if the market continues to reward faster and cheaper LLM inference. But that does not mean it is positioned the same way across non-LLM AI. The current hype cycle tends to conflate "LLMs" and general “AI” compute together and that makes the hardware discussion less useful and clear. So ultimately, an investment in Cerebras looks more like a bet on current LLM infrastructure than a broad bet on the future form of AI. It may be a good bet, but people should understand what kind of bet it is.
 
-47m ago
+40m ago
+
+---
+
+**[If you could subscribe to one AI provider who would it be?](https://www.reddit.com/r/artificial/comments/1tn73ve/if_you_could_subscribe_to_one_ai_provider_who/)**
+
+Im pretty much looking for where to get the most for the least amount of money. But with so many providers and most not even clearly stating their usage limits things get confusing fast. Any of you have a tip?
+
+9h ago
+
+---
+
+**[Why is there a sudden demand for a bunch of data centers?](https://www.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/)**
+
+I live in Pennsylvania, and in just the past year there’s been about a dozen data centers proposed within a 30 mile radius of me, all pretty large scale projects. I’m confused because we have a bunch of AI now that’s working without all these newly proposed data centers. I understand it continues to advance and grow, but why is there such a significant spike? Is there actually demand, or are these going to be mostly unused?
+
+5h ago
+
+---
+
+**[Wix cutting](https://www.reddit.com/r/artificial/comments/1tne1m4/wix_cutting/)**
+
+Wix is reportedly laying off roughly 800–1,000 employees — about 20% of its workforce — in its largest restructuring ever. The interesting part isn’t just the layoffs. It’s what they reveal about the economics of AI-first software companies. Wix’s core business is still growing: • Revenue reportedly rose ~14% YoY in Q1 2026 • Bookings were up ~15% • New AI-driven cohorts showed even faster growth But growth alone no longer protects margins when AI infrastructure costs explode. The pressure points: • Heavy investment in Base44, the vibe-coding startup Wix acquired in 2025 • Building and running proprietary AI models • Massive compute/inference costs • Expensive customer acquisition and marketing campaigns • A controversial $1.6B share buyback executed before the downturn At the same time, investors are questioning whether traditional website builders are becoming commoditized by AI. The bigger story is “vibe coding.” Users can now describe an app or website in plain English: “Create a sleek portfolio site with dark mode, payments, and a booking form.” AI generates the product instantly. That changes the value chain. The old moat was: templates + drag-and-drop builders. The new moat is becoming: AI orchestration + hosting + payments + integrations + reliability + distribution. Wix understands this. Instead of resisting the shift, they’ve aggressively moved toward it: • Acquired Base44 • Launched Wix Harmony, an AI-native creation platform • Combined natural-language generation with traditional visual editing • Pushed deeper into AI infrastructure and automation The irony is that AI didn’t kill Wix’s market overnight. It forced Wix to reinvent what “website building” even means. Pure AI tools can generate impressive demos quickly. But production systems still require: • uptime • commerce infrastructure • SEO • analytics • security • scalability • customer support That’s where incumbents still have leverage. This looks less like “AI destroyed Wix” and more like: a profitable software company being forced through an AI-era reset where efficiency, infrastructure costs, and platform strategy suddenly matter more than headcount growth. The broader lesson: AI is compressing the value of interfaces while increasing the value of infrastructure and distribution. The companies that survive won’t necessarily be the ones with the best demos. They’ll be the ones that can combine: • AI generation • operational reliability • ecosystem lock-in • cost control • and real business workflows AI is making software creation easier. But it’s also making software businesses much harder to defend.
+
+4h ago
+
+---
+
+**[Future Prediction](https://www.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/)**
+
+I have a prediction that companies laying off workers thinking they can be replaced by AI are going to have a mess on their hands in a couple years. Execs think AI can do employees’ jobs and in many cases it can’t. This thinking would be like laying off workers because computers were invented. Between the loss of institutional knowledge, quality/hallucination issues with AI and the need for human supervision I believe these layoffs are extremely short-sighted. Thoughts?
+
+6h ago
+
+---
+
+**[Sam Altman’s startup is hoping Jared Leto’s band will get you to scan your eyeball](https://www.reddit.com/r/artificial/comments/1tn9ktk/sam_altmans_startup_is_hoping_jared_letos_band/)**
+
+A new tool helps artists stop bots from buying up concert tickets. Instead, it reserves spots for fans who are ‘human-verified’ by iris-scanning orbs.
+
+🔗 [sfstandard.com](https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/) • 7h ago
 
 ---
 
@@ -123,7 +123,21 @@ Hello, I am very new to AI AND music production. I want to learn how to create m
 
 **[Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)**
 
-The New York Times • 10h ago
+The New York Times • 5h ago
+
+---
+
+**[On Campus, More AI Use Means More Cheating. Across Majors, It Means Less](https://www.forbes.com/sites/johndrake/2026/05/25/on-campus-more-ai-use-means-more-cheating-across-majors-it-means-less/)**
+
+A new Science analysis of 95,513 students finds AI use barely predicts cheating across majors, yet heavy individual users cheat far more. What it means for grading.
+
+Forbes • 38m ago
+
+---
+
+**[Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html)**
+
+The New York Times • 4h ago
 
 ---
 
@@ -131,13 +145,7 @@ The New York Times • 10h ago
 
 The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.
 
-NPR • 10h ago
-
----
-
-**[Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html)**
-
-The New York Times • 3h ago
+NPR • 12h ago
 
 ---
 
@@ -145,15 +153,7 @@ The New York Times • 3h ago
 
 The pontiff also warned of a "new digital slaveries" in his first encyclical since becoming Pope last year.
 
-BBC • 3h ago
-
----
-
-**[Pope Leo warns AI is fueling conflict, urges world to ‘slow’ advances](https://www.nbcnews.com/world/the-vatican/pope-leo-encyclical-ai-conflict-magnifica-humanitas-rcna346784)**
-
-History’s first American pontiff was writing in his first encyclical, a sweeping and eagerly anticipated manifesto on the subject that was released Monday.
-
-NBC News • 8h ago
+BBC • 5h ago
 
 ---
 
@@ -161,37 +161,37 @@ NBC News • 8h ago
 
 Pope Leo XIV presents "Magnifica Humanitas" as the Church’s response to the challenges posed by artificial intelligence, calling for AI to be ...
 
-Vatican News • 8h ago
-
----
-
-**[Pope Leo calls to 'disarm' AI in major document, warns of technologic threats to humanity](https://www.ncronline.org/vatican/vatican-news/pope-leo-calls-disarm-ai-major-document-warns-technologic-threats-humanity)**
-
-In Magnifica Humanitas, the pope says just war theory is "outdated," condemns lethal AI weapons and asks pardon for the church's delayed condemnation of slavery.
-
-National Catholic Reporter • 7h ago
-
----
-
-**[Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.cbsnews.com/news/pope-leo-ai-encyclical-artificial-intelligence/)**
-
-In his "Magnifica Humanitas" encyclical, Pope Leo warns that as civilization grapples with the power of AI, the main challenge is remaining "profoundly human."
-
-CBS News • 4h ago
+Vatican News • 9h ago
 
 ---
 
 **[Pope, urging AI regulation, warns some weapons now beyond human control](https://www.reuters.com/business/media-telecom/pope-leo-urges-world-slow-down-ai-fervent-first-manifesto-2026-05-25/)**
 
-Reuters • 3h ago
+Reuters • 1h ago
 
 ---
 
-**[AI Changed My Career. The MBA Changed My Thinking](https://poetsandquants.com/2026/05/25/ai-changed-my-career-the-mba-changed-my-thinking/?pq-category=students)**
+**[Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death](https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death)**
 
-An LBS Grad -- and Founder of an AI Venture -- Shares Why an MBA Is More Valuable Than Ever in an AI-driven World
+In his first encyclical, Leo insists ownership of artificial intelligence data must not be left solely in private hands.
 
-Poets&Quants • 10h ago
+Al Jazeera • 4h ago
+
+---
+
+**[Pope Leo warns AI is fueling conflict, urges world to ‘slow’ advances](https://www.nbcnews.com/world/the-vatican/pope-leo-encyclical-ai-conflict-magnifica-humanitas-rcna346784)**
+
+History’s first American pontiff was writing in his first encyclical, a sweeping and eagerly anticipated manifesto on the subject that was released Monday.
+
+NBC News • 9h ago
+
+---
+
+**[Pope elevates AI ethics to a religious imperative with first encyclical](https://www.washingtonpost.com/world/2026/05/25/pope-elevates-ai-ethics-religious-imperative-with-first-encyclical/)**
+
+In "Magnifica Humanitas," he fires a broadside against AI companies, warning of the technology's dangers in the same way Pope Francis did about climate change.
+
+The Washington Post • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Poets&Quants • 10h ago
 
 High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.
 
-⬆️ 422 • 💬 465 • 1d ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+⬆️ 424 • 💬 467 • 1d ago • [Epoch AI](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
 
 ---
 
@@ -211,7 +211,7 @@ High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from
 
 VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.
 
-⬆️ 327 • 💬 177 • 6h ago • [RNS](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+⬆️ 330 • 💬 66 • 7h ago • [RNS](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
 
 ---
 
@@ -219,13 +219,13 @@ VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on 
 
 Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews
 
-⬆️ 282 • 💬 118 • 2d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+⬆️ 283 • 💬 118 • 2d ago • [euronews](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 
 ---
 
 **[Is AI Profitable Yet?](https://news.ycombinator.com/item?id=48243863)**
 
-⬆️ 260 • 💬 202 • 2d ago • [isaiprofitable.com](https://isaiprofitable.com/)
+⬆️ 261 • 💬 204 • 2d ago • [isaiprofitable.com](https://isaiprofitable.com/)
 
 ---
 
@@ -241,7 +241,7 @@ Companies are racing to incentivize employees to use AI. But as some companies a
 
 Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus…
 
-⬆️ 211 • 💬 52 • 5h ago • [krebsonsecurity.com](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+⬆️ 226 • 💬 60 • 7h ago • [krebsonsecurity.com](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 
 ---
 
@@ -271,7 +271,7 @@ PR executives say UK companies are forcing them to present ordinary automation a
 
 Pope Leo issues AI Encyclical warning that 'Opaque Algorithms' controlled by a 'few' companies threaten 'new forms of  dehumanization'
 
-⬆️ 159 • 💬 2 • 6h ago • [Variety](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
+⬆️ 162 • 💬 2 • 7h ago • [Variety](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
 
 ---
 
@@ -285,7 +285,7 @@ Pope Leo XIV unveiled his first encyclical, Magnifica Humanitas, at the Vatican,
 
 📺 DRM News
 
-👁️ 17K • 👍 1K • 💬 134 • ⏱️ 11:16 • 8h ago
+👁️ 17K • 👍 1K • 💬 134 • ⏱️ 11:16 • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ Claude Mythos 1 and Anthropic's Claude Security are now at the center of a massi
 
 📺 AI Revolution
 
-👁️ 47K • 👍 2K • 💬 109 • ⏱️ 14:27 • 20h ago
+👁️ 47K • 👍 2K • 💬 109 • ⏱️ 14:27 • 21h ago
 
 ---
 
@@ -335,7 +335,7 @@ Why Microsoft BANNING AI (Truth Exposed) AI is growing faster than ever… but w
 
 📺 FrontLinesMedia
 
-👁️ 17K • 👍 692 • 💬 97 • ⏱️ 7:21 • 7h ago
+👁️ 17K • 👍 692 • 💬 97 • ⏱️ 7:21 • 8h ago
 
 ---
 
@@ -355,7 +355,7 @@ This UFO footage was only 144p… Now it's HD/4K AI is revealing details people 
 
 📺 Clipcut
 
-👁️ 6K • 👍 241 • 💬 5 • ⏱️ 0:21 • 4h ago
+👁️ 6K • 👍 241 • 💬 5 • ⏱️ 0:21 • 6h ago
 
 ---
 
@@ -525,7 +525,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 149 • 💬 2 • ⭐ 72 • 3d ago
+▲ 149 • 💬 2 • ⭐ 72 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -579,7 +579,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LongLive-2.0 presents an NVFP4-based parallel infrastructure for long video generation that addresses training and inference bottlenecks through sequence-parallel autoregressive training and diffusion model tuning.
 
-▲ 109 • 💬 3 • ⭐ 1,980 • 7d ago
+▲ 109 • 💬 3 • ⭐ 1,980 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18739) • [💻 code](https://github.com/NVlabs/LongLive) • [🔗 project](https://nvlabs.github.io/LongLive/LongLive2/)
 
@@ -606,7 +606,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Mega-ASR framework improves robustness in real-world speech recognition through compound-data construction and progressive acoustic-to-semantic optimization techniques.
 
-▲ 127 • 💬 3 • ⭐ 576 • 6d ago
+▲ 127 • 💬 3 • ⭐ 576 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.19833) • [💻 code](https://github.com/xzf-thu/Mega-ASR) • [🔗 project](https://xzf-thu.github.io/Mega-ASR/)
 
@@ -620,7 +620,7 @@ Mega-ASR framework improves robustness in real-world speech recognition through 
 
 Lance is a unified multimodal model that combines understanding, generation, and editing capabilities for images and videos through collaborative multi-task training and a dual-stream architecture.
 
-▲ 72 • 💬 4 • ⭐ 875 • 7d ago
+▲ 72 • 💬 4 • ⭐ 875 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.18678) • [💻 code](https://github.com/bytedance/Lance) • [🔗 project](https://lance-project.github.io/)
 
@@ -668,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.6k • 🔱 179 • 3h ago
+⭐ 2.6k • 🔱 179 • 4h ago
 
 ---
 
@@ -696,7 +696,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 2.2k • 🔱 480 • 12h ago
+⭐ 2.2k • 🔱 480 • 14h ago
 
 ---
 
@@ -706,7 +706,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 1.9k • 🔱 130 • 4d ago
+⭐ 1.9k • 🔱 130 • 5d ago
 
 ---
 
@@ -726,7 +726,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.8k • 🔱 123 • 2h ago
+⭐ 1.8k • 🔱 123 • 4h ago
 
 ---
 
@@ -736,7 +736,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.7k • 🔱 191 • 11h ago
+⭐ 1.7k • 🔱 191 • 12h ago
 
 ---
 

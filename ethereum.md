@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T19:41:29.058635+00:00'
+updated: '2026-05-25T21:08:42.213620+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 19:41 UTC  
+**Last Updated:** May 25, 2026 at 21:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +0.2%  
-**30d:** -10.7%  
-**90d:** +2.9%  
-**1y:** -17.4%  
+**24h:** +1.0%  
+**7d:** +0.0%  
+**30d:** -10.9%  
+**90d:** +2.7%  
+**1y:** -17.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastruct
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been using the same DEX for about six months. Found out today that three months ago they added a 0.15% protocol fee on top of the existing LP fee. It's in their documentation but there was no notification, no banner, nothing in the app. I've been paying it without realizing. Over three months on my trading volume that's not trivial. Is there any way to recover this or is it just a loss
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've been using the same DEX for about six months. Found out today that three mo
 
 Hi Guys! I built my own app to track Ethereum and other crypto assets. Main things I focused on: fast portfolio tracking manual transaction tracking clean mobile UI no account required local-first/privacy-friendly approach simple watchlist + markets view Still improving it actively (especially the iPhone experience and portfolio analytics), but the app is already live on iOS. Would genuinely love feedback from crypto people here: What features do you wish portfolio trackers had? https://apps.apple.com/ca/app/kawah/id6760319857
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi Guys! I built my own app to track Ethereum and other crypto assets. Main thin
 
 Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
 
-🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 19h ago
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 20h ago
 
 ---
 
@@ -152,11 +152,11 @@ Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev toolin
 
 ## Google News: "ethereum"
 
-**[Vitalik Biterin breaks silence about Ethereum Foundation amid community frustration](https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops)**
+**[Vitalik Buterin says Ethereum Foundation will be a 'smaller ship,' sell less ETH amid researcher exodus](https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus)**
 
-Buterin's influence in the EF will decrease as the board expands. He framed the EF as "one node, with a defined purpose," not the center of Ethereum.
+Buterin said the EF is choosing "longevity over breadth," selling less ETH and focusing exclusively on Ethereum's "CROPS" properties.
 
-CoinDesk • 3h ago
+The Block • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 3h ago
 
 Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-The Motley Fool • 18h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -172,7 +172,15 @@ The Motley Fool • 18h ago
 
 Both Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) are far from their all-time highs, and investors want to know which one rallies back first. Ethereum peaked at $4,953 in 2025, while Solana reached $294. Today, ETH trades around $2,115 and SOL near $86—down about 58% and 71% from their respective highs. So, which of the ... Ethereum vs Solana: Which Will Hit a New ATH First?
 
-Yahoo Finance • 7m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update](https://finance.yahoo.com/markets/stocks/articles/tom-lee-outlines-liquidity-catalyst-200604004.html)**
+
+The Ethereum-buying firm owns 3.8% of the digital asset’s supply.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +194,29 @@ Reuters • 3d ago
 
 A vulnerability tied to a third-party Safe wallet module has led to the theft of about $3.2 million across Ethereum and Base after attackers exploited delegated execution permissions to drain dozens of smart accounts within roughly two hours.Blockchain security firm Blockaid said the exploit target…
 
-TradingView • 4h ago
+TradingView • 5h ago
+
+---
+
+**[Crypto News: Gruntle Presale passes $104k raised on Exhausted Narrative as $10k ETH Price Prediction Boosted By Ethereum Foundation Selling Update](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZDFKYnIxem1FLXJFQWl0RXpPbGVZcy01ZWNEeWl2dC1IT2RtczJHSmVxR2xtU0JVWmlxMjJsTllKemFfaWdRVzJjd1RQb3BMRmxQSkZvU0pCYV9LelBVbS1teW1WbVhtOUc3MV9SVmJsUGlja0xWbTFiLXZvSWhJYUNwRzQtSDAyb28yc18wbkMtdlZidW1ZUW82UzZLQlpCVlRVdHhIMEFaWF8zckVNOV9XMTMyZERvWnR2OHR5MHBaaFo1NU1fVGdZNmd4NVo4Vlk0MVFBY3RPVmUwbjE1OFc3M3FKanJRaG5oMWY0TkgtSF9nNXAwNHFjY2luY1k2ZmxZYjJ1Nnloa1ZqZjlBWlNpR2dLVmR0WHdIVFVlRjhrbXZYRWRsTFpB?oc=5)**
+
+markets.businessinsider.com • 8h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
+
+FXStreet • 17h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Hold Ground As Traders Watch For Reversal Zones And Re-Entry](https://www.benzinga.com/crypto/cryptocurrency/26/05/52766442/bitcoin-ethereum-xrp-dogecoin-hold-ground-as-traders-watch-for-reversal-zones-and-re-entry)**
+
+Bitcoin held near the $77,000 region as easing geopolitical tensions surrounding U.S.-Iran negotiations helped crypto sentiment recover toward neutral territory; around $224.3 million in crypto liquidations were record&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed over the past 24 hours.
+
+Benzinga • 7h ago
 
 ---
 
@@ -195,36 +225,6 @@ TradingView • 4h ago
 BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
 
 CryptoSlate • 1d ago
-
----
-
-**[Crypto News: Gruntle Presale passes $104k raised on Exhausted Narrative as $10k ETH Price Prediction Boosted By Ethereum Foundation Selling Update](https://markets.businessinsider.com/news/stocks/crypto-news-gruntle-presale-passes-104k-raised-on-exhausted-narrative-as-10k-eth-price-prediction-boosted-by-ethereum-foundation-selling-update-1036191715)**
-
-LONDON, May  25, 2026  (GLOBE NEWSWIRE) -- Gruntle’s presale has now pushed past $104,000 raised, and the project’s exhausted narrative is startin...
-
-markets.businessinsider.com • 7h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-leads-mild-recovery-eth-stalls-xrp-remains-under-pressure-202605250345)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
-
-FXStreet • 15h ago
-
----
-
-**[Vitalik Buterin: Ethereum Foundation must prioritize longevity over ETH sales](https://ambcrypto.com/vitalik-buterin-ethereum-foundation-must-prioritize-longevity-over-eth-sales/)**
-
-AMBCrypto • 9h ago
-
----
-
-**[Ethereum Price At Risk As Smart Money Selling Coincides With Weak Technicals - Grayscale Ethereum Staking](https://www.benzinga.com/crypto/26/05/52764057/ethereum-price-at-risk-as-smart-money-selling-coincides-with-weak-technicals)**
-
-Ethereum (CRYPTO: ETH) price remained on edge on Sunday despite the rising odds of an extended
-
-Benzinga • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhi
 
 📺 Tyler Hill Crypto
 
-👁️ 1K • 👍 115 • 💬 10 • ⏱️ 10:28 • 3h ago
+👁️ 1K • 👍 115 • 💬 10 • ⏱️ 10:28 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 281 • 👍 23 • 💬 21 • ⏱️ 41:23 • 55m ago
+👁️ 281 • 👍 23 • 💬 21 • ⏱️ 41:23 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik jus
 
 📺 VirtualBacon
 
-👁️ 2K • 👍 103 • ⏱️ 1:11:12 • 1h ago
+👁️ 2K • 👍 103 • ⏱️ 1:11:12 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin is clinging to its trend line while the Nasdaq prints new all-time highs
 
 📺 Gareth Soloway
 
-👁️ 20K • 👍 2K • 💬 103 • ⏱️ 11:03 • 4h ago
+👁️ 20K • 👍 2K • 💬 103 • ⏱️ 11:03 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ether
 
 📺 Crypto Sensei
 
-👁️ 27K • 👍 1K • 💬 267 • ⏱️ 18:13 • 21h ago
+👁️ 27K • 👍 1K • 💬 267 • ⏱️ 18:13 • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ Back in 2017, TRON launched with a whitepaper that was basically a copy paste of
 
 📺 Ivan on Tech
 
-👁️ 192 • 👍 8 • 💬 3 • ⏱️ 0:21 • 41m ago
+👁️ 192 • 👍 8 • 💬 3 • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITVAVO : 25 EUROS OFFERTS ✓https://bitvavo.com/fr/affiliate/cryptoflash25 ⚡
 
 📺 Crypto Flash 
 
-👁️ 780 • 👍 126 • 💬 21 • ⏱️ 33:07 • 4h ago
+👁️ 780 • 👍 126 • 💬 21 • ⏱️ 33:07 • 6h ago
 
 ---
 
