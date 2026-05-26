@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-26T20:53:38.422247+00:00'
+updated: '2026-05-26T22:20:24.045456+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 26, 2026 at 20:53 UTC  
+**Last Updated:** May 26, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,118.40
+### $2,076.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -2.4%  
-**30d:** -9.8%  
-**90d:** +2.5%  
-**1y:** -22.0%  
+**24h:** -2.0%  
+**7d:** -2.7%  
+**30d:** -10.1%  
+**90d:** +2.2%  
+**1y:** -22.3%  
 
 ---
 
@@ -68,17 +68,25 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily Doots Podcast #149 - What A Ride!](https://www.reddit.com/r/ethereum/comments/1tolisk/daily_doots_podcast_149_what_a_ride/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/f43ACiLIWq0) • 28m ago
+
+---
+
 **[Daily General Discussion May 26, 2026](https://www.reddit.com/r/ethereum/comments/1tnwutq/daily_general_discussion_may_26_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+17h ago
 
 ---
 
 **[~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going](https://www.reddit.com/r/ethereum/comments/1toen8p/440m_of_strc_is_now_sitting_in_defi_protocols_and/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[What are some of the best Ethereum podcasts right now?](https://www.reddit.com/r/ethereum/comments/1tkwzve/what_are_some_of_the_best_ethereum_podcasts_right/)**
-
-We are in deep bear market territory in both price and content. Bankless can't be considered an Ethereum podcast anymore and The Daily Gwei will only sporadically produce content going forward. It feels like EVMavericks Doots is one of the last bastions for Ethereum in the content creation space. Who else are y'all listening to?
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,23 @@ We are in deep bear market territory in both price and content. Bankless can't b
 
 BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.39 Million Tokens, and Total Crypto and Total Cash Holdings of $12.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-39-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-3-billion-302781471.html)**
+
+Bitmine owns more than 4.47% of the total ETH coin supply of 120.7 million Bitmine is 89% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
+
+PR Newswire • 9h ago
+
+---
+
+**[Bitmine capitalizes on Ethereum price drop, buys over 100,000 ETH as 5% supply goal nears](https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears)**
+
+"We view the recent pullback of ETH to below $2,200 as an attractive opportunity," Bitmine Chairman Tom Lee said.
+
+The Block • 8h ago
 
 ---
 
@@ -166,11 +182,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum shifts to "small ship" model as departures stack up](https://sg.finance.yahoo.com/video/ethereum-shifts-small-ship-model-193000510.html)**
+**[Pump.fun Expands App Trading Across Ethereum, Base and BNB Chain](https://finance.yahoo.com/markets/crypto/articles/pump-fun-expands-app-trading-215900295.html)**
 
-Scott Melker discusses what's happening at the Ethereum Foundation as employees depart and the business shifts to "small ship." “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Pump.fun (CRYPTO: $PUMP) is taking its trading app beyond Solana (CRYPTO: $SOL), adding multichain support that tur...
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance • 21m ago
+
+---
+
+**[Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes](https://finance.yahoo.com/markets/stocks/articles/ethereum-firm-sharplink-solana-treasury-204044468.html)**
+
+Crypto treasury firms Sharplink and Forward Industries will both be included in the Russell 2000 and 3000 indexes at the end of June.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,19 +206,19 @@ The Block • 1d ago
 
 ---
 
+**[Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel indexes](https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes)**
+
+The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.
+
+CoinDesk • 3h ago
+
+---
+
 **[Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration](https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52)**
 
 The Ethereum Foundation's Kohaku Initiative announced the release of its SDK for integrating privacy protocols into Ethereum wallets without intermediaries. The team achieved a major milestone with v0.0.1-alpha.21 of the kohaku-eth/railgun integration, which now features operational 4337 mempool relaying for private transactions. Tornado Cash and Privacy Pools integrations are in development.
 
-thedefiant.io • 22h ago
-
----
-
-**[Vitalik Buterin breaks silence about Ethereum Foundation amid community frustration](https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops)**
-
-Buterin's influence in the EF will decrease as the board expands. He framed the EF as "one node, with a defined purpose," not the center of Ethereum.
-
-CoinDesk • 1d ago
+thedefiant.io • 23h ago
 
 ---
 
@@ -202,29 +226,7 @@ CoinDesk • 1d ago
 
 Glamsterdam is the next hard fork targeting mainnet by mid-2026. Here's what our prediction about the price of 1 ETH after Glamsterdam.
 
-24/7 Wall St. • 8h ago
-
----
-
-**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
-
-Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
-
-The Motley Fool • 1d ago
-
----
-
-**[Current price of Ethereum for May 26, 2026](https://fortune.com/article/price-of-ethereum-05-26-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
-
----
-
-**[Bitcoin's (BTC-USD) Upside Signal Faded; Ethereum (ETH-USD) Remains The Fragile Side](https://seekingalpha.com/article/4908823-bitcoin-upside-signal-faded-ethereum-remains-fragile-side)**
-
-Seeking Alpha • 6h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -238,7 +240,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 451 • 👍 34 • 💬 19 • ⏱️ 44:13 • 2h ago
+👁️ 451 • 👍 34 • 💬 19 • ⏱️ 44:13 • 3h ago
 
 ---
 
@@ -248,7 +250,7 @@ Ok, so, I've been saying for a while that something is up... and it looks like b
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 489 • 💬 120 • ⏱️ 32:13 • 12h ago
+👁️ 4K • 👍 489 • 💬 120 • ⏱️ 32:13 • 13h ago
 
 ---
 
@@ -278,7 +280,7 @@ Uphold | Trade, Spend & Earn XRP ➖ US Website: https://uphold.sjv.io/US_Crypto
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 212 • 💬 13 • ⏱️ 1:11 • 2h ago
+👁️ 3K • 👍 212 • 💬 13 • ⏱️ 1:11 • 4h ago
 
 ---
 
@@ -288,7 +290,7 @@ ETH MAXI JUST REVEALED EVERYTHING! XRP IS ABOUT TO DETHRONE ETHEREUM! XRP Invest
 
 📺 NCashOfficial
 
-👁️ 4K • 👍 400 • 💬 67 • ⏱️ 20:55 • 4h ago
+👁️ 4K • 👍 400 • 💬 67 • ⏱️ 20:55 • 6h ago
 
 ---
 
@@ -308,7 +310,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 148 • 💬 51 • ⏱️ 28:28 • 14h ago
+👁️ 5K • 👍 148 • 💬 51 • ⏱️ 28:28 • 15h ago
 
 ---
 
