@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-26T22:20:24.030777+00:00'
+updated: '2026-05-26T23:40:53.079801+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 26, 2026 at 22:20 UTC  
+**Last Updated:** May 26, 2026 at 23:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic just published how they contain Claude agents, including two security incidents they got wrong](https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/)**
+
+Anthropic dropped a solid engineering post this week about containment across claude.ai, Claude Code, and Cowork. One of the more transparent writeups from a major AI lab about what actually broke. The core insight: model-layer defenses are probabilistic and will always have a non-zero miss rate. So the real answer is hard environmental containment, not just safer models. Three patterns they use: -claude.ai: ephemeral gVisor containers, fully server-side -Claude Code: OS-level sandbox with human-in-the-loop approvals (93% get approved anyway, so approval fatigue is real) -Cowork: full local VM, credentials never enter the guest Two incidents they disclosed: A red team phished an employee into running a prompt that exfiltrated AWS credentials. Succeeded 24 out of 25 times. The model had nothing to catch because the user was the one typing it. Only egress controls would have stopped it. A third-party found that Cowork’s egress allowlist passes traffic to api.anthropic.com. An attacker embedded an API key in a file in the user’s workspace, Claude followed hidden instructions, and uploaded files to the attacker’s Anthropic account. Sandbox worked perfectly and still leaked data. Their lesson: an allowlist isn’t a destination filter, it’s a capability grant. Every function reachable through an allowed domain is an attack surface. The section on persistent memory poisoning and multi-agent trust escalation at the end is worth reading too if you’re building anything agentic.
+
+1h ago
+
+---
+
 **[AI is becoming epistemic infrastructure controlled by a handful of private individuals?](https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/)**
 
 Most people treat AI as a convenient black box. Ask it something, it answers, you move on. But we’re sleepwalking into something bigger. I think Whoever controls the infrastructure of knowledge controls how people perceive reality. The Church held that position for centuries through controlling scripture. The printing press broke that monopoly by distributing interpretive power. AI is doing the opposite recentralizing it into a handful of corporations with no democratic accountability. “AI says X” is structurally identical to “studies show X” you’re invoking an authority you can’t directly access. Except with a study you can theoretically trace the source. With AI the chain is opaque by design. And it delivers wrong answers and right answers with identical confidence. There’s no texture to signal doubt. AI isn’t neutral, it’s being heavily calibrated. In the west, the models are trained to be more “ethical” maybe more liberal and always try to give you a more “balance” take on things. Chinese AI simply doesn’t allow you to access to anything that put the CCP is a bad light. The more you rely on AI in domains where you lack expertise, the less capable you become of evaluating whether to trust it. AI works best for people who already know enough to catch its errors the opposite of how most people use it. Imagine the next generation of people growing up and being shaped by these AI. I can’t help but feel nervous and scared for the future. OpenAI said 10% of our entire population has already started using chatgpt. Regardless of the accuracy of this number, I feel like we are slowly entering into a mass hallucination / blind reliance on these AI models. We’re not just offloading cognitive effort. We’re handing the dial over who shapes how billions of people understand reality to a small group of unelected, largely unregulated private individuals.
 
-14h ago
-
----
-
-**[Built a tool to save Claude responses (and ChatGPT, Gemini) into one searchable vault - sharing in case it's useful](https://www.reddit.com/r/artificial/comments/1toga8l/built_a_tool_to_save_claude_responses_and_chatgpt/)**
-
-I built this tool because I kept asking Claude for code and explanations and losing them in long chats. Coffer adds a save button to every AI response and stores them locally in a searchable vault. Works on: - claude.ai - chatgpt.com - gemini.google.com You can mix snippets across all three and search them. The Markdown stays formatted, which is very nice for Claude's longer responses with code and tables. Everything is local. Coffer makes zero network calls of its own. Free. Feedback is especially welcome. https://chromewebstore.google.com/detail/nhchbmaobjhjfmeekpnkmhdjajdolcjb?utm_source=item-share-cb
-
-3h ago
+15h ago
 
 ---
 
@@ -57,7 +57,15 @@ I built this tool because I kept asking Claude for code and explanations and los
 
 I've looked at about a dozen different image generators: Nano Banana Flux Midjourney GPT Image 2 Firefly Ideogram Recraft Leonardo Canvas Meta AI They all have their pluses and minuses but they all do a decent job. If I'm looking to spend thousands over a year on an image generator, what would you suggest. This would be mainly for business and a little for art.
 
-9h ago
+10h ago
+
+---
+
+**[Built a tool to save Claude responses (and ChatGPT, Gemini) into one searchable vault - sharing in case it's useful](https://www.reddit.com/r/artificial/comments/1toga8l/built_a_tool_to_save_claude_responses_and_chatgpt/)**
+
+I built this tool because I kept asking Claude for code and explanations and losing them in long chats. Coffer adds a save button to every AI response and stores them locally in a searchable vault. Works on: - claude.ai - chatgpt.com - gemini.google.com You can mix snippets across all three and search them. The Markdown stays formatted, which is very nice for Claude's longer responses with code and tables. Everything is local. Coffer makes zero network calls of its own. Free. Feedback is especially welcome. https://chromewebstore.google.com/detail/nhchbmaobjhjfmeekpnkmhdjajdolcjb?utm_source=item-share-cb
+
+4h ago
 
 ---
 
@@ -65,7 +73,7 @@ I've looked at about a dozen different image generators: Nano Banana Flux Midjou
 
 I keep seeing the same failure in every multi-agent setup I touch. Memory looks fine on day one. By week three it is half stale facts, half private context that should not have been written publicly, and half decisions that were superseded but never overwritten. Retrieval gets noisier. Users keep repeating context because the right fact ended up in the wrong scope. The recursion limit is not the problem here. The memory store itself is the problem. The thing I changed that helped most was the simplest possible rule. Worker agents are not allowed to write to durable memory. They emit a structured memory event with a proposed scope and evidence, and a separate Memory Curator agent decides whether to write it, where to write it, or to discard it. The four scopes I route into are agent repo memory (durable design rules for one agent), agent team memory (cross-agent procedures, handoff standards, safety rules), project memory (current state, decisions, risks for one engagement), and session scratch (temporary observations that probably should not survive). The mapping I had in mind was to organizational and human memory categories: individual specialist memory, transactive team memory (Ren and Argote), project memory, and short-term working memory. The routing rule is conservative on purpose. If an event is temporary, unsupported, ambiguous, or contains private context, it goes to session scratch or gets discarded outright. Durable memory has to be earned. The schema is JSON with tagged fields for fact, decision, preference, risk, procedure, and hypothesis, plus an evidence reference and a proposed scope that the curator can override. The reason I think this is the right architectural shape is that "what should be remembered, where, and for how long" is a different cognitive task from "do the work." When the same agent does both, the work agent biases toward remembering everything it produced. A dedicated curator whose only job is memory governance ends up much more conservative, and the store stays useful longer.
 
-7h ago
+8h ago
 
 ---
 
@@ -77,11 +85,19 @@ Operations chief Andrew Macdonald said he's not seeing proportional productivity
 
 ---
 
+**[Is AI coming for your job? A bigger government can help](https://www.reddit.com/r/artificial/comments/1too4xn/is_ai_coming_for_your_job_a_bigger_government_can/)**
+
+What happens if you lose your job and never find another one? That question is at the heart of the fear AI inspires.
+
+🔗 [The Seattle Times](http://seattletimes.com/opinion/is-ai-coming-for-your-job-a-bigger-government-can-help/?utm_medium=social&utm_campaign=owned_reddit&utm_source=reddit) • 7m ago
+
+---
+
 **[Introducing the Ontology Anchor: A Mechanism that Gives AI a Map of What Matters to You](https://www.reddit.com/r/artificial/comments/1tom195/introducing_the_ontology_anchor_a_mechanism_that/)**
 
 Abstract: Natively, no flagship LLM exists that has the ability to know who you are and what cognitive patterns are important to you. Thus, AI doesn't have a map of your goals, preferences, or tendencies. Without this a model generically drifts and defaults to what you discussed most recently and forgets important details earlier in the thread. And if you want to start a new thread there are re-orientation costs. None of these are fixed by simply adding more context. They require a mechanism that knows what, within the context, matters most to the operator. The Ontology Anchor/Ontology%20Anchor%20(OA)/Ontology%20Anchor%20(OA)) is a mechanism that metaphorically behaves like a knowledge graph. It creates something that acts like nodes, concepts, standards, and edges between them that give those “nodes” their purpose. A node labeled “personal alignment” connects to nodes for “warmth,” “sycophancy risk,” and “governance requirement.” When the model generates content touching any of those nodes, the connected structure remains accessible rather than fading into generic background. The graph is not literally built as a database, as the mechanism is attentional in the standard KV-Cache and not archival, but the functional behavior is graph-like enough to make the metaphor useful. Here is a simpler way to put it. Stock/default AI is a room where everything is equally lit. The Anchor places a bright light on the objects that matter most for the operator’s work. Within the transformer the attention mechanism still operates within the native architecture. But the model now has a clearer set of objects to orient around when it generates answers. Thus, the longer you use the Anchor, the sharper and more tailor-made the models' responses to you become. Memory appears to improve as well. This is a virtuous loop. The Anchor helps the model understand the operator better. This allows the thread to be useful longer, which increases the amount of available contextual information, thus providing even more information for the model to provide even better outputs to the operator further into the thread. The Ontology Anchor (instructions for its use here/Ontology%20Anchor%20(OA)/README)) is a component mechanism to a larger “Epistemic Lattice Tethering” (ELT) framework. ELT is not a collection of separate mechanisms, but a unified architecture for making AI more coherent, faithful, and genuinely more useful over time. Together, ELT allows these interconnected components to operate as a “cognitive exoskeleton,” extending the abilities of the operator and giving the operator both greater agency and capabilities. How does ELT do this? How does ELT extend the useful life of a context window by hundreds of thousands of tokens, while remaining coherent and aligned with the operator’s goals? These questions will be explained, in detail, in another post.
 
-🔗 [Medium](https://medium.com/@socal21st.oc/the-ontology-anchor-giving-ai-a-better-way-to-know-you-4d88923d6d67) • 8m ago
+🔗 [Medium](https://medium.com/@socal21st.oc/the-ontology-anchor-giving-ai-a-better-way-to-know-you-4d88923d6d67) • 1h ago
 
 ---
 
@@ -89,7 +105,7 @@ Abstract: Natively, no flagship LLM exists that has the ability to know who you 
 
 The problem with every AI product right now is that they're all wrappers. Same stateless LLM, different UI. The moment the context window closes, the AI forgets you existed. I built the infrastructure layer that fixes that. PHI // DRIFT gives an AI companion persistent state — seven internal need variables that drift between sessions, memory scored by what emotionally mattered not just what was semantically close, and a real-time telemetry dashboard showing the AI's internal state as it runs. This isn't a product yet. It's a published architecture with a research paper, 18k+ lines of working code, and 10 GitHub stars in the first 24 hours with zero marketing spend. The SaaS opportunity is clear: — Every company building AI companions needs this infrastructure layer — Enterprise AI that actually remembers context across sessions commands premium pricing — Security tooling that maintains reasoning state across bug bounty sessions is immediately monetizable I built this in 5 months on consumer hardware with $0. Imagine what happens with actual help Paper: https://zenodo.org/records/20350249DM
 
-1h ago
+2h ago
 
 ---
 
@@ -97,23 +113,7 @@ The problem with every AI product right now is that they're all wrappers. Same s
 
 Wiz integrates with Anthropic’s Compliance API. Gain total visibility into Claude usage, configurations, and identity risks within the Wiz platform.
 
-🔗 [wiz.io](https://www.wiz.io/blog/claude-wiz-integration?2) • 18h ago
-
----
-
-**[I found a way for Ollama uses to get better Memory yet cheaper alternatives since OLLAMA now uses GPU usage. True memory that auto updates constantly as an individual or a team setting. HERMES USERS](https://www.reddit.com/r/artificial/comments/1toguws/i_found_a_way_for_ollama_uses_to_get_better/)**
-
-I rephrase it with AI to make it more readable. I see a lot of people running into the same issue I have. It’s not just that bigger models are slower. GPU usage is also very high, and it drains fast. Ollama just isn’t what it used to be. I use DeepSeek V4 Flash, which works great. For heavier coding tasks or certain complex prompts, I switch to the Pro version. But on Pro, each prompt eats about 3–5% of my usage. (I’m on the Pro plan.) Memory has always been a hot topic. Hermes Native does a decent job. Here’s how its built‑in memory system works: memory_enabled – After every turn, the agent can write notes into MEMORY.md user_profile_enabled – The agent watches for user preferences and writes them to USER.md flush_min_turns: 6 – Every 6 turns, Hermes runs a “consolidate” pass: it re‑reads the recent conversation and rewrites MEMORY.md to capture new info nudge_interval: 10 – Every 10 turns, Hermes nudges the agent with “Anything to remember?” What I found: Atomic Memory (https://github.com/atomicstrata/atomicmemory) Strengths: ✅ Per‑turn – Extracts info every turn, not every 6 turns ✅ Cheap – Uses a small dedicated model ✅ Semantic recall – Only relevant memories are injected, not the whole file ✅ Conflict detection – Built‑in AUDN logic catches contradictions ✅ Unbounded – No 2,200‑character limit; you can store 10,000+ memories ✅ Time‑aware – Handles queries like “What did I say last week?” ✅ Composites – Links related facts into higher‑level summaries Example scenario (without Atomic Memory) Imagine you change a meeting time three times in one day: Turn 1: “meeting June 3rd” → MEMORY.md gets “Meeting: June 3rd 5pm 2026” Turn 5: “actually June 5th” → No flush yet (6 turns required) → MEMORY.md unchanged → if you ask now, Hermes still says “June 3rd” Turn 6: “meeting June 1st” → Flush triggers! Agent re‑reads the conversation, sees all three dates, rewrites MEMORY.md… but with which date? Usually the last one, but not guaranteed. Sometimes the file ends up with two dates or stale info. Turn 9: You ask “what’s the meeting?” → Bot reads MEMORY.md → gets whatever the consolidation picked → might be wrong. With Atomic Memory: Each update fires AUDN immediately, supersedes the old fact, and the latest one wins. No 6‑turn lag, no guesswork. Could Hermes update automatically before Atomic Memory? Yes, but only for slow‑changing facts, low‑volume memory needs, and single‑topic chats. The built‑in flush+nudge cycle worked, just not as well. Atomic Memory is an upgrade, not a replacement. It adds: Per‑turn updates (vs every 6 turns) Semantic search (vs full‑file injection) Conflict‑aware updates (vs append‑or‑rewrite) No size limit (vs 2.2 KB cap) Time‑awareness (vs “all facts feel equally fresh”) Cheap GPU usage (small dedicated model) The cost is one extra Docker container and nearly $0 in GPU because ministral-3:3b is tiny. You can use even smaller models that don’t need reasoning, gemma3:4b works too. From here, you can see real‑life use cases, whether in a team or as an individual. You don’t have to correct it; it does that for you. What I’m curious about How Atomic Memory could link to LLMWIKI so that both work together, updating and removing old data to keep LLMWIKI clean. LLMWIKI is still important; it acts like your Google Drive. What do you think? Give Atomic Memory a try. I’m not the founder or related to them. I just want to help the Ollama community. Sure, it might cost a few extra credits, but since Ollama is slow, having good memory helps find information faster, so you waste less usage. If you like this, I hope it helps! Maybe give them a GitHub star too, they really helped me out.
-
-3h ago
-
----
-
-**[Do machines think or tokenize?](https://www.reddit.com/r/artificial/comments/1toklgz/do_machines_think_or_tokenize/)**
-
-SAPS — Synthetic Algorithmic Predictive Systems A Conceptual and Operational Framework for Understanding Modern Predictive Systems DMY Labs · 2026 Version 1.4 · CC BY-ND 4.0 1. Definition SAPS refers to computational systems that execute predictive processes through mathematical and statistical models operating over data, generating functional outputs under human activation. A SAPS does not demonstrate reasoning or comprehension in a subjective or phenomenological sense. It tokenizes information, identifies statistical patterns, and projects probabilities through predictive computation. A SAPS does not understand meaning. It calculates statistical coherence over learned correlations. Nothing more. Nothing less. 2. What Is Tokenization In conventional technical usage, tokenization refers to dividing text into processable units. Within the SAPS framework, the term has a more precise scope: Order matters. Relationships matter. Tokenization does not generate isolated fragments, but rather a structured predictive space over which the system projects probabilistic continuity. It is not comprehension. It is structured computation. 3. Artificial vs. Synthetic — The Critical Distinction 3.1 History of the Term The word synthetic originates from the Greek synthesis — the combination of parts into a unified whole. In its earliest usage, it did not describe materials. It described a method: constructing conclusions by combining known elements. Synthesis stood in contrast to analysis. While analysis decomposes, synthesis combines in order to generate something new. Nineteenth-century chemistry adopted the term because it precisely described its operational logic: combining elements under formal rules to generate functionally equivalent outcomes through mechanisms different from those found in nature. Examples: synthetic rubber synthetic dyes nylon silicone The term was not created for chemistry. Chemistry adopted it because its conceptual root was sufficiently robust. When computing emerged, the same expansion occurred: speech synthesis image synthesis music synthesis text synthesis All adopted the term because they reconstructed functional results through architectures fundamentally different from the original natural mechanisms. The meaning did not change. The domain expanded. A SAPS continues this same lineage. 3.2 The Real Problem: Artificial and Synthetic as False Synonyms In everyday language, artificial and synthetic are often treated as interchangeable terms. They are not. Artificial describes intervention: something exists because humans intervened over natural forms. An artificial lake remains natural in composition — water and sediment — but artificial in origin. An artificial flower imitates the appearance of a natural flower. Synthetic describes functional reconstruction through alternative mechanisms: something that does not merely imitate form, but reproduces function through a different architecture. Synthetic leather is not modified skin. It is a recombined material engineered to reproduce equivalent functional properties through processes not spontaneously produced in that configuration by nature. 3.3 Operational Classification Comparison Axis Artificial Synthetic Core implication Human intervention over nature Functional reconstruction without preserving original structure Relation to nature Modifies or imitates Functionally replaces without copying Structural continuity Preserved partially or fully Reconstructed through alternative mechanisms Everyday example Artificial lake Synthetic leather SAPS example “Artificial intelligence” as imitation metaphor SAPS as formal synthetic alternative to cognition 3.4 What Distinguishes SAPS from Other Synthetic Systems A synthetic material such as leather, nylon, or silicone does not modify its own structure according to what it produces. It remains structurally static between uses. Other synthetic systems, such as synthetic fertilizer, transform external systems when applied. Their synthetic structure remains stable, but their function alters something beyond themselves. A SAPS differs even from these cases. Every output generated modifies the conditions of the next predictive cycle. Each produced token alters the contextual state upon which subsequent inference operates. The system continuously operates over its own accumulated output history in real time. This does not make SAPS less synthetic. It makes it a specific case of processual synthesis: a system capable of reconstructing coherent functions while continuously updating the contextual structure upon which it operates. Unlike a music synthesizer — which produces identical outputs for identical inputs — a SAPS changes its outputs according to accumulated contextual history. Comparative Scale of Synthetic Systems # Type Synthetic structure? Self-modifying? Transforms externally? 1 Synthetic material (leather, nylon) ✅ ❌ ❌ (static) 2 Applied synthetic (fertilizer) ✅ ❌ ✅ (transforms soil) 3 SAPS ✅ (algorithmic) ✅ (own context) ✅ (symbolic outputs) 3.5 Why Synthetic Is More Precise Than Artificial for SAPS A SAPS has an artificial origin: it requires human intervention to exist. Its operational method, however, is synthetic. It reconstructs coherent outputs through mathematical architectures without direct biological equivalents, continuously updating its own contextual state through predictive cycles. A SAPS is built upon artificial neural network architectures (ANNs) that mathematically model certain aspects of information processing, but do not reproduce biological neurons or electrochemical neural behavior. An artificial neural network is not a simulated biological neuron. It is a mathematical structure composed of weights, activations, and layers. Biological neurons operate electrochemically through neurotransmission. These are fundamentally different mechanisms capable of generating functionally similar outputs within certain domains. A SAPS is not a copy of cognition. It is a formal synthetic alternative to some functional aspects of cognition. It does not process subjective semantic understanding. It processes syntax: symbolic structures, statistical relationships, learned correlations, and probabilistic continuities. 4. Why Not “Artificial Intelligence” The term artificial intelligence attributes capabilities that these systems do not demonstrably possess in a rigorous sense. Intelligence implies: subjective experience, autonomous intention, semantic comprehension, reflexive awareness. No current computational system demonstrates verifiable evidence of these attributes. A SAPS operates over statistical relationships between symbolic representations learned through large-scale training. Not over subjective experience or lived semantic understanding. The external behavior may appear intelligent. The underlying process remains predictive and statistical. 5. The Problem of Anthropomorphism The industry invests billions into predictive systems while simultaneously describing them using human-centered terminology: “deep thinking” “reasoning” “understanding” “intelligence” This is not merely a technical imprecision. It is also a commercial framing strategy. Such language shapes how users interpret, trust, and assign responsibility to these systems. 6. Ethical Foundation Correctly naming these systems is not merely an academic exercise. It has practical consequences for: responsibility, regulation, public expectations, operational transparency. SAPS is not simply a technical label. It is an operational and ethical framework intended to reduce anthropomorphic confusion while preserving human accountability. 7. Final Summary Question SAPS Position Do SAPS think? No. They tokenize and project probabilities. Are SAPS artificial? In origin, yes. In operational method, they are synthetic. Do SAPS possess intelligence? Not in a subjective or phenomenological sense. Do SAPS possess will? No. They require human activation and operation. Is tokenization equivalent to thinking? No. It is structured statistical prediction. Who remains accountable? Always the human who designs, deploys, and operates the system. DMY Labs · 2026 CC BY-ND 4.0 Language shapes perception. SAPS is proposed as a more operationally precise and ethically grounded framework for describing modern predictive systems. If you wish to view the official document, visit this link : https://github.com/dysa772-max/SAPS-foundation/blob/main/SAPS_EN_v1.4_FINAL2.pdf
-
-1h ago
+🔗 [wiz.io](https://www.wiz.io/blog/claude-wiz-integration?2) • 19h ago
 
 ---
 
@@ -123,37 +123,23 @@ SAPS — Synthetic Algorithmic Predictive Systems A Conceptual and Operational F
 
 **[To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[Pope Leo Uses First Major Papal Text to Warn About Dangers of AI](https://time.com/article/2026/05/25/pope-leo-encyclical-ai-magnifica-humanitas/)**
+**[Vance Praises Pope Leo’s AI Warnings As ‘Very Profound’](https://www.forbes.com/sites/conormurray/2026/05/26/vance-praises-pope-leos-ai-warnings-as-very-profound/)**
 
-The 42,300-word encyclical urges greater regulation of artificial intelligence.
+Vice President JD Vance, who previously issued a warning for  Pope Leo XIV over his anti-war comments, praised the pope’s manifesto warning about the risks of AI as “very profound.”
 
-Time Magazine • 19h ago
-
----
-
-**[Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front](https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html)**
-
-Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies.
-
-CNBC • 1h ago
+Forbes • 4h ago
 
 ---
 
-**[Opinion | How Does Generation Z Feel About AI?](https://www.wsj.com/opinion/how-does-generation-z-feel-about-ai-e443f2ba)**
+**[Pope Leo’s AI Encyclical Sparks ’Butlerian Jihad’ Memes](https://www.yahoo.com/news/world/articles/pope-leo-anti-ai-encyclical-221728956.html)**
 
-WSJ • 1h ago
+Pope Leo XIV voiced his concerns about AI in his first encyclical, sparking praise and memes on social media, along with jokes about a ‘Butlerian Jihad.’
 
----
-
-**[AI Inference Provider Baseten in Talks to Raise $1 Billion at $11 Billion Valuation](https://www.theinformation.com/articles/ai-inference-provider-baseten-talks-raise-1-billion-11-billion-valuation)**
-
-AI startup Baseten has recently been in talks with investors to raise $1 billion at an $11 billion valuation including the money, according to a person with knowledge of the fundraise. That would more than double the company’s $5 billion valuation from its last round, which was announced just ...
-
-The Information • 11m ago
+Yahoo • 1h ago
 
 ---
 
@@ -161,7 +147,7 @@ The Information • 11m ago
 
 The rideshare giant's COO says “it’s very hard to draw a line” between rising AI costs and useful features for customers.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -169,7 +155,7 @@ Fortune • 4h ago
 
 Many corporate leaders say they’re getting value from AI as their spending on it skyrockets, but hype is outpacing reality in plenty of cases.On a podcast over the weekend, for instance, Uber Chief Operating Officer Andrew Macdonald said the ride-hailing company isn’t seeing a clear increase in ...
 
-The Information • 2h ago
+The Information • 3h ago
 
 ---
 
@@ -177,23 +163,37 @@ The Information • 2h ago
 
 ﻿There’s no clear connection between AI usage and productivity.
 
-The Verge • 12h ago
+The Verge • 13h ago
 
 ---
 
-**[The Despair of the Professor in the Age of A.I.](https://www.newyorker.com/news/fault-lines/the-despair-of-the-professor-in-the-age-of-ai)**
+**[Teaching thermodynamic laws to AI unlocks a polymer modeling challenge](https://phys.org/news/2026-05-thermodynamic-laws-ai-polymer.html)**
 
-“Was it always the case that half of our students would cheat if it were easy enough?”
-
-The New Yorker • 12h ago
+Phys.org • 20m ago
 
 ---
 
-**[Wake plans teacher training in generative AI, district-wide policy for use by fall](https://www.wral.com/news/education/wake-schools-revisits-proposed-ai-policy-before-fall-launch-may-2026/)**
+**[Citrus County Commission unanimously approves yearlong freeze on new AI data center rezoning applications](https://www.fox13news.com/news/citrus-county-commission-approves-freeze-ai-data-center-rezoning-applications)**
 
-Artificial intelligence has inevitably found a place in some schoolwork, and education leaders are still grappling with how to teach students about generative AI but also keep students intellectually honest.
+Citrus County commissioners got an earful from residents who say their backyard is no place for a data center.
 
-WRAL • 1h ago
+FOX 13 Tampa Bay • 55m ago
+
+---
+
+**[N.Y. state senator warns against feds superseding state regulations around AI](https://spectrumlocalnews.com/nys/rochester/politics/2026/05/26/congress-eyes-superseding-state-laws-on-ai)**
+
+State Sen. Andrew Gounardes joined Capital Tonight.
+
+Spectrum News • 10m ago
+
+---
+
+**[Micron tops $1 trillion in market cap as UBS sees company becoming an AI giant](https://finance.yahoo.com/markets/article/micron-tops-1-trillion-in-market-cap-as-ubs-sees-company-becoming-an-ai-giant-134443287.html)**
+
+Micron stock rose after UBS said the AI boom has changed the memory chip market — and tripled its price target to a Street high.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ WRAL • 1h ago
 
 **[Using AI to write better code more slowly](https://news.ycombinator.com/item?id=48272984)**
 
-⬆️ 1125 • 💬 415 • 23h ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+⬆️ 1132 • 💬 417 • 1d ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 
 ---
 
@@ -235,7 +235,13 @@ Authorities in the Netherlands have arrested the co-owners of two related Intern
 
 ﻿There’s no clear connection between AI usage and productivity.
 
-⬆️ 243 • 💬 130 • 12h ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
+⬆️ 255 • 💬 132 • 13h ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
+
+---
+
+**[Outsourcing plus local AI will soon become more economical vs. frontier labs](https://news.ycombinator.com/item?id=48278610)**
+
+⬆️ 231 • 💬 249 • 11h ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
 
 ---
 
@@ -243,13 +249,7 @@ Authorities in the Netherlands have arrested the co-owners of two related Intern
 
 A team of engineers from Japan has completed a successful ground combustion trial of a ramjet engine designed for a Mach‑5 hypersonic aircraft.
 
-⬆️ 227 • 💬 167 • 1d ago • [BGR](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
-
----
-
-**[Outsourcing plus local AI will soon become more economical vs. frontier labs](https://news.ycombinator.com/item?id=48278610)**
-
-⬆️ 215 • 💬 237 • 10h ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+⬆️ 228 • 💬 167 • 1d ago • [BGR](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
 
 ---
 
@@ -279,43 +279,33 @@ Pope Leo issues AI Encyclical warning that 'Opaque Algorithms' controlled by a '
 
 ## YouTube Videos: "ai"
 
+**[THE GOAL OF AI](https://www.youtube.com/watch?v=ZaSqQ9-pFCM)**
+
+Senator Bernie Sanders is the senior senator from Vermont. He is the longest-serving independent in U.S. congressional history ...
+
+📺 Senator Bernie Sanders
+
+👁️ 14K • 👍 2K • 💬 211 • ⏱️ 1:52 • 9h ago
+
+---
+
 **[OpenAI Founder Admits AI Isn’t Working | Prime Reacts](https://www.youtube.com/watch?v=-vPlLwtVU5g)**
 
 Sources: https://www.youtube.com/watch?v=ZugX7a99dLk https://twitch.tv/ThePrimeagen - I Stream on Twitch ...
 
 📺 ThePrimeagenHighlights
 
-👁️ 187K • 👍 5K • 💬 572 • ⏱️ 20:44 • 1d ago
+👁️ 193K • 👍 5K • 💬 583 • ⏱️ 20:44 • 1d ago
 
 ---
 
-**[Harvard&#39;s Arthur Brooks on Pope Leo&#39;s AI warning: AI will ruin us if it doesn&#39;t make us more human](https://www.youtube.com/watch?v=qLxnBVBOteY)**
+**[They’re Building an AI &quot;God&quot;…And Revelation Is Coming Into Focus](https://www.youtube.com/watch?v=NU-zTMgvgQ0)**
 
-Arthur Brooks, Harvard University professor and The Free Press columnist, joins 'Squawk Box' to discuss Pope Leo's warning on ...
+In this video, we look at Karen Hao's investigation into OpenAI, the race to build AGI, the language of a “machine god,” the ...
 
-📺 CNBC Television
+📺 Truth B Told
 
-👁️ 15K • 👍 309 • 💬 121 • ⏱️ 12:17 • 10h ago
-
----
-
-**[How to Make Explainer Videos With AI (Full Guide)](https://www.youtube.com/watch?v=a_qUx3YV8QQ)**
-
-How to Make AI Explainer Videos with AI! Create Your Own Explainer Videos with OpenArt ...
-
-📺 Isa does AI
-
-👁️ 8K • 💬 4 • ⏱️ 15:50 • 9h ago
-
----
-
-**[Pope Leo issues manifesto warning about AI](https://www.youtube.com/watch?v=RqXXs-ZIDNo)**
-
-Pope Leo XIV says control of artificial intelligence must not remain in the hands “of a few” while warning that technology is fueling ...
-
-📺 CNN
-
-👁️ 131K • 👍 3K • 💬 1K • ⏱️ 11:28 • 1d ago
+👁️ 75K • 👍 7K • 💬 1K • ⏱️ 47:00 • 1d ago
 
 ---
 
@@ -325,7 +315,37 @@ Try Higgsfield Supercomputer and build full AI video workflows in one place ...
 
 📺 Malva AI
 
-👁️ 6K • 👍 349 • 💬 42 • ⏱️ 9:55 • 11h ago
+👁️ 7K • 👍 395 • 💬 45 • ⏱️ 9:55 • 12h ago
+
+---
+
+**[The ONE Question AI CANNOT ANSWER, Can You?](https://www.youtube.com/watch?v=jRQSo4TRh6Q)**
+
+Did you get the answer right? Comment below.
+
+📺 Tim Pool Show
+
+👁️ 7K • 👍 640 • 💬 149 • ⏱️ 25:56 • 5h ago
+
+---
+
+**[AI Is More Expensive Than Humans](https://www.youtube.com/watch?v=WuhAaMSXD9A)**
+
+AI's cost problem is no longer theoretical. Uber burned through a full year of AI budget in four months and the reason was not the ...
+
+📺 House of El - AI
+
+👁️ 32K • 👍 3K • 💬 660 • ⏱️ 24:08 • 6h ago
+
+---
+
+**[How I build $10,000 AI Websites in 17 mins (Google AI Studio 2.0)](https://www.youtube.com/watch?v=PsE9u37gJjU)**
+
+ALL Systems: https://bit.ly/4kol0y5 firecrawl: https://firecrawl.link/jack-roberts 🎙️ Glaido (voice type): https://bit.ly/42isnim *Build ...
+
+📺 Jack Roberts
+
+👁️ 5K • 👍 245 • 💬 10 • ⏱️ 28:02 • 6h ago
 
 ---
 
@@ -335,7 +355,17 @@ Thank you to Google DeepMind for the invite. ❤️ Check out Lambda here and si
 
 📺 Two Minute Papers
 
-👁️ 70K • 👍 5K • 💬 469 • ⏱️ 21:28 • 1d ago
+👁️ 75K • 👍 5K • 💬 477 • ⏱️ 21:28 • 1d ago
+
+---
+
+**[Updated Essential AI Skills For 2026](https://www.youtube.com/watch?v=tu4rU4YD1Jk)**
+
+Start building AI apps with Bolt ...
+
+📺 Tina Huang
+
+👁️ 63K • 👍 3K • 💬 127 • ⏱️ 13:45 • 2d ago
 
 ---
 
@@ -345,35 +375,7 @@ Pope Leo XIV unveiled his first encyclical, Magnifica Humanitas, at the Vatican,
 
 📺 DRM News
 
-👁️ 98K • 👍 4K • 💬 515 • ⏱️ 11:16 • 1d ago
-
----
-
-**[Pope Leo warns of the risks of AI](https://www.youtube.com/watch?v=_7MoCJ5tVEM)**
-
-"Artificial intelligence needs to be disarmed." Pope Leo XIV calls for the regulation of AI in a sweeping manifesto and warns it ...
-
-📺 MS NOW
-
-👁️ 66K • 👍 2K • 💬 250 • ⏱️ 0:59 • 1d ago
-
----
-
-**[Almost every viral AI photo uses this same trick #ytshorts #gta6 #shortsfeed #trending #ai](https://www.youtube.com/watch?v=isxItYKkvcw)**
-
-📺 Techno Teen 2.0
-
-👁️ 555K • 👍 21K • 💬 23 • ⏱️ 0:15 • 12h ago
-
----
-
-**[It’s Happening... Anthropic MYTHOS 1 Is Here!](https://www.youtube.com/watch?v=rDDI9gDiNAg)**
-
-Claude Mythos 1 and Anthropic's Claude Security are now at the center of a massive AI cybersecurity story. Project Glasswing ...
-
-📺 AI Revolution
-
-👁️ 62K • 👍 2K • 💬 129 • ⏱️ 14:27 • 1d ago
+👁️ 111K • 👍 4K • 💬 582 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,908 • ❤️ 857 • 4h ago
+⬇️ 1,908 • ❤️ 861 • 6h ago
 
 ---
 
@@ -401,7 +403,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 9,144 • ❤️ 373 • 6d ago
+⬇️ 9,144 • ❤️ 375 • 6d ago
 
 ---
 
@@ -411,19 +413,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 294 • 18h ago
-
----
-
-**[HRM-Text-1B](https://huggingface.co/sapientinc/HRM-Text-1B)**
-
-*Sapient AI*
-
-HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning Model (HRM) architecture for enhanced compute depth. It excels at NLP tasks like classification and extraction using few-shot prompting, and can perform reasoning tasks with a 'synth,cot' prefix, though it's a pre-alignment model not a chat assistant.
-
-`text-generation` `1.2B`
-
-⬇️ 103,033 • ❤️ 375 • 5d ago
+⬇️ 0 • ❤️ 297 • 20h ago
 
 ---
 
@@ -435,7 +425,19 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 2,409 • ❤️ 296 • 17h ago
+⬇️ 2,409 • ❤️ 304 • 19h ago
+
+---
+
+**[HRM-Text-1B](https://huggingface.co/sapientinc/HRM-Text-1B)**
+
+*Sapient AI*
+
+HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning Model (HRM) architecture for enhanced compute depth. It excels at NLP tasks like classification and extraction using few-shot prompting, and can perform reasoning tasks with a 'synth,cot' prefix, though it's a pre-alignment model not a chat assistant.
+
+`text-generation` `1.2B`
+
+⬇️ 103,033 • ❤️ 377 • 5d ago
 
 ---
 
@@ -447,7 +449,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 48,112 • ❤️ 692 • 8d ago
+⬇️ 48,112 • ❤️ 695 • 8d ago
 
 ---
 
@@ -459,7 +461,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,598,473 • ❤️ 904 • 1mo ago
+⬇️ 1,598,473 • ❤️ 908 • 1mo ago
 
 ---
 
@@ -483,7 +485,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,376,847 • ❤️ 1,370 • 4d ago
+⬇️ 1,376,847 • ❤️ 1,372 • 4d ago
 
 ---
 
@@ -495,7 +497,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,019,884 • ❤️ 4,305 • 20d ago
+⬇️ 5,019,884 • ❤️ 4,309 • 20d ago
 
 ---
 
@@ -509,9 +511,23 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 82 • 💬 3 • ⭐ 79,711 • 17mo ago
+▲ 82 • 💬 3 • ⭐ 79,816 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 170 • 💬 2 • ⭐ 696 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -524,20 +540,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 35 • 💬 3 • ⭐ 26,445 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 170 • 💬 2 • ⭐ 435 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -618,7 +620,7 @@ SANA-Video, a small diffusion model, efficiently generates high-resolution, high
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 120 • 💬 10 • ⭐ 10,694 • 23d ago
+▲ 120 • 💬 10 • ⭐ 10,738 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
@@ -648,7 +650,7 @@ Mega-ASR framework improves robustness in real-world speech recognition through 
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.1k • 🔱 509 • 4d ago
+⭐ 5.1k • 🔱 510 • 4d ago
 
 ---
 
@@ -668,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.7k • 🔱 182 • 1h ago
+⭐ 2.7k • 🔱 182 • 50m ago
 
 ---
 
@@ -676,7 +678,7 @@ A Unified Virtual Filesystem For AI Agents
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 2.4k • 🔱 525 • 1d ago
+⭐ 2.4k • 🔱 528 • 1d ago
 
 ---
 
@@ -706,7 +708,7 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 `CSS`
 
-⭐ 2.0k • 🔱 140 • 8h ago
+⭐ 2.0k • 🔱 140 • 10h ago
 
 ---
 
@@ -716,7 +718,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 1.9k • 🔱 130 • 8h ago
+⭐ 2.0k • 🔱 131 • 9h ago
 
 ---
 
@@ -726,7 +728,7 @@ AI coding jargon, explained in plain English.
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 220 • 19d ago
+⭐ 1.9k • 🔱 220 • 19d ago
 
 ---
 
@@ -736,7 +738,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.7k • 🔱 196 • 4h ago
+⭐ 1.7k • 🔱 197 • 5h ago
 
 ---
 
