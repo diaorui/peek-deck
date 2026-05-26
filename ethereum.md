@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-26T04:43:51.856187+00:00'
+updated: '2026-05-26T08:31:38.376285+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 26, 2026 at 04:43 UTC  
+**Last Updated:** May 26, 2026 at 08:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -1.6%  
-**30d:** -9.1%  
-**90d:** +3.4%  
-**1y:** -21.4%  
+**24h:** -0.9%  
+**7d:** -1.5%  
+**30d:** -8.9%  
+**90d:** +3.5%  
+**1y:** -21.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.54B
+**Market Cap:** $253.08B
 Rank #2
 
 **Circulating Supply:** 120,685,489 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-57.6%
 
 **All-Time Low:** $0.43
-+483133.6%
++484057.4%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 26, 2026](https://www.reddit.com/r/ethereum/comments/1tnwutq/daily_general_discussion_may_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3h ago
+
+---
+
 **[Do you think Ethereum will eventually be used more than Bitcoin?](https://www.reddit.com/r/ethereum/comments/1tn5hvb/do_you_think_ethereum_will_eventually_be_used/)**
 
 Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
 
-17h ago
+21h ago
 
 ---
 
@@ -80,7 +88,7 @@ Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastruct
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been using the same DEX for about six months. Found out today that three months ago they added a 0.15% protocol fee on top of the existing LP fee. It's in their documentation but there was no notification, no banner, nothing in the app. I've been paying it without realizing. Over three months on my trading volume that's not trivial. Is there any way to recover this or is it just a loss
 
-14h ago
+18h ago
 
 ---
 
@@ -96,7 +104,7 @@ I've been using the same DEX for about six months. Found out today that three mo
 
 Hi Guys! I built my own app to track Ethereum and other crypto assets. Main things I focused on: fast portfolio tracking manual transaction tracking clean mobile UI no account required local-first/privacy-friendly approach simple watchlist + markets view Still improving it actively (especially the iPhone experience and portfolio analytics), but the app is already live on iOS. Would genuinely love feedback from crypto people here: What features do you wish portfolio trackers had? https://apps.apple.com/ca/app/kawah/id6760319857
 
-11h ago
+15h ago
 
 ---
 
@@ -112,7 +120,7 @@ Join the conversation on Firefly: follow, comment and engage with Web3 social po
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,15 +144,7 @@ We are in deep bear market territory in both price and content. Bankless can't b
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
-
----
-
-**[Ethereal news weekly #24 | Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched](https://www.reddit.com/r/ethereum/comments/1tkixdk/ethereal_news_weekly_24_devcon_8_early_bird/)**
-
-Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev tooling, glamsterdam-devnet-4 launched
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-24/) • 3d ago
+4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Devcon 8 early bird tickets, ApeWorX collective: nonprofit for Python dev toolin
 
 Ethereum treasury company BitMine is expected to enter the Russell 1000 Index, joining the index that guides institutional portfolios.
 
-Decrypt • 8h ago
+Decrypt • 12h ago
 
 ---
 
@@ -168,41 +168,27 @@ The Block • 1d ago
 
 ---
 
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=327136792165634)**
-
-Binance • 2h ago
-
----
-
-**[BitMine Purchases 60,000 Ethereum As Price Languishes](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-60-000-ethereum-183200807.html)**
-
-BitMine (NYSE: $BMNR) purchased an additional 60,000 Ethereum (CRYPTO: $ETH) over the past week as the price langui...
-
-Yahoo Finance • 10h ago
-
----
-
-**[Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens](https://www.tradingview.com/news/cointelegraph:9cbe92e11094b:0-tom-lee-s-ethereum-portfolio-down-7-35b-as-eth-price-outlook-worsens/)**
-
-Tom Lee’s BitMine faces about $7.3 billion in paper losses on its Ethereum treasury as Ether (ETH) traders weigh worsening sentiment, ETF outflows and a bearish chart setup pointing toward $1,600.Key takeaways:Bitmine's ETH treasury dashboard. Source: DropStab.COMLee continues buying ETH despite mo…
-
-TradingView • 1d ago
-
----
-
-**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
-
-BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
-
-CryptoSlate • 1d ago
-
----
-
 **[Vitalik Biterin breaks silence about Ethereum Foundation amid community frustration](https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops)**
 
 Buterin's influence in the EF will decrease as the board expands. He framed the EF as "one node, with a defined purpose," not the center of Ethereum.
 
-CoinDesk • 12h ago
+CoinDesk • 16h ago
+
+---
+
+**[Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures](https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures)**
+
+Ethereum co-founder Vitalik Buterin signaled that the Ethereum Foundation is transitioning into a leaner, hyper-focused entity.
+
+Decrypt • 16h ago
+
+---
+
+**[Bitcoin, Ethereum Flat, While XRP, Dogecoin Drops After US Strikes Iran: Analyst Says 'Difficult' For BTC To Sustain A 'Durable Rally'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-flat-while-xrp-015903515.html)**
+
+Leading cryptocurrencies fell sharply overnight on Monday after the military said it carried out “defensive” strikes in southern Iran. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)-0.49%$76,752.41Ethereum (CRYPTO: ETH) -0.38%$2,096.41XRP (CRYPTO: XRP) -0.75%$1.34Solana (CRYPTO: SOL) -1.22%$84.38Dogecoin (CRYPTO: DOGE) -1.35%$0.1010 Major Cryptos Sink Bitcoin dived sharply to $76.500 overnight, triggering similar declines in Ethereum and the broader cryptoc
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -211,6 +197,20 @@ CoinDesk • 12h ago
 Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Price Drop Deepens: Tom Lee’s Portfolio Bleeds $7.8 Billion](https://www.ccn.com/news/crypto/ethereum-crash-tom-lee-eth-portfolio-losses-bitmine/)**
+
+CCN.com • 17h ago
+
+---
+
+**[Crypto News: Gruntle Presale passes $104k raised on Exhausted Narrative as $10k ETH Price Prediction Boosted By Ethereum Foundation Selling Update](https://markets.businessinsider.com/news/stocks/crypto-news-gruntle-presale-passes-104k-raised-on-exhausted-narrative-as-10k-eth-price-prediction-boosted-by-ethereum-foundation-selling-update-1036191715)**
+
+LONDON, May  25, 2026  (GLOBE NEWSWIRE) -- Gruntle’s presale has now pushed past $104,000 raised, and the project’s exhausted narrative is startin...
+
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 1d ago
 
 Ethereum is losing ground inside one of America’s largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant reveal a noticeable reshuffling of its crypto exposure during the first quarter, with Ethereum and Solan…
 
-TradingView • 18h ago
+TradingView • 22h ago
 
 ---
 
@@ -234,23 +234,13 @@ TradingView • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Is Ethereum Dead? Time to Buy When Nobody Wants It](https://www.youtube.com/watch?v=pFXlVe9dngs)**
-
-ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik just posted his "smaller ship" EF restructuring vision.
-
-📺 VirtualBacon
-
-👁️ 9K • 👍 337 • 💬 225 • ⏱️ 43:31 • 8h ago
-
----
-
 **[ETHEREUM IS MAKING A VERY IMPORTANT MOVE (I&#39;M BUYING)](https://www.youtube.com/watch?v=hziMeJxNIJ8)**
 
 Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC52426 Save Up To 37% On ...
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 170 • 💬 40 • ⏱️ 10:28 • 12h ago
+👁️ 3K • 👍 181 • 💬 19 • ⏱️ 10:28 • 16h ago
 
 ---
 
@@ -264,23 +254,23 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 ---
 
-**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=421zzsuyOuc)**
+**[Tom Lee Doubles Down On Ethereum As Michael Saylor Pauses Bitcoin Buys](https://www.youtube.com/watch?v=x7RIUlpWKZY)**
 
-Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 Library Of Wealth
+📺 MONEY GAME
 
-👁️ 670 • 👍 37 • 💬 82 • ⏱️ 19:39 • 11h ago
+👁️ 4K • 👍 131 • 💬 40 • ⏱️ 28:28 • 2h ago
 
 ---
 
-**[The Real Reason Ethereum Keeps Losing Momentum w/ Haseeb Qureshi](https://www.youtube.com/watch?v=Cj8KJ0hJmms)**
+**[Is Ethereum Dead? Time to Buy When Nobody Wants It](https://www.youtube.com/watch?v=pFXlVe9dngs)**
 
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik just posted his "smaller ship" EF restructuring vision.
 
-📺 Milk Road
+📺 VirtualBacon
 
-👁️ 3K • 👍 120 • 💬 59 • ⏱️ 41:23 • 9h ago
+👁️ 11K • 👍 399 • 💬 192 • ⏱️ 43:31 • 12h ago
 
 ---
 
@@ -290,27 +280,37 @@ BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ether
 
 📺 Crypto Sensei
 
-👁️ 28K • 👍 1K • 💬 267 • ⏱️ 18:13 • 1d ago
+👁️ 29K • 👍 1K • 💬 269 • ⏱️ 18:13 • 1d ago
 
 ---
 
-**[BITCOIN WARNING: EVERYONE IS WRONG (New Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5SpCNNWwPOg)**
+**[Raoul Pal :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=421zzsuyOuc)**
 
-BITCOIN WARNING: EVERYONE IS WRONG (New Target)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto World
+📺 Library Of Wealth
 
-👁️ 1K • 👍 138 • 💬 53 • ⏱️ 17:36 • 2h ago
+👁️ 794 • 👍 42 • 💬 352 • ⏱️ 19:39 • 15h ago
 
 ---
 
-**[How Ethereum REALLY Works in 2026](https://www.youtube.com/watch?v=On-B0WGqOZ0)**
+**[Gareth Soloway: Crypto at a Crossroads — BTC, ETH, Solana &amp; XRP Key Levels 2026](https://www.youtube.com/watch?v=hdXlXWnoSR0)**
 
-Are you new to crypto? Well then, you've probably noticed that Ethereum is the second largest cryptocurrency, behind Bitcoin.
+Bitcoin is clinging to its trend line while the Nasdaq prints new all-time highs — and that disconnect is the single biggest tell in ...
 
-📺 Coin Bureau
+📺 Gareth Soloway
 
-👁️ 34K • 👍 1K • 💬 124 • ⏱️ 24:12 • 2d ago
+👁️ 42K • 👍 3K • 💬 173 • ⏱️ 11:03 • 17h ago
+
+---
+
+**[The Real Reason Ethereum Keeps Losing Momentum w/ Haseeb Qureshi](https://www.youtube.com/watch?v=Cj8KJ0hJmms)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 145 • 💬 62 • ⏱️ 41:23 • 13h ago
 
 ---
 
@@ -320,17 +320,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 224 • 💬 34 • ⏱️ 25:04 • 2d ago
+👁️ 7K • 👍 228 • 💬 34 • ⏱️ 25:04 • 2d ago
 
 ---
 
-**[🚨ETH KADER ANI! VİTALİK BU ALTCOIN&#39;LERİ HEDEF ALDI! SOL HYPE XRP ÇÖP OLABİLİR!](https://www.youtube.com/watch?v=SKNRkyBkumM)**
+**[How Ethereum REALLY Works in 2026](https://www.youtube.com/watch?v=On-B0WGqOZ0)**
 
-Kripto para piyasasında deprem etkisi yaratan tarihi bir manifesto! Herkes günlük Bitcoin (BTC) fiyat hareketlerine odaklanmışken, ...
+Are you new to crypto? Well then, you've probably noticed that Ethereum is the second largest cryptocurrency, behind Bitcoin.
 
-📺 Kripto Kafalar
+📺 Coin Bureau
 
-👁️ 1K • 👍 130 • 💬 57 • ⏱️ 7:09 • 12h ago
+👁️ 34K • 👍 1K • 💬 125 • ⏱️ 24:12 • 2d ago
 
 ---
 
