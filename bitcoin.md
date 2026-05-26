@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-26T18:41:50.625307+00:00'
+updated: '2026-05-26T20:53:38.416996+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 26, 2026 at 18:41 UTC  
+**Last Updated:** May 26, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,988.50
+### $76,108.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -2.0%  
+**24h:** -1.6%  
+**7d:** -1.9%  
 **30d:** -1.7%  
 **90d:** +12.7%  
 **1y:** -30.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1522.77B
+**Market Cap:** $1522.40B
 Rank #1
 
-**Circulating Supply:** 20,034,825 BTC
+**Circulating Supply:** 20,034,850 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -39.7%
 
 **All-Time Low:** $67.81
-+111930.7%
++111955.7%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[This guy was mining 1 bitcoin per day in 2013](https://www.reddit.com/r/Bitcoin/comments/1tnykhj/this_guy_was_mining_1_bitcoin_per_day_in_2013/)**
-
-12h ago
-
----
-
 **[Once you realize there is a database 600+ dead fiat currencies and why they collapsed. Bitcoin starts making a lot more sense.](https://www.reddit.com/r/Bitcoin/comments/1to7tvn/once_you_realize_there_is_a_database_600_dead/)**
 
 Demonetized Currencies List | Dead Currencies & Currency Risk Tracker is the search 611 dead currencies by code, country, lifespan, demonetized year, and cause of replacement.
 
-🔗 [Newhedge](https://newhedge.io/bitcoin/demonetized-currencies) • 4h ago
+🔗 [Newhedge](https://newhedge.io/bitcoin/demonetized-currencies) • 6h ago
+
+---
+
+**[This guy was mining 1 bitcoin per day in 2013](https://www.reddit.com/r/Bitcoin/comments/1tnykhj/this_guy_was_mining_1_bitcoin_per_day_in_2013/)**
+
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Demonetized Currencies List | Dead Currencies & Currency Risk Tracker is the sea
 
 Has anyone here tried using their BTC as collateral for a loan to buy more bitcoin? I'm considering doing this at an APR of 11.5% in expectation that price outperforms this over 12 months. 50% LTV, no monthly repayments. I know a lot of people are anti leverage, but I'm interested in hearing from anyone who's done this before.
 
-8h ago
+10h ago
 
 ---
 
@@ -103,21 +103,13 @@ Has anyone here tried using their BTC as collateral for a loan to buy more bitco
 
 BitMEX analyst Shang Wu said rising global bond yields could trigger a long-term Bitcoin supercycle.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bond-yields-bitcoin-supercycle-bitmex) • 9h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bond-yields-bitcoin-supercycle-bitmex) • 12h ago
 
 ---
 
-**[What was the first crypto you ever bought, and do you still hold it?](https://www.reddit.com/r/Bitcoin/comments/1to2djh/what_was_the_first_crypto_you_ever_bought_and_do/)**
+**[Finally Added BIP39 passphrase 🔐](https://www.reddit.com/r/Bitcoin/comments/1toe6ep/finally_added_bip39_passphrase/)**
 
-Mine was BTC, fomo totally. I just bought because everyone kept saying “Bitcoin is the future.” I still keep it now, mostly as a long-term hold rather than something I trade.
-
-8h ago
-
----
-
-**[Difficulties sending money to crypto exchanges](https://www.reddit.com/r/Bitcoin/comments/1to9emr/difficulties_sending_money_to_crypto_exchanges/)**
-
-Any recommendations to send/withdraw fiat currency to crypto exchanges? After examining our various banks' T&C more closely, using them to fund crypto purchases is expressly forbidden. Something along the lines of: "You may not use our account/services to buy, sell, trade, or transfer crypto / to or from crypto exchanges." Furthermore, the banks that are more permissive to transfers to crypto exchanges tend to have higher stated fees or hidden fees (in spreads). Conversely, banks with very low fees tend to forbid crypto. Presumably because those fees pay for higher AML/KYC checks? Any tips on finding banks which are friendly towards crypto? Are they generally smaller banks? Or newer banks? Or big banks?
+I always have a slight fear of compromising my metal seed backup and my whole stack can be compromised. So I just added a BIP39 passphrase purely with dice rolling entropy. Now I have some peace of mind.🥶 Now I'll keep a small balance in my original wallet as a decoy wallet and rest of my fund will be in this passphrase protected wallet.🟠
 
 3h ago
 
@@ -127,15 +119,23 @@ Any recommendations to send/withdraw fiat currency to crypto exchanges? After ex
 
 I am trying to restore my multibit HD wallet but the sync gets stuck at 80%. I have tried repair wallet. Any suggestions?
 
-1h ago
+4h ago
 
 ---
 
-**[Finally Added BIP39 passphrase 🔐](https://www.reddit.com/r/Bitcoin/comments/1toe6ep/finally_added_bip39_passphrase/)**
+**[Bitcoin wants you to cut in line: the mempool, visualized.](https://www.reddit.com/r/Bitcoin/comments/1to6uul/bitcoin_wants_you_to_cut_in_line_the_mempool/)**
 
-I always have a slight fear of compromising my metal seed backup and my whole stack can be compromised. So I just added a BIP39 passphrase purely with dice rolling entropy. Now I have some peace of mind.🥶 Now I'll keep a small balance in my original wallet as a decoy wallet and rest of my fund will be in this passphrase protected wallet.🟠
+Every Bitcoin node maintains its own mempool, the holding area for transactions that have been broadcast but not yet mined. There is no single global "the" mempool. Your tx spreads between them in seconds. Inside one mempool: transactions sort by fee rate, not by arrival order. A tx that broadcasts ten minutes later but pays a higher sat/vB jumps ahead of one that arrived first. Highest rate, first served. What happens to the cheap ones? Most of them mine eventually, they just wait longer. The mempool drains as blocks come in, and the fee floor drops with it. A 1-5 sat/vB tx that doesn't mine in the next block usually mines within the next dozen. What about txs below the floor that never make it? After two weeks, the mempool evicts them. But the bitcoin stays in your wallet, the sender retains full custody, and you can rebroadcast at a higher rate. It mines in the next available block. I just shipped episode 7 of the LearnBitcoin.com rabbit-hole series: The Mempool. Includes a ~one-minute visual walkthrough of the full lifecycle - broadcast, propagation, fee-rate sorting, mining, eviction, rebroadcast. Check it out: https://www.learnbitcoin.com/rabbit-hole/mempool Let me know if something or missing or wrong. Open source. Bitcoin only. No bullshit. Have fun.
 
-1h ago
+7h ago
+
+---
+
+**[What was the first crypto you ever bought, and do you still hold it?](https://www.reddit.com/r/Bitcoin/comments/1to2djh/what_was_the_first_crypto_you_ever_bought_and_do/)**
+
+Mine was BTC, fomo totally. I just bought because everyone kept saying “Bitcoin is the future.” I still keep it now, mostly as a long-term hold rather than something I trade.
+
+10h ago
 
 ---
 
@@ -143,15 +143,15 @@ I always have a slight fear of compromising my metal seed backup and my whole st
 
 Hey so I recently opened an account with Kraken and I’m finding it hard to withdraw as it’s asking me to add a withdraw address. I don’t know what this is, how to find one and where to find one. Thanks
 
-3h ago
+5h ago
 
 ---
 
-**[raw₿it — Visual Bitcoin raw Transaction Builder](https://www.reddit.com/r/Bitcoin/comments/1to4tw6/rawit_visual_bitcoin_raw_transaction_builder/)**
+**[Difficulties sending money to crypto exchanges](https://www.reddit.com/r/Bitcoin/comments/1to9emr/difficulties_sending_money_to_crypto_exchanges/)**
 
-An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 16 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
+Any recommendations to send/withdraw fiat currency to crypto exchanges? After examining our various banks' T&C more closely, using them to fund crypto purchases is expressly forbidden. Something along the lines of: "You may not use our account/services to buy, sell, trade, or transfer crypto / to or from crypto exchanges." Furthermore, the banks that are more permissive to transfers to crypto exchanges tend to have higher stated fees or hidden fees (in spreads). Conversely, banks with very low fees tend to forbid crypto. Presumably because those fees pay for higher AML/KYC checks? Any tips on finding banks which are friendly towards crypto? Are they generally smaller banks? Or newer banks? Or big banks?
 
-6h ago
+5h ago
 
 ---
 
@@ -163,47 +163,37 @@ An interactive tool to build and understand Bitcoin transactions visually. • C
 
 CryptoQuant’s 30-day apparent demand indicator is negative, signaling that buyers aren’t absorbing the available supply and leaving the market vulnerable.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin ETFs Lose $2.26 Billion In Two Weeks](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-2-26-131200612.html)**
+**[Strive leapfrogs Coinbase, Riot with latest $85.4 million bitcoin buy](https://www.theblock.co/post/402567/strive-leapfrogs-coinbase-riot-85-4-million-bitcoin-buy)**
 
-U.S.-listed spot Bitcoin (CRYPTO: $BTC) exchange-traded funds (ETFs) have experienced $2.26 billion U.S. in outflow...
+Vivek Ramaswamy-founded Strive now ranks as the seventh-largest public corporate bitcoin holder, trailing Bullish.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin ETFs bleed $1B as capital rotates into HYPE, SOL, XRP](https://www.coindesk.com/podcasts/public-keys-at-nyse/bitcoin-etfs-bleed-usd1b-as-capital-rotates-into-hype-sol-xrp)**
-
-Bitcoin ETFs bleed $1B as capital rotates into HYPE, SOL, XRP
-
-CoinDesk • 21m ago
+The Block • 5h ago
 
 ---
 
-**[Bitcoin ETFs Bleed $1B as Capital Rotates Into HYPE, SOL, XRP](https://finance.yahoo.com/video/bitcoin-etfs-bleed-1b-capital-175604511.html)**
+**[Billionaire Mark Cuban says bye-bye Bitcoin: Why he is ‘disappointed’ by crypto](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)**
 
-On this episode of CoinDesk's Public Keys from the New York Stock Exchange, host Jennifer Sanasie unpacks a busy weekend — SpaceX's S-1 revealing 18,712 BTC on the balance sheet, Kevin Warsh's first full week as Fed Chair, and the SEC pushing back its innovation exemption for tokenized stocks. Bitwise Asset Management Head of Research Ryan Rasmussen joins to break down the bull and bear case for Hyperliquid, how Bitwise is differentiating BHYPE with in-house staking and 10% of management fees reinvested into HYPE, and why wealth managers are finally moving beyond BTC and ETH. Hyperliquid Strategies CEO David Schamis lays the foundation on how crypto margin trading works and why leverage amplifies timing risk. Plus, Calamos Global Head of ETFs Matt Kaufman explains how the firm's protected Bitcoin ETFs are pulling in fresh capital as spot Bitcoin funds bleed $1.26 billion in a single week. - This episode of Public Keys is brought to you by Kraken. For more: https://pro.kraken.com/
+‘It’s not the hedge that I expected it to be,’ Cuban said
 
-Yahoo Finance • 45m ago
-
----
-
-**[Is Bitcoin a Good Long-Term Investment for Beginners?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-long-term-investment-174912578.html)**
-
-At around $77,000 in May 2026, Bitcoin (CRYPTO: BTC) is off its October 2025 peak of $126,000, and anyone weighing it as a long-term investment is looking at an asset with an extraordinary track record—and a history of stomach-churning crashes along the way. Like any other asset, Bitcoin goes through downturns. What stands out is ... Is Bitcoin a Good Long-Term Investment for Beginners?
-
-Yahoo Finance • 52m ago
+Fortune • 28m ago
 
 ---
 
-**[TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands](https://finance.yahoo.com/markets/stocks/articles/terawulf-stock-pops-bitcoin-miner-182318059.html)**
+**[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)**
 
-Bitcoin miner TeraWulf’s latest deal adds more than a gigawatt of potential data center capacity in a region eager for economic investment.
+OregonLive.com • 29m ago
 
-Yahoo Finance • 18m ago
+---
+
+**[Bitcoin Giant Strategy Slashes Cash Reserves by 61% to Repurchase $1.5 Billion in Debt](https://finance.yahoo.com/markets/crypto/articles/bitcoin-giant-strategy-slashes-cash-143546027.html)**
+
+Strategy used 61% of its dedicated cash buffer to repurchase $1.5 billion in convertible notes, leaving its Bitcoin stash untouched.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -211,7 +201,7 @@ Yahoo Finance • 18m ago
 
 May 26, 2026
 
-Strategy • 6h ago
+Strategy • 8h ago
 
 ---
 
@@ -225,15 +215,23 @@ WSB-TV • 1d ago
 
 **[Bitcoin (BTC) Volatility Hits Nine-Month Low as Crypto Takes Breather](https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Strive leapfrogs Coinbase, Riot with latest $85.4 million bitcoin buy](https://www.theblock.co/post/402567/strive-leapfrogs-coinbase-riot-85-4-million-bitcoin-buy)**
+**[Bitcoin ETFs Lose $2.26 Billion In Two Weeks](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-2-26-131200612.html)**
 
-Vivek Ramaswamy-founded Strive now ranks as the seventh-largest public corporate bitcoin holder, trailing Bullish.
+U.S.-listed spot Bitcoin (CRYPTO: $BTC) exchange-traded funds (ETFs) have experienced $2.26 billion U.S. in outflow...
 
-The Block • 3h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin (BTC) ETFs crushed by outflows as bond market stifles interest-rate reduction hopes: Crypto Daily](https://www.coindesk.com/daybook-us/2026/05/26/bitcoin-etfs-crushed-by-billions-in-outflows-as-treasuries-stifle-interest-rate-cut-hopes)**
+
+The day ahead in crypto: May 26, 2026
+
+CoinDesk • 9h ago
 
 ---
 
@@ -253,7 +251,7 @@ A technique for embedding arbitrary data — text, images, code — inside Bitco
 
 August 15, 2010: someone created 184 billion BTC out of thin air. Five hours later, it was fixed. Here is the full story.
 
-⬆️ 4 • 💬 0 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
+⬆️ 4 • 💬 0 • 5d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
 
 ---
 
@@ -327,7 +325,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 454 • ⏱️ 12:09 • 19h ago
+👁️ 54K • 👍 2K • 💬 336 • ⏱️ 12:09 • 22h ago
 
 ---
 
@@ -337,7 +335,27 @@ Bitcoin reserve legislation just hit Congress, and almost nobody is paying atten
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 394 • ⏱️ 16:10 • 21h ago
+👁️ 30K • 👍 2K • 💬 349 • ⏱️ 16:10 • 23h ago
+
+---
+
+**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
+
+Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
+
+📺 Swan Bitcoin
+
+👁️ 4K • 👍 438 • 💬 76 • ⏱️ 17:29 • 5h ago
+
+---
+
+**[Why Michael Saylor bought bonds instead of bitcoin](https://www.youtube.com/watch?v=VdRSy6tvtLI)**
+
+bitcoin #crypto #michaelsaylor #YahooFinance May 26th, 2026 - Michael Saylor shocked the crypto world this week after ...
+
+📺 Yahoo Finance
+
+👁️ 4K • 👍 323 • 💬 54 • ⏱️ 14:54 • 4h ago
 
 ---
 
@@ -351,13 +369,23 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 ---
 
-**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
+**[BITCOIN Just Threw Back to Last Cycle&#39;s High (MASSIVE Pattern)](https://www.youtube.com/watch?v=aTmg5gdPMAI)**
 
-Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
 
-📺 Swan Bitcoin
+📺 Crypto Capital Venture
 
-👁️ 2K • 👍 304 • 💬 80 • ⏱️ 17:29 • 3h ago
+👁️ 4K • 👍 345 • 💬 138 • ⏱️ 10:15 • 4h ago
+
+---
+
+**[Bitcoin Bull Case Keeps Building](https://www.youtube.com/watch?v=QVrKAtp_Av0)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRUs
+
+👁️ 10K • 👍 712 • 💬 77 • ⏱️ 42:58 • 6h ago
 
 ---
 
@@ -367,7 +395,7 @@ Bitcoin: Ready to Bounce? A big green week is coming TA & Live Trades Get the CF
 
 📺 Camel Finance
 
-👁️ 8K • 👍 539 • 💬 49 • ⏱️ 10:47 • 9h ago
+👁️ 9K • 👍 564 • 💬 52 • ⏱️ 10:47 • 11h ago
 
 ---
 
@@ -377,17 +405,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 40K • 💬 124 • ⏱️ 19:23 • 22h ago
-
----
-
-**[Bitcoin Ready For The Next Surge](https://www.youtube.com/watch?v=Ml8Tr9eZ9fs)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Predict Crypto, Sports, & Markets. Free Entries ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 1K • 💬 349 • ⏱️ 24:23 • 1d ago
+👁️ 41K • 💬 127 • ⏱️ 19:23 • 1d ago
 
 ---
 
@@ -397,27 +415,7 @@ ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Busi
 
 📺 Fox Business
 
-👁️ 42K • 👍 1K • 💬 504 • ⏱️ 7:41 • 1d ago
-
----
-
-**[Why Bitcoin Is The Only Exit From The Federal Reserve](https://www.youtube.com/watch?v=gozj4cMjduc)**
-
-Bitcoin #Crypto #Finance Six men boarded a private train under fake names in 1910, traveled to a private island, and secretly ...
-
-📺 The Wolf Of All Streets
-
-👁️ 15K • 👍 1K • 💬 398 • ⏱️ 15:01 • 1d ago
-
----
-
-**[Bitcoin: The Four Year Cycle Is Not Dead](https://www.youtube.com/watch?v=7byCfkDQxq8)**
-
-Bitcoin: The 4 Year Cycle Is Not Dead For years, many have argued that Bitcoin has outgrown the traditional 4-year cycle.
-
-📺 Benjamin Cowen
-
-👁️ 56K • 👍 4K • 💬 238 • ⏱️ 25:37 • 17h ago
+👁️ 43K • 👍 1K • 💬 496 • ⏱️ 7:41 • 1d ago
 
 ---
 

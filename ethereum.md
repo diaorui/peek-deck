@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-26T18:41:50.630591+00:00'
+updated: '2026-05-26T20:53:38.422247+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 26, 2026 at 18:41 UTC  
+**Last Updated:** May 26, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -2.7%  
-**30d:** -10.1%  
-**90d:** +2.2%  
-**1y:** -22.3%  
+**24h:** -1.6%  
+**7d:** -2.4%  
+**30d:** -9.8%  
+**90d:** +2.5%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $249.91B
+**Market Cap:** $250.34B
 Rank #2
 
 **Circulating Supply:** 120,685,489 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.1%
 
 **All-Time Low:** $0.43
-+478302.0%
++478997.1%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
 **[~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going](https://www.reddit.com/r/ethereum/comments/1toen8p/440m_of_strc_is_now_sitting_in_defi_protocols_and/)**
 
-47m ago
+2h ago
 
 ---
 
@@ -150,11 +150,11 @@ We are in deep bear market territory in both price and content. Bankless can't b
 
 ## Google News: "ethereum"
 
-**[Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update](https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index)**
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-makes-biggest-155626985.html)**
 
-Ethereum treasury company BitMine is expected to enter the Russell 1000 Index, joining the index that guides institutional portfolios.
+BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.
 
-Decrypt • 22h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -166,39 +166,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-makes-biggest-155626985.html)**
+**[Ethereum shifts to "small ship" model as departures stack up](https://sg.finance.yahoo.com/video/ethereum-shifts-small-ship-model-193000510.html)**
 
-BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.
+Scott Melker discusses what's happening at the Ethereum Foundation as employees depart and the business shifts to "small ship." “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Price Drop Deepens: Tom Lee’s Portfolio Bleeds $7.8 Billion](https://www.ccn.com/news/crypto/ethereum-crash-tom-lee-eth-portfolio-losses-bitmine/)**
-
-CCN.com • 1d ago
-
----
-
-**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
-
-BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
-
-CryptoSlate • 2d ago
-
----
-
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=327353071394801)**
-
-Binance • 1h ago
-
----
-
-**[Staking Now Drives 60% of Revenue at Ethereum Treasury Firms](https://finance.yahoo.com/markets/crypto/articles/staking-now-drives-60-revenue-153354813.html)**
-
-Staking drove 60% of revenue at publicly listed ETH treasury firms in 2025 as combined losses topped $1.4 billion.
-
-Yahoo Finance • 3h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -214,7 +186,7 @@ The Block • 1d ago
 
 The Ethereum Foundation's Kohaku Initiative announced the release of its SDK for integrating privacy protocols into Ethereum wallets without intermediaries. The team achieved a major milestone with v0.0.1-alpha.21 of the kohaku-eth/railgun integration, which now features operational 4337 mempool relaying for private transactions. Tornado Cash and Privacy Pools integrations are in development.
 
-thedefiant.io • 20h ago
+thedefiant.io • 22h ago
 
 ---
 
@@ -226,9 +198,49 @@ CoinDesk • 1d ago
 
 ---
 
+**[How Much Is 1 Ethereum Going to Be Worth After Glamsterdam?](https://247wallst.com/investing/2026/05/26/how-much-is-1-ethereum-going-to-be-worth-after-glamsterdam/)**
+
+Glamsterdam is the next hard fork targeting mainnet by mid-2026. Here's what our prediction about the price of 1 ETH after Glamsterdam.
+
+24/7 Wall St. • 8h ago
+
+---
+
+**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
+
+Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Current price of Ethereum for May 26, 2026](https://fortune.com/article/price-of-ethereum-05-26-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
+
+---
+
+**[Bitcoin's (BTC-USD) Upside Signal Faded; Ethereum (ETH-USD) Remains The Fragile Side](https://seekingalpha.com/article/4908823-bitcoin-upside-signal-faded-ethereum-remains-fragile-side)**
+
+Seeking Alpha • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Is Either Failing… Or Evolving Into Something Much Bigger w/ John Gillen](https://www.youtube.com/watch?v=iQZ2U7tvxOo)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 451 • 👍 34 • 💬 19 • ⏱️ 44:13 • 2h ago
+
+---
 
 **[Something Very Weird Is Happening With Bitcoin &amp; Ethereum Right Now Companies Are Acting Crazy](https://www.youtube.com/watch?v=uVWLzQEZbJI)**
 
@@ -236,27 +248,7 @@ Ok, so, I've been saying for a while that something is up... and it looks like b
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 462 • 💬 185 • ⏱️ 32:13 • 10h ago
-
----
-
-**[🚨 XRP LEDGER CHOSEN BY BANKS!!! ETHEREUM SENTIMENT CRASHES!!!](https://www.youtube.com/watch?v=ncBPjk79Cpg)**
-
-Uphold | Trade, Spend & Earn XRP ➖ US Website: https://uphold.sjv.io/US_CryptoSensei ➡️US Debit Card: ...
-
-📺 Crypto Sensei
-
-👁️ 808 • 👍 72 • 💬 7 • ⏱️ 1:11 • 41m ago
-
----
-
-**[ETH MAXI JUST REVEALED EVERYTHING! XRP IS ABOUT TO DETHRONE ETHEREUM!](https://www.youtube.com/watch?v=DMzAg0m-pYE)**
-
-ETH MAXI JUST REVEALED EVERYTHING! XRP IS ABOUT TO DETHRONE ETHEREUM! XRP Investing, Personal Finance, ...
-
-📺 NCashOfficial
-
-👁️ 3K • 👍 293 • 💬 57 • ⏱️ 20:55 • 2h ago
+👁️ 4K • 👍 489 • 💬 120 • ⏱️ 32:13 • 12h ago
 
 ---
 
@@ -266,7 +258,7 @@ ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik jus
 
 📺 VirtualBacon
 
-👁️ 13K • 👍 478 • 💬 205 • ⏱️ 43:31 • 22h ago
+👁️ 14K • 👍 498 • 💬 212 • ⏱️ 43:31 • 1d ago
 
 ---
 
@@ -276,17 +268,27 @@ Ethereum has spent years weathering criticism. Critics often point to sluggish t
 
 📺 Coin Bureau
 
-👁️ 37K • 👍 1K • 💬 184 • ⏱️ 16:50 • 2d ago
+👁️ 38K • 👍 2K • 💬 184 • ⏱️ 16:50 • 2d ago
 
 ---
 
-**[Tom Lee Doubles Down On Ethereum As Michael Saylor Pauses Bitcoin Buys](https://www.youtube.com/watch?v=x7RIUlpWKZY)**
+**[🚨 XRP LEDGER CHOSEN BY BANKS!!! ETHEREUM SENTIMENT CRASHES!!!](https://www.youtube.com/watch?v=ncBPjk79Cpg)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+Uphold | Trade, Spend & Earn XRP ➖ US Website: https://uphold.sjv.io/US_CryptoSensei ➡️US Debit Card: ...
 
-📺 MONEY GAME
+📺 Crypto Sensei
 
-👁️ 5K • 👍 147 • 💬 49 • ⏱️ 28:28 • 12h ago
+👁️ 3K • 👍 212 • 💬 13 • ⏱️ 1:11 • 2h ago
+
+---
+
+**[ETH MAXI JUST REVEALED EVERYTHING! XRP IS ABOUT TO DETHRONE ETHEREUM!](https://www.youtube.com/watch?v=DMzAg0m-pYE)**
+
+ETH MAXI JUST REVEALED EVERYTHING! XRP IS ABOUT TO DETHRONE ETHEREUM! XRP Investing, Personal Finance, ...
+
+📺 NCashOfficial
+
+👁️ 4K • 👍 400 • 💬 67 • ⏱️ 20:55 • 4h ago
 
 ---
 
@@ -296,17 +298,17 @@ Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhi
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 190 • 💬 31 • ⏱️ 10:28 • 1d ago
+👁️ 4K • 👍 190 • 💬 20 • ⏱️ 10:28 • 1d ago
 
 ---
 
-**[Will Ethereum Fall Towards $1,900 Again? (ETH Price Prediction)](https://www.youtube.com/watch?v=zBG2sfzithg)**
+**[Tom Lee Doubles Down On Ethereum As Michael Saylor Pauses Bitcoin Buys](https://www.youtube.com/watch?v=x7RIUlpWKZY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 Cilinix Crypto
+📺 MONEY GAME
 
-👁️ 161 • 👍 12 • 💬 1 • ⏱️ 6:20 • 9h ago
+👁️ 5K • 👍 148 • 💬 51 • ⏱️ 28:28 • 14h ago
 
 ---
 
@@ -316,17 +318,17 @@ BOMBSHELL — Bankless co-host David Hoffman — one of the most prominent Ether
 
 📺 Crypto Sensei
 
-👁️ 30K • 👍 1K • 💬 286 • ⏱️ 18:13 • 1d ago
+👁️ 30K • 👍 1K • 💬 231 • ⏱️ 18:13 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=e3XoBTE59Fg)**
+**[The Real Reason Ethereum Keeps Losing Momentum w/ Haseeb Qureshi](https://www.youtube.com/watch?v=Cj8KJ0hJmms)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
 
-📺 Crypto Gyan
+📺 Milk Road
 
-👁️ 464 • 👍 61 • ⏱️ 6:22 • 3h ago
+👁️ 5K • 👍 182 • 💬 70 • ⏱️ 41:23 • 1d ago
 
 ---
 
