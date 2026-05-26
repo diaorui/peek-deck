@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-25T22:34:07.350445+00:00'
+updated: '2026-05-26T00:06:12.470991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 25, 2026 at 22:34 UTC  
+**Last Updated:** May 26, 2026 at 00:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 New hardware, outdoor steps this time. I push the stick forward, the robot detects the stairs and decides when to jump on its own. First part is daytime, clears all 3 steps, off the top, landed upright. Second part is at night: first attempt doesn't make it up, second one clears it. Added the night footage to show the controller input. Just push forward, everything else is the RL policy: stair detection, jump timing, balance, recovery. Big upgrade from last time where I was triggering every jump manually. Still working on making it more consistent.
 
-20h ago
+21h ago
 
 ---
 
 **[Robotica arm, 3 axis](https://www.reddit.com/r/robotics/comments/1tncu8d/robotica_arm_3_axis/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,15 @@ New hardware, outdoor steps this time. I push the stick forward, the robot detec
 
 As the title suggests, I'm struggling to figure out how to really program a proper gait for my quadrupedal robot; I've looked into tripod gaits and such, but does anyone have any advice for how to implement reinforcement learning or something similar? I'm considering attaching an IMU to the setup but I still don't know how to like get the legs to adapt and "figure it out themselves". I'm using an ESP32 as the main microcontroller with the arduino as just a sort of power source (will switch out in the future), and therefore I'm using the Arduino IDE for programming and haven't explored micropython My main problem is that I don't think my servos have enough torque to push the entire build off the ground, should I shorten the limbs or try other gaits first? Right now I'm hardcoding the servo positions and its been more like trial-and-error, if anyone has ANY advice or recommendations, I would really appreciate it. I'm aware that this post may be too vague, but pls feel free to dm me about the project.
 
-18h ago
+19h ago
+
+---
+
+**[Peg-in-hole Insertion using Sensor Fusion & RL](https://www.reddit.com/r/robotics/comments/1tno63j/peginhole_insertion_using_sensor_fusion_rl/)**
+
+I am working on a peg-in-hole robotic assembly thesis with a Doosan M1013, ROS2 & an eye-in-hand RGB-D camera. The upstream perception system gives a coarse hole/block pose from stationary RGB-D cameras. Based on prior measurements/error propagation, the pre-insertion uncertainty may be around 3–5 mm average and up to 7–11 mm worst case, with about 1–2° angular error. I want to train a contact-rich insertion policy using vision + force/torque + proprioception, starting from a pre-insert pose about 5–20 mm above the hole. The task should eventually generalize across several cross-section geometries. For people who have worked on force-guided or vision-force peg-in-hole insertion: is this initial error range realistic for an RL/contact policy to handle directly, or would you recommend adding a TCP-camera visual refinement step before starting the RL policy? I am especially interested in practical experience with: ±5 mm vs ±10 mm initial xy error 1–2° orientation error force/torque-based local search after first contact sim-to-real transfer difficulty whether eye-in-hand visual refinement is worth the extra time I am new to this field. Kindly help me out.
+
+1h ago
 
 ---
 
@@ -58,13 +66,13 @@ As the title suggests, I'm struggling to figure out how to really program a prop
 
 Hey everyone, I’m a robotics engineer working across both the programming and electronics, debugging remotely with a teammate or getting code guys to understand a physical hardware glitch is a massive bottleneck. Usually, my choices are taking a blurry phone picture of my oscilloscope screen to send over Slack, or exporting a massive, CSV file that crashes basic spreadsheet apps and completely kills any signal interactivity. Software engineers have GitHub, Figma, and Linear for instant cloud collaboration. Hardware engineers get USB flash drives and proprietary enterprise desktop software. To bridge this gap, I built a completely free, browser-based, hostless platform designed to act like an opensource viewer for hardware signal data.
 
-🔗 [wavebench.vercel.app](https://wavebench.vercel.app/) • 5h ago
+🔗 [wavebench.vercel.app](https://wavebench.vercel.app/) • 6h ago
 
 ---
 
 **[Ajuda com baterias](https://www.reddit.com/r/robotics/comments/1tnlobv/ajuda_com_baterias/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hey everyone, I’m a robotics engineer working across both the programming and 
 
 The reason for this query is that I am in the process of shifting to Isaac Sim / Isaac Lab since that is what seems to be in use nowadays. However, Isaac Lab is proving to be somewhat difficult to handle. While it handles the logging, and the creation of multi-actor systems for algorithms like PPO beautifully, its documentation leaves much to be desired. I am also concerned about the ease of setting up new robotic environments, actions, rewards, policies and possibly even custom algorithms. So, what is it that you do at your lab?
 
-15h ago
+16h ago
 
 ---
 
@@ -88,21 +96,13 @@ I've finally submitted my PhD thesis and have some time to work on my favourite 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/-lgo5xqgVko?si=M1M-LnBZNLJIgs7R) • 14h ago
+🔗 [youtu.be](https://youtu.be/-lgo5xqgVko?si=M1M-LnBZNLJIgs7R) • 15h ago
 
 ---
 
 **[new Nodding Mechanism is on robot now](https://www.reddit.com/r/robotics/comments/1tmxbff/new_nodding_mechanism_is_on_robot_now/)**
 
-18h ago
-
----
-
-**[New RealSense SDK Beta Release!](https://www.reddit.com/r/robotics/comments/1tmp6ec/new_realsense_sdk_beta_release/)**
-
-SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no longer silently drops degraded enumerations (configurable). - Jetson JP6 / 6.2.2 support added; fixes missing metadata over USB3 on JP6. - Bundled D400 firmware removed from the SDK package. - NEON acceleration: new BUILD_WITH_NEON flag; CUDA falls back to NEON; pointcloud correction. - MIPI driver version exposed via camera_info; new External Sync XU. Viewer - Non-blocking stop-stream, fixes for read-only options, Linux recording load, Win11 taskbar icon, MIPI FW update flow. DFU - Correct downgrade-counter opcode, flash-lock detection fix, skip reset on unsigned FW, d401_gmsl min FW → 5.17.2.2. Bug Fixes - Python deadlock, WMF reset crash, Ctrl+C re-entrancy, D435 initial enumeration, D555 DB3 playback, rs-dds-adapter Windows leak. --- MIPI Driver Highlights - JetPack 7 on NVIDIA Thor — new platform support (RSDSO-20559). - JetPack 5.1.6 and 6.2.2 added (RSDSO-21191, RSDSO-21146). - MAX96712 multi-camera: dual-camera per deserializer on JP6.x and quad-D457 via full-slave mode (RSDSO-20613). - External sync via TSC PWM (Thor-friendly), restored MAX9296 + consolidated MAX9295 GPIO tunneling (RSDSO-21407). - New carrier boards: Advantech (Orin, JP6/JP7) and AVerMedia (JP6.x). - Link tuning: MAX96712 lanes raised to 2500 Mbps; MFP6 added for links B–D. Stability - DS5 reset/detection rework, MAX9296 power_off underflow fix (spurious XCLR), JP6.x DTB deploy fix. --- D555 New Features - On-camera Object Detection (DamoYolo) — real-time bounding boxes/class/confidence published alongside streams; toggle via Color.option.Object_Detection_Enable. - UFO (UDP Fragmentation Offload) — higher throughput at high-res/fps; auto-enabled for standard MTU, disabled for jumbo frames. SafeDDS - More concurrent viewers per camera, better discovery, high-load stability, reliable notification delivery, stream-open timeout fix. ROS2 - Topic rename _CompressedColor → _Color/compressed; depth-unit in metadata; reduced topic overhead; CompressedColor auto-sync with RGB; better ROS2cli reliability. DFU - Real-time progress to host, pre-update integrity check, improved transfer reliability. Bug Fixes - Stream open timeout (RSDEV-6686), message drops under load (RSDEV-6314), network stall (RSDEV-6955), camera_info resolution mismatch (RSDEV-6683), ROS2 param/node CLI issues, 4-stream stability (RSDEV-7109). More info: https://github.com/realsenseai/librealsense/releases/tag/v2.58.1
-
-1d ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no 
 
 A region known for its lack of walkability now has more obstacles for pedestrians to contend with
 
-The Guardian • 8h ago
+The Guardian • 10h ago
 
 ---
 
@@ -130,15 +130,13 @@ Fortune • 2d ago
 
 Humanoid’s Bosch deal moves HMND 01 warehouse robots toward mass production after a German logistics pilot tested box-handling workflows in March.
 
-eWeek • 10h ago
+eWeek • 11h ago
 
 ---
 
-**[China is deploying the first home cleaning humanoid robot butlers](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers)**
+**[Every humanoid robot in China set to receive personal identification number](https://www.scmp.com/tech/policy/article/3354747/china-give-every-humanoid-robot-digital-id-push-boost-industry-standards)**
 
-The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
-
-Fast Company • 1d ago
+South China Morning Post • 15h ago
 
 ---
 
@@ -158,6 +156,12 @@ The Mercury News • 1d ago
 
 ---
 
+**[Popular robotics company shuts down and liquidates all assets](https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets)**
+
+thestreet.com • 9h ago
+
+---
+
 **[Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cathie Wood](https://finance.yahoo.com/sectors/technology/articles/tesla-model-sparked-elon-musks-113132838.html)**
 
 Investor Cathie Wood of ARK Invest has hailed the Tesla Inc. Model S following its sunset for kicking off a “revolution” led by Elon Musk in the artificial intelligence, outer space exploration and robotics sectors. Little Did We Know Wood,...
@@ -166,9 +170,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Popular robotics company shuts down and liquidates all assets](https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets)**
+**[Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: FF’s Largest-Ever 23-Unit Robot Order Marks Another Step Toward Becoming a Pathbreaker and Driving Force in the Global B2C Robotics Market](https://www.morningstar.com/news/business-wire/20260525830679/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-ffs-largest-ever-23-unit-robot-order-marks-another-step-toward-becoming-a-pathbreaker-and-driving-force-in-the-global-b2c-robotics-market)**
 
-thestreet.com • 8h ago
+Morningstar • 36m ago
 
 ---
 
@@ -177,14 +181,6 @@ thestreet.com • 8h ago
 Ukraine plans UGV procurement Ukraine 2026 to double in 2026, reaching nearly 25,000 units, adding EW, radar, missiles and mortars to combat roles.
 
 UNITED24 Media • 2d ago
-
----
-
-**[Meet the Tiny Artificial Intelligence (AI) Company That Just Grew Its Sales by a Whopping 578%](https://www.fool.com/investing/2026/05/25/meet-tiny-ai-company-grew-its-sales-a-whopping-578/)**
-
-This company is trying to capture a $450 billion opportunity in the physical artificial intelligence space.
-
-The Motley Fool • 1h ago
 
 ---
 
@@ -238,7 +234,7 @@ What's happening in robotics right now is straight-up unbelievable — and you N
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 100 • 💬 8 • ⏱️ 20:16 • 5d ago
+👁️ 5K • 👍 100 • 💬 8 • ⏱️ 20:16 • 6d ago
 
 ---
 

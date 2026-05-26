@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-25T22:34:06.935919+00:00"
+          "dateModified": "2026-05-26T00:06:12.062060+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -715,6 +715,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tno63j/peginhole_insertion_using_sensor_fusion_rl/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tno63j/peginhole_insertion_using_sensor_fusion_rl/" target="_blank" onclick="event.stopPropagation();">Peg-in-hole Insertion using Sensor Fusion & RL</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I am working on a peg-in-hole robotic assembly thesis with a Doosan M1013, ROS2 & an eye-in-hand RGB-D camera. The upstream perception system gives a coarse hole/block pose from stationary RGB-D cameras. Based on prior measurements/error propagation, the pre-insertion uncertainty may be around 3–5 mm average and up to 7–11 mm worst case, with about 1–2° angular error. I want to train a contact-rich insertion policy using vision + force/torque + proprioception, starting from a pre-insert pose about 5–20 mm above the hole. The task should eventually generalize across several cross-section geometries. For people who have worked on force-guided or vision-force peg-in-hole insertion: is this initial error range realistic for an RL/contact policy to handle directly, or would you recommend adding a TCP-camera visual refinement step before starting the RL policy? I am especially interested in practical experience with: ±5 mm vs ±10 mm initial xy error 1–2° orientation error force/torque-based local search after first contact sim-to-real transfer difficulty whether eye-in-hand visual refinement is worth the extra time I am new to this field. Kindly help me out.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1779748503.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tnfmrg/i_got_tired_of_exporting_massive_csv_files_to/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -941,41 +974,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tmp6ec/new_realsense_sdk_beta_release/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/twa7gaynn53h1.png?width=640&crop=smart&auto=webp&s=0ce9c7bb85e091a76bfbf0014d36c59866bfb1bf" alt="New RealSense SDK Beta Release!" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tmp6ec/new_realsense_sdk_beta_release/" target="_blank" onclick="event.stopPropagation();">New RealSense SDK Beta Release!</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            SDK Highlights - Partial-device-allowed is now the default — D400/D500 USB no longer silently drops degraded enumerations (configurable). - Jetson JP6 / 6.2.2 support added; fixes missing metadata over USB3 on JP6. - Bundled D400 firmware removed from the SDK package. - NEON acceleration: new BUILD_WITH_NEON flag; CUDA falls back to NEON; pointcloud correction. - MIPI driver version exposed via camera_info; new External Sync XU. Viewer - Non-blocking stop-stream, fixes for read-only options, Linux recording load, Win11 taskbar icon, MIPI FW update flow. DFU - Correct downgrade-counter opcode, flash-lock detection fix, skip reset on unsigned FW, d401_gmsl min FW → 5.17.2.2. Bug Fixes - Python deadlock, WMF reset crash, Ctrl+C re-entrancy, D435 initial enumeration, D555 DB3 playback, rs-dds-adapter Windows leak. --- MIPI Driver Highlights - JetPack 7 on NVIDIA Thor — new platform support (RSDSO-20559). - JetPack 5.1.6 and 6.2.2 added (RSDSO-21191, RSDSO-21146). - MAX96712 multi-camera: dual-camera per deserializer on JP6.x and quad-D457 via full-slave mode (RSDSO-20613). - External sync via TSC PWM (Thor-friendly), restored MAX9296 + consolidated MAX9295 GPIO tunneling (RSDSO-21407). - New carrier boards: Advantech (Orin, JP6/JP7) and AVerMedia (JP6.x). - Link tuning: MAX96712 lanes raised to 2500 Mbps; MFP6 added for links B–D. Stability - DS5 reset/detection rework, MAX9296 power_off underflow fix (spurious XCLR), JP6.x DTB deploy fix. --- D555 New Features - On-camera Object Detection (DamoYolo) — real-time bounding boxes/class/confidence published alongside streams; toggle via Color.option.Object_Detection_Enable. - UFO (UDP Fragmentation Offload) — higher throughput at high-res/fps; auto-enabled for standard MTU, disabled for jumbo frames. SafeDDS - More concurrent viewers per camera, better discovery, high-load stability, reliable notification delivery, stream-open timeout fix. ROS2 - Topic rename _CompressedColor → _Color/compressed; depth-unit in metadata; reduced topic overhead; CompressedColor auto-sync with RGB; better ROS2cli reliability. DFU - Real-time progress to host, pre-update integrity check, improved transfer reliability. Bug Fixes - Stream open timeout (RSDEV-6686), message drops under load (RSDEV-6314), network stall (RSDEV-6955), camera_info resolution mismatch (RSDEV-6683), ROS2 param/node CLI issues, 4-stream stability (RSDEV-7109). More info: https://github.com/realsenseai/librealsense/releases/tag/v2.58.1
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1779658960.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -999,7 +997,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-25T22:33:51.377468+00:00">Updated 2026-05-25T22:33:51.377468+00:00</small>
+        <small data-timestamp="2026-05-26T00:05:50.310477+00:00">Updated 2026-05-26T00:05:50.310477+00:00</small>
     </div>
 </div>
 
@@ -1308,21 +1306,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/policy/article/3354747/china-give-every-humanoid-robot-digital-id-push-boost-industry-standards', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/05/p-1-915466730-chinese-home-robots.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers" target="_blank" onclick="event.stopPropagation();">China is deploying the first home cleaning humanoid robot butlers</a>
+                            <a href="https://www.scmp.com/tech/policy/article/3354747/china-give-every-humanoid-robot-digital-id-push-boost-industry-standards" target="_blank" onclick="event.stopPropagation();">Every humanoid robot in China set to receive personal identification number</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1331,9 +1325,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fast Company" class="news-favicon">
-                                    <a href="https://www.fastcompany.com" target="_blank" onclick="event.stopPropagation();">Fast Company</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
                                     
                                 </div>
                                 
@@ -1341,7 +1335,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779617713.0"></span>
+                                    <span data-timestamp="1779697917.0"></span>
                                 </div>
                                 
                             </div>
@@ -1431,6 +1425,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets" target="_blank" onclick="event.stopPropagation();">Popular robotics company shuts down and liquidates all assets</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="thestreet.com" class="news-favicon">
+                                    <a href="https://www.thestreet.com" target="_blank" onclick="event.stopPropagation();">thestreet.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1779719580.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/articles/tesla-model-sparked-elon-musks-113132838.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/benzinga_79/b147b43391c8c4d070e701c9e59a517f');"></div>
@@ -1472,14 +1503,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.morningstar.com/news/business-wire/20260525830679/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-ffs-largest-ever-23-unit-robot-order-marks-another-step-toward-becoming-a-pathbreaker-and-driving-force-in-the-global-b2c-robotics-market', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.thestreet.com/technology/popular-robotics-company-shuts-down-and-liquidates-all-assets" target="_blank" onclick="event.stopPropagation();">Popular robotics company shuts down and liquidates all assets</a>
+                            <a href="https://www.morningstar.com/news/business-wire/20260525830679/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-ffs-largest-ever-23-unit-robot-order-marks-another-step-toward-becoming-a-pathbreaker-and-driving-force-in-the-global-b2c-robotics-market" target="_blank" onclick="event.stopPropagation();">Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: FF’s Largest-Ever 23-Unit Robot Order Marks Another Step Toward Becoming a Pathbreaker and Driving Force in the Global B2C Robotics Market</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1491,9 +1522,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="thestreet.com" class="news-favicon">
-                                    <a href="https://www.thestreet.com" target="_blank" onclick="event.stopPropagation();">thestreet.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.morningstar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Morningstar" class="news-favicon">
+                                    <a href="https://www.morningstar.com" target="_blank" onclick="event.stopPropagation();">Morningstar</a>
                                     
                                 </div>
                                 
@@ -1501,7 +1532,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779719580.0"></span>
+                                    <span data-timestamp="1779751800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1550,47 +1581,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2026/05/25/meet-tiny-ai-company-grew-its-sales-a-whopping-578/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871357%2Fa-pair-of-autonomous-food-delivery-robots-waiting-on-the-sidewalk.jpg&w=1200&op=resize');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.fool.com/investing/2026/05/25/meet-tiny-ai-company-grew-its-sales-a-whopping-578/" target="_blank" onclick="event.stopPropagation();">Meet the Tiny Artificial Intelligence (AI) Company That Just Grew Its Sales by a Whopping 578%</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            This company is trying to capture a $450 billion opportunity in the physical artificial intelligence space.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Motley Fool" class="news-favicon">
-                                    <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779743302.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1611,7 +1601,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-25T22:34:04.714862+00:00">Updated 2026-05-25T22:34:04.714862+00:00</small>
+        <small data-timestamp="2026-05-26T00:06:04.513341+00:00">Updated 2026-05-26T00:06:04.513341+00:00</small>
     </div>
 </div>
 

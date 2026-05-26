@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-25T22:34:07.347178+00:00'
+updated: '2026-05-26T00:06:12.468153+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 22:34 UTC  
+**Last Updated:** May 26, 2026 at 00:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -0.3%  
-**30d:** -11.1%  
-**90d:** +2.3%  
-**1y:** -17.9%  
+**24h:** +0.9%  
+**7d:** -0.8%  
+**30d:** -8.3%  
+**90d:** +4.2%  
+**1y:** -20.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
 
-11h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastruct
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been using the same DEX for about six months. Found out today that three months ago they added a 0.15% protocol fee on top of the existing LP fee. It's in their documentation but there was no notification, no banner, nothing in the app. I've been paying it without realizing. Over three months on my trading volume that's not trivial. Is there any way to recover this or is it just a loss
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've been using the same DEX for about six months. Found out today that three mo
 
 Hi Guys! I built my own app to track Ethereum and other crypto assets. Main things I focused on: fast portfolio tracking manual transaction tracking clean mobile UI no account required local-first/privacy-friendly approach simple watchlist + markets view Still improving it actively (especially the iPhone experience and portfolio analytics), but the app is already live on iOS. Would genuinely love feedback from crypto people here: What features do you wish portfolio trackers had? https://apps.apple.com/ca/app/kawah/id6760319857
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi Guys! I built my own app to track Ethereum and other crypto assets. Main thin
 
 Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
 
-🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 21h ago
+🔗 [firefly.social](https://firefly.social/post/x/2058583593102844111) • 23h ago
 
 ---
 
@@ -160,19 +160,27 @@ The Block • 1d ago
 
 ---
 
-**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
+**[Vitalik Biterin breaks silence about Ethereum Foundation amid community frustration](https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops)**
 
-Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
+Buterin's influence in the EF will decrease as the board expands. He framed the EF as "one node, with a defined purpose," not the center of Ethereum.
 
-The Motley Fool • 21h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Ethereum vs Solana: Which Will Hit a New ATH First?](https://finance.yahoo.com/markets/crypto/articles/ethereum-vs-solana-hit-ath-193356026.html)**
+**[Will Ethereum Ever Move Past $4,000 Again?](https://finance.yahoo.com/markets/crypto/articles/ethereum-ever-move-past-4-214344099.html)**
 
-Both Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) are far from their all-time highs, and investors want to know which one rallies back first. Ethereum peaked at $4,953 in 2025, while Solana reached $294. Today, ETH trades around $2,115 and SOL near $86—down about 58% and 71% from their respective highs. So, which of the ... Ethereum vs Solana: Which Will Hit a New ATH First?
+Ethereum (CRYPTO: ETH) is trading around $2,091 today, down 57% from its all-time high of $4,946, set in August 2025. To move past $4,000 again, Ethereum needs to nearly double from its current price. Ethereum nearly doubling from here is a stretch, but the case for it is stronger than the price suggests. So, we ... Will Ethereum Ever Move Past $4,000 Again?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update](https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index)**
+
+Ethereum treasury company BitMine is expected to enter the Russell 1000 Index, joining the index that guides institutional portfolios.
+
+Decrypt • 4h ago
 
 ---
 
@@ -180,15 +188,15 @@ Yahoo Finance • 3h ago
 
 The Ethereum-buying firm owns 3.8% of the digital asset’s supply.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[American Mega Bank Is Dumping Its Ethereum Holdings, Here’s What It’s Buying](https://www.tradingview.com/news/newsbtc:bcc4c29d8094b:0-american-mega-bank-is-dumping-its-ethereum-holdings-here-s-what-it-s-buying/)**
+**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
 
-Ethereum is losing ground inside one of America’s largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant reveal a noticeable reshuffling of its crypto exposure during the first quarter, with Ethereum and Solan…
+Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-TradingView • 12h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -196,7 +204,15 @@ TradingView • 12h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure after a correction of nearly 1%, 1.5% and 4%, respectively, in the previous week, marking the second consecutive week of losses.
 
-FXStreet • 18h ago
+FXStreet • 20h ago
+
+---
+
+**[American Mega Bank Is Dumping Its Ethereum Holdings, Here’s What It’s Buying](https://www.tradingview.com/news/newsbtc:bcc4c29d8094b:0-american-mega-bank-is-dumping-its-ethereum-holdings-here-s-what-it-s-buying/)**
+
+Ethereum is losing ground inside one of America’s largest banking portfolios as Bank of America sharply pivots toward Bitcoin-linked investment products. Fresh SEC filings from the banking giant reveal a noticeable reshuffling of its crypto exposure during the first quarter, with Ethereum and Solan…
+
+TradingView • 13h ago
 
 ---
 
@@ -204,7 +220,7 @@ FXStreet • 18h ago
 
 LONDON, May  25, 2026  (GLOBE NEWSWIRE) -- Gruntle’s presale has now pushed past $104,000 raised, and the project’s exhausted narrative is startin...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -212,21 +228,7 @@ markets.businessinsider.com • 9h ago
 
 Bitcoin held near the $77,000 region as easing geopolitical tensions surrounding U.S.-Iran negotiations helped crypto sentiment recover toward neutral territory; around $224.3 million in crypto liquidations were record&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ed over the past 24 hours.
 
-Benzinga • 9h ago
-
----
-
-**[BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets](https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/)**
-
-BitMine added $126 million in ETH while its preliminary Russell inclusion raised the prospect of broader equity-market ownership.
-
-CryptoSlate • 1d ago
-
----
-
-**[Vitalik Buterin: Ethereum Foundation must prioritize longevity over ETH sales](https://ambcrypto.com/vitalik-buterin-ethereum-foundation-must-prioritize-longevity-over-eth-sales/)**
-
-AMBCrypto • 12h ago
+Benzinga • 10h ago
 
 ---
 
@@ -240,7 +242,7 @@ Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhi
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 147 • 💬 14 • ⏱️ 10:28 • 6h ago
+👁️ 2K • 👍 147 • 💬 14 • ⏱️ 10:28 • 7h ago
 
 ---
 
@@ -250,7 +252,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 926 • 👍 66 • 💬 36 • ⏱️ 41:23 • 3h ago
+👁️ 926 • 👍 66 • 💬 36 • ⏱️ 41:23 • 5h ago
 
 ---
 
@@ -260,7 +262,7 @@ ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik jus
 
 📺 VirtualBacon
 
-👁️ 5K • 👍 216 • 💬 15 • ⏱️ 43:31 • 2h ago
+👁️ 5K • 👍 216 • 💬 15 • ⏱️ 43:31 • 4h ago
 
 ---
 
@@ -280,7 +282,7 @@ Our FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe
 
 📺 Library Of Wealth
 
-👁️ 334 • 👍 28 • 💬 23 • ⏱️ 19:39 • 5h ago
+👁️ 334 • 👍 28 • 💬 23 • ⏱️ 19:39 • 6h ago
 
 ---
 
@@ -318,7 +320,7 @@ Are you new to crypto? Well then, you've probably noticed that Ethereum is the s
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 337 • 💬 31 • ⏱️ 1:17 • 21h ago
+👁️ 6K • 👍 337 • 💬 31 • ⏱️ 1:17 • 23h ago
 
 ---
 
@@ -328,7 +330,7 @@ BITVAVO : 25 EUROS OFFERTS ✓https://bitvavo.com/fr/affiliate/cryptoflash25 ⚡
 
 📺 Crypto Flash 
 
-👁️ 1K • 👍 161 • 💬 30 • ⏱️ 33:07 • 7h ago
+👁️ 1K • 👍 161 • 💬 30 • ⏱️ 33:07 • 9h ago
 
 ---
 

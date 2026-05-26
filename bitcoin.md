@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-25T22:34:07.340744+00:00'
+updated: '2026-05-26T00:06:12.462860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 25, 2026 at 22:34 UTC  
+**Last Updated:** May 26, 2026 at 00:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,301.19
+### $77,289.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +0.4%  
-**30d:** -1.9%  
-**90d:** +13.5%  
-**1y:** -29.5%  
+**24h:** +0.5%  
+**7d:** -0.3%  
+**30d:** -0.1%  
+**90d:** +14.6%  
+**1y:** -29.0%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 I just realized something that will probably seem obvious to a lot of people here. When I first got into crypto, I thought my wallet was tied to a specific app. Then I realized that with a non-custodial wallet, my seed phrase doesn’t belong to the app itself. If one wallet app disappears tomorrow, or if I find a better one, I can simply import my seed phrase into another compatible wallet and still access my funds. In hindsight, it’s completely logical because crypto is decentralized, but it took me a while to fully understand it. Did you know this from the beginning, or was it a realization you had later on too?
 
-4h ago
+5h ago
+
+---
+
+**[Throughout history money was never created by man, only nature.](https://www.reddit.com/r/Bitcoin/comments/1tnfpd5/throughout_history_money_was_never_created_by_man/)**
+
+6h ago
 
 ---
 
@@ -89,19 +95,13 @@ I just realized something that will probably seem obvious to a lot of people her
 
 Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillion within a decade.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 15h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 16h ago
 
 ---
 
-**[Throughout history money was never created by man, only nature.](https://www.reddit.com/r/Bitcoin/comments/1tnfpd5/throughout_history_money_was_never_created_by_man/)**
+**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
 
-5h ago
-
----
-
-**[The funniest part about Bitcoin is how differently people see the future.](https://www.reddit.com/r/Bitcoin/comments/1tn0wyu/the_funniest_part_about_bitcoin_is_how/)**
-
-The goal was never just "get rich" The real flex is freedom. Funny how fast the future changes.
+You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
 
 15h ago
 
@@ -111,15 +111,7 @@ The goal was never just "get rich" The real flex is freedom. Funny how fast the 
 
 Under such a framework, Washington would offer Tehran a pathway back into the traditional global financial system only in exchange for dismantling its sovereign #Bitcoin $BTC architecture and surrendering its state-linked digital reserves. The result would amount to a twenty-first century financial disarmament treaty: a doctrine of monetary nonproliferation.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 6h ago
-
----
-
-**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
-
-You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
-
-13h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 8h ago
 
 ---
 
@@ -127,15 +119,7 @@ You can see the new panel right next to the Bitcoin price here: https://newhedge
 
 I want self custody of the bitcoin, so I’m going to buy a Trezor safe 3. Is this the best way to hold it? I will be buying the bitcoin only version. Is it worth it to upgrade to the higher end Trezor? What do yall use? Thanks in advance. EDIT: Very new and have never bought crypto. ELI5 please, just started doing some research yesterday.
 
-10h ago
-
----
-
-**[Nicehash easy mining or braiins hashpower?](https://www.reddit.com/r/Bitcoin/comments/1tnhml2/nicehash_easy_mining_or_braiins_hashpower/)**
-
-Nicehash has lower costs on easy mining but what do you use? And who is better? And on braiins can you mining other sha256 coins or just btc?
-
-4h ago
+11h ago
 
 ---
 
@@ -143,7 +127,7 @@ Nicehash has lower costs on easy mining but what do you use? And who is better? 
 
 What’s a Bitcoin take that got you laughed at before… but aged perfectly?
 
-17h ago
+19h ago
 
 ---
 
@@ -151,7 +135,23 @@ What’s a Bitcoin take that got you laughed at before… but aged perfectly?
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-15h ago
+16h ago
+
+---
+
+**[Daily Discussion, May 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1tn0as0/daily_discussion_may_25_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+17h ago
+
+---
+
+**[Thoughts on 0.5btc?](https://www.reddit.com/r/Bitcoin/comments/1tmonl6/thoughts_on_05btc/)**
+
+By 2035, will 0.5 btc be life changing? If not, what would be the minimum btc to consider it life changing?
+
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ Ask (and answer!) away! Here are the general rules: If you'd like to learn somet
 
 Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium. Pakistan and Qatar are mediating.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,21 +171,13 @@ CoinDesk • 5h ago
 
 A bitcoin OG transferred about 2,650 BTC to the crypto trading firms through multiple transactions on Sunday, according to Onchain Lens.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[Analyst calls Bitcoin’s ‘security budget’ argument a category error](https://sg.finance.yahoo.com/news/analyst-calls-bitcoin-security-budget-202947468.html)**
+**[XRP ETFs Attract $42 Million As Bitcoin ETFs Bleed $1.4B: What Is Going On?](https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-42-million-223109239.html)**
 
-In a recent episode of Bankless’ podcast, guest Michael McGuiness talked about why he decided to sell his Bitcoin in favor of Ethereum. The security budget argument, as it is known, has become one of the most cited reasons for skeptics to doubt Bitcoin's long-term staying power. Pierre Rochard, a ...
-
-Yahoo Finance Singapore • 2h ago
-
----
-
-**[Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin](https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-news-why-blackrock-211800402.html)**
-
-One number set crypto X/Twitter on edge over the weekend. On-chain tracker Arkham posted that BlackRock had sold Bitcoin every single day last week—$1.01 billion worth in total—and ended with the line everyone latched onto: “If BlackRock is selling, who’s buying?” The easy read is that the world’s largest asset manager is losing faith in ... Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin
+XRP ETFs attracted $42 million in net inflows over the past week, even as Bitcoin ETFs shed more than $1.4 billion, suggesting selective rotation into alternative crypto exposure. XRP Pulled $8.88M Latest Session, Bitcoin Lost $100.9M XRP-linked funds pulled in...
 
 Yahoo Finance • 1h ago
 
@@ -195,7 +187,7 @@ Yahoo Finance • 1h ago
 
 The company said it will undertake an "orderly wind-down" and sell off its assets.
 
-WSB-TV • 4h ago
+WSB-TV • 6h ago
 
 ---
 
@@ -213,6 +205,14 @@ Forbes • 1d ago
 
 ---
 
+**[Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin](https://247wallst.com/investing/2026/05/25/bitcoin-btc-news-why-blackrock-sold-1-billion-in-bitcoin/)**
+
+BlackRock sold $1.01B in Bitcoin last week, per Arkham, but it wasn't a bearish bet. Here's the reason behind the sale, and why BTC held.
+
+24/7 Wall St. • 2h ago
+
+---
+
 **[What If You Could Actually Hold Your Bitcoin? The Wild History Of Physical BTC](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin)**
 
 Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
@@ -225,15 +225,15 @@ Bitcoin Magazine • 2d ago
 
 US spot Bitcoin ETFs have recorded six consecutive days of outflows totaling $1.55 billion, shrinking 2026 net inflows to just $536 million.
 
-Bitbo • 16h ago
+Bitbo • 17h ago
 
 ---
 
-**[The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First](https://247wallst.com/investing/2026/05/24/the-2022-bitcoin-pattern-is-back-and-the-second-drop-was-worse-than-the-first/)**
+**[Bitcoin News Today: Saylor Moves to MicroStrategy 2.0 with Treasury Bonds as the Company Stops Buying BTC](https://www.tradingview.com/news/cryptonews:010e0e8b4094b:0-bitcoin-news-today-saylor-moves-to-microstrategy-2-0-with-treasury-bonds-as-the-company-stops-buying-btc/)**
 
-Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and laid out a chart pattern that should make every Bitcoin bull pause. The episode title says it plainly: “Bitcoin To $40K? Saylor’s Big Bet Is Breaking.” The thesis hinges on a single uncomfortable observation about 2022 that most investors have ... The 2022 Bitcoin Pattern Is Back — and the Second Drop Was Worse Than the First
+In Bitcoin News today, Strategy has paused its BTC purchases this week to repurchase $1.5 billion in face value of its 0% convertible senior notes due 2029 for approximately $1.38 billion in cash. Michael Saylor confirmed it himself on X with a single line: “This week we bought bonds, not bitcoin…
 
-24/7 Wall St. • 1d ago
+TradingView • 10h ago
 
 ---
 
@@ -245,7 +245,7 @@ Ran Neuner sat down with Scott Melker on The Wolf Of All Streets podcast and lai
 
 A technique for embedding arbitrary data — text, images, code — inside Bitcoin transactions by writing into Taproot witness data.
 
-⬆️ 4 • 💬 2 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
+⬆️ 4 • 💬 2 • 5d ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
 
 ---
 
@@ -285,7 +285,7 @@ Bitcoin's price has been described as following a power law (PL) in time, $P \si
 
 Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
-⬆️ 3 • 💬 0 • 4d ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
+⬆️ 3 • 💬 0 • 5d ago • [ChainQuery.com](https://chainquery.com/reports/fee-pressure)
 
 ---
 
@@ -327,7 +327,7 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 144 • ⏱️ 10:17 • 23h ago
+👁️ 38K • 👍 2K • 💬 144 • ⏱️ 10:17 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Busi
 
 📺 Fox Business
 
-👁️ 14K • 👍 491 • 💬 225 • ⏱️ 7:41 • 4h ago
+👁️ 14K • 👍 491 • 💬 225 • ⏱️ 7:41 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 831 • 💬 60 • ⏱️ 24:23 • 7h ago
+👁️ 13K • 👍 831 • 💬 60 • ⏱️ 24:23 • 9h ago
 
 ---
 
@@ -367,7 +367,7 @@ In today's video, Kyledoops shows you how Bitcoin is following a historical patt
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 10 • ⏱️ 27:05 • 15h ago
+👁️ 14K • 👍 1K • 💬 10 • ⏱️ 27:05 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect you
 
 📺 Bitcoin Magazine
 
-👁️ 3K • 👍 85 • 💬 6 • ⏱️ 1:24 • 11h ago
+👁️ 3K • 👍 85 • 💬 6 • ⏱️ 1:24 • 13h ago
 
 ---
 
@@ -417,7 +417,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 11K • 💬 60 • ⏱️ 19:23 • 2h ago
+👁️ 11K • 💬 60 • ⏱️ 19:23 • 4h ago
 
 ---
 
