@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-26T08:31:38.371009+00:00'
+updated: '2026-05-26T16:24:36.996045+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 26, 2026 at 08:31 UTC  
+**Last Updated:** May 26, 2026 at 16:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,906.39
+### $76,462.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -1.0%  
-**30d:** -0.8%  
-**90d:** +13.8%  
-**1y:** -29.5%  
+**24h:** -1.5%  
+**7d:** -1.4%  
+**30d:** -1.2%  
+**90d:** +13.3%  
+**1y:** -29.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1536.80B
+**Market Cap:** $1529.79B
 Rank #1
 
-**Circulating Supply:** 20,034,634 BTC
+**Circulating Supply:** 20,034,778 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--39.2%
+-39.4%
 
 **All-Time Low:** $67.81
-+113023.4%
++112483.7%
 
 ---
 
@@ -79,7 +79,63 @@ Rank #1
 
 **[This guy was mining 1 bitcoin per day in 2013](https://www.reddit.com/r/Bitcoin/comments/1tnykhj/this_guy_was_mining_1_bitcoin_per_day_in_2013/)**
 
-2h ago
+9h ago
+
+---
+
+**[Once you realize there is a database 600+ dead fiat currencies and why they collapsed. Bitcoin starts making a lot more sense.](https://www.reddit.com/r/Bitcoin/comments/1to7tvn/once_you_realize_there_is_a_database_600_dead/)**
+
+Demonetized Currencies List | Dead Currencies & Currency Risk Tracker is the search 611 dead currencies by code, country, lifespan, demonetized year, and cause of replacement.
+
+🔗 [Newhedge](https://newhedge.io/bitcoin/demonetized-currencies) • 2h ago
+
+---
+
+**[Using Bitcoin as collateral for a loan to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1to2ka6/using_bitcoin_as_collateral_for_a_loan_to_buy/)**
+
+Has anyone here tried using their BTC as collateral for a loan to buy more bitcoin? I'm considering doing this at an APR of 11.5% in expectation that price outperforms this over 12 months. 50% LTV, no monthly repayments. I know a lot of people are anti leverage, but I'm interested in hearing from anyone who's done this before.
+
+6h ago
+
+---
+
+**[Bond Yields at Multi-Year Highs Signal Bitcoin Supercycle, Analyst Says](https://www.reddit.com/r/Bitcoin/comments/1to0zsj/bond_yields_at_multiyear_highs_signal_bitcoin/)**
+
+BitMEX analyst Shang Wu said rising global bond yields could trigger a long-term Bitcoin supercycle.
+
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bond-yields-bitcoin-supercycle-bitmex) • 7h ago
+
+---
+
+**[What was the first crypto you ever bought, and do you still hold it?](https://www.reddit.com/r/Bitcoin/comments/1to2djh/what_was_the_first_crypto_you_ever_bought_and_do/)**
+
+Mine was BTC, fomo totally. I just bought because everyone kept saying “Bitcoin is the future.” I still keep it now, mostly as a long-term hold rather than something I trade.
+
+6h ago
+
+---
+
+**[Bitcoin wants you to cut in line: the mempool, visualized.](https://www.reddit.com/r/Bitcoin/comments/1to6uul/bitcoin_wants_you_to_cut_in_line_the_mempool/)**
+
+Every Bitcoin node maintains its own mempool, the holding area for transactions that have been broadcast but not yet mined. There is no single global "the" mempool. Your tx spreads between them in seconds. Inside one mempool: transactions sort by fee rate, not by arrival order. A tx that broadcasts ten minutes later but pays a higher sat/vB jumps ahead of one that arrived first. Highest rate, first served. What happens to the cheap ones? Most of them mine eventually, they just wait longer. The mempool drains as blocks come in, and the fee floor drops with it. A 1-5 sat/vB tx that doesn't mine in the next block usually mines within the next dozen. What about txs below the floor that never make it? After two weeks, the mempool evicts them. But the bitcoin stays in your wallet, the sender retains full custody, and you can rebroadcast at a higher rate. It mines in the next available block. I just shipped episode 7 of the LearnBitcoin.com rabbit-hole series: The Mempool. Includes a ~one-minute visual walkthrough of the full lifecycle - broadcast, propagation, fee-rate sorting, mining, eviction, rebroadcast. Check it out: https://www.learnbitcoin.com/rabbit-hole/mempool Let me know if something or missing or wrong. Open source. Bitcoin only. No bullshit. Have fun.
+
+3h ago
+
+---
+
+**[raw₿it — Visual Bitcoin raw Transaction Builder](https://www.reddit.com/r/Bitcoin/comments/1to4tw6/rawit_visual_bitcoin_raw_transaction_builder/)**
+
+An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 16 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
+
+4h ago
+
+---
+
+**[Difficulties sending money to crypto exchanges](https://www.reddit.com/r/Bitcoin/comments/1to9emr/difficulties_sending_money_to_crypto_exchanges/)**
+
+Any recommendations to send/withdraw fiat currency to crypto exchanges? After examining our various banks' T&C more closely, using them to fund crypto purchases is expressly forbidden. Something along the lines of: "You may not use our account/services to buy, sell, trade, or transfer crypto / to or from crypto exchanges." Furthermore, the banks that are more permissive to transfers to crypto exchanges tend to have higher stated fees or hidden fees (in spreads). Conversely, banks with very low fees tend to forbid crypto. Presumably because those fees pay for higher AML/KYC checks? Any tips on finding banks which are friendly towards crypto? Are they generally smaller banks? Or newer banks? Or big banks?
+
+1h ago
 
 ---
 
@@ -87,13 +143,7 @@ Rank #1
 
 I just realized something that will probably seem obvious to a lot of people here. When I first got into crypto, I thought my wallet was tied to a specific app. Then I realized that with a non-custodial wallet, my seed phrase doesn’t belong to the app itself. If one wallet app disappears tomorrow, or if I find a better one, I can simply import my seed phrase into another compatible wallet and still access my funds. In hindsight, it’s completely logical because crypto is decentralized, but it took me a while to fully understand it. Did you know this from the beginning, or was it a realization you had later on too?
 
-14h ago
-
----
-
-**[Throughout history money was never created by man, only nature.](https://www.reddit.com/r/Bitcoin/comments/1tnfpd5/throughout_history_money_was_never_created_by_man/)**
-
-15h ago
+21h ago
 
 ---
 
@@ -101,55 +151,7 @@ I just realized something that will probably seem obvious to a lot of people her
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
-
----
-
-**[I'd for sure would buy a boat](https://www.reddit.com/r/Bitcoin/comments/1tnrccj/id_for_sure_would_buy_a_boat/)**
-
-Wonder when this wrap was applied. My guess 2020
-
-7h ago
-
----
-
-**[**UFW Firewall guide for Bitcoin/Lightning nodes — what to open, what to never touch**](https://www.reddit.com/r/Bitcoin/comments/1tnzcsm/ufw_firewall_guide_for_bitcoinlightning_nodes/)**
-
-Posted a new guide in my sovereign-linux-tools repo. The short version: most nodes I've seen have no firewall configured at all. Default Linux accepts connections on every port. The guide covers: - Default policies (deny incoming is the only sane starting point) - Exactly which ports to expose: 8333 for Bitcoin P2P, 9735 for LND P2P - What to never expose: RPC (8332), LND gRPC (10009), REST (8080) - SSH tunnel pattern for remote gRPC access instead of opening the port - Rate limiting + Fail2ban on Ubuntu 24 (there's a known issue with banaction that breaks banning after enabling UFW) - nmap audit command to verify what's actually visible from outside All commands are copy-paste ready, tested on Ubuntu 24 LTS. Repo: https://github.com/shadowbipnode/sovereign-linux-tools Feedback welcome — especially if you run a different stack (CLN, Umbrel, etc.) and the port list needs expanding.
-
-1h ago
-
----
-
-**[Bitcoin-Backed Lending Could Hit $1T in 10 Years, Says Ledn](https://www.reddit.com/r/Bitcoin/comments/1tn1i4o/bitcoinbacked_lending_could_hit_1t_in_10_years/)**
-
-Ledn projected the Bitcoin-backed consumer lending market could reach $1 trillion within a decade.
-
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bitcoin-backed-lending-1-trillion-ledn) • 1d ago
-
----
-
-**[Bitcoin is not "crypto"](https://www.reddit.com/r/Bitcoin/comments/1to0mr2/bitcoin_is_not_crypto/)**
-
-I can do this all day. Meaning, it's not those scammy shitcoins. Tons of these scammy influencers and guru trying to rugpul noobs, and that's why people always refer that "crypto is just scam" including some noobs > taking it as bitcoin is part of it, which ACTUALLY FUCKING NOT! COINCIDENCE?! I THINK NOT!
-
-6m ago
-
----
-
-**[The Bitcoin Nonproliferation Doctrine: A U.S.–Iran Grand Bargain](https://www.reddit.com/r/Bitcoin/comments/1tnd49s/the_bitcoin_nonproliferation_doctrine_a_usiran/)**
-
-Under such a framework, Washington would offer Tehran a pathway back into the traditional global financial system only in exchange for dismantling its sovereign #Bitcoin $BTC architecture and surrendering its state-linked digital reserves. The result would amount to a twenty-first century financial disarmament treaty: a doctrine of monetary nonproliferation.
-
-🔗 [X (formerly Twitter)](https://x.com/i/status/2058932443441234253) • 16h ago
-
----
-
-**[I built a Bitcoin whale tracker that watches OG wallets, dormant coins, and billion-dollar BTC moves before they hit the headlines](https://www.reddit.com/r/Bitcoin/comments/1tn38wb/i_built_a_bitcoin_whale_tracker_that_watches_og/)**
-
-You can see the new panel right next to the Bitcoin price here: https://newhedge.io/bitcoin It tracks OG wallets, whale movements, dormant BTC waking up, large on-chain transfers, and other major Bitcoin wallet activity in one place and even recognizes well known wallets of exchanges like Coinbase. Still improving it, so would love feedback from anyone who watches onchain data closely.
-
-23h ago
+10h ago
 
 ---
 
@@ -157,33 +159,51 @@ You can see the new panel right next to the Bitcoin price here: https://newhedge
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, crypto prices tick up as US-Iran peace deal odds climb](https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb)**
+**[Bitcoin demand gauge sinks to worst level since December as spot buying weakens](https://www.coindesk.com/markets/2026/05/26/bitcoin-demand-gauge-sinks-to-worst-level-since-december-as-rally-loses-spot-support)**
 
-Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium. Pakistan and Qatar are mediating.
+CryptoQuant’s 30-day apparent demand indicator is negative, signaling that buyers aren’t absorbing the available supply and leaving the market vulnerable.
 
-CoinDesk • 15h ago
-
----
-
-**[Satoshi-era bitcoin whale moves over $200 million in BTC to FalconX, Cumberland: Onchain Lens](https://www.theblock.co/post/402447/bitcoin-og-moves-2650-btc)**
-
-A bitcoin OG transferred about 2,650 BTC to the crypto trading firms through multiple transactions on Sunday, according to Onchain Lens.
-
-The Block • 23h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin (BTC) Volatility Hits Nine-Month Low as Crypto Takes Breather](https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather)**
+**[Bitcoin Giant Strategy Slashes Cash Reserves by 61% to Repurchase $1.5 Billion in Debt](https://decrypt.co/369003/bitcoin-giant-strategy-slashes-cash-reserves-repurchase-1-5-billion-debt)**
 
-Bloomberg.com • 1h ago
+Strategy used 61% of its dedicated cash buffer to repurchase $1.5 billion in convertible notes, leaving its Bitcoin stash untouched.
+
+Decrypt • 1h ago
 
 ---
 
-**[Bitcoin News Today: Saylor Moves to MicroStrategy 2.0 with Treasury Bonds as the Company Stops Buying BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-today-saylor-moves-131749761.html)**
+**[Has Michael Saylor changed Strategy's bitcoin playbook?](https://finance.yahoo.com/video/has-michael-saylor-changed-strategys-bitcoin-playbook-154511273.html)**
 
-In Bitcoin News today, Strategy has paused its BTC purchases this week to repurchase $1.5 billion in face value of its 0% convertible senior notes due 2029 for approximately $1.38 billion in cash. Michael Saylor confirmed it himself on X with a single line: “This week we bought bonds, not ...
+Scott Melker discusses the latest crypto headlines, including Michael Saylor's new approach to Strategy (MSTR) and bitcoin (BTC-USD), stablecoin developments, the US Securities and Exchange Commission (SEC) pausing tokenized stocks, and more."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 32m ago
+
+---
+
+**[Live markets: bitcoin on sidelines as markets surge on Iran peace hopes](https://www.coindesk.com/markets/2026/05/26/live-markets-bitcoin-on-sidelines-as-markets-surge-on-iran-peace-hopes)**
+
+Oil prices and bond yields have opened the week sharply lower following President Trump's weekend announcement of an imminent Middle East agreement.
+
+CoinDesk • 1h ago
+
+---
+
+**[Strategy Relies More on Bitcoin: Are Core Revenues Losing Momentum?](https://finance.yahoo.com/markets/crypto/articles/strategy-relies-more-bitcoin-core-145300641.html)**
+
+MSTR's Bitcoin holdings near $64B dwarf its software revenue base as capital raises and treasury growth take center stage.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy Completes $1.5 Billion Debt Repurchase and achieves BTC Yield of 13.3% YTD; Now Holds 843,738 BTC](https://www.strategy.com/press/strategy-completes-1-5-billion-debt-repurchase-and-achieves-btc-yield-of-13-3-ytd-now-holds-843738-btc_05-26-2026)**
+
+May 26, 2026
+
+Strategy • 4h ago
 
 ---
 
@@ -191,45 +211,27 @@ Yahoo Finance • 19h ago
 
 The company said it will undertake an "orderly wind-down" and sell off its assets.
 
-WSB-TV • 14h ago
+WSB-TV • 22h ago
 
 ---
 
-**[What If You Could Actually Hold Your Bitcoin? The Wild History Of Physical BTC](https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin)**
+**[Bitcoin (BTC) Volatility Hits Nine-Month Low as Crypto Takes Breather](https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather)**
 
-Bitcoin is invisible code — but for over a decade, creators have turned it into coins, cards, and USBs you can touch. Here’s how close we’ve gotten to real, cash-like BTC.
-
-Bitcoin Magazine • 2d ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Billionaire Mark Cuban Suddenly Flips On Bitcoin As Massive Crash Fear Hits Price](https://www.forbes.com/sites/digital-assets/2026/05/24/billionaire-mark-cuban-suddenly-flips-on-bitcoin-as-massive-crash-fear-hits-price/)**
+**[Strategy Pauses Bitcoin Purchases to Shore Up Balance Sheet. The Stock Rises.](https://www.barrons.com/articles/strategy-stock-pauses-bitcoin-purchases-e3a9da3d)**
 
-Bitcoin has plummeted over the last week, falling sharply by 10% since mid-May...
-
-Forbes • 1d ago
+Barron's • 2h ago
 
 ---
 
-**[Bitcoin Price Recovery Looks Fragile, Another Drop May Follow Soon](https://www.tradingview.com/news/newsbtc:a165db07b094b:0-bitcoin-price-recovery-looks-fragile-another-drop-may-follow-soon/)**
+**[Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin](https://247wallst.com/investing/2026/05/25/bitcoin-btc-news-why-blackrock-sold-1-billion-in-bitcoin/)**
 
-Bitcoin price started a downside correction from the $78,000 zone. BTC is consolidating and might aim for a fresh increase if it clears $78,000.Bitcoin Price Faces ResistanceBitcoin price failed to clear the $78,000 resistance zone. BTC started a downside correction from the $77,809 swing high and…
+BlackRock sold $1.01B in Bitcoin last week, per Arkham, but it wasn't a bearish bet. Here's the reason behind the sale, and why BTC held.
 
-TradingView • 4h ago
-
----
-
-**[Veteran investor names the next 'NVIDIA' before AI boom](https://www.thestreet.com/crypto/markets/veteran-investor-names-the-next-nvidia-before-ai-boom)**
-
-thestreet.com • 11h ago
-
----
-
-**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
-
-Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
-
-The Motley Fool • 1d ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -257,7 +259,7 @@ August 15, 2010: someone created 184 billion BTC out of thin air. Five hours lat
 
 Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own Bitcoin node.' Six chapters. No shortcuts. No bullshit.
 
-⬆️ 3 • 💬 1 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/journey)
+⬆️ 3 • 💬 1 • 5d ago • [LearnBitcoin](https://www.learnbitcoin.com/journey)
 
 ---
 
@@ -265,7 +267,7 @@ Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own
 
 Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet of kiosks at retail locations that allow customers to purchase bitcoin with cash. Bitcoin Depot announced in a press release that its 9,700 kiosks – primarily located at gas stations and convenience stores&nbsp;– had already been taken offline.The company's bankruptcy filing reports between $10&nbsp;million and $50&nbsp;million in both assets and liabilities. In a recent financial disclosure, the company had reported a 49% year-over-year reduction in revenue and a net loss of $9.5&nbsp;million for the year. The company had also suffered a $3.67&nbsp;million hack in April.Bitcoin Depot has blamed a challenging state-level regulatory environment for its bankruptcy, pointing to a series of regulatory restrictions and outright bans on crypto ATMs, which are a major conduit for crypto scams. An FBI report on Internet crime in 2024 showed 11,000 reports of fraud involving crypto ATMs&nbsp;– a 99% increase from the prior year. Almost $250&nbsp;million was reported lost due to such scams, with a majority of it coming from victims over 60&nbsp;years old. Several states have responded by introducing laws imposing strict compliance requirements or transaction limits on ATM operators, and Indiana and Tennessee have both recently banned the kiosks entirely. Additionally, the company is defending against lawsuits from both Massachusetts and Iowa, which argue that the company uses a misleading pricing structure, knowingly enables crypto scames, and maintains a predatory refund policy.
 
-⬆️ 3 • 💬 0 • 3d ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
+⬆️ 3 • 💬 0 • 4d ago • [Web3 is Going Just Great](https://www.web3isgoinggreat.com/single/bitcoin-depot-bankruptcy)
 
 ---
 
@@ -301,7 +303,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cryptocurrency has to a holiday. May 22, 2010 was the first time Bitcoin was used …
 
-⬆️ 2 • 💬 0 • 3d ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
+⬆️ 2 • 💬 0 • 4d ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
 
 ---
 
@@ -309,7 +311,7 @@ Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cry
 
 What does 1 BTC buy? 16.81 troy oz of gold today. Explore BTC purchasing power across gold, silver, plutonium-238 and more.
 
-⬆️ 2 • 💬 0 • 4d ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
+⬆️ 2 • 💬 0 • 5d ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin reserve legislation just hit Congress, and almost nobody is paying atten
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 269 • ⏱️ 16:10 • 11h ago
+👁️ 27K • 👍 2K • 💬 388 • ⏱️ 16:10 • 19h ago
 
 ---
 
@@ -333,7 +335,17 @@ Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: h
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 145 • ⏱️ 10:17 • 1d ago
+👁️ 41K • 👍 2K • 💬 149 • ⏱️ 10:17 • 1d ago
+
+---
+
+**[Bitcoin: Ready to Bounce?](https://www.youtube.com/watch?v=pSgiugWPm8s)**
+
+Bitcoin: Ready to Bounce? A big green week is coming TA & Live Trades Get the CF Cycle trading indicator here: ...
+
+📺 Camel Finance
+
+👁️ 7K • 👍 489 • 💬 48 • ⏱️ 10:47 • 7h ago
 
 ---
 
@@ -343,27 +355,7 @@ ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Busi
 
 📺 Fox Business
 
-👁️ 32K • 👍 820 • 💬 394 • ⏱️ 7:41 • 14h ago
-
----
-
-**[BITCOIN: THE CYCLES ALWAYS REPEAT](https://www.youtube.com/watch?v=2GprCiz3yKw)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 4K • 👍 316 • 💬 235 • ⏱️ 15:28 • 11h ago
-
----
-
-**[What Does Trump SELLING His Bitcoin Suggest About the Strategic Bitcoin Reserve.... | EP 1511](https://www.youtube.com/watch?v=_CR714WYIyQ)**
-
-Trump Medias on-chain bitcoin holdings now down almost 50% with latest move suggesting bitcoin buys may be off the table from ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 298 • 💬 161 • ⏱️ 1:30:19 • 13h ago
+👁️ 40K • 👍 988 • 💬 495 • ⏱️ 7:41 • 22h ago
 
 ---
 
@@ -373,7 +365,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 32K • 💬 108 • ⏱️ 19:23 • 12h ago
+👁️ 38K • 💬 121 • ⏱️ 19:23 • 20h ago
 
 ---
 
@@ -383,37 +375,47 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ Pr
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 973 • 💬 255 • ⏱️ 24:23 • 17h ago
+👁️ 18K • 👍 1K • 💬 349 • ⏱️ 24:23 • 1d ago
 
 ---
 
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=dy3E7Jzte88)**
-
-Let's talk about the Bitcoin bear market resistance band. Read the most recent macro risk memo: ...
-
-📺 Benjamin Cowen
-
-👁️ 58K • 👍 4K • 💬 167 • ⏱️ 11:07 • 1d ago
-
----
-
-**[Tim Draper: Not Holding Bitcoin Is Irresponsible for Families, Companies, and Countries](https://www.youtube.com/watch?v=FnTYkXPq2Ms)**
-
-Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect your family, your company, and your country. #Bitcoin ...
-
-📺 Bitcoin Magazine
-
-👁️ 6K • 👍 140 • 💬 17 • ⏱️ 1:24 • 21h ago
-
----
-
-**[BITCOIN: THE WEEKLY RSI](https://www.youtube.com/watch?v=c1mzUScNhRo)**
+**[BITCOIN: THE CYCLES ALWAYS REPEAT](https://www.youtube.com/watch?v=2GprCiz3yKw)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 11K • 👍 539 • 💬 235 • ⏱️ 14:10 • 1d ago
+👁️ 5K • 👍 357 • 💬 291 • ⏱️ 15:28 • 19h ago
+
+---
+
+**[Why Bitcoin Is The Only Exit From The Federal Reserve](https://www.youtube.com/watch?v=gozj4cMjduc)**
+
+Bitcoin #Crypto #Finance Six men boarded a private train under fake names in 1910, traveled to a private island, and secretly ...
+
+📺 The Wolf Of All Streets
+
+👁️ 14K • 👍 1K • 💬 397 • ⏱️ 15:01 • 1d ago
+
+---
+
+**[Bitcoin Bull Case Keeps Building](https://www.youtube.com/watch?v=QVrKAtp_Av0)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRUs
+
+👁️ 6K • 👍 539 • 💬 61 • ⏱️ 42:58 • 2h ago
+
+---
+
+**[Bitcoin: The Four Year Cycle Is Not Dead](https://www.youtube.com/watch?v=7byCfkDQxq8)**
+
+Bitcoin: The 4 Year Cycle Is Not Dead For years, many have argued that Bitcoin has outgrown the traditional 4-year cycle.
+
+📺 Benjamin Cowen
+
+👁️ 50K • 👍 3K • 💬 226 • ⏱️ 25:37 • 15h ago
 
 ---
 
