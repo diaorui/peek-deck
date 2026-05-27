@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-27T18:27:05.809390+00:00'
+updated: '2026-05-27T20:33:44.274931+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 27, 2026 at 18:27 UTC  
+**Last Updated:** May 27, 2026 at 20:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -3.9%  
-**30d:** -10.4%  
-**90d:** +6.3%  
-**1y:** -23.5%  
+**24h:** -0.7%  
+**7d:** -3.5%  
+**30d:** -10.0%  
+**90d:** +6.7%  
+**1y:** -23.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.08B
+**Market Cap:** $248.35B
 Rank #2
 
 **Circulating Supply:** 120,685,456 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.6%
+-58.4%
 
 **All-Time Low:** $0.43
-+472648.1%
++475142.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I put a decent amount into a DeFi project six months ago. This morning I went to check on things and the Discord link I had saved returns an error. The website loads a blank page. The Twitter hasn't posted in three weeks. I can see my tokens still in my wallet but I'm scared to look at the price. Is there any way to tell if this is a full exit or something more recoverable
 
-14h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ I put a decent amount into a DeFi project six months ago. This morning I went to
 
 Serious question, wtf is going on. First this guy Dan was talking about how its Ethereum social. Now he's at Tempo, then the project was handed off to some kids and sold off. Now there's some lady with huge tds saying something about a fork and a token. Does anyone have any idea what's going on there? I'm dumb and don't get it.
 
-13h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Serious question, wtf is going on. First this guy Dan was talking about how its 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/f43ACiLIWq0) • 20h ago
+🔗 [youtu.be](https://youtu.be/f43ACiLIWq0) • 22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi Guys! I built my own app to track Ethereum and other crypto assets. Main thin
 
 The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,35 +166,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitmine capitalizes on Ethereum price drop, buys over 100,000 ETH as 5% supply goal nears](https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears)**
+
+"We view the recent pullback of ETH to below $2,200 as an attractive opportunity," Bitmine Chairman Tom Lee said.
+
+The Block • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.39 Million Tokens, and Total Crypto and Total Cash Holdings of $12.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-39-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-3-billion-302781471.html)**
+
+Bitmine owns more than 4.47% of the total ETH coin supply of 120.7 million Bitmine is 89% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
+
+PR Newswire • 1d ago
+
+---
+
 **[Ethereum’s ‘Ultrasound Money’ Narrative Is Dead, Analyst Says, While Calling David Hoffman’s ETH Exit Bullish](https://finance.yahoo.com/markets/crypto/articles/ethereum-ultrasound-money-narrative-dead-170705310.html)**
 
 Crypto narratives are thinning, and Ethereum is in a "ship or die" race amid competition and brain drain, says Varys Capital's venture capital head Tom Dunleavy.
 
-Yahoo Finance • 1h ago
-
----
-
-**[SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana](https://finance.yahoo.com/markets/crypto/articles/sofi-launches-sofiusd-stablecoin-across-170809428.html)**
-
-SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Tom Lee nears goal of owning 5% of ethereum supply](https://ca.finance.yahoo.com/video/tom-lee-nears-goal-of-owning-5-of-ethereum-supply-170500106.html)**
-
-Scott Melker discusses BitMine's Tom Lee's latest acquisition of ethereum (ETH-USD) his largest purchase to date, as he nears his goal of owning 5% of all ethereum available. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo! Finance Canada • 1h ago
-
----
-
-**[Current price of Ethereum for May 27, 2026](https://fortune.com/article/price-of-ethereum-05-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -202,7 +194,23 @@ Fortune • 4h ago
 
 Dubai, UAE, May  27, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just crossed $10.2 million in presale funding, and the biggest positions came in ...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana](https://finance.yahoo.com/markets/crypto/articles/sofi-launches-sofiusd-stablecoin-across-170809428.html)**
+
+SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Current price of Ethereum for May 27, 2026](https://fortune.com/article/price-of-ethereum-05-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7h ago
 
 ---
 
@@ -210,7 +218,7 @@ markets.businessinsider.com • 1h ago
 
 Hyperliquid, the Layer-1 blockchain that built its reputation on lightning-fast perpetual futures, is moving into options territory. The platform announced that both Hyperliquid-native and Ethereum-native options are on the way.The upcoming options functionality will span two flavors. Hyperliquid-n…
 
-TradingView • 14h ago
+TradingView • 16h ago
 
 ---
 
@@ -218,15 +226,7 @@ TradingView • 14h ago
 
 Bitcoin and Ethereum continue to move sideways with ongoing confusion regarding the Iran peace process
 
-Seeking Alpha • 17h ago
-
----
-
-**[Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration](https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52)**
-
-The Ethereum Foundation's Kohaku Initiative announced the release of its SDK for integrating privacy protocols into Ethereum wallets without intermediaries. The team achieved a major milestone with v0.0.1-alpha.21 of the kohaku-eth/railgun integration, which now features operational 4337 mempool relaying for private transactions. Tornado Cash and Privacy Pools integrations are in development.
-
-thedefiant.io • 1d ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -240,27 +240,27 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 594 • 💬 33 • ⏱️ 29:37 • 4h ago
+👁️ 9K • 👍 686 • 💬 38 • ⏱️ 29:37 • 6h ago
 
 ---
 
-**[🚨 Is Ethereum Dead? (Time To Sell?)](https://www.youtube.com/watch?v=Hj_Po-i5hd0)**
+**[Ethereum Incoming Crash = MAJOR Buy Opportunity?](https://www.youtube.com/watch?v=VKDU9OshWGU)**
 
-In today's Discover Crypto livestream, we break down what could be next for Bitcoin, crypto markets, institutional adoption, and the ...
+OUR MEMORIAL DAY $800 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: ...
 
-📺 Discover Crypto
+📺 Trade Confident
 
-👁️ 3K • 👍 237 • 💬 10 • ⏱️ 1:09:15 • 2h ago
+👁️ 118 • 👍 6 • 💬 25 • ⏱️ 5:58 • 2h ago
 
 ---
 
-**[HUGE BITCOIN, ETHEREUM, &amp; XRP NEWS! CRYPTO RALLY STALLS!](https://www.youtube.com/watch?v=2i-3ZsRo7Hg)**
+**[Ethereum: Bear Market Rally Running Out of Steam?](https://www.youtube.com/watch?v=YXGj0rLyKxQ)**
 
-Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bitcoin, raising total holdings to 16500 coins.
+Ethereum remains stuck inside a larger corrective structure, and the current bounce still looks weak from an Elliott Wave ...
 
-📺 Thinking Crypto
+📺 More Crypto Online
 
-👁️ 9K • 👍 605 • 💬 75 • ⏱️ 21:33 • 15h ago
+👁️ 339 • 👍 47 • 💬 1 • ⏱️ 9:06 • 21m ago
 
 ---
 
@@ -270,7 +270,17 @@ Welcome Back To The Channel! iTrust Capital – $100 Bonus (Crypto Retirement Ac
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 286 • 💬 49 • ⏱️ 16:48 • 14h ago
+👁️ 4K • 👍 310 • 💬 49 • ⏱️ 16:48 • 16h ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
+
+Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
+
+📺 BULLRUNNERS
+
+👁️ 2K • 👍 190 • 💬 154 • ⏱️ 15:14 • 4h ago
 
 ---
 
@@ -280,17 +290,27 @@ ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik jus
 
 📺 VirtualBacon
 
-👁️ 18K • 👍 581 • 💬 214 • ⏱️ 43:31 • 1d ago
+👁️ 18K • 👍 593 • 💬 202 • ⏱️ 43:31 • 2d ago
 
 ---
 
-**[Bei Ethereum steigen die Chancen für einen Abverkauf!](https://www.youtube.com/watch?v=-FxGbPOTMto)**
+**[HUGE BITCOIN, ETHEREUM, &amp; XRP NEWS! CRYPTO RALLY STALLS!](https://www.youtube.com/watch?v=2i-3ZsRo7Hg)**
 
-In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ethereum sowie die wichtigsten Unterstützungen, ...
+Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bitcoin, raising total holdings to 16500 coins.
 
-📺 Charts & Cars by Philip Klinkmüller
+📺 Thinking Crypto
 
-👁️ 2K • 👍 315 • 💬 17 • ⏱️ 18:01 • 1h ago
+👁️ 9K • 👍 608 • 💬 75 • ⏱️ 21:33 • 17h ago
+
+---
+
+**[🚨 Is Ethereum Dead? (Time To Sell?)](https://www.youtube.com/watch?v=Hj_Po-i5hd0)**
+
+In today's Discover Crypto livestream, we break down what could be next for Bitcoin, crypto markets, institutional adoption, and the ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 264 • 💬 22 • ⏱️ 1:09:15 • 4h ago
 
 ---
 
@@ -300,7 +320,7 @@ Join Discord Group https://whop.com/checkout/plan_o6uAeTDACHSyE X https://twitte
 
 📺 Pain of Crypto
 
-👁️ 2K • 👍 96 • 💬 10 • ⏱️ 7:28 • 21h ago
+👁️ 2K • 👍 99 • 💬 13 • ⏱️ 7:28 • 23h ago
 
 ---
 
@@ -310,27 +330,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 392 • 💬 36 • ⏱️ 18:27 • 1d ago
-
----
-
-**[Something Very Weird Is Happening With Bitcoin &amp; Ethereum Right Now Companies Are Acting Crazy](https://www.youtube.com/watch?v=uVWLzQEZbJI)**
-
-Ok, so, I've been saying for a while that something is up... and it looks like banks and companies are proving me right. It would ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 560 • 💬 133 • ⏱️ 32:13 • 1d ago
-
----
-
-**[🚨 BitMine Just Made Its BIGGEST ETH Buy of 2026… While Saylor Restructures Strategy](https://www.youtube.com/watch?v=taLeqTR8iR0)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 96 • 💬 26 • ⏱️ 27:15 • 5h ago
+👁️ 10K • 👍 405 • 💬 38 • ⏱️ 18:27 • 1d ago
 
 ---
 

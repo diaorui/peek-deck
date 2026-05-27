@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-27T18:27:05.802852+00:00'
+updated: '2026-05-27T20:33:44.269382+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 27, 2026 at 18:27 UTC  
+**Last Updated:** May 27, 2026 at 20:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,695.92
+### $75,313.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -3.5%  
-**30d:** -1.9%  
-**90d:** +13.6%  
-**1y:** -30.5%  
+**24h:** -0.8%  
+**7d:** -3.1%  
+**30d:** -1.4%  
+**90d:** +14.2%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1497.16B
+**Market Cap:** $1506.33B
 Rank #1
 
-**Circulating Supply:** 20,035,240 BTC
+**Circulating Supply:** 20,035,268 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--40.7%
+-40.4%
 
 **All-Time Low:** $67.81
-+110087.3%
++110742.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Feel like I’m late to the party but been stacking for approximately 6 months. Just hit .01 give me some love.
 
-11h ago
+13h ago
 
 ---
 
@@ -89,13 +89,7 @@ Feel like I’m late to the party but been stacking for approximately 6 months. 
 
 Gesten in Süden von Bayern gesehen. Finde es richtig geil Kennt man die Person? 😎
 
-7h ago
-
----
-
-**[Updated Patoshi Pattern with 500 New Patoshi Blocks | Wicked Smart Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tp7c0h/updated_patoshi_pattern_with_500_new_patoshi/)**
-
-🔗 [wickedsmartbitcoin.com](https://wickedsmartbitcoin.com/patoshi_pattern) • 3h ago
+9h ago
 
 ---
 
@@ -103,15 +97,27 @@ Gesten in Süden von Bayern gesehen. Finde es richtig geil Kennt man die Person?
 
 This is how a not insubstantial amount of people think we arrived where we are today. What would it take for them to see reckless money printing as the root cause? I don’t know, but I’m open to suggestions.
 
-2h ago
+4h ago
 
 ---
 
-**[Multisig in 35 seconds. First animated entry in our glossary.](https://www.reddit.com/r/Bitcoin/comments/1tp36w3/multisig_in_35_seconds_first_animated_entry_in/)**
+**[Got yours?](https://www.reddit.com/r/Bitcoin/comments/1tp4y0p/got_yours/)**
 
-Multisig is a Bitcoin wallet pattern where spending requires multiple signatures, not just one. Three keys held in three places, any two can sign. The animation walks the threat model end to end in 35 seconds. What it shows: - Setup: three keys with a "Three different makers" caption. Vendor diversity means a bug in one firmware can't break the others. - Normal spend: two of three keys sign, transaction broadcasts. - Loss scenario: one key is gone (lost, destroyed, custodian closed). The other two still sign and the spend goes through. - Theft scenario: a thief takes one key. They can't sign alone multisig halts at "1 of 2." A single stolen key is worthless without one of the others. - Closing pillars: Multisig. Threshold-of-keys. Vendor-diverse. This is the first animated entry in the LearnBitcoin.com glossary. The rabbit-hole series already had animations on chapters like mempool and lightning routing; this brings the same treatment to glossary terms that deserve a visual. https://www.learnbitcoin.com/glossary/multisig We will add more over time, would love suggestions on where you think our style of animation can bring clarity to complex bitcoin topics. Open source. Bitcoin only. No bullshit. Have fun.
+7h ago
 
-6h ago
+---
+
+**[Bitcoin scarcity visualization](https://www.reddit.com/r/Bitcoin/comments/1tpf4ih/bitcoin_scarcity_visualization/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=zpQw35NLgHg) • 1h ago
+
+---
+
+**[Updated Patoshi Pattern with 500 New Patoshi Blocks | Wicked Smart Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tp7c0h/updated_patoshi_pattern_with_500_new_patoshi/)**
+
+🔗 [wickedsmartbitcoin.com](https://wickedsmartbitcoin.com/patoshi_pattern) • 6h ago
 
 ---
 
@@ -119,7 +125,23 @@ Multisig is a Bitcoin wallet pattern where spending requires multiple signatures
 
 The more I watch crypto markets the more I realize the technology evolves way faster than human behavior does. Every cycle starts feeling revolutionary when you're inside it. New narratives appear, people become convinced the old rules no longer apply, leverage gets normalized, skepticism gets laughed at and eventually the market reaches that weird stage where everyone starts believing price only moves in one direction because, this time adoption is real. Then sentiment flips almost overnight. The same people screaming: , bro, buy the dip, suddenly disappear, timelines go quiet, conviction turns into fear and everybody acts shocked that volatility still exists. Honestly the more I read about old stock market bubbles, the more familiar crypto starts to feel psychologically. The assets are different, and so is technology , but: greed, euphoria, denial, panic, hope are the same. Makes me wonder if markets ever really change... or if humans just keep finding new things to become emotional about.
 
-2h ago
+4h ago
+
+---
+
+**[(Audiobook) The Original Bitcoin White Paper by Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1tpanb5/audiobook_the_original_bitcoin_white_paper_by/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/1yYrYCE4i1c?list=FLCkgJ4PC9T0wHJKgnARIZ3w&t=2) • 4h ago
+
+---
+
+**[Multisig in 35 seconds. First animated entry in our glossary.](https://www.reddit.com/r/Bitcoin/comments/1tp36w3/multisig_in_35_seconds_first_animated_entry_in/)**
+
+Multisig is a Bitcoin wallet pattern where spending requires multiple signatures, not just one. Three keys held in three places, any two can sign. The animation walks the threat model end to end in 35 seconds. What it shows: - Setup: three keys with a "Three different makers" caption. Vendor diversity means a bug in one firmware can't break the others. - Normal spend: two of three keys sign, transaction broadcasts. - Loss scenario: one key is gone (lost, destroyed, custodian closed). The other two still sign and the spend goes through. - Theft scenario: a thief takes one key. They can't sign alone multisig halts at "1 of 2." A single stolen key is worthless without one of the others. - Closing pillars: Multisig. Threshold-of-keys. Vendor-diverse. This is the first animated entry in the LearnBitcoin.com glossary. The rabbit-hole series already had animations on chapters like mempool and lightning routing; this brings the same treatment to glossary terms that deserve a visual. https://www.learnbitcoin.com/glossary/multisig We will add more over time, would love suggestions on where you think our style of animation can bring clarity to complex bitcoin topics. Open source. Bitcoin only. No bullshit. Have fun.
+
+8h ago
 
 ---
 
@@ -127,27 +149,7 @@ The more I watch crypto markets the more I realize the technology evolves way fa
 
 Earlier this month, many Bitcoin Core developers met up in Barcelona, Spain as part of their regular twice-yearly in person meetings. Attendees volunteered to take notes on the unconference-style sessions and the transcripts have been added to the BTC transcripts website: - AI session - ASMap - BIP324 and group policy options - BIPs editors - Bitcoin TUI - CAmount - CDash - Coins cache - Erlay redesign - External interfaces - GUI repo - Inventory send queue - Kernel (laundry list, overview, session) - Libevent - Logging - Modern crypto library - Mutation testing - Package relay - Post-cluster mempool - Private broadcast - QML (planning, update) - Silent payments - Static builds - SwiftSync - TCP hole punching - Template hash Additional informal discussions, code reviews, working groups, or other sessions occurred on: - Quantum - Determinism in testing - Testnet5 - MEVPool - Wallet priorities - Silent payments - Coins caching - Peer observer - ASMap updates - IPC updates - Utility binaries - Bitcoin Kernel - QML GUI - Deterministic simulation testing - AI assisted code review - BIP39 import - BIP54 - Fuzz testing - Mutation testing - Static builds - FIBRE updates - Parallel block input fetching https://btctranscripts.com/bitcoin-core-dev-tech/2026-05 JD and Patricia (from localhost research), Emily (from Brink), and myself organized. A list of previous meetings is here: https://coredev.tech Thank you to all of the volunteer scribes for taking notes.
 
-🔗 [btctranscripts.com](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05) • 3h ago
-
----
-
-**[Got yours?](https://www.reddit.com/r/Bitcoin/comments/1tp4y0p/got_yours/)**
-
-5h ago
-
----
-
-**[This guy was mining 1 bitcoin per day in 2013](https://www.reddit.com/r/Bitcoin/comments/1tnykhj/this_guy_was_mining_1_bitcoin_per_day_in_2013/)**
-
-1d ago
-
----
-
-**[Once you realize there is a database 600+ dead fiat currencies and why they collapsed. Bitcoin starts making a lot more sense.](https://www.reddit.com/r/Bitcoin/comments/1to7tvn/once_you_realize_there_is_a_database_600_dead/)**
-
-Demonetized Currencies List | Dead Currencies & Currency Risk Tracker is the search 611 dead currencies by code, country, lifespan, demonetized year, and cause of replacement.
-
-🔗 [Newhedge](https://newhedge.io/bitcoin/demonetized-currencies) • 1d ago
+🔗 [btctranscripts.com](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05) • 5h ago
 
 ---
 
@@ -167,23 +169,27 @@ CoinDesk • 1h ago
 
 ‘It’s not the hedge that I expected it to be,’ Cuban said
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
-**[Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge](https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge)**
+**[Holyoke police prevent Bitcoin scam, warn of cryptocurrency fraud](https://www.wwlp.com/news/fraud-awareness/holyoke-police-prevent-bitcoin-scam-warn-of-cryptocurrency-fraud/)**
 
-CNBC reported Tuesday that Musk is discussing a merger between Tesla and SpaceX that would tie his tech empire closer together and instantly create the world’s fifth-largest corporate bitcoin treasury, worth $3.3 billion.
-
-CoinDesk • 18m ago
+WWLP • 44m ago
 
 ---
 
-**[Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin](https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-news-why-blackrock-211800402.html)**
+**[MSTR Stock: Strategy Touts Misleading Bitcoin Per Share Gain](https://www.investors.com/news/mstr-stock-strategy-bitcoin-per-share-metric-debt-buyback/)**
 
-One number set crypto X/Twitter on edge over the weekend. On-chain tracker Arkham posted that BlackRock had sold Bitcoin every single day last week—$1.01 billion worth in total—and ended with the line everyone latched onto: “If BlackRock is selling, who’s buying?” The easy read is that the world’s largest asset manager is losing faith in ... Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin
+Investor's Business Daily • 4m ago
 
-Yahoo Finance • 1d ago
+---
+
+**[$1.29 billion of BlackRock's bitcoin ETF sold in dark pool trade](https://finance.yahoo.com/video/1-29-billion-blackrocks-bitcoin-162000752.html)**
+
+Scott Melker discusses the $1.29 billion dark pool trade on BlackRock's iShares Bitcoin Trust ETF (IBIT) amid outflows. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -191,15 +197,19 @@ Yahoo Finance • 1d ago
 
 The big sale happened amid a broader continued exodus from U.S.-listed spot bitcoin ETFs.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade](https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade)**
+**[Bitcoin falls below $76k amid renewed Iran tensions, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-amid-renewed-iran-tensions-etf-outflows-4711291)**
 
-Bitcoin ETFs saw $334 million in net outflows on Tuesday, driven by $192 million exiting BlackRock's IBIT.
+Investing.com • 13h ago
 
-The Block • 8h ago
+---
+
+**[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)**
+
+OregonLive.com • 21h ago
 
 ---
 
@@ -207,27 +217,13 @@ The Block • 8h ago
 
 TeraWulf announced it is expanding in eastern Kentucky with the purchase of a new high-performance computing development site called the Muskie Data Campus.
 
-WKYT • 22h ago
+WKYT • 1d ago
 
 ---
 
-**[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)**
-
-OregonLive.com • 19h ago
-
----
-
-**[Bitcoin (BTC) Volatility Hits Nine-Month Low as Crypto Takes Breather](https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather)**
+**[Bitcoin Volatility Hits Nine-Month Low as Crypto Takes Breather](https://www.bloomberg.com/news/articles/2026-05-26/bitcoin-btc-volatility-hits-nine-month-low-as-crypto-takes-breather)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Miami man arrested in theft of $1.9 million in Bitcoin from former employer, cops say](https://www.nbcmiami.com/news/local/miami-man-arrested-in-theft-of-1-9-million-in-bitcoin-from-former-employer-cops-say/3813867/)**
-
-A Miami man has been arrested in the theft of nearly $2 million worth of Bitcoin from a former employer, police said.
-
-NBC 6 South Florida • 3h ago
 
 ---
 
@@ -239,7 +235,7 @@ NBC 6 South Florida • 3h ago
 
 ‘It’s not the hedge that I expected it to be,’ Cuban said
 
-⬆️ 7 • 💬 2 • 15h ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
+⬆️ 7 • 💬 2 • 17h ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
 
 ---
 
@@ -247,7 +243,7 @@ NBC 6 South Florida • 3h ago
 
 The bill would effectively turn miners into their own surveillance teams, collecting and reporting information to the government in exchange for economic favoritism.
 
-⬆️ 6 • 💬 0 • 17h ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
+⬆️ 6 • 💬 0 • 19h ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
 
 ---
 
@@ -263,7 +259,7 @@ A technique for embedding arbitrary data — text, images, code — inside Bitco
 
 August 15, 2010: someone created 184 billion BTC out of thin air. Five hours later, it was fixed. Here is the full story.
 
-⬆️ 4 • 💬 0 • 5d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
+⬆️ 4 • 💬 0 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/inflation-bug-postmortem)
 
 ---
 
@@ -279,7 +275,7 @@ Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own
 
 Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
 
-⬆️ 3 • 💬 0 • 2h ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
+⬆️ 3 • 💬 0 • 4h ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ---
 
@@ -317,23 +313,53 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 ## YouTube Videos: "bitcoin"
 
+**[bitcoin holders.... i&#39;m sorry](https://www.youtube.com/watch?v=fS5tbvGLd84)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 6K • 👍 509 • 💬 182 • ⏱️ 15:16 • 4h ago
+
+---
+
 **[“Someone BIG Is Secretly Selling Crypto” What Comes NEXT?](https://www.youtube.com/watch?v=yhIN7KAZTYY)**
 
 Bitcoin Holders: It Just Got Worse… ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel member ...
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 159 • ⏱️ 8:36 • 17h ago
+👁️ 45K • 👍 2K • 💬 165 • ⏱️ 8:36 • 19h ago
 
 ---
 
-**[“I Urge You To Sell Now Before It&#39;s Too Late&quot; | Chris Camillo bitcoin prediction](https://www.youtube.com/watch?v=JSewFxsxZBk)**
+**[Bitcoin Buy Zone Amid Massive Global Tailwind](https://www.youtube.com/watch?v=jfZaUPF33WE)**
 
-Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 66K • 👍 2K • 💬 361 • ⏱️ 12:09 • 1d ago
+👁️ 10K • 👍 681 • 💬 28 • ⏱️ 50:08 • 5h ago
+
+---
+
+**[BITCOIN IS GOING LOWER - (WITH PROOF!)](https://www.youtube.com/watch?v=5_SuUFDSI7k)**
+
+BITFUNDED $250K GIVEAWAY: WIN 1 OF 50 $5,000 FUNDED ACCOUNTS ...
+
+📺 100XClub
+
+👁️ 4K • 👍 589 • 💬 93 • ⏱️ 6:49 • 7h ago
+
+---
+
+**[WHAT JUST HAPPENED TO BITCOIN!?](https://www.youtube.com/watch?v=1-y_1s20fIE)**
+
+START YOUR FREE TRIAL: https://www.learningcrypto.com SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
+
+📺 Crypto Tips
+
+👁️ 6K • 👍 515 • 💬 44 • ⏱️ 8:27 • 4h ago
 
 ---
 
@@ -343,27 +369,37 @@ The economy feels broken because it is broken for people without assets. Stocks,
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 113 • ⏱️ 16:06 • 21h ago
+👁️ 21K • 👍 1K • 💬 115 • ⏱️ 16:06 • 23h ago
 
 ---
 
-**[The real story behind BlackRock’s huge $1.29B bitcoin ETF sale](https://www.youtube.com/watch?v=XXkXkJG1kws)**
+**[Everyone Is Quietly Leaving Crypto ... (WTF?)](https://www.youtube.com/watch?v=N6kXCO-evBg)**
 
-bitcoin #blackrock #crypto A massive $1.29 billion sale of BlackRock's iShares Bitcoin Trust (IBIT) triggered headlines across ...
+Crypto sentiment in gutter, contrarian signal? BTC, ETH, HYPE, MU, AMD BITUNIX TRADE THE TOP COINS (available ...
 
-📺 Yahoo Finance
+📺 Lark Davis
 
-👁️ 1K • 👍 161 • 💬 25 • ⏱️ 14:53 • 2h ago
+👁️ 8K • 👍 532 • 💬 70 • ⏱️ 21:26 • 8h ago
 
 ---
 
-**[bitcoin holders.... i&#39;m sorry](https://www.youtube.com/watch?v=fS5tbvGLd84)**
+**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
 
-📺 Tyler S
+📺 Swan Bitcoin
 
-👁️ 3K • 👍 339 • 💬 96 • ⏱️ 15:16 • 1h ago
+👁️ 10K • 👍 733 • 💬 134 • ⏱️ 17:29 • 1d ago
+
+---
+
+**[Hepsi düştü: Petrol, tahvil, altın, Bitcoin… ](https://www.youtube.com/watch?v=amTOB_QBI08)**
+
+Hepsi düştü: Petrol, tahvil, altın, Bitcoin… #bitcoin #altcoin #coinbase #ekonomi #ethereum #abd #finans #solana #tarife #trump.
+
+📺 Hakan Ateşler 
+
+👁️ 1K • 👍 175 • 💬 39 • ⏱️ 11:54 • 4h ago
 
 ---
 
@@ -374,46 +410,6 @@ Bitcoin reserve legislation just hit Congress, and almost nobody is paying atten
 📺 Simply Bitcoin
 
 👁️ 34K • 👍 2K • 💬 369 • ⏱️ 16:10 • 1d ago
-
----
-
-**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
-
-Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 725 • 💬 117 • ⏱️ 17:29 • 1d ago
-
----
-
-**[BITCOIN Just Threw Back to Last Cycle&#39;s High (MASSIVE Pattern)](https://www.youtube.com/watch?v=aTmg5gdPMAI)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 524 • 💬 216 • ⏱️ 10:15 • 1d ago
-
----
-
-**[Why Michael Saylor bought bonds instead of bitcoin](https://www.youtube.com/watch?v=VdRSy6tvtLI)**
-
-bitcoin #crypto #michaelsaylor #YahooFinance May 26th, 2026 - Michael Saylor shocked the crypto world this week after ...
-
-📺 Yahoo Finance
-
-👁️ 17K • 👍 635 • 💬 152 • ⏱️ 14:54 • 1d ago
-
----
-
-**[BITCOIN IS GOING LOWER - (WITH PROOF!)](https://www.youtube.com/watch?v=5_SuUFDSI7k)**
-
-BITFUNDED $250K GIVEAWAY: WIN 1 OF 50 $5,000 FUNDED ACCOUNTS ...
-
-📺 100XClub
-
-👁️ 3K • 👍 542 • 💬 86 • ⏱️ 6:49 • 5h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-27T18:27:05.812824+00:00'
+updated: '2026-05-27T20:33:44.277949+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 27, 2026 at 18:27 UTC  
+**Last Updated:** May 27, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
-
-10h ago
-
----
-
 **[Trained a SO101 robot to flip a tube upright and balance it on a tiny platform.](https://www.reddit.com/r/robotics/comments/1tpampg/trained_a_so101_robot_to_flip_a_tube_upright_and/)**
 
 trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright and place it on a small platform the balancing is the part that surprised me. platform’s barely wider than the tube but the policy lands it cleanly and lets go without tipping it 150 episodes across 30 cells, 12 hr training on a g5.16xlarge works really well inside cells, weaker on interpolation between them Write more about it here https://x.com/pbshgthm/status/2059654080134529082?s=46 what’s a good way to handle inter-cell interpolation without just collecting more data?
 
-2h ago
+4h ago
+
+---
+
+**[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
+
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright
 
 Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in robot learning: not every robotic task can be learned well from video or teleoperation alone. Her point is that physical tasks often depend on forces, torques, contact, and constraints that are difficult to capture visually. Some tasks can be solved from first principles. Others may require richer data from humans performing the work, including muscle activity, pose, eye gaze, and environmental information. She also mentions into simulation, transformer-based approaches, and why robotics may need models that understand physics more directly.
 
-4h ago
+6h ago
 
 ---
 
@@ -58,27 +58,27 @@ Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in 
 
 SO-101 / LeRobot users: how do you currently share a fine-tuned policy with someone running the same hardware? This is the wall I kept hitting. Same arm, same dataset format, but actually picking up someone else's policy is not 1-click. So I started by making the data collection + preprocessing painless first (video). disclosure: building this as AXION. Local tools will stay free. What's your current workflow for trying someone else's trained policy?
 
-42m ago
+2h ago
 
 ---
 
 **[Spider robot, two legs](https://www.reddit.com/r/robotics/comments/1tov0vf/spider_robot_two_legs/)**
 
-13h ago
+15h ago
+
+---
+
+**[Built an open-source React component library for robotics and telemetry dashboards — MIT licensed](https://www.reddit.com/r/robotics/comments/1tpec1g/built_an_opensource_react_component_library_for/)**
+
+Wanted to share Altara with this community — it's a MIT-licensed React component library for real-time telemetry visualization, aimed at robotics, aerospace, and industrial IoT teams. The gap it fills: there's no open-source React component library that understands robotics instrument vocabulary. Teams building ground control stations or robot dashboards end up reimplementing attitude indicators, LiDAR viewers, occupancy grids, and time-series charts from scratch every time. Stack: TypeScript monorepo with pnpm + Turborepo, tsup for dual ESM/CJS builds, Storybook docs, native ROS2 rosbridge and MQTT adapters. GitHub: https://github.com/JayaSaiKishanChapparam/altara Live demo: https://jayasaikishanchapparam.github.io/altara/demo/ Contributions welcome — especially from anyone with domain expertise in aerospace, maritime, or energy systems where the component vocabulary is quite specialized. Altara
+
+2h ago
 
 ---
 
 **[As China’s humanoid robot boom fades, Unitree reports profit drop.](https://www.reddit.com/r/robotics/comments/1tohvif/as_chinas_humanoid_robot_boom_fades_unitree/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing) • 22h ago
-
----
-
-**[Help !!](https://www.reddit.com/r/robotics/comments/1tpdos4/help/)**
-
-So I want to go to robotics but I am doing my bacholers in cse ( ai / ml ) How should I start and how should I learn hardware part of it need a roadmap .
-
-16m ago
+🔗 [scmp.com](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing) • 1d ago
 
 ---
 
@@ -86,7 +86,15 @@ So I want to go to robotics but I am doing my bacholers in cse ( ai / ml ) How s
 
 What is the best cost-effective setup for humans to use to capture data on the manipulation of humanoid robots? Which ones have already been validated?
 
-27m ago
+2h ago
+
+---
+
+**[I built a lightweight mechanical arm digital twin demo with ESP32 and servos](https://www.reddit.com/r/robotics/comments/1tow5nf/i_built_a_lightweight_mechanical_arm_digital_twin/)**
+
+Hi, I recently joined a new company and started experimenting with lightweight bidirectional communication between virtual and physical systems. To keep things simple, I built a small mechanical arm setup using three SG90 servos and an ESP32. The virtual control side is already working and I turned it into a small demo project. Right now the system has two modes: continuous data streaming servo synchronization control The main goal is to explore lightweight digital twin workflows, real-time interaction, and physical-virtual synchronization. https://reddit.com/link/1tow5nf/video/tijqxpaham3h1/player
+
+14h ago
 
 ---
 
@@ -98,17 +106,17 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2058707244703773003 Webs
 
 ---
 
-**[What's the most underrated robotics skill nobody talks about enough?](https://www.reddit.com/r/robotics/comments/1tp65lh/whats_the_most_underrated_robotics_skill_nobody/)**
-
-Everyone talks about ROS, Python, and machine learning for robotics. But after spending time in this field, I've realized some skills rarely get mentioned: - Mechanical intuition (knowing WHY something fails) - Reading datasheets efficiently - Debugging sensor noise - Writing clean documentation What skill do YOU think is underrated in robotics? Would love to hear from both beginners and professionals.
-
-4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)**
+
+Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.
+
+TechCrunch • 1d ago
+
+---
 
 **[Delivery robots are spreading across LA. Residents ‘both pity and hate them’](https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots)**
 
@@ -118,31 +126,33 @@ The Guardian • 2d ago
 
 ---
 
-**[3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/)**
+**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://www.yahoo.com/news/videos/robotics-team-looks-creation-species-180106494.html)**
 
-Hugging Face debuts $2,500 bipedal robot project for builders and researchers.
+Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or b...
 
-Ars Technica • 1d ago
-
----
-
-**[Humanoid robots work nonstop in package test](https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test)**
-
-Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.
-
-Fox News • 3d ago
+Yahoo • 2h ago
 
 ---
 
-**[As China’s humanoid-robot hype cools, Unitree sees profit plunge](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing)**
+**[Introducing Argus, a robot with 20 legs and eyes built to move and see in any direction instantly - ABC News](https://abcnews.com/US/wireStory/introducing-argus-robot-20-legs-eyes-built-move-133359106)**
 
-South China Morning Post • 1d ago
+Robots that look like dogs or people try to replicate symmetrical shapes found in nature
+
+ABC News - Breaking News, Latest News and Videos • 1h ago
 
 ---
 
-**[Jury finds Palo Alto robotics teacher was harassed – but not by the district](https://www.paloaltoonline.com/palo-alto-schools/2026/05/26/jury-finds-palo-alto-robotics-teacher-was-harassed-but-not-by-the-district/)**
+**[It looks like a sea urchin, but this strange 20-legged machine is rewriting what robots can do](https://techxplore.com/news/2026-05-sea-urchin-strange-legged-machine.html)**
 
-Palo Alto Online • 21h ago
+Tech Xplore • 2h ago
+
+---
+
+**[Inside a Millersville lab, interns collaborate on real-world robotics projects](https://lancasteronline.com/news/local/inside-a-millersville-lab-interns-collaborate-on-real-world-robotics-projects/article_475df3c7-7621-4391-9884-06dfdd733c70.html)**
+
+Wheel.Me hummed and hugged the ground as the autonomous mobile robot careened around corners, working its way through the aisles of Millersville University’s Automation and Robotics Lab.
+
+LancasterOnline • 11h ago
 
 ---
 
@@ -154,33 +164,27 @@ NASA (.gov) • 1d ago
 
 ---
 
+**[3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/)**
+
+Hugging Face debuts $2,500 bipedal robot project for builders and researchers.
+
+Ars Technica • 1d ago
+
+---
+
 **[Metter High School Robotics Team qualifies for world championship in Canada](https://www.griceconnect.com/education/metter-high-school-robotics-team-qualifies-for-world-championship-in-canada-12315034)**
 
 After a strong performance at the regional level, Metter High School's Tiger Shark Tech robotics team is set to represent their school and community on a global scale at the MATE ROV World Championship in St. John’s, Newfoundland, Canada this summer.
 
-Grice Connect • 20h ago
+Grice Connect • 22h ago
 
 ---
 
-**[Elbit acquires Bluewhite as it deepens push into AI robotics](https://www.calcalistech.com/ctechnews/article/hy9w5znlfl)**
+**[Moorhead High School robotics team helps empower first grade student with new device](https://www.kare11.com/article/news/local/kare11-extras/moorhead-high-school-robotics-team-helps-empower-first-grade-student/89-df02a72c-a129-460f-9711-fadfc5d671d2)**
 
-Deal adds AI-powered ground autonomy platform with 100,000 hours of operational use, strengthening Elbit’s efforts to integrate unmanned systems across air and land domains.
+A young girl with disabilities at Ellen Hopkins Elementary gains new independence and confidence thanks to a device engineered by the Moorhead High School robotics.
 
-CTech • 11h ago
-
----
-
-**[This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)**
-
-Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.
-
-TechCrunch • 1d ago
-
----
-
-**[Amazon robotic facilities could quadruple tech giant’s Middletown footprint](https://spotlightdelaware.org/2026/05/26/amazon-robotic-facilities-could-quadruple-the-tech-giants-footprint-in-middletown/)**
-
-Spotlight Delaware • 1d ago
+kare11.com • 17h ago
 
 ---
 
@@ -198,23 +202,13 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 ---
 
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
-
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
-
-📺 ESPN
-
-👁️ 220K • 👍 4K • 💬 439 • ⏱️ 4:57 • 1d ago
-
----
-
 **[Shoggoth 👾 Robot Spotlight — War Robots](https://www.youtube.com/watch?v=Csn_o89Y3Fg)**
 
 Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
 
 📺 War Robots [WR]
 
-👁️ 92K • 👍 3K • 💬 207 • ⏱️ 1:55 • 1d ago
+👁️ 95K • 👍 3K • 💬 207 • ⏱️ 1:55 • 1d ago
 
 ---
 
@@ -224,17 +218,17 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 82K • 👍 971 • 💬 362 • ⏱️ 5:15 • 5d ago
+👁️ 82K • 👍 977 • 💬 364 • ⏱️ 5:15 • 5d ago
 
 ---
 
-**[War Robots - Is This The Best Setup For Pathfinder? WR Pathfinder Gameplay](https://www.youtube.com/watch?v=hi2cScYPFEY)**
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
 
-War Robots - Is this the best setup for Pathfinder? In this video, I run the Pathfinder with Machaira weapons. While these weapons ...
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
 
-📺 Adrian Chong
+📺 ESPN
 
-👁️ 5K • 👍 302 • 💬 87 • ⏱️ 15:31 • 1d ago
+👁️ 223K • 👍 4K • 💬 443 • ⏱️ 4:57 • 1d ago
 
 ---
 
@@ -244,7 +238,17 @@ Testing the MOVA LiDax Ultra 3000 AWD over the past few weeks has been seriously
 
 📺 Steve DOES
 
-👁️ 88K • 👍 953 • 💬 10 • ⏱️ 16:22 • 5d ago
+👁️ 88K • 👍 952 • 💬 10 • ⏱️ 16:22 • 5d ago
+
+---
+
+**[War Robots - Is This The Best Setup For Pathfinder? WR Pathfinder Gameplay](https://www.youtube.com/watch?v=hi2cScYPFEY)**
+
+War Robots - Is this the best setup for Pathfinder? In this video, I run the Pathfinder with Machaira weapons. While these weapons ...
+
+📺 Adrian Chong
+
+👁️ 5K • 👍 303 • 💬 87 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -254,15 +258,7 @@ War Robots News Vlog REBALANCE 12.2 ruins everything again - WR My War Robots Cr
 
 📺 Manni-Gaming
 
-👁️ 14K • 👍 957 • 💬 398 • ⏱️ 37:56 • 1d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=C1Xlyf_mVIo)**
-
-📺 Borunte julie 
-
-👁️ 26K • 👍 47 • 💬 2 • ⏱️ 0:21 • 1d ago
+👁️ 14K • 👍 971 • 💬 400 • ⏱️ 37:56 • 1d ago
 
 ---
 
@@ -272,17 +268,27 @@ Get the FREE Report on the Top 5 Robotics Stocks today: https://www.marketbeat.c
 
 📺 MarketBeat
 
-👁️ 66K • 👍 2K • 💬 67 • ⏱️ 23:57 • 2d ago
+👁️ 67K • 👍 2K • 💬 69 • ⏱️ 23:57 • 2d ago
 
 ---
 
-**[How Military Tunnel Robots and Combat Drones Work 🤖⚔️..!!#e2dhealth #animation #2dshow #health](https://www.youtube.com/watch?v=1LXk7GwSkwM)**
+**[These Machines Transform Hair And Tattoos In Seconds 🤯](https://www.youtube.com/watch?v=lnMl7SRIro0)**
 
-In this E2DTech animation, advanced combat robots are deployed onto the battlefield, demonstrating how unmanned military ...
+Some of these beauty and tattoo machines look way too advanced to ignore. Watch closely and tell me which transformation ...
 
-📺 E2DHealth 
+📺 Prototype Leaked
 
-👁️ 6K • 💬 3 • ⏱️ 0:43 • 1d ago
+👁️ 2K • 👍 82 • 💬 3 • ⏱️ 1:11 • 1h ago
+
+---
+
+**[School of Football | Can football teach a robot to move? | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=qaqzZK7ZrZk)**
+
+In School of Football, Atlas meets the world's most beloved sport. With the FIFA World Cup 2026 ahead, can football teach a robot ...
+
+📺 Boston Dynamics
+
+👁️ 103K • 👍 6K • 💬 561 • ⏱️ 1:22 • 2d ago
 
 ---
 
