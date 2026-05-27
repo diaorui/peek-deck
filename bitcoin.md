@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-27T15:43:56.322922+00:00'
+updated: '2026-05-27T18:27:05.802852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 27, 2026 at 15:43 UTC  
+**Last Updated:** May 27, 2026 at 18:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,472.82
+### $74,695.92
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.5%  
-**7d:** -2.9%  
-**30d:** -1.3%  
-**90d:** +14.4%  
-**1y:** -30.1%  
+**7d:** -3.5%  
+**30d:** -1.9%  
+**90d:** +13.6%  
+**1y:** -30.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1509.01B
+**Market Cap:** $1497.16B
 Rank #1
 
-**Circulating Supply:** 20,035,209 BTC
+**Circulating Supply:** 20,035,240 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--40.3%
+-40.7%
 
 **All-Time Low:** $67.81
-+110951.5%
++110087.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Feel like I’m late to the party but been stacking for approximately 6 months. Just hit .01 give me some love.
 
-9h ago
+11h ago
 
 ---
 
@@ -89,13 +89,21 @@ Feel like I’m late to the party but been stacking for approximately 6 months. 
 
 Gesten in Süden von Bayern gesehen. Finde es richtig geil Kennt man die Person? 😎
 
-4h ago
+7h ago
 
 ---
 
 **[Updated Patoshi Pattern with 500 New Patoshi Blocks | Wicked Smart Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tp7c0h/updated_patoshi_pattern_with_500_new_patoshi/)**
 
-🔗 [wickedsmartbitcoin.com](https://wickedsmartbitcoin.com/patoshi_pattern) • 1h ago
+🔗 [wickedsmartbitcoin.com](https://wickedsmartbitcoin.com/patoshi_pattern) • 3h ago
+
+---
+
+**[We’re still early](https://www.reddit.com/r/Bitcoin/comments/1tpacf1/were_still_early/)**
+
+This is how a not insubstantial amount of people think we arrived where we are today. What would it take for them to see reckless money printing as the root cause? I don’t know, but I’m open to suggestions.
+
+2h ago
 
 ---
 
@@ -103,7 +111,29 @@ Gesten in Süden von Bayern gesehen. Finde es richtig geil Kennt man die Person?
 
 Multisig is a Bitcoin wallet pattern where spending requires multiple signatures, not just one. Three keys held in three places, any two can sign. The animation walks the threat model end to end in 35 seconds. What it shows: - Setup: three keys with a "Three different makers" caption. Vendor diversity means a bug in one firmware can't break the others. - Normal spend: two of three keys sign, transaction broadcasts. - Loss scenario: one key is gone (lost, destroyed, custodian closed). The other two still sign and the spend goes through. - Theft scenario: a thief takes one key. They can't sign alone multisig halts at "1 of 2." A single stolen key is worthless without one of the others. - Closing pillars: Multisig. Threshold-of-keys. Vendor-diverse. This is the first animated entry in the LearnBitcoin.com glossary. The rabbit-hole series already had animations on chapters like mempool and lightning routing; this brings the same treatment to glossary terms that deserve a visual. https://www.learnbitcoin.com/glossary/multisig We will add more over time, would love suggestions on where you think our style of animation can bring clarity to complex bitcoin topics. Open source. Bitcoin only. No bullshit. Have fun.
 
-3h ago
+6h ago
+
+---
+
+**[Markets change, or do we just find new things to get emotional about?](https://www.reddit.com/r/Bitcoin/comments/1tp9jv4/markets_change_or_do_we_just_find_new_things_to/)**
+
+The more I watch crypto markets the more I realize the technology evolves way faster than human behavior does. Every cycle starts feeling revolutionary when you're inside it. New narratives appear, people become convinced the old rules no longer apply, leverage gets normalized, skepticism gets laughed at and eventually the market reaches that weird stage where everyone starts believing price only moves in one direction because, this time adoption is real. Then sentiment flips almost overnight. The same people screaming: , bro, buy the dip, suddenly disappear, timelines go quiet, conviction turns into fear and everybody acts shocked that volatility still exists. Honestly the more I read about old stock market bubbles, the more familiar crypto starts to feel psychologically. The assets are different, and so is technology , but: greed, euphoria, denial, panic, hope are the same. Makes me wonder if markets ever really change... or if humans just keep finding new things to become emotional about.
+
+2h ago
+
+---
+
+**[Bitcoin Core Developer Event - Barcelona, Spain](https://www.reddit.com/r/Bitcoin/comments/1tp7mkn/bitcoin_core_developer_event_barcelona_spain/)**
+
+Earlier this month, many Bitcoin Core developers met up in Barcelona, Spain as part of their regular twice-yearly in person meetings. Attendees volunteered to take notes on the unconference-style sessions and the transcripts have been added to the BTC transcripts website: - AI session - ASMap - BIP324 and group policy options - BIPs editors - Bitcoin TUI - CAmount - CDash - Coins cache - Erlay redesign - External interfaces - GUI repo - Inventory send queue - Kernel (laundry list, overview, session) - Libevent - Logging - Modern crypto library - Mutation testing - Package relay - Post-cluster mempool - Private broadcast - QML (planning, update) - Silent payments - Static builds - SwiftSync - TCP hole punching - Template hash Additional informal discussions, code reviews, working groups, or other sessions occurred on: - Quantum - Determinism in testing - Testnet5 - MEVPool - Wallet priorities - Silent payments - Coins caching - Peer observer - ASMap updates - IPC updates - Utility binaries - Bitcoin Kernel - QML GUI - Deterministic simulation testing - AI assisted code review - BIP39 import - BIP54 - Fuzz testing - Mutation testing - Static builds - FIBRE updates - Parallel block input fetching https://btctranscripts.com/bitcoin-core-dev-tech/2026-05 JD and Patricia (from localhost research), Emily (from Brink), and myself organized. A list of previous meetings is here: https://coredev.tech Thank you to all of the volunteer scribes for taking notes.
+
+🔗 [btctranscripts.com](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05) • 3h ago
+
+---
+
+**[Got yours?](https://www.reddit.com/r/Bitcoin/comments/1tp4y0p/got_yours/)**
+
+5h ago
 
 ---
 
@@ -121,36 +151,6 @@ Demonetized Currencies List | Dead Currencies & Currency Risk Tracker is the sea
 
 ---
 
-**[Bitcoin Core Developer Event - Barcelona, Spain](https://www.reddit.com/r/Bitcoin/comments/1tp7mkn/bitcoin_core_developer_event_barcelona_spain/)**
-
-Earlier this month, many Bitcoin Core developers met up in Barcelona, Spain as part of their regular twice-yearly in person meetings. Attendees volunteered to take notes on the unconference-style sessions and the transcripts have been added to the BTC transcripts website: - AI session - ASMap - BIP324 and group policy options - BIPs editors - Bitcoin TUI - CAmount - CDash - Coins cache - Erlay redesign - External interfaces - GUI repo - Inventory send queue - Kernel (laundry list, overview, session) - Libevent - Logging - Modern crypto library - Mutation testing - Package relay - Post-cluster mempool - Private broadcast - QML (planning, update) - Silent payments - Static builds - SwiftSync - TCP hole punching - Template hash Additional informal discussions, code reviews, working groups, or other sessions occurred on: - Quantum - Determinism in testing - Testnet5 - MEVPool - Wallet priorities - Silent payments - Coins caching - Peer observer - ASMap updates - IPC updates - Utility binaries - Bitcoin Kernel - QML GUI - Deterministic simulation testing - AI assisted code review - BIP39 import - BIP54 - Fuzz testing - Mutation testing - Static builds - FIBRE updates - Parallel block input fetching https://btctranscripts.com/bitcoin-core-dev-tech/2026-05 JD and Patricia (from localhost research), Emily (from Brink), and myself organized. A list of previous meetings is here: https://coredev.tech Thank you to all of the volunteer scribes for taking notes.
-
-🔗 [btctranscripts.com](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05) • 1h ago
-
----
-
-**[Is it dumb to use BTC as both savings and travel money?](https://www.reddit.com/r/Bitcoin/comments/1tos4qw/is_it_dumb_to_use_btc_as_both_savings_and_travel/)**
-
-Lately I’ve been putting part of my paycheck into BTC instead of keeping all my savings in cash. I’m not going all in or anything, but it’s become my main way of saving money over the past few months. The thing is, I’m planning a trip later this year and I’ll probably need to pull money out for flights, hotels, spending. Now I’m wondering if I should keep that trip money separate or just leave it in BTC with the rest of my savings. Part of me feels like it’s fine since the trip is still months away, but another part of me knows BTC could randomly dump right before I need the money.
-
-13h ago
-
----
-
-**[Got yours?](https://www.reddit.com/r/Bitcoin/comments/1tp4y0p/got_yours/)**
-
-2h ago
-
----
-
-**[It is never too late to adopt Bitcoin as better monetary technology](https://www.reddit.com/r/Bitcoin/comments/1toky6p/it_is_never_too_late_to_adopt_bitcoin_as_better/)**
-
-A lot of people say it is too late to get into Bitcoin, but that only makes sense if Bitcoin is mainly understood as a trade. If Bitcoin is better monetary technology, the question changes. Nobody says it is too late to start using the internet because some people used it earlier. The internet became more useful after it was no longer new. Bitcoin may be similar as an open network, but the analogy has a limit: bitcoin the asset is scarce in a way the internet itself is not. So maybe the real distinction is this: it may be too late to be extremely early, but not necessarily too late to adopt the tool. Early users paid with uncertainty. Later users pay a higher market price, but with more infrastructure, more liquidity, and more evidence that the network survived. Would you say there is a point where it becomes too late to adopt Bitcoin? If so, what would actually make it too late?
-
-🔗 [Myntad](https://www.myntad.com/it-is-not-too-late-to-adopt-bitcoin) • 18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -159,7 +159,7 @@ A lot of people say it is too late to get into Bitcoin, but that only makes sens
 
 Memory chip stocks are attracting capital and attention as crypto markets settle into apathy.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -167,31 +167,39 @@ CoinDesk • 2h ago
 
 ‘It’s not the hedge that I expected it to be,’ Cuban said
 
-Fortune • 19h ago
+Fortune • 22h ago
 
 ---
 
-**[Bitcoin falls to $75,000 as token decouples from tech rally](https://uk.finance.yahoo.com/news/bitcoin-falls-to-75000-as-token-decouples-from-tech-rally-133920137.html)**
+**[Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge](https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge)**
 
-Bitcoin dropped roughly 2% on Wednesday to hover near $75,500 per token.
+CNBC reported Tuesday that Musk is discussing a merger between Tesla and SpaceX that would tie his tech empire closer together and instantly create the world’s fifth-largest corporate bitcoin treasury, worth $3.3 billion.
 
-Yahoo Finance UK • 2h ago
-
----
-
-**[Miami man arrested in theft of $1.9 million in Bitcoin from former employer, cops say](https://www.nbcmiami.com/news/local/miami-man-arrested-in-theft-of-1-9-million-in-bitcoin-from-former-employer-cops-say/3813867/)**
-
-A Miami man has been arrested in the theft of nearly $2 million worth of Bitcoin from a former employer, police said.
-
-NBC 6 South Florida • 45m ago
+CoinDesk • 18m ago
 
 ---
 
-**[Is Nasdaq (NDAQ) Still Undervalued After Strong Q1 And SEC Approval For Bitcoin Index Options](https://finance.yahoo.com/markets/stocks/articles/nasdaq-ndaq-still-undervalued-strong-151055879.html)**
+**[Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin](https://finance.yahoo.com/markets/crypto/articles/bitcoin-btc-news-why-blackrock-211800402.html)**
 
-SEC approval of Bitcoin index options puts Nasdaq stock in focus The U.S. Securities and Exchange Commission has cleared Nasdaq (NDAQ) to list cash settled Bitcoin index options on the Philadelphia Stock Exchange, drawing fresh attention to the stock after its recent earnings driven move. See our latest analysis for Nasdaq. Nasdaq’s share price has eased slightly in the past week but still sits at US$90.88, with a 3 month share price return of 8.2% and a 1 year total shareholder return of...
+One number set crypto X/Twitter on edge over the weekend. On-chain tracker Arkham posted that BlackRock had sold Bitcoin every single day last week—$1.01 billion worth in total—and ended with the line everyone latched onto: “If BlackRock is selling, who’s buying?” The easy read is that the world’s largest asset manager is losing faith in ... Bitcoin (BTC) News: Why BlackRock Sold $1 Billion in Bitcoin
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Whale alert: Someone dumped $1.29 billion of BlackRock's bitcoin ETF in a dark pool trade](https://www.coindesk.com/markets/2026/05/27/whale-alert-someone-dumped-usd1-29-billion-of-blackrock-s-bitcoin-etf-in-a-dark-pool-trade)**
+
+The big sale happened amid a broader continued exodus from U.S.-listed spot bitcoin ETFs.
+
+CoinDesk • 9h ago
+
+---
+
+**[Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade](https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade)**
+
+Bitcoin ETFs saw $334 million in net outflows on Tuesday, driven by $192 million exiting BlackRock's IBIT.
+
+The Block • 8h ago
 
 ---
 
@@ -199,15 +207,13 @@ Yahoo Finance • 33m ago
 
 TeraWulf announced it is expanding in eastern Kentucky with the purchase of a new high-performance computing development site called the Muskie Data Campus.
 
-WKYT • 20h ago
+WKYT • 22h ago
 
 ---
 
-**[Smarter Web Company Adds 10 Bitcoin, Lifts Holdings To 2,869 BTC Amid Treasury Push](https://bitcoinmagazine.com/news/smarter-web-company-adds-10-bitcoin)**
+**[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)**
 
-London-listed The Smarter Web Company added 10 BTC to reach 2,869 holdings, continuing its debt-supported push to expand a Bitcoin-centric treasury strategy.
-
-Bitcoin Magazine • 21h ago
+OregonLive.com • 19h ago
 
 ---
 
@@ -217,17 +223,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Most large cryptocurrencies decrease on Bitcoin, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-bitcoin-sui-drops-45eed193-b387931a992d)**
+**[Miami man arrested in theft of $1.9 million in Bitcoin from former employer, cops say](https://www.nbcmiami.com/news/local/miami-man-arrested-in-theft-of-1-9-million-in-bitcoin-from-former-employer-cops-say/3813867/)**
 
-MarketWatch • 1h ago
+A Miami man has been arrested in the theft of nearly $2 million worth of Bitcoin from a former employer, police said.
 
----
-
-**[Cathie Wood sends strong prediction on Bitcoin despite massive outflows](https://sg.finance.yahoo.com/news/cathie-wood-sends-strong-prediction-164957678.html)**
-
-ARK Invest CEO Cathie Wood is a veteran investor in the crypto industry whose views are closely followed by traders and analysts. She was among the first investors to gain Bitcoin (BTC) exposure, with ARK being the first public asset manager to gain BTC exposure in 2015. Back then, ...
-
-Yahoo Finance Singapore • 22h ago
+NBC 6 South Florida • 3h ago
 
 ---
 
@@ -239,7 +239,7 @@ Yahoo Finance Singapore • 22h ago
 
 ‘It’s not the hedge that I expected it to be,’ Cuban said
 
-⬆️ 7 • 💬 2 • 12h ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
+⬆️ 7 • 💬 2 • 15h ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
 
 ---
 
@@ -247,7 +247,7 @@ Yahoo Finance Singapore • 22h ago
 
 The bill would effectively turn miners into their own surveillance teams, collecting and reporting information to the government in exchange for economic favoritism.
 
-⬆️ 6 • 💬 0 • 14h ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
+⬆️ 6 • 💬 0 • 17h ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
 
 ---
 
@@ -272,6 +272,14 @@ August 15, 2010: someone created 184 billion BTC out of thin air. Five hours lat
 Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own Bitcoin node.' Six chapters. No shortcuts. No bullshit.
 
 ⬆️ 3 • 💬 1 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/journey)
+
+---
+
+**[Matching Hashes: Reproducing the Guix-Built Bitcoin Core Release Binary with Nix](https://news.ycombinator.com/item?id=48296063)**
+
+Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
+
+⬆️ 3 • 💬 0 • 2h ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ---
 
@@ -305,12 +313,6 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 ---
 
-**[RawBit – Visual Bitcoin raw tx builder](https://news.ycombinator.com/item?id=48292709)**
-
-⬆️ 2 • 💬 1 • 4h ago • [rawbit.io](https://rawbit.io)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +323,7 @@ Bitcoin Holders: It Just Got Worse… ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 154 • ⏱️ 8:36 • 15h ago
+👁️ 43K • 👍 2K • 💬 159 • ⏱️ 8:36 • 17h ago
 
 ---
 
@@ -331,67 +333,37 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 359 • ⏱️ 12:09 • 1d ago
+👁️ 66K • 👍 2K • 💬 361 • ⏱️ 12:09 • 1d ago
 
 ---
 
-**[Why Michael Saylor bought bonds instead of bitcoin](https://www.youtube.com/watch?v=VdRSy6tvtLI)**
+**[$57 TRILLION TRAP: Why The Stock Market CAN&#39;T Crash (Bitcoin to $1M?)](https://www.youtube.com/watch?v=mkWQTH56m8k)**
 
-bitcoin #crypto #michaelsaylor #YahooFinance May 26th, 2026 - Michael Saylor shocked the crypto world this week after ...
+The economy feels broken because it is broken for people without assets. Stocks, homes, and wealth keep rising while Gen Z gets ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 113 • ⏱️ 16:06 • 21h ago
+
+---
+
+**[The real story behind BlackRock’s huge $1.29B bitcoin ETF sale](https://www.youtube.com/watch?v=XXkXkJG1kws)**
+
+bitcoin #blackrock #crypto A massive $1.29 billion sale of BlackRock's iShares Bitcoin Trust (IBIT) triggered headlines across ...
 
 📺 Yahoo Finance
 
-👁️ 16K • 👍 623 • 💬 149 • ⏱️ 14:54 • 23h ago
+👁️ 1K • 👍 161 • 💬 25 • ⏱️ 14:53 • 2h ago
 
 ---
 
-**[‘Institutional adoption’ is driving Bitcoin, CEO says](https://www.youtube.com/watch?v=zqJ-sPbRD10)**
+**[bitcoin holders.... i&#39;m sorry](https://www.youtube.com/watch?v=fS5tbvGLd84)**
 
-ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Business In Depth: The Crypto Campaign.
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 Fox Business
+📺 Tyler S
 
-👁️ 53K • 👍 1K • 💬 580 • ⏱️ 7:41 • 1d ago
-
----
-
-**[Tim Draper: Not Holding Bitcoin Is Irresponsible for Families, Companies, and Countries](https://www.youtube.com/watch?v=FnTYkXPq2Ms)**
-
-Tim Draper says holding Bitcoin isn't optional anymore. It's how you protect your family, your company, and your country. #Bitcoin ...
-
-📺 Bitcoin Magazine
-
-👁️ 11K • 👍 230 • 💬 30 • ⏱️ 1:24 • 2d ago
-
----
-
-**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
-
-Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 705 • 💬 115 • ⏱️ 17:29 • 1d ago
-
----
-
-**[Why Tristan Thompson Treats Bitcoin Like a 401k](https://www.youtube.com/watch?v=s0ul1KvEkPg)**
-
-NBA Champion Tristan Thompson explains why he treats Bitcoin like a long-term 401k and how it's outperformed traditional ...
-
-📺 Bitcoin Magazine
-
-👁️ 1K • 👍 45 • 💬 3 • ⏱️ 0:33 • 12h ago
-
----
-
-**[MASSIVE Bitcoin Rejection Spells TROUBLE For Bitcoin Bulls! Sub-$60k Incoming? Bitcoin Prediction](https://www.youtube.com/watch?v=i-kBrIQf8Eo)**
-
-Bitcoin Rejected HARD At The 20 DEMA! Subscribe to ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 330 • 💬 105 • ⏱️ 7:16 • 21h ago
+👁️ 3K • 👍 339 • 💬 96 • ⏱️ 15:16 • 1h ago
 
 ---
 
@@ -401,17 +373,47 @@ Bitcoin reserve legislation just hit Congress, and almost nobody is paying atten
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 370 • ⏱️ 16:10 • 1d ago
+👁️ 34K • 👍 2K • 💬 369 • ⏱️ 16:10 • 1d ago
 
 ---
 
-**[you&#39;re going to need a hug after watching this bitcoin video...](https://www.youtube.com/watch?v=mrbVAtTs13A)**
+**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
 
-📺 Tyler S
+📺 Swan Bitcoin
 
-👁️ 10K • 👍 629 • 💬 293 • ⏱️ 14:27 • 21h ago
+👁️ 10K • 👍 725 • 💬 117 • ⏱️ 17:29 • 1d ago
+
+---
+
+**[BITCOIN Just Threw Back to Last Cycle&#39;s High (MASSIVE Pattern)](https://www.youtube.com/watch?v=aTmg5gdPMAI)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 524 • 💬 216 • ⏱️ 10:15 • 1d ago
+
+---
+
+**[Why Michael Saylor bought bonds instead of bitcoin](https://www.youtube.com/watch?v=VdRSy6tvtLI)**
+
+bitcoin #crypto #michaelsaylor #YahooFinance May 26th, 2026 - Michael Saylor shocked the crypto world this week after ...
+
+📺 Yahoo Finance
+
+👁️ 17K • 👍 635 • 💬 152 • ⏱️ 14:54 • 1d ago
+
+---
+
+**[BITCOIN IS GOING LOWER - (WITH PROOF!)](https://www.youtube.com/watch?v=5_SuUFDSI7k)**
+
+BITFUNDED $250K GIVEAWAY: WIN 1 OF 50 $5,000 FUNDED ACCOUNTS ...
+
+📺 100XClub
+
+👁️ 3K • 👍 542 • 💬 86 • ⏱️ 6:49 • 5h ago
 
 ---
 
