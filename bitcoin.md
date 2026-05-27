@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-26T23:40:53.088420+00:00'
+updated: '2026-05-27T03:55:31.183373+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 26, 2026 at 23:40 UTC  
+**Last Updated:** May 27, 2026 at 03:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,932.03
+### $75,734.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -2.0%  
-**30d:** -1.8%  
-**90d:** +12.6%  
-**1y:** -30.3%  
+**24h:** -1.4%  
+**7d:** -2.5%  
+**30d:** -0.9%  
+**90d:** +14.9%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1518.70B
+**Market Cap:** $1515.48B
 Rank #1
 
-**Circulating Supply:** 20,034,909 BTC
+**Circulating Supply:** 20,034,956 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--39.9%
+-40.0%
 
 **All-Time Low:** $67.81
-+111691.8%
++111449.9%
 
 ---
 
@@ -77,25 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[This guy was mining 1 bitcoin per day in 2013](https://www.reddit.com/r/Bitcoin/comments/1tnykhj/this_guy_was_mining_1_bitcoin_per_day_in_2013/)**
+
+21h ago
+
+---
+
 **[Once you realize there is a database 600+ dead fiat currencies and why they collapsed. Bitcoin starts making a lot more sense.](https://www.reddit.com/r/Bitcoin/comments/1to7tvn/once_you_realize_there_is_a_database_600_dead/)**
 
 Demonetized Currencies List | Dead Currencies & Currency Risk Tracker is the search 611 dead currencies by code, country, lifespan, demonetized year, and cause of replacement.
 
-🔗 [Newhedge](https://newhedge.io/bitcoin/demonetized-currencies) • 9h ago
+🔗 [Newhedge](https://newhedge.io/bitcoin/demonetized-currencies) • 13h ago
 
 ---
 
-**[This guy was mining 1 bitcoin per day in 2013](https://www.reddit.com/r/Bitcoin/comments/1tnykhj/this_guy_was_mining_1_bitcoin_per_day_in_2013/)**
+**[It is never too late to adopt Bitcoin as better monetary technology](https://www.reddit.com/r/Bitcoin/comments/1toky6p/it_is_never_too_late_to_adopt_bitcoin_as_better/)**
 
-17h ago
+A lot of people say it is too late to get into Bitcoin, but that only makes sense if Bitcoin is mainly understood as a trade. If Bitcoin is better monetary technology, the question changes. Nobody says it is too late to start using the internet because some people used it earlier. The internet became more useful after it was no longer new. Bitcoin may be similar as an open network, but the analogy has a limit: bitcoin the asset is scarce in a way the internet itself is not. So maybe the real distinction is this: it may be too late to be extremely early, but not necessarily too late to adopt the tool. Early users paid with uncertainty. Later users pay a higher market price, but with more infrastructure, more liquidity, and more evidence that the network survived. Would you say there is a point where it becomes too late to adopt Bitcoin? If so, what would actually make it too late?
+
+🔗 [Myntad](https://www.myntad.com/it-is-not-too-late-to-adopt-bitcoin) • 6h ago
 
 ---
 
-**[Using Bitcoin as collateral for a loan to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1to2ka6/using_bitcoin_as_collateral_for_a_loan_to_buy/)**
+**[Is it dumb to use BTC as both savings and travel money?](https://www.reddit.com/r/Bitcoin/comments/1tos4qw/is_it_dumb_to_use_btc_as_both_savings_and_travel/)**
 
-Has anyone here tried using their BTC as collateral for a loan to buy more bitcoin? I'm considering doing this at an APR of 11.5% in expectation that price outperforms this over 12 months. 50% LTV, no monthly repayments. I know a lot of people are anti leverage, but I'm interested in hearing from anyone who's done this before.
+Lately I’ve been putting part of my paycheck into BTC instead of keeping all my savings in cash. I’m not going all in or anything, but it’s become my main way of saving money over the past few months. The thing is, I’m planning a trip later this year and I’ll probably need to pull money out for flights, hotels, spending. Now I’m wondering if I should keep that trip money separate or just leave it in BTC with the rest of my savings. Part of me feels like it’s fine since the trip is still months away, but another part of me knows BTC could randomly dump right before I need the money.
 
-13h ago
+1h ago
 
 ---
 
@@ -103,7 +111,15 @@ Has anyone here tried using their BTC as collateral for a loan to buy more bitco
 
 BitMEX analyst Shang Wu said rising global bond yields could trigger a long-term Bitcoin supercycle.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bond-yields-bitcoin-supercycle-bitmex) • 14h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/bond-yields-bitcoin-supercycle-bitmex) • 19h ago
+
+---
+
+**[Using Bitcoin as collateral for a loan to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1to2ka6/using_bitcoin_as_collateral_for_a_loan_to_buy/)**
+
+Has anyone here tried using their BTC as collateral for a loan to buy more bitcoin? I'm considering doing this at an APR of 11.5% in expectation that price outperforms this over 12 months. 50% LTV, no monthly repayments. I know a lot of people are anti leverage, but I'm interested in hearing from anyone who's done this before.
+
+17h ago
 
 ---
 
@@ -111,7 +127,7 @@ BitMEX analyst Shang Wu said rising global bond yields could trigger a long-term
 
 I always have a slight fear of compromising my metal seed backup and my whole stack can be compromised. So I just added a BIP39 passphrase purely with dice rolling entropy. Now I have some peace of mind.🥶 Now I'll keep a small balance in my original wallet as a decoy wallet and rest of my fund will be in this passphrase protected wallet.🟠
 
-6h ago
+10h ago
 
 ---
 
@@ -119,39 +135,23 @@ I always have a slight fear of compromising my metal seed backup and my whole st
 
 Every Bitcoin node maintains its own mempool, the holding area for transactions that have been broadcast but not yet mined. There is no single global "the" mempool. Your tx spreads between them in seconds. Inside one mempool: transactions sort by fee rate, not by arrival order. A tx that broadcasts ten minutes later but pays a higher sat/vB jumps ahead of one that arrived first. Highest rate, first served. What happens to the cheap ones? Most of them mine eventually, they just wait longer. The mempool drains as blocks come in, and the fee floor drops with it. A 1-5 sat/vB tx that doesn't mine in the next block usually mines within the next dozen. What about txs below the floor that never make it? After two weeks, the mempool evicts them. But the bitcoin stays in your wallet, the sender retains full custody, and you can rebroadcast at a higher rate. It mines in the next available block. I just shipped episode 7 of the LearnBitcoin.com rabbit-hole series: The Mempool. Includes a ~one-minute visual walkthrough of the full lifecycle - broadcast, propagation, fee-rate sorting, mining, eviction, rebroadcast. Check it out: https://www.learnbitcoin.com/rabbit-hole/mempool Let me know if something or missing or wrong. Open source. Bitcoin only. No bullshit. Have fun.
 
-10h ago
+14h ago
 
 ---
 
-**[Multibit HD wallet sync stuck at 80%](https://www.reddit.com/r/Bitcoin/comments/1tocpfi/multibit_hd_wallet_sync_stuck_at_80/)**
+**[Inbound node connections, BIP322 - Bitcoin Optech Newsletter #406 Recap Podcast](https://www.reddit.com/r/Bitcoin/comments/1togh4w/inbound_node_connections_bip322_bitcoin_optech/)**
 
-I am trying to restore my multibit HD wallet but the sync gets stuck at 80%. I have tried repair wallet. Any suggestions?
+Oliver Gugger and 0xB10C joined Optech to discuss Newsletter #406: - Updates to BIP322's generic signed message format - TCP hole punching to help Bitcoin nodes behind home routers accept inbound connections - Changes to services and client software including Ibis Wallet, LDK Server, Mempool.space v3.3.0, and peer-observer P2P monitoring tooling - And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/05/26/ Spotify: https://open.spotify.com/episode/6dZrINmR28FeFeiyX6E6gr Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-406-recap/id1674626983?i=1000769691092
 
-6h ago
-
----
-
-**[Need help finding withdraw address](https://www.reddit.com/r/Bitcoin/comments/1to9hb1/need_help_finding_withdraw_address/)**
-
-Hey so I recently opened an account with Kraken and I’m finding it hard to withdraw as it’s asking me to add a withdraw address. I don’t know what this is, how to find one and where to find one. Thanks
-
-8h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/05/26/) • 9h ago
 
 ---
 
-**[What was the first crypto you ever bought, and do you still hold it?](https://www.reddit.com/r/Bitcoin/comments/1to2djh/what_was_the_first_crypto_you_ever_bought_and_do/)**
+**[Opiniões sobre carteiras e corretoras internacionais para holder de Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1tonatj/opiniões_sobre_carteiras_e_corretoras/)**
 
-Mine was BTC, fomo totally. I just bought because everyone kept saying “Bitcoin is the future.” I still keep it now, mostly as a long-term hold rather than something I trade.
+Olá, boa noite a todos! Atualmente compro Bitcoin pela Binance, mas com as mudanças recentes na tributação de criptoativos no Brasil, estou buscando entender melhores alternativas para custódia e planejamento tributário dentro da legalidade. Meu perfil é de holder de longo prazo, então meu objetivo principal é preservar meus Bitcoins com segurança e, se possível, reduzir custos com taxas e otimizar a gestão tributária de forma correta. Gostaria da opinião dos senhores sobre: Vale mais a pena manter em corretora internacional ou migrar para carteira própria (self-custody)? Quais carteiras vocês recomendam com boa segurança e taxas baixas para longo prazo? (ex.: Ledger, Trezor, BlueWallet) Existe alguma estratégia legal de organização patrimonial ou tributária que vocês utilizam para investimentos em cripto no Brasil? Agradeço desde já pela ajuda!
 
-13h ago
-
----
-
-**[Difficulties sending money to crypto exchanges](https://www.reddit.com/r/Bitcoin/comments/1to9emr/difficulties_sending_money_to_crypto_exchanges/)**
-
-Any recommendations to send/withdraw fiat currency to crypto exchanges? After examining our various banks' T&C more closely, using them to fund crypto purchases is expressly forbidden. Something along the lines of: "You may not use our account/services to buy, sell, trade, or transfer crypto / to or from crypto exchanges." Furthermore, the banks that are more permissive to transfers to crypto exchanges tend to have higher stated fees or hidden fees (in spreads). Conversely, banks with very low fees tend to forbid crypto. Presumably because those fees pay for higher AML/KYC checks? Any tips on finding banks which are friendly towards crypto? Are they generally smaller banks? Or newer banks? Or big banks?
-
-8h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ Any recommendations to send/withdraw fiat currency to crypto exchanges? After ex
 
 ‘It’s not the hedge that I expected it to be,’ Cuban said
 
-Fortune • 3h ago
+Fortune • 7h ago
 
 ---
 
@@ -171,15 +171,13 @@ Fortune • 3h ago
 
 CryptoQuant’s 30-day apparent demand indicator is negative, signaling that buyers aren’t absorbing the available supply and leaving the market vulnerable.
 
-CoinDesk • 11h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Someone Just Destroyed $8.2 Million in Bitcoin—Why?](https://finance.yahoo.com/markets/crypto/articles/someone-just-destroyed-8-2-211934440.html)**
+**[BTC/USDT](https://www.binance.com/en/trade/BTC_USDT?contentId=327502982725106)**
 
-Five unknown addresses removed 107 Bitcoin worth $8.2 million from circulation today, sparking intrigue on social media.
-
-Yahoo Finance • 2h ago
+Binance • 26m ago
 
 ---
 
@@ -187,7 +185,30 @@ Yahoo Finance • 2h ago
 
 TeraWulf announced it is expanding in eastern Kentucky with the purchase of a new high-performance computing development site called the Muskie Data Campus.
 
-WKYT • 4h ago
+WKYT • 8h ago
+
+---
+
+**[Does CleanSpark’s (CLSK) New Finance Chief Clarify Its Shift From Bitcoin Mining To AI Infrastructure?](https://simplywall.st/stocks/us/software/nasdaq-clsk/cleanspark/news/does-cleansparks-clsk-new-finance-chief-clarify-its-shift-fr)**
+
+Earlier this month, CleanSpark, Inc. appointed Ruben Sahakyan as Senior Vice President of Finance, tasking him with leading capital markets, financial planning and analysis, and M&A support as the company advances its digital infrastructure ambitions.
+Bringing more than 15 years of financial services experience and over US$20.00 billion of advised transaction value in digital assets, infrastructure, and fintech, Sahakyan’s hire signals a deeper push to structure and finance CleanSpark’s...
+
+simplywall.st • 14h ago
+
+---
+
+**[Goldman Sachs gives harsh warning on market concentration](https://www.thestreet.com/crypto/markets/goldman-sachs-gives-harsh-warning-on-market-concentration)**
+
+thestreet.com • 7h ago
+
+---
+
+**[Bitcoin Giant Strategy Slashes Cash Reserves by 61% to Repurchase $1.5 Billion in Debt](https://finance.yahoo.com/markets/crypto/articles/bitcoin-giant-strategy-slashes-cash-143546027.html)**
+
+Strategy used 61% of its dedicated cash buffer to repurchase $1.5 billion in convertible notes, leaving its Bitcoin stash untouched.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -195,13 +216,7 @@ WKYT • 4h ago
 
 May 26, 2026
 
-Strategy • 11h ago
-
----
-
-**[Watch Elon Musk’s SpaceX Has More Bitcoin Than Estimated, SEC Filing Shows](https://www.bloomberg.com/news/videos/2026-05-26/spacex-has-more-bitcoin-than-estimated-sec-filing-shows-video)**
-
-Bloomberg.com • 23h ago
+Strategy • 15h ago
 
 ---
 
@@ -213,27 +228,9 @@ WSB-TV • 1d ago
 
 ---
 
-**[Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up](https://bitcoinmagazine.com/news/strives-sata-swallows-entire-bitcoin)**
+**[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)**
 
-Strive’s SATA preferred stock is rapidly emerging as a major bitcoin accumulation vehicle — briefly absorbing more than 100% of daily mining supply.
-
-Bitcoin Magazine • 5h ago
-
----
-
-**[‘Bloodbath’ Bitcoin Price Crash Warning Issued As BlackRock Sell-Off Revealed](https://www.forbes.com/sites/digital-assets/2026/05/26/bloodbath-bitcoin-price-crash-warning-issued-as-blackrock-sell-off-revealed/)**
-
-A “bloodbath” bitcoin price warning has been issued as traders flee BlackRock’s bitcoin exchange-traded fund (ETF)...
-
-Forbes • 10h ago
-
----
-
-**[Strive leapfrogs Coinbase, Riot with latest $85.4 million bitcoin buy](https://www.theblock.co/post/402567/strive-leapfrogs-coinbase-riot-85-4-million-bitcoin-buy)**
-
-Vivek Ramaswamy-founded Strive now ranks as the seventh-largest public corporate bitcoin holder, trailing Bullish.
-
-The Block • 8h ago
+OregonLive.com • 7h ago
 
 ---
 
@@ -241,11 +238,27 @@ The Block • 8h ago
 
 ## HackerNews: "bitcoin"
 
+**[Mined in America Act Would Put Bitcoin Network at Risk](https://news.ycombinator.com/item?id=48288300)**
+
+The bill would effectively turn miners into their own surveillance teams, collecting and reporting information to the government in exchange for economic favoritism.
+
+⬆️ 6 • 💬 0 • 2h ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
+
+---
+
 **[Understanding Bitcoin Inscriptions](https://news.ycombinator.com/item?id=48215613)**
 
 A technique for embedding arbitrary data — text, images, code — inside Bitcoin transactions by writing into Taproot witness data.
 
 ⬆️ 4 • 💬 2 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/glossary/inscriptions)
+
+---
+
+**[Billionaire Mark Cuban says bye-bye Bitcoin: Why he is 'disappointed' by crypto](https://news.ycombinator.com/item?id=48289056)**
+
+‘It’s not the hedge that I expected it to be,’ Cuban said
+
+⬆️ 4 • 💬 0 • 50m ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
 
 ---
 
@@ -297,23 +310,7 @@ Currently low at 1 sat/vB to confirm next block. 796 txs queued.
 
 **[The Bitcoin Governance Event Horizon](https://news.ycombinator.com/item?id=48243791)**
 
-⬆️ 2 • 💬 0 • 3d ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
-
----
-
-**[Bitcoin Pizza Day is crypto's longest-running joke](https://news.ycombinator.com/item?id=48235514)**
-
-Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cryptocurrency has to a holiday. May 22, 2010 was the first time Bitcoin was used …
-
-⬆️ 2 • 💬 0 • 4d ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
-
----
-
-**[Show HN: See how much gold, plutonium and cocaine SpaceX's Bitcoin buys](https://news.ycombinator.com/item?id=48221227)**
-
-What does 1 BTC buy? 16.81 troy oz of gold today. Explore BTC purchasing power across gold, silver, plutonium-238 and more.
-
-⬆️ 2 • 💬 0 • 5d ago • [Bitcoin Weigh-In](https://bitcoinweighin.com/)
+⬆️ 2 • 💬 0 • 4d ago • [earthchronicles.substack.com](https://earthchronicles.substack.com/p/the-bitcoin-governance-event-horizon)
 
 ---
 
@@ -327,57 +324,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 342 • ⏱️ 12:09 • 1d ago
-
----
-
-**[The $1 Trillion Bitcoin and Gold Plan Nobody Is Talking About!](https://www.youtube.com/watch?v=Nk_Y2yi7Pks)**
-
-Bitcoin reserve legislation just hit Congress, and almost nobody is paying attention. The ARMA Act would revalue America's gold ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 378 • ⏱️ 16:10 • 1d ago
-
----
-
-**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
-
-Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
-
-📺 Swan Bitcoin
-
-👁️ 6K • 👍 525 • 💬 92 • ⏱️ 17:29 • 8h ago
-
----
-
-**[Why Michael Saylor bought bonds instead of bitcoin](https://www.youtube.com/watch?v=VdRSy6tvtLI)**
-
-bitcoin #crypto #michaelsaylor #YahooFinance May 26th, 2026 - Michael Saylor shocked the crypto world this week after ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 415 • 💬 98 • ⏱️ 14:54 • 7h ago
-
----
-
-**[Bitcoin Holders: I CAN&#39;T BELIEVE THIS JUST HAPPENED!](https://www.youtube.com/watch?v=ISg0K444Tbs)**
-
-Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 152 • ⏱️ 10:17 • 2d ago
-
----
-
-**[Bitcoin: Ready to Bounce?](https://www.youtube.com/watch?v=pSgiugWPm8s)**
-
-Bitcoin: Ready to Bounce? A big green week is coming TA & Live Trades Get the CF Cycle trading indicator here: ...
-
-📺 Camel Finance
-
-👁️ 9K • 👍 580 • 💬 52 • ⏱️ 10:47 • 14h ago
+👁️ 61K • 👍 2K • 💬 348 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -387,7 +334,47 @@ The economy feels broken because it is broken for people without assets. Stocks,
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 526 • 💬 48 • ⏱️ 16:06 • 2h ago
+👁️ 11K • 👍 967 • 💬 74 • ⏱️ 16:06 • 6h ago
+
+---
+
+**[Bitcoin Holders: I CAN&#39;T BELIEVE THIS JUST HAPPENED!](https://www.youtube.com/watch?v=ISg0K444Tbs)**
+
+Cryptocurrency Is About To Get ABSOLUTELY WILD! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 152 • ⏱️ 10:17 • 2d ago
+
+---
+
+**[Why Michael Saylor bought bonds instead of bitcoin](https://www.youtube.com/watch?v=VdRSy6tvtLI)**
+
+bitcoin #crypto #michaelsaylor #YahooFinance May 26th, 2026 - Michael Saylor shocked the crypto world this week after ...
+
+📺 Yahoo Finance
+
+👁️ 11K • 👍 500 • 💬 109 • ⏱️ 14:54 • 11h ago
+
+---
+
+**[“Someone BIG Is Secretly Selling Crypto” What Comes NEXT?](https://www.youtube.com/watch?v=yhIN7KAZTYY)**
+
+Bitcoin Holders: It Just Got Worse… ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel member ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 939 • 💬 90 • ⏱️ 8:36 • 3h ago
+
+---
+
+**[Bitcoin: Ready to Bounce?](https://www.youtube.com/watch?v=pSgiugWPm8s)**
+
+Bitcoin: Ready to Bounce? A big green week is coming TA & Live Trades Get the CF Cycle trading indicator here: ...
+
+📺 Camel Finance
+
+👁️ 10K • 👍 590 • 💬 53 • ⏱️ 10:47 • 18h ago
 
 ---
 
@@ -397,7 +384,27 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 405 • 💬 172 • ⏱️ 10:15 • 7h ago
+👁️ 7K • 👍 452 • 💬 169 • ⏱️ 10:15 • 11h ago
+
+---
+
+**[The $1 Trillion Bitcoin and Gold Plan Nobody Is Talking About!](https://www.youtube.com/watch?v=Nk_Y2yi7Pks)**
+
+Bitcoin reserve legislation just hit Congress, and almost nobody is paying attention. The ARMA Act would revalue America's gold ...
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 2K • 💬 372 • ⏱️ 16:10 • 1d ago
+
+---
+
+**[Bitcoin Has Already Won: The Math is Done](https://www.youtube.com/watch?v=SotcotEwFmk)**
+
+Bitcoin is the exit. This Memorial Day, while America fires up the grill and stares down ground beef at $6.90 a pound, Bitcoiners ...
+
+📺 Swan Bitcoin
+
+👁️ 8K • 👍 608 • 💬 108 • ⏱️ 17:29 • 12h ago
 
 ---
 
@@ -407,17 +414,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 42K • 💬 128 • ⏱️ 19:23 • 1d ago
-
----
-
-**[‘Institutional adoption’ is driving Bitcoin, CEO says](https://www.youtube.com/watch?v=zqJ-sPbRD10)**
-
-ARK Invest CEO and CIO Cathie Wood explains her Bitcoin bullishness on 'Fox Business In Depth: The Crypto Campaign.
-
-📺 Fox Business
-
-👁️ 45K • 👍 1K • 💬 497 • ⏱️ 7:41 • 1d ago
+👁️ 43K • 💬 128 • ⏱️ 19:23 • 1d ago
 
 ---
 
