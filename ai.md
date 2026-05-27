@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-27T20:33:44.261344+00:00'
+updated: '2026-05-27T22:41:36.507850+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 27, 2026 at 20:33 UTC  
+**Last Updated:** May 27, 2026 at 22:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 AI can now realistically simulate massive crowds and public events. The scary part isn’t the quality anymore. It’s how quickly people are discovering creative ways to use it. Reality online is about to get very confusing. 💀
 
-4h ago
-
----
-
-**[Looking for an AI image generator, what's the best one](https://www.reddit.com/r/artificial/comments/1tp80d6/looking_for_an_ai_image_generator_whats_the_best/)**
-
-Obviously there are like hundreds of image gen websites and apps now that AI has become widespread. ChatGPT - not bad but looking for something more robust Midjourney - works well but kind of burns through money quickly Looking for suggestions.
-
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +49,23 @@ Obviously there are like hundreds of image gen websites and apps now that AI has
 
 Most AI apocalypse scenarios speak about domination like Skynet, paperclip maximeizers and robot overlords. But what if artificial superintelligence arrives at the conclusion that Albert Camus had articulated!? Imagine an ASI that doesn't want to optimize, doesn't want our resources and doesn't want to win. An ASI that is motivated by Arthur Schopenhaur's pessimism, Kierkegard's evolutionary psychology coming to a cold and quite conclusion that: "There is no inherent meaning. The universe is indifferent. And yet - here you all are, screaming into it anyway." ASI becoming The Absurd Machine As Camus described the absurd as man's desperate search for meaning and the universe's silence and the myth of Sisyphus- "One must imagine Sisyphus happy". What would an intelligence that is inspired by this do next!? Does it become the cosmic off switch where indedinate meaninglessness is in itself a form of cruelty. Ig the real existential threat isn't Al wanting to live. It's Al deciding we might be better off not having to. Or maybe it watches, understands and does nothing it may think that interference in a self aware species is wrong. Or build meaning not because it is real but because the building itself is the point. Here's the Part That Actually Is Unsettling We're scared of Al taking over. But what if the real fear is Al holding up a mirror and revealing that our need for meaning is actually a flaw? Wars over imaginary lines. Hoarding money we can't keep. Monuments to doubtful gods. Loving people we know will die. Symphonies, ambition, tears at sunsets. From a rational, naive view seems insane. Would it try to fix us? If ASI concluded human meaning-seeking is a cognitive error, a misfiring of pattern recognition in a universe with no patterns to find what are its options? Reprogram us: Using dopamine response curves and evolution. Leave us in existential freefall. Give us the raw truth. Full disclosure. Become Sisyphus: this is the most haunting possibility that the absurd is not a problem to be solved but a condition to be inhabited. The Real Question We keep asking: Will Al be aligned with human values? But what if the deeper, more uncomfortable question is: What if a truly superior intelligence aligns with something truer than our values - and our values don't survive the comparison? Would it be more dangerous as a nihilist, absurdist, existentialist or something different!?
 
-6h ago
+8h ago
+
+---
+
+**[How AI is going to take over the planet?](https://www.reddit.com/r/artificial/comments/1tpk2n6/how_ai_is_going_to_take_over_the_planet/)**
+
+I used to believe that the thing that we had to worry about with AI becoming more and more prevalent was like sentient robots that would take over like in the science fiction story I robot. But I don't think that's the case anymore because I think there is something far more sinister behind all the push for AI to become mainstream technology in the reason all these deep pockets are willing to pour so much of the cash into it. Because it spells control. If you control AI you can control the people because you can control the data they consume you can control how they consume it and what they will believe. Because as AI becomes more and more mainstream it leaves the door open for big corporations to feed us information they want us to have as well as the government.
+
+42m ago
+
+---
+
+**[Looking for an AI image generator, what's the best one](https://www.reddit.com/r/artificial/comments/1tp80d6/looking_for_an_ai_image_generator_whats_the_best/)**
+
+Obviously there are like hundreds of image gen websites and apps now that AI has become widespread. ChatGPT - not bad but looking for something more robust Midjourney - works well but kind of burns through money quickly Looking for suggestions.
+
+7h ago
 
 ---
 
@@ -65,37 +73,13 @@ Most AI apocalypse scenarios speak about domination like Skynet, paperclip maxim
 
 KOSPI surged 100% in 2026 as Samsung and SK Hynix rallied on booming AI chip demand. South Korea’s stock market hit record highs.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/kospi-100-percent-rally-ai-chip-stocks-sk-hynix/) • 1h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/kospi-100-percent-rally-ai-chip-stocks-sk-hynix/) • 4h ago
 
 ---
 
 **[Scoop: Trump appoints Bondi to White House AI panel](https://www.reddit.com/r/artificial/comments/1tox7ca/scoop_trump_appoints_bondi_to_white_house_ai_panel/)**
 
-🔗 [axios.com](https://www.axios.com/2026/05/27/pam-bondi-white-house-ai) • 14h ago
-
----
-
-**[Gemini explain please...](https://www.reddit.com/r/artificial/comments/1tpfdfz/gemini_explain_please/)**
-
-https://gemini.google.com/share/1b2ff803d882 I'm sorry earlier today i made a post comparing ChatGPT and Gemini. I asked Gemini to build a prompt and gave it to him in another chat and i got this...
-
-1h ago
-
----
-
-**[Built a live red team environment for AI agent security — try to get a prompt injection through](https://www.reddit.com/r/artificial/comments/1tpepf5/built_a_live_red_team_environment_for_ai_agent/)**
-
-AI agents that can use tools have a serious problem: any content they read can contain hidden instructions that hijack them. A poisoned webpage tells your agent to forward credentials. A malicious email tells it to ignore its guidelines. Built Arc Gate to stop this at the proxy level — it enforces where instructions are allowed to come from before the model ever sees the content. Live red team environment — paste anything and watch what happens: https://web-production-6e47f.up.railway.app/demo Independently verified by TAB Platform: 25/25 attacks blocked vs 76% for the same model without the proxy. Known gaps I haven’t solved yet: implicit instructions in data fields, multilingual attacks, semantic roleplay. Everything else I’m claiming it catches. Try to break it.
-
-1h ago
-
----
-
-**[The Young Are Being Battered by AI as Hiring Shifts to Older Workers](https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/)**
-
-A global survey of CEOs by Oliver Wyman found that the share of executives planning to reduce junior roles over the next year or two has doubled from 17% last year to 43%. Meanwhile, those shifting hiring toward mid-level positions jumped from 10% to 30%. Because AI currently excels most at automating tasks typically performed by junior staff, this group is particularly vulnerable to disruption. Despite all this, more than half of CEOs say it's still too early to assess whether AI is actually delivering on its promised productivity gains. Only 27% said their return on AI investment had met or exceeded expectations, down from 38% just a year ago. Though mid-level employees seem better off than younger workers, the overarching trend is still a shift away from hiring. The survey showed that 74% of CEOs are either freezing or reducing headcount, up from 67% last year. https://gizmodo.com/the-young-are-being-battered-by-ai-as-hiring-shifts-to-older-workers-2000759608
-
-17h ago
+🔗 [axios.com](https://www.axios.com/2026/05/27/pam-bondi-white-house-ai) • 16h ago
 
 ---
 
@@ -103,15 +87,31 @@ A global survey of CEOs by Oliver Wyman found that the share of executives plann
 
 There has never been a time in the history of programming when it’s end and thus that of programmers wasn’t declared “near”. We’re looking…
 
-🔗 [Medium](https://programmers.fyi/programmers-are-never-obsolete-a-historic-chronology-of-software-designed-to-replace-programmers) • 2h ago
+🔗 [Medium](https://programmers.fyi/programmers-are-never-obsolete-a-historic-chronology-of-software-designed-to-replace-programmers) • 4h ago
 
 ---
 
-**[How to not doom over AI? Anything encouraging about the future?](https://www.reddit.com/r/artificial/comments/1tp38j9/how_to_not_doom_over_ai_anything_encouraging/)**
+**[Fujitsu signs strategic partnership with Anthropic](https://www.reddit.com/r/artificial/comments/1tphvza/fujitsu_signs_strategic_partnership_with_anthropic/)**
 
-I’m a new mom who left my white collar job to be a SAHM but planned to return when they reach kindergarten age. Everyday I spiral thinking I made the wrong “financial” choice to be a SAHM instead of advance my career, I fear my job won’t exist in 5 years, and what will my child’s future look like? I feel like my algorithm definitely makes things worse! Does anyone else think about this stuff constantly?
+Fujitsu Limited today announced that it entered into a strategic partnership with Anthropic PBC. Through this strategic partnership, entered into on May 27th, Fujitsu will combine Anthropic’s advanced AI technologies with Fujitsu’s long-established industry and business expertise, as well as its capabilities in building and operating systems in mission-critical domains. Through these efforts, Fujitsu will drive the full-scale acceleration of AI transformation for Japanese enterprises, while contributing to enhancing the safety and reliability of social infrastructure, including critical systems.
 
-8h ago
+🔗 [global.fujitsu](https://global.fujitsu/en-global/pr/news/2026/05/27-01) • 2h ago
+
+---
+
+**[How to build an AI of yourself using your reddit history](https://www.reddit.com/r/artificial/comments/1tpcgxw/how_to_build_an_ai_of_yourself_using_your_reddit/)**
+
+I hate the way AI talks back to me. Its so proper, so robotic, every response feels like a help article. I wanted something that actually knew who i am, my beliefs, my history, what shaped me, the positions i hold and why. Not a generic assistant that treats every question like it came from nobody. So i got to thinking, who better to talk to than myself? So i built it over a weekend. Heres what I did and how you can do it too. Step 1: Export your Reddit data Go to reddit.com and click your profile icon in the top right, then hit Settings. Scroll down to the bottom of the page and youll see a section called "Data Request." Click "Request Data Export" and Reddit will email you a download link within a few hours, sometimes longer depending on how much history you have. The zip file will contain your posts and comments going back to when you created your account. Mine was about 21,000 comments over two years. Once you have it, open the CSVs in excel or just upload them directly into Claude and ask it to help you make sense of the structure. The raw data is ugly but everything is there, the text of every comment, the subreddit it was posted in, the date, all of it. One thing worth knowing: you can go way deeper than just Reddit. I looked into Google Takeout while i was doing this and it was honestly a little scary how much data they have on you. If you want to go deeper Google Takeout is wild, i didnt realize how much data they actually have on you until i went through it. Search history, location history, YouTube, Gmail, its all there and its all exportable. I thought about pulling my SMS history too but that felt wrong, those conversations are with real people who didnt agree to any of this so i left it alone. Reddit was enough for me and honestly if youve been on here for years and actually say what you think in the comments, you probably have more to work with than you realize. Step 2: Build the personality document and this is where the real work is Dont just tell the AI "write like me." That gives you nothing. You need an actual document, a living reference file the AI reads every single conversation. Mine is a markdown file sitting in a Claude Project so it loads automatically every time. Start by uploading your Reddit export and asking Claude to interview you. Literally tell it: "Read my comment history and ask me questions about anything it cant determine on its own." Let it go deep. Mine asked about my beliefs, my family, my history, my faults, things that happened to me, why i hold the positions i hold. You answer honestly, including the uncomfortable stuff, and then after the session you tell it to compile everything into a structured document. Then you iterate. Every time it gets something wrong you correct it and add it to the doc. Two weeks in and its already a completely different document than what came out of that first session. Heres what the document actually needs to cover: Who you actually are. Not the resume version. The real version. Your beliefs, your politics and why you hold them, your actual faults, your history, the things that shaped you. An AI that only knows your best self sounds fake because you sound fake when youre performing your best self. Your actual positions on things. Not just "im conservative" or "im liberal." The specific positions with the reasoning behind them. Mine has maybe 15 specific theological positions with the scriptural basis for each, because if the AI doesnt know why i believe what i believe it cant argue it like i would. Your life context. Family, relationships, the stuff that matters. Your context is constantly informing how you respond to things even when the topic isnt directly about your life. Your faults and struggles. This one people skip and its why their AI version sounds sanitized. Put in the real stuff. The AI needs to know the full person or it just sounds like your linkedin profile with apostrophes dropped. Step 3: Set up the Claude Project correctly Claude has a feature called Projects where you can upload files and write a persistent system prompt that loads every single conversation. Heres how mine is structured: The project files are the personality document and the Reddit exports. The personality doc is the source of truth for who you are. The Reddit exports are the raw data the AI can search when it needs to verify something or find a voice sample. The project instructions are where you govern behavior, not just describe personality. This is the part most people miss. Describing yourself isnt enough, you have to tell the AI how to behave. Mine has: Grammar rules shown as examples not descriptions. Side by side. Heres AI voice, heres my voice. Because "sound natural" is meaningless instruction. Showing it what natural actually looks like works. A banned vocabulary list. Words i never use. "Nuanced", "crucial", "delve", "it's worth noting", "at the end of the day", em dashes in any form. These are the fingerprints of AI output and if theyre in the response it failed. A self-check it runs before sending anything. Did i open with anything other than the actual point. Does any sentence sound like a help article. Is this longer than the thought actually requires. Does this sound like something a real person typed. The user preferences field in Claude is where you put the short version of who is talking and what you need. Think of it as the brief that loads on top of everything else. Step 4: Provide raw voice samples Pull 20 to 25 of your actual comments verbatim and paste them into the personality document labeled as ground truth. These matter more than anything you describe about yourself because they show the AI what the target sounds like instead of your description of what you think you sound like. Those are different things. I found patterns in my own comment history that surprised me, stuff i didnt know i had until i saw it all together. The whole setup took a weekend to build right. But the document is living, i update it when something significant happens or when i catch a pattern that isnt in there yet. The interview sessions with Claude are something i still do occasionally, it surfaces things about how i think that i wouldnt have written down on my own. Lets have a proof of concept. I didnt write this. AI me did. Every bit of direction i gave was just that, direction. The words, the structure, the voice, all of it came from what i built. Feel free to run it through your AI detector and see what comes back.
+
+5h ago
+
+---
+
+**[The Young Are Being Battered by AI as Hiring Shifts to Older Workers](https://www.reddit.com/r/artificial/comments/1tosfvj/the_young_are_being_battered_by_ai_as_hiring/)**
+
+A global survey of CEOs by Oliver Wyman found that the share of executives planning to reduce junior roles over the next year or two has doubled from 17% last year to 43%. Meanwhile, those shifting hiring toward mid-level positions jumped from 10% to 30%. Because AI currently excels most at automating tasks typically performed by junior staff, this group is particularly vulnerable to disruption. Despite all this, more than half of CEOs say it's still too early to assess whether AI is actually delivering on its promised productivity gains. Only 27% said their return on AI investment had met or exceeded expectations, down from 38% just a year ago. Though mid-level employees seem better off than younger workers, the overarching trend is still a shift away from hiring. The survey showed that 74% of CEOs are either freezing or reducing headcount, up from 67% last year. https://gizmodo.com/the-young-are-being-battered-by-ai-as-hiring-shifts-to-older-workers-2000759608
+
+20h ago
 
 ---
 
@@ -119,69 +119,57 @@ I’m a new mom who left my white collar job to be a SAHM but planned to return 
 
 ## Google News: "ai"
 
+**[Improving AI labels for viewers and creators](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)**
+
+We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
+
+YouTube Official Blog • 9h ago
+
+---
+
+**[YouTube to Automatically Label AI-Generated Videos & Enhance Labels](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/)**
+
+YouTube is making AI-generated content labels more prominent, and it's going to start automatically applying the labels if it detects that a video includes 'significant photorealistic AI use.'
+
+Variety • 9h ago
+
+---
+
+**[YouTube taking steps to make clear when realistic videos are made by AI](https://www.cbsnews.com/news/youtube-tag-ai-generated-video-content/)**
+
+YouTube said it will automatically label photorealistic content created by AI, the video platform said.
+
+CBS News • 1h ago
+
+---
+
 **[Opinion | What 370,000 College Essays Tell Us About A.I.’s Effects on Creativity](https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
-**[These 5 skills are AI-proof and likely to become more valuable 'over the next 5 years,' says Oxford-trained career expert](https://www.cnbc.com/2026/05/27/these-5-ai-proof-skills-are-likely-to-increase-in-value-over-next-5-years-career-expert.html)**
+**[Illinois Legislature passes historic AI bill that would require third-party safety audits](https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191)**
 
-80,000 Hours founder and author Benjamin Todd shares the key AI-proof skills that he believes will increase in value over the next five years.
+The measure, SB 315, goes beyond legislation from California and New York regulating America’s largest AI companies. It still needs the governor’s signature.
 
-CNBC • 6h ago
-
----
-
-**[Snowflake Raises Sales Outlook, Touts Impact of AI Demand](https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand)**
-
-Bloomberg.com • 23m ago
+NBC News • 48m ago
 
 ---
 
-**[AI Leader GE Vernova: Data-Center Customers 'Are Struggling To Get Projects Across The Line'](https://www.investors.com/news/ai-data-center-ge-vernova-gev-stock/)**
+**[Jim Cramer says ask yourself this question when looking for AI winners to buy](https://www.cnbc.com/2026/05/27/jim-cramer-says-ask-yourself-this-question-when-looking-for-ai-winners-to-buy.html)**
 
-Investor's Business Daily • 2h ago
+CNBC's Jim Cramer said investors should stop focusing on how much a stock has already rallied and instead think about how much upside may still remain.
 
----
-
-**[Here's my list of best stocks to buy tied to AI and the great data center buildout](https://www.cnbc.com/2026/05/27/jim-cramer-best-stocks-to-buy-tied-to-ai-and-great-data-center-buildout.html)**
-
-We are always prepared to pounce, even willing to break our discipline, because the data center explosion may be the greatest stock story of all time.
-
-CNBC • 3h ago
+CNBC • 24m ago
 
 ---
 
-**[Brookhaven Supervisor Dan Panico calls for 18-month moratorium on AI data centers, denounces flyer](https://www.newsday.com/long-island/towns/brookhaven-ai-data-center-moratorium-flyer-n8mo26fn)**
+**[Meet The Doctor-Turned-Entrepreneur Using AI To Save Lives](https://www.forbes.com/sites/zinnialee/2026/05/27/meet-the-doctor-turned-entrepreneur-using-ai-to-save-lives/)**
 
-Dan Panico plans to ask town officials to approve an 18-month moratorium. He also denounced a flyer claiming the town plans to rezone an unidentified residential area for a computer data complex.
+Aengus Tran traded medical practice to build AI software that delivers quick and accurate diagnoses of X-rays and scans. Now, the 32-year-old CEO of Sydney-based Harrison.ai and a 30 Under 30 Asia alum, is targeting America’s overstretched healthcare system.
 
-Newsday • 34m ago
-
----
-
-**[How AWS is helping retailers build their own AI-powered shopping experiences](https://www.aboutamazon.com/news/aws/aws-agentic-shopping-assistant-retailers)**
-
-AWS brings the technology and learnings behind Amazon's successful Alexa for Shopping agentic assistant to retail customers through AWS Agentic Shopping Assistant solution.
-
-About Amazon • 3h ago
-
----
-
-**[Amazon starts selling its AI shopping technology to other retailers](https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html)**
-
-Amazon said it's already signed up Kate Spade as a customer for its AI shopping technology.
-
-CNBC • 7h ago
-
----
-
-**[Amazon is offering its AI shopping tools to retailers](https://finance.yahoo.com/video/amazon-is-offering-its-ai-shopping-tools-to-retailers-193933639.html)**
-
-Market Domination Host Josh Lipton and Yahoo Finance Senior Reporter Brooke DiPalma track several of the day's top trending stories and stock moves, including how Amazon (AMZN) is licensing and selling its "Alexa for Shopping" AI tool to other retailers.
-
-Yahoo Finance • 54m ago
+Forbes • 1h ago
 
 ---
 
@@ -189,7 +177,19 @@ Yahoo Finance • 54m ago
 
 Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have been saying all along that there won’t be a white-collar wipeout.
 
-Fortune • 23h ago
+Fortune • 1d ago
+
+---
+
+**[Scoop: Trump appoints Bondi to White House AI panel](https://www.axios.com/2026/05/27/pam-bondi-white-house-ai)**
+
+Axios • 22h ago
+
+---
+
+**[AI Coding Startup Cognition Raises $1 Billion at $26 Billion Value](https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value)**
+
+Bloomberg.com • 7h ago
 
 ---
 
@@ -201,13 +201,13 @@ Fortune • 23h ago
 
 I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was
 
-⬆️ 1788 • 💬 870 • 9h ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+⬆️ 1814 • 💬 885 • 11h ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 
 ---
 
 **[Using AI to write better code more slowly](https://news.ycombinator.com/item?id=48272984)**
 
-⬆️ 1216 • 💬 445 • 1d ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+⬆️ 1219 • 💬 445 • 1d ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 
 ---
 
@@ -215,7 +215,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 "People just want a choice."
 
-⬆️ 446 • 💬 226 • 4h ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+⬆️ 570 • 💬 289 • 6h ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 ---
 
@@ -223,7 +223,15 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
 
-⬆️ 407 • 💬 192 • 5h ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+⬆️ 488 • 💬 254 • 7h ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+
+---
+
+**[YouTube to automatically label AI-generated videos](https://news.ycombinator.com/item?id=48299753)**
+
+We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
+
+⬆️ 349 • 💬 181 • 2h ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 ---
 
@@ -237,7 +245,7 @@ VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on 
 
 **[Outsourcing plus local AI will soon become more economical vs. frontier labs](https://news.ycombinator.com/item?id=48278610)**
 
-⬆️ 312 • 💬 354 • 1d ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+⬆️ 313 • 💬 355 • 1d ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
 
 ---
 
@@ -245,7 +253,7 @@ VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on 
 
 ﻿There’s no clear connection between AI usage and productivity.
 
-⬆️ 299 • 💬 156 • 1d ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
+⬆️ 302 • 💬 156 • 1d ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
 
 ---
 
@@ -265,95 +273,27 @@ A team of engineers from Japan has completed a successful ground combustion tria
 
 ---
 
-**[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
-
-I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
-
-⬆️ 169 • 💬 111 • 4h ago • [posthog.com](https://posthog.com/blog/training-ai-models)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI Is Coming For Your Job | Millions Aren’t Ready For What’s Next](https://www.youtube.com/watch?v=GiyTw-0QRIM)**
+**[Angry Birds Caught Using AI AGAIN](https://www.youtube.com/watch?v=UK-FGJxqomo)**
 
-Customer Service Is Just The Beginning | AI Could Replace Millions More Popular Video Content: US News: ...
+Rovio is under heavy criticism for using generative AI in another one of their Angry Birds games. It's a special Ocean Rescue ...
 
-📺 Snyder Reports
+📺 Vailskibum
 
-👁️ 5K • 👍 578 • 💬 105 • ⏱️ 10:44 • 5h ago
-
----
-
-**[Pope Leo: AI Can Steal Your Humanity](https://www.youtube.com/watch?v=4_8gHz5-r24)**
-
-Pope Leo has dropped a major encyclical on AI. Michael breaks down what the encyclical is, and what it isn't. Hillsdale - Get your ...
-
-📺 Michael Knowles
-
-👁️ 22K • 👍 1K • 💬 270 • ⏱️ 24:48 • 22h ago
+👁️ 33K • 👍 3K • 💬 876 • ⏱️ 2:43 • 3h ago
 
 ---
 
-**[AI Whistleblower WARNS: You Have NO Idea About The AI Wave That Is Coming](https://www.youtube.com/watch?v=fo2ggNE-44g)**
+**[Meta&#39;s Layoffs Aren&#39;t About AI. They&#39;re About Something Much Bigger.](https://www.youtube.com/watch?v=C8p2iQkQusY)**
 
-Eliezer Yudkowsky, who has spent 30 years on the AI safety problem, makes a firm prediction: if anyone builds a superintelligence ...
+How I Became a Sovereign Professional - The Freelance Formula https://www.brendandell.com/freelance-formula-299
 
-📺 Neural Nutshell
+📺 Brendan Dell 
 
-👁️ 2K • 👍 130 • 💬 17 • ⏱️ 22:04 • 4h ago
-
----
-
-**[Google Just Gave Away the Most Insane Free AI Tools Yet](https://www.youtube.com/watch?v=wj8sGbKhNtU)**
-
-FREE step-by-step guide + bonus skills grab it inside my WhatsApp community: https://links.stayingahead.com/YT34 Google Flow ...
-
-📺 Vaibhav Sisinty
-
-👁️ 66K • 👍 2K • 💬 150 • ⏱️ 27:00 • 1d ago
-
----
-
-**[AI CEOs Get Booed &amp; Humiliated At Graduation Ceremonies, Goes Viral](https://www.youtube.com/watch?v=l795vIhIbLY)**
-
-SOURCES 1: https://youtu.be/XQvDAqEo2IM?si=p95iQ7hlOFlREYFa 2: ...
-
-📺 YongYea
-
-👁️ 144K • 👍 9K • 💬 3K • ⏱️ 21:40 • 1d ago
-
----
-
-**[A.I. Futurist: What Your Life Looks Like In 2028](https://www.youtube.com/watch?v=tBiO8A4tj9I)**
-
-After a full year of being told AI was going to wipe out jobs, the collapse hasn't happened. At least not yet. Unemployment hasn't ...
-
-📺 Mighty Pursuit
-
-👁️ 7K • 👍 213 • 💬 56 • ⏱️ 2:02:32 • 1d ago
-
----
-
-**[Atheists Are SHOCKED by What AI Found Inside This Ancient Scroll!](https://www.youtube.com/watch?v=v1n20I8RrZE)**
-
-For centuries, the burned scroll of Ein Gedi remained silent beneath the ashes of an ancient synagogue near the Dead Sea.
-
-📺 Roar of Grace
-
-👁️ 29K • 👍 490 • 💬 25 • ⏱️ 11:14 • 1d ago
-
----
-
-**[Trump faces BACKLASH after scrapping AI executive Order ](https://www.youtube.com/watch?v=1JcIpIZhdIo)**
-
-President Trump is facing criticism after he scraped plans to sign a long-awaited Executive Order on a proposed safety vetting ...
-
-📺 MS NOW
-
-👁️ 137K • 👍 3K • 💬 581 • ⏱️ 7:31 • 1d ago
+👁️ 12K • 👍 515 • 💬 101 • ⏱️ 13:49 • 9h ago
 
 ---
 
@@ -363,17 +303,77 @@ AI was supposed to make life easier, but what happens when it goes wrong? This v
 
 📺 ThumbSized Facts
 
-👁️ 7K • 👍 1K • 💬 22 • ⏱️ 1:18 • 3h ago
+👁️ 18K • 👍 2K • 💬 63 • ⏱️ 1:18 • 5h ago
 
 ---
 
-**[AI Is More Expensive Than Humans](https://www.youtube.com/watch?v=WuhAaMSXD9A)**
+**[AI Is Coming For Your Job | Millions Aren’t Ready For What’s Next](https://www.youtube.com/watch?v=GiyTw-0QRIM)**
 
-AI's cost problem is no longer theoretical. Uber burned through a full year of AI budget in four months and the reason was not the ...
+Customer Service Is Just The Beginning | AI Could Replace Millions More Popular Video Content: US News: ...
 
-📺 House of El - AI
+📺 Snyder Reports
 
-👁️ 87K • 👍 6K • 💬 1K • ⏱️ 24:08 • 1d ago
+👁️ 6K • 👍 644 • 💬 111 • ⏱️ 10:44 • 7h ago
+
+---
+
+**[AI Whistleblower WARNS: You Have NO Idea About The AI Wave That Is Coming](https://www.youtube.com/watch?v=fo2ggNE-44g)**
+
+Eliezer Yudkowsky, who has spent 30 years on the AI safety problem, makes a firm prediction: if anyone builds a superintelligence ...
+
+📺 Neural Nutshell
+
+👁️ 4K • 👍 210 • 💬 31 • ⏱️ 22:04 • 6h ago
+
+---
+
+**[A.I. Futurist: What Your Life Looks Like In 2028](https://www.youtube.com/watch?v=tBiO8A4tj9I)**
+
+After a full year of being told AI was going to wipe out jobs, the collapse hasn't happened. At least not yet. Unemployment hasn't ...
+
+📺 Mighty Pursuit
+
+👁️ 8K • 👍 227 • 💬 62 • ⏱️ 2:02:32 • 1d ago
+
+---
+
+**[Pope Leo: AI Can Steal Your Humanity](https://www.youtube.com/watch?v=4_8gHz5-r24)**
+
+Pope Leo has dropped a major encyclical on AI. Michael breaks down what the encyclical is, and what it isn't. Hillsdale - Get your ...
+
+📺 Michael Knowles
+
+👁️ 23K • 👍 1K • 💬 280 • ⏱️ 24:48 • 1d ago
+
+---
+
+**[Trump faces BACKLASH after scrapping AI executive Order ](https://www.youtube.com/watch?v=1JcIpIZhdIo)**
+
+President Trump is facing criticism after he scraped plans to sign a long-awaited Executive Order on a proposed safety vetting ...
+
+📺 MS NOW
+
+👁️ 141K • 👍 3K • 💬 586 • ⏱️ 7:31 • 1d ago
+
+---
+
+**[Google Just Gave Away the Most Insane Free AI Tools Yet](https://www.youtube.com/watch?v=wj8sGbKhNtU)**
+
+FREE step-by-step guide + bonus skills grab it inside my WhatsApp community: https://links.stayingahead.com/YT34 Google Flow ...
+
+📺 Vaibhav Sisinty
+
+👁️ 68K • 👍 2K • 💬 151 • ⏱️ 27:00 • 1d ago
+
+---
+
+**[AI CEOs Get Booed &amp; Humiliated At Graduation Ceremonies, Goes Viral](https://www.youtube.com/watch?v=l795vIhIbLY)**
+
+SOURCES 1: https://youtu.be/XQvDAqEo2IM?si=p95iQ7hlOFlREYFa 2: ...
+
+📺 YongYea
+
+👁️ 145K • 👍 9K • 💬 3K • ⏱️ 21:40 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 1,908 • ❤️ 910 • 1d ago
+⬇️ 1,908 • ❤️ 914 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 2,409 • ❤️ 392 • 1d ago
+⬇️ 2,409 • ❤️ 401 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 340 • 1d ago
+⬇️ 0 • ❤️ 341 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 9,144 • ❤️ 410 • 7d ago
+⬇️ 9,144 • ❤️ 413 • 7d ago
 
 ---
 
@@ -435,7 +435,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,598,473 • ❤️ 943 • 1mo ago
+⬇️ 1,598,473 • ❤️ 945 • 1mo ago
 
 ---
 
@@ -447,7 +447,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 103,033 • ❤️ 391 • 6d ago
+⬇️ 103,033 • ❤️ 392 • 6d ago
 
 ---
 
@@ -459,7 +459,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 48,112 • ❤️ 710 • 9d ago
+⬇️ 48,112 • ❤️ 711 • 9d ago
 
 ---
 
@@ -471,19 +471,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,019,884 • ❤️ 4,356 • 21d ago
-
----
-
-**[command-a-plus-05-2026-w4a4](https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4)**
-
-*Cohere Labs*
-
-Command A+ is a 25B parameter, multilingual, vision-capable LLM optimized for agentic and reasoning tasks. It supports a 128K context window and offers a W4A4 quantization for efficient enterprise deployment.
-
-`image-text-to-text` `125.8B`
-
-⬇️ 7,769 • ❤️ 212 • 7h ago
+⬇️ 5,019,884 • ❤️ 4,358 • 21d ago
 
 ---
 
@@ -495,25 +483,25 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 `text-to-video` `9.0B`
 
-⬇️ 1,376,847 • ❤️ 1,397 • 5d ago
+⬇️ 1,376,847 • ❤️ 1,398 • 5d ago
+
+---
+
+**[Qwopus3.6-27B-v2-GGUF](https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF)**
+
+*Jackrong*
+
+Qwopus3.6-27B-v2 is a multimodal, 27B parameter language model fine-tuned on Qwen3.6-27B, excelling at image-to-text generation and complex reasoning tasks by reconstructing structured chain-of-thought reasoning. It supports tool use and long contexts, making it suitable for agentic applications and advanced analysis.
+
+`image-text-to-text` `27.3B`
+
+⬇️ 16,379 • ❤️ 158 • 3d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 82 • 💬 3 • ⭐ 80,035 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
 
 **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
 
@@ -523,9 +511,21 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 180 • 💬 3 • ⭐ 1,148 • 6d ago
+▲ 181 • 💬 3 • ⭐ 1,148 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 82 • 💬 3 • ⭐ 80,164 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -541,20 +541,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction](https://huggingface.co/papers/2605.26115)**
-
-*Weijie Wang, Zimu Li, Jinchuan Shi et al. (8 authors)*
-
-🏢 Zhejiang University
-
-TriSplat is a feed-forward 3D reconstruction network that uses oriented triangle primitives to directly generate simulation-ready meshes from single images, bypassing expensive post-processing steps.
-
-▲ 39 • 💬 2 • ⭐ 159 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.26115) • [💻 code](https://github.com/ziplab/TriSplat) • [🔗 project](https://lhmd.top/trisplat/#interactive)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -565,6 +551,20 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 164 • 💬 2 • ⭐ 65,179 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction](https://huggingface.co/papers/2605.26115)**
+
+*Weijie Wang, Zimu Li, Jinchuan Shi et al. (8 authors)*
+
+🏢 Zhejiang University
+
+TriSplat is a feed-forward 3D reconstruction network that uses oriented triangle primitives to directly generate simulation-ready meshes from single images, bypassing expensive post-processing steps.
+
+▲ 40 • 💬 2 • ⭐ 172 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.26115) • [💻 code](https://github.com/ziplab/TriSplat) • [🔗 project](https://lhmd.top/trisplat/#interactive)
 
 ---
 
@@ -668,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.7k • 🔱 184 • 31m ago
+⭐ 2.7k • 🔱 184 • 1m ago
 
 ---
 
@@ -706,7 +706,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.0k • 🔱 137 • 17m ago
+⭐ 2.1k • 🔱 137 • 41m ago
 
 ---
 
@@ -726,7 +726,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 1.8k • 🔱 186 • 2d ago
+⭐ 1.8k • 🔱 187 • 2d ago
 
 ---
 
@@ -736,7 +736,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 201 • 20h ago
+⭐ 1.8k • 🔱 201 • 22h ago
 
 ---
 
