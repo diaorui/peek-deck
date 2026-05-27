@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-27T08:05:32.330270+00:00'
+updated: '2026-05-27T15:43:56.332180+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 27, 2026 at 08:05 UTC  
+**Last Updated:** May 27, 2026 at 15:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
+
+7h ago
+
+---
+
+**[MIT CSAIL’s Daniela Rus on why robot learning may need more than video data](https://www.reddit.com/r/robotics/comments/1tp71qx/mit_csails_daniela_rus_on_why_robot_learning_may/)**
+
+Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in robot learning: not every robotic task can be learned well from video or teleoperation alone. Her point is that physical tasks often depend on forces, torques, contact, and constraints that are difficult to capture visually. Some tasks can be solved from first principles. Others may require richer data from humans performing the work, including muscle activity, pose, eye gaze, and environmental information. She also mentions into simulation, transformer-based approaches, and why robotics may need models that understand physics more directly.
+
+1h ago
+
+---
+
 **[Spider robot, two legs](https://www.reddit.com/r/robotics/comments/1tov0vf/spider_robot_two_legs/)**
 
-3h ago
+11h ago
 
 ---
 
 **[As China’s humanoid robot boom fades, Unitree reports profit drop.](https://www.reddit.com/r/robotics/comments/1tohvif/as_chinas_humanoid_robot_boom_fades_unitree/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing) • 12h ago
+🔗 [scmp.com](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing) • 20h ago
 
 ---
 
@@ -48,7 +62,15 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2058707244703773003 Website (Kickstarter campaign: Your First Camera Robot) : https://mondorobotics.com/
 
-19h ago
+1d ago
+
+---
+
+**[What's the most underrated robotics skill nobody talks about enough?](https://www.reddit.com/r/robotics/comments/1tp65lh/whats_the_most_underrated_robotics_skill_nobody/)**
+
+Everyone talks about ROS, Python, and machine learning for robotics. But after spending time in this field, I've realized some skills rarely get mentioned: - Mechanical intuition (knowing WHY something fails) - Reading datasheets efficiently - Debugging sensor noise - Writing clean documentation What skill do YOU think is underrated in robotics? Would love to hear from both beginners and professionals.
+
+1h ago
 
 ---
 
@@ -56,13 +78,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2058707244703773003 Webs
 
 Hi, I recently joined a new company and started experimenting with lightweight bidirectional communication between virtual and physical systems. To keep things simple, I built a small mechanical arm setup using three SG90 servos and an ESP32. The virtual control side is already working and I turned it into a small demo project. Right now the system has two modes: continuous data streaming servo synchronization control The main goal is to explore lightweight digital twin workflows, real-time interaction, and physical-virtual synchronization. https://reddit.com/link/1tow5nf/video/tijqxpaham3h1/player
 
-2h ago
-
----
-
-**[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
-
-3m ago
+10h ago
 
 ---
 
@@ -70,37 +86,23 @@ Hi, I recently joined a new company and started experimenting with lightweight b
 
 I used a webcam to track an Xbox controller, smartphone, and mouse, and then used the YOLO library and PyTorch to have the hand perform actions such as opening or closing certain fingers. Using my RTX 3060 12GB, I believe we can take this further by: running multiple sensors in parallel, estimating hand pose, predicting grip types, generating finger commands, and performing segmentation.
 
-10h ago
+17h ago
 
 ---
 
-**[Autonomous underwater robot uses cameras and hydrophones to map coral reef biodiversity hotspots](https://www.reddit.com/r/robotics/comments/1togr6x/autonomous_underwater_robot_uses_cameras_and/)**
+**[Looking for robotics software/hardware researcher cofounders.](https://www.reddit.com/r/robotics/comments/1tozq8i/looking_for_robotics_softwarehardware_researcher/)**
 
-Researchers at Woods Hole Oceanographic Institution developed CUREE, an autonomous underwater vehicle designed to monitor coral reef ecosystems using both visual and acoustic sensing. The robot combines cameras, hydrophones, and onboard computing to identify areas of high biological activity in real time. In field tests in the U.S. Virgin Islands, it repeatedly identified a hotspot near pillar coral where fish density was around 25 times higher than the rest of the reef. The goal is to make reef monitoring more scalable than diver-based surveys alone, especially across larger or less-explored reef systems.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/scientists-utilize-underwater-drones-to-monitor-life-in-coral-reefs) • 13h ago
-
----
-
-**[I built a lightweight ROS 2 observer that turns wheel slip, localization jumps, and telemetry jitter into standard diagnostics](https://www.reddit.com/r/robotics/comments/1toqkim/i_built_a_lightweight_ros_2_observer_that_turns/)**
-
-I released a small ROS 2 runtime observer called runtime_integrity v0.3-alpha. The goal is to turn command-to-physical execution consistency into a standard ROS diagnostic signal. It currently detects / surfaces: wheel slip localization jumps timing or command-stream disturbance missing or stale command/odom streams Example wheel slip diagnostic: message: "ERROR | RESYNCING: WHEEL_SLIP" diagnosticLevelName: "ERROR" status: "RESYNCING" dominantCause: "WHEEL_SLIP" totalResidual: "1.730000" cmdOdomResidual: "1.462117" Example hard localization jump diagnostic: message: "ERROR | RESYNCING: LOCALIZATION_JUMP" dominantCause: "LOCALIZATION_JUMP" totalResidual: "50.757462" localizationJumpMetric: "1.349308" cmdOdomResidual: "42.897885" One interesting detail: localization jumps are harder than wheel slip because EKF / SLAM systems often smooth pose corrections. A hard pose discontinuity can be detected as LOCALIZATION_JUMP, but a smoothed correction may appear as sustained command/odom mismatch instead. Most robot diagnostics answer: Is the node alive? Is the topic publishing? Did a timeout happen? But on mobile robots, I often care about a different question: The stack commanded velocity X. Did the robot physically execute motion consistent with X? runtime_integrity passively observes: /cmd_vel + /odom and publishes to: /diagnostics runtime_integrity/execution_integrity No controller modification. No Nav2 BT modification. No base-driver modification. No command interception. I would love feedback from people working on AMRs, Nav2, SLAM, sensor fusion, and field robotics. Repo: https://github.com/ZC502/runtime_integrity navigation2 Discussion： https://github.com/orgs/ros-navigation/discussions/6156#discussioncomment-17064880 Open Source Robotics Projects： https://discourse.openrobotics.org/t/release-runtime-integrity-v0-3-alpha-turning-command-to-physical-execution-consistency-into-standard-ros-diagnostics/55095?u=zc_liu
+I'm a robotics researcher myself, but I work mostly on the software side of things. I'm looking for someone who is good at software (AI/perception/vision) and someone who is good at mechatronics. I plan to work on drone-based search and monitoring, be it fully autonomous or human-in-the-loop. DM me if you are a researcher working on similar goals.
 
 6h ago
 
 ---
 
-**[Robot servos 3d printed](https://www.reddit.com/r/robotics/comments/1tnwesd/robot_servos_3d_printed/)**
+**[China is deploying the first home cleaning humanoid robot butlers](https://www.reddit.com/r/robotics/comments/1toyzi2/china_is_deploying_the_first_home_cleaning/)**
 
-1d ago
+The SeeLight S1 may be the first commercial humanoid robot that will be deployed at homes to do all chores in the household.
 
----
-
-**[Building a Tiny CAN-Enabled Zone Controller for Mobile Robotics & Automation.](https://www.reddit.com/r/robotics/comments/1tnrdqs/building_a_tiny_canenabled_zone_controller_for/)**
-
-In 2024 I designed a device to use as a localized body control module for a project car. It has a CAN transceiver, a microcontroller, and 2 high-side switches. The goal was to take "dumb" peripherals (lights, solenoids, etc.) and make them controllable via CAN events for automotive, robotics, or industrial projects. I found the device to be pretty useful since (have several of them in my car and use them to control test jigs, robot arms, and other projects in my garage). TLDR they are useful to quickly add CAN to projects. I’m thinking about completely redesigning this from the ground up as an open-source tool for a larger audience (leaning toward launching it on Crowd Supply). I’d really appreciate your feedback on what specs I should focus on: Power: Right now it supports up to 24V. Do mobile robotics or AGV applications realistically need 48V capability nowadays, or is 24V plenty? Also, what's a typical continuous current per channel you'd expect out of something this size? Microcontroller: Currently uses an old ATmega328p. I want to upgrade this to an STM32 or RP2040 (with integrated CAN). Any preferences or code ecosystems you'd rather see native support for? Connectors/Form Factor: Because of the car environment, I used spring terminals for critical connections, plus reverse polarity protection on power and ESD on the CAN lines. Any connector suggestions? Software Stack: Right now it's just programmed via the Arduino IDE. My plan for the new version is to build a simple web-based configuration GUI (similar to an IFTTT style, where a specific CAN ID/message triggers a specific output action). Would this approach be useful, or would you still prefer just flashing your own custom C code? I’ve attached some photos of the 2024 version. Let me know what you think, or if I’m missing anything useful. Thanks!
-
-1d ago
+🔗 [Fast Company](https://www.fastcompany.com/91546673/china-is-deploying-the-first-home-cleaning-humanoid-robot-butlers) • 7h ago
 
 ---
 
@@ -108,11 +110,27 @@ In 2024 I designed a device to use as a localized body control module for a proj
 
 ## Google News: "robotics"
 
+**[This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)**
+
+Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.
+
+TechCrunch • 23h ago
+
+---
+
 **[Delivery robots are spreading across LA. Residents ‘both pity and hate them’](https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots)**
 
 A region known for its lack of walkability now has more obstacles for pedestrians to contend with
 
-The Guardian • 1d ago
+The Guardian • 2d ago
+
+---
+
+**[Robotics, Science Underway as Cosmonauts Prep for Wednesday Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/05/26/robotics-science-underway-as-cosmonauts-prep-for-wednesday-spacewalk/)**
+
+Robotics controllers wrapped up a weekend of swapping scientific hardware packed inside the SpaceX Dragon cargo spacecraft’s trunk for installation on the International Space Station. Meanwhile, the Expedition 74 crew is continuing its biotechnology and botany research while getting ready for a spacewalk scheduled for Wednesday, May 27.
+
+NASA (.gov) • 21h ago
 
 ---
 
@@ -120,7 +138,7 @@ The Guardian • 1d ago
 
 Hugging Face debuts $2,500 bipedal robot project for builders and researchers.
 
-Ars Technica • 14h ago
+Ars Technica • 22h ago
 
 ---
 
@@ -132,25 +150,31 @@ Fox News • 2d ago
 
 ---
 
-**[Need help at home? Israel’s first consumer humanoid robot will cost NIS 150,000](https://www.ynetnews.com/tech-and-digital/article/sygmb3glgx)**
+**[As China’s humanoid-robot hype cools, Unitree sees profit plunge](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing)**
 
-Electra Consumer Products’ Mahsanei Hashmal chain will sell WANDA, a semi-humanoid robot designed to perform household tasks, alongside a robotic emotional-support puppy and an AI-powered exoskeleton for walking and climbing stairs
-
-ynetnews • 3h ago
+South China Morning Post • 1d ago
 
 ---
 
-**[Jury finds Palo Alto robotics teacher was harassed – but not by the district](https://www.paloaltoonline.com/palo-alto-schools/2026/05/26/jury-finds-palo-alto-robotics-teacher-was-harassed-but-not-by-the-district/)**
+**[Metter High School Robotics Team qualifies for world championship in Canada](https://www.griceconnect.com/education/metter-high-school-robotics-team-qualifies-for-world-championship-in-canada-12315034)**
 
-Palo Alto Online • 11h ago
+After a strong performance at the regional level, Metter High School's Tiger Shark Tech robotics team is set to represent their school and community on a global scale at the MATE ROV World Championship in St. John’s, Newfoundland, Canada this summer.
+
+Grice Connect • 18h ago
 
 ---
 
-**[Robotics, Science Underway as Cosmonauts Prep for Wednesday Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/05/26/robotics-science-underway-as-cosmonauts-prep-for-wednesday-spacewalk/)**
+**[Elbit acquires Bluewhite as it deepens push into AI robotics](https://www.calcalistech.com/ctechnews/article/hy9w5znlfl)**
 
-Robotics controllers wrapped up a weekend of swapping scientific hardware packed inside the SpaceX Dragon cargo spacecraft’s trunk for installation on the International Space Station. Meanwhile, the Expedition 74 crew is continuing its biotechnology and botany research while getting ready for a spacewalk scheduled for Wednesday, May 27.
+Deal adds AI-powered ground autonomy platform with 100,000 hours of operational use, strengthening Elbit’s efforts to integrate unmanned systems across air and land domains.
 
-NASA (.gov) • 13h ago
+CTech • 8h ago
+
+---
+
+**[SoftBank hires banks for US IPOs of SB Energy and AI robotics spinoff Roze, sources say](https://www.reuters.com/world/softbank-hires-banks-us-ipos-sb-energy-ai-robotics-spinoff-roze-sources-say-2026-05-26/)**
+
+Reuters • 20h ago
 
 ---
 
@@ -158,29 +182,7 @@ NASA (.gov) • 13h ago
 
 A startup that developed a robot capable of putting human restaurant workers out of a job and partnered with Domino's, has shut down.
 
-Futurism • 14h ago
-
----
-
-**[Amazon celebrates opening of Virginia Beach robotics facility](https://www.pilotonline.com/2026/05/24/amazon-robotics-facility-virginia-beach/)**
-
-It’s Amazon’s third robotics fulfillment center in Virginia.
-
-The Virginian-Pilot • 2d ago
-
----
-
-**[Amazon robotic facilities could quadruple tech giant’s Middletown footprint](https://spotlightdelaware.org/2026/05/26/amazon-robotic-facilities-could-quadruple-the-tech-giants-footprint-in-middletown/)**
-
-Spotlight Delaware • 22h ago
-
----
-
-**[Rocket Lab Adds Mars-Proven Robotics Capabilities with Completion of Motiv Space Systems Acquisition](https://www.globenewswire.com/news-release/2026/05/26/3301487/0/en/rocket-lab-adds-mars-proven-robotics-capabilities-with-completion-of-motiv-space-systems-acquisition.html)**
-
-Rocket Lab has acquired Motiv Space Systems, adding Mars heritage for complex planetary missions, plus precision mechanisms for space infrastructure....
-
-GlobeNewswire • 11h ago
+Futurism • 22h ago
 
 ---
 
@@ -198,13 +200,13 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 ---
 
-**[Nexi AiBot V2.0 by HD Robotics is Ready just need a new Design . read Description](https://www.youtube.com/watch?v=GTDt0VFqXFc)**
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
 
-Nexi is almost complete After a long time of building, programming, testing, and improving, my AI robot project is finally ...
+Subscribe to ESPN Unlimited: https://plus.espn.com/ #ESPN.
 
-📺 HD Robotics
+📺 ESPN
 
-👁️ 650 • 👍 1 • ⏱️ 0:38 • 14h ago
+👁️ 212K • 👍 4K • 💬 433 • ⏱️ 4:57 • 1d ago
 
 ---
 
@@ -214,17 +216,17 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 79K • 👍 933 • 💬 349 • ⏱️ 5:15 • 4d ago
+👁️ 81K • 👍 960 • 💬 360 • ⏱️ 5:15 • 4d ago
 
 ---
 
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
+**[4 Robotics Stocks You’ll Wish You Bought Sooner](https://www.youtube.com/watch?v=d0u5qHE8A8M)**
 
-Subscribe to ESPN Unlimited: https://plus.espn.com/ #ESPN.
+Get the FREE Report on the Top 5 Robotics Stocks today: https://www.marketbeat.com/y/robotics3 Physical AI is the term taking ...
 
-📺 ESPN
+📺 MarketBeat
 
-👁️ 192K • 👍 4K • 💬 398 • ⏱️ 4:57 • 1d ago
+👁️ 65K • 👍 2K • 💬 67 • ⏱️ 23:57 • 2d ago
 
 ---
 
@@ -234,7 +236,7 @@ War Robots News Vlog REBALANCE 12.2 ruins everything again - WR My War Robots Cr
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 863 • 💬 349 • ⏱️ 37:56 • 19h ago
+👁️ 14K • 👍 939 • 💬 393 • ⏱️ 37:56 • 1d ago
 
 ---
 
@@ -244,27 +246,7 @@ Scientists gave people a robotic sixth finger. After 5 days, their brains perman
 
 📺 AzlanX
 
-👁️ 543K • 💬 56 • ⏱️ 0:31 • 1d ago
-
----
-
-**[NEW Shoggoth BREAKS The Live Server… Massive Titan Slaying Firepower +200% Damage | War Robots](https://www.youtube.com/watch?v=KkMiHouuRI0)**
-
-New Shoggoth robot is here with the new update and event. This robot does have a unique ability but i dont think anyone ...
-
-📺 PREDATOR WR
-
-👁️ 12K • 👍 496 • 💬 94 • ⏱️ 14:24 • 15h ago
-
----
-
-**[SPIDER-MAN ROBOT! This Logistics Bot Climbs 12-Meter Shelves Directly 🤖](https://www.youtube.com/watch?v=sz6hEdNSoTc)**
-
-Inside a high-density, automated smart fulfillment fulfillment center, a groundbreaking category of logistics robotics showcases its ...
-
-📺 Peace Working Shorts
-
-👁️ 671K • 👍 2K • 💬 15 • ⏱️ 0:06 • 1d ago
+👁️ 558K • 💬 60 • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -274,17 +256,37 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 77K • 👍 3K • 💬 194 • ⏱️ 1:55 • 20h ago
+👁️ 89K • 👍 3K • 💬 203 • ⏱️ 1:55 • 1d ago
 
 ---
 
-**[JUST LIKE A HUMAN! Watch This Humanoid Robot Stand Up From Its Box 🤖](https://www.youtube.com/watch?v=iBgxKU3bi7w)**
+**[How Military Tunnel Robots and Combat Drones Work 🤖⚔️..!!#e2dhealth #animation #2dshow #health](https://www.youtube.com/watch?v=1LXk7GwSkwM)**
 
-Inside a futuristic, brightly lit robotics research facility, a cutting-edge humanoid robot executes a highly coordinated autonomous ...
+In this E2DTech animation, advanced combat robots are deployed onto the battlefield, demonstrating how unmanned military ...
 
-📺 Peace Working Shorts
+📺 E2DHealth 
 
-👁️ 26K • 👍 135 • 💬 4 • ⏱️ 0:06 • 1d ago
+👁️ 5K • 💬 3 • ⏱️ 0:43 • 1d ago
+
+---
+
+**[8 Robotic Transformation Machines Tested in 63 Seconds ⚙️ #shorts](https://www.youtube.com/watch?v=YfPxolAz3V8)**
+
+Prototype concept demo: eight robot transformation machines tested hair, hairline, braids, and tattoo tech back-to-back.
+
+📺 Prototype Leaked
+
+👁️ 734K • 👍 13K • 💬 377 • ⏱️ 1:04 • 6d ago
+
+---
+
+**[NEW Shoggoth BREAKS The Live Server… Massive Titan Slaying Firepower +200% Damage | War Robots](https://www.youtube.com/watch?v=KkMiHouuRI0)**
+
+New Shoggoth robot is here with the new update and event. This robot does have a unique ability but i dont think anyone ...
+
+📺 PREDATOR WR
+
+👁️ 16K • 👍 572 • 💬 106 • ⏱️ 14:24 • 22h ago
 
 ---
 
