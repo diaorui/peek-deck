@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-28T21:31:43.109146+00:00'
+updated: '2026-05-28T23:18:05.613426+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 28, 2026 at 21:31 UTC  
+**Last Updated:** May 28, 2026 at 23:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,014.25
+### $2,008.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.2%  
-**30d:** -10.4%  
-**90d:** +2.9%  
-**1y:** -23.2%  
+**24h:** -0.8%  
+**7d:** -2.8%  
+**30d:** -10.9%  
+**90d:** +2.3%  
+**1y:** -23.7%  
 
 ---
 
@@ -68,25 +68,41 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion May 28, 2026](https://www.reddit.com/r/ethereum/comments/1tptoer/daily_general_discussion_may_28_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-16h ago
-
----
-
 **[i built revert.wtf because ethereum errors are still cursed](https://www.reddit.com/r/ethereum/comments/1tqf5sk/i_built_revertwtf_because_ethereum_errors_are/)**
 
 gmgm. already shared with the r/ethdev community. but this was something that i made for "normies" like myself. so i think it deserves a post here as well. you all know the pain, RPC errors, tx reverts and etherscan not showing why, extremely vague explanations from the stuff we use daily for something that actually has a better explanation. first, i thought of just whining about this on twitter. instead, i decided to take the matter to hands, and started building the thing. the fact is, almost all the errors are actually catalogued, not all of them, there are still some execution context reliant errors which tenderly is way better at explaining. but have you ever tried using tenderly and tried to make sense of that tx graph? it's a puzzle. and a pleb like myself does not need that puzzle, probably neither you. eventually, i asked codex to build the thing as a small product. and in a few days, we generated a catalog of about 25k errors and error codes with their explanations and possible actions to take if it happens. now it lives on https://revert.wtf. and it is also entirely open source on github https://github.com/mrtdlgc/revertwtf with its npm packages, agent skills, mcp servers and what not. i am hosting the thing myself, the api is also available, it's pretty permissive in terms of rate limits. feel free to use it, spread the word if you think it's useful, contribute to the repo if you think it should cover more platforms/protocols.
 
-1h ago
+2h ago
+
+---
+
+**[Daily General Discussion May 28, 2026](https://www.reddit.com/r/ethereum/comments/1tptoer/daily_general_discussion_may_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+18h ago
+
+---
+
+**[Ethereum Facing Security Issue From Too Much Staked ETH](https://www.reddit.com/r/ethereum/comments/1tqjdgs/ethereum_facing_security_issue_from_too_much/)**
+
+In this thread posted by the Everstake team they raise the point that "Past a certain staking ratio, more ETH being staked does not actually make the network more secure. But it keeps increasing gross issuance. And if a small number of large providers end up dominating the validator set, the slashing mechanism that enforces Ethereum's security becomes effectively unusable. A provider controlling enough stake becomes too big to slash without causing systemic damage to the whole network." Further posts in the thread say three camps have formed with differing opinions on this staking related issue, without being able to come to a consensus on a fix. Thoughts? https://preview.redd.it/2u02fc0hky3h1.png?width=1113&format=png&auto=webp&s=a448979c219e1967659e4b88fe37ec226ce5b7ce
+
+22m ago
 
 ---
 
 **[Support Ethereum core development by trying to win your share of $1M](https://www.reddit.com/r/ethereum/comments/1tqc2bk/support_ethereum_core_development_by_trying_to/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 4h ago
+
+---
+
+**[I need help from someone who knows about crypto.](https://www.reddit.com/r/ethereum/comments/1tpn5uk/i_need_help_from_someone_who_knows_about_crypto/)**
+
+\&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
+
+23h ago
 
 ---
 
@@ -95,14 +111,6 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[I need help from someone who knows about crypto.](https://www.reddit.com/r/ethereum/comments/1tpn5uk/i_need_help_from_someone_who_knows_about_crypto/)**
-
-\&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
-
-21h ago
 
 ---
 
@@ -118,7 +126,7 @@ I put a decent amount into a DeFi project six months ago. This morning I went to
 
 Hear me out before attacking. Google had Eric Schmidt brought in to take it from a commercial search engine to a tech titan. There are skills required for founding a great technology which Vitalik has done a great job and there business skills required to make Ethereum a sustainable and neutral financial beast. I believe project is lacking the latter. Before you go off decentralization dogma, let's be serious, that phase of crypto is over. People want results, revenue and leadership that understands global capital flows & products. Ethereum is desperately lacking proven business leadership.
 
-6h ago
+8h ago
 
 ---
 
@@ -134,21 +142,21 @@ Serious question, wtf is going on. First this guy Dan was talking about how its 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/f43ACiLIWq0) • 1d ago
-
----
-
-**[Daily General Discussion May 26, 2026](https://www.reddit.com/r/ethereum/comments/1tnwutq/daily_general_discussion_may_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
+🔗 [youtu.be](https://youtu.be/f43ACiLIWq0) • 2d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
+
+**[Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)**
+
+In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
+
+CoinDesk • 4h ago
+
+---
 
 **[Ethereum Traders Grow Increasingly Bearish as ETFs Bleed, ETH Sinks Near $2,000](https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000)**
 
@@ -158,19 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana](https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation/)**
+**[Standard Chartered resets Ethereum prediction for the rest of 2026](https://finance.yahoo.com/markets/crypto/articles/standard-chartered-resets-ethereum-prediction-225701212.html)**
 
-Bitcoin & Ethereum ETF outflows hit nearly $2.7 billion over two weeks as HYPE, XRP & Solana funds attract selective institutional inflows.
+Even as Ethereum's (ETH) price sank below $2,000 this week for the first time since late March, the derivatives market was getting busier and not in the direction most people expected. Ether futures open interest climbed to a record 16.39 million ETH, equivalent to roughly $32.5 billion, on May 28, ...
 
-CryptoSlate • 3d ago
-
----
-
-**[Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)**
-
-In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
-
-CoinDesk • 2h ago
+Yahoo Finance • 21m ago
 
 ---
 
@@ -178,21 +178,13 @@ CoinDesk • 2h ago
 
 Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
 
-The Block • 9h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Tumble Amid Report Of Fresh US Strikes On Iran: Analyst Flags 'Structurally Fragile Setup' Developing For BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-tumble-021732460.html)**
-
-Leading cryptocurrencies fell sharply on Wednesday, while stocks rallied to record highs with no breakthrough in sight for a U.S.-Iran deal. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.03%$74,176.96Ethereum (CRYPTO: ETH) -2.65%$2,017.29XRP (CRYPTO: XRP) -2.03%$1.30Solana (CRYPTO: SOL) -1.83%$82.27Dogecoin (CRYPTO: DOGE) -1.39%$0.1000 Crypto Market Slides Bitcoin tumbled, coming close to sinking below $74,000, while Ethereum battled bears to defend the
-
-Yahoo Finance • 19h ago
+The Block • 10h ago
 
 ---
 
 **[Can ethereum reclaim 2021 highs versus bitcoin?](https://www.investing.com/news/cryptocurrency-news/can-ethereum-reclaim-2021-highs-versus-bitcoin-4714837)**
 
-Investing.com • 6h ago
+Investing.com • 8h ago
 
 ---
 
@@ -214,15 +206,21 @@ PR Newswire • 2d ago
 
 **[Ethereum Price Falls Below $2,000 as Tom Lee’s ‘Supercycle’ Call Faces Scrutiny](https://www.ccn.com/news/crypto/ethereum-price-falls-below-2000-tom-lee-supercycle/)**
 
-CCN.com • 9h ago
+CCN.com • 11h ago
 
 ---
 
-**[Current price of Ethereum for May 28, 2026](https://fortune.com/article/price-of-ethereum-05-28-2026/)**
+**[Virtuals Protocol co-hosts first ERC-8183 builder session with Ethereum Foundation to standardize AI agent commerce](https://cryptobriefing.com/erc-8183-virtuals-protocol-ethereum-ai-agent-commerce/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Virtuals Protocol and the Ethereum Foundation introduce ERC-8183, a new standard for AI agent commerce with escrowed payments and evaluator attestation.
 
-Fortune • 8h ago
+Crypto Briefing • 7h ago
+
+---
+
+**[Bit Digital Purchases $20 Million of Ethereum, Deepening Its Strategic Asset Position](https://www.morningstar.com/news/pr-newswire/20260528cn69906/bit-digital-purchases-20-million-of-ethereum-deepening-its-strategic-asset-position)**
+
+Morningstar • 10h ago
 
 ---
 
@@ -236,7 +234,7 @@ Ethereum's midlife crisis hits the podcast as Max Resnick & David Hoffman unpack
 
 📺 Unchained
 
-👁️ 787 • 👍 42 • 💬 20 • ⏱️ 1:05:13 • 5h ago
+👁️ 787 • 👍 42 • 💬 20 • ⏱️ 1:05:13 • 7h ago
 
 ---
 
@@ -246,7 +244,7 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 257 • 👍 26 • 💬 203 • ⏱️ 3:56 • 8h ago
+👁️ 257 • 👍 26 • 💬 203 • ⏱️ 3:56 • 10h ago
 
 ---
 
@@ -274,7 +272,7 @@ Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerat
 
 📺 Kamilah Stevenson
 
-👁️ 317 • 👍 38 • 💬 5 • ⏱️ 0:39 • 27m ago
+👁️ 317 • 👍 38 • 💬 5 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -284,7 +282,7 @@ BITCOIN & ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 359 • 💬 233 • ⏱️ 22:34 • 17h ago
+👁️ 10K • 👍 359 • 💬 233 • ⏱️ 22:34 • 19h ago
 
 ---
 
@@ -324,7 +322,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 217 • 💬 69 • ⏱️ 0:32 • 19h ago
+👁️ 9K • 👍 217 • 💬 69 • ⏱️ 0:32 • 21h ago
 
 ---
 

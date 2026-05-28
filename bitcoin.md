@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-28T21:31:43.103086+00:00'
+updated: '2026-05-28T23:18:05.607367+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 28, 2026 at 21:31 UTC  
+**Last Updated:** May 28, 2026 at 23:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,713.56
+### $73,578.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -2.4%  
-**30d:** -2.7%  
-**90d:** +10.2%  
-**1y:** -30.2%  
+**24h:** -1.3%  
+**7d:** -2.6%  
+**30d:** -2.9%  
+**90d:** +9.9%  
+**1y:** -30.4%  
 
 ---
 
@@ -81,15 +81,15 @@ Rank #1
 
 Started in 2023. Bought ASICs thinking I'd build a side income for my family. Ended up with 9 ASICs and 3 GPU rigs running in my basement. Sounded like a beehive down there. Eventually moved to immersion cooling just to keep the peace at home. Something happened while i was trying to make the operation profitable. I started learning what Bitcoin actually is. Not the price. The blockchain. The supply cap. Why it exists. I was already feeling the weight of the fiat system in my own life. Bitcoin started making sense in a way it never had when I was just holding it on an exchange. Mining killed my price anxiety. When you understand how blocks get produced, how difficulty adjusts, the number on the screen stops feeling like a verdict. Its just where the market is today. We shut down in late 2025. Electricity made it unprofitable. Felt like relief and loss at the same time. That operation brought me most of the Bitcoin I own. I'll get back into it someday. Anyone else come through mining? Curious how many people's conviction got built the same way.
 
-8h ago
+10h ago
 
 ---
 
-**[this is why i don’t trust banks anymore](https://www.reddit.com/r/Bitcoin/comments/1tpvtav/this_is_why_i_dont_trust_banks_anymore/)**
+**[Anonymous Plaintiff Seeks Legal Title To $293 Billion In Dormant Bitcoin, Without Holding Any Private Keys](https://www.reddit.com/r/Bitcoin/comments/1tqgtc9/anonymous_plaintiff_seeks_legal_title_to_293/)**
 
-bank pulled $1200 out of my account by mistake. same second, account goes negative, they slap me with $70 in overdraft interest. called them. “oh sorry, our bad.” got the $1200 back. the $70? still waiting. been weeks. their mistake. my money. and somehow i’m the one out 70 bucks. this is why i’m stacking sats.
+A pseudonymous claimant, “Noah Doe,” alongside two Wyoming LLCs, has filed a lawsuit in New York Supreme Court seeking recognition as the rightful owner of 39,069 dormant Bitcoin addresses containing roughly 3.8 million BTC—valued at about $293 billion.
 
-14h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin) • 2h ago
 
 ---
 
@@ -97,7 +97,15 @@ bank pulled $1200 out of my account by mistake. same second, account goes negati
 
 Most Bitcoin discussions start from the assumption that fiat currencies are fundamentally broken. But let us stop and steelman fiat, for once. A well-functioning fiat system has real advantages. Centralized monetary systems are more resource-efficient, easier to coordinate, and can respond quickly during crises. In theory, they can provide stable purchasing power, fast payments, financial stability, and predictable rules without needing a decentralized alternative. The problem seems less about the design itself and more about sustaining discipline over long periods of time. Monetary systems are run by people and institutions under political and economic pressure. Historically, debasement, monetary expansion, and rule changes tend to appear repeatedly during periods of stress. Bitcoin seems to start from a different assumption. Fiat assumes long-term discipline from people in power. Bitcoin assumes that discipline eventually fails. Do you think that is a fair steelman of both systems, or is there an important advantage or weakness on either side that this framing misses?
 
-🔗 [Myntad](https://www.myntad.com/bullish-case-for-fiat/) • 7h ago
+🔗 [Myntad](https://www.myntad.com/bullish-case-for-fiat/) • 9h ago
+
+---
+
+**[this is why i don’t trust banks anymore](https://www.reddit.com/r/Bitcoin/comments/1tpvtav/this_is_why_i_dont_trust_banks_anymore/)**
+
+bank pulled $1200 out of my account by mistake. same second, account goes negative, they slap me with $70 in overdraft interest. called them. “oh sorry, our bad.” got the $1200 back. the $70? still waiting. been weeks. their mistake. my money. and somehow i’m the one out 70 bucks. this is why i’m stacking sats.
+
+16h ago
 
 ---
 
@@ -105,7 +113,7 @@ Most Bitcoin discussions start from the assumption that fiat currencies are fund
 
 Kraken launched Bitcoin Vault, offering up to 2.5% annual BTC yield through integrated DeFi lending.
 
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/kraken-bitcoin-vault-yield) • 9h ago
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/kraken-bitcoin-vault-yield) • 11h ago
 
 ---
 
@@ -113,7 +121,7 @@ Kraken launched Bitcoin Vault, offering up to 2.5% annual BTC yield through inte
 
 Why are banks broke? This is why: Fractional reserve banking. If everyone walks into the bank on the same day to demand their cash back, the bank physically will not have enough money on hand to pay everyone.
 
-21h ago
+23h ago
 
 ---
 
@@ -121,7 +129,23 @@ Why are banks broke? This is why: Fractional reserve banking. If everyone walks 
 
 Your seed phrase is your wallet. Wallet software, hardware device, list of addresses, transaction history: all derivable from the seed. Lose the words, lose every key, lose every bitcoin those keys ever controlled. Three threats sit on every Bitcoin backup: theft, loss, coercion. The hard part is that defending one often weakens defense against the others. Keep the seed at home (no third-party loss) and you make theft easier. Use a passphrase to protect against theft and you can forget it and lose everything. Distribute shares to family to defend against coercion of any one person and any family member becomes a coercion target. Paper is the floor. Pencil on acid-free paper, multiple copies in separated locations; fine for amounts under five figures. Metal is the standard for serious wallets; stainless or titanium, survives fire, water, and decades. Passphrase adds a "25th word" that produces an entirely different wallet from the same seed. The seed alone leads to a wallet with no funds (theft defense); fund the no-passphrase wallet with a small believable amount and it becomes a decoy (plausible deniability under coercion). Shamir Secret Sharing splits the seed into M-of-N shares; any M reconstructs, any (M-1) reveals nothing. Multisig moves you past single-key entirely; 2-of-3 with three different vendors means loss or theft of any one key still leaves your bitcoin safe. There is no single best Bitcoin backup. There is the backup that fits your threats and amounts. Our newest addition to the rabbit-hole series walks the menu, with photos of real hardware (steel tubes, stamped plates, SLIP-39 share cards, multisig HW lineups), a embedded animation showing how 2-of-3 multisig actually works, and the tradeoffs at each tier. Down the rabbit hole: https://www.learnbitcoin.com/rabbit-hole/seed-backup-strategies Open source. Bitcoin only. No bullshit. Have fun.
 
-8h ago
+10h ago
+
+---
+
+**[Using Bitcoin in Canada without Capital Gains](https://www.reddit.com/r/Bitcoin/comments/1tqj5fb/using_bitcoin_in_canada_without_capital_gains/)**
+
+Good afternoon everyone, I have an interesting question that I have been wrestling with over and over. How do I use Bitcoin in Canada without running into issues with Capital Gains taking a portion of my earnings. My struggle is that according to the capital gains laws, an purchase of goods or services with an asset that has appreciated is taxable. So technically you can buy bitcoin tax free through an exchange but as soon as you use it on anything in Canada you "should" be taxed. If you have any information or tips or stories please comment below, because I am super curious how people make it work.
+
+31m ago
+
+---
+
+**[Not a crypto trader, but looking for advice...](https://www.reddit.com/r/Bitcoin/comments/1tqhznu/not_a_crypto_trader_but_looking_for_advice/)**
+
+​ Basically I have some side money I won betting on sports/casino games, and I need to throw it into something so I don't go back to the casino give it all back to them.... (By the way, if you think you can beat the house over the long term, it is only possible if you fully detach yourself from gambling long enough so the addictive feelings of winning go away). So right now I am looking to throw my gambling money into some short term investment. Probably 4 months to a year tops. I noticed Bitcoin is down, how likely is it to go back up to 100k within a few months?... or up at all? Am I better off throwing my money into something else?
+
+1h ago
 
 ---
 
@@ -129,31 +153,7 @@ Your seed phrase is your wallet. Wallet software, hardware device, list of addre
 
 Most of us have been in this situation: you want to share a Bitcoin address on your website, your Nostr profile, or your email signature — but you know that a static address is a privacy nightmare. Anyone can see every payment you've ever received. Silent Payments solve this elegantly. One static address (sp1q...), every payment lands on a different on-chain address, completely unlinkable. No centralized servers, no notification transactions, no coordination with the sender. Just cryptography. I wrote a full technical breakdown covering how the ECDH derivation works, current wallet support (Cake Wallet, Dana, BlindBit, Sparrow), the scanning tradeoff, and how it compares to BIP47/PayNym. https://davidebtc186.substack.com/p/silent-payments-bip352-the-complete
 
-14h ago
-
----
-
-**[THEY CALL IT “LUCK”](https://www.reddit.com/r/Bitcoin/comments/1tpiqgh/they_call_it_luck/)**
-
-They only see the finish line. They never see the nights full of doubt, the crashes, the fear, the pressure, the losses, the waiting, the discipline. They don’t see the blood on the climb. They don’t feel the weight of every step through the bear market, the FUD, and the chaos. So when someone finally makes it… the crowd says: “He got lucky.” No. He just refused to stop climbing. The market rewards conviction long before it rewards results. 🚀
-
-1d ago
-
----
-
-**[Our lightning L402 has 1,185 services. Most developers building Lightning apps have no idea they exist or how to find the reliable ones.](https://www.reddit.com/r/Bitcoin/comments/1tq4vx3/our_lightning_l402_has_1185_services_most/)**
-
-L402 is the protocol that lets an HTTP server require a Lightning payment before returning data. An app sends a request, gets back a 402 with a Lightning invoice, pays it, retries, gets the data. No accounts, no subscriptions, no OAuth. Just a payment and a response. The problem is there's no good way to find these services or know which ones actually work. We've been building a cross-protocol index that covers L402, x402 (USDC on Base), and MPP. Currently 1,185 L402 services in the index. Financial data feeds, AI inference, real-time data, developer utilities. Most pay per call in the $0.001 to $0.05 range. What we found after testing all of them: quality varies wildly. A lot of services accept the Lightning payment and return nothing, or return stale data, or are just down. We grade all of them A through F based on weekly canary testing. Current L402 breakdown: 2 grade A services, a handful of B, most are C or D. The ecosystem is real and growing but reliability is the gap. If you're building Lightning-enabled apps and want to add paid data feeds or services, the index is free to search. If you're running an L402 service and want to see your grade, it's at the same place. api.ideafactorylab.org/leaderboard - filter by L402 protocol. Happy to answer questions about the L402 payment flow if anyone is working through it.
-
-7h ago
-
----
-
-**[Built p2psats — alerts for NIP-69 P2P trade orders across Nostr](https://www.reddit.com/r/Bitcoin/comments/1tqa99f/built_p2psats_alerts_for_nip69_p2p_trade_orders/)**
-
-The P2P bitcoin market today is fragmented across siloed platforms. Robosats users only see Robosats offers. lnp2pbot users only see lnp2pbot offers. Mostro the same. That fragmentation costs both sides real money: you need fiat in a hurry, post a sell order at a discount on your platform of choice, and hear crickets, even though there are probably users on another platform, or just lurkers, who would have taken it in a heartbeat if they'd known it existed. Multiply that across every fiat currency and every payment method and it's a lot of trades that simply never happen. p2psats (https://p2psats.app) is an attempt to fix that with two pieces: an aggregated, NIP-69-based order book that pulls offers from across platforms, and an alerts system so you don't have to babysit it. Under the hood it: - Subscribes to NIP-69 (`kind:38383`) order events across the main P2P relays and builds a fiat-currency-aggregated order book. - Lets you define alerts: "notify me when there's a sell order in EUR under +3% premium for ≥ 100k sats" (or whatever combination of side / fiat / amount / premium you care about) - Pings you the moment a matching order hits a relay, via email or Nostr DM (NIP-17 gift-wrap, so the DM itself is private) It's platform-agnostic by design: NIP-69 is an open event spec, so any P2P platform publishing those events is covered: robosats, lnp2pbot, Mostro, Peach whatever comes next. No custody, no order routing, no fees, no account beyond an email or an npub. It just watches relays and tells you when something interesting shows up. You still go execute the trade in your usual client. A few design choices worth calling out: - DMs use NIP-17, not legacy NIP-04 - Auth is either a magic link or a NIP-07 sign-in. Your choice, no passwords - No global order book, I feel it's more useful to have fiat-scoped views Still rough around the edges and I'd love any feedback you might have. Happy to answer questions about the stack or NIP-69 parsing quirks if anyone's curious about building on top of the event model. PS: I know the fiat currency list is incomplete, the next release will fix that.
-
-4h ago
+15h ago
 
 ---
 
@@ -163,51 +163,25 @@ The P2P bitcoin market today is fragmented across siloed platforms. Robosats use
 
 **[The Bitcoin Lost-and-Found](https://www.bloomberg.com/opinion/newsletters/2026-05-28/the-bitcoin-lost-and-found)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin falls below $73,000 as BlackRock's BTC ETF sees second-largest outflows since debut](https://www.theblock.co/post/402816/bitcoin-falls-below-73000)**
+**[Is the ‘debasement trade’ dead? Outflows from gold and bitcoin ETFs suggest investors are moving on.](https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5)**
 
-Spot BTC ETFs saw their largest outflows on Wednesday since late January, with IBIT posting its second-biggest daily net outflow on record.
-
-The Block • 15h ago
+MarketWatch • 14h ago
 
 ---
 
-**[IBIT news: BlackRock bitcoin ETF sheds $528 million, the second-largest daily outflow on record](https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record)**
+**[Bitcoin (BTC) Falls to Five-Week Low Amid Iran War Jitters, ETF Outflows](https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows)**
 
-IBIT recorded its second-biggest single-day net outflow since launch on Wednesday, missing a January record by less than half a million dollars, as the Iran-driven sell-off pulled institutional money out of bitcoin.
-
-CoinDesk • 15h ago
-
----
-
-**[$1.29 billion of BlackRock's bitcoin ETF sold in dark pool trade](https://finance.yahoo.com/video/1-29-billion-blackrocks-bitcoin-162000752.html)**
-
-Scott Melker discusses the $1.29 billion dark pool trade on BlackRock's iShares Bitcoin Trust ETF (IBIT) amid outflows. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Slumps, But Strategy Isn't Buying. Here's Why.](https://www.investors.com/news/bitcoin-price-slumps-strategy-buying-power-strc-mstr-stock/)**
-
-Investor's Business Daily • 1h ago
-
----
-
-**[How Much Bitcoin Do You Need To Become A Millionaire By 2030?](https://finance.yahoo.com/markets/crypto/articles/much-bitcoin-become-millionaire-2030-203524084.html)**
-
-A million-dollar portfolio by 2030 is a dream of every crypto investor. For a growing number of investors, Bitcoin (CRYPTO: BTC) is the asset they are betting on to hit a million bucks. The idea is simple and easy to follow. Own enough BTC before the next major price surge and the math works in ... How Much Bitcoin Do You Need To Become A Millionaire By 2030?
-
-Yahoo Finance • 56m ago
+Bloomberg.com • 12h ago
 
 ---
 
 **[Digital Ghosts Raise Questions Over Who Owns Dormant Bitcoin](https://www.bloomberg.com/news/newsletters/2026-05-28/digital-ghosts-raise-questions-over-who-owns-dormant-bitcoin)**
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -219,17 +193,39 @@ WKYT • 2d ago
 
 ---
 
-**[Is the ‘debasement trade’ dead? Outflows from gold and bitcoin ETFs suggest investors are moving on.](https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5)**
+**[The Bitcoin-Miners-Turned-AI-Neocloud Plays Might Still Be an Underappreciated Trade in AI](https://finance.yahoo.com/markets/stocks/articles/bitcoin-miners-turned-ai-neocloud-121435305.html)**
 
-MarketWatch • 12h ago
+The AI trade is heating up just in time for summer, and as we enter the month of June, the SpaceX IPO could crank up the heat several notches as a flood of investors finally get a chance to own a piece of Elon Musk’s space and AI empire. Who knows? It’s speculated that Tesla ... The Bitcoin-Miners-Turned-AI-Neocloud Plays Might Still Be an Underappreciated Trade in AI
+
+Yahoo Finance • 11h ago
 
 ---
 
-**[Amid a scam crackdown, crypto giants keep fueling bitcoin ATMs - International Consortium of Investigative Journalists](https://www.icij.org/investigations/coin-laundry/amid-a-scam-crackdown-crypto-giants-keep-fueling-bitcoin-atms/)**
+**[Bitcoin miner-to-AI boom sends stocks soaring as Cipher and Hut 8 hit fresh highs](https://www.theblock.co/post/402773/bitcoin-miner-ai-boom-stocks-soaring-cipher-hut-8-fresh-highs)**
 
-As governments seek to ban the machines, bitcoin ATMs remain entwined with cryptocurrency industry's most mainstream players.
+IREN climbed within 10% of a fresh all-time high after unveiling another major AI infrastructure expansion tied to Dell.
 
-International Consortium of Investigative Journalists - ICIJ • 1d ago
+The Block • 1d ago
+
+---
+
+**[Michael Saylor Has Kept Bitcoin Afloat. What Happens Now as Strategy Prepares to Sell?](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-kept-bitcoin-afloat-140135872.html)**
+
+Bitcoin (CRYPTO:BTC) investors have spent the better part of the last five years believing institutional adoption would create a permanent floor under crypto prices. Exchange-traded funds arrived, Wall Street banks softened their tone, and public companies began adding Bitcoin to their balance sheets. Yet surprisingly, one company mattered more than all of them combined: Strategy ... Michael Saylor Has Kept Bitcoin Afloat. What Happens Now as Strategy Prepares to Sell?
+
+Yahoo Finance • 9h ago
+
+---
+
+**[MSTR Stock: Strategy Touts Misleading Bitcoin Per Share Gain](https://www.investors.com/news/mstr-stock-strategy-bitcoin-per-share-metric-debt-buyback/)**
+
+Investor's Business Daily • 11h ago
+
+---
+
+**[Strategy Stock (MSTR) Takes a Hit as Saylor’s $14 Billion Bitcoin Pledge Spooks Market](https://www.tipranks.com/news/strategy-stock-mstr-takes-a-hit-as-saylors-14-billion-bitcoin-pledge-spooks-market)**
+
+TipRanks • 4h ago
 
 ---
 
@@ -273,7 +269,7 @@ Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet 
 
 Live Bitcoin trades turned into music and motion in real time. Sound on.
 
-⬆️ 2 • 💬 1 • 7h ago • [Kinetik](https://kinetik.coexinbrand.com/)
+⬆️ 2 • 💬 1 • 8h ago • [Kinetik](https://kinetik.coexinbrand.com/)
 
 ---
 
@@ -321,7 +317,7 @@ Buy, Sell, Trade Crypto: Weex ($100k Trading Giveaway): https://www.weex.com/eve
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 263 • ⏱️ 10:19 • 20h ago
+👁️ 33K • 👍 2K • 💬 263 • ⏱️ 10:19 • 22h ago
 
 ---
 
@@ -331,7 +327,7 @@ In today's video, we discuss Bitcoin falling back below the Bear Market Resistan
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 241 • ⏱️ 18:38 • 17h ago
+👁️ 59K • 👍 4K • 💬 241 • ⏱️ 18:38 • 18h ago
 
 ---
 
@@ -341,7 +337,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 670 • 💬 203 • ⏱️ 51:05 • 7h ago
+👁️ 11K • 👍 670 • 💬 203 • ⏱️ 51:05 • 8h ago
 
 ---
 
@@ -371,7 +367,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 476 • 💬 266 • ⏱️ 15:40 • 6h ago
+👁️ 6K • 👍 476 • 💬 266 • ⏱️ 15:40 • 8h ago
 
 ---
 
@@ -381,7 +377,7 @@ Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 782 • 💬 271 • ⏱️ 8:32 • 20h ago
+👁️ 15K • 👍 782 • 💬 271 • ⏱️ 8:32 • 22h ago
 
 ---
 
@@ -391,7 +387,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 2K • 💬 367 • ⏱️ 12:09 • 2d ago
+👁️ 72K • 👍 2K • 💬 367 • ⏱️ 12:09 • 3d ago
 
 ---
 
@@ -401,7 +397,7 @@ Trump may be blowing up the dollar system faster than anyone realizes. From a pr
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 348 • ⏱️ 14:27 • 23h ago
+👁️ 21K • 👍 2K • 💬 348 • ⏱️ 14:27 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-28T21:31:43.094580+00:00'
+updated: '2026-05-28T23:18:05.598358+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 28, 2026 at 21:31 UTC  
+**Last Updated:** May 28, 2026 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chainable CVEs disclosed on May 15. But that was just the latest chapter. The crisis started in january and it's worse than most people realize. The numbers 245,000 instances exposed to the public internet (Shodan + ZoomEye scans) 30,000+ actively compromised and used by attackers (Flare) 1,184 malicious marketplace skills across 12 publisher accounts (Antiy Labs) 12% of the entire ClawHub marketplace was compromised 4 chainable CVEs including a CVSS 9.6 sandbox write escape (Cyera Research) 9 CVEs disclosed in a 4-day window in March 50,000+ instances exploitable via one-click RCE (CVE-2026-25253) The Claw Chain (Cyera Research, May 15) Four CVEs that chain together into a complete kill chain CVE-2026-44113 (CVSS 7.7) - TOCTOU filesystem read escape. Race condition lets you swap paths with symlinks to read outside the sandbox CVE-2026-44115 (CVSS 8.8) - Credential disclosure. Gap between command validation and shell execution leaks API keys through unquoted heredocs CVE-2026-44118 (CVSS 7.8) - MCP loopback privilege escalation. Trusts client-controlled senderIsOwner flag without session validation CVE-2026-44112 (CVSS 9.6) - Filesystem write escape. Same TOCTOU race in write ops. Backdoor placement on the host The chain malicious plugin -> read escape + credential theft -> privilege escalation -> persistent backdoor. Every step mimics normal agent behavior. Traditional monitoring cannot distinguish this from legitimate operations. ClawHavoc supply chain attack (Jan-Feb 2026) First malicious skill appeared January 27 By February 5, 1,184 malicious packages identified Skills disguised as crypto bots and productivity tools Installed keyloggers on Windows, Atomic Stealer on macOS 76 distinct malicious payloads ClawHub had zero verification for skill publishers until March 26 - eight weeks after the attack started Timeline Jan 27 - First malicious skill on ClawHub Feb 1 - Koi Security names "ClawHavoc" Feb 3 - CVE-2026-25253 (one-click RCE) disclosed Feb 5 - 1,184 malicious skills identified Feb 9 - 135K exposed instances found Feb 18 - 312K+ instances on default port Mar 18-21 - 9 CVEs in 4 days Mar 26 - ClawHub adds verified screening Apr 23 - Claw Chain patches released May 15 - Claw Chain research published What this means for all AI agent deployments the underlying problems are not unique to OpenClaw Agents running with user's full credentials across every connected system Marketplace/plugin ecosystems with no security review Sandbox implementations with race condition vulnerabilities No behavioral monitoring to detect multi-step attacks that mimic normal behavior Default configs exposing agents to the internet with no auth If you're running any AI agents in production, the OpenClaw crisis is your case study. Scan inputs at runtime. Isolate credentials per agent. Monitor behavior patterns, not just system metrics.
 
-10h ago
+11h ago
 
 ---
 
@@ -49,15 +49,7 @@ OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chai
 
 Scientists found that larger rewards create longer dopamine signals that dramatically speed up learning in the brain.
 
-🔗 [Earth.com](https://www.earth.com/news/bigger-rewards-dramatically-speed-up-learning-in-the-brain/) • 8h ago
-
----
-
-**[How does the economy work if everyone gets laid off and human jobs disappear?](https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/)**
-
-If almost all jobs got replaced by AI, here's what happens: 1) Corporate revenue collapses - since humans do not have the means to buy product. It leads to demand destruction at an all-time level. 2) At the same time, there's a massive deflationary supply shock, thanks to democratization of production and the ubiquity of AI-led labor. The direct consequence of the aforementioned is: a price collapse, across the board. Which in turn, also leads to unprecedented tax revenue collapse. Who're you going to tax when no individual or corporate is making any money? To me, all this heralds a post-capitalism society, and not a "I-lost-my-job-and-I'm-now-poor" society. Once everyone loses their jobs, capitalism is over. Sure you can have an interim period of distress - where the world is transforming toward post-capitalism but isn't squarely there yet. But the final equilibrium intuitively feels more Star Trek (or Terminator, if you're a doomer), and much less Elysium or Ready Player One (few oligarchs, most population under poverty line). Correct me if I'm wrong.
-
-5h ago
+🔗 [Earth.com](https://www.earth.com/news/bigger-rewards-dramatically-speed-up-learning-in-the-brain/) • 9h ago
 
 ---
 
@@ -65,19 +57,43 @@ If almost all jobs got replaced by AI, here's what happens: 1) Corporate revenue
 
 Anthropic just dropped Claude Opus 4.8 today, an incremental but meaningful upgrade over Opus 4.7. Here are the highlights: Model improvements Better performance across coding, agentic, reasoning, and knowledge work benchmarks Significantly improved honesty: the model is reportedly ~4x less likely to let flaws in its own code go unremarked compared to Opus 4.7 Alignment assessment shows lower rates of deceptive or misaligned behavior, on par with their Claude Mythos Preview model Scores 84% on Online-Mind2Web for computer use and browser agent tasks, ahead of both Opus 4.7 and GPT-5.5 New features launching alongside it Dynamic workflows (Claude Code): Claude can now spin up hundreds of parallel subagents in a single session to tackle large-scale problems like full codebase migrations. Available for Enterprise, Team, and Max plans. Effort control: Users on claude.ai can now choose how much compute effort Claude puts into a response, from faster/cheaper to deeper/slower. API update: The Messages API now accepts system entries inside the messages array, letting developers update instructions mid-task without breaking prompt cache. Pricing Same as Opus 4.7: $5/M input tokens, $25/M output tokens. Fast mode (2.5x speed) is now 3x cheaper than it was for previous models, at $10/$50 per million tokens. What's next Anthropic mentioned they are working on bringing Mythos-class models (currently in limited preview for cybersecurity use cases under Project Glasswing) to general availability in the coming weeks. Full details and system card: anthropic.com/news/claude-opus-4-8
 
-4h ago
+6h ago
 
 ---
 
-**[Opus 4.8 just released, waiting for it to land in Claude code](https://www.reddit.com/r/artificial/comments/1tq9ndg/opus_48_just_released_waiting_for_it_to_land_in/)**
+**[How does the economy work if everyone gets laid off and human jobs disappear?](https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/)**
 
-4h ago
+If almost all jobs got replaced by AI, here's what happens: 1) Corporate revenue collapses - since humans do not have the means to buy product. It leads to demand destruction at an all-time level. 2) At the same time, there's a massive deflationary supply shock, thanks to democratization of production and the ubiquity of AI-led labor. The direct consequence of the aforementioned is: a price collapse, across the board. Which in turn, also leads to unprecedented tax revenue collapse. Who're you going to tax when no individual or corporate is making any money? To me, all this heralds a post-capitalism society, and not a "I-lost-my-job-and-I'm-now-poor" society. Once everyone loses their jobs, capitalism is over. Sure you can have an interim period of distress - where the world is transforming toward post-capitalism but isn't squarely there yet. But the final equilibrium intuitively feels more Star Trek (or Terminator, if you're a doomer), and much less Elysium or Ready Player One (few oligarchs, most population under poverty line). Correct me if I'm wrong.
+
+6h ago
 
 ---
 
 **[Experiment to see what happens when you let AI models run the world](https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/)**
 
+8h ago
+
+---
+
+**[Chase the next new thing or lock-in on one ecosystem?](https://www.reddit.com/r/artificial/comments/1tqf4i1/chase_the_next_new_thing_or_lockin_on_one/)**
+
+I love all the wild updates from Anthropic, Open AI, Google, etc. And also seeing the creative stuff that mid-market AI shops are rolling out. I sometimes go through phases where I ping-pong between new tools (mostly just curiosity) but sometimes I tend to go deeper into a specific ecosystem. Right now trying to go "all-in" on Claude but I'm like a cat and Open AI is the laser pointer with new Codex updates. What have you all found works best. Go wide and test everything? Different tools for different use cases. Go deep and specialize in one ecosystem?
+
+3h ago
+
+---
+
+**[Opus 4.8 just released, waiting for it to land in Claude code](https://www.reddit.com/r/artificial/comments/1tq9ndg/opus_48_just_released_waiting_for_it_to_land_in/)**
+
 6h ago
+
+---
+
+**[AI Adoption Issue Debugging](https://www.reddit.com/r/artificial/comments/1tqgmto/ai_adoption_issue_debugging/)**
+
+I was dealing with another "output not usable" issue today in our app, user left a comment saying that no matter what he does the agent returns the result in the wrong format. It took me hours to identify the mistake and AI model missed it. Curious to hear your stories about the times you shipped a feature in your AI product and it flopped. How did you figure out what was actually going wrong? What tools if any did you use? What metrics were key?
+
+2h ago
 
 ---
 
@@ -89,25 +105,9 @@ AI can now realistically simulate massive crowds and public events. The scary pa
 
 ---
 
-**[Chase the next new thing or lock-in on one ecosystem?](https://www.reddit.com/r/artificial/comments/1tqf4i1/chase_the_next_new_thing_or_lockin_on_one/)**
-
-I love all the wild updates from Anthropic, Open AI, Google, etc. And also seeing the creative stuff that mid-market AI shops are rolling out. I sometimes go through phases where I ping-pong between new tools (mostly just curiosity) but sometimes I tend to go deeper into a specific ecosystem. Right now trying to go "all-in" on Claude but I'm like a cat and Open AI is the laser pointer with new Codex updates. What have you all found works best. Go wide and test everything? Different tools for different use cases. Go deep and specialize in one ecosystem?
-
-1h ago
-
----
-
 **[Nobody on the internet knows if you are a human](https://www.reddit.com/r/artificial/comments/1tq5v6b/nobody_on_the_internet_knows_if_you_are_a_human/)**
 
-🔗 [danieltan.weblog.lol](https://danieltan.weblog.lol/2026/05/nobody-on-the-internet-knows-if-you-are-a-human) • 6h ago
-
----
-
-**[AI Adoption Issue Debugging](https://www.reddit.com/r/artificial/comments/1tqgmto/ai_adoption_issue_debugging/)**
-
-I was dealing with another "output not usable" issue today in our app, user left a comment saying that no matter what he does the agent returns the result in the wrong format. It took me hours to identify the mistake and AI model missed it. Curious to hear your stories about the times you shipped a feature in your AI product and it flopped. How did you figure out what was actually going wrong? What tools if any did you use? What metrics were key?
-
-20m ago
+🔗 [danieltan.weblog.lol](https://danieltan.weblog.lol/2026/05/nobody-on-the-internet-knows-if-you-are-a-human) • 8h ago
 
 ---
 
@@ -115,61 +115,39 @@ I was dealing with another "output not usable" issue today in our app, user left
 
 ## Google News: "ai"
 
+**[I Tried to Sell My House With A.I.](https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html)**
+
+The New York Times • 2h ago
+
+---
+
 **[Apple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek](https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)**
+**[Jim Cramer says these 3 mistakes are keeping investors out of AI winners](https://www.cnbc.com/2026/05/28/jim-cramer-says-these-3-mistakes-are-keeping-investors-out-of-ai-winners.html)**
 
-Axios • 12h ago
+CNBC’s Jim Cramer pointed to three reasons investors may be missing some of the market’s biggest AI winners.
 
----
-
-**[AI is moving fast. 2028 hopefuls will be forced to adapt: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/ai-moving-fast-2028-hopefuls-will-forced-adapt-politics-desk-rcna347411)**
-
-Plus, how Iowa farmers are feeling about Trump and the economy.
-
-NBC News • 18m ago
+CNBC • 49m ago
 
 ---
 
-**[Robinhood to allow AI agents to make stock trades, credit card purchases](https://www.cbsnews.com/video/robinhood-allow-ai-agents-stock-trades-credit-card-purchases/)**
+**[Student commencement boos are a sign of wider AI woes](https://www.nbcnews.com/tech/tech-news/artificial-intelligence-students-pushback-commencement-booing-rcna345731)**
 
-The digital investing platform Robinhood is now allowing AI agents to trade stocks and make credit card purchases for users. Yahoo Finance senior reporter Brooke DiPalma joins with the details.
+On college campuses nationwide, some people are growing uneasy with AI, citing threats to jobs, hobbies and even résumé-writing.
 
-CBS News • 1h ago
-
----
-
-**[Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round](https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html)**
-
-Anthropic is now the most valuable AI company in Silicon Valley after a new $65 billion funding round.
-
-CNBC • 2h ago
+NBC News • 11m ago
 
 ---
 
-**[Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html)**
+**[Basketball fans split on plans to use AI for some NBA calls](https://www.wmur.com/article/basketball-fans-ai-nba-52826/71436673)**
 
-The New York Times • 1h ago
+The NBA has announced plans to start using artificial intelligence to automate certain calls, and basketball fans in New Hampshire are having mixed reactions to the idea.
 
----
-
-**[Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges](https://abc7chicago.com/post/anthropic-san-francisco-ai-company-vaults-965-billion-valuation-new-funding-claude-demand-surges/19188579/)**
-
-Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the five-year-old maker of the Claude chatbot one of the world's most valuable startups as it careens toward a likely Wall Street debut.
-
-ABC7 Chicago • 54m ago
-
----
-
-**[Snowflake surges 36% for best day ever on AI frenzy, fueling software rally](https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html)**
-
-The Snowflake rally also lifted shares of ServiceNow, Oracle and Palantir, while Salesforce bucked the trend.
-
-CNBC • 7h ago
+WMUR • 25m ago
 
 ---
 
@@ -177,15 +155,37 @@ CNBC • 7h ago
 
 Now that AI can write code, what makes a good software engineer? That’s the question hiring managers in the tech industry are grappling with.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
-**[Boston Seizes on California Billionaire Tax to Lure AI Jobs](https://finance.yahoo.com/sectors/technology/articles/boston-seizes-california-billionaire-tax-120000210.html)**
+**[AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)**
 
-(Bloomberg) -- The talent at some of America’s hottest artificial intelligence companies often passes through Boston-area universities before heading west to build billion-dollar businesses in Silicon Valley. Massachusetts business and political leaders say California’s proposed tax on billionaires is an opportunity to change that.Most Read from BloombergSingapore Hands Byju's Founder His First Ever Jail TermIran’s Khamenei Says No Going Back for Middle East Rocked by WarApple to Overhaul iOS 27
+Axios • 13h ago
 
-Yahoo Finance • 3h ago
+---
+
+**[Factions inside the Trump administration wrestle over how to handle AI](https://www.yahoo.com/news/politics/articles/factions-inside-the-trump-administration-wrestle-over-how-to-handle-ai-095500844.html)**
+
+Trump's abandoned AI order emerged from weeks of NDA-bound talks with OpenAI, Anthropic and Google.
+
+Yahoo • 13h ago
+
+---
+
+**[Opinion | Elizabeth Warren’s AI plan is the same as her plan for everything else](https://www.washingtonpost.com/opinions/2026/05/28/elizabeth-warrens-ai-plan-is-raise-taxes-stifle-innovation/)**
+
+Tax it.
+
+The Washington Post • 16m ago
+
+---
+
+**[Nonfiction Book Publishers Aren’t Remotely Ready for AI](https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html)**
+
+They don’t check facts. How will they check hallucinations?
+
+New York Magazine • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 3h ago
 
 I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was
 
-⬆️ 1959 • 💬 933 • 1d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+⬆️ 1961 • 💬 935 • 1d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 
 ---
 
@@ -205,13 +205,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
 
-⬆️ 1252 • 💬 747 • 1d ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-
----
-
-**[Using AI to write better code more slowly](https://news.ycombinator.com/item?id=48272984)**
-
-⬆️ 1236 • 💬 446 • 2d ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+⬆️ 1263 • 💬 755 • 1d ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 ---
 
@@ -219,7 +213,7 @@ We've heard consistently from our community that they value transparency when it
 
 "People just want a choice."
 
-⬆️ 1041 • 💬 503 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+⬆️ 1044 • 💬 504 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 ---
 
@@ -227,7 +221,7 @@ We've heard consistently from our community that they value transparency when it
 
 "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
 
-⬆️ 698 • 💬 350 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+⬆️ 702 • 💬 350 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
 
 ---
 
@@ -245,6 +239,14 @@ We've heard consistently from our community that they value transparency when it
 
 ---
 
+**[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://news.ycombinator.com/item?id=48308376)**
+
+A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?
+
+⬆️ 217 • 💬 100 • 10h ago • [llmgame.scalex.dev](https://llmgame.scalex.dev)
+
+---
+
 **[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
 
 I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
@@ -253,17 +255,17 @@ I really think we're on the verge of some of our best work through the next six 
 
 ---
 
-**[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://news.ycombinator.com/item?id=48308376)**
+**[AI sticker shock hits corporate America](https://news.ycombinator.com/item?id=48307098)**
 
-A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?
-
-⬆️ 187 • 💬 91 • 8h ago • [llmgame.scalex.dev](https://llmgame.scalex.dev)
+⬆️ 154 • 💬 133 • 12h ago • [axios.com](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
 
 ---
 
-**[AI sticker shock hits corporate America](https://news.ycombinator.com/item?id=48307098)**
+**[Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://news.ycombinator.com/item?id=48314363)**
 
-⬆️ 150 • 💬 131 • 10h ago • [axios.com](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
+Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have been saying all along that there won’t be a white-collar wipeout.
+
+⬆️ 147 • 💬 120 • 3h ago • [Fortune](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 
 ---
 
@@ -277,7 +279,7 @@ We investigated one of the world's largest AI data centers, using thermal drone 
 
 📺 PBS Terra
 
-👁️ 49K • 👍 6K • 💬 1K • ⏱️ 21:45 • 5h ago
+👁️ 49K • 👍 6K • 💬 1K • ⏱️ 21:45 • 7h ago
 
 ---
 
@@ -287,7 +289,7 @@ Education Secretary Linda McMahon joined “National Report” to discuss the fu
 
 📺 Newsmax
 
-👁️ 3K • 👍 396 • 💬 67 • ⏱️ 4:31 • 7h ago
+👁️ 3K • 👍 396 • 💬 67 • ⏱️ 4:31 • 9h ago
 
 ---
 
@@ -297,7 +299,7 @@ Seedance 2.0 Creates INSANE AI Short Films - here's how to make them! Create you
 
 📺 Mira AI
 
-👁️ 5K • ⏱️ 9:16 • 5h ago
+👁️ 5K • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -307,7 +309,7 @@ While speaking to Air Force graduates, vice president JD Vance said the thing he
 
 📺 WLUK-TV FOX 11
 
-👁️ 2K • 👍 41 • 💬 15 • ⏱️ 2:19 • 2h ago
+👁️ 2K • 👍 41 • 💬 15 • ⏱️ 2:19 • 4h ago
 
 ---
 
@@ -327,7 +329,7 @@ Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the
 
 📺 Sean Foo
 
-👁️ 67K • 👍 5K • 💬 623 • ⏱️ 13:28 • 23h ago
+👁️ 67K • 👍 5K • 💬 623 • ⏱️ 13:28 • 1d ago
 
 ---
 
@@ -337,7 +339,7 @@ Shark Tank's Kevin O'Leary and political commentator Cenk Uygur go head to head 
 
 📺 The Diary Of A CEO
 
-👁️ 334K • 👍 12K • 💬 5K • ⏱️ 1:43:32 • 14h ago
+👁️ 334K • 👍 12K • 💬 5K • ⏱️ 1:43:32 • 16h ago
 
 ---
 
@@ -395,7 +397,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 2,506 • ❤️ 953 • 15h ago
+⬇️ 2,506 • ❤️ 953 • 16h ago
 
 ---
 
@@ -489,7 +491,7 @@ Qwopus3.6-27B-v2 is a multimodal, 27B parameter language model fine-tuned on Qwe
 
 `image-text-to-text` `27.3B`
 
-⬇️ 24,336 • ❤️ 170 • 17h ago
+⬇️ 24,336 • ❤️ 170 • 19h ago
 
 ---
 
@@ -661,7 +663,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 186 • 19m ago
+⭐ 2.8k • 🔱 186 • 2h ago
 
 ---
 
@@ -699,7 +701,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 139 • 4h ago
+⭐ 2.1k • 🔱 139 • 6h ago
 
 ---
 
