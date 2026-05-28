@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-28T04:23:44.853506+00:00'
+updated: '2026-05-28T08:27:03.055763+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 28, 2026 at 04:23 UTC  
+**Last Updated:** May 28, 2026 at 08:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Trained a SO101 robot to flip a tube upright and balance it on a tiny platform.](https://www.reddit.com/r/robotics/comments/1tpampg/trained_a_so101_robot_to_flip_a_tube_upright_and/)**
-
-trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright and place it on a small platform the balancing is the part that surprised me. platform’s barely wider than the tube but the policy lands it cleanly and lets go without tipping it 150 episodes across 30 cells, 12 hr training on a g5.16xlarge works really well inside cells, weaker on interpolation between them Write more about it here https://x.com/pbshgthm/status/2059654080134529082?s=46 what’s a good way to handle inter-cell interpolation without just collecting more data?
-
-11h ago
-
----
-
 **[How could we make our bots talk to each other?](https://www.reddit.com/r/robotics/comments/1tpq9cy/how_could_we_make_our_bots_talk_to_each_other/)**
 
 We are considering getting our bots to have a battle mode and are exploring comms between bots. What are some lightweight ways to implement this that might have already been explored and standardized? I have considered a wifi based basic comms (kinda like ROS Topics) that can allow us to have impact, health and scoring data be shared between bots that can allow us to really have a screen free battling experience.
 
-2h ago
+6h ago
 
 ---
 
-**[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
+**[Trained a SO101 robot to flip a tube upright and balance it on a tiny platform.](https://www.reddit.com/r/robotics/comments/1tpampg/trained_a_so101_robot_to_flip_a_tube_upright_and/)**
 
-20h ago
+trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright and place it on a small platform the balancing is the part that surprised me. platform’s barely wider than the tube but the policy lands it cleanly and lets go without tipping it 150 episodes across 30 cells, 12 hr training on a g5.16xlarge works really well inside cells, weaker on interpolation between them Write more about it here https://x.com/pbshgthm/status/2059654080134529082?s=46 what’s a good way to handle inter-cell interpolation without just collecting more data?
+
+16h ago
 
 ---
 
@@ -58,7 +52,19 @@ We are considering getting our bots to have a battle mode and are exploring comm
 
 RISE is an interesting robot learning project from CUHK, HKU, Tsinghua, and collaborators. Instead of relying only on costly real-world trial and error, it uses a compositional world model to let the policy improve through imagined rollouts, then tests on tasks like dynamic brick sorting, backpack packing, and box closing with a PiPER 6-DOF arm. Interesting example of how world models are being applied to real-world robot manipulation.
 
-2h ago
+6h ago
+
+---
+
+**[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
+
+1d ago
+
+---
+
+**[Spider robot, leg test](https://www.reddit.com/r/robotics/comments/1tpt60s/spider_robot_leg_test/)**
+
+3h ago
 
 ---
 
@@ -66,7 +72,7 @@ RISE is an interesting robot learning project from CUHK, HKU, Tsinghua, and coll
 
 Nature has spent millions of years perfecting teamwork. Bees swarm together in coordinated clouds. Schools of fish shift direction almost instantly. Bats and whales use sound to navigate and communicate across long distances. Now, scientists are borrowing those same ideas to design a new generation of tiny robots that may someday work together inside disaster zones, polluted waterways and even the human body.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-built-bee-like-smart-robots-that-swarm-using-sound-waves) • 6h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-built-bee-like-smart-robots-that-swarm-using-sound-waves) • 10h ago
 
 ---
 
@@ -74,7 +80,7 @@ Nature has spent millions of years perfecting teamwork. Bees swarm together in c
 
 Hi robotics professionals 👋🏽 my son's 7th birthday is next week & he's really into robots, building, engineering. He just finished a Lego robotics camp and loved it! Unfortunately the $400+ Lego spike set that they taught with are too pricey imo for a 6-7 year old. Plus, we've already committed to a MakerSpace desk setup that we're installing for him. Do you have a toy that you loved as a kid that you feel actually helped you learn robotic concepts ? I'm looking for something: that actually teaches robotic engineering concepts/ skills at can be just repeatedly and isn't just a 1 time build kind of set. Preferably under $100. If not a "toy" Makerspace supplies and tools that would encourage his interest in building robotics. I'm open to old and new toy, set, or tool recommendations. Any ideas are appreciated! Thank you in advance from a very creative yet obnoxiously intentional mom. #learning #educational #youth
 
-2h ago
+6h ago
 
 ---
 
@@ -82,7 +88,7 @@ Hi robotics professionals 👋🏽 my son's 7th birthday is next week & he's rea
 
 Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in robot learning: not every robotic task can be learned well from video or teleoperation alone. Her point is that physical tasks often depend on forces, torques, contact, and constraints that are difficult to capture visually. Some tasks can be solved from first principles. Others may require richer data from humans performing the work, including muscle activity, pose, eye gaze, and environmental information. She also mentions into simulation, transformer-based approaches, and why robotics may need models that understand physics more directly.
 
-14h ago
+18h ago
 
 ---
 
@@ -90,21 +96,15 @@ Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in 
 
 Hello fellow owners! I am working with my g1. I've been looking into expansion. Many repeat the same thing. G1 basic cannot be expanded. That is simply not true. The mainboard is the exact same as the EDU. RK3588. I've been monkeying around with some backend controls and have found the g1 basic does indeed have expansion capabilities. Yes, there is no jetson installed. But I believe running a remote ai is definitely doable for basic commands. Walk, talk, run, and the basic already built in command, dance, squat, climb etc.. The question I have is, who else has been working with the g1 basic? I will be expanding the bot in many ways after the warranty expires but for now, I'm working within the warranty. I've been able to send small commands to the g1 from my laptop using Python and a few other techniques, and received responses back. At one point, I was able to trick the g1 into thinking my laptop was the app. This means, a "remote" ai may be able to control the g1 over a network one day and likely far more. If others are working on this, I'd love to collaborate. Thanks.
 
-2h ago
+6h ago
 
 ---
 
-**[Spider robot, two legs](https://www.reddit.com/r/robotics/comments/1tov0vf/spider_robot_two_legs/)**
+**[Can I download any movement sequences for Unitree G1 (none Edu)?](https://www.reddit.com/r/robotics/comments/1tptlxf/can_i_download_any_movement_sequences_for_unitree/)**
 
-23h ago
+Can G1 robot be programmable ? I am hoping I can download a dance sequence that I can use right away . Does anyone found a way to work with the G1 (none Edu)
 
----
-
-**[Built an open-source React component library for robotics and telemetry dashboards — MIT licensed](https://www.reddit.com/r/robotics/comments/1tpec1g/built_an_opensource_react_component_library_for/)**
-
-Wanted to share Altara with this community — it's a MIT-licensed React component library for real-time telemetry visualization, aimed at robotics, aerospace, and industrial IoT teams. The gap it fills: there's no open-source React component library that understands robotics instrument vocabulary. Teams building ground control stations or robot dashboards end up reimplementing attitude indicators, LiDAR viewers, occupancy grids, and time-series charts from scratch every time. Stack: TypeScript monorepo with pnpm + Turborepo, tsup for dual ESM/CJS builds, Storybook docs, native ROS2 rosbridge and MQTT adapters. GitHub: https://github.com/JayaSaiKishanChapparam/altara Live demo: https://jayasaikishanchapparam.github.io/altara/demo/ Contributions welcome — especially from anyone with domain expertise in aerospace, maritime, or energy systems where the component vocabulary is quite specialized. Altara
-
-9h ago
+3h ago
 
 ---
 
@@ -120,17 +120,15 @@ Ars Technica • 1d ago
 
 ---
 
-**[As China’s humanoid-robot hype cools, Unitree sees profit plunge](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing)**
+**[Watch Matrix Robotics CEO on Business Outlook](https://www.bloomberg.com/news/videos/2026-05-28/matrix-robotics-ceo-on-business-outlook-video)**
 
-South China Morning Post • 1d ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Figure Humanoid Robots Get Jobs With JCPenney, Aéropostale, Brooks Brothers](https://www.forbes.com/sites/johnkoetsier/2026/05/26/figure-humanoid-robots-get-jobs-with-jcpenney-aropostale-brooks-brothers/)**
+**[As China’s humanoid-robot hype cools, Unitree sees profit plunge](https://www.scmp.com/tech/tech-trends/article/3354855/unitree-robotics-reports-plunge-first-quarter-profits-days-crucial-ipo-hearing)**
 
-Figure got a job at dad’s company. Not literally, of course, because humanoid robots don’t have dads. Or moms. But figuratively (sorry).
-
-Forbes • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -138,7 +136,21 @@ Forbes • 1d ago
 
 American Rheinmetall and Harbinger partner to develop hybrid robotic and unmanned ground vehicles in support of U.S. Department of War modernization priorities.
 
-Rheinmetall • 14h ago
+Rheinmetall • 18h ago
+
+---
+
+**[JD.com Founder Vows to Protect Chinese Jobs From AI and Robots](https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
+
+Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
+
+AP News • 14h ago
 
 ---
 
@@ -154,15 +166,7 @@ NASA (.gov) • 1d ago
 
 Wheel.Me hummed and hugged the ground as the autonomous mobile robot careened around corners, working its way through the aisles of Millersville University’s Automation and Robotics Lab.
 
-LancasterOnline • 19h ago
-
----
-
-**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
-
-Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
-
-AP News • 10h ago
+LancasterOnline • 23h ago
 
 ---
 
@@ -170,7 +174,7 @@ AP News • 10h ago
 
 This year's tasks include mapping cold-water coral ecosystems, deploying ocean observatory instrumentation, modeling offshore wind turbines, and operating profiling floats beneath sea ice.
 
-GeekWire • 11h ago
+GeekWire • 16h ago
 
 ---
 
@@ -182,35 +186,17 @@ kare11.com • 1d ago
 
 ---
 
-**[Delivery robots are spreading across LA. Residents ‘both pity and hate them’](https://www.theguardian.com/us-news/2026/may/25/los-angeles-delivery-robots)**
-
-A region known for its lack of walkability now has more obstacles for pedestrians to contend with
-
-The Guardian • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[LIVING LEGENDS FROM SPAWN! NEW SHOGGOTH ROBOT IS SO OVERPOWERED! (War Robots)](https://www.youtube.com/watch?v=xy3SQW3nab8)**
+**[Inside The $440 Million Startup Building The Brain For Physical AI](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
 
-In this video I tested out the new Shoggoth robot. https://wr.my.games/Wolfblood7.
+Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
 
-📺 Wolfblood7
+📺 Forbes
 
-👁️ 4K • 👍 201 • 💬 58 • ⏱️ 14:41 • 18h ago
-
----
-
-**[War Robots - New Robot Shoggoth Unlocked In Update 12.1 WR Shoggoth Gameplay](https://www.youtube.com/watch?v=kfHnflcURI0)**
-
-War Robots - New robot Shoggoth unlocked in update 12.1. In this video, I run a maxed out MK3 Shoggoth with new weapons ...
-
-📺 Adrian Chong
-
-👁️ 4K • 👍 249 • 💬 41 • ⏱️ 18:23 • 15h ago
+👁️ 9K • 👍 303 • 💬 14 • ⏱️ 10:21 • 15h ago
 
 ---
 
@@ -220,35 +206,27 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 📺 The AI Nexus
 
-👁️ 9K • 👍 194 • 💬 46 • ⏱️ 18:21 • 4d ago
+👁️ 9K • 👍 196 • 💬 46 • ⏱️ 18:21 • 4d ago
 
 ---
 
-**[LEBRON 2.0 IS HERE🔥 FTC 14739 #decode #ftc #robotics](https://www.youtube.com/watch?v=4Gk-eoEO_Pg)**
+**[War Robots - New Robot Shoggoth Unlocked In Update 12.1 WR Shoggoth Gameplay](https://www.youtube.com/watch?v=kfHnflcURI0)**
 
-📺 FTC Metal Benders 
+War Robots - New robot Shoggoth unlocked in update 12.1. In this video, I run a maxed out MK3 Shoggoth with new weapons ...
 
-👁️ 948 • 👍 13 • ⏱️ 0:25 • 2h ago
+📺 Adrian Chong
 
----
-
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
-
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
-
-📺 ESPN
-
-👁️ 239K • 👍 5K • 💬 458 • ⏱️ 4:57 • 2d ago
+👁️ 5K • 👍 256 • 💬 46 • ⏱️ 18:23 • 19h ago
 
 ---
 
-**[4 Robotics Stocks (ALREADY Making Money)](https://www.youtube.com/watch?v=19SrFEBkK8s)**
+**[LIVING LEGENDS FROM SPAWN! NEW SHOGGOTH ROBOT IS SO OVERPOWERED! (War Robots)](https://www.youtube.com/watch?v=xy3SQW3nab8)**
 
-Physical AI isn't coming. It's already performing surgeries, sorting packages at warehouse speeds, running factory floors, and ...
+In this video I tested out the new Shoggoth robot. https://wr.my.games/Wolfblood7.
 
-📺 MarketBeat
+📺 Wolfblood7
 
-👁️ 19K • 👍 561 • 💬 8 • ⏱️ 3:00 • 1d ago
+👁️ 4K • 👍 206 • 💬 60 • ⏱️ 14:41 • 22h ago
 
 ---
 
@@ -258,7 +236,15 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 101K • 👍 3K • 💬 211 • ⏱️ 1:55 • 1d ago
+👁️ 104K • 👍 3K • 💬 219 • ⏱️ 1:55 • 1d ago
+
+---
+
+**[LEBRON 2.0 IS HERE🔥 FTC 14739 #decode #ftc #robotics](https://www.youtube.com/watch?v=4Gk-eoEO_Pg)**
+
+📺 FTC Metal Benders 
+
+👁️ 1K • 👍 13 • ⏱️ 0:25 • 7h ago
 
 ---
 
@@ -268,27 +254,37 @@ Humanoid robots are devices that could be used to improve our daily lives. But c
 
 📺 ABC News
 
-👁️ 84K • 👍 998 • 💬 370 • ⏱️ 5:15 • 5d ago
+👁️ 85K • 👍 1K • 💬 374 • ⏱️ 5:15 • 5d ago
 
 ---
 
-**[War Robots: HUGE REBALANCE 12.2 ruins EVERYTHING (again)...](https://www.youtube.com/watch?v=7Gyr40hifwk)**
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
 
-War Robots News Vlog REBALANCE 12.2 ruins everything again - WR My War Robots Creator Link: https://wr.my.games/manni ...
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
 
-📺 Manni-Gaming
+📺 ESPN
 
-👁️ 15K • 👍 1K • 💬 410 • ⏱️ 37:56 • 1d ago
+👁️ 245K • 👍 5K • 💬 462 • ⏱️ 4:57 • 2d ago
 
 ---
 
-**[School of Football | Can football teach a robot to move? | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=qaqzZK7ZrZk)**
+**[4 Robotics Stocks (ALREADY Making Money)](https://www.youtube.com/watch?v=19SrFEBkK8s)**
 
-In School of Football, Atlas meets the world's most beloved sport. With the FIFA World Cup 2026 ahead, can football teach a robot ...
+Physical AI isn't coming. It's already performing surgeries, sorting packages at warehouse speeds, running factory floors, and ...
 
-📺 Boston Dynamics
+📺 MarketBeat
 
-👁️ 106K • 👍 6K • 💬 562 • ⏱️ 1:22 • 2d ago
+👁️ 21K • 👍 584 • 💬 8 • ⏱️ 3:00 • 1d ago
+
+---
+
+**[MOVA LiDax Ultra 3000 - Is This the Best Robot Lawn Mower?](https://www.youtube.com/watch?v=JlCdMKebkeY)**
+
+Testing the MOVA LiDax Ultra 3000 AWD over the past few weeks has been seriously impressive. The AWD system handled ...
+
+📺 Steve DOES
+
+👁️ 99K • 👍 953 • 💬 10 • ⏱️ 16:22 • 5d ago
 
 ---
 

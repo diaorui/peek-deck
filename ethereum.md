@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-28T04:23:44.850295+00:00'
+updated: '2026-05-28T08:27:03.052926+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 28, 2026 at 04:23 UTC  
+**Last Updated:** May 28, 2026 at 08:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,988.20
+### $1,995.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -4.4%  
-**30d:** -12.4%  
-**90d:** +0.5%  
-**1y:** -25.0%  
+**24h:** -4.6%  
+**7d:** -3.8%  
+**30d:** -11.8%  
+**90d:** +1.2%  
+**1y:** -24.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.25B
+**Market Cap:** $239.60B
 Rank #2
 
 **Circulating Supply:** 120,685,415 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-59.9%
 
 **All-Time Low:** $0.43
-+455647.3%
++458284.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 28, 2026](https://www.reddit.com/r/ethereum/comments/1tptoer/daily_general_discussion_may_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3h ago
+
+---
+
 **[Daily General Discussion May 27, 2026](https://www.reddit.com/r/ethereum/comments/1tovhuz/daily_general_discussion_may_27_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 \&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
 
-4h ago
+8h ago
 
 ---
 
@@ -96,7 +104,7 @@ I put a decent amount into a DeFi project six months ago. This morning I went to
 
 Serious question, wtf is going on. First this guy Dan was talking about how its Ethereum social. Now he's at Tempo, then the project was handed off to some kids and sold off. Now there's some lady with huge tds saying something about a fork and a token. Does anyone have any idea what's going on there? I'm dumb and don't get it.
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -134,15 +142,7 @@ Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastruct
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
-
----
-
-**[The DEX I use added a new protocol fee I only just found out about three months in](https://www.reddit.com/r/ethereum/comments/1tnab52/the_dex_i_use_added_a_new_protocol_fee_i_only/)**
-
-I've been using the same DEX for about six months. Found out today that three months ago they added a 0.15% protocol fee on top of the existing LP fee. It's in their documentation but there was no notification, no banner, nothing in the app. I've been paying it without realizing. Over three months on my trading volume that's not trivial. Is there any way to recover this or is it just a loss
-
-2d ago
+3d ago
 
 ---
 
@@ -154,23 +154,55 @@ I've been using the same DEX for about six months. Found out today that three mo
 
 Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.
 
-Decrypt • 7h ago
+Decrypt • 11h ago
 
 ---
 
-**[Ethereum’s ‘Clarity Act’ Moment? ‘Maxirealist’ Mougayar Backs Buterin Amid EF Scrutiny](https://stocktwits.com/news-articles/markets/cryptocurrency/eth-clarity-act-maxirealist-mougayar-backs-vitalikbuterin/cZga6aeRepr)**
+**[Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana](https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation/)**
 
-William Mougayar said Ethereum was “untouchable” as criticism grew around the Ethereum Foundation following the departure of multiple longtime researchers and contributors.
+Bitcoin & Ethereum ETF outflows hit nearly $2.7 billion over two weeks as HYPE, XRP & Solana funds attract selective institutional inflows.
 
-Stocktwits • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Tumble Amid Report Of Fresh US Strikes On Iran: Analyst Flags 'Structurally Fragile Setup' Developing For BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-tumble-021732460.html)**
+**[Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fresh Iran Strikes](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-today-bitcoin-073437045.html)**
 
-Leading cryptocurrencies fell sharply on Wednesday, while stocks rallied to record highs with no breakthrough in sight for a U.S.-Iran deal. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.03%$74,176.96Ethereum (CRYPTO: ETH) -2.65%$2,017.29XRP (CRYPTO: XRP) -2.03%$1.30Solana (CRYPTO: SOL) -1.83%$82.27Dogecoin (CRYPTO: DOGE) -1.39%$0.1000 Crypto Market Slides Bitcoin tumbled, coming close to sinking below $74,000, while Ethereum battled bears to defend the
+The crypto market is deep in the red this morning. The total market is down more than 3% in a day, and Bitcoin (CRYPTO: BTC) has slipped under $73,000 for the first time in the past few weeks. The spark was a fresh round of U.S. airstrikes on Iran, which sent investors running from anything ... Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fresh Iran Strikes
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 52m ago
+
+---
+
+**[Cash App lets users send USDC stablecoins on chains like Solana and Ethereum](https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum)**
+
+Cash App users can now transfer on Solana, Ethereum, Polygon and Arbitrum, but executive Miles Suter says the firm is still bitcoin-focused.
+
+The Block • 11h ago
+
+---
+
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-makes-biggest-155626985.html)**
+
+BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.39 Million Tokens, and Total Crypto and Total Cash Holdings of $12.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-39-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-3-billion-302781471.html)**
+
+Bitmine owns more than 4.47% of the total ETH coin supply of 120.7 million Bitmine is 89% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
+
+PR Newswire • 1d ago
+
+---
+
+**[Bitmine Highlights Record Ethereum Treasury and Staking Expansion](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2152855/bitmine-highlights-record-ethereum-treasury-and-staking-expansion/)**
+
+Tipranks Press Release.
+
+The Globe and Mail • 18h ago
 
 ---
 
@@ -186,7 +218,7 @@ The Block • 1d ago
 
 FTSE Russell has placed Sharplink, Forward Industries, Gemini, Bitmine, and Galaxy Digital on preliminary consideration lists for inclusion in its small-cap benchmarks, a structural development that carries direct implications for Ethereum traders watching institutional flow build on the equity side. The 2026 U.S. index reconstitution becomes effective in late June, ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -195,38 +227,6 @@ Yahoo Finance • 16h ago
 The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.39 Million Tokens, and Total Crypto and Total Cash Holdings of $12.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-39-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-3-billion-302781471.html)**
-
-Bitmine owns more than 4.47% of the total ETH coin supply of 120.7 million Bitmine is 89% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
-
-PR Newswire • 1d ago
-
----
-
-**[Current price of Ethereum for May 27, 2026](https://fortune.com/article/price-of-ethereum-05-27-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 15h ago
-
----
-
-**[New Crypto Pepeto Presale Crosses $10.2 Million as Ethereum Price Prediction Targets $8,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-presale-crosses-10-2-million-as-ethereum-price-prediction-targets-8-000-1036198875)**
-
-Dubai, UAE, May  27, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just crossed $10.2 million in presale funding, and the biggest positions came in ...
-
-markets.businessinsider.com • 10h ago
-
----
-
-**[Hyperliquid introduces native options for Ethereum on its platform](https://cryptobriefing.com/hyperliquid-native-ethereum-options/)**
-
-Hyperliquid is launching native options for Ethereum, expanding beyond perpetual futures with HyperCore and HyperEVM integration. Here's what traders need to know.
-
-Crypto Briefing • 1d ago
 
 ---
 
@@ -240,27 +240,7 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 852 • 💬 42 • ⏱️ 29:37 • 14h ago
-
----
-
-**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
-
-Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
-
-📺 BULLRUNNERS
-
-👁️ 5K • 👍 294 • 💬 177 • ⏱️ 15:14 • 12h ago
-
----
-
-**[Big Ethereum News Today #crypto](https://www.youtube.com/watch?v=KBY1zK0G5xM)**
-
-Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
-
-📺 Altcoin Daily
-
-👁️ 2K • 👍 83 • 💬 11 • ⏱️ 0:32 • 2h ago
+👁️ 15K • 👍 896 • 💬 42 • ⏱️ 29:37 • 18h ago
 
 ---
 
@@ -270,7 +250,37 @@ BITCOIN & ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 1K • 👍 81 • 💬 9 • ⏱️ 22:34 • 51m ago
+👁️ 5K • 👍 262 • 💬 93 • ⏱️ 22:34 • 4h ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
+
+Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
+
+📺 BULLRUNNERS
+
+👁️ 6K • 👍 314 • 💬 184 • ⏱️ 15:14 • 16h ago
+
+---
+
+**[Big Ethereum News Today #crypto](https://www.youtube.com/watch?v=KBY1zK0G5xM)**
+
+Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
+
+📺 Altcoin Daily
+
+👁️ 4K • 👍 132 • 💬 36 • ⏱️ 0:32 • 6h ago
+
+---
+
+**[🔴 Why I Sold My ETH](https://www.youtube.com/watch?v=hN1MgHXBvrE)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 249 • 💬 22 • ⏱️ 24:01 • 23h ago
 
 ---
 
@@ -280,47 +290,7 @@ Welcome Back To The Channel! iTrust Capital – $100 Bonus (Crypto Retirement Ac
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 342 • 💬 58 • ⏱️ 16:48 • 1d ago
-
----
-
-**[Ethereum: Bear Market Rally Running Out of Steam?](https://www.youtube.com/watch?v=YXGj0rLyKxQ)**
-
-Ethereum remains stuck inside a larger corrective structure, and the current bounce still looks weak from an Elliott Wave ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 218 • 💬 5 • ⏱️ 9:06 • 8h ago
-
----
-
-**[Ethereum Incoming Crash = MAJOR Buy Opportunity?](https://www.youtube.com/watch?v=VKDU9OshWGU)**
-
-OUR MEMORIAL DAY $800 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: ...
-
-📺 Trade Confident
-
-👁️ 425 • 👍 18 • 💬 25 • ⏱️ 5:58 • 10h ago
-
----
-
-**[Is Ethereum Dead? Time to Buy When Nobody Wants It](https://www.youtube.com/watch?v=pFXlVe9dngs)**
-
-ETH is down 6.47% this week. Spot ETF outflows for 10 straight days. Vitalik just posted his "smaller ship" EF restructuring vision.
-
-📺 VirtualBacon
-
-👁️ 19K • 👍 603 • 💬 202 • ⏱️ 43:31 • 2d ago
-
----
-
-**[🚨 BitMine Just Made Its BIGGEST ETH Buy of 2026… While Saylor Restructures Strategy](https://www.youtube.com/watch?v=taLeqTR8iR0)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 3K • 👍 110 • 💬 26 • ⏱️ 27:15 • 15h ago
+👁️ 5K • 👍 350 • 💬 60 • ⏱️ 16:48 • 1d ago
 
 ---
 
@@ -330,7 +300,37 @@ Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bit
 
 📺 Thinking Crypto
 
-👁️ 10K • 👍 621 • 💬 77 • ⏱️ 21:33 • 1d ago
+👁️ 11K • 👍 624 • 💬 77 • ⏱️ 21:33 • 1d ago
+
+---
+
+**[Ethereum: Bear Market Rally Running Out of Steam?](https://www.youtube.com/watch?v=YXGj0rLyKxQ)**
+
+Ethereum remains stuck inside a larger corrective structure, and the current bounce still looks weak from an Elliott Wave ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 272 • 💬 6 • ⏱️ 9:06 • 12h ago
+
+---
+
+**[Roaul Pal &amp; Tom Lee :&quot;The EXACT Dates To Sell Your Bitcoin &amp; Crypto&quot; (Best 2026 Guide)](https://www.youtube.com/watch?v=2xh7Nmn_pso)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 456 • 💬 38 • ⏱️ 18:27 • 1d ago
+
+---
+
+**[Ethereum Is Either Failing… Or Evolving Into Something Much Bigger w/ John Gillen](https://www.youtube.com/watch?v=iQZ2U7tvxOo)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 121 • 💬 50 • ⏱️ 44:13 • 1d ago
 
 ---
 
