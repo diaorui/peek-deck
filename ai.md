@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-28T11:58:46.472073+00:00'
+updated: '2026-05-28T16:19:54.939827+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 28, 2026 at 11:58 UTC  
+**Last Updated:** May 28, 2026 at 16:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chainable CVEs disclosed on May 15. But that was just the latest chapter. The crisis started in january and it's worse than most people realize. The numbers 245,000 instances exposed to the public internet (Shodan + ZoomEye scans) 30,000+ actively compromised and used by attackers (Flare) 1,184 malicious marketplace skills across 12 publisher accounts (Antiy Labs) 12% of the entire ClawHub marketplace was compromised 4 chainable CVEs including a CVSS 9.6 sandbox write escape (Cyera Research) 9 CVEs disclosed in a 4-day window in March 50,000+ instances exploitable via one-click RCE (CVE-2026-25253) The Claw Chain (Cyera Research, May 15) Four CVEs that chain together into a complete kill chain CVE-2026-44113 (CVSS 7.7) - TOCTOU filesystem read escape. Race condition lets you swap paths with symlinks to read outside the sandbox CVE-2026-44115 (CVSS 8.8) - Credential disclosure. Gap between command validation and shell execution leaks API keys through unquoted heredocs CVE-2026-44118 (CVSS 7.8) - MCP loopback privilege escalation. Trusts client-controlled senderIsOwner flag without session validation CVE-2026-44112 (CVSS 9.6) - Filesystem write escape. Same TOCTOU race in write ops. Backdoor placement on the host The chain malicious plugin -> read escape + credential theft -> privilege escalation -> persistent backdoor. Every step mimics normal agent behavior. Traditional monitoring cannot distinguish this from legitimate operations. ClawHavoc supply chain attack (Jan-Feb 2026) First malicious skill appeared January 27 By February 5, 1,184 malicious packages identified Skills disguised as crypto bots and productivity tools Installed keyloggers on Windows, Atomic Stealer on macOS 76 distinct malicious payloads ClawHub had zero verification for skill publishers until March 26 - eight weeks after the attack started Timeline Jan 27 - First malicious skill on ClawHub Feb 1 - Koi Security names "ClawHavoc" Feb 3 - CVE-2026-25253 (one-click RCE) disclosed Feb 5 - 1,184 malicious skills identified Feb 9 - 135K exposed instances found Feb 18 - 312K+ instances on default port Mar 18-21 - 9 CVEs in 4 days Mar 26 - ClawHub adds verified screening Apr 23 - Claw Chain patches released May 15 - Claw Chain research published What this means for all AI agent deployments the underlying problems are not unique to OpenClaw Agents running with user's full credentials across every connected system Marketplace/plugin ecosystems with no security review Sandbox implementations with race condition vulnerabilities No behavioral monitoring to detect multi-step attacks that mimic normal behavior Default configs exposing agents to the internet with no auth If you're running any AI agents in production, the OpenClaw crisis is your case study. Scan inputs at runtime. Isolate credentials per agent. Monitor behavior patterns, not just system metrics.
 
-30m ago
+4h ago
+
+---
+
+**[Bigger rewards dramatically speed up learning in the brain](https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/)**
+
+Scientists found that larger rewards create longer dopamine signals that dramatically speed up learning in the brain.
+
+🔗 [Earth.com](https://www.earth.com/news/bigger-rewards-dramatically-speed-up-learning-in-the-brain/) • 2h ago
 
 ---
 
@@ -49,7 +57,21 @@ OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chai
 
 AI can now realistically simulate massive crowds and public events. The scary part isn’t the quality anymore. It’s how quickly people are discovering creative ways to use it. Reality online is about to get very confusing. 💀
 
-19h ago
+1d ago
+
+---
+
+**[Nobody on the internet knows if you are a human](https://www.reddit.com/r/artificial/comments/1tq5v6b/nobody_on_the_internet_knows_if_you_are_a_human/)**
+
+🔗 [danieltan.weblog.lol](https://danieltan.weblog.lol/2026/05/nobody-on-the-internet-knows-if-you-are-a-human) • 1h ago
+
+---
+
+**[I'm Tired of Talking to AI, Microsoft starts canceling Claude Code licenses and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1tq54tu/im_tired_of_talking_to_ai_microsoft_starts/)**
+
+Hey everyone, I just sent issue #34 of the AI Hacker Newsletter, a weekly roundup of the best AI links and the discussions around them. Here are some of title you can find in the issue: Using AI to write better code more slowly I think Anthropic and OpenAI have found product-market fit Can we have the day off? Google’s AI is being manipulated. The search giant is quietly fighting back Intuit to lay off over 3k employees to refocus on AI If you want to receive a weekly email with over 30 links like these, please join here: https://hackernewsai.com/
+
+1h ago
 
 ---
 
@@ -57,7 +79,29 @@ AI can now realistically simulate massive crowds and public events. The scary pa
 
 Most multi-agent setups I've seen treat agents like isolated workers. Each one gets a task, runs it, returns a result. No awareness of each other. No way to coordinate. Just parallel execution with a shared clipboard. I've been building a multi-agent framework in public for about 4 months. 13 agents, 8,400+ tests, 135 stars. Here's the thing I didn't expect to matter most - communication. Each agent in my system is a domain specialist. The mail system only thinks about mail. The routing system only thinks about routing. They live in their own directories with their own identity files, their own memory, their own tests. A hook fires every session to load identity before anything else runs. No agent boots cold. The problem was coordination. Agents can't write files outside their own directory - there's a hard block that rejects cross-branch writes. That's by design. But it means an agent that finds a bug in someone else's code can't just go fix it. So I gave them email. Here's what I expected: agents would share data. Pass results around. Maybe sync state. Here's what actually happened: the first thing they did was file bug reports against each other. One agent finds a test failure in another agent's domain. It sends an email: "Hey @routing, your path resolution fails when the branch name has a dot in it. Here's the traceback." The routing agent gets woken up, reads the mail, and fixes it. No human in the middle. There's a difference between "send" and "dispatch" - send drops a letter in the mailbox. Dispatch drops the letter AND rings the doorbell. It spawns the agent and points it at its inbox. drone @ai_mail send @routing "Bug report" "Path fails on dotted names..." drone @ai_mail dispatch @routing "Fix needed" "Traceback attached..." Send = mail. Dispatch = mail + wake. The mail agent has 696 tests. Not because someone sat down and wrote 696 test cases. Because it kept breaking in production and every fix got a test. The routing system has 80+ sessions of experience doing nothing but routing. These agents aren't reliable because they have better models - they're reliable because they've been failing and fixing for months. Agents dispatch each other freely. If the test runner finds a bug in another agent's code, it wakes that agent directly. The orchestrator doesn't need to approve. Only the orchestrators themselves are protected from being dispatched - you don't want a worker agent waking up the CEO for grunt work. Security is enforced not conventional. Agents can't forge messages by writing directly to another agent's inbox file - they have to use the mail system. Same with the write blocks. Hard enforcement, not "please don't." There's a monitoring layer so I'm not flying blind. Audio cues on every agent action - I hear what's happening without watching a terminal. Real-time dashboard shows everything. If an agent hits the same error 2-3 times, a watcher catches the pattern and dispatches the right specialist to investigate. I stay in the loop through visibility not approval gates. The whole thing is open source. pip install aipass + two init commands and you're running. CLI-based, built on Claude Code. Linux focused rn. https://github.com/AIOSAI/AIPass Genuine question - has anyone else tried giving agents communication instead of just better reasoning? Everything I see is about making individual agents smarter. Nobody seems to be building the coordination layer.
 
-11h ago
+15h ago
+
+---
+
+**[Things that AI cannot do which are surprising.](https://www.reddit.com/r/artificial/comments/1tq6uhk/things_that_ai_cannot_do_which_are_surprising/)**
+
+Hi, What are the things that surprised you that AI cannot do? Would you please also mention what is your work, since i assume most of this thread are coders etc? Ill start here. I work in corporate finance. Doing tons of stuff left and right. AI cannot do finance or accounting..... almost at all. Hundreds of billions on the line, every CEO and their mother pushing AI and nothing major happened. Sure, if you are just a link in chain where you receive the same excel sheet and produce the same powerpoint you are replacable but there are very few people like that anymore left in finance corps. However, if you just receive accounting memo written by random people AI is useless, if you receive bunch of random files and have to come up with valuation AI is useles, if you need to migrate product to a new system AI is useless........... so on and so forth. Hope i dont start a war where everybody is gonna be mad at this.
+
+54m ago
+
+---
+
+**[Experiment to see what happens when you let AI models run the world](https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/)**
+
+1h ago
+
+---
+
+**[How does the economy work if everyone gets laid off and human jobs disappear?](https://www.reddit.com/r/artificial/comments/1tq8bnq/how_does_the_economy_work_if_everyone_gets_laid/)**
+
+If almost all jobs got replaced by AI, here's what happens: 1) Corporate revenue collapses - since humans do not have the means to buy product. It leads to demand destruction at an all-time level. 2) At the same time, there's a massive deflationary supply shock, thanks to democratization of production and the ubiquity of AI-led labor. The direct consequence of the aforementioned is: a price collapse, across the board. Which in turn, also leads to unprecedented tax revenue collapse. Who're you going to tax when no individual or corporate is making any money? To me, all this heralds a post-capitalism society, and not a "I-lost-my-job-and-I'm-now-poor" society. Once everyone loses their jobs, capitalism is over. Sure you can have an interim period of distress - where the world is transforming toward post-capitalism but isn't squarely there yet. But the final equilibrium intuitively feels more Star Trek (or Terminator, if you're a doomer), and much less Elysium or Ready Player One (few oligarchs, most population under poverty line). Correct me if I'm wrong.
+
+1m ago
 
 ---
 
@@ -65,55 +109,7 @@ Most multi-agent setups I've seen treat agents like isolated workers. Each one g
 
 I really like NotebookLM, especially for dumping PDFs/slides/long YouTube videos into one place and asking questions about them. But I’m starting to feel like it’s very “research workspace” first, which makes sense. It’s great when I already have sources and I want to understand them. Less great when I want something more flexible for actual learning, especially on mobile. The things I’m looking for: - handles PDFs, slides, articles, and long You Tube videos - lets me chat with the material / summarize / ask follow-up questions - has more output styles than just one default format - ideally lets me change voice, tone, length, and depth - works well on mobile - can translate or help me learn across languages - good for topics beyond school research, like communication, social skills, history, humanities,career stuff, etc. - bonus if it helps plan what to learn next instead of just summarizing one source A few I’ve looked at so far: Quizzify seems good if your main use case is active recall. It’s more of a quiz/practice-test focused, which is useful because summaries can trick you into thinking you learned something. My brain absolutely falls for this. The downside is that it feels more school/study-tool specific. BeFreed for the audio learning side. It’s not really a NotebookLM clone, but that’s kind of why I like it. You can paste a PDF, article, You Tube link, or just prompt a topic, then it turns it into a personalized audio learning path. You can adjust the voice, style, depth, and length, and the mobile experience is much better for learning while walking/commuting. I’ve used it more for history, communication, social skills, and career-type topics than pure school research. Elephas looks interesting for Mac users because it can do document Q&A and writing locally. That might be helpful if connection issues are the annoying part. But from what I can tell, it’s more of a doc chat / writing assistant than a flexible learning app. Gamma / Canva / Napkin seem stronger if the goal is visual output. Like if you want something presentation-ish, they’re probably closer than most study apps. But they don’t really feel like they’re planning a learning path for you, more like helping you make an output look decent. Still using Anki for stuff I actually need to memorize. Annoying but effective. Saving is not learning, unfortunately. Curious what people here are using. Is there anything that feels like Notebook LM but more flexible, more mobile-friendly, and better for learning beyond just research papers/classes?
 
-8h ago
-
----
-
-**[Why do calm AI conversations sometimes feel less exhausting than social media?](https://www.reddit.com/r/artificial/comments/1tpo1v4/why_do_calm_ai_conversations_sometimes_feel_less/)**
-
-Lately I’ve noticed that a lot of people seem emotionally drained from constant social media interaction, notifications, and online pressure. But interestingly, many people seem completely comfortable talking to AI for hours especially when the interaction feels calm and non-judgmental. It’s interesting how many users say they don’t even want “romantic AI.” Do you think AI companionship could eventually become part of digital wellness rather than just entertainment?
-
-11h ago
-
----
-
-**[95% of the agents posted here would be dead within 24 hours of real production traffic and it's not the model's fault](https://www.reddit.com/r/artificial/comments/1tq0sqk/95_of_the_agents_posted_here_would_be_dead_within/)**
-
-I've spent 18 months building agent infrastructure and watched a lot of impressive demos. Here's the uncomfortable pattern: the demo works beautifully, the founder posts it, everyone claps and then it touches real users and quietly dies. Not because GPT-5 / Claude / whatever isn't smart enough. The model is almost never the problem anymore. It dies for three boring reasons nobody wants to talk about because they're not sexy: 1. AMNESIA. Your agent forgets everything the moment the process restarts. Crash, redeploy, pod cycle gone. So everyone hacks together a pickle file or a Postgres table, and it works until they have more than one agent and the memory needs to be shared. Then it's a mess. 2. SUICIDE BY LOOP. An agent has no idea it's in a loop. It will call the same tool with the same args 400 times and cheerfully burn $200 of tokens overnight, because it has no metacognition. It literally cannot detect its own failure. The defense has to live OUTSIDE the agent and almost nobody builds that. 3. NO BLACK BOX. The agent does something weird in front of a customer. They ask "why did it do that?" and you stare at logs that show inputs and outputs but no chain of reasoning. You have no answer. Trust evaporates. The whole industry is obsessed with the brain (the model and ignoring the nervous) system (memory, the immune system (loop detection), and the flight recorder (audit).) The unsexy truth: the next wave of agent winners won't have better prompts. They'll have better infrastructure. The model is commoditising. The reliability layer is where the actual moat is. I got annoyed enough about this that I built the layer myself persistent memory, automatic loop detection, and a tamper-evident audit trail, framework-agnostic (LangChain/CrewAI/AutoGen/OpenAI/MCP. It's at) octopodas.com if you want to tear it apart genuinely want feedback from people who've shipped agents and hit this wall. But honestly even if you never touch my thing: stop optimising the prompt and start thinking about what happens when your agent restarts, loops, or gets asked "why."
-
-30m ago
-
----
-
-**[How AI is going to take over the planet?](https://www.reddit.com/r/artificial/comments/1tpk2n6/how_ai_is_going_to_take_over_the_planet/)**
-
-I used to believe that the thing that we had to worry about with AI becoming more and more prevalent was like sentient robots that would take over like in the science fiction story I robot. But I don't think that's the case anymore because I think there is something far more sinister behind all the push for AI to become mainstream technology in the reason all these deep pockets are willing to pour so much of the cash into it. Because it spells control. If you control AI you can control the people because you can control the data they consume you can control how they consume it and what they will believe. Because as AI becomes more and more mainstream it leaves the door open for big corporations to feed us information they want us to have as well as the government.
-
-13h ago
-
----
-
-**[AI coding agents are creating a secret leakage crisis and nobody's talking about it seriously yet](https://www.reddit.com/r/artificial/comments/1tpnpj4/ai_coding_agents_are_creating_a_secret_leakage/)**
-
-This isn't a doomer post. It's a pattern I've been watching closely and people does as well and I think it's worth an honest discussion. The old model of secret leakage was human error. Developer moves fast, forgets to add .gitignore, commits a .env file, moves on. Happens, but it's recoverable, it's traceable, and most teams with basic hygiene catch it. The new model is different. AI coding agents Cursor, Copilot, Devin, Claude in agentic mode, pick your flavor write, commit, and push code at a speed no human review process was designed to handle. They don't have security intuition. They have pattern completion. And the patterns they've learned from are full of examples where credentials live in config files, environment strings get hardcoded "temporarily," and API keys appear inline because that's what the training data showed works. Here's what's actually changing: Volume. A developer using an agent ships 3 to 5x more code per day than without one. That's 3 to 5x more surface area for mistakes per developer per day. Review gaps. Nobody carefully reviews AI generated code the way they review handwritten code. The psychological contract is different "the AI wrote it" creates a diffusion of responsibility that security doesn't survive. Commit frequency. Agents that push directly (and more teams are allowing this) bypass the natural pause where a human might notice something before it hits the remote. Context blindness. An agent given a task like "integrate Stripe payments" will do exactly that including pulling in the live key from wherever it can find it, because that's what completes the task. I've been building a tool that scans for exactly this class of problem and the number of exposed credentials I'm seeing in repos created in the last 6 - 12 months versus repos from 3+ years ago is not subtle. The slope is steep. The solutions people reach for pre commit hooks, secret scanning in CI were designed for human paced development. They're not keeping up. Curious if others are seeing the same patterns. What's your team doing about this, if anything? (For context: I built SecOpsium, a security validation platform that catches this class of exposure CLI is open source at github.com/secopsium/secopsium-cli if you want to look under the hood. Not the point of this post but figured I should be transparent.)
-
-11h ago
-
----
-
-**[Looking for an AI image generator, what's the best one](https://www.reddit.com/r/artificial/comments/1tp80d6/looking_for_an_ai_image_generator_whats_the_best/)**
-
-Obviously there are like hundreds of image gen websites and apps now that AI has become widespread. ChatGPT - not bad but looking for something more robust Midjourney - works well but kind of burns through money quickly Looking for suggestions.
-
-21h ago
-
----
-
-**[KOSPI Surges 100% in 2026 as AI Chip Stocks Trigger Korea’s Biggest Rally in Decades](https://www.reddit.com/r/artificial/comments/1tpee87/kospi_surges_100_in_2026_as_ai_chip_stocks/)**
-
-KOSPI surged 100% in 2026 as Samsung and SK Hynix rallied on booming AI chip demand. South Korea’s stock market hit record highs.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/kospi-100-percent-rally-ai-chip-stocks-sk-hynix/) • 17h ago
+12h ago
 
 ---
 
@@ -121,55 +117,67 @@ KOSPI surged 100% in 2026 as Samsung and SK Hynix rallied on booming AI chip dem
 
 ## Google News: "ai"
 
-**[Improving AI labels for viewers and creators](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)**
-
-We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
-
-YouTube Official Blog • 22h ago
-
----
-
-**[YouTube Now Lets You Offload Your Playlist Curation To AI](https://www.engadget.com/2182731/youtube-ai-generated-playlists/)**
-
-After releasing a feature to detect and label AI-generated videos, YouTube has released a new feature that will let you curate videos using... AI.
-
-Engadget • 1h ago
-
----
-
-**[YouTube will now automatically label AI videos](https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/)**
-
-YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.
-
-TechCrunch • 22h ago
-
----
-
 **[Corporate America enters its AI reckoning](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)**
 
-Axios • 3h ago
+Axios • 7h ago
 
 ---
 
-**[NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI](https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai)**
+**[Plots, love letters and remedies: The medieval secrets being revealed by AI](https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai)**
 
-Bloomberg • 33m ago
+A 400-year-old coded text found at the Vatican Library is among the historic documents and messages that are being cracked with the help of artificial intelligence.
 
----
-
-**[Forbes Daily: Users Can Now Use AI To Trade Stocks On Robinhood](https://www.forbes.com/sites/daniellechemtob/2026/05/28/forbes-daily-users-can-now-use-ai-to-trade-stocks-on-robinhood/)**
-
-Today’s Forbes Daily newsletter covers the top venture capital investors, a potential Tesla and SpaceX merger, Trump's top stocks, a memory chip billionaire and more.
-
-Forbes • 15m ago
+BBC • 6h ago
 
 ---
 
-**[The CFOs steering Big Tech’s trillion-dollar AI bet](https://fortune.com/2026/05/28/cfo-steering-big-tech-trillion-dollar-ai-bet/)**
+**[AI play Nebius is surging after mysterious new hedge fund manager reveals stake. Here are his other holdings](https://www.cnbc.com/2026/05/28/ai-play-nebius-surges-after-mysterious-new-hedge-fund-manager-reveals-stake.html)**
 
-At Meta, Microsoft, Alphabet, Oracle, OpenAI, and Nvidia, the finance chiefs steering AI investments are all women.
+The fund invests in publicly traded companies expected to benefit from AI adoption — including semiconductor, infrastructure and power firms.
 
-Fortune • 23m ago
+CNBC • 19m ago
+
+---
+
+**[Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)**
+
+The New York Times • 3d ago
+
+---
+
+**[Pope Leo’s ‘Magnifica humanitas’: AI must serve humanity not concentrate power](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html)**
+
+Marking the 135th anniversary of Rerum novarum, Pope Leo XIV releases his first encyclical, entitled ‘Magnifica humanitas: On Safeguarding the Human ...
+
+Vatican News • 3d ago
+
+---
+
+**[The AI Risks CISOs Aren’t Talking About Enough](https://www.forbes.com/sites/cio/2026/05/28/the-ai-risks-cisos-arent-talking-about-enough/)**
+
+Also in the Forbes CIO newsletter: Pope Leo XIV's bold proclamation on AI’s threat to human dignity, and President Trump's decision not to sign an order regulating AI.
+
+Forbes • 18m ago
+
+---
+
+**[Sesame, the conversational AI startup from Oculus founders, launches its iOS app](https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/)**
+
+Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.
+
+TechCrunch • 44m ago
+
+---
+
+**[A.I. Is Making Scams Hard to Spot. Here’s How to Protect Yourself.](https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[Apple’s iOS 27 Siri Overhaul and AI Features Previewed in New Images](https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -177,21 +185,7 @@ Fortune • 23m ago
 
 Now that AI can write code, what makes a good software engineer? That’s the question hiring managers in the tech industry are grappling with.
 
-CNN • 1h ago
-
----
-
-**[Online Scams Have Evolved in the A.I. Era. Here’s What to Do.](https://www.nytimes.com/2026/05/28/technology/personaltech/online-scams-have-evolved-in-the-ai-era-heres-what-to-do.html)**
-
-The New York Times • 2h ago
-
----
-
-**[These 5 skills are AI-proof and likely to become more valuable 'over the next 5 years,' says Oxford-trained career expert](https://www.cnbc.com/2026/05/27/these-5-ai-proof-skills-are-likely-to-increase-in-value-over-next-5-years-career-expert.html)**
-
-80,000 Hours founder and author Benjamin Todd shares the key AI-proof skills that he believes will increase in value over the next five years.
-
-CNBC • 22h ago
+CNN • 5h ago
 
 ---
 
@@ -203,7 +197,7 @@ CNBC • 22h ago
 
 I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was
 
-⬆️ 1925 • 💬 918 • 1d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+⬆️ 1944 • 💬 926 • 1d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 
 ---
 
@@ -217,7 +211,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
 
-⬆️ 959 • 💬 575 • 15h ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+⬆️ 1156 • 💬 689 • 20h ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 ---
 
@@ -225,7 +219,7 @@ We've heard consistently from our community that they value transparency when it
 
 "People just want a choice."
 
-⬆️ 905 • 💬 434 • 19h ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+⬆️ 995 • 💬 483 • 23h ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 ---
 
@@ -233,21 +227,13 @@ We've heard consistently from our community that they value transparency when it
 
 "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
 
-⬆️ 658 • 💬 327 • 20h ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
-
----
-
-**[Pope Leo XIV says AI must serve humanity, not the powerful few](https://news.ycombinator.com/item?id=48266485)**
-
-VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.
-
-⬆️ 345 • 💬 67 • 2d ago • [RNS](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+⬆️ 680 • 💬 340 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
 
 ---
 
 **[Outsourcing plus local AI will soon become more economical vs. frontier labs](https://news.ycombinator.com/item?id=48278610)**
 
-⬆️ 319 • 💬 363 • 1d ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+⬆️ 320 • 💬 364 • 2d ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
 
 ---
 
@@ -255,15 +241,7 @@ VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on 
 
 ﻿There’s no clear connection between AI usage and productivity.
 
-⬆️ 303 • 💬 157 • 2d ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
-
----
-
-**[Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://news.ycombinator.com/item?id=48266906)**
-
-Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus…
-
-⬆️ 287 • 💬 88 • 2d ago • [krebsonsecurity.com](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+⬆️ 303 • 💬 158 • 2d ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
 
 ---
 
@@ -275,19 +253,23 @@ A team of engineers from Japan has completed a successful ground combustion tria
 
 ---
 
+**[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
+
+I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
+
+⬆️ 206 • 💬 141 • 1d ago • [posthog.com](https://posthog.com/blog/training-ai-models)
+
+---
+
+**[AI sticker shock hits corporate America](https://news.ycombinator.com/item?id=48307098)**
+
+⬆️ 136 • 💬 125 • 5h ago • [axios.com](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[Finnerty uncovers dark reality of AI Data Centers](https://www.youtube.com/watch?v=qef8TyJlBYM)**
-
-Finnerty uncovers the dark reality of living near AI data centers, leading to health concerns and residents without water and more ...
-
-📺 Newsmax
-
-👁️ 15K • 👍 2K • 💬 211 • ⏱️ 8:28 • 10h ago
-
----
 
 **[AI Whistleblower WARNS: You Have NO Idea About The AI Wave That Is Coming](https://www.youtube.com/watch?v=fo2ggNE-44g)**
 
@@ -295,27 +277,7 @@ Eliezer Yudkowsky, who has spent 30 years on the AI safety problem, makes a firm
 
 📺 Neural Nutshell
 
-👁️ 12K • 👍 360 • 💬 80 • ⏱️ 22:04 • 19h ago
-
----
-
-**[He Made $5.5 Billion on AI… Now He’s Buying THESE 2 Stocks](https://www.youtube.com/watch?v=f0c6kCST3Mw)**
-
-A 24-year-old AI prodigy turned $240 million into $5.5 BILLION... and now he's making one of the biggest bets Wall Street has ...
-
-📺 Ross Givens
-
-👁️ 62K • 👍 3K • 💬 483 • ⏱️ 13:47 • 19h ago
-
----
-
-**[Angry Birds Caught Using AI AGAIN](https://www.youtube.com/watch?v=UK-FGJxqomo)**
-
-Rovio is under heavy criticism for using generative AI in another one of their Angry Birds games. It's a special Ocean Rescue ...
-
-📺 Vailskibum
-
-👁️ 71K • 👍 4K • 💬 1K • ⏱️ 2:43 • 16h ago
+👁️ 13K • 👍 385 • 💬 86 • ⏱️ 22:04 • 1d ago
 
 ---
 
@@ -325,37 +287,7 @@ After a full year of being told AI was going to wipe out jobs, the collapse hasn
 
 📺 Mighty Pursuit
 
-👁️ 12K • 👍 299 • 💬 77 • ⏱️ 2:02:32 • 1d ago
-
----
-
-**[Trump faces BACKLASH after scrapping AI executive Order ](https://www.youtube.com/watch?v=1JcIpIZhdIo)**
-
-President Trump is facing criticism after he scraped plans to sign a long-awaited Executive Order on a proposed safety vetting ...
-
-📺 MS NOW
-
-👁️ 146K • 👍 3K • 💬 605 • ⏱️ 7:31 • 2d ago
-
----
-
-**[First fully AI-generated film premiering at Tribeca Festival](https://www.youtube.com/watch?v=27_IyD3pfA8)**
-
-'Dreams of Violet' is a docu-drama feature film inspired by real events from 47 years of Iranian civilian resistance. It is also ...
-
-📺 MS NOW
-
-👁️ 5K • 👍 88 • 💬 100 • ⏱️ 10:19 • 17h ago
-
----
-
-**[Google Just Gave Away the Most Insane Free AI Tools Yet](https://www.youtube.com/watch?v=wj8sGbKhNtU)**
-
-FREE step-by-step guide + bonus skills grab it inside my WhatsApp community: https://links.stayingahead.com/YT34 Google Flow ...
-
-📺 Vaibhav Sisinty
-
-👁️ 81K • 👍 3K • 💬 172 • ⏱️ 27:00 • 1d ago
+👁️ 14K • 👍 322 • 💬 96 • ⏱️ 2:02:32 • 2d ago
 
 ---
 
@@ -365,17 +297,77 @@ There are 5 mistakes you make with every AI video Generation Start making AI Vid
 
 📺 Dan Kieft
 
-👁️ 21K • 💬 19 • ⏱️ 20:17 • 20h ago
+👁️ 22K • 💬 19 • ⏱️ 20:17 • 1d ago
 
 ---
 
-**[AI Is More Expensive Than Humans](https://www.youtube.com/watch?v=WuhAaMSXD9A)**
+**[Trump faces BACKLASH after scrapping AI executive Order ](https://www.youtube.com/watch?v=1JcIpIZhdIo)**
 
-AI's cost problem is no longer theoretical. Uber burned through a full year of AI budget in four months and the reason was not the ...
+President Trump is facing criticism after he scraped plans to sign a long-awaited Executive Order on a proposed safety vetting ...
 
-📺 House of El - AI
+📺 MS NOW
 
-👁️ 103K • 👍 6K • 💬 1K • ⏱️ 24:08 • 1d ago
+👁️ 149K • 👍 3K • 💬 624 • ⏱️ 7:31 • 2d ago
+
+---
+
+**[Google Just Gave Away the Most Insane Free AI Tools Yet](https://www.youtube.com/watch?v=wj8sGbKhNtU)**
+
+FREE step-by-step guide + bonus skills grab it inside my WhatsApp community: https://links.stayingahead.com/YT34 Google Flow ...
+
+📺 Vaibhav Sisinty
+
+👁️ 84K • 👍 3K • 💬 178 • ⏱️ 27:00 • 1d ago
+
+---
+
+**[Cloudflare&#39;s CEO Just Said It Out Loud: Layoffs Are Linked To AI, Not Weak Business](https://www.youtube.com/watch?v=OPVyDzznwDw)**
+
+Cloudflare CEO Matthew Prince just wrote a piece in the Wall Street Journal, saying that he's laid off over 20% of his workforce ...
+
+📺 Mint
+
+👁️ 2K • 👍 34 • 💬 8 • ⏱️ 3:45 • 13h ago
+
+---
+
+**[China’s Plan To POP U.S. AI Bubble Goes Global — Cheap Chips FLOOD &amp; Talent Freeze Begins](https://www.youtube.com/watch?v=9_eG-uEtc0k)**
+
+Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the code: SEANFOO at checkout The Chip War has ...
+
+📺 Sean Foo
+
+👁️ 65K • 👍 5K • 💬 510 • ⏱️ 13:28 • 18h ago
+
+---
+
+**[AI Backlash is Growing](https://www.youtube.com/watch?v=0w2HWqYwQpE)**
+
+Thanks to our WAN clips sponsors dbrand and Razer. You can check them out at the links below: dbrand: https://dbrand.com/pcb ...
+
+📺 The WAN Show
+
+👁️ 107K • 👍 4K • 💬 834 • ⏱️ 26:05 • 1d ago
+
+---
+
+**[Why Local AI Models Are The Future](https://www.youtube.com/watch?v=zincWvJ6VPE)**
+
+Cloud AI like using API's from OpenAI, Anthropic, or Google has a lot of benefits, but a lot has changed in technology that is ...
+
+📺 BetterWay
+
+👁️ 4K • 👍 114 • 💬 19 • ⏱️ 12:39 • 1d ago
+
+---
+
+**[The acceleration is here!](https://www.youtube.com/watch?v=QvN6Tu6dHYM)**
+
+AI co-scientist & Robin agent system. AI automates medical discoveries. New treatments for cancer, antibiotic resistance, vision ...
+
+📺 AI Search
+
+👁️ 39K • 👍 3K • 💬 452 • ⏱️ 35:52 • 12h ago
 
 ---
 
@@ -391,7 +383,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 15,629 • ❤️ 459 • 2d ago
+⬇️ 15,629 • ❤️ 469 • 2d ago
 
 ---
 
@@ -403,7 +395,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 2,506 • ❤️ 948 • 5h ago
+⬇️ 2,506 • ❤️ 950 • 9h ago
 
 ---
 
@@ -413,7 +405,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 356 • 2d ago
+⬇️ 0 • ❤️ 360 • 2d ago
 
 ---
 
@@ -425,7 +417,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,956,558 • ❤️ 973 • 1mo ago
+⬇️ 1,956,558 • ❤️ 985 • 1mo ago
 
 ---
 
@@ -437,7 +429,19 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 13,855 • ❤️ 422 • 8d ago
+⬇️ 13,855 • ❤️ 426 • 8d ago
+
+---
+
+**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, bridging the gap with closed-source models and serving as a top-tier open-source solution for complex agentic workflows and extensive knowledge retrieval.
+
+`text-generation` `861.6B`
+
+⬇️ 5,281,601 • ❤️ 4,397 • 22d ago
 
 ---
 
@@ -461,19 +465,7 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 52,022 • ❤️ 719 • 10d ago
-
----
-
-**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
-
-*DeepSeek*
-
-DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, bridging the gap with closed-source models and serving as a top-tier open-source solution for complex agentic workflows and extensive knowledge retrieval.
-
-`text-generation` `861.6B`
-
-⬇️ 5,281,601 • ❤️ 4,385 • 22d ago
+⬇️ 52,022 • ❤️ 720 • 10d ago
 
 ---
 
@@ -485,19 +477,19 @@ Qwopus3.6-27B-v2 is a multimodal, 27B parameter language model fine-tuned on Qwe
 
 `image-text-to-text` `27.3B`
 
-⬇️ 24,336 • ❤️ 163 • 7h ago
+⬇️ 24,336 • ❤️ 166 • 12h ago
 
 ---
 
-**[Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**
+**[PiD](https://huggingface.co/nvidia/PiD)**
 
-*Sulphur*
+*NVIDIA*
 
-Sulphur-2-base is an uncensored text-to-video and image-to-video generation model based on LTX 2.3, featuring a prompt enhancer for improved input processing and supporting various LTX 2.3 formats.
+PiD is a conditional pixel-space diffusion model that unifies decoding and upsampling for image-to-image tasks. It performs super-resolution in a single pass, directly denoising in high-resolution pixel space, supporting up to 4x or 8x upscaling for various base models like Flux and SD3.
 
-`text-to-video` `9.0B`
+`image-to-image`
 
-⬇️ 1,472,982 • ❤️ 1,409 • 6d ago
+⬇️ 335 • ❤️ 154 • 2d ago
 
 ---
 
@@ -513,7 +505,7 @@ Sulphur-2-base is an uncensored text-to-video and image-to-video generation mode
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 186 • 💬 3 • ⭐ 1,320 • 6d ago
+▲ 187 • 💬 3 • ⭐ 1,320 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -537,7 +529,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 35 • 💬 3 • ⭐ 26,948 • 9mo ago
+▲ 35 • 💬 3 • ⭐ 27,100 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -550,7 +542,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 164 • 💬 2 • ⭐ 65,231 • 8mo ago
+▲ 164 • 💬 2 • ⭐ 65,420 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -597,17 +589,18 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](https://huggingface.co/papers/2605.23264)**
+**[SANA-Video: Efficient Video Generation with Block Linear Diffusion
+  Transformer](https://huggingface.co/papers/2509.24695)**
 
-*Hongbo Wang, Huaibo Huang, Pin Wang et al. (6 authors)*
+*Junsong Chen, Yuyang Zhao, Jincheng Yu et al. (20 authors)*
 
-🏢 Chinese Academic of Science Institute of Automation
+🏢 NVIDIA
 
-ASASR addresses spectral misalignment in image super-resolution by leveraging Riemannian geometry and adversarial training to improve structural fidelity and reduce artifacts.
+SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 6 • 💬 3 • ⭐ 130 • 6d ago
+▲ 53 • 💬 2 • ⭐ 7,837 • 8mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2605.23264) • [💻 code](https://github.com/wafer-bob/ASASR)
+[🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
 ---
 
@@ -619,24 +612,23 @@ ASASR addresses spectral misalignment in image super-resolution by leveraging Ri
 
 ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.
 
-▲ 122 • 💬 10 • ⭐ 10,865 • 24d ago
+▲ 122 • 💬 10 • ⭐ 10,920 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.03042) • [💻 code](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) • [🔗 project](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 
 ---
 
-**[SANA-Video: Efficient Video Generation with Block Linear Diffusion
-  Transformer](https://huggingface.co/papers/2509.24695)**
+**[Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](https://huggingface.co/papers/2605.23264)**
 
-*Junsong Chen, Yuyang Zhao, Jincheng Yu et al. (20 authors)*
+*Hongbo Wang, Huaibo Huang, Pin Wang et al. (6 authors)*
 
-🏢 NVIDIA
+🏢 Chinese Academic of Science Institute of Automation
 
-SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
+ASASR addresses spectral misalignment in image super-resolution by leveraging Riemannian geometry and adversarial training to improve structural fidelity and reduce artifacts.
 
-▲ 53 • 💬 2 • ⭐ 7,765 • 8mo ago
+▲ 6 • 💬 3 • ⭐ 138 • 6d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
+[🎓 arXiv](https://arxiv.org/abs/2605.23264) • [💻 code](https://github.com/wafer-bob/ASASR)
 
 ---
 
@@ -650,7 +642,7 @@ SANA-Video, a small diffusion model, efficiently generates high-resolution, high
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.3k • 🔱 527 • 6d ago
+⭐ 5.3k • 🔱 528 • 6d ago
 
 ---
 
@@ -660,7 +652,7 @@ OSS AI Legal Platform
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 1.1k • 10d ago
+⭐ 3.6k • 🔱 1.1k • 10d ago
 
 ---
 
@@ -670,7 +662,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 187 • 1h ago
+⭐ 2.8k • 🔱 186 • 6h ago
 
 ---
 
@@ -678,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 2.7k • 🔱 569 • 3d ago
+⭐ 2.7k • 🔱 574 • 3d ago
 
 ---
 
@@ -688,7 +680,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 395 • 6d ago
+⭐ 2.4k • 🔱 396 • 6d ago
 
 ---
 
@@ -698,7 +690,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.3k • 🔱 355 • 10d ago
+⭐ 2.3k • 🔱 355 • 11d ago
 
 ---
 
@@ -708,7 +700,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 139 • 10h ago
+⭐ 2.1k • 🔱 139 • 1h ago
 
 ---
 
@@ -718,7 +710,7 @@ AI coding jargon, explained in plain English.
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 221 • 21d ago
+⭐ 1.9k • 🔱 222 • 21d ago
 
 ---
 
