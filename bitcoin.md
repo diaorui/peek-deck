@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-28T08:27:03.047692+00:00'
+updated: '2026-05-28T11:58:46.480623+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 28, 2026 at 08:27 UTC  
+**Last Updated:** May 28, 2026 at 11:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,412.05
+### $73,522.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
-**7d:** -3.0%  
-**30d:** -3.3%  
-**90d:** +9.5%  
-**1y:** -30.6%  
+**24h:** -2.9%  
+**7d:** -2.7%  
+**30d:** -3.0%  
+**90d:** +9.8%  
+**1y:** -30.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1466.43B
+**Market Cap:** $1469.88B
 Rank #1
 
-**Circulating Supply:** 20,035,509 BTC
+**Circulating Supply:** 20,035,618 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--41.9%
+-41.8%
 
 **All-Time Low:** $67.81
-+107841.3%
++108131.8%
 
 ---
 
@@ -77,59 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[this is why i don’t trust banks anymore](https://www.reddit.com/r/Bitcoin/comments/1tpvtav/this_is_why_i_dont_trust_banks_anymore/)**
-
-bank pulled $1200 out of my account by mistake. same second, account goes negative, they slap me with $70 in overdraft interest. called them. “oh sorry, our bad.” got the $1200 back. the $70? still waiting. been weeks. their mistake. my money. and somehow i’m the one out 70 bucks. this is why i’m stacking sats.
-
-1h ago
-
----
-
 **[All the banks are broke, but why?](https://www.reddit.com/r/Bitcoin/comments/1tpnc6y/all_the_banks_are_broke_but_why/)**
 
 Why are banks broke? This is why: Fractional reserve banking. If everyone walks into the bank on the same day to demand their cash back, the bank physically will not have enough money on hand to pay everyone.
-
-8h ago
-
----
-
-**[THEY CALL IT “LUCK”](https://www.reddit.com/r/Bitcoin/comments/1tpiqgh/they_call_it_luck/)**
-
-They only see the finish line. They never see the nights full of doubt, the crashes, the fear, the pressure, the losses, the waiting, the discipline. They don’t see the blood on the climb. They don’t feel the weight of every step through the bear market, the FUD, and the chaos. So when someone finally makes it… the crowd says: “He got lucky.” No. He just refused to stop climbing. The market rewards conviction long before it rewards results. 🚀
 
 11h ago
 
 ---
 
-**[Daily Discussion, May 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1tpuyc5/daily_discussion_may_28_2026/)**
+**[this is why i don’t trust banks anymore](https://www.reddit.com/r/Bitcoin/comments/1tpvtav/this_is_why_i_dont_trust_banks_anymore/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+bank pulled $1200 out of my account by mistake. same second, account goes negative, they slap me with $70 in overdraft interest. called them. “oh sorry, our bad.” got the $1200 back. the $70? still waiting. been weeks. their mistake. my money. and somehow i’m the one out 70 bucks. this is why i’m stacking sats.
 
-2h ago
-
----
-
-**[⚡ Lightning Thursday! May 28, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1tpw1xq/lightning_thursday_may_28_2026_explore_the/)**
-
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
-
-1h ago
-
----
-
-**[We’re still early](https://www.reddit.com/r/Bitcoin/comments/1tpacf1/were_still_early/)**
-
-This is how a not insubstantial amount of people think we arrived where we are today. What would it take for them to see reckless money printing as the root cause? I don’t know, but I’m open to suggestions.
-
-16h ago
-
----
-
-**[Can’t buy Bitcoin with 401k](https://www.reddit.com/r/Bitcoin/comments/1tpujmu/cant_buy_bitcoin_with_401k/)**
-
-So naturally I will be buying bitcoin etf. My question is should I go with BITB or IBIT? And why
-
-2h ago
+5h ago
 
 ---
 
@@ -137,7 +97,55 @@ So naturally I will be buying bitcoin etf. My question is should I go with BITB 
 
 Most of us have been in this situation: you want to share a Bitcoin address on your website, your Nostr profile, or your email signature — but you know that a static address is a privacy nightmare. Anyone can see every payment you've ever received. Silent Payments solve this elegantly. One static address (sp1q...), every payment lands on a different on-chain address, completely unlinkable. No centralized servers, no notification transactions, no coordination with the sender. Just cryptography. I wrote a full technical breakdown covering how the ECDH derivation works, current wallet support (Cake Wallet, Dana, BlindBit, Sparrow), the scanning tradeoff, and how it compares to BIP47/PayNym. https://davidebtc186.substack.com/p/silent-payments-bip352-the-complete
 
-1h ago
+4h ago
+
+---
+
+**[THEY CALL IT “LUCK”](https://www.reddit.com/r/Bitcoin/comments/1tpiqgh/they_call_it_luck/)**
+
+They only see the finish line. They never see the nights full of doubt, the crashes, the fear, the pressure, the losses, the waiting, the discipline. They don’t see the blood on the climb. They don’t feel the weight of every step through the bear market, the FUD, and the chaos. So when someone finally makes it… the crowd says: “He got lucky.” No. He just refused to stop climbing. The market rewards conviction long before it rewards results. 🚀
+
+14h ago
+
+---
+
+**[⚡ Lightning Thursday! May 28, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1tpw1xq/lightning_thursday_may_28_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+4h ago
+
+---
+
+**[Daily Discussion, May 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1tpuyc5/daily_discussion_may_28_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
+
+---
+
+**[We’re still early](https://www.reddit.com/r/Bitcoin/comments/1tpacf1/were_still_early/)**
+
+This is how a not insubstantial amount of people think we arrived where we are today. What would it take for them to see reckless money printing as the root cause? I don’t know, but I’m open to suggestions.
+
+19h ago
+
+---
+
+**[Can’t buy Bitcoin with 401k](https://www.reddit.com/r/Bitcoin/comments/1tpujmu/cant_buy_bitcoin_with_401k/)**
+
+So naturally I will be buying bitcoin etf. My question is should I go with BITB or IBIT? And why
+
+6h ago
+
+---
+
+**[Kraken Launches Bitcoin Vault With up to 2.5% Annual Yield](https://www.reddit.com/r/Bitcoin/comments/1tq12y0/kraken_launches_bitcoin_vault_with_up_to_25/)**
+
+Kraken launched Bitcoin Vault, offering up to 2.5% annual BTC yield through integrated DeFi lending.
+
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/kraken-bitcoin-vault-yield) • 17m ago
 
 ---
 
@@ -145,15 +153,7 @@ Most of us have been in this situation: you want to share a Bitcoin address on y
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=zpQw35NLgHg) • 13h ago
-
----
-
-**[Made it to .01](https://www.reddit.com/r/Bitcoin/comments/1toxg5d/made_it_to_01/)**
-
-Feel like I’m late to the party but been stacking for approximately 6 months. Just hit .01 give me some love.
-
-1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=zpQw35NLgHg) • 16h ago
 
 ---
 
@@ -165,39 +165,59 @@ Feel like I’m late to the party but been stacking for approximately 6 months. 
 
 Memory chip stocks are attracting capital and attention as crypto markets settle into apathy.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Amid a scam crackdown, crypto giants keep fueling bitcoin ATMs - International Consortium of Investigative Journalists](https://www.icij.org/investigations/coin-laundry/amid-a-scam-crackdown-crypto-giants-keep-fueling-bitcoin-atms/)**
+**[Bitcoin falls to $75,000 as token decouples from tech rally](https://finance.yahoo.com/markets/crypto/article/bitcoin-falls-to-75000-as-token-decouples-from-tech-rally-133920137.html)**
 
-As governments seek to ban the machines, bitcoin ATMs remain entwined with cryptocurrency industry's most mainstream players.
+Bitcoin dropped roughly 2% on Wednesday to hover near $75,500 per token.
 
-International Consortium of Investigative Journalists - ICIJ • 1d ago
-
----
-
-**[Fold CEO says 'partners don't bat an eye' when Bitcoin drops 50%](https://sg.finance.yahoo.com/news/fold-ceo-says-partners-dont-061134787.html)**
-
-Fold just rolled out its long-awaited Bitcoin rewards credit card this month, and CEO Will Reeves is already telling investors the consumer card is only step one. Step two is putting Bitcoin payroll, treasury, and corporate cards in front of every business owner who already uses Fold at home. After ...
-
-Yahoo Finance Singapore • 2h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Bitcoin Dips Below $73K To Six-Week Low Even As Trump Declares US ‘Crypto Capital Of The World'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-below-73k-six-060153245.html)**
+**[Bitcoin (BTC) Falls to Five-Week Low Amid Iran War Jitters, ETF Outflows](https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows)**
 
-The world’s largest cryptocurrency fell 3.5% to $72,885 during Asian trading hours, marking its weakest level since mid April.
-
-Yahoo Finance • 2h ago
+Bloomberg • 1h ago
 
 ---
 
-**[Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fresh Iran Strikes](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-today-bitcoin-073437045.html)**
+**[Bitcoin falls below $73,000 as BlackRock's BTC ETF sees second-largest outflows since debut](https://www.theblock.co/post/402816/bitcoin-falls-below-73000)**
 
-The crypto market is deep in the red this morning. The total market is down more than 3% in a day, and Bitcoin (CRYPTO: BTC) has slipped under $73,000 for the first time in the past few weeks. The spark was a fresh round of U.S. airstrikes on Iran, which sent investors running from anything ... Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fresh Iran Strikes
+Spot BTC ETFs saw their largest outflows on Wednesday since late January, with IBIT posting its second-biggest daily net outflow on record.
 
-Yahoo Finance • 52m ago
+The Block • 5h ago
+
+---
+
+**[Strategy Inc (MSTR) Stock Outlook Improves as Bitcoin Exposure Expands](https://finance.yahoo.com/markets/crypto/articles/strategy-inc-mstr-stock-outlook-113430049.html)**
+
+We recently compiled a list of the 12 Best Strong Buy Tech Stocks to Invest In Now. Strategy Inc (NASDAQ:MSTR) is among the best Strong Buy stocks on this list. TheFly reported on May 19 that TD Cowen increased its price target on MSTR to $400 from $395 while maintaining a Buy rating on the shares. The […]
+
+Yahoo Finance • 24m ago
+
+---
+
+**[CME ends bitcoin weekend gaps with launch of 24/7 futures trading from Friday](https://www.coindesk.com/markets/2026/05/28/bitcoin-s-famous-cme-gaps-are-about-to-disappear-though-three-remain-unresolved)**
+
+The launch of round-the-clock bitcoin futures trading eliminates the long-standing CME weekend gap and marks another step toward fully integrated institutional crypto markets.
+
+CoinDesk • 1h ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://finance.yahoo.com/markets/crypto/articles/forget-bitcoin-buy-dogecoin-instead-105000351.html)**
+
+Dogecoin's significantly smaller size might make investors think that it has much more upside.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Is the ‘debasement trade’ dead? Outflows from gold and bitcoin ETFs suggest investors are moving on](https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5)**
+
+MarketWatch • 3h ago
 
 ---
 
@@ -209,31 +229,11 @@ WKYT • 1d ago
 
 ---
 
-**[Bitcoin falls to $75,000 as token decouples from tech rally](https://finance.yahoo.com/markets/crypto/article/bitcoin-falls-to-75000-as-token-decouples-from-tech-rally-133920137.html)**
+**[Amid a scam crackdown, crypto giants keep fueling bitcoin ATMs - International Consortium of Investigative Journalists](https://www.icij.org/investigations/coin-laundry/amid-a-scam-crackdown-crypto-giants-keep-fueling-bitcoin-atms/)**
 
-Bitcoin dropped roughly 2% on Wednesday to hover near $75,500 per token.
+As governments seek to ban the machines, bitcoin ATMs remain entwined with cryptocurrency industry's most mainstream players.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin (BTC) Falls to Five-Week Low Amid Iran War Jitters, ETF Outflows](https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin falls below $75k amid uncertainty over U.S.-Iran peace talks, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-amid-renewed-iran-tensions-etf-outflows-4711291)**
-
-Investing.com • 10h ago
-
----
-
-**[Miami man arrested in theft of $1.9M in Bitcoin from former employer, cops say](https://www.nbcmiami.com/news/local/miami-man-arrested-in-theft-of-1-9-million-in-bitcoin-from-former-employer-cops-say/3813867/)**
-
-A Miami man has been arrested in the theft of nearly $2 million worth of Bitcoin from a former employer, police said.
-
-NBC 6 South Florida • 17h ago
+International Consortium of Investigative Journalists - ICIJ • 1d ago
 
 ---
 
@@ -265,19 +265,11 @@ August 15, 2010: someone created 184 billion BTC out of thin air. Five hours lat
 
 ---
 
-**[One opinionated path from what is money? to I run my own Bitcoin node](https://news.ycombinator.com/item?id=48220634)**
-
-Zero to sovereignty. One opinionated path from 'what is money?' to 'I run my own Bitcoin node.' Six chapters. No shortcuts. No bullshit.
-
-⬆️ 3 • 💬 1 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/journey)
-
----
-
 **[Matching Hashes: Reproducing the Guix-Built Bitcoin Core Release Binary with Nix](https://news.ycombinator.com/item?id=48296063)**
 
 Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
 
-⬆️ 3 • 💬 0 • 16h ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
+⬆️ 3 • 💬 0 • 20h ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ---
 
@@ -291,7 +283,7 @@ Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet 
 
 **[RawBit – Visual Bitcoin raw tx builder](https://news.ycombinator.com/item?id=48292709)**
 
-⬆️ 2 • 💬 1 • 20h ago • [rawbit.io](https://rawbit.io)
+⬆️ 2 • 💬 1 • 1d ago • [rawbit.io](https://rawbit.io)
 
 ---
 
@@ -299,7 +291,7 @@ Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 2 • 💬 0 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=bs2cEzpvaow)
+⬆️ 2 • 💬 0 • 22h ago • [youtube.com](https://www.youtube.com/watch?v=bs2cEzpvaow)
 
 ---
 
@@ -315,6 +307,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Bitcoin Pizza Day is crypto's longest-running joke](https://news.ycombinator.com/item?id=48235514)**
+
+Today marks the 16th anniversary of Bitcoin Pizza Day, the closest thing the cryptocurrency has to a holiday. May 22, 2010 was the first time Bitcoin was used …
+
+⬆️ 2 • 💬 0 • 5d ago • [Big Muddy](https://muddy.jprs.me/posts/2026-05-22-why-bitcoin-pizza-day-is-crypto-s-longest-running-joke/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,57 +325,7 @@ Buy, Sell, Trade Crypto: Weex ($100k Trading Giveaway): https://www.weex.com/eve
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 113 • ⏱️ 10:19 • 7h ago
-
----
-
-**[Is Trump Forcing the World to Adopt Bitcoin?](https://www.youtube.com/watch?v=hMgP4vVNV6M)**
-
-Trump may be blowing up the dollar system faster than anyone realizes. From a proposed 1 million Bitcoin reserve to BlackRock's ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 1K • 💬 123 • ⏱️ 14:27 • 10h ago
-
----
-
-**[“Someone BIG Is Secretly Selling Crypto” What Comes NEXT?](https://www.youtube.com/watch?v=yhIN7KAZTYY)**
-
-Bitcoin Holders: It Just Got Worse… ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel member ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 2K • 💬 187 • ⏱️ 8:36 • 1d ago
-
----
-
-**[Why is Bitcoin Struggling?](https://www.youtube.com/watch?v=S3twLVUE0dQ)**
-
-Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 662 • 💬 151 • ⏱️ 8:32 • 7h ago
-
----
-
-**[Bitcoin Crash: The 4 Year Cycle Is Repeating](https://www.youtube.com/watch?v=zen3o8eoTis)**
-
-TIA PRO LIFETIME DISCOUNT SALE NOW ON → https://link.tiainvestor.com/jp-tia-sale TIA 18-YEAR CYCLE MINI-COURSE, ...
-
-📺 Jason Pizzino
-
-👁️ 8K • 👍 607 • 💬 115 • ⏱️ 22:40 • 6h ago
-
----
-
-**[Bitcoin Is The Only Asset That Survives What’s Coming](https://www.youtube.com/watch?v=hBEQhSxQYtI)**
-
-Jan van Eck is the CEO of VanEck, a $200 billion asset manager and one of the leading ETF companies in the world. In this ...
-
-📺 Anthony Pompliano
-
-👁️ 14K • 👍 645 • 💬 17 • ⏱️ 59:08 • 11h ago
+👁️ 24K • 👍 1K • 💬 119 • ⏱️ 10:19 • 10h ago
 
 ---
 
@@ -385,17 +335,55 @@ In today's video, we discuss Bitcoin falling back below the Bear Market Resistan
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 108 • ⏱️ 18:38 • 3h ago
+👁️ 33K • 👍 3K • 💬 171 • ⏱️ 18:38 • 7h ago
 
 ---
 
-**[🚨 THE HUGE BITCOIN CRASH IS STARTING RIGHT NOW](https://www.youtube.com/watch?v=IMvF-N7eawA)**
+**[Why is Bitcoin Struggling?](https://www.youtube.com/watch?v=S3twLVUE0dQ)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Crypto Kid
+📺 CryptosRUs
 
-👁️ 1K • 👍 175 • 💬 30 • ⏱️ 13:14 • 2h ago
+👁️ 13K • 👍 725 • 💬 163 • ⏱️ 8:32 • 11h ago
+
+---
+
+**[Is Trump Forcing the World to Adopt Bitcoin?](https://www.youtube.com/watch?v=hMgP4vVNV6M)**
+
+Trump may be blowing up the dollar system faster than anyone realizes. From a proposed 1 million Bitcoin reserve to BlackRock's ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 2K • 💬 131 • ⏱️ 14:27 • 13h ago
+
+---
+
+**[BITCOIN: This Is Why It Dumped! (bad news) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=pCC0Uji68wA)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 1K • 👍 162 • 💬 20 • ⏱️ 14:56 • 1h ago
+
+---
+
+**[DISGUSTING XRP SENTIMENT EVERYTHING IS CRASHING5 #xrp #ai #crypto #bitcoin](https://www.youtube.com/watch?v=fxpXt9SAgcI)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 608 • 💬 28 • ⏱️ 2:09 • 1d ago
+
+---
+
+**[“Someone BIG Is Secretly Selling Crypto” What Comes NEXT?](https://www.youtube.com/watch?v=yhIN7KAZTYY)**
+
+Bitcoin Holders: It Just Got Worse… ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel member ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 2K • 💬 189 • ⏱️ 8:36 • 1d ago
 
 ---
 
@@ -405,17 +393,27 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 14K • 👍 732 • 💬 317 • ⏱️ 15:16 • 15h ago
+👁️ 15K • 👍 748 • 💬 320 • ⏱️ 15:16 • 19h ago
 
 ---
 
-**[THIS BITCOIN CHART SHOULD TERRIFY YOU](https://www.youtube.com/watch?v=8IGMMVXZ5tI)**
+**[Bitcoin Crash: The 4 Year Cycle Is Repeating](https://www.youtube.com/watch?v=zen3o8eoTis)**
 
-I lost millions because I ignored this TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) ...
+TIA PRO LIFETIME DISCOUNT SALE NOW ON → https://link.tiainvestor.com/jp-tia-sale TIA 18-YEAR CYCLE MINI-COURSE, ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Jason Pizzino
 
-👁️ 5K • 👍 494 • 💬 55 • ⏱️ 20:49 • 4h ago
+👁️ 12K • 👍 740 • 💬 136 • ⏱️ 22:40 • 10h ago
+
+---
+
+**[WILL BITCOIN CRASH LOWER TODAY?🚨 (BTC Today)](https://www.youtube.com/watch?v=0hYR6ay63Fg)**
+
+BITCOIN BTC PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community focused ...
+
+📺 Cilinix Crypto
+
+👁️ 472 • 👍 40 • 💬 3 • ⏱️ 5:35 • 2h ago
 
 ---
 

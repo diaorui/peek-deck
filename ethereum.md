@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-28T08:27:03.052926+00:00'
+updated: '2026-05-28T11:58:46.486659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 28, 2026 at 08:27 UTC  
+**Last Updated:** May 28, 2026 at 11:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,995.62
+### $1,990.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
+**24h:** -4.4%  
 **7d:** -3.8%  
 **30d:** -11.8%  
-**90d:** +1.2%  
-**1y:** -24.5%  
+**90d:** +1.3%  
+**1y:** -24.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.60B
+**Market Cap:** $239.75B
 Rank #2
 
 **Circulating Supply:** 120,685,415 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.9%
+-59.8%
 
 **All-Time Low:** $0.43
-+458284.8%
++458712.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+6h ago
+
+---
+
+**[I need help from someone who knows about crypto.](https://www.reddit.com/r/ethereum/comments/1tpn5uk/i_need_help_from_someone_who_knows_about_crypto/)**
+
+\&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
+
+11h ago
 
 ---
 
@@ -81,14 +89,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[I need help from someone who knows about crypto.](https://www.reddit.com/r/ethereum/comments/1tpn5uk/i_need_help_from_someone_who_knows_about_crypto/)**
-
-\&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
-
-8h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin is often seen as digital gold. Ethereum is often seen as the infrastructure layer for crypto. One focuses on storing value. The other focuses on building applications. So here’s a question: In 10 years, do you think Ethereum will be used by more people than Bitcoin? Not necessarily worth more. Just used more often in everyday life. Why or why not?
 
-2d ago
+3d ago
 
 ---
 
@@ -154,21 +154,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.
 
-Decrypt • 11h ago
+Decrypt • 15h ago
 
 ---
 
-**[Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana](https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation/)**
+**[Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?](https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/)**
 
-Bitcoin & Ethereum ETF outflows hit nearly $2.7 billion over two weeks as HYPE, XRP & Solana funds attract selective institutional inflows.
+Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.
 
-CryptoSlate • 2d ago
+The Motley Fool • 3d ago
 
 ---
 
-**[Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fresh Iran Strikes](https://finance.yahoo.com/markets/crypto/articles/why-crypto-crashing-today-bitcoin-073437045.html)**
+**[Standard Chartered Says Ethereum Could 20X After ETH’s Brutal Crash Below $2,000](https://finance.yahoo.com/markets/crypto/articles/standard-chartered-says-ethereum-could-114025945.html)**
 
-The crypto market is deep in the red this morning. The total market is down more than 3% in a day, and Bitcoin (CRYPTO: BTC) has slipped under $73,000 for the first time in the past few weeks. The spark was a fresh round of U.S. airstrikes on Iran, which sent investors running from anything ... Why Is Crypto Crashing Today? Bitcoin, XRP, and Ethereum Slide on Fresh Iran Strikes
+Standard Chartered holds $40,000 Ethereum target by 2030 as ETH falls below $2,000 on retail FOMO and ETF outflows.
+
+Yahoo Finance • 18m ago
+
+---
+
+**[GDP, PCE, Jobless Claims Could Decide Crypto’s Next Move, While Ethereum Takes A Bigger Hit Than Bitcoin Amid Selloff](https://finance.yahoo.com/markets/crypto/articles/gdp-pce-jobless-claims-could-110645103.html)**
+
+Investors are focused on the latest PCE inflation report, the Federal Reserve’s preferred inflation gauge, along with GDP revisions and weekly jobless claims data.
 
 Yahoo Finance • 52m ago
 
@@ -178,7 +186,7 @@ Yahoo Finance • 52m ago
 
 Cash App users can now transfer on Solana, Ethereum, Polygon and Arbitrum, but executive Miles Suter says the firm is still bitcoin-focused.
 
-The Block • 11h ago
+The Block • 14h ago
 
 ---
 
@@ -198,27 +206,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Bitmine Highlights Record Ethereum Treasury and Staking Expansion](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/2152855/bitmine-highlights-record-ethereum-treasury-and-staking-expansion/)**
+**[Bitmine capitalizes on Ethereum price drop, buys over 100,000 ETH as 5% supply goal nears](https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears)**
 
-Tipranks Press Release.
-
-The Globe and Mail • 18h ago
-
----
-
-**[Ethereum, Solana treasury firms Sharplink and Forward join Russell indexes](https://www.theblock.co/post/402627/ethereum-solana-treasury-firms-sharplink-forward-join-russell-indexes)**
-
-According to data from earlier this month, about $12.2 trillion in investor assets are benchmarked" to the Russell U.S. indexes.
+"We view the recent pullback of ETH to below $2,200 as an attractive opportunity," Bitmine Chairman Tom Lee said.
 
 The Block • 1d ago
-
----
-
-**[Russell 2000 Rebalancing: How Index Inclusion Could Move Crypto-Equities and Ethereum](https://finance.yahoo.com/markets/crypto/articles/russell-2000-rebalancing-index-inclusion-114524525.html)**
-
-FTSE Russell has placed Sharplink, Forward Industries, Gemini, Bitmine, and Galaxy Digital on preliminary consideration lists for inclusion in its small-cap benchmarks, a structural development that carries direct implications for Ethereum traders watching institutional flow build on the equity side. The 2026 U.S. index reconstitution becomes effective in late June, ...
-
-Yahoo Finance • 20h ago
 
 ---
 
@@ -227,6 +219,14 @@ Yahoo Finance • 20h ago
 The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.
 
 CoinDesk • 1d ago
+
+---
+
+**[Current price of Ethereum for May 27, 2026](https://fortune.com/article/price-of-ethereum-05-27-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
 
 ---
 
@@ -240,17 +240,17 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 896 • 💬 42 • ⏱️ 29:37 • 18h ago
+👁️ 15K • 👍 916 • 💬 42 • ⏱️ 29:37 • 21h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DSIJWKZytQk)**
+**[ETHEREUM CRASH UPDATE! (Will ETH Fall Lower?)](https://www.youtube.com/watch?v=-A4dMNWRH40)**
 
-BITCOIN & ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 262 • 💬 93 • ⏱️ 22:34 • 4h ago
+👁️ 87 • 👍 6 • ⏱️ 5:09 • 2h ago
 
 ---
 
@@ -260,7 +260,7 @@ Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerat
 
 📺 BULLRUNNERS
 
-👁️ 6K • 👍 314 • 💬 184 • ⏱️ 15:14 • 16h ago
+👁️ 7K • 👍 325 • 💬 188 • ⏱️ 15:14 • 19h ago
 
 ---
 
@@ -270,17 +270,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 132 • 💬 36 • ⏱️ 0:32 • 6h ago
-
----
-
-**[🔴 Why I Sold My ETH](https://www.youtube.com/watch?v=hN1MgHXBvrE)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 249 • 💬 22 • ⏱️ 24:01 • 23h ago
+👁️ 6K • 👍 169 • 💬 38 • ⏱️ 0:32 • 9h ago
 
 ---
 
@@ -290,17 +280,17 @@ Welcome Back To The Channel! iTrust Capital – $100 Bonus (Crypto Retirement Ac
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 350 • 💬 60 • ⏱️ 16:48 • 1d ago
+👁️ 5K • 👍 361 • 💬 63 • ⏱️ 16:48 • 1d ago
 
 ---
 
-**[HUGE BITCOIN, ETHEREUM, &amp; XRP NEWS! CRYPTO RALLY STALLS!](https://www.youtube.com/watch?v=2i-3ZsRo7Hg)**
+**[BITCOIN &amp; ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DSIJWKZytQk)**
 
-Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bitcoin, raising total holdings to 16500 coins.
+BITCOIN & ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Thinking Crypto
+📺 Crypto World
 
-👁️ 11K • 👍 624 • 💬 77 • ⏱️ 21:33 • 1d ago
+👁️ 7K • 👍 306 • 💬 138 • ⏱️ 22:34 • 8h ago
 
 ---
 
@@ -310,7 +300,7 @@ Ethereum remains stuck inside a larger corrective structure, and the current bou
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 272 • 💬 6 • ⏱️ 9:06 • 12h ago
+👁️ 5K • 👍 283 • 💬 6 • ⏱️ 9:06 • 15h ago
 
 ---
 
@@ -320,17 +310,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 456 • 💬 38 • ⏱️ 18:27 • 1d ago
+👁️ 12K • 👍 469 • 💬 39 • ⏱️ 18:27 • 1d ago
 
 ---
 
-**[Ethereum Is Either Failing… Or Evolving Into Something Much Bigger w/ John Gillen](https://www.youtube.com/watch?v=iQZ2U7tvxOo)**
+**[HUGE BITCOIN, ETHEREUM, &amp; XRP NEWS! CRYPTO RALLY STALLS!](https://www.youtube.com/watch?v=2i-3ZsRo7Hg)**
 
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bitcoin, raising total holdings to 16500 coins.
 
-📺 Milk Road
+📺 Thinking Crypto
 
-👁️ 4K • 👍 121 • 💬 50 • ⏱️ 44:13 • 1d ago
+👁️ 11K • 👍 628 • 💬 97 • ⏱️ 21:33 • 1d ago
+
+---
+
+**[🔴 Why I Sold My ETH](https://www.youtube.com/watch?v=hN1MgHXBvrE)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 251 • 💬 23 • ⏱️ 24:01 • 1d ago
 
 ---
 
