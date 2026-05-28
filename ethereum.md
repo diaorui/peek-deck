@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-27T22:41:36.522199+00:00'
+updated: '2026-05-28T00:00:32.886351+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 27, 2026 at 22:41 UTC  
+**Last Updated:** May 28, 2026 at 00:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,020.91
+### $2,026.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -4.7%  
-**30d:** -11.2%  
-**90d:** +5.3%  
-**1y:** -24.2%  
+**24h:** -2.5%  
+**7d:** -2.0%  
+**30d:** -10.2%  
+**90d:** +3.1%  
+**1y:** -23.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I put a decent amount into a DeFi project six months ago. This morning I went to check on things and the Discord link I had saved returns an error. The website loads a blank page. The Twitter hasn't posted in three weeks. I can see my tokens still in my wallet but I'm scared to look at the price. Is there any way to tell if this is a full exit or something more recoverable
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ I put a decent amount into a DeFi project six months ago. This morning I went to
 
 Serious question, wtf is going on. First this guy Dan was talking about how its Ethereum social. Now he's at Tempo, then the project was handed off to some kids and sold off. Now there's some lady with huge tds saying something about a fork and a token. Does anyone have any idea what's going on there? I'm dumb and don't get it.
 
-18h ago
+19h ago
 
 ---
 
@@ -158,11 +158,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes](https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000)**
+**[Ethereum’s ‘Clarity Act’ Moment? ‘Maxirealist’ Mougayar Backs Buterin Amid EF Scrutiny](https://stocktwits.com/news-articles/markets/cryptocurrency/eth-clarity-act-maxirealist-mougayar-backs-vitalikbuterin/cZga6aeRepr)**
 
-Crypto treasury firms Sharplink and Forward Industries will both be included in the Russell 2000 and 3000 indexes at the end of June.
+William Mougayar said Ethereum was “untouchable” as criticism grew around the Ethereum Foundation following the departure of multiple longtime researchers and contributors.
 
-Decrypt • 1d ago
+Stocktwits • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -182,14 +182,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitmine capitalizes on Ethereum price drop, buys over 100,000 ETH as 5% supply goal nears](https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears)**
-
-"We view the recent pullback of ETH to below $2,200 as an attractive opportunity," Bitmine Chairman Tom Lee said.
-
-The Block • 1d ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.39 Million Tokens, and Total Crypto and Total Cash Holdings of $12.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-39-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-3-billion-302781471.html)**
 
 Bitmine owns more than 4.47% of the total ETH coin supply of 120.7 million Bitmine is 89% of the way to the 'Alchemy of 5%' in just 11 months Ethereum...
@@ -198,11 +190,19 @@ PR Newswire • 1d ago
 
 ---
 
+**[Bitmine capitalizes on Ethereum price drop, buys over 100,000 ETH as 5% supply goal nears](https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears)**
+
+"We view the recent pullback of ETH to below $2,200 as an attractive opportunity," Bitmine Chairman Tom Lee said.
+
+The Block • 1d ago
+
+---
+
 **[Current price of Ethereum for May 27, 2026](https://fortune.com/article/price-of-ethereum-05-27-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -210,7 +210,7 @@ Fortune • 9h ago
 
 Dubai, UAE, May  27, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just crossed $10.2 million in presale funding, and the biggest positions came in ...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -218,15 +218,15 @@ markets.businessinsider.com • 5h ago
 
 Hyperliquid is launching native options for Ethereum, expanding beyond perpetual futures with HyperCore and HyperEVM integration. Here's what traders need to know.
 
-Crypto Briefing • 18h ago
+Crypto Briefing • 19h ago
 
 ---
 
-**[Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration](https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52)**
+**[Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures](https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures)**
 
-The Ethereum Foundation's Kohaku Initiative announced the release of its SDK for integrating privacy protocols into Ethereum wallets without intermediaries. The team achieved a major milestone with v0.0.1-alpha.21 of the kohaku-eth/railgun integration, which now features operational 4337 mempool relaying for private transactions. Tornado Cash and Privacy Pools integrations are in development.
+Ethereum co-founder Vitalik Buterin signaled that the Ethereum Foundation is transitioning into a leaner, hyper-focused entity.
 
-thedefiant.io • 2d ago
+Decrypt • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 754 • 💬 41 • ⏱️ 29:37 • 8h ago
+👁️ 11K • 👍 754 • 💬 41 • ⏱️ 29:37 • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ OUR MEMORIAL DAY $800 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.
 
 📺 Trade Confident
 
-👁️ 215 • 👍 12 • 💬 25 • ⏱️ 5:58 • 4h ago
+👁️ 215 • 👍 12 • 💬 25 • ⏱️ 5:58 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ Ethereum remains stuck inside a larger corrective structure, and the current bou
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 150 • 💬 1 • ⏱️ 9:06 • 2h ago
+👁️ 1K • 👍 150 • 💬 1 • ⏱️ 9:06 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ Welcome Back To The Channel! iTrust Capital – $100 Bonus (Crypto Retirement Ac
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 321 • 💬 49 • ⏱️ 16:48 • 18h ago
+👁️ 4K • 👍 321 • 💬 49 • ⏱️ 16:48 • 20h ago
 
 ---
 
@@ -280,7 +280,7 @@ Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerat
 
 📺 BULLRUNNERS
 
-👁️ 3K • 👍 233 • 💬 164 • ⏱️ 15:14 • 6h ago
+👁️ 3K • 👍 233 • 💬 164 • ⏱️ 15:14 • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bit
 
 📺 Thinking Crypto
 
-👁️ 10K • 👍 611 • 💬 77 • ⏱️ 21:33 • 19h ago
+👁️ 10K • 👍 611 • 💬 77 • ⏱️ 21:33 • 20h ago
 
 ---
 
@@ -320,7 +320,7 @@ In today's Discover Crypto livestream, we break down what could be next for Bitc
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 278 • 💬 23 • ⏱️ 1:09:15 • 6h ago
+👁️ 4K • 👍 278 • 💬 23 • ⏱️ 1:09:15 • 8h ago
 
 ---
 
@@ -330,7 +330,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ether
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 5K • 👍 625 • 💬 28 • ⏱️ 18:01 • 6h ago
+👁️ 5K • 👍 625 • 💬 28 • ⏱️ 18:01 • 7h ago
 
 ---
 

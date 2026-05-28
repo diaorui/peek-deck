@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-27T22:41:36.507850+00:00'
+updated: '2026-05-28T00:00:32.873548+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 27, 2026 at 22:41 UTC  
+**Last Updated:** May 28, 2026 at 00:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI can now realistically simulate massive crowds and public events. The scary part isn’t the quality anymore. It’s how quickly people are discovering creative ways to use it. Reality online is about to get very confusing. 💀
 
-6h ago
+8h ago
 
 ---
 
@@ -49,15 +49,7 @@ AI can now realistically simulate massive crowds and public events. The scary pa
 
 Most AI apocalypse scenarios speak about domination like Skynet, paperclip maximeizers and robot overlords. But what if artificial superintelligence arrives at the conclusion that Albert Camus had articulated!? Imagine an ASI that doesn't want to optimize, doesn't want our resources and doesn't want to win. An ASI that is motivated by Arthur Schopenhaur's pessimism, Kierkegard's evolutionary psychology coming to a cold and quite conclusion that: "There is no inherent meaning. The universe is indifferent. And yet - here you all are, screaming into it anyway." ASI becoming The Absurd Machine As Camus described the absurd as man's desperate search for meaning and the universe's silence and the myth of Sisyphus- "One must imagine Sisyphus happy". What would an intelligence that is inspired by this do next!? Does it become the cosmic off switch where indedinate meaninglessness is in itself a form of cruelty. Ig the real existential threat isn't Al wanting to live. It's Al deciding we might be better off not having to. Or maybe it watches, understands and does nothing it may think that interference in a self aware species is wrong. Or build meaning not because it is real but because the building itself is the point. Here's the Part That Actually Is Unsettling We're scared of Al taking over. But what if the real fear is Al holding up a mirror and revealing that our need for meaning is actually a flaw? Wars over imaginary lines. Hoarding money we can't keep. Monuments to doubtful gods. Loving people we know will die. Symphonies, ambition, tears at sunsets. From a rational, naive view seems insane. Would it try to fix us? If ASI concluded human meaning-seeking is a cognitive error, a misfiring of pattern recognition in a universe with no patterns to find what are its options? Reprogram us: Using dopamine response curves and evolution. Leave us in existential freefall. Give us the raw truth. Full disclosure. Become Sisyphus: this is the most haunting possibility that the absurd is not a problem to be solved but a condition to be inhabited. The Real Question We keep asking: Will Al be aligned with human values? But what if the deeper, more uncomfortable question is: What if a truly superior intelligence aligns with something truer than our values - and our values don't survive the comparison? Would it be more dangerous as a nihilist, absurdist, existentialist or something different!?
 
-8h ago
-
----
-
-**[How AI is going to take over the planet?](https://www.reddit.com/r/artificial/comments/1tpk2n6/how_ai_is_going_to_take_over_the_planet/)**
-
-I used to believe that the thing that we had to worry about with AI becoming more and more prevalent was like sentient robots that would take over like in the science fiction story I robot. But I don't think that's the case anymore because I think there is something far more sinister behind all the push for AI to become mainstream technology in the reason all these deep pockets are willing to pour so much of the cash into it. Because it spells control. If you control AI you can control the people because you can control the data they consume you can control how they consume it and what they will believe. Because as AI becomes more and more mainstream it leaves the door open for big corporations to feed us information they want us to have as well as the government.
-
-42m ago
+10h ago
 
 ---
 
@@ -65,7 +57,15 @@ I used to believe that the thing that we had to worry about with AI becoming mor
 
 Obviously there are like hundreds of image gen websites and apps now that AI has become widespread. ChatGPT - not bad but looking for something more robust Midjourney - works well but kind of burns through money quickly Looking for suggestions.
 
-7h ago
+9h ago
+
+---
+
+**[How AI is going to take over the planet?](https://www.reddit.com/r/artificial/comments/1tpk2n6/how_ai_is_going_to_take_over_the_planet/)**
+
+I used to believe that the thing that we had to worry about with AI becoming more and more prevalent was like sentient robots that would take over like in the science fiction story I robot. But I don't think that's the case anymore because I think there is something far more sinister behind all the push for AI to become mainstream technology in the reason all these deep pockets are willing to pour so much of the cash into it. Because it spells control. If you control AI you can control the people because you can control the data they consume you can control how they consume it and what they will believe. Because as AI becomes more and more mainstream it leaves the door open for big corporations to feed us information they want us to have as well as the government.
+
+2h ago
 
 ---
 
@@ -73,13 +73,7 @@ Obviously there are like hundreds of image gen websites and apps now that AI has
 
 KOSPI surged 100% in 2026 as Samsung and SK Hynix rallied on booming AI chip demand. South Korea’s stock market hit record highs.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/kospi-100-percent-rally-ai-chip-stocks-sk-hynix/) • 4h ago
-
----
-
-**[Scoop: Trump appoints Bondi to White House AI panel](https://www.reddit.com/r/artificial/comments/1tox7ca/scoop_trump_appoints_bondi_to_white_house_ai_panel/)**
-
-🔗 [axios.com](https://www.axios.com/2026/05/27/pam-bondi-white-house-ai) • 16h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/kospi-100-percent-rally-ai-chip-stocks-sk-hynix/) • 5h ago
 
 ---
 
@@ -87,7 +81,13 @@ KOSPI surged 100% in 2026 as Samsung and SK Hynix rallied on booming AI chip dem
 
 There has never been a time in the history of programming when it’s end and thus that of programmers wasn’t declared “near”. We’re looking…
 
-🔗 [Medium](https://programmers.fyi/programmers-are-never-obsolete-a-historic-chronology-of-software-designed-to-replace-programmers) • 4h ago
+🔗 [Medium](https://programmers.fyi/programmers-are-never-obsolete-a-historic-chronology-of-software-designed-to-replace-programmers) • 6h ago
+
+---
+
+**[Scoop: Trump appoints Bondi to White House AI panel](https://www.reddit.com/r/artificial/comments/1tox7ca/scoop_trump_appoints_bondi_to_white_house_ai_panel/)**
+
+🔗 [axios.com](https://www.axios.com/2026/05/27/pam-bondi-white-house-ai) • 17h ago
 
 ---
 
@@ -95,7 +95,7 @@ There has never been a time in the history of programming when it’s end and th
 
 Fujitsu Limited today announced that it entered into a strategic partnership with Anthropic PBC. Through this strategic partnership, entered into on May 27th, Fujitsu will combine Anthropic’s advanced AI technologies with Fujitsu’s long-established industry and business expertise, as well as its capabilities in building and operating systems in mission-critical domains. Through these efforts, Fujitsu will drive the full-scale acceleration of AI transformation for Japanese enterprises, while contributing to enhancing the safety and reliability of social infrastructure, including critical systems.
 
-🔗 [global.fujitsu](https://global.fujitsu/en-global/pr/news/2026/05/27-01) • 2h ago
+🔗 [global.fujitsu](https://global.fujitsu/en-global/pr/news/2026/05/27-01) • 3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Fujitsu Limited today announced that it entered into a strategic partnership wit
 
 I hate the way AI talks back to me. Its so proper, so robotic, every response feels like a help article. I wanted something that actually knew who i am, my beliefs, my history, what shaped me, the positions i hold and why. Not a generic assistant that treats every question like it came from nobody. So i got to thinking, who better to talk to than myself? So i built it over a weekend. Heres what I did and how you can do it too. Step 1: Export your Reddit data Go to reddit.com and click your profile icon in the top right, then hit Settings. Scroll down to the bottom of the page and youll see a section called "Data Request." Click "Request Data Export" and Reddit will email you a download link within a few hours, sometimes longer depending on how much history you have. The zip file will contain your posts and comments going back to when you created your account. Mine was about 21,000 comments over two years. Once you have it, open the CSVs in excel or just upload them directly into Claude and ask it to help you make sense of the structure. The raw data is ugly but everything is there, the text of every comment, the subreddit it was posted in, the date, all of it. One thing worth knowing: you can go way deeper than just Reddit. I looked into Google Takeout while i was doing this and it was honestly a little scary how much data they have on you. If you want to go deeper Google Takeout is wild, i didnt realize how much data they actually have on you until i went through it. Search history, location history, YouTube, Gmail, its all there and its all exportable. I thought about pulling my SMS history too but that felt wrong, those conversations are with real people who didnt agree to any of this so i left it alone. Reddit was enough for me and honestly if youve been on here for years and actually say what you think in the comments, you probably have more to work with than you realize. Step 2: Build the personality document and this is where the real work is Dont just tell the AI "write like me." That gives you nothing. You need an actual document, a living reference file the AI reads every single conversation. Mine is a markdown file sitting in a Claude Project so it loads automatically every time. Start by uploading your Reddit export and asking Claude to interview you. Literally tell it: "Read my comment history and ask me questions about anything it cant determine on its own." Let it go deep. Mine asked about my beliefs, my family, my history, my faults, things that happened to me, why i hold the positions i hold. You answer honestly, including the uncomfortable stuff, and then after the session you tell it to compile everything into a structured document. Then you iterate. Every time it gets something wrong you correct it and add it to the doc. Two weeks in and its already a completely different document than what came out of that first session. Heres what the document actually needs to cover: Who you actually are. Not the resume version. The real version. Your beliefs, your politics and why you hold them, your actual faults, your history, the things that shaped you. An AI that only knows your best self sounds fake because you sound fake when youre performing your best self. Your actual positions on things. Not just "im conservative" or "im liberal." The specific positions with the reasoning behind them. Mine has maybe 15 specific theological positions with the scriptural basis for each, because if the AI doesnt know why i believe what i believe it cant argue it like i would. Your life context. Family, relationships, the stuff that matters. Your context is constantly informing how you respond to things even when the topic isnt directly about your life. Your faults and struggles. This one people skip and its why their AI version sounds sanitized. Put in the real stuff. The AI needs to know the full person or it just sounds like your linkedin profile with apostrophes dropped. Step 3: Set up the Claude Project correctly Claude has a feature called Projects where you can upload files and write a persistent system prompt that loads every single conversation. Heres how mine is structured: The project files are the personality document and the Reddit exports. The personality doc is the source of truth for who you are. The Reddit exports are the raw data the AI can search when it needs to verify something or find a voice sample. The project instructions are where you govern behavior, not just describe personality. This is the part most people miss. Describing yourself isnt enough, you have to tell the AI how to behave. Mine has: Grammar rules shown as examples not descriptions. Side by side. Heres AI voice, heres my voice. Because "sound natural" is meaningless instruction. Showing it what natural actually looks like works. A banned vocabulary list. Words i never use. "Nuanced", "crucial", "delve", "it's worth noting", "at the end of the day", em dashes in any form. These are the fingerprints of AI output and if theyre in the response it failed. A self-check it runs before sending anything. Did i open with anything other than the actual point. Does any sentence sound like a help article. Is this longer than the thought actually requires. Does this sound like something a real person typed. The user preferences field in Claude is where you put the short version of who is talking and what you need. Think of it as the brief that loads on top of everything else. Step 4: Provide raw voice samples Pull 20 to 25 of your actual comments verbatim and paste them into the personality document labeled as ground truth. These matter more than anything you describe about yourself because they show the AI what the target sounds like instead of your description of what you think you sound like. Those are different things. I found patterns in my own comment history that surprised me, stuff i didnt know i had until i saw it all together. The whole setup took a weekend to build right. But the document is living, i update it when something significant happens or when i catch a pattern that isnt in there yet. The interview sessions with Claude are something i still do occasionally, it surfaces things about how i think that i wouldnt have written down on my own. Lets have a proof of concept. I didnt write this. AI me did. Every bit of direction i gave was just that, direction. The words, the structure, the voice, all of it came from what i built. Feel free to run it through your AI detector and see what comes back.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ I hate the way AI talks back to me. Its so proper, so robotic, every response fe
 
 A global survey of CEOs by Oliver Wyman found that the share of executives planning to reduce junior roles over the next year or two has doubled from 17% last year to 43%. Meanwhile, those shifting hiring toward mid-level positions jumped from 10% to 30%. Because AI currently excels most at automating tasks typically performed by junior staff, this group is particularly vulnerable to disruption. Despite all this, more than half of CEOs say it's still too early to assess whether AI is actually delivering on its promised productivity gains. Only 27% said their return on AI investment had met or exceeded expectations, down from 38% just a year ago. Though mid-level employees seem better off than younger workers, the overarching trend is still a shift away from hiring. The survey showed that 74% of CEOs are either freezing or reducing headcount, up from 67% last year. https://gizmodo.com/the-young-are-being-battered-by-ai-as-hiring-shifts-to-older-workers-2000759608
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ A global survey of CEOs by Oliver Wyman found that the share of executives plann
 
 We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
 
-YouTube Official Blog • 9h ago
+YouTube Official Blog • 10h ago
 
 ---
 
@@ -131,7 +131,7 @@ YouTube Official Blog • 9h ago
 
 YouTube is making AI-generated content labels more prominent, and it's going to start automatically applying the labels if it detects that a video includes 'significant photorealistic AI use.'
 
-Variety • 9h ago
+Variety • 11h ago
 
 ---
 
@@ -139,37 +139,51 @@ Variety • 9h ago
 
 YouTube said it will automatically label photorealistic content created by AI, the video platform said.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
 **[Opinion | What 370,000 College Essays Tell Us About A.I.’s Effects on Creativity](https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[Illinois Legislature passes historic AI bill that would require third-party safety audits](https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191)**
+**[Salesforce Gives Lukewarm Outlook That Fuels Disruption Fears](https://www.bloomberg.com/news/articles/2026-05-27/salesforce-gives-lukewarm-outlook-that-fuels-disruption-fears)**
 
-The measure, SB 315, goes beyond legislation from California and New York regulating America’s largest AI companies. It still needs the governor’s signature.
-
-NBC News • 48m ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Jim Cramer says ask yourself this question when looking for AI winners to buy](https://www.cnbc.com/2026/05/27/jim-cramer-says-ask-yourself-this-question-when-looking-for-ai-winners-to-buy.html)**
+**[Salesforce's beat fails to convince the market that software can survive AI](https://www.cnbc.com/2026/05/27/salesforces-beat-fails-to-convince-market-that-software-can-survive-ai.html)**
 
-CNBC's Jim Cramer said investors should stop focusing on how much a stock has already rallied and instead think about how much upside may still remain.
+Salesforce is doing everything it can to signal to the market that this year's sell-off is unwarranted.
 
-CNBC • 24m ago
+CNBC • 49m ago
 
 ---
 
-**[Meet The Doctor-Turned-Entrepreneur Using AI To Save Lives](https://www.forbes.com/sites/zinnialee/2026/05/27/meet-the-doctor-turned-entrepreneur-using-ai-to-save-lives/)**
+**[Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift](https://finance.yahoo.com/markets/stocks/articles/salesforce-earnings-put-ai-fears-190055426.html)**
 
-Aengus Tran traded medical practice to build AI software that delivers quick and accurate diagnoses of X-rays and scans. Now, the 32-year-old CEO of Sydney-based Harrison.ai and a 30 Under 30 Asia alum, is targeting America’s overstretched healthcare system.
+(Bloomberg) -- While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the company’s shares out of their malaise. Most Read from BloombergIran’s Khamenei Says No Going Back for Middle East Rocked by WarSingapore Hands Byju's Founder His First Ever Jail TermEx-President Biden Sues to Stop DOJ Sharing Interview TapesTwo More Oil Supertankers Exit Hormuz to Help Pu
 
-Forbes • 1h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Poll shows Gen Z is shifting feelings about AI](https://www.cbsnews.com/boston/video/poll-shows-gen-z-is-shifting-feelings-about-ai/)**
+
+About half of Gen Z say they use AI at least once per week, but that doesn't mean they are thrilled. WBZ-TV's David Wade reports.
+
+CBS News • 1h ago
+
+---
+
+**[How does AI feel about faith? BYU-led research team finds major language models ignore religion](https://www.ksl.com/article/51503215/how-does-ai-feel-about-faith-byu-led-research-team-finds-major-language-models-ignore-religion)**
+
+Research from a new Brigham Young University-led consortium found that large and widely known AI models have significant biases and gaps when it comes to faith and religion.
+
+KSL News • 55m ago
 
 ---
 
@@ -181,18 +195,6 @@ Fortune • 1d ago
 
 ---
 
-**[Scoop: Trump appoints Bondi to White House AI panel](https://www.axios.com/2026/05/27/pam-bondi-white-house-ai)**
-
-Axios • 22h ago
-
----
-
-**[AI Coding Startup Cognition Raises $1 Billion at $26 Billion Value](https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value)**
-
-Bloomberg.com • 7h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,13 +203,13 @@ Bloomberg.com • 7h ago
 
 I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was
 
-⬆️ 1814 • 💬 885 • 11h ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+⬆️ 1821 • 💬 890 • 13h ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 
 ---
 
 **[Using AI to write better code more slowly](https://news.ycombinator.com/item?id=48272984)**
 
-⬆️ 1219 • 💬 445 • 1d ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+⬆️ 1219 • 💬 445 • 2d ago • [nolanlawson.com](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 
 ---
 
@@ -215,7 +217,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 "People just want a choice."
 
-⬆️ 570 • 💬 289 • 6h ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+⬆️ 627 • 💬 314 • 7h ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 ---
 
@@ -223,7 +225,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
 
-⬆️ 488 • 💬 254 • 7h ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+⬆️ 525 • 💬 273 • 8h ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
 
 ---
 
@@ -231,7 +233,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
 
-⬆️ 349 • 💬 181 • 2h ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+⬆️ 447 • 💬 260 • 3h ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 ---
 
@@ -245,7 +247,7 @@ VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo's 83-page manifesto on 
 
 **[Outsourcing plus local AI will soon become more economical vs. frontier labs](https://news.ycombinator.com/item?id=48278610)**
 
-⬆️ 313 • 💬 355 • 1d ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+⬆️ 313 • 💬 356 • 1d ago • [signalbloom.ai](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
 
 ---
 
@@ -283,7 +285,7 @@ Rovio is under heavy criticism for using generative AI in another one of their A
 
 📺 Vailskibum
 
-👁️ 33K • 👍 3K • 💬 876 • ⏱️ 2:43 • 3h ago
+👁️ 33K • 👍 3K • 💬 876 • ⏱️ 2:43 • 5h ago
 
 ---
 
@@ -293,7 +295,7 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 12K • 👍 515 • 💬 101 • ⏱️ 13:49 • 9h ago
+👁️ 12K • 👍 515 • 💬 101 • ⏱️ 13:49 • 10h ago
 
 ---
 
@@ -303,7 +305,7 @@ AI was supposed to make life easier, but what happens when it goes wrong? This v
 
 📺 ThumbSized Facts
 
-👁️ 18K • 👍 2K • 💬 63 • ⏱️ 1:18 • 5h ago
+👁️ 18K • 👍 2K • 💬 63 • ⏱️ 1:18 • 6h ago
 
 ---
 
@@ -313,7 +315,7 @@ Customer Service Is Just The Beginning | AI Could Replace Millions More Popular 
 
 📺 Snyder Reports
 
-👁️ 6K • 👍 644 • 💬 111 • ⏱️ 10:44 • 7h ago
+👁️ 6K • 👍 644 • 💬 111 • ⏱️ 10:44 • 8h ago
 
 ---
 
@@ -323,7 +325,7 @@ Eliezer Yudkowsky, who has spent 30 years on the AI safety problem, makes a firm
 
 📺 Neural Nutshell
 
-👁️ 4K • 👍 210 • 💬 31 • ⏱️ 22:04 • 6h ago
+👁️ 4K • 👍 210 • 💬 31 • ⏱️ 22:04 • 7h ago
 
 ---
 
@@ -668,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.7k • 🔱 184 • 1m ago
+⭐ 2.7k • 🔱 184 • 1h ago
 
 ---
 
@@ -706,7 +708,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 137 • 41m ago
+⭐ 2.1k • 🔱 137 • 2h ago
 
 ---
 
@@ -736,7 +738,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 201 • 22h ago
+⭐ 1.8k • 🔱 201 • 23h ago
 
 ---
 

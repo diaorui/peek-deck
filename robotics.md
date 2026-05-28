@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-27T22:41:36.525424+00:00'
+updated: '2026-05-28T00:00:32.889172+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 27, 2026 at 22:41 UTC  
+**Last Updated:** May 28, 2026 at 00:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,29 +36,13 @@ Robotics research and industry news
 
 trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright and place it on a small platform the balancing is the part that surprised me. platform’s barely wider than the tube but the policy lands it cleanly and lets go without tipping it 150 episodes across 30 cells, 12 hr training on a g5.16xlarge works really well inside cells, weaker on interpolation between them Write more about it here https://x.com/pbshgthm/status/2059654080134529082?s=46 what’s a good way to handle inter-cell interpolation without just collecting more data?
 
-6h ago
+7h ago
 
 ---
 
 **[I finally upgraded my 1-arm keyboard automation project to a dual-arm system powered by a Raspberry Pi Pico.](https://www.reddit.com/r/robotics/comments/1toywlj/i_finally_upgraded_my_1arm_keyboard_automation/)**
 
-14h ago
-
----
-
-**[MIT CSAIL’s Daniela Rus on why robot learning may need more than video data](https://www.reddit.com/r/robotics/comments/1tp71qx/mit_csails_daniela_rus_on_why_robot_learning_may/)**
-
-Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in robot learning: not every robotic task can be learned well from video or teleoperation alone. Her point is that physical tasks often depend on forces, torques, contact, and constraints that are difficult to capture visually. Some tasks can be solved from first principles. Others may require richer data from humans performing the work, including muscle activity, pose, eye gaze, and environmental information. She also mentions into simulation, transformer-based approaches, and why robotics may need models that understand physics more directly.
-
-8h ago
-
----
-
-**[Can this make lerobt data collection and preprocessing a little less painful?](https://www.reddit.com/r/robotics/comments/1tpcx1w/can_this_make_lerobt_data_collection_and/)**
-
-SO-101 / LeRobot users: how do you currently share a fine-tuned policy with someone running the same hardware? This is the wall I kept hitting. Same arm, same dataset format, but actually picking up someone else's policy is not 1-click. So I started by making the data collection + preprocessing painless first (video). disclosure: building this as AXION. Local tools will stay free. What's your current workflow for trying someone else's trained policy?
-
-4h ago
+15h ago
 
 ---
 
@@ -66,13 +50,29 @@ SO-101 / LeRobot users: how do you currently share a fine-tuned policy with some
 
 Nature has spent millions of years perfecting teamwork. Bees swarm together in coordinated clouds. Schools of fish shift direction almost instantly. Bats and whales use sound to navigate and communicate across long distances. Now, scientists are borrowing those same ideas to design a new generation of tiny robots that may someday work together inside disaster zones, polluted waterways and even the human body.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-built-bee-like-smart-robots-that-swarm-using-sound-waves) • 56m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/scientists-built-bee-like-smart-robots-that-swarm-using-sound-waves) • 2h ago
+
+---
+
+**[MIT CSAIL’s Daniela Rus on why robot learning may need more than video data](https://www.reddit.com/r/robotics/comments/1tp71qx/mit_csails_daniela_rus_on_why_robot_learning_may/)**
+
+Daniela Rus, director of MIT CSAIL, talks through one of the harder problems in robot learning: not every robotic task can be learned well from video or teleoperation alone. Her point is that physical tasks often depend on forces, torques, contact, and constraints that are difficult to capture visually. Some tasks can be solved from first principles. Others may require richer data from humans performing the work, including muscle activity, pose, eye gaze, and environmental information. She also mentions into simulation, transformer-based approaches, and why robotics may need models that understand physics more directly.
+
+9h ago
+
+---
+
+**[Can this make lerobt data collection and preprocessing a little less painful?](https://www.reddit.com/r/robotics/comments/1tpcx1w/can_this_make_lerobt_data_collection_and/)**
+
+SO-101 / LeRobot users: how do you currently share a fine-tuned policy with someone running the same hardware? This is the wall I kept hitting. Same arm, same dataset format, but actually picking up someone else's policy is not 1-click. So I started by making the data collection + preprocessing painless first (video). disclosure: building this as AXION. Local tools will stay free. What's your current workflow for trying someone else's trained policy?
+
+6h ago
 
 ---
 
 **[Spider robot, two legs](https://www.reddit.com/r/robotics/comments/1tov0vf/spider_robot_two_legs/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Nature has spent millions of years perfecting teamwork. Bees swarm together in c
 
 Wanted to share Altara with this community — it's a MIT-licensed React component library for real-time telemetry visualization, aimed at robotics, aerospace, and industrial IoT teams. The gap it fills: there's no open-source React component library that understands robotics instrument vocabulary. Teams building ground control stations or robot dashboards end up reimplementing attitude indicators, LiDAR viewers, occupancy grids, and time-series charts from scratch every time. Stack: TypeScript monorepo with pnpm + Turborepo, tsup for dual ESM/CJS builds, Storybook docs, native ROS2 rosbridge and MQTT adapters. GitHub: https://github.com/JayaSaiKishanChapparam/altara Live demo: https://jayasaikishanchapparam.github.io/altara/demo/ Contributions welcome — especially from anyone with domain expertise in aerospace, maritime, or energy systems where the component vocabulary is quite specialized. Altara
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2058707244703773003 Webs
 
 Hi, I recently joined a new company and started experimenting with lightweight bidirectional communication between virtual and physical systems. To keep things simple, I built a small mechanical arm setup using three SG90 servos and an ESP32. The virtual control side is already working and I turned it into a small demo project. Right now the system has two modes: continuous data streaming servo synchronization control The main goal is to explore lightweight digital twin workflows, real-time interaction, and physical-virtual synchronization. https://reddit.com/link/1tow5nf/video/tijqxpaham3h1/player
 
-17h ago
+18h ago
 
 ---
 
@@ -122,15 +122,7 @@ Ars Technica • 1d ago
 
 American Rheinmetall and Harbinger partner to develop hybrid robotic and unmanned ground vehicles in support of U.S. Department of War modernization priorities.
 
-Rheinmetall • 9h ago
-
----
-
-**[Inside a Millersville lab, interns collaborate on real-world robotics projects](https://lancasteronline.com/news/local/inside-a-millersville-lab-interns-collaborate-on-real-world-robotics-projects/article_475df3c7-7621-4391-9884-06dfdd733c70.html)**
-
-Wheel.Me hummed and hugged the ground as the autonomous mobile robot careened around corners, working its way through the aisles of Millersville University’s Automation and Robotics Lab.
-
-LancasterOnline • 13h ago
+Rheinmetall • 10h ago
 
 ---
 
@@ -142,11 +134,19 @@ NASA (.gov) • 1d ago
 
 ---
 
+**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
+
+Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
+
+AP News • 5h ago
+
+---
+
 **[Seattle teens to take on real-world ocean science challenges in underwater robotics championship](https://www.geekwire.com/2026/seattle-teens-to-take-on-real-world-ocean-science-challenges-in-underwater-robotics-championship/)**
 
 This year's tasks include mapping cold-water coral ecosystems, deploying ocean observatory instrumentation, modeling offshore wind turbines, and operating profiling floats beneath sea ice.
 
-GeekWire • 6h ago
+GeekWire • 7h ago
 
 ---
 
@@ -154,7 +154,13 @@ GeekWire • 6h ago
 
 A young girl with disabilities at Ellen Hopkins Elementary gains new independence and confidence thanks to a device engineered by the Moorhead High School robotics.
 
-kare11.com • 19h ago
+kare11.com • 21h ago
+
+---
+
+**[Jury finds Palo Alto robotics teacher was harassed – but not by the district](https://www.paloaltoonline.com/palo-alto-schools/2026/05/26/jury-finds-palo-alto-robotics-teacher-was-harassed-but-not-by-the-district/)**
+
+Palo Alto Online • 1d ago
 
 ---
 
@@ -178,15 +184,7 @@ The Guardian • 2d ago
 
 A new QNX study suggests robotics developers are increasingly constrained by software architecture and real-time system limitations as Physical AI adoption accelerates across industries. Key Investor TakeawaysQNX research found 89% of robotics developers view Physical AI as critical to future strategy, reinforcing demand for autonomous robotics infrastructure.
 
-Yahoo Finance • 7h ago
-
----
-
-**[Elbit acquires Bluewhite as it deepens push into AI robotics](https://www.calcalistech.com/ctechnews/article/hy9w5znlfl)**
-
-Deal adds AI-powered ground autonomy platform with 100,000 hours of operational use, strengthening Elbit’s efforts to integrate unmanned systems across air and land domains.
-
-CTech • 15h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -290,7 +288,7 @@ Some of these beauty and tattoo machines look way too advanced to ignore. Watch 
 
 📺 Prototype Leaked
 
-👁️ 4K • 👍 275 • 💬 6 • ⏱️ 1:11 • 3h ago
+👁️ 4K • 👍 275 • 💬 6 • ⏱️ 1:11 • 4h ago
 
 ---
 
