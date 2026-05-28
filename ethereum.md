@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-28T16:19:54.952700+00:00'
+updated: '2026-05-28T19:12:29.635988+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 28, 2026 at 16:19 UTC  
+**Last Updated:** May 28, 2026 at 19:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,000.98
+### $2,026.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -3.4%  
-**30d:** -11.5%  
-**90d:** +1.6%  
-**1y:** -24.2%  
+**24h:** -2.1%  
+**7d:** -2.3%  
+**30d:** -10.4%  
+**90d:** +2.8%  
+**1y:** -23.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.33B
+**Market Cap:** $243.77B
 Rank #2
 
 **Circulating Supply:** 120,685,415 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.7%
+-59.2%
 
 **All-Time Low:** $0.43
-+459832.2%
++465816.4%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+14h ago
+
+---
+
+**[Support Ethereum core development by trying to win your share of $1M](https://www.reddit.com/r/ethereum/comments/1tqc2bk/support_ethereum_core_development_by_trying_to/)**
+
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 42m ago
 
 ---
 
@@ -80,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Lately I’ve been seeing more and more AI trading systems posting insane spot trading performances. Honestly, some of the results almost look too good to be true. Today AI can: analyze news instantly, detect patterns much faster than humans, trade without emotions, and operate 24/7. I’m seriously starting to wonder if we’re entering a completely new era of trading. Do independent traders still realistically have an edge long term? Or will algorithms and AI systems eventually outperform most human traders?
 
-48m ago
+3h ago
 
 ---
 
@@ -96,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 \&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
 
-16h ago
+19h ago
 
 ---
 
@@ -112,7 +118,7 @@ I put a decent amount into a DeFi project six months ago. This morning I went to
 
 Hear me out before attacking. Google had Eric Schmidt brought in to take it from a commercial search engine to a tech titan. There are skills required for founding a great technology which Vitalik has done a great job and there business skills required to make Ethereum a sustainable and neutral financial beast. I believe project is lacking the latter. Before you go off decentralization dogma, let's be serious, that phase of crypto is over. People want results, revenue and leadership that understands global capital flows & products. Ethereum is desperately lacking proven business leadership.
 
-1h ago
+4h ago
 
 ---
 
@@ -140,12 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[~$440M of STRC is now sitting in DeFi protocols — and most MSTR holders haven't noticed where the secondary float is going](https://www.reddit.com/r/ethereum/comments/1toen8p/440m_of_strc_is_now_sitting_in_defi_protocols_and/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
 
-The Block • 3h ago
+The Block • 6h ago
 
 ---
 
@@ -162,31 +162,15 @@ The Block • 3h ago
 
 Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.
 
-Decrypt • 19h ago
+Decrypt • 22h ago
 
 ---
 
-**[Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance](https://finance.yahoo.com/markets/crypto/articles/standard-chartered-reaffirms-40k-ethereum-154640482.html)**
+**[Tom Lee nears goal of owning 5% of ethereum supply](https://finance.yahoo.com/video/tom-lee-nears-goal-owning-170500949.html)**
 
-Analysts compared Ethereum's current position to Amazon following the dot-com bubble burst.
+Scott Melker discusses BitMine's Tom Lee's latest acquisition of ethereum (ETH-USD) his largest purchase to date, as he nears his goal of owning 5% of all ethereum available. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 33m ago
-
----
-
-**[Top Bank Says Ethereum’s Slump May Be Masking Major Upside](https://finance.yahoo.com/markets/crypto/articles/top-bank-says-ethereum-slump-154300205.html)**
-
-The cryptocurrency market has faced a turbulent stretch of late, and Ethereum (CRYPTO: $ETH) has not been spared. T...
-
-Yahoo Finance • 36m ago
-
----
-
-**[Can ethereum reclaim 2021 highs versus bitcoin?](https://finance.yahoo.com/markets/crypto/articles/ethereum-reclaim-2021-highs-versus-145922315.html)**
-
-Investing.com -- Standard Chartered analyst Geoff Kendrick is standing by a bullish long-term outlook for ethereum, arguing that a disconnect between the token's improving internal metrics and its lagging price is temporary and that a catch-up is only a matter of time.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,15 +178,7 @@ Yahoo Finance • 1h ago
 
 Decentralized lottery protocol Megapot is teaming up with Protocol Guild to launch what the firms describe as the crypto industry’s first programmable charity lottery.
 
-CoinDesk • 1h ago
-
----
-
-**[Current price of Ethereum for May 28, 2026](https://fortune.com/article/price-of-ethereum-05-28-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -230,9 +206,51 @@ The Block • 2d ago
 
 ---
 
+**[Current price of Ethereum for May 28, 2026](https://fortune.com/article/price-of-ethereum-05-28-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
+
+---
+
+**[Virtuals Protocol co-hosts first ERC-8183 builder session with Ethereum Foundation to standardize AI agent commerce](https://cryptobriefing.com/erc-8183-virtuals-protocol-ethereum-ai-agent-commerce/)**
+
+Virtuals Protocol and the Ethereum Foundation introduce ERC-8183, a new standard for AI agent commerce with escrowed payments and evaluator attestation.
+
+Crypto Briefing • 3h ago
+
+---
+
+**[Ethereum Price Falls Below $2,000 as Tom Lee’s ‘Supercycle’ Call Faces Scrutiny](https://www.ccn.com/news/crypto/ethereum-price-falls-below-2000-tom-lee-supercycle/)**
+
+CCN.com • 7h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum&#39;s Boomer Era? Apostates, EF Drama, and Solana Fights Back - The Chopping Block](https://www.youtube.com/watch?v=750Qohxtcpo)**
+
+Ethereum's midlife crisis hits the podcast as Max Resnick & David Hoffman unpack ETH's talent exodus, identity spiral, "Microsoft" ...
+
+📺 Unchained
+
+👁️ 445 • 👍 28 • 💬 11 • ⏱️ 1:05:13 • 3h ago
+
+---
+
+**[🚨 ETH Breaks $2K – Is This The Final Bottom?](https://www.youtube.com/watch?v=2WktFOHksXM)**
+
+CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 192 • 👍 23 • 💬 135 • ⏱️ 3:56 • 5h ago
+
+---
 
 **[Ethereum is Dying.](https://www.youtube.com/watch?v=G4iwlgqw7k8)**
 
@@ -240,7 +258,7 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 928 • 💬 44 • ⏱️ 29:37 • 1d ago
+👁️ 16K • 👍 931 • 💬 45 • ⏱️ 29:37 • 1d ago
 
 ---
 
@@ -250,7 +268,17 @@ Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerat
 
 📺 BULLRUNNERS
 
-👁️ 7K • 👍 346 • 💬 223 • ⏱️ 15:14 • 1d ago
+👁️ 7K • 👍 348 • 💬 204 • ⏱️ 15:14 • 1d ago
+
+---
+
+**[ETHEREUM CRASH UPDATE! (Will ETH Fall Lower?)](https://www.youtube.com/watch?v=-A4dMNWRH40)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 206 • 👍 9 • ⏱️ 5:09 • 9h ago
 
 ---
 
@@ -270,7 +298,7 @@ BITCOIN & ALTCOIN WARNING: Total Collapse Loading!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 9K • 👍 340 • 💬 227 • ⏱️ 22:34 • 12h ago
+👁️ 9K • 👍 350 • 💬 230 • ⏱️ 22:34 • 15h ago
 
 ---
 
@@ -280,47 +308,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 482 • 💬 41 • ⏱️ 18:27 • 2d ago
+👁️ 13K • 👍 486 • 💬 41 • ⏱️ 18:27 • 2d ago
 
 ---
 
-**[Ethereum: Bear Market Rally Running Out of Steam?](https://www.youtube.com/watch?v=YXGj0rLyKxQ)**
+**[BITCOIN: This Is Why It Dumped! (bad news) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=pCC0Uji68wA)**
 
-Ethereum remains stuck inside a larger corrective structure, and the current bounce still looks weak from an Elliott Wave ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 More Crypto Online
+📺 BitcoinHyper
 
-👁️ 6K • 👍 310 • 💬 7 • ⏱️ 9:06 • 20h ago
-
----
-
-**[ETHEREUM CRASH UPDATE! (Will ETH Fall Lower?)](https://www.youtube.com/watch?v=-A4dMNWRH40)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 155 • 👍 9 • ⏱️ 5:09 • 7h ago
-
----
-
-**[HUGE BITCOIN, ETHEREUM, &amp; XRP NEWS! CRYPTO RALLY STALLS!](https://www.youtube.com/watch?v=2i-3ZsRo7Hg)**
-
-Crypto News: BlackRock Bitcoin ETF sees a huge selloff. Strive acquires 1109 bitcoin, raising total holdings to 16500 coins.
-
-📺 Thinking Crypto
-
-👁️ 11K • 👍 628 • 💬 97 • ⏱️ 21:33 • 1d ago
-
----
-
-**[Grok AI Just UPDATED Its 2026 Crypto Market Top Prediction (BTC, ETH &amp; Altcoins)](https://www.youtube.com/watch?v=e40-vArZBNM)**
-
-Welcome Back To The Channel! iTrust Capital – $100 Bonus (Crypto Retirement Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 383 • 💬 64 • ⏱️ 16:48 • 1d ago
+👁️ 6K • 👍 457 • 💬 219 • ⏱️ 14:56 • 8h ago
 
 ---
 
@@ -330,7 +328,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 198 • 💬 39 • ⏱️ 0:32 • 14h ago
+👁️ 9K • 👍 209 • 💬 39 • ⏱️ 0:32 • 17h ago
 
 ---
 

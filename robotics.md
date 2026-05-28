@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-28T16:19:54.955658+00:00'
+updated: '2026-05-28T19:12:29.639153+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 28, 2026 at 16:19 UTC  
+**Last Updated:** May 28, 2026 at 19:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/2059620640815034466
 
-6h ago
+9h ago
 
 ---
 
@@ -44,15 +44,13 @@ From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/205962064081
 
 Been building this for 6 months. Original mechanical design, no open source blueprints. Current specs: — DS5160 60kg digital servo at core — GT2 belt drive transmission — Bearing mounted output shafts — 3D printed housing — Ender 3 — Core, shoulder, bicep assembled Moving like butter. Full demo coming soon. Happy to answer any questions.
 
-6h ago
+8h ago
 
 ---
 
-**[Standalone, high-performance 2D & 3D visualization in C++ / Python / MATLAB](https://www.reddit.com/r/robotics/comments/1tq0lw6/standalone_highperformance_2d_3d_visualization_in/)**
+**[my robo as army version hahaha](https://www.reddit.com/r/robotics/comments/1tq749m/my_robo_as_army_version_hahaha/)**
 
-Hi! We've often run into performance and deployment issues with existing visualization tools, so we created HEBI Charts, a custom library for 2D and 3D robotics visualization that is in-process, standalone, cross-platform, and has idiomatic 100% type-hinted bindings for Python, MATLAB, and C++. Decoupled Rendering In order to play well with Python's GIL and MATLAB's single-threaded nature, data ingestion is completely isolated from the UI thread. Telemetry is pushed into an internally double-buffered state that gets swapped at the start of every frame. This means that a Python or MATLAB script can update data from a busy-loop running at > 10 kHz, and the internal UI thread continuously renders the latest state at 60fps. Performance The rendering is fully hardware accelerated and automatically handles multi-instancing of 3D models. The linked video shows a few demos: Updating a complex UI at 50 kHz 100 subplots 1000 random lines 1 line with 1 million points updating at 5 MHz 1000 simultaneous robot displays w/ kinematics Cross-Platform It exposes a stable C ABI with zero-configuration installation (headers automatically fetch the binaries into a local cache). It runs natively with hardware GPU acceleration on Windows (amd64), Linux (amd64), and macOS (x86_64/arm64). Examples Standalone examples and test scripts are fully accessible in the example repository: https://github.com/HebiRobotics/hebi-charts-examples Let me know in case you have questions or suggestions. I'll also be at ICRA next week in case anyone wants to have a deeper discussion.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=TlaJmlVQf98) • 5h ago
+3h ago
 
 ---
 
@@ -60,15 +58,15 @@ Hi! We've often run into performance and deployment issues with existing visuali
 
 Newbie here, looking to get into Robotics. It is very inspiring to see partially working robotics videos that people post. There are a lot of videos on YT but they are generally finished work by experts which seem to be way out of reach. When I see working prototype videos here it gives me hope and inspiration. Thank you all for sharing.
 
-2h ago
+5h ago
 
 ---
 
-**[How could we make our bots talk to each other?](https://www.reddit.com/r/robotics/comments/1tpq9cy/how_could_we_make_our_bots_talk_to_each_other/)**
+**[Standalone, high-performance 2D & 3D visualization in C++ / Python / MATLAB](https://www.reddit.com/r/robotics/comments/1tq0lw6/standalone_highperformance_2d_3d_visualization_in/)**
 
-We are considering getting our bots to have a battle mode and are exploring comms between bots. What are some lightweight ways to implement this that might have already been explored and standardized? I have considered a wifi based basic comms (kinda like ROS Topics) that can allow us to have impact, health and scoring data be shared between bots that can allow us to really have a screen free battling experience.
+Hi! We've often run into performance and deployment issues with existing visualization tools, so we created HEBI Charts, a custom library for 2D and 3D robotics visualization that is in-process, standalone, cross-platform, and has idiomatic 100% type-hinted bindings for Python, MATLAB, and C++. Decoupled Rendering In order to play well with Python's GIL and MATLAB's single-threaded nature, data ingestion is completely isolated from the UI thread. Telemetry is pushed into an internally double-buffered state that gets swapped at the start of every frame. This means that a Python or MATLAB script can update data from a busy-loop running at > 10 kHz, and the internal UI thread continuously renders the latest state at 60fps. Performance The rendering is fully hardware accelerated and automatically handles multi-instancing of 3D models. The linked video shows a few demos: Updating a complex UI at 50 kHz 100 subplots 1000 random lines 1 line with 1 million points updating at 5 MHz 1000 simultaneous robot displays w/ kinematics Cross-Platform It exposes a stable C ABI with zero-configuration installation (headers automatically fetch the binaries into a local cache). It runs natively with hardware GPU acceleration on Windows (amd64), Linux (amd64), and macOS (x86_64/arm64). Examples Standalone examples and test scripts are fully accessible in the example repository: https://github.com/HebiRobotics/hebi-charts-examples Let me know in case you have questions or suggestions. I'll also be at ICRA next week in case anyone wants to have a deeper discussion.
 
-13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=TlaJmlVQf98) • 7h ago
 
 ---
 
@@ -76,15 +74,31 @@ We are considering getting our bots to have a battle mode and are exploring comm
 
 Just a little showcase on my implementation of pure pursuit for omni-directional robots. The original project was made back in late 2024 for the then upcoming ABU Robocon 2025 competition. Ended up not using it in the real competition due to mechanical oopsie with the lidar. And a year later I decided to revisit it and do some more tweaking. It is still not perfect as I need to implement the feed forward control to help the robot slow down smoothly when entering the curve. I also tested the combination of Google Cartographer with 2D Lidar + odom + IMU, which is something that Japan, China and Cambodia teams have done and able to somehow break the 2D flat word assumption on elevated competition field (with slope) while still maintaining accurate localization.
 
-1h ago
+4h ago
 
 ---
 
-**[Trained a SO101 robot to flip a tube upright and balance it on a tiny platform.](https://www.reddit.com/r/robotics/comments/1tpampg/trained_a_so101_robot_to_flip_a_tube_upright_and/)**
+**[How could we make our bots talk to each other?](https://www.reddit.com/r/robotics/comments/1tpq9cy/how_could_we_make_our_bots_talk_to_each_other/)**
 
-trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright and place it on a small platform the balancing is the part that surprised me. platform’s barely wider than the tube but the policy lands it cleanly and lets go without tipping it 150 episodes across 30 cells, 12 hr training on a g5.16xlarge works really well inside cells, weaker on interpolation between them Write more about it here https://x.com/pbshgthm/status/2059654080134529082?s=46 what’s a good way to handle inter-cell interpolation without just collecting more data?
+We are considering getting our bots to have a battle mode and are exploring comms between bots. What are some lightweight ways to implement this that might have already been explored and standardized? I have considered a wifi based basic comms (kinda like ROS Topics) that can allow us to have impact, health and scoring data be shared between bots that can allow us to really have a screen free battling experience.
 
-23h ago
+16h ago
+
+---
+
+**[Wall-OSS-0.5 is an open VLA with a zero-shot tabletop demo reel. Has anyone tried the checkpoint on real hardware yet](https://www.reddit.com/r/robotics/comments/1tq8myb/walloss05_is_an_open_vla_with_a_zeroshot_tabletop/)**
+
+Forwarding this because the "Autonomous w/o Fine-Tuning" watermark on the demo reel is doing a lot of work, and the important question is whether it holds up outside the release team's hands. The video appears to show a pretrained Wall-OSS-0.5 checkpoint from X Square Robot running a set of tabletop tasks back to back, all with the same watermark in the corner. Tasks I could pick out: open a pot lid and drop grapes inside, cover blocks with a cloth, ring on peg, pen and eraser into a bag, pair socks, screwdriver into cup, sort blocks by color, multi-step "Sprite on the green plate, yellow square on the yellow plate, eraser in the blue basket", place the cup to the right of the calculator, shred a sheet of paper, put the cup on the shelf. The ones that surprised me are the deformable cloth covering and the multi-step spatial-conditioned sequences. The release around it is a 4B VLA with a 3B VLM backbone and action experts in an MoT layout. The report says it was pretrained across 20+ embodiments, with 1M+ robot trajectories per epoch plus a 90M-sample multimodal corpus. Code is here if anyone wants to inspect it: https://github.com/X-Square-Robot/wall-x. Paper: https://x2robot.com/api/files/file/wall_oss_05.pdf. Hugging Face org: https://huggingface.co/x-square-robot The reason this matters for the people on this sub more than another lab demo: their headline claim is that they evaluate the pretrained checkpoint on a 17-task real-robot suite before any task specific fine tuning, and report 4/17 above 80 task progress with one held-out deformable task (rope tightening, 82). Most VLA papers only report after fine tune, so you cannot tell whether the checkpoint is actually useful or whether you are just measuring how well your demonstration set covered the test task. The questions I would actually like answered are pretty practical. If someone tries this on a UR / Franka / similar arm, what breaks first out of distribution? My guess is still the precision tasks, not the semantic ones. Also curious whether anyone has profiled inference latency on commodity hardware, since an independent number would be much more useful than the release wording. Posting the demo reel as the attached video; original is on their project page. If anyone tests the checkpoint locally, the failure cases would be more useful than another clean reel.
+
+2h ago
+
+---
+
+**[Duke scientists create robot with 20 legs, eyes everywhere, no front or back](https://www.reddit.com/r/robotics/comments/1tq83up/duke_scientists_create_robot_with_20_legs_eyes/)**
+
+A robot being developed at Duke University is almost ready to face the world, in any direction. Instead of trying to copy symmetrical shapes from nature by building robots that look like people, dogs or insects, engineering professor Boyuan Chen and his team focused on uniformity in action, or what he calls “dynamic symmetry.” The result was Argus. The roly-poly robot named after a mythological many-eyed giant has depth-sensing cameras attached to 20 telescoping legs that radiate from a central core. With no front, back, top or bottom, it can see and move in any direction instantly. “Instead of measuring how your legs are arranged around a different part of your body, we’re measuring how fast you can move in any direction,” Chen said. “Who said, you know, if you have a robot to help us in a most effective way, it has to look like us?" Read more [paywall removed for Redditors]: https://fortune.com/2026/05/28/duke-argus-robot-20-legs-nightmare-omnidirectional/?utm_source=reddit/
+
+🔗 [Fortune](https://fortune.com/2026/05/28/duke-argus-robot-20-legs-nightmare-omnidirectional/?utm_source=reddit/) • 3h ago
 
 ---
 
@@ -92,19 +106,7 @@ trained a diffusion policy on the so-101 using @LeRobotHF to flip a tube upright
 
 RISE is an interesting robot learning project from CUHK, HKU, Tsinghua, and collaborators. Instead of relying only on costly real-world trial and error, it uses a compositional world model to let the policy improve through imagined rollouts, then tests on tasks like dynamic brick sorting, backpack packing, and box closing with a PiPER 6-DOF arm. Interesting example of how world models are being applied to real-world robot manipulation.
 
-14h ago
-
----
-
-**[Spider robot, leg test](https://www.reddit.com/r/robotics/comments/1tpt60s/spider_robot_leg_test/)**
-
-11h ago
-
----
-
-**[Student Built an Omni-Wheel Robotic Car Using ESP32](https://www.reddit.com/r/robotics/comments/1tpzg7w/student_built_an_omniwheel_robotic_car_using_esp32/)**
-
-5h ago
+17h ago
 
 ---
 
@@ -116,7 +118,7 @@ RISE is an interesting robot learning project from CUHK, HKU, Tsinghua, and coll
 
 Hugging Face debuts $2,500 bipedal robot project for builders and researchers.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
 
 ---
 
@@ -124,21 +126,37 @@ Ars Technica • 1d ago
 
 A startup that developed a robot capable of putting human restaurant workers out of a job and partnered with Domino's, has shut down.
 
-Futurism • 1d ago
+Futurism • 2d ago
 
 ---
 
-**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
+**[Serve Robotics vs. Symbotic: Which Robotics Stock Has More Upside?](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-vs-symbotic-robotics-141700294.html)**
 
-Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
+Could Symbotic's profitable automation platform outpace Serve Robotics as demand for AI-driven logistics grows?
 
-AP News • 22h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
+
+Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
+
+NVIDIA Blog • 6h ago
+
+---
+
+**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
+
+The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
+
+AP News • 9h ago
 
 ---
 
 **[Alibaba, Tencent lead pivot from chatbots to embodied AI for robotics](https://www.scmp.com/tech/tech-trends/article/3355178/alibaba-tencent-lead-pivot-chatbots-embodied-ai-robotics)**
 
-South China Morning Post • 5h ago
+South China Morning Post • 8h ago
 
 ---
 
@@ -150,11 +168,11 @@ Rheinmetall • 1d ago
 
 ---
 
-**[Inside a Millersville lab, interns collaborate on real-world robotics projects](https://lancasteronline.com/news/local/inside-a-millersville-lab-interns-collaborate-on-real-world-robotics-projects/article_475df3c7-7621-4391-9884-06dfdd733c70.html)**
+**[Robotics, Science Underway as Cosmonauts Prep for Wednesday Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/05/26/robotics-science-underway-as-cosmonauts-prep-for-wednesday-spacewalk/)**
 
-Wheel.Me hummed and hugged the ground as the autonomous mobile robot careened around corners, working its way through the aisles of Millersville University’s Automation and Robotics Lab.
+Robotics controllers wrapped up a weekend of swapping scientific hardware packed inside the SpaceX Dragon cargo spacecraft’s trunk for installation on the International Space Station. Meanwhile, the Expedition 74 crew is continuing its biotechnology and botany research while getting ready for a spacewalk scheduled for Wednesday, May 27.
 
-LancasterOnline • 1d ago
+NASA (.gov) • 2d ago
 
 ---
 
@@ -174,35 +192,9 @@ CTech • 1d ago
 
 ---
 
-**[Seattle teens to take on real-world ocean science challenges in underwater robotics championship](https://www.geekwire.com/2026/seattle-teens-to-take-on-real-world-ocean-science-challenges-in-underwater-robotics-championship/)**
-
-This year's tasks include mapping cold-water coral ecosystems, deploying ocean observatory instrumentation, modeling offshore wind turbines, and operating profiling floats beneath sea ice.
-
-GeekWire • 23h ago
-
----
-
-**[Robotics, Science Underway as Cosmonauts Prep for Wednesday Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/05/26/robotics-science-underway-as-cosmonauts-prep-for-wednesday-spacewalk/)**
-
-Robotics controllers wrapped up a weekend of swapping scientific hardware packed inside the SpaceX Dragon cargo spacecraft’s trunk for installation on the International Space Station. Meanwhile, the Expedition 74 crew is continuing its biotechnology and botany research while getting ready for a spacewalk scheduled for Wednesday, May 27.
-
-NASA (.gov) • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Inside The $440 Million Startup Building The Brain For Physical AI](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
-
-Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
-
-📺 Forbes
-
-👁️ 15K • 👍 436 • 💬 22 • ⏱️ 10:21 • 23h ago
-
----
 
 **[Figure 03 AI Robot Reveals Its UNFAIR Advantage… Humans Can’t Match It](https://www.youtube.com/watch?v=NPOqqDASRCA)**
 
@@ -214,13 +206,23 @@ A 22-year-old intern just beat a humanoid robot… but this might be the LAST ti
 
 ---
 
+**[Inside The $440 Million Startup Building The Brain For Physical AI](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
+
+Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
+
+📺 Forbes
+
+👁️ 17K • 👍 469 • 💬 23 • ⏱️ 10:21 • 1d ago
+
+---
+
 **[War Robots - New Robot Shoggoth Unlocked In Update 12.1 WR Shoggoth Gameplay](https://www.youtube.com/watch?v=kfHnflcURI0)**
 
 War Robots - New robot Shoggoth unlocked in update 12.1. In this video, I run a maxed out MK3 Shoggoth with new weapons ...
 
 📺 Adrian Chong
 
-👁️ 6K • 👍 265 • 💬 54 • ⏱️ 18:23 • 1d ago
+👁️ 6K • 👍 268 • 💬 54 • ⏱️ 18:23 • 1d ago
 
 ---
 
@@ -230,7 +232,27 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 111K • 👍 3K • 💬 230 • ⏱️ 1:55 • 2d ago
+👁️ 113K • 👍 3K • 💬 231 • ⏱️ 1:55 • 2d ago
+
+---
+
+**[Potential dangers of humanoid robots](https://www.youtube.com/watch?v=01ZSOp4yYAE)**
+
+Humanoid robots are devices that could be used to improve our daily lives. But could they also be used for surveillance?
+
+📺 ABC News
+
+👁️ 86K • 👍 1K • 💬 381 • ⏱️ 5:15 • 6d ago
+
+---
+
+**[LIVING LEGENDS FROM SPAWN! NEW SHOGGOTH ROBOT IS SO OVERPOWERED! (War Robots)](https://www.youtube.com/watch?v=xy3SQW3nab8)**
+
+In this video I tested out the new Shoggoth robot. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 4K • 👍 218 • 💬 64 • ⏱️ 14:41 • 1d ago
 
 ---
 
@@ -244,13 +266,13 @@ The gap between human and machine just closed. What started as a standard 8-hour
 
 ---
 
-**[Potential dangers of humanoid robots](https://www.youtube.com/watch?v=01ZSOp4yYAE)**
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
 
-Humanoid robots are devices that could be used to improve our daily lives. But could they also be used for surveillance?
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
 
-📺 ABC News
+📺 ESPN
 
-👁️ 86K • 👍 1K • 💬 378 • ⏱️ 5:15 • 5d ago
+👁️ 255K • 👍 5K • 💬 493 • ⏱️ 4:57 • 2d ago
 
 ---
 
@@ -260,17 +282,7 @@ Tiege Hanley: Get your first box 40% off (+ FREE gift), and 20% off for life, at
 
 📺 The Millionaire Morning Show w/ Anton Daniels
 
-👁️ 13K • 👍 509 • 💬 220 • ⏱️ 22:52 • 1d ago
-
----
-
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
-
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
-
-📺 ESPN
-
-👁️ 252K • 👍 5K • 💬 485 • ⏱️ 4:57 • 2d ago
+👁️ 13K • 👍 529 • 💬 222 • ⏱️ 22:52 • 1d ago
 
 ---
 
@@ -280,17 +292,7 @@ Physical AI isn't coming. It's already performing surgeries, sorting packages at
 
 📺 MarketBeat
 
-👁️ 23K • 👍 620 • 💬 8 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Extreme Dynamic Symmetry EnablesOmnidirectional and Multifunctional Robots](https://www.youtube.com/watch?v=Nd-I4YNQEuY)**
-
-Project website (paper, code, video): http://generalroboticslab.com/Argus Abstract: Symmetry is a central organizing principle in ...
-
-📺 General Robotics Lab
-
-👁️ 8K • 👍 670 • 💬 129 • ⏱️ 3:03 • 22h ago
+👁️ 23K • 👍 629 • 💬 8 • ⏱️ 3:00 • 1d ago
 
 ---
 
