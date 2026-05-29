@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-29T22:12:58.033017+00:00'
+updated: '2026-05-29T23:49:23.467375+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 29, 2026 at 22:12 UTC  
+**Last Updated:** May 29, 2026 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
 
-11h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
 
-8h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-2h ago
+3h ago
 
 ---
 
@@ -60,13 +60,13 @@ Just wanted to share my progress on building a loop for collect data->train->dep
 
 This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help from 20SSFactory’s initial robot design. #Team9541
 
-22h ago
+1d ago
 
 ---
 
 **[This robot eats your Money](https://www.reddit.com/r/robotics/comments/1tqqy34/this_robot_eats_your_money/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help fr
 
 A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 16h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 17h ago
 
 ---
 
@@ -82,7 +82,7 @@ A San Francisco suit alleges Bot Company staff secretly tested prototype househo
 
 Serve Robotics CEO Ali Kashani told a story about someone claiming one of the company’s delivery robots broke their guitar. The team checked the robot’s video. It showed the person trying to kick the robot. The guitar hit the robot’s back wheel and broke. Serve replaced the guitar anyway because the person said they needed it for work. Ali explains how sidewalk delivery puts robots in the middle of everyday public behavior. People stop, film, help, block, complain, or mess with the robot. Some reactions are harmless. Some are not. For delivery robots, the street is not a clean test course. It is a shared space with all the normal weirdness of people moving through a city.
 
-7h ago
+9h ago
 
 ---
 
@@ -94,17 +94,17 @@ From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/205962064081
 
 ---
 
+**[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
+
+13h ago
+
+---
+
 **[ROS News for the Week of May 25th, 2026](https://www.reddit.com/r/robotics/comments/1tqzwf9/ros_news_for_the_week_of_may_25th_2026/)**
 
 ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next Monday! Myself and @mrpollo will be there and we’ve got a ROS Meetup scheduled for Tuesday night (June 2nd) and a PX4 / Dronecode Social planned for Thursday night (June 4th). I’ll be handing out Lyrical stickers and if you want to set up a time to chat just DM me on Discourse. We’ve also got an open thread for organizing smaller-scale meetings and paper / presentation shout outs.       Phase 1 of the Intrinsic AI for...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 10h ago
-
----
-
-**[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
-
-12h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 11h ago
 
 ---
 
@@ -116,7 +116,15 @@ ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next M
 
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
-BBC • 22h ago
+BBC • 1d ago
+
+---
+
+**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
+
+Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
+
+Fox News • 11h ago
 
 ---
 
@@ -128,19 +136,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
-
-Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
-
-Fox News • 10h ago
-
----
-
 **[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
 
 The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
 
-AP News • 14h ago
+AP News • 15h ago
 
 ---
 
@@ -148,7 +148,7 @@ AP News • 14h ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 7h ago
+ZME Science • 8h ago
 
 ---
 
@@ -163,6 +163,14 @@ AP News • 2d ago
 **[It looks like a sea urchin, but this strange 20-legged machine is rewriting what robots can do](https://techxplore.com/news/2026-05-sea-urchin-strange-legged-machine.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
+
+From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
+
+Bessemer Venture Partners • 1d ago
 
 ---
 
@@ -182,17 +190,19 @@ The Jerusalem Post • 1d ago
 
 ---
 
-**[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
-
-Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
-
-Rice University • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Engine AI Just Started Mass Producing Humanoid Robots](https://www.youtube.com/watch?v=S8_6iLPbu2A)**
+
+China's humanoid robot industry is accelerating fast as Engine AI officially launches its Intelligent Manufacturing Base in ...
+
+📺 DPCcars
+
+👁️ 11K • 👍 92 • 💬 61 • ⏱️ 1:55 • 1d ago
+
+---
 
 **[THIS BUILD LOOKS MENACING! TESTING THE TORCH ULTIMATE NODENS! (War Robots)](https://www.youtube.com/watch?v=ZS3cAYMdwds)**
 
@@ -200,7 +210,7 @@ In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.gam
 
 📺 Wolfblood7
 
-👁️ 2K • 👍 119 • 💬 25 • ⏱️ 15:23 • 12h ago
+👁️ 2K • 👍 132 • 💬 26 • ⏱️ 15:23 • 13h ago
 
 ---
 
@@ -210,7 +220,7 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 30K • 👍 713 • 💬 28 • ⏱️ 10:21 • 2d ago
+👁️ 31K • 👍 737 • 💬 28 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -220,27 +230,7 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 7K • 👍 186 • 💬 38 • ⏱️ 5:11 • 17h ago
-
----
-
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
-
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
-
-📺 ESPN
-
-👁️ 278K • 👍 5K • 💬 534 • ⏱️ 4:57 • 3d ago
-
----
-
-**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
-
-The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
-
-📺 PREDATOR WR
-
-👁️ 6K • 👍 276 • 💬 81 • ⏱️ 13:36 • 10h ago
+👁️ 8K • 👍 203 • 💬 41 • ⏱️ 5:11 • 18h ago
 
 ---
 
@@ -250,17 +240,17 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 149 • 💬 21 • ⏱️ 18:41 • 2d ago
+👁️ 6K • 👍 150 • 💬 21 • ⏱️ 18:41 • 2d ago
 
 ---
 
-**[We Just Hosted Europe’s Greatest Robotics Meetup](https://www.youtube.com/watch?v=wBTZH-8Y9Iw)**
+**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
 
-Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 friends together. 500 people applied once we put a ...
+The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
 
-📺 Andreas Klinger @ PROTOTYPE
+📺 PREDATOR WR
 
-👁️ 5K • 👍 413 • 💬 59 • ⏱️ 10:49 • 11h ago
+👁️ 7K • 👍 308 • 💬 85 • ⏱️ 13:36 • 11h ago
 
 ---
 
@@ -270,17 +260,27 @@ Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies tra
 
 📺 Duke Engineering
 
-👁️ 15K • 👍 2K • 💬 87 • ⏱️ 1:50 • 1d ago
+👁️ 16K • 👍 2K • 💬 90 • ⏱️ 1:50 • 1d ago
 
 ---
 
-**[You Won&#39;t Believe What They Invented 1,400 Years](https://www.youtube.com/watch?v=LBZPYMF1zw0)**
+**[We Just Hosted Europe’s Greatest Robotics Meetup](https://www.youtube.com/watch?v=wBTZH-8Y9Iw)**
 
-Think modern technology started in Silicon Valley? Think again. 1400 years ago, during the dawn of the Islamic Golden Age, ...
+Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 friends together. 500 people applied once we put a ...
 
-📺 Tek Zaman
+📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 413 • 👍 24 • ⏱️ 1:43 • 3h ago
+👁️ 6K • 👍 459 • 💬 63 • ⏱️ 10:49 • 12h ago
+
+---
+
+**[VEX V5 Override | Hero Bot &quot;Flex&quot; | Part 2](https://www.youtube.com/watch?v=PCEbr8BltXQ)**
+
+ORDER HERE: https://www.vex.com/VEXgames26-27yt SUBSCRIBE: https://www.vex.com/YouTube ...
+
+📺 VEX Robotics
+
+👁️ 65K • 👍 51 • 💬 19 • ⏱️ 4:27 • 4d ago
 
 ---
 
@@ -290,7 +290,7 @@ The mass production era is officially here. As a brand new 10000-unit factory li
 
 📺 AI News
 
-👁️ 11K • 👍 211 • 💬 38 • ⏱️ 8:02 • 6d ago
+👁️ 12K • 👍 211 • 💬 38 • ⏱️ 8:02 • 6d ago
 
 ---
 

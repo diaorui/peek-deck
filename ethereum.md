@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-29T22:12:58.030206+00:00'
+updated: '2026-05-29T23:49:23.464510+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 29, 2026 at 22:12 UTC  
+**Last Updated:** May 29, 2026 at 23:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,006.59
+### $2,012.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -5.3%  
-**30d:** -11.1%  
-**90d:** +3.6%  
-**1y:** -20.6%  
+**24h:** -0.0%  
+**7d:** -5.1%  
+**30d:** -10.9%  
+**90d:** +3.8%  
+**1y:** -20.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.68B
+**Market Cap:** $242.46B
 Rank #2
 
 **Circulating Supply:** 120,685,350 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.2%
+-59.4%
 
 **All-Time Low:** $0.43
-+466347.6%
++463880.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency-140600011.html Paxos currently supports PayPal’s stablecoin and tokenized gold mostly on ETH, but this will allow them to bring equities onto eth This is major bullish news
 
-14h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with multiproofs, FTSE Russell US indexes: Bitmine & Sharplink to join
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-1h ago
+3h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In this thread posted by the Everstake team they raise the point that "Past a certain staking ratio, more ETH being staked does not actually make the network more secure. But it keeps increasing gross issuance. And if a small number of large providers end up dominating the validator set, the slashing mechanism that enforces Ethereum's security becomes effectively unusable. A provider controlling enough stake becomes too big to slash without causing systemic damage to the whole network." Further posts in the thread say three camps have formed with differing opinions on this staking related issue, without being able to come to a consensus on a fix. Thoughts? https://preview.redd.it/2u02fc0hky3h1.png?width=1113&format=png&auto=webp&s=a448979c219e1967659e4b88fe37ec226ce5b7ce
 
-23h ago
+1d ago
 
 ---
 
@@ -166,11 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum’s Price Breaks Down Below $2,000](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-breaks-down-below-133100386.html)**
+**[What $1,000 in Bitcoin, Ethereum, And XRP Five Years Ago Is Worth Today](https://finance.yahoo.com/markets/crypto/articles/1-000-bitcoin-ethereum-xrp-221118100.html)**
 
-The price of Ethereum (CRYPTO: $ETH) has broken down and fallen below $2,000 U.S. as cryptocurrencies continue to d...
+Five years ago, splitting $1,000 evenly across Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and XRP (CRYPTO: XRP) seemed like a smart way to play the crypto market. Rather than betting everything on a single asset, you spread the risk across the three biggest names in the space. What happened to that $1,000 over the next ... What $1,000 in Bitcoin, Ethereum, And XRP Five Years Ago Is Worth Today
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -182,19 +182,19 @@ The Block • 1d ago
 
 ---
 
-**[Could Hyperliquid Be the Next Ethereum?](https://www.fool.com/investing/2026/05/29/could-hyperliquid-be-the-next-ethereum/)**
-
-This emerging network is shaping up to be a powerhouse.
-
-The Motley Fool • 12h ago
-
----
-
 **[Current price of Ethereum for May 29, 2026](https://fortune.com/article/price-of-ethereum-05-29-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 10h ago
+
+---
+
+**[Could Hyperliquid Be the Next Ethereum?](https://www.fool.com/investing/2026/05/29/could-hyperliquid-be-the-next-ethereum/)**
+
+This emerging network is shaping up to be a powerhouse.
+
+The Motley Fool • 13h ago
 
 ---
 
@@ -202,15 +202,15 @@ Fortune • 8h ago
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 4h ago
 
 ---
 
-**[SOFI Stock Gains After SoFiUSD Stablecoin Rollout On Ethereum, Solana – ‘This Is What GENIUS Enabled,’ Says Crypto Council CEO](https://www.tradingview.com/news/stocktwits:ec2a1508e094b:0-sofi-stock-gains-after-sofiusd-stablecoin-rollout-on-ethereum-solana-this-is-what-genius-enabled-says-crypto-council-ceo/)**
+**[Crypto Faces Nearly $1 Billion In Liquidations As Bitcoin, Ethereum Crash](https://www.tradingview.com/news/newsbtc:9b2f16166094b:0-crypto-faces-nearly-1-billion-in-liquidations-as-bitcoin-ethereum-crash/)**
 
-Shares of SoFi Technologies (SOFI) edged higher on Wednesday morning after the company launched SoFiUSD (SoFiD), which it said is the first stablecoin issued by a U.S. national bank.SOFI’s stock gained over 2% at market open. Retail sentiment around the fintech players on Stocktwits rose to ‘neutra…
+Data shows the crypto derivatives market has suffered a massive amount of liquidations following the plunge that Bitcoin, Ethereum, and other assets have seen.Bitcoin & Ethereum Are Both Down More Than 5% For The Past WeekThe second half of May so far has seen a reversal of trend for the cryptocurr…
 
-TradingView • 2d ago
+TradingView • 18h ago
 
 ---
 
@@ -220,9 +220,9 @@ Investing.com • 1d ago
 
 ---
 
-**[Standard Chartered resets Ethereum prediction for the rest of 2026](https://www.thestreet.com/crypto/markets/standard-chartered-resets-ethereum-prediction-for-the-rest-of-2026)**
+**[Ethereum Price Falls Below $2,000 as Tom Lee’s ‘Supercycle’ Call Faces Scrutiny](https://www.ccn.com/news/crypto/ethereum-price-falls-below-2000-tom-lee-supercycle/)**
 
-thestreet.com • 1d ago
+CCN.com • 1d ago
 
 ---
 
@@ -236,27 +236,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 455 • 👍 40 • 💬 26 • ⏱️ 20:38 • 5h ago
-
----
-
-**[Ethereum is Dying.](https://www.youtube.com/watch?v=G4iwlgqw7k8)**
-
-Today, Ran takes a closer look at Ethereum's current identity crisis, from slowing momentum and negative sentiment to growing ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 963 • 💬 45 • ⏱️ 29:37 • 2d ago
-
----
-
-**[The Crypto Market Is Breaking Down.. (Look What I Discovered)](https://www.youtube.com/watch?v=N89tLRFFSIc)**
-
-The Crypto Market Is Breaking Down.. (Look What I Discovered) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 134 • ⏱️ 10:32 • 23h ago
+👁️ 1K • 👍 79 • 💬 46 • ⏱️ 20:38 • 6h ago
 
 ---
 
@@ -266,7 +246,17 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 444 • 👍 84 • 💬 17 • ⏱️ 7:41 • 5h ago
+👁️ 828 • 👍 121 • 💬 44 • ⏱️ 7:41 • 7h ago
+
+---
+
+**[Ethereum is Dying.](https://www.youtube.com/watch?v=G4iwlgqw7k8)**
+
+Today, Ran takes a closer look at Ethereum's current identity crisis, from slowing momentum and negative sentiment to growing ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 968 • 💬 45 • ⏱️ 29:37 • 2d ago
 
 ---
 
@@ -276,7 +266,7 @@ Tangem 50% off your 2nd Tangem Card Set ➡ Until 25 May 20026 Tangem 20% off + 
 
 📺 Your Crypto Crew
 
-👁️ 464 • 👍 51 • 💬 5 • ⏱️ 10:05 • 9h ago
+👁️ 654 • 👍 65 • 💬 6 • ⏱️ 10:05 • 10h ago
 
 ---
 
@@ -286,37 +276,27 @@ CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 658 • 👍 30 • 💬 139 • ⏱️ 3:56 • 1d ago
+👁️ 677 • 👍 30 • 💬 127 • ⏱️ 3:56 • 1d ago
 
 ---
 
-**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
+**[ETH Ethereum Price Prediction: 28th of May](https://www.youtube.com/watch?v=buD7QUN_ZbU)**
 
-Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 BULLRUNNERS
+📺 C-Zar Gets Crypto 
 
-👁️ 7K • 👍 357 • 💬 193 • ⏱️ 15:14 • 2d ago
-
----
-
-**[Ethereum Bear Flag Broken: MASSIVE Crash Incoming Soon?](https://www.youtube.com/watch?v=oaiEnKXplCM)**
-
-OUR MEMORIAL DAY $800 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.io/indicators/ Join Trade Confident: ...
-
-📺 Trade Confident
-
-👁️ 74 • 👍 8 • 💬 1 • ⏱️ 5:18 • 3h ago
+👁️ 165 • 👍 17 • 💬 19 • ⏱️ 10:46 • 1d ago
 
 ---
 
-**[ETH to $8.2k is Programmed](https://www.youtube.com/watch?v=QEQwg1JXugQ)**
+**[Big Ethereum News Today #crypto](https://www.youtube.com/watch?v=KBY1zK0G5xM)**
 
-Join Discord Group https://whop.com/checkout/plan_o6uAeTDACHSyE X https://twitter.com/PainofCrypt0 Instagram ...
+Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
 
-📺 Pain of Crypto
+📺 Altcoin Daily
 
-👁️ 3K • 👍 127 • 💬 13 • ⏱️ 7:28 • 3d ago
+👁️ 13K • 👍 268 • 💬 64 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -326,7 +306,27 @@ Ethereum's midlife crisis hits the podcast as Max Resnick & David Hoffman unpack
 
 📺 Unchained
 
-👁️ 3K • 👍 111 • 💬 45 • ⏱️ 1:05:13 • 1d ago
+👁️ 4K • 👍 113 • 💬 45 • ⏱️ 1:05:13 • 1d ago
+
+---
+
+**[Ethereum-Niedergang? Vitalik Buterin zieht die Reißleine!](https://www.youtube.com/watch?v=HqC3ZQVQBRI)**
+
+Jetzt gratis sichern - Die neue „Blockchain-Investor“-App: ₿ ▻ Google Play ...
+
+📺 Krypto Report
+
+👁️ 11K • 👍 752 • 💬 31 • ⏱️ 15:05 • 1d ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
+
+Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
+
+📺 BULLRUNNERS
+
+👁️ 8K • 👍 358 • 💬 193 • ⏱️ 15:14 • 2d ago
 
 ---
 
