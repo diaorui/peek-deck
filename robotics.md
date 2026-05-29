@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-29T17:33:44.348070+00:00'
+updated: '2026-05-29T20:26:36.808174+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 29, 2026 at 17:33 UTC  
+**Last Updated:** May 29, 2026 at 20:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
 
-7h ago
+10h ago
 
 ---
 
@@ -44,7 +44,15 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
 
-4h ago
+6h ago
+
+---
+
+**[Working on building a software layer for manipulators, finally got it working for simulation and physical!](https://www.reddit.com/r/robotics/comments/1tre46l/working_on_building_a_software_layer_for/)**
+
+Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
+
+16m ago
 
 ---
 
@@ -52,13 +60,13 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help from 20SSFactory’s initial robot design. #Team9541
 
-17h ago
+20h ago
 
 ---
 
 **[This robot eats your Money](https://www.reddit.com/r/robotics/comments/1tqqy34/this_robot_eats_your_money/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -66,7 +74,7 @@ This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help fr
 
 A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 11h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 14h ago
 
 ---
 
@@ -74,7 +82,7 @@ A San Francisco suit alleges Bot Company staff secretly tested prototype househo
 
 Serve Robotics CEO Ali Kashani told a story about someone claiming one of the company’s delivery robots broke their guitar. The team checked the robot’s video. It showed the person trying to kick the robot. The guitar hit the robot’s back wheel and broke. Serve replaced the guitar anyway because the person said they needed it for work. Ali explains how sidewalk delivery puts robots in the middle of everyday public behavior. People stop, film, help, block, complain, or mess with the robot. Some reactions are harmless. Some are not. For delivery robots, the street is not a clean test course. It is a shared space with all the normal weirdness of people moving through a city.
 
-2h ago
+5h ago
 
 ---
 
@@ -90,19 +98,13 @@ From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/205962064081
 
 ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next Monday! Myself and @mrpollo will be there and we’ve got a ROS Meetup scheduled for Tuesday night (June 2nd) and a PX4 / Dronecode Social planned for Thursday night (June 4th). I’ll be handing out Lyrical stickers and if you want to set up a time to chat just DM me on Discourse. We’ve also got an open thread for organizing smaller-scale meetings and paper / presentation shout outs.       Phase 1 of the Intrinsic AI for...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 5h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 8h ago
 
 ---
 
 **[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
 
-7h ago
-
----
-
-**[my robo as army version hahaha](https://www.reddit.com/r/robotics/comments/1tq749m/my_robo_as_army_version_hahaha/)**
-
-1d ago
+10h ago
 
 ---
 
@@ -110,43 +112,67 @@ ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next M
 
 ## Google News: "robotics"
 
-**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
-
-The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
-
-AP News • 1d ago
-
----
-
-**[3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/)**
-
-Hugging Face debuts $2,500 bipedal robot project for builders and researchers.
-
-Ars Technica • 3d ago
-
----
-
 **[Humanoid robots 'the future' of car making, says BMW](https://www.bbc.com/news/articles/cgmpwzzvxr2o)**
 
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
-BBC • 17h ago
+BBC • 20h ago
 
 ---
 
-**[Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of](https://finance.yahoo.com/markets/options/articles/three-humanoid-robotics-etfs-built-170504460.html)**
+**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
 
-Humanoid robotics moved from concept videos to factory floors over the past 18 months, and three ETFs now offer materially different ways to play it: Themes Humanoid Robotics ETF (NASDAQ:BOTT), ROBO Global Robotics and Automation Index ETF (NYSEARCA:ROBO), and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ). Each captures the theme from a different ... Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of
+Will humanoids redefine how battles are fought and won?
 
-Yahoo Finance • 1d ago
+Popular Mechanics • 1d ago
 
 ---
 
-**[You Can Get Your Home Cleaned For Free If You Let Robots Watch](https://www.forbes.com/sites/johnkoetsier/2026/05/29/you-can-get-your-home-cleaned-for-free-if-you-let-robots-watch/)**
+**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
 
-Want a clean home? You can get it for free ... if you let cleaners be recorded while working. The data? It will be used to train humanoid robots ...
+Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
 
-Forbes • 44m ago
+Fox News • 8h ago
+
+---
+
+**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
+
+The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
+
+AP News • 12h ago
+
+---
+
+**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
+
+Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
+
+The Frederick News-Post • 10h ago
+
+---
+
+**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus/)**
+
+Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
+
+ZME Science • 5h ago
+
+---
+
+**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
+
+Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
+
+AP News • 2d ago
+
+---
+
+**[20 legs enables all-direction motion freedom to Argus robot](https://interestingengineering.com/ai-robotics/new-20-legged-argus-robot-redefines-robotics-with-directionless-movement-design)**
+
+US researchers build Argus, a 20-legged robot with uniform motion in all directions for extreme terrain adaptability.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -166,43 +192,9 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
-
-Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
-
-Rice University • 1d ago
-
----
-
-**[How AI & Robotics Are Modernizing Lockbox Processing](https://www.jpmorgan.com/payments/newsroom/ai-robotics-lockbox-processing)**
-
-See how J.P. Morgan Payments uses AI and robotics to automate lockbox, check and remittance processing with greater speed, accuracy and security.
-
-J.P. Morgan • 2d ago
-
----
-
-**[A Robot Hand That Taught Itself to Play Piano Could Change the Future of Machines](https://viterbischool.usc.edu/news/2026/05/a-robot-hand-that-taught-itself-to-play-piano-could-change-the-future-of-machines/)**
-
-USC researchers built a robotic hand that hears a melody once and plays it back after just two minutes of self-taught practice on a keyboard. They say the implications go far beyond music.
-
-USC Viterbi School of Engineering • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
-
-The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
-
-📺 PREDATOR WR
-
-👁️ 4K • 👍 239 • 💬 73 • ⏱️ 13:36 • 5h ago
-
----
 
 **[THIS BUILD LOOKS MENACING! TESTING THE TORCH ULTIMATE NODENS! (War Robots)](https://www.youtube.com/watch?v=ZS3cAYMdwds)**
 
@@ -210,17 +202,7 @@ In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.gam
 
 📺 Wolfblood7
 
-👁️ 2K • 👍 102 • 💬 21 • ⏱️ 15:23 • 7h ago
-
----
-
-**[We Just Hosted Europe’s Greatest Robotics Meetup](https://www.youtube.com/watch?v=wBTZH-8Y9Iw)**
-
-Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 friends together. 500 people applied once we put a ...
-
-📺 Andreas Klinger @ PROTOTYPE
-
-👁️ 3K • 👍 323 • 💬 53 • ⏱️ 10:49 • 6h ago
+👁️ 2K • 👍 119 • 💬 25 • ⏱️ 15:23 • 10h ago
 
 ---
 
@@ -230,7 +212,7 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 29K • 👍 693 • 💬 27 • ⏱️ 10:21 • 2d ago
+👁️ 30K • 👍 713 • 💬 28 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -240,17 +222,27 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 6K • 👍 161 • 💬 36 • ⏱️ 5:11 • 12h ago
+👁️ 7K • 👍 186 • 💬 38 • ⏱️ 5:11 • 15h ago
 
 ---
 
-**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
 
-The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
 
-📺 AI News
+📺 ESPN
 
-👁️ 11K • 👍 211 • 💬 38 • ⏱️ 8:02 • 6d ago
+👁️ 278K • 👍 5K • 💬 534 • ⏱️ 4:57 • 3d ago
+
+---
+
+**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+
+The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+
+📺 PREDATOR WR
+
+👁️ 6K • 👍 276 • 💬 81 • ⏱️ 13:36 • 8h ago
 
 ---
 
@@ -264,13 +256,13 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 ---
 
-**[Potential dangers of humanoid robots](https://www.youtube.com/watch?v=01ZSOp4yYAE)**
+**[We Just Hosted Europe’s Greatest Robotics Meetup](https://www.youtube.com/watch?v=wBTZH-8Y9Iw)**
 
-Humanoid robots are devices that could be used to improve our daily lives. But could they also be used for surveillance?
+Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 friends together. 500 people applied once we put a ...
 
-📺 ABC News
+📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 90K • 👍 1K • 💬 396 • ⏱️ 5:15 • 6d ago
+👁️ 5K • 👍 413 • 💬 59 • ⏱️ 10:49 • 9h ago
 
 ---
 
@@ -280,17 +272,27 @@ Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies tra
 
 📺 Duke Engineering
 
-👁️ 14K • 👍 2K • 💬 85 • ⏱️ 1:50 • 1d ago
+👁️ 15K • 👍 2K • 💬 87 • ⏱️ 1:50 • 1d ago
 
 ---
 
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
+**[You Won&#39;t Believe What They Invented 1,400 Years](https://www.youtube.com/watch?v=LBZPYMF1zw0)**
 
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
+Think modern technology started in Silicon Valley? Think again. 1400 years ago, during the dawn of the Islamic Golden Age, ...
 
-📺 ESPN
+📺 Tek Zaman
 
-👁️ 276K • 👍 5K • 💬 531 • ⏱️ 4:57 • 3d ago
+👁️ 413 • 👍 24 • ⏱️ 1:43 • 1h ago
+
+---
+
+**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
+
+The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
+
+📺 AI News
+
+👁️ 11K • 👍 211 • 💬 38 • ⏱️ 8:02 • 6d ago
 
 ---
 
