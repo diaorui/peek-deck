@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-29T20:26:36.808174+00:00'
+updated: '2026-05-29T22:12:58.033017+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 29, 2026 at 20:26 UTC  
+**Last Updated:** May 29, 2026 at 22:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
 
-6h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-16m ago
+2h ago
 
 ---
 
@@ -60,13 +60,13 @@ Just wanted to share my progress on building a loop for collect data->train->dep
 
 This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help from 20SSFactory’s initial robot design. #Team9541
 
-20h ago
+22h ago
 
 ---
 
 **[This robot eats your Money](https://www.reddit.com/r/robotics/comments/1tqqy34/this_robot_eats_your_money/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help fr
 
 A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 14h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 16h ago
 
 ---
 
@@ -82,7 +82,7 @@ A San Francisco suit alleges Bot Company staff secretly tested prototype househo
 
 Serve Robotics CEO Ali Kashani told a story about someone claiming one of the company’s delivery robots broke their guitar. The team checked the robot’s video. It showed the person trying to kick the robot. The guitar hit the robot’s back wheel and broke. Serve replaced the guitar anyway because the person said they needed it for work. Ali explains how sidewalk delivery puts robots in the middle of everyday public behavior. People stop, film, help, block, complain, or mess with the robot. Some reactions are harmless. Some are not. For delivery robots, the street is not a clean test course. It is a shared space with all the normal weirdness of people moving through a city.
 
-5h ago
+7h ago
 
 ---
 
@@ -98,13 +98,13 @@ From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/205962064081
 
 ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next Monday! Myself and @mrpollo will be there and we’ve got a ROS Meetup scheduled for Tuesday night (June 2nd) and a PX4 / Dronecode Social planned for Thursday night (June 4th). I’ll be handing out Lyrical stickers and if you want to set up a time to chat just DM me on Discourse. We’ve also got an open thread for organizing smaller-scale meetings and paper / presentation shout outs.       Phase 1 of the Intrinsic AI for...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 8h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 10h ago
 
 ---
 
 **[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -116,15 +116,15 @@ ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next M
 
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
-BBC • 20h ago
+BBC • 22h ago
 
 ---
 
-**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
+**[Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of](https://finance.yahoo.com/markets/options/articles/three-humanoid-robotics-etfs-built-170504460.html)**
 
-Will humanoids redefine how battles are fought and won?
+Humanoid robotics moved from concept videos to factory floors over the past 18 months, and three ETFs now offer materially different ways to play it: Themes Humanoid Robotics ETF (NASDAQ:BOTT), ROBO Global Robotics and Automation Index ETF (NYSEARCA:ROBO), and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ). Each captures the theme from a different ... Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of
 
-Popular Mechanics • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -132,7 +132,7 @@ Popular Mechanics • 1d ago
 
 Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
 
-Fox News • 8h ago
+Fox News • 10h ago
 
 ---
 
@@ -140,15 +140,7 @@ Fox News • 8h ago
 
 The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
 
-AP News • 12h ago
-
----
-
-**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
-
-Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
-
-The Frederick News-Post • 10h ago
+AP News • 14h ago
 
 ---
 
@@ -156,7 +148,7 @@ The Frederick News-Post • 10h ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 5h ago
+ZME Science • 7h ago
 
 ---
 
@@ -168,11 +160,9 @@ AP News • 2d ago
 
 ---
 
-**[20 legs enables all-direction motion freedom to Argus robot](https://interestingengineering.com/ai-robotics/new-20-legged-argus-robot-redefines-robotics-with-directionless-movement-design)**
+**[It looks like a sea urchin, but this strange 20-legged machine is rewriting what robots can do](https://techxplore.com/news/2026-05-sea-urchin-strange-legged-machine.html)**
 
-US researchers build Argus, a 20-legged robot with uniform motion in all directions for extreme terrain adaptability.
-
-Interesting Engineering • 2d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -184,11 +174,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
+**[Elbit subsidiary FUSE acquires AI robotics firm Bluewhite](https://www.jpost.com/defense-and-tech/article-897651)**
 
-Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
+'Autonomy and robotics are reshaping how defense forces operate today' - Eyal Dahan, CEO of FUSE, an Elbit Systems subsidiary.
 
-NVIDIA Blog • 1d ago
+The Jerusalem Post • 1d ago
+
+---
+
+**[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
+
+Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
+
+Rice University • 1d ago
 
 ---
 
@@ -202,7 +200,7 @@ In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.gam
 
 📺 Wolfblood7
 
-👁️ 2K • 👍 119 • 💬 25 • ⏱️ 15:23 • 10h ago
+👁️ 2K • 👍 119 • 💬 25 • ⏱️ 15:23 • 12h ago
 
 ---
 
@@ -222,7 +220,7 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 7K • 👍 186 • 💬 38 • ⏱️ 5:11 • 15h ago
+👁️ 7K • 👍 186 • 💬 38 • ⏱️ 5:11 • 17h ago
 
 ---
 
@@ -242,7 +240,7 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 276 • 💬 81 • ⏱️ 13:36 • 8h ago
+👁️ 6K • 👍 276 • 💬 81 • ⏱️ 13:36 • 10h ago
 
 ---
 
@@ -262,7 +260,7 @@ Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 frien
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 5K • 👍 413 • 💬 59 • ⏱️ 10:49 • 9h ago
+👁️ 5K • 👍 413 • 💬 59 • ⏱️ 10:49 • 11h ago
 
 ---
 
@@ -282,7 +280,7 @@ Think modern technology started in Silicon Valley? Think again. 1400 years ago, 
 
 📺 Tek Zaman
 
-👁️ 413 • 👍 24 • ⏱️ 1:43 • 1h ago
+👁️ 413 • 👍 24 • ⏱️ 1:43 • 3h ago
 
 ---
 

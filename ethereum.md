@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-29T20:26:36.805347+00:00'
+updated: '2026-05-29T22:12:58.030206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 29, 2026 at 20:26 UTC  
+**Last Updated:** May 29, 2026 at 22:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -4.6%  
-**30d:** -10.5%  
-**90d:** +4.3%  
-**1y:** -20.1%  
+**24h:** -0.1%  
+**7d:** -5.3%  
+**30d:** -11.1%  
+**90d:** +3.6%  
+**1y:** -20.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency-140600011.html Paxos currently supports PayPal’s stablecoin and tokenized gold mostly on ETH, but this will allow them to bring equities onto eth This is major bullish news
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+17h ago
 
 ---
 
@@ -88,15 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with multiproofs, FTSE Russell US indexes: Bitmine & Sharplink to join
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 6h ago
-
----
-
-**[QUIERO COMPRAR ETHEREUM PAGO](https://www.reddit.com/r/ethereum/comments/1trebex/quiero_comprar_ethereum_pago/)**
-
-YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
-
-9m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 8h ago
 
 ---
 
@@ -105,6 +97,14 @@ YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST W
 gmgm. already shared with the r/ethdev community. but this was something that i made for "normies" like myself. so i think it deserves a post here as well. you all know the pain, RPC errors, tx reverts and etherscan not showing why, extremely vague explanations from the stuff we use daily for something that actually has a better explanation. first, i thought of just whining about this on twitter. instead, i decided to take the matter to hands, and started building the thing. the fact is, almost all the errors are actually catalogued, not all of them, there are still some execution context reliant errors which tenderly is way better at explaining. but have you ever tried using tenderly and tried to make sense of that tx graph? it's a puzzle. and a pleb like myself does not need that puzzle, probably neither you. eventually, i asked codex to build the thing as a small product. and in a few days, we generated a catalog of about 25k errors and error codes with their explanations and possible actions to take if it happens. now it lives on https://revert.wtf. and it is also entirely open source on github https://github.com/mrtdlgc/revertwtf with its npm packages, agent skills, mcp servers and what not. i am hosting the thing myself, the api is also available, it's pretty permissive in terms of rate limits. feel free to use it, spread the word if you think it's useful, contribute to the repo if you think it should cover more platforms/protocols.
 
 1d ago
+
+---
+
+**[QUIERO COMPRAR ETHEREUM PAGO](https://www.reddit.com/r/ethereum/comments/1trebex/quiero_comprar_ethereum_pago/)**
+
+YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
+
+1h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In this thread posted by the Everstake team they raise the point that "Past a certain staking ratio, more ETH being staked does not actually make the network more secure. But it keeps increasing gross issuance. And if a small number of large providers end up dominating the validator set, the slashing mechanism that enforces Ethereum's security becomes effectively unusable. A provider controlling enough stake becomes too big to slash without causing systemic damage to the whole network." Further posts in the thread say three camps have formed with differing opinions on this staking related issue, without being able to come to a consensus on a fix. Thoughts? https://preview.redd.it/2u02fc0hky3h1.png?width=1113&format=png&auto=webp&s=a448979c219e1967659e4b88fe37ec226ce5b7ce
 
-21h ago
+23h ago
 
 ---
 
@@ -158,43 +158,35 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Price to $40,000 By 2030, Says Standard Chartered — Is It Likely?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-40-000-2030-123215757.html)**
+**[Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance](https://decrypt.co/369305/standard-chartered-reaffirms-40k-ethereum-price-target-defi-dominance)**
 
-Ethereum's price fell below $2,000 for the first time since March 29. Santiment warned that retail “buy the dip” optimism may be a bearish contrarian ...
+Standard Chartered analysts argued in a note that Ethereum’s current price doesn’t reflect its network's improving metrics.
 
-Yahoo Finance • 7h ago
+Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, May 29, 2026: Prices open lower, despite news of U.S.-Iran truce](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-29-2026-prices-open-lower-despite-news-of-us-iran-truce-115046286.html)**
+**[Ethereum’s Price Breaks Down Below $2,000](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-breaks-down-below-133100386.html)**
 
-Bitcoin opened at $73,525.74 on Friday, May 29, 2026, down 1.1% from Thursday’s open. The value of bitcoin fell further to $73,381.81 by 7:42 a.m ET. Ethereum opened at $2,006.97 on Friday, down 0.7% from Thursday’s open. The value of ethereum ticked lower to $2,003.66 as of 7:42 a.m. ET.
+The price of Ethereum (CRYPTO: $ETH) has broken down and fallen below $2,000 U.S. as cryptocurrencies continue to d...
 
 Yahoo Finance • 8h ago
 
 ---
 
-**[Crypto Faces Nearly $1 Billion In Liquidations As Bitcoin, Ethereum Crash](https://www.tradingview.com/news/newsbtc:9b2f16166094b:0-crypto-faces-nearly-1-billion-in-liquidations-as-bitcoin-ethereum-crash/)**
+**[Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics](https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up)**
 
-Data shows the crypto derivatives market has suffered a massive amount of liquidations following the plunge that Bitcoin, Ethereum, and other assets have seen.Bitcoin & Ethereum Are Both Down More Than 5% For The Past WeekThe second half of May so far has seen a reversal of trend for the cryptocurr…
+Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
 
-TradingView • 15h ago
-
----
-
-**[These 2 Bullish Signs for Ethereum Could Actually Be a Sell Signal](https://www.fool.com/investing/2026/05/29/these-2-bullish-signs-for-ethereum-could-actually/)**
-
-Every performance metric needs to be evaluated in its proper and full context.
-
-The Motley Fool • 7h ago
+The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin warns Ethereum ecosystem against OpenAI’s path in EthCC speech](https://cryptobriefing.com/vitalik-buterin-ethereum-openai-ethcc-warning/)**
+**[Could Hyperliquid Be the Next Ethereum?](https://www.fool.com/investing/2026/05/29/could-hyperliquid-be-the-next-ethereum/)**
 
-Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
+This emerging network is shaping up to be a powerhouse.
 
-Crypto Briefing • 39m ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -202,29 +194,35 @@ Crypto Briefing • 39m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
-**[Ethereum Price Falls Below $2,000 as Tom Lee’s ‘Supercycle’ Call Faces Scrutiny](https://www.ccn.com/news/crypto/ethereum-price-falls-below-2000-tom-lee-supercycle/)**
+**[Vitalik Buterin warns Ethereum ecosystem against OpenAI’s path in EthCC speech](https://cryptobriefing.com/vitalik-buterin-ethereum-openai-ethcc-warning/)**
 
-CCN.com • 1d ago
+Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
----
-
-**[Crypto Traders Brace For Triple Macro Threat: PCE, Jobless Claims And GDP Revision](https://stocktwits.com/news-articles/markets/cryptocurrency/crypto-market-crash-ethereum-bitcoin-pce-report-inflation-data/cZgiWxqResS)**
-
-Ethereum (ETH) led losses, underperforming cryptocurrency majors, amid the selloff on Thursday morning with personal consumption expenditure (PCE) data, initial jobless claims, and gross domestic product (GDP) numbers expected later in the day.
-
-Stocktwits • 1d ago
+Crypto Briefing • 2h ago
 
 ---
 
-**[Bit Digital Expands Digital Treasury with Massive $20 Million Ethereum Allocation](https://financefeeds.com/bit-digital-expands-digital-treasury-with-massive-20-million-ethereum-allocation/)**
+**[SOFI Stock Gains After SoFiUSD Stablecoin Rollout On Ethereum, Solana – ‘This Is What GENIUS Enabled,’ Says Crypto Council CEO](https://www.tradingview.com/news/stocktwits:ec2a1508e094b:0-sofi-stock-gains-after-sofiusd-stablecoin-rollout-on-ethereum-solana-this-is-what-genius-enabled-says-crypto-council-ceo/)**
 
-The corporate treasury blueprint governing public digital asset enterprises has recorded a major contrarian milestone following a significant balance sheet
+Shares of SoFi Technologies (SOFI) edged higher on Wednesday morning after the company launched SoFiUSD (SoFiD), which it said is the first stablecoin issued by a U.S. national bank.SOFI’s stock gained over 2% at market open. Retail sentiment around the fintech players on Stocktwits rose to ‘neutra…
 
-FinanceFeeds • 12h ago
+TradingView • 2d ago
+
+---
+
+**[Can ethereum reclaim 2021 highs versus bitcoin?](https://www.investing.com/news/cryptocurrency-news/can-ethereum-reclaim-2021-highs-versus-bitcoin-4714837)**
+
+Investing.com • 1d ago
+
+---
+
+**[Standard Chartered resets Ethereum prediction for the rest of 2026](https://www.thestreet.com/crypto/markets/standard-chartered-resets-ethereum-prediction-for-the-rest-of-2026)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 455 • 👍 40 • 💬 26 • ⏱️ 20:38 • 3h ago
+👁️ 455 • 👍 40 • 💬 26 • ⏱️ 20:38 • 5h ago
 
 ---
 
@@ -258,7 +256,7 @@ The Crypto Market Is Breaking Down.. (Look What I Discovered) ⭐ Follow Altcoin
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 134 • ⏱️ 10:32 • 21h ago
+👁️ 32K • 👍 2K • 💬 134 • ⏱️ 10:32 • 23h ago
 
 ---
 
@@ -268,7 +266,7 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 444 • 👍 84 • 💬 17 • ⏱️ 7:41 • 3h ago
+👁️ 444 • 👍 84 • 💬 17 • ⏱️ 7:41 • 5h ago
 
 ---
 
@@ -278,7 +276,7 @@ Tangem 50% off your 2nd Tangem Card Set ➡ Until 25 May 20026 Tangem 20% off + 
 
 📺 Your Crypto Crew
 
-👁️ 464 • 👍 51 • 💬 5 • ⏱️ 10:05 • 7h ago
+👁️ 464 • 👍 51 • 💬 5 • ⏱️ 10:05 • 9h ago
 
 ---
 
@@ -308,7 +306,7 @@ OUR MEMORIAL DAY $800 OFF INDICATOR SALE IS LIVE!: https://tradeconfidentportal.
 
 📺 Trade Confident
 
-👁️ 74 • 👍 8 • 💬 1 • ⏱️ 5:18 • 1h ago
+👁️ 74 • 👍 8 • 💬 1 • ⏱️ 5:18 • 3h ago
 
 ---
 
@@ -318,7 +316,7 @@ Join Discord Group https://whop.com/checkout/plan_o6uAeTDACHSyE X https://twitte
 
 📺 Pain of Crypto
 
-👁️ 3K • 👍 127 • 💬 13 • ⏱️ 7:28 • 2d ago
+👁️ 3K • 👍 127 • 💬 13 • ⏱️ 7:28 • 3d ago
 
 ---
 

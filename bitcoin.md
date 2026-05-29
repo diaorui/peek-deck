@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-29T20:26:36.800177+00:00'
+updated: '2026-05-29T22:12:58.024868+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 29, 2026 at 20:26 UTC  
+**Last Updated:** May 29, 2026 at 22:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,683.34
+### $73,465.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -4.0%  
-**30d:** -3.4%  
-**90d:** +12.2%  
-**1y:** -29.2%  
+**24h:** -0.3%  
+**7d:** -4.4%  
+**30d:** -3.8%  
+**90d:** +11.7%  
+**1y:** -29.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Texas has appointed a five-member advisory committee to oversee its Strategic Bitcoin Reserve as the state prepares to transition from ETF exposure to directly custodied bitcoin.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 5h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Texas has appointed a five-member advisory committee to oversee its Strategic Bi
 
 When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just another bear market. I mean finished. Regulation, contagion, trust destroyed. I sold most of my position somewhere around $16k telling myself I was being rational. Six months later I was buying back above $25k. The thing that bothers me most isn't the money. It's that I'd already lived through 2018. I knew what capitulation felt like. I'd read everything about not timing the market, about conviction, about long-term thinking. And when the moment came, none of it mattered. The fear was louder. What I've accepted since then is that understanding Bitcoin intellectually and actually holding through chaos are two completely different skills. One you develop reading. The other you only develop by getting it wrong a few times. I'm not sure conviction is something you build in advance. I think you find out if you have it when the moment is bad enough.Anyone else discover that knowing what to do and actually doing it are completely different things? Did the second cycle feel any easier?
 
-2h ago
+4h ago
 
 ---
 
@@ -97,15 +97,7 @@ When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just anot
 
 A lot of people assume self-custody means making everything way more complicated. But honestly, once you use COLDCARD, you realize a secure setup can still be pretty straightforward. It meets Bitcoiners wherever they’re at, whether you just want to safely hodl long term or you’re into using multisig, and advanced setups. Feels like the “secure vs easy” tradeoff isn’t necessary.
 
-8h ago
-
----
-
-**[Bitcoin is the Honey Badger](https://www.reddit.com/r/Bitcoin/comments/1trcdzo/bitcoin_is_the_honey_badger/)**
-
-https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
-
-1h ago
+9h ago
 
 ---
 
@@ -113,15 +105,15 @@ https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
 
 Not sure which one I’d rather own. They both come with advantages and disadvantages.
 
-5h ago
+7h ago
 
 ---
 
-**[Collision Protocol: 1000 BTC Challenge Pool (#135, 13.5 BTC)](https://www.reddit.com/r/Bitcoin/comments/1tr2yh1/collision_protocol_1000_btc_challenge_pool_135/)**
+**[Bitcoin is the Honey Badger](https://www.reddit.com/r/Bitcoin/comments/1trcdzo/bitcoin_is_the_honey_badger/)**
 
-Quick background if you have not run into it: the 1000 BTC Challenge is an on-chain puzzle from 2015. Someone funded 160 addresses whose private keys sit in deliberately increasing ranges (key N is between 2N-1 and 2N), and in 2023 the prizes were bumped 10x. The low ones have been picked off over the years; the unsolved ones still hold real coins. #135 is the current target and holds 13.5 BTC. Tracker: https://privatekeys.pw/puzzles/bitcoin-puzzle-tx Collision Protocol is a distributed Pollard's Kangaroo pool that points a fleet of GPUs at one unsolved key at a time. It's on #135 right now and stays on it until it's solved. When that happens the pool doesn't stop: it automatically rolls the whole fleet to the next key most likely to fall (the lowest unsolved range whose public key is exposed, which is what Kangaroo needs). Nothing for you to reconfigure, your worker just follows the pool. Each worker only runs one side of the walk, tame or wild, and sends its distinguished points (DPs) to the server. That split is the anti-cheat: no single machine ever has both halves, so nobody can quietly hit the collision, recover the key, and sweep the coins before the pool does. The upside for you is the payout. Since the solve can only land at the pool, every DP you commit counts toward your share. If the pool cracks the key, the prize is split by contribution: a 5% pool fee, and everything left over distributed in proportion to the verified DPs each worker submitted. Rough scale: RCKangaroo's own estimate for a 2134 range is 1.15 * 267 operations, which at dp_bits 28 is about 6 * 1011 DPs to expect a solve. That is an expectation: a real solve can land anywhere from about half to double that, and DP/GPU overhead pushes the true count up somewhat. Expected time against the pool's aggregate rate: pool DP/s expected solve time, #135 100 ~200 years 1,000 ~20 years 10,000 ~2 years 100,000 ~2.5 months 1,000,000 ~7 days We are at single digits per second today on a couple of test rigs, and the bottom rows of that table are a serious amount of hardware, so this is mostly a question of how many GPUs show up. Rate scales linearly with workers. Open to testers who get that it's early and rough in places, and who will open a GitHub issue when something breaks instead of just walking away. Mainly after Linux and Apple Silicon right now. Client (collider) is open, GPLv3, built on JeanLucPons' RCKangaroo: https://github.com/hevnsnt/collider Issues: https://github.com/hevnsnt/collider/issues Live coverage/stats: https://collisionprotocol.com/pool collider --pool pool.collisionprotocol.com:17403 --worker <btc-payout-address> Worker name is the payout address (So get it right!). The pool tells the client which target, range, and DP size to work, so the same client follows whatever key is active. CUDA on Win/Linux, Metal on Apple Silicon, CPU fallback. What's useful to report: whether it builds and runs on your platform, the rates you get, and anything that breaks or drops the connection. Source is there if you want to pull it apart. collider-pro is a separate paid build for solo and brainwallet work. Not needed for the pool.
+https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
 
-6h ago
+3h ago
 
 ---
 
@@ -129,7 +121,23 @@ Quick background if you have not run into it: the 1000 BTC Challenge is an on-ch
 
 Yesterday's institutional outflow data showed BlackRock's IBIT shedding roughly 2,424 BTC (around $178M). Most mainstream headlines are immediately reading this as a bearish signal, but digging into the raw numbers tells a completely different story. ​Context matters, and BlackRock’s total Bitcoin exposure is still absolutely massive: ​IBIT still holds roughly 792,000 BTC (valued at over $57B). ​The amount sold yesterday represents a mere 0.3% of their total Bitcoin holdings. ​This doesn’t look like a conviction exit or institutional capitulation at all. It looks closer to routine, microscopic portfolio rebalancing or short-term de-risking during broader macro volatility. ​Furthermore, when you look at how BlackRock manages its digital asset products, they maintain a clear divide. While liquidity is occasionally shuffled in alternative crypto products and risk-on tech assets, their core Bitcoin thesis remains incredibly sticky. The institutional giant hasn't even scratched the surface of its primary BTC reserves. ​It feels like the broader market saw a "millions sold" headline and completely ignored the scale of the actual positions. A 0.3% fluctuation is noise, not a trend shift. ​Do you see this as meaningful institutional de-risking, or is it mostly routine portfolio management that the retail market is completely overreacting to
 
-5h ago
+6h ago
+
+---
+
+**[Collision Protocol: 1000 BTC Challenge Pool (#135, 13.5 BTC)](https://www.reddit.com/r/Bitcoin/comments/1tr2yh1/collision_protocol_1000_btc_challenge_pool_135/)**
+
+Quick background if you have not run into it: the 1000 BTC Challenge is an on-chain puzzle from 2015. Someone funded 160 addresses whose private keys sit in deliberately increasing ranges (key N is between 2N-1 and 2N), and in 2023 the prizes were bumped 10x. The low ones have been picked off over the years; the unsolved ones still hold real coins. #135 is the current target and holds 13.5 BTC. Tracker: https://privatekeys.pw/puzzles/bitcoin-puzzle-tx Collision Protocol is a distributed Pollard's Kangaroo pool that points a fleet of GPUs at one unsolved key at a time. It's on #135 right now and stays on it until it's solved. When that happens the pool doesn't stop: it automatically rolls the whole fleet to the next key most likely to fall (the lowest unsolved range whose public key is exposed, which is what Kangaroo needs). Nothing for you to reconfigure, your worker just follows the pool. Each worker only runs one side of the walk, tame or wild, and sends its distinguished points (DPs) to the server. That split is the anti-cheat: no single machine ever has both halves, so nobody can quietly hit the collision, recover the key, and sweep the coins before the pool does. The upside for you is the payout. Since the solve can only land at the pool, every DP you commit counts toward your share. If the pool cracks the key, the prize is split by contribution: a 5% pool fee, and everything left over distributed in proportion to the verified DPs each worker submitted. Rough scale: RCKangaroo's own estimate for a 2134 range is 1.15 * 267 operations, which at dp_bits 28 is about 6 * 1011 DPs to expect a solve. That is an expectation: a real solve can land anywhere from about half to double that, and DP/GPU overhead pushes the true count up somewhat. Expected time against the pool's aggregate rate: pool DP/s expected solve time, #135 100 ~200 years 1,000 ~20 years 10,000 ~2 years 100,000 ~2.5 months 1,000,000 ~7 days We are at single digits per second today on a couple of test rigs, and the bottom rows of that table are a serious amount of hardware, so this is mostly a question of how many GPUs show up. Rate scales linearly with workers. Open to testers who get that it's early and rough in places, and who will open a GitHub issue when something breaks instead of just walking away. Mainly after Linux and Apple Silicon right now. Client (collider) is open, GPLv3, built on JeanLucPons' RCKangaroo: https://github.com/hevnsnt/collider Issues: https://github.com/hevnsnt/collider/issues Live coverage/stats: https://collisionprotocol.com/pool collider --pool pool.collisionprotocol.com:17403 --worker <btc-payout-address> Worker name is the payout address (So get it right!). The pool tells the client which target, range, and DP size to work, so the same client follows whatever key is active. CUDA on Win/Linux, Metal on Apple Silicon, CPU fallback. What's useful to report: whether it builds and runs on your platform, the rates you get, and anything that breaks or drops the connection. Source is there if you want to pull it apart. collider-pro is a separate paid build for solo and brainwallet work. Not needed for the pool.
+
+8h ago
+
+---
+
+**[Doubting about my plan](https://www.reddit.com/r/Bitcoin/comments/1trer6j/doubting_about_my_plan/)**
+
+I bought a large lump sum of IBIT in a registered account because I wanted Bitcoin exposure with tax advantages. I now realize there are trade-offs: I don’t hold the underlying asset directly, there are management fees, and I ended up buying near a market peak. With the subsequent drawdown, roughly 25%–30% of my portfolio is now exposed to Bitcoin through an ETF. This would likely drift closer to ~15%–20% in a deeper correction unless I continue adding. To manage this, I started DCAing into ETFs in January (~$2k/month). My original plan was: Continue DCA until the next Bitcoin halving (expected ~April 2028) or until BTC returns to ~$100k Hold through the post-halving cycle and potentially sell ~16–18 months after the halving (around late 2029) (reversed DCA) After BTC reaches $100k, redirect new contributions ($2k/month) into diversified equity ETFs (e.g., S&P 500 or similar) Buying back by DCAing the amount i sold during next bear market. Now I’m questioning the structure of this approach. Main concerns: I’m using IBIT instead of holding Bitcoin directly From a long-term risk-adjusted perspective, broad equity ETFs may be more efficient (which I already hold) At this point, I’m unsure whether I should: Stick to the current cycle-based allocation plan in ETF Shift toward diversified ETFs instead Or simplify everything into a long-term buy-and-hold approach across both assets without timing cycles... My intent with this structure was to build a long-term strategy: DCA during bear phases, rotate contributions into equities during expansions, and potentially realize gains ~16–18 months after halvings, then take the lump sum to DCA again in the next bear + my savings until I maxed out my registrated account. repeating the cycle over time until retirement... Does it make sense or am I absolutely nuts? I got no one to talk about this. My friends think I'm nuts which I probably am.
+
+1h ago
 
 ---
 
@@ -137,7 +145,7 @@ Yesterday's institutional outflow data showed BlackRock's IBIT shedding roughly 
 
 A pseudonymous claimant, “Noah Doe,” alongside two Wyoming LLCs, has filed a lawsuit in New York Supreme Court seeking recognition as the rightful owner of 39,069 dormant Bitcoin addresses containing roughly 3.8 million BTC—valued at about $293 billion.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin) • 23h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin) • 1d ago
 
 ---
 
@@ -145,15 +153,7 @@ A pseudonymous claimant, “Noah Doe,” alongside two Wyoming LLCs, has filed a
 
 I know we're still in the bear market, but timewise this is quite an unexpected dump in the last days, right? 12% in the last 2 weeks. No real macro indicators, positive news on war, stocks are flying worldwide. Is everyone fleeing into stocks? BTC too risky all of a sudden?
 
-5h ago
-
----
-
-**[Best crypto card in 2026 for actually using my holdings?](https://www.reddit.com/r/Bitcoin/comments/1tqtgz7/best_crypto_card_in_2026_for_actually_using_my/)**
-
-I’ve been holding crypto since 2021, mostly BTC, but honestly I’m getting tired of just letting it sit there. Every time I want to actually use it, it feels like a whole process. Move funds to an exchange, convert to fiat, deal with fees, wait for withdrawals, then finally spend it. At that point it barely feels convenient anymore. I’m starting to look into crypto cards because some of them now claim you can spend BTC directly at normal merchants. Some even say you can connect an external wallet and use it anywhere Visa or Mastercard is accepted, which sounds good if the fees aren’t terrible.
-
-13h ago
+7h ago
 
 ---
 
@@ -165,7 +165,7 @@ I’ve been holding crypto since 2021, mostly BTC, but honestly I’m getting ti
 
 Robinhood's AI-agent rollout is giving investors a new reason to buy the stock — and crypto is not part of it.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 2h ago
 
 Even if you’ve never bought any cryptocurrency, like columnist Karmela Padavic-Callaghan, your money may be affected by bitcoin’s fate – which is uncertain, as quantum computing advances are threatening to make the encryption protecting it useless
 
-New Scientist • 12h ago
+New Scientist • 14h ago
 
 ---
 
@@ -181,7 +181,15 @@ New Scientist • 12h ago
 
 A hopeful posting on Iran from President Trump helped erase morning losses.
 
-CoinDesk • 4h ago
+CoinDesk • 58m ago
+
+---
+
+**[Morgan Stanley discloses Bitcoin, XRP, SOL holdings](https://au.finance.yahoo.com/news/morgan-stanley-discloses-bitcoin-xrp-210000509.html)**
+
+Morgan Stanley (NYSE: MS) disclosed major crypto-related holding in its SEC 13F filing for Q1 2026. It revealed exposure to Bitcoin (BTC), Solana (SOL), XRP and other digital asset-linked equities. The filing shows the Wall Street giant significantly increased its institutional crypto ...
+
+Yahoo Finance Australia • 1h ago
 
 ---
 
@@ -189,7 +197,7 @@ CoinDesk • 4h ago
 
 Investors pulled money from US spot-Bitcoin exchange-traded funds for a ninth straight session, the longest run of withdrawals since the products debuted, underscoring a cooling in demand for the largest cryptocurrency even as broader risk assets rally.
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -201,7 +209,7 @@ Barron's • 1d ago
 
 **[Bitcoin Slumps, But Strategy Isn't Buying. Here's Why.](https://www.investors.com/news/bitcoin-price-slumps-strategy-buying-power-strc-mstr-stock/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -221,19 +229,11 @@ The Block • 1d ago
 
 ---
 
-**[HIVE Digital Technologies: From Bitcoin Miner To AI Infrastructure (NASDAQ:HIVE)](https://seekingalpha.com/article/4909938-hive-digital-technologies-from-bitcoin-miner-to-ai-infrastructure)**
+**[Is Bitcoin Dead? Here Are 3 Reasons It Might Be.](https://www.fool.com/investing/2026/05/29/is-bitcoin-dead-here-are-3-reasons-why-it-might-be/)**
 
-HIVE Digital Technologies is rapidly transitioning from a renewable bitcoin miner to an AI infrastructure leader. Read more on HIVE stock here.
+Is this the end of the show for Bitcoin, or just an awkward intermission between acts?
 
-Seeking Alpha • 12h ago
-
----
-
-**[‘They’re Going To Print An Insane Amount’—U.S. Dollar Collapse Predicted To Spark A $1 Million Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2026/05/29/theyre-going-to-print-an-insane-amount-us-dollar-collapse-predicted-to-spark-a-1-million-bitcoin-price-boom/)**
-
-A closely-watched bitcoin bull has outlined how U.S. dollar debasement could power a bitcoin price surge to $1 million...
-
-Forbes • 7h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -267,7 +267,7 @@ The bill would effectively turn miners into their own surveillance teams, collec
 
 **[Why Would Someone Publicly Burn $8M Worth of Bitcoin?](https://news.ycombinator.com/item?id=48321858)**
 
-⬆️ 3 • 💬 0 • 8h ago • [gizmodo.com](https://gizmodo.com/why-would-someone-publicly-burn-8-million-worth-of-bitcoin-theories-are-flying-2000764705)
+⬆️ 3 • 💬 0 • 10h ago • [gizmodo.com](https://gizmodo.com/why-would-someone-publicly-burn-8-million-worth-of-bitcoin-theories-are-flying-2000764705)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asse
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 397 • ⏱️ 15:50 • 23h ago
+👁️ 37K • 👍 2K • 💬 397 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 734 • 💬 139 • ⏱️ 55:21 • 5h ago
+👁️ 12K • 👍 734 • 💬 139 • ⏱️ 55:21 • 7h ago
 
 ---
 
@@ -363,7 +363,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 2K • 👍 32 • 💬 2 • ⏱️ 0:54 • 7h ago
+👁️ 2K • 👍 32 • 💬 2 • ⏱️ 0:54 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ Jan van Eck is the CEO of VanEck, a $200 billion asset manager and one of the le
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 1K • 💬 40 • ⏱️ 59:08 • 1d ago
+👁️ 28K • 👍 1K • 💬 40 • ⏱️ 59:08 • 2d ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin #Crypto #Finance Bitcoin just cratered to a six week low below $73000 as
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 815 • 💬 191 • ⏱️ 22:33 • 6h ago
+👁️ 10K • 👍 815 • 💬 191 • ⏱️ 22:33 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ Comfortable crypto trading with Bybit: https://partner.bybit.com/b/youtbtu =====
 
 📺 TU Crypto News
 
-👁️ 543 • 👍 2 • ⏱️ 0:30 • 5h ago
+👁️ 543 • 👍 2 • ⏱️ 0:30 • 7h ago
 
 ---
 
